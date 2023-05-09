@@ -66,6 +66,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Doctors are using AI to draft messages without telling patients"
+    excerpt: "US healthcare organisations are trialling OpenAI’s GPT-3 for drafting clinician messages to patients. But not all patients are being informed and some AI researchers warn of errors creeping in"
+    publishedDateTime: 2023-05-09T05:00:00Z
+    webUrl: "https://www.newscientist.com/article/2372025-doctors-are-using-ai-to-draft-messages-without-telling-patients/"
+    type: article
+    provider:
+      name: New Scientist
+      domain: newscientist.com
+    quality: 37
+    images:
+      - url: "https://images.newscientist.com/wp-content/uploads/2023/05/05201935/SEI_154719026.jpg"
+        width: 1350
+        height: 900
+        isCached: true
   - title: "How artificial intelligence may change health care"
     excerpt: "Officials believe convicted rapist, Jesse McFadden, murdered six people and then killed himself."
     publishedDateTime: 2023-05-05T21:40:00Z

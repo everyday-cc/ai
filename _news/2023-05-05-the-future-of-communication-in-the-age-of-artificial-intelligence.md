@@ -46,20 +46,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "The Future of Artificial intelligence in India"
-    excerpt: "The global artificial intelligence market is expanding due to the need for intelligent systems to increase productivity and efficiency in various sectors, including IT and telecommunications, retail and e-commerce, BFSI, healthcare, manufacturing ..."
-    publishedDateTime: 2023-05-04T11:18:00Z
-    webUrl: "https://www.siliconindia.com/news/general/the-future-of-artificial-intelligence-in-india-nid-222744-cid-1.html"
-    type: article
-    provider:
-      name: SiliconIndia
-      domain: siliconindia.com
-    quality: 39
-    images:
-      - url: "https://www.siliconindia.com/news/newsimages/3qXfVidn.jpg"
-        width: 570
-        height: 367
-        isCached: true
   - title: "5 Ways Artificial Intelligence is Changing The Future Of Business"
     excerpt: "Tech - Artificial intelligence (AI) has been a game-changer in countless ways across the world. Companies and businesses are able to use enhanced AI systems to"
     publishedDateTime: 2023-05-07T14:39:00Z

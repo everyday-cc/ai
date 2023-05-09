@@ -9,7 +9,7 @@ ampWebUrl: "https://phys.org/news/2023-05-feedback-ai-driven-tool.amp"
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-05-feedback-ai-driven-tool.amp"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     width: 797
     height: 1500
     isCached: true
+
+related:
+  - title: "Machine Learning and AI Improve the Bottom Line"
+    excerpt: "Machine learning and artificial intelligence may appear futuristic, but these solutions have advanced rapidly to where end users experience them as a practical, vital tool for improving the bottom line."
+    publishedDateTime: 2023-05-09T04:24:00Z
+    webUrl: "https://www.automationworld.com/analytics/article/33003186/machine-learning-and-ai-improve-the-bottom-line"
+    type: article
+    provider:
+      name: Automation World
+      domain: automationworld.com
+    quality: 54
+    images:
+      - url: "https://img.officer.com/files/base/ebm/automationworld/image/2023/04/Predictive_Maintenance_for_welding_gun.6434313795e1a.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "kF6ozReZSF/XVymXVSfbV0H2OObISzFb1IR5zHzRQj3xt1AdeXQXktecXP2ypF/c1KhStYLbPT7lXJfgd+63OVnPZBFU5Rh2+RZOd8BAma308SJAs7gzAdrnvXmCLU23m7PKQZfAafGunUxeSB80YaczrziYX0DlueGfEr+/Z7YgYgZQib0C9iI4oRpSfuRosaNv/fay93WYA7XrAOm6u5CghdxovD1+DBmEUdAJkLG7bDWQVKvao8CP4lY2m3KxaDv0PDLqW/0DBN2nquSpe0nVocI/Bx1xjWEa+8ta5vKyiezr92gDgcdMrBIbyRXPHk+PaYO+og+jXky1NyyqNh/F5hlDrNDZcWP/tHC42Gk=;lXQZX1ICythIPdRs5b2/4A=="
 ---

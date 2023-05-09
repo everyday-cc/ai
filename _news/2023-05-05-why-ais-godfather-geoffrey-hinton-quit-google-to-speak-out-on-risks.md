@@ -64,6 +64,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Why ‘godfather of AI’ Geoffrey Hinton thinks humanity is at a crossroads"
+    excerpt: "In an interview with the Guardian’s Alex Hern, Hinton says he now fears the advances he helped usher in could pose an existential threat to humankind"
+    publishedDateTime: 2023-05-09T01:00:00Z
+    webUrl: "https://www.theguardian.com/news/audio/2023/may/09/godfather-ai-geoffrey-hinton-humanity-crossroads-podcast"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 36
+    images:
+      - url: "https://i.guim.co.uk/img/media/976ddd1946c2229a9fc0d2150578ded415811f4c/0_1034_4640_2783/master/4640.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=bcf8a8643ea08aa7a8df52233aaae080"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "makaSiiujuTaRXn1lPuIbL+M74bygJMJucc22CiJpAxTBKfN4Ufvf6Ux/sHYft7TIEnjFAygHwGf4J1/NJ4HDNlPmexbVJe6z+g0yF8q9gZptLpnTMKCyffyxv7gNjRWUNFAAvjCeAaro4auhbRBwta09e72FXqhINw7JCc1D6CsSubxiIEEnhOOwpNhqtJ8zWAnbJnXIfTAJfYEEKAGVJEGeFSbVIQmOS2lVBFlCr09RAPCvBP3fQpVo6ptYMmPmxec/Uc9C20DIn8Q6o/WB2HMgAz7yMNKop9VOI6eCbWdlHdvHSdMp9JJEWKzyyM0kbYBGqX7sIeisIzsjdHj1dr9n7GidWnWDrIxLnMI6Yoc/yFy8FN1GUF4sdsnclqeJVYCNf3Sd2/IdSRE94SRBaIyhYVfVItQlGkIhOb8RD1kTqJLBZ8zkeJ//objpb9VJzWbnhrOj3iysMHn2YSB1DdJ9Gh3JIwZVVrVmgbUMPlLTs+CZNJybxUga03T9/UJ/63R7DeIHY+He6uPOlvMiA==;IdK/WMdH8wJGoLFDFWY7Vg=="
 ---

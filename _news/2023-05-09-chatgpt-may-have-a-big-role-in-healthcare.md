@@ -2,9 +2,9 @@
 category: news
 title: "ChatGPT May Have a Big Role in Healthcare"
 excerpt: "If the results of a recent study are any indication, ChatGPT may soon be professionally responding to patients’ written health-related questions. Virtual healthcare drastically expanded during t"
-publishedDateTime: 2023-05-09T02:16:00Z
-originalUrl: "https://www.realclearscience.com/articles/2023/05/09/chatgpt_may_have_a_big_role_in_healthcare_898337.html#!"
-webUrl: "https://www.realclearscience.com/articles/2023/05/09/chatgpt_may_have_a_big_role_in_healthcare_898337.html#!"
+publishedDateTime: 2023-05-09T05:00:00Z
+originalUrl: "https://www.realclearscience.com/articles/2023/05/09/chatgpt_may_have_a_big_role_in_healthcare_898337.html"
+webUrl: "https://www.realclearscience.com/articles/2023/05/09/chatgpt_may_have_a_big_role_in_healthcare_898337.html"
 type: article
 quality: 19
 heat: -1
@@ -91,6 +91,6 @@ related:
         height: 759
         isCached: true
 
-secured: "09WpzFy1KPk4lkL5+XPlWgBNxClZHQ3nOonTs+blesldkUKneRPDgSI4d/KgpeK/hMIsRp+Bs53Q6eRIHxbqy4b6LVOLQCjF1Z4Fr+UtBjRpzrTxLqRd2HzcNKqgMjP80fHA7tSGsGyWLP4nkJvKKeyb01FUITbYho2c5CW+HZRwAiW03jDo0H7pKzleS3xXxLUrF+pvutzkyYhvzuz9g9zNsSyuGldPcPbd9nD4Acd3TEbQAtBLVclf9YSVsJvog/BexAGcfFCCI+Sgiatf3eSZIxC1A20fi7buCrvoHXRbpQ3SEkSlhxMZv1YE8rXbw4z/Yb5BnHMFaImYBWMpisylf7kXKaBhJIvAE+h48k+JzV7lIRuIp5gQr8R+q4VKWqk74PqmSkpY3cHjAi+QRQH0y2BL0Ess2gLBv17hIMscnbz6e1CWxk2ffMX7siqH/DKNdK2tMk+pzRJna3QxprsT1mr8THW7ZYoJ2nr5R2LO5Y5oRGC4kEXjbJ5yjvv8IGWEA6UjpWg7Kd+IA53XPw==;mWi0Rhp56WvN5lEMOEjOxQ=="
+secured: "my1QSAOlzaGZvJPTt/b3Mf7BOQVq/OB8IWc/dkUjQs8/iHQ1GQPRJp0YINZpSY0vvnulDK7o9+DmrWHMFMXz4tKB8PlZyvmNAM/dKfgehQ40ApE/sAcOeXYESaD826VtQtAuLj+fPno8nimDRErc0dczk6KfRdh1gNFRVIUVCgr9RvnWwJHE/ri/vtgE6n/UUqxRQvvoucUrFHodgulY0gd16LLclMPz88vf6sZoSbPEJq99QL7hVpN1iyjIm4EFHOsfpB+bJzEgOZ6YkKbEe52WLPiI8p7NLSpJ2xTsuCeGyvtqthVWyiHioY2b8TMJSZVjEwL4kXEkZYPKQUoSLOZnHrNBc7apOcRXYzuv08dkRcP0AQ/G8DyVtlxf9VpeeINOGbasKLhB6CLgKyRk7OEjxfe3cLYvhihv0pzVI6DGOKO2dCWBnUJC20P2ZiuXCSCc/vCDaPJaUu1SBB1wKAgu+e0hdoVk0Ovxzmevbo7g2VEdoUsrHNjdpjvbxjRHVogf7TPCFaru6/3/O2REVg==;qplcP47DG4ODIwSWJV7WAA=="
 ---
 

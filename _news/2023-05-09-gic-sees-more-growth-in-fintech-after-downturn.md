@@ -1,68 +1,47 @@
 ---
 category: news
 title: "GIC sees more growth in fintech after downturn"
-excerpt: "GIC, which doesn’t publish its assets under management, is estimated to manage about US$690 billion as of April 2023"
-publishedDateTime: 2023-05-09T02:55:00Z
-originalUrl: "https://www.theedgesingapore.com/news/digital-economy/gic-sees-more-growth-fintech-after-downturn"
-webUrl: "https://www.theedgesingapore.com/news/digital-economy/gic-sees-more-growth-fintech-after-downturn"
-ampWebUrl: "https://www.theedgesingapore.com/amp/news/digital-economy/gic-sees-more-growth-fintech-after-downturn"
-cdnAmpWebUrl: "https://www-theedgesingapore-com.cdn.ampproject.org/c/s/www.theedgesingapore.com/amp/news/digital-economy/gic-sees-more-growth-fintech-after-downturn"
+excerpt: "SAN FRANCISCO - Singapore sovereign wealth fund GIC said it still sees more growth in the financial technology sector, even after a downturn that’s sent start-up valuations plummeting as investors turn away from riskier bets."
+publishedDateTime: 2023-05-09T04:30:00Z
+originalUrl: "https://www.straitstimes.com/business/gic-sees-more-growth-in-fintech-after-downturn"
+webUrl: "https://www.straitstimes.com/business/gic-sees-more-growth-in-fintech-after-downturn"
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: The Edge Singapore
-  domain: theedgesingapore.com
+  name: The Straits Times
+  domain: straitstimes.com
 
 topics:
   - AI in Finance
   - AI
 
-related:
-  - title: "Banking Sector Revolution: 3 Fintech Stocks to Watch"
-    excerpt: "Fintech is revolutionizing the banking sector. In fact, artificial intelligence (AI), and blockchain could lead to a far more efficient and accessible system. Fueling the boom, we’re already seeing a good deal of global cashless payments."
-    publishedDateTime: 2023-05-04T15:33:00Z
-    webUrl: "https://www.nasdaq.com/articles/banking-sector-revolution%3A-3-fintech-stocks-to-watch"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 49
-  - title: "How ‘voice to cart’ is revolutionising retail"
-    excerpt: "Perhaps the most significant limitation of voice technology in retail is the accuracy of voice recognition. Accurately interpreting voice commands can be tricky, especially when dealing with regional accents and dialects."
-    publishedDateTime: 2023-05-06T05:30:00Z
-    webUrl: "https://www.indiaretailing.com/2023/05/06/how-voice-to-cart-is-revolutionising-retail/"
-    type: article
-    provider:
-      name: indiaretailing
-      domain: indiaretailing.com
-    quality: 39
-    images:
-      - url: "https://www.indiaretailing.com/wp-content/uploads/2023/05/Kumar-Rangarajan-CEO-and-Co-Founder.png"
-        width: 532
-        height: 345
-        isCached: true
-  - title: "Finovax Leads the Charge in Fintech Innovation: AI-Powered Solutions Drive Business Growth"
-    excerpt: "New York-Based Fintech Company Embraces Artificial Intelligence to Revolutionize Financial Data Products and Fuel Expansion New York, United"
-    publishedDateTime: 2023-05-08T20:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/finovax-leads-the-charge-in-fintech-innovation-ai-powered-solutions-drive-business-growth-1032302798"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 39
-  - title: "Finovax Leads the Charge in Fintech Innovation: AI-Powered Solutions Drive Business Growth"
-    excerpt: "Based Fintech Company Embraces Artificial Intelligence to Revolutionize Financial Data Products and Fuel Expansion New York, United States - May 8, 2023 — (NEW YORK CITY, NY) — Finovax, a trailblazing fintech"
-    publishedDateTime: 2023-05-08T14:00:00Z
-    webUrl: "https://www.asiaone.com/business/finovax-leads-charge-fintech-innovation-ai-powered-solutions-drive-business-growth"
-    type: article
-    provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 9
+images:
+  - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2023/05/09/IMGGIC112113KC4_2.jpg?VersionId=gMEqlZHu5Vb7K_7IuRHKXnl.VfQvmEd4"
+    width: 860
+    height: 573
+    isCached: true
 
-secured: "MPISxY7+mPMS4atz6lvBeWWGCW271wQ8lzDOMju+SEYK+geL8TbIi06cjtdrUwkv6HloPS+tMLrMWZWARRtM4R8qGAX/Vac+GDkZT4OcCaJyYZ4sWqTUfyu+5XvJe3K9GY1kJcRsxeDHnh5g3tuImA9dfUgPIwNAfZTBDF6nMT9d48chSv21uE3qWhrklNLET1Ag170BzHKsO0puyvNp6IReFLEEl6H9yobF8Y9pZSfU+BTk6r6zQIYK7dtIEMkJ3SUEfUzOuYDKC/a+w+iG/6pN9lZUMeJ95CHNIkkJwZP9IMcTW2yujI/SNKGP9h6Ns5f5AXxcRLz92kdLCmcmjfQ4sn/OGbCj8+TRu+F0NQj21yWckmklN86Spz3a866UKDy5nfdBV/1W+4WqXCH7rRdKfn1lwyxTJw4ZERQMsM6ampmlZ/+bfM3QREpUylPdSL06GX6jXE0h0PGYIjbPmhTYua83dSOd8K2jXTBJerCgTqP7RzhBFp3vxt7NBOOkSNO+HjpSlg35egxSalq5Kw==;2pgOujdCvgBbTS3G1A/sVg=="
+related:
+  - title: "Dubai: Fintech helps DIFC grow faster than emirate's overall economic growth"
+    excerpt: "UAE - Financial technology (popularly known as Fintech) has become a major growth driver for the Dubai International Financial Centre (DIFC), helping it to grow faster than Dubai’s overall growth rate."
+    publishedDateTime: 2023-05-09T05:26:00Z
+    webUrl: "https://www.zawya.com/en/business/fintech/dubai-fintech-helps-difc-grow-faster-than-emirates-overall-economic-growth-tpc8e0bt"
+    ampWebUrl: "https://www.zawya.com/en/business/fintech/dubai-fintech-helps-difc-grow-faster-than-emirates-overall-economic-growth-tpc8e0bt?amp=1"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/business/fintech/dubai-fintech-helps-difc-grow-faster-than-emirates-overall-economic-growth-tpc8e0bt?amp=1"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 56
+    images:
+      - url: "https://static.zawya.com/view/acePublic/alias/contentid/OTMyNGMwZGEtNTk3YS00/10/89369197.jpeg?f=3%3A2"
+        width: 897
+        height: 598
+        isCached: true
+
+secured: "J1yAZiwtovgYf8ZxJrtA50Sjs6Idu7vsDfvGTMl1PHPuBxXfvQdbw0sX2DNksQjcfDbaoj41TNYCZJC3i5Stv7bCiGT+iZp4uYJhihEyEWobeaALwfg4GV7Le+HCnHJDwmV95rE4kanyRM0A69AKufucogfHCLLIpBCxKKrhkAve6yLpCLDIef3gJfYicYapREskoIyRqvzIeuaCCOetTHgZWlur8IInv3nCigBqp6Kuvq00xc1qxzfxPI1KkXru/leMZiq40nzRJkz8xW9bBH5dOBCYxYq3W0J3+n01BEFacqZ6aMMDrfk3AWh2XalKCprNK8fiFaYCThzYo4b9Gthaao6VHgfAJ/21a5/Ml90=;uKvu4C4BS1Xjd/J+1qC2MQ=="
 ---
 

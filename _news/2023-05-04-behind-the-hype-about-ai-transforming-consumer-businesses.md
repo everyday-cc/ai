@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/gregpetro/2023/05/04/behind-the-hype-ab
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gregpetro/2023/05/04/behind-the-hype-about-ai-transforming-consumer-businesses/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,15 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Moving Beyond The Hype: The Ethics And Business Outcomes Of Generative AI"
-    excerpt: "As the ethics and business outcomes of generative AI are discussed, how safe and reliable is the technology and moving forward?"
-    publishedDateTime: 2023-05-04T13:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/04/moving-beyond-the-hype-the-ethics-and-business-outcomes-of-generative-ai/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 63
   - title: "The AI boom is reshaping the cloud business"
     excerpt: "To support generative AI models, AWS, Microsoft and Google Cloud are investing in infrastructure and maneuvering to manage cost."
     publishedDateTime: 2023-05-08T21:01:00Z

@@ -71,20 +71,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Healthcare Artificial Intelligence Market 2023-2030 Industry Overview and Ongoing Opportunity"
-    excerpt: "The Healthcare Artificial Intelligence Market Scope and Overview Report for 2023 presents a detailed analysis of the"
-    publishedDateTime: 2023-05-04T11:46:00Z
-    webUrl: "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-2023-2030-industry-overview-and-ongoing-opportunity-2023-05-04"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 73
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Healthcare Natural Language Processing Market Forecast to 2031"
     excerpt: "The Healthcare Natural Language Processing Market Report [101] offers statistical analyses on market growth prospects and in-depth information on the leading manufacturers - SAS I"
     publishedDateTime: 2023-05-05T01:14:00Z

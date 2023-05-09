@@ -35,20 +35,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Human rights campaigners criticise Met Police over plans to use facial recognition tech at coronation"
-    excerpt: "The use of live facial recognition would have a serious chilling effect on the right to free speech on a day when thousands will be considering celebrating or protesting. The technology is used to match human faces on images and live or pre-recorded video ..."
-    publishedDateTime: 2023-05-04T11:22:00Z
-    webUrl: "https://www.scotsman.com/read-this/human-rights-campaigners-criticise-met-police-over-plans-to-use-facial-recognition-tech-at-coronation-4130110"
-    type: article
-    provider:
-      name: The Scotsman
-      domain: scotsman.com
-    quality: 41
-    images:
-      - url: "https://www.scotsman.com/webimg/b25lY21zOmNiZmJlMTY2LTQ4ODktNGY1Yy1hMTljLTQyOTg3YThjNDFjOTo5OTEyYmJhNC1iNTgzLTQxOGUtYmUxMy02NGY3Njg2NTc5MmY=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Critics pan planned police use of facial recognition during King Charles’ coronation"
     excerpt: "Police in London are deploying live facial recognition to watch over protestors and other attendees of the upcoming coronation of King Charles III."
     publishedDateTime: 2023-05-04T15:26:00Z

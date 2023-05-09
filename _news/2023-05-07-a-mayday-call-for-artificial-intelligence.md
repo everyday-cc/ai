@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/a-mayday-call-for-artificial-intelligence
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/a-mayday-call-for-artificial-intelligence/amp/"
 type: article
 quality: 91
-heat: 121
+heat: 111
 published: true
 
 provider:
@@ -32,15 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "The 3 Most Overrated AI Stocks to Sell in May"
-    excerpt: "Nvidia (NASDAQ:NVDA) is the classic example. It’s no secret that Nvidia is producing the chips and advanced engineering necessary to power the next leg of AI innovation. It will be a large and fast-growing market for the company for many years to come."
-    publishedDateTime: 2023-05-04T11:29:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/the-3-most-overrated-ai-stocks-to-sell-in-may-1032291727"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
   - title: "What Generative AI Means For Banking"
     excerpt: "The technology has many use cases across banking. Here's where it can provide the greatest value and how banks can manage the ensuing risks."
     publishedDateTime: 2023-05-08T13:32:00Z

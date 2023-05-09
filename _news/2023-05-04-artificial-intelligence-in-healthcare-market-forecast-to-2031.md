@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-forecast-to-2031-2023-05-04"
 type: article
 quality: 84
-heat: 194
+heat: 184
 published: true
 
 provider:
@@ -52,20 +52,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 83
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Healthcare Artificial Intelligence Market 2023-2030 Industry Overview and Ongoing Opportunity"
-    excerpt: "The Healthcare Artificial Intelligence Market Scope and Overview Report for 2023 presents a detailed analysis of the"
-    publishedDateTime: 2023-05-04T11:46:00Z
-    webUrl: "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-2023-2030-industry-overview-and-ongoing-opportunity-2023-05-04"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 73
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

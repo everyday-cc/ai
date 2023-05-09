@@ -55,6 +55,20 @@ related:
         width: 1500
         height: 844
         isCached: true
+  - title: "How AI robots can affect Filipino domestic workers worldwide amid ChatGPT concerns"
+    excerpt: "The discussion of artificial intelligence and robots taking over human jobs has reached another point following a recent study revolving around unpaid domestic help."
+    publishedDateTime: 2023-05-09T05:32:00Z
+    webUrl: "https://www.philstar.com/lifestyle/modern-living/2023/05/09/2264997/how-ai-robots-can-affect-filipino-domestic-workers-worldwide-amid-chatgpt-concerns"
+    type: article
+    provider:
+      name: philstar.com
+      domain: philstar.com
+    quality: 48
+    images:
+      - url: "https://media.philstar.com/photos/2023/05/09/ofw2019-11-0921-24-08_2023-05-09_13-35-26.jpg"
+        width: 800
+        height: 494
+        isCached: true
   - title: "Could AI pen ‘Casablanca’? Screenwriters take aim at ChatGPT"
     excerpt: "Not six months since the release of ChatGPT, generative artificial intelligence is already prompting widespread unease throughout Hollywood."
     publishedDateTime: 2023-05-05T13:45:00Z

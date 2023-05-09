@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/article/bing-ai-chat-open/amp/"
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/bing-ai-chat-open/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Preparing to Integrate Machine Learning and AI Into Pricing, Billing and Invoicing"
+    excerpt: "While AI's applications to back-office business operations like pricing, billing and invoicing may not be as flashy as AI-generated brief writing, they will be just as critical for the business of law firms."
+    publishedDateTime: 2023-05-05T13:54:00Z
+    webUrl: "https://www.law.com/legaltechnews/2023/05/05/preparing-to-integrate-machine-learning-and-ai-into-pricing-billing-and-invoicing/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 48
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/05/Law-Library-767x633.jpg"
+        width: 767
+        height: 633
+        isCached: true
   - title: "I asked ChatGPT, Bing, and Bard what worries them. Google's AI went Terminator on me"
     excerpt: "Just to be clear: this is not science fiction. Chatbots might have some worries that might, in turn, worry us just a bit."
     publishedDateTime: 2023-05-08T17:14:00Z

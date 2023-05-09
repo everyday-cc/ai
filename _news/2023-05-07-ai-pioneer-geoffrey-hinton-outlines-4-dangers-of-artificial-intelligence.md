@@ -9,7 +9,7 @@ ampWebUrl: "https://www.tampabay.com/news/business/2023/05/07/ai-pioneer-geoffre
 cdnAmpWebUrl: "https://www-tampabay-com.cdn.ampproject.org/c/s/www.tampabay.com/news/business/2023/05/07/ai-pioneer-geoffrey-hinton-outlines-4-dangers-artificial-intelligence/?outputType=amp"
 type: article
 quality: 73
-heat: 103
+heat: 113
 published: true
 
 provider:
@@ -56,6 +56,20 @@ related:
       - url: "https://img.jagranjosh.com/images/2023/May/552023/ai-danger-geoffrey-hinton.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Why ‘godfather of AI’ Geoffrey Hinton thinks humanity is at a crossroads"
+    excerpt: "In an interview with the Guardian’s Alex Hern, Hinton says he now fears the advances he helped usher in could pose an existential threat to humankind"
+    publishedDateTime: 2023-05-09T01:00:00Z
+    webUrl: "https://www.theguardian.com/news/audio/2023/may/09/godfather-ai-geoffrey-hinton-humanity-crossroads-podcast"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 36
+    images:
+      - url: "https://i.guim.co.uk/img/media/976ddd1946c2229a9fc0d2150578ded415811f4c/0_1034_4640_2783/master/4640.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=bcf8a8643ea08aa7a8df52233aaae080"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Why AI’s ‘godfather’ Geoffrey Hinton quit Google to speak out on risks"
     excerpt: "Professor voiced fears that rapid advance of technology would lead to significant job losses and flood of misinformation"

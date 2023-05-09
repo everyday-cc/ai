@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/natural-language-process
 webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-for-healthcare-and-life-sciences-market-projected-to-show-strong-growth-by-2030-microsoft-google-ibm-3m-2023-05-08"
 type: article
 quality: 71
-heat: 101
+heat: 91
 published: true
 
 provider:
@@ -54,15 +54,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 46
-  - title: "Deep Learning System Software Market Size, Share, Demand, Growth Analysis 2023 to 2030 |Microsoft, General Vision, Sensory, Skymind"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. May 04, 2023 (Heraldkeepers) -- The Deep Learning System Software Market research studies not only save you hours of effort but also give your work legitimacy, whether you ..."
-    publishedDateTime: 2023-05-04T12:10:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-system-software-market-size-share-demand-growth-analysis-2023-to-2030-microsoft-general-vision-sensory-skymind-2023-05-04"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 36
 
 secured: "GLk1sh6DVq3whRscnJtMxL8xOFgfCwAMie84Zad0zbxYLlAPRWPez0E1I4GDV8MQL4HVrQkHlqRO0kUXRT6CU2gHRgnkKW/MiB2ZMOgZKQuTgYqwMMUIcYUIDR8gpHta5i1WymXBzEtUf03grN2/9StQ0UR558IJbfWeVh/3eCHLlPtWoIjlGsWXuezvbwPQUzyX9CGeV55f1ey8Ps+VxBGLlKO8a7WZEfWTTTMYSg8iAoCTFC4PPBYC/KyvaTbrk1OrI9We94LaA8TDcursN4bQww7tz3nV47y6euvZsCWkqU9kFcB/IcB3494+GrIDeUVGqNtR98yrw7w0EsIFiwXCFwRXOvJ/EJjGnMAeHJg=;HOdYPp+LvSZmAYGCsLEIQg=="
 ---

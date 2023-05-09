@@ -40,6 +40,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "How AI robots can affect Filipino domestic workers worldwide amid ChatGPT concerns"
+    excerpt: "The discussion of artificial intelligence and robots taking over human jobs has reached another point following a recent study revolving around unpaid domestic help."
+    publishedDateTime: 2023-05-09T05:32:00Z
+    webUrl: "https://www.philstar.com/lifestyle/modern-living/2023/05/09/2264997/how-ai-robots-can-affect-filipino-domestic-workers-worldwide-amid-chatgpt-concerns"
+    type: article
+    provider:
+      name: philstar.com
+      domain: philstar.com
+    quality: 48
+    images:
+      - url: "https://media.philstar.com/photos/2023/05/09/ofw2019-11-0921-24-08_2023-05-09_13-35-26.jpg"
+        width: 800
+        height: 494
+        isCached: true
   - title: "Gartner: ChatGPT has prompted increase in AI investments"
     excerpt: "A Gartner poll shows that 45% reported that the publicity of ChatGPT has prompted them to increase AI investments."
     publishedDateTime: 2023-05-07T23:30:00Z

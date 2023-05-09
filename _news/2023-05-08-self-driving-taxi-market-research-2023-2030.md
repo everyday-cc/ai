@@ -71,6 +71,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Self-driving Cars Market Research | 2023-2030"
+    excerpt: "The Global Self-driving Cars market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players,"
+    publishedDateTime: 2023-05-09T04:06:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-cars-market-research-2023-2030-2023-05-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Autonomous Cars/Driverless Cars Market 2023 Growth Status and Outlook for 2030"
     excerpt: "At present, the technology is mainly in driving assistance level and semi-autonomous driving level. Europe is a key region for the deployment of self-driving vehicles, owing to the high consumer preference for technologically advanced products. This region ..."
     publishedDateTime: 2023-05-04T17:59:00Z
@@ -105,15 +119,6 @@ related:
       name: Kansas City Star
       domain: kansascity.com
     quality: 39
-  - title: "Self-Driving Car for AI Programming Market Future Growth and Detail Analysis of Industry Up to 2030"
-    excerpt: "May 04, 2023 (The Expresswire) -- The following is a synopsis of a market research report on the Self-Driving Car for AI Programming Market research report provides an extensive analysis of current and forthcoming industry trends. The report enables ..."
-    publishedDateTime: 2023-05-04T12:10:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-car-for-ai-programming-market-future-growth-and-detail-analysis-of-industry-up-to-2030-2023-05-04"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 35
   - title: "L1 Self-driving Vehicle Market Predicted to Grow Massive in Future During 2023-2030"
     excerpt: "May 04, 2023 (The Expresswire) -- The following is a synopsis of a market research report on the L1 Self-driving Vehicle Market research report provides an extensive analysis of current and forthcoming industry trends. The report enables readers to ..."
     publishedDateTime: 2023-05-04T17:59:00Z
@@ -123,15 +128,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 28
-  - title: "Global Self-driving Cars Market [2023] | New Report Anticipates Industry to Surpass USD 6567.8 Million in Revenue by 2030"
-    excerpt: "Toyota BMW Volvo Mercedes-Benz Audi Among other players domestic and global, Self-driving Cars market share data is available for global, North America, Europe, Asia-Pacific, Middle East and Africa, and South America separately. Research ..."
-    publishedDateTime: 2023-05-04T12:10:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-self-driving-cars-market-2023-new-report-anticipates-industry-to-surpass-usd-65678-million-in-revenue-by-2030-2023-05-04"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 9
 
 secured: "zDh5VsafWQm7fJEY6imzrp8PgcAjMhnjhcAYc4acllAa3U0BGMUrqdF4RFGlC+RZbYrA5YmF/LtnQ3eFyxNF0/2nNAzwaT5lmiWfGH7xclaJSC3470JebkCm/+7Usf4JzFR4fv/8WobqNqTGFy/wXPVBc6zI7Z6JdHwsgpttB6HFnwlao4w7gfgdwlBsePHfTq4qJtw3C++6RIdDLRqzZ7x2Q3iRCTEuCMbIHse+CGrLJZIzIzQgVvkQSTe4TW2EfU8TaCo5x+lF1Xz42lzbduyUyPWFQJurz9gh3RHj3LHkhOdMirSCL2zmZ/mF+qRpgxKe6Q8nXDQrc9waM0MKVzEhpDWPKE07jox6tdn1TAY=;Vq8StCFwqrcddCVGC2tqxQ=="
 ---

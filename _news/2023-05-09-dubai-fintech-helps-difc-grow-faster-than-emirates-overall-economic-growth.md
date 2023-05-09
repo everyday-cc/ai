@@ -1,23 +1,47 @@
 ---
 category: news
-title: "Dubai: Fintech Helps DIFC Grow Faster Than Emirate's Overall Economic Growth"
-excerpt: "Globally, the Fintech sector is predicted to be valued at $305 billion ... “Not too long ago, the concept of AI (Artificial Intelligence) was pure fiction. Today, however, it has become one of the most popular ways of innovating within the world of ..."
-publishedDateTime: 2023-05-08T18:39:00Z
-originalUrl: "https://menafn.com/1106202937/Dubai-Fintech-Helps-DIFC-Grow-Faster-Than-Emirates-Overall-Economic-Growth"
-webUrl: "https://menafn.com/1106202937/Dubai-Fintech-Helps-DIFC-Grow-Faster-Than-Emirates-Overall-Economic-Growth"
+title: "Dubai: Fintech helps DIFC grow faster than emirate's overall economic growth"
+excerpt: "UAE - Financial technology (popularly known as Fintech) has become a major growth driver for the Dubai International Financial Centre (DIFC), helping it to grow faster than Dubai’s overall growth rate."
+publishedDateTime: 2023-05-09T05:26:00Z
+originalUrl: "https://www.zawya.com/en/business/fintech/dubai-fintech-helps-difc-grow-faster-than-emirates-overall-economic-growth-tpc8e0bt"
+webUrl: "https://www.zawya.com/en/business/fintech/dubai-fintech-helps-difc-grow-faster-than-emirates-overall-economic-growth-tpc8e0bt"
+ampWebUrl: "https://www.zawya.com/en/business/fintech/dubai-fintech-helps-difc-grow-faster-than-emirates-overall-economic-growth-tpc8e0bt?amp=1"
+cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/business/fintech/dubai-fintech-helps-difc-grow-faster-than-emirates-overall-economic-growth-tpc8e0bt?amp=1"
 type: article
-quality: 16
-heat: 16
+quality: 56
+heat: 66
 published: false
 
 provider:
-  name: Mena FN
-  domain: menafn.com
+  name: Zawya
+  domain: zawya.com
 
 topics:
   - AI in Finance
   - AI
 
-secured: "OAnDy3p58EAZA8LsBumBfkILv9XoSS2pPPm6FnztzbpSg5XALiF/4vK8fhpxpG/LXzJg+tcRQyLUKO0ZcYD407RElbbxoTcrE0c94iIBKH/pWKD9sU0Hv8UFIIXkFmYDqIfRe93qryFXJfi+TAIMvXBZ5b+zthA0aPNJK2k+XfmvjCi8JoAu4C8PFtmQ7JiXmmf2BRPjap6yg1QipKofuNvtUf3LDU+tbL0yN/L6n/qWrNtci6oACQDpwAVYMlRWX9ytMu8pqd6J8deBNRMr6gwVO+JrYjshqhYH49GXY1kQ0eZhZn8ozNpOsx4RR+P32WT1udyGhqWrv4Hqt5r3HaE3e+XrBdwIZ2DfdSIplpVaUNF0PZTlH1HWLDScD3SRbn5hpJRfSIPkXDPFTif+bJ0B3hOmLF9UXfG+binm4wYRGv4KcV8lYY1AVLrekUvr440IronpTG0e0Q0OLen0k00ZLsZAJRa/qrZXIfNAKMuSWSQQHqzlWkGl6LqSBgrEzCJTDCOuunmS/3k33j5uBQ==;dIw16WBrpFOdb6Ooaffs8A=="
+images:
+  - url: "https://static.zawya.com/view/acePublic/alias/contentid/OTMyNGMwZGEtNTk3YS00/10/89369197.jpeg?f=3%3A2"
+    width: 897
+    height: 598
+    isCached: true
+
+related:
+  - title: "GIC sees more growth in fintech after downturn"
+    excerpt: "SAN FRANCISCO - Singapore sovereign wealth fund GIC said it still sees more growth in the financial technology sector, even after a downturn that’s sent start-up valuations plummeting as investors turn away from riskier bets."
+    publishedDateTime: 2023-05-09T04:30:00Z
+    webUrl: "https://www.straitstimes.com/business/gic-sees-more-growth-in-fintech-after-downturn"
+    type: article
+    provider:
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 24
+    images:
+      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2023/05/09/IMGGIC112113KC4_2.jpg?VersionId=gMEqlZHu5Vb7K_7IuRHKXnl.VfQvmEd4"
+        width: 860
+        height: 573
+        isCached: true
+
+secured: "8vyh6UBXUS/W7t8ETQqD79U/D4nIK13RWuri84cYmUgdqpTj27rDjIZaCgMD3O1kXxQRNPvKtGMNhcrcpfIe7lNV75b3rY7LA/gAOaCwaj0mP9mCE1cxS7xEx6epswFnTbq8xkJq/tGSNqW0dnq5HUAuD63J7xfqcYT5feq9/u9uxAzTkt6tO/UytIZnzXSjPkstZpkE4pBjra6Y0Ohn9mGFrFhtg3aQdSL00Nzi+/zJ8mNvujxDeh9EEHhR1fLSl8eE5DHpDIUCmSPxMukABtAc1YSlBoxI5btq9dlNP5W+98Ch6I5PucPb/YxFMVUMrr4sx9muX9Ii/yhK3MwNW4b6SFYQbdLf0Rpa0ZQrSr8=;zFjF11kRatjSgqlBAYNwfA=="
 ---
 

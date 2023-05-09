@@ -20,17 +20,6 @@ topics:
   - AI
   - AI in Robotics
 
-related:
-  - title: "IBM eyes hiring pause because AI does the job"
-    excerpt: "Non-customer-facing roles may see a 30 percent cut in workforce, replaced by AI and automation, Arvind Krishna said."
-    publishedDateTime: 2023-05-04T12:07:00Z
-    webUrl: "https://www.astroawani.com/berita-english/ibm-eyes-hiring-pause-because-ai-does-job-418087"
-    type: article
-    provider:
-      name: Astro Awani
-      domain: astroawani.com
-    quality: 19
-
 secured: "juq0QwwEL/pY783GtkHstASj1IrE2yKTAWKtlEIkhizD+0hkZ9Iyxppuz/s7BPgkbq7Oj6FfRQcOeOuCT5EIJJneoT92x1mY6+HfoOgabvOKu2WPDgYTw43IKKAX2j1yVp3/k58uQCqMCBf5xbBkCt4FXQycTaACnYhbY2UDaxUf6sZA8CVZFdruaNcBxmxtd/aDBUUdwcb5amO0zJri3naAnguw1JoxQXKWrbct0Wiu7/kxE3G9kLfi4AT50WuhQZPWtzkl08zu4FDxRgGyt7fVpHRVdZOUQkuP9XxNAOMW4Gjfn0bgSEcqcFGSgjXxCZVp9o5ldNAIupJRmMG1fh9EtsUZO0EvfyZCeAtkItU=;h97n7yJq8quZ9Zs9VvZWfw=="
 ---
 

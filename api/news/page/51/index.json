@@ -2,6 +2,49 @@
   "page": 51,
   "value": [
     {
+      "path": "_news/2023-03-31-datadome-raises-42m-to-leverage-machine-learning-for-confronting-bot-attacks.md",
+      "title": "DataDome raises $42M to leverage machine learning for confronting bot attacks",
+      "excerpt": "DataDome announces it has raised $42 million for a solution that uses machine learning to address online bot attacks.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/security/datadome-raises-42m-to-leverage-machine-learning-for-confronting-bot-attacks/",
+      "originalUrl": "https://venturebeat.com/security/datadome-raises-42m-to-leverage-machine-learning-for-confronting-bot-attacks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/security/datadome-raises-42m-to-leverage-machine-learning-for-confronting-bot-attacks/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/security/datadome-raises-42m-to-leverage-machine-learning-for-confronting-bot-attacks/amp/",
+      "publishedDateTime": "2023-03-30T13:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-31-midjourney-ends-free-trials-of-its-ai-image-generator-due-to-extraordinary-abuse.md",
       "title": "Midjourney ends free trials of its AI image generator due to 'extraordinary' abuse",
       "excerpt": "Midjourney has dropped free trials of its AI image generator after users created deepfakes of Trump, the Pope and others..",
@@ -1114,49 +1157,6 @@
       "provider": {
         "name": "CoinDesk",
         "domain": "coindesk.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-29-10-best-ai-art-generators-create-stunning-art-with-deep-learning.md",
-      "title": "10 Best AI Art Generators: Create Stunning Art with Deep Learning",
-      "excerpt": "AI Art Generators are the latest trend in digital art, creating beautiful and intricate artworks using complex algorithms and deep learning techniques. This article explores the world of AI art ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.outlookindia.com/business-spotlight/10-best-ai-art-generators-create-stunning-art-with-deep-learning-news-274345",
-      "originalUrl": "https://www.outlookindia.com/business-spotlight/10-best-ai-art-generators-create-stunning-art-with-deep-learning-news-274345",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/IMAGE_1680091620.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.outlookindia.com/business-spotlight/10-best-ai-art-generators-create-stunning-art-with-deep-learning-news-274345/amp",
-      "cdnAmpWebUrl": "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/business-spotlight/10-best-ai-art-generators-create-stunning-art-with-deep-learning-news-274345/amp",
-      "publishedDateTime": "2023-03-29T05:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Outlookindia",
-        "domain": "outlookindia.com",
         "images": null,
         "publishers": null,
         "authors": null

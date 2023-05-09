@@ -41,36 +41,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "'We're not at the moon yet': Human-like A.I. is still some way off, early investor in Google's DeepMind says"
-    excerpt: "\"In terms of artificial general intelligence, OpenAI, ChatGPT stuff: it's like saying we're going to jump to the moon,\" early DeepMind investor Humayun Sheikh told CNBC. \"We took a big jump, but we're not at the moon yet.\" AGI has often been referred to as ..."
-    publishedDateTime: 2023-05-04T11:08:00Z
-    webUrl: "https://www.cnbc.com/2023/05/04/were-far-from-human-level-ai-early-deepmind-investor-says.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2023/05/04/were-far-from-human-level-ai-early-deepmind-investor-says.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/05/04/were-far-from-human-level-ai-early-deepmind-investor-says.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 70
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/107217768-1680185818456-gettyimages-1248338437-AFP_33BD9ME.jpeg?v=1683197839"
-        width: 3000
-        height: 1999
-        isCached: true
-  - title: "DeepMind boss says human-level AI is just a few years away"
-    excerpt: "The head of Google’s artificial intelligence division DeepMind has predicted that human-level AI may be just a few years away. The forecast from Demis Hassabis puts the date for the arrival of ..."
-    publishedDateTime: 2023-05-04T12:53:00Z
-    webUrl: "https://www.aol.com/news/deepmind-boss-says-human-level-115422614.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 54
-    images:
-      - url: "https://media.zenfs.com/en/aol_the_independent_us_877/383722a72aee24b2f4a7b7a17d5aeb64"
-        width: 1200
-        height: 900
-        isCached: true
   - title: "Google DeepMind CEO says human-level AI will be here in ‘a few years’"
     excerpt: "Google's DeepMind CEO predicts that human-level artificial intelligence will be achievable within just \"a few years.\" Demis Hassabis made the prediction Thursday during an interview at the Wall ..."
     publishedDateTime: 2023-05-05T03:37:00Z

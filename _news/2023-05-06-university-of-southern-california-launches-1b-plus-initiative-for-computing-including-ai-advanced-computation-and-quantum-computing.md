@@ -45,6 +45,20 @@ related:
         width: 840
         height: 438
         isCached: true
+  - title: "Facial recognition: How does the tech being used to police the King’s Coronation work?"
+    excerpt: "he Metropolitan Police confirmed on Wednesday that it will be deploying live facial recognition technology in central London during the King’s coronation this weekend. This means the coronation ..."
+    publishedDateTime: 2023-05-04T19:20:00Z
+    webUrl: "https://www.standard.co.uk/tech/facial-recognition-technology-coronation-met-police-privacy-artificial-intelligence-b1078801.html"
+    type: article
+    provider:
+      name: London Evening Standard
+      domain: standard.co.uk
+    quality: 31
+    images:
+      - url: "https://static.standard.co.uk/2023/05/04/10/AFP_33EC47T.jpg?width=1200&width=1200&auto=webp&quality=75"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "In California, the specter of self-driving trucks brings a backlash"
     excerpt: "California, the birthplace and epicenter of the self-driving industry, could soon put the brakes on autonomous trucking."
     publishedDateTime: 2023-05-05T04:00:00Z

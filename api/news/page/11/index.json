@@ -2,6 +2,57 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2023-05-02-grammarlys-new-ai-tool-is-available-in-beta-now.md",
+      "title": "Grammarly's New AI Tool Is Available in Beta Now",
+      "excerpt": "Grammarly, the company behind the digital writing assistant of the same name, is expanding its artificial intelligence resources with a new generative AI tool called GrammarlyGo. The company said the new tool is intended to improve communication,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/tech/services-and-software/grammarlys-new-ai-tool-is-available-in-beta-now/",
+      "originalUrl": "https://www.cnet.com/tech/services-and-software/grammarlys-new-ai-tool-is-available-in-beta-now/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/e794683b92464d6ede33eb923ac1b8f19fc866b7/hub/2022/08/11/6499c375-fdb3-4574-a385-392a997b7a02/open-graph-image-newfunnel.png?auto=webp&fit=crop&height=630&width=1200",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/grammarlys-new-ai-tool-is-available-in-beta-now/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/grammarlys-new-ai-tool-is-available-in-beta-now/",
+      "publishedDateTime": "2023-05-01T13:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-02-best-early-amazon-prime-day-2023-furniture-deals.md",
       "title": "Best early Amazon Prime Day 2023 furniture deals",
       "excerpt": "If you've been thinking about redecorating, you're in luck -- there are tons of deals on top-rated, great-looking furniture right now on Amazon. And that's even ahead of Amazon Prime Day 2023 ...",
@@ -1170,58 +1221,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-01-why-artificial-intelligence-cant-bring-the-dead-back-to-life.md",
-      "title": "Why artificial intelligence can't bring the dead back to life",
-      "excerpt": "This year is shaping up to be the year of artificial intelligence. ChatGPT has stolen most of the headlines, but it is only the most infamous in a wide assortment AI platforms. One of the most ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/opinion/artificial-intelligence-cant-bring-dead-back-life",
-      "originalUrl": "https://www.foxnews.com/opinion/artificial-intelligence-cant-bring-dead-back-life",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2023/04/340/340/180914_LSC_Headshots-319-copy-2.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/opinion/artificial-intelligence-cant-bring-dead-back-life.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/artificial-intelligence-cant-bring-dead-back-life.amp",
-      "publishedDateTime": "2023-05-01T03:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

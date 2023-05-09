@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/robtoews/2023/05/07/the-geopolitics-of-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2023/05/07/the-geopolitics-of-ai-chips-will-define-the-future-of-ai/amp/"
 type: article
 quality: 104
-heat: 144
+heat: 134
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/645437c77701f76c839c02fc/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 685
-        isCached: true
-  - title: "The Future of Artificial intelligence in India"
-    excerpt: "The global artificial intelligence market is expanding due to the need for intelligent systems to increase productivity and efficiency in various sectors, including IT and telecommunications, retail and e-commerce, BFSI, healthcare, manufacturing ..."
-    publishedDateTime: 2023-05-04T11:18:00Z
-    webUrl: "https://www.siliconindia.com/news/general/the-future-of-artificial-intelligence-in-india-nid-222744-cid-1.html"
-    type: article
-    provider:
-      name: SiliconIndia
-      domain: siliconindia.com
-    quality: 39
-    images:
-      - url: "https://www.siliconindia.com/news/newsimages/3qXfVidn.jpg"
-        width: 570
-        height: 367
         isCached: true
   - title: "5 Ways Artificial Intelligence is Changing The Future Of Business"
     excerpt: "Tech - Artificial intelligence (AI) has been a game-changer in countless ways across the world. Companies and businesses are able to use enhanced AI systems to"

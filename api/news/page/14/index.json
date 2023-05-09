@@ -2,6 +2,40 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2023-04-29-idvv-moves-forward-in-artificial-intelligence-ai-sector.md",
+      "title": "IDVV Moves Forward In Artificial Intelligence AI Sector",
+      "excerpt": "IDVV is pleased to announce its progress in the acquisition of WITech and SF Corp, which have been completed ahead of schedule. As the company enters the AI sector, it is combining the strengths and capabilities of both acquisitions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.star-telegram.com/press-releases/article274848016.html",
+      "originalUrl": "https://www.star-telegram.com/press-releases/article274848016.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-28T12:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fort Worth Star-Telegram",
+        "domain": "star-telegram.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-29-el-segundo-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-now-open.md",
       "title": "El Segundo Selected as Host Site for Artificial Intelligence Bootcamp – APPLICATIONS NOW OPEN!",
       "excerpt": "Notified will host a Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp for high school students at no-cost in the Fall of 2023. The AI Bootcamp in El",
@@ -1089,40 +1123,6 @@
       "provider": {
         "name": "Gulf News",
         "domain": "gulfnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-28-robots-and-ai-could-soon-have-feelings-hopes-and-rights.md",
-      "title": "Robots and AI could soon have feelings, hopes and rights",
-      "excerpt": "This is a start, but nothing more than that ... such as the formation of a European agency for AI and robotics, a legal definition of “smart autonomous robots”, a registration system for ...",
-      "sourceUrl": null,
-      "webUrl": "https://businesstech.co.za/news/trending/160315/robots-and-ai-could-soon-have-feelings-hopes-and-rights/amp/",
-      "originalUrl": "https://businesstech.co.za/news/trending/160315/robots-and-ai-could-soon-have-feelings-hopes-and-rights/amp/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://businesstech.co.za/news/trending/160315/robots-and-ai-could-soon-have-feelings-hopes-and-rights/amp/",
-      "cdnAmpWebUrl": "https://businesstech-co-za.cdn.ampproject.org/c/s/businesstech.co.za/news/trending/160315/robots-and-ai-could-soon-have-feelings-hopes-and-rights/amp/",
-      "publishedDateTime": "2023-04-28T06:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "businesstech.co.za",
-        "domain": "businesstech.co.za",
         "images": null,
         "publishers": null,
         "authors": null
