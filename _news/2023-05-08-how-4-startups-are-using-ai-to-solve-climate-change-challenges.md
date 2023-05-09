@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/outreach-initiatives/entrepreneurs/how-4-startup
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/outreach-initiatives/entrepreneurs/how-4-startups-are-using-ai-to-solve-climate-change-challenges/amp/"
 type: article
 quality: 109
-heat: 159
+heat: 169
 published: true
 
 provider:
@@ -62,6 +62,20 @@ related:
       - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2023/05/06/a3ed2e4c-256d-4d01-9c3a-65e06d542d99/thumbnail/1200x630/a4fae228ea819b28b491968bc3769e43/0505-chen1.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "White House announces measures to address challenges of AI"
+    excerpt: "The White House has announced a series of measures to address the challenges of artificial intelligence, driven by the sudden popularity of tools such as ChatGPT and amid rising concerns about the technology’s potential risks for discrimination,"
+    publishedDateTime: 2023-05-08T17:27:00Z
+    webUrl: "https://www.tvcnews.tv/2023/05/white-house-announces-measures-to-address-challenges-of-ai/"
+    type: article
+    provider:
+      name: tvcnews.tv
+      domain: tvcnews.tv
+    quality: 39
+    images:
+      - url: "https://www.tvcnews.tv/wp-content/uploads/2023/05/download_53_600x400.jpg"
+        width: 600
+        height: 400
         isCached: true
   - title: "Doctors are using AI to draft messages without telling patients"
     excerpt: "US healthcare organisations are trialling OpenAI’s GPT-3 for drafting clinician messages to patients. But not all patients are being informed and some AI researchers warn of errors creeping in"

@@ -27,14 +27,14 @@ images:
     isCached: true
 
 related:
-  - title: "Maktoum Bin Mohammed Opens Inaugural Dubai Fintech Summit"
-    excerpt: "H.H. Sheikh Maktoum bin Mohammed bin Rashid Al Maktoum, First Deputy Ruler of Dubai, Deputy Prime Minister and Mini"
-    publishedDateTime: 2023-05-08T19:14:00Z
-    webUrl: "https://menafn.com/1106202957/Maktoum-Bin-Mohammed-Opens-Inaugural-Dubai-Fintech-Summit"
+  - title: "Maktoum bin Mohammed opens inaugural Dubai FinTech Summit"
+    excerpt: "Sheikh Maktoum bin Mohammed bin Rashid Al Maktoum, First Deputy Ruler of Dubai, Deputy Prime Minister and Minister of Finance of the UAE and President of the Dubai International Financial Centre (DIFC),"
+    publishedDateTime: 2023-05-09T06:05:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/World/20230508/4071295.html"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
+      name: Webindia 123
+      domain: webindia123.com
     quality: 19
 
 secured: "hIici2s9thl09b25UVjEQ80ty6m1NSbwhzdrIjmfpf4Hx1eNjsEXaCW+k7RgTn2roEvPL4Au5y9rtIXTDeqZzSHYeAzF0SW4Z778xAIOkOmNRb2QxBKeOAHNrBYRMTcmdQUiDK4LuHkz80aHgX7s4B5Q2hvjK2O3X3k5eVNSVql439Cy2l9jG7oIt7Yu/mVZMPuVfyiyUwjCppvDpZaSbQaNnO0cW3uukzLFGXTX36U57FzzRsAZ1SfsrbqOjOyvqyPomIlPHELHrLrSgLzWvSdZrzSJVI3ig5gu5FiirThIovNc9X8gkg+oEv8FYSXUop2WhRlDKeq2Lr49ujmbfulALbBexgmWBkphMJvcw/Y=;yy3V/xIw5d6LuFGXFX1sHQ=="

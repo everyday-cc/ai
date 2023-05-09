@@ -52,6 +52,20 @@ related:
         width: 1068
         height: 580
         isCached: true
+  - title: "AI’s ‘Godfather’ Should Have Spoken Up Sooner"
+    excerpt: "“I often think about when I would quit [AI startup] Anthropic or leave AI entirely,” tweeted Catherine Olsson, a technical staff member at AI safety company Anthropic on Monday, in response to ..."
+    publishedDateTime: 2023-05-04T16:23:00Z
+    webUrl: "https://www.washingtonpost.com/business/2023/05/04/ai-godfather-geoffrey-hinton-should-have-spoken-up-sooner/eebde110-ea96-11ed-869e-986dd5713bc8_story.html"
+    type: article
+    provider:
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 37
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
 
 secured: "uoKqoDrB8o4M4rUxv99lBXki4RjGilpvCbzIDyaB4U8iME7jLpEJA9XZis/I87IBKmfAQW/aaBKKLrcIFmFQ1VJ2IfwbCqyD499v6TOyBf7c9he26V+jtLzSwCNfxlaX2RSffYZqqgDl4/DYsebt0mE3D2Ud/z8t7879vwj5U/koq60XwKjn3SprrgWQaCfjGLP5RWYhGy8OUhOSdqqANuBg9Lw94b+ESwsU+COp/uCTyp33ly1BFQGl5IeYIJxTtGeeUjTo07Wmo5q76XG/aNbFQj6XzgRw7i2mK+0XnYf0ha/TMpG66sbjasudVQtqsGV25sxI2bPIsE/Njm3K+Vuxm5QIPk/ZcQxQHkajNuVqUUSgqJ82tV9BJLXiWSaQk+dABibHKQ+q5W9cWV4xdtNzPxPV/x4oeSwJNdEy817Ys52TcqqFGMtJcWPiugfPneHNJByXKpGoeKDJNfqAXEC0PstTo9KVZerFtwaPM9j0XlKKLPXfEGM9qU/gRYw51UCOi5/vZxFcu50iBiFNOA==;YcMm85KruBZcZnVurhGloA=="
 ---

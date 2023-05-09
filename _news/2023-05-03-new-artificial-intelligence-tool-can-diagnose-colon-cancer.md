@@ -2,9 +2,9 @@
 category: news
 title: "New Artificial Intelligence Tool Can Diagnose Colon Cancer"
 excerpt: "Detailed price information for Bausch Health Companies Inc (BHC-T) from The Globe and Mail including charting and trades."
-publishedDateTime: 2023-05-03T15:28:00Z
-originalUrl: "https://www.theglobeandmail.com/investing/markets/stocks/BHC-T/pressreleases/16543041/new-artificial-intelligence-tool-can-diagnose-colon-cancer/"
-webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/BHC-T/pressreleases/16543041/new-artificial-intelligence-tool-can-diagnose-colon-cancer/"
+publishedDateTime: 2023-05-03T13:38:00Z
+originalUrl: "https://www.theglobeandmail.com/investing/markets/stocks/BHC-T/pressreleases/16543041/"
+webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/BHC-T/pressreleases/16543041/"
 type: article
 
 provider:
@@ -15,6 +15,12 @@ topics:
   - AI in Healthcare
   - AI
 
-secured: "7Tk8IjxLevLmNssKxYkvo9SXK6swvpGyK9T5R7bQBIsnBh8ng7cEhTBp221OCBRCds1iGxW2lpqEt7zjA2vR7S1N07UdM8SzlMbNvo5zqMKh1HOw+OVn5iTArAvwa1HfdmgmPInPb7JcaYuYQLXgvW6SeY2vPcnFwZ6GAFKvb6kDLlwynO0DcSORxI68qigfwSIVFvVjsbBDZ4sOm56HHAbB8YfHWc1EZbYSf3lu8Q6fmlscSEdSQknafq4Do8QYvXPX6ElOfUYPMQLahddz1cFEkVBmwdVODrz5V+dkx5CCZwqRwVSWNNvt/2N+RAwF5HY0iHnH/Xs5BRcW1nRr6b+3LBERVMhXY0rps8271TkdO7yuKHWiSAmxZuB4/FEtCA0PbDCFTIhOTEbHx/chv8534z9QTd9r7O2WiM/gep2/qSoIyK3yKuaOqXPVEKG6VZGq+NTCsIJhX77RFxeNGpCFp629+bR5BGQ848854ysy7xbWrUwYyVf1RK5P34Cu8PnfIg7LDLRjnflLu3m3Hg==;5NZyG+9SODy6PpvRTigvug=="
+images:
+  - url: "https://barchart-news-media-prod.aws.barchart.com/FC/fbf6e68ba80e8e45990c8b0717fbffb9/bogdanhoda-1.jpg"
+    width: 777
+    height: 436
+    isCached: true
+
+secured: "djxBHRfEuJokCcbsonsV5f2BAlZblrU4B+aaOSuzR/p0daPCdEydPaOkovsLNC0b3N18B01QtNcE/wowdTpAOYrJKd7E9ecX79EdYFBOT8CYxCJz/XssD1BrtcjhjZtNz/fC5hr60sh4NBRTtjOtB/Zjy8j2LRwOS3OYVH5uklvIeOjiDTqThZM+jt7aBQsvQ/osqUaRtRyrjSzYF5+7QZXQLA7eZOOXT3wi/CJ2Y3cVwl40sFo2aPMIVUGIEfLzKpSp9fAtCu1b7tScY171fOdIlftRrmwV/1yhR6MEIDzAdMNyd1z2GW7F+l13eNfnGjZv39kki+qt6oGdm2KNSQqLVwiYszRWGo/p7CSZbdk=;795N43UP2ZZEvb/M7xHh6Q=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/the-risks-and-limitations-of-ai-in-insura
 webUrl: "https://www.ibm.com/blog/the-risks-and-limitations-of-ai-in-insurance/"
 type: article
 quality: 99
-heat: 159
+heat: 169
 published: true
 
 provider:
@@ -54,6 +54,22 @@ related:
       - url: "https://images.benefitspro.com/contrib/content/uploads/sites/412/2022/10/Looking-at-Technology-Article-202210271701.jpg"
         width: 620
         height: 372
+        isCached: true
+  - title: "Generative AI’s implications on the financial services industry"
+    excerpt: "The pandemic nudged a large part of the country to go digital. But it is the amalgamation of AI and fintech that could truly take India to the forefront of the digital revolution."
+    publishedDateTime: 2023-05-09T07:09:00Z
+    webUrl: "https://www.financialexpress.com/money/generative-ais-implications-on-the-financial-services-industry/3080002/"
+    ampWebUrl: "https://www.financialexpress.com/money/generative-ais-implications-on-the-financial-services-industry/3080002/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/money/generative-ais-implications-on-the-financial-services-industry/3080002/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 59
+    images:
+      - url: "https://www.financialexpress.com/wp-content/uploads/2023/05/artificial-intelligence1.jpg"
+        width: 1200
+        height: 667
         isCached: true
   - title: "US announces measures to address risk of artificial intelligence arms race"
     excerpt: "White House said it would invest $140m in pursuit of AI advances that are ‘ethical, trustworthy, responsible, and serve the public good’"

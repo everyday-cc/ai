@@ -9,7 +9,7 @@ ampWebUrl: "https://gulfnews.com/amp/uae/health/uae-chemo-robot-artificial-intel
 cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/uae/health/uae-chemo-robot-artificial-intelligence-guided-radiotherapy-for-cancer-care-now-available-in-abu-dhabi-1.95537748"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -26,6 +26,17 @@ images:
     width: 540
     height: 405
     isCached: true
+
+related:
+  - title: "Abu Dhabi Yas Island theme parks launch use of AI customer-facing service"
+    excerpt: "The generative AI customer facing service leveraging ChatGPT will provide personalised guidance and information to visitors Abu Dhabi Yas Island theme parks launch use of AI customer-facing service Abu Dhabi,"
+    publishedDateTime: 2023-05-09T07:06:00Z
+    webUrl: "https://www.arabianbusiness.com/industries/technology/abu-dhabi-yas-island-theme-parks-launch-use-of-ai-customer-facing-service"
+    type: article
+    provider:
+      name: Arabian Business
+      domain: arabianbusiness.com
+    quality: 18
 
 secured: "xN1xsy3xVTvXbn10Z5GPntRXyreUY26LU9L6CUWljxnKDNsD4J71bqfRSd4y8NXkdByyJmc7q1yzDY90ykPT5wzyavp/E8rLuBetU5hy7ZOZqZ8pBWOkjz+IHedXC3K8lRYwvu4LyAUDXl/XPQhnl/WwKbxMWZL+D0UyRKWZg7aDcw+HZlItaPOzKZ9To0f5RH0kOKSKQXIIhtBsnpmFkqS/YQRv3dVRgQGmh8uiQMUEHEbMdBPyBfb+aPvERBGFRN+ZTRYS5zt85MP0eWdw8EyN1VPWux/qU6WLKzr4ZNX+XrdbAdoVolGo3BDDz9n42BX2y4DrTg6puv0d6g5dVCK4cUNZFgGVJMgTh01TZbo=;w1BlApLH5kYI6LljJJu4tQ=="
 ---

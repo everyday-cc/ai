@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/what-happens-when-we-run-out-of-data-for-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/what-happens-when-we-run-out-of-data-for-ai-models/amp/"
 type: article
 quality: 87
-heat: 89
+heat: 87
 published: true
 
 provider:

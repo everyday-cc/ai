@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-05-09-karnataka-assembly-election-facial-recognition-tech-could-ease-voting-process.md",
+      "title": "Karnataka Assembly election: Facial recognition tech could ease voting process",
+      "excerpt": "He added that after this, when the voter goes to the booth, the polling officer will check the details on a tab and allow the voter to vote immediately.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newindianexpress.com/states/karnataka/2023/may/09/karnataka-assembly-election-facial-recognition-tech-could-ease-voting-process-2573345.html",
+      "originalUrl": "https://www.newindianexpress.com/states/karnataka/2023/may/09/karnataka-assembly-election-facial-recognition-tech-could-ease-voting-process-2573345.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.newindianexpress.com/uploads/user/imagelibrary/2023/4/29/w600X390/Voters_PTI_.jpg",
+          "width": 600,
+          "height": 390,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newindianexpress.com/states/karnataka/2023/may/09/karnataka-assembly-election-facial-recognition-tech-could-ease-voting-process-2573345.amp",
+      "cdnAmpWebUrl": "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/states/karnataka/2023/may/09/karnataka-assembly-election-facial-recognition-tech-could-ease-voting-process-2573345.amp",
+      "publishedDateTime": "2023-05-08T21:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New Indian Express",
+        "domain": "newindianexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-08-galileo-unveils-ml-data-quality-intelligence-platform-for-faster-more-accurate-computer-vision-models.md",
       "title": "Galileo Unveils ML Data-Quality Intelligence Platform for Faster, More Accurate Computer Vision Models",
       "excerpt": "Galileo, the first-ever machine-learning (ML) data intelligence company for unstructured data, today announced the",
@@ -1339,58 +1382,6 @@
         "name": "Metro",
         "domain": "metro.co.uk",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-25-andrew-ngs-landing-ai-makes-it-easier-to-create-computer-vision-apps-with-visual-prompting.md",
-      "title": "Andrew Ng’s Landing AI makes it easier to create computer vision apps with Visual Prompting",
-      "excerpt": "Landing AI's new Visual Prompting feature makes it easy for users to develop new computer-vision applications.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/andrew-ngs-landing-ai-makes-it-easier-to-create-computer-vision-apps-with-visual-prompting/",
-      "originalUrl": "https://venturebeat.com/ai/andrew-ngs-landing-ai-makes-it-easier-to-create-computer-vision-apps-with-visual-prompting/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2016/06/computer-vision-e1663772711547.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/andrew-ngs-landing-ai-makes-it-easier-to-create-computer-vision-apps-with-visual-prompting/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/andrew-ngs-landing-ai-makes-it-easier-to-create-computer-vision-apps-with-visual-prompting/amp/",
-      "publishedDateTime": "2023-04-25T09:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

@@ -10,7 +10,7 @@
       "originalUrl": "https://www.crowdfundinsider.com/2023/05/206771-ai-machine-learning-openlayer-finalizes-4-8m-seed-round/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -137,50 +137,6 @@
       "topics": [
         "AI",
         "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-05-08-artificial-intelligence-identifies-anti-aging-drug-candidates-targeting-zombie-cells.md",
-      "title": "Artificial intelligence identifies anti-aging drug candidates targeting 'zombie' cells",
-      "excerpt": "A new publication in the May issue of Nature Aging by researchers from Integrated Biosciences, a biotechnology company combining synthetic biology and machine learning to target aging, demonstrates the power of artificial intelligence (AI) to discover novel senolytic compounds,",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2023-05-artificial-intelligence-anti-aging-drug-candidates.html",
-      "originalUrl": "https://phys.org/news/2023-05-artificial-intelligence-anti-aging-drug-candidates.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/artificial-intelligenc-39.jpg",
-          "width": 2000,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2023-05-artificial-intelligence-anti-aging-drug-candidates.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-05-artificial-intelligence-anti-aging-drug-candidates.amp",
-      "publishedDateTime": "2023-05-08T07:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare",
         "Machine Learning"
       ]
     },
@@ -588,7 +544,7 @@
       "originalUrl": "https://www.livemint.com/news/world/godfather-of-artificial-intelligence-geoffrey-hinton-has-spoken-up-about-the-dangers-of-ai-11683244206712.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -1423,6 +1379,49 @@
         "AI",
         "Machine Learning",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-05-02-deep-neural-network-provides-robust-detection-of-disease-biomarkers-in-real-time.md",
+      "title": "Deep neural network provides robust detection of disease biomarkers in real time",
+      "excerpt": "The deep neural network he developed classifies particle ... a relatively cheap edge device for accelerated execution of artificial intelligence algorithms. This means the system also requires ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2023/05/230502155410.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2023/05/230502155410.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-01T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     }
   ],

@@ -2,9 +2,9 @@
 category: news
 title: "How AI robots can affect Filipino domestic workers worldwide amid ChatGPT concerns"
 excerpt: "The discussion of artificial intelligence and robots taking over human jobs has reached another point following a recent study revolving around unpaid domestic help."
-publishedDateTime: 2023-05-09T05:32:00Z
-originalUrl: "https://www.philstar.com/lifestyle/modern-living/2023/05/09/2264997/how-ai-robots-can-affect-filipino-domestic-workers-worldwide-amid-chatgpt-concerns"
-webUrl: "https://www.philstar.com/lifestyle/modern-living/2023/05/09/2264997/how-ai-robots-can-affect-filipino-domestic-workers-worldwide-amid-chatgpt-concerns"
+publishedDateTime: 2023-05-09T07:30:00Z
+originalUrl: "https://www.philstar.com/lifestyle/on-the-radar/2023/05/09/2264997/how-ai-robots-can-affect-filipino-domestic-workers-worldwide-amid-chatgpt-concerns"
+webUrl: "https://www.philstar.com/lifestyle/on-the-radar/2023/05/09/2264997/how-ai-robots-can-affect-filipino-domestic-workers-worldwide-amid-chatgpt-concerns"
 type: article
 quality: 48
 heat: -1
@@ -108,15 +108,6 @@ related:
         width: 2048
         height: 1365
         isCached: true
-  - title: "Google shared AI knowledge with the world — until ChatGPT caught up"
-    excerpt: "In op-eds, podcasts and TV appearances, Google CEO Sundar Pichai has urged caution on AI. \"On a societal scale, it can cause a lot of harm,\" he warned on \"60 Minutes\" in April, describing how the technology could supercharge the creation of fake images and videos."
-    publishedDateTime: 2023-05-04T15:36:00Z
-    webUrl: "https://www.detroitnews.com/story/business/2023/05/04/google-shared-ai-knowledge-with-the-world-until-chatgpt-caught-up/70183544007/"
-    type: article
-    provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 19
   - title: "In 30 secs, ChatGPT produces 643 words on India and AI; Edge manages just 143"
     excerpt: "In the IANS New York office, we have been experimenting with chatbots and one of the tasks we set for the two as a test was to \"write a report"
     publishedDateTime: 2023-05-08T12:55:00Z
@@ -127,6 +118,6 @@ related:
       domain: glamsham.com
     quality: 16
 
-secured: "8OWG8YmE8zQM9EF3D7eRuBi8WFISIwRJm8KBxmRjYqmQmBzmn9IS5jxiDXTVHT/msZD5F9/zG4bUHjeVf6haDgG7tj3bYZhQWz7E7Wu1h6BVAu+NIU90U54yurd6wIV2Hvb9VkSQavLUKzyP64ioGDmg45rDy0A+Ncl3QWalzK1jGU7knRu9a+mRjtN0Jntb2cLz6fxbdyiMc8CV8rt4ZXiLNR4OPhJqRUjkANRm9aEJvOu/iJgiMFaY+41SOcK/ezcTVp6e33sg/xxhDKVHPo8rPbWCapjswvdgFsqcJJmuCwyv6QnJ9Bs1zDfinxjNzpsKsOInN3GY6j0CvEIlyWggSK4DtZusWflGdr5LkIc=;DjBMP9vMa+heYuJ5H7/09g=="
+secured: "uOPG+QX/DtpuhDv7w/OL1PqStfsIGHEi1733SDnZlGnX1OwNLNS4HsbEIfRPBXQIWo3b/nzowD9OGaXYuIwZwogMNkFxQVqJrXCXJRrYjVK95alzEuW8SzUmHI8pK5r9mKzwEGwTheRqgSySEzcSuv1NOcVabUYo8eUynsWQx7O+GUbT1L8rcQlyvmSItb4zUaFI7pQf2k8CFzEvCXyw41oL6nSNEkkbKRHHEIf1/vtG+8uq2cQkWjtZ2TEidITm93523Cl418h3a77eFk7UPYxD4cIf9g63DGcTIUbKJ21qUunpIIzw7v+3YDpx0B+FaAXLleWmGYDN/U5Iy94G/RBGxtYCaNVbthqFKpYRNpU=;2zFbRichHLqJVfc612bMng=="
 ---
 

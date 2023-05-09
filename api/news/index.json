@@ -53,6 +53,49 @@
       ]
     },
     {
+      "path": "_news/2023-05-09-karnataka-assembly-election-facial-recognition-tech-could-ease-voting-process.md",
+      "title": "Karnataka Assembly election: Facial recognition tech could ease voting process",
+      "excerpt": "He added that after this, when the voter goes to the booth, the polling officer will check the details on a tab and allow the voter to vote immediately.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newindianexpress.com/states/karnataka/2023/may/09/karnataka-assembly-election-facial-recognition-tech-could-ease-voting-process-2573345.html",
+      "originalUrl": "https://www.newindianexpress.com/states/karnataka/2023/may/09/karnataka-assembly-election-facial-recognition-tech-could-ease-voting-process-2573345.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.newindianexpress.com/uploads/user/imagelibrary/2023/4/29/w600X390/Voters_PTI_.jpg",
+          "width": 600,
+          "height": 390,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newindianexpress.com/states/karnataka/2023/may/09/karnataka-assembly-election-facial-recognition-tech-could-ease-voting-process-2573345.amp",
+      "cdnAmpWebUrl": "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/states/karnataka/2023/may/09/karnataka-assembly-election-facial-recognition-tech-could-ease-voting-process-2573345.amp",
+      "publishedDateTime": "2023-05-08T21:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New Indian Express",
+        "domain": "newindianexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-09-ai-machine-learning-openlayer-finalizes-48m-seed-round.md",
       "title": "AI, Machine Learning: Openlayer Finalizes $4.8M Seed Round",
       "excerpt": "Openlayer, which claims to be the creator of the most comprehensive platform for testing AI, announced that it has closed a $4.8M seed round.",
@@ -61,7 +104,7 @@
       "originalUrl": "https://www.crowdfundinsider.com/2023/05/206771-ai-machine-learning-openlayer-finalizes-4-8m-seed-round/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -96,57 +139,6 @@
       ]
     },
     {
-      "path": "_news/2023-05-09-chatgpt-can-students-pass-using-ai-tools-at-university.md",
-      "title": "ChatGPT: Can students pass using AI tools at university?",
-      "excerpt": "As with most universities, Bath's policy on ChatGPT and other AI tools is still in the works. It is due to be in place from September. After that, a team will meet throughout the year to ensure it keeps up with the rapidly changing technology. In the meantime, many staff are once again setting in-person, invigilated summer exams.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/education-65316283",
-      "originalUrl": "https://www.bbc.com/news/education-65316283",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/0991/production/_129594420_gettyimages-1460902077.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/education-65316283.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/education-65316283.amp",
-      "publishedDateTime": "2023-05-08T16:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-05-09-apple-co-founder-says-ai-may-make-scams-harder-to-spot.md",
       "title": "Apple co-founder says AI may make scams harder to spot",
       "excerpt": "Apple co-founder, Steve Wozniak, has warned that artificial intelligence (AI) could make scams and misinformation harder to spot. Mr Wozniak says he fears the technology will be harnessed by \"bad actors\". Speaking to the BBC, he said AI content should be clearly labelled, and regulation was needed for the sector.",
@@ -155,7 +147,7 @@
       "originalUrl": "https://www.bbc.com/news/technology-65496150",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 98,
       "tags": null,
       "images": [
         {
@@ -249,7 +241,7 @@
       "originalUrl": "https://venturebeat.com/ai/ai-ethics-for-ad-professionals-10-rules-of-engagement/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -396,7 +388,7 @@
       "originalUrl": "https://www.bloomberg.com/news/articles/2023-05-08/gptzero-seeks-to-thwart-plagerism-in-schools-online-media",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 78,
       "tags": null,
       "images": [
         {
@@ -750,50 +742,6 @@
       ]
     },
     {
-      "path": "_news/2023-05-08-artificial-intelligence-identifies-anti-aging-drug-candidates-targeting-zombie-cells.md",
-      "title": "Artificial intelligence identifies anti-aging drug candidates targeting 'zombie' cells",
-      "excerpt": "A new publication in the May issue of Nature Aging by researchers from Integrated Biosciences, a biotechnology company combining synthetic biology and machine learning to target aging, demonstrates the power of artificial intelligence (AI) to discover novel senolytic compounds,",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2023-05-artificial-intelligence-anti-aging-drug-candidates.html",
-      "originalUrl": "https://phys.org/news/2023-05-artificial-intelligence-anti-aging-drug-candidates.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/artificial-intelligenc-39.jpg",
-          "width": 2000,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2023-05-artificial-intelligence-anti-aging-drug-candidates.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-05-artificial-intelligence-anti-aging-drug-candidates.amp",
-      "publishedDateTime": "2023-05-08T07:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2023-05-08-warren-buffett-vs-big-tech-should-you-invest-in-artificial-intelligence-ai-stocks.md",
       "title": "Warren Buffett Vs Big Tech: Should you invest in Artificial Intelligence (AI) stocks?",
       "excerpt": "AI is expected to impact society and global business and so AI stocks could have a place in most investors’ portfolios.",
@@ -1104,7 +1052,7 @@
       "originalUrl": "https://www.ibm.com/blog/the-risks-and-limitations-of-ai-in-insurance/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 159,
+      "heat": 169,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1216,6 +1164,57 @@
       "ampWebUrl": "https://www.forbes.com/sites/stevensalzberg/2023/05/08/should-we-be-worried-about-ai-i-thought-not-until-i-asked-an-ai/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevensalzberg/2023/05/08/should-we-be-worried-about-ai-i-thought-not-until-i-asked-an-ai/amp/",
       "publishedDateTime": "2023-05-08T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-08-ai-tools-can-help-musicians-unlock-creativity-and-reach-fans.md",
+      "title": "AI Tools Can Help Musicians Unlock Creativity And Reach Fans",
+      "excerpt": "AI is a game changer for music. It's intuitive, adaptive, suggestive and big-data-powered, and everything from workflow to strategic analysis is set to evolve.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/05/08/ai-tools-can-help-musicians-unlock-creativity-and-reach-fans/",
+      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/05/08/ai-tools-can-help-musicians-unlock-creativity-and-reach-fans/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64555ccda625265f03e31892/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 759,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/05/08/ai-tools-can-help-musicians-unlock-creativity-and-reach-fans/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/05/08/ai-tools-can-help-musicians-unlock-creativity-and-reach-fans/amp/",
+      "publishedDateTime": "2023-05-08T04:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",

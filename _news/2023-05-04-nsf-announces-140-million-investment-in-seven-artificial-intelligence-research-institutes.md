@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/michaeltnietzel/2023/05/04/nsf-announce
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/michaeltnietzel/2023/05/04/nsf-announces-140-million-investment-in-seven-artificial-intelligence-research-institutes/amp/"
 type: article
 quality: 77
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -45,22 +45,6 @@ related:
       - url: "https://wraltechwire.com/wp-content/uploads/2020/10/evolution-3778196_1280-e1603274750343.jpg"
         width: 1238
         height: 697
-        isCached: true
-  - title: "Center for Research toward Advancing Financial Technologies Announces Industry Members, Research Projects to Drive Fintech Sector Innovation"
-    excerpt: "Stevens Institute of Technology and Rensselaer Polytechnic Institute announced their first industry members, including Bank of America."
-    publishedDateTime: 2023-05-04T14:27:00Z
-    webUrl: "https://www.crowdfundinsider.com/2023/05/206587-center-for-research-toward-advancing-financial-technologies-announces-industry-members-research-projects-to-drive-fintech-sector-innovation/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2023/05/206587-center-for-research-toward-advancing-financial-technologies-announces-industry-members-research-projects-to-drive-fintech-sector-innovation/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/05/206587-center-for-research-toward-advancing-financial-technologies-announces-industry-members-research-projects-to-drive-fintech-sector-innovation/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 9
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2021/05/Abe-Lincoln-Eyes-Watch-Look-Dollar-Money.jpeg"
-        width: 1280
-        height: 724
         isCached: true
   - title: "Carnegie Mellon University wins $20 million for creation of national AI research institute"
     excerpt: "Carnegie Mellon University has received a $20 million commitment from the U.S. National Science Foundation and other federal agencies to create one of seven new National Artificial Intelligence Research Institutes."

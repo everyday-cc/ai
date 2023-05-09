@@ -79,6 +79,20 @@ related:
         width: 1000
         height: 628
         isCached: true
+  - title: "Meta buys AI networking chip team from Graphcore"
+    excerpt: "Meta Platforms has hired an Oslo-based team that until late last year was building AI networking technology at Graphcore."
+    publishedDateTime: 2023-05-09T06:09:00Z
+    webUrl: "https://techcentral.co.za/meta-buys-ai-networking-chip-team-from-graphcore/225369/"
+    type: article
+    provider:
+      name: TechCentral
+      domain: techcentral.co.za
+    quality: 54
+    images:
+      - url: "https://techcentral.co.za/wp-content/uploads/2022/10/re-meta-platform-1500-800.jpg"
+        width: 1500
+        height: 800
+        isCached: true
 
 secured: "nuMNIBk2oVYMy0O04ym9Se3ReMnAXRcPWdtLDsToGdTo8K8vrOrkMk6kLQ6MGnORoSD/kFabY04YpZR2h/kd9bVAacH7N9rImcG7bxTKY7kfoylFGA+ZVpZ64J6zGsPgDoJSAOIoUrCAyY2xBz4NifTNKn0waUtUUIkEhWtjwIJkEo2V2jIbWJ5w1wHKzwV4Jypoo7K8/hN2C5izF2J6ZJEsGBwwbo1sppMR4IPwGQjHP8aVrjNICm9u5Iykt+5PYCv+tVIeC2byEaLtgZUV2Fi2QwG9Eqr0l8I0rbuy9zFZEcGXxemEGylA/Wo1I41SEBAOoYf9G0sVkgEvP7oSwWTGMY3FHI3i3Ss3a6kDn8KNVn+Z0+B27ZlPaZCZlCGsbis+HTzAKlVX67yHINpI7RPRp37lk546nIPdgURNRHhtNYquZHsefK+V/lUJSxNAVbWv2sbhDeiDp91Hdo2VR8+rCQUUN385QOtXa6vAmhqE2UUIVruEEfWRT4dOLZV1Tg04fh5BvEbK09ETEayaNQ==;IPAcRvbOO89Ti4e2sbhi7g=="
 ---

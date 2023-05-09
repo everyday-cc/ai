@@ -9,8 +9,8 @@ ampWebUrl: "https://www.newindianexpress.com/states/karnataka/2023/may/09/karnat
 cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/states/karnataka/2023/may/09/karnataka-assembly-election-facial-recognition-tech-could-ease-voting-process-2573345.amp"
 type: article
 quality: 55
-heat: 65
-published: false
+heat: 75
+published: true
 
 provider:
   name: The New Indian Express
@@ -43,7 +43,21 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Facial Recognition Technology Could Ease Voting Process In Future Elections"
+    excerpt: "The incorporation of facial recognition technology could make voting considerably simpler in the future.Deputy Joint CEO Surya Sen explained that by downloading the \"Chunavana\" mobile app"
+    publishedDateTime: 2023-05-09T06:30:00Z
+    webUrl: "https://www.thehansindia.com/karnataka/facial-recognition-technology-could-ease-voting-process-in-future-elections-796603"
+    type: article
+    provider:
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 37
+    images:
+      - url: "https://assets.thehansindia.com/h-upload/2023/05/09/1350511-oo.jpg"
+        width: 1200
+        height: 720
+        isCached: true
 
-secured: "mabeh69wnxOULWjU9BcfABnvNx+v5DBd+0Xv/TYxLRDgdEzvQBtgKcUxyyFqxBeJxuaavAkmZuiilVT32B+O7dkRRY7Zs6oEYuORsxdupZTpvrol/1+2T9URcn13uLcmB3AktGI0dfhiEyTT9lzyuf2bcmS6aVqMmkOnBZ7FKzEwlqwYmI5pkVI2NlaQ6UT8borSQIGoBWddSLRXeF/aglRZQ4YBvntDpJHyYuEMLgWxAzm0RF16bcYBmFwa1/UBnfxPZDV6BKiOXF+roGSeau02Criq2535YBkrMw80bQuhTxwiKkqS4JD1MQ0XuCcc+YvE8Mjh4alBOCyZCJWZ3HFkGQ1cgmOT0mm/ElsFwAo=;USueK+1M+OYnpdL112zIpw=="
+secured: "7D7FRw17JG5F+QZTna/17JU2WlJMdm70HEojgBckgXIbHRm26WqXWsNkg+fSO5oGJIlC6ViKwvK8YxzPO15hyV+S/PyG+EpkTBJgr09YePvIY6oCihc2huDpZXkcPXZKCHciguv95M+mNjo5hN3bpmHa3pYEfdkE03yU7e++nxj59+dzXZV09L6xzwCSRYMEN+gnd5YQcNzrl4eNQmEy4wsLvqhcZBTQoBcNpw6KDUnfMcsyOZbeeqku+eajYivECsPxAzgfHeznRlYmmWgU2RfOB7Nul1e1FKZDNo35U8g3OsAQPepBKmMTcyDF3qJIu8F16GjEYTH/LFuJjlaCUXkqprU9pWOF1i9lCI3PeTGXmuOZb6rEflH7LwEJxS/bv17nZHoF8cP4+/ZjsfTkuhb6f6Cog37+IXjZ8bJdDtt6HZphvCSZqRUKCacgGhdo0QZkUfwpgswPS354a4MUNGnWzjdwbPOhwZGBjQ9ymXqZ+9xh2QFlnwXw2SnSejPVzRVaVuNmisrxsuow/VRC1A==;wHuHTKUTIn4JvgVDj/y7og=="
 ---
 

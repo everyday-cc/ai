@@ -118,6 +118,20 @@ related:
         width: 898
         height: 470
         isCached: true
+  - title: "Chatbot Market Growth, Opportunities, and Recent Trends | Covered by Acumen Research and Consulting"
+    excerpt: "The Chatbot Market Size in 2021 was USD 521 Million, Market Value set to reach USD 3,411 Million at 23.7% CAGR by"
+    publishedDateTime: 2023-05-08T12:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/chatbot-market-growth-opportunities-and-recent-trends-covered-by-acumen-research-and-consulting-2023-05-08"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 40
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "2023 \"Data Science and Machine-Learning Platforms Market\" Modern Trends and Future Growth Insights 2030 | 122 Pages Report"
     excerpt: "Global \"Data Science and Machine-Learning Platforms Market\" research report provides Innovative Insights on the Strategies adopted by Major Global Players [Domino Data Lab, Dataiku, Lexalytics, TIBCO Software,"
     publishedDateTime: 2023-05-05T16:47:00Z

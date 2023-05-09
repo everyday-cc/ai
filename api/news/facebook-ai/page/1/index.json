@@ -63,7 +63,7 @@
       "originalUrl": "https://venturebeat.com/ai/biden-administration-takes-action-to-promote-responsible-ai-innovation/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -115,7 +115,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/ai-marketing-market-future-growth-and-business-opportunities-2023-updated-report-2023-05-05",
       "featuredContent": null,
       "highlight": null,
-      "heat": 190,
+      "heat": 200,
       "tags": null,
       "images": [
         {
@@ -846,6 +846,49 @@
       ]
     },
     {
+      "path": "_news/2023-04-27-opinion-ai-research-needs-to-be-reined-in.md",
+      "title": "Opinion | AI research needs to be reined in",
+      "excerpt": "AI is dangerously unregulated as a research field, in a way few other fields are able ... This hype and market trend leads to companies with questionable track records, such as Facebook and Twitter, to cut corners in pursuit of profits.",
+      "sourceUrl": null,
+      "webUrl": "https://dailyiowan.com/2023/04/26/opinion-ai-research-needs-to-be-reined-in/",
+      "originalUrl": "https://dailyiowan.com/2023/04/26/opinion-ai-research-needs-to-be-reined-in/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dailyiowan.com/wp-content/uploads/2023/03/ChatGPTBrainstrorming-900x600.jpg",
+          "width": 900,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-26T16:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Univeristy of Iowa Daily Iowan",
+        "domain": "dailyiowan.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-27-microsoft-is-staking-its-future-on-generative-ai.md",
       "title": "Microsoft Is Staking Its Future On Generative AI",
       "excerpt": "Microsoft CEO, Satya Nadella,has been very clear that generative AI will reshape every Microsoft software category and major transformations are underway throughout the company. Microsoft has a major edge over its rivals, as it also is building in its own AI chips, so it won’t be totally reliant on market leaders like Intel, or Nvidia.",
@@ -1445,49 +1488,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-19-inside-the-secret-list-of-websites-that-make-ai-like-chatgpt-sound-smart.md",
-      "title": "Inside the secret list of websites that make AI like ChatGPT sound smart",
-      "excerpt": "An analysis of a chatbot data set by The Washington Post reveals the proprietary, personal, and often offensive websites that go into an AI’s training data.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/technology/interactive/2023/ai-chatbot-learning/",
-      "originalUrl": "https://www.washingtonpost.com/technology/interactive/2023/ai-chatbot-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3RJWXEJIYVBRRCKTKMQYEARILU.jpg&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-18T21:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Washington Post",
-        "domain": "washingtonpost.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

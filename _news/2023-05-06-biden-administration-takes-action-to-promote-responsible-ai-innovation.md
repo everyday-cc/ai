@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/biden-administration-takes-action-to-prom
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/biden-administration-takes-action-to-promote-responsible-ai-innovation/amp/"
 type: article
 quality: 89
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Information ministry holds lecture on AI"
-    excerpt: "Muscat: The Ministry of Information on Thursday organised a lecture on artificial intelligence (AI). The lecture dealt with the concept of"
-    publishedDateTime: 2023-05-04T14:14:00Z
-    webUrl: "https://www.omanobserver.om/article/1136617/oman/information-ministry-holds-lecture-on-ai"
-    ampWebUrl: "https://www.omanobserver.om/ampArticle/1136617"
-    cdnAmpWebUrl: "https://www-omanobserver-om.cdn.ampproject.org/c/s/www.omanobserver.om/ampArticle/1136617"
-    type: article
-    provider:
-      name: omanobserver
-      domain: omanobserver.om
-    quality: 59
-    images:
-      - url: "https://www.omanobserver.om/omanobserver/uploads/images/2023/05/04/2321824.jpg"
-        width: 1000
-        height: 503
-        isCached: true
   - title: "ROISD’s Music Education Program receives national recognition"
     excerpt: "Staff report Red Oak ISD has been honored with the Best Communities for Music Education designation from The NAMM Foundation for its outstanding commitment to music education. Now in its 24th year, the Best Communities for Music Education designation is awarded to districts that demonstrate outstanding achievement in efforts to provide music access and education"
     publishedDateTime: 2023-05-04T21:54:00Z

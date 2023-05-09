@@ -72,6 +72,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "White House announces measures to address challenges of AI"
+    excerpt: "The White House has announced a series of measures to address the challenges of artificial intelligence, driven by the sudden popularity of tools such as ChatGPT and amid rising concerns about the technology’s potential risks for discrimination,"
+    publishedDateTime: 2023-05-08T17:27:00Z
+    webUrl: "https://www.tvcnews.tv/2023/05/white-house-announces-measures-to-address-challenges-of-ai/"
+    type: article
+    provider:
+      name: tvcnews.tv
+      domain: tvcnews.tv
+    quality: 39
+    images:
+      - url: "https://www.tvcnews.tv/wp-content/uploads/2023/05/download_53_600x400.jpg"
+        width: 600
+        height: 400
+        isCached: true
   - title: "How artificial intelligence may change health care"
     excerpt: "Officials believe convicted rapist, Jesse McFadden, murdered six people and then killed himself."
     publishedDateTime: 2023-05-05T21:40:00Z
@@ -91,6 +105,6 @@ related:
       domain: hbr.org
     quality: 17
 
-secured: "hPwibybP5KdKNMwE4a/ETgR+YjRdbeiAMUUH3vLAERK4SSbMg4NE5wUeELICpqQzxsVBHu6R6uHCcWEU8Udr/hrMeE7XkwUgfyA/fvj0Cd0+Q+sICQcr1+3gMa0i+oEeWyPbq0Q6Yrni/a+oCJDqOt4/GvytA8TNP5SYIK8Iz6vYlqQpABH8a3U5EnY049r0n7Ujs7djLOhJaGlImznNldEFXAAo5Uwsmp4tSDi44jQcnVUTIHfm0c5tZW175qlmIvJXygX1m0iGaMsHJpmW2NwGTlFCqkpoapC0h2XfYnwFXhzK5FJJEfDx0GG2VgQiFfJ6JydbCa9D7xvJRF/Z+B8iJGAUSkaGnJTjCV848hk=;acJWuHcUK7MBRvLZgc519Q=="
+secured: "l/Mz1Rs01+4cjL0tJl7qnyzRSW6V9nfcgrUnFsAPFr9g6YS1cA1Dc5DxDShfGwHgodOoTEe3c5uh0J/ZfM4LWU9tbfjBPwUHLz3ykCsWvXN23WD0YvnzMylosDrmbXmtU3V/guYKJ1s2onakA1fZu9s+FJJfS8gRsKii1pGZ4al6kGgUsQEILKJtqV14FNb07JVZ5cJCrMi92UOW7DnDiFAT1MCk13pXym++BnRMEGgHWBLqoQoOC0A0FS7pdtdkVEkai0WDkvSVeEa3MP9aAayvFQICf4Bpp76filvjjwwRcIZjaXGDRgn666srwSuF+/ckBxAeGL9k9oD+dnI7fj2VRG6f6pQB4sQ6E/adM8pwA3OzQuO8hHMLgoKrtOAaoti2xQFcQbJIzNk19VLDjSKrJ29NVnorgVPGw+wpkxT/BngTgm6TFojYm0vQ39qie1IBZQZltD2/iKU/s4wHTPx/kvKUDjGmiNURfXHYxNe6EW5YFOe/2bdiCnc5q5b8OYuVaODo7ZzDJUmHS7fUSw==;JnJm2b4FDkdUihD9KTeuhQ=="
 ---
 

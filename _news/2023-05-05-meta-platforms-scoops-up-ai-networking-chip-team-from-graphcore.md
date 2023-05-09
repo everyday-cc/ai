@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/technology/meta-platforms-scoops-up-ai-net
 webUrl: "https://www.reuters.com/technology/meta-platforms-scoops-up-ai-networking-chip-team-graphcore-2023-05-05/"
 type: article
 quality: 86
-heat: 126
+heat: 136
 published: true
 
 provider:
@@ -85,6 +85,20 @@ related:
       name: Indiatimes
       domain: indiatimes.com
     quality: 54
+  - title: "Meta buys AI networking chip team from Graphcore"
+    excerpt: "Meta Platforms has hired an Oslo-based team that until late last year was building AI networking technology at Graphcore."
+    publishedDateTime: 2023-05-09T06:09:00Z
+    webUrl: "https://techcentral.co.za/meta-buys-ai-networking-chip-team-from-graphcore/225369/"
+    type: article
+    provider:
+      name: TechCentral
+      domain: techcentral.co.za
+    quality: 54
+    images:
+      - url: "https://techcentral.co.za/wp-content/uploads/2022/10/re-meta-platform-1500-800.jpg"
+        width: 1500
+        height: 800
+        isCached: true
 
 secured: "6HNnCk40ISr7qpQVIxH5e0VJur9ZHTAv3DEMgGWkXgAEsByHjVm6CibjHQE18EqM9NiXH7bIPQObjh8vk70Zvc2A7yo+Q3/adTYTbhYhNclVvODVFnAd9IAbJKY28wJc8F0H+pID2lVvLeOWER/AWYYKNAynXnaAzcywZ6gKQCY122u+uJTVkFi2HP17Y0lfj/e3eiLMf7LcxcCjjd3y5h2YpQJoD+kilYSRxeGOiAO7+0xJIiTYBmcCmSTWb9fpqBH8X70DwZy2nJ/2DHousjTa0RzTuV2PkmVGOvHKwU6tJuR9+SmPS5hdYtpVkKoOTN9fHoofRVNY3k7IGObyw5J94HhqIU6WFN7cJcGsJnZZXhpS7oG/Hnu875d5UhiFhlA1hjLknGBA7yfSwA4lghEtEoaiGtQItSgE5ZwWJs8BGW9srE0ZW5SngVve+iQwdNQYQ1rvfAwgL7BD/kSvi7LC/L3u+uVxogo9st+Lwkek3N6WhtJ2BCzYo9RrTZSiLhP4ysIKnEfVPXH4kvW5Ug==;dy2r8FlVWdIaE/n1x7pHqQ=="
 ---

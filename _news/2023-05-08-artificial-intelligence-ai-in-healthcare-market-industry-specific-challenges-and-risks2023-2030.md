@@ -51,6 +51,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI In Computer Vision Market Growth and Revenue Forecast by 2030"
+    excerpt: "Brief Overview of the AI In Computer Vision Market: During The Forecast Period Spanning from 2023 To 2030, The Global AI In Computer Vision Market Is Expected to Experience Significant Growth. As of 2022, The Market Is Steadily Increasing, and with The ..."
+    publishedDateTime: 2023-05-09T05:59:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-growth-and-revenue-forecast-by-2030-2023-05-08"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 84
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence (AI) in Automotive Market"
     excerpt: "Research Reports has published a new report titled as \"Artificial Intelligence (AI) in Automotive Market\" by End"
     publishedDateTime: 2023-05-08T05:30:00Z

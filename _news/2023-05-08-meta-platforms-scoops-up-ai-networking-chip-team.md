@@ -81,6 +81,20 @@ related:
       name: Indiatimes
       domain: indiatimes.com
     quality: 54
+  - title: "Meta buys AI networking chip team from Graphcore"
+    excerpt: "Meta Platforms has hired an Oslo-based team that until late last year was building AI networking technology at Graphcore."
+    publishedDateTime: 2023-05-09T06:09:00Z
+    webUrl: "https://techcentral.co.za/meta-buys-ai-networking-chip-team-from-graphcore/225369/"
+    type: article
+    provider:
+      name: TechCentral
+      domain: techcentral.co.za
+    quality: 54
+    images:
+      - url: "https://techcentral.co.za/wp-content/uploads/2022/10/re-meta-platform-1500-800.jpg"
+        width: 1500
+        height: 800
+        isCached: true
 
 secured: "iW3IhuF6gyQh4XLZ1FYL5GNNjpRQlgh5tCucxi95UvqrXB2ayRWOG01fp7bt3MR4yyZ/8xS8bLQrNfsCfezBKxaYt6xync11P4iGXsmKdJAI/RReV9aLe9Lm1ZUYE1ECDoWuN6BB9Q1MnSlwKzfQnEW0+aWitQ8MWRYoASXhnk1E6c6saiURNVqsn9RXrzVNeiKN+PO9TUG5RLfrVcLqfU8GUCnyf7C9Q5VcdbkpGhAeg/vE8OFOhIatqmwhGG0GJXCKyrMYzxtXpc2qZfOOUYmhjN0TCFIHM0Jg0LAIDUswT5m8j54/9BGu4txSWA3X9kGefFwUPqhn/F++FiLoPKqfpkXawGIuuxRPj7gV+EvXsvnpCfbAopxp1FXDcb431y070iyZEuqFXpERPFvL9uME3u80+dtd89bx+2luucLsuD8tRmDOicsP/t4BnTm+f+/Ab9Mi20vkHK6Tq8m9fGmEfdkDGpm6WU9cscXFfjadAJXBasMw3ln9WeMiIGPyYwrv+WWIslbbe4NvYEEK4Q==;xcRBgtRBKkuX9T982qUguQ=="
 ---

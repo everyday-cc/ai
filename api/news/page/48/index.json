@@ -2,6 +2,151 @@
   "page": 48,
   "value": [
     {
+      "path": "_news/2023-04-04-artificial-intelligence-ethics-and-a-right-to-a-human-decision.md",
+      "title": "Artificial Intelligence, Ethics, and a Right to a Human Decision",
+      "excerpt": "John Tasioulas is the inaugural Director for the Institute for Ethics and AI, and Professor of Ethics and Legal Philosophy, Faculty of Philosophy, University of Oxford. Professor Tasioulas has degrees in Law and Philosophy from the University of Melbourne ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.princeton.edu/events/2023/artificial-intelligence-ethics-and-right-human-decision",
+      "originalUrl": "https://www.princeton.edu/events/2023/artificial-intelligence-ethics-and-right-human-decision",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-04T02:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Princeton University",
+        "domain": "princeton.edu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-04-vpbank-selects-amazon-web-services-as-its-cloud-provider.md",
+      "title": "VPBank Selects Amazon Web Services as Its Cloud Provider",
+      "excerpt": "The Vietnam Prosperity Joint-Stock Commercial Bank (VPBank) has selected Amazon Web Services (AWS) to help it build digital banking experiences for its customers. VPBank will use AWS SageMaker and AWS AI Services to enhance its analytics capabilities and accelerate the development of banking-financial applications,",
+      "sourceUrl": null,
+      "webUrl": "https://fintechnews.sg/71233/vietnam/vpbank-selects-amazon-web-services-as-its-cloud-provider/",
+      "originalUrl": "https://fintechnews.sg/71233/vietnam/vpbank-selects-amazon-web-services-as-its-cloud-provider/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://c9k9c9v3.stackpathcdn.com/wp-content/uploads/2023/04/VPBank-Selects-Amazon-Web-Services-as-Its-Cloud-Provider.png?x90673",
+          "width": 1024,
+          "height": 567,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-04T02:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fintech Singapore",
+        "domain": "fintechnews.sg",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-04-adlink-launches-portable-gpu-accelerator-with-nvidia-rtx-a500.md",
+      "title": "Adlink launches portable GPU accelerator with NVIDIA RTX A500",
+      "excerpt": "ADLINK Technology Inc., a global leader in edge computing, today launched Pocket AI - the first ever ultra-portable GPU accelerator to offer exceptional power at a cost-effective price point.",
+      "sourceUrl": null,
+      "webUrl": "https://www.guru3d.com/news-story/adlink-launches-portable-gpu-accelerator-with-nvidia-rtx-a500.html",
+      "originalUrl": "https://www.guru3d.com/news-story/adlink-launches-portable-gpu-accelerator-with-nvidia-rtx-a500.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-04T01:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Guru3D.com",
+        "domain": "guru3d.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-04-mind-controlled-robots-new-graphene-sensors-are-turning-science-fiction-into-reality.md",
+      "title": "Mind-Controlled Robots: New Graphene Sensors Are Turning Science Fiction Into Reality",
+      "excerpt": "Researchers have designed a 3D-patterned, graphene-based, dry sensor that can measure the brain's electrical activity without relying on conductive gels. The dry sensors are less irritating and allerg",
+      "sourceUrl": null,
+      "webUrl": "https://scitechdaily.com/mind-controlled-robots-new-graphene-sensors-are-turning-science-fiction-into-reality/",
+      "originalUrl": "https://scitechdaily.com/mind-controlled-robots-new-graphene-sensors-are-turning-science-fiction-into-reality/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-04T00:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SciTech Daily",
+        "domain": "scitechdaily.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-04-cognitive-computing-market-is-anticipated-to-reach-us-32-trillion-in-2032-report-by-fmi.md",
       "title": "Cognitive Computing Market is Anticipated to Reach US$ 3.2 Trillion in 2032 | Report by FMI",
       "excerpt": "According to a recent study done by FMI, the cognitive computing market is expected to reach US$ 3.2 Trillion by 2032, up from US$ 257.1 Billion in 2022, expanding at a high CAGR of 28.7%. This study explains that the key factors such as the rise in big data analytics,",
@@ -784,161 +929,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-03-ibm-uses-ai-to-generate-commentary-for-golfs-masters.md",
-      "title": "IBM uses AI to generate commentary for golf’s Masters",
-      "excerpt": "worked with the Masters digital team to leverage multiple foundation models — including IBM Watson Text-to-Speech – to train the AI in the language of golf at the Masters, automating the process of adding spoken commentary to video clips, said IBM.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tvbeurope.com/audio/ibm-uses-ai-to-generate-commentary-for-golfs-masters",
-      "originalUrl": "https://www.tvbeurope.com/audio/ibm-uses-ai-to-generate-commentary-for-golfs-masters",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-03T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "tvbeurope.com",
-        "domain": "tvbeurope.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-03-artificial-intelligence-in-the-transportation-market-scenario-gross-margin-regional-demand-and-forecast-to-2031.md",
-      "title": "Artificial Intelligence in the Transportation Market Scenario, Gross Margin, Regional Demand and Forecast to 2031",
-      "excerpt": "The global artificial intelligence in the transportation market size was US$ 1.45 billion in 2020. The global artificial intelligence in the transportation market is forecast to reach the value of US$ 17.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-the-transportation-market-scenario-gross-margin-regional-demand-and-forecast-to-2031-2023-04-03",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-the-transportation-market-scenario-gross-margin-regional-demand-and-forecast-to-2031-2023-04-03",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-03T03:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-03-understanding-machine-learning-as-a-service-mlaas-market-2023-latest-report-dynamics-in-significant-geographic-segments-by-2030.md",
-      "title": "Understanding Machine Learning as a Service (MLaaS) Market 2023 [Latest Report] | Dynamics in Significant Geographic Segments by 2030",
-      "excerpt": "Global Machine Learning as a Service (MLaaS) Market 2023 | Latest Report (104 Pages Report) | Information Technology",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/understanding-machine-learning-as-a-service-mlaas-market-2023-latest-report-dynamics-in-significant-geographic-segments-by-2030-2023-04-03",
-      "originalUrl": "https://www.marketwatch.com/press-release/understanding-machine-learning-as-a-service-mlaas-market-2023-latest-report-dynamics-in-significant-geographic-segments-by-2030-2023-04-03",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-03T01:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-04-03-ant-group-partners-with-zhejiang-university-to-promote-intelligent-vision-technology.md",
-      "title": "Ant Group partners with Zhejiang University to promote intelligent vision technology",
-      "excerpt": "Alibaba’s financial affiliate, Ant Group, has partnered with Zhejiang University to establish an Intelligent Vision Joint Laboratory.",
-      "sourceUrl": null,
-      "webUrl": "https://technode.com/2023/04/03/ant-group-partners-with-zhejiang-university-to-promote-intelligent-vision-technology/",
-      "originalUrl": "https://technode.com/2023/04/03/ant-group-partners-with-zhejiang-university-to-promote-intelligent-vision-technology/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-03T00:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechNode",
-        "domain": "technode.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

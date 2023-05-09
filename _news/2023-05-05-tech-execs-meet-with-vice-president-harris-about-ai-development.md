@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo172819525842"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo172819525842"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 117
+published: true
 
 provider:
   name: NBC News
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "VP Harris to meet with CEOs about artificial intelligence risks"
-    excerpt: "The Democratic administration plans to announce an investment of $140 million to establish seven new AI research institutes."
-    publishedDateTime: 2023-05-04T13:50:00Z
-    webUrl: "https://www.nbcnews.com/tech/tech-news/vp-harris-meet-ceos-artificial-intelligence-risks-rcna82835"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna82835"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna82835"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 87
-    images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-05/230504-kamala-harris-mjf-0946-2ef781.jpg"
-        width: 2500
-        height: 1436
-        isCached: true
   - title: "VP Kamala Harris Urges Tech Titans to Put Ethics First in AI Development"
     excerpt: "Harris' meeting with tech CEOs sends a clear message that the government will take action against companies acting irresponsibly in AI dev"
     publishedDateTime: 2023-05-05T03:31:00Z

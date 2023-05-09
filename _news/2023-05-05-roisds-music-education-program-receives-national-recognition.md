@@ -42,22 +42,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Information ministry holds lecture on AI"
-    excerpt: "Muscat: The Ministry of Information on Thursday organised a lecture on artificial intelligence (AI). The lecture dealt with the concept of"
-    publishedDateTime: 2023-05-04T14:14:00Z
-    webUrl: "https://www.omanobserver.om/article/1136617/oman/information-ministry-holds-lecture-on-ai"
-    ampWebUrl: "https://www.omanobserver.om/ampArticle/1136617"
-    cdnAmpWebUrl: "https://www-omanobserver-om.cdn.ampproject.org/c/s/www.omanobserver.om/ampArticle/1136617"
-    type: article
-    provider:
-      name: omanobserver
-      domain: omanobserver.om
-    quality: 59
-    images:
-      - url: "https://www.omanobserver.om/omanobserver/uploads/images/2023/05/04/2321824.jpg"
-        width: 1000
-        height: 503
-        isCached: true
   - title: "A case against banning TikTok. A US national strategy for AI."
     excerpt: "These steps build on the Administration’s strong record of leadership to ensure technology improves the lives of the American people, and break new ground in the federal government’s ongoing effort… National Standards Strategy for Critical and Emerging Technology (Record) The Biden administration's National Standards Strategy for Critical and Emerging Technology is intended to help set global rules to ensure tech is \"universally safe and interoperable."
     publishedDateTime: 2023-05-05T19:45:00Z

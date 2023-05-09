@@ -2,6 +2,162 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2023-05-02-microsoft-has-a-new-way-to-keep-chatgpt-ethical-but-will-it-work.md",
+      "title": "Microsoft has a new way to keep ChatGPT ethical, but will it work?",
+      "excerpt": "Microsoft caught a lot of flak when it shut down its artificial intelligence (AI) Ethics & Society team in March 2023. It wasn’t a good look given the near-simultaneous scandals engulfing AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/computing/microsoft-chatgpt-ethics-team-responsible-ai/",
+      "originalUrl": "https://www.digitaltrends.com/computing/microsoft-chatgpt-ethics-team-responsible-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaltrends.com/wp-content/uploads/2023/02/bing-chat-human-featured.jpg?resize=1200%2C630&p=1",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/computing/microsoft-chatgpt-ethics-team-responsible-ai/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/microsoft-chatgpt-ethics-team-responsible-ai/?amp",
+      "publishedDateTime": "2023-05-02T05:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-02-letter-from-the-editor-how-generative-ai-is-shaping-the-future-of-journalism-and-our-newsroom.md",
+      "title": "Letter from the editor: How generative AI is shaping the future of journalism and our newsroom",
+      "excerpt": "I sent this memo to the editorial staff at VentureBeat today, explaining the way I think that we should approach this moment in digital media.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/letter-from-the-editor-how-generative-ai-is-shaping-the-future-of-journalism-and-our-newsroom/",
+      "originalUrl": "https://venturebeat.com/ai/letter-from-the-editor-how-generative-ai-is-shaping-the-future-of-journalism-and-our-newsroom/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/05/journo.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/letter-from-the-editor-how-generative-ai-is-shaping-the-future-of-journalism-and-our-newsroom/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/letter-from-the-editor-how-generative-ai-is-shaping-the-future-of-journalism-and-our-newsroom/amp/",
+      "publishedDateTime": "2023-05-02T04:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2023-05-02-how-businesses-can-manage-user-generated-content-with-ai.md",
+      "title": "How Businesses Can Manage User-Generated Content With AI",
+      "excerpt": "AI is playing a greater role in UGC, transforming the way businesses and consumers produce and consume digital media.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/02/how-businesses-can-manage-user-generated-content-with-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/02/how-businesses-can-manage-user-generated-content-with-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63d00455752e4cf11c766efe/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/02/how-businesses-can-manage-user-generated-content-with-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/05/02/how-businesses-can-manage-user-generated-content-with-ai/amp/",
+      "publishedDateTime": "2023-05-02T03:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-02-why-cios-are-so-obsessed-with-the-cloud.md",
       "title": "Why CIOs Are So Obsessed With The Cloud",
       "excerpt": "Benefits such as increased efficiency, flexibility, scalability and security make the cloud an attractive proposition for CIOs. Evolutions in cloud technology (like edge computing and more sustainable \"green\" cloud) are only likely to further its appeal.",
@@ -1078,162 +1234,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-02-chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot.md",
-      "title": "ChatGPT: Everything you need to know about the AI-powered chatbot",
-      "excerpt": "Here's a guide to help understand Open AI's viral text-generating system. We outline the most recent updates and answer the most common FAQs.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/05/01/chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot/",
-      "originalUrl": "https://techcrunch.com/2023/05/01/chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 459,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1462188043.jpg?resize=1200,798",
-          "width": 1200,
-          "height": 798,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/05/01/chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/01/chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot/amp/",
-      "publishedDateTime": "2023-05-01T13:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-02-the-godfather-of-ai-quit-google-and-says-he-now-regrets-his-role-creating-technology-that-poses-a-threat-to-humanity.md",
-      "title": "The 'Godfather of AI' quit Google — and says he now regrets his role creating technology that poses a threat to humanity",
-      "excerpt": "Employees who spoke with Bloomberg said they thought Google wasn't prioritizing AI ethics, and trying to develop the tech quickly to catch up to OpenAI's ChatGPT. Two employees tried to stop the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/geoffrey-hinton-godfather-of-ai-quits-google-sounds-alarm-chatbots-2023-5",
-      "originalUrl": "https://www.businessinsider.com/geoffrey-hinton-godfather-of-ai-quits-google-sounds-alarm-chatbots-2023-5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/644fe1b9da6d7b0019bdca65?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/geoffrey-hinton-godfather-of-ai-quits-google-sounds-alarm-chatbots-2023-5?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/geoffrey-hinton-godfather-of-ai-quits-google-sounds-alarm-chatbots-2023-5?amp",
-      "publishedDateTime": "2023-05-01T13:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-02-buy-this-not-that-battle-of-the-real-ai-stars.md",
-      "title": "Buy This, Not That: Battle of the ‘Real’ AI Stars",
-      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Just a few years ago, AI and hyperintelligent machines were the sole province",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/buy-this-not-that-ai-stars-1032279362",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/buy-this-not-that-ai-stars-1032279362",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://investorplace.com/wp-content/uploads/2023/05/picture4.png",
-          "width": 450,
-          "height": 411,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-01T13:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

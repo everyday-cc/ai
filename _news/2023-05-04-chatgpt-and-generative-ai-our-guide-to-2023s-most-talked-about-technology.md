@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/chatgpt-and-ai-guide-to-2023-most-ta
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-and-ai-guide-to-2023-most-talked-about-technology-2023-may?amp"
 type: article
 quality: 85
-heat: 135
+heat: 145
 published: true
 
 provider:
@@ -61,6 +61,20 @@ related:
       - url: "https://i.insider.com/6441b16a3f6f690018debe44?width=1200&format=jpeg"
         width: 1200
         height: 900
+        isCached: true
+  - title: "Screenwriters take aim at artificial intelligence, ChatGPT"
+    excerpt: "Not six months since the release of ChatGPT, generative artificial intelligence is already prompting widespread unease throughout Hollywood. Concern over chatbots writing or rewriting scripts is one of the reasons TV and film screenwriters took to picket lines earlier this week."
+    publishedDateTime: 2023-05-05T01:45:00Z
+    webUrl: "https://www.usatoday.com/videos/entertainment/2023/05/05/screenwriters-take-aim-artificial-intelligence-chatgpt/11799655002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 52
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/04465331-5204-49cb-8f02-71d5ec64e61c_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Forget ChatGPT. These Are the Best AI-Powered Apps."
     excerpt: "Chat features built into Duolingo, Expedia and others can be more useful than ask-me-anything bots."

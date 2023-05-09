@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/ai-ethics-for-ad-professionals-10-rules-o
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/ai-ethics-for-ad-professionals-10-rules-of-engagement/amp/"
 type: article
 quality: 104
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -31,15 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Almanac Thinks Better Collaboration, Not AI, Can Help Professionals Save Time At Work"
-    excerpt: "Google Workspace has invested in generative AI tools to reduce user workload, but Almanac, a platform for structured collaboration, believes that getting humans to work better together can increase productivity."
-    publishedDateTime: 2023-05-04T13:30:00Z
-    webUrl: "https://www.forbes.com/sites/johanmoreno/2023/05/04/almanac-thinks-better-collaboration-not-ai-can-help-professionals-save-time-at-work/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 40
   - title: "How Artificial Intelligence is helping the students and professionals increase their productivity"
     excerpt: "With the rise of Artificial Intelligence (AI), there is a new and the most controversial debate going on. People are predicting that it will soon replace the human workforce and affect employment negatively."
     publishedDateTime: 2023-05-05T10:24:00Z

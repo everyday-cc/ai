@@ -2,6 +2,144 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2023-05-03-these-robot-arms-were-designed-to-help-humans-interact-with-ai.md",
+      "title": "These robot arms were designed to help humans interact with AI",
+      "excerpt": "Jizai Arms is a system of supernumerary robotic limbs. Up to six of these arms can be worn and controlled by the user. The limbs allow the wearer to attach, detach, replace or edit the arms. This was designed to enable social interaction between wearers to support human beings acting with robots and AIs while maintaining a sense of self-awareness and widening the possibility of human actions.",
+      "sourceUrl": null,
+      "webUrl": "https://mashable.com/video/robot-arms-jizai-bodies",
+      "originalUrl": "https://mashable.com/video/robot-arms-jizai-bodies",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://helios-i.mashable.com/imagery/videos/04dRP8kLvImZOxp7RbvFFmD/hero-image.fill.size_1200x675.v1683028082.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-03T04:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-05-03-you-can-now-pay-using-facial-recognition-as-airtel-payments-bank-rolls-out-face-authentication-with-npci.md",
+      "title": "You Can Now Pay Using Facial Recognition As Airtel Payments Bank Rolls Out Face Authentication With NPCI",
+      "excerpt": "Customers just need to present themselves to get payment. In actuality, Airtel Payments Bank started this service.",
+      "sourceUrl": null,
+      "webUrl": "https://in.mashable.com/tech/51949/you-can-now-pay-using-facial-recognition-as-airtel-payments-bank-rolls-out-face-authentication-with",
+      "originalUrl": "https://in.mashable.com/tech/51949/you-can-now-pay-using-facial-recognition-as-airtel-payments-bank-rolls-out-face-authentication-with",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sm.mashable.com/mashable_in/seo/5/52658/52658_ntny.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-03T04:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "in.mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2023-05-03-ex-openai-researcher-says-theres-a-50-chance-ai-development-could-end-in-doom.md",
+      "title": "Ex-OpenAI researcher says there's a 50% chance AI development could end in 'doom'",
+      "excerpt": "Paul Christiano runs the non-profit Alignment Research Center but previously ran the language model alignment team at OpenAI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/openai-researcher-ai-doom-50-chatgpt-2023-5",
+      "originalUrl": "https://www.businessinsider.com/openai-researcher-ai-doom-50-chatgpt-2023-5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/642f1618c328830019d9f954?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/openai-researcher-ai-doom-50-chatgpt-2023-5?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/openai-researcher-ai-doom-50-chatgpt-2023-5?amp",
+      "publishedDateTime": "2023-05-03T04:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-03-can-an-auditor-be-replaced-by-ai.md",
       "title": "Can An Auditor Be Replaced By AI?",
       "excerpt": "More people are growing concerned that AI could put at risk the careers of auditors, but how much truth is behind this fear?",
@@ -1064,136 +1202,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-03-co-founders-of-google-deepmind-and-linkedin-launch-chatbot.md",
-      "title": "Co-founders of Google DeepMind and LinkedIn launch chatbot",
-      "excerpt": "The co-founders of Google DeepMind and LinkedIn have launched an artificial intelligence chatbot called Pi, adding to the flood of similar products rolled out publicly this year by the likes of OpenAI, Google and Snap.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ft.com/content/08b40743-16d8-4113-8258-147bf9dbce94?shareType=nongift",
-      "originalUrl": "https://www.ft.com/content/08b40743-16d8-4113-8258-147bf9dbce94?shareType=nongift",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-02T12:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Times",
-        "domain": "ft.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-02-dont-pause-ai-development-prioritize-ethics-instead.md",
-      "title": "Don’t pause AI development, prioritize ethics instead",
-      "excerpt": "Some tech companies and lawmakers are getting it wrong when it comes to AI. Instead of pausing progress, they should be prioritizing AI ethics. Here's how.\nThe post Don’t pause AI development, prioritize ethics instead appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/dont-pause-ai-development-prioritize-ethics-instead/",
-      "originalUrl": "https://www.ibm.com/blog/dont-pause-ai-development-prioritize-ethics-instead/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-02T11:43:08-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-05-03-this-robot-can-paint-but-is-it-art.md",
-      "title": "This Robot Can Paint. But Is It Art?",
-      "excerpt": "Researchers at Carnegie Mellon University developed an A.I.-powered arm that can paint an abstract acrylic. Is it art?",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2023/05/02/science/ai-creativity-paintbot.html",
-      "originalUrl": "https://www.nytimes.com/2023/05/02/science/ai-creativity-paintbot.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2023/05/02/multimedia/02SCI-MIND-PAINTBOT-vid1cover-gbqv/02SCI-MIND-PAINTBOT-vid1cover-gbqv-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-02T11:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

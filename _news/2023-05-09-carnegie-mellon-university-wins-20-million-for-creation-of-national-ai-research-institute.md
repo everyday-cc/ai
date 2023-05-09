@@ -50,22 +50,6 @@ related:
         width: 1238
         height: 697
         isCached: true
-  - title: "Center for Research toward Advancing Financial Technologies Announces Industry Members, Research Projects to Drive Fintech Sector Innovation"
-    excerpt: "Stevens Institute of Technology and Rensselaer Polytechnic Institute announced their first industry members, including Bank of America."
-    publishedDateTime: 2023-05-04T14:27:00Z
-    webUrl: "https://www.crowdfundinsider.com/2023/05/206587-center-for-research-toward-advancing-financial-technologies-announces-industry-members-research-projects-to-drive-fintech-sector-innovation/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2023/05/206587-center-for-research-toward-advancing-financial-technologies-announces-industry-members-research-projects-to-drive-fintech-sector-innovation/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/05/206587-center-for-research-toward-advancing-financial-technologies-announces-industry-members-research-projects-to-drive-fintech-sector-innovation/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 9
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2021/05/Abe-Lincoln-Eyes-Watch-Look-Dollar-Money.jpeg"
-        width: 1280
-        height: 724
-        isCached: true
 
 secured: "jKi1MQLuqQdOx3rYFIKnZ8iCVGw8TU45WOcjyP63C5ig7haVqZrGMuSEk5wXxTAHwV7F9C1S+qaI/ICL8V49d+o29yuEknQrDWc1ACF/L47rYgmC6lO/D9D6F+1QrJ+MqDe+zphkcn/DGjhPWUxfHch8Kb01wZEIjXixyQVdt66lbFYF9P9qmOtwd1D8UVR3SU6ijRl0kLmoSixjEAy2pMrg5CKi1hUcH+0L8BEUjE+V+PaYlfiD+b0AypQwctIYccKb/OMVC9prdX6W953XsjdhtphKapFxQljeoBuegXgD+J1z5SL5m3cHRyj2Q2hUrLRk6AwbSsiwmDrcdRlsiWlynyH9Rmz4m71kWXlM3Ait/3aObacMm8LWtypkIKiSiCRQt0mGoZW8n9iOwfR8bzy31+Z9fiP+efILWAtAM5kyJFN5XRM/mIasJSCr8yhL9YODWF69YjF/win/eBb9bStPEELusRB2w4d2Ys6rpmURWFAmF0v+sergQyyTiAYSem17yorN58KWSsrSHbHqmg==;w5xyN5JpYazqXJv3mjYiWA=="
 ---

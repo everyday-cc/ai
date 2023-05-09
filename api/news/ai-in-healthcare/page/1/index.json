@@ -2,50 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2023-05-08-artificial-intelligence-identifies-anti-aging-drug-candidates-targeting-zombie-cells.md",
-      "title": "Artificial intelligence identifies anti-aging drug candidates targeting 'zombie' cells",
-      "excerpt": "A new publication in the May issue of Nature Aging by researchers from Integrated Biosciences, a biotechnology company combining synthetic biology and machine learning to target aging, demonstrates the power of artificial intelligence (AI) to discover novel senolytic compounds,",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2023-05-artificial-intelligence-anti-aging-drug-candidates.html",
-      "originalUrl": "https://phys.org/news/2023-05-artificial-intelligence-anti-aging-drug-candidates.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/artificial-intelligenc-39.jpg",
-          "width": 2000,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2023-05-artificial-intelligence-anti-aging-drug-candidates.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-05-artificial-intelligence-anti-aging-drug-candidates.amp",
-      "publishedDateTime": "2023-05-08T07:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2023-05-08-natural-language-processing-for-healthcare-and-life-sciences-market-projected-to-show-strong-growth-by-2030-microsoft-google-ibm-3m.md",
       "title": "Natural Language Processing For Healthcare And Life Sciences Market Projected to Show Strong Growth by 2030| Microsoft, Google, IBM, 3M",
       "excerpt": "The Global Natural Language Processing For Healthcare And Life Sciences Market research report gives an essential outline",
@@ -160,7 +116,7 @@
       "originalUrl": "https://www.entrepreneur.com/finance/how-will-we-know-when-artificial-intelligence-has-become/451129",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": 73,
       "tags": null,
       "images": [
         {
@@ -258,7 +214,7 @@
       "originalUrl": "https://gulfnews.com/uae/health/uae-chemo-robot-artificial-intelligence-guided-radiotherapy-for-cancer-care-now-available-in-abu-dhabi-1.95537748",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -436,18 +392,27 @@
       "title": "New Artificial Intelligence Tool Can Diagnose Colon Cancer",
       "excerpt": "Detailed price information for Bausch Health Companies Inc (BHC-T) from The Globe and Mail including charting and trades.",
       "sourceUrl": null,
-      "webUrl": "https://www.theglobeandmail.com/investing/markets/stocks/BHC-T/pressreleases/16543041/new-artificial-intelligence-tool-can-diagnose-colon-cancer/",
-      "originalUrl": "https://www.theglobeandmail.com/investing/markets/stocks/BHC-T/pressreleases/16543041/new-artificial-intelligence-tool-can-diagnose-colon-cancer/",
+      "webUrl": "https://www.theglobeandmail.com/investing/markets/stocks/BHC-T/pressreleases/16543041/",
+      "originalUrl": "https://www.theglobeandmail.com/investing/markets/stocks/BHC-T/pressreleases/16543041/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://barchart-news-media-prod.aws.barchart.com/FC/fbf6e68ba80e8e45990c8b0717fbffb9/bogdanhoda-1.jpg",
+          "width": 777,
+          "height": 436,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-03T08:28:00-07:00",
+      "publishedDateTime": "2023-05-03T06:38:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "The Globe and Mail",
@@ -1455,6 +1420,58 @@
         "AI in Healthcare",
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-25-as-suicide-rates-spike-new-ai-platform-could-fill-the-gap-in-mental-health-care-say-boston-researchers.md",
+      "title": "As suicide rates spike, new AI platform could ‘fill the gap’ in mental health care, say Boston researchers",
+      "excerpt": "As the need for mental health care escalates amid provider shortages, medical technology companies like OM1 have turned to AI to help improve patient care. But some experts have worries.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/health/suicide-rates-spike-ai-platform-could-fill-gap-mental-health-care-boston-researchers",
+      "originalUrl": "https://www.foxnews.com/health/suicide-rates-spike-ai-platform-could-fill-gap-mental-health-care-boston-researchers",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f44ceb74-a323-483a-8fa8-420fc7256f1f/1d1fe446-186d-4f3d-aefd-5fd6380944db/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/health/suicide-rates-spike-ai-platform-could-fill-gap-mental-health-care-boston-researchers.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/health/suicide-rates-spike-ai-platform-could-fill-gap-mental-health-care-boston-researchers.amp",
+      "publishedDateTime": "2023-04-24T22:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
       ]
     }
   ],

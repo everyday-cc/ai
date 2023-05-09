@@ -51,8 +51,8 @@ related:
         isCached: true
   - title: "How AI robots can affect Filipino domestic workers worldwide amid ChatGPT concerns"
     excerpt: "The discussion of artificial intelligence and robots taking over human jobs has reached another point following a recent study revolving around unpaid domestic help."
-    publishedDateTime: 2023-05-09T05:32:00Z
-    webUrl: "https://www.philstar.com/lifestyle/modern-living/2023/05/09/2264997/how-ai-robots-can-affect-filipino-domestic-workers-worldwide-amid-chatgpt-concerns"
+    publishedDateTime: 2023-05-09T07:30:00Z
+    webUrl: "https://www.philstar.com/lifestyle/on-the-radar/2023/05/09/2264997/how-ai-robots-can-affect-filipino-domestic-workers-worldwide-amid-chatgpt-concerns"
     type: article
     provider:
       name: philstar.com
@@ -116,15 +116,6 @@ related:
         width: 2048
         height: 1365
         isCached: true
-  - title: "Google shared AI knowledge with the world — until ChatGPT caught up"
-    excerpt: "In op-eds, podcasts and TV appearances, Google CEO Sundar Pichai has urged caution on AI. \"On a societal scale, it can cause a lot of harm,\" he warned on \"60 Minutes\" in April, describing how the technology could supercharge the creation of fake images and videos."
-    publishedDateTime: 2023-05-04T15:36:00Z
-    webUrl: "https://www.detroitnews.com/story/business/2023/05/04/google-shared-ai-knowledge-with-the-world-until-chatgpt-caught-up/70183544007/"
-    type: article
-    provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 19
 
 secured: "QHlwxcfmupHSGG1Jo/6VYt34VEpaggnNuKctmY+Z9hgMbosQOFgXSWbcxIkBh150AMrf8xE0eXc1d6zbSdlrq50CYtJ3NVJ6yabYo/oxvacvEO/1iP7UHQPunsBKq4dPzEUqT2G9RSJ4KapWGcd4LYvuz9x8mTGgVKkKoVdxThWyJ0yam1kHDOnSQlsZh4+3F+aM2uooabP/sYqVJboV/ExRfeBBQ6bj6L/lHT5ABiieizPlXUOCzCuOgOxsQVcND+FQDOEi9kXt0uiJa+KhslEPkqYs8p4ZP+Q1znMhjWwuCmvXzsO/ByqLQh2b/stkUbUbrPFk6vPAe0Ty1H8TjJwSSPnK9CaMz0y2P5ZopaykuNFBCeDnqjZNliXDx2LiGpZZrwtaSKxU7c2dhwqaS8qATByWI4LOfB1XIurwa7Km/ubHQw13qyER4cwG3R79W4ZqYGZhLRAuUX94jaFzcbFDgdNJE252wnifVMOmXMYLbNju5pMa/O697sNhuxCnNYnP4cwzRyPhrFoT7VL3IQ==;nFNQDog6t+nWtVnULXmVzA=="
 ---

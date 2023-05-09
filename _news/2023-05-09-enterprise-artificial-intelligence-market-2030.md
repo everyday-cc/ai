@@ -28,22 +28,135 @@ images:
     isCached: true
 
 related:
-  - title: "Box Introduces Box AI To Bring The Power Of AI To Enterprise Content"
-    excerpt: "Vice President & Principal Analyst, Modern Work, Melody Brue, dives into Box AI, a new capabilities suite that natively integrates advanced AI models into the Box Content Cloud."
-    publishedDateTime: 2023-05-04T14:19:00Z
-    webUrl: "https://www.forbes.com/sites/moorinsights/2023/05/04/box-introduces-box-ai-to-bring-the-power-of-ai-to-enterprise-content/"
-    ampWebUrl: "https://www.forbes.com/sites/moorinsights/2023/05/04/box-introduces-box-ai-to-bring-the-power-of-ai-to-enterprise-content/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/05/04/box-introduces-box-ai-to-bring-the-power-of-ai-to-enterprise-content/amp/"
+  - title: "Artificial Intelligence in Security Market, 2030"
+    excerpt: "The Global Artificial Intelligence in Security market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players,"
+    publishedDateTime: 2023-05-08T00:34:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-security-market-2030-2023-05-07"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 84
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Machine Learning Data Catalog Software Market, 2030"
+    excerpt: "The Global Machine Learning Data Catalog Software market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players,"
+    publishedDateTime: 2023-05-07T15:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-data-catalog-software-market-2030-2023-05-07"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Deep Learning Chipset Market Research | 2023-2030"
+    excerpt: "The Global Deep Learning Chipset market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players,"
+    publishedDateTime: 2023-05-08T04:41:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-chipset-market-research-2023-2030-2023-05-08"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Deep Learning in Manufacturing Market Size, 2030"
+    excerpt: "The Global Deep Learning in Manufacturing market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players,"
+    publishedDateTime: 2023-05-08T06:05:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-in-manufacturing-market-size-2030-2023-05-08"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Smart Waste Bins Market Research | 2023-2030"
+    excerpt: "The Global Smart Waste Bins market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players,"
+    publishedDateTime: 2023-05-08T03:57:00Z
+    webUrl: "https://www.marketwatch.com/press-release/smart-waste-bins-market-research-2023-2030-2023-05-07"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Voice Recognition Systems Market Research, 2030"
+    excerpt: "The Global Voice Recognition Systems market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players,"
+    publishedDateTime: 2023-05-08T03:58:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-systems-market-research-2030-2023-05-07"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Object Recognition Imaging Systems Market, 2030"
+    excerpt: "The Global Object Recognition Imaging Systems market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players,"
+    publishedDateTime: 2023-05-07T15:22:00Z
+    webUrl: "https://www.marketwatch.com/press-release/object-recognition-imaging-systems-market-2030-2023-05-07"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
+  - title: "Deep Learning Camera Market Research | 2023-2030"
+    excerpt: "The Global Deep Learning Camera market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players,"
+    publishedDateTime: 2023-05-08T07:33:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-camera-market-research-2023-2030-2023-05-08"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
+  - title: "You Must Look Beyond AI To Stay Ahead Of Today's Cybersecurity Threats"
+    excerpt: "AI algorithms learn from historical data, making it difficult to anticipate new advanced threats or zero-day attacks. It can also be prone to false positives, which can cause unnecessary disruption and confusion among security professionals, and can be vulnerable to hackers who attempt to manipulate the algorithms."
+    publishedDateTime: 2023-05-05T13:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/05/you-must-look-beyond-ai-to-stay-ahead-of-todays-cybersecurity-threats/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6453be070729cea75deabd27/0x0.jpg?format=jpg&width=1200"
-        width: 468
-        height: 263
-        isCached: true
+    quality: 47
+  - title: "Machine Learning in Manufacturing Market in 2023: Latest Innovations and Growth Strategies till 2030"
+    excerpt: "The Global \"Machine Learning in Manufacturing Market\" report analyzes crucial growth factors, key strategies employed"
+    publishedDateTime: 2023-05-08T08:56:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-in-manufacturing-market-in-2023-latest-innovations-and-growth-strategies-till-2030-2023-05-08"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 34
+  - title: "Voice Recognition Biometrics Market Research, 2030"
+    excerpt: "The Global Voice Recognition Biometrics market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players,"
+    publishedDateTime: 2023-05-08T00:51:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-biometrics-market-research-2030-2023-05-07"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 34
 
 secured: "XmqjbaZIfWRb7hfLzHNIc//+MDNBCJPbLdHDxiMklCr75QgkGIVV7qwh8jSoQHtTIxZfCmODCZw+ElPWHKn5qaDMWvOCuyy7gUEaNay2QS6a++8XSdkf+rtXco5h/obw/7B5spSlIOpPK04wljzDbsvZH24XMPAQfE1XXw0rUeDi3vpsAnP/WAJcvKiAvthuBT+4M04g+3z1xqlY38UyXE5gaWMZQIzfdMZyLrIVk9sFRXKws2RUsatOYGHlxWGWbhtsCQEZvjr2iOu4E4tJtdzgEd9ORkMKiOJXVM/XpHU9mxIpPb69N7uF8CdVSxEYvCBsbsFiDGUFfT/dp6gPR+UAtdAl+7SMQfj7S5UmHGg=;Iy0/g1YqS4OUnUIyilPdoQ=="
 ---
