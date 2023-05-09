@@ -9,8 +9,8 @@ ampWebUrl: "https://www.thesun.ie/news/10655250/artifical-intelligence-robots-ta
 cdnAmpWebUrl: "https://www-thesun-ie.cdn.ampproject.org/c/s/www.thesun.ie/news/10655250/artifical-intelligence-robots-take-over-threat/amp/"
 type: article
 quality: 53
-heat: -1
-published: false
+heat: 73
+published: true
 
 provider:
   name: Irish Sun
@@ -27,43 +27,34 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial General Intelligence: The Next Frontier In Technology"
-    excerpt: "For an AI to be classified as AGI, it needs to have certain characteristics such as common sense, background knowledge, transfer learning, abstraction, and causality. Vision from the Marvel Cinematic"
-    publishedDateTime: 2023-05-08T07:43:00Z
-    webUrl: "https://www.entrepreneur.com/en-in/news-and-trends/artificial-general-intelligence-the-next-frontier-in/451139"
+  - title: "AI Brings Asset Intelligence to Hospitals"
+    excerpt: "Vizzia Technologies and ElectrifAi have tested artificial intelligence in an RTLS solution at California's Mission Hospital, and will now commercialize the offering for asset-management intelligence."
+    publishedDateTime: 2023-05-07T11:00:00Z
+    webUrl: "https://www.rfidjournal.com/ai-brings-asset-intelligence-to-hospitals"
     type: article
     provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 54
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1683531881-Hithere11.png"
-        width: 2000
-        height: 1333
-        isCached: true
-  - title: "Will AI Surpass Human Intelligence?"
-    excerpt: "Muhammad Arif Mughal, an AI specialist from the University of Science and Technology Beijing, suggests that ChatGPT is revolutionary only in the way that it learns from a large am"
-    publishedDateTime: 2023-05-06T08:32:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/05/06/9808925.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
+      name: RFID Journal
+      domain: rfidjournal.com
     quality: 39
     images:
-      - url: "https://mma.prnewswire.com/media/2071134/ChatGPT___counted_a_technological_revolution.jpg"
-        width: 400
-        height: 299
+      - url: "https://www.rfidjournal.com/wp-content/uploads/2023/04/MissionHospital-Vizzia-featured.jpg"
+        width: 1000
+        height: 450
         isCached: true
-  - title: "‘Paytm to be free cashflow positive’: CEO on fintech's ‘aim’, inclusion of Artificial General Intelligence"
-    excerpt: "Paytm logged a 51.5% rise in fourth-quarter revenue on Friday, aided by a surge in loan growth, and posted an operating profit for a second consecutive quarter."
-    publishedDateTime: 2023-05-07T13:42:00Z
-    webUrl: "https://www.livemint.com/companies/news/paytm-to-be-free-cashflow-positive-vijay-shekhar-on-fintechs-aim-inclusion-of-artificial-general-intelligence-11683464854386.html"
+  - title: "AI needs superintelligent regulation"
+    excerpt: "We use cookies and other data for a number of reasons, such as keeping FT Sites reliable and secure,         personalising content and ads, providing social media features and to         analyse how our Sites are used."
+    publishedDateTime: 2023-05-07T16:16:00Z
+    webUrl: "https://www.ft.com/content/7ba3e97b-d930-4f96-8365-f840eaabf523"
     type: article
     provider:
-      name: Mint
-      domain: livemint.com
-    quality: 1
+      name: The Financial Times
+      domain: ft.com
+    quality: 37
+    images:
+      - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/comment.jpg"
+        width: 619
+        height: 377
+        isCached: true
 
 secured: "3OdGcj28WvjEg84Dd8D9XAqBYbz06/CIQV3M6ztiItWziGs3/0l4Wn08T0zGIZ6Wj81XLKPbizzEfcspa+dcmA7XVxJoptGnzozf66cDRu7k5dpzRym9XncSeM3AAJiGC/5xpzezbaC1dxx28iVWioFSryqeQku8634BHyMubvm2qRh/xMWRFZdQcBbWLCtiWsHual1yvzkTAvofsYg/XLLR3DfXFk5z8Ist0piBGk8LMc0am1jIwUltwoYdsQncSvHS/59MaJTvBQxW/RHRNRccLo02G+1dPdldnK4BbQZEn5+giK3DRuJl5FG2Itak1dN15OqQSxamHqWGvXE0K9Auy+E36rqnreFOyBPPCcZdlE39vljZYKjKIeHd2I3NWDNuYDglPIPcrBZTI2ePNFCsHdkIXi839S0fIJJSXpFUFHd6ShA2J2BLuImnMMO2YQWekEz1reO8GREH23hLnXVe3r3p5QF1bp+Ocpi/vHeNhSoknyGnJ220zVeEL95qyoDJbw+8G+nYf6F5lZoGkw==;hadt/VRaAewaxBlw0b66pw=="
 ---

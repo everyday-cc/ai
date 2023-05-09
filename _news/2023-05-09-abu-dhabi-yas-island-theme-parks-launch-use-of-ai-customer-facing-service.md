@@ -19,21 +19,21 @@ topics:
   - AI
 
 related:
-  - title: "UAE: Chemo robot, artificial intelligence-guided radiotherapy for cancer care now available in Abu Dhabi"
-    excerpt: "Newly-launched Fatima bint Mubarak Center also has latest non-invasive treatments Abu Dhabi: An artificial intelligence-guided radiotherapy treatment, a targeted therapy for liver cancer, and a chemotherapy robot are some of the innovative options that are ..."
-    publishedDateTime: 2023-05-04T18:32:00Z
-    webUrl: "https://gulfnews.com/uae/health/uae-chemo-robot-artificial-intelligence-guided-radiotherapy-for-cancer-care-now-available-in-abu-dhabi-1.95537748"
-    ampWebUrl: "https://gulfnews.com/amp/uae/health/uae-chemo-robot-artificial-intelligence-guided-radiotherapy-for-cancer-care-now-available-in-abu-dhabi-1.95537748"
-    cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/uae/health/uae-chemo-robot-artificial-intelligence-guided-radiotherapy-for-cancer-care-now-available-in-abu-dhabi-1.95537748"
+  - title: "UAE: New ChatGPT ‘Yas Island AI Assistant’ to help plan visits"
+    excerpt: "Visitors to Abu Dhabi’s Yas Island can now get personalised guidance and information about the latest offerings through an AI"
+    publishedDateTime: 2023-05-09T11:36:00Z
+    webUrl: "https://www.khaleejtimes.com/travel/uae-new-chatgpt-yas-island-ai-assistant-to-help-plan-visits"
+    ampWebUrl: "https://www.khaleejtimes.com/travel/uae-new-chatgpt-yas-island-ai-assistant-to-help-plan-visits?amp=1"
+    cdnAmpWebUrl: "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/travel/uae-new-chatgpt-yas-island-ai-assistant-to-help-plan-visits?amp=1"
     type: article
     provider:
-      name: Gulf News
-      domain: gulfnews.com
-    quality: 89
+      name: Khaleej Times
+      domain: khaleejtimes.com
+    quality: 59
     images:
-      - url: "https://imagevars.gulfnews.com/2023/05/04/Cleveland_Clinic_Abu_Dhabi_Fatima_bint_Mubarak_Center-_Chemotherapy_robot-1683221993322_187e7d95774_medium.jpg"
-        width: 540
-        height: 405
+      - url: "https://image.khaleejtimes.com?uuid=67864b60-5b67-5005-aed2-dd02f8f8b6c7&function=cropresize&type=preview&source=false&q=75&crop_w=0.58233&crop_h=0.99999&x=0.20884&y=0&width=1200&height=675"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "BN+eEPdocj4NMH0OEZgfQshzgLLN74OtXT2QvOlgv4eUKvssMdjWQq39ytsKKGiajuhCwfX1IjRuBVSgWINdKunt8eMiGwmp4C+aIyyKU1FR9u43drRyphmKCFpZYxsoKchPFX9SD3251z9FEldTlHWrD4vSVOpsWNCGp0gImV3QZ6PUK1y78EtmP4KX9wOWJ16pPfSw5GCrLoiGFPBnlXEoA5yzfL0MTUYGYJOr0IFDPUlAGoBL+f+JJE1dUKqNHTJEo8hnENGZih4o3qFfMtRLny6Ofh0wc7Tmt5Bth0u4WwTrEQccL35rCoFpsvVD+jg8HewdaBnLQ3pE1SJHlAJBgEAsYJxfAAl0/2PDbUX3UQ3nzq3QRvNexfTFsgDn2rbDDOCC5u2ioLOKWJZXzaNE+UQKwkmJ3sfyw8gdMMjesOtMfuS4IyE9ACa526m9qRGSIW4CBEH/4pdDDTzv0MQlB/pmMO/9pqkdl8ygCbJPPiu2kScm348wIHnL9sBhkrDiAv7XdsBwa/MIhpOO6w==;Y11fLrympXJ9OkN5zp7trQ=="

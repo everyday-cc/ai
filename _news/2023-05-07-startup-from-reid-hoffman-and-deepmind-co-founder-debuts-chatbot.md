@@ -7,7 +7,7 @@ originalUrl: "https://www.moneyweb.co.za/news/ai/startup-from-reid-hoffman-and-d
 webUrl: "https://www.moneyweb.co.za/news/ai/startup-from-reid-hoffman-and-deepmind-co-founder-debuts-chatbot/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,24 +25,33 @@ images:
     isCached: true
 
 related:
-  - title: "Co-founders of Google DeepMind and LinkedIn launch chatbot"
-    excerpt: "We’ll send you a myFT Daily Digest email rounding up the latest Artificial intelligence news every morning. The co-founders of Google DeepMind and LinkedIn have launched an artificial ..."
-    publishedDateTime: 2023-05-05T00:37:00Z
-    webUrl: "https://www.ft.com/content/08b40743-16d8-4113-8258-147bf9dbce94"
+  - title: "AI startup Inflection Started by Hoffman and Suleyman, Introduces ChatGPT-like Chatbot"
+    excerpt: "An artificial intelligence startup Inflection AI, started by Reid Hoffman and Mustafa Suleyman, has launched its first AI chatbot product."
+    publishedDateTime: 2023-05-05T14:03:00Z
+    webUrl: "https://enterprisetalk.com/quick-bytes/ai-startup-inflection-started-by-hoffman-and-suleyman-introduces-chatgpt-like-chatbot/"
+    ampWebUrl: "https://enterprisetalk.com/quick-bytes/ai-startup-inflection-started-by-hoffman-and-suleyman-introduces-chatgpt-like-chatbot/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/ai-startup-inflection-started-by-hoffman-and-suleyman-introduces-chatgpt-like-chatbot/amp/"
     type: article
     provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 19
-  - title: "The Stack: Bluesky Emerges as Twitter Rival, DeepMind and LinkedIn Co-Founders Launch Pi Chatbot"
-    excerpt: "Twitter rival Bluesky gains momentum, DeepMind and LinkedIn co-founders collaborate to launch AI chatbot... News this week centred around the return of tech royalty: former Twitter monarch Jack Dorsey made a new bid for the microblogging throne with the launch of Bluesky,"
-    publishedDateTime: 2023-05-05T12:05:00Z
-    webUrl: "https://www.exchangewire.com/blog/2023/05/05/the-stack-bluesky-emerges-as-twitter-rival-deepmind-and-linkedin-co-founders-launch-pi-chatbot/"
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 49
+    images:
+      - url: "https://enterprisetalk.com/wp-content/uploads/2023/05/AI-startup-Inflection-Started-by-Hoffman-and-Suleyman-Introduces.jpg"
+        width: 1500
+        height: 844
+        isCached: true
+  - title: "Could ChatGPT be a manager?"
+    excerpt: "In a recent experiment, JobSage, an employer review site, prompted ChatGPT to write emails addressing fifteen sensitive management scenarios, then had law, human resources and management ..."
+    publishedDateTime: 2023-05-04T21:29:00Z
+    webUrl: "https://www.itworldcanada.com/article/could-chatgpt-be-a-manager/538228"
+    ampWebUrl: "https://www.itworldcanada.com/article/could-chatgpt-be-a-manager/538228?amp=1"
+    cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/could-chatgpt-be-a-manager/538228?amp=1"
     type: article
     provider:
-      name: exchangewire.com
-      domain: exchangewire.com
-    quality: 6
+      name: IT World Canada
+      domain: itworldcanada.com
+    quality: 24
 
 secured: "9brGn+CVQTBO7Rmp79YS07eVSfSqASHTiMgbMZUvDhbbFiAvHxgwgWyBcpdt/0Vkb12/vgfdgxmKvK5236koZn+2C1JdKBGwW/f4sUJvDajpoF5WGOf3FL3ODk2/uyHLX348xz10t6xuAIvsqI1kY0oVG2qA9CSrJpyZ37Eu6yNIBLmyHyuYxsetfvMK7g/XL9dUQV1cnCMq473W/VdY6J5g2SHnironukbJau5Mnk5YLfMZ1XTHQikJud9UTHJXxkeIllWOpnkiCYUmsQgeaSg05h8dSws6klltm4lbR3qhGXDjHdQPH//KHHUcxrnnbDScKB/sJ02jgYI6/dQauunBzddjaOEBoBhQo3hYZFXuh09ALW1ylNJ4M9u7KkQ3a1GFE0HrKbgoBDIYEUonBOP6gjJ7IxmqzRXBuY4vh+NUpPNITCg5uoJWyDKv47cVLkbtwYNgkn8lfJkFPxkyBO4KJmQZEKiWWnzBhCXcac6tpSNRGYt0ycVgnpseQyw4ZlALXbSM780jJLiAa/4K2Q==;UUzLDLlkjy7v8RAuYrurnw=="
 ---

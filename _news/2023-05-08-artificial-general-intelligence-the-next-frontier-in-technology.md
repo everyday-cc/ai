@@ -7,8 +7,8 @@ originalUrl: "https://www.entrepreneur.com/en-in/news-and-trends/artificial-gene
 webUrl: "https://www.entrepreneur.com/en-in/news-and-trends/artificial-general-intelligence-the-next-frontier-in/451139"
 type: article
 quality: 54
-heat: 84
-published: true
+heat: -1
+published: false
 
 provider:
   name: Entrepreneur
@@ -29,21 +29,21 @@ images:
     isCached: true
 
 related:
-  - title: "This ‘intelligence’ may be artificial, but the threat is very real as AI takes over"
-    excerpt: "THE robots are coming and you’d better watch out – your jobs, prosperity and freedom are in their sights. Will Smith famously fought an army of Artificially Intelligent androids who had"
-    publishedDateTime: 2023-05-05T05:00:00Z
-    webUrl: "https://www.thesun.ie/news/10655250/artifical-intelligence-robots-take-over-threat/"
-    ampWebUrl: "https://www.thesun.ie/news/10655250/artifical-intelligence-robots-take-over-threat/amp/"
-    cdnAmpWebUrl: "https://www-thesun-ie.cdn.ampproject.org/c/s/www.thesun.ie/news/10655250/artifical-intelligence-robots-take-over-threat/amp/"
+  - title: "Making Intelligent Noise: AI In The Music Industry"
+    excerpt: "As AI continues to expand, so do its applications, which now span all aspects of the industry from A&R to audio engineering to live performance."
+    publishedDateTime: 2023-05-09T10:14:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/09/making-intelligent-noise-ai-in-the-music-industry/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/09/making-intelligent-noise-ai-in-the-music-industry/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/05/09/making-intelligent-noise-ai-in-the-music-industry/amp/"
     type: article
     provider:
-      name: Irish Sun
-      domain: thesun.ie
-    quality: 53
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://www.thesun.ie/wp-content/uploads/sites/3/2023/05/NINTCHDBPICT000616991058.jpg?strip=all&quality=100&w=1920&h=1080&crop=1"
-        width: 1920
-        height: 1080
+      - url: "https://imageio.forbes.com/specials-images/imageserve/645903282939ed75411170d1/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 844
         isCached: true
   - title: "Will AI Surpass Human Intelligence?"
     excerpt: "Muhammad Arif Mughal, an AI specialist from the University of Science and Technology Beijing, suggests that ChatGPT is revolutionary only in the way that it learns from a large am"
@@ -59,15 +59,20 @@ related:
         width: 400
         height: 299
         isCached: true
-  - title: "‘Paytm to be free cashflow positive’: CEO on fintech's ‘aim’, inclusion of Artificial General Intelligence"
-    excerpt: "Paytm logged a 51.5% rise in fourth-quarter revenue on Friday, aided by a surge in loan growth, and posted an operating profit for a second consecutive quarter."
-    publishedDateTime: 2023-05-07T13:42:00Z
-    webUrl: "https://www.livemint.com/companies/news/paytm-to-be-free-cashflow-positive-vijay-shekhar-on-fintechs-aim-inclusion-of-artificial-general-intelligence-11683464854386.html"
+  - title: "Leveraging Artificial Intelligence In The Food Industry: How Startups Are Captivating Early Adopting F&B Operators to Tackle Theft and Waste"
+    excerpt: "As AI continues to reveal its potential across every industry, we remain focused on harnessing its power to improve productivity and ingenuity to address decades-old problems plaguing the industry we love so dearly."
+    publishedDateTime: 2023-05-09T03:00:00Z
+    webUrl: "https://www.entrepreneur.com/en-ae/technology/embracing-artificial-intelligence-in-the-food-industry-how/451146"
     type: article
     provider:
-      name: Mint
-      domain: livemint.com
-    quality: 1
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 32
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1683564033-Shutterstock-1937933428.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
 
 secured: "b2HpZkHCOCHslRknpRRUw8dyhLPFXkjwiV9U/CXNf9c23NQv3YDbU/jmDPVOZYgtvsOR0JSKsayuKDPLgVQudKOT1WwHXtHFgLV5kOBvOATW9oMA+v6bUB6zOjJLX63P89j7lqLW5dC/DFRiO4yRkDlsNlTBcdH1OYca9jmnB7dSqWQFzp3ZmwEW2NlD0KZ0qs4Z2EF4ZiLVcCJnlAKkJ/s6Vg9lqtr1OKrrfE0tCclOqT2jmkwCC58tz7ebzFui2Xw2E2Gcb/lO/Peb82yQkCZGRxZ2L4+ek0Qjfvlk2oT+zodSbkrRlonKl7Y3VHgcrswo2nraR58JN0xKYDh9EcGMcA+wNXxUafkWhXaFSqk=;QloSDh32/ps0o2WdW1X3kA=="
 ---

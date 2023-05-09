@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Startup from Reid Hoffman and DeepMind co-founder debuts chatbot"
-    excerpt: "Pi was built to be a supportive 'neutral listener' that asks follow-up questions to keep a conversation flowing."
-    publishedDateTime: 2023-05-06T22:00:00Z
-    webUrl: "https://www.moneyweb.co.za/news/ai/startup-from-reid-hoffman-and-deepmind-co-founder-debuts-chatbot/"
-    type: article
-    provider:
-      name: Moneyweb
-      domain: moneyweb.co.za
-    quality: 39
-    images:
-      - url: "https://www.moneyweb.co.za/wp-content/uploads/2023/05/397933961-1024x682.jpg"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "Co-founders of Google DeepMind and LinkedIn launch chatbot"
     excerpt: "We’ll send you a myFT Daily Digest email rounding up the latest Artificial intelligence news every morning. The co-founders of Google DeepMind and LinkedIn have launched an artificial ..."
     publishedDateTime: 2023-05-05T00:37:00Z

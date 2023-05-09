@@ -85,15 +85,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Autonomous Cars/Driverless Cars Market 2023 Growth Status and Outlook for 2030"
-    excerpt: "At present, the technology is mainly in driving assistance level and semi-autonomous driving level. Europe is a key region for the deployment of self-driving vehicles, owing to the high consumer preference for technologically advanced products. This region ..."
-    publishedDateTime: 2023-05-04T17:59:00Z
-    webUrl: "https://www.marketwatch.com/press-release/autonomous-carsdriverless-cars-market-2023-growth-status-and-outlook-for-2030-2023-05-04"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 45
   - title: "Self-driving Bus Market Growing Demands, Trends and Business Outlook 2023 to 2029 with top Players – AV Volvo, Tesla, Navya"
     excerpt: "The latest global Self-driving Bus Market report provides conclusive information about the industry overview, modern trends, demand, and recent development affecting the market growth during the upcoming year."
     publishedDateTime: 2023-05-05T05:28:00Z
@@ -119,15 +110,6 @@ related:
       name: Kansas City Star
       domain: kansascity.com
     quality: 39
-  - title: "L1 Self-driving Vehicle Market Predicted to Grow Massive in Future During 2023-2030"
-    excerpt: "May 04, 2023 (The Expresswire) -- The following is a synopsis of a market research report on the L1 Self-driving Vehicle Market research report provides an extensive analysis of current and forthcoming industry trends. The report enables readers to ..."
-    publishedDateTime: 2023-05-04T17:59:00Z
-    webUrl: "https://www.marketwatch.com/press-release/l1-self-driving-vehicle-market-predicted-to-grow-massive-in-future-during-2023-2030-2023-05-04"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 28
 
 secured: "zDh5VsafWQm7fJEY6imzrp8PgcAjMhnjhcAYc4acllAa3U0BGMUrqdF4RFGlC+RZbYrA5YmF/LtnQ3eFyxNF0/2nNAzwaT5lmiWfGH7xclaJSC3470JebkCm/+7Usf4JzFR4fv/8WobqNqTGFy/wXPVBc6zI7Z6JdHwsgpttB6HFnwlao4w7gfgdwlBsePHfTq4qJtw3C++6RIdDLRqzZ7x2Q3iRCTEuCMbIHse+CGrLJZIzIzQgVvkQSTe4TW2EfU8TaCo5x+lF1Xz42lzbduyUyPWFQJurz9gh3RHj3LHkhOdMirSCL2zmZ/mF+qRpgxKe6Q8nXDQrc9waM0MKVzEhpDWPKE07jox6tdn1TAY=;Vq8StCFwqrcddCVGC2tqxQ=="
 ---

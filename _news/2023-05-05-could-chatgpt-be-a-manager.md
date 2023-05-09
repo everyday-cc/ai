@@ -21,19 +21,35 @@ topics:
   - AI
 
 related:
-  - title: "Is ChatGPT Healthcare’s Autopilot?"
-    excerpt: "While human empathy will never be replaced, AI technologies and ChatGPT are providing new possibilities to help healthcare providers engage more efficiently with their patients and streamline administrative duties so physicians can focus more on their patients."
-    publishedDateTime: 2023-05-08T23:07:00Z
-    webUrl: "https://medcitynews.com/2023/05/is-chatgpt-healthcares-autopilot/"
+  - title: "AI startup Inflection Started by Hoffman and Suleyman, Introduces ChatGPT-like Chatbot"
+    excerpt: "An artificial intelligence startup Inflection AI, started by Reid Hoffman and Mustafa Suleyman, has launched its first AI chatbot product."
+    publishedDateTime: 2023-05-05T14:03:00Z
+    webUrl: "https://enterprisetalk.com/quick-bytes/ai-startup-inflection-started-by-hoffman-and-suleyman-introduces-chatgpt-like-chatbot/"
+    ampWebUrl: "https://enterprisetalk.com/quick-bytes/ai-startup-inflection-started-by-hoffman-and-suleyman-introduces-chatgpt-like-chatbot/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/ai-startup-inflection-started-by-hoffman-and-suleyman-introduces-chatgpt-like-chatbot/amp/"
     type: article
     provider:
-      name: MedCity News
-      domain: medcitynews.com
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 49
+    images:
+      - url: "https://enterprisetalk.com/wp-content/uploads/2023/05/AI-startup-Inflection-Started-by-Hoffman-and-Suleyman-Introduces.jpg"
+        width: 1500
+        height: 844
+        isCached: true
+  - title: "Startup from Reid Hoffman and DeepMind co-founder debuts chatbot"
+    excerpt: "Pi was built to be a supportive 'neutral listener' that asks follow-up questions to keep a conversation flowing."
+    publishedDateTime: 2023-05-06T22:00:00Z
+    webUrl: "https://www.moneyweb.co.za/news/ai/startup-from-reid-hoffman-and-deepmind-co-founder-debuts-chatbot/"
+    type: article
+    provider:
+      name: Moneyweb
+      domain: moneyweb.co.za
     quality: 39
     images:
-      - url: "https://medcitynews.com/uploads/2019/08/GettyImages-1026660906.jpg"
-        width: 683
-        height: 512
+      - url: "https://www.moneyweb.co.za/wp-content/uploads/2023/05/397933961-1024x682.jpg"
+        width: 1024
+        height: 682
         isCached: true
 
 secured: "e6dF4kbgspz+ZiP6tDZ4sDSp0b2dOpQMoC9aAB0krcdd8+8j0H+OLssrXCfvhsn6Qtr8WuLi36LxCYhBEipF+qxPq1EzLBMDJKPzcxUYmVuSttzaaFDyyahVGDmNk69bkUbtC95+nDLShj66Jysr/Zo2KAdf8LneB5+yVnqwPkYiIxottRFpjS3qe4NPf3R6AWzED9kgVOSywGvDWJZx1HVpIPpuHQBxCudwxZD8/NpReRZd4I8Uu+ToNzqtiwRnSTmWkGOF2IUd3x5CGSqUdMJNjbgovobEnRYZJGp6HhLeAj7foFE/EDUSuYQAOQf7PgeyWacEbVRnDglu00mffe+ZwlLa151LNY+Ts+108Lo=;BpXmhqMEs8OQTvMDJ78cfQ=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/stevensalzberg/2023/05/08/should-we-be-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevensalzberg/2023/05/08/should-we-be-worried-about-ai-i-thought-not-until-i-asked-an-ai/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -45,22 +45,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/f2a30653e070396966e3a4e43f03d1a7986757d2/1341_236_5335_3201/master/5335.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=1170583493e429e9fd50edf6fe85387e"
         width: 600
         height: 360
-        isCached: true
-  - title: "AgileThought Launches New Applied AI Guild"
-    excerpt: "Cognitive Services and AI Ethics and Governance. AgileThought experts will work closely with clients to understand their specific needs and develop customized solutions that fit their business goals. \"We are committed to helping our clients stay at the ..."
-    publishedDateTime: 2023-05-04T17:24:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/05/g32220847/agilethought-launches-new-applied-ai-guild"
-    ampWebUrl: "https://www.benzinga.com/amp/content/32220847"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32220847"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 59
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
         isCached: true
   - title: "‘A race it might be impossible to stop’: how worried should we be about AI?"
     excerpt: "Scientists are warning machine learning will soon outsmart humans – maybe it’s time for us to take note"

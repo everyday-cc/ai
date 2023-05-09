@@ -92,6 +92,20 @@ related:
         width: 1648
         height: 1982
         isCached: true
+  - title: "The rise of human ingenuity in Artificial intelligence"
+    excerpt: "The neural network used in ChatGPT is composed of multiple layers of artificial neurons that work. In coherence together to understand the structure and patterns in language. The model is trained on a large corpus of text data, which it uses to learn the ..."
+    publishedDateTime: 2023-05-09T11:22:00Z
+    webUrl: "https://timesofindia.indiatimes.com/readersblog/anawrites98/the-rise-of-human-ingenuity-in-artificial-intelligence-53634/"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 41
+    images:
+      - url: "https://static.toiimg.com/photo/75476733.cms"
+        width: 640
+        height: 360
+        isCached: true
   - title: "Generative AI in factory automation and the edge"
     excerpt: "Siemens and Microsoft: generative AI in factory automation and at the edge In factory automation Siemens and Microsoft recently demonstrated how with the combination of Microsoft Azure machine learning and Siemens’ industrial edge, images captured by ..."
     publishedDateTime: 2023-05-05T18:09:00Z
@@ -100,6 +114,15 @@ related:
     provider:
       name: Embedded
       domain: embedded.com
+    quality: 19
+  - title: "Leveraging AI in telecoms to enhance offerings and maximise operations"
+    excerpt: "As the use cases and opportunities for AI continue to emerge, there are a host of tech-driven approaches telco leaders can integrate into their operations, utilising software like ChatGPT."
+    publishedDateTime: 2023-05-09T11:37:00Z
+    webUrl: "https://telecoms.com/opinion/leveraging-ai-in-telecoms-to-enhance-offerings-and-maximise-operations/"
+    type: article
+    provider:
+      name: Telecoms
+      domain: telecoms.com
     quality: 19
 
 secured: "3yj14j0MQDUCsvqA3W0BuAnntgk1AU9lDj5DBK11QK84AGGzOpzdFRkx5fpGtdaCFVbBPxMC3i+QSjRHf9oyMYAmR26JIhWUXbklDlT/VrZ+9nqY0T/iYfDn6VQ+0A/cOVoellMWumPasd5buL5eXmGt4SiJnCdM4GsufkIrUzRo40xhaJalR6rpUyBGnqxRolKtd9gIW4C+baHaJy+9WRA5GlIYBKFf2qnlMFiyDqMxy2VbWFj3JyileT3AMM/uecEZFKqAcB+HVngYZW1pL0Ozmg+HnsGz0iw63crCTrvV3s/CQznVPGVCd5AxxugudzRNeGUoVY8YOjelq3j3iBh2zAZ39WlahkVj3i+GfZ+I0g2c/94BEbLKrm93cmhq1RDLxDTdT8GloXPh9glLvyejS0X/beVk3Dja+l8KJY0PlnvXISbn+vXPGYyxDjW8a7pMltxZQ4W340kyIOtSgQ5Z+gqZTmSZxMTJKqsJq2z7AsSjNDbmxApFP0ekv9/7o/bXM/UmJRlEcOQTSO/Epw==;iFwPdHLsl+reW3Y/k8ov5g=="

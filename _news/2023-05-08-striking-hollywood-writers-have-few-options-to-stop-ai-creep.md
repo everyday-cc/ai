@@ -134,6 +134,15 @@ related:
         width: 1480
         height: 833
         isCached: true
+  - title: "Writers vs. robots: Hollywood moved toward automation long before AI"
+    excerpt: "In the franchise era, viewers and studios alike favor formula over creativity—the exact sort of stuff that’s easiest for AI to write, unfortunately for writers."
+    publishedDateTime: 2023-05-09T06:01:00Z
+    webUrl: "https://www.fastcompany.com/90893629/hollywood-started-leaning-toward-automation-long-before-ai"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 34
   - title: "The AI Apocalypse Is Coming for Hollywood, but Don’t Robots Rule Us Already?"
     excerpt: "On her way to the picket line, the creator of the beloved hit ‘Dickinson’ waves goodbye to human storytelling."
     publishedDateTime: 2023-05-08T18:54:00Z

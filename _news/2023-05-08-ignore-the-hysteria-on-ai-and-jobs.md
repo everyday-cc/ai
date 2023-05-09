@@ -44,6 +44,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Chat GPT Compares Itself Against Base64.Ai's Powerful Document Processing AI And The Results Are Hilarious"
+    excerpt: "AI facing each other Chat GPT is not suitable for documents. Chat GPT vs Base64.ai We asked if Chat GPT could replace all"
+    publishedDateTime: 2023-05-09T10:58:00Z
+    webUrl: "https://menafn.com/1106205969/Chat-GPT-Compares-Itself-Against-Base64Ais-Powerful-Document-Processing-AI-And-The-Results-Are-Hilarious"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 21
+    images:
+      - url: "https://menafn.com/updates/pr/2023-05/09/EP_2654cimage_story.png"
+        width: 600
+        height: 314
+        isCached: true
 
 secured: "vzLIpxDWZPREARjMOdZERYYpzEDzC2a8dVQvCyi7yZTx1BkB6xtj+gnYG/OXjpE1wPek63AJSyJcfGlxGgBQvBE8KmVMG9MpMfiwmBSxtGiwk+4JhXftBWKsU7rzjnTkbhOsVwm1C0Da5O67t5FCiUWaaFX3awwNyLmNSu4RF+r705TvItzGmVXSx+iI73jAUFeLiolj0rPFIl6ykiN8M3o+oHz3g0Hv3XStBqW5RyOyCYP4/YntOIP9gzFUdTm1WYj2Ds536VZxNXWGfbbuEbTUR32l85xwDoXRUJam2bRrt31oWDOlGZ/Scfu1r2AQ8/xRRj/x4mVGZNXdWaFq70egb96QuRMw5N6gN8GN9BDnc4FruAKwtGWbjkdY6GIjL0tZ+GAUkZ3uMjjmBvsLTNYN27Wo+fGwA4XNmfap5tquLVCNjWQcjaMzUFVjBP4gdfa7NPaGeWRHmTxst5gcuJAUS1HB5U1ZqtZg6DZIs2WP0CKfNlgGAP8bci1yeGtp6DpzyJ0ixPOIzuOJhlABxg==;GtXXLEW3blY4gaHODJ0kxg=="
 ---

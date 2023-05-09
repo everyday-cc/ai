@@ -7,7 +7,7 @@ originalUrl: "https://www.pcmag.com/news/google-reportedly-upgrading-search-with
 webUrl: "https://www.pcmag.com/news/google-reportedly-upgrading-search-with-ai-chatbot-tiktok-videos"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Wendy’s, Google Train Next-Generation Order Taker: an AI Chatbot"
+    excerpt: "The fast-food chain has customized a language model with terms like “JBC” for junior bacon cheeseburger and “biggie bags” for meal combos."
+    publishedDateTime: 2023-05-09T10:45:00Z
+    webUrl: "https://www.wsj.com/articles/wendys-google-train-next-generation-order-taker-an-ai-chatbot-968ff865"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
+    images:
+      - url: "https://images.wsj.net/im-777889/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Google Plans to Make Search More ‘Personal’ with AI Chat and Video Clips"
     excerpt: "Changes aim to respond to queries that can’t be easily answered by traditional ‘10 blue links’ web results."
     publishedDateTime: 2023-05-06T03:00:00Z

@@ -24,19 +24,6 @@ images:
     height: 512
     isCached: true
 
-related:
-  - title: "Could ChatGPT be a manager?"
-    excerpt: "In a recent experiment, JobSage, an employer review site, prompted ChatGPT to write emails addressing fifteen sensitive management scenarios, then had law, human resources and management ..."
-    publishedDateTime: 2023-05-04T21:29:00Z
-    webUrl: "https://www.itworldcanada.com/article/could-chatgpt-be-a-manager/538228"
-    ampWebUrl: "https://www.itworldcanada.com/article/could-chatgpt-be-a-manager/538228?amp=1"
-    cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/could-chatgpt-be-a-manager/538228?amp=1"
-    type: article
-    provider:
-      name: IT World Canada
-      domain: itworldcanada.com
-    quality: 24
-
 secured: "xpYp9CAA9TGlr6b+l1OPnjQ+rCdjHeucwh94pJWVL4kxwuKrXY5TmCip8fGhUUk6gQcojHXnAMg0WNHHejQAdnOtV4j26DC82xBLDBQrVJHHxg2rrnAH7ltgB1SbIATkxLWuQopKFKmFBJQM4+AEHzCX9rCD/Eiw49YHIXXOetJ+qLr/2jNv3zQNJ0+2phvciIvc3mgPI0PbzKTMA3gSdJ0+aXGCPmcuJ6QP+9SOTTrzhuDMjFDVYCPeEAwJBv876eCjXn/Z9u9k9MaSdM68LdRL9tO3bNfMSMYfRGxjwZAYqFa7KdCsWcJ8XsAlna1Th9Dt2/4h9t1qGsQ7resMXEHsMbyLznrHwV24zdDO5PEgmMdUFFnQstRZYAHAUZIM0MCrpdPbqrTf+UYICULVfg48BIwpMFqFksGr+P2CgqLC9YI2bYH9TRTefBTGCHajaM9QwWt5sX0f2m5BEL9OkWAGpDjKYvXrFKYYk8zQrlnYLDhBCix67gL6I6ujBMJ+LgqE7+KrwlulDcf5LmNa2Q==;3xSOWrVBLYqsl++BUXt0Xw=="
 ---
 

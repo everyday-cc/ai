@@ -99,15 +99,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Autonomous Cars/Driverless Cars Market 2023 Growth Status and Outlook for 2030"
-    excerpt: "At present, the technology is mainly in driving assistance level and semi-autonomous driving level. Europe is a key region for the deployment of self-driving vehicles, owing to the high consumer preference for technologically advanced products. This region ..."
-    publishedDateTime: 2023-05-04T17:59:00Z
-    webUrl: "https://www.marketwatch.com/press-release/autonomous-carsdriverless-cars-market-2023-growth-status-and-outlook-for-2030-2023-05-04"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 45
   - title: "How driverless trucks got drivers’ licenses in Kansas | Commentary"
     excerpt: "Each time autonomous vehicle bills stalled at the Capitol, lobbyists and friendly lawmakers got out and pushed."
     publishedDateTime: 2023-05-05T16:29:00Z
@@ -119,15 +110,6 @@ related:
       name: Kansas City Star
       domain: kansascity.com
     quality: 39
-  - title: "L1 Self-driving Vehicle Market Predicted to Grow Massive in Future During 2023-2030"
-    excerpt: "May 04, 2023 (The Expresswire) -- The following is a synopsis of a market research report on the L1 Self-driving Vehicle Market research report provides an extensive analysis of current and forthcoming industry trends. The report enables readers to ..."
-    publishedDateTime: 2023-05-04T17:59:00Z
-    webUrl: "https://www.marketwatch.com/press-release/l1-self-driving-vehicle-market-predicted-to-grow-massive-in-future-during-2023-2030-2023-05-04"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 28
 
 secured: "/+NXs0fFxhsEmxZfM/oHFzzhXwdlz2gcmcp7N8RkzCQVmsog3T2PaPgGHm5F1r1gAb/1DCTKvRu7qfgfDSWIsn0WRWG8cfk7l5UxgGiUtwF8YU81v5ePXvg9NC+kAEyYTSiC17qeoozjOn4707Ptec6N+2npZQeuUE2qOUnTK/N91t0awdM75JlFF9jPGRONulAXEmrFzzR+xXyQoGcFiDxue504TaFEW3jhntzarIgC6UwKk9tdDnT43C5viVPqqH66rGS/xsyozbNNRVsxzLswtbRsfA55ppsLYQk868DVmMekcAQoPXBmPzvO8NUXXSKdKCtPtXb4M852rIcYG2puEt9k7Kv0Ccr8XNanxfs=;MDpR77WmbeQpvaBg+DPMpQ=="
 ---

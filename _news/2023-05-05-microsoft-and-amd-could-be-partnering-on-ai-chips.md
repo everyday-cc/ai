@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft helping finance AMD's expansion into AI chips- Bloomberg"
-    excerpt: "Microsoft Corp is working with Advanced Micro Devices Inc on the chipmaker's expansion into artificial intelligence processors, Bloomberg News reported on Thursday, citing people with knowledge of the matter."
-    publishedDateTime: 2023-05-04T17:23:00Z
-    webUrl: "https://www.reuters.com/article/amd-ai-microsoft/update-1-microsoft-helping-finance-amds-expansion-into-ai-chips-bloomberg-idUSL4N3714JL"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 118
-    images:
-      - url: "https://www.reuters.com/resizer/xOORmMGGhmHxjWnnPlcl8EiZ6VY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/IYT3OK5U4BOMFPVKOXIRRT4YYM.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Microsoft Is Helping Finance AMD’s Expansion Into AI Chips"
     excerpt: "Microsoft Corp. is working with Advanced Micro Devices Inc. on the chipmaker's expansion into artificial intelligence processors, according to people with knowledge of the situation, part of a multipronged strategy to secure more of the highly coveted components."
     publishedDateTime: 2023-05-05T14:23:00Z
@@ -120,24 +106,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Microsoft Helping Finance AMD's Expansion Into AI Chips - Bloomberg News"
-    excerpt: "Microsoft Corp is working with Advanced Micro Devices Inc on the chipmaker's expansion into artificial intelligence processors, Bloomberg News reported on Thursday, citing people with knowledge of the matter."
-    publishedDateTime: 2023-05-04T18:15:00Z
-    webUrl: "https://money.usnews.com/investing/news/articles/2023-05-04/microsoft-helping-finance-amds-expansion-into-ai-chips-bloomberg-news"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 97
-  - title: "Microsoft helping finance AMD's expansion into AI chips, Bloomberg reports"
-    excerpt: "Microsoft Corp is working with Advanced Micro Devices Inc on the chipmaker's expansion into artificial intelligence processors, Bloomberg News reported on Thursday, citing people with knowledge of the matter."
-    publishedDateTime: 2023-05-04T17:23:00Z
-    webUrl: "https://www.reuters.com/technology/microsoft-helping-finance-amds-expansion-into-ai-chips-bloomberg-news-2023-05-04/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 96
   - title: "AMD Shares Rise 7% After Report of Microsoft AI Chip Deal"
     excerpt: "Bloomberg reported Microsoft would help AMD increase its supply of in-demand parts and that the two companies were working to develop a homegrown Microsoft AI processor. Represent"
     publishedDateTime: 2023-05-04T23:51:00Z
@@ -218,6 +186,36 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Microsoft Stock (NASDAQ:MSFT): Don’t Discount Its Early Lead in the AI Race"
+    excerpt: "Microsoft (NASDAQ:MSFT) stock has been very quick to recover from the brutal bear market of 2022. Year-to-date, MSFT stock is up around 30%,"
+    publishedDateTime: 2023-05-08T17:38:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/microsoft-stock-nasdaq-msft-don-t-discount-its-early-lead-in-the-ai-race-1032303276"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 82
+    images:
+      - url: "https://blog.tipranks.com/wp-content/uploads/2023/05/image-225-1024x348.png?utm_source=markets.businessinsider.com&utm_medium=referral"
+        width: 1024
+        height: 348
+        isCached: true
+  - title: "MakeMyTrip introduces Microsoft Generative AI to make travel more inclusive"
+    excerpt: "Leading online travel company MakeMyTrip on Monday said it has collaborated with Microsoft to make travel planning more inclusive and accessible by introducing voice assisted booking in Indian languages."
+    publishedDateTime: 2023-05-08T08:35:00Z
+    webUrl: "https://www.thenewsminute.com/article/makemytrip-introduces-microsoft-generative-ai-make-travel-more-inclusive-176883"
+    ampWebUrl: "https://www.thenewsminute.com/article/makemytrip-introduces-microsoft-generative-ai-make-travel-more-inclusive-176883?amp"
+    cdnAmpWebUrl: "https://www-thenewsminute-com.cdn.ampproject.org/c/s/www.thenewsminute.com/article/makemytrip-introduces-microsoft-generative-ai-make-travel-more-inclusive-176883?amp"
+    type: article
+    provider:
+      name: The News Minute
+      domain: thenewsminute.com
+    quality: 72
+    images:
+      - url: "https://www.thenewsminute.com/sites/default/files/MakeMyTrip_Ians_31012023_1200x800-compressed.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Microsoft supporting AMD’s expansion into AI chips"
     excerpt: "AI chips are in great demand after the explosion of chatbots like ChatGPT and other services based on the technology. Read more at straitstimes.com."
     publishedDateTime: 2023-05-05T00:39:00Z
@@ -260,6 +258,22 @@ related:
         width: 472
         height: 315
         isCached: true
+  - title: "MakeMyTrip collaborates with Microsoft to reshape the website with generative AI"
+    excerpt: "As per the company, the new in-platform tech stack will converse with the user to offer personalized travel recommendations"
+    publishedDateTime: 2023-05-08T08:53:00Z
+    webUrl: "https://www.financialexpress.com/business/brandwagon-makemytrip-collaborates-with-microsoft-to-reshape-the-website-with-generative-ai-3078753/"
+    ampWebUrl: "https://www.financialexpress.com/business/brandwagon-makemytrip-collaborates-with-microsoft-to-reshape-the-website-with-generative-ai-3078753/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/brandwagon-makemytrip-collaborates-with-microsoft-to-reshape-the-website-with-generative-ai-3078753/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 69
+    images:
+      - url: "https://www.financialexpress.com/wp-content/uploads/2023/05/Untitled-design-2023-05-08T134752.691.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Microsoft Rebuts Allegations Of AI Chip Collaboration With AMD, Should NVIDIA Worry?"
     excerpt: "People who are supposedly knowledgeable about the situation say Microsoft and AMD have teamed up to design AI chips to rival NVIDIA's product offerings."
     publishedDateTime: 2023-05-08T15:35:00Z
@@ -283,6 +297,52 @@ related:
       name: Ars Technica
       domain: arstechnica.com
     quality: 62
+  - title: "MakeMyTrip collaborates with Microsoft, introduces voice assisted travel bookings. Details here"
+    excerpt: "The new platform will help in curating and booking holiday packages based on variable inputs like occasion, budget, activity preferences, time of travel, hotel reviews etc, based on the type of traveller the user is."
+    publishedDateTime: 2023-05-08T09:42:00Z
+    webUrl: "https://www.livemint.com/news/india/makemytrip-collaborates-with-microsoft-introduces-voice-assisted-travel-bookings-details-here-11683533784960.html"
+    ampWebUrl: "https://www.livemint.com/news/india/makemytrip-collaborates-with-microsoft-introduces-voice-assisted-travel-bookings-details-here/amp-11683533784960.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/makemytrip-collaborates-with-microsoft-introduces-voice-assisted-travel-bookings-details-here/amp-11683533784960.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 62
+    images:
+      - url: "https://www.livemint.com/lm-img/img/2023/05/08/600x338/AI_1683534039523_1683534039751.JPG"
+        width: 600
+        height: 338
+        isCached: true
+  - title: "MakeMyTrip collaborates with Microsoft to reshape the travel booking landscape with generative AI"
+    excerpt: "In a landmark move, MakeMyTrip has collaborated with Microsoft to make travel planning more inclusive and accessible."
+    publishedDateTime: 2023-05-09T08:01:00Z
+    webUrl: "https://www.traveldailymedia.com/makemytrip-collaborates-with-microsoft-to-reshape-the-travel-booking-landscape-with-generative-ai/"
+    ampWebUrl: "https://www.traveldailymedia.com/makemytrip-collaborates-with-microsoft-to-reshape-the-travel-booking-landscape-with-generative-ai/amp/"
+    cdnAmpWebUrl: "https://www-traveldailymedia-com.cdn.ampproject.org/c/s/www.traveldailymedia.com/makemytrip-collaborates-with-microsoft-to-reshape-the-travel-booking-landscape-with-generative-ai/amp/"
+    type: article
+    provider:
+      name: Travel Daily Media
+      domain: traveldailymedia.com
+    quality: 61
+    images:
+      - url: "https://www.traveldailymedia.com/assets/2023/05/shutterstock_2130878285.jpg"
+        width: 1000
+        height: 667
+        isCached: true
+  - title: "SymphonyAI announces strategic collaboration with Microsoft Azure AI for generative AI"
+    excerpt: "SymphonyAI introduces Sensa Copilot, a vertical application that integrates Microsoft Azure OpenAI Service and Azure Cognitive Search to drive value for customers in financial crime prevention and regulatory compliance PALO ALTO,"
+    publishedDateTime: 2023-05-09T10:47:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/05/09/9809924.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 61
+    images:
+      - url: "https://marketplace.connectwise.com/content/images/thumbs/0000635_skykick_550.png"
+        width: 550
+        height: 353
+        isCached: true
   - title: "NVIDIA shares are trading higher after Microsoft denied AMD is involved with its Athena AI chips."
     excerpt: "Never miss a trade again with the fastest news alerts in the world! This headline only article is a sample of real-time intelligence Benzinga Pro traders use to win in the markets everyday. Want the fastest, most accurate stock market intelligence? Want ..."
     publishedDateTime: 2023-05-05T17:32:00Z
@@ -387,6 +447,20 @@ related:
       name: MyBroadband
       domain: mybroadband.co.za
     quality: 51
+  - title: "MakeMyTrip introduces Microsoft AI to make travel more inclusive, accessible"
+    excerpt: "MakeMyTrip introduces Microsoft AI to make travel more inclusive, accessible - Leading online travel company MakeMyTrip said it has collaborated with Microsoft to make travel planning"
+    publishedDateTime: 2023-05-08T11:37:00Z
+    webUrl: "https://www.siliconindia.com/news/general/makemytrip-introduces-microsoft-ai-to-make-travel-more-inclusive-accessible-nid-222799-cid-1.html"
+    type: article
+    provider:
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 51
+    images:
+      - url: "https://www.siliconindia.com/news/newsimages/fW35MAc4.jpg"
+        width: 570
+        height: 367
+        isCached: true
   - title: "Microsoft and AMD are Allegedly Partnering to Challenge Nvidia in AI Chips"
     excerpt: "Bloomberg article states Microsoft is providing financial support for AMD for its own expansion into AI products and that the two companies are also working on Athena together. Bloomberg says its sources include several people who are close to the project."
     publishedDateTime: 2023-05-05T19:35:00Z
@@ -396,15 +470,114 @@ related:
       name: ExtremeTech
       domain: extremetech.com
     quality: 49
-  - title: "Bloomberg seeks an AI ethics & policy reporter"
-    excerpt: "We’re seeking a persistent, talented and intellectually curious reporter who can explore the ethical and regulatory dimensions of the emerging field of artificial intelligence. We aim to hire someone with a profound appreciation of both the potential benefits and unintended harms resulting from chatbots,"
-    publishedDateTime: 2023-05-08T13:04:00Z
-    webUrl: "https://talkingbiznews.com/biz-news-help-wanted/bloomberg-seeks-an-ai-ethics-policy-reporter/"
+  - title: "Privacy-Preserving Computation Market Size, Growing Demand and Trends 2023 to 2030 |Basebit.ai, Google Cloud, Microsoft Azure, IBM Cloud"
+    excerpt: "The Privacy-Preserving Computation Market research studies not only save you hours of effort but also give your"
+    publishedDateTime: 2023-05-05T08:53:00Z
+    webUrl: "https://www.marketwatch.com/press-release/privacy-preserving-computation-market-size-growing-demand-and-trends-2023-to-2030-basebitai-google-cloud-microsoft-azure-ibm-cloud-2023-05-05"
     type: article
     provider:
-      name: Talking Biz News
-      domain: talkingbiznews.com
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
+  - title: "Makemytrip Collaborates With Microsoft To Reshape The Travel Booking Landscape With Generative AI"
+    excerpt: "In a landmark move, MakeMyTrip has collaborated with Microsoft to make travel planning more inclusive and accessible by intro"
+    publishedDateTime: 2023-05-08T10:37:00Z
+    webUrl: "https://menafn.com/1106196713/Makemytrip-Collaborates-With-Microsoft-To-Reshape-The-Travel-Booking-Landscape-With-Generative-AI"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 41
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?633811"
+        width: 333
+        height: 250
+        isCached: true
+  - title: "MakeMyTrip announces its collaboration with Microsoft"
+    excerpt: "MakeMyTrip has collaborated with Microsoft to make travel planning more inclusive and accessible by introducing voice assisted booking in Indian languages. The new, in-platform tech stack powered by Microsoft Azure OpenAI Service and Azure Cognitive Services,"
+    publishedDateTime: 2023-05-08T07:52:00Z
+    webUrl: "https://technuter.com/channel-news/makemytrip-announces-its-collaboration-with-microsoft.html"
+    type: article
+    provider:
+      name: technuter.com
+      domain: technuter.com
+    quality: 39
+    images:
+      - url: "https://technuter.com/wp-content/uploads/2020/01/Microsoft.jpg"
+        width: 418
+        height: 335
+        isCached: true
+  - title: "MMT partners with Microsoft to offer voice assistance in Indian languages"
+    excerpt: "MakeMyTrip (MMT) has collaborated with Microsoft to make travel planning more inclusive and accessible by introducing voice assisted booking in Indian languages. The new, in-platform tech stack powered by Microsoft Azure OpenAI Service and Azure Cognitive Services,"
+    publishedDateTime: 2023-05-08T08:00:00Z
+    webUrl: "https://travelbizmonitor.com/mmt-partners-with-microsoft-to-offer-voice-assistance-in-indian-languages/"
+    type: article
+    provider:
+      name: Travel Biz Monitor
+      domain: travelbizmonitor.com
+    quality: 38
+    images:
+      - url: "https://travelbizmonitor.com/wp-content/uploads/2021/07/IMG-20210515-WA0036_074850-e1627021612894.jpg"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "MakeMyTrip ties up with Microsoft for AI-backed trip bookings"
+    excerpt: "MakeMyTrip ties up with Microsoft for voice-assisted travel bookings. Microsoft Azure OpenAI Service and Azure Cognitive Services will converse with the user to offer personalised travel recommendatio"
+    publishedDateTime: 2023-05-08T13:20:00Z
+    webUrl: "https://www.thehindubusinessline.com/companies/makemytrip-ties-up-with-microsoft-for-ai-backed-trip-bookings/article66826930.ece"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
     quality: 34
+  - title: "MakeMyTrip brings generative AI for travel bookings, ties up with Microsoft"
+    excerpt: "MakeMyTrip plans to expand the platform to other Indian languages, such as Bhojpuri and various southern dialects, in the near future"
+    publishedDateTime: 2023-05-08T12:23:00Z
+    webUrl: "https://www.business-standard.com/companies/news/makemytrip-brings-generative-ai-for-travel-bookings-ties-up-with-microsoft-123050800609_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 32
+  - title: "CallMiner and Microsoft: A Partnership in Driving Conversation Intelligence Innovations"
+    excerpt: "The collaboration enables CallMiner to bolster its AI capabilities using Azure Cognitive Services (a component of Azure AI), allowing the company to scale more rapidly and securely in order to meet customer demands."
+    publishedDateTime: 2023-05-05T20:06:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/05/05/9808849.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 31
+    images:
+      - url: "https://marketplace.connectwise.com/content/images/thumbs/0000635_skykick_550.png"
+        width: 550
+        height: 353
+        isCached: true
+  - title: "MakeMyTrip collaborates with Microsoft to introduce voice assisted booking in Indian languages"
+    excerpt: "The new, in-platform tech stack powered by Microsoft Azure OpenAI Service and Azure Cognitive Services, will converse with the user to offer personalized travel recommendations based on their preferences,"
+    publishedDateTime: 2023-05-08T08:42:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/technology/makemytrip-adds-ai-voice-chat-to-lure-more-india-travelers/articleshow/100069679.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/technology/makemytrip-adds-ai-voice-chat-to-lure-more-india-travelers/amp_articleshow/100069679.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/makemytrip-adds-ai-voice-chat-to-lure-more-india-travelers/amp_articleshow/100069679.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 27
+  - title: "PwC, Microsoft and Icertis launch strategic collaboration to accelerate enterprise digital transformation with AI-powered contract intelligence"
+    excerpt: "PwC, Microsoft and Icertis today formally announced a new strategic collaboration that will provide C-suites with a powerful, innovative AI-driven approach to contract management that enables accelerated enterprise-level digital transformation."
+    publishedDateTime: 2023-05-09T09:52:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-pwc-microsoft-icertis-launch-strategic-collaboration-accelerate-enterprise-/2023/05/09/9809823.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 18
+    images:
+      - url: "https://mma.prnewswire.com/media/371539/Icertis_Logo.jpg"
+        width: 400
+        height: 260
+        isCached: true
   - title: "MakeMyTrip Teams Up with Microsoft to Transform Travel Booking with Voice-Assisted AI in Indian Languages"
     excerpt: "Transforming the travel landscape, MakeMyTrip and Microsoft join forces to create an inclusive, accessible, and seamless travel booking experience, Technology & Science News, Times Now"
     publishedDateTime: 2023-05-08T12:37:00Z

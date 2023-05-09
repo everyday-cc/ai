@@ -2,9 +2,9 @@
 category: news
 title: "New Artificial Intelligence Tool Can Diagnose Colon Cancer"
 excerpt: "Detailed price information for Bausch Health Companies Inc (BHC-T) from The Globe and Mail including charting and trades."
-publishedDateTime: 2023-05-03T13:38:00Z
-originalUrl: "https://www.theglobeandmail.com/investing/markets/stocks/BHC-T/pressreleases/16543041/"
-webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/BHC-T/pressreleases/16543041/"
+publishedDateTime: 2023-05-03T15:28:00Z
+originalUrl: "https://www.theglobeandmail.com/investing/markets/stocks/BHC-T/pressreleases/16543041/new-artificial-intelligence-tool-can-diagnose-colon-cancer/"
+webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/BHC-T/pressreleases/16543041/new-artificial-intelligence-tool-can-diagnose-colon-cancer/"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 436
     isCached: true
 
-secured: "3sksR/JjvriB1fZ3AadxY88RT0NSpxKgTXHPV7A4nsMZ/M/lFQq64fo1oY59R2NSOXGf+s5jR4aiYHnWaH2xOOo00ZL7oeHvdy3K6TLTToSQfzg+DOBPUw0OJdocU2rdt2lvYLrIfnpJmcTUdPOUzM/g3YK+NxYiRU3Dwj027StU5wnDhlFSCgmvCs2Cdq9MNXfXOTIpMFN/A9Y7sZjj9q3g13pVY8njmExXvhxTin26dP7u9GkoAF+Vbwfezp4yLdhJ9bKxaGe47Px0LWKcorTTnSDrfiKIcuZgBgpB6nKfRS3SOfw55jAlmqM1wIzujBXpLE7kP080/1g0c34DS1X4f2IXh5d7pGuOXJ1FMp+r7P4qMO+r7XtxeZY+iTxp1gGn9U4y8EOakUF/ECTl6wMoP0cOm3xzRasC6eAbCHbmARsREuvc701nBzsr5ER7Sm+7mYH3NJm2Iprb9E323zYlcNRSGeg8UDX98FfNZXHyFtszjmt3G9oCenOG+yp2Nz53MqKY1+Zse8Y5bXlLdA==;b+Vi7k/OlcdT55ooNuVd+Q=="
+secured: "XPYf8BBSPvgDjsyCl3OOp/+qx2KTVcjpVzx4q3lUJ7f7iRZt5ljndvqLShiqwU9aag/8ba3Ro447z6zSUYXl63+rjObHiNXMpZPb/bqKp/8j6kw4ZULjELz+nX7/xTrHlsEdYarbukfje07bM8SFg+9PXIyQ6RnFrjW+8Ot9QUorUoHTR3gSaHgPpB3hACcfCO/OV4zzWYdSuQX+1EejxwahVxVfbolAwZul0eCr4i15elA7dI1+cvyFfvn8eiuh52cTTHk99PEwK2PJr39RWfR5/F3aC8T0M/yjhY5LiH0ue3vohAXCzs4QNXQG98Qztu7nBpHTAlHsleoQYpuqhl2yoKLoy3sLJJDjWMPELxM=;G2cH2Dwm+kFEBSTJocyi6Q=="
 ---
 

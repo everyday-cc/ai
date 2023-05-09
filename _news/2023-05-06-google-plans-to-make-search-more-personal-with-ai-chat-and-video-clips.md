@@ -42,6 +42,20 @@ related:
         width: 945
         height: 630
         isCached: true
+  - title: "Wendy’s, Google Train Next-Generation Order Taker: an AI Chatbot"
+    excerpt: "The fast-food chain has customized a language model with terms like “JBC” for junior bacon cheeseburger and “biggie bags” for meal combos."
+    publishedDateTime: 2023-05-09T10:45:00Z
+    webUrl: "https://www.wsj.com/articles/wendys-google-train-next-generation-order-taker-an-ai-chatbot-968ff865"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
+    images:
+      - url: "https://images.wsj.net/im-777889/social"
+        width: 1280
+        height: 640
+        isCached: true
 
 secured: "NQLKeqvpy1QyCmb2VtjyjZbcpVYGXriteiS4vy5MNHt/OBFQ6Xoal1Y6nQXmFLHLswyH+40ttwS9rUHuXAOBZUoyBuZb19lfQXxdzoqxlnNKM2Y52giD/+5G63ShfjJP6VTzRu9JMmF4oydvrD5RHVi1tTdCJC7bSbNiQA0YxOZQnAg678KTnRzc9lEAFnKk3iiyMepVOHHAbLENK3MvNsCfqtBH0pxKc+6ZP1ljFx8poKOnWF0VSrRlW0GnkC6OzjEmj1w0XUgxWydIR8T1JV71cSA2Uy5B1iTXazEl81h0YTYnE6kRu8KctFS3mp5lPN0g3sR1MBDD8q1343FWpa7PKuPN8WndkPXRQRP/tpz08MiKLBstK9iAo+ox4wTfJwnqr5YUXHSgKwuT/NEKArZdP00GcfXcOukTACI7TVGiggQSXkOtK3eO6MWq5Nm2nUxvZt2vE60HcwlWmj8kjL4+0D408dl3e1e0D9aAXTgBOdtaXMalYqNr+sjLbANX85froUbSdlZo1MNkZj7lHQ==;3BPB130N0Gpwrbe/oY7LGA=="
 ---

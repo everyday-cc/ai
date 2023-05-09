@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3695208/14-popular-ai-algorithms-a
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3695208/14-popular-ai-algorithms-and-their-uses.amp.html"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -45,7 +45,21 @@ related:
         width: 1279
         height: 640
         isCached: true
+  - title: "Chat GPT Compares Itself Against Base64.Ai's Powerful Document Processing AI And The Results Are Hilarious"
+    excerpt: "AI facing each other Chat GPT is not suitable for documents. Chat GPT vs Base64.ai We asked if Chat GPT could replace all"
+    publishedDateTime: 2023-05-09T10:58:00Z
+    webUrl: "https://menafn.com/1106205969/Chat-GPT-Compares-Itself-Against-Base64Ais-Powerful-Document-Processing-AI-And-The-Results-Are-Hilarious"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 21
+    images:
+      - url: "https://menafn.com/updates/pr/2023-05/09/EP_2654cimage_story.png"
+        width: 600
+        height: 314
+        isCached: true
 
-secured: "ZQ2OTBB/8UjCVeR4rZF54q2s7vFfwGlGQinWBuS7sD5WPFQYRf9TT4FnmVo+ekowWrseEuw99maUZyyDnj+ylmxwb9e9TtxUuzHQJJe/rcLbWb3khw8+FnE9H2FifZOcoL6coRh54z6HZUrRI3AMpjav1f1AFC7Ot8i1s1BVwDkISJ0VMxn8dNuhlWyzwjw9JEq+rSeBXyskNhs7y1zaxlNbrMqXwgjb4h5mXsNgIn1JdRpOo8HE43hLg5R2Rr+kfr6y3sOOKufC+wf4WEIhTYdDSNOPCcOJjRAFv5wHYLp9WoqlhTFpIZ1FtCnvqNsHXYOJ5DSJMV37P/QQ72kJg3bzlbHgfR2/PnmlT2bgVBo=;7ua71Guu4ieJqzZ2hJSteA=="
+secured: "1MZespE79dp8R5aiC+KI9vd+Kn6pKL1zc6SujMi4cKBQZndl+HwBRMvsUeGm8bW9Dhl1QMguOsEHlI/ArjhF0pyFKoG+DIC35SvqXz3ZmPeBvtcnIHofJfVE4hRAmpgGfUYGG1jXUPdsGBZbx0/xOOQTlWYyeJJawJcEmjj75OyaDztr9vkoKBl0PkcJuAUEZgqAeNV24BcM74GNqzT82Eo5T03T2+jTmwXBFbZYaA/kNKtaVo2Lwqhk+CfVC85aZWjWJ5nL619hB8eiqrmw2JaUlw1WhOfKNxBpJRvbXahpvP4lDuAulKTciMeUAh9hHPBZtjwrIMC+D3mgEFV8waeGjOTASgNCuY6/1H1EmkgaQgtFKJCkJkv+fvoXQUQi7eF2HMW5lxXuu+ppaSGYt8oC/twtdioE5fbR5wqlDSO0wr9MRyjKuFGufvfStvoO4YWaLVrBeBsrpMv5D4ayaHelMUafT0jnur9QbP/j22K0w92n+MIBpNXDltvsBOiOeFSBGbSbCFyez6E+VB2ECA==;yUQuvmdO45ZU+pPWn4l4FQ=="
 ---
 

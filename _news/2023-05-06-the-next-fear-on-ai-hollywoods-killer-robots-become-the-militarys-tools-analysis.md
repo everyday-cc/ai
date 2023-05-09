@@ -125,6 +125,15 @@ related:
         width: 1480
         height: 833
         isCached: true
+  - title: "Writers vs. robots: Hollywood moved toward automation long before AI"
+    excerpt: "In the franchise era, viewers and studios alike favor formula over creativity—the exact sort of stuff that’s easiest for AI to write, unfortunately for writers."
+    publishedDateTime: 2023-05-09T06:01:00Z
+    webUrl: "https://www.fastcompany.com/90893629/hollywood-started-leaning-toward-automation-long-before-ai"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 34
   - title: "Striking Hollywood Writers Have Few Options to Stop AI Creep"
     excerpt: "Film and TV studios could replace striking writers with artificial intelligence bots, and there’s not much labor unions could do to stop it without language in a collective bargaining agreement."
     publishedDateTime: 2023-05-08T15:00:00Z

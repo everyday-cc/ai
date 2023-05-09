@@ -1,28 +1,26 @@
 ---
 category: news
 title: "In global rush to regulate AI, Europe set to be trailblazer"
-excerpt: "European lawmakers have rushed to add language on general artificial intelligence systems like ChatGPT as they put the finishing touches on the Western world's first AI rules"
-publishedDateTime: 2023-05-09T08:51:00Z
-originalUrl: "https://abcnews.go.com/International/wireStory/global-rush-regulate-ai-europe-set-trailblazer-99189394"
-webUrl: "https://abcnews.go.com/International/wireStory/global-rush-regulate-ai-europe-set-trailblazer-99189394"
-ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/global-rush-regulate-ai-europe-set-trailblazer-99189394"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/global-rush-regulate-ai-europe-set-trailblazer-99189394"
+excerpt: "The EU’s AI Act could become the de facto global standard for artificial intelligence, with companies and organizations potentially deciding that the sheer size of the bloc's single market would make it easier to comply than develop different products for different regions."
+publishedDateTime: 2023-05-09T10:32:00Z
+originalUrl: "https://www.chron.com/news/world/article/in-global-rush-to-regulate-ai-europe-set-to-be-18087485.php"
+webUrl: "https://www.chron.com/news/world/article/in-global-rush-to-regulate-ai-europe-set-to-be-18087485.php"
 type: article
-quality: 57
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Houston Chronicle
+  domain: chron.com
 
 topics:
   - AI
 
 images:
-  - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-    width: 834
-    height: 308
+  - url: "https://s.hdnux.com/photos/01/32/63/16/23802752/3/rawImage.jpg"
+    width: 2048
+    height: 1365
     isCached: true
 
 related:
@@ -55,6 +53,6 @@ related:
         height: 670
         isCached: true
 
-secured: "sKfu5y6I6nMlmQR6iREZ5JYKvnWkmvJkXSEJmsWOtHp87A3tu07IbdgQ6P2qCgjFOOg/2NKDYGFmoPGJca2fkn3oqs/qHsDViUwEVcy1uzc7+ez0A34XDXi1E0B/2471+Myz0BkiNjCeZrQNXzOCVBNcRoGDHTwsw84iL5FLzmU3YwnV6zi4F9QUWyxAIEB/i7sPQ5FRotXcyvaGFGqU/cjQg+lEAqQePANVMM47+cJS21YtrEccg1M8Iz0Z5BxzWuPM3PrZHte+PXaOET7ce5dZVZajoLHUkPFCa9Wjfaz78wsI3fn6jQnvYlzFMoKyD4MKMq05KSHe6m+4RcXMEf/SRlO/IBXt4a+KPMbOcc8=;iwFZ2IjbdwEKmhuNCrT4PA=="
+secured: "9A9v627fvDydqF30k+q/DgL77X/vQMYhzlb2AijpC2DNoVdtGDmaMJMaI5UA2gB3PJeWyYmCQRR+ERVjHbOMcsEk0zpF8JW80ljmhrb3JYlIT5+DFAz4APjQd58ycKNCqUnIiXagn3T/PgK02+/0MZgpFLAQCDq3wOVhJiD4H6ASruDleLKAA9b9c3CDTn1aeTH89+RxA+jhkA/n+CBdzjZsy07irEE8Ed9xT86fw0VtGwV+2xQs5CROd69OjTV4QVEWU0k6R+mRngqFODNnqMMPVMo0SDvCkdy47goJpdJ/1xjN3s2D1qDDLpE3ckKLx2TaGnM8HXOcbeP4WnijnPtiFSlcnIGggmo7ucg5+o4=;PwWdcAvP9oHFPtQg8ozoKQ=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/healthcare-natural-langu
 webUrl: "https://www.marketwatch.com/press-release/healthcare-natural-language-processing-market-2023-insight-and-global-trends-2023-05-05"
 type: article
 quality: 83
-heat: 133
+heat: 153
 published: true
 
 provider:
@@ -53,6 +53,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 66
+  - title: "Artificial Intelligence (AI) in Healthcare Market Industry-Specific Challenges and Risks(2023-2030)"
+    excerpt: "Global Artificial Intelligence (AI) in Healthcare Market report provides valuable insights on the global market for"
+    publishedDateTime: 2023-05-08T08:05:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-industry-specific-challenges-and-risks2023-2030-2023-05-08"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 65
   - title: "Data and AI Ethics Market Predicted to Experience Growth Globally by 2030"
     excerpt: "The Data and AI Ethics Market Scope and Overview Report for 2023 presents a detailed analysis of the latest trends in"
     publishedDateTime: 2023-05-05T07:28:00Z
@@ -80,6 +89,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 48
+  - title: "Global Artificial Intelligence Chips Market [2023-2030] | Experience the Future of Industry"
+    excerpt: "GlobalArtificial Intelligence Chips Market[2023-2030] research report is a compilation of information and analysis"
+    publishedDateTime: 2023-05-05T08:22:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-chips-market-2023-2030-experience-the-future-of-industry-2023-05-05"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 39
 
 secured: "MmuLXmsxICDdf8Naojf8iQvbHhVKyjMDq8HU+1VtVd+ytXNHElsXF64ytvMLp6VwSBM80+qINTsOVPNqPHKERKLKUvyRsOa5ymG8ToKbiiUu1MmS7VJXVsWxAXxC9KOuBpjpAWrAX895N9DPzPhstlUGzJpoHlegjGVi7cQoBfmI6Nl42bYZh0FIg87XNiMOIzFmx1hSmLsy56hTPQXHtwjKSNdKeY0mIpgtzvGAFCA33jbluZLXFWUvVBJVzkeaApvPbSJGPKZrcpB7tAP5QX9bXG93oIueqesHK7PY5BnkyU/FrC6Y4Bj8yns/yZ/Dc81uZDCxAkDPykEIMpvbUeCV278grkRR839vr9dfnwk=;tOIFgZADaKSgGS5jkqMAhg=="
 ---

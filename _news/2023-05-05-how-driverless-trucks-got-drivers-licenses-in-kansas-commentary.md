@@ -91,15 +91,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Autonomous Cars/Driverless Cars Market 2023 Growth Status and Outlook for 2030"
-    excerpt: "At present, the technology is mainly in driving assistance level and semi-autonomous driving level. Europe is a key region for the deployment of self-driving vehicles, owing to the high consumer preference for technologically advanced products. This region ..."
-    publishedDateTime: 2023-05-04T17:59:00Z
-    webUrl: "https://www.marketwatch.com/press-release/autonomous-carsdriverless-cars-market-2023-growth-status-and-outlook-for-2030-2023-05-04"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 45
   - title: "Self-driving Bus Market Growing Demands, Trends and Business Outlook 2023 to 2029 with top Players – AV Volvo, Tesla, Navya"
     excerpt: "The latest global Self-driving Bus Market report provides conclusive information about the industry overview, modern trends, demand, and recent development affecting the market growth during the upcoming year."
     publishedDateTime: 2023-05-05T05:28:00Z
@@ -114,15 +105,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "L1 Self-driving Vehicle Market Predicted to Grow Massive in Future During 2023-2030"
-    excerpt: "May 04, 2023 (The Expresswire) -- The following is a synopsis of a market research report on the L1 Self-driving Vehicle Market research report provides an extensive analysis of current and forthcoming industry trends. The report enables readers to ..."
-    publishedDateTime: 2023-05-04T17:59:00Z
-    webUrl: "https://www.marketwatch.com/press-release/l1-self-driving-vehicle-market-predicted-to-grow-massive-in-future-during-2023-2030-2023-05-04"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 28
 
 secured: "m1HXfL4+ZHPMh9iSQtYw6j4lCRB0LAli77SIboEYDWkBrvNYTmJbGirngKbFhduGj/LrQZ20gfqV2hsOx4DnEYcgg3galCEuq2A2t7SYw3BIWIE8ZObbcWnVjXVjj/Uqaxfr7ChEFAXfz7HgpLoyZRFZDU6upmaFWg0GgAQvRAQGQFvbSX+OmVRrBTjThQcOw5JEp3LVME0Kwo8jxZg43bliS4ldKAsE6Zqnh15odvcPzdIHh4FOVVIvkcR1PJTnxtc2Smn0QhST6Dek8GyHQj+vC9IMCbZUDn49gA5FZ/nnzQnxXEGEYT7kv2w0r7syL5EXHEQ+uioKJDsIiKB+HXvqREcAGT/XYGi32RCuWrLa0vRGRFSeff5aCVkiEjYj2tqDqN4VYM9j7SccQiyXuytFTR0aHXo2/sRT/Jf7BODaueyIOn90Ff7h2xYg+iEaRxeXsWc8uvBIhHHB+FcbOTYs+XLh3bdAPU+I8DUFoBF+ex+kBMfh8Xd9cDTZmqNgVuyq/RFmVbZreb7WIuFl4Q==;q8hxBvLdaxk3u979n81UMA=="
 ---

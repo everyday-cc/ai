@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Hackers to Put AI Models From Google, OpenAI, More to the Test at Defcon 31"
-    excerpt: "In partnership with the White House, Defcon is calling on attendees at the hacker conference to find bugs in AI models from Google, Hugging Face, OpenAI, and more."
-    publishedDateTime: 2023-05-04T19:08:00Z
-    webUrl: "https://www.pcmag.com/news/hackers-to-put-ai-models-from-google-openai-more-to-the-test-at-defcon"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 65
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/02dnoO4QzOEXSFteoSc3WHY-3.fit_lim.size_1200x630.v1683219099.jpg"
-        width: 1120
-        height: 630
-        isCached: true
   - title: "Generative AI defined: How it works, benefits and dangers"
     excerpt: "In April 2023, the European Union proposed new copyright rules for generative AI that would require companies to disclose any copyrighted material used to develop these tools. Hopes are that such rules will encourage transparency and ethics in AI ..."
     publishedDateTime: 2023-05-04T19:22:00Z

@@ -43,15 +43,6 @@ related:
         width: 1260
         height: 630
         isCached: true
-  - title: "Get started with generative AI on AWS using Amazon SageMaker JumpStart"
-    excerpt: "Generative AI is gaining a lot of public attention at present, with talk around products such as GPT4, ChatGPT, DALL-E2, Bard, and many other AI technologies. Many customers have been asking for more information on AWS’s generative AI solutions. The aim of this post is to address those needs. This post"
-    publishedDateTime: 2023-05-04T18:11:40Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/get-started-with-generative-ai-on-aws-using-amazon-sagemaker-jumpstart/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 99
   - title: "Create high-quality datasets with Amazon SageMaker Ground Truth and FiftyOne"
     excerpt: "This is a joint post co-written by AWS and Voxel51. Voxel51 is the company behind FiftyOne, the open-source toolkit for building high-quality datasets and computer vision models. A retail company is building a mobile app to help customers buy clothes. To create this app, they need a high-quality dataset"
     publishedDateTime: 2023-05-05T16:37:15Z
