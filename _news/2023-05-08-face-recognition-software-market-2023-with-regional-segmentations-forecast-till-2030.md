@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Cognitive Services Market Share From 2023 And Unlimited Opportunities for New Companies"
+    excerpt: "Cognitive Services Market Size 2023 | New Report (116 Pages) | Analytics | In This Reports Cognitive Services Market"
+    publishedDateTime: 2023-05-05T04:22:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cognitive-services-market-share-from-2023-and-unlimited-opportunities-for-new-companies-2023-05-05"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 61
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Educational Robots Market Size Share Volume Trends Demand Forecast Report 2022-2028"
     excerpt: "These start-ups are raising significant investments ... Use of Robots for instructional functions Technological Advancement within the Field of AI The major restraining factors of Educational Robots Market are as follows: 5. Educational Robots Market ..."
     publishedDateTime: 2023-05-04T17:59:00Z
@@ -52,6 +66,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 43
+  - title: "3D Facial Recognition Market Top Players, Revenue, Share, Future Trends, Size, Report and Forecast 2023 to 2031"
+    excerpt: "Moreover, it has benefits over 2D facial recognition, such as ease in the detection of facial data from videos and 2D images and least affected with illumination issues. With the advancements in 3D facial recognition software and services,"
+    publishedDateTime: 2023-05-08T07:48:00Z
+    webUrl: "https://www.marketwatch.com/press-release/3d-facial-recognition-market-top-players-revenue-share-future-trends-size-report-and-forecast-2023-to-2031-2023-05-08"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 29
 
 secured: "+phjDoME7sotinC20JE0ZI2KGqn6iRWWa/rJBEWlWQc57VMrZnrW1l8YuQ/RgpCmU6FuFY4x3vA8Ahgkxqs2g2H6FItEit4oi5jOEVuXstneWBZXGIo3jZIVm4vXUvImFNPS2+3gqPAVgUb+fSC73vdN3Ai5BShqQqg66k+tcdum2EgEMXUKk5yenv4e/s1bzPyXQtqMKgWs+pb2H2Rx6iozdjcXrVtvFfmfwi3AQtcLWbVcdy91RTf4b5+TYpnXYdZ9O4Z9KmEALLPAsmTI0Cr4BxNAo+kNUeG01uTT39lrasSHMa36ugRKuD7n01TCoAPdg7rMnAKgA21wtUpcMpVupZ2zU87u+140rC3UeNw=;uo7Mc5QzYAliCiT9B/o5fQ=="
 ---

@@ -68,22 +68,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "US announces measures to address risk of artificial intelligence arms race"
-    excerpt: "White House said it would invest $140m in pursuit of AI advances that are ‘ethical, trustworthy, responsible, and serve the public good’"
-    publishedDateTime: 2023-05-04T15:52:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/may/04/us-announces-measures-to-address-risk-of-artificial-intelligence-arms-race"
-    ampWebUrl: "https://amp.theguardian.com/technology/2023/may/04/us-announces-measures-to-address-risk-of-artificial-intelligence-arms-race"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/may/04/us-announces-measures-to-address-risk-of-artificial-intelligence-arms-race"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 55
-    images:
-      - url: "https://i.guim.co.uk/img/media/f7eb9b7ae2efb54e5f8ccbce13aed19e3f76803e/0_0_6431_3861/master/6431.jpg?width=620&quality=85&auto=format&fit=max&s=ad8bac99eb3bf3d060964213513541f7"
-        width: 620
-        height: 372
-        isCached: true
   - title: "How AI is revolutionizing fraud detection in financial transactions and processes"
     excerpt: "The banking, financial institutions, and fintech industries face a growing number of scams each year, that can be typically categorized into three main types: physical attacks, internal collusion and violation of the Four Eyes Rule,"
     publishedDateTime: 2023-05-06T10:35:00Z
@@ -119,6 +103,6 @@ related:
       domain: 9to5mac.com
     quality: 15
 
-secured: "k+F7dPThO5juwkHwI/ieleuittxK2otzaytWpmkzvyWD6Rp/lyrxlxtL6EE350hHoLWkJHdGFrVFoKsF3Fs38h6B2ZeEAayrstn++YlKsAlJTWoeU2+n8vPsiwVLU41RaaRxgMssqgIbK2gpPVBjOwqr7RgbZr9fTZt8QVj3b8A9jxMTTuoSHhYvxNLg7hWXJerW6gNTYd32RUjdPLwv8T4avKKeCPQJ5lCeAUBhJvI1zEHC6qG4JwpnCdmEoVVxNgHE3rkBMNupkkahkh5bT7xfvC2+0oyvwaLmhQyAA2/LpxiEXmOTVjfbxco5C5iaEzzPCXmtqDwiRGD6Jf1dm0DnOBuo2+21hsPH7icgYcY=;XPGf0d2N3k8DJe95GL2dAg=="
+secured: "r0+1Q3Mvph6ZIdwx8whSb0Wtn/ba0zzhlY0wpZvpLD+GWPL8z9vqCQRrIIGulX2wtaGw750XcLojo1463O+vEsM4TWjwCMPCCzH/rn4jErNRIHSgigP4CA2/1SmRllfCTn4RrHZxoDae8hCvtFknez9I1TPDyQ3w9EgHIS3VVoPjN5gga68WHB+m1utJ8nIDMix3c79R0ofqHAiSpg+OyIQXOBF8bSMYtA5dm//aTZbV45ZKqXgxAivqhBpyCe4dWLuojtH+NG+EsDx7HdmcRqQTcPY0jo8DGkkSrgemU/o61febaRvrs4K5RAEGYl2m9LkOjKCBEjs5r8adumHwso4RI0tCcaRd0RBeDz8U+8DZfCTfUIm54IwN60paO/a1H0IXdtjTrEcg151dJc97e67EE8nrV1Os/n4d9Pkq5VP3ezkKUEB7ZPraqWUftlZpBL0oP7W388A6Ag/9rc2IzAZumfVl/sslZPhnfPId5omRaA/MJfZpXpEapSbtQBcO4BRekUZ443QDb4lqjAIY/g==;aVQWBVpUW720wC8iGAxdnA=="
 ---
 

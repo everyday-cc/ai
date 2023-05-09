@@ -23,131 +23,57 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence in Healthcare Market Forecast to 2031"
-    excerpt: "This \"Artificial Intelligence in Healthcare Market\" report offers a thorough analysis of the industry, including"
-    publishedDateTime: 2023-05-04T15:50:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-forecast-to-2031-2023-05-04"
+  - title: "Warehouse Robotics Market Share, Size, Financial Summaries Analysis from 2023 to 2028"
+    excerpt: "Warehouse Robotics report provides a detailed analysis of regional and country-level market size, segmentation market growth, market share, competitive Landscape, sales analysis, impact of domestic. The warehouse robotics market has been witnessing significant growth in recent years."
+    publishedDateTime: 2023-05-08T09:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/warehouse-robotics-market-share-size-financial-summaries-analysis-from-2023-to-2028-2023-05-08"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 84
+    quality: 77
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "AI In Computer Vision Market: Recent Growing Trend 2030"
-    excerpt: "Newest Report will contain the Competitional Analysis of Top 5 Key Plyers (Qualcomm Technologies, Inc., Google LLC,"
-    publishedDateTime: 2023-05-05T05:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-recent-growing-trend-2030-2023-05-05"
+  - title: "Face Recognition Software Market 2023 with Regional Segmentations Forecast till 2030"
+    excerpt: "The Global \"Face Recognition Software Market\" report analyzes crucial growth factors, key strategies employed by"
+    publishedDateTime: 2023-05-08T09:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-software-market-2023-with-regional-segmentations-forecast-till-2030-2023-05-08"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 84
+    quality: 62
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Healthcare Natural Language Processing Market 2023 Insight and Global Trends"
-    excerpt: "The Healthcare Natural Language Processing Market Scope and Overview Report for 2023 presents a detailed analysis of"
-    publishedDateTime: 2023-05-05T07:28:00Z
-    webUrl: "https://www.marketwatch.com/press-release/healthcare-natural-language-processing-market-2023-insight-and-global-trends-2023-05-05"
+  - title: "Cognitive Services Market Share From 2023 And Unlimited Opportunities for New Companies"
+    excerpt: "Cognitive Services Market Size 2023 | New Report (116 Pages) | Analytics | In This Reports Cognitive Services Market"
+    publishedDateTime: 2023-05-05T04:22:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cognitive-services-market-share-from-2023-and-unlimited-opportunities-for-new-companies-2023-05-05"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 83
+    quality: 61
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence for Healthcare Applications Market 2023 | Increasing Number of Users by 2030"
-    excerpt: "The Artificial Intelligence for Healthcare Applications Market Scope and Overview Report for 2023 presents a detailed analysis of the latest trends in the global Artificial Intelligence for Healthcare Applications market."
-    publishedDateTime: 2023-05-08T06:38:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-for-healthcare-applications-market-2023-increasing-number-of-users-by-2030-2023-05-08"
+  - title: "Educational Robots Market Size Share Volume Trends Demand Forecast Report 2022-2028"
+    excerpt: "These start-ups are raising significant investments ... Use of Robots for instructional functions Technological Advancement within the Field of AI The major restraining factors of Educational Robots Market are as follows: 5. Educational Robots Market ..."
+    publishedDateTime: 2023-05-04T17:59:00Z
+    webUrl: "https://www.marketwatch.com/press-release/educational-robots-market-size-share-volume-trends-demand-forecast-report-2022-2028-2023-05-04"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Healthcare Natural Language Processing Market Forecast to 2031"
-    excerpt: "The Healthcare Natural Language Processing Market Report [101] offers statistical analyses on market growth prospects and in-depth information on the leading manufacturers - SAS I"
-    publishedDateTime: 2023-05-05T01:14:00Z
-    webUrl: "https://www.marketwatch.com/press-release/healthcare-natural-language-processing-market-forecast-to-2031-2023-05-04"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 66
-  - title: "Natural Language Processing in Healthcare Market | Worldwide Industry Trends 2023-2030"
-    excerpt: "Get a Sample Copy of the Natural Language Processing in Healthcare Market Report Geographically, a well-developed infrastructure of the global Natural Language Processing in Healthcare Market, its awareness,"
-    publishedDateTime: 2023-05-05T09:39:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-in-healthcare-market-worldwide-industry-trends-2023-2030-2023-05-05"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 58
-  - title: "FinTech in Insurance Market Outlook and Forecast till 2030"
-    excerpt: "According to the \"FinTech in Insurance Market\" report, the technology sector is changing, and both established"
-    publishedDateTime: 2023-05-05T05:31:00Z
-    webUrl: "https://www.marketwatch.com/press-release/fintech-in-insurance-market-outlook-and-forecast-till-2030-2023-05-05"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Data Science and Machine-Learning Platforms Market Revenue, Growth Opportunities and Forecast to 2031"
-    excerpt: "Our report on the Data Science and Machine-Learning Platforms Market provides in-depth analysis on the current state of"
-    publishedDateTime: 2023-05-08T08:44:00Z
-    webUrl: "https://www.marketwatch.com/press-release/data-science-and-machine-learning-platforms-market-revenue-growth-opportunities-and-forecast-to-2031-2023-05-08"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 39
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Healthcare Cognitive Computing Market Analysis, Share, Revenue, Growth Rate With Forecast Overview Till 2030"
-    excerpt: "Further, for the in-depth analysis, the report encompasses the industry growth indicators, restraints, supply and demand risk, along with detailed discussion on current and future market trends that are associated with the growth of the market."
-    publishedDateTime: 2023-05-08T01:08:00Z
-    webUrl: "https://www.marketwatch.com/press-release/healthcare-cognitive-computing-market-analysis-share-revenue-growth-rate-with-forecast-overview-till-2030-2023-05-07"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 32
-  - title: "Passenger Vehicle Voice Recognition Market Trends and Forecast: Analyzing Growth Potential with CAGR forecasted 10.9% during 2023-2030"
-    excerpt: "Passenger Vehicle Voice Recognition market outlook (2023-2030) provides a thorough analysis of the market's current state, including factors such as market size, growth rate, segmentation, and key players."
-    publishedDateTime: 2023-05-04T23:42:00Z
-    webUrl: "https://www.marketwatch.com/press-release/passenger-vehicle-voice-recognition-market-trends-and-forecast-analyzing-growth-potential-with-cagr-forecasted-109-during-2023-2030-2023-05-04"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 22
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
+    quality: 43
 
 secured: "ftVx3cbVx/TxXGxOMbRDBdq6E89P+Jmr/6UC1ou6QxrrsKzaBNFBfzzr78gn26kWCWgjMa8HbToX46xE5G7g7Q6CkpUe3bQiicuNIxTvhLbquxaVEEb8226xouxWhk9iGFdQkOf3n/bxZtRalxQPBL7EqLQ0SO0b9qt8WOywG+5IerVegfASmkZ7atD1+hWxC9M82QSKpDKbM2QO5dMqlBRjBecHyE9UZsWr1n/GzqZcwunQpj4GD951GOWw2+lPfu08bbjoleFBhRyrqGRzHn6oxIox7CXK/u73+yjJGtKV2/VR39RmWW0FyyHJYDm5Jq8dJf0VR4Brl9NhqgJty/x8sur+VeVcRwHQBWx9CsI=;9WVT5fv1qwW1Krm9PUaGcQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thenewsminute.com/article/makemytrip-introduces-microsof
 cdnAmpWebUrl: "https://www-thenewsminute-com.cdn.ampproject.org/c/s/www.thenewsminute.com/article/makemytrip-introduces-microsoft-generative-ai-make-travel-more-inclusive-176883?amp"
 type: article
 quality: 72
-heat: 222
+heat: 232
 published: true
 
 provider:
@@ -72,6 +72,22 @@ related:
       - url: "https://www.livemint.com/lm-img/img/2023/05/08/600x338/AI_1683534039523_1683534039751.JPG"
         width: 600
         height: 338
+        isCached: true
+  - title: "MakeMyTrip collaborates with Microsoft to reshape the travel booking landscape with generative AI"
+    excerpt: "In a landmark move, MakeMyTrip has collaborated with Microsoft to make travel planning more inclusive and accessible."
+    publishedDateTime: 2023-05-09T08:01:00Z
+    webUrl: "https://www.traveldailymedia.com/makemytrip-collaborates-with-microsoft-to-reshape-the-travel-booking-landscape-with-generative-ai/"
+    ampWebUrl: "https://www.traveldailymedia.com/makemytrip-collaborates-with-microsoft-to-reshape-the-travel-booking-landscape-with-generative-ai/amp/"
+    cdnAmpWebUrl: "https://www-traveldailymedia-com.cdn.ampproject.org/c/s/www.traveldailymedia.com/makemytrip-collaborates-with-microsoft-to-reshape-the-travel-booking-landscape-with-generative-ai/amp/"
+    type: article
+    provider:
+      name: Travel Daily Media
+      domain: traveldailymedia.com
+    quality: 61
+    images:
+      - url: "https://www.traveldailymedia.com/assets/2023/05/shutterstock_2130878285.jpg"
+        width: 1000
+        height: 667
         isCached: true
   - title: "MakeMyTrip adds AI voice chat to lure more travellers"
     excerpt: "MakeMyTrip Ltd. will use Microsoft Corp.’s Azure Open AI technology for the chat, initially available in English and Hindi, the Indian company said in a statement Monday."

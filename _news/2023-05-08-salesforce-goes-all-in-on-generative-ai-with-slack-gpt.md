@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/article/salesforce-launches-slack-gpt/a
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/salesforce-launches-slack-gpt/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -45,22 +45,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2023/03/Salesforce-logo_2023.jpg?w=1200&strip=all"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Salesforce launches SlackGPT, embracing generative AI for enterprise workflows"
-    excerpt: "Salesforce today announced SlackGPT, a new generative AI-powered experience planned for the Slack app, to be released soon."
-    publishedDateTime: 2023-05-04T16:00:00Z
-    webUrl: "https://venturebeat.com/ai/salesforce-launches-slackgpt-embracing-generative-ai-for-enterprise-workflows/"
-    ampWebUrl: "https://venturebeat.com/ai/salesforce-launches-slackgpt-embracing-generative-ai-for-enterprise-workflows/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/salesforce-launches-slackgpt-embracing-generative-ai-for-enterprise-workflows/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 83
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/03/GettyImages-1231317627.jpg?w=1200&strip=all"
-        width: 1018
-        height: 574
         isCached: true
 
 secured: "+INnL5bDQKhqPu+tWjhmrMH1rxF5UDqpjdUebhiRfbptA7c68Ydc8NVERJ8HZyTRdHOvBhDHaZ+Kgc3fFspUxAOq6xL0sjwqDJzWMsOCbUa/kF/WZicN2zOPefwFzvkl4mc+jZT9LtsauoZWkYvGf114b5HnNks4PONuO3DBUv6Fh3J55gr2yriJBN8ttswmCKIc7dp5s8s6+8ww13LZaEF3Pwa0gFSPlni8UCywMkyKD7X0wJj+gOCuDHZTPdE4a/DxDhZDQhgFDBU7N3IQhwaTkX0M1uxCnfyJrhClUbHiWF0SSGDFQg5JzRQ/ATV6p4EcOL7rjXENHMBEzljycjqZOk3uwcM7/hYKrF9OXQjsPr/SGW02ufPnGWm67kLKGoH4ka/2m3ln+b/nEhsTi6iN0ar/zXCd0gKOr0ie75cncXBxuGuQsQXG8GAQiIXZKZwWbeu7EkFh0RhzVWr44ERCSRQFmR8ptTQtNKI3g++dGxD/pm9oUb+iHG1ZIDuWDQc+u/0IRkTykImWd7gmxQ==;ZCikH81UmogEADvLPRZpmQ=="

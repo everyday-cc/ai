@@ -45,22 +45,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "OpenAI, Microsoft, and Alphabet CEOs to discuss AI with Biden administration today"
-    excerpt: "The announcement from the White House Briefing Room also included plans for a public evaluation of existing generative AI systems."
-    publishedDateTime: 2023-05-04T15:49:00Z
-    webUrl: "https://www.zdnet.com/article/openai-microsoft-and-alphabet-ceos-to-discuss-ai-with-biden-administration-today/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/openai-microsoft-and-alphabet-ceos-to-discuss-ai-with-biden-administration-today/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/openai-microsoft-and-alphabet-ceos-to-discuss-ai-with-biden-administration-today/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 98
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/3995490273681a1e4a741db83b12e7d8110f15c4/2023/05/04/9475ccf7-8940-41af-9e1e-9006d4e4f542/ai-whitehouse.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "White House Presses Tech CEOs on Dangers of AI"
     excerpt: "Vice President Kamala Harris on Thursday met with the CEOs of several tech firms to discuss the risks associated with artificial intelligence as the White House announced a series of initiatives aimed at addressing those challenges."
     publishedDateTime: 2023-05-04T23:25:00Z
@@ -76,20 +60,6 @@ related:
       - url: "https://www.cnet.com/a/img/resize/1634a5d8b41d52b7d0986d9927a91ccf3a6f2a58/hub/2023/05/04/a4dcd50c-2635-4868-b9c0-cd84de750cb2/gettyimages-1485763663.jpg?auto=webp&fit=crop&height=630&width=1200"
         width: 1200
         height: 630
-        isCached: true
-  - title: "The White House Starts to Address AI Risks with New Initiatives"
-    excerpt: "Executives from Alphabet, Microsoft, OpenAI, and Anthropic will also meet with the Vice President today to discuss the new AI efforts."
-    publishedDateTime: 2023-05-04T15:20:00Z
-    webUrl: "https://gizmodo.com/white-house-announce-ai-initiative-openai-microsoft-1850403559"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 67
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/5928f9af47719ca2a1aa839eff736ba9.jpg"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Biden Administration Warns of AI’s Dangers. There’s a Limit to What White House Can Do."
     excerpt: "The Biden administration is confronting the rapidly expanding use of artificial intelligence, warning of the dangers the technology poses to public safety, privacy and democracy while having limited authority to regulate it."

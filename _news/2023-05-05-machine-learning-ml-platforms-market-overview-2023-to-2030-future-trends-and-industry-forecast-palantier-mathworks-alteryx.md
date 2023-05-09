@@ -43,6 +43,71 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Data Science and Machine-Learning Platforms Market Revenue, Growth Opportunities and Forecast to 2031"
+    excerpt: "Our report on the Data Science and Machine-Learning Platforms Market provides in-depth analysis on the current state of"
+    publishedDateTime: 2023-05-08T08:44:00Z
+    webUrl: "https://www.marketwatch.com/press-release/data-science-and-machine-learning-platforms-market-revenue-growth-opportunities-and-forecast-to-2031-2023-05-08"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 39
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "New Report Predicts Significant Growth in Data Science and Machine-Learning Platforms Market to 2023"
+    excerpt: "Data Science and Machine-Learning Platforms Market Size 2023 | New Report (127 Pages) | Analytics | In This Reports"
+    publishedDateTime: 2023-05-09T06:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/new-report-predicts-significant-growth-in-data-science-and-machine-learning-platforms-market-to-2023-2023-05-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 39
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "2023 \"Data Science and Machine-Learning Platforms Market\" Modern Trends and Future Growth Insights 2030 | 122 Pages Report"
+    excerpt: "Global \"Data Science and Machine-Learning Platforms Market\" research report provides Innovative Insights on the Strategies adopted by Major Global Players [Domino Data Lab, Dataiku, Lexalytics, TIBCO Software,"
+    publishedDateTime: 2023-05-05T16:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-data-science-and-machine-learning-platforms-market-modern-trends-and-future-growth-insights-2030-122-pages-report-2023-05-05"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 28
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global \"Speech and Voice Recognition Technology Market\" 2023 (Latest Report) Becoming the Top Industry Player by 2030 | 116 Pages Report"
+    excerpt: "The Speech and Voice Recognition Technology Market Scope and Overview Report for 2023 presents a detailed analysis of"
+    publishedDateTime: 2023-05-08T06:38:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-speech-and-voice-recognition-technology-market-2023-latest-report-becoming-the-top-industry-player-by-2030-116-pages-report-2023-05-08"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 21
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "2023-2029 Biometric Voice Recognition Market Sale, Growing Opportunities and Countries Analysis| Report Reviewed by Experts"
+    excerpt: "The global \"Biometric Voice Recognition Market\" research report for 2023 provides a comprehensive analysis of the industry. It includes an in-depth segmentation based on regional factors, product types, applications, and key manufacturers. The report ..."
+    publishedDateTime: 2023-05-04T17:59:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-2029-biometric-voice-recognition-market-sale-growing-opportunities-and-countries-analysis-report-reviewed-by-experts-2023-05-04"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 8
 
 secured: "Am85eK64YcktGEdYgIHenGivnfcTHcYOOOTRDp526GGGlOvcnXc6THRMbDCZdoVbMJMJKRVl0jO+Na1+xFjoBS3iJyNSL1iODVcLeei18ZQJHUcHNbyeaC2k3ijgOFTQFahnA8NwaTyFDGyC+6ghfaQ/8RRwORwTdOBidnMIVhA/umPqY9x+e2OWhwzYXnsrM+rSW3cX9qiozqDgLbO/+HCstwPT08pKhQCDyx9Hw7AzvqsST5oK35DbCCC6+tE4RrkA66NOg9VQ6hIyjQdkdpVKkPToWHd9HoYGqHNT4vCKxi81NSJYIib5yG0aRNBycC6E9HvxHaZ+uZRqKi9iPeScRfKVGIacpITx7+U3j5Y=;IwvTb6UFOYxen6kUlkmd2w=="
 ---

@@ -29,125 +29,44 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence in Healthcare Market Forecast to 2031"
-    excerpt: "This \"Artificial Intelligence in Healthcare Market\" report offers a thorough analysis of the industry, including"
-    publishedDateTime: 2023-05-04T15:50:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-forecast-to-2031-2023-05-04"
+  - title: "Data science and AI: How it is changing the game for fintechs in India"
+    excerpt: "The financial sector in India has always embraced cutting-edge technologies, and as a result, it has been undergoing transformations. The emergence of FinTech companies in India has disrupted the financial sector and it is now amongst the fastest growing Fintech markets in the world."
+    publishedDateTime: 2023-05-06T05:45:00Z
+    webUrl: "https://www.financialexpress.com/business/blockchain-data-science-and-ai-how-it-is-changing-the-game-for-fintechs-in-india-3075675/"
+    ampWebUrl: "https://www.financialexpress.com/business/blockchain-data-science-and-ai-how-it-is-changing-the-game-for-fintechs-in-india-3075675/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/blockchain-data-science-and-ai-how-it-is-changing-the-game-for-fintechs-in-india-3075675/lite/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 84
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 59
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://www.financialexpress.com/wp-content/uploads/2023/05/Add-a-little-bit-of-body-text-15.jpg"
         width: 1200
-        height: 630
+        height: 675
         isCached: true
-  - title: "AI In Computer Vision Market: Recent Growing Trend 2030"
-    excerpt: "Newest Report will contain the Competitional Analysis of Top 5 Key Plyers (Qualcomm Technologies, Inc., Google LLC,"
-    publishedDateTime: 2023-05-05T05:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-recent-growing-trend-2030-2023-05-05"
+  - title: "Artificial Intelligence: Fintech Trovata Launches Generative AI Finance, Treasury Tool"
+    excerpt: "Trovata, which claims to be the global \"leader\" in bank APIs, recently announced the first generative AI entrant in the fintech space."
+    publishedDateTime: 2023-05-05T18:52:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/05/206646-artificial-intelligence-fintech-trovata-launches-generative-ai-finance-treasury-tool/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 84
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Healthcare Natural Language Processing Market 2023 Insight and Global Trends"
-    excerpt: "The Healthcare Natural Language Processing Market Scope and Overview Report for 2023 presents a detailed analysis of"
-    publishedDateTime: 2023-05-05T07:28:00Z
-    webUrl: "https://www.marketwatch.com/press-release/healthcare-natural-language-processing-market-2023-insight-and-global-trends-2023-05-05"
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 41
+  - title: "How Artificial Intelligence is Revolutionising the Fintech Landscape?"
+    excerpt: "According to surveys, 2/3 of FinTech companies currently use AI technology in their activities to a greater or lesser extent. Its influence will increase. Last year, the worldwide market for AI solutions in the FinTech industry was assessed at roughly 9 billion USD;"
+    publishedDateTime: 2023-05-08T17:05:00Z
+    webUrl: "https://www.baltictimes.com/how_artificial_intelligence_is_revolutionising_the_fintech_landscape_/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 83
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence for Healthcare Applications Market 2023 | Increasing Number of Users by 2030"
-    excerpt: "The Artificial Intelligence for Healthcare Applications Market Scope and Overview Report for 2023 presents a detailed analysis of the latest trends in the global Artificial Intelligence for Healthcare Applications market."
-    publishedDateTime: 2023-05-08T06:38:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-for-healthcare-applications-market-2023-increasing-number-of-users-by-2030-2023-05-08"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Healthcare Natural Language Processing Market Forecast to 2031"
-    excerpt: "The Healthcare Natural Language Processing Market Report [101] offers statistical analyses on market growth prospects and in-depth information on the leading manufacturers - SAS I"
-    publishedDateTime: 2023-05-05T01:14:00Z
-    webUrl: "https://www.marketwatch.com/press-release/healthcare-natural-language-processing-market-forecast-to-2031-2023-05-04"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 66
-  - title: "Natural Language Processing in Healthcare Market | Worldwide Industry Trends 2023-2030"
-    excerpt: "Get a Sample Copy of the Natural Language Processing in Healthcare Market Report Geographically, a well-developed infrastructure of the global Natural Language Processing in Healthcare Market, its awareness,"
-    publishedDateTime: 2023-05-05T09:39:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-in-healthcare-market-worldwide-industry-trends-2023-2030-2023-05-05"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 58
-  - title: "Data Science and Machine-Learning Platforms Market Revenue, Growth Opportunities and Forecast to 2031"
-    excerpt: "Our report on the Data Science and Machine-Learning Platforms Market provides in-depth analysis on the current state of"
-    publishedDateTime: 2023-05-08T08:44:00Z
-    webUrl: "https://www.marketwatch.com/press-release/data-science-and-machine-learning-platforms-market-revenue-growth-opportunities-and-forecast-to-2031-2023-05-08"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
+      name: The Baltic Times
+      domain: baltictimes.com
     quality: 39
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Healthcare Cognitive Computing Market Analysis, Share, Revenue, Growth Rate With Forecast Overview Till 2030"
-    excerpt: "Further, for the in-depth analysis, the report encompasses the industry growth indicators, restraints, supply and demand risk, along with detailed discussion on current and future market trends that are associated with the growth of the market."
-    publishedDateTime: 2023-05-08T01:08:00Z
-    webUrl: "https://www.marketwatch.com/press-release/healthcare-cognitive-computing-market-analysis-share-revenue-growth-rate-with-forecast-overview-till-2030-2023-05-07"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 32
-  - title: "3D Facial Recognition Market Top Players, Revenue, Share, Future Trends, Size, Report and Forecast 2023 to 2031"
-    excerpt: "Moreover, it has benefits over 2D facial recognition, such as ease in the detection of facial data from videos and 2D images and least affected with illumination issues. With the advancements in 3D facial recognition software and services,"
-    publishedDateTime: 2023-05-08T07:48:00Z
-    webUrl: "https://www.marketwatch.com/press-release/3d-facial-recognition-market-top-players-revenue-share-future-trends-size-report-and-forecast-2023-to-2031-2023-05-08"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 29
-  - title: "Passenger Vehicle Voice Recognition Market Trends and Forecast: Analyzing Growth Potential with CAGR forecasted 10.9% during 2023-2030"
-    excerpt: "Passenger Vehicle Voice Recognition market outlook (2023-2030) provides a thorough analysis of the market's current state, including factors such as market size, growth rate, segmentation, and key players."
-    publishedDateTime: 2023-05-04T23:42:00Z
-    webUrl: "https://www.marketwatch.com/press-release/passenger-vehicle-voice-recognition-market-trends-and-forecast-analyzing-growth-potential-with-cagr-forecasted-109-during-2023-2030-2023-05-04"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 22
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://media.baltictimes.com/media/photos/157961_66405011364592af6ddd73_big.jpg"
+        width: 855
+        height: 570
         isCached: true
 
 secured: "lIlPgf03VdJKU2W5LMaU2aibmJjXFiIoDEW+FtonjlI7z+mzG268Kvejg8CMN0or5FSjR7/VYvz96vp5ZbwF+WNlldzO3qDBu6iqN+q6WTZBJ7NWleYZCKG+c+S7Qjai9IaTmDZ2eva1gunr9F2Su48/oFbrQ5sr3iHWak+nSawNIxiAnentOXvSmkf1TRBBPnTC5PmfrU9S+SGBxeac9lMiIynZC1gDr2yr+AYmgvMEdIhHqIjq9UbbGX8AEEZtdkuCBSP61IBvy7OE49oxeslvlOr8k0lifNxhbrGjv03Hte6HRIODq6ggpihdcuraXW6IvdCJL5LNTdRUz4ca45W+Z4ZZn2n+USAGX/MvRDA=;DRsh4Ne1SVeeYzZ91iglsg=="

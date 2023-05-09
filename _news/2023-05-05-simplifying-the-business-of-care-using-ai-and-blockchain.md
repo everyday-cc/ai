@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbooksauthors/2023/05/05/simplifyi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbooksauthors/2023/05/05/simplifying-the-business-of-care-using-ai-and-blockchain/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "The AI boom is reshaping the cloud business"
+    excerpt: "To support generative AI models, AWS, Microsoft and Google Cloud are investing in infrastructure and maneuvering to manage cost."
+    publishedDateTime: 2023-05-08T21:01:00Z
+    webUrl: "https://www.ciodive.com/news/AWS-Microsoft-Google-cloud-infrastructure-AI-ML-compute/649712/"
+    type: article
+    provider:
+      name: CIO Dive
+      domain: ciodive.com
+    quality: 41
+    images:
+      - url: "https://www.ciodive.com/imgproxy/ArdjKqH_M6Qda4q_61cVhQAyFro4BqPoZNqLfAFdujU/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTgwMjMyMDgzNl9yV0VrMjI5LmpwZw.jpg"
+        width: 770
+        height: 435
+        isCached: true
 
 secured: "+jOen7xH0orF7jUoOX4yl9ygg9XpyJ6zM0yOscovRvcaOrxBUafQEoT4Dy2uJ7fKworq+piDX04wWOvKEU+x9Zto5E9naIQp+197PR/tCEo7/EVW6/3Gqyzc+tsggsGTTDOvX8OAMhwfKJhY/4IAOdruU7SLdqgRxI+jSVx5n0FeDNJhKSUm/XURNas2DEvbfSY0Y+a3veDj/fTAiGfjs/5WaFhn/+KXfv6MTVVHMTgA9B22WkesNyj+PAi36neRXD0ukCb0YIJHxszap+Y5hLDaefAkDROIJQIhSTRLj98nne63gCjlf05rAmjhahqdxusLqD1QLbeZU+4DUSXcTWtoggc5O0U/fZjuKcqG/fI=;YteolwisA6RAcC/BBK/IZQ=="
 ---

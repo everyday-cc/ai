@@ -9,7 +9,7 @@ ampWebUrl: "https://www.moneycontrol.com/news/world/singapore-wealth-fund-sees-m
 cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/world/singapore-wealth-fund-sees-more-growth-in-fintech-after-downturn-10552041.html/amp"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -27,17 +27,20 @@ images:
     isCached: true
 
 related:
-  - title: "Fintech firm Fundly.ai bags $3 million in seed funding"
-    excerpt: "Mumbai-based fintech startup Fundly.ai on Sunday said it has raised $3 million in a seed funding round, led by Accel. Other investors in the round included Multiply Ventures and other angel investors."
-    publishedDateTime: 2023-05-08T07:26:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/funding/fintech-firm-fundly-ai-bags-3-million-in-seed/articleshow/100057182.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/funding/fintech-firm-fundly-ai-bags-3-million-in-seed/amp_articleshow/100057182.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/funding/fintech-firm-fundly-ai-bags-3-million-in-seed/amp_articleshow/100057182.cms"
+  - title: "How Singapore's giant sovereign wealth fund is investing in generative AI technology"
+    excerpt: "GIC manages hundreds of billions of dollars in assets. It's invested in tech for decades and is unfazed by last year's tech stock rout."
+    publishedDateTime: 2023-05-09T09:00:00Z
+    webUrl: "https://www.businessinsider.com/singapore-sovereign-wealth-fund-investing-in-generative-ai-gic-2023-5"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 39
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 60
+    images:
+      - url: "https://i.insider.com/6459be0f65a21600192fb67c?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "UMCpInTyBGHxfQaF3NhMk7JpgqotZEvOBvZT3GFAPkdtF06t8vn+EZehcm2VaMSmZx0t2bITbYFqmO+ibOH1wbFDZM9Rhd5cUZ0lx3gB3aiAlZmo8UQfB+30SIIMvXyCXLFDrI8TFRTXsfkVeaHbKOULsRcCjsEBONRgdd+M9otf6hoFJGK1W28ucVjN0yIvGVobHaiXl2OKkAOksKGCC6NJbtUnY1MpBty6FBy4GuURrwYNiiXODci6AtzG8cUKVFyakaqECXIiu/cIe4Pl4DqaILpghhAR5sr7ZkJx8623vQaEV1nAcAqRZGsUmmGNTrTFmeOxTKZ1a8J7kUu/GaGGDZ4hS999gDI+aM4Fuhw=;ZbrSRNWzxw0ERw+3ty6x7A=="
 ---

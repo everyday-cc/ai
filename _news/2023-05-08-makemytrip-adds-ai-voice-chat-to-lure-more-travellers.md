@@ -89,6 +89,22 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "MakeMyTrip collaborates with Microsoft to reshape the travel booking landscape with generative AI"
+    excerpt: "In a landmark move, MakeMyTrip has collaborated with Microsoft to make travel planning more inclusive and accessible."
+    publishedDateTime: 2023-05-09T08:01:00Z
+    webUrl: "https://www.traveldailymedia.com/makemytrip-collaborates-with-microsoft-to-reshape-the-travel-booking-landscape-with-generative-ai/"
+    ampWebUrl: "https://www.traveldailymedia.com/makemytrip-collaborates-with-microsoft-to-reshape-the-travel-booking-landscape-with-generative-ai/amp/"
+    cdnAmpWebUrl: "https://www-traveldailymedia-com.cdn.ampproject.org/c/s/www.traveldailymedia.com/makemytrip-collaborates-with-microsoft-to-reshape-the-travel-booking-landscape-with-generative-ai/amp/"
+    type: article
+    provider:
+      name: Travel Daily Media
+      domain: traveldailymedia.com
+    quality: 61
+    images:
+      - url: "https://www.traveldailymedia.com/assets/2023/05/shutterstock_2130878285.jpg"
+        width: 1000
+        height: 667
+        isCached: true
   - title: "MakeMyTrip ties up with Microsoft for voice-assisted bookings in Indian languages"
     excerpt: "Initially, a select group of MakeMyTrip users will have access to the voice-assisted feature in English and Hindi."
     publishedDateTime: 2023-05-08T09:55:00Z

@@ -55,20 +55,6 @@ related:
         width: 1500
         height: 844
         isCached: true
-  - title: "Gartner: ChatGPT has prompted increase in AI investments"
-    excerpt: "A Gartner poll shows that 45% reported that the publicity of ChatGPT has prompted them to increase AI investments."
-    publishedDateTime: 2023-05-07T23:30:00Z
-    webUrl: "https://techwireasia.com/2023/05/gartner-chatgpt-has-prompted-increase-in-ai-investments/"
-    type: article
-    provider:
-      name: techwireasia.com
-      domain: techwireasia.com
-    quality: 39
-    images:
-      - url: "https://cdn.techwireasia.com/wp-content/uploads/2023/05/shutterstock_2261871805-897x500.jpg"
-        width: 897
-        height: 500
-        isCached: true
   - title: "Could AI pen ‘Casablanca’? Screenwriters take aim at ChatGPT"
     excerpt: "Not six months since the release of ChatGPT, generative artificial intelligence is already prompting widespread unease throughout Hollywood."
     publishedDateTime: 2023-05-05T13:45:00Z
@@ -108,15 +94,6 @@ related:
         width: 2048
         height: 1365
         isCached: true
-  - title: "In 30 secs, ChatGPT produces 643 words on India and AI; Edge manages just 143"
-    excerpt: "In the IANS New York office, we have been experimenting with chatbots and one of the tasks we set for the two as a test was to \"write a report"
-    publishedDateTime: 2023-05-08T12:55:00Z
-    webUrl: "https://glamsham.com/world/health-lifestyle/in-30-secs-chatgpt-produces-643-words-on-india-and-ai-edge-manages-just-143"
-    type: article
-    provider:
-      name: glamsham.com
-      domain: glamsham.com
-    quality: 16
 
 secured: "uOPG+QX/DtpuhDv7w/OL1PqStfsIGHEi1733SDnZlGnX1OwNLNS4HsbEIfRPBXQIWo3b/nzowD9OGaXYuIwZwogMNkFxQVqJrXCXJRrYjVK95alzEuW8SzUmHI8pK5r9mKzwEGwTheRqgSySEzcSuv1NOcVabUYo8eUynsWQx7O+GUbT1L8rcQlyvmSItb4zUaFI7pQf2k8CFzEvCXyw41oL6nSNEkkbKRHHEIf1/vtG+8uq2cQkWjtZ2TEidITm93523Cl418h3a77eFk7UPYxD4cIf9g63DGcTIUbKJ21qUunpIIzw7v+3YDpx0B+FaAXLleWmGYDN/U5Iy94G/RBGxtYCaNVbthqFKpYRNpU=;2zFbRichHLqJVfc612bMng=="
 ---

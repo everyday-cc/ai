@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Critics pan planned police use of facial recognition during King Charles’ coronation"
-    excerpt: "Police in London are deploying live facial recognition to watch over protestors and other attendees of the upcoming coronation of King Charles III."
-    publishedDateTime: 2023-05-04T15:26:00Z
-    webUrl: "https://www.biometricupdate.com/202305/critics-pan-planned-police-use-of-facial-recognition-during-king-charles-coronation"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 32
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/01/04144353/public-facial-recognition-scaled.jpg"
-        width: 2048
-        height: 1152
-        isCached: true
   - title: "Protesters eye Coronation of King Charles III — and facial recognition eyes them"
     excerpt: "It’s apparent that a coronation is ripe territory for the convergence of righteous convictions, from the progressive to the fanatical, writes."
     publishedDateTime: 2023-05-05T09:00:00Z

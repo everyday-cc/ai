@@ -9,8 +9,8 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/chatgpt-and-the-new-ai-are-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/chatgpt-and-the-new-ai-are-wreaking-havoc-on-cybersecurity/"
 type: article
 quality: 77
-heat: 87
-published: true
+heat: -1
+published: false
 
 provider:
   name: ZDNet
@@ -30,20 +30,107 @@ images:
     isCached: true
 
 related:
-  - title: "IEEE Computer Society Emerging Technology Fund Recipient Introduces Machine Learning Cybersecurity Benchmarks"
-    excerpt: "Presentation at The Eleventh International Conference on Learning Representations (ICLR) debuts new findings for end-to-end neural network Trojan"
-    publishedDateTime: 2023-05-05T21:17:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ieee-computer-society-emerging-technology-fund-recipient-introduces-machine-learning-cybersecurity-benchmarks-1032298575"
+  - title: "ChatGPT and Generative AI in Payments: Reality, Hype, What's Next, and How to Prepare"
+    excerpt: "ChatGPT is the most talked-about technology of 2023 and has caught the attention of payments services providers."
+    publishedDateTime: 2023-05-05T18:00:00Z
+    webUrl: "https://www.businessinsider.com/chatgpt-and-generative-ai-in-payments-hype-how-to-prepare-2023-may"
+    ampWebUrl: "https://www.businessinsider.com/chatgpt-and-generative-ai-in-payments-hype-how-to-prepare-2023-may?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-and-generative-ai-in-payments-hype-how-to-prepare-2023-may?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 50
+    quality: 80
     images:
-      - url: "https://mma.prnewswire.com/media/2070851/IEEEComputerSociety_Cybersecurity.jpg"
-        width: 400
-        height: 400
+      - url: "https://i.insider.com/64414647632fda001803ccf4?width=1200&format=jpeg"
+        width: 1200
+        height: 900
         isCached: true
+  - title: "ChatGPT and Generative AI Around the World: Maturity, Opportunities, and Hurdles in Key Regions"
+    excerpt: "ChatGPT has received a lot of press since its November 2022 launch. But while interest in the tool is high, its use is not yet universal."
+    publishedDateTime: 2023-05-05T17:00:00Z
+    webUrl: "https://www.businessinsider.com/chatgpt-and-generative-ai-around-the-world-opportunities-key-hurdles-2023-may"
+    ampWebUrl: "https://www.businessinsider.com/chatgpt-and-generative-ai-around-the-world-opportunities-key-hurdles-2023-may?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-and-generative-ai-around-the-world-opportunities-key-hurdles-2023-may?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 75
+    images:
+      - url: "https://i.insider.com/6441b16a3f6f690018debe44?width=1200&format=jpeg"
+        width: 1200
+        height: 900
+        isCached: true
+  - title: "Screenwriters take aim at artificial intelligence, ChatGPT"
+    excerpt: "Not six months since the release of ChatGPT, generative artificial intelligence is already prompting widespread unease throughout Hollywood. Concern over chatbots writing or rewriting scripts is one of the reasons TV and film screenwriters took to picket lines earlier this week."
+    publishedDateTime: 2023-05-05T01:45:00Z
+    webUrl: "https://www.usatoday.com/videos/entertainment/2023/05/05/screenwriters-take-aim-artificial-intelligence-chatgpt/11799655002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 52
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/04465331-5204-49cb-8f02-71d5ec64e61c_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Forget ChatGPT. These Are the Best AI-Powered Apps."
+    excerpt: "Chat features built into Duolingo, Expedia and others can be more useful than ask-me-anything bots."
+    publishedDateTime: 2023-05-07T12:00:00Z
+    webUrl: "https://www.wsj.com/articles/forget-chatgpt-these-are-the-best-ai-powered-apps-d927d0bf"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 47
+  - title: "Gartner: ChatGPT has prompted increase in AI investments"
+    excerpt: "A Gartner poll shows that 45% reported that the publicity of ChatGPT has prompted them to increase AI investments."
+    publishedDateTime: 2023-05-07T23:30:00Z
+    webUrl: "https://techwireasia.com/2023/05/gartner-chatgpt-has-prompted-increase-in-ai-investments/"
+    type: article
+    provider:
+      name: techwireasia.com
+      domain: techwireasia.com
+    quality: 39
+    images:
+      - url: "https://cdn.techwireasia.com/wp-content/uploads/2023/05/shutterstock_2261871805-897x500.jpg"
+        width: 897
+        height: 500
+        isCached: true
+  - title: "I asked AI bot ChatGPT to write a column on happiness. Here’s what happened next"
+    excerpt: "I had to find out for myself. So I conducted a little experiment. I asked ChatGPT to write an article for me. I submitted the prompt, “Write a 500-word column on happiness.” That’s a broad, overworked topic,"
+    publishedDateTime: 2023-05-08T21:21:00Z
+    webUrl: "https://www.aol.com/news/asked-ai-bot-chatgpt-write-180244290.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 32
+    images:
+      - url: "https://media.zenfs.com/en/aol_san_luis_obispo_tribune_mcclatchy_563/9121ec7733a744f8785aa5baaae9181f"
+        width: 1140
+        height: 759
+        isCached: true
+  - title: "ChatGPT May Have a Big Role in Healthcare"
+    excerpt: "If the results of a recent study are any indication, ChatGPT may soon be professionally responding to patients’ written health-related questions. Virtual healthcare drastically expanded during t"
+    publishedDateTime: 2023-05-09T05:00:00Z
+    webUrl: "https://www.realclearscience.com/articles/2023/05/09/chatgpt_may_have_a_big_role_in_healthcare_898337.html"
+    type: article
+    provider:
+      name: RealClearScience
+      domain: realclearscience.com
+    quality: 19
+  - title: "In 30 secs, ChatGPT produces 643 words on India and AI; Edge manages just 143"
+    excerpt: "In the IANS New York office, we have been experimenting with chatbots and one of the tasks we set for the two as a test was to \"write a report"
+    publishedDateTime: 2023-05-08T12:55:00Z
+    webUrl: "https://glamsham.com/world/health-lifestyle/in-30-secs-chatgpt-produces-643-words-on-india-and-ai-edge-manages-just-143"
+    type: article
+    provider:
+      name: glamsham.com
+      domain: glamsham.com
+    quality: 16
 
 secured: "ZkcSFZVFRdm1FjC6OvcuXRBx6MBcTos/OXkD2RV7NU1aQyPpxG1lI7HS6X58q8q3K1dpjsxsuuECwgyTQYpMLb1ClM/1411b2UtFN4+RBHUGssBs7PfBPfJH9C6hnu5aix36SSP/OyxnBAzRhL73hs107EAs1gNM6E8WDibnxb0u0oZYZWhyJVGI44XrSuXKKwQhnC5pld1GdOt7nf0fDVy9MXdPvq50ab85NS088FpWsqmhFDf20XvqhTw3d+l64i2Z3T5OWZhyYFgbnHY2+51N3ZDCTbgoW78FRCu9fMCQOU6Lq6igi7/0cPCpFkRYVP87gmaznWCSlpokxKtt7ZdRILWPZjJsMz6Wd56bwn6aw+Joer1yUuwpS51exjJHbBNqwG7S99OALu+a0cBdPUjsEddH9xXGvL6xLloLsleykqyVzqkGmOlpQbnQiUm24Wv7yEL3wiJlI040Icf69ih6kxFwjrwwhpV4xFrPXBLh3qZ2Y+RHiLkRGBcrh4qrQZUqu3QwGLTNlJG+RwB+0g==;abq/vhcso2eOVFYuHZwkOw=="
 ---

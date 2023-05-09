@@ -84,22 +84,6 @@ related:
         width: 1200
         height: 667
         isCached: true
-  - title: "US announces measures to address risk of artificial intelligence arms race"
-    excerpt: "White House said it would invest $140m in pursuit of AI advances that are ‘ethical, trustworthy, responsible, and serve the public good’"
-    publishedDateTime: 2023-05-04T15:52:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/may/04/us-announces-measures-to-address-risk-of-artificial-intelligence-arms-race"
-    ampWebUrl: "https://amp.theguardian.com/technology/2023/may/04/us-announces-measures-to-address-risk-of-artificial-intelligence-arms-race"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/may/04/us-announces-measures-to-address-risk-of-artificial-intelligence-arms-race"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 55
-    images:
-      - url: "https://i.guim.co.uk/img/media/f7eb9b7ae2efb54e5f8ccbce13aed19e3f76803e/0_0_6431_3861/master/6431.jpg?width=620&quality=85&auto=format&fit=max&s=ad8bac99eb3bf3d060964213513541f7"
-        width: 620
-        height: 372
-        isCached: true
   - title: "Generative AI in factory automation and the edge"
     excerpt: "Siemens and Microsoft: generative AI in factory automation and at the edge In factory automation Siemens and Microsoft recently demonstrated how with the combination of Microsoft Azure machine learning and Siemens’ industrial edge, images captured by ..."
     publishedDateTime: 2023-05-05T18:09:00Z

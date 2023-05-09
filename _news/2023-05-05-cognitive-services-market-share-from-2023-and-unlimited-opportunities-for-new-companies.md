@@ -29,164 +29,52 @@ images:
     isCached: true
 
 related:
-  - title: "AI Marketing Market Future Growth and Business Opportunities 2023 | Updated Report"
-    excerpt: "AI Marketing Market Size 2023 | New Report (124 Pages) | Analytics | In This Reports AI Marketing Market Top AI"
-    publishedDateTime: 2023-05-05T05:52:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-marketing-market-future-growth-and-business-opportunities-2023-updated-report-2023-05-05"
+  - title: "Warehouse Robotics Market Share, Size, Financial Summaries Analysis from 2023 to 2028"
+    excerpt: "Warehouse Robotics report provides a detailed analysis of regional and country-level market size, segmentation market growth, market share, competitive Landscape, sales analysis, impact of domestic. The warehouse robotics market has been witnessing significant growth in recent years."
+    publishedDateTime: 2023-05-08T09:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/warehouse-robotics-market-share-size-financial-summaries-analysis-from-2023-to-2028-2023-05-08"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 80
+    quality: 77
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence and Cognitive Computing Market"
-    excerpt: "Research Reports has published a new report titled as \"Artificial Intelligence and Cognitive Computing Market\" by"
-    publishedDateTime: 2023-05-09T01:17:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-and-cognitive-computing-market-2023-05-08"
+  - title: "Face Recognition Software Market 2023 with Regional Segmentations Forecast till 2030"
+    excerpt: "The Global \"Face Recognition Software Market\" report analyzes crucial growth factors, key strategies employed by"
+    publishedDateTime: 2023-05-08T09:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-software-market-2023-with-regional-segmentations-forecast-till-2030-2023-05-08"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 67
+    quality: 62
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Data and AI Ethics Market Predicted to Experience Growth Globally by 2030"
-    excerpt: "The Data and AI Ethics Market Scope and Overview Report for 2023 presents a detailed analysis of the latest trends in"
-    publishedDateTime: 2023-05-05T07:28:00Z
-    webUrl: "https://www.marketwatch.com/press-release/data-and-ai-ethics-market-predicted-to-experience-growth-globally-by-2030-2023-05-05"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 63
-  - title: "Cloud Natural Language Processing Market Technology advancement and Latest Research Report 2023"
-    excerpt: "Cloud Natural Language Processing Market Size 2023 | New Report (105 Pages) | Analytics | In This Reports Cloud"
-    publishedDateTime: 2023-05-05T04:46:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cloud-natural-language-processing-market-technology-advancement-and-latest-research-report-2023-2023-05-05"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 57
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Machine Learning Courses Market 2023, Top Factors that Will Boost the Machine Learning Courses Market"
-    excerpt: "Machine Learning Courses Market Size 2023 | New Report (125 Pages) | Analytics | In This Reports Machine Learning"
-    publishedDateTime: 2023-05-05T04:21:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-courses-market-2023-top-factors-that-will-boost-the-machine-learning-courses-market-2023-05-05"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 56
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence (AI) Chip Market To Generate $263.6 Billion Revenue By 2031 | Key Trends And Opportunities"
-    excerpt: "Artificial Intelligence Chip Market by Chip Type PORTLAND, OR, UNITED STATES, May 8, 2023 /einpresswire.com / -- According to the report"
-    publishedDateTime: 2023-05-08T04:18:00Z
-    webUrl: "https://menafn.com/1106194639/Artificial-Intelligence-AI-Chip-Market-To-Generate-2636-Billion-Revenue-By-2031-Key-Trends-And-Opportunities"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 51
-    images:
-      - url: "https://menafn.com/updates/pr/2023-05/08/EP_14e92image_story.png"
-        width: 898
-        height: 470
-        isCached: true
-  - title: "Chatbot Market Growth, Opportunities, and Recent Trends | Covered by Acumen Research and Consulting"
-    excerpt: "The Chatbot Market Size in 2021 was USD 521 Million, Market Value set to reach USD 3,411 Million at 23.7% CAGR by"
-    publishedDateTime: 2023-05-08T12:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/chatbot-market-growth-opportunities-and-recent-trends-covered-by-acumen-research-and-consulting-2023-05-08"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 40
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "2023 \"Data Science and Machine-Learning Platforms Market\" Modern Trends and Future Growth Insights 2030 | 122 Pages Report"
-    excerpt: "Global \"Data Science and Machine-Learning Platforms Market\" research report provides Innovative Insights on the Strategies adopted by Major Global Players [Domino Data Lab, Dataiku, Lexalytics, TIBCO Software,"
-    publishedDateTime: 2023-05-05T16:47:00Z
-    webUrl: "https://www.marketwatch.com/press-release/2023-data-science-and-machine-learning-platforms-market-modern-trends-and-future-growth-insights-2030-122-pages-report-2023-05-05"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 28
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Machine Learning As A Service Market Overview Highlighting Key Drivers And Growth Opportunities By 2030"
-    excerpt: "Machine learning as a Service Market Research Increase in adoption of cloud computing technology along with usage of social media platfor"
-    publishedDateTime: 2023-05-05T08:12:00Z
-    webUrl: "https://menafn.com/1106183716/Machine-Learning-As-A-Service-Market-Overview-Highlighting-Key-Drivers-And-Growth-Opportunities-By-2030"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 25
-    images:
-      - url: "https://menafn.com/updates/pr/2023-05/05/EP_aa8fdimage_story.png"
-        width: 898
-        height: 470
-        isCached: true
-  - title: "Global \"Speech and Voice Recognition Technology Market\" 2023 (Latest Report) Becoming the Top Industry Player by 2030 | 116 Pages Report"
-    excerpt: "The Speech and Voice Recognition Technology Market Scope and Overview Report for 2023 presents a detailed analysis of"
-    publishedDateTime: 2023-05-08T06:38:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-speech-and-voice-recognition-technology-market-2023-latest-report-becoming-the-top-industry-player-by-2030-116-pages-report-2023-05-08"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 21
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Chatbot Market worth $15.5 billion by 2028 - Exclusive Report by MarketsandMarkets™"
-    excerpt: "The market for Chatbot Market is estimated to grow from USD 5.4 billion in 2023 to USD 15.5 billion by 2028, at a CAGR of 23.3% during the forecast period, according to a new report by MarketsandMarkets™."
-    publishedDateTime: 2023-05-08T17:51:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-chatbot-market-worth-155-billion-2028-exclusive-report-/2023/05/08/9809532.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 18
-    images:
-      - url: "https://marketplace.connectwise.com/content/images/thumbs/0000635_skykick_550.png"
-        width: 550
-        height: 353
-        isCached: true
-  - title: "2023-2029 Biometric Voice Recognition Market Sale, Growing Opportunities and Countries Analysis| Report Reviewed by Experts"
-    excerpt: "The global \"Biometric Voice Recognition Market\" research report for 2023 provides a comprehensive analysis of the industry. It includes an in-depth segmentation based on regional factors, product types, applications, and key manufacturers. The report ..."
+  - title: "Educational Robots Market Size Share Volume Trends Demand Forecast Report 2022-2028"
+    excerpt: "These start-ups are raising significant investments ... Use of Robots for instructional functions Technological Advancement within the Field of AI The major restraining factors of Educational Robots Market are as follows: 5. Educational Robots Market ..."
     publishedDateTime: 2023-05-04T17:59:00Z
-    webUrl: "https://www.marketwatch.com/press-release/2023-2029-biometric-voice-recognition-market-sale-growing-opportunities-and-countries-analysis-report-reviewed-by-experts-2023-05-04"
+    webUrl: "https://www.marketwatch.com/press-release/educational-robots-market-size-share-volume-trends-demand-forecast-report-2022-2028-2023-05-04"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 8
+    quality: 43
+  - title: "3D Facial Recognition Market Top Players, Revenue, Share, Future Trends, Size, Report and Forecast 2023 to 2031"
+    excerpt: "Moreover, it has benefits over 2D facial recognition, such as ease in the detection of facial data from videos and 2D images and least affected with illumination issues. With the advancements in 3D facial recognition software and services,"
+    publishedDateTime: 2023-05-08T07:48:00Z
+    webUrl: "https://www.marketwatch.com/press-release/3d-facial-recognition-market-top-players-revenue-share-future-trends-size-report-and-forecast-2023-to-2031-2023-05-08"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 29
 
 secured: "33KXjiGscU5dZkqHk+j6ekvp8EKmFytCy1Xyq8wGCis/Hytp236yH3qfwlUOXy7QqJYuJ6oVWStcV3qQQoUwAVWhx2O5m3l7YQ921+ZtHmhHBId+HkJxOjI1ENxrKm8nlV+Az7wRtLzEg9huTrVCzJlKkyuQonEcOWJ1UqmCuKihv4GtzPSMXDltZwVKV0iLUIsDU2F68eGLWiCMsVtY4bOdzPJGd1bLvPkxx0ppxVD3QVFe0TEWzWm/IK0ai0zp7yYElVodh4vYNLBWsPhdggcgbWwiVeLBID8EUwq4RnA37shgtyhjvsaYndk0IUzb94AOBP7xMW2MXdgpaYsowjUirbSp0Zbm2r9i06rTqh8=;WDkULiO9KQBuvdysH+2LDg=="
 ---

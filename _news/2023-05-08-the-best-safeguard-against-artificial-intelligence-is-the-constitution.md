@@ -7,8 +7,8 @@ originalUrl: "https://newrepublic.com/article/172460/artificial-intelligence-nat
 webUrl: "https://newrepublic.com/article/172460/artificial-intelligence-national-security-constitution"
 type: article
 quality: 52
-heat: 72
-published: true
+heat: 62
+published: false
 
 provider:
   name: New Republic
@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "How Startups Can Help Protect Against AI-Based Threats"
-    excerpt: "The enterprise adoption of AI-based large language models has created a new attack surface for adversaries to exploit, said Thomvest Ventures principal Ashish"
-    publishedDateTime: 2023-05-04T15:31:00Z
-    webUrl: "https://www.govinfosecurity.com/how-startups-help-protect-against-ai-based-threats-a-21790"
-    type: article
-    provider:
-      name: HHS
-      domain: govinfosecurity.com
-    quality: 39
-    images:
-      - url: "https://130e178e8f8ba617604b-8aedd782b7d22cfe0d1146da69a52436.ssl.cf1.rackcdn.com/security-challenges-associated-large-language-models-showcase_image-9-a-21790.jpg"
-        width: 860
-        height: 520
-        isCached: true
   - title: "Tim Cook Just Was Asked About AI. His 3-Word Response Was the Best I've Heard Yet"
     excerpt: "On Apple's earnings call on Thursday, the company reported mixed results. The short version is that the world's largest company is doing fine. While revenue was down from the same period last year, the company managed to beat expectations largely due to better iPhone performance, and a record quarter for services revenue."
     publishedDateTime: 2023-05-06T07:28:00Z

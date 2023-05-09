@@ -19,50 +19,77 @@ topics:
   - AI
 
 related:
-  - title: "No Business Plan? No Problem. ChatGPT Spawns an Investor Gold Rush in AI"
-    excerpt: "It is boom times for startups touting generative artificial intelligence technology."
-    publishedDateTime: 2023-05-08T09:00:00Z
-    webUrl: "https://www.wsj.com/articles/no-business-plan-no-problem-chatgpt-spawns-an-investor-gold-rush-in-ai-6bdbed3c"
+  - title: "ChatGPT and Generative AI in Payments: Reality, Hype, What's Next, and How to Prepare"
+    excerpt: "ChatGPT is the most talked-about technology of 2023 and has caught the attention of payments services providers."
+    publishedDateTime: 2023-05-05T18:00:00Z
+    webUrl: "https://www.businessinsider.com/chatgpt-and-generative-ai-in-payments-hype-how-to-prepare-2023-may"
+    ampWebUrl: "https://www.businessinsider.com/chatgpt-and-generative-ai-in-payments-hype-how-to-prepare-2023-may?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-and-generative-ai-in-payments-hype-how-to-prepare-2023-may?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 80
+    images:
+      - url: "https://i.insider.com/64414647632fda001803ccf4?width=1200&format=jpeg"
+        width: 1200
+        height: 900
+        isCached: true
+  - title: "ChatGPT and the new AI are wreaking havoc on cybersecurity in exciting and frightening ways"
+    excerpt: "Unrestrained by ethics or law, cybercriminals are racing to use AI to find innovative new hacks, says Recorded Future CEO Christopher Ahlberg."
+    publishedDateTime: 2023-05-08T00:09:00Z
+    webUrl: "https://www.zdnet.com/article/chatgpt-and-the-new-ai-are-wreaking-havoc-on-cybersecurity/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/chatgpt-and-the-new-ai-are-wreaking-havoc-on-cybersecurity/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/chatgpt-and-the-new-ai-are-wreaking-havoc-on-cybersecurity/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 77
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/0f069f7582c82f625117f92909ccd4f7bb840cdf/2023/05/07/0c2625f3-8f61-483b-8cbb-b39dfadd09fe/alhberg-recorded-future.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "ChatGPT and Generative AI Around the World: Maturity, Opportunities, and Hurdles in Key Regions"
+    excerpt: "ChatGPT has received a lot of press since its November 2022 launch. But while interest in the tool is high, its use is not yet universal."
+    publishedDateTime: 2023-05-05T17:00:00Z
+    webUrl: "https://www.businessinsider.com/chatgpt-and-generative-ai-around-the-world-opportunities-key-hurdles-2023-may"
+    ampWebUrl: "https://www.businessinsider.com/chatgpt-and-generative-ai-around-the-world-opportunities-key-hurdles-2023-may?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-and-generative-ai-around-the-world-opportunities-key-hurdles-2023-may?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 75
+    images:
+      - url: "https://i.insider.com/6441b16a3f6f690018debe44?width=1200&format=jpeg"
+        width: 1200
+        height: 900
+        isCached: true
+  - title: "Screenwriters take aim at artificial intelligence, ChatGPT"
+    excerpt: "Not six months since the release of ChatGPT, generative artificial intelligence is already prompting widespread unease throughout Hollywood. Concern over chatbots writing or rewriting scripts is one of the reasons TV and film screenwriters took to picket lines earlier this week."
+    publishedDateTime: 2023-05-05T01:45:00Z
+    webUrl: "https://www.usatoday.com/videos/entertainment/2023/05/05/screenwriters-take-aim-artificial-intelligence-chatgpt/11799655002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 52
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/04465331-5204-49cb-8f02-71d5ec64e61c_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Forget ChatGPT. These Are the Best AI-Powered Apps."
+    excerpt: "Chat features built into Duolingo, Expedia and others can be more useful than ask-me-anything bots."
+    publishedDateTime: 2023-05-07T12:00:00Z
+    webUrl: "https://www.wsj.com/articles/forget-chatgpt-these-are-the-best-ai-powered-apps-d927d0bf"
     type: article
     provider:
       name: Wall Street Journal
       domain: wsj.com
-    quality: 66
-    images:
-      - url: "https://images.wsj.net/im-776000/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "AI startup Inflection Started by Hoffman and Suleyman, Introduces ChatGPT-like Chatbot"
-    excerpt: "An artificial intelligence startup Inflection AI, started by Reid Hoffman and Mustafa Suleyman, has launched its first AI chatbot product."
-    publishedDateTime: 2023-05-05T14:03:00Z
-    webUrl: "https://enterprisetalk.com/quick-bytes/ai-startup-inflection-started-by-hoffman-and-suleyman-introduces-chatgpt-like-chatbot/"
-    ampWebUrl: "https://enterprisetalk.com/quick-bytes/ai-startup-inflection-started-by-hoffman-and-suleyman-introduces-chatgpt-like-chatbot/amp/"
-    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/ai-startup-inflection-started-by-hoffman-and-suleyman-introduces-chatgpt-like-chatbot/amp/"
-    type: article
-    provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 49
-    images:
-      - url: "https://enterprisetalk.com/wp-content/uploads/2023/05/AI-startup-Inflection-Started-by-Hoffman-and-Suleyman-Introduces.jpg"
-        width: 1500
-        height: 844
-        isCached: true
-  - title: "How AI robots can affect Filipino domestic workers worldwide amid ChatGPT concerns"
-    excerpt: "The discussion of artificial intelligence and robots taking over human jobs has reached another point following a recent study revolving around unpaid domestic help."
-    publishedDateTime: 2023-05-09T07:30:00Z
-    webUrl: "https://www.philstar.com/lifestyle/on-the-radar/2023/05/09/2264997/how-ai-robots-can-affect-filipino-domestic-workers-worldwide-amid-chatgpt-concerns"
-    type: article
-    provider:
-      name: philstar.com
-      domain: philstar.com
-    quality: 48
-    images:
-      - url: "https://media.philstar.com/photos/2023/05/09/ofw2019-11-0921-24-08_2023-05-09_13-35-26.jpg"
-        width: 800
-        height: 494
-        isCached: true
+    quality: 47
   - title: "Gartner: ChatGPT has prompted increase in AI investments"
     excerpt: "A Gartner poll shows that 45% reported that the publicity of ChatGPT has prompted them to increase AI investments."
     publishedDateTime: 2023-05-07T23:30:00Z
@@ -77,45 +104,29 @@ related:
         width: 897
         height: 500
         isCached: true
-  - title: "Could AI pen ‘Casablanca’? Screenwriters take aim at ChatGPT"
-    excerpt: "Not six months since the release of ChatGPT, generative artificial intelligence is already prompting widespread unease throughout Hollywood."
-    publishedDateTime: 2023-05-05T13:45:00Z
-    webUrl: "https://www.seattletimes.com/business/could-ai-pen-casablanca-screenwriters-take-aim-at-chatgpt/"
-    ampWebUrl: "https://www.seattletimes.com/business/could-ai-pen-casablanca-screenwriters-take-aim-at-chatgpt/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/could-ai-pen-casablanca-screenwriters-take-aim-at-chatgpt/?amp=1"
+  - title: "I asked AI bot ChatGPT to write a column on happiness. Here’s what happened next"
+    excerpt: "I had to find out for myself. So I conducted a little experiment. I asked ChatGPT to write an article for me. I submitted the prompt, “Write a 500-word column on happiness.” That’s a broad, overworked topic,"
+    publishedDateTime: 2023-05-08T21:21:00Z
+    webUrl: "https://www.aol.com/news/asked-ai-bot-chatgpt-write-180244290.html"
     type: article
     provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 37
-  - title: "AI ChatGPT creates rap for Warriors vs. Lakers playoffs"
-    excerpt: "ChatGPT is what most people are either talking about most of these days or even experimenting with. The KPIX morning team tested the feature by getting AI to become a Warriors fan. (05/05/2023)"
-    publishedDateTime: 2023-05-05T19:42:00Z
-    webUrl: "https://www.cbsnews.com/sanfrancisco/video/ai-chatgpt-creates-rap-for-warriors-vs-lakers-playoffs/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 37
+      name: AOL
+      domain: aol.com
+    quality: 32
     images:
-      - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/05/05/5bbac4b0-a433-4855-bdf9-7b9c0bdeab1a/thumbnail/1200x630/fbafe097c79e45cf7a745903b439427a/df287121c4263b21552fa7ddab43f411.jpg"
-        width: 1200
-        height: 630
+      - url: "https://media.zenfs.com/en/aol_san_luis_obispo_tribune_mcclatchy_563/9121ec7733a744f8785aa5baaae9181f"
+        width: 1140
+        height: 759
         isCached: true
-  - title: "Could AI pen 'Casablanca'? Screenwriters take aim at ChatGPT"
-    excerpt: "When Greg Brockman, the president and co-founder of ChatGPT maker OpenAI, was recently extolling the capabilities of artificial intelligence, he turned to “Game of Thrones.” Imagine, he said, if you could use AI to rewrite the ending of that not-so-popular finale."
-    publishedDateTime: 2023-05-05T17:46:00Z
-    webUrl: "https://www.chron.com/entertainment/article/could-ai-pen-casablanca-screenwriters-take-aim-18081098.php"
+  - title: "ChatGPT May Have a Big Role in Healthcare"
+    excerpt: "If the results of a recent study are any indication, ChatGPT may soon be professionally responding to patients’ written health-related questions. Virtual healthcare drastically expanded during t"
+    publishedDateTime: 2023-05-09T05:00:00Z
+    webUrl: "https://www.realclearscience.com/articles/2023/05/09/chatgpt_may_have_a_big_role_in_healthcare_898337.html"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 37
-    images:
-      - url: "https://s.hdnux.com/photos/01/32/60/06/23790004/3/rawImage.jpg"
-        width: 2048
-        height: 1365
-        isCached: true
+      name: RealClearScience
+      domain: realclearscience.com
+    quality: 19
 
 secured: "QHlwxcfmupHSGG1Jo/6VYt34VEpaggnNuKctmY+Z9hgMbosQOFgXSWbcxIkBh150AMrf8xE0eXc1d6zbSdlrq50CYtJ3NVJ6yabYo/oxvacvEO/1iP7UHQPunsBKq4dPzEUqT2G9RSJ4KapWGcd4LYvuz9x8mTGgVKkKoVdxThWyJ0yam1kHDOnSQlsZh4+3F+aM2uooabP/sYqVJboV/ExRfeBBQ6bj6L/lHT5ABiieizPlXUOCzCuOgOxsQVcND+FQDOEi9kXt0uiJa+KhslEPkqYs8p4ZP+Q1znMhjWwuCmvXzsO/ByqLQh2b/stkUbUbrPFk6vPAe0Ty1H8TjJwSSPnK9CaMz0y2P5ZopaykuNFBCeDnqjZNliXDx2LiGpZZrwtaSKxU7c2dhwqaS8qATByWI4LOfB1XIurwa7Km/ubHQw13qyER4cwG3R79W4ZqYGZhLRAuUX94jaFzcbFDgdNJE252wnifVMOmXMYLbNju5pMa/O697sNhuxCnNYnP4cwzRyPhrFoT7VL3IQ==;nFNQDog6t+nWtVnULXmVzA=="
 ---

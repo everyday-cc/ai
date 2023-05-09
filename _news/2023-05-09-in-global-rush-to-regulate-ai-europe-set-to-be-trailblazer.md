@@ -2,11 +2,13 @@
 category: news
 title: "In global rush to regulate AI, Europe set to be trailblazer"
 excerpt: "European lawmakers have rushed to add language on general artificial intelligence systems like ChatGPT as they put the finishing touches on the Western world's first AI rules"
-publishedDateTime: 2023-05-09T06:48:00Z
-originalUrl: "https://abcnews.go.com/Technology/wireStory/global-rush-regulate-ai-europe-set-trailblazer-99189489"
-webUrl: "https://abcnews.go.com/Technology/wireStory/global-rush-regulate-ai-europe-set-trailblazer-99189489"
+publishedDateTime: 2023-05-09T08:51:00Z
+originalUrl: "https://abcnews.go.com/International/wireStory/global-rush-regulate-ai-europe-set-trailblazer-99189394"
+webUrl: "https://abcnews.go.com/International/wireStory/global-rush-regulate-ai-europe-set-trailblazer-99189394"
+ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/global-rush-regulate-ai-europe-set-trailblazer-99189394"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/global-rush-regulate-ai-europe-set-trailblazer-99189394"
 type: article
-quality: 37
+quality: 57
 heat: -1
 published: false
 
@@ -18,12 +20,26 @@ topics:
   - AI
 
 images:
-  - url: "https://s.abcnews.com/images/International/wirestory_906fc89d2561b200fa6eb40a06b946a5_12x5_992.jpg"
-    width: 992
-    height: 413
+  - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+    width: 834
+    height: 308
     isCached: true
 
 related:
+  - title: "European Union Set to Be Trailblazer in Global Rush to Regulate Artificial Intelligence"
+    excerpt: "Even European Union officials working on groundbreaking rules to govern the emerging technology were caught off guard by AI’s rapid rise. The 27-nation bloc proposed the Western world’s first AI rules two years ago,"
+    publishedDateTime: 2023-05-09T09:00:00Z
+    webUrl: "https://time.com/6278144/european-union-artificial-intelligence-regulation/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 74
+    images:
+      - url: "https://time.com/img/icons/wallet-connect.png"
+        width: 256
+        height: 256
+        isCached: true
   - title: "The Global Battle to Regulate AI Is Just Beginning"
     excerpt: "Europe’s parliament is struggling to agree on new rules to govern AI—showing how policymakers everywhere have a lot to learn about the technology."
     publishedDateTime: 2023-05-08T06:00:00Z
@@ -38,37 +54,7 @@ related:
         width: 1280
         height: 670
         isCached: true
-  - title: "Africa must regulate AI to reap its full benefits"
-    excerpt: "AI regulation is needed to power Africa’s economy and eradicate many of its socio-economic challenges, say experts."
-    publishedDateTime: 2023-05-08T08:25:00Z
-    webUrl: "https://www.itweb.co.za/content/P3gQ2MGAjJJvnRD1"
-    ampWebUrl: "https://www.itweb.co.za/amp/content/P3gQ2MGAjJJvnRD1"
-    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/P3gQ2MGAjJJvnRD1"
-    type: article
-    provider:
-      name: ITWeb
-      domain: itweb.co.za
-    quality: 59
-    images:
-      - url: "https://www.itweb.co.za/static/pictures/2023/05/AI-create-image-2023.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Bringing AI Tools to the Workplace Requires a Delicate Balance"
-    excerpt: "By midyear, all of Morgan Stanley’s thousands of wealth advisers are expected to have access to a new artificial-intelligence-powered chat tool.The tool, which is already in use by about 600 staff members,"
-    publishedDateTime: 2023-05-08T20:02:00Z
-    webUrl: "https://www.spokesman.com/stories/2023/may/08/bringing-ai-tools-to-the-workplace-requires-a-deli/"
-    type: article
-    provider:
-      name: The Spokesman-Review
-      domain: spokesman.com
-    quality: 37
-    images:
-      - url: "https://thumb.spokesman.com/o2qlnZLoJkpiNpKj1YWkMoSjY4c=/1200x630/smart/media.spokesman.com/photos/2023/05/08/645948d902eed.hires.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
-secured: "73oHpUkNeJJOUC3zxtE+BPKQM0NtRixCz668j7kLy3AbIJjD0c+HyIyQMkvs5I0nKu9oNfA2b4c0VgFETsaykLyKn4luJbr7yU0tuYb8zIyEuF9gubujJjC7UToV3fkdA4uw4Ye9KRuOvuae1BGgS/EuA0FgC7twHGIzBmsoKW6VphZqXhw/54OwNdJElDFKcf6swO/fJ2MnMR/TzBDuHiGp9614RpoG4qDNrMGwKVfmejyb67DvurbUQhn5MML/VsbT6uyMISXRybhZUxsjd76yNram7k2MG4l584K1Zpu4UiAkTO4LWcjaOF6xzf0zIKgFFDvf7I5ok0qjy4RQz85bI5M5sZCxK/PtP9c23KU=;9HiIGaZ+HNrzZjuMEch4UQ=="
+secured: "sKfu5y6I6nMlmQR6iREZ5JYKvnWkmvJkXSEJmsWOtHp87A3tu07IbdgQ6P2qCgjFOOg/2NKDYGFmoPGJca2fkn3oqs/qHsDViUwEVcy1uzc7+ez0A34XDXi1E0B/2471+Myz0BkiNjCeZrQNXzOCVBNcRoGDHTwsw84iL5FLzmU3YwnV6zi4F9QUWyxAIEB/i7sPQ5FRotXcyvaGFGqU/cjQg+lEAqQePANVMM47+cJS21YtrEccg1M8Iz0Z5BxzWuPM3PrZHte+PXaOET7ce5dZVZajoLHUkPFCa9Wjfaz78wsI3fn6jQnvYlzFMoKyD4MKMq05KSHe6m+4RcXMEf/SRlO/IBXt4a+KPMbOcc8=;iwFZ2IjbdwEKmhuNCrT4PA=="
 ---
 

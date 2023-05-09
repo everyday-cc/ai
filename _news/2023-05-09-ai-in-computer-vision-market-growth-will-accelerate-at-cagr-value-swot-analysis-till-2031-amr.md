@@ -24,22 +24,6 @@ images:
     height: 466
     isCached: true
 
-related:
-  - title: "AI In Fintech Market Drivers Shaping Future Growth, Revenue USD 61.30 Billion By 2031 | CAGR 22.5%"
-    excerpt: "(MENAFN- EIN Presswire) PORTLAND, OREGAON, UNITED STATES, May 4, 2023 /einpresswire.com / -- Allied Market Research published a new report, titled, \"ai in fintech market by Component (Solution ..."
-    publishedDateTime: 2023-05-04T16:41:00Z
-    webUrl: "https://menafn.com/1106178746/AI-In-Fintech-Market-Drivers-Shaping-Future-Growth-Revenue-USD-6130-Billion-By-2031-CAGR-225"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 25
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?167269"
-        width: 450
-        height: 250
-        isCached: true
-
 secured: "kfox07swdhnRps1UepW3u0/mudfRYQ8rHHvbVdEx9wGSWjjtmWBRneTMhuWue2O291KqgZp6zPoqFGsXy55Wzt53BlqA+e3afTRI91LfU+c/kCgnEJ76y/6wi6EsnEnCKKfnhT0SGelFZqCoBssilFS0Y3ERM6DsMY/okS7ndT4OGeraPnbaN/FtWBvidKlqdONTPvA5mG3CSMqNlLNzMEc6rTFTmI3x7Rq68P5iRtTETr53PeBg0oBne3hvbm9Vr4ENgwTeq17V9+rLA6jzyafrlR2I42Ofwn1erzZBJyVOBMkhSMuOYu8rmbOqL1MCaFusvCf9ee8/zGqSP7efjunaYB5fqm9+nJn9S4YSSRR2YQtdrEhST0o7IyAnK79RZraEZzYcCtBMpycA27aUF2VA/ziBNKtmChILxYVtJo57wgw7DH47ix2VEo511g3XW8yePc+vPqFNc8VcOHJl2FfQSmmtfjZ0EPY9q3S1oMLbTa+UJFVcaaPDiVYTECFM2u+5urjeJyT5oOJFckHgEg==;YxWoE7v5IyDypaPIdqIn+w=="
 ---
 

@@ -28,19 +28,21 @@ images:
     isCached: true
 
 related:
-  - title: "The jobs AI won't take yet"
-    excerpt: "Since the start of the industrial revolution ... And that could be dire, says Martin Ford, author of Rule of the Robots: How Artificial Intelligence Will Transform Everything. “It's not just that this would happen to individuals, but it could be pretty ..."
-    publishedDateTime: 2023-05-07T21:49:00Z
-    webUrl: "https://www.bbc.com/worklife/article/20230507-the-jobs-ai-wont-take-yet"
+  - title: "14 popular AI algorithms and their uses"
+    excerpt: "Large language models have captured the news cycle, but there are many other kinds of machine learning and deep learning with many different use cases."
+    publishedDateTime: 2023-05-09T09:00:00Z
+    webUrl: "https://www.infoworld.com/article/3695208/14-popular-ai-algorithms-and-their-uses.html"
+    ampWebUrl: "https://www.infoworld.com/article/3695208/14-popular-ai-algorithms-and-their-uses.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3695208/14-popular-ai-algorithms-and-their-uses.amp.html"
     type: article
     provider:
-      name: BBC
-      domain: bbc.com
-    quality: 69
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 89
     images:
-      - url: "https://ychef.files.bbci.co.uk/live/624x351/p0flr5cn.jpg"
-        width: 624
-        height: 351
+      - url: "https://images.idgesg.net/images/article/2019/02/network_endpoint_connections_neural_synapses_by_koto_feja_gettyimages-910881616_2400x1600-100788349-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "vzLIpxDWZPREARjMOdZERYYpzEDzC2a8dVQvCyi7yZTx1BkB6xtj+gnYG/OXjpE1wPek63AJSyJcfGlxGgBQvBE8KmVMG9MpMfiwmBSxtGiwk+4JhXftBWKsU7rzjnTkbhOsVwm1C0Da5O67t5FCiUWaaFX3awwNyLmNSu4RF+r705TvItzGmVXSx+iI73jAUFeLiolj0rPFIl6ykiN8M3o+oHz3g0Hv3XStBqW5RyOyCYP4/YntOIP9gzFUdTm1WYj2Ds536VZxNXWGfbbuEbTUR32l85xwDoXRUJam2bRrt31oWDOlGZ/Scfu1r2AQ8/xRRj/x4mVGZNXdWaFq70egb96QuRMw5N6gN8GN9BDnc4FruAKwtGWbjkdY6GIjL0tZ+GAUkZ3uMjjmBvsLTNYN27Wo+fGwA4XNmfap5tquLVCNjWQcjaMzUFVjBP4gdfa7NPaGeWRHmTxst5gcuJAUS1HB5U1ZqtZg6DZIs2WP0CKfNlgGAP8bci1yeGtp6DpzyJ0ixPOIzuOJhlABxg==;GtXXLEW3blY4gaHODJ0kxg=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/news/world/godfather-of-artificial-intellig
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/world/godfather-of-artificial-intelligence-geoffrey-hinton-has-spoken-up-about-the-dangers-of-ai/amp-11683244206712.html"
 type: article
 quality: 64
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://static.toiimg.com/thumb/msid-100072587,width-1070,height-580,imgsize-84784,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
         width: 1068
         height: 580
-        isCached: true
-  - title: "AI’s ‘Godfather’ Should Have Spoken Up Sooner"
-    excerpt: "“I often think about when I would quit [AI startup] Anthropic or leave AI entirely,” tweeted Catherine Olsson, a technical staff member at AI safety company Anthropic on Monday, in response to ..."
-    publishedDateTime: 2023-05-04T16:23:00Z
-    webUrl: "https://www.washingtonpost.com/business/2023/05/04/ai-godfather-geoffrey-hinton-should-have-spoken-up-sooner/eebde110-ea96-11ed-869e-986dd5713bc8_story.html"
-    type: article
-    provider:
-      name: The Washington Post
-      domain: washingtonpost.com
-    quality: 37
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
         isCached: true
   - title: "Former Google scientist warns about the dangers of artificial intelligence"
     excerpt: "A leading artificial intelligence researcher some call the “godfather” of AI says the technology is developing at a “scary” rate."

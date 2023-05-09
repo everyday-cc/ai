@@ -92,22 +92,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Microsoft barrels ahead with AI plans, opens up Bing Chat preview to everyone"
-    excerpt: "The \"Open Preview\" phase of the New Bing makes the chatbot and other features available to anyone with a Microsoft Account, and it coincides with a push to make the chatbot \"more visual.\" Bing Chat will soon be able to generate charts and graphs as part of its answers,"
-    publishedDateTime: 2023-05-04T16:32:00Z
-    webUrl: "https://arstechnica.com/gadgets/2023/05/microsoft-barrels-ahead-with-ai-plans-opens-up-bing-chat-preview-to-everyone/"
-    ampWebUrl: "https://arstechnica.com/gadgets/2023/05/microsoft-barrels-ahead-with-ai-plans-opens-up-bing-chat-preview-to-everyone/amp/"
-    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/gadgets/2023/05/microsoft-barrels-ahead-with-ai-plans-opens-up-bing-chat-preview-to-everyone/amp/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 101
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/05/bing-chat-features-800x450.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Microsoft and AMD team up to take on Nvidia in the AI Chip Market"
     excerpt: "The partnership is part of Microsoft's strategy to secure the supply of AI processor chips and explore alternatives to Nvidia's GPU chips"
     publishedDateTime: 2023-05-05T04:26:00Z

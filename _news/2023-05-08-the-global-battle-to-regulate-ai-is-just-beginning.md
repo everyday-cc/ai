@@ -7,8 +7,8 @@ originalUrl: "https://www.wired.com/story/the-global-battle-to-regulate-ai-is-ju
 webUrl: "https://www.wired.com/story/the-global-battle-to-regulate-ai-is-just-beginning/"
 type: article
 quality: 67
-heat: 97
-published: true
+heat: -1
+published: false
 
 provider:
   name: Wired
@@ -28,49 +28,35 @@ images:
     isCached: true
 
 related:
-  - title: "Africa must regulate AI to reap its full benefits"
-    excerpt: "AI regulation is needed to power Africa’s economy and eradicate many of its socio-economic challenges, say experts."
-    publishedDateTime: 2023-05-08T08:25:00Z
-    webUrl: "https://www.itweb.co.za/content/P3gQ2MGAjJJvnRD1"
-    ampWebUrl: "https://www.itweb.co.za/amp/content/P3gQ2MGAjJJvnRD1"
-    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/P3gQ2MGAjJJvnRD1"
+  - title: "European Union Set to Be Trailblazer in Global Rush to Regulate Artificial Intelligence"
+    excerpt: "Even European Union officials working on groundbreaking rules to govern the emerging technology were caught off guard by AI’s rapid rise. The 27-nation bloc proposed the Western world’s first AI rules two years ago,"
+    publishedDateTime: 2023-05-09T09:00:00Z
+    webUrl: "https://time.com/6278144/european-union-artificial-intelligence-regulation/"
     type: article
     provider:
-      name: ITWeb
-      domain: itweb.co.za
-    quality: 59
+      name: Time
+      domain: time.com
+    quality: 74
     images:
-      - url: "https://www.itweb.co.za/static/pictures/2023/05/AI-create-image-2023.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Bringing AI Tools to the Workplace Requires a Delicate Balance"
-    excerpt: "By midyear, all of Morgan Stanley’s thousands of wealth advisers are expected to have access to a new artificial-intelligence-powered chat tool.The tool, which is already in use by about 600 staff members,"
-    publishedDateTime: 2023-05-08T20:02:00Z
-    webUrl: "https://www.spokesman.com/stories/2023/may/08/bringing-ai-tools-to-the-workplace-requires-a-deli/"
-    type: article
-    provider:
-      name: The Spokesman-Review
-      domain: spokesman.com
-    quality: 37
-    images:
-      - url: "https://thumb.spokesman.com/o2qlnZLoJkpiNpKj1YWkMoSjY4c=/1200x630/smart/media.spokesman.com/photos/2023/05/08/645948d902eed.hires.jpg"
-        width: 1200
-        height: 630
+      - url: "https://time.com/img/icons/wallet-connect.png"
+        width: 256
+        height: 256
         isCached: true
   - title: "In global rush to regulate AI, Europe set to be trailblazer"
     excerpt: "European lawmakers have rushed to add language on general artificial intelligence systems like ChatGPT as they put the finishing touches on the Western world's first AI rules"
-    publishedDateTime: 2023-05-09T06:48:00Z
-    webUrl: "https://abcnews.go.com/Technology/wireStory/global-rush-regulate-ai-europe-set-trailblazer-99189489"
+    publishedDateTime: 2023-05-09T08:51:00Z
+    webUrl: "https://abcnews.go.com/International/wireStory/global-rush-regulate-ai-europe-set-trailblazer-99189394"
+    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/global-rush-regulate-ai-europe-set-trailblazer-99189394"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/global-rush-regulate-ai-europe-set-trailblazer-99189394"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
-    quality: 37
+    quality: 57
     images:
-      - url: "https://s.abcnews.com/images/International/wirestory_906fc89d2561b200fa6eb40a06b946a5_12x5_992.jpg"
-        width: 992
-        height: 413
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
         isCached: true
 
 secured: "MZf4Mkxeats8EdfYdFg5sm8m3jvbLZIrq7lSTatcr+tmQKrIFlg5VOIAUXdn6Fd9GavKEFNEF0kKcL9ekD6KA0QtJNXLxI2EKJN7pu7vhTsgbpp7dzS2goX9tqnYzWslJNa7fwJoSY3asBmsdjLDYt/1dZ+FRkuROw0KYOHFpsywbTIChe2FN986RkveCShikkdkK2Z7h0WMdW03NMCUYllOxQpuaKoWZtN1oWtebPCfko5h4W26l5KZgiIr3H+TqlKVJBU6+/f4fV4EXZoC0MaPACaD/GAXkBg3IoN+A64AF1lcGuBGb1MuVrkAKjCHWYMt3adJ+2uY/4XDu3aUTS0b/QjVfU1I7RbTswE4+PEPuPcWE2NRj5D5SpV9tuTTzMrlA3DGsig2DI14Ty5sV2hGEZUhNW/A0WkhDSPIUfORkQ5wKAZ35C+n4ZXciFFhByD89+eY9fm46WJNzKUo/qXwzQZY2CUhiaCY3jpkhMU+R6cPaZN+27s2Qf3ysyjep2u0qPjHkQ0RLkzrUX2h9Q==;XZUpgUPIPD1f77iC5g4HlQ=="

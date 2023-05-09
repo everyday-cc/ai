@@ -23,169 +23,61 @@ topics:
   - AI
 
 related:
-  - title: "AI Marketing Market Future Growth and Business Opportunities 2023 | Updated Report"
-    excerpt: "AI Marketing Market Size 2023 | New Report (124 Pages) | Analytics | In This Reports AI Marketing Market Top AI"
-    publishedDateTime: 2023-05-05T05:52:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-marketing-market-future-growth-and-business-opportunities-2023-updated-report-2023-05-05"
+  - title: "Healthcare Natural Language Processing Market 2023 Insight and Global Trends"
+    excerpt: "The Healthcare Natural Language Processing Market Scope and Overview Report for 2023 presents a detailed analysis of"
+    publishedDateTime: 2023-05-05T07:28:00Z
+    webUrl: "https://www.marketwatch.com/press-release/healthcare-natural-language-processing-market-2023-insight-and-global-trends-2023-05-05"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 80
+    quality: 83
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence and Cognitive Computing Market"
-    excerpt: "Research Reports has published a new report titled as \"Artificial Intelligence and Cognitive Computing Market\" by"
-    publishedDateTime: 2023-05-09T01:17:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-and-cognitive-computing-market-2023-05-08"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 67
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Cognitive Services Market Share From 2023 And Unlimited Opportunities for New Companies"
-    excerpt: "Cognitive Services Market Size 2023 | New Report (116 Pages) | Analytics | In This Reports Cognitive Services Market"
-    publishedDateTime: 2023-05-05T04:22:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cognitive-services-market-share-from-2023-and-unlimited-opportunities-for-new-companies-2023-05-05"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 61
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Cloud Natural Language Processing Market Technology advancement and Latest Research Report 2023"
-    excerpt: "Cloud Natural Language Processing Market Size 2023 | New Report (105 Pages) | Analytics | In This Reports Cloud"
-    publishedDateTime: 2023-05-05T04:46:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cloud-natural-language-processing-market-technology-advancement-and-latest-research-report-2023-2023-05-05"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 57
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Machine Learning Courses Market 2023, Top Factors that Will Boost the Machine Learning Courses Market"
-    excerpt: "Machine Learning Courses Market Size 2023 | New Report (125 Pages) | Analytics | In This Reports Machine Learning"
-    publishedDateTime: 2023-05-05T04:21:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-courses-market-2023-top-factors-that-will-boost-the-machine-learning-courses-market-2023-05-05"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 56
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence (AI) Chip Market To Generate $263.6 Billion Revenue By 2031 | Key Trends And Opportunities"
-    excerpt: "Artificial Intelligence Chip Market by Chip Type PORTLAND, OR, UNITED STATES, May 8, 2023 /einpresswire.com / -- According to the report"
-    publishedDateTime: 2023-05-08T04:18:00Z
-    webUrl: "https://menafn.com/1106194639/Artificial-Intelligence-AI-Chip-Market-To-Generate-2636-Billion-Revenue-By-2031-Key-Trends-And-Opportunities"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 51
-    images:
-      - url: "https://menafn.com/updates/pr/2023-05/08/EP_14e92image_story.png"
-        width: 898
-        height: 470
-        isCached: true
-  - title: "Chatbot Market Growth, Opportunities, and Recent Trends | Covered by Acumen Research and Consulting"
-    excerpt: "The Chatbot Market Size in 2021 was USD 521 Million, Market Value set to reach USD 3,411 Million at 23.7% CAGR by"
-    publishedDateTime: 2023-05-08T12:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/chatbot-market-growth-opportunities-and-recent-trends-covered-by-acumen-research-and-consulting-2023-05-08"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 40
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "2023 \"Data Science and Machine-Learning Platforms Market\" Modern Trends and Future Growth Insights 2030 | 122 Pages Report"
-    excerpt: "Global \"Data Science and Machine-Learning Platforms Market\" research report provides Innovative Insights on the Strategies adopted by Major Global Players [Domino Data Lab, Dataiku, Lexalytics, TIBCO Software,"
-    publishedDateTime: 2023-05-05T16:47:00Z
-    webUrl: "https://www.marketwatch.com/press-release/2023-data-science-and-machine-learning-platforms-market-modern-trends-and-future-growth-insights-2030-122-pages-report-2023-05-05"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 28
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Machine Learning As A Service Market Overview Highlighting Key Drivers And Growth Opportunities By 2030"
-    excerpt: "Machine learning as a Service Market Research Increase in adoption of cloud computing technology along with usage of social media platfor"
-    publishedDateTime: 2023-05-05T08:12:00Z
-    webUrl: "https://menafn.com/1106183716/Machine-Learning-As-A-Service-Market-Overview-Highlighting-Key-Drivers-And-Growth-Opportunities-By-2030"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 25
-    images:
-      - url: "https://menafn.com/updates/pr/2023-05/05/EP_aa8fdimage_story.png"
-        width: 898
-        height: 470
-        isCached: true
-  - title: "Global \"Speech and Voice Recognition Technology Market\" 2023 (Latest Report) Becoming the Top Industry Player by 2030 | 116 Pages Report"
-    excerpt: "The Speech and Voice Recognition Technology Market Scope and Overview Report for 2023 presents a detailed analysis of"
+  - title: "Artificial Intelligence for Healthcare Applications Market 2023 | Increasing Number of Users by 2030"
+    excerpt: "The Artificial Intelligence for Healthcare Applications Market Scope and Overview Report for 2023 presents a detailed analysis of the latest trends in the global Artificial Intelligence for Healthcare Applications market."
     publishedDateTime: 2023-05-08T06:38:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-speech-and-voice-recognition-technology-market-2023-latest-report-becoming-the-top-industry-player-by-2030-116-pages-report-2023-05-08"
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-for-healthcare-applications-market-2023-increasing-number-of-users-by-2030-2023-05-08"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 21
+    quality: 69
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Chatbot Market worth $15.5 billion by 2028 - Exclusive Report by MarketsandMarkets™"
-    excerpt: "The market for Chatbot Market is estimated to grow from USD 5.4 billion in 2023 to USD 15.5 billion by 2028, at a CAGR of 23.3% during the forecast period, according to a new report by MarketsandMarkets™."
-    publishedDateTime: 2023-05-08T17:51:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-chatbot-market-worth-155-billion-2028-exclusive-report-/2023/05/08/9809532.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 18
-    images:
-      - url: "https://marketplace.connectwise.com/content/images/thumbs/0000635_skykick_550.png"
-        width: 550
-        height: 353
-        isCached: true
-  - title: "2023-2029 Biometric Voice Recognition Market Sale, Growing Opportunities and Countries Analysis| Report Reviewed by Experts"
-    excerpt: "The global \"Biometric Voice Recognition Market\" research report for 2023 provides a comprehensive analysis of the industry. It includes an in-depth segmentation based on regional factors, product types, applications, and key manufacturers. The report ..."
-    publishedDateTime: 2023-05-04T17:59:00Z
-    webUrl: "https://www.marketwatch.com/press-release/2023-2029-biometric-voice-recognition-market-sale-growing-opportunities-and-countries-analysis-report-reviewed-by-experts-2023-05-04"
+  - title: "Healthcare Natural Language Processing Market Forecast to 2031"
+    excerpt: "The Healthcare Natural Language Processing Market Report [101] offers statistical analyses on market growth prospects and in-depth information on the leading manufacturers - SAS I"
+    publishedDateTime: 2023-05-05T01:14:00Z
+    webUrl: "https://www.marketwatch.com/press-release/healthcare-natural-language-processing-market-forecast-to-2031-2023-05-04"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 8
+    quality: 66
+  - title: "Natural Language Processing in Healthcare Market | Worldwide Industry Trends 2023-2030"
+    excerpt: "Get a Sample Copy of the Natural Language Processing in Healthcare Market Report Geographically, a well-developed infrastructure of the global Natural Language Processing in Healthcare Market, its awareness,"
+    publishedDateTime: 2023-05-05T09:39:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-in-healthcare-market-worldwide-industry-trends-2023-2030-2023-05-05"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 58
+  - title: "AIoT Platform Market Overview 2023 to 2030, Future Trends and Forecast |IBM, Sharp Global, Google, AWS"
+    excerpt: "The report provides a detailed assessment of the GlobalAIoT PlatformMarket. This includes enabling technologies, key"
+    publishedDateTime: 2023-05-05T09:31:00Z
+    webUrl: "https://www.marketwatch.com/press-release/aiot-platform-market-overview-2023-to-2030-future-trends-and-forecast-ibm-sharp-global-google-aws-2023-05-05"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 48
 
 secured: "/6ewp9t63GHT4NLeUqyp4elY0SD/Ix9VNPvhlHtWxneaeIMNHNSdRDNM8U/+XBbnlUkxBPNPC69jgbsu/j2wHLpHYrtgi4QxaFfRjfFYRmmmZg3R2Clt32UjMm2HHECxJ9JxPvF2FmgSBe73tEDqz3WqKvhsukdpu0JVHCW3ROBvbYux7f5ZhK905hEakLW1jdaoKhAeKLv5w8k4vOJjO5yCOEcT7LboE6iQ2+KsRxF5iiJEWfNsGhvBmwakPKybW+tPuZemrHGaXAjm8dbR97HNRJmsiWWAM3IhNZhJ2Qtogz3jxqWHwEG2TMONksvR0HJZVBb9s2bMTSb+j8IbDfnnRJ8KnX7z4uytUV9eJvg=;Cuhw0nIsD+UQvjLzJHFBcQ=="
 ---

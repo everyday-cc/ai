@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2023-05-large-brain-like-neural-networks
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-05-large-brain-like-neural-networks-ai.amp"
 type: article
 quality: 74
-heat: 95
+heat: 105
 published: true
 
 provider:
@@ -56,6 +56,20 @@ related:
       - url: "https://www.cwi.nl/images/13355/brein_op_chip_shutterstock-verkle.2e16d0ba.fill-1200x630.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Learning Advances Could Move Brain-Like AI Into Smartphones"
+    excerpt: "Implemented in chips, called neuromorphic hardware, such spiking neural networks hold the promise of bringing AI programmes closer to users – on their own devices. These local solutions are good for privacy, robustness and responsiveness. Applications ..."
+    publishedDateTime: 2023-05-09T09:39:00Z
+    webUrl: "https://www.technologynetworks.com/neuroscience/news/learning-advances-could-move-brain-like-ai-into-smartphones-373058"
+    type: article
+    provider:
+      name: technologynetworks
+      domain: technologynetworks.com
+    quality: 41
+    images:
+      - url: "https://assets.technologynetworks.com/production/dynamic/images/content/373058/learning-advances-could-move-brain-like-ai-into-smartphones-373058-640x360.jpg?cb=20230509"
+        width: 640
+        height: 360
         isCached: true
 
 secured: "kY3/JPsnqAHsWQlP/k+nEqOzsZWPrTonHW4czRLcTa7HZm3MyxadNyxR/ItthZswx2abk1a3bX5JRJJU5oVZrc2FUEmfons2QY1lU4+RIsNJM5e5DsuESsAGw4ai53JV+KHJxFmsegJ5M5fLwbew/upG4JsalYFS+iLfWvJZ4+3G9RfIkPUkXqNAn8tMvOidz2gcCGUh6k74xxWP+/8r9m3GsQKq9hptjEMQiA9Dks9ZokPOrUDDu4+vxxGLsWTzcNdhFADruxxG/2r3/QlW+7z2yy+mPGA1lhnPiT1cekBtx+FZiIfrJCdWZPT803aecg+lrx+IGZH6TQFEhSilXjdaG9ua4Uc5scT54TjSWbieKU/WZC/1maER9vvT8+g5fZWV/vLWmL9gvRDybbXD9AK7taCSVV5hG/7+rDr/5U4qobpmbTXaTP9ZkYcnovc4tUZChAFdUGNkPql3cPSeTUbWaDvwgXkT1iG3Zvdvbv2jokxCpLDO5vr/p2wzSmVmJsEvaUpRbRMAaK1tQMvqwQ==;1474mNdo+VRXlVn1H7nQWg=="

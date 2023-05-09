@@ -125,6 +125,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 65
+  - title: "Artificial Intelligence (AI) in Agriculture Market To Observer Consistent Development All through Forecast Period 2023"
+    excerpt: "This Artificial Intelligence (AI) in Agriculture Market report researches the key producers of Artificial Intelligence (AI) in Agriculture, also provides the sales of main regions"
+    publishedDateTime: 2023-05-09T07:35:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-agriculture-market-to-observer-consistent-development-all-through-forecast-period-2023-2023-05-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 60
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Artificial Intelligence Chips Market [2023-2030] | Experience the Future of Industry"
     excerpt: "GlobalArtificial Intelligence Chips Market[2023-2030] research report is a compilation of information and analysis"
     publishedDateTime: 2023-05-05T08:22:00Z

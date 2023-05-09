@@ -23,6 +23,17 @@ images:
     height: 685
     isCached: true
 
+related:
+  - title: "This startup uses AI to design better EV batteries"
+    excerpt: "Chemix is using AI to design batteries that perform better and eliminate controversially mined metals like cobalt and nickel."
+    publishedDateTime: 2023-05-08T03:30:00Z
+    webUrl: "https://www.fastcompany.com/90892687/this-startup-uses-ai-to-design-better-ev-batteries"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 17
+
 secured: "Jza/K+W7mzFIyGwAdY87X20zsin+/CRP1jEBg8nmp6dDnvVmhSBhtds+cx6WBSjo9htn7zPTVfkgBEKTtFZl7zRHMByH3HsdpeaJ4mhNBQJ6I3Z0eBIApHSHlr3rXFC2NS1b6Pd2H7vFSk4BsEh3vXpzSRVw5IEHSCF38LvbnZORKKTpdlduT9mOtqQCBtsA9Wkhw2K1ZA/IKVncJmJxJ9+2dCmcvtWJArOxHO5rTxN/N9YlxQVI4DRP9jjG0xHZgxhnCsXJ19zKrWsoSzD6nNKwPwMJh4wTKaW72G8UTcnFeYPohYovRr/E314/+FHlcTcjZrW1mEb80lqxX4QU4J58nXsw3A/VZY5i6A4JGRM=;D0yccjUuYFjtFX07Nvks2Q=="
 ---
 

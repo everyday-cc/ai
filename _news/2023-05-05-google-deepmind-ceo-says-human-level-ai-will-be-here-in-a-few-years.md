@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Current language models lightyears away from human-like AI: Early DeepMind investor"
-    excerpt: "We took a big jump, but we’re not at the moon yet,” Sheikh added. He also noted that the large language models (LLM) developed by Microsoft-backed firm OpenAI are lightyears away from artificial general intelligence,"
-    publishedDateTime: 2023-05-04T15:11:00Z
-    webUrl: "https://www.gadgetsnow.com/tech-news/current-language-models-lightyears-away-from-human-like-ai-early-deepmind-investor/articleshow/99993262.cms"
-    ampWebUrl: "https://www.gadgetsnow.com/tech-news/current-language-models-lightyears-away-from-human-like-ai-early-deepmind-investor/amp_articleshow/99993262.cms"
-    cdnAmpWebUrl: "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/current-language-models-lightyears-away-from-human-like-ai-early-deepmind-investor/amp_articleshow/99993262.cms"
-    type: article
-    provider:
-      name: Gadgets Now
-      domain: gadgetsnow.com
-    quality: 70
-    images:
-      - url: "https://static.toiimg.com/thumb/resizemode-4,msid-99993262,imgsize-64058,width-800/99993262.jpg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "Tech Digest daily roundup: DeepMind boss says ‘human-level’ AI just a few years away"
     excerpt: "The head of Google’s artificial intelligence division DeepMind has predicted that human-level AI may be just a few years away."
     publishedDateTime: 2023-05-05T10:13:00Z

@@ -19,28 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "Banking Sector Revolution: 3 Fintech Stocks to Watch"
-    excerpt: "Fintech is revolutionizing the banking sector. In fact, artificial intelligence (AI), and blockchain could lead to a far more efficient and accessible system. Fueling the boom, we’re already seeing a good deal of global cashless payments."
-    publishedDateTime: 2023-05-04T15:33:00Z
-    webUrl: "https://www.nasdaq.com/articles/banking-sector-revolution%3A-3-fintech-stocks-to-watch"
+  - title: "Unlock the Profit Potential in AI Healthcare Innovation with This Leading Biotech Stock"
+    excerpt: "While Nick Black handles the cryptocurrency, blockchain, and Web3 side of things, I'm going to bring you a new stock each week related to these emerging technologies, including artificial intelligence."
+    publishedDateTime: 2023-05-08T21:05:00Z
+    webUrl: "https://moneymorning.com/investing/unlock-the-profit-potential-in-ai-healthcare-innovation-with-this-leading-biotech-stock/"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 49
-  - title: "How ‘voice to cart’ is revolutionising retail"
-    excerpt: "Perhaps the most significant limitation of voice technology in retail is the accuracy of voice recognition. Accurately interpreting voice commands can be tricky, especially when dealing with regional accents and dialects."
-    publishedDateTime: 2023-05-06T05:30:00Z
-    webUrl: "https://www.indiaretailing.com/2023/05/06/how-voice-to-cart-is-revolutionising-retail/"
-    type: article
-    provider:
-      name: indiaretailing
-      domain: indiaretailing.com
-    quality: 39
+      name: Money Morning
+      domain: moneymorning.com
+    quality: 46
     images:
-      - url: "https://www.indiaretailing.com/wp-content/uploads/2023/05/Kumar-Rangarajan-CEO-and-Co-Founder.png"
-        width: 532
-        height: 345
+      - url: "https://moneymorning.com/wp-content/blogs.dir/1/files/2022/06/crypto-syndication.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Finovax Leads the Charge in Fintech Innovation: AI-Powered Solutions Drive Business Growth"
     excerpt: "New York-Based Fintech Company Embraces Artificial Intelligence to Revolutionize Financial Data Products and Fuel Expansion New York, United"

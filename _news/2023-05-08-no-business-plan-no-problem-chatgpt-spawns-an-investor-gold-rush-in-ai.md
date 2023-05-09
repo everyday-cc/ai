@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/articles/no-business-plan-no-problem-chatgpt-s
 webUrl: "https://www.wsj.com/articles/no-business-plan-no-problem-chatgpt-spawns-an-investor-gold-rush-in-ai-6bdbed3c"
 type: article
 quality: 66
-heat: 136
+heat: 116
 published: true
 
 provider:
@@ -58,20 +58,6 @@ related:
         width: 800
         height: 494
         isCached: true
-  - title: "Gartner: ChatGPT has prompted increase in AI investments"
-    excerpt: "A Gartner poll shows that 45% reported that the publicity of ChatGPT has prompted them to increase AI investments."
-    publishedDateTime: 2023-05-07T23:30:00Z
-    webUrl: "https://techwireasia.com/2023/05/gartner-chatgpt-has-prompted-increase-in-ai-investments/"
-    type: article
-    provider:
-      name: techwireasia.com
-      domain: techwireasia.com
-    quality: 39
-    images:
-      - url: "https://cdn.techwireasia.com/wp-content/uploads/2023/05/shutterstock_2261871805-897x500.jpg"
-        width: 897
-        height: 500
-        isCached: true
   - title: "Could AI pen ‘Casablanca’? Screenwriters take aim at ChatGPT"
     excerpt: "Not six months since the release of ChatGPT, generative artificial intelligence is already prompting widespread unease throughout Hollywood."
     publishedDateTime: 2023-05-05T13:45:00Z
@@ -111,15 +97,6 @@ related:
         width: 2048
         height: 1365
         isCached: true
-  - title: "In 30 secs, ChatGPT produces 643 words on India and AI; Edge manages just 143"
-    excerpt: "In the IANS New York office, we have been experimenting with chatbots and one of the tasks we set for the two as a test was to \"write a report"
-    publishedDateTime: 2023-05-08T12:55:00Z
-    webUrl: "https://glamsham.com/world/health-lifestyle/in-30-secs-chatgpt-produces-643-words-on-india-and-ai-edge-manages-just-143"
-    type: article
-    provider:
-      name: glamsham.com
-      domain: glamsham.com
-    quality: 16
 
 secured: "sXH/6qL+BF9Oo+NGMxcw81u3JStw4CsFGdCYElQJfmXmEGfHfL97ReABi16YjOwGg++w7zcpBJFiew878lJb+9rUYkDVcBWf2QWhQChkqlsUH3luw8OiF1ZOf+h2ZxLIbnH70bNZ5kHYRvn7SMWBbHkIF9hAdKy6w5s7r1iJCE2yuZmXtCHUsZHe4kg/l4eVYievVJXMZZyh1pqb+AhCt2T1Xu4p+P91x9OovwRuCYFBe8l4KGLbZZJKRr+5THjNKhALi2VxGV6MHGnRQn6CbQSnc02GESFcEiojT4dzMlIvncQhO112b1u4/PEj19VNbOwmr60Skpk9LOXGv2X5Z1xZDigRWEGT9ZdEvr4OkaMB6xoXUJL9qFof2uJvai2stWlvp+UjlaFlzHkOQ+rMMDLoWCePXU6mti0IzwKS1Qyp6GNe0PQngp3nbKvcYA6ASlAlkKwiPg4yQC1ZvgQnf2cnnpfbMS89myOSHMOEHxz+4epz12aFghZzsQkja980HFE9D4M1KWR0Yl0L3JxC3g==;+RqF6YazAuI3FlYBTvP+gg=="
 ---

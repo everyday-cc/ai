@@ -42,6 +42,17 @@ related:
       name: Couriermail
       domain: news.com.au
     quality: 39
+  - title: "Indigenous voice to parliament: ‘No’ campaign merger to bolster resources"
+    excerpt: "Anti-voice spokesman Warren Mundine says the newly merged strands of the No campaign bring together 37,000 volunteers and millions in donations."
+    publishedDateTime: 2023-05-09T08:47:00Z
+    webUrl: "https://www.theaustralian.com.au/nation/indigenous/indigenous-voice-to-parliament-no-campaign-merger-to-bolster-resources/news-story/cdb0a0ae3f5d1f4196e2d2a56b675d67"
+    ampWebUrl: "https://www.theaustralian.com.au/nation/politics/indigenous-voice-to-parliament-no-campaign-merger-to-bolster-resources/news-story/cdb0a0ae3f5d1f4196e2d2a56b675d67?amp"
+    cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/nation/politics/indigenous-voice-to-parliament-no-campaign-merger-to-bolster-resources/news-story/cdb0a0ae3f5d1f4196e2d2a56b675d67?amp"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 38
 
 secured: "iFkIdoDA9PW8DGogyGXNBZuDYJQy9rmVr81aRdqecWYuRJNppOLI30OzfoXUWrZf17AyR17B0CgFyYkZKnJZ1gELeftyKhjWtSluiIIATAPhcl+DvsUscTbq/bMnkbgYdgsaSVsCpCvBt1qgkMKhA0G6shLt23FPWXOW+9LlAaUBx6Ve8DZiubbgDHGWKw25m7E8sq1yrXJADmdrOo1Uf1E/TCPovKozRHbbnpb7pbEnlly5kVLR3QgGk80esLYNk9ar/qAtxNlYfCfn8vBnup3gKQ2uthlwEf/WoPF4LK55tvXoQ51o+4Y0PM+zQ1NVTacpnDxS4kqkxDcR+DAI1L6edyChuJwtK6rLn1PUUTE=;Pu+/sROfB9V/nfOdLFCmng=="
 ---

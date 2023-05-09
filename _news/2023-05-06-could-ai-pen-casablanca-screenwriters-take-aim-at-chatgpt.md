@@ -68,20 +68,6 @@ related:
         width: 800
         height: 494
         isCached: true
-  - title: "Gartner: ChatGPT has prompted increase in AI investments"
-    excerpt: "A Gartner poll shows that 45% reported that the publicity of ChatGPT has prompted them to increase AI investments."
-    publishedDateTime: 2023-05-07T23:30:00Z
-    webUrl: "https://techwireasia.com/2023/05/gartner-chatgpt-has-prompted-increase-in-ai-investments/"
-    type: article
-    provider:
-      name: techwireasia.com
-      domain: techwireasia.com
-    quality: 39
-    images:
-      - url: "https://cdn.techwireasia.com/wp-content/uploads/2023/05/shutterstock_2261871805-897x500.jpg"
-        width: 897
-        height: 500
-        isCached: true
   - title: "Could AI pen ‘Casablanca’? Screenwriters take aim at ChatGPT"
     excerpt: "Not six months since the release of ChatGPT, generative artificial intelligence is already prompting widespread unease throughout Hollywood."
     publishedDateTime: 2023-05-05T13:45:00Z
@@ -107,15 +93,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "In 30 secs, ChatGPT produces 643 words on India and AI; Edge manages just 143"
-    excerpt: "In the IANS New York office, we have been experimenting with chatbots and one of the tasks we set for the two as a test was to \"write a report"
-    publishedDateTime: 2023-05-08T12:55:00Z
-    webUrl: "https://glamsham.com/world/health-lifestyle/in-30-secs-chatgpt-produces-643-words-on-india-and-ai-edge-manages-just-143"
-    type: article
-    provider:
-      name: glamsham.com
-      domain: glamsham.com
-    quality: 16
 
 secured: "KmUVGPyDgMa6QXNi19YcPm4QyQZ06zYOI6YWeFlSnzS8nV1ItNsjVHGKbv7T9NENNJk8REMWlF0eGhehRZHXD9pRU7Coa2sW0LyiOMVTtdQE/hEITKl9i3NEXhj33Cyw5HYsGorjHltXDW/fixFq6RL7TA3fgCQwT5AxSlQuh504yOZtPRxVYbf3Am+K/sVrdyMrMhsX5XrG4Bbd9Qs4LuqhmVrFKsAKTZEQ/dweVVJdrdTJmQjmdzmVgESoDHCkqRFJffxQ/X6l2cSG4StlWSqZmhVja2LEEGrY2ZUcHp88KPZAxFdbMFjGbe3sZYWW5oWgiNP5DdnQocERM1APd/KkJxZm1dQnoi7IgjIknTqY8jpE96u+y2Y2PnBkeB6/zE5rq1X569WBtxeyi+xH+rdks60XWlNlzqxhxtfIAyvODcXrlzXTfy5q0vP9U52W1tmuPTZm4KBi40lyLGjyXjDvxIuThaDMtLQ7MfVlaDovQ1i7R29Ve8bRoQTtVTpXYl9t4RfDfCM+Tt00WpmaqQ==;4t7iuo3PeYB0XIQbzoydXQ=="
 ---

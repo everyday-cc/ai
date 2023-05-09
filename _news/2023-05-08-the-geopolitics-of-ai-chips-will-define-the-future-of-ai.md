@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/robtoews/2023/05/07/the-geopolitics-of-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2023/05/07/the-geopolitics-of-ai-chips-will-define-the-future-of-ai/amp/"
 type: article
 quality: 104
-heat: 134
+heat: 114
 published: true
 
 provider:
@@ -31,36 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "The Future Of Communication In The Age Of Artificial Intelligence"
-    excerpt: "Are you ready to future-proof your career? Discover how to blend your unique human skills with AI and stay ahead of the game. Don't risk being left behind and losing your job - read on to find out how to stay relevant in a rapidly evolving workforce,"
-    publishedDateTime: 2023-05-04T23:14:00Z
-    webUrl: "https://www.forbes.com/sites/kwamechristian/2023/05/04/the-future-of-communication-in-the-age-of-artificial-intelligence/"
-    ampWebUrl: "https://www.forbes.com/sites/kwamechristian/2023/05/04/the-future-of-communication-in-the-age-of-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kwamechristian/2023/05/04/the-future-of-communication-in-the-age-of-artificial-intelligence/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/645437c77701f76c839c02fc/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 685
-        isCached: true
-  - title: "5 Ways Artificial Intelligence is Changing The Future Of Business"
-    excerpt: "Tech - Artificial intelligence (AI) has been a game-changer in countless ways across the world. Companies and businesses are able to use enhanced AI systems to"
-    publishedDateTime: 2023-05-07T14:39:00Z
-    webUrl: "https://business-review.eu/tech/5-ways-artificial-intelligence-is-changing-the-future-of-business-245442"
-    type: article
-    provider:
-      name: business-review.eu
-      domain: business-review.eu
-    quality: 39
-    images:
-      - url: "https://business-review.eu/wp-content/uploads/2023/05/AI1.png"
-        width: 624
-        height: 328
-        isCached: true
   - title: "How lab grown neurons could power the future of AI"
     excerpt: "Melbourne-based Cortical Labs’ lab grown neurons could speed up AI training in a more energy efficient way and its work has caught the eye of hyperscalers and Amazon’s CTO"
     publishedDateTime: 2023-05-08T03:13:00Z

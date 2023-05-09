@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "ChatGPT and Generative AI: Our Guide to 2023's Most Talked-About Technology"
-    excerpt: "ChatGPT brought generative AI into the limelight when it hit 1 million users in five days. But how valid is the buzz around ChatGPT?"
-    publishedDateTime: 2023-05-04T16:00:00Z
-    webUrl: "https://www.businessinsider.com/chatgpt-and-ai-guide-to-2023-most-talked-about-technology-2023-may"
-    ampWebUrl: "https://www.businessinsider.com/chatgpt-and-ai-guide-to-2023-most-talked-about-technology-2023-may?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-and-ai-guide-to-2023-most-talked-about-technology-2023-may?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 85
-    images:
-      - url: "https://i.insider.com/64403fa23f6f690018de9578?width=1200&format=jpeg"
-        width: 470
-        height: 352
-        isCached: true
   - title: "ChatGPT and Generative AI in Payments: Reality, Hype, What's Next, and How to Prepare"
     excerpt: "ChatGPT is the most talked-about technology of 2023 and has caught the attention of payments services providers."
     publishedDateTime: 2023-05-05T18:00:00Z
@@ -55,6 +39,22 @@ related:
       - url: "https://i.insider.com/64414647632fda001803ccf4?width=1200&format=jpeg"
         width: 1200
         height: 900
+        isCached: true
+  - title: "ChatGPT and the new AI are wreaking havoc on cybersecurity in exciting and frightening ways"
+    excerpt: "Unrestrained by ethics or law, cybercriminals are racing to use AI to find innovative new hacks, says Recorded Future CEO Christopher Ahlberg."
+    publishedDateTime: 2023-05-08T00:09:00Z
+    webUrl: "https://www.zdnet.com/article/chatgpt-and-the-new-ai-are-wreaking-havoc-on-cybersecurity/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/chatgpt-and-the-new-ai-are-wreaking-havoc-on-cybersecurity/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/chatgpt-and-the-new-ai-are-wreaking-havoc-on-cybersecurity/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 77
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/0f069f7582c82f625117f92909ccd4f7bb840cdf/2023/05/07/0c2625f3-8f61-483b-8cbb-b39dfadd09fe/alhberg-recorded-future.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "ChatGPT and Generative AI Around the World: Maturity, Opportunities, and Hurdles in Key Regions"
     excerpt: "ChatGPT has received a lot of press since its November 2022 launch. But while interest in the tool is high, its use is not yet universal."
@@ -81,6 +81,20 @@ related:
       name: Wall Street Journal
       domain: wsj.com
     quality: 47
+  - title: "Gartner: ChatGPT has prompted increase in AI investments"
+    excerpt: "A Gartner poll shows that 45% reported that the publicity of ChatGPT has prompted them to increase AI investments."
+    publishedDateTime: 2023-05-07T23:30:00Z
+    webUrl: "https://techwireasia.com/2023/05/gartner-chatgpt-has-prompted-increase-in-ai-investments/"
+    type: article
+    provider:
+      name: techwireasia.com
+      domain: techwireasia.com
+    quality: 39
+    images:
+      - url: "https://cdn.techwireasia.com/wp-content/uploads/2023/05/shutterstock_2261871805-897x500.jpg"
+        width: 897
+        height: 500
+        isCached: true
   - title: "I asked AI bot ChatGPT to write a column on happiness. Here’s what happened next"
     excerpt: "I had to find out for myself. So I conducted a little experiment. I asked ChatGPT to write an article for me. I submitted the prompt, “Write a 500-word column on happiness.” That’s a broad, overworked topic,"
     publishedDateTime: 2023-05-08T21:21:00Z
@@ -104,6 +118,15 @@ related:
       name: RealClearScience
       domain: realclearscience.com
     quality: 19
+  - title: "In 30 secs, ChatGPT produces 643 words on India and AI; Edge manages just 143"
+    excerpt: "In the IANS New York office, we have been experimenting with chatbots and one of the tasks we set for the two as a test was to \"write a report"
+    publishedDateTime: 2023-05-08T12:55:00Z
+    webUrl: "https://glamsham.com/world/health-lifestyle/in-30-secs-chatgpt-produces-643-words-on-india-and-ai-edge-manages-just-143"
+    type: article
+    provider:
+      name: glamsham.com
+      domain: glamsham.com
+    quality: 16
 
 secured: "unyptZSholTvhveIdw48PWmM62vSlHDBxZIL1z7cnhWZ1vuns3sjJa1uDbocWqF7RUSJrwono7FoUNB6xUYQ+XtWVGb4nR9KmC7OltN8ACSbX0DEVsHbC+n5q2GwiZLYhmSqBiJwwbCENClf8XiyP+To/BH+EredIAb9hWh9RhZaIQLDO/p7s6idMMFaB8jfsni/JrfmgKBRuB/oyOuea0ab4xoY0PiDSYJd6YVJFheSPDnLpHDZqhuKdFrIAttyMLLxvFU39GtBbOk0BR14sV5ZplnpxsulUglrTeK/OEOjAfdcuWpdVdjR3kyYXVO46g7oRxQeAWTqtdBzumLtOUinz5EYGDIZknKqms94TvRGEPiJJxHCj+UEjnyy1ICDU6SuwDEjDo+T9lrwkdhhbS/XXqlnAstNlcf0aja1cS5WXm6Iipt57YM4C5d+QweQOGmtELNUQ3WYgYB250fTWgC9nxqZFAIxz5Q+yYHRmGWtEIl5koeE5azJm4xhHr8D7v9eeo/lEwIuDcNkZ+8/7A==;Kqkz7u8zB7zd8lP86KzCBw=="
 ---

@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Learning Advances Could Move Brain-Like AI Into Smartphones"
+    excerpt: "Implemented in chips, called neuromorphic hardware, such spiking neural networks hold the promise of bringing AI programmes closer to users – on their own devices. These local solutions are good for privacy, robustness and responsiveness. Applications ..."
+    publishedDateTime: 2023-05-09T09:39:00Z
+    webUrl: "https://www.technologynetworks.com/neuroscience/news/learning-advances-could-move-brain-like-ai-into-smartphones-373058"
+    type: article
+    provider:
+      name: technologynetworks
+      domain: technologynetworks.com
+    quality: 41
+    images:
+      - url: "https://assets.technologynetworks.com/production/dynamic/images/content/373058/learning-advances-could-move-brain-like-ai-into-smartphones-373058-640x360.jpg?cb=20230509"
+        width: 640
+        height: 360
+        isCached: true
 
 secured: "eVu71D8+EAvkrCOC58mXhPxaNMQpPGCYnadz+PQR/vi5pTX1B42D2+mRwQS+EP6PtzUn0l0jEvk/oW8Qxc3K4V1PB2WViBbflLof1j4I/fy4+Ryf0nbttmXjIVuZbCzsrLVcF/6onScnvcin75v2rkKpyn8OSWX/QHWJnAyXnS2xnfsy9xBDvl/fNqa4dmTlbe7DXLKuO0Ni0ZIrKnyg8D/S75siADf513oGzAGTplBPtJpcoXQkU6tpWKQHgr0qHynjnCZRWCQeHt88Aj9b68aK0auevrKli/ai+UZEiTTDzsA2AihkcQ+VJWyXdsW8QBjKduAq72tWVONLc+v2Qi+sNqpFQbrm8oSehObrfP4Ru6fqEoNyPGRC7cC4TukiDzJ5mCcY+74aAxtiamRVTks6XChRrC72lI+91AjURQwxQ1+UCzjSjyqu9zmNgQXov2cM9n5RsMK4e0wWTgbtcLteow0Azd72FemAYxVD8mECNwnvZKDubVWqUqZzGFrxQJPGh75jbUmP7RATIxr1TQ==;ktZosFFFRO/Ku2jkYGmDEA=="
 ---

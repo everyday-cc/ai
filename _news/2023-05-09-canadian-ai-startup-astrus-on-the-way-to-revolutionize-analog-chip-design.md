@@ -3,8 +3,8 @@ category: news
 title: "Canadian AI startup Astrus on the way to revolutionize analog chip design"
 excerpt: "Astrus, a Canada-based startup focusing on analog IC design automation, is aspiring to revolutionize the global chip design industry by leveraging recent breakthroughs in artificial intelligence (AI)."
 publishedDateTime: 2023-05-09T02:14:00Z
-originalUrl: "https://www.digitimes.com/news/a20230509VL200/ai-analog-ic-canada-eda-ic-design-distribution.html?chid=13"
-webUrl: "https://www.digitimes.com/news/a20230509VL200/ai-analog-ic-canada-eda-ic-design-distribution.html?chid=13"
+originalUrl: "https://www.digitimes.com/news/a20230509VL200/ai-analog-ic-canada-eda-ic-design-distribution.html"
+webUrl: "https://www.digitimes.com/news/a20230509VL200/ai-analog-ic-canada-eda-ic-design-distribution.html"
 type: article
 quality: 53
 heat: -1
@@ -15,8 +15,8 @@ provider:
   domain: digitimes.com
 
 topics:
-  - AI Hardware
   - AI
+  - AI Hardware
 
 images:
   - url: "https://img.digitimes.com/newsshow/20230509vl200_files/6_r.jpg"
@@ -65,6 +65,6 @@ related:
       domain: businessinsider.com
     quality: 49
 
-secured: "oN8vWu4JFseLA93u7JhfIIwwp0gGj3AMs4bqZ6dJpt7u0Jc47UtgiFfrznjM8Jj6EoX+VMMxL8M2pwZ38LKLujqgfcVrMxQYYmxcAij5D8izLZDKlSMtGYYio6C5hsLoXE9UJO03i2+Al/r5CXrDlh/FVCbc7/v7Uh5vFwV+5l0ikh2/56iJoyp0E66WePSPqIhS/CzRVmbu2QsnRz4FE+vQM6zv9CGJ4CaBC45k7cQhaz1tAaBEr8gI7XsQzZ6j6EVsk/akaQjJ/R/DMB3AsdszB0ko0goI0sarC/li0NUcpIbSEpmEMLMxEvYUr6NH0zN4M35Oy/bcfAdAGP0D+ItQK50FejK0JnzSwgWCnFh//TIu8rqgqNZEYWCuu2N6CdEr1pcXN4mBcZUxlZPz6+EREy5v1NFPJSP1t0orUE24MAc7la80NZg1GIfGiHzaJgxO0aRa7507IrSvd8tFwbZXU8FsnMj6DiMYwvqpJOK+l9JXeKLE8HBTABn7DxzTPmB+hNzAxe5SSEpaC3ug4g==;m901Ktd/0kzKXoWR90j7Lw=="
+secured: "nx+mqCR5x9p2Ezb+lEYfN6Xobyo7X3ByY+/6wjdkfOtSbkSzO5tI7rRUoJVgrNFhm3JyRgQSdqMwevNdTDKtu3gOpgF+cnsltlOPpAVRytuV6YeHCeoqOp6YQGuyg7BEtRKWcIXUVJNKGzYdQ1Wx5/1FEnYE1Q1fn8yYyGKKwRaUrKzFB9S/1E9FbXCUuhJkMzhpSctC+QsuYjap/0maDb23z9EFktMrc70D2fxFdhdtqKNhCrfT0ytjciDU/Mf2rHXUM4DzTLJw/QuzdLUSg6l7zIpps61bqWWlEEfLlNoaw+HzBxFo7RH08rTC4xSI7EHF2uJRFivA/x0MaiLH7eHwRZfjS3d88bVVvsi3Nr4=;5gtiNmdvl0r57alaYbwe3g=="
 ---
 
