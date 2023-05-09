@@ -30,87 +30,85 @@ images:
     isCached: true
 
 related:
-  - title: "Self-Driving & Driverless Cars Market 2023 Analysis by 2029 – Tesla, BMW, Daimler"
-    excerpt: "A new market research report added to source of Market Intelligence Data is an in-depth analysis of Self-Driving & Driverless Cars Market. This research reports provides insights on current and future industry trends,"
-    publishedDateTime: 2023-05-05T05:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-driverless-cars-market-2023-analysis-by-2029-tesla-bmw-daimler-2023-05-05"
+  - title: "Machine Learning (ML) Platforms Market Intelligence Report: 2023-2031 by Industry Experts"
+    excerpt: "Platforms Market ” Research Report 2023-2031 offers a detailed analysis of the industry landscape, including growth drivers, restraints, and competitive dynamics of Top Manufacturers [Microsoft Corporation,"
+    publishedDateTime: 2023-05-08T13:23:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-ml-platforms-market-intelligence-report-2023-2031-by-industry-experts-2023-05-08"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 94
+    quality: 77
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Autonomous or Driverless Cars Market [2023-2030] | Top Key-Players in the Industry are - Tesla, Volkswagen, Nissan, Volvo"
-    excerpt: "Global Autonomous or Driverless Cars Market [2023-2030] research report provides a key analysis of the market status of Autonomous or Driverless Cars manufacturers with the best facts and figures, definitions,"
-    publishedDateTime: 2023-05-05T08:56:00Z
-    webUrl: "https://www.marketwatch.com/press-release/autonomous-or-driverless-cars-market-2023-2030-top-key-players-in-the-industry-are---tesla-volkswagen-nissan-volvo-2023-05-05"
+  - title: "Machine Learning (ML) Platforms Market Size By 2030"
+    excerpt: "The report focuses on the volume and value of Machine Learning (ML) Platforms at the global, regional, and company levels. It analyzes historical data and future prospects to determine the overall Machine Learning (ML) Platforms market size."
+    publishedDateTime: 2023-05-09T06:20:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-ml-platforms-market-size-by-2030-2023-05-09"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 59
+    quality: 64
+  - title: "Machine Learning (ML) Platforms Market Overview 2023 to 2030, Future Trends and Industry Forecast | Palantier, MathWorks, Alteryx"
+    excerpt: "Platforms Market report gives information about current market patterns, difficulties, and open doors. The examination examiners and industry specialists work cooperatively to offer a top to bottom knowledge into the ongoing business sector situations."
+    publishedDateTime: 2023-05-05T11:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-ml-platforms-market-overview-2023-to-2030-future-trends-and-industry-forecast-palantier-mathworks-alteryx-2023-05-05"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 55
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Self-Driving Taxi Market Research | 2023-2030"
-    excerpt: "The Global Self-Driving Taxi market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players,"
-    publishedDateTime: 2023-05-08T04:10:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-taxi-market-research-2023-2030-2023-05-08"
+  - title: "New Report Predicts Significant Growth in Data Science and Machine-Learning Platforms Market to 2023"
+    excerpt: "Data Science and Machine-Learning Platforms Market Size 2023 | New Report (127 Pages) | Analytics | In This Reports"
+    publishedDateTime: 2023-05-09T06:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/new-report-predicts-significant-growth-in-data-science-and-machine-learning-platforms-market-to-2023-2023-05-09"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 54
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Self-driving Cars Market Research | 2023-2030"
-    excerpt: "The Global Self-driving Cars market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players,"
-    publishedDateTime: 2023-05-09T04:06:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-cars-market-research-2023-2030-2023-05-09"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Self-driving Bus Market Growing Demands, Trends and Business Outlook 2023 to 2029 with top Players – AV Volvo, Tesla, Navya"
-    excerpt: "The latest global Self-driving Bus Market report provides conclusive information about the industry overview, modern trends, demand, and recent development affecting the market growth during the upcoming year."
-    publishedDateTime: 2023-05-05T05:28:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-bus-market-growing-demands-trends-and-business-outlook-2023-to-2029-with-top-players-av-volvo-tesla-navya-2023-05-05"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 43
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "How driverless trucks got drivers’ licenses in Kansas | Commentary"
-    excerpt: "Each time autonomous vehicle bills stalled at the Capitol, lobbyists and friendly lawmakers got out and pushed."
-    publishedDateTime: 2023-05-05T16:29:00Z
-    webUrl: "https://www.kansascity.com/opinion/readers-opinion/guest-commentary/article274749491.html"
-    ampWebUrl: "https://amp.kansascity.com/opinion/readers-opinion/guest-commentary/article274749491.html"
-    cdnAmpWebUrl: "https://amp-kansascity-com.cdn.ampproject.org/c/s/amp.kansascity.com/opinion/readers-opinion/guest-commentary/article274749491.html"
-    type: article
-    provider:
-      name: Kansas City Star
-      domain: kansascity.com
     quality: 39
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "2023 \"Data Science and Machine-Learning Platforms Market\" Modern Trends and Future Growth Insights 2030 | 122 Pages Report"
+    excerpt: "Global \"Data Science and Machine-Learning Platforms Market\" research report provides Innovative Insights on the Strategies adopted by Major Global Players [Domino Data Lab, Dataiku, Lexalytics, TIBCO Software,"
+    publishedDateTime: 2023-05-05T16:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-data-science-and-machine-learning-platforms-market-modern-trends-and-future-growth-insights-2030-122-pages-report-2023-05-05"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 28
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global \"Speech and Voice Recognition Technology Market\" 2023 (Latest Report) Becoming the Top Industry Player by 2030 | 116 Pages Report"
+    excerpt: "The Speech and Voice Recognition Technology Market Scope and Overview Report for 2023 presents a detailed analysis of"
+    publishedDateTime: 2023-05-08T06:38:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-speech-and-voice-recognition-technology-market-2023-latest-report-becoming-the-top-industry-player-by-2030-116-pages-report-2023-05-08"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 21
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "+NIcrGcaT0pAHJTg9NaupvvGbY30H2AGrWKRPOR2IPiwrw2jXR/ny87Q/LpooOZRuc2C2wC/m8vuDm3+MVvPWchikl6zL/Fr4kHjzNsDW+Bn4ebn21vJfsqt74m25oFTQC9+j61MGlc0xEPcN6oQPHgyd7QcmFF3rohxFhhD7Jqm+5h6Vbju9AOP7bPtgTHQoB2AP8TveTTWl4E1p6pzMzD6iclbrv/J/kPxO6IBdURCzpdwP95YnYP+/Y1kypmHr8mljLPGmz2dXbTsj1FLXSNE8fzjBLqe4jv0frnvWnWd28f5esr1filVoe08zTfK4lcieNmg/5orVMAvpCk7vPJiBNP4QtarojhnDyriP00=;TQi7uaA5dEbp1aWQRsNIew=="
 ---

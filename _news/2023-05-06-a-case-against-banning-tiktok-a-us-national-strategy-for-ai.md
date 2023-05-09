@@ -94,6 +94,15 @@ related:
       name: SchaeffersResearch.com
       domain: schaeffersresearch.com
     quality: 21
+  - title: "SAS accelerates responsible innovation efforts with new collaborations and a focus on trustworthy AI"
+    excerpt: "The world has seen unprecedented artificial intelligence (AI) advances since AI and analytics company SAS launched its responsible innovation efforts one year ago. Amid this rapid disruption, SAS has increased efforts to bring trustworthy AI to customers,"
+    publishedDateTime: 2023-05-09T18:09:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-sas-accelerates-responsible-innovation-efforts-with-new-collaborations-/2023/05/09/9810756.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 4
 
 secured: "B+Z7InTjQwQJzuI+o+Dpogbg7B6YEicNIHJn52aeZkOMaEQZv/UDIkUiaAw+auY5qdcwnzqP2uuk2IR8pgpIT+50Gh3/izkC9tRrJfuxFUuSsTu3hztxT57FNDD2U5MvQm4x8MEgWm4fUF/KI1hU7S9CJ4PNkdXbeIbDRUJeU3eRhXVXQ9/9XmZC/7HjCC5q4A8syqSV02AHIDTIoHfGshqXg4DXQJpqdqpbQeEEwRV3YjYrnPtlYwZBoEkuZxb3i9ykjPo5Pny8699AjjhEEPC1U1h71TGbJPEkHep11jQ8kIsEAZ/UsTNuayRFdRz/jJajtw2o5900zMNXYbq8W5braMkKG/r0dGK9xIBZ8VmCGmGJuIqAZ8Y/fFfMna+nxogPPT8L3e3bDc6Xn5gY+Bq8HzW0YRwaP9kBk9+0yb5EpreGnUPxQNzHiJ88VOql1vHZi2IZNHM+0iOy3jRpdtC3vLKHakSBb9eVLLviinwIi9p/Pc/u10HGh5DotY5VjjFX7bL7gmJrZ1jYdGN/xg==;b42wxTEBwv/3HThNJjhbUA=="
 ---

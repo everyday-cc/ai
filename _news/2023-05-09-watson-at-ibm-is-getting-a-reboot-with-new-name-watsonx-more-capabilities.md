@@ -133,6 +133,20 @@ related:
         width: 611
         height: 457
         isCached: true
+  - title: "IBM Unveils Watsonx Generative AI Platform"
+    excerpt: "Though long gone from the HPC systems business, IBM is asserting itself in the HPC-AI and generative AI markets with its announcement today of IBM watsonx, a genAI and data platform.  Announced at its annual Think conference in San Franciscolso,"
+    publishedDateTime: 2023-05-09T17:38:00Z
+    webUrl: "https://insidehpc.com/2023/05/ibm-unveils-watsonx-generative-ai-platform/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 56
+    images:
+      - url: "https://insidehpc.com/wp-content/uploads/2021/11/insideHPC_Guide_CDI_cover.png"
+        width: 300
+        height: 391
+        isCached: true
   - title: "IBM unveils Watsonx, a tool to help companies integrate AI"
     excerpt: "IBM has launched Watsonx, a new artificial intelligence and data platform to help companies integrate AI in their businesses."
     publishedDateTime: 2023-05-09T10:43:00Z
@@ -146,20 +160,6 @@ related:
       - url: "https://techcentral.co.za/wp-content/uploads/2023/05/arvind-krishna-1500-800.jpg"
         width: 1500
         height: 800
-        isCached: true
-  - title: "IBM Unveils Watsonx Generative AI Platform"
-    excerpt: "Though long gone from the HPC systems business, IBM is asserting itself in the HPC-AI and generative AI markets with its announcement today of IBM watsonx, a genAI and data platform.  Announced at its annual Think conference in San Franciscolso,"
-    publishedDateTime: 2023-05-09T17:38:00Z
-    webUrl: "https://insidehpc.com/2023/05/ibm-unveils-watsonx-generative-ai-platform/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 54
-    images:
-      - url: "https://insidehpc.com/wp-content/uploads/2021/11/insideHPC_Guide_CDI_cover.png"
-        width: 300
-        height: 391
         isCached: true
   - title: "5 Ways Artificial Intelligence is Changing The Future Of Business"
     excerpt: "Tech - Artificial intelligence (AI) has been a game-changer in countless ways across the world. Companies and businesses are able to use enhanced AI systems to"
@@ -183,6 +183,15 @@ related:
     provider:
       name: CIOL
       domain: ciol.com
+    quality: 34
+  - title: "IBM debuts Watsonx product suite to streamline enterprise AI projects"
+    excerpt: "Watsonx was previewed at the company’s annual Think conference alongside several other new offerings. For its cloud platform, IBM is rolling out new compute options that provide access to graphics cards."
+    publishedDateTime: 2023-05-09T18:01:00Z
+    webUrl: "https://siliconangle.com/2023/05/09/ibm-debuts-watsonx-product-suite-streamline-enterprise-ai-projects/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
     quality: 34
   - title: "IBM joins the AI race with WatsonX; will 'multiply impact' of artificial intelligence across businesses"
     excerpt: "IBM, on Tuesday, announced its new WatsonX platform, which is an all-in-one AI building and integration tool for businesses. The iconic American multinational corporation, International Business Machines Corps (IBM) dipped its toes into artificial intelligence more than 10 years ago."

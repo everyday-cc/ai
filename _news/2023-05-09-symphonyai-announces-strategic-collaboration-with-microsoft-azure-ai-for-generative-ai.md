@@ -1,28 +1,26 @@
 ---
 category: news
 title: "SymphonyAI announces strategic collaboration with Microsoft Azure AI for generative AI"
-excerpt: "SymphonyAI introduces Sensa Copilot, a vertical application that integrates Microsoft Azure OpenAI Service and Azure Cognitive Search to drive value for customers in financial crime prevention and regulatory compliance PALO ALTO,"
-publishedDateTime: 2023-05-09T16:34:00Z
-originalUrl: "https://it.tmcnet.com/news/2023/05/09/9809924.htm"
-webUrl: "https://it.tmcnet.com/news/2023/05/09/9809924.htm"
+excerpt: "SymphonyAI introduces Sensa Copilot, a vertical application that integrates Microsoft Azure OpenAI Service and Azure Cognitive Search to drive"
+publishedDateTime: 2023-05-09T12:30:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/symphonyai-announces-strategic-collaboration-with-microsoft-azure-ai-for-generative-ai-1032305943"
+webUrl: "https://markets.businessinsider.com/news/stocks/symphonyai-announces-strategic-collaboration-with-microsoft-azure-ai-for-generative-ai-1032305943"
 type: article
-quality: 61
+quality: 71
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Microsoft AI
   - AI
-
-images:
-  - url: "https://marketplace.connectwise.com/content/images/thumbs/0000635_skykick_550.png"
-    width: 550
-    height: 353
-    isCached: true
 
 related:
   - title: "Microsoft Is Helping Finance AMD’s Expansion Into AI Chips"
@@ -86,20 +84,6 @@ related:
       - url: "https://www.techspot.com/images2/news/bigimage/2023/05/2023-05-05-image-15.jpg"
         width: 2560
         height: 1440
-        isCached: true
-  - title: "Microsoft and AMD team up to take on Nvidia in the AI Chip Market"
-    excerpt: "The partnership is part of Microsoft's strategy to secure the supply of AI processor chips and explore alternatives to Nvidia's GPU chips"
-    publishedDateTime: 2023-05-05T04:26:00Z
-    webUrl: "https://www.gizmochina.com/2023/05/05/microsoft-amd-team-up-ai-chip/"
-    type: article
-    provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 101
-    images:
-      - url: "https://www.gizmochina.com/wp-content/uploads/2023/05/hitesh-choudhary-t1PaIbMTJIM-unsplash-1024x575-1.jpg"
-        width: 1024
-        height: 575
         isCached: true
   - title: "Nowhere is safe from AI: Microsoft and AMD team up to develop new AI chips"
     excerpt: "It’s no secret that AI is the tech hardware industry’s current hot commodity; everybody wants to make some cash off the burgeoning popularity of machine learning tools such as ChatGPT and Google Bard. Nvidia is leading the AI charge, with its high-end processors already being used to train and run a variety of chatbots."
@@ -442,6 +426,15 @@ related:
       name: ExtremeTech
       domain: extremetech.com
     quality: 49
+  - title: "SymphonyAI collaborates with Microsoft Azure AI for generative AI"
+    excerpt: "SymphonyAI, a leader in high-value enterprise AI SaaS for strategic industries, announced today a strategic collaboration with Microsoft to enhance its portfolio of vertical AI software applications using Microsoft Azure AI,"
+    publishedDateTime: 2023-05-09T18:01:00Z
+    webUrl: "https://www.finextra.com/pressarticle/96754/symphonyai-collaborates-with-microsoft-azure-ai-for-generative-ai"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 49
   - title: "Privacy-Preserving Computation Market Size, Growing Demand and Trends 2023 to 2030 |Basebit.ai, Google Cloud, Microsoft Azure, IBM Cloud"
     excerpt: "The Privacy-Preserving Computation Market research studies not only save you hours of effort but also give your"
     publishedDateTime: 2023-05-05T08:53:00Z
@@ -560,6 +553,6 @@ related:
       domain: timesnownews.com
     quality: 17
 
-secured: "tvIzM24NsIkVvERUGmRJ81EAZm1hzl7wb5NIh1Bf78769K9psRHAKrSjw+iO8qKiznQ6n7TKxWxAHyRB2nClujAvHEgqafUOldQO8kMqr0rRiowBSxFP5e02kUbKW/JuALgkw2m3FL+15FnQ1Cm6tIEHD2g/7MArPZIeFlW6Zh+pe2djq2hDO/sWIbH1MGr18N3N1oiPQ9Ph5o8+1w107Y9uM91G65S9w+i2Gtdjv1z4Y/EavQJHug+bABZJKQm362A7SDI1xeUhprxme9vLYlCbv3pcbgJ5yCCBF9RdX715mwuHK2vCNyFsc/0fnRmrNuXewjNmcOpr6cBBnlRYIbdA6lSuN1mCtiV1nKVtcbM=;f47pPFirWPMEg3+eDetRtw=="
+secured: "luJkhP3uMCiDLKoP3vJGNg/pxPkTyZAK9hRW17q0RHkkjUEmEt7ogen3rJlOX02HbD0BYYm21qoe+7r8WRc20zbZLwha3QDeAO5Y61Z73ZFXKhyTZLUVa/lAYavnKaziHyDuDAuxLKoMZYVg2R+Du/6y5+4eT27mXHePdN3vZc/EuTHR2jQSn6SdQaSZYzJB/ZkRerhO8cnFNfdTcw8jAfGPt9W0y9aS29bUZp2Je+QXtRjj6pokPdKnHqKIkctvXK7WWcXIrprFgatN5mhPyX1gWdbRJte16sN93aYzCD0ayne5AKDo/MjFdM0QREm1iahs1qCiB2AWjVx2OxkGmViIiMx5uXsCpJ6tCjkJuxk=;DvNU7bzATalGCccs/UX6/A=="
 ---
 

@@ -91,6 +91,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 29
+  - title: "Should Governments Use ChatGPT And AI Generated Content? US Federal And State Government Leaders Share Thoughts"
+    excerpt: "Government agencies across all levels of government are exploring the potential of using AI-generated content and language models to improve their services, automate processes, and enhance decision-making."
+    publishedDateTime: 2023-05-09T18:30:00Z
+    webUrl: "https://www.forbes.com/sites/cognitiveworld/2023/05/09/should-governments-use-chatgpt-and-ai-generated-content-us-federal-and-state-government-leaders-share-thoughts/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 27
 
 secured: "BfqZ0oOfO2/Cd8xJTStRXw7G3twnVgso4R6CXuIc/c/lBwRDZiLK9Vn3h+bWsWeJ7M3GcacigpnXEIjuq6zz1ER+OlhbZTWjbFXUrpb5mfj2xw7ZaJJJbmxvQYkUw4Sm1I/vSnU0LZLMen1MxEVWhUDCruDEUXCS5+jlHHQq3+gZmfhcSkDyyEOSsxcxvOMDqTBts4qjuGgfzVwHAnwjqkC0xLKn+HMNPi2RnXOFxRZHB6MFlGV8U6raD/pbHdxr8PqiA5RtHa+cXI5Lhv1nZMT8O5UlS0NJaIkKWJZ0YRUawbqTr0hG8e5sjUIEbE7VdwIXH0z2zwe34+wYLwY4c/sSeDyjoMqa38Mz7u7CMDXHyEifzkNN66RaKEvbpbCK4GGGkdXUFLw2q6ebastKNynVwDjaOQ7rDbCwZDJ4vsJAtRyWmjQn80xuyWyqEvzRJbA/VYr+lkLwbbnSWfl/m1TE+7RR0YF16Mh4PmuBxUzEpkd9lFxsQSUNuCCOwE8zWvXmBF/FJr9Pg9vqR2J1zA==;F5cakmVqcE2xHP2061zD2A=="
 ---

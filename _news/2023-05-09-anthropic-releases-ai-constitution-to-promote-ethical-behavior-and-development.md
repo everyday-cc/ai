@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/anthropic-releases-ai-constitution-to-pro
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/anthropic-releases-ai-constitution-to-promote-ethical-behavior-and-development/amp/"
 type: article
 quality: 100
-heat: 120
+heat: 130
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI with a moral compass? Anthropic outlines “Constitutional AI” in its Claude chatbot"
+    excerpt: "AI startup Anthropic detailed the specific principles of its \"Constitutional AI\" training approach that provides its Claude chatbot with explicit \"values.\" It aims to address concerns about transparency,"
+    publishedDateTime: 2023-05-09T21:16:00Z
+    webUrl: "https://arstechnica.com/information-technology/2023/05/ai-with-a-moral-compass-anthropic-outlines-constitutional-ai-in-its-claude-chatbot/"
+    ampWebUrl: "https://arstechnica.com/information-technology/2023/05/ai-with-a-moral-compass-anthropic-outlines-constitutional-ai-in-its-claude-chatbot/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/05/ai-with-a-moral-compass-anthropic-outlines-constitutional-ai-in-its-claude-chatbot/amp/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 80
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/05/anthropic_constitution_2-800x450.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "A Radical Plan to Make AI Good, Not Evil"
     excerpt: "OpenAI competitor Anthropic says its Claude chatbot has a built-in “constitution” that can instill ethical principles and keep systems from going rogue."
     publishedDateTime: 2023-05-09T16:00:00Z
@@ -60,6 +76,6 @@ related:
         height: 628
         isCached: true
 
-secured: "mVjsb6HN+ztRuuZcaIMvmuEwx1ivBD6h+LKafzHfQ1LpkUlvILdl1Ncm5rtd9sO7j++OQ37K2adxRh3yTag5g9g6a8x+ZCTpY6YHDIoj3EeY7FArlW/oPOZeNyjAp3pOUinB8e2mH4wTiKu6fNJKlMa8Yc4qYfmskJA+bzp0bAPJHact/Vgy4pB6N4mtlQqLY1PEcN7ZtT/PvFi2/w5cZ8lZC5XqEj1Xr3EDexQD5vJWf6rJAcmwLAJSNOq0zsKnTJIdWgRzW0bat1fDoZDsJPLzdDJVKUR6FawmOFrmF5jgfSFG1G04O4gF5JmFZZ0Q09p04fw7jq5rOH8C6qVGiEd0/SUAelE5ZpqVuPMniB0=;xCy0eT0AjwICetwjvAgZww=="
+secured: "FZraWYPjbJqX0Zi+1lZgEgvNL1t9TxNN4V9CjQPqdmnuBNlg0HGRjOypAlafpqYwa07c5zVYAxSLqdWE53hW9/hhsU6fjOIAXnYizhqYkXACkhJ0XKYdPfsFYZq/eGsyqQSeXguhD5q6oaW9tKHu2qNa5vmVRslpCobQ02FSn5EI24QuI2eh3C3XbEldXFi2Cxq29YwsJh4X6jN9Dt/axVAkrtv96mw6GWJQvKUq3MDsjQwXmDwkyx4iyp2zKfOdhWxfw4II3LkTL4L3Ryvtr2bbmYwp6g0VPs1VBTnPeOXbOP/U6dn+o87ARfwTJw/Jr+lRTwm66BxjCalUeMZsCHgRmcx2l6SjZ0F4m/PJnGrW31RclsrlTPlHt2yNowcbLIhc2wRzn9yk9kPpGIClgeQ4fd5YfL0CdO0HWEwxKXKyA82Z0QsE70bKZLcRCjl90573wmFzWzrwRNWsyTUblDXaNsVpEQK/wcbczJ+33gni5waeMlnrjBgyNkTqB4jwdwsLMxL2QsRwgJtLRDMwZg==;Po5JdOUBjvjmc38bd7BpnQ=="
 ---
 

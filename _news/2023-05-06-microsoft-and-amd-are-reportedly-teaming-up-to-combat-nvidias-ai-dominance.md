@@ -85,20 +85,6 @@ related:
         width: 2560
         height: 1440
         isCached: true
-  - title: "Microsoft and AMD team up to take on Nvidia in the AI Chip Market"
-    excerpt: "The partnership is part of Microsoft's strategy to secure the supply of AI processor chips and explore alternatives to Nvidia's GPU chips"
-    publishedDateTime: 2023-05-05T04:26:00Z
-    webUrl: "https://www.gizmochina.com/2023/05/05/microsoft-amd-team-up-ai-chip/"
-    type: article
-    provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 101
-    images:
-      - url: "https://www.gizmochina.com/wp-content/uploads/2023/05/hitesh-choudhary-t1PaIbMTJIM-unsplash-1024x575-1.jpg"
-        width: 1024
-        height: 575
-        isCached: true
   - title: "Nowhere is safe from AI: Microsoft and AMD team up to develop new AI chips"
     excerpt: "It’s no secret that AI is the tech hardware industry’s current hot commodity; everybody wants to make some cash off the burgeoning popularity of machine learning tools such as ChatGPT and Google Bard. Nvidia is leading the AI charge, with its high-end processors already being used to train and run a variety of chatbots."
     publishedDateTime: 2023-05-05T11:02:00Z
@@ -221,6 +207,15 @@ related:
         width: 647
         height: 450
         isCached: true
+  - title: "SymphonyAI announces strategic collaboration with Microsoft Azure AI for generative AI"
+    excerpt: "SymphonyAI introduces Sensa Copilot, a vertical application that integrates Microsoft Azure OpenAI Service and Azure Cognitive Search to drive"
+    publishedDateTime: 2023-05-09T12:30:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/symphonyai-announces-strategic-collaboration-with-microsoft-azure-ai-for-generative-ai-1032305943"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 71
   - title: "Microsoft reportedly rallies behind AMD to develop chips for AI workloads"
     excerpt: "Microsoft is reported to be working with AMD to develop AI-capable chips and provide an alternative to Nvidia."
     publishedDateTime: 2023-05-08T01:25:00Z
@@ -296,20 +291,6 @@ related:
       - url: "https://www.traveldailymedia.com/assets/2023/05/shutterstock_2130878285.jpg"
         width: 1000
         height: 667
-        isCached: true
-  - title: "SymphonyAI announces strategic collaboration with Microsoft Azure AI for generative AI"
-    excerpt: "SymphonyAI introduces Sensa Copilot, a vertical application that integrates Microsoft Azure OpenAI Service and Azure Cognitive Search to drive value for customers in financial crime prevention and regulatory compliance PALO ALTO,"
-    publishedDateTime: 2023-05-09T16:34:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/05/09/9809924.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 61
-    images:
-      - url: "https://marketplace.connectwise.com/content/images/thumbs/0000635_skykick_550.png"
-        width: 550
-        height: 353
         isCached: true
   - title: "NVIDIA shares are trading higher after Microsoft denied AMD is involved with its Athena AI chips."
     excerpt: "Never miss a trade again with the fastest news alerts in the world! This headline only article is a sample of real-time intelligence Benzinga Pro traders use to win in the markets everyday. Want the fastest, most accurate stock market intelligence? Want ..."
@@ -444,6 +425,15 @@ related:
     provider:
       name: ExtremeTech
       domain: extremetech.com
+    quality: 49
+  - title: "SymphonyAI collaborates with Microsoft Azure AI for generative AI"
+    excerpt: "SymphonyAI, a leader in high-value enterprise AI SaaS for strategic industries, announced today a strategic collaboration with Microsoft to enhance its portfolio of vertical AI software applications using Microsoft Azure AI,"
+    publishedDateTime: 2023-05-09T18:01:00Z
+    webUrl: "https://www.finextra.com/pressarticle/96754/symphonyai-collaborates-with-microsoft-azure-ai-for-generative-ai"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
     quality: 49
   - title: "Privacy-Preserving Computation Market Size, Growing Demand and Trends 2023 to 2030 |Basebit.ai, Google Cloud, Microsoft Azure, IBM Cloud"
     excerpt: "The Privacy-Preserving Computation Market research studies not only save you hours of effort but also give your"

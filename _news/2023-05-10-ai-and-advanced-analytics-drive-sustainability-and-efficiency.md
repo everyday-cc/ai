@@ -1,28 +1,26 @@
 ---
 category: news
 title: "AI and advanced analytics drive sustainability and efficiency"
-excerpt: "SAS offers AI and advanced analytics solutions that transform data into better decisions. Underpinning these solutions is SAS ® Viya ®, SAS' cloud-native, massively parallel AI and analytics platform."
-publishedDateTime: 2023-05-09T17:49:00Z
-originalUrl: "https://technews.tmcnet.com/news/2023/05/09/9810792.htm"
-webUrl: "https://technews.tmcnet.com/news/2023/05/09/9810792.htm"
+excerpt: "City of Istanbul and Wienerberger Group reduce emissions and optimize operations with SASORLANDO, Fla., May 9, 2023 /PRNewswire/ -- SAS INNOVATE"
+publishedDateTime: 2023-05-09T18:26:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/ai-and-advanced-analytics-drive-sustainability-and-efficiency-1032308266"
+webUrl: "https://markets.businessinsider.com/news/stocks/ai-and-advanced-analytics-drive-sustainability-and-efficiency-1032308266"
 type: article
-quality: 39
+quality: 49
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Microsoft AI
   - AI
-
-images:
-  - url: "https://mma.prnewswire.com/media/2070825/istanbul_SAS.jpg"
-    width: 400
-    height: 267
-    isCached: true
 
 related:
   - title: "AI And Predictive Analytics: Moving From Insights To Foresight"
@@ -42,6 +40,6 @@ related:
         height: 800
         isCached: true
 
-secured: "1dp4pGAZK7f4+d6NlAJrpUrgZOt/rMk4J0MqTRdD0u1OSAkE1GFVNEY32vTbezOi/5k+FU/uLri4qKJP2Eh9x8oAP4qwgvGHKi9z13So2dqQ0f2xHyK52pmobvxiKiLnVZ1YYHqs29A/dIxhbC7shYVLbSIC42fmj5vEFp3TR/81VqRkQq9msxj4cMAum/A6wo0e1fK5V6l1iUQ5kNHNQX1buuPHHyeEJQzdBoRirff8ydJHQXbAilewsHFoG6zvRKUfJL7SS4ttuH9hyUJZGxpvO48ap3RBqhB0Ix5SjYdqvlZBOqTu5bocssLr/1UyQqjPRqQ5ND/amDcbn/hMv/mTxvFSsJb8SLPQOFQF5Eg=;HOEuwkj5tgEVYCkUNGpPyA=="
+secured: "1UvTZCIjHpAiQbPh4lPfENRPhi8DyxK3wxxsSsaBZ+jF1qQaNKMWeHEM3fvGJOWHnJGzJvgVBsLxhjIeSgThA8l0YDYD3KprlGN5s3gStag15uCdIO2GVzEO5oS615QBQP8zxzvWQInScCPv9kyOYWaqcn4LDf03ePgr5BdqY9dOXkmerdqtKk2l1qO3yZ7Pf/My2A95WvUJbQznYrdxGkRS8dG/eb5oq7F94AlnQCCr0tOyf8P6q1uNMO0do93CIZiNlpLFueb7JhEsSdxPBdd+/qsfrFIINSTJQqaJqj6y606gtzbXqqlRKuDKd/rmAtV+QMNkRAbiT2wTr2qn9pF8/QaL3Ode0DF1GKdGODLSIhGuWIp3glL1hWle/Br9JmALJUTOn3W58bar3g7Pj8iygqiXJ7vfzVtpvzoWPgWFh2VIlCZQEf8av4sez4dYSMuCE8JqemNh9dd3rxbJxBIJQ0z5+28Kg3lO4lILA9gt0kmobFOJiC5CBbYTIyhz+zSDqSgXYmgaHONCoMUtHA==;B87J325WkIHsBrfW0WLPBQ=="
 ---
 

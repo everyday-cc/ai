@@ -32,19 +32,14 @@ images:
 
 related:
   - title: "AI and advanced analytics drive sustainability and efficiency"
-    excerpt: "SAS offers AI and advanced analytics solutions that transform data into better decisions. Underpinning these solutions is SAS ® Viya ®, SAS' cloud-native, massively parallel AI and analytics platform."
-    publishedDateTime: 2023-05-09T17:49:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/05/09/9810792.htm"
+    excerpt: "City of Istanbul and Wienerberger Group reduce emissions and optimize operations with SASORLANDO, Fla., May 9, 2023 /PRNewswire/ -- SAS INNOVATE"
+    publishedDateTime: 2023-05-09T18:26:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ai-and-advanced-analytics-drive-sustainability-and-efficiency-1032308266"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 39
-    images:
-      - url: "https://mma.prnewswire.com/media/2070825/istanbul_SAS.jpg"
-        width: 400
-        height: 267
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
 
 secured: "ewbcOyatadIR+Q7Q7ZtwJOKsmdZDSYIHx09fyzE2wRa4/hDoeMJ2miWW6CC/k1Gd953tWK0VcrYlI+0LwkpBocfRa8ye+i/3VkbEv7t1bOonnm5Hs0az7Zy3xTrmfB3WScY753DhDhGwPWDFTHAmSGwBHRDkViIclL5r1m6uPvitpGbCYq8m8rv1mIGg2ca6avBXEI0ygddr1NQRtRDjYDX35PDhGs50ke7j2JUsUEVjh5a/+IYd8r2Kt8lBnDgc3C3mylFtcuW3JPfs3speN0gS1Fz+SCXmByjXYYm6eFuDVQBVm0P63jCAQ+20hMsKBilf91zXz0k1TWUH+MAvh58oBxmbyfKDoxYbE/DDATRpRGUUbq9JE3ekCv9mrIBpU5ghGrQOlv+BqOn43MfZdusZh+UVPhQqULCu8Ilv+Bj5kh4yoBTuIJecuMWjqmtt+mRRsmS/+0LB6vXWqBYPs+RUfkvFLvuHSc9WekiPNjDeOOoR9zqzIg/RG+2svA83+spTrDs+ztsLBYdpqxLlqQ==;wjrenadMtip73xBqBMbSCg=="
 ---

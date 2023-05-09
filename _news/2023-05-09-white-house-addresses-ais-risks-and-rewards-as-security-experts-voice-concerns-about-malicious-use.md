@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/article/white-house-harness-ai/amp/"
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/white-house-harness-ai/amp/"
 type: article
 quality: 90
-heat: 90
+heat: 100
 published: true
 
 provider:
@@ -29,6 +29,17 @@ images:
     width: 1200
     height: 750
     isCached: true
+
+related:
+  - title: "8 Questions About Using AI Responsibly, Answered"
+    excerpt: "Generative AI tools are poised to change the way every business operates. As your own organization begins strategizing which to use, and how, operational and ethical considerations are inevitable. This article delves into eight of them,"
+    publishedDateTime: 2023-05-09T17:01:00Z
+    webUrl: "https://hbr.org/2023/05/8-questions-about-using-ai-responsibly-answered"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 19
 
 secured: "7Y1oEbWeo7j5PUrBD+XYr+2PkKEfNXKupjTtZvOUH8BGbBUIarSstvN3Xbx44eQeJMd7lIR05RBw/POpaEplKKx64CpO1nNRTzneRmBdc5B02Okn5xaVnLCYv0B5eyhOSZUfWzvl2tpEhsI2425Em+YBE3rrur3DdCcULvciE+oLwISn0gls3qkv4b3pthSIgjAYPN9AUKp52V7iY8cx0eFbpebyVH9Dw5LUeP/500IPM3mk1I+zNyLACRLKMFaY423ilTCuw+tibJM5AkQH1eCzdoD3iUem7x6/lC350pMDskVDWLqFnDlLMO4lLOHIVJ2STLAxl+aFy588LYOgr4yvaWugQ0lMLmNO3J86ZOc=;KeKGEZInEMVent3fX8pfYQ=="
 ---

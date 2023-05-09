@@ -85,10 +85,38 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Self-Driving Taxi Market Research | 2023-2030"
+    excerpt: "The Global Self-Driving Taxi market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players,"
+    publishedDateTime: 2023-05-08T04:10:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-taxi-market-research-2023-2030-2023-05-08"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Voice Recognition Systems Market Research, 2030"
     excerpt: "The Global Voice Recognition Systems market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players,"
     publishedDateTime: 2023-05-08T03:58:00Z
     webUrl: "https://www.marketwatch.com/press-release/voice-recognition-systems-market-research-2030-2023-05-07"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Self-driving Cars Market Research | 2023-2030"
+    excerpt: "The Global Self-driving Cars market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players,"
+    publishedDateTime: 2023-05-09T04:06:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-cars-market-research-2023-2030-2023-05-09"
     type: article
     provider:
       name: MarketWatch
@@ -112,6 +140,15 @@ related:
     excerpt: "The Global Deep Learning Camera market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players,"
     publishedDateTime: 2023-05-08T07:33:00Z
     webUrl: "https://www.marketwatch.com/press-release/deep-learning-camera-market-research-2023-2030-2023-05-08"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
+  - title: "Cloud Natural Language Processing Market Size, 2030"
+    excerpt: "The Global Cloud Natural Language Processing market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players,"
+    publishedDateTime: 2023-05-09T01:08:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cloud-natural-language-processing-market-size-2030-2023-05-08"
     type: article
     provider:
       name: MarketWatch

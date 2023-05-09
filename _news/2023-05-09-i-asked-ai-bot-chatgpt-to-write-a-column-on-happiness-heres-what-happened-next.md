@@ -88,20 +88,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Screenwriters take aim at artificial intelligence, ChatGPT"
-    excerpt: "Not six months since the release of ChatGPT, generative artificial intelligence is already prompting widespread unease throughout Hollywood. Concern over chatbots writing or rewriting scripts is one of the reasons TV and film screenwriters took to picket lines earlier this week."
-    publishedDateTime: 2023-05-05T01:45:00Z
-    webUrl: "https://www.usatoday.com/videos/entertainment/2023/05/05/screenwriters-take-aim-artificial-intelligence-chatgpt/11799655002/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 52
-    images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/04465331-5204-49cb-8f02-71d5ec64e61c_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Forget ChatGPT. These Are the Best AI-Powered Apps."
     excerpt: "Chat features built into Duolingo, Expedia and others can be more useful than ask-me-anything bots."
     publishedDateTime: 2023-05-07T12:00:00Z
@@ -124,6 +110,20 @@ related:
       - url: "https://cdn.techwireasia.com/wp-content/uploads/2023/05/shutterstock_2261871805-897x500.jpg"
         width: 897
         height: 500
+        isCached: true
+  - title: "UAE: New Chatgpt AI Assistant To Help Plan Visits To Yas Island"
+    excerpt: "Visitors to Abu Dhabi's Yas Island can now get personalised guidance and information about the latest offerings through an AI assistant. Miral, the leading creator of immersive destinations and experiences based in Abu Dhabi,"
+    publishedDateTime: 2023-05-09T19:34:00Z
+    webUrl: "https://menafn.com/1106210851/UAE-New-Chatgpt-AI-Assistant-To-Help-Plan-Visits-To-Yas-Island"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/updates/pr/2023-05/09/KT_6610bimage_story.jpg"
+        width: 600
+        height: 337
         isCached: true
   - title: "It’s Not Just About ChatGPT. Other AI Technologies Are Heading to Schools"
     excerpt: "How can schools stay on top of this rapidly changing technology? And how can educators separate hype from substance? Education Week asked four experts in technology, education, and artificial intelligence to look into their crystal balls and share their thoughts on how AI will likely change teaching and learning."

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.kansascity.com/opinion/readers-opinion/guest-commentary/
 cdnAmpWebUrl: "https://amp-kansascity-com.cdn.ampproject.org/c/s/amp.kansascity.com/opinion/readers-opinion/guest-commentary/article274749491.html"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -19,92 +19,6 @@ provider:
 topics:
   - AI in Autos
   - AI
-
-related:
-  - title: "Self-Driving & Driverless Cars Market 2023 Analysis by 2029 – Tesla, BMW, Daimler"
-    excerpt: "A new market research report added to source of Market Intelligence Data is an in-depth analysis of Self-Driving & Driverless Cars Market. This research reports provides insights on current and future industry trends,"
-    publishedDateTime: 2023-05-05T05:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-driverless-cars-market-2023-analysis-by-2029-tesla-bmw-daimler-2023-05-05"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 94
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Machine Learning in Manufacturing Market Dynamics and Drivers: 2023-2031"
-    excerpt: "Global “ Machine Learning in Manufacturing Market ” Research Report 2023-2031 offers a detailed analysis of the industry landscape, including growth drivers, restraints, and competitive dynamics of Top Manufacturers [Teradata,"
-    publishedDateTime: 2023-05-07T16:41:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-in-manufacturing-market-dynamics-and-drivers-2023-2031-2023-05-07"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 70
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Autonomous or Driverless Cars Market [2023-2030] | Top Key-Players in the Industry are - Tesla, Volkswagen, Nissan, Volvo"
-    excerpt: "Global Autonomous or Driverless Cars Market [2023-2030] research report provides a key analysis of the market status of Autonomous or Driverless Cars manufacturers with the best facts and figures, definitions,"
-    publishedDateTime: 2023-05-05T08:56:00Z
-    webUrl: "https://www.marketwatch.com/press-release/autonomous-or-driverless-cars-market-2023-2030-top-key-players-in-the-industry-are---tesla-volkswagen-nissan-volvo-2023-05-05"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 59
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Self-Driving Taxi Market Research | 2023-2030"
-    excerpt: "The Global Self-Driving Taxi market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players,"
-    publishedDateTime: 2023-05-08T04:10:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-taxi-market-research-2023-2030-2023-05-08"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Self-driving Cars Market Research | 2023-2030"
-    excerpt: "The Global Self-driving Cars market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players,"
-    publishedDateTime: 2023-05-09T04:06:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-cars-market-research-2023-2030-2023-05-09"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Self-driving Bus Market Growing Demands, Trends and Business Outlook 2023 to 2029 with top Players – AV Volvo, Tesla, Navya"
-    excerpt: "The latest global Self-driving Bus Market report provides conclusive information about the industry overview, modern trends, demand, and recent development affecting the market growth during the upcoming year."
-    publishedDateTime: 2023-05-05T05:28:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-bus-market-growing-demands-trends-and-business-outlook-2023-to-2029-with-top-players-av-volvo-tesla-navya-2023-05-05"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 43
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "m1HXfL4+ZHPMh9iSQtYw6j4lCRB0LAli77SIboEYDWkBrvNYTmJbGirngKbFhduGj/LrQZ20gfqV2hsOx4DnEYcgg3galCEuq2A2t7SYw3BIWIE8ZObbcWnVjXVjj/Uqaxfr7ChEFAXfz7HgpLoyZRFZDU6upmaFWg0GgAQvRAQGQFvbSX+OmVRrBTjThQcOw5JEp3LVME0Kwo8jxZg43bliS4ldKAsE6Zqnh15odvcPzdIHh4FOVVIvkcR1PJTnxtc2Smn0QhST6Dek8GyHQj+vC9IMCbZUDn49gA5FZ/nnzQnxXEGEYT7kv2w0r7syL5EXHEQ+uioKJDsIiKB+HXvqREcAGT/XYGi32RCuWrLa0vRGRFSeff5aCVkiEjYj2tqDqN4VYM9j7SccQiyXuytFTR0aHXo2/sRT/Jf7BODaueyIOn90Ff7h2xYg+iEaRxeXsWc8uvBIhHHB+FcbOTYs+XLh3bdAPU+I8DUFoBF+ex+kBMfh8Xd9cDTZmqNgVuyq/RFmVbZreb7WIuFl4Q==;q8hxBvLdaxk3u979n81UMA=="
 ---

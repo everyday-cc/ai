@@ -44,6 +44,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI with a moral compass? Anthropic outlines “Constitutional AI” in its Claude chatbot"
+    excerpt: "AI startup Anthropic detailed the specific principles of its \"Constitutional AI\" training approach that provides its Claude chatbot with explicit \"values.\" It aims to address concerns about transparency,"
+    publishedDateTime: 2023-05-09T21:16:00Z
+    webUrl: "https://arstechnica.com/information-technology/2023/05/ai-with-a-moral-compass-anthropic-outlines-constitutional-ai-in-its-claude-chatbot/"
+    ampWebUrl: "https://arstechnica.com/information-technology/2023/05/ai-with-a-moral-compass-anthropic-outlines-constitutional-ai-in-its-claude-chatbot/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/05/ai-with-a-moral-compass-anthropic-outlines-constitutional-ai-in-its-claude-chatbot/amp/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 80
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/05/anthropic_constitution_2-800x450.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "A Radical Plan to Make AI Good, Not Evil"
     excerpt: "OpenAI competitor Anthropic says its Claude chatbot has a built-in “constitution” that can instill ethical principles and keep systems from going rogue."
     publishedDateTime: 2023-05-09T16:00:00Z
@@ -59,6 +75,6 @@ related:
         height: 670
         isCached: true
 
-secured: "NbF0CZ2L/+fNCXFbu08hgJLqJZHx0mPGct3rSRHqazZ6sUm31rZGkotNEhrz08u9FyryGFX8xXu0aiP0Ei8CIzfBjgLTWk2k3FtUke8SDh785t6c2AbGpIIrw0/MHr3AT3dXsDG0KMr6ZISKOZoJ5WuSs2xUvQj+GNNP7coD7ldaLnjyKdE4NjsaiTpZ0HzX1/BUCrCxV8db9C9CpiwYJwoeRSeEaI4pbOedCfvMpbUSOYLkxqnnCxwe0e++b0/v8NtN95NmW8jdUc0+JKL4RYFS70Z9zDAyZuvwQpQQFcIBAo3PdQEafxuECt77EFH/eYLNjHg9uhcdJl+lBc5OV73hiRz87HRA+thZQMFsUuo=;m7kTMVg4hJ9aVnE1DP2Ghw=="
+secured: "2CTvfb8lT4UTdFF1uONT1OHKLG6iTjN+3DkKIA4Td6xHS38I4WNojx/PLWzApITEOM02CjwD1fJxeyosBQIT1Sb76qXKHVGf5Xa9gQAE4iLAqUNPCXrqlePUWz11W/rfUhVMRpUOGzKOJ6DCunDdbs9kEdDGzlCDqnBvj2JXgXrwjPlpajfnySWQnjIkInr/2WxL+EizSDTx6J2bRCA5xO/H8m/juLB29vYpPRa9FnNldzybFsAKFHU4+Nu9DXRn9rEToSPbX6zumm1Cpd0fzWoCLcyBoNxdKLqbDnbFwryHTWPPgu8N7EEHLKidJcCU57DsmOzGaI+he2fUQOZzxIlIPJKoeABN0GR+iNj5Ibu1b0XdrSqyqQZ0Nfeaf/mU/bGGxmGWyyjYvX2heZiPdAwGtRf4kg+1Jp9lNa69sphVY4iw9pUkZ+3KTw/d8qxtqSQ9AFfbaxwiRVcCNpNuVbFGckJJxHehiDATyaYIoMTQiD1nlmDRJViF3bmAKXwKtvPL7mIAazhI0tVHR5GbzA==;ooODpozJuG9q14lod8fjvw=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/biden-administration-takes-action-to-prom
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/biden-administration-takes-action-to-promote-responsible-ai-innovation/amp/"
 type: article
 quality: 89
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -98,6 +98,15 @@ related:
       name: SchaeffersResearch.com
       domain: schaeffersresearch.com
     quality: 21
+  - title: "SAS accelerates responsible innovation efforts with new collaborations and a focus on trustworthy AI"
+    excerpt: "The world has seen unprecedented artificial intelligence (AI) advances since AI and analytics company SAS launched its responsible innovation efforts one year ago. Amid this rapid disruption, SAS has increased efforts to bring trustworthy AI to customers,"
+    publishedDateTime: 2023-05-09T18:09:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-sas-accelerates-responsible-innovation-efforts-with-new-collaborations-/2023/05/09/9810756.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 4
 
 secured: "j4DNAT1ODy7ZMLh9NDfkAtHpGZVUV+78AhqMGtAYRIRAt7k6LWWYbNRTfYxetl52AfI3ctMVJWfUBLAH0f3l3t/wlqdOxxiXx7CxOznfIyuxvXlLgd9xgS1BKRn2AwsON92bHlzFTzoF7oHUOpMP1oMgpgIJQlJcj+wDushgcCQKntVM/RPX9iF67GMB4AY/ijKwqMUmTPw0fC2Dd4rmOJOnPu4StlaMllCpM/wMXWzFKIUyJyTZJ1wBaWs5NBOgzpBknOn/+VLbWq5QJDibEOQZnyvDMwp3B5HrzocB/nEAUebnAbFrnllyfSxienM2H6WG37CtmZCyYjSCUDlCswGw1jK40IDYzvsdQ3LxTfQLyaYloap4tl1gh7sPK0OOv6S5GMDDY7DQ5jEn9F23QCzEETm+BTUM7aBBIS434QAywACR6u1ZuA++GFdoOyS/ajFSj8l9myd8ostocMt0kOgKsmW7p8rKVfamJzbBmHsiV0kflLv/IWQ7boJYykPtI99nfvTGyoR6ypn//cj8Nw==;RxzKm+YfBsiK1AZzD0ohPQ=="
 ---

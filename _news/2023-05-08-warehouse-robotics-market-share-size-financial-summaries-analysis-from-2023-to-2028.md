@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/warehouse-robotics-marke
 webUrl: "https://www.marketwatch.com/press-release/warehouse-robotics-market-share-size-financial-summaries-analysis-from-2023-to-2028-2023-05-08"
 type: article
 quality: 77
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -38,20 +38,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 62
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Cognitive Services Market Share From 2023 And Unlimited Opportunities for New Companies"
-    excerpt: "Cognitive Services Market Size 2023 | New Report (116 Pages) | Analytics | In This Reports Cognitive Services Market"
-    publishedDateTime: 2023-05-05T04:22:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cognitive-services-market-share-from-2023-and-unlimited-opportunities-for-new-companies-2023-05-05"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 61
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

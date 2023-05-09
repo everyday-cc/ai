@@ -94,6 +94,15 @@ related:
         width: 822
         height: 500
         isCached: true
+  - title: "Should Governments Use ChatGPT And AI Generated Content? US Federal And State Government Leaders Share Thoughts"
+    excerpt: "Government agencies across all levels of government are exploring the potential of using AI-generated content and language models to improve their services, automate processes, and enhance decision-making."
+    publishedDateTime: 2023-05-09T18:30:00Z
+    webUrl: "https://www.forbes.com/sites/cognitiveworld/2023/05/09/should-governments-use-chatgpt-and-ai-generated-content-us-federal-and-state-government-leaders-share-thoughts/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 27
 
 secured: "R1WfjMbZ+9SUbh1Za7rb8gM2i/9jxxNvsquBEv4bGWMkyUrxwBVrLL+yfCaHIPG/iQgpGUhrXRgh4N1UuDnQV8TSnJG0sYV48v7UVOb/0eWsHlty63l3r27Jo3eGl85pM+ymrZnWaW5PLrgiu1TPX/nYj3C3V+pfo6lX5J3RXN/hl/VNKUGNysTSKkpAC+bwFoq5sBsAGoPFMtWa/m9c+O6pQKV/3SgKQQYJ2J2i4sraxbP6+tC+tviAdAbaHWUhuUQ8uMV0UeMsKBWgr8heLNdQWDI4GHbBhek1j9XMM8oQNMSEoG8oiAl7m22Hd0G1eeuBVtEKY2IRJxW6XsNpq5CPAtoLbbCnQe28GGqy6h2MoI7bBYA3Y525SM3VRMy+lPP9zFxVZ0fIe7kMxurWiZcLhitQtbInrVnVRoLxrYEL1XXEGZvSPTExxTjyfAA1Q0bF+iPqvBVmw5twesp5LL87yK/XfiiQVr7BgC9KNknt5agZnxqPBylb5QcMm6nFUITNXzgd9POGKt77Jz874A==;/NTOtjevZsadZJy3vdu54A=="
 ---

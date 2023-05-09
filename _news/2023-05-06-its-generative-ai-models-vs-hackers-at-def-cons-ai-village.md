@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/its-generative-ai-models-vs-hackers-at-de
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/its-generative-ai-models-vs-hackers-at-def-cons-ai-village/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -52,20 +52,6 @@ related:
       - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/01/Numbers-Artificial-Intelligence-767x633.jpg"
         width: 767
         height: 633
-        isCached: true
-  - title: "Godfathers of AI, too, now fear unbridled Generative AI tools"
-    excerpt: "The Turing Award is named after Alan M. Turing, the British mathematician who developed the idea for the Universal Turing Machine, the basis for the first computer. Turing is also considered one of the founding fathers of AI, along with Marvin Minsky, Allen Newell, and Herbert A. Simon."
-    publishedDateTime: 2023-05-05T02:59:00Z
-    webUrl: "https://www.livemint.com/mint-top-newsletter/techtalk05052023.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 39
-    images:
-      - url: "https://www.livemint.com/lm-img/img/2023/05/03/original/Picture3_1683118493527.jpg"
-        width: 624
-        height: 446
         isCached: true
   - title: "IBM's generative AI strike force"
     excerpt: "O.G. tech giant IBM is launching a counterstrike in the industry's suddenly-hot AI fight with today's announcement of Watsonx. The big picture: Business-focused IBM claims its latest AI offering, set to launch in July, provides more accurate answers and takes a more responsible approach than rivals."

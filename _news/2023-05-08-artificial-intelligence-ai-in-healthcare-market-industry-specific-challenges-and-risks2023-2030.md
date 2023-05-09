@@ -51,15 +51,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Healthcare Natural Language Processing Market Forecast to 2031"
-    excerpt: "The Healthcare Natural Language Processing Market Report [101] offers statistical analyses on market growth prospects and in-depth information on the leading manufacturers - SAS I"
-    publishedDateTime: 2023-05-05T01:14:00Z
-    webUrl: "https://www.marketwatch.com/press-release/healthcare-natural-language-processing-market-forecast-to-2031-2023-05-04"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 66
   - title: "Data and AI Ethics Market Predicted to Experience Growth Globally by 2030"
     excerpt: "The Data and AI Ethics Market Scope and Overview Report for 2023 presents a detailed analysis of the latest trends in"
     publishedDateTime: 2023-05-05T07:28:00Z

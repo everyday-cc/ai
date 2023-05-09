@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/timbajarin/2023/05/09/the-critical-need
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/timbajarin/2023/05/09/the-critical-need-to-identify-ai-generated-content/amp/"
 type: article
 quality: 87
-heat: 137
+heat: 147
 published: true
 
 provider:
@@ -95,6 +95,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 29
+  - title: "Should Governments Use ChatGPT And AI Generated Content? US Federal And State Government Leaders Share Thoughts"
+    excerpt: "Government agencies across all levels of government are exploring the potential of using AI-generated content and language models to improve their services, automate processes, and enhance decision-making."
+    publishedDateTime: 2023-05-09T18:30:00Z
+    webUrl: "https://www.forbes.com/sites/cognitiveworld/2023/05/09/should-governments-use-chatgpt-and-ai-generated-content-us-federal-and-state-government-leaders-share-thoughts/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 27
 
 secured: "7csPXLYT8/cxSBODzGHkyo36mL/xSeTtcwVCet0P621QL8r0SmrRHOkx1wE/4Ga593UNrr42O5l1j6hY7rvi3orAJ9NqtRQ3TuMwM2c29EySTucUyLD2GqbHJsPlxT3SZubT2XcNhG/2ABljcMj/McDMOZ6rn4Qe/lb8tXK59t4moKpNOhxMUZtN3M4aqtLWYXIaoXl/+9yU56zmVoU78J5sVpW0Yt4m46MZYvqPCpI+pKIyyBjH6ifv34s/S7ZtSSS8i7gEDxZKtIIs/xZjVb/CkMl96zFnTZrJcE0abAcAnJnaEVpG8pWD0rBTBYNW1prGg4BJwyrQiP8JksjG6SPhrhWMLtvuyZeLGq6jgRM=;0vXmLeEmLGdYgODtqhQ6Ew=="
 ---

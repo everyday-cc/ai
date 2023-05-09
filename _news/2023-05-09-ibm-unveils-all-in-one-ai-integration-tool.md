@@ -94,6 +94,15 @@ related:
         width: 640
         height: 426
         isCached: true
+  - title: "SAS accelerates responsible innovation efforts with new collaborations and a focus on trustworthy AI"
+    excerpt: "The world has seen unprecedented artificial intelligence (AI) advances since AI and analytics company SAS launched its responsible innovation efforts one year ago. Amid this rapid disruption, SAS has increased efforts to bring trustworthy AI to customers,"
+    publishedDateTime: 2023-05-09T18:09:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-sas-accelerates-responsible-innovation-efforts-with-new-collaborations-/2023/05/09/9810756.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 4
 
 secured: "CiPzYBBksw8bBx5EuMr7G78eY+Vy7joVhP71OdyBR4+Z5Vt9Q6oV6dq0D9+41aBSbbI8kF/io7VK7Yd1Mf3ZSyBgxvK2tB/t/hYbZhbvc3Cr3fvw8Xi6jybDvPPDVotK859KGU/WLoAptXxAQdL67ky3lBIYJWP1es781ettMzZhNNFpMw6jVKfVes7ui31DYde/le5wYJ+dR8nylJ5vf31SyGIKctFwUBNwuv4b1lKH/7lX1R+K8GScDDPS//RWNsYIt0w0QoXnyEh5cxMK8vpqIJtKUx2+6IQgb0nfvQ3+XypAzDTUB6EU3/r1li8kP0PU3T8qjGJL7s5csk9gQqSadN8bkSVebat5KkR4lMZXvF2uWixMKIcGqVrQrSVIQoLZvXMVckWzCQcHhi1nUagSz4YQ4B2SHDNYQe+QF9Zv2jcODzDawOPZeq6pLItiD1Ryb2fzaCAO41rjVkkAjfxmCX49Gbr0rhopKstTY7bHqy7YuahSCPQgZng8MH2zRrX2SEwpaU72DGR3/+NZGQ==;47XWc5CupDU1pP0IFgIGYw=="
 ---

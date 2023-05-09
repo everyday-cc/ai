@@ -89,20 +89,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Screenwriters take aim at artificial intelligence, ChatGPT"
-    excerpt: "Not six months since the release of ChatGPT, generative artificial intelligence is already prompting widespread unease throughout Hollywood. Concern over chatbots writing or rewriting scripts is one of the reasons TV and film screenwriters took to picket lines earlier this week."
-    publishedDateTime: 2023-05-05T01:45:00Z
-    webUrl: "https://www.usatoday.com/videos/entertainment/2023/05/05/screenwriters-take-aim-artificial-intelligence-chatgpt/11799655002/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 52
-    images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/04465331-5204-49cb-8f02-71d5ec64e61c_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Forget ChatGPT. These Are the Best AI-Powered Apps."
     excerpt: "Chat features built into Duolingo, Expedia and others can be more useful than ask-me-anything bots."
     publishedDateTime: 2023-05-07T12:00:00Z
@@ -125,6 +111,20 @@ related:
       - url: "https://cdn.techwireasia.com/wp-content/uploads/2023/05/shutterstock_2261871805-897x500.jpg"
         width: 897
         height: 500
+        isCached: true
+  - title: "UAE: New Chatgpt AI Assistant To Help Plan Visits To Yas Island"
+    excerpt: "Visitors to Abu Dhabi's Yas Island can now get personalised guidance and information about the latest offerings through an AI assistant. Miral, the leading creator of immersive destinations and experiences based in Abu Dhabi,"
+    publishedDateTime: 2023-05-09T19:34:00Z
+    webUrl: "https://menafn.com/1106210851/UAE-New-Chatgpt-AI-Assistant-To-Help-Plan-Visits-To-Yas-Island"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/updates/pr/2023-05/09/KT_6610bimage_story.jpg"
+        width: 600
+        height: 337
         isCached: true
   - title: "I asked AI bot ChatGPT to write a column on happiness. Here’s what happened next"
     excerpt: "I had to find out for myself. So I conducted a little experiment. I asked ChatGPT to write an article for me. I submitted the prompt, “Write a 500-word column on happiness.” That’s a broad, overworked topic,"
@@ -159,6 +159,6 @@ related:
       domain: glamsham.com
     quality: 16
 
-secured: "irhtBtahJ6ScUOjXkYZ9xKOFPvcqKFzFihSeeJCSC60VFjPc4zkCf1eS5g/zDltaGqKKxIS7O/tDSxQoUfSk0wkn29YeB3KvTT3ag7eYfHt6JWj6Cfyu68jBHm5FrF6lx3dqhz5LR4gpSHuwPsdb+FR5c4eW5QW22SfTP/Efw/mo66WfKa9o6i2d0RCFz+pUsFeoraJMPGjkJLGeFliV36jXzt6kKbbjJ5lnHrHqTBOq8hdS+mAzgIAcGmJLfl+guwrBo8tABzWkE7GuB4LeM2Vhr64oumSKi1NNOSbQwFOe6/dKZuQP6dVS4EY34EjCrHjw91lk8iCZZ+yCiyGGWAqUT65eOV4wUMfmHxhsSSo=;iuouW90jyzmG4gFxK/EdcA=="
+secured: "EN1ZPCv6JgMiYnVRZB8M1g4op4r/y1ftDZjdA1o+IQBnZN29ZXjVskMKqfAoVD70XX43nVCzRlfUEZqRksxOGOzJ6ZxzekLuGG+dpX5eqqlHh1xmoMQ4pPhzfmUhwxIHf+hRF5cVL1giXCU38Tx4kG48nDescGvoiNoA/udkPu9T7h2Qidwrutj8HeAJ94DziUjFd6i0xg+lHdnkRdFRUsiROCuteF88db9VZPOXtD7YWCCgMjB8hHk3VuTFsPozXu4dYEDcXrjCln4724v/nqO0cOkAMkjBOljlt04mRmijsG7fUNSJ0xgK5bJ17yFIA82jJPDIGExIKbRFh9Bt2DrZaIV4gKe9CPRqIOJwMqdNIn97sp33oHqXOjTG512/trsdodVz89VocTwjLUatCeG0GVfi8l00Mhv03zhzXFt8JSiqdR4A/PSj8fmwcYAADY9Ajai3xpo4QtdX1Dri2TyLlw+wtMq/wfObBkuVigTGQCvkEOKIIaQdE1T/TvzEx50yJQQ6+XIyy09PNnIN8w==;oiJvvZN1Uu9gBvOBrEwcDQ=="
 ---
 

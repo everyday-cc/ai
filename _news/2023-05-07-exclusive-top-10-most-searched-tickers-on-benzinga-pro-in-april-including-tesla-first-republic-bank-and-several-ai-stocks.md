@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/exclusive-top-10-m
 webUrl: "https://markets.businessinsider.com/news/stocks/exclusive-top-10-most-searched-tickers-on-benzinga-pro-in-april-including-tesla-first-republic-bank-and-several-ai-stocks-1032299074"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -22,6 +22,22 @@ topics:
   - AI
   - AI in Autos
   - AI in Finance
+
+related:
+  - title: "Exclusive: Bill Gates on the future of nuclear energy, AI"
+    excerpt: "TerraPower, founded by billionaire and Microsoft co-founder Bill Gates in 2008, is opening a new nuclear power plant in Kemmerer, Wyoming."
+    publishedDateTime: 2023-05-09T19:16:00Z
+    webUrl: "https://abcnews.go.com/Technology/bill-gates-future-nuclear-energy-ai/story?id=99160110"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 37
+    images:
+      - url: "https://s.abcnews.com/images/GMA/gates-intv-abc-ps-230508_1683559898701_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
 
 secured: "NDPhESd8izQHFDwIl8XDTz/TJ/Jj3RL4MPDo0oxJWvr7odi9Fx1kP22+luudZDCK1Mm2KF8UI4nvrf97AJDfdKws+PwT944ewDwUHCpI3IT1hbKX1yNYrjJUFHLQqfPiMRQvFm2vslCI1WuOIlEETJdQ+JnB5tImWe/ZH4TdvkDbnQDscrZcfVHVHQltlWJ6oeZSlqBYuE+KZrHvaG2ZJJ8i2Q8Mdft2dkyIVkK9qPqzAiB2sq7OxC45M+L+RPs0Cut6jGjQa4VopdJRfd3ppl08UBxjoPGtT89EKwUQmbzfLDa3xnvOwU3tEv/IlP9GFakAmIgzrjeIK/ehcJh5gGt+Kq72nnJkTE71e24adk5/jwzQuQYuIbEqJh2HUNWMWjiJi+tnpGbgB1ypVSoXZMHlHaei7sgwBUYq+F8TmMH9oCBThlFxJo7VptfYIqtHgXIS0WL29syu64rL0Wqd49J36w6aVOBz85rsiU+UaFczIwpQvJlzZffOBBfZEmTakuGB0g1vT73I0Y1o8EQYSw==;2QXGEOegYBN1EVbQGcEoNQ=="
 ---

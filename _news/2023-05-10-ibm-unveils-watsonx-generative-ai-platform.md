@@ -6,7 +6,7 @@ publishedDateTime: 2023-05-09T17:38:00Z
 originalUrl: "https://insidehpc.com/2023/05/ibm-unveils-watsonx-generative-ai-platform/"
 webUrl: "https://insidehpc.com/2023/05/ibm-unveils-watsonx-generative-ai-platform/"
 type: article
-quality: 54
+quality: 56
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - IBM AI
   - AI
+  - AI Hardware
 
 images:
   - url: "https://insidehpc.com/wp-content/uploads/2021/11/insideHPC_Guide_CDI_cover.png"
@@ -184,6 +185,15 @@ related:
       name: CIOL
       domain: ciol.com
     quality: 34
+  - title: "IBM debuts Watsonx product suite to streamline enterprise AI projects"
+    excerpt: "Watsonx was previewed at the company’s annual Think conference alongside several other new offerings. For its cloud platform, IBM is rolling out new compute options that provide access to graphics cards."
+    publishedDateTime: 2023-05-09T18:01:00Z
+    webUrl: "https://siliconangle.com/2023/05/09/ibm-debuts-watsonx-product-suite-streamline-enterprise-ai-projects/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 34
   - title: "IBM joins the AI race with WatsonX; will 'multiply impact' of artificial intelligence across businesses"
     excerpt: "IBM, on Tuesday, announced its new WatsonX platform, which is an all-in-one AI building and integration tool for businesses. The iconic American multinational corporation, International Business Machines Corps (IBM) dipped its toes into artificial intelligence more than 10 years ago."
     publishedDateTime: 2023-05-09T13:18:00Z
@@ -222,6 +232,6 @@ related:
         height: 353
         isCached: true
 
-secured: "nOz56K987QEbhb70L/B1sy5RFWyVVGYg7/qP3vfLclh5CcCMbM9LfcofojQAhr8+MYGSljGn8al3OmkbAlUb48BXTh3gk5XsRNdyeKlANjha4geNCuUvDCDmatsjftod4I7gbiBOAZdVKivv3rIZiO/08X6BxVfXopbF4lKOkMaUhd7huKlM8jh9UrWV08O1KASujqXs1HQ1EsTfZgyAUosL+DJvPmBPCgnFEBPPZ74hKqk+HEWjJKwhuNiE6VacZ+jJjLuUOoWIWGTdlKQlQRiFHiqdSsufPGE9WjlB4inNH0Vgqla3cR9LTV9U3K3Qcj+alFzL/JByQWTcFc2NWHJHr5bBQbdR+KMfXE22cZ8=;5Pt+uwk/aTIybL17Dnxm9w=="
+secured: "yWNLjlJXOH6YKXQNccSBRXl77L6neUSIpRItIvrrVssr9rS7iScDngW1hWZpIBc46H/uOJOU2o3ZFUBhjLO8+z9Xy44xEiCfAITiI4QJO8D3O+1weCZ/Zn6nU1AYpg7i7wdc2JpPOE3hDMLDF8qaFoRuKVIjJHiA5J3IQ8V86jaEbVjU22YBEVzOcmeBqE76MLELS+VmO07MGNgE//ivolO3JcFLJLybT0fP2nwGpnVGCLfQeHRXAyNAYqP/fgDBmmpZQ8/33ve6dcOlAjWxCb7C7SFoMxt1py8wOzIysw5ZDh8yiv3YACjVTD3f5jaaLiFpW4TUv33JgwkRgsMSY3bJPgcqMLlUf05zSjFURBj3LPwPW7eX6wh6CKK82ytqDthZcjDajmWhGDQFBwp1SZGCxCA2sUgnXmXiwPbF/gktAnMmTsBsCYtn2Yi8jPZH6+Pr6Gr1Es6nMmEvH/2ByPucZJgtqxsP33MB3qgZJnuRDhFHMnMdeof9VmyIXJhD37h5BqSVtkSm/OZefqor1A==;IDQ99sbj9m+lgwEJhXMUpQ=="
 ---
 

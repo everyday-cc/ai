@@ -7,7 +7,7 @@ originalUrl: "https://www.morganmessenger.com/2023/05/09/wv-legislative-interims
 webUrl: "https://www.morganmessenger.com/2023/05/09/wv-legislative-interims-how-does-the-state-regulate-artificial-intelligence/"
 type: article
 quality: 36
-heat: 36
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     height: 500
     isCached: true
 
-secured: "i51M9QuuoVbfZy8RCnRrrFGlHDwoq9Uvl7V0gJdL0kt2H/vz8saWVJzkJshEo19JM/9bEJJEPD2coenthoHsN4YIPjr+4MRVuhhAudWiiuzOJLhvs2LYph8m3zyl63ABMhB+ksKo7GHOn+/UybIKDT3GmfLasgCH1jC90HRTkbwLDuZVp6TBABfQoCM9W6YA27gZmBriOoOnNIQZ7Qs/Sz2KlbT5rZdeq7m39jL6JHunn4pbWqgS0G3y8hi9Js5cQrQLcd0Op1nTdkH3lbDDNZXJD9W3UmeQHQ7aC6EEla1Q2xZ5LpMLAW6xPnACgSAZahzyqVMvgmVO7kYF6AxrgHvbZFYnfm+0aCw+Jz/QNM4=;JiPdOwbUHJko2ukE3mFuFw=="
+related:
+  - title: "How does the state regulate artificial intelligence?"
+    excerpt: "Regulating artificial intelligence (AI) is something that West Virginia’s legislators must begin to consider, at least according to some experts."
+    publishedDateTime: 2023-05-09T20:13:00Z
+    webUrl: "https://www.register-herald.com/news/state_region/how-does-the-state-regulate-artificial-intelligence/article_fdd091bc-eea5-11ed-aa33-dfbd4f597601.html"
+    type: article
+    provider:
+      name: The Register-Herald
+      domain: register-herald.com
+    quality: 39
+    images:
+      - url: "http://static.cnhionline.com/registerherald/promos/GasPromo-logo.jpg"
+        width: 320
+        height: 250
+        isCached: true
+
+secured: "g/Kp69pDmLYQst4g2OrCLNv35xLNCpAwa0L/aBeWQPRTkH85txw74ggGtvXUKnqIDhoyhtdlm47MB0XZOTF7uS+dkqEqRrTrLHwr04f23tYJdpWpysx+WlJQWaq+PKAMNPxG4PrB0mKaeCWr9DE7FyF2+IfTvBmyu57TR646aX8UkOugs2Jfj4dVqujwKC0dQd/AHEeAprqqR5yV0E27YjdphsVmqLX8Tt0HVN4I1bBaHfFMzCAlqbt8jUqnyyLFoMnvZOFpYiKgD29/LHgHxHVthzbJp6ZFzkvf5sJVfDRWBJqGkOumnYRBSGHEwGQZJFOb9SjJQjGBdG/XMWHynzvGwYoMlpixxoultEBgOsJAfJPtYYNg9mnPiG1BbcqvovCPdKJWBBoon8ZzjpjTveoc9CiJHdb7LKEgw2sEAM8dwKl1bLRR1vM/JSaSrferJ/VBehZBFlqknB7TyNdyhMNbddS1ilhj9dW9BmF9UpxCczKSFljxOuiKn4+cWv8BYhnxQXZsKlYXaUSQK1rc/Q==;/xkpyZgiQpCoTv8dNtpdeA=="
 ---
 
