@@ -23,6 +23,15 @@ topics:
   - AI
 
 related:
+  - title: "3 AI Stocks That Are Poised to Explode in 2023"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial Intelligence (or AI) is the latest and greatest buzzword on Wall"
+    publishedDateTime: 2023-05-09T15:38:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-ai-stocks-that-are-poised-to-explode-in-2023-1032307806"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
   - title: "A.I. Week: How artificial intelligence is revolutionizing the medical world"
     excerpt: "Artificial intelligence is revolutionizing the international medical field, and in the near future, its role in our hospitals is expected to just keep growing."
     publishedDateTime: 2023-05-09T14:02:00Z

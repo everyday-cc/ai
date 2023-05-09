@@ -2,17 +2,17 @@
 category: news
 title: "What if AI could rebuild the middle class?"
 excerpt: "We spoke with MIT's David Autor, one of the top labor economists in the world, about how AI could revolutionize the job market."
-publishedDateTime: 2023-05-09T15:29:00Z
-originalUrl: "https://www.wuwm.com/economy-business/2023-05-09/what-if-ai-could-rebuild-the-middle-class"
-webUrl: "https://www.wuwm.com/economy-business/2023-05-09/what-if-ai-could-rebuild-the-middle-class"
+publishedDateTime: 2023-05-09T14:30:00Z
+originalUrl: "https://wusfnews.wusf.usf.edu/2023-05-09/what-if-ai-could-rebuild-the-middle-class"
+webUrl: "https://wusfnews.wusf.usf.edu/2023-05-09/what-if-ai-could-rebuild-the-middle-class"
 type: article
 quality: 39
 heat: 39
 published: false
 
 provider:
-  name: WUWM
-  domain: wuwm.com
+  name: wusfnews.wusf.usf.edu
+  domain: usf.edu
 
 topics:
   - AI in Robotics
@@ -24,6 +24,6 @@ images:
     height: 630
     isCached: true
 
-secured: "bucz6jJW1pM76KZ9v4LHKhtHPM2u5e6WCFBHP/Mmlj/WsC6oUZnsmyar5pby+Sz4L9EKJUcDfvybkjG1Sz/FigNF8XKcGSoNr5Cfu/7zDjmf4V3tFR1A7xDxH+nXuM8yYYXNhgcLpwh7t6OCYGDmxsnnzeW7M63Jq9LwmeS1gQjziNlnZDeAALo00DMU380vLYMJs7y/i6j4mqPrWcqlguAP5bTVrZPUt39OfofWZ55l2DHPWwTvsNE1XyutzC4Pcz8eMZA3CUEo+OPtMBXtkeH06y27vlGTq4gzQCvAJC+pkvBfVUgm0eEgBPW0VBzU7bfsA6qzn6b+7gx2Z0fHpW2gfPOskL2MMr0l105j4wE=;maTqsZKb8LreLQpDblR0rw=="
+secured: "5nDDBXsCgktdtfmfccLv2WGZxbIGoUtgQo7K6bh7uG5hZHWJiOqmaSLOThuG3/DIl9Groj6oPI0u5pux071F5vksgOrMVyH8IclIw80AALgMbOruiQy+TmdBWrvN36wUs/IqptmV7QyXXpJZdCFOzCfhZxJCLY9yuSZH/pbAm4t82JixkhcW1BTMOQVSYRfsL8kTd/V4bmbEDC/A1PAxyXtG1YCd0bmPr6eOhgAQ1DZLvi/8ga/gURgCB0+4s78mF0d5b12lCqvLbTudNgnStBa1qKNvn0mXEdV4OS/6k2ZftgyFFHk6qSQRh1bTzkWkq4Iq1M1/tvoDPzvfrOdRTHiye5GInrrj+hnuZEnlvQA=;TrMjEMHtH+h92YcJHf+nNw=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/its-generative-ai-models-vs-hackers-at-de
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/its-generative-ai-models-vs-hackers-at-def-cons-ai-village/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -39,6 +39,20 @@ related:
       name: Wired
       domain: wired.com
     quality: 51
+  - title: "Tracking Generative AI: How Evolving AI Models Are Impacting Legal"
+    excerpt: "A running compilation of how the legal landscape continues to be shaped by generative AI tools, from GPT technologies to art generation tools and beyond."
+    publishedDateTime: 2023-05-09T16:30:00Z
+    webUrl: "https://www.law.com/legaltechnews/2023/05/09/tracking-generative-ai-how-evolving-ai-models-are-impacting-legal/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 41
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/01/Numbers-Artificial-Intelligence-767x633.jpg"
+        width: 767
+        height: 633
+        isCached: true
   - title: "Godfathers of AI, too, now fear unbridled Generative AI tools"
     excerpt: "The Turing Award is named after Alan M. Turing, the British mathematician who developed the idea for the Universal Turing Machine, the basis for the first computer. Turing is also considered one of the founding fathers of AI, along with Marvin Minsky, Allen Newell, and Herbert A. Simon."
     publishedDateTime: 2023-05-05T02:59:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/article/salesforce-launches-slack-gpt/a
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/salesforce-launches-slack-gpt/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Salesforce and Accenture partner to create acceleration hub for generative AI"
-    excerpt: "Acceleration hub from Salesforce and Accenture will use the companies' AI and connected customer skills to help clients harness generative AI."
-    publishedDateTime: 2023-05-05T00:28:00Z
-    webUrl: "https://venturebeat.com/ai/salesforce-accenture-partner-create-acceleration-hub-generative-ai/"
-    ampWebUrl: "https://venturebeat.com/ai/salesforce-accenture-partner-create-acceleration-hub-generative-ai/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/salesforce-accenture-partner-create-acceleration-hub-generative-ai/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 84
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/03/Salesforce-logo_2023.jpg?w=1200&strip=all"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Informatica goes all in on generative AI with Claire GPT"
     excerpt: "Informatica today announced Claire GPT, a generative AI tool aiming to help enterprises with data management tasks."
     publishedDateTime: 2023-05-09T13:00:00Z

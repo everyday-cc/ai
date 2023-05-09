@@ -7,7 +7,7 @@ originalUrl: "https://www.businessinsider.com/singapore-sovereign-wealth-fund-in
 webUrl: "https://www.businessinsider.com/singapore-sovereign-wealth-fund-investing-in-generative-ai-gic-2023-5"
 type: article
 quality: 60
-heat: 70
+heat: 80
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "SAS says it’s investing $1B over next three years in AI products, technology"
+    excerpt: "SAS, profitable since 1976 when it launched and a $3 billion a year company, showed how serious it is about the growing artificial intelligence market on Tuesday, its CEO saying $1 billion will be invested in AI initiatives over the next three years."
+    publishedDateTime: 2023-05-09T16:41:00Z
+    webUrl: "https://wraltechwire.com/2023/05/09/sas-says-its-investing-1b-over-next-three-years-in-ai-products-technology/"
+    ampWebUrl: "https://wraltechwire.com/2023/05/09/sas-says-its-investing-1b-over-next-three-years-in-ai-products-technology/?amp=1"
+    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/05/09/sas-says-its-investing-1b-over-next-three-years-in-ai-products-technology/?amp=1"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 56
+    images:
+      - url: "https://wraltechwire.com/wp-content/uploads/2019/11/jim-goodnight-sas-e1572962905728.jpg"
+        width: 1866
+        height: 1048
+        isCached: true
   - title: "Singapore Wealth Fund sees more growth in fintech after downturn"
     excerpt: "Chris Emanuel, head of GIC Pte’s technology investment group, said the fund is excited about innovation in financial product distribution that brings opportunities to scale across the world. It also sees opportunities in enterprise software as digital transformation efforts “increase across sectors in both momentum and urgency,"
     publishedDateTime: 2023-05-09T05:15:00Z

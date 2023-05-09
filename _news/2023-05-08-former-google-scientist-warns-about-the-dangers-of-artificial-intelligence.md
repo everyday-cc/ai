@@ -65,6 +65,17 @@ related:
         width: 1200
         height: 674
         isCached: true
+  - title: "Former Google scientist warns about the dangers of artificial intelligence"
+    excerpt: "A leading artificial intelligence researcher some call the “godfather” of AI says the technology is developing at a “scary” rate."
+    publishedDateTime: 2023-05-07T13:59:00Z
+    webUrl: "https://www.catholicnewsagency.com/news/254251/former-google-scientist-warns-about-the-risk-of-artificial-intelligence"
+    ampWebUrl: "https://www.catholicnewsagency.com/amp/news/254251/former-google-scientist-warns-about-the-risk-of-artificial-intelligence"
+    cdnAmpWebUrl: "https://www-catholicnewsagency-com.cdn.ampproject.org/c/s/www.catholicnewsagency.com/amp/news/254251/former-google-scientist-warns-about-the-risk-of-artificial-intelligence"
+    type: article
+    provider:
+      name: Catholic News Agency
+      domain: catholicnewsagency.com
+    quality: 35
 
 secured: "M/FMWk3hS962+qN/cRXZdEqDv4kWP7Hi45zvFQ1m1w1QOGArtisxT1z+uHGwwp1eDcG9j03DQf55LGkUE/qxVodHF1PEVEjhF/Uk2U1pYIjMJSF+0SJruRjhv6KGwD64/m1zLBZi/znOnxZSsOHPycoCWYCchXAZR8FnGFU+eZCGBOZq2GuJlDi+mYHkTrhcztBr0Z0wOpfgbRTe8jQKkPnbAtUCruuZZDTCAvjhYp1YubwdNsXGp730vQYVE9Yu0zRhRJBQhoIL1W1rLDyCxuPTQcBfl7b0QYLfOiwMXPQBaT15prf6n5Ppa77iBrn7YqNtt7dDB67je8QAM8ZE56aMt48QQmX9F2f1pmm0uhdSe/v1L3uiPH5tUaHyZS0AqUN55ckMGrJe3UouLl3ln1OEA7wSxniLKUI9VWFol4U+3jryayRw76qni7vlHLis2sv3/rvn45U/MgFrwryb2eWcZlkbrVtuZJ5uk3t7aYwluNKjQGjWLhLZGL/97zyK28bK2ZxE2wP+lLkcN9OWVA==;X1Ppp8XdwyqW9n45euo/Iw=="
 ---

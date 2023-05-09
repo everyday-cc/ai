@@ -118,22 +118,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "AMD Shares Rise 7% After Report of Microsoft AI Chip Deal"
-    excerpt: "Bloomberg reported Microsoft would help AMD increase its supply of in-demand parts and that the two companies were working to develop a homegrown Microsoft AI processor. Represent"
-    publishedDateTime: 2023-05-04T23:51:00Z
-    webUrl: "https://www.barrons.com/articles/amd-shares-rise-7-after-report-of-microsoft-ai-chip-deal-dfeee63"
-    ampWebUrl: "https://www.barrons.com/amp/articles/amd-shares-rise-7-after-report-of-microsoft-ai-chip-deal-dfeee63"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/amd-shares-rise-7-after-report-of-microsoft-ai-chip-deal-dfeee63"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 91
-    images:
-      - url: "https://www.barrons.com/asset/barrons/images/social_highres.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Microsoft and AMD Working On AI Chips – DTH"
     excerpt: "Microsoft and AMD reportedly started working together on AI chips, Warner Brothers Discovery expects its streaming business to turn a profit this year, and the Court of Justice of the European"
     publishedDateTime: 2023-05-05T15:24:00Z
@@ -150,21 +134,21 @@ related:
         width: 512
         height: 512
         isCached: true
-  - title: "Microsoft is supporting AMD’s expansion into AI chips"
-    excerpt: "The companies are teaming up to offer an alternative to Nvidia Corp., which dominates the market for AI-capable chips called graphics processing units, said the people, who asked not to be identified because the matter is private."
-    publishedDateTime: 2023-05-05T00:50:00Z
-    webUrl: "https://www.moneycontrol.com/news/world/microsoft-is-supporting-amds-expansion-into-ai-chips-10530881.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/world/microsoft-is-supporting-amds-expansion-into-ai-chips-10530881.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/world/microsoft-is-supporting-amds-expansion-into-ai-chips-10530881.html/amp"
+  - title: "Microsoft’s Big AI Push Could Power Its Cloud Past AWS. Here’s Why."
+    excerpt: "Bernstein analyst Mark Moerdler thinks artificial intelligence could drive huge growth at Microsoft—more than most investors expect."
+    publishedDateTime: 2023-05-09T16:28:00Z
+    webUrl: "https://www.barrons.com/articles/microsoft-stock-aws-ai-bing-9b9143c0"
+    ampWebUrl: "https://www.barrons.com/amp/articles/microsoft-stock-aws-ai-bing-9b9143c0"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/microsoft-stock-aws-ai-bing-9b9143c0"
     type: article
     provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
+      name: Barron's
+      domain: barrons.com
     quality: 91
     images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2021/08/Microsoft_reuters.jpg"
+      - url: "https://images.barrons.com/im-778497/social"
         width: 1280
-        height: 720
+        height: 640
         isCached: true
   - title: "Microsoft reportedly rallies behind AMD to develop chips for AI workloads"
     excerpt: "Microsoft is reported to be working with AMD to develop AI-capable chips and provide an alternative to Nvidia."
@@ -212,20 +196,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Microsoft supporting AMD’s expansion into AI chips"
-    excerpt: "AI chips are in great demand after the explosion of chatbots like ChatGPT and other services based on the technology. Read more at straitstimes.com."
-    publishedDateTime: 2023-05-05T00:39:00Z
-    webUrl: "https://www.straitstimes.com/business/microsoft-supporting-amd-s-expansion-into-ai-chips"
-    type: article
-    provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 71
-    images:
-      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2023/05/05/AMDchip_0.jpg?VersionId=AUDD77HDTPyMiI01BqacA38q7_GqjsOr"
-        width: 860
-        height: 573
-        isCached: true
   - title: "Report Suggests Microsoft and AMD Collaborating on AI Chip"
     excerpt: "A Thursday report by Bloomberg stated that Microsoft and AMD are collaborating on an artificial intelligence (AI) chip as an alternative to Nvidia's AI processor market dominance with its graphics processing units (GPUs)."
     publishedDateTime: 2023-05-05T22:13:00Z
@@ -240,15 +210,6 @@ related:
         width: 647
         height: 450
         isCached: true
-  - title: "SymphonyAI announces strategic collaboration with Microsoft Azure AI for generative AI"
-    excerpt: "SymphonyAI introduces Sensa Copilot, a vertical application that integrates Microsoft Azure OpenAI Service and Azure Cognitive Search to drive"
-    publishedDateTime: 2023-05-09T12:30:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/symphonyai-announces-strategic-collaboration-with-microsoft-azure-ai-for-generative-ai-1032305943"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 71
   - title: "Microsoft reportedly rallies behind AMD to develop chips for AI workloads"
     excerpt: "Microsoft is reported to be working with AMD to develop AI-capable chips and provide an alternative to Nvidia."
     publishedDateTime: 2023-05-08T01:25:00Z
@@ -333,6 +294,20 @@ related:
       - url: "https://www.traveldailymedia.com/assets/2023/05/shutterstock_2130878285.jpg"
         width: 1000
         height: 667
+        isCached: true
+  - title: "SymphonyAI announces strategic collaboration with Microsoft Azure AI for generative AI"
+    excerpt: "SymphonyAI introduces Sensa Copilot, a vertical application that integrates Microsoft Azure OpenAI Service and Azure Cognitive Search to drive value for customers in financial crime prevention and regulatory compliance PALO ALTO,"
+    publishedDateTime: 2023-05-09T16:34:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/05/09/9809924.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 61
+    images:
+      - url: "https://marketplace.connectwise.com/content/images/thumbs/0000635_skykick_550.png"
+        width: 550
+        height: 353
         isCached: true
   - title: "NVIDIA shares are trading higher after Microsoft denied AMD is involved with its Athena AI chips."
     excerpt: "Never miss a trade again with the fastest news alerts in the world! This headline only article is a sample of real-time intelligence Benzinga Pro traders use to win in the markets everyday. Want the fastest, most accurate stock market intelligence? Want ..."

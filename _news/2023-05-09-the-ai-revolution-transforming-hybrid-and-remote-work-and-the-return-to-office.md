@@ -8,7 +8,7 @@ webUrl: "https://www.forbes.com/sites/glebtsipursky/2023/05/09/the-ai-revolution
 ampWebUrl: "https://www.forbes.com/sites/glebtsipursky/2023/05/09/the-ai-revolution-transforming-hybrid-and-remote-work-and-the-return-to-office/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glebtsipursky/2023/05/09/the-ai-revolution-transforming-hybrid-and-remote-work-and-the-return-to-office/amp/"
 type: article
-quality: 83
+quality: 85
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/645a5c605e5c27c4782796df/0x0.jpg?format=jpg&width=1200"
@@ -74,6 +75,20 @@ related:
         width: 394
         height: 218
         isCached: true
+  - title: "SAS accelerates responsible innovation efforts with new collaborations and a focus on trustworthy AI"
+    excerpt: "The world has seen unprecedented artificial intelligence (AI) advances since AI and analytics company SAS launched its responsible innovation efforts one year ago. Amid this rapid disruption, SAS has increased efforts to bring trustworthy AI to customers,"
+    publishedDateTime: 2023-05-09T16:56:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/05/09/9810756.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 24
+    images:
+      - url: "https://mma.prnewswire.com/media/2070823/SAS_new_healthcare.jpg"
+        width: 640
+        height: 426
+        isCached: true
   - title: "IBM Unveils All-In-One AI Integration Tool"
     excerpt: "Blue-chip tech name IBM (NYSE:IBM) today launched WatsonX, a new, all-in-one artificial intelligence (AI) tool that will help companies with their AI integration. This announcement comes roughly 15 months after IBM sold its Watson Health unit to Francisco Partners."
     publishedDateTime: 2023-05-09T12:50:00Z
@@ -84,6 +99,6 @@ related:
       domain: schaeffersresearch.com
     quality: 21
 
-secured: "3AUqqnU4OYxLy6COIIzyU9MPeh7b34zM4I5a2KnNn4UMVGXp+Gt/Mt3xERV5xapab+Xs83nh1I17xco9pcrah6t1IxT1lTnuH9v+JcwmMdZGAIEz566WIR0a1lNc7XammXLFYEpNp4vKTzxvjmPTWMhxJ/L9cQoaBFUusFb6FXhzhw2Eu7Z5oub+TfJt0bYBy0xUAnQZFAhwWXh+kJWrS3FY4l58wivBB2wYzYyCIcgL9AhVqXazrV8AMKZ48mKtjnywzbkjWMGylMSTWYAzwtj1zWE9jI4Wz8+f0rlZZLu6Km7R2zrqDUT6znohmKdkqFzUol2+cwmfiVApjCbQQzr1dYOtHKB0OJF5CvGZfF0=;YwEdX3U9+AALXrsBjiv3hA=="
+secured: "zJ7lx/zTUwwmZ8zJDfpYRg2uIyaljztBarPoWIs/u0eiz9fC5qXR9bedtxY0rmBDghWhjUnb0t1UKDHEt/B0wf5rxxICCIefx5IfB+8JrjeTDsLKTBYz0gjjV/6HMV3bJ77405trqQO+hzxmtGAFT+RvqWM26s0r2XBcH0n+zsVj0i3tbj9l/uGJ+bqN4Veu4zMg18guJ7LtqIpwgoz2WAwHhcKM26+vwfkNGDy1V69d3rOevVgpuqYrW12fYMUsPaVCARu5xlliKf/cGiUGVCyld1Rw+su2uzBWM/+wHlwRV5LJbqherV82C7+jttrSwVir660gYTG7P23vPwRcIICBGiTnueiGiHBmPDK3mkKoVrfh0+X1JB5dLYN87aK6QgHlJrHUNBVaUPz8xm+vPKcNBwoC3iN+h4qOUbuL9tr+umALWOU9i+bqnSR+ug3dcmnnZ7XYa76uMi9LG1yqiZgudCMB6Z5dowwfHgMB2Pi3X3mZKOBHuHaEOpESWZYe+ClEvbBO6W19RD7MBnp5LQ==;Hi2Cefcb/iaukcmsTQzrdQ=="
 ---
 

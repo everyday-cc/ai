@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/opinion/greg-gutfeld-can-kamala-harris-handl
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/greg-gutfeld-can-kamala-harris-handle-her-new-position-on-ai-or-will-she-wing-it.amp"
 type: article
 quality: 81
-heat: 91
+heat: 101
 published: true
 
 provider:
@@ -30,6 +30,15 @@ images:
     isCached: true
 
 related:
+  - title: "VP Kamala Harris Urges Tech Titans to Put Ethics First in AI Development"
+    excerpt: "Harris' meeting with tech CEOs sends a clear message that the government will take action against companies acting irresponsibly in AI dev"
+    publishedDateTime: 2023-05-05T03:31:00Z
+    webUrl: "https://www.gizmochina.com/2023/05/05/kamala-harris-tech-ceo-ai-regulation/"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 63
   - title: "Clay Travis: Do you really think Kamala Harris will be able to explain AI to the masses?"
     excerpt: "Clay Travis reacts to Vice President Kamala Harris taking on a new responsibility to tackle AI after being tasked with border czar and Ukraine czar on 'Fox News Tonight.'"
     publishedDateTime: 2023-05-06T02:32:00Z

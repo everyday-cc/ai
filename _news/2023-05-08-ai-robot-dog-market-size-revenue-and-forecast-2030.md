@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/ai-robot-dog-market-size
 webUrl: "https://www.marketwatch.com/press-release/ai-robot-dog-market-size-revenue-and-forecast-2030-2023-05-08"
 type: article
 quality: 84
-heat: 224
+heat: 214
 published: true
 
 provider:
@@ -181,20 +181,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 29
-  - title: "Passenger Vehicle Voice Recognition Market Trends and Forecast: Analyzing Growth Potential with CAGR forecasted 10.9% during 2023-2030"
-    excerpt: "Passenger Vehicle Voice Recognition market outlook (2023-2030) provides a thorough analysis of the market's current state, including factors such as market size, growth rate, segmentation, and key players."
-    publishedDateTime: 2023-05-04T23:42:00Z
-    webUrl: "https://www.marketwatch.com/press-release/passenger-vehicle-voice-recognition-market-trends-and-forecast-analyzing-growth-potential-with-cagr-forecasted-109-during-2023-2030-2023-05-04"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 22
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "eI1DdZsntAd7VKKhgFcmcnxK6KR5kzQGgEAwohUYMPX8omgQaN2PzNEOXeFYVMFMLId/APWvRop3C42MDEMABpX5+DnFck8J2sogLiKDn/1LzzCJGRIdCf9k66fZEEMVKA0WjDkhU+TMWYKyEhRfSTp+5hOh2ErQTToZoxUAVAT0piuiOxBsdphUsedZIXlh9bAlw2COn63mvStDrF40w+BeeSrBdVjFx5wBT2kXPWwjAn4nkHS2o2lfmF6HcBm6hfUrdYoj8wnZlxeqsemcKpqgPvSWSbGbEgYP6VoPFFyDKAGl27K9ohrdtKFE/BKQPLF6h/U5dUSNsmZoXKtnOlR/cBVD59jeNyW5kMH7f/U=;QRnEPTuMAoMr3b/uh57Lkg=="
 ---

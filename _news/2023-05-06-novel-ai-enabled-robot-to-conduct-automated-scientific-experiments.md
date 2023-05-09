@@ -41,6 +41,20 @@ related:
         width: 836
         height: 425
         isCached: true
+  - title: "Spotify removes thousands of AI-generated songs"
+    excerpt: "Boomy launched two years ago and allows users to produce AI-generated music based on styles and descriptors like \"meditation\" or \"lofibeats.\" Then users can upload Boomy created t"
+    publishedDateTime: 2023-05-09T17:49:00Z
+    webUrl: "https://mashable.com/article/spotify-ai-crackdown"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 67
+    images:
+      - url: "https://helios-i.mashable.com/imagery/articles/071RJhpSIU746lYgH5OoPxV/hero-image.fill.size_1200x675.v1683652620.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Artificial intelligence identifies new anti-aging compounds"
     excerpt: "This research result is a significant milestone for both longevity research and the application of artificial intelligence to drug discovery,” said co-lead author Felix Wong, the co-founder of Integrated Biosciences."
     publishedDateTime: 2023-05-08T14:58:00Z

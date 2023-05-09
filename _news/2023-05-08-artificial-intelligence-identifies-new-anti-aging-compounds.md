@@ -41,6 +41,20 @@ related:
         width: 836
         height: 425
         isCached: true
+  - title: "Spotify removes thousands of AI-generated songs"
+    excerpt: "Boomy launched two years ago and allows users to produce AI-generated music based on styles and descriptors like \"meditation\" or \"lofibeats.\" Then users can upload Boomy created t"
+    publishedDateTime: 2023-05-09T17:49:00Z
+    webUrl: "https://mashable.com/article/spotify-ai-crackdown"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 67
+    images:
+      - url: "https://helios-i.mashable.com/imagery/articles/071RJhpSIU746lYgH5OoPxV/hero-image.fill.size_1200x675.v1683652620.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Novel AI-enabled robot to conduct automated scientific experiments"
     excerpt: "Researchers have developed an artificial intelligence (AI) system that can help robots to conduct automated scientific experiments - as many as 10,000 per day - potentially driving a drastic"
     publishedDateTime: 2023-05-06T00:21:00Z

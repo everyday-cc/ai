@@ -24,6 +24,22 @@ images:
     height: 353
     isCached: true
 
+related:
+  - title: "Sinequa Brings Reliable Generative AI to Product Lifecycle Management for Digital Thread Optimization"
+    excerpt: "Enterprise Search leader Sinequa has added new capabilities to its Search Cloud platform that enable manufacturers and"
+    publishedDateTime: 2023-05-09T17:42:00Z
+    webUrl: "https://www.datanami.com/this-just-in/sinequa-brings-reliable-generative-ai-to-product-lifecycle-management-for-digital-thread-optimization/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 24
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2023/02/AI-North-America23.png"
+        width: 1664
+        height: 674
+        isCached: true
+
 secured: "l9W7oFeawYwHly7xf8FCAl2hN/GB8r1t4cJQ2sjjdiu7IYcj3jvMxEvnK2qsD65aR6ZdgLF38pZNWE9uYR44MGTO/QWN/hU6sL8We3IUvsbwUsheg0jZS+KAqHtKbxL62PXhNWwoRTIFSsqPfj6tEAMw+/Sq9HfudYOVEOs6ZwKqS2o2H5QzGaNudZcMjOHyGxOL8GTCdtCCbvCpJidfTrRWyUPdW9bdRol2EI/AvenzwxlRqIjt1qmaOyV3m/siyR07d6Ub+8i5oD/v3pCMVB0hVi/zMw4p8bQrc6/+VlJuUwFyhM8a2BVmjW/pzKJr4blf8iB16lYkIjfn52rJs86C/qtIWo1/Jl8/Jvnhy3I=;MGUqUqhaBc+6W+OmxKCHjA=="
 ---
 

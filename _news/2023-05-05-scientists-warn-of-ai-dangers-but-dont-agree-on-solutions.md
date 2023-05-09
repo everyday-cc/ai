@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/scientists-warn-ai-dangers-a
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/scientists-warn-ai-dangers-agree-solutions-99051162"
 type: article
 quality: 59
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -66,6 +66,17 @@ related:
       name: National Catholic Register
       domain: ncregister.com
     quality: 37
+  - title: "Former Google scientist warns about the dangers of artificial intelligence"
+    excerpt: "A leading artificial intelligence researcher some call the “godfather” of AI says the technology is developing at a “scary” rate."
+    publishedDateTime: 2023-05-07T13:59:00Z
+    webUrl: "https://www.catholicnewsagency.com/news/254251/former-google-scientist-warns-about-the-risk-of-artificial-intelligence"
+    ampWebUrl: "https://www.catholicnewsagency.com/amp/news/254251/former-google-scientist-warns-about-the-risk-of-artificial-intelligence"
+    cdnAmpWebUrl: "https://www-catholicnewsagency-com.cdn.ampproject.org/c/s/www.catholicnewsagency.com/amp/news/254251/former-google-scientist-warns-about-the-risk-of-artificial-intelligence"
+    type: article
+    provider:
+      name: Catholic News Agency
+      domain: catholicnewsagency.com
+    quality: 35
 
 secured: "buDHZejMMml5TFepuMJuURFHhFr30VboK+Aec0LEVMDAjVcmoJ+lfgp/yuPyaXbIF7rcCwGUu0GQgZ2VeDBki/a8J1YJ0tl+uT19iFIoV/XXmR2M7UCaZHX51Qa9Yo3jV7CyzLavjAkb2V+Xk2Z8KUqvB5gVj6i08bb8yhNIvXnq4+TYtK8wFV0kQZeTIaRIxt8g/xLiMc3J2yH8HRRgP0biXMlElc5xVKM3wS0P4oky5L/F1ActXOC3h8dOCS7oWlDV+5U2wVP5V4UFIDN66kzvfWX3GAoR6mRzkHBxqgwr93lPcU9B7zn5zMu7tegzt2ZCSxlnDDwzdtlZgPXeumpwAZANfHExGuozLZ5/knY=;7r2a6dzGwL9Fgnn4mwzqvA=="
 ---

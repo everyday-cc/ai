@@ -110,22 +110,6 @@ related:
       name: IBM
       domain: ibm.com
     quality: 97
-  - title: "The Future Of Communication In The Age Of Artificial Intelligence"
-    excerpt: "Are you ready to future-proof your career? Discover how to blend your unique human skills with AI and stay ahead of the game. Don't risk being left behind and losing your job - read on to find out how to stay relevant in a rapidly evolving workforce,"
-    publishedDateTime: 2023-05-04T23:14:00Z
-    webUrl: "https://www.forbes.com/sites/kwamechristian/2023/05/04/the-future-of-communication-in-the-age-of-artificial-intelligence/"
-    ampWebUrl: "https://www.forbes.com/sites/kwamechristian/2023/05/04/the-future-of-communication-in-the-age-of-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kwamechristian/2023/05/04/the-future-of-communication-in-the-age-of-artificial-intelligence/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/645437c77701f76c839c02fc/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 685
-        isCached: true
   - title: "IBM: Remember Watson? It's Still Around, Ready to Give Your Business an AI Upgrade"
     excerpt: "IBM has a new AI and data platform called Watsonx (Opens in a new window) aimed at making it easy for enterprises to take advantage of artificial intelligence. The name Watson fir"
     publishedDateTime: 2023-05-09T13:03:00Z
@@ -164,6 +148,20 @@ related:
       - url: "https://techcentral.co.za/wp-content/uploads/2023/05/arvind-krishna-1500-800.jpg"
         width: 1500
         height: 800
+        isCached: true
+  - title: "IBM Unveils Watsonx Generative AI Platform"
+    excerpt: "Though long gone from the HPC systems business, IBM is asserting itself in the HPC-AI and generative AI markets with its announcement today of IBM watsonx, a genAI and data platform.  Announced at its annual Think conference in San Franciscolso,"
+    publishedDateTime: 2023-05-09T17:38:00Z
+    webUrl: "https://insidehpc.com/2023/05/ibm-unveils-watsonx-generative-ai-platform/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 54
+    images:
+      - url: "https://insidehpc.com/wp-content/uploads/2021/11/insideHPC_Guide_CDI_cover.png"
+        width: 300
+        height: 391
         isCached: true
   - title: "5 Ways Artificial Intelligence is Changing The Future Of Business"
     excerpt: "Tech - Artificial intelligence (AI) has been a game-changer in countless ways across the world. Companies and businesses are able to use enhanced AI systems to"
@@ -226,6 +224,6 @@ related:
         height: 353
         isCached: true
 
-secured: "XpS6/3WjEvFH46ye9BE0xA6yjlRn3c0nKUzOdQhIHgw5Ptn8cio4pCz6N/sB6+4eklnsOg11uuj4t3WV7YlY/pq0u495P1FFC61SXZ+1xUKV0MqXM3Jis6xtNP986CGEAPnp6s6wRBq5sCYg5UwiRDKg0CFmb/Gs9r9wjx8T5L+a7nuRj6mCmi2fa4Fk+ICdxgSkLrlFDaX0PdgIyCLjzLid0UtDrx+x+nxWlzWDlMR3wc0lULgqk64xxGx41V7GzA+8xlVWP3VWwmja58vEbcA7RQKqwfw3OXTofmeRhJxpl8wZnUJRrInqMlkGAjWjj70sm1eFd910aTmnYh4bU2b3oFCKhg9/TGt1mTinbhY=;XvXwSkMFCbqja4OZfwlJvw=="
+secured: "yfJaWQXI5CO/xDtdlCR6Nc34sb7KzA5wwVzNhkuntQGh9aBu2HBkV1dCEo82TdvZvVj4SpSqZGUaFf38LGsqOAXo8gISHnskmGPKkBCfuJp9SnFopDO+f8gjCvYSvDkkyxRt/baUzcFYkQXhQgFExalHHIdoYnEPjTUzmNCSEnDFqApnhbvGIBw1f9qZtiPeRIXFXKgrNY7viJiL1QCY7nXcA3clEk6dgY/DRfhamE2kVCH0N0S/573LFzKajlIiCWBluOmW3H3S8wyO9Sqixpz98onRIFD8+Hz8UaRDe26mXBfmQPtJPHyHW+AXQ3NcySO3L3gsFgxZu3e+8l3oPaAoC2MJBWdlNqxzj3p7KGYcXXQxJYl+k7vnsOV53sa8SgZI+nQ/y8AJXotn3xqF8/8XLzRRWhMGr8ABb/FBQGfqH/jPAAse3vfrgCqfeJHdNA04TbyE4hMxjYHsBCFesrEwcdrzQ9YYFsU6pXIkDrExaUv0y3UuGc51nxz5RAe0wCQ6KsU6sx6qHxYfuelUHg==;eVGDbj2jSGSnAwIzNsEi9g=="
 ---
 

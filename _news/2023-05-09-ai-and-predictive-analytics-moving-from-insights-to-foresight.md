@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/microsoft_/2023/05/08/ai-and-predictive
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/microsoft_/2023/05/08/ai-and-predictive-analytics-moving-from-insights-to-foresight/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "AI and advanced analytics drive sustainability and efficiency"
+    excerpt: "SAS offers AI and advanced analytics solutions that transform data into better decisions. Underpinning these solutions is SAS ® Viya ®, SAS' cloud-native, massively parallel AI and analytics platform."
+    publishedDateTime: 2023-05-09T17:49:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/05/09/9810792.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 39
+    images:
+      - url: "https://mma.prnewswire.com/media/2070825/istanbul_SAS.jpg"
+        width: 400
+        height: 267
+        isCached: true
 
 secured: "ewbcOyatadIR+Q7Q7ZtwJOKsmdZDSYIHx09fyzE2wRa4/hDoeMJ2miWW6CC/k1Gd953tWK0VcrYlI+0LwkpBocfRa8ye+i/3VkbEv7t1bOonnm5Hs0az7Zy3xTrmfB3WScY753DhDhGwPWDFTHAmSGwBHRDkViIclL5r1m6uPvitpGbCYq8m8rv1mIGg2ca6avBXEI0ygddr1NQRtRDjYDX35PDhGs50ke7j2JUsUEVjh5a/+IYd8r2Kt8lBnDgc3C3mylFtcuW3JPfs3speN0gS1Fz+SCXmByjXYYm6eFuDVQBVm0P63jCAQ+20hMsKBilf91zXz0k1TWUH+MAvh58oBxmbyfKDoxYbE/DDATRpRGUUbq9JE3ekCv9mrIBpU5ghGrQOlv+BqOn43MfZdusZh+UVPhQqULCu8Ilv+Bj5kh4yoBTuIJecuMWjqmtt+mRRsmS/+0LB6vXWqBYPs+RUfkvFLvuHSc9WekiPNjDeOOoR9zqzIg/RG+2svA83+spTrDs+ztsLBYdpqxLlqQ==;wjrenadMtip73xBqBMbSCg=="
 ---

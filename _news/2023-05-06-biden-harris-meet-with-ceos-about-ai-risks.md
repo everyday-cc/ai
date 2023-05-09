@@ -42,22 +42,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "White House Presses Tech CEOs on Dangers of AI"
-    excerpt: "Vice President Kamala Harris on Thursday met with the CEOs of several tech firms to discuss the risks associated with artificial intelligence as the White House announced a series of initiatives aimed at addressing those challenges."
-    publishedDateTime: 2023-05-04T23:25:00Z
-    webUrl: "https://www.cnet.com/tech/white-house-presses-tech-ceos-on-dangers-of-ai/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/white-house-presses-tech-ceos-on-dangers-of-ai/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/white-house-presses-tech-ceos-on-dangers-of-ai/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 87
-    images:
-      - url: "https://www.cnet.com/a/img/resize/1634a5d8b41d52b7d0986d9927a91ccf3a6f2a58/hub/2023/05/04/a4dcd50c-2635-4868-b9c0-cd84de750cb2/gettyimages-1485763663.jpg?auto=webp&fit=crop&height=630&width=1200"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Vice President Harris meets with CEOs about risks of artificial intelligence"
     excerpt: "Vice President Kamala Harris met on Thursday with the heads of Google, Microsoft and two other companies developing artificial intelligence."
     publishedDateTime: 2023-05-05T11:25:00Z
@@ -89,20 +73,6 @@ related:
       - url: "https://s.abcnews.com/images/Politics/wirestory_578d623e473b0eeb3fa3e4728d7e9868_16x9_992.jpg"
         width: 992
         height: 558
-        isCached: true
-  - title: "White House pushes tech CEOs to limit risks of AI"
-    excerpt: "The White House on Thursday pushed Silicon Valley CEOs to limit the risks of artificial intelligence, in the administration’s most visible effort to confront rising questions and calls to regulate the rapidly advancing technology."
-    publishedDateTime: 2023-05-04T23:53:00Z
-    webUrl: "https://www.spokesman.com/stories/2023/may/04/white-house-pushes-tech-ceos-to-limit-risks-of-ai/"
-    type: article
-    provider:
-      name: The Spokesman-Review
-      domain: spokesman.com
-    quality: 37
-    images:
-      - url: "https://thumb.spokesman.com/CBlgZKXNqFQYtJIZpcDj3uYoQzM=/1200x630/smart/media.spokesman.com/photos/2023/05/04/645437c2e7866.hires.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Biden Administration Turns To Hackers To Tame AI As White House Looks Towards Regulating Artificial Intelligence To Preserve Jobs"
     excerpt: "Gamers Making Thousands Selling Gaming Skins And Assets: Gameflip's Bold Vision For The Future Of Gaming Commerce Artificial intelligence (AI) technology — led by the growth of ChatGPT — has governments around the world concerned about its impact."

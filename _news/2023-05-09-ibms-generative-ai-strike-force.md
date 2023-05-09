@@ -50,6 +50,20 @@ related:
       name: Wired
       domain: wired.com
     quality: 51
+  - title: "Tracking Generative AI: How Evolving AI Models Are Impacting Legal"
+    excerpt: "A running compilation of how the legal landscape continues to be shaped by generative AI tools, from GPT technologies to art generation tools and beyond."
+    publishedDateTime: 2023-05-09T16:30:00Z
+    webUrl: "https://www.law.com/legaltechnews/2023/05/09/tracking-generative-ai-how-evolving-ai-models-are-impacting-legal/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 41
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/01/Numbers-Artificial-Intelligence-767x633.jpg"
+        width: 767
+        height: 633
+        isCached: true
   - title: "Godfathers of AI, too, now fear unbridled Generative AI tools"
     excerpt: "The Turing Award is named after Alan M. Turing, the British mathematician who developed the idea for the Universal Turing Machine, the basis for the first computer. Turing is also considered one of the founding fathers of AI, along with Marvin Minsky, Allen Newell, and Herbert A. Simon."
     publishedDateTime: 2023-05-05T02:59:00Z
@@ -65,6 +79,6 @@ related:
         height: 446
         isCached: true
 
-secured: "wW7tk7RqjqujMLphjL91EKtqwHrwYMX0MoBBIO7hyZUmM1CkgPYvm6DgZr7Mvez3FiVN2rRelg0WOqrL2KKOUVUaWxSw5K7AsNX+oOrlcOIPBKNx4XtISK8CGsXEk+rs+0Ee5H7zKTu6xboCx3pQVf5+poQAFA1CAdRkfLIMDTAKeGF2hUgs7InnWYh2Qx6rw04xaOEcJZR49W4U6yK4T29wzlY0wqPyc7wpm19WtkKLltk4q3ZNdnESov9Kz9VIaXaPPaJyDCQ+2JeAi8jy2pYh03/SdfQ5s9LOrTQGN9upsk7N0cjQ0OEQLdiul51o8CqaZxjkLX8tXDDyZnPHDLwHdl2GHF1fVgg1xbsuEV0=;JEDCFctv8LteqjdjB0xpMQ=="
+secured: "f8ppitsTKl/H3ajiIWESdNLZ3EpJHiIR0K2zfY2y2k+bsrJf8bV2gGzwLYdq3qkAqpe8q6efNVqSfZTZblU9QBagbAmaECb9T5uCSdle9E8VeimTfO6NvaASA3P0L6xCXczdsrPh8/uo43k1wIKvkOCcQVNoqmcZWUFT1yHgkLsXQzBiae0IdZkhOXwITM5XCf4XY7kL/nS8TAhecRLqxlbY1h6mwT3jMKTmfVafifpsfCNE6WsCGi0OQ9fODaPeUZqx1dJvmE3yj8CQ7+AIFg8omoRZoZQRz5R8T70FdZUbp0810/syzNfoK9DqH0v37+4y2UFWS0aEicqZzUxJPEa3aGvzPPbq8m71HckvKGx3V4Yj/+Lu2LiofzZbCEYUyqZv0cE3wAiTT5sS/FDoElB1+5X2hIcW2gwA7f775D46x6J5Ax8KKJEjZRx2yjZWEBORt2oCPAWca4pXEAN7xRf4tneGopbhHFMTzTL8j4FXWyZ7pFMO+mImkG5CoTjoBt71PGh/S/LRs0Bhsw/m9w==;lXVxR8180CV/AwP3xGIlFg=="
 ---
 

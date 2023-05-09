@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/technology/2023/may/05/geoffrey-hinton-g
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/may/05/geoffrey-hinton-godfather-of-ai-fears-for-humanity"
 type: article
 quality: 32
-heat: -1
+heat: 32
 published: false
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 620
     height: 372
     isCached: true
-
-related:
-  - title: "'Godfather of artificial intelligence' says AI is close to being smarter than us, could end humanity"
-    excerpt: "Geoffrey Hinton, the \"godfather of artificial intelligence,\" who left his prestigious job at Google this week, is sounding the alarm on the dangers AI poses to humanity. Hinton is a computer ..."
-    publishedDateTime: 2023-05-05T00:06:00Z
-    webUrl: "https://www.foxbusiness.com/technology/godfather-artificial-intelligence-says-ai-close-being-smarter-could-end-humanity"
-    type: article
-    provider:
-      name: Fox Business
-      domain: foxbusiness.com
-    quality: 39
-    images:
-      - url: "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2023/05/0/0/geoffrey-hinton-former-google-scientist.jpg?ve=1&tl=1"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "F/94Q6oO4WhZZppdl1enTVVgbNgte+XYCqXiEGKoDdaBB0Wc/iY4dHmy7YLeicd8dmUvpgqsAVLy67PNcZfKscHzoCvu3uESKkFfJHRuZJ2UsH8qL5+nX5WImgst85YVLrSXQh+XjsKs77wJ7Ji93PocNcqlRPSjjjGy2Bjp+sxu34r7UyAsWVNSlwXQqQaS7uejiHJYIi7AscQZ4nm5yZSE8wAQ+xN9dYWoh6An3/fxIKG5JwRs+KoaCd1Ivdcv4VH2wmjYkD+I3UHifudutPrPT46vb5f+9SbeMHZDXXWzBkGTvxwYgOlvPuCVU9P5vamgMfG7BhijL/wKPQ85XURRxa+r0t3S/r+qbgqpiud3QOu32dGix1PyJsfKsjaSY5iOkmUGYqHBWY5N7tplwR0JtkdAV+5WJeBO9EiiEV6MbC1REAKh6Ey6JmZPYjYTaH8Y+jYD+Od3b8+3BAWbgiI8zEj8xDcYIaLX6GvobhnsrpZ5C6kTFwLhhYShRJDN7sVS1Flc1FO/jUD2VjyC1w==;SjvvTVIxGSZg1ERXrj1Fbg=="
 ---

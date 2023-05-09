@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - Facebook AI
 
 images:
   - url: "https://beta.ctvnews.ca/content/dam/ctvnews/images/2023/4/28/1_6375107.jpg"

@@ -43,7 +43,21 @@ related:
         width: 630
         height: 330
         isCached: true
+  - title: "IBM unleashes new AI strategy with \"watsonx\""
+    excerpt: "Such is the case with IBM, the most recent entrant to the generative AI product and service world. At their annual Think conference in Orlando, they"
+    publishedDateTime: 2023-05-09T16:34:00Z
+    webUrl: "https://www.techspot.com/news/98621-ibm-unleashes-new-ai-strategy-watsonx.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 84
+    images:
+      - url: "https://www.techspot.com/images2/news/bigimage/2023/05/2023-05-09-image-7.jpg"
+        width: 2400
+        height: 1200
+        isCached: true
 
-secured: "WiICv0bpMFoWeRm507XdYOadnS1M9wj7szdbx9IUxmjsaNabghKIKha/I7LSXs0L0XDSLhU1buqDfRUYwZwiuJSO2L5qnomIfsGyLsVRvank7lWIpc/u47YvdpMFx4DSnb6ue6rwkjZBuZHstOzyf/ydXMMTO9v0YWU9vmVJ2AA+dC7NuBHChxaDaRtzVi0EmGXgsKdv3t5+vK6kE6aVhPY94XBPd0uP8prbN59XTMCO3xIyeqVIvaYHLeCN1tYwch8f8xI/OOEMHEXK7+neM1KPY8na1bkYIwv4JNikOU+8Bw3Ymq8uNXmwo/GxjC4xHEn5fJF82nFBxmdg7I241VXY7lDyvOP5Sjq3C4KZx9I=;AZceI/Tzeezjv07pAz5w6A=="
+secured: "BF6PtDVWYD9o3CFAY6vehBpJl2FjUSxa+B7ChiKyJWiAnYuOfPJIiyTMqNnkydjDtqwOakrfwUAPuJBxTIw8hLEGx2UzRozvSOAy4izes1W9v2yPibGG1EcVHPvr8P6UzctWXCs0lcH85KZvtQ5+6UkBP4pISXclXWkK/iy9rnb2llkfY1ensfW7e3YkSvWOPSKpBxqR+L8MYC0lghs+VZXnUK6qGtN9ZA/30DhqxOLpMXjYKlQT/Q5G5xeQDHGfzxe6ZN+V+qAmTe8EinttMIvJNpI8sj6OqsHTEMD0MO1xrOGGh+RCCMfOiaCqJR1pKs10bWcYiimcnEEuqpY3uP0p26+xa93XpfX1nx75pvduc6J4PfLDnF4b5ob70EuPp6xAlKlju+D0Re2QRFq1UUjUtIcZRqXmjDpupf/tUoY/FtsTdSGBvodOFHVymoxOJ80JIBUubSq96lJWnc9WcsMCoxXoeHlrAzRaIUrphcsQL4cNOjIRnCU8dG42h88y1CER1Kd6kdp1rBU+ENISfg==;YAqK2ku7UFU1FtGRojCFng=="
 ---
 

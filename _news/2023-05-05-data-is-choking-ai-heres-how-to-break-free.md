@@ -62,20 +62,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 47
-  - title: "Google Workspace is expanding access to its new generative AI features"
-    excerpt: "Google Workspace has announced that it is expanding its \"trusted tester\" program for its generative AI features by ten times."
-    publishedDateTime: 2023-05-04T23:37:00Z
-    webUrl: "https://bgr.com/tech/google-workspace-is-expanding-access-to-its-new-generative-ai-features/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 37
-    images:
-      - url: "https://bgr.com/wp-content/uploads/2023/05/gmail-ai-google-workspace.png"
-        width: 1624
-        height: 916
-        isCached: true
   - title: "There’s Still A Long Way To Go With Generative AI"
     excerpt: "The tech world is awash with generative AI, which for a company like Nvidia, is a good thing. The company that a decade ago put its money down on AI to be"
     publishedDateTime: 2023-05-05T13:54:00Z

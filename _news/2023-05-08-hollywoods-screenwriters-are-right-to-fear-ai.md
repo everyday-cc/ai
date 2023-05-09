@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/story/hollywood-screenwriters-artificial-intel
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/hollywood-screenwriters-artificial-intelligence-guardrails/amp"
 type: article
 quality: 87
-heat: 187
+heat: 177
 published: true
 
 provider:
@@ -57,22 +57,6 @@ related:
       - url: "https://static01.nyt.com/images/2023/05/05/multimedia/05dc-ai-wh1-ztlm/05dc-ai-wh1-ztlm-facebookJumbo.jpg"
         width: 1050
         height: 550
-        isCached: true
-  - title: "AI Decision-Making in Hollywood Is Already Here, Now What?"
-    excerpt: "Chat bots and AI-generated videos show the possibility of the tech. But more insidious are the black box algorithms that decide what's popular — directly influencing which stories to tell and how. In the nonfiction space,"
-    publishedDateTime: 2023-05-04T23:36:00Z
-    webUrl: "https://www.hollywoodreporter.com/business/digital/ai-filmmaking-algorithm-documentaries-non-fiction-1235478174/"
-    ampWebUrl: "https://www.hollywoodreporter.com/business/digital/ai-filmmaking-algorithm-documentaries-non-fiction-1235478174/amp/"
-    cdnAmpWebUrl: "https://www-hollywoodreporter-com.cdn.ampproject.org/c/s/www.hollywoodreporter.com/business/digital/ai-filmmaking-algorithm-documentaries-non-fiction-1235478174/amp/"
-    type: article
-    provider:
-      name: The Hollywood Reporter
-      domain: hollywoodreporter.com
-    quality: 59
-    images:
-      - url: "https://www.hollywoodreporter.com/wp-content/uploads/2023/05/aicamera.jpg?w=1024"
-        width: 1024
-        height: 576
         isCached: true
   - title: "AI and the Hollywood Writers’ Strike"
     excerpt: "The fear—or hope, depending on side of the desk you sit on—is that AI can replace writers and undermine their fees. One of the key sticking points in the Writers Guild of America (WGA) strike that began on May 1 at midnight,"

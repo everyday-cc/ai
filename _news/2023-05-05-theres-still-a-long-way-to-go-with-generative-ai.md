@@ -67,20 +67,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 47
-  - title: "Google Workspace is expanding access to its new generative AI features"
-    excerpt: "Google Workspace has announced that it is expanding its \"trusted tester\" program for its generative AI features by ten times."
-    publishedDateTime: 2023-05-04T23:37:00Z
-    webUrl: "https://bgr.com/tech/google-workspace-is-expanding-access-to-its-new-generative-ai-features/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 37
-    images:
-      - url: "https://bgr.com/wp-content/uploads/2023/05/gmail-ai-google-workspace.png"
-        width: 1624
-        height: 916
-        isCached: true
 
 secured: "B9kcshKrExCZRdRke2/pmBf3GBlRNITC2ePCZGHiMfM+RBhmw/iU/biF3RITJWUtq6dWESdt4MGEy1WlGhp2TIylOVVckDr9v6dGkYoKbjROQY6rrtrYxRP2sFwKKl4CA5QXi9DExFei70faHl0ViFURMlZXbxf837D+Randt2gA1ekSQMHd+pi17qBikq8C/pA82o3rHpwHX54Sw5aRWGlHc6H5c37icCqCQ/fVXrEosXBQ+09oC5wCyEciJ+tF9NhqR/55Z9WLgvG9SB2f3Lc2M/2YcHJKRlDpVSroS5afdSLw0VdUescA4OzTWAzi6csAIxP2aQzkKxN91PBh6EpZJMjYuCwjHsOIfxiPr1zEB/96LIcbKunTp/1kYjP6QWJX4pNjwWAjCutZW/qYJ3hc3CGwtOkz4d3wct8vCT0zA22qXTwvGzmdxI7b/W6AlRBXhwY4GVeZ8cnK/0jZPMjZ1s+TBV+HRPJRB5HdO3O12ZdwKS7o84NMlnqc8sZSXYmNi1niYrycBkF8YL9esQ==;5Tis4lpcKfa47rZbEfmeZg=="
 ---

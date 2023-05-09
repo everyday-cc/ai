@@ -66,6 +66,17 @@ related:
       name: National Catholic Register
       domain: ncregister.com
     quality: 37
+  - title: "Former Google scientist warns about the dangers of artificial intelligence"
+    excerpt: "A leading artificial intelligence researcher some call the “godfather” of AI says the technology is developing at a “scary” rate."
+    publishedDateTime: 2023-05-07T13:59:00Z
+    webUrl: "https://www.catholicnewsagency.com/news/254251/former-google-scientist-warns-about-the-risk-of-artificial-intelligence"
+    ampWebUrl: "https://www.catholicnewsagency.com/amp/news/254251/former-google-scientist-warns-about-the-risk-of-artificial-intelligence"
+    cdnAmpWebUrl: "https://www-catholicnewsagency-com.cdn.ampproject.org/c/s/www.catholicnewsagency.com/amp/news/254251/former-google-scientist-warns-about-the-risk-of-artificial-intelligence"
+    type: article
+    provider:
+      name: Catholic News Agency
+      domain: catholicnewsagency.com
+    quality: 35
 
 secured: "NT1Qwc5ECX2U0zZOdgeln0veEr8tLMI0S8Ar6fTXnXPkdMTvJm/5LPB+83eb7BEK6J2rgN9L8cXi5B4mChRhYDz3cy1Y0Hm98Yx8KnGlBTH6pkYUmSpaEEABNZE60SqlTUIx62edD/XwpcOHK6qkAP/goT2Sk5jJsAA32amICFrGa/9xd9OaYZTJnjs8DKEJRRh7jqqDsbVuji0E7CyvZU+XuzrjVrwplIa1lopI5EfJNgsK0LmrirSxkgHsv7w03n4gZM69Zx2Eb+PTsenTvb2Nns+P2u/Eez2jZxReLO0x2yTYKDRRpqRMJ8ZOmIaCNju9HhxqtxbN7zaDMohY7DoTkO82pEBjOtLYxqAs+8Q=;idBImuP4U9MqFsdS57nLUQ=="
 ---
