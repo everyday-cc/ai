@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/gregpetro/2023/05/04/behind-the-hype-ab
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gregpetro/2023/05/04/behind-the-hype-about-ai-transforming-consumer-businesses/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -52,20 +52,6 @@ related:
       - url: "https://www.ciodive.com/imgproxy/ArdjKqH_M6Qda4q_61cVhQAyFro4BqPoZNqLfAFdujU/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTgwMjMyMDgzNl9yV0VrMjI5LmpwZw.jpg"
         width: 770
         height: 435
-        isCached: true
-  - title: "Smarter-than-humans artificial intelligence is coming fast as business looks for profits"
-    excerpt: "Voices worried about an AI takeover were thin on the ground a few years ago. But despite a recent flood of calls for restraint as the technology improves by leaps and bounds, AI's money-making and defense potential appears irresistible."
-    publishedDateTime: 2023-05-04T08:00:00Z
-    webUrl: "https://www.cbc.ca/news/business/ai-doom-column-don-pittis-1.6829302"
-    type: article
-    provider:
-      name: CBC.ca
-      domain: www.cbc.ca
-    quality: 30
-    images:
-      - url: "https://i.cbc.ca/1.6829334.1683039668!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/tech-ai-hinton.JPG"
-        width: 620
-        height: 349
         isCached: true
 
 secured: "8cC0ye31dnwdzZuQEE3tC21p0vJkLjUGRgxEW+GSVbDVnK7fLv00/06xebTFwXIfSxquTHYd+VmFocaDTF4GKaj/MXZzobrTTuk6RvRO241lIlXRMsnmziZHGROoWeEa6A/hYXX4TB28kGwiE067fU/+PF9btsEVMXtPQAmyXydM+lHdP03yU43rsSxSQzcr5rkj1xaStf4mcnLznyEjc3tW4bUoQyoh3yJC7TLS50iPc8yON5AE3wqPhPZcNf/BHiXimUx4Dj3CZQIbyHyltLr4oIYpbHi35GUj4NDb+p/LA83IVjYPrD5UUPHSgpVrWxCZPnfdU/HuCBZj2An3saBo+NVWJc66OKdmUnWqomo=;MvO4q4xUEgoRc4lKSWrw5w=="

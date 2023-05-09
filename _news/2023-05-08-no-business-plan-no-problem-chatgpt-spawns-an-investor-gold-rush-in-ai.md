@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/articles/no-business-plan-no-problem-chatgpt-s
 webUrl: "https://www.wsj.com/articles/no-business-plan-no-problem-chatgpt-spawns-an-investor-gold-rush-in-ai-6bdbed3c"
 type: article
 quality: 66
-heat: 126
+heat: 136
 published: true
 
 provider:
@@ -97,6 +97,15 @@ related:
         width: 2048
         height: 1365
         isCached: true
+  - title: "Google shared AI knowledge with the world — until ChatGPT caught up"
+    excerpt: "In op-eds, podcasts and TV appearances, Google CEO Sundar Pichai has urged caution on AI. \"On a societal scale, it can cause a lot of harm,\" he warned on \"60 Minutes\" in April, describing how the technology could supercharge the creation of fake images and videos."
+    publishedDateTime: 2023-05-04T15:36:00Z
+    webUrl: "https://www.detroitnews.com/story/business/2023/05/04/google-shared-ai-knowledge-with-the-world-until-chatgpt-caught-up/70183544007/"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 19
   - title: "In 30 secs, ChatGPT produces 643 words on India and AI; Edge manages just 143"
     excerpt: "In the IANS New York office, we have been experimenting with chatbots and one of the tasks we set for the two as a test was to \"write a report"
     publishedDateTime: 2023-05-08T12:55:00Z

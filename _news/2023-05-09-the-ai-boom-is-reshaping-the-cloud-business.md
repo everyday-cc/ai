@@ -51,20 +51,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 63
-  - title: "Smarter-than-humans artificial intelligence is coming fast as business looks for profits"
-    excerpt: "Voices worried about an AI takeover were thin on the ground a few years ago. But despite a recent flood of calls for restraint as the technology improves by leaps and bounds, AI's money-making and defense potential appears irresistible."
-    publishedDateTime: 2023-05-04T08:00:00Z
-    webUrl: "https://www.cbc.ca/news/business/ai-doom-column-don-pittis-1.6829302"
-    type: article
-    provider:
-      name: CBC.ca
-      domain: www.cbc.ca
-    quality: 30
-    images:
-      - url: "https://i.cbc.ca/1.6829334.1683039668!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/tech-ai-hinton.JPG"
-        width: 620
-        height: 349
-        isCached: true
 
 secured: "hbhId3+zieRLuwhY/VkUjlPBsq3E8H51EDbbZ3O1PonjIq7nq1xyIxUFSjWYmixnwpnOCybC0FJ3ZkpPX8sjsVyrA2FvcvBjsLUmC7O0adIEjMXNnYVOaByLPFobQFCRolgg/SMVvfdplPmCbfEaRfJUsOXuroYJhv/eobxHb4Th4oJyFLrljEH24oNWOnm5sIh6jh+KKAQYrc46/a0uM3uJ+hduF1QvwJHkKo1ZTACmtahukzdo2T7RjT1YHTw38DTCeIZLT2YcPnD4VWj1yuA72hvwkaneyTiXWIn+2MC1PplM9vjsFFeXJLIUHzt7O/tlNBeLCQ5XWOrhrBf4BCA0YXNMKL5OjV77r/cRqYk=;tENzV3l/btLLRTtbp3YesA=="
 ---

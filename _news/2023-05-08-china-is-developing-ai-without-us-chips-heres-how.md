@@ -41,6 +41,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Chinese Tech Companies Forced To Think Outside The Box To Overcome US Chip Ban In The Race For AI Supremacy"
+    excerpt: "By the time the sanctions were issued in October, Chinese institutions were producing 4.5 times more research papers on the topic of AI than American ones, according to a report released by State of AI. The release of ChatGPT in November 2021 by OpenAI ..."
+    publishedDateTime: 2023-05-08T19:12:00Z
+    webUrl: "https://markets.businessinsider.com/news/etf/chinese-tech-companies-forced-to-think-outside-the-box-to-overcome-us-chip-ban-in-the-race-for-ai-supremacy-1032303426"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 68
+    images:
+      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/Computer,Support,Engineer,Installing,Processor.,Microprocessor,With,Clearly,Visible,Silicon.jpeg"
+        width: 1024
+        height: 768
+        isCached: true
   - title: "State-sponsored Chinese AI firm launches bot service to ‘surpass’ ChatGPT"
     excerpt: "State-subsidized AI company Iflytek recently launched a GPT competitor it says will rival and surpass OpenAI's popular ChatGPT service by the end of the year."
     publishedDateTime: 2023-05-08T18:59:00Z
@@ -127,15 +141,6 @@ related:
         width: 860
         height: 573
         isCached: true
-  - title: "Chinese Tech Companies Forced To Think Outside The Box To Overcome US Chip Ban In The Race For AI Supremacy"
-    excerpt: "Nvidia’s A100 chip, the industry standard for training AI models, is banned for Chinese companies and institutions. Chinese companies like Huawei are developing new creative techniques to overcome the chip embargo, like combining multiple slower chips."
-    publishedDateTime: 2023-05-08T19:00:00Z
-    webUrl: "https://www.benzinga.com/news/23/05/32271684/chinese-tech-companies-forced-to-think-outside-the-box-to-overcome-us-chip-ban-in-the-race-for-ai-su"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 16
 
 secured: "xWAoAW9LMzL/ht/JMPzmU7kimqPmfDvKrptk+qQba8PIzUlBE8S0QhSEpxwiYDRGZDVrDBzoYxsKutrkThf6ojpvMpLXLurlMiFcSkXWuHbMszsk3dVffJB63X3EzSkvDMOCRKO8hRKFrezTqOZyIZboAZrflCTuX6SVvr8aRYzMPdac33W5rrSl+f/vLkcU/ySElFz1aVdR7GV2Kuej4gUcXqje9YOzcPqDqlwxCa7OBAvGBZGqhcNQLbJ+SB/JaJ8wwKAm8pQd7Q7i5xjboThsMHlaOngAs8Jc6QhIrRYmagaYv8E5tvJEwR+FeC0NxBiFdwdFcwu16F8avhvkK0Hy2Y/B/LNON3N+q8WB02VmSXPM4fh65F6NhVFmLn5QyjCrNu4X78tfKMeX13WDhXj2ClEMX8V7xfk1n97/lt0TjpNFApUp3xhB+XjQ9gguv5rEIXe1Qez+KfHpaAcHkxuRlqCeLWMOh7J/VJdbi7PvenY/BQuM9rE6Vmesj78ZmTfOMUoeUZxdXH5k3+8sJw==;Ny0jCE8PENsUwuw32Yp1Cw=="
 ---

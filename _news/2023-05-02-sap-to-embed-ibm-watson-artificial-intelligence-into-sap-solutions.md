@@ -1,20 +1,30 @@
 ---
 category: news
 title: "SAP to Embed IBM Watson Artificial Intelligence into SAP® Solutions"
-excerpt: "New AI capabilities in SAP Start will be designed to help users boost productivity with both natural language capabilities and predictive insights using IBM Watson AI solutions built on IBM's ..."
-publishedDateTime: 2023-05-02T13:52:00Z
-originalUrl: "https://www.morningstar.com/news/pr-newswire/20230502cl86092/sap-to-embed-ibm-watson-artificial-intelligence-into-sap-solutions"
-webUrl: "https://www.morningstar.com/news/pr-newswire/20230502cl86092/sap-to-embed-ibm-watson-artificial-intelligence-into-sap-solutions"
+excerpt: "SAP to Embed IBM Watson Artificial Intelligence into SAP® Solutions May 02, 2023 (PRNewswire via COMTEX) -- PR Newswire WALLDORF, Germany and ARMONK,"
+publishedDateTime: 2023-05-02T13:00:00Z
+originalUrl: "https://www.marketwatch.com/press-release/sap-to-embed-ibm-watson-artificial-intelligence-into-sap-solutions-2023-05-02"
+webUrl: "https://www.marketwatch.com/press-release/sap-to-embed-ibm-watson-artificial-intelligence-into-sap-solutions-2023-05-02"
 type: article
 
 provider:
-  name: Morningstar
-  domain: morningstar.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - IBM AI
   - AI
 
-secured: "tFfm1IehsVYcIpqcEJA4Dai3r5rUYC6Zgm4WNgLusAK2MFBytnX3XdOSOpyazS5YR3y3mOWQS5uHL/cmdfuRwPgvLOzDzIu/mY0tiEoxEodY5faT4Y/eOYNNJNCKLsS2n2c5d4Bsd7/gYVvIzHa1nlKYrUH8RtMfenOxQHMgw36ektZZME4I/DAQZHNHsOW6vnBp5FfStbpOqXNPdW4A+MaX05+WdN937Hsy7uN09nE4QhfMyfsxJgAKzKv+G9eyMZaIfRWRBaSinAOvHrnpEr9uALjV6VR8Zehi1OxqUK33AEME2oaxH7Nim6Qg5j+AMYCBodHKmhdoAE4lA9VrXAbCDAcnG4dKiY0YnEtLeaI=;dttiUFADySv8mIxiHkqdpA=="
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "vrLA/7wA3AP4I2cZQ1+/XHAhFGwiHRCnDAU3QxS7+3iRpBsKYB10fWuVo9odhZILu0iEglscIYw2d5yGNVOEgNTWmMqhdVrlpKg/yFZctkM8LxUo3IK3vayKr5gUvn1yMrLGYNurb+NyVLt72Wmo719GwWc5C4bouAp5hJREggMsKjgRo194KLM1vMetd5zBr2f0Ph3D6rjnPi1x47/FRpdH2QB54HV7fvAVGaQNOnEAPPGlc2NUU8RnT71B9LUA2S0KWOC9FeqgKIJqjL65W9pWt7jnSe6oDcpNhMiGfEPMiX2I7cVc04VGoibBxZu1IMkseOfv59YKjdQo8tfW5a4skvS1rxLeqdce0owVSw4=;sqjnMUGvjfIdPa+FVzKtow=="
 ---
 

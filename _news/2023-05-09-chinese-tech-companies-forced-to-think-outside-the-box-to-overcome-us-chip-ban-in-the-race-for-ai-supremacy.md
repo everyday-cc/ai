@@ -1,22 +1,33 @@
 ---
 category: news
 title: "Chinese Tech Companies Forced To Think Outside The Box To Overcome US Chip Ban In The Race For AI Supremacy"
-excerpt: "Nvidia’s A100 chip, the industry standard for training AI models, is banned for Chinese companies and institutions. Chinese companies like Huawei are developing new creative techniques to overcome the chip embargo, like combining multiple slower chips."
-publishedDateTime: 2023-05-08T19:00:00Z
-originalUrl: "https://www.benzinga.com/news/23/05/32271684/chinese-tech-companies-forced-to-think-outside-the-box-to-overcome-us-chip-ban-in-the-race-for-ai-su"
-webUrl: "https://www.benzinga.com/news/23/05/32271684/chinese-tech-companies-forced-to-think-outside-the-box-to-overcome-us-chip-ban-in-the-race-for-ai-su"
+excerpt: "By the time the sanctions were issued in October, Chinese institutions were producing 4.5 times more research papers on the topic of AI than American ones, according to a report released by State of AI. The release of ChatGPT in November 2021 by OpenAI ..."
+publishedDateTime: 2023-05-08T19:12:00Z
+originalUrl: "https://markets.businessinsider.com/news/etf/chinese-tech-companies-forced-to-think-outside-the-box-to-overcome-us-chip-ban-in-the-race-for-ai-supremacy-1032303426"
+webUrl: "https://markets.businessinsider.com/news/etf/chinese-tech-companies-forced-to-think-outside-the-box-to-overcome-us-chip-ban-in-the-race-for-ai-supremacy-1032303426"
 type: article
-quality: 16
+quality: 68
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI Hardware
+  - Facebook AI
   - AI
+  - AI Hardware
+
+images:
+  - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/Computer,Support,Engineer,Installing,Processor.,Microprocessor,With,Clearly,Visible,Silicon.jpeg"
+    width: 1024
+    height: 768
+    isCached: true
 
 related:
   - title: "U.S. Sanctions Drive Chinese Firms to Advance AI Without Latest Chips"
@@ -136,6 +147,6 @@ related:
         height: 573
         isCached: true
 
-secured: "JJYdQzjKoL7n/umpIdlnyV6zze7uTMDTv9u9+V4B3k9xEMs21dcGOBbNBQZVsVl9jBYRTpkkf/ygOTH1DJz4oMwqR+5pOZfWQutUHF21zs3wOFTFNK0PCLgM6itAyu3zR0KqAboeoLUw8Ylb1JnXBuAExdOzf2vZOWoNCtT5WB+mndDC1d/X45HxjDmEoHFU9J0eh1hp9pPAnkHZOATfJkw+TtpflgHmw5A7Wl68bsSrQm+Atv/VbnsXp/GjYR6T8D3idz4+sJWa7WrdByJaZlRwfkHq93Ml1Q1MklZVuDIKGUY1tBothh+6M26MrAtG+oBcgY2yh7CJAkdaqEFyC0erhmKNcLo8UhsFXwcn9U8=;lmXOvGO2G1a+diD36DfXag=="
+secured: "NKus6zT4pITULLzr22eAgFeMxC++LXqMIcIcKY4r+DkWhztxK9rlasLpM938Nm835lKzMs8nbMBsDA2Vvl7gLsVOnbRIzsIleFSpzkacHjRHlVHsxC0kpdxTCJW1kWfUF53EjqDxZrMx3GTn1XX4c2CAzbVQB41mZNd2662rDycJT927yAK0cYf0jNK2HhvXdMqvZH1yxNa/oEkU5oOkfyeqIGY1Fev92OVZWZx5F4jj7yRpsUG+Rjiy8TUyViSkg6ZXH6o7IKx1x3aUe99b0osXrVd5NHbNZhHDP7zdHyxZRyPePu0WaXyQBPJ6mAifms9YGibzj41o2EyiDmm/07FZDnUSf1CJD5ye2OD4Xdg=;0eghZQg+vsm63dS6fqXeJw=="
 ---
 

@@ -1,18 +1,22 @@
 ---
 category: news
 title: "IEEE Computer Society Emerging Technology Fund Recipient Introduces Machine Learning Cybersecurity Benchmarks"
-excerpt: "Today, at the virtual Backdoor Attacks and Defenses in Machine Learning (BANDS) workshop during The Eleventh International Conference on Learning Representations (ICLR), participants in the IEEE Trojan Removal Competition presented their findings and success rates at effectively and efficiently mitigating the effects of neural trojans while maintaining high performance."
-publishedDateTime: 2023-05-05T21:05:00Z
-originalUrl: "https://it.tmcnet.com/news/2023/05/05/9808842.htm"
-webUrl: "https://it.tmcnet.com/news/2023/05/05/9808842.htm"
+excerpt: "Presentation at The Eleventh International Conference on Learning Representations (ICLR) debuts new findings for end-to-end neural network Trojan"
+publishedDateTime: 2023-05-05T21:17:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/ieee-computer-society-emerging-technology-fund-recipient-introduces-machine-learning-cybersecurity-benchmarks-1032298575"
+webUrl: "https://markets.businessinsider.com/news/stocks/ieee-computer-society-emerging-technology-fund-recipient-introduces-machine-learning-cybersecurity-benchmarks-1032298575"
 type: article
-quality: 20
+quality: 50
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Machine Learning
@@ -42,6 +46,6 @@ related:
         height: 675
         isCached: true
 
-secured: "shkgLRMtYnC439qKaYTyklKpbTZ7tOBt9lDw2gw/5eRXMUR8bMC+LLV4r1YKbXprircy6mEEt7C9152ZM6NvggQHV5mObBUXPD1fBeeAl/lX+/3/PCWnBqgkX3ic//FqaLIbuBid0eJ3sEj0Debw3Pc0ervK1AIzCQA18J3vYIZzOOOIbQYlz/CIr5t+EFaB66TK1tyicQEMUMZVVNqOOg2mpwA8oW7XfEDyQhyxYBmBUg8PvBs0fHHpK5hksA4bO4aPMs01TTj6b8pA4gFCBpzIvDvBSGKpRLP4Los0qGzDbyWupS8zIRZmcVgHWApsraIC8mqXNmq7QzCkpmswnYThtAcLZkBLdA9yf1Af/I4=;LBhiirfde2T9JjlmGI/o9g=="
+secured: "RoXysBSd2163VRQOxnMcBfHVb6olbRqiDNI3o1suhbIRlqavFSuzfkR+6TzWlff2qjLyZQXMT+XXEpTXmez7Vty1rwnumlZ3v1PamCBhAyhQcF/WkabP1sdCO9u65DMiFyyOELCe5blrSuzXRMh5DturuCg8WmD8QwLGzokN7Y/UN6pHV/zxjHdqg8DkA7WHggDVjcT2SpkszyZAgtw11awh6NrWnpKlG0G5k/ZsvV4zKthpTGTEDmtxr1DWXT1nMBsw4Aq8+EFbi+sJGaqanAFJND0HkoQhD4kaw3GnkrupyM1Uc0usJGKjfG3FIo6GzcHLJIlnwXxoRyvgw4elQFCbEWhFqWXnhlfMe9EErDA=;CCbnhwVDdghQUj3HVN2AQg=="
 ---
 

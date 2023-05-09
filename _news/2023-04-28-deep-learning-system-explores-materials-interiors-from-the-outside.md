@@ -1,28 +1,24 @@
 ---
 category: news
 title: "Deep-learning system explores materials' interiors from the outside"
-excerpt: "Maybe you can't tell a book from its cover, but according to researchers at MIT you may now be able to do the equivalent for materials of all sorts, from an airplane part to a medical implant. Their new approach allows engineers to figure out what's going on inside simply by observing properties of the material's surface."
-publishedDateTime: 2023-04-28T12:46:00Z
-originalUrl: "https://techxplore.com/news/2023-04-deep-learning-explores-materials-interiors.html"
-webUrl: "https://techxplore.com/news/2023-04-deep-learning-explores-materials-interiors.html"
-ampWebUrl: "https://techxplore.com/news/2023-04-deep-learning-explores-materials-interiors.amp"
-cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-04-deep-learning-explores-materials-interiors.amp"
+excerpt: "The team used a type of machine learning known as deep learning to compare a large set of simulated data about materials' external force fields and the corresponding internal structure ..."
+publishedDateTime: 2023-04-27T23:59:00Z
+originalUrl: "https://www.sciencedaily.com/releases/2023/04/230428130819.htm"
+webUrl: "https://www.sciencedaily.com/releases/2023/04/230428130819.htm"
 type: article
 
 provider:
-  name: techxplore
-  domain: techxplore.com
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Machine Learning
   - AI
 
-images:
-  - url: "https://scx2.b-cdn.net/gfx/news/2023/deep-learning-system-e.jpg"
-    width: 900
-    height: 600
-    isCached: true
-
-secured: "yCNkktDEp2bQwnCJubF6Mgi+fno0wudlyrqpuBtSMRPT5Ksy8eFPKPOy30MYCD2GXi2I80TGVqYMqv0did/ujwhzPmsj0Qc0N+lWoVSRRShphBMdtVs8jVluCiC0ZGMxyIPRJ7ZBLxBiWaStH6XFI/iLShMLA9IjABRW70TmtSSc7lUQ6R+VF6YHQnn5igAyr/d2CLWsm0/ko2Zzao+ykVzhvCp97XY+vUkSdufskrM3tqAJWYMpRyQu+Im7dIQIIc63LcpPwXBlgrBfAgmnPT/GD3J6/OwjJVB8CLBDUCfhYDR9YXNUGu2uFIqT8kMVYFZqrSvoWfBzbgOllUTZReCRbDTmY+05yp2swCEDcVBWCRsXWbOpxonS5Kl9gI7AgdfwOWkV6JRVcuXEq5jws3celNq54CE7Z+eHVQxsyVvAoCjmoloEbO83/cMTVRKCFWMIdTMiMw6cw4wh+f4O/IEbmDH351oSGawH+ZeOxS+nCadCibxlXpoa6ehnOfglyoHveB8TLgfpYX0CuiuZvQ==;rnaCMaxntmP9NRKEqtXjTQ=="
+secured: "H48hYY6W3px3RLvvxb5TqDpe5HWsVjnWiiEIeMzmrZruxF+/rafIBBu9RLeKth2T9BsH7rXNaC9zbRaNDWknncdb4MoXYyW0HLRZFgYQRRMLcsuCWs5gCGJqzWAtIisD0zuvRCx2TWTYEtl6wAXM9LxM9V0G6PH20yDYdVV+6ErH74RwmY0Ae0m3M5DDNOKEsnbRMHfQkxd+ty3jnv67AAmnI1u1E+zZcO767R01SWLySARiOmFjvv/dUyBRH6dTDqTh3yAUZjecBXdLzX1nYoBtHOjix/P0C4ayyY6f1cU+zSD6Teh23hjW3ScOWFa875uzIkZGw+lnho7Sf+h6SagzaKsTdiD7Jpx4DZMyXSY=;Zf8l/TrFBe/7fBS5GmSqQA=="
 ---
 

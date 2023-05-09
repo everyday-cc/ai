@@ -24,6 +24,34 @@ topics:
   - Microsoft AI
 
 related:
+  - title: "Natural Language Processing For Healthcare And Life Sciences Market Projected to Show Strong Growth by 2030| Microsoft, Google, IBM, 3M"
+    excerpt: "The Global Natural Language Processing For Healthcare And Life Sciences Market research report gives an essential outline"
+    publishedDateTime: 2023-05-08T10:16:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-for-healthcare-and-life-sciences-market-projected-to-show-strong-growth-by-2030-microsoft-google-ibm-3m-2023-05-08"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 71
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Face Recognition Paper Picker Market Projected to Show Strong Growth by 2030|Sunpn, SVAVO, Shikoku, Kimberly-Clark"
+    excerpt: "The \"Global Face Recognition Paper Picker Market Report 2030\" offers a clear understanding of the subject matter. The"
+    publishedDateTime: 2023-05-08T11:33:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-paper-picker-market-projected-to-show-strong-growth-by-2030sunpn-svavo-shikoku-kimberly-clark-2023-05-08"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 47
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Privacy-Preserving Computation Market Size, Growing Demand and Trends 2023 to 2030 |Basebit.ai, Google Cloud, Microsoft Azure, IBM Cloud"
     excerpt: "The Privacy-Preserving Computation Market research studies not only save you hours of effort but also give your"
     publishedDateTime: 2023-05-05T08:53:00Z

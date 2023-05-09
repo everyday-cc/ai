@@ -1,18 +1,22 @@
 ---
 category: news
 title: "Galileo Unveils ML Data-Quality Intelligence Platform for Faster, More Accurate Computer Vision Models"
-excerpt: "Galileo, the first-ever machine-learning (ML) data intelligence company for unstructured data, today announced the launch of its proprietary data-quality intelligence platform, called Galileo Data Intelligence for Computer Vision. The first-ever solution ..."
-publishedDateTime: 2023-05-08T13:22:00Z
-originalUrl: "https://www.joplinglobe.com/region/national_business/galileo-unveils-ml-data-quality-intelligence-platform-for-faster-more-accurate-computer-vision-models/article_7fdc3049-f1c3-5008-ad46-5f69cbd46077.html"
-webUrl: "https://www.joplinglobe.com/region/national_business/galileo-unveils-ml-data-quality-intelligence-platform-for-faster-more-accurate-computer-vision-models/article_7fdc3049-f1c3-5008-ad46-5f69cbd46077.html"
+excerpt: "Galileo, the first-ever machine-learning (ML) data intelligence company for unstructured data, today announced the"
+publishedDateTime: 2023-05-08T13:00:00Z
+originalUrl: "https://www.marketwatch.com/press-release/galileo-unveils-ml-data-quality-intelligence-platform-for-faster-more-accurate-computer-vision-models-2023-05-08"
+webUrl: "https://www.marketwatch.com/press-release/galileo-unveils-ml-data-quality-intelligence-platform-for-faster-more-accurate-computer-vision-models-2023-05-08"
 type: article
-quality: 40
-heat: -1
-published: false
+quality: 70
+heat: 110
+published: true
 
 provider:
-  name: Joplin Globe
-  domain: joplinglobe.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Computer Vision
@@ -20,9 +24,9 @@ topics:
   - Machine Learning
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/9/3a/93a03388-f0a8-53f1-af30-bd9bc24ea70a/6458f48871254.image.jpg?crop=1153%2C605%2C0%2C24&resize=1153%2C605&order=crop%2Cresize"
-    width: 1153
-    height: 605
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -63,7 +67,21 @@ related:
       name: datanami.com
       domain: datanami.com
     quality: 20
+  - title: "Genialis Unveils Expressions Version 3.0, Cloud Software for Faster, More Secure Data Processing and Management"
+    excerpt: "Genialis, a computational precision medicine company unraveling complex biology to find new ways to treat disease, today released Genialis (™) Expressions version 3.0 to accelerate translational and clinical biomarker discovery."
+    publishedDateTime: 2023-05-08T15:09:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/05/08/9809370.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 4
+    images:
+      - url: "https://marketplace.connectwise.com/content/images/thumbs/0000635_skykick_550.png"
+        width: 550
+        height: 353
+        isCached: true
 
-secured: "DVzF8k2sXyXL046Unyjmvs9jCGJ5Pxo8BKD1pCvD3dNhNmayMIgohoRpglpN/sKFOODecLWc/7XKSSyLkbGKrMgrd/gV7ULsMTCDtj/V2/4jKmJRLzP8x0eXz/Xj+lu0+v/wtmJuWPALgX0JMM6S36rRSA0aGhTXk4lnhB6ejUOGhL/jqSd30jQA30CHzJD5Li7NvNKi44wCrqdn+Y6wY02WpItNRn8z3JxnFtJSO3m9ji0O75YaZESdNDopotbbZEdBhu/CTig1DU6DEa9x2B+roWggGjiAUNsarZZScOae79ce8889LKAbVMzmgurSsKBNuhUGlaNlkUm1e/mMck/tYAJNdY2FeT2OfSejaMo=;YOaMvR7K/NoDusjb4JojDA=="
+secured: "e+UzL/vzycsFdsW9apGF35j1/dUDSfEPsTJcn++whgQWZ+g2j35H+6BL+aOrAUAgrQ32n9u8Y48wViHc0njbEfS91/a8i71qfYNN3Qljqa4md1nKojF4tGWDcP7LbH8/iZ0q3Mz5cmz8Cx4Y3JNDIGCzA73d9PeIV8dOgFUI9WSPqts7lKS+UNADVglnXZXVAmK56j9rfVSukaJKnEJ9zpj2dmQLo/ZJrdpdOJKOZomwSxCV04tnsb0MRZXWE4JWPz6KdVnm5ML/GMhYjnMI1CdTq/1ZFkuz+ZOMK/UKJKi+Pt5a+loUH/YNjpDXkg1R9owYcn4KglXY/9q/5LAzWfY3L3pfJsU0oNC4agJIDw0=;B0V1QtegkxjvCM0fTcwQKA=="
 ---
 

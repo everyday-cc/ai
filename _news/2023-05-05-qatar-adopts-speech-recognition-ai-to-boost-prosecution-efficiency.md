@@ -1,8 +1,8 @@
 ---
 category: news
 title: "Qatar Adopts Speech Recognition AI To Boost Prosecution Efficiency"
-excerpt: "Qatar has started to use AI speech-to-text technology in public prosecution to boost efficiency, local media reported Thursday, trend reports citing"
-publishedDateTime: 2023-05-04T23:54:00Z
+excerpt: "(MENAFN- Trend News Agency) Qatar has started to use AI speech-to-text technology in public prosecution to boost efficiency, local media reported Thursday, trend reports citing xinhua . The system ..."
+publishedDateTime: 2023-05-04T23:22:00Z
 originalUrl: "https://menafn.com/1106180848/Qatar-Adopts-Speech-Recognition-AI-To-Boost-Prosecution-Efficiency"
 webUrl: "https://menafn.com/1106180848/Qatar-Adopts-Speech-Recognition-AI-To-Boost-Prosecution-Efficiency"
 type: article
@@ -24,6 +24,6 @@ images:
     height: 647
     isCached: true
 
-secured: "QX09DFphiavpoTkXBPlXNIJihbJwkxicvv1MxZCtH2sy3/jAWuX0ZKY4HHclDn9Y93D/5nfBNyMABASzsESonkpx0q9m2+FnAhAPK2uGFGKlncb86gVA+NAS7E++I0Q90g3g5S7qqPL5f/zh+tS6f3AcPFDpeSzzsAxQUEcP6RxTM0Q1bm5OoqpXEAZiuSubmlFR6TlN8rWAmCLJqMaWZjwAMOHp8Dd45MSgcbbqaAWrjQLoYVKWcO6ek9wRm7OXCSdCEraIoNTA5KmoJJplK3nsfEBAw3g3jEwcUuAirec1fIkvdtrW01tHCP2377lWDVqB3swhQepdrTUb3Fz9yHwP5OXGWNfEEflv9f5ccj6gyc7CgCj6uYo6h71OxMhTf04EYQfqjd5R0tS6D+BvmEyQWrRYt/8tYtU72CiLCcb65C+zYcntK3Gd2UQDdlqQM3dqKP2yWb8D/EM5yNlPT7VirJILpN3LZqO/Fail3JTHG9iT7IPQVl/JManx4PVnU0KKUwIMDwT84JLcjDo+2A==;6ydsrk1PiD3W2+IdUmDznA=="
+secured: "MZTJYoCH/UI9PJzuem1wqeatpq1Azj1wKYNqkhuRwS4juVE5nLp/mZoM4JTszO+AjBhYH+V3A+Mp5qjkh+pU7PALFV5pE4F4Hf6FN2WYpxT2PxYpNvCxlxM/DYdYxP49vGlCjmeaWYCYBBCOhzJPO7xkOXJwplwVAm34jgSOhNlZi9bgJtEa4hQPCHMATvwhdfJFxYBzECb4C8w4yeJ/9FEpaaV4BcY71u3Yvv1QazbbEsJVTr3/aD5V6KZB5bvhmZfN1fxJEeLlcYXiyCOnKuBqxQKJHJD4LEyRL8cmVOASXU/jzqvQnabptq2IqzoNvt5ehEa7wGf32B+ztB3/7fSXTRePe1rZytNJr2m4+gI=;JSFk34YuGuvEiQA89TPlEw=="
 ---
 

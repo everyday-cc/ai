@@ -33,6 +33,20 @@ related:
         width: 690
         height: 400
         isCached: true
+  - title: "Northwestern U uses machine learning to identify causes of COVID-19 deaths"
+    excerpt: "Researchers at Evanston, Ill.-based Northwestern University used machine learning tools to analyze EHR data and find that secondary bacterial pneumonia was the major cause of death in seriously ill COVID-19 patients."
+    publishedDateTime: 2023-05-09T00:29:00Z
+    webUrl: "https://www.beckershospitalreview.com/innovation/northwestern-u-uses-machine-learning-to-identify-causes-of-covid-19-deaths.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 37
+    images:
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "agjRGk5YegO0mBNWLYXoPOzAVtSa3krreBseTj8GjaDvSHOE6vmStg3koSbsuDJCFUi5aYUHqAPgI2w7pep/ExMHMgI849127k6hkJb98j1D9MLLuzzMAUWaUUBT2tdlYfltu/uX99EZu1lY0Plbfl7/YUlTb/UBzZDwyLmoM24IGAxXSBMjRvGbikjLYIDZc21fnMpJi6UvilNE3HFMbmDuAyrZCjEZu7hdyJoqIw5HZWwKPPgHtnKMry4aThJ4ECBcfNubpOPbMTrJpUHy+trytDvnDO2Z5WYXdoUVITFhiLteS/MAsq8a+VJJ2B6upgrAO3GfMu6OdfpdUYLbBsJCXru+T6zaBbw+UBPe2pI=;Yu0+eH0ukrkDYLIeePTDTQ=="
 ---

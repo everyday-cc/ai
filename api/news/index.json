@@ -294,50 +294,6 @@
       ]
     },
     {
-      "path": "_news/2023-05-09-galileo-unveils-ml-data-quality-intelligence-platform-for-computer-vision-models.md",
-      "title": "Galileo Unveils ML Data-Quality Intelligence Platform for Computer Vision Models",
-      "excerpt": "Galileo, the machine-learning (ML) data intelligence company for unstructured data, today announced the launch of its proprietary data-quality intelligence platform, called Galileo Data Intelligence for Computer Vision.",
-      "sourceUrl": null,
-      "webUrl": "https://insidehpc.com/2023/05/galileo-unveils-ml-data-quality-intelligence-platform-for-computer-vision-models/",
-      "originalUrl": "https://insidehpc.com/2023/05/galileo-unveils-ml-data-quality-intelligence-platform-for-computer-vision-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://insidehpc.com/wp-content/uploads/2021/03/Atos-iHPC-CT-210318-AR-HPC-Software-Suites-ES-evV2-web-COVER-IMAGE.jpg",
-          "width": 842,
-          "height": 1187,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-08T12:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "insideHPC",
-        "domain": "insidehpc.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2023-05-09-antimetal-is-putting-ai-to-work-to-root-out-cloud-cost-inefficiencies.md",
       "title": "Antimetal is putting AI to work to root out cloud cost inefficiencies",
       "excerpt": "Antimetal, a NYC-based startup, announced a $4.3 million seed investment to help optimize AWS costs with plans to add other platforms soon.",
@@ -838,6 +794,58 @@
       ]
     },
     {
+      "path": "_news/2023-05-08-machine-learning-ml-platforms-market-intelligence-report-2023-2031-by-industry-experts.md",
+      "title": "Machine Learning (ML) Platforms Market Intelligence Report: 2023-2031 by Industry Experts",
+      "excerpt": "Platforms Market ” Research Report 2023-2031 offers a detailed analysis of the industry landscape, including growth drivers, restraints, and competitive dynamics of Top Manufacturers [Microsoft Corporation,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-ml-platforms-market-intelligence-report-2023-2031-by-industry-experts-2023-05-08",
+      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-ml-platforms-market-intelligence-report-2023-2031-by-industry-experts-2023-05-08",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-08T06:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-08-for-artificial-intelligence-to-really-work-the-military-will-need-better-connectivity.md",
       "title": "For Artificial Intelligence to Really Work, The Military Will Need Better Connectivity",
       "excerpt": "While talking with CENTCOM’s chief technology officer, Schuyler Moore, I opined that in a peer fight the U.S. military’s data and communications networks may not hold up for even 24 hours. She waited a beat before saying,",
@@ -886,6 +894,59 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-08-galileo-unveils-ml-data-quality-intelligence-platform-for-faster-more-accurate-computer-vision-models.md",
+      "title": "Galileo Unveils ML Data-Quality Intelligence Platform for Faster, More Accurate Computer Vision Models",
+      "excerpt": "Galileo, the first-ever machine-learning (ML) data intelligence company for unstructured data, today announced the",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/galileo-unveils-ml-data-quality-intelligence-platform-for-faster-more-accurate-computer-vision-models-2023-05-08",
+      "originalUrl": "https://www.marketwatch.com/press-release/galileo-unveils-ml-data-quality-intelligence-platform-for-faster-more-accurate-computer-vision-models-2023-05-08",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-08T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -1186,57 +1247,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-08-amazon-turns-to-ai-to-drive-advertising-revenues-as-overall-ai-use-grows.md",
-      "title": "Amazon Turns To AI To Drive Advertising Revenues As Overall AI Use Grows",
-      "excerpt": "Amazon is building a new team that will work on artificial intelligence (AI) tools that generate photos and videos for merchants to use on the Amazon platform. It is a new initiative that CEO Andy Jassy approved.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/walterloeb/2023/05/08/amazon-turns-to-ai-to-drive-advertising-revenues-as-overall-ai-use-grows/",
-      "originalUrl": "https://www.forbes.com/sites/walterloeb/2023/05/08/amazon-turns-to-ai-to-drive-advertising-revenues-as-overall-ai-use-grows/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/5d798465c0e1890008d12c06/0x0.jpg?format=jpg&crop=4900,2211,x0,y391,safe&width=1200",
-          "width": 1200,
-          "height": 541,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/walterloeb/2023/05/08/amazon-turns-to-ai-to-drive-advertising-revenues-as-overall-ai-use-grows/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/walterloeb/2023/05/08/amazon-turns-to-ai-to-drive-advertising-revenues-as-overall-ai-use-grows/amp/",
-      "publishedDateTime": "2023-05-08T03:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

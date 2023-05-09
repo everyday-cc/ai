@@ -7,8 +7,8 @@ originalUrl: "https://insidehpc.com/2023/05/galileo-unveils-ml-data-quality-inte
 webUrl: "https://insidehpc.com/2023/05/galileo-unveils-ml-data-quality-intelligence-platform-for-computer-vision-models/"
 type: article
 quality: 51
-heat: 81
-published: true
+heat: -1
+published: false
 
 provider:
   name: insideHPC
@@ -27,18 +27,18 @@ images:
 
 related:
   - title: "Galileo Unveils ML Data-Quality Intelligence Platform for Faster, More Accurate Computer Vision Models"
-    excerpt: "Galileo, the first-ever machine-learning (ML) data intelligence company for unstructured data, today announced the launch of its proprietary data-quality intelligence platform, called Galileo Data Intelligence for Computer Vision. The first-ever solution ..."
-    publishedDateTime: 2023-05-08T13:22:00Z
-    webUrl: "https://www.joplinglobe.com/region/national_business/galileo-unveils-ml-data-quality-intelligence-platform-for-faster-more-accurate-computer-vision-models/article_7fdc3049-f1c3-5008-ad46-5f69cbd46077.html"
+    excerpt: "Galileo, the first-ever machine-learning (ML) data intelligence company for unstructured data, today announced the"
+    publishedDateTime: 2023-05-08T13:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/galileo-unveils-ml-data-quality-intelligence-platform-for-faster-more-accurate-computer-vision-models-2023-05-08"
     type: article
     provider:
-      name: Joplin Globe
-      domain: joplinglobe.com
-    quality: 40
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 70
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/9/3a/93a03388-f0a8-53f1-af30-bd9bc24ea70a/6458f48871254.image.jpg?crop=1153%2C605%2C0%2C24&resize=1153%2C605&order=crop%2Cresize"
-        width: 1153
-        height: 605
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Galileo Charts Data Quality Course-Correction for AI Teams"
     excerpt: "For several months, the Silicon Valley startup Galileo has been selling an AI-powered product designed to help correct data quality issues for natural"
@@ -63,6 +63,20 @@ related:
       name: datanami.com
       domain: datanami.com
     quality: 20
+  - title: "Genialis Unveils Expressions Version 3.0, Cloud Software for Faster, More Secure Data Processing and Management"
+    excerpt: "Genialis, a computational precision medicine company unraveling complex biology to find new ways to treat disease, today released Genialis (™) Expressions version 3.0 to accelerate translational and clinical biomarker discovery."
+    publishedDateTime: 2023-05-08T15:09:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/05/08/9809370.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 4
+    images:
+      - url: "https://marketplace.connectwise.com/content/images/thumbs/0000635_skykick_550.png"
+        width: 550
+        height: 353
+        isCached: true
 
 secured: "d8f5jh/P4v94V+yPWqxO1RZ6ig743hrlangS8En/+ixVdVZhvYLFO+EzzSHGaoP26fkI9xJUOEalnfB8mdXWAsDHgrNq0MRWuWVqYVy8LXU57Y+2A1D8/pkg7rMkOly9LoJc0n4r/DzG28+jJn3/h1igW0hs0nmIz3VTNE5XcHqz7V6bFaECxZ378dhOvG9i99o0vugc9PSfGBWjVYYws0x3/oiQtmb8JzJa8hye6EinVBUvnZTm7eveic5EMAgJi5gsw54wlMqTADPNCWMkagf21CG1/u8w2FMWsq/rFBYYRyaknJUFzqHtPlCjDlKRaE1MJfbHt8JrZu9gXXjAGlSR65ZAVtWUygs0LkG3FHQ=;eV9dJOKaRLzZ2sbbFyaSgQ=="
 ---
