@@ -22,36 +22,77 @@ topics:
   - AI
 
 related:
-  - title: "AI-Powered Characters Changing The Game"
-    excerpt: "Gamers have been clamoring for better non-player characters for years, and the arrival of conversational AI may finally provide the computing superpower to make it possible."
-    publishedDateTime: 2023-05-04T10:00:00Z
-    webUrl: "https://www.forbes.com/sites/charliefink/2023/05/04/ai-powered-characters-changing-the-game/"
-    ampWebUrl: "https://www.forbes.com/sites/charliefink/2023/05/04/ai-powered-characters-changing-the-game/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charliefink/2023/05/04/ai-powered-characters-changing-the-game/amp/"
+  - title: "ChatGPT and Generative AI: Our Guide to 2023's Most Talked-About Technology"
+    excerpt: "ChatGPT brought generative AI into the limelight when it hit 1 million users in five days. But how valid is the buzz around ChatGPT?"
+    publishedDateTime: 2023-05-04T16:00:00Z
+    webUrl: "https://www.businessinsider.com/chatgpt-and-ai-guide-to-2023-most-talked-about-technology-2023-may"
+    ampWebUrl: "https://www.businessinsider.com/chatgpt-and-ai-guide-to-2023-most-talked-about-technology-2023-may?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-and-ai-guide-to-2023-most-talked-about-technology-2023-may?amp"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 85
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64534a81ed2c825a139c02fa/0x0.jpg?format=jpg&width=1200"
-        width: 961
-        height: 856
+      - url: "https://i.insider.com/64403fa23f6f690018de9578?width=1200&format=jpeg"
+        width: 470
+        height: 352
         isCached: true
-  - title: "How AI is Changing the Manufacturing Industry"
-    excerpt: "According to the 2020 MIT Technology Review Insights survey, manufacturing is the sector with the second-highest adoption of artificial intelligence. This comes as no surprise since AI can shift the industry paradigm and reinvent how companies handle all aspects of the manufacturing process."
-    publishedDateTime: 2023-05-06T20:58:00Z
-    webUrl: "https://www.unite.ai/how-ai-is-changing-the-manufacturing-industry/"
+  - title: "ChatGPT and Generative AI in Payments: Reality, Hype, What's Next, and How to Prepare"
+    excerpt: "ChatGPT is the most talked-about technology of 2023 and has caught the attention of payments services providers."
+    publishedDateTime: 2023-05-05T18:00:00Z
+    webUrl: "https://www.businessinsider.com/chatgpt-and-generative-ai-in-payments-hype-how-to-prepare-2023-may"
+    ampWebUrl: "https://www.businessinsider.com/chatgpt-and-generative-ai-in-payments-hype-how-to-prepare-2023-may?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-and-generative-ai-in-payments-hype-how-to-prepare-2023-may?amp"
     type: article
     provider:
-      name: unite
-      domain: unite.ai
-    quality: 39
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 80
     images:
-      - url: "https://www.unite.ai/wp-content/uploads/2023/05/ai-manufacturing-971x600.jpg"
-        width: 971
-        height: 600
+      - url: "https://i.insider.com/64414647632fda001803ccf4?width=1200&format=jpeg"
+        width: 1200
+        height: 900
         isCached: true
+  - title: "ChatGPT and Generative AI Around the World: Maturity, Opportunities, and Hurdles in Key Regions"
+    excerpt: "ChatGPT has received a lot of press since its November 2022 launch. But while interest in the tool is high, its use is not yet universal."
+    publishedDateTime: 2023-05-05T17:00:00Z
+    webUrl: "https://www.businessinsider.com/chatgpt-and-generative-ai-around-the-world-opportunities-key-hurdles-2023-may"
+    ampWebUrl: "https://www.businessinsider.com/chatgpt-and-generative-ai-around-the-world-opportunities-key-hurdles-2023-may?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-and-generative-ai-around-the-world-opportunities-key-hurdles-2023-may?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 75
+    images:
+      - url: "https://i.insider.com/6441b16a3f6f690018debe44?width=1200&format=jpeg"
+        width: 1200
+        height: 900
+        isCached: true
+  - title: "I asked AI bot ChatGPT to write a column on happiness. Here’s what happened next"
+    excerpt: "I had to find out for myself. So I conducted a little experiment. I asked ChatGPT to write an article for me. I submitted the prompt, “Write a 500-word column on happiness.” That’s a broad, overworked topic,"
+    publishedDateTime: 2023-05-08T21:21:00Z
+    webUrl: "https://www.aol.com/news/asked-ai-bot-chatgpt-write-180244290.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 32
+    images:
+      - url: "https://media.zenfs.com/en/aol_san_luis_obispo_tribune_mcclatchy_563/9121ec7733a744f8785aa5baaae9181f"
+        width: 1140
+        height: 759
+        isCached: true
+  - title: "ChatGPT May Have a Big Role in Healthcare"
+    excerpt: "If the results of a recent study are any indication, ChatGPT may soon be professionally responding to patients’ written health-related questions. Virtual healthcare drastically expanded during t"
+    publishedDateTime: 2023-05-09T02:16:00Z
+    webUrl: "https://www.realclearscience.com/articles/2023/05/09/chatgpt_may_have_a_big_role_in_healthcare_898337.html#!"
+    type: article
+    provider:
+      name: RealClearScience
+      domain: realclearscience.com
+    quality: 19
 
 secured: "+/a977Zu0vX1rfWL8AE1GgVTL4wz+lKCPd1DN+v7e1S9i5kdVSQaCtbSgx2BJbE0jTQOakEBOM246qaBkugx39JkfvPg/4JZGBx/G0BkP4DCXLO67V36a1YAECdy8FUxZ40pS4i3uDYvaDT8kHndUwSCrolwtDOJ24ar8AWb1XDNd14JBmfcLLEGMLIAGWYlEKg6tQaxvrMrM/UepGOAiI58fPfwDOi4gxCU4V9fuV4lVcc6g4zhpkb0PyYuYlzkLoVA93ahbjzmK92F+5JQIzc2tAmqKMqfhyhwvobflPeBFvawTDG7rsF88cNVg58Q9AB7cW9XSMguqk4p2MkpA0EZ8Pn0azGffTDy+nJM8jpuDnH2HJRyMn/k+UvGB4GnazrGGoIeSRvoQzxIJtmZR1BOKw5CzLolnb2lSWFDzEvZAfCLpgsM+oYR8ZxrkST2vnJxe/sQCZdaL2D0yPGeVYvL8Op3WE9+bxWaRz/Fl3HvbagbcX+O1FWnrGTZ04VqlCRPq3TuZuve7NMT51XGhA==;6vr2U/mlY6ejU2PM8OTRfw=="
 ---

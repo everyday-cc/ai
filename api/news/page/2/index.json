@@ -2,6 +2,109 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-05-08-hollywoods-screenwriters-are-right-to-fear-ai.md",
+      "title": "Hollywood’s Screenwriters Are Right to Fear AI",
+      "excerpt": "The Writers Guild of America’s demands for guardrails on artificial intelligence are a smart move—and the stakes are higher than ever.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/hollywood-screenwriters-artificial-intelligence-guardrails/",
+      "originalUrl": "https://www.wired.com/story/hollywood-screenwriters-artificial-intelligence-guardrails/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 177,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/645594d6da92561daff9397d/master/pass/Hollywood%E2%80%99s-Screenwriters-Are-Right-to-Fear-AI-Culture-GettyImages-108903032.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/hollywood-screenwriters-artificial-intelligence-guardrails/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/hollywood-screenwriters-artificial-intelligence-guardrails/amp",
+      "publishedDateTime": "2023-05-08T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-08-how-4-startups-are-using-ai-to-solve-climate-change-challenges.md",
+      "title": "How 4 startups are using AI to solve climate change challenges",
+      "excerpt": "These startups are using AI to decarbonize buildings, create sustainable agriculture, protect biodiversity, and remove carbon from the atmosphere.",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/outreach-initiatives/entrepreneurs/how-4-startups-are-using-ai-to-solve-climate-change-challenges/",
+      "originalUrl": "https://blog.google/outreach-initiatives/entrepreneurs/how-4-startups-are-using-ai-to-solve-climate-change-challenges/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Screenshot_2023-05-07_at_10.25.22_PM.width-1300.png",
+          "width": 1300,
+          "height": 708,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/outreach-initiatives/entrepreneurs/how-4-startups-are-using-ai-to-solve-climate-change-challenges/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/outreach-initiatives/entrepreneurs/how-4-startups-are-using-ai-to-solve-climate-change-challenges/amp/",
+      "publishedDateTime": "2023-05-08T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-08-amazon-turns-to-ai-to-drive-advertising-revenues-as-overall-ai-use-grows.md",
       "title": "Amazon Turns To AI To Drive Advertising Revenues As Overall AI Use Grows",
       "excerpt": "Amazon is building a new team that will work on artificial intelligence (AI) tools that generate photos and videos for merchants to use on the Amazon platform. It is a new initiative that CEO Andy Jassy approved.",
@@ -303,7 +406,7 @@
       "originalUrl": "https://www.thenewsminute.com/article/makemytrip-introduces-microsoft-generative-ai-make-travel-more-inclusive-176883",
       "featuredContent": null,
       "highlight": null,
-      "heat": 192,
+      "heat": 232,
       "tags": null,
       "images": [
         {
@@ -346,7 +449,7 @@
       "originalUrl": "https://www.entrepreneur.com/en-in/news-and-trends/artificial-general-intelligence-the-next-frontier-in/451139",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -431,6 +534,57 @@
         "Microsoft AI",
         "AI",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-05-08-baidu-to-unveil-own-smartphone-next-week-in-surprise-ai-move.md",
+      "title": "Baidu to Unveil Own Smartphone Next Week in Surprise AI Move",
+      "excerpt": "The Beijing-based internet firm’s Xiaodu unit, similar to Amazon.com Inc. ’s Alexa division, will unveil its first smartphone product next week, a spokesperson said. Xiaodu has developed smart speakers running Baidu’s own DuerOS software, which the company describes as a conversational artificial intelligence system.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2023-05-08/baidu-to-unveil-own-smartphone-next-week-in-surprise-ai-move",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2023-05-08/baidu-to-unveil-own-smartphone-next-week-in-surprise-ai-move",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i3HYc4yxYT1g/v0/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-07T23:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg L.P.",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     },
     {
@@ -545,7 +699,7 @@
       "originalUrl": "https://www.zdnet.com/article/chatgpt-and-the-new-ai-are-wreaking-havoc-on-cybersecurity/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -804,7 +958,7 @@
       "originalUrl": "https://venturebeat.com/ai/what-happens-when-we-run-out-of-data-for-ai-models/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -1086,163 +1240,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-05-07-how-will-we-know-when-artificial-intelligence-has-become-sentient.md",
-      "title": "How Will We Know When Artificial Intelligence Has Become Sentient?",
-      "excerpt": "Artificial intelligence research has accelerated in recent years, and people are interacting with AI more frequently. In-home AI assistants and self-driving cars were once things out of science fiction",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/finance/how-will-we-know-when-artificial-intelligence-has-become/451129",
-      "originalUrl": "https://www.entrepreneur.com/finance/how-will-we-know-when-artificial-intelligence-has-become/451129",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/providers/due/hero-image-due-451129.jpeg",
-          "width": 1024,
-          "height": 573,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-07T06:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Autos",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-05-07-us-sanctions-drive-chinese-firms-to-advance-ai-without-latest-chips.md",
-      "title": "U.S. Sanctions Drive Chinese Firms to Advance AI Without Latest Chips",
-      "excerpt": "Chinese companies racing to catch up with American AI leaders get creative as U.S. sanctions cut them off from the most advanced chips.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/u-s-sanctions-drive-chinese-firms-to-advance-ai-without-latest-chips-f6aed67f",
-      "originalUrl": "https://www.wsj.com/articles/u-s-sanctions-drive-chinese-firms-to-advance-ai-without-latest-chips-f6aed67f",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 166,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-776300/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-07T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-07-ai-courses-what-it-is-how-it-works-and-benefits.md",
-      "title": "AI Courses: What It Is, How It Works And Benefits",
-      "excerpt": "What Is An AI Course? Artificial intelligence or AI is no longer restricted to the world of science-fiction or movies, in fact AI is something which we are dealing with on an everyday basis. Whether it is solving your queries via live chat bots or chatting with Siri or Alexa,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/advisor/in/education/artificial-intelligence-courses/",
-      "originalUrl": "https://www.forbes.com/advisor/in/education/artificial-intelligence-courses/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/x/https://www.forbes.com/advisor/in/wp-content/uploads/2023/04/marvin-meyer-SYTO3xs06fU-unsplash-Cropped.jpg",
-          "width": 960,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-07T02:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

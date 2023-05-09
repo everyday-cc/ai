@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/world/britains-competition-watchdog-opens-in
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/world/britains-competition-watchdog-opens-investigation-artificial-intelligence-market.amp"
 type: article
 quality: 94
-heat: 144
+heat: 134
 published: true
 
 provider:
@@ -68,15 +68,6 @@ related:
     provider:
       name: BBC
       domain: bbc.co.uk
-    quality: 17
-  - title: "Artificial intelligence market faces review from UK watchdog"
-    excerpt: "Britain’s competition watchdog is opening a review of the artificial intelligence market, focusing on the technology underpinning chatbots like ChatGPT."
-    publishedDateTime: 2023-05-04T10:45:00Z
-    webUrl: "https://www.seattletimes.com/business/artificial-intelligence-market-faces-review-from-uk-watchdog/"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
     quality: 17
   - title: "UK competition watchdog launches review of AI market"
     excerpt: "CMA to look at underlying systems of artificial intelligence tools amid concerns over false information"

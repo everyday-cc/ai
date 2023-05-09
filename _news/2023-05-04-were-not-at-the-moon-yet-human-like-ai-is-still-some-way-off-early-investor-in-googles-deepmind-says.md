@@ -49,31 +49,17 @@ related:
         isCached: true
   - title: "DeepMind boss says human-level AI is just a few years away"
     excerpt: "The head of Google’s artificial intelligence division DeepMind has predicted that human-level AI may be just a few years away. The forecast from Demis Hassabis puts the date for the arrival of ..."
-    publishedDateTime: 2023-05-04T12:14:00Z
-    webUrl: "https://www.independent.co.uk/tech/ai-deepmind-artificial-general-intelligence-b2332322.html"
+    publishedDateTime: 2023-05-04T12:53:00Z
+    webUrl: "https://www.aol.com/news/deepmind-boss-says-human-level-115422614.html"
     type: article
     provider:
-      name: The Independent
-      domain: independent.co.uk
+      name: AOL
+      domain: aol.com
     quality: 54
     images:
-      - url: "https://static.independent.co.uk/2023/05/04/10/deepmind%20human%20level%20ai.jpg?quality=75&width=1200&auto=webp"
+      - url: "https://media.zenfs.com/en/aol_the_independent_us_877/383722a72aee24b2f4a7b7a17d5aeb64"
         width: 1200
         height: 900
-        isCached: true
-  - title: "Google DeepMind CEO claims we’re ‘just a few years away’ from human-like AI"
-    excerpt: "According to Demis Hassabis, the CEO of Google DeepMind, AGI “could be just a few years, maybe within a decade away.”"
-    publishedDateTime: 2023-05-04T09:52:00Z
-    webUrl: "https://www.tomsguide.com/news/google-deepmind-ceo-claims-were-just-a-few-years-away-from-human-like-ai"
-    type: article
-    provider:
-      name: Tom's Guide
-      domain: tomsguide.com
-    quality: 52
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/6tb8NvkKJiDKuB6bXUeG76-1200-80.jpg"
-        width: 1200
-        height: 678
         isCached: true
   - title: "Tech Digest daily roundup: DeepMind boss says ‘human-level’ AI just a few years away"
     excerpt: "The head of Google’s artificial intelligence division DeepMind has predicted that human-level AI may be just a few years away."

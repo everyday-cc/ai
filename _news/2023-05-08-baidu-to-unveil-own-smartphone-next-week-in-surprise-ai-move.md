@@ -7,8 +7,8 @@ originalUrl: "https://www.bloomberg.com/news/articles/2023-05-08/baidu-to-unveil
 webUrl: "https://www.bloomberg.com/news/articles/2023-05-08/baidu-to-unveil-own-smartphone-next-week-in-surprise-ai-move"
 type: article
 quality: 67
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Bloomberg L.P.
@@ -26,6 +26,22 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "Baidu to launch its own phone soon"
+    excerpt: "Baidu said in its latest financial earnings that Xiaodu smart home systems were linked with more than 200 million units of devices covering 70 categories of smart household appliances and 1,200 well-known brands last year."
+    publishedDateTime: 2023-05-09T02:05:00Z
+    webUrl: "https://global.chinadaily.com.cn/a/202305/09/WS64599f74a310b6054fad1d17.html"
+    type: article
+    provider:
+      name: 中国日报网
+      domain: chinadaily.com.cn
+    quality: 39
+    images:
+      - url: "https://img2.chinadaily.com.cn/images/202305/09/64599f74a310b60580cc9054.jpeg"
+        width: 646
+        height: 430
+        isCached: true
 
 secured: "BTUIWptUoiXu/04kqQtMaieyg320nSZs1igbLuoC3ViM3FnFR2zO/EvypFsXyGim2MAKSXauXO43vgOD69Z4v3KjqqJYojZK8k2obAznpfSEt4StvsxYpUzjeBgYev6rvuKLqqwzXBzmsmEVoS9gokvIaMOSXhDTayFFuOf+QETVBLrR/UwW6Bxd0rIVu3IIz0ZAUg7pDM1HhmZN0G/zQo5vh6pBVex61e5oerv43aM6HE2diOc+5JnMsghlSSjA7SVFMSU8hxNfQM30bh0a1uNU0/NfHcs1PRxiLDTePYxwgLBN8jtbeFTVZdkBbeoVuRTC4b7jTzLJHxGQVm3KqN5/9qW0AZsEze+ImR/99v6aD0Cb67vfH7+A7HMXKBxtKyAChb8fdCsck2GS9PoovCBuNghZ4dbFxvUET3ZTs9KpRKPrlfNfJcKKBX8UfPeAHnhehHcwFjPBPL/qP0ov+PU+/au+5NdkbeGyt1hC1aeJJ+cLAzKUFy+BRY9SHN8BSrKXfI1HZ45ssk+ryNJFEA==;Hb7UeR7Q23zYv/tG69IsBg=="
 ---

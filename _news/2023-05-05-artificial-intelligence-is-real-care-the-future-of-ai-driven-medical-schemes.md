@@ -41,6 +41,20 @@ related:
         width: 624
         height: 780
         isCached: true
+  - title: "Canadian AI startup Astrus on the way to revolutionize analog chip design"
+    excerpt: "Astrus, a Canada-based startup focusing on analog IC design automation, is aspiring to revolutionize the global chip design industry by leveraging recent breakthroughs in artificial intelligence (AI)."
+    publishedDateTime: 2023-05-09T02:14:00Z
+    webUrl: "https://www.digitimes.com/news/a20230509VL200/ai-analog-ic-canada-eda-ic-design-distribution.html?chid=13"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 53
+    images:
+      - url: "https://img.digitimes.com/newsshow/20230509vl200_files/6_r.jpg"
+        width: 336
+        height: 224
+        isCached: true
   - title: "What the AI Revolution Really Means"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial intelligence – or AI – is the newest megatrend to burst"
     publishedDateTime: 2023-05-06T19:01:00Z

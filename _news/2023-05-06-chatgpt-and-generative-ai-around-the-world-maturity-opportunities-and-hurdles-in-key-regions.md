@@ -62,28 +62,14 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Screenwriters take aim at artificial intelligence, ChatGPT"
-    excerpt: "Not six months since the release of ChatGPT, generative artificial intelligence is already prompting widespread unease throughout Hollywood. Concern over chatbots writing or rewriting scripts is one of the reasons TV and film screenwriters took to picket lines earlier this week."
-    publishedDateTime: 2023-05-05T01:45:00Z
-    webUrl: "https://www.usatoday.com/videos/entertainment/2023/05/05/screenwriters-take-aim-artificial-intelligence-chatgpt/11799655002/"
+  - title: "Forget ChatGPT. These Are the Best AI-Powered Apps."
+    excerpt: "Chat features built into Duolingo, Expedia and others can be more useful than ask-me-anything bots."
+    publishedDateTime: 2023-05-07T12:00:00Z
+    webUrl: "https://www.wsj.com/articles/forget-chatgpt-these-are-the-best-ai-powered-apps-d927d0bf"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 52
-    images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/04465331-5204-49cb-8f02-71d5ec64e61c_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "How I used ChatGPT and AI art tools to launch my Etsy business fast"
-    excerpt: "David Gewirtz produced a print-on-demand Etsy store with a compelling identity and plenty of unique text and art. Here's how."
-    publishedDateTime: 2023-05-04T13:56:00Z
-    webUrl: "https://www.zdnet.com/article/how-i-used-chatgpt-and-ai-art-tools-to-launch-my-etsy-business-fast/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
+      name: Wall Street Journal
+      domain: wsj.com
     quality: 47
   - title: "I asked AI bot ChatGPT to write a column on happiness. Here’s what happened next"
     excerpt: "I had to find out for myself. So I conducted a little experiment. I asked ChatGPT to write an article for me. I submitted the prompt, “Write a 500-word column on happiness.” That’s a broad, overworked topic,"
@@ -99,6 +85,15 @@ related:
         width: 1140
         height: 759
         isCached: true
+  - title: "ChatGPT May Have a Big Role in Healthcare"
+    excerpt: "If the results of a recent study are any indication, ChatGPT may soon be professionally responding to patients’ written health-related questions. Virtual healthcare drastically expanded during t"
+    publishedDateTime: 2023-05-09T02:16:00Z
+    webUrl: "https://www.realclearscience.com/articles/2023/05/09/chatgpt_may_have_a_big_role_in_healthcare_898337.html#!"
+    type: article
+    provider:
+      name: RealClearScience
+      domain: realclearscience.com
+    quality: 19
 
 secured: "24f705NtwiFvcmDfhjok8DPWTTLT3sG1OExTTyBjzz0Ncx4E16IndQkym8LG7GTFKbbjsgUNAnB58F0+s8zHSlGTeBat+cbxlfpCYGZmhArwo+wh1qvnv5YgjLiFY50ntRtfYRD7MRm6a+Rd10OVTyqYmRfI/hwpjQc2lzJEvUXetJ4n5JQMbq3CZ+4GTUNX3kPPsSG2fnskUDe868HcTPpiJYglDo/yrj2Kin5m6VaZX2aHmOUVcFY+miS6ubfTUX6sPKnk5atbubd2MTVTxRQSakbz+NviC4nMWDCrTPl5JIH0jbXlKX6+ufgzRE9JrcsnyDPC95LCc3ctUWOaZe5tK5tP8jkEtACTmc1KpYoAinqrv+Zwvs3OWDg0L2MZyiRk+s1ZNxtFg9tqz4IXqNX6FhetJeghlQwHpuLVjZfcnV7DaxTIc8MHW/YBOhKzn6cAfjhG1MJB1zkj5QINAEG9bnaRSZqi9KgmIzLGslFvSv4OJbp4A5Ijdk1aSY6F+vJArvjBWYWQ4yXCV4BF5w==;4qoAZ5HwxetTUISl60wEcA=="
 ---

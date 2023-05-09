@@ -51,6 +51,17 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 39
+  - title: "GIC sees more growth in fintech after downturn"
+    excerpt: "GIC, which doesn’t publish its assets under management, is estimated to manage about US$690 billion as of April 2023"
+    publishedDateTime: 2023-05-09T02:55:00Z
+    webUrl: "https://www.theedgesingapore.com/news/digital-economy/gic-sees-more-growth-fintech-after-downturn"
+    ampWebUrl: "https://www.theedgesingapore.com/amp/news/digital-economy/gic-sees-more-growth-fintech-after-downturn"
+    cdnAmpWebUrl: "https://www-theedgesingapore-com.cdn.ampproject.org/c/s/www.theedgesingapore.com/amp/news/digital-economy/gic-sees-more-growth-fintech-after-downturn"
+    type: article
+    provider:
+      name: The Edge Singapore
+      domain: theedgesingapore.com
+    quality: 24
 
 secured: "pboj4yfp7zNNJLmiBLdyNzhnwUOgZvkOGdCwQ+eM27t0k4G9iRVxokQu5ZFmxZKCDwAGnazrlK38//DAros98Z1Olwr1VE7NW73ZC/whqtoQ7VwP6ZPyCTQ1aB7zVPOpmQSArXzR5/Ov3UUBmedpOVMt11fbGcogw9Eqno57p9gwONWIT5uOufvsSGEswyO/x+82QvoFUIZwpdD99WCfROFohM6yVgiMUCQkgDQ5CphoeyB7Rqa0uJTOEcneuiD3qHiR77N/9lszZxOR/NSdbFN85/FzOv01tgjO5DGOILif0VIEMjKIY51XMHvj0lqyZQZUu322gzJ+Vl+SG3qVPj9H/LxrjOAGGH80QshwKps=;KiLqH2cFZapc64GgZhhdOA=="
 ---

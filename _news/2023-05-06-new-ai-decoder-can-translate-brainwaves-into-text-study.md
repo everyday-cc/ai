@@ -9,7 +9,7 @@ ampWebUrl: "https://m.jpost.com/science/article-741820/amp"
 cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/science/article-741820/amp"
 type: article
 quality: 74
-heat: 76
+heat: 74
 published: true
 
 provider:

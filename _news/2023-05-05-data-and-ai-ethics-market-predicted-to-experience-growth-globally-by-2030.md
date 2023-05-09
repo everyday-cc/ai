@@ -37,6 +37,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence and Cognitive Computing Market"
+    excerpt: "Research Reports has published a new report titled as \"Artificial Intelligence and Cognitive Computing Market\" by"
+    publishedDateTime: 2023-05-09T01:17:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-and-cognitive-computing-market-2023-05-08"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 67
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Cognitive Services Market Share From 2023 And Unlimited Opportunities for New Companies"
     excerpt: "Cognitive Services Market Size 2023 | New Report (116 Pages) | Analytics | In This Reports Cognitive Services Market"
     publishedDateTime: 2023-05-05T04:22:00Z
@@ -93,15 +107,6 @@ related:
         width: 898
         height: 470
         isCached: true
-  - title: "Facial Recognition Market 2023-2028: Report, Industry Size, Growth Factors and Opportunities"
-    excerpt: "According to IMARC Group latest report titled \" Facial Recognition Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2023-2028 \", offers a comprehensive analysis of the industry,"
-    publishedDateTime: 2023-05-04T10:05:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-2023-2028-report-industry-size-growth-factors-and-opportunities-2023-05-04"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 38
   - title: "2023 \"Data Science and Machine-Learning Platforms Market\" Modern Trends and Future Growth Insights 2030 | 122 Pages Report"
     excerpt: "Global \"Data Science and Machine-Learning Platforms Market\" research report provides Innovative Insights on the Strategies adopted by Major Global Players [Domino Data Lab, Dataiku, Lexalytics, TIBCO Software,"
     publishedDateTime: 2023-05-05T16:47:00Z
@@ -147,7 +152,7 @@ related:
   - title: "Chatbot Market worth $15.5 billion by 2028 - Exclusive Report by MarketsandMarkets™"
     excerpt: "The market for Chatbot Market is estimated to grow from USD 5.4 billion in 2023 to USD 15.5 billion by 2028, at a CAGR of 23.3% during the forecast period, according to a new report by MarketsandMarkets™."
     publishedDateTime: 2023-05-08T17:51:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-chatbot-market-worth-155-billion-2028-exclusive-report-/2023/05/08/9809532.htm"
+    webUrl: "https://www.tmcnet.com/usubmit/2023/05/08/9809532.htm"
     type: article
     provider:
       name: TMCnet

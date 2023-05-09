@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/biden-administration-takes-action-to-prom
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/biden-administration-takes-action-to-promote-responsible-ai-innovation/amp/"
 type: article
 quality: 89
-heat: 149
+heat: 139
 published: true
 
 provider:
@@ -90,20 +90,6 @@ related:
       - url: "https://thecyberwire.com/images/social-media/policy-briefing/2023/Policy-23-050523.jpg"
         width: 2640
         height: 1320
-        isCached: true
-  - title: "White House Must Take More Action To Address AI Concerns"
-    excerpt: "Twitter The White House Blueprint for an AI Bill of Rights issued last October is a strong start to a government response to protect workers, families, and our democracy from the potential pitfalls of AI. The recent release of generative AI tools is ..."
-    publishedDateTime: 2023-05-04T11:00:00Z
-    webUrl: "https://www.americanprogress.org/article/white-house-must-take-more-action-to-address-ai-concerns/"
-    type: article
-    provider:
-      name: Center for American Progress
-      domain: americanprogress.org
-    quality: 37
-    images:
-      - url: "https://www.americanprogress.org/wp-content/uploads/sites/2/2023/05/AIColumn.jpg"
-        width: 1680
-        height: 1120
         isCached: true
   - title: "Biden-Harris administration announces initiatives for responsible AI innovation"
     excerpt: "VP Harris meets with tech CEOs and major AI companies commit to independent evaluation at DEF CON 31. #NewsismyBusiness"

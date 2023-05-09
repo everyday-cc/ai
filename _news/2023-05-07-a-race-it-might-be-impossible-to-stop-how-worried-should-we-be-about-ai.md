@@ -46,6 +46,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Rise of artificial intelligence is inevitable but should not be feared, ‘father of AI’ says"
+    excerpt: "Jürgen Schmidhuber believes AI will progress to the point where it surpasses human intelligence and will pay no attention to people"
+    publishedDateTime: 2023-05-06T23:21:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/may/07/rise-of-artificial-intelligence-is-inevitable-but-should-not-be-feared-father-of-ai-says?ref=biztoc.com"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/may/07/rise-of-artificial-intelligence-is-inevitable-but-should-not-be-feared-father-of-ai-says"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/may/07/rise-of-artificial-intelligence-is-inevitable-but-should-not-be-feared-father-of-ai-says"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 62
+    images:
+      - url: "https://i.guim.co.uk/img/media/f2a30653e070396966e3a4e43f03d1a7986757d2/1341_236_5335_3201/master/5335.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=1170583493e429e9fd50edf6fe85387e"
+        width: 600
+        height: 360
+        isCached: true
   - title: "AgileThought Launches New Applied AI Guild"
     excerpt: "Cognitive Services and AI Ethics and Governance. AgileThought experts will work closely with clients to understand their specific needs and develop customized solutions that fit their business goals. \"We are committed to helping our clients stay at the ..."
     publishedDateTime: 2023-05-04T17:24:00Z
@@ -62,15 +78,6 @@ related:
         width: 1043
         height: 1043
         isCached: true
-  - title: "Rise of artificial intelligence is inevitable but should not be feared, ‘father of AI’ says"
-    excerpt: "Jürgen Schmidhuber believes AI will progress to the point where it surpasses human intelligence and will pay no attention to people"
-    publishedDateTime: 2023-05-06T23:21:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/may/07/rise-of-artificial-intelligence-is-inevitable-but-should-not-be-feared-father-of-ai-says"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 22
   - title: "What should investors know about AI?"
     excerpt: "Rather than having human logic, he said ChatGPT can be better described as hyper-scale pattern recognition. One instance of how AI is already being used in the business is through chatbots like those constructed on extensive language models. The main point of consideration for investors is if AI finally hit an economic climax."
     publishedDateTime: 2023-05-05T12:43:00Z

@@ -6,7 +6,7 @@ publishedDateTime: 2023-05-05T00:06:00Z
 originalUrl: "https://www.foxbusiness.com/technology/godfather-artificial-intelligence-says-ai-close-being-smarter-could-end-humanity"
 webUrl: "https://www.foxbusiness.com/technology/godfather-artificial-intelligence-says-ai-close-being-smarter-could-end-humanity"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2023/05/0/0/geoffrey-hinton-former-google-scientist.jpg?ve=1&tl=1"

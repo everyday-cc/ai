@@ -24,53 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "ChatGPT and Generative AI: Our Guide to 2023's Most Talked-About Technology"
-    excerpt: "ChatGPT brought generative AI into the limelight when it hit 1 million users in five days. But how valid is the buzz around ChatGPT?"
-    publishedDateTime: 2023-05-04T16:00:00Z
-    webUrl: "https://www.businessinsider.com/chatgpt-and-ai-guide-to-2023-most-talked-about-technology-2023-may"
-    ampWebUrl: "https://www.businessinsider.com/chatgpt-and-ai-guide-to-2023-most-talked-about-technology-2023-may?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-and-ai-guide-to-2023-most-talked-about-technology-2023-may?amp"
+  - title: "ChatGPT: Can students pass using AI tools at university?"
+    excerpt: "As with most universities, Bath's policy on ChatGPT and other AI tools is still in the works. It is due to be in place from September. After that, a team will meet throughout the year to ensure it keeps up with the rapidly changing technology. In the meantime, many staff are once again setting in-person, invigilated summer exams."
+    publishedDateTime: 2023-05-08T23:51:00Z
+    webUrl: "https://www.bbc.com/news/education-65316283"
+    ampWebUrl: "https://www.bbc.com/news/education-65316283.amp"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/education-65316283.amp"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 85
+      name: BBC
+      domain: bbc.com
+    quality: 87
     images:
-      - url: "https://i.insider.com/64403fa23f6f690018de9578?width=1200&format=jpeg"
-        width: 470
-        height: 352
-        isCached: true
-  - title: "ChatGPT and Generative AI in Payments: Reality, Hype, What's Next, and How to Prepare"
-    excerpt: "ChatGPT is the most talked-about technology of 2023 and has caught the attention of payments services providers."
-    publishedDateTime: 2023-05-05T18:00:00Z
-    webUrl: "https://www.businessinsider.com/chatgpt-and-generative-ai-in-payments-hype-how-to-prepare-2023-may"
-    ampWebUrl: "https://www.businessinsider.com/chatgpt-and-generative-ai-in-payments-hype-how-to-prepare-2023-may?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-and-generative-ai-in-payments-hype-how-to-prepare-2023-may?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 80
-    images:
-      - url: "https://i.insider.com/64414647632fda001803ccf4?width=1200&format=jpeg"
-        width: 1200
-        height: 900
-        isCached: true
-  - title: "ChatGPT and Generative AI Around the World: Maturity, Opportunities, and Hurdles in Key Regions"
-    excerpt: "ChatGPT has received a lot of press since its November 2022 launch. But while interest in the tool is high, its use is not yet universal."
-    publishedDateTime: 2023-05-05T17:00:00Z
-    webUrl: "https://www.businessinsider.com/chatgpt-and-generative-ai-around-the-world-opportunities-key-hurdles-2023-may"
-    ampWebUrl: "https://www.businessinsider.com/chatgpt-and-generative-ai-around-the-world-opportunities-key-hurdles-2023-may?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-and-generative-ai-around-the-world-opportunities-key-hurdles-2023-may?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 75
-    images:
-      - url: "https://i.insider.com/6441b16a3f6f690018debe44?width=1200&format=jpeg"
-        width: 1200
-        height: 900
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/0991/production/_129594420_gettyimages-1460902077.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "How I used ChatGPT and AI art tools to launch my Etsy business fast"
     excerpt: "David Gewirtz produced a print-on-demand Etsy store with a compelling identity and plenty of unique text and art. Here's how."
@@ -81,20 +49,17 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 47
-  - title: "I asked AI bot ChatGPT to write a column on happiness. Here’s what happened next"
-    excerpt: "I had to find out for myself. So I conducted a little experiment. I asked ChatGPT to write an article for me. I submitted the prompt, “Write a 500-word column on happiness.” That’s a broad, overworked topic,"
-    publishedDateTime: 2023-05-08T21:21:00Z
-    webUrl: "https://www.aol.com/news/asked-ai-bot-chatgpt-write-180244290.html"
+  - title: "Seeing potential learning tool, Boston University academic unit outlines policies for student use of AI"
+    excerpt: "It’s not just a case of chatbots in the classroom – while some schools shy away from using ChatGPT, Boston University is embracing the"
+    publishedDateTime: 2023-05-08T21:06:00Z
+    webUrl: "https://whdh.com/news/seeing-potential-learning-tool-boston-university-academic-unit-outlines-policies-for-student-use-of-ai/"
+    ampWebUrl: "https://whdh.com/news/seeing-potential-learning-tool-boston-university-academic-unit-outlines-policies-for-student-use-of-ai/amp/"
+    cdnAmpWebUrl: "https://whdh-com.cdn.ampproject.org/c/s/whdh.com/news/seeing-potential-learning-tool-boston-university-academic-unit-outlines-policies-for-student-use-of-ai/amp/"
     type: article
     provider:
-      name: AOL
-      domain: aol.com
-    quality: 32
-    images:
-      - url: "https://media.zenfs.com/en/aol_san_luis_obispo_tribune_mcclatchy_563/9121ec7733a744f8785aa5baaae9181f"
-        width: 1140
-        height: 759
-        isCached: true
+      name: WHDH
+      domain: whdh.com
+    quality: 23
 
 secured: "unyptZSholTvhveIdw48PWmM62vSlHDBxZIL1z7cnhWZ1vuns3sjJa1uDbocWqF7RUSJrwono7FoUNB6xUYQ+XtWVGb4nR9KmC7OltN8ACSbX0DEVsHbC+n5q2GwiZLYhmSqBiJwwbCENClf8XiyP+To/BH+EredIAb9hWh9RhZaIQLDO/p7s6idMMFaB8jfsni/JrfmgKBRuB/oyOuea0ab4xoY0PiDSYJd6YVJFheSPDnLpHDZqhuKdFrIAttyMLLxvFU39GtBbOk0BR14sV5ZplnpxsulUglrTeK/OEOjAfdcuWpdVdjR3kyYXVO46g7oRxQeAWTqtdBzumLtOUinz5EYGDIZknKqms94TvRGEPiJJxHCj+UEjnyy1ICDU6SuwDEjDo+T9lrwkdhhbS/XXqlnAstNlcf0aja1cS5WXm6Iipt57YM4C5d+QweQOGmtELNUQ3WYgYB250fTWgC9nxqZFAIxz5Q+yYHRmGWtEIl5koeE5azJm4xhHr8D7v9eeo/lEwIuDcNkZ+8/7A==;Kqkz7u8zB7zd8lP86KzCBw=="
 ---

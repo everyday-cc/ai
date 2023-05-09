@@ -26,38 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "UK Police Plan To Use Facial Recognition On Crowds During Coronation, Faces Criticism"
-    excerpt: "Human rights advocates are concerned that police could use face-scanning technology to target protesters, as they have in the past."
-    publishedDateTime: 2023-05-04T09:54:00Z
-    webUrl: "https://www.ndtv.com/world-news/king-charles-iiis-coronation-uk-police-plan-to-use-facial-recognition-on-crowds-during-coronation-faces-criticism-4004541"
-    ampWebUrl: "https://www.ndtv.com/world-news/king-charles-iiis-coronation-uk-police-plan-to-use-facial-recognition-on-crowds-during-coronation-faces-criticism-4004541/amp/1"
-    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/king-charles-iiis-coronation-uk-police-plan-to-use-facial-recognition-on-crowds-during-coronation-faces-criticism-4004541/amp/1"
-    type: article
-    provider:
-      name: NDTV
-      domain: ndtv.com
-    quality: 52
-    images:
-      - url: "https://c.ndtvimg.com/2021-05/kheealvk_facial-recognition-pixabay-650_625x300_27_May_21.jpg"
-        width: 650
-        height: 400
-        isCached: true
-  - title: "Karnataka Assembly elections: ECI to pilot facial recognition tech in upcoming polls"
-    excerpt: "The 'Electhon 2023' hackathon was a collaboration between the Election Commission (EC), the International Institute of Information Technology in Bengaluru, and the Indian Institute of Science in Bengaluru."
-    publishedDateTime: 2023-05-08T06:51:00Z
-    webUrl: "https://www.livemint.com/news/india/karnataka-assembly-elections-eci-to-pilot-facial-recognition-tech-in-upcoming-polls-11683526705081.html"
-    ampWebUrl: "https://www.livemint.com/news/india/karnataka-assembly-elections-eci-to-pilot-facial-recognition-tech-in-upcoming-polls/amp-11683526705081.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/karnataka-assembly-elections-eci-to-pilot-facial-recognition-tech-in-upcoming-polls/amp-11683526705081.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 52
-    images:
-      - url: "https://www.livemint.com/lm-img/img/2023/05/08/600x338/2-0-1453543862-iStock-855246344-0_1679736566717_1683528306159.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Snipers, facial recognition and a bomb-proof nerve centre - huge coronation security in place as police get new powers to tackle disruption"
     excerpt: "Police will have assembled an intelligence database of likely demonstrators and in the past have visited known individuals to try to ask them their intentions."
     publishedDateTime: 2023-05-05T08:28:00Z
@@ -87,29 +55,6 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/01/04144353/public-facial-recognition-scaled.jpg"
         width: 2048
         height: 1152
-        isCached: true
-  - title: "Spain fines Mobile World Congress 200,000 euros for facial recognition use"
-    excerpt: "One of the largest technology fairs in the world is facing a fine for using remote biometric tech in violation of European data privacy laws."
-    publishedDateTime: 2023-05-08T15:40:00Z
-    webUrl: "https://www.biometricupdate.com/202305/spain-fines-mobile-world-congress-200000-euros-for-facial-recognition-use"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 32
-  - title: "At Growth Rate Of 16%, Facial Recognition Market Size To Surpass USD 16.74 Billion In 2030"
-    excerpt: "Facial Recognition Industry Technological advancements, a slew of face recognition systems that include cloud computing are hitting the f"
-    publishedDateTime: 2023-05-06T07:14:00Z
-    webUrl: "https://menafn.com/1106189715/At-Growth-Rate-Of-16-Facial-Recognition-Market-Size-To-Surpass-USD-1674-Billion-In-2030"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 29
-    images:
-      - url: "https://menafn.com/updates/pr/2023-05/06/EP_19b97image_story.jpeg"
-        width: 890
-        height: 466
         isCached: true
   - title: "Protesters eye Coronation of King Charles III — and facial recognition eyes them"
     excerpt: "It’s apparent that a coronation is ripe territory for the convergence of righteous convictions, from the progressive to the fanatical, writes."

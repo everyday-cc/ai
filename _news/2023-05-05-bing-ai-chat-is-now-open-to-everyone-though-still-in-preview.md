@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/article/bing-ai-chat-open/amp/"
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/bing-ai-chat-open/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -39,6 +39,20 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 40
+  - title: "How AI is Changing the Manufacturing Industry"
+    excerpt: "According to the 2020 MIT Technology Review Insights survey, manufacturing is the sector with the second-highest adoption of artificial intelligence. This comes as no surprise since AI can shift the industry paradigm and reinvent how companies handle all aspects of the manufacturing process."
+    publishedDateTime: 2023-05-06T20:58:00Z
+    webUrl: "https://www.unite.ai/how-ai-is-changing-the-manufacturing-industry/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 39
+    images:
+      - url: "https://www.unite.ai/wp-content/uploads/2023/05/ai-manufacturing-971x600.jpg"
+        width: 971
+        height: 600
+        isCached: true
 
 secured: "FWLghTuF3dITda8z7VGXxo6buubwns9+sgvt3bb/IqSOZy3WLQT42JF63Sc33Q5FIxPRd7Phn/7SRD2eA1KY5TkecgVpISCGCcCVbMD6Qm2gghGhpv8OI5SA59NPeJQT8tmtoWYLjntQuOA5bTKULnFcRPN6dcHiSBp5/Qbjlp/Rmch+Qx9JYbwvfT8aHAl/rLDKDVd1LwNMiKSqN87cN34K8UzbbKioAMREkKQ5kuWqN0dwt2ID80/+W6jOB4YFDsWn5CsCnxP1L/rWVh+5Zaq6A9SGk4jkhl2Sio6VVk/T1AuB4I3JA4cX55VbfufuSJ+9zQof3JN+acaIQ46L4WHEpkA7Y+0WGUw/M3YjYvhkUPOgGGqNnB69V5a0X2tJvb9xlStvhzhp/PAp0BCXr+gaQKcmDmIJvt9IGdbZq32VbVtV4dffXqEAmvH9Oo1JE4kVboYvBKCg5n3kygZdon8P4/CiDplMAt/jAWjOGcbj7j9Rsa9yX0rkAbJE3AAEC+WDpXyd6xF72cr8xyWzEQ==;bi6vsflmo58PZvFdD+cD8A=="
 ---

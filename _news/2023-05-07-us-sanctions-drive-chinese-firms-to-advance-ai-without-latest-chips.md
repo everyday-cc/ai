@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/articles/u-s-sanctions-drive-chinese-firms-to-
 webUrl: "https://www.wsj.com/articles/u-s-sanctions-drive-chinese-firms-to-advance-ai-without-latest-chips-f6aed67f"
 type: article
 quality: 84
-heat: 166
+heat: 164
 published: true
 
 provider:

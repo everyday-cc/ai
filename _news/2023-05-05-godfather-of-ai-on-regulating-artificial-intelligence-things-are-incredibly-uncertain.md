@@ -34,7 +34,7 @@ related:
     provider:
       name: Fox Business
       domain: foxbusiness.com
-    quality: 37
+    quality: 39
     images:
       - url: "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2023/05/0/0/geoffrey-hinton-former-google-scientist.jpg?ve=1&tl=1"
         width: 1280

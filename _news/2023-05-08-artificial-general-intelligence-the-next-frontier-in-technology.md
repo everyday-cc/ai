@@ -7,7 +7,7 @@ originalUrl: "https://www.entrepreneur.com/en-in/news-and-trends/artificial-gene
 webUrl: "https://www.entrepreneur.com/en-in/news-and-trends/artificial-general-intelligence-the-next-frontier-in/451139"
 type: article
 quality: 54
-heat: 86
+heat: 84
 published: true
 
 provider:

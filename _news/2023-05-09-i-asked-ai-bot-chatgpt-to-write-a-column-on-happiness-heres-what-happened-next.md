@@ -72,29 +72,24 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Screenwriters take aim at artificial intelligence, ChatGPT"
-    excerpt: "Not six months since the release of ChatGPT, generative artificial intelligence is already prompting widespread unease throughout Hollywood. Concern over chatbots writing or rewriting scripts is one of the reasons TV and film screenwriters took to picket lines earlier this week."
-    publishedDateTime: 2023-05-05T01:45:00Z
-    webUrl: "https://www.usatoday.com/videos/entertainment/2023/05/05/screenwriters-take-aim-artificial-intelligence-chatgpt/11799655002/"
+  - title: "Forget ChatGPT. These Are the Best AI-Powered Apps."
+    excerpt: "Chat features built into Duolingo, Expedia and others can be more useful than ask-me-anything bots."
+    publishedDateTime: 2023-05-07T12:00:00Z
+    webUrl: "https://www.wsj.com/articles/forget-chatgpt-these-are-the-best-ai-powered-apps-d927d0bf"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 52
-    images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/04465331-5204-49cb-8f02-71d5ec64e61c_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "How I used ChatGPT and AI art tools to launch my Etsy business fast"
-    excerpt: "David Gewirtz produced a print-on-demand Etsy store with a compelling identity and plenty of unique text and art. Here's how."
-    publishedDateTime: 2023-05-04T13:56:00Z
-    webUrl: "https://www.zdnet.com/article/how-i-used-chatgpt-and-ai-art-tools-to-launch-my-etsy-business-fast/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
+      name: Wall Street Journal
+      domain: wsj.com
     quality: 47
+  - title: "ChatGPT May Have a Big Role in Healthcare"
+    excerpt: "If the results of a recent study are any indication, ChatGPT may soon be professionally responding to patients’ written health-related questions. Virtual healthcare drastically expanded during t"
+    publishedDateTime: 2023-05-09T02:16:00Z
+    webUrl: "https://www.realclearscience.com/articles/2023/05/09/chatgpt_may_have_a_big_role_in_healthcare_898337.html#!"
+    type: article
+    provider:
+      name: RealClearScience
+      domain: realclearscience.com
+    quality: 19
 
 secured: "JnqZyb1zgVKIaJi+mF3sWuwPQzxvUlWqhSWI6sKcYPXfN7InPXNIHKFPWNUlrH8ZuOApB5VkoTqi/0NYbj9/9wmb0FFuKVHfinEkdLSA1bht4FATC5dhaeut1X+G+IL9gZOpFiv7bxnosfH/9MavmGrPyN666qy53DLdNywxSVmR6XdBAHaFUggdbagX4nBJJVDxQuTL8MuClj+SM9v5CI7mYPAEc71LCaYeGTyyF4HpStXD1HZsiDZDzUvdEaRLDo8zCAo8GBu4XQGX08BES7GykGbPWLjzgdWtwLD3Sa0fM6MNbYtzbOOrKLmlnbeCQseGO/Lf86SQM0k+duG6ouR8HIB60EpcOAoYVCgL5sk=;uBS9npt1tYZZZyu5wwYO2w=="
 ---

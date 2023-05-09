@@ -25,31 +25,31 @@ images:
     isCached: true
 
 related:
-  - title: "AI-Powered Characters Changing The Game"
-    excerpt: "Gamers have been clamoring for better non-player characters for years, and the arrival of conversational AI may finally provide the computing superpower to make it possible."
-    publishedDateTime: 2023-05-04T10:00:00Z
-    webUrl: "https://www.forbes.com/sites/charliefink/2023/05/04/ai-powered-characters-changing-the-game/"
-    ampWebUrl: "https://www.forbes.com/sites/charliefink/2023/05/04/ai-powered-characters-changing-the-game/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charliefink/2023/05/04/ai-powered-characters-changing-the-game/amp/"
+  - title: "Bing AI Chat is now open to everyone, though still in preview"
+    excerpt: "Persistent chat, images and video, a chat sidebar and the promise of third-party plugins make Bing Chat more useful but not perfect."
+    publishedDateTime: 2023-05-05T05:48:00Z
+    webUrl: "https://www.techrepublic.com/article/bing-ai-chat-open/"
+    ampWebUrl: "https://www.techrepublic.com/article/bing-ai-chat-open/amp/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/bing-ai-chat-open/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64534a81ed2c825a139c02fa/0x0.jpg?format=jpg&width=1200"
-        width: 961
-        height: 856
+      - url: "https://www.techrepublic.com/wp-content/uploads/2023/05/All-the-new-Bing-chat-features.jpg"
+        width: 1400
+        height: 788
         isCached: true
-  - title: "Forget ChatGPT. These Are the Best AI-Powered Apps."
-    excerpt: "Chat features built into Duolingo, Expedia and others can be more useful than ask-me-anything bots."
-    publishedDateTime: 2023-05-07T12:00:00Z
-    webUrl: "https://www.wsj.com/articles/forget-chatgpt-these-are-the-best-ai-powered-apps-d927d0bf"
+  - title: "I asked ChatGPT, Bing, and Bard what worries them. Google's AI went Terminator on me"
+    excerpt: "Just to be clear: this is not science fiction. Chatbots might have some worries that might, in turn, worry us just a bit."
+    publishedDateTime: 2023-05-08T17:14:00Z
+    webUrl: "https://www.zdnet.com/article/i-asked-chatgpt-bing-and-bard-what-worries-them-googles-ai-went-terminator-on-me/"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 47
+      name: ZDNet
+      domain: zdnet.com
+    quality: 40
 
 secured: "3ghKvgUfsrYuHtHtG3fzfPKCMspfZ/HixlKg74t1i3k9wLxuHhjxWAXJt50V2myeMHvhfh4pZXr+JWWYpfmKbDQMA9EuG+ZXXoxmfLwbMB99otlEgRGBrR1F2lQKVGdvTE6xqBqX8cVfY7LXATL0eHNOgfnH7kQWafMOOzhZvlZZ5unsveLyOCOxYZ9Bthc9VdRVJ+iInQLAAOqTYsUQsOtwKlIdoO3y2sz3mnxDqrxUub8vs+3KG/9LZe26N+psc76j9R1LoWgZEl2OGrzp8LGVpDz3ugdtJ5EtCf6AdqV234VDp3xvHmLTlGQ4wahHlAi4rHB3clhn8xkiYJXuHM1O+kBxL1zDnD6MIv26aVvKSoS3HM98WcIufF6vuxxj5ceLVZOt2hT3J5tlxxPEXdCPhnPZopkxYcLeD9byR7nK5E+vqtAQ0Ki6iCUGG7Hy2P0sgQtUd+qMLPHaPIeX4xJdAYu4rx6e+q4UcLemdQpxJAuwhjitmdo6Um8FLuucxBq5kWQAxhib8o7TqYTsyA==;atIB0kSTA4oD4HIDXjJ8zQ=="
 ---

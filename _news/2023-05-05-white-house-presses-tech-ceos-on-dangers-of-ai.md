@@ -62,20 +62,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "White House Announces AI Initiatives Ahead of Meeting With Top Tech CEOs"
-    excerpt: "Companies worried about being liable for something in their training data might also not have incentives to properly track it, said Margaret Mitchell, chief ethics scientist at AI startup Hugging Face. “I think it might not be possible for OpenAI to ..."
-    publishedDateTime: 2023-05-04T10:47:00Z
-    webUrl: "https://time.com/6276974/biden-harris-white-house-artificial-intelligence-initiatives/"
-    type: article
-    provider:
-      name: Time
-      domain: time.com
-    quality: 68
-    images:
-      - url: "https://time.com/img/icons/wallet-connect.png"
-        width: 256
-        height: 256
-        isCached: true
   - title: "The White House Starts to Address AI Risks with New Initiatives"
     excerpt: "Executives from Alphabet, Microsoft, OpenAI, and Anthropic will also meet with the Vice President today to discuss the new AI efforts."
     publishedDateTime: 2023-05-04T15:20:00Z
@@ -224,17 +210,6 @@ related:
         width: 1000
         height: 667
         isCached: true
-  - title: "Harris meets with CEOs about artificial intelligence risks"
-    excerpt: "Vice President Kamala Harris will meet with the CEOs of four major companies developing artificial intelligence."
-    publishedDateTime: 2023-05-04T10:07:00Z
-    webUrl: "https://www.seattletimes.com/business/harris-to-meet-with-ceos-about-artificial-intelligence-risks/"
-    ampWebUrl: "https://www.seattletimes.com/business/harris-to-meet-with-ceos-about-artificial-intelligence-risks/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/harris-to-meet-with-ceos-about-artificial-intelligence-risks/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 37
   - title: "White House pushes tech CEOs to limit risks of AI"
     excerpt: "The White House on Thursday pushed Silicon Valley CEOs to limit the risks of artificial intelligence, in the administration’s most visible effort to confront rising questions and calls to regulate the rapidly advancing technology."
     publishedDateTime: 2023-05-04T23:53:00Z

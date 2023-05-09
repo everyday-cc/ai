@@ -101,20 +101,6 @@ related:
         width: 2640
         height: 1320
         isCached: true
-  - title: "White House Must Take More Action To Address AI Concerns"
-    excerpt: "Twitter The White House Blueprint for an AI Bill of Rights issued last October is a strong start to a government response to protect workers, families, and our democracy from the potential pitfalls of AI. The recent release of generative AI tools is ..."
-    publishedDateTime: 2023-05-04T11:00:00Z
-    webUrl: "https://www.americanprogress.org/article/white-house-must-take-more-action-to-address-ai-concerns/"
-    type: article
-    provider:
-      name: Center for American Progress
-      domain: americanprogress.org
-    quality: 37
-    images:
-      - url: "https://www.americanprogress.org/wp-content/uploads/sites/2/2023/05/AIColumn.jpg"
-        width: 1680
-        height: 1120
-        isCached: true
 
 secured: "8+FfN48KcrWNB/4RZ2+Q86RQJPV5+iTLiqjq9aicfNnYy+g0yKmdy373XlNdfd8VNBR15fTcKwHOD2t1Ga7Zyf9lnB3GKqoP4GAA8fG6ftNOys3tyWNtRSOBGSeLtoVWV2NHT1Akn9yCfComXpS4DU9VYo+vu3gQBuualOftwe8H4TWYY8aBBYywozwb8qwwwXhrgVP9S8uHvt5eCGjO+BpKwq57nNPEMb4cCc9f6+z32qL+B/x35SHb7rNvu/Gk5IqjbAxAie4I9Ojje1DGKfBN0tYiEqnP8BAWxNXeR/v/PmlPF7LMwxbgF/0hTF26gp+3xV4VF8CWD0Qmmxs9+bd5hDH/NmNgkPalX2AKRVWLibFBUAqWHX2ivfYp+KrwbytL3WgsqczSfBaXMu0cHMDrWA/5QAWF7+U/OlbQt/1PLWIqgooYO3QLnSDoBSjlGy9tfSlBX6Ej+l5VfmxOqjtNPobOqZc19dRwrQf3WefM8lWoclQYsjAOVWFZrBNUSxGuI9SNNka5KJ7178uGlw==;v0j0HnzvrKRqj4awmfQIXg=="
 ---
