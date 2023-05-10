@@ -35,6 +35,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Microsoft CEO Satya Nadella on AI"
+    excerpt: "TIME talks with Microsoft CEO Satya Nadella about Copilot and company's use of AI Write to Andrew D. Johnson at andrew.johnson@time.com."
+    publishedDateTime: 2023-05-10T21:10:00Z
+    webUrl: "https://time.com/6278841/microsoft-ceo-satya-nadella-on-artificial-intelligence/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 84
+    images:
+      - url: "https://cdn.jwplayer.com/v2/media/N9qPsYLv/poster.jpg?width&#x3D;720"
+        width: 720
+        height: 406
+        isCached: true
   - title: "IBM takes on AWS, Google, and Microsoft with Watsonx"
     excerpt: "The generative AI platform comes with a suite of tools for tuning large language models, a data store built on lakehouse architecture, and an AI governance toolkit."
     publishedDateTime: 2023-05-10T13:14:00Z
@@ -330,20 +344,6 @@ related:
       name: Finextra
       domain: finextra.com
     quality: 49
-  - title: "Builder.ai announces collaboration with Microsoft to democratize software development"
-    excerpt: "Builder.ai, the AI powered next generation composable software development platform that’s so simple and accessible, allowing every individual and business to turn their ideas into software, today announced a strategic collaboration with Microsoft,"
-    publishedDateTime: 2023-05-10T07:26:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-builderai-announces-collaboration-with-microsoft-democratize-software-developmen-/2023/05/10/9811121.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 47
-    images:
-      - url: "https://marketplace.connectwise.com/content/images/thumbs/0000635_skykick_550.png"
-        width: 550
-        height: 353
-        isCached: true
   - title: "MakeMyTrip announces its collaboration with Microsoft"
     excerpt: "MakeMyTrip has collaborated with Microsoft to make travel planning more inclusive and accessible by introducing voice assisted booking in Indian languages. The new, in-platform tech stack powered by Microsoft Azure OpenAI Service and Azure Cognitive Services,"
     publishedDateTime: 2023-05-08T07:52:00Z
@@ -367,6 +367,15 @@ related:
       name: CRN
       domain: channelweb.co.uk
     quality: 36
+  - title: "Google unveils AI-powered search engine to rival Microsoft’s Bing"
+    excerpt: "Google has been scrambling to catch up with Microsoft on consumer AI products. In February, Microsoft beat its rival to the punch by unveiling an AI-driven Bing search engine using OpenAI’s GPT technology. A month later, OpenAI revealed its language model, GPT-4, which users can access through a premium version of ChatGPT and via Bing."
+    publishedDateTime: 2023-05-10T18:00:00Z
+    webUrl: "https://www.ft.com/content/97515324-b75a-4c2c-b3d7-fef1f6e51efe"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 34
   - title: "MakeMyTrip brings generative AI for travel bookings, ties up with Microsoft"
     excerpt: "MakeMyTrip plans to expand the platform to other Indian languages, such as Bhojpuri and various southern dialects, in the near future"
     publishedDateTime: 2023-05-08T12:23:00Z
@@ -376,6 +385,15 @@ related:
       name: Business Standard
       domain: business-standard.com
     quality: 32
+  - title: "Builder.ai announces collaboration with Microsoft to democratize software development"
+    excerpt: "Builder.ai, the AI powered next generation composable software development platform that’s so simple and accessible, allowing every individual and business to turn their ideas into software, today announced a strategic collaboration with Microsoft,"
+    publishedDateTime: 2023-05-10T06:14:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/05/10/9811121.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 27
 
 secured: "oI9/a/kkkV9TAu+lnfeUgg2Dw09d6zOGZ+00t6w9gYdDdf4MrOXHzZpqbSB6p8nEl8hJjaKkIevn5HMg39HQeG9wpJWrabpHAvtPwV3HZz6W14tQTs37bomNMBp8oGlvJnO3ychlErqKFeHd7wl7GIWFGjnaW6/tQQqBWmmquy8N+Z/r5eqgouU9n0DcQWZFNAP4Rb5vPUjKpttL9xHzRn+lXIlOCduFHW5bI+xAfUVnGHEP1hJ2D5G5AnAqLG0gR7fxCxZzYaZjyUPnd/8JKGS2IQGbod85iYeWhAREtvlvI4BNzJu7pzM5TRp/8CUNVuUhSzHgADx62Rb+41V7cx8cQsFx9UNSyclJQ8Ck4HukWyxAETYnst2rPdN2ra/3dY9e1oHBPLs7hINcZNbvPI2z2Vpsx6ZkvHF7i+MRFBgDs66MNMTYRyO4IwNRlrzcXVwZWpbzppl5NF0B9AL+BIs5krnNxcKmQxjHB3cygm7oiy3hqVEPahLsHacK3BxdGyXcEbnfTRpsx7TNN+dcZA==;Yg503b2OM5CsnzUtr6uUWQ=="
 ---

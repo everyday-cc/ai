@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/google-opens-up-about-palm-2-its-new-gene
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/google-opens-up-about-palm-2-its-new-generative-ai-llm/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 139
 published: true
 
 provider:
@@ -47,6 +47,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "PaLM 2 Is a Major AI Update Built Into 25 Google Products"
+    excerpt: "Google on Wednesday unveiled a new AI system called PaLM 2, a major update to its most powerful language processing system. The artificial intelligence technology already is incorporated into 25 Google products, underscoring its importance as the company races to capitalize on a computing revolution."
+    publishedDateTime: 2023-05-10T19:45:00Z
+    webUrl: "https://www.cnet.com/tech/computing/palm-2-is-a-major-ai-update-built-into-25-google-products/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 49
   - title: "IBM's generative AI strike force"
     excerpt: "O.G. tech giant IBM is launching a counterstrike in the industry's suddenly-hot AI fight with today's announcement of Watsonx. The big picture: Business-focused IBM claims its latest AI offering, set to launch in July, provides more accurate answers and takes a more responsible approach than rivals."
     publishedDateTime: 2023-05-09T10:00:00Z
@@ -70,7 +79,16 @@ related:
       name: Fast Company
       domain: fastcompany.com
     quality: 17
+  - title: "Google unveils PaLM 2, its most powerful general-purpose AI yet, to power Bard chatbot"
+    excerpt: "Artificial intelligence took the center stage today at Google LLC’s annual developer conference Google I/O with the unveiling of PaLM 2, the second iteration of the Pathways Language Model. It’s a transformer-based large language model artificial intelligence developed by Google Research that powers the company’s Bard AI chatbot and other products."
+    publishedDateTime: 2023-05-10T18:32:00Z
+    webUrl: "https://siliconangle.com/2023/05/10/google-unveils-palm-2-powerful-general-purpose-ai-yet-power-bard-chatbot/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 11
 
-secured: "rMu98mHx9kBP2JLNFpac2U+V3hHix4z9079Nh31SF7vjwdNv6jHChr4O9E0KAOhDOstana2glb6sr+B8z1woX2LfYD80rQlR5XgiuzDdwO8ZPXjXVIXZ2c0jYuWlKYySCZJ5MsLVd0Px40f66Y/0NLnypjeFgYZBleieqSceqizK0vCiHxPfPnk3E/zUnpudXwfwRGsU9GvenkPmImsb5iBXtMGv4DtKxwiQLzfclpZNaUuTp38oMriEJRTAp2lWXeKh1ZbchPfM/NqhW5R/A0nYsiSEXW+wi8Rm5Jr03U5lIdNf2wRRIRmMCnRbdsks4cMkKDZPWlskiSqb8RxpTOTsZ382YMxkGFLM2KsCeBQ=;rGvsDG3dnYaTnR6KbFF1sw=="
+secured: "jwYAZNr8+kcuEVmqlhKMpn0wBp20X1kML+zROoPleXl05KGR8vBBJASRN6G2jQYtezpNDFgl34O0B10Axxuaas1Mgvy6WXS2cOWAua2O4MhICg5jrjjFfZrRPjOH7avXRSIDC7IuyFr48RRGJ+GYmFJ76VZxtmBHCS5KMMTjnVJsDE0Uo6LCHmF6fuMC8/TCddBfyi9S/SIEu15gyvFitaGQdALPWKfT7DvWEtAC5+ybSzrEIRB0o5OiO9OqBtXS6V5roDrekUyFxW6IJPS+5AsQZFoWw+lqjMah9mqBTBUrrKn488X3AI+t0jhckm0mM+b2dkAelsX47eSHKzEqj7tseJMFHEy2uf43XvFWt6Kkq9pXVuJAPrj2u7F1ozQJW7kWpV9MC7j4jz2puKa2GI4D7OhdSKPfy2XOMFDYo47yh7vVe1eZExOJjZRrENXyfQ1EGm7DlYU+DipugZJUI1r0Rg0ei+xUc/xVqvVE0VH8yuvyTfbxRUNDGIZnjr0z8drWzGOHnQNan1flyNkf+g==;p/XHYtotz3FCAzoK0ZRGkw=="
 ---
 

@@ -20,6 +20,7 @@ topics:
   - Machine Learning
   - AI
   - AI in Autos
+  - Google AI
 
 images:
   - url: "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=740/https://s3.cointelegraph.com/uploads/2023-04/d5ffb4dc-f12a-4b4a-8b5d-9126d3f27ae6.jpg"

@@ -30,6 +30,20 @@ related:
       name: Wired
       domain: wired.com
     quality: 47
+  - title: "AI is coming to the Play Store to help both users and devs"
+    excerpt: "Like so many of the announcements during this year’s Google I/O, AI has been the star of the show and it’s turning up in almost everything. The Play Store is taking part in the action with its own set of new features,"
+    publishedDateTime: 2023-05-10T19:32:00Z
+    webUrl: "https://www.androidpolice.com/ai-is-coming-to-the-play-store-to-help-both-users-and-devs/"
+    type: article
+    provider:
+      name: Android Police
+      domain: androidpolice.com
+    quality: 39
+    images:
+      - url: "https://static1.anpoimages.com/wordpress/wp-content/uploads/2023/05/google-io-play-console-ai-hero.jpg"
+        width: 2000
+        height: 1250
+        isCached: true
 
 secured: "D7kM+Xj49WpKMycygyQZcMiFhfUjHkkNPRHY99WgneqbX8CmYvjRl+1LemlvD7RicLsZ4NK+qnSx7cq4CLA4JXkQieTVK/XEXh8qf0N2HKJY66RRE8qJDk2LAmJJADAdA/c80tU2/FHS90x6UCVpDIQUW1/jD/uJ7xzbPKmY62hOGFWpkEVFB1UgLOF/Ru7l33AsdeiBoNNOjo0quugS7rbfW8eOTQxHnHprsv7dr6IFvBUm6wTuA1pPxv99ZjMDnMhhx7xNwoHPiSWWA9xh1T/jsI19iZv1sFuM4R30EhBIFa8wRTNGOgwIhg1AVk7xcOUlpWHH31IOt4PL3Cj8wIXkFV/sedKEWUIj/krdmaal91bj8ZAJ1kuailcRXKRrhCov7tBl4IxiMRh8307wYF9XDTGTstRwWhknJt6XJL57p9gm+FG069CvGOhvP3ogFTv6GgqqxT69YKJzxpowq4P3Z8PlQF/7W0zSwSc+xTOhq4/i43oQ8+5YtxmG9CHrgooZ0I0VaZk8wx7wZCgBJg==;2064VmfTNswqhbd98Xl9VQ=="
 ---

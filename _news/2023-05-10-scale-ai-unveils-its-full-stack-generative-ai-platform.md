@@ -50,6 +50,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "PaLM 2 Is a Major AI Update Built Into 25 Google Products"
+    excerpt: "Google on Wednesday unveiled a new AI system called PaLM 2, a major update to its most powerful language processing system. The artificial intelligence technology already is incorporated into 25 Google products, underscoring its importance as the company races to capitalize on a computing revolution."
+    publishedDateTime: 2023-05-10T19:45:00Z
+    webUrl: "https://www.cnet.com/tech/computing/palm-2-is-a-major-ai-update-built-into-25-google-products/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 49
   - title: "IBM's generative AI strike force"
     excerpt: "O.G. tech giant IBM is launching a counterstrike in the industry's suddenly-hot AI fight with today's announcement of Watsonx. The big picture: Business-focused IBM claims its latest AI offering, set to launch in July, provides more accurate answers and takes a more responsible approach than rivals."
     publishedDateTime: 2023-05-09T10:00:00Z
@@ -64,6 +73,15 @@ related:
         width: 1366
         height: 768
         isCached: true
+  - title: "Google unveils PaLM 2, its most powerful general-purpose AI yet, to power Bard chatbot"
+    excerpt: "Artificial intelligence took the center stage today at Google LLC’s annual developer conference Google I/O with the unveiling of PaLM 2, the second iteration of the Pathways Language Model. It’s a transformer-based large language model artificial intelligence developed by Google Research that powers the company’s Bard AI chatbot and other products."
+    publishedDateTime: 2023-05-10T18:32:00Z
+    webUrl: "https://siliconangle.com/2023/05/10/google-unveils-palm-2-powerful-general-purpose-ai-yet-power-bard-chatbot/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 11
 
 secured: "GSOh6nGpmV6Tmb/H/MO+pnlV+ffCKYM71sO93zhAg7qt6CZDfFcjfxNUljumMi4Hg9xXo4fRQcxIeKDKNi5UZrMnVWVmS13XC920/YlLDKUZE44FPOvOWK+ZeBOKhdBfB5xccuN6davDM6+I6lZSxrBMmPxFYCsrerLQ7yjvjtXcBo5ep9IY7fqkImRiAOxxnWNXNR76nnSMQD/8AcfUMAReTz6HxT8pnn+AK+MSG3HRzijjjmvk6uzAUhQLPf5p64seJdOhoYj1okr6vgpM1HH1QR4b/FvrYvDGBUQhD8y6mtEN8dU0r4kuSpdLMZ++uFR7Db4HhvFudlXomhQ2hjezq8a2RBP1idlJdkRkC4Y4llQTZ4McPacOW5oPpQKQ/kpPhApgJNompfUy5z9F3/tEPefctkiHkzFzHp7Z3S5LWMtTJyoX2VFf41UK4rcnjjXVqt+cro2RGmkdtQ0lNQppX3awmVNMA8ukEae06aCjoNb8vuqumqauNu0/J/cE/7Bmgxkdv5fiEVN2cl1/BQ==;b8muRuu2MKEv+o+StRHm3w=="
 ---

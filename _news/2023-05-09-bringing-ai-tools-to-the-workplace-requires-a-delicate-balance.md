@@ -118,6 +118,38 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Google’s Vertex AI machine learning platform gets generative AI tools"
+    excerpt: "The new updates to Google Cloud’s machine learning service will help the company square up against rivals such as Microsoft, AWS and IBM."
+    publishedDateTime: 2023-05-10T18:15:00Z
+    webUrl: "https://www.infoworld.com/article/3696208/google-s-vertex-ai-machine-learning-platform-gets-generative-ai-tools.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 66
+  - title: "Google Just Added Generative AI to Search"
+    excerpt: "Challenged by ChatGPT, the king of search launches a feature that can answer queries with text summarizing information found online."
+    publishedDateTime: 2023-05-10T17:59:00Z
+    webUrl: "https://www.wired.com/story/google-io-just-added-generative-ai-to-search/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 47
+  - title: "Google rolls out tools for developers to build machine learning and AI into their products"
+    excerpt: "Google LLC is rolling out a number of tools for developers to build machine learning and artificial intelligence into their applications using high-performance AI models and solutions. At Google I/O,"
+    publishedDateTime: 2023-05-10T20:42:00Z
+    webUrl: "https://siliconangle.com/2023/05/10/google-rolls-tools-developers-build-machine-learning-ai-products/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 44
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/12/network-g714c9891c_1280.jpg"
+        width: 1280
+        height: 853
+        isCached: true
   - title: "Creating a Thai language AI tool"
     excerpt: "Thai artificial intelligence (AI) engineers from public and private organisations have teamed up to develop a Thai-language generative AI-powered chatbot, expected to benefit several sectors from education to business."
     publishedDateTime: 2023-05-07T23:43:00Z
@@ -163,6 +195,15 @@ related:
     provider:
       name: The Cipher Brief
       domain: thecipherbrief.com
+    quality: 19
+  - title: "Google is throwing generative AI at everything"
+    excerpt: "But experts say that releasing these models into the wild before fixing their flaws could prove extremely risky for the company."
+    publishedDateTime: 2023-05-10T19:00:00Z
+    webUrl: "https://www.technologyreview.com/2023/05/10/1072880/google-is-throwing-generative-ai-at-everything/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
     quality: 19
 
 secured: "F0xZGQiUJpH46hKjKW2EC5NAejq31lgsLqpDBXyCdpS8UYPd9kdE6WLB0Di9qeD2MSWgprtB1h6rR1duR75Z9j+ueguDGyZAqPc/vwfherYgrhnBVZ8S/Cebk//4y41WuVWma8wESG8JvKu4eHWTYhKF7uCXGxxuyQQexn8IyBi/8Ta4KnbRHInd76Aoz1YFbzB60mdAMKhVnczdh68hI07ioSc97syQJ71sSyZX7kAeAu6MExi0LYj7dXgIVTGSAotIn/rCvVnSR7T/kNyoRkdRZGJN1IWtW7U+FhE7NXXWhFzoZ9z8HCpmZ01yjQjdvIhunhpOcUk5lSj1d7PXIFXUkhb3EPjj6Eu7J5Lfu7txMVrPhDika3ZKazl05uxLgWb9f4C+xRhzTZbNqmAKW6ypFCGGaKmQUwTMye7QqaVJDypiy86DmN9C+vHnBP2c6HM1gYn3iOyiWTtV84zwq62xAV7J9qq0X75UZKe0bUpdvTbuf1RNS+HPEtShdyG9/y3mSPtv+RmVP8aR7+7/Jw==;vnvTrLb3HpCQ3nLI4Xuuag=="

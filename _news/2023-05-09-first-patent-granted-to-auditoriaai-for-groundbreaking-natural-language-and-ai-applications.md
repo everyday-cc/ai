@@ -1,27 +1,29 @@
 ---
 category: news
 title: "First Patent Granted to Auditoria.AI for Groundbreaking Natural Language and AI Applications"
-excerpt: "The Landmark Patent Paves the Way for Intelligent Finance using Generative AI to Streamline Finance and Accounting Workflows SAN JOSE, CA / ACCESSWIRE / / AUDITORIA.AI, the pioneer in automated intelligent apps for finance,"
-publishedDateTime: 2023-05-09T15:00:00Z
-originalUrl: "https://www.marketwatch.com/press-release/first-patent-granted-to-auditoriaai-for-groundbreaking-natural-language-and-ai-applications-2023-05-09"
-webUrl: "https://www.marketwatch.com/press-release/first-patent-granted-to-auditoriaai-for-groundbreaking-natural-language-and-ai-applications-2023-05-09"
+excerpt: "The Landmark Patent Paves the Way for Intelligent Finance using Generative AI to Streamline Finance and Accounting Workflows. SAN JOSE, CA / ACCESSWIRE / May 9, 2023 / AUDITORIA.A"
+publishedDateTime: 2023-05-09T15:54:00Z
+originalUrl: "https://www.bignewsnetwork.com/news/273825417/first-patent-granted-to-auditoriaai-for-groundbreaking-natural-language-and-ai-applications"
+webUrl: "https://www.bignewsnetwork.com/news/273825417/first-patent-granted-to-auditoriaai-for-groundbreaking-natural-language-and-ai-applications"
 type: article
-quality: 38
-heat: 38
+quality: 28
+heat: 28
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Big News Network.com
+  domain: bignewsnetwork.com
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "NQvwDCYtHC5BixFTDA7jYgXaFOLW0taTyT4TIndTwP++Nx3YHCGWh9bR2X1yQX2GNg/2Jjw9UIL1G6FN5A3R23rS8yGqSx/yLDT9ZTCqENjrQqRwA093RTvRowJHg7i7zANEwNHnhiTAAXILfs4QjlMrl5m9NNta26LIRHZ5vs2bXbjetC3Ep9RWiIcRC57zPdC1PPSV0dmQC14R02rySWDJE8v9gc56Aiky8i6G+3ooJf8bkotNn6tBNFFOa5vjc1QELEJ9Kdf4Py/4cMh8e2aO/tU+Kpy7Pac2nFJdZscpcqwkooTFp1YJXbAPZkfb+6+yoY/z1H2xgGo6yIXOq260M3Kju2c15io5RtjnJeg=;DrRYwLhqVUvz1/pzGDijvw=="
+images:
+  - url: "https://cdn.bignewsnetwork.com/cus1683602367205.jpg"
+    width: 630
+    height: 420
+    isCached: true
+
+secured: "57ns690bNy8SY/7EPdy6wvnObhRPKdSO7ukqwCzBc7NYvVk4r6CK6T65mMm9/9bwPWkSU23oFAOc89M23u38n3Iu3XqFvFns+ZKzVcTVXznfYnD6+PojQbNBSbalPY4zgpPZ3EvALF/zVNRt4nSCmj3z31IXlWVoWgRyA+8oDPjFS4/dFiTU4QYDPXFobQK+3I1+HOjbpt/b/OgxR/xoAPcs6dup/df3Hv4nvSKVAXNX0RvHuBcRPsh29F1hVI6mJQ+IZIkIl/zYwZjHj5Pn2c8YRqvrMNhm88jfcjmfwXTZZYeGELRkkK4yQ5f5pmM4dq5CRmCkXHgc/0iIEs104JYqZI0WMMqzyolzZUXbTg8=;h9v8ep/o8t8tAw4kolWXCQ=="
 ---
 

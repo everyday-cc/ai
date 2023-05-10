@@ -31,19 +31,14 @@ images:
 
 related:
   - title: "Adobe Firefly Delivers Creator-Focused, Commercially Viable Generative AI to Millions"
-    excerpt: "Adobe and Google are partnering to bring Firefly to Bard, Google's experimental conversational AI service, with the ability to continue the creative journey further in Adobe Express. In the coming months,"
-    publishedDateTime: 2023-05-10T17:59:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/05/10/9811894.htm"
+    excerpt: "Adobe (Nasdaq:ADBE) showcased the incredible momentum of Adobe Firefly including a new integration with Bard by Google and the expansion of the"
+    publishedDateTime: 2023-05-10T17:45:00Z
+    webUrl: "https://www.businesswire.com/news/home/20230510005412/en/Adobe-Firefly-Delivers-Creator-Focused-Commercially-Viable-Generative-AI-to-Millions/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 32
-    images:
-      - url: "https://marketplace.connectwise.com/content/images/thumbs/0000635_skykick_550.png"
-        width: 550
-        height: 353
-        isCached: true
+      name: newsroom.businesswire.com
+      domain: businesswire.com
+    quality: 12
 
 secured: "M8apT6UDtpTlbs2D7LjvTBKEX48prrDjNDQRH3N6O5kUMuIpBF8jH9th0w2KWT72p78Yqa18zzSGz64ZnghTFLDKSFcwB7u0XRL9iumqlj/YxUunBzpWiaLaDwcSXi+q2viJKcfC2Z1+tUXAB968ocCDdmF1ZggxY6alhvEKuQ5zQ6euLS3gzsqzdY3yZ1yulhuBy3PkeWdgrEXFLCZZg8H+cLR0Lc2GojN3r300+yfDr+hhcAleG0ZUPa16iSo7DvIU/JPQBku74pcljuADxEHC1EybuMUhwSLcS+WC/1F9tmPgmhSWUciDOkKUK7BAILeRG2/Nc6WMyfsn5BS9JG3DXZubCsj+0xwC9NYSq64=;Vs5jdqFTZjX1e/sTnVdrvw=="
 ---

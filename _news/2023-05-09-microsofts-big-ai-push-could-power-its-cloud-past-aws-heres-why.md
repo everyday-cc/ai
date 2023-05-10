@@ -9,7 +9,7 @@ ampWebUrl: "https://www.barrons.com/amp/articles/microsoft-stock-aws-ai-bing-9b9
 cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/microsoft-stock-aws-ai-bing-9b9143c0"
 type: article
 quality: 91
-heat: 361
+heat: 381
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft CEO Satya Nadella on AI"
+    excerpt: "TIME talks with Microsoft CEO Satya Nadella about Copilot and company's use of AI Write to Andrew D. Johnson at andrew.johnson@time.com."
+    publishedDateTime: 2023-05-10T21:10:00Z
+    webUrl: "https://time.com/6278841/microsoft-ceo-satya-nadella-on-artificial-intelligence/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 84
+    images:
+      - url: "https://cdn.jwplayer.com/v2/media/N9qPsYLv/poster.jpg?width&#x3D;720"
+        width: 720
+        height: 406
+        isCached: true
   - title: "IBM takes on AWS, Google, and Microsoft with Watsonx"
     excerpt: "The generative AI platform comes with a suite of tools for tuning large language models, a data store built on lakehouse architecture, and an AI governance toolkit."
     publishedDateTime: 2023-05-10T13:14:00Z
@@ -323,20 +337,6 @@ related:
       name: Finextra
       domain: finextra.com
     quality: 49
-  - title: "Builder.ai announces collaboration with Microsoft to democratize software development"
-    excerpt: "Builder.ai, the AI powered next generation composable software development platform that’s so simple and accessible, allowing every individual and business to turn their ideas into software, today announced a strategic collaboration with Microsoft,"
-    publishedDateTime: 2023-05-10T07:26:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-builderai-announces-collaboration-with-microsoft-democratize-software-developmen-/2023/05/10/9811121.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 47
-    images:
-      - url: "https://marketplace.connectwise.com/content/images/thumbs/0000635_skykick_550.png"
-        width: 550
-        height: 353
-        isCached: true
   - title: "MakeMyTrip announces its collaboration with Microsoft"
     excerpt: "MakeMyTrip has collaborated with Microsoft to make travel planning more inclusive and accessible by introducing voice assisted booking in Indian languages. The new, in-platform tech stack powered by Microsoft Azure OpenAI Service and Azure Cognitive Services,"
     publishedDateTime: 2023-05-08T07:52:00Z
@@ -369,6 +369,15 @@ related:
       name: Business Line
       domain: thehindubusinessline.com
     quality: 34
+  - title: "Google unveils AI-powered search engine to rival Microsoft’s Bing"
+    excerpt: "Google has been scrambling to catch up with Microsoft on consumer AI products. In February, Microsoft beat its rival to the punch by unveiling an AI-driven Bing search engine using OpenAI’s GPT technology. A month later, OpenAI revealed its language model, GPT-4, which users can access through a premium version of ChatGPT and via Bing."
+    publishedDateTime: 2023-05-10T18:00:00Z
+    webUrl: "https://www.ft.com/content/97515324-b75a-4c2c-b3d7-fef1f6e51efe"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 34
   - title: "MakeMyTrip brings generative AI for travel bookings, ties up with Microsoft"
     excerpt: "MakeMyTrip plans to expand the platform to other Indian languages, such as Bhojpuri and various southern dialects, in the near future"
     publishedDateTime: 2023-05-08T12:23:00Z
@@ -378,6 +387,15 @@ related:
       name: Business Standard
       domain: business-standard.com
     quality: 32
+  - title: "Builder.ai announces collaboration with Microsoft to democratize software development"
+    excerpt: "Builder.ai, the AI powered next generation composable software development platform that’s so simple and accessible, allowing every individual and business to turn their ideas into software, today announced a strategic collaboration with Microsoft,"
+    publishedDateTime: 2023-05-10T06:14:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/05/10/9811121.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 27
 
 secured: "g6bsSIUVSGkp6OAn2o9UvxZ9xdYcYVCwE1IR8rBMGF9plfgwwisdNYpI8hwW2ekKrB26vGVUNZANSqScFzi+fo3ifBgMYRw16GgjwKqJkA1S/iAguEOUEI423S1tn/BPRgT6OseQc9tw+vl+tYT5t3vwHGKn5YEm0X/rr8JEvjmWykvb4X0UId7AqEp9zJJcsXTN7CahRKLBQp9WK+lsn0t0UJ3lW7s5Ahbo8rEyst8qgzhuRHjeImqZjHj+kZ97B8B0j2AMNYBaPLZBuXAeXtJaie2UuvddNeBlLg2RCNapCR1aezKW1MptVgb71SCdIFr0QN28glpVAPue+MeDvWQMZZisxFzFQgj0QPdWcIwAY8qtAqa0h8M/P/ogfiNECkPXSJAW+Bccn+47NNmEMbvqfP9laKQq1zqAyHfb2g2cGCl+PHmo9xjhOLElDuehaguVEhez3izGBsFPrZxM+jtxYBbklb+eaYuTgJ4xHuswI9Tu/8cWPiC3KQdl0zSBiRu44rx+Z0ho3UnC5DLvsg==;4ZEgp7roNU5BlZzemv6wTg=="
 ---

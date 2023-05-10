@@ -6,8 +6,8 @@ publishedDateTime: 2023-05-10T17:29:00Z
 originalUrl: "https://www.inverness-courier.co.uk/news/nicky-marr-should-we-worry-about-robots-313259/"
 webUrl: "https://www.inverness-courier.co.uk/news/nicky-marr-should-we-worry-about-robots-313259/"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Autos
 
 images:
   - url: "https://www.inverness-courier.co.uk/_media/img/CLIYB83EZBZJ5RRDTBLP.jpg"
@@ -24,6 +25,6 @@ images:
     height: 605
     isCached: true
 
-secured: "S3TradLkh8ZhcorIJ2OAUagxplmbsji4eVZTwiJUptr7dg46j9L/UKgYwnzXeQWjq3d4ZjO1YrsoQseO1V2ITZB8fG9kYGcrqgbBH191s4+AxYfNBwyMxe/zKTiNX3PjMGHRkLB8ZedrctJKJShpPMCVNvBrvy/1cEHYfkSb3GZ4o9vEnM7cXjwAA+xc6jNcnVCErU4elxgJZ5rfG23n1+NZirDzbs7EDbExV3MC4hYWHyEPAd0HccM7sAxzv75eaGzQ3a4T56Fx8S0trpWasvGrv1bMXq+tDcj/uqYZjUa7XZwC/kfOoy74LHz0VMsLdgkl/ZQpVpriCwqDwYIv+bQdSD5yUTgt9hreTAwzVRk=;MQsM882mbYKO+I0nXJdV2A=="
+secured: "H08hQBhEAGJ+2IFU8McZvpHw0lnuv5Kbcq3rjQZDC1DOnBsUMZPkSlfCJk8oOvDtFilzXmJms7LyjGLqMwTDRdPyN++zPzhC7P+E9uhcnTXxKnImoVTlHIoWVx8K9514eSaC8oCX4VFgnANw90p8RzXRxBqjeocBI+ddSINZ8QUBOSJ7QEbBgm1H52EosQQ0yDIsRPS9aN2OzYrMEaJ+MBwh2nvlMoTBUZeGE2w5ASb5Lr5Dvndsm4jIK3rYZ7a51m6Mn8TJL2D3S3tUbKWfXy+nzw5ETZYKTBxtWEalnHRwS7Q3RGKIOV+6KAIhsigNn8GTRmT57zIBWcnyEm5/k2EdLv61Pf0Qkuht4y97hl4yaTQHUMte32dnAdsRuXw8kPHiAllL9U9gOE9Y7IcSsyM13ZZReopGQukgBQUukclidUpxGCBLlRKXhCaASg7HkAbKJrwSRyKWr8v5QBb+LxVnUR1V/AMjITKbdN7Uw2AzWQVZ/+bPl9cBUcYRXxL4Itg0VzqABHuGOk8YY1UfGw==;sCqlmLDbkaPE9PRpK6kn1Q=="
 ---
 

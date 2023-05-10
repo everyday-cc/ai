@@ -20,6 +20,17 @@ topics:
   - AI in Finance
   - AI
 
+related:
+  - title: "Actyv.Ai Appoints Pravan Malhotra To Its Global Advisory Board"
+    excerpt: "Singapore based AI-powered Enterprise SaaS platform with embedded B2B BNPL and insurance, has announced the appointment of Pravan Malhotra to its global advisory board. A Wharton School alumnus, Malhotra is a very well-respected industry veteran with over 25 years of experience in investments,"
+    publishedDateTime: 2023-05-10T19:12:00Z
+    webUrl: "https://menafn.com/1106221094/ActyvAi-Appoints-Pravan-Malhotra-To-Its-Global-Advisory-Board"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 19
+
 secured: "O1SMQqFEP5fTLT899YzHAHAmKTUhVNxRailDL+w5hjQ7N1YJ98u8XywIQpnjpW8MOPHR4TiAnewIOkD8QC6Ci4vBvVVK96Ii1MC0UtbFFNzWPmp0Vlib6VKFwt02ZIDoMTj5gpRBLYsfmsoJ7dDrQlmckp290DNX6zJeTD3HTWiJkvtVPUV+bbwPG88Ucvm8cQeaxv8WFauu/W1vBf2kq3WCN2CJrB8X1L/UUezhGE4N9Lqv4nzdBxtimMN5QXHu7zB9Ox5mDNDBj0Qic9g+jNm2aikqLoG18ixSlFXDBNf3Zi7PZD76yw2NvR/gMwrXwh6zl57bJ30ciEd/pErTjgdYxKHH4XmEfeS2/RLQBwAG1gx8ICZSYY/2kzA6NDwGZxdU36o+8KLubBfw2c5ICbUkSx/6wFzUa0MvXKa+FCuFz03ucqLNGLslZeULFosZJxNhy6oNezOXCWeo9npAZU7hqkKJylrbYylu4MJqLaG31WbitomMrVRjZYfjfyEiqlJin2Uj7d+aEZgujy42JQ==;WM1eOpDY+a130j9WOfCJbQ=="
 ---
 

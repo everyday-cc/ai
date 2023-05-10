@@ -2,11 +2,11 @@
 category: news
 title: "Builder.ai announces collaboration with Microsoft to democratize software development"
 excerpt: "Builder.ai, the AI powered next generation composable software development platform that’s so simple and accessible, allowing every individual and business to turn their ideas into software, today announced a strategic collaboration with Microsoft,"
-publishedDateTime: 2023-05-10T07:26:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-builderai-announces-collaboration-with-microsoft-democratize-software-developmen-/2023/05/10/9811121.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-builderai-announces-collaboration-with-microsoft-democratize-software-developmen-/2023/05/10/9811121.htm"
+publishedDateTime: 2023-05-10T06:14:00Z
+originalUrl: "https://technews.tmcnet.com/news/2023/05/10/9811121.htm"
+webUrl: "https://technews.tmcnet.com/news/2023/05/10/9811121.htm"
 type: article
-quality: 47
+quality: 27
 heat: -1
 published: false
 
@@ -17,12 +17,6 @@ provider:
 topics:
   - Microsoft AI
   - AI
-
-images:
-  - url: "https://marketplace.connectwise.com/content/images/thumbs/0000635_skykick_550.png"
-    width: 550
-    height: 353
-    isCached: true
 
 related:
   - title: "Microsoft’s Big AI Push Could Power Its Cloud Past AWS. Here’s Why."
@@ -40,6 +34,20 @@ related:
       - url: "https://images.barrons.com/im-778497/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Microsoft CEO Satya Nadella on AI"
+    excerpt: "TIME talks with Microsoft CEO Satya Nadella about Copilot and company's use of AI Write to Andrew D. Johnson at andrew.johnson@time.com."
+    publishedDateTime: 2023-05-10T21:10:00Z
+    webUrl: "https://time.com/6278841/microsoft-ceo-satya-nadella-on-artificial-intelligence/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 84
+    images:
+      - url: "https://cdn.jwplayer.com/v2/media/N9qPsYLv/poster.jpg?width&#x3D;720"
+        width: 720
+        height: 406
         isCached: true
   - title: "IBM takes on AWS, Google, and Microsoft with Watsonx"
     excerpt: "The generative AI platform comes with a suite of tools for tuning large language models, a data store built on lakehouse architecture, and an AI governance toolkit."
@@ -368,6 +376,15 @@ related:
       name: Business Line
       domain: thehindubusinessline.com
     quality: 34
+  - title: "Google unveils AI-powered search engine to rival Microsoft’s Bing"
+    excerpt: "Google has been scrambling to catch up with Microsoft on consumer AI products. In February, Microsoft beat its rival to the punch by unveiling an AI-driven Bing search engine using OpenAI’s GPT technology. A month later, OpenAI revealed its language model, GPT-4, which users can access through a premium version of ChatGPT and via Bing."
+    publishedDateTime: 2023-05-10T18:00:00Z
+    webUrl: "https://www.ft.com/content/97515324-b75a-4c2c-b3d7-fef1f6e51efe"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 34
   - title: "MakeMyTrip brings generative AI for travel bookings, ties up with Microsoft"
     excerpt: "MakeMyTrip plans to expand the platform to other Indian languages, such as Bhojpuri and various southern dialects, in the near future"
     publishedDateTime: 2023-05-08T12:23:00Z
@@ -378,6 +395,6 @@ related:
       domain: business-standard.com
     quality: 32
 
-secured: "OX7tttpYkrZ3nzYkC+cl2sKFv4mE3q6bmbWU1U/kcsIQaWpB3BN/wqWThCuFHwqqN++KMPoDrFEuvw+bV9rBwck75k+Yjz24z1E6iac4fn5gA1Z5Pv6vOgb4u5BcqAE/CXfoWHC1PvQQG1CEQ+p5A/AQI/ZdPA4fpqUmHwgvBvpWM7GIAsyC3JSJvzP4/xw8+vgClRDcLel1R4P8nA5S/8jQhfzjFuH1K80YCbLi9VFcLeoFxSGXzXl9ETiVMT4+RyRNKB7GxsjfcbgHivZNIwBg4wLHRQSDIltwSBINSFACWbT3yvTm2IRbcXM0VFqBPNor+49czp5i6vxAXQaKBnCp6U+rEJ4i+FFTshwJ+nE=;GnKd3ko5NFd234a2jY0ovw=="
+secured: "1zo81KCpc4egt0/DueCKOEtisl8ZdLxWlwvN7KwZEInkTv7IAA/bcQogD3Kr/RHckJy7HUcirHL0mBUwwW5a0dKYhDWAyzRKSCEladi7ACByD109Lv0DCpT8ORwZsQOnUv/Bhnfl8vfFTnIvKzbC0cTH46BuumxVJL2UNxQBIDEaP4WvdrIamWasQMfg8Tj2NAN51em6YwOjO2lIq3qW0DShil/oDdybSncex2TcrpgQi5jFahwQCCC6qwVUz3hPc5w2u1x+gYp6eu7wfIqOFPNixhfzDfodd/ayWgmwyG7Mb4syZojuCHmkvFOOk3mpule1Rz/u1fCoQ6DoeT9VQqqDah2CyMaBC4J/Yh69614=;aR8GRebKWnU0Nt1vgvzaqg=="
 ---
 

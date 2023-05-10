@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/the-risks-and-limitations-of-ai-in-insura
 webUrl: "https://www.ibm.com/blog/the-risks-and-limitations-of-ai-in-insurance/"
 type: article
 quality: 99
-heat: 219
+heat: 229
 published: true
 
 provider:
@@ -183,6 +183,15 @@ related:
     provider:
       name: Telecoms
       domain: telecoms.com
+    quality: 19
+  - title: "Hackers to test limits of AI technology in mass event"
+    excerpt: "ChatGPT creator OpenAI and other major AI providers are coordinating with the Biden administration to let hackers test the limits of their technology."
+    publishedDateTime: 2023-05-10T19:14:00Z
+    webUrl: "https://thedailyrecord.com/2023/05/10/hackers-to-test-limits-of-ai-technology-in-mass-event/"
+    type: article
+    provider:
+      name: The Daily Record (Maryland)
+      domain: thedailyrecord.com
     quality: 19
   - title: "Apple’s AI plans uncertain, as pioneers argue about the risks of the technology"
     excerpt: "Jürgen Schmidhuber has been called “the father of AI” for his work in natural language processing within neural networks – the technology behind Siri and Google Translate. He has likewise written a huge number of papers and won awards for his work."

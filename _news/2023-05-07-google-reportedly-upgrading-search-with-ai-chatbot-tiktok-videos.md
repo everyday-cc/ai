@@ -7,7 +7,7 @@ originalUrl: "https://www.pcmag.com/news/google-reportedly-upgrading-search-with
 webUrl: "https://www.pcmag.com/news/google-reportedly-upgrading-search-with-ai-chatbot-tiktok-videos"
 type: article
 quality: 67
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -42,20 +42,31 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Google Plans to Make Search More ‘Personal’ with AI Chat and Video Clips"
-    excerpt: "Changes aim to respond to queries that can’t be easily answered by traditional ‘10 blue links’ web results."
-    publishedDateTime: 2023-05-06T03:00:00Z
-    webUrl: "https://www.wsj.com/articles/google-search-ai-artificial-intelligence-chatbot-tiktok-67c08870"
+  - title: "Wendy’s to test AI chatbot that takes your drive-thru order"
+    excerpt: "US fast-food chain says pilot program ‘seeks to take the complexity out of the ordering process’"
+    publishedDateTime: 2023-05-10T14:59:00Z
+    webUrl: "https://www.theguardian.com/us-news/2023/may/10/wendys-ai-chatbot-drive-thru"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2023/may/10/wendys-ai-chatbot-drive-thru"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2023/may/10/wendys-ai-chatbot-drive-thru"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 66
+      name: The Guardian
+      domain: theguardian.com
+    quality: 57
     images:
-      - url: "https://images.wsj.net/im-776222/social"
-        width: 1280
-        height: 640
+      - url: "https://i.guim.co.uk/img/media/28569c93918527a910695ba29c5afd9ee54972a9/0_193_4744_2847/master/4744.jpg?width=620&quality=85&auto=format&fit=max&s=c7b2467c0c605f2c61cd36601b08e053"
+        width: 620
+        height: 372
         isCached: true
+  - title: "Wendy's testing AI chatbot that takes drive-thru orders"
+    excerpt: "Fast food chain Wendy's is partnering with Google Cloud on an AI chatbot to take orders at a drive-thru, the company announced. Wendy's FreshAI will be launched in June as a pilot in a Columbus, Ohio area restaurant."
+    publishedDateTime: 2023-05-10T19:43:00Z
+    webUrl: "https://www.cbsnews.com/news/wendys-testing-ai-chatbot-drive-thru-orders/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 17
 
 secured: "hs50i9CrHpTIG35ap+KA65uxGDbsu/yeorIRL3Vn/aZ2N1ZMdTvaTfMyzVaKY1DPr3liDCYUshmytL7Arye4tmuwcFuB/nJT9W0EDKc/lvUwMvSh+nJii4ntUh1+MYNQzLGScEXEZXof0onho+9b9zowmjhEBwqgne7FuBXdgyrikMd/92PZ+Lex4Gxa8e4NcTtAFQYnbUjg8mSiqqu3uPWQEEsXsF9hT2xxGIPAyYIDiJg1E+947GI0DTA0/SNSiUPwX22BRs707duIh8Xrp1FPxJyjp4SU3/1xwK6kkJ3wOmK4g1qFXs8ib2oRxWnxLKOytGR+r04eIXwZhfi7gfsnZS5f9ioAgrbFllyPFJUKuTc77rJwA5BSDcmRpXvShb6HKLq9A7E7XV+v8ClBn//ixuAEBI8PaA6w1PZDq0D1ZgUvOCM/eZLWx3jFulJbtLW7q8XXislaWOiJzDbGoRoYfzWRNR4MNYkxppyipQlIv44p91LvjTHQnakbDINRNiZhdUP3vQWm3PXHfl9nEw==;H/kIOjw7VGAB4JWtPwIaLQ=="
 ---

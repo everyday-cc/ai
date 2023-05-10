@@ -19,6 +19,7 @@ topics:
   - AI
   - AWS AI
   - AI Hardware
+  - Google AI
 
 images:
   - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/04/unnamed-2.jpg"

@@ -1,30 +1,49 @@
 ---
 category: news
 title: "Mass event will let hackers test limits of AI technology"
-excerpt: "No sooner did ChatGPT get unleashed than hackers started “jailbreaking” the artificial intelligence chatbot – trying to override its safeguards so it could blurt out something"
-publishedDateTime: 2023-05-10T14:51:00Z
-originalUrl: "https://www.denverpost.com/2023/05/10/mass-event-will-let-hackers-test-limits-of-ai-technology/"
-webUrl: "https://www.denverpost.com/2023/05/10/mass-event-will-let-hackers-test-limits-of-ai-technology/"
-ampWebUrl: "https://www.denverpost.com/2023/05/10/mass-event-will-let-hackers-test-limits-of-ai-technology/amp/"
-cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2023/05/10/mass-event-will-let-hackers-test-limits-of-ai-technology/amp/"
+excerpt: "No sooner did ChatGPT get unleashed than hackers started “jailbreaking” the artificial intelligence chatbot – trying to override its safeguards so it could blurt out something unhinged or obscene"
+publishedDateTime: 2023-05-10T15:02:00Z
+originalUrl: "https://abcnews.go.com/Technology/wireStory/hackers-aim-find-flaws-ai-white-house-99219240"
+webUrl: "https://abcnews.go.com/Technology/wireStory/hackers-aim-find-flaws-ai-white-house-99219240"
 type: article
-quality: 57
-heat: 57
+quality: 39
+heat: 39
 published: false
 
 provider:
-  name: The Denver Post
-  domain: denverpost.com
+  name: ABC
+  domain: abcnews.go.com
 
 topics:
+  - AI Ethics
   - AI
 
 images:
-  - url: "https://www.denverpost.com/wp-content/uploads/2023/05/Hacking_AI_99610.jpg?w=1024&h=682"
-    width: 1024
-    height: 682
+  - url: "https://s.abcnews.com/images/US/wirestory_97b963db084800f11b26b8a023b1713f_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
-secured: "h/x1NHd5wablcb6PUUCmNOprpJk8QPV2Jhm39BKugTtkzmSpgNzmoi6qqVLnCsZKHTNgIKEyvIaVQnN3tNsOU/uOuIxqnKACwYuSgtA2AU880jHH9tHbvQ6XVNZf+UZJGjkJeG9yNbuI9ml4yMl4K+0np23zDni8sWobzXX9J+SLhwNRqkH0VZM5DCxHcNsCTbdprOLaDSxYYaVVUqWd4s57Ot2QSBwpopOJHjGWOqTQ76GcK6nG9hm5MvjrQuZKZLyrSw9CPxdHMBAJ/Wjjyh9f1hnCDL3RyFoFfJ7/vFPVzfPK95oWCIewr1GuMoV8r32zwgqUHScTPp+e/QDi22K9PWfRRjN7Wug5tH+BXtQ=;XLKy3DeK4/fBnh+lATUlgg=="
+related:
+  - title: "Las Vegas event will let hackers test limits of AI technology"
+    excerpt: "No sooner did ChatGPT get unleashed than hackers started “jailbreaking” the artificial intelligence chatbot — trying to override its safeguards so it could blurt out something"
+    publishedDateTime: 2023-05-10T16:26:00Z
+    webUrl: "https://lasvegassun.com/news/2023/may/10/las-vegas-event-will-let-hackers-test-limits-of-ai/"
+    type: article
+    provider:
+      name: Las Vegas Sun
+      domain: lasvegassun.com
+    quality: 19
+  - title: "Mass event will let hackers test limits of AI technology"
+    excerpt: "No sooner did ChatGPT get unleashed than hackers started “jailbreaking” the artificial intelligence chatbot – trying to override its safeguards so it could blurt out something"
+    publishedDateTime: 2023-05-10T19:36:00Z
+    webUrl: "https://www.courant.com/2023/05/10/mass-event-will-let-hackers-test-limits-of-ai-technology/"
+    type: article
+    provider:
+      name: Hartford Courant
+      domain: courant.com
+    quality: 19
+
+secured: "CBlWRI2RF+xKxbwGlbLeJPlnLhBehWYjcNjWLVHaXKfwoc0RbVbIUEEzW1CSv00KdJ6Tx/8zV378lUaMbu9kMSDTQuISdmzhXuB11bzVPNLhcJsJOqxm0h0P57MFNsHK2F/fWGnNNfCwH4jMXQzTka2cZupNgskVwlP7/4lTUBX9uYy9hoxUhhr4RRIv/bdjMG3gm0AzgmSbZ8ZXSV7pqEMIbhb1nJ7ic8rWGUiO21L30RJhVavlnWJuKLO9Ec72Lxs6zCR4sxh2dKzqCAcDR+JnXUu30RYtjXtbxFimDnHhwNGe9aNY2/pG71jBbahuxwOyYVe6ja9gaG9KvUx7dkeniZooAYR6CcIAUuQ08qI=;ycdNUFJbLNMQq55u/qVsYw=="
 ---
 

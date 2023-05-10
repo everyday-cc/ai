@@ -113,6 +113,15 @@ related:
         width: 1260
         height: 626
         isCached: true
+  - title: "Operationalize ML models built in Amazon SageMaker Canvas to production using the Amazon SageMaker Model Registry"
+    excerpt: "You can now register machine learning (ML) models built in Amazon SageMaker Canvas with a single click to the Amazon SageMaker Model Registry, enabling you to operationalize ML models in production. Canvas is a visual interface that enables business analysts to generate accurate ML predictions on their"
+    publishedDateTime: 2023-05-10T18:43:43Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/operationalize-ml-models-built-in-amazon-sagemaker-canvas-to-production-using-the-amazon-sagemaker-model-registry/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 65
 
 secured: "HN/lbc0ahKOsCUSGoUj77N+0CXXEk79QBjuNCWFpEbLcDH46mOqU6MxWaoKPjKc2Ei4EMzyf719VX20K1QOlwBIZ2udNZNi1ESpvejbrND9R7Mk3ck7NXchSGMjf8mdBtEJLC3Bk6uXtyl2ghex1DcF0k7T2NTh0v+E5fI639EynodwhiIWjaamR9Y7dax157dfABoOE4asbcu+5rN5Q2KYmyszSxk1Yb0UH8ioRQ7ZnuvkfpEjR1TmBPuYi1WykC0HRgV9MmN4fVDCy4mEk85HSWfX2nPegIgsFeel5WeFOGdWmYDFegjRspL4lOzYs7yU6Rtx1NR7qSoQUhIPXLhJlmw7WbExOGETdlaYjQAw=;RpojAPZgLqe2JmiujuTBvg=="
 ---

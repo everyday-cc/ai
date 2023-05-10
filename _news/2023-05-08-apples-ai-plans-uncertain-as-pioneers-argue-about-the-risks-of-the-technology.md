@@ -189,6 +189,15 @@ related:
       name: Telecoms
       domain: telecoms.com
     quality: 19
+  - title: "Hackers to test limits of AI technology in mass event"
+    excerpt: "ChatGPT creator OpenAI and other major AI providers are coordinating with the Biden administration to let hackers test the limits of their technology."
+    publishedDateTime: 2023-05-10T19:14:00Z
+    webUrl: "https://thedailyrecord.com/2023/05/10/hackers-to-test-limits-of-ai-technology-in-mass-event/"
+    type: article
+    provider:
+      name: The Daily Record (Maryland)
+      domain: thedailyrecord.com
+    quality: 19
 
 secured: "3yj14j0MQDUCsvqA3W0BuAnntgk1AU9lDj5DBK11QK84AGGzOpzdFRkx5fpGtdaCFVbBPxMC3i+QSjRHf9oyMYAmR26JIhWUXbklDlT/VrZ+9nqY0T/iYfDn6VQ+0A/cOVoellMWumPasd5buL5eXmGt4SiJnCdM4GsufkIrUzRo40xhaJalR6rpUyBGnqxRolKtd9gIW4C+baHaJy+9WRA5GlIYBKFf2qnlMFiyDqMxy2VbWFj3JyileT3AMM/uecEZFKqAcB+HVngYZW1pL0Ozmg+HnsGz0iw63crCTrvV3s/CQznVPGVCd5AxxugudzRNeGUoVY8YOjelq3j3iBh2zAZ39WlahkVj3i+GfZ+I0g2c/94BEbLKrm93cmhq1RDLxDTdT8GloXPh9glLvyejS0X/beVk3Dja+l8KJY0PlnvXISbn+vXPGYyxDjW8a7pMltxZQ4W340kyIOtSgQ5Z+gqZTmSZxMTJKqsJq2z7AsSjNDbmxApFP0ekv9/7o/bXM/UmJRlEcOQTSO/Epw==;iFwPdHLsl+reW3Y/k8ov5g=="
 ---

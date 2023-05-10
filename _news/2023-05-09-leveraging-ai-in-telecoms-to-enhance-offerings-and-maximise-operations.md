@@ -180,6 +180,15 @@ related:
         width: 619
         height: 377
         isCached: true
+  - title: "Hackers to test limits of AI technology in mass event"
+    excerpt: "ChatGPT creator OpenAI and other major AI providers are coordinating with the Biden administration to let hackers test the limits of their technology."
+    publishedDateTime: 2023-05-10T19:14:00Z
+    webUrl: "https://thedailyrecord.com/2023/05/10/hackers-to-test-limits-of-ai-technology-in-mass-event/"
+    type: article
+    provider:
+      name: The Daily Record (Maryland)
+      domain: thedailyrecord.com
+    quality: 19
   - title: "Apple’s AI plans uncertain, as pioneers argue about the risks of the technology"
     excerpt: "Jürgen Schmidhuber has been called “the father of AI” for his work in natural language processing within neural networks – the technology behind Siri and Google Translate. He has likewise written a huge number of papers and won awards for his work."
     publishedDateTime: 2023-05-08T13:31:00Z

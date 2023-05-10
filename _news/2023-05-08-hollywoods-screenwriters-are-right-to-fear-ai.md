@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/story/hollywood-screenwriters-artificial-intel
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/hollywood-screenwriters-artificial-intelligence-guardrails/amp"
 type: article
 quality: 87
-heat: 157
+heat: 137
 published: true
 
 provider:
@@ -46,17 +46,6 @@ related:
         width: 1440
         height: 907
         isCached: true
-  - title: "The next fear on AI: Hollywood’s killer robots become the military’s tools | Analysis"
-    excerpt: "U.S. national security officials are warning about the potential for the new technology to upend war, cyber conflict and — in the most extreme case — the use of nuclear weapons."
-    publishedDateTime: 2023-05-06T02:18:00Z
-    webUrl: "https://www.seattletimes.com/business/technology/the-next-fear-on-ai-hollywoods-killer-robots-become-the-militarys-tools-analysis/"
-    ampWebUrl: "https://www.seattletimes.com/business/technology/the-next-fear-on-ai-hollywoods-killer-robots-become-the-militarys-tools-analysis/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/the-next-fear-on-ai-hollywoods-killer-robots-become-the-militarys-tools-analysis/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 47
   - title: "10 startups bringing AI tech to Netflix, Lucasfilm, Marvel, and more Hollywood studios — and attracting millions in VC funding"
     excerpt: "a London-based AI startup known for its Tom Cruise deepfakes. \"Over 10, 15 years, it'll touch every part of content creation.\" Vendors and investors told Insider that over time, AI tools will ..."
     publishedDateTime: 2023-05-08T00:00:00Z
@@ -70,20 +59,6 @@ related:
       - url: "https://i.insider.com/640ac45b9ef79f00182879f7?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "If AI Is the Future of Hollywood, We’re All F*cked"
-    excerpt: "Writers in Hollywood are seeking protection against AI encroaching on human jobs. If we’re smart, we’ll stand behind them."
-    publishedDateTime: 2023-05-06T03:36:00Z
-    webUrl: "https://www.thedailybeast.com/if-ai-is-the-future-of-hollywood-were-all-screwed"
-    type: article
-    provider:
-      name: The Daily Beast
-      domain: thedailybeast.com
-    quality: 37
-    images:
-      - url: "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1688,w_3000,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1683327842/230505-hollywood-ai-hero_tdbcw2"
-        width: 1480
-        height: 833
         isCached: true
   - title: "Writers vs. robots: Hollywood moved toward automation long before AI"
     excerpt: "In the franchise era, viewers and studios alike favor formula over creativity—the exact sort of stuff that’s easiest for AI to write, unfortunately for writers."

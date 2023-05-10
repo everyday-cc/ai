@@ -7,7 +7,7 @@ originalUrl: "https://www.itnews.com.au/news/meta-platforms-scoops-up-ai-network
 webUrl: "https://www.itnews.com.au/news/meta-platforms-scoops-up-ai-networking-chip-team-594087"
 type: article
 quality: 56
-heat: -1
+heat: 66
 published: false
 
 provider:
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Meta Platforms scoops up AI networking chip team from Graphcore"
-    excerpt: "Meta Platforms Inc has hired an Oslo-based team that until late last year was building artificial-intelligence networking technology at British chip unicorn Graphcore.A Meta spokesperson confirmed the hirings in response to a request for comment,"
-    publishedDateTime: 2023-05-06T01:31:00Z
-    webUrl: "https://www.channelnewsasia.com/business/meta-platforms-scoops-ai-networking-chip-team-graphcore-3468007"
-    type: article
-    provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 56
-    images:
-      - url: "https://onecms-res.cloudinary.com/image/upload/s--9HumNy0t--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2023-05-05t133156z_1_lynxmpej440h9_rtroptp_3_meta-platforms-ai.jpg?itok=k0W4eQWc"
-        width: 1200
-        height: 676
-        isCached: true
   - title: "Meta buys AI networking chip team from Graphcore"
     excerpt: "Meta Platforms has hired an Oslo-based team that until late last year was building AI networking technology at Graphcore."
     publishedDateTime: 2023-05-09T06:09:00Z

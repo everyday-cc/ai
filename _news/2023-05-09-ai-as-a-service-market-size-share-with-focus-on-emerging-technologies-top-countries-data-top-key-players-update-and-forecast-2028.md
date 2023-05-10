@@ -6,7 +6,7 @@ publishedDateTime: 2023-05-08T20:49:00Z
 originalUrl: "https://www.marketwatch.com/press-release/ai-as-a-service-market-size-share-with-focus-on-emerging-technologies-top-countries-data-top-key-players-update-and-forecast-2028-2023-05-08"
 webUrl: "https://www.marketwatch.com/press-release/ai-as-a-service-market-size-share-with-focus-on-emerging-technologies-top-countries-data-top-key-players-update-and-forecast-2028-2023-05-08"
 type: article
-quality: 40
+quality: 42
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ topics:
   - IBM AI
   - AI
   - AWS AI
+  - Google AI
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

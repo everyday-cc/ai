@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Adobe Firefly Delivers Creator-Focused, Commercially Viable Generative AI to Millions"
-excerpt: "Adobe and Google are partnering to bring Firefly to Bard, Google's experimental conversational AI service, with the ability to continue the creative journey further in Adobe Express. In the coming months,"
-publishedDateTime: 2023-05-10T17:59:00Z
-originalUrl: "https://technews.tmcnet.com/news/2023/05/10/9811894.htm"
-webUrl: "https://technews.tmcnet.com/news/2023/05/10/9811894.htm"
+excerpt: "Adobe (Nasdaq:ADBE) showcased the incredible momentum of Adobe Firefly including a new integration with Bard by Google and the expansion of the"
+publishedDateTime: 2023-05-10T17:45:00Z
+originalUrl: "https://www.businesswire.com/news/home/20230510005412/en/Adobe-Firefly-Delivers-Creator-Focused-Commercially-Viable-Generative-AI-to-Millions/"
+webUrl: "https://www.businesswire.com/news/home/20230510005412/en/Adobe-Firefly-Delivers-Creator-Focused-Commercially-Viable-Generative-AI-to-Millions/"
 type: article
-quality: 32
+quality: 12
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: newsroom.businesswire.com
+  domain: businesswire.com
 
 topics:
   - AI Ethics
   - AI
-
-images:
-  - url: "https://marketplace.connectwise.com/content/images/thumbs/0000635_skykick_550.png"
-    width: 550
-    height: 353
-    isCached: true
 
 related:
   - title: "Three Reasons Generative AI Will Be The Next Disruption For E-Grocery Stores"
@@ -42,6 +36,6 @@ related:
         height: 674
         isCached: true
 
-secured: "6GhNJApFWjDPRorsaqtlhRHV4dwusS4/PH9o5WWmlHfisg58f9adcemJxhV+f3raHslIoAQGF5NT3lzSv4GR4WWCToIjKScWD5zOjE7Rv7h5O567dKdg709aubUFP7r7n2iQZncL1deHRDGeAnl34DFVNc8+k9/gvgds5FffqmAk/fHHdT4TSu3BsKHm3VR0Jxr1kNeEdGkOo0O4rEHh5Hj2tt0Dfn3UZuwR0R3KdNFURfNeCJ9KR03j/FZ5cRh9/REvq8AGEPhtY+BD/Oi5N+6/ubKyDf7ilfQrKI4QWlpXwiTIO0E/4EyglIE1aEzGZiIyF54Gi+OWMs7gnpxyHpurFpqIS72vAdOP+0S1kjw=;mU7VuIkODRiKWyX3jdAVqw=="
+secured: "pg0iWwGqTFqG+jfNL/5WtLL+u/1PJ2Tv87gmjDQbTXVibchh1zzT2BdQhQCUuPp38CML7WlwdS0wEZ7ikzRd47I+xedGEJ0gvWuLPQlD+6S4rbT2WVa+18AqI9ELi5GjfOmkFvscMYJMDtiU1FQvC6YgE5yaeFHi+0FE9b0pqZKhUCE+hGbyKY806g7xkKehZ7AOlyQJInMivzE1tJgjl/BcSuls4JRfBEeNjXIbo9wgkPyy8xNVUKpHy/aBQeDFJ2ec81QSUwVmLdZglhhxn/tc18FzgXRzAGDtFJNtNvr6XTSsPoxc6pfvFKnsUARPiFfMt7acpFvoh2NlndTEWJWZA2GCsiZR6gefO/XQFRZkUXCKmtRmfeIIT3k9nkEovh/HCytbX4NhPHvtRGK7xd+eRwVeRJ3h++QdQN++51XEPNsjLeXj5okEMYt6n1C3AGHUdzsHLrvUdVy570fWrlbhHeWLn4ccNhy7EYIQRcSEO0XQdDPOMZ1926OEOtyrPoU2YAFrU5prZckOIzja0A==;eH5ihYStgELCQm/XFCDwzw=="
 ---
 

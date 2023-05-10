@@ -22,44 +22,63 @@ topics:
   - AI
 
 related:
-  - title: "Google I/O 2023 Live Blog: Pixel, Nest and Bard AI Reveals Expected Today"
-    excerpt: "Google I/O 2023, the company's annual developer conference, kicks off Wednesday, and it's expected to include lots of reveals for the company's Pixel device line and the Bard AI experiment. The conference begins with a keynote at 10 a."
-    publishedDateTime: 2023-05-10T14:48:00Z
-    webUrl: "https://www.cnet.com/news-live/google-io-2023-live-blog-pixel-nest-and-bard-ai-reveals-expected-today/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news-live/google-io-2023-live-blog-pixel-nest-and-bard-ai-reveals-expected-today/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news-live/google-io-2023-live-blog-pixel-nest-and-bard-ai-reveals-expected-today/"
+  - title: "How to join the Google Search Labs waitlist to access its new AI search engine early"
+    excerpt: "Once you are on the homepage, you will want to click the \"Sign in\" blue button on the upper right hand corner. Log on using your personal Gmail account. After you sign in, you will be brought to a page where you can actually join the waitlist simply by clicking on the \"Join waitlist\" button. Once you do, you are all set."
+    publishedDateTime: 2023-05-10T20:55:00Z
+    webUrl: "https://www.zdnet.com/article/how-to-join-the-google-search-labs-waitlist-to-access-its-new-ai-search-engine-early/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/how-to-join-the-google-search-labs-waitlist-to-access-its-new-ai-search-engine-early/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-to-join-the-google-search-labs-waitlist-to-access-its-new-ai-search-engine-early/"
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
-    quality: 86
+      name: ZDNet
+      domain: zdnet.com
+    quality: 80
     images:
-      - url: "https://www.cnet.com/a/img/resize/0ca7c8055796ec105c7002853ee5ae9fabf8ea1e/hub/2023/04/20/b51b4ccc-c533-42a5-bf98-62ba415a1b56/google-io-2023-5.jpg?auto=webp&fit=crop&height=675&width=1200"
+      - url: "https://www.zdnet.com/a/img/resize/f4552f0d0f6335956bb54c280824a4533fab6ea4/2023/05/10/fd1095b6-4cb5-4f32-83ae-d88a430ad3e2/labs.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Google I/O 2023 Live Blog: Pixel, Nest and Bard AI Reveals Expected at May 10 Keynote"
-    excerpt: "Google's developer conference will feature plenty of new devices and likely new AI reveals, too."
-    publishedDateTime: 2023-05-10T12:30:00Z
-    webUrl: "https://www.cnet.com/news-live/google-io-2023-live-blog-pixel-nest-and-bard-ai-reveals-expected-at-may-10-keynote/"
+  - title: "The AI takeover of Google Search starts now"
+    excerpt: "The future of Google Search is AI. But not in the way you think. The company synonymous with web search isn’t all in on chatbots (even though it’s building one, called Bard ), and it’s not redesigning its homepage to look more like a ChatGPT-style messaging system."
+    publishedDateTime: 2023-05-10T17:51:00Z
+    webUrl: "https://www.theverge.com/2023/5/10/23717120/google-search-ai-results-generated-experience-io"
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
-    quality: 40
-  - title: "Next-gen AI language model will reportedly debut at Google I/O 2023"
-    excerpt: "Leaked documents reveal that Google plans to announce its next-gen PaLM AI large language model at Google I/O 2023."
-    publishedDateTime: 2023-05-08T21:10:00Z
-    webUrl: "https://bgr.com/tech/next-gen-ai-language-model-will-reportedly-debut-at-google-i-o-2023/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 37
+      name: The Verge
+      domain: theverge.com
+    quality: 69
     images:
-      - url: "https://bgr.com/wp-content/uploads/2023/05/Google-IO-2022.jpg?quality=82&strip=all"
-        width: 1920
-        height: 1080
+      - url: "https://cdn.vox-cdn.com/thumbor/QQawoxSGsujkaqzq1e5nMDIBGdw=/0x0:2620x1500/1200x628/filters:focal(233x623:234x624)/cdn.vox-cdn.com/uploads/chorus_asset/file/24644238/SGE_Bluetooth_Speakers_v2.png"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Meet the New Google Search: AI-Generated Results Get Top Billing"
+    excerpt: "At I/O, Google previews the new 'Search Generative Experience,' which places AI-powered results atop traditional search results."
+    publishedDateTime: 2023-05-10T21:15:00Z
+    webUrl: "https://www.pcmag.com/news/meet-the-new-google-search-ai-generated-results-get-top-billing"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 67
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/02wpEEUQXRc8sreSn73b1Q1-1.fit_lim.size_1200x630.v1683749201.jpg"
+        width: 1120
+        height: 630
+        isCached: true
+  - title: "How AI is about to change your Google search results"
+    excerpt: "A guided tour of the new Google Search Generative Experience, or SGE, coming first to people who sign up — and eventually to everyone."
+    publishedDateTime: 2023-05-10T16:52:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2023/05/10/google-search-ai-io-2023/"
+    type: article
+    provider:
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 39
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3I52HAZKDVH2LO55VF2X6FBCNY.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
 
 secured: "Lh5BPF7u/JxBWtwfCJDeQ0QOcsZzqtKxAB0zBjJ3yPjG3hhcFSIFg861EYSQH48KxOIbMsajlMVFxcM/pVNhs7On40+/q3UEJiy3Xsc+5p9jpvA76+kR5O6Mw330orxy5G/j1tdZT39H6ZzLbjRr3H84Rtz2N/jlFlc9y4VwhXS+loY52QmdMtnzBLo3g4vLPc/HhbuEirosoG4+cmMUWr0DeCtKub/g+WR2nYMpjE/3o+YlZS85wkcHGeBiMh6/vdX+7z3+3sHjRfsHxKZzctVbACA721UsPD79Nefq7aHU/9e13EW+cxqRtfE5XOgG75M2DFuy2HkFEDUC38a3KMV/km9i9fRVSoZMV8Kmz2bfyOx/AKuW5chnrvT0QqFFlTOuZCuHlQLTgQRh6OQwhlJe7Raej/LCG3cQ/hQjynIc2IanTvWNRorXNDhrzvC6z8QehGpSGtaeLHaFYdocogvd+I4j7u+Ud67Y08WAvAj37KNMzmoGmVvNBv7GcgsJz4enhxx0Q02meLXEZ0EEqw==;ojXMo8S19NPowmlgSL99ag=="

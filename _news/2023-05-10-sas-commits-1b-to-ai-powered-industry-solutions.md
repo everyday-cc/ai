@@ -49,6 +49,20 @@ related:
         width: 400
         height: 267
         isCached: true
+  - title: "SAS Announces $1B Commitment to AI-powered Industry Solutions"
+    excerpt: "SAS, a leader in analytics, will invest $1 billion over the next three years to further develop advanced analytics"
+    publishedDateTime: 2023-05-10T21:02:00Z
+    webUrl: "https://www.datanami.com/this-just-in/sas-announces-1b-commitment-to-ai-powered-industry-solutions/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 39
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2023/02/AI-North-America23.png"
+        width: 1664
+        height: 674
+        isCached: true
   - title: "SAS to spend $1 billion on AI as global tech race heats up"
     excerpt: "Cary-based SAS will pour huge sums into advancing its artificial intelligence platforms in order to keep up with other tech giants."
     publishedDateTime: 2023-05-09T18:00:00Z

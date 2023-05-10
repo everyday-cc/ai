@@ -29,21 +29,60 @@ images:
     isCached: true
 
 related:
-  - title: "The jobs AI won't take yet"
-    excerpt: "Since the start of the industrial revolution ... And that could be dire, says Martin Ford, author of Rule of the Robots: How Artificial Intelligence Will Transform Everything. “It's not just that this would happen to individuals, but it could be pretty ..."
-    publishedDateTime: 2023-05-07T21:49:00Z
-    webUrl: "https://www.bbc.com/worklife/article/20230507-the-jobs-ai-wont-take-yet"
+  - title: "How to join the Google Search Labs waitlist to access its new AI search engine early"
+    excerpt: "Once you are on the homepage, you will want to click the \"Sign in\" blue button on the upper right hand corner. Log on using your personal Gmail account. After you sign in, you will be brought to a page where you can actually join the waitlist simply by clicking on the \"Join waitlist\" button. Once you do, you are all set."
+    publishedDateTime: 2023-05-10T20:55:00Z
+    webUrl: "https://www.zdnet.com/article/how-to-join-the-google-search-labs-waitlist-to-access-its-new-ai-search-engine-early/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/how-to-join-the-google-search-labs-waitlist-to-access-its-new-ai-search-engine-early/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-to-join-the-google-search-labs-waitlist-to-access-its-new-ai-search-engine-early/"
     type: article
     provider:
-      name: BBC
-      domain: bbc.com
-    quality: 69
+      name: ZDNet
+      domain: zdnet.com
+    quality: 80
     images:
-      - url: "https://ychef.files.bbci.co.uk/live/624x351/p0flr5cn.jpg"
-        width: 624
-        height: 351
+      - url: "https://www.zdnet.com/a/img/resize/f4552f0d0f6335956bb54c280824a4533fab6ea4/2023/05/10/fd1095b6-4cb5-4f32-83ae-d88a430ad3e2/labs.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Meet the New Google Search: AI-Generated Results Get Top Billing"
+    excerpt: "At I/O, Google previews the new 'Search Generative Experience,' which places AI-powered results atop traditional search results."
+    publishedDateTime: 2023-05-10T21:15:00Z
+    webUrl: "https://www.pcmag.com/news/meet-the-new-google-search-ai-generated-results-get-top-billing"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 67
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/02wpEEUQXRc8sreSn73b1Q1-1.fit_lim.size_1200x630.v1683749201.jpg"
+        width: 1120
+        height: 630
+        isCached: true
+  - title: "Google Expected To Shake Up Search With New AI Products"
+    excerpt: "Google is expected to announce a more conversational version of its flagship search engine, fueled by artificial intelligence. The efforts to overhaul its search business with AI, set to be unveiled Wednesday at the company’s I/O conference in Mountain View,"
+    publishedDateTime: 2023-05-10T12:00:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-05-10/google-expected-to-shake-up-search-with-new-ai-products"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 47
+  - title: "How AI is about to change your Google search results"
+    excerpt: "A guided tour of the new Google Search Generative Experience, or SGE, coming first to people who sign up — and eventually to everyone."
+    publishedDateTime: 2023-05-10T16:52:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2023/05/10/google-search-ai-io-2023/"
+    type: article
+    provider:
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 39
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3I52HAZKDVH2LO55VF2X6FBCNY.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
 
-secured: "81fWOOjuK6ESlcE9A8NiHO3Cj7h0+cEwR//ELf+igQfQ1TquewDtVacsn6COLJwKNlQh3jNI56xzUq9f6HNLw+PcIqBMXSIoHMqrYvnnGmeUCKtuIzwshi1atvYvTfUZu3/gwyHtByWLxeIxbNHii6FP7OYyWZKptrwIN1/nrHt5qD06kDU0+Lb6m/lxX4zDfPnup0BH1IJZn2uIaNCX2xKEabgeapSabyf3WUpVBUiGME9SGeq7nimOOV2N/df5BgVhUyBgrPTMDWdPZySm0NwQozL8c6halks1MzsJpHjjHXE+TVDC+HoLriSTahkQC3OzUbnnkbXLyb3UgEfHC+AuA068CQ19hzfCNsw1CC0=;2Y4VJIpHujK4DIZZ9lOPgg=="
+secured: "Mw00w6nxIMW4KNdv8nyDnjA2Ujc4/7TFDsXtySkE+mjUmxLtHgOOljtekX47ZcFt00WzMFfjRm+jI6IAGG0xPZHktTD8N88RcS+pqlXBKQ4m+qmrYZPY9wCFejKkdCThwq+aEpNYV/zyt6u7S5E2jaz1JNMo8TTAqqbmyiGF5nf9lTMFyeBPDMrr6jDzC50vxfwZReh+VcIuzYqD7oHaHcrMlFTq+22pGFT7daH8Llx7bM6OjC2n5LuDfs4EnoTu4ydX0KW5uwYJP715ZAfVZQGQEAD+yy43dBPECO3mK526Q/r7GbupqpzZ398CLIMb0m4Y+aANPwRRbsWydSFkPiTl1tah6spcPvBiHZw8/dr7srFsOUaQg9G0OQiFS+c47/Z2KJfanDRQxERibwOlATICayjEOJKaCYCd5k0CfixZjJ//RK5G9xOdnbSMOjMVmH8VQ0RPgK9E4VGoFBCF8wIW0Yius5f/ZRQYXyRdzLfjGKI+2nenQfNe5cdVGTLh5JI6VtBHd3mJZJkOuV81GQ==;qSSixOP7k7dRuVFzCDWL/g=="
 ---
 

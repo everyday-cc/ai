@@ -7,7 +7,7 @@ originalUrl: "https://www.ciodive.com/news/IBM-watsonx-generative-AI-enterprise-
 webUrl: "https://www.ciodive.com/news/IBM-watsonx-generative-AI-enterprise-models/649901/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 770
     height: 435
     isCached: true
-
-related:
-  - title: "The AI boom is reshaping the cloud business"
-    excerpt: "To support generative AI models, AWS, Microsoft and Google Cloud are investing in infrastructure and maneuvering to manage cost."
-    publishedDateTime: 2023-05-08T21:01:00Z
-    webUrl: "https://www.ciodive.com/news/AWS-Microsoft-Google-cloud-infrastructure-AI-ML-compute/649712/"
-    type: article
-    provider:
-      name: CIO Dive
-      domain: ciodive.com
-    quality: 41
-    images:
-      - url: "https://www.ciodive.com/imgproxy/ArdjKqH_M6Qda4q_61cVhQAyFro4BqPoZNqLfAFdujU/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTgwMjMyMDgzNl9yV0VrMjI5LmpwZw.jpg"
-        width: 770
-        height: 435
-        isCached: true
 
 secured: "Cc6wyH7Vs5c78pDEg1uqPgVzDZTzJy0sn4Yvn33PGhuwzxJHMQMU/ettcnQJ69FvX7qklLKn27eVnBlioJU0SRrq6zRZ8RNUv2T59LxWBZ/DresWj1fgwa3qsAGo1sJsSMAhZEPR1RBCR2V5xnDkm3KFc1Zx4cQFjKw8kpK22jawhB6vHSQK/H8Qt5ZdYjbl83ZcpbrFKGJv2tXkIOxY2tqQ3l5EfqSbmIn+UZLaYjDpietWdXTPmlkqZSo1nRCL74wDdfNGWObBFjdCbEhoK1xYC5mwLiZSZUSj3jMJkIxGfRdsJ3TyPYG6ltsNgzfbZzbmBELnTfHCJYGMJedyGSigml4+cUgAzkEcoGAndn4=;3KivppUN3I1a4o5xASwDIQ=="
 ---

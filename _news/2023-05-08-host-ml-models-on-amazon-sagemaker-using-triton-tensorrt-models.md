@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/host-ml-models-on-am
 webUrl: "https://aws.amazon.com/blogs/machine-learning/host-ml-models-on-amazon-sagemaker-using-triton-tensorrt-models/"
 type: article
 quality: 106
-heat: 166
+heat: 176
 published: true
 
 provider:
@@ -114,6 +114,15 @@ related:
         width: 1260
         height: 626
         isCached: true
+  - title: "Operationalize ML models built in Amazon SageMaker Canvas to production using the Amazon SageMaker Model Registry"
+    excerpt: "You can now register machine learning (ML) models built in Amazon SageMaker Canvas with a single click to the Amazon SageMaker Model Registry, enabling you to operationalize ML models in production. Canvas is a visual interface that enables business analysts to generate accurate ML predictions on their"
+    publishedDateTime: 2023-05-10T18:43:43Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/operationalize-ml-models-built-in-amazon-sagemaker-canvas-to-production-using-the-amazon-sagemaker-model-registry/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 65
 
 secured: "DX2uY657oD+aKBKwlenJ/mlXYHFZ46STRghIWx1UFqPXy7UYKVpDB6jMeJ6WfVXfMgUAiHbRtjwhjXsrvHrngDzEM+3duj0YgIlDVC2dBWvS/UXFE+A/6xC68a0u3525uMF/6Y/IGacT+UlVKU9QvxpIyrmVSs/j6/pon+lPPA54UO1umUavcx+eY8UPSqQP8zubEGVMtaowatSX9umSdTbwLCuQujjlOTnr4welANZil2YGr7jo+K5dNS496FlPXuWjiUUrRS+tY9VqWRDwmlsosc2fuDD3t8+kze+VfTxwtlRlum40tFi5tIQ3uhdEaV/rVhZSLKvH/3FdiLZOjQNxt5gB3HbMLo0uyivFjVo=;2HQBxx/zkqrItpMrfApRzw=="
 ---
