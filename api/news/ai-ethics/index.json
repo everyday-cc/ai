@@ -105,7 +105,7 @@
       "originalUrl": "https://venturebeat.com/ai/ai-ethics-for-ad-professionals-10-rules-of-engagement/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -136,49 +136,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-08-ethics-of-ai-examining-impact-of-artificial-intelligence-on-society-morality.md",
-      "title": "Ethics of AI: Examining Impact of Artificial Intelligence on Society, Morality",
-      "excerpt": "In a recent interview with WABC radio host John Catsimatidis, Democratic presidential candidate Robert F. Kennedy Jr. made startling allegations abou",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1106195695/Ethics-of-AI-Examining-Impact-of-Artificial-Intelligence-on-Society-Morality",
-      "originalUrl": "https://menafn.com/1106195695/Ethics-of-AI-Examining-Impact-of-Artificial-Intelligence-on-Society-Morality",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/updates/pr/Menafn_News_Images/Local_TelecomTech_117.jpg",
-          "width": 4896,
-          "height": 3264,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-08T02:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mena FN",
-        "domain": "menafn.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -298,7 +255,7 @@
       "originalUrl": "https://arstechnica.com/information-technology/2023/05/critics-take-aim-at-bidens-ai-meeting-with-ceos-from-google-openai-microsoft/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 141,
+      "heat": 121,
       "tags": null,
       "images": [
         {
@@ -350,7 +307,7 @@
       "originalUrl": "https://abcnews.go.com/US/wireStory/scientists-warn-ai-dangers-agree-solutions-99051162",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -1478,6 +1435,59 @@
       "topics": [
         "AI",
         "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2023-04-25-ai-for-security-is-here-now-we-need-security-for-ai.md",
+      "title": "AI for security is here. Now we need security for AI",
+      "excerpt": "As the mass adoption and application of AI are fairly new, the security of AI is not yet well understood. Why we must change that — now.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/ai-for-security-is-here-now-we-need-security-for-ai/",
+      "originalUrl": "https://venturebeat.com/ai/ai-for-security-is-here-now-we-need-security-for-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1223541497.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 624,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/ai-for-security-is-here-now-we-need-security-for-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/ai-for-security-is-here-now-we-need-security-for-ai/amp/",
+      "publishedDateTime": "2023-04-24T20:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Security"
       ]
     }
   ],

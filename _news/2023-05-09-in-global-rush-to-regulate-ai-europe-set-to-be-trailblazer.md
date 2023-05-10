@@ -2,13 +2,11 @@
 category: news
 title: "In global rush to regulate AI, Europe set to be trailblazer"
 excerpt: "European lawmakers have rushed to add language on general artificial intelligence systems like ChatGPT as they put the finishing touches on the Western world's first AI rules"
-publishedDateTime: 2023-05-09T08:51:00Z
-originalUrl: "https://abcnews.go.com/International/wireStory/global-rush-regulate-ai-europe-set-trailblazer-99189394"
-webUrl: "https://abcnews.go.com/International/wireStory/global-rush-regulate-ai-europe-set-trailblazer-99189394"
-ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/global-rush-regulate-ai-europe-set-trailblazer-99189394"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/global-rush-regulate-ai-europe-set-trailblazer-99189394"
+publishedDateTime: 2023-05-09T09:32:00Z
+originalUrl: "https://abcnews.go.com/Technology/wireStory/global-rush-regulate-ai-europe-set-trailblazer-99189489"
+webUrl: "https://abcnews.go.com/Technology/wireStory/global-rush-regulate-ai-europe-set-trailblazer-99189489"
 type: article
-quality: 57
+quality: 37
 heat: -1
 published: false
 
@@ -20,9 +18,9 @@ topics:
   - AI
 
 images:
-  - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-    width: 834
-    height: 308
+  - url: "https://s.abcnews.com/images/International/wirestory_906fc89d2561b200fa6eb40a06b946a5_12x5_992.jpg"
+    width: 992
+    height: 413
     isCached: true
 
 related:
@@ -55,6 +53,6 @@ related:
         height: 670
         isCached: true
 
-secured: "/2laV6K1ZOoBA2MwjhOzjJB+zu8N0C4eWznR1cuDYsG0c0lB6n9HtpRkm4+UrBOw1T9XQGf6Db7/aUhtMe1LE1+fAZ7AhjGMGlSl3GRO0ao5tD/mPacKQ//rcMcl3iyp0um8BVH5Qg6eO6TkZGok0ULs7UMovIFhJxgZU1qDjcmpLMAO8td7Ul7oTwdYCI8GXMQbml6TMzGY2ED+LsGy9rAnBulPPQGFQPWlPTem39Acig68t8OU45VCdipyY5V/1/v0Xu/CpZjQdnRKGd20XVw0AGFdtDI+VO7QloQdk5S6d8LyyyJCrWBfQaJiEUAHjKiFwgcbyJAhqgLAtcP+4FHUlN+UwazEgc8CnJ4v4do=;HIcJf0pA9EWyQ03YUu0ECg=="
+secured: "e2ARHrcTYvQFBQG6P/93FjDlUPkMPZ1pIZbYj76ojGDWhKtyng6V2A9NqR/D0JxDcmyX3Y+KftLEG81byujdrxkHjNU/OrfTrcNCWaeviT3zjMVvim6/Y4A+PtwFcW+9g1SY/Q4Q3jmSoqlkoagNgcDVD9oJSl848nKpMqcqs+bgVwJtYQ07sYmu1uiazI798xFPWIJnnTHaVVskLxqeSfRw6RxtUNbbg2xsGepSuW+ktgKvOr3jYGgxC5E0Ybz6mCf7LJ+YH6GLELPdyCQCMNJ1RU67OqZJaL67x+vMFJrJ3u2hQSG/Yt27TBqIVw5qakFZ6WfI1DYozXAX1ZbqsGl3JAKH5hmTEzz2w4BbwNw=;yOd0QOBtSeVdJ3RUMAy07A=="
 ---
 

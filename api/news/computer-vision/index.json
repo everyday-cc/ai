@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-05-10-meps-to-vote-on-proposed-ban-on-big-brother-ai-facial-recognition-on-streets.md",
+      "title": "MEPs to vote on proposed ban on ‘Big Brother’ AI facial recognition on streets",
+      "excerpt": "Thursday’s vote in EU parliament seen as key test in formation of world’s first artificial intelligence laws",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/technology/2023/may/10/meps-to-vote-on-proposed-ban-on-big-brother-ai-facial-recognition-on-streets?ref=upstract.com",
+      "originalUrl": "https://www.theguardian.com/technology/2023/may/10/meps-to-vote-on-proposed-ban-on-big-brother-ai-facial-recognition-on-streets?ref=upstract.com",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/aa6324386e9fe52d51b229a9ab13f470938263ff/0_202_3500_2100/master/3500.jpg?width=620&quality=85&auto=format&fit=max&s=79dac11ea158833cc0f2edcd050e78c0",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/technology/2023/may/10/meps-to-vote-on-proposed-ban-on-big-brother-ai-facial-recognition-on-streets",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/may/10/meps-to-vote-on-proposed-ban-on-big-brother-ai-facial-recognition-on-streets",
+      "publishedDateTime": "2023-05-09T20:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-09-karnataka-assembly-election-facial-recognition-tech-could-ease-voting-process.md",
       "title": "Karnataka Assembly election: Facial recognition tech could ease voting process",
       "excerpt": "He added that after this, when the voter goes to the booth, the polling officer will check the details on a tab and allow the voter to vote immediately.",
@@ -1339,49 +1391,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-26-tinder-to-weed-out-fake-profiles-with-facial-recognition-and-video-selfies.md",
-      "title": "Tinder to weed out fake profiles with facial recognition and video selfies",
-      "excerpt": "Open the Tinder app. Tap the profile icon and then tap the Message Settings icon. Scroll to ‘Control Who Messages You’ and toggle on ‘Photo Verified Chat’. Done! Only Photo Verified users can message you now.",
-      "sourceUrl": null,
-      "webUrl": "https://metro.co.uk/2023/04/26/tinder-introduces-facial-recognition-and-video-selfies-to-verify-users-18676377/",
-      "originalUrl": "https://metro.co.uk/2023/04/26/tinder-introduces-facial-recognition-and-video-selfies-to-verify-users-18676377/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://metro.co.uk/wp-content/uploads/2023/04/tinder-9427.jpg?quality=90&strip=all&zoom=1&resize=600%2C395",
-          "width": 600,
-          "height": 395,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://metro.co.uk/2023/04/26/tinder-introduces-facial-recognition-and-video-selfies-to-verify-users-18676377/amp/",
-      "cdnAmpWebUrl": "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2023/04/26/tinder-introduces-facial-recognition-and-video-selfies-to-verify-users-18676377/amp/",
-      "publishedDateTime": "2023-04-26T02:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Metro",
-        "domain": "metro.co.uk",
-        "images": null,
         "publishers": null,
         "authors": null
       },

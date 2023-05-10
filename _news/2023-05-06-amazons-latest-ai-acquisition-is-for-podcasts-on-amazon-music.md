@@ -9,8 +9,8 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/amazons-latest-ai-acquisition-i
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/amazons-latest-ai-acquisition-is-for-podcasts-on-amazon-music/"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 97
+published: true
 
 provider:
   name: CNET
@@ -30,31 +30,22 @@ images:
     isCached: true
 
 related:
-  - title: "Elon Musk Stirs Debate On Claims That AI Will Enable You To Live Forever, An Immortal Question For AI Ethics"
-    excerpt: "Elon Musk commented to Bill Maher about the ongoing controversy of whether advances in AI will lead to human longevity and the possibility of being able to live forever. Here is the insider analysis on that emerging hot topic."
-    publishedDateTime: 2023-05-05T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/05/05/elon-musk-stirs-debate-on-claims-that-ai-will-enable-you-to-live-forever-an-immortal-question-for-ai-ethics/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/05/05/elon-musk-stirs-debate-on-claims-that-ai-will-enable-you-to-live-forever-an-immortal-question-for-ai-ethics/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/05/05/elon-musk-stirs-debate-on-claims-that-ai-will-enable-you-to-live-forever-an-immortal-question-for-ai-ethics/amp/"
+  - title: "Amazon acquires AI firm Snackable to boost podcast features"
+    excerpt: "Amazon quietly acquired a small audio-focused artificial intelligence firm called Snackable.AI last year to bolster user features for its podcasts, The Post has learned. Amazon closed the deal for Snackable last December, the company confirmed to The Post."
+    publishedDateTime: 2023-05-05T20:12:00Z
+    webUrl: "https://nypost.com/2023/05/05/amazon-acquires-artificial-intelligence-firm-snackable-ai-to-boost-podcast-features/"
+    ampWebUrl: "https://nypost.com/2023/05/05/amazon-acquires-artificial-intelligence-firm-snackable-ai-to-boost-podcast-features/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2023/05/05/amazon-acquires-artificial-intelligence-firm-snackable-ai-to-boost-podcast-features/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: New York Post
+      domain: nypost.com
+    quality: 57
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6452a5233fe6b06e18eabd27/0x0.jpg?format=jpg&crop=4000,2999,x333,y0,safe&width=1200"
-        width: 1200
-        height: 900
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2023/05/NYPICHPDPICT000010627488.jpg?quality=75&strip=all&w=1024"
+        width: 1024
+        height: 682
         isCached: true
-  - title: "Need an online form? This new AI tool will build that for you"
-    excerpt: "Typeform, a company behind a lot of the forms you fill out online every day, is working with OpenAI to launch a new integration of GPT-4 with its system, called Formless. This partnership will bring artificial intelligence, like that used in ChatGPT, to make the creation of online forms faster and more intuitive than ever."
-    publishedDateTime: 2023-05-09T13:00:00Z
-    webUrl: "https://www.zdnet.com/article/need-an-online-form-this-ai-tool-can-build-that-for-you/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 47
 
 secured: "LESZGlDVCDF7My3OxWu+joy4VWJEFsY+37M2YKnxdTuf2KneFhQzefUMytU/6ngmu7qJqo0L8Ziemp86dfOmSIQVWE786FZZBeh56x14EqUtnjK9hTU6l8POtlvdgnbMgIGm85Y/5TVpiMsEIrgnwdGgHF8vNOqbryGmjzrB96BssEYk7dui/uonvpi/A1j+YTzT+i4FzYpyxKUXQJj4zcNv91wAktDoWEnfgiXuMRqw/EGYhr9rIHOsfHASwxlV+j+B5pdhq57qRbtyYJ9QMIC5BCsFnG0vyNaDvmVVlQDqZpX9YEDqhEMGrFchdQsJ/ONJPjfdtzBLFARMd9oVFu96w6LWZMNAeC12sk3DmCs6cBbkTbPfWlrS4fHXnuKQgPBR8Gg0Xsvv+apLQttHiVAwS0yn7dN3XCojUgERM4R0RsVACGpvIby1YMpjeKnXBSh2kX027Wev+7qU/rOtJ22xxHC5MvrKVeo8sxMIEXSeE1SjU77CkEfNssW8DAGWH26iwtQmWx9n5REJIqmLFw==;Rri1V0ltswGdbpJ16PwC1Q=="
 ---

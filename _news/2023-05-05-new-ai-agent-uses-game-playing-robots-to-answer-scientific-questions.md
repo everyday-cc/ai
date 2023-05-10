@@ -7,7 +7,7 @@ originalUrl: "https://www.azorobotics.com/News.aspx?newsID=13931"
 webUrl: "https://www.azorobotics.com/News.aspx?newsID=13931"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -23,6 +23,17 @@ images:
     width: 1024
     height: 682
     isCached: true
+
+related:
+  - title: "BacterAI: New AI system enables robots to conduct 10,000 scientific experiments a day"
+    excerpt: "Scientists created BacterAI, an AI-powered system enabling robots to conduct 10,000 experiments daily, accelerating scientific discoveries."
+    publishedDateTime: 2023-05-05T13:10:00Z
+    webUrl: "https://interestingengineering.com/science/revolutionizing-scientific-experimentation-artificial-intelligence"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 27
 
 secured: "Oj88WdLydedgmJf3jZFvaoRi20m3XI8O8JXteWqzPjk94zgheiLMhIVperMp+D8Cb7bJWNuBI6nLvgmw/IHcztiGkLOCH2obI/p3hYhhdC8miKOwffB3Rn299NUIzQjCru4dSn3HOLK6vhK5XN6UsbQ+4KvbcI9fs77KghTf6x20nSVW3birClbU9jSqmOyjbtVQvfozlFpvIUCRA5mZQxd8RJWz/+OpOtOCoEpXSeBTXA5J2sQpoR27O26MJAULenYHZeIBaOfWyqh94ycQIR5K5tVPp6eYuemGFaIY2XsccPDCeXZCtfAXifNs6nXt4FUn1EilSV+v5eICf/wyncgXOZGRixopH5jRzxCPRWA=;guvxExDiTPLQ5qP5YjVXQQ=="
 ---

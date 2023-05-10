@@ -127,20 +127,6 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "AIGC wave prompts major Chinese internet companies to speed chip development"
-    excerpt: "With the rise of AI-generated content (AIGC) in 2023, major players in the tech sector are joining the ranks of AI chip manufacturing one after another. Not only are international corporations like Amazon,"
-    publishedDateTime: 2023-05-05T07:34:00Z
-    webUrl: "https://www.digitimes.com/news/a20230505PD200/ai-chips-aigc-alibaba-baidu-meituan-tencent.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 51
-    images:
-      - url: "https://img.digitimes.com/newsshow/20230505pd200_files/1_2b.jpg"
-        width: 1280
-        height: 853
-        isCached: true
   - title: "Chinese voice-recognition company iFlytek unveils ChatGPT rival"
     excerpt: "Chinese voice-recognition company iflytek Co. has entered the race to build a rival to OpenAI Inc.’s ChatGPT, with a live demonstration of its artificial intelligence model for educational and enterprise uses,"
     publishedDateTime: 2023-05-07T11:40:00Z

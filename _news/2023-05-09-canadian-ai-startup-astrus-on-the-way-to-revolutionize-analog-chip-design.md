@@ -6,8 +6,8 @@ publishedDateTime: 2023-05-09T02:14:00Z
 originalUrl: "https://www.digitimes.com/news/a20230509VL200/ai-analog-ic-canada-eda-ic-design-distribution.html?chid=13"
 webUrl: "https://www.digitimes.com/news/a20230509VL200/ai-analog-ic-canada-eda-ic-design-distribution.html?chid=13"
 type: article
-quality: 33
-heat: 33
+quality: 53
+heat: 53
 published: false
 
 provider:
@@ -18,6 +18,12 @@ topics:
   - AI Hardware
   - AI
 
-secured: "64HFWkrqdcWcy94V77JN7mwXwz2VW5QUKKSgQSqsq29kiehPFPt0CT1TS0KyR85ffPrD+JBp5HZNIZq1nN2ZmyyMAjFKWVxrPC5kjEHAdx+VEr0EzOQxkwx7JesNMVtQoSv2IW7M+zwfr6j3oO1L9HYT3ChyLWLtfY34zlZY6Qqr5Pu7gkbssUAEgfO6k4Iqn6uAtcr4wxGtLvWvqQiP33wEhGrp2oR5+JLs/GQ7SrNAeD5UMNlu/4XX6uG6sqvoi0a2KzRznPp5Qi1oO2w8aC56MINOT5iO/QTD8NGqvpxgxngLird1kNATAB+1tIe5/lS+41ebACJ+tMQ8oWpwFVcSrKOpSS4jJiVv7A46WngibYjmHzuNyTloVGeKx7GCMMNrPcXrqOrxeET+/3D29ZK+MafqpBeSCs9wDF67rULq4t+ZKbIs+LFm5rABrfYBjBKbJUqUnQbxj5dDJQRT9lS1pPsAsyUVnVkl7VIwerqk5PqFkJh4VA+j0XGbzMy4uIWPJcQlIyE6if7RB5s5hQ==;yfMg/VcwyDGGqRG34ky3/Q=="
+images:
+  - url: "https://img.digitimes.com/newsshow/20230509vl200_files/6_r.jpg"
+    width: 336
+    height: 224
+    isCached: true
+
+secured: "DND8aHCT6DFL1oRu6jlymyZKINcS4OsexCczOA+VqjxidXcNF4zO8RySXdeZSSl7MnIQNLYNRCiZJvjjK98l8G3nIY6eDCmai5Yy5pQGKjQiXjQuHaSUAu7L2yaTEovVNAYLWZMW1DBcQfw9s6N6zW1MwVU62IVzZKlCBfp1fmTDGj08yooPCIwWy7X3z6AUACkQkOckmOpRls4N3my4ScGG/vG+gHM2Pm0oAnmRu3BApvgjoCjzr7eT53BIMoWlett91lck54znQgupE0kyQGY2XMHF63ttYqarQxxy0aj/eAuW6poivbsq9Orwtnh6Tgrn4BVhXJYalc23wxDCoo1OVtVbbhgTHrCgVLSu7Dc=;eJpD+EajuUXJjn/pPY+x5g=="
 ---
 

@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-05-10-the-future-is-here-amazon-is-now-selling-astro-an-ai-driven-household-robot.md",
+      "title": "The Future Is Here: Amazon Is Now Selling Astro, An AI Driven Household Robot",
+      "excerpt": "Two years later, the vision for Astro is still strong, as the company has started selling the device as a part of its “Day 1 Editions” products—those which are accessible to buyers only through an exclusive invitation. Amazon typically reserves this category for its most cutting-edge technology, such as the Astro or the “Ring Always Home Cam.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/saibala/2023/05/09/the-future-is-here-amazon-is-now-selling-astro-an-ai-driven-household-robot/",
+      "originalUrl": "https://www.forbes.com/sites/saibala/2023/05/09/the-future-is-here-amazon-is-now-selling-astro-an-ai-driven-household-robot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/645af7165cd3f9d25fb32fd0/0x0.jpg?format=jpg&crop=4983,2801,x0,y74,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/saibala/2023/05/09/the-future-is-here-amazon-is-now-selling-astro-an-ai-driven-household-robot/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/saibala/2023/05/09/the-future-is-here-amazon-is-now-selling-astro-an-ai-driven-household-robot/amp/",
+      "publishedDateTime": "2023-05-09T20:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-08-ai-robot-dog-market-size-revenue-and-forecast-2030.md",
       "title": "AI Robot Dog Market Size, Revenue, and Forecast 2030",
       "excerpt": "The Global AI Robot Dog market is anticipated to rise at a considerable rate during the forecast period, between 2023 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players,",
@@ -10,7 +62,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/ai-robot-dog-market-size-revenue-and-forecast-2030-2023-05-08",
       "featuredContent": null,
       "highlight": null,
-      "heat": 304,
+      "heat": 224,
       "tags": null,
       "images": [
         {
@@ -79,58 +131,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2023-05-08T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-08-artificial-intelligence-of-things-aiot-solutions-market-research-2023-2030.md",
-      "title": "Artificial Intelligence Of Things (AIoT) Solutions Market Research, 2023-2030",
-      "excerpt": "In 2023,Artificial Intelligence Of Things (AIoT) Solutions Market with technical and procedural infrastructure that",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-of-things-aiot-solutions-market-research-2023-2030-2023-05-07",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-of-things-aiot-solutions-market-research-2023-2030-2023-05-07",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-07T20:10:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "MarketWatch",
@@ -906,8 +906,8 @@
       "title": "AI could create religions to control humans, warns Sapiens author Harari",
       "excerpt": "The world could soon see the first religion that attracts devotees with sacred texts created by artificial intelligence, the historian Yuval Noah Harari has s",
       "sourceUrl": null,
-      "webUrl": "https://www.thetimes.co.uk/article/f551b41e-e8db-11ed-8b19-8262c49fff39?shareToken=a6f2bbfb6db6f3e078309f8250e3938f&trk=public_post_comment-text",
-      "originalUrl": "https://www.thetimes.co.uk/article/f551b41e-e8db-11ed-8b19-8262c49fff39?shareToken=a6f2bbfb6db6f3e078309f8250e3938f&trk=public_post_comment-text",
+      "webUrl": "https://www.thetimes.co.uk/article/f551b41e-e8db-11ed-8b19-8262c49fff39?shareToken=89574dfe5503f4968d0751ac0ab04962",
+      "originalUrl": "https://www.thetimes.co.uk/article/f551b41e-e8db-11ed-8b19-8262c49fff39?shareToken=89574dfe5503f4968d0751ac0ab04962",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1082,6 +1082,40 @@
         "AI in Finance",
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-05-02-deere-nysede-an-under-the-radar-ai-and-robotics-stock.md",
+      "title": "Deere (NYSE:DE): An Under-the-Radar AI and Robotics Stock",
+      "excerpt": "Deere has also been busy acquiring a number of AI and robotic startups in recent years ... to smaller deals like its 2021 acquisition of Silicon Valley AgTech startup Bear Flag Robotics and its March 2023 acquisition of SparkAI. Despite these ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/deere-nyse%3Ade%3A-an-under-the-radar-ai-and-robotics-stock",
+      "originalUrl": "https://www.nasdaq.com/articles/deere-nyse%3Ade%3A-an-under-the-radar-ai-and-robotics-stock",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-01T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
       ]
     },
     {
@@ -1350,59 +1384,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-28-artificial-intelligence-delivery-robot-market-growth-by-2031.md",
-      "title": "Artificial Intelligence Delivery Robot Market Growth by 2031",
-      "excerpt": "The latest market research report on the Global \"Artificial Intelligence Delivery Robot Market\" is segmented by",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-delivery-robot-market-growth-by-2031-2023-04-28",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-delivery-robot-market-growth-by-2031-2023-04-28",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-28T09:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

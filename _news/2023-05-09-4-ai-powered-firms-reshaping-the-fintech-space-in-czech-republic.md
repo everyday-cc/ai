@@ -58,20 +58,6 @@ related:
         width: 855
         height: 570
         isCached: true
-  - title: "FinovateSpring Hosting 60+ Live Demos Showcasing Disruptive Fintech Solutions"
-    excerpt: "London-based Informa, an international events, digital services and academic knowledge group, will host its upcoming event, FinovateSpring, a world-class conference for leading fintech companies and global financial institutions from May 23-25,"
-    publishedDateTime: 2023-05-09T14:26:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/273825335/finovatespring-hosting-60+-live-demos-showcasing-disruptive-fintech-solutions"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 21
-    images:
-      - url: "https://cdn.bignewsnetwork.com/cus1683349716023.jpg"
-        width: 630
-        height: 420
-        isCached: true
 
 secured: "RZ6BELF0YoK1B/HbPV9H29cmBkV+losvkV5BDL2VTnCoynopneV+PzE9vSx1xxeR2i0ro6dDnF5X4j+OBj34KPcSTDUdPOjqf/pEW+0uvNFTRW6qDwVnocml+MZckjDOQcQKH6pZE+FPMuLbsaAkCxAj/xVVh78t9ZuZ26nfBbNT66C0B+FxFWu65OpAlI1e1K5wj7mykdtU8LjngghOYUIU8p6UbzY4KSXm7iGEZY/cD38HnDR4MkBBoQYB1QHIdPoxpL1Oi/cAL0FlfZAMounX0Tr0RQg5ZkgpylV7mQspTIv5lchLeTL7NgMdGqEcLyfRbUtiEHjwq5ja/1BLo0H/O0W5IbRutp2HyaxCrzb0PSN72T8WWRi+PJq3c8Wg9srlJ3tffOe0Y1YhJ6f7gioQfrdfW9jXZaixVoRgIv5HzZ3+deR0C2Ssi/VDCCpjPk8P4T5SK1IOEbHTXp2Jh/DMNLAnqrMcesxWOv9T5bwyLQ3BAiyXUIEwu6BG8goJfplhvedfbd+JvmhR4ETScw==;ti1B+wx6j8jPIs1tgqbb8w=="
 ---

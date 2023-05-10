@@ -70,15 +70,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "What should investors know about AI?"
-    excerpt: "Rather than having human logic, he said ChatGPT can be better described as hyper-scale pattern recognition. One instance of how AI is already being used in the business is through chatbots like those constructed on extensive language models. The main point of consideration for investors is if AI finally hit an economic climax."
-    publishedDateTime: 2023-05-05T12:43:00Z
-    webUrl: "https://www.wealthprofessional.ca/news/industry-news/what-should-investors-know-about-ai/375705"
-    type: article
-    provider:
-      name: wealthprofessional.ca
-      domain: wealthprofessional.ca
-    quality: 19
 
 secured: "LeWIsXu8h9ISQpL7cxPTT2ZozjbloXLoQ/yrs3BEfcxtvWi2SryeZB++g7XiaY3QKg8EX6N3gAScWNbDx26KwBTSy2QKoNxo4fbDE3CAvmKm02dGe9MVu+FsU8pulGt60MQgsjWJBVEsWAw9/MvMo1u/2Duk4TyDZ4w5EAOSBBI3LW3XWFKiSWtlE9xsJcjQkd6eLCsKyCvGu+01sgD+fqragfv4sb8lSZqcjNxM/DtStAX6rdaAKK7Uw+ShMuMVEmD2PvnnewfQXujNcd0BoWgpl3S9DwDoIKY2iTptnlRznYkOXYki3ZAN/V6iEY3go7dtwoYhW3ybeLt4jBsgq7gzj/J6oK5WIhhx1P2CBUc+A3UArC26KSZjqzHCq2/gYsQMc+ZfHvjKHvSdJNSZNKkaLh3jijmHTzbaYPyKEeanxCMFkQy5SjQuiV2EGJUnaj8N988FNDN2DEuXaX5cVd4Zb/+eE9mngSnFoPur+x2Up2mcVTkpeTngev48NmtlK/c/T8ncdOSF3uqe8qrpVg==;y09rnTpdYz1uiIJTDQWXhA=="
 ---

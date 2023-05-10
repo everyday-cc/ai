@@ -36,22 +36,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Vice President Harris meets with CEOs about risks of artificial intelligence"
-    excerpt: "Vice President Kamala Harris met on Thursday with the heads of Google, Microsoft and two other companies developing artificial intelligence."
-    publishedDateTime: 2023-05-05T11:25:00Z
-    webUrl: "https://thegrio.com/2023/05/05/vice-president-harris-meets-with-ceos-about-risks-of-artificial-intelligence/"
-    ampWebUrl: "https://thegrio.com/2023/05/05/vice-president-harris-meets-with-ceos-about-risks-of-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://thegrio-com.cdn.ampproject.org/c/s/thegrio.com/2023/05/05/vice-president-harris-meets-with-ceos-about-risks-of-artificial-intelligence/amp/"
-    type: article
-    provider:
-      name: The Grio
-      domain: thegrio.com
-    quality: 60
-    images:
-      - url: "https://thegrio.com/wp-content/uploads/2023/05/AP23121595237837-scaled.jpg"
-        width: 2560
-        height: 1707
-        isCached: true
   - title: "Biden, Harris meet with CEOs about AI risks"
     excerpt: "Vice President Kamala Harris has met with the heads of Google, Microsoft and two other companies developing artificial intelligence WASHINGTON -- Vice President Kamala Harris met on Thursday with ..."
     publishedDateTime: 2023-05-06T03:36:00Z
@@ -68,15 +52,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Harris to meet with CEOs about artificial intelligence risks"
-    excerpt: "The Democratic administration plans to announce an investment of $140 million to establish seven new AI research institutes"
-    publishedDateTime: 2023-05-05T12:49:00Z
-    webUrl: "https://mynorthwest.com/3884910/harris-to-meet-with-ceos-about-artificial-intelligence-risks/"
-    type: article
-    provider:
-      name: MyNorthwest.com
-      domain: mynorthwest.com
-    quality: 19
 
 secured: "wgBuW24QLR5wUMvP4vezQ61V9vi1VRenq+tDXfQsCYiDjVNUaZghG7DroghYHjoqEm2IzrYq/UHJFvbWGAvh4B92isA4jeXaKevUD+w+SoRysiBEr2pqViiVoSL8tMtXZxrqI+K/sm4M6IQkLJBxBwKW4FYou0fb8BNhd0d38W2F0slV/nq1Lo0wX/3RmL6dpIggxy2+jjwLntkXc8mV9xnZtRL0nzms+UeB2Ufgibco6ROcdMvtvBJPXgObrArRxTOSVYHY1lqY61QHHnwtQhjeRldsC8Hr51dWgU5ck1p96mvMMZpxXxZ9FzpVSQ7exdC2fsQdDaIM4p4ZhQdCV5lT20qRyXRJ+PRT7689J9E=;4nOmKntCRX2zMfDV0RRTBQ=="
 ---

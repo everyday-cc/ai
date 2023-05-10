@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/technology/2023/may/05/google-engineer-o
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/may/05/google-engineer-open-source-technology-ai-openai-chatgpt"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -28,6 +28,17 @@ images:
     width: 620
     height: 372
     isCached: true
+
+related:
+  - title: "Leaked Google engineer memo warns that Big Tech could lose AI race to the little guys"
+    excerpt: "Tech companies spent years developing AI in a behind-the-scenes arms race, but open source developers are quickly proving capable of catching up."
+    publishedDateTime: 2023-05-10T00:17:00Z
+    webUrl: "https://www.nbcnews.com/tech/tech-news/leaked-google-engineer-memo-warns-big-tech-lose-ai-race-little-guys-rcna83146"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 40
 
 secured: "jL54JEGWT+TgF1v7PUCGMv/jcuhe6P4zQdr3TIWi6F/BkPR4QHSS3a6cUNzYuaWZtU4KmC0URxe32s2uFfjv7lO8Z7PXY2Zied80VF2ME1hdZDYfY6G5MJT3GoUXBcuxtHcBAFYP3CeYvVvKha9HbjWB1eqiElsyIYwP7Oezs/uu1qHaBK5343+FEUxngpUWu/uzcjlCv4q7cNjUHtALw2dPSAbqvgFGnMF3F0KTXCWoDWOKJyIWbP9MIWInDKl7SPfwYllT3WdCSjuVVszREPUqO7URMJs4WxoSVCyhrPBKCLn3dnF6CT3Yt/B4Ij6/f8F8GDYJJkfn8cy7DXJXqVgVXJDvsDtf/LpmKbvYFLw=;5+DZhSLyPnQqw302/PV3IQ=="
 ---

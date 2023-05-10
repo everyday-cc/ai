@@ -19,43 +19,20 @@ topics:
   - AI
 
 related:
-  - title: "AI Could Enable 10,000 Robot-Led Microbe Experiments Per Day"
-    excerpt: "Automation uncovers combinations of amino acids that feed two bacterial species and could tell us much more about the 90% of bacteria that humans have hardly studied."
-    publishedDateTime: 2023-05-05T09:13:00Z
-    webUrl: "https://www.technologynetworks.com/immunology/news/ai-could-enable-10000-robot-led-microbe-experiments-per-day-372973"
+  - title: "New AI Agent Uses Game-Playing Robots to Answer Scientific Questions"
+    excerpt: "Performing autonomous scientific experiments is enabled by an artificial intelligence system enables—as many as 10,000 for a day—possibly driving an extreme leap forward in the pace of breakthroughs in areas varying from medicine to agriculture to environmental science."
+    publishedDateTime: 2023-05-05T14:24:00Z
+    webUrl: "https://www.azorobotics.com/News.aspx?newsID=13931"
     type: article
     provider:
-      name: technologynetworks
-      domain: technologynetworks.com
+      name: Azorobotics
+      domain: azorobotics.com
     quality: 54
     images:
-      - url: "https://assets.technologynetworks.com/production/dynamic/images/content/372973/ai-could-enable-10000-robot-led-microbe-experiments-per-day-372973-640x360.jpg?cb=20230505"
-        width: 640
-        height: 360
+      - url: "https://dp9eps5gd5xd0.cloudfront.net/images/news/ImageForNews_13931_16832897643391821.jpg"
+        width: 1024
+        height: 682
         isCached: true
-  - title: "Novel AI-Enabled Robot To Can Perform 10K Microbial Experiments Daily"
-    excerpt: "Researchers have developed an artificial intelligence (AI) system that can help robots to conduct automated scientific experim"
-    publishedDateTime: 2023-05-05T09:32:00Z
-    webUrl: "https://menafn.com/1106185008/Novel-AI-Enabled-Robot-To-Can-Perform-10K-Microbial-Experiments-Daily"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 54
-    images:
-      - url: "https://menafn.com/updates/pr/2023-05/05/I_59976image_story.jpg"
-        width: 400
-        height: 267
-        isCached: true
-  - title: "AI could run a million microbial experiments per year"
-    excerpt: "Automation uncovers combinations of amino acids that feed two bacterial species and could tell us much more about the 90% of bacteria that humans have hardly studied. An artificial intelligence system enables robots to conduct autonomous scientific experiments -- as many as 10,"
-    publishedDateTime: 2023-05-05T15:08:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2023/05/230504155641.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 49
 
 secured: "cpoHvPjnRx/87Mq5bp+2he7I/WX9+oCVE3AhOgN7Y6snaJGox0LVIQQ5W9gJns3XXd+UYZ6Exyv2hFPBJik8oBUu1h7OCLB/PkjOamEgaQc3lVAapBvpr7Ejw6gsd/uyP7IvQk44VLhrYy8Rvz/LdQEQmm2lfIBGU9xhpZnR+XHbMbFjSEEZwePnhdsNJFWfs6wzL24FYn9DOsrC4oPqz23QPJ3tn10+RqyazX/vR61smqajeKvjZmk+wqQjnWsaVurzDAMkIGKkNNGuPNmn4SP8/ykux0vnAnA+CCX2YM+aIQVXNQ9V3wNzI4a6U7w/1b8aD67zdKNxnxkO6EoayV0jx5AMOmVt4vE1R0ifDyqMxtsQ3qroyoAulsC0I02/fdSTEEjzwABDV5LZNqchzLty4PogU73PB/4CPaRG3egXKnYBtw+rmZQbeym0CaCWib6l4oOdt6LrY5HoepBTDrh4+ykpFj9E0gwRDOrjEcotleI9NL53a7W1KjPgF0ZvYgJWJuK4CzRBG09pvbug3g==;LcMYfhSrUcGShzWrepHZOw=="
 ---

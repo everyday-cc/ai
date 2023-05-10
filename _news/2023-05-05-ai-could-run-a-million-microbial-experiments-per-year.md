@@ -7,7 +7,7 @@ originalUrl: "https://www.sciencedaily.com/releases/2023/05/230504155641.htm"
 webUrl: "https://www.sciencedaily.com/releases/2023/05/230504155641.htm"
 type: article
 quality: 49
-heat: -1
+heat: 49
 published: false
 
 provider:
@@ -21,45 +21,6 @@ provider:
 topics:
   - AI in Robotics
   - AI
-
-related:
-  - title: "AI Could Enable 10,000 Robot-Led Microbe Experiments Per Day"
-    excerpt: "Automation uncovers combinations of amino acids that feed two bacterial species and could tell us much more about the 90% of bacteria that humans have hardly studied."
-    publishedDateTime: 2023-05-05T09:13:00Z
-    webUrl: "https://www.technologynetworks.com/immunology/news/ai-could-enable-10000-robot-led-microbe-experiments-per-day-372973"
-    type: article
-    provider:
-      name: technologynetworks
-      domain: technologynetworks.com
-    quality: 54
-    images:
-      - url: "https://assets.technologynetworks.com/production/dynamic/images/content/372973/ai-could-enable-10000-robot-led-microbe-experiments-per-day-372973-640x360.jpg?cb=20230505"
-        width: 640
-        height: 360
-        isCached: true
-  - title: "Novel AI-Enabled Robot To Can Perform 10K Microbial Experiments Daily"
-    excerpt: "Researchers have developed an artificial intelligence (AI) system that can help robots to conduct automated scientific experim"
-    publishedDateTime: 2023-05-05T09:32:00Z
-    webUrl: "https://menafn.com/1106185008/Novel-AI-Enabled-Robot-To-Can-Perform-10K-Microbial-Experiments-Daily"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 54
-    images:
-      - url: "https://menafn.com/updates/pr/2023-05/05/I_59976image_story.jpg"
-        width: 400
-        height: 267
-        isCached: true
-  - title: "BacterAI: New AI system enables robots to conduct 10,000 scientific experiments a day"
-    excerpt: "Scientists created BacterAI, an AI-powered system enabling robots to conduct 10,000 experiments daily, accelerating scientific discoveries."
-    publishedDateTime: 2023-05-05T13:10:00Z
-    webUrl: "https://interestingengineering.com/science/revolutionizing-scientific-experimentation-artificial-intelligence"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 27
 
 secured: "4nk5snHi81h/fkX5OpggjAofKRwxSrjmM3Zq50tkDjmSYVgAmRLwSGPIgYwYwLkUjLbdUI04L0h/7uHeCQ6a4WhjQBjMMAjoO4LPc+xORlB3blNTqdJDmCkhCRKatL16HvmVKC1MDLy/za/VHICrcHHOvDx7+5B7rrU1xqy7xJh20xq8pZodh7XJ/eYM9wYztGyZ4yUPGPVCaz7FOCsh616+gEv1f7C4Bn+v7y3ED1L++9rRb0dVP3ER+HNZFDDF/UP6POlgPUz5uoBUbsd0m9vd9vzbaame1VvYJUDBDaKHTHG3ZRJrpXOilbC2F4jnbREKmRTy2g1Bnx6tjufiyq87J/uaC2nIvVMV+7wbD84=;/pZFlvYXXaZv7LsJLBzKeA=="
 ---

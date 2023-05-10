@@ -2,6 +2,151 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-05-04-google-shared-ai-knowledge-with-the-world-until-chatgpt-caught-up.md",
+      "title": "Google shared AI knowledge with the world — until ChatGPT caught up",
+      "excerpt": "But others acknowledge Google has lost many of its top AI researchers in the last year to start-ups seen as cutting edge. Some of this exodus stemmed from frustration that Google wasn’t making ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/technology/2023/05/04/google-ai-stop-sharing-research/",
+      "originalUrl": "https://www.washingtonpost.com/technology/2023/05/04/google-ai-stop-sharing-research/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IW5SED7Z3NG2TDUS53RHYNBWCM.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-04T07:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Washington Post",
+        "domain": "washingtonpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-04-box-introduces-box-ai-to-bring-the-power-of-ai-to-enterprise-content.md",
+      "title": "Box Introduces Box AI To Bring The Power Of AI To Enterprise Content",
+      "excerpt": "Vice President & Principal Analyst, Modern Work, Melody Brue, dives into Box AI, a new capabilities suite that natively integrates advanced AI models into the Box Content Cloud.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/moorinsights/2023/05/04/box-introduces-box-ai-to-bring-the-power-of-ai-to-enterprise-content/",
+      "originalUrl": "https://www.forbes.com/sites/moorinsights/2023/05/04/box-introduces-box-ai-to-bring-the-power-of-ai-to-enterprise-content/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6453be070729cea75deabd27/0x0.jpg?format=jpg&width=1200",
+          "width": 468,
+          "height": 263,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2023/05/04/box-introduces-box-ai-to-bring-the-power-of-ai-to-enterprise-content/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/05/04/box-introduces-box-ai-to-bring-the-power-of-ai-to-enterprise-content/amp/",
+      "publishedDateTime": "2023-05-04T07:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-04-britains-competition-watchdog-opens-investigation-into-artificial-intelligence-market.md",
+      "title": "Britain's competition watchdog opens investigation into artificial intelligence market",
+      "excerpt": "The Competition Markets Authority in Britain is investigating the artificial intelligence market. The investigation will focus on the technology underpinning chatbots.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/world/britains-competition-watchdog-opens-investigation-artificial-intelligence-market",
+      "originalUrl": "https://www.foxnews.com/world/britains-competition-watchdog-opens-investigation-artificial-intelligence-market",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d66e500a-bd8d-48be-8e80-975a5c3cc1b8/1a40ac88-f811-4bef-b170-9f0ab28f6994/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/world/britains-competition-watchdog-opens-investigation-artificial-intelligence-market.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/world/britains-competition-watchdog-opens-investigation-artificial-intelligence-market.amp",
+      "publishedDateTime": "2023-05-04T07:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-04-vp-harris-to-meet-with-ceos-about-artificial-intelligence-risks.md",
       "title": "VP Harris to meet with CEOs about artificial intelligence risks",
       "excerpt": "The Democratic administration plans to announce an investment of $140 million to establish seven new AI research institutes.",
@@ -1038,144 +1183,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-04-scientists-warn-of-growing-ai-dangers-but-dont-agree-fully-on-solutions.md",
-      "title": "Scientists warn of growing AI dangers but don’t agree fully on solutions",
-      "excerpt": "Tech computer scientists and tech business leaders such as Elon Musk and Apple co-founder Steve Wozniak in calling for a six-month pause on developing AI systems more powerful than OpenAI’s latest model,",
-      "sourceUrl": null,
-      "webUrl": "https://www.pennlive.com/nation-world/2023/05/scientists-warn-of-growing-ai-dangers-but-dont-agree-fully-on-solutions.html",
-      "originalUrl": "https://www.pennlive.com/nation-world/2023/05/scientists-warn-of-growing-ai-dangers-but-dont-agree-fully-on-solutions.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/XCUYFGKZTBGYPJ2CWCAUGT6Z2Q.jpg",
-          "width": 3438,
-          "height": 2099,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pennlive.com/nation-world/2023/05/scientists-warn-of-growing-ai-dangers-but-dont-agree-fully-on-solutions.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-pennlive-com.cdn.ampproject.org/c/s/www.pennlive.com/nation-world/2023/05/scientists-warn-of-growing-ai-dangers-but-dont-agree-fully-on-solutions.html?outputType=amp",
-      "publishedDateTime": "2023-05-03T16:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Penn Live",
-        "domain": "pennlive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-04-artificial-intelligence-robots-may-spark-terminator-style-nuclear-armageddon-scientists-fear.md",
-      "title": "Artificial intelligence robots may spark Terminator-style nuclear Armageddon, scientists fear",
-      "excerpt": "ARTIFICIAL intelligence bots may spark Armageddon like ... “self aware” and almost wipes out humanity using killer robots. More than a third of tech whizzes quizzed by Stanford University ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thescottishsun.co.uk/tech/10614167/artificial-intelligence-terminator-armageddon/",
-      "originalUrl": "https://www.thescottishsun.co.uk/tech/10614167/artificial-intelligence-terminator-armageddon/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thescottishsun.co.uk/wp-content/uploads/sites/2/2023/05/1991-american-science-fiction-action-392092156.jpg?strip=all&quality=100&w=1920&h=1080&crop=1",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thescottishsun.co.uk/tech/10614167/artificial-intelligence-terminator-armageddon/amp/",
-      "cdnAmpWebUrl": "https://www-thescottishsun-co-uk.cdn.ampproject.org/c/s/www.thescottishsun.co.uk/tech/10614167/artificial-intelligence-terminator-armageddon/amp/",
-      "publishedDateTime": "2023-05-03T16:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Scottish Sun",
-        "domain": "thescottishsun.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-04-innovationrx-the-fda-oks-the-first-rsv-vaccine-microsofts-ai-play-for-doctors.md",
-      "title": "InnovationRx: The FDA OKs The First RSV Vaccine; Microsoft’s AI Play For Doctors",
-      "excerpt": "InnovationRx is your weekly digest of healthcare news. To get it in your inbox, subscribe here.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/katiejennings/2023/05/03/innovationrx-the-fda-oks-the-first-rsv-vaccine-microsofts-ai-play-for-doctors/",
-      "originalUrl": "https://www.forbes.com/sites/katiejennings/2023/05/03/innovationrx-the-fda-oks-the-first-rsv-vaccine-microsofts-ai-play-for-doctors/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6452d6708bb19866029c02fa/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-03T15:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

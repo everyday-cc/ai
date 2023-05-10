@@ -68,17 +68,21 @@ related:
   - title: "Researchers at UMich find a way to reduce the energy consumed by AI"
     excerpt: "As AI becomes increasingly popular, researchers develop software to decrease energy consumption in an effort to lower carbon footprint."
     publishedDateTime: 2023-05-07T23:08:00Z
-    webUrl: "https://www.michigandaily.com/research/researchers-at-umich-find-a-way-to-reduce-the-energy-consumed-by-ai/"
+    webUrl: "https://www.michigandaily.com/news/researchers-at-umich-find-a-way-to-reduce-the-energy-consumed-by-ai/"
     type: article
     provider:
       name: The Michigan Daily
       domain: michigandaily.com
-    quality: 39
-    images:
-      - url: "https://www.michigandaily.com/wp-content/uploads/2023/05/design.png"
-        width: 2400
-        height: 1600
-        isCached: true
+    quality: 19
+  - title: "Researchers Of Open-Source Project Advance The State Of The Art In AI For Music"
+    excerpt: "The researcher’s community has come up with an innovative way to amalgamate cutting edge technologies in speech, text, sound like the transformer-based language models and generative AI techniques to generate music using AI."
+    publishedDateTime: 2023-05-10T01:59:00Z
+    webUrl: "https://www.outlookindia.com/outlook-spotlight/researchers-of-open-source-project-advance-the-state-of-the-art-in-ai-for-music-news-284934"
+    type: article
+    provider:
+      name: Outlookindia
+      domain: outlookindia.com
+    quality: 13
 
 secured: "M83PqMHrPN2wl1eysGHRXoODqetAWzA9Fh2IUBeNNMtL/VgMiazZAUBa7xyV4jRFICaaWznszCBCu+dgCD0VaqhgrcZS4pFVXhWZA4oX0k4pAoz+u26W8EefRo66O42XONMXPpW6ZHdVOBFOMG4OddE92t15IlWhr4iPcT/AK6p/DkbWZOrkDqnBYtRxC5qx6vP5wzgFnmiqgMl0FCsxayp+S5cbczi+IDaAgzzh7+6bdyTOaEn2KMEau//gPGWV1sVYAOzh5QUcHiG/mEASFSGwhk8r5PguOixgBRLfKAJL5Sh0/XVho7BPWNyoy5Lf/lf2hK3Tc9GShTWZ6W5zAoPdGbQRYrXe+3QXmVRgI52C2UZDA7irjqa/cs/YAFnBDVR7gWRRl0kfYMM57UnI1lL8hcxVpAm7feckkDuVn50nMBkdQLDc/n3cYXJpM+lhmmSpw99HGFtifmvWx5EzumHsIZALCeQcDG66vGwwU3dYJyPrUHpN/tB9ofmXMy0QWehS9hau7RrDL4ob7bNI7A==;Pp0sqB0CIw5GnonDwLdGvg=="
 ---

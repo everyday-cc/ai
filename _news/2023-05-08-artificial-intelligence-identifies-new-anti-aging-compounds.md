@@ -69,6 +69,22 @@ related:
         width: 1200
         height: 720
         isCached: true
+  - title: "Three questions business leaders need to ask to get the most out of generative AI"
+    excerpt: "How to bridge the gap between admiration and implementation of AI? Pedro Arellano has three priorities to guide you."
+    publishedDateTime: 2023-05-09T15:11:00Z
+    webUrl: "https://diginomica.com/three-questions-business-leaders-need-ask-get-most-out-generative-ai"
+    ampWebUrl: "https://diginomica.com/three-questions-business-leaders-need-ask-get-most-out-generative-ai?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/three-questions-business-leaders-need-ask-get-most-out-generative-ai?amp"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 54
+    images:
+      - url: "https://diginomica.com/sites/default/files/images/2023-05/Shutterstock_2285573277.png"
+        width: 740
+        height: 450
+        isCached: true
   - title: "AI-generated images of satanic kids’ event misrepresented as real"
     excerpt: "CLAIM: Photos show children being taught Satanism in libraries in the U.S. during an event called SatanCon. AP’S ASSESSMENT: False. The images were generated with an artificial intelligence tool and posted online."
     publishedDateTime: 2023-05-08T21:41:00Z

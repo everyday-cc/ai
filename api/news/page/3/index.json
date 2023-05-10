@@ -2,6 +2,110 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-05-08-machine-learning-ml-platforms-market-intelligence-report-2023-2031-by-industry-experts.md",
+      "title": "Machine Learning (ML) Platforms Market Intelligence Report: 2023-2031 by Industry Experts",
+      "excerpt": "Platforms Market ” Research Report 2023-2031 offers a detailed analysis of the industry landscape, including growth drivers, restraints, and competitive dynamics of Top Manufacturers [Microsoft Corporation,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-ml-platforms-market-intelligence-report-2023-2031-by-industry-experts-2023-05-08",
+      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-ml-platforms-market-intelligence-report-2023-2031-by-industry-experts-2023-05-08",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-08T06:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2023-05-08-for-artificial-intelligence-to-really-work-the-military-will-need-better-connectivity.md",
+      "title": "For Artificial Intelligence to Really Work, The Military Will Need Better Connectivity",
+      "excerpt": "While talking with CENTCOM’s chief technology officer, Schuyler Moore, I opined that in a peer fight the U.S. military’s data and communications networks may not hold up for even 24 hours. She waited a beat before saying,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/erictegler/2023/05/08/for-artificial-intelligence-to-really-work-the-military-will-need-better-connectivity/",
+      "originalUrl": "https://www.forbes.com/sites/erictegler/2023/05/08/for-artificial-intelligence-to-really-work-the-military-will-need-better-connectivity/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64554c059234b64d096396dd/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 746,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/erictegler/2023/05/08/for-artificial-intelligence-to-really-work-the-military-will-need-better-connectivity/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/erictegler/2023/05/08/for-artificial-intelligence-to-really-work-the-military-will-need-better-connectivity/amp/",
+      "publishedDateTime": "2023-05-08T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-08-galileo-unveils-ml-data-quality-intelligence-platform-for-faster-more-accurate-computer-vision-models.md",
       "title": "Galileo Unveils ML Data-Quality Intelligence Platform for Faster, More Accurate Computer Vision Models",
       "excerpt": "Galileo, the first-ever machine-learning (ML) data intelligence company for unstructured data, today announced the",
@@ -63,7 +167,7 @@
       "originalUrl": "https://www.ibm.com/blog/the-risks-and-limitations-of-ai-in-insurance/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 189,
+      "heat": 199,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -158,7 +262,7 @@
       "originalUrl": "https://www.forbes.com/sites/stevensalzberg/2023/05/08/should-we-be-worried-about-ai-i-thought-not-until-i-asked-an-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 127,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -209,7 +313,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/ai-robot-dog-market-size-revenue-and-forecast-2030-2023-05-08",
       "featuredContent": null,
       "highlight": null,
-      "heat": 304,
+      "heat": 224,
       "tags": null,
       "images": [
         {
@@ -312,7 +416,7 @@
       "originalUrl": "https://www.wired.com/story/hollywood-screenwriters-artificial-intelligence-guardrails/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 177,
+      "heat": 167,
       "tags": null,
       "images": [
         {
@@ -509,49 +613,6 @@
         "AI",
         "AI in Healthcare",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-08-ethics-of-ai-examining-impact-of-artificial-intelligence-on-society-morality.md",
-      "title": "Ethics of AI: Examining Impact of Artificial Intelligence on Society, Morality",
-      "excerpt": "In a recent interview with WABC radio host John Catsimatidis, Democratic presidential candidate Robert F. Kennedy Jr. made startling allegations abou",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1106195695/Ethics-of-AI-Examining-Impact-of-Artificial-Intelligence-on-Society-Morality",
-      "originalUrl": "https://menafn.com/1106195695/Ethics-of-AI-Examining-Impact-of-Artificial-Intelligence-on-Society-Morality",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/updates/pr/Menafn_News_Images/Local_TelecomTech_117.jpg",
-          "width": 4896,
-          "height": 3264,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-08T02:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mena FN",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     },
     {
@@ -754,15 +815,15 @@
       ]
     },
     {
-      "path": "_news/2023-05-08-artificial-intelligence-of-things-aiot-solutions-market-research-2023-2030.md",
-      "title": "Artificial Intelligence Of Things (AIoT) Solutions Market Research, 2023-2030",
-      "excerpt": "In 2023,Artificial Intelligence Of Things (AIoT) Solutions Market with technical and procedural infrastructure that",
+      "path": "_news/2023-05-08-ai-based-edge-computing-chip-market-research-2030.md",
+      "title": "AI based Edge Computing Chip Market Research, 2030",
+      "excerpt": "Precision Reports has published a new report titled as \" AI based Edge Computing Chip Market \" by End User ( Smart Manufacturing, Smart Home, Smart Retail, Smart Transportation, Smart Finance, Smart Medical,",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-of-things-aiot-solutions-market-research-2023-2030-2023-05-07",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-of-things-aiot-solutions-market-research-2023-2030-2023-05-07",
+      "webUrl": "https://www.marketwatch.com/press-release/ai-based-edge-computing-chip-market-research-2030-2023-05-08",
+      "originalUrl": "https://www.marketwatch.com/press-release/ai-based-edge-computing-chip-market-research-2030-2023-05-08",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 254,
       "tags": null,
       "images": [
         {
@@ -778,7 +839,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-07T20:10:00-07:00",
+      "publishedDateTime": "2023-05-07T21:36:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "MarketWatch",
@@ -801,7 +862,7 @@
         "news"
       ],
       "topics": [
-        "AI in Robotics",
+        "AI Hardware",
         "AI"
       ]
     },
@@ -917,7 +978,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/2030-gpu-for-deep-learning-market-with-pestal-swot-analysis-2023-05-07",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 116,
       "tags": null,
       "images": [
         {
@@ -1209,49 +1270,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-07-ai-pioneer-geoffrey-hinton-outlines-4-dangers-of-artificial-intelligence.md",
-      "title": "AI pioneer Geoffrey Hinton outlines 4 dangers of artificial intelligence",
-      "excerpt": "The “Godfather of artificial intelligence” has changed his mind about whether AI can become smarter than humans.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tampabay.com/news/business/2023/05/07/ai-pioneer-geoffrey-hinton-outlines-4-dangers-artificial-intelligence/",
-      "originalUrl": "https://www.tampabay.com/news/business/2023/05/07/ai-pioneer-geoffrey-hinton-outlines-4-dangers-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tampabay.com/resizer/Ex5xkonKhkVd-9caaUA6LmErs2I=/1200x675/smart/cloudfront-us-east-1.images.arcpublishing.com/tbt/XLO7HHPWM3NDI5NC5D6FR3OQJA.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.tampabay.com/news/business/2023/05/07/ai-pioneer-geoffrey-hinton-outlines-4-dangers-artificial-intelligence/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-tampabay-com.cdn.ampproject.org/c/s/www.tampabay.com/news/business/2023/05/07/ai-pioneer-geoffrey-hinton-outlines-4-dangers-artificial-intelligence/?outputType=amp",
-      "publishedDateTime": "2023-05-07T07:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Tampa Bay Times",
-        "domain": "tampabay.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/story/hollywood-screenwriters-artificial-intel
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/hollywood-screenwriters-artificial-intelligence-guardrails/amp"
 type: article
 quality: 87
-heat: 177
+heat: 167
 published: true
 
 provider:
@@ -85,20 +85,6 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 47
-  - title: "Writers vs AI bots is more than a Hollywood drama"
-    excerpt: "They moved to hiring writers on short-term contracts to develop new dramas in what are known as “mini-rooms”; these are disbanded before the show is commissioned. This approach not only pays writers less and limits residuals, but means they do not gain practical experience on productions; they must find themselves another mini-room project instead."
-    publishedDateTime: 2023-05-05T11:06:00Z
-    webUrl: "https://www.ft.com/content/576e1f4c-0c39-4fd6-8952-dece96248fe6"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 37
-    images:
-      - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/comment.jpg"
-        width: 619
-        height: 377
-        isCached: true
   - title: "If AI Is the Future of Hollywood, We’re All F*cked"
     excerpt: "Writers in Hollywood are seeking protection against AI encroaching on human jobs. If we’re smart, we’ll stand behind them."
     publishedDateTime: 2023-05-06T03:36:00Z

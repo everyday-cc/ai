@@ -9,7 +9,7 @@ ampWebUrl: "https://www.financialexpress.com/business/blockchain-data-science-an
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/blockchain-data-science-and-ai-how-it-is-changing-the-game-for-fintechs-in-india-3075675/lite/"
 type: article
 quality: 59
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -49,20 +49,6 @@ related:
       - url: "https://media.baltictimes.com/media/photos/157961_66405011364592af6ddd73_big.jpg"
         width: 855
         height: 570
-        isCached: true
-  - title: "FinovateSpring Hosting 60+ Live Demos Showcasing Disruptive Fintech Solutions"
-    excerpt: "London-based Informa, an international events, digital services and academic knowledge group, will host its upcoming event, FinovateSpring, a world-class conference for leading fintech companies and global financial institutions from May 23-25,"
-    publishedDateTime: 2023-05-09T14:26:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/273825335/finovatespring-hosting-60+-live-demos-showcasing-disruptive-fintech-solutions"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 21
-    images:
-      - url: "https://cdn.bignewsnetwork.com/cus1683349716023.jpg"
-        width: 630
-        height: 420
         isCached: true
   - title: "4 AI-powered firms reshaping the FinTech space in Czech Republic"
     excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."

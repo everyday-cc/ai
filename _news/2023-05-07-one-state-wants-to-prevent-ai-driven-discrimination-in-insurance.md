@@ -36,6 +36,20 @@ related:
       name: IBM
       domain: ibm.com
     quality: 99
+  - title: "Artificial Intelligence In Insurtech Market, 2030"
+    excerpt: "The Global Artificial Intelligence In Insurtech market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players,"
+    publishedDateTime: 2023-05-09T23:56:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-insurtech-market-2030-2023-05-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 67
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Navigating the hype of AI tools in HR"
     excerpt: "Sometimes it’s better to be first to a new technology, but in the case of AI in HR, it may just be better to be smart than first."
     publishedDateTime: 2023-05-08T14:16:00Z

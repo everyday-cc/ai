@@ -44,19 +44,17 @@ related:
         isCached: true
   - title: "In global rush to regulate AI, Europe set to be trailblazer"
     excerpt: "European lawmakers have rushed to add language on general artificial intelligence systems like ChatGPT as they put the finishing touches on the Western world's first AI rules"
-    publishedDateTime: 2023-05-09T08:51:00Z
-    webUrl: "https://abcnews.go.com/International/wireStory/global-rush-regulate-ai-europe-set-trailblazer-99189394"
-    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/global-rush-regulate-ai-europe-set-trailblazer-99189394"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/global-rush-regulate-ai-europe-set-trailblazer-99189394"
+    publishedDateTime: 2023-05-09T09:32:00Z
+    webUrl: "https://abcnews.go.com/Technology/wireStory/global-rush-regulate-ai-europe-set-trailblazer-99189489"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
-    quality: 57
+    quality: 37
     images:
-      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-        width: 834
-        height: 308
+      - url: "https://s.abcnews.com/images/International/wirestory_906fc89d2561b200fa6eb40a06b946a5_12x5_992.jpg"
+        width: 992
+        height: 413
         isCached: true
 
 secured: "LUdJCkljYIVCF+n+6fKiD2Maj1SYlGOpDgcWieGsrS7GZ/6VvdkTkrb0C+LX+d+lTkssdKqfpuxC00Jhj4VED/Sww58rY30vGca8s6scIcNAWqiRh+XsjdHHHDVB8NeZUnrDSzD7prnCDM0MOWKP98F9EcegLqLxScj+LI+rLJgXIj5iH25IkP85n0WJKipva0u7ny8v+q9+Ww6gRA5dBB31alBu4B5mx++46e0DvrdQjYVyH7ri3sc//6RAhNH0pulx9RR6CWT7wt1pLIHL6vGTq7Xz88/RFHv/KnLdH4Y/pR8bVW8tyVnYPUqE36fBgoCJqxdjXGMHAqnxvnAmmlkmeZ0vA2O4isT6Uh2UC8mRYNcj1OatRh1F5SJk9c1MuzgJtcF3uvr21Aeq/PPkFANB4f9rKMqH1tIl/tWbaHI+u6+YvJxLickxiWPjL9kJ1ORG+aja3yIkXt1qo+eb4R4zC/5+fS9hdGqm50agcg90/wSvxPA0ZKZd5d2deeL5KMtqrOznqvVL57jtmX9q4w==;IQ4Nymy00lJcVFTKUpU4WQ=="

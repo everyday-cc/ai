@@ -24,6 +24,15 @@ images:
     isCached: true
 
 related:
+  - title: "AI: Artificial or Advanced Intelligence"
+    excerpt: "What is Artificial Intelligence? And can intelligence actually be artificial? These questions have been on the minds of many for decades. With the emergence of MIT's super A.I. Watson, and the insurgence of the driver-less car, now seems apropos to seek ..."
+    publishedDateTime: 2023-05-10T01:25:00Z
+    webUrl: "https://www.avclub.com/film/reviews/ai-artificial-or-advanced-intelligence-2020"
+    type: article
+    provider:
+      name: AV Club
+      domain: avclub.com
+    quality: 17
   - title: "Buffett, Munger Skeptical Of AI: 'Old Fashioned Intelligence Works Pretty Well'"
     excerpt: "Munger, who introduced Buffett to Chinese electric vehicle maker BYD Manufacturing Company Limited BYDDY BYDDF, noted that, at BYD's factories, robotics is used at an unbelievable rate, according to CNBC. \"We're going to see a lot more robotics in the world,\" he added."
     publishedDateTime: 2023-05-06T19:19:00Z

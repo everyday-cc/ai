@@ -51,6 +51,15 @@ related:
       name: Wired
       domain: wired.com
     quality: 51
+  - title: "Why generative AI is more dangerous than you think"
+    excerpt: "The real short-term danger of generative AI isn't lost jobs or fake content but targeted generative ads and targeted conversational influence."
+    publishedDateTime: 2023-05-06T13:39:00Z
+    webUrl: "https://venturebeat.com/ai/why-generative-ai-is-more-dangerous-than-you-think/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 47
   - title: "IBM's generative AI strike force"
     excerpt: "O.G. tech giant IBM is launching a counterstrike in the industry's suddenly-hot AI fight with today's announcement of Watsonx. The big picture: Business-focused IBM claims its latest AI offering, set to launch in July, provides more accurate answers and takes a more responsible approach than rivals."
     publishedDateTime: 2023-05-09T10:00:00Z
@@ -65,6 +74,15 @@ related:
         width: 1366
         height: 768
         isCached: true
+  - title: "There’s Still A Long Way To Go With Generative AI"
+    excerpt: "The tech world is awash with generative AI, which for a company like Nvidia, is a good thing. The company that a decade ago put its money down on AI to be"
+    publishedDateTime: 2023-05-05T13:54:00Z
+    webUrl: "https://www.nextplatform.com/2023/05/05/theres-still-a-long-way-to-go-with-generative-ai/"
+    type: article
+    provider:
+      name: The Next Platform
+      domain: nextplatform.com
+    quality: 19
 
 secured: "9w4iD+tpd60emaS+NLFvSe5iT6JNhvu3oHPMFxdT2Tw4/Eg/Vx8tfIxtVUyWs+ZUowDK3OHEYnAFx2PdLn0VaFM1RAHDN5TpzrztVeVY5A7VZkV0Ykh6CIVY541Ggbf+q3Z/cTN0A9c3PxNdHZRPoxa9lHUC4Z3VWSLPDpe+PpmVK80/yl22jYpiPgNoTmteT3mrk4TDaLuWvBlQCvAfIFSmi0B9gANJP+TiMGI6mGuU0ZuemhWxyZUF3U02twdDR2+I1DgJ7K/BhF3qq7u+YRNqfBp1AKlNCAZ+bYwyb6bj1miRnRvoCAByk5DqMUnWcRV98pFVJ2zCJ/wc/RcZ+mLbHMJTjkTCIYP388zJpYU=;rI0BPu+RSdKrMdjjXQfdcA=="
 ---

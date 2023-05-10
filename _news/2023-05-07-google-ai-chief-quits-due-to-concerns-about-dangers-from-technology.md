@@ -60,17 +60,12 @@ related:
   - title: "Researchers at UMich find a way to reduce the energy consumed by AI"
     excerpt: "As AI becomes increasingly popular, researchers develop software to decrease energy consumption in an effort to lower carbon footprint."
     publishedDateTime: 2023-05-07T23:08:00Z
-    webUrl: "https://www.michigandaily.com/research/researchers-at-umich-find-a-way-to-reduce-the-energy-consumed-by-ai/"
+    webUrl: "https://www.michigandaily.com/news/researchers-at-umich-find-a-way-to-reduce-the-energy-consumed-by-ai/"
     type: article
     provider:
       name: The Michigan Daily
       domain: michigandaily.com
-    quality: 39
-    images:
-      - url: "https://www.michigandaily.com/wp-content/uploads/2023/05/design.png"
-        width: 2400
-        height: 1600
-        isCached: true
+    quality: 19
   - title: "The Race to Write the World’s First AI Rule Book"
     excerpt: "The proposed Artificial Intelligence Act is a far-reaching legal framework. But rival nations are watching, hoping to take advantage of delays."
     publishedDateTime: 2023-05-09T13:11:00Z
@@ -80,6 +75,15 @@ related:
       name: The Cipher Brief
       domain: thecipherbrief.com
     quality: 19
+  - title: "Researchers Of Open-Source Project Advance The State Of The Art In AI For Music"
+    excerpt: "The researcher’s community has come up with an innovative way to amalgamate cutting edge technologies in speech, text, sound like the transformer-based language models and generative AI techniques to generate music using AI."
+    publishedDateTime: 2023-05-10T01:59:00Z
+    webUrl: "https://www.outlookindia.com/outlook-spotlight/researchers-of-open-source-project-advance-the-state-of-the-art-in-ai-for-music-news-284934"
+    type: article
+    provider:
+      name: Outlookindia
+      domain: outlookindia.com
+    quality: 13
 
 secured: "TodX+cHY8C/HAl8InCCO/oE7BTeP+EYt7RMqaMzBJJCOq6fJigEwJolbU01A3UTJ323aqZMBpc6A6FR6fEAmAmQIQsKHvgaUhm1wxzUUgkEANPrhrkeNLDBF4ejMmRVH31pPOEAnSjUeWxxoT2KJJPkYZGH7o/cXTvHtU/ctmOZuSYiNATjHm9+YrYqmR4s/2ngNVSDVO/OJU7DQTALRegd5zkzu7mCdxBPBDaCK5qEEpSRoMWaJwJPS61HmQBYVG4LBnUAPMOEktGNDQNe3XC6aRyb8XnvztpuCQB4KcEZzrSMW22Wachd6YMzmPraXUbwin7GQ7AsJzahoQvym3LT4GGSnHoereqUmbvAdFyQ=;o051dDn4vZ1QKOFEAnM73g=="
 ---

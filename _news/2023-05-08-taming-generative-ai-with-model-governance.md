@@ -40,6 +40,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Why generative AI is more dangerous than you think"
+    excerpt: "The real short-term danger of generative AI isn't lost jobs or fake content but targeted generative ads and targeted conversational influence."
+    publishedDateTime: 2023-05-06T13:39:00Z
+    webUrl: "https://venturebeat.com/ai/why-generative-ai-is-more-dangerous-than-you-think/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 47
   - title: "Tracking Generative AI: How Evolving AI Models Are Impacting Legal"
     excerpt: "A running compilation of how the legal landscape continues to be shaped by generative AI tools, from GPT technologies to art generation tools and beyond."
     publishedDateTime: 2023-05-09T16:30:00Z
@@ -68,6 +77,15 @@ related:
         width: 1366
         height: 768
         isCached: true
+  - title: "There’s Still A Long Way To Go With Generative AI"
+    excerpt: "The tech world is awash with generative AI, which for a company like Nvidia, is a good thing. The company that a decade ago put its money down on AI to be"
+    publishedDateTime: 2023-05-05T13:54:00Z
+    webUrl: "https://www.nextplatform.com/2023/05/05/theres-still-a-long-way-to-go-with-generative-ai/"
+    type: article
+    provider:
+      name: The Next Platform
+      domain: nextplatform.com
+    quality: 19
 
 secured: "T3FysIPiHwQ9YbOfRcNJBmrKWx9IkrhPHHJKaLVpHw9TuJlaBPPMclF38LRdNxi6ClaFF426deoe2LyWeTfs1y/05H4qVKaxABNbD/CqioxQ9XfMuM2PKt5SVkwyg4+h+r0FHOkDeOz6O2TtRoX63k32xgN47hA7OQqvFvlmtNJbdskyMOBrCFnJjSGqMcpJIQwQ3HAVWY+cepOJXqV1yelFvJPgYN01WJrF61IM+GbABWwzP2QKTxI1TWEulbjp8SH3YD/TvxwDkGycoRIVAXkWHYyap4hq/NK0v0k7sub82txP6f3Xm0r0idpcM2ABSwzuvyzZ5Z7oakffxBF6AuobVuxaedCqQQdX7Qxi13srWjV8A+taf4y/DBFuPuhz3uDMSmD7rW8e4V9YpS1l92YdUW4junlaTm7iXhvxQ076iMn0qFF5LW+yCGCeSlX77lrOhWe6Yv+S4ERwIESuumkd+Wdw7zFrEhhv5uiL9dF5bUSGgQLfaTdGxObm0Wl8+LDriBAKRSPR3VBMcnb7DQ==;2q19RPDkDkTZwFDObv3ySA=="
 ---

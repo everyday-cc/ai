@@ -62,17 +62,12 @@ related:
   - title: "Researchers at UMich find a way to reduce the energy consumed by AI"
     excerpt: "As AI becomes increasingly popular, researchers develop software to decrease energy consumption in an effort to lower carbon footprint."
     publishedDateTime: 2023-05-07T23:08:00Z
-    webUrl: "https://www.michigandaily.com/research/researchers-at-umich-find-a-way-to-reduce-the-energy-consumed-by-ai/"
+    webUrl: "https://www.michigandaily.com/news/researchers-at-umich-find-a-way-to-reduce-the-energy-consumed-by-ai/"
     type: article
     provider:
       name: The Michigan Daily
       domain: michigandaily.com
-    quality: 39
-    images:
-      - url: "https://www.michigandaily.com/wp-content/uploads/2023/05/design.png"
-        width: 2400
-        height: 1600
-        isCached: true
+    quality: 19
   - title: "The Race to Write the World’s First AI Rule Book"
     excerpt: "The proposed Artificial Intelligence Act is a far-reaching legal framework. But rival nations are watching, hoping to take advantage of delays."
     publishedDateTime: 2023-05-09T13:11:00Z
@@ -82,6 +77,15 @@ related:
       name: The Cipher Brief
       domain: thecipherbrief.com
     quality: 19
+  - title: "Researchers Of Open-Source Project Advance The State Of The Art In AI For Music"
+    excerpt: "The researcher’s community has come up with an innovative way to amalgamate cutting edge technologies in speech, text, sound like the transformer-based language models and generative AI techniques to generate music using AI."
+    publishedDateTime: 2023-05-10T01:59:00Z
+    webUrl: "https://www.outlookindia.com/outlook-spotlight/researchers-of-open-source-project-advance-the-state-of-the-art-in-ai-for-music-news-284934"
+    type: article
+    provider:
+      name: Outlookindia
+      domain: outlookindia.com
+    quality: 13
 
 secured: "8T0nMwzdl2DIhhdFLeQ/zVnKGaTku8TzIhZHIuM9qwIs3hV5+sSZfgq2uTaE/EczACW2JxoVHcJQe4syw3FC3L3oDRkkL4lusNkGe6SGOvqoz2nk8YNVIa9DSk5z3y/jplA9L4eKHLXtMwlrKaI9frq5De7yHw3mzZCd4RCyWZhuFRAbqh9wtmH9+hKcDqS+xWFuTpXTLb5KywyRxNei/F6MCiVUoXI9+sQULHfZ3XnRFLcgoliryCdHFmc1m/7ljq3orOnR1bBXkdrcoVoJgs3BidcFiUJyBOolq3FcHDg4+t13UzW6IpzbgIK/l1sdVQoDyHWOV4r4iEDARW1CYSK6iT92i/1KBQ+Bk1HeiU9B0wkrsukNztMNqu4Fsc5D8iCqnjbop6MQZZkVzQUTyAMoNcCsdPDmw0TNqLfq3S1gG7hcIl6bKTcoVEzPAyI1RJfmKDnwWNcxVm9ECMZXxE4cGbwNIOQmGQFLCC1TNfI+AWUZjM4YK35gJinwbCZ8VNr4Eg2o/TKktoRJVnA6uw==;JcsnUamHibYXmOKxW/qpRg=="
 ---

@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "Llewellyn King: Artificial intelligence is here — Friend, foe or both?"
+    excerpt: "A whole new thing to worry about has just arrived. It joins a list of existential concerns for the future, along with global warming, the wobbling of democracy, the relationship"
+    publishedDateTime: 2023-05-10T03:30:00Z
+    webUrl: "https://wacotrib.com/opinion/columnists/llewellyn-king-artificial-intelligence-is-here-friend-foe-or-both/article_0edcf680-ee97-11ed-b002-f7d7569d2f48.html"
+    type: article
+    provider:
+      name: wacotrib
+      domain: wacotrib.com
+    quality: 39
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/wacotrib.com/content/tncms/assets/v3/editorial/b/80/b80d11b4-eea0-11ed-bcdd-6bf3b440ec1c/645aa0c8a3a2e.image.jpg?crop=1632%2C857%2C0%2C206&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Opinion: Artificial Intelligence Is Here — Friend, Foe or Both? – Inside Sources"
     excerpt: "Artificial intelligence, known as AI, has had pride of place on the worry list for several weeks. Its arrival was trumpeted for a long time, including by the government and by techies across the board."
     publishedDateTime: 2023-05-08T07:07:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/articles/worlds-top-ai-researchers-debate-the-
 webUrl: "https://www.wsj.com/articles/worlds-top-ai-researchers-debate-the-technologys-next-steps-55be2849"
 type: article
 quality: 67
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -63,17 +63,12 @@ related:
   - title: "Researchers at UMich find a way to reduce the energy consumed by AI"
     excerpt: "As AI becomes increasingly popular, researchers develop software to decrease energy consumption in an effort to lower carbon footprint."
     publishedDateTime: 2023-05-07T23:08:00Z
-    webUrl: "https://www.michigandaily.com/research/researchers-at-umich-find-a-way-to-reduce-the-energy-consumed-by-ai/"
+    webUrl: "https://www.michigandaily.com/news/researchers-at-umich-find-a-way-to-reduce-the-energy-consumed-by-ai/"
     type: article
     provider:
       name: The Michigan Daily
       domain: michigandaily.com
-    quality: 39
-    images:
-      - url: "https://www.michigandaily.com/wp-content/uploads/2023/05/design.png"
-        width: 2400
-        height: 1600
-        isCached: true
+    quality: 19
   - title: "The Race to Write the World’s First AI Rule Book"
     excerpt: "The proposed Artificial Intelligence Act is a far-reaching legal framework. But rival nations are watching, hoping to take advantage of delays."
     publishedDateTime: 2023-05-09T13:11:00Z
@@ -83,6 +78,15 @@ related:
       name: The Cipher Brief
       domain: thecipherbrief.com
     quality: 19
+  - title: "Researchers Of Open-Source Project Advance The State Of The Art In AI For Music"
+    excerpt: "The researcher’s community has come up with an innovative way to amalgamate cutting edge technologies in speech, text, sound like the transformer-based language models and generative AI techniques to generate music using AI."
+    publishedDateTime: 2023-05-10T01:59:00Z
+    webUrl: "https://www.outlookindia.com/outlook-spotlight/researchers-of-open-source-project-advance-the-state-of-the-art-in-ai-for-music-news-284934"
+    type: article
+    provider:
+      name: Outlookindia
+      domain: outlookindia.com
+    quality: 13
 
 secured: "DME4t3jGvO8B+y5cfFjo2RnNZZMyxdQORg19+c3KqZLDM7gJ4ApNBup75V/u5f4/DOxVu32LsKRsNrVjD+EJG9s/ABCi+NBBQo/8zwBRxtn7MSdZi6bf06pcIEgnHrWUgAFyC/+cfVzkz9PIMaqTNrS1VXZQcWUiQsJtmUyotfhqdos1QsGp5hcQiGcAVb4EM32VG7sOSTEKy0YCFixZZvlnCSVxlJdV3DqX5shq0NF97L5hV8Ba19fgbyxY+uTQBbLYY7WxE2C52K28pP3FvcK/VVJAO2Oxh31RieBrnzYhJmJcezUfknBe9X9g7Hxktrs3xgbBUoKre3rxki+jECrr+Xm5sMLT81SWHUIa3EVLvmL2irTZPIAapSDJqgjWVgVe4PeWtYvazxqFpfPJmdaiDQ6ZnCZmgmD95nEG0lcLKU/WI+bM932wjEGiHzQ7+aq8pKw/9Rqte3r1e0cDVTVDWGJlNnjgEJeMzmAmQOck4J/fdnhFFxtIonDrb3VtS8T+rp4/yujxSmwO1qyymA==;Iabw6SOVj7g1whN9SAjXkg=="
 ---

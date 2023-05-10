@@ -42,22 +42,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Vice President Harris meets with CEOs about risks of artificial intelligence"
-    excerpt: "Vice President Kamala Harris met on Thursday with the heads of Google, Microsoft and two other companies developing artificial intelligence."
-    publishedDateTime: 2023-05-05T11:25:00Z
-    webUrl: "https://thegrio.com/2023/05/05/vice-president-harris-meets-with-ceos-about-risks-of-artificial-intelligence/"
-    ampWebUrl: "https://thegrio.com/2023/05/05/vice-president-harris-meets-with-ceos-about-risks-of-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://thegrio-com.cdn.ampproject.org/c/s/thegrio.com/2023/05/05/vice-president-harris-meets-with-ceos-about-risks-of-artificial-intelligence/amp/"
-    type: article
-    provider:
-      name: The Grio
-      domain: thegrio.com
-    quality: 60
-    images:
-      - url: "https://thegrio.com/wp-content/uploads/2023/05/AP23121595237837-scaled.jpg"
-        width: 2560
-        height: 1707
-        isCached: true
   - title: "Biden Administration Turns To Hackers To Tame AI As White House Looks Towards Regulating Artificial Intelligence To Preserve Jobs"
     excerpt: "Gamers Making Thousands Selling Gaming Skins And Assets: Gameflip's Bold Vision For The Future Of Gaming Commerce Artificial intelligence (AI) technology — led by the growth of ChatGPT — has governments around the world concerned about its impact."
     publishedDateTime: 2023-05-08T20:01:00Z
@@ -69,15 +53,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 23
-  - title: "Harris to meet with CEOs about artificial intelligence risks"
-    excerpt: "The Democratic administration plans to announce an investment of $140 million to establish seven new AI research institutes"
-    publishedDateTime: 2023-05-05T12:49:00Z
-    webUrl: "https://mynorthwest.com/3884910/harris-to-meet-with-ceos-about-artificial-intelligence-risks/"
-    type: article
-    provider:
-      name: MyNorthwest.com
-      domain: mynorthwest.com
-    quality: 19
 
 secured: "ZasyGIabtLuyuTyqi5/Wa6qK5VocdyVBnFg+VmRz2NCFgQ9q4qQrtqwbhiXAgKfdINr4B1j5VibM+KW3eKnmTCy5TmO0CCZZ5/dQVzxoJFw11qqDR+Lup4tcDt9NPGRJMUxrG5zv32Rhf/BqtpW/sPdZFUKRKxopDt60bVx7SO+DUrdvp4VyjbaqO7P396+1vlEdwi89/BVIHQAoK/XO1u9hOuLotRMM6C6RD/jcsIcE+2NY9M9v79HITM+y1yYPODRMTuw6lLRfli33nM8QR00M7o0OE6NGoeJuPXk+E1S1LTLKoS9Rn28GVZP1e/i+r2jiqACioafrjPSO/dwFxal+4pUQAFT48BYGqXqi9/Y=;yvUzVtHiYIgKFVqQ/pPs8g=="
 ---

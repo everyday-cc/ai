@@ -3,10 +3,10 @@ category: news
 title: "Researchers at UMich find a way to reduce the energy consumed by AI"
 excerpt: "As AI becomes increasingly popular, researchers develop software to decrease energy consumption in an effort to lower carbon footprint."
 publishedDateTime: 2023-05-07T23:08:00Z
-originalUrl: "https://www.michigandaily.com/research/researchers-at-umich-find-a-way-to-reduce-the-energy-consumed-by-ai/"
-webUrl: "https://www.michigandaily.com/research/researchers-at-umich-find-a-way-to-reduce-the-energy-consumed-by-ai/"
+originalUrl: "https://www.michigandaily.com/news/researchers-at-umich-find-a-way-to-reduce-the-energy-consumed-by-ai/"
+webUrl: "https://www.michigandaily.com/news/researchers-at-umich-find-a-way-to-reduce-the-energy-consumed-by-ai/"
 type: article
-quality: 39
+quality: 19
 heat: -1
 published: false
 
@@ -17,12 +17,6 @@ provider:
 topics:
   - AI Hardware
   - AI
-
-images:
-  - url: "https://www.michigandaily.com/wp-content/uploads/2023/05/design.png"
-    width: 2400
-    height: 1600
-    isCached: true
 
 related:
   - title: "World’s Top AI Researchers Debate the Technology’s Next Steps"
@@ -80,7 +74,16 @@ related:
       name: The Cipher Brief
       domain: thecipherbrief.com
     quality: 19
+  - title: "Researchers Of Open-Source Project Advance The State Of The Art In AI For Music"
+    excerpt: "The researcher’s community has come up with an innovative way to amalgamate cutting edge technologies in speech, text, sound like the transformer-based language models and generative AI techniques to generate music using AI."
+    publishedDateTime: 2023-05-10T01:59:00Z
+    webUrl: "https://www.outlookindia.com/outlook-spotlight/researchers-of-open-source-project-advance-the-state-of-the-art-in-ai-for-music-news-284934"
+    type: article
+    provider:
+      name: Outlookindia
+      domain: outlookindia.com
+    quality: 13
 
-secured: "/hM1lFT8mnDrOn5847xnhYlEGsdevZp0RjyDPR0F7aZGU7IHO3R0Py0IFCW/xOA+jSjlbpA9guXy95XrJPxRarjlHvi2+3q9uo7i/vtuQUO9aB7ib3VVHdOM2oOw7reNO6cEa66K/LEPwC5lNUsYKAFQKJdaLBAcgTWYcgLEi3Fq/PH7z2qEiTMdQYt64C2NH9qp1jWLm7uK+Bg8pUksyrue5vIBUG2iTa+rdfDYgHYUsjZIgNM4FpRTpWoH4fDX/tdU8lCFSoLC0HKDgnrpyYh1m36OayrmfeD3EFVQNkhke70pd7V59MyNG04lolkU3gxKPEDVzDRbA/T3OM5HZey2b8wDs7H/uO9Fb9ZxAykT0dIh9eVOG7hk880RCrzCEdpFtiMDvkxQcdNfNDjeMn7ar4M0MrVp/wzz1UKxORvE9mA7/LHBiR/L65AbtHJwUMP8aJGkxQLE215+Ay5nSFKKFvEtfSHO6iAubwrQKbYniWdx/PMnflEDs9eZyA6NKwQqevJ8rZLvYHyjJJibsA==;6+1k0FFdqlWT3BV1AkgVTA=="
+secured: "QzRCkMfl52s3Bl6Xp1xNq9iYa0c0D5H53VLZrTFCVRX9bn8LS1dneiVCAe0nLHSb9yGSUxW3y7Vg13kXIypYAF+Z7Q6djLlTmduZLCRXlDL6l3Oiy2W+AvQ/wxxsBFs1S49s5R+bwvu2TD6k6UHGf+VJHZjjcBcrlTV2LXRJnuH71T5BFDfOCHQIhtYS/Yov/i1cApyo8gekExWPGr5gIUPFjQzYqCqWF2tCHhT5ejZzA1utWMD8HBQX8Vmi6cG5i8CB0apFsVbRcL6+T51/WRNiER17y8W2uFjgTUwIjFCUC1qta18k/2GRdwYI+ze5XRaQmWi9gVgpQE4zoHEwD0gxg+FsbrHfJ0Hethj7WB+FV+oPqldQl9jkU7moikxMQj77Ui1ZXVUGNBZQkPZ0bNTwKsaGsvxSuQlKsgX8qvFayXuzq634YpbGY8ZXDD1T68FQ39gvxvYckxguaJiASkpAXmw+dTAz/L3ChnTjzZF7EbEwkM1O3v6abUUK5wM1h7XAui6eVTnIyPEid6l7ww==;LqyhH9h8BW0zGLH96Sl2xg=="
 ---
 

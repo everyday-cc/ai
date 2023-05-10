@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/timbajarin/2023/05/09/the-critical-need
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/timbajarin/2023/05/09/the-critical-need-to-identify-ai-generated-content/amp/"
 type: article
 quality: 87
-heat: 147
+heat: 157
 published: true
 
 provider:
@@ -57,6 +57,22 @@ related:
       - url: "https://assets.thehansindia.com/h-upload/2023/05/06/1350055-ai.jpg"
         width: 1200
         height: 720
+        isCached: true
+  - title: "Three questions business leaders need to ask to get the most out of generative AI"
+    excerpt: "How to bridge the gap between admiration and implementation of AI? Pedro Arellano has three priorities to guide you."
+    publishedDateTime: 2023-05-09T15:11:00Z
+    webUrl: "https://diginomica.com/three-questions-business-leaders-need-ask-get-most-out-generative-ai"
+    ampWebUrl: "https://diginomica.com/three-questions-business-leaders-need-ask-get-most-out-generative-ai?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/three-questions-business-leaders-need-ask-get-most-out-generative-ai?amp"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 54
+    images:
+      - url: "https://diginomica.com/sites/default/files/images/2023-05/Shutterstock_2285573277.png"
+        width: 740
+        height: 450
         isCached: true
   - title: "Artificial intelligence identifies new anti-aging compounds"
     excerpt: "This research result is a significant milestone for both longevity research and the application of artificial intelligence to drug discovery,” said co-lead author Felix Wong, the co-founder of Integrated Biosciences."

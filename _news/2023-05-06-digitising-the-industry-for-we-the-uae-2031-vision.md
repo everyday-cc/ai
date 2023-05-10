@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1106189598/Digitising-The-Industry-For-We-The-U
 webUrl: "https://menafn.com/1106189598/Digitising-The-Industry-For-We-The-UAE-2031-Vision"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 600
     height: 337
     isCached: true
-
-related:
-  - title: "Digitising the industry for 'We The UAE 2031' vision"
-    excerpt: "In November 2022, the UAE released 'We The UAE 2031', the national plan for the next decade, which concentrates on the overall development in economy, society,"
-    publishedDateTime: 2023-05-05T09:03:00Z
-    webUrl: "https://www.khaleejtimes.com/uae/digitising-the-industry-for-we-the-uae-2031-vision"
-    ampWebUrl: "https://www.khaleejtimes.com/uae/digitising-the-industry-for-we-the-uae-2031-vision?amp=1"
-    cdnAmpWebUrl: "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/uae/digitising-the-industry-for-we-the-uae-2031-vision?amp=1"
-    type: article
-    provider:
-      name: Khaleej Times
-      domain: khaleejtimes.com
-    quality: 44
-    images:
-      - url: "https://image.khaleejtimes.com?uuid=bfd6f570-b5fa-5829-9056-6eded32c6eda&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.99956&x=0&y=0&width=1200&height=675"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "SeNslB/KiVAQhxl9rDWa0d0ZJykDwJoZXFquFoYhAmtnlc4BwKTRDPiuwOhpIzs5u6akV2kmEDWy2IpUuwaoGb6guXgJENZ6zPgVlwqv8YiaoHImfS9fU13z7OeMWDGlN+uR9gIhKXxkHARje8lmm2gyrs+un8TSzpV+v9NNgWxorsvgMVzRKnSxC7zuW6NwB9IehEweoWdBWfAD5PV70W8kLZYCaGeoUN5OhsXLya0Ui4u+Ddk+e9HTNKLVY3MW/Rqy4M4hUdVR2C+c28ArTBkFM5Ay5BHx0ihu7KRmttJ1aUV1wZhWltSVhpVTrw5WGaoD2B0TkFb2pbx5tjAVtcEl5aZUTfHC1GpxWEtJ6ZyioSdxCFUyfjYKrKwc3b5sIfyS597wZRCVip7tjq1aWrbsNF+pjrwFTf31zrgTRoSLMMeGjUGNt0gTSpH8dMf/CVEQFg7S5/kECTAXsJRif7sDei6arC846kNjvGczlHj1tMF0Srpmy93ezMVcT7bnfZNHUQGkPtN7imFrTqPlPA==;o8cVu33tysgs6HETMf0wgQ=="
 ---

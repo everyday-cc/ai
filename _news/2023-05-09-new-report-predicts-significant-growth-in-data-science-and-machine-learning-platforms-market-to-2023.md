@@ -66,20 +66,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 64
-  - title: "Machine Learning (ML) Platforms Market Overview 2023 to 2030, Future Trends and Industry Forecast | Palantier, MathWorks, Alteryx"
-    excerpt: "Platforms Market report gives information about current market patterns, difficulties, and open doors. The examination examiners and industry specialists work cooperatively to offer a top to bottom knowledge into the ongoing business sector situations."
-    publishedDateTime: 2023-05-05T11:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-ml-platforms-market-overview-2023-to-2030-future-trends-and-industry-forecast-palantier-mathworks-alteryx-2023-05-05"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 55
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "2023 \"Data Science and Machine-Learning Platforms Market\" Modern Trends and Future Growth Insights 2030 | 122 Pages Report"
     excerpt: "Global \"Data Science and Machine-Learning Platforms Market\" research report provides Innovative Insights on the Strategies adopted by Major Global Players [Domino Data Lab, Dataiku, Lexalytics, TIBCO Software,"
     publishedDateTime: 2023-05-05T16:47:00Z

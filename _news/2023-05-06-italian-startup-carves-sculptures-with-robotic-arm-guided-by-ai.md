@@ -7,7 +7,7 @@ originalUrl: "https://interestingengineering.com/innovation/italian-startup-carv
 webUrl: "https://interestingengineering.com/innovation/italian-startup-carves-sculptures-with-robotic-arm"
 type: article
 quality: 54
-heat: -1
+heat: 64
 published: false
 
 provider:
@@ -25,20 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "From Michelangelo to robots: This startup is carving a new era of sculpture"
-    excerpt: "An Italian startup aims to carve a new era of sculpture, where robotic chisels and AI deliver unprecedented speed, accuracy, and innovation."
-    publishedDateTime: 2023-05-05T08:33:00Z
-    webUrl: "https://thenextweb.com/news/from-michelangelo-to-robots-startup-is-carving-new-era-of-sculpture"
+  - title: "Spider-like robotic AI arms can be attached to and controlled by humans"
+    excerpt: "A Japanese robotics company called Jizai Arms has engineered a system of supernumerary robotic limbs consisting of six arms that can be worn and controlled by the user."
+    publishedDateTime: 2023-05-07T17:14:00Z
+    webUrl: "https://interestingengineering.com/innovation/ai-arms-controlled-by-humans"
     type: article
     provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 67
-    images:
-      - url: "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F05%2FUntitled-design-1-1.jpg&signature=55aa3c4b4413c21a9d7d47e03e7e2628"
-        width: 1280
-        height: 640
-        isCached: true
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 34
 
 secured: "4t5Db6Ya5A7PQ9c+QL8qUmu4DlBWHR5sX11uSfaydI5/GMsmyRnVZry3R/yC3G8f7rknmPZpOnFGLKp/nrwKTEAcnbnYa0yr3X3h3bB7YLZtYJLRUn0C/REMezSjR2gWg4FEmX5PS/Jwsha6k7Hopo8KgCS6X7nV9x6rtQPLFATSMF28bpTFXX9QdpCh4BYCQnOfBC/WHUe8CUPY+YNLTZl3Ih47kbHu/PYl5nkLQdaA7UKsK6/u6TZHx9CzB35OLBoYRiStyPKQtp44eMcAofw8CdAPf14o5FilXqQh9Z53DeKYgSGk0dDvWaq51jeOXjZFv2W2gqAjQgXSOs6mFbr5oXTJrQT7Yz+1emmPvkvp492uNoY2XDN+RJCrG2hC1kbxa+KENu6qwGgIbvN0rQeDgSpwK/DcNJjprRv1Phji3Vvc+ldM9LmChpiOIW3kWIuCf0hipqEZPHrOjxfQLIjMHqDK3QZpq5WLc/g2v4vR0u915wJm7Ji6lZs52ttb3aawzbYmunkAbuFTIp1YEg==;ypmfySAW0fDmuqMbBaVXVw=="
 ---

@@ -71,20 +71,6 @@ related:
         width: 2640
         height: 1320
         isCached: true
-  - title: "Biden-Harris administration announces initiatives for responsible AI innovation"
-    excerpt: "VP Harris meets with tech CEOs and major AI companies commit to independent evaluation at DEF CON 31. #NewsismyBusiness"
-    publishedDateTime: 2023-05-05T09:04:00Z
-    webUrl: "https://newsismybusiness.com/biden-harris-administration-announces-initiatives-for-responsible-ai-innovation/"
-    type: article
-    provider:
-      name: Business
-      domain: newsismybusiness.com
-    quality: 35
-    images:
-      - url: "https://newsismybusiness.com/wp-content/uploads/2023/05/dreamstime_m_51454298-394x218.jpg"
-        width: 394
-        height: 218
-        isCached: true
   - title: "IBM Unveils All-In-One AI Integration Tool"
     excerpt: "Blue-chip tech name IBM (NYSE:IBM) today launched WatsonX, a new, all-in-one artificial intelligence (AI) tool that will help companies with their AI integration. This announcement comes roughly 15 months after IBM sold its Watson Health unit to Francisco Partners."
     publishedDateTime: 2023-05-09T12:50:00Z

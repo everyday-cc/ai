@@ -2,13 +2,11 @@
 category: news
 title: "Microsoft Work Trend Index: AI will work alongside employees"
 excerpt: "Artificial intelligence could enhance, not replace, jobs, Microsoft says. But AI still needs human input and emotional intelligence."
-publishedDateTime: 2023-05-09T23:47:00Z
-originalUrl: "https://www.techrepublic.com/article/microsoft-work-trend-index-artificial-intelligence-2/"
-webUrl: "https://www.techrepublic.com/article/microsoft-work-trend-index-artificial-intelligence-2/"
-ampWebUrl: "https://www.techrepublic.com/article/microsoft-work-trend-index-artificial-intelligence/amp/"
-cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/microsoft-work-trend-index-artificial-intelligence/amp/"
+publishedDateTime: 2023-05-09T23:50:00Z
+originalUrl: "https://www.techrepublic.com/article/microsoft-work-trend-index-artificial-intelligence/"
+webUrl: "https://www.techrepublic.com/article/microsoft-work-trend-index-artificial-intelligence/"
 type: article
-quality: 104
+quality: 64
 heat: -1
 published: false
 
@@ -23,12 +21,6 @@ provider:
 topics:
   - AI
   - Microsoft AI
-
-images:
-  - url: "https://www.techrepublic.com/wp-content/uploads/2022/09/tr-edge-ai1.jpeg"
-    width: 794
-    height: 585
-    isCached: true
 
 related:
   - title: "Microsoft Is Helping Finance AMD’s Expansion Into AI Chips"
@@ -93,20 +85,6 @@ related:
         width: 2560
         height: 1440
         isCached: true
-  - title: "Nowhere is safe from AI: Microsoft and AMD team up to develop new AI chips"
-    excerpt: "It’s no secret that AI is the tech hardware industry’s current hot commodity; everybody wants to make some cash off the burgeoning popularity of machine learning tools such as ChatGPT and Google Bard. Nvidia is leading the AI charge, with its high-end processors already being used to train and run a variety of chatbots."
-    publishedDateTime: 2023-05-05T11:02:00Z
-    webUrl: "https://www.techradar.com/news/nowhere-is-safe-from-ai-microsoft-and-amd-team-up-to-develop-new-ai-chips"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 99
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/YWTUDHCxwGDtAPvDVoHYjU-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Microsoft and AMD Working On AI Chips – DTH"
     excerpt: "Microsoft and AMD reportedly started working together on AI chips, Warner Brothers Discovery expects its streaming business to turn a profit this year, and the Court of Justice of the European"
     publishedDateTime: 2023-05-05T15:24:00Z
@@ -122,22 +100,6 @@ related:
       - url: "https://i0.wp.com/dailytechnewsshow.com/wp-content/uploads/2019/11/cropped-DTNS-CoverArt-New-1400-x-1400-1.png?fit=512%2C512&ssl=1"
         width: 512
         height: 512
-        isCached: true
-  - title: "Microsoft reportedly working with AMD on AI chips to counter Nvidia"
-    excerpt: "Citing people with knowledge of the situation, a report by Bloomberg said that Microsoft will help boost AMD’s supply of in-demand parts. The report added that Microsoft will provide support, including engineering resources and working with the chipmaker on a homegrown Microsoft processor for AI workloads,"
-    publishedDateTime: 2023-05-05T09:45:00Z
-    webUrl: "https://www.gadgetsnow.com/tech-news/microsoft-reportedly-working-with-amd-on-ai-chips-to-counter-nvidia/articleshow/100010691.cms"
-    ampWebUrl: "https://www.gadgetsnow.com/tech-news/microsoft-reportedly-working-with-amd-on-ai-chips-to-counter-nvidia/amp_articleshow/100010691.cms"
-    cdnAmpWebUrl: "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/microsoft-reportedly-working-with-amd-on-ai-chips-to-counter-nvidia/amp_articleshow/100010691.cms"
-    type: article
-    provider:
-      name: Gadgets Now
-      domain: gadgetsnow.com
-    quality: 91
-    images:
-      - url: "https://static.toiimg.com/thumb/resizemode-4,msid-100010691,imgsize-34682,width-800/100010691.jpg"
-        width: 800
-        height: 600
         isCached: true
   - title: "Microsoft’s Big AI Push Could Power Its Cloud Past AWS. Here’s Why."
     excerpt: "Bernstein analyst Mark Moerdler thinks artificial intelligence could drive huge growth at Microsoft—more than most investors expect."
@@ -238,6 +200,22 @@ related:
         width: 472
         height: 315
         isCached: true
+  - title: "Microsoft, Oracle Reportedly Discussed Sharing AI Servers Amid Global Shortage"
+    excerpt: "Miracle and Oracle appear to be preparing for a potential shortage of their own servers, and an agreement to share servers may help ease the problem."
+    publishedDateTime: 2023-05-10T05:41:00Z
+    webUrl: "https://www.ibtimes.com/microsoft-oracle-reportedly-discussed-sharing-ai-servers-amid-global-shortage-3692198"
+    ampWebUrl: "https://www.ibtimes.com/microsoft-oracle-reportedly-discussed-sharing-ai-servers-amid-global-shortage-3692198?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/microsoft-oracle-reportedly-discussed-sharing-ai-servers-amid-global-shortage-3692198?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 70
+    images:
+      - url: "https://d.ibtimes.com/en/full/4450269/illustration-shows-microsoft-azure-cloud-service-logo.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "MakeMyTrip collaborates with Microsoft to reshape the website with generative AI"
     excerpt: "As per the company, the new in-platform tech stack will converse with the user to offer personalized travel recommendations"
     publishedDateTime: 2023-05-08T08:53:00Z
@@ -323,6 +301,15 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "AI in Social Media Market to Witness Growth Acceleration | Google, Facebook, Microsoft"
+    excerpt: "The global AI in Social Media Market is expected to Expand at a significant CAGR of +28% during the Forecasting Period of 2023-2029. A2Z Market Research announces the release of AI in Social Media Market research report."
+    publishedDateTime: 2023-05-09T14:33:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-social-media-market-to-witness-growth-acceleration-google-facebook-microsoft-2023-05-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 58
   - title: "70% of employees are happy to delegate work to AI, according to new Microsoft report"
     excerpt: "According to the survey, while 49% of respondents expressed fear of losing their jobs to AI, 70% stated that they would delegate as much work as possible to AI in order to reduce their workload."
     publishedDateTime: 2023-05-09T13:00:00Z
@@ -341,20 +328,6 @@ related:
       name: The Buffalo News
       domain: buffalonews.com
     quality: 57
-  - title: "Microsoft backs AMD's move into AI"
-    excerpt: "Creating an Athena chip Software King of the World Microsoft is helping finance AMD's expansion into AI chips. Meanwhile, AMD is working with Microsoft to create an in-house chipset, codenamed Athena,"
-    publishedDateTime: 2023-05-05T10:02:00Z
-    webUrl: "https://www.fudzilla.com/news/ai/56834-microsoft-backs-amd-s-move-into-ai"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 56
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/0d06de05483591230fa07b7f78f1fe9d_L.jpg"
-        width: 620
-        height: 465
-        isCached: true
   - title: "Microsoft And AMD Team Up To Make AI Processors"
     excerpt: "Software giant Microsoft Corp. is working with the chipmaker Advanced Micro Devices Inc. (AMD) to jointly develop a new artificial intelligence (AI)"
     publishedDateTime: 2023-05-05T17:38:00Z
@@ -443,15 +416,6 @@ related:
       name: Finextra
       domain: finextra.com
     quality: 49
-  - title: "Privacy-Preserving Computation Market Size, Growing Demand and Trends 2023 to 2030 |Basebit.ai, Google Cloud, Microsoft Azure, IBM Cloud"
-    excerpt: "The Privacy-Preserving Computation Market research studies not only save you hours of effort but also give your"
-    publishedDateTime: 2023-05-05T08:53:00Z
-    webUrl: "https://www.marketwatch.com/press-release/privacy-preserving-computation-market-size-growing-demand-and-trends-2023-to-2030-basebitai-google-cloud-microsoft-azure-ibm-cloud-2023-05-05"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 46
   - title: "Makemytrip Collaborates With Microsoft To Reshape The Travel Booking Landscape With Generative AI"
     excerpt: "In a landmark move, MakeMyTrip has collaborated with Microsoft to make travel planning more inclusive and accessible by intro"
     publishedDateTime: 2023-05-08T10:37:00Z
@@ -561,6 +525,6 @@ related:
       domain: timesnownews.com
     quality: 17
 
-secured: "Lt8KIpTmXqUvii5b/sy9k0bJE9G7++zyn1l6GtKi+q9Nxvi5Iwo2hj0zpSxqv8FEx39EqoNvQoWb6A8tafltj0itdIgMJz4/z5NyKLaacifh6ge8+hlT1IutJwPmiDHiz94M9mQLJ5PJUW9nCyupL0HwMsmXLsejSSX2wjw+bWeHezo4xnYJehtOVB+Gr/h/LttaaQ7pUbGSymSCEnXTQx01IFLr42eJimJpy0qO2bLrRyjfIzqadrJYg0hZ9lWB8efLrYB+WhDtu7+SKQ46TkDiTGLdjk1fC/T/Dfl5IjFy2qMCHD1388ctT62h/1lUAEb1jTDOn3aKbxQLp2tutOe3sKdrOsyuXCwNLNdN3d4=;Y7xZZgXVQANq2sBiikzEIg=="
+secured: "0Eymavfx0JMy+U28mIm4bNgwk+lVa+QyDv53D9AKE7O9Iy6jFhN0Pty00T0rFmD1zpDkQ+HqfDlJgQ+v1z3vYxi0SM4cdVyDephUmM54iTGdcz/4E+6sGoTm9eqdGdW95EVyn8TX6PsG2jK3bE9rleCB+q1D5XLpOv8fYARPDIQDLazZSNj2P7Qp3HqiDuau3jIEe05MVR5dofWysSJyCKQBrMMHhNk3lNarxVKItu/Q9Fk9Sws6eV3CmP9+zKLXfb5kGN0jsxzO1irKGWpClll+wvjr1B/rfEZimJK0bdRzL2+FKy05/Rdmw3iAH6ciQIcJ6I7QQSRY6o3ragVO1NJ+S2zDR7Wsr/4TU1Rq9ps9Z/MBFLkjhWKMdM5zZie7Z7HPTCgfqUzmmRB66p4xNrD/fxiWvtKsF6tojIMQUhpm12BG3SbI8uuZOIFx9ZQLArJsjj2nmqq+44dTaZ+q1RYgDoKEkFZomsfWnTooNgDO5utJ94ZCVD/bUZDt/YQ7w1QL+lK6Fqdehv5HEF6J9g==;XLLJk5hgLYxD37iz1jzVZQ=="
 ---
 

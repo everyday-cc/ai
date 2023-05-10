@@ -39,6 +39,24 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "ThoughtSpot focuses on simplifying analytics with AI at Beyond 2023"
+    excerpt: "ThoughtSpot today announced new AI-driven features, including an AI assistant called Sage, to simplify data analytics for enterprises."
+    publishedDateTime: 2023-05-09T21:37:00Z
+    webUrl: "https://venturebeat.com/enterprise-analytics/thoughtspot-focuses-on-simplifying-analytics-with-ai-at-beyond-2023/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 47
+  - title: "New Survey Finds Financial Leaders Investing in Analytics, AI and Machine Learning Tools as They Navigate Economic Uncertainty in 2023"
+    excerpt: "OneStream Software, a leader in corporate performance management (CPM) solutions for the world’s leading enterprises, published its Enterprise Financial Decision-Makers Outlook – April 2023 semi-annual survey."
+    publishedDateTime: 2023-05-09T13:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/new-survey-finds-financial-leaders-investing-in-analytics-ai-and-machine-learning-tools-as-they-navigate-economic-uncertainty-in-2023-2023-05-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 34
 
 secured: "1UvTZCIjHpAiQbPh4lPfENRPhi8DyxK3wxxsSsaBZ+jF1qQaNKMWeHEM3fvGJOWHnJGzJvgVBsLxhjIeSgThA8l0YDYD3KprlGN5s3gStag15uCdIO2GVzEO5oS615QBQP8zxzvWQInScCPv9kyOYWaqcn4LDf03ePgr5BdqY9dOXkmerdqtKk2l1qO3yZ7Pf/My2A95WvUJbQznYrdxGkRS8dG/eb5oq7F94AlnQCCr0tOyf8P6q1uNMO0do93CIZiNlpLFueb7JhEsSdxPBdd+/qsfrFIINSTJQqaJqj6y606gtzbXqqlRKuDKd/rmAtV+QMNkRAbiT2wTr2qn9pF8/QaL3Ode0DF1GKdGODLSIhGuWIp3glL1hWle/Br9JmALJUTOn3W58bar3g7Pj8iygqiXJ7vfzVtpvzoWPgWFh2VIlCZQEf8av4sez4dYSMuCE8JqemNh9dd3rxbJxBIJQ0z5+28Kg3lO4lILA9gt0kmobFOJiC5CBbYTIyhz+zSDqSgXYmgaHONCoMUtHA==;B87J325WkIHsBrfW0WLPBQ=="
 ---

@@ -56,6 +56,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "SWOT Analysis of the Autonomous or Driverless Cars Market Include Top Manufacturers Analysis 2023-2030"
+    excerpt: "Pre and Post-Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and"
+    publishedDateTime: 2023-05-09T18:52:00Z
+    webUrl: "https://www.marketwatch.com/press-release/swot-analysis-of-the-autonomous-or-driverless-cars-market-include-top-manufacturers-analysis-2023-2030-2023-05-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 53
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "zAEejaq2tIC3NtCKfd9EfETdfwbrscUTsXQWw8riNTB2FhMz6aNy7I+ytdRuV17KIVxpmnoaLHunmH0Cvg1rJv1EYvkHa9uHZHYdgEG/C9IMZecNR8n9yQYNWjrNI6pBUfegbBMSW8Ym3pjUkn+MGBVrXiQquYXJHprZ9zedzONB103TW/7/wet/1kOHpmgjO7dFj+bVQsLsgezyCspvQZnS5McCe8lUvel5wMa7hmW6EOywZSXAbXiIFOz1AkCxcQmFYUf/oVvcb9vMTpow1zdW3D/joZXzGUyvU55yTCQ1Zrumhb8xVGxSQ7ktl1Ncxkf79mmvzN0Yq9npMhNpCCiX9+F+Oej71bFtdIxE59k=;JZ28ulE+KecJfYdFPUY1pw=="
 ---

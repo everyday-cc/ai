@@ -95,20 +95,6 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 47
-  - title: "Writers vs AI bots is more than a Hollywood drama"
-    excerpt: "They moved to hiring writers on short-term contracts to develop new dramas in what are known as “mini-rooms”; these are disbanded before the show is commissioned. This approach not only pays writers less and limits residuals, but means they do not gain practical experience on productions; they must find themselves another mini-room project instead."
-    publishedDateTime: 2023-05-05T11:06:00Z
-    webUrl: "https://www.ft.com/content/576e1f4c-0c39-4fd6-8952-dece96248fe6"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 37
-    images:
-      - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/comment.jpg"
-        width: 619
-        height: 377
-        isCached: true
   - title: "Writers vs. robots: Hollywood moved toward automation long before AI"
     excerpt: "In the franchise era, viewers and studios alike favor formula over creativity—the exact sort of stuff that’s easiest for AI to write, unfortunately for writers."
     publishedDateTime: 2023-05-09T06:01:00Z

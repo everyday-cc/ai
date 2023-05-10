@@ -71,15 +71,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 40
-  - title: "What should investors know about AI?"
-    excerpt: "Rather than having human logic, he said ChatGPT can be better described as hyper-scale pattern recognition. One instance of how AI is already being used in the business is through chatbots like those constructed on extensive language models. The main point of consideration for investors is if AI finally hit an economic climax."
-    publishedDateTime: 2023-05-05T12:43:00Z
-    webUrl: "https://www.wealthprofessional.ca/news/industry-news/what-should-investors-know-about-ai/375705"
-    type: article
-    provider:
-      name: wealthprofessional.ca
-      domain: wealthprofessional.ca
-    quality: 19
 
 secured: "TLgS7YIw4n+MVGXIEJtpaMV7gI4oyQ3epFoREJeiwoHcn99bCdzzC7jD+S521tJ0xmHAHoRrekPIa4jRsqVYEUpWV+G3g6/X4HyJwli+pbFWgS1YQWdrKRJM92f0yONp6lIhIlt7f9tN50nNFjmv2gtk1b3Ll5+YOemDEBhsctlQo3Q1OeSYoNo8EDv/x0rliCPynr8guxx18GX6WwLR87xG17LyoV/+VmBgvzu0cFBLixRj2H/MGl6tmFAJGWeUY6WpxfTN6O31TskkvpFFUthaTtqrrdUzkLKThkhlUxZqIkG7KZGYWdXnm80/WVZaHAbQBe4LJ9xjKaN66sDipXHwhBVYJGNhsMAr5xMCwukzNoKCJn8DMhrM4AJQaJSXW/06OJgQrkfw8M5U8GayDrflPdtZfKJVviGGSnq1h9odJOddCpoPy7rMi0QIlz/tNI6Ky/Fieq842u4YvOucJTZVFvT+hLV9ozlJJH1I15BSl/dSPtTY9SzZAy2aQd6k4NG0UDnBjPk21QW4+pg9fw==;+uJCTxXhf+fslyRteUDQ+A=="
 ---

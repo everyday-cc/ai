@@ -2,6 +2,214 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2023-04-28-unicef-and-partners-using-artificial-intelligence-to-fight-dengue.md",
+      "title": "Unicef And Partners Using Artificial Intelligence To Fight Dengue",
+      "excerpt": "As the climate changes, mosquito-borne diseases are on the rise. Members of UNICEF's Innovation and Climate teams are working with partners to create AI models that can predict and prevent future outbreaks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/unicefusa/2023/04/28/unicef-and-partners-using-artificial-intelligence-to-fight-dengue/",
+      "originalUrl": "https://www.forbes.com/sites/unicefusa/2023/04/28/unicef-and-partners-using-artificial-intelligence-to-fight-dengue/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/644bf73c134f548d73f1e352/0x0.jpg?format=jpg&width=1200",
+          "width": 700,
+          "height": 467,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/unicefusa/2023/04/28/unicef-and-partners-using-artificial-intelligence-to-fight-dengue/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/unicefusa/2023/04/28/unicef-and-partners-using-artificial-intelligence-to-fight-dengue/amp/",
+      "publishedDateTime": "2023-04-28T09:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-28-artificial-intelligence-delivery-robot-market-growth-by-2031.md",
+      "title": "Artificial Intelligence Delivery Robot Market Growth by 2031",
+      "excerpt": "The latest market research report on the Global \"Artificial Intelligence Delivery Robot Market\" is segmented by",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-delivery-robot-market-growth-by-2031-2023-04-28",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-delivery-robot-market-growth-by-2031-2023-04-28",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-28T09:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-04-28-rsa-conference-2023-ushers-in-the-age-of-artificial-intelligence.md",
+      "title": "RSA Conference 2023 Ushers In The Age Of Artificial Intelligence",
+      "excerpt": "Vice President, Security, Carriers and Enterprise Networking, Will Townsend, shares his insights into what he found most compelling at RSA Conference 2023.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/moorinsights/2023/04/28/rsa-conference-2023-ushers-in-the-age-of-artificial-intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/moorinsights/2023/04/28/rsa-conference-2023-ushers-in-the-age-of-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/644bf598b7ad555c305df357/0x0.jpg?format=jpg&crop=802,450,x0,y0,safe&width=1200",
+          "width": 802,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2023/04/28/rsa-conference-2023-ushers-in-the-age-of-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/04/28/rsa-conference-2023-ushers-in-the-age-of-artificial-intelligence/amp/",
+      "publishedDateTime": "2023-04-28T09:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-28-facial-recognition-market-report-by-2023-2030.md",
+      "title": "Facial Recognition Market | Report By 2023-2030",
+      "excerpt": "Top “ Facial Recognition Market ” Size 2023 Key players Profiled in the Report are [, Neurotechnology, Nviso, Cognitec Systems, Daon, NEC, Techno Brain, Idemia, Animetrics, 3M, Facefirst Inc., Ayonix,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-report-by-2023-2030-2023-04-28",
+      "originalUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-report-by-2023-2030-2023-04-28",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-28T09:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-28-self-driving-ai-lab-awarded-200m-grant-to-pursue-new-drugs-materials.md",
       "title": "‘Self-driving’ AI lab awarded $200M grant to pursue new drugs, materials",
       "excerpt": "A “self-driving lab” that’s using artificial intelligence (AI) to reverse engineer how to make things like new medicines, sustainable plastic alternatives and anti-corrosive building ...",
@@ -976,195 +1184,6 @@
         "AI in Robotics",
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-28-ai-adoption-versatility-and-how-companies-can-confront-skill-gaps.md",
-      "title": "AI Adoption, Versatility And How Companies Can Confront Skill Gaps",
-      "excerpt": "Data is the lifeblood of businesses today. Both data science and data analysis are essential tools for understanding the world around us. Data helps organizations make better decisions, understand customer’s needs,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/28/ai-adoption-versatility-and-how-can-companies-confront-skill-gaps/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/28/ai-adoption-versatility-and-how-can-companies-confront-skill-gaps/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/644a7801230d12e6fdbfa396/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/28/ai-adoption-versatility-and-how-can-companies-confront-skill-gaps/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/04/28/ai-adoption-versatility-and-how-can-companies-confront-skill-gaps/amp/",
-      "publishedDateTime": "2023-04-28T03:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-28-top-taiwan-chip-designer-mediatek-rapidly-shifts-focus-to-autos-ai.md",
-      "title": "Top Taiwan Chip Designer MediaTek 'Rapidly' Shifts Focus to Autos, AI",
-      "excerpt": "Top Taiwan Chip Designer MediaTek 'Rapidly' Shifts Focus to Autos, AI By Sarah Wu TAIPEI (Reuters) - Taiwan's top chip design company MediaTek is focusing more resources on chips for cars and AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.usnews.com/news/technology/articles/2023-04-28/top-taiwan-chip-designer-mediatek-rapidly-shifts-focus-to-autos-ai",
-      "originalUrl": "https://www.usnews.com/news/technology/articles/2023-04-28/top-taiwan-chip-designer-mediatek-rapidly-shifts-focus-to-autos-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-28T03:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-28-built-world-ai-start-ups-lead-investments-overtake-fintech-and-marketing.md",
-      "title": "Built-world AI start-ups lead investments overtake FinTech and marketing",
-      "excerpt": "Generative AI models may attract the most attention in realms like marketing automation and financial technology. But a recent analysis by A/O PropTech reports that investments in built-world AI start-ups are growing faster both in terms of the volume and value of investments.",
-      "sourceUrl": null,
-      "webUrl": "https://diginomica.com/built-world-ai-start-ups-lead-investments-overtake-fintech-and-marketing",
-      "originalUrl": "https://diginomica.com/built-world-ai-start-ups-lead-investments-overtake-fintech-and-marketing",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://diginomica.com/sites/default/files/images/2022-11/Shutterstock_1068480284.png",
-          "width": 740,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://diginomica.com/built-world-ai-start-ups-lead-investments-overtake-fintech-and-marketing?amp",
-      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/built-world-ai-start-ups-lead-investments-overtake-fintech-and-marketing?amp",
-      "publishedDateTime": "2023-04-28T03:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Diginomica",
-        "domain": "diginomica.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2023-04-28-big-apartment-landlords-lean-in-to-ai-and-proptechs-as-profit-squeezes-loom.md",
-      "title": "Big apartment landlords lean in to AI and proptechs as profit squeezes loom",
-      "excerpt": "Rising interest rates have turned multifamily buildings from surefire income into an accounting problem. Proptechs are stepping up.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/apartment-landlords-tap-money-saving-proptech-profit-squeeze-2023-4",
-      "originalUrl": "https://www.businessinsider.com/apartment-landlords-tap-money-saving-proptech-profit-squeeze-2023-4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/644acb53edc7ea00183318cf?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-28T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

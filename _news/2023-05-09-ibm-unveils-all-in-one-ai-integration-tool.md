@@ -66,20 +66,6 @@ related:
         width: 2640
         height: 1320
         isCached: true
-  - title: "Biden-Harris administration announces initiatives for responsible AI innovation"
-    excerpt: "VP Harris meets with tech CEOs and major AI companies commit to independent evaluation at DEF CON 31. #NewsismyBusiness"
-    publishedDateTime: 2023-05-05T09:04:00Z
-    webUrl: "https://newsismybusiness.com/biden-harris-administration-announces-initiatives-for-responsible-ai-innovation/"
-    type: article
-    provider:
-      name: Business
-      domain: newsismybusiness.com
-    quality: 35
-    images:
-      - url: "https://newsismybusiness.com/wp-content/uploads/2023/05/dreamstime_m_51454298-394x218.jpg"
-        width: 394
-        height: 218
-        isCached: true
   - title: "SAS accelerates responsible innovation efforts with new collaborations and a focus on trustworthy AI"
     excerpt: "The world has seen unprecedented artificial intelligence (AI) advances since AI and analytics company SAS launched its responsible innovation efforts one year ago. Amid this rapid disruption, SAS has increased efforts to bring trustworthy AI to customers,"
     publishedDateTime: 2023-05-09T16:56:00Z

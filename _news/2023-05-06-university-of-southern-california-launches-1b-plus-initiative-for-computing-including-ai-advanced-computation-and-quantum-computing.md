@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/university-of-sout
 webUrl: "https://markets.businessinsider.com/news/stocks/university-of-southern-california-launches-1b-plus-initiative-for-computing-including-ai-advanced-computation-and-quantum-computing-1032298479"
 type: article
 quality: 38
-heat: 38
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     width: 400
     height: 267
     isCached: true
+
+related:
+  - title: "AI Advancements In Tech And Education Revealed During Latest Earnings Calls"
+    excerpt: "Explore the AI plans of leading companies in tech and education, including recent innovations and regulatory concerns in AI technology."
+    publishedDateTime: 2023-05-05T20:16:00Z
+    webUrl: "https://www.searchenginejournal.com/ai-advancements-earnings-calls/486246/"
+    type: article
+    provider:
+      name: Searchenginejournal.com
+      domain: searchenginejournal.com
+    quality: 54
+    images:
+      - url: "https://www.searchenginejournal.com/wp-content/uploads/2023/05/tech-ai-developments-earnings-calls-64555cf66b977-sej-768x445.jpg"
+        width: 768
+        height: 445
+        isCached: true
 
 secured: "i7RQLurc9Wp84pbMjNAMtOcOXsMdm3NQDY1QylR/AVlkVoQGqMwaVxUHePfx4gznTQ7Gzr5Am5Nsmbri5KcIfA1bPelfkQItpgJbzxYl9SNJStVzU/mgM/MIHWR/7ML4a91MF1T0NuH+HoOwfjYptWJFoZGP08ONdASJq5cIZqsd2h/xrBRRILAAzWZUiq/B8bq5SDMXTrfAJXF3WbDTr3WrTJ7aeBxDiTXD+pX9RK07J7vSMI5ajdw1DHYKVXOEJrXZdDQii2cV8ck4/9HDZVO32ItDUfGticQoKKYWezex2JBQwysH6W+9Azzayd56zAnzNt3Bx6hFesQF4aRHSTtBTMXCsn80IBXgi4WWB+B+ydya6nWXAtSKFoWdEBlsc+ltZrC1Bgr//vuZaZIF38D0Gdmih45YH+EXt9MP/1I8fOUKtXFdM9FdWSdkcJshoVXaHPDhhA77ejkAtcIh+gfXot/QcDQNDllv7oF1ZUakMAZ51ZrneDJdnjNCGWTBc2xS/1a8EV9xpx3c9jTTEQ==;s/u9Kf2S425XngbHECNO/A=="
 ---

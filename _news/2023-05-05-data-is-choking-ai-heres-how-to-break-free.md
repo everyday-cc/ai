@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/data-is-choking-ai-heres-how-to-break-f
 webUrl: "https://venturebeat.com/ai/data-is-choking-ai-heres-how-to-break-free/"
 type: article
 quality: 49
-heat: -1
+heat: 49
 published: false
 
 provider:
@@ -23,54 +23,29 @@ topics:
   - AI
 
 related:
-  - title: "Generative AI brings new risks to everyone. Here's how you can stay safe"
-    excerpt: "Organizations have to figure out the potential implications of tapping generative artificial intelligence tools, such as ChatGPT, while consumers should consider how they establish digital engagement."
-    publishedDateTime: 2023-05-05T10:47:00Z
-    webUrl: "https://www.zdnet.com/article/generative-ai-brings-new-risks-to-everyone-heres-how-you-can-stay-safe/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/generative-ai-brings-new-risks-to-everyone-heres-how-you-can-stay-safe/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/generative-ai-brings-new-risks-to-everyone-heres-how-you-can-stay-safe/"
+  - title: "AI Is Coming for Your Web Browser. Here’s How to Use It"
+    excerpt: "Microsoft Edge and other browsers have baked in powerful tools to help you write emails, generate images, and more."
+    publishedDateTime: 2023-05-07T11:00:00Z
+    webUrl: "https://www.wired.com/story/ai-web-browser-microsoft-edge-how-to/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 88
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/e95cabc4c470648090df91010140d6c22b66acce/2023/05/04/dc3b0530-d40e-4fef-954e-de348e4bf9db/gettyimages-1201055987.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Slack’s New CEO Brings Generative AI to the Workplace Conversation"
-    excerpt: "Lidiane Jones, the new chief executive of Slack, is betting that the future of the messaging app—purchased by software giant Salesforce for $27.7 billion in 2020—will rest on the combination of their technologies using generative artificial intelligence."
-    publishedDateTime: 2023-05-05T08:30:00Z
-    webUrl: "https://www.wsj.com/articles/slacks-new-ceo-brings-generative-ai-to-the-workplace-conversation-af053233"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 67
-    images:
-      - url: "https://images.wsj.net/im-776333/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Why generative AI is more dangerous than you think"
-    excerpt: "The real short-term danger of generative AI isn't lost jobs or fake content but targeted generative ads and targeted conversational influence."
-    publishedDateTime: 2023-05-06T13:39:00Z
-    webUrl: "https://venturebeat.com/ai/why-generative-ai-is-more-dangerous-than-you-think/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
+      name: Wired
+      domain: wired.com
     quality: 47
-  - title: "There’s Still A Long Way To Go With Generative AI"
-    excerpt: "The tech world is awash with generative AI, which for a company like Nvidia, is a good thing. The company that a decade ago put its money down on AI to be"
-    publishedDateTime: 2023-05-05T13:54:00Z
-    webUrl: "https://www.nextplatform.com/2023/05/05/theres-still-a-long-way-to-go-with-generative-ai/"
+  - title: "Here’s how UPMC’s CTO is thinking about AI in healthcare, from sorting data to fielding questions"
+    excerpt: "Chris Carmody told Technical.ly the Pittsburgh healthcare system wants to apply artificial intelligence to make patients and health professionals’ lives easier."
+    publishedDateTime: 2023-05-08T14:00:00Z
+    webUrl: "https://technical.ly/software-development/upmc-ai-healthcare-chris-carmody/"
     type: article
     provider:
-      name: The Next Platform
-      domain: nextplatform.com
-    quality: 19
+      name: Technical
+      domain: technical.ly
+    quality: 41
+    images:
+      - url: "https://technical.ly/wp-content/uploads/2023/05/christian-carmody-hr.jpg"
+        width: 300
+        height: 300
+        isCached: true
 
 secured: "hKW46wxFOWTV/6TEQAyOFrTdOqfxdyOHk+dnZXjIzzE7e774MWDPL6Vw37Pr01en+6hEye3Y94pjnbyYTfzdvCMQFmuYJ8grg31AKTA/ECxo0lqxKkMiBrmJUrmJ2Rq4EHa1Nfsn1aUmSlqfKmAW45rH6HuzobubhQzgFEvxZru9aDY3dQ1hTbPFZcyrsd5NbKVj3n5Zflgt8qYnJblxavIuCXhdfEdAu0PAzeDB2QhR0D8XvN0ysSvu9mHwRauplakxJFVpLnJTGE7yyAE+GWBpB9HNW6rQagtYt5RAE+gMZRRQi5qROcZU0nBg1coI0M5FWF6EUkSeYnHMWA6atgLyzAQKzmaj+BYhUaYctGe3ZeCGEn+M4h6wLUaA9Sp1IO5IVEluUYbFGoEe8MdCboyNUesviufGF2xG9NPeDGlHl7c1OBxJpydYwuqm1R1lEDQd1ncl9zzjCMSafytuOkotXQLDEdNujb+jYTy2e0CLDgBd5b1rFT1rrX+BKnBKAt5O0muh1qNliAgb45w0rQ==;4IirLoNxWWOsqOj7v3jLXg=="
 ---

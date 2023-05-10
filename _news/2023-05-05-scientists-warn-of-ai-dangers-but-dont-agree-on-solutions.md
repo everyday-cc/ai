@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/scientists-warn-ai-dangers-a
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/scientists-warn-ai-dangers-agree-solutions-99051162"
 type: article
 quality: 59
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Neural network creator warns about AI dangers"
-    excerpt: "British-Canadian scientist Geoffrey Hinton warned humanity about the threats posed by artificial intelligence (AI). The creator of the"
-    publishedDateTime: 2023-05-05T10:30:00Z
-    webUrl: "https://www.sb.by/en/neural-network-creator-warns-about-ai-dangers.html"
-    type: article
-    provider:
-      name: sb.by
-      domain: www.sb.by
-    quality: 54
-    images:
-      - url: "https://www.sb.by/upload/content/og_image.jpg"
-        width: 900
-        height: 500
-        isCached: true
   - title: "DeepMind pioneer issues warning on dangers of AI autonomy"
     excerpt: "AI programs should not be taught how to improve themselves, according to a co-founder of the artificial intelligence research lab DeepMind. Mustafa Suleyman sa"
     publishedDateTime: 2023-05-08T23:01:00Z

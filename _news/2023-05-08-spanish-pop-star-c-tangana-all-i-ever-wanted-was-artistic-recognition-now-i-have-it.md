@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Spanish pop star C. Tangana: ‘All I ever wanted was artistic recognition. Now I have it’"
-    excerpt: "Onetime rapper Antón Álvarez Alfaro dramatically revamped his musical palette for 2021's global hit 'El Madrileño.' Next? A reissue of a classic trap mixtape."
-    publishedDateTime: 2023-05-05T13:00:00Z
-    webUrl: "https://www.latimes.com/entertainment-arts/music/story/2023-05-05/c-tangana-alvarez-avida-dollars"
-    type: article
-    provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 15
-    images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/daad803/2147483647/strip/true/crop/4500x2363+0+319/resize/1200x630!/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F87%2Fc2%2F3909fd0a49baac8d9c8e2d860e42%2F1215619-et-c-tangana-15.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Spanish pop star C. Tangana: 'All I ever wanted was artistic recognition. Now I have it'"
     excerpt: "Onetime rapper Antón Álvarez Alfaro dramatically revamped his musical palette for 2021's global hit 'El Madrileño.' Next? A reissue of a classic trap mixtape."
     publishedDateTime: 2023-05-05T17:10:00Z

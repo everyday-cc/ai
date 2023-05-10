@@ -43,6 +43,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Natural Language Processing (NLP) Software Market"
+    excerpt: "Precision Reports has published a new report titled as \"Natural Language Processing (NLP) Software Market\" by End"
+    publishedDateTime: 2023-05-09T07:25:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-software-market-2023-05-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 64
 
 secured: "T+wBcGgPoUGhVYOVatQvQdlm7KxwZRa8RBlBEsBzmpjGY+2wxg3h5H7Hvv8XW5DAeOjWpK6M7xB9xddC0EVyKWg4/kRjrLPqaW55jA/xNIpIHHBQSAtYb/eTKxllLIIOt5xspvkKAI5BCYfED8NuavZBsq9jBb/Lz5EDvu3uLb5yUHgZTcNlin5tBJVNuUMxegFN2RBRBR01XSbut2w3mgFCQVNxBwJXHxQHXlaAXczNpjrJLTnOvRyNRD69WIDHCwDV+TCGzIBA0hdIzlpMv1uUeXSOMAoqXt0JRHVWjRZAG/1vS2hNJlyAlVvtli5SVxCfkKXYvKEMW1Ke9W4W6CAE/hAH4vEVj/nU4twXqsw=;9846s4jFwuYzAthuDBaLow=="
 ---

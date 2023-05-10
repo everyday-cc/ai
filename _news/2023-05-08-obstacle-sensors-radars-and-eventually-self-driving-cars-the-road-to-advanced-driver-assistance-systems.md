@@ -29,8 +29,8 @@ images:
 related:
   - title: "Ferrari may eventually make an EV but it has zero interest in self-driving cars: ‘We don’t care’"
     excerpt: "But the Italian luxury auto company says it’s unlikely to ever cave to another major car trend: self-driving vehicles. The iconic supercar maker’s brand is to design sports cars that people want to drive themselves, and capitulating to self-driving ..."
-    publishedDateTime: 2023-05-09T21:37:00Z
-    webUrl: "https://fortune.com/2023/05/09/ferrari-wont-do-self-driving-car-ev/"
+    publishedDateTime: 2023-05-10T02:02:00Z
+    webUrl: "https://fortune.com/2023/05/09/ferrari-wont-do-self-driving-car-ev/?ref=biztoc.com"
     ampWebUrl: "https://fortune.com/2023/05/09/ferrari-wont-do-self-driving-car-ev/amp/"
     cdnAmpWebUrl: "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/2023/05/09/ferrari-wont-do-self-driving-car-ev/amp/"
     type: article
