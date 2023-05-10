@@ -35,20 +35,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "FinTech in Insurance Market Outlook and Forecast till 2030"
-    excerpt: "According to the \"FinTech in Insurance Market\" report, the technology sector is changing, and both established"
-    publishedDateTime: 2023-05-05T05:31:00Z
-    webUrl: "https://www.marketwatch.com/press-release/fintech-in-insurance-market-outlook-and-forecast-till-2030-2023-05-05"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "How Artificial Intelligence is Revolutionising the Fintech Landscape?"
     excerpt: "According to surveys, 2/3 of FinTech companies currently use AI technology in their activities to a greater or lesser extent. Its influence will increase. Last year, the worldwide market for AI solutions in the FinTech industry was assessed at roughly 9 billion USD;"
     publishedDateTime: 2023-05-08T17:05:00Z

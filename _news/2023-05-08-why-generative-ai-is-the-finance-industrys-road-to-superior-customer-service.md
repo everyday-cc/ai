@@ -7,7 +7,7 @@ originalUrl: "https://techcrunch.com/sponsor/nvidia-aws-company/why-generative-a
 webUrl: "https://techcrunch.com/sponsor/nvidia-aws-company/why-generative-ai-is-the-finance-industrys-road-to-superior-customer-service/"
 type: article
 quality: 83
-heat: 93
+heat: 103
 published: true
 
 provider:
@@ -39,6 +39,20 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 25
+  - title: "Learning from the Past: Why Dismissing Generative AI Is a Risky Proposition for the Legal Industry"
+    excerpt: "While reflecting before moving forward with transformative technology is prudent, we should not allow resistance to change to exert undue influence on the decision to explore the benefits generative AI brings to the legal field."
+    publishedDateTime: 2023-05-09T22:35:00Z
+    webUrl: "https://www.law.com/legaltechnews/2023/05/09/learning-from-the-past-why-dismissing-generative-ai-is-a-risky-proposition-for-the-legal-industry/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 25
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/05/AI-future-technologie-767x633.jpg"
+        width: 767
+        height: 633
+        isCached: true
 
 secured: "Wo2TrTMyBx6DxZ242SA02ypn9GVgcgs36LtYGOZI8VJSRG4qwh/bz8awA/LVstSkto+aHufnifuvo4B1pbAfkhOywP65tnd3GNUeekdYPT8TOe4fbl2/U6MeNVF04qT5dub/I7zk1tfSnvetK4s6NKAhCNbADylO0TeE6A8a8WI8/yX+uDbRxKbEncdLXU0AAM2W76zLQnvc5AocayDRCoM7L/hwJ2wfoEQyupA2joVZnfKL2xaPk7k2twWtK+Sjrm8IAk42x8O1mOud1egWw2bdAhfbcDssSzFc+OXENpFLx19bPOo648yIFvBqjoWQa+MKbVv1qOhM7a74w/32OPbaOHwUL7/imi1nFrYMAxyCZgkKrhYf7lK8OrV8Z+K7AMzqKq9oeAouRyDGY4HuhgR5CzEI3PIiT/kjerrMEnqDT+c0H4guVQCkeZThD+7Wrs/F9z11lHawumuwLwTGO8nZG+XfVvDF6fKsBVosRTKA8HN3KAUX0Z9ZjICKrZ0yLaPPP3owDrCM4P2AO0OT3g==;FStkPhQ8m3+SW0sIyejuJA=="
 ---

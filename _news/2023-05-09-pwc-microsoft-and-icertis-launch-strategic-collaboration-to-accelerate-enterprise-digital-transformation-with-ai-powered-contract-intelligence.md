@@ -2,9 +2,9 @@
 category: news
 title: "PwC, Microsoft and Icertis launch strategic collaboration to accelerate enterprise digital transformation with AI-powered contract intelligence"
 excerpt: "PwC, Microsoft and Icertis today formally announced a new strategic collaboration that will provide C-suites with a powerful, innovative AI-driven approach to contract management that enables accelerated enterprise-level digital transformation."
-publishedDateTime: 2023-05-09T09:52:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-pwc-microsoft-icertis-launch-strategic-collaboration-accelerate-enterprise-/2023/05/09/9809823.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-pwc-microsoft-icertis-launch-strategic-collaboration-accelerate-enterprise-/2023/05/09/9809823.htm"
+publishedDateTime: 2023-05-09T08:16:00Z
+originalUrl: "https://technews.tmcnet.com/news/2023/05/09/9809823.htm"
+webUrl: "https://technews.tmcnet.com/news/2023/05/09/9809823.htm"
 type: article
 quality: 18
 heat: -1
@@ -56,6 +56,22 @@ related:
       - url: "https://www.techrepublic.com/wp-content/uploads/2023/02/microsoft-bing-openai-gguy.jpeg"
         width: 1400
         height: 934
+        isCached: true
+  - title: "Microsoft Work Trend Index: AI will work alongside employees"
+    excerpt: "Artificial intelligence could enhance, not replace, jobs, Microsoft says. But AI still needs human input and emotional intelligence."
+    publishedDateTime: 2023-05-09T23:47:00Z
+    webUrl: "https://www.techrepublic.com/article/microsoft-work-trend-index-artificial-intelligence-2/"
+    ampWebUrl: "https://www.techrepublic.com/article/microsoft-work-trend-index-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/microsoft-work-trend-index-artificial-intelligence/amp/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 104
+    images:
+      - url: "https://www.techrepublic.com/wp-content/uploads/2022/09/tr-edge-ai1.jpeg"
+        width: 794
+        height: 585
         isCached: true
   - title: "Critics take aim at Biden’s AI meeting with CEOs from Google, OpenAI, Microsoft"
     excerpt: "On Thursday, President Joe Biden held a meeting at the White House with CEOs of leading AI companies, including Google, Microsoft, OpenAI, and Anthropic,"
@@ -405,15 +421,6 @@ related:
         width: 900
         height: 550
         isCached: true
-  - title: "Microsoft working with AMD on AI chips"
-    excerpt: "The companies are teaming up to offer an alternative to Nvidia, which dominates the market for AI-capable chips called graphics processing units, said the people, who asked not to be identified because the matter is private."
-    publishedDateTime: 2023-05-05T05:54:00Z
-    webUrl: "https://mybroadband.co.za/news/software/490193-microsoft-working-with-amd-on-ai-chips.html"
-    type: article
-    provider:
-      name: MyBroadband
-      domain: mybroadband.co.za
-    quality: 51
   - title: "MakeMyTrip introduces Microsoft AI to make travel more inclusive, accessible"
     excerpt: "MakeMyTrip introduces Microsoft AI to make travel more inclusive, accessible - Leading online travel company MakeMyTrip said it has collaborated with Microsoft to make travel planning"
     publishedDateTime: 2023-05-08T11:37:00Z
@@ -550,6 +557,6 @@ related:
       domain: timesnownews.com
     quality: 17
 
-secured: "7S4Y7b/IraPC17/U9gifcytiTTDFFVaSWBEg0cgHAC/ob+UAYcoH3q87qiYP//55ZjieThcGn+cSl/ng4NugG2poqNPuz79PjYPNqco5CinQKDwJTWPv/+Dx66KAox7bGZ5MW65FwG72sgJgeDVA3UcWph6yl/UeGVSpYqkHyvcdlrTjQIZHTMrhIApLoKbQg7zTGuVG9k4eTzekz3JQCRDiyNXhR89/xbM4fb8zE5eTlMBY7dazQ/ZNg6joQTcii2L7wRA3ijaMHi99Ci7ZhtmLEXhET5bwIMTuUk97xSZhg94Sb9DimHdpkf5cNarZJxlnr45wZaaKwQvTP8GAhcQsX1KooRCcca0boSqAi3Sc6QQX5kSQB5MmRBIaAP/tg4cyOTjCjbhviOERN0FjDKT0Bsx1KBHkbtv6jY+BpALW1rTm2G0ZdZQ3D6/HjkVVyHaMLAhDl8qmcs6rEp+l4ozTYS2l3lJsWqyWN6ST1E4mZz1qQ8f4Ur0HJzu8ANettSWxDEtrvSWzRAeh0RdpXQ==;6ag2x/lLBVTgGBhhFlBBGA=="
+secured: "Y5eTu8EYziHdlHB+QsjJSmqd6Ht4un3CCUykxRWqRdCsQVrLeGuO1ltYW4DGBeVfIN416DlaHskEukhRNLBsmtuGoQP3te8A4kpWBPTzxQB7WAVEzrFMfpBJdtvpJvXeAmTwXsaF7Wx6O9SHwNljaThM07m57eEyXFjGIuM5Vg38Noy7Us0ZXcDYuE4U3dEPA1+jyUbaoGvZj+65tAnzxUD9ry6m6NZE7sS6twhxQPqA6W0GEFVjQ7Cq4esEMOu0mVZcSP/wbnwkCsxxg7K6XXsVi8ujxvWAUzWEZLDle6HAVXCIe96NrX33Y+Q8XJT3yTD3UrKj1sDrl8seZjpikJvI+0aM+iWQPLA1xCoiY9A=;vKztgQQKL/qNcJQ8p87TYg=="
 ---
 

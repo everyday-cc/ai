@@ -71,6 +71,20 @@ related:
         width: 959
         height: 477
         isCached: true
+  - title: "Announcing provisioned concurrency for Amazon SageMaker Serverless Inference"
+    excerpt: "Amazon SageMaker Serverless Inference allows you to serve model inference requests in real time without having to explicitly provision compute instances or configure scaling policies to handle traffic variations. You can let AWS handle the undifferentiated heavy lifting of managing the underlying infrastructure"
+    publishedDateTime: 2023-05-09T22:26:59Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/announcing-provisioned-concurrency-for-amazon-sagemaker-serverless-inference/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 86
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/05/09/provisioned-concurrency-1260x630.jpg"
+        width: 1260
+        height: 630
+        isCached: true
 
 secured: "ceLvckaNQcOmnOPLhGjE2JUf7Gvnh867QqVnK8ZBiydy0AKTQbd2ffr5+81/hKBv4GPbVQdxpoEH6MNE2vEmnX/M+e36XOmJiYJCRHKWAxV2CqiDWX3GORdmQDag/696cf7S/sOjkMFiiJx3nFJ8Utc+Vo58iK3So9bP2vINZWwMgEYYmMC2xVRIrGobpamNWZm6OmLDrHmUk4F8l2CTRU1u1AkT/D83ZY293b5e790qaLUpZcofayyI0VrtXhClbA7LPwVbdc41TJHS2uTx+CJKesCLCtI0ckBZApL7Zjsc4JEc2xIqqFciwNjGDf/3U5A78sysU9lKwH+B6cHLvJopP6Vvnt/EenxFdNU2kUQ=;jg2+KFgpCUyqU7V1n4SZ6g=="
 ---

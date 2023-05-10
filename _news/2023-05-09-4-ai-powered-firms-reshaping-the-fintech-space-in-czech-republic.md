@@ -35,20 +35,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "FinTech in Insurance Market Outlook and Forecast till 2030"
-    excerpt: "According to the \"FinTech in Insurance Market\" report, the technology sector is changing, and both established"
-    publishedDateTime: 2023-05-05T05:31:00Z
-    webUrl: "https://www.marketwatch.com/press-release/fintech-in-insurance-market-outlook-and-forecast-till-2030-2023-05-05"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence: Fintech Trovata Launches Generative AI Finance, Treasury Tool"
     excerpt: "Trovata, which claims to be the global \"leader\" in bank APIs, recently announced the first generative AI entrant in the fintech space."
     publishedDateTime: 2023-05-05T18:52:00Z

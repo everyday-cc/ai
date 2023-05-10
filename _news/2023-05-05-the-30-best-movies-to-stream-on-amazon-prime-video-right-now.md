@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Amazon promo codes for May 2023"
-    excerpt: "Amazon Prime is Amazon’s subscription service which gives you access to loads of great benefits. Firstly, there’s free same-day, one-day, and two-day shipping. You can also enjoy services like ..."
-    publishedDateTime: 2023-05-05T06:33:00Z
-    webUrl: "https://www.pcgamer.com/coupons/amazon.com/"
-    type: article
-    provider:
-      name: PC Gamer
-      domain: pcgamer.com
-    quality: 24
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/kYQT2Yb9WkTYgHGhpZqEeb-1200-80.png"
-        width: 800
-        height: 450
-        isCached: true
 
 secured: "uISpUUX5OW6kh7rGWhYLRwwautYbTdHvLsFw+QlJ4u4hUQHsKlmAFUdDJwQ9u+hYCON8+Sih2NUir05L8E/gHopZDHgmT6rIqMW8ipzdgk8MjaLZO98ezHg2yYJktYa9aorUMS+fhp08Z5G0kkEy3HmVktuMIcU3T3ZwUnLR2BlfOed25tIjs2vVFgNz3z9QcDMaUb2i593eXwHCaG8RRxehXKncB11IFIwDTpUdME/EqOJOIc5kz2JXooaZra5yQTX7y3Dkpo58Hv8UD2JpqzYfbNOy4gvUqQIPCtMfhGO5U0WDwqNFJhj8WeRZV0jYvjuiNDP4xFrW9yvzsdaIcwe+S/KSSyF6jK9vjDOIRgo=;6tdr/N+mKQgq9sqs0FOUXA=="
 ---

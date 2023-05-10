@@ -183,15 +183,6 @@ related:
         width: 624
         height: 328
         isCached: true
-  - title: "SAP to Embed IBM Watson AI into SAP Solutions"
-    excerpt: "SAP SE announced that IBM Watson technology will be embedded into SAP solutions to provide new AI-driven insights and automation."
-    publishedDateTime: 2023-05-05T06:38:00Z
-    webUrl: "https://www.ciol.com/sap-to-embed-ibm-watson-ai-into-sap-solutions/"
-    type: article
-    provider:
-      name: CIOL
-      domain: ciol.com
-    quality: 34
   - title: "IBM joins the AI race with WatsonX; will 'multiply impact' of artificial intelligence across businesses"
     excerpt: "IBM, on Tuesday, announced its new WatsonX platform, which is an all-in-one AI building and integration tool for businesses. The iconic American multinational corporation, International Business Machines Corps (IBM) dipped its toes into artificial intelligence more than 10 years ago."
     publishedDateTime: 2023-05-09T13:18:00Z

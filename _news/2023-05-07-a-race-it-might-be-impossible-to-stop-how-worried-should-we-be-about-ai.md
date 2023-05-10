@@ -62,6 +62,15 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "I asked ChatGPT, Bing, and Bard what worries them. Google's AI went Terminator on me"
+    excerpt: "Just to be clear: this is not science fiction. Chatbots might have some worries that might, in turn, worry us just a bit."
+    publishedDateTime: 2023-05-08T17:14:00Z
+    webUrl: "https://www.zdnet.com/article/i-asked-chatgpt-bing-and-bard-what-worries-them-googles-ai-went-terminator-on-me/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 40
   - title: "What should investors know about AI?"
     excerpt: "Rather than having human logic, he said ChatGPT can be better described as hyper-scale pattern recognition. One instance of how AI is already being used in the business is through chatbots like those constructed on extensive language models. The main point of consideration for investors is if AI finally hit an economic climax."
     publishedDateTime: 2023-05-05T12:43:00Z

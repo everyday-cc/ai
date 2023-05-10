@@ -51,6 +51,22 @@ related:
         width: 1400
         height: 934
         isCached: true
+  - title: "Microsoft Work Trend Index: AI will work alongside employees"
+    excerpt: "Artificial intelligence could enhance, not replace, jobs, Microsoft says. But AI still needs human input and emotional intelligence."
+    publishedDateTime: 2023-05-09T23:47:00Z
+    webUrl: "https://www.techrepublic.com/article/microsoft-work-trend-index-artificial-intelligence-2/"
+    ampWebUrl: "https://www.techrepublic.com/article/microsoft-work-trend-index-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/microsoft-work-trend-index-artificial-intelligence/amp/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 104
+    images:
+      - url: "https://www.techrepublic.com/wp-content/uploads/2022/09/tr-edge-ai1.jpeg"
+        width: 794
+        height: 585
+        isCached: true
   - title: "Critics take aim at Biden’s AI meeting with CEOs from Google, OpenAI, Microsoft"
     excerpt: "On Thursday, President Joe Biden held a meeting at the White House with CEOs of leading AI companies, including Google, Microsoft, OpenAI, and Anthropic,"
     publishedDateTime: 2023-05-05T21:29:00Z
@@ -399,15 +415,6 @@ related:
         width: 900
         height: 550
         isCached: true
-  - title: "Microsoft working with AMD on AI chips"
-    excerpt: "The companies are teaming up to offer an alternative to Nvidia, which dominates the market for AI-capable chips called graphics processing units, said the people, who asked not to be identified because the matter is private."
-    publishedDateTime: 2023-05-05T05:54:00Z
-    webUrl: "https://mybroadband.co.za/news/software/490193-microsoft-working-with-amd-on-ai-chips.html"
-    type: article
-    provider:
-      name: MyBroadband
-      domain: mybroadband.co.za
-    quality: 51
   - title: "MakeMyTrip introduces Microsoft AI to make travel more inclusive, accessible"
     excerpt: "MakeMyTrip introduces Microsoft AI to make travel more inclusive, accessible - Leading online travel company MakeMyTrip said it has collaborated with Microsoft to make travel planning"
     publishedDateTime: 2023-05-08T11:37:00Z
@@ -527,8 +534,8 @@ related:
     quality: 27
   - title: "PwC, Microsoft and Icertis launch strategic collaboration to accelerate enterprise digital transformation with AI-powered contract intelligence"
     excerpt: "PwC, Microsoft and Icertis today formally announced a new strategic collaboration that will provide C-suites with a powerful, innovative AI-driven approach to contract management that enables accelerated enterprise-level digital transformation."
-    publishedDateTime: 2023-05-09T09:52:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-pwc-microsoft-icertis-launch-strategic-collaboration-accelerate-enterprise-/2023/05/09/9809823.htm"
+    publishedDateTime: 2023-05-09T08:16:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/05/09/9809823.htm"
     type: article
     provider:
       name: TMCnet

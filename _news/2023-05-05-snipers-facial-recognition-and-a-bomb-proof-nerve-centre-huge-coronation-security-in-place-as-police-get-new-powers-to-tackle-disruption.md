@@ -9,7 +9,7 @@ ampWebUrl: "https://news.sky.com/story/amp/police-given-greater-powers-to-tackle
 cdnAmpWebUrl: "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/police-given-greater-powers-to-tackle-coronation-disruption-but-buckingham-palace-arrest-highlights-security-concerns-12871816"
 type: article
 quality: 42
-heat: 42
+heat: -1
 published: false
 
 provider:
@@ -28,15 +28,22 @@ images:
     isCached: true
 
 related:
-  - title: "Protesters eye Coronation of King Charles III — and facial recognition eyes them"
-    excerpt: "It’s apparent that a coronation is ripe territory for the convergence of righteous convictions, from the progressive to the fanatical, writes."
-    publishedDateTime: 2023-05-05T09:00:00Z
-    webUrl: "https://www.thestar.com/opinion/2023/05/05/protesters-eye-coronation-of-king-charles-iii-and-facial-recognition-eyes-them.html"
+  - title: "Rs 88 crore cyber centre to use facial recognition tech"
+    excerpt: "The Rs 88-crore Centre for Cyber Operations and Security (CenCOPS) will have facilities like facial recognition system (FRS), a training lab with a ca"
+    publishedDateTime: 2023-05-09T23:24:00Z
+    webUrl: "https://timesofindia.indiatimes.com/city/chandigarh/rs-88-crore-cyber-centre-to-use-facial-recognition-tech/articleshow/100114510.cms"
+    ampWebUrl: "https://m.timesofindia.com/city/chandigarh/rs-88-crore-cyber-centre-to-use-facial-recognition-tech/amp_articleshow/100114510.cms"
+    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/chandigarh/rs-88-crore-cyber-centre-to-use-facial-recognition-tech/amp_articleshow/100114510.cms"
     type: article
     provider:
-      name: Toronto Star
-      domain: thestar.com
-    quality: 14
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        width: 1070
+        height: 579
+        isCached: true
 
 secured: "MSgsaS8GkAQZrggFwwiiNs+lOVl4mdenT5dWS2bAvfDOF0Sir71ct0Migv6TToN2RYWV6Ll6rEeby0SvVPf8Z1cgj0gItXfnkhyYVa3+p9Wky2wWAUHNeNAJfejxBURoli1krnB+Te3CaFIWN9HuMLiQptZwExaofe5nLGDls2JrQgqeTgpPjgIMg4O4pFjvbpLV9QFkP/zWlZTITBMs1gJUd+laL3iZuYH7r4WvXwmOzEwSMCn6QOe233Kt3cVDElS0PLJksxUiw2KmsSONwnVgy6haLrMgX1DC5o8uLXs4Uhv0LVZNNVT+b65uMVMcdXp+k0/FV3w8GkFnuwOXX44ETj9soRBC7W5GfwX/Cq0=;edKCSz9y5BgZLuAdjYB83Q=="
 ---

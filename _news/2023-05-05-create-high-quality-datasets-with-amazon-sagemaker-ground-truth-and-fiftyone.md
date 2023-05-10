@@ -57,6 +57,20 @@ related:
         width: 1260
         height: 630
         isCached: true
+  - title: "Announcing provisioned concurrency for Amazon SageMaker Serverless Inference"
+    excerpt: "Amazon SageMaker Serverless Inference allows you to serve model inference requests in real time without having to explicitly provision compute instances or configure scaling policies to handle traffic variations. You can let AWS handle the undifferentiated heavy lifting of managing the underlying infrastructure"
+    publishedDateTime: 2023-05-09T22:26:59Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/announcing-provisioned-concurrency-for-amazon-sagemaker-serverless-inference/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 86
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/05/09/provisioned-concurrency-1260x630.jpg"
+        width: 1260
+        height: 630
+        isCached: true
   - title: "Accelerate protein structure prediction with the ESMFold language model on Amazon SageMaker"
     excerpt: "Proteins drive many biological processes, such as enzyme activity, molecular transport, and cellular support. The three-dimensional structure of a protein provides insight into its function and how it interacts with other biomolecules. Experimental methods to determine protein structure, such as X-ray"
     publishedDateTime: 2023-05-09T16:30:30Z

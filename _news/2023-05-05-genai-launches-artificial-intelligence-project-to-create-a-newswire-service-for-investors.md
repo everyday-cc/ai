@@ -33,6 +33,20 @@ related:
         width: 1200
         height: 633
         isCached: true
+  - title: "Learning from the Past: Why Dismissing Generative AI Is a Risky Proposition for the Legal Industry"
+    excerpt: "While reflecting before moving forward with transformative technology is prudent, we should not allow resistance to change to exert undue influence on the decision to explore the benefits generative AI brings to the legal field."
+    publishedDateTime: 2023-05-09T22:35:00Z
+    webUrl: "https://www.law.com/legaltechnews/2023/05/09/learning-from-the-past-why-dismissing-generative-ai-is-a-risky-proposition-for-the-legal-industry/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 25
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/05/AI-future-technologie-767x633.jpg"
+        width: 767
+        height: 633
+        isCached: true
 
 secured: "yeJbyXf3NA0Ww9AEVo/B/2A71PrsDQa+xe0iradbgfotOm8M+s8PZbBvUqjOhPPYeihB02O2C3m/i/OjHttasCkOzqnHc7i8Xg+yORZmxxfGCQmupdogUjx15pmeL3nSumb43m1HCUFlsNEsvqvMK5IHaf7nJJ5dwYvXaLvayG7pCLSMsuM39vRZ4TA197rstNvKxdU9Pzo/dULViVfho0R8G8eaLwcWmQzoX1bjZhOajljhjmkvEJT78+/srWUCVy9CZO78j6pXUcbs9e79nV6XVwm/V8NmAneMSeRsaJs6kkW/wn/Kcx5iuIr2lY94ASWpBYg3PC1w7HIgB6IUYd8TdBuccRvOJe08QBvDwnc3J8fqNW/SoKz27zGb5H9yoUsziF8t4/eR9m61VnaFLpwLIPQJNRnDsqEs4o/Hb2hi0T2DOmQ5EFb86Jp6c4p//wugZdBDvGtiZNZBO3ZTbdctZ+kkbwcLmWdMbF5byyGySat/VYNca0VIJu4VI0PEmzF6JOZOnXwBiZQ2X9g/+w==;G802tgSz0LA97lyuHpxBGw=="
 ---

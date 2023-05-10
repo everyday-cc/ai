@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/anthropic-releases-ai-constitution-to-pro
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/anthropic-releases-ai-constitution-to-promote-ethical-behavior-and-development/amp/"
 type: article
 quality: 100
-heat: 130
+heat: 140
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI gains “values” with Anthropic’s new Constitutional AI chatbot approach"
+    excerpt: "AI startup Anthropic detailed the specific principles of its \"Constitutional AI\" training approach that provides its Claude chatbot with explicit \"values.\" It aims to address concerns about transparency,"
+    publishedDateTime: 2023-05-09T21:16:00Z
+    webUrl: "https://arstechnica.com/information-technology/2023/05/ai-with-a-moral-compass-anthropic-outlines-constitutional-ai-in-its-claude-chatbot/?ref=upstract.com"
+    ampWebUrl: "https://arstechnica.com/information-technology/2023/05/ai-with-a-moral-compass-anthropic-outlines-constitutional-ai-in-its-claude-chatbot/?ref=upstract.com&amp"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/05/ai-with-a-moral-compass-anthropic-outlines-constitutional-ai-in-its-claude-chatbot/?ref=upstract.com&amp"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 86
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/05/anthropic_constitution_2-800x450.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "AI with a moral compass? Anthropic outlines “Constitutional AI” in its Claude chatbot"
     excerpt: "AI startup Anthropic detailed the specific principles of its \"Constitutional AI\" training approach that provides its Claude chatbot with explicit \"values.\" It aims to address concerns about transparency,"
     publishedDateTime: 2023-05-09T21:16:00Z

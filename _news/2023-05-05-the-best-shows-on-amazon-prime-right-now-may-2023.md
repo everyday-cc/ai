@@ -47,20 +47,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Amazon promo codes for May 2023"
-    excerpt: "Amazon Prime is Amazon’s subscription service which gives you access to loads of great benefits. Firstly, there’s free same-day, one-day, and two-day shipping. You can also enjoy services like ..."
-    publishedDateTime: 2023-05-05T06:33:00Z
-    webUrl: "https://www.pcgamer.com/coupons/amazon.com/"
-    type: article
-    provider:
-      name: PC Gamer
-      domain: pcgamer.com
-    quality: 24
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/kYQT2Yb9WkTYgHGhpZqEeb-1200-80.png"
-        width: 800
-        height: 450
-        isCached: true
   - title: "The 30 Best Movies to Stream on Amazon Prime Video Right Now"
     excerpt: "New additions are indicated with an asterisk. Amazon has a little bit of everything on their streaming service, but they don’t have an interface that makes it particularly easy to find any of it."
     publishedDateTime: 2023-05-05T09:15:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/autonomous-or-driverless
 webUrl: "https://www.marketwatch.com/press-release/autonomous-or-driverless-cars-market-2023-2030-top-key-players-in-the-industry-are---tesla-volkswagen-nissan-volvo-2023-05-05"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Self-driving Bus Market Growing Demands, Trends and Business Outlook 2023 to 2029 with top Players – AV Volvo, Tesla, Navya"
-    excerpt: "The latest global Self-driving Bus Market report provides conclusive information about the industry overview, modern trends, demand, and recent development affecting the market growth during the upcoming year."
-    publishedDateTime: 2023-05-05T05:28:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-bus-market-growing-demands-trends-and-business-outlook-2023-to-2029-with-top-players-av-volvo-tesla-navya-2023-05-05"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 43
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "E2Xx0cif5RKpeTm46Dq98YshvsHdG+PCWLzTJm0GTP6w1yOtX0QWvOW3M83i8Dscc1IyQHoOivrMWFCXOk50lMEpidNIQ3eIByASDGfw8FtE9Ece8jtV1phIAmjMJdJ/O8+83fepqVvl8o6yBlbs4M3jjmvhztd355SBHOzbKiwCURde5LA52i/LuJZwN2EGWU0UvlCfr5RZYcU5W2KvVRgEs5Cc/WdacwA4oQzRvYlmH00fBMo+PXukB06r/ISCnvmX0N7/+OR6ZyQh9wg0SkUVXv7RwpjF2GqRRWhzbyWHVBuBLz/hPzCbASSOVsfmLTU6swxzj+p95BUhJntZl7SU+/hOO8c2WWPhjcZxBSU=;orshni0wYwF6kdd0aqJ9gA=="
 ---

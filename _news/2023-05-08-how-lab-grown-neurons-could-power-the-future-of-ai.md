@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Artificial intelligence is real care: the future of AI-driven medical schemes"
-    excerpt: "Although typically perceived as robotic and inhuman, it is important to understand that care sits at the heart of AI-driven health innovation. In simple terms, AI-driven systems can quickly analyse large amounts of data and generate insights that help inform healthcare decisions."
-    publishedDateTime: 2023-05-05T06:12:00Z
-    webUrl: "https://www.bizcommunity.com/Article/196/159/238033.html"
-    type: article
-    provider:
-      name: Bizcommunity
-      domain: bizcommunity.com
-    quality: 51
-    images:
-      - url: "https://biz-file.com/c/2305/696789-1200x624.jpg?2"
-        width: 1200
-        height: 624
-        isCached: true
   - title: "Death of an Author Prophesies the Future of AI Novels"
     excerpt: "Stephen Marche composed this novella with extensive input from large language models. It’s required reading for anyone who's thinking about doing the same."
     publishedDateTime: 2023-05-09T13:00:00Z

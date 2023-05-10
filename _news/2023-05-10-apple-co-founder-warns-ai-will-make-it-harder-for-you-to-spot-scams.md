@@ -30,37 +30,21 @@ images:
     isCached: true
 
 related:
-  - title: "Apple co-founder says AI may make scams harder to spot"
-    excerpt: "Apple co-founder, Steve Wozniak, has warned that artificial intelligence (AI) could make scams and misinformation harder to spot. Mr Wozniak says he fears the technology will be harnessed by \"bad actors\". Speaking to the BBC, he said AI content should be clearly labelled, and regulation was needed for the sector."
-    publishedDateTime: 2023-05-08T22:59:00Z
-    webUrl: "https://www.bbc.com/news/technology-65496150"
-    ampWebUrl: "https://www.bbc.com/news/technology-65496150.amp"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-65496150.amp"
+  - title: "Why AI Will Open Up New Career Opportunities For Young People"
+    excerpt: "Between the aging labor force and new technology like ChatGPT, the future looks bright for young people just launching their careers."
+    publishedDateTime: 2023-05-09T22:31:00Z
+    webUrl: "https://www.forbes.com/sites/markcperna/2023/05/09/why-ai-will-open-up-new-career-opportunities-for-young-people/"
+    ampWebUrl: "https://www.forbes.com/sites/markcperna/2023/05/09/why-ai-will-open-up-new-career-opportunities-for-young-people/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markcperna/2023/05/09/why-ai-will-open-up-new-career-opportunities-for-young-people/amp/"
     type: article
     provider:
-      name: BBC
-      domain: bbc.com
-    quality: 87
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/5834/production/_129608522_gettyimages-1423387395.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Apple co-founder warns AI could make it harder to spot scams"
-    excerpt: "Steve Wozniak says content created with artificial intelligence should be labelled and calls for regulation"
-    publishedDateTime: 2023-05-09T06:21:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/may/09/apple-co-founder-ai-scams-steve-wozniak-artificial-intelligence"
-    ampWebUrl: "https://amp.theguardian.com/technology/2023/may/09/apple-co-founder-ai-scams-steve-wozniak-artificial-intelligence"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/may/09/apple-co-founder-ai-scams-steve-wozniak-artificial-intelligence"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 57
-    images:
-      - url: "https://i.guim.co.uk/img/media/891cd476653ebbb0db34a7281c20657a1310f661/0_165_2600_1561/master/2600.jpg?width=620&quality=85&auto=format&fit=max&s=f0fd6ba67732c8106827dd297bc29281"
-        width: 620
-        height: 372
+      - url: "https://imageio.forbes.com/specials-images/imageserve/644d8f7506c6135340824e83/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 749
         isCached: true
 
 secured: "CvAatIjGmLizhLbfSBtiT5IKDgDVQlM7IE3pZItcgLoLXtXYXxNYrdFpOH8m0R+B7zQB2RUjYBRtD9HFUvn3kk8TL+Uq9FKxj0wEiSwe5QBEv3YJH/jIcNNPsFm+U6dwZHbCO7sBNwkYJoEKi0PDk/h7nIVCfNqHBTG5hUOsXJKKzg4uxQE69qumL74drG85rK4/5qH3XYNyQO7sDimsLuQmw6qmth1LSrHOms7oz/pRhH7WsSXncW8lsP3edhpSURjospUTf989cznk1dFoW9uJ6fArvQxzfAn5G7xz+xzLUBUN5LQMLeCKu4Yy3q0Yzqs1k275ubK/dA0NWYQAOtrpFuIQj4FP2YOw1+ySd+I=;Zi88lp1E0XvWHWbhFoGyOQ=="

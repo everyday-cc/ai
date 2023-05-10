@@ -24,19 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "Creating a Thai language AI tool"
-    excerpt: "Thai artificial intelligence (AI) engineers from public and private organisations have teamed up to develop a Thai-language generative AI-powered chatbot, expected to benefit several sectors from education to business."
-    publishedDateTime: 2023-05-07T23:43:00Z
-    webUrl: "https://www.bangkokpost.com/business/2565696/creating-a-thai-language-ai-tool"
+  - title: "Google Chrome Brings Better AI Brains to the Web"
+    excerpt: "With a technology called WebGPU, AI software to monitor your health or generate images could run in your browser instead of the cloud."
+    publishedDateTime: 2023-05-09T23:11:00Z
+    webUrl: "https://www.cnet.com/tech/computing/google-chrome-brings-better-ai-brains-to-the-web/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/google-chrome-brings-better-ai-brains-to-the-web/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/google-chrome-brings-better-ai-brains-to-the-web/"
     type: article
     provider:
-      name: Bangkok Post
-      domain: bangkokpost.com
-    quality: 41
+      name: CNET
+      domain: cnet.com
+    quality: 87
     images:
-      - url: "https://static.bangkokpost.com/media/content/dcx/2023/05/08/4747356_700.jpg"
-        width: 700
-        height: 468
+      - url: "https://www.cnet.com/a/img/resize/fccd854ab95eb0901bb9d795b1bd9e822ca897ad/hub/2019/05/09/9f2a88cf-2acc-4c04-b11e-03560e8d182f/20120314-google-chrome-lapel-pin-4sts-01.jpg?auto=webp"
+        width: 4048
+        height: 2391
         isCached: true
 
 secured: "F0xZGQiUJpH46hKjKW2EC5NAejq31lgsLqpDBXyCdpS8UYPd9kdE6WLB0Di9qeD2MSWgprtB1h6rR1duR75Z9j+ueguDGyZAqPc/vwfherYgrhnBVZ8S/Cebk//4y41WuVWma8wESG8JvKu4eHWTYhKF7uCXGxxuyQQexn8IyBi/8Ta4KnbRHInd76Aoz1YFbzB60mdAMKhVnczdh68hI07ioSc97syQJ71sSyZX7kAeAu6MExi0LYj7dXgIVTGSAotIn/rCvVnSR7T/kNyoRkdRZGJN1IWtW7U+FhE7NXXWhFzoZ9z8HCpmZ01yjQjdvIhunhpOcUk5lSj1d7PXIFXUkhb3EPjj6Eu7J5Lfu7txMVrPhDika3ZKazl05uxLgWb9f4C+xRhzTZbNqmAKW6ypFCGGaKmQUwTMye7QqaVJDypiy86DmN9C+vHnBP2c6HM1gYn3iOyiWTtV84zwq62xAV7J9qq0X75UZKe0bUpdvTbuf1RNS+HPEtShdyG9/y3mSPtv+RmVP8aR7+7/Jw==;vnvTrLb3HpCQ3nLI4Xuuag=="

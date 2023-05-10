@@ -46,6 +46,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI gains “values” with Anthropic’s new Constitutional AI chatbot approach"
+    excerpt: "AI startup Anthropic detailed the specific principles of its \"Constitutional AI\" training approach that provides its Claude chatbot with explicit \"values.\" It aims to address concerns about transparency,"
+    publishedDateTime: 2023-05-09T21:16:00Z
+    webUrl: "https://arstechnica.com/information-technology/2023/05/ai-with-a-moral-compass-anthropic-outlines-constitutional-ai-in-its-claude-chatbot/?ref=upstract.com"
+    ampWebUrl: "https://arstechnica.com/information-technology/2023/05/ai-with-a-moral-compass-anthropic-outlines-constitutional-ai-in-its-claude-chatbot/?ref=upstract.com&amp"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/05/ai-with-a-moral-compass-anthropic-outlines-constitutional-ai-in-its-claude-chatbot/?ref=upstract.com&amp"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 86
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/05/anthropic_constitution_2-800x450.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "A Radical Plan to Make AI Good, Not Evil"
     excerpt: "OpenAI competitor Anthropic says its Claude chatbot has a built-in “constitution” that can instill ethical principles and keep systems from going rogue."
     publishedDateTime: 2023-05-09T16:00:00Z
@@ -75,6 +91,6 @@ related:
         height: 628
         isCached: true
 
-secured: "FVdwcYT8QUkkM371lNwTbuuVfpIWN/YoRiSYv48LIVU43F9DekAQHLNfrSSzcar2oor+nWk9Nc332py3sglk4D28wRxaG0byLnkVRQ7KYEatW/PCa5DPIowurNPBFbvvjQBdjACEfy6pNuBVFg9JIcvJ2/u0OjhdPSryzyoo7HRqjTp0J+I1FcbcD8uAeoLEHmVeDESA/+Myt+AOgeqB2pgpXyYf15dVBuSNF48Swf77/sMXQV074DDOL8rc0Ad++Y6b1uyonfoYaUFNguX73N8HDX0fo1H8j+Rw9TyjBx2bJ2iGAySg4voqGoGSJx3ow+0Kb8TgBmB94t8CsniGfd61CWcuv1GttI2I+EQl/qg=;5vcP9m0jTzGWhnKEPha3Ig=="
+secured: "5ASySjx7ZOlLYdCpKsXoTcmBZUv6c965oHXOB1BIc/mfzBI/DIx5gJpowf4hxK7FHm3xXOJGRFtsgELAGjf6JyXe6Ax9gceweUKKW7qEAebnbcJVRIM+HwC7na/z4nv8kAJJcKGROQ/v/8r/RYWMMUFmfDM1sO1DDiU3pU6bYt2jzVmqY0hxuuFqDiysIjoIdtvLTCQDST4PUv1AXWDxbYZWTyS1uIiRyY8xtZgXTuYsSD7vDoaFeYr7tUt4ixwMSmMh/w1gpmxB3q9OVhNjFwksnYqZ6wRhdEYicBF+gdHrW6YPj+pPzxX+mfviQOwPe8QZDmh08snyyu6mgzZQXjAphzsr2P4P46C4OrdhSZ/EoIMO1GKz2fyPEH6mVrF2Kkbk9BIDf/4H3j21WVb16TBGEpU8P3HJgVZhrFJ3eAYLr04zTB6y3ppPXFBYjYw+cB26z0Ycfw4UM6JJb41SeCJ7jULN7jY0kkLCildqa6aOEicXmljfjGvYBkmks3GP/B8xrcFGkCpgtAIDI71Kag==;F96AQsrkre9Yv5rtWLRJKQ=="
 ---
 
