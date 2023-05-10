@@ -6,8 +6,8 @@ publishedDateTime: 2023-05-10T02:01:00Z
 originalUrl: "https://www.edweek.org/leadership/teachers-need-pd-on-artificial-intelligence-what-it-should-look-like/2023/04"
 webUrl: "https://www.edweek.org/leadership/teachers-need-pd-on-artificial-intelligence-what-it-should-look-like/2023/04"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://epe.brightspotcdn.com/dims4/default/abfefeb/2147483647/strip/true/crop/1720x1150+0+0/resize/942x630!/quality/90/?url=https%3A%2F%2Fepe-brightspot.s3.amazonaws.com%2F15%2F8d%2F3f24eb114899af5e7f75721aec41%2F050423-edtech-teacher-pd-fs-langreo.jpg"
@@ -23,6 +24,6 @@ images:
     height: 630
     isCached: true
 
-secured: "3o3dX3UwwyI94CDhKR/iZyYlJ2MAiIOzC5F2iR/m9o/70shTxrSJwrONETjLBEu7lTS81MEu1rA8SLqtarA7bVD8CUNL0RRnHT3MPTZsZgulmOVkoSriEtN/W3tDWaKQDo74nSo+caoRkn8nF4xTWPc/5Nd8ppe86ZNT2HuwVSzlJGbz7CRb7tkRbgIvcIOxl8B9PAYcISF2h/ECYLTF1nGg6se/krF7hB0HJzA8C4xeqQr1oNOTMIpVdhyAaxDOhfxfLFTUpOOz12qZNXA5c0zym9FkY2yrem6/9oLYimCG+mDsRdrONmdbgZSAzvmn0n8+T0Zab89DzT5pNfXUuQviw0GYXxENpMP2oVxb0nM=;+SWc+/VNy0lo39Ou9SavRg=="
+secured: "K73UjDXmQ3ZdhONHrioTuJtPk0b6+jt9VNCFrnqexkg5yE53EaOJ84lb6KIJVchMsIfZ4TbH+md/1H39n3Y38iMBE23UCQ0nMuijVP369CHyoYK71I6vcA4f6OZ2MGTdkwNKUlYvO0/KUl6gzlj3lSZDIoir3VzieV6lBpw/q846lcBscHV28+Hf+SiwXISQKK5BIR6OKXHwLK9XYZYcT7XVLW98smkEvXI+l2eK63/18A8MJtsSVvM8Vwc1xpnHtV/LhGwgEQtcMxFG2NSlO4XUQoadzWDTvnuys7cO2faLcPISEbjpYeOJvpJUJ0O+E/G74hvPbW1pRJu5abGChfIBby9PZ/MJ7JzzQdLVXC8CF3dsZcW7cRS4+qhWXrJ9yv0dDSMsFcRvc1Su2FhuERv3bDvso+JI18/BkrcYH9ULcbA+3RxCfKL0blmjayMUimGt6kbJkb9Z8JnNkKB2rKyx9moNGMHe0lr4GF/+w0vtFAHJcxzTXRfG6BZ0Xw5EY7G6OlP49zFCn1y29FL0BA==;nbigwEbdiQ5lcPI3pIQzLg=="
 ---
 

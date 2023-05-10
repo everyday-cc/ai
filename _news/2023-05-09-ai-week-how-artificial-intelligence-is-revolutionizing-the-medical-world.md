@@ -24,24 +24,22 @@ images:
     isCached: true
 
 related:
-  - title: "What the AI Revolution Really Means"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial intelligence – or AI – is the newest megatrend to burst"
-    publishedDateTime: 2023-05-06T19:01:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ai-is-bringing-a-profitable-revolution-to-all-sectors-1032299076"
+  - title: "15 Amazing Real-World Applications Of AI Everyone Should Know About"
+    excerpt: "The future is here, and it’s fueled by artificial intelligence. Read on to find out the top 15 real-world applications of AI that are redefining industries and impacting our daily lives in 2023."
+    publishedDateTime: 2023-05-10T06:51:00Z
+    webUrl: "https://www.forbes.com/sites/bernardmarr/2023/05/10/15-amazing-real-world-applications-of-ai-everyone-should-know-about/"
+    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/05/10/15-amazing-real-world-applications-of-ai-everyone-should-know-about/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/05/10/15-amazing-real-world-applications-of-ai-everyone-should-know-about/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
-  - title: "3 AI Stocks That Are Poised to Explode in 2023"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial Intelligence (or AI) is the latest and greatest buzzword on Wall"
-    publishedDateTime: 2023-05-09T15:38:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/3-ai-stocks-that-are-poised-to-explode-in-2023-1032307806"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/645b3eca0059191fb09c02fa/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 676
+        isCached: true
 
 secured: "M2W6iCnPUj6c6KOe3AwbKb7lIhdPBnw9/t1ku5q9bpw+75THMH0iZwRcXXC8ezvk8tgQ9a7604rYL2fG9djIV8PZj3xd5C94ZWqbB59SKGgqd9k/JhPGIvIoa7YbBapZ20K1F1VVUgIuapjP/eoMCHhTqttLpfaVRdjICjY2/tZGQAetsSzA03On8gEE6FYFShGL2eeIH+jfWoibhrNojBOnuBpvLHktdrFq9Mbxvf92faIFEfqxpIaaOSpG4hE8LrgBke5eCxKkUwzFjdp5BijDBFZsQrtPRyq8KwAw1Mc30891Gz7O3I5xXlf5idSkx8dlhxP8hGK2ueJ9RJg+vPHuAQRXL2mU/rF/xfiNep6JQrHp3Fp+0DDZQrfkqE+v7Zh1w/TBTGu3UkDeSXC0LGC9VQtYS73CLDPVGs3hveaHm5q7mIVt+VHNUjXp93Jk2cmBl8kG2OlZPv+X2GRbs+Q08oAPwExamv1G+dugsL5NFMd/V1lxwaf7tvpluXdV1XO90dqyJ5aXfWdY1z630w==;IeRNv8nDEicnXqmqjZ0kRg=="
 ---

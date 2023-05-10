@@ -55,20 +55,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "Preparing to Integrate Machine Learning and AI Into Pricing, Billing and Invoicing"
-    excerpt: "While AI's applications to back-office business operations like pricing, billing and invoicing may not be as flashy as AI-generated brief writing, they will be just as critical for the business of law firms."
-    publishedDateTime: 2023-05-05T13:54:00Z
-    webUrl: "https://www.law.com/legaltechnews/2023/05/05/preparing-to-integrate-machine-learning-and-ai-into-pricing-billing-and-invoicing/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 48
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/05/Law-Library-767x633.jpg"
-        width: 767
-        height: 633
-        isCached: true
   - title: "How AI is Changing the Manufacturing Industry"
     excerpt: "According to the 2020 MIT Technology Review Insights survey, manufacturing is the sector with the second-highest adoption of artificial intelligence. This comes as no surprise since AI can shift the industry paradigm and reinvent how companies handle all aspects of the manufacturing process."
     publishedDateTime: 2023-05-06T20:58:00Z

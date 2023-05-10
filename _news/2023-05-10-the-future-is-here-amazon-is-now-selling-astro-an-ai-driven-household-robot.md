@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/saibala/2023/05/09/the-future-is-here-amaz
 ampWebUrl: "https://www.forbes.com/sites/saibala/2023/05/09/the-future-is-here-amazon-is-now-selling-astro-an-ai-driven-household-robot/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/saibala/2023/05/09/the-future-is-here-amazon-is-now-selling-astro-an-ai-driven-household-robot/amp/"
 type: article
-quality: 101
-heat: 101
+quality: 103
+heat: 103
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AWS AI
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/645af7165cd3f9d25fb32fd0/0x0.jpg?format=jpg&crop=4983,2801,x0,y74,safe&width=1200"
@@ -30,6 +31,6 @@ images:
     height: 675
     isCached: true
 
-secured: "y67FbNW+0AqFwAwX4Alu2y+l+T6lfDpMzpaj2t7+lqHHl6uKNSpju541UNQpN2tpbqP1j1my0XEuXJdEX1AaAFbIeSLLB+3iIvP4TgPndHmytCtA/ReTuT+Kb4G8X8v8JdWa3gpREH0PkV6XpWurrNu4DSowsThR0TpeodxB7j4x3Ggk7dCAHP/pP+E40KVWduhj8/lVqaQO9McATn5w3hc4iU7fZua2YDC9criczRRl1aaspDbwJt6MX7hFnOHMl7Fv0kfY7sNuuNJS5ZKNpFbW2nEtIKD7hz+P5Zcia+IkPH+JGL/tTZ9fdl+Bt/zSJiRbQiKkBrGIJ/xSvGt+etWA6+RpT0Tj60CXdxin2iU=;XDklO3eXidGWRvdd7IlCMg=="
+secured: "db9CYVacGVEFEVkNs31hG7m6MKZcX8ljCDmvhdiM6VwokTlxi9uRkpd/cTAXJSsBovHHW0hSqzdXGMtZHwrChBHiVYfY0LMqYgJExyitaK5OxxsKMOOCkgrnqr1eUUtg9OdQuDt72Rw/DcXZYtpPso5DS8PVpgQOIyR1PkzOWhi3DLU6skHthed/PLyOpJJqh32TmmDmrLYKQ5Vx1VsLKjqz1QAGnAqsuXy13zMLnQanYz9498nrxSg9yeubNdirC7ln05vpftpzLqGVYzJVksAnnpNSJzkUKOzkaIrpPn+xtnuGluk52cB/R4lYs/GkpYlEjZgstn/YQ4US9xRSByQcR+OT8lWEQQxypx9LmvJnVQ5yKrkZffzkT12ddJ8nmCleOsRwaAyoBc7HQEsKfWDC7oUeQ1+MvnrHAhGeoQxadgHVUhGzYOPhoHy9BMlJmkYVf3FkKOShqg9YOppKtyzlR2O7Z4G2nIPvZffySIKIQ+Vc6J8iwNEW2mAnrjPRbfQ4+IGeMDfi/svXUyt5jg==;i+w4YOKvzZiZMW2igFLmRw=="
 ---
 

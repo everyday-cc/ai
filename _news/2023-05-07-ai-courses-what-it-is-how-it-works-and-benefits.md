@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/advisor/in/education/artificial-intelligenc
 webUrl: "https://www.forbes.com/advisor/in/education/artificial-intelligence-courses/"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -42,6 +42,15 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "Art world AI-nxiety: what is artificial intelligence and how are artists using it?"
+    excerpt: "From breaking news and insider insights to exhibitions and events around the world, the team at The Art Newspaper picks apart the art world’s big stories with the help of special guests."
+    publishedDateTime: 2023-05-05T18:15:00Z
+    webUrl: "https://www.theartnewspaper.com/2023/04/28/art-world-ai-nxiety-what-is-artificial-intelligence-and-how-are-artists-using-it"
+    type: article
+    provider:
+      name: The Art Newspaper
+      domain: theartnewspaper.com
+    quality: 28
 
 secured: "9ueCsgWUH77O0qs9iOSwNG05aC9aHv9jzYD+ddmniibhUjYDHLmbDBrqqeOGS2rJ+D74600uNAm6t2MAJmvedLsdNxc6Sg6HAnO7Akkyc8TEZoYkCvj+9nzUBPqM3otuEr1/n00Y/3StZo6LR9DQPqAvKvx0eEnG6aVGqIn3NLXCS/z6rIv9PMZkWgTja1MoT4jxYwszm0v65DTwMHtrzXPyzoHaqH34UWxN6yz+gWGI+ZlyP+QNJsDeIKH23SzuJ8bCUmYTAFILWCVTlpJdD0+nn4LBF6oLA1VTDiEKPurcnRabMj+E8x6JtJDIzauHGzcYmN51rz5NZEu8xQ+O85byW6wKLg6/rq9b1WmIC1A5QOLnM1qwz/dDne1XljJr0DynY4K26mmkMI7gaXWr+W+X9bA3yreCqK73pQXBESSDcT/S/0T2GNpc8XDK/8YlBhhCiyisMzU1X6BJxQ5MNTf30JCYg8lI+47lEowbNOWH2eEXMvWohW5qXjR6o/TENCgw+XRc3a+XLh1n3ou8RA==;REwp3G18TdFCFYZaT/3zaA=="
 ---

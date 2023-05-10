@@ -21,6 +21,22 @@ provider:
 topics:
   - AI
 
+related:
+  - title: "Be careful with Artificial Intelligence"
+    excerpt: "However, how do we actually use the words Artificial Intelligence? Surely we mean systems that think, not just data collect like ChatGPT, which common parlance says produces thoughtful output and is AI,"
+    publishedDateTime: 2023-05-10T07:57:00Z
+    webUrl: "https://www.gazetteseries.co.uk/news/23511487.careful-artificial-intelligence/"
+    type: article
+    provider:
+      name: Gazette Series
+      domain: gazetteseries.co.uk
+    quality: 39
+    images:
+      - url: "https://www.gazetteseries.co.uk/resources/images/16762960/?type=og-image"
+        width: 788
+        height: 630
+        isCached: true
+
 secured: "FiYrywrXTyn33zzIQB6yp/2F1sbnlt3DIGgoRNAsz0XdgF+4CW0KbHSD2EF7k4QfW69sIjVNsoOLKljFB8/SfcnnSDPizGYkiDJSDID1I5OMG+z1iQKdnGQO0CgC0Oy8Bn15qnLR7OLfNeF1AkAhfpSEOOm3ugNUBq9QXGNvHjoFnlmo2JQOnru35VmLAntVE52n4JtzcorOk710A7O7qaRBkhRVqQZmyYtZLANij24gPGAeThJXCPmHA5kjFQTRanD9YkgR9sbhH6iSD6C/SXkbGsK8n0HRrWXZfu0StfR7SANtceQlFJEkN8GGrCtiSNEylg5J55SBon36qnr477ntTGxGl+UVrC96jn2Sao0TYWdjuI/72CTN4lW/a8MMR2oxFm7sccH58eGNtg6/Hx66NGTWT/9/uBVHbcrFfay8YHS13nZtq0uhOOF117yuvGolG3MfwOJUX0eAGKDvDN4s3ogn004wYQpiPwq2g8vYU4H2GTyPiMHadYePHIgDdxmPTDxGNbjg+YVYgAB92g==;dGYbSSnLHWzxv1vuyk1uzg=="
 ---
 

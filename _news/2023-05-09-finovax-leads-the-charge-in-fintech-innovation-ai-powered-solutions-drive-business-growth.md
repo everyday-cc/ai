@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Finovax Leads the Charge in Fintech Innovation: AI-Powered Solutions Drive Business Growth"
-excerpt: "New York-Based Fintech Company Embraces Artificial Intelligence to Revolutionize Financial Data Products and Fuel"
-publishedDateTime: 2023-05-09T07:57:00Z
-originalUrl: "https://www.marketwatch.com/press-release/finovax-leads-the-charge-in-fintech-innovation-ai-powered-solutions-drive-business-growth-2023-05-09"
-webUrl: "https://www.marketwatch.com/press-release/finovax-leads-the-charge-in-fintech-innovation-ai-powered-solutions-drive-business-growth-2023-05-09"
+excerpt: "New York-Based Fintech Company Embraces Artificial Intelligence to Revolutionize Financial Data Products and Fuel Expansion New York, United"
+publishedDateTime: 2023-05-08T20:00:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/finovax-leads-the-charge-in-fintech-innovation-ai-powered-solutions-drive-business-growth-1032302798"
+webUrl: "https://markets.businessinsider.com/news/stocks/finovax-leads-the-charge-in-fintech-innovation-ai-powered-solutions-drive-business-growth-1032302798"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -47,6 +47,6 @@ related:
       domain: asiaone.com
     quality: 9
 
-secured: "didTRQm3fJW5O0Z+h6kF5DfCfkjNWlskg0RminDLViwjGJmmacMZhJu8tw1reHZkHZdt8yjgnKS1V77olRkB1ZaYJZmefdktLaUB6sjddVSvKZGS5Bzg/s73tOgRQ0TK9Avw8G42A2CGH/OFnB+WNk++FK0Aoe64dLw8WZ7ij/Sm86vOQhsFCP6o5ZHgdZGHN92iDg+tvNTGfUBZbAeYO36HQ0eGBQqJFTCcn6IQxwYEtwjM5nqTZksXe4rEIbhzCPZqbAOLiBrSHQUQxUdph1PPgNpFQOiE3orKpO0H2T6JCNwro0jOR6BX+o1/jD7wDFp/FmAWDhwAHeboyW0bKHUdgxm6nyMVEHB5aDzzhe4=;kL/yKsIMBBtXHw3hguBh1g=="
+secured: "1LSaUNakIw7NzAygDu0kHu24nfE7er4S0Rk46Wzda8hC0UQD4F7igCyFfVyk+aUziLWGzgyMkpZhDPoICKK/8QPWJOJQcD5b4lI46oJZ5udAW7r0MeLVaodidjuz9AXjxgEwjnbYKGQYW8Cfz7JPzNxwmsyquI9xZsM6er+lffzWpZL7z34EaUW1tNIV3QpueR4QV5ZFfKyZoB/2od7Kq4F77qKvOod4rzci74qD8hZUQGOfdfMypTIMiWYiDFavBZQRn1760qfN9lIKKiE3l3d1nVbguXbrq21R3VxPwXSvm7yDhq6mDrxCPqE6NWUKhnmnctqJIIAH0/LlsMlvrnk21k++9Bzx+oVWHNo6RH0=;j/U73i2tFw4neGJWGCTMTg=="
 ---
 

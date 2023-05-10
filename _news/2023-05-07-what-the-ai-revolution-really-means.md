@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/ai-is-bringing-a-p
 webUrl: "https://markets.businessinsider.com/news/stocks/ai-is-bringing-a-profitable-revolution-to-all-sectors-1032299076"
 type: article
 quality: 49
-heat: 49
+heat: -1
 published: false
 
 provider:
@@ -23,28 +23,21 @@ topics:
   - AI
 
 related:
-  - title: "3 AI Stocks That Are Poised to Explode in 2023"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial Intelligence (or AI) is the latest and greatest buzzword on Wall"
-    publishedDateTime: 2023-05-09T15:38:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/3-ai-stocks-that-are-poised-to-explode-in-2023-1032307806"
+  - title: "Adapt Or Die: 3 Things Businesses Must Do To Avoid Becoming Irrelevant In The AI Revolution"
+    excerpt: "In 2020, pivoting was necessary in order to survive. In 2023 it's no different. Use this AI revolution to become a creator and a leader, instead of just an observer and user."
+    publishedDateTime: 2023-05-10T07:15:00Z
+    webUrl: "https://www.forbes.com/sites/jodiecook/2023/05/10/adapt-or-die-3-things-businesses-must-do-to-avoid-becoming-irrelevant-in-the-ai-revolution/"
+    ampWebUrl: "https://www.forbes.com/sites/jodiecook/2023/05/10/adapt-or-die-3-things-businesses-must-do-to-avoid-becoming-irrelevant-in-the-ai-revolution/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jodiecook/2023/05/10/adapt-or-die-3-things-businesses-must-do-to-avoid-becoming-irrelevant-in-the-ai-revolution/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
-  - title: "A.I. Week: How artificial intelligence is revolutionizing the medical world"
-    excerpt: "Artificial intelligence is revolutionizing the international medical field, and in the near future, its role in our hospitals is expected to just keep growing."
-    publishedDateTime: 2023-05-09T14:02:00Z
-    webUrl: "https://www.wxyz.com/news/a-i-week-how-artificial-intelligence-is-revolutionizing-the-medical-world"
-    type: article
-    provider:
-      name: WXYZ
-      domain: wxyz.com
-    quality: 35
+      name: Forbes
+      domain: forbes.com
+    quality: 77
     images:
-      - url: "https://ewscripps.brightspotcdn.com/dims4/default/983adc4/2147483647/strip/true/crop/1280x672+0+24/resize/1200x630!/quality/90/?url=https%3A%2F%2Fx-default-stgec.uplynk.com%2Fausw%2Fslices%2Fae6%2Fbe88c4e651db4a7dbe102614d7272948%2Fae6989154e2e4be3ae579d57a55711ef%2Fposter_8be10a2ad5c74533856a8bf2a479b3eb.jpg"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/645b1755cf61fa38f12796dd/0x0.jpg?format=jpg&crop=3096,1741,x0,y60,safe&width=1200"
         width: 1200
-        height: 630
+        height: 675
         isCached: true
 
 secured: "Vf7mi618vzSQoWK4h2LUxPzs3PkthVBKUl3wN82HfMBLwEc0UFd3rFf8DBUhcy7mZ68jGYZsCw8wtsS5cMnGPXQmtBjPUbogrILRFxs6aGvHLqhZu6EQNtjaTn+793Vc39c3QebigA2pPoLT4eotZ0kev4cgqKTqG9jxECFzVCBDSwwEFB1HMU5MODuvDQq+dZguOezK3+NSaA5NWGRs0IqP6VNjd7rCGuP3TZpOHib3I95RjaVdN5BO4uLEm1YmVVqAxbNvyRXgrV10eX4/s6lc0xjFd5upiPykH35edwv78pNVH3Pb+cW4m7bEOsWMRHNkSyC37EnZ1dlKRWwnpi4DpBhP8+lMctGCxBHeHVI=;2MlXuw1aRAUrUxVEi+9avA=="

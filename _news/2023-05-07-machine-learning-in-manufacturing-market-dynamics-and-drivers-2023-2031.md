@@ -67,6 +67,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global \"Machine Learning Market\" 2023 to See Massive Growth by 2030 | Research Reports World"
+    excerpt: "The Machine Learning Market Scope and Overview Report for 2023 presents a detailed analysis of the latest trends in"
+    publishedDateTime: 2023-05-09T10:36:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-machine-learning-market-2023-to-see-massive-growth-by-2030-research-reports-world-2023-05-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 38
   - title: "2023 \"Data Science and Machine-Learning Platforms Market\" Modern Trends and Future Growth Insights 2030 | 122 Pages Report"
     excerpt: "Global \"Data Science and Machine-Learning Platforms Market\" research report provides Innovative Insights on the Strategies adopted by Major Global Players [Domino Data Lab, Dataiku, Lexalytics, TIBCO Software,"
     publishedDateTime: 2023-05-05T16:47:00Z

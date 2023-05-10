@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Roy Jeans: How AI will destroy most media and creative industry jobs – but not the industry itself"
+    excerpt: "Since the pre-Christmas launch of Microsoft’s ChatGPT the role of AI in all our lives has suddenly, and spectacularly, entered the daily public debate. In the last week alone National Highways has announced the “trial” installation of AI-driven cameras in the lay-bys of South East England to accurately identify fly-tippers;"
+    publishedDateTime: 2023-05-10T07:46:00Z
+    webUrl: "https://www.moreaboutadvertising.com/2023/05/roy-jeans-how-ai-will-destroy-most-media-and-creative-industry-jobs-but-not-the-industry-itself/"
+    type: article
+    provider:
+      name: More About Advertising
+      domain: moreaboutadvertising.com
+    quality: 25
+    images:
+      - url: "https://www.moreaboutadvertising.com/wp-content/uploads/2023/05/17f1a825d11721cea63052672790b6cc-620x330.png"
+        width: 620
+        height: 330
+        isCached: true
   - title: "Artificial Intelligence Is Our Future. But Will It Save Or Destroy Humanity?"
     excerpt: "If tech experts are to be believed, artificial intelligence (AI ... and minor — AI that can play Go can't navigate a self-driving car, after all. But on a deeper level, these developments ..."
     publishedDateTime: 2023-05-07T15:20:00Z

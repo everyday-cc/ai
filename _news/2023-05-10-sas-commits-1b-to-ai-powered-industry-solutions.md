@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "SAS commits $1bln to AI-powered industry solutions"
+    excerpt: "All industry solutions will run on SAS® Viya®, SAS’ cloud-native, massively parallel AI and analytics platform. “Businesses face many challenges, from the threat of economic recession and stressed supply chains to workforce shortages and regulatory changes,"
+    publishedDateTime: 2023-05-10T07:37:00Z
+    webUrl: "https://www.zawya.com/en/press-release/companies-news/sas-commits-1bln-to-ai-powered-industry-solutions-ru5q37hj"
+    ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/sas-commits-1bln-to-ai-powered-industry-solutions-ru5q37hj?amp=1"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/sas-commits-1bln-to-ai-powered-industry-solutions-ru5q37hj?amp=1"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 59
+    images:
+      - url: "https://static.zawya.com/view/acePublic/alias/contentid/YTk5NGRiNWYtZTMyMi00/0/tailoredsolutions-jpg.jpeg?f=3%3A2"
+        width: 799
+        height: 533
+        isCached: true
   - title: "SAS commits $1B to AI-powered industry solutions"
     excerpt: "Multiyear investment will fuel cloud-first solutions across numerous industries ORLANDO, Fla., May 9, 2023 /PRNewswire/ -- SAS INNOVATE -- SAS, the leader in analytics, will invest $1 billion"
     publishedDateTime: 2023-05-09T15:45:00Z

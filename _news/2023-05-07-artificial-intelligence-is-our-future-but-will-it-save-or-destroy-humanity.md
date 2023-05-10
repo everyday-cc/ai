@@ -33,6 +33,20 @@ related:
         width: 576
         height: 576
         isCached: true
+  - title: "Roy Jeans: How AI will destroy most media and creative industry jobs – but not the industry itself"
+    excerpt: "Since the pre-Christmas launch of Microsoft’s ChatGPT the role of AI in all our lives has suddenly, and spectacularly, entered the daily public debate. In the last week alone National Highways has announced the “trial” installation of AI-driven cameras in the lay-bys of South East England to accurately identify fly-tippers;"
+    publishedDateTime: 2023-05-10T07:46:00Z
+    webUrl: "https://www.moreaboutadvertising.com/2023/05/roy-jeans-how-ai-will-destroy-most-media-and-creative-industry-jobs-but-not-the-industry-itself/"
+    type: article
+    provider:
+      name: More About Advertising
+      domain: moreaboutadvertising.com
+    quality: 25
+    images:
+      - url: "https://www.moreaboutadvertising.com/wp-content/uploads/2023/05/17f1a825d11721cea63052672790b6cc-620x330.png"
+        width: 620
+        height: 330
+        isCached: true
 
 secured: "qaY+2OiSgvKZ6T9OD06x+lyB0Go0LlT43T9UAiDV/7XB47JCCvG8SvXPFbWuWDO1t7VkGeevnUIIUO79QI9JdNjqCIRt4Kj/NtejEY2DFhL8lgR41uOxEzZ/RZIXOyXizwjRA2TXUEZVqNzWXBzgmZDtYOoVqs1KLzFdYykVgGMYJhcCKEO9Z1ka/kvqx/tULEku7p2qMPmIQRxJulcCzEjIhB6cCbGsCxASxpIYiHI/SpoNOydawstTThVlnvftmT2dqKhWVRyC4+NSvQjHO2zvjj66ZvL6E6LxubbAPYZ+fUD8UFXqdK4BImE9Fp/MgNi2wTu41KaPdT2ZwfnUxTxhNGtygU7tyk9jzEFFOUg=;7iVvEfQEW9whvPRMeItUgw=="
 ---

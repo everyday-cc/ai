@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/09/making-int
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/05/09/making-intelligent-noise-ai-in-the-music-industry/amp/"
 type: article
 quality: 87
-heat: 137
+heat: 127
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
       - url: "https://assets.entrepreneur.com/content/3x2/2000/1683531881-Hithere11.png"
         width: 2000
         height: 1333
-        isCached: true
-  - title: "Preparing to Integrate Machine Learning and AI Into Pricing, Billing and Invoicing"
-    excerpt: "While AI's applications to back-office business operations like pricing, billing and invoicing may not be as flashy as AI-generated brief writing, they will be just as critical for the business of law firms."
-    publishedDateTime: 2023-05-05T13:54:00Z
-    webUrl: "https://www.law.com/legaltechnews/2023/05/05/preparing-to-integrate-machine-learning-and-ai-into-pricing-billing-and-invoicing/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 48
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/05/Law-Library-767x633.jpg"
-        width: 767
-        height: 633
         isCached: true
   - title: "Will AI Surpass Human Intelligence?"
     excerpt: "Muhammad Arif Mughal, an AI specialist from the University of Science and Technology Beijing, suggests that ChatGPT is revolutionary only in the way that it learns from a large am"

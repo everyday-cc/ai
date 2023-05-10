@@ -39,15 +39,29 @@ related:
         width: 1200
         height: 633
         isCached: true
-  - title: "GENAI LAUNCHES ARTIFICIAL INTELLIGENCE PROJECT TO CREATE A NEWSWIRE SERVICE FOR INVESTORS"
-    excerpt: "Global AI Newswire has engaged Metachain Technologies Inc. (\" Metachain \") to perform the artificial intelligence development services with the goal of commercializing the Newswire Product over the next 90 days in accordance with a services agreement entered into between GenAI,"
-    publishedDateTime: 2023-05-05T13:11:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/05/05/9808660.htm"
+  - title: "How Artificial Intelligence is Used in Customer Service"
+    excerpt: "Of all the applications for artificial intelligence (AI), customer service is one of the most common. Companies big and small have been using tools like AI customer service bots and voice assistants in order to handle customer requests,"
+    publishedDateTime: 2023-05-08T18:20:00Z
+    webUrl: "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/ai-in-customer-service/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 25
+      name: The Motley Fool
+      domain: fool.com
+    quality: 67
+    images:
+      - url: "https://m.foolcdn.com/media/dubs/images/image_7.width-600.jpg"
+        width: 600
+        height: 400
+        isCached: true
+  - title: "The Future of Fintech: How AI is Disrupting the Financial Industry"
+    excerpt: "The financial industry is undergoing a significant transformation thanks to the emergence of Artificial Intelligence (AI) and machine learning. On a global scale, the AI-based fintech market experienced growth from $9."
+    publishedDateTime: 2023-05-08T19:03:00Z
+    webUrl: "https://techbullion.com/the-future-of-fintech-how-ai-is-disrupting-the-financial-industry/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 19
 
 secured: "4q8wNStJxo1OcHUCoCqcen+m7MqxmF31NXIen4s+BEAoWdrZq1DDBu3ZWs0E3bLUgJOProgAY61Kur9XdWNAeHge+FAGLqEdA2KDR0EZQLEAo86d9QZ0DETca1lFPk4tXaP0eqgEfxXf0JIYG/xfA2Vsse5lfpUB6h/EazQYzurX7rmMTjfT2nhBDOqRk6IPFsLUZMj+lXbzq4yfGZv33ihaqESQq+foO+I/1jJIzE9GV6klhb4alz7KCZYrOzvQmxgvN+TxnchqrKtIrQcAko3k6S/LUpAHt/J7G674eIFe6ffZkxf7PO/5nBDv/YaHwsx30IciCD67gDmCSIC8+NH+QTIVg/mnid8tCmuC7Rw=;KoaZMn8OvLmlam0/1PIZGA=="
 ---

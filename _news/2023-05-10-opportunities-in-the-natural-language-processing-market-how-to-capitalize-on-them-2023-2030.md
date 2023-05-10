@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/opportunities-in-the-nat
 webUrl: "https://www.marketwatch.com/press-release/opportunities-in-the-natural-language-processing-market-how-to-capitalize-on-them-2023-2030-2023-05-09"
 type: article
 quality: 58
-heat: 58
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "AI Accelerator Chip Market: Trend & Outlook by 2030"
+    excerpt: "The Main Objective of The AI Accelerator Chip Market Is to Develop the Perspectives of Business Professionals and"
+    publishedDateTime: 2023-05-09T03:57:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-accelerator-chip-market-trend-outlook-by-2030-2023-05-08"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 84
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "SrPVUEnFuLP1YeV9stlFaijEWWm/d0vRjHXPtpuPo33zZ5MRCKLFOHAbkxFC+A5ncWcHpcBmb+MvXYatZHo0NIzWKfHx9z35qvG56gVUUElm544/egNiwv/ZiAhiYKWLQaWfXDflb1v7LCzx1YvvaUsJzQpUA/51TiXX/IKYTegf66UHhXR9E/6AtTohDaPGIYYpircC4Gwdo5uEZngASwRgnKk/mXFVKrN7rakQJLRvNN2XPJ1GScdDmeP3nh800nBd9kRo5vDPVjuqMNu3thwj7yo+FINLdQqhNMLnJOG7nC6xrGW7lk3jNq83bBwKYAJWNYuB9PJwcbYvmGtHkzEKWkzrE9vEH4VQX27NhOg=;+8mxLcxWe2X7e0szJTUzxA=="
 ---

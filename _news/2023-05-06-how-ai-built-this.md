@@ -71,6 +71,20 @@ related:
         width: 1664
         height: 674
         isCached: true
+  - title: "The Path Ahead for Generative AI"
+    excerpt: "The role of generative AI is rapidly evolving in education and in creating a vision of the society of the future."
+    publishedDateTime: 2023-05-10T07:37:00Z
+    webUrl: "https://www.insidehighered.com/opinion/blogs/online-trending-now/2023/05/10/path-ahead-generative-ai"
+    type: article
+    provider:
+      name: Inside Higher Ed
+      domain: insidehighered.com
+    quality: 39
+    images:
+      - url: "https://www.insidehighered.com/sites/default/files/2023-04/ihe-logo-web.png"
+        width: 600
+        height: 324
+        isCached: true
 
 secured: "F40tcGtnB1x4pZysikxojFxAeBawXQ0OyJP18xfLv8e7WVPMXI5X62Zfwlm808qVEh2Xz6zqt2a9MS04B9AZP2WOSTLE2fzbbZHPVpaVjEpHaY5lPFaiiRC9WLAXh/bLnKzn1/pVeneS4n6hqT6cUoKWXqkoqmaskVS++7vdT950RZTHulFLeZdhQBe33vOd7LKFffN0Bb+nzBJaPTVCBYcYst46OtcRjb0AfnaMFxUFuKcxjfQJQtl00sxc3UMHYrqA3+HrdGcLSjln/Kft7ZKobbyrXDrQViflVd5JRmNE1aVoellBvpgc3xuqfDxAMjvwxt5t5JvqrJ14y7f/BfGgnctKHuDT1ycrARX6hZQAve9zqn7NCrj4iLN9fYlPJatHDFvhXi+7paV0O5IEq59zX3bsvrcFNuv7pPkWKA4uZ7RhuugJ9vulSgbGwxvKx+Zir26koil4M4dTHT5ehDoed2LsWpC1NAWJUQpVaoSgpEsql2OJKLXvuRjXWY7vdtRimwFE/Y+5yiwi44pGfQ==;91SzmlG1XlKgQ2T1aPxYWw=="
 ---

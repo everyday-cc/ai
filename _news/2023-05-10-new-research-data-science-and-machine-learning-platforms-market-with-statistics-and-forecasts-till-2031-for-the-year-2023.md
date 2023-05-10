@@ -6,8 +6,8 @@ publishedDateTime: 2023-05-10T03:11:00Z
 originalUrl: "https://www.marketwatch.com/press-release/new-research-data-science-and-machine-learning-platforms-market-with-statistics-and-forecasts-till-2031-for-the-year-2023-2023-05-09"
 webUrl: "https://www.marketwatch.com/press-release/new-research-data-science-and-machine-learning-platforms-market-with-statistics-and-forecasts-till-2031-for-the-year-2023-2023-05-09"
 type: article
-quality: 28
-heat: 28
+quality: 30
+heat: 30
 published: false
 
 provider:
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI in Finance
   - AI
+  - Machine Learning
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

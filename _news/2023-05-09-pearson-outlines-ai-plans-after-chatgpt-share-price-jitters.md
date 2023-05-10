@@ -51,17 +51,6 @@ related:
       name: Wall Street Journal
       domain: wsj.com
     quality: 38
-  - title: "Could AI pen ‘Casablanca’? Screenwriters take aim at ChatGPT"
-    excerpt: "Not six months since the release of ChatGPT, generative artificial intelligence is already prompting widespread unease throughout Hollywood."
-    publishedDateTime: 2023-05-05T13:45:00Z
-    webUrl: "https://www.seattletimes.com/business/could-ai-pen-casablanca-screenwriters-take-aim-at-chatgpt/"
-    ampWebUrl: "https://www.seattletimes.com/business/could-ai-pen-casablanca-screenwriters-take-aim-at-chatgpt/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/could-ai-pen-casablanca-screenwriters-take-aim-at-chatgpt/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 37
   - title: "AI ChatGPT creates rap for Warriors vs. Lakers playoffs"
     excerpt: "ChatGPT is what most people are either talking about most of these days or even experimenting with. The KPIX morning team tested the feature by getting AI to become a Warriors fan. (05/05/2023)"
     publishedDateTime: 2023-05-05T19:42:00Z
@@ -89,6 +78,20 @@ related:
       - url: "https://s.hdnux.com/photos/01/32/60/06/23790004/3/rawImage.jpg"
         width: 2048
         height: 1365
+        isCached: true
+  - title: "Torah is the anti-ChatGPT. But we can embrace artificial intelligence without losing our soul."
+    excerpt: "I recently asked ChatGPT, the online chatbot, to write a verse in the style of the Bible about robots taking over the world."
+    publishedDateTime: 2023-05-08T17:43:00Z
+    webUrl: "https://www.jewishaz.com/opinion/torah-is-the-anti-chatgpt-but-we-can-embrace-artificial-intelligence-without-losing-our-soul/article_9fbb6fd6-edc7-11ed-91cd-2bcf69a3d42b.html"
+    type: article
+    provider:
+      name: Northern Arizona Jewish News
+      domain: jewishaz.com
+    quality: 27
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/jewishaz.com/content/tncms/assets/v3/editorial/2/eb/2eb5d1d6-edc8-11ed-9209-b32e3208dd0a/645935bcdbcea.image.jpg?crop=1931%2C1014%2C0%2C29&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "IFrrMBwsBfjtYdbw9Wdp1yD2rNIn4CRy7NFqD1XFfp0WonErP0zrh5QCMouH06lczY+GjOiC9vxcbg4EXHAZ1N0AAdZiEH0CkXUzrR4zx/OR12Yh4TyLCAUi7oG7CZAvhEwEdqThBUSAcgoU3D6Sio38/XDHyaywsKaaQiuUbg/7q7aIa/cdZiZ260hU9c0m+WcGqDZpBMhA6j8bwkxYCWXa5/qtr/OP9pzYhIIkZ86ZAbr7tKkSrm/lrvNyODCPxIFpF3GnhK5fHhkbdrMEInMLyzwFGGuFkCtIDRnshhRfIYWDparDsn1IIQlh+XgriB3Lb/PnWviOu/uOeE5iRQIOAkN3FYQ/XR4Th/ojBQk=;+/cotRxsFwSOYwTUrQyVJw=="

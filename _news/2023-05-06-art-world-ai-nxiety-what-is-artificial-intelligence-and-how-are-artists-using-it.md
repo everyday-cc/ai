@@ -19,45 +19,34 @@ topics:
   - AI
 
 related:
-  - title: "How AI And LLMs Are Streamlining Financial Services"
-    excerpt: "As AI becomes increasingly sophisticated and widely adopted, we can anticipate even more innovation in the fintech sector, leading to smarter, more efficient financial services."
-    publishedDateTime: 2023-05-05T14:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/05/how-ai-and-llms-are-streamlining-financial-services/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/05/how-ai-and-llms-are-streamlining-financial-services/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/05/05/how-ai-and-llms-are-streamlining-financial-services/amp/"
+  - title: "AI Courses: What It Is, How It Works And Benefits"
+    excerpt: "What Is An AI Course? Artificial intelligence or AI is no longer restricted to the world of science-fiction or movies, in fact AI is something which we are dealing with on an everyday basis. Whether it is solving your queries via live chat bots or chatting with Siri or Alexa,"
+    publishedDateTime: 2023-05-07T09:15:00Z
+    webUrl: "https://www.forbes.com/advisor/in/education/artificial-intelligence-courses/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64542fab9410055126fb7277/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 715
-        isCached: true
-  - title: "How Artificial Intelligence is Used in Customer Service"
-    excerpt: "Of all the applications for artificial intelligence (AI), customer service is one of the most common. Companies big and small have been using tools like AI customer service bots and voice assistants in order to handle customer requests,"
-    publishedDateTime: 2023-05-08T18:20:00Z
-    webUrl: "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/ai-in-customer-service/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
     quality: 67
     images:
-      - url: "https://m.foolcdn.com/media/dubs/images/image_7.width-600.jpg"
-        width: 600
-        height: 400
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/x/https://www.forbes.com/advisor/in/wp-content/uploads/2023/04/marvin-meyer-SYTO3xs06fU-unsplash-Cropped.jpg"
+        width: 960
+        height: 540
         isCached: true
-  - title: "The Future of Fintech: How AI is Disrupting the Financial Industry"
-    excerpt: "The financial industry is undergoing a significant transformation thanks to the emergence of Artificial Intelligence (AI) and machine learning. On a global scale, the AI-based fintech market experienced growth from $9."
-    publishedDateTime: 2023-05-08T19:03:00Z
-    webUrl: "https://techbullion.com/the-future-of-fintech-how-ai-is-disrupting-the-financial-industry/"
+  - title: "AI Courses: What They Are, How They Work And Benefits"
+    excerpt: "What Is An AI Course? Artificial intelligence or AI is no longer restricted to the world of science-fiction or movies, in fact AI is something which we are dealing with on an everyday basis. Whether it is solving your queries via live chat bots or chatting with Siri or Alexa,"
+    publishedDateTime: 2023-05-08T22:11:00Z
+    webUrl: "https://www.forbes.com/advisor/in/education/artificial-intelligence-courses/"
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 19
+      name: Forbes
+      domain: forbes.com
+    quality: 67
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/x/https://www.forbes.com/advisor/in/wp-content/uploads/2023/04/marvin-meyer-SYTO3xs06fU-unsplash-Cropped.jpg"
+        width: 960
+        height: 540
+        isCached: true
 
 secured: "j+bjColgQwB7skmTu0erIsvlfnTfYRu39GYYcr1O0LUIoxLGhjOJQXpVLszE+6D0WoAmaSUiY2Ln0fHNecptv7RCxhk0ZXqzcya/JHDOp80x2Gtm9REpZRhtMde8TZH2SVz1yUSh2FXke0EWDU9cpSh5LI5FUohDeM5W1kuf8R6GgjqiC50ehKHIeyF2DpDXSbPTFWX/CxR9rmV22jSxayxMnIfprU+XD2gM1NZLlO0WtHtlxGpxqvcEeivuF885pCBfITCJXNy/YJ8W3RvsTsBagEIeXwEZjQS3C7IteJ06ukxKfYbw9zZU/EmFapHem4idR2y7PJGvJv3BrkcuI53WqntLPUd9ZDd0ARydLs4=;j8QY07dTsBy56n7pHYuv3A=="
 ---

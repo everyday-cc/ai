@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/robtoews/2023/05/07/the-geopolitics-of-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2023/05/07/the-geopolitics-of-ai-chips-will-define-the-future-of-ai/amp/"
 type: article
 quality: 104
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -54,6 +54,15 @@ related:
         width: 1200
         height: 400
         isCached: true
+  - title: "What Does the Future Hold for AI in Chip Design?"
+    excerpt: "It’s hard to imagine a time when AI wasn’t a part of the silicon chip design flow. Since intelligence has now been integrated into design, verification,"
+    publishedDateTime: 2023-05-10T06:56:00Z
+    webUrl: "https://www.design-reuse.com/industryexpertblogs/54010/what-does-the-future-hold-for-ai-in-chip-design.html"
+    type: article
+    provider:
+      name: Design-Reuse
+      domain: design-reuse.com
+    quality: 34
 
 secured: "lmCLE7Tpu6EUJcohb5CZVuritGa/Xis8VPa7GcY0fTmoSOLs20iihQkys+zEozRLx7661b05RTS6Hd05GSw2a+Na84nqcgCNaJwdnaetX/kyrArQ9s1+l+FZJP17ZLPd9lWRXNziw7lXTcAhc2oH2TqcTmZf2a6oTva6Go2CuRsTE4oS/s0dangqpLHTDbIyg1BCVTe2GuGXCkjUNQJlFVUGzPW4cMwfTNpiy5FP4W2TMvjaNfkBRywoo3thFDx/qXtq/NqDHHXtSK6qFBavSVJPgXN8dBE4VbC9Z+oMdIEpUFmo7q2YdpFupsgOGFsK0CN7F1+d2JtfM+f5TLNcVcDNl545uxLN7St8LYBuevD9B6SUwMhKA7O4mcZRa3S8KOO4OenRDuoe3SFnycTkE/mms0rA5XwtxIqKyEJPMyoSfRN6h6VnaRNYAi3Qp7U92I00bX6XUG3M4g6M6xN2jvJYXUtptOjOnYUCl6Y/Q22QltQ3GH1Ia46DmcQJu7DdZXJFl6dSlYZ1LMBC8scK9g==;5Y6bxuwZuDaLlM4XeKWngA=="
 ---

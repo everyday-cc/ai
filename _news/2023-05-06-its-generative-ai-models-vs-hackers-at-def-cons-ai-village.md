@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/its-generative-ai-models-vs-hackers-at-de
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/its-generative-ai-models-vs-hackers-at-def-cons-ai-village/amp/"
 type: article
 quality: 87
-heat: 137
+heat: 127
 published: true
 
 provider:
@@ -76,15 +76,6 @@ related:
         width: 1366
         height: 768
         isCached: true
-  - title: "There’s Still A Long Way To Go With Generative AI"
-    excerpt: "The tech world is awash with generative AI, which for a company like Nvidia, is a good thing. The company that a decade ago put its money down on AI to be"
-    publishedDateTime: 2023-05-05T13:54:00Z
-    webUrl: "https://www.nextplatform.com/2023/05/05/theres-still-a-long-way-to-go-with-generative-ai/"
-    type: article
-    provider:
-      name: The Next Platform
-      domain: nextplatform.com
-    quality: 19
 
 secured: "83FwzKj7PX5B8Kt+dYifT27XpHSHYiSu4BgGVdebjKdeyh42y15acyUsbtaMbCWHbrQIYaSjV0CJkYdrF0EsWgcT8PENzdQXj7eylCwYcvCcZmN056ilRTpE2X9WBPzP6rfDGVgTfwpuOzcRomF1pe5CEdoZCgVcbdrfUUdjnBcLkFjTnSaaljZGmfyI39LPT51J9MdAAm31I0M6/todA2fFriadZigSeaHuy87TpcT/D3+txt2TaLkeYoj6J4+tBkwrmaZghwT+vjQxgphkRxNDNH8l8DxPPleuhvGvhfD6RwlNJpheizVchpaFCN01bGzt6S58RQBeKozJ0k/7FOlexP019iR8Pse/vNN2hYZcRf6lMVlu0/x+vI2Fab78yOhXE8bdnZmdYK9TM+aVmlWLJwgLLQGGuV5eybp6DOtCuPyoodzuR/doctmzDcCY8FHugRyqAd8xXKlbk6zfwkdd5SmGblu9emCuon5A/kZ7UmHvJ81Ob+k8YJFJ2BG2ZKoXxZbJKO9vDrASwcBfEA==;ROu+555aY+v4cFcV9WWXYA=="
 ---

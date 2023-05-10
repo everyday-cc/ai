@@ -7,7 +7,7 @@ originalUrl: "https://www.therobotreport.com/caytu-robotics-deploys-delivery-rob
 webUrl: "https://www.therobotreport.com/caytu-robotics-deploys-delivery-robots-at-byu/"
 type: article
 quality: 84
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 770
     height: 500
     isCached: true
-
-related:
-  - title: "Autonomous Delivery Robots Market Research, 2030"
-    excerpt: "Precision Reports has published a new report titled as \"Autonomous Delivery Robots Market\" by End User (Hotels,"
-    publishedDateTime: 2023-05-08T21:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/autonomous-delivery-robots-market-research-2030-2023-05-08"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "DqjAflnRClii2KHNTl4qProjhpf7DhEFgAE93rLZhxBnDyYPYgDMxsAHOXfQFsscfQymDJUOoTnesSyASd59HJepv9ufTrLDtsBj2HqGK3THGsuvjrA8KulPo08IVhHhI+D4K2iftCviDIi64B9W3tkL6NWZdFQZB8+1V/zrpYRsHkAamSOQ4HwrjEE2aGKZWNvduh6XGjqmDVffA7oczSGMY8O1FsIBOOCBCwwYN0YIh5ijzvVDeEKCUQkn/gq5LOxeurbUNU1t+OQSs9ZReoZ5DqMbfZ4zWFRBKuYkgn7RI4dJgdmQzYEc3S305b2+5Pj/9zuJ4Kg12x34lz0s7WUntrd0saqR3GQzPBXIvSS4vjxTaiVyshldIhzq7/2GroWnpH+LWkyeO88pdFP4M5qL3gVJTHJyAWjieCNJrRddKJYf+lD4KwniOVc6eTjsgGVr7l4Z4+5DF+ott//ni2/YWxlQbt8TIIEgTkduOR13/nlhAtj1BDyexYz+MCU3bbow92N4Op3dAzIBOcntAw==;oT8qte6DEeHHgbP+BA5fxw=="
 ---

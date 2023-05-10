@@ -34,13 +34,13 @@ related:
         height: 800
         isCached: true
   - title: "Finovax Leads the Charge in Fintech Innovation: AI-Powered Solutions Drive Business Growth"
-    excerpt: "New York-Based Fintech Company Embraces Artificial Intelligence to Revolutionize Financial Data Products and Fuel"
-    publishedDateTime: 2023-05-09T07:57:00Z
-    webUrl: "https://www.marketwatch.com/press-release/finovax-leads-the-charge-in-fintech-innovation-ai-powered-solutions-drive-business-growth-2023-05-09"
+    excerpt: "New York-Based Fintech Company Embraces Artificial Intelligence to Revolutionize Financial Data Products and Fuel Expansion New York, United"
+    publishedDateTime: 2023-05-08T20:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/finovax-leads-the-charge-in-fintech-innovation-ai-powered-solutions-drive-business-growth-1032302798"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
+      name: Business Insider
+      domain: businessinsider.com
     quality: 39
 
 secured: "pboj4yfp7zNNJLmiBLdyNzhnwUOgZvkOGdCwQ+eM27t0k4G9iRVxokQu5ZFmxZKCDwAGnazrlK38//DAros98Z1Olwr1VE7NW73ZC/whqtoQ7VwP6ZPyCTQ1aB7zVPOpmQSArXzR5/Ov3UUBmedpOVMt11fbGcogw9Eqno57p9gwONWIT5uOufvsSGEswyO/x+82QvoFUIZwpdD99WCfROFohM6yVgiMUCQkgDQ5CphoeyB7Rqa0uJTOEcneuiD3qHiR77N/9lszZxOR/NSdbFN85/FzOv01tgjO5DGOILif0VIEMjKIY51XMHvj0lqyZQZUu322gzJ+Vl+SG3qVPj9H/LxrjOAGGH80QshwKps=;KiLqH2cFZapc64GgZhhdOA=="

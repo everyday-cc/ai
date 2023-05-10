@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/a-mayday-call-for-artificial-intelligence
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/a-mayday-call-for-artificial-intelligence/amp/"
 type: article
 quality: 91
-heat: 131
+heat: 141
 published: true
 
 provider:
@@ -68,6 +68,20 @@ related:
       - url: "https://www.datanami.com/wp-content/uploads/2023/02/AI-North-America23.png"
         width: 1664
         height: 674
+        isCached: true
+  - title: "The Path Ahead for Generative AI"
+    excerpt: "The role of generative AI is rapidly evolving in education and in creating a vision of the society of the future."
+    publishedDateTime: 2023-05-10T07:37:00Z
+    webUrl: "https://www.insidehighered.com/opinion/blogs/online-trending-now/2023/05/10/path-ahead-generative-ai"
+    type: article
+    provider:
+      name: Inside Higher Ed
+      domain: insidehighered.com
+    quality: 39
+    images:
+      - url: "https://www.insidehighered.com/sites/default/files/2023-04/ihe-logo-web.png"
+        width: 600
+        height: 324
         isCached: true
   - title: "How AI Built This"
     excerpt: "The Information has a simple mission: deliver important, deeply reported stories about the technology business you won’t find elsewhere. Many of the most influential people in the industry turn to us for fresh information and original insight."

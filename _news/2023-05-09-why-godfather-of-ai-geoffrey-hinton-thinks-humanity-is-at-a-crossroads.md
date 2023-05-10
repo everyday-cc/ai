@@ -74,15 +74,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Why AI’s ‘godfather’ Geoffrey Hinton quit Google to speak out on risks"
-    excerpt: "Professor voiced fears that rapid advance of technology would lead to significant job losses and flood of misinformation"
-    publishedDateTime: 2023-05-05T15:00:00Z
-    webUrl: "https://www.ft.com/content/c2b0c6c5-fe8a-41f2-a4df-fddba9e4cd88"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 17
 
 secured: "9qarEZ7IMhMk6/mRaSM9y4BGxlYZnD9r2XF+Q9yDULlWXcbwmUgnorwbvlbB9dx5hW4CTT2Q3zF004iRbKMPsn4/QfTAKrBikVSFvQxSm49/bELUHtPp2BknQcg90e9GlpWLzKAFDBozSvTFoqPOJlwvyjiaGuC2ZWeWCMfXOYxh2LSZokyZW78BB7Rr1avBccVFDlPso/FuL0ORSAoadng4XnvHhQEcI5GQOmK3WqkX0HWEmS0Zx4NgEAWClxAdUjbTDcIo+MagJ5Wa7hr7hgxDfvpcfJP+pkfnMWMH4JYmTA2z+RHlP7HoZlaNU7OX0CIB0DhGwyF50hky+b9UvnfhkCAFEqmOQGUX/E9sH2a2JXVcDyFQzU3tYcWKjVaoLMqAeOfDTcjtAwVnPAm35HRuuC58FuA+8NZZNASrEr9Im0M/T5zI8RzR8jbUiwh/nYoAJpOClNOMU/F3Loe1nmVpF6OhRD5wAcdlfxSCng8HbIYQbAYsGIfZD/XejxF+jNvOXHam8CbrEU9S6nJXyA==;L2B75qG2W5vr4qf7MkAviQ=="
 ---

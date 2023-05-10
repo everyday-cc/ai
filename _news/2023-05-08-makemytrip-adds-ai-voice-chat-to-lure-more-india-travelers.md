@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2023-05-08/makemytrip-adds
 webUrl: "https://www.bloomberg.com/news/articles/2023-05-08/makemytrip-adds-ai-voice-chat-to-lure-more-india-travelers"
 type: article
 quality: 69
-heat: 119
+heat: 79
 published: true
 
 provider:
@@ -45,61 +45,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "MakeMyTrip ties up with Microsoft for voice-assisted bookings in Indian languages"
-    excerpt: "Initially, a select group of MakeMyTrip users will have access to the voice-assisted feature in English and Hindi."
-    publishedDateTime: 2023-05-08T09:55:00Z
-    webUrl: "https://www.livemint.com/companies/news/makemytrip-ties-up-with-microsoft-for-voice-assisted-bookings-in-indian-languages-11683538682166.html"
-    ampWebUrl: "https://www.livemint.com/companies/news/makemytrip-ties-up-with-microsoft-for-voice-assisted-bookings-in-indian-languages/amp-11683538682166.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/makemytrip-ties-up-with-microsoft-for-voice-assisted-bookings-in-indian-languages/amp-11683538682166.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 54
-    images:
-      - url: "https://www.livemint.com/lm-img/img/2023/05/08/600x338/2-0-484082893-makemytrip-5-0_1680774306608_1683539479338.jpg"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "MakeMyTrip collaborates with Microsoft for voice-assisted booking in Indian languages"
-    excerpt: "Read more about MakeMyTrip collaborates with Microsoft for voice-assisted booking in Indian languages on Devdiscourse"
-    publishedDateTime: 2023-05-08T08:50:00Z
-    webUrl: "https://www.devdiscourse.com/article/technology/2443783-makemytrip-collaborates-with-microsoft-for-voice-assisted-booking-in-indian-languages"
-    ampWebUrl: "https://www.devdiscourse.com/article/technology/2443783-makemytrip-collaborates-with-microsoft-for-voice-assisted-booking-in-indian-languages?amp"
-    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2443783-makemytrip-collaborates-with-microsoft-for-voice-assisted-booking-in-indian-languages?amp"
-    type: article
-    provider:
-      name: devdiscourse
-      domain: devdiscourse.com
-    quality: 52
-    images:
-      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/29_11_2021_13_10_29_7850503.jpg?width=1280"
-        width: 1280
-        height: 960
-        isCached: true
-  - title: "MakeMyTrip Partners with Microsoft to Reshape Travel Booking Landscape"
-    excerpt: "MakeMyTrip has collaborated with Microsoft to make travel planning more inclusive and accessible by introducing voice assisted booking in Indian languages. The new, in-platform tech stack powered by Microsoft Azure OpenAI Service and Azure Cognitive Services,"
-    publishedDateTime: 2023-05-08T07:45:00Z
-    webUrl: "https://www.traveltrendstoday.in/makemytrip-partners-with-microsoft-to-reshape-travel-booking-landscape/"
-    type: article
-    provider:
-      name: T3
-      domain: traveltrendstoday.in
-    quality: 39
-    images:
-      - url: "https://www.traveltrendstoday.in/wp-content/uploads/2023/05/MakeMyTrip-2.jpg"
-        width: 584
-        height: 448
-        isCached: true
-  - title: "MakeMyTrip teams up with Microsoft for voice-assisted booking in Indian languages"
-    excerpt: "The new, in-platform tech stack powered by Microsoft Azure OpenAI Service and Azure Cognitive Services, will converse with the user to offer personalised travel recommendations based on their preferences,"
-    publishedDateTime: 2023-05-08T11:50:00Z
-    webUrl: "https://www.cnbctv18.com/business/makemytrip-teams-up-with-microsoft-for-voice-assisted-booking-in-indian-languages-16598231.htm"
-    type: article
-    provider:
-      name: cnbctv18
-      domain: cnbctv18.com
-    quality: 14
 
 secured: "rwa62lFRGjr42xTpyZYKd24VjbKmmCksoOINhAsomLpSEKtak2lSdSG8wDjTfxPMfJcxhyr7e0vKTxzjNz+zSflhS/tM3TqbYJcCTV3a1FZ6E1CvavAcjb51C7gJaAuT7aLEfZEymCRzaujrQr2RYpTZEs9+VWz7LvQX+cmdppr5ftDzQKknSAO+AcvaPuVGaf8DuN0olXxIBi4lQgByGm8BXmTkRIg7hk5TMipOT1Gyn9SXIxonj1E5GC8aME+KbQcfuUk/YM9NpFRI7PzIal6Cbl54lZv88J/MXPbokuNe3YbI2rUzRNbPxV0ZyJYDSoE0eih0j+ZsbQaCSUpOfgqVogYI51vlH7Yq53IxbkbWAKYq3I7Nn4yMD2O3oB8a6r8uegjPK+XxVuRvbec34MM1fho6ObQTcNbrjK2zcVbKsil8ulFZ89qP+pXLqrfQlPQwWp9j9gHX3uiITUnt2Mt1uVyMWwuAaF/VXHDE6BNmrpxamhFEHIayTPpCgHPdwE0dUQPUIdzuJxl46Jk43Q==;rtgPb30ydjO1OpGwJpX8RQ=="
 ---

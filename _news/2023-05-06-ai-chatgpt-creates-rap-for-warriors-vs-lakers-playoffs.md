@@ -61,17 +61,6 @@ related:
       name: Wall Street Journal
       domain: wsj.com
     quality: 38
-  - title: "Could AI pen ‘Casablanca’? Screenwriters take aim at ChatGPT"
-    excerpt: "Not six months since the release of ChatGPT, generative artificial intelligence is already prompting widespread unease throughout Hollywood."
-    publishedDateTime: 2023-05-05T13:45:00Z
-    webUrl: "https://www.seattletimes.com/business/could-ai-pen-casablanca-screenwriters-take-aim-at-chatgpt/"
-    ampWebUrl: "https://www.seattletimes.com/business/could-ai-pen-casablanca-screenwriters-take-aim-at-chatgpt/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/could-ai-pen-casablanca-screenwriters-take-aim-at-chatgpt/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 37
   - title: "Could AI pen 'Casablanca'? Screenwriters take aim at ChatGPT"
     excerpt: "When Greg Brockman, the president and co-founder of ChatGPT maker OpenAI, was recently extolling the capabilities of artificial intelligence, he turned to “Game of Thrones.” Imagine, he said, if you could use AI to rewrite the ending of that not-so-popular finale."
     publishedDateTime: 2023-05-05T17:46:00Z
@@ -85,6 +74,20 @@ related:
       - url: "https://s.hdnux.com/photos/01/32/60/06/23790004/3/rawImage.jpg"
         width: 2048
         height: 1365
+        isCached: true
+  - title: "Torah is the anti-ChatGPT. But we can embrace artificial intelligence without losing our soul."
+    excerpt: "I recently asked ChatGPT, the online chatbot, to write a verse in the style of the Bible about robots taking over the world."
+    publishedDateTime: 2023-05-08T17:43:00Z
+    webUrl: "https://www.jewishaz.com/opinion/torah-is-the-anti-chatgpt-but-we-can-embrace-artificial-intelligence-without-losing-our-soul/article_9fbb6fd6-edc7-11ed-91cd-2bcf69a3d42b.html"
+    type: article
+    provider:
+      name: Northern Arizona Jewish News
+      domain: jewishaz.com
+    quality: 27
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/jewishaz.com/content/tncms/assets/v3/editorial/2/eb/2eb5d1d6-edc8-11ed-9209-b32e3208dd0a/645935bcdbcea.image.jpg?crop=1931%2C1014%2C0%2C29&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "GdUOZ1u42RhiZZnMEsoLoKuI9z1GH3vQP+CvZpxBeY1MmIHU30FlpUg5eExkRWulmOCDyKyrmsX5dm7A1jbNPBK8Jkh8oPHMlvPK8dUogXintSAnCNd9mJmExVaR4wYVYJGTS/OlSOaHKcM0ZXA38PrPRes9LGbYnwCWTCun86qAkNifz5IFj93W0AyjKiz5jnoBog7TS3cDLFq+v+IUK1uFN1grXR6qXEl385CwfQzJh0gkwtJrkqIU3UMZrtuKl7B8z6Qy9Dev224yJLU7vzmZtmeQR66L01To9Aex+CRWIn0pJwgkqvRC3CStRiOWSeM6s2FjAXRT7gH3RKA+juwsBC0AGvF+VdE+5IAvtrI=;mSTiE8zIJAcDkUKueyolrA=="

@@ -1,20 +1,29 @@
 ---
 category: news
-title: "Qatar Adopts Speech Recognition AI To Boost Prosecution Efficiency"
-excerpt: "Qatar has started to use AI speech-to-text technology in public prosecution to boost efficiency, local media reported Thursday, Azernews reports cit"
-publishedDateTime: 2023-05-04T23:54:00Z
-originalUrl: "https://menafn.com/1106188424/Qatar-Adopts-Speech-Recognition-AI-To-Boost-Prosecution-Efficiency"
-webUrl: "https://menafn.com/1106188424/Qatar-Adopts-Speech-Recognition-AI-To-Boost-Prosecution-Efficiency"
+title: "Qatar adopts speech recognition AI to boost prosecution efficiency"
+excerpt: "Qatar has started to use AI speech-to-text technology in public prosecution to boost efficiency, local media reported Thursday, Azernews reports citing Xinhua."
+publishedDateTime: 2023-05-05T16:23:00Z
+originalUrl: "https://www.azernews.az/region/209499.html"
+webUrl: "https://www.azernews.az/region/209499.html"
 type: article
+quality: 54
+heat: 54
+published: false
 
 provider:
-  name: Mena FN
-  domain: menafn.com
+  name: Azer News
+  domain: azernews.az
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "9NQ0Vx21e+saGiR1RF0A7lWca0A5jKObWG7jdkIRjDObj/DikI/vVNSbhlogiTjIR29OZprO8oHMmqMAvd7qfqGKp2IOqA4HbPglqbdsSw1pxsfgcAJPyzqoOgbq5K1zHSzovPdRWIyO0AEQ9/88IEn5w02Obt6+MYHbSt8SOrN9A/1BfX9XaCg9QQJ0uPuZkupZ2RifGh/zCJoLXlk2qps20KXd1VtJMsesviyb0Fl/A1+fZoKH5ufQEUQcgAYpEziNcmv44LvrnypR1eFOFHAajOmkXITMvnWmaYWEyQpxIKxPyCWTwjzZl8b5LSn2GlNh4ZMEJ1EWE3/++yBFLroc+uvBynvuUS2gF0EZAHcKQU5jtWYHQtgz6OTxmH9gRU6Z29+qVS2dWtq99jllqAvxU9q23ICinlm8W0J8pwe60fefimjBPhI67gginAskbdE2UvZO6VXhLQc5Vctghm0WS6IAZPTU4ETVIf2tbGwq72nbHdM534m/lSGyzaz1t9xoNxqLI6gbwXrNIdA1RQ==;BUeRAmpPxa7bx+GbCmXd8g=="
+images:
+  - url: "https://www.azernews.az/media/2023/05/05/artificial_intelligence_ai_230422.jpg"
+    width: 941
+    height: 647
+    isCached: true
+
+secured: "5QnL309n/GWJaA8Fwwk7VaqxvXMiYkLMKwSdDy8RUd9XZ6RHGiwR+LjHYHWtRPGIMFyjzj67KQLXobBQuKsG2/QOjr7fmvDU2YIlIV9WO9mXk5Ju+G+yAvxOM8UoQKdGaXbhHAVvzSOHGDkMCiq4/NQtZWoKugO7WAu0iWkjS8S6aJ9YFXG34pJh+iZCv4fQAlDU6TckzVzwiGVqXzrCqOo3qXcGlKo1eT2qzhpcMWNCbH3p1meJsV4FGmeSiN75W4+ipDlwZTnCBXaW+B0cCygrrGrkEbXGl0jazlabrM55gzz2kl870Rpty9bzqJHbX3SECW6UI9gJ/Bv3gnuxouKRW0R8jRuym4tglVt/8G8=;N1YBKJAR5rlfBvUhTSTgHw=="
 ---
 

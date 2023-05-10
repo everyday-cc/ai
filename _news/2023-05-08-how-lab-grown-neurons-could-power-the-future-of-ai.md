@@ -50,6 +50,15 @@ related:
       name: Wired
       domain: wired.com
     quality: 47
+  - title: "What Does the Future Hold for AI in Chip Design?"
+    excerpt: "It’s hard to imagine a time when AI wasn’t a part of the silicon chip design flow. Since intelligence has now been integrated into design, verification,"
+    publishedDateTime: 2023-05-10T06:56:00Z
+    webUrl: "https://www.design-reuse.com/industryexpertblogs/54010/what-does-the-future-hold-for-ai-in-chip-design.html"
+    type: article
+    provider:
+      name: Design-Reuse
+      domain: design-reuse.com
+    quality: 34
 
 secured: "TmRaeCeuYcXvU1Gakey5sJHuUqHNySWHR/iEK3PVxrNQX3jEnylQMtvpcFiZkUCyLCeoj2eXtvliDAXPNxbGhtzDk1HyT/J9kNWC4wC3/Ni9grrp/BgNQaspYJdl3qE25szyTfJZTnfB7hUQqHP6yCoQwHkMAkWP90fwCqjwJTMBq4FJ9l5Xi9Ig1hP9H3D7LhxDFfMdSZARLZZw/+WUdU+wqZU9ULkwZsU3PHkCR+BSQDBFmAdwxRPdsUz1RNjICy0bWT2c1puQv/rtW05f8u1idJIqJ+0k3YRBWbJRbgI65cw5BcfsXuJE2ZZZh1AuskwIHyEQ6SlXifLY7T45lgRAzMakRFJh4tZOJGl1da2k7LyPlod9Zv4de1NYQiloKgeW7WW6mOROEZeRDuJzamCFmessNxgj8l5R//27sCQAVG+3yCOe9gixaFImPTMP3KcmdmOVxi7H0OrM9SZby+Ey2xO30EiZOmvf8iVEHncLQINQodqOtatmmHpWalxXsxJF5ABVeOw0w7MmJDN1tQ==;nyozMEIqo+33t38bYdYBWA=="
 ---

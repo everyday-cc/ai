@@ -7,7 +7,7 @@ originalUrl: "https://techcrunch.com/sponsor/nvidia-aws-company/why-generative-a
 webUrl: "https://techcrunch.com/sponsor/nvidia-aws-company/why-generative-ai-is-the-finance-industrys-road-to-superior-customer-service/"
 type: article
 quality: 83
-heat: 103
+heat: 113
 published: true
 
 provider:
@@ -30,15 +30,20 @@ images:
     isCached: true
 
 related:
-  - title: "GENAI LAUNCHES ARTIFICIAL INTELLIGENCE PROJECT TO CREATE A NEWSWIRE SERVICE FOR INVESTORS"
-    excerpt: "Global AI Newswire has engaged Metachain Technologies Inc. (\" Metachain \") to perform the artificial intelligence development services with the goal of commercializing the Newswire Product over the next 90 days in accordance with a services agreement entered into between GenAI,"
-    publishedDateTime: 2023-05-05T13:11:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/05/05/9808660.htm"
+  - title: "How Artificial Intelligence is Used in Customer Service"
+    excerpt: "Of all the applications for artificial intelligence (AI), customer service is one of the most common. Companies big and small have been using tools like AI customer service bots and voice assistants in order to handle customer requests,"
+    publishedDateTime: 2023-05-08T18:20:00Z
+    webUrl: "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/ai-in-customer-service/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 25
+      name: The Motley Fool
+      domain: fool.com
+    quality: 67
+    images:
+      - url: "https://m.foolcdn.com/media/dubs/images/image_7.width-600.jpg"
+        width: 600
+        height: 400
+        isCached: true
   - title: "Learning from the Past: Why Dismissing Generative AI Is a Risky Proposition for the Legal Industry"
     excerpt: "While reflecting before moving forward with transformative technology is prudent, we should not allow resistance to change to exert undue influence on the decision to explore the benefits generative AI brings to the legal field."
     publishedDateTime: 2023-05-09T22:35:00Z
@@ -53,6 +58,15 @@ related:
         width: 767
         height: 633
         isCached: true
+  - title: "The Future of Fintech: How AI is Disrupting the Financial Industry"
+    excerpt: "The financial industry is undergoing a significant transformation thanks to the emergence of Artificial Intelligence (AI) and machine learning. On a global scale, the AI-based fintech market experienced growth from $9."
+    publishedDateTime: 2023-05-08T19:03:00Z
+    webUrl: "https://techbullion.com/the-future-of-fintech-how-ai-is-disrupting-the-financial-industry/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 19
 
 secured: "Wo2TrTMyBx6DxZ242SA02ypn9GVgcgs36LtYGOZI8VJSRG4qwh/bz8awA/LVstSkto+aHufnifuvo4B1pbAfkhOywP65tnd3GNUeekdYPT8TOe4fbl2/U6MeNVF04qT5dub/I7zk1tfSnvetK4s6NKAhCNbADylO0TeE6A8a8WI8/yX+uDbRxKbEncdLXU0AAM2W76zLQnvc5AocayDRCoM7L/hwJ2wfoEQyupA2joVZnfKL2xaPk7k2twWtK+Sjrm8IAk42x8O1mOud1egWw2bdAhfbcDssSzFc+OXENpFLx19bPOo648yIFvBqjoWQa+MKbVv1qOhM7a74w/32OPbaOHwUL7/imi1nFrYMAxyCZgkKrhYf7lK8OrV8Z+K7AMzqKq9oeAouRyDGY4HuhgR5CzEI3PIiT/kjerrMEnqDT+c0H4guVQCkeZThD+7Wrs/F9z11lHawumuwLwTGO8nZG+XfVvDF6fKsBVosRTKA8HN3KAUX0Z9ZjICKrZ0yLaPPP3owDrCM4P2AO0OT3g==;FStkPhQ8m3+SW0sIyejuJA=="
 ---

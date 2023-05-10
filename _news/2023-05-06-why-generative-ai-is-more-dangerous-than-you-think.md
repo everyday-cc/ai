@@ -75,15 +75,6 @@ related:
         width: 1366
         height: 768
         isCached: true
-  - title: "There’s Still A Long Way To Go With Generative AI"
-    excerpt: "The tech world is awash with generative AI, which for a company like Nvidia, is a good thing. The company that a decade ago put its money down on AI to be"
-    publishedDateTime: 2023-05-05T13:54:00Z
-    webUrl: "https://www.nextplatform.com/2023/05/05/theres-still-a-long-way-to-go-with-generative-ai/"
-    type: article
-    provider:
-      name: The Next Platform
-      domain: nextplatform.com
-    quality: 19
 
 secured: "W4K9nbENHjq0Acx8wy3ZF1vI9jJK9X4rmIcwWOugDkXOfgoc7m90jNQbLBZ9bO9Y6Gd0UvOBBzAixR2L+jF1PpeyRuYoJ1hitDexRUw/pSxOeI3Jz5WOnwJIKU/Cp3py+g8rrtoCCq1j3UKj0etSsGJwSa+Aoj9ascBp17+ppADTbXvdx8+58xguYeq3sKARuqW74iyt5W3odtMGDMc5Lkd1RxhpdHbFcoMwp2vJFh9cGwahXNI+gdA5N6TsbRuDkFUTxNVK4TulzdcpwrmFlEd9cIv0+efdMG5jkyotGl9YBu1WCnfMv2xpKtduswmHAF1I8bQynnl0KiWVYM9WnrM8EqJWZZRw9bUms9BATSvI1YCwsXvoZy4dirSOb6VqEFdKaTQ0aGfrY5oxQS76Jtb8h1yPZjsWPs/NI8RABE4SaV/K0mUW9ebQ4hvkcOLrqLgqZkVin7Ae6rQQt8O2wzwBPMntH61zxKrgoN9cM1A7f6aYQdsZhDSlWW4QFNm5JYGVi3GrJHyYNJula8lvzQ==;3jU9vY35HMciki8Fl2LCyg=="
 ---

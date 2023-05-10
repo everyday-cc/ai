@@ -9,8 +9,8 @@ ampWebUrl: "https://inshorts.com/m/en/amp_news/meta-hires-ai-team-of-uk-chip-uni
 cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/meta-hires-ai-team-of-uk-chip-unicorn-graphcore-1683303868650"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 114
+published: true
 
 provider:
   name: Inshorts
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Meta Platforms scoops up AI networking chip team from Graphcore"
-    excerpt: "Meta Platforms Inc has hired an Oslo-based team that until late last year was building artificial-intelligence networking technology at British chip unicorn Graphcore."
-    publishedDateTime: 2023-05-05T13:28:00Z
-    webUrl: "https://www.reuters.com/technology/meta-platforms-scoops-up-ai-networking-chip-team-graphcore-2023-05-05/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 86
-    images:
-      - url: "https://www.reuters.com/resizer/8g5tZ20Sbn0AThhkzgz3v_o1wMA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WBUVTOEJBFKNFAXZSYE544RLH4.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Meta Platforms scoops up AI networking chip team from Graphcore"
     excerpt: "Meta Platforms Inc has hired an Oslo-based team that until late last year was building artificial-intelligence networking technology at British chip unicorn Graphcore.A Meta spokesperson confirmed the hirings in response to a request for comment,"
     publishedDateTime: 2023-05-06T01:31:00Z
