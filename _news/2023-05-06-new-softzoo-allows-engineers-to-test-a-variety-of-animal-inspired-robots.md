@@ -7,7 +7,7 @@ originalUrl: "https://interestingengineering.com/innovation/new-softzoo-allows-e
 webUrl: "https://interestingengineering.com/innovation/new-softzoo-allows-engineers-to-test-a-variety-of-animal-inspired-robots"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 1920
     height: 1080
     isCached: true
-
-related:
-  - title: "Researchers built a ‘SoftZoo’ to virtually test animal-inspired robots"
-    excerpt: "MIT researchers designed an open-source program that simulates animal soft robots in a variety of environments."
-    publishedDateTime: 2023-05-05T17:00:00Z
-    webUrl: "https://www.popsci.com/technology/softzoo-animal-robots/"
-    ampWebUrl: "https://www.popsci.com/technology/softzoo-animal-robots/?amp"
-    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/softzoo-animal-robots/?amp"
-    type: article
-    provider:
-      name: Popular Science
-      domain: popsci.com
-    quality: 59
-    images:
-      - url: "https://www.popsci.com/uploads/2023/05/05/Depositphotos_102970124_L-1.jpg?auto=webp"
-        width: 2000
-        height: 1125
-        isCached: true
 
 secured: "0SqwRCxYlTo2HmyUqcmNZgPyOXiMT3Wc9dQLrQ5Dtzc1kDi+2KEKril55JMiVeXrFublc4AosiQHWIsENZklySBNZuW9rm4uuh1W5EAdsrx/taPz1/WqrWdmKsFsBPPNR69yuBTZg/IRn1d1C6+aIJ2LKLYyPYJoM8AQ5vKWqYuBKzZz/qB2uT2aNxA5cyJz3RxaWBR2P6MXOqJ8PDdkVi+qJiJ6jZZnpnXebu7+oNohIYrn/aNplK4zQnkDYip9xlxdwYJOgSSQmRBKUvTqP9GYJEftLqbQmCP75H9ioBuP0GyccjML26/vEwVFFGe8TCDmwZqRaB5+OwpjcW4Uvlr/Ez6ZYR8rxGOHc4lW2668Xmy14ZjYpk3QtIimk68nTxr/qeuhHm6/cCe6WL4meVMHnzkMpxMlimIM6/AmOlY8pa/i1+HR5VoMBFFouWNym9PRqlVAVfZnXpeQWUb3WGTmm6h42N0o7cEaTQ0b6lstd8bHXO7VkRGmhZJ7dV5KME1M3dRLejgAYPafXHcoYg==;n9C2cJcWOIIQikcObQhbkA=="
 ---

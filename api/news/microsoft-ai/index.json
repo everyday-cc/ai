@@ -449,6 +449,50 @@
       ]
     },
     {
+      "path": "_news/2023-05-06-meta-platforms-scoops-up-ai-networking-chip-team-from-graphcore.md",
+      "title": "Meta Platforms scoops up AI networking chip team from Graphcore",
+      "excerpt": "Meta Platforms Inc has hired an Oslo-based team that until late last year was building artificial-intelligence networking technology at British chip unicorn Graphcore.A Meta spokesperson confirmed the hirings in response to a request for comment,",
+      "sourceUrl": null,
+      "webUrl": "https://www.channelnewsasia.com/business/meta-platforms-scoops-ai-networking-chip-team-graphcore-3468007",
+      "originalUrl": "https://www.channelnewsasia.com/business/meta-platforms-scoops-ai-networking-chip-team-graphcore-3468007",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://onecms-res.cloudinary.com/image/upload/s--9HumNy0t--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2023-05-05t133156z_1_lynxmpej440h9_rtroptp_3_meta-platforms-ai.jpg?itok=k0W4eQWc",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-05T18:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Channel NewsAsia Singapore",
+        "domain": "channelnewsasia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2023-05-06-how-microsoft-might-turn-bing-chat-into-your-ai-personal-assistant.md",
       "title": "How Microsoft might turn Bing Chat into your AI personal assistant",
       "excerpt": "Commentary: After analyzing recent Microsoft developer content, expert Simon Bisson says there is a big clue into how Bing Chat will work.",
@@ -457,7 +501,7 @@
       "originalUrl": "https://www.techrepublic.com/article/microsoft-bing-chat-ai-personal-assistant/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 496,
+      "heat": 486,
       "tags": null,
       "images": [
         {
@@ -1460,58 +1504,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-28-rsa-conference-2023-ushers-in-the-age-of-artificial-intelligence.md",
-      "title": "RSA Conference 2023 Ushers In The Age Of Artificial Intelligence",
-      "excerpt": "Vice President, Security, Carriers and Enterprise Networking, Will Townsend, shares his insights into what he found most compelling at RSA Conference 2023.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/moorinsights/2023/04/28/rsa-conference-2023-ushers-in-the-age-of-artificial-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/moorinsights/2023/04/28/rsa-conference-2023-ushers-in-the-age-of-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/644bf598b7ad555c305df357/0x0.jpg?format=jpg&crop=802,450,x0,y0,safe&width=1200",
-          "width": 802,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2023/04/28/rsa-conference-2023-ushers-in-the-age-of-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/04/28/rsa-conference-2023-ushers-in-the-age-of-artificial-intelligence/amp/",
-      "publishedDateTime": "2023-04-28T09:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

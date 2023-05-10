@@ -54,6 +54,58 @@
       ]
     },
     {
+      "path": "_news/2023-05-09-european-union-set-to-be-trailblazer-in-global-rush-to-regulate-artificial-intelligence.md",
+      "title": "European Union Set to Be Trailblazer in Global Rush to Regulate Artificial Intelligence",
+      "excerpt": "Even European Union officials working on groundbreaking rules to govern the emerging technology were caught off guard by AI’s rapid rise. The 27-nation bloc proposed the Western world’s first AI rules two years ago,",
+      "sourceUrl": null,
+      "webUrl": "https://time.com/6278144/european-union-artificial-intelligence-regulation/",
+      "originalUrl": "https://time.com/6278144/european-union-artificial-intelligence-regulation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://time.com/img/icons/wallet-connect.png",
+          "width": 256,
+          "height": 256,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-09T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Time",
+        "domain": "time.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/time.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2023-05-08-driving-profitable-business-growth-5-areas-for-cfos-to-explore.md",
       "title": "Driving Profitable Business Growth: 5 Areas For CFOs To Explore",
       "excerpt": "In this new world, business leaders should not forget about the other side of the coin, growth, which drives companies forward.",
@@ -365,15 +417,15 @@
       "title": "Insider Q&A: Aurora CEO Chris Urmson on self-driving trucks",
       "excerpt": "Sometime next year, semis with no human in the cab will start carrying freight down Interstate 45 between Dallas and Houston. The trucks will run on an autonomous driving system called the Aurora Driver,",
       "sourceUrl": null,
-      "webUrl": "https://omaha.com/business/insider-q-a-aurora-ceo-chris-urmson-on-self-driving-trucks/article_fee626a6-337c-55fd-bed4-816ab5e6b1fd.html",
-      "originalUrl": "https://omaha.com/business/insider-q-a-aurora-ceo-chris-urmson-on-self-driving-trucks/article_fee626a6-337c-55fd-bed4-816ab5e6b1fd.html",
+      "webUrl": "https://scnow.com/business/insider-q-a-aurora-ceo-chris-urmson-on-self-driving-trucks/article_d1467914-f347-56a8-b00d-c5d2289c43ce.html",
+      "originalUrl": "https://scnow.com/business/insider-q-a-aurora-ceo-chris-urmson-on-self-driving-trucks/article_d1467914-f347-56a8-b00d-c5d2289c43ce.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/f/ee/fee626a6-337c-55fd-bed4-816ab5e6b1fd/6453ea6348932.preview.jpg?crop=1024%2C538%2C0%2C71&resize=1024%2C538&order=crop%2Cresize",
+          "url": "https://bloximages.newyork1.vip.townnews.com/scnow.com/content/tncms/assets/v3/editorial/d/14/d1467914-f347-56a8-b00d-c5d2289c43ce/6453ea65ba591.preview.jpg?crop=1024%2C538%2C0%2C71&resize=1024%2C538&order=crop%2Cresize",
           "width": 1024,
           "height": 538,
           "title": null,
@@ -388,8 +440,8 @@
       "publishedDateTime": "2023-05-04T10:15:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Omaha.com",
-        "domain": "omaha.com",
+        "name": "SCNow",
+        "domain": "scnow.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1334,49 +1386,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2023-04-28T13:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-29-addison-selected-as-host-site-for-a-fourth-time-for-artificial-intelligence-bootcamp-applications-now-open.md",
-      "title": "Addison Selected as Host Site for a Fourth Time for Artificial Intelligence Bootcamp – APPLICATIONS NOW OPEN!",
-      "excerpt": "Headstorm will host a Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp for high school students at no cost for a 4th time in the Fall of 2023. The AI",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/04/g32092893/addison-selected-as-host-site-for-a-fourth-time-for-artificial-intelligence-bootcamp-applications-",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/04/g32092893/addison-selected-as-host-site-for-a-fourth-time-for-artificial-intelligence-bootcamp-applications-",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/32092893",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32092893",
-      "publishedDateTime": "2023-04-28T12:54:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Benzinga.com",

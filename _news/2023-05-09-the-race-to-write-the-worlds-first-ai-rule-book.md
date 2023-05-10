@@ -74,6 +74,15 @@ related:
       name: The Michigan Daily
       domain: michigandaily.com
     quality: 19
+  - title: "Artificial intelligence can be found in many places. How safe is the technology?"
+    excerpt: "NPR's A Martinez speaks with Jack Clark, co-founder of artificial intelligence company Anthropic, about AI safety concerns."
+    publishedDateTime: 2023-05-10T09:08:00Z
+    webUrl: "https://www.boisestatepublicradio.org/2023-05-10/artificial-intelligence-can-be-found-in-many-places-how-safe-is-the-technology"
+    type: article
+    provider:
+      name: Boise State Public Radio
+      domain: boisestatepublicradio.org
+    quality: 14
   - title: "Researchers Of Open-Source Project Advance The State Of The Art In AI For Music"
     excerpt: "The researcher’s community has come up with an innovative way to amalgamate cutting edge technologies in speech, text, sound like the transformer-based language models and generative AI techniques to generate music using AI."
     publishedDateTime: 2023-05-10T01:59:00Z

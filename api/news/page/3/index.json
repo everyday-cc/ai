@@ -2,6 +2,256 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-05-09-study-presents-large-brain-like-neural-networks-for-ai.md",
+      "title": "Study presents large brain-like neural networks for AI",
+      "excerpt": "In a new study in Nature Machine Intelligence, researchers Bojian Yin and Sander Bohté from the HBP partner Dutch National Research Institute for Mathematics and Computer Science (CWI) demonstrate a significant step towards artificial intelligence that can be used in local devices like smartphones and in VR-like applications,",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2023-05-large-brain-like-neural-networks-ai.html",
+      "originalUrl": "https://techxplore.com/news/2023-05-large-brain-like-neural-networks-ai.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/human-brain-project-st.jpg",
+          "width": 1345,
+          "height": 1105,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2023-05-large-brain-like-neural-networks-ai.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-05-large-brain-like-neural-networks-ai.amp",
+      "publishedDateTime": "2023-05-08T13:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-09-ai-and-predictive-analytics-moving-from-insights-to-foresight.md",
+      "title": "AI And Predictive Analytics: Moving From Insights To Foresight",
+      "excerpt": "Given how much AI dominates today's technology conversations, many businesses feel the competitive pressure to jump on AI and analytics opportunities.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/microsoft_/2023/05/08/ai-and-predictive-analytics-moving-from-insights-to-foresight/",
+      "originalUrl": "https://www.forbes.com/sites/microsoft_/2023/05/08/ai-and-predictive-analytics-moving-from-insights-to-foresight/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/645947bc0b8337af0bbe84e5/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/microsoft_/2023/05/08/ai-and-predictive-analytics-moving-from-insights-to-foresight/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/microsoft_/2023/05/08/ai-and-predictive-analytics-moving-from-insights-to-foresight/amp/",
+      "publishedDateTime": "2023-05-08T13:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-09-gptzero-app-seeks-to-thwart-ai-plagiarism-in-schools-online-media.md",
+      "title": "GPTZero App Seeks to Thwart AI Plagiarism in Schools, Online Media",
+      "excerpt": "Journalists, screenwriters and college professors are among widening groups of people who are concerned about eventually losing their livelihoods to artificial intelligence programs like ChatGPT, which can produce copy faster and possibly better than humans.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2023-05-08/gptzero-seeks-to-thwart-plagerism-in-schools-online-media",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2023-05-08/gptzero-seeks-to-thwart-plagerism-in-schools-online-media",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i8PyNCKfqxCs/v1/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-08T13:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg L.P.",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-09-antimetal-is-putting-ai-to-work-to-root-out-cloud-cost-inefficiencies.md",
+      "title": "Antimetal is putting AI to work to root out cloud cost inefficiencies",
+      "excerpt": "Antimetal, a NYC-based startup, announced a $4.3 million seed investment to help optimize AWS costs with plans to add other platforms soon.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/05/08/antimetal-is-putting-ai-to-work-to-root-out-cloud-cost-inefficiencies/",
+      "originalUrl": "https://techcrunch.com/2023/05/08/antimetal-is-putting-ai-to-work-to-root-out-cloud-cost-inefficiencies/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-172276209.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/05/08/antimetal-is-putting-ai-to-work-to-root-out-cloud-cost-inefficiencies/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/08/antimetal-is-putting-ai-to-work-to-root-out-cloud-cost-inefficiencies/amp/",
+      "publishedDateTime": "2023-05-08T11:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-08-securing-mlflow-in-aws-fine-grained-access-control-with-aws-native-services.md",
+      "title": "Securing MLflow in AWS: Fine-grained access control with AWS native services",
+      "excerpt": "With Amazon SageMaker, you can manage the whole end-to-end machine learning (ML) lifecycle. It offers many native capabilities to help manage ML workflows aspects, such as experiment tracking, and model governance via the model registry. This post provides a solution tailored to customers that are already",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/securing-mlflow-in-aws-fine-grained-access-control-with-aws-native-services/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/securing-mlflow-in-aws-fine-grained-access-control-with-aws-native-services/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/05/02/ML-12213-mlflow_architecture-958x630.png",
+          "width": 958,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-08T10:12:34-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-08-host-ml-models-on-amazon-sagemaker-using-triton-tensorrt-models.md",
       "title": "Host ML models on Amazon SageMaker using Triton: TensorRT models",
       "excerpt": "Sometimes it can be very beneficial to use tools such as compilers that can modify and compile your models for optimal inference performance. In this post, we explore TensorRT and how to use it with Amazon SageMaker inference using NVIDIA Triton Inference Server. We explore how TensorRT works and how",
@@ -10,7 +260,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/host-ml-models-on-amazon-sagemaker-using-triton-tensorrt-models/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 146,
+      "heat": 136,
       "tags": null,
       "images": [
         {
@@ -407,7 +657,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-ml-platforms-market-intelligence-report-2023-2031-by-industry-experts-2023-05-08",
       "featuredContent": null,
       "highlight": null,
-      "heat": 137,
+      "heat": 127,
       "tags": null,
       "images": [
         {
@@ -564,7 +814,7 @@
       "originalUrl": "https://www.ibm.com/blog/the-risks-and-limitations-of-ai-in-insurance/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 199,
+      "heat": 209,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -813,7 +1063,7 @@
       "originalUrl": "https://www.wired.com/story/hollywood-screenwriters-artificial-intelligence-guardrails/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 167,
+      "heat": 177,
       "tags": null,
       "images": [
         {
@@ -1010,257 +1260,6 @@
         "AI",
         "AI in Healthcare",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-08-warehouse-robotics-market-share-size-financial-summaries-analysis-from-2023-to-2028.md",
-      "title": "Warehouse Robotics Market Share, Size, Financial Summaries Analysis from 2023 to 2028",
-      "excerpt": "Warehouse Robotics report provides a detailed analysis of regional and country-level market size, segmentation market growth, market share, competitive Landscape, sales analysis, impact of domestic. The warehouse robotics market has been witnessing significant growth in recent years.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/warehouse-robotics-market-share-size-financial-summaries-analysis-from-2023-to-2028-2023-05-08",
-      "originalUrl": "https://www.marketwatch.com/press-release/warehouse-robotics-market-share-size-financial-summaries-analysis-from-2023-to-2028-2023-05-08",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-08T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-08-makemytrip-adds-ai-voice-chat-to-lure-more-india-travelers.md",
-      "title": "MakeMyTrip Adds AI Voice Chat to Lure More India Travelers",
-      "excerpt": "India’s largest online travel-booking service is rolling out a voice chat service powered by artificial intelligence, becoming the country’s first major company to harness recent advances in generative AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2023-05-08/makemytrip-adds-ai-voice-chat-to-lure-more-india-travelers",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2023-05-08/makemytrip-adds-ai-voice-chat-to-lure-more-india-travelers",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iVQ2b33ZQBzI/v1/1200x800.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-08T00:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg L.P.",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-08-google-ibm-to-tesla-how-these-companies-are-using-ai-to-transform-work.md",
-      "title": "Google, IBM to Tesla, how these companies are using AI to transform work",
-      "excerpt": "Google, IBM to Tesla are some companies that are leading the way in AI and driving transformation and innovation. Artificial Intelligence (AI) is one of the most transformative technologies of the current time.",
-      "sourceUrl": null,
-      "webUrl": "https://tech.hindustantimes.com/tech/news/google-ibm-to-tesla-how-these-companies-are-using-ai-to-transform-work-71683530733850.html",
-      "originalUrl": "https://tech.hindustantimes.com/tech/news/google-ibm-to-tesla-how-these-companies-are-using-ai-to-transform-work-71683530733850.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hindustantimes.com/tech/img/2023/05/08/1600x900/Digital-Ad-Tax-0_1683531188343_1683531212843.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://tech.hindustantimes.com/amp/tech/news/google-ibm-to-tesla-how-these-companies-are-using-ai-to-transform-work-71683530733850.html",
-      "cdnAmpWebUrl": "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/google-ibm-to-tesla-how-these-companies-are-using-ai-to-transform-work-71683530733850.html",
-      "publishedDateTime": "2023-05-08T00:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hindustan Times Tech",
-        "domain": "hindustantimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-05-08-baidu-to-unveil-own-smartphone-next-week-in-surprise-ai-move.md",
-      "title": "Baidu to Unveil Own Smartphone Next Week in Surprise AI Move",
-      "excerpt": "The Beijing-based internet firm’s Xiaodu unit, similar to Amazon.com Inc. ’s Alexa division, will unveil its first smartphone product next week, a spokesperson said. Xiaodu has developed smart speakers running Baidu’s own DuerOS software, which the company describes as a conversational artificial intelligence system.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2023-05-08/baidu-to-unveil-own-smartphone-next-week-in-surprise-ai-move",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2023-05-08/baidu-to-unveil-own-smartphone-next-week-in-surprise-ai-move",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i3HYc4yxYT1g/v0/1200x800.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-07T23:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg L.P.",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-08-the-geopolitics-of-ai-chips-will-define-the-future-of-ai.md",
-      "title": "The Geopolitics Of AI Chips Will Define The Future Of AI",
-      "excerpt": "The most important and widely used AI chip in the world today, Nvidia’s A100 GPU, has transistors that are 7 nanometers wide. Google’s latest tensor processing unit (TPU)—the most credible alternative to Nvidia GPUs— likewise uses 7-nanometer technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/robtoews/2023/05/07/the-geopolitics-of-ai-chips-will-define-the-future-of-ai/",
-      "originalUrl": "https://www.forbes.com/sites/robtoews/2023/05/07/the-geopolitics-of-ai-chips-will-define-the-future-of-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/645743bb6563f17e999c02fa/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/robtoews/2023/05/07/the-geopolitics-of-ai-chips-will-define-the-future-of-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2023/05/07/the-geopolitics-of-ai-chips-will-define-the-future-of-ai/amp/",
-      "publishedDateTime": "2023-05-07T16:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

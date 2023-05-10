@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2023-05-10-ai-to-create-a-serious-number-of-losers-deepmind-co-founder-warns.md",
-      "title": "AI to create ‘a serious number of losers’, DeepMind co-founder warns",
-      "excerpt": "Mustafa Suleyman said governments should think about how to support workers who lose their jobs to technology.",
+      "path": "_news/2023-05-09-deepmind-pioneer-issues-warning-on-dangers-of-ai-autonomy.md",
+      "title": "DeepMind pioneer issues warning on dangers of AI autonomy",
+      "excerpt": "AI programs should not be taught how to improve themselves, according to a co-founder of the artificial intelligence research lab DeepMind. Mustafa Suleyman sa",
       "sourceUrl": null,
-      "webUrl": "https://www.afr.com/technology/ai-to-create-a-serious-number-of-losers-deepmind-co-founder-warns-20230510-p5d7fm",
-      "originalUrl": "https://www.afr.com/technology/ai-to-create-a-serious-number-of-losers-deepmind-co-founder-warns-20230510-p5d7fm",
+      "webUrl": "https://www.thetimes.co.uk/article/deepmind-pioneer-issues-warning-on-dangers-of-ai-autonomy-rklxhnc76",
+      "originalUrl": "https://www.thetimes.co.uk/article/deepmind-pioneer-issues-warning-on-dangers-of-ai-autonomy-rklxhnc76",
       "featuredContent": null,
       "highlight": null,
       "heat": 74,
       "tags": null,
       "images": [
         {
-          "url": "https://static.ffx.io/images/$zoom_0.4089%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_129%2C$y_35/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/ceb2fe3e55af0b58698f81ab445d7badef475736",
+          "url": "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F1535ef20-edd7-11ed-87b0-716b9284a2b0.jpg?crop=5496%2C3091%2C0%2C286&resize=1200",
           "width": 1200,
-          "height": 628,
+          "height": 674,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -26,11 +26,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-10T00:44:00-07:00",
+      "publishedDateTime": "2023-05-08T16:01:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Australian Financial Review",
-        "domain": "afr.com",
+        "name": "The Times",
+        "domain": "thetimes.co.uk",
         "images": null,
         "publishers": null,
         "authors": null

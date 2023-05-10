@@ -7,7 +7,7 @@ originalUrl: "https://www.moneyweb.co.za/news/ai/startup-from-reid-hoffman-and-d
 webUrl: "https://www.moneyweb.co.za/news/ai/startup-from-reid-hoffman-and-deepmind-co-founder-debuts-chatbot/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,31 +23,6 @@ images:
     width: 1024
     height: 682
     isCached: true
-
-related:
-  - title: "AI to create ‘a serious number of losers’, DeepMind co-founder warns"
-    excerpt: "Mustafa Suleyman said governments should think about how to support workers who lose their jobs to technology."
-    publishedDateTime: 2023-05-10T07:44:00Z
-    webUrl: "https://www.afr.com/technology/ai-to-create-a-serious-number-of-losers-deepmind-co-founder-warns-20230510-p5d7fm"
-    type: article
-    provider:
-      name: The Australian Financial Review
-      domain: afr.com
-    quality: 54
-    images:
-      - url: "https://static.ffx.io/images/$zoom_0.4089%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_129%2C$y_35/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/ceb2fe3e55af0b58698f81ab445d7badef475736"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "AI will create ‘a serious number of losers’, DeepMind co-founder warns"
-    excerpt: "Advances in artificial intelligence will threaten white-collar workers and create “a serious number of losers” over the next decade, according to one of the co-founders of AI lab DeepMind who has pioneered the technology."
-    publishedDateTime: 2023-05-09T21:05:00Z
-    webUrl: "https://www.ft.com/content/0c105d93-e017-470d-8653-a2a30fd720b2?shareType=nongift"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 34
 
 secured: "9brGn+CVQTBO7Rmp79YS07eVSfSqASHTiMgbMZUvDhbbFiAvHxgwgWyBcpdt/0Vkb12/vgfdgxmKvK5236koZn+2C1JdKBGwW/f4sUJvDajpoF5WGOf3FL3ODk2/uyHLX348xz10t6xuAIvsqI1kY0oVG2qA9CSrJpyZ37Eu6yNIBLmyHyuYxsetfvMK7g/XL9dUQV1cnCMq473W/VdY6J5g2SHnironukbJau5Mnk5YLfMZ1XTHQikJud9UTHJXxkeIllWOpnkiCYUmsQgeaSg05h8dSws6klltm4lbR3qhGXDjHdQPH//KHHUcxrnnbDScKB/sJ02jgYI6/dQauunBzddjaOEBoBhQo3hYZFXuh09ALW1ylNJ4M9u7KkQ3a1GFE0HrKbgoBDIYEUonBOP6gjJ7IxmqzRXBuY4vh+NUpPNITCg5uoJWyDKv47cVLkbtwYNgkn8lfJkFPxkyBO4KJmQZEKiWWnzBhCXcac6tpSNRGYt0ycVgnpseQyw4ZlALXbSM780jJLiAa/4K2Q==;UUzLDLlkjy7v8RAuYrurnw=="
 ---

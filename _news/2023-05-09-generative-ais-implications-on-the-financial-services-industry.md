@@ -36,6 +36,22 @@ related:
       name: IBM
       domain: ibm.com
     quality: 99
+  - title: "Integration of AI in healthcare"
+    excerpt: "According to a case study by Medtronic titled “5 Ways Artificial Intelligence is Transforming Healthcare,” the use of AI in healthcare improves accuracy, promotes interventional insights, supports training and education,"
+    publishedDateTime: 2023-05-08T22:22:00Z
+    webUrl: "https://highschool.latimes.com/sage-hill-school/integration-of-ai-in-healthcare/"
+    ampWebUrl: "https://highschool.latimes.com/sage-hill-school/integration-of-ai-in-healthcare/amp/"
+    cdnAmpWebUrl: "https://highschool-latimes-com.cdn.ampproject.org/c/s/highschool.latimes.com/sage-hill-school/integration-of-ai-in-healthcare/amp/"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 74
+    images:
+      - url: "https://i0.wp.com/highschool.latimes.com/wp-content/uploads/2023/02/ai-healthcarephoto.png?fit=361%2C203&ssl=1"
+        width: 361
+        height: 203
+        isCached: true
   - title: "Artificial Intelligence In Insurtech Market, 2030"
     excerpt: "The Global Artificial Intelligence In Insurtech market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players,"
     publishedDateTime: 2023-05-09T23:56:00Z

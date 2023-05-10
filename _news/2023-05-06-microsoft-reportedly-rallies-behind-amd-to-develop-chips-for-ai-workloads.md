@@ -60,36 +60,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Microsoft and AMD could be partnering on AI chips"
-    excerpt: "Earlier this week, we learned that Microsoft might be interested in following the Apple recipe of developing custom silicon for its ambitions. However, this shouldn't surprise"
-    publishedDateTime: 2023-05-05T16:47:00Z
-    webUrl: "https://www.techspot.com/news/98578-microsoft-might-partnering-amd-ai-chips.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 101
-    images:
-      - url: "https://www.techspot.com/images2/news/bigimage/2023/05/2023-05-05-image-15.jpg"
-        width: 2560
-        height: 1440
-        isCached: true
-  - title: "Microsoft and AMD Working On AI Chips – DTH"
-    excerpt: "Microsoft and AMD reportedly started working together on AI chips, Warner Brothers Discovery expects its streaming business to turn a profit this year, and the Court of Justice of the European"
-    publishedDateTime: 2023-05-05T15:24:00Z
-    webUrl: "https://dailytechnewsshow.com/2023/05/05/microsoft-and-amd-working-on-ai-chips-dth/"
-    ampWebUrl: "https://dailytechnewsshow.com/2023/05/05/microsoft-and-amd-working-on-ai-chips-dth/amp/"
-    cdnAmpWebUrl: "https://dailytechnewsshow-com.cdn.ampproject.org/c/s/dailytechnewsshow.com/2023/05/05/microsoft-and-amd-working-on-ai-chips-dth/amp/"
-    type: article
-    provider:
-      name: Daily Tech News Show
-      domain: dailytechnewsshow.com
-    quality: 91
-    images:
-      - url: "https://i0.wp.com/dailytechnewsshow.com/wp-content/uploads/2019/11/cropped-DTNS-CoverArt-New-1400-x-1400-1.png?fit=512%2C512&ssl=1"
-        width: 512
-        height: 512
-        isCached: true
   - title: "Microsoft’s Big AI Push Could Power Its Cloud Past AWS. Here’s Why."
     excerpt: "Bernstein analyst Mark Moerdler thinks artificial intelligence could drive huge growth at Microsoft—more than most investors expect."
     publishedDateTime: 2023-05-09T16:28:00Z
@@ -175,6 +145,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 71
+  - title: "Microsoft and Oracle considered sharing AI servers amid GPU shortages"
+    excerpt: "That existing infrastructure could be used to share GPU server capacity, a person familiar with the matter told The Information. The publication previously reported that Microsoft has rationed access to AI servers for some of its internal teams ..."
+    publishedDateTime: 2023-05-10T09:58:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-and-oracle-considered-sharing-ai-servers-amid-gpu-shortages/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 71
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/Microsoft_Cloud.2e16d0ba.fill-1200x630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Microsoft reportedly rallies behind AMD to develop chips for AI workloads"
     excerpt: "Microsoft is reported to be working with AMD to develop AI-capable chips and provide an alternative to Nvidia."
     publishedDateTime: 2023-05-08T01:25:00Z

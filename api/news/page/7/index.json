@@ -2,6 +2,294 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-05-05-how-cloud-ai-infrastructure-enables-radiotherapy-breakthroughs-at-elekta.md",
+      "title": "How cloud AI infrastructure enables radiotherapy breakthroughs at Elekta",
+      "excerpt": "Despite a host of challenges, some of the most successful examples of moving innovative AI applications into production come from healthcare.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/how-cloud-ai-infrastructure-enables-radiotherapy-breakthroughs-at-elekta/",
+      "originalUrl": "https://venturebeat.com/ai/how-cloud-ai-infrastructure-enables-radiotherapy-breakthroughs-at-elekta/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/05/Elekta_MOSAIQ-Medical-Oncology-Consultant-Discussion-Image.jpeg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/how-cloud-ai-infrastructure-enables-radiotherapy-breakthroughs-at-elekta/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-cloud-ai-infrastructure-enables-radiotherapy-breakthroughs-at-elekta/amp/",
+      "publishedDateTime": "2023-05-04T12:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-05-uae-chemo-robot-artificial-intelligence-guided-radiotherapy-for-cancer-care-now-available-in-abu-dhabi.md",
+      "title": "UAE: Chemo robot, artificial intelligence-guided radiotherapy for cancer care now available in Abu Dhabi",
+      "excerpt": "Newly-launched Fatima bint Mubarak Center also has latest non-invasive treatments Abu Dhabi: An artificial intelligence-guided radiotherapy treatment, a targeted therapy for liver cancer, and a chemotherapy robot are some of the innovative options that are ...",
+      "sourceUrl": null,
+      "webUrl": "https://gulfnews.com/uae/health/uae-chemo-robot-artificial-intelligence-guided-radiotherapy-for-cancer-care-now-available-in-abu-dhabi-1.95537748",
+      "originalUrl": "https://gulfnews.com/uae/health/uae-chemo-robot-artificial-intelligence-guided-radiotherapy-for-cancer-care-now-available-in-abu-dhabi-1.95537748",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imagevars.gulfnews.com/2023/05/04/Cleveland_Clinic_Abu_Dhabi_Fatima_bint_Mubarak_Center-_Chemotherapy_robot-1683221993322_187e7d95774_medium.jpg",
+          "width": 540,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gulfnews.com/amp/uae/health/uae-chemo-robot-artificial-intelligence-guided-radiotherapy-for-cancer-care-now-available-in-abu-dhabi-1.95537748",
+      "cdnAmpWebUrl": "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/uae/health/uae-chemo-robot-artificial-intelligence-guided-radiotherapy-for-cancer-care-now-available-in-abu-dhabi-1.95537748",
+      "publishedDateTime": "2023-05-04T11:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gulf News",
+        "domain": "gulfnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-05-04-automate-the-deployment-of-an-amazon-forecast-time-series-forecasting-model.md",
+      "title": "Automate the deployment of an Amazon Forecast time-series forecasting model",
+      "excerpt": "Time series forecasting refers to the process of predicting future values of time series data (data that is collected at regular intervals over time). Simple methods for time series forecasting use historical values of the same variable whose future values need to be predicted, whereas more complex,",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/automate-the-deployment-of-an-amazon-forecast-time-series-forecasting-model/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/automate-the-deployment-of-an-amazon-forecast-time-series-forecasting-model/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-04T11:15:10-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-05-top-10-artificial-intelligence-ai-cryptocurrencies.md",
+      "title": "Top 10 Artificial Intelligence (AI) Cryptocurrencies",
+      "excerpt": "Editorial Note: Forbes Advisor may earn a commission on sales made from partner links on this page, but that doesn't affect our editors' opinions or evaluations. It’s hard to imagine two ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/advisor/in/investing/cryptocurrency/top-10-artificial-intelligence-ai-cryptocurrencies/",
+      "originalUrl": "https://www.forbes.com/advisor/in/investing/cryptocurrency/top-10-artificial-intelligence-ai-cryptocurrencies/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/x/https://www.forbes.com/advisor/in/wp-content/uploads/2023/03/pexels-tara-winstead-8386440-1-scaled.jpg",
+          "width": 2560,
+          "height": 1440,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-04T10:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-05-microsoft-helping-finance-amds-expansion-into-ai-chips-bloomberg.md",
+      "title": "Microsoft helping finance AMD's expansion into AI chips- Bloomberg",
+      "excerpt": "Microsoft Corp is working with Advanced Micro Devices Inc on the chipmaker's expansion into artificial intelligence processors, Bloomberg News reported on Thursday, citing people with knowledge of the matter.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/amd-ai-microsoft/update-1-microsoft-helping-finance-amds-expansion-into-ai-chips-bloomberg-idUSL4N3714JL",
+      "originalUrl": "https://www.reuters.com/article/amd-ai-microsoft/update-1-microsoft-helping-finance-amds-expansion-into-ai-chips-bloomberg-idUSL4N3714JL",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 408,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/xOORmMGGhmHxjWnnPlcl8EiZ6VY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/IYT3OK5U4BOMFPVKOXIRRT4YYM.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-04T10:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Finance",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-05-insider-qa-aurora-ceo-chris-urmson-on-self-driving-trucks.md",
+      "title": "Insider Q&A: Aurora CEO Chris Urmson on self-driving trucks",
+      "excerpt": "Sometime next year, semis with no human in the cab will start carrying freight down Interstate 45 between Dallas and Houston. The trucks will run on an autonomous driving system called the Aurora Driver,",
+      "sourceUrl": null,
+      "webUrl": "https://scnow.com/business/insider-q-a-aurora-ceo-chris-urmson-on-self-driving-trucks/article_d1467914-f347-56a8-b00d-c5d2289c43ce.html",
+      "originalUrl": "https://scnow.com/business/insider-q-a-aurora-ceo-chris-urmson-on-self-driving-trucks/article_d1467914-f347-56a8-b00d-c5d2289c43ce.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/scnow.com/content/tncms/assets/v3/editorial/d/14/d1467914-f347-56a8-b00d-c5d2289c43ce/6453ea65ba591.preview.jpg?crop=1024%2C538%2C0%2C71&resize=1024%2C538&order=crop%2Cresize",
+          "width": 1024,
+          "height": 538,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-04T10:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SCNow",
+        "domain": "scnow.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-05-a-new-ai-chatbot-called-pi-is-designed-to-serve-as-your-personal-assistant-heres-how-it-works.md",
       "title": "A new AI chatbot called Pi is designed to serve as your personal assistant — here's how it works",
       "excerpt": "Pi, which stands for \"personal intelligence,\" was released Tuesday by Inflection AI. The AI startup has three cofounders: Mustafa Suleyman, the cofounder of DeepMind; Karén Simonyan, the company ...",
@@ -426,7 +714,8 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "AI Ethics"
       ]
     },
     {
@@ -890,315 +1179,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-04-joe-biden-wants-hackers-help-to-keep-ai-chatbots-in-check.md",
-      "title": "Joe Biden Wants Hackers’ Help to Keep AI Chatbots In Check",
-      "excerpt": "The White House will support an event at the Defcon security conference this summer that challenges experts to uncover flaws in generative AI systems.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/joe-biden-hackers-chatgpt-ai-chatbots/",
-      "originalUrl": "https://www.wired.com/story/joe-biden-hackers-chatgpt-ai-chatbots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/6452fde252bb92d7ad7c2fde/master/pass/AI_Biz_GettyImages-1486928284.jpg",
-          "width": 2157,
-          "height": 1618,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/joe-biden-hackers-chatgpt-ai-chatbots/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/joe-biden-hackers-chatgpt-ai-chatbots/amp",
-      "publishedDateTime": "2023-05-04T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-04-lack-of-ai-and-automation-adoption-hinders-employee-productivity-slack-report.md",
-      "title": "Lack of AI and automation adoption hinders employee productivity: Slack report",
-      "excerpt": "A new Slack report finds companies that have embraced AI are 90% more likely to report increased productivity levels than those that have not.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/lack-of-ai-and-automation-adoption-hinders-employee-productivity-slack-report/",
-      "originalUrl": "https://venturebeat.com/ai/lack-of-ai-and-automation-adoption-hinders-employee-productivity-slack-report/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2017/01/IMG_6947-e1683154170277.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/lack-of-ai-and-automation-adoption-hinders-employee-productivity-slack-report/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/lack-of-ai-and-automation-adoption-hinders-employee-productivity-slack-report/amp/",
-      "publishedDateTime": "2023-05-04T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-04-these-robot-dogs-cant-bark-but-they-can-speak-in-full-sentences-thanks-to-chatgpt.md",
-      "title": "These robot dogs can't bark — but they can speak in full sentences thanks to ChatGPT",
-      "excerpt": "Boston Dynamics' robot dogs can now verbally respond in \"plain English\" when asked to describe their previous and future tasks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/boston-dynamics-robot-dogs-can-speak-full-sentecnes-ai-chatgpt-2023-5",
-      "originalUrl": "https://www.businessinsider.com/boston-dynamics-robot-dogs-can-speak-full-sentecnes-ai-chatgpt-2023-5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/6452919af6389a0018ef54d5?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/boston-dynamics-robot-dogs-can-speak-full-sentecnes-ai-chatgpt-2023-5?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/boston-dynamics-robot-dogs-can-speak-full-sentecnes-ai-chatgpt-2023-5?amp",
-      "publishedDateTime": "2023-05-04T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-04-gpt-based-ai-neural-network-decodes-brain-activity-without-surgery.md",
-      "title": "GPT-based AI Neural Network Decodes Brain Activity without Surgery",
-      "excerpt": "This research can help patients with conditions such as locked-in syndrome, where patients are unable to communicate due to paralysis",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2023/05/04/gpt-based-neural-network-decodes-brain/",
-      "originalUrl": "https://www.gizmochina.com/2023/05/04/gpt-based-neural-network-decodes-brain/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2023/05/alina-grubnyak-ZiQkhI7417A-unsplash-1024x683-1.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-04T00:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-04-geoff-hinton-ais-most-famous-researcher-warns-of-existential-threat.md",
-      "title": "Geoff Hinton, AI’s Most Famous Researcher, Warns Of ‘Existential Threat’",
-      "excerpt": "Geoffrey Everest Hinton, a seminal figure in the development of artificial intelligence, painted a frightening picture of the technology he helped create on Wednesday in his first public appearance since stunning the scientific community with his abrupt about face on the threat posed by AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/craigsmith/2023/05/04/geoff-hinton-ais-most-famous-researcher-warns-of-existential-threat/",
-      "originalUrl": "https://www.forbes.com/sites/craigsmith/2023/05/04/geoff-hinton-ais-most-famous-researcher-warns-of-existential-threat/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/645350233eb26555726d5a17/0x0.jpg?format=jpg&crop=1891,1064,x0,y513,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/craigsmith/2023/05/04/geoff-hinton-ais-most-famous-researcher-warns-of-existential-threat/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/craigsmith/2023/05/04/geoff-hinton-ais-most-famous-researcher-warns-of-existential-threat/amp/",
-      "publishedDateTime": "2023-05-03T23:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-04-ai-powered-cruise-control-can-stop-phantom-traffic-jams-before-they-start.md",
-      "title": "AI-powered cruise control can stop 'phantom traffic jams' before they start",
-      "excerpt": "The CIRCLES Consortium of universities, automakers and government agencies is developing an AI-powered cruise control system that can help prevent traffic.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/auto/ai-powered-cruise-control-stop-phantom-traffic-jams",
-      "originalUrl": "https://www.foxnews.com/auto/ai-powered-cruise-control-stop-phantom-traffic-jams",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2023/05/all-trajectories.gif",
-          "width": 640,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/auto/ai-powered-cruise-control-stop-phantom-traffic-jams.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/auto/ai-powered-cruise-control-stop-phantom-traffic-jams.amp",
-      "publishedDateTime": "2023-05-03T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

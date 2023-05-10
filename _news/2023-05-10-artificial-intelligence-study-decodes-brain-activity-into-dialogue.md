@@ -3,8 +3,8 @@ category: news
 title: "Artificial intelligence study decodes brain activity into dialogue"
 excerpt: "Scientists at UT Austin conducted a study where they created a 3D view of a person's mind and used artificial intelligence to decode brain activity into dialogue."
 publishedDateTime: 2023-05-10T02:22:00Z
-originalUrl: "https://www.nbcnews.com/now/video/artificial-intelligence-study-decodes-brain-activity-into-diaglogue-173774917826"
-webUrl: "https://www.nbcnews.com/now/video/artificial-intelligence-study-decodes-brain-activity-into-diaglogue-173774917826"
+originalUrl: "https://www.nbcnews.com/now/video/artificial-intelligence-study-decodes-brain-activity-into-diaglogue-173774917826?ref=upstract.com"
+webUrl: "https://www.nbcnews.com/now/video/artificial-intelligence-study-decodes-brain-activity-into-diaglogue-173774917826?ref=upstract.com"
 ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo173774917826"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo173774917826"
 type: article
@@ -43,6 +43,6 @@ related:
         height: 407
         isCached: true
 
-secured: "Ccf0Scre7ZQ2p/qZk0JzqimrOkiazJJaOwcocXCkLKfSBlH2fPHX7eBWnQTyxfkK0sUjdU8Fa15BG8hAPquZ0yClhqd2IL4XMTBOPElA6wz8LppLJ0+CaQPqH1zPe+xqqKDZhXJvU/e90i6C2f/B3Q85jP7N14OtLDv2aXI0Ayc6YN5LYwtqWlCGFDboravl+SHdMOZ8DpOJ4N8CJQAN1fQsKhFmO1Ho0XTdr461fOx8Cnsjaf6kwFi3MgVYLMsY/7Dpd5QJZPqjzQeBWM75p7li99Zm0aTy6nAaPloNu9SZSspUwUU8M7QVPGkD0VWx6UFlz9D7nKqsblhnudEnk8zQKbL/fSJmDlA3mM1n4kE=;XgYQR+q6SvYUEsd0qkIaIA=="
+secured: "Rn1rt+5/hn+bcCRGcHcSu5TNPNxLSwj+5TOQgJDskVgc/8baGFQhPWQbNPcAwBXIG1WMVl9gil6RyzuxhwXEzB3c0McsEM55AHb47pOwFBrxRhOFvhfrs4I2kjuQbEQSOX5Lc2j2RecqmPb0ZeeoRzIUcMNo/yqsxhzpO/LKsKZ5iTM6ZHAaqH3Y3179rFN5IvpqxstFNeyGduKbnBLI5Disj/pQCi3Y0+kMBAPUXbsKQbMkxyMqz/+ZBSLrcOJ2fyZy2Sfz/Cm2WLlczJRz3u6vdveB0dxUVT56vrz2Ak6xZSncnonAqz0tpY1owcMzqWlO3NRm/B+0+GeAab2KUmNxYDWX17nJBVdGy35ux9k=;nfx/5g5H3J61BbKHMp3ZZw=="
 ---
 

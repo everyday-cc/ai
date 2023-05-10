@@ -307,7 +307,7 @@
       "originalUrl": "https://www.techrepublic.com/article/microsoft-bing-chat-ai-personal-assistant/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 496,
+      "heat": 486,
       "tags": null,
       "images": [
         {
@@ -497,6 +497,49 @@
       "topics": [
         "AI Ethics",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-04-google-shared-ai-knowledge-with-the-world-until-chatgpt-caught-up.md",
+      "title": "Google shared AI knowledge with the world — until ChatGPT caught up",
+      "excerpt": "But others acknowledge Google has lost many of its top AI researchers in the last year to start-ups seen as cutting edge. Some of this exodus stemmed from frustration that Google wasn’t making ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/technology/2023/05/04/google-ai-stop-sharing-research/",
+      "originalUrl": "https://www.washingtonpost.com/technology/2023/05/04/google-ai-stop-sharing-research/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IW5SED7Z3NG2TDUS53RHYNBWCM.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-04T07:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Washington Post",
+        "domain": "washingtonpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
       ]
     },
     {
@@ -1436,58 +1479,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-25-in-the-artificial-intelligence-race-is-your-brain-trained-to-compete.md",
-      "title": "In The Artificial Intelligence Race, Is Your Brain Trained To Compete?",
-      "excerpt": "While it’s uncertain who the winners of the artificial intelligence race will be, business leaders and employees must make sure their brains are trained to compete.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/iese/2023/04/25/in-the-artificial-intelligence-race-is-your-brain-trained-to-compete/",
-      "originalUrl": "https://www.forbes.com/sites/iese/2023/04/25/in-the-artificial-intelligence-race-is-your-brain-trained-to-compete/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6447918c9384cd1bfdf33129/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/iese/2023/04/25/in-the-artificial-intelligence-race-is-your-brain-trained-to-compete/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/iese/2023/04/25/in-the-artificial-intelligence-race-is-your-brain-trained-to-compete/amp/",
-      "publishedDateTime": "2023-04-25T01:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

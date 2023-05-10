@@ -6,7 +6,7 @@ publishedDateTime: 2023-05-10T07:57:00Z
 originalUrl: "https://www.gazetteseries.co.uk/news/23511487.careful-artificial-intelligence/"
 webUrl: "https://www.gazetteseries.co.uk/news/23511487.careful-artificial-intelligence/"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://www.gazetteseries.co.uk/resources/images/16762960/?type=og-image"

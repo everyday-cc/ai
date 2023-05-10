@@ -57,20 +57,6 @@ related:
         width: 1260
         height: 630
         isCached: true
-  - title: "Create high-quality datasets with Amazon SageMaker Ground Truth and FiftyOne"
-    excerpt: "This is a joint post co-written by AWS and Voxel51. Voxel51 is the company behind FiftyOne, the open-source toolkit for building high-quality datasets and computer vision models. A retail company is building a mobile app to help customers buy clothes. To create this app, they need a high-quality dataset"
-    publishedDateTime: 2023-05-05T16:37:15Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/create-high-quality-datasets-with-amazon-sagemaker-ground-truth-and-fiftyone/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 86
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/05/05/create-high-quality-datasets.jpg"
-        width: 959
-        height: 477
-        isCached: true
   - title: "Announcing provisioned concurrency for Amazon SageMaker Serverless Inference"
     excerpt: "Amazon SageMaker Serverless Inference allows you to serve model inference requests in real time without having to explicitly provision compute instances or configure scaling policies to handle traffic variations. You can let AWS handle the undifferentiated heavy lifting of managing the underlying infrastructure"
     publishedDateTime: 2023-05-09T22:26:59Z

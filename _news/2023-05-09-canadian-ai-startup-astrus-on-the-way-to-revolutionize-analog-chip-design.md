@@ -3,8 +3,8 @@ category: news
 title: "Canadian AI startup Astrus on the way to revolutionize analog chip design"
 excerpt: "Astrus, a Canada-based startup focusing on analog IC design automation, is aspiring to revolutionize the global chip design industry by leveraging recent breakthroughs in artificial intelligence (AI)."
 publishedDateTime: 2023-05-09T02:14:00Z
-originalUrl: "https://www.digitimes.com/news/a20230509VL200/ai-analog-ic-canada-eda-ic-design-distribution.html?chid=13"
-webUrl: "https://www.digitimes.com/news/a20230509VL200/ai-analog-ic-canada-eda-ic-design-distribution.html?chid=13"
+originalUrl: "https://www.digitimes.com/news/a20230509VL200/ai-analog-ic-canada-eda-ic-design-distribution.html"
+webUrl: "https://www.digitimes.com/news/a20230509VL200/ai-analog-ic-canada-eda-ic-design-distribution.html"
 type: article
 quality: 53
 heat: 53
@@ -15,8 +15,8 @@ provider:
   domain: digitimes.com
 
 topics:
-  - AI Hardware
   - AI
+  - AI Hardware
 
 images:
   - url: "https://img.digitimes.com/newsshow/20230509vl200_files/6_r.jpg"
@@ -24,6 +24,6 @@ images:
     height: 224
     isCached: true
 
-secured: "DND8aHCT6DFL1oRu6jlymyZKINcS4OsexCczOA+VqjxidXcNF4zO8RySXdeZSSl7MnIQNLYNRCiZJvjjK98l8G3nIY6eDCmai5Yy5pQGKjQiXjQuHaSUAu7L2yaTEovVNAYLWZMW1DBcQfw9s6N6zW1MwVU62IVzZKlCBfp1fmTDGj08yooPCIwWy7X3z6AUACkQkOckmOpRls4N3my4ScGG/vG+gHM2Pm0oAnmRu3BApvgjoCjzr7eT53BIMoWlett91lck54znQgupE0kyQGY2XMHF63ttYqarQxxy0aj/eAuW6poivbsq9Orwtnh6Tgrn4BVhXJYalc23wxDCoo1OVtVbbhgTHrCgVLSu7Dc=;eJpD+EajuUXJjn/pPY+x5g=="
+secured: "1DRAFGsIAcX6bpp2bWfhDks8h0Qx0o5q5uORpGAcr1VubWctvSDzrlxRU6bSQsuDlq5NTBH/mUpxv2c3yUlE+Np9NOju75z/EJe1EmDHlPywL7QxUF4tWQPp4vpfYdbjd5FYoc6XVFThgKlZDDyOZuBu2nPWW2ERv9K9EWFV6WkC+ZQQAg5EK3/NATfBqPszcH62vSzUnDeFHKCfdH5QSVvI5LnV+yXJOqIoCrFp5BgDp7JzWLwfpACDSsHucjc4PG7eGMK2EN1OUAnPH6NSnRXmuR86FJCNtqE99eD5jwptXopgQGdc3ZFBFG0yRzbmYhYMZ1LVdxs/IAdShUUQE56+zeHoulsY7Yfv4evHIIY=;Q2izyNmLrFwAz1Ox3GFWRQ=="
 ---
 

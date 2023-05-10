@@ -13,6 +13,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IW5SED7Z3NG2TDUS53RHYNBWCM.jpg&w=1440"

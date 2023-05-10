@@ -51,20 +51,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Edge Artificial Intelligence (AI) Chip Market 2023-2030: Size and Forecast"
-    excerpt: "Number of Tables and Figures: 129 Pages | Report Highlights: Future Growth Projections, CAGR, Types, Application and"
-    publishedDateTime: 2023-05-05T16:24:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-edge-artificial-intelligence-ai-chip-market-2023-2030-size-and-forecast-2023-05-05"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 94
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "AI based Edge Computing Chip Market Research, 2030"
     excerpt: "Precision Reports has published a new report titled as \" AI based Edge Computing Chip Market \" by End User ( Smart Manufacturing, Smart Home, Smart Retail, Smart Transportation, Smart Finance, Smart Medical,"
     publishedDateTime: 2023-05-08T04:36:00Z

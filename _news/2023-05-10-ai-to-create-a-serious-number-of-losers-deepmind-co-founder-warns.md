@@ -7,8 +7,8 @@ originalUrl: "https://www.afr.com/technology/ai-to-create-a-serious-number-of-lo
 webUrl: "https://www.afr.com/technology/ai-to-create-a-serious-number-of-losers-deepmind-co-founder-warns-20230510-p5d7fm"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Australian Financial Review
@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Startup from Reid Hoffman and DeepMind co-founder debuts chatbot"
-    excerpt: "Pi was built to be a supportive 'neutral listener' that asks follow-up questions to keep a conversation flowing."
-    publishedDateTime: 2023-05-06T22:00:00Z
-    webUrl: "https://www.moneyweb.co.za/news/ai/startup-from-reid-hoffman-and-deepmind-co-founder-debuts-chatbot/"
+  - title: "DeepMind pioneer issues warning on dangers of AI autonomy"
+    excerpt: "AI programs should not be taught how to improve themselves, according to a co-founder of the artificial intelligence research lab DeepMind. Mustafa Suleyman sa"
+    publishedDateTime: 2023-05-08T23:01:00Z
+    webUrl: "https://www.thetimes.co.uk/article/deepmind-pioneer-issues-warning-on-dangers-of-ai-autonomy-rklxhnc76"
     type: article
     provider:
-      name: Moneyweb
-      domain: moneyweb.co.za
-    quality: 39
+      name: The Times
+      domain: thetimes.co.uk
+    quality: 54
     images:
-      - url: "https://www.moneyweb.co.za/wp-content/uploads/2023/05/397933961-1024x682.jpg"
-        width: 1024
-        height: 682
+      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F1535ef20-edd7-11ed-87b0-716b9284a2b0.jpg?crop=5496%2C3091%2C0%2C286&resize=1200"
+        width: 1200
+        height: 674
         isCached: true
   - title: "AI will create ‘a serious number of losers’, DeepMind co-founder warns"
     excerpt: "Advances in artificial intelligence will threaten white-collar workers and create “a serious number of losers” over the next decade, according to one of the co-founders of AI lab DeepMind who has pioneered the technology."
@@ -49,6 +49,6 @@ related:
       domain: ft.com
     quality: 34
 
-secured: "w1tSVvVepPTqYuUIyQ7NLqmtGocQjVdzUT3zYiiUgJ6bKkHRtCkSm4xBhu//UGuSC0/VQuD0BeHQ3bPRbLnsJrEWV/D9T8hq+4QaDVA3WR6wNZt67wATfvR0oz1Ah020TUqVmYwnW2ywwLRbX3m4viIsXIvmHruYI71BztCV6Sx/+A2CqHRkctSn+l23exvVXY3FE1NNkV6JOgXoyFFZZMGyNCvSItAk/XJYNHQPDIx6zl25+Rk+sqcDEr8ssvyj6n21DbxOM7FHjAmKnw3sgFw0saJllqoj0SFhtvBrHuZqUaatohcpVxKwJrSdCfLMDjfFBpzK8qnPmJrNJQB0HnLAexhEcOiLJ+Fzs0L4Xo4=;HrpWeKGUfq69xywQ5uBeqw=="
+secured: "WYDeX1PGUBQnNLO4ZWhIpgumNNBURc28NyAMhTUj5tHPKFIsRJGe3vJItdMoTZBlyzNg8hSA/QaS1cVIdIIQZBQAC0Ls8NLGW/uMxgXnlGB5s1aCHPe07J+jGbokiCDJYrgTo4ggODQO/YDCgqhCyjECnjX4HY/dVavGY4pZh6fvGzjMWKVflZCkNoN0pzFr2wtXSOucUS/YSUrIB2UIp98e4QVOeb6+OEfZ6HV4f7gKj3UvGBWr43a7n+mbo//oKj9H7t1g4kRiEuDTtVeArWG5Ukh2hezbSPuHQpgVHLYXHRB4fVxO740eQhM8wnrDCgWpKmVH1kBiofDSA4y3Kybic0pcgXRTtseq8hAZ71MwrmvnHmSeQipRbiiXNfQ7T2M7YZy/GuVqt4hHEH1i6tqgjexRvb0Q+TIaP8ySwITHdgY+GyfXLCzCLB0OwvHdFDMeLQ1FAilC8361jtpRR+KniOotZWHaecuW0KKGW69OSXoMwaAd+EbmEgojI3ip9UiVw1Nh5ys504a7neBGgw==;vmiRyG4OBHt5BE9UXYhYtg=="
 ---
 

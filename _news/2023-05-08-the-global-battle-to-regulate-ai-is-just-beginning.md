@@ -36,7 +36,7 @@ related:
     provider:
       name: Time
       domain: time.com
-    quality: 74
+    quality: 76
     images:
       - url: "https://time.com/img/icons/wallet-connect.png"
         width: 256

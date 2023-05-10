@@ -30,7 +30,7 @@ related:
     provider:
       name: Gazette Series
       domain: gazetteseries.co.uk
-    quality: 39
+    quality: 41
     images:
       - url: "https://www.gazetteseries.co.uk/resources/images/16762960/?type=og-image"
         width: 788

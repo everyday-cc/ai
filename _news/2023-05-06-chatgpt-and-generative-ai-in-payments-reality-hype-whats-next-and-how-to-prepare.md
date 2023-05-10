@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/chatgpt-and-generative-ai-in-payment
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-and-generative-ai-in-payments-hype-how-to-prepare-2023-may?amp"
 type: article
 quality: 80
-heat: 180
+heat: 170
 published: true
 
 provider:
@@ -45,22 +45,6 @@ related:
       - url: "https://www.zdnet.com/a/img/resize/0f069f7582c82f625117f92909ccd4f7bb840cdf/2023/05/07/0c2625f3-8f61-483b-8cbb-b39dfadd09fe/alhberg-recorded-future.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "ChatGPT and Generative AI Around the World: Maturity, Opportunities, and Hurdles in Key Regions"
-    excerpt: "ChatGPT has received a lot of press since its November 2022 launch. But while interest in the tool is high, its use is not yet universal."
-    publishedDateTime: 2023-05-05T17:00:00Z
-    webUrl: "https://www.businessinsider.com/chatgpt-and-generative-ai-around-the-world-opportunities-key-hurdles-2023-may"
-    ampWebUrl: "https://www.businessinsider.com/chatgpt-and-generative-ai-around-the-world-opportunities-key-hurdles-2023-may?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-and-generative-ai-around-the-world-opportunities-key-hurdles-2023-may?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 75
-    images:
-      - url: "https://i.insider.com/6441b16a3f6f690018debe44?width=1200&format=jpeg"
-        width: 1200
-        height: 900
         isCached: true
   - title: "ChatGPT and Generative AI Around the World: Maturity, Opportunities, and Hurdles in Key Regions"
     excerpt: "ChatGPT has received a lot of press since its November 2022 launch. But while interest in the tool is high, its use is not yet universal."

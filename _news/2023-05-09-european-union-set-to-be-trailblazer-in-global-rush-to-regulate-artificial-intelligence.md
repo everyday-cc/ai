@@ -6,8 +6,8 @@ publishedDateTime: 2023-05-09T09:00:00Z
 originalUrl: "https://time.com/6278144/european-union-artificial-intelligence-regulation/"
 webUrl: "https://time.com/6278144/european-union-artificial-intelligence-regulation/"
 type: article
-quality: 74
-heat: 94
+quality: 76
+heat: 96
 published: true
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://time.com/img/icons/wallet-connect.png"

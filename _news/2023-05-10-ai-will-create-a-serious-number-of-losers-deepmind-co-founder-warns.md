@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "DeepMind pioneer issues warning on dangers of AI autonomy"
+    excerpt: "AI programs should not be taught how to improve themselves, according to a co-founder of the artificial intelligence research lab DeepMind. Mustafa Suleyman sa"
+    publishedDateTime: 2023-05-08T23:01:00Z
+    webUrl: "https://www.thetimes.co.uk/article/deepmind-pioneer-issues-warning-on-dangers-of-ai-autonomy-rklxhnc76"
+    type: article
+    provider:
+      name: The Times
+      domain: thetimes.co.uk
+    quality: 54
+    images:
+      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F1535ef20-edd7-11ed-87b0-716b9284a2b0.jpg?crop=5496%2C3091%2C0%2C286&resize=1200"
+        width: 1200
+        height: 674
+        isCached: true
   - title: "AI to create ‘a serious number of losers’, DeepMind co-founder warns"
     excerpt: "Mustafa Suleyman said governments should think about how to support workers who lose their jobs to technology."
     publishedDateTime: 2023-05-10T07:44:00Z
@@ -32,20 +46,6 @@ related:
       - url: "https://static.ffx.io/images/$zoom_0.4089%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_129%2C$y_35/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/ceb2fe3e55af0b58698f81ab445d7badef475736"
         width: 1200
         height: 628
-        isCached: true
-  - title: "Startup from Reid Hoffman and DeepMind co-founder debuts chatbot"
-    excerpt: "Pi was built to be a supportive 'neutral listener' that asks follow-up questions to keep a conversation flowing."
-    publishedDateTime: 2023-05-06T22:00:00Z
-    webUrl: "https://www.moneyweb.co.za/news/ai/startup-from-reid-hoffman-and-deepmind-co-founder-debuts-chatbot/"
-    type: article
-    provider:
-      name: Moneyweb
-      domain: moneyweb.co.za
-    quality: 39
-    images:
-      - url: "https://www.moneyweb.co.za/wp-content/uploads/2023/05/397933961-1024x682.jpg"
-        width: 1024
-        height: 682
         isCached: true
 
 secured: "Z713iS7LtbKC0A9Evxxhe9KwW22HGPQAQu+SjHrkBidX4x/VV9z5ses/MpOReg2atA2CXqssFxL7tQoNMJHBTqxV8v+CAUT1k/g884s9pi6wXCgCpsB5miWA4N3XW+/R4tAe7/74IZb+oVHlVVVulds5u9dEaW4MPaxJTZKSFwm53a3WpDbdS6FJE7EC7yzp4sUGxyrrBsG7DJMZiIf2Lh46Xli27Y4kVhLNhn+DtNtaLzAebNGO4sVEj+LOlIHtzu+QWS95xZ78lE1WmQNW0uNxPMdyOCTfBDVneXdeeI3uXE28dPP/Bl1fcMpoC70shk0rpqUqqawVq/Km2SgmoSSGFkvUn+B/bIsqV0cBxPV+OSaI2N4yfzxa46GTJcyg1vuuzlE9b4FaS4De72Fy0eG7DHMPAPv2YZu0E16bjDZsRpsXgZqb1yOPCT/uNAJz9GiuUMrgvZ4S32AqYmGxL+uTBpa90Dc3TLsEt2qRRBLSdjsVCgdcpLGrzUlp9Q73OcgPSApCaRox6wAB7QcQbQ==;rhzs5H5Ruv8oi65U/ue0Dw=="

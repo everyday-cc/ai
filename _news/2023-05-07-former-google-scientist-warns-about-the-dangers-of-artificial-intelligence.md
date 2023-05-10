@@ -20,36 +20,15 @@ topics:
   - AI
 
 related:
-  - title: "Scientists warn of AI dangers but don't agree on solutions"
-    excerpt: "Margaret Mitchell, a former leader on Google’s AI ethics team, said she’s upset that Hinton didn’t speak out during his decade in a position of power at Google, especially after the 2020 ..."
-    publishedDateTime: 2023-05-05T15:57:00Z
-    webUrl: "https://abcnews.go.com/US/wireStory/scientists-warn-ai-dangers-agree-solutions-99051162"
-    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/scientists-warn-ai-dangers-agree-solutions-99051162"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/scientists-warn-ai-dangers-agree-solutions-99051162"
+  - title: "AI Expert Exits Google and Joins Others in Voicing the Tech's Dangers"
+    excerpt: "In an interview with The New York Times, Geoffrey Hinton says AI-generated content will lead to misinformation and job loss."
+    publishedDateTime: 2023-05-06T12:01:00Z
+    webUrl: "https://www.cnet.com/news/misinformation/ai-expert-exits-google-and-joins-others-in-voicing-techs-dangers/"
     type: article
     provider:
-      name: ABC News
-      domain: abcnews.go.com
-    quality: 59
-    images:
-      - url: "https://s.abcnews.com/images/US/wirestory_5f7dc295a576833dfc3378071b5716f2_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "DeepMind pioneer issues warning on dangers of AI autonomy"
-    excerpt: "AI programs should not be taught how to improve themselves, according to a co-founder of the artificial intelligence research lab DeepMind. Mustafa Suleyman sa"
-    publishedDateTime: 2023-05-08T23:01:00Z
-    webUrl: "https://www.thetimes.co.uk/article/deepmind-pioneer-issues-warning-on-dangers-of-ai-autonomy-rklxhnc76"
-    type: article
-    provider:
-      name: The Times
-      domain: thetimes.co.uk
-    quality: 54
-    images:
-      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F1535ef20-edd7-11ed-87b0-716b9284a2b0.jpg?crop=5496%2C3091%2C0%2C286&resize=1200"
-        width: 1200
-        height: 674
-        isCached: true
+      name: CNET
+      domain: cnet.com
+    quality: 47
   - title: "Former Google Scientist Warns About the Dangers of Artificial Intelligence"
     excerpt: "Systems can generate convincing audio and photorealistic-style images and video, sometimes modeled after real people."
     publishedDateTime: 2023-05-08T10:30:00Z

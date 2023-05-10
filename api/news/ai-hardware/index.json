@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-05-10-mediatek-dimensity-9200-chipset-announced-with-upgraded-cpu-and-gpu-performance.md",
+      "title": "MediaTek Dimensity 9200+ chipset announced with upgraded CPU and GPU performance",
+      "excerpt": "MediaTek’s flagship chipset offerings have been gaining recognition for their impressive hardware, and the recently launched MediaTek Dimensity 9200 was no exception. Now, the company has announced an upgraded version of this chipset,",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2023/05/10/mediatek-dimensity-9200-plus-launch/",
+      "originalUrl": "https://www.gizmochina.com/2023/05/10/mediatek-dimensity-9200-plus-launch/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2023/05/MediaTek-Dimensity-9200-1.jpg",
+          "width": 1056,
+          "height": 741,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-10T02:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-09-ai-wrote-95-percent-of-this-murder-mystery.md",
       "title": "AI Wrote 95 Percent of This Murder Mystery",
       "excerpt": "Stephen Marche composed 'Death of an Author' using three AI tools, under the shared pen name Aidan Marchine. Here’s a look at the result.",
@@ -348,6 +400,50 @@
       "topics": [
         "AI Hardware",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-06-meta-platforms-scoops-up-ai-networking-chip-team-from-graphcore.md",
+      "title": "Meta Platforms scoops up AI networking chip team from Graphcore",
+      "excerpt": "Meta Platforms Inc has hired an Oslo-based team that until late last year was building artificial-intelligence networking technology at British chip unicorn Graphcore.A Meta spokesperson confirmed the hirings in response to a request for comment,",
+      "sourceUrl": null,
+      "webUrl": "https://www.channelnewsasia.com/business/meta-platforms-scoops-ai-networking-chip-team-graphcore-3468007",
+      "originalUrl": "https://www.channelnewsasia.com/business/meta-platforms-scoops-ai-networking-chip-team-graphcore-3468007",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://onecms-res.cloudinary.com/image/upload/s--9HumNy0t--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2023-05-05t133156z_1_lynxmpej440h9_rtroptp_3_meta-platforms-ai.jpg?itok=k0W4eQWc",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-05T18:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Channel NewsAsia Singapore",
+        "domain": "channelnewsasia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI Hardware"
       ]
     },
     {
@@ -1341,101 +1437,6 @@
         "AI Hardware",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-04-27-broadcom-takes-on-infiniband-with-jericho3-ai-switch-chips.md",
-      "title": "Broadcom Takes On InfiniBand With Jericho3-AI Switch Chips",
-      "excerpt": "Variety is not only the spice of life, it is also the way to drive innovation and to mitigate risk. Which is why we are seeing switch architectures",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextplatform.com/2023/04/26/broadcom-takes-on-infiniband-with-jericho3-ai-switch-chips/",
-      "originalUrl": "https://www.nextplatform.com/2023/04/26/broadcom-takes-on-infiniband-with-jericho3-ai-switch-chips/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://www.nextplatform.com/wp-content/uploads/2023/04/broadcom-jericho3-ai-logo.jpg",
-          "width": 879,
-          "height": 565,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nextplatform.com/2023/04/26/broadcom-takes-on-infiniband-with-jericho3-ai-switch-chips/amp/",
-      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2023/04/26/broadcom-takes-on-infiniband-with-jericho3-ai-switch-chips/amp/",
-      "publishedDateTime": "2023-04-26T20:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Platform",
-        "domain": "nextplatform.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-27-samsungs-profit-plunges-to-14-year-low-from-heavy-loss-by-chip-division.md",
-      "title": "Samsung's profit plunges to 14-year low from heavy loss by chip division",
-      "excerpt": "Samsung's Device Solutions Division, its chip division, reported a steep operating loss of 4.58 trillion won. The company said the performance of its memory chip business fell sig",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/samsungs-profit-plunges-to-14-year-low-from-heavy-loss-by-chip-division/",
-      "originalUrl": "https://www.zdnet.com/article/samsungs-profit-plunges-to-14-year-low-from-heavy-loss-by-chip-division/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/fly/bundles/zdnetcore/images/logos/zdnet-logo-yellow.png",
-          "width": 480,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/samsungs-profit-plunges-to-14-year-low-from-heavy-loss-by-chip-division/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/samsungs-profit-plunges-to-14-year-low-from-heavy-loss-by-chip-division/",
-      "publishedDateTime": "2023-04-26T18:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

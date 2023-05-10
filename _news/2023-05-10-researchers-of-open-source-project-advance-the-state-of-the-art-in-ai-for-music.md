@@ -82,6 +82,15 @@ related:
       name: The Cipher Brief
       domain: thecipherbrief.com
     quality: 19
+  - title: "Artificial intelligence can be found in many places. How safe is the technology?"
+    excerpt: "NPR's A Martinez speaks with Jack Clark, co-founder of artificial intelligence company Anthropic, about AI safety concerns."
+    publishedDateTime: 2023-05-10T09:08:00Z
+    webUrl: "https://www.boisestatepublicradio.org/2023-05-10/artificial-intelligence-can-be-found-in-many-places-how-safe-is-the-technology"
+    type: article
+    provider:
+      name: Boise State Public Radio
+      domain: boisestatepublicradio.org
+    quality: 14
 
 secured: "N7DlIDIN0nLGxnrSGX/jJx5DDXAS8QTfhrtzK11CnfEaLunSsTdejGvhy8QWa1lzxlI54bxId2PNbZnS6Vrzo8czTIxU8CsYRn/ybWi7bZUKO/Y+hoBZ1RxWhecNrRD8O7paJmJHuG2+W9oBcfXHZgifFlD5RBE+ebwGT5N9ykJ/2wxgnERV+s2hptIxSAB2hez9HFyfxTUOgM5abveovYcSUbr7vIKuU3uMNA+hS2CWQFOJWz6Ik1NlI+ISWW0CW8nTIjGJ106vaUo7lBtX22sHfu9U/NhcjYFbT3nYnTIdBz+//QhRcQ+NWDRu9UTNgiSrKvQ5thRlti6o3YHWOWtgqGdU2qAV9vaWNo1rYa+rZcDgYmrtxL8yDM7KfpI+FDXuGZ9jsDwZ0TJsvUk/xj9r0+uVWpLu/8Vjt7EPXbRDENdsU07neL8D4Ktx8tlSu5rL7FicSQMxw9/KeghZxKe2MOhx21/gRjisAOjxP4BmekYVxWa8GBUkUpmzpxjX9azUARbgX1FAe8itQkOjdQ==;P9VkKPV5YKiYREV+pKK6pw=="
 ---

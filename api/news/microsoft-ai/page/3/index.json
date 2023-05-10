@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-04-21-microsoft-365-outage-blocks-access-to-web-apps-and-services.md",
+      "title": "Microsoft 365 outage blocks access to web apps and services",
+      "excerpt": "Microsoft is investigating an ongoing outage blocking customers worldwide from accessing and using web apps like Excel Online and online services. The list of affected services includes Microsoft ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bleepingcomputer.com/news/microsoft/microsoft-365-outage-blocks-access-to-web-apps-and-services/",
+      "originalUrl": "https://www.bleepingcomputer.com/news/microsoft/microsoft-365-outage-blocks-access-to-web-apps-and-services/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.bleepstatic.com/content/hl-images/2021/10/20/Microsoft_365.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bleepingcomputer.com/news/microsoft/microsoft-365-outage-blocks-access-to-web-apps-and-services/amp/",
+      "cdnAmpWebUrl": "https://www-bleepingcomputer-com.cdn.ampproject.org/c/s/www.bleepingcomputer.com/news/microsoft/microsoft-365-outage-blocks-access-to-web-apps-and-services/amp/",
+      "publishedDateTime": "2023-04-21T00:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bleeping Computer",
+        "domain": "bleepingcomputer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-20-data-explorer-processes-unlabeled-visual-data-boosting-creation-of-production-ready-ai-models.md",
       "title": "Data Explorer processes unlabeled visual data, boosting creation of production-ready AI models",
       "excerpt": "Akridata has launched Data Explorer for processing visual data, allowing data science teams to improve datasets and AI model training.",
@@ -1317,58 +1360,6 @@
         "name": "Finanznachrichten",
         "domain": "finanznachrichten.de",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-12-chatgpt-vs-bing-vs-google-bard-which-ai-is-the-most-helpful.md",
-      "title": "ChatGPT vs. Bing vs. Google Bard: Which AI Is the Most Helpful?",
-      "excerpt": "The representative also said Bing benefits from Microsoft's Azure AI supercomputing tech to help unify search, chat and the Edge browser. Google and OpenAI didn't immediately respond to requests ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/tech/services-and-software/chatgpt-vs-bing-vs-google-bard-which-ai-is-the-most-helpful/",
-      "originalUrl": "https://www.cnet.com/tech/services-and-software/chatgpt-vs-bing-vs-google-bard-which-ai-is-the-most-helpful/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/4c8fc8d9f5a5de04b4044c06fc4b0485dee2b097/hub/2023/04/06/25243ee3-2c54-4287-926a-d0ab63d15597/metaverse-hallway-ai-2.jpg?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/chatgpt-vs-bing-vs-google-bard-which-ai-is-the-most-helpful/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/chatgpt-vs-bing-vs-google-bard-which-ai-is-the-most-helpful/",
-      "publishedDateTime": "2023-04-11T22:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

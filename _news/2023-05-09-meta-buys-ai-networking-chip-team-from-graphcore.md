@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Meta hires AI team of UK chip unicorn Graphcore"
-    excerpt: "Meta has hired UK chip unicorn Graphcore's Oslo-based team that was working on AI networking technology till late last year. The chip startup shuttered its Oslo office as part of its restructuring plans announced in October 2022,"
-    publishedDateTime: 2023-05-05T16:24:00Z
-    webUrl: "https://inshorts.com/en/news/meta-hires-ai-team-of-uk-chip-unicorn-graphcore-1683303868650"
-    ampWebUrl: "https://inshorts.com/m/en/amp_news/meta-hires-ai-team-of-uk-chip-unicorn-graphcore-1683303868650"
-    cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/meta-hires-ai-team-of-uk-chip-unicorn-graphcore-1683303868650"
-    type: article
-    provider:
-      name: Inshorts
-      domain: inshorts.com
-    quality: 74
-    images:
-      - url: "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2023/05_may/5_fri/img_1683298262597_763.jpg?"
-        width: 1000
-        height: 667
-        isCached: true
   - title: "Meta Platforms scoops up AI networking chip team from Graphcore"
     excerpt: "Meta Platforms Inc has hired an Oslo-based team that until late last year was building artificial-intelligence networking technology at British chip unicorn Graphcore.A Meta spokesperson confirmed the hirings in response to a request for comment,"
     publishedDateTime: 2023-05-06T01:31:00Z
@@ -69,17 +53,6 @@ related:
         width: 1000
         height: 628
         isCached: true
-  - title: "Meta scoops up AI networking chip team from Graphcore"
-    excerpt: "The move brings additional muscle to Meta's bid to improve how its data centers handle AI work, as it races to cope with demand for AI-oriented infrastructure from teams across the company looking to build new features."
-    publishedDateTime: 2023-05-05T15:15:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/technology/meta-scoops-up-ai-networking-chip-team-from-graphcore/articleshow/100019503.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/technology/meta-scoops-up-ai-networking-chip-team-from-graphcore/amp_articleshow/100019503.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/meta-scoops-up-ai-networking-chip-team-from-graphcore/amp_articleshow/100019503.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 54
 
 secured: "4M9bPAmfMC/HejTa7XjZTSxzSfZ8/tkZIRxMloRk/pynne2UMYXwWSSx5voTJUNP01BmBi2zRILh9nkAoKuyT17242pVY65FN2fEV06FcjOct2MVylmlV0Qo1a0uCIV5buF5SPa6STrIvX0SKQDhtz6TLIXwkdkY5Znu2EpE7/43h+M+EFKlJLP3M/YtmnT8LBr0prceu4ZRuhWFvFdXe41Rwul0VpfdhQgWA0MgnwyYWcqzucyYJp8lIOuX8CGyg6+Q/E2Aincsf4b6Staf1h8fEOzJTQXyCgqueC3BVWjHBT78pSIssv66hIWlov6LvwtmWnnbm8UyMRLGU43pEJ6VFI36tlcIRehXzvdBF0Y=;agwQudKr28lsbZG4jDt8FA=="
 ---

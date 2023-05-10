@@ -2,9 +2,9 @@
 category: news
 title: "PwC, Microsoft and Icertis launch strategic collaboration to accelerate enterprise digital transformation with AI-powered contract intelligence"
 excerpt: "PwC, Microsoft and Icertis today formally announced a new strategic collaboration that will provide C-suites with a powerful, innovative AI-driven approach to contract management that enables accelerated enterprise-level digital transformation."
-publishedDateTime: 2023-05-09T08:16:00Z
-originalUrl: "https://technews.tmcnet.com/news/2023/05/09/9809823.htm"
-webUrl: "https://technews.tmcnet.com/news/2023/05/09/9809823.htm"
+publishedDateTime: 2023-05-09T09:52:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-pwc-microsoft-icertis-launch-strategic-collaboration-accelerate-enterprise-/2023/05/09/9809823.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-pwc-microsoft-icertis-launch-strategic-collaboration-accelerate-enterprise-/2023/05/09/9809823.htm"
 type: article
 quality: 18
 heat: -1
@@ -42,6 +42,6 @@ related:
         height: 686
         isCached: true
 
-secured: "aPUr+23Jb8unpVNq/FcKeRL5Ub34YSSDfC10LnaN0M6T6UnCGm0cmmfs2yvkxFJIDWa8vd3VwE9GgXCpBblQMRVnjeSVh+MXjLf2qc0AWrJJ5QfpQdB/2aEbmzi69bY2zH3t5UHK9xdK3m7geZtiEQBmPdoGzwtnMKRHNPVLrXBITUigFd+a+ryHy4dxodxm+eeji+1sRM7O1zcaPK85TXpTg79yoOXJJUHh6ABYleRjXu8+aut9cXq4BRZKgEE8bSEaS/SkbFp2le4U9FMpofcvdV8BOVXrhNEkhNx3tr4dvfPSBl8Ll0+gdLccffvEmJk2Q/RKWPRm3EavYA2j3i37PwpcLKUEmqSrk6KKhsHAKSijIzIKRaRIbXOy2tN4NHcWQXnO4m86ycncGsu1WXZcCu0YSQqDp148k2MARgRgLQaRQUTp470OrXoONo/GNk4IuElEaJBsRsJtYCMA4PeK22ngnA+/iXY9AAP+2PKkYtxGHgUIb/KTP7X9vjxK/hm/HB/FQqECx14tT3N5GQ==;zuwCVr8m5BE2NPEbyNL0KA=="
+secured: "REoJV9pWAw9Gzk5BMhV9eg7+c4ibEho9clgT6jTIItBqXY1gF6NtHHJ3TRp8T3wJahDD5yvLFD6T34UWdqglBNtdl8bO6ImqijHVh4qRbTdxOVwsxocNakKQQiM/Ovmi/OrkAw0aG+tKaWiGrSunBFpfINHq7fYOwKfvHAgJbg1h8wIVtAkYyh/b2qJuIJhCjhQzZVIrlK7lNmT5Q+HA9M0Z19AwFpNsy3Kbhq7r3ezHCdPPH0+MQsmsHLSFpWZ4JFLRWIi89zgDhImZ8ZYsLz1FYYruRgS0/2eMqGG+jpJJ07hW/sXKY8pAECuk6Nz92cJYvv8mXxj0fjMEkohJRqA21rk9BJ6zUSFrMSvv6+s=;+F7pgWHgtcIUTEg3aLKIGA=="
 ---
 

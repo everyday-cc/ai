@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-05-02-ai-pioneer-quits-google-to-warn-about-the-technologys-dangers.md",
+      "title": "AI pioneer quits Google to warn about the technology’s ‘dangers’",
+      "excerpt": "Hinton’s pioneering work on neural networks shaped artificial intelligence systems powering many of today’s products. He worked part-time at Google for a decade on the tech giant’s AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2023/05/01/tech/geoffrey-hinton-leaves-google-ai-fears/index.html",
+      "originalUrl": "https://www.cnn.com/2023/05/01/tech/geoffrey-hinton-leaves-google-ai-fears/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/230501094028-geoffrey-hinton-file-restricted-090519-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2023/05/01/tech/geoffrey-hinton-leaves-google-ai-fears/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/05/01/tech/geoffrey-hinton-leaves-google-ai-fears/index.html",
+      "publishedDateTime": "2023-05-01T19:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-02-artificial-intelligence-pioneer-leaves-google-and-warns-about-technologys-future.md",
       "title": "Artificial intelligence pioneer leaves Google and warns about technology's future",
       "excerpt": "Geoffrey Hinton, a trailblazer in AI, has joined the growing list of experts sharing their concerns about its rapid advancement.",
@@ -1362,50 +1414,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-24-wallarooai-partners-with-vmware-on-machine-learning-at-the-edge.md",
-      "title": "Wallaroo.ai partners with VMware on machine learning at the edge",
-      "excerpt": "Machine learning startup Wallaroo Labs Inc., better known as Wallaroo.ai, said today it’s partnering with the virtualization software giant VMware Inc. to create a unified edge machine learning and artificial intelligence deployment and operations platform that’s aimed at communications service providers.",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2023/04/24/wallaroo-ai-partners-vmware-machine-learning-edge/",
-      "originalUrl": "https://siliconangle.com/2023/04/24/wallaroo-ai-partners-vmware-machine-learning-edge/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/04/Wallaroo.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-24T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

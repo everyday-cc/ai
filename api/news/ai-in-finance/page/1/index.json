@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-05-09-finovax-leads-the-charge-in-fintech-innovation-ai-powered-solutions-drive-business-growth.md",
+      "title": "Finovax Leads the Charge in Fintech Innovation: AI-Powered Solutions Drive Business Growth",
+      "excerpt": "New York-Based Fintech Company Embraces Artificial Intelligence to Revolutionize Financial Data Products and Fuel",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/finovax-leads-the-charge-in-fintech-innovation-ai-powered-solutions-drive-business-growth-2023-05-09",
+      "originalUrl": "https://www.marketwatch.com/press-release/finovax-leads-the-charge-in-fintech-innovation-ai-powered-solutions-drive-business-growth-2023-05-09",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-09T00:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-08-why-generative-ai-is-the-finance-industrys-road-to-superior-customer-service.md",
       "title": "Why generative AI is the finance industry’s road to superior customer service",
       "excerpt": "Delivering a premium customer experience has always been essential to financial services. But in today’s rapidly changing environment, financial institutions need to do more than maintain the experiences they’ve developed.",
@@ -106,7 +158,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-ml-platforms-market-intelligence-report-2023-2031-by-industry-experts-2023-05-08",
       "featuredContent": null,
       "highlight": null,
-      "heat": 137,
+      "heat": 127,
       "tags": null,
       "images": [
         {
@@ -1395,58 +1447,6 @@
         "Machine Learning",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2023-04-20-artificial-intelligence-ai-in-fintech-market-overview-and-scope-by-2031.md",
-      "title": "Artificial Intelligence (AI) in Fintech Market Overview and Scope By 2031",
-      "excerpt": "New Report (2023-2031) of 75 Pages: Global Artificial Intelligence (AI) in Fintech Market Status and Prospect A summary",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-overview-and-scope-by-2031-2023-04-20",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-overview-and-scope-by-2031-2023-04-20",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-20T07:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

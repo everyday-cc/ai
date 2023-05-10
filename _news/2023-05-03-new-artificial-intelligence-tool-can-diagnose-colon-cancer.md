@@ -2,9 +2,9 @@
 category: news
 title: "New Artificial Intelligence Tool Can Diagnose Colon Cancer"
 excerpt: "Detailed price information for Bausch Health Companies Inc (BHC-T) from The Globe and Mail including charting and trades."
-publishedDateTime: 2023-05-03T13:38:00Z
-originalUrl: "https://www.theglobeandmail.com/investing/markets/stocks/BHC-T/pressreleases/16543041/"
-webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/BHC-T/pressreleases/16543041/"
+publishedDateTime: 2023-05-03T15:28:00Z
+originalUrl: "https://www.theglobeandmail.com/investing/markets/stocks/BHC-T/pressreleases/16543041/new-artificial-intelligence-tool-can-diagnose-colon-cancer/"
+webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/BHC-T/pressreleases/16543041/new-artificial-intelligence-tool-can-diagnose-colon-cancer/"
 type: article
 
 provider:
@@ -15,6 +15,12 @@ topics:
   - AI in Healthcare
   - AI
 
-secured: "ys7JJ2UPH2EIWkTvuPhs4j8Eh/MzreNLyw998vFPBgVBlLsWNQ7WsKSAkYnwhCuL4NG+zlzgejk4BUQJ4pLw1QN0XgbJEQXS87KduxG6evsLmVrTeqvD+WANzNQasMSsUkzDmMTM7vG9ELWvHmXh2cOlhDU719vj/1l6lQliCfalDWasNHJNMwhiWgZRkePgGo49k33oan5HrACAdJzaYWHqdGT5T4Baqu1V/LCM1QXxkdP91iKWEsEKCD7gcuLhMRTjb+bMJmLkc0BV0DfgFNYihFn5LzagWi4MgklcgWB9KepWcEKuZdLTtqFvdYmskoqpDFwyZv5j0av/2UjR0UgzcUbHa5mXgty26/XSQUTrtUcrQ17ObWkZoJImwtqIW82mDuANO6BSHWqfCDNhOi3suYaaj5wQs0a+DekX1xkmnTWEQZJ0376deVvawEgN9QFucVh2uSWN3PwjGubMFxHS3i+FLa0UvRh/EHjzgld6qWWch/Dn2WzQcZsOUGOPlHrhsss6bOPvzNTuQQaNLA==;qOPSyjTsQNBMXpBU+UntOg=="
+images:
+  - url: "https://barchart-news-media-prod.aws.barchart.com/FC/fbf6e68ba80e8e45990c8b0717fbffb9/bogdanhoda-1.jpg"
+    width: 777
+    height: 436
+    isCached: true
+
+secured: "5bQo+wtKr+OTbGQOAN6t+fPXEEjPSNojyUVho86mM70wgqz4zWzdEO4Yo63j1lZv2mKIeKMu5pMFqkuqFseJpmldNJL3/bP/IAQQz6FgCQm8SfgmXWWHdBSAou66n0ZdfsCRumAwc8x1XT695z9GMwmOJWHacrHhAUnSI0TcfuND4cZYc6/sbCSc0HjbNHd6Z1aSJrgO15ttTFEHOEE4Y5NfhWSw4HPmyYN77z5uJ+vQWHi4X5k5rCnRuGnkveGC7WhLQic4tg1O1BYytLCdnwWRZjDORnNf3fLvnodtTgVGUMYfqkvgqhdVkn5WQEWw/iG905eiS6kLcqmyNM3Zo8MEjdVBnuAVI1+4Pr13HY0=;h/0USeIu+1bAxpyHsZTLrw=="
 ---
 

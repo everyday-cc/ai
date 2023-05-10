@@ -489,18 +489,27 @@
       "title": "New Artificial Intelligence Tool Can Diagnose Colon Cancer",
       "excerpt": "Detailed price information for Bausch Health Companies Inc (BHC-T) from The Globe and Mail including charting and trades.",
       "sourceUrl": null,
-      "webUrl": "https://www.theglobeandmail.com/investing/markets/stocks/BHC-T/pressreleases/16543041/",
-      "originalUrl": "https://www.theglobeandmail.com/investing/markets/stocks/BHC-T/pressreleases/16543041/",
+      "webUrl": "https://www.theglobeandmail.com/investing/markets/stocks/BHC-T/pressreleases/16543041/new-artificial-intelligence-tool-can-diagnose-colon-cancer/",
+      "originalUrl": "https://www.theglobeandmail.com/investing/markets/stocks/BHC-T/pressreleases/16543041/new-artificial-intelligence-tool-can-diagnose-colon-cancer/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://barchart-news-media-prod.aws.barchart.com/FC/fbf6e68ba80e8e45990c8b0717fbffb9/bogdanhoda-1.jpg",
+          "width": 777,
+          "height": 436,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-03T06:38:00-07:00",
+      "publishedDateTime": "2023-05-03T08:28:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "The Globe and Mail",

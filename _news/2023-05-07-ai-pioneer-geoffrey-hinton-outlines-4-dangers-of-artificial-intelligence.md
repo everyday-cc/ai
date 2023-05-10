@@ -9,7 +9,7 @@ ampWebUrl: "https://www.tampabay.com/news/business/2023/05/07/ai-pioneer-geoffre
 cdnAmpWebUrl: "https://www-tampabay-com.cdn.ampproject.org/c/s/www.tampabay.com/news/business/2023/05/07/ai-pioneer-geoffrey-hinton-outlines-4-dangers-artificial-intelligence/?outputType=amp"
 type: article
 quality: 73
-heat: 103
+heat: 93
 published: true
 
 provider:
@@ -40,22 +40,6 @@ related:
       - url: "https://media.wired.com/photos/6458f22c4a854832b16fcf7b/191:100/w_1280,c_limit/GeoffHinton_Biz_h_15908078.jpg"
         width: 1280
         height: 670
-        isCached: true
-  - title: "What Are The Concerns About Artificial Intelligence Raised By The Godfather Of AI Geoffrey Hinton?"
-    excerpt: "Geoffrey Hinton, the Godfather of AI, has quit his job at Google to warn about the dangers of Artificial Intelligence. Check what are the 4 concerns"
-    publishedDateTime: 2023-05-05T16:38:00Z
-    webUrl: "https://www.jagranjosh.com/general-knowledge/concerns-raised-by-godfather-of-artificial-intelligence-geoffrey-hinton-1683294636-1"
-    ampWebUrl: "https://www.jagranjosh.com/general-knowledge/amp/concerns-raised-by-godfather-of-artificial-intelligence-geoffrey-hinton-1683294636-1"
-    cdnAmpWebUrl: "https://www-jagranjosh-com.cdn.ampproject.org/c/s/www.jagranjosh.com/general-knowledge/amp/concerns-raised-by-godfather-of-artificial-intelligence-geoffrey-hinton-1683294636-1"
-    type: article
-    provider:
-      name: jagranjosh.com
-      domain: jagranjosh.com
-    quality: 62
-    images:
-      - url: "https://img.jagranjosh.com/images/2023/May/552023/ai-danger-geoffrey-hinton.jpg"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Why ‘godfather of AI’ Geoffrey Hinton thinks humanity is at a crossroads"
     excerpt: "In an interview with the Guardian’s Alex Hern, Hinton says he now fears the advances he helped usher in could pose an existential threat to humankind"

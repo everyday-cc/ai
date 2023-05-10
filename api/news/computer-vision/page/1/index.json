@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-05-10-eci-to-pilot-facial-recognition-technology-in-polls-iff-raises-concerns-of-surveillance.md",
+      "title": "ECI To Pilot Facial Recognition Technology In Polls, IFF Raises Concerns Of Surveillance",
+      "excerpt": "IFF has asked a copy of the relevant government order/notice/direction accompanying this move in its RTI to the ECI",
+      "sourceUrl": null,
+      "webUrl": "https://www.outlookindia.com/national/eci-to-pilot-facial-recognition-technology-in-polls-iff-raises-concerns-of-surveillance-news-285131",
+      "originalUrl": "https://www.outlookindia.com/national/eci-to-pilot-facial-recognition-technology-in-polls-iff-raises-concerns-of-surveillance-news-285131",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/IMAGE_1683701048.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.outlookindia.com/national/eci-to-pilot-facial-recognition-technology-in-polls-iff-raises-concerns-of-surveillance-news-285131/amp",
+      "cdnAmpWebUrl": "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/national/eci-to-pilot-facial-recognition-technology-in-polls-iff-raises-concerns-of-surveillance-news-285131/amp",
+      "publishedDateTime": "2023-05-10T01:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Outlookindia",
+        "domain": "outlookindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-10-meps-to-vote-on-proposed-ban-on-big-brother-ai-facial-recognition-on-streets.md",
       "title": "MEPs to vote on proposed ban on ‘Big Brother’ AI facial recognition on streets",
       "excerpt": "Thursday’s vote in EU parliament seen as key test in formation of world’s first artificial intelligence laws",
@@ -54,6 +97,58 @@
       ]
     },
     {
+      "path": "_news/2023-05-10-2030-ai-in-computer-vision-market-growth-future-prospects-and-competitive-analysis.md",
+      "title": "2030, AI in Computer Vision Market Growth | Future Prospects and Competitive Analysis",
+      "excerpt": "The \"AI in Computer Vision Market\" is one of the sectors that is expanding the fastest, thus it is crucial for players",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/2030-ai-in-computer-vision-market-growth-future-prospects-and-competitive-analysis-2023-05-09",
+      "originalUrl": "https://www.marketwatch.com/press-release/2030-ai-in-computer-vision-market-growth-future-prospects-and-competitive-analysis-2023-05-09",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-09T14:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-10-computer-vision-in-artificial-intelligence-ai-market-research-2023-2030.md",
       "title": "Computer Vision in Artificial Intelligence (AI) Market Research, 2023-2030",
       "excerpt": "Computer Vision in Artificial Intelligence (AI) Market Insights 2023 by Types (, Hardware, Software, , ) , Applications",
@@ -62,7 +157,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-in-artificial-intelligence-ai-market-research-2023-2030-2023-05-09",
       "featuredContent": null,
       "highlight": null,
-      "heat": 317,
+      "heat": 307,
       "tags": null,
       "images": [
         {
@@ -93,49 +188,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-09-karnataka-assembly-election-facial-recognition-tech-could-ease-voting-process.md",
-      "title": "Karnataka Assembly election: Facial recognition tech could ease voting process",
-      "excerpt": "He added that after this, when the voter goes to the booth, the polling officer will check the details on a tab and allow the voter to vote immediately.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newindianexpress.com/states/karnataka/2023/may/09/karnataka-assembly-election-facial-recognition-tech-could-ease-voting-process-2573345.html",
-      "originalUrl": "https://www.newindianexpress.com/states/karnataka/2023/may/09/karnataka-assembly-election-facial-recognition-tech-could-ease-voting-process-2573345.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.newindianexpress.com/uploads/user/imagelibrary/2023/4/29/w600X390/Voters_PTI_.jpg",
-          "width": 600,
-          "height": 390,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newindianexpress.com/states/karnataka/2023/may/09/karnataka-assembly-election-facial-recognition-tech-could-ease-voting-process-2573345.amp",
-      "cdnAmpWebUrl": "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/states/karnataka/2023/may/09/karnataka-assembly-election-facial-recognition-tech-could-ease-voting-process-2573345.amp",
-      "publishedDateTime": "2023-05-08T21:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New Indian Express",
-        "domain": "newindianexpress.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1332,58 +1384,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-27-which-segments-computer-vision-system-market-are-anticipated-to-highest-cagr-by-2030.md",
-      "title": "Which Segments Computer Vision System Market Are Anticipated To Highest CAGR By 2030",
-      "excerpt": "New Analysis of Computer Vision System Market overview, spend analysis, imports, segmentation, key players, and",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/which-segments-computer-vision-system-market-are-anticipated-to-highest-cagr-by-2030-2023-04-27",
-      "originalUrl": "https://www.marketwatch.com/press-release/which-segments-computer-vision-system-market-are-anticipated-to-highest-cagr-by-2030-2023-04-27",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-27T07:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

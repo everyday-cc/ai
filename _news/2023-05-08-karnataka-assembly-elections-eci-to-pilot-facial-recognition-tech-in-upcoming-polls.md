@@ -27,37 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Karnataka Assembly election: Facial recognition tech could ease voting process"
-    excerpt: "He added that after this, when the voter goes to the booth, the polling officer will check the details on a tab and allow the voter to vote immediately."
-    publishedDateTime: 2023-05-09T04:16:00Z
-    webUrl: "https://www.newindianexpress.com/states/karnataka/2023/may/09/karnataka-assembly-election-facial-recognition-tech-could-ease-voting-process-2573345.html"
-    ampWebUrl: "https://www.newindianexpress.com/states/karnataka/2023/may/09/karnataka-assembly-election-facial-recognition-tech-could-ease-voting-process-2573345.amp"
-    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/states/karnataka/2023/may/09/karnataka-assembly-election-facial-recognition-tech-could-ease-voting-process-2573345.amp"
+  - title: "ECI To Pilot Facial Recognition Technology In Polls, IFF Raises Concerns Of Surveillance"
+    excerpt: "IFF has asked a copy of the relevant government order/notice/direction accompanying this move in its RTI to the ECI"
+    publishedDateTime: 2023-05-10T08:08:00Z
+    webUrl: "https://www.outlookindia.com/national/eci-to-pilot-facial-recognition-technology-in-polls-iff-raises-concerns-of-surveillance-news-285131"
+    ampWebUrl: "https://www.outlookindia.com/national/eci-to-pilot-facial-recognition-technology-in-polls-iff-raises-concerns-of-surveillance-news-285131/amp"
+    cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/national/eci-to-pilot-facial-recognition-technology-in-polls-iff-raises-concerns-of-surveillance-news-285131/amp"
     type: article
     provider:
-      name: The New Indian Express
-      domain: newindianexpress.com
-    quality: 55
+      name: Outlookindia
+      domain: outlookindia.com
+    quality: 65
     images:
-      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2023/4/29/w600X390/Voters_PTI_.jpg"
-        width: 600
-        height: 390
-        isCached: true
-  - title: "Marriage is entitled to constitutional protection, not just legal recognition: SC"
-    excerpt: "The Supreme Court said on Tuesday it has to be alive to the fact that the concept of marriage has evolved and must accept the basic proposition that marriage itself is entitled to constitutional protection as it is not just a matter of statutory recognition."
-    publishedDateTime: 2023-05-09T15:04:00Z
-    webUrl: "https://www.rediff.com/news/report/marriage-is-entitled-to-constitutional-protection-not-just-legal-recognition-sc/20230509.htm"
-    ampWebUrl: "https://m.rediff.com/amp/news/report/marriage-is-entitled-to-constitutional-protection-not-just-legal-recognition-sc/20230509.htm"
-    cdnAmpWebUrl: "https://m-rediff-com.cdn.ampproject.org/c/s/m.rediff.com/amp/news/report/marriage-is-entitled-to-constitutional-protection-not-just-legal-recognition-sc/20230509.htm"
-    type: article
-    provider:
-      name: rediff.com
-      domain: rediff.com
-    quality: 39
-    images:
-      - url: "https://im.rediff.com/345-230/news/2020/dec/27supreme-court.jpg"
-        width: 345
-        height: 230
+      - url: "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/IMAGE_1683701048.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Facial Recognition Technology Could Ease Voting Process In Future Elections"
     excerpt: "The incorporation of facial recognition technology could make voting considerably simpler in the future.Deputy Joint CEO Surya Sen explained that by downloading the \"Chunavana\" mobile app"

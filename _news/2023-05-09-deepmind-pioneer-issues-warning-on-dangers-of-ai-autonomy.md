@@ -7,8 +7,8 @@ originalUrl: "https://www.thetimes.co.uk/article/deepmind-pioneer-issues-warning
 webUrl: "https://www.thetimes.co.uk/article/deepmind-pioneer-issues-warning-on-dangers-of-ai-autonomy-rklxhnc76"
 type: article
 quality: 54
-heat: -1
-published: false
+heat: 74
+published: true
 
 provider:
   name: The Times
@@ -25,44 +25,29 @@ images:
     isCached: true
 
 related:
-  - title: "Scientists warn of AI dangers but don't agree on solutions"
-    excerpt: "Margaret Mitchell, a former leader on Google’s AI ethics team, said she’s upset that Hinton didn’t speak out during his decade in a position of power at Google, especially after the 2020 ..."
-    publishedDateTime: 2023-05-05T15:57:00Z
-    webUrl: "https://abcnews.go.com/US/wireStory/scientists-warn-ai-dangers-agree-solutions-99051162"
-    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/scientists-warn-ai-dangers-agree-solutions-99051162"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/scientists-warn-ai-dangers-agree-solutions-99051162"
+  - title: "AI to create ‘a serious number of losers’, DeepMind co-founder warns"
+    excerpt: "Mustafa Suleyman said governments should think about how to support workers who lose their jobs to technology."
+    publishedDateTime: 2023-05-10T07:44:00Z
+    webUrl: "https://www.afr.com/technology/ai-to-create-a-serious-number-of-losers-deepmind-co-founder-warns-20230510-p5d7fm"
     type: article
     provider:
-      name: ABC News
-      domain: abcnews.go.com
-    quality: 59
+      name: The Australian Financial Review
+      domain: afr.com
+    quality: 54
     images:
-      - url: "https://s.abcnews.com/images/US/wirestory_5f7dc295a576833dfc3378071b5716f2_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://static.ffx.io/images/$zoom_0.4089%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_129%2C$y_35/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/ceb2fe3e55af0b58698f81ab445d7badef475736"
+        width: 1200
+        height: 628
         isCached: true
-  - title: "Former Google Scientist Warns About the Dangers of Artificial Intelligence"
-    excerpt: "Systems can generate convincing audio and photorealistic-style images and video, sometimes modeled after real people."
-    publishedDateTime: 2023-05-08T10:30:00Z
-    webUrl: "https://www.ncregister.com/cna/former-google-scientist-warns-about-the-dangers-of-artificial-intelligence"
-    ampWebUrl: "https://www.ncregister.com/cna/former-google-scientist-warns-about-the-dangers-of-artificial-intelligence?amp"
-    cdnAmpWebUrl: "https://www-ncregister-com.cdn.ampproject.org/c/s/www.ncregister.com/cna/former-google-scientist-warns-about-the-dangers-of-artificial-intelligence?amp"
+  - title: "AI will create ‘a serious number of losers’, DeepMind co-founder warns"
+    excerpt: "Advances in artificial intelligence will threaten white-collar workers and create “a serious number of losers” over the next decade, according to one of the co-founders of AI lab DeepMind who has pioneered the technology."
+    publishedDateTime: 2023-05-09T21:05:00Z
+    webUrl: "https://www.ft.com/content/0c105d93-e017-470d-8653-a2a30fd720b2?shareType=nongift"
     type: article
     provider:
-      name: National Catholic Register
-      domain: ncregister.com
-    quality: 37
-  - title: "Former Google scientist warns about the dangers of artificial intelligence"
-    excerpt: "A leading artificial intelligence researcher some call the “godfather” of AI says the technology is developing at a “scary” rate."
-    publishedDateTime: 2023-05-07T13:59:00Z
-    webUrl: "https://www.catholicnewsagency.com/news/254251/former-google-scientist-warns-about-the-risk-of-artificial-intelligence"
-    ampWebUrl: "https://www.catholicnewsagency.com/amp/news/254251/former-google-scientist-warns-about-the-risk-of-artificial-intelligence"
-    cdnAmpWebUrl: "https://www-catholicnewsagency-com.cdn.ampproject.org/c/s/www.catholicnewsagency.com/amp/news/254251/former-google-scientist-warns-about-the-risk-of-artificial-intelligence"
-    type: article
-    provider:
-      name: Catholic News Agency
-      domain: catholicnewsagency.com
-    quality: 35
+      name: The Financial Times
+      domain: ft.com
+    quality: 34
 
 secured: "1AWFvj33Bh/yyL9glak/2kcGD39rfrpjpHtR0qELaWTtWF+EHdPx6C0hqNmDR0lRuqQflcYQyNoMO0fN6CmpjLwLTpR5W1IHL/MGFSujNCI8YOyIKFH7HHXbdUkxSISfVfImH9V3Axs+p0TFWgUzuTQWHjUg2ZZU0lIO9dK/GfUnpKfA57eOeq/BhvBIl8d0zGH1o3+nFdLhkssn0Uxg7PLjy3VSHakTUbFj+jHT1P2ww+Jc33NUC4UJlRMoDsob33MN06iW6YlKlOHH3cHyVxuRiMUcgoe4euLTnSJALym0bSK1urEhgTflzMeGhL5mSbQCLrawhmxnVwPYyW3X+whIxbv8racny+kgaarMMZfzgLNbUbgH4FehSHxf7R0JrpT/rCVzXJmiiqC+MapEdSCbC+V6ZvxGVb8JEQHNLFQ17wJGZnnFsXAXn+ncTYuaBknRuW+SwxT+vKWI/9gMqDww+15vF2tYsxh4qJ9PRZ2OyCf8H/EBJ99WyiGP2icXVQTzSlG5dkXqqgXZwraanQ==;jQaiGw0XGAfU8bZzEQdJmA=="
 ---

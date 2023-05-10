@@ -37,6 +37,22 @@ related:
       name: IBM
       domain: ibm.com
     quality: 99
+  - title: "Integration of AI in healthcare"
+    excerpt: "According to a case study by Medtronic titled “5 Ways Artificial Intelligence is Transforming Healthcare,” the use of AI in healthcare improves accuracy, promotes interventional insights, supports training and education,"
+    publishedDateTime: 2023-05-08T22:22:00Z
+    webUrl: "https://highschool.latimes.com/sage-hill-school/integration-of-ai-in-healthcare/"
+    ampWebUrl: "https://highschool.latimes.com/sage-hill-school/integration-of-ai-in-healthcare/amp/"
+    cdnAmpWebUrl: "https://highschool-latimes-com.cdn.ampproject.org/c/s/highschool.latimes.com/sage-hill-school/integration-of-ai-in-healthcare/amp/"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 74
+    images:
+      - url: "https://i0.wp.com/highschool.latimes.com/wp-content/uploads/2023/02/ai-healthcarephoto.png?fit=361%2C203&ssl=1"
+        width: 361
+        height: 203
+        isCached: true
   - title: "One State Wants to Prevent AI-Driven Discrimination in Insurance"
     excerpt: "Colorado has a draft rule that would impose oversight and transparency requirements on insurance companies that use big data about consumers or feed such data into predictive models and algorithms."
     publishedDateTime: 2023-05-07T05:13:00Z

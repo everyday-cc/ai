@@ -86,6 +86,20 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 47
+  - title: "10 startups bringing AI tech to Netflix, Lucasfilm, Marvel, and more Hollywood studios — and attracting millions in VC funding"
+    excerpt: "a London-based AI startup known for its Tom Cruise deepfakes. \"Over 10, 15 years, it'll touch every part of content creation.\" Vendors and investors told Insider that over time, AI tools will ..."
+    publishedDateTime: 2023-05-08T00:00:00Z
+    webUrl: "https://www.businessinsider.com/ai-startups-netflix-marvel-lucasfilm-holllywood-deepfake-dubbing-vc-funding-2023-3"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 39
+    images:
+      - url: "https://i.insider.com/640ac45b9ef79f00182879f7?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "If AI Is the Future of Hollywood, We’re All F*cked"
     excerpt: "Writers in Hollywood are seeking protection against AI encroaching on human jobs. If we’re smart, we’ll stand behind them."
     publishedDateTime: 2023-05-06T03:36:00Z
