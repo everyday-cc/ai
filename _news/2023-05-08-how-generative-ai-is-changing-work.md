@@ -66,22 +66,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "How artificial intelligence could fundamentally change certain types of work"
-    excerpt: "A report released in March found that AI services could automate as many as 300 million fulltime jobs worldwide."
-    publishedDateTime: 2023-05-06T00:24:00Z
-    webUrl: "https://www.cbsnews.com/detroit/news/artificial-intelligence-chatgpt-threatens-changes-jobs-work/"
-    ampWebUrl: "https://www.cbsnews.com/amp/detroit/news/artificial-intelligence-chatgpt-threatens-changes-jobs-work/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/detroit/news/artificial-intelligence-chatgpt-threatens-changes-jobs-work/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 71
-    images:
-      - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2023/05/06/a3ed2e4c-256d-4d01-9c3a-65e06d542d99/thumbnail/1200x630/a4fae228ea819b28b491968bc3769e43/0505-chen1.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "White House announces measures to address challenges of AI"
     excerpt: "The White House has announced a series of measures to address the challenges of artificial intelligence, driven by the sudden popularity of tools such as ChatGPT and amid rising concerns about the technology’s potential risks for discrimination,"
     publishedDateTime: 2023-05-08T17:27:00Z

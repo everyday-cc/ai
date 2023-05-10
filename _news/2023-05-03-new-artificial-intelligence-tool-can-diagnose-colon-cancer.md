@@ -1,10 +1,10 @@
 ---
 category: news
 title: "New Artificial Intelligence Tool Can Diagnose Colon Cancer"
-excerpt: "Veracyte (NASDAQ:VCYT) and Bausch Health Companies (TSX:BHC) (NYSE:BHC) are other companies offering tests for the detection of colorectal cancer. Mainz Biomed (NASDAQ:MYNZ) creates commercially viable molecular genetic diagnostic solutions for critical illnesses."
-publishedDateTime: 2023-05-03T13:38:00Z
-originalUrl: "https://www.theglobeandmail.com/investing/markets/stocks/VCYT-Q/pressreleases/16543041/new-artificial-intelligence-tool-can-diagnose-colon-cancer/"
-webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/VCYT-Q/pressreleases/16543041/new-artificial-intelligence-tool-can-diagnose-colon-cancer/"
+excerpt: "Detailed price information for Bausch Health Companies Inc (BHC-T) from The Globe and Mail including charting and trades."
+publishedDateTime: 2023-05-03T15:28:00Z
+originalUrl: "https://www.theglobeandmail.com/investing/markets/stocks/BHC-T/pressreleases/16543041/new-artificial-intelligence-tool-can-diagnose-colon-cancer/"
+webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/BHC-T/pressreleases/16543041/new-artificial-intelligence-tool-can-diagnose-colon-cancer/"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 436
     isCached: true
 
-secured: "UURkSIE+UDQUKISusX6DVcou29Qoa9zThJNhCpfjeR+/mpNq2UyXP+IbcpmB0XKalouhHSaAewk5j3BbdtcRLYWWGQbCxifbjvhAOAMURl/LnuxgNb9/a1YKs8sp0TxwOa30HT8zXEAKSNAFNxmAxz1PFGlgeqHWJrXB/GkgbS3oN0xDCESwUTlqBTYyhM2ErwtPWSXsX8i/MenNSK7LwAu+lTQS3+yRT7N0A4+OopajWKH7dcF5J9FfrVj1o0iA4bhVMye7SdiKqktbsksAM1eaXDO+KvgkF+iu9E+0bBuAjvlVjSbMtY38uPJcAV5jxwblq5o6z7Bptmt/uJ4Nh+iIFLn6jwqStzG//0ZSZss=;djSNxsBdDp56XJnGZzE53A=="
+secured: "2AUxqyyC2KEMRJlus+gzMhBb3PpReq1+LR92cE506Zb1j2/+5DLmbJPhyvSeZ8AyeWrfSq2D3oCOp0JPqkH3V8EsTly0sVvQnVgApnI23uJHF/uhhFewUE3AGi4I4SKYmthMGyXomtLHuCvAYsrcTlxXbnsoEl4sktmwGmYiuzUy/4bECCUWZ2abbwPDVFO4xV8nMeMygbZqhI5fZvzvQMHVVmkQrFpebZcmEhUW4G31raxNZipJ8EKOunwp3BBS4S8rCqWJfaN/bq6zgnWchI7WIz2dTRlgZCSHxA3cBwnAeuh09v6oQQXzT7j869rtbTMFRFL3ytY+fxiAg1ll9QDivQBPfdyjOsJDoWnKaBk=;qPHh96g3eER8Y73J9rgavQ=="
 ---
 

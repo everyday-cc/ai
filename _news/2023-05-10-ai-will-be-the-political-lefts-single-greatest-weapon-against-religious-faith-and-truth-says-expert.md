@@ -8,8 +8,8 @@ webUrl: "https://www.foxnews.com/lifestyle/ai-political-left-single-greatest-wea
 ampWebUrl: "https://www.foxnews.com/lifestyle/ai-political-left-single-greatest-weapon-religious-faith-truth-expert.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/lifestyle/ai-political-left-single-greatest-weapon-religious-faith-truth-expert.amp"
 type: article
-quality: 71
-heat: 71
+quality: 73
+heat: 73
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d5c69365-fe8d-493b-bfed-036295311cf9/fa99226e-59e6-4ec3-a739-7a0c2ea9d800/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
@@ -29,6 +30,6 @@ images:
     height: 675
     isCached: true
 
-secured: "zJd3GcMBhULeb6Tf3OZrQA5KUZA6JY/Dld3ICXLBVt/V/MOsafFhb5fNqn4dmxieSfyJ4miqTRqCH328Z4XTV2nrhL4gX0AGEmoVc5nltL+0EnvtE3lkdzT2tpsTtuKXD14oUvWUSuVE1W2VB/9no/bBB/yG0Aqdty1STC0uHYxTzPE+HYhYi94u13zPn90S8COz0hUUdo/sUzwWLPT8qrU1j3j1yinwwvV4WODF9puJSAls9mp9SkcGCzaQ6BBXBYj1enPhcxiZFZa44Zo/fcsNVGbHI9ygeIY4ue3SvkN+HSPmx8m976MyLYxt3p1Bwos2OvNkjT7srfaHFAVvALAvbIooGKpKzR4jfntizNo=;PCv1/ljbTnNnoBrvHZltbw=="
+secured: "wjClKg5l4n+BaX7nbl7EpB5Xm8BLYTdUEH4EXhbm++E64es0netzqOfjEPy8zLVIEVARnh1ZpwTXneH0qJK+qM2YJgyGBleR7BHHFPfV9tdXeUU1RbzmOD3ABJAxMl6WheEoFz+0DzEEV3254s5z+KUuAkdtfpT70OlnZzurG1m5t3f9SQZ8OTcJswNSuv+XN/n7wCzld4bwLyI417Lqq0Y+s/Ovx37PSXFEchE9P8WsgIjs43E2HCFPQzwILeRtEMyTd+AZlCiMK6Ocn6LF7MmR2JA5E1BTXSpJU/0nKLduOJQsUBMpS5vTKHjgwAYm7E8wRjlnjT1kZw+2TJNj4INQzRq8xekRpbQiunI8dFePzJjpla2mSd5K8ZKj0UrQTsa8IVTEsxXBef3hGIU9nFDkCrydg+MzchXfdps6Nvh/kffDTIzx4+Q2v4768ZTx6C3JCKvjI36DOk96PRK+hQK1Fm+6+yWTQxWjYq/cl/5221rmStYWCDawSe8HUi4bKlRNcbXeefUhEVhE7CCkug==;K/96cgL4gVHOoaH/7tfjtA=="
 ---
 

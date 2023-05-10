@@ -2,6 +2,214 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-05-10-whats-ahead-for-bard-more-global-more-visual-more-integrated.md",
+      "title": "What’s ahead for Bard: More global, more visual, more integrated",
+      "excerpt": "We’re ending the waitlist for Bard, adding support for more regions, introducing images and connecting with partner apps.",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/technology/ai/google-bard-updates-io-2023/",
+      "originalUrl": "https://blog.google/technology/ai/google-bard-updates-io-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_IO_Bard_Keyword_Header_Option_B_2096x1.width-1300.png",
+          "width": 1300,
+          "height": 733,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/technology/ai/google-bard-updates-io-2023/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/google-bard-updates-io-2023/amp/",
+      "publishedDateTime": "2023-05-10T10:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-10-magic-editor-in-google-photos-new-ai-editing-features-for-reimagining-your-photos.md",
+      "title": "Magic Editor in Google Photos: New AI editing features for reimagining your photos",
+      "excerpt": "Magic Editor is an experimental editing experience that uses AI to help reimagine your photos — early access is planned for select Pixel phones later this year.",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/products/photos/google-photos-magic-editor-pixel-io-2023/",
+      "originalUrl": "https://blog.google/products/photos/google-photos-magic-editor-pixel-io-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Photos_Magic_Editor_Balloons_1.width-1300.jpg",
+          "width": 1300,
+          "height": 541,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/products/photos/google-photos-magic-editor-pixel-io-2023/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/photos/google-photos-magic-editor-pixel-io-2023/amp/",
+      "publishedDateTime": "2023-05-10T10:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-10-new-ways-ai-is-making-maps-more-immersive.md",
+      "title": "New ways AI is making Maps more immersive",
+      "excerpt": "With advancements in AI, there are new ways to understand your route with Maps. Plus, new immersive tools for developers.",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/products/maps/google-maps-updates-io-2023/",
+      "originalUrl": "https://blog.google/products/maps/google-maps-updates-io-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ROUTE_PREVIEW_DEMO_STILL_mV5TVdi.width-1300.jpg",
+          "width": 1300,
+          "height": 513,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/products/maps/google-maps-updates-io-2023/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/maps/google-maps-updates-io-2023/amp/",
+      "publishedDateTime": "2023-05-10T10:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-10-turn-ideas-into-music-with-musiclm.md",
+      "title": "Turn ideas into music with MusicLM",
+      "excerpt": "Starting today, you can sign up to try MusicLM, a new experimental AI tool that can turn your text descriptions into music.",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/technology/ai/musiclm-google-ai-test-kitchen/",
+      "originalUrl": "https://blog.google/technology/ai/musiclm-google-ai-test-kitchen/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_Music_Kitchen_800x418_2.width-1300.jpg",
+          "width": 800,
+          "height": 418,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/technology/ai/musiclm-google-ai-test-kitchen/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/musiclm-google-ai-test-kitchen/amp/",
+      "publishedDateTime": "2023-05-10T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-09-deepmind-pioneer-issues-warning-on-dangers-of-ai-autonomy.md",
       "title": "DeepMind pioneer issues warning on dangers of AI autonomy",
       "excerpt": "AI programs should not be taught how to improve themselves, according to a co-founder of the artificial intelligence research lab DeepMind. Mustafa Suleyman sa",
@@ -53,7 +261,7 @@
       "originalUrl": "https://blog.google/outreach-initiatives/entrepreneurs/how-4-startups-are-using-ai-to-solve-climate-change-challenges/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 169,
+      "heat": 159,
       "tags": null,
       "images": [
         {
@@ -1258,170 +1466,6 @@
         "news"
       ],
       "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-12-is-elon-musk-secretly-making-chatgpt-alternative.md",
-      "title": "Is Elon Musk secretly making ChatGPT alternative?",
-      "excerpt": "As per Business Insider, Musk has procured roughly 10,000 GPUs and has recruited AI experts from DeepMind for the project. Though the AI project is still in its early stages, the sizable number of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thenews.com.pk/latest/1059912-is-elon-musk-secretly-making-chatgpt-alternative",
-      "originalUrl": "https://www.thenews.com.pk/latest/1059912-is-elon-musk-secretly-making-chatgpt-alternative",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thenews.com.pk/assets/uploads/updates/2023-04-12/1059912_055750_updates.jpg",
-          "width": 700,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thenews.com.pk/amp/1059912-is-elon-musk-secretly-making-chatgpt-alternative",
-      "cdnAmpWebUrl": "https://www-thenews-com-pk.cdn.ampproject.org/c/s/www.thenews.com.pk/amp/1059912-is-elon-musk-secretly-making-chatgpt-alternative",
-      "publishedDateTime": "2023-04-12T06:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The News International",
-        "domain": "thenews.com.pk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-12-elon-musk-secretly-working-on-ai-project-with-deepmind-researchers.md",
-      "title": "Elon Musk secretly working on AI project with DeepMind researchers",
-      "excerpt": "The tech billionaire has already poached two researchers from leading AI research firm DeepMind, as well as invested in 10,000 graphics processing units (GPUs) for the company, sources told Insider.",
-      "sourceUrl": null,
-      "webUrl": "https://www.independent.co.uk/tech/elon-musk-ai-twitter-deepmind-chatgpt-b2318332.html?src=rss",
-      "originalUrl": "https://www.independent.co.uk/tech/elon-musk-ai-twitter-deepmind-chatgpt-b2318332.html?src=rss",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.independent.co.uk/2023/04/12/10/elon%20musk%20ai%20twitter%20deepmind.jpg?quality=75&width=1200&auto=webp",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-12T03:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Independent",
-        "domain": "independent.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-05-allen-lane-signs-deepmind-professors-book-on-being-human-in-the-coming-ai-age.md",
-      "title": "Allen Lane signs DeepMind professor’s book on being human in the 'coming AI age'",
-      "excerpt": "Allen Lane has snapped up The Atomic Human by Neil Lawrence, the inaugural DeepMind professor of machine learning at the University of Cambridge. Keith Mansfield, commissioning editor at Penguin ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thebookseller.com/rights/allen-lane-signs-deepmind-professors-book-on-being-human-in-the-coming-ai-age",
-      "originalUrl": "https://www.thebookseller.com/rights/allen-lane-signs-deepmind-professors-book-on-being-human-in-the-coming-ai-age",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-05T01:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Bookseller",
-        "domain": "thebookseller.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-05-tensorflow-lite-on-a-commodore-64.md",
-      "title": "TensorFlow Lite – On A Commodore 64",
-      "excerpt": "TensorFlow is a machine learning and AI library that has enabled so much and brought AI within the reach of most developers. But it’s fair to say that it’s not for the less powerful computers.",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2022/07/06/tensorflow-lite-on-a-commodore-64/",
-      "originalUrl": "https://hackaday.com/2022/07/06/tensorflow-lite-on-a-commodore-64/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2022/07/tf-c64-featured.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-04T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "TensorFlow",
         "Google AI",
         "AI"
       ]

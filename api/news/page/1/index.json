@@ -2,6 +2,604 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-05-11-amp-robotics-raises-additional-series-c-investment-from-microsoft-climate-innovation-fund.md",
+      "title": "AMP Robotics Raises Additional Series C Investment From Microsoft Climate Innovation Fund",
+      "excerpt": "AMP Robotics Corp. (“AMP”), a pioneer in artificial intelligence (AI), robotics, and infrastructure for the waste and recycling industry, has received financing from Microsoft’s Climate Innovation Fund.",
+      "sourceUrl": null,
+      "webUrl": "https://www.waste360.com/business/amp-robotics-raises-additional-series-c-investment-microsoft-climate-innovation-fund",
+      "originalUrl": "https://www.waste360.com/business/amp-robotics-raises-additional-series-c-investment-microsoft-climate-innovation-fund",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.waste360.com/sites/waste360.com/files/amproboticsfeat.png",
+          "width": 1540,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-10T10:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Waste360",
+        "domain": "waste360.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-11-google-brings-more-ai-tools-to-workspace.md",
+      "title": "Google brings more AI tools to Workspace",
+      "excerpt": "Generative AI seems to be the only thing Google wants to talk about at its I/O developer conference this year and unsurprisingly, one of the prime surfaces for highlighting its AI smarts is its Workspace productivity suite.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/05/10/google-brings-more-ai-tools-to-workspace/",
+      "originalUrl": "https://techcrunch.com/2023/05/10/google-brings-more-ai-tools-to-workspace/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 189,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-83888573.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/05/10/google-brings-more-ai-tools-to-workspace/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/10/google-brings-more-ai-tools-to-workspace/amp/",
+      "publishedDateTime": "2023-05-10T10:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-10-whats-ahead-for-bard-more-global-more-visual-more-integrated.md",
+      "title": "What’s ahead for Bard: More global, more visual, more integrated",
+      "excerpt": "We’re ending the waitlist for Bard, adding support for more regions, introducing images and connecting with partner apps.",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/technology/ai/google-bard-updates-io-2023/",
+      "originalUrl": "https://blog.google/technology/ai/google-bard-updates-io-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_IO_Bard_Keyword_Header_Option_B_2096x1.width-1300.png",
+          "width": 1300,
+          "height": 733,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/technology/ai/google-bard-updates-io-2023/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/google-bard-updates-io-2023/amp/",
+      "publishedDateTime": "2023-05-10T10:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-11-google-opens-up-about-palm-2-its-new-generative-ai-llm.md",
+      "title": "Google opens up about PaLM 2, its new generative AI LLM",
+      "excerpt": "Google's new PaLM 2 LLM will power at least 25 Google products and services that are being detailed during sessions at today's Google I/O.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/google-opens-up-about-palm-2-its-new-generative-ai-llm/",
+      "originalUrl": "https://venturebeat.com/ai/google-opens-up-about-palm-2-its-new-generative-ai-llm/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/05/Palm-2.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 666,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/google-opens-up-about-palm-2-its-new-generative-ai-llm/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/google-opens-up-about-palm-2-its-new-generative-ai-llm/amp/",
+      "publishedDateTime": "2023-05-10T10:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-10-magic-editor-in-google-photos-new-ai-editing-features-for-reimagining-your-photos.md",
+      "title": "Magic Editor in Google Photos: New AI editing features for reimagining your photos",
+      "excerpt": "Magic Editor is an experimental editing experience that uses AI to help reimagine your photos — early access is planned for select Pixel phones later this year.",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/products/photos/google-photos-magic-editor-pixel-io-2023/",
+      "originalUrl": "https://blog.google/products/photos/google-photos-magic-editor-pixel-io-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Photos_Magic_Editor_Balloons_1.width-1300.jpg",
+          "width": 1300,
+          "height": 541,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/products/photos/google-photos-magic-editor-pixel-io-2023/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/photos/google-photos-magic-editor-pixel-io-2023/amp/",
+      "publishedDateTime": "2023-05-10T10:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-11-education-startup-teky-raises-5m-from-foreign-investors.md",
+      "title": "Education startup TEKY raises $5M from foreign investors",
+      "excerpt": "Education startup TEKY Alpha has raised US$5 million from Singaporean investment firm Sweef Capital to expand its operations.",
+      "sourceUrl": null,
+      "webUrl": "https://e.vnexpress.net/news/business/companies/education-startup-teky-raises-5m-from-foreign-investors-4603427.html",
+      "originalUrl": "https://e.vnexpress.net/news/business/companies/education-startup-teky-raises-5m-from-foreign-investors-4603427.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i1-english.vnecdn.net/2023/05/10/Aa-1683687856-1905-1683693659.jpg?w=680&h=0&q=100&dpr=2&fit=crop&s=9WokI48vPG6Kpb_1nRaGbQ",
+          "width": 1199,
+          "height": 719,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://ampe.vnexpress.net/news/business/companies/education-startup-teky-raises-5m-from-foreign-investors-4603427.html",
+      "cdnAmpWebUrl": "https://ampe-vnexpress-net.cdn.ampproject.org/c/s/ampe.vnexpress.net/news/business/companies/education-startup-teky-raises-5m-from-foreign-investors-4603427.html",
+      "publishedDateTime": "2023-05-10T10:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VN Express",
+        "domain": "vnexpress.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2023-05-10-new-ways-ai-is-making-maps-more-immersive.md",
+      "title": "New ways AI is making Maps more immersive",
+      "excerpt": "With advancements in AI, there are new ways to understand your route with Maps. Plus, new immersive tools for developers.",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/products/maps/google-maps-updates-io-2023/",
+      "originalUrl": "https://blog.google/products/maps/google-maps-updates-io-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ROUTE_PREVIEW_DEMO_STILL_mV5TVdi.width-1300.jpg",
+          "width": 1300,
+          "height": 513,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/products/maps/google-maps-updates-io-2023/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/maps/google-maps-updates-io-2023/amp/",
+      "publishedDateTime": "2023-05-10T10:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-11-advanced-navigation-unveils-australias-largest-subsea-robotics-centre.md",
+      "title": "Advanced Navigation Unveils Australia's Largest Subsea Robotics Centre",
+      "excerpt": "Sydney, New South Wales - Advanced Navigation, the world's most determined innovator in artificial intelligence (AI) for robotic and navigation technologies, is",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/05/g32322249/advanced-navigation-unveils-australias-largest-subsea-robotics-centre",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/05/g32322249/advanced-navigation-unveils-australias-largest-subsea-robotics-centre",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/32322249",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32322249",
+      "publishedDateTime": "2023-05-10T10:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-10-turn-ideas-into-music-with-musiclm.md",
+      "title": "Turn ideas into music with MusicLM",
+      "excerpt": "Starting today, you can sign up to try MusicLM, a new experimental AI tool that can turn your text descriptions into music.",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/technology/ai/musiclm-google-ai-test-kitchen/",
+      "originalUrl": "https://blog.google/technology/ai/musiclm-google-ai-test-kitchen/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_Music_Kitchen_800x418_2.width-1300.jpg",
+          "width": 800,
+          "height": 418,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/technology/ai/musiclm-google-ai-test-kitchen/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/musiclm-google-ai-test-kitchen/amp/",
+      "publishedDateTime": "2023-05-10T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-10-global-machine-learning-as-a-service-mlaas-market-analysis-of-new-report-2023-2030.md",
+      "title": "Global Machine Learning-as-a-Service (MLaaS) Market Analysis of New Report 2023-2030",
+      "excerpt": "A Promising Outlook for the Global Machine Learning-as-a-Service (MLaaS) Market from 2023 to 2030 Why is Machine Learning-as-a-Service (MLaaS) market 2023 Important? - Overall, the Machine Learning-as-a-Service (MLaaS) market in 2023 is essential for businesses to understand the market landscape,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-machine-learning-as-a-service-mlaas-market-analysis-of-new-report-2023-2030-2023-05-10",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-machine-learning-as-a-service-mlaas-market-analysis-of-new-report-2023-2030-2023-05-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-10T09:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-10-trayio-launches-merlin-ai-to-automate-complex-workflows-without-llm-training.md",
+      "title": "Tray.io launches Merlin AI to automate complex workflows without LLM training",
+      "excerpt": "The company claims that the Tray platform is the first iPaaS solution to provide generative AI capabilities accessible to all users.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/tray-io-launches-merlin-ai-to-automate-complex-workflows-without-llm-training/",
+      "originalUrl": "https://venturebeat.com/ai/tray-io-launches-merlin-ai-to-automate-complex-workflows-without-llm-training/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/05/Feature-3-1200-x-675.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/tray-io-launches-merlin-ai-to-automate-complex-workflows-without-llm-training/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/tray-io-launches-merlin-ai-to-automate-complex-workflows-without-llm-training/amp/",
+      "publishedDateTime": "2023-05-10T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-10-early-mit-research-shows-industrial-revolution-level-large-leap-for-workers-using-generative-ai.md",
+      "title": "Early MIT research shows 'Industrial Revolution-level large' leap for workers using generative AI",
+      "excerpt": "New MIT research shows ChatGPT creating gains at work that rival the Industrial Revolution and steam engine, says CEO of Google-linked AI startup Cohere.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/05/10/mit-data-show-industrial-revolution-level-leap-for-workers-using-ai.html",
+      "originalUrl": "https://www.cnbc.com/2023/05/10/mit-data-show-industrial-revolution-level-leap-for-workers-using-ai.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107231241-1682508826021-gettyimages-1249028985-raa-googleba230321_npxvU.jpeg?v=1683739235",
+          "width": 5872,
+          "height": 3306,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2023/05/10/mit-data-show-industrial-revolution-level-leap-for-workers-using-ai.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/05/10/mit-data-show-industrial-revolution-level-leap-for-workers-using-ai.html",
+      "publishedDateTime": "2023-05-10T08:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-10-zendesk-ai-leveling-up-with-generative-ai-for-a-more-intuitive-and-intelligent-cx-platform.md",
       "title": "Zendesk AI: Leveling up with generative AI for a more intuitive and intelligent CX platform",
       "excerpt": "Zendesk announced new AI capabilities including advanced CX bots, AI-powered assistance for human CX agents and intelligent triage.",
@@ -104,21 +702,21 @@
       ]
     },
     {
-      "path": "_news/2023-05-10-new-era-of-generative-ai-finally-delivers-on-promise.md",
-      "title": "New Era Of Generative AI Finally Delivers On Promise",
-      "excerpt": "Artificial intelligence is not new, but the public launch of generative AI has led to an explosion of AI models and implementations that are finally delivering some of the potential promise of artificial intelligence.",
+      "path": "_news/2023-05-10-meps-to-vote-on-proposed-ban-on-big-brother-ai-facial-recognition-on-streets.md",
+      "title": "MEPs to vote on proposed ban on ‘Big Brother’ AI facial recognition on streets",
+      "excerpt": "Thursday’s vote in EU parliament seen as key test in formation of world’s first artificial intelligence laws",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tonybradley/2023/05/10/new-era-of-generative-ai-finally-delivers-on-promise/",
-      "originalUrl": "https://www.forbes.com/sites/tonybradley/2023/05/10/new-era-of-generative-ai-finally-delivers-on-promise/",
+      "webUrl": "https://www.theguardian.com/technology/2023/may/10/meps-to-vote-on-proposed-ban-on-big-brother-ai-facial-recognition-on-streets?ref=upstract.com",
+      "originalUrl": "https://www.theguardian.com/technology/2023/may/10/meps-to-vote-on-proposed-ban-on-big-brother-ai-facial-recognition-on-streets?ref=upstract.com",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 70,
       "tags": null,
       "images": [
         {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/645bab625656905e0c4bd205/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
+          "url": "https://i.guim.co.uk/img/media/aa6324386e9fe52d51b229a9ab13f470938263ff/0_202_3500_2100/master/3500.jpg?width=620&quality=85&auto=format&fit=max&s=79dac11ea158833cc0f2edcd050e78c0",
+          "width": 620,
+          "height": 372,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -126,16 +724,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tonybradley/2023/05/10/new-era-of-generative-ai-finally-delivers-on-promise/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tonybradley/2023/05/10/new-era-of-generative-ai-finally-delivers-on-promise/amp/",
-      "publishedDateTime": "2023-05-10T07:36:00-07:00",
+      "ampWebUrl": "https://amp.theguardian.com/technology/2023/may/10/meps-to-vote-on-proposed-ban-on-big-brother-ai-facial-recognition-on-streets",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/may/10/meps-to-vote-on-proposed-ban-on-big-brother-ai-facial-recognition-on-streets",
+      "publishedDateTime": "2023-05-10T07:34:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
+        "name": "The Guardian",
+        "domain": "theguardian.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -151,6 +749,7 @@
         "news"
       ],
       "topics": [
+        "Computer Vision",
         "AI"
       ]
     },
@@ -252,6 +851,57 @@
       ]
     },
     {
+      "path": "_news/2023-05-10-will-new-ai-features-electrify-googl-stock.md",
+      "title": "Will New AI Features Electrify GOOGL Stock?",
+      "excerpt": "Alphabet’s (NASDAQ:GOOGL)(NASDAQ:GOOG) annual developer conference, or Google I/O, is scheduled for May 10, and news is rife in the market",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/will-new-ai-features-electrify-googl-stock-1032311946",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/will-new-ai-features-electrify-googl-stock-1032311946",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://blog.tipranks.com/wp-content/uploads/2023/05/GOOGL-1.jpg?utm_source=markets.businessinsider.com&utm_medium=referral",
+          "width": 912,
+          "height": 306,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-10T04:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-10-the-crucial-ways-that-religion-and-generative-ai-chatgpt-are-crossing-fateful-faithful-paths.md",
       "title": "The Crucial Ways That Religion And Generative AI ChatGPT Are Crossing Fateful Faithful Paths",
       "excerpt": "Religion and generative AI such as ChatGPT are crossing paths, here's a comprehensive look at this fateful faithful intertwining, including upsides and downsides.",
@@ -313,7 +963,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/05/10/why-ai-powered-customer-service-and-support-are-crucial-in-2023/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 127,
       "tags": null,
       "images": [
         {
@@ -364,7 +1014,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/10/three-reasons-generative-ai-will-be-the-next-disruption-for-e-grocery-stores/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -388,6 +1038,57 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-10-in-turkey-a-modern-city-sits-alongside-a-mythical-site.md",
+      "title": "In Turkey, a modern city sits alongside a mythical site",
+      "excerpt": "Turkey, sits near the site of Truva, or ancient Troy. The archaeological site is said to have been where the mythical Trojan War took place. But historians say there is real history between Homer's epic poem,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/travel/article/canakkale-troy-turkey/index.html",
+      "originalUrl": "https://www.cnn.com/travel/article/canakkale-troy-turkey/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.cnn.com/api/v1/images/stellar/prod/230510110102-trojan-horse-tz.jpg?c=16x9&q=w_800,c_fill",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/travel/article/canakkale-troy-turkey/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/travel/article/canakkale-troy-turkey/index.html",
+      "publishedDateTime": "2023-05-10T03:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -549,704 +1250,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-10-sas-commits-1bln-to-ai-powered-industry-solutions.md",
-      "title": "SAS commits $1bln to AI-powered industry solutions",
-      "excerpt": "All industry solutions will run on SAS® Viya®, SAS’ cloud-native, massively parallel AI and analytics platform. “Businesses face many challenges, from the threat of economic recession and stressed supply chains to workforce shortages and regulatory changes,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zawya.com/en/press-release/companies-news/sas-commits-1bln-to-ai-powered-industry-solutions-ru5q37hj",
-      "originalUrl": "https://www.zawya.com/en/press-release/companies-news/sas-commits-1bln-to-ai-powered-industry-solutions-ru5q37hj",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.zawya.com/view/acePublic/alias/contentid/YTk5NGRiNWYtZTMyMi00/0/tailoredsolutions-jpg.jpeg?f=3%3A2",
-          "width": 799,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zawya.com/en/press-release/companies-news/sas-commits-1bln-to-ai-powered-industry-solutions-ru5q37hj?amp=1",
-      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/sas-commits-1bln-to-ai-powered-industry-solutions-ru5q37hj?amp=1",
-      "publishedDateTime": "2023-05-10T00:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-10-adapt-or-die-3-things-businesses-must-do-to-avoid-becoming-irrelevant-in-the-ai-revolution.md",
-      "title": "Adapt Or Die: 3 Things Businesses Must Do To Avoid Becoming Irrelevant In The AI Revolution",
-      "excerpt": "In 2020, pivoting was necessary in order to survive. In 2023 it's no different. Use this AI revolution to become a creator and a leader, instead of just an observer and user.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jodiecook/2023/05/10/adapt-or-die-3-things-businesses-must-do-to-avoid-becoming-irrelevant-in-the-ai-revolution/",
-      "originalUrl": "https://www.forbes.com/sites/jodiecook/2023/05/10/adapt-or-die-3-things-businesses-must-do-to-avoid-becoming-irrelevant-in-the-ai-revolution/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/645b1755cf61fa38f12796dd/0x0.jpg?format=jpg&crop=3096,1741,x0,y60,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jodiecook/2023/05/10/adapt-or-die-3-things-businesses-must-do-to-avoid-becoming-irrelevant-in-the-ai-revolution/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jodiecook/2023/05/10/adapt-or-die-3-things-businesses-must-do-to-avoid-becoming-irrelevant-in-the-ai-revolution/amp/",
-      "publishedDateTime": "2023-05-10T00:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-10-machine-learning-tool-may-diagnose-parkinsons-years-before-symptoms-appear.md",
-      "title": "Machine learning tool may diagnose Parkinson’s years before symptoms appear",
-      "excerpt": "Parkinson’s disease (PD) is growing more rapidly than any other neurological disease, which makes its early detection so important. Researchers have developed a new machine-learning tool that shows promise as a way of detecting the disease early.",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/medical/crank-ms-machine-learning-early-parkinsons-diagnosis/",
-      "originalUrl": "https://newatlas.com/medical/crank-ms-machine-learning-early-parkinsons-diagnosis/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/281c196/2147483647/strip/true/crop/2000x1050+0+142/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F6a%2F9b%2F0e326750433aa1bee5faea63c003%2Fdepositphotos-6859206-l.jpg&na.image_optimisation=0",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-10T00:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-10-15-amazing-real-world-applications-of-ai-everyone-should-know-about.md",
-      "title": "15 Amazing Real-World Applications Of AI Everyone Should Know About",
-      "excerpt": "The future is here, and it’s fueled by artificial intelligence. Read on to find out the top 15 real-world applications of AI that are redefining industries and impacting our daily lives in 2023.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2023/05/10/15-amazing-real-world-applications-of-ai-everyone-should-know-about/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2023/05/10/15-amazing-real-world-applications-of-ai-everyone-should-know-about/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/645b3eca0059191fb09c02fa/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2023/05/10/15-amazing-real-world-applications-of-ai-everyone-should-know-about/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/05/10/15-amazing-real-world-applications-of-ai-everyone-should-know-about/amp/",
-      "publishedDateTime": "2023-05-09T23:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-10-ai-will-be-the-political-lefts-single-greatest-weapon-against-religious-faith-and-truth-says-expert.md",
-      "title": "AI will be the political left's 'single greatest weapon' against religious faith and truth, says expert",
-      "excerpt": "As AI technologies grow, experts and faith leaders share concerns over AI and worship. Faith leaders weigh in, saying AI can learn the gospel, but can't ever experience and share it as humans can.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/lifestyle/ai-political-left-single-greatest-weapon-religious-faith-truth-expert",
-      "originalUrl": "https://www.foxnews.com/lifestyle/ai-political-left-single-greatest-weapon-religious-faith-truth-expert",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d5c69365-fe8d-493b-bfed-036295311cf9/fa99226e-59e6-4ec3-a739-7a0c2ea9d800/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/lifestyle/ai-political-left-single-greatest-weapon-religious-faith-truth-expert.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/lifestyle/ai-political-left-single-greatest-weapon-religious-faith-truth-expert.amp",
-      "publishedDateTime": "2023-05-09T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-10-meps-to-vote-on-proposed-ban-on-big-brother-ai-facial-recognition-on-streets.md",
-      "title": "MEPs to vote on proposed ban on ‘Big Brother’ AI facial recognition on streets",
-      "excerpt": "Thursday’s vote in EU parliament seen as key test in formation of world’s first artificial intelligence laws",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/technology/2023/may/10/meps-to-vote-on-proposed-ban-on-big-brother-ai-facial-recognition-on-streets",
-      "originalUrl": "https://www.theguardian.com/technology/2023/may/10/meps-to-vote-on-proposed-ban-on-big-brother-ai-facial-recognition-on-streets",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/aa6324386e9fe52d51b229a9ab13f470938263ff/0_202_3500_2100/master/3500.jpg?width=620&quality=85&auto=format&fit=max&s=79dac11ea158833cc0f2edcd050e78c0",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/technology/2023/may/10/meps-to-vote-on-proposed-ban-on-big-brother-ai-facial-recognition-on-streets",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/may/10/meps-to-vote-on-proposed-ban-on-big-brother-ai-facial-recognition-on-streets",
-      "publishedDateTime": "2023-05-09T20:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-10-the-future-is-here-amazon-is-now-selling-astro-an-ai-driven-household-robot.md",
-      "title": "The Future Is Here: Amazon Is Now Selling Astro, An AI Driven Household Robot",
-      "excerpt": "Two years later, the vision for Astro is still strong, as the company has started selling the device as a part of its “Day 1 Editions” products—those which are accessible to buyers only through an exclusive invitation. Amazon typically reserves this category for its most cutting-edge technology, such as the Astro or the “Ring Always Home Cam.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/saibala/2023/05/09/the-future-is-here-amazon-is-now-selling-astro-an-ai-driven-household-robot/",
-      "originalUrl": "https://www.forbes.com/sites/saibala/2023/05/09/the-future-is-here-amazon-is-now-selling-astro-an-ai-driven-household-robot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/645af7165cd3f9d25fb32fd0/0x0.jpg?format=jpg&crop=4983,2801,x0,y74,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/saibala/2023/05/09/the-future-is-here-amazon-is-now-selling-astro-an-ai-driven-household-robot/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/saibala/2023/05/09/the-future-is-here-amazon-is-now-selling-astro-an-ai-driven-household-robot/amp/",
-      "publishedDateTime": "2023-05-09T20:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-10-artificial-intelligence-study-decodes-brain-activity-into-dialogue.md",
-      "title": "Artificial intelligence study decodes brain activity into dialogue",
-      "excerpt": "Scientists at UT Austin conducted a study where they created a 3D view of a person's mind and used artificial intelligence to decode brain activity into dialogue.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/now/video/artificial-intelligence-study-decodes-brain-activity-into-diaglogue-173774917826?ref=upstract.com",
-      "originalUrl": "https://www.nbcnews.com/now/video/artificial-intelligence-study-decodes-brain-activity-into-diaglogue-173774917826?ref=upstract.com",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_05/1683684426844_now_staytuned_mind_reading_230509_1920x1080-b011uy.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo173774917826",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo173774917826",
-      "publishedDateTime": "2023-05-09T19:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-10-ferrari-may-eventually-make-an-ev-but-it-has-zero-interest-in-self-driving-cars-we-dont-care.md",
-      "title": "Ferrari may eventually make an EV but it has zero interest in self-driving cars: ‘We don’t care’",
-      "excerpt": "But the Italian luxury auto company says it’s unlikely to ever cave to another major car trend: self-driving vehicles. The iconic supercar maker’s brand is to design sports cars that people want to drive themselves, and capitulating to self-driving ...",
-      "sourceUrl": null,
-      "webUrl": "https://fortune.com/2023/05/09/ferrari-wont-do-self-driving-car-ev/?ref=biztoc.com",
-      "originalUrl": "https://fortune.com/2023/05/09/ferrari-wont-do-self-driving-car-ev/?ref=biztoc.com",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://content.fortune.com/wp-content/uploads/2023/05/GettyImages-1247103950-e1683665996989.jpg?w=840",
-          "width": 840,
-          "height": 560,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://fortune.com/2023/05/09/ferrari-wont-do-self-driving-car-ev/amp/",
-      "cdnAmpWebUrl": "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/2023/05/09/ferrari-wont-do-self-driving-car-ev/amp/",
-      "publishedDateTime": "2023-05-09T19:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fortune",
-        "domain": "fortune.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fortune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-10-google-chrome-brings-better-ai-brains-to-the-web.md",
-      "title": "Google Chrome Brings Better AI Brains to the Web",
-      "excerpt": "With a technology called WebGPU, AI software to monitor your health or generate images could run in your browser instead of the cloud.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/tech/computing/google-chrome-brings-better-ai-brains-to-the-web/",
-      "originalUrl": "https://www.cnet.com/tech/computing/google-chrome-brings-better-ai-brains-to-the-web/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/fccd854ab95eb0901bb9d795b1bd9e822ca897ad/hub/2019/05/09/9f2a88cf-2acc-4c04-b11e-03560e8d182f/20120314-google-chrome-lapel-pin-4sts-01.jpg?auto=webp",
-          "width": 4048,
-          "height": 2391,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/google-chrome-brings-better-ai-brains-to-the-web/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/google-chrome-brings-better-ai-brains-to-the-web/",
-      "publishedDateTime": "2023-05-09T16:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-10-why-ai-will-open-up-new-career-opportunities-for-young-people.md",
-      "title": "Why AI Will Open Up New Career Opportunities For Young People",
-      "excerpt": "Between the aging labor force and new technology like ChatGPT, the future looks bright for young people just launching their careers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/markcperna/2023/05/09/why-ai-will-open-up-new-career-opportunities-for-young-people/",
-      "originalUrl": "https://www.forbes.com/sites/markcperna/2023/05/09/why-ai-will-open-up-new-career-opportunities-for-young-people/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/644d8f7506c6135340824e83/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 749,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/markcperna/2023/05/09/why-ai-will-open-up-new-career-opportunities-for-young-people/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markcperna/2023/05/09/why-ai-will-open-up-new-career-opportunities-for-young-people/amp/",
-      "publishedDateTime": "2023-05-09T15:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-10-2030-ai-in-computer-vision-market-growth-future-prospects-and-competitive-analysis.md",
-      "title": "2030, AI in Computer Vision Market Growth | Future Prospects and Competitive Analysis",
-      "excerpt": "The \"AI in Computer Vision Market\" is one of the sectors that is expanding the fastest, thus it is crucial for players",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/2030-ai-in-computer-vision-market-growth-future-prospects-and-competitive-analysis-2023-05-09",
-      "originalUrl": "https://www.marketwatch.com/press-release/2030-ai-in-computer-vision-market-growth-future-prospects-and-competitive-analysis-2023-05-09",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-09T14:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-10-computer-vision-in-artificial-intelligence-ai-market-research-2023-2030.md",
-      "title": "Computer Vision in Artificial Intelligence (AI) Market Research, 2023-2030",
-      "excerpt": "Computer Vision in Artificial Intelligence (AI) Market Insights 2023 by Types (, Hardware, Software, , ) , Applications",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-in-artificial-intelligence-ai-market-research-2023-2030-2023-05-09",
-      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-in-artificial-intelligence-ai-market-research-2023-2030-2023-05-09",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 347,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-09T13:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-10-bloomberg-seeks-ai-ethics-and-policy-reporter.md",
-      "title": "Bloomberg seeks AI ethics and policy reporter",
-      "excerpt": "Bloomberg News invests in its journalism and its journalists. We have a culture in which you will be supported and challenged to innovate, to learn new skills and to deliver news in a manner best suited to the modern reader’s interests.",
-      "sourceUrl": null,
-      "webUrl": "https://talkingbiznews.com/biz-news-help-wanted/full-time/bloomberg-seeks-ai-ethics-and-policy-reporter/",
-      "originalUrl": "https://talkingbiznews.com/biz-news-help-wanted/full-time/bloomberg-seeks-ai-ethics-and-policy-reporter/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://talkingbiznews.com/wp-content/uploads/2021/10/Bloomberg-logo.png",
-          "width": 592,
-          "height": 233,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://talkingbiznews.com/biz-news-help-wanted/full-time/bloomberg-seeks-ai-ethics-and-policy-reporter/amp/",
-      "cdnAmpWebUrl": "https://talkingbiznews-com.cdn.ampproject.org/c/s/talkingbiznews.com/biz-news-help-wanted/full-time/bloomberg-seeks-ai-ethics-and-policy-reporter/amp/",
-      "publishedDateTime": "2023-05-09T12:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Talking Biz News",
-        "domain": "talkingbiznews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

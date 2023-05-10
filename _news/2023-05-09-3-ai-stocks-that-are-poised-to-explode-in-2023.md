@@ -39,6 +39,34 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Why generative AI is the finance industry’s road to superior customer service"
+    excerpt: "Delivering a premium customer experience has always been essential to financial services. But in today’s rapidly changing environment, financial institutions need to do more than maintain the experiences they’ve developed."
+    publishedDateTime: 2023-05-08T15:38:00Z
+    webUrl: "https://techcrunch.com/sponsor/nvidia-aws-company/why-generative-ai-is-the-finance-industrys-road-to-superior-customer-service/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 83
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/04/GettyImages-1456589557.jpg?resize=1200,633"
+        width: 1200
+        height: 633
+        isCached: true
+  - title: "Why AI Will Never Fully Replace Humans In 19 Agency Service Areas"
+    excerpt: "It is important for leaders to consider the possible effects of AI replacing human efforts in specific focus areas in marketing, advertising and public relations."
+    publishedDateTime: 2023-05-10T17:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/05/10/why-ai-will-never-fully-replace-humans-in-19-agency-service-areas/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 69
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/645bb6c0da50d9e629b32fd2/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "How Artificial Intelligence is Used in Customer Service"
     excerpt: "Of all the applications for artificial intelligence (AI), customer service is one of the most common. Companies big and small have been using tools like AI customer service bots and voice assistants in order to handle customer requests,"
     publishedDateTime: 2023-05-08T18:20:00Z

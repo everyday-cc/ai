@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2023-05-08/makemytrip-adds
 webUrl: "https://www.bloomberg.com/news/articles/2023-05-08/makemytrip-adds-ai-voice-chat-to-lure-more-india-travelers"
 type: article
 quality: 69
-heat: 169
+heat: 159
 published: true
 
 provider:
@@ -136,20 +136,6 @@ related:
       - url: "https://www.traveltrendstoday.in/wp-content/uploads/2023/05/MakeMyTrip-2.jpg"
         width: 584
         height: 448
-        isCached: true
-  - title: "MMT partners with Microsoft to offer voice assistance in Indian languages"
-    excerpt: "MakeMyTrip (MMT) has collaborated with Microsoft to make travel planning more inclusive and accessible by introducing voice assisted booking in Indian languages. The new, in-platform tech stack powered by Microsoft Azure OpenAI Service and Azure Cognitive Services,"
-    publishedDateTime: 2023-05-08T08:00:00Z
-    webUrl: "https://travelbizmonitor.com/mmt-partners-with-microsoft-to-offer-voice-assistance-in-indian-languages/"
-    type: article
-    provider:
-      name: Travel Biz Monitor
-      domain: travelbizmonitor.com
-    quality: 38
-    images:
-      - url: "https://travelbizmonitor.com/wp-content/uploads/2021/07/IMG-20210515-WA0036_074850-e1627021612894.jpg"
-        width: 800
-        height: 600
         isCached: true
   - title: "MakeMyTrip collaborates with Microsoft to introduce voice assisted booking in Indian languages"
     excerpt: "The new, in-platform tech stack powered by Microsoft Azure OpenAI Service and Azure Cognitive Services, will converse with the user to offer personalized travel recommendations based on their preferences,"

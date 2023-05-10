@@ -35,20 +35,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Google Is Using AI to Make Hearing Aids More Personalized"
-    excerpt: "A new partnership between Google and an Australian hearing coalition is using machine intelligence to improve the customizability of hearing aids and cochlear implants."
-    publishedDateTime: 2023-05-07T11:00:00Z
-    webUrl: "https://www.wired.com/story/cochlear-and-google-hearing-technology-coalition/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 67
-    images:
-      - url: "https://media.wired.com/photos/6455349e6279e36472844413/191:100/w_1280,c_limit/Cochlear-and-Google-Partner-to-Improve-Hearing-Technology-Gear.jpg"
-        width: 1280
-        height: 670
-        isCached: true
   - title: "IBM launches new artificial intelligence and data platform"
     excerpt: "Watsonx could bring AI to more businesses IBM on Tuesday launched watsonx, a new artificial intelligence and data platform to help companies integrate AI in their business. The new AI platform launch comes over a decade after IBM's software called Watson got attention for winning the game show"
     publishedDateTime: 2023-05-10T10:45:00Z

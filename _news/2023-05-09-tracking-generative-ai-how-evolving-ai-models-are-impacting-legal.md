@@ -26,35 +26,35 @@ images:
     isCached: true
 
 related:
-  - title: "New Era Of Generative AI Finally Delivers On Promise"
-    excerpt: "Artificial intelligence is not new, but the public launch of generative AI has led to an explosion of AI models and implementations that are finally delivering some of the potential promise of artificial intelligence."
-    publishedDateTime: 2023-05-10T14:36:00Z
-    webUrl: "https://www.forbes.com/sites/tonybradley/2023/05/10/new-era-of-generative-ai-finally-delivers-on-promise/"
-    ampWebUrl: "https://www.forbes.com/sites/tonybradley/2023/05/10/new-era-of-generative-ai-finally-delivers-on-promise/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tonybradley/2023/05/10/new-era-of-generative-ai-finally-delivers-on-promise/amp/"
+  - title: "New ways AI is making Maps more immersive"
+    excerpt: "With advancements in AI, there are new ways to understand your route with Maps. Plus, new immersive tools for developers."
+    publishedDateTime: 2023-05-10T17:07:00Z
+    webUrl: "https://blog.google/products/maps/google-maps-updates-io-2023/"
+    ampWebUrl: "https://blog.google/products/maps/google-maps-updates-io-2023/amp/"
+    cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/maps/google-maps-updates-io-2023/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: Google
+      domain: blog.google
+    quality: 109
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/645bab625656905e0c4bd205/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
+      - url: "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ROUTE_PREVIEW_DEMO_STILL_mV5TVdi.width-1300.jpg"
+        width: 1300
+        height: 513
         isCached: true
-  - title: "Why generative AI is the finance industry’s road to superior customer service"
-    excerpt: "Delivering a premium customer experience has always been essential to financial services. But in today’s rapidly changing environment, financial institutions need to do more than maintain the experiences they’ve developed."
-    publishedDateTime: 2023-05-08T15:38:00Z
-    webUrl: "https://techcrunch.com/sponsor/nvidia-aws-company/why-generative-ai-is-the-finance-industrys-road-to-superior-customer-service/"
+  - title: "Google Is Using AI to Make Hearing Aids More Personalized"
+    excerpt: "A new partnership between Google and an Australian hearing coalition is using machine intelligence to improve the customizability of hearing aids and cochlear implants."
+    publishedDateTime: 2023-05-07T11:00:00Z
+    webUrl: "https://www.wired.com/story/cochlear-and-google-hearing-technology-coalition/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 83
+      name: Wired
+      domain: wired.com
+    quality: 67
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/04/GettyImages-1456589557.jpg?resize=1200,633"
-        width: 1200
-        height: 633
+      - url: "https://media.wired.com/photos/6455349e6279e36472844413/191:100/w_1280,c_limit/Cochlear-and-Google-Partner-to-Improve-Hearing-Technology-Gear.jpg"
+        width: 1280
+        height: 670
         isCached: true
   - title: "Why generative AI is more dangerous than you think"
     excerpt: "The real short-term danger of generative AI isn't lost jobs or fake content but targeted generative ads and targeted conversational influence."

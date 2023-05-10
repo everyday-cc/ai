@@ -88,15 +88,6 @@ related:
       name: The Michigan Daily
       domain: michigandaily.com
     quality: 19
-  - title: "The Race to Write the World’s First AI Rule Book"
-    excerpt: "The proposed Artificial Intelligence Act is a far-reaching legal framework. But rival nations are watching, hoping to take advantage of delays."
-    publishedDateTime: 2023-05-09T13:11:00Z
-    webUrl: "https://www.thecipherbrief.com/the-race-to-write-the-worlds-first-ai-rule-book"
-    type: article
-    provider:
-      name: The Cipher Brief
-      domain: thecipherbrief.com
-    quality: 19
   - title: "Researchers Of Open-Source Project Advance The State Of The Art In AI For Music"
     excerpt: "The researcher’s community has come up with an innovative way to amalgamate cutting edge technologies in speech, text, sound like the transformer-based language models and generative AI techniques to generate music using AI."
     publishedDateTime: 2023-05-10T01:59:00Z

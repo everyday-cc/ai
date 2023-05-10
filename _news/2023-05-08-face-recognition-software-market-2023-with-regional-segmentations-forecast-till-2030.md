@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Machine Learning 2023 Market Size, Historical Growth, Analysis up to 2030"
+    excerpt: "The key players in the Machine Learning market include global distribution system (GDS) providers, such as These companies are typically the largest or most prominent players in the industry, and they may have significant market share,"
+    publishedDateTime: 2023-05-10T13:14:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-2023-market-size-historical-growth-analysis-up-to-2030-2023-05-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 68
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "+phjDoME7sotinC20JE0ZI2KGqn6iRWWa/rJBEWlWQc57VMrZnrW1l8YuQ/RgpCmU6FuFY4x3vA8Ahgkxqs2g2H6FItEit4oi5jOEVuXstneWBZXGIo3jZIVm4vXUvImFNPS2+3gqPAVgUb+fSC73vdN3Ai5BShqQqg66k+tcdum2EgEMXUKk5yenv4e/s1bzPyXQtqMKgWs+pb2H2Rx6iozdjcXrVtvFfmfwi3AQtcLWbVcdy91RTf4b5+TYpnXYdZ9O4Z9KmEALLPAsmTI0Cr4BxNAo+kNUeG01uTT39lrasSHMa36ugRKuD7n01TCoAPdg7rMnAKgA21wtUpcMpVupZ2zU87u+140rC3UeNw=;uo7Mc5QzYAliCiT9B/o5fQ=="
 ---

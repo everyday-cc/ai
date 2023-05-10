@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/tonybradley/2023/05/10/new-era-of-gener
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tonybradley/2023/05/10/new-era-of-generative-ai-finally-delivers-on-promise/amp/"
 type: article
 quality: 87
-heat: 117
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -30,43 +30,45 @@ images:
     isCached: true
 
 related:
-  - title: "Why generative AI is the finance industry’s road to superior customer service"
-    excerpt: "Delivering a premium customer experience has always been essential to financial services. But in today’s rapidly changing environment, financial institutions need to do more than maintain the experiences they’ve developed."
-    publishedDateTime: 2023-05-08T15:38:00Z
-    webUrl: "https://techcrunch.com/sponsor/nvidia-aws-company/why-generative-ai-is-the-finance-industrys-road-to-superior-customer-service/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 83
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/04/GettyImages-1456589557.jpg?resize=1200,633"
-        width: 1200
-        height: 633
-        isCached: true
-  - title: "Why generative AI is more dangerous than you think"
-    excerpt: "The real short-term danger of generative AI isn't lost jobs or fake content but targeted generative ads and targeted conversational influence."
-    publishedDateTime: 2023-05-06T13:39:00Z
-    webUrl: "https://venturebeat.com/ai/why-generative-ai-is-more-dangerous-than-you-think/"
+  - title: "Google opens up about PaLM 2, its new generative AI LLM"
+    excerpt: "Google's new PaLM 2 LLM will power at least 25 Google products and services that are being detailed during sessions at today's Google I/O."
+    publishedDateTime: 2023-05-10T17:25:00Z
+    webUrl: "https://venturebeat.com/ai/google-opens-up-about-palm-2-its-new-generative-ai-llm/"
+    ampWebUrl: "https://venturebeat.com/ai/google-opens-up-about-palm-2-its-new-generative-ai-llm/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/google-opens-up-about-palm-2-its-new-generative-ai-llm/amp/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 47
-  - title: "Tracking Generative AI: How Evolving AI Models Are Impacting Legal"
-    excerpt: "A running compilation of how the legal landscape continues to be shaped by generative AI tools, from GPT technologies to art generation tools and beyond."
-    publishedDateTime: 2023-05-09T16:30:00Z
-    webUrl: "https://www.law.com/legaltechnews/2023/05/09/tracking-generative-ai-how-evolving-ai-models-are-impacting-legal/"
+    quality: 89
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/05/Palm-2.jpg?w=1200&strip=all"
+        width: 1200
+        height: 666
+        isCached: true
+  - title: "IBM's generative AI strike force"
+    excerpt: "O.G. tech giant IBM is launching a counterstrike in the industry's suddenly-hot AI fight with today's announcement of Watsonx. The big picture: Business-focused IBM claims its latest AI offering, set to launch in July, provides more accurate answers and takes a more responsible approach than rivals."
+    publishedDateTime: 2023-05-09T10:00:00Z
+    webUrl: "https://www.axios.com/2023/05/09/watsonx-ibm-generative-ai-chatgpt"
     type: article
     provider:
-      name: Law
-      domain: law.com
-    quality: 41
+      name: Axios
+      domain: axios.com
+    quality: 39
     images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/01/Numbers-Artificial-Intelligence-767x633.jpg"
-        width: 767
-        height: 633
+      - url: "https://images.axios.com/2abZGvpVZrwSgGGrbzRnGszoxeg=/0x489:6000x3864/1366x768/2023/05/09/1683594467793.jpg"
+        width: 1366
+        height: 768
         isCached: true
+  - title: "Scale AI unveils its full-stack generative AI platform"
+    excerpt: "Scale's Enterprise AI Platform will allow customers to get the benefits of large language models without having to send data out to a third-party AI company."
+    publishedDateTime: 2023-05-10T15:01:00Z
+    webUrl: "https://www.fastcompany.com/90893774/scale-ai-unveils-its-full-stack-generative-ai-platform"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 17
 
 secured: "oEkmliGdIEP4S8Kpe1C91oFpm1kgm6Ec8nWmFkBg7nXCXkO5hLc1476ZsotK1zf7Gu8IuJD+8MXAp5UKm1qf247PBASWuWHcRmY9wkB0laTC5Z/DOwkV/HRug0ZASbSvP+CDZZK63DQo+/26O3lahWb6uz/bh0f3UzW213wy3J3iuFzGzVF+R/qLoCh1mkOnCo5N9GrLhgssMRtEAfOiHQwlARVoa00FPPlNrb+eIjqpEEwrGKmz96B7X9vCGjZWnEqArj4aS4P2UgBrvqYNeiakVuUfk3ar2kWZsgyEPep9z81rFj82RkKOoNrqGjPkpelV5BNIHZX0BpIGbmKqY1b7BzaqjhLIFVx5LUTVERo=;kQNsF23Go6AwHBq2QBOhKw=="
 ---

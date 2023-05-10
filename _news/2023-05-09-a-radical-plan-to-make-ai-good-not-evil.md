@@ -90,6 +90,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "AI startup Anthropic unveils moral principles behind chatbot Claude"
+    excerpt: "Amid controversy about generative AI programs giving wrong, biased or potentially dangerous responses to queries, Anthropic reveals how it is training ChatGPT rival Claude to have safe, helpful values."
+    publishedDateTime: 2023-05-10T14:32:00Z
+    webUrl: "https://www.computerworld.com/article/3695952/ai-startup-anthropic-unveils-moral-principles-behind-chatbot-claude.html"
+    ampWebUrl: "https://www.computerworld.com/article/3695952/ai-startup-anthropic-unveils-moral-principles-behind-chatbot-claude.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3695952/ai-startup-anthropic-unveils-moral-principles-behind-chatbot-claude.amp.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 57
+    images:
+      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2022/09/16/10/ai_artificial_intelligence_ml_machine_learning_abstract_face_by_kentoh_gettyimages_1042827860-100817767-large-100932435-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "EdCbGX0+Iw1ItWbQLX7bbnOio562XL0Px28ZtdBw2F4/OWczZyqDMhf7D4W4pz4Umy5dhfhvoweY7NNP8F+nW8ohe/zc3tOyJKusF9TU+gd6jf5DEbcd5iVhzC0y0GJ6DvaDOVh4mPBcUTT88XEkJnyne+d64V+JwZUR8SJJ5PvHcyvK64qBjzIbn6D9a+sfeCDWKCRFDQRq2DixTvWe4L0mGszKw1E18FBsnPu36EmxPJcE/6tOhCligRGRZv7wzykp5qXHJiRxEYtrhH5w/2TW7IFnq5ch2j3ec5y8mVON8fNaE8B0WwXTwu7n7f/rqRjPBDNm7WgzcGReejkZG1H3jzE2GAQQ0TfJvHug9o86bcPQlcTFjDRyL1F/l0YS4+6cn/amXEbKEggzngeMvPq+mYk4bWDlrZWEeiMHa4EfS690jvlod9BrD2199/uO4H97MvIGznacot9knCYwav83rm8qknWuDtNxSlsYpBjkFbWk3NB1Vst9e0adH1LoHeMD4212u+9YINc9Bk4aug==;1w8IsWbqxFvsXJEJkv46Wg=="
 ---

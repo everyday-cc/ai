@@ -9,7 +9,7 @@ ampWebUrl: "https://www.barrons.com/amp/articles/microsoft-stock-aws-ai-bing-9b9
 cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/microsoft-stock-aws-ai-bing-9b9143c0"
 type: article
 quality: 91
-heat: 351
+heat: 361
 published: true
 
 provider:
@@ -66,6 +66,22 @@ related:
       - url: "https://image.cnbcfm.com/api/v1/image/107228149-1681932222068-IMG_9456r.jpg?v=1683699593"
         width: 3263
         height: 2176
+        isCached: true
+  - title: "Microsoft backs UK start-up in latest AI push"
+    excerpt: "Microsoft splurged an undisclosed sum of equity investment in UK-based AI developer Builder.ai under a broader strategic partnership."
+    publishedDateTime: 2023-05-10T15:55:00Z
+    webUrl: "https://www.mobileworldlive.com/featured-content/top-three/microsoft-backs-uk-start-up-in-latest-ai-push/"
+    ampWebUrl: "https://www.mobileworldlive.com/featured-content/top-three/microsoft-backs-uk-start-up-in-latest-ai-push/amp/"
+    cdnAmpWebUrl: "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/featured-content/top-three/microsoft-backs-uk-start-up-in-latest-ai-push/amp/"
+    type: article
+    provider:
+      name: Mobile World Live
+      domain: mobileworldlive.com
+    quality: 74
+    images:
+      - url: "https://www.mobileworldlive.com/wp-content/uploads/2023/03/AI-threat.jpg"
+        width: 650
+        height: 400
         isCached: true
   - title: "MakeMyTrip introduces Microsoft Generative AI to make travel more inclusive"
     excerpt: "Leading online travel company MakeMyTrip on Monday said it has collaborated with Microsoft to make travel planning more inclusive and accessible by introducing voice assisted booking in Indian languages."

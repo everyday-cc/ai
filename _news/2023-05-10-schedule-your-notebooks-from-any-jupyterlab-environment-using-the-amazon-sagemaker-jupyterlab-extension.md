@@ -85,6 +85,20 @@ related:
         width: 1260
         height: 630
         isCached: true
+  - title: "Amazon SageMaker with TensorBoard: An overview of a hosted TensorBoard experience"
+    excerpt: "Today, data scientists who are training deep learning models need to identify and remediate model training issues to meet accuracy targets for production deployment, and require a way to utilize standard tools for debugging model training. Among the data scientist community, TensorBoard is a popular"
+    publishedDateTime: 2023-05-10T16:23:32Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-with-tensorboard-overview-of-a-hosted-tensorboard-experience/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 84
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/05/08/ml-14204-image010-1002x630.jpg"
+        width: 1002
+        height: 630
+        isCached: true
   - title: "Accelerate protein structure prediction with the ESMFold language model on Amazon SageMaker"
     excerpt: "Proteins drive many biological processes, such as enzyme activity, molecular transport, and cellular support. The three-dimensional structure of a protein provides insight into its function and how it interacts with other biomolecules. Experimental methods to determine protein structure, such as X-ray"
     publishedDateTime: 2023-05-09T16:30:30Z

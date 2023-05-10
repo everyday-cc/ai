@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-05-10-global-machine-learning-as-a-service-mlaas-market-analysis-of-new-report-2023-2030.md",
+      "title": "Global Machine Learning-as-a-Service (MLaaS) Market Analysis of New Report 2023-2030",
+      "excerpt": "A Promising Outlook for the Global Machine Learning-as-a-Service (MLaaS) Market from 2023 to 2030 Why is Machine Learning-as-a-Service (MLaaS) market 2023 Important? - Overall, the Machine Learning-as-a-Service (MLaaS) market in 2023 is essential for businesses to understand the market landscape,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-machine-learning-as-a-service-mlaas-market-analysis-of-new-report-2023-2030-2023-05-10",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-machine-learning-as-a-service-mlaas-market-analysis-of-new-report-2023-2030-2023-05-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-10T09:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-10-publish-predictive-dashboards-in-amazon-quicksight-using-ml-predictions-from-amazon-sagemaker-canvas.md",
       "title": "Publish predictive dashboards in Amazon QuickSight using ML predictions from Amazon SageMaker Canvas",
       "excerpt": "Understanding business trends, customer behavior, sales revenue, increase in demand, and buyer propensity all start with data. Exploring, analyzing, interpreting, and finding trends in data is essential for businesses to achieve successful outcomes. Business analysts play a pivotal role in facilitating",
@@ -151,58 +203,6 @@
       ]
     },
     {
-      "path": "_news/2023-05-09-machine-learning-as-a-service-mlaas-market-2023-insightsamazon-oracle-ibm-microsoftn.md",
-      "title": "Machine Learning as a Service (MLaaS) Market 2023 InsightsAmazon, Oracle, IBM, Microsoftn",
-      "excerpt": "Global Machine Learning as a Service (MLaaS) Market Research Report 2023 begins with an overview of the Market and offers throughout development. It presents a comprehensive analysis of all the regional and major player segments that gives closer insights upon present market conditions and future market opportunities along with drivers,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-2023-insightsamazon-oracle-ibm-microsoftn-2023-05-09",
-      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-2023-insightsamazon-oracle-ibm-microsoftn-2023-05-09",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-09T04:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-05-09-ai-machine-learning-openlayer-finalizes-48m-seed-round.md",
       "title": "AI, Machine Learning: Openlayer Finalizes $4.8M Seed Round",
       "excerpt": "Openlayer, which claims to be the creator of the most comprehensive platform for testing AI, announced that it has closed a $4.8M seed round.",
@@ -297,7 +297,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/host-ml-models-on-amazon-sagemaker-using-triton-tensorrt-models/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 156,
+      "heat": 166,
       "tags": null,
       "images": [
         {
@@ -350,7 +350,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-ml-platforms-market-intelligence-report-2023-2031-by-industry-experts-2023-05-08",
       "featuredContent": null,
       "highlight": null,
-      "heat": 127,
+      "heat": 137,
       "tags": null,
       "images": [
         {

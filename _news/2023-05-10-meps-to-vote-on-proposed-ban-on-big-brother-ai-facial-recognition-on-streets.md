@@ -2,9 +2,9 @@
 category: news
 title: "MEPs to vote on proposed ban on ‘Big Brother’ AI facial recognition on streets"
 excerpt: "Thursday’s vote in EU parliament seen as key test in formation of world’s first artificial intelligence laws"
-publishedDateTime: 2023-05-10T03:35:00Z
-originalUrl: "https://www.theguardian.com/technology/2023/may/10/meps-to-vote-on-proposed-ban-on-big-brother-ai-facial-recognition-on-streets"
-webUrl: "https://www.theguardian.com/technology/2023/may/10/meps-to-vote-on-proposed-ban-on-big-brother-ai-facial-recognition-on-streets"
+publishedDateTime: 2023-05-10T14:34:00Z
+originalUrl: "https://www.theguardian.com/technology/2023/may/10/meps-to-vote-on-proposed-ban-on-big-brother-ai-facial-recognition-on-streets?ref=upstract.com"
+webUrl: "https://www.theguardian.com/technology/2023/may/10/meps-to-vote-on-proposed-ban-on-big-brother-ai-facial-recognition-on-streets?ref=upstract.com"
 ampWebUrl: "https://amp.theguardian.com/technology/2023/may/10/meps-to-vote-on-proposed-ban-on-big-brother-ai-facial-recognition-on-streets"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/may/10/meps-to-vote-on-proposed-ban-on-big-brother-ai-facial-recognition-on-streets"
 type: article
@@ -30,6 +30,6 @@ images:
     height: 372
     isCached: true
 
-secured: "Ycgiydn6N+Jm6IxITmbWujXNpEHvK3y0bOWKz9xLgk7DNj/uiIcg7Os5dTO0xwK8DvSxPGySEzYgCqw72bp4XLBYkcccoqnGNqDOdcQbeCMNS/+8qmL7aCHE6F6tpwgwzP0rLfNsdvVKnxs+C2zKtex0MRNfEKem1CO6wQBHHgs9wLaYd0CYzoGTVSPQSvwcp/qHuYlOIKvzPfjF1IerfvwTFDW93w+Q/wIboiQ2vg6vTEpLzDMEjioG/OdSNVmZSLOff6Kq9VI26pX1+TTqC+voWU3o/mw+4gpZYFLtjX5+po1SPg/QJOzl+B0XyBOQO+stMIYQ7lMIX+1ciqd/2YQLvqN9Vdm7LvUwgGB4Umk=;8pb9Sh6hKbNb5VpKCX4g8g=="
+secured: "rDS8uUtpleA8ecXPceTzsgXEM0bNIF/z4R1FgZO3Yhyz0prLurb5RSKbXpI45x55/s3eHoka0Xy3LXK/lD5CN1+PVzf4dweLSSe4PfUZQRCtD0z5Ub+EixwHGQcOJCnYocOitiGEh/4xc/phY/lthPqvIIIJOozdniB70BfRYNFAHSRc/HVhLl4JmRsKXgCWx6lgmCUHQZVDgcINQli4nj6rX0heOHxU2f64lmL3/jJolxh2+VE78vsRVx5jg8AP9TnH5yOAUTYLB78M6u3VAWrTC4CZd7KNnPqx8EK6jE/QXo5FJkSCXLEq3t4qx9wUc/B64ArI42hZM64WvzwF/N7l3v7Ca33V06abHfYwvT8=;b6opbbgBV4en+r1M7NP5Cg=="
 ---
 

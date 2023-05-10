@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/anthropic-releases-ai-constitution-to-pro
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/anthropic-releases-ai-constitution-to-promote-ethical-behavior-and-development/amp/"
 type: article
 quality: 100
-heat: 140
+heat: 150
 published: true
 
 provider:
@@ -90,6 +90,22 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/m4Gt-dTkXU_-K8nJ66V4z5YgY6o=/0x0:2258x1603/1200x628/filters:focal(1129x802:1130x803)/cdn.vox-cdn.com/uploads/chorus_asset/file/24643895/anthropic.jpg"
         width: 1200
         height: 628
+        isCached: true
+  - title: "AI startup Anthropic unveils moral principles behind chatbot Claude"
+    excerpt: "Amid controversy about generative AI programs giving wrong, biased or potentially dangerous responses to queries, Anthropic reveals how it is training ChatGPT rival Claude to have safe, helpful values."
+    publishedDateTime: 2023-05-10T14:32:00Z
+    webUrl: "https://www.computerworld.com/article/3695952/ai-startup-anthropic-unveils-moral-principles-behind-chatbot-claude.html"
+    ampWebUrl: "https://www.computerworld.com/article/3695952/ai-startup-anthropic-unveils-moral-principles-behind-chatbot-claude.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3695952/ai-startup-anthropic-unveils-moral-principles-behind-chatbot-claude.amp.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 57
+    images:
+      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2022/09/16/10/ai_artificial_intelligence_ml_machine_learning_abstract_face_by_kentoh_gettyimages_1042827860-100817767-large-100932435-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "FZraWYPjbJqX0Zi+1lZgEgvNL1t9TxNN4V9CjQPqdmnuBNlg0HGRjOypAlafpqYwa07c5zVYAxSLqdWE53hW9/hhsU6fjOIAXnYizhqYkXACkhJ0XKYdPfsFYZq/eGsyqQSeXguhD5q6oaW9tKHu2qNa5vmVRslpCobQ02FSn5EI24QuI2eh3C3XbEldXFi2Cxq29YwsJh4X6jN9Dt/axVAkrtv96mw6GWJQvKUq3MDsjQwXmDwkyx4iyp2zKfOdhWxfw4II3LkTL4L3Ryvtr2bbmYwp6g0VPs1VBTnPeOXbOP/U6dn+o87ARfwTJw/Jr+lRTwm66BxjCalUeMZsCHgRmcx2l6SjZ0F4m/PJnGrW31RclsrlTPlHt2yNowcbLIhc2wRzn9yk9kPpGIClgeQ4fd5YfL0CdO0HWEwxKXKyA82Z0QsE70bKZLcRCjl90573wmFzWzrwRNWsyTUblDXaNsVpEQK/wcbczJ+33gni5waeMlnrjBgyNkTqB4jwdwsLMxL2QsRwgJtLRDMwZg==;Po5JdOUBjvjmc38bd7BpnQ=="

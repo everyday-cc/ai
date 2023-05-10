@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Speech And Voice Recognition Market Sales To Top US$ 83 Billion By 2032 Market.Us"
-    excerpt: "The speech and voice recognition market size accounted for USD 14 billion in 2022 and it will expand to USD 83 billion by 2032, accelerating at a CAGR of 20%. Speech and voice recognition is considered a small part of biometric systems."
-    publishedDateTime: 2023-05-10T10:08:00Z
-    webUrl: "https://menafn.com/1106216314/Speech-And-Voice-Recognition-Market-Sales-To-Top-US-83-Billion-By-2032-MarketUs"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 16
   - title: "Emotion Detection & Recognition Market Size To Cross USD 136.2 Billion By 2031 | Exclusive Report"
     excerpt: "Emotion Detection and Recognition Market Research Substantial growth of the Internet of Things technology, increase in popularity of wear"
     publishedDateTime: 2023-05-09T08:53:00Z

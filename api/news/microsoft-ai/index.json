@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-05-11-amp-robotics-raises-additional-series-c-investment-from-microsoft-climate-innovation-fund.md",
+      "title": "AMP Robotics Raises Additional Series C Investment From Microsoft Climate Innovation Fund",
+      "excerpt": "AMP Robotics Corp. (“AMP”), a pioneer in artificial intelligence (AI), robotics, and infrastructure for the waste and recycling industry, has received financing from Microsoft’s Climate Innovation Fund.",
+      "sourceUrl": null,
+      "webUrl": "https://www.waste360.com/business/amp-robotics-raises-additional-series-c-investment-microsoft-climate-innovation-fund",
+      "originalUrl": "https://www.waste360.com/business/amp-robotics-raises-additional-series-c-investment-microsoft-climate-innovation-fund",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.waste360.com/sites/waste360.com/files/amproboticsfeat.png",
+          "width": 1540,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-10T10:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Waste360",
+        "domain": "waste360.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-10-sas-commits-1bln-to-ai-powered-industry-solutions.md",
       "title": "SAS commits $1bln to AI-powered industry solutions",
       "excerpt": "All industry solutions will run on SAS® Viya®, SAS’ cloud-native, massively parallel AI and analytics platform. “Businesses face many challenges, from the threat of economic recession and stressed supply chains to workforce shortages and regulatory changes,",
@@ -105,7 +149,7 @@
       "originalUrl": "https://www.barrons.com/articles/microsoft-stock-aws-ai-bing-9b9143c0",
       "featuredContent": null,
       "highlight": null,
-      "heat": 351,
+      "heat": 361,
       "tags": null,
       "images": [
         {
@@ -189,41 +233,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-09-amp-robotics-raises-additional-series-c-investment-from-microsoft-climate-innovation-fund.md",
-      "title": "AMP Robotics Raises Additional Series C Investment From Microsoft Climate Innovation Fund",
-      "excerpt": "AMP Robotics Corp. (“AMP”), a pioneer in artificial intelligence (AI), robotics, and infrastructure for the waste and recycling industry, has received financing from Microsoft’s Climate Innovation Fund.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.buffalonews.com/buffnews/article/bizwire-2023-5-9-amp-robotics-raises-additional-series-c-investment-from-microsoft-climate-innovation-fund",
-      "originalUrl": "https://markets.buffalonews.com/buffnews/article/bizwire-2023-5-9-amp-robotics-raises-additional-series-c-investment-from-microsoft-climate-innovation-fund",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-09T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Buffalo News",
-        "domain": "buffalonews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI",
         "Microsoft AI"
       ]
@@ -396,7 +405,7 @@
       "originalUrl": "https://www.bloomberg.com/news/articles/2023-05-08/makemytrip-adds-ai-voice-chat-to-lure-more-india-travelers",
       "featuredContent": null,
       "highlight": null,
-      "heat": 169,
+      "heat": 159,
       "tags": null,
       "images": [
         {
@@ -448,7 +457,7 @@
       "originalUrl": "https://tech.hindustantimes.com/tech/news/google-ibm-to-tesla-how-these-companies-are-using-ai-to-transform-work-71683530733850.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 115,
+      "heat": 105,
       "tags": null,
       "images": [
         {

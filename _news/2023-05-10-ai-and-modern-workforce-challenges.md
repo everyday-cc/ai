@@ -63,22 +63,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "How artificial intelligence could fundamentally change certain types of work"
-    excerpt: "A report released in March found that AI services could automate as many as 300 million fulltime jobs worldwide."
-    publishedDateTime: 2023-05-06T00:24:00Z
-    webUrl: "https://www.cbsnews.com/detroit/news/artificial-intelligence-chatgpt-threatens-changes-jobs-work/"
-    ampWebUrl: "https://www.cbsnews.com/amp/detroit/news/artificial-intelligence-chatgpt-threatens-changes-jobs-work/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/detroit/news/artificial-intelligence-chatgpt-threatens-changes-jobs-work/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 71
-    images:
-      - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2023/05/06/a3ed2e4c-256d-4d01-9c3a-65e06d542d99/thumbnail/1200x630/a4fae228ea819b28b491968bc3769e43/0505-chen1.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "White House announces measures to address challenges of AI"
     excerpt: "The White House has announced a series of measures to address the challenges of artificial intelligence, driven by the sudden popularity of tools such as ChatGPT and amid rising concerns about the technology’s potential risks for discrimination,"
     publishedDateTime: 2023-05-08T17:27:00Z
@@ -117,6 +101,6 @@ related:
       domain: hbr.org
     quality: 17
 
-secured: "1eDeCQlm5/bdIAQyyrIGdzmtd8eEFxqoZGL89bHMYyNo0Wh/OfANrB4y4hvDGF3pfa7Nuwz2DZdUDv05a7BEqCM3DkeLQ3pcX1naFGk5b+oDoNFdMFewenvPrwbPag6xoZdnu7YdWsYVzaLLlToA5CRN8n7bRnEZerfSPoMYMCU/zFvxkJJT+oIu0lVJa2395cL46z0guPaUh2/cy5HHr2B+B9uWMw8zXCqWBHEQ/KV7UEfmbUT61OzNuoaFH6jkBr0/WBx4QEhJzkSm73OoFoZ0VoBgeOWIAFMqjIA2OPVb6p+nXM/mAa79A/pNbgukzJPpXxodFz673UtBfSTwOrvP2/XY4G7mvJQaoP4OvE4=;Hf5t29q7WGFjRXwatHTQ1A=="
+secured: "g4KrkubNWoghoGOm/X03aSKejl9cr0dD6Enp5t4n8u+ZKVHgFOgdKZwZmMLvrTR7xGnB45fup9HlBzEjOI347wa2QE1gyl70p0nwPeZmBrDGikXj4m0+OSoj7zgZxOHuefkllRGRtdgHE4WiecXZUYybxOdGtq0BQYnV8h37+9hdpdZVL3XOyBrKYzMmlUUZAgpAF6XTvRG3L+wDZEdGv9bR9kVQaYDrD4/UZVdtRwiK02sJNRK02DhBTBQPnZhzimdPmgC4hNLIOiGXigzVKPkOtS7v4rFvROYVe1C2kXRJUbLimwfqA3iCt7iQRZ1pyllWgNqI68DhOp/K1sTlb82WL0HKExCuJ5pzptLcJpGB47/+coCibb/MsiPrE4kY42mCUpZs92SkFxe1Fbak0B0DZza0gX8QQE20NszcOV34tZYdcxe6F7g6DXd+03uUHWmsGOLweOr5w6ny/LLpQi5DeGxqcJ4WyBdE6ho++ofwK9jOnfT8TzTLZLfvTOg6zJGh/B0iOfycwHN7lIQC/w==;vh3Ndvzo6qE+Ayqy9eG6MQ=="
 ---
 

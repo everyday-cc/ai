@@ -2,6 +2,137 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-05-11-amp-robotics-raises-additional-series-c-investment-from-microsoft-climate-innovation-fund.md",
+      "title": "AMP Robotics Raises Additional Series C Investment From Microsoft Climate Innovation Fund",
+      "excerpt": "AMP Robotics Corp. (“AMP”), a pioneer in artificial intelligence (AI), robotics, and infrastructure for the waste and recycling industry, has received financing from Microsoft’s Climate Innovation Fund.",
+      "sourceUrl": null,
+      "webUrl": "https://www.waste360.com/business/amp-robotics-raises-additional-series-c-investment-microsoft-climate-innovation-fund",
+      "originalUrl": "https://www.waste360.com/business/amp-robotics-raises-additional-series-c-investment-microsoft-climate-innovation-fund",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.waste360.com/sites/waste360.com/files/amproboticsfeat.png",
+          "width": 1540,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-10T10:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Waste360",
+        "domain": "waste360.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-11-education-startup-teky-raises-5m-from-foreign-investors.md",
+      "title": "Education startup TEKY raises $5M from foreign investors",
+      "excerpt": "Education startup TEKY Alpha has raised US$5 million from Singaporean investment firm Sweef Capital to expand its operations.",
+      "sourceUrl": null,
+      "webUrl": "https://e.vnexpress.net/news/business/companies/education-startup-teky-raises-5m-from-foreign-investors-4603427.html",
+      "originalUrl": "https://e.vnexpress.net/news/business/companies/education-startup-teky-raises-5m-from-foreign-investors-4603427.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i1-english.vnecdn.net/2023/05/10/Aa-1683687856-1905-1683693659.jpg?w=680&h=0&q=100&dpr=2&fit=crop&s=9WokI48vPG6Kpb_1nRaGbQ",
+          "width": 1199,
+          "height": 719,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://ampe.vnexpress.net/news/business/companies/education-startup-teky-raises-5m-from-foreign-investors-4603427.html",
+      "cdnAmpWebUrl": "https://ampe-vnexpress-net.cdn.ampproject.org/c/s/ampe.vnexpress.net/news/business/companies/education-startup-teky-raises-5m-from-foreign-investors-4603427.html",
+      "publishedDateTime": "2023-05-10T10:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VN Express",
+        "domain": "vnexpress.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2023-05-11-advanced-navigation-unveils-australias-largest-subsea-robotics-centre.md",
+      "title": "Advanced Navigation Unveils Australia's Largest Subsea Robotics Centre",
+      "excerpt": "Sydney, New South Wales - Advanced Navigation, the world's most determined innovator in artificial intelligence (AI) for robotic and navigation technologies, is",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/05/g32322249/advanced-navigation-unveils-australias-largest-subsea-robotics-centre",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/05/g32322249/advanced-navigation-unveils-australias-largest-subsea-robotics-centre",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/32322249",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32322249",
+      "publishedDateTime": "2023-05-10T10:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-10-the-future-is-here-amazon-is-now-selling-astro-an-ai-driven-household-robot.md",
       "title": "The Future Is Here: Amazon Is Now Selling Astro, An AI Driven Household Robot",
       "excerpt": "Two years later, the vision for Astro is still strong, as the company has started selling the device as a part of its “Day 1 Editions” products—those which are accessible to buyers only through an exclusive invitation. Amazon typically reserves this category for its most cutting-edge technology, such as the Astro or the “Ring Always Home Cam.”",
@@ -52,41 +183,6 @@
         "AI in Robotics",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-09-amp-robotics-raises-additional-series-c-investment-from-microsoft-climate-innovation-fund.md",
-      "title": "AMP Robotics Raises Additional Series C Investment From Microsoft Climate Innovation Fund",
-      "excerpt": "AMP Robotics Corp. (“AMP”), a pioneer in artificial intelligence (AI), robotics, and infrastructure for the waste and recycling industry, has received financing from Microsoft’s Climate Innovation Fund.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.buffalonews.com/buffnews/article/bizwire-2023-5-9-amp-robotics-raises-additional-series-c-investment-from-microsoft-climate-innovation-fund",
-      "originalUrl": "https://markets.buffalonews.com/buffnews/article/bizwire-2023-5-9-amp-robotics-raises-additional-series-c-investment-from-microsoft-climate-innovation-fund",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-09T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Buffalo News",
-        "domain": "buffalonews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Microsoft AI"
       ]
     },
     {
@@ -150,7 +246,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/warehouse-robotics-market-share-size-financial-summaries-analysis-from-2023-to-2028-2023-05-08",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -174,6 +270,58 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-08-the-jobs-ai-wont-take-yet.md",
+      "title": "The jobs AI won't take yet",
+      "excerpt": "Since the start of the industrial revolution ... And that could be dire, says Martin Ford, author of Rule of the Robots: How Artificial Intelligence Will Transform Everything. “It's not just that this would happen to individuals, but it could be pretty ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/worklife/article/20230507-the-jobs-ai-wont-take-yet",
+      "originalUrl": "https://www.bbc.com/worklife/article/20230507-the-jobs-ai-wont-take-yet",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ychef.files.bbci.co.uk/live/624x351/p0flr5cn.jpg",
+          "width": 624,
+          "height": 351,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-07T14:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -718,15 +866,15 @@
       "title": "Artificial intelligence robots may spark Terminator-style nuclear Armageddon, scientists fear",
       "excerpt": "ARTIFICIAL intelligence bots may spark Armageddon like ... “self aware” and almost wipes out humanity using killer robots. More than a third of tech whizzes quizzed by Stanford University ...",
       "sourceUrl": null,
-      "webUrl": "https://www.thescottishsun.co.uk/tech/10614167/artificial-intelligence-terminator-armageddon/",
-      "originalUrl": "https://www.thescottishsun.co.uk/tech/10614167/artificial-intelligence-terminator-armageddon/",
+      "webUrl": "https://www.thesun.ie/tech/10650817/artificial-intelligence-terminator-armageddon/",
+      "originalUrl": "https://www.thesun.ie/tech/10650817/artificial-intelligence-terminator-armageddon/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.thescottishsun.co.uk/wp-content/uploads/sites/2/2023/05/1991-american-science-fiction-action-392092156.jpg?strip=all&quality=100&w=1920&h=1080&crop=1",
+          "url": "https://www.thesun.ie/wp-content/uploads/sites/3/2023/05/1991-american-science-fiction-action-392092156.jpg?strip=all&quality=100&w=1920&h=1080&crop=1",
           "width": 1920,
           "height": 1080,
           "title": null,
@@ -736,13 +884,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.thescottishsun.co.uk/tech/10614167/artificial-intelligence-terminator-armageddon/amp/",
-      "cdnAmpWebUrl": "https://www-thescottishsun-co-uk.cdn.ampproject.org/c/s/www.thescottishsun.co.uk/tech/10614167/artificial-intelligence-terminator-armageddon/amp/",
-      "publishedDateTime": "2023-05-03T16:01:00-07:00",
+      "ampWebUrl": "https://www.thesun.ie/tech/10650817/artificial-intelligence-terminator-armageddon/amp/",
+      "cdnAmpWebUrl": "https://www-thesun-ie.cdn.ampproject.org/c/s/www.thesun.ie/tech/10650817/artificial-intelligence-terminator-armageddon/amp/",
+      "publishedDateTime": "2023-05-03T15:58:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Scottish Sun",
-        "domain": "thescottishsun.co.uk",
+        "name": "Irish Sun",
+        "domain": "thesun.ie",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1246,136 +1394,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-01-meet-7-healthcare-robotics-startups-at-robotics-summit-expo.md",
-      "title": "Meet 7 healthcare robotics startups at Robotics Summit & Expo",
-      "excerpt": "During a session at the Robotics Summit & Expo, which is held at the Boston Convention Center from May 10-11, attendees will hear pitches from the following seven healthcare robotics startups currently in the catalyst program: Able Human Motion,",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/meet-7-healthcare-robotics-startups-at-robotics-summit-expo/",
-      "originalUrl": "https://www.therobotreport.com/meet-7-healthcare-robotics-startups-at-robotics-summit-expo/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2023/04/healthcare-robotics-featured.jpg",
-          "width": 770,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-01T08:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-04-30-two-healthy-babies-conceived-by-a-sperm-injecting-robot-that-is-controlled-by-a-playstation-5-controller-are-born-in-spain.md",
-      "title": "Two healthy babies conceived by a sperm-injecting robot that is controlled by a PlayStation 5 controller are born in Spain",
-      "excerpt": "Two babies have been born after a robot guided by a Playstation 5 controller fertilised human eggs. The procedure, completed in Barcelona, involved student engineer Eduard Alba manoeuvring a tiny ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailymail.co.uk/news/article-12030899/Two-babies-conceived-sperm-injecting-robot-controlled-Playstation-controller-born.html",
-      "originalUrl": "https://www.dailymail.co.uk/news/article-12030899/Two-babies-conceived-sperm-injecting-robot-controlled-Playstation-controller-born.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.dailymail.co.uk/1s/2023/04/30/15/70405427-0-image-a-20_1682865620945.jpg",
-          "width": 636,
-          "height": 382,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailymail.co.uk/news/article-12030899/amp/Two-babies-conceived-sperm-injecting-robot-controlled-Playstation-controller-born.html",
-      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-12030899/amp/Two-babies-conceived-sperm-injecting-robot-controlled-Playstation-controller-born.html",
-      "publishedDateTime": "2023-04-30T08:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Mail",
-        "domain": "dailymail.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-29-force-control-in-actuators-and-robot-end-effectors.md",
-      "title": "Force Control in Actuators and Robot End Effectors",
-      "excerpt": "Motors and end effectors come in many shapes and sizes but compared to actuators that transport an object from point A to B, end effectors also integrate force sensing to ensure that objects being ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.machinedesign.com/learning-resources/white-papers/whitepaper/21264938/force-control-in-actuators-and-robot-end-effectors",
-      "originalUrl": "https://www.machinedesign.com/learning-resources/white-papers/whitepaper/21264938/force-control-in-actuators-and-robot-end-effectors",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.machinedesign.com/files/base/ebm/machinedesign/image/2023/04/force_control_1540x800.644c234c111ff.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-28T14:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Machine Design",
-        "domain": "machinedesign.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

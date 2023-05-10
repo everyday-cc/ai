@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/timbajarin/2023/05/09/the-critical-need
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/timbajarin/2023/05/09/the-critical-need-to-identify-ai-generated-content/amp/"
 type: article
 quality: 87
-heat: 177
+heat: 167
 published: true
 
 provider:
@@ -45,20 +45,6 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a8cc7ab0-e521-4d68-8592-696b85672d60/15404504-9108-4188-9765-0b413e9fab84/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Novel AI-enabled robot to conduct automated scientific experiments"
-    excerpt: "Researchers have developed an artificial intelligence (AI) system that can help robots to conduct automated scientific experiments - as many as 10,000 per day - potentially driving a drastic"
-    publishedDateTime: 2023-05-06T00:21:00Z
-    webUrl: "https://www.thehansindia.com/hans/young-hans/novel-ai-enabled-robot-to-conduct-automated-scientific-experiments-796141"
-    type: article
-    provider:
-      name: The Hans India
-      domain: thehansindia.com
-    quality: 54
-    images:
-      - url: "https://assets.thehansindia.com/h-upload/2023/05/06/1350055-ai.jpg"
-        width: 1200
-        height: 720
         isCached: true
   - title: "Three questions business leaders need to ask to get the most out of generative AI"
     excerpt: "How to bridge the gap between admiration and implementation of AI? Pedro Arellano has three priorities to guide you."

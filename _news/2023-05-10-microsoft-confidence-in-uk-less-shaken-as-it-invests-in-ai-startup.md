@@ -80,6 +80,22 @@ related:
         width: 3263
         height: 2176
         isCached: true
+  - title: "Microsoft backs UK start-up in latest AI push"
+    excerpt: "Microsoft splurged an undisclosed sum of equity investment in UK-based AI developer Builder.ai under a broader strategic partnership."
+    publishedDateTime: 2023-05-10T15:55:00Z
+    webUrl: "https://www.mobileworldlive.com/featured-content/top-three/microsoft-backs-uk-start-up-in-latest-ai-push/"
+    ampWebUrl: "https://www.mobileworldlive.com/featured-content/top-three/microsoft-backs-uk-start-up-in-latest-ai-push/amp/"
+    cdnAmpWebUrl: "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/featured-content/top-three/microsoft-backs-uk-start-up-in-latest-ai-push/amp/"
+    type: article
+    provider:
+      name: Mobile World Live
+      domain: mobileworldlive.com
+    quality: 74
+    images:
+      - url: "https://www.mobileworldlive.com/wp-content/uploads/2023/03/AI-threat.jpg"
+        width: 650
+        height: 400
+        isCached: true
   - title: "MakeMyTrip introduces Microsoft Generative AI to make travel more inclusive"
     excerpt: "Leading online travel company MakeMyTrip on Monday said it has collaborated with Microsoft to make travel planning more inclusive and accessible by introducing voice assisted booking in Indian languages."
     publishedDateTime: 2023-05-08T08:35:00Z
@@ -362,6 +378,6 @@ related:
       domain: business-standard.com
     quality: 32
 
-secured: "qkd1Px10/SxJlH17vIasHQpamvCQ4GXe8vEqsGpbwYvOgNxPhUpvtyWnN0fldTLvjsarH6eV37xwfgPMZcgHzgTFeSS6xF2R79Ix+p7VIVisqRpY5HnS67oK4amKrwndEXxEM9ik/mKr0plsHIXoVSv/LLKQFhDMQM/0oR2Ed3dNqBgUiH2QppXR/xRXfCOt2mWenajlZ4kzUTs74CHvb6WIieIJgeiJbCis5xTyY3tMmppi3MEL1/2bcmZ8mqawElabYZv4WCD8QhZPoWgqMlapmsOby01u1AubV8KcYJpGUvwDuUoGibFQrfhiH/PoeBBXUOHq3+ms9XvSplrDwbU203g//pZ1aJdIlcg4n7s=;Ut9l0fzVVpT9vfRUJD9m/A=="
+secured: "H4MZBLCU7vM9yjZWAwz0LO3kw/H4IAnCPa7K1Zfr4+IMrVbdkdfqnuSO3H0UUMYAhM0GQm66420Ktj3ai8MmLC66m06CozMpg+Lecjhxf9F9W25K5PvKJtNkE5zlRZtDYfYcuFXo8ZBAEowZOxnoFsQVoJ0lfyeFYfgwww15LbtjoG8yPJDGaG7fJPpyo3j9RoHroVZxXCjmzWkRJG/gyFPhgY/qhoeqqkH2GwayTAN5WOKuKLc+V6OJAf2VhI/q9TeJK162Lu8ADYF+14kJm6rE1KjVlfyYPlPYOSlgcy94tQtgTCUtJ+alSiOpJZYyL6GVFs0CxKDTclUORnDnlQc+F6ARPlqEYZ/jS/I4S7A2kuuOBz4OrdCPypzei3mK7MrCFPHDc2/MLFWnr55Nlg/wHipxPM1V4R4HsCIGNNWi8Kikl5egPrkf18ZzpdaaLalYk7EpNjMrOk/TvmF/2dcjUzcOI1nC2VDX36GCtQIhVpPCLhYa7GrvKomAT1yz04X6aohbvj1YosL5gX7Chg==;ql3JBkr4Le9CK0shvbiCBA=="
 ---
 

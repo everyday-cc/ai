@@ -21,6 +21,20 @@ topics:
 related:
   - title: "AMP Robotics Raises Additional Series C Investment From Microsoft Climate Innovation Fund"
     excerpt: "AMP Robotics Corp. (“AMP”), a pioneer in artificial intelligence (AI), robotics, and infrastructure for the waste and recycling industry, has received financing from Microsoft’s Climate Innovation Fund."
+    publishedDateTime: 2023-05-10T17:39:00Z
+    webUrl: "https://www.waste360.com/business/amp-robotics-raises-additional-series-c-investment-microsoft-climate-innovation-fund"
+    type: article
+    provider:
+      name: Waste360
+      domain: waste360.com
+    quality: 77
+    images:
+      - url: "https://www.waste360.com/sites/waste360.com/files/amproboticsfeat.png"
+        width: 1540
+        height: 800
+        isCached: true
+  - title: "AMP Robotics Raises Additional Series C Investment From Microsoft Climate Innovation Fund"
+    excerpt: "AMP Robotics Corp. (“AMP”), a pioneer in artificial intelligence (AI), robotics, and infrastructure for the waste and recycling industry, has received financing from Microsoft’s Climate Innovation Fund."
     publishedDateTime: 2023-05-09T13:00:00Z
     webUrl: "https://markets.buffalonews.com/buffnews/article/bizwire-2023-5-9-amp-robotics-raises-additional-series-c-investment-from-microsoft-climate-innovation-fund"
     type: article
@@ -28,6 +42,20 @@ related:
       name: The Buffalo News
       domain: buffalonews.com
     quality: 57
+  - title: "MMT partners with Microsoft to offer voice assistance in Indian languages"
+    excerpt: "MakeMyTrip (MMT) has collaborated with Microsoft to make travel planning more inclusive and accessible by introducing voice assisted booking in Indian languages. The new, in-platform tech stack powered by Microsoft Azure OpenAI Service and Azure Cognitive Services,"
+    publishedDateTime: 2023-05-08T08:00:00Z
+    webUrl: "https://travelbizmonitor.com/mmt-partners-with-microsoft-to-offer-voice-assistance-in-indian-languages/"
+    type: article
+    provider:
+      name: Travel Biz Monitor
+      domain: travelbizmonitor.com
+    quality: 38
+    images:
+      - url: "https://travelbizmonitor.com/wp-content/uploads/2021/07/IMG-20210515-WA0036_074850-e1627021612894.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Informatica Expands its Collaboration with Microsoft, Announces Planned Intelligent Data Management Cloud as a Microsoft Azure Native ISV Service"
     excerpt: "Informatica (NYSE: INFA), an enterprise cloud data management leader, expanded its collaboration with Microsoft"
     publishedDateTime: 2023-05-09T13:00:00Z

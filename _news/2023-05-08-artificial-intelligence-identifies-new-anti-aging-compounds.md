@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Novel AI-enabled robot to conduct automated scientific experiments"
-    excerpt: "Researchers have developed an artificial intelligence (AI) system that can help robots to conduct automated scientific experiments - as many as 10,000 per day - potentially driving a drastic"
-    publishedDateTime: 2023-05-06T00:21:00Z
-    webUrl: "https://www.thehansindia.com/hans/young-hans/novel-ai-enabled-robot-to-conduct-automated-scientific-experiments-796141"
-    type: article
-    provider:
-      name: The Hans India
-      domain: thehansindia.com
-    quality: 54
-    images:
-      - url: "https://assets.thehansindia.com/h-upload/2023/05/06/1350055-ai.jpg"
-        width: 1200
-        height: 720
-        isCached: true
   - title: "Three questions business leaders need to ask to get the most out of generative AI"
     excerpt: "How to bridge the gap between admiration and implementation of AI? Pedro Arellano has three priorities to guide you."
     publishedDateTime: 2023-05-09T15:11:00Z

@@ -74,29 +74,6 @@ related:
       name: TechRepublic
       domain: techrepublic.com
     quality: 47
-  - title: "IBM's generative AI strike force"
-    excerpt: "O.G. tech giant IBM is launching a counterstrike in the industry's suddenly-hot AI fight with today's announcement of Watsonx. The big picture: Business-focused IBM claims its latest AI offering, set to launch in July, provides more accurate answers and takes a more responsible approach than rivals."
-    publishedDateTime: 2023-05-09T10:00:00Z
-    webUrl: "https://www.axios.com/2023/05/09/watsonx-ibm-generative-ai-chatgpt"
-    type: article
-    provider:
-      name: Axios
-      domain: axios.com
-    quality: 39
-    images:
-      - url: "https://images.axios.com/2abZGvpVZrwSgGGrbzRnGszoxeg=/0x489:6000x3864/1366x768/2023/05/09/1683594467793.jpg"
-        width: 1366
-        height: 768
-        isCached: true
-  - title: "Scale AI unveils its full-stack generative AI platform"
-    excerpt: "Scale's Enterprise AI Platform will allow customers to get the benefits of large language models without having to send data out to a third-party AI company."
-    publishedDateTime: 2023-05-10T15:01:00Z
-    webUrl: "https://www.fastcompany.com/90893774/scale-ai-unveils-its-full-stack-generative-ai-platform"
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 17
 
 secured: "T3FysIPiHwQ9YbOfRcNJBmrKWx9IkrhPHHJKaLVpHw9TuJlaBPPMclF38LRdNxi6ClaFF426deoe2LyWeTfs1y/05H4qVKaxABNbD/CqioxQ9XfMuM2PKt5SVkwyg4+h+r0FHOkDeOz6O2TtRoX63k32xgN47hA7OQqvFvlmtNJbdskyMOBrCFnJjSGqMcpJIQwQ3HAVWY+cepOJXqV1yelFvJPgYN01WJrF61IM+GbABWwzP2QKTxI1TWEulbjp8SH3YD/TvxwDkGycoRIVAXkWHYyap4hq/NK0v0k7sub82txP6f3Xm0r0idpcM2ABSwzuvyzZ5Z7oakffxBF6AuobVuxaedCqQQdX7Qxi13srWjV8A+taf4y/DBFuPuhz3uDMSmD7rW8e4V9YpS1l92YdUW4junlaTm7iXhvxQ076iMn0qFF5LW+yCGCeSlX77lrOhWe6Yv+S4ERwIESuumkd+Wdw7zFrEhhv5uiL9dF5bUSGgQLfaTdGxObm0Wl8+LDriBAKRSPR3VBMcnb7DQ==;2q19RPDkDkTZwFDObv3ySA=="
 ---

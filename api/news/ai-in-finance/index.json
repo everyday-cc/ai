@@ -2,58 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2023-05-09-finovax-leads-the-charge-in-fintech-innovation-ai-powered-solutions-drive-business-growth.md",
-      "title": "Finovax Leads the Charge in Fintech Innovation: AI-Powered Solutions Drive Business Growth",
-      "excerpt": "New York-Based Fintech Company Embraces Artificial Intelligence to Revolutionize Financial Data Products and Fuel",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/finovax-leads-the-charge-in-fintech-innovation-ai-powered-solutions-drive-business-growth-2023-05-09",
-      "originalUrl": "https://www.marketwatch.com/press-release/finovax-leads-the-charge-in-fintech-innovation-ai-powered-solutions-drive-business-growth-2023-05-09",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-09T00:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-05-08-warren-buffett-vs-big-tech-should-you-invest-in-artificial-intelligence-ai-stocks.md",
       "title": "Warren Buffett Vs Big Tech: Should you invest in Artificial Intelligence (AI) stocks?",
       "excerpt": "AI is expected to impact society and global business and so AI stocks could have a place in most investors’ portfolios.",
@@ -105,7 +53,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-ml-platforms-market-intelligence-report-2023-2031-by-industry-experts-2023-05-08",
       "featuredContent": null,
       "highlight": null,
-      "heat": 127,
+      "heat": 137,
       "tags": null,
       "images": [
         {
@@ -1429,6 +1377,58 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-20-autotech-ventures-new-230m-mobility-fund-adds-fintech-circular-economy-to-its-investment-strategy.md",
+      "title": "Autotech Ventures’ new $230M mobility fund adds fintech, circular economy to its investment strategy",
+      "excerpt": "Fintech, logistics, supply chain and the circular ... Autotech Ventures is also cautiously wading into generative AI, although Andreev was quick to note that the company has not made any ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/04/20/autotech-ventures-new-230m-mobility-fund-adds-fintech-circular-economy-to-its-investment-strategy/",
+      "originalUrl": "https://techcrunch.com/2023/04/20/autotech-ventures-new-230m-mobility-fund-adds-fintech-circular-economy-to-its-investment-strategy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/10/GettyImages-157650258.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/04/20/autotech-ventures-new-230m-mobility-fund-adds-fintech-circular-economy-to-its-investment-strategy/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/04/20/autotech-ventures-new-230m-mobility-fund-adds-fintech-circular-economy-to-its-investment-strategy/amp/",
+      "publishedDateTime": "2023-04-19T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -59,20 +59,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Novel AI-enabled robot to conduct automated scientific experiments"
-    excerpt: "Researchers have developed an artificial intelligence (AI) system that can help robots to conduct automated scientific experiments - as many as 10,000 per day - potentially driving a drastic"
-    publishedDateTime: 2023-05-06T00:21:00Z
-    webUrl: "https://www.thehansindia.com/hans/young-hans/novel-ai-enabled-robot-to-conduct-automated-scientific-experiments-796141"
-    type: article
-    provider:
-      name: The Hans India
-      domain: thehansindia.com
-    quality: 54
-    images:
-      - url: "https://assets.thehansindia.com/h-upload/2023/05/06/1350055-ai.jpg"
-        width: 1200
-        height: 720
-        isCached: true
   - title: "Artificial intelligence identifies new anti-aging compounds"
     excerpt: "This research result is a significant milestone for both longevity research and the application of artificial intelligence to drug discovery,” said co-lead author Felix Wong, the co-founder of Integrated Biosciences."
     publishedDateTime: 2023-05-08T14:58:00Z

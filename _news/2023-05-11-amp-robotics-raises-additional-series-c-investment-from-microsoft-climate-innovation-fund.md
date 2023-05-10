@@ -1,0 +1,73 @@
+---
+category: news
+title: "AMP Robotics Raises Additional Series C Investment From Microsoft Climate Innovation Fund"
+excerpt: "AMP Robotics Corp. (“AMP”), a pioneer in artificial intelligence (AI), robotics, and infrastructure for the waste and recycling industry, has received financing from Microsoft’s Climate Innovation Fund."
+publishedDateTime: 2023-05-10T17:39:00Z
+originalUrl: "https://www.waste360.com/business/amp-robotics-raises-additional-series-c-investment-microsoft-climate-innovation-fund"
+webUrl: "https://www.waste360.com/business/amp-robotics-raises-additional-series-c-investment-microsoft-climate-innovation-fund"
+type: article
+quality: 77
+heat: 117
+published: true
+
+provider:
+  name: Waste360
+  domain: waste360.com
+
+topics:
+  - AI in Robotics
+  - AI
+  - Microsoft AI
+
+images:
+  - url: "https://www.waste360.com/sites/waste360.com/files/amproboticsfeat.png"
+    width: 1540
+    height: 800
+    isCached: true
+
+related:
+  - title: "AMP Robotics Raises Additional Series C Investment From Microsoft Climate Innovation Fund"
+    excerpt: "AMP Robotics Corp. (“AMP”), a pioneer in artificial intelligence (AI), robotics, and infrastructure for the waste and recycling industry, has received financing from Microsoft’s Climate Innovation Fund."
+    publishedDateTime: 2023-05-09T13:00:00Z
+    webUrl: "https://markets.buffalonews.com/buffnews/article/bizwire-2023-5-9-amp-robotics-raises-additional-series-c-investment-from-microsoft-climate-innovation-fund"
+    type: article
+    provider:
+      name: The Buffalo News
+      domain: buffalonews.com
+    quality: 57
+  - title: "MMT partners with Microsoft to offer voice assistance in Indian languages"
+    excerpt: "MakeMyTrip (MMT) has collaborated with Microsoft to make travel planning more inclusive and accessible by introducing voice assisted booking in Indian languages. The new, in-platform tech stack powered by Microsoft Azure OpenAI Service and Azure Cognitive Services,"
+    publishedDateTime: 2023-05-08T08:00:00Z
+    webUrl: "https://travelbizmonitor.com/mmt-partners-with-microsoft-to-offer-voice-assistance-in-indian-languages/"
+    type: article
+    provider:
+      name: Travel Biz Monitor
+      domain: travelbizmonitor.com
+    quality: 38
+    images:
+      - url: "https://travelbizmonitor.com/wp-content/uploads/2021/07/IMG-20210515-WA0036_074850-e1627021612894.jpg"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "Informatica Expands its Collaboration with Microsoft, Announces Planned Intelligent Data Management Cloud as a Microsoft Azure Native ISV Service"
+    excerpt: "Informatica (NYSE: INFA), an enterprise cloud data management leader, expanded its collaboration with Microsoft"
+    publishedDateTime: 2023-05-09T13:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/informatica-expands-its-collaboration-with-microsoft-announces-planned-intelligent-data-management-cloud-as-a-microsoft-azure-native-isv-service-2023-05-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 27
+  - title: "Informatica Expands its Collaboration with Microsoft, Announces Planned Intelligent Data Management Cloud as a Microsoft Azure Native ISV Service"
+    excerpt: "Informatica (NYSE: INFA), an enterprise cloud data management leader, expanded its collaboration with Microsoft with two key developments aimed at pro"
+    publishedDateTime: 2023-05-09T17:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20230509005517/en/Informatica-Expands-its-Collaboration-with-Microsoft-Announces-Planned-Intelligent-Data-Management-Cloud-as-a-Microsoft-Azure-Native-ISV-Service/"
+    type: article
+    provider:
+      name: newsroom.businesswire.com
+      domain: businesswire.com
+    quality: 0
+
+secured: "mCxEspJMtWI8KetvKl2s2ocCaDGsdhueN9maWplaoNE+fp92y0ysRMgY0n5ZiAu5xNXs12yvurd0dmBwzvS0JTS6SyIBImN8bYaCYOh1B2+GxSn6p/fpWyiaOV3AV8QYikHbYbcXvqnBSElU8ilay5+vf1TFdise21fJxnSFT7O1jWZ+1GP8D7xYqBTk/X2X3c0InnY9rjdAVMfZxeevt2PdcRGaafVEfjgf76f1iXoKEmyAfHidMNdrPJde86t5h92HF2DFC2ntd74pS2w2taJq2Kp76LYGXcKuNWsbshEMiX6yEC/WBRx+ptzvfBPGLzXftbvdnp4ZxDzSP5PSqKpgIZZamBQYsLHCVXdwbvg=;/Bpu4MuwRTzIlXyS7JEDAg=="
+---
+

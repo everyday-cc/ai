@@ -102,6 +102,22 @@ related:
       name: IBM
       domain: ibm.com
     quality: 97
+  - title: "IBM Reveals New WatsonX"
+    excerpt: "International Business Machines Corp released Watsonx, a new AI and data tool to enable organizations to integrate AI into their business."
+    publishedDateTime: 2023-05-10T16:02:00Z
+    webUrl: "https://enterprisetalk.com/quick-bytes/ibm-reveals-new-watsonx/"
+    ampWebUrl: "https://enterprisetalk.com/quick-bytes/ibm-reveals-new-watsonx/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/ibm-reveals-new-watsonx/amp/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 59
+    images:
+      - url: "https://enterprisetalk.com/wp-content/uploads/2023/05/IBM-Reveals-New-WatsonX.jpg"
+        width: 1500
+        height: 844
+        isCached: true
   - title: "IBM: Remember Watson? It's Still Around, Ready to Give Your Business an AI Upgrade"
     excerpt: "IBM has a new AI and data platform called Watsonx (Opens in a new window) aimed at making it easy for enterprises to take advantage of artificial intelligence. The name Watson fir"
     publishedDateTime: 2023-05-09T13:03:00Z

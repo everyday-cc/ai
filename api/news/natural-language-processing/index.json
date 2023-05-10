@@ -2,6 +2,110 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-05-11-google-opens-up-about-palm-2-its-new-generative-ai-llm.md",
+      "title": "Google opens up about PaLM 2, its new generative AI LLM",
+      "excerpt": "Google's new PaLM 2 LLM will power at least 25 Google products and services that are being detailed during sessions at today's Google I/O.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/google-opens-up-about-palm-2-its-new-generative-ai-llm/",
+      "originalUrl": "https://venturebeat.com/ai/google-opens-up-about-palm-2-its-new-generative-ai-llm/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/05/Palm-2.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 666,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/google-opens-up-about-palm-2-its-new-generative-ai-llm/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/google-opens-up-about-palm-2-its-new-generative-ai-llm/amp/",
+      "publishedDateTime": "2023-05-10T10:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-10-trayio-launches-merlin-ai-to-automate-complex-workflows-without-llm-training.md",
+      "title": "Tray.io launches Merlin AI to automate complex workflows without LLM training",
+      "excerpt": "The company claims that the Tray platform is the first iPaaS solution to provide generative AI capabilities accessible to all users.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/tray-io-launches-merlin-ai-to-automate-complex-workflows-without-llm-training/",
+      "originalUrl": "https://venturebeat.com/ai/tray-io-launches-merlin-ai-to-automate-complex-workflows-without-llm-training/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/05/Feature-3-1200-x-675.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/tray-io-launches-merlin-ai-to-automate-complex-workflows-without-llm-training/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/tray-io-launches-merlin-ai-to-automate-complex-workflows-without-llm-training/amp/",
+      "publishedDateTime": "2023-05-10T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-10-the-crucial-ways-that-religion-and-generative-ai-chatgpt-are-crossing-fateful-faithful-paths.md",
       "title": "The Crucial Ways That Religion And Generative AI ChatGPT Are Crossing Fateful Faithful Paths",
       "excerpt": "Religion and generative AI such as ChatGPT are crossing paths, here's a comprehensive look at this fateful faithful intertwining, including upsides and downsides.",
@@ -472,6 +576,49 @@
         "Natural Language Processing",
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-05-05-qatar-adopts-speech-recognition-ai-to-boost-prosecution-efficiency.md",
+      "title": "Qatar Adopts Speech Recognition AI To Boost Prosecution Efficiency",
+      "excerpt": "Qatar has started to use AI speech-to-text technology in public prosecution to boost efficiency, local media reported Thursday, Azernews reports cit",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1106188424/Qatar-Adopts-Speech-Recognition-AI-To-Boost-Prosecution-Efficiency",
+      "originalUrl": "https://menafn.com/1106188424/Qatar-Adopts-Speech-Recognition-AI-To-Boost-Prosecution-Efficiency",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/updates/pr/2023-05/05/A_401ceimage_story.jpg",
+          "width": 941,
+          "height": 647,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-04T16:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mena FN",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
       ]
     },
     {
@@ -1354,144 +1501,6 @@
         "Natural Language Processing",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-04-27-the-risks-and-rewards-of-ai-powered-translation.md",
-      "title": "The risks and rewards of AI-powered translation",
-      "excerpt": "Free-to-use translation tools, and more recently generative AI platforms like ChatGPT, have brought security concerns to the fore around AI-powered translations in general. Many of us use language translation services in our day-to-day lives; it is ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.business-reporter.co.uk/management/the-risks-and-rewards-of-ai-powered-translation",
-      "originalUrl": "https://www.business-reporter.co.uk/management/the-risks-and-rewards-of-ai-powered-translation",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d3nwecxvwq3b5n.cloudfront.net/AcuCustom/Sitename/DAM/028/AI_translation.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-27T07:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "business-reporter.co.uk",
-        "domain": "business-reporter.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-26-airops-is-helping-companies-build-ai-enabled-applications-on-top-of-llms.md",
-      "title": "AirOps is helping companies build AI-enabled applications on top of LLMs",
-      "excerpt": "AirOps, an early-stage startup, is looking to help companies build business applications on top of large language models.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/04/26/airops-is-helping-companies-build-ai-enabled-applications-on-top-of-llms/",
-      "originalUrl": "https://techcrunch.com/2023/04/26/airops-is-helping-companies-build-ai-enabled-applications-on-top-of-llms/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/04/GettyImages-1388687270-1.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/04/26/airops-is-helping-companies-build-ai-enabled-applications-on-top-of-llms/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/04/26/airops-is-helping-companies-build-ai-enabled-applications-on-top-of-llms/amp/",
-      "publishedDateTime": "2023-04-26T09:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-04-26-interprefy-unveils-next-generation-ai-event-translator-aivia.md",
-      "title": "Interprefy unveils next-generation AI event translator Aivia",
-      "excerpt": "Experience the full interactive Multichannel News Release here: Multilingual meeting technology and services provider Interprefy has today unveiled Interprefy Aivia, the world's first advanced automated speech translation service for online and live events,",
-      "sourceUrl": null,
-      "webUrl": "https://technews.tmcnet.com/news/2023/04/26/9802122.htm",
-      "originalUrl": "https://technews.tmcnet.com/news/2023/04/26/9802122.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://marketplace.connectwise.com/content/images/thumbs/0000635_skykick_550.png",
-          "width": 550,
-          "height": 353,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-26T04:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],
