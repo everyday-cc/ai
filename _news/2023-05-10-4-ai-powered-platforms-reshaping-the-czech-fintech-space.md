@@ -55,6 +55,20 @@ related:
         width: 855
         height: 570
         isCached: true
+  - title: "How Artificial Intelligence is Revolutionising the Fintech Landscape?"
+    excerpt: "According to surveys, 2/3 of FinTech companies currently use AI technology in their activities to a greater or lesser extent. Its influence will increase. Last year, the worldwide market for AI solutions in the FinTech industry was assessed at roughly 9 billion USD;"
+    publishedDateTime: 2023-05-10T14:04:00Z
+    webUrl: "https://www.lrytas.lt/english/feature/2023/05/10/news/how-artificial-intelligence-is-revolutionising-the-fintech-landscape--26994790"
+    type: article
+    provider:
+      name: lrytas
+      domain: lrytas.lt
+    quality: 39
+    images:
+      - url: "https://media.lrytas.lt/images/2023/05/10/140405959-a47a9743-68ec-47fd-98d1-65e8ded98f3a.jpg"
+        width: 1080
+        height: 720
+        isCached: true
   - title: "4 AI-powered firms reshaping the FinTech space in Czech Republic"
     excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
     publishedDateTime: 2023-05-09T12:02:00Z
@@ -74,6 +88,6 @@ related:
       domain: techbullion.com
     quality: 19
 
-secured: "HhRyZ9BiIAZbL9iV0TF6ltJkZe/8RkS06Z/54WPmzWGcoi5XHcaL23nSh5OuaFMzOvHI1UdIE57Oih6KTLfjzu/JNXtL8RPw39X/z57NZSiFblFQE+F6zldxhUr6oRxIGrC7m9dEDO1HDQ+jV77ECLEVNPt8RB9Kwwhg+3cVmzVDgNEl9wi8ShLCjINOxiD/FQ3Cw/mBe2jXYYHn2uP9sOrngQ7cFB1SsBdvOocS03p6MlmDB7bhUUTXL26n/wmDWzPwUhbsOIRWb/yPqfsvkf29QNqJTkHigDXMhKZXzTU3zzbMNUQd8XrctkxFbFW3etd5GK+Gorc/kDFCLacy5Tbqxlsyq5vKpoW2jhXDWSA=;X3MuS0/GCsHu6caip0bnXw=="
+secured: "m/PR2jch6SY7OiJt4U5ZTT81zpCUK7K4hB2LGv2Oko4n6vNOOy9q/RJIPPuRGPXVEPkmijOHAWvteZzaIqR3qjKCL8jsOBql0ehi/V3zwgD4exwrfVA9DnZ9XNKAafcdSkiG+VslNS3yXy34oNB3BII9OxWhH0E9bH7+56ghRgB49AhS0GWQfL5kt23/HMVf+ZuFQe3o2z8UQO+HJaIIBubszBD4m2Dyg2kUpZ3PUkhCue/FqlYNIOUyLuUsL4dNedQhBXjiO7ujqWWV1sUbmY4V5CPYA1Ka928V2PAqZa6OjFfHXyBSCCA/67Lon9VcIOG5Ucs+pDUgx0lVWUpjzGRFCW+Q2nqrffLteABbVMdQbIRvCGzKxhBma7HnajOgyPigr8rShtEgbpMPWvjQLyKrBufXjhXR7RM2OrwaJwvxBZ7A5EWMVamgOL8SH6NthIKmQahQgtztOKH7OmKuSKxlvz7pbwjnGJBMI01Ohm5ZRKuaE1vIy8Z+7bJZ5MVdbNs+a+RdrsXlWZt/6VtkdA==;tdItrgXbGKKox6pktGx3gw=="
 ---
 

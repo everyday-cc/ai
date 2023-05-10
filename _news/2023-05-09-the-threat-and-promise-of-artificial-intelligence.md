@@ -127,6 +127,22 @@ related:
         width: 1648
         height: 1982
         isCached: true
+  - title: "Newly developed AI shows speed and accuracy in identifying the location and expression of proteins"
+    excerpt: "A new advanced artificial intelligence (AI) system has shown world-leading accuracy and speed in identifying protein patterns within individual cells. The new system, developed at the University of Surrey's Institute for People-Centered AI,"
+    publishedDateTime: 2023-05-10T14:02:00Z
+    webUrl: "https://phys.org/news/2023-05-newly-ai-accuracy-proteins.html"
+    ampWebUrl: "https://phys.org/news/2023-05-newly-ai-accuracy-proteins.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-05-newly-ai-accuracy-proteins.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 43
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/ai-developed-in-the-uk.jpg"
+        width: 2001
+        height: 1352
+        isCached: true
   - title: "The rise of human ingenuity in Artificial intelligence"
     excerpt: "The neural network used in ChatGPT is composed of multiple layers of artificial neurons that work. In coherence together to understand the structure and patterns in language. The model is trained on a large corpus of text data, which it uses to learn the ..."
     publishedDateTime: 2023-05-09T11:22:00Z
@@ -140,6 +156,20 @@ related:
       - url: "https://static.toiimg.com/photo/75476733.cms"
         width: 640
         height: 360
+        isCached: true
+  - title: "The Role of AI in the Evolution of Financial Services"
+    excerpt: "AD With the rapid advancement of technology, financial institutions are constantly looking for new ways to improve their services. One of the most significant developments in recent years has been the integration of artificial intelligence (AI) into the financial industry."
+    publishedDateTime: 2023-05-10T13:41:00Z
+    webUrl: "https://taxguru.in/finance/role-ai-evolution-financial-services.html"
+    type: article
+    provider:
+      name: Tax Guru
+      domain: taxguru.in
+    quality: 39
+    images:
+      - url: "https://taxguru.in/wp-content/uploads/2023/05/investment-advice-that-is-tailored-to-their-individual-needs-and-goals.jpg"
+        width: 600
+        height: 300
         isCached: true
   - title: "Leveraging AI in telecoms to enhance offerings and maximise operations"
     excerpt: "As the use cases and opportunities for AI continue to emerge, there are a host of tech-driven approaches telco leaders can integrate into their operations, utilising software like ChatGPT."

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/article/salesforce-launches-slack-gpt/a
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/salesforce-launches-slack-gpt/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 147
 published: true
 
 provider:
@@ -46,6 +46,15 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Taming Generative AI with Model Governance"
+    excerpt: "This story was produced by WIRED Brand Lab for PwC. WIRED is where tomorrow is realized. It is the essential source of information and ideas that make sense of a world in constant transformation. The WIRED conversation illuminates how technology is changing every aspect of our lives—from culture to business,"
+    publishedDateTime: 2023-05-08T13:01:00Z
+    webUrl: "https://www.wired.com/sponsored/story/taming-generative-ai-with-model-governance/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 51
   - title: "Informatica goes all in on generative AI with Claire GPT"
     excerpt: "Informatica today announced Claire GPT, a generative AI tool aiming to help enterprises with data management tasks."
     publishedDateTime: 2023-05-09T13:00:00Z
@@ -64,6 +73,29 @@ related:
       name: TechRepublic
       domain: techrepublic.com
     quality: 47
+  - title: "IBM's generative AI strike force"
+    excerpt: "O.G. tech giant IBM is launching a counterstrike in the industry's suddenly-hot AI fight with today's announcement of Watsonx. The big picture: Business-focused IBM claims its latest AI offering, set to launch in July, provides more accurate answers and takes a more responsible approach than rivals."
+    publishedDateTime: 2023-05-09T10:00:00Z
+    webUrl: "https://www.axios.com/2023/05/09/watsonx-ibm-generative-ai-chatgpt"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 39
+    images:
+      - url: "https://images.axios.com/2abZGvpVZrwSgGGrbzRnGszoxeg=/0x489:6000x3864/1366x768/2023/05/09/1683594467793.jpg"
+        width: 1366
+        height: 768
+        isCached: true
+  - title: "Scale AI unveils its full-stack generative AI platform"
+    excerpt: "Scale's Enterprise AI Platform will allow customers to get the benefits of large language models without having to send data out to a third-party AI company."
+    publishedDateTime: 2023-05-10T15:01:00Z
+    webUrl: "https://www.fastcompany.com/90893774/scale-ai-unveils-its-full-stack-generative-ai-platform"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 17
 
 secured: "+INnL5bDQKhqPu+tWjhmrMH1rxF5UDqpjdUebhiRfbptA7c68Ydc8NVERJ8HZyTRdHOvBhDHaZ+Kgc3fFspUxAOq6xL0sjwqDJzWMsOCbUa/kF/WZicN2zOPefwFzvkl4mc+jZT9LtsauoZWkYvGf114b5HnNks4PONuO3DBUv6Fh3J55gr2yriJBN8ttswmCKIc7dp5s8s6+8ww13LZaEF3Pwa0gFSPlni8UCywMkyKD7X0wJj+gOCuDHZTPdE4a/DxDhZDQhgFDBU7N3IQhwaTkX0M1uxCnfyJrhClUbHiWF0SSGDFQg5JzRQ/ATV6p4EcOL7rjXENHMBEzljycjqZOk3uwcM7/hYKrF9OXQjsPr/SGW02ufPnGWm67kLKGoH4ka/2m3ln+b/nEhsTi6iN0ar/zXCd0gKOr0ie75cncXBxuGuQsQXG8GAQiIXZKZwWbeu7EkFh0RhzVWr44ERCSRQFmR8ptTQtNKI3g++dGxD/pm9oUb+iHG1ZIDuWDQc+u/0IRkTykImWd7gmxQ==;ZCikH81UmogEADvLPRZpmQ=="
 ---

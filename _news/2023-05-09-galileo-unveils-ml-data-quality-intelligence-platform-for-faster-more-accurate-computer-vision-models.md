@@ -48,20 +48,6 @@ related:
         width: 842
         height: 1187
         isCached: true
-  - title: "Galileo Charts Data Quality Course-Correction for AI Teams"
-    excerpt: "For several months, the Silicon Valley startup Galileo has been selling an AI-powered product designed to help correct data quality issues for natural"
-    publishedDateTime: 2023-05-05T20:05:00Z
-    webUrl: "https://www.datanami.com/2023/05/05/galileo-charts-data-quality-course-correction-for-ai-teams/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 39
-    images:
-      - url: "https://www.datanami.com/wp-content/uploads/2023/05/galileo_shutterstock_delcarmat.jpg"
-        width: 989
-        height: 605
-        isCached: true
   - title: "Genialis Unveils Expressions Version 3.0, Cloud Software for Faster, More Secure Data Processing and Management"
     excerpt: "Genialis, a computational precision medicine company unraveling complex biology to find new ways to treat disease, today released Genialis (™) Expressions version 3.0 to accelerate translational and clinical biomarker discovery."
     publishedDateTime: 2023-05-08T15:09:00Z

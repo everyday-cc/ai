@@ -63,6 +63,20 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "How Artificial Intelligence is Revolutionising the Fintech Landscape?"
+    excerpt: "According to surveys, 2/3 of FinTech companies currently use AI technology in their activities to a greater or lesser extent. Its influence will increase. Last year, the worldwide market for AI solutions in the FinTech industry was assessed at roughly 9 billion USD;"
+    publishedDateTime: 2023-05-10T14:04:00Z
+    webUrl: "https://www.lrytas.lt/english/feature/2023/05/10/news/how-artificial-intelligence-is-revolutionising-the-fintech-landscape--26994790"
+    type: article
+    provider:
+      name: lrytas
+      domain: lrytas.lt
+    quality: 39
+    images:
+      - url: "https://media.lrytas.lt/images/2023/05/10/140405959-a47a9743-68ec-47fd-98d1-65e8ded98f3a.jpg"
+        width: 1080
+        height: 720
+        isCached: true
   - title: "The Future of Fintech: How AI is Disrupting the Financial Industry"
     excerpt: "The financial industry is undergoing a significant transformation thanks to the emergence of Artificial Intelligence (AI) and machine learning. On a global scale, the AI-based fintech market experienced growth from $9."
     publishedDateTime: 2023-05-08T19:03:00Z

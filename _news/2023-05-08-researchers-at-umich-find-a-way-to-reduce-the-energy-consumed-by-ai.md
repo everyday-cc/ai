@@ -65,6 +65,20 @@ related:
         width: 630
         height: 420
         isCached: true
+  - title: "Thousands of hackers will soon test the limits of AI technology"
+    excerpt: "No sooner did ChatGPT get unleashed than hackers started “jailbreaking” the artificial intelligence chatbot – trying to override its safeguards so it could blurt out something unhinged or obscene. But now its maker,"
+    publishedDateTime: 2023-05-10T15:23:00Z
+    webUrl: "https://www.dailypress.com/nation-world/vp-nw-chatgpt-ai-hackers-20230510-hdgshb52pnfvbdwr22jjcyjdmi-story.html"
+    type: article
+    provider:
+      name: Daily Press
+      domain: dailypress.com
+    quality: 39
+    images:
+      - url: "https://www.dailypress.com/resizer/BOaqPlMihMZc9VFw9XP_zlzSzdg=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/AOU5ZRXYBHSDZZIUXNBDMAUUNQ.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "The Race to Write the World’s First AI Rule Book"
     excerpt: "The proposed Artificial Intelligence Act is a far-reaching legal framework. But rival nations are watching, hoping to take advantage of delays."
     publishedDateTime: 2023-05-09T13:11:00Z

@@ -129,6 +129,36 @@ related:
         width: 1648
         height: 1982
         isCached: true
+  - title: "Newly developed AI shows speed and accuracy in identifying the location and expression of proteins"
+    excerpt: "A new advanced artificial intelligence (AI) system has shown world-leading accuracy and speed in identifying protein patterns within individual cells. The new system, developed at the University of Surrey's Institute for People-Centered AI,"
+    publishedDateTime: 2023-05-10T14:02:00Z
+    webUrl: "https://phys.org/news/2023-05-newly-ai-accuracy-proteins.html"
+    ampWebUrl: "https://phys.org/news/2023-05-newly-ai-accuracy-proteins.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-05-newly-ai-accuracy-proteins.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 43
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/ai-developed-in-the-uk.jpg"
+        width: 2001
+        height: 1352
+        isCached: true
+  - title: "The Role of AI in the Evolution of Financial Services"
+    excerpt: "AD With the rapid advancement of technology, financial institutions are constantly looking for new ways to improve their services. One of the most significant developments in recent years has been the integration of artificial intelligence (AI) into the financial industry."
+    publishedDateTime: 2023-05-10T13:41:00Z
+    webUrl: "https://taxguru.in/finance/role-ai-evolution-financial-services.html"
+    type: article
+    provider:
+      name: Tax Guru
+      domain: taxguru.in
+    quality: 39
+    images:
+      - url: "https://taxguru.in/wp-content/uploads/2023/05/investment-advice-that-is-tailored-to-their-individual-needs-and-goals.jpg"
+        width: 600
+        height: 300
+        isCached: true
   - title: "The threat and promise of artificial intelligence"
     excerpt: "We’ll send you a myFT Daily Digest email rounding up the latest Artificial intelligence news every morning. In 1900, the UK had 3.3mn horses. These animals provided pulling power, transport and cavalry."
     publishedDateTime: 2023-05-09T15:25:00Z

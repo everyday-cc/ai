@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/microsoft_/2023/05/08/ai-and-predictive
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/microsoft_/2023/05/08/ai-and-predictive-analytics-moving-from-insights-to-foresight/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -58,6 +58,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 34
+  - title: "New Survey Finds Financial Leaders Investing in Analytics, AI and ML Tools as They Navigate Economic Uncertainty in 2023"
+    excerpt: "OneStream Software, a leader in corporate performance management (CPM) solutions for the world’s leading enterprises,"
+    publishedDateTime: 2023-05-10T12:35:00Z
+    webUrl: "https://www.datanami.com/this-just-in/new-survey-finds-financial-leaders-investing-in-analytics-ai-and-ml-tools-as-they-navigate-economic-uncertainty-in-2023/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 11
 
 secured: "ewbcOyatadIR+Q7Q7ZtwJOKsmdZDSYIHx09fyzE2wRa4/hDoeMJ2miWW6CC/k1Gd953tWK0VcrYlI+0LwkpBocfRa8ye+i/3VkbEv7t1bOonnm5Hs0az7Zy3xTrmfB3WScY753DhDhGwPWDFTHAmSGwBHRDkViIclL5r1m6uPvitpGbCYq8m8rv1mIGg2ca6avBXEI0ygddr1NQRtRDjYDX35PDhGs50ke7j2JUsUEVjh5a/+IYd8r2Kt8lBnDgc3C3mylFtcuW3JPfs3speN0gS1Fz+SCXmByjXYYm6eFuDVQBVm0P63jCAQ+20hMsKBilf91zXz0k1TWUH+MAvh58oBxmbyfKDoxYbE/DDATRpRGUUbq9JE3ekCv9mrIBpU5ghGrQOlv+BqOn43MfZdusZh+UVPhQqULCu8Ilv+Bj5kh4yoBTuIJecuMWjqmtt+mRRsmS/+0LB6vXWqBYPs+RUfkvFLvuHSc9WekiPNjDeOOoR9zqzIg/RG+2svA83+spTrDs+ztsLBYdpqxLlqQ==;wjrenadMtip73xBqBMbSCg=="
 ---

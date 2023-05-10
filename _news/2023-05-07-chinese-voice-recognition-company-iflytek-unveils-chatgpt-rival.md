@@ -141,6 +141,15 @@ related:
         width: 800
         height: 480
         isCached: true
+  - title: "Chinese scientists reveal shocking brain chip that allows monkeys to control a robotic arm with their mind"
+    excerpt: "SCIENTISTS in China have made a breakthrough in ‘Frankenstein’ brain chip technology, with the aim of letting people control machines with their mind. For now though, the technology"
+    publishedDateTime: 2023-05-10T12:26:00Z
+    webUrl: "https://www.thesun.co.uk/tech/22310762/chinese-scientists-brain-chip-monkey-control-robotic-arm/"
+    type: article
+    provider:
+      name: The Sun
+      domain: thesun.co.uk
+    quality: 33
 
 secured: "XloQs4zNaPdmHQkOjRmWE6m4gLPzWa0TDtvvVGDorWuO70eDzMuoZTDntAYC4o5QbY29vreQtkr2LVyobxtccEpjPq6QIm5kdCQK+NV/dJXAKemWosrC2w9QrPryqyRUSjZ9arcnv1DhOLj3HTh+zNEQSL+9beJNAAOqTFzhArwqdlrz4MEsvnAmwu/omly8XZajGhqtRI1I/+GbQoMUnG1K1xs0b79eeYZ+RWgIHmFZPAHwHqi1RgBqWPdFPPNZsRr/xI3JFxSFS7aHbT+yAa16VMkSTPxWOGnzT22hf1YuqOSXuCmk+k2589beNvM64RWxTn7+C9XXK3K+KCE9vxwLOTlcyxsIltXNUwx6wdzLYjdBryr760LRMVJ8KuzerJ5nqN2C1mQCBDO0m+fEhC0Ayc72PuFD3Jljhg6kmzUmfqybipATjYFtb2YnzMvBNWSyjaM/nEf8M6+MnyPJeAQUw4pkFGq0pts4pDsHgEkiwp0qFe1qRWz56rnPfNhtlnWCtjiYsSY+gikOyJ9PoQ==;OIgQ7Lxq3h5zs3qLeo5jSQ=="
 ---

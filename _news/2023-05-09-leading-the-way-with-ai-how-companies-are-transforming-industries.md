@@ -63,15 +63,15 @@ related:
         width: 620
         height: 465
         isCached: true
-  - title: "IBM to pause hiring for jobs that AI could do"
-    excerpt: "International Business Machines Corp. Chief Executive Officer Arvind Krishna said the company expects to pause hiring for roles it thinks could be replaced with artificial intelligence in the coming years."
-    publishedDateTime: 2023-05-05T21:34:00Z
-    webUrl: "https://www.news-journal.com/news/business/ibm-to-pause-hiring-for-jobs-that-ai-could-do/article_a9ce5b06-eb8c-11ed-9635-c72a4b171373.html"
+  - title: "MakeMyTrip Teams Up with Microsoft to Transform Travel Booking with Voice-Assisted AI in Indian Languages"
+    excerpt: "Transforming the travel landscape, MakeMyTrip and Microsoft join forces to create an inclusive, accessible, and seamless travel booking experience, Technology & Science News, Times Now"
+    publishedDateTime: 2023-05-08T12:37:00Z
+    webUrl: "https://www.timesnownews.com/technology-science/makemytrip-teams-up-with-microsoft-to-transform-travel-booking-with-voice-assisted-ai-in-indian-languages-article-100077105"
     type: article
     provider:
-      name: Longview News-Journal
-      domain: news-journal.com
-    quality: 19
+      name: timesnownews
+      domain: timesnownews.com
+    quality: 17
 
 secured: "WDpwKV6D3qDJH0p+4jv78G0/pRXiBV4FhH70R1/ehAKZMV+w34tZIyb2XG/94GrOuq4szGxkNblcsUWshrXTRN7xepgztzi+7G+7ks1lplM/l/NzTuHUqftfv6T3aYNpKBZjukm/d6F8vAPwRc4guOm2SXT7W5k2H+1e7wVTWA7TimrxArgUQSF0z+Ir5gH+LAUeyI3tT9QtuZaVc7ywLR5mrIWXa7iIg0zgYxsjfRs2U69dgyIVSoTXqepxgN7lh0dNPPg0hZ++Uv6fUA5YGeVjFi9bF3oGbX1UuuC8Rtzao5uq0OKpY77SlPIf0kkHC7SnDVG8ksQaG7IH5RgyDq1B/QJcCYIqE9JON9BcErrRS1kY8OlMc1456YM8Vth2vhEafQLHD1HXtbUU7k/kDZEO87wVWrVW1Zf+Zmsb8oFwbQ3XKKE4/HbJelfUs+rPh3HwY4m0hpfdPiB/1SHhUZppwp/gK4svmENcHt0ChFMMnpegFIy6InhbJaj+vDlkHuI72hWuiUhhGRapRL338w==;34bIixO5q3qEc2JSf7OIIg=="
 ---

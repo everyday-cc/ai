@@ -56,15 +56,6 @@ related:
         width: 620
         height: 465
         isCached: true
-  - title: "IBM to pause hiring for jobs that AI could do"
-    excerpt: "International Business Machines Corp. Chief Executive Officer Arvind Krishna said the company expects to pause hiring for roles it thinks could be replaced with artificial intelligence in the coming years."
-    publishedDateTime: 2023-05-05T21:34:00Z
-    webUrl: "https://www.news-journal.com/news/business/ibm-to-pause-hiring-for-jobs-that-ai-could-do/article_a9ce5b06-eb8c-11ed-9635-c72a4b171373.html"
-    type: article
-    provider:
-      name: Longview News-Journal
-      domain: news-journal.com
-    quality: 19
   - title: "Leading the Way with AI: How Companies are Transforming Industries"
     excerpt: "Here are some companies that are leading the way in AI and driving transformation and innovation, including EnKash and Addverb., Technology & Science News, Times Now"
     publishedDateTime: 2023-05-09T13:13:00Z
@@ -74,6 +65,15 @@ related:
       name: timesnownews
       domain: timesnownews.com
     quality: 19
+  - title: "MakeMyTrip Teams Up with Microsoft to Transform Travel Booking with Voice-Assisted AI in Indian Languages"
+    excerpt: "Transforming the travel landscape, MakeMyTrip and Microsoft join forces to create an inclusive, accessible, and seamless travel booking experience, Technology & Science News, Times Now"
+    publishedDateTime: 2023-05-08T12:37:00Z
+    webUrl: "https://www.timesnownews.com/technology-science/makemytrip-teams-up-with-microsoft-to-transform-travel-booking-with-voice-assisted-ai-in-indian-languages-article-100077105"
+    type: article
+    provider:
+      name: timesnownews
+      domain: timesnownews.com
+    quality: 17
 
 secured: "h4lDglYAT0JPm/pdiaoDyoE0caEn+jIq03DA6iOv74Zsjl68tJGwSxqJx+dyDDgHg9DUGJh1uqO5fC+nfoKRTxfT6U4PQHSMnH6lrnFE5Cz69YKLQ2anNxlVrm9OL2keAKWItaIoMpi6+1W7021vX3/z1P8i7y/MCOe3FvDvTHmDWdMQ5RNluS+L48xCWZ4cwkY4wFTW1lmFgZLlOzJDvH9SRhFGMZcPR7L+jy2k4J63A1SOuo7Qpxxpr5hIqGvhdOscWRkBxtulBQY2MZx4yCF8Luq2Z07tSCLr+H/ns1Xj6zpVxuw5pPGNhM7c9RbnQWJG3qE30fPMfNo7yZTFZUOt+S68onZamdQ05xLf1TQ=;+u9R+nTrLTXKJ6XruY3tzw=="
 ---

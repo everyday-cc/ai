@@ -21,6 +21,15 @@ topics:
   - AI
 
 related:
+  - title: "Sound Ventures has already plugged half its new $240 million AI fund into three companies"
+    excerpt: "Sound Ventures, the eight-year-old, Beverly Hills, Ca.,-based venture firm led by general partners Ashton Kutcher, Guy Oseary, and Effie Epstein, announced a new $240 million AI fund just last week. Turns out half of it is already invested in the three companies that it announced at the time that it rolled out the fund: OpenAI,"
+    publishedDateTime: 2023-05-10T07:52:00Z
+    webUrl: "https://techcrunch.com/2023/05/09/sound-ventures-has-already-plugged-half-its-new-240-million-ai-fund-into-three-companies/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 38
   - title: "UVeye, creator of an AI-powered vehicle inspection system, raises $100M in funding"
     excerpt: "Automated vehicle inspection systems startup UVeye Inc. said today it has closed on a $100 million funding round led by Hanaco VC. The Series D round, which also saw participation from existing investors GM Ventures,"
     publishedDateTime: 2023-05-09T13:00:00Z

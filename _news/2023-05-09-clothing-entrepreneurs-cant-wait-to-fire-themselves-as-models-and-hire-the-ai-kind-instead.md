@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/laurendebter/2023/05/09/small-busines
 webUrl: "https://www.forbes.com/sites/laurendebter/2023/05/09/small-businesses-using-generative-ai/"
 type: article
 quality: 57
-heat: 67
+heat: 57
 published: false
 
 provider:
@@ -26,17 +26,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "3 Ways to Embrace AI As An Entrepreneur"
-    excerpt: "Resist the urge to label the AI revolution as a passing fad, and take the leap. Embrace the power of AI to help boost productivity and deliver more tailored experiences, and your customers will thank you for it."
-    publishedDateTime: 2023-05-05T22:02:00Z
-    webUrl: "https://www.inc.com/jerry-jao/3-ways-to-embrace-ai-as-an-entrepreneur.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 17
 
 secured: "pTKj3MhVd+dRzjGVJqkxu7xoq5LXWxotqZE2wGno43lO4xocJ1Mc4/tpUEzc7N/UUGqe3GyA6MhcV8gkyM4qqS8qE7GTc0EQ/njE++ANw4jecppKDPvI2fJY6r2LYMXJjFbgPE7HKk+UwN0qHeVNQFQup82d5mvkrA29Mjj3hTsEJcmXyw+fbDd5cYaEjVuvhZTSSSqtyTYa2NN8nbRbDb13IBl1U0qoo7ggBsYXnutduJf3foQpr5A5EOL80sj8S8pbZ6k+jHQql6pkXHOsJyVEqRP4e54xalKUjJ/Z00QHIEDbUdgOc1heBoJsHaUdJPtlOwwKZde4UO041QE0x6Rfd86uPDW7K5YFrqvOu0Y=;RXZV7Oi6k7tcYScj82L/+A=="
 ---

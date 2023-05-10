@@ -74,6 +74,15 @@ related:
       name: Asia One
       domain: asiaone.com
     quality: 9
+  - title: "Atomic Revolutionizes Payroll System Integrations with SmartAuth, its Groundbreaking AI-Powered Authentication Engine"
+    excerpt: "Atomic, a leading provider of payroll system integrations, has unveiled SmartAuth, a new artificial intelligence-powered authentication engine. This b"
+    publishedDateTime: 2023-05-10T12:05:00Z
+    webUrl: "https://www.businesswire.com/news/home/20230510005294/en/Atomic-Revolutionizes-Payroll-System-Integrations-with-SmartAuth-its-Groundbreaking-AI-Powered-Authentication-Engine"
+    type: article
+    provider:
+      name: newsroom.businesswire.com
+      domain: businesswire.com
+    quality: 0
 
 secured: "vtg0CcVodvlf8bhDAjTQMe0l01aTY8nNkL3/uX7oLiPLFEIkq2QjzfXSu+wZooVEc3TU9XY+zS2kN8haj39OIj2PKcKMNw0ir6asaJiLoHWw002OZlR8inu/ehcdW44PDVYLnSVs59hKmHGhBddAlHPlomd6xT1XXoo52HHP0Uc8J3TxyroNO+mleGPAxsb0aiukbsvt10ploCkliMeKvkgHCHng9YJWsENlEUl1C8xDjD6TVwWQ2PUEK0lJM5o7lanL4NhnqoL5Qih0vUxxDhIueq7xx4kpxyZJmAZNoItZQ7eR2j6G4N/P7OMo6FlCkxtX8Md18OtoUtJNvPseC+bxsOhq+bGeVmrdXMAAa5o=;8jw9ew33sSJc7odeO8/woQ=="
 ---

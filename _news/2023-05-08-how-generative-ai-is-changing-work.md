@@ -34,6 +34,22 @@ related:
         width: 1300
         height: 708
         isCached: true
+  - title: "AI And Modern Workforce Challenges"
+    excerpt: "The global workforce should expect big changes over the next decade, and I believe humans will lead those changes."
+    publishedDateTime: 2023-05-10T14:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/10/ai-and-modern-workforce-challenges/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/10/ai-and-modern-workforce-challenges/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/05/10/ai-and-modern-workforce-challenges/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/645a72f2a9a3d1f35644914e/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "White House challenges hackers to break top AI models at DEF CON 31"
     excerpt: "On Thursday, the White House announced a surprising collaboration between top AI developers, including OpenAI, Google, Antrhopic, Hugging Face, Microsoft, Nvidia, and Stability AI, to participate in a public evaluation of their generative AI systems at DEF CON 31,"
     publishedDateTime: 2023-05-08T16:42:00Z
@@ -94,15 +110,6 @@ related:
         width: 1350
         height: 900
         isCached: true
-  - title: "How artificial intelligence may change health care"
-    excerpt: "Officials believe convicted rapist, Jesse McFadden, murdered six people and then killed himself."
-    publishedDateTime: 2023-05-05T21:40:00Z
-    webUrl: "https://kfor.com/video/how-artificial-intelligence-may-change-health-care/8623439/"
-    type: article
-    provider:
-      name: Oklahoma's News
-      domain: kfor.com
-    quality: 19
 
 secured: "9Kbps95kBTPinUxmIkwPChHYnxc/NA5Up2rwNjroxH86gkSB1YOXdvBoJLRapWoiKhVK1sckLE3LRDSRx948dUYrZqYz0U5Cxud4qYGmym5kuTBRNOrNixRyuudJJQQsFOWdXP1UsFRxoXICciNuNXjuborRkNd5imBTgKQ30XTw8EWhpapsoG75IVKL66w2fK0y/GaiVHX4zY1UHEXWU7N7MCRwaxGKpC7fMHLlzsaDF4LJNk67/zIhy82L9wpsNNkVYvV3jJVoRwtMiQ2Cm2FDjLi40SvaZdoyaAxfGblXOEnkEqzSfrfpt0fhcitJXzphhG+EeyZdpztM9wuLzFYQPjjwnuFCaCDEY0cH/fDO8k5+xdttGW/1Ydp9UPqsBPr2VqR8mcU0I8jE9OQAgJJQnEgruVbEfrpNYDY9GmIpjjKc9ENJdXl0XWDMhSyTF0UiHFVQNXcwUvunDNHXkMO4JCrbEw52iRk3BFVdqnpqjI6pG/QTJiuyjXeNPorUikRgaCJJAds0h6BupiGg9A==;Xzk4EhS13aWHvMLoMvzEug=="
 ---

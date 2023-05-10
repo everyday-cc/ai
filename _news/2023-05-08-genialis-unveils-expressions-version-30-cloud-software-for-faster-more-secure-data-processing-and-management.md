@@ -53,20 +53,6 @@ related:
         width: 842
         height: 1187
         isCached: true
-  - title: "Galileo Charts Data Quality Course-Correction for AI Teams"
-    excerpt: "For several months, the Silicon Valley startup Galileo has been selling an AI-powered product designed to help correct data quality issues for natural"
-    publishedDateTime: 2023-05-05T20:05:00Z
-    webUrl: "https://www.datanami.com/2023/05/05/galileo-charts-data-quality-course-correction-for-ai-teams/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 39
-    images:
-      - url: "https://www.datanami.com/wp-content/uploads/2023/05/galileo_shutterstock_delcarmat.jpg"
-        width: 989
-        height: 605
-        isCached: true
   - title: "Galileo Unveils ML Data-Quality Intelligence Platform for Faster, More Accurate Computer Vision Models"
     excerpt: "By adding just a few lines of Python code during the model training process, the innovative Galileo Data Intelligence for Computer Vision platform automatically identifies problematic data that negatively impacts model performance, then suggests effective ..."
     publishedDateTime: 2023-05-08T18:20:00Z

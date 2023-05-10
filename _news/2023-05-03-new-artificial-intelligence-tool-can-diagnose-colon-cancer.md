@@ -1,10 +1,10 @@
 ---
 category: news
 title: "New Artificial Intelligence Tool Can Diagnose Colon Cancer"
-excerpt: "Detailed price information for Bausch Health Companies Inc (BHC-T) from The Globe and Mail including charting and trades."
-publishedDateTime: 2023-05-03T15:28:00Z
-originalUrl: "https://www.theglobeandmail.com/investing/markets/stocks/BHC-T/pressreleases/16543041/new-artificial-intelligence-tool-can-diagnose-colon-cancer/"
-webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/BHC-T/pressreleases/16543041/new-artificial-intelligence-tool-can-diagnose-colon-cancer/"
+excerpt: "Veracyte (NASDAQ:VCYT) and Bausch Health Companies (TSX:BHC) (NYSE:BHC) are other companies offering tests for the detection of colorectal cancer. Mainz Biomed (NASDAQ:MYNZ) creates commercially viable molecular genetic diagnostic solutions for critical illnesses."
+publishedDateTime: 2023-05-03T13:38:00Z
+originalUrl: "https://www.theglobeandmail.com/investing/markets/stocks/VCYT-Q/pressreleases/16543041/new-artificial-intelligence-tool-can-diagnose-colon-cancer/"
+webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/VCYT-Q/pressreleases/16543041/new-artificial-intelligence-tool-can-diagnose-colon-cancer/"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 436
     isCached: true
 
-secured: "xHEUbZlnEF1FqSkMAxx4exMtZfMt/BvxCTDzbMaUTGvuE4N79s9WdEr7IL+L0EpVRlv+3sujd+og1pSQBDE9+NFt66+RbA6Qbd0Fd7wVPWW4xoS8eG3NcUyZL2mGefVdkIfTP397C/hSdsA2pSFvQLxlDKSimtPx8uR1TXt8J3A8tCy3zB8XcP2sRlPTScUE2M9GR/As576sMl10e3Um3eGe9AM0KDq8uaJ7r7EYCwHR7GHRcJqKQ3pmn/NfjIqrolgnq8ENV5QXqs493N5TkLWv2Efj53W9MDeImd7mTHO4CpkRFpxgVOBwLFJPTM2vI99KEyN9VXcVKYFXAK8rJ9yJS4RevGs37i9HllFhkAgz6vpVrEJN567S7tk1kXe64Q+NGWllfwRcpQuO2Y5vHQ0Ocus1QRblgGYf11jdld5rYPVGBY1AcBq379a0dHxWDQfzm2iAi7sLkPC/WTc/ToaFqWIFfBkrSDgKZWhvNd0m/8VVV4UlwG1Ls4Pra5ZLOs9Z99Uxbki9dVfcgawDsQ==;jxeLh1u5A+AJ5Ttw4noBVg=="
+secured: "UURkSIE+UDQUKISusX6DVcou29Qoa9zThJNhCpfjeR+/mpNq2UyXP+IbcpmB0XKalouhHSaAewk5j3BbdtcRLYWWGQbCxifbjvhAOAMURl/LnuxgNb9/a1YKs8sp0TxwOa30HT8zXEAKSNAFNxmAxz1PFGlgeqHWJrXB/GkgbS3oN0xDCESwUTlqBTYyhM2ErwtPWSXsX8i/MenNSK7LwAu+lTQS3+yRT7N0A4+OopajWKH7dcF5J9FfrVj1o0iA4bhVMye7SdiKqktbsksAM1eaXDO+KvgkF+iu9E+0bBuAjvlVjSbMtY38uPJcAV5jxwblq5o6z7Bptmt/uJ4Nh+iIFLn6jwqStzG//0ZSZss=;djSNxsBdDp56XJnGZzE53A=="
 ---
 

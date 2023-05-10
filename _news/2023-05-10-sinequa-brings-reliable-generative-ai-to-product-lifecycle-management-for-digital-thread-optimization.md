@@ -27,18 +27,13 @@ images:
 related:
   - title: "Sinequa Brings Reliable Generative AI to Product Lifecycle Management for Digital Thread Optimization"
     excerpt: "Enterprise Search leader Sinequa has added new capabilities to its Search Cloud platform that enable manufacturers and engineers to easily and reliable discover, generate and reuse information and insights throughout the product lifecycle and digital thread."
-    publishedDateTime: 2023-05-09T15:48:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-sinequa-brings-reliable-generative-ai-product-lifecycle-management-/2023/05/09/9810597.htm"
+    publishedDateTime: 2023-05-09T14:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/sinequa-brings-reliable-generative-ai-to-product-lifecycle-management-for-digital-thread-optimization-2023-05-09"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 24
-    images:
-      - url: "https://marketplace.connectwise.com/content/images/thumbs/0000635_skykick_550.png"
-        width: 550
-        height: 353
-        isCached: true
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 34
 
 secured: "N4+F6jqZ3cSvCSuiOLVD22B1HmNJhuLNh+RYa+UkCqcuuX6y+UVhgTYr6Rv41NAOadU2YXT+dyMBIqIV9InqShiLChE3UR8lyCX2wSIvr8096oLdmUO0uBTu7LZcvv1Iyt86S7O9u4Jm3af2rMLJPWfWQeq/NculcV1o/HwtlFXGujVgy9+FcBM/G9AuzDHIgBxansQDvbp20yR6kkEfJYZiR4vw0Yvv3VSNjyTRHYcSLxP+lWXDB2/9O+UxsJ1kBnPrNj2d/cxltuxXt/gC4GfEXiGySb55/SKyjVPmqVyuRuJkj1MSnFulECbICmb2twSszwqMtbw8YDh5d/QzOeOEQ5Ehlkm6R3wRfgI6N8Y=;bx9Anft5cLsrvbrtDwkw3Q=="
 ---

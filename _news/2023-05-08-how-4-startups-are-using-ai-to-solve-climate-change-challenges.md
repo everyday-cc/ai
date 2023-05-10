@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI And Modern Workforce Challenges"
+    excerpt: "The global workforce should expect big changes over the next decade, and I believe humans will lead those changes."
+    publishedDateTime: 2023-05-10T14:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/10/ai-and-modern-workforce-challenges/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/10/ai-and-modern-workforce-challenges/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/05/10/ai-and-modern-workforce-challenges/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/645a72f2a9a3d1f35644914e/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "White House challenges hackers to break top AI models at DEF CON 31"
     excerpt: "On Thursday, the White House announced a surprising collaboration between top AI developers, including OpenAI, Google, Antrhopic, Hugging Face, Microsoft, Nvidia, and Stability AI, to participate in a public evaluation of their generative AI systems at DEF CON 31,"
     publishedDateTime: 2023-05-08T16:42:00Z
@@ -91,15 +107,6 @@ related:
         width: 1350
         height: 900
         isCached: true
-  - title: "How artificial intelligence may change health care"
-    excerpt: "Officials believe convicted rapist, Jesse McFadden, murdered six people and then killed himself."
-    publishedDateTime: 2023-05-05T21:40:00Z
-    webUrl: "https://kfor.com/video/how-artificial-intelligence-may-change-health-care/8623439/"
-    type: article
-    provider:
-      name: Oklahoma's News
-      domain: kfor.com
-    quality: 19
   - title: "How Generative AI Is Changing Work"
     excerpt: "Customer Service Jobs"
     publishedDateTime: 2023-05-08T13:16:00Z

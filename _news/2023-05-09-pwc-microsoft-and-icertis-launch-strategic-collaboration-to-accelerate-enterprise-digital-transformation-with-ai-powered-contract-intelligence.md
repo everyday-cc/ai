@@ -25,22 +25,29 @@ images:
     isCached: true
 
 related:
-  - title: "KPMG and Google Cloud expand alliance to accelerate the adoption of generative AI among enterprises"
-    excerpt: "The partnership aims to provide practical and real-world applications of generative AI across industries for data-driven decision-making."
-    publishedDateTime: 2023-05-09T05:26:00Z
-    webUrl: "https://venturebeat.com/ai/kpmg-and-google-cloud-expand-alliance-to-accelerate-the-adoption-of-generative-ai-among-enterprises/"
-    ampWebUrl: "https://venturebeat.com/ai/kpmg-and-google-cloud-expand-alliance-to-accelerate-the-adoption-of-generative-ai-among-enterprises/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/kpmg-and-google-cloud-expand-alliance-to-accelerate-the-adoption-of-generative-ai-among-enterprises/amp/"
+  - title: "SAS accelerates responsible innovation efforts with new collaborations and a focus on trustworthy AI"
+    excerpt: "The world has seen unprecedented artificial intelligence (AI) advances since AI and analytics company SAS launched its responsible innovation efforts one year ago. Amid this rapid disruption, SAS has increased efforts to bring trustworthy AI to customers,"
+    publishedDateTime: 2023-05-09T16:56:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/05/09/9810756.htm"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 73
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 24
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/04/AdobeStock_564311673.jpeg?w=1200&strip=all"
-        width: 1200
-        height: 686
+      - url: "https://mma.prnewswire.com/media/2070823/SAS_new_healthcare.jpg"
+        width: 640
+        height: 426
         isCached: true
+  - title: "SAS accelerates responsible innovation efforts with new collaborations and a focus on trustworthy AI"
+    excerpt: "The world has seen unprecedented artificial intelligence (AI) advances since AI and analytics company SAS launched its responsible innovation efforts one year ago. Amid this rapid disruption, SAS has increased efforts to bring trustworthy AI to customers,"
+    publishedDateTime: 2023-05-09T18:09:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-sas-accelerates-responsible-innovation-efforts-with-new-collaborations-/2023/05/09/9810756.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 4
 
 secured: "REoJV9pWAw9Gzk5BMhV9eg7+c4ibEho9clgT6jTIItBqXY1gF6NtHHJ3TRp8T3wJahDD5yvLFD6T34UWdqglBNtdl8bO6ImqijHVh4qRbTdxOVwsxocNakKQQiM/Ovmi/OrkAw0aG+tKaWiGrSunBFpfINHq7fYOwKfvHAgJbg1h8wIVtAkYyh/b2qJuIJhCjhQzZVIrlK7lNmT5Q+HA9M0Z19AwFpNsy3Kbhq7r3ezHCdPPH0+MQsmsHLSFpWZ4JFLRWIi89zgDhImZ8ZYsLz1FYYruRgS0/2eMqGG+jpJJ07hW/sXKY8pAECuk6Nz92cJYvv8mXxj0fjMEkohJRqA21rk9BJ6zUSFrMSvv6+s=;+F7pgWHgtcIUTEg3aLKIGA=="
 ---

@@ -56,6 +56,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 34
+  - title: "New Survey Finds Financial Leaders Investing in Analytics, AI and ML Tools as They Navigate Economic Uncertainty in 2023"
+    excerpt: "OneStream Software, a leader in corporate performance management (CPM) solutions for the world’s leading enterprises,"
+    publishedDateTime: 2023-05-10T12:35:00Z
+    webUrl: "https://www.datanami.com/this-just-in/new-survey-finds-financial-leaders-investing-in-analytics-ai-and-ml-tools-as-they-navigate-economic-uncertainty-in-2023/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 11
 
 secured: "0FeI7f3pE5rYDe4APMa15nOXRB/lcg8EHrEjKzzaIRlfGTwGVuGBPo2PmVocj2fRouAKuok+Q+U+3LlGJ1118Aj8dhDiRK8My7Hr4z/9eQ+pJT/3CbYQBrrWgM9uA3H2IRAG0OF2tFpuPMyxcumsa9zIplXHov67pS+leCZfh3tTf8UdXoETBZf2IaKr9HJSVpYaFgpXyGb0WC1A4ntMwBl7JqDfkXDoTErBV+DLQI3j5l3vAqS/3V3RNZNi6bR31IvzzJv2zX2Cnyiy93WYMtfqbjx8afSsRUysscjyI8gSt/2Ae/tO/ape49hbI7UeqPMBjsFR0X1zC6kvwdu7dZswyUtcZYLv5ERSzMSwHpgXxOU1v6A2NaBjC5sLY7z6h/Hl9TkP0aQgpYXdv6CkA2vuVWpDLimDm38qFPurXDIAag5ztZ2wNTC5SAD1TvqAU/Ru1Ba56TcUk54SeMu2ko4xNLUglpUDyuQ+zYN2MTsBFXTmWQU1KoqfbG072GphLlZyFdcLM+DsIG3sGZK0PA==;p6fQ+0Ike1aBN2DdwCe9LA=="
 ---

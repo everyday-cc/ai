@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/timbajarin/2023/05/09/the-critical-need
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/timbajarin/2023/05/09/the-critical-need-to-identify-ai-generated-content/amp/"
 type: article
 quality: 87
-heat: 167
+heat: 177
 published: true
 
 provider:
@@ -136,6 +136,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 27
+  - title: "Icertis adds Generative AI to Intelligent Contracts platform"
+    excerpt: "Icertis has announced Icertis ExploreAI, introducing ChatGPT into the Icertis Contract Intelligence (ICI) platform. ExploreAI offers new capabilities for"
+    publishedDateTime: 2023-05-10T13:01:00Z
+    webUrl: "https://www.enterprisetimes.co.uk/2023/05/10/icertis-adds-generative-ai-to-intelligent-contracts-platform/"
+    type: article
+    provider:
+      name: enterprisetimes.co.uk
+      domain: enterprisetimes.co.uk
+    quality: 19
 
 secured: "7csPXLYT8/cxSBODzGHkyo36mL/xSeTtcwVCet0P621QL8r0SmrRHOkx1wE/4Ga593UNrr42O5l1j6hY7rvi3orAJ9NqtRQ3TuMwM2c29EySTucUyLD2GqbHJsPlxT3SZubT2XcNhG/2ABljcMj/McDMOZ6rn4Qe/lb8tXK59t4moKpNOhxMUZtN3M4aqtLWYXIaoXl/+9yU56zmVoU78J5sVpW0Yt4m46MZYvqPCpI+pKIyyBjH6ifv34s/S7ZtSSS8i7gEDxZKtIIs/xZjVb/CkMl96zFnTZrJcE0abAcAnJnaEVpG8pWD0rBTBYNW1prGg4BJwyrQiP8JksjG6SPhrhWMLtvuyZeLGq6jgRM=;0vXmLeEmLGdYgODtqhQ6Ew=="
 ---

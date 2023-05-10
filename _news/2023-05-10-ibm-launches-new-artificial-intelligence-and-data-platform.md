@@ -55,15 +55,6 @@ related:
         width: 1280
         height: 670
         isCached: true
-  - title: "IBM to pause hiring for jobs that AI could do"
-    excerpt: "International Business Machines Corp. Chief Executive Officer Arvind Krishna said the company expects to pause hiring for roles it thinks could be replaced with artificial intelligence in the coming years."
-    publishedDateTime: 2023-05-05T21:34:00Z
-    webUrl: "https://www.news-journal.com/news/business/ibm-to-pause-hiring-for-jobs-that-ai-could-do/article_a9ce5b06-eb8c-11ed-9635-c72a4b171373.html"
-    type: article
-    provider:
-      name: Longview News-Journal
-      domain: news-journal.com
-    quality: 19
   - title: "Leading the Way with AI: How Companies are Transforming Industries"
     excerpt: "Here are some companies that are leading the way in AI and driving transformation and innovation, including EnKash and Addverb., Technology & Science News, Times Now"
     publishedDateTime: 2023-05-09T13:13:00Z
@@ -73,7 +64,16 @@ related:
       name: timesnownews
       domain: timesnownews.com
     quality: 19
+  - title: "MakeMyTrip Teams Up with Microsoft to Transform Travel Booking with Voice-Assisted AI in Indian Languages"
+    excerpt: "Transforming the travel landscape, MakeMyTrip and Microsoft join forces to create an inclusive, accessible, and seamless travel booking experience, Technology & Science News, Times Now"
+    publishedDateTime: 2023-05-08T12:37:00Z
+    webUrl: "https://www.timesnownews.com/technology-science/makemytrip-teams-up-with-microsoft-to-transform-travel-booking-with-voice-assisted-ai-in-indian-languages-article-100077105"
+    type: article
+    provider:
+      name: timesnownews
+      domain: timesnownews.com
+    quality: 17
 
-secured: "1ySWOrc4/Kc1n2fF/ya1FOSfBqUhxz5PZSV7cfrxQuLrRONntNCBZ4sfEsdy9Uum5QKxgqRdbRuOHFEp6EYHDJI2gTHtnYSOA8iS6fcGPhBKAvqIUndS7zlZmhCHSCXwgmf1Kb33aEzPmFjI/WYLO0HF62CtUVEtwm3Ugri/8mrl2pJUfStV4wdmQfSpJnwGB7KjYAr+B+wez+22+Jc9wBEL9pbJGND3jCCLLQxvYaGnl9AQcXUW2oIqHdsZo2lI9xxeGohmbv8XGXGjlEYAC4ZsojFY1MUJfJCclTENl6XzRknUTutnXABr9HVLlBgMlihqm0zjpjflrki6uppWOmejvOJE/o+dUADtVggfJfo=;4F4IPtXS1UaCXiMiFBEjlA=="
+secured: "WbUPWo91HBgX9X7wt32KKODzTrXAcXDZZ3ur4DawuqTgxhqu/OAi2sbCykPPcRwiGpWIlHvBEW5rB9XBDzNL1mU+WVnRuN4JbSi9td+zHAzrwxjxxOLNt1yFDyMDU9vY8XpjNKifMqB8ztqbHHgS/z+P9yXK8sCObe+kGMQauLKc28CzegB1zbOFUynkYk+sArRMav1A+qrStatHTxZ5Q19WJg7AbmdxKqB69kBwKIlAv2X4VKGZilnZnArmT2zO9KGQSEiHpu3I52JHj/XEo8mNXa2jVAJBsgi5gUeH2EZ3bo8NWNi6ueU9xDDppNaqLgwADCcr1IlytS59+5sPryMym9GBme1eqWCHMksBmMmOo9cRBhHk3fmbBWTd5zFZqfsPhMCN5nHy2TUD1YS0u4DGmgGxstkcoB8Z+QK3RQPYnwGGX4ytajj/XaGaypWjnieroCTcogXEIYmDOk6Ewgfke1Th4ZJPgcp2M8et+t+Cf8rIruRFqNVrMv43WAUa/XXPnLh26QSmdLy64A6aGw==;sJf0Qbu7S5WrLIHJD+qZJg=="
 ---
 

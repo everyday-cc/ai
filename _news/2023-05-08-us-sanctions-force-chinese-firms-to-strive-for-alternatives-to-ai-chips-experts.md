@@ -127,6 +127,15 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Chinese scientists reveal shocking brain chip that allows monkeys to control a robotic arm with their mind"
+    excerpt: "SCIENTISTS in China have made a breakthrough in ‘Frankenstein’ brain chip technology, with the aim of letting people control machines with their mind. For now though, the technology"
+    publishedDateTime: 2023-05-10T12:26:00Z
+    webUrl: "https://www.thesun.co.uk/tech/22310762/chinese-scientists-brain-chip-monkey-control-robotic-arm/"
+    type: article
+    provider:
+      name: The Sun
+      domain: thesun.co.uk
+    quality: 33
   - title: "Chinese voice-recognition company iFlytek unveils ChatGPT rival"
     excerpt: "Chinese voice-recognition company iflytek Co. has entered the race to build a rival to OpenAI Inc.’s ChatGPT, with a live demonstration of its artificial intelligence model for educational and enterprise uses,"
     publishedDateTime: 2023-05-07T11:40:00Z

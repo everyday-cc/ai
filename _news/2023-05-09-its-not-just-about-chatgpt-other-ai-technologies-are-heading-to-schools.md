@@ -35,7 +35,7 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 78
+    quality: 80
     images:
       - url: "https://imageio.forbes.com/specials-images/imageserve/64591690fd83c13dff9c02fa/0x0.jpg?format=jpg&crop=3240,2160,x432,y0,safe&width=1200"
         width: 1200
@@ -109,20 +109,6 @@ related:
       - url: "https://menafn.com/updates/pr/2023-05/09/KT_6610bimage_story.jpg"
         width: 600
         height: 337
-        isCached: true
-  - title: "AI ChatGPT creates rap for Warriors vs. Lakers playoffs"
-    excerpt: "ChatGPT is what most people are either talking about most of these days or even experimenting with. The KPIX morning team tested the feature by getting AI to become a Warriors fan. (05/05/2023)"
-    publishedDateTime: 2023-05-05T19:42:00Z
-    webUrl: "https://www.cbsnews.com/sanfrancisco/video/ai-chatgpt-creates-rap-for-warriors-vs-lakers-playoffs/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 37
-    images:
-      - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/05/05/5bbac4b0-a433-4855-bdf9-7b9c0bdeab1a/thumbnail/1200x630/fbafe097c79e45cf7a745903b439427a/df287121c4263b21552fa7ddab43f411.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "I asked AI bot ChatGPT to write a column on happiness. Here’s what happened next"
     excerpt: "I had to find out for myself. So I conducted a little experiment. I asked ChatGPT to write an article for me. I submitted the prompt, “Write a 500-word column on happiness.” That’s a broad, overworked topic,"

@@ -46,6 +46,22 @@ related:
         width: 1300
         height: 708
         isCached: true
+  - title: "AI And Modern Workforce Challenges"
+    excerpt: "The global workforce should expect big changes over the next decade, and I believe humans will lead those changes."
+    publishedDateTime: 2023-05-10T14:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/10/ai-and-modern-workforce-challenges/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/10/ai-and-modern-workforce-challenges/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/05/10/ai-and-modern-workforce-challenges/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/645a72f2a9a3d1f35644914e/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "How artificial intelligence could fundamentally change certain types of work"
     excerpt: "A report released in March found that AI services could automate as many as 300 million fulltime jobs worldwide."
     publishedDateTime: 2023-05-06T00:24:00Z
@@ -90,15 +106,6 @@ related:
         width: 1350
         height: 900
         isCached: true
-  - title: "How artificial intelligence may change health care"
-    excerpt: "Officials believe convicted rapist, Jesse McFadden, murdered six people and then killed himself."
-    publishedDateTime: 2023-05-05T21:40:00Z
-    webUrl: "https://kfor.com/video/how-artificial-intelligence-may-change-health-care/8623439/"
-    type: article
-    provider:
-      name: Oklahoma's News
-      domain: kfor.com
-    quality: 19
   - title: "How Generative AI Is Changing Work"
     excerpt: "Customer Service Jobs"
     publishedDateTime: 2023-05-08T13:16:00Z

@@ -39,6 +39,15 @@ related:
         width: 690
         height: 400
         isCached: true
+  - title: "Machine Learning Helps Identify Pneumonia as Driver of COVID-19 Deaths"
+    excerpt: "Machine learning helped researchers determine that secondary bacterial pneumonia drove many COVID-19 deaths, rather than cytokine storm."
+    publishedDateTime: 2023-05-08T17:44:00Z
+    webUrl: "https://healthitanalytics.com/news/machine-learning-helps-identify-driver-of-covid-19-deaths"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 19
   - title: "“Cytokine Storm” Debunked: Machine Learning Exposes the True Killer of COVID-19 Patients"
     excerpt: "Machine learning finds no evidence of cytokine storm in critically ill patients with COVID-19. No evidence of cytokine storm in critically ill patients with COVID-19 Nearly half of patients with COVID"
     publishedDateTime: 2023-05-06T15:46:00Z

@@ -2,27 +2,25 @@
 category: news
 title: "Sinequa Brings Reliable Generative AI to Product Lifecycle Management for Digital Thread Optimization"
 excerpt: "Enterprise Search leader Sinequa has added new capabilities to its Search Cloud platform that enable manufacturers and engineers to easily and reliable discover, generate and reuse information and insights throughout the product lifecycle and digital thread."
-publishedDateTime: 2023-05-09T15:48:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-sinequa-brings-reliable-generative-ai-product-lifecycle-management-/2023/05/09/9810597.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-sinequa-brings-reliable-generative-ai-product-lifecycle-management-/2023/05/09/9810597.htm"
+publishedDateTime: 2023-05-09T14:02:00Z
+originalUrl: "https://www.marketwatch.com/press-release/sinequa-brings-reliable-generative-ai-to-product-lifecycle-management-for-digital-thread-optimization-2023-05-09"
+webUrl: "https://www.marketwatch.com/press-release/sinequa-brings-reliable-generative-ai-to-product-lifecycle-management-for-digital-thread-optimization-2023-05-09"
 type: article
-quality: 24
-heat: 24
+quality: 34
+heat: 34
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Microsoft AI
   - AI
-
-images:
-  - url: "https://marketplace.connectwise.com/content/images/thumbs/0000635_skykick_550.png"
-    width: 550
-    height: 353
-    isCached: true
 
 related:
   - title: "Sinequa Brings Reliable Generative AI to Product Lifecycle Management for Digital Thread Optimization"
@@ -40,6 +38,6 @@ related:
         height: 674
         isCached: true
 
-secured: "l9W7oFeawYwHly7xf8FCAl2hN/GB8r1t4cJQ2sjjdiu7IYcj3jvMxEvnK2qsD65aR6ZdgLF38pZNWE9uYR44MGTO/QWN/hU6sL8We3IUvsbwUsheg0jZS+KAqHtKbxL62PXhNWwoRTIFSsqPfj6tEAMw+/Sq9HfudYOVEOs6ZwKqS2o2H5QzGaNudZcMjOHyGxOL8GTCdtCCbvCpJidfTrRWyUPdW9bdRol2EI/AvenzwxlRqIjt1qmaOyV3m/siyR07d6Ub+8i5oD/v3pCMVB0hVi/zMw4p8bQrc6/+VlJuUwFyhM8a2BVmjW/pzKJr4blf8iB16lYkIjfn52rJs86C/qtIWo1/Jl8/Jvnhy3I=;MGUqUqhaBc+6W+OmxKCHjA=="
+secured: "5Gy/tcviuOftOpDAtT3EalyzIm8GeT+98+frTDZTet3oMwpl8uHFkYwuywhYqhNrTLbX+B5VFYkzSUjOXiwmJPEIPEoA84WIG0cfV0iSNn3+tgM2TygBZXT0RT2/Hq43mBky9DvLBPLsuDO8CUzix1igCIM2VaCueEW6VB/Ci5gnOQ/FAbjh/LP32ohwMRnOdaiHOSozC3M6ZNt4+bBVJSxEtsBrNbvlbZUIZvhp+j2d02aKFhMz8KiVpCa7MZeZk+HC4qI6pHrlAUjQ62LemflH9Y5NdZFLo9VfVDr8wuqhr2/bKPAzbWm6SPKqzeI0ve7jCy+zUQ995t8heCyK8L3VZkOjZeBCszN1p94a3WM=;3gI+dllXhmk1ubKvNiCAqw=="
 ---
 

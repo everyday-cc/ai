@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Specific training can help computer vision models learn like humans: Study"
-excerpt: "MIT researchers have discovered that a specific training method can help computer vision models learn more perceptually straight representations, like humans do. Training involves showing a machine-learning model millions of examples so it can learn a task."
-publishedDateTime: 2023-05-10T00:57:00Z
-originalUrl: "https://www.devdiscourse.com/article/science-environment/2445976-specific-training-can-help-computer-vision-models-learn-like-humans-study"
-webUrl: "https://www.devdiscourse.com/article/science-environment/2445976-specific-training-can-help-computer-vision-models-learn-like-humans-study"
+excerpt: "Unlike humans, computer vision models don't typically exhibit perceptual straightness, so they learn to represent visual information in a highly unpredictable way. But if machine-learning models had this ability,"
+publishedDateTime: 2023-05-10T13:06:00Z
+originalUrl: "https://news.webindia123.com/news/Articles/Science/20230510/4071872.html"
+webUrl: "https://news.webindia123.com/news/Articles/Science/20230510/4071872.html"
 type: article
 quality: 32
 heat: 32
 published: false
 
 provider:
-  name: devdiscourse
-  domain: devdiscourse.com
+  name: Webindia 123
+  domain: webindia123.com
 
 topics:
   - Computer Vision
@@ -29,6 +29,6 @@ related:
       domain: scitechdaily.com
     quality: 10
 
-secured: "ek5WrLGeE4dMq/7Ee+gUP/nABV0/Zozjr0uuhFDr9bujYF7IM5k+VpurMyPqzJQWDjY47wtsJArIAr0/816BOweGUS0U9c8JZ1PTso3cTkLAzr8Pj2CfwXi2EGY4es7yOC/G+oEpDEoUa8toZ37R8xFND4GXgl7bngQ3wXscXpN22JbMEU8jOj7EYt2vsNfHO1tZw+robBihtHs2MvWBE2ljPt5E5lOjMAlQj7yaqhrOhXovP/FiZy1aR64L5llu6u8yk28ql4OVDfo2z3G9G44Ue7c3S6q4/fkZHkldRn6fCE0840izFOsdlgnSB9yExrhOj69U2W49FMR8PynD6FlLoDt8UxaCHdAlJVcozbAZuTNOnKMRHJi+VULbVcx5V+ih4uzp5CQ7m9lN6T7dMWkcmRw2xMLc/TVAGRshwx1H2KHqI+ss5sMUMIe2kO5q7OhviG1hJ+v8RXPeGeFfg1iteUWkEjqgWdrcsvsLjcQEqYuJe2N3THehUQN8EWbgoYCnZOBk6wx8VrAQlYQA2g==;9xwr4pPkuYm3Vi12XB/tww=="
+secured: "xjI7wGyvsOQuLEooUtt1ClxoNhzKEcetJZ8fpQysV3bEGc5FR84IrTj6kEgrck8P79Szo+zbpA5kY7dqKOUrXlugP6Ew00vMUTUtT3JPO5v0H2GFfVqT826uB0kCAsaiJYxa99eeU97Q0PIgHR9UyMTPtrS+xzzPQTAHROvT9TTTeQAm/vkE2jz0ah7+RUvUxNXQIHxkCQRl6JGhH7OFCP8WciXGJ8ge5iSpzQWuOYJgUNfCGxW/X4YPvbV/3fiaLDffwGtP/cnnRThu1l2366IsanyTrgvvp5qew3ymo00W27eXv7kqdB+n9trKuFSE7lYdT38c7pd+C24+3gIgXqPYOB038HtRp3L3zZvF5Oo=;/ROl59/bYUMJvpogyXnkiw=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/2030-ai-in-computer-visi
 webUrl: "https://www.marketwatch.com/press-release/2030-ai-in-computer-vision-market-growth-future-prospects-and-competitive-analysis-2023-05-09"
 type: article
 quality: 77
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -29,6 +29,15 @@ images:
     isCached: true
 
 related:
+  - title: "AI in Computer Vision Market in 2031: New Era of Growth and Opportunities"
+    excerpt: "May 10, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global AI in Computer Vision"
+    publishedDateTime: 2023-05-10T10:31:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-in-2031-new-era-of-growth-and-opportunities-2023-05-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 63
   - title: "AI In Computer Vision Market Growth Will Accelerate At CAGR Value, Swot Analysis Till 2031 | AMR"
     excerpt: "AI in Computer Vision Market The global AI in computer vision market size is expected to reach $207.09 billion by 2030 from $9.18 billion"
     publishedDateTime: 2023-05-08T20:41:00Z

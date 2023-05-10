@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "PwC, Microsoft and Icertis launch strategic collaboration to accelerate enterprise digital transformation with AI-powered contract intelligence"
+    excerpt: "PwC, Microsoft and Icertis today formally announced a new strategic collaboration that will provide C-suites with a powerful, innovative AI-driven approach to contract management that enables accelerated enterprise-level digital transformation."
+    publishedDateTime: 2023-05-09T09:52:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-pwc-microsoft-icertis-launch-strategic-collaboration-accelerate-enterprise-/2023/05/09/9809823.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 18
+    images:
+      - url: "https://mma.prnewswire.com/media/371539/Icertis_Logo.jpg"
+        width: 400
+        height: 260
+        isCached: true
   - title: "SAS accelerates responsible innovation efforts with new collaborations and a focus on trustworthy AI"
     excerpt: "The world has seen unprecedented artificial intelligence (AI) advances since AI and analytics company SAS launched its responsible innovation efforts one year ago. Amid this rapid disruption, SAS has increased efforts to bring trustworthy AI to customers,"
     publishedDateTime: 2023-05-09T18:09:00Z

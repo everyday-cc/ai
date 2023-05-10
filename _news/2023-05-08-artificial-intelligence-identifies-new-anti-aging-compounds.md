@@ -133,6 +133,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 27
+  - title: "Icertis adds Generative AI to Intelligent Contracts platform"
+    excerpt: "Icertis has announced Icertis ExploreAI, introducing ChatGPT into the Icertis Contract Intelligence (ICI) platform. ExploreAI offers new capabilities for"
+    publishedDateTime: 2023-05-10T13:01:00Z
+    webUrl: "https://www.enterprisetimes.co.uk/2023/05/10/icertis-adds-generative-ai-to-intelligent-contracts-platform/"
+    type: article
+    provider:
+      name: enterprisetimes.co.uk
+      domain: enterprisetimes.co.uk
+    quality: 19
 
 secured: "surdbyD57GUb3X077V9mb5jzrC/0HIVMMY3vI9qVbQJH/M2tAc7sdvU5g2cRZXRwAmhctbIwis7t25IZv6NnDh90iYyIt50QhMr0qzb+HwIzalxUJ2cZkANgzJOFzYzOnLcNSJrO+mQl6CVDGqJa4spbjy/OnbwcgbHJ6fSxcEq/D0OmZHafMO2u27CfpCZUjRx+JystGlWeMd1aGOdN49O2zzHEZQXhbG7DqkHws9VeY4XQA5yvQc/wLJZJVN/31iT9HucBAthZtNxdt8vYpsKCoLALCb5VpjwZmCnKdBm+WPSOLMOz2b+5d5zjQms6XcGu6x+Vc4eTM07igprzVPemrOfyNkYKWSqMZT9pLNJWJ73J2mjZQiKHchiSHQoYVI+gIhWCRP+pV4qScwrP/MXcIOIJqEc2VPQJQ41WTtavsIX4h7VqR2QuB2ofaF3v7YkjbxYDy9iVSyDiQhkfIuofpxZ9qddu2/07egFuuiV3kyrlD8mSlvN6oHG36lIPW1Lgf3eVy8WhecOwf6Atew==;Fl87j4Dek5oDtIvwfpd8uw=="
 ---

@@ -58,6 +58,15 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 47
+  - title: "New Survey Finds Financial Leaders Investing in Analytics, AI and ML Tools as They Navigate Economic Uncertainty in 2023"
+    excerpt: "OneStream Software, a leader in corporate performance management (CPM) solutions for the world’s leading enterprises,"
+    publishedDateTime: 2023-05-10T12:35:00Z
+    webUrl: "https://www.datanami.com/this-just-in/new-survey-finds-financial-leaders-investing-in-analytics-ai-and-ml-tools-as-they-navigate-economic-uncertainty-in-2023/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 11
 
 secured: "Ta+eYHPAJChwGfikkRNI2GGwRe7LBKEJRmdAk+JKmSWhX2GafRsjKPTWwkeqbjr3k52Fl8gEAC3VkJOgdL41A66nCFd5GENGahqRYflEiP0QlXvQAJ8ttfYErdk3CP7/I9z+3WhdLyJ62LQnqmKSkZXdk+/61roDkAw5RLZTfNGlS5ZFeQ9LdoHHGdw3Li4UBSQV2BrRGeH5r46l3qdSCG6cnmH73enpqaxuz09MpX/Yvj3ZJwh7k7X6G0cYcZzVLQb5tLoDvGPL/yHy16kIDgnv2XZkwyTfx9Uw89uLRVGGBg0DU/AF9cyxtFGFkIlPbF510Qbl2LUaC6YeLXEZ5PUDB4m16vGl+bLpY97rbMk=;YNSbdEAbTz81aCDVG9j7Hw=="
 ---

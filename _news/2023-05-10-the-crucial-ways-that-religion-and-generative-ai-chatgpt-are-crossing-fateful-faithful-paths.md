@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/lanceeliot/2023/05/10/the-crucial-ways-tha
 ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/05/10/the-crucial-ways-that-religion-and-generative-ai-chatgpt-are-crossing-fateful-faithful-paths/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/05/10/the-crucial-ways-that-religion-and-generative-ai-chatgpt-are-crossing-fateful-faithful-paths/amp/"
 type: article
-quality: 78
-heat: 178
+quality: 80
+heat: 170
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/64591690fd83c13dff9c02fa/0x0.jpg?format=jpg&crop=3240,2160,x432,y0,safe&width=1200"
@@ -114,20 +115,6 @@ related:
         width: 942
         height: 630
         isCached: true
-  - title: "AI ChatGPT creates rap for Warriors vs. Lakers playoffs"
-    excerpt: "ChatGPT is what most people are either talking about most of these days or even experimenting with. The KPIX morning team tested the feature by getting AI to become a Warriors fan. (05/05/2023)"
-    publishedDateTime: 2023-05-05T19:42:00Z
-    webUrl: "https://www.cbsnews.com/sanfrancisco/video/ai-chatgpt-creates-rap-for-warriors-vs-lakers-playoffs/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 37
-    images:
-      - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/05/05/5bbac4b0-a433-4855-bdf9-7b9c0bdeab1a/thumbnail/1200x630/fbafe097c79e45cf7a745903b439427a/df287121c4263b21552fa7ddab43f411.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "I asked AI bot ChatGPT to write a column on happiness. Here’s what happened next"
     excerpt: "I had to find out for myself. So I conducted a little experiment. I asked ChatGPT to write an article for me. I submitted the prompt, “Write a 500-word column on happiness.” That’s a broad, overworked topic,"
     publishedDateTime: 2023-05-08T21:21:00Z
@@ -166,6 +153,6 @@ related:
       domain: realclearscience.com
     quality: 19
 
-secured: "oU3FlK8cLtiYQCEM2/M+iIixf8mZ0MTb72phiMMMOP66tzwW308eM6nCtWXoE1hn22wNzay82oRH/sop5/tUulNgmH0qkg6/9omb3wX7HKt8a5MSqbE3SPwMBH6jbuLLz9NbsO3c4uZoOCzvLhNAjgSkhXc3oaXshUCG2SEtDsDF0zNgKvOIXO6dJJKaiCUUmtd6YMwUm7Yig+GqsIQgPi00A3K9SdGV/Y37FLlhcXKmcLp8c6pw4xiRIxd00SEOiCq8G/wrowaQnJLgV/ROn9qY2gixzeUIc9/d09E6luxjLcO+OtwSNQd1GmR4ZnwJhuGSxcPFghTy0uSBxP6Wt6V54T0aLBK8AedpiHvB4Pw=;+Qbkg+FtIzfqtZC+/53dRQ=="
+secured: "6WC4707b08RgDa7j2IhWqokofaUvK0AbpbcTO4q9lhx+aI25Oh801DwswYDS87U1kre6e21UljQhdT2aoO6BA+OeYfaQqDajfQw/Q8SJKHYbHqG/le6xEnL4xE9WoSm7ljArjimfhITXxFEi8X5eVS41V01890Hl6HfYM/P/kFZfsTj0/hJiTspQGBcCnS/LP7cjJ2KlIVwOouBuvP+owfnlfyXkiZieIfHyu/IAUK5w3u+l6SIl9BYkYwnpF9t6SJtq6G6yRXRj6Y7pzOiW6ue7Vje4PvGs6ivkx4QbptTv2glZfivucE1W/YuZ03UQIrRtJnSUfexU8aoFYjMyKW5xNSszn7i/xoyV3IuHQKvBavrB9j0tr0hQuGJ8E1F9CFYD48PragXelMtE+3Z7CEp3Ouh0Ki/MsaP12EC1H9TIqDGtJn/JhMRHIvlqFwL7lnqI55/tiUvNNSjs6AlIUuUUjI9p9YghQiPMupE32Z97hadKI1/jGiIA25Y4IkYbUHcTnvQ1fZWtkFe1eauzZQ==;6WSg4uolYP0tEX4XGpF01w=="
 ---
 

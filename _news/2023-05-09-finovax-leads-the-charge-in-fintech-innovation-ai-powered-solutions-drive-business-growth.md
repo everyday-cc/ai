@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/finovax-leads-the-charge
 webUrl: "https://www.marketwatch.com/press-release/finovax-leads-the-charge-in-fintech-innovation-ai-powered-solutions-drive-business-growth-2023-05-09"
 type: article
 quality: 59
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -75,7 +75,16 @@ related:
       name: Asia One
       domain: asiaone.com
     quality: 9
+  - title: "Atomic Revolutionizes Payroll System Integrations with SmartAuth, its Groundbreaking AI-Powered Authentication Engine"
+    excerpt: "Atomic, a leading provider of payroll system integrations, has unveiled SmartAuth, a new artificial intelligence-powered authentication engine. This b"
+    publishedDateTime: 2023-05-10T12:05:00Z
+    webUrl: "https://www.businesswire.com/news/home/20230510005294/en/Atomic-Revolutionizes-Payroll-System-Integrations-with-SmartAuth-its-Groundbreaking-AI-Powered-Authentication-Engine"
+    type: article
+    provider:
+      name: newsroom.businesswire.com
+      domain: businesswire.com
+    quality: 0
 
-secured: "5On5iqdeeuD2eSuc/5qSK29+ZbRwsYFBjCnFcblPST/gRhMhaDnWn5FahI9kPN2+VRayr9pUBXIxdDWmGiT5sTIX2VDYx9qCkifCwtVMzqSXz4B/lk4If/RIUrmwbFLG48xnaRncTFRFtlk3CuQHsrt121kIymDvpr5l8x6OnBUK1M6+gro6xHbZYQJsxKMCqOLwSXemcqpM/TEKwBXo+YBgXTyedNSMZY3kFPU6JVG5kXwnlaJUwyYkHJoQnQ8CcP6AyFmaJBsVuya7PVNEAX5A4hfZ4xbntyQHoq7nxTSzmrpq65Kj46kZIutJXBdqapnJaNch6ySpktEpj3D9kNFX/P4egTzUVHHakmzelAc=;FuKxv5ZJe9nfLs7KzYA6/g=="
+secured: "Lv7KMQDvYeCC0wUGvXDx7WTeLzxpIlkSChdDVNZPt36CQXKFeOFgTHsyzPQYhmG62Fhg7LQHVBSC+GQEd0jyiNTjALWop0lM7RHMWizmmqDpUQ1R9285+VpefNFVjrWsO8Xz14MXVPWsMLMKZnluJt2aV3wSX42gKT7A0WF2VN8f0vbRCbgL99icLJx7bsXl4GvXmncMc40li/t0my9OF+laHtZUgaR0PdYTwt+5+0U2Mi//RAmiyjlheBEeRxVcIJCAeNFIG68ejf8YuHHNPoF1NNSP2jyJVYBZ6FAQ58PzxCsW0fpaBdmjkxsJ3uM3CsjXH308H9Px4yRleaBROXCY3X+4lwMAS8MdHA1d9zM=;/OBTPO3lqMXSocP/gYIXow=="
 ---
 

@@ -47,6 +47,15 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Machine Learning Helps Identify Pneumonia as Driver of COVID-19 Deaths"
+    excerpt: "Machine learning helped researchers determine that secondary bacterial pneumonia drove many COVID-19 deaths, rather than cytokine storm."
+    publishedDateTime: 2023-05-08T17:44:00Z
+    webUrl: "https://healthitanalytics.com/news/machine-learning-helps-identify-driver-of-covid-19-deaths"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 19
 
 secured: "agjRGk5YegO0mBNWLYXoPOzAVtSa3krreBseTj8GjaDvSHOE6vmStg3koSbsuDJCFUi5aYUHqAPgI2w7pep/ExMHMgI849127k6hkJb98j1D9MLLuzzMAUWaUUBT2tdlYfltu/uX99EZu1lY0Plbfl7/YUlTb/UBzZDwyLmoM24IGAxXSBMjRvGbikjLYIDZc21fnMpJi6UvilNE3HFMbmDuAyrZCjEZu7hdyJoqIw5HZWwKPPgHtnKMry4aThJ4ECBcfNubpOPbMTrJpUHy+trytDvnDO2Z5WYXdoUVITFhiLteS/MAsq8a+VJJ2B6upgrAO3GfMu6OdfpdUYLbBsJCXru+T6zaBbw+UBPe2pI=;Yu0+eH0ukrkDYLIeePTDTQ=="
 ---

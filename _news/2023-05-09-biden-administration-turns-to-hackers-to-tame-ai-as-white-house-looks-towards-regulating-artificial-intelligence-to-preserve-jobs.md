@@ -20,38 +20,61 @@ topics:
   - AI
 
 related:
-  - title: "President Biden meets with AI CEOs at the White House amid ethical criticism"
-    excerpt: "On Thursday, President Joe Biden held a meeting at the White House with CEOs of leading AI companies, including Google, Microsoft, OpenAI, and Anthropic,"
-    publishedDateTime: 2023-05-05T21:29:00Z
-    webUrl: "https://arstechnica.com/information-technology/2023/05/critics-take-aim-at-bidens-ai-meeting-with-ceos-from-google-openai-microsoft/"
-    ampWebUrl: "https://arstechnica.com/information-technology/2023/05/critics-take-aim-at-bidens-ai-meeting-with-ceos-from-google-openai-microsoft/amp/"
-    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/05/critics-take-aim-at-bidens-ai-meeting-with-ceos-from-google-openai-microsoft/amp/"
+  - title: "White House addresses AI’s risks and rewards as security experts voice concerns about malicious use"
+    excerpt: "The Biden administration articulated aims to put guardrails around generative and other AI, while attackers get bolder using the technology."
+    publishedDateTime: 2023-05-09T14:23:00Z
+    webUrl: "https://www.techrepublic.com/article/white-house-harness-ai/"
+    ampWebUrl: "https://www.techrepublic.com/article/white-house-harness-ai/amp/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/white-house-harness-ai/amp/"
     type: article
     provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 101
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 90
     images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/05/GettyImages-1252673513-800x533.jpg"
-        width: 800
-        height: 533
+      - url: "https://www.techrepublic.com/wp-content/uploads/2023/05/hero-hite-House-Harness-AI.jpeg"
+        width: 1200
+        height: 750
         isCached: true
-  - title: "Biden, Harris meet with CEOs about AI risks"
-    excerpt: "Vice President Kamala Harris has met with the heads of Google, Microsoft and two other companies developing artificial intelligence WASHINGTON -- Vice President Kamala Harris met on Thursday with ..."
-    publishedDateTime: 2023-05-06T03:36:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/harris-meet-ceos-artificial-intelligence-risks-99068989"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/harris-meet-ceos-artificial-intelligence-risks-99068989"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/harris-meet-ceos-artificial-intelligence-risks-99068989"
+  - title: "AI could cause patients harm as a result of bias and errors, health experts say"
+    excerpt: "Health professionals said that while healthcare could benefit from AI, the technology \"also has the potential to produce negative health impacts.\""
+    publishedDateTime: 2023-05-10T11:15:00Z
+    webUrl: "https://www.businessinsider.com/ai-harm-human-health-public-health-experts-2023-5"
+    ampWebUrl: "https://www.businessinsider.com/ai-harm-human-health-public-health-experts-2023-5?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-harm-human-health-public-health-experts-2023-5?amp"
     type: article
     provider:
-      name: ABC News
-      domain: abcnews.go.com
-    quality: 57
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 83
     images:
-      - url: "https://s.abcnews.com/images/Politics/wirestory_578d623e473b0eeb3fa3e4728d7e9868_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://i.insider.com/645b62bd65a21600192fe28a?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
+  - title: "Hackers aim to find flaws in AI - with White House help"
+    excerpt: "But now its maker, OpenAI, and other major AI providers such as Google and Microsoft, are coordinating with the Biden administration to let thousands of hackers take a shot at testing the limits of their technology."
+    publishedDateTime: 2023-05-10T14:01:00Z
+    webUrl: "https://www.houstonchronicle.com/business/article/hackers-aim-to-find-flaws-in-ai-with-white-18090259.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 39
+    images:
+      - url: "https://s.hdnux.com/photos/01/32/64/15/23806829/6/rawImage.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
+  - title: "8 Questions About Using AI Responsibly, Answered"
+    excerpt: "Generative AI tools are poised to change the way every business operates. As your own organization begins strategizing which to use, and how, operational and ethical considerations are inevitable. This article delves into eight of them,"
+    publishedDateTime: 2023-05-09T17:01:00Z
+    webUrl: "https://hbr.org/2023/05/8-questions-about-using-ai-responsibly-answered"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 19
 
 secured: "wgBuW24QLR5wUMvP4vezQ61V9vi1VRenq+tDXfQsCYiDjVNUaZghG7DroghYHjoqEm2IzrYq/UHJFvbWGAvh4B92isA4jeXaKevUD+w+SoRysiBEr2pqViiVoSL8tMtXZxrqI+K/sm4M6IQkLJBxBwKW4FYou0fb8BNhd0d38W2F0slV/nq1Lo0wX/3RmL6dpIggxy2+jjwLntkXc8mV9xnZtRL0nzms+UeB2Ufgibco6ROcdMvtvBJPXgObrArRxTOSVYHY1lqY61QHHnwtQhjeRldsC8Hr51dWgU5ck1p96mvMMZpxXxZ9FzpVSQ7exdC2fsQdDaIM4p4ZhQdCV5lT20qRyXRJ+PRT7689J9E=;4nOmKntCRX2zMfDV0RRTBQ=="
 ---

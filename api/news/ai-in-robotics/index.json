@@ -55,6 +55,41 @@
       ]
     },
     {
+      "path": "_news/2023-05-09-amp-robotics-raises-additional-series-c-investment-from-microsoft-climate-innovation-fund.md",
+      "title": "AMP Robotics Raises Additional Series C Investment From Microsoft Climate Innovation Fund",
+      "excerpt": "AMP Robotics Corp. (“AMP”), a pioneer in artificial intelligence (AI), robotics, and infrastructure for the waste and recycling industry, has received financing from Microsoft’s Climate Innovation Fund.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.buffalonews.com/buffnews/article/bizwire-2023-5-9-amp-robotics-raises-additional-series-c-investment-from-microsoft-climate-innovation-fund",
+      "originalUrl": "https://markets.buffalonews.com/buffnews/article/bizwire-2023-5-9-amp-robotics-raises-additional-series-c-investment-from-microsoft-climate-innovation-fund",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-09T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Buffalo News",
+        "domain": "buffalonews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-08-ai-robot-dog-market-size-revenue-and-forecast-2030.md",
       "title": "AI Robot Dog Market Size, Revenue, and Forecast 2030",
       "excerpt": "The Global AI Robot Dog market is anticipated to rise at a considerable rate during the forecast period, between 2023 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players,",
@@ -1340,40 +1375,6 @@
       "provider": {
         "name": "Machine Design",
         "domain": "machinedesign.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-29-idvv-moves-forward-in-artificial-intelligence-ai-sector.md",
-      "title": "IDVV Moves Forward In Artificial Intelligence AI Sector",
-      "excerpt": "IDVV is pleased to announce its progress in the acquisition of WITech and SF Corp, which have been completed ahead of schedule. As the company enters the AI sector, it is combining the strengths and capabilities of both acquisitions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.star-telegram.com/press-releases/article274848016.html",
-      "originalUrl": "https://www.star-telegram.com/press-releases/article274848016.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-28T12:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fort Worth Star-Telegram",
-        "domain": "star-telegram.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/harris-meet-ceos-artif
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/harris-meet-ceos-artificial-intelligence-risks-99068989"
 type: article
 quality: 57
-heat: -1
+heat: 57
 published: false
 
 provider:
@@ -24,35 +24,6 @@ images:
     width: 992
     height: 558
     isCached: true
-
-related:
-  - title: "President Biden meets with AI CEOs at the White House amid ethical criticism"
-    excerpt: "On Thursday, President Joe Biden held a meeting at the White House with CEOs of leading AI companies, including Google, Microsoft, OpenAI, and Anthropic,"
-    publishedDateTime: 2023-05-05T21:29:00Z
-    webUrl: "https://arstechnica.com/information-technology/2023/05/critics-take-aim-at-bidens-ai-meeting-with-ceos-from-google-openai-microsoft/"
-    ampWebUrl: "https://arstechnica.com/information-technology/2023/05/critics-take-aim-at-bidens-ai-meeting-with-ceos-from-google-openai-microsoft/amp/"
-    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/05/critics-take-aim-at-bidens-ai-meeting-with-ceos-from-google-openai-microsoft/amp/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 101
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/05/GettyImages-1252673513-800x533.jpg"
-        width: 800
-        height: 533
-        isCached: true
-  - title: "Biden Administration Turns To Hackers To Tame AI As White House Looks Towards Regulating Artificial Intelligence To Preserve Jobs"
-    excerpt: "Gamers Making Thousands Selling Gaming Skins And Assets: Gameflip's Bold Vision For The Future Of Gaming Commerce Artificial intelligence (AI) technology — led by the growth of ChatGPT — has governments around the world concerned about its impact."
-    publishedDateTime: 2023-05-08T20:01:00Z
-    webUrl: "https://www.benzinga.com/news/23/05/32272632/biden-administration-turns-to-hackers-to-tame-ai-as-white-house-looks-towards-regulating-artificial"
-    ampWebUrl: "https://www.benzinga.com/amp/content/32272632"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32272632"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 23
 
 secured: "ZasyGIabtLuyuTyqi5/Wa6qK5VocdyVBnFg+VmRz2NCFgQ9q4qQrtqwbhiXAgKfdINr4B1j5VibM+KW3eKnmTCy5TmO0CCZZ5/dQVzxoJFw11qqDR+Lup4tcDt9NPGRJMUxrG5zv32Rhf/BqtpW/sPdZFUKRKxopDt60bVx7SO+DUrdvp4VyjbaqO7P396+1vlEdwi89/BVIHQAoK/XO1u9hOuLotRMM6C6RD/jcsIcE+2NY9M9v79HITM+y1yYPODRMTuw6lLRfli33nM8QR00M7o0OE6NGoeJuPXk+E1S1LTLKoS9Rn28GVZP1e/i+r2jiqACioafrjPSO/dwFxal+4pUQAFT48BYGqXqi9/Y=;yvUzVtHiYIgKFVqQ/pPs8g=="
 ---

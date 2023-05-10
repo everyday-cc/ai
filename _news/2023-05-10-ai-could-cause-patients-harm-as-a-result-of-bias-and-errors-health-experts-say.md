@@ -46,6 +46,31 @@ related:
         width: 1200
         height: 750
         isCached: true
+  - title: "Hackers aim to find flaws in AI - with White House help"
+    excerpt: "But now its maker, OpenAI, and other major AI providers such as Google and Microsoft, are coordinating with the Biden administration to let thousands of hackers take a shot at testing the limits of their technology."
+    publishedDateTime: 2023-05-10T14:01:00Z
+    webUrl: "https://www.houstonchronicle.com/business/article/hackers-aim-to-find-flaws-in-ai-with-white-18090259.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 39
+    images:
+      - url: "https://s.hdnux.com/photos/01/32/64/15/23806829/6/rawImage.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
+  - title: "Biden Administration Turns To Hackers To Tame AI As White House Looks Towards Regulating Artificial Intelligence To Preserve Jobs"
+    excerpt: "Gamers Making Thousands Selling Gaming Skins And Assets: Gameflip's Bold Vision For The Future Of Gaming Commerce Artificial intelligence (AI) technology — led by the growth of ChatGPT — has governments around the world concerned about its impact."
+    publishedDateTime: 2023-05-08T20:01:00Z
+    webUrl: "https://www.benzinga.com/news/23/05/32272632/biden-administration-turns-to-hackers-to-tame-ai-as-white-house-looks-towards-regulating-artificial"
+    ampWebUrl: "https://www.benzinga.com/amp/content/32272632"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32272632"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 23
   - title: "8 Questions About Using AI Responsibly, Answered"
     excerpt: "Generative AI tools are poised to change the way every business operates. As your own organization begins strategizing which to use, and how, operational and ethical considerations are inevitable. This article delves into eight of them,"
     publishedDateTime: 2023-05-09T17:01:00Z

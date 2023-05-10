@@ -19,20 +19,15 @@ topics:
   - AI
 
 related:
-  - title: "CallMiner and Microsoft: A Partnership in Driving Conversation Intelligence Innovations"
-    excerpt: "The collaboration enables CallMiner to bolster its AI capabilities using Azure Cognitive Services (a component of Azure AI), allowing the company to scale more rapidly and securely in order to meet customer demands."
-    publishedDateTime: 2023-05-05T20:06:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/05/05/9808849.htm"
+  - title: "AMP Robotics Raises Additional Series C Investment From Microsoft Climate Innovation Fund"
+    excerpt: "AMP Robotics Corp. (“AMP”), a pioneer in artificial intelligence (AI), robotics, and infrastructure for the waste and recycling industry, has received financing from Microsoft’s Climate Innovation Fund."
+    publishedDateTime: 2023-05-09T13:00:00Z
+    webUrl: "https://markets.buffalonews.com/buffnews/article/bizwire-2023-5-9-amp-robotics-raises-additional-series-c-investment-from-microsoft-climate-innovation-fund"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 31
-    images:
-      - url: "https://marketplace.connectwise.com/content/images/thumbs/0000635_skykick_550.png"
-        width: 550
-        height: 353
-        isCached: true
+      name: The Buffalo News
+      domain: buffalonews.com
+    quality: 57
   - title: "Informatica Expands its Collaboration with Microsoft, Announces Planned Intelligent Data Management Cloud as a Microsoft Azure Native ISV Service"
     excerpt: "Informatica (NYSE: INFA), an enterprise cloud data management leader, expanded its collaboration with Microsoft"
     publishedDateTime: 2023-05-09T13:00:00Z

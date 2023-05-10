@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/joemckendrick/2023/05/07/rise-of-ai-als
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/05/07/rise-of-ai-also-raises-demand-for-creative-skills/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "AI Used for Early Detection and Treatment of Illnesses"
+    excerpt: "Karl Leo, Dr. Hans Kleemann and Matteo Cucchi demonstrates an approach for real-time classification of healthy and diseased bio-signals based on a biocompatible AI chip. They used polymer-based fiber networks that structurally resemble the human brain and ..."
+    publishedDateTime: 2023-05-08T00:00:00Z
+    webUrl: "https://www.mddionline.com/digital-health/ai-used-early-detection-and-treatment-illnesses"
+    type: article
+    provider:
+      name: MD&M East
+      domain: mddionline.com
+    quality: 39
+    images:
+      - url: "https://www.mddionline.com/sites/mddionline.com/files/IMG_Aug242021at32217PM.jpg"
+        width: 770
+        height: 400
+        isCached: true
 
 secured: "f+XNhOxSsyDcIOTXEOk/W1hk66TIskmw1vWUAjepphVYjYa38NxLjTomihCNJpCJaH1puW9Z34rz19GwoX9OezXgFprkUoIctIugtl06o8jtXlaFX5FJLkOoRhj/rjo3+vklnxz3ju6bIJun2w0veuXEPVFwP5iaD6eLOH0JRGB+zVC0pIizzFFumSFtQP6c5xV8B0H6miYbBniL1v7F81i0eWxtH/tif+nkjm++mOzyxzh1hEaicO8S9iBXaIev6/5DVGB9fd6zVjjtedA/wYfDJxSObfBeCTmgUz8mvo0aR0FrQw9EjTuxnoz+fLqMQ0eNPQJwtyYFFVkP9LyekHRxprNdohn0O1Gdb/q3DxxYBWjSsfha2R/angOCF4uFHonMMxXJM68C9LjGR6wELxVtbRzqemA+2Lpk5E4cr4PQgCJFYKNyEob63OX9B/598Egeu6G9iR4fXU042WUWNsSFBwpCnjwmpnHWpS4V16zYh3SpFRp5BLiVKBuaQv3nlwZ6B+vwgijGBV/n7Np77g==;HMqAWjY4urqx96hjs1T//Q=="
 ---

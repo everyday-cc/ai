@@ -173,10 +173,28 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 65
+  - title: "2030, Artificial Intelligence (AI) Chips Market Growth | Future Prospects and Competitive Analysis"
+    excerpt: "The \"Artificial Intelligence (AI) Chips Market\" is one of the sectors that is expanding the fastest, thus it is crucial"
+    publishedDateTime: 2023-05-09T21:50:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2030-artificial-intelligence-ai-chips-market-growth-future-prospects-and-competitive-analysis-2023-05-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 65
   - title: "Cognitive System & Artificial Intelligence(AI) Systems Market"
     excerpt: "Research Reports has published a new report titled as \"Cognitive System and Artificial Intelligence(AI) Systems"
     publishedDateTime: 2023-05-08T04:10:00Z
     webUrl: "https://www.marketwatch.com/press-release/cognitive-system-artificial-intelligenceai-systems-market-2023-05-08"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 64
+  - title: "Artificial Intelligence (AI) in Fintech Market Growth 2023-2030"
+    excerpt: "May 10, 2023 (The Expresswire) -- \"Artificial Intelligence (AI) in Fintech Market\" Insights 2023 By Types ( Hardware, Software, Services), Applications"
+    publishedDateTime: 2023-05-10T06:14:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-growth-2023-2030-2023-05-10"
     type: article
     provider:
       name: MarketWatch
@@ -191,6 +209,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 59
+  - title: "Latest \"Artificial Intelligence (AI) in Education Market\" Size Forecast 2023-2031: New Challenges, Drivers, and Restraints"
+    excerpt: "Insightful Investigation 2023: “Artificial Intelligence (AI) in Education Market” Growth Projections and Key Dynamics"
+    publishedDateTime: 2023-05-10T07:07:00Z
+    webUrl: "https://www.marketwatch.com/press-release/latest-artificial-intelligence-ai-in-education-market-size-forecast-2023-2031-new-challenges-drivers-and-restraints-2023-05-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 55
   - title: "Self-Driving Taxi Market Research | 2023-2030"
     excerpt: "The Global Self-Driving Taxi market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players,"
     publishedDateTime: 2023-05-08T04:10:00Z

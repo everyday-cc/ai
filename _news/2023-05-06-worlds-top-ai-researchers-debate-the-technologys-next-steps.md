@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/articles/worlds-top-ai-researchers-debate-the-
 webUrl: "https://www.wsj.com/articles/worlds-top-ai-researchers-debate-the-technologys-next-steps-55be2849"
 type: article
 quality: 67
-heat: 137
+heat: 147
 published: true
 
 provider:
@@ -59,6 +59,20 @@ related:
       - url: "https://cdn.bignewsnetwork.com/cus1683170979548.jpg"
         width: 630
         height: 420
+        isCached: true
+  - title: "Thousands of hackers will soon test the limits of AI technology"
+    excerpt: "No sooner did ChatGPT get unleashed than hackers started “jailbreaking” the artificial intelligence chatbot – trying to override its safeguards so it could blurt out something unhinged or obscene. But now its maker,"
+    publishedDateTime: 2023-05-10T15:23:00Z
+    webUrl: "https://www.dailypress.com/nation-world/vp-nw-chatgpt-ai-hackers-20230510-hdgshb52pnfvbdwr22jjcyjdmi-story.html"
+    type: article
+    provider:
+      name: Daily Press
+      domain: dailypress.com
+    quality: 39
+    images:
+      - url: "https://www.dailypress.com/resizer/BOaqPlMihMZc9VFw9XP_zlzSzdg=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/AOU5ZRXYBHSDZZIUXNBDMAUUNQ.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Researchers at UMich find a way to reduce the energy consumed by AI"
     excerpt: "As AI becomes increasingly popular, researchers develop software to decrease energy consumption in an effort to lower carbon footprint."
