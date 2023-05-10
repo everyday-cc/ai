@@ -142,15 +142,6 @@ related:
         width: 619
         height: 377
         isCached: true
-  - title: "Generative AI in factory automation and the edge"
-    excerpt: "Siemens and Microsoft: generative AI in factory automation and at the edge In factory automation Siemens and Microsoft recently demonstrated how with the combination of Microsoft Azure machine learning and Siemens’ industrial edge, images captured by ..."
-    publishedDateTime: 2023-05-05T18:09:00Z
-    webUrl: "https://www.embedded.com/generative-ai-in-factory-automation-and-the-edge/"
-    type: article
-    provider:
-      name: Embedded
-      domain: embedded.com
-    quality: 19
   - title: "Leveraging AI in telecoms to enhance offerings and maximise operations"
     excerpt: "As the use cases and opportunities for AI continue to emerge, there are a host of tech-driven approaches telco leaders can integrate into their operations, utilising software like ChatGPT."
     publishedDateTime: 2023-05-09T11:37:00Z
@@ -170,6 +161,6 @@ related:
       domain: 9to5mac.com
     quality: 15
 
-secured: "ADn2CxYkg/pmYkjnqGJ20sggEniIQyjuk78EqyKWrrumNWrvNbXupbLYV5pjtqS0I9zLCkXsQPAO6YbWqMz7Tf1Olk4Z2Gb1p5KmSaRIuWgVLXVKa5reqsi5Ug+2zfgCOIcbKpXhANoU3H+qDCHdl0dt0YFC1kfxtY/O1eWIn3RN1bqdnUO0vl9wGUd5B72uU7XHKmf5SB9uI3Asvt8s0QuvpMlg0nHNhbi726x1BbQS3oHvxqQcrENdLfYNm2dxf5PMmxP8eA/VqnzHvrHMiPu5Yu2wlnjGMOMVKIoV3bgWblVTI1BGKTLeK5MVFYrdBjpjVxeOGzUedDj3U6Ibjzew5lzdNWYluqV9E8oFXRs=;gk1JGBVEgEaBDm3DlQDTBg=="
+secured: "l+8WxXfmP95+xpw52h4ywn5tFevddhvyht6izHQ2gujNumLlrxkLFCC86lomF/YBOGr4S70ZgF4Pu8s2r44Q1vDi7JrZrq6m6ZmL7XPbOp/FxAhysef9kzZ63P63buIPZo9egfS9+uu2oVG6WLxtLuwCSZnhJU4CfxDa7ZXLmt6J/xfypG0MCP0bjlGpl1ImkCGObZYtq6d/HtXu6bhVU/zFn3WEI7PrO60EL+4H5B3mMxD5laF2J89ZCQYjaZrS7ohNNa1V4zyaDpfL1bxHD49Yk5NjCdoHzTi3SyHN5qyplHvhMm1AjOrjAvfETbU/+bXGnFgYxLd2qTB2836k2DWdA9DnmW22z1g8BgrfL1xy4STtjhPi8ReB2JWyIqmj5IakRY02p+VPJoX32LbOIvRTrFIEkAbjhZENVlH6hjRjnqR2ZOofdMM5iVkOgdS348vILEVeG8691Z9RTFTm45oTY1wbL9sAWLUh0sAOoO31wMZcNnH3qMA9I8YimYg9Q2XB3isd5lFXcBq7dg/Zyg==;KPewUDo6R/SpyQLxbQfGHg=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/erictegler/2023/05/08/for-artificial-in
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/erictegler/2023/05/08/for-artificial-intelligence-to-really-work-the-military-will-need-better-connectivity/amp/"
 type: article
 quality: 79
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -28,17 +28,6 @@ images:
     width: 1200
     height: 746
     isCached: true
-
-related:
-  - title: "Fiction to reality: Exploring the future with AI"
-    excerpt: "There has been no better time to be in the world of AI than now. The advancements in the field today are playing a huge role in shaping the future of business and work. Fiction to reality: Exploring the future with AI."
-    publishedDateTime: 2023-05-08T07:37:00Z
-    webUrl: "https://www.itp.net/emergent-tech/fiction-to-reality-exploring-the-future-with-ai"
-    type: article
-    provider:
-      name: GDPR fines
-      domain: itp.net
-    quality: 21
 
 secured: "uRQ2sFGUBATDqYmFxfQLhmoGQO/gIN96SllZzNSxI8/dSKpSl6qfIte0dz2NmPo/oM00bd3HIS+V6rDnD35GiTXwsmeMiuu+ffBJLBZRm+Ufb9Rw1IpjhkpZ4n5UAZq5duo+zcmGd48RD5xBzj5571KsluFm8bsLlis8XBnpBj7KeGTnlab31oGtDJaxSN0Rg8un6lerab8eYJ6Re8pvCcoFRT/k7loOlpycJS4nbF5F1lF8d6LsCs6TtJEX1KThPRtOUBPoX93gMydP8/azU4tUbl/ZlVw7BqZe/gMZyB1FjZUTw/reM+S+xd60d+DUmR950WrX/rvAWkVgFkkzKGUD98JO3hFI1jELK7A98eWkqchgGJfOAhC+LyZALBsgOvpt4otj+wqbOZ3LW36IQigapeyKoTBMZgF5zV4PO1BrovCv28zRy9e6RJfxl9i+f6caURBTDc1rL5mh9VHocklFDO7X4n9kzsgyNb9N+FVmkqGHLr2reTD8UN05BZ5oTUredxPj680UI8uypbBRSg==;j5Hq/5YHHA2pLvlgd7mCrA=="
 ---

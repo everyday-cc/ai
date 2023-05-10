@@ -41,15 +41,20 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Artificial Intelligence: Fintech Trovata Launches Generative AI Finance, Treasury Tool"
-    excerpt: "Trovata, which claims to be the global \"leader\" in bank APIs, recently announced the first generative AI entrant in the fintech space."
-    publishedDateTime: 2023-05-05T18:52:00Z
-    webUrl: "https://www.crowdfundinsider.com/2023/05/206646-artificial-intelligence-fintech-trovata-launches-generative-ai-finance-treasury-tool/"
+  - title: "4 AI-powered platforms reshaping the Czech FinTech space"
+    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
+    publishedDateTime: 2023-05-10T04:20:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/4-ai-powered-firms-reshaping-the-fintech-space-in-czech-republic/"
     type: article
     provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 41
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 39
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2023/05/Artificial-Intelligence-1.jpg"
+        width: 300
+        height: 300
+        isCached: true
   - title: "4 AI-powered firms reshaping the FinTech space in Czech Republic"
     excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
     publishedDateTime: 2023-05-09T12:02:00Z
@@ -58,6 +63,15 @@ related:
     provider:
       name: IBS
       domain: ibsintelligence.com
+    quality: 19
+  - title: "The Future of Fintech: How AI is Disrupting the Financial Industry"
+    excerpt: "The financial industry is undergoing a significant transformation thanks to the emergence of Artificial Intelligence (AI) and machine learning. On a global scale, the AI-based fintech market experienced growth from $9."
+    publishedDateTime: 2023-05-08T19:03:00Z
+    webUrl: "https://techbullion.com/the-future-of-fintech-how-ai-is-disrupting-the-financial-industry/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
     quality: 19
 
 secured: "rFFRMbcxuG0AQJ9H/6CTjTo3iMw6t17eyEP+2nOUIfNhhAZvs2uvvcZvulFW+OexkpE2wQ7VH0aZr0YlZJDuKEXl+aJUsr7T4D/VO7784XS2HjZVf7PPgQfJpBUVQ0IAlz6AEt69wxdD5NiJUc14VFty33n7q2zN8dHU3YLweastRMmYcr4HEXg35lPw/J04h2oVf13TS4bN1Ybey/9EOFQuXbODdKrEb74Ebd5DMEUkjXha23onH0ncbU2Xecq1Le1Jg95Ew1TLKdl69I1vYn/WVj2i0GbCKADTxqllLpMUQB5vSMBIPq1MSfjUr08ETMUdp0yxOYFh4PoLKL1KGjlys6hqRcVcfB79mzAECMT85UUT84LvPWmNHrgNFIVP/wQJEIQMVylnXEQRGzpy4dCRE8bPbcSA8eW3SXyhEniKZBbqGifVi/aTQEoaHqUlbESI/22j1voQcAFcSsbiqFRn8vI4UEv/G5NUClSFwVeC2DE8e0zmfDPHzT1aWMmMQYBT5g5TPCTpzXvygTip+A==;Xbn5epuiME8ugrKkO3KUDg=="

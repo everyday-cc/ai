@@ -7,7 +7,7 @@ originalUrl: "https://thebrunswicknews.com/news/world_news/spanish-pop-star-c-ta
 webUrl: "https://thebrunswicknews.com/news/world_news/spanish-pop-star-c-tangana-all-i-ever-wanted-was-artistic-recognition-now-i-have/article_fdedb406-75a7-577c-a767-378b59d4fabf.html"
 type: article
 quality: 15
-heat: -1
+heat: 15
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Spanish pop star C. Tangana: 'All I ever wanted was artistic recognition. Now I have it'"
-    excerpt: "Onetime rapper Antón Álvarez Alfaro dramatically revamped his musical palette for 2021's global hit 'El Madrileño.' Next? A reissue of a classic trap mixtape."
-    publishedDateTime: 2023-05-05T17:10:00Z
-    webUrl: "https://www.aol.com/news/spanish-pop-star-c-tangana-130047421.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 15
-    images:
-      - url: "https://media.zenfs.com/en/aol_la_times_articles_830/a0ed2584f63c9bdadd5084b89f5b42ef"
-        width: 840
-        height: 560
-        isCached: true
 
 secured: "ohw6kwh2/tGOcPS6SAi9+aERoHFIs5hYtZvbdqjfwAZX7ZbJnr1NWpgFytPJO+dht4ES90o0VDsjDl+3zCfXGZLbmEaw0n4rZ8GhwrrJMuX/wSVKUSnri6jZDq1IZ1bVNBnNxX65A7OfW+Wjsrjxxs7h9RjKYG7AZLAz0E8B+FLeG8JC80yP+FntT8/G6zVe9IFXxUkj56RmXSGSyPIR0847ULrOuJAyJA4RaY40HvFIINinP9gZoJIUotaNVdT5Gnna6bSzywm8gwqwr2f4q9Z3sEfMDoYWiqJAU0BZUUZBNmTZMOAWvXPSp48/CMfFOi+P7GSY2Be+chWbWwtajz6ihCul0W9jD/cdKsghgTuxJGDFx8xCzF0vTirxcgo8MWyv2UkjgXyJvs1kcZnbvojGhF1XqyZjwgL8NjaJ5+x/8+MxaBbuJFQsZXKM/cW1z/xhTqIcsajCtAqvs3YJgM/tNsL3ZsyJ2HN5TUKjZvEEMV+bmm0gDFFPWeeLPNXZPcu4e/QbsrXbjYhqM/SN4w==;PNQpivNlK/IjfpGpwOHnmw=="
 ---

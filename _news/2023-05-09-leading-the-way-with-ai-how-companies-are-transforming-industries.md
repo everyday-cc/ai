@@ -49,6 +49,20 @@ related:
         width: 1280
         height: 670
         isCached: true
+  - title: "IBM launches new artificial intelligence and data platform"
+    excerpt: "Watsonx could bring AI to more businesses IBM on Tuesday launched watsonx, a new artificial intelligence and data platform to help companies integrate AI in their business. The new AI platform launch comes over a decade after IBM's software called Watson got attention for winning the game show"
+    publishedDateTime: 2023-05-10T10:45:00Z
+    webUrl: "https://www.fudzilla.com/news/ai/56864-ibm-launches-new-artificial-intelligence-and-data-platform"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 39
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/03b0c7c9f5df286e08481de191753cce_L.jpg"
+        width: 620
+        height: 465
+        isCached: true
   - title: "IBM to pause hiring for jobs that AI could do"
     excerpt: "International Business Machines Corp. Chief Executive Officer Arvind Krishna said the company expects to pause hiring for roles it thinks could be replaced with artificial intelligence in the coming years."
     publishedDateTime: 2023-05-05T21:34:00Z

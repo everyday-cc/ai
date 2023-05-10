@@ -22,21 +22,21 @@ topics:
   - AI
 
 related:
-  - title: "ChatGPT and Generative AI in Payments: Reality, Hype, What's Next, and How to Prepare"
-    excerpt: "ChatGPT is the most talked-about technology of 2023 and has caught the attention of payments services providers."
-    publishedDateTime: 2023-05-05T18:00:00Z
-    webUrl: "https://www.businessinsider.com/chatgpt-and-generative-ai-in-payments-hype-how-to-prepare-2023-may"
-    ampWebUrl: "https://www.businessinsider.com/chatgpt-and-generative-ai-in-payments-hype-how-to-prepare-2023-may?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-and-generative-ai-in-payments-hype-how-to-prepare-2023-may?amp"
+  - title: "The Crucial Ways That Religion And Generative AI ChatGPT Are Crossing Fateful Faithful Paths"
+    excerpt: "Religion and generative AI such as ChatGPT are crossing paths, here's a comprehensive look at this fateful faithful intertwining, including upsides and downsides."
+    publishedDateTime: 2023-05-10T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/05/10/the-crucial-ways-that-religion-and-generative-ai-chatgpt-are-crossing-fateful-faithful-paths/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/05/10/the-crucial-ways-that-religion-and-generative-ai-chatgpt-are-crossing-fateful-faithful-paths/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/05/10/the-crucial-ways-that-religion-and-generative-ai-chatgpt-are-crossing-fateful-faithful-paths/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 80
+      name: Forbes
+      domain: forbes.com
+    quality: 78
     images:
-      - url: "https://i.insider.com/64414647632fda001803ccf4?width=1200&format=jpeg"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64591690fd83c13dff9c02fa/0x0.jpg?format=jpg&crop=3240,2160,x432,y0,safe&width=1200"
         width: 1200
-        height: 900
+        height: 800
         isCached: true
   - title: "ChatGPT and the new AI are wreaking havoc on cybersecurity in exciting and frightening ways"
     excerpt: "Unrestrained by ethics or law, cybercriminals are racing to use AI to find innovative new hacks, says Recorded Future CEO Christopher Ahlberg."
@@ -70,19 +70,19 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Gartner: ChatGPT has prompted increase in AI investments"
-    excerpt: "A Gartner poll shows that 45% reported that the publicity of ChatGPT has prompted them to increase AI investments."
-    publishedDateTime: 2023-05-07T23:30:00Z
-    webUrl: "https://techwireasia.com/2023/05/gartner-chatgpt-has-prompted-increase-in-ai-investments/"
+  - title: "Pearson Outlines AI Plans After ChatGPT Share Price Jitters"
+    excerpt: "Education publisher Pearson Plc is outlining how it’s integrating artificial intelligence across its operations a week after its shares fell over fears that AI tools such as ChatGPT will undermine its business."
+    publishedDateTime: 2023-05-09T08:49:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-05-09/pearson-outlines-ai-plans-after-chatgpt-share-price-jitters"
     type: article
     provider:
-      name: techwireasia.com
-      domain: techwireasia.com
-    quality: 39
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 67
     images:
-      - url: "https://cdn.techwireasia.com/wp-content/uploads/2023/05/shutterstock_2261871805-897x500.jpg"
-        width: 897
-        height: 500
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ihlllbzYnWLY/v0/1200x800.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "UAE: New Chatgpt AI Assistant To Help Plan Visits To Yas Island"
     excerpt: "Visitors to Abu Dhabi's Yas Island can now get personalised guidance and information about the latest offerings through an AI assistant. Miral, the leading creator of immersive destinations and experiences based in Abu Dhabi,"
@@ -112,6 +112,20 @@ related:
         width: 942
         height: 630
         isCached: true
+  - title: "AI ChatGPT creates rap for Warriors vs. Lakers playoffs"
+    excerpt: "ChatGPT is what most people are either talking about most of these days or even experimenting with. The KPIX morning team tested the feature by getting AI to become a Warriors fan. (05/05/2023)"
+    publishedDateTime: 2023-05-05T19:42:00Z
+    webUrl: "https://www.cbsnews.com/sanfrancisco/video/ai-chatgpt-creates-rap-for-warriors-vs-lakers-playoffs/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 37
+    images:
+      - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/05/05/5bbac4b0-a433-4855-bdf9-7b9c0bdeab1a/thumbnail/1200x630/fbafe097c79e45cf7a745903b439427a/df287121c4263b21552fa7ddab43f411.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "I asked AI bot ChatGPT to write a column on happiness. Here’s what happened next"
     excerpt: "I had to find out for myself. So I conducted a little experiment. I asked ChatGPT to write an article for me. I submitted the prompt, “Write a 500-word column on happiness.” That’s a broad, overworked topic,"
     publishedDateTime: 2023-05-08T21:21:00Z
@@ -126,6 +140,20 @@ related:
         width: 1140
         height: 759
         isCached: true
+  - title: "Torah is the anti-ChatGPT. But we can embrace artificial intelligence without losing our soul."
+    excerpt: "I recently asked ChatGPT, the online chatbot, to write a verse in the style of the Bible about robots taking over the world."
+    publishedDateTime: 2023-05-08T17:43:00Z
+    webUrl: "https://www.jewishaz.com/opinion/torah-is-the-anti-chatgpt-but-we-can-embrace-artificial-intelligence-without-losing-our-soul/article_9fbb6fd6-edc7-11ed-91cd-2bcf69a3d42b.html"
+    type: article
+    provider:
+      name: Northern Arizona Jewish News
+      domain: jewishaz.com
+    quality: 27
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/jewishaz.com/content/tncms/assets/v3/editorial/2/eb/2eb5d1d6-edc8-11ed-9209-b32e3208dd0a/645935bcdbcea.image.jpg?crop=1931%2C1014%2C0%2C29&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "ChatGPT May Have a Big Role in Healthcare"
     excerpt: "If the results of a recent study are any indication, ChatGPT may soon be professionally responding to patients’ written health-related questions. Virtual healthcare drastically expanded during t"
     publishedDateTime: 2023-05-09T05:00:00Z
@@ -135,15 +163,6 @@ related:
       name: RealClearScience
       domain: realclearscience.com
     quality: 19
-  - title: "In 30 secs, ChatGPT produces 643 words on India and AI; Edge manages just 143"
-    excerpt: "In the IANS New York office, we have been experimenting with chatbots and one of the tasks we set for the two as a test was to \"write a report"
-    publishedDateTime: 2023-05-08T12:55:00Z
-    webUrl: "https://glamsham.com/world/health-lifestyle/in-30-secs-chatgpt-produces-643-words-on-india-and-ai-edge-manages-just-143"
-    type: article
-    provider:
-      name: glamsham.com
-      domain: glamsham.com
-    quality: 16
 
 secured: "+/a977Zu0vX1rfWL8AE1GgVTL4wz+lKCPd1DN+v7e1S9i5kdVSQaCtbSgx2BJbE0jTQOakEBOM246qaBkugx39JkfvPg/4JZGBx/G0BkP4DCXLO67V36a1YAECdy8FUxZ40pS4i3uDYvaDT8kHndUwSCrolwtDOJ24ar8AWb1XDNd14JBmfcLLEGMLIAGWYlEKg6tQaxvrMrM/UepGOAiI58fPfwDOi4gxCU4V9fuV4lVcc6g4zhpkb0PyYuYlzkLoVA93ahbjzmK92F+5JQIzc2tAmqKMqfhyhwvobflPeBFvawTDG7rsF88cNVg58Q9AB7cW9XSMguqk4p2MkpA0EZ8Pn0azGffTDy+nJM8jpuDnH2HJRyMn/k+UvGB4GnazrGGoIeSRvoQzxIJtmZR1BOKw5CzLolnb2lSWFDzEvZAfCLpgsM+oYR8ZxrkST2vnJxe/sQCZdaL2D0yPGeVYvL8Op3WE9+bxWaRz/Fl3HvbagbcX+O1FWnrGTZ04VqlCRPq3TuZuve7NMT51XGhA==;6vr2U/mlY6ejU2PM8OTRfw=="
 ---

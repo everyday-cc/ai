@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "Why AI-Powered Customer Service And Support Are Crucial In 2023"
+    excerpt: "The main goal of AI customer service is to automate processes to improve efficiencies and lower overhead costs."
+    publishedDateTime: 2023-05-10T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/05/10/why-ai-powered-customer-service-and-support-are-crucial-in-2023/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/05/10/why-ai-powered-customer-service-and-support-are-crucial-in-2023/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/05/10/why-ai-powered-customer-service-and-support-are-crucial-in-2023/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6419b0105b9a2d1bc30aff98/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Why generative AI is the finance industry’s road to superior customer service"
     excerpt: "Delivering a premium customer experience has always been essential to financial services. But in today’s rapidly changing environment, financial institutions need to do more than maintain the experiences they’ve developed."
     publishedDateTime: 2023-05-08T15:38:00Z
@@ -42,29 +58,15 @@ related:
         width: 1200
         height: 633
         isCached: true
-  - title: "Learning from the Past: Why Dismissing Generative AI Is a Risky Proposition for the Legal Industry"
-    excerpt: "While reflecting before moving forward with transformative technology is prudent, we should not allow resistance to change to exert undue influence on the decision to explore the benefits generative AI brings to the legal field."
-    publishedDateTime: 2023-05-09T22:35:00Z
-    webUrl: "https://www.law.com/legaltechnews/2023/05/09/learning-from-the-past-why-dismissing-generative-ai-is-a-risky-proposition-for-the-legal-industry/"
+  - title: "3 AI Stocks That Are Poised to Explode in 2023"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial Intelligence (or AI) is the latest and greatest buzzword on Wall"
+    publishedDateTime: 2023-05-09T15:38:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-ai-stocks-that-are-poised-to-explode-in-2023-1032307806"
     type: article
     provider:
-      name: Law
-      domain: law.com
-    quality: 25
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/05/AI-future-technologie-767x633.jpg"
-        width: 767
-        height: 633
-        isCached: true
-  - title: "The Future of Fintech: How AI is Disrupting the Financial Industry"
-    excerpt: "The financial industry is undergoing a significant transformation thanks to the emergence of Artificial Intelligence (AI) and machine learning. On a global scale, the AI-based fintech market experienced growth from $9."
-    publishedDateTime: 2023-05-08T19:03:00Z
-    webUrl: "https://techbullion.com/the-future-of-fintech-how-ai-is-disrupting-the-financial-industry/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 19
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
 
 secured: "uv20GA6SrmahgZrP8aV098mZtlgz45wSl6piiAmZ5pbMHvKNCp+7tZ4Q6bduSBelf3gMyRrw988bi4otCH66KzDPk4IBMMBRL+6Bu9e4K1YrLtPeuZwxd0IYqVv9M6KbZJXjFZF+8Rht4AdRdf38/uipkvCMZ1SjZaNA/GwlP1PSBvJG3K3kgQk+k0uevxlbn3E0F+ijsJpwGEuSpo5X/kc3+WqBbIxt2Srl3FHSiahH5e0G3B+c8J0CTOn0a7W5srS6OfL03yo8kyNK5SffHkA97GmzAUj0qqu6EkePromLf/qkNq/DOuxgMB5yeaBS1UIhkRDDxnjjT58i44z7pweYith0oEsqotEuQZ4teWAskoYdBNQQ7iwGCNPo9P2pNCzMI2rg0k8Pq9QNgkEND+pydgRyROPFJ8zK1KxjEsA2BkZwJuulwOdH3z8fl1oWq8qOJ3k34KfC8OasvmhK5SSklD1baz9M2AEaflS/dGwCiUg+CaXOODfPDH+oftuPB6fp+vB862sRyhPafxt0nw==;Iu5OuoI01JuUMytQ3N22Vg=="
 ---

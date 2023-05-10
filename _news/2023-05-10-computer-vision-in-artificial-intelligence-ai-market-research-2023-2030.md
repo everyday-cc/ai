@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/computer-vision-in-artif
 webUrl: "https://www.marketwatch.com/press-release/computer-vision-in-artificial-intelligence-ai-market-research-2023-2030-2023-05-09"
 type: article
 quality: 97
-heat: 307
+heat: 317
 published: true
 
 provider:
@@ -75,6 +75,20 @@ related:
     excerpt: "Research Reports has published a new report titled as \"Artificial Intelligence (AI) in Automotive Market\" by End"
     publishedDateTime: 2023-05-08T05:30:00Z
     webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-automotive-market-2023-05-08"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 82
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence (AI) in Mining Market Till 2030"
+    excerpt: "Precision Reports has published a new report titled as \"Artificial Intelligence (AI) in Mining Market\" by End User"
+    publishedDateTime: 2023-05-10T09:42:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-mining-market-till-2030-2023-05-10"
     type: article
     provider:
       name: MarketWatch

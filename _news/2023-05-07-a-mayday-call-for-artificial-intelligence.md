@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/a-mayday-call-for-artificial-intelligence
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/a-mayday-call-for-artificial-intelligence/amp/"
 type: article
 quality: 91
-heat: 141
+heat: 131
 published: true
 
 provider:
@@ -83,15 +83,6 @@ related:
         width: 600
         height: 324
         isCached: true
-  - title: "How AI Built This"
-    excerpt: "The Information has a simple mission: deliver important, deeply reported stories about the technology business you won’t find elsewhere. Many of the most influential people in the industry turn to us for fresh information and original insight."
-    publishedDateTime: 2023-05-05T18:43:00Z
-    webUrl: "https://www.theinformation.com/features/how-ai-built-this"
-    type: article
-    provider:
-      name: The Information
-      domain: theinformation.com
-    quality: 17
 
 secured: "E2487Ms5UexciQ6DDPND7IGIGQi0hjljB2JCNWdXKdQdGG4wAB9ZrOGAVdU4EA0KQRP3zz9nl5sIEp3QhoVxY7AlOCGGktCxgkw/JMS+fMp0z04V+gUFS1EV98O4ZJgms+/fR/72c72XV1xOYaV2Tvrc36mQI6I1a2qG20NKU+ZNMPvizScsYggCxi0Z4TC9BIYYrubhVFvIKvGI3yEN1gSdlgTbaaAxi5zvUYzn5w3udN/HGFxnWQPRpCWSt0r83psxgKqParFrUFY1FlBQSfGGJJqC/ETcFaSyWdZw1ZOGthHs9z4LmI0qH1gtsmkBoMC312o8sXHcRTzMCN0got03vcj9TzdWRsGjlFnVutNfwqLMkPooA5oE+kaQ8TvPAJjrNF4n7hpqyB7hdD8dvh+IzxJ0WwS19XZ5ycad0YdSJYxBZMnIAbgMRqsEWHqoFh6Gl5Uto/4NL3vmXkRPY2OqfjrXzHTZvzWhLsmEgwhWeYbEPyNn4mcHByFi6V04DHIYEsIZFIemzvlin4jDTQ==;SqZkQsPcWteXloNfn20BbA=="
 ---

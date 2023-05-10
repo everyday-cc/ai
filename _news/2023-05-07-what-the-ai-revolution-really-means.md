@@ -23,22 +23,31 @@ topics:
   - AI
 
 related:
-  - title: "Adapt Or Die: 3 Things Businesses Must Do To Avoid Becoming Irrelevant In The AI Revolution"
-    excerpt: "In 2020, pivoting was necessary in order to survive. In 2023 it's no different. Use this AI revolution to become a creator and a leader, instead of just an observer and user."
-    publishedDateTime: 2023-05-10T07:15:00Z
-    webUrl: "https://www.forbes.com/sites/jodiecook/2023/05/10/adapt-or-die-3-things-businesses-must-do-to-avoid-becoming-irrelevant-in-the-ai-revolution/"
-    ampWebUrl: "https://www.forbes.com/sites/jodiecook/2023/05/10/adapt-or-die-3-things-businesses-must-do-to-avoid-becoming-irrelevant-in-the-ai-revolution/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jodiecook/2023/05/10/adapt-or-die-3-things-businesses-must-do-to-avoid-becoming-irrelevant-in-the-ai-revolution/amp/"
+  - title: "The AI Revolution Transforming Hybrid And Remote Work And The Return To Office"
+    excerpt: "With the advent of generative AI like ChatGPT, we are on the cusp of realizing the full potential of remote and hybrid work by reducing - while not eliminating - the benefits of office visits."
+    publishedDateTime: 2023-05-09T14:47:00Z
+    webUrl: "https://www.forbes.com/sites/glebtsipursky/2023/05/09/the-ai-revolution-transforming-hybrid-and-remote-work-and-the-return-to-office/"
+    ampWebUrl: "https://www.forbes.com/sites/glebtsipursky/2023/05/09/the-ai-revolution-transforming-hybrid-and-remote-work-and-the-return-to-office/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glebtsipursky/2023/05/09/the-ai-revolution-transforming-hybrid-and-remote-work-and-the-return-to-office/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 77
+    quality: 85
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/645b1755cf61fa38f12796dd/0x0.jpg?format=jpg&crop=3096,1741,x0,y60,safe&width=1200"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/645a5c605e5c27c4782796df/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 675
+        height: 800
         isCached: true
+  - title: "Fiction to reality: Exploring the future with AI"
+    excerpt: "There has been no better time to be in the world of AI than now. The advancements in the field today are playing a huge role in shaping the future of business and work. Fiction to reality: Exploring the future with AI."
+    publishedDateTime: 2023-05-08T07:37:00Z
+    webUrl: "https://www.itp.net/emergent-tech/fiction-to-reality-exploring-the-future-with-ai"
+    type: article
+    provider:
+      name: GDPR fines
+      domain: itp.net
+    quality: 21
 
 secured: "Vf7mi618vzSQoWK4h2LUxPzs3PkthVBKUl3wN82HfMBLwEc0UFd3rFf8DBUhcy7mZ68jGYZsCw8wtsS5cMnGPXQmtBjPUbogrILRFxs6aGvHLqhZu6EQNtjaTn+793Vc39c3QebigA2pPoLT4eotZ0kev4cgqKTqG9jxECFzVCBDSwwEFB1HMU5MODuvDQq+dZguOezK3+NSaA5NWGRs0IqP6VNjd7rCGuP3TZpOHib3I95RjaVdN5BO4uLEm1YmVVqAxbNvyRXgrV10eX4/s6lc0xjFd5upiPykH35edwv78pNVH3Pb+cW4m7bEOsWMRHNkSyC37EnZ1dlKRWwnpi4DpBhP8+lMctGCxBHeHVI=;2MlXuw1aRAUrUxVEi+9avA=="
 ---

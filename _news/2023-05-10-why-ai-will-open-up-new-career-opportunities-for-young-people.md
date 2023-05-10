@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/markcperna/2023/05/09/why-ai-will-open-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markcperna/2023/05/09/why-ai-will-open-up-new-career-opportunities-for-young-people/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
     quality: 87
     images:
       - url: "https://www.cnet.com/a/img/resize/1f6136a4c93febafe5d0fe34faaa4036182277d0/hub/2023/05/09/a1f73cab-fdc7-41c2-83eb-cefaaec8c19c/gettyimages-1423387361.jpg?auto=webp&fit=crop&height=630&width=1200"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence Delivery Robot Market Detect New Industry Opportumities 2023-2030"
+    excerpt: "Global Artificial Intelligence Delivery Robot Market report provides valuable insights on the global market for the"
+    publishedDateTime: 2023-05-10T09:40:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-delivery-robot-market-detect-new-industry-opportumities-2023-2030-2023-05-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 75
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true

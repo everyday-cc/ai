@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/host-ml-models-on-am
 webUrl: "https://aws.amazon.com/blogs/machine-learning/host-ml-models-on-amazon-sagemaker-using-triton-tensorrt-models/"
 type: article
 quality: 106
-heat: 136
+heat: 146
 published: true
 
 provider:
@@ -71,6 +71,20 @@ related:
       - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/05/04/ML-12808-image001-689x630.png"
         width: 689
         height: 630
+        isCached: true
+  - title: "Schedule your notebooks from any JupyterLab environment using the Amazon SageMaker JupyterLab extension"
+    excerpt: "Jupyter notebooks are highly favored by data scientists for their ability to interactively process data, build ML models, and test these models by making inferences on data. However, there are scenarios in which data scientists may prefer to transition from interactive development on notebooks to batch"
+    publishedDateTime: 2023-05-10T11:53:50Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/schedule-your-notebooks-from-any-jupyterlab-environment-using-the-amazon-sagemaker-jupyterlab-extension/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 73
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/05/09/jupyter-scheduling-1260x626.jpg"
+        width: 1260
+        height: 626
         isCached: true
 
 secured: "DX2uY657oD+aKBKwlenJ/mlXYHFZ46STRghIWx1UFqPXy7UYKVpDB6jMeJ6WfVXfMgUAiHbRtjwhjXsrvHrngDzEM+3duj0YgIlDVC2dBWvS/UXFE+A/6xC68a0u3525uMF/6Y/IGacT+UlVKU9QvxpIyrmVSs/j6/pon+lPPA54UO1umUavcx+eY8UPSqQP8zubEGVMtaowatSX9umSdTbwLCuQujjlOTnr4welANZil2YGr7jo+K5dNS496FlPXuWjiUUrRS+tY9VqWRDwmlsosc2fuDD3t8+kze+VfTxwtlRlum40tFi5tIQ3uhdEaV/rVhZSLKvH/3FdiLZOjQNxt5gB3HbMLo0uyivFjVo=;2HQBxx/zkqrItpMrfApRzw=="

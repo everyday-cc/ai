@@ -3,8 +3,8 @@ category: news
 title: "AI will create ‘a serious number of losers’, DeepMind co-founder warns"
 excerpt: "Advances in artificial intelligence will threaten white-collar workers and create “a serious number of losers” over the next decade, according to one of the co-founders of AI lab DeepMind who has pioneered the technology."
 publishedDateTime: 2023-05-09T21:05:00Z
-originalUrl: "https://www.ft.com/content/0c105d93-e017-470d-8653-a2a30fd720b2?shareType=nongift"
-webUrl: "https://www.ft.com/content/0c105d93-e017-470d-8653-a2a30fd720b2?shareType=nongift"
+originalUrl: "https://www.ft.com/content/0c105d93-e017-470d-8653-a2a30fd720b2"
+webUrl: "https://www.ft.com/content/0c105d93-e017-470d-8653-a2a30fd720b2"
 type: article
 quality: 34
 heat: -1
@@ -47,7 +47,16 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "AI will create ‘a serious number of losers’, warns DeepMind co-founder"
+    excerpt: "Advances in artificial intelligence will threaten white-collar workers and create “a serious number of losers” over the next decade, according to one of the co-founders of AI lab DeepMind who has pioneered the technology."
+    publishedDateTime: 2023-05-09T21:05:00Z
+    webUrl: "https://www.ft.com/content/0c105d93-e017-470d-8653-a2a30fd720b2?shareType=nongift"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 34
 
-secured: "Z713iS7LtbKC0A9Evxxhe9KwW22HGPQAQu+SjHrkBidX4x/VV9z5ses/MpOReg2atA2CXqssFxL7tQoNMJHBTqxV8v+CAUT1k/g884s9pi6wXCgCpsB5miWA4N3XW+/R4tAe7/74IZb+oVHlVVVulds5u9dEaW4MPaxJTZKSFwm53a3WpDbdS6FJE7EC7yzp4sUGxyrrBsG7DJMZiIf2Lh46Xli27Y4kVhLNhn+DtNtaLzAebNGO4sVEj+LOlIHtzu+QWS95xZ78lE1WmQNW0uNxPMdyOCTfBDVneXdeeI3uXE28dPP/Bl1fcMpoC70shk0rpqUqqawVq/Km2SgmoSSGFkvUn+B/bIsqV0cBxPV+OSaI2N4yfzxa46GTJcyg1vuuzlE9b4FaS4De72Fy0eG7DHMPAPv2YZu0E16bjDZsRpsXgZqb1yOPCT/uNAJz9GiuUMrgvZ4S32AqYmGxL+uTBpa90Dc3TLsEt2qRRBLSdjsVCgdcpLGrzUlp9Q73OcgPSApCaRox6wAB7QcQbQ==;rhzs5H5Ruv8oi65U/ue0Dw=="
+secured: "PZgWFLrvY8FoZ94EqZBE23bDovcUVZB8yAm8hDgo3+gPzZUOQ468unqsF39BH/M5uPomdlgDWJ+JUg7qpF+oCoZxMASBEsevxCmagDOm66jpE5BByxDeWpboIv/0rRt01HfHysVEpk8xoLKiWE3XUM89EP+jqLvvNkg7FHj0dd2vI7W2WKPKGUkr8m8jUgoUPe8MfY9I+qUNXrbub4HtZqZhtdRbgBaDKAWXpiBORMiYEfYvJyXwnGASYA6DJCLQh+ucVd7zTZcUNmLU1TwrYcycv1G0Uja9A4iPo+HRtJSLxCakawXfRrmeNqUk8iiWAoKH0TDqvVqFFCxDyYErxvfuSbcJ/Nghet9Tcerc0TM=;BgJ+lWm4rmPZ4Dtkxc3AFQ=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/article/white-house-harness-ai/amp/"
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/white-house-harness-ai/amp/"
 type: article
 quality: 90
-heat: 100
+heat: 110
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI could cause patients harm as a result of bias and errors, health experts say"
+    excerpt: "Health professionals said that while healthcare could benefit from AI, the technology \"also has the potential to produce negative health impacts.\""
+    publishedDateTime: 2023-05-10T11:15:00Z
+    webUrl: "https://www.businessinsider.com/ai-harm-human-health-public-health-experts-2023-5"
+    ampWebUrl: "https://www.businessinsider.com/ai-harm-human-health-public-health-experts-2023-5?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-harm-human-health-public-health-experts-2023-5?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 83
+    images:
+      - url: "https://i.insider.com/645b62bd65a21600192fe28a?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "8 Questions About Using AI Responsibly, Answered"
     excerpt: "Generative AI tools are poised to change the way every business operates. As your own organization begins strategizing which to use, and how, operational and ethical considerations are inevitable. This article delves into eight of them,"
     publishedDateTime: 2023-05-09T17:01:00Z

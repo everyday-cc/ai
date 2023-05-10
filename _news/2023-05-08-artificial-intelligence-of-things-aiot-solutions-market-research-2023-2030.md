@@ -99,6 +99,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) in Mining Market Till 2030"
+    excerpt: "Precision Reports has published a new report titled as \"Artificial Intelligence (AI) in Mining Market\" by End User"
+    publishedDateTime: 2023-05-10T09:42:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-mining-market-till-2030-2023-05-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 82
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence (AI) Chips Market, 2030"
     excerpt: "Research Reports has published a new report titled as \" Artificial Intelligence (AI) Chips Market \" by End User ( Electronics, Automotive, Consumer Goods ), Types ( GPU, ASIC, FPGA, CPU ), Region and Global Forecast to 2023-2030 - Executive Data Report."
     publishedDateTime: 2023-05-08T00:39:00Z

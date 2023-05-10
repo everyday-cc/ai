@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/jodiecook/2023/05/10/adapt-or-die-3-thi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jodiecook/2023/05/10/adapt-or-die-3-things-businesses-must-do-to-avoid-becoming-irrelevant-in-the-ai-revolution/amp/"
 type: article
 quality: 77
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -28,17 +28,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "What the AI Revolution Really Means"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial intelligence – or AI – is the newest megatrend to burst"
-    publishedDateTime: 2023-05-06T19:01:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ai-is-bringing-a-profitable-revolution-to-all-sectors-1032299076"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
 
 secured: "DJmZHccfk9L+aBBmYIWSPBmaov4Zf5yW6soxlZqEMwQFO5qcTMtvu/3TrEuGZup0WUKrp7Tj5u2v2inMUeCMb4GTOf+dKejioizSAiEJLQlxZ9OTtXzNNBqk+vRM+ULqMtHhe7EXvf6qYtdVcVFAYQ11qq/+9kNsfI/gCPDQ1gHcVxk1IePrLbv4Y4Srw9Aktw+LaWOzU2m+DdVvhSBE6WvxUN2RbgYjKINbIBB79GZQWtlDBrt3pcbR9ZQcJ812G8G2PIfMoFWNL3JADUizG8UThxBAdZEnBnxY9VHITg7eON63w/L3FNUvPBt9FaZ8/9ZdtPqkDGOI+30UPV5/l5sk66N/C18OfaSQT/95jKGM8HOwM3N5HzsOzTh81pgdiIJrjUwKYAJjztLOTZOsHHMMtmSO4Mn3kyS9bGVjOOb6QdLHpfLZKYf3xJVbumFl4yDkjzGbKb/iOqicVJtGAojj2Zy9qBMSnhq2ME7AvnL652Iiha8vdfKzBG9lhv2IfhjtSl5uyw9ROzyC1wIqdg==;4HzaUXTNVy7OOSxnCLWJuA=="
 ---

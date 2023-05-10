@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/the-risks-and-limitations-of-ai-in-insura
 webUrl: "https://www.ibm.com/blog/the-risks-and-limitations-of-ai-in-insurance/"
 type: article
 quality: 99
-heat: 209
+heat: 199
 published: true
 
 provider:
@@ -145,15 +145,6 @@ related:
         width: 619
         height: 377
         isCached: true
-  - title: "Generative AI in factory automation and the edge"
-    excerpt: "Siemens and Microsoft: generative AI in factory automation and at the edge In factory automation Siemens and Microsoft recently demonstrated how with the combination of Microsoft Azure machine learning and Siemens’ industrial edge, images captured by ..."
-    publishedDateTime: 2023-05-05T18:09:00Z
-    webUrl: "https://www.embedded.com/generative-ai-in-factory-automation-and-the-edge/"
-    type: article
-    provider:
-      name: Embedded
-      domain: embedded.com
-    quality: 19
   - title: "Leveraging AI in telecoms to enhance offerings and maximise operations"
     excerpt: "As the use cases and opportunities for AI continue to emerge, there are a host of tech-driven approaches telco leaders can integrate into their operations, utilising software like ChatGPT."
     publishedDateTime: 2023-05-09T11:37:00Z

@@ -46,6 +46,20 @@ related:
         width: 1200
         height: 749
         isCached: true
+  - title: "Artificial Intelligence Delivery Robot Market Detect New Industry Opportumities 2023-2030"
+    excerpt: "Global Artificial Intelligence Delivery Robot Market report provides valuable insights on the global market for the"
+    publishedDateTime: 2023-05-10T09:40:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-delivery-robot-market-detect-new-industry-opportumities-2023-2030-2023-05-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 75
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "CvAatIjGmLizhLbfSBtiT5IKDgDVQlM7IE3pZItcgLoLXtXYXxNYrdFpOH8m0R+B7zQB2RUjYBRtD9HFUvn3kk8TL+Uq9FKxj0wEiSwe5QBEv3YJH/jIcNNPsFm+U6dwZHbCO7sBNwkYJoEKi0PDk/h7nIVCfNqHBTG5hUOsXJKKzg4uxQE69qumL74drG85rK4/5qH3XYNyQO7sDimsLuQmw6qmth1LSrHOms7oz/pRhH7WsSXncW8lsP3edhpSURjospUTf989cznk1dFoW9uJ6fArvQxzfAn5G7xz+xzLUBUN5LQMLeCKu4Yy3q0Yzqs1k275ubK/dA0NWYQAOtrpFuIQj4FP2YOw1+ySd+I=;Zi88lp1E0XvWHWbhFoGyOQ=="
 ---

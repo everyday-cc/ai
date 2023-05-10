@@ -9,7 +9,7 @@ ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/google-ibm-to-tesla-ho
 cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/google-ibm-to-tesla-how-these-companies-are-using-ai-to-transform-work-71683530733850.html"
 type: article
 quality: 75
-heat: 105
+heat: 115
 published: true
 
 provider:
@@ -41,6 +41,20 @@ related:
       - url: "https://media.wired.com/photos/6455349e6279e36472844413/191:100/w_1280,c_limit/Cochlear-and-Google-Partner-to-Improve-Hearing-Technology-Gear.jpg"
         width: 1280
         height: 670
+        isCached: true
+  - title: "IBM launches new artificial intelligence and data platform"
+    excerpt: "Watsonx could bring AI to more businesses IBM on Tuesday launched watsonx, a new artificial intelligence and data platform to help companies integrate AI in their business. The new AI platform launch comes over a decade after IBM's software called Watson got attention for winning the game show"
+    publishedDateTime: 2023-05-10T10:45:00Z
+    webUrl: "https://www.fudzilla.com/news/ai/56864-ibm-launches-new-artificial-intelligence-and-data-platform"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 39
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/03b0c7c9f5df286e08481de191753cce_L.jpg"
+        width: 620
+        height: 465
         isCached: true
   - title: "IBM to pause hiring for jobs that AI could do"
     excerpt: "International Business Machines Corp. Chief Executive Officer Arvind Krishna said the company expects to pause hiring for roles it thinks could be replaced with artificial intelligence in the coming years."

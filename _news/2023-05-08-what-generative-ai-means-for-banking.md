@@ -80,15 +80,6 @@ related:
         width: 600
         height: 324
         isCached: true
-  - title: "How AI Built This"
-    excerpt: "The Information has a simple mission: deliver important, deeply reported stories about the technology business you won’t find elsewhere. Many of the most influential people in the industry turn to us for fresh information and original insight."
-    publishedDateTime: 2023-05-05T18:43:00Z
-    webUrl: "https://www.theinformation.com/features/how-ai-built-this"
-    type: article
-    provider:
-      name: The Information
-      domain: theinformation.com
-    quality: 17
 
 secured: "uUzml7J+ySZM7C+1z5twmVWM3DSkiAQV+bRY+h6XNfph4ApleN4wDpzJqpiF/bfSILFlbNXMFoOdF2cecBInUjPzGkUocWlBURUkT967EyplSGVeMCXgtULfbCvTgRgtN6Y2HLnqadJPKQDnXIApdktNOqKroEjRioHj7EwUv9Lj6280Enk/G3fUIcNYm0AahjY1U5s1Itea8fc2As3UzV5sFfAKFQ+hfGWZBhPEg4vAQ662Z6BmGE11fmdrzH18wSjRbKka/XQb25TeWyzANMO9x6m2qsI8QMBst3L+EFK94Fh9dFS2lbAZLuhloHXMxA2ZP9T+GyMPNHcgUlXjmwL14hmbCN8sH1QzQ2jdXKMb7EAhLVwQUwRMGiZ7wuLgdkmVla+IikkeYsNQ6QbD1696YCc3fXmb0GE89HPTtTLlNpm+dSBcJFc9uH1/FdzL7giK1wW/hYsRvlV5LQN/aEU5LJy70gKzTOgxdRhpQqt/8l3gdVYemVz79HsP1rZ0c8YHq7FOt6yx/3nTM9rBAQ==;0tyvSpoLwE6I8gf/IAtsZg=="
 ---

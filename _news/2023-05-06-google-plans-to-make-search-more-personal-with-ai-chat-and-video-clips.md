@@ -56,6 +56,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "A case against banning TikTok. A US national strategy for AI."
+    excerpt: "These steps build on the Administration’s strong record of leadership to ensure technology improves the lives of the American people, and break new ground in the federal government’s ongoing effort… National Standards Strategy for Critical and Emerging Technology (Record) The Biden administration's National Standards Strategy for Critical and Emerging Technology is intended to help set global rules to ensure tech is \"universally safe and interoperable."
+    publishedDateTime: 2023-05-05T19:45:00Z
+    webUrl: "https://thecyberwire.com/newsletters/policy-briefing/5/87"
+    type: article
+    provider:
+      name: Cyber Wire
+      domain: thecyberwire.com
+    quality: 39
+    images:
+      - url: "https://thecyberwire.com/images/social-media/policy-briefing/2023/Policy-23-050523.jpg"
+        width: 2640
+        height: 1320
+        isCached: true
 
 secured: "NQLKeqvpy1QyCmb2VtjyjZbcpVYGXriteiS4vy5MNHt/OBFQ6Xoal1Y6nQXmFLHLswyH+40ttwS9rUHuXAOBZUoyBuZb19lfQXxdzoqxlnNKM2Y52giD/+5G63ShfjJP6VTzRu9JMmF4oydvrD5RHVi1tTdCJC7bSbNiQA0YxOZQnAg678KTnRzc9lEAFnKk3iiyMepVOHHAbLENK3MvNsCfqtBH0pxKc+6ZP1ljFx8poKOnWF0VSrRlW0GnkC6OzjEmj1w0XUgxWydIR8T1JV71cSA2Uy5B1iTXazEl81h0YTYnE6kRu8KctFS3mp5lPN0g3sR1MBDD8q1343FWpa7PKuPN8WndkPXRQRP/tpz08MiKLBstK9iAo+ox4wTfJwnqr5YUXHSgKwuT/NEKArZdP00GcfXcOukTACI7TVGiggQSXkOtK3eO6MWq5Nm2nUxvZt2vE60HcwlWmj8kjL4+0D408dl3e1e0D9aAXTgBOdtaXMalYqNr+sjLbANX85froUbSdlZo1MNkZj7lHQ==;3BPB130N0Gpwrbe/oY7LGA=="
 ---

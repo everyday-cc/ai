@@ -72,22 +72,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Microsoft reportedly rallies behind AMD to develop chips for AI workloads"
-    excerpt: "Microsoft is reported to be working with AMD to develop AI-capable chips and provide an alternative to Nvidia."
-    publishedDateTime: 2023-05-05T17:31:00Z
-    webUrl: "https://www.networkworld.com/article/3695690/microsoft-reportedly-rallies-behind-amd-to-develop-chips-for-ai-workloads.html"
-    ampWebUrl: "https://www.networkworld.com/article/3695690/microsoft-reportedly-rallies-behind-amd-to-develop-chips-for-ai-workloads.amp.html"
-    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3695690/microsoft-reportedly-rallies-behind-amd-to-develop-chips-for-ai-workloads.amp.html"
-    type: article
-    provider:
-      name: Network World
-      domain: networkworld.com
-    quality: 90
-    images:
-      - url: "https://images.techhive.com/images/article/2017/03/p1240491-19-100715058-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Microsoft Stock (NASDAQ:MSFT): Don’t Discount Its Early Lead in the AI Race"
     excerpt: "Microsoft (NASDAQ:MSFT) stock has been very quick to recover from the brutal bear market of 2022. Year-to-date, MSFT stock is up around 30%,"
     publishedDateTime: 2023-05-08T17:38:00Z
@@ -242,15 +226,6 @@ related:
       name: TechRepublic
       domain: techrepublic.com
     quality: 64
-  - title: "Microsoft and AMD are reportedly teaming up to combat Nvidia’s AI dominance"
-    excerpt: "Although Microsoft uses \" tens of thousands \" of Nvidia GPUs in its Azure data centers, Bloomberg reports that the company is also working with AMD to improve the AI capabilities of its GPUs. Although extremely light on details,"
-    publishedDateTime: 2023-05-05T18:16:00Z
-    webUrl: "https://arstechnica.com/gadgets/2023/05/microsoft-and-amd-are-allegedly-teaming-up-to-combat-nvidias-ai-dominance/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 62
   - title: "MakeMyTrip collaborates with Microsoft, introduces voice assisted travel bookings. Details here"
     excerpt: "The new platform will help in curating and booking holiday packages based on variable inputs like occasion, budget, activity preferences, time of travel, hotel reviews etc, based on the type of traveller the user is."
     publishedDateTime: 2023-05-08T09:42:00Z
@@ -283,20 +258,6 @@ related:
         width: 1000
         height: 667
         isCached: true
-  - title: "NVIDIA shares are trading higher after Microsoft denied AMD is involved with its Athena AI chips."
-    excerpt: "Never miss a trade again with the fastest news alerts in the world! This headline only article is a sample of real-time intelligence Benzinga Pro traders use to win in the markets everyday. Want the fastest, most accurate stock market intelligence? Want ..."
-    publishedDateTime: 2023-05-05T17:32:00Z
-    webUrl: "https://www.benzinga.com/wiim/23/05/32244818/nvidia-shares-are-trading-higher-after-microsoft-denied-amd-is-involved-with-its-athena-ai-chips"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 58
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
   - title: "70% of employees are happy to delegate work to AI, according to new Microsoft report"
     excerpt: "According to the survey, while 49% of respondents expressed fear of losing their jobs to AI, 70% stated that they would delegate as much work as possible to AI in order to reduce their workload."
     publishedDateTime: 2023-05-09T13:00:00Z
@@ -315,20 +276,6 @@ related:
       name: The Buffalo News
       domain: buffalonews.com
     quality: 57
-  - title: "Microsoft And AMD Team Up To Make AI Processors"
-    excerpt: "Software giant Microsoft Corp. is working with the chipmaker Advanced Micro Devices Inc. (AMD) to jointly develop a new artificial intelligence (AI)"
-    publishedDateTime: 2023-05-05T17:38:00Z
-    webUrl: "https://www.techworm.net/2023/05/microsoft-and-amd-team-up-to-make-ai-processors.html"
-    type: article
-    provider:
-      name: techworm.net
-      domain: techworm.net
-    quality: 56
-    images:
-      - url: "https://www.techworm.net/wp-content/uploads/2023/05/Processor.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Siemens and Microsoft Drive Productivity With Generative AI"
     excerpt: "MUNICH—Siemens and Microsoft are harnessing the collaborative power of generative artificial intelligence (AI) to help manufacturers drive innovation and efficiency across the design, engineering, manufacturing and operational life cycle of products."
     publishedDateTime: 2023-05-06T14:00:00Z
@@ -409,8 +356,8 @@ related:
     quality: 49
   - title: "Builder.ai announces collaboration with Microsoft to democratize software development"
     excerpt: "Builder.ai, the AI powered next generation composable software development platform that’s so simple and accessible, allowing every individual and business to turn their ideas into software, today announced a strategic collaboration with Microsoft,"
-    publishedDateTime: 2023-05-10T07:26:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-builderai-announces-collaboration-with-microsoft-democratize-software-developmen-/2023/05/10/9811121.htm"
+    publishedDateTime: 2023-05-10T06:14:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/05/10/9811121.htm"
     type: article
     provider:
       name: TMCnet

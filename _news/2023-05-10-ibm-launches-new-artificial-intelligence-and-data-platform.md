@@ -1,0 +1,79 @@
+---
+category: news
+title: "IBM launches new artificial intelligence and data platform"
+excerpt: "Watsonx could bring AI to more businesses IBM on Tuesday launched watsonx, a new artificial intelligence and data platform to help companies integrate AI in their business. The new AI platform launch comes over a decade after IBM's software called Watson got attention for winning the game show"
+publishedDateTime: 2023-05-10T10:45:00Z
+originalUrl: "https://www.fudzilla.com/news/ai/56864-ibm-launches-new-artificial-intelligence-and-data-platform"
+webUrl: "https://www.fudzilla.com/news/ai/56864-ibm-launches-new-artificial-intelligence-and-data-platform"
+type: article
+quality: 39
+heat: -1
+published: false
+
+provider:
+  name: Fudzilla
+  domain: fudzilla.com
+
+topics:
+  - IBM AI
+  - AI
+
+images:
+  - url: "https://www.fudzilla.com/media/k2/items/cache/03b0c7c9f5df286e08481de191753cce_L.jpg"
+    width: 620
+    height: 465
+    isCached: true
+
+related:
+  - title: "Google, IBM to Tesla, how these companies are using AI to transform work"
+    excerpt: "Google, IBM to Tesla are some companies that are leading the way in AI and driving transformation and innovation. Artificial Intelligence (AI) is one of the most transformative technologies of the current time."
+    publishedDateTime: 2023-05-08T07:34:00Z
+    webUrl: "https://tech.hindustantimes.com/tech/news/google-ibm-to-tesla-how-these-companies-are-using-ai-to-transform-work-71683530733850.html"
+    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/google-ibm-to-tesla-how-these-companies-are-using-ai-to-transform-work-71683530733850.html"
+    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/google-ibm-to-tesla-how-these-companies-are-using-ai-to-transform-work-71683530733850.html"
+    type: article
+    provider:
+      name: Hindustan Times Tech
+      domain: hindustantimes.com
+    quality: 75
+    images:
+      - url: "https://images.hindustantimes.com/tech/img/2023/05/08/1600x900/Digital-Ad-Tax-0_1683531188343_1683531212843.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "Google Is Using AI to Make Hearing Aids More Personalized"
+    excerpt: "A new partnership between Google and an Australian hearing coalition is using machine intelligence to improve the customizability of hearing aids and cochlear implants."
+    publishedDateTime: 2023-05-07T11:00:00Z
+    webUrl: "https://www.wired.com/story/cochlear-and-google-hearing-technology-coalition/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 67
+    images:
+      - url: "https://media.wired.com/photos/6455349e6279e36472844413/191:100/w_1280,c_limit/Cochlear-and-Google-Partner-to-Improve-Hearing-Technology-Gear.jpg"
+        width: 1280
+        height: 670
+        isCached: true
+  - title: "IBM to pause hiring for jobs that AI could do"
+    excerpt: "International Business Machines Corp. Chief Executive Officer Arvind Krishna said the company expects to pause hiring for roles it thinks could be replaced with artificial intelligence in the coming years."
+    publishedDateTime: 2023-05-05T21:34:00Z
+    webUrl: "https://www.news-journal.com/news/business/ibm-to-pause-hiring-for-jobs-that-ai-could-do/article_a9ce5b06-eb8c-11ed-9635-c72a4b171373.html"
+    type: article
+    provider:
+      name: Longview News-Journal
+      domain: news-journal.com
+    quality: 19
+  - title: "Leading the Way with AI: How Companies are Transforming Industries"
+    excerpt: "Here are some companies that are leading the way in AI and driving transformation and innovation, including EnKash and Addverb., Technology & Science News, Times Now"
+    publishedDateTime: 2023-05-09T13:13:00Z
+    webUrl: "https://www.timesnownews.com/technology-science/leading-the-way-with-ai-how-companies-are-transforming-industries-article-100104420"
+    type: article
+    provider:
+      name: timesnownews
+      domain: timesnownews.com
+    quality: 19
+
+secured: "1ySWOrc4/Kc1n2fF/ya1FOSfBqUhxz5PZSV7cfrxQuLrRONntNCBZ4sfEsdy9Uum5QKxgqRdbRuOHFEp6EYHDJI2gTHtnYSOA8iS6fcGPhBKAvqIUndS7zlZmhCHSCXwgmf1Kb33aEzPmFjI/WYLO0HF62CtUVEtwm3Ugri/8mrl2pJUfStV4wdmQfSpJnwGB7KjYAr+B+wez+22+Jc9wBEL9pbJGND3jCCLLQxvYaGnl9AQcXUW2oIqHdsZo2lI9xxeGohmbv8XGXGjlEYAC4ZsojFY1MUJfJCclTENl6XzRknUTutnXABr9HVLlBgMlihqm0zjpjflrki6uppWOmejvOJE/o+dUADtVggfJfo=;4F4IPtXS1UaCXiMiFBEjlA=="
+---
+

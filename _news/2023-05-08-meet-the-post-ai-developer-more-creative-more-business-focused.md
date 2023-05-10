@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/meet-the-post-ai-developer-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/meet-the-post-ai-developer-more-creative-more-business-focused/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,17 +28,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "AI will change the role of developers forever. Here's why that's good news"
-    excerpt: "Senior execs at two blue-chip organizations explain how they're embracing automation -- and why everyone in these businesses, including IT pros, are reaping the rewards."
-    publishedDateTime: 2023-05-05T18:55:00Z
-    webUrl: "https://www.zdnet.com/article/ai-will-change-the-role-of-developers-forever-heres-why-thats-good-news/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 45
 
 secured: "e7ZIyQChdp21/m6lBfRUy4iagc6DLweFUSMgaqgqKsNFPRYmra7rwoglzos88JU76CWT7WbKfhuKkzY2OIwRTEHIZ3DOSR11bJ7havMsS+kpuSGsuzMNCqi6kyhvKs8GAZ+KYwHWZUx7ktfcvetlIWkqMmNQ+L7A/8btxKCSWc2R3q/K4FxiTVqpoeHfnTKyPdekvtk9s4IlMS5lCoD8ciJlNa+SsiAaKIPiY4vhmPn583jKS91MXTShVmUfb3UZh7wv+gBrG51OoDMOdfneQ6FrNWPC2FQ1XsKqxt0CMe1pPJqFr4iuuGuW7nLdyR0j0HmFSCQxu6dXOUJCwodrDqWO0qULmytnjMlMQV2/neCNQk6czioMoLa24jWXAA+/abqreMUaogE/UM2pGBg+38KQSr78GpmaXLy6Tjz5RSdCVnu7O+4YaUqhhioQouf6rYCKGeZkvLfX1lXvhvgCytgkGAEWkd9K/mS4ZsQKF0kya22KVzczzQamvbphR8+RZ8DZ3G0M5V3rbiq0XUq+Fg==;LapPJg0Itc9KvO1Ri7MYrA=="
 ---

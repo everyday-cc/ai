@@ -83,6 +83,20 @@ related:
         width: 768
         height: 512
         isCached: true
+  - title: "Facebook Is Not Dead Nor Dying; Meta Says It Has 3 Billion Users"
+    excerpt: "Facebook says it is not dead. The social media giant also wants you to know that it is not just for “old people”, as young people have been saying for years."
+    publishedDateTime: 2023-05-10T10:10:00Z
+    webUrl: "https://www.techjuice.pk/facebook-is-not-dead-nor-dying-meta-says-it-has-3-billion-users/"
+    type: article
+    provider:
+      name: techjuice.pk
+      domain: techjuice.pk
+    quality: 24
+    images:
+      - url: "https://cdn.techjuice.pk/wp-content/uploads/2023/05/614dd3f759854.jpg"
+        width: 750
+        height: 500
+        isCached: true
   - title: "Facebook says its evolving to meet the needs of Young adults"
     excerpt: "Facebook says it is not dead. The social media giant also wants you to know that it is not just for “old people”, as young people have been saying for years. Now, with the biggest thorn in its side – TikTok – facing heightened government scrutiny amid growing tensions between the United States and China,"
     publishedDateTime: 2023-05-09T12:13:00Z

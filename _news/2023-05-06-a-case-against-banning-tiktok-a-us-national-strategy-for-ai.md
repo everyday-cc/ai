@@ -25,70 +25,48 @@ images:
     isCached: true
 
 related:
-  - title: "Biden administration takes action to promote responsible AI innovation"
-    excerpt: "The Biden administration pushes responsible AI with R&D investment, policymaking, and assessments of current generative AI systems."
-    publishedDateTime: 2023-05-05T17:49:00Z
-    webUrl: "https://venturebeat.com/ai/biden-administration-takes-action-to-promote-responsible-ai-innovation/"
-    ampWebUrl: "https://venturebeat.com/ai/biden-administration-takes-action-to-promote-responsible-ai-innovation/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/biden-administration-takes-action-to-promote-responsible-ai-innovation/amp/"
+  - title: "Google Reportedly Upgrading Search With AI Chatbot, TikTok Videos"
+    excerpt: "According to the Wall Street Journal, the search engine is planning to add AI prompts that will pop up in response to queries that can’t be easily answered by traditional web results, as well as swipe-through video clips."
+    publishedDateTime: 2023-05-06T17:17:00Z
+    webUrl: "https://www.pcmag.com/news/google-reportedly-upgrading-search-with-ai-chatbot-tiktok-videos"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 67
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/04/annevb_chatbots_and_AI_everywhere_all_at_once_-_tech_colorful_e_beb92de9-8091-4437-9e29-d568ea8d4b74.png?w=1200&strip=all"
-        width: 1200
-        height: 600
+      - url: "https://i.pcmag.com/imagery/articles/01rDZGzDgqaHe7cTh5kJj9Z-1.fit_lim.size_1200x630.v1683393323.jpg"
+        width: 945
+        height: 630
         isCached: true
-  - title: "The AI Revolution Transforming Hybrid And Remote Work And The Return To Office"
-    excerpt: "With the advent of generative AI like ChatGPT, we are on the cusp of realizing the full potential of remote and hybrid work by reducing - while not eliminating - the benefits of office visits."
-    publishedDateTime: 2023-05-09T14:47:00Z
-    webUrl: "https://www.forbes.com/sites/glebtsipursky/2023/05/09/the-ai-revolution-transforming-hybrid-and-remote-work-and-the-return-to-office/"
-    ampWebUrl: "https://www.forbes.com/sites/glebtsipursky/2023/05/09/the-ai-revolution-transforming-hybrid-and-remote-work-and-the-return-to-office/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glebtsipursky/2023/05/09/the-ai-revolution-transforming-hybrid-and-remote-work-and-the-return-to-office/amp/"
+  - title: "Wendy’s, Google Train Next-Generation Order Taker: an AI Chatbot"
+    excerpt: "The fast-food chain has customized a language model with terms like “JBC” for junior bacon cheeseburger and “biggie bags” for meal combos."
+    publishedDateTime: 2023-05-09T10:45:00Z
+    webUrl: "https://www.wsj.com/articles/wendys-google-train-next-generation-order-taker-an-ai-chatbot-968ff865"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 85
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/645a5c605e5c27c4782796df/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
+      - url: "https://images.wsj.net/im-777889/social"
+        width: 1280
+        height: 640
         isCached: true
-  - title: "SAS accelerates responsible innovation efforts with new collaborations and a focus on trustworthy AI"
-    excerpt: "The world has seen unprecedented artificial intelligence (AI) advances since AI and analytics company SAS launched its responsible innovation efforts one year ago. Amid this rapid disruption, SAS has increased efforts to bring trustworthy AI to customers,"
-    publishedDateTime: 2023-05-09T16:56:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/05/09/9810756.htm"
+  - title: "Google Plans to Make Search More ‘Personal’ with AI Chat and Video Clips"
+    excerpt: "Changes aim to respond to queries that can’t be easily answered by traditional ‘10 blue links’ web results."
+    publishedDateTime: 2023-05-06T03:00:00Z
+    webUrl: "https://www.wsj.com/articles/google-search-ai-artificial-intelligence-chatbot-tiktok-67c08870"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 24
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 66
     images:
-      - url: "https://mma.prnewswire.com/media/2070823/SAS_new_healthcare.jpg"
-        width: 640
-        height: 426
+      - url: "https://images.wsj.net/im-776222/social"
+        width: 1280
+        height: 640
         isCached: true
-  - title: "IBM Unveils All-In-One AI Integration Tool"
-    excerpt: "Blue-chip tech name IBM (NYSE:IBM) today launched WatsonX, a new, all-in-one artificial intelligence (AI) tool that will help companies with their AI integration. This announcement comes roughly 15 months after IBM sold its Watson Health unit to Francisco Partners."
-    publishedDateTime: 2023-05-09T12:50:00Z
-    webUrl: "https://www.schaeffersresearch.com/content/news/2023/05/09/ibm-unveils-all-in-one-ai-integration-tool"
-    type: article
-    provider:
-      name: SchaeffersResearch.com
-      domain: schaeffersresearch.com
-    quality: 21
-  - title: "SAS accelerates responsible innovation efforts with new collaborations and a focus on trustworthy AI"
-    excerpt: "The world has seen unprecedented artificial intelligence (AI) advances since AI and analytics company SAS launched its responsible innovation efforts one year ago. Amid this rapid disruption, SAS has increased efforts to bring trustworthy AI to customers,"
-    publishedDateTime: 2023-05-09T18:09:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-sas-accelerates-responsible-innovation-efforts-with-new-collaborations-/2023/05/09/9810756.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 4
 
 secured: "B+Z7InTjQwQJzuI+o+Dpogbg7B6YEicNIHJn52aeZkOMaEQZv/UDIkUiaAw+auY5qdcwnzqP2uuk2IR8pgpIT+50Gh3/izkC9tRrJfuxFUuSsTu3hztxT57FNDD2U5MvQm4x8MEgWm4fUF/KI1hU7S9CJ4PNkdXbeIbDRUJeU3eRhXVXQ9/9XmZC/7HjCC5q4A8syqSV02AHIDTIoHfGshqXg4DXQJpqdqpbQeEEwRV3YjYrnPtlYwZBoEkuZxb3i9ykjPo5Pny8699AjjhEEPC1U1h71TGbJPEkHep11jQ8kIsEAZ/UsTNuayRFdRz/jJajtw2o5900zMNXYbq8W5braMkKG/r0dGK9xIBZ8VmCGmGJuIqAZ8Y/fFfMna+nxogPPT8L3e3bDc6Xn5gY+Bq8HzW0YRwaP9kBk9+0yb5EpreGnUPxQNzHiJ88VOql1vHZi2IZNHM+0iOy3jRpdtC3vLKHakSBb9eVLLviinwIi9p/Pc/u10HGh5DotY5VjjFX7bL7gmJrZ1jYdGN/xg==;b42wxTEBwv/3HThNJjhbUA=="
 ---

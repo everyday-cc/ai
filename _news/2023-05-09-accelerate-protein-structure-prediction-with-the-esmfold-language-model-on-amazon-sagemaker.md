@@ -71,6 +71,20 @@ related:
         width: 1260
         height: 630
         isCached: true
+  - title: "Schedule your notebooks from any JupyterLab environment using the Amazon SageMaker JupyterLab extension"
+    excerpt: "Jupyter notebooks are highly favored by data scientists for their ability to interactively process data, build ML models, and test these models by making inferences on data. However, there are scenarios in which data scientists may prefer to transition from interactive development on notebooks to batch"
+    publishedDateTime: 2023-05-10T11:53:50Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/schedule-your-notebooks-from-any-jupyterlab-environment-using-the-amazon-sagemaker-jupyterlab-extension/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 73
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/05/09/jupyter-scheduling-1260x626.jpg"
+        width: 1260
+        height: 626
+        isCached: true
 
 secured: "ceLvckaNQcOmnOPLhGjE2JUf7Gvnh867QqVnK8ZBiydy0AKTQbd2ffr5+81/hKBv4GPbVQdxpoEH6MNE2vEmnX/M+e36XOmJiYJCRHKWAxV2CqiDWX3GORdmQDag/696cf7S/sOjkMFiiJx3nFJ8Utc+Vo58iK3So9bP2vINZWwMgEYYmMC2xVRIrGobpamNWZm6OmLDrHmUk4F8l2CTRU1u1AkT/D83ZY293b5e790qaLUpZcofayyI0VrtXhClbA7LPwVbdc41TJHS2uTx+CJKesCLCtI0ckBZApL7Zjsc4JEc2xIqqFciwNjGDf/3U5A78sysU9lKwH+B6cHLvJopP6Vvnt/EenxFdNU2kUQ=;jg2+KFgpCUyqU7V1n4SZ6g=="
 ---

@@ -35,6 +35,22 @@ related:
         width: 1200
         height: 750
         isCached: true
+  - title: "AI could cause patients harm as a result of bias and errors, health experts say"
+    excerpt: "Health professionals said that while healthcare could benefit from AI, the technology \"also has the potential to produce negative health impacts.\""
+    publishedDateTime: 2023-05-10T11:15:00Z
+    webUrl: "https://www.businessinsider.com/ai-harm-human-health-public-health-experts-2023-5"
+    ampWebUrl: "https://www.businessinsider.com/ai-harm-human-health-public-health-experts-2023-5?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-harm-human-health-public-health-experts-2023-5?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 83
+    images:
+      - url: "https://i.insider.com/645b62bd65a21600192fe28a?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "ic/E1Z6cI9zzY7WvJoKqbbfS+gZNVORH6ZKYLl4Ej9DCefq7RTrLdSnNkL7+mISugGJBRCMXdi0hqZmDZSd6/5dggYc0yadFsSE66r7T9TdjzRbs1LXDpmmRznxV/ZHPUee4/ZVeR30miv1tahnz9I91jq18oUyjnijmKfrsRZAsTc1zOgG1fNW1+/4+cZst2F+lWHrPbUsmcgXb3+iG2M9BLADr15YNXu6GMu06OyCVmzh0Qi5GTr0kyMUIx3/QeND+cB4fGvSNKpxuy6/SSELHzB8aRqiRBVunzn6KyvJogaFwzlAcVWEl/sUpL4ekkwmfr4Kmk/xUpTDdL65uklo0Y56AP7WAFo469IYPeHsuChKFsAcjClsPy2+kzNk9pxS+Xi8O0XKcWpKS4Wwjrf3Tm9q97IuHPpyrEGP4Q2rA46ih2MgLValo5u+wXK8BGwGPWVqpEkUC636vj4NpD/5pDSjAsgqSXVlqnCVJgE/zKPCfds4fzHLvGCwDj74+pxD00R+3UehZln2rvaPqfw==;eO7tv+/DuYNrZLMeZA6Kbw=="
 ---
