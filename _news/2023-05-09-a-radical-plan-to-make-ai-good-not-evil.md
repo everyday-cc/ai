@@ -6,7 +6,7 @@ publishedDateTime: 2023-05-09T16:00:00Z
 originalUrl: "https://www.wired.com/story/anthropic-ai-chatbots-ethics/"
 webUrl: "https://www.wired.com/story/anthropic-ai-chatbots-ethics/"
 type: article
-quality: 67
+quality: 69
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://media.wired.com/photos/645974029ec11a243353292e/191:100/w_1280,c_limit/moralcompass_ai_biz_GettyImages-1472254712.jpg"

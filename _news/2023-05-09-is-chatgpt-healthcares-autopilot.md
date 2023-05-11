@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Can You Build Large Language Models Like ChatGPT At Half Cost?"
+    excerpt: "Learn about the cost of training Large Language Models like GPT-3. Explore how the LiGO technique can halve the cost of training LLMs."
+    publishedDateTime: 2023-05-11T07:24:00Z
+    webUrl: "https://www.unite.ai/can-you-build-large-language-models-like-chatgpt-at-half-cost/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 24
+    images:
+      - url: "https://www.unite.ai/wp-content/uploads/2023/05/Featured-Blog-Image-Can-You-Build-Large-Language-Models-Like-ChatGPT-At-Half-Cost-1000x600.jpg"
+        width: 1000
+        height: 600
+        isCached: true
   - title: "ChatGPT May Have a Big Role in Healthcare"
     excerpt: "If the results of a recent study are any indication, ChatGPT may soon be professionally responding to patients’ written health-related questions. Virtual healthcare drastically expanded during t"
     publishedDateTime: 2023-05-09T05:00:00Z

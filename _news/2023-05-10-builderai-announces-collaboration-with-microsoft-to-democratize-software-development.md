@@ -1,27 +1,31 @@
 ---
 category: news
 title: "Builder.ai announces collaboration with Microsoft to democratize software development"
-excerpt: "Builder.ai, the AI powered next generation composable software development platform that’s so simple and accessible, allowing every individual and business to turn their ideas into software, today announced a strategic collaboration with Microsoft,"
-publishedDateTime: 2023-05-10T06:14:00Z
-originalUrl: "https://technews.tmcnet.com/news/2023/05/10/9811121.htm"
-webUrl: "https://technews.tmcnet.com/news/2023/05/10/9811121.htm"
+excerpt: "Builder.ai, the AI powered next generation composable software development platform that's so simple and accessible, allowing every individual and business to turn their ideas into software, today announced a strategic collaboration with Microsoft,"
+publishedDateTime: 2023-05-10T06:00:00Z
+originalUrl: "https://www.marketwatch.com/press-release/builderai-announces-collaboration-with-microsoft-to-democratize-software-development-2023-05-10"
+webUrl: "https://www.marketwatch.com/press-release/builderai-announces-collaboration-with-microsoft-to-democratize-software-development-2023-05-10"
 type: article
-quality: 47
+quality: 77
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://marketplace.connectwise.com/content/images/thumbs/0000635_skykick_550.png"
-    width: 550
-    height: 353
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -80,6 +84,20 @@ related:
       name: InfoWorld
       domain: infoworld.com
     quality: 83
+  - title: "Builder.ai Collaborates With Microsoft To Democratize Software Development"
+    excerpt: "The collaboration will see the two companies collaborate on creating AI powered solutions that empower businesses to develop applications and become digitally native without the need for any technical"
+    publishedDateTime: 2023-05-11T07:15:00Z
+    webUrl: "https://www.entrepreneur.com/en-in/news-and-trends/builderai-collaborates-with-microsoft-to-democratize/451949"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 82
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1683789345-Untitleddesign-2023-05-11T123845263.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
   - title: "The Crucial Ways That Religion And Generative AI ChatGPT Are Crossing Fateful Faithful Paths"
     excerpt: "Religion and generative AI such as ChatGPT are crossing paths, here's a comprehensive look at this fateful faithful intertwining, including upsides and downsides."
     publishedDateTime: 2023-05-10T11:00:00Z
@@ -326,20 +344,6 @@ related:
         width: 2560
         height: 1440
         isCached: true
-  - title: "Siemens and Microsoft Drive Productivity With Generative AI"
-    excerpt: "MUNICH—Siemens and Microsoft are harnessing the collaborative power of generative artificial intelligence (AI) to help manufacturers drive innovation and efficiency across the design, engineering, manufacturing and operational life cycle of products."
-    publishedDateTime: 2023-05-06T14:00:00Z
-    webUrl: "https://www.assemblymag.com/articles/97776-siemens-and-microsoft-drive-productivity-with-generative-ai"
-    type: article
-    provider:
-      name: Assembly Mag
-      domain: assemblymag.com
-    quality: 54
-    images:
-      - url: "https://www.assemblymag.com/ext/resources/LatestHeadlines/headlines900/siemens-plm-900.jpg?height=635&t=1682976658&width=1200"
-        width: 900
-        height: 550
-        isCached: true
   - title: "Microsoft confidence in UK less 'shaken' as it invests in AI startup"
     excerpt: "Days after slamming Britain as no country for tech businesses, Microsoft Corporation (NASDAQ:MSFT) has invested in a UK artificial intelligence"
     publishedDateTime: 2023-05-10T14:30:00Z
@@ -367,6 +371,20 @@ related:
       - url: "https://e24joaz2t6m.exactdn.com/wp-content/uploads/2023/03/edas-1.jpeg"
         width: 1024
         height: 768
+        isCached: true
+  - title: "Microsoft freezes salaries to invest in AI"
+    excerpt: "Microsoft has decided to freeze pay for all full-time workers this year as it invests in a \"major platform shift\"."
+    publishedDateTime: 2023-05-11T07:04:00Z
+    webUrl: "https://techcentral.co.za/microsoft-freezes-salaries-to-invest-in-ai/225473/"
+    type: article
+    provider:
+      name: TechCentral
+      domain: techcentral.co.za
+    quality: 54
+    images:
+      - url: "https://techcentral.co.za/wp-content/uploads/2021/09/satya-nadella-2156-1120-2-5-1024x532.jpg"
+        width: 1024
+        height: 532
         isCached: true
   - title: "Builder.ai: Microsoft invests in no-code builder startup to boost AI game"
     excerpt: "With Microsoft in the lead in AI, it is now looking to extend it by partnering beyond OpenAI for new and exciting products in the space."
@@ -581,6 +599,6 @@ related:
       domain: glamsham.com
     quality: 16
 
-secured: "aCUeaQ2xt6sydxlx2StB+xcXftGaIzCHP26DPff1uIZ866flSPgce13j2NaHIJmK+hOMnv6u28MylYHHB5pFu5vNV95EyFlSOJxP+0dHzOaYkYG4cs5hIDwpNjO53JwpxYygniKhX7+cGpkfncYpgNizGo17pVWx2ZT7e0fi8oMMHvNjA4mgqr+FSrDKGzpOB9jB7IC+e9bqcDGm1uUHIgshhKNGM4//QMlu19ObgVSgIYu4m7JA2XnQLUhb7KxaKeCd32qfmam5eQXgTdqwtCv1d/w/PCAWbK5mVQA4MQqL49+4S/K/lYIud0ef9UtlY4jOrqg48b+fOqRQH2SfDrogb83bEPahSB2ZSqKUZP4=;dqkftFqSwbkO9TlX0hhemQ=="
+secured: "8mNAcWt060TxVhRhTbS2x8Cw3H+kpF7TiS/UPG/bZ7KckRQBETmx7TBIDaoNdCxdzgcXhqJsXxwaqDumCSOQ2ZRwOFqw5HtdWNrREMmlM6d3CZf4K6tcBNXZW7LUanZgvAlMcNGgt2KJiF6vbU1qSBIjBtC45RTk2K60L4fz2x00j7+kGiLc1P/UCsJk1e3BsHt7O2wf58nhBK5euhdP0GYBXLqurGEWBGcbxBkPS81KchfxlUpnYKhYxzD5NKQf4M/2pBBwg6mvGSZAhevCLVJRq1xcaU7HXkcJWpeJTfU52OFBTtXb844cSqnGupSjPbGtB70KjxzE79wlUxMVH5YSyeNjjJjmJP+9YAu/b58=;Zzjdv1XYCnXRyCTrb4c8lg=="
 ---
 

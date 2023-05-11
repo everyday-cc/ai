@@ -155,6 +155,22 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Google shows off AI advances, new Pixel devices at I/O developers conference"
+    excerpt: "Google introduced its latest advances in artificial intelligence, and unveiled new Pixel devices, during its I/O developers conference on Wednesday."
+    publishedDateTime: 2023-05-11T05:44:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2023/05/11/Google-AI-I-O-developers-conference/5801683738669/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2023/05/10/Google-AI-I-O-developers-conference/5801683738669/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2023/05/10/Google-AI-I-O-developers-conference/5801683738669/"
+    type: article
+    provider:
+      name: UPI
+      domain: upi.com
+    quality: 54
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/i/5801683738669/2023/1/16837809808912/v1.5/Google-shows-off-AI-advances-new-Pixel-devices-at-IO-developers-conference.jpg"
+        width: 640
+        height: 427
+        isCached: true
   - title: "AI tools SMEs need to know about"
     excerpt: "While AI may seem scary, it’s also incredibly useful, and not just to show you the best way around load shedding traffic jams."
     publishedDateTime: 2023-05-10T04:54:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.foxbusiness.com/video/6327054767112"
 webUrl: "https://www.foxbusiness.com/video/6327054767112"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,45 +22,6 @@ images:
     width: 1280
     height: 720
     isCached: true
-
-related:
-  - title: "Mass event will let hackers test limits of AI technology"
-    excerpt: "No sooner did ChatGPT get unleashed than hackers started “jailbreaking” the artificial intelligence chatbot – trying to override its safeguards so it could blurt out something unhinged or obscene"
-    publishedDateTime: 2023-05-10T15:02:00Z
-    webUrl: "https://abcnews.go.com/Technology/wireStory/hackers-aim-find-flaws-ai-white-house-99219240"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 39
-    images:
-      - url: "https://s.abcnews.com/images/US/wirestory_97b963db084800f11b26b8a023b1713f_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Mass event will let hackers test limits of AI technology"
-    excerpt: "But now its maker, OpenAI, and other major AI providers such as Google and Microsoft, are coordinating with the Biden administration to let thousands of hackers take a shot at testing the limits of their technology."
-    publishedDateTime: 2023-05-10T19:03:00Z
-    webUrl: "https://www.chron.com/business/article/hackers-aim-to-find-flaws-in-ai-with-white-18090259.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 39
-    images:
-      - url: "https://s.hdnux.com/photos/01/32/64/15/23806829/6/rawImage.jpg"
-        width: 2048
-        height: 1365
-        isCached: true
-  - title: "Las Vegas event will let hackers test limits of AI technology"
-    excerpt: "No sooner did ChatGPT get unleashed than hackers started “jailbreaking” the artificial intelligence chatbot — trying to override its safeguards so it could blurt out something"
-    publishedDateTime: 2023-05-10T16:26:00Z
-    webUrl: "https://lasvegassun.com/news/2023/may/10/las-vegas-event-will-let-hackers-test-limits-of-ai/"
-    type: article
-    provider:
-      name: Las Vegas Sun
-      domain: lasvegassun.com
-    quality: 19
 
 secured: "ap7S6Q4f+27zuKv6Cf2G9d28qHn0BP3SShxVn1mG80JCTtG0dNte/0Pbp/cQIxOChplyu62/d6zG6h7Y4MpFtEsc1uKRHSEZ9EQ1jMZnCYJi//aU8XHk63M4188qIVGRe1xf0XH9fD0ZBdstxgY9y7jD/GzdH6vHXE++5HPbdDeNRQkHIFjIpZ8QwIdHlqjoseowqfy8VABz3Q9Teg+MF+f9TLpb5PFj8wpzwLvYFQepp5fl5TFQI6EtmkidZDMzAS/cGqGRdH6k644ItIHwBheBXc8hr+GtkREHOeIZuxUdnLzITs3OU9Nh3Qkpzt+dU9QKKJKF2F3HbmE8mqFy7NClnB9FgaKn/WKkTLSjIh1aOXuw3gKNT9g9lQjjceUmobZfKcULzrMc6XTMVfMkLg8l+FKNFp/aj99f7wPbryW1Y4BgkcVtIXvl+1tw2Y41Ubw6JPUxJI5yMSqowF2ADTvji3zFoA8way+HoA78KmnV1JPGCBGFW9fV+BL+zQkXYk7oXz0cuO2+FKcCLn71og==;SPnaDLLUNgb5ltm4omadMQ=="
 ---

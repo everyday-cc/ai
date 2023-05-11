@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/new-research-data-scienc
 webUrl: "https://www.marketwatch.com/press-release/new-research-data-science-and-machine-learning-platforms-market-with-statistics-and-forecasts-till-2031-for-the-year-2023-2023-05-09"
 type: article
 quality: 30
-heat: 30
+heat: -1
 published: false
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Big Data & Machine Learning in Telecom Market Report (Forecast 2023-2031)"
+    excerpt: "As per the \"Big Data and Machine Learning in Telecom Market\" report, the technology sector is evolving, and companies"
+    publishedDateTime: 2023-05-11T02:49:00Z
+    webUrl: "https://www.marketwatch.com/press-release/big-data-machine-learning-in-telecom-market-report-forecast-2023-2031-2023-05-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 70
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "SXbh2kfRKsHhSXt8C5QDdnegOquBUVxSEoR4dabIl9gbqdS50agKFzswfFrIs1v9i+Z4NbBPtfNkGyoxvxuRZWHtPHx33sK35wg4MHwxefL6Px7PvSISwl1AxNp5r1vZUwGMFS79aL4orIoHvqkEAdvDqxHPwYyUd+5NEkFvSKUF9490NXjAAGJ8T03J0SGXqxi6iM9Hz71ifCT7LA8V95Aw5NGs7lJ5x8gOvsclerTvsLG/434VxziRkgG5CcxoMFvTZlR7qu2/cMK3RAvKG+MctO6FtXnayd+x6qC1Rh35jbvzbdAosQfhjDQuSz0YlfFwcf3EHbru/DLZfpymUhOaan4XbBPYfh+fOb7qwqo=;BEQSfs0Jus4EI8UvxJ7RZg=="
 ---

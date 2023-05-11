@@ -33,6 +33,20 @@ related:
         width: 683
         height: 512
         isCached: true
+  - title: "Can You Build Large Language Models Like ChatGPT At Half Cost?"
+    excerpt: "Learn about the cost of training Large Language Models like GPT-3. Explore how the LiGO technique can halve the cost of training LLMs."
+    publishedDateTime: 2023-05-11T07:24:00Z
+    webUrl: "https://www.unite.ai/can-you-build-large-language-models-like-chatgpt-at-half-cost/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 24
+    images:
+      - url: "https://www.unite.ai/wp-content/uploads/2023/05/Featured-Blog-Image-Can-You-Build-Large-Language-Models-Like-ChatGPT-At-Half-Cost-1000x600.jpg"
+        width: 1000
+        height: 600
+        isCached: true
 
 secured: "my1QSAOlzaGZvJPTt/b3Mf7BOQVq/OB8IWc/dkUjQs8/iHQ1GQPRJp0YINZpSY0vvnulDK7o9+DmrWHMFMXz4tKB8PlZyvmNAM/dKfgehQ40ApE/sAcOeXYESaD826VtQtAuLj+fPno8nimDRErc0dczk6KfRdh1gNFRVIUVCgr9RvnWwJHE/ri/vtgE6n/UUqxRQvvoucUrFHodgulY0gd16LLclMPz88vf6sZoSbPEJq99QL7hVpN1iyjIm4EFHOsfpB+bJzEgOZ6YkKbEe52WLPiI8p7NLSpJ2xTsuCeGyvtqthVWyiHioY2b8TMJSZVjEwL4kXEkZYPKQUoSLOZnHrNBc7apOcRXYzuv08dkRcP0AQ/G8DyVtlxf9VpeeINOGbasKLhB6CLgKyRk7OEjxfe3cLYvhihv0pzVI6DGOKO2dCWBnUJC20P2ZiuXCSCc/vCDaPJaUu1SBB1wKAgu+e0hdoVk0Ovxzmevbo7g2VEdoUsrHNjdpjvbxjRHVogf7TPCFaru6/3/O2REVg==;qplcP47DG4ODIwSWJV7WAA=="
 ---

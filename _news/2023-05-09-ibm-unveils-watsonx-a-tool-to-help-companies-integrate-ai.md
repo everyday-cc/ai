@@ -185,7 +185,7 @@ related:
     provider:
       name: techwireasia.com
       domain: techwireasia.com
-    quality: 54
+    quality: 56
     images:
       - url: "https://cdn.techwireasia.com/wp-content/uploads/2023/05/arvind-897x500.jpg"
         width: 897

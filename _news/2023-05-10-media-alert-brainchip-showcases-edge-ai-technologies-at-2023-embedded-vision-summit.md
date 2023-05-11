@@ -1,29 +1,31 @@
 ---
 category: news
 title: "Media Alert: BrainChip Showcases Edge AI Technologies at 2023 Embedded Vision Summit"
-excerpt: "The Embedded Vision Summit attracts a global audience of technology professionals from companies developing computer vision and edge AI-enabled products including embedded systems, cloud solutions and mobile applications."
-publishedDateTime: 2023-05-10T16:48:00Z
-originalUrl: "https://it.tmcnet.com/news/2023/05/10/9811798.htm"
-webUrl: "https://it.tmcnet.com/news/2023/05/10/9811798.htm"
+excerpt: "BrainChip Holdings Ltd ((ASX: BRN, OTCQX:BRCHF, OTC:BCHPY), the world's first commercial producer of ultra-low power, fully digital, event-based, neuromorphic AI IP, today announced that Chief Marketi"
+publishedDateTime: 2023-05-10T15:01:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/23/05/b32318943/media-alert-brainchip-showcases-edge-ai-technologies-at-2023-embedded-vision-summit"
+webUrl: "https://www.benzinga.com/pressreleases/23/05/b32318943/media-alert-brainchip-showcases-edge-ai-technologies-at-2023-embedded-vision-summit"
+ampWebUrl: "https://www.benzinga.com/amp/content/32318943"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32318943"
 type: article
-quality: 32
-heat: 32
+quality: 52
+heat: 52
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://marketplace.connectwise.com/content/images/thumbs/0000635_skykick_550.png"
-    width: 550
-    height: 353
+  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+    width: 1043
+    height: 1043
     isCached: true
 
-secured: "27l7Xf73n0LghmM4H+CkSsiJXEykjX/J/NrO//q2+1HDd66N/27tmo0etRX5l3xtxVIUIPD5TmZ5VdoDipDLexb9CG9zKGz825u6A7JIfLij3P07b9HEJj/gLaP6hjUH1764NNdAuejb0QEf/xh/1YyQgAA8vbLR4epZ6KBccU/1mF4Wj6KZaE4X54z681pfCR5eAyTBqQNdfTVSJaAFSVvYI3ry6H/Wirx4lJhV2Nc26WfzEsMCFr06sv7b9/1vb2znen/rpkcKj+DzP/LMNGuq3hMaaZliIDXPYv8NSHCD+W+mJCvc3W1ZWP6R4mybwQcS55Ta2LTx0BcXy2bn2gu4zOnGe9DKqpX5ygLgQxw=;lAL08fcdVU1I1sGO1myWXw=="
+secured: "E0NGGFHgnlsrYhd94VEDdz5gt/MfaFd/Lpud7PerHAg4sg6SfIEJhkF4iZPwV+q94spCxK82LGQ1zTrdb9rWpoNH1MidYIUqi9TfTpjEE9v5CX+Q4u4bZxnfYMoP+Z/BAOupc//h3Nl4E3mlG2/0Fs8FV/5jL3Mh+eQuiCnclfmKybWen5HxIEevu80DDN8veFq78ZxU6UghqGJ6L7OZyaD3Dj0o1qtETgUgWcMSrlqxpPZMsJiKrEOb6WFhgTGr3eqlY1cYDAI1rHLnYuiccGxUrxZQC72DMW+dLBd4n3KF4YqoTsUxKns153+wnUhNN09AzpEIP/8pjsW/ZinSc6YVBCgK9etfOYry52fNL2I=;saLpflHvO2/ce08KFumOjg=="
 ---
 

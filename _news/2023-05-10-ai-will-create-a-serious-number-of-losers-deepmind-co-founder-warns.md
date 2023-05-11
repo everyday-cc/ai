@@ -66,7 +66,7 @@ related:
   - title: "AI will create ‘a serious number of losers’, warns DeepMind co-founder"
     excerpt: "Advances in artificial intelligence will threaten white-collar workers and create “a serious number of losers” over the next decade, according to one of the co-founders of AI lab DeepMind who has pioneered the technology."
     publishedDateTime: 2023-05-09T21:05:00Z
-    webUrl: "https://www.ft.com/content/0c105d93-e017-470d-8653-a2a30fd720b2?shareType=nongift"
+    webUrl: "https://www.ft.com/content/0c105d93-e017-470d-8653-a2a30fd720b2"
     type: article
     provider:
       name: The Financial Times

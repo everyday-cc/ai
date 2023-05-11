@@ -70,7 +70,7 @@ related:
     provider:
       name: Wired
       domain: wired.com
-    quality: 67
+    quality: 69
     images:
       - url: "https://media.wired.com/photos/645974029ec11a243353292e/191:100/w_1280,c_limit/moralcompass_ai_biz_GettyImages-1472254712.jpg"
         width: 1280

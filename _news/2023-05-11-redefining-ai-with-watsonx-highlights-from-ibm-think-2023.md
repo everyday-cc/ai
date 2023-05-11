@@ -6,7 +6,7 @@ publishedDateTime: 2023-05-11T04:01:00Z
 originalUrl: "https://techwireasia.com/2023/05/redefining-ai-with-watsonx-highlights-from-ibm-think-2023/"
 webUrl: "https://techwireasia.com/2023/05/redefining-ai-with-watsonx-highlights-from-ibm-think-2023/"
 type: article
-quality: 54
+quality: 56
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - IBM AI
   - AI
+  - AI Hardware
 
 images:
   - url: "https://cdn.techwireasia.com/wp-content/uploads/2023/05/arvind-897x500.jpg"
@@ -252,6 +253,6 @@ related:
         height: 353
         isCached: true
 
-secured: "bq3DnYkC7wj6J6qldX/tQN1snQkKO5FZkNB6IpBjiJFLl5ocLIafJW5rwmvDSOM8cMOXsqAjfKKPhq6ZonoSGzEJNhe3G1ukBlIR4jNXv+CHzIjgOdUc44cCYIhTNA+aj8UXNdQc+wvMHRhEk2qLC06WxssTXnnFt/I0BBaXcLlbDFWG4iJ+umWjNBHdWTIfb2B9XtprwLkP523Ok7zbFxdiLVRpMkJ/IxM5q3SdyGyEc+6tggpdWFGAxywlGAEX5WM6kMk/MMi13dxT4vwYJ4aIwoW54VDiVq7mWYHnqLWaD6MFx2lMx3/Z+LuH3qT90Zz2nGMKAVy0jH1TXqd6b1YR0ncUhCJR/UXN6VPZxHo=;kyrIerg/Jhe0ThyOmuwRYw=="
+secured: "QTSmIzw/AN8iT85Xf6woYIeAu9iajJzhMdKgJcCUIf8zIVVwPv8S0YPRb7jKF7LNOTR+XCnxaWETa8RA2hKl9uMoLkhCYU8EScp2f7qbMTrxC6fAfczBcx2VvN+EyvB3lZomlSIkpagywa/1gNbxerUp//fg6kHbZXyeRRiSZyyhoB3FArvv7xgIO1YQJEyNn0kEJSEA8fWL4OCi8Uke4jrTmUsVjUicSEfn82feUAJafc8l0JgE5rxb2JT2myYXTKJznKF5sZyfKwFXspmeXCBSoko42lIOzKk4i89vOXVAcctE/mElAC2NHo8ZOYo9U1BFs4V87xtBzbVmCg2IBcm2PN8/MT0kWYYVJj4O3NLHT2XIqd8S9kEO3QyehTng/xxjxiTuDjD8InpeVg3NZL124lAwfpk7tC5n80eNvnKuC+72wJRW+G25eQGH14kaahXVHgCPRQTPKgRpL/QkkBWcsZhjcwFGXtN3X01HQxm68B3WRHgxmd1bm5vrEmAs/i4oiZ2ep+jNxAhcA8hGkg==;MF81YZWoZoEKCjqoWpGjGw=="
 ---
 

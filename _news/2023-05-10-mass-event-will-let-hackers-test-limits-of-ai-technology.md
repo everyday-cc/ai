@@ -7,7 +7,7 @@ originalUrl: "https://abcnews.go.com/Technology/wireStory/hackers-aim-find-flaws
 webUrl: "https://abcnews.go.com/Technology/wireStory/hackers-aim-find-flaws-ai-white-house-99219240"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Google AI chief quits due to concerns about dangers from technology"
+    excerpt: "Artificial intelligence pioneer Geoffrey Hinton said he realized computers could become smarter than people far sooner than he and other experts had expected"
+    publishedDateTime: 2023-05-07T15:48:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/273823159/google-ai-chief-quits-due-to-concerns-about-dangers-from-technology"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 39
+    images:
+      - url: "https://cdn.bignewsnetwork.com/cus1683170979548.jpg"
+        width: 630
+        height: 420
+        isCached: true
   - title: "Mass event will let hackers test limits of AI technology"
     excerpt: "But now its maker, OpenAI, and other major AI providers such as Google and Microsoft, are coordinating with the Biden administration to let thousands of hackers take a shot at testing the limits of their technology."
     publishedDateTime: 2023-05-10T19:03:00Z
@@ -39,29 +53,17 @@ related:
         width: 2048
         height: 1365
         isCached: true
-  - title: "Vintra showcases its artificial intelligence technology in a demo"
-    excerpt: "Vintra, mentioned by former Boston police commissioner Ed Davis during a Senate hearing about the Boston marathon bombing, can learn \"from normal activity\" to notify operators of \"approaching threats and of anomalies."
-    publishedDateTime: 2023-05-10T22:30:00Z
-    webUrl: "https://www.foxbusiness.com/video/6327054767112"
+  - title: "Former Google Scientist Warns About the Dangers of Artificial Intelligence"
+    excerpt: "Systems can generate convincing audio and photorealistic-style images and video, sometimes modeled after real people."
+    publishedDateTime: 2023-05-08T10:30:00Z
+    webUrl: "https://www.ncregister.com/cna/former-google-scientist-warns-about-the-dangers-of-artificial-intelligence"
+    ampWebUrl: "https://www.ncregister.com/cna/former-google-scientist-warns-about-the-dangers-of-artificial-intelligence?amp"
+    cdnAmpWebUrl: "https://www-ncregister-com.cdn.ampproject.org/c/s/www.ncregister.com/cna/former-google-scientist-warns-about-the-dangers-of-artificial-intelligence?amp"
     type: article
     provider:
-      name: Fox Business
-      domain: foxbusiness.com
+      name: National Catholic Register
+      domain: ncregister.com
     quality: 37
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/134b7b90-1d04-409f-8702-f36e8b024f01/b15f0495-266a-4b82-a6b6-c61ff14fc4dc/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Las Vegas event will let hackers test limits of AI technology"
-    excerpt: "No sooner did ChatGPT get unleashed than hackers started “jailbreaking” the artificial intelligence chatbot — trying to override its safeguards so it could blurt out something"
-    publishedDateTime: 2023-05-10T16:26:00Z
-    webUrl: "https://lasvegassun.com/news/2023/may/10/las-vegas-event-will-let-hackers-test-limits-of-ai/"
-    type: article
-    provider:
-      name: Las Vegas Sun
-      domain: lasvegassun.com
-    quality: 19
 
 secured: "CBlWRI2RF+xKxbwGlbLeJPlnLhBehWYjcNjWLVHaXKfwoc0RbVbIUEEzW1CSv00KdJ6Tx/8zV378lUaMbu9kMSDTQuISdmzhXuB11bzVPNLhcJsJOqxm0h0P57MFNsHK2F/fWGnNNfCwH4jMXQzTka2cZupNgskVwlP7/4lTUBX9uYy9hoxUhhr4RRIv/bdjMG3gm0AzgmSbZ8ZXSV7pqEMIbhb1nJ7ic8rWGUiO21L30RJhVavlnWJuKLO9Ec72Lxs6zCR4sxh2dKzqCAcDR+JnXUu30RYtjXtbxFimDnHhwNGe9aNY2/pG71jBbahuxwOyYVe6ja9gaG9KvUx7dkeniZooAYR6CcIAUuQ08qI=;ycdNUFJbLNMQq55u/qVsYw=="
 ---

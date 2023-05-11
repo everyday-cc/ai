@@ -58,6 +58,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "How is the new Google AI search different from Bard chatbot?"
+    excerpt: "Google demonstrated an updated core search product that embeds more AI in its answers as the company looks to banish doubts that it is losing ground to Microsoft's OpenAI-powered Bing search."
+    publishedDateTime: 2023-05-11T04:49:00Z
+    webUrl: "https://www.reuters.com/technology/how-is-new-google-ai-search-different-bard-chatbot-2023-05-10/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 67
+    images:
+      - url: "https://www.reuters.com/resizer/KGaBkrQHj3qhm6l3Wtyw8nqhjss=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/5UQGXXHAMNPZHPVIMFFH3XDVPM.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Wendy's testing AI chatbot that takes drive-thru orders"
     excerpt: "Fast food chain Wendy's is partnering with Google Cloud on an AI chatbot to take orders at a drive-thru, the company announced. Wendy's FreshAI will be launched in June as a pilot in a Columbus, Ohio area restaurant."
     publishedDateTime: 2023-05-10T19:43:00Z

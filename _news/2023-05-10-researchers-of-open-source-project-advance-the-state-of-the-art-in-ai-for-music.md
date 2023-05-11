@@ -7,7 +7,7 @@ originalUrl: "https://www.outlookindia.com/outlook-spotlight/researchers-of-open
 webUrl: "https://www.outlookindia.com/outlook-spotlight/researchers-of-open-source-project-advance-the-state-of-the-art-in-ai-for-music-news-284934"
 type: article
 quality: 13
-heat: -1
+heat: 13
 published: false
 
 provider:
@@ -16,95 +16,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "World’s Top AI Researchers Debate the Technology’s Next Steps"
-    excerpt: "After ChatGPT sparked a frenzy among tech companies, a conference in Africa is focusing on AI’s promise and peril for poorer nations."
-    publishedDateTime: 2023-05-06T14:00:00Z
-    webUrl: "https://www.wsj.com/articles/worlds-top-ai-researchers-debate-the-technologys-next-steps-55be2849"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 67
-    images:
-      - url: "https://images.wsj.net/im-777121/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "AI DUDE: The Most Sophisticated Artificial Intelligence Technology"
-    excerpt: "The AIDUDE company is proud to announce the launch of its latest innovation, Ai Dude, which utilizes the most sophisticated Artificial Intelligence (AI) technology to provide businesses with a powerful tool for content creation and optimization."
-    publishedDateTime: 2023-05-08T14:10:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-dude-the-most-sophisticated-artificial-intelligence-technology-2023-05-08"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 64
-  - title: "AI Researchers Worry the U.S. and China Will Leave Everyone Else Behind"
-    excerpt: "After ChatGPT sparked a frenzy among tech companies, a conference in Africa is focusing on AI’s promise and peril for poorer nations."
-    publishedDateTime: 2023-05-08T10:21:00Z
-    webUrl: "https://www.wsj.com/articles/worlds-top-ai-researchers-debate-the-technologys-next-steps-55be2849"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 47
-  - title: "Google AI chief quits due to concerns about dangers from technology"
-    excerpt: "Artificial intelligence pioneer Geoffrey Hinton said he realized computers could become smarter than people far sooner than he and other experts had expected"
-    publishedDateTime: 2023-05-07T15:48:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/273823159/google-ai-chief-quits-due-to-concerns-about-dangers-from-technology"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 39
-    images:
-      - url: "https://cdn.bignewsnetwork.com/cus1683170979548.jpg"
-        width: 630
-        height: 420
-        isCached: true
-  - title: "Thousands of hackers will soon test the limits of AI technology"
-    excerpt: "No sooner did ChatGPT get unleashed than hackers started “jailbreaking” the artificial intelligence chatbot – trying to override its safeguards so it could blurt out something unhinged or obscene. But now its maker,"
-    publishedDateTime: 2023-05-10T15:23:00Z
-    webUrl: "https://www.dailypress.com/nation-world/vp-nw-chatgpt-ai-hackers-20230510-hdgshb52pnfvbdwr22jjcyjdmi-story.html"
-    type: article
-    provider:
-      name: Daily Press
-      domain: dailypress.com
-    quality: 39
-    images:
-      - url: "https://www.dailypress.com/resizer/BOaqPlMihMZc9VFw9XP_zlzSzdg=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/AOU5ZRXYBHSDZZIUXNBDMAUUNQ.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Researchers at UMich find a way to reduce the energy consumed by AI"
-    excerpt: "As AI becomes increasingly popular, researchers develop software to decrease energy consumption in an effort to lower carbon footprint."
-    publishedDateTime: 2023-05-07T23:08:00Z
-    webUrl: "https://www.michigandaily.com/news/researchers-at-umich-find-a-way-to-reduce-the-energy-consumed-by-ai/"
-    type: article
-    provider:
-      name: The Michigan Daily
-      domain: michigandaily.com
-    quality: 19
-  - title: "The Race to Write the World’s First AI Rule Book"
-    excerpt: "The proposed Artificial Intelligence Act is a far-reaching legal framework. But rival nations are watching, hoping to take advantage of delays."
-    publishedDateTime: 2023-05-09T13:11:00Z
-    webUrl: "https://www.thecipherbrief.com/the-race-to-write-the-worlds-first-ai-rule-book"
-    type: article
-    provider:
-      name: The Cipher Brief
-      domain: thecipherbrief.com
-    quality: 19
-  - title: "Artificial intelligence can be found in many places. How safe is the technology?"
-    excerpt: "NPR's A Martinez speaks with Jack Clark, co-founder of artificial intelligence company Anthropic, about AI safety concerns."
-    publishedDateTime: 2023-05-10T09:08:00Z
-    webUrl: "https://www.boisestatepublicradio.org/2023-05-10/artificial-intelligence-can-be-found-in-many-places-how-safe-is-the-technology"
-    type: article
-    provider:
-      name: Boise State Public Radio
-      domain: boisestatepublicradio.org
-    quality: 14
 
 secured: "N7DlIDIN0nLGxnrSGX/jJx5DDXAS8QTfhrtzK11CnfEaLunSsTdejGvhy8QWa1lzxlI54bxId2PNbZnS6Vrzo8czTIxU8CsYRn/ybWi7bZUKO/Y+hoBZ1RxWhecNrRD8O7paJmJHuG2+W9oBcfXHZgifFlD5RBE+ebwGT5N9ykJ/2wxgnERV+s2hptIxSAB2hez9HFyfxTUOgM5abveovYcSUbr7vIKuU3uMNA+hS2CWQFOJWz6Ik1NlI+ISWW0CW8nTIjGJ106vaUo7lBtX22sHfu9U/NhcjYFbT3nYnTIdBz+//QhRcQ+NWDRu9UTNgiSrKvQ5thRlti6o3YHWOWtgqGdU2qAV9vaWNo1rYa+rZcDgYmrtxL8yDM7KfpI+FDXuGZ9jsDwZ0TJsvUk/xj9r0+uVWpLu/8Vjt7EPXbRDENdsU07neL8D4Ktx8tlSu5rL7FicSQMxw9/KeghZxKe2MOhx21/gRjisAOjxP4BmekYVxWa8GBUkUpmzpxjX9azUARbgX1FAe8itQkOjdQ==;P9VkKPV5YKiYREV+pKK6pw=="
 ---

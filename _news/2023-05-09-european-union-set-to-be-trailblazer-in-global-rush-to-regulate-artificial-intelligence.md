@@ -7,7 +7,7 @@ originalUrl: "https://time.com/6278144/european-union-artificial-intelligence-re
 webUrl: "https://time.com/6278144/european-union-artificial-intelligence-regulation/"
 type: article
 quality: 76
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "How Europe is building artificial intelligence guardrails"
+    excerpt: "Authorities around the world are racing to draw up rules for artificial intelligence, including in the European Union, where draft legislation faces a pivotal moment"
+    publishedDateTime: 2023-05-11T07:02:00Z
+    webUrl: "https://abcnews.go.com/Technology/wireStory/europe-building-artificial-intelligence-guardrails-99247702"
+    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/europe-building-artificial-intelligence-guardrails-99247702"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/europe-building-artificial-intelligence-guardrails-99247702"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 72
+    images:
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
+        isCached: true
   - title: "The Global Battle to Regulate AI Is Just Beginning"
     excerpt: "Europe’s parliament is struggling to agree on new rules to govern AI—showing how policymakers everywhere have a lot to learn about the technology."
     publishedDateTime: 2023-05-08T06:00:00Z
