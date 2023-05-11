@@ -20,22 +20,6 @@ topics:
   - AI Ethics
   - AI
 
-related:
-  - title: "Artificial intelligence poses greater threat than climate change, says former Google scientist"
-    excerpt: "Google is also building its own powerful bots, as are tech giants Facebook and Microsoft. Hinton worked at Google for a decade on AI research Credit: Noah Berger/AP The hope is these machines ..."
-    publishedDateTime: 2023-05-06T11:36:00Z
-    webUrl: "https://www.telegraph.co.uk/business/2023/05/06/threat-artificial-intelligence-more-urgent-climate-change/"
-    type: article
-    provider:
-      name: The Daily Telegraph
-      domain: telegraph.co.uk
-    quality: 27
-    images:
-      - url: "https://www.telegraph.co.uk/content/dam/business/2023/05/06/TELEMMGLPICT000137981026_trans_NvBQzQNjv4BqtGQB12KHxxQCrwnTZkX0nwgWqwm85JEWpGVhFb46TTg.jpeg?impolicy=logo-overlay"
-        width: 1024
-        height: 536
-        isCached: true
-
 secured: "M/FMWk3hS962+qN/cRXZdEqDv4kWP7Hi45zvFQ1m1w1QOGArtisxT1z+uHGwwp1eDcG9j03DQf55LGkUE/qxVodHF1PEVEjhF/Uk2U1pYIjMJSF+0SJruRjhv6KGwD64/m1zLBZi/znOnxZSsOHPycoCWYCchXAZR8FnGFU+eZCGBOZq2GuJlDi+mYHkTrhcztBr0Z0wOpfgbRTe8jQKkPnbAtUCruuZZDTCAvjhYp1YubwdNsXGp730vQYVE9Yu0zRhRJBQhoIL1W1rLDyCxuPTQcBfl7b0QYLfOiwMXPQBaT15prf6n5Ppa77iBrn7YqNtt7dDB67je8QAM8ZE56aMt48QQmX9F2f1pmm0uhdSe/v1L3uiPH5tUaHyZS0AqUN55ckMGrJe3UouLl3ln1OEA7wSxniLKUI9VWFol4U+3jryayRw76qni7vlHLis2sv3/rvn45U/MgFrwryb2eWcZlkbrVtuZJ5uk3t7aYwluNKjQGjWLhLZGL/97zyK28bK2ZxE2wP+lLkcN9OWVA==;X1Ppp8XdwyqW9n45euo/Iw=="
 ---
 

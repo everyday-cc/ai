@@ -18,22 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "Buffett shares good news on profits, AI thoughts at meeting"
-    excerpt: "Warren Buffett's company said its first-quarter profits soared along with the paper value of its investment portfolio"
-    publishedDateTime: 2023-05-06T13:03:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/profits-jump-buffetts-company-ahead-annual-meeting-99136381"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/profits-jump-buffetts-company-ahead-annual-meeting-99136381"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/profits-jump-buffetts-company-ahead-annual-meeting-99136381"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 57
-    images:
-      - url: "https://s.abcnews.com/images/US/wirestory_125f7fd2fc2830d74fb8f246727fedcd_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Warren Buffett, Charlie Munger discuss profits, AI and more at Berkshire Hathaway meeting"
     excerpt: "Warren Buffett and partner Charlie Munger spent Saturday answering questions at Berkshire Hathaway's annual shareholders meeting."
     publishedDateTime: 2023-05-07T14:57:00Z

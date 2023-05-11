@@ -41,15 +41,6 @@ related:
         width: 1200
         height: 905
         isCached: true
-  - title: "AI Expert Exits Google and Joins Others in Voicing the Tech's Dangers"
-    excerpt: "In an interview with The New York Times, Geoffrey Hinton says AI-generated content will lead to misinformation and job loss."
-    publishedDateTime: 2023-05-06T12:01:00Z
-    webUrl: "https://www.cnet.com/news/misinformation/ai-expert-exits-google-and-joins-others-in-voicing-techs-dangers/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 47
   - title: "The AI boom is reshaping the cloud business"
     excerpt: "To support generative AI models, AWS, Microsoft and Google Cloud are investing in infrastructure and maneuvering to manage cost."
     publishedDateTime: 2023-05-08T21:01:00Z

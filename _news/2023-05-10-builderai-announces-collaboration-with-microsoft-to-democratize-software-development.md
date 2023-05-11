@@ -1,31 +1,27 @@
 ---
 category: news
 title: "Builder.ai announces collaboration with Microsoft to democratize software development"
-excerpt: "Builder.ai, the AI powered next generation composable software development platform that's so simple and accessible, allowing every individual and business to turn their ideas into software, today announced a strategic collaboration with Microsoft,"
-publishedDateTime: 2023-05-10T06:00:00Z
-originalUrl: "https://www.marketwatch.com/press-release/builderai-announces-collaboration-with-microsoft-to-democratize-software-development-2023-05-10"
-webUrl: "https://www.marketwatch.com/press-release/builderai-announces-collaboration-with-microsoft-to-democratize-software-development-2023-05-10"
+excerpt: "Builder.ai, the AI powered next generation composable software development platform that’s so simple and accessible, allowing every individual and business to turn their ideas into software, today announced a strategic collaboration with Microsoft,"
+publishedDateTime: 2023-05-10T06:14:00Z
+originalUrl: "https://technews.tmcnet.com/news/2023/05/10/9811121.htm"
+webUrl: "https://technews.tmcnet.com/news/2023/05/10/9811121.htm"
 type: article
-quality: 77
+quality: 47
 heat: -1
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
+  - url: "https://marketplace.connectwise.com/content/images/thumbs/0000635_skykick_550.png"
+    width: 550
+    height: 353
     isCached: true
 
 related:
@@ -115,6 +111,22 @@ related:
       - url: "https://www.mobileworldlive.com/wp-content/uploads/2023/03/AI-threat.jpg"
         width: 650
         height: 400
+        isCached: true
+  - title: "Microsoft invests in Builder.ai for scaling up AI efforts"
+    excerpt: "Microsoft has funded an undisclosed sum in Builder.ai, marking the company’s scaling up its efforts in Artificial Intelligence and competing with Google. Emphasising how Microsoft was committed to helping startups,"
+    publishedDateTime: 2023-05-11T05:35:00Z
+    webUrl: "https://www.exchange4media.com/digital-news/microsoft-invests-in-builderai-for-scaling-up-ai-efforts-127271.html"
+    ampWebUrl: "https://www.exchange4media.com/amp/digital-news/microsoft-invests-in-builderai-for-scaling-up-ai-efforts-127271.html"
+    cdnAmpWebUrl: "https://www-exchange4media-com.cdn.ampproject.org/c/s/www.exchange4media.com/amp/digital-news/microsoft-invests-in-builderai-for-scaling-up-ai-efforts-127271.html"
+    type: article
+    provider:
+      name: Exchange 4 Media
+      domain: exchange4media.com
+    quality: 74
+    images:
+      - url: "https://www.exchange4media.com/news-photo/127271-builderma.jpg"
+        width: 730
+        height: 395
         isCached: true
   - title: "MakeMyTrip introduces Microsoft Generative AI to make travel more inclusive"
     excerpt: "Leading online travel company MakeMyTrip on Monday said it has collaborated with Microsoft to make travel planning more inclusive and accessible by introducing voice assisted booking in Indian languages."
@@ -569,6 +581,6 @@ related:
       domain: glamsham.com
     quality: 16
 
-secured: "lhn3zS+YPxaFkAEMJoxEa4FkJePoJyVvRehSxgg8uFPZGJJ7e7eePDhM39ewVVZWhnZTKZUq7g5ZK6oSUD4k0xcT6w8GcPWCm/g7J0qZjQPpCBqONY2pmJz3TlFACEsWcovLvaGCo+faOFPec1DvrHB3p1apU9YVYXwZQhRJBPqCkO6c1lGUeUJR7Re/pJVnPRaaAIegmpvI+olR0CkgXgpKeiUFABDA7tVXbAx7/FzQl8XZeTaScUkSlboX7MhRWNrAa50ndVRayZFxyKx16qRgO5tjvo1bU4NUg252jJ2kun3G/Ls/OPQlKvwYqHxzDACJYNqXvlS6ito/McUENk+5gbIEIcHpxrrDfQNLR5o=;1pBr5G4935tyci3lE/vWsg=="
+secured: "aCUeaQ2xt6sydxlx2StB+xcXftGaIzCHP26DPff1uIZ866flSPgce13j2NaHIJmK+hOMnv6u28MylYHHB5pFu5vNV95EyFlSOJxP+0dHzOaYkYG4cs5hIDwpNjO53JwpxYygniKhX7+cGpkfncYpgNizGo17pVWx2ZT7e0fi8oMMHvNjA4mgqr+FSrDKGzpOB9jB7IC+e9bqcDGm1uUHIgshhKNGM4//QMlu19ObgVSgIYu4m7JA2XnQLUhb7KxaKeCd32qfmam5eQXgTdqwtCv1d/w/PCAWbK5mVQA4MQqL49+4S/K/lYIud0ef9UtlY4jOrqg48b+fOqRQH2SfDrogb83bEPahSB2ZSqKUZP4=;dqkftFqSwbkO9TlX0hhemQ=="
 ---
 

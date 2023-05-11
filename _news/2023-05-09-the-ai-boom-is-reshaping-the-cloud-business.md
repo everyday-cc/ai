@@ -42,15 +42,6 @@ related:
         width: 1200
         height: 905
         isCached: true
-  - title: "AI Expert Exits Google and Joins Others in Voicing the Tech's Dangers"
-    excerpt: "In an interview with The New York Times, Geoffrey Hinton says AI-generated content will lead to misinformation and job loss."
-    publishedDateTime: 2023-05-06T12:01:00Z
-    webUrl: "https://www.cnet.com/news/misinformation/ai-expert-exits-google-and-joins-others-in-voicing-techs-dangers/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 47
   - title: "AI is coming to the Play Store to help both users and devs"
     excerpt: "Like so many of the announcements during this year’s Google I/O, AI has been the star of the show and it’s turning up in almost everything. The Play Store is taking part in the action with its own set of new features,"
     publishedDateTime: 2023-05-10T19:32:00Z

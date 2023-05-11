@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "3D Facial Recognition Systems Market Research Analysis, 2023-2030"
-    excerpt: "A 3D Facial Recognition Systems market new report, spanning multiple 97 pages, offers an extensive and in-depth analysis"
-    publishedDateTime: 2023-05-10T15:58:00Z
-    webUrl: "https://www.marketwatch.com/press-release/3d-facial-recognition-systems-market-research-analysis-2023-2030-2023-05-10"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Speech and Voice Recognition Market Research Findings to 2030"
     excerpt: "The 2023 Global Speech and Voice Recognition Market Survey aims to provide comprehensive insights into the industry,"
     publishedDateTime: 2023-05-09T08:00:00Z

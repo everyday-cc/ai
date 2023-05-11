@@ -1,26 +1,20 @@
 ---
 category: news
 title: "New Artificial Intelligence Tool Can Diagnose Colon Cancer"
-excerpt: "Detailed price information for Bausch Health Companies Inc (BHC-T) from The Globe and Mail including charting and trades."
-publishedDateTime: 2023-05-03T15:28:00Z
-originalUrl: "https://www.theglobeandmail.com/investing/markets/stocks/BHC-T/pressreleases/16543041/new-artificial-intelligence-tool-can-diagnose-colon-cancer/"
-webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/BHC-T/pressreleases/16543041/new-artificial-intelligence-tool-can-diagnose-colon-cancer/"
+excerpt: "A new artificial intelligence (AI) model developed by Harvard Medical School and Taiwan’s National Cheng Kung University could provide much-needed clarity to clinicians presenting prognoses and deciding on therapies for patients with colon cancer."
+publishedDateTime: 2023-05-03T13:38:00Z
+originalUrl: "https://markets.buffalonews.com/buffnews/article/pressreach-2023-5-3-new-artificial-intelligence-tool-can-diagnose-colon-cancer"
+webUrl: "https://markets.buffalonews.com/buffnews/article/pressreach-2023-5-3-new-artificial-intelligence-tool-can-diagnose-colon-cancer"
 type: article
 
 provider:
-  name: The Globe and Mail
-  domain: theglobeandmail.com
+  name: The Buffalo News
+  domain: buffalonews.com
 
 topics:
   - AI in Healthcare
   - AI
 
-images:
-  - url: "https://barchart-news-media-prod.aws.barchart.com/FC/fbf6e68ba80e8e45990c8b0717fbffb9/bogdanhoda-1.jpg"
-    width: 777
-    height: 436
-    isCached: true
-
-secured: "pT78/D/eNAtZbiCP1PdstaCNkAgW6jYZaPbtbbZmf5dFF3al5GcW9cO6U2y31zLam58AuZiu2IAOzXY0VH3dMBOgUBEVMRkSCkwTj5pUFrhDj/dfdYZmXcYwZOTUuQnmLH9LwaGPOJgYAH7RyTazpoNo3v2fTPvhlE5mKIbEbuvtZBRXai9eaN/147TN1QHytPBEoL4LzKgV+1n/Zi8Tf42aRGI00mxD1aJKcyge0OEjuNtR/+vPGcm+2mNqubh0KN+XENJuomb1rr5ERpMn1nu2UYlx5QBsKn5MHI8nWvUHzlIB1W04EgkpXlve13JGITvntiUVJcrpv+Dwpw+cb2Se4mUEHM6vlkaBWaVcpgU=;/4xmMzrXwz6LO2m7mzg4Kw=="
+secured: "atDhCWyv4lF53Aq4Z2rPzekksJAQv2J04KQ1q8fsXKdh9E7T46jvla/UqI80wv2eTh5ltgefwp9xacQugEDN4R4PS5+P70vJT6MG3xxH2LA1a3ssHNKKB2rb3GN+gCtwrKvQgqGLSe6NqoET7oPPoKDmjvooAIs1cQKT4mkmsd1gmVXWByWvoO6ALOs8BaWLYd0ToVwzCLiFqBzYjQi2OUp1Fs2NXXV5mnKZODEei0OsqtOf8bJymn3DP1gWI+xMgo+tuEoQf3kIH6vdb37iGiUKoFzOaL90L8ezhJq4ItLF9PS1hJxyyNUXxWO3Qz1FDfRs6aRQWFpiX7TqKwv7XUHuvLSpTj1PvpplGGIO1VM=;+FO3hO5oTbi5D6Q0hxF4vA=="
 ---
 

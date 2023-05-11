@@ -2,6 +2,109 @@
   "page": 36,
   "value": [
     {
+      "path": "_news/2023-04-19-microsoft-is-developing-its-own-ai-chip-to-power-chatgpt-report.md",
+      "title": "Microsoft is developing its own AI chip to power ChatGPT: Report",
+      "excerpt": "Microsoft is reportedly joining the likes of Amazon, Google and Meta in developing its own in-house AI chips to fight the rising costs of Nvidia GPUs.",
+      "sourceUrl": null,
+      "webUrl": "https://cointelegraph.com/news/microsoft-is-developing-its-own-ai-chip-to-power-chatgpt-report",
+      "originalUrl": "https://cointelegraph.com/news/microsoft-is-developing-its-own-ai-chip-to-power-chatgpt-report",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-18T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CoinTelegraph",
+        "domain": "cointelegraph.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-18-study-machine-learning-models-cannot-be-trusted-with-absolute-certainty.md",
+      "title": "Study: Machine learning models cannot be trusted with absolute certainty",
+      "excerpt": "An article titled \"On misbehaviour and fault tolerance in machine learning systems,\" by doctoral researcher Lalli Myllyaho was named one of the best papers in 2022 by the Journal of Systems and Software.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2023-04-machine-absolute-certainty.html",
+      "originalUrl": "https://techxplore.com/news/2023-04-machine-absolute-certainty.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-18T09:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-18-hexagon-halves-quality-inspection-cycles-and-enables-flexible-manufacturing-with-the-presto-robotic-inspection-cell.md",
+      "title": "Hexagon halves quality inspection cycles and enables flexible manufacturing with the PRESTO robotic inspection cell",
+      "excerpt": "Improving safety: This robotic cell is built with safety in mind. Clear walls ensure others on the factory ... With PRESTO, they can automate processes, improve quality control and, ultimately, reduce time to market.\" PRESTO is available now.",
+      "sourceUrl": null,
+      "webUrl": "https://www.finanznachrichten.de/nachrichten-2023-04/58845261-hexagon-halves-quality-inspection-cycles-and-enables-flexible-manufacturing-with-the-presto-robotic-inspection-cell-008.htm",
+      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2023-04/58845261-hexagon-halves-quality-inspection-cycles-and-enables-flexible-manufacturing-with-the-presto-robotic-inspection-cell-008.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-18T08:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finanznachrichten",
+        "domain": "finanznachrichten.de",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-18-carbyne-launches-live-audio-translation-for-apex-emergency-call-platform.md",
       "title": "Carbyne Launches Live Audio Translation for APEX Emergency Call Platform",
       "excerpt": "Revolutionary AI technology helps customers reduce errors, support diversity, save time, and reduce costsDENVER, April 18, 2023 /PRNewswire/ --",
@@ -972,135 +1075,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-18-tric-robotics-offers-farmers-uv-pest-control.md",
-      "title": "Tric Robotics offers farmers UV pest control",
-      "excerpt": "One of Tric Robotics' tractors bathes crops in ultraviolet light. (courtesy photo) San Luis Obispo-based Tric Robotics started in Delaware in 2017 making small, lunchbox-sized robots for police SWAT teams.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pacbiztimes.com/2023/04/17/tric-robotics-offers-farmers-uv-pest-control/",
-      "originalUrl": "https://www.pacbiztimes.com/2023/04/17/tric-robotics-offers-farmers-uv-pest-control/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pacbiztimes.com/wp-content/uploads/2019/11/CHC.jpg",
-          "width": 350,
-          "height": 329,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-17T20:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Pacbiztimes.com",
-        "domain": "pacbiztimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-18-not-too-much-to-ask-harvard-undergrad-workers-rally-for-a-union-after-university-denies-recognition.md",
-      "title": "‘Not Too Much to Ask’: Harvard Undergrad Workers Rally for a Union After University Denies Recognition",
-      "excerpt": "Without voluntary recognition, HUWU will have to gain majority ... Sanders ’24 mentioned Curran’s reply during a speech at the rally, the crowd responded with boos. “Shame on Paul!",
-      "sourceUrl": null,
-      "webUrl": "https://www.thecrimson.com/article/2023/4/18/huwu-recognition-denied/",
-      "originalUrl": "https://www.thecrimson.com/article/2023/4/18/huwu-recognition-denied/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.amazonaws.com/thumbnails.thecrimson.com/photos/2023/04/17/230704_1363158.jpeg.2000x1333_q95_crop-smart_upscale.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-17T20:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Harvard Crimson",
-        "domain": "thecrimson.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-18-ai-terminologies-101understanding-neural-networks.md",
-      "title": "AI Terminologies 101:Understanding Neural Networks",
-      "excerpt": "Neural Networks are a type of artificial intelligence (AI) that's modeled after the way the human brain works. They're made up of interconnected nodes or \"neurons\" that process information and ...",
-      "sourceUrl": null,
-      "webUrl": "https://yourstory.com/2023/04/ai-terminologies-101-understanding-neural-networks",
-      "originalUrl": "https://yourstory.com/2023/04/ai-terminologies-101-understanding-neural-networks",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/NucleusAIwall-elikecuterobotsmilingandreadingabooklo64cf6bf2-2dc6-4006-80fc-53762f2dce632-1681470773317.jpg?fm=png&auto=format",
-          "width": 1536,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-17T20:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Your Story",
-        "domain": "yourstory.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

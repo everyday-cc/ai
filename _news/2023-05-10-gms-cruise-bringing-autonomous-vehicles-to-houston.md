@@ -7,7 +7,7 @@ originalUrl: "https://www.houstonchronicle.com/business/article/autonomous-vehic
 webUrl: "https://www.houstonchronicle.com/business/article/autonomous-vehicle-houston-general-motors-test-18088431.php"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Cruise expands supervised self-driving ride-hailing to Houston and Dallas"
+    excerpt: "Cruise is rolling out its self-driving cars to more cities — specifically, to Houston and Dallas as it expands its Texas-based presence. Cruise already started testing its vehicles in Austin at the end of last year,"
+    publishedDateTime: 2023-05-10T17:25:00Z
+    webUrl: "https://techcrunch.com/2023/05/10/cruise-expands-supervised-self-driving-ride-hailing-to-houston-and-dallas/"
+    ampWebUrl: "https://techcrunch.com/2023/05/10/cruise-expands-supervised-self-driving-ride-hailing-to-houston-and-dallas/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/10/cruise-expands-supervised-self-driving-ride-hailing-to-houston-and-dallas/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 88
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/04/Ridehail-Rider-Entry.jpg?resize=1200,800"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "California self-driving technology company Cruise coming to Houston, Dallas"
     excerpt: "Cruise announced on Wednesday the San Francisco-based company will expand its operations to Dallas and Houston."
     publishedDateTime: 2023-05-10T18:38:00Z

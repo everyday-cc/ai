@@ -7,7 +7,7 @@ originalUrl: "https://www.usatoday.com/story/money/2023/05/07/warren-buffett-ber
 webUrl: "https://www.usatoday.com/story/money/2023/05/07/warren-buffett-berkshire-hathaway-charlie-munger/70192392007/"
 type: article
 quality: 28
-heat: -1
+heat: 28
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Buffett shares good news on profits, AI thoughts at meeting"
-    excerpt: "Warren Buffett's company said its first-quarter profits soared along with the paper value of its investment portfolio"
-    publishedDateTime: 2023-05-06T13:03:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/profits-jump-buffetts-company-ahead-annual-meeting-99136381"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/profits-jump-buffetts-company-ahead-annual-meeting-99136381"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/profits-jump-buffetts-company-ahead-annual-meeting-99136381"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 57
-    images:
-      - url: "https://s.abcnews.com/images/US/wirestory_125f7fd2fc2830d74fb8f246727fedcd_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Buffett shares good news on profits, AI thoughts at meeting"
     excerpt: "Warren Buffett's company said its first-quarter profits soared along with the paper value of its investment portfolio"
     publishedDateTime: 2023-05-06T23:32:00Z

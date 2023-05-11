@@ -185,6 +185,20 @@ related:
         width: 1500
         height: 800
         isCached: true
+  - title: "Redefining AI with watsonx: Highlights from IBM Think 2023"
+    excerpt: "Chairman and CEO Arvind Krishna address the attendees at the IBM Think event. (Source – IBM) At the annual Think conference, IBM presented watsonx, an AI platform set to boost AI use and scalability in any cloud setting."
+    publishedDateTime: 2023-05-11T04:01:00Z
+    webUrl: "https://techwireasia.com/2023/05/redefining-ai-with-watsonx-highlights-from-ibm-think-2023/"
+    type: article
+    provider:
+      name: techwireasia.com
+      domain: techwireasia.com
+    quality: 54
+    images:
+      - url: "https://cdn.techwireasia.com/wp-content/uploads/2023/05/arvind-897x500.jpg"
+        width: 897
+        height: 500
+        isCached: true
   - title: "5 Ways Artificial Intelligence is Changing The Future Of Business"
     excerpt: "Tech - Artificial intelligence (AI) has been a game-changer in countless ways across the world. Companies and businesses are able to use enhanced AI systems to"
     publishedDateTime: 2023-05-07T14:39:00Z

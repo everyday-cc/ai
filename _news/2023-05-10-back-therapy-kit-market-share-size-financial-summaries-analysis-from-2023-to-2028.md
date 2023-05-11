@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Machine Learning & Big Data Analytics Education Market 2023 to Hit Statistical Significance Value by 2030"
+    excerpt: "The Machine Learning and Big Data Analytics Education Market is Expected to Lead During the Forecast Period 2023-2030 in Information and Communication Technology, Information Technology Sector. Market Growth Report Has Segmented the Global Machine Learning and Big Data Analytics Education market report based on Type (Machine Learning,"
+    publishedDateTime: 2023-05-11T04:25:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-big-data-analytics-education-market-2023-to-hit-statistical-significance-value-by-2030-2023-05-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 71
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Face Recognition Software Market 2023 with Regional Segmentations Forecast till 2030"
     excerpt: "The Global \"Face Recognition Software Market\" report analyzes crucial growth factors, key strategies employed by"
     publishedDateTime: 2023-05-08T09:02:00Z

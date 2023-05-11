@@ -6,8 +6,8 @@ publishedDateTime: 2023-05-10T07:34:00Z
 originalUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-robotics-market-2023-2030-understanding-the-impact-of-trend-and-technology-2023-05-10"
 webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-robotics-market-2023-2030-understanding-the-impact-of-trend-and-technology-2023-05-10"
 type: article
-quality: 80
-heat: 120
+quality: 82
+heat: 132
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Autos
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
@@ -29,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "3D Facial Recognition Systems Market Research Analysis, 2023-2030"
+    excerpt: "A 3D Facial Recognition Systems market new report, spanning multiple 97 pages, offers an extensive and in-depth analysis"
+    publishedDateTime: 2023-05-10T15:58:00Z
+    webUrl: "https://www.marketwatch.com/press-release/3d-facial-recognition-systems-market-research-analysis-2023-2030-2023-05-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Deep Learning in CT Scanners Market Analysis of New Report 2023-2030"
     excerpt: "A Promising Outlook for the Global Deep Learning in CT Scanners Market from 2023 to 2030 Why is Deep Learning in CT Scanners market 2023 Important? - Overall, the Deep Learning in CT Scanners market in 2023 is essential for businesses to understand the market landscape,"
     publishedDateTime: 2023-05-10T16:21:00Z

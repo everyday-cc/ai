@@ -7,7 +7,7 @@ originalUrl: "https://www.waste360.com/business/amp-robotics-raises-additional-s
 webUrl: "https://www.waste360.com/business/amp-robotics-raises-additional-series-c-investment-microsoft-climate-innovation-fund"
 type: article
 quality: 77
-heat: 117
+heat: 118
 published: true
 
 provider:

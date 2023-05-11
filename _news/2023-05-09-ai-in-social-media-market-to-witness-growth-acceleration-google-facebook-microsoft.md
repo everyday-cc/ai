@@ -95,20 +95,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Builder.ai announces collaboration with Microsoft to democratize software development"
-    excerpt: "Builder.ai, the AI powered next generation composable software development platform that's so simple and accessible, allowing every individual and business to turn their ideas into software, today announced a strategic collaboration with Microsoft,"
-    publishedDateTime: 2023-05-10T06:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/builderai-announces-collaboration-with-microsoft-to-democratize-software-development-2023-05-10"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 77
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Microsoft backs UK start-up in latest AI push"
     excerpt: "Microsoft splurged an undisclosed sum of equity investment in UK-based AI developer Builder.ai under a broader strategic partnership."
     publishedDateTime: 2023-05-10T15:55:00Z
@@ -124,6 +110,22 @@ related:
       - url: "https://www.mobileworldlive.com/wp-content/uploads/2023/03/AI-threat.jpg"
         width: 650
         height: 400
+        isCached: true
+  - title: "Microsoft invests in Builder.ai for scaling up AI efforts"
+    excerpt: "Microsoft has funded an undisclosed sum in Builder.ai, marking the company’s scaling up its efforts in Artificial Intelligence and competing with Google. Emphasising how Microsoft was committed to helping startups,"
+    publishedDateTime: 2023-05-11T05:35:00Z
+    webUrl: "https://www.exchange4media.com/digital-news/microsoft-invests-in-builderai-for-scaling-up-ai-efforts-127271.html"
+    ampWebUrl: "https://www.exchange4media.com/amp/digital-news/microsoft-invests-in-builderai-for-scaling-up-ai-efforts-127271.html"
+    cdnAmpWebUrl: "https://www-exchange4media-com.cdn.ampproject.org/c/s/www.exchange4media.com/amp/digital-news/microsoft-invests-in-builderai-for-scaling-up-ai-efforts-127271.html"
+    type: article
+    provider:
+      name: Exchange 4 Media
+      domain: exchange4media.com
+    quality: 74
+    images:
+      - url: "https://www.exchange4media.com/news-photo/127271-builderma.jpg"
+        width: 730
+        height: 395
         isCached: true
   - title: "MakeMyTrip introduces Microsoft Generative AI to make travel more inclusive"
     excerpt: "Leading online travel company MakeMyTrip on Monday said it has collaborated with Microsoft to make travel planning more inclusive and accessible by introducing voice assisted booking in Indian languages."
@@ -402,6 +404,20 @@ related:
       name: Wall Street Journal
       domain: wsj.com
     quality: 47
+  - title: "Builder.ai announces collaboration with Microsoft to democratize software development"
+    excerpt: "Builder.ai, the AI powered next generation composable software development platform that’s so simple and accessible, allowing every individual and business to turn their ideas into software, today announced a strategic collaboration with Microsoft,"
+    publishedDateTime: 2023-05-10T06:14:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/05/10/9811121.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 47
+    images:
+      - url: "https://marketplace.connectwise.com/content/images/thumbs/0000635_skykick_550.png"
+        width: 550
+        height: 353
+        isCached: true
   - title: "Makemytrip Collaborates With Microsoft To Reshape The Travel Booking Landscape With Generative AI"
     excerpt: "In a landmark move, MakeMyTrip has collaborated with Microsoft to make travel planning more inclusive and accessible by intro"
     publishedDateTime: 2023-05-08T10:37:00Z

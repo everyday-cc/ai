@@ -9,8 +9,8 @@ ampWebUrl: "https://www.bbc.co.uk/news/education-65316283.amp"
 cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/education-65316283.amp"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: BBC
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Money Matters: Move over ChatGPT — AI’s coming for a byte of the medical and dental industries"
+    excerpt: "Wielding these types of results ensures a permanent place for this technology in health care and other fields. According to Statista, the artificial intelligence health care market size was worth ..."
+    publishedDateTime: 2023-05-06T15:49:00Z
+    webUrl: "https://www.heraldextra.com/news/community/2023/may/06/money-matters-move-over-chatgpt-ais-coming-for-a-byte-of-the-medical-and-dental-industries/"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: heraldextra.com
+    quality: 27
+    images:
+      - url: "https://ogden_images.s3.amazonaws.com/www.heraldextra.com/images/2023/05/04215649/image-6-1200x643.png"
+        width: 1200
+        height: 643
+        isCached: true
   - title: "Seeing potential learning tool, Boston University academic unit outlines policies for student use of AI"
     excerpt: "It’s not just a case of chatbots in the classroom – while some schools shy away from using ChatGPT, Boston University is embracing the"
     publishedDateTime: 2023-05-08T21:06:00Z
