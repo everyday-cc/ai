@@ -127,6 +127,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 27
+  - title: "Creating Business Content With Artificial Intelligence"
+    excerpt: "Sometimes all it takes is a word or concept to get a writer \"unstuck.\" ChatGPT is a great tool to spark the infamous light bulb moment. Ask it for ideas generally related to the concept you are writing about."
+    publishedDateTime: 2023-05-09T14:44:00Z
+    webUrl: "https://www.inc.com/inc-masters/creating-business-content-with-artificial-intelligence.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 17
 
 secured: "nTRcZ2fNdAjYIALbivdWxIk54ldfL4Pd0awK5uDHRvPQ/JooPsib/sE0qEXnbu85326C7ijqLNNKCTGwysFfG6slER51k5oQbc4k08PZDLrP3qryCOeUOZwW9WtfpTXJ3yqYq+2U5JN5mrJD5ttNbo+/euV40t5wbvZiMRbydi4hZH6ZJXABwoqJZ45SKziG1IyIOxAjVcpd3cLVVmFbVlU0vwmQZAI0YtHo7J/04aE7nt1fV2oBA4tfZiFW7s0CnyIg3qBBFpuIh0wZr1fq+dgfpmpRuYv2yVCotVdus36VzVlt5rgWbzeqVi0I9rcAPt0vRpSqe3TI7HGr9BRqm4x/I8IYul3APYmrMEeY+TCVDHxrL6kDzxHlTKwpiMjB0D/Z1mo1ZoFqT0Q4AcLr2MMhia/3XiDtU437wSQKbzCVpCKadumDusyQS8u4joWSRaEn/9C11UEPCn1IPE243LmZafzdmt0X80LA8VPGwO/HtLMfZqRjZDsF6AnnkI7YAfPsgFc7HpTaynUUn8J3gA==;MwHFRlSie9VowS6RN5pKkA=="
 ---

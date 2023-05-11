@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/joemckendrick/2023/05/07/rise-of-ai-als
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/05/07/rise-of-ai-also-raises-demand-for-creative-skills/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Google releases new generative AI products and features for Google Cloud and Vertex AI"
+    excerpt: "Google announced at its developer conference Google I/O 2023 new products and features that give customers access to new generative AI modalities and expanded ways to use and tune custom models."
+    publishedDateTime: 2023-05-11T01:06:00Z
+    webUrl: "https://venturebeat.com/ai/google-releases-new-generative-ai-products-and-features-for-google-cloud-and-vertex-ai/"
+    ampWebUrl: "https://venturebeat.com/ai/google-releases-new-generative-ai-products-and-features-for-google-cloud-and-vertex-ai/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/google-releases-new-generative-ai-products-and-features-for-google-cloud-and-vertex-ai/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 79
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/05/GenAI-Google.png?w=1200&strip=all"
+        width: 1200
+        height: 591
+        isCached: true
   - title: "AI Used for Early Detection and Treatment of Illnesses"
     excerpt: "Karl Leo, Dr. Hans Kleemann and Matteo Cucchi demonstrates an approach for real-time classification of healthy and diseased bio-signals based on a biocompatible AI chip. They used polymer-based fiber networks that structurally resemble the human brain and ..."
     publishedDateTime: 2023-05-08T00:00:00Z

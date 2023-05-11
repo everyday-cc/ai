@@ -2,6 +2,100 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-05-11-top-10-google-ai-products-to-take-on-amazon-chatgpt-and-microsoft.md",
+      "title": "Top 10 Google AI Products To Take On Amazon, ChatGPT And Microsoft",
+      "excerpt": "It was all about AI as Google I/O 2023 kicked off at Google headquarters in Mountain View, California with a keynote by CEO Sundar Pichai. Here are the top ten AI products and features to watch for from the tech giant in the coming months and how to sign up to become a tester.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/martineparis/2023/05/10/top-10-google-ai-products-to-take-on-amazon-microsoft-and-chatgpt/",
+      "originalUrl": "https://www.forbes.com/sites/martineparis/2023/05/10/top-10-google-ai-products-to-take-on-amazon-microsoft-and-chatgpt/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 524,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/645c46a1baf555e1902796dd/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 805,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/martineparis/2023/05/10/top-10-google-ai-products-to-take-on-amazon-microsoft-and-chatgpt/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martineparis/2023/05/10/top-10-google-ai-products-to-take-on-amazon-microsoft-and-chatgpt/amp/",
+      "publishedDateTime": "2023-05-10T18:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-11-google-launches-new-ai-tools.md",
+      "title": "Google launches new AI tools",
+      "excerpt": "As the race to dominate artificial intelligence escalates between tech giants, Google unveiled new AI software to build presentations, analyze and enter data, and write content. NBC News’ Jacob Ward has more details on growing concerns over the future of AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/nightly-news/video/google-launches-new-ai-tools-173891653794",
+      "originalUrl": "https://www.nbcnews.com/nightly-news/video/google-launches-new-ai-tools-173891653794",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 227,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_05/1683761014453_nn_jwa_googles_ai_launch_230510_1920x1080-r8qeop.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo173891653794",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo173891653794",
+      "publishedDateTime": "2023-05-10T16:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-11-google-is-transforming-the-cloud-with-ai-for-both-developers-and-regular-users.md",
       "title": "Google is transforming the cloud with AI — for both developers and regular users",
       "excerpt": "Google is integrating generative AI into its cloud via a new interface, Duet AI, that helps make cloud developers and users more productive.",
@@ -10,7 +104,7 @@
       "originalUrl": "https://venturebeat.com/ai/google-is-transforming-the-cloud-with-ai-for-both-developers-and-regular-users/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 122,
+      "heat": 112,
       "tags": null,
       "images": [
         {
@@ -53,48 +147,6 @@
       ]
     },
     {
-      "path": "_news/2023-05-11-google-is-giving-its-dominant-search-engine-an-artificial-intelligence-makeover.md",
-      "title": "Google is giving its dominant search engine an artificial-intelligence makeover",
-      "excerpt": "Google, which is owned by Alphabet Inc., already has been testing its own conversational chatbot called Bard.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/tech/tech-news/google-giving-dominant-search-engine-artificial-intelligence-makeover-rcna83863",
-      "originalUrl": "https://www.nbcnews.com/tech/tech-news/google-giving-dominant-search-engine-artificial-intelligence-makeover-rcna83863",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-05/230510-sundar-pichai-ew-643p-032d83.jpg",
-          "width": 2500,
-          "height": 1546,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna83863",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna83863",
-      "publishedDateTime": "2023-05-10T15:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-05-11-google-unveils-advanced-ai-model-to-beef-up-bard-search-maps-and-more.md",
       "title": "Google unveils advanced AI model to beef up Bard, Search, Maps and more",
       "excerpt": "With its new PaLM 2 large language model, Google said its key products and services will be simpler and smarter thanks to a huge dose of AI.",
@@ -103,7 +155,7 @@
       "originalUrl": "https://www.techrepublic.com/article/google-unveils-advanced-ai-bard-search-maps/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 191,
+      "heat": 201,
       "tags": null,
       "images": [
         {
@@ -241,7 +293,7 @@
       "originalUrl": "https://www.zdnet.com/article/how-to-join-the-google-search-labs-waitlist-to-access-its-new-ai-search-engine-early/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 100,
+      "heat": 90,
       "tags": null,
       "images": [
         {
@@ -493,6 +545,59 @@
       ]
     },
     {
+      "path": "_news/2023-05-11-palm-2-is-a-major-ai-update-built-into-25-google-products.md",
+      "title": "PaLM 2 Is a Major AI Update Built Into 25 Google Products",
+      "excerpt": "Google on Wednesday unveiled a new AI system called PaLM 2, a major update to its most powerful language processing system. The artificial intelligence technology already is incorporated into 25 Google products, underscoring its importance as the company races to capitalize on a computing revolution.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/tech/computing/palm-2-is-a-major-ai-update-built-into-25-google-products/",
+      "originalUrl": "https://www.cnet.com/tech/computing/palm-2-is-a-major-ai-update-built-into-25-google-products/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/fe3d1d07b739cc3244a8a9fcfe9874465549ff2c/hub/2023/05/10/cdb8cbe0-b31f-453b-a7be-880690b5828c/palm2.jpg?auto=webp&fit=crop&height=630&width=1200",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/palm-2-is-a-major-ai-update-built-into-25-google-products/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/palm-2-is-a-major-ai-update-built-into-25-google-products/",
+      "publishedDateTime": "2023-05-10T12:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2023-05-11-google-io-2023-live-blog-pixel-7a-fold-tablet-and-bard-ai-reveals.md",
       "title": "Google I/O 2023 Live Blog: Pixel 7A, Fold, Tablet and Bard AI Reveals",
       "excerpt": "Google I/O 2023, the company's annual developer conference is now underway and is already including reveals for Google's AI plans, the new Pixel 7A, Pixel Fold and Pixel Tablet. Google's keynote has just wrapped, but you can check out all the major highlights from our live blog below.",
@@ -586,6 +691,57 @@
       "topics": [
         "AI",
         "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-11-film-and-tv-writers-should-not-fear-ai-the-chairman-of-uclas-screenwriting-program-says.md",
+      "title": "Film and TV writers 'should not fear' AI, the chairman of UCLA's screenwriting program says",
+      "excerpt": "Richard Walter, a screenwriter for half a century, says AI tools like ChatGPT can be a useful tool for writers and exhibit flaws just like humans do.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/film-tv-writers-should-not-fear-ai-amid-strike-screenwriting-2023-5",
+      "originalUrl": "https://www.businessinsider.com/film-tv-writers-should-not-fear-ai-amid-strike-screenwriting-2023-5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/645ba2cac726bc00196ab5d5?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/film-tv-writers-should-not-fear-ai-amid-strike-screenwriting-2023-5?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/film-tv-writers-should-not-fear-ai-amid-strike-screenwriting-2023-5?amp",
+      "publishedDateTime": "2023-05-10T11:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     },
     {
@@ -683,57 +839,6 @@
       ]
     },
     {
-      "path": "_news/2023-05-11-google-makes-its-text-to-music-ai-public.md",
-      "title": "Google makes its text-to-music AI public",
-      "excerpt": "Google has launched a new tool that allows users to create music from text prompts. But the tech raises ethical and legal questions.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/05/10/google-makes-its-text-to-music-ai-public/",
-      "originalUrl": "https://techcrunch.com/2023/05/10/google-makes-its-text-to-music-ai-public/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/05/Frame_26063334.width-1200.format-webp.webp?w=1200",
-          "width": 1200,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/05/10/google-makes-its-text-to-music-ai-public/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/10/google-makes-its-text-to-music-ai-public/amp/",
-      "publishedDateTime": "2023-05-10T10:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-05-11-amp-robotics-raises-additional-series-c-investment-from-microsoft-climate-innovation-fund.md",
       "title": "AMP Robotics Raises Additional Series C Investment From Microsoft Climate Innovation Fund",
       "excerpt": "AMP Robotics Corp. (“AMP”), a pioneer in artificial intelligence (AI), robotics, and infrastructure for the waste and recycling industry, has received financing from Microsoft’s Climate Innovation Fund.",
@@ -827,58 +932,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-11-google-opens-up-about-palm-2-its-new-generative-ai-llm.md",
-      "title": "Google opens up about PaLM 2, its new generative AI LLM",
-      "excerpt": "Google's new PaLM 2 LLM will power at least 25 Google products and services that are being detailed during sessions at today's Google I/O.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/google-opens-up-about-palm-2-its-new-generative-ai-llm/",
-      "originalUrl": "https://venturebeat.com/ai/google-opens-up-about-palm-2-its-new-generative-ai-llm/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/05/Palm-2.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 666,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/google-opens-up-about-palm-2-its-new-generative-ai-llm/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/google-opens-up-about-palm-2-its-new-generative-ai-llm/amp/",
-      "publishedDateTime": "2023-05-10T10:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     },
     {
@@ -986,7 +1039,7 @@
       "originalUrl": "https://blog.google/products/maps/google-maps-updates-io-2023/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 139,
+      "heat": 149,
       "tags": null,
       "images": [
         {
@@ -1173,58 +1226,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-10-trayio-launches-merlin-ai-to-automate-complex-workflows-without-llm-training.md",
-      "title": "Tray.io launches Merlin AI to automate complex workflows without LLM training",
-      "excerpt": "The company claims that the Tray platform is the first iPaaS solution to provide generative AI capabilities accessible to all users.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/tray-io-launches-merlin-ai-to-automate-complex-workflows-without-llm-training/",
-      "originalUrl": "https://venturebeat.com/ai/tray-io-launches-merlin-ai-to-automate-complex-workflows-without-llm-training/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/05/Feature-3-1200-x-675.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/tray-io-launches-merlin-ai-to-automate-complex-workflows-without-llm-training/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/tray-io-launches-merlin-ai-to-automate-complex-workflows-without-llm-training/amp/",
-      "publishedDateTime": "2023-05-10T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

@@ -24,43 +24,103 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "Natural Language Processing For Healthcare And Life Sciences Market Projected to Show Strong Growth by 2030| Microsoft, Google, IBM, 3M"
-    excerpt: "The Global Natural Language Processing For Healthcare And Life Sciences Market research report gives an essential outline"
-    publishedDateTime: 2023-05-08T10:16:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-for-healthcare-and-life-sciences-market-projected-to-show-strong-growth-by-2030-microsoft-google-ibm-3m-2023-05-08"
+  - title: "Latest \"Deep Learning Chip Market\" Trends 2023-2030"
+    excerpt: "(The Expresswire) -- \"Deep Learning Chip Market\" Insights 2023 By Types ( Graphics Processing Units (GPUs), Central Processing Units"
+    publishedDateTime: 2023-05-10T08:45:00Z
+    webUrl: "https://www.marketwatch.com/press-release/latest-deep-learning-chip-market-trends-2023-2030-2023-05-10"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 71
+    quality: 86
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "AI in Social Media Market to Witness Growth Acceleration | Google, Facebook, Microsoft"
-    excerpt: "The global AI in Social Media Market is expected to Expand at a significant CAGR of +28% during the Forecasting Period of 2023-2029. A2Z Market Research announces the release of AI in Social Media Market research report."
-    publishedDateTime: 2023-05-09T14:33:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-social-media-market-to-witness-growth-acceleration-google-facebook-microsoft-2023-05-09"
+  - title: "AI Accelerator Chip Market: Trend & Outlook by 2030"
+    excerpt: "The Main Objective of The AI Accelerator Chip Market Is to Develop the Perspectives of Business Professionals and"
+    publishedDateTime: 2023-05-09T03:57:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-accelerator-chip-market-trend-outlook-by-2030-2023-05-08"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 58
-  - title: "Face Recognition Paper Picker Market Projected to Show Strong Growth by 2030|Sunpn, SVAVO, Shikoku, Kimberly-Clark"
-    excerpt: "The \"Global Face Recognition Paper Picker Market Report 2030\" offers a clear understanding of the subject matter. The"
-    publishedDateTime: 2023-05-08T11:33:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-paper-picker-market-projected-to-show-strong-growth-by-2030sunpn-svavo-shikoku-kimberly-clark-2023-05-08"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 47
+    quality: 84
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
+  - title: "Machine Learning Data Catalog Software Market, 2030"
+    excerpt: "The Global Machine Learning Data Catalog Software market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players,"
+    publishedDateTime: 2023-05-07T15:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-data-catalog-software-market-2030-2023-05-07"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Deep Learning in Manufacturing Market Size, 2030"
+    excerpt: "The Global Deep Learning in Manufacturing market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players,"
+    publishedDateTime: 2023-05-08T06:05:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-in-manufacturing-market-size-2030-2023-05-08"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Machine Learning 2023 Market Size, Historical Growth, Analysis up to 2030"
+    excerpt: "The key players in the Machine Learning market include global distribution system (GDS) providers, such as These companies are typically the largest or most prominent players in the industry, and they may have significant market share,"
+    publishedDateTime: 2023-05-10T13:14:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-2023-market-size-historical-growth-analysis-up-to-2030-2023-05-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 68
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global \"Machine Learning Market\" 2023 to See Massive Growth by 2030 | Research Reports World"
+    excerpt: "The Machine Learning Market Scope and Overview Report for 2023 presents a detailed analysis of the latest trends in"
+    publishedDateTime: 2023-05-09T10:36:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-machine-learning-market-2023-to-see-massive-growth-by-2030-research-reports-world-2023-05-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 38
+  - title: "Machine Learning in Manufacturing Market in 2023: Latest Innovations and Growth Strategies till 2030"
+    excerpt: "The Global \"Machine Learning in Manufacturing Market\" report analyzes crucial growth factors, key strategies employed"
+    publishedDateTime: 2023-05-08T08:56:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-in-manufacturing-market-in-2023-latest-innovations-and-growth-strategies-till-2030-2023-05-08"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 34
+  - title: "Current \"Artificial Intelligence Systems in Healthcare Market\" Trends 2023: Future Business Expansion and Improvements Forecast 2030"
+    excerpt: "A Comprehensive Growth Research 2023: “Artificial Intelligence Systems in Healthcare Market” | Survey with [113]"
+    publishedDateTime: 2023-05-09T12:03:00Z
+    webUrl: "https://www.marketwatch.com/press-release/current-artificial-intelligence-systems-in-healthcare-market-trends-2023-future-business-expansion-and-improvements-forecast-2030-2023-05-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 33
 
 secured: "bPzVptt0O48lsODdZJatw625WwCuuST1MGHsWx7mxlxAAhNaFzD056xItOvHm8grxy9211TpxtWZv8z+Xwkta14dQnSYgVSRcM1LTLM564VZjNMwjUq6kZ25tIGwMyUrEVBmziVY9E0cYCbysC7EiZEdUDLPD/xvZhTvI7mHkv2PhxnundvG1OUbVhtGfS9w+DGo40t1xkLb9GsaPF3Ohw7iq+cwH28lYgf27PT8QNOIlwmBf2xrsHLWqEEkNmDK0j2G/jAwiuTSIZzvByB6FQrrC9z8Fw9pukxeuK3IxVTDLcEhXgziHa01WI9x8oWn+3TYzPFc8EBoG7hZRWml2ua4QI75XHh+ssveLfHtMpI=;7qjvVA1I1GJacuyONpsrhg=="
 ---

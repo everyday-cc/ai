@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/google-chrome-brings-better-ai-
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/google-chrome-brings-better-ai-brains-to-the-web/"
 type: article
 quality: 87
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -72,6 +72,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Google is throwing generative AI at everything"
+    excerpt: "But experts say that releasing these models into the wild before fixing their flaws could prove extremely risky for the company."
+    publishedDateTime: 2023-05-10T19:00:00Z
+    webUrl: "https://www.technologyreview.com/2023/05/10/1072880/google-is-throwing-generative-ai-at-everything/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 19
 
 secured: "ewfCYouepXiNvZGkOBVxPYMHXoIJ2OTWFt5FarCGOGFr3Ogv6FAqcOgjhvwPZ/HIFPXenENhqnOIUkL8bHaAvAYYx4UoqbOt1lzWOkD8UPiZzFxf/nw06Xlui5Etn4X43Ugt+L6WqBJj/agy846Pcruoes1kP36ThObd308lYABdznM3rizJtjwo7lghi9gtbqsl0A6uDpgEYK72rKFzbgA5kOkoKy8EuFJt3WOfkKCQHGEbcyETLDzwlO+xe39rCmH9Ukxv6CO2fzkeNuYjz1vLm1mMTBTAVlSFDKbPvniaYoYZP8/BTNJOVjwGJ3PXzGoKv5LIMALdV0abdStDPeM/kgbIlpzqVYUL1KQmC9w=;YHKphZZA3wFAWIWekbQ2Cg=="
 ---

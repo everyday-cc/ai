@@ -57,22 +57,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "MakeMyTrip collaborates with Microsoft to reshape the travel booking landscape with generative AI"
-    excerpt: "In a landmark move, MakeMyTrip has collaborated with Microsoft to make travel planning more inclusive and accessible."
-    publishedDateTime: 2023-05-09T08:01:00Z
-    webUrl: "https://www.traveldailymedia.com/makemytrip-collaborates-with-microsoft-to-reshape-the-travel-booking-landscape-with-generative-ai/"
-    ampWebUrl: "https://www.traveldailymedia.com/makemytrip-collaborates-with-microsoft-to-reshape-the-travel-booking-landscape-with-generative-ai/amp/"
-    cdnAmpWebUrl: "https://www-traveldailymedia-com.cdn.ampproject.org/c/s/www.traveldailymedia.com/makemytrip-collaborates-with-microsoft-to-reshape-the-travel-booking-landscape-with-generative-ai/amp/"
-    type: article
-    provider:
-      name: Travel Daily Media
-      domain: traveldailymedia.com
-    quality: 61
-    images:
-      - url: "https://www.traveldailymedia.com/assets/2023/05/shutterstock_2130878285.jpg"
-        width: 1000
-        height: 667
-        isCached: true
   - title: "MakeMyTrip adds AI voice chat to lure more travellers"
     excerpt: "MakeMyTrip Ltd. will use Microsoft Corp.’s Azure Open AI technology for the chat, initially available in English and Hindi, the Indian company said in a statement Monday."
     publishedDateTime: 2023-05-08T08:32:00Z
@@ -104,20 +88,6 @@ related:
       - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/29_11_2021_13_10_29_7850503.jpg?width=1280"
         width: 1280
         height: 960
-        isCached: true
-  - title: "Makemytrip Collaborates With Microsoft To Reshape The Travel Booking Landscape With Generative AI"
-    excerpt: "In a landmark move, MakeMyTrip has collaborated with Microsoft to make travel planning more inclusive and accessible by intro"
-    publishedDateTime: 2023-05-08T10:37:00Z
-    webUrl: "https://menafn.com/1106196713/Makemytrip-Collaborates-With-Microsoft-To-Reshape-The-Travel-Booking-Landscape-With-Generative-AI"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 41
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?633811"
-        width: 333
-        height: 250
         isCached: true
   - title: "MakeMyTrip Partners with Microsoft to Reshape Travel Booking Landscape"
     excerpt: "MakeMyTrip has collaborated with Microsoft to make travel planning more inclusive and accessible by introducing voice assisted booking in Indian languages. The new, in-platform tech stack powered by Microsoft Azure OpenAI Service and Azure Cognitive Services,"

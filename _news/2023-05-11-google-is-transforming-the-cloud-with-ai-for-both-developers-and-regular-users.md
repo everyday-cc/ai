@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/google-is-transforming-the-cloud-with-ai-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/google-is-transforming-the-cloud-with-ai-for-both-developers-and-regular-users/amp/"
 type: article
 quality: 82
-heat: 122
+heat: 112
 published: true
 
 provider:
@@ -39,20 +39,6 @@ related:
       name: CNET
       domain: cnet.com
     quality: 47
-  - title: "Google rolls out tools for developers to build machine learning and AI into their products"
-    excerpt: "Google LLC is rolling out a number of tools for developers to build machine learning and artificial intelligence into their applications using high-performance AI models and solutions. At Google I/O,"
-    publishedDateTime: 2023-05-10T20:42:00Z
-    webUrl: "https://siliconangle.com/2023/05/10/google-rolls-tools-developers-build-machine-learning-ai-products/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 44
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/12/network-g714c9891c_1280.jpg"
-        width: 1280
-        height: 853
-        isCached: true
   - title: "The AI boom is reshaping the cloud business"
     excerpt: "To support generative AI models, AWS, Microsoft and Google Cloud are investing in infrastructure and maneuvering to manage cost."
     publishedDateTime: 2023-05-08T21:01:00Z
@@ -82,6 +68,6 @@ related:
         height: 1250
         isCached: true
 
-secured: "k2yK+939uS+1/HTxZUsgKueUwdIbJYXA4e4qSLyiNawYxtHvlA5ta70UJKRPwvxibci1i4gw4Xc6wX90D4UTjuz1IvxjXOz/suUU8FCDjXKCD4oSbGlcscuksE66w1uSX6qNbZaSDKW+WGeZSvqotf+EcjdBTddD+wdbFelwVuLBfkpi2scK3d/bv8ne0Wd0mIU0M6xPaMAMPTs5T5CCvBDEdncDXhXLGIPgz/DX2mgWuhc0qiYJtq265mt3/HmJDgdhhPmFOfpNVpC3zAZIuUEGJ17lxLvEAGo81F7ygOomMI+cCABithiIuSMpy1auLSOEO6HOYwyHQXiz8SBS1YUrydC30NEgUJR3pzbdq68=;1kJhV+khrvGB8ei1nUYEbQ=="
+secured: "T0NiNW5xmOQNQ2+sTNxUaK7WTye9J701uKFOgPWhbjvt35+jwPgmJlC0iSH0dLK04tvuX1FRBLdJ5G8uzi9E6holGbKHoDf+v1s+Mg6lo+OTxegFvt4ag410X1676AQrwnE33how0rVr4RN0dQgkffI+JMxYTx7UsDfnjCbNaxwyIc8zO+RNkpD+NeJW6aY9XaeiHkNWszxA6SgM0yEWWOyLAgUSWawd9Kmj2G2YjmcIAmfOYxCmmP5h9n8sOMbLjuxfkW9Z52j4qZ3+oSdFKVuez0PAEpz6meGbHJz99Ypc4uxBeeLh8HpreLG+YsQS3x95w4tMJ1btnO1FDrBzMt3BnoCc20VpfwG5OVEdEVD73rw8LdvKfTYtjgLrTb0sH3FC1M4W1m55THnAtJWpZ7l0TI38sOSI7/GWq4kwla6CRSH2ZlRNk1HytNDAOt/uM3RfC/nf/+rR0JjD/seD+urEI8a9Vrvrm3scz95aUHH6ZwU90/snaw5ZVw3W296eZhW7n8Ggg79mCyXC+8jU3w==;aDg5N023h7OoezB9a+1ZDQ=="
 ---
 

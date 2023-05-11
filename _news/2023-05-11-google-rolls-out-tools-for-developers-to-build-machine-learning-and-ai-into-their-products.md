@@ -25,58 +25,51 @@ images:
     isCached: true
 
 related:
-  - title: "Google is transforming the cloud with AI — for both developers and regular users"
-    excerpt: "Google is integrating generative AI into its cloud via a new interface, Duet AI, that helps make cloud developers and users more productive."
-    publishedDateTime: 2023-05-10T23:05:00Z
-    webUrl: "https://venturebeat.com/ai/google-is-transforming-the-cloud-with-ai-for-both-developers-and-regular-users/"
-    ampWebUrl: "https://venturebeat.com/ai/google-is-transforming-the-cloud-with-ai-for-both-developers-and-regular-users/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/google-is-transforming-the-cloud-with-ai-for-both-developers-and-regular-users/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 82
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/05/Duet1-e1683757951578.jpg?w=1200&strip=all"
-        width: 1200
-        height: 905
-        isCached: true
-  - title: "AI Expert Exits Google and Joins Others in Voicing the Tech's Dangers"
-    excerpt: "In an interview with The New York Times, Geoffrey Hinton says AI-generated content will lead to misinformation and job loss."
-    publishedDateTime: 2023-05-06T12:01:00Z
-    webUrl: "https://www.cnet.com/news/misinformation/ai-expert-exits-google-and-joins-others-in-voicing-techs-dangers/"
+  - title: "PaLM 2 Is a Major AI Update Built Into 25 Google Products"
+    excerpt: "Google on Wednesday unveiled a new AI system called PaLM 2, a major update to its most powerful language processing system. The artificial intelligence technology already is incorporated into 25 Google products, underscoring its importance as the company races to capitalize on a computing revolution."
+    publishedDateTime: 2023-05-10T19:45:00Z
+    webUrl: "https://www.cnet.com/tech/computing/palm-2-is-a-major-ai-update-built-into-25-google-products/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/palm-2-is-a-major-ai-update-built-into-25-google-products/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/palm-2-is-a-major-ai-update-built-into-25-google-products/"
     type: article
     provider:
       name: CNET
       domain: cnet.com
-    quality: 47
-  - title: "The AI boom is reshaping the cloud business"
-    excerpt: "To support generative AI models, AWS, Microsoft and Google Cloud are investing in infrastructure and maneuvering to manage cost."
-    publishedDateTime: 2023-05-08T21:01:00Z
-    webUrl: "https://www.ciodive.com/news/AWS-Microsoft-Google-cloud-infrastructure-AI-ML-compute/649712/"
-    type: article
-    provider:
-      name: CIO Dive
-      domain: ciodive.com
-    quality: 41
+    quality: 91
     images:
-      - url: "https://www.ciodive.com/imgproxy/ArdjKqH_M6Qda4q_61cVhQAyFro4BqPoZNqLfAFdujU/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTgwMjMyMDgzNl9yV0VrMjI5LmpwZw.jpg"
-        width: 770
-        height: 435
+      - url: "https://www.cnet.com/a/img/resize/fe3d1d07b739cc3244a8a9fcfe9874465549ff2c/hub/2023/05/10/cdb8cbe0-b31f-453b-a7be-880690b5828c/palm2.jpg?auto=webp&fit=crop&height=630&width=1200"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "AI is coming to the Play Store to help both users and devs"
-    excerpt: "Like so many of the announcements during this year’s Google I/O, AI has been the star of the show and it’s turning up in almost everything. The Play Store is taking part in the action with its own set of new features,"
-    publishedDateTime: 2023-05-10T19:32:00Z
-    webUrl: "https://www.androidpolice.com/ai-is-coming-to-the-play-store-to-help-both-users-and-devs/"
+  - title: "Google opens up about PaLM 2, its new generative AI LLM"
+    excerpt: "Google's new PaLM 2 LLM will power at least 25 Google products and services that are being detailed during sessions at today's Google I/O."
+    publishedDateTime: 2023-05-10T17:25:00Z
+    webUrl: "https://venturebeat.com/ai/google-opens-up-about-palm-2-its-new-generative-ai-llm/"
+    ampWebUrl: "https://venturebeat.com/ai/google-opens-up-about-palm-2-its-new-generative-ai-llm/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/google-opens-up-about-palm-2-its-new-generative-ai-llm/amp/"
     type: article
     provider:
-      name: Android Police
-      domain: androidpolice.com
-    quality: 39
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
     images:
-      - url: "https://static1.anpoimages.com/wordpress/wp-content/uploads/2023/05/google-io-play-console-ai-hero.jpg"
-        width: 2000
-        height: 1250
+      - url: "https://venturebeat.com/wp-content/uploads/2023/05/Palm-2.jpg?w=1200&strip=all"
+        width: 1200
+        height: 666
+        isCached: true
+  - title: "Artificial Intelligence Products Market Size, 2030"
+    excerpt: "Research Reports has published a new report titled as \"Artificial Intelligence Products Market\" by End User (Media"
+    publishedDateTime: 2023-05-09T04:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-products-market-size-2030-2023-05-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 67
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "dsvfWa0sbqWmXvNCOJb2hI5M+IhLoz1+MB06kItoSgz9Ok2A3IgBLZXI2sktM8FRXh43e49EvR4lhBwhDRc1SWMc+xwzb0nYnxZMTEKIBl4qrYv7P4S7GzAPtvlUiLpPcUwIxhsR3TufYcWNJ5gpcKVkHmFNaqwqpUYkd+Zj6bhLrMMtXd3ksh10r3514KdRU4fZTSIsQc7YFP6gYz59dSY10gjKZbQ47KigT2IG/OExk31C0PPhvAOS3o2OCnNJU4b8uTP0xuY4qsWJvydtHlcoO0cS13sZc3g/hIhb3AgrYyjDlLSj6KFQmVXGz63rGaQVp2L1+/hWB3v0dSRoPM/pxj4szKD+/dO0fdN39qI1BkDJ9FkJXWVczw8Z4F6VjDdcFatZ8W7zPU2/V11M80Rthx1gNOkZxesn8+eH/0IqiONeAYs7znCalVWgbHCO83FroZ3vGbEBnqBj7iaWipQX+xfmW7oU8laaDlcNHKivVhMLqjxHN9gQtsfrxky5FMqNFbqMfLREE+wR1rb0lw==;hoCFwWmgjFdd6dXQg9pspQ=="

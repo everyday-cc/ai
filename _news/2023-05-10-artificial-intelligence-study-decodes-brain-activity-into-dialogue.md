@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo173774917826"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo173774917826"
 type: article
 quality: 102
-heat: 112
+heat: 102
 published: true
 
 provider:
@@ -24,24 +24,6 @@ images:
     width: 1920
     height: 1080
     isCached: true
-
-related:
-  - title: "New AI decoder can translate brainwaves into text - study"
-    excerpt: "This is an important step on the way to develop brain–computer interfaces that can decode continuous language through non ... listened to podcasts while the AI attempted to transcribe their ..."
-    publishedDateTime: 2023-05-06T07:37:00Z
-    webUrl: "https://www.jpost.com/science/article-741820"
-    ampWebUrl: "https://m.jpost.com/science/article-741820/amp"
-    cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/science/article-741820/amp"
-    type: article
-    provider:
-      name: The Jerusalem Post Blogs
-      domain: jpost.com
-    quality: 74
-    images:
-      - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_407,w_690/536262"
-        width: 690
-        height: 407
-        isCached: true
 
 secured: "AOEdNfGfVz2q/0VXZ3ig/rFrAMtvd0gu09phPKOihuR0bZqb/galH+Cksun6YVcEnob/qO7Iy5PfJfmrRAmKN16VT8FSKL51yvc5HP+eNQq/4YrtCt2uIeIgeTQvnO+PkgK7igTpu3681wxZDstl6JQwf+evNYCySEgsOm6fbTiYZId9NR6pwo6YVwsIlnwMK/VhsIGTjX2MiA5cTmQdpEYmvQtmaeL6mFDlD8NgOn2iKG2zGCTu/hQ4DpFYT9ZlR4UOjEB4ekjrHbrOFXwLN/xc8wzCYGboufvrTHPkWC+YdEim5AYZR4L/XMzU/W4lP9tlvjIxq+KqbBxIZ/V5sffOe8KAyq6L68eLkFVUOgzILQ80qkD1LnrvcETxQ4ox+m6aQqUIoEFXAvXjpOX6G/OWYNcD/O4dm/oMeLOUQrR9iZiQi/HzgXQ3kx1oJ1Z+mLGfXbSSd+UQ/C+ZAlBBkgqBV31KASD959kARpenxe1/5T87R0viUsTSIcYxxPgko1+2FHYhR3JbyBPULOH2kQ==;zEykOhFxufn1PsuN9nZGaQ=="
 ---

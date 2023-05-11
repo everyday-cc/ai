@@ -51,20 +51,6 @@ related:
       name: CNET
       domain: cnet.com
     quality: 47
-  - title: "Google rolls out tools for developers to build machine learning and AI into their products"
-    excerpt: "Google LLC is rolling out a number of tools for developers to build machine learning and artificial intelligence into their applications using high-performance AI models and solutions. At Google I/O,"
-    publishedDateTime: 2023-05-10T20:42:00Z
-    webUrl: "https://siliconangle.com/2023/05/10/google-rolls-tools-developers-build-machine-learning-ai-products/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 44
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/12/network-g714c9891c_1280.jpg"
-        width: 1280
-        height: 853
-        isCached: true
   - title: "AI is coming to the Play Store to help both users and devs"
     excerpt: "Like so many of the announcements during this year’s Google I/O, AI has been the star of the show and it’s turning up in almost everything. The Play Store is taking part in the action with its own set of new features,"
     publishedDateTime: 2023-05-10T19:32:00Z

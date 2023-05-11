@@ -30,59 +30,59 @@ images:
     isCached: true
 
 related:
-  - title: "Why AI-Powered Customer Service And Support Are Crucial In 2023"
-    excerpt: "The main goal of AI customer service is to automate processes to improve efficiencies and lower overhead costs."
-    publishedDateTime: 2023-05-10T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/05/10/why-ai-powered-customer-service-and-support-are-crucial-in-2023/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/05/10/why-ai-powered-customer-service-and-support-are-crucial-in-2023/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/05/10/why-ai-powered-customer-service-and-support-are-crucial-in-2023/amp/"
+  - title: "New Era Of Generative AI Finally Delivers On Promise"
+    excerpt: "Artificial intelligence is not new, but the public launch of generative AI has led to an explosion of AI models and implementations that are finally delivering some of the potential promise of artificial intelligence."
+    publishedDateTime: 2023-05-10T14:36:00Z
+    webUrl: "https://www.forbes.com/sites/tonybradley/2023/05/10/new-era-of-generative-ai-finally-delivers-on-promise/"
+    ampWebUrl: "https://www.forbes.com/sites/tonybradley/2023/05/10/new-era-of-generative-ai-finally-delivers-on-promise/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tonybradley/2023/05/10/new-era-of-generative-ai-finally-delivers-on-promise/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
     quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6419b0105b9a2d1bc30aff98/0x0.jpg?format=jpg&width=1200"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/645bab625656905e0c4bd205/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 800
         isCached: true
-  - title: "Why AI Will Never Fully Replace Humans In 19 Agency Service Areas"
-    excerpt: "It is important for leaders to consider the possible effects of AI replacing human efforts in specific focus areas in marketing, advertising and public relations."
-    publishedDateTime: 2023-05-10T17:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/05/10/why-ai-will-never-fully-replace-humans-in-19-agency-service-areas/"
+  - title: "IBM pins hybrid cloud strategy to generative AI play"
+    excerpt: "The machine learning pioneer joins AWS, Microsoft and Google in the race to deploy the latest iteration of large language model technology."
+    publishedDateTime: 2023-05-10T16:15:00Z
+    webUrl: "https://www.ciodive.com/news/IBM-watsonx-generative-AI-enterprise-models/649901/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 69
+      name: CIO Dive
+      domain: ciodive.com
+    quality: 39
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/645bb6c0da50d9e629b32fd2/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
+      - url: "https://www.ciodive.com/imgproxy/U3Ekh9vEfsuA9PC710cRMu4GRXivm7aVs3eLMP0H3FE/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTUxNDA1MTUzLmpwZw.jpg"
+        width: 770
+        height: 435
         isCached: true
-  - title: "How Artificial Intelligence is Used in Customer Service"
-    excerpt: "Of all the applications for artificial intelligence (AI), customer service is one of the most common. Companies big and small have been using tools like AI customer service bots and voice assistants in order to handle customer requests,"
-    publishedDateTime: 2023-05-08T18:20:00Z
-    webUrl: "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/ai-in-customer-service/"
+  - title: "Google to revamp search with generative AI tools, but gradually"
+    excerpt: "The approach insulates Google from some of the ethical concerns surrounding generative AI. Read more at straitstimes.com."
+    publishedDateTime: 2023-05-11T01:52:00Z
+    webUrl: "https://www.straitstimes.com/world/united-states/google-to-revamp-search-with-generative-ai-tools-but-gradually"
     type: article
     provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 67
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 39
     images:
-      - url: "https://m.foolcdn.com/media/dubs/images/image_7.width-600.jpg"
-        width: 600
-        height: 400
+      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2023/05/11/GOOGLEAI7.JPG?VersionId=reNH981AG40mKLjaJ4zZiHurml9tao66"
+        width: 860
+        height: 573
         isCached: true
-  - title: "3 AI Stocks That Are Poised to Explode in 2023"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial Intelligence (or AI) is the latest and greatest buzzword on Wall"
-    publishedDateTime: 2023-05-09T15:38:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/3-ai-stocks-that-are-poised-to-explode-in-2023-1032307806"
+  - title: "Adobe Firefly Delivers Creator-Focused, Commercially Viable Generative AI to Millions"
+    excerpt: "Adobe (Nasdaq:ADBE) showcased the incredible momentum of Adobe Firefly including a new integration with Bard by Google and the expansion of the"
+    publishedDateTime: 2023-05-10T17:45:00Z
+    webUrl: "https://www.businesswire.com/news/home/20230510005412/en/Adobe-Firefly-Delivers-Creator-Focused-Commercially-Viable-Generative-AI-to-Millions/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
+      name: newsroom.businesswire.com
+      domain: businesswire.com
+    quality: 12
 
 secured: "Wo2TrTMyBx6DxZ242SA02ypn9GVgcgs36LtYGOZI8VJSRG4qwh/bz8awA/LVstSkto+aHufnifuvo4B1pbAfkhOywP65tnd3GNUeekdYPT8TOe4fbl2/U6MeNVF04qT5dub/I7zk1tfSnvetK4s6NKAhCNbADylO0TeE6A8a8WI8/yX+uDbRxKbEncdLXU0AAM2W76zLQnvc5AocayDRCoM7L/hwJ2wfoEQyupA2joVZnfKL2xaPk7k2twWtK+Sjrm8IAk42x8O1mOud1egWw2bdAhfbcDssSzFc+OXENpFLx19bPOo648yIFvBqjoWQa+MKbVv1qOhM7a74w/32OPbaOHwUL7/imi1nFrYMAxyCZgkKrhYf7lK8OrV8Z+K7AMzqKq9oeAouRyDGY4HuhgR5CzEI3PIiT/kjerrMEnqDT+c0H4guVQCkeZThD+7Wrs/F9z11lHawumuwLwTGO8nZG+XfVvDF6fKsBVosRTKA8HN3KAUX0Z9ZjICKrZ0yLaPPP3owDrCM4P2AO0OT3g==;FStkPhQ8m3+SW0sIyejuJA=="
 ---

@@ -1,28 +1,28 @@
 ---
 category: news
 title: "Google is giving its dominant search engine an artificial-intelligence makeover"
-excerpt: "Google, which is owned by Alphabet Inc., already has been testing its own conversational chatbot called Bard."
-publishedDateTime: 2023-05-10T22:47:00Z
-originalUrl: "https://www.nbcnews.com/tech/tech-news/google-giving-dominant-search-engine-artificial-intelligence-makeover-rcna83863"
-webUrl: "https://www.nbcnews.com/tech/tech-news/google-giving-dominant-search-engine-artificial-intelligence-makeover-rcna83863"
-ampWebUrl: "https://www.nbcnews.com/news/amp/rcna83863"
-cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna83863"
+excerpt: "Google has disclosed plans to infuse its dominant search engine with more advanced artificial-intelligence technology"
+publishedDateTime: 2023-05-10T19:32:00Z
+originalUrl: "https://abcnews.go.com/Technology/wireStory/google-giving-dominant-search-engine-artificial-intelligence-makeover-99235255"
+webUrl: "https://abcnews.go.com/Technology/wireStory/google-giving-dominant-search-engine-artificial-intelligence-makeover-99235255"
+ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/google-giving-dominant-search-engine-artificial-intelligence-makeover-99235255"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/google-giving-dominant-search-engine-artificial-intelligence-makeover-99235255"
 type: article
-quality: 68
-heat: 78
-published: true
+quality: 38
+heat: 38
+published: false
 
 provider:
-  name: NBC News
-  domain: nbcnews.com
+  name: ABC
+  domain: abcnews.go.com
 
 topics:
   - AI
 
 images:
-  - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-05/230510-sundar-pichai-ew-643p-032d83.jpg"
-    width: 2500
-    height: 1546
+  - url: "https://s.abcnews.com/images/US/wirestory_fd0538018df958388991772ced6e693d_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -36,6 +36,6 @@ related:
       domain: avclub.com
     quality: 17
 
-secured: "E3iqi3u+StkeR2wGyuwcZVxFV6pGlKcwJGbhbZDGQj6f1xK0lBlygweCroqI0WrM6pQ5scrobHi8V5JOL3kcfn/GDV6tLPzVt5/jQyUiYU1ObSkYF7CSWGaFTAGUOATtYP6ze0fIC0oN3PHW+ildXqFHQ3ZaX3D4jKTcCAlfyy21f9nK8K2ualbB0XB0zMPX9fgPQxG2Dk07IXb1+wVgOdclA0xe1T+dj+AIPYxGit2SfLdLx537sDzSIDfFWFsWerkymXfx/omENRTZykiVI0yKt8SUtKZT8aE8YH6//jaq6+d1QTMVuszmz9hIx87CaUV4yKgFlq2rpdW2D8fJrS7JHlMLQParXwoGZSb4Y1s=;qVMs2HN8Kx8StuCNER+cCA=="
+secured: "wNoVsuCibZNhyVc36N0xLhCp8HLqZ5BzXUsrl9qNKt/SzWUTBUyjY6FuuAmy83tS48MAsfDN8Z0RVUdppDmtzy9oi91I4tlOsYKHl0CPyKd2dFCReoiQLVO4W+Lt66LtgbNWEgt3Qb2uVuyxXBcB7mAzK90OP60VQQ+KWOtT1c7PMoP2xY5Oz0xyqjILYwwTb/Y84u5mL+ige/g8nqUOYL1yYxyXz7jkQwt4QzWO1njmcr68dewk+v+3MFYbpyiyLP0nNMEGji/MXii4HWcebA6hC0ONL/MKt/nPtYKPA6YOLmFIZRmyyjNWuGvvXnseZAONNNLWZMQfyCoAvI0P2FyWN3lhhmmkZU1JQIB7jIU=;Zei+UHGkZri+LWwZnjh6uw=="
 ---
 

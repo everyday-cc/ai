@@ -51,6 +51,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Google unveils PaLM 2 AI language model"
+    excerpt: "The next-generation large language model boasts advanced multilingual, code generation, and reasoning capabilities, and is already being used in Bard and other Google AI tools."
+    publishedDateTime: 2023-05-10T22:35:00Z
+    webUrl: "https://www.infoworld.com/article/3696349/google-unveils-palm-2-ai-language-model.html"
+    ampWebUrl: "https://www.infoworld.com/article/3696349/google-unveils-palm-2-ai-language-model.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3696349/google-unveils-palm-2-ai-language-model.amp.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 89
+    images:
+      - url: "https://images.techhive.com/images/article/2016/08/thinkstockphotos-502755645-100677665-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Google Bard Boosted With Adobe’s AI Art"
     excerpt: "Google and Adobe have announced a partnership that will see Adobe’s Firefly become the AI art generator for Bard."
     publishedDateTime: 2023-05-10T17:45:00Z

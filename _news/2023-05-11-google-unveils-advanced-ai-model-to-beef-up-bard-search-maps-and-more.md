@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/article/google-unveils-advanced-ai-bard
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/google-unveils-advanced-ai-bard-search-maps/amp/"
 type: article
 quality: 91
-heat: 191
+heat: 201
 published: true
 
 provider:
@@ -45,6 +45,22 @@ related:
     quality: 89
     images:
       - url: "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-83888573.jpg?resize=1200,800"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Google unveils PaLM 2 AI language model"
+    excerpt: "The next-generation large language model boasts advanced multilingual, code generation, and reasoning capabilities, and is already being used in Bard and other Google AI tools."
+    publishedDateTime: 2023-05-10T22:35:00Z
+    webUrl: "https://www.infoworld.com/article/3696349/google-unveils-palm-2-ai-language-model.html"
+    ampWebUrl: "https://www.infoworld.com/article/3696349/google-unveils-palm-2-ai-language-model.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3696349/google-unveils-palm-2-ai-language-model.amp.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 89
+    images:
+      - url: "https://images.techhive.com/images/article/2016/08/thinkstockphotos-502755645-100677665-large.jpg?auto=webp&quality=85,70"
         width: 1200
         height: 800
         isCached: true
@@ -147,6 +163,6 @@ related:
       domain: siliconangle.com
     quality: 11
 
-secured: "kXPg8ykompiLGzE6pMqGtO+opiXwoVv+y3udikLy+Aon083nDC0XfKmMiMFth7uPepP3U0rJX3mX37r/qWsSZdn03mu4jEY0Yg4lK3dRLUx6OsYPWvB9Rp3aB4O4wxWKbTEDO89vzVqpX/+ACOIG21aWtPyt/H/3zyCnk1bZkINydhEgHHg6aSzGMTCP2A2Q/xYAjtyOR4zS3UHW7daS6p6jBsvfAuxS4mnHPWeqce59Ra5GK3vKev20Okyqk6td0mpZ4mNbiM5sM+PfjCZs94Og47ID6mMWIZGeb3OoBU9bnWijZHxoKEEoO4VQc6wyKEhnFIuDqygXksrdxcvUA7fxeIP9aTpSi77zVzFV/14=;cfX/yKcIUcM6mT4lSMlA6w=="
+secured: "Th1FjLMb7ifAbxkm8wjcpEy80Bqy3dCwQ9t5S36b+me0Cx6MDmkGrlv2aRBsihivzcNGIeikvQ5vgAMg57Mrr8k/yURoHPrC1Jiupv7oPStV6q1wp+P/L/RgGsSsKR334uen1TPtcWOFuDvQn5RXxZGZe50A+7Yq7QZiLVh302U4oef+A9gauZowk0QpcyIUkXAk/442/89fd2L9Cj7LsyKX3th2j0ZoJpLRB63HVXW3o/tGcH0gy1VzXTna4Q21nYSJ3fJ2YkO8CoXz2DV9kSnVjB5QNrP+dkAeRUSeD3V7L+AI3E6MEJPswyt4DKF3qYRlzQWnKR1BgDmoywk83HAoA+xzr9C1iqAez1WGSuiavliL/G1fWTGDJql0V6IllrAMtcsiRH5JQnF2UBO8xBBVPolLdCH6MaVSHK1QhEbv5Ba1ox1n8oEZSalYD/uh54J2V1Z/hdKWjUUpdYsTjNoau4JWczu9sSvWNa1UGeiHyBbdBDJA9KMb51L5OSxVZpf5zO9y0FXptNdSGPgB7w==;S2FgxJ8YUaDqEzH+tqGJjA=="
 ---
 

@@ -65,6 +65,20 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 47
+  - title: "Tracking Generative AI: How Evolving AI Models Are Impacting Legal"
+    excerpt: "A running compilation of how the legal landscape continues to be shaped by generative AI tools, from GPT technologies to art generation tools and beyond."
+    publishedDateTime: 2023-05-10T23:54:00Z
+    webUrl: "https://www.law.com/legaltechnews/2023/05/10/tracking-generative-ai-how-evolving-ai-models-are-impacting-legal/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 39
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/01/Numbers-Artificial-Intelligence-767x633.jpg"
+        width: 767
+        height: 633
+        isCached: true
 
 secured: "9w4iD+tpd60emaS+NLFvSe5iT6JNhvu3oHPMFxdT2Tw4/Eg/Vx8tfIxtVUyWs+ZUowDK3OHEYnAFx2PdLn0VaFM1RAHDN5TpzrztVeVY5A7VZkV0Ykh6CIVY541Ggbf+q3Z/cTN0A9c3PxNdHZRPoxa9lHUC4Z3VWSLPDpe+PpmVK80/yl22jYpiPgNoTmteT3mrk4TDaLuWvBlQCvAfIFSmi0B9gANJP+TiMGI6mGuU0ZuemhWxyZUF3U02twdDR2+I1DgJ7K/BhF3qq7u+YRNqfBp1AKlNCAZ+bYwyb6bj1miRnRvoCAByk5DqMUnWcRV98pFVJ2zCJ/wc/RcZ+mLbHMJTjkTCIYP388zJpYU=;rI0BPu+RSdKrMdjjXQfdcA=="
 ---

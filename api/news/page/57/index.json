@@ -2,6 +2,187 @@
   "page": 57,
   "value": [
     {
+      "path": "_news/2023-03-28-deep-learning-chipsets-market-insight-2023-driving-factors-by-manufacturers.md",
+      "title": "Deep Learning Chipsets Market Insight 2023: Driving Factors by Manufacturers",
+      "excerpt": "The \"Deep Learning Chipset Market\" analysis [UPDATED REPORT] 2023 provides an assessment of a specific industry, niche,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-chipsets-market-insight-2023-driving-factors-by-manufacturers-2023-03-28",
+      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-chipsets-market-insight-2023-driving-factors-by-manufacturers-2023-03-28",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-27T21:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-28-public-health-ai-and-ethics.md",
+      "title": "Public health, AI and ethics",
+      "excerpt": "First, we must note that medical ethics in the country are far from where they ought ... In this environment, a potent new tool needs to be handled with great care. Increased reliance on AI for diagnosis may sound cool to many, but the system is far ...",
+      "sourceUrl": null,
+      "webUrl": "https://tribune.com.pk/story/2408472/public-health-ai-and-ethics",
+      "originalUrl": "https://tribune.com.pk/story/2408472/public-health-ai-and-ethics",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.tribune.com.pk/media/images/1078711-MuhammadHamidZamanNew-1459790290/1078711-MuhammadHamidZamanNew-1459790290.JPG",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://tribune.com.pk/story/2408472/public-health-ai-and-ethics?amp=1",
+      "cdnAmpWebUrl": "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2408472/public-health-ai-and-ethics?amp=1",
+      "publishedDateTime": "2023-03-27T20:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Express Tribune",
+        "domain": "tribune.com.pk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-28-can-chatgpt-versions-make-its-way-in-healthcare-and-research-ft-dr-raju-vaishya.md",
+      "title": "Can ChatGPT versions make its way in healthcare and research?- Ft. Dr. Raju Vaishya",
+      "excerpt": "Medical information and healthcare have also gained an ample amount of importance in the tech world. Recently, OpenAI Inc. launched a new chatbot, called ChatGPT that interacts in a conversational way and its dialogue format makes it user-friendly and fast.",
+      "sourceUrl": null,
+      "webUrl": "https://medicaldialogues.in/mdtv/medicine/videos/can-chatgpt-versions-make-its-way-in-healthcare-and-research-ft-dr-raju-vaishya-109087",
+      "originalUrl": "https://medicaldialogues.in/mdtv/medicine/videos/can-chatgpt-versions-make-its-way-in-healthcare-and-research-ft-dr-raju-vaishya-109087",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://medicaldialogues.in/h-upload/2023/03/27/206163-why-sudden-increase-in-melioidosis-cases-in-india-1500-900px.jpg",
+          "width": 1500,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicaldialogues.in/amp/mdtv/medicine/videos/can-chatgpt-versions-make-its-way-in-healthcare-and-research-ft-dr-raju-vaishya-109087",
+      "cdnAmpWebUrl": "https://medicaldialogues-in.cdn.ampproject.org/c/s/medicaldialogues.in/amp/mdtv/medicine/videos/can-chatgpt-versions-make-its-way-in-healthcare-and-research-ft-dr-raju-vaishya-109087",
+      "publishedDateTime": "2023-03-27T20:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily",
+        "domain": "medicaldialogues.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-28-cognitive-data-management-market-newsest-research.md",
+      "title": "Cognitive Data Management Market | Newsest Research",
+      "excerpt": "Insights] Top “Cognitive Data Management Market” Size 2023 Key players Profiled in the Report are [, Attivio (US),",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/cognitive-data-management-market-newsest-research-2023-03-27",
+      "originalUrl": "https://www.marketwatch.com/press-release/cognitive-data-management-market-newsest-research-2023-03-27",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-27T19:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-28-3-key-trends-for-2023-low-codeno-code-generative-ai-and-the-evolution-of-programming.md",
       "title": "3 key trends for 2023: Low code/no code, generative AI and the evolution of programming",
       "excerpt": "Why tech trends this year will include increased use of low-code/no-code tools and generative AI, and fundamental changes to programming.",
@@ -1030,205 +1211,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-27-education-might-not-save-you-from-cognitive-decline-new-study.md",
-      "title": "Education might not save you from cognitive decline – new study",
-      "excerpt": "Giovanni Sala receives funding from the University of Liverpool. Take a look at any list of risk factors for cognitive decline and you’re bound to find “education” among them. The received ...",
-      "sourceUrl": null,
-      "webUrl": "https://theconversation.com/education-might-not-save-you-from-cognitive-decline-new-study-200684",
-      "originalUrl": "https://theconversation.com/education-might-not-save-you-from-cognitive-decline-new-study-200684",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.theconversation.com/files/514261/original/file-20230308-1134-cj3g93.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop",
-          "width": 320,
-          "height": 213,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://theconversation.com/amp/education-might-not-save-you-from-cognitive-decline-new-study-200684",
-      "cdnAmpWebUrl": "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/education-might-not-save-you-from-cognitive-decline-new-study-200684",
-      "publishedDateTime": "2023-03-27T07:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Conversation",
-        "domain": "theconversation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2023-03-27-apple-acquired-a-startup-using-ai-to-compress-videos.md",
-      "title": "Apple acquired a startup using AI to compress videos",
-      "excerpt": "Apple has acquired a startup, WaveOne, that was developing tech to compress videos for more efficient streaming.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/03/27/apple-acquired-a-startup-using-ai-to-compress-videos/",
-      "originalUrl": "https://techcrunch.com/2023/03/27/apple-acquired-a-startup-using-ai-to-compress-videos/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 167,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/01/GettyImages-1227849474.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/03/27/apple-acquired-a-startup-using-ai-to-compress-videos/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/27/apple-acquired-a-startup-using-ai-to-compress-videos/amp/",
-      "publishedDateTime": "2023-03-27T07:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "YAHOO!Finance",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-27-what-investors-should-consider-when-thinking-about-the-potential-of-ai.md",
-      "title": "What Investors Should Consider When Thinking About The Potential Of AI",
-      "excerpt": "However, I can provide an objective analysis of AI systems in today's society. AI has brought about numerous benefits to society, such as improved efficiency, accuracy, and decision-making processes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/03/27/what-investors-should-consider-when-thinking-about-the-potential-of-ai/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/03/27/what-investors-should-consider-when-thinking-about-the-potential-of-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/61434b8ab75fa0a8f8e4b176/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 848,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/03/27/what-investors-should-consider-when-thinking-about-the-potential-of-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/03/27/what-investors-should-consider-when-thinking-about-the-potential-of-ai/amp/",
-      "publishedDateTime": "2023-03-27T06:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-27-natural-language-processing-nlp-in-healthcare-and-life-sciences-market-2023-a-detailed-analysis-till-2028.md",
-      "title": "Natural Language Processing (NLP) in Healthcare and Life Sciences Market 2023-A Detailed Analysis till 2028",
-      "excerpt": "Mar 27, 2023 (The Expresswire) -- The report features the size of the global \"Natural Language Processing (NLP) in Healthcare and Life Sciences Market” in 2023, along with a detailed profile of the key players. These players include [3M (Minnesota ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-in-healthcare-and-life-sciences-market-2023-a-detailed-analysis-till-2028-2023-03-27",
-      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-in-healthcare-and-life-sciences-market-2023-a-detailed-analysis-till-2028-2023-03-27",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 168,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-27T05:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

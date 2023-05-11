@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Mass event will let hackers test limits of AI technology"
+    excerpt: "But now its maker, OpenAI, and other major AI providers such as Google and Microsoft, are coordinating with the Biden administration to let thousands of hackers take a shot at testing the limits of their technology."
+    publishedDateTime: 2023-05-10T19:03:00Z
+    webUrl: "https://www.chron.com/business/article/hackers-aim-to-find-flaws-in-ai-with-white-18090259.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 39
+    images:
+      - url: "https://s.hdnux.com/photos/01/32/64/15/23806829/6/rawImage.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
   - title: "Vintra showcases its artificial intelligence technology in a demo"
     excerpt: "Vintra, mentioned by former Boston police commissioner Ed Davis during a Senate hearing about the Boston marathon bombing, can learn \"from normal activity\" to notify operators of \"approaching threats and of anomalies."
     publishedDateTime: 2023-05-10T22:30:00Z
@@ -47,15 +61,6 @@ related:
     provider:
       name: Las Vegas Sun
       domain: lasvegassun.com
-    quality: 19
-  - title: "Mass event will let hackers test limits of AI technology"
-    excerpt: "No sooner did ChatGPT get unleashed than hackers started “jailbreaking” the artificial intelligence chatbot – trying to override its safeguards so it could blurt out something"
-    publishedDateTime: 2023-05-10T19:36:00Z
-    webUrl: "https://www.courant.com/2023/05/10/mass-event-will-let-hackers-test-limits-of-ai-technology/"
-    type: article
-    provider:
-      name: Hartford Courant
-      domain: courant.com
     quality: 19
 
 secured: "CBlWRI2RF+xKxbwGlbLeJPlnLhBehWYjcNjWLVHaXKfwoc0RbVbIUEEzW1CSv00KdJ6Tx/8zV378lUaMbu9kMSDTQuISdmzhXuB11bzVPNLhcJsJOqxm0h0P57MFNsHK2F/fWGnNNfCwH4jMXQzTka2cZupNgskVwlP7/4lTUBX9uYy9hoxUhhr4RRIv/bdjMG3gm0AzgmSbZ8ZXSV7pqEMIbhb1nJ7ic8rWGUiO21L30RJhVavlnWJuKLO9Ec72Lxs6zCR4sxh2dKzqCAcDR+JnXUu30RYtjXtbxFimDnHhwNGe9aNY2/pG71jBbahuxwOyYVe6ja9gaG9KvUx7dkeniZooAYR6CcIAUuQ08qI=;ycdNUFJbLNMQq55u/qVsYw=="

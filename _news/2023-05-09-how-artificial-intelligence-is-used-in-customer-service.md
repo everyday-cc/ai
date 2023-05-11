@@ -44,20 +44,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Why generative AI is the finance industry’s road to superior customer service"
-    excerpt: "Delivering a premium customer experience has always been essential to financial services. But in today’s rapidly changing environment, financial institutions need to do more than maintain the experiences they’ve developed."
-    publishedDateTime: 2023-05-08T15:38:00Z
-    webUrl: "https://techcrunch.com/sponsor/nvidia-aws-company/why-generative-ai-is-the-finance-industrys-road-to-superior-customer-service/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 83
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/04/GettyImages-1456589557.jpg?resize=1200,633"
-        width: 1200
-        height: 633
-        isCached: true
   - title: "Why AI Will Never Fully Replace Humans In 19 Agency Service Areas"
     excerpt: "It is important for leaders to consider the possible effects of AI replacing human efforts in specific focus areas in marketing, advertising and public relations."
     publishedDateTime: 2023-05-10T17:15:00Z

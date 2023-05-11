@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Top 10 Google AI Products To Take On Amazon, ChatGPT And Microsoft"
+    excerpt: "It was all about AI as Google I/O 2023 kicked off at Google headquarters in Mountain View, California with a keynote by CEO Sundar Pichai. Here are the top ten AI products and features to watch for from the tech giant in the coming months and how to sign up to become a tester."
+    publishedDateTime: 2023-05-11T01:17:00Z
+    webUrl: "https://www.forbes.com/sites/martineparis/2023/05/10/top-10-google-ai-products-to-take-on-amazon-microsoft-and-chatgpt/"
+    ampWebUrl: "https://www.forbes.com/sites/martineparis/2023/05/10/top-10-google-ai-products-to-take-on-amazon-microsoft-and-chatgpt/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martineparis/2023/05/10/top-10-google-ai-products-to-take-on-amazon-microsoft-and-chatgpt/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 104
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/645c46a1baf555e1902796dd/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 805
+        isCached: true
   - title: "Microsoft’s Big AI Push Could Power Its Cloud Past AWS. Here’s Why."
     excerpt: "Bernstein analyst Mark Moerdler thinks artificial intelligence could drive huge growth at Microsoft—more than most investors expect."
     publishedDateTime: 2023-05-09T16:28:00Z
@@ -64,35 +80,35 @@ related:
       name: InfoWorld
       domain: infoworld.com
     quality: 83
-  - title: "Microsoft Stock (NASDAQ:MSFT): Don’t Discount Its Early Lead in the AI Race"
-    excerpt: "Microsoft (NASDAQ:MSFT) stock has been very quick to recover from the brutal bear market of 2022. Year-to-date, MSFT stock is up around 30%,"
-    publishedDateTime: 2023-05-08T17:38:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/microsoft-stock-nasdaq-msft-don-t-discount-its-early-lead-in-the-ai-race-1032303276"
+  - title: "The Crucial Ways That Religion And Generative AI ChatGPT Are Crossing Fateful Faithful Paths"
+    excerpt: "Religion and generative AI such as ChatGPT are crossing paths, here's a comprehensive look at this fateful faithful intertwining, including upsides and downsides."
+    publishedDateTime: 2023-05-10T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/05/10/the-crucial-ways-that-religion-and-generative-ai-chatgpt-are-crossing-fateful-faithful-paths/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/05/10/the-crucial-ways-that-religion-and-generative-ai-chatgpt-are-crossing-fateful-faithful-paths/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/05/10/the-crucial-ways-that-religion-and-generative-ai-chatgpt-are-crossing-fateful-faithful-paths/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 82
+      name: Forbes
+      domain: forbes.com
+    quality: 80
     images:
-      - url: "https://blog.tipranks.com/wp-content/uploads/2023/05/image-225-1024x348.png?utm_source=markets.businessinsider.com&utm_medium=referral"
-        width: 1024
-        height: 348
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64591690fd83c13dff9c02fa/0x0.jpg?format=jpg&crop=3240,2160,x432,y0,safe&width=1200"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Microsoft ramps up A.I. game with bet on startup that helps coding novices build apps"
-    excerpt: "The deal signifies a further bid by Microsoft to ramp up its efforts in AI, which has become a key focus for the company."
-    publishedDateTime: 2023-05-10T04:25:00Z
-    webUrl: "https://www.cnbc.com/2023/05/10/microsoft-ramps-up-ai-game-with-bet-on-no-code-startup-builderai.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2023/05/10/microsoft-ramps-up-ai-game-with-bet-on-no-code-startup-builderai.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/05/10/microsoft-ramps-up-ai-game-with-bet-on-no-code-startup-builderai.html"
+  - title: "Builder.ai announces collaboration with Microsoft to democratize software development"
+    excerpt: "Builder.ai, the AI powered next generation composable software development platform that's so simple and accessible, allowing every individual and business to turn their ideas into software, today announced a strategic collaboration with Microsoft,"
+    publishedDateTime: 2023-05-10T06:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/builderai-announces-collaboration-with-microsoft-to-democratize-software-development-2023-05-10"
     type: article
     provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 82
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 77
     images:
-      - url: "https://image.cnbcfm.com/api/v1/image/107228149-1681932222068-IMG_9456r.jpg?v=1683699593"
-        width: 3263
-        height: 2176
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Microsoft backs UK start-up in latest AI push"
     excerpt: "Microsoft splurged an undisclosed sum of equity investment in UK-based AI developer Builder.ai under a broader strategic partnership."
@@ -195,21 +211,33 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Microsoft partners Gurugram-based Builder.ai for developing AI solutions for businesses"
-    excerpt: "Microsoft has made an equity investment and entered into a strategic partnership with Gurugram-based composable software platform Builder.ai, to develop artificial intelligence (AI) powered solutions for businesses, emphasising the technology giant’s focus on building enterprise-level AI amidst increasing competition from Google."
-    publishedDateTime: 2023-05-10T07:09:00Z
-    webUrl: "https://www.moneycontrol.com/news/business/microsoft-partners-gurugram-based-builder-ai-for-developing-ai-solutions-for-businesses-10560011.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/business/microsoft-partners-gurugram-based-builder-ai-for-developing-ai-solutions-for-businesses-10560011.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/microsoft-partners-gurugram-based-builder-ai-for-developing-ai-solutions-for-businesses-10560011.html/amp"
+  - title: "Pearson Outlines AI Plans After ChatGPT Share Price Jitters"
+    excerpt: "Education publisher Pearson Plc is outlining how it’s integrating artificial intelligence across its operations a week after its shares fell over fears that AI tools such as ChatGPT will undermine its business."
+    publishedDateTime: 2023-05-09T08:49:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-05-09/pearson-outlines-ai-plans-after-chatgpt-share-price-jitters"
     type: article
     provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 67
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ihlllbzYnWLY/v0/1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "No Business Plan? No Problem. ChatGPT Spawns an Investor Gold Rush in AI"
+    excerpt: "It is boom times for startups touting generative artificial intelligence technology."
+    publishedDateTime: 2023-05-08T09:00:00Z
+    webUrl: "https://www.wsj.com/articles/no-business-plan-no-problem-chatgpt-spawns-an-investor-gold-rush-in-ai-6bdbed3c"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
     quality: 66
     images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2023/03/AI-globe-climate-change.jpg"
+      - url: "https://images.wsj.net/im-776000/social"
         width: 1280
-        height: 720
+        height: 640
         isCached: true
   - title: "Microsoft to assist novice app builders with yet another AI tool powered by Azure"
     excerpt: "Determining how Builder.ai will operate within Microsoft Teams (opens in new tab) among the usual slew of corporate-speak within the announcement is tricky. Still, given its stanc"
@@ -248,6 +276,31 @@ related:
       name: TechRepublic
       domain: techrepublic.com
     quality: 64
+  - title: "MakeMyTrip collaborates with Microsoft to reshape the travel booking landscape with generative AI"
+    excerpt: "In a landmark move, MakeMyTrip has collaborated with Microsoft to make travel planning more inclusive and accessible."
+    publishedDateTime: 2023-05-09T08:01:00Z
+    webUrl: "https://www.traveldailymedia.com/makemytrip-collaborates-with-microsoft-to-reshape-the-travel-booking-landscape-with-generative-ai/"
+    ampWebUrl: "https://www.traveldailymedia.com/makemytrip-collaborates-with-microsoft-to-reshape-the-travel-booking-landscape-with-generative-ai/amp/"
+    cdnAmpWebUrl: "https://www-traveldailymedia-com.cdn.ampproject.org/c/s/www.traveldailymedia.com/makemytrip-collaborates-with-microsoft-to-reshape-the-travel-booking-landscape-with-generative-ai/amp/"
+    type: article
+    provider:
+      name: Travel Daily Media
+      domain: traveldailymedia.com
+    quality: 61
+    images:
+      - url: "https://www.traveldailymedia.com/assets/2023/05/shutterstock_2130878285.jpg"
+        width: 1000
+        height: 667
+        isCached: true
+  - title: "AI in Social Media Market to Witness Growth Acceleration | Google, Facebook, Microsoft"
+    excerpt: "The global AI in Social Media Market is expected to Expand at a significant CAGR of +28% during the Forecasting Period of 2023-2029. A2Z Market Research announces the release of AI in Social Media Market research report."
+    publishedDateTime: 2023-05-09T14:33:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-social-media-market-to-witness-growth-acceleration-google-facebook-microsoft-2023-05-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 58
   - title: "70% of employees are happy to delegate work to AI, according to new Microsoft report"
     excerpt: "According to the survey, while 49% of respondents expressed fear of losing their jobs to AI, 70% stated that they would delegate as much work as possible to AI in order to reduce their workload."
     publishedDateTime: 2023-05-09T13:00:00Z
@@ -336,6 +389,52 @@ related:
       name: Finextra
       domain: finextra.com
     quality: 49
+  - title: "Forget ChatGPT. These Are the Best AI-Powered Apps."
+    excerpt: "Chat features built into Duolingo, Expedia and others can be more useful than ask-me-anything bots."
+    publishedDateTime: 2023-05-07T12:00:00Z
+    webUrl: "https://www.wsj.com/articles/forget-chatgpt-these-are-the-best-ai-powered-apps-d927d0bf"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 47
+  - title: "Makemytrip Collaborates With Microsoft To Reshape The Travel Booking Landscape With Generative AI"
+    excerpt: "In a landmark move, MakeMyTrip has collaborated with Microsoft to make travel planning more inclusive and accessible by intro"
+    publishedDateTime: 2023-05-08T10:37:00Z
+    webUrl: "https://menafn.com/1106196713/Makemytrip-Collaborates-With-Microsoft-To-Reshape-The-Travel-Booking-Landscape-With-Generative-AI"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 41
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?633811"
+        width: 333
+        height: 250
+        isCached: true
+  - title: "I asked ChatGPT, Bing, and Bard what worries them. Google's AI went Terminator on me"
+    excerpt: "Just to be clear: this is not science fiction. Chatbots might have some worries that might, in turn, worry us just a bit."
+    publishedDateTime: 2023-05-08T17:14:00Z
+    webUrl: "https://www.zdnet.com/article/i-asked-chatgpt-bing-and-bard-what-worries-them-googles-ai-went-terminator-on-me/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 40
+  - title: "Gartner: ChatGPT has prompted increase in AI investments"
+    excerpt: "A Gartner poll shows that 45% reported that the publicity of ChatGPT has prompted them to increase AI investments."
+    publishedDateTime: 2023-05-07T23:30:00Z
+    webUrl: "https://techwireasia.com/2023/05/gartner-chatgpt-has-prompted-increase-in-ai-investments/"
+    type: article
+    provider:
+      name: techwireasia.com
+      domain: techwireasia.com
+    quality: 39
+    images:
+      - url: "https://cdn.techwireasia.com/wp-content/uploads/2023/05/shutterstock_2261871805-897x500.jpg"
+        width: 897
+        height: 500
+        isCached: true
   - title: "MakeMyTrip announces its collaboration with Microsoft"
     excerpt: "MakeMyTrip has collaborated with Microsoft to make travel planning more inclusive and accessible by introducing voice assisted booking in Indian languages. The new, in-platform tech stack powered by Microsoft Azure OpenAI Service and Azure Cognitive Services,"
     publishedDateTime: 2023-05-08T07:52:00Z
@@ -349,6 +448,48 @@ related:
       - url: "https://technuter.com/wp-content/uploads/2020/01/Microsoft.jpg"
         width: 418
         height: 335
+        isCached: true
+  - title: "UAE: New Chatgpt AI Assistant To Help Plan Visits To Yas Island"
+    excerpt: "Visitors to Abu Dhabi's Yas Island can now get personalised guidance and information about the latest offerings through an AI assistant. Miral, the leading creator of immersive destinations and experiences based in Abu Dhabi,"
+    publishedDateTime: 2023-05-09T19:34:00Z
+    webUrl: "https://menafn.com/1106210851/UAE-New-Chatgpt-AI-Assistant-To-Help-Plan-Visits-To-Yas-Island"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/updates/pr/2023-05/09/KT_6610bimage_story.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "It’s Not Just About ChatGPT. Other AI Technologies Are Heading to Schools"
+    excerpt: "How can schools stay on top of this rapidly changing technology? And how can educators separate hype from substance? Education Week asked four experts in technology, education, and artificial intelligence to look into their crystal balls and share their thoughts on how AI will likely change teaching and learning."
+    publishedDateTime: 2023-05-09T15:33:00Z
+    webUrl: "https://www.edweek.org/technology/its-not-just-about-chatgpt-other-ai-technologies-are-heading-to-schools/2023/05"
+    type: article
+    provider:
+      name: Education Week
+      domain: edweek.org
+    quality: 38
+    images:
+      - url: "https://epe.brightspotcdn.com/dims4/default/9881dba/2147483647/strip/true/crop/1720x1150+0+0/resize/942x630!/quality/90/?url=https%3A%2F%2Fepe-brightspot.s3.amazonaws.com%2F41%2F85%2Fe0e49f244864a15de5d019ef2da6%2F050423-edtech-beyond-chat-gpt-fs-prothero.jpg"
+        width: 942
+        height: 630
+        isCached: true
+  - title: "Google builds on tech’s latest craze with its own AI products"
+    excerpt: "On Wednesday, at its annual conference in Mountain View, California, the company demonstrated some of what it has been working on. Google said its search engine will begin incorporating responses generated by AI at the top of query results pages and allow users to ask follow-up questions."
+    publishedDateTime: 2023-05-10T23:22:00Z
+    webUrl: "https://www.spokesman.com/stories/2023/may/10/google-builds-on-techs-latest-craze-with-its-own-a/"
+    type: article
+    provider:
+      name: The Spokesman-Review
+      domain: spokesman.com
+    quality: 37
+    images:
+      - url: "https://thumb.spokesman.com/8VjXSwonsnyg2b7tD-Z1pzB38LU=/1200x630/smart/media.spokesman.com/photos/2023/05/10/645c1c0a6d5ad.hires.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "AWS and Microsoft partner acquires data service firm Forecast"
     excerpt: "AWS and Microsoft partner Kin+Carta has acquired data service provider Forecast Data Services with the aim of strengthening its global enterprise data and AI services. Edinburgh-based Forecast, which also has a delivery hub in Poland,"
@@ -386,15 +527,43 @@ related:
       name: Business Standard
       domain: business-standard.com
     quality: 32
-  - title: "Builder.ai announces collaboration with Microsoft to democratize software development"
-    excerpt: "Builder.ai, the AI powered next generation composable software development platform that’s so simple and accessible, allowing every individual and business to turn their ideas into software, today announced a strategic collaboration with Microsoft,"
-    publishedDateTime: 2023-05-10T06:14:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/05/10/9811121.htm"
+  - title: "I asked AI bot ChatGPT to write a column on happiness. Here’s what happened next"
+    excerpt: "I had to find out for myself. So I conducted a little experiment. I asked ChatGPT to write an article for me. I submitted the prompt, “Write a 500-word column on happiness.” That’s a broad, overworked topic,"
+    publishedDateTime: 2023-05-08T21:21:00Z
+    webUrl: "https://www.aol.com/news/asked-ai-bot-chatgpt-write-180244290.html"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
+      name: AOL
+      domain: aol.com
+    quality: 32
+    images:
+      - url: "https://media.zenfs.com/en/aol_san_luis_obispo_tribune_mcclatchy_563/9121ec7733a744f8785aa5baaae9181f"
+        width: 1140
+        height: 759
+        isCached: true
+  - title: "Torah is the anti-ChatGPT. But we can embrace artificial intelligence without losing our soul."
+    excerpt: "I recently asked ChatGPT, the online chatbot, to write a verse in the style of the Bible about robots taking over the world."
+    publishedDateTime: 2023-05-08T17:43:00Z
+    webUrl: "https://www.jewishaz.com/opinion/torah-is-the-anti-chatgpt-but-we-can-embrace-artificial-intelligence-without-losing-our-soul/article_9fbb6fd6-edc7-11ed-91cd-2bcf69a3d42b.html"
+    type: article
+    provider:
+      name: Northern Arizona Jewish News
+      domain: jewishaz.com
     quality: 27
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/jewishaz.com/content/tncms/assets/v3/editorial/2/eb/2eb5d1d6-edc8-11ed-9209-b32e3208dd0a/645935bcdbcea.image.jpg?crop=1931%2C1014%2C0%2C29&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "In 30 secs, ChatGPT produces 643 words on India and AI; Edge manages just 143"
+    excerpt: "In the IANS New York office, we have been experimenting with chatbots and one of the tasks we set for the two as a test was to \"write a report"
+    publishedDateTime: 2023-05-08T12:55:00Z
+    webUrl: "https://glamsham.com/world/health-lifestyle/in-30-secs-chatgpt-produces-643-words-on-india-and-ai-edge-manages-just-143"
+    type: article
+    provider:
+      name: glamsham.com
+      domain: glamsham.com
+    quality: 16
 
 secured: "x3RHL8s3ItksTgIejMD23C4LXcvG+loNdYcVTp02P96CqoXx3a6OEw1fppnoR0osduBSkSGtnPejfxWhNvkQ5WMUhQQ+9nwkvyYZfguMcvXw7e9d1PjO7saO48+H2w/B/LuWaIo0hobWE3UUO3atOoQpA+A4Y6zI5vXsemBL2YT6CvG0ADiC6Qo3S4nJdBWg4uK0mk1fhMPwMyxcgx28kUmiPheFVvr2dv1PfeCEkwtDTqBicoXBt4w143NoGGdbJctNMz64HKDpH8DrzDZ15Cqg4ZOazn8EUtoqrS3Jeo2pBtjEAsrbfDbbWTE5QHhArtQ+VCZ5g3XflI+EmUYEAgDjGlPsuAf7X1vrHqvDLxcdhGLZzSYtMY8KsLZbXRKgN/Iw/gYoZqu7l9wzSb9CZN5V29EOsk0LyvnY4wmR8CkZoLd43j8toCf2nbzgZ3BhkCMwh9CA63Xk6vj9o9oEFDFl7vQjxHBBRT42rCYV4fExaH6sTX0WRTRvRyc6EJ9d5CKvDhiaX157aJeMAONKWw==;QSPC1J4RA0iL+zyYglV2EQ=="
 ---

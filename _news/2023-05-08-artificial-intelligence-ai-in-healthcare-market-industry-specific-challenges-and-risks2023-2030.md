@@ -324,6 +324,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Voice Recognition Market Research | 2023-2030"
+    excerpt: "The Global Voice Recognition market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players,"
+    publishedDateTime: 2023-05-11T00:09:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-research-2023-2030-2023-05-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Deep Learning Camera Market Research | 2023-2030"
     excerpt: "The Global Deep Learning Camera market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players,"
     publishedDateTime: 2023-05-08T07:33:00Z

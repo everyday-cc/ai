@@ -7,7 +7,7 @@ originalUrl: "https://newrepublic.com/article/172460/artificial-intelligence-nat
 webUrl: "https://newrepublic.com/article/172460/artificial-intelligence-national-security-constitution"
 type: article
 quality: 52
-heat: 62
+heat: 52
 published: false
 
 provider:
@@ -22,17 +22,6 @@ images:
     width: 1109
     height: 577
     isCached: true
-
-related:
-  - title: "Tim Cook Just Was Asked About AI. His 3-Word Response Was the Best I've Heard Yet"
-    excerpt: "On Apple's earnings call on Thursday, the company reported mixed results. The short version is that the world's largest company is doing fine. While revenue was down from the same period last year, the company managed to beat expectations largely due to better iPhone performance, and a record quarter for services revenue."
-    publishedDateTime: 2023-05-06T07:28:00Z
-    webUrl: "https://www.inc.com/jason-aten/tim-cook-was-just-asked-about-ai-his-response-was-best-ive-heard-yet.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 12
 
 secured: "CPC6degzVchfxQ3LvvPRyyvMwf6MO5r2sYWAPvo5f/UZ8PP+jUvqHGFmPCRrWJ1wuYpHytN4ogKWfrNuaNdkwWHx5hJe4dV/SQZ0CzVf6r+H7LODM36U0LRRswtK2afpFxks3XZwieTuTgtfrBjYs28wyU9VSUOAxMZUtp62zTLAAljDYv/Qaa6NakGZeqfOmCdbC7hpMuUCWa4Xhmfqd2dXuGB4ZzQXzZkHekwuo++25Fd7AoiYskVIqgT35QgtxkBsry5CnuWeSfzmKTKyzTXRiQYj9WTnawFqEGm2SPragnaG4y0bcW3utEm8if8TwbeeCwUnvGG14vxs7HmV7pCT/tcNXCiP+wvHxSBNux75yY0vhOnC8O5KrAE9dHyxRNgzQ+MSsy32eYSpuEsCP1wU5PEOH8o9iZDZGwJhHabfrUGgDIqKN4lju4c8ulJecj2Wbne8JGRvTfBCqiINfctuXKZOLh+s+5d7oiRIfsnyKwxbSW9W6NF9TBt2EszNlsEoBfMIreqGRGs4v0/UzQ==;vyyOKHxEoxSBnPjRwKPoLA=="
 ---

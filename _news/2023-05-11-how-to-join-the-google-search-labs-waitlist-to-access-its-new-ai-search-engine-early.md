@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/how-to-join-the-google-sear
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-to-join-the-google-search-labs-waitlist-to-access-its-new-ai-search-engine-early/"
 type: article
 quality: 80
-heat: 100
+heat: 90
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "The AI takeover of Google Search starts now"
-    excerpt: "The future of Google Search is AI. But not in the way you think. The company synonymous with web search isn’t all in on chatbots (even though it’s building one, called Bard ), and it’s not redesigning its homepage to look more like a ChatGPT-style messaging system."
-    publishedDateTime: 2023-05-10T17:51:00Z
-    webUrl: "https://www.theverge.com/2023/5/10/23717120/google-search-ai-results-generated-experience-io"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 69
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/QQawoxSGsujkaqzq1e5nMDIBGdw=/0x0:2620x1500/1200x628/filters:focal(233x623:234x624)/cdn.vox-cdn.com/uploads/chorus_asset/file/24644238/SGE_Bluetooth_Speakers_v2.png"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Meet the New Google Search: AI-Generated Results Get Top Billing"
     excerpt: "At I/O, Google previews the new 'Search Generative Experience,' which places AI-powered results atop traditional search results."
     publishedDateTime: 2023-05-10T21:15:00Z

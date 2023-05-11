@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/warehouse-robotics-marke
 webUrl: "https://www.marketwatch.com/press-release/warehouse-robotics-market-share-size-financial-summaries-analysis-from-2023-to-2028-2023-05-08"
 type: article
 quality: 77
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Machine Learning 2023 Market Size, Historical Growth, Analysis up to 2030"
-    excerpt: "The key players in the Machine Learning market include global distribution system (GDS) providers, such as These companies are typically the largest or most prominent players in the industry, and they may have significant market share,"
-    publishedDateTime: 2023-05-10T13:14:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-2023-market-size-historical-growth-analysis-up-to-2030-2023-05-10"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 68
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Face Recognition Software Market 2023 with Regional Segmentations Forecast till 2030"
     excerpt: "The Global \"Face Recognition Software Market\" report analyzes crucial growth factors, key strategies employed by"
     publishedDateTime: 2023-05-08T09:02:00Z

@@ -43,24 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Natural Language Processing (NLP) in Healthcare and Life Sciences Market Forecast 2023-2030"
-    excerpt: "May 10, 2023 (The Expresswire) -- \"Natural Language Processing (NLP) in Healthcare and Life Sciences Market\" Insights 2023 By Types ( Machine"
-    publishedDateTime: 2023-05-10T06:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-in-healthcare-and-life-sciences-market-forecast-2023-2030-2023-05-10"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 71
-  - title: "AI in Social Media Market to Witness Growth Acceleration | Google, Facebook, Microsoft"
-    excerpt: "The global AI in Social Media Market is expected to Expand at a significant CAGR of +28% during the Forecasting Period of 2023-2029. A2Z Market Research announces the release of AI in Social Media Market research report."
-    publishedDateTime: 2023-05-09T14:33:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-social-media-market-to-witness-growth-acceleration-google-facebook-microsoft-2023-05-09"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 58
 
 secured: "lceRSy77lIcQ8hRoPbIUuRGZYUnkoshxQR+TJZ43BklR7K3L9eJekUuUhc4zqSFts4s+4WR7uBdw/bhklG+L5L+Fcu6UrImiHjT5XTnDC454q5mFRQOciwZHjXlFsUq0fxE19DuTWrvGvkeuKm7vvMQWNtkS6I56OAuQTEb5mK2J3z4ovO2G/2Imr8KzUgV8WvvNJ+afSTf5TcEkwLNJMpJWd+2BaiDMNxQIKDTwC3t7DLH1vdYsGaf4Yw9VXPWlk94G4pRsGIA4zCLvEhWxBAV5SrOSf/eT/LdwYogp31wyEd60IxnpYz/pWPSKW9dXlKkMpSxTQ+S0E/5ojBJDal72J+QerX9a60MUKAFOP+0=;jDM7uDedRyIBB5PV8jlJ4Q=="
 ---

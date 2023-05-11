@@ -63,7 +63,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-for-healthcare-and-life-sciences-market-projected-to-show-strong-growth-by-2030-microsoft-google-ibm-3m-2023-05-08",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 81,
       "tags": null,
       "images": [
         {
@@ -204,6 +204,49 @@
         "AI in Healthcare",
         "AI",
         "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2023-05-06-how-artificial-intelligence-could-fundamentally-change-certain-types-of-work.md",
+      "title": "How artificial intelligence could fundamentally change certain types of work",
+      "excerpt": "New York City — Since he started using artificial intelligence, copywriter Guillermo Rubio estimates his productivity has increased by as much as 20%. \"It just makes certain things go a bit ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/artificial-intelligence-chatgpt-threatens-changes-jobs-work/",
+      "originalUrl": "https://www.cbsnews.com/news/artificial-intelligence-chatgpt-threatens-changes-jobs-work/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/05/06/a3ed2e4c-256d-4d01-9c3a-65e06d542d99/thumbnail/1200x630/a4fae228ea819b28b491968bc3769e43/0505-chen1.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/artificial-intelligence-chatgpt-threatens-changes-jobs-work/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/artificial-intelligence-chatgpt-threatens-changes-jobs-work/",
+      "publishedDateTime": "2023-05-05T17:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
       ]
     },
     {
@@ -487,10 +530,10 @@
     {
       "path": "_news/2023-05-03-new-artificial-intelligence-tool-can-diagnose-colon-cancer.md",
       "title": "New Artificial Intelligence Tool Can Diagnose Colon Cancer",
-      "excerpt": "Detailed price information for Bausch Health Companies Inc (BHC-T) from The Globe and Mail including charting and trades.",
+      "excerpt": "Veracyte (NASDAQ:VCYT) and Bausch Health Companies (TSX:BHC) (NYSE:BHC) are other companies offering tests for the detection of colorectal cancer. Mainz Biomed (NASDAQ:MYNZ) creates commercially viable molecular genetic diagnostic solutions for critical illnesses.",
       "sourceUrl": null,
-      "webUrl": "https://www.theglobeandmail.com/investing/markets/stocks/BHC-T/pressreleases/16543041/new-artificial-intelligence-tool-can-diagnose-colon-cancer/",
-      "originalUrl": "https://www.theglobeandmail.com/investing/markets/stocks/BHC-T/pressreleases/16543041/new-artificial-intelligence-tool-can-diagnose-colon-cancer/",
+      "webUrl": "https://www.theglobeandmail.com/investing/markets/stocks/VCYT-Q/pressreleases/16543041/new-artificial-intelligence-tool-can-diagnose-colon-cancer/",
+      "originalUrl": "https://www.theglobeandmail.com/investing/markets/stocks/VCYT-Q/pressreleases/16543041/new-artificial-intelligence-tool-can-diagnose-colon-cancer/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -509,7 +552,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-03T08:28:00-07:00",
+      "publishedDateTime": "2023-05-03T06:38:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "The Globe and Mail",
@@ -1411,59 +1454,6 @@
         "AI in Autos",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-04-25-what-marketing-and-advertising-specialists-can-expect-from-chatgpt.md",
-      "title": "What Marketing And Advertising Specialists Can Expect From ChatGPT",
-      "excerpt": "Attracting nearly 40 million users per day, ChatGPT is one of the many chatbots being utilized to provide customer service, draft copy and even assist in market research. As it continues to become more ubiquitous and the technology powering it matures, we will continue noticing several major changes in the marketing and advertising industries.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/04/25/what-marketing-and-advertising-specialists-can-expect-from-chatgpt/",
-      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/04/25/what-marketing-and-advertising-specialists-can-expect-from-chatgpt/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 281,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62cec7ed48d72a6b106829cf/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/04/25/what-marketing-and-advertising-specialists-can-expect-from-chatgpt/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/04/25/what-marketing-and-advertising-specialists-can-expect-from-chatgpt/amp/",
-      "publishedDateTime": "2023-04-25T04:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Marketing"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/google-ibm-to-tesla-ho
 cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/google-ibm-to-tesla-how-these-companies-are-using-ai-to-transform-work-71683530733850.html"
 type: article
 quality: 75
-heat: 105
+heat: 95
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "IBM launches new artificial intelligence and data platform"
-    excerpt: "Watsonx could bring AI to more businesses IBM on Tuesday launched watsonx, a new artificial intelligence and data platform to help companies integrate AI in their business. The new AI platform launch comes over a decade after IBM's software called Watson got attention for winning the game show"
-    publishedDateTime: 2023-05-10T10:45:00Z
-    webUrl: "https://www.fudzilla.com/news/ai/56864-ibm-launches-new-artificial-intelligence-and-data-platform"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 39
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/03b0c7c9f5df286e08481de191753cce_L.jpg"
-        width: 620
-        height: 465
-        isCached: true
   - title: "Leading the Way with AI: How Companies are Transforming Industries"
     excerpt: "Here are some companies that are leading the way in AI and driving transformation and innovation, including EnKash and Addverb., Technology & Science News, Times Now"
     publishedDateTime: 2023-05-09T13:13:00Z

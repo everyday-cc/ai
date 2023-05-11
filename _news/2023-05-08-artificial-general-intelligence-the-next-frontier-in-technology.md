@@ -45,20 +45,6 @@ related:
         width: 1200
         height: 844
         isCached: true
-  - title: "Will AI Surpass Human Intelligence?"
-    excerpt: "Muhammad Arif Mughal, an AI specialist from the University of Science and Technology Beijing, suggests that ChatGPT is revolutionary only in the way that it learns from a large am"
-    publishedDateTime: 2023-05-06T08:32:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/05/06/9808925.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 39
-    images:
-      - url: "https://mma.prnewswire.com/media/2071134/ChatGPT___counted_a_technological_revolution.jpg"
-        width: 400
-        height: 299
-        isCached: true
   - title: "How AI is Changing the Manufacturing Industry"
     excerpt: "According to the 2020 MIT Technology Review Insights survey, manufacturing is the sector with the second-highest adoption of artificial intelligence. This comes as no surprise since AI can shift the industry paradigm and reinvent how companies handle all aspects of the manufacturing process."
     publishedDateTime: 2023-05-06T20:58:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/timbajarin/2023/05/09/the-critical-need
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/timbajarin/2023/05/09/the-critical-need-to-identify-ai-generated-content/amp/"
 type: article
 quality: 87
-heat: 167
+heat: 177
 published: true
 
 provider:
@@ -131,6 +131,15 @@ related:
       name: enterprisetimes.co.uk
       domain: enterprisetimes.co.uk
     quality: 19
+  - title: "Creating Business Content With Artificial Intelligence"
+    excerpt: "Sometimes all it takes is a word or concept to get a writer \"unstuck.\" ChatGPT is a great tool to spark the infamous light bulb moment. Ask it for ideas generally related to the concept you are writing about."
+    publishedDateTime: 2023-05-09T14:44:00Z
+    webUrl: "https://www.inc.com/inc-masters/creating-business-content-with-artificial-intelligence.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 17
 
 secured: "7csPXLYT8/cxSBODzGHkyo36mL/xSeTtcwVCet0P621QL8r0SmrRHOkx1wE/4Ga593UNrr42O5l1j6hY7rvi3orAJ9NqtRQ3TuMwM2c29EySTucUyLD2GqbHJsPlxT3SZubT2XcNhG/2ABljcMj/McDMOZ6rn4Qe/lb8tXK59t4moKpNOhxMUZtN3M4aqtLWYXIaoXl/+9yU56zmVoU78J5sVpW0Yt4m46MZYvqPCpI+pKIyyBjH6ifv34s/S7ZtSSS8i7gEDxZKtIIs/xZjVb/CkMl96zFnTZrJcE0abAcAnJnaEVpG8pWD0rBTBYNW1prGg4BJwyrQiP8JksjG6SPhrhWMLtvuyZeLGq6jgRM=;0vXmLeEmLGdYgODtqhQ6Ew=="
 ---

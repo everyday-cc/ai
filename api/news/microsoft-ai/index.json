@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-05-11-top-10-google-ai-products-to-take-on-amazon-chatgpt-and-microsoft.md",
+      "title": "Top 10 Google AI Products To Take On Amazon, ChatGPT And Microsoft",
+      "excerpt": "It was all about AI as Google I/O 2023 kicked off at Google headquarters in Mountain View, California with a keynote by CEO Sundar Pichai. Here are the top ten AI products and features to watch for from the tech giant in the coming months and how to sign up to become a tester.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/martineparis/2023/05/10/top-10-google-ai-products-to-take-on-amazon-microsoft-and-chatgpt/",
+      "originalUrl": "https://www.forbes.com/sites/martineparis/2023/05/10/top-10-google-ai-products-to-take-on-amazon-microsoft-and-chatgpt/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 524,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/645c46a1baf555e1902796dd/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 805,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/martineparis/2023/05/10/top-10-google-ai-products-to-take-on-amazon-microsoft-and-chatgpt/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martineparis/2023/05/10/top-10-google-ai-products-to-take-on-amazon-microsoft-and-chatgpt/amp/",
+      "publishedDateTime": "2023-05-10T18:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-11-amp-robotics-raises-additional-series-c-investment-from-microsoft-climate-innovation-fund.md",
       "title": "AMP Robotics Raises Additional Series C Investment From Microsoft Climate Innovation Fund",
       "excerpt": "AMP Robotics Corp. (“AMP”), a pioneer in artificial intelligence (AI), robotics, and infrastructure for the waste and recycling industry, has received financing from Microsoft’s Climate Innovation Fund.",
@@ -89,6 +141,58 @@
       ]
     },
     {
+      "path": "_news/2023-05-10-microsoft-ramps-up-ai-game-with-bet-on-startup-that-helps-coding-novices-build-apps.md",
+      "title": "Microsoft ramps up A.I. game with bet on startup that helps coding novices build apps",
+      "excerpt": "The deal signifies a further bid by Microsoft to ramp up its efforts in AI, which has become a key focus for the company.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/05/10/microsoft-ramps-up-ai-game-with-bet-on-no-code-startup-builderai.html",
+      "originalUrl": "https://www.cnbc.com/2023/05/10/microsoft-ramps-up-ai-game-with-bet-on-no-code-startup-builderai.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107228149-1681932222068-IMG_9456r.jpg?v=1683699593",
+          "width": 3263,
+          "height": 2176,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2023/05/10/microsoft-ramps-up-ai-game-with-bet-on-no-code-startup-builderai.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/05/10/microsoft-ramps-up-ai-game-with-bet-on-no-code-startup-builderai.html",
+      "publishedDateTime": "2023-05-09T21:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-10-why-ai-will-open-up-new-career-opportunities-for-young-people.md",
       "title": "Why AI Will Open Up New Career Opportunities For Young People",
       "excerpt": "Between the aging labor force and new technology like ChatGPT, the future looks bright for young people just launching their careers.",
@@ -138,50 +242,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-09-microsofts-big-ai-push-could-power-its-cloud-past-aws-heres-why.md",
-      "title": "Microsoft’s Big AI Push Could Power Its Cloud Past AWS. Here’s Why.",
-      "excerpt": "Bernstein analyst Mark Moerdler thinks artificial intelligence could drive huge growth at Microsoft—more than most investors expect.",
-      "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/articles/microsoft-stock-aws-ai-bing-9b9143c0",
-      "originalUrl": "https://www.barrons.com/articles/microsoft-stock-aws-ai-bing-9b9143c0",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 381,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.barrons.com/im-778497/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.barrons.com/amp/articles/microsoft-stock-aws-ai-bing-9b9143c0",
-      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/microsoft-stock-aws-ai-bing-9b9143c0",
-      "publishedDateTime": "2023-05-09T09:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Microsoft AI"
       ]
     },
     {
@@ -343,6 +403,58 @@
       ]
     },
     {
+      "path": "_news/2023-05-09-microsoft-stock-nasdaqmsft-dont-discount-its-early-lead-in-the-ai-race.md",
+      "title": "Microsoft Stock (NASDAQ:MSFT): Don’t Discount Its Early Lead in the AI Race",
+      "excerpt": "Microsoft (NASDAQ:MSFT) stock has been very quick to recover from the brutal bear market of 2022. Year-to-date, MSFT stock is up around 30%,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/microsoft-stock-nasdaq-msft-don-t-discount-its-early-lead-in-the-ai-race-1032303276",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/microsoft-stock-nasdaq-msft-don-t-discount-its-early-lead-in-the-ai-race-1032303276",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://blog.tipranks.com/wp-content/uploads/2023/05/image-225-1024x348.png?utm_source=markets.businessinsider.com&utm_medium=referral",
+          "width": 1024,
+          "height": 348,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-08T10:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-08-natural-language-processing-for-healthcare-and-life-sciences-market-projected-to-show-strong-growth-by-2030-microsoft-google-ibm-3m.md",
       "title": "Natural Language Processing For Healthcare And Life Sciences Market Projected to Show Strong Growth by 2030| Microsoft, Google, IBM, 3M",
       "excerpt": "The Global Natural Language Processing For Healthcare And Life Sciences Market research report gives an essential outline",
@@ -351,7 +463,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-for-healthcare-and-life-sciences-market-projected-to-show-strong-growth-by-2030-microsoft-google-ibm-3m-2023-05-08",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 81,
       "tags": null,
       "images": [
         {
@@ -405,7 +517,7 @@
       "originalUrl": "https://www.bloomberg.com/news/articles/2023-05-08/makemytrip-adds-ai-voice-chat-to-lure-more-india-travelers",
       "featuredContent": null,
       "highlight": null,
-      "heat": 159,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -457,7 +569,7 @@
       "originalUrl": "https://tech.hindustantimes.com/tech/news/google-ibm-to-tesla-how-these-companies-are-using-ai-to-transform-work-71683530733850.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 105,
+      "heat": 95,
       "tags": null,
       "images": [
         {
@@ -1409,110 +1521,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-01-up-to-60-of-stroke-survivors-may-develop-cognitive-decline-within-a-year.md",
-      "title": "Up to 60% of stroke survivors may develop cognitive decline within a year",
-      "excerpt": "Up to 60% of all stroke survivors develop memory and thinking problems within a year, and one-third go on to develop dementia within five years, according to a new American Stroke Association ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2023/05/01/health/stroke-cognition-dementia-wellness/index.html",
-      "originalUrl": "https://www.cnn.com/2023/05/01/health/stroke-cognition-dementia-wellness/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/230428154745-head-in-hands-stock-restricted-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2023/05/01/health/stroke-cognition-dementia-wellness/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/05/01/health/stroke-cognition-dementia-wellness/index.html",
-      "publishedDateTime": "2023-05-01T04:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-01-isc-2023-experience-the-power-of-hpc-in-the-cloud-with-microsoft-azure.md",
-      "title": "ISC 2023: Experience the power of HPC in the cloud with Microsoft Azure",
-      "excerpt": "The ISC High-Performance Event (ISC), formerly known as International Supercomputing Conference, is one of the most important events in the high-performance computing (HPC) industry, bringing together some of the world's most prominent researchers, developers, vendors, and users to discuss the latest",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/isc-2023-experience-the-power-of-hpc-in-the-cloud-with-microsoft-azure/",
-      "originalUrl": "https://azure.microsoft.com/blog/isc-2023-experience-the-power-of-hpc-in-the-cloud-with-microsoft-azure/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/160d39f8-fece-4aab-9912-c9586177de23.jpg",
-          "width": 251,
-          "height": 251,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-01T01:00:02-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

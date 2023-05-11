@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/natural-language-process
 webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-for-healthcare-and-life-sciences-market-projected-to-show-strong-growth-by-2030-microsoft-google-ibm-3m-2023-05-08"
 type: article
 quality: 71
-heat: 101
+heat: 81
 published: true
 
 provider:
@@ -31,24 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Natural Language Processing (NLP) in Healthcare and Life Sciences Market Forecast 2023-2030"
-    excerpt: "May 10, 2023 (The Expresswire) -- \"Natural Language Processing (NLP) in Healthcare and Life Sciences Market\" Insights 2023 By Types ( Machine"
-    publishedDateTime: 2023-05-10T06:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-in-healthcare-and-life-sciences-market-forecast-2023-2030-2023-05-10"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 71
-  - title: "AI in Social Media Market to Witness Growth Acceleration | Google, Facebook, Microsoft"
-    excerpt: "The global AI in Social Media Market is expected to Expand at a significant CAGR of +28% during the Forecasting Period of 2023-2029. A2Z Market Research announces the release of AI in Social Media Market research report."
-    publishedDateTime: 2023-05-09T14:33:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-social-media-market-to-witness-growth-acceleration-google-facebook-microsoft-2023-05-09"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 58
   - title: "Face Recognition Paper Picker Market Projected to Show Strong Growth by 2030|Sunpn, SVAVO, Shikoku, Kimberly-Clark"
     excerpt: "The \"Global Face Recognition Paper Picker Market Report 2030\" offers a clear understanding of the subject matter. The"
     publishedDateTime: 2023-05-08T11:33:00Z

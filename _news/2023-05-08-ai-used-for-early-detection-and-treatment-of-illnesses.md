@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Google releases new generative AI products and features for Google Cloud and Vertex AI"
+    excerpt: "Google announced at its developer conference Google I/O 2023 new products and features that give customers access to new generative AI modalities and expanded ways to use and tune custom models."
+    publishedDateTime: 2023-05-11T01:06:00Z
+    webUrl: "https://venturebeat.com/ai/google-releases-new-generative-ai-products-and-features-for-google-cloud-and-vertex-ai/"
+    ampWebUrl: "https://venturebeat.com/ai/google-releases-new-generative-ai-products-and-features-for-google-cloud-and-vertex-ai/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/google-releases-new-generative-ai-products-and-features-for-google-cloud-and-vertex-ai/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 79
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/05/GenAI-Google.png?w=1200&strip=all"
+        width: 1200
+        height: 591
+        isCached: true
 
 secured: "5FZfx+P0cilWw1t947uob0KQeYeltJEa4S9t1uOPB3FLAmUzBh+241lbxJBzQ/wdD8xt7gYGiy+ciZ4c6+jY847AxqvozEbIyGToUigJupfBiBtURS8bPXhVZzYKgLP0JkyTNlXnP9sQyAn5y02nd4i9V71L9aLpUFj0QJyV2/A01b7Cn2C+89Cu/7ExHlQZLvILSI/yqkJuoZiUDmsG2NPgwHcThFzoWMQQwWcAzDafwc+sqHUywMW8oT6wjl0ALfHcYO2YRXTblY8nM02EpZ7BYIZPVBJNA60J8CO5m2bjmX8vZqeoBm0vUHgBGqc1O4U0KGqjM8RkEQPMXsMsaZF9hvqXE66da59L/LU8UbA=;ZgdaWbTbNh1GLWyH7h1F+A=="
 ---

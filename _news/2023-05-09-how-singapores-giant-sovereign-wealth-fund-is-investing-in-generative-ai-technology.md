@@ -7,7 +7,7 @@ originalUrl: "https://www.businessinsider.com/singapore-sovereign-wealth-fund-in
 webUrl: "https://www.businessinsider.com/singapore-sovereign-wealth-fund-investing-in-generative-ai-gic-2023-5"
 type: article
 quality: 60
-heat: 80
+heat: 90
 published: true
 
 provider:
@@ -60,6 +60,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "ChatGPT Fever Has Investors Pouring Billions Into AI Startups, No Business Plan Required"
+    excerpt: "It is boom times for startups touting generative artificial intelligence technology."
+    publishedDateTime: 2023-05-09T11:51:00Z
+    webUrl: "https://www.wsj.com/articles/no-business-plan-no-problem-chatgpt-spawns-an-investor-gold-rush-in-ai-6bdbed3c"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 38
 
 secured: "oM29s3zbFjx3IXNXF09v8pANSVghTLkPkURxRGdXm58LeIpeVHi2ZyGm+1ZHxUs0BaQplsCBeDZ/uZO1xGFfcP5lUxHMCDcXX+BB7Ck/KywgwLYpHa9QZQeKUSPICVNLFLqLEZTjtOEyRnsvv2ZInsp3zdYXM7SN3JPC38jpKV+Gl7ohZ9XslgKOsQkcJptCc5LumLMCJMssUPLLtnmtUOBn/0LtbuM8wNCJzB5VYG+A+hZbmm3SOzX9X0p45NIfTe7dOTT2YXvmjNPhLPfK4s0yeI1wZE1gcLNjaGmVaP+olDqM4FSVt0WRHN9TSPStADrdh+7ab2NQBeheCNxUSH18f+RV9kp/CKQlaOIR1NI=;mAZIkThAGyWrnww7ODYGJQ=="
 ---

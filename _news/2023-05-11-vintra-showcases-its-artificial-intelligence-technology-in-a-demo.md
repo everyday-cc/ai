@@ -38,6 +38,20 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Mass event will let hackers test limits of AI technology"
+    excerpt: "But now its maker, OpenAI, and other major AI providers such as Google and Microsoft, are coordinating with the Biden administration to let thousands of hackers take a shot at testing the limits of their technology."
+    publishedDateTime: 2023-05-10T19:03:00Z
+    webUrl: "https://www.chron.com/business/article/hackers-aim-to-find-flaws-in-ai-with-white-18090259.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 39
+    images:
+      - url: "https://s.hdnux.com/photos/01/32/64/15/23806829/6/rawImage.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
   - title: "Las Vegas event will let hackers test limits of AI technology"
     excerpt: "No sooner did ChatGPT get unleashed than hackers started “jailbreaking” the artificial intelligence chatbot — trying to override its safeguards so it could blurt out something"
     publishedDateTime: 2023-05-10T16:26:00Z
@@ -47,16 +61,7 @@ related:
       name: Las Vegas Sun
       domain: lasvegassun.com
     quality: 19
-  - title: "Mass event will let hackers test limits of AI technology"
-    excerpt: "No sooner did ChatGPT get unleashed than hackers started “jailbreaking” the artificial intelligence chatbot – trying to override its safeguards so it could blurt out something"
-    publishedDateTime: 2023-05-10T19:36:00Z
-    webUrl: "https://www.courant.com/2023/05/10/mass-event-will-let-hackers-test-limits-of-ai-technology/"
-    type: article
-    provider:
-      name: Hartford Courant
-      domain: courant.com
-    quality: 19
 
-secured: "f5VNbAooflqFjmObZaeYFJhQRsbIHP+CXXilDwCrMb4faI1CPSDBG0QDa3xrzn4PwEhP77eQC3ozn+8Ou+AYJm9TtkQ7f8Uswi/EbRNEWWng0eJuJRVVor5Zjsj+5/lOGWasoMW/0qcZpOq1FqDU/ci/PVDcc1gZ/6xsINkD+5KDIiYgwPg5+zetJjMbNogjUn7BRb29M0VSgwCxH6zvvc4Ba8HUZjSRjl/Zjv86CXBZ3NRitU9MzoA2bISijClXK8POsvsuf5PjM2gTyWCk+cyudlyZwsqmLVoOzZqAph2Bke8OKbl5v3+5qgVGcy+1tTARntwLM0z3K469XQzCEgpXcZILmrbWLzBTYurCBIg=;oiDR8cB3/JtRwQCZb7I24A=="
+secured: "ap7S6Q4f+27zuKv6Cf2G9d28qHn0BP3SShxVn1mG80JCTtG0dNte/0Pbp/cQIxOChplyu62/d6zG6h7Y4MpFtEsc1uKRHSEZ9EQ1jMZnCYJi//aU8XHk63M4188qIVGRe1xf0XH9fD0ZBdstxgY9y7jD/GzdH6vHXE++5HPbdDeNRQkHIFjIpZ8QwIdHlqjoseowqfy8VABz3Q9Teg+MF+f9TLpb5PFj8wpzwLvYFQepp5fl5TFQI6EtmkidZDMzAS/cGqGRdH6k644ItIHwBheBXc8hr+GtkREHOeIZuxUdnLzITs3OU9Nh3Qkpzt+dU9QKKJKF2F3HbmE8mqFy7NClnB9FgaKn/WKkTLSjIh1aOXuw3gKNT9g9lQjjceUmobZfKcULzrMc6XTMVfMkLg8l+FKNFp/aj99f7wPbryW1Y4BgkcVtIXvl+1tw2Y41Ubw6JPUxJI5yMSqowF2ADTvji3zFoA8way+HoA78KmnV1JPGCBGFW9fV+BL+zQkXYk7oXz0cuO2+FKcCLn71og==;SPnaDLLUNgb5ltm4omadMQ=="
 ---
 

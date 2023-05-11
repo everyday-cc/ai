@@ -19,20 +19,20 @@ topics:
 
 related:
   - title: "Google is giving its dominant search engine an artificial-intelligence makeover"
-    excerpt: "Google, which is owned by Alphabet Inc., already has been testing its own conversational chatbot called Bard."
-    publishedDateTime: 2023-05-10T22:47:00Z
-    webUrl: "https://www.nbcnews.com/tech/tech-news/google-giving-dominant-search-engine-artificial-intelligence-makeover-rcna83863"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna83863"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna83863"
+    excerpt: "Google has disclosed plans to infuse its dominant search engine with more advanced artificial-intelligence technology"
+    publishedDateTime: 2023-05-10T19:32:00Z
+    webUrl: "https://abcnews.go.com/Technology/wireStory/google-giving-dominant-search-engine-artificial-intelligence-makeover-99235255"
+    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/google-giving-dominant-search-engine-artificial-intelligence-makeover-99235255"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/google-giving-dominant-search-engine-artificial-intelligence-makeover-99235255"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 68
+      name: ABC
+      domain: abcnews.go.com
+    quality: 38
     images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-05/230510-sundar-pichai-ew-643p-032d83.jpg"
-        width: 2500
-        height: 1546
+      - url: "https://s.abcnews.com/images/US/wirestory_fd0538018df958388991772ced6e693d_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
 
 secured: "UEXRbgsENbPyyCZ+fT6V6nZT69OxiniYz23G1V1KkCyYWlNJCli/nTKbxl1rIQjuG4FE4i6jldT9QyheAvfCvSQ5yx8DennGt/3cOIQTV1rEtcqimbOX+nMMyJ1aZdkFoDLGTAu2fhR46C/L1d08PwWvcJwj15Crj4gSoTHFxVA4mr++VOyppYQLph93MZKob5N27s8hbQgftRT6cHzu8u4hLWtNUY1NEKRc/rlEeKr5vW6O0R0OUhjb219BIf2QgUWk4JLi/oP90zZj7ybGT76dxbpn8V7WxbPo31juhIkGu/kleHLE4Mo8q6q6kHuAxX73QbOUJvLPSfrrF6pd/V+hMOpO6mAQMyYMA5XNxCI=;U6mWstTHYQ+WEfQMfmFHZw=="

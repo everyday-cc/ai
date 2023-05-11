@@ -55,20 +55,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "Will AI Surpass Human Intelligence?"
-    excerpt: "Muhammad Arif Mughal, an AI specialist from the University of Science and Technology Beijing, suggests that ChatGPT is revolutionary only in the way that it learns from a large am"
-    publishedDateTime: 2023-05-06T08:32:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/05/06/9808925.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 39
-    images:
-      - url: "https://mma.prnewswire.com/media/2071134/ChatGPT___counted_a_technological_revolution.jpg"
-        width: 400
-        height: 299
-        isCached: true
   - title: "Leveraging Artificial Intelligence In The Food Industry: How Startups Are Captivating Early Adopting F&B Operators to Tackle Theft and Waste"
     excerpt: "As AI continues to reveal its potential across every industry, we remain focused on harnessing its power to improve productivity and ingenuity to address decades-old problems plaguing the industry we love so dearly."
     publishedDateTime: 2023-05-09T03:00:00Z

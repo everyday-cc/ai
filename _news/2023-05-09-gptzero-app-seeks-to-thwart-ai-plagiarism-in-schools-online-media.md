@@ -7,8 +7,8 @@ originalUrl: "https://www.bloomberg.com/news/articles/2023-05-08/gptzero-seeks-t
 webUrl: "https://www.bloomberg.com/news/articles/2023-05-08/gptzero-seeks-to-thwart-plagerism-in-schools-online-media"
 type: article
 quality: 67
-heat: 87
-published: true
+heat: 67
+published: false
 
 provider:
   name: Bloomberg L.P.
@@ -26,36 +26,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "With Seed Funding Secured, AI Detection Tool GPTZero Launches New Browser Plugin"
-    excerpt: "CEO Edward Tian and his team of 10 machine learning engineers wants to “preserve what’s human” by giving people the ability to discern what’s machine generated."
-    publishedDateTime: 2023-05-09T14:33:00Z
-    webUrl: "https://www.forbes.com/sites/rashishrivastava/2023/05/09/with-seed-funding-secured-ai-detection-tool-gptzero-launches-new-browser-plugin/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 62
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/645a534875a3f83c6644914e/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 900
-        isCached: true
-  - title: "A new app aims to thwart AI plagiarism in schools, online media"
-    excerpt: "The startup GPTZero, designed by a 22-year-old college student, has attracted 1.2 million registered users since January. It aims to deter the misuse of ChatGPT in classrooms."
-    publishedDateTime: 2023-05-08T23:19:00Z
-    webUrl: "https://www.latimes.com/business/story/2023-05-08/gptzero-aims-to-thwart-ai-plagiarism-in-schools-online-media"
-    type: article
-    provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 37
-    images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/48d50b8/2147483647/strip/true/crop/4338x2892+0+0/resize/1200x800!/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fdf%2Ffa%2Ff8ca91bb40109203c9484c39ac01%2Fartificial-intelligence-audits-66775.jpg"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "vp1ocO3whLNxcTjdZmVCjAQOsu7TAjjPO8zfff9TegWrVRg1wfQM5ks628K4uL4FxYNX15Yl3cGI0dD+4GGigP1wfDSdrjS6ArtNziF4vmjlbi+kRVVt9NlMWfyjkXsflc+j2RGln3Eqk73H9iGWtlhyLa2Kn/GTlB02Xmk1+vqBlX5DTpFdV7Lz6wS/yUfS+ZRe7z6HvjARo9gdqNWslxmZcNET2nsk/G+vWToRiy1BFolmq2fMTm2xjpdofhgMAYnKATod0nrV2dYv06izqf/1dmKYbx1r42F/nqKDNKUJx93M8tSAuhShFewLGWGapTYqr/SQ/+aiKJKlfRsE0mLw50tN5dSssfJl/tLLO3ycl76hhlWLs1tezrCXnJaXucAJwxubn8LkTOsY05ypB+eprv02tgqVv4QiTvNxW/hBiPK+H3f4LXTDWNMp9jF+fNfsRfGX69tRedp5FJ8Am69Wu/os85diOwmV35xdmA4xaemJPp3rBFH4L+vIes9BfbkN0qbj+ZKSPGE1GobuYQ==;1aF6P7UXCfCAswesimO0Ew=="
 ---

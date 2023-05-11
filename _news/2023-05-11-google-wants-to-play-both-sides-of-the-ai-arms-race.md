@@ -68,7 +68,16 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Google is throwing generative AI at everything"
+    excerpt: "But experts say that releasing these models into the wild before fixing their flaws could prove extremely risky for the company."
+    publishedDateTime: 2023-05-10T19:00:00Z
+    webUrl: "https://www.technologyreview.com/2023/05/10/1072880/google-is-throwing-generative-ai-at-everything/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 19
 
-secured: "/5+8y628SBxOF5ofcNzGbA8NnCixzybE2odDIw9qfTxIfklbb8kqzfYil8RAOW/uAofsPxcW0RQZ5zeS4TkkQO9PLwZpdPLKeYIZT0X+zqvyCYPHB4y2NhMrkLQIXFoxOuh2sUY8Ys7F2nH517gZpfWYH3EP5jTzNZpLZlV1UtcXAkJpiVk3cUARxqZu+gKF22ra+hjU6JPe97JfFULFT72gJJ3yx6/JTkfOf59t0Up1Oix2z7rq88k63JM6gni/X7zfiUCZ5yrcnOL2FZ85/URRJdJv1aHOkpvTF7cHdoHMLQMWwMzhacOsjOxEIIX1MVNZ/VQX41rMpFX0U5xU+7aSwRv3WLUH3UNhHG93GJw=;IHqGDodrGQpI3KEYBznU1g=="
+secured: "2jTyGO0z/SH9K+XY/dSnoPB6+nng3Y0eM4rWtUIOyL1BbpDotIGh2uSNnU1Mg9wQki0B0XkmhQ9OxPW9w2Sm8Jm24sTbVWa+mh+8fT4Yufa5CD6njJkYUy1FQnngVBGjrg7n9+dUWPoQZZwaQM6oGg++ZuooSwyyzPdpdzGyoY2kV/Cw/J9Xuxlg5IFlw6nDLIBAZyn2M+Kn0HvCty1Dg4iXJ7BByrSo3W+sxP3DZYR5CaDVxmRrDggFsmo2YXIBQsCHXfc/qrNi27+IibZluPx1d6qKN8LJ+t2KcLJcRKed6o+FB7MzEQrkXhMpavUuWHzj+tw08RlrES59pxpSf51BMrc58den4/T3Wq1NuHd1cRC82Hu9LnmUu1TRUDZ3Yimuj28w+yZH4E6gtSDafX9SGhecdX605RMBZ7oZb1+3o7BUIqLkg+z4SMzcnJIYuNu3rsvJhZjrggLx0Jn4OOjst8GhNmj5tToNWegeK0GC0zAPEpYz9/O4XKdG+QU6PqnRcS+6whQM4w4arDqOkg==;DcdPeCS0BpBCXCa4BXjMVg=="
 ---
 
