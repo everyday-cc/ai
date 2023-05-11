@@ -18,6 +18,7 @@ topics:
   - Machine Learning
   - AI
   - AI in Education
+  - AI in Healthcare
 
 images:
   - url: "https://healthitanalytics.com/images/site/article_headers/_normal/2022-03-14-GettyImages-1033717120.jpg"
@@ -240,6 +241,6 @@ related:
       domain: ktla.com
     quality: 19
 
-secured: "WnRcY2h8MXtcZ+WLWIzQuUmFWCIgIiGypmsoy8iEPypKHe1fwpAKo+PVEz1mFHKHv+NWMXKlB9sx12NWnYmeCBoTQwJHMrXzC+EhnqkALJXfQW6ckv6c7vMcLmbgnC95v+rqdSChbxWm4Iq+/T26VIdflB7qnUSV3ll289sR5uPxReuMGP4oYfGCq1Hyj/TyPumJekGUycYXLmPHZAYOzPrBAwL6Kov8fLALvc8MwzskpcJEi6auLc6B48/7yGvUDyBcvnhmEXrmc9jmSwxs3nZ9q9D3C/3G/WZfCI+rhZwGApfYe/Vq1GWswp5AtIhqF2vlyVqTu0gK3tGh8/LBclHct4TgnveLF8yzdCWlTOM=;IW9vux6U17j26s/inKpVPg=="
+secured: "yyufW94Uu05Wjnm8hB3ivx6olkn9OJuoOtjiyRCjUJgv3mAIgECcAn44RMRsa8YbWuJg32kbO3vNCkEOgPGTkyqAJfrLgJUv/UDfjEgM4fK8meSvthn1kM/6OLTRVBfBy8EAwJnV92pBUKxzoCgy4yiTQxF3KXMdRWyIEaDm1vrlIRL1MEE8BDxCX38hC5Zqln3ZSRKRqVB0IQlO50PxW0KCCSTZElX1VRXgFYrtcAK+yNptYO38scwUjNKU0mYMV/alr7sxgRNNkvrqlkDAc/zg/swYHML7jOX++ij3OHYTdBl6hLPbIUQWdgtppIBrNGvzXeyL3ND6wkAs1BQCRMafSGSFMWxntrLozGNbjEZ7ZgLebK5XqJ1bQ2x3f9lR+aHyljNpwnw6sMypFiYXi+1s7ACJymFC9730Nw32/B6tOoDlDJI4ADvZmxIgcuDR5EtZnZfSnR3+3oING0XYrw/n/bQhV2iXGbFbwvEA7muPuVP9UbOf//xolKbgsrWF840huIoqTDpeD0naGy7FSQ==;iqEmDPm6NHpTXwTIyCKrnA=="
 ---
 

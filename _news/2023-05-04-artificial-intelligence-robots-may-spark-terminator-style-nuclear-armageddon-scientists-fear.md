@@ -2,27 +2,19 @@
 category: news
 title: "Artificial intelligence robots may spark Terminator-style nuclear Armageddon, scientists fear"
 excerpt: "ARTIFICIAL intelligence bots may spark Armageddon like ... “self aware” and almost wipes out humanity using killer robots. More than a third of tech whizzes quizzed by Stanford University ..."
-publishedDateTime: 2023-05-03T22:58:00Z
-originalUrl: "https://www.thesun.ie/tech/10650817/artificial-intelligence-terminator-armageddon/"
-webUrl: "https://www.thesun.ie/tech/10650817/artificial-intelligence-terminator-armageddon/"
-ampWebUrl: "https://www.thesun.ie/tech/10650817/artificial-intelligence-terminator-armageddon/amp/"
-cdnAmpWebUrl: "https://www-thesun-ie.cdn.ampproject.org/c/s/www.thesun.ie/tech/10650817/artificial-intelligence-terminator-armageddon/amp/"
+publishedDateTime: 2023-05-04T03:03:00Z
+originalUrl: "https://www.thesun.co.uk/tech/22243195/artificial-intelligence-terminator-armageddon/"
+webUrl: "https://www.thesun.co.uk/tech/22243195/artificial-intelligence-terminator-armageddon/"
 type: article
 
 provider:
-  name: Irish Sun
-  domain: thesun.ie
+  name: The Sun
+  domain: thesun.co.uk
 
 topics:
   - AI in Robotics
   - AI
 
-images:
-  - url: "https://www.thesun.ie/wp-content/uploads/sites/3/2023/05/1991-american-science-fiction-action-392092156.jpg?strip=all&quality=100&w=1920&h=1080&crop=1"
-    width: 1920
-    height: 1080
-    isCached: true
-
-secured: "V6l7L1DVi4KLsMhfZRrCnV65czCTtjp7stlfeJa3qwFxX90CPX5CXZjEKI/DQf/tw402ve3LsyFiPlBScb5DVPapEvDV4otO9qKanfWq6sHL6QvIp2qtSKDw3qn4y90Tkxo3vs++F82oRpaD0dyqhK8ycC1R2MK5ImVWhcicM94pqT70ULET6yFKtn1UY0rGmqMvazmUtN254LG+1Q0NAJ5SpBa8KI5EVHmVHMQTIwvg9RBRQ9RzxMxFuOenl+RFTQlGVWbHXNGFxBvL3aeCnhdLqpryQjBpX3/rUEiUpxU0xVs6zavOH8xAMSg+mocu2MkDm5gcQ/qxe5Vp8CpHHePa1jrjk+JriVXXQtOdVdc=;cnZMC6mSD4qh+TICMnILWA=="
+secured: "lBED6RFKIYsDisTSV1qeSqAcei2e1VxboP0+yigPTgwKyFNaoKum0vBwwCLoHhGe8Pu3o/jIFPpjf6/Yiu0IPyZ5jAshIqh7ElCy8LW4gB46+C4Qh5BI2IoiSNIUcpVqUqq0L5vhfDJm7Yf5I7ACCpigxoe2n018si7cbWjF7t0RNzQhXQnIuthiyCRq+07b0VEVXk44E57IZwgEuhIROt6eThxbPZg28M9Vw8VFa2yWUhWMGBNJZ1VxxL0YBayAbY7Q7Vj0KLvdHkkKG5dgDlr7+kItxF/nEmJDLBQKRVe3Pb7F9kIO6Op6XwY/fLvASOs0keRHb24UYLUDk26bpbWI5S0V9yOJFD4POzg+qhU=;rZHViyuqsWW1aZmvKODtbQ=="
 ---
 

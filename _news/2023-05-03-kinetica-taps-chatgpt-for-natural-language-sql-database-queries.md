@@ -15,12 +15,6 @@ topics:
   - Natural Language Processing
   - AI
 
-images:
-  - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/promoted_content/promo/chatgpt-browser-erweiterungen_chuan-chuan-100937275-orig_4.jpgautowebp8570"
-    width: 560
-    height: 315
-    isCached: true
-
-secured: "s4Sbt74p5qMkeVZJDohh90awPP0BtmU6Br9eHeoUXNkrhnnClHB/3aUuOFgs2giKh0tdPr0uBiN5s+/Yf7IaycT4RUhvrAKgiJNdy6SJEUxNAeEvz/sBao2qFe0biaYOfWtRT345xG74YnkVlIseeNScRPYF2Dbf5vr/MNvranhHMlUJ/IpyCR1QhmTCyR5WMvOXWM4q1PE97Z++gp6T2IE6oOja/a+6VkvHPUZUYX01AGUPv5KsLLJHhQla9vsaQstCj31PrEt4+axtGt7JJmXgAobOcxqPupDqliX09TZhwNRhTX8uluxOs+vXtTu1Zg58/DJpi/o73ebKI7qayKsELi/vn9VbXnZUmiFBQrU=;WOYulF7bx5zeOp1QfGqmmQ=="
+secured: "6VpY/HTuFmpIiaOPs9A7MXSiAxFzw+4I9uSuT9tVjl6s5HK+FAXzFYWxvi673RyB0Fxb658i4BEI37hpCKjeRND8tt/+hLGiBUSP2ABaFzEPnvOSV6IWRTli6Gt1qZSbitvwtBzadUkBKoTTN9VJjWs2S+vy1UmRaVdfTxT2mqPW/NIgs5rksblPTeNolsnV/iMk9vhZNktaYEynb399ySlKVQDKgYzTB1StwcBloPeEZ27fM4nzBNpOYXZaA2u3UHT3Qn6kszXeD7muBLThoaQ2fZhPSDbwkrC6pm+bjsEhxwoZImnHtWSLpzpE4xCOO7Bv82UWSeN+0UXcLibo0gqzVG2cQhHjMd9Sy0nvxyg=;Vepo+0lXC+dAda2eRObVew=="
 ---
 

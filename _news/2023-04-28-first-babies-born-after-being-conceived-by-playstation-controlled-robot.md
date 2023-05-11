@@ -15,12 +15,6 @@ topics:
   - AI in Robotics
   - AI
 
-images:
-  - url: "https://glamsham.com/wp-content/uploads/2023/04/84fad78bd3ae8958835271cb06d8f198.jpg"
-    width: 400
-    height: 268
-    isCached: true
-
-secured: "rLwPV9JOvWakNROKmgjEQJ5fbA4UwXsgV5RVB/0mhagclLj4gPAP1SrXrn/w2ZdtiLEvLo4jjB1KVDQVTBPxD9WBFGlT6DUpS7d17uBnetz+Xn3mMmrdmuT799EXd4R4xlUZFZV9l9TcLtlYprYjJx+Fw1Zx8SvRLioeVsFh4wbLEv0eP3j6+8YtPmDD6Sm/uAosVUbtpn2Lx65Ty8nJ92HI8uNwN3nkl4Tqqx9QHlKgGzu/RZLFs3QEGi90CN7X8c6el/FvoyKmW2FCfpL4bpk0OljBaFk478IbZ78YAycyFkRTOSfLvLMCv62/J29GoQmDPSz3fIBlYxu1RNdsSM4AkhTJGtp5nSeW/5Dw5NM=;S17uiVzIGFfK8XhLH2YhTQ=="
+secured: "Zia8t7CQ2h64CQiqYSqeldGX5BHURcHpUMHOm1Not39YAnYedKehX3BI0u4/RpQQHJkp4BNJDHNDiPJ3voBlRdg43OxU1Jve5phb4Dnn3ypj3wNppugmYfp01hPbMHFcksUlxQonl46W1rLOGJz67hLG6KN82JO2yQn1SYiy3XJIzRaOhP9f0tBCpJJLZso7wltLCtfeHBGnNdx7Yr0JAPb2ugkNsjSu68UM/7iNGrrarDA7GaTNNF2i4jQpPtykUcGb2JDvUITz94Oy46XmY5+SLRdh/7ztfJmQS9eRFzwknmaBDyVJj7AsOsUiYXjgwKxX58yLyhVWqGrHO9gqwk9xssYDbXEjRxxNQvp4VXE=;D013VDOEqhJb3sxDa946Rg=="
 ---
 
