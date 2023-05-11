@@ -24,6 +24,17 @@ images:
     height: 313
     isCached: true
 
+related:
+  - title: "Flexiv and Cardinal Machine Join Forces to Combat Labor Shortages With Adaptive Robots"
+    excerpt: "As the world's only manufacturer of adaptive robots, Flexiv will equip Cardinal with the ability to deploy robotic solutions which leverage industry-leading force sensitivity and artificial intelligence."
+    publishedDateTime: 2023-05-11T13:47:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/05/11/9812702.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 11
+
 secured: "BdsTk+YrHf8786PzndK1iouc9cwIbkPvtEwLmap1uLLYWHoM0Z4mkSJubYx6VPPYBml9TPSA3nav6wuiMP384MRQBAU8oe5JDOUn7VLHCC1loWe67SVY0xGsfe51XEh4WLy4UbEbI06REVdEv0XfzCWA1XTUL2EzelUPq0yAgvo0hA1uVyrEalOZ1G22kAu9NYqI1JwnJZ9m73LOOF+sYG1uan3XC3VPYp7/WdVfmnZ471f/4HP/lggnnfzm9rCNJe8wHBBgGJ4ZepAT/OmhYs75GQB77trCwNlZPhW/UWs6gjzJFkf1+/tUrx9RePiuolwaysi/SGiDVrD4Hz7NOt3JVQ5xSD9kDQmJBUuOyfCeZgDXZja0ahE5DEv2dHD8fMqfY54ffEHp+NhjNd4MQTd4TJm4x3ySzMcQEhhZM7pA+PSBo+u2LdjivcILEGFocobJJiEO8fV9qyVzj/atf3WRMwWmYIMPox9SJC+qgzQJFCGAZnLk5Dy6sPnFMigT74q5uKow708/6o1tZEUCfg==;7Y1h/opYxALhyk/ro66oqA=="
 ---
 

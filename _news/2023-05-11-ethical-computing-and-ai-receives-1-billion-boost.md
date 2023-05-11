@@ -41,7 +41,16 @@ related:
         width: 1200
         height: 781
         isCached: true
+  - title: "Mo, an AI Chatbot Powered by Morningstar Intelligence Engine, Debuts in Morningstar Platforms"
+    excerpt: "(Nasdaq: MORN), a leading provider of independent investment insights, today launched a beta version of its generative artificial intelligence chatbot named \"Mo\" across Morningstar Investor, Research Portal,"
+    publishedDateTime: 2023-05-11T12:41:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/05/11/9812464.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 8
 
-secured: "pZ6Zto7G2NOpHMHqsfo/KEQ0wzpFQHCaayR5/tbk9Yu6ziJSEi6MKV4Fg9jT+s86B9zoDYH2wxDCd8W7822q5KX/de8kKOlecRCXtbKLRG9/qtX8B+UjDlWqdakvV3iGJ8ghBOuC9Bnr40OCasuU6BHbMGlq0MXPRd6iQGGRiDzk5f+gA6zNyrotoUN0YvHhBUmqKeHLAoO3ufsA2HuQhpAxaqOokObMbiSdRkyzumD8tzXOfcW9Soe+bf2dOwiwHPJ/v8w6evTuxnloIS+RQjuuNUOZVNGUEb00Q/nU/K69HoRbw3JrcK6WJkyiC7PYXsg24UuZ2t3EzcTGWhbeFpIL0fnJk/irEISaFzHHC0Y=;+I5FbL8dYFZpKc/75gI4nA=="
+secured: "KORWZy/w3areFiUsxra1TwviOy0b5M1V4GDzlQVnoI9hyB4fQ9It1lHx00AJobXYQS/BdAjYqb2cwAlMHJQWvVPoTxSGsBLxKDMd+JNHuFXT1dLkSHzJ3e/7gRXbCgizaGg5eMi8ENFrxnMk6xeQ7PW5oOZw2+0lXC8WSFu0jCZeMuTAvgAM3znpKUsOCGL/1yXI6vFEQ92Ky8E2eN5M/16bbnCq2sIsq7VpXWeEwQulOzXXErC1/fH2Miu+EoNK7dZJBEmyz2eTCmKd2GoWd4HATz1vUxVVvQE3qAdiEmNK2tV9CzYZfdDk/Fyj2d+8gWHqEdIANG+8SAhCBCP48WNJxp4roHmbYUyC8EKqcfzmtLPNVFRrThzuOZcQPJHEMA4gE5d2nTg8whNVO66hdt8YY36kJRs7f6BJvs+jaFkuEPTCKoY/YniSsdgk0LwIqfoFCauvsF4XtS/CK2CPifOKLrRsaYPj+9poggg0iZwZvaMKeCpwOc4t/b8EHeWGFm2T50lIh5Kp+vorihjwdA==;lZJjY8gaGHS0GDTs4OhDrQ=="
 ---
 

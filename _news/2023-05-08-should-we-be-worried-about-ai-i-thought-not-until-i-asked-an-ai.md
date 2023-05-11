@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/stevensalzberg/2023/05/08/should-we-be-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevensalzberg/2023/05/08/should-we-be-worried-about-ai-i-thought-not-until-i-asked-an-ai/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -62,6 +62,15 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "I asked ChatGPT, Bing, and Bard what worries them. Google's AI went Terminator on me"
+    excerpt: "Just to be clear: this is not science fiction. Chatbots might have some worries that might, in turn, worry us just a bit."
+    publishedDateTime: 2023-05-08T17:14:00Z
+    webUrl: "https://www.zdnet.com/article/i-asked-chatgpt-bing-and-bard-what-worries-them-googles-ai-went-terminator-on-me/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 40
 
 secured: "0WwEhq3cWeNzBxJjM6pQYN52xBEAlA3tyHWoVTf1td2VSMevlLGx3X3kcf7FjAtPp60mnvmAbcf+pukvELyFQn444pXZ+ME95tL+o9+PY1/HddFb4hUJKVxFi+dDSoiLjNNa9GgpUTKXP9/tLTA7uuPajGPhNb2kkjvk8IoYH/gEI7CfMvz7h5n9ehAEo0nyJrrjQB9xFdhTNd9bgpFhxKWFyDijTUz6uKFfR81x6G4nhCl2PFkEtdrCcUuNAK9pOHkFf6JkqlhqL6ameBUjjtupc68ANIpvy1SSlDlY1HWROAQ8ezuyPscJCs+W9haJ3l/v3o2ft0n9101qQsaZe6jinEjZDOsn3hFdMFtzgBkXJw2zlGZuuwo0X/SUiQDNBHrtHqbVV3SPXusYtMe6RLo5Mq9Lxht7n1j5EGP/hxHFROMyhzDMkP6ZFsUVBh3pG/RoIVAWDo2tsPjDpLvUPozBacRNYyzirQc9PF7Z41hvPt8aDbgcjD2KaPblQiSlFymoiyyhtBrYWu9nu8u2QA==;7KjnzZT3cj0QPTqZBv+6zw=="
 ---

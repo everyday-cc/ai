@@ -7,7 +7,7 @@ originalUrl: "https://www.bizjournals.com/pittsburgh/inno/stories/fundings/2023/
 webUrl: "https://www.bizjournals.com/pittsburgh/inno/stories/fundings/2023/05/08/cmu-national-ai-research-institute.html"
 type: article
 quality: 7
-heat: 7
+heat: -1
 published: false
 
 provider:
@@ -18,6 +18,15 @@ topics:
   - AI
 
 related:
+  - title: "Carnegie Mellon Researchers Design Four-Legged Robotic System That Can Walk a Balance Beam"
+    excerpt: "A team of Robotics Institute researchers have designed a system that makes an off-the-shelf quadruped robot nimble enough to walk a narrow balance beam — a feat that is likely the first of its kind."
+    publishedDateTime: 2023-05-08T00:00:00Z
+    webUrl: "https://www.cmu.edu/news/stories/archives/2023/may/carnegie-mellon-researchers-design-four-legged-robotic-system-that-can-walk-a-balance-beam"
+    type: article
+    provider:
+      name: cmu.edu
+      domain: cmu.edu
+    quality: 9
   - title: "Carnegie Mellon University researchers place among $1 million top spot in XPRIZE Digital Learning Challenge"
     excerpt: "Science researchers at Carnegie Mellon University are among a team of winners that won the $1 million national XPRIZE Digital Learning Challenge."
     publishedDateTime: 2023-05-10T20:33:00Z

@@ -55,6 +55,15 @@ related:
         width: 2048
         height: 1367
         isCached: true
+  - title: "Self-driving rideshare company Cruise expands to Houston this month"
+    excerpt: "Driver-less car company Cruise is expanding into Houston this month and will soon be offering autonomously driven rideshares to passengers in the city. picture alliance/dpa/pictur"
+    publishedDateTime: 2023-05-11T12:02:00Z
+    webUrl: "https://www.chron.com/news/houston-texas/transportation/article/houston-cruise-self-driving-rideshare-18091996.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 4
 
 secured: "S9/nj1AGiTMDbRuOIlxidtErnmV5ZaChZaol4GepGBShtEKGZt1thcc/GbFg6zhbgQPPARckK077cpiSzeITPdAu1DmZ0Xjh6F/02Aily1/pV3NZDoSF7s+u+go6spdLkKiGxsUv3Iu9GbSmQH44m/dwpyXZzs6jaP3ZU6ni2Fp+p/pGXAtOg4p3LPXUlj6FBB+anXFTtOSnzdr5JBfwoxQoOcVqNd9GIArKaX255LpTJHb+SIDp7ec4Jo/pO9Wui01NNHDDCLSzvUCauq6mYdQAqLA7j2a+MRE1SkOp/Wp37qoeuNOswRydnDkvuEHlV9cWoKVuHIumssOcKZyMxKkGKkUAypzt/+2G9poB7ns=;/Li8SLpovPJWnRK+SipnSQ=="
 ---

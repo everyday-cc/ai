@@ -130,6 +130,29 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Google adding AI to popular apps, search"
+    excerpt: "AI-generated responses will top the results pages, and allow users to ask follow-up questions. Google also plans to add a \"help me write\" option in its GMail that will generate replies to emails within seconds."
+    publishedDateTime: 2023-05-11T14:18:00Z
+    webUrl: "https://www.cbsnews.com/newyork/video/google-adding-ai-to-popular-apps-search/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 37
+    images:
+      - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/05/11/76c64e6b-6549-4c21-8823-8f3d1bf8f87a/thumbnail/1200x630/24eb6d37a456e6c3f266e2d621d2d54e/5ce48051e6594736cf61c54a5327ef5c.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Robots, AI and 3D Models"
+    excerpt: "Robots, drones, artificial intelligence (AI) and other emerging digital technologies, which are already helping to advance nuclear decommissioning projects worldwide, are set to play an increasingly key role in the sector,"
+    publishedDateTime: 2023-05-11T13:56:00Z
+    webUrl: "https://www.iaea.org/bulletin/robots-ai-and-3d-models"
+    type: article
+    provider:
+      name: iaea.org
+      domain: iaea.org
+    quality: 34
   - title: "Google Cloud Unveils A3 GPU Supercomputer: Next-Gen Power for Advanced AI Models"
     excerpt: "In this blog post, Roy Kim, director of product management, and Chris Kleban, group product manager at Google Cloud, announce the private"
     publishedDateTime: 2023-05-10T18:55:00Z

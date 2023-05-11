@@ -9,8 +9,8 @@ ampWebUrl: "https://www.bbc.co.uk/news/education-65316283.amp"
 cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/education-65316283.amp"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: BBC
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Students positive toward AI, but uncertain about what counts as cheating, finds survey"
+    excerpt: "Students in Sweden are positive towards AI tools such as ChatGPT in education, but 62% believe that using chatbots during exams is cheating. However, where the boundary for cheating lies is highly unclear."
+    publishedDateTime: 2023-05-11T15:39:00Z
+    webUrl: "https://phys.org/news/2023-05-students-positive-ai-uncertain-survey.html"
+    ampWebUrl: "https://phys.org/news/2023-05-students-positive-ai-uncertain-survey.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-05-students-positive-ai-uncertain-survey.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 49
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/students-positive-towa.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Seeing potential learning tool, Boston University academic unit outlines policies for student use of AI"
     excerpt: "It’s not just a case of chatbots in the classroom – while some schools shy away from using ChatGPT, Boston University is embracing the"
     publishedDateTime: 2023-05-08T21:06:00Z

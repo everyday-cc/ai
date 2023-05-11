@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/2023-mobile-speech-recog
 webUrl: "https://www.marketwatch.com/press-release/2023-mobile-speech-recognition-software-dynamic-report-by-2030-2023-05-10"
 type: article
 quality: 69
-heat: -1
-published: false
+heat: 99
+published: true
 
 provider:
   name: MarketWatch
@@ -29,19 +29,10 @@ images:
     isCached: true
 
 related:
-  - title: "2023 Healthcare Artificial Intelligence (AI) | Dynamic Report By 2030"
-    excerpt: "The major players covered in the Healthcare Artificial Intelligence (AI) market report are: Get a sample copy of the Healthcare Artificial Intelligence (AI) Market report 2023 Healthcare Artificial Intelligence (AI) Marketsize,"
-    publishedDateTime: 2023-05-10T11:17:00Z
-    webUrl: "https://www.marketwatch.com/press-release/2023-healthcare-artificial-intelligence-ai-dynamic-report-by-2030-2023-05-10"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 79
-  - title: "Artificial Intelligence for Healthcare Applications Market 2023 | Increasing Number of Users by 2030"
-    excerpt: "The Artificial Intelligence for Healthcare Applications Market Scope and Overview Report for 2023 presents a detailed analysis of the latest trends in the global Artificial Intelligence for Healthcare Applications market."
-    publishedDateTime: 2023-05-08T06:38:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-for-healthcare-applications-market-2023-increasing-number-of-users-by-2030-2023-05-08"
+  - title: "Facial Recognition Door Lock Market Outlook | 2023-2031"
+    excerpt: "The Global Facial Recognition Door Lock market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players,"
+    publishedDateTime: 2023-05-09T21:58:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-door-lock-market-outlook-2023-2031-2023-05-09"
     type: article
     provider:
       name: MarketWatch
@@ -61,24 +52,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 66
-  - title: "Artificial Intelligence (AI) in Healthcare Market Industry-Specific Challenges and Risks(2023-2030)"
-    excerpt: "Global Artificial Intelligence (AI) in Healthcare Market report provides valuable insights on the global market for"
-    publishedDateTime: 2023-05-08T08:05:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-industry-specific-challenges-and-risks2023-2030-2023-05-08"
+  - title: "Emotion Detection & Recognition Market Size To Cross USD 136.2 Billion By 2031 | Exclusive Report"
+    excerpt: "Emotion Detection and Recognition Market Research Substantial growth of the Internet of Things technology, increase in popularity of wear"
+    publishedDateTime: 2023-05-09T08:53:00Z
+    webUrl: "https://menafn.com/1106205765/Emotion-Detection-Recognition-Market-Size-To-Cross-USD-1362-Billion-By-2031-Exclusive-Report"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 65
-  - title: "Artificial Intelligence in Healthcare Market 2023 to Hit Significant Growth by 2030| Research Reports World"
-    excerpt: "Global “Artificial Intelligence in Healthcare Market” 2023 | New Report | Medical Care Global Industry | (129 Pages"
-    publishedDateTime: 2023-05-09T10:33:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-2023-to-hit-significant-growth-by-2030-research-reports-world-2023-05-09"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 46
+      name: Mena FN
+      domain: menafn.com
+    quality: 0
 
 secured: "i7jUkKS3GdyFi2fO+uL6qTv00lFKm0AlWP039uUTu2AEBAUjv6I7z0xY2k/Ifc2Bi59vCipOtfCxMGi9HinavQtkjTsDm+u1HK6mHAbnh7da02GCViF6yW1aOkyHO2nCv6X8mwTm8Gj+bH0ClprywD+fz65FFlQ0J3Mu7p3rI7HsUHGFODmoxZ5ZC/G3T/IeZRgAmExZJUzMx6RVK7jfH8TnxEcYwzUekImlsxV23oKqsLDM4dllRuEpElLhOUl1nIpIeCYfQDk1zthD+ZhbTWAPA583hX3kltExBEe9zvZZ0IXr0QM2q1tKNvT3jFXY1UvkGIZAICelq/FWAvATjorY5vOliwZbFuLefMFxmG4=;pzmvzzOICqecXFvSbr8+Yg=="
 ---

@@ -42,15 +42,20 @@ related:
         height: 1024
         isCached: true
   - title: "Informatica Announces Expanded Industry Focus and Zero Cost Data Pipelines and Transformations with AWS"
-    excerpt: "Informatica (NYSE: INFA), an enterprise cloud data management leader, built upon their years-long relationship with Amazon Web Services (AWS) with a n"
-    publishedDateTime: 2023-05-10T17:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20230510005438/en/Informatica-Announces-Expanded-Industry-Focus-and-Zero-Cost-Data-Pipelines-and-Transformations-with-AWS/"
+    excerpt: "Informatica, an enterprise cloud data management leader, built upon their years-long relationship with Amazon Web"
+    publishedDateTime: 2023-05-11T14:59:00Z
+    webUrl: "https://www.datanami.com/this-just-in/informatica-announces-expanded-industry-focus-and-zero-cost-data-pipelines-and-transformations-with-aws/"
     type: article
     provider:
-      name: newsroom.businesswire.com
-      domain: businesswire.com
-    quality: 3
+      name: datanami.com
+      domain: datanami.com
+    quality: 23
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2023/02/AI-North-America23.png"
+        width: 1664
+        height: 674
+        isCached: true
 
-secured: "bDbCTEQJe8aFYUs4jJaMmPDltuOjcfCzgWH6xfPRWZLwlSHxV72x2idndDFgwIyruOOxVw1MdjkC1Qe/hMIQVXGekC+Yi5ZTEyJRDb68SE1dhWIdym2EYu4pSxxhpELuEwli/ftGYj0XbATNxCM0iGCxGz7ezR5UDD9YViFZ9VVYLPmql9MKD/W9byY2En2as/PVI9P6ycCROVphbfoFM/sxADnTE6qgwHJKppwvaQb7EC0ooOwqVLUVB8pTWonAzulLhDikhSYBKZJQx9Ip4cUq5aqfHcvtYOIdv/RKz6UnFdUCfqM5x1oRVyW4YsQZj5eqwD1pAHp1ctBgX/ZS13guRPW2/+JUCZpPZ/twFYA=;R1vhDt108BchdlL9c+/Hmg=="
+secured: "JjJcnQDHnSBfjA5nJTmW6RoJU5bH6TS8Xdy1+NUQusfc3EQyuUXhD2P62CKuzZun6oEj9bbf5YNU91Lszgz9CDvuVpmvNsol9ZG+uoA8K9b+r1htikVNYCE3gNF5G94IzfZN5pItLetuCLDjzGOC68ebywFmXQlgFeW6rTQ9sh0lrNkr4MxFvPTuP1t52wOEB0uIGj1xDbiso84gGo46syf3n4z1oDEmcgHJcFdqYRFj7UnqkXxQF2uJMoW1NJsERcdLYe7n4NPeI0d2WpJNlo5Okt2/It2TTtS3FL7PaHa+sw+DGo8BgTsSgnuFyDWap6J5tmOVrr1DZ76e/r9b0s+TxNJr8jtOm2iTl5zIlnyJYv2NUiSZkpdjkDNZA3Y2mWF0eWq7nystFVe+2l3I9vRLpZno9a8SDooKjlaab8zMEXKFV21g1dcCENlD+eoZgptSU4SQOmIkq1iWsZHbbfcg+Ck/UT2R/pPyUyPVnvYti+xjc719d/KFPGsj+2SGag5x99bf1DJvN2WP0qUeyw==;MZVS9hvyzEAo07w26Op5ew=="
 ---
 

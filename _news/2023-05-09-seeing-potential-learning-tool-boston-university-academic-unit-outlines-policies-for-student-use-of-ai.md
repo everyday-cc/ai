@@ -37,6 +37,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Students positive toward AI, but uncertain about what counts as cheating, finds survey"
+    excerpt: "Students in Sweden are positive towards AI tools such as ChatGPT in education, but 62% believe that using chatbots during exams is cheating. However, where the boundary for cheating lies is highly unclear."
+    publishedDateTime: 2023-05-11T15:39:00Z
+    webUrl: "https://phys.org/news/2023-05-students-positive-ai-uncertain-survey.html"
+    ampWebUrl: "https://phys.org/news/2023-05-students-positive-ai-uncertain-survey.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-05-students-positive-ai-uncertain-survey.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 49
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/students-positive-towa.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "plN++9tsMxnQ0adLg1ER/LHIKWdJZAjZrYlWqw48zAq2Z9k8nkocuqdxNSmpFlbyn3imYdoJFRpxjTOeyLz5tzhT6CuGMA2zUqSKZJ8UVQxxVtGxqCGlWHkcFmmxwJzKdm8ZGrIl/yt3RHsA+pfet8r8TYmlWWm8YE7q3OXCmXIBH5AAbhHX3uUxr/1LCJ1tJeXzuTzw9KUlN69rnGERUPcKxa0NG8+YWZc5Bh2nbH3APdw6sgjt4rFvweV52eObO3tw+WIvwyZNWeNhud1VmrHxwNhdX4SdsxK/oBX8olqFU+LjngYYqry5+qgeA/xlTbgWM6ED6hzex+fHc3pXoV9go8ZhRnVYOrAxHT/okflnls8QVd+XlQHODZ2h5jHWmchbPyKh0G0bY2hgnE7yFdveWT9++3OEABQ5X8+5QtbPHYppP9ueN5Y02dgNA8OoeYXNrgBG11EPs/BK9KG0bhE/mA+EWRJXiEr0LNj1LjxpWlfiyCsGHDNWoylhchlC06xwcUxo4xzdQCPQ0zuGZQ==;Gy3iWKTiYQUZWvr00/QKmQ=="
 ---

@@ -33,20 +33,6 @@ related:
         width: 640
         height: 426
         isCached: true
-  - title: "PwC, Microsoft and Icertis launch strategic collaboration to accelerate enterprise digital transformation with AI-powered contract intelligence"
-    excerpt: "PwC, Microsoft and Icertis today formally announced a new strategic collaboration that will provide C-suites with a powerful, innovative AI-driven approach to contract management that enables accelerated enterprise-level digital transformation."
-    publishedDateTime: 2023-05-09T09:52:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-pwc-microsoft-icertis-launch-strategic-collaboration-accelerate-enterprise-/2023/05/09/9809823.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 18
-    images:
-      - url: "https://mma.prnewswire.com/media/371539/Icertis_Logo.jpg"
-        width: 400
-        height: 260
-        isCached: true
 
 secured: "Q7Y8dC+m3PUEWyJTaM+MrnKYIDlF0cMR3aItMCYwcplhVX2bQ/D+a2qwkINtjWqc3qtkPMhXLkKOlHywIr7/7Xt4xeBUduSssikNWG1XT1b5deoiDZWghuZzKqbYu1WptYmdmMLdcdiaLnUWvevTqPw57oszOJLoEDyG/NRJKOGQKRuLh/pL6tYupsdjRwUkJPz4BegHU/ZJbXf/pUydG0AOgFrk9mPQ6GJrzYQb0OY4qfQ38Ow1p2TOCB0MdXtuBEvDimPEvYs9qsbNJZqw8ie1WuKDu0jCpnha+MIjMzd+SYl2vGfqX40uOrvdzdv4iV+dybsREiOnCe6FmTRp0jEKtrEPn68qL8pAdwdpUof05EpmqV5ieHQQb6wDa+GUjMhqN1sf4Htx7AdJLrOhtfgRc6oq9iukZtTcMgUlRqox7rZUo89/hyPVvOxZR1OnCscALFndG/8h+0au6tgVTEsRVCIIJp4cIjvTRg/I/r6tc6xj85WnAiyewf0NXWeRUOLVzL0NK+VEWmBNenFpgg==;JV1J8gytDV2jM4rCeYhiPg=="
 ---

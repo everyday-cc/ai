@@ -10,7 +10,7 @@
       "originalUrl": "https://www.techrepublic.com/article/google-unveils-advanced-ai-bard-search-maps/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 201,
+      "heat": 221,
       "tags": null,
       "images": [
         {
@@ -87,6 +87,59 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2023-05-10-the-crucial-ways-that-religion-and-generative-ai-chatgpt-are-crossing-fateful-faithful-paths.md",
+      "title": "The Crucial Ways That Religion And Generative AI ChatGPT Are Crossing Fateful Faithful Paths",
+      "excerpt": "Religion and generative AI such as ChatGPT are crossing paths, here's a comprehensive look at this fateful faithful intertwining, including upsides and downsides.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2023/05/10/the-crucial-ways-that-religion-and-generative-ai-chatgpt-are-crossing-fateful-faithful-paths/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2023/05/10/the-crucial-ways-that-religion-and-generative-ai-chatgpt-are-crossing-fateful-faithful-paths/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 190,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64591690fd83c13dff9c02fa/0x0.jpg?format=jpg&crop=3240,2160,x432,y0,safe&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2023/05/10/the-crucial-ways-that-religion-and-generative-ai-chatgpt-are-crossing-fateful-faithful-paths/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/05/10/the-crucial-ways-that-religion-and-generative-ai-chatgpt-are-crossing-fateful-faithful-paths/amp/",
+      "publishedDateTime": "2023-05-10T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1431,58 +1484,6 @@
       "ampWebUrl": "https://www.forbes.com/sites/garydrenik/2023/04/27/96-of-people-consider-ethical-and-responsible-ai-to-be-important/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/garydrenik/2023/04/27/96-of-people-consider-ethical-and-responsible-ai-to-be-important/amp/",
       "publishedDateTime": "2023-04-27T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-04-27-can-artificial-intelligence-ever-achieve-societal-level-digital-trust.md",
-      "title": "Can Artificial Intelligence Ever Achieve Societal-Level Digital Trust?",
-      "excerpt": "Artificial intelligence (AI) has always been treated with suspicion, and the pace and volume of the concerns raised are reaching new highs. In itself, the concerns raised regarding the use of AI and the level to which it can replace previous humanly operated processes are a demonstration of the pace of technological advancement.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/27/can-artificial-intelligence-ever-achieve-societal-level-digital-trust/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/27/can-artificial-intelligence-ever-achieve-societal-level-digital-trust/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/5f3bdea7cf036822a957572d/0x0.jpg?format=jpg&crop=5700,3206,x0,y294,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/27/can-artificial-intelligence-ever-achieve-societal-level-digital-trust/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/04/27/can-artificial-intelligence-ever-achieve-societal-level-digital-trust/amp/",
-      "publishedDateTime": "2023-04-27T06:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",

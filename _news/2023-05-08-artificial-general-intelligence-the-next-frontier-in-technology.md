@@ -45,20 +45,6 @@ related:
         width: 1200
         height: 844
         isCached: true
-  - title: "How AI is Changing the Manufacturing Industry"
-    excerpt: "According to the 2020 MIT Technology Review Insights survey, manufacturing is the sector with the second-highest adoption of artificial intelligence. This comes as no surprise since AI can shift the industry paradigm and reinvent how companies handle all aspects of the manufacturing process."
-    publishedDateTime: 2023-05-06T20:58:00Z
-    webUrl: "https://www.unite.ai/how-ai-is-changing-the-manufacturing-industry/"
-    type: article
-    provider:
-      name: unite
-      domain: unite.ai
-    quality: 39
-    images:
-      - url: "https://www.unite.ai/wp-content/uploads/2023/05/ai-manufacturing-971x600.jpg"
-        width: 971
-        height: 600
-        isCached: true
   - title: "Leveraging Artificial Intelligence In The Food Industry: How Startups Are Captivating Early Adopting F&B Operators to Tackle Theft and Waste"
     excerpt: "As AI continues to reveal its potential across every industry, we remain focused on harnessing its power to improve productivity and ingenuity to address decades-old problems plaguing the industry we love so dearly."
     publishedDateTime: 2023-05-09T03:00:00Z

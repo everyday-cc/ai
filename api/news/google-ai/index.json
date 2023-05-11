@@ -62,7 +62,7 @@
       "originalUrl": "https://fortune.com/2023/05/10/artificial-intelligence-deepmind-co-founder-mustafa-suleyman-ubi-governments-seriously-need-to-find-solution-for-people-that-lose-their-jobs/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 110,
+      "heat": 100,
       "tags": null,
       "images": [
         {
@@ -878,6 +878,49 @@
       ]
     },
     {
+      "path": "_news/2023-04-29-8-emerging-entrepreneurs-you-need-to-know-about-in-2023.md",
+      "title": "8 emerging entrepreneurs you need to know about in 2023",
+      "excerpt": "New Delhi [India] April 29 ANIPNN From innovative startups to game-changing enterprises these 8 emerging entrepreneurs have carved their own paths to success Their journeys as leaders offer valuable i",
+      "sourceUrl": null,
+      "webUrl": "https://www.bignewsnetwork.com/news/273795464/8-emerging-entrepreneurs-you-need-to-know-about-in-2023",
+      "originalUrl": "https://www.bignewsnetwork.com/news/273795464/8-emerging-entrepreneurs-you-need-to-know-about-in-2023",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.bignewsnetwork.com/NzBmYTU1ZTMtZTN.jpg",
+          "width": 630,
+          "height": 473,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-29T03:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Big News Network.com",
+        "domain": "bignewsnetwork.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-29-why-google-deepmind-may-be-bad-news-for-the-company.md",
       "title": "Why Google DeepMind may be 'bad news' for the company",
       "excerpt": "According to a report by The Financial Times, Google is risking internal turmoil by bringing DeepMind onboard. Citing people familiar with the matter,",
@@ -1405,49 +1448,6 @@
       "provider": {
         "name": "decrypt",
         "domain": "decrypt.co",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-21-google-creates-new-unit-called-google-deepmind-to-focus-on-ai-projects.md",
-      "title": "Google Creates New Unit Called “Google DeepMind” To Focus On AI Projects",
-      "excerpt": "Google has announced the merger of DeepMind and Google Brain team from the Google Research team to boost AI development efforts.",
-      "sourceUrl": null,
-      "webUrl": "https://techreport.com/news/3495608/google-creates-new-unit-called-google-deepmind-to-focus-on-ai-projects/",
-      "originalUrl": "https://techreport.com/news/3495608/google-creates-new-unit-called-google-deepmind-to-focus-on-ai-projects/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techreport.com/wp-content/uploads/2023/04/rajeshwar-bachu-K4txLik7pnY-unsplash-1-scaled.jpg",
-          "width": 2560,
-          "height": 1840,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-21T02:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Tech Report",
-        "domain": "techreport.com",
         "images": null,
         "publishers": null,
         "authors": null

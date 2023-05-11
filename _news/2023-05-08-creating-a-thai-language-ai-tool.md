@@ -58,6 +58,22 @@ related:
         width: 1200
         height: 500
         isCached: true
+  - title: "New Google search tool will distinguish real images from AI-generated phonies"
+    excerpt: "Rolling out in the coming months, the new 'About this Image' tool will help identify which images in a search are real and which are created by AI."
+    publishedDateTime: 2023-05-11T14:52:00Z
+    webUrl: "https://www.zdnet.com/article/new-google-search-tool-will-distinguish-real-images-from-ai-generated-phonies/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/new-google-search-tool-will-distinguish-real-images-from-ai-generated-phonies/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/new-google-search-tool-will-distinguish-real-images-from-ai-generated-phonies/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 84
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/e2abf1115d40e1fcee596f55c6be46a839a0d904/2023/05/11/1f3609ef-3fd4-45b9-9162-dc868eff6419/figure-top-new-google-search-tool-will-distinguish-real-images-from-ai-generated-phonies.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "The AI takeover of Google Search starts now"
     excerpt: "The future of Google Search is AI. But not in the way you think. The company synonymous with web search isn’t all in on chatbots (even though it’s building one, called Bard ), and it’s not redesigning its homepage to look more like a ChatGPT-style messaging system."
     publishedDateTime: 2023-05-10T17:51:00Z
@@ -243,6 +259,24 @@ related:
     provider:
       name: Fast Company
       domain: fastcompany.com
+    quality: 19
+  - title: "9 new Google AI features that will upgrade your life"
+    excerpt: "If you want a full breakdown of all the announcements from yesterday’s event as-it-happened, take a look at our Google I/O 2023 live blog here. Otherwise, let’s dive into nine of the best new AI features that Google hopes will make your online life a little easier to manage."
+    publishedDateTime: 2023-05-11T13:03:00Z
+    webUrl: "https://www.tomsguide.com/news/9-new-google-ai-features-that-will-upgrade-your-life"
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 19
+  - title: "Google says they’ll use powerful new AI tools responsibly"
+    excerpt: "At Google’s annual developer conference, the company promised to be bold with its use of AI but also responsible. Google I/O was held near the company’s headquarters in Mountain View,"
+    publishedDateTime: 2023-05-11T13:21:00Z
+    webUrl: "https://ktla.com/morning-news/google-says-theyll-use-powerful-new-ai-tools-responsibly/"
+    type: article
+    provider:
+      name: KTLA
+      domain: ktla.com
     quality: 19
 
 secured: "S/C8Wjd0814hUakQt1n7ht20KTKFjT1u3y9UiccKHa+f98s2VdGNU/eEo4tfr5kMgAdQuNJNkvc8+RKzCumFWUbjzRLcI83gNCcR61gCVmR3VwHa7rG5MkAXUwIipDBxGTkhV15Q7It2zW3NubzgG5T38z1BMeHECwjK+uFnt0bbJijzOhuwSfd8BOhNDn5sv7mr4BhsEsIdZrmUzGcZoJwr22qQfWAVcZziFZFAACpirVz6wmQ8kYCrmb4RMnz4TcmoorblCjY4NkLMi8Y5LEHTsH2pnIYjE1MOLkTURe74aUUDjmaUu4zrflLLw+6hy/BytXgZJXcvh78eTDSdjanW4TfyYH9rZ4KmQuNdK+Fbrl8l3cJmoXPl/xrhBJ4WweH2Tve+COM+7Osv2qD2zIf9Bn3A4FUk+LAxYgNtzu/s3Oa+lm3S24P7MvlQ3pqQ6nJjbL3/MbXBMEwSfBrJdJGGLNh7strzDfdY6DE7yTcl0eSdy9UhzuWEhkbVC3Vg8qafL2nyipVexBL1u0PozA==;ZHAi7SOSe9g1wudH3G5Pmw=="

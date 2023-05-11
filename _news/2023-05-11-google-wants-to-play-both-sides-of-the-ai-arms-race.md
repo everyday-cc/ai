@@ -54,6 +54,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "WebGPU Brings AI Capabilities Directly to Google Chrome Users"
+    excerpt: "Google I/O focused on AI technologies, integrating AI into Chrome using WebGPU for improved performance and security."
+    publishedDateTime: 2023-05-11T12:59:00Z
+    webUrl: "https://www.gizmochina.com/2023/05/11/google-integrating-ai-into-chrome-using-webgpu/"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 64
   - title: "Google Goes Big With a New Folding Phone and Better AI"
     excerpt: "It’s been a big week for Google, which just announced three new Pixel products, including its first foldable phone, plus key enhancements to its ChatGPT rival Bard."
     publishedDateTime: 2023-05-11T11:51:00Z

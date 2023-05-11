@@ -1,20 +1,18 @@
 ---
 category: news
 title: "Unlimited opportunities for manufacturing of medical devices in India: CEO of GE HealthCare South Asia"
-excerpt: "According to Sarawate, who is also managing director, Wipro GE Healthcare, new age technologies like artificial intelligence (AI) are significantly improving care quality and access to care."
-publishedDateTime: 2023-05-10T06:36:00Z
-originalUrl: "https://www.moneycontrol.com/news/business/unlimited-opportunities-for-manufacturing-of-medical-devices-in-india-ceo-of-ge-healthcare-south-asia-10559771.html"
-webUrl: "https://www.moneycontrol.com/news/business/unlimited-opportunities-for-manufacturing-of-medical-devices-in-india-ceo-of-ge-healthcare-south-asia-10559771.html"
-ampWebUrl: "https://www.moneycontrol.com/news/business/unlimited-opportunities-for-manufacturing-of-medical-devices-in-india-ceo-of-ge-healthcare-south-asia-10559771.html/amp"
-cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/unlimited-opportunities-for-manufacturing-of-medical-devices-in-india-ceo-of-ge-healthcare-south-asia-10559771.html/amp"
+excerpt: "Through this programme, we aim to nurture the start-up ecosystem, build strategic partnerships, and co-develop healthcare applications using AI and other technologies.GE HealthCare launched the Healthcare Innovation Lab with IISc Bengaluru-based Indian Institute of Science to aid clinicians in tackling real-time difficulties in care delivery by bringing to market new digital solutions that can be incorporated on the Edison platform."
+publishedDateTime: 2023-05-10T06:18:00Z
+originalUrl: "https://www.devdiscourse.com/article/technology/2446198-unlimited-opportunities-for-manufacturing-of-medical-devices-in-india-ceo-of-ge-healthcare-south-asia"
+webUrl: "https://www.devdiscourse.com/article/technology/2446198-unlimited-opportunities-for-manufacturing-of-medical-devices-in-india-ceo-of-ge-healthcare-south-asia"
 type: article
-quality: 45
-heat: 45
+quality: 25
+heat: -1
 published: false
 
 provider:
-  name: moneycontrol.com
-  domain: moneycontrol.com
+  name: devdiscourse
+  domain: devdiscourse.com
 
 topics:
   - AWS AI
@@ -22,9 +20,9 @@ topics:
   - AI in Healthcare
 
 images:
-  - url: "https://images.moneycontrol.com/static-mcnews/2023/02/Collage-Maker-28-Feb-2023-12.30-PM-770x435.jpg"
-    width: 770
-    height: 435
+  - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/27_06_2019_18_33_35_2442501.png?width=920&format=jpeg"
+    width: 920
+    height: 520
     isCached: true
 
 related:
@@ -44,7 +42,21 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "UK ‘losing ground’ in race for self-driving vehicles"
+    excerpt: "The government has been warned that the UK risks falling behind in the race to deploy self-driving car technology unless it brings in legislation soon.Unlike in"
+    publishedDateTime: 2023-05-08T23:01:00Z
+    webUrl: "https://www.thetimes.co.uk/article/uk-losing-ground-in-race-for-self-driving-vehicles-kxg389xvc"
+    type: article
+    provider:
+      name: The Times
+      domain: thetimes.co.uk
+    quality: 24
+    images:
+      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F1f97b87c-edc3-11ed-8ea4-131f6a9039fb.jpg?crop=2796%2C1573%2C70%2C192&resize=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
-secured: "8wNwCuO5LtRaZbRg7SMZnkliXZq/VwFwphSy8PUSuypgxcGIQzRSHYd71mVwV5atzsCn4uN4Sw2i6LueXFdylQ/xlm2PnbbJN6piyom91CsLOV+kRzYs+X/C1qYw56qhfq38+FzcDlxQOLgEe/CNmti3BsefPWsFf/7Qtw5vqc9EqHgWUHDCpfJT2zGIa2RufF7Kwn2XEEqpRLNbmQ0RG9QE70/Nzk4tCMK3xSTjHmLo7GRFYpfayoNaIt8sTs3iaTbUb3YSkvS13scqoWtDOHBv/H8NH40Mursw+vTeY/AFSJBFKJabv1kzH34w4PHezMwYS42hCdIMG7UHReFOqHGo6Xed881yno5T2ZhNqa/AZ0vHA2zIm2+nLHwEPe/A6T+h0Wa9MlQuaWFOPkJKL+oWbhbTjhTAPRuQPO+1/zffLy9SMCU+P0e+M7bHhEriOwSOIt8PEUO9U6rBd9DebRxFrDi+uJi89i2XiOo0Ou6TGMEZKMxpOTxzW7rntq8sWU9/Jf+w8lj9xc6P9cpW2A==;435wF7v7b/iRUgkWuyaRSw=="
+secured: "Lx9FmDvdr7STFeIb584svZgsOtbCikxz3sCpG4bCcZwA9yU+Fx9xZS62jNnuY1+5iEoIcP7WsDs+yB5aD/dz8HPAIyjhsx7pTuNlKBesb16F3c4gUACu2zJW460i0WOu/gWFhWaTOMg2rnrzlt20yXpUWncLPKH8KhRzGnWw/s+VC2Adsmmq6NP81BYHaz71AKoQMHLPw74twDGiB3xrZ0CyYck8lUHjroF0gxQ/JG7SeJZBOHjp0dkEWgROKmihxTHKXq38dYYUVhSDhp49zbWrE1CjLdrRwDjaFNOI+1uXstiL6U+ru2s5C9oyo0Q+eKmv43ktVX6Y3/6oTXP6UeodCg25ZhaajzjabiV+dgw=;QFD9ZwbV+bNFk0e3SnI6wg=="
 ---
 

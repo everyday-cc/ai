@@ -7,7 +7,7 @@ originalUrl: "https://www.pcmag.com/news/meet-the-new-google-search-ai-generated
 webUrl: "https://www.pcmag.com/news/meet-the-new-google-search-ai-generated-results-get-top-billing"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -28,6 +28,15 @@ images:
     isCached: true
 
 related:
+  - title: "Google is giving its dominant search engine an artificial intelligence makeover"
+    excerpt: "Google on Wednesday disclosed plans to infuse its dominant search engine with more advanced artificial-intelligence technology, a drive that’s in response to one of the biggest threats to its long-established position as the internet’s main gateway."
+    publishedDateTime: 2023-05-11T01:45:00Z
+    webUrl: "https://www.nbcnews.com/tech/tech-news/google-giving-dominant-search-engine-artificial-intelligence-makeover-rcna83863"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 43
   - title: "Google is giving its dominant search engine an AI makeover"
     excerpt: "Google on Wednesday disclosed plans to infuse its dominant search engine with more advanced artificial-intelligence technology, a drive that's in response to one of the biggest threats to its long-established position as the internet's main gateway."
     publishedDateTime: 2023-05-11T05:41:00Z

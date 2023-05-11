@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/09/making-int
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/05/09/making-intelligent-noise-ai-in-the-music-industry/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
       - url: "https://assets.entrepreneur.com/content/3x2/2000/1683531881-Hithere11.png"
         width: 2000
         height: 1333
-        isCached: true
-  - title: "How AI is Changing the Manufacturing Industry"
-    excerpt: "According to the 2020 MIT Technology Review Insights survey, manufacturing is the sector with the second-highest adoption of artificial intelligence. This comes as no surprise since AI can shift the industry paradigm and reinvent how companies handle all aspects of the manufacturing process."
-    publishedDateTime: 2023-05-06T20:58:00Z
-    webUrl: "https://www.unite.ai/how-ai-is-changing-the-manufacturing-industry/"
-    type: article
-    provider:
-      name: unite
-      domain: unite.ai
-    quality: 39
-    images:
-      - url: "https://www.unite.ai/wp-content/uploads/2023/05/ai-manufacturing-971x600.jpg"
-        width: 971
-        height: 600
         isCached: true
   - title: "Leveraging Artificial Intelligence In The Food Industry: How Startups Are Captivating Early Adopting F&B Operators to Tackle Theft and Waste"
     excerpt: "As AI continues to reveal its potential across every industry, we remain focused on harnessing its power to improve productivity and ingenuity to address decades-old problems plaguing the industry we love so dearly."

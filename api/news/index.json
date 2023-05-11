@@ -2,6 +2,422 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-05-11-musk-would-compound-tesla-automated-driving-risk-with-free-trial.md",
+      "title": "Musk Would Compound Tesla Automated-Driving Risk With Free Trial",
+      "excerpt": "Regulators are already swirling, and some customers have paid $15,000 for features the CEO is prepared to give away for a month.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2023-05-11/musk-would-compound-tesla-automated-driving-risk-with-free-trial",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2023-05-11/musk-would-compound-tesla-automated-driving-risk-with-free-trial",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iRwyAU42Epw8/v1/1200x900.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-11T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg L.P.",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-11-amp-robotics-attracts-investment-from-microsofts-climate-innovation-fund.md",
+      "title": "AMP Robotics attracts investment from Microsoft’s Climate Innovation Fund",
+      "excerpt": "AMP Robotics, a Denver, Colorado-based startup creating robotic systems that can automatically ... infrastructure and expanding new infrastructure based on our application of AI-powered automation,” founder and CEO Matanya Horowitz told TechCrunch ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/05/11/amp-robotics-attracts-investment-from-microsofts-climate-innovation-fund/",
+      "originalUrl": "https://techcrunch.com/2023/05/11/amp-robotics-attracts-investment-from-microsofts-climate-innovation-fund/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 420,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/01/GettyImages-172878844.jpg?w=1200",
+          "width": 1200,
+          "height": 803,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/05/11/amp-robotics-attracts-investment-from-microsofts-climate-innovation-fund/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/11/amp-robotics-attracts-investment-from-microsofts-climate-innovation-fund/amp/",
+      "publishedDateTime": "2023-05-11T08:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-11-artificial-intelligence-ai-chip-market-research-analysis-2023-2030.md",
+      "title": "Artificial Intelligence (AI) Chip Market Research Analysis, 2023-2030",
+      "excerpt": "Chip market growth in 2023-2029 with TOPMajor Players? Major Players Covered in this Report: The global Artificial Intelligence (AI) Chip Market USD Million in 2022, with a change of Percent between 2022 and 2023.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chip-market-research-analysis-2023-2030-2023-05-11",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chip-market-research-analysis-2023-2030-2023-05-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 569,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-11T08:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-11-bad-news-for-boomy-spotify-removes-thousands-of-ai-generated-songs-from-the-platform.md",
+      "title": "Bad News For Boomy: Spotify Removes Thousands of AI-Generated Songs From the Platform",
+      "excerpt": "Spotify is removing thousands of AI-generated songs created by music startup Boomy. The move is part of the platform’s effort to protect artists.",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/business-news/spotify-removes-thousands-of-boomys-ai-generated-songs/451985",
+      "originalUrl": "https://www.entrepreneur.com/business-news/spotify-removes-thousands-of-boomys-ai-generated-songs/451985",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1683816327-shutterstock-1038795847.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-11T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-11-revolve-and-maison-meta-bring-ai-fashion-week-to-physical-runways.md",
+      "title": "Revolve And Maison Meta Bring AI Fashion Week To Physical Runways",
+      "excerpt": "AI Fashion Week by Maison Meta and Revolve hopes to bridge the gap between AI-generated designs and IRL fashion, and launch the careers of new designers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jennywang/2023/05/11/revolve-and-maison-meta-bring-ai-fashion-week-to-physical-runways/",
+      "originalUrl": "https://www.forbes.com/sites/jennywang/2023/05/11/revolve-and-maison-meta-bring-ai-fashion-week-to-physical-runways/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/645cf94b82db4d2d30cb5cb8/0x0.jpg?format=jpg&crop=1586,891,x0,y18,safe&width=1200",
+          "width": 1200,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jennywang/2023/05/11/revolve-and-maison-meta-bring-ai-fashion-week-to-physical-runways/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jennywang/2023/05/11/revolve-and-maison-meta-bring-ai-fashion-week-to-physical-runways/amp/",
+      "publishedDateTime": "2023-05-11T07:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-11-machine-learning-security-principles-ebook-worth-3799-free-download.md",
+      "title": "Machine Learning Security Principles eBook (worth $37.99) - free download",
+      "excerpt": "The first part of this book will explore these processes in more depth, which will help you in understanding the role security plays in machine learning. As you progress to the second part, you’ll learn more about the environments where ML is commonly ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.neowin.net/sponsored/machine-learning-security-principles-ebook-worth-3799---free-download/",
+      "originalUrl": "https://www.neowin.net/sponsored/machine-learning-security-principles-ebook-worth-3799---free-download/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neowin.com/news/images/uploaded/2019/11/1574762211_1481879523_efa151423bca1f29bdb0870f620e57a112ee9c7b_main_hero_image_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.neowin.net/amp/machine-learning-security-principles-ebook-worth-3799---free-download/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/machine-learning-security-principles-ebook-worth-3799---free-download/",
+      "publishedDateTime": "2023-05-11T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2023-05-11-will-ai-help-us-or-leave-us-behind.md",
+      "title": "Will AI Help Us or Leave Us Behind?",
+      "excerpt": "The most urgent question for the revolution unfolding before our eyes is whether we can keep the technology connected to our humanity.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/will-ai-help-us-or-leave-us-behind-a1dfa5d3",
+      "originalUrl": "https://www.wsj.com/articles/will-ai-help-us-or-leave-us-behind-a1dfa5d3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-779758/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-11T06:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-11-financial-fraud-is-evolving-faster-than-ever-but-ai-is-helping-fintechs-fight-back.md",
+      "title": "Financial fraud is evolving faster than ever. But AI is helping fintechs fight back.",
+      "excerpt": "As digital interactions across financial services grow exponentially—giving more people than ever access to the global financial system and the cashless economy—financial crime has become a much more prevalent threat.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/sponsor/nvidia-aws-company/financial-fraud-is-evolving-faster-than-ever-but-ai-is-helping-fintechs-fight-back/",
+      "originalUrl": "https://techcrunch.com/sponsor/nvidia-aws-company/financial-fraud-is-evolving-faster-than-ever-but-ai-is-helping-fintechs-fight-back/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/05/NVIDIA-art-3-hero.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-11T06:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-11-a-season-of-recognition-the-oklahoma-city-thunders-individual-honors-and-a-promising-trajectory.md",
       "title": "A Season Of Recognition: The Oklahoma City Thunder’s Individual Honors And A Promising Trajectory",
       "excerpt": "Following an extremely successful 40-win season for the Oklahoma City Thunder, several individuals earned praise with the various awards and teams that are voted upon.",
@@ -10,7 +426,7 @@
       "originalUrl": "https://www.forbes.com/sites/nicholascrain/2023/05/11/a-season-of-recognition-the-oklahoma-city-thunders-individual-honors-and-a-promising-trajectory/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -200,6 +616,110 @@
       ]
     },
     {
+      "path": "_news/2023-05-11-autonomous-or-driverless-cars-market-report-talks-about-current-market-share-2023-2030.md",
+      "title": "Autonomous or Driverless Cars Market Report Talks about Current Market Share 2023-2030",
+      "excerpt": "May 11, 2023 (The Expresswire) -- \"Stay informed with the Latest New Insight Updates on Autonomous or Driverless Cars Market to remain Competitive",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/autonomous-or-driverless-cars-market-report-talks-about-current-market-share-2023-2030-2023-05-11",
+      "originalUrl": "https://www.marketwatch.com/press-release/autonomous-or-driverless-cars-market-report-talks-about-current-market-share-2023-2030-2023-05-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-11T01:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-11-the-prospects-of-image-recognition-in-retail-market-2023-industry-trends-and-challenges-till-2030.md",
+      "title": "The Prospects of Image Recognition in Retail Market 2023: Industry Trends and Challenges till 2030",
+      "excerpt": "A recent study report named \" Image Recognition in Retail Market \" offers a thorough analysis of the market's development potential, potential for revenue generation, and current trends through 2028.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/the-prospects-of-image-recognition-in-retail-market-2023-industry-trends-and-challenges-till-2030-2023-05-11",
+      "originalUrl": "https://www.marketwatch.com/press-release/the-prospects-of-image-recognition-in-retail-market-2023-industry-trends-and-challenges-till-2030-2023-05-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-11T01:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-11-the-hot-new-job-that-pays-six-figures-ai-prompt-engineering.md",
       "title": "The Hot New Job That Pays Six Figures: AI Prompt Engineering",
       "excerpt": "The emerging field of prompt engineering involves using generative AI tools and natural language processing to create more effective outputs. But what are the skills required? Which companies are hiring for this role?",
@@ -251,15 +771,15 @@
       ]
     },
     {
-      "path": "_news/2023-05-11-big-data-machine-learning-in-telecom-market-report-forecast-2023-2031.md",
-      "title": "Big Data & Machine Learning in Telecom Market Report (Forecast 2023-2031)",
-      "excerpt": "As per the \"Big Data and Machine Learning in Telecom Market\" report, the technology sector is evolving, and companies",
+      "path": "_news/2023-05-11-deep-learning-system-market-with-future-opportunities-2023-2031.md",
+      "title": "Deep Learning System Market with Future Opportunities 2023-2031",
+      "excerpt": "The \"Deep Learning System Market\" study delves into the evolution of the technology industry and the responses of major",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/big-data-machine-learning-in-telecom-market-report-forecast-2023-2031-2023-05-10",
-      "originalUrl": "https://www.marketwatch.com/press-release/big-data-machine-learning-in-telecom-market-report-forecast-2023-2031-2023-05-10",
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-system-market-with-future-opportunities-2023-2031-2023-05-10",
+      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-system-market-with-future-opportunities-2023-2031-2023-05-10",
       "featuredContent": null,
       "highlight": null,
-      "heat": 80,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -275,7 +795,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-10T19:49:00-07:00",
+      "publishedDateTime": "2023-05-10T19:45:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "MarketWatch",
@@ -298,9 +818,8 @@
         "news"
       ],
       "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
+        "Machine Learning",
+        "AI"
       ]
     },
     {
@@ -406,67 +925,15 @@
       ]
     },
     {
-      "path": "_news/2023-05-11-top-10-google-ai-products-to-take-on-amazon-chatgpt-and-microsoft.md",
-      "title": "Top 10 Google AI Products To Take On Amazon, ChatGPT And Microsoft",
-      "excerpt": "It was all about AI as Google I/O 2023 kicked off at Google headquarters in Mountain View, California with a keynote by CEO Sundar Pichai. Here are the top ten AI products and features to watch for from the tech giant in the coming months and how to sign up to become a tester.",
+      "path": "_news/2023-05-11-artificial-intelligence-consulting-service-market.md",
+      "title": "Artificial Intelligence Consulting Service Market",
+      "excerpt": "Research Reports has published a new report titled as \"Artificial Intelligence Consulting Service Market\" by End",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/martineparis/2023/05/10/top-10-google-ai-products-to-take-on-amazon-microsoft-and-chatgpt/",
-      "originalUrl": "https://www.forbes.com/sites/martineparis/2023/05/10/top-10-google-ai-products-to-take-on-amazon-microsoft-and-chatgpt/",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-consulting-service-market-2023-05-10",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-consulting-service-market-2023-05-10",
       "featuredContent": null,
       "highlight": null,
-      "heat": 544,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/645c46a1baf555e1902796dd/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 805,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/martineparis/2023/05/10/top-10-google-ai-products-to-take-on-amazon-microsoft-and-chatgpt/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martineparis/2023/05/10/top-10-google-ai-products-to-take-on-amazon-microsoft-and-chatgpt/amp/",
-      "publishedDateTime": "2023-05-10T18:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-11-computer-vision-in-artificial-intelligence-ai-market.md",
-      "title": "Computer Vision in Artificial Intelligence (AI) Market",
-      "excerpt": "Research Reports has published a new report titled as \"Computer Vision in Artificial Intelligence (AI) Market\" by",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-in-artificial-intelligence-ai-market-2023-05-10",
-      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-in-artificial-intelligence-ai-market-2023-05-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 239,
+      "heat": 77,
       "tags": null,
       "images": [
         {
@@ -482,7 +949,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-10T17:00:00-07:00",
+      "publishedDateTime": "2023-05-10T17:01:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "MarketWatch",
@@ -505,7 +972,6 @@
         "news"
       ],
       "topics": [
-        "Computer Vision",
         "AI"
       ]
     },
@@ -518,7 +984,7 @@
       "originalUrl": "https://www.nbcnews.com/nightly-news/video/google-launches-new-ai-tools-173891653794",
       "featuredContent": null,
       "highlight": null,
-      "heat": 247,
+      "heat": 277,
       "tags": null,
       "images": [
         {
@@ -611,7 +1077,7 @@
       "originalUrl": "https://www.techrepublic.com/article/google-unveils-advanced-ai-bard-search-maps/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 201,
+      "heat": 221,
       "tags": null,
       "images": [
         {
@@ -707,7 +1173,7 @@
       "originalUrl": "https://www.pcmag.com/news/meet-the-new-google-search-ai-generated-results-get-top-billing",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -750,344 +1216,38 @@
       ]
     },
     {
-      "path": "_news/2023-05-10-introducing-project-gameface-a-hands-free-ai-powered-gaming-mouse.md",
-      "title": "Introducing Project Gameface: A hands-free, AI-powered gaming mouse",
-      "excerpt": "Project Gameface, a new open-source hands-free gaming mouse has the potential to make gaming more accessible.",
+      "path": "_news/2023-05-11-microsoft-ceo-satya-nadella-on-ai.md",
+      "title": "Microsoft CEO Satya Nadella on AI",
+      "excerpt": "TIME talks with Microsoft CEO Satya Nadella about Copilot and company's use of AI Write to Andrew D. Johnson at andrew.johnson@time.com.",
       "sourceUrl": null,
-      "webUrl": "https://blog.google/technology/ai/google-project-gameface/",
-      "originalUrl": "https://blog.google/technology/ai/google-project-gameface/",
+      "webUrl": "https://time.com/6278841/microsoft-ceo-satya-nadella-on-artificial-intelligence/",
+      "originalUrl": "https://time.com/6278841/microsoft-ceo-satya-nadella-on-artificial-intelligence/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 134,
       "tags": null,
       "images": [
         {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gameface_hero_1_1.width-1300.jpg",
-          "width": 1300,
-          "height": 541,
+          "url": "https://cdn.jwplayer.com/v2/media/N9qPsYLv/poster.jpg?width&#x3D;720",
+          "width": 720,
+          "height": 406,
           "title": null,
           "attribution": null,
           "isCached": true
         }
       ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/technology/ai/google-project-gameface/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/google-project-gameface/amp/",
-      "publishedDateTime": "2023-05-10T13:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-11-deepmind-cofounder-warns-governments-seriously-need-to-find-solutions-for-people-who-lose-their-jobs-to-ai.md",
-      "title": "DeepMind cofounder warns governments seriously need to find solutions for people who lose their jobs to A.I.",
-      "excerpt": "Mustafa Suleyman, who cofounded the London-based lab DeepMind, later sold to Google in 2014, told the GIC Bridge Forum event in San Francisco on Tuesday that policymakers needed to step up and provide some form of aid such as universal basic income (UBI).",
-      "sourceUrl": null,
-      "webUrl": "https://fortune.com/2023/05/10/artificial-intelligence-deepmind-co-founder-mustafa-suleyman-ubi-governments-seriously-need-to-find-solution-for-people-that-lose-their-jobs/",
-      "originalUrl": "https://fortune.com/2023/05/10/artificial-intelligence-deepmind-co-founder-mustafa-suleyman-ubi-governments-seriously-need-to-find-solution-for-people-that-lose-their-jobs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://content.fortune.com/wp-content/uploads/2023/05/GettyImages-961707246-e1683733321936.jpg?w=840",
-          "width": 840,
-          "height": 604,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://fortune.com/2023/05/10/artificial-intelligence-deepmind-co-founder-mustafa-suleyman-ubi-governments-seriously-need-to-find-solution-for-people-that-lose-their-jobs/amp/",
-      "cdnAmpWebUrl": "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/2023/05/10/artificial-intelligence-deepmind-co-founder-mustafa-suleyman-ubi-governments-seriously-need-to-find-solution-for-people-that-lose-their-jobs/amp/",
-      "publishedDateTime": "2023-05-10T13:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fortune",
-        "domain": "fortune.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fortune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-11-google-expands-tensorflow-open-source-tooling-for-accelerated-machine-learning-development.md",
-      "title": "Google expands TensorFlow open-source tooling for accelerated machine learning development",
-      "excerpt": "Google enhances TensorFlow with deep learning capabilities and parallelism techniques for developer choice in machine language tooling.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/google-expands-tensorflow-open-source-tooling-for-accelerated-machine-learning-development/",
-      "originalUrl": "https://venturebeat.com/ai/google-expands-tensorflow-open-source-tooling-for-accelerated-machine-learning-development/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/04/VB_google_deepmind_annc_042023-copy.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/google-expands-tensorflow-open-source-tooling-for-accelerated-machine-learning-development/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/google-expands-tensorflow-open-source-tooling-for-accelerated-machine-learning-development/amp/",
-      "publishedDateTime": "2023-05-10T13:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "TensorFlow",
-        "Google AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-05-11-us-federal-government-cios-share-challenges-and-insights-into-future-of-ai-and-technology.md",
-      "title": "US Federal Government CIOs Share Challenges And Insights Into Future Of AI And Technology",
-      "excerpt": "At the GITEC 2023 Conference hosted in Annapolis, government CIOs shared some of their insights into where hot technologies like AI, but also less “sexy” technology priorities such as IT modernization and big data analytics,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2023/05/10/us-federal-government-cios-share-challenges-and-insights-into-future-of-ai-and-technology/",
-      "originalUrl": "https://www.forbes.com/sites/cognitiveworld/2023/05/10/us-federal-government-cios-share-challenges-and-insights-into-future-of-ai-and-technology/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/645bf484b738ee39999c02fa/0x0.jpg?format=jpg&crop=2880,1350,x0,y405,safe&width=1200",
-          "width": 1200,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2023/05/10/us-federal-government-cios-share-challenges-and-insights-into-future-of-ai-and-technology/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2023/05/10/us-federal-government-cios-share-challenges-and-insights-into-future-of-ai-and-technology/amp/",
-      "publishedDateTime": "2023-05-10T12:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-11-palm-2-is-a-major-ai-update-built-into-25-google-products.md",
-      "title": "PaLM 2 Is a Major AI Update Built Into 25 Google Products",
-      "excerpt": "Google on Wednesday unveiled a new AI system called PaLM 2, a major update to its most powerful language processing system. The artificial intelligence technology already is incorporated into 25 Google products, underscoring its importance as the company races to capitalize on a computing revolution.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/tech/computing/palm-2-is-a-major-ai-update-built-into-25-google-products/",
-      "originalUrl": "https://www.cnet.com/tech/computing/palm-2-is-a-major-ai-update-built-into-25-google-products/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/fe3d1d07b739cc3244a8a9fcfe9874465549ff2c/hub/2023/05/10/cdb8cbe0-b31f-453b-a7be-880690b5828c/palm2.jpg?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/palm-2-is-a-major-ai-update-built-into-25-google-products/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/palm-2-is-a-major-ai-update-built-into-25-google-products/",
-      "publishedDateTime": "2023-05-10T12:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-05-11-google-io-2023-live-blog-pixel-7a-fold-tablet-and-bard-ai-reveals.md",
-      "title": "Google I/O 2023 Live Blog: Pixel 7A, Fold, Tablet and Bard AI Reveals",
-      "excerpt": "Google I/O 2023, the company's annual developer conference is now underway and is already including reveals for Google's AI plans, the new Pixel 7A, Pixel Fold and Pixel Tablet. Google's keynote has just wrapped, but you can check out all the major highlights from our live blog below.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news-live/google-io-2023-live-blog-pixel-7a-fold-tablet-and-bard-ai-reveals/",
-      "originalUrl": "https://www.cnet.com/news-live/google-io-2023-live-blog-pixel-7a-fold-tablet-and-bard-ai-reveals/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 191,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/0ca7c8055796ec105c7002853ee5ae9fabf8ea1e/hub/2023/04/20/b51b4ccc-c533-42a5-bf98-62ba415a1b56/google-io-2023-5.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news-live/google-io-2023-live-blog-pixel-7a-fold-tablet-and-bard-ai-reveals/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news-live/google-io-2023-live-blog-pixel-7a-fold-tablet-and-bard-ai-reveals/",
-      "publishedDateTime": "2023-05-10T12:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-05-10-play-io-flip-our-ai-designed-card-game.md",
-      "title": "Play I/O FLIP, our AI-designed card game",
-      "excerpt": "Just in time for Google I/O 2023, try out I/O FLIP, an online card game built with generative AI.",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/technology/ai/google-card-game-io-flip-ai/",
-      "originalUrl": "https://blog.google/technology/ai/google-card-game-io-flip-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-10T12:00:00-07:00",
+      "publishedDateTime": "2023-05-10T14:10:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Google",
-        "domain": "blog.google",
+        "name": "Time",
+        "domain": "time.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/time.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1104,152 +1264,7 @@
       ],
       "topics": [
         "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-11-film-and-tv-writers-should-not-fear-ai-the-chairman-of-uclas-screenwriting-program-says.md",
-      "title": "Film and TV writers 'should not fear' AI, the chairman of UCLA's screenwriting program says",
-      "excerpt": "Richard Walter, a screenwriter for half a century, says AI tools like ChatGPT can be a useful tool for writers and exhibit flaws just like humans do.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/film-tv-writers-should-not-fear-ai-amid-strike-screenwriting-2023-5",
-      "originalUrl": "https://www.businessinsider.com/film-tv-writers-should-not-fear-ai-amid-strike-screenwriting-2023-5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/645ba2cac726bc00196ab5d5?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/film-tv-writers-should-not-fear-ai-amid-strike-screenwriting-2023-5?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/film-tv-writers-should-not-fear-ai-amid-strike-screenwriting-2023-5?amp",
-      "publishedDateTime": "2023-05-10T11:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-11-ai2-incubators-new-30m-fund-triples-down-on-early-stage-ai-startups.md",
-      "title": "AI2 Incubator’s new $30M fund triples down on early-stage AI startups",
-      "excerpt": "There's a difference between \"startups that use AI\" and \"AI startups,\" and AI2 just raised a $30M fund to back a bunch more of the latter.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/05/10/ai2-incubators-new-30m-fund-triples-down-on-early-stage-ai-startups/",
-      "originalUrl": "https://techcrunch.com/2023/05/10/ai2-incubators-new-30m-fund-triples-down-on-early-stage-ai-startups/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/05/ai2-wb.jpg?resize=1200,731",
-          "width": 1200,
-          "height": 731,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/05/10/ai2-incubators-new-30m-fund-triples-down-on-early-stage-ai-startups/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/10/ai2-incubators-new-30m-fund-triples-down-on-early-stage-ai-startups/amp/",
-      "publishedDateTime": "2023-05-10T11:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-10-being-bold-on-ai-means-being-responsible-from-the-start.md",
-      "title": "Being bold on AI means being responsible from the start",
-      "excerpt": "Google’s James Manyika discusses how Google responsibly applies AI to benefit people and society.",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/technology/ai/google-responsible-ai-io-2023/",
-      "originalUrl": "https://blog.google/technology/ai/google-responsible-ai-io-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-10T11:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
+        "Microsoft AI"
       ]
     }
   ],

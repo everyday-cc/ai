@@ -69,6 +69,15 @@ related:
         width: 770
         height: 435
         isCached: true
+  - title: "The likely winners of the generative AI gold rush"
+    excerpt: "Small, specialist models that are cheap to train and fast to run may win out over the broader Big Tech offerings"
+    publishedDateTime: 2023-05-11T13:10:00Z
+    webUrl: "https://www.ft.com/content/0cbe91ec-0971-4ba6-bdf1-87855aedd34c"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 17
   - title: "Adobe Firefly Delivers Creator-Focused, Commercially Viable Generative AI to Millions"
     excerpt: "Adobe (Nasdaq:ADBE) showcased the incredible momentum of Adobe Firefly including a new integration with Bard by Google and the expansion of the"
     publishedDateTime: 2023-05-10T17:45:00Z

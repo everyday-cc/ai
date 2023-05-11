@@ -62,6 +62,15 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "I asked ChatGPT, Bing, and Bard what worries them. Google's AI went Terminator on me"
+    excerpt: "Just to be clear: this is not science fiction. Chatbots might have some worries that might, in turn, worry us just a bit."
+    publishedDateTime: 2023-05-08T17:14:00Z
+    webUrl: "https://www.zdnet.com/article/i-asked-chatgpt-bing-and-bard-what-worries-them-googles-ai-went-terminator-on-me/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 40
 
 secured: "TLgS7YIw4n+MVGXIEJtpaMV7gI4oyQ3epFoREJeiwoHcn99bCdzzC7jD+S521tJ0xmHAHoRrekPIa4jRsqVYEUpWV+G3g6/X4HyJwli+pbFWgS1YQWdrKRJM92f0yONp6lIhIlt7f9tN50nNFjmv2gtk1b3Ll5+YOemDEBhsctlQo3Q1OeSYoNo8EDv/x0rliCPynr8guxx18GX6WwLR87xG17LyoV/+VmBgvzu0cFBLixRj2H/MGl6tmFAJGWeUY6WpxfTN6O31TskkvpFFUthaTtqrrdUzkLKThkhlUxZqIkG7KZGYWdXnm80/WVZaHAbQBe4LJ9xjKaN66sDipXHwhBVYJGNhsMAr5xMCwukzNoKCJn8DMhrM4AJQaJSXW/06OJgQrkfw8M5U8GayDrflPdtZfKJVviGGSnq1h9odJOddCpoPy7rMi0QIlz/tNI6Ky/Fieq842u4YvOucJTZVFvT+hLV9ozlJJH1I15BSl/dSPtTY9SzZAy2aQd6k4NG0UDnBjPk21QW4+pg9fw==;+uJCTxXhf+fslyRteUDQ+A=="
 ---

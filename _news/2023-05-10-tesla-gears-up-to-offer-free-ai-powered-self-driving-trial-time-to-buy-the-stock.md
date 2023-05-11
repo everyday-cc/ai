@@ -7,7 +7,7 @@ originalUrl: "https://www.theglobeandmail.com/investing/markets/stocks/TSLA-Q/pr
 webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/TSLA-Q/pressreleases/16753479/tesla-gears-up-to-offer-free-ai-powered-self-driving-trial-time-to-buy-the-stock/"
 type: article
 quality: 48
-heat: 48
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,54 @@ images:
     width: 720
     height: 483
     isCached: true
+
+related:
+  - title: "Musk Would Compound Tesla Automated-Driving Risk With Free Trial"
+    excerpt: "Regulators are already swirling, and some customers have paid $15,000 for features the CEO is prepared to give away for a month."
+    publishedDateTime: 2023-05-11T15:30:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-05-11/musk-would-compound-tesla-automated-driving-risk-with-free-trial"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 69
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iRwyAU42Epw8/v1/1200x900.jpg"
+        width: 1200
+        height: 900
+        isCached: true
+  - title: "Tesla releases a new Full Self-Driving Beta update with performance improvements"
+    excerpt: "Tesla has started to release a new Full Self-Driving Beta update with some performance improvements – although it doesn’t"
+    publishedDateTime: 2023-05-11T14:08:00Z
+    webUrl: "https://electrek.co/2023/05/11/tesla-full-self-driving-beta-update-v114/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 64
+    images:
+      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2020/10/Tesla-Full-Self-Driving-Beta-Demo-e1603460621557.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Tesla changes course with Full Self-Driving to introduce end-to-end AI in v12, says Musk"
+    excerpt: "Tesla is planning to update its Full Self-Driving package with end-to-end AI in its FSD Beta v12, says Elon Musk. FSD Beta already makes plenty of use of neural nets powered by artificial intelligence, but it is used for the perception part of the equation – meaning for the vehicle to detect its environment."
+    publishedDateTime: 2023-05-08T12:14:00Z
+    webUrl: "https://electrek.co/2023/05/08/tesla-changes-course-full-self-driving-end-to-end-ai-v12-musk/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 55
+  - title: "Elon Musk says Tesla will give everyone free month of Full Self-Driving, but not yet"
+    excerpt: "Elon Musk says Tesla will give a free month of a Full Self-Driving package to every owner in North America, but only once it is “super smooth.” The CEO has had a fixation on people “not understanding the value of Tesla’s Full Self-Driving package,” which the automaker now sells for $15,000."
+    publishedDateTime: 2023-05-08T19:25:00Z
+    webUrl: "https://electrek.co/2023/05/08/elon-musk-tesla-free-month-full-self-driving/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 42
 
 secured: "dIWhWGr+HVXSlL7TiBT5fHhJkVQBtPhPhOxEHt8/qGjsBnnu4P1wsXird3uxoHsASk9BRBCbkLdK8LV39dwIHKSaJ2fkQ0xcna3qbB67mE/8yfy8vmXCm+8o4Zsy+OHz+7GLgg2s55xF3+y/+Dsd2MM5MJBHe4T23PiWV6UiBmMnqj4/Y6iHxhRC9sWlXAZysYzfS7nHL9guURlvlbrwChXSuiHBCOdaAD9JJE+Xv3dRa4CnQ+6Dre7CDHKC3ZLZq2W7I7yY7kTVzrfUqH0oTQHOmPW/iaDQ9Uyc6Vz0G5tBf4urn3GYX/qVVpkZDrgUX238ZIobonRc4gR4fdTy5tmAlR6lf8GmqOLHDOYM/n3YL5wnYgXKOrSy7UuTvdyE9Z8KXqe3nZ2cp7JAaaN+OELqJgrRQLvJFZNE0CqmBDx8Pq8eZJs4zFicXKXMc/6FwG9AG0W9dIvH4ex/nr/SZqfO4YzhZTKfk+IKKuhlUATturhPgBYR4fpcVQaoVr3brFGJOsEhRLCs4AZmGjfCSw==;SiHmXijHujIaTxIcuzi3jQ=="
 ---

@@ -57,6 +57,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 34
+  - title: "Boston’s Leading AI Image Analytics Startup Named to Leading 100 List of 2023"
+    excerpt: "The Lead has announced The Leading 100 of 2023, the highly anticipated annual research list recognizing the innovative tech startups driving the future of brand-to-consumer, … Continue Reading →"
+    publishedDateTime: 2023-05-11T13:10:00Z
+    webUrl: "https://multichannelmerchant.com/press-releases/bostons-leading-ai-image-analytics-startup-named-to-leading-100-list-of-2023/"
+    type: article
+    provider:
+      name: Multichannel Merchant
+      domain: multichannelmerchant.com
+    quality: 14
   - title: "New Survey Finds Financial Leaders Investing in Analytics, AI and ML Tools as They Navigate Economic Uncertainty in 2023"
     excerpt: "OneStream Software, a leader in corporate performance management (CPM) solutions for the world’s leading enterprises,"
     publishedDateTime: 2023-05-10T12:35:00Z

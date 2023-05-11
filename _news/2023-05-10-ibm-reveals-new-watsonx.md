@@ -110,6 +110,15 @@ related:
       name: IBM
       domain: ibm.com
     quality: 97
+  - title: "IBM launches watsonx studio to make deploying generative AI easier"
+    excerpt: "The watsonx platform announcement also marks IBM's plan to add generative AI to other services, incorporating code writing and more."
+    publishedDateTime: 2023-05-11T12:43:00Z
+    webUrl: "https://www.techrepublic.com/article/ibm-watsonx-studio-generative-ai/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 68
   - title: "IBM: Remember Watson? It's Still Around, Ready to Give Your Business an AI Upgrade"
     excerpt: "IBM has a new AI and data platform called Watsonx (Opens in a new window) aimed at making it easy for enterprises to take advantage of artificial intelligence. The name Watson fir"
     publishedDateTime: 2023-05-09T13:03:00Z

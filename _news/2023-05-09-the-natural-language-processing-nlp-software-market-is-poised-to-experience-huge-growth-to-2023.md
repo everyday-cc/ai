@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/the-natural-language-pro
 webUrl: "https://www.marketwatch.com/press-release/the-natural-language-processing-nlp-software-market-is-poised-to-experience-huge-growth-to-2023-2023-05-09"
 type: article
 quality: 71
-heat: 91
+heat: 101
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Cloud Natural Language Processing Market Growth 2023-2030"
+    excerpt: "May 09, 2023 (The Expresswire) -- \"Cloud Natural Language Processing Market\" Insights 2023 By Types ( Rulebased Natural Language Processing,"
+    publishedDateTime: 2023-05-09T21:33:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cloud-natural-language-processing-market-growth-2023-2030-2023-05-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Natural Language Processing (NLP) Software Market"
     excerpt: "Precision Reports has published a new report titled as \"Natural Language Processing (NLP) Software Market\" by End"
     publishedDateTime: 2023-05-09T07:25:00Z

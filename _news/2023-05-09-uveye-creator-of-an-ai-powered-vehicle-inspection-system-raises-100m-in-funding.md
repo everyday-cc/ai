@@ -29,20 +29,6 @@ related:
       name: Indiatimes
       domain: indiatimes.com
     quality: 39
-  - title: "4 AI-powered platforms reshaping the Czech FinTech space"
-    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
-    publishedDateTime: 2023-05-10T04:20:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/4-ai-powered-firms-reshaping-the-fintech-space-in-czech-republic/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 39
-    images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2023/05/Artificial-Intelligence-1.jpg"
-        width: 300
-        height: 300
-        isCached: true
   - title: "Sound Ventures has already plugged half its new $240 million AI fund into three companies"
     excerpt: "Sound Ventures, the eight-year-old, Beverly Hills, Ca.,-based venture firm led by general partners Ashton Kutcher, Guy Oseary, and Effie Epstein, announced a new $240 million AI fund just last week. Turns out half of it is already invested in the three companies that it announced at the time that it rolled out the fund: OpenAI,"
     publishedDateTime: 2023-05-10T07:52:00Z
@@ -52,24 +38,20 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 38
-  - title: "4 AI-powered firms reshaping the FinTech space in Czech Republic"
-    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
-    publishedDateTime: 2023-05-09T12:02:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/4-ai-powered-firms-reshaping-the-fintech-space-in-czech-republic/"
+  - title: "GIC sees more growth in fintech after downturn"
+    excerpt: "SAN FRANCISCO - Singapore sovereign wealth fund GIC said it still sees more growth in the financial technology sector, even after a downturn that’s sent start-up valuations plummeting as investors turn away from riskier bets."
+    publishedDateTime: 2023-05-09T04:30:00Z
+    webUrl: "https://www.straitstimes.com/business/gic-sees-more-growth-in-fintech-after-downturn"
     type: article
     provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 19
-  - title: "The Future of Fintech: How AI is Disrupting the Financial Industry"
-    excerpt: "The financial industry is undergoing a significant transformation thanks to the emergence of Artificial Intelligence (AI) and machine learning. On a global scale, the AI-based fintech market experienced growth from $9."
-    publishedDateTime: 2023-05-08T19:03:00Z
-    webUrl: "https://techbullion.com/the-future-of-fintech-how-ai-is-disrupting-the-financial-industry/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 19
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 24
+    images:
+      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2023/05/09/IMGGIC112113KC4_2.jpg?VersionId=gMEqlZHu5Vb7K_7IuRHKXnl.VfQvmEd4"
+        width: 860
+        height: 573
+        isCached: true
 
 secured: "Q6Wgks6b/7fNTcvuhkinsBthB8Kz2xIw/499U49S8Ke2lugr0vfgNSOlYCGR+7FtnygW25kJq20apIRhIbweghnrOfHB+fcVIwjhBT9LTLRJcinL+BU5vc0hgEtEU901kLQs3KKx1Cr1xSowXV6WxJo4EUyMgp30qbVoLqhzr7Q6KvJ7nogvb+Dy3vBM7ObXRvRel+FeD3hAyRU1qTAR+j9/5lgRnJPKWgFkoRAQtAzCCNDDwEEvAOFCQIE30MPWhffRrF4nVzNczfbIVVbBzbR2oT27uq8j21NP728Tzz9UTTEQfyD0t0G11XpcHB6I3LO0dW1VWvKtVoirDadvVP0MKsd4ATgXQVCk0PxY8H3zKN/RyN5S6fcYyo9HA2hDXcduDFjTstmg6OvNNoEgtkKw14PPCjNL0as3Q5Sef5s7SILuP4NWHl6fAz3hEQUzctGYz3WsAGSjhnyiabfwJdoxgTiQ+GBOHTggB97Ss2tCcNPG10SKXxcA7sukestHFRD91NyvUAti7j5f+Qdq0Q==;7M3NqStxbeiSTLHKJnVJhA=="
 ---

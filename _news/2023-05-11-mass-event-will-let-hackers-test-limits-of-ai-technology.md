@@ -1,44 +1,39 @@
 ---
 category: news
 title: "Mass event will let hackers test limits of AI technology"
-excerpt: "But now its maker, OpenAI, and other major AI providers such as Google and Microsoft, are coordinating with the Biden administration to let thousands of hackers take a shot at testing the limits of their technology."
-publishedDateTime: 2023-05-10T19:03:00Z
-originalUrl: "https://www.chron.com/business/article/hackers-aim-to-find-flaws-in-ai-with-white-18090259.php"
-webUrl: "https://www.chron.com/business/article/hackers-aim-to-find-flaws-in-ai-with-white-18090259.php"
+excerpt: "No sooner did ChatGPT get unleashed than hackers started \"jailbreaking\" the artificial intelligence chatbot — trying to override its safeguards so it could blurt out something unhinged or obscene. But now its maker,"
+publishedDateTime: 2023-05-11T09:59:00Z
+originalUrl: "https://www.timesfreepress.com/news/2023/may/11/mass-event-will-let-hackers-test-limits-tfp/"
+webUrl: "https://www.timesfreepress.com/news/2023/may/11/mass-event-will-let-hackers-test-limits-tfp/"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: Chattanooga Times Free Press
+  domain: timesfreepress.com
 
 topics:
   - AI Ethics
   - AI
 
 images:
-  - url: "https://s.hdnux.com/photos/01/32/64/15/23806829/6/rawImage.jpg"
-    width: 2048
-    height: 1365
+  - url: "https://wehco.media.clients.ellingtoncms.com/img/photos/2023/05/10/AP23128822415100_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
+    width: 600
+    height: 400
     isCached: true
 
 related:
-  - title: "Google AI chief quits due to concerns about dangers from technology"
-    excerpt: "Artificial intelligence pioneer Geoffrey Hinton said he realized computers could become smarter than people far sooner than he and other experts had expected"
-    publishedDateTime: 2023-05-07T15:48:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/273823159/google-ai-chief-quits-due-to-concerns-about-dangers-from-technology"
+  - title: "Hackers to test limits of AI technology at Las Vegas event"
+    excerpt: "OpenAI and other major AI providers are coordinating with the Biden administration to let thousands of hackers take shots at testing the limits of their technology."
+    publishedDateTime: 2023-05-11T03:56:00Z
+    webUrl: "https://www.nbcnews.com/tech/tech-news/mass-event-will-let-hackers-test-limits-ai-technology-rcna83708"
     type: article
     provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 39
-    images:
-      - url: "https://cdn.bignewsnetwork.com/cus1683170979548.jpg"
-        width: 630
-        height: 420
-        isCached: true
+      name: NBC News
+      domain: nbcnews.com
+    quality: 49
   - title: "Mass event will let hackers test limits of AI technology"
     excerpt: "No sooner did ChatGPT get unleashed than hackers started “jailbreaking” the artificial intelligence chatbot – trying to override its safeguards so it could blurt out something unhinged or obscene"
     publishedDateTime: 2023-05-10T15:02:00Z
@@ -53,18 +48,16 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Former Google Scientist Warns About the Dangers of Artificial Intelligence"
-    excerpt: "Systems can generate convincing audio and photorealistic-style images and video, sometimes modeled after real people."
-    publishedDateTime: 2023-05-08T10:30:00Z
-    webUrl: "https://www.ncregister.com/cna/former-google-scientist-warns-about-the-dangers-of-artificial-intelligence"
-    ampWebUrl: "https://www.ncregister.com/cna/former-google-scientist-warns-about-the-dangers-of-artificial-intelligence?amp"
-    cdnAmpWebUrl: "https://www-ncregister-com.cdn.ampproject.org/c/s/www.ncregister.com/cna/former-google-scientist-warns-about-the-dangers-of-artificial-intelligence?amp"
+  - title: "Las Vegas event will let hackers test limits of AI technology"
+    excerpt: "No sooner did ChatGPT get unleashed than hackers started “jailbreaking” the artificial intelligence chatbot — trying to override its safeguards so it could blurt out something"
+    publishedDateTime: 2023-05-10T16:26:00Z
+    webUrl: "https://lasvegassun.com/news/2023/may/10/las-vegas-event-will-let-hackers-test-limits-of-ai/"
     type: article
     provider:
-      name: National Catholic Register
-      domain: ncregister.com
-    quality: 37
+      name: Las Vegas Sun
+      domain: lasvegassun.com
+    quality: 19
 
-secured: "82NxXqMR3AvYCnJ0OPR4TiFRj+K7Xip2x+znA0NY4vKfIqiHyUZ5PmmoRKNZdIBoV28mfDbpX/+7vUSJPLIsHI5NiUTN65cyzt4FAGw0VyHwmUh+OnfOfionuwsEscck394hQdvnwaTFGQL48h4NwaJapaeRa3SyUt1Jm3Y8mQ/0npOTpwFPXy/28p27L+lL8pL3l8hgxeaQ/clKGvJur/1lHqky3chzHdY59b7ZONqfqjgKREhyVPJ6A5sGO3/xwbnjoUUVJwwALeJbbHWfOlmd9am8XO9l6Ef7uSQvOxz5oJ+PaPCaGK8KI1zl14JhHaiIM+ORhlMtJnTmb1ZK6qYDXctYM5J1yDOd6eqQc9U=;cmb3MBnQ2EvzL/IPARzxhw=="
+secured: "Lr95BMklYG5Irs0HHGFbN4ie42hzkGauyeqQXV2/t/UzjKKKTfFXwYHpqpWS6nhwq1mVfgkcxGRVyaW/MsZmbBnZZLcMWLASOXH5cOVMoBBsVFbNL2i1JAPPKVIW/th4zpDoaK0S9+2hG+cGcl0+cneIuuWQkc776t9QAHhvIIyjMtR7nSkVG9UNujCKsPUHWASQQXvepdvxA97l4vdHDjappWrdy54uy2AjopAQXU86s56UFHUUwDS95og9ahldtPOYSXLAZ6+dPl+8HOP+LHaB8MgeN2FsAB3vOaioBl6TUBe3yOIKwNRAA2bZ7KzSdi7HD1Sxh67sbzRIOgo1pjdvRF3znn13Je5bhVimm4M=;BdtNEvVzjhCq4asGGFCzGA=="
 ---
 

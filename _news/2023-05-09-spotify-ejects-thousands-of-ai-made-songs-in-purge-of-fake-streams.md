@@ -7,7 +7,7 @@ originalUrl: "https://arstechnica.com/information-technology/2023/05/spotify-eje
 webUrl: "https://arstechnica.com/information-technology/2023/05/spotify-ejects-thousands-of-ai-made-songs-in-purge-of-fake-streams/"
 type: article
 quality: 47
-heat: 47
+heat: -1
 published: false
 
 provider:
@@ -22,15 +22,20 @@ topics:
   - AI
 
 related:
-  - title: "World's First AI Healthcare Radio Station Now Streaming Through Spotify"
-    excerpt: "The world's first AI healthcare radio station started streaming on LifesavingRadio.com through Spotify to help enhance surgical performance in the OR."
-    publishedDateTime: 2023-05-09T14:03:00Z
-    webUrl: "https://www.businesswire.com/news/home/20230509005162/en/Worlds-First-AI-Healthcare-Radio-Station-Now-Streaming-Through-Spotify"
+  - title: "Bad News For Boomy: Spotify Removes Thousands of AI-Generated Songs From the Platform"
+    excerpt: "Spotify is removing thousands of AI-generated songs created by music startup Boomy. The move is part of the platform’s effort to protect artists."
+    publishedDateTime: 2023-05-11T15:00:00Z
+    webUrl: "https://www.entrepreneur.com/business-news/spotify-removes-thousands-of-boomys-ai-generated-songs/451985"
     type: article
     provider:
-      name: newsroom.businesswire.com
-      domain: businesswire.com
-    quality: 34
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 60
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1683816327-shutterstock-1038795847.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
   - title: "Boomy’s AI-generated tracks start landing back on Spotify amid growing battle against artificial streaming"
     excerpt: "Less than a week after uploads to Spotify from AI-powered music creation app Boomy were blocked over concerns about artificial streaming, Boomy says it’s back in business on the prominent music streaming platform."
     publishedDateTime: 2023-05-08T15:08:00Z

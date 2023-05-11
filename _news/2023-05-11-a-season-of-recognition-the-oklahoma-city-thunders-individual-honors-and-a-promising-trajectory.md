@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/nicholascrain/2023/05/11/a-season-of-re
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nicholascrain/2023/05/11/a-season-of-recognition-the-oklahoma-city-thunders-individual-honors-and-a-promising-trajectory/amp/"
 type: article
 quality: 61
-heat: 81
+heat: 91
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "BV Education Assoc. petitions directors for official recognition"
+    excerpt: "The meeting room was full, with nearly two dozen district employees wearing red “Stronger Together” shirts in support of the petition."
+    publishedDateTime: 2023-05-10T20:30:00Z
+    webUrl: "https://www.chaffeecountytimes.com/free_content/bv-education-assoc-petitions-directors-for-official-recognition/article_70a6ab88-ef71-11ed-809c-e38820138822.html"
+    type: article
+    provider:
+      name: The Chaffee County Times
+      domain: chaffeecountytimes.com
+    quality: 41
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/chaffeecountytimes.com/content/tncms/assets/v3/editorial/d/2e/d2e40822-ef71-11ed-80d3-d7ba29657cbb/645bff9407d48.image.jpg?crop=985%2C517%2C107%2C0&resize=985%2C517&order=crop%2Cresize"
+        width: 985
+        height: 517
+        isCached: true
   - title: "Recognizing the risks: Go slow on facial recognition"
     excerpt: "The City Council is poised to pass a bill that would generally prohibit public accommodations like, hypothetically, large sports arenas and music halls owned by a gruff billionaire from utilizing biometric technologies like facial recognition to “verify or identify a customer,"
     publishedDateTime: 2023-05-07T08:05:00Z
@@ -62,6 +76,6 @@ related:
         height: 230
         isCached: true
 
-secured: "1YlWAg4inquucw/cXlAFs/gNpS1wtvjgAx4cuVICe6yUmV5rZYZleyZ+tEM1yEi/2FXixOQo3Y4miDcFmIE97Zbdul8liAjIIHIPSv9X8plSksp7QW3HE8jrPuSETJUo6jO96JvdS35qijrlnTR9h1g4G2BlWd2owyoFKYskj63BnLW/8SaNd6cWP7qTvYVUFzSoyN4whYvsXqtby5bELrJunOe7ZVSQnwhe7nQF7hOuI2t7U6ZLpmvqp92KlAFbyS0aTpdPKTETWd6NH5WEPoUoT0CLE30AqlTXyi+ZLCiKwpjNjAkedTLlWCHxsyA2ncKhBh9BQbWzzkUQYNSoqUazVikN+YyXvApx+YEAXlI=;ncVwUwFfLewDdx7KzmLU2Q=="
+secured: "lBaeTBAcs0jguZWbsjCzyBlq/VyuGwYZSKiMbEOxgAa+FJFJUkf0xQYYKmtErZePKWPGKtunGtjuZr0p+/1qqV2taQ+g5MRbLzeSzLjgXzU+TCQczV7zqhqNenP4rBUiN65UT84682UY5uIvx8CSWoavuPKu8Mp8Pryyvmcjh4GQpzvwlICP9fKtdK99cUDD1Zq2lYMGGmtlSD6Gb4+zsTePjgcEpZHLan1D9F2h+3UUUFsVRg/keisXFKE08VEKKfdV4bZXI83iaAFbzii1SFoOfFMF/PZC9d9hOBPLePBJGBLE4e4JpmFCanQhEmq3mYeyyuGmY6OFsssW6Df9WScW74wRmbI3dWeGdicTa1hhPEwmgPkcF3ZNZGaWU526oXNp6fyfC8kTJ05cjlKPqQP0qfQD7bJxzSQCYCDABDysOGuGX2CBYVbEqODKbsK9QC6i23oRBjx6lmXk9OUOueqOUZqNSm28AntsRv9NvTEJxMdiQy1dzNq61JNPcLX6Hde0ZbmOeSNbeA1WYXU5dA==;uI3VNAE/f7wMpb0dIUuY1Q=="
 ---
 

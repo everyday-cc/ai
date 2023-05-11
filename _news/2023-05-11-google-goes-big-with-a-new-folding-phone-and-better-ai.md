@@ -56,6 +56,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "WebGPU Brings AI Capabilities Directly to Google Chrome Users"
+    excerpt: "Google I/O focused on AI technologies, integrating AI into Chrome using WebGPU for improved performance and security."
+    publishedDateTime: 2023-05-11T12:59:00Z
+    webUrl: "https://www.gizmochina.com/2023/05/11/google-integrating-ai-into-chrome-using-webgpu/"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 64
   - title: "Bringing AI Tools to the Workplace Requires a Delicate Balance"
     excerpt: "By midyear, all of Morgan Stanley’s thousands of wealth advisers are expected to have access to a new artificial-intelligence-powered chat tool.The tool, which is already in use by about 600 staff members,"
     publishedDateTime: 2023-05-08T20:02:00Z

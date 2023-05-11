@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/05/10/cruise-expands-supervised-self-dri
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/10/cruise-expands-supervised-self-driving-ride-hailing-to-houston-and-dallas/amp/"
 type: article
 quality: 88
-heat: 108
+heat: 118
 published: true
 
 provider:
@@ -59,7 +59,16 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Self-driving rideshare company Cruise expands to Houston this month"
+    excerpt: "Driver-less car company Cruise is expanding into Houston this month and will soon be offering autonomously driven rideshares to passengers in the city. picture alliance/dpa/pictur"
+    publishedDateTime: 2023-05-11T12:02:00Z
+    webUrl: "https://www.chron.com/news/houston-texas/transportation/article/houston-cruise-self-driving-rideshare-18091996.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 4
 
-secured: "GezB1kMRzRcRAou0oWGEM7RM6zv+ItVR25F9LCmOwGkxa1sZ2ceC/XAuWu4cNovAeT9TGdkDniiOXvtv7aJS1r1X6A0hStvYs4nImG4D5BLBFUZbCR01hqUlW5xVwGuL43Y6hSla13Db6BzAfoT8BwizDF62V+tA/IUap22em7BR4H7GwUmfAwTiKiZKWwjrrteaNfc3fMvGKR4aVVolDn3qSVtjyxn5eUttHUpcBkDk10Z/11yJE71ra0JVPI4ki5vLBvnNF9PU7CSZFel9+tjdsUsYtjJdaOvtvvD7uIx7/iCdzeZHFsambz4n57nvvntZ+aolTcaDyl+s5p6MUuRPIp95eQosO8Fx6IbM0Bg=;MxGFvG/6pg0Oh03S/4kFkg=="
+secured: "aSMNHn4JVj5QSn6s9vcKrR/ELm0i3AC1rDX9Uj2aZZoqzhSdtWNtUxqBZBz53CqyaQ9YOST31NvclyKuGsjU4DS3JiCxZY7EJ0FRsPtKhm3kdOTt/DAjyNGI1+MrSU55ztrndIqOyRzo0H9T0g5ZW1TsOD28L+ABA3avDLJJRCOWVIDMWGKsC7k6pamms899pDthlA6YFAdIQHmT0082LFuMm2X8FSVzS7PhN5x7Kuosqo2m/GLaoRnG4HyHUG74AaRyksW3ZEKo8lLsfT5U+ml4CJUuXdj8QUfxaDFc8Mp/wt9rW6aiyy5+sB9/kUVEPq+hAtRYQwmOMw5Wq0AVDFDyOhji+KXbXohm0TgdnfcsIqVa+PYhPtlNJQFYgAoTrMMBfpWr0erk/udTpF0hgghqM8Cev936MsJ67nNoDoAhsbwuKN0GknDqpxceCSDbrbl2wuhFrRPAkI2bFukqr5W20PCp1l/zGnQnzPu/kinQEOVkH/iVc/Q5OJ8o2+TbTIqhYaEv1bbZXYeBCFTJRQ==;sJ2uD7y3Cmqt4apBV9tmgg=="
 ---
 

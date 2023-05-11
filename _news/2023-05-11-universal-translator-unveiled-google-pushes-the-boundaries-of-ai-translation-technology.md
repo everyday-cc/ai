@@ -9,7 +9,7 @@ ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/universal-translator-u
 cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/universal-translator-unveiled-google-pushes-the-boundaries-of-ai-translation-technology-71683787988893.html"
 type: article
 quality: 50
-heat: 50
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 300
     height: 400
     isCached: true
+
+related:
+  - title: "Google's Universal Translator can change a speaker's language and their lips"
+    excerpt: "One of the many new products Google unveiled at its I/O conference yesterday was its experimental \"Universal Translator,\" part of its AI push."
+    publishedDateTime: 2023-05-11T13:47:00Z
+    webUrl: "https://www.techspot.com/news/98653-google-universal-translator-can-change-speaker-language-their.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 51
+    images:
+      - url: "https://www.techspot.com/images2/news/bigimage/2023/05/2023-05-11-image-2.jpg"
+        width: 2533
+        height: 1383
+        isCached: true
 
 secured: "LxbN7YmaCv3eFX/saeo7IHma6pDwaqI/IaV1bKPkGdtcBhJHRg3WwfetrZYRvpU+KYpLfZwgX083qTOPwNk09ylVNrgEaC5UfWKgbE3hodo4OWRo/A/tzDe44VaZze8fFM4x5LG5GVVXn+AjBxwQG3jkTCfqcP6qNyEF7/26vuFswgq3qRZ5ymPwXqi4NDu4jPqJ189AaHUhVJEMWlbzID0XVHEZW7iLqmdIUIExUO1KI/v4hif0eB9qkyY7u/txYFOxyCai9R2AKZI/ZH9Dv/GZDxxqeoRYxlQ/kwzbeFLEQ87q0SV7VGHJTgWqcEPO+xJu79JZEa7FFj9XUbP/Nm298hg3X9Ch/riQjtjlKUM=;j0xlliknwOYAmfbEWByX3A=="
 ---

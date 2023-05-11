@@ -20,15 +20,15 @@ topics:
   - AI in Sales
 
 related:
-  - title: "Hybrid Voice Recognition System Market 2023 Thriving at a Tremendous Growth till 2030"
-    excerpt: "The Hybrid Voice Recognition System Market Report by Type (BEV, ICE, Others) and by Application (Economy Vehicles, Mid-Priced Vehicles, Luxury Vehicles) forecast is offered along with info related to key drivers,"
-    publishedDateTime: 2023-05-10T13:08:00Z
-    webUrl: "https://www.marketwatch.com/press-release/hybrid-voice-recognition-system-market-2023-thriving-at-a-tremendous-growth-till-2030-2023-05-10"
+  - title: "Face Recognition Attendance System Market is poised to grow a Robust CAGR of +16% by 2029 | Truein, Saral PayPack, Securtime"
+    excerpt: "Facial recognition is a biometric technology used for identification and authentication of the people by capturing"
+    publishedDateTime: 2023-05-11T04:03:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-attendance-system-market-is-poised-to-grow-a-robust-cagr-of-16-by-2029-truein-saral-paypack-securtime-2023-05-11"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 47
+    quality: 42
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

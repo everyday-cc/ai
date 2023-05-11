@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Informatica Announces Expanded Industry Focus and Zero Cost Data Pipelines and Transformations with AWS"
-excerpt: "Informatica (NYSE: INFA), an enterprise cloud data management leader, built upon their years-long relationship with Amazon Web Services (AWS) with a n"
-publishedDateTime: 2023-05-10T17:00:00Z
-originalUrl: "https://www.businesswire.com/news/home/20230510005438/en/Informatica-Announces-Expanded-Industry-Focus-and-Zero-Cost-Data-Pipelines-and-Transformations-with-AWS/"
-webUrl: "https://www.businesswire.com/news/home/20230510005438/en/Informatica-Announces-Expanded-Industry-Focus-and-Zero-Cost-Data-Pipelines-and-Transformations-with-AWS/"
+excerpt: "Informatica, an enterprise cloud data management leader, built upon their years-long relationship with Amazon Web"
+publishedDateTime: 2023-05-11T14:59:00Z
+originalUrl: "https://www.datanami.com/this-just-in/informatica-announces-expanded-industry-focus-and-zero-cost-data-pipelines-and-transformations-with-aws/"
+webUrl: "https://www.datanami.com/this-just-in/informatica-announces-expanded-industry-focus-and-zero-cost-data-pipelines-and-transformations-with-aws/"
 type: article
-quality: 3
+quality: 23
 heat: -1
 published: false
 
 provider:
-  name: newsroom.businesswire.com
-  domain: businesswire.com
+  name: datanami.com
+  domain: datanami.com
 
 topics:
   - AWS AI
   - AI
+
+images:
+  - url: "https://www.datanami.com/wp-content/uploads/2023/02/AI-North-America23.png"
+    width: 1664
+    height: 674
+    isCached: true
 
 related:
   - title: "Informatica Unveils Expanded Industry Focus and Zero Cost Data Pipelines and Transformations with AWS"
@@ -50,6 +56,6 @@ related:
         height: 1024
         isCached: true
 
-secured: "6XSvPWOn1SZprDE7D9Sr77GNDzZBJT3F0ewHrGlc8dd0k7cJC4Otrz5/++Tw3Oy07G/33duK6urBX5yp5EbydVh/mAdHDWLb3ILgOAqlxDOvIfP3uTek2UD12CIt2XyzIZpVmldvecvjX6rRJLPaeoU2kTFt85/r0r3xoLV4HvNHA0xnu8EjVxegfpoZwEszZRZFV8suH0rpMevCu3mA5uYfDqDYu7FliKqCrDXC4Q1d6vMccqs/pX8buV4zU5e7Lkn3wKRblCNaWSmOa7ZzpdFHMMuRqg/9LXEm1Xr1zFbDTCmG9+Y/kflItLDEadsTpHIcYOYLvuFInE14kRAesWAGxu1Of7t+zzoh4ms+kuU=;VeQFshKYzeGzDfwkCNT/rA=="
+secured: "2VMkv0cz0WZoi6RqF6q7TLq5CVdUiF5b+ADi6FaHVDf41EEru9phxlz0Vl6k4wI15dRaFRJCw0Gda+ETq8yCXtV+cMedsAh+hzdMkWZEQ367upso9EtZGXZ/NE8mde8pUsDbg5ueXNHuQatli1cXCE1PoPYB4jgwt6lWpv8ScsvASotxNTUPBY5Tvn9aQOvw65j9+cZtYGokPqr4JcXbt29Sr0TEkUhtAGaVhS/ODRMvUC8xhArQD4W7qpOStPe8XsVTR+5GJddG/I3Ft/u+jOuyXr1g8rVV4jrUNjhX1LBznwPe66sYyvx2yptyjVh/LXB0YImsC/jcsASd62Wn6j5/b8FFE2nJdKqqZNH8Uo4=;mHfm8qqvoijmN14+bv0Now=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/zendesk-ai-leveling-up-with-generative-ai
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/zendesk-ai-leveling-up-with-generative-ai-for-a-more-intuitive-and-intelligent-cx-platform/amp/"
 type: article
 quality: 77
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -44,6 +44,15 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Mo, an AI Chatbot Powered by Morningstar Intelligence Engine, Debuts in Morningstar Platforms"
+    excerpt: "(Nasdaq: MORN), a leading provider of independent investment insights, today launched a beta version of its generative artificial intelligence chatbot named \"Mo\" across Morningstar Investor, Research Portal,"
+    publishedDateTime: 2023-05-11T12:41:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/05/11/9812464.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 8
 
 secured: "Z6XFxmG29Ln1CGuHYS2m18dq5MRpHGJU9do1TdNByufP9xnzkVJzmwXMtTkWwGAxcEvE2SRTQrHleVRy/XM0CwesKv/GrdxKKj1IytakEEURYFmfdm9o1s+wtAatPB7BhccxMN1yox35HgVcfY+h2sDzOqYKuVkS/+g2NBDbWI1BCrKrAwENHMjXpXzu1rlQAsvoCyZxtELVIRK/FgTymOjxokb6yHOAPFv6dny1M8ZsaElKdz9/kkDWRnCcuLasw0e4bQ1bLoiInbZ3BM4JHeQek54zDeYamXlpRl7JuAfLNOtySXF6rUrZmleyy2gz7s4c5BVkMZj9NzyYwxKbCfZb4fAgSlr6ONJ2XZSLUZOlOfT1WCCBpAPL7/7rPNjmdpk+rH8ONSXTX4KwMRwn1fOUOKZ2FXToyz2xC8om4Co+Ao7QjHxco9kbzuhl/erMsrUo4JjlnqF+DWZTqTgX9iRslhH+/Oe+8KTWsxOAYP7O4aoslFIM4DNErBCFFP/wmSNSYM7N40n4CQXHjCqBsg==;ZXHDRCLBAL5w8Jrdy7Fd5g=="
 ---

@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2023-05-11-big-data-machine-learning-in-telecom-market-report-forecast-2023-2031.md",
-      "title": "Big Data & Machine Learning in Telecom Market Report (Forecast 2023-2031)",
-      "excerpt": "As per the \"Big Data and Machine Learning in Telecom Market\" report, the technology sector is evolving, and companies",
+      "path": "_news/2023-05-11-financial-fraud-is-evolving-faster-than-ever-but-ai-is-helping-fintechs-fight-back.md",
+      "title": "Financial fraud is evolving faster than ever. But AI is helping fintechs fight back.",
+      "excerpt": "As digital interactions across financial services grow exponentially—giving more people than ever access to the global financial system and the cashless economy—financial crime has become a much more prevalent threat.",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/big-data-machine-learning-in-telecom-market-report-forecast-2023-2031-2023-05-10",
-      "originalUrl": "https://www.marketwatch.com/press-release/big-data-machine-learning-in-telecom-market-report-forecast-2023-2031-2023-05-10",
+      "webUrl": "https://techcrunch.com/sponsor/nvidia-aws-company/financial-fraud-is-evolving-faster-than-ever-but-ai-is-helping-fintechs-fight-back/",
+      "originalUrl": "https://techcrunch.com/sponsor/nvidia-aws-company/financial-fraud-is-evolving-faster-than-ever-but-ai-is-helping-fintechs-fight-back/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 80,
+      "heat": 164,
       "tags": null,
       "images": [
         {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "url": "https://techcrunch.com/wp-content/uploads/2023/05/NVIDIA-art-3-hero.jpg?resize=1200,800",
           "width": 1200,
-          "height": 630,
+          "height": 800,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -26,14 +26,14 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-10T19:49:00-07:00",
+      "publishedDateTime": "2023-05-11T06:21:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -51,7 +51,7 @@
       "topics": [
         "AI in Finance",
         "AI",
-        "Machine Learning"
+        "AWS AI"
       ]
     },
     {

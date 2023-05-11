@@ -24,38 +24,15 @@ images:
     isCached: true
 
 related:
-  - title: "ChatGPT and the new AI are wreaking havoc on cybersecurity in exciting and frightening ways"
-    excerpt: "Unrestrained by ethics or law, cybercriminals are racing to use AI to find innovative new hacks, says Recorded Future CEO Christopher Ahlberg."
-    publishedDateTime: 2023-05-08T00:09:00Z
-    webUrl: "https://www.zdnet.com/article/chatgpt-and-the-new-ai-are-wreaking-havoc-on-cybersecurity/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/chatgpt-and-the-new-ai-are-wreaking-havoc-on-cybersecurity/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/chatgpt-and-the-new-ai-are-wreaking-havoc-on-cybersecurity/"
+  - title: "VentureBeat Q&A: How Airgap CEO Ritesh Agrawal created an innovative cybersecurity startup"
+    excerpt: "CEO and cofounder of cybersecurity startup Airgap Networks talks innovation, zero trust, OT threats, and Airgap's new AI-assisted ThreatGPT."
+    publishedDateTime: 2023-05-09T18:02:00Z
+    webUrl: "https://venturebeat.com/security/venturebeat-qa-how-airgap-ceo-ritesh-agrawal-created-an-innovative-cybersecurity-startup/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 77
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/0f069f7582c82f625117f92909ccd4f7bb840cdf/2023/05/07/0c2625f3-8f61-483b-8cbb-b39dfadd09fe/alhberg-recorded-future.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "ChatGPT and Generative AI Around the World: Maturity, Opportunities, and Hurdles in Key Regions"
-    excerpt: "ChatGPT has received a lot of press since its November 2022 launch. But while interest in the tool is high, its use is not yet universal."
-    publishedDateTime: 2023-05-09T17:00:00Z
-    webUrl: "https://www.businessinsider.com/generative-ai-around-the-world-maturity-opportunities-key-hurdles-2023-may"
-    ampWebUrl: "https://www.businessinsider.com/generative-ai-around-the-world-maturity-opportunities-key-hurdles-2023-may?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/generative-ai-around-the-world-maturity-opportunities-key-hurdles-2023-may?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 75
-    images:
-      - url: "https://i.insider.com/6441b16a3f6f690018debe44?width=1200&format=jpeg"
-        width: 1200
-        height: 900
-        isCached: true
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 37
 
 secured: "2Lkhl+heS1SiGoEPzbv6FpiCuaml2yBW8fE/+8oRpqxoFdSAGFayyFAg2tKiN38em0yYODQaI33zNu2YoLOojUELzM1KOsq4W43STwtjt89wHVBz1ZJH6sAvWMatqlvqZM9K7YJE3CV6VtrsKcbMNZHLxgE/QU3RNVTCoM605FS/YgxJkERAlNNr01aEl+EpksAbM7+6/ZxxN/u1UdsMjIu2fE4+3rZ86gUIR5pfLvArFzf7NjrIxVkJlHDBbzAYzano82tttTtujkQu13i780uPoTayWV/yCpQ/VCUPusFYQWLq6cKmWAK27x+eB8uogtwj8GSor80kjSpxPq881tQng0ZKm83tUKLD2KbV3iM=;bjIgdX/Z2Zbfc4kntQcgWQ=="
 ---

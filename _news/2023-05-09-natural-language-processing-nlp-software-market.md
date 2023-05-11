@@ -37,6 +37,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Cloud Natural Language Processing Market Growth 2023-2030"
+    excerpt: "May 09, 2023 (The Expresswire) -- \"Cloud Natural Language Processing Market\" Insights 2023 By Types ( Rulebased Natural Language Processing,"
+    publishedDateTime: 2023-05-09T21:33:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cloud-natural-language-processing-market-growth-2023-2030-2023-05-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Natural Language Processing (NLP) Software Market to Deliver Greater Revenues during the Forecast Period until 2030 By MRI"
     excerpt: "Download Full PDF Sample Copy of Natural Language Processing (NLP) Software Report @  Competition is an important issue in any market research analysis. With the help of the competitive analysis provided in the report,"
     publishedDateTime: 2023-05-08T04:01:00Z

@@ -49,20 +49,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Startup from Reid Hoffman and DeepMind co-founder debuts chatbot"
-    excerpt: "Pi was built to be a supportive 'neutral listener' that asks follow-up questions to keep a conversation flowing."
-    publishedDateTime: 2023-05-06T22:00:00Z
-    webUrl: "https://www.moneyweb.co.za/news/ai/startup-from-reid-hoffman-and-deepmind-co-founder-debuts-chatbot/"
-    type: article
-    provider:
-      name: Moneyweb
-      domain: moneyweb.co.za
-    quality: 39
-    images:
-      - url: "https://www.moneyweb.co.za/wp-content/uploads/2023/05/397933961-1024x682.jpg"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "AI will create ‘a serious number of losers’, DeepMind co-founder warns"
     excerpt: "Advances in artificial intelligence will threaten white-collar workers and create “a serious number of losers” over the next decade, according to one of the co-founders of AI lab DeepMind who has pioneered the technology."
     publishedDateTime: 2023-05-09T21:05:00Z

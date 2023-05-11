@@ -63,6 +63,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 34
+  - title: "Boston’s Leading AI Image Analytics Startup Named to Leading 100 List of 2023"
+    excerpt: "The Lead has announced The Leading 100 of 2023, the highly anticipated annual research list recognizing the innovative tech startups driving the future of brand-to-consumer, … Continue Reading →"
+    publishedDateTime: 2023-05-11T13:10:00Z
+    webUrl: "https://multichannelmerchant.com/press-releases/bostons-leading-ai-image-analytics-startup-named-to-leading-100-list-of-2023/"
+    type: article
+    provider:
+      name: Multichannel Merchant
+      domain: multichannelmerchant.com
+    quality: 14
 
 secured: "3FmdNfzq4XKJuPdlVU/IyDDZiVMyvtbGce1fuR/himDz0vD1aykHA/ozIAHl+IOv7EITgHpjL0ESLGAFf59gERNdYSzQi4UlPQ4MLrrL8soZIYJoFrlkXRrajUeSiTtAAT1NhInz24sUcRz4CZYQBSJujbIWOaGAJUxxzfqveog4O8Xo6eCy2pYWO4mJFZE6ta4AxNpiQ3LZX5ph8pt5qnPN+TLzNYb+9MkGrl1Vj/E9hV3lXvl3J8fZuYT0gXuHsbFhS8rhaKeCeuWSjDmTqrwwBir1QeYcsKh7DM+6RWD9SRPnlhhSxrmuQs7Cn47fz7hqXUaiwZSq5NRgHdJ9093FMBMPgyd88DmVMGqGGJ0fIgk3OonMHB8gZYWkE/0gBVEpc1Z18+vSSS+lNcOgIruLrcA/JejZfh16wVuzwJgtJ1mGMxuZc21D3XzfovtxiBs3q5B1t48Ii8sdzCIvzlLov75vyzXTbxe9YL8W7NCKIroZG9DQn5ZKTW31E5xqYZ6VLo77/sdgkki1/H4O8g==;EBkuKaD7GwHCL1XxY3rqWQ=="
 ---

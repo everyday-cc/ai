@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "BV Education Assoc. petitions directors for official recognition"
+    excerpt: "The meeting room was full, with nearly two dozen district employees wearing red “Stronger Together” shirts in support of the petition."
+    publishedDateTime: 2023-05-10T20:30:00Z
+    webUrl: "https://www.chaffeecountytimes.com/free_content/bv-education-assoc-petitions-directors-for-official-recognition/article_70a6ab88-ef71-11ed-809c-e38820138822.html"
+    type: article
+    provider:
+      name: The Chaffee County Times
+      domain: chaffeecountytimes.com
+    quality: 41
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/chaffeecountytimes.com/content/tncms/assets/v3/editorial/d/2e/d2e40822-ef71-11ed-80d3-d7ba29657cbb/645bff9407d48.image.jpg?crop=985%2C517%2C107%2C0&resize=985%2C517&order=crop%2Cresize"
+        width: 985
+        height: 517
+        isCached: true
   - title: "Recognizing the risks: Go slow on facial recognition"
     excerpt: "The City Council is poised to pass a bill that would generally prohibit public accommodations like, hypothetically, large sports arenas and music halls owned by a gruff billionaire from utilizing biometric technologies like facial recognition to “verify or identify a customer,"
     publishedDateTime: 2023-05-07T08:05:00Z

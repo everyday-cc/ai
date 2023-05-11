@@ -39,15 +39,6 @@ related:
         width: 1000
         height: 600
         isCached: true
-  - title: "ChatGPT May Have a Big Role in Healthcare"
-    excerpt: "If the results of a recent study are any indication, ChatGPT may soon be professionally responding to patients’ written health-related questions. Virtual healthcare drastically expanded during t"
-    publishedDateTime: 2023-05-09T05:00:00Z
-    webUrl: "https://www.realclearscience.com/articles/2023/05/09/chatgpt_may_have_a_big_role_in_healthcare_898337.html"
-    type: article
-    provider:
-      name: RealClearScience
-      domain: realclearscience.com
-    quality: 19
 
 secured: "xpYp9CAA9TGlr6b+l1OPnjQ+rCdjHeucwh94pJWVL4kxwuKrXY5TmCip8fGhUUk6gQcojHXnAMg0WNHHejQAdnOtV4j26DC82xBLDBQrVJHHxg2rrnAH7ltgB1SbIATkxLWuQopKFKmFBJQM4+AEHzCX9rCD/Eiw49YHIXXOetJ+qLr/2jNv3zQNJ0+2phvciIvc3mgPI0PbzKTMA3gSdJ0+aXGCPmcuJ6QP+9SOTTrzhuDMjFDVYCPeEAwJBv876eCjXn/Z9u9k9MaSdM68LdRL9tO3bNfMSMYfRGxjwZAYqFa7KdCsWcJ8XsAlna1Th9Dt2/4h9t1qGsQ7resMXEHsMbyLznrHwV24zdDO5PEgmMdUFFnQstRZYAHAUZIM0MCrpdPbqrTf+UYICULVfg48BIwpMFqFksGr+P2CgqLC9YI2bYH9TRTefBTGCHajaM9QwWt5sX0f2m5BEL9OkWAGpDjKYvXrFKYYk8zQrlnYLDhBCix67gL6I6ujBMJ+LgqE7+KrwlulDcf5LmNa2Q==;3xSOWrVBLYqsl++BUXt0Xw=="
 ---

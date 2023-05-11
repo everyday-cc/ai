@@ -19,6 +19,15 @@ topics:
   - AI
 
 related:
+  - title: "Carnegie Mellon Researchers Design Four-Legged Robotic System That Can Walk a Balance Beam"
+    excerpt: "A team of Robotics Institute researchers have designed a system that makes an off-the-shelf quadruped robot nimble enough to walk a narrow balance beam — a feat that is likely the first of its kind."
+    publishedDateTime: 2023-05-08T00:00:00Z
+    webUrl: "https://www.cmu.edu/news/stories/archives/2023/may/carnegie-mellon-researchers-design-four-legged-robotic-system-that-can-walk-a-balance-beam"
+    type: article
+    provider:
+      name: cmu.edu
+      domain: cmu.edu
+    quality: 9
   - title: "Carnegie Mellon University wins $20 million for creation of national AI research institute"
     excerpt: "Carnegie Mellon University has received a $20 million commitment from the U.S. National Science Foundation and other federal agencies to create one of seven new National Artificial Intelligence Research Institutes."
     publishedDateTime: 2023-05-08T18:36:00Z

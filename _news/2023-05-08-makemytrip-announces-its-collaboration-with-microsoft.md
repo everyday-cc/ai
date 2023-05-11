@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "AMP Robotics attracts investment from Microsoft’s Climate Innovation Fund"
+    excerpt: "AMP Robotics, a Denver, Colorado-based startup creating robotic systems that can automatically ... infrastructure and expanding new infrastructure based on our application of AI-powered automation,” founder and CEO Matanya Horowitz told TechCrunch ..."
+    publishedDateTime: 2023-05-11T15:29:00Z
+    webUrl: "https://techcrunch.com/2023/05/11/amp-robotics-attracts-investment-from-microsofts-climate-innovation-fund/"
+    ampWebUrl: "https://techcrunch.com/2023/05/11/amp-robotics-attracts-investment-from-microsofts-climate-innovation-fund/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/11/amp-robotics-attracts-investment-from-microsofts-climate-innovation-fund/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 120
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/01/GettyImages-172878844.jpg?w=1200"
+        width: 1200
+        height: 803
+        isCached: true
   - title: "Top 10 Google AI Products To Take On Amazon, ChatGPT And Microsoft"
     excerpt: "It was all about AI as Google I/O 2023 kicked off at Google headquarters in Mountain View, California with a keynote by CEO Sundar Pichai. Here are the top ten AI products and features to watch for from the tech giant in the coming months and how to sign up to become a tester."
     publishedDateTime: 2023-05-11T01:17:00Z
@@ -57,20 +73,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Microsoft CEO Satya Nadella on AI"
-    excerpt: "TIME talks with Microsoft CEO Satya Nadella about Copilot and company's use of AI Write to Andrew D. Johnson at andrew.johnson@time.com."
-    publishedDateTime: 2023-05-10T21:10:00Z
-    webUrl: "https://time.com/6278841/microsoft-ceo-satya-nadella-on-artificial-intelligence/"
-    type: article
-    provider:
-      name: Time
-      domain: time.com
-    quality: 84
-    images:
-      - url: "https://cdn.jwplayer.com/v2/media/N9qPsYLv/poster.jpg?width&#x3D;720"
-        width: 720
-        height: 406
-        isCached: true
   - title: "IBM takes on AWS, Google, and Microsoft with Watsonx"
     excerpt: "The generative AI platform comes with a suite of tools for tuning large language models, a data store built on lakehouse architecture, and an AI governance toolkit."
     publishedDateTime: 2023-05-10T13:14:00Z
@@ -80,6 +82,22 @@ related:
       name: InfoWorld
       domain: infoworld.com
     quality: 83
+  - title: "Microsoft ramps up A.I. game with bet on startup that helps coding novices build apps"
+    excerpt: "The deal signifies a further bid by Microsoft to ramp up its efforts in AI, which has become a key focus for the company."
+    publishedDateTime: 2023-05-10T04:25:00Z
+    webUrl: "https://www.cnbc.com/2023/05/10/microsoft-ramps-up-ai-game-with-bet-on-no-code-startup-builderai.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2023/05/10/microsoft-ramps-up-ai-game-with-bet-on-no-code-startup-builderai.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/05/10/microsoft-ramps-up-ai-game-with-bet-on-no-code-startup-builderai.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 82
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/107228149-1681932222068-IMG_9456r.jpg?v=1683699593"
+        width: 3263
+        height: 2176
+        isCached: true
   - title: "Builder.ai Collaborates With Microsoft To Democratize Software Development"
     excerpt: "The collaboration will see the two companies collaborate on creating AI powered solutions that empower businesses to develop applications and become digitally native without the need for any technical"
     publishedDateTime: 2023-05-11T07:15:00Z
@@ -94,22 +112,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "The Crucial Ways That Religion And Generative AI ChatGPT Are Crossing Fateful Faithful Paths"
-    excerpt: "Religion and generative AI such as ChatGPT are crossing paths, here's a comprehensive look at this fateful faithful intertwining, including upsides and downsides."
-    publishedDateTime: 2023-05-10T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/05/10/the-crucial-ways-that-religion-and-generative-ai-chatgpt-are-crossing-fateful-faithful-paths/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/05/10/the-crucial-ways-that-religion-and-generative-ai-chatgpt-are-crossing-fateful-faithful-paths/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/05/10/the-crucial-ways-that-religion-and-generative-ai-chatgpt-are-crossing-fateful-faithful-paths/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 80
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64591690fd83c13dff9c02fa/0x0.jpg?format=jpg&crop=3240,2160,x432,y0,safe&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Builder.ai announces collaboration with Microsoft to democratize software development"
     excerpt: "Builder.ai, the AI powered next generation composable software development platform that's so simple and accessible, allowing every individual and business to turn their ideas into software, today announced a strategic collaboration with Microsoft,"
     publishedDateTime: 2023-05-10T06:00:00Z
@@ -123,6 +125,20 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "AMP Robotics Raises Additional Series C Investment From Microsoft Climate Innovation Fund"
+    excerpt: "AMP Robotics Corp. (“AMP”), a pioneer in artificial intelligence (AI), robotics, and infrastructure for the waste and recycling industry, has received financing from Microsoft’s Climate Innovation Fund."
+    publishedDateTime: 2023-05-10T17:39:00Z
+    webUrl: "https://www.waste360.com/business/amp-robotics-raises-additional-series-c-investment-microsoft-climate-innovation-fund"
+    type: article
+    provider:
+      name: Waste360
+      domain: waste360.com
+    quality: 77
+    images:
+      - url: "https://www.waste360.com/sites/waste360.com/files/amproboticsfeat.png"
+        width: 1540
+        height: 800
         isCached: true
   - title: "Microsoft backs UK start-up in latest AI push"
     excerpt: "Microsoft splurged an undisclosed sum of equity investment in UK-based AI developer Builder.ai under a broader strategic partnership."
@@ -195,108 +211,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Microsoft reportedly rallies behind AMD to develop chips for AI workloads"
-    excerpt: "Microsoft is reported to be working with AMD to develop AI-capable chips and provide an alternative to Nvidia."
-    publishedDateTime: 2023-05-08T01:25:00Z
-    webUrl: "https://www.arnnet.com.au/article/707031/microsoft-reportedly-rallies-behind-amd-develop-chips-ai-workloads/"
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 70
-    images:
-      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/p1240491-19-100715058-orig_11.jpgautowebp8570"
-        width: 472
-        height: 315
-        isCached: true
-  - title: "Microsoft, Oracle Reportedly Discussed Sharing AI Servers Amid Global Shortage"
-    excerpt: "Miracle and Oracle appear to be preparing for a potential shortage of their own servers, and an agreement to share servers may help ease the problem."
-    publishedDateTime: 2023-05-10T05:41:00Z
-    webUrl: "https://www.ibtimes.com/microsoft-oracle-reportedly-discussed-sharing-ai-servers-amid-global-shortage-3692198"
-    ampWebUrl: "https://www.ibtimes.com/microsoft-oracle-reportedly-discussed-sharing-ai-servers-amid-global-shortage-3692198?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/microsoft-oracle-reportedly-discussed-sharing-ai-servers-amid-global-shortage-3692198?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 70
-    images:
-      - url: "https://d.ibtimes.com/en/full/4450269/illustration-shows-microsoft-azure-cloud-service-logo.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "MakeMyTrip collaborates with Microsoft to reshape the website with generative AI"
-    excerpt: "As per the company, the new in-platform tech stack will converse with the user to offer personalized travel recommendations"
-    publishedDateTime: 2023-05-08T08:53:00Z
-    webUrl: "https://www.financialexpress.com/business/brandwagon-makemytrip-collaborates-with-microsoft-to-reshape-the-website-with-generative-ai-3078753/"
-    ampWebUrl: "https://www.financialexpress.com/business/brandwagon-makemytrip-collaborates-with-microsoft-to-reshape-the-website-with-generative-ai-3078753/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/brandwagon-makemytrip-collaborates-with-microsoft-to-reshape-the-website-with-generative-ai-3078753/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 69
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/05/Untitled-design-2023-05-08T134752.691.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Pearson Outlines AI Plans After ChatGPT Share Price Jitters"
-    excerpt: "Education publisher Pearson Plc is outlining how it’s integrating artificial intelligence across its operations a week after its shares fell over fears that AI tools such as ChatGPT will undermine its business."
-    publishedDateTime: 2023-05-09T08:49:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-05-09/pearson-outlines-ai-plans-after-chatgpt-share-price-jitters"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 67
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ihlllbzYnWLY/v0/1200x800.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "No Business Plan? No Problem. ChatGPT Spawns an Investor Gold Rush in AI"
-    excerpt: "It is boom times for startups touting generative artificial intelligence technology."
-    publishedDateTime: 2023-05-08T09:00:00Z
-    webUrl: "https://www.wsj.com/articles/no-business-plan-no-problem-chatgpt-spawns-an-investor-gold-rush-in-ai-6bdbed3c"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 66
-    images:
-      - url: "https://images.wsj.net/im-776000/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Microsoft to assist novice app builders with yet another AI tool powered by Azure"
-    excerpt: "Determining how Builder.ai will operate within Microsoft Teams (opens in new tab) among the usual slew of corporate-speak within the announcement is tricky. Still, given its stanc"
-    publishedDateTime: 2023-05-10T13:51:00Z
-    webUrl: "https://www.windowscentral.com/software-apps/microsoft-to-assist-novice-app-builders-with-yet-another-ai-tool-powered-by-azure"
-    type: article
-    provider:
-      name: Windows Central
-      domain: windowscentral.com
-    quality: 66
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/E7KiskmuSSwuuxuJHEwSsD-1200-80.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Microsoft Rebuts Allegations Of AI Chip Collaboration With AMD, Should NVIDIA Worry?"
-    excerpt: "People who are supposedly knowledgeable about the situation say Microsoft and AMD have teamed up to design AI chips to rival NVIDIA's product offerings."
-    publishedDateTime: 2023-05-08T15:35:00Z
-    webUrl: "https://hothardware.com/news/microsoft-rebuts-allegations-ai-chip-collaboration-amd"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 64
-    images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/61562/content/Microsoft_Processor_Hero.jpg"
-        width: 708
-        height: 398
-        isCached: true
   - title: "Microsoft Work Trend Index: AI will work alongside employees"
     excerpt: "Artificial intelligence could enhance, not replace, jobs, Microsoft says. But AI still needs human input and emotional intelligence."
     publishedDateTime: 2023-05-09T23:50:00Z
@@ -306,21 +220,37 @@ related:
       name: TechRepublic
       domain: techrepublic.com
     quality: 64
-  - title: "MakeMyTrip collaborates with Microsoft to reshape the travel booking landscape with generative AI"
-    excerpt: "In a landmark move, MakeMyTrip has collaborated with Microsoft to make travel planning more inclusive and accessible."
-    publishedDateTime: 2023-05-09T08:01:00Z
-    webUrl: "https://www.traveldailymedia.com/makemytrip-collaborates-with-microsoft-to-reshape-the-travel-booking-landscape-with-generative-ai/"
-    ampWebUrl: "https://www.traveldailymedia.com/makemytrip-collaborates-with-microsoft-to-reshape-the-travel-booking-landscape-with-generative-ai/amp/"
-    cdnAmpWebUrl: "https://www-traveldailymedia-com.cdn.ampproject.org/c/s/www.traveldailymedia.com/makemytrip-collaborates-with-microsoft-to-reshape-the-travel-booking-landscape-with-generative-ai/amp/"
+  - title: "Palo Alto Networks unveils its cloud next-generation firewall for Microsoft Azure customers"
+    excerpt: "Cloud NGFW for Azure seamlessly integrates Palo Alto Networks AI and ML-powered security with the simplicity, scalability and global availability of Azure"
+    publishedDateTime: 2023-05-11T10:48:00Z
+    webUrl: "https://www.zawya.com/en/press-release/companies-news/palo-alto-networks-unveils-its-cloud-next-generation-firewall-for-microsoft-azure-customers-d75sdsry"
+    ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/palo-alto-networks-unveils-its-cloud-next-generation-firewall-for-microsoft-azure-customers-d75sdsry?amp=1"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/palo-alto-networks-unveils-its-cloud-next-generation-firewall-for-microsoft-azure-customers-d75sdsry?amp=1"
     type: article
     provider:
-      name: Travel Daily Media
-      domain: traveldailymedia.com
-    quality: 61
+      name: Zawya
+      domain: zawya.com
+    quality: 64
     images:
-      - url: "https://www.traveldailymedia.com/assets/2023/05/shutterstock_2130878285.jpg"
-        width: 1000
-        height: 667
+      - url: "https://static.zawya.com/view/acePublic/alias/contentid/N2JmYzQ0NDEtODJmYy00/1/oswal-jfif.jpeg?f=3%3A2"
+        width: 900
+        height: 600
+        isCached: true
+  - title: "MakeMyTrip partners with Microsoft for voice-based travel bookings in Indian languages with AI"
+    excerpt: "MakeMyTrip announced a partnership with Microsoft on Monday to bring voice-assisted booking in Indian languages using Generative AI to make travel planning easier. Read on to learn more."
+    publishedDateTime: 2023-05-09T12:43:00Z
+    webUrl: "https://www.gizbot.com/internet/news/makemytrip-partners-with-microsoft-for-voice-based-travel-bookings-in-indian-languages-with-ai-085387.html"
+    ampWebUrl: "https://www.gizbot.com/amphtml/internet/news/makemytrip-partners-with-microsoft-for-voice-based-travel-bookings-in-indian-languages-with-ai-085387.html"
+    cdnAmpWebUrl: "https://www-gizbot-com.cdn.ampproject.org/c/s/www.gizbot.com/amphtml/internet/news/makemytrip-partners-with-microsoft-for-voice-based-travel-bookings-in-indian-languages-with-ai-085387.html"
+    type: article
+    provider:
+      name: GIZBOT
+      domain: gizbot.com
+    quality: 62
+    images:
+      - url: "https://www.gizbot.com/img/1200x60x675/img/2023/05/makemytrip-and-microsoft-1683635443.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "AI in Social Media Market to Witness Growth Acceleration | Google, Facebook, Microsoft"
     excerpt: "The global AI in Social Media Market is expected to Expand at a significant CAGR of +28% during the Forecasting Period of 2023-2029. A2Z Market Research announces the release of AI in Social Media Market research report."
@@ -340,19 +270,30 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 57
-  - title: "Microsoft and AMD vs. Nvidia: new battle over AI hardware?"
-    excerpt: "AMD is getting help with the development of its AI accelerators. According to Bloomberg, Microsoft is offering support to the chip company to avoid having"
-    publishedDateTime: 2023-05-08T13:04:00Z
-    webUrl: "https://www.techzine.eu/news/infrastructure/105662/microsoft-and-amd-vs-nvidia-new-battle-over-ai-hardware/"
+  - title: "AMP Robotics Raises Additional Series C Investment From Microsoft Climate Innovation Fund"
+    excerpt: "AMP Robotics Corp. (“AMP”), a pioneer in artificial intelligence (AI), robotics, and infrastructure for the waste and recycling industry, has received financing from Microsoft’s Climate Innovation Fund."
+    publishedDateTime: 2023-05-09T13:00:00Z
+    webUrl: "https://markets.buffalonews.com/buffnews/article/bizwire-2023-5-9-amp-robotics-raises-additional-series-c-investment-from-microsoft-climate-innovation-fund"
     type: article
     provider:
-      name: techzine
-      domain: techzine.eu
-    quality: 56
+      name: The Buffalo News
+      domain: buffalonews.com
+    quality: 57
+  - title: "MakeMyTrip ties up with Microsoft for voice-assisted bookings in Indian languages"
+    excerpt: "Initially, a select group of MakeMyTrip users will have access to the voice-assisted feature in English and Hindi."
+    publishedDateTime: 2023-05-08T09:55:00Z
+    webUrl: "https://www.livemint.com/companies/news/makemytrip-ties-up-with-microsoft-for-voice-assisted-bookings-in-indian-languages-11683538682166.html"
+    ampWebUrl: "https://www.livemint.com/companies/news/makemytrip-ties-up-with-microsoft-for-voice-assisted-bookings-in-indian-languages/amp-11683538682166.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/makemytrip-ties-up-with-microsoft-for-voice-assisted-bookings-in-indian-languages/amp-11683538682166.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 54
     images:
-      - url: "https://www.techzine.eu/wp-content/uploads/2023/05/Nvidia-GPU-server.jpg"
-        width: 2560
-        height: 1440
+      - url: "https://www.livemint.com/lm-img/img/2023/05/08/600x338/2-0-484082893-makemytrip-5-0_1680774306608_1683539479338.jpg"
+        width: 600
+        height: 337
         isCached: true
   - title: "Microsoft confidence in UK less 'shaken' as it invests in AI startup"
     excerpt: "Days after slamming Britain as no country for tech businesses, Microsoft Corporation (NASDAQ:MSFT) has invested in a UK artificial intelligence"
@@ -410,116 +351,19 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "MakeMyTrip introduces Microsoft AI to make travel more inclusive, accessible"
-    excerpt: "MakeMyTrip introduces Microsoft AI to make travel more inclusive, accessible - Leading online travel company MakeMyTrip said it has collaborated with Microsoft to make travel planning"
-    publishedDateTime: 2023-05-08T11:37:00Z
-    webUrl: "https://www.siliconindia.com/news/general/makemytrip-introduces-microsoft-ai-to-make-travel-more-inclusive-accessible-nid-222799-cid-1.html"
+  - title: "MMT partners with Microsoft to offer voice assistance in Indian languages"
+    excerpt: "MakeMyTrip (MMT) has collaborated with Microsoft to make travel planning more inclusive and accessible by introducing voice assisted booking in Indian languages. The new, in-platform tech stack powered by Microsoft Azure OpenAI Service and Azure Cognitive Services,"
+    publishedDateTime: 2023-05-08T08:00:00Z
+    webUrl: "https://travelbizmonitor.com/mmt-partners-with-microsoft-to-offer-voice-assistance-in-indian-languages/"
     type: article
     provider:
-      name: SiliconIndia
-      domain: siliconindia.com
-    quality: 51
-    images:
-      - url: "https://www.siliconindia.com/news/newsimages/fW35MAc4.jpg"
-        width: 570
-        height: 367
-        isCached: true
-  - title: "SymphonyAI collaborates with Microsoft Azure AI for generative AI"
-    excerpt: "SymphonyAI, a leader in high-value enterprise AI SaaS for strategic industries, announced today a strategic collaboration with Microsoft to enhance its portfolio of vertical AI software applications using Microsoft Azure AI,"
-    publishedDateTime: 2023-05-09T18:01:00Z
-    webUrl: "https://www.finextra.com/pressarticle/96754/symphonyai-collaborates-with-microsoft-azure-ai-for-generative-ai"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 49
-  - title: "Forget ChatGPT. These Are the Best AI-Powered Apps."
-    excerpt: "Chat features built into Duolingo, Expedia and others can be more useful than ask-me-anything bots."
-    publishedDateTime: 2023-05-07T12:00:00Z
-    webUrl: "https://www.wsj.com/articles/forget-chatgpt-these-are-the-best-ai-powered-apps-d927d0bf"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 47
-  - title: "Makemytrip Collaborates With Microsoft To Reshape The Travel Booking Landscape With Generative AI"
-    excerpt: "In a landmark move, MakeMyTrip has collaborated with Microsoft to make travel planning more inclusive and accessible by intro"
-    publishedDateTime: 2023-05-08T10:37:00Z
-    webUrl: "https://menafn.com/1106196713/Makemytrip-Collaborates-With-Microsoft-To-Reshape-The-Travel-Booking-Landscape-With-Generative-AI"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 41
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?633811"
-        width: 333
-        height: 250
-        isCached: true
-  - title: "I asked ChatGPT, Bing, and Bard what worries them. Google's AI went Terminator on me"
-    excerpt: "Just to be clear: this is not science fiction. Chatbots might have some worries that might, in turn, worry us just a bit."
-    publishedDateTime: 2023-05-08T17:14:00Z
-    webUrl: "https://www.zdnet.com/article/i-asked-chatgpt-bing-and-bard-what-worries-them-googles-ai-went-terminator-on-me/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 40
-  - title: "Gartner: ChatGPT has prompted increase in AI investments"
-    excerpt: "A Gartner poll shows that 45% reported that the publicity of ChatGPT has prompted them to increase AI investments."
-    publishedDateTime: 2023-05-07T23:30:00Z
-    webUrl: "https://techwireasia.com/2023/05/gartner-chatgpt-has-prompted-increase-in-ai-investments/"
-    type: article
-    provider:
-      name: techwireasia.com
-      domain: techwireasia.com
-    quality: 39
-    images:
-      - url: "https://cdn.techwireasia.com/wp-content/uploads/2023/05/shutterstock_2261871805-897x500.jpg"
-        width: 897
-        height: 500
-        isCached: true
-  - title: "UAE: New Chatgpt AI Assistant To Help Plan Visits To Yas Island"
-    excerpt: "Visitors to Abu Dhabi's Yas Island can now get personalised guidance and information about the latest offerings through an AI assistant. Miral, the leading creator of immersive destinations and experiences based in Abu Dhabi,"
-    publishedDateTime: 2023-05-09T19:34:00Z
-    webUrl: "https://menafn.com/1106210851/UAE-New-Chatgpt-AI-Assistant-To-Help-Plan-Visits-To-Yas-Island"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 39
-    images:
-      - url: "https://menafn.com/updates/pr/2023-05/09/KT_6610bimage_story.jpg"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "It’s Not Just About ChatGPT. Other AI Technologies Are Heading to Schools"
-    excerpt: "How can schools stay on top of this rapidly changing technology? And how can educators separate hype from substance? Education Week asked four experts in technology, education, and artificial intelligence to look into their crystal balls and share their thoughts on how AI will likely change teaching and learning."
-    publishedDateTime: 2023-05-09T15:33:00Z
-    webUrl: "https://www.edweek.org/technology/its-not-just-about-chatgpt-other-ai-technologies-are-heading-to-schools/2023/05"
-    type: article
-    provider:
-      name: Education Week
-      domain: edweek.org
+      name: Travel Biz Monitor
+      domain: travelbizmonitor.com
     quality: 38
     images:
-      - url: "https://epe.brightspotcdn.com/dims4/default/9881dba/2147483647/strip/true/crop/1720x1150+0+0/resize/942x630!/quality/90/?url=https%3A%2F%2Fepe-brightspot.s3.amazonaws.com%2F41%2F85%2Fe0e49f244864a15de5d019ef2da6%2F050423-edtech-beyond-chat-gpt-fs-prothero.jpg"
-        width: 942
-        height: 630
-        isCached: true
-  - title: "Google builds on tech’s latest craze with its own AI products"
-    excerpt: "On Wednesday, at its annual conference in Mountain View, California, the company demonstrated some of what it has been working on. Google said its search engine will begin incorporating responses generated by AI at the top of query results pages and allow users to ask follow-up questions."
-    publishedDateTime: 2023-05-10T23:22:00Z
-    webUrl: "https://www.spokesman.com/stories/2023/may/10/google-builds-on-techs-latest-craze-with-its-own-a/"
-    type: article
-    provider:
-      name: The Spokesman-Review
-      domain: spokesman.com
-    quality: 37
-    images:
-      - url: "https://thumb.spokesman.com/8VjXSwonsnyg2b7tD-Z1pzB38LU=/1200x630/smart/media.spokesman.com/photos/2023/05/10/645c1c0a6d5ad.hires.jpg"
-        width: 1200
-        height: 630
+      - url: "https://travelbizmonitor.com/wp-content/uploads/2021/07/IMG-20210515-WA0036_074850-e1627021612894.jpg"
+        width: 800
+        height: 600
         isCached: true
   - title: "AWS and Microsoft partner acquires data service firm Forecast"
     excerpt: "AWS and Microsoft partner Kin+Carta has acquired data service provider Forecast Data Services with the aim of strengthening its global enterprise data and AI services. Edinburgh-based Forecast, which also has a delivery hub in Poland,"
@@ -530,15 +374,6 @@ related:
       name: CRN
       domain: channelweb.co.uk
     quality: 36
-  - title: "MakeMyTrip ties up with Microsoft for AI-backed trip bookings"
-    excerpt: "MakeMyTrip ties up with Microsoft for voice-assisted travel bookings. Microsoft Azure OpenAI Service and Azure Cognitive Services will converse with the user to offer personalised travel recommendatio"
-    publishedDateTime: 2023-05-08T13:20:00Z
-    webUrl: "https://www.thehindubusinessline.com/companies/makemytrip-ties-up-with-microsoft-for-ai-backed-trip-bookings/article66826930.ece"
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 34
   - title: "Google unveils AI-powered search engine to rival Microsoft’s Bing"
     excerpt: "Google has been scrambling to catch up with Microsoft on consumer AI products. In February, Microsoft beat its rival to the punch by unveiling an AI-driven Bing search engine using OpenAI’s GPT technology. A month later, OpenAI revealed its language model, GPT-4, which users can access through a premium version of ChatGPT and via Bing."
     publishedDateTime: 2023-05-10T18:00:00Z
@@ -548,52 +383,38 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 34
-  - title: "MakeMyTrip brings generative AI for travel bookings, ties up with Microsoft"
-    excerpt: "MakeMyTrip plans to expand the platform to other Indian languages, such as Bhojpuri and various southern dialects, in the near future"
-    publishedDateTime: 2023-05-08T12:23:00Z
-    webUrl: "https://www.business-standard.com/companies/news/makemytrip-brings-generative-ai-for-travel-bookings-ties-up-with-microsoft-123050800609_1.html"
+  - title: "Informatica Expands its Collaboration with Microsoft, Announces Planned Intelligent Data Management Cloud as a Microsoft Azure Native ISV Service"
+    excerpt: "Informatica (NYSE: INFA), an enterprise cloud data management leader, expanded its collaboration with Microsoft"
+    publishedDateTime: 2023-05-09T13:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/informatica-expands-its-collaboration-with-microsoft-announces-planned-intelligent-data-management-cloud-as-a-microsoft-azure-native-isv-service-2023-05-09"
     type: article
     provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 32
-  - title: "I asked AI bot ChatGPT to write a column on happiness. Here’s what happened next"
-    excerpt: "I had to find out for myself. So I conducted a little experiment. I asked ChatGPT to write an article for me. I submitted the prompt, “Write a 500-word column on happiness.” That’s a broad, overworked topic,"
-    publishedDateTime: 2023-05-08T21:21:00Z
-    webUrl: "https://www.aol.com/news/asked-ai-bot-chatgpt-write-180244290.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 32
-    images:
-      - url: "https://media.zenfs.com/en/aol_san_luis_obispo_tribune_mcclatchy_563/9121ec7733a744f8785aa5baaae9181f"
-        width: 1140
-        height: 759
-        isCached: true
-  - title: "Torah is the anti-ChatGPT. But we can embrace artificial intelligence without losing our soul."
-    excerpt: "I recently asked ChatGPT, the online chatbot, to write a verse in the style of the Bible about robots taking over the world."
-    publishedDateTime: 2023-05-08T17:43:00Z
-    webUrl: "https://www.jewishaz.com/opinion/torah-is-the-anti-chatgpt-but-we-can-embrace-artificial-intelligence-without-losing-our-soul/article_9fbb6fd6-edc7-11ed-91cd-2bcf69a3d42b.html"
-    type: article
-    provider:
-      name: Northern Arizona Jewish News
-      domain: jewishaz.com
+      name: MarketWatch
+      domain: marketwatch.com
     quality: 27
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/jewishaz.com/content/tncms/assets/v3/editorial/2/eb/2eb5d1d6-edc8-11ed-9209-b32e3208dd0a/645935bcdbcea.image.jpg?crop=1931%2C1014%2C0%2C29&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "In 30 secs, ChatGPT produces 643 words on India and AI; Edge manages just 143"
-    excerpt: "In the IANS New York office, we have been experimenting with chatbots and one of the tasks we set for the two as a test was to \"write a report"
-    publishedDateTime: 2023-05-08T12:55:00Z
-    webUrl: "https://glamsham.com/world/health-lifestyle/in-30-secs-chatgpt-produces-643-words-on-india-and-ai-edge-manages-just-143"
+  - title: "PwC, Microsoft and Icertis launch strategic collaboration to accelerate enterprise digital transformation with AI-powered contract intelligence"
+    excerpt: "PwC, Microsoft and Icertis today formally announced a new strategic collaboration that will provide C-suites with a powerful, innovative AI-driven approach to contract management that enables accelerated enterprise-level digital transformation."
+    publishedDateTime: 2023-05-09T09:52:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-pwc-microsoft-icertis-launch-strategic-collaboration-accelerate-enterprise-/2023/05/09/9809823.htm"
     type: article
     provider:
-      name: glamsham.com
-      domain: glamsham.com
-    quality: 16
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 18
+    images:
+      - url: "https://mma.prnewswire.com/media/371539/Icertis_Logo.jpg"
+        width: 400
+        height: 260
+        isCached: true
+  - title: "Informatica Expands its Collaboration with Microsoft, Announces Planned Intelligent Data Management Cloud as a Microsoft Azure Native ISV Service"
+    excerpt: "Informatica (NYSE: INFA), an enterprise cloud data management leader, expanded its collaboration with Microsoft with two key developments aimed at pro"
+    publishedDateTime: 2023-05-09T17:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20230509005517/en/Informatica-Expands-its-Collaboration-with-Microsoft-Announces-Planned-Intelligent-Data-Management-Cloud-as-a-Microsoft-Azure-Native-ISV-Service/"
+    type: article
+    provider:
+      name: newsroom.businesswire.com
+      domain: businesswire.com
+    quality: 0
 
 secured: "3smUWZCEpeWo9R42saXbgsTTFlbxWQltw/9cD5hHdj7WVsEF3rIKk/PJ3VesKOoxuYJZDPCeTugvCTTOljor/pC/i9Ph9Z1dzVMzEzbJGeIfLqtH9ZlX2WHU0Unk/G8Qq57F+X+Hpq1hNL02Pdvufpwaoj/uLbizsc9xe5PaDZOsm0RpEPAzqgKWqpjCd9T2Zrd/igg7/xw6RaHsLDUytKIK0cfJ/ofXSns4AUckf5xA7aDET0L4k2vgHgNd3KaFKVbR4iB7XhedMyAX7frpeT/U4L9vLPwjqj3uzHipF3865yHPxwRYjvUkeRh0bB+9AD0HppK1ahGARIHU6lzfvO4AeMUDFvZJ1g5K3wGjP5o=;+Bss3wwJoRZMDUsmfBhgzA=="
 ---

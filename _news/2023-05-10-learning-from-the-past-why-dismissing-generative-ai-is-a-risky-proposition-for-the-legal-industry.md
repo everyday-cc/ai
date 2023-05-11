@@ -33,7 +33,7 @@ related:
     provider:
       name: TMCnet
       domain: tmcnet.com
-    quality: 42
+    quality: 44
     images:
       - url: "https://mma.prnewswire.com/media/1191324/DDN_Logo.jpg"
         width: 283

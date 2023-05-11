@@ -9,7 +9,7 @@ ampWebUrl: "https://www.outlookindia.com/national/eci-to-pilot-facial-recognitio
 cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/national/eci-to-pilot-facial-recognition-technology-in-polls-iff-raises-concerns-of-surveillance-news-285131/amp"
 type: article
 quality: 65
-heat: 85
+heat: 95
 published: true
 
 provider:
@@ -57,6 +57,15 @@ related:
         width: 1200
         height: 720
         isCached: true
+  - title: "Facial Recognition Technology Could Improve Livestock Health"
+    excerpt: "Facial recognition technology isn’t limited to humans. Livestock are now getting their mugs snapped in order to help farmers monitor animal health, increase efficiency and improve traceability.  Researchers from the US to Australia are using drones to handle health assessments of cattle from the air,"
+    publishedDateTime: 2023-05-11T12:00:00Z
+    webUrl: "https://modernfarmer.com/2023/05/facial-recognition/"
+    type: article
+    provider:
+      name: Modern Farmer
+      domain: modernfarmer.com
+    quality: 19
 
 secured: "opLdJ0/UC37WrijoTYEAZVS0accaUTBSRnfE/D+S7dkeTLZmm3jZKF+b0PcJLWKvuCrRG83QQDN2U3c+knASV4+uVXWAQhB63WiOv7NlDSna7uFAAlx2u3hIx1Nv2GU082akij+F4Uolt9H9OYn1BxaI0ChnglTrKkNpHGYBh9MW6fwfEK/5jJDl93v4v732MCw3GRUVazOI/3V571R8DpEghYPThUIlpqz5WpPOfwrQ5ehjkUnvBTtYAXp+s9tZ8/g2eCRGp1GNACZWXEUrDUPJru3jUiL/GqDFf55VbZl31PO+N51q3Xc9SDKYSnjyJEPdODUSqpkuVwKiG7Ik1fXFPHTtvRLYACvHu6kSNa44ZZ2NN+zicrp6m5feIbxjZTaJvDyidDD/xAmFOSyb/SIeeQ+zR23chsBM5C8enuxZ28kcWNfk9KL5XE26x1ZFpiCQU6gx9RAQqO5oPGiJ+uf8vDT33rcwyOGT9I+hte+OZ2EHtFy6X+oqFKTSiYaVnBru7fzsZ3ClRKwDXEXk6g==;Cfn9j1V8w4/V2EYvScfvAw=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/microsoft-stock-na
 webUrl: "https://markets.businessinsider.com/news/stocks/microsoft-stock-nasdaq-msft-don-t-discount-its-early-lead-in-the-ai-race-1032303276"
 type: article
 quality: 82
-heat: 82
+heat: 92
 published: true
 
 provider:
@@ -27,6 +27,24 @@ images:
     width: 1024
     height: 348
     isCached: true
+
+related:
+  - title: "Microsoft is the stock to buy as it leads the AI arms race while Alphabet continues to play catchup with Bard, according to Wedbush"
+    excerpt: "\"We continue to strongly believe that Microsoft's game changing early investment in ChatGPT got the key head start on the AI front,\" Wedbush said."
+    publishedDateTime: 2023-05-11T14:45:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/microsoft-stock-buy-leads-ai-arms-race-chatgpt-alphabet-bard-2023-5"
+    ampWebUrl: "https://markets.businessinsider.com/news/stocks/microsoft-stock-buy-leads-ai-arms-race-chatgpt-alphabet-bard-2023-5?amp"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/news/stocks/microsoft-stock-buy-leads-ai-arms-race-chatgpt-alphabet-bard-2023-5?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 76
+    images:
+      - url: "https://i.insider.com/645cf5bf65275b0018b7fce3?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "7/EC6HBkphu/buJtx6z5BEyUYeuNWmQTTR0lN4IRDyNPon4SLQd3pcEBRR5IbdjNwEFytGFKXsljFd5TMGEMFHHijgkR6L2zTbVX6gPMe+gXGKibH31q/czR4lSwb+6Y4KCQzOcSkPRPIoDs3tKZ2ksdNgvv+haJqHw+dlomeyo7dyh1PWa2R7z2EJ9EEym2b0LDzmadfC4G9+anlVNo3wIDL7JJwB76ZYOc8YDZnERoGUnu4Il5Azl6TAxiAxiBIoEtZSxXK02D1PFG1PQtSW/34+fZeKDzDMfWefDmW1nXELLQ88pSBdjrltZzyyA/zYA0NG5Alj+JN3k42NhkhgljEdHMIRl/CUI1Y2eYgP8=;XGFPFzsMWJt1XbNnJQu/Jw=="
 ---

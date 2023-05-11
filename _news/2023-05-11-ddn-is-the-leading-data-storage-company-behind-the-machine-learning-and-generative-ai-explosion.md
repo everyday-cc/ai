@@ -6,8 +6,8 @@ publishedDateTime: 2023-05-11T10:28:00Z
 originalUrl: "https://technews.tmcnet.com/news/2023/05/11/9812285.htm"
 webUrl: "https://technews.tmcnet.com/news/2023/05/11/9812285.htm"
 type: article
-quality: 42
-heat: 42
+quality: 44
+heat: 44
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 images:
   - url: "https://mma.prnewswire.com/media/1191324/DDN_Logo.jpg"
@@ -40,6 +41,6 @@ related:
         height: 633
         isCached: true
 
-secured: "Abxr/mqEGNvWT/Mt4s21M/5a+oZRW6UQsQJVjyPwxM6KdPXjg0W40VIxoFBAykmS8rHxotRINTUM410VTGSGnGqeni7GMHgCnxClKwXszSJxvMaEVkjluHnK+4FzQ5i+MR5/0kqCUTbssWXirbLobZaB4qP6VuHh/78vkcUQ5SwT8rL1sDpHSoPixgkbjb2dQMM6NmqdVw3QMd3Zp8DNg1yEA9Jdi7g1YSqGahhbUXhTQSNTKmTTNoqHGFElEotU83LCwqG9K+NZr326Opvr6fupAOJqPmOkfQ+Swp/dNwaVCAcNWTld2X8f6JVn4EB0yCA8HulOtOBYVdoJ5V3XF8l82BhasVdxSXFffC4eljw=;MayTlA+1EF+DxDBH42LJVg=="
+secured: "R/nMrTq/3zK7ad+4BSlvGbwfgnpeulRW+u4FCQnzmsRMqeTNVfA3ZjyhU0Xxzr7TkPCvcawNfy5Nm7IlfOMPR9cpMfnwV8CjY74XHA9brJXvKWybAo77ptwg4RV2T9mG6xqBZGisCozEy6G4E31qn2IU/wU7Y/TtFl0ewr+kBygDVNUzV6+2WyXli4f/11ZO04isHcN4VjgmZ/QS4JjrDgt53lLiP72b2OH9+9RukWovvbkDBQoDPyie09jUn8lAZXTnJetgii25XCv/wUlKAKugjgIK3kplpNxU81gmvSEutSm6RaAjYmKiQaxHutSvNtpOVQheAdmmWqE4JU076nZ3zWhfNk+9u0HZuuQuZqicg7bwXkDI6TsegY0LQFGbF3idFt7fAHfCIEjCDu4J40pU0UBQjW6nh22+xM2O4ZSVkc06XsTRdzpG3tYhIn2ohHkLnaS/+wQLS5TzWfKU2u8zjSHF0kNmHfrtV7Xa2JKgm9W9ZIhmmgdFOjQ/IZgClPyKU9g3G5qemSz/U7kRyw==;itF1QtKMCDMqmWsAaflyIw=="
 ---
 

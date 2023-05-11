@@ -1,41 +1,47 @@
 ---
 category: news
-title: "Google is giving its dominant search engine an artificial-intelligence makeover"
-excerpt: "Google has disclosed plans to infuse its dominant search engine with more advanced artificial-intelligence technology"
-publishedDateTime: 2023-05-11T03:32:00Z
-originalUrl: "https://abcnews.go.com/Technology/wireStory/google-giving-dominant-search-engine-artificial-intelligence-makeover-99235255"
-webUrl: "https://abcnews.go.com/Technology/wireStory/google-giving-dominant-search-engine-artificial-intelligence-makeover-99235255"
-ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/google-giving-dominant-search-engine-artificial-intelligence-makeover-99235255"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/google-giving-dominant-search-engine-artificial-intelligence-makeover-99235255"
+title: "Google is giving its dominant search engine an artificial intelligence makeover"
+excerpt: "Google on Wednesday disclosed plans to infuse its dominant search engine with more advanced artificial-intelligence technology, a drive that’s in response to one of the biggest threats to its long-established position as the internet’s main gateway."
+publishedDateTime: 2023-05-11T01:45:00Z
+originalUrl: "https://www.nbcnews.com/tech/tech-news/google-giving-dominant-search-engine-artificial-intelligence-makeover-rcna83863"
+webUrl: "https://www.nbcnews.com/tech/tech-news/google-giving-dominant-search-engine-artificial-intelligence-makeover-rcna83863"
 type: article
-quality: 38
-heat: 38
+quality: 43
+heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: NBC News
+  domain: nbcnews.com
 
 topics:
   - AI
 
-images:
-  - url: "https://s.abcnews.com/images/US/wirestory_fd0538018df958388991772ced6e693d_16x9_992.jpg"
-    width: 992
-    height: 558
-    isCached: true
-
 related:
-  - title: "AI: Artificial or Advanced Intelligence"
-    excerpt: "What is Artificial Intelligence? And can intelligence actually be artificial? These questions have been on the minds of many for decades. With the emergence of MIT's super A.I. Watson, and the insurgence of the driver-less car, now seems apropos to seek ..."
-    publishedDateTime: 2023-05-10T01:25:00Z
-    webUrl: "https://www.avclub.com/film/reviews/ai-artificial-or-advanced-intelligence-2020"
+  - title: "Meet the New Google Search: AI-Generated Results Get Top Billing"
+    excerpt: "At I/O, Google previews the new 'Search Generative Experience,' which places AI-powered results atop traditional search results."
+    publishedDateTime: 2023-05-10T21:15:00Z
+    webUrl: "https://www.pcmag.com/news/meet-the-new-google-search-ai-generated-results-get-top-billing"
     type: article
     provider:
-      name: AV Club
-      domain: avclub.com
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 67
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/02wpEEUQXRc8sreSn73b1Q1-1.fit_lim.size_1200x630.v1683749201.jpg"
+        width: 1120
+        height: 630
+        isCached: true
+  - title: "Google is giving its dominant search engine an AI makeover"
+    excerpt: "Google on Wednesday disclosed plans to infuse its dominant search engine with more advanced artificial-intelligence technology, a drive that's in response to one of the biggest threats to its long-established position as the internet's main gateway."
+    publishedDateTime: 2023-05-11T05:41:00Z
+    webUrl: "https://lasvegassun.com/news/2023/may/10/google-is-giving-its-dominant-search-engine-an-ai/"
+    type: article
+    provider:
+      name: Las Vegas Sun
+      domain: lasvegassun.com
     quality: 17
 
-secured: "73vs73mc6jaqxrJB/QVi+JPPBlrfrT0g7A5j5S5LGDyvuFnSd2n/6AUvdpaFK8vxvfuMNCOL/4keTSdV0sZl1DmAmp18brqNjGm+2dfPAQP5tTKC901r1xg3dqJmkgshTYbqW83nDVdpsXibHkp0Bqi4SqJLDxZM/g0DCpA9YS7Lw3R1ZX0+9oVIjjcgr8Y430CyS0wcIV/zlzK/6PPyKHAysjDZr+isxg5775vgpYA3oIpD+OXmU1hRKZEEWp0I+DJbxTzc99WxOhp9rWNNdhlNxOlznp6M87695rwFMz/djY+GGq3X2fW6adVdFzIPnB9eimBaRk3Q2LpWhbyNb/VDZqG7sIPbjd/5m4k/lqw=;QSegXFkjjmAWF+BubSnqiQ=="
+secured: "4kVx0MUTsS9r/jSLERxhDxvO/dLLSdDP3XmNi6zYjfycfuh2fa616byS8OjCCEikhrEnzrqposF8kFDwqDs+7iFxdf3RlZwEx6P7jyqXJVfw9mVn5So7RoacGL4mfjqksjPZRBUvEhrqvVjh67Jhrh8D7U8dmGq7uUklQQxzo0D2tNr909b5EwYCufJDxfVbZD+5TQWJCo/CSdTfRJq+JMkTxrFLRTizieA9tLTP72uKoMHYuXMSAwrbFgGdLREOQt3ZaZ0Rmc2WQ71kiWblsmH4ZQdTJXgaaPrwVbTAsgrS0IxQDOm6XMoVnoItL1cpjClXLrLhomsMh2DSOrGEL5qhipSUzBZ5UnqEVAkq608FUoqzUOWlzJP8nmRwOj104wtc51aZpUlnYKJVzzS7S8Tn0we6WpmqdqckLs6qFcCgGUbMEQIOb6hmUXt3YKzowy+xJq+E5NXQoEAR5MEYKGkY7BR0wb35UfLQIClpS9fsyOEn9XM8Nh/TUCIJnJPy3YsAoY+rEn5N2PklwD4bHw==;HumyC1kcS01MFK0Xw3EEQg=="
 ---
 

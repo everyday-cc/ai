@@ -53,15 +53,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 64
-  - title: "AI-Based Learning Platform Market Increasing Demand, Growth Analysis and Future Outlook 2023-2029"
-    excerpt: "The AI-Based Learning Platform Market research file encompasses a radical take a look at of the present-day scenario of the worldwide market together with numerous marketplace dynamics. To formulate this file,"
-    publishedDateTime: 2023-05-09T05:47:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-based-learning-platform-market-increasing-demand-growth-analysis-and-future-outlook-2023-2029-2023-05-09"
+  - title: "Computer Vision System Market 2023 to Hit Significant Value by 2030| Research Reports World"
+    excerpt: "The Computer Vision System Market Scope and Overview Report for 2023 presents a detailed analysis of the latest trends"
+    publishedDateTime: 2023-05-11T08:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/computer-vision-system-market-2023-to-hit-significant-value-by-2030-research-reports-world-2023-05-11"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 56
+    quality: 59
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

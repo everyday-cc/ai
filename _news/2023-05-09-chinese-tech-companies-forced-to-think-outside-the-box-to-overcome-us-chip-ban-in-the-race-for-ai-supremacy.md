@@ -118,6 +118,20 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Didi to mass produce self-driving EVs in partnership with Chinese carmaker GAC"
+    excerpt: "Didi has been preparing for a comeback with autonomous driving cars, a sector favoured by the government, after a 2021 crackdown."
+    publishedDateTime: 2023-05-10T22:00:00Z
+    webUrl: "https://www.scmp.com/tech/article/3220097/didi-mass-produce-self-driving-evs-partnership-chinese-carmaker-gac"
+    type: article
+    provider:
+      name: scmp.com
+      domain: scmp.com
+    quality: 50
+    images:
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2023/05/10/94ef84a8-7065-4d3b-aed6-30868f28d524_e01db933.jpg?itok=SYbroS_M&v=1683719752"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "US sanctions force Chinese firms to strive for alternatives to AI chips: experts"
     excerpt: "The US government's intensifying chip sanctions against China have forced Chinese firms to search for alternatives to advanced chips used in cutting-edge artificial intelligence (AI) and could even offer a new opportunity for Chinese firms to take the lead in the emerging technology,"
     publishedDateTime: 2023-05-08T14:36:00Z
