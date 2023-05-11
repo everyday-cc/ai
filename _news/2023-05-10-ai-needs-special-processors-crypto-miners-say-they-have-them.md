@@ -6,6 +6,9 @@ publishedDateTime: 2023-05-10T13:09:00Z
 originalUrl: "https://news.bloomberglaw.com/business-and-practice/ai-needs-special-processors-crypto-miners-say-they-have-them"
 webUrl: "https://news.bloomberglaw.com/business-and-practice/ai-needs-special-processors-crypto-miners-say-they-have-them"
 type: article
+quality: 19
+heat: -1
+published: false
 
 provider:
   name: news.bloomberglaw
@@ -14,6 +17,38 @@ provider:
 topics:
   - AI Hardware
   - AI
+
+related:
+  - title: "AI Needs Specialized Processors. Crypto Miners Say They Have Them"
+    excerpt: "When the Ethereum blockchain moved away from using a technique for verifying transactions known as proof of work last September, crypto market demand for the specialized processors that performed these calculations disappeared virtually overnight."
+    publishedDateTime: 2023-05-10T13:42:00Z
+    webUrl: "https://www.bnnbloomberg.ca/ai-needs-specialized-processors-crypto-miners-say-they-have-them-1.1918301"
+    ampWebUrl: "https://www.bnnbloomberg.ca/ai-needs-specialized-processors-crypto-miners-say-they-have-them-1.1918301.amp.html"
+    cdnAmpWebUrl: "https://www-bnnbloomberg-ca.cdn.ampproject.org/c/s/www.bnnbloomberg.ca/ai-needs-specialized-processors-crypto-miners-say-they-have-them-1.1918301.amp.html"
+    type: article
+    provider:
+      name: bnnbloomberg
+      domain: bnnbloomberg.ca
+    quality: 59
+    images:
+      - url: "http://www.bnnbloomberg.ca/polopoly_fs/1.1918302!/fileimage/httpImage/image.png_gen/derivatives/landscape_620/image.png"
+        width: 620
+        height: 349
+        isCached: true
+  - title: "Cryptominers hope they can find a second life by turning their mining operations into AI farms"
+    excerpt: "According to Bloomberg (opens in new tab), some crypto mining companies have pivoted their business towards high-performance computing (HPC) services for customers working with AI"
+    publishedDateTime: 2023-05-11T20:53:00Z
+    webUrl: "https://www.pcgamer.com/cryptominers-hope-they-can-find-a-second-life-by-turning-their-mining-operations-into-ai-farms/"
+    type: article
+    provider:
+      name: PC Gamer
+      domain: pcgamer.com
+    quality: 27
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/NAH6bn3w8Ptdnr2wyXBZVd-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "qM0NhoHRo+crKRuxo+XVZ7U9xL513BIrOLrzT0oqu8HGNq0PCPCwCPevtsdD49/adNV9hwnhrZWV1HrsH4gnukAYxGHcA2ShYWXckw/Kl/6Z3wrhKYg/D91ilz9Wany8iEGaoKlOCMwJQzu/Pcnrvhpm0LfE5E/US/fa1zZb/W+NpjBivesBHluZinJS3LLLvYZZlM4kqkIKZcroEoSKvN1pyp022CmjyokEt2vTpT0/WjxQoa17YpACSKz4OYyxhiU7yKAijz9ZYXGCz13jgn2VdXGAeR4Y5ItLqxV/2LCPVpBKqbjcIcRVb8RXucDUOjmv6TVWPpo3tIxE8ejop2TRALi7Xwli2ZdDbhiHSLM=;xdydPn+LB0eJy2Cj7r7+xQ=="
 ---

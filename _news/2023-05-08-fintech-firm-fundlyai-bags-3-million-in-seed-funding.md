@@ -30,20 +30,6 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 38
-  - title: "GIC sees more growth in fintech after downturn"
-    excerpt: "SAN FRANCISCO - Singapore sovereign wealth fund GIC said it still sees more growth in the financial technology sector, even after a downturn that’s sent start-up valuations plummeting as investors turn away from riskier bets."
-    publishedDateTime: 2023-05-09T04:30:00Z
-    webUrl: "https://www.straitstimes.com/business/gic-sees-more-growth-in-fintech-after-downturn"
-    type: article
-    provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 24
-    images:
-      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2023/05/09/IMGGIC112113KC4_2.jpg?VersionId=gMEqlZHu5Vb7K_7IuRHKXnl.VfQvmEd4"
-        width: 860
-        height: 573
-        isCached: true
   - title: "UVeye, creator of an AI-powered vehicle inspection system, raises $100M in funding"
     excerpt: "Automated vehicle inspection systems startup UVeye Inc. said today it has closed on a $100 million funding round led by Hanaco VC. The Series D round, which also saw participation from existing investors GM Ventures,"
     publishedDateTime: 2023-05-09T13:00:00Z

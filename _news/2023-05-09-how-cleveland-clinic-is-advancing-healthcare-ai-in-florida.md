@@ -35,6 +35,15 @@ related:
         width: 912
         height: 513
         isCached: true
+  - title: "Mayo Clinic a leading investor in Davidson startup Lucem Health's $7.7M funding round"
+    excerpt: "A health-care giant was among the leading investors in Davidson-based Lucem Health's latest funding round. The health-tech startup, a provider of clinical AI technology and solutions, closed on $7.7 million in Series A funding."
+    publishedDateTime: 2023-05-11T18:47:00Z
+    webUrl: "https://www.bizjournals.com/charlotte/inno/stories/fundings/2023/05/11/lucem-health-funding-round-mayo-clinic-startups.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 0
 
 secured: "1o8bJ63ZmhdeO/aGJasDDTwkaWVWCC5wJ35FBE/J2Lv0azg1DYmFooFXJkyiIcsxEi/GUtiyEKVnrdTGd6i4aOddzMGdExA8RiKhj/PChC+ekrzVKZc0i3NhKgIIg8Wvhiuc2cbN1o8HFdk3nQt6huNwmCJuKaG4bQTEtkYLZn9n+iah/8Qp3xM4tqWR4dS4lpoqGQ638L4Cr8j7+7Nbt8oMU6/7+T0IhL5x0wzwgZCuoKTOvC5DkwDw1Y/3dhte3ci9/Iqv0QghYF0CzySiLtxM97Hv9LRAyzSMLKLQxoXI4n6VzXpX2mObhT2va/cYQIZDzx5e14zV6ayxDfwXut6eTPP3TC0jSjTt7/1Nqvc=;zjR9RJ8Y5AHzJ4Cy/f13dw=="
 ---

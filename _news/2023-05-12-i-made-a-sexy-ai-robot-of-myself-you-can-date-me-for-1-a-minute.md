@@ -6,6 +6,9 @@ publishedDateTime: 2023-05-11T18:50:00Z
 originalUrl: "https://nypost.com/2023/05/11/influencer-turns-herself-into-sexy-ai-robot-you-can-date-for-1/"
 webUrl: "https://nypost.com/2023/05/11/influencer-turns-herself-into-sexy-ai-robot-you-can-date-for-1/"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: New York Post

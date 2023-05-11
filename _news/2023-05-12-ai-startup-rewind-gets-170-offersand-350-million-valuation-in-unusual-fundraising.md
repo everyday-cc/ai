@@ -6,6 +6,9 @@ publishedDateTime: 2023-05-11T19:37:00Z
 originalUrl: "https://www.theinformation.com/articles/ai-startup-rewind-gets-170-offers-and-350-million-valuation-in-unusual-fundraising"
 webUrl: "https://www.theinformation.com/articles/ai-startup-rewind-gets-170-offers-and-350-million-valuation-in-unusual-fundraising"
 type: article
+quality: 11
+heat: 11
+published: false
 
 provider:
   name: The Information

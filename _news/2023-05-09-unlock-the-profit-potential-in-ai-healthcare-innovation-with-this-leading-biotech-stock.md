@@ -25,24 +25,80 @@ images:
     isCached: true
 
 related:
-  - title: "3 AI Stocks That Have Huge Upside Potential in 2023"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Love it or hate it, whether you see it as friend or foe, artificial"
-    publishedDateTime: 2023-05-08T19:34:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/3-high-growth-ai-stocks-with-huge-upside-potential-2023-1032303464"
+  - title: "Finovax Leads the Charge in Fintech Innovation: AI-Powered Solutions Drive Business Growth"
+    excerpt: "New York-Based Fintech Company Embraces Artificial Intelligence to Revolutionize Financial Data Products and Fuel"
+    publishedDateTime: 2023-05-09T07:57:00Z
+    webUrl: "https://www.marketwatch.com/press-release/finovax-leads-the-charge-in-fintech-innovation-ai-powered-solutions-drive-business-growth-2023-05-09"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 47
-  - title: "3 AI Stocks That Are Trading at a Massive Discount Right Now"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Investors needn’t worry that they’ve missed the boat when it comes"
-    publishedDateTime: 2023-05-11T09:59:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/3-cheap-ai-stocks-with-huge-potential-1032317059"
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 59
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "GIC sees more growth in fintech after downturn"
+    excerpt: "SAN FRANCISCO - Singapore sovereign wealth fund GIC said it still sees more growth in the financial technology sector, even after a downturn that’s sent start-up valuations plummeting as investors turn away from riskier bets."
+    publishedDateTime: 2023-05-09T04:30:00Z
+    webUrl: "https://www.straitstimes.com/business/gic-sees-more-growth-in-fintech-after-downturn"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 47
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 24
+    images:
+      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2023/05/09/IMGGIC112113KC4_2.jpg?VersionId=gMEqlZHu5Vb7K_7IuRHKXnl.VfQvmEd4"
+        width: 860
+        height: 573
+        isCached: true
+  - title: "Fintech Benchmarks 2023 – presentation"
+    excerpt: "This year the tension between new forms of digital money and who has the authority to issue it came to the fore of the Fintech Benchmarks 2023. The majority of central banks – 73% – said keeping up with regulating the use of new fintech products and services is their key challenge."
+    publishedDateTime: 2023-05-11T10:32:00Z
+    webUrl: "https://www.centralbanking.com/benchmarking/fintech/7958702/fintech-benchmarks-2023-presentation"
+    type: article
+    provider:
+      name: Central Banking
+      domain: centralbanking.com
+    quality: 24
+    images:
+      - url: "https://www.centralbanking.com/sites/default/files/styles/metatag_image_large/public/2023-05/Fintech-Benchmarks-2023-GMP-banner.jpg?h=96b01c87&itok=xTnnpaDF"
+        width: 1200
+        height: 743
+        isCached: true
+  - title: "Machine-learning innovation in RayStation: prioritizing speed, automation, efficiency"
+    excerpt: "RaySearch Laboratories and its clinical customers are leveraging advances in machine learning to reimagine the radiotherapy workflow"
+    publishedDateTime: 2023-05-11T16:11:00Z
+    webUrl: "https://physicsworld.com/a/machine-learning-innovation-in-raystation-prioritizing-speed-automation-efficiency/"
+    type: article
+    provider:
+      name: Physics World
+      domain: physicsworld.com
+    quality: 17
+    images:
+      - url: "https://physicsworld.com/wp-content/uploads/2023/05/RayStation-Deep-Learning-segmentation-models.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Finovax Leads the Charge in Fintech Innovation: AI-Powered Solutions Drive Business Growth"
+    excerpt: "Based Fintech Company Embraces Artificial Intelligence to Revolutionize Financial Data Products and Fuel Expansion New York, United States - May 8, 2023 — (NEW YORK CITY, NY) — Finovax, a trailblazing fintech"
+    publishedDateTime: 2023-05-08T14:00:00Z
+    webUrl: "https://www.asiaone.com/business/finovax-leads-charge-fintech-innovation-ai-powered-solutions-drive-business-growth"
+    type: article
+    provider:
+      name: Asia One
+      domain: asiaone.com
+    quality: 9
+  - title: "Atomic Revolutionizes Payroll System Integrations with SmartAuth, its Groundbreaking AI-Powered Authentication Engine"
+    excerpt: "Atomic, a leading provider of payroll system integrations, has unveiled SmartAuth, a new artificial intelligence-powered authentication engine. This b"
+    publishedDateTime: 2023-05-10T12:05:00Z
+    webUrl: "https://www.businesswire.com/news/home/20230510005294/en/Atomic-Revolutionizes-Payroll-System-Integrations-with-SmartAuth-its-Groundbreaking-AI-Powered-Authentication-Engine"
+    type: article
+    provider:
+      name: newsroom.businesswire.com
+      domain: businesswire.com
+    quality: 0
 
 secured: "2FJGrsif63mJRnjqlXF7MaV6a44T9EBtw+/UGOMVNZ2zZaZaEyRexWUcLNpEZ3Y9L8d9EmTH3TmwFI9QoNyrU9ZayanXRMWLd71OOL8EQYVYIR1ycjXpUak4USRryIJ9nVZPN3LDrYx8lD1rzCpUcJhD5cSLic9TcxALYFHe+oN8FSwM01tfygonkxKuELT8LuD3XKZWaRUnCfPutWNlu0xlAZDfP2gRQgBe04sdRVyvPb/dLWhzJnc7WkOxBwNz3qtdHM8RGbz4z5neEk21I9CL8vOn/qDQ6SUU8NVO+L659qwsusX6auVoOas7fszXGZHS6bvKt/7js0N0VyxkBCHRMD9rK2nlnyRvOW44an8kZIv8hoY3sqdBz+bXn23Zof/nulI8eL7xn1Z6zGMbKxj5N3ea+dPs+oBBypJ5zL72MR91G527sk98L6Mu8i0qb76NNk3O/fQaxDLDWVfmBfrgP81o+ygxG352bCO51Hc7ojAH4qhYzN3eCP3oE881hYfn/trotMGOUsrvEtmBwQ==;k0m7Dsnrte3sLSxtEGxjaQ=="
 ---

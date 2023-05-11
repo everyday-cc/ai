@@ -6,6 +6,9 @@ publishedDateTime: 2023-05-11T19:19:00Z
 originalUrl: "https://www.lupus.org/news/study-finds-four-predictive-lupus-disease-profiles-using-machine-learning"
 webUrl: "https://www.lupus.org/news/study-finds-four-predictive-lupus-disease-profiles-using-machine-learning"
 type: article
+quality: 18
+heat: 18
+published: false
 
 provider:
   name: Lupus Foundation of America

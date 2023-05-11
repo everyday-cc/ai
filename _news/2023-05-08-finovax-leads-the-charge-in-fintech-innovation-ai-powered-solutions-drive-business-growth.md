@@ -20,14 +20,47 @@ topics:
 
 related:
   - title: "Finovax Leads the Charge in Fintech Innovation: AI-Powered Solutions Drive Business Growth"
-    excerpt: "New York-Based Fintech Company Embraces Artificial Intelligence to Revolutionize Financial Data Products and Fuel Expansion New York, United"
-    publishedDateTime: 2023-05-08T20:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/finovax-leads-the-charge-in-fintech-innovation-ai-powered-solutions-drive-business-growth-1032302798"
+    excerpt: "New York-Based Fintech Company Embraces Artificial Intelligence to Revolutionize Financial Data Products and Fuel"
+    publishedDateTime: 2023-05-09T07:57:00Z
+    webUrl: "https://www.marketwatch.com/press-release/finovax-leads-the-charge-in-fintech-innovation-ai-powered-solutions-drive-business-growth-2023-05-09"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 39
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 59
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Unlock the Profit Potential in AI Healthcare Innovation with This Leading Biotech Stock"
+    excerpt: "While Nick Black handles the cryptocurrency, blockchain, and Web3 side of things, I'm going to bring you a new stock each week related to these emerging technologies, including artificial intelligence."
+    publishedDateTime: 2023-05-08T21:05:00Z
+    webUrl: "https://moneymorning.com/investing/unlock-the-profit-potential-in-ai-healthcare-innovation-with-this-leading-biotech-stock/"
+    type: article
+    provider:
+      name: Money Morning
+      domain: moneymorning.com
+    quality: 46
+    images:
+      - url: "https://moneymorning.com/wp-content/blogs.dir/1/files/2022/06/crypto-syndication.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "GIC sees more growth in fintech after downturn"
+    excerpt: "SAN FRANCISCO - Singapore sovereign wealth fund GIC said it still sees more growth in the financial technology sector, even after a downturn that’s sent start-up valuations plummeting as investors turn away from riskier bets."
+    publishedDateTime: 2023-05-09T04:30:00Z
+    webUrl: "https://www.straitstimes.com/business/gic-sees-more-growth-in-fintech-after-downturn"
+    type: article
+    provider:
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 24
+    images:
+      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2023/05/09/IMGGIC112113KC4_2.jpg?VersionId=gMEqlZHu5Vb7K_7IuRHKXnl.VfQvmEd4"
+        width: 860
+        height: 573
+        isCached: true
   - title: "Fintech Benchmarks 2023 – presentation"
     excerpt: "This year the tension between new forms of digital money and who has the authority to issue it came to the fore of the Fintech Benchmarks 2023. The majority of central banks – 73% – said keeping up with regulating the use of new fintech products and services is their key challenge."
     publishedDateTime: 2023-05-11T10:32:00Z
@@ -42,6 +75,29 @@ related:
         width: 1200
         height: 743
         isCached: true
+  - title: "Machine-learning innovation in RayStation: prioritizing speed, automation, efficiency"
+    excerpt: "RaySearch Laboratories and its clinical customers are leveraging advances in machine learning to reimagine the radiotherapy workflow"
+    publishedDateTime: 2023-05-11T16:11:00Z
+    webUrl: "https://physicsworld.com/a/machine-learning-innovation-in-raystation-prioritizing-speed-automation-efficiency/"
+    type: article
+    provider:
+      name: Physics World
+      domain: physicsworld.com
+    quality: 17
+    images:
+      - url: "https://physicsworld.com/wp-content/uploads/2023/05/RayStation-Deep-Learning-segmentation-models.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Atomic Revolutionizes Payroll System Integrations with SmartAuth, its Groundbreaking AI-Powered Authentication Engine"
+    excerpt: "Atomic, a leading provider of payroll system integrations, has unveiled SmartAuth, a new artificial intelligence-powered authentication engine. This b"
+    publishedDateTime: 2023-05-10T12:05:00Z
+    webUrl: "https://www.businesswire.com/news/home/20230510005294/en/Atomic-Revolutionizes-Payroll-System-Integrations-with-SmartAuth-its-Groundbreaking-AI-Powered-Authentication-Engine"
+    type: article
+    provider:
+      name: newsroom.businesswire.com
+      domain: businesswire.com
+    quality: 0
 
 secured: "pboj4yfp7zNNJLmiBLdyNzhnwUOgZvkOGdCwQ+eM27t0k4G9iRVxokQu5ZFmxZKCDwAGnazrlK38//DAros98Z1Olwr1VE7NW73ZC/whqtoQ7VwP6ZPyCTQ1aB7zVPOpmQSArXzR5/Ov3UUBmedpOVMt11fbGcogw9Eqno57p9gwONWIT5uOufvsSGEswyO/x+82QvoFUIZwpdD99WCfROFohM6yVgiMUCQkgDQ5CphoeyB7Rqa0uJTOEcneuiD3qHiR77N/9lszZxOR/NSdbFN85/FzOv01tgjO5DGOILif0VIEMjKIY51XMHvj0lqyZQZUu322gzJ+Vl+SG3qVPj9H/LxrjOAGGH80QshwKps=;KiLqH2cFZapc64GgZhhdOA=="
 ---

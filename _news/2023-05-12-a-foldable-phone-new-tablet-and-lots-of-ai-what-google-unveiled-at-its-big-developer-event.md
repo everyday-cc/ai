@@ -6,6 +6,9 @@ publishedDateTime: 2023-05-11T18:57:00Z
 originalUrl: "https://whdh.com/news/a-foldable-phone-new-tablet-and-lots-of-ai-what-google-unveiled-at-its-big-developer-event/"
 webUrl: "https://whdh.com/news/a-foldable-phone-new-tablet-and-lots-of-ai-what-google-unveiled-at-its-big-developer-event/"
 type: article
+quality: 8
+heat: 8
+published: false
 
 provider:
   name: WHDH

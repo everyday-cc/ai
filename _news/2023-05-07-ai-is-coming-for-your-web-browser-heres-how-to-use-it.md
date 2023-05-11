@@ -38,6 +38,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "How Gmail's New AI Feature Will Write Your Emails for You"
+    excerpt: "Gmail is adding a new feature aimed at taking the pain out of crafting boring emails. At Wednesday's Google I/O event, CEO Sundar Pichai announced Help Me Write. Powered by the company's proprietary AI, the new Google service will draft automated messages for you in Gmail, text messages and other Google apps."
+    publishedDateTime: 2023-05-11T20:55:00Z
+    webUrl: "https://www.cnet.com/tech/services-and-software/how-gmails-new-ai-feature-will-write-your-emails-for-you/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/how-gmails-new-ai-feature-will-write-your-emails-for-you/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/how-gmails-new-ai-feature-will-write-your-emails-for-you/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 87
+    images:
+      - url: "https://www.cnet.com/a/img/resize/8a26daad55df302a2217acdc25f6f0b12005ee2d/hub/2023/05/10/a8b74029-bbff-457e-a48e-7344fd0569c6/help-me-write.jpg?auto=webp&fit=crop&height=630&width=1200"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "gToGhu/omi9fdFlxggq8v9ZOEBt4k0H6nX/laOCxz2nxmrYgsQHbY27CuOmDt+1tnst0ctY/NdsQtf3Vwuu4Ch8HcJC2VVx+k11+MNBxECeFe7QMH0Fmzynsp+4B0VRleFpewjXr0DKrOCNZO/swFKo2dpHvvTcrwCm9LTHz/dzHQzOGUzo1WM8uh45sUBOX1FT4zcd+v2y4U+CtdACnQNBRIFOAsn6SdoUJMJ+HH99YPMp1EzFVjfiFaj2gxyyN36Lm6hJri/XeJoUmztHL6gcpdTTEuzvRKYJq035hc7fYW9yxRIZXGBQtiaH2YotDt4OzXoxbFsFw63GoahQgLe5u5azayT+PHmmsgZ+Hkc92w7FlvmpFDPH7YWYzMXlsLpMLj5U3C8m2KGWlnanAhbs7RSLEYt9l4KnXW7E5XxI7fd0DxxlgZklm35rld4zsjXztz1yWQwhfcKjfEV8ECkzdR7JFttM82vJNN49QfTLc0+EjUcVewjBbZZOltAHPcrteAntvunljeQbo/Ue78w==;MoqDs2I7mlUX99OEtKdKiQ=="
 ---

@@ -17,6 +17,12 @@ topics:
   - Machine Learning
   - AI in Autos
 
-secured: "w3tYKJBErDyRX2B9+JP4S8OnS5+OdIJXttM/9RU0yMi4YrwhG3fNUhYdaI//WXmvH4ZyyzKg9A8bXgl/t4pyChfjuRE0tclS62m0OA+Z1nGUCWKQlNKoIpnSc6VizlgLMWaohjgydGmJEKtVIGvVfuH1tAeRjTXvx85rVvfjA5M0MNhusGxi5zmP3FBr9Rr0qmVK8kEHI1BxIVqz4dF+3W2CHna75QtvMNAvdI7xWbD2nZME2hRhaK65CWev1KaGjyXnAYOR2JpDnvhFCyC46zrGMX4hpeTAgX9ZAULfvupULBbQKLVpJh0C4W8SfbBxFNi30RpmBKVxiPXL1C4Y/dLUSXDEBraWr7fKw3f3y78=;mpU/Eacusn5RomnqUTEXUg=="
+images:
+  - url: "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2023/05/deepracer2-1024x768-1.jpg"
+    width: 1000
+    height: 750
+    isCached: true
+
+secured: "oATNuK29R4QVaXOMcp2KZocOz4fuQ1qTliqa+Z5eZHDvTy0tSakGITrLRXEhhxKihSJjaCBoqm+8+1nvhkPJrGh3yzQNcVSkS8We0hfPQYhG+zl8QcFixJvvicRNpc6w8l4La83cIPKO/7/v/dhuBgmmjyzzdTXAJHLiV0VGrWxc2nlZv6h6cXxrajRK5oFCgqqU/6FvpAqjcqe+PGdRNPj2KgOawkxKeDq2o/wvInIhQyyo0a3fJKLSxLfJrUulBkZquDncwLiEftzhoTAs7eEpdomaBcIuG5Xj3/dWkWL+bOJyTiT3v1PwPd6PScB/omEKu+yscNjE83gwQO+hKniVXy0l1GA/ocshtxAj6Kg=;mCHMKFdc6940jVCDjOeBMA=="
 ---
 

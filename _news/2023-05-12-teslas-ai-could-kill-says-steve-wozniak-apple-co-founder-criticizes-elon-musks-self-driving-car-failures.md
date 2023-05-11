@@ -8,7 +8,7 @@ webUrl: "https://www.benzinga.com/news/23/05/32347884/teslas-ai-could-kill-says-
 ampWebUrl: "https://www.benzinga.com/amp/content/32347884"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32347884"
 type: article
-quality: 35
+quality: 37
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI in Robotics
 
 related:
   - title: "Apple co-founder says AI may make scams harder to spot"

@@ -132,6 +132,22 @@ related:
         width: 1200
         height: 633
         isCached: true
+  - title: "Google is giving its dominant search engine an artificial intelligence makeover"
+    excerpt: "Google on Wednesday disclosed plans to infuse its dominant search engine with more advanced artificial intelligence technology, a drive that’s in response to one of the biggest threats to its long-established position as the internet’s main gateway."
+    publishedDateTime: 2023-05-11T01:45:00Z
+    webUrl: "https://www.nbcnews.com/tech/tech-news/google-giving-dominant-search-engine-artificial-intelligence-makeover-rcna83863"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna83863"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna83863"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 83
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-05/230510-sundar-pichai-ew-643p-032d83.jpg"
+        width: 2500
+        height: 1546
+        isCached: true
   - title: "Zendesk AI: Leveling up with generative AI for a more intuitive and intelligent CX platform"
     excerpt: "Zendesk announced new AI capabilities including advanced CX bots, AI-powered assistance for human CX agents and intelligent triage."
     publishedDateTime: 2023-05-10T15:01:00Z
@@ -245,6 +261,20 @@ related:
         width: 1200
         height: 667
         isCached: true
+  - title: "DDN Empowers Breakthroughs in Generative AI with Unprecedented Sales Growth"
+    excerpt: "DDN, the global leader in artificial intelligence (AI) and multi-cloud data management solutions, today announced that"
+    publishedDateTime: 2023-05-11T20:06:00Z
+    webUrl: "https://www.datanami.com/this-just-in/ddn-empowers-breakthroughs-in-generative-ai-with-unprecedented-sales-growth/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 54
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2020/06/DDN-Logo-Portrait-RGB-1-300x300-1-300x300.png"
+        width: 300
+        height: 300
+        isCached: true
   - title: "Taming Generative AI with Model Governance"
     excerpt: "This story was produced by WIRED Brand Lab for PwC. WIRED is where tomorrow is realized. It is the essential source of information and ideas that make sense of a world in constant transformation. The WIRED conversation illuminates how technology is changing every aspect of our lives—from culture to business,"
     publishedDateTime: 2023-05-08T13:01:00Z
@@ -281,15 +311,6 @@ related:
       name: Wired
       domain: wired.com
     quality: 47
-  - title: "Google is giving its dominant search engine an artificial intelligence makeover"
-    excerpt: "Google on Wednesday disclosed plans to infuse its dominant search engine with more advanced artificial-intelligence technology, a drive that’s in response to one of the biggest threats to its long-established position as the internet’s main gateway."
-    publishedDateTime: 2023-05-11T01:45:00Z
-    webUrl: "https://www.nbcnews.com/tech/tech-news/google-giving-dominant-search-engine-artificial-intelligence-makeover-rcna83863"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 43
   - title: "Be careful with Artificial Intelligence"
     excerpt: "However, how do we actually use the words Artificial Intelligence? Surely we mean systems that think, not just data collect like ChatGPT, which common parlance says produces thoughtful output and is AI,"
     publishedDateTime: 2023-05-10T07:57:00Z
@@ -427,6 +448,15 @@ related:
     provider:
       name: The Financial Times
       domain: ft.com
+    quality: 17
+  - title: "Educational Psychology Meets Generative AI"
+    excerpt: "Post by Dr. Andrew J. Martin, School of Education, University of New South Wales, Australia"
+    publishedDateTime: 2023-05-11T18:35:00Z
+    webUrl: "https://www.psychologytoday.com/us/blog/psyched/202305/educational-psychology-meets-generative-ai"
+    type: article
+    provider:
+      name: Psychology Today
+      domain: psychologytoday.com
     quality: 17
 
 secured: "Lh5BPF7u/JxBWtwfCJDeQ0QOcsZzqtKxAB0zBjJ3yPjG3hhcFSIFg861EYSQH48KxOIbMsajlMVFxcM/pVNhs7On40+/q3UEJiy3Xsc+5p9jpvA76+kR5O6Mw330orxy5G/j1tdZT39H6ZzLbjRr3H84Rtz2N/jlFlc9y4VwhXS+loY52QmdMtnzBLo3g4vLPc/HhbuEirosoG4+cmMUWr0DeCtKub/g+WR2nYMpjE/3o+YlZS85wkcHGeBiMh6/vdX+7z3+3sHjRfsHxKZzctVbACA721UsPD79Nefq7aHU/9e13EW+cxqRtfE5XOgG75M2DFuy2HkFEDUC38a3KMV/km9i9fRVSoZMV8Kmz2bfyOx/AKuW5chnrvT0QqFFlTOuZCuHlQLTgQRh6OQwhlJe7Raej/LCG3cQ/hQjynIc2IanTvWNRorXNDhrzvC6z8QehGpSGtaeLHaFYdocogvd+I4j7u+Ud67Y08WAvAj37KNMzmoGmVvNBv7GcgsJz4enhxx0Q02meLXEZ0EEqw==;ojXMo8S19NPowmlgSL99ag=="

@@ -43,20 +43,15 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Tesla shouldn't call driving system Autopilot, Buttigieg says"
-    excerpt: "The system is under investigation by his department in connection with crashes that have caused at least 14 deaths."
-    publishedDateTime: 2023-05-11T17:19:00Z
-    webUrl: "https://www.detroitnews.com/story/business/autos/2023/05/11/tesla-shouldnt-call-driving-system-autopilot-buttigieg-says/70208206007/"
+  - title: "Tesla shouldn’t call driving system Autopilot, Buttigieg says"
+    excerpt: "WASHINGTON >> Tesla shouldn’t be calling its partially automated driving system Autopilot because the cars can’t drive themselves, the top U.S. transportation official says."
+    publishedDateTime: 2023-05-11T19:30:00Z
+    webUrl: "https://www.staradvertiser.com/2023/05/11/breaking-news/tesla-shouldnt-call-driving-system-autopilot-buttigieg-says/"
     type: article
     provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 39
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2023/05/11/PDTN/0291f074-522c-4708-8730-db70f7c2b0b3-AP23131507020103.jpg?auto=webp&crop=4916,2765,x0,y263&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
+      name: Honolulu Star-Advertiser
+      domain: staradvertiser.com
+    quality: 19
 
 secured: "H0JQGFtOKVf3PC1bzUBzASW/4iziJKebJiIcxh6zSzveicS2prroBqPD6rY0fuSnhe0RdW3hJfd7bERpODbs2MKx9IE183wUiy+ITiLy/WXeQACqPRjLSizZljdmGIsZdpsg/XOH1pQm3tvkn49VvD5PhVKsH+d/deCFl0Vx0rU2WUnLD8rCxkGYLAeGTwCituIPJgXxHIXrxAFHUBHoUw/Bbp88lgdIEK8YP/mWU4r4SBGUX1EirFJr49g3D5M7doHqa4y5PzPGj+zo0yLcg6mo1G6/xafcWb4LTFBY5gpfCjSuOFOb8lxl89Lo+Ij5D8ULsaWoUWTQyDfHRqohosu3SZpl/PgPA6QLEdhOFoVhWlaJIbY/S5qkFACO8fHmUcKScCqMEQSlVt9ey3mbe319PgLRKnHGFIV+LPqStZ4dZHZl3fQKz9qQwB90JvIR2DJZEc2rvm3AEPFHB5o0UzSQXMCsEjQBkT2yTlyIYBG+2JmuImUdeykATfRYioV3CKK8D/HHSXxW0Kp8iV0MfQ==;4Ys5Yj0owmhF2+CPruve+A=="
 ---

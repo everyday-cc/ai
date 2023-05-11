@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/stevensalzberg/2023/05/08/should-we-be-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevensalzberg/2023/05/08/should-we-be-worried-about-ai-i-thought-not-until-i-asked-an-ai/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "‘A race it might be impossible to stop’: how worried should we be about AI?"
-    excerpt: "Scientists are warning machine learning will soon outsmart humans – maybe it’s time for us to take note"
-    publishedDateTime: 2023-05-07T04:00:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/may/07/a-race-it-might-be-impossible-to-stop-how-worried-should-we-be-about-ai"
-    ampWebUrl: "https://amp.theguardian.com/technology/2023/may/07/a-race-it-might-be-impossible-to-stop-how-worried-should-we-be-about-ai"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/may/07/a-race-it-might-be-impossible-to-stop-how-worried-should-we-be-about-ai"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 55
-    images:
-      - url: "https://i.guim.co.uk/img/media/d5a58004d2e175efe10d9d9423f8701fe876fa02/278_0_7279_4370/master/7279.jpg?width=620&quality=85&auto=format&fit=max&s=acba5c66020ee46b97d0bdb6cfa9663f"
-        width: 620
-        height: 372
-        isCached: true
   - title: "I asked ChatGPT, Bing, and Bard what worries them. Google's AI went Terminator on me"
     excerpt: "Just to be clear: this is not science fiction. Chatbots might have some worries that might, in turn, worry us just a bit."
     publishedDateTime: 2023-05-08T17:14:00Z

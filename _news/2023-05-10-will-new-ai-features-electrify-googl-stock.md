@@ -68,7 +68,7 @@ related:
     provider:
       name: Analytics
       domain: healthitanalytics.com
-    quality: 67
+    quality: 69
     images:
       - url: "https://healthitanalytics.com/images/site/article_headers/_normal/2022-03-14-GettyImages-1033717120.jpg"
         width: 690

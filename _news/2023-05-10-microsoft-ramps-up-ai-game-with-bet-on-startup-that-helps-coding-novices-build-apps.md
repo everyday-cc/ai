@@ -63,6 +63,22 @@ related:
         width: 1200
         height: 805
         isCached: true
+  - title: "“Meaningful harm” from AI necessary before regulation, says Microsoft exec"
+    excerpt: "As lawmakers worldwide attempt to understand how to regulate rapidly advancing AI technologies, Microsoft chief economist Michael Schwarz told attendees of the World Economic Forum Growth Summit today that \"we shouldn't regulate AI until we see some meaningful harm that is actually happening,"
+    publishedDateTime: 2023-05-11T19:48:00Z
+    webUrl: "https://arstechnica.com/tech-policy/2023/05/meaningful-harm-from-ai-necessary-before-regulation-says-microsoft-exec/"
+    ampWebUrl: "https://arstechnica.com/tech-policy/2023/05/meaningful-harm-from-ai-necessary-before-regulation-says-microsoft-exec/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/tech-policy/2023/05/meaningful-harm-from-ai-necessary-before-regulation-says-microsoft-exec/amp/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 102
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/05/GettyImages-1289079656-800x450.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Microsoft’s Big AI Push Could Power Its Cloud Past AWS. Here’s Why."
     excerpt: "Bernstein analyst Mark Moerdler thinks artificial intelligence could drive huge growth at Microsoft—more than most investors expect."
     publishedDateTime: 2023-05-09T16:28:00Z
@@ -401,6 +417,20 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 34
+  - title: "KPMG LLP AND MICROSOFT ESTABLISH INDUSTRY-LEADING INITIATIVE TO SCALE GENERATIVE AI ACROSS AUDIT, TAX AND ADVISORY"
+    excerpt: "Companies co-invest to deliver generative AI solutions for Audit, Tax and Advisory U.S. clients; KPMG deploys Microsoft OpenAI capabilities across its internal platforms ; Collabo"
+    publishedDateTime: 2023-05-11T20:24:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-kpmg-llp-microsoft-establish-industry-leading-initiative-scale-/2023/05/11/9812975.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 32
+    images:
+      - url: "https://mma.prnewswire.com/media/624145/KPMG_Corporate_Finance_logo.jpg"
+        width: 400
+        height: 295
+        isCached: true
   - title: "Informatica Expands its Collaboration with Microsoft, Announces Planned Intelligent Data Management Cloud as a Microsoft Azure Native ISV Service"
     excerpt: "Informatica (NYSE: INFA), an enterprise cloud data management leader, expanded its collaboration with Microsoft"
     publishedDateTime: 2023-05-09T13:00:00Z
@@ -410,6 +440,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 27
+  - title: "Palo Alto Networks Unveils Its Cloud Next-Generation Firewall For Microsoft Azure Customers"
+    excerpt: "Cloud NGFW for Azure seamlessly integrates Palo Alto Networks AI and ML-powered security with the simplicity, scalability and global availability"
+    publishedDateTime: 2023-05-11T19:42:00Z
+    webUrl: "https://menafn.com/1106229041/Palo-Alto-Networks-Unveils-Its-Cloud-Next-Generation-Firewall-For-Microsoft-Azure-Customers"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 24
   - title: "PwC, Microsoft and Icertis launch strategic collaboration to accelerate enterprise digital transformation with AI-powered contract intelligence"
     excerpt: "PwC, Microsoft and Icertis today formally announced a new strategic collaboration that will provide C-suites with a powerful, innovative AI-driven approach to contract management that enables accelerated enterprise-level digital transformation."
     publishedDateTime: 2023-05-09T09:52:00Z

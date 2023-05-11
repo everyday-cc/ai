@@ -6,7 +6,7 @@ publishedDateTime: 2023-05-11T17:30:00Z
 originalUrl: "https://healthitanalytics.com/news/cedars-sinai-launches-center-for-artificial-intelligence-research-and-education"
 webUrl: "https://healthitanalytics.com/news/cedars-sinai-launches-center-for-artificial-intelligence-research-and-education"
 type: article
-quality: 67
+quality: 69
 heat: -1
 published: false
 

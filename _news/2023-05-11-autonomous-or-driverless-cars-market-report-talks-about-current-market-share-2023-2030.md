@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/autonomous-or-driverless
 webUrl: "https://www.marketwatch.com/press-release/autonomous-or-driverless-cars-market-report-talks-about-current-market-share-2023-2030-2023-05-11"
 type: article
 quality: 61
-heat: 91
+heat: 101
 published: true
 
 provider:
@@ -75,6 +75,15 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "UK To Roll Out First Driverless Bus Service"
+    excerpt: "The UK will roll out its first driverless bus network in Scotland next week with drivers on standby behind the steering wheel, ready to take control should an emergency arise."
+    publishedDateTime: 2023-05-11T19:09:00Z
+    webUrl: "https://www.barrons.com/news/uk-to-roll-out-first-driverless-bus-service-736a4108?refsec=topics_afp-news"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 19
 
 secured: "KgWZmyfuqXtt71Jt/L5RpbZ/ScummE6gMDkbWtZg+DMVHsUoB/4RQzJzbOR2zqfmaX3ExZEgH3yPnE4cDyD7/Fl3CFjxdsEpmKHadTE73g4c7uF0bYTF3eNSPnlfg/xSCIutokRe8JeHICTzbySCghVUv88F6jT9HdQIqgI17DpesUhd5QvKMb0eGpWCP1Gm5X9HbgjiJ25iQWddkeaJLlpY9LPXjcXz74SrmELm6EbJt3zHEPtDplK5qv/9tadH2+gsTJTozRpShMwrlzNxPQ7yAqIJl+eE9RxCn7HXVEDw87GKE9k+JNVqAZj+0klsAvuhcH/6lIKaonfjaaTEn7ue/CfOkeF+5BxIjHdcxOM=;lHhgMJIUcxRt2zFZWJZXCw=="
 ---

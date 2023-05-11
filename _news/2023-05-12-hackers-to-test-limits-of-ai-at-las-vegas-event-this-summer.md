@@ -9,7 +9,7 @@ ampWebUrl: "https://www.reviewjournal.com/business/conventions/hackers-to-test-l
 cdnAmpWebUrl: "https://www-reviewjournal-com.cdn.ampproject.org/c/s/www.reviewjournal.com/business/conventions/hackers-to-test-limits-of-ai-at-las-vegas-event-this-summer-2775790/amp/"
 type: article
 quality: 59
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -72,6 +72,15 @@ related:
     provider:
       name: Las Vegas Sun
       domain: lasvegassun.com
+    quality: 19
+  - title: "Mass hacking event to test AI programs coming to Las Vegas convention"
+    excerpt: "The mass hacking event is planned for this summer’s DEF CON hacker convention in Las Vegas, which is expected to draw several thousand people."
+    publishedDateTime: 2023-05-11T17:19:00Z
+    webUrl: "https://www.ktnv.com/news/mass-hacking-event-to-test-ai-programs-coming-to-las-vegas-convention"
+    type: article
+    provider:
+      name: KTNV Las Vegas
+      domain: ktnv.com
     quality: 19
 
 secured: "fT+DNCr0uMUjfXlHew6QiqS0x/aIhtvq3LP+MXNAqF7KufDYtF4aBg3l1fBT6Bj00spcHrVGspUKoieysS4vDhBi2G+TsckooZLif4fZZZphcFbnJMfgWQvl775HW6FqLdSWVcrKF32GVTw/UKxnjH2Efaq/OxYmFp5Ce/oPdRKYem4rpPeUhOWM6BruE6vq7VRoEjc2yjakD3/w2XL5f1r6SbwxZi71i118wFqtbH8vCceutf2xZu3qqulh+eIiitovj4VRfxieFuAmHsFcHY7Z333MGywePct3MwSGILKGnDlKmFxE0y/2MFmuK32suVrHueHuOX54uCTFl4+vg9Q7FJxXzA+li1T+Kd/1/Xx08aipF+QB9ejt5N03j76pjP5Dt5jVtOjZo8L3rKSN3ReK2lFfnwPLWbPM0a5XYhMhorkg1q0IAoKSHSeYvpn9PVqVZRTzFZfT2cL4E+5xdERuyeDN+vb1fJ+XykYSDieAtTBA9YMfES9kSgWvfzrBAboD5aoTlGgpHlwKemSclA==;bq1468/FaBWuawYuIlcHHw=="

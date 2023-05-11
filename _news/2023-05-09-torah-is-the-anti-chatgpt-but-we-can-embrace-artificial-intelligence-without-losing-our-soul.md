@@ -25,93 +25,64 @@ images:
     isCached: true
 
 related:
-  - title: "The Crucial Ways That Religion And Generative AI ChatGPT Are Crossing Fateful Faithful Paths"
-    excerpt: "Religion and generative AI such as ChatGPT are crossing paths, here's a comprehensive look at this fateful faithful intertwining, including upsides and downsides."
-    publishedDateTime: 2023-05-10T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/05/10/the-crucial-ways-that-religion-and-generative-ai-chatgpt-are-crossing-fateful-faithful-paths/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/05/10/the-crucial-ways-that-religion-and-generative-ai-chatgpt-are-crossing-fateful-faithful-paths/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/05/10/the-crucial-ways-that-religion-and-generative-ai-chatgpt-are-crossing-fateful-faithful-paths/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 80
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64591690fd83c13dff9c02fa/0x0.jpg?format=jpg&crop=3240,2160,x432,y0,safe&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "ChatGPT and the new AI are wreaking havoc on cybersecurity in exciting and frightening ways"
-    excerpt: "Unrestrained by ethics or law, cybercriminals are racing to use AI to find innovative new hacks, says Recorded Future CEO Christopher Ahlberg."
-    publishedDateTime: 2023-05-08T00:09:00Z
-    webUrl: "https://www.zdnet.com/article/chatgpt-and-the-new-ai-are-wreaking-havoc-on-cybersecurity/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/chatgpt-and-the-new-ai-are-wreaking-havoc-on-cybersecurity/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/chatgpt-and-the-new-ai-are-wreaking-havoc-on-cybersecurity/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 77
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/0f069f7582c82f625117f92909ccd4f7bb840cdf/2023/05/07/0c2625f3-8f61-483b-8cbb-b39dfadd09fe/alhberg-recorded-future.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Here is how Europe is pushing to regulate artificial intelligence as ChatGPT rapidly emerges"
-    excerpt: "The European Union voted to strengthen regulations around artificial intelligence. Here is a look into how chatbots such as ChatGPT could be regulated in the continent."
-    publishedDateTime: 2023-05-11T13:51:00Z
-    webUrl: "https://www.foxnews.com/world/europe-pushing-regulate-artificial-intelligence-chatgpt-rapidly-emerges"
-    ampWebUrl: "https://www.foxnews.com/world/europe-pushing-regulate-artificial-intelligence-chatgpt-rapidly-emerges.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/world/europe-pushing-regulate-artificial-intelligence-chatgpt-rapidly-emerges.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 76
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/937be039-5093-4a38-8920-5ec96c812149/b1154edd-fccf-4619-a5be-9436eb80ad9d/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "ChatGPT and Generative AI Around the World: Maturity, Opportunities, and Hurdles in Key Regions"
-    excerpt: "ChatGPT has received a lot of press since its November 2022 launch. But while interest in the tool is high, its use is not yet universal."
-    publishedDateTime: 2023-05-09T17:00:00Z
-    webUrl: "https://www.businessinsider.com/generative-ai-around-the-world-maturity-opportunities-key-hurdles-2023-may"
-    ampWebUrl: "https://www.businessinsider.com/generative-ai-around-the-world-maturity-opportunities-key-hurdles-2023-may?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/generative-ai-around-the-world-maturity-opportunities-key-hurdles-2023-may?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 75
-    images:
-      - url: "https://i.insider.com/6441b16a3f6f690018debe44?width=1200&format=jpeg"
-        width: 1200
-        height: 900
-        isCached: true
-  - title: "Pearson Outlines AI Plans After ChatGPT Share Price Jitters"
-    excerpt: "Education publisher Pearson Plc is outlining how it’s integrating artificial intelligence across its operations a week after its shares fell over fears that AI tools such as ChatGPT will undermine its business."
-    publishedDateTime: 2023-05-09T08:49:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-05-09/pearson-outlines-ai-plans-after-chatgpt-share-price-jitters"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 67
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ihlllbzYnWLY/v0/1200x800.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Forget ChatGPT. These Are the Best AI-Powered Apps."
-    excerpt: "Chat features built into Duolingo, Expedia and others can be more useful than ask-me-anything bots."
-    publishedDateTime: 2023-05-07T12:00:00Z
-    webUrl: "https://www.wsj.com/articles/forget-chatgpt-these-are-the-best-ai-powered-apps-d927d0bf"
+  - title: "No Business Plan? No Problem. ChatGPT Spawns an Investor Gold Rush in AI"
+    excerpt: "It is boom times for startups touting generative artificial intelligence technology."
+    publishedDateTime: 2023-05-08T09:00:00Z
+    webUrl: "https://www.wsj.com/articles/no-business-plan-no-problem-chatgpt-spawns-an-investor-gold-rush-in-ai-6bdbed3c"
     type: article
     provider:
       name: Wall Street Journal
       domain: wsj.com
-    quality: 47
+    quality: 66
+    images:
+      - url: "https://images.wsj.net/im-776000/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "UAE: New ChatGPT ‘Yas Island AI Assistant’ to help plan visits"
+    excerpt: "Visitors to Abu Dhabi’s Yas Island can now get personalised guidance and information about the latest offerings through an AI"
+    publishedDateTime: 2023-05-09T11:36:00Z
+    webUrl: "https://www.khaleejtimes.com/travel/uae-new-chatgpt-yas-island-ai-assistant-to-help-plan-visits"
+    ampWebUrl: "https://www.khaleejtimes.com/travel/uae-new-chatgpt-yas-island-ai-assistant-to-help-plan-visits?amp=1"
+    cdnAmpWebUrl: "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/travel/uae-new-chatgpt-yas-island-ai-assistant-to-help-plan-visits?amp=1"
+    type: article
+    provider:
+      name: Khaleej Times
+      domain: khaleejtimes.com
+    quality: 59
+    images:
+      - url: "https://image.khaleejtimes.com?uuid=67864b60-5b67-5005-aed2-dd02f8f8b6c7&function=cropresize&type=preview&source=false&q=75&crop_w=0.58233&crop_h=0.99999&x=0.20884&y=0&width=1200&height=675"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "How AI robots can affect Filipino domestic workers worldwide amid ChatGPT concerns"
+    excerpt: "The discussion of artificial intelligence and robots taking over human jobs has reached another point following a recent study revolving around unpaid domestic help."
+    publishedDateTime: 2023-05-09T07:30:00Z
+    webUrl: "https://www.philstar.com/lifestyle/on-the-radar/2023/05/09/2264997/how-ai-robots-can-affect-filipino-domestic-workers-worldwide-amid-chatgpt-concerns"
+    type: article
+    provider:
+      name: philstar.com
+      domain: philstar.com
+    quality: 48
+    images:
+      - url: "https://media.philstar.com/photos/2023/05/09/ofw2019-11-0921-24-08_2023-05-09_13-35-26.jpg"
+        width: 800
+        height: 494
+        isCached: true
+  - title: "Gartner: ChatGPT has prompted increase in AI investments"
+    excerpt: "A Gartner poll shows that 45% reported that the publicity of ChatGPT has prompted them to increase AI investments."
+    publishedDateTime: 2023-05-07T23:30:00Z
+    webUrl: "https://techwireasia.com/2023/05/gartner-chatgpt-has-prompted-increase-in-ai-investments/"
+    type: article
+    provider:
+      name: techwireasia.com
+      domain: techwireasia.com
+    quality: 39
+    images:
+      - url: "https://cdn.techwireasia.com/wp-content/uploads/2023/05/shutterstock_2261871805-897x500.jpg"
+        width: 897
+        height: 500
+        isCached: true
   - title: "UAE: New Chatgpt AI Assistant To Help Plan Visits To Yas Island"
     excerpt: "Visitors to Abu Dhabi's Yas Island can now get personalised guidance and information about the latest offerings through an AI assistant. Miral, the leading creator of immersive destinations and experiences based in Abu Dhabi,"
     publishedDateTime: 2023-05-09T19:34:00Z
@@ -126,57 +97,24 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "It’s Not Just About ChatGPT. Other AI Technologies Are Heading to Schools"
-    excerpt: "How can schools stay on top of this rapidly changing technology? And how can educators separate hype from substance? Education Week asked four experts in technology, education, and artificial intelligence to look into their crystal balls and share their thoughts on how AI will likely change teaching and learning."
-    publishedDateTime: 2023-05-09T15:33:00Z
-    webUrl: "https://www.edweek.org/technology/its-not-just-about-chatgpt-other-ai-technologies-are-heading-to-schools/2023/05"
+  - title: "ChatGPT Fever Has Investors Pouring Billions Into AI Startups, No Business Plan Required"
+    excerpt: "It is boom times for startups touting generative artificial intelligence technology."
+    publishedDateTime: 2023-05-09T11:51:00Z
+    webUrl: "https://www.wsj.com/articles/no-business-plan-no-problem-chatgpt-spawns-an-investor-gold-rush-in-ai-6bdbed3c"
     type: article
     provider:
-      name: Education Week
-      domain: edweek.org
+      name: Wall Street Journal
+      domain: wsj.com
     quality: 38
-    images:
-      - url: "https://epe.brightspotcdn.com/dims4/default/9881dba/2147483647/strip/true/crop/1720x1150+0+0/resize/942x630!/quality/90/?url=https%3A%2F%2Fepe-brightspot.s3.amazonaws.com%2F41%2F85%2Fe0e49f244864a15de5d019ef2da6%2F050423-edtech-beyond-chat-gpt-fs-prothero.jpg"
-        width: 942
-        height: 630
-        isCached: true
-  - title: "I asked AI bot ChatGPT to write a column on happiness. Here’s what happened next"
-    excerpt: "I had to find out for myself. So I conducted a little experiment. I asked ChatGPT to write an article for me. I submitted the prompt, “Write a 500-word column on happiness.” That’s a broad, overworked topic,"
-    publishedDateTime: 2023-05-08T21:21:00Z
-    webUrl: "https://www.aol.com/news/asked-ai-bot-chatgpt-write-180244290.html"
+  - title: "In 30 secs, ChatGPT produces 643 words on India and AI; Edge manages just 143"
+    excerpt: "In the IANS New York office, we have been experimenting with chatbots and one of the tasks we set for the two as a test was to \"write a report"
+    publishedDateTime: 2023-05-08T12:55:00Z
+    webUrl: "https://glamsham.com/world/health-lifestyle/in-30-secs-chatgpt-produces-643-words-on-india-and-ai-edge-manages-just-143"
     type: article
     provider:
-      name: AOL
-      domain: aol.com
-    quality: 32
-    images:
-      - url: "https://media.zenfs.com/en/aol_san_luis_obispo_tribune_mcclatchy_563/9121ec7733a744f8785aa5baaae9181f"
-        width: 1140
-        height: 759
-        isCached: true
-  - title: "How To Write Code With ChatGPT"
-    excerpt: "According to Botpress, OpenAI built ChatGPT using three core programming languages: Python, PyTorch, and TensorFlow. Also, it used other languages for additional frameworks, including, Gensim, NLTK, OpenNMT-py, and spaCy. The AI program also uses libraries ..."
-    publishedDateTime: 2023-05-10T00:00:00Z
-    webUrl: "https://technology.inquirer.net/123907/how-to-write-code-with-chatgpt"
-    type: article
-    provider:
-      name: Philippine Daily Inquirer
-      domain: inquirer.net
-    quality: 24
-    images:
-      - url: "https://technology.inquirer.net/files/2023/05/ChatGPT-coding-featured-image-tryamigo.com_-620x349.png"
-        width: 620
-        height: 349
-        isCached: true
-  - title: "ChatGPT May Have a Big Role in Healthcare"
-    excerpt: "If the results of a recent study are any indication, ChatGPT may soon be professionally responding to patients’ written health-related questions. Virtual healthcare drastically expanded during t"
-    publishedDateTime: 2023-05-09T05:00:00Z
-    webUrl: "https://www.realclearscience.com/articles/2023/05/09/chatgpt_may_have_a_big_role_in_healthcare_898337.html"
-    type: article
-    provider:
-      name: RealClearScience
-      domain: realclearscience.com
-    quality: 19
+      name: glamsham.com
+      domain: glamsham.com
+    quality: 16
 
 secured: "EXjep/Zu9ZWen8fOMqM05dmkZyfKM5zHhjl8pSl83yzDC9lNBunRJEijzwW99tHurXolmjF/obh/0y66qMlS2ff8fCOpsBA/WYlhZLleE9OJf5AYnMjCx7q0ogU+Rk4WbjOgfkw69lMzJI/EIbLzyM6ur4Mg/3uG0VXrQ6aoVAgLg10LGvgbmuF3wnMbw+znzIAtzSHD1taL4c7WjD+vBR4NtKgn54tQ6Qqg0+p4CudwDrYUmrDPEKrmfv1wadaqroR44a0W8qNHfHJZolwzAUT6RtfRV2ohQ9VB5hIVqLMHRfzOx86rxx8NCwgLsxIHulywEyBNhe4tEIB8wpBMEruEDSTHM+Vfu+2TUjJ7Dyo=;0Q1MS88d+z5YExedd6YqSw=="
 ---

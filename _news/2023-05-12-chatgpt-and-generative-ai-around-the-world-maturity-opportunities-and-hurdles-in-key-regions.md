@@ -6,6 +6,9 @@ publishedDateTime: 2023-05-11T17:01:00Z
 originalUrl: "https://www.businessinsider.com/generative-ai-around-the-world-maturity-opportunities-hurdles-key-regions-2023-may"
 webUrl: "https://www.businessinsider.com/generative-ai-around-the-world-maturity-opportunities-hurdles-key-regions-2023-may"
 type: article
+quality: 35
+heat: -1
+published: false
 
 provider:
   name: Business Insider
@@ -17,6 +20,54 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "ChatGPT and the new AI are wreaking havoc on cybersecurity in exciting and frightening ways"
+    excerpt: "Unrestrained by ethics or law, cybercriminals are racing to use AI to find innovative new hacks, says Recorded Future CEO Christopher Ahlberg."
+    publishedDateTime: 2023-05-08T00:09:00Z
+    webUrl: "https://www.zdnet.com/article/chatgpt-and-the-new-ai-are-wreaking-havoc-on-cybersecurity/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/chatgpt-and-the-new-ai-are-wreaking-havoc-on-cybersecurity/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/chatgpt-and-the-new-ai-are-wreaking-havoc-on-cybersecurity/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 77
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/0f069f7582c82f625117f92909ccd4f7bb840cdf/2023/05/07/0c2625f3-8f61-483b-8cbb-b39dfadd09fe/alhberg-recorded-future.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "ChatGPT and Generative AI Around the World: Maturity, Opportunities, and Hurdles in Key Regions"
+    excerpt: "ChatGPT has received a lot of press since its November 2022 launch. But while interest in the tool is high, its use is not yet universal."
+    publishedDateTime: 2023-05-09T17:00:00Z
+    webUrl: "https://www.businessinsider.com/generative-ai-around-the-world-maturity-opportunities-key-hurdles-2023-may"
+    ampWebUrl: "https://www.businessinsider.com/generative-ai-around-the-world-maturity-opportunities-key-hurdles-2023-may?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/generative-ai-around-the-world-maturity-opportunities-key-hurdles-2023-may?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 75
+    images:
+      - url: "https://i.insider.com/6441b16a3f6f690018debe44?width=1200&format=jpeg"
+        width: 1200
+        height: 900
+        isCached: true
+  - title: "Cybersecurity faces a challenge from artificial intelligence’s rise"
+    excerpt: "Many veteran security professionals deride what they call “security by obscurity,” where targets plan on surviving hacking attempts by hiding what programs they depend on or how those programs work. Such a defense is often arrived at not by design but as a convenient justification for not replacing older, specialized software."
+    publishedDateTime: 2023-05-11T11:00:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2023/05/11/hacking-ai-cybersecurity-future/"
+    type: article
+    provider:
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 37
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/G7R756IPWQ5AV6I2OVSD6FZ65Q.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
 
 secured: "X8gACvFnwWd7l5ksiP5xoC1hKim06Nfy67guwWK3AjzqNYq8ZNylQi9U3rgQ02mJEkP9BAbMXca8oUas/gqtzWFuKSj6t1nf1exfIpQDVFv/Q5/exYnXgVnK17RkEveFaykltxTrJpiFsxY9JeMBQwYuxvZLA2Qg+0cGHouB6hVsoHgA0a8NYyIMiy26oZX3x3r0432D+xcmx6bms0T2/AEWXj0UBcq3EG56GxHp9CPvb4Twq5/44BXxC5mIKqBajJuEgzjE6JpnuhcdJh8fkQIyEE8Auu49qMZKwGK5hcEeKFEcm7KAOJRMfdiwGoaGEQbxRLhlvV8XKDN3SyhJNQXuoMAfJ5eGW8S1rLemiOLxyVtkNrvgU1h4rMMt4jBGmj9Yi91NpifD6Xpn4fyLuWO3XSii/PooQXaRlfYV1SXfWJhXTP9JNKdKsMfZMyGOe/EjOK7zlQaMmzSlqmJqUgXdD2/HQblXNdNaWVKN6dvOAdzLo0yB8X4uo7Vva+n8MycCxhkLo0GQoLa1VmGrKg==;j/1bFzJaOpGhtwa8dTPfdQ=="
 ---

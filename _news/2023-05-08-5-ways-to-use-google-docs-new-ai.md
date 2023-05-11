@@ -51,6 +51,20 @@ related:
         width: 1200
         height: 500
         isCached: true
+  - title: "Cedars-Sinai Launches Center for Artificial Intelligence Research and Education"
+    excerpt: "The center’s efforts will focus on developing new AI and machine learning algorithms for personalized medicine, genomics, and other healthcare research."
+    publishedDateTime: 2023-05-11T17:30:00Z
+    webUrl: "https://healthitanalytics.com/news/cedars-sinai-launches-center-for-artificial-intelligence-research-and-education"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 69
+    images:
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/2022-03-14-GettyImages-1033717120.jpg"
+        width: 690
+        height: 400
+        isCached: true
   - title: "Will New AI Features Electrify GOOGL Stock?"
     excerpt: "Alphabet’s (NASDAQ:GOOGL)(NASDAQ:GOOG) annual developer conference, or Google I/O, is scheduled for May 10, and news is rife in the market"
     publishedDateTime: 2023-05-10T11:16:00Z
@@ -64,20 +78,6 @@ related:
       - url: "https://blog.tipranks.com/wp-content/uploads/2023/05/GOOGL-1.jpg?utm_source=markets.businessinsider.com&utm_medium=referral"
         width: 912
         height: 306
-        isCached: true
-  - title: "Cedars-Sinai Launches Center for Artificial Intelligence Research and Education"
-    excerpt: "The center’s efforts will focus on developing new AI and machine learning algorithms for personalized medicine, genomics, and other healthcare research."
-    publishedDateTime: 2023-05-11T17:30:00Z
-    webUrl: "https://healthitanalytics.com/news/cedars-sinai-launches-center-for-artificial-intelligence-research-and-education"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 67
-    images:
-      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/2022-03-14-GettyImages-1033717120.jpg"
-        width: 690
-        height: 400
         isCached: true
   - title: "With Seed Funding Secured, AI Detection Tool GPTZero Launches New Browser Plugin"
     excerpt: "CEO Edward Tian and his team of 10 machine learning engineers wants to “preserve what’s human” by giving people the ability to discern what’s machine generated."

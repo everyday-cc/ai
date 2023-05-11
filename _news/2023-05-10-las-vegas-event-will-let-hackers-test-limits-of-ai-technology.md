@@ -72,6 +72,15 @@ related:
         width: 600
         height: 400
         isCached: true
+  - title: "Mass hacking event to test AI programs coming to Las Vegas convention"
+    excerpt: "The mass hacking event is planned for this summer’s DEF CON hacker convention in Las Vegas, which is expected to draw several thousand people."
+    publishedDateTime: 2023-05-11T17:19:00Z
+    webUrl: "https://www.ktnv.com/news/mass-hacking-event-to-test-ai-programs-coming-to-las-vegas-convention"
+    type: article
+    provider:
+      name: KTNV Las Vegas
+      domain: ktnv.com
+    quality: 19
 
 secured: "7qDY80qZqMaBg3gmpC6ubLOCI2H3dgCe5mdzXf3D8H4L7yenRrtJjb5Xd2K5D4u6gk4LFdcKEZSb8jiAZgkzq3sWWIhJGFARw68NzYOMrtY3Lezu7j9eE848zm9dYN1x+KkgGYRUlinGb8Bx1/NqKxS36C/GOZ+UYk68LSLT4Qv0uY6LuYGGu7Gn9vBLsrtVYNNzSeuFyDESCll2eizOCrmqd4hVOXsIptIe2AFnB8rQwKNdaxEmSo8D9tC079K/EMUE8RW4F/XijkcParnxp3rOb8FQTB3G+M57fAbMwy30Y16zLnE2CuG9sX67mrBpg2GnlIJRL5KOcX3YgCbnROoC/9+vXYOK/KMhkDSkJ0B79Axd3JTTOyMi59/Z/km1mBkGm7ZHv+B2BVGKdkxKf4a/+RkZP1NOPdOazaT3QknfuCu05ymZxr7IQPJZYEKmCL3JT8chMofS97PUn/1x6XL4cUrgAt33DT70UX+bOSSGib93hrePniWhRnQZh38Kqw7NdhR59T9k7YblG7V8Tg==;gKM9ayjZ4WMxwzpV2m0fIA=="
 ---

@@ -34,6 +34,15 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 47
+  - title: "Google’s top AI model, PaLM 2, hopes to upstage GPT-4 in generative mastery"
+    excerpt: "Google introduced PaLM 2, a family of foundational language models comparable to OpenAI's GPT-4. At its Google I/O event in Mountain View, Google revealed that it is already using PaLM 2 to power 25 different products,"
+    publishedDateTime: 2023-05-11T19:20:00Z
+    webUrl: "https://arstechnica.com/information-technology/2023/05/googles-top-ai-model-palm-2-hopes-to-upstage-gpt-4-in-generative-mastery/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 47
   - title: "Informatica Unveils Expanded Industry Focus and Zero Cost Data Pipelines and Transformations with AWS"
     excerpt: "Informatica, an enterprise cloud data management leader, built upon their years-long relationship with Amazon Web Services (AWS)."
     publishedDateTime: 2023-05-11T10:26:00Z

@@ -22,6 +22,22 @@ topics:
   - AI
 
 related:
+  - title: "Snapchat Star Earns $70,000 With Sexy ChatGPT AI: Here’s How She Did It"
+    excerpt: "Meet CarynAI - the answer to loneliness by an enterprising social media influencer."
+    publishedDateTime: 2023-05-11T19:58:00Z
+    webUrl: "https://www.forbes.com/sites/martineparis/2023/05/11/carynai-virtual-date-earned-70000-with-sexy-chatgpt-ai-heres-how/"
+    ampWebUrl: "https://www.forbes.com/sites/martineparis/2023/05/11/carynai-virtual-date-earned-70000-with-sexy-chatgpt-ai-heres-how/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martineparis/2023/05/11/carynai-virtual-date-earned-70000-with-sexy-chatgpt-ai-heres-how/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/645d5d77a5a034c6f9e63673/0x0.jpg?format=jpg&width=1200"
+        width: 1066
+        height: 628
+        isCached: true
   - title: "The Crucial Ways That Religion And Generative AI ChatGPT Are Crossing Fateful Faithful Paths"
     excerpt: "Religion and generative AI such as ChatGPT are crossing paths, here's a comprehensive look at this fateful faithful intertwining, including upsides and downsides."
     publishedDateTime: 2023-05-10T11:00:00Z
@@ -37,22 +53,6 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/64591690fd83c13dff9c02fa/0x0.jpg?format=jpg&crop=3240,2160,x432,y0,safe&width=1200"
         width: 1200
         height: 800
-        isCached: true
-  - title: "ChatGPT and the new AI are wreaking havoc on cybersecurity in exciting and frightening ways"
-    excerpt: "Unrestrained by ethics or law, cybercriminals are racing to use AI to find innovative new hacks, says Recorded Future CEO Christopher Ahlberg."
-    publishedDateTime: 2023-05-08T00:09:00Z
-    webUrl: "https://www.zdnet.com/article/chatgpt-and-the-new-ai-are-wreaking-havoc-on-cybersecurity/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/chatgpt-and-the-new-ai-are-wreaking-havoc-on-cybersecurity/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/chatgpt-and-the-new-ai-are-wreaking-havoc-on-cybersecurity/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 77
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/0f069f7582c82f625117f92909ccd4f7bb840cdf/2023/05/07/0c2625f3-8f61-483b-8cbb-b39dfadd09fe/alhberg-recorded-future.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Here is how Europe is pushing to regulate artificial intelligence as ChatGPT rapidly emerges"
     excerpt: "The European Union voted to strengthen regulations around artificial intelligence. Here is a look into how chatbots such as ChatGPT could be regulated in the continent."
@@ -70,22 +70,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "ChatGPT and Generative AI Around the World: Maturity, Opportunities, and Hurdles in Key Regions"
-    excerpt: "ChatGPT has received a lot of press since its November 2022 launch. But while interest in the tool is high, its use is not yet universal."
-    publishedDateTime: 2023-05-09T17:00:00Z
-    webUrl: "https://www.businessinsider.com/generative-ai-around-the-world-maturity-opportunities-key-hurdles-2023-may"
-    ampWebUrl: "https://www.businessinsider.com/generative-ai-around-the-world-maturity-opportunities-key-hurdles-2023-may?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/generative-ai-around-the-world-maturity-opportunities-key-hurdles-2023-may?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 75
-    images:
-      - url: "https://i.insider.com/6441b16a3f6f690018debe44?width=1200&format=jpeg"
-        width: 1200
-        height: 900
-        isCached: true
   - title: "Pearson Outlines AI Plans After ChatGPT Share Price Jitters"
     excerpt: "Education publisher Pearson Plc is outlining how it’s integrating artificial intelligence across its operations a week after its shares fell over fears that AI tools such as ChatGPT will undermine its business."
     publishedDateTime: 2023-05-09T08:49:00Z
@@ -99,20 +83,6 @@ related:
       - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ihlllbzYnWLY/v0/1200x800.jpg"
         width: 1200
         height: 800
-        isCached: true
-  - title: "UAE: New Chatgpt AI Assistant To Help Plan Visits To Yas Island"
-    excerpt: "Visitors to Abu Dhabi's Yas Island can now get personalised guidance and information about the latest offerings through an AI assistant. Miral, the leading creator of immersive destinations and experiences based in Abu Dhabi,"
-    publishedDateTime: 2023-05-09T19:34:00Z
-    webUrl: "https://menafn.com/1106210851/UAE-New-Chatgpt-AI-Assistant-To-Help-Plan-Visits-To-Yas-Island"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 39
-    images:
-      - url: "https://menafn.com/updates/pr/2023-05/09/KT_6610bimage_story.jpg"
-        width: 600
-        height: 337
         isCached: true
   - title: "It’s Not Just About ChatGPT. Other AI Technologies Are Heading to Schools"
     excerpt: "How can schools stay on top of this rapidly changing technology? And how can educators separate hype from substance? Education Week asked four experts in technology, education, and artificial intelligence to look into their crystal balls and share their thoughts on how AI will likely change teaching and learning."
@@ -141,20 +111,6 @@ related:
       - url: "https://media.zenfs.com/en/aol_san_luis_obispo_tribune_mcclatchy_563/9121ec7733a744f8785aa5baaae9181f"
         width: 1140
         height: 759
-        isCached: true
-  - title: "Torah is the anti-ChatGPT. But we can embrace artificial intelligence without losing our soul."
-    excerpt: "I recently asked ChatGPT, the online chatbot, to write a verse in the style of the Bible about robots taking over the world."
-    publishedDateTime: 2023-05-08T17:43:00Z
-    webUrl: "https://www.jewishaz.com/opinion/torah-is-the-anti-chatgpt-but-we-can-embrace-artificial-intelligence-without-losing-our-soul/article_9fbb6fd6-edc7-11ed-91cd-2bcf69a3d42b.html"
-    type: article
-    provider:
-      name: Northern Arizona Jewish News
-      domain: jewishaz.com
-    quality: 27
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/jewishaz.com/content/tncms/assets/v3/editorial/2/eb/2eb5d1d6-edc8-11ed-9209-b32e3208dd0a/645935bcdbcea.image.jpg?crop=1931%2C1014%2C0%2C29&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
         isCached: true
   - title: "How To Write Code With ChatGPT"
     excerpt: "According to Botpress, OpenAI built ChatGPT using three core programming languages: Python, PyTorch, and TensorFlow. Also, it used other languages for additional frameworks, including, Gensim, NLTK, OpenNMT-py, and spaCy. The AI program also uses libraries ..."

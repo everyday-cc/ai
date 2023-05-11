@@ -6,6 +6,9 @@ publishedDateTime: 2023-05-11T19:00:00Z
 originalUrl: "https://oilprice.com/Energy/Energy-General/The-Growing-Importance-Of-Robots-In-The-Oil-And-Gas-Industry.html"
 webUrl: "https://oilprice.com/Energy/Energy-General/The-Growing-Importance-Of-Robots-In-The-Oil-And-Gas-Industry.html"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Crude Oil Prices

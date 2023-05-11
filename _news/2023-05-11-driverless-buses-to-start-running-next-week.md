@@ -71,6 +71,15 @@ related:
         width: 650
         height: 400
         isCached: true
+  - title: "UK To Roll Out First Driverless Bus Service"
+    excerpt: "The UK will roll out its first driverless bus network in Scotland next week with drivers on standby behind the steering wheel, ready to take control should an emergency arise."
+    publishedDateTime: 2023-05-11T19:09:00Z
+    webUrl: "https://www.barrons.com/news/uk-to-roll-out-first-driverless-bus-service-736a4108?refsec=topics_afp-news"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 19
 
 secured: "mdBV4K7fYkLdIYJhcV2M/Uv3/IHf6SI54uJYD3fgURqOG9SSJ3ja7RXqN2Ui5c1iIvmkXk2RYpEhG+YbNBEdJlm5GfFnLShP/guCE3uZ7QmYtNU6MW1RQwLyvyC9VwZs1NntswB4XDnWPdkAqrJCHIB5YkgfH5zPijhUUQwIHGw6PGzq1Fe5xgXGy814zg/L2sbfppceAO2h53jwpxPGqRuPm0rdmYSQJY0XZgba2TGbGsY1dwTWSqb6qBabFnRvQS3tFfWF+RFZXVfDapXrnofNJAawzFc3E5uysmt9qOxehEgqbIpsZTuskMmq6rH+E32RL1lqOLIx2W1dn8nz60yE+Ua6jSGDO5MsGSproef2Wo52sQS5b+nNRk1RG2kuBOrs7/DMXVNrwVW7XOVa6z5OBYCj8cgnirfMC/vEmJsvrg7wf+3drrD/qqFJR/Bz0+GGxvwd0pW/8BHKdqV42BZtP6baHa9Dfx8i1VlPsyf5YPu6ITJHsrQENpt8xL+U9lKe2odR06jklethqtmi/w==;6W+HTdoM6e3Ofyqta+424g=="
 ---

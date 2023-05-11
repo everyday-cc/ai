@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Finovax Leads the Charge in Fintech Innovation: AI-Powered Solutions Drive Business Growth"
-excerpt: "New York-Based Fintech Company Embraces Artificial Intelligence to Revolutionize Financial Data Products and Fuel Expansion New York, United"
-publishedDateTime: 2023-05-08T20:00:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/finovax-leads-the-charge-in-fintech-innovation-ai-powered-solutions-drive-business-growth-1032302798"
-webUrl: "https://markets.businessinsider.com/news/stocks/finovax-leads-the-charge-in-fintech-innovation-ai-powered-solutions-drive-business-growth-1032302798"
+excerpt: "New York-Based Fintech Company Embraces Artificial Intelligence to Revolutionize Financial Data Products and Fuel"
+publishedDateTime: 2023-05-09T07:57:00Z
+originalUrl: "https://www.marketwatch.com/press-release/finovax-leads-the-charge-in-fintech-innovation-ai-powered-solutions-drive-business-growth-2023-05-09"
+webUrl: "https://www.marketwatch.com/press-release/finovax-leads-the-charge-in-fintech-innovation-ai-powered-solutions-drive-business-growth-2023-05-09"
 type: article
-quality: 39
-heat: 39
-published: false
+quality: 59
+heat: 119
+published: true
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
+  name: MarketWatch
+  domain: marketwatch.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -22,7 +22,41 @@ topics:
   - AI in Finance
   - AI
 
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
+
 related:
+  - title: "Unlock the Profit Potential in AI Healthcare Innovation with This Leading Biotech Stock"
+    excerpt: "While Nick Black handles the cryptocurrency, blockchain, and Web3 side of things, I'm going to bring you a new stock each week related to these emerging technologies, including artificial intelligence."
+    publishedDateTime: 2023-05-08T21:05:00Z
+    webUrl: "https://moneymorning.com/investing/unlock-the-profit-potential-in-ai-healthcare-innovation-with-this-leading-biotech-stock/"
+    type: article
+    provider:
+      name: Money Morning
+      domain: moneymorning.com
+    quality: 46
+    images:
+      - url: "https://moneymorning.com/wp-content/blogs.dir/1/files/2022/06/crypto-syndication.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "GIC sees more growth in fintech after downturn"
+    excerpt: "SAN FRANCISCO - Singapore sovereign wealth fund GIC said it still sees more growth in the financial technology sector, even after a downturn that’s sent start-up valuations plummeting as investors turn away from riskier bets."
+    publishedDateTime: 2023-05-09T04:30:00Z
+    webUrl: "https://www.straitstimes.com/business/gic-sees-more-growth-in-fintech-after-downturn"
+    type: article
+    provider:
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 24
+    images:
+      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2023/05/09/IMGGIC112113KC4_2.jpg?VersionId=gMEqlZHu5Vb7K_7IuRHKXnl.VfQvmEd4"
+        width: 860
+        height: 573
+        isCached: true
   - title: "Fintech Benchmarks 2023 – presentation"
     excerpt: "This year the tension between new forms of digital money and who has the authority to issue it came to the fore of the Fintech Benchmarks 2023. The majority of central banks – 73% – said keeping up with regulating the use of new fintech products and services is their key challenge."
     publishedDateTime: 2023-05-11T10:32:00Z
@@ -37,6 +71,20 @@ related:
         width: 1200
         height: 743
         isCached: true
+  - title: "Machine-learning innovation in RayStation: prioritizing speed, automation, efficiency"
+    excerpt: "RaySearch Laboratories and its clinical customers are leveraging advances in machine learning to reimagine the radiotherapy workflow"
+    publishedDateTime: 2023-05-11T16:11:00Z
+    webUrl: "https://physicsworld.com/a/machine-learning-innovation-in-raystation-prioritizing-speed-automation-efficiency/"
+    type: article
+    provider:
+      name: Physics World
+      domain: physicsworld.com
+    quality: 17
+    images:
+      - url: "https://physicsworld.com/wp-content/uploads/2023/05/RayStation-Deep-Learning-segmentation-models.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Finovax Leads the Charge in Fintech Innovation: AI-Powered Solutions Drive Business Growth"
     excerpt: "Based Fintech Company Embraces Artificial Intelligence to Revolutionize Financial Data Products and Fuel Expansion New York, United States - May 8, 2023 — (NEW YORK CITY, NY) — Finovax, a trailblazing fintech"
     publishedDateTime: 2023-05-08T14:00:00Z
@@ -46,7 +94,16 @@ related:
       name: Asia One
       domain: asiaone.com
     quality: 9
+  - title: "Atomic Revolutionizes Payroll System Integrations with SmartAuth, its Groundbreaking AI-Powered Authentication Engine"
+    excerpt: "Atomic, a leading provider of payroll system integrations, has unveiled SmartAuth, a new artificial intelligence-powered authentication engine. This b"
+    publishedDateTime: 2023-05-10T12:05:00Z
+    webUrl: "https://www.businesswire.com/news/home/20230510005294/en/Atomic-Revolutionizes-Payroll-System-Integrations-with-SmartAuth-its-Groundbreaking-AI-Powered-Authentication-Engine"
+    type: article
+    provider:
+      name: newsroom.businesswire.com
+      domain: businesswire.com
+    quality: 0
 
-secured: "6m7IJnvrFOtauy0KZPM1Zv60JHTMr1BFP4O8vHCDGxELrk9xg1o3W0DmArEUVetvUMM57+oddGDA3wCqwcGlYmmg2rhJt//eWKWkngyGZc0pTalvGCZO6WNFV27wQD7LbkaZUZMPjhnUFnp1DoF652Nio3KX+IG2BDQOb/ywOuHS8QP51ACzGor7WcvErB9lv9kfItsjzSyOp4FiH+m6AczBCxY1T7rPf7LgKZBlZprxsJdaUzklNN8SMOvvKrB3tGjrSD+w6uRJFsqmR9ArE8govg7NStER/QlmIU0I390DYCpgLM+WmAWSnifleoncq9fx6v9FjoFRH3BcCbdDgjYxZ4IzhduX5M4WuNzKcdc=;UpbKjkd5H0kEsh1XOyfCpw=="
+secured: "qYUqeDdgRvWPOgowSYuJFQQ5p5YDklvG3Ebt/Oy02aEo7m0nmyPpiDuUQnenz+ra6ABugHcw+W3t7IUVO6EI+9HwqHR6u9VMmdrjRYiBm76pz8Y3u4EOPJSS9k75oKGZofJu0JMILqLEivUQA4roxfdmvPHLeTXeBGPcqvJpjtYsT08oPgATrPP0DHU6i06A/X8WdZoHRBDDdGjQRY66A14xNrGV9pUKbyC9W2DikSgZHCzm1JJHa0COT8XMJ1DhL/IEQ2saLzEs86krzKMXm1hcGVEm0mJPGOo+mmJjfGPdsZYMBb1myJ3DuztNyl5wEsJgO9dpqoB3T6ianXOdaA/pOejqY5+KtmE59qxZ7dE=;CO5zjeKbHXINhrOv51nqUA=="
 ---
 

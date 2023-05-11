@@ -25,35 +25,80 @@ images:
     isCached: true
 
 related:
-  - title: "Fintech firm Fundly.ai bags $3 million in seed funding"
-    excerpt: "Mumbai-based fintech startup Fundly.ai on Sunday said it has raised $3 million in a seed funding round, led by Accel. Other investors in the round included Multiply Ventures and other angel investors."
-    publishedDateTime: 2023-05-08T07:26:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/funding/fintech-firm-fundly-ai-bags-3-million-in-seed/articleshow/100057182.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/funding/fintech-firm-fundly-ai-bags-3-million-in-seed/amp_articleshow/100057182.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/funding/fintech-firm-fundly-ai-bags-3-million-in-seed/amp_articleshow/100057182.cms"
+  - title: "Finovax Leads the Charge in Fintech Innovation: AI-Powered Solutions Drive Business Growth"
+    excerpt: "New York-Based Fintech Company Embraces Artificial Intelligence to Revolutionize Financial Data Products and Fuel"
+    publishedDateTime: 2023-05-09T07:57:00Z
+    webUrl: "https://www.marketwatch.com/press-release/finovax-leads-the-charge-in-fintech-innovation-ai-powered-solutions-drive-business-growth-2023-05-09"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 39
-  - title: "Sound Ventures has already plugged half its new $240 million AI fund into three companies"
-    excerpt: "Sound Ventures, the eight-year-old, Beverly Hills, Ca.,-based venture firm led by general partners Ashton Kutcher, Guy Oseary, and Effie Epstein, announced a new $240 million AI fund just last week. Turns out half of it is already invested in the three companies that it announced at the time that it rolled out the fund: OpenAI,"
-    publishedDateTime: 2023-05-10T07:52:00Z
-    webUrl: "https://techcrunch.com/2023/05/09/sound-ventures-has-already-plugged-half-its-new-240-million-ai-fund-into-three-companies/"
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 59
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Unlock the Profit Potential in AI Healthcare Innovation with This Leading Biotech Stock"
+    excerpt: "While Nick Black handles the cryptocurrency, blockchain, and Web3 side of things, I'm going to bring you a new stock each week related to these emerging technologies, including artificial intelligence."
+    publishedDateTime: 2023-05-08T21:05:00Z
+    webUrl: "https://moneymorning.com/investing/unlock-the-profit-potential-in-ai-healthcare-innovation-with-this-leading-biotech-stock/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 38
-  - title: "UVeye, creator of an AI-powered vehicle inspection system, raises $100M in funding"
-    excerpt: "Automated vehicle inspection systems startup UVeye Inc. said today it has closed on a $100 million funding round led by Hanaco VC. The Series D round, which also saw participation from existing investors GM Ventures,"
-    publishedDateTime: 2023-05-09T13:00:00Z
-    webUrl: "https://siliconangle.com/2023/05/09/uveye-creator-ai-powered-vehicle-inspection-system-raises-100m-funding/"
+      name: Money Morning
+      domain: moneymorning.com
+    quality: 46
+    images:
+      - url: "https://moneymorning.com/wp-content/blogs.dir/1/files/2022/06/crypto-syndication.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Fintech Benchmarks 2023 – presentation"
+    excerpt: "This year the tension between new forms of digital money and who has the authority to issue it came to the fore of the Fintech Benchmarks 2023. The majority of central banks – 73% – said keeping up with regulating the use of new fintech products and services is their key challenge."
+    publishedDateTime: 2023-05-11T10:32:00Z
+    webUrl: "https://www.centralbanking.com/benchmarking/fintech/7958702/fintech-benchmarks-2023-presentation"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 11
+      name: Central Banking
+      domain: centralbanking.com
+    quality: 24
+    images:
+      - url: "https://www.centralbanking.com/sites/default/files/styles/metatag_image_large/public/2023-05/Fintech-Benchmarks-2023-GMP-banner.jpg?h=96b01c87&itok=xTnnpaDF"
+        width: 1200
+        height: 743
+        isCached: true
+  - title: "Machine-learning innovation in RayStation: prioritizing speed, automation, efficiency"
+    excerpt: "RaySearch Laboratories and its clinical customers are leveraging advances in machine learning to reimagine the radiotherapy workflow"
+    publishedDateTime: 2023-05-11T16:11:00Z
+    webUrl: "https://physicsworld.com/a/machine-learning-innovation-in-raystation-prioritizing-speed-automation-efficiency/"
+    type: article
+    provider:
+      name: Physics World
+      domain: physicsworld.com
+    quality: 17
+    images:
+      - url: "https://physicsworld.com/wp-content/uploads/2023/05/RayStation-Deep-Learning-segmentation-models.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Finovax Leads the Charge in Fintech Innovation: AI-Powered Solutions Drive Business Growth"
+    excerpt: "Based Fintech Company Embraces Artificial Intelligence to Revolutionize Financial Data Products and Fuel Expansion New York, United States - May 8, 2023 — (NEW YORK CITY, NY) — Finovax, a trailblazing fintech"
+    publishedDateTime: 2023-05-08T14:00:00Z
+    webUrl: "https://www.asiaone.com/business/finovax-leads-charge-fintech-innovation-ai-powered-solutions-drive-business-growth"
+    type: article
+    provider:
+      name: Asia One
+      domain: asiaone.com
+    quality: 9
+  - title: "Atomic Revolutionizes Payroll System Integrations with SmartAuth, its Groundbreaking AI-Powered Authentication Engine"
+    excerpt: "Atomic, a leading provider of payroll system integrations, has unveiled SmartAuth, a new artificial intelligence-powered authentication engine. This b"
+    publishedDateTime: 2023-05-10T12:05:00Z
+    webUrl: "https://www.businesswire.com/news/home/20230510005294/en/Atomic-Revolutionizes-Payroll-System-Integrations-with-SmartAuth-its-Groundbreaking-AI-Powered-Authentication-Engine"
+    type: article
+    provider:
+      name: newsroom.businesswire.com
+      domain: businesswire.com
+    quality: 0
 
 secured: "/oY8gtc27+QxAxC7SimpjLZluP7ymgNoryUPDyQZtE2pVodiSFkrTg/hlEM/tPasdH1rOh6DF8eIZcpXLUWR9Vbmql6ypAFECnVFJEiACdwM2QFJEkvI1Xc99WSj4/nC42V7hyyA+HSpVrRHTESfOK2z/j0RkZsKttw5kLOobTrRLGi5W6tNHBUZVE8RoUy9CsueA9McuyxTPczLWrIfquyNTicDnMJWygzQN5Qe788z0zGvypT6U4xV1CAeUDi98WLgIIQ0uwV6bLgTTdBO15U2p+cVCej5vy7qwuWSa+yNC6OFutg2RuT9+RBGXouNz2I2bKhxRGnl+T71EDF6gC5HEGYqzmkVIT1xrHIpjGwWLAD1isIke4ViQC8iCuikhAkfavHQDErAZXFFMYDuqeRxCQDKpEuL5FALawuvPlQb51ZQVDZk/mc/HL5lToTAUIEX2Ek6PasU35DCyXHDOrc6TGpPBlUmZGQgzwylkEEc8IgLXcLxS918ih2zy11T/j9QQ7LIB2Qi2cRlu7vK0Q==;EBRLbuK/jOjM9co8zGx66A=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.businesswire.com/news/home/20230509005422/en/Medical-B
 webUrl: "https://www.businesswire.com/news/home/20230509005422/en/Medical-Billing-Automation-Takes-Giant-Leap-Forward-With-GPT-Enabled-Virtual-Agents-From-Outbound-AI/"
 type: article
 quality: 4
-heat: 4
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,31 @@ provider:
 topics:
   - Microsoft AI
   - AI
+
+related:
+  - title: "AI Auto Blogs Launches Groundbreaking Content Creation Platform Powered by GPT-4"
+    excerpt: "Ljubljana, Slovenia - AI Auto Blogs, a cutting-edge content creation company, is excited to announce the launch"
+    publishedDateTime: 2023-05-11T17:34:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-auto-blogs-launches-groundbreaking-content-creation-platform-powered-by-gpt-4-2023-05-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 44
+  - title: "Healthcare advertising company launches GPT-powered tool"
+    excerpt: "Healthcare advertising company Talking Medicines is launching Drug-GPT, an artificial intelligence-powered tool that analyzes social data for healthcare marketing companies. The tool is now available on the company's PatientMetRx platform."
+    publishedDateTime: 2023-05-11T19:58:00Z
+    webUrl: "https://www.beckershospitalreview.com/digital-marketing/healthcare-advertising-company-launches-gpt-powered-tool.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 39
+    images:
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "zGK2UQm73jgAQoUhI83fQdGyx9o9HcCoLDq5E7IZtEnjcTEcMGUev6EuP9vvNmC8G6Wy//T7gFsouS+7wC3SyYcv9RLBmIZB44O+RCcNNcXFeiPn658/2yfnOAtR+82PQDQgELWEv2al38FpEuaJiVIWoax+Jt7OCNx4zSDf1MSoaiG40giDdI4W6WFvl/xS+lQkcEsCcg1o7/vQb7MkUOqT5+vDNhAKl7ymDyjEtQM5TJMl6B3CO6xLVM0QB8PRs9JRQLBSTlhvKlmqsFglvV4EWiiUuIZXPzdHEb49FDWbdZhBV/FBJMrSa3do/wjZV4OIl0rDHlGQgkN2zGs1sBItEEu3xkXqnhfRp8BT1wK1XbY2zImzh0r2DcD9OziUy2p0P9eBIOamoBINZoTohkK9pYj4/Z1kLB/4azBVmbPfGlFMKFoo+7PnsF0A+mjGi/CJr1LRKkzxnwhmSHN8yBGzcZuLxDKBo3vP2AeEFmt6e4pAFKrYqUBJ8lqi5K1kb81so4MfthydyNH+FRpShw==;IWRmRg30KXNZLgqT3bNSUA=="
 ---

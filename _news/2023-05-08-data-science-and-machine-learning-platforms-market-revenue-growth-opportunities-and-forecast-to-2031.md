@@ -233,6 +233,15 @@ related:
         width: 890
         height: 466
         isCached: true
+  - title: "Face Recognition Software Market 2023 Growth Possibilities, Analysis and Forecast To 2030"
+    excerpt: "The Face Recognition Software Market Report by Type (Holistic Matching Method, Feature-based Method, Skin Texture Analysis, Hybrid Types, Other) and by Application (Corporate and Residential Security,"
+    publishedDateTime: 2023-05-11T11:22:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-software-market-2023-growth-possibilities-analysis-and-forecast-to-2030-2023-05-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 40
   - title: "Artificial Intelligence In Genomics Market worth $2.0 billion | MarketsandMarkets"
     excerpt: "Artificial Intelligence In Genomics Market in terms of revenue was estimated to be worth $0.5 billion in 2023 and is poised to reach $2.0 billion by 2028, growing at a CAGR of 32.3% from 2023 to 2028 according to a new report by MarketsandMarkets™."
     publishedDateTime: 2023-05-11T17:53:00Z

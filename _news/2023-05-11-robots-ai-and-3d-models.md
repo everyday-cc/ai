@@ -99,6 +99,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Researcher uses artificial intelligence to discover new materials for advanced computing"
+    excerpt: "A team of researchers led by Rensselaer Polytechnic Institute's Trevor David Rhone, assistant professor in the Department of Physics, Applied Physics, and Astronomy, has identified novel van der Waals (vdW) magnets using cutting-edge tools in artificial intelligence (AI)."
+    publishedDateTime: 2023-05-11T21:07:00Z
+    webUrl: "https://phys.org/news/2023-05-artificial-intelligence-materials-advanced.html"
+    ampWebUrl: "https://phys.org/news/2023-05-artificial-intelligence-materials-advanced.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-05-artificial-intelligence-materials-advanced.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 48
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/researcher-uses-artifi.jpg"
+        width: 2700
+        height: 1051
+        isCached: true
   - title: "Google: We've Made Bard Even Smarter Using PaLM 2 AI Model"
     excerpt: "The new features could make Bard a stronger rival to ChatGPT. The company also plans on watermarking content created by AI in an effort to stamp out potential misuse."
     publishedDateTime: 2023-05-10T18:23:00Z

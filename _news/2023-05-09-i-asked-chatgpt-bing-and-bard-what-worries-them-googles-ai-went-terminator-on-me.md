@@ -38,22 +38,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "‘A race it might be impossible to stop’: how worried should we be about AI?"
-    excerpt: "Scientists are warning machine learning will soon outsmart humans – maybe it’s time for us to take note"
-    publishedDateTime: 2023-05-07T04:00:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/may/07/a-race-it-might-be-impossible-to-stop-how-worried-should-we-be-about-ai"
-    ampWebUrl: "https://amp.theguardian.com/technology/2023/may/07/a-race-it-might-be-impossible-to-stop-how-worried-should-we-be-about-ai"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/may/07/a-race-it-might-be-impossible-to-stop-how-worried-should-we-be-about-ai"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 55
-    images:
-      - url: "https://i.guim.co.uk/img/media/d5a58004d2e175efe10d9d9423f8701fe876fa02/278_0_7279_4370/master/7279.jpg?width=620&quality=85&auto=format&fit=max&s=acba5c66020ee46b97d0bdb6cfa9663f"
-        width: 620
-        height: 372
-        isCached: true
 
 secured: "LeWIsXu8h9ISQpL7cxPTT2ZozjbloXLoQ/yrs3BEfcxtvWi2SryeZB++g7XiaY3QKg8EX6N3gAScWNbDx26KwBTSy2QKoNxo4fbDE3CAvmKm02dGe9MVu+FsU8pulGt60MQgsjWJBVEsWAw9/MvMo1u/2Duk4TyDZ4w5EAOSBBI3LW3XWFKiSWtlE9xsJcjQkd6eLCsKyCvGu+01sgD+fqragfv4sb8lSZqcjNxM/DtStAX6rdaAKK7Uw+ShMuMVEmD2PvnnewfQXujNcd0BoWgpl3S9DwDoIKY2iTptnlRznYkOXYki3ZAN/V6iEY3go7dtwoYhW3ybeLt4jBsgq7gzj/J6oK5WIhhx1P2CBUc+A3UArC26KSZjqzHCq2/gYsQMc+ZfHvjKHvSdJNSZNKkaLh3jijmHTzbaYPyKEeanxCMFkQy5SjQuiV2EGJUnaj8N988FNDN2DEuXaX5cVd4Zb/+eE9mngSnFoPur+x2Up2mcVTkpeTngev48NmtlK/c/T8ncdOSF3uqe8qrpVg==;y09rnTpdYz1uiIJTDQWXhA=="
 ---

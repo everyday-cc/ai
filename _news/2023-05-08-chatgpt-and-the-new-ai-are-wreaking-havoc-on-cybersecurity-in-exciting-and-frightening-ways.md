@@ -9,8 +9,8 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/chatgpt-and-the-new-ai-are-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/chatgpt-and-the-new-ai-are-wreaking-havoc-on-cybersecurity/"
 type: article
 quality: 77
-heat: -1
-published: false
+heat: 107
+published: true
 
 provider:
   name: ZDNet
@@ -30,38 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "The Crucial Ways That Religion And Generative AI ChatGPT Are Crossing Fateful Faithful Paths"
-    excerpt: "Religion and generative AI such as ChatGPT are crossing paths, here's a comprehensive look at this fateful faithful intertwining, including upsides and downsides."
-    publishedDateTime: 2023-05-10T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/05/10/the-crucial-ways-that-religion-and-generative-ai-chatgpt-are-crossing-fateful-faithful-paths/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/05/10/the-crucial-ways-that-religion-and-generative-ai-chatgpt-are-crossing-fateful-faithful-paths/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/05/10/the-crucial-ways-that-religion-and-generative-ai-chatgpt-are-crossing-fateful-faithful-paths/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 80
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64591690fd83c13dff9c02fa/0x0.jpg?format=jpg&crop=3240,2160,x432,y0,safe&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Here is how Europe is pushing to regulate artificial intelligence as ChatGPT rapidly emerges"
-    excerpt: "The European Union voted to strengthen regulations around artificial intelligence. Here is a look into how chatbots such as ChatGPT could be regulated in the continent."
-    publishedDateTime: 2023-05-11T13:51:00Z
-    webUrl: "https://www.foxnews.com/world/europe-pushing-regulate-artificial-intelligence-chatgpt-rapidly-emerges"
-    ampWebUrl: "https://www.foxnews.com/world/europe-pushing-regulate-artificial-intelligence-chatgpt-rapidly-emerges.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/world/europe-pushing-regulate-artificial-intelligence-chatgpt-rapidly-emerges.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 76
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/937be039-5093-4a38-8920-5ec96c812149/b1154edd-fccf-4619-a5be-9436eb80ad9d/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "ChatGPT and Generative AI Around the World: Maturity, Opportunities, and Hurdles in Key Regions"
     excerpt: "ChatGPT has received a lot of press since its November 2022 launch. But while interest in the tool is high, its use is not yet universal."
     publishedDateTime: 2023-05-09T17:00:00Z
@@ -78,108 +46,29 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Pearson Outlines AI Plans After ChatGPT Share Price Jitters"
-    excerpt: "Education publisher Pearson Plc is outlining how it’s integrating artificial intelligence across its operations a week after its shares fell over fears that AI tools such as ChatGPT will undermine its business."
-    publishedDateTime: 2023-05-09T08:49:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-05-09/pearson-outlines-ai-plans-after-chatgpt-share-price-jitters"
+  - title: "Cybersecurity faces a challenge from artificial intelligence’s rise"
+    excerpt: "Many veteran security professionals deride what they call “security by obscurity,” where targets plan on surviving hacking attempts by hiding what programs they depend on or how those programs work. Such a defense is often arrived at not by design but as a convenient justification for not replacing older, specialized software."
+    publishedDateTime: 2023-05-11T11:00:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2023/05/11/hacking-ai-cybersecurity-future/"
     type: article
     provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 67
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 37
     images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ihlllbzYnWLY/v0/1200x800.jpg"
-        width: 1200
-        height: 800
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/G7R756IPWQ5AV6I2OVSD6FZ65Q.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
-  - title: "Forget ChatGPT. These Are the Best AI-Powered Apps."
-    excerpt: "Chat features built into Duolingo, Expedia and others can be more useful than ask-me-anything bots."
-    publishedDateTime: 2023-05-07T12:00:00Z
-    webUrl: "https://www.wsj.com/articles/forget-chatgpt-these-are-the-best-ai-powered-apps-d927d0bf"
+  - title: "ChatGPT and Generative AI Around the World: Maturity, Opportunities, and Hurdles in Key Regions"
+    excerpt: "ChatGPT has received a lot of press since its November 2022 launch. But while interest in the tool is high, its use is not yet universal."
+    publishedDateTime: 2023-05-11T17:01:00Z
+    webUrl: "https://www.businessinsider.com/generative-ai-around-the-world-maturity-opportunities-hurdles-key-regions-2023-may"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 47
-  - title: "UAE: New Chatgpt AI Assistant To Help Plan Visits To Yas Island"
-    excerpt: "Visitors to Abu Dhabi's Yas Island can now get personalised guidance and information about the latest offerings through an AI assistant. Miral, the leading creator of immersive destinations and experiences based in Abu Dhabi,"
-    publishedDateTime: 2023-05-09T19:34:00Z
-    webUrl: "https://menafn.com/1106210851/UAE-New-Chatgpt-AI-Assistant-To-Help-Plan-Visits-To-Yas-Island"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 39
-    images:
-      - url: "https://menafn.com/updates/pr/2023-05/09/KT_6610bimage_story.jpg"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "It’s Not Just About ChatGPT. Other AI Technologies Are Heading to Schools"
-    excerpt: "How can schools stay on top of this rapidly changing technology? And how can educators separate hype from substance? Education Week asked four experts in technology, education, and artificial intelligence to look into their crystal balls and share their thoughts on how AI will likely change teaching and learning."
-    publishedDateTime: 2023-05-09T15:33:00Z
-    webUrl: "https://www.edweek.org/technology/its-not-just-about-chatgpt-other-ai-technologies-are-heading-to-schools/2023/05"
-    type: article
-    provider:
-      name: Education Week
-      domain: edweek.org
-    quality: 38
-    images:
-      - url: "https://epe.brightspotcdn.com/dims4/default/9881dba/2147483647/strip/true/crop/1720x1150+0+0/resize/942x630!/quality/90/?url=https%3A%2F%2Fepe-brightspot.s3.amazonaws.com%2F41%2F85%2Fe0e49f244864a15de5d019ef2da6%2F050423-edtech-beyond-chat-gpt-fs-prothero.jpg"
-        width: 942
-        height: 630
-        isCached: true
-  - title: "I asked AI bot ChatGPT to write a column on happiness. Here’s what happened next"
-    excerpt: "I had to find out for myself. So I conducted a little experiment. I asked ChatGPT to write an article for me. I submitted the prompt, “Write a 500-word column on happiness.” That’s a broad, overworked topic,"
-    publishedDateTime: 2023-05-08T21:21:00Z
-    webUrl: "https://www.aol.com/news/asked-ai-bot-chatgpt-write-180244290.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 32
-    images:
-      - url: "https://media.zenfs.com/en/aol_san_luis_obispo_tribune_mcclatchy_563/9121ec7733a744f8785aa5baaae9181f"
-        width: 1140
-        height: 759
-        isCached: true
-  - title: "Torah is the anti-ChatGPT. But we can embrace artificial intelligence without losing our soul."
-    excerpt: "I recently asked ChatGPT, the online chatbot, to write a verse in the style of the Bible about robots taking over the world."
-    publishedDateTime: 2023-05-08T17:43:00Z
-    webUrl: "https://www.jewishaz.com/opinion/torah-is-the-anti-chatgpt-but-we-can-embrace-artificial-intelligence-without-losing-our-soul/article_9fbb6fd6-edc7-11ed-91cd-2bcf69a3d42b.html"
-    type: article
-    provider:
-      name: Northern Arizona Jewish News
-      domain: jewishaz.com
-    quality: 27
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/jewishaz.com/content/tncms/assets/v3/editorial/2/eb/2eb5d1d6-edc8-11ed-9209-b32e3208dd0a/645935bcdbcea.image.jpg?crop=1931%2C1014%2C0%2C29&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "How To Write Code With ChatGPT"
-    excerpt: "According to Botpress, OpenAI built ChatGPT using three core programming languages: Python, PyTorch, and TensorFlow. Also, it used other languages for additional frameworks, including, Gensim, NLTK, OpenNMT-py, and spaCy. The AI program also uses libraries ..."
-    publishedDateTime: 2023-05-10T00:00:00Z
-    webUrl: "https://technology.inquirer.net/123907/how-to-write-code-with-chatgpt"
-    type: article
-    provider:
-      name: Philippine Daily Inquirer
-      domain: inquirer.net
-    quality: 24
-    images:
-      - url: "https://technology.inquirer.net/files/2023/05/ChatGPT-coding-featured-image-tryamigo.com_-620x349.png"
-        width: 620
-        height: 349
-        isCached: true
-  - title: "ChatGPT May Have a Big Role in Healthcare"
-    excerpt: "If the results of a recent study are any indication, ChatGPT may soon be professionally responding to patients’ written health-related questions. Virtual healthcare drastically expanded during t"
-    publishedDateTime: 2023-05-09T05:00:00Z
-    webUrl: "https://www.realclearscience.com/articles/2023/05/09/chatgpt_may_have_a_big_role_in_healthcare_898337.html"
-    type: article
-    provider:
-      name: RealClearScience
-      domain: realclearscience.com
-    quality: 19
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 35
 
 secured: "ZkcSFZVFRdm1FjC6OvcuXRBx6MBcTos/OXkD2RV7NU1aQyPpxG1lI7HS6X58q8q3K1dpjsxsuuECwgyTQYpMLb1ClM/1411b2UtFN4+RBHUGssBs7PfBPfJH9C6hnu5aix36SSP/OyxnBAzRhL73hs107EAs1gNM6E8WDibnxb0u0oZYZWhyJVGI44XrSuXKKwQhnC5pld1GdOt7nf0fDVy9MXdPvq50ab85NS088FpWsqmhFDf20XvqhTw3d+l64i2Z3T5OWZhyYFgbnHY2+51N3ZDCTbgoW78FRCu9fMCQOU6Lq6igi7/0cPCpFkRYVP87gmaznWCSlpokxKtt7ZdRILWPZjJsMz6Wd56bwn6aw+Joer1yUuwpS51exjJHbBNqwG7S99OALu+a0cBdPUjsEddH9xXGvL6xLloLsleykqyVzqkGmOlpQbnQiUm24Wv7yEL3wiJlI040Icf69ih6kxFwjrwwhpV4xFrPXBLh3qZ2Y+RHiLkRGBcrh4qrQZUqu3QwGLTNlJG+RwB+0g==;abq/vhcso2eOVFYuHZwkOw=="
 ---

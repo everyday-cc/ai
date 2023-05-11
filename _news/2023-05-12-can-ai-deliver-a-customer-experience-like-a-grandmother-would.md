@@ -6,6 +6,9 @@ publishedDateTime: 2023-05-11T19:06:00Z
 originalUrl: "https://www.forbes.com/sites/chipbell/2023/05/11/can-ai-deliver-a-customer-experience-like-a-grandmother-would/"
 webUrl: "https://www.forbes.com/sites/chipbell/2023/05/11/can-ai-deliver-a-customer-experience-like-a-grandmother-would/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: Forbes

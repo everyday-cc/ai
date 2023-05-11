@@ -227,6 +227,15 @@ related:
         width: 890
         height: 466
         isCached: true
+  - title: "Face Recognition Software Market 2023 Growth Possibilities, Analysis and Forecast To 2030"
+    excerpt: "The Face Recognition Software Market Report by Type (Holistic Matching Method, Feature-based Method, Skin Texture Analysis, Hybrid Types, Other) and by Application (Corporate and Residential Security,"
+    publishedDateTime: 2023-05-11T11:22:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-software-market-2023-growth-possibilities-analysis-and-forecast-to-2030-2023-05-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 40
   - title: "Data Science and Machine-Learning Platforms Market Revenue, Growth Opportunities and Forecast to 2031"
     excerpt: "Our report on the Data Science and Machine-Learning Platforms Market provides in-depth analysis on the current state of"
     publishedDateTime: 2023-05-08T08:44:00Z

@@ -6,6 +6,9 @@ publishedDateTime: 2023-05-11T18:30:00Z
 originalUrl: "https://www.stltoday.com/lifestyles/technology/could-artificial-intelligence-be-the-solution-to-preventing-school-shootings/video_74283059-609f-5e6c-82f7-987ea885ed6e.html"
 webUrl: "https://www.stltoday.com/lifestyles/technology/could-artificial-intelligence-be-the-solution-to-preventing-school-shootings/video_74283059-609f-5e6c-82f7-987ea885ed6e.html"
 type: article
+quality: 14
+heat: 14
+published: false
 
 provider:
   name: St. Louis Post-Dispatch

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.cbsnews.com/amp/baltimore/news/patients-chatbots-johns-h
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/baltimore/news/patients-chatbots-johns-hopkins-medical-artificial-intelligence/"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: CBS News
@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "AI in Education: Students’ Views on Chatbots and Cheating"
+    excerpt: "The majority of the students surveyed expressed positive views towards AI tools like ChatGPT, with more than a third using them regularly."
+    publishedDateTime: 2023-05-11T14:46:00Z
+    webUrl: "https://neurosciencenews.com/chatbot-ai-education-23213/"
+    type: article
+    provider:
+      name: Neuroscience News
+      domain: neurosciencenews.com
+    quality: 36
   - title: "Mo, an AI Chatbot Powered by Morningstar Intelligence Engine, Debuts in Morningstar Platforms"
     excerpt: "(Nasdaq: MORN), a leading provider of independent investment insights, today launched a beta version of its generative artificial intelligence chatbot named \"Mo\" across Morningstar Investor, Research Portal,"
     publishedDateTime: 2023-05-11T12:41:00Z

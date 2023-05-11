@@ -40,6 +40,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Breaking AI bias: Predictive analytics platform aims to eliminate racism in marketing"
+    excerpt: "AI-powered platform X_Stereotype uses predictive analytics to eliminate bias and racism by gauging the performance of marketing content across different races and cultures."
+    publishedDateTime: 2023-05-11T19:03:00Z
+    webUrl: "https://venturebeat.com/ai/breaking-ai-bias-predictive-analytics-platform-eliminate-racism-marketing/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 57
   - title: "AI and advanced analytics drive sustainability and efficiency"
     excerpt: "City of Istanbul and Wienerberger Group reduce emissions and optimize operations with SASORLANDO, Fla., May 9, 2023 /PRNewswire/ -- SAS INNOVATE"
     publishedDateTime: 2023-05-09T18:26:00Z
