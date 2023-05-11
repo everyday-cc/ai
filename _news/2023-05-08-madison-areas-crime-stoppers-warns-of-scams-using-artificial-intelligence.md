@@ -7,7 +7,7 @@ originalUrl: "https://www.wkow.com/news/madison-areas-crime-stoppers-warns-of-sc
 webUrl: "https://www.wkow.com/news/madison-areas-crime-stoppers-warns-of-scams-using-artificial-intelligence/article_5b1799f2-ed42-11ed-87e6-cbfe0bfb22ae.html"
 type: article
 quality: 36
-heat: 36
+heat: -1
 published: false
 
 provider:
@@ -24,17 +24,22 @@ images:
     isCached: true
 
 related:
-  - title: "Kidnap scammers using AI to create fake videos, voice recordings of loved ones"
-    excerpt: "Scammers are using artificial intelligence to clone the voice or videos of a loved one to trick you into paying a ransom for their release."
-    publishedDateTime: 2023-05-08T23:01:00Z
-    webUrl: "https://www.fox26houston.com/news/kidnap-scammers-using-ai-to-create-fake-videos-voice-recordings-of-loved-ones"
-    ampWebUrl: "https://www.fox26houston.com/news/kidnap-scammers-using-ai-to-create-fake-videos-voice-recordings-of-loved-ones.amp"
-    cdnAmpWebUrl: "https://www-fox26houston-com.cdn.ampproject.org/c/s/www.fox26houston.com/news/kidnap-scammers-using-ai-to-create-fake-videos-voice-recordings-of-loved-ones.amp"
+  - title: "Please stop using AI to make Wes Anderson parodies"
+    excerpt: "A recent online trend has seen users mock up Harry Potter, Star Wars and Lord of the Rings in the director’s distinctive style but is he beyond parody?"
+    publishedDateTime: 2023-05-11T15:42:00Z
+    webUrl: "https://www.theguardian.com/film/2023/may/11/wes-anderson-parodies-ai"
+    ampWebUrl: "https://amp.theguardian.com/film/2023/may/11/wes-anderson-parodies-ai"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/film/2023/may/11/wes-anderson-parodies-ai"
     type: article
     provider:
-      name: KRIV
-      domain: fox26houston.com
-    quality: 35
+      name: The Guardian
+      domain: theguardian.com
+    quality: 57
+    images:
+      - url: "https://i.guim.co.uk/img/media/81f9da1f31e6f0ed88838c3784cd5ed68683a17a/166_0_1627_976/master/1627.jpg?width=620&quality=85&auto=format&fit=max&s=455c811466e1a84ecce567bea459a0e9"
+        width: 620
+        height: 372
+        isCached: true
 
 secured: "EDBLhJZ3vz0jHiRyCCM/VQxgA5u5CFZAhMwAcUn/Aq0sR7ExoMMqgxWb42ZjXIzguWgqVDhFnnLXTct5EPYY9/op6iStLWCRL9YPyoOYrBqUzWTJrhQvj8/0kFTQdxnmzl8YoNOdUUBNteICnrYNE2Oit1qoDed80ooTDYMXw78kk7aqpYk5MJZFZIgq0f+ErnEB21JRFCIVQi1+LrNFStDN4aUW2irHyh8bOIq+XzvM6om8SEgROhgTog6cndBtJJ0B6KdyVJiRCEd7Al5lX+ned8mOl5HoWy14i41DaOVfuzRtP4uveGD+xSJqxSwTkeI+ue3/t3OUMBg55Esn7dG/0PNrPivqZY2KuenuTjE=;OPMFOcj3lPcfH+4n9J0T9A=="
 ---

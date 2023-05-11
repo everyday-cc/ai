@@ -2,6 +2,153 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-05-08-for-artificial-intelligence-to-really-work-the-military-will-need-better-connectivity.md",
+      "title": "For Artificial Intelligence to Really Work, The Military Will Need Better Connectivity",
+      "excerpt": "While talking with CENTCOM’s chief technology officer, Schuyler Moore, I opined that in a peer fight the U.S. military’s data and communications networks may not hold up for even 24 hours. She waited a beat before saying,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/erictegler/2023/05/08/for-artificial-intelligence-to-really-work-the-military-will-need-better-connectivity/",
+      "originalUrl": "https://www.forbes.com/sites/erictegler/2023/05/08/for-artificial-intelligence-to-really-work-the-military-will-need-better-connectivity/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64554c059234b64d096396dd/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 746,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/erictegler/2023/05/08/for-artificial-intelligence-to-really-work-the-military-will-need-better-connectivity/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/erictegler/2023/05/08/for-artificial-intelligence-to-really-work-the-military-will-need-better-connectivity/amp/",
+      "publishedDateTime": "2023-05-08T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-08-galileo-unveils-ml-data-quality-intelligence-platform-for-faster-more-accurate-computer-vision-models.md",
+      "title": "Galileo Unveils ML Data-Quality Intelligence Platform for Faster, More Accurate Computer Vision Models",
+      "excerpt": "Galileo, the first-ever machine-learning (ML) data intelligence company for unstructured data, today announced the",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/galileo-unveils-ml-data-quality-intelligence-platform-for-faster-more-accurate-computer-vision-models-2023-05-08",
+      "originalUrl": "https://www.marketwatch.com/press-release/galileo-unveils-ml-data-quality-intelligence-platform-for-faster-more-accurate-computer-vision-models-2023-05-08",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-08T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-05-08-the-risks-and-limitations-of-ai-in-insurance.md",
+      "title": "The risks and limitations of AI in insurance",
+      "excerpt": "After examining the world of opportunities between AI and the insurance industry, it's time to investigate the risks of AI and how to adopt AI responsibly.\nThe post The risks and limitations of AI in insurance appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/the-risks-and-limitations-of-ai-in-insurance/",
+      "originalUrl": "https://www.ibm.com/blog/the-risks-and-limitations-of-ai-in-insurance/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 209,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-08T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-08-saudi-arabias-ai-powerhouse-mozn-announces-gcc-expansion-as-it-launches-into-the-uae.md",
       "title": "Saudi Arabia’s AI powerhouse, Mozn announces GCC expansion as it launches into the UAE",
       "excerpt": "Regional AI leader to bring AML and Anti-Fraud capabilities to financial institutions across the Emirates, GCC, boosting their compliance journeys and accelerating economic progress",
@@ -105,7 +252,7 @@
       "originalUrl": "https://www.forbes.com/sites/stevensalzberg/2023/05/08/should-we-be-worried-about-ai-i-thought-not-until-i-asked-an-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -310,7 +457,7 @@
       "originalUrl": "https://www.forbes.com/sites/walterloeb/2023/05/08/amazon-turns-to-ai-to-drive-advertising-revenues-as-overall-ai-use-grows/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": 86,
       "tags": null,
       "images": [
         {
@@ -983,7 +1130,7 @@
       "originalUrl": "https://venturebeat.com/ai/a-mayday-call-for-artificial-intelligence/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 141,
+      "heat": 111,
       "tags": null,
       "images": [
         {
@@ -1119,163 +1266,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-05-07-how-will-we-know-when-artificial-intelligence-has-become-sentient.md",
-      "title": "How Will We Know When Artificial Intelligence Has Become Sentient?",
-      "excerpt": "Artificial intelligence research has accelerated in recent years, and people are interacting with AI more frequently. In-home AI assistants and self-driving cars were once things out of science fiction",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/finance/how-will-we-know-when-artificial-intelligence-has-become/451129",
-      "originalUrl": "https://www.entrepreneur.com/finance/how-will-we-know-when-artificial-intelligence-has-become/451129",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/providers/due/hero-image-due-451129.jpeg",
-          "width": 1024,
-          "height": 573,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-07T06:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Autos",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-05-07-us-sanctions-drive-chinese-firms-to-advance-ai-without-latest-chips.md",
-      "title": "U.S. Sanctions Drive Chinese Firms to Advance AI Without Latest Chips",
-      "excerpt": "Chinese companies racing to catch up with American AI leaders get creative as U.S. sanctions cut them off from the most advanced chips.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/u-s-sanctions-drive-chinese-firms-to-advance-ai-without-latest-chips-f6aed67f",
-      "originalUrl": "https://www.wsj.com/articles/u-s-sanctions-drive-chinese-firms-to-advance-ai-without-latest-chips-f6aed67f",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 184,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-776300/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-07T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-07-ai-courses-what-it-is-how-it-works-and-benefits.md",
-      "title": "AI Courses: What It Is, How It Works And Benefits",
-      "excerpt": "What Is An AI Course? Artificial intelligence or AI is no longer restricted to the world of science-fiction or movies, in fact AI is something which we are dealing with on an everyday basis. Whether it is solving your queries via live chat bots or chatting with Siri or Alexa,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/advisor/in/education/artificial-intelligence-courses/",
-      "originalUrl": "https://www.forbes.com/advisor/in/education/artificial-intelligence-courses/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/x/https://www.forbes.com/advisor/in/wp-content/uploads/2023/04/marvin-meyer-SYTO3xs06fU-unsplash-Cropped.jpg",
-          "width": 960,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-07T02:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

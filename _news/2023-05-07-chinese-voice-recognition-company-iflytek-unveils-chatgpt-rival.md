@@ -164,6 +164,15 @@ related:
       name: The Sun
       domain: thesun.co.uk
     quality: 33
+  - title: "Leading Chinese AI company iFLYTEK showcases latest innovations at opening ceremony of BEYOND Expo 2023 in Macao"
+    excerpt: "PRNewswire/ -- iFLYTEK, a leader in AI technology, showcased its latest cutting-edge innovation at the opening ceremonies of"
+    publishedDateTime: 2023-05-11T16:36:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/leading-chinese-ai-company-iflytek-showcases-latest-innovations-at-opening-ceremony-of-beyond-expo-2023-in-macao-1032318837"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 28
 
 secured: "XloQs4zNaPdmHQkOjRmWE6m4gLPzWa0TDtvvVGDorWuO70eDzMuoZTDntAYC4o5QbY29vreQtkr2LVyobxtccEpjPq6QIm5kdCQK+NV/dJXAKemWosrC2w9QrPryqyRUSjZ9arcnv1DhOLj3HTh+zNEQSL+9beJNAAOqTFzhArwqdlrz4MEsvnAmwu/omly8XZajGhqtRI1I/+GbQoMUnG1K1xs0b79eeYZ+RWgIHmFZPAHwHqi1RgBqWPdFPPNZsRr/xI3JFxSFS7aHbT+yAa16VMkSTPxWOGnzT22hf1YuqOSXuCmk+k2589beNvM64RWxTn7+C9XXK3K+KCE9vxwLOTlcyxsIltXNUwx6wdzLYjdBryr760LRMVJ8KuzerJ5nqN2C1mQCBDO0m+fEhC0Ayc72PuFD3Jljhg6kmzUmfqybipATjYFtb2YnzMvBNWSyjaM/nEf8M6+MnyPJeAQUw4pkFGq0pts4pDsHgEkiwp0qFe1qRWz56rnPfNhtlnWCtjiYsSY+gikOyJ9PoQ==;OIgQ7Lxq3h5zs3qLeo5jSQ=="
 ---

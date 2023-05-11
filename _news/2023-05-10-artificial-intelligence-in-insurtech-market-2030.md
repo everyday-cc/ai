@@ -85,22 +85,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "Generative AI’s implications on the financial services industry"
-    excerpt: "The pandemic nudged a large part of the country to go digital. But it is the amalgamation of AI and fintech that could truly take India to the forefront of the digital revolution."
-    publishedDateTime: 2023-05-09T07:09:00Z
-    webUrl: "https://www.financialexpress.com/money/generative-ais-implications-on-the-financial-services-industry/3080002/"
-    ampWebUrl: "https://www.financialexpress.com/money/generative-ais-implications-on-the-financial-services-industry/3080002/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/money/generative-ais-implications-on-the-financial-services-industry/3080002/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 59
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/05/artificial-intelligence1.jpg"
-        width: 1200
-        height: 667
-        isCached: true
   - title: "Newly developed AI shows speed and accuracy in identifying the location and expression of proteins"
     excerpt: "A new advanced artificial intelligence (AI) system has shown world-leading accuracy and speed in identifying protein patterns within individual cells. The new system, developed at the University of Surrey's Institute for People-Centered AI,"
     publishedDateTime: 2023-05-10T14:02:00Z

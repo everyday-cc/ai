@@ -22,33 +22,21 @@ topics:
   - AI
 
 related:
-  - title: "Bad News For Boomy: Spotify Removes Thousands of AI-Generated Songs From the Platform"
-    excerpt: "Spotify is removing thousands of AI-generated songs created by music startup Boomy. The move is part of the platform’s effort to protect artists."
-    publishedDateTime: 2023-05-11T15:00:00Z
-    webUrl: "https://www.entrepreneur.com/business-news/spotify-removes-thousands-of-boomys-ai-generated-songs/451985"
+  - title: "Spotify Has an AI Music Problem—but Bots Love It"
+    excerpt: "Fake listeners are flocking to AI-made songs on streaming platforms, taking much needed money away from human artists."
+    publishedDateTime: 2023-05-11T15:08:00Z
+    webUrl: "https://www.wired.com/story/spotify-ai-music-robot-listeners/"
+    ampWebUrl: "https://www.wired.com/story/spotify-ai-music-robot-listeners/amp"
+    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/spotify-ai-music-robot-listeners/amp"
     type: article
     provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 60
+      name: Wired
+      domain: wired.com
+    quality: 87
     images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1683816327-shutterstock-1038795847.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
-  - title: "Boomy’s AI-generated tracks start landing back on Spotify amid growing battle against artificial streaming"
-    excerpt: "Less than a week after uploads to Spotify from AI-powered music creation app Boomy were blocked over concerns about artificial streaming, Boomy says it’s back in business on the prominent music streaming platform."
-    publishedDateTime: 2023-05-08T15:08:00Z
-    webUrl: "https://www.musicbusinessworldwide.com/boomys-ai-generated-tracks-start-landing-back-on-spotify-amid-growing-battle-against-artificial-streaming/"
-    type: article
-    provider:
-      name: Spotify
-      domain: musicbusinessworldwide.com
-    quality: 19
-    images:
-      - url: "https://www.musicbusinessworldwide.com/files/2023/05/growtika-3C0SWyusdS8-unsplash.jpg"
-        width: 3840
-        height: 2160
+      - url: "https://media.wired.com/photos/645c19f20cbc15924e602a5c/master/pass/AI-Bot-Spotify-Listeners-Culture-1324648625.jpg"
+        width: 2400
+        height: 1800
         isCached: true
 
 secured: "Tnqlz1kiRwu8oDIQXzf4KqNoHggkSBUywe6gLdPuFaMIvPYqy4aZe+ME9K8gTH/Dp8VAGJ1SoSEdXl/1XnB6PDRD6YnILCnLsxOkoktONKeaMPlaln2ftPbo7pBAyh8QkY/w8bMfpEr/Hs2z9JHhH3Qadcm70PtaJU8Se5y6II5BYnj+V42DEKPMeQJLafgz2+wGaA3ejQvC/gAQH2Jh6SkZFTVlytmFzfXU7SpgOTMbaK+6Iq9hpgKDz2JFtPCcdIX26zTT+68hHFIrPGJmBHShEgnQ9HGK6bpiPTKPQz3W0Ia6hUNK4ULh3xmd2w7MLPztgotiEz0uu9r2LBwuSC8+s3MZl43gReX+SbTs7orebT46Q/QsvPV8v66PKGW24czYt81H1GlJ53hK18hnmWlGx9EMbnf49fAyiMPVw1ed2chA21tu7rnfEazKAAMKjDoEHJmUhYJ1tVu6eA+zVH5DMgjnyuXoIsYW9R2oXIoI3zSF3Z5ysGSoe6gxavs7T2HNHKxvbneYo4MPYaufqg==;phBKyZzVjhk9Ecsqglgh7w=="

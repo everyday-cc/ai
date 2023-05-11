@@ -7,7 +7,7 @@ originalUrl: "https://technews.tmcnet.com/news/2023/05/08/9809281.htm"
 webUrl: "https://technews.tmcnet.com/news/2023/05/08/9809281.htm"
 type: article
 quality: 0
-heat: 0
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,17 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+
+related:
+  - title: "AI company reduces hiring goals in South Florida. Here's why"
+    excerpt: "In 2020, the firm agreed to create new jobs in Palm Beach County in exchange for economic incentives. Now, it's withdrawing from that agreement."
+    publishedDateTime: 2023-05-11T16:48:00Z
+    webUrl: "https://www.bizjournals.com/southflorida/news/2023/05/11/ai-levatas-incentives-palm-beach-county.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 19
 
 secured: "R0kGm6Ojrne2GNcA+NSlbXa9a6DDpUYincYz7xZUdnBJwx7d1yD7v7iIe2umHl/9KrzD9e8RNfwHtkvWqFbAf/jQGPo8uNZaXl7vlkKg122zfJl8zQtnJEW7rO7H89tXDaGHsKFu2tzq0c35MSPEFh+Ay8WmU6M1nSV934rDrHoMU9sSSjKxEdi+TGbCnwNg/SbMFO7Brco5rmcJ2Kctan3tCPLooNlwUuED95zlfR1ZyfdOhimQWpffpAQ9LqKBjUIn+BZJUOLumrZelxsBTgpIVQDn8Pp5M8sGMOyXQOdWeS+OXYmLJhE10OTzKQx8r5qEwCBOZoEfwiEfP23FZUlPvr0d/7IjTdrB1ahJS6w=;6hCLFRrg4eTBH+mxWiLXPA=="
 ---

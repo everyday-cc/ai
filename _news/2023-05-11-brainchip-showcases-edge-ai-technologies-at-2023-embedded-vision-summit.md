@@ -20,19 +20,21 @@ topics:
   - Computer Vision
 
 related:
-  - title: "Vintra showcases its artificial intelligence technology in a demo"
-    excerpt: "Vintra, mentioned by former Boston police commissioner Ed Davis during a Senate hearing about the Boston marathon bombing, can learn \"from normal activity\" to notify operators of \"approaching threats and of anomalies."
-    publishedDateTime: 2023-05-10T22:30:00Z
-    webUrl: "https://www.foxbusiness.com/video/6327054767112"
+  - title: "Media Alert: BrainChip Showcases Edge AI Technologies at 2023 Embedded Vision Summit"
+    excerpt: "BrainChip Holdings Ltd ((ASX: BRN, OTCQX:BRCHF, OTC:BCHPY), the world's first commercial producer of ultra-low power, fully digital, event-based, neuromorphic AI IP, today announced that Chief Marketi"
+    publishedDateTime: 2023-05-10T15:01:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/05/b32318943/media-alert-brainchip-showcases-edge-ai-technologies-at-2023-embedded-vision-summit"
+    ampWebUrl: "https://www.benzinga.com/amp/content/32318943"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32318943"
     type: article
     provider:
-      name: Fox Business
-      domain: foxbusiness.com
-    quality: 37
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 52
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/134b7b90-1d04-409f-8702-f36e8b024f01/b15f0495-266a-4b82-a6b6-c61ff14fc4dc/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
         isCached: true
 
 secured: "oog30PsXdlLlebFF0r4NccIfBrBEdsHyNbICJzflkY2ZQG6PKXH9BxFnK6wo+Sq0np4kbmQTZLXusoGe1noliqsLqfkzkcF4+0FO2sy6vXv/6uFmhmCgu9sCfDgeXcOXYWWkDFdMKTJdMuqwmT5QaAnBVA/7iqe+H4L37Qlnp9OqRDCQdCY3RM3fBE2TL4aRj9BXA9NpZJ470LjZ1YHqLSlQh3ffekCiT2EeUVqXkCU8ORJIAqGiFtblpDYfWQkxTSFFqHV4obuUQAc8ZFzCDDSZaJGIvTg6mbsJyXHWRsxdGKW0hQNst2CteLnZcYjL6kUKWUCpaQIUd9gSxPAB54bpd7bYIdnJOjQJwf8rlfk=;KS6Ds2qPlzHK3OCfY1Fi9w=="

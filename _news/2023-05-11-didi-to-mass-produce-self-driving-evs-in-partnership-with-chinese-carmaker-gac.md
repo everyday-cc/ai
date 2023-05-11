@@ -154,6 +154,15 @@ related:
       name: The Sun
       domain: thesun.co.uk
     quality: 33
+  - title: "Leading Chinese AI company iFLYTEK showcases latest innovations at opening ceremony of BEYOND Expo 2023 in Macao"
+    excerpt: "PRNewswire/ -- iFLYTEK, a leader in AI technology, showcased its latest cutting-edge innovation at the opening ceremonies of"
+    publishedDateTime: 2023-05-11T16:36:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/leading-chinese-ai-company-iflytek-showcases-latest-innovations-at-opening-ceremony-of-beyond-expo-2023-in-macao-1032318837"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 28
   - title: "Chinese voice-recognition company iFlytek unveils ChatGPT rival"
     excerpt: "Chinese voice-recognition company iflytek Co. has entered the race to build a rival to OpenAI Inc.’s ChatGPT, with a live demonstration of its artificial intelligence model for educational and enterprise uses,"
     publishedDateTime: 2023-05-07T11:40:00Z
@@ -169,6 +178,6 @@ related:
         height: 573
         isCached: true
 
-secured: "b86Uap0SgH+tTTEEqvh0JtMwIubxCkRjE2fjtYzW4DR+qVWn9jK8TX4zepQmXSqMAzWBIoRqdSAHInCMOY8bAsK892T0NWa2kSUPrVUW/QL1YcCgDPMelUuzPP8FEC01v+QcbAzfEFnejSDlSskM0QHeNIluiF1+WblIdf4khbQXutybXlU52bwCJ7DhlypHqE0+1gA/iWAjw+fWoWmjR0ONcLU8xPzbBR3dInzj+dSxI7xZ/mgKY1MN/MImyfAoHNg/DEAcmgxLnRUFaiatvdz0IFjGczdqLK4qs2pJ9MwFEdli8RQcA9vnA6xibuk/iLwpctdKZSdEDAQnv6tQ7d1o8iWVteRu/8nd/TM3nr0=;lv9rS/Sva9m4a0NkjnWq1g=="
+secured: "FyEaFjqba3Ir3Y/Z513KQ169sxoNZrI61k8NxseXAEBfxQvFTOBxhFWURm8b222K1TkArYAKJ6oZFA8opcoF37B4p2LZzaBQXjXe/9Epvem0ioYghYeQ1OzJP6+PzV2v/PXfC+LfVHol75+Lf25GgFO8t+VZ1TapxHwtOZvnWMSLpYsaVFKgGbl3wCOFz5YVI0jj4RxO85hvcblUNleKnTHPeQ9aBSaxET738RCA44wAWktDPgtkMSFDVcegdZJ+g9zlWS8Q0LlI+gwZthhuou9QaoeANCK8c9jdHXseUMbWYG8hO0MXZ9vQlOVSCS4rHBC3ds3Zc4mCJwdeGDW6iqHyoal87WMR14myHIkSlYrrsaHA2z9ebKNESi1YmJNLBC7ehldcIx6N8VAYarULUlxfsqKMG2pt6yTTwY3FKBjU0WtvnF0OZDTlAfFJNLNJzU5BXEpXg7DKzT3ehwTUfDjADAyyJGMqnWDIwJp7HJfXD9e+i70GrsbfN6DG6H0Yg4ueDt1exwy9rvlcUZU5bA==;8r3+4e40AFYE2D70tAQYzg=="
 ---
 

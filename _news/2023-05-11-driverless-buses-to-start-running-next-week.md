@@ -55,6 +55,22 @@ related:
         width: 768
         height: 511
         isCached: true
+  - title: "UK's First Driverless Bus Service To Begin In Scotland Next Week"
+    excerpt: "The UK will roll out its first driverless bus network in Scotland next week with drivers on standby behind the steering wheel, ready to take control should an emergency arise."
+    publishedDateTime: 2023-05-11T17:07:00Z
+    webUrl: "https://www.ndtv.com/world-news/uks-first-driverless-bus-service-to-begin-in-scotland-next-week-4026830"
+    ampWebUrl: "https://www.ndtv.com/world-news/uks-first-driverless-bus-service-to-begin-in-scotland-next-week-4026830/amp/1"
+    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/uks-first-driverless-bus-service-to-begin-in-scotland-next-week-4026830/amp/1"
+    type: article
+    provider:
+      name: NDTV
+      domain: ndtv.com
+    quality: 59
+    images:
+      - url: "https://c.ndtvimg.com/2023-02/lc9brad_e-bus-generic-_625x300_17_February_23.jpg"
+        width: 650
+        height: 400
+        isCached: true
 
 secured: "mdBV4K7fYkLdIYJhcV2M/Uv3/IHf6SI54uJYD3fgURqOG9SSJ3ja7RXqN2Ui5c1iIvmkXk2RYpEhG+YbNBEdJlm5GfFnLShP/guCE3uZ7QmYtNU6MW1RQwLyvyC9VwZs1NntswB4XDnWPdkAqrJCHIB5YkgfH5zPijhUUQwIHGw6PGzq1Fe5xgXGy814zg/L2sbfppceAO2h53jwpxPGqRuPm0rdmYSQJY0XZgba2TGbGsY1dwTWSqb6qBabFnRvQS3tFfWF+RFZXVfDapXrnofNJAawzFc3E5uysmt9qOxehEgqbIpsZTuskMmq6rH+E32RL1lqOLIx2W1dn8nz60yE+Ua6jSGDO5MsGSproef2Wo52sQS5b+nNRk1RG2kuBOrs7/DMXVNrwVW7XOVa6z5OBYCj8cgnirfMC/vEmJsvrg7wf+3drrD/qqFJR/Bz0+GGxvwd0pW/8BHKdqV42BZtP6baHa9Dfx8i1VlPsyf5YPu6ITJHsrQENpt8xL+U9lKe2odR06jklethqtmi/w==;6W+HTdoM6e3Ofyqta+424g=="
 ---

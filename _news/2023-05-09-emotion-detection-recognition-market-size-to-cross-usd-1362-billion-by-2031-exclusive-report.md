@@ -56,6 +56,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 66
+  - title: "Computer Vision Software Market Share 2023|Bussiness Research And Forecast by 2029"
+    excerpt: "Computer Vision Software Market | Outlook 2023-2028 | Pre and Post-COVID Research is Covered, Report Information |"
+    publishedDateTime: 2023-05-11T14:19:00Z
+    webUrl: "https://www.marketwatch.com/press-release/computer-vision-software-market-share-2023bussiness-research-and-forecast-by-2029-2023-05-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 63
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "ZccgYWE5a8XWmluQPGh+VmDppUa99xvnh1+cRCxAkGyNUeTGUPxV+OSSXaz0tWI2qOB4Blyg4HBjX50nSJ7brWpPA3UAJebjtdH1xLI3sB7iL5YxSCKhOInc1wPbB/vPkrg4X251GkfhAUEOh/skrCud7gaA2Ga2WU2QIVqvuJn5wHIhzW5GszTF9YJp+urkWNzFJGfhWvqeW+DLvA91ZhccH13CNuY4tVEy7NOSBAdSd5rBFycIYPthrTxdYaNLToFJ6oUaqRqo1sQ/YOilWCuiHGGbZgQVKyiRVkB8DSZf5U6CkF1Goc6s+SickL6HQqteyPaDNLgMKB5dLXZg+9Y5azY7TScfCxoJuq59hjnXfY4en59S4Y5VXwbN4qMZjOUOZqlP/5OdZK1MCsK/Bf1J3FsjmQ3fx4m6jXrtTdBzFJEIJSVObSxwYm/3GuMDS7GibfpDL78B7zG1K4oMtqzr3VF33d/ZwipW+yRnq7clgdO2DFrgw6EVLXpV46hoWjCHTlUJ8LFBg+iPGnretg==;qXXLSlgZ6kAt7Obx4/2Y1Q=="
 ---

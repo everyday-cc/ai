@@ -40,20 +40,6 @@ related:
         width: 4048
         height: 2391
         isCached: true
-  - title: "Google’s Duet AI brings more generative features to Workspace apps"
-    excerpt: "After OpenAI’s ChatGPT caught the tech world off guard late last year, Google reportedly declared a “code red,” scrambling to plan a response to the new threat."
-    publishedDateTime: 2023-05-10T17:45:00Z
-    webUrl: "https://www.engadget.com/googles-duet-ai-brings-more-generative-features-to-workspace-apps-173944737.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 69
-    images:
-      - url: "https://s.yimg.com/uu/api/res/1.2/VEe7NhQRnwM.xJ36kN_Rfw--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-05/f93ba6b0-ef58-11ed-bffd-1d888782a206.cf.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "WebGPU Brings AI Capabilities Directly to Google Chrome Users"
     excerpt: "Google I/O focused on AI technologies, integrating AI into Chrome using WebGPU for improved performance and security."
     publishedDateTime: 2023-05-11T12:59:00Z
@@ -93,15 +79,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Google is throwing generative AI at everything"
-    excerpt: "But experts say that releasing these models into the wild before fixing their flaws could prove extremely risky for the company."
-    publishedDateTime: 2023-05-10T19:00:00Z
-    webUrl: "https://www.technologyreview.com/2023/05/10/1072880/google-is-throwing-generative-ai-at-everything/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 19
 
 secured: "F0xZGQiUJpH46hKjKW2EC5NAejq31lgsLqpDBXyCdpS8UYPd9kdE6WLB0Di9qeD2MSWgprtB1h6rR1duR75Z9j+ueguDGyZAqPc/vwfherYgrhnBVZ8S/Cebk//4y41WuVWma8wESG8JvKu4eHWTYhKF7uCXGxxuyQQexn8IyBi/8Ta4KnbRHInd76Aoz1YFbzB60mdAMKhVnczdh68hI07ioSc97syQJ71sSyZX7kAeAu6MExi0LYj7dXgIVTGSAotIn/rCvVnSR7T/kNyoRkdRZGJN1IWtW7U+FhE7NXXWhFzoZ9z8HCpmZ01yjQjdvIhunhpOcUk5lSj1d7PXIFXUkhb3EPjj6Eu7J5Lfu7txMVrPhDika3ZKazl05uxLgWb9f4C+xRhzTZbNqmAKW6ypFCGGaKmQUwTMye7QqaVJDypiy86DmN9C+vHnBP2c6HM1gYn3iOyiWTtV84zwq62xAV7J9qq0X75UZKe0bUpdvTbuf1RNS+HPEtShdyG9/y3mSPtv+RmVP8aR7+7/Jw==;vnvTrLb3HpCQ3nLI4Xuuag=="
 ---

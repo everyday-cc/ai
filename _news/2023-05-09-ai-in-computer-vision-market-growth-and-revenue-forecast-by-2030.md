@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-ma
 webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-growth-and-revenue-forecast-by-2030-2023-05-08"
 type: article
 quality: 84
-heat: 274
+heat: 284
 published: true
 
 provider:
@@ -232,6 +232,20 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Artificial Intelligence In Genomics Market worth $2.0 billion | MarketsandMarkets"
+    excerpt: "Artificial Intelligence In Genomics Market in terms of revenue was estimated to be worth $0.5 billion in 2023 and is poised to reach $2.0 billion by 2028, growing at a CAGR of 32.3% from 2023 to 2028 according to a new report by MarketsandMarkets™."
+    publishedDateTime: 2023-05-11T17:53:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/05/11/9812870.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 34
+    images:
+      - url: "https://marketplace.connectwise.com/content/images/thumbs/0000635_skykick_550.png"
+        width: 550
+        height: 353
         isCached: true
   - title: "Healthcare Cognitive Computing Market Analysis, Share, Revenue, Growth Rate With Forecast Overview Till 2030"
     excerpt: "Further, for the in-depth analysis, the report encompasses the industry growth indicators, restraints, supply and demand risk, along with detailed discussion on current and future market trends that are associated with the growth of the market."

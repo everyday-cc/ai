@@ -257,6 +257,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) in Social Media Market Share Granular Analysis, 2023-2030"
+    excerpt: "Artificial Intelligence (AI) in Social Media Market | Outlook 2023-2028 | Pre and Post-COVID Research is Covered,"
+    publishedDateTime: 2023-05-11T14:24:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-social-media-market-share-granular-analysis-2023-2030-2023-05-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 76
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Deep Learning Chipset Market Research | 2023-2030"
     excerpt: "The Global Deep Learning Chipset market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players,"
     publishedDateTime: 2023-05-08T04:41:00Z
@@ -359,6 +373,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 65
+  - title: "2023, Artificial intelligence (AI) in Supply Chain and Logistics Market | Global Industry Analysis Till 2030"
+    excerpt: "Artificial intelligence (AI) in Supply Chain and Logistics Market | Outlook 2023-2028 | Pre and Post-COVID Research"
+    publishedDateTime: 2023-05-11T14:52:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-artificial-intelligence-ai-in-supply-chain-and-logistics-market-global-industry-analysis-till-2030-2023-05-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 65
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Cognitive System & Artificial Intelligence(AI) Systems Market"
     excerpt: "Research Reports has published a new report titled as \"Cognitive System and Artificial Intelligence(AI) Systems"
     publishedDateTime: 2023-05-08T04:10:00Z
@@ -377,6 +405,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 64
+  - title: "Clinical Natural Language Processing Market Research Report Analysis by 2023 To 2030"
+    excerpt: "The major players covered in the Clinical Natural Language Processing market report are: Get a sample copy of the Clinical Natural Language Processing Market report 2023 Clinical Natural Language Processing Marketsize,"
+    publishedDateTime: 2023-05-11T14:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/clinical-natural-language-processing-market-research-report-analysis-by-2023-to-2030-2023-05-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 62
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "2023-2030, Computer Vision in Artificial Intelligence (AI) Market Segmentation-Identifying Your Target Audience"
     excerpt: "To know How COVID-19 and Russia-Ukraine War Influence Will Impact This Market/Industry - Request a sample copy of the report-:  In This Reports Computer Vision in Artificial Intelligence (AI) Market Segment by Type ( Hardware,"
     publishedDateTime: 2023-05-07T10:09:00Z
@@ -386,6 +428,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 59
+  - title: "Voice And Speech Recognition Software Market Share 2023|Bussiness Research And Forecast by 2029"
+    excerpt: "The major players covered in the Voice And Speech Recognition Software market report are: Get a sample copy of the Voice And Speech Recognition Software Market report 2023 Voice And Speech Recognition Software Marketsize,"
+    publishedDateTime: 2023-05-11T14:54:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-and-speech-recognition-software-market-share-2023bussiness-research-and-forecast-by-2029-2023-05-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 57
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "2023 \"Neural Network Market\" SWOT Analysis: Future Business Advancements and Challenges till 2030"
     excerpt: "The Global Neural Network market is poised for significant growth between 2023 and 2030, with a positive outlook for 2022 and beyond. As key players in the industry adopt effective strategies, the market is expected to expand further,"
     publishedDateTime: 2023-05-08T17:25:00Z
@@ -507,6 +563,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Image Recognition Market Research Analysis, 2023-2030"
+    excerpt: "A Image Recognition market new report, spanning multiple 116 pages, offers an extensive and in-depth analysis of the"
+    publishedDateTime: 2023-05-11T15:06:00Z
+    webUrl: "https://www.marketwatch.com/press-release/image-recognition-market-research-analysis-2023-2030-2023-05-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Voice Recognition Market Research | 2023-2030"
     excerpt: "The Global Voice Recognition market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players,"
     publishedDateTime: 2023-05-11T00:09:00Z
@@ -576,6 +646,17 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 49
+  - title: "Global Artificial Intelligence (AI) Partnering Terms and Agreements 2010 to 2023"
+    excerpt: "Partnering Terms and Agreements 2010 to 2023\" report has been added to ResearchAndMarkets.com's offering. The Global Artificial"
+    publishedDateTime: 2023-05-11T16:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/05/n32345938/global-artificial-intelligence-ai-partnering-terms-and-agreements-2010-to-2023"
+    ampWebUrl: "https://www.benzinga.com/amp/content/32345938"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32345938"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 49
   - title: "Artificial Intelligence in Healthcare Market 2023 to Hit Significant Growth by 2030| Research Reports World"
     excerpt: "Global “Artificial Intelligence in Healthcare Market” 2023 | New Report | Medical Care Global Industry | (129 Pages"
     publishedDateTime: 2023-05-09T10:33:00Z
@@ -585,6 +666,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 46
+  - title: "Enterprise Artificial Intelligence Market SWOT Analysis [2023-2030] Evaluating Your Business Strengths and Weaknesses"
+    excerpt: "May 11, 2023 (The Expresswire) -- 2023-2030 According to our Latest CAGR Research, Enterprise Artificial Intelligence Market Size With The Global Market looks promising in the next 5 years. As of 2023, the global Enterprise Artificial Intelligence market ..."
+    publishedDateTime: 2023-05-11T17:53:00Z
+    webUrl: "https://www.marketwatch.com/press-release/enterprise-artificial-intelligence-market-swot-analysis-2023-2030-evaluating-your-business-strengths-and-weaknesses-2023-05-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 44
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global \"Machine Learning Market\" 2023 to See Massive Growth by 2030 | Research Reports World"
     excerpt: "The Machine Learning Market Scope and Overview Report for 2023 presents a detailed analysis of the latest trends in"
     publishedDateTime: 2023-05-09T10:36:00Z

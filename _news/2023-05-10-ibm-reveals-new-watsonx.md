@@ -119,6 +119,20 @@ related:
       name: TechRepublic
       domain: techrepublic.com
     quality: 68
+  - title: "The Boring Future of Generative AI"
+    excerpt: "ChatGPT’s chaotic streak can be charming. Google’s new chat-style search shows text-generation technology is headed in a much tamer direction."
+    publishedDateTime: 2023-05-11T16:00:00Z
+    webUrl: "https://www.wired.com/story/the-boring-future-of-generative-ai/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 67
+    images:
+      - url: "https://media.wired.com/photos/645c399a7b25a434b1f3bd06/191:100/w_1280,c_limit/Google-IO-2023-Fast%20Forward-Sundar-IO-2023-23_0943.jpg"
+        width: 1280
+        height: 670
+        isCached: true
   - title: "IBM: Remember Watson? It's Still Around, Ready to Give Your Business an AI Upgrade"
     excerpt: "IBM has a new AI and data platform called Watsonx (Opens in a new window) aimed at making it easy for enterprises to take advantage of artificial intelligence. The name Watson fir"
     publishedDateTime: 2023-05-09T13:03:00Z

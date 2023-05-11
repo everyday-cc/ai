@@ -2,6 +2,164 @@
   "page": 56,
   "value": [
     {
+      "path": "_news/2023-03-31-nvidia-rides-the-generative-ai-wave-at-gtc.md",
+      "title": "Nvidia Rides The Generative AI Wave At GTC",
+      "excerpt": "Microsoft is incorporating AI technology into Bing for search and chat and in Microsoft 365 as its Copilot assistant to work tasks. All of these services run on Nvidia GPUs. Microsoft Azure cloud services are already using the new Nvidia H100 GPUs in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tiriasresearch/2023/03/31/nvidia-rides-the-generative-ai-wave-at-gtc/",
+      "originalUrl": "https://www.forbes.com/sites/tiriasresearch/2023/03/31/nvidia-rides-the-generative-ai-wave-at-gtc/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 163,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64265ed735054b4de58ad28b/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 899,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tiriasresearch/2023/03/31/nvidia-rides-the-generative-ai-wave-at-gtc/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2023/03/31/nvidia-rides-the-generative-ai-wave-at-gtc/amp/",
+      "publishedDateTime": "2023-03-30T21:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI Ethics",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-03-31-got-it-ais-elmar-challenges-gpt-4-and-llama-scores-well-on-hallucination-benchmarks.md",
+      "title": "Got It AI’s ELMAR challenges GPT-4 and LLaMa, scores well on hallucination benchmarks",
+      "excerpt": "Conversational AI startup Got It AI has released ELMAR, an LLM for dialog-based chatbot Q&A applications that is smaller than GPT-3.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/got-it-ai-elmar-challenges-gpt-4-and-llama/",
+      "originalUrl": "https://venturebeat.com/ai/got-it-ai-elmar-challenges-gpt-4-and-llama/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/03/bf2f6e_f557172b75c540f9904f2563dee4ac52_mv2.png?w=1200&strip=all",
+          "width": 1198,
+          "height": 592,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/got-it-ai-elmar-challenges-gpt-4-and-llama/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/got-it-ai-elmar-challenges-gpt-4-and-llama/amp/",
+      "publishedDateTime": "2023-03-30T16:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-31-waymo-retires-its-self-driving-chrysler-pacifica-minivan.md",
+      "title": "Waymo retires its self-driving Chrysler Pacifica minivan",
+      "excerpt": "When the Chrysler Pacifica Hybrid AV was first revealed, it might not have been what people expected from the former Google self-driving project turned Alphabet-owned business. The design wasn’t ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/03/30/waymo-retires-its-self-driving-chrysler-pacifica-minivan/",
+      "originalUrl": "https://techcrunch.com/2023/03/30/waymo-retires-its-self-driving-chrysler-pacifica-minivan/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/11/waymo.jpg?w=799",
+          "width": 799,
+          "height": 432,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/03/30/waymo-retires-its-self-driving-chrysler-pacifica-minivan/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/30/waymo-retires-its-self-driving-chrysler-pacifica-minivan/amp/",
+      "publishedDateTime": "2023-03-30T15:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-31-the-view-co-host-sara-haines-warns-everyone-should-be-scared-about-artificial-intelligence.md",
       "title": "'The View' co-host Sara Haines warns 'everyone should be scared' about artificial intelligence",
       "excerpt": "\"The View\" co-host Sara Haines warned Thursday that \"everyone should be scared\" about artificial intelligence if the experts are calling on AI labs to pause development.",
@@ -1042,145 +1200,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-30-artificial-intelligence-delivery-robot-market-report-global-forecast-from-2023-to-2030.md",
-      "title": "Artificial Intelligence Delivery Robot Market Report | Global Forecast From 2023 To 2030",
-      "excerpt": "The Global Artificial Intelligence Delivery Robot market is anticipated to rise at a considerable rate during the forecast period, between 2023 and 2027. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-delivery-robot-market-report-global-forecast-from-2023-to-2030-2023-03-29",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-delivery-robot-market-report-global-forecast-from-2023-to-2030-2023-03-29",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-29T16:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-30-natural-language-processing-nlp-in-healthcare-market-by-2031.md",
-      "title": "Natural Language Processing (NLP) in Healthcare Market by 2031",
-      "excerpt": "The \"Natural Language Processing (NLP) in Healthcare Market\" study describes how the technology industry is evolving",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-in-healthcare-market-by-2031-2023-03-29",
-      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-in-healthcare-market-by-2031-2023-03-29",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-29T12:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-03-30-3-companies-leading-the-charge-to-the-driverless-car-future.md",
-      "title": "3 Companies Leading the Charge to the Driverless Car Future",
-      "excerpt": "Driverless cars, also known as autonomous vehicles, are quickly becoming a reality. With advancements in artificial intelligence and sensor technology, these cars are able to navigate roads and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theglobeandmail.com/investing/markets/indices/TTUT/pressreleases/15522899/3-companies-leading-the-charge-to-the-driverless-car-future/",
-      "originalUrl": "https://www.theglobeandmail.com/investing/markets/indices/TTUT/pressreleases/15522899/3-companies-leading-the-charge-to-the-driverless-car-future/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.barchart.com/contributors-admin/common-images/images/Tech%20(Ecommerce%2C%20Social%20Media%2C%20etc.)/Chip%20During%20Rush%20Hour.jpg",
-          "width": 1600,
-          "height": 1065,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-29T11:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Globe and Mail",
-        "domain": "theglobeandmail.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

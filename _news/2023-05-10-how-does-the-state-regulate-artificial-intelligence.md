@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "What does a leaked Google memo reveal about the future of AI?"
+    excerpt: "Think of Bill Gates’s “Internet tidal wave” memo of 1995, which reoriented Microsoft towards the web; or Jeff Bezos’s “API mandate” memo of 2002, which opened up Amazon’s digital infrastructure, paving the way for modern cloud computing."
+    publishedDateTime: 2023-05-11T13:36:00Z
+    webUrl: "https://www.economist.com/leaders/2023/05/11/what-does-a-leaked-google-memo-reveal-about-the-future-of-ai"
+    type: article
+    provider:
+      name: The Economist
+      domain: economist.com
+    quality: 39
+    images:
+      - url: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20230513_LDD002.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "WV Legislative Interims: How does the state regulate artificial intelligence?"
     excerpt: "Regulating artificial intelligence (AI) is something that West Virginia’s legislators must begin to consider, at least according to some experts.  On Monday, members of the interim Joint Standing Committee on the Judiciary heard from three experts on how AI is being[Read"
     publishedDateTime: 2023-05-09T11:55:00Z

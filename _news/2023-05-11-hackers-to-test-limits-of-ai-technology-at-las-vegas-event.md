@@ -7,7 +7,7 @@ originalUrl: "https://www.nbcnews.com/tech/tech-news/mass-event-will-let-hackers
 webUrl: "https://www.nbcnews.com/tech/tech-news/mass-event-will-let-hackers-test-limits-ai-technology-rcna83708"
 type: article
 quality: 49
-heat: 49
+heat: -1
 published: false
 
 provider:
@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Hackers to test limits of AI at Las Vegas event this summer"
+    excerpt: "The Biden administration is joining forces with Microsoft, Google and other companies to get hackers to see if tools like ChatGPT can be used to cause harm."
+    publishedDateTime: 2023-05-11T17:09:00Z
+    webUrl: "https://www.reviewjournal.com/business/conventions/hackers-to-test-limits-of-ai-at-las-vegas-event-this-summer-2775790/"
+    ampWebUrl: "https://www.reviewjournal.com/business/conventions/hackers-to-test-limits-of-ai-at-las-vegas-event-this-summer-2775790/amp/"
+    cdnAmpWebUrl: "https://www-reviewjournal-com.cdn.ampproject.org/c/s/www.reviewjournal.com/business/conventions/hackers-to-test-limits-of-ai-at-las-vegas-event-this-summer-2775790/amp/"
+    type: article
+    provider:
+      name: Las Vegas Review-Journal
+      domain: reviewjournal.com
+    quality: 59
+    images:
+      - url: "https://www.reviewjournal.com/wp-content/uploads/2023/05/17764760_web1_17764760-0f19e4ef3ff84811b06fbaa753ea19a6.jpg?w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Mass event will let hackers test limits of AI technology"
     excerpt: "No sooner did ChatGPT get unleashed than hackers started “jailbreaking” the artificial intelligence chatbot – trying to override its safeguards so it could blurt out something unhinged or obscene"
     publishedDateTime: 2023-05-10T15:02:00Z

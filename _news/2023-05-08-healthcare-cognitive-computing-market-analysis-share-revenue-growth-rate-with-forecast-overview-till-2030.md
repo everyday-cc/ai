@@ -242,6 +242,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence In Genomics Market worth $2.0 billion | MarketsandMarkets"
+    excerpt: "Artificial Intelligence In Genomics Market in terms of revenue was estimated to be worth $0.5 billion in 2023 and is poised to reach $2.0 billion by 2028, growing at a CAGR of 32.3% from 2023 to 2028 according to a new report by MarketsandMarkets™."
+    publishedDateTime: 2023-05-11T17:53:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/05/11/9812870.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 34
+    images:
+      - url: "https://marketplace.connectwise.com/content/images/thumbs/0000635_skykick_550.png"
+        width: 550
+        height: 353
+        isCached: true
   - title: "3D Facial Recognition Market Top Players, Revenue, Share, Future Trends, Size, Report and Forecast 2023 to 2031"
     excerpt: "Moreover, it has benefits over 2D facial recognition, such as ease in the detection of facial data from videos and 2D images and least affected with illumination issues. With the advancements in 3D facial recognition software and services,"
     publishedDateTime: 2023-05-08T07:48:00Z

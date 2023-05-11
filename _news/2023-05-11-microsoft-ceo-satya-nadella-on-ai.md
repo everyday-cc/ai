@@ -7,7 +7,7 @@ originalUrl: "https://time.com/6278841/microsoft-ceo-satya-nadella-on-artificial
 webUrl: "https://time.com/6278841/microsoft-ceo-satya-nadella-on-artificial-intelligence/"
 type: article
 quality: 84
-heat: 134
+heat: 124
 published: true
 
 provider:
@@ -75,15 +75,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "SymphonyAI collaborates with Microsoft Azure AI for generative AI"
-    excerpt: "SymphonyAI, a leader in high-value enterprise AI SaaS for strategic industries, announced today a strategic collaboration with Microsoft to enhance its portfolio of vertical AI software applications using Microsoft Azure AI,"
-    publishedDateTime: 2023-05-09T18:01:00Z
-    webUrl: "https://www.finextra.com/pressarticle/96754/symphonyai-collaborates-with-microsoft-azure-ai-for-generative-ai"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 49
   - title: "MakeMyTrip ties up with Microsoft for AI-backed trip bookings"
     excerpt: "MakeMyTrip ties up with Microsoft for voice-assisted travel bookings. Microsoft Azure OpenAI Service and Azure Cognitive Services will converse with the user to offer personalised travel recommendatio"
     publishedDateTime: 2023-05-08T13:20:00Z

@@ -23,17 +23,6 @@ images:
     height: 675
     isCached: true
 
-related:
-  - title: "Buffett shares good news on profits, AI thoughts at meeting"
-    excerpt: "Warren Buffett's company said its first-quarter profits soared along with the paper value of its investment portfolio"
-    publishedDateTime: 2023-05-06T23:32:00Z
-    webUrl: "https://abcnews.go.com/US/wireStory/profits-jump-buffetts-company-ahead-annual-meeting-99135913"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 17
-
 secured: "Q9DvAg6LpeSkEzgJeebchBxXEfs5s9UGTgGGO510wPSSmz1vjwJK6sujGgz477PPfA2q0gx1rrEJmdfn+g1f2198pS+7+NMl6hTsJeyDGBqslIhv2s5C94yFMjpscn40nKuOV2qZ0lIxJb+ZTRdBGRtZaJtRn56Lu2FaadmrOYkpN/L6rAR1cZ1qvU66WjQrfWCqsdNEsunM/pMgVN1BIoM8zmqPTCT3wUWcUjCipoo4bdUCrUc0yVavjXdEqIFQGO9YUpMvaDMHk1dSrtfUq/424L9vI+QbhpLZutC3rWpuQIFEl1TEGrhCtSPkgcSldi2PJq4ktWHoXSYFffZv8+5qSBExXOZN02DC2iWwyEKVmbb+Lc6ZPlxhFRQRnYV0JY5IPD/06ScDhX7GWykkxV4Zzu1nHp5LeR6TlMJdJdX0GLjxBkvedM322IE1q59gugtHATFMOUtRHkQEJe0DyXbgToOYh1onf6n9iDX/yBtvWsJNzWtgiJv2kCqQFu9FesUm8Qtd53W+bICAn7ln3g==;TEbPxCTd4yfAtA2tmBXW9w=="
 ---
 

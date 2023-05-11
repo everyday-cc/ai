@@ -6,8 +6,8 @@ publishedDateTime: 2023-05-11T01:41:00Z
 originalUrl: "https://www.defenseone.com/technology/2023/05/us-military-now-has-voice-controlled-bug-drones/386213/"
 webUrl: "https://www.defenseone.com/technology/2023/05/us-military-now-has-voice-controlled-bug-drones/386213/"
 type: article
-quality: 24
-heat: 24
+quality: 26
+heat: 26
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Computer Vision
 
 images:
   - url: "https://cdn.defenseone.com/media/img/cd/2023/05/10/IMG_3002/open-graph.jpg"

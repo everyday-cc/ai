@@ -2,6 +2,135 @@
   "page": 43,
   "value": [
     {
+      "path": "_news/2023-04-14-built-world-ai-is-the-present-and-the-future.md",
+      "title": "Built-world AI is the present and the future",
+      "excerpt": "Since the creation of AI technology, its use in fintech has proved the most popular and profitable. AI technologies can help fintech companies and institutions to keep in touch with their ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.co.uk/built-world-ai-present-future-1714995?user_id=[[email]]",
+      "originalUrl": "https://www.ibtimes.co.uk/built-world-ai-present-future-1714995?user_id=[[email]]",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-13T11:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBTimes UK",
+        "domain": "ibtimes.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-14-amazon-ceo-andy-jassy-says-really-good-ai-models-take-billions-of-dollars-to-train.md",
+      "title": "Amazon CEO Andy Jassy says 'really good' A.I. models take 'billions of dollars' to train",
+      "excerpt": "Amazon Web Services is launching the Bedrock service for generative artificial intelligence in limited ... The most formidable competition for Amazon's AWS business comes from Microsoft, which ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/04/13/aws-launches-bedrock-generative-ai-service-titan-llms.html",
+      "originalUrl": "https://www.cnbc.com/2023/04/13/aws-launches-bedrock-generative-ai-service-titan-llms.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106953080-1646863596820-jas.jpg?v=1681389001",
+          "width": 3000,
+          "height": 1999,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2023/04/13/aws-launches-bedrock-generative-ai-service-titan-llms.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/04/13/aws-launches-bedrock-generative-ai-service-titan-llms.html",
+      "publishedDateTime": "2023-04-13T11:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-14-5-ai-marketing-tools-every-startup-should-know-about.md",
+      "title": "5 AI Marketing Tools Every Startup Should Know About",
+      "excerpt": "Discover how artificial intelligence can transform marketing for startups and level the playing field. In a world where the competition is fierce and the pace of change is relentless, startups are under pressure to find ways to stay ahead of the curve.",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/growing-a-business/5-ways-ai-can-transform-your-startups-marketing/448470",
+      "originalUrl": "https://www.entrepreneur.com/growing-a-business/5-ways-ai-can-transform-your-startups-marketing/448470",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-13T11:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
       "path": "_news/2023-04-14-machine-learning-examples-in-the-real-world-and-for-seo.md",
       "title": "Machine Learning Examples In The Real World (And For SEO)",
       "excerpt": "Learn about types of machine learning and take inspiration from seven real world examples and eight examples directly applied to SEO. As an SEO professional, you’ve heard about ChatGPT and BARD ...",
@@ -1013,117 +1142,6 @@
         "AI in Healthcare",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-04-13-buy-or-build-an-autonomous-race-car-to-take-the-checkered-flag.md",
-      "title": "Buy Or Build An Autonomous Race Car To Take The Checkered Flag",
-      "excerpt": "For those of us whose interest and expertise lie in software, Amazon Web Services just launched AWS DeepRacer: a complete package for exploring machine learning on autonomous vehicles.",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2018/11/30/buy-or-build-an-autonomous-race-car-to-take-the-checkered-flag/",
-      "originalUrl": "https://hackaday.com/2018/11/30/buy-or-build-an-autonomous-race-car-to-take-the-checkered-flag/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2018/11/aws-deepracer-800x450.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-12T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-13-honda-planning-self-driving-electric-vehicle-fitted-with-ai.md",
-      "title": "Honda planning self-driving electric vehicle fitted with AI",
-      "excerpt": "Honda Motor Co. said it is developing a self-driving compact electric car equipped with artificial intelligence (AI) that automatically picks up passengers at any location of their choosing. Honda ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.asahi.com/ajw/articles/14760121",
-      "originalUrl": "https://www.asahi.com/ajw/articles/14760121",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-12T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "朝日新聞社",
-        "domain": "asahi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-13-up-fintech-unveils-tigergpt-the-industrys-first-ai-investment-assistant.md",
-      "title": "UP Fintech unveils TigerGPT, the industry's first AI investment assistant",
-      "excerpt": "To ensure this doesn’t happen in the future, please enable Javascript and cookies in your browser. Is this happening to you frequently? Please report it on our ...",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/news/3956059-up-fintech-unveils-tigergpt-the-industrys-first-ai-investment-assistant",
-      "originalUrl": "https://seekingalpha.com/news/3956059-up-fintech-unveils-tigergpt-the-industrys-first-ai-investment-assistant",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-12T14:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

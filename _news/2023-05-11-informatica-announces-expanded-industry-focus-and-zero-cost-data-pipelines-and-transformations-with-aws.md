@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "Informatica goes all in on generative AI with Claire GPT"
+    excerpt: "Informatica today announced Claire GPT, a generative AI tool aiming to help enterprises with data management tasks."
+    publishedDateTime: 2023-05-09T13:00:00Z
+    webUrl: "https://venturebeat.com/data-infrastructure/informatica-goes-all-in-on-generative-ai-with-claire-gpt/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 47
   - title: "Informatica Unveils Expanded Industry Focus and Zero Cost Data Pipelines and Transformations with AWS"
     excerpt: "Informatica, an enterprise cloud data management leader, built upon their years-long relationship with Amazon Web Services (AWS)."
     publishedDateTime: 2023-05-11T10:26:00Z
@@ -41,21 +50,7 @@ related:
         width: 1500
         height: 844
         isCached: true
-  - title: "Artificial Intelligence Can Be Transformative Technology, Only With Appropriate Restrictions And Safeguards Against Malicious Use"
-    excerpt: "Check Point Research (CPR), the Threat Intelligence arm of Check Point® Software Technologies Ltd. (NASDAQ: CHKP) and a leading provider of cyber"
-    publishedDateTime: 2023-05-10T09:36:00Z
-    webUrl: "https://menafn.com/1106215659/Artificial-Intelligence-Can-Be-Transformative-Technology-Only-With-Appropriate-Restrictions-And-Safeguards-Against-Malicious-Use"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 25
-    images:
-      - url: "https://menafn.com/updates/pr/2023-05/10/M_22cfaimage_story.jpg"
-        width: 946
-        height: 1024
-        isCached: true
 
-secured: "2VMkv0cz0WZoi6RqF6q7TLq5CVdUiF5b+ADi6FaHVDf41EEru9phxlz0Vl6k4wI15dRaFRJCw0Gda+ETq8yCXtV+cMedsAh+hzdMkWZEQ367upso9EtZGXZ/NE8mde8pUsDbg5ueXNHuQatli1cXCE1PoPYB4jgwt6lWpv8ScsvASotxNTUPBY5Tvn9aQOvw65j9+cZtYGokPqr4JcXbt29Sr0TEkUhtAGaVhS/ODRMvUC8xhArQD4W7qpOStPe8XsVTR+5GJddG/I3Ft/u+jOuyXr1g8rVV4jrUNjhX1LBznwPe66sYyvx2yptyjVh/LXB0YImsC/jcsASd62Wn6j5/b8FFE2nJdKqqZNH8Uo4=;mHfm8qqvoijmN14+bv0Now=="
+secured: "lCxt6FKsIbuYa5TRdVoPfeYBt7oIk6SU1v7lQrdGBP4aujxv/TAeNzNO9N/ZisdywXFTzVLUN8lXFWuOsAGgfDRF4zmy0Djo59m0mUMR+mkHgXQsPm20Gpuy/4uD0K+MURlNfKbLFIybCTAsWLOeBDmxvGNLVkPl06LGPZihlSft1OnI1+renDobebsnBGum1Cr7b08gBAT9+Ekru+YufA3aE+LIfMLs6DD4iSp5tWPbd37UxeTCTQi5Mitcl+sy5uTfOZyFrqsKGuDCboUZRUGvJdangTSaKFEs4xp3+CiyAKl9craaS1RIFVAImjUjraQajU5oBIS12yanucXRXGQqRQebVpM74L7Y3dIk0WcJlHxaUBGTWfVvexsdfMsUHagS8Gx+rHbpks/yzEXMCt2Cfd2chlpGhmbP6S49IR1mwQBk795AxTwlT3n8SsWxct/5wElxAolgBQHwzVOkJ8oh7yp3HOs5/W/W4gZUkB7Fg7nuIyt3wRbpagLVL/lOOhPXFbVwJYfOi4hOObgbzQ==;pilZnhiPl6fuQgQGVsUW+Q=="
 ---
 

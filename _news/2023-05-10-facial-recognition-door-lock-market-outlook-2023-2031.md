@@ -52,6 +52,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 66
+  - title: "Computer Vision Software Market Share 2023|Bussiness Research And Forecast by 2029"
+    excerpt: "Computer Vision Software Market | Outlook 2023-2028 | Pre and Post-COVID Research is Covered, Report Information |"
+    publishedDateTime: 2023-05-11T14:19:00Z
+    webUrl: "https://www.marketwatch.com/press-release/computer-vision-software-market-share-2023bussiness-research-and-forecast-by-2029-2023-05-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 63
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Emotion Detection & Recognition Market Size To Cross USD 136.2 Billion By 2031 | Exclusive Report"
     excerpt: "Emotion Detection and Recognition Market Research Substantial growth of the Internet of Things technology, increase in popularity of wear"
     publishedDateTime: 2023-05-09T08:53:00Z

@@ -38,15 +38,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "Spotify ejects thousands of AI-made songs in purge of fake streams"
-    excerpt: "Spotify has removed tens of thousands of songs from artificial intelligence music start-up Boomy, ramping up policing of its platform amid complaints of fraud and clutter across streaming services. In recent months the music industry has been confronting the rise of AI-generated songs and,"
-    publishedDateTime: 2023-05-09T13:20:00Z
-    webUrl: "https://arstechnica.com/information-technology/2023/05/spotify-ejects-thousands-of-ai-made-songs-in-purge-of-fake-streams/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 47
 
 secured: "K7MQrSybObzQtQ3M9bLm74jmXSDBg32GrEvGbJO14564miMvxkzlKaA1IhXJVl+Q1lG8Oxlq8wGOPq7KWdWKufTAi4H1GMDVUvRPUoBxDlESBiGH4+XCuRdBEDAQ3XXcM0+SS151ULlBT2rwzQ9TPd1x7OiU/ezR0Bj3ctpBCnHa0HsnUt0bMDeAytEIi9B5YKH14TTfjyFwCP6rDsbn0s45XFXeOUQNu8/p77rXr6SxjMySw8Slfpy0rwCgHXkRbh1DwqB2N85yhnk5GRnV8C+WVqCFerCpOQAQeenLdGN2UwlKr6EugLXPACRhZ3lXAjHXvvBodZEWS6APrmrRuwHg8bybojeJncynDrGZyvzog4clTAJdd1xMRm5V+li/D7WOG9zn+P7jO2mPBTRXsfahLQ82tEIXxWdBYYiz3HvbfYOZ0MCPX1hnQClKtfrpxIAXV9Np0ZGdInejSTY3qNKjlSQc/c4hHeft6QFpmfazL9k1F8xxpaZyJeq+3nzDX7Xb5oWfWI7fA9FfT/OTIg==;/58Cqn2gpmwtc+iGfgwnBQ=="
 ---

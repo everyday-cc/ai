@@ -9,8 +9,8 @@ ampWebUrl: "https://www.dcnewsnow.com/news/local-news/virginia/shenandoah-county
 cdnAmpWebUrl: "https://www-dcnewsnow-com.cdn.ampproject.org/c/s/www.dcnewsnow.com/news/local-news/virginia/shenandoah-county/valley-health-system-hospital-innovations-include-robots-at-nursing-stations/amp/"
 type: article
 quality: 56
-heat: 66
-published: false
+heat: 76
+published: true
 
 provider:
   name: dcnewsnow
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Machine-learning innovation in RayStation: prioritizing speed, automation, efficiency"
+    excerpt: "RaySearch Laboratories and its clinical customers are leveraging advances in machine learning to reimagine the radiotherapy workflow"
+    publishedDateTime: 2023-05-11T16:11:00Z
+    webUrl: "https://physicsworld.com/a/machine-learning-innovation-in-raystation-prioritizing-speed-automation-efficiency/"
+    type: article
+    provider:
+      name: Physics World
+      domain: physicsworld.com
+    quality: 17
+    images:
+      - url: "https://physicsworld.com/wp-content/uploads/2023/05/RayStation-Deep-Learning-segmentation-models.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Atomic Revolutionizes Payroll System Integrations with SmartAuth, its Groundbreaking AI-Powered Authentication Engine"
     excerpt: "Atomic, a leading provider of payroll system integrations, has unveiled SmartAuth, a new artificial intelligence-powered authentication engine. This b"
     publishedDateTime: 2023-05-10T12:05:00Z

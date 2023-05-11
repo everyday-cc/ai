@@ -2,6 +2,154 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-05-11-google-unveils-advanced-ai-model-to-beef-up-bard-search-maps-and-more.md",
+      "title": "Google unveils advanced AI model to beef up Bard, Search, Maps and more",
+      "excerpt": "With its new PaLM 2 large language model, Google said its key products and services will be simpler and smarter thanks to a huge dose of AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/google-unveils-advanced-ai-bard-search-maps/",
+      "originalUrl": "https://www.techrepublic.com/article/google-unveils-advanced-ai-bard-search-maps/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 201,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/wp-content/uploads/2023/05/tr51023-Figure-Top-Google-unveils-advanced-AI-model-to-beef-up-Bard-Search-Maps-and-more.jpg",
+          "width": 1080,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/article/google-unveils-advanced-ai-bard-search-maps/amp/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/google-unveils-advanced-ai-bard-search-maps/amp/",
+      "publishedDateTime": "2023-05-10T15:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2023-05-11-regtech-artificial-intelligence-bank-of-valletta-adopts-resistant-ais-aml-product-to-tackle-financial-crime.md",
+      "title": "Regtech, Artificial Intelligence: Bank of Valletta Adopts Resistant AI’s AML Product to Tackle Financial Crime",
+      "excerpt": "Bank of Valletta, the largest bank in Malta, is to adopt Resistant AI's Transaction Forensics product for anti-money laundering (AML).",
+      "sourceUrl": null,
+      "webUrl": "https://www.crowdfundinsider.com/2023/05/206892-regtech-artificial-intelligence-bank-of-valletta-adopts-resistant-ais-aml-product-to-tackle-financial-crime/",
+      "originalUrl": "https://www.crowdfundinsider.com/2023/05/206892-regtech-artificial-intelligence-bank-of-valletta-adopts-resistant-ais-aml-product-to-tackle-financial-crime/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2023/05/No-Entrance-drugs-begging-loitering-soliciting-crime.jpeg",
+          "width": 1280,
+          "height": 1019,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.crowdfundinsider.com/2023/05/206892-regtech-artificial-intelligence-bank-of-valletta-adopts-resistant-ais-aml-product-to-tackle-financial-crime/amp/",
+      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/05/206892-regtech-artificial-intelligence-bank-of-valletta-adopts-resistant-ais-aml-product-to-tackle-financial-crime/amp/",
+      "publishedDateTime": "2023-05-10T14:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crowdfund Insider",
+        "domain": "crowdfundinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-11-microsoft-ceo-satya-nadella-on-ai.md",
+      "title": "Microsoft CEO Satya Nadella on AI",
+      "excerpt": "TIME talks with Microsoft CEO Satya Nadella about Copilot and company's use of AI Write to Andrew D. Johnson at andrew.johnson@time.com.",
+      "sourceUrl": null,
+      "webUrl": "https://time.com/6278841/microsoft-ceo-satya-nadella-on-artificial-intelligence/",
+      "originalUrl": "https://time.com/6278841/microsoft-ceo-satya-nadella-on-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.jwplayer.com/v2/media/N9qPsYLv/poster.jpg?width&#x3D;720",
+          "width": 720,
+          "height": 406,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-10T14:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Time",
+        "domain": "time.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/time.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-10-introducing-project-gameface-a-hands-free-ai-powered-gaming-mouse.md",
       "title": "Introducing Project Gameface: A hands-free, AI-powered gaming mouse",
       "excerpt": "Project Gameface, a new open-source hands-free gaming mouse has the potential to make gaming more accessible.",
@@ -505,6 +653,58 @@
       ]
     },
     {
+      "path": "_news/2023-05-10-supercharging-search-with-generative-ai.md",
+      "title": "Supercharging Search with generative AI",
+      "excerpt": "We’re starting with an experiment in Search Labs called SGE, Search Generative Experience, which uses generative AI.",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/products/search/generative-ai-search/",
+      "originalUrl": "https://blog.google/products/search/generative-ai-search/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 429,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/socialshare-test.width-1300.jpg",
+          "width": 1300,
+          "height": 731,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/products/search/generative-ai-search/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/search/generative-ai-search/amp/",
+      "publishedDateTime": "2023-05-10T10:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-10-whats-ahead-for-bard-more-global-more-visual-more-integrated.md",
       "title": "What’s ahead for Bard: More global, more visual, more integrated",
       "excerpt": "We’re ending the waitlist for Bard, adding support for more regions, introducing images and connecting with partner apps.",
@@ -955,160 +1155,6 @@
       ]
     },
     {
-      "path": "_news/2023-05-10-zendesk-ai-leveling-up-with-generative-ai-for-a-more-intuitive-and-intelligent-cx-platform.md",
-      "title": "Zendesk AI: Leveling up with generative AI for a more intuitive and intelligent CX platform",
-      "excerpt": "Zendesk announced new AI capabilities including advanced CX bots, AI-powered assistance for human CX agents and intelligent triage.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/zendesk-ai-leveling-up-with-generative-ai-for-a-more-intuitive-and-intelligent-cx-platform/",
-      "originalUrl": "https://venturebeat.com/ai/zendesk-ai-leveling-up-with-generative-ai-for-a-more-intuitive-and-intelligent-cx-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2016/02/customer-experience-e1660171789318.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 781,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/zendesk-ai-leveling-up-with-generative-ai-for-a-more-intuitive-and-intelligent-cx-platform/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/zendesk-ai-leveling-up-with-generative-ai-for-a-more-intuitive-and-intelligent-cx-platform/amp/",
-      "publishedDateTime": "2023-05-10T08:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-10-new-era-of-generative-ai-finally-delivers-on-promise.md",
-      "title": "New Era Of Generative AI Finally Delivers On Promise",
-      "excerpt": "Artificial intelligence is not new, but the public launch of generative AI has led to an explosion of AI models and implementations that are finally delivering some of the potential promise of artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tonybradley/2023/05/10/new-era-of-generative-ai-finally-delivers-on-promise/",
-      "originalUrl": "https://www.forbes.com/sites/tonybradley/2023/05/10/new-era-of-generative-ai-finally-delivers-on-promise/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/645bab625656905e0c4bd205/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tonybradley/2023/05/10/new-era-of-generative-ai-finally-delivers-on-promise/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tonybradley/2023/05/10/new-era-of-generative-ai-finally-delivers-on-promise/amp/",
-      "publishedDateTime": "2023-05-10T07:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-10-meps-to-vote-on-proposed-ban-on-big-brother-ai-facial-recognition-on-streets.md",
-      "title": "MEPs to vote on proposed ban on ‘Big Brother’ AI facial recognition on streets",
-      "excerpt": "Thursday’s vote in EU parliament seen as key test in formation of world’s first artificial intelligence laws",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/technology/2023/may/10/meps-to-vote-on-proposed-ban-on-big-brother-ai-facial-recognition-on-streets?ref=upstract.com",
-      "originalUrl": "https://www.theguardian.com/technology/2023/may/10/meps-to-vote-on-proposed-ban-on-big-brother-ai-facial-recognition-on-streets?ref=upstract.com",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/aa6324386e9fe52d51b229a9ab13f470938263ff/0_202_3500_2100/master/3500.jpg?width=620&quality=85&auto=format&fit=max&s=79dac11ea158833cc0f2edcd050e78c0",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/technology/2023/may/10/meps-to-vote-on-proposed-ban-on-big-brother-ai-facial-recognition-on-streets",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/may/10/meps-to-vote-on-proposed-ban-on-big-brother-ai-facial-recognition-on-streets",
-      "publishedDateTime": "2023-05-10T07:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-05-10-publish-predictive-dashboards-in-amazon-quicksight-using-ml-predictions-from-amazon-sagemaker-canvas.md",
       "title": "Publish predictive dashboards in Amazon QuickSight using ML predictions from Amazon SageMaker Canvas",
       "excerpt": "Understanding business trends, customer behavior, sales revenue, increase in demand, and buyer propensity all start with data. Exploring, analyzing, interpreting, and finding trends in data is essential for businesses to achieve successful outcomes. Business analysts play a pivotal role in facilitating",
@@ -1203,58 +1249,6 @@
         "AI",
         "AWS AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-05-10-2023-mobile-speech-recognition-software-dynamic-report-by-2030.md",
-      "title": "2023 Mobile Speech Recognition Software | Dynamic Report By 2030",
-      "excerpt": "Mobile Speech Recognition Software Market | Outlook 2023-2028 | Pre and Post-COVID Research is Covered, Report",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/2023-mobile-speech-recognition-software-dynamic-report-by-2030-2023-05-10",
-      "originalUrl": "https://www.marketwatch.com/press-release/2023-mobile-speech-recognition-software-dynamic-report-by-2030-2023-05-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-10T04:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

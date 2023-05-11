@@ -130,15 +130,6 @@ related:
       name: enterprisetimes.co.uk
       domain: enterprisetimes.co.uk
     quality: 19
-  - title: "Creating Business Content With Artificial Intelligence"
-    excerpt: "Sometimes all it takes is a word or concept to get a writer \"unstuck.\" ChatGPT is a great tool to spark the infamous light bulb moment. Ask it for ideas generally related to the concept you are writing about."
-    publishedDateTime: 2023-05-09T14:44:00Z
-    webUrl: "https://www.inc.com/inc-masters/creating-business-content-with-artificial-intelligence.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 17
 
 secured: "Yr40KtazUri4SfXPgnlYRzF7TRP11auS1tIgTdnlviGy2TuDRACJayC39CyW1KTXNBsTnhEeC1FLFmkHHUBd7dG7/Is+BWcfVXTcNAoWeBINBSJsMKeky4ib4gAKXJygGAPVuJdDvXSR9JjOzSwWJSbcGOCmBoKQ7BJ2M0I4ZCZ5rEg/LkDUTIwc0VZ/LmSuqAbVFe9YK3VFrnIDJAa+kERRrglldncImwE2VQpdHCl1phukQgWHUT59pPIIjLU7MyW2uFP2JxQ2cNpqUt+jMVnbtpHPy4lIOPtLAhQsM1Ru2IwFLa2/RbnU4zMXNNtx1Ai3QzNfSNvVMNNoyVEV4YbdYKI+Uv0wUSMuYVCzu4XJRa9KoHfcCHrsGMhh48yb20FS0qeVECtUq4zIsnRy+2j/bjsbnxjoO3Qdh2VMcuswFHgmN4qELFS7UPrnkBIVpeUJ1EPHlHjbW368ZYkRWlWxwiiBUYzAe6K5mhPMzp6DWDERQ4egpNefIUI9hgpnWNbHxKQLbdH4idoXPAQOxg==;43O9uPOSIVM+3BfLQuMnkg=="
 ---

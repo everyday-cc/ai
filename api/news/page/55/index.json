@@ -2,6 +2,143 @@
   "page": 55,
   "value": [
     {
+      "path": "_news/2023-04-01-breakthrough-google-ai-based-tiny-syringe-to-inject-gene-therapy-tumour-killing-drugs.md",
+      "title": "Breakthrough! Google AI-based tiny syringe to inject gene therapy, tumour-killing drugs",
+      "excerpt": "A team of researchers has harnessed Google’s AI venture DeepMind to develop a bacterial injection system which can inject proteins, including cancer-killing drugs and gene therapies, directly into human cells.",
+      "sourceUrl": null,
+      "webUrl": "https://www.orissapost.com/breakthrough-google-ai-based-tiny-syringe-to-inject-gene-therapy-tumour-killing-drugs/",
+      "originalUrl": "https://www.orissapost.com/breakthrough-google-ai-based-tiny-syringe-to-inject-gene-therapy-tumour-killing-drugs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-31T18:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "orissapost",
+        "domain": "orissapost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-01-ai-advocates-say-theres-a-place-for-apps-like-chat-gpt-google-bard-in-classrooms.md",
+      "title": "AI advocates say there’s a place for apps like Chat GPT, Google Bard in classrooms",
+      "excerpt": "Advocates for artificial intelligence say there have been no widespread reports of cheating or harmful content in classrooms that have implemented AI learning for kids.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/video/6323718971112",
+      "originalUrl": "https://www.foxnews.com/video/6323718971112",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/23c944fa-10c9-4c29-9a94-7aa08ed6c99a/a92416f3-8ea9-45c6-8fd8-9ad16d08a3fa/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "width": 1024,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-31T18:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-01-watch-us-try-to-break-google-bard-and-bing-ai.md",
+      "title": "Watch us try to break Google Bard and Bing AI",
+      "excerpt": "We asked Google Bard and Microsoft's Bing AI a series of questions to see which is better at delivering facts, replacing me at my job and participating in existential debates..",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/watch-us-try-to-break-google-bard-and-bing-ai-153052165.html",
+      "originalUrl": "https://www.engadget.com/watch-us-try-to-break-google-bard-and-bing-ai-153052165.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/ssQcICIN2fLmn_9D4la6Pg--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-03/595f87d0-cfd5-11ed-b95f-8ab363faefce.cf.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/watch-us-try-to-break-google-bard-and-bing-ai-153052165.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/watch-us-try-to-break-google-bard-and-bing-ai-153052165.html",
+      "publishedDateTime": "2023-03-31T17:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "YAHOO!News",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-01-deepminds-ai-used-to-develop-tiny-syringe-for-injecting-gene-therapy-and-tumor-killing-drugs.md",
       "title": "DeepMind’s AI used to develop tiny ‘syringe’ for injecting gene therapy and tumor-killing drugs",
       "excerpt": "Scientists have developed a molecular “syringe” that can inject proteins, including cancer-killing drugs and gene therapies, directly into human cells. And the researchers did it using an artificial intelligence (AI) program made by Google’s DeepMind.",
@@ -1075,164 +1212,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-31-nvidia-rides-the-generative-ai-wave-at-gtc.md",
-      "title": "Nvidia Rides The Generative AI Wave At GTC",
-      "excerpt": "Microsoft is incorporating AI technology into Bing for search and chat and in Microsoft 365 as its Copilot assistant to work tasks. All of these services run on Nvidia GPUs. Microsoft Azure cloud services are already using the new Nvidia H100 GPUs in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tiriasresearch/2023/03/31/nvidia-rides-the-generative-ai-wave-at-gtc/",
-      "originalUrl": "https://www.forbes.com/sites/tiriasresearch/2023/03/31/nvidia-rides-the-generative-ai-wave-at-gtc/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 163,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64265ed735054b4de58ad28b/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 899,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tiriasresearch/2023/03/31/nvidia-rides-the-generative-ai-wave-at-gtc/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2023/03/31/nvidia-rides-the-generative-ai-wave-at-gtc/amp/",
-      "publishedDateTime": "2023-03-30T21:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI Ethics",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-03-31-got-it-ais-elmar-challenges-gpt-4-and-llama-scores-well-on-hallucination-benchmarks.md",
-      "title": "Got It AI’s ELMAR challenges GPT-4 and LLaMa, scores well on hallucination benchmarks",
-      "excerpt": "Conversational AI startup Got It AI has released ELMAR, an LLM for dialog-based chatbot Q&A applications that is smaller than GPT-3.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/got-it-ai-elmar-challenges-gpt-4-and-llama/",
-      "originalUrl": "https://venturebeat.com/ai/got-it-ai-elmar-challenges-gpt-4-and-llama/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/03/bf2f6e_f557172b75c540f9904f2563dee4ac52_mv2.png?w=1200&strip=all",
-          "width": 1198,
-          "height": 592,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/got-it-ai-elmar-challenges-gpt-4-and-llama/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/got-it-ai-elmar-challenges-gpt-4-and-llama/amp/",
-      "publishedDateTime": "2023-03-30T16:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-31-waymo-retires-its-self-driving-chrysler-pacifica-minivan.md",
-      "title": "Waymo retires its self-driving Chrysler Pacifica minivan",
-      "excerpt": "When the Chrysler Pacifica Hybrid AV was first revealed, it might not have been what people expected from the former Google self-driving project turned Alphabet-owned business. The design wasn’t ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/03/30/waymo-retires-its-self-driving-chrysler-pacifica-minivan/",
-      "originalUrl": "https://techcrunch.com/2023/03/30/waymo-retires-its-self-driving-chrysler-pacifica-minivan/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/11/waymo.jpg?w=799",
-          "width": 799,
-          "height": 432,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/03/30/waymo-retires-its-self-driving-chrysler-pacifica-minivan/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/30/waymo-retires-its-self-driving-chrysler-pacifica-minivan/amp/",
-      "publishedDateTime": "2023-03-30T15:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

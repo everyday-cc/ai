@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "UK's First Driverless Bus Service To Begin In Scotland Next Week"
+    excerpt: "The UK will roll out its first driverless bus network in Scotland next week with drivers on standby behind the steering wheel, ready to take control should an emergency arise."
+    publishedDateTime: 2023-05-11T17:07:00Z
+    webUrl: "https://www.ndtv.com/world-news/uks-first-driverless-bus-service-to-begin-in-scotland-next-week-4026830"
+    ampWebUrl: "https://www.ndtv.com/world-news/uks-first-driverless-bus-service-to-begin-in-scotland-next-week-4026830/amp/1"
+    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/uks-first-driverless-bus-service-to-begin-in-scotland-next-week-4026830/amp/1"
+    type: article
+    provider:
+      name: NDTV
+      domain: ndtv.com
+    quality: 59
+    images:
+      - url: "https://c.ndtvimg.com/2023-02/lc9brad_e-bus-generic-_625x300_17_February_23.jpg"
+        width: 650
+        height: 400
+        isCached: true
   - title: "Driverless buses to start running next week"
     excerpt: "In a UK first, Stagecoach will begin using driverless buses on services across the Forth Road Bridge from 15 May. The route will be 14 miles long in total from the Ferrytoll Park and Ride in Fife"
     publishedDateTime: 2023-05-11T06:08:00Z
@@ -56,6 +72,6 @@ related:
         height: 900
         isCached: true
 
-secured: "L+gsyU7O+H+4/HM4RMEF/bWEs/Jz/+0xQNQmwHm7Hs5KeqRfBYKSfOT246APsWcL8//TCBcbbAqceyIb/pvcXPpjvo0yliPYGBufCzrcuOd8M7y42hafS1lWiIalAoxTzZXeOEYzsfDaCcGyEsXg12385Z1QS+9kngbL+9TU5zBUMIeDUQ6lwEg7oYQKebjy5z/BN+2e6hb27LjgUN1bNhizVa7CZ5HwjbkjWaX21rYVPje98bSS14yabrEJZAj65oXCS6ZmO/DW4AGrv56MB9aP48iYTmjUDgo9S9836b8KljL4+lYqKmS4N3+WVqmnyT8VVNRsXHDY54UgxYSp+61W3HEyZmdaZVHLyo1DdBM=;4WjFztd4oXe/G4ukAzdX+Q=="
+secured: "h3wApDfEHd0ORFhhjhn/MGZ9PdMF6ehpNfN0guDpAHg8c9wXDhVvQg5/JYr3mN1prUv6zxUygM/KH3HqP4sDbEnypjmo9MSHguqi6V/GHrXmVfTZLemtTNZqer9zHcBCaiFic4ilDJZo7mfyA9QJIDZBpjrn7KDsEbAM9sCBX5ngWLmzZdf8Hjwj8lTdr+2ZzsldHnc3xMlEcmkNsfTG5nyvNSfOkolyTVurU6k/aUc+eqll2poZhdfdQyiKc5i9vRPaixIjLw+Lf+uIfvjhKNyAOfcy9pEude/AZ4gAYYUuYIecjPA6FzFfjV9xPKnDsx1e/fZDmfmp6WS3T7Ug+X8Gqyj2hP2312RkN40gW+f9FDoXmOZdZltpACLG2keqiGuLeHEjst3G2Qm2LDQfzYMqFpIMPINvKkA5zpRUn2A6qpMvIQmypNXl5GfQ15iAHo5oXKDtYcDsN/9seB8KkjhIXBlWKA0DlgMqG/qAn9frk1WaKKq+6FlZpPsR6v2h3eDV2vGqXD6tpVBIrOT2Tw==;nN58doDrsmpCMa9YmRUcUQ=="
 ---
 

@@ -2,6 +2,163 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-05-07-how-will-we-know-when-artificial-intelligence-has-become-sentient.md",
+      "title": "How Will We Know When Artificial Intelligence Has Become Sentient?",
+      "excerpt": "Artificial intelligence research has accelerated in recent years, and people are interacting with AI more frequently. In-home AI assistants and self-driving cars were once things out of science fiction",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/finance/how-will-we-know-when-artificial-intelligence-has-become/451129",
+      "originalUrl": "https://www.entrepreneur.com/finance/how-will-we-know-when-artificial-intelligence-has-become/451129",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/providers/due/hero-image-due-451129.jpeg",
+          "width": 1024,
+          "height": 573,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-07T06:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Autos",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-05-07-us-sanctions-drive-chinese-firms-to-advance-ai-without-latest-chips.md",
+      "title": "U.S. Sanctions Drive Chinese Firms to Advance AI Without Latest Chips",
+      "excerpt": "Chinese companies racing to catch up with American AI leaders get creative as U.S. sanctions cut them off from the most advanced chips.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/u-s-sanctions-drive-chinese-firms-to-advance-ai-without-latest-chips-f6aed67f",
+      "originalUrl": "https://www.wsj.com/articles/u-s-sanctions-drive-chinese-firms-to-advance-ai-without-latest-chips-f6aed67f",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 194,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-776300/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-07T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-07-ai-courses-what-it-is-how-it-works-and-benefits.md",
+      "title": "AI Courses: What It Is, How It Works And Benefits",
+      "excerpt": "What Is An AI Course? Artificial intelligence or AI is no longer restricted to the world of science-fiction or movies, in fact AI is something which we are dealing with on an everyday basis. Whether it is solving your queries via live chat bots or chatting with Siri or Alexa,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/advisor/in/education/artificial-intelligence-courses/",
+      "originalUrl": "https://www.forbes.com/advisor/in/education/artificial-intelligence-courses/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/x/https://www.forbes.com/advisor/in/wp-content/uploads/2023/04/marvin-meyer-SYTO3xs06fU-unsplash-Cropped.jpg",
+          "width": 960,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-07T02:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-07-is-artificial-intelligence-good-for-education.md",
       "title": "Is artificial intelligence good for education?",
       "excerpt": "This past week, a student called me to request an interview for an assignment. The topic was artificial intelligence and its effect on the ivory tower.",
@@ -1065,154 +1222,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-06-biden-administration-takes-action-to-promote-responsible-ai-innovation.md",
-      "title": "Biden administration takes action to promote responsible AI innovation",
-      "excerpt": "The Biden administration pushes responsible AI with R&D investment, policymaking, and assessments of current generative AI systems.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/biden-administration-takes-action-to-promote-responsible-ai-innovation/",
-      "originalUrl": "https://venturebeat.com/ai/biden-administration-takes-action-to-promote-responsible-ai-innovation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/04/annevb_chatbots_and_AI_everywhere_all_at_once_-_tech_colorful_e_beb92de9-8091-4437-9e29-d568ea8d4b74.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/biden-administration-takes-action-to-promote-responsible-ai-innovation/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/biden-administration-takes-action-to-promote-responsible-ai-innovation/amp/",
-      "publishedDateTime": "2023-05-05T10:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-05-build-an-image-search-engine-with-amazon-kendra-and-amazon-rekognition.md",
-      "title": "Build an image search engine with Amazon Kendra and Amazon Rekognition",
-      "excerpt": "In this post, we discuss a machine learning (ML) solution for complex image searches using Amazon Kendra and Amazon Rekognition. Specifically, we use the example of architecture diagrams for complex images due to their incorporation of numerous different visual icons and text. With the internet, searching",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-an-image-search-engine-with-amazon-kendra-and-amazon-rekognition/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-an-image-search-engine-with-amazon-kendra-and-amazon-rekognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/05/05/image-search-kendra-rekognition.jpg",
-          "width": 958,
-          "height": 477,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-05T09:45:46-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2023-05-05-meta-hires-ai-team-of-uk-chip-unicorn-graphcore.md",
-      "title": "Meta hires AI team of UK chip unicorn Graphcore",
-      "excerpt": "Meta has hired UK chip unicorn Graphcore's Oslo-based team that was working on AI networking technology till late last year. The chip startup shuttered its Oslo office as part of its restructuring plans announced in October 2022,",
-      "sourceUrl": null,
-      "webUrl": "https://inshorts.com/en/news/meta-hires-ai-team-of-uk-chip-unicorn-graphcore-1683303868650",
-      "originalUrl": "https://inshorts.com/en/news/meta-hires-ai-team-of-uk-chip-unicorn-graphcore-1683303868650",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2023/05_may/5_fri/img_1683298262597_763.jpg?",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://inshorts.com/m/en/amp_news/meta-hires-ai-team-of-uk-chip-unicorn-graphcore-1683303868650",
-      "cdnAmpWebUrl": "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/meta-hires-ai-team-of-uk-chip-unicorn-graphcore-1683303868650",
-      "publishedDateTime": "2023-05-05T09:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Inshorts",
-        "domain": "inshorts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

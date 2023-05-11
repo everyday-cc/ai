@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/autonomous-or-driverless
 webUrl: "https://www.marketwatch.com/press-release/autonomous-or-driverless-cars-market-report-talks-about-current-market-share-2023-2030-2023-05-11"
 type: article
 quality: 61
-heat: 81
+heat: 91
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
       - url: "https://d.ibtimes.com/en/full/4455931/driverless-bus-service-will-go-service-near-edinburgh-next-week.jpg"
         width: 768
         height: 511
+        isCached: true
+  - title: "UK's First Driverless Bus Service To Begin In Scotland Next Week"
+    excerpt: "The UK will roll out its first driverless bus network in Scotland next week with drivers on standby behind the steering wheel, ready to take control should an emergency arise."
+    publishedDateTime: 2023-05-11T17:07:00Z
+    webUrl: "https://www.ndtv.com/world-news/uks-first-driverless-bus-service-to-begin-in-scotland-next-week-4026830"
+    ampWebUrl: "https://www.ndtv.com/world-news/uks-first-driverless-bus-service-to-begin-in-scotland-next-week-4026830/amp/1"
+    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/uks-first-driverless-bus-service-to-begin-in-scotland-next-week-4026830/amp/1"
+    type: article
+    provider:
+      name: NDTV
+      domain: ndtv.com
+    quality: 59
+    images:
+      - url: "https://c.ndtvimg.com/2023-02/lc9brad_e-bus-generic-_625x300_17_February_23.jpg"
+        width: 650
+        height: 400
         isCached: true
   - title: "Driverless buses to start running next week"
     excerpt: "In a UK first, Stagecoach will begin using driverless buses on services across the Forth Road Bridge from 15 May. The route will be 14 miles long in total from the Ferrytoll Park and Ride in Fife"

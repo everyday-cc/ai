@@ -7,7 +7,7 @@ originalUrl: "https://www.entrepreneur.com/business-news/spotify-removes-thousan
 webUrl: "https://www.entrepreneur.com/business-news/spotify-removes-thousands-of-boomys-ai-generated-songs/451985"
 type: article
 quality: 60
-heat: 80
+heat: 70
 published: true
 
 provider:
@@ -28,15 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Spotify ejects thousands of AI-made songs in purge of fake streams"
-    excerpt: "Spotify has removed tens of thousands of songs from artificial intelligence music start-up Boomy, ramping up policing of its platform amid complaints of fraud and clutter across streaming services. In recent months the music industry has been confronting the rise of AI-generated songs and,"
-    publishedDateTime: 2023-05-09T13:20:00Z
-    webUrl: "https://arstechnica.com/information-technology/2023/05/spotify-ejects-thousands-of-ai-made-songs-in-purge-of-fake-streams/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 47
   - title: "Boomy’s AI-generated tracks start landing back on Spotify amid growing battle against artificial streaming"
     excerpt: "Less than a week after uploads to Spotify from AI-powered music creation app Boomy were blocked over concerns about artificial streaming, Boomy says it’s back in business on the prominent music streaming platform."
     publishedDateTime: 2023-05-08T15:08:00Z
@@ -52,6 +43,6 @@ related:
         height: 2160
         isCached: true
 
-secured: "5z/l3cEQJi8BWa39nxKdUIHf7Hjy6ol/+o7yIkoLBT1YFv4n9NJ1hmwsZCwjM+CBR1u3f1QymJP4AtJiIYoVoJQVv9kY7x5nsm53e82AqFoO6daukL84QZhr9nVkDA18WP6CZ8kyImz1tGs+jVhVd9C5qp5qjjzW33b7Ur1E6cZE/PXFWiWJQoNv0VorEPmJNCMlhwklSvxvYnZGA7OLowap9oR8R1WbelYwIfId8hUkfFkQJDBav8fek6GpPveihOnmQdyEbb/amKyI8GsTeU65l9gbsf6NrCCSiWHoKHfQbN0JdaqKMiny1OMBFGKTRuW6SXZ5XGnz5D+lWsp+m+BA9s22LwwklgRgVN7SCzQ=;vN20Mz5qElAIMlDnY1ZYkQ=="
+secured: "jPZXt7kyHzjI5ZL2dwiTR6BviQGFPzU52bt0A7fMqMerIQ9eaS2yVObn0E8WG1Mxf+RQHyO3DAPk5nJ0NuvQSj0pQPnY6InGnadmmsF2idldeqKdexf0PEuZDtKQIvizijmLea6F4g1P2Zfme4fs4PNEsh7h5HEK/VZymCOObk92YA3SMEAIWWba8Ykm+BRN/MZOpUw+y88w84XUp59X99NvTd+g0+7wquJ9943TiVyte6uQKBTPIh6vEuv832RXq/Z97Q6Q5iDrfS1P8XFrLFQZgK0dwbXW0Roh+jEHvRhdxVZMINoRWoJf9zLENWmxtV69y8i/VtrJJwD8MAifwlG36T2gyVGR9XV+UmMf0MBaxiUnej8o0RG8Vh2cl/Z0RvB94RzBpqnJ/5R6OPF22HewKsSXi1Mejf4bo4+Wcjp1tQAAeriBosYvUk2/Eo0oSuIBN1NTFDfh4bFIZnfhsJ//T9vyHhoC0a7DxWY6ielmPlsbGnMrSNM080PLlWkY7CeKIfSBsVmOARhg9+C3NQ==;yGrGiZotT+DyRXTuYPyfSg=="
 ---
 

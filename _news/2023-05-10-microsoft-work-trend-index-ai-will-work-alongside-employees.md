@@ -209,6 +209,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "SymphonyAI announces generative AI collaboration with Microsoft Azure AI"
+    excerpt: "SymphonyAI announced today its first generative AI software application that integrates Microsoft Azure OpenAI Service. Sensa Copilot provides sophisticated AI assistance to financial crime investigators by automatically collecting,"
+    publishedDateTime: 2023-05-11T16:46:00Z
+    webUrl: "https://www.securityinfowatch.com/cybersecurity/information-security/document-and-data-controls-destruction/press-release/53060240/symphony-ai-symphonyai-announces-generative-ai-collaboration-with-microsoft-azure-ai"
+    type: article
+    provider:
+      name: Security
+      domain: securityinfowatch.com
+    quality: 68
+    images:
+      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2023/05/16x9/Screenshot_1.compress.gd.645d18ebd7b9a.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Palo Alto Networks unveils its cloud next-generation firewall for Microsoft Azure customers"
     excerpt: "Cloud NGFW for Azure seamlessly integrates Palo Alto Networks AI and ML-powered security with the simplicity, scalability and global availability of Azure"
     publishedDateTime: 2023-05-11T10:48:00Z

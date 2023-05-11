@@ -56,36 +56,6 @@ related:
         width: 1200
         height: 500
         isCached: true
-  - title: "New Google search tool will distinguish real images from AI-generated phonies"
-    excerpt: "Rolling out in the coming months, the new 'About this Image' tool will help identify which images in a search are real and which are created by AI."
-    publishedDateTime: 2023-05-11T14:52:00Z
-    webUrl: "https://www.zdnet.com/article/new-google-search-tool-will-distinguish-real-images-from-ai-generated-phonies/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/new-google-search-tool-will-distinguish-real-images-from-ai-generated-phonies/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/new-google-search-tool-will-distinguish-real-images-from-ai-generated-phonies/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 84
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/e2abf1115d40e1fcee596f55c6be46a839a0d904/2023/05/11/1f3609ef-3fd4-45b9-9162-dc868eff6419/figure-top-new-google-search-tool-will-distinguish-real-images-from-ai-generated-phonies.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "The AI takeover of Google Search starts now"
-    excerpt: "The future of Google Search is AI. But not in the way you think. The company synonymous with web search isn’t all in on chatbots (even though it’s building one, called Bard ), and it’s not redesigning its homepage to look more like a ChatGPT-style messaging system."
-    publishedDateTime: 2023-05-10T17:51:00Z
-    webUrl: "https://www.theverge.com/2023/5/10/23717120/google-search-ai-results-generated-experience-io"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 69
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/QQawoxSGsujkaqzq1e5nMDIBGdw=/0x0:2620x1500/1200x628/filters:focal(233x623:234x624)/cdn.vox-cdn.com/uploads/chorus_asset/file/24644238/SGE_Bluetooth_Speakers_v2.png"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Will New AI Features Electrify GOOGL Stock?"
     excerpt: "Alphabet’s (NASDAQ:GOOGL)(NASDAQ:GOOG) annual developer conference, or Google I/O, is scheduled for May 10, and news is rife in the market"
     publishedDateTime: 2023-05-10T11:16:00Z
@@ -100,29 +70,20 @@ related:
         width: 912
         height: 306
         isCached: true
-  - title: "Google Says Search Enters New Era With Conversational AI Features"
-    excerpt: "The company intends to use AI programs to provide lengthier replies to queries. The new features invite follow-up questions."
-    publishedDateTime: 2023-05-10T20:36:00Z
-    webUrl: "https://www.wsj.com/articles/google-says-search-enters-new-era-with-conversational-features-ca17f277"
+  - title: "Cedars-Sinai Launches Center for Artificial Intelligence Research and Education"
+    excerpt: "The center’s efforts will focus on developing new AI and machine learning algorithms for personalized medicine, genomics, and other healthcare research."
+    publishedDateTime: 2023-05-11T17:30:00Z
+    webUrl: "https://healthitanalytics.com/news/cedars-sinai-launches-center-for-artificial-intelligence-research-and-education"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
+      name: Analytics
+      domain: healthitanalytics.com
     quality: 67
     images:
-      - url: "https://images.wsj.net/im-779547/social"
-        width: 1280
-        height: 640
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/2022-03-14-GettyImages-1033717120.jpg"
+        width: 690
+        height: 400
         isCached: true
-  - title: "Google’s Vertex AI machine learning platform gets generative AI tools"
-    excerpt: "The new updates to Google Cloud’s machine learning service will help the company square up against rivals such as Microsoft, AWS and IBM."
-    publishedDateTime: 2023-05-10T18:15:00Z
-    webUrl: "https://www.infoworld.com/article/3696208/google-s-vertex-ai-machine-learning-platform-gets-generative-ai-tools.html"
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 66
   - title: "With Seed Funding Secured, AI Detection Tool GPTZero Launches New Browser Plugin"
     excerpt: "CEO Edward Tian and his team of 10 machine learning engineers wants to “preserve what’s human” by giving people the ability to discern what’s machine generated."
     publishedDateTime: 2023-05-09T14:33:00Z

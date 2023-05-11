@@ -2,6 +2,162 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-05-10-ai-la-mode-thoughtspot-aims-to-define-modern-data-experiences.md",
+      "title": "ÀI La Mode, ThoughtSpot Aims To Define ‘Modern’ Data Experiences",
+      "excerpt": "The prehistoric dawn of our first business and scientific data analytics practices saw us crunch data streams in overnight batch processing workloads and deliver results to what we used to call Business Intelligence (BI) suites,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/adrianbridgwater/2023/05/09/i-la-mode-thoughtspot-aims-to-define-modern-data-experiences/",
+      "originalUrl": "https://www.forbes.com/sites/adrianbridgwater/2023/05/09/i-la-mode-thoughtspot-aims-to-define-modern-data-experiences/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/639af0677788b37c074b44e2/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 817,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/adrianbridgwater/2023/05/09/i-la-mode-thoughtspot-aims-to-define-modern-data-experiences/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2023/05/09/i-la-mode-thoughtspot-aims-to-define-modern-data-experiences/amp/",
+      "publishedDateTime": "2023-05-09T10:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-09-anthropic-releases-ai-constitution-to-promote-ethical-behavior-and-development.md",
+      "title": "Anthropic releases AI constitution to promote ethical behavior and development",
+      "excerpt": "Anthropic unveiled its constitution for Claude, which aims to ensure that the AI system adheres to a set of ethical guidelines and principles, thereby making its behavior more helpful, harmless, and honest.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/anthropic-releases-ai-constitution-to-promote-ethical-behavior-and-development/",
+      "originalUrl": "https://venturebeat.com/ai/anthropic-releases-ai-constitution-to-promote-ethical-behavior-and-development/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 150,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/05/anthropic.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/anthropic-releases-ai-constitution-to-promote-ethical-behavior-and-development/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/anthropic-releases-ai-constitution-to-promote-ethical-behavior-and-development/amp/",
+      "publishedDateTime": "2023-05-09T09:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-09-transform-analyze-and-discover-insights-from-unstructured-healthcare-data-using-amazon-healthlake.md",
+      "title": "Transform, analyze, and discover insights from unstructured healthcare data using Amazon HealthLake",
+      "excerpt": "Healthcare data is complex and siloed, and exists in various formats. An estimated 80% of data within organizations is considered to be unstructured or “dark” data that is locked inside text, emails, PDFs, and scanned documents. This data is difficult to interpret or analyze programmatically and limits",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/transform-analyze-and-discover-insights-from-unstructured-healthcare-data-using-amazon-healthlake/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/transform-analyze-and-discover-insights-from-unstructured-healthcare-data-using-amazon-healthlake/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/05/09/transform-analyze-discover-healthlake-1257x630.jpg",
+          "width": 1257,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-09T09:07:41-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-05-09-ais-mixed-investment-performance.md",
       "title": "AI’s mixed investment performance",
       "excerpt": "Would I buy an AI ETF? Probably not. Frankly, if you want exposure to this space, why not just buy Nvidia and Microsoft? Both are highly profitable and heavily involved in the sector. In Nvidia’s case via their GPU chips and in Microsoft’s case via ...",
@@ -259,7 +415,7 @@
       "originalUrl": "https://www.forbes.com/sites/timbajarin/2023/05/09/the-critical-need-to-identify-ai-generated-content/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 177,
+      "heat": 167,
       "tags": null,
       "images": [
         {
@@ -869,6 +1025,57 @@
       ]
     },
     {
+      "path": "_news/2023-05-09-clothing-entrepreneurs-cant-wait-to-fire-themselves-as-models-and-hire-the-ai-kind-instead.md",
+      "title": "Clothing Entrepreneurs Can’t Wait To Fire Themselves As Models And Hire The AI Kind Instead",
+      "excerpt": "Despite the public roasting Levi’s took for flirting with AI, smaller clothing sellers who model their own products online maintain a growing interest in replacing themselves with the computer-generated kind.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/laurendebter/2023/05/09/small-businesses-using-generative-ai/",
+      "originalUrl": "https://www.forbes.com/sites/laurendebter/2023/05/09/small-businesses-using-generative-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/645977d7537aa8e5f3be84e9/0x0.jpg?format=jpg&crop=2162,1216,x0,y0,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-09T03:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-09-making-intelligent-noise-ai-in-the-music-industry.md",
       "title": "Making Intelligent Noise: AI In The Music Industry",
       "excerpt": "As AI continues to expand, so do its applications, which now span all aspects of the industry from A&R to audio engineering to live performance.",
@@ -979,7 +1186,7 @@
       "originalUrl": "https://www.ibm.com/blog/introducing-watsonx-the-future-of-ai-for-business/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 314,
+      "heat": 324,
       "tags": null,
       "images": [
         {
@@ -1071,203 +1278,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-09-european-union-set-to-be-trailblazer-in-global-rush-to-regulate-artificial-intelligence.md",
-      "title": "European Union Set to Be Trailblazer in Global Rush to Regulate Artificial Intelligence",
-      "excerpt": "Even European Union officials working on groundbreaking rules to govern the emerging technology were caught off guard by AI’s rapid rise. The 27-nation bloc proposed the Western world’s first AI rules two years ago,",
-      "sourceUrl": null,
-      "webUrl": "https://time.com/6278144/european-union-artificial-intelligence-regulation/",
-      "originalUrl": "https://time.com/6278144/european-union-artificial-intelligence-regulation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://time.com/img/icons/wallet-connect.png",
-          "width": 256,
-          "height": 256,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-09T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Time",
-        "domain": "time.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/time.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-05-09-how-singapores-giant-sovereign-wealth-fund-is-investing-in-generative-ai-technology.md",
-      "title": "How Singapore's giant sovereign wealth fund is investing in generative AI technology",
-      "excerpt": "GIC manages hundreds of billions of dollars in assets. It's invested in tech for decades and is unfazed by last year's tech stock rout.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/singapore-sovereign-wealth-fund-investing-in-generative-ai-gic-2023-5",
-      "originalUrl": "https://www.businessinsider.com/singapore-sovereign-wealth-fund-investing-in-generative-ai-gic-2023-5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/6459be0f65a21600192fb67c?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-09T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-09-ibm-takes-another-shot-at-watson-as-ai-boom-picks-up-steam.md",
-      "title": "IBM takes another shot at Watson as A.I. boom picks up steam",
-      "excerpt": "It’s been a long time since IBM has actively touted Watson. Originally created to beat humans at the “Jeopardy!” game show, Watson marked IBM’s early splash in artificial intelligence, but it never amounted to a profitable offering.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/05/09/ibm-takes-another-shot-at-watson-as-ai-boom-picks-up-steam.html",
-      "originalUrl": "https://www.cnbc.com/2023/05/09/ibm-takes-another-shot-at-watson-as-ai-boom-picks-up-steam.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107184040-1674677984697-gettyimages-1246298067-DAVOS_WEF_2023.jpeg?v=1683626401",
-          "width": 4000,
-          "height": 2692,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2023/05/09/ibm-takes-another-shot-at-watson-as-ai-boom-picks-up-steam.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/05/09/ibm-takes-another-shot-at-watson-as-ai-boom-picks-up-steam.html",
-      "publishedDateTime": "2023-05-09T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-09-chatgpt-can-students-pass-using-ai-tools-at-university.md",
-      "title": "ChatGPT: Can students pass using AI tools at university?",
-      "excerpt": "As with most universities, Bath's policy on ChatGPT and other AI tools is still in the works. It is due to be in place from September. After that, a team will meet throughout the year to ensure it keeps up with the rapidly changing technology. In the meantime, many staff are once again setting in-person, invigilated summer exams.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.co.uk/news/education-65316283",
-      "originalUrl": "https://www.bbc.co.uk/news/education-65316283",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/0991/production/_129594420_gettyimages-1460902077.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.co.uk/news/education-65316283.amp",
-      "cdnAmpWebUrl": "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/education-65316283.amp",
-      "publishedDateTime": "2023-05-09T00:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

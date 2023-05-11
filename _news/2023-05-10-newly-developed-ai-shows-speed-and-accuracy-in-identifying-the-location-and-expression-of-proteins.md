@@ -97,22 +97,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "Generative AI’s implications on the financial services industry"
-    excerpt: "The pandemic nudged a large part of the country to go digital. But it is the amalgamation of AI and fintech that could truly take India to the forefront of the digital revolution."
-    publishedDateTime: 2023-05-09T07:09:00Z
-    webUrl: "https://www.financialexpress.com/money/generative-ais-implications-on-the-financial-services-industry/3080002/"
-    ampWebUrl: "https://www.financialexpress.com/money/generative-ais-implications-on-the-financial-services-industry/3080002/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/money/generative-ais-implications-on-the-financial-services-industry/3080002/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 59
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/05/artificial-intelligence1.jpg"
-        width: 1200
-        height: 667
-        isCached: true
   - title: "The rise of human ingenuity in Artificial intelligence"
     excerpt: "The neural network used in ChatGPT is composed of multiple layers of artificial neurons that work. In coherence together to understand the structure and patterns in language. The model is trained on a large corpus of text data, which it uses to learn the ..."
     publishedDateTime: 2023-05-09T11:22:00Z

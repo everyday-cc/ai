@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/technology-65496150.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-65496150.amp"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -46,6 +46,17 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Tesla's AI Could Kill, Says Steve Wozniak — Apple Co-Founder Criticizes Elon Musk's Self-Driving Car Failures"
+    excerpt: "Tech icon and Apple Inc. Co-Founder Steve Wozniak has criticized Tesla Inc. CEO Elon Musk, accusing him of failing to deliver on the promise of self-driving cars and warning that Tesla’s artificial intelligence (AI) technology could be deadly."
+    publishedDateTime: 2023-05-11T17:15:00Z
+    webUrl: "https://www.benzinga.com/news/23/05/32347884/teslas-ai-could-kill-says-steve-wozniak-apple-co-founder-criticizes-elon-musks-self-driving-car-fail"
+    ampWebUrl: "https://www.benzinga.com/amp/content/32347884"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32347884"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 35
 
 secured: "L9LaNog3jY49Q/TVThmnZR6mQ67SbJoYPlGAC+VpzsAA2e2ZKGH+/mada+Skx2OVB1nX/1qty0zflIGLTqw7JH5SIMbcwE3TuTV1VG3vYJU37WVMgFMT0BTrd7oRt43nahkWuzC7e2+Rfd7+bEZOvfFJjONYvHB6bOCo4mHNKmGbPvjG+ZgcO4NU3yXbXXYL7zsCAYBxNQW/OWoNDr61LILrVcjp9aKA/GR0RE1jWkoDQwWaptThxNYIr287h1Kl3J3CmGWyEHHwoxmO5g94rdYv2MRbtCCSMZaYOJfRnvCFHfw10p9+9idMk0ZqydMdh8TjM+c+crmQJ+B124J6J/QbKG8vNtaPR0YjINpSLhNSvYXX0YGwRa9VAbaoH7dnErh4orJya23Cf+06Gdb/9+ZwtDczF6RLcBSU3g4RfxTkGXfpp6AzCLwxHzSBuJChAfEMNhmVI2jbrceomQ/AvaYDiqB804ARCW2g0JRFsdAKYCyN+2E30EzKzmIUou5d0F/xmHrgpvv4r9A82wwpqQ==;trgZqjYp66GibSVowPvCvA=="
 ---

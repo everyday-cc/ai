@@ -2,6 +2,152 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-05-12-ai-venturing-7-timeless-rules-for-success-from-6-decades-of-unicorn-entrepreneurship.md",
+      "title": "AI Venturing: 7 Timeless Rules For Success From 6 Decades Of Unicorn-Entrepreneurship",
+      "excerpt": "Over the past 60 years, the success of unicorn-entrepreneurs, from the likes of Walton to Chesky, offer insights that can be applied to the emerging AI industry. Whether you aim to dominate the industry or build your growth venture,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/dileeprao/2023/05/11/ai-venturing-7-timeless-rules-for-success-from-6-decades-of-unicorn-entrepreneurship/",
+      "originalUrl": "https://www.forbes.com/sites/dileeprao/2023/05/11/ai-venturing-7-timeless-rules-for-success-from-6-decades-of-unicorn-entrepreneurship/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/645d222b81f6ab451e4bd1e3/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 784,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/dileeprao/2023/05/11/ai-venturing-7-timeless-rules-for-success-from-6-decades-of-unicorn-entrepreneurship/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/dileeprao/2023/05/11/ai-venturing-7-timeless-rules-for-success-from-6-decades-of-unicorn-entrepreneurship/amp/",
+      "publishedDateTime": "2023-05-11T10:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-12-hackers-to-test-limits-of-ai-at-las-vegas-event-this-summer.md",
+      "title": "Hackers to test limits of AI at Las Vegas event this summer",
+      "excerpt": "The Biden administration is joining forces with Microsoft, Google and other companies to get hackers to see if tools like ChatGPT can be used to cause harm.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reviewjournal.com/business/conventions/hackers-to-test-limits-of-ai-at-las-vegas-event-this-summer-2775790/",
+      "originalUrl": "https://www.reviewjournal.com/business/conventions/hackers-to-test-limits-of-ai-at-las-vegas-event-this-summer-2775790/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reviewjournal.com/wp-content/uploads/2023/05/17764760_web1_17764760-0f19e4ef3ff84811b06fbaa753ea19a6.jpg?w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.reviewjournal.com/business/conventions/hackers-to-test-limits-of-ai-at-las-vegas-event-this-summer-2775790/amp/",
+      "cdnAmpWebUrl": "https://www-reviewjournal-com.cdn.ampproject.org/c/s/www.reviewjournal.com/business/conventions/hackers-to-test-limits-of-ai-at-las-vegas-event-this-summer-2775790/amp/",
+      "publishedDateTime": "2023-05-11T10:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Las Vegas Review-Journal",
+        "domain": "reviewjournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-12-eu-nears-ban-on-predictive-policing-and-facial-recognition-after-ai-act-vote.md",
+      "title": "EU nears ban on predictive policing and facial recognition after AI Act vote",
+      "excerpt": "A crunch vote on the AI Act has moved the EU closer to a landmark ban on predictive policing and facial recognition.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/ai-act-vote-pushes-eu-ban-on-predictive-policing-facial-recognition",
+      "originalUrl": "https://thenextweb.com/news/ai-act-vote-pushes-eu-ban-on-predictive-policing-facial-recognition",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 151,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F05%2FUntitled-design-6.jpg&signature=1e7b4390a6a9afa5c53d7775598e0291",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-11T10:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-11-musk-would-compound-tesla-automated-driving-risk-with-free-trial.md",
       "title": "Musk Would Compound Tesla Automated-Driving Risk With Free Trial",
       "excerpt": "Regulators are already swirling, and some customers have paid $15,000 for features the CEO is prepared to give away for a month.",
@@ -62,7 +208,7 @@
       "originalUrl": "https://techcrunch.com/2023/05/11/amp-robotics-attracts-investment-from-microsofts-climate-innovation-fund/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 420,
+      "heat": 430,
       "tags": null,
       "images": [
         {
@@ -115,7 +261,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chip-market-research-analysis-2023-2030-2023-05-11",
       "featuredContent": null,
       "highlight": null,
-      "heat": 569,
+      "heat": 639,
       "tags": null,
       "images": [
         {
@@ -159,6 +305,57 @@
       ]
     },
     {
+      "path": "_news/2023-05-11-spotify-has-an-ai-music-problembut-bots-love-it.md",
+      "title": "Spotify Has an AI Music Problem—but Bots Love It",
+      "excerpt": "Fake listeners are flocking to AI-made songs on streaming platforms, taking much needed money away from human artists.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/spotify-ai-music-robot-listeners/",
+      "originalUrl": "https://www.wired.com/story/spotify-ai-music-robot-listeners/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/645c19f20cbc15924e602a5c/master/pass/AI-Bot-Spotify-Listeners-Culture-1324648625.jpg",
+          "width": 2400,
+          "height": 1800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/spotify-ai-music-robot-listeners/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/spotify-ai-music-robot-listeners/amp",
+      "publishedDateTime": "2023-05-11T08:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-11-bad-news-for-boomy-spotify-removes-thousands-of-ai-generated-songs-from-the-platform.md",
       "title": "Bad News For Boomy: Spotify Removes Thousands of AI-Generated Songs From the Platform",
       "excerpt": "Spotify is removing thousands of AI-generated songs created by music startup Boomy. The move is part of the platform’s effort to protect artists.",
@@ -167,7 +364,7 @@
       "originalUrl": "https://www.entrepreneur.com/business-news/spotify-removes-thousands-of-boomys-ai-generated-songs/451985",
       "featuredContent": null,
       "highlight": null,
-      "heat": 80,
+      "heat": 70,
       "tags": null,
       "images": [
         {
@@ -257,6 +454,58 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-11-data-science-and-machine-learning-service-market-share-2023bussiness-research-and-forecast-by-2029.md",
+      "title": "Data Science and Machine Learning Service Market Share 2023|Bussiness Research And Forecast by 2029",
+      "excerpt": "Data Science and Machine Learning Service Market | Outlook 2023-2028 | Pre and Post-COVID Research is Covered,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/data-science-and-machine-learning-service-market-share-2023bussiness-research-and-forecast-by-2029-2023-05-11",
+      "originalUrl": "https://www.marketwatch.com/press-release/data-science-and-machine-learning-service-market-share-2023bussiness-research-and-forecast-by-2029-2023-05-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-11T07:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
         "AI"
       ]
     },
@@ -624,7 +873,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/autonomous-or-driverless-cars-market-report-talks-about-current-market-share-2023-2030-2023-05-11",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -664,58 +913,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-11-the-prospects-of-image-recognition-in-retail-market-2023-industry-trends-and-challenges-till-2030.md",
-      "title": "The Prospects of Image Recognition in Retail Market 2023: Industry Trends and Challenges till 2030",
-      "excerpt": "A recent study report named \" Image Recognition in Retail Market \" offers a thorough analysis of the market's development potential, potential for revenue generation, and current trends through 2028.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/the-prospects-of-image-recognition-in-retail-market-2023-industry-trends-and-challenges-till-2030-2023-05-11",
-      "originalUrl": "https://www.marketwatch.com/press-release/the-prospects-of-image-recognition-in-retail-market-2023-industry-trends-and-challenges-till-2030-2023-05-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-11T01:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     },
@@ -984,7 +1181,7 @@
       "originalUrl": "https://www.nbcnews.com/nightly-news/video/google-launches-new-ai-tools-173891653794",
       "featuredContent": null,
       "highlight": null,
-      "heat": 277,
+      "heat": 247,
       "tags": null,
       "images": [
         {
@@ -1066,205 +1263,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-11-google-unveils-advanced-ai-model-to-beef-up-bard-search-maps-and-more.md",
-      "title": "Google unveils advanced AI model to beef up Bard, Search, Maps and more",
-      "excerpt": "With its new PaLM 2 large language model, Google said its key products and services will be simpler and smarter thanks to a huge dose of AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/google-unveils-advanced-ai-bard-search-maps/",
-      "originalUrl": "https://www.techrepublic.com/article/google-unveils-advanced-ai-bard-search-maps/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 221,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/wp-content/uploads/2023/05/tr51023-Figure-Top-Google-unveils-advanced-AI-model-to-beef-up-Bard-Search-Maps-and-more.jpg",
-          "width": 1080,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/article/google-unveils-advanced-ai-bard-search-maps/amp/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/google-unveils-advanced-ai-bard-search-maps/amp/",
-      "publishedDateTime": "2023-05-10T15:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-05-11-regtech-artificial-intelligence-bank-of-valletta-adopts-resistant-ais-aml-product-to-tackle-financial-crime.md",
-      "title": "Regtech, Artificial Intelligence: Bank of Valletta Adopts Resistant AI’s AML Product to Tackle Financial Crime",
-      "excerpt": "Bank of Valletta, the largest bank in Malta, is to adopt Resistant AI's Transaction Forensics product for anti-money laundering (AML).",
-      "sourceUrl": null,
-      "webUrl": "https://www.crowdfundinsider.com/2023/05/206892-regtech-artificial-intelligence-bank-of-valletta-adopts-resistant-ais-aml-product-to-tackle-financial-crime/",
-      "originalUrl": "https://www.crowdfundinsider.com/2023/05/206892-regtech-artificial-intelligence-bank-of-valletta-adopts-resistant-ais-aml-product-to-tackle-financial-crime/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2023/05/No-Entrance-drugs-begging-loitering-soliciting-crime.jpeg",
-          "width": 1280,
-          "height": 1019,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.crowdfundinsider.com/2023/05/206892-regtech-artificial-intelligence-bank-of-valletta-adopts-resistant-ais-aml-product-to-tackle-financial-crime/amp/",
-      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/05/206892-regtech-artificial-intelligence-bank-of-valletta-adopts-resistant-ais-aml-product-to-tackle-financial-crime/amp/",
-      "publishedDateTime": "2023-05-10T14:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crowdfund Insider",
-        "domain": "crowdfundinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-11-meet-the-new-google-search-ai-generated-results-get-top-billing.md",
-      "title": "Meet the New Google Search: AI-Generated Results Get Top Billing",
-      "excerpt": "At I/O, Google previews the new 'Search Generative Experience,' which places AI-powered results atop traditional search results.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/meet-the-new-google-search-ai-generated-results-get-top-billing",
-      "originalUrl": "https://www.pcmag.com/news/meet-the-new-google-search-ai-generated-results-get-top-billing",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/02wpEEUQXRc8sreSn73b1Q1-1.fit_lim.size_1200x630.v1683749201.jpg",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-10T14:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-11-microsoft-ceo-satya-nadella-on-ai.md",
-      "title": "Microsoft CEO Satya Nadella on AI",
-      "excerpt": "TIME talks with Microsoft CEO Satya Nadella about Copilot and company's use of AI Write to Andrew D. Johnson at andrew.johnson@time.com.",
-      "sourceUrl": null,
-      "webUrl": "https://time.com/6278841/microsoft-ceo-satya-nadella-on-artificial-intelligence/",
-      "originalUrl": "https://time.com/6278841/microsoft-ceo-satya-nadella-on-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.jwplayer.com/v2/media/N9qPsYLv/poster.jpg?width&#x3D;720",
-          "width": 720,
-          "height": 406,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-10T14:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Time",
-        "domain": "time.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/time.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

@@ -7,7 +7,7 @@ originalUrl: "https://www.businessinsider.com/glasswing-ventures-kleida-martiro-
 webUrl: "https://www.businessinsider.com/glasswing-ventures-kleida-martiro-promoted-venture-capital-partner-2023-5"
 type: article
 quality: 50
-heat: 50
+heat: 60
 published: false
 
 provider:
@@ -26,6 +26,17 @@ images:
     width: 1200
     height: 600
     isCached: true
+
+related:
+  - title: "Glasswing Ventures’ new partner has found success investing in AI startups"
+    excerpt: "Since joining Glasswing Ventures, Kleida Martiro has been promoted twice to senior associate and principal within four years."
+    publishedDateTime: 2023-05-11T17:18:00Z
+    webUrl: "https://www.bizjournals.com/boston/inno/stories/news/2023/05/11/glasswing-ventures-new-partner.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 15
 
 secured: "tnSfwXltX1xZ7CVDkTcaV7NODIxLG4xDhj8h8EZwDbLMQpECKN+GjZzSwE2yUgRSfterFsVNRy4BtDkFEfdjck1uQbE/48OCQReTmgPjZav/W4uMK0drKa47ILmMoPKCbsPlQJZaFIUB6LDzQxYoE+2Jt0SZ4s5VB3DE7lPOGhYlXMW0Gd5k9bneMEz8ve2GsusFN1Xp7u3K5lElPgbwgJXZOrAX1ZbGpfgFC8s6mrsNukKaiJVicZJ6HT+C+7Wq7RelbFR57w5UfzeWT/kbAHc2N2TpVgUaC4UQrQMt6Dx3OflPM4ENCHQrlUDfLFC5qiH2PbivK+ykrn8aUOPb6CKQlrS6xA5iSICK/nfc+Dk=;KuNkTLxY4FH9hflucANdpA=="
 ---

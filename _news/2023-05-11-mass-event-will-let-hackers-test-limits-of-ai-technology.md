@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Hackers to test limits of AI at Las Vegas event this summer"
+    excerpt: "The Biden administration is joining forces with Microsoft, Google and other companies to get hackers to see if tools like ChatGPT can be used to cause harm."
+    publishedDateTime: 2023-05-11T17:09:00Z
+    webUrl: "https://www.reviewjournal.com/business/conventions/hackers-to-test-limits-of-ai-at-las-vegas-event-this-summer-2775790/"
+    ampWebUrl: "https://www.reviewjournal.com/business/conventions/hackers-to-test-limits-of-ai-at-las-vegas-event-this-summer-2775790/amp/"
+    cdnAmpWebUrl: "https://www-reviewjournal-com.cdn.ampproject.org/c/s/www.reviewjournal.com/business/conventions/hackers-to-test-limits-of-ai-at-las-vegas-event-this-summer-2775790/amp/"
+    type: article
+    provider:
+      name: Las Vegas Review-Journal
+      domain: reviewjournal.com
+    quality: 59
+    images:
+      - url: "https://www.reviewjournal.com/wp-content/uploads/2023/05/17764760_web1_17764760-0f19e4ef3ff84811b06fbaa753ea19a6.jpg?w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Hackers to test limits of AI technology at Las Vegas event"
     excerpt: "OpenAI and other major AI providers are coordinating with the Biden administration to let thousands of hackers take shots at testing the limits of their technology."
     publishedDateTime: 2023-05-11T03:56:00Z
@@ -58,6 +74,6 @@ related:
       domain: lasvegassun.com
     quality: 19
 
-secured: "Lr95BMklYG5Irs0HHGFbN4ie42hzkGauyeqQXV2/t/UzjKKKTfFXwYHpqpWS6nhwq1mVfgkcxGRVyaW/MsZmbBnZZLcMWLASOXH5cOVMoBBsVFbNL2i1JAPPKVIW/th4zpDoaK0S9+2hG+cGcl0+cneIuuWQkc776t9QAHhvIIyjMtR7nSkVG9UNujCKsPUHWASQQXvepdvxA97l4vdHDjappWrdy54uy2AjopAQXU86s56UFHUUwDS95og9ahldtPOYSXLAZ6+dPl+8HOP+LHaB8MgeN2FsAB3vOaioBl6TUBe3yOIKwNRAA2bZ7KzSdi7HD1Sxh67sbzRIOgo1pjdvRF3znn13Je5bhVimm4M=;BdtNEvVzjhCq4asGGFCzGA=="
+secured: "l1Rcgkst8ZTx8Mvikhyviy+mDk+yGlug1z6uk7Yv5+hN4K3f+FRgiWFqkayYUCZWD8ueDhZ/8yGw96+rjCtyb9l4yD6FNUMW0bUqdBwU9yjJPu8Q4QzILC39dyHy3RYFK2Ft0pYRt03zdGe9/eU4T967RmA3s2e5jkqsl7I9UPkUkzxAzRRUjqYruBZkPUNWF40xZRaTDBpGJX7Uj3EyS2/ot4nmNlgB8xzXH1z+FEbZDYXLnEzeNgYou0Fg0zeBKHF6/ml8SHpuxhF+cOXvdXA/MS96JjdeCd1prpFeOG7jtsR2UXXozY15znhO9Ju1fessd2e9M3Wdj+jQX7ziVC77yc8vS+GVyl/u0RCtycGl6WGVTBY9zpS7SXaby/3KUNlpF45S8w6kMmZOKnZyJqPYDP5k+FaQN/TdU4/Nym6s6CnvEJdvxS+vUUOkS+jfiJCP9Ay9JEcXaNtc0nJ4kN1auiLp4svupVaFdxNOmiuoNC95t1N1vYDgQ/YfvQLif6Cl3R8OHcpr7R8EAC/hdA==;VZHwLAZF9lnZ7PCA//j3bQ=="
 ---
 

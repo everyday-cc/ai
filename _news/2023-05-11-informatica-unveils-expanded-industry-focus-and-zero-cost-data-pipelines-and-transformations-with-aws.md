@@ -9,7 +9,7 @@ ampWebUrl: "https://enterprisetalk.com/news/informatica-unveils-expanded-industr
 cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/informatica-unveils-expanded-industry-focus-and-zero-cost-data-pipelines-and-transformations-with-aws/amp/"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -27,20 +27,15 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence Can Be Transformative Technology, Only With Appropriate Restrictions And Safeguards Against Malicious Use"
-    excerpt: "Check Point Research (CPR), the Threat Intelligence arm of Check Point® Software Technologies Ltd. (NASDAQ: CHKP) and a leading provider of cyber"
-    publishedDateTime: 2023-05-10T09:36:00Z
-    webUrl: "https://menafn.com/1106215659/Artificial-Intelligence-Can-Be-Transformative-Technology-Only-With-Appropriate-Restrictions-And-Safeguards-Against-Malicious-Use"
+  - title: "Informatica goes all in on generative AI with Claire GPT"
+    excerpt: "Informatica today announced Claire GPT, a generative AI tool aiming to help enterprises with data management tasks."
+    publishedDateTime: 2023-05-09T13:00:00Z
+    webUrl: "https://venturebeat.com/data-infrastructure/informatica-goes-all-in-on-generative-ai-with-claire-gpt/"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 25
-    images:
-      - url: "https://menafn.com/updates/pr/2023-05/10/M_22cfaimage_story.jpg"
-        width: 946
-        height: 1024
-        isCached: true
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 47
   - title: "Informatica Announces Expanded Industry Focus and Zero Cost Data Pipelines and Transformations with AWS"
     excerpt: "Informatica, an enterprise cloud data management leader, built upon their years-long relationship with Amazon Web"
     publishedDateTime: 2023-05-11T14:59:00Z

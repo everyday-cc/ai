@@ -79,24 +79,22 @@ related:
         width: 1200
         height: 723
         isCached: true
-  - title: "Google Expected To Shake Up Search With New AI Products"
-    excerpt: "Google is expected to announce a more conversational version of its flagship search engine, fueled by artificial intelligence. The efforts to overhaul its search business with AI, set to be unveiled Wednesday at the company’s I/O conference in Mountain View,"
-    publishedDateTime: 2023-05-10T12:00:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-05-10/google-expected-to-shake-up-search-with-new-ai-products"
+  - title: "How to Sign Up for Google's New AI-Driven Search Tools"
+    excerpt: "At Google I/O, the search giant's annual developer conference, artificial intelligence was the phrase on everybody's lips. Among the more notable announcements from the event yesterday was the news that Google is letting the public test out its latest generative AI experiments by signing up for Search Labs."
+    publishedDateTime: 2023-05-11T16:15:00Z
+    webUrl: "https://www.cnet.com/tech/computing/how-to-sign-up-for-googles-new-ai-driven-search-tools/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/how-to-sign-up-for-googles-new-ai-driven-search-tools/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/how-to-sign-up-for-googles-new-ai-driven-search-tools/"
     type: article
     provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 47
-  - title: "Google Just Added Generative AI to Search"
-    excerpt: "Challenged by ChatGPT, the king of search launches a feature that can answer queries with text summarizing information found online."
-    publishedDateTime: 2023-05-10T17:59:00Z
-    webUrl: "https://www.wired.com/story/google-io-just-added-generative-ai-to-search/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 47
+      name: CNET
+      domain: cnet.com
+    quality: 87
+    images:
+      - url: "https://www.cnet.com/a/img/resize/45757153ae157d44b9bae8ae1e2ba6af86bac55a/hub/2023/05/11/3a878f9f-21cd-451b-ae9a-0d7ed8121e23/gettyimages-1230722138.jpg?auto=webp&fit=crop&height=630&width=1200"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Google: We've Made Bard Even Smarter Using PaLM 2 AI Model"
     excerpt: "The new features could make Bard a stronger rival to ChatGPT. The company also plans on watermarking content created by AI in an effort to stamp out potential misuse."
     publishedDateTime: 2023-05-10T18:23:00Z
@@ -133,20 +131,6 @@ related:
       - url: "https://thurrott.s3.amazonaws.com/wp-content/uploads/sites/2/2023/03/Google-Bard-1.jpg"
         width: 1066
         height: 600
-        isCached: true
-  - title: "Google adding AI to popular apps, search"
-    excerpt: "AI-generated responses will top the results pages, and allow users to ask follow-up questions. Google also plans to add a \"help me write\" option in its GMail that will generate replies to emails within seconds."
-    publishedDateTime: 2023-05-11T14:18:00Z
-    webUrl: "https://www.cbsnews.com/newyork/video/google-adding-ai-to-popular-apps-search/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 37
-    images:
-      - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/05/11/76c64e6b-6549-4c21-8823-8f3d1bf8f87a/thumbnail/1200x630/24eb6d37a456e6c3f266e2d621d2d54e/5ce48051e6594736cf61c54a5327ef5c.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Robots, AI and 3D Models"
     excerpt: "Robots, drones, artificial intelligence (AI) and other emerging digital technologies, which are already helping to advance nuclear decommissioning projects worldwide, are set to play an increasingly key role in the sector,"

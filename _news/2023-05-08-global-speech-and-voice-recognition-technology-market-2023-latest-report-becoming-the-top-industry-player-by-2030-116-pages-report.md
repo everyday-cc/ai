@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Facial Recognition Access Control Solutions Market 2023-2030 with Emerging Trends and Technologies"
+    excerpt: "Additionally, the report [117 Pages] examines emerging technological developments and RandD spending by key vendors. It comprehensively covers critical elements such as global Facial Recognition Access Control Solutions market share,"
+    publishedDateTime: 2023-05-11T17:53:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-access-control-solutions-market-2023-2030-with-emerging-trends-and-technologies-2023-05-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 55
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "GZ0+SITruwefbNhmveFeyaoFlhZHBvN704+RV1XW8KPT6eDTz4nYfvfWuJ1c1NyOswEo1wz0yfADz4iXnP8QVnED6yxsqkUmrhh9KZALES5L81S23wlUvE1PI91kTDyTEp9FKWJNXqJU2kOn6wapH3mUvnH5mhhhV9d4o4nrefhSx6aXXmqIpZuESWkB5SlY8kANm3YAVWNznt9tkPsYqp1YK4s2j9aJ1ai7AiubA2/ipg/6xLtuJoLHvHyd/qWf9Oa4fjpS7DSvlbghTNupX7AH8XU2e/Qrpf+RKP0rYjzQXbB4cRZYqOZ+sSyH5CMs7gcYulXWXeAk05/5dnq/bjesDcKe09laLZ46n/Tf+7g=;jEVqC1n2kgwg66r5zmXVtA=="
 ---

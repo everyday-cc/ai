@@ -46,22 +46,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Rise of artificial intelligence is inevitable but should not be feared, ‘father of AI’ says"
-    excerpt: "Jürgen Schmidhuber believes AI will progress to the point where it surpasses human intelligence and will pay no attention to people"
-    publishedDateTime: 2023-05-06T23:21:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/may/07/rise-of-artificial-intelligence-is-inevitable-but-should-not-be-feared-father-of-ai-says?ref=biztoc.com"
-    ampWebUrl: "https://amp.theguardian.com/technology/2023/may/07/rise-of-artificial-intelligence-is-inevitable-but-should-not-be-feared-father-of-ai-says"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/may/07/rise-of-artificial-intelligence-is-inevitable-but-should-not-be-feared-father-of-ai-says"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 62
-    images:
-      - url: "https://i.guim.co.uk/img/media/f2a30653e070396966e3a4e43f03d1a7986757d2/1341_236_5335_3201/master/5335.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=1170583493e429e9fd50edf6fe85387e"
-        width: 600
-        height: 360
-        isCached: true
   - title: "I asked ChatGPT, Bing, and Bard what worries them. Google's AI went Terminator on me"
     excerpt: "Just to be clear: this is not science fiction. Chatbots might have some worries that might, in turn, worry us just a bit."
     publishedDateTime: 2023-05-08T17:14:00Z
