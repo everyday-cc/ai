@@ -2,100 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2023-05-08-warren-buffett-vs-big-tech-should-you-invest-in-artificial-intelligence-ai-stocks.md",
-      "title": "Warren Buffett Vs Big Tech: Should you invest in Artificial Intelligence (AI) stocks?",
-      "excerpt": "AI is expected to impact society and global business and so AI stocks could have a place in most investors’ portfolios.",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialexpress.com/business/investing-abroad-warren-buffett-vs-big-tech-should-you-invest-in-artificial-intelligence-ai-stocks-3079067/",
-      "originalUrl": "https://www.financialexpress.com/business/investing-abroad-warren-buffett-vs-big-tech-should-you-invest-in-artificial-intelligence-ai-stocks-3079067/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.financialexpress.com/wp-content/uploads/2023/05/18-5.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.financialexpress.com/business/investing-abroad-warren-buffett-vs-big-tech-should-you-invest-in-artificial-intelligence-ai-stocks-3079067/lite/",
-      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/investing-abroad-warren-buffett-vs-big-tech-should-you-invest-in-artificial-intelligence-ai-stocks-3079067/lite/",
-      "publishedDateTime": "2023-05-08T06:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Express",
-        "domain": "financialexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-08-meet-the-post-ai-developer-more-creative-more-business-focused.md",
-      "title": "Meet the post-AI developer: More creative, more business-focused",
-      "excerpt": "We are seeing a massive paradigm shift in software development as a result of generative AI, says Amazon Web Services executive.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/meet-the-post-ai-developer-more-creative-more-business-focused/",
-      "originalUrl": "https://www.zdnet.com/article/meet-the-post-ai-developer-more-creative-more-business-focused/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/93c5df12e1167ef59f35ba818fe54a9ac1c8aa6e/2023/05/08/db8449dd-e1f1-425f-babd-e3d086dca862/gettyimages-1442975224.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/meet-the-post-ai-developer-more-creative-more-business-focused/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/meet-the-post-ai-developer-more-creative-more-business-focused/",
-      "publishedDateTime": "2023-05-08T06:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-05-08-jobs-market-remains-strong-and-the-fed-hints-at-a-pause-to-rate-hikes-forbes-ai-newsletter-may-6th.md",
       "title": "Jobs Market Remains Strong And The Fed Hints At A Pause To Rate Hikes - Forbes AI Newsletter May 6th",
       "excerpt": "Subscribe to the Forbes AI newsletter to stay in the loop and get AI-backed investing insights, the latest news and more delivered directly to your inbox every weekend.",
@@ -916,7 +822,7 @@
       "originalUrl": "https://www.bloomberg.com/news/articles/2023-05-08/makemytrip-adds-ai-voice-chat-to-lure-more-india-travelers",
       "featuredContent": null,
       "highlight": null,
-      "heat": 139,
+      "heat": 149,
       "tags": null,
       "images": [
         {
@@ -1063,7 +969,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-of-things-aiot-solutions-market-research-2023-2030-2023-05-07",
       "featuredContent": null,
       "highlight": null,
-      "heat": 111,
+      "heat": 121,
       "tags": null,
       "images": [
         {
@@ -1259,6 +1165,110 @@
       "topics": [
         "AI in Robotics",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-08-this-week-in-xr-after-ai-sucks-the-air-out-of-the-metaverse-it-will-remake-xr.md",
+      "title": "This Week In XR: After AI Sucks The Air Out Of The Metaverse, It Will Remake XR",
+      "excerpt": "On the “This Week In XR” podcast Friday morning, co-host and Magic Leap founder Rony Abovitz said “ AI is what XR has been waiting for. ” Co-host Ted Schilowitz, Futurist at Paramount Global says “the Apple Mixed Reality headset will change everyone’s thinking. ” He should know. He’s seen it.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/charliefink/2023/05/07/this-week-in-xr-after-ai-sucks-the-air-out-of-the-metaverse-it-will-remake-xr/",
+      "originalUrl": "https://www.forbes.com/sites/charliefink/2023/05/07/this-week-in-xr-after-ai-sucks-the-air-out-of-the-metaverse-it-will-remake-xr/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64567adb7e7cefe61be31892/0x0.jpg?format=jpg&width=1200",
+          "width": 782,
+          "height": 607,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/charliefink/2023/05/07/this-week-in-xr-after-ai-sucks-the-air-out-of-the-metaverse-it-will-remake-xr/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charliefink/2023/05/07/this-week-in-xr-after-ai-sucks-the-air-out-of-the-metaverse-it-will-remake-xr/amp/",
+      "publishedDateTime": "2023-05-07T14:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-08-2030-gpu-for-deep-learning-market-with-pestal-swot-analysis.md",
+      "title": "2030, GPU for Deep Learning Market with PESTAL & SWOT Analysis",
+      "excerpt": "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/2030-gpu-for-deep-learning-market-with-pestal-swot-analysis-2023-05-07",
+      "originalUrl": "https://www.marketwatch.com/press-release/2030-gpu-for-deep-learning-market-with-pestal-swot-analysis-2023-05-07",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 136,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-07T12:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI Hardware"
       ]
     }
   ],

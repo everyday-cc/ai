@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Automatic Speech Recognition Market Research | 2023-2028"
+    excerpt: "(The Expresswire) -- \"Automatic Speech Recognition Market\" is expected to grow at an unexpected CAGR during the forecast period, reaching"
+    publishedDateTime: 2023-05-11T05:58:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automatic-speech-recognition-market-research-2023-2028-2023-05-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Speech and Voice Recognition Market Research Findings to 2030"
     excerpt: "The 2023 Global Speech and Voice Recognition Market Survey aims to provide comprehensive insights into the industry,"
     publishedDateTime: 2023-05-09T08:00:00Z

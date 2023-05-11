@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/latest-deep-learning-chi
 webUrl: "https://www.marketwatch.com/press-release/latest-deep-learning-chip-market-trends-2023-2030-2023-05-10"
 type: article
 quality: 86
-heat: 256
+heat: 266
 published: true
 
 provider:
@@ -85,6 +85,20 @@ related:
     excerpt: "The Global Deep Learning in Manufacturing market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players,"
     publishedDateTime: 2023-05-08T06:05:00Z
     webUrl: "https://www.marketwatch.com/press-release/deep-learning-in-manufacturing-market-size-2030-2023-05-08"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Cloud Natural Language Processing Market Growth 2023-2030"
+    excerpt: "May 09, 2023 (The Expresswire) -- \"Cloud Natural Language Processing Market\" Insights 2023 By Types ( Rulebased Natural Language Processing,"
+    publishedDateTime: 2023-05-09T21:33:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cloud-natural-language-processing-market-growth-2023-2030-2023-05-09"
     type: article
     provider:
       name: MarketWatch

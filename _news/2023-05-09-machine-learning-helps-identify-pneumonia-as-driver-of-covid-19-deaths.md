@@ -47,15 +47,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "“Cytokine Storm” Debunked: Machine Learning Exposes the True Killer of COVID-19 Patients"
-    excerpt: "Machine learning finds no evidence of cytokine storm in critically ill patients with COVID-19. No evidence of cytokine storm in critically ill patients with COVID-19 Nearly half of patients with COVID"
-    publishedDateTime: 2023-05-06T15:46:00Z
-    webUrl: "https://scitechdaily.com/cytokine-storm-debunked-machine-learning-exposes-the-true-killer-of-covid-19-patients/"
-    type: article
-    provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 10
 
 secured: "MLIeGBjWpbrKXeykUEfO6jMUk1U+sigFK8dQqsSdKXKRGmVXz5RacW/6mae/vmY9dOa/Qnk8znDirJSAASvLnwbAi+vevwnDze7blhIoPFf7Uu7l9CNt/oA+NGEABhgKo+dpGzWLT1Asu44sHkiM851jk1cKQISAmFIa/Pl6NvM1qyC9DVi3uqcMTULurTHqJqMejTCd15hw0kBaKjQ9iZQ08PNymcBU0zG5KdnMXgLRrro1IHSCSgJH8w5YxMprB9KG7paHBF4aVK84JO7+dpLUjG+ebhPC6RBQhtEuYZvktJ9Tj39zeetV0o9ssMMI7a0qDMPvmtkWYicr772PuT1z8n/nFO6j2hay5j8wLY5kGbImXmkkc2R1gLY5y9GZmd9vXNrdXrvrgl3glveTz4t203jM4Lz3QCWO2W0YXtGnlyZEj6Heaon81Yzs2WvVJrNB6iyMfd0pTKNRL/kKFJSlP3CG+rML/xoiUJGmxtPW86FbDt993eS8wNTeVBpVxcqaHfw1ONWjvZ3y/Brofg==;e21+wTTiddzEyKlWndaedA=="
 ---

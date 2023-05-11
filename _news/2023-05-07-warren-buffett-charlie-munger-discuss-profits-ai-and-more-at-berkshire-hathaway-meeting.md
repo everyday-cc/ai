@@ -33,6 +33,15 @@ related:
       name: ABC
       domain: abcnews.go.com
     quality: 17
+  - title: "Buffett, Munger Skeptical Of AI: 'Old Fashioned Intelligence Works Pretty Well'"
+    excerpt: "Munger, who introduced Buffett to Chinese electric vehicle maker BYD Manufacturing Company Limited BYDDY BYDDF, noted that, at BYD's factories, robotics is used at an unbelievable rate, according to CNBC. \"We're going to see a lot more robotics in the world,\" he added."
+    publishedDateTime: 2023-05-06T19:19:00Z
+    webUrl: "https://www.benzinga.com/news/23/05/32254234/buffett-munger-skeptical-of-ai-old-fashioned-intelligence-works-pretty-well"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 15
 
 secured: "Q9DvAg6LpeSkEzgJeebchBxXEfs5s9UGTgGGO510wPSSmz1vjwJK6sujGgz477PPfA2q0gx1rrEJmdfn+g1f2198pS+7+NMl6hTsJeyDGBqslIhv2s5C94yFMjpscn40nKuOV2qZ0lIxJb+ZTRdBGRtZaJtRn56Lu2FaadmrOYkpN/L6rAR1cZ1qvU66WjQrfWCqsdNEsunM/pMgVN1BIoM8zmqPTCT3wUWcUjCipoo4bdUCrUc0yVavjXdEqIFQGO9YUpMvaDMHk1dSrtfUq/424L9vI+QbhpLZutC3rWpuQIFEl1TEGrhCtSPkgcSldi2PJq4ktWHoXSYFffZv8+5qSBExXOZN02DC2iWwyEKVmbb+Lc6ZPlxhFRQRnYV0JY5IPD/06ScDhX7GWykkxV4Zzu1nHp5LeR6TlMJdJdX0GLjxBkvedM322IE1q59gugtHATFMOUtRHkQEJe0DyXbgToOYh1onf6n9iDX/yBtvWsJNzWtgiJv2kCqQFu9FesUm8Qtd53W+bICAn7ln3g==;TEbPxCTd4yfAtA2tmBXW9w=="
 ---

@@ -2,48 +2,6 @@
   "page": 19,
   "value": [
     {
-      "path": "_news/2023-04-28-democratic-senator-introduces-bill-targeting-ais-shortfalls.md",
-      "title": "Democratic senator introduces bill targeting AI’s shortfalls",
-      "excerpt": "The popular use of ChatGPT and other artificial intelligence has sparked a rush around the globe to figure out if and how it should be regulated.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/congress/democratic-senator-introduces-bill-targeting-ais-shortfalls-rcna81959",
-      "originalUrl": "https://www.nbcnews.com/politics/congress/democratic-senator-introduces-bill-targeting-ais-shortfalls-rcna81959",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-04/230428-senator-michael-bennett-mn-0950-ae45c0.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna81959",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna81959",
-      "publishedDateTime": "2023-04-28T07:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-04-28-artificial-intelligence-ai-consulting-market-research-2023-2030.md",
       "title": "Artificial Intelligence (AI) Consulting Market Research, 2023-2030",
       "excerpt": "Consulting Report 2023 The report further studies the market development status and future Artificial Intelligence (AI) Consulting Market trends across the world. Also, it splits Artificial Intelligence (AI) Consulting Market Segmentation by Type and by Applications to fully and deeply research and reveal market profiles and prospects.",
@@ -186,6 +144,40 @@
       ],
       "topics": [
         "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-28-amazons-cloud-warning-set-to-erase-nearly-60-billion-in-value.md",
+      "title": "Amazon's cloud warning set to erase nearly $60 billion in value",
+      "excerpt": "Amazon.com Inc shares fell nearly 5% on Friday after the company warned its lucrative cloud services business slowed further in April, fueling concerns that the long-time growth driver was struggling with a pullback in technology spending. We apologize ...",
+      "sourceUrl": null,
+      "webUrl": "https://financialpost.com/pmn/business-pmn/amazons-cloud-warning-set-to-erase-nearly-60-billion-in-value",
+      "originalUrl": "https://financialpost.com/pmn/business-pmn/amazons-cloud-warning-set-to-erase-nearly-60-billion-in-value",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://financialpost.com/pmn/business-pmn/amazons-cloud-warning-set-to-erase-nearly-60-billion-in-value/wcm/92febc1e-31b2-4f30-8947-9de8e4b61a51/amp/",
+      "cdnAmpWebUrl": "https://financialpost-com.cdn.ampproject.org/c/s/financialpost.com/pmn/business-pmn/amazons-cloud-warning-set-to-erase-nearly-60-billion-in-value/wcm/92febc1e-31b2-4f30-8947-9de8e4b61a51/amp/",
+      "publishedDateTime": "2023-04-28T06:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Financial Post",
+        "domain": "financialpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
         "AI"
       ]
     },
@@ -468,18 +460,18 @@
     },
     {
       "path": "_news/2023-04-28-first-babies-born-after-being-conceived-by-playstation-controlled-robot.md",
-      "title": "First Babies Born After Being Conceived By Playstation-Controlled Robot",
-      "excerpt": "(MENAFN- IANS) San Francisco, April 28 (IANS) Overture Life, a Spanish startup, which developed a sperm-injecting robot that can be controlled using a PlayStation controller, has successfully ...",
+      "title": "First babies born after being conceived by PlayStation-controlled robot",
+      "excerpt": "San Francisco, April 28 (IANS) Overture Life, a Spanish startup, which developed a sperm-injecting robot that can be controlled using a PlayStation controller, has successfully fertilised human ...",
       "sourceUrl": null,
-      "webUrl": "https://menafn.com/1106125998/First-Babies-Born-After-Being-Conceived-By-Playstation-Controlled-Robot",
-      "originalUrl": "https://menafn.com/1106125998/First-Babies-Born-After-Being-Conceived-By-Playstation-Controlled-Robot",
+      "webUrl": "https://glamsham.com/world/technology/first-babies-born-after-being-conceived-by-playstation-controlled-robot",
+      "originalUrl": "https://glamsham.com/world/technology/first-babies-born-after-being-conceived-by-playstation-controlled-robot",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://menafn.com/updates/pr/2023-04/28/I_b2afeimage_story.jpg",
+          "url": "https://glamsham.com/wp-content/uploads/2023/04/84fad78bd3ae8958835271cb06d8f198.jpg",
           "width": 400,
           "height": 268,
           "title": null,
@@ -491,11 +483,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-28T05:44:00-07:00",
+      "publishedDateTime": "2023-04-28T05:37:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Mena FN",
-        "domain": "menafn.com",
+        "name": "glamsham.com",
+        "domain": "glamsham.com",
         "images": null,
         "publishers": null,
         "authors": null

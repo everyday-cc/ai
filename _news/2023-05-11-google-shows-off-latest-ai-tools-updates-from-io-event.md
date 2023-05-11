@@ -82,9 +82,9 @@ related:
         height: 306
         isCached: true
   - title: "Google Says Search Enters New Era With Conversational AI Features"
-    excerpt: "The company intends to use artificial-intelligence programs to provide lengthier replies to queries. The new features invite follow-up questions."
+    excerpt: "The company intends to use AI programs to provide lengthier replies to queries. The new features invite follow-up questions."
     publishedDateTime: 2023-05-10T20:36:00Z
-    webUrl: "https://www.wsj.com/articles/google-says-search-enters-new-era-with-conversational-features-ca17f277?mod=business_minor_pos9"
+    webUrl: "https://www.wsj.com/articles/google-says-search-enters-new-era-with-conversational-features-ca17f277"
     type: article
     provider:
       name: Wall Street Journal

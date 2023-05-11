@@ -21,9 +21,9 @@ related:
   - title: "Google is giving its dominant search engine an artificial-intelligence makeover"
     excerpt: "Google has disclosed plans to infuse its dominant search engine with more advanced artificial-intelligence technology"
     publishedDateTime: 2023-05-11T03:32:00Z
-    webUrl: "https://abcnews.go.com/Technology/wireStory/google-giving-dominant-search-engine-artificial-intelligence-makeover-99235255"
-    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/google-giving-dominant-search-engine-artificial-intelligence-makeover-99235255"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/google-giving-dominant-search-engine-artificial-intelligence-makeover-99235255"
+    webUrl: "https://abcnews.go.com/US/wireStory/google-giving-dominant-search-engine-artificial-intelligence-makeover-99233593"
+    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/google-giving-dominant-search-engine-artificial-intelligence-makeover-99233593"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/google-giving-dominant-search-engine-artificial-intelligence-makeover-99233593"
     type: article
     provider:
       name: ABC

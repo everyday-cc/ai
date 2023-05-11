@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2023-05-08/makemytrip-adds
 webUrl: "https://www.bloomberg.com/news/articles/2023-05-08/makemytrip-adds-ai-voice-chat-to-lure-more-india-travelers"
 type: article
 quality: 69
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
       - url: "https://www.livemint.com/lm-img/img/2023/05/08/600x338/AI_1683534039523_1683534039751.JPG"
         width: 600
         height: 338
+        isCached: true
+  - title: "MakeMyTrip partners with Microsoft for voice-based travel bookings in Indian languages with AI"
+    excerpt: "MakeMyTrip announced a partnership with Microsoft on Monday to bring voice-assisted booking in Indian languages using Generative AI to make travel planning easier. Read on to learn more."
+    publishedDateTime: 2023-05-09T12:43:00Z
+    webUrl: "https://www.gizbot.com/internet/news/makemytrip-partners-with-microsoft-for-voice-based-travel-bookings-in-indian-languages-with-ai-085387.html"
+    ampWebUrl: "https://www.gizbot.com/amphtml/internet/news/makemytrip-partners-with-microsoft-for-voice-based-travel-bookings-in-indian-languages-with-ai-085387.html"
+    cdnAmpWebUrl: "https://www-gizbot-com.cdn.ampproject.org/c/s/www.gizbot.com/amphtml/internet/news/makemytrip-partners-with-microsoft-for-voice-based-travel-bookings-in-indian-languages-with-ai-085387.html"
+    type: article
+    provider:
+      name: GIZBOT
+      domain: gizbot.com
+    quality: 62
+    images:
+      - url: "https://www.gizbot.com/img/1200x60x675/img/2023/05/makemytrip-and-microsoft-1683635443.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "MakeMyTrip adds AI voice chat to lure more travellers"
     excerpt: "MakeMyTrip Ltd. will use Microsoft Corp.’s Azure Open AI technology for the chat, initially available in English and Hindi, the Indian company said in a statement Monday."

@@ -37,20 +37,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Money Matters: Move over ChatGPT — AI’s coming for a byte of the medical and dental industries"
-    excerpt: "Wielding these types of results ensures a permanent place for this technology in health care and other fields. According to Statista, the artificial intelligence health care market size was worth ..."
-    publishedDateTime: 2023-05-06T15:49:00Z
-    webUrl: "https://www.heraldextra.com/news/community/2023/may/06/money-matters-move-over-chatgpt-ais-coming-for-a-byte-of-the-medical-and-dental-industries/"
-    type: article
-    provider:
-      name: Daily Herald
-      domain: heraldextra.com
-    quality: 27
-    images:
-      - url: "https://ogden_images.s3.amazonaws.com/www.heraldextra.com/images/2023/05/04215649/image-6-1200x643.png"
-        width: 1200
-        height: 643
-        isCached: true
 
 secured: "plN++9tsMxnQ0adLg1ER/LHIKWdJZAjZrYlWqw48zAq2Z9k8nkocuqdxNSmpFlbyn3imYdoJFRpxjTOeyLz5tzhT6CuGMA2zUqSKZJ8UVQxxVtGxqCGlWHkcFmmxwJzKdm8ZGrIl/yt3RHsA+pfet8r8TYmlWWm8YE7q3OXCmXIBH5AAbhHX3uUxr/1LCJ1tJeXzuTzw9KUlN69rnGERUPcKxa0NG8+YWZc5Bh2nbH3APdw6sgjt4rFvweV52eObO3tw+WIvwyZNWeNhud1VmrHxwNhdX4SdsxK/oBX8olqFU+LjngYYqry5+qgeA/xlTbgWM6ED6hzex+fHc3pXoV9go8ZhRnVYOrAxHT/okflnls8QVd+XlQHODZ2h5jHWmchbPyKh0G0bY2hgnE7yFdveWT9++3OEABQ5X8+5QtbPHYppP9ueN5Y02dgNA8OoeYXNrgBG11EPs/BK9KG0bhE/mA+EWRJXiEr0LNj1LjxpWlfiyCsGHDNWoylhchlC06xwcUxo4xzdQCPQ0zuGZQ==;Gy3iWKTiYQUZWvr00/QKmQ=="
 ---

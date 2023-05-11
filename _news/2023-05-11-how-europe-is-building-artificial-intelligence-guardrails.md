@@ -3,10 +3,10 @@ category: news
 title: "How Europe is building artificial intelligence guardrails"
 excerpt: "Authorities around the world are racing to draw up rules for artificial intelligence, including in the European Union, where draft legislation faces a pivotal moment"
 publishedDateTime: 2023-05-11T07:02:00Z
-originalUrl: "https://abcnews.go.com/Technology/wireStory/europe-building-artificial-intelligence-guardrails-99247702"
-webUrl: "https://abcnews.go.com/Technology/wireStory/europe-building-artificial-intelligence-guardrails-99247702"
-ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/europe-building-artificial-intelligence-guardrails-99247702"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/europe-building-artificial-intelligence-guardrails-99247702"
+originalUrl: "https://abcnews.go.com/Business/wireStory/europe-building-artificial-intelligence-guardrails-99247610"
+webUrl: "https://abcnews.go.com/Business/wireStory/europe-building-artificial-intelligence-guardrails-99247610"
+ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/europe-building-artificial-intelligence-guardrails-99247610"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/europe-building-artificial-intelligence-guardrails-99247610"
 type: article
 quality: 72
 heat: -1
@@ -40,6 +40,22 @@ related:
         width: 256
         height: 256
         isCached: true
+  - title: "How Europe is at the forefront of building artificial intelligence guardrails"
+    excerpt: "Authorities around the world are racing to draw up rules for artificial intelligence, including in the European Union, where draft legislation faced a pivotal moment on Thursday. A"
+    publishedDateTime: 2023-05-11T09:44:00Z
+    webUrl: "https://kdvr.com/news/technology/how-europe-is-building-artificial-intelligence-guardrails/"
+    ampWebUrl: "https://kdvr.com/news/technology/how-europe-is-building-artificial-intelligence-guardrails/amp/"
+    cdnAmpWebUrl: "https://kdvr-com.cdn.ampproject.org/c/s/kdvr.com/news/technology/how-europe-is-building-artificial-intelligence-guardrails/amp/"
+    type: article
+    provider:
+      name: FOX31 Denver
+      domain: kdvr.com
+    quality: 69
+    images:
+      - url: "https://kdvr.com/wp-content/uploads/sites/11/2023/05/645cb94a2eb286.56802250.jpeg?w=1280"
+        width: 1280
+        height: 853
+        isCached: true
   - title: "The Global Battle to Regulate AI Is Just Beginning"
     excerpt: "Europe’s parliament is struggling to agree on new rules to govern AI—showing how policymakers everywhere have a lot to learn about the technology."
     publishedDateTime: 2023-05-08T06:00:00Z
@@ -69,6 +85,6 @@ related:
         height: 413
         isCached: true
 
-secured: "pfxK8c5UIebQaStiyBf6xjNQA6VfHVrSu//FgjggmoikYijWainLt7JcrUg7apqsG577q/YUiVR6phC9Ugze4FuvQ/ymcbWUuZcIZn9Z14b8hnF5/RH9kKwTjXEWNxMCzHm21UTzj8zZCnZs+imRP+PUbhNjP74i0KinFto1ahOYgDo/m5EJpbvcxBddNrQC18QqgJeYq02lqICCXAL89Fyn3ghfK7ebx0I770gzzsHhVDn7WHPln8lt/sx4Lex6RO5Cqwi7iMfiDDWOqSUU8dJxMjaSu2uUfa/1HUIdhMbrizbsglp/tqSI5aHCDfYbMYgNXH0nvWfJqt+aQt/N0JwsbpfqGKIlUYi0ydV8kl4=;Ot1dlCpmYW9efKg5MCJ4Lw=="
+secured: "aKr7wB6148HinA4vK9uqhHkro7JoaqSsNBFIHrxYcORJriuCO9a9cUpVXNfw6OjELtJXRGlITW/XXR/1H2q1yiCdL6h3LKwjR5O/n2CAU7KZ+fBPC65Bpj0HV3WUgAE8gyn8TZzf09Fp6vQ9V2i+RzxGnHN+QKA9IZEYYhb7qRLOcKM+ywkjxe4QmfpEUmgGXMFdc8KcnEbXEPph5c9M49C5N6tYhvs8ltl7diGnd97Y6o6BfI40sIrjS3E1+iuytIev83uctD0Q+5bphuKc5hCBYPZ7EKkbCvDLdcnt88eIvuOkTQv/fwB8dphRPOCxaJlmUeXWhI7YQ3TNBrjhooC4c26z2Qz0IxT+mOlHZwQ=;+BHZAlmXw9/pPzHYJ7xQWw=="
 ---
 

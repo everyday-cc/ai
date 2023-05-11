@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Machine Learning as a Service (MLaaS) Market (2023 to 2030) | Latest Study on Industry Trends with Top Countries Data"
+    excerpt: "The latest report on the \"Machine Learning as a Service (MLaaS) Market\" is 250 pages long and includes a number"
+    publishedDateTime: 2023-05-10T09:16:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-2023-to-2030-latest-study-on-industry-trends-with-top-countries-data-2023-05-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 63
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "sQfVB1xW41PxariXIVqXD8WYbopBd7OR3ilQpVVcJySN2n+tSuKrM67IkHABx/StU3qFgoLUvPT2f3uBV3rxpQzyMHX43cLO1T/9FM0KTlpZPyYHvZ5FgzwSa9IaUnbV2Q9cBNYYSaJc9ciYKLqvs7YMSwkqLhwmPG0gAX8w26M4wb8aY6qKpP9FAtESiQe9+vkruDKyyzKaKX8gpYOmRqBvJ5Uebz/ALzchFmumc6z3x5GMvtY+KbNA3G1DqLPWQKE4aFpsaq+U3PLYUpYQ07W1nw//04syaRH4UUr9scbTBPFQ3Q+DxoNEGTMl9w36ghanenZjbrzhfr9e7lR502fsfib/XqD/ZAReTLTyFoY=;iPDAfd+21sROfIC+mnyPQw=="
 ---

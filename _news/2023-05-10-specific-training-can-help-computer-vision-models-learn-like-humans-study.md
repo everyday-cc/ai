@@ -1,30 +1,22 @@
 ---
 category: news
 title: "Specific training can help computer vision models learn like humans: Study"
-excerpt: "MIT researchers have discovered that a specific training method can help computer vision models learn more perceptually straight representations, like humans do. Training involves showing a machine-learning model millions of examples so it can learn a task."
-publishedDateTime: 2023-05-10T01:01:00Z
-originalUrl: "https://www.devdiscourse.com/article/science-environment/2445976-specific-training-can-help-computer-vision-models-learn-like-humans-study"
-webUrl: "https://www.devdiscourse.com/article/science-environment/2445976-specific-training-can-help-computer-vision-models-learn-like-humans-study"
-ampWebUrl: "https://www.devdiscourse.com/article/science-environment/2445976-specific-training-can-help-computer-vision-models-learn-like-humans-study?amp"
-cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/science-environment/2445976-specific-training-can-help-computer-vision-models-learn-like-humans-study?amp"
+excerpt: "Unlike humans, computer vision models don't typically exhibit perceptual straightness, so they learn to represent visual information in a highly unpredictable way. But if machine-learning models had this ability,"
+publishedDateTime: 2023-05-10T13:06:00Z
+originalUrl: "https://news.webindia123.com/news/Articles/Science/20230510/4071872.html"
+webUrl: "https://news.webindia123.com/news/Articles/Science/20230510/4071872.html"
 type: article
-quality: 72
-heat: 82
-published: true
+quality: 32
+heat: 32
+published: false
 
 provider:
-  name: devdiscourse
-  domain: devdiscourse.com
+  name: Webindia 123
+  domain: webindia123.com
 
 topics:
   - Computer Vision
   - AI
-
-images:
-  - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/10_05_2023_00_57_45_5641496.jpg?width=1280"
-    width: 1280
-    height: 960
-    isCached: true
 
 related:
   - title: "Straightening Out AI: How MIT Researchers Bridge the Gap Between Human and Machine Vision"
@@ -37,6 +29,6 @@ related:
       domain: scitechdaily.com
     quality: 10
 
-secured: "SR4+0hDBjYkG7UqFXNFO3AJzQGiE6c+olKSKAUx/8Olc/kVwaCU1QJLbz2U3zH6Qtvz2Gy8I8rkHFjWTjASvx5AI1jthmDwFCMvUPW2mqcgio5h/YGugBXJBn9d13UJ3kZZLRr7BBhoEKMYiyB8xlRncZXlzEBAbLpl8xiO739MAAb4nz31ViOP0SughufoEajUCkfsWZQAxH1E3w1pW0ZeV3SDyOfPKLIeMbQ3x++THYJ81OBXw0wsUy2sIqLfS4pb8bQ8tl0AAKhpW9p4mX5RvagEyIFBTczEql9AQa6hPCo3NQc6Os/7DO1uZjhKnwSBI/GlCfgHyhOSUS178o9XmGYAVXxXgVxsjla4JBkQ=;FOpQSmqluj7PC0qEHiRISQ=="
+secured: "oBl0WxqgaKe9gNYx9gXUb8FJP0qYO2wVQPwH/2Ki5KJP7kIgiw6oA9QyAIBmHqK3DaUNyXQiZg2w4cUcO4tPqQodzW0Zmviw22bM6RN3u1Xmipojj5I7+fehke2SmX4fVpDE9uzygsIm2/AuOTptcFRlOQBZH0Xvp4zLjILF6wuGonz8WzJTnktUbeOAso+E6w1ESP6jAFm5rc0tdX+6ERFyqYuZe9bnEIebj4nBFzQfYaTfuIn0P7/tVTmka4lwwnmcWlaZjJL78CG5NsXoEj54pBpTK8vZCJ3LAuuXbqQT6WCc1kOfK5ZiRvuPDC5/l962wxJfmelTssJZHSYr9zwQLaxt7Fw8VQrTNxd9a6c=;Ra9zBilI9FaQYMrfRu2rVA=="
 ---
 

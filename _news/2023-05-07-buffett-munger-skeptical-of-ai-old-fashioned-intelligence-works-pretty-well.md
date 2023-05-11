@@ -19,20 +19,29 @@ topics:
   - AI
 
 related:
-  - title: "Charlie Munger on AI: 'I think old-fashioned intelligence works pretty well'"
-    excerpt: "\"I am personally skeptical of some of the hype that has gone into artificial intelligence,\" Munger said at the ( BRK-A, BRK-B) annual meeting. \"I think old-fashioned intelligence works pretty well.\" AI has taken center stage on Wall Street since OpenAI launched the latest version of ChatGPT in late November."
-    publishedDateTime: 2023-05-06T16:24:00Z
-    webUrl: "https://www.aol.com/finance/charlie-munger-ai-think-old-161054286.html"
+  - title: "Warren Buffett, Charlie Munger discuss profits, AI and more at Berkshire Hathaway meeting"
+    excerpt: "Warren Buffett and partner Charlie Munger spent Saturday answering questions at Berkshire Hathaway's annual shareholders meeting."
+    publishedDateTime: 2023-05-07T14:57:00Z
+    webUrl: "https://www.usatoday.com/story/money/2023/05/07/warren-buffett-berkshire-hathaway-charlie-munger/70192392007/"
     type: article
     provider:
-      name: AOL
-      domain: aol.com
-    quality: 34
+      name: USA Today
+      domain: usatoday.com
+    quality: 28
     images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/uJRtPw4UBwnwmMqNzOpQeQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_yahoo_finance_433/1e0f8d2cca94d0cf1ece12363fed1e8e"
+      - url: "https://www.gannett-cdn.com/presto/2023/05/07/USAT/0c4a5d75-2381-466d-a486-363e30b13f9c-AP_Sees_Candies_x_Berkshire_Hathaway_Meeting.jpg?auto=webp&crop=2998,1687,x0,y152&format=pjpg&width=1200"
         width: 1200
-        height: 800
+        height: 675
         isCached: true
+  - title: "Buffett shares good news on profits, AI thoughts at meeting"
+    excerpt: "Warren Buffett's company said its first-quarter profits soared along with the paper value of its investment portfolio"
+    publishedDateTime: 2023-05-06T23:32:00Z
+    webUrl: "https://abcnews.go.com/US/wireStory/profits-jump-buffetts-company-ahead-annual-meeting-99135913"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 17
 
 secured: "iOfF67Qm2MeacNm4wOgAkbALW8CSdeE4bbvd0CJMvOrmWQ8saRlnDgaQQZnxg+0b+/JjwFwwX3YQaJA7ljML7spWmLg/ZxGHlUlRdul3Czgne1yQPlAPGs9kH4EuYKiE3/lpqcOV3XgMArHG1uq6GoX1MQ9PAD4225FXOQMs4kv39G3bexs+EKLxQ/cvnTc9RuxfvuH5VLhCpOQHHog+1a0yrJmF87nwA9HmKEh5horCYMjfy3hIm7syb+qZmM60Hj9RTLshEo2/pybspAbuyf6ec5Lh+ZFM3tVZdBrYEI/RVmiom253jM7A+WbDwCt/43QnW9u/0N+aWF6iEgRhuWvVf8YLqafpfa9bjjHKDL8=;vgZ13jM19swpnLPfWuGGGQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dcnewsnow.com/news/local-news/virginia/shenandoah-county
 cdnAmpWebUrl: "https://www-dcnewsnow-com.cdn.ampproject.org/c/s/www.dcnewsnow.com/news/local-news/virginia/shenandoah-county/valley-health-system-hospital-innovations-include-robots-at-nursing-stations/amp/"
 type: article
 quality: 56
-heat: 56
+heat: 66
 published: false
 
 provider:
@@ -25,6 +25,17 @@ images:
     width: 1280
     height: 713
     isCached: true
+
+related:
+  - title: "Atomic Revolutionizes Payroll System Integrations with SmartAuth, its Groundbreaking AI-Powered Authentication Engine"
+    excerpt: "Atomic, a leading provider of payroll system integrations, has unveiled SmartAuth, a new artificial intelligence-powered authentication engine. This b"
+    publishedDateTime: 2023-05-10T12:05:00Z
+    webUrl: "https://www.businesswire.com/news/home/20230510005294/en/Atomic-Revolutionizes-Payroll-System-Integrations-with-SmartAuth-its-Groundbreaking-AI-Powered-Authentication-Engine"
+    type: article
+    provider:
+      name: newsroom.businesswire.com
+      domain: businesswire.com
+    quality: 0
 
 secured: "Lcg4vRMMMjNX8HXPNyx9by93V9S3vHqIMP83Bap4zJrbhXjqYZEvX89vUrjzIdIYpZGyi5DHD9M0fAV5mBHrwQ7urcCkFiE2jJIScHvQifRBa28KfCnV1ebqEwiiI0xP55xCrnvfox1ndOMDEGtjXMW11PPtDbv9aeZHpaJHgc87My5BZOoV0sKF5Eg0ExbvuuhL7/rEXTli6pa6mJoxwYwfHrCj21dNPRcNwc790o6QsYobSVFIx5qMXlhPteK08f4i9cIex+vY3w1UsRESCCWB5qrZyuR9yAQnosATvQ6d3n7nnT1DvvNr8vCpcD4EBNQQUqLa5qdTKDCBYhg1qzMcKLJ5NgQVKz3MuOZLeTaSPTlDmnDhMSPM3QLKmvnZ3ci0wSmRmSXRmms8iY2Ic/okk95xsehYOJHwjMS4Ka+I57JpDSJkDdvWiPxzw+6vny+W6M3z214JO3ZqeCNk1VOTnip2B77fcg2XIMMrBgZxT0aU169JpaF7YBxOBq8Laq3eJTpV9YwAY2VVLAWPOQ==;/cgoREkLlhkdNhXxP7DI/A=="
 ---

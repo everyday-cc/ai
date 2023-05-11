@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxbusiness.com/technology/hackers-look-ai-flaws-white-h
 cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/hackers-look-ai-flaws-white-house-direction.amp"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "Hackers aim to find flaws in AI – with White House help"
+    excerpt: "No sooner did ChatGPT get unleashed than hackers started “jailbreaking” the artificial intelligence chatbot – trying to override its safeguards so it could blurt out something unhinged or obscene."
+    publishedDateTime: 2023-05-11T09:34:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2023/05/11/hackers-aim-to-find-flaws-in-ai---with-white-house-help"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 39
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2023/05/11/2067485.jpg"
+        width: 1240
+        height: 826
+        isCached: true
 
 secured: "e++8acCpIBGy/8QYJ4P8p9QOQBtY6dZa83WyDhKJ2ypIXpiNAUSWUkdb4BaSz9dcedYd7wN7ZE1mQ3lKMo5aUQu6jh4u+hgWR33QvMWRuJOnbtopCbI/5DJZ4oU8r777ky3llh6bqJtvyTiR3i60oFvsT9UhC6YFOmx4b3sprl0vKv88wDqbrR1iTE9uiAydln37NtAc4OggCwWPHjs9q06jhs8oekZs2CkOwteHYn9LLiJ2PXnff0weSVKsF+O/oj9WyWSjbRXFgNXQ8II9No0+oomO5hrOMP/hxStJfSViKlf/wbL0lPstf48vxRvc9TAMvaX/7pFNGw9A6cehkgeK0O3eLOkN4wQJXpVVwb8B+vR170XSgysQMlIadxHEqTQ/dmf8d3d2w4NAxzz5cKe/b02cnP0h3IGBJ9RU519/iRWTSIdeJhouGUk8B9eA6SyrwOqDncyzJkmfYtMCy2xfHTKJpRwlo+AhxaxWZzr+Zj/eApudStxsm1xf8Do6XEXE12QzrQwzgqmegfGXOA==;X8vP7M+UgGuqrq4PG0HM5w=="
 ---

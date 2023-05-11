@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-machine-learning-
 webUrl: "https://www.marketwatch.com/press-release/global-machine-learning-as-a-service-mlaas-market-analysis-of-new-report-2023-2030-2023-05-10"
 type: article
 quality: 77
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -38,6 +38,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 75
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Machine Learning as a Service (MLaaS) Market (2023 to 2030) | Latest Study on Industry Trends with Top Countries Data"
+    excerpt: "The latest report on the \"Machine Learning as a Service (MLaaS) Market\" is 250 pages long and includes a number"
+    publishedDateTime: 2023-05-10T09:16:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-2023-to-2030-latest-study-on-industry-trends-with-top-countries-data-2023-05-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 63
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

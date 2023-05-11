@@ -167,7 +167,7 @@
       "originalUrl": "https://time.com/6278144/european-union-artificial-intelligence-regulation/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 116,
       "tags": null,
       "images": [
         {
@@ -738,8 +738,8 @@
       "title": "AWS DeepRacer: When fun meets ML, autonomous cars and upskilling",
       "excerpt": "The AWS DeepRacer event, hosted last Friday by simulation technology provider Computer Modeling Group (CMG) in Calgary, showed how access to the right resources, a good old showdown and attractive ...",
       "sourceUrl": null,
-      "webUrl": "https://windsorstar.com/technology/aws-deepracer-when-fun-meets-ml-autonomous-cars-and-upskilling",
-      "originalUrl": "https://windsorstar.com/technology/aws-deepracer-when-fun-meets-ml-autonomous-cars-and-upskilling",
+      "webUrl": "https://thestarphoenix.com/technology/aws-deepracer-when-fun-meets-ml-autonomous-cars-and-upskilling",
+      "originalUrl": "https://thestarphoenix.com/technology/aws-deepracer-when-fun-meets-ml-autonomous-cars-and-upskilling",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -758,11 +758,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-02T13:02:00-07:00",
+      "publishedDateTime": "2023-05-02T11:47:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Windsor Star",
-        "domain": "windsorstar.com",
+        "name": "The StarPhoenix",
+        "domain": "thestarphoenix.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -828,8 +828,8 @@
       "title": "How artificial intelligence is already powering work in B.C.",
       "excerpt": "These are some of the novel ways in which B.C. companies are using machine learning and artificial intelligence – and to the clear potential benefit of humanity. But like nuclear fission, machine super-intelligence is a Promethean power with the potential to be corrupted,",
       "sourceUrl": null,
-      "webUrl": "https://www.coastreporter.net/technology/how-artificial-intelligence-is-already-powering-work-in-bc-6938262",
-      "originalUrl": "https://www.coastreporter.net/technology/how-artificial-intelligence-is-already-powering-work-in-bc-6938262",
+      "webUrl": "https://www.prpeak.com/technology/how-artificial-intelligence-is-already-powering-work-in-bc-6938262",
+      "originalUrl": "https://www.prpeak.com/technology/how-artificial-intelligence-is-already-powering-work-in-bc-6938262",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -851,8 +851,8 @@
       "publishedDateTime": "2023-05-02T07:16:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "CoastReporter VOICE OF THE SUNSHINE COAST",
-        "domain": "coastreporter.net",
+        "name": "Powell River Peak",
+        "domain": "prpeak.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -7,7 +7,7 @@ originalUrl: "https://www.baltictimes.com/how_artificial_intelligence_is_revolut
 webUrl: "https://www.baltictimes.com/how_artificial_intelligence_is_revolutionising_the_fintech_landscape_/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,48 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Finovax Leads the Charge in Fintech Innovation: AI-Powered Solutions Drive Business Growth"
-    excerpt: "New York-Based Fintech Company Embraces Artificial Intelligence to Revolutionize Financial Data Products and Fuel"
-    publishedDateTime: 2023-05-09T07:57:00Z
-    webUrl: "https://www.marketwatch.com/press-release/finovax-leads-the-charge-in-fintech-innovation-ai-powered-solutions-drive-business-growth-2023-05-09"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 59
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Unlock the Profit Potential in AI Healthcare Innovation with This Leading Biotech Stock"
-    excerpt: "While Nick Black handles the cryptocurrency, blockchain, and Web3 side of things, I'm going to bring you a new stock each week related to these emerging technologies, including artificial intelligence."
-    publishedDateTime: 2023-05-08T21:05:00Z
-    webUrl: "https://moneymorning.com/investing/unlock-the-profit-potential-in-ai-healthcare-innovation-with-this-leading-biotech-stock/"
-    type: article
-    provider:
-      name: Money Morning
-      domain: moneymorning.com
-    quality: 46
-    images:
-      - url: "https://moneymorning.com/wp-content/blogs.dir/1/files/2022/06/crypto-syndication.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "4 AI-powered platforms reshaping the Czech FinTech space"
-    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
-    publishedDateTime: 2023-05-10T04:20:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/4-ai-powered-firms-reshaping-the-fintech-space-in-czech-republic/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 39
-    images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2023/05/Artificial-Intelligence-1.jpg"
-        width: 300
-        height: 300
-        isCached: true
   - title: "How Artificial Intelligence is Revolutionising the Fintech Landscape?"
     excerpt: "According to surveys, 2/3 of FinTech companies currently use AI technology in their activities to a greater or lesser extent. Its influence will increase. Last year, the worldwide market for AI solutions in the FinTech industry was assessed at roughly 9 billion USD;"
     publishedDateTime: 2023-05-10T14:04:00Z
@@ -81,6 +39,34 @@ related:
         width: 1080
         height: 720
         isCached: true
+  - title: "‘As big as the invention of the camera’: How AI will revolutionise cinema"
+    excerpt: "Recent advances in AI create the possibility of removing any, most or even all humans from a film’s creative process: as well as writing scripts, it can airbrush actors’ blemishes, clean up their dialogue,"
+    publishedDateTime: 2023-05-10T14:50:00Z
+    webUrl: "https://inews.co.uk/culture/film/ai-saviour-cinema-biggest-threat-2328231?ico=more_from_Culture"
+    type: article
+    provider:
+      name: i
+      domain: inews.co.uk
+    quality: 38
+    images:
+      - url: "https://wp.inews.co.uk/wp-content/uploads/2023/05/SEI_155244432.jpg?crop=83px%2C0px%2C2334px%2C1318px&resize=1200%2C675"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "How Embedded Finance Is Revolutionising Financial Services in Southeast Asia"
+    excerpt: "Embedded finance is a thriving trend that is rapidly changing the banking and financial services landscape in Southeast Asia."
+    publishedDateTime: 2023-05-09T09:00:00Z
+    webUrl: "https://fintechnews.sg/72383/financial-inclusion/how-embedded-finance-is-revolutionising-financial-services-in-southeast-asia/"
+    type: article
+    provider:
+      name: Fintech Singapore
+      domain: fintechnews.sg
+    quality: 36
+    images:
+      - url: "https://c9k9c9v3.stackpathcdn.com/wp-content/uploads/2023/05/How-Embedded-Finance-Is-Revolutionising-Financial-Services-in-Southeast-Asia.png?x90673"
+        width: 1024
+        height: 567
+        isCached: true
   - title: "FinovateSpring Hosting 60+ Live Demos Showcasing Disruptive Fintech Solutions"
     excerpt: "What Can We Learn from Innovators in The Space?\" FinovateSpring is well known for spotlighting new fintech innovations from seed-stage startups to global leaders. The event offers 60-plus short, punchy,"
     publishedDateTime: 2023-05-09T13:35:00Z
@@ -90,56 +76,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 31
-  - title: "GIC sees more growth in fintech after downturn"
-    excerpt: "SAN FRANCISCO - Singapore sovereign wealth fund GIC said it still sees more growth in the financial technology sector, even after a downturn that’s sent start-up valuations plummeting as investors turn away from riskier bets."
-    publishedDateTime: 2023-05-09T04:30:00Z
-    webUrl: "https://www.straitstimes.com/business/gic-sees-more-growth-in-fintech-after-downturn"
-    type: article
-    provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 24
-    images:
-      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2023/05/09/IMGGIC112113KC4_2.jpg?VersionId=gMEqlZHu5Vb7K_7IuRHKXnl.VfQvmEd4"
-        width: 860
-        height: 573
-        isCached: true
-  - title: "4 AI-powered firms reshaping the FinTech space in Czech Republic"
-    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
-    publishedDateTime: 2023-05-09T12:02:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/4-ai-powered-firms-reshaping-the-fintech-space-in-czech-republic/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 19
-  - title: "The Future of Fintech: How AI is Disrupting the Financial Industry"
-    excerpt: "The financial industry is undergoing a significant transformation thanks to the emergence of Artificial Intelligence (AI) and machine learning. On a global scale, the AI-based fintech market experienced growth from $9."
-    publishedDateTime: 2023-05-08T19:03:00Z
-    webUrl: "https://techbullion.com/the-future-of-fintech-how-ai-is-disrupting-the-financial-industry/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 19
-  - title: "Finovax Leads the Charge in Fintech Innovation: AI-Powered Solutions Drive Business Growth"
-    excerpt: "Based Fintech Company Embraces Artificial Intelligence to Revolutionize Financial Data Products and Fuel Expansion New York, United States - May 8, 2023 — (NEW YORK CITY, NY) — Finovax, a trailblazing fintech"
-    publishedDateTime: 2023-05-08T14:00:00Z
-    webUrl: "https://www.asiaone.com/business/finovax-leads-charge-fintech-innovation-ai-powered-solutions-drive-business-growth"
-    type: article
-    provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 9
-  - title: "Atomic Revolutionizes Payroll System Integrations with SmartAuth, its Groundbreaking AI-Powered Authentication Engine"
-    excerpt: "Atomic, a leading provider of payroll system integrations, has unveiled SmartAuth, a new artificial intelligence-powered authentication engine. This b"
-    publishedDateTime: 2023-05-10T12:05:00Z
-    webUrl: "https://www.businesswire.com/news/home/20230510005294/en/Atomic-Revolutionizes-Payroll-System-Integrations-with-SmartAuth-its-Groundbreaking-AI-Powered-Authentication-Engine"
-    type: article
-    provider:
-      name: newsroom.businesswire.com
-      domain: businesswire.com
-    quality: 0
 
 secured: "rFFRMbcxuG0AQJ9H/6CTjTo3iMw6t17eyEP+2nOUIfNhhAZvs2uvvcZvulFW+OexkpE2wQ7VH0aZr0YlZJDuKEXl+aJUsr7T4D/VO7784XS2HjZVf7PPgQfJpBUVQ0IAlz6AEt69wxdD5NiJUc14VFty33n7q2zN8dHU3YLweastRMmYcr4HEXg35lPw/J04h2oVf13TS4bN1Ybey/9EOFQuXbODdKrEb74Ebd5DMEUkjXha23onH0ncbU2Xecq1Le1Jg95Ew1TLKdl69I1vYn/WVj2i0GbCKADTxqllLpMUQB5vSMBIPq1MSfjUr08ETMUdp0yxOYFh4PoLKL1KGjlys6hqRcVcfB79mzAECMT85UUT84LvPWmNHrgNFIVP/wQJEIQMVylnXEQRGzpy4dCRE8bPbcSA8eW3SXyhEniKZBbqGifVi/aTQEoaHqUlbESI/22j1voQcAFcSsbiqFRn8vI4UEv/G5NUClSFwVeC2DE8e0zmfDPHzT1aWMmMQYBT5g5TPCTpzXvygTip+A==;Xbn5epuiME8ugrKkO3KUDg=="
 ---

@@ -87,9 +87,9 @@ related:
         height: 306
         isCached: true
   - title: "Google Says Search Enters New Era With Conversational AI Features"
-    excerpt: "The company intends to use artificial-intelligence programs to provide lengthier replies to queries. The new features invite follow-up questions."
+    excerpt: "The company intends to use AI programs to provide lengthier replies to queries. The new features invite follow-up questions."
     publishedDateTime: 2023-05-10T20:36:00Z
-    webUrl: "https://www.wsj.com/articles/google-says-search-enters-new-era-with-conversational-features-ca17f277?mod=business_minor_pos9"
+    webUrl: "https://www.wsj.com/articles/google-says-search-enters-new-era-with-conversational-features-ca17f277"
     type: article
     provider:
       name: Wall Street Journal
@@ -243,6 +243,6 @@ related:
       domain: fastcompany.com
     quality: 19
 
-secured: "mpTKQop5123/7eAhRnoDVr6TrsdW2QEPRmLM3xKqcxvpa+6cm4fRhBAZXyGt/02SkpxBJsfRLFAEFKOB4cNZk/xes2nPueYRrar0XCpx2vLy4exm+xQHRovoOSgRBQpgXu736vIiumsOIPDgvI49hsn+GXoLh6Nq1yA6PUM9ygTmFExBQRIFdeoWU0VkUeH9WdXDvk14OMwFjGqpFM1aZvpFF3iM1wrKtZjj5R3PjK3fTaxqJhZ8S7cUrh8bZcJs6p1XKQzdBNxO2f34sHvn9F90L2rEXAWgm2l/kmfmudo+9jlOJ2k1e5VRCwEqnBOjUkdntkttzTjJAGk/516uDCieGfwNlCKXnf366qjynqQ=;xTX86plRw81+fe1yEKzyrw=="
+secured: "q0zPBNdNamAht2vTTbOZxQ4sS/EgyRK4jenX3ezrh0jkXwGz8d05/UyNgfOgLgUnId4cGWxdO/6HyCcv5YsuwO38Psu08X/ic0OS7+zjLhGwWEtVgaEZIZaITWHsUJk1sfSSeBGL8qofQSJvHwVTyoru/bCdcTdw6sIR4mes26t1gcCd7Eka3uKhhKmOB/8ceNVuhTjJzUO/quLJAQYUNv7mgzykB3Wa7zGzvAhjg3Bb5Vxfd2SwIOgGjj+yHmluLg80AVCcaIt8+jxCa9unE/5LAyRDTGxsA1Zr9MqQR4iCVFnwRB0x0boOgiSCwPhs4pP60Ieotci9vidhl49PH0w2YKHSROiO3PHEhaAPEI8yaAZhszHglClcLbYSkaeeyiKSVN2Gm4L7cn0dVp2RlVXxXub/9Igvr06howAzZoo1BSkUUBvRau3i5X+WA/+ZyQrfCuZAT3dRDwRLHluaFj+HCzz5DAvr0Xmtquri9ZQVxTNhGWNJI+6qtnOUjewfcjfiYPIagDik8H1P7qCLzg==;Yc5CA+l8chOLYQHXnbTjJw=="
 ---
 
