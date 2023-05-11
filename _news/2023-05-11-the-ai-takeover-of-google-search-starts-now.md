@@ -75,6 +75,20 @@ related:
         width: 912
         height: 306
         isCached: true
+  - title: "Google Says Search Enters New Era With Conversational AI Features"
+    excerpt: "The company intends to use artificial-intelligence programs to provide lengthier replies to queries. The new features invite follow-up questions."
+    publishedDateTime: 2023-05-10T20:36:00Z
+    webUrl: "https://www.wsj.com/articles/google-says-search-enters-new-era-with-conversational-features-ca17f277?mod=business_minor_pos9"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
+    images:
+      - url: "https://images.wsj.net/im-779547/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Google’s Vertex AI machine learning platform gets generative AI tools"
     excerpt: "The new updates to Google Cloud’s machine learning service will help the company square up against rivals such as Microsoft, AWS and IBM."
     publishedDateTime: 2023-05-10T18:15:00Z

@@ -111,22 +111,6 @@ related:
         width: 1200
         height: 667
         isCached: true
-  - title: "How AI is revolutionizing fraud detection in financial transactions and processes"
-    excerpt: "The banking, financial institutions, and fintech industries face a growing number of scams each year, that can be typically categorized into three main types: physical attacks, internal collusion and violation of the Four Eyes Rule,"
-    publishedDateTime: 2023-05-06T10:35:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-ai-is-revolutionizing-fraud-detection-in-financial-transactions-and-processes/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-ai-is-revolutionizing-fraud-detection-in-financial-transactions-and-processes/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/how-ai-is-revolutionizing-fraud-detection-in-financial-transactions-and-processes/"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 54
-    images:
-      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2023/05/Jaya-Mahajanam-Director-of-Pre-Sales-and-Solutions-–-E42.jpg"
-        width: 1648
-        height: 1982
-        isCached: true
   - title: "Newly developed AI shows speed and accuracy in identifying the location and expression of proteins"
     excerpt: "A new advanced artificial intelligence (AI) system has shown world-leading accuracy and speed in identifying protein patterns within individual cells. The new system, developed at the University of Surrey's Institute for People-Centered AI,"
     publishedDateTime: 2023-05-10T14:02:00Z

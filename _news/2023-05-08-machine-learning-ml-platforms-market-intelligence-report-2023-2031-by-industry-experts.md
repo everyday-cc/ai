@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/machine-learning-ml-plat
 webUrl: "https://www.marketwatch.com/press-release/machine-learning-ml-platforms-market-intelligence-report-2023-2031-by-industry-experts-2023-05-08"
 type: article
 quality: 77
-heat: 137
+heat: 117
 published: true
 
 provider:
@@ -39,20 +39,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 70
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Deep Learning in CT Scanners Market Analysis of New Report 2023-2030"
-    excerpt: "A Promising Outlook for the Global Deep Learning in CT Scanners Market from 2023 to 2030 Why is Deep Learning in CT Scanners market 2023 Important? - Overall, the Deep Learning in CT Scanners market in 2023 is essential for businesses to understand the market landscape,"
-    publishedDateTime: 2023-05-10T16:21:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-deep-learning-in-ct-scanners-market-analysis-of-new-report-2023-2030-2023-05-10"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 67
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -90,20 +76,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 39
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global \"Speech and Voice Recognition Technology Market\" 2023 (Latest Report) Becoming the Top Industry Player by 2030 | 116 Pages Report"
-    excerpt: "The Speech and Voice Recognition Technology Market Scope and Overview Report for 2023 presents a detailed analysis of"
-    publishedDateTime: 2023-05-08T06:38:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-speech-and-voice-recognition-technology-market-2023-latest-report-becoming-the-top-industry-player-by-2030-116-pages-report-2023-05-08"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 21
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

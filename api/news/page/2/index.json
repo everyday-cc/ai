@@ -2,6 +2,110 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-05-10-turn-ideas-into-music-with-musiclm.md",
+      "title": "Turn ideas into music with MusicLM",
+      "excerpt": "Starting today, you can sign up to try MusicLM, a new experimental AI tool that can turn your text descriptions into music.",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/technology/ai/musiclm-google-ai-test-kitchen/",
+      "originalUrl": "https://blog.google/technology/ai/musiclm-google-ai-test-kitchen/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_Music_Kitchen_800x418_2.width-1300.jpg",
+          "width": 800,
+          "height": 418,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/technology/ai/musiclm-google-ai-test-kitchen/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/musiclm-google-ai-test-kitchen/amp/",
+      "publishedDateTime": "2023-05-10T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-10-global-machine-learning-as-a-service-mlaas-market-analysis-of-new-report-2023-2030.md",
+      "title": "Global Machine Learning-as-a-Service (MLaaS) Market Analysis of New Report 2023-2030",
+      "excerpt": "A Promising Outlook for the Global Machine Learning-as-a-Service (MLaaS) Market from 2023 to 2030 Why is Machine Learning-as-a-Service (MLaaS) market 2023 Important? - Overall, the Machine Learning-as-a-Service (MLaaS) market in 2023 is essential for businesses to understand the market landscape,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-machine-learning-as-a-service-mlaas-market-analysis-of-new-report-2023-2030-2023-05-10",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-machine-learning-as-a-service-mlaas-market-analysis-of-new-report-2023-2030-2023-05-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-10T09:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-10-trayio-launches-merlin-ai-to-automate-complex-workflows-without-llm-training.md",
       "title": "Tray.io launches Merlin AI to automate complex workflows without LLM training",
       "excerpt": "The company claims that the Tray platform is the first iPaaS solution to provide generative AI capabilities accessible to all users.",
@@ -207,6 +311,58 @@
       ]
     },
     {
+      "path": "_news/2023-05-10-meps-to-vote-on-proposed-ban-on-big-brother-ai-facial-recognition-on-streets.md",
+      "title": "MEPs to vote on proposed ban on ‘Big Brother’ AI facial recognition on streets",
+      "excerpt": "Thursday’s vote in EU parliament seen as key test in formation of world’s first artificial intelligence laws",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/technology/2023/may/10/meps-to-vote-on-proposed-ban-on-big-brother-ai-facial-recognition-on-streets?ref=upstract.com",
+      "originalUrl": "https://www.theguardian.com/technology/2023/may/10/meps-to-vote-on-proposed-ban-on-big-brother-ai-facial-recognition-on-streets?ref=upstract.com",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/aa6324386e9fe52d51b229a9ab13f470938263ff/0_202_3500_2100/master/3500.jpg?width=620&quality=85&auto=format&fit=max&s=79dac11ea158833cc0f2edcd050e78c0",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/technology/2023/may/10/meps-to-vote-on-proposed-ban-on-big-brother-ai-facial-recognition-on-streets",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/may/10/meps-to-vote-on-proposed-ban-on-big-brother-ai-facial-recognition-on-streets",
+      "publishedDateTime": "2023-05-10T07:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-10-publish-predictive-dashboards-in-amazon-quicksight-using-ml-predictions-from-amazon-sagemaker-canvas.md",
       "title": "Publish predictive dashboards in Amazon QuickSight using ML predictions from Amazon SageMaker Canvas",
       "excerpt": "Understanding business trends, customer behavior, sales revenue, increase in demand, and buyer propensity all start with data. Exploring, analyzing, interpreting, and finding trends in data is essential for businesses to achieve successful outcomes. Business analysts play a pivotal role in facilitating",
@@ -304,31 +460,22 @@
       ]
     },
     {
-      "path": "_news/2023-05-10-2023-mobile-speech-recognition-software-dynamic-report-by-2030.md",
-      "title": "2023 Mobile Speech Recognition Software | Dynamic Report By 2030",
-      "excerpt": "Mobile Speech Recognition Software Market | Outlook 2023-2028 | Pre and Post-COVID Research is Covered, Report",
+      "path": "_news/2023-05-10-2023-healthcare-artificial-intelligence-ai-dynamic-report-by-2030.md",
+      "title": "2023 Healthcare Artificial Intelligence (AI) | Dynamic Report By 2030",
+      "excerpt": "The major players covered in the Healthcare Artificial Intelligence (AI) market report are: Get a sample copy of the Healthcare Artificial Intelligence (AI) Market report 2023 Healthcare Artificial Intelligence (AI) Marketsize,",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/2023-mobile-speech-recognition-software-dynamic-report-by-2030-2023-05-10",
-      "originalUrl": "https://www.marketwatch.com/press-release/2023-mobile-speech-recognition-software-dynamic-report-by-2030-2023-05-10",
+      "webUrl": "https://www.marketwatch.com/press-release/2023-healthcare-artificial-intelligence-ai-dynamic-report-by-2030-2023-05-10",
+      "originalUrl": "https://www.marketwatch.com/press-release/2023-healthcare-artificial-intelligence-ai-dynamic-report-by-2030-2023-05-10",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 129,
       "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-10T04:23:00-07:00",
+      "publishedDateTime": "2023-05-10T04:17:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "MarketWatch",
@@ -351,7 +498,7 @@
         "news"
       ],
       "topics": [
-        "Natural Language Processing",
+        "AI in Healthcare",
         "AI"
       ]
     },
@@ -620,7 +767,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/latest-deep-learning-chip-market-trends-2023-2030-2023-05-10",
       "featuredContent": null,
       "highlight": null,
-      "heat": 166,
+      "heat": 246,
       "tags": null,
       "images": [
         {
@@ -747,6 +894,58 @@
       ],
       "topics": [
         "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-10-global-artificial-intelligence-robotics-market-2023-2030-understanding-the-impact-of-trend-and-technology.md",
+      "title": "Global Artificial Intelligence Robotics Market [2023-2030] | Understanding the Impact of Trend and Technology",
+      "excerpt": "Global “Artificial Intelligence Robotics Market” (2023-2030) research report provides key analysis on the market status",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-robotics-market-2023-2030-understanding-the-impact-of-trend-and-technology-2023-05-10",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-robotics-market-2023-2030-understanding-the-impact-of-trend-and-technology-2023-05-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-10T00:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     },
@@ -1010,58 +1209,6 @@
       ]
     },
     {
-      "path": "_news/2023-05-10-meps-to-vote-on-proposed-ban-on-big-brother-ai-facial-recognition-on-streets.md",
-      "title": "MEPs to vote on proposed ban on ‘Big Brother’ AI facial recognition on streets",
-      "excerpt": "Thursday’s vote in EU parliament seen as key test in formation of world’s first artificial intelligence laws",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/technology/2023/may/10/meps-to-vote-on-proposed-ban-on-big-brother-ai-facial-recognition-on-streets",
-      "originalUrl": "https://www.theguardian.com/technology/2023/may/10/meps-to-vote-on-proposed-ban-on-big-brother-ai-facial-recognition-on-streets",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/aa6324386e9fe52d51b229a9ab13f470938263ff/0_202_3500_2100/master/3500.jpg?width=620&quality=85&auto=format&fit=max&s=79dac11ea158833cc0f2edcd050e78c0",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/technology/2023/may/10/meps-to-vote-on-proposed-ban-on-big-brother-ai-facial-recognition-on-streets",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/may/10/meps-to-vote-on-proposed-ban-on-big-brother-ai-facial-recognition-on-streets",
-      "publishedDateTime": "2023-05-09T20:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-05-10-the-future-is-here-amazon-is-now-selling-astro-an-ai-driven-household-robot.md",
       "title": "The Future Is Here: Amazon Is Now Selling Astro, An AI Driven Household Robot",
       "excerpt": "Two years later, the vision for Astro is still strong, as the company has started selling the device as a part of its “Day 1 Editions” products—those which are accessible to buyers only through an exclusive invitation. Amazon typically reserves this category for its most cutting-edge technology, such as the Astro or the “Ring Always Home Cam.”",
@@ -1112,151 +1259,6 @@
         "AI in Robotics",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-10-artificial-intelligence-study-decodes-brain-activity-into-dialogue.md",
-      "title": "Artificial intelligence study decodes brain activity into dialogue",
-      "excerpt": "Scientists at UT Austin conducted a study where they created a 3D view of a person's mind and used artificial intelligence to decode brain activity into dialogue.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/now/video/artificial-intelligence-study-decodes-brain-activity-into-diaglogue-173774917826",
-      "originalUrl": "https://www.nbcnews.com/now/video/artificial-intelligence-study-decodes-brain-activity-into-diaglogue-173774917826",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_05/1683684426844_now_staytuned_mind_reading_230509_1920x1080-b011uy.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo173774917826",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo173774917826",
-      "publishedDateTime": "2023-05-09T19:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-10-ferrari-may-eventually-make-an-ev-but-it-has-zero-interest-in-self-driving-cars-we-dont-care.md",
-      "title": "Ferrari may eventually make an EV but it has zero interest in self-driving cars: ‘We don’t care’",
-      "excerpt": "But the Italian luxury auto company says it’s unlikely to ever cave to another major car trend: self-driving vehicles. The iconic supercar maker’s brand is to design sports cars that people want to drive themselves, and capitulating to self-driving ...",
-      "sourceUrl": null,
-      "webUrl": "https://fortune.com/2023/05/09/ferrari-wont-do-self-driving-car-ev/?ref=biztoc.com",
-      "originalUrl": "https://fortune.com/2023/05/09/ferrari-wont-do-self-driving-car-ev/?ref=biztoc.com",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://content.fortune.com/wp-content/uploads/2023/05/GettyImages-1247103950-e1683665996989.jpg?w=840",
-          "width": 840,
-          "height": 560,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://fortune.com/2023/05/09/ferrari-wont-do-self-driving-car-ev/amp/",
-      "cdnAmpWebUrl": "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/2023/05/09/ferrari-wont-do-self-driving-car-ev/amp/",
-      "publishedDateTime": "2023-05-09T19:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fortune",
-        "domain": "fortune.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fortune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-10-google-chrome-brings-better-ai-brains-to-the-web.md",
-      "title": "Google Chrome Brings Better AI Brains to the Web",
-      "excerpt": "With a technology called WebGPU, AI software to monitor your health or generate images could run in your browser instead of the cloud.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/tech/computing/google-chrome-brings-better-ai-brains-to-the-web/",
-      "originalUrl": "https://www.cnet.com/tech/computing/google-chrome-brings-better-ai-brains-to-the-web/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/fccd854ab95eb0901bb9d795b1bd9e822ca897ad/hub/2019/05/09/9f2a88cf-2acc-4c04-b11e-03560e8d182f/20120314-google-chrome-lapel-pin-4sts-01.jpg?auto=webp",
-          "width": 4048,
-          "height": 2391,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/google-chrome-brings-better-ai-brains-to-the-web/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/google-chrome-brings-better-ai-brains-to-the-web/",
-      "publishedDateTime": "2023-05-09T16:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

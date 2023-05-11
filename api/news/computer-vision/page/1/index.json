@@ -2,6 +2,110 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-05-11-computer-vision-in-artificial-intelligence-ai-market.md",
+      "title": "Computer Vision in Artificial Intelligence (AI) Market",
+      "excerpt": "Research Reports has published a new report titled as \"Computer Vision in Artificial Intelligence (AI) Market\" by",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-in-artificial-intelligence-ai-market-2023-05-10",
+      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-in-artificial-intelligence-ai-market-2023-05-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 239,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-10T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-10-meps-to-vote-on-proposed-ban-on-big-brother-ai-facial-recognition-on-streets.md",
+      "title": "MEPs to vote on proposed ban on ‘Big Brother’ AI facial recognition on streets",
+      "excerpt": "Thursday’s vote in EU parliament seen as key test in formation of world’s first artificial intelligence laws",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/technology/2023/may/10/meps-to-vote-on-proposed-ban-on-big-brother-ai-facial-recognition-on-streets?ref=upstract.com",
+      "originalUrl": "https://www.theguardian.com/technology/2023/may/10/meps-to-vote-on-proposed-ban-on-big-brother-ai-facial-recognition-on-streets?ref=upstract.com",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/aa6324386e9fe52d51b229a9ab13f470938263ff/0_202_3500_2100/master/3500.jpg?width=620&quality=85&auto=format&fit=max&s=79dac11ea158833cc0f2edcd050e78c0",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/technology/2023/may/10/meps-to-vote-on-proposed-ban-on-big-brother-ai-facial-recognition-on-streets",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/may/10/meps-to-vote-on-proposed-ban-on-big-brother-ai-facial-recognition-on-streets",
+      "publishedDateTime": "2023-05-10T07:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-10-eci-to-pilot-facial-recognition-technology-in-polls-iff-raises-concerns-of-surveillance.md",
       "title": "ECI To Pilot Facial Recognition Technology In Polls, IFF Raises Concerns Of Surveillance",
       "excerpt": "IFF has asked a copy of the relevant government order/notice/direction accompanying this move in its RTI to the ECI",
@@ -45,58 +149,6 @@
       ]
     },
     {
-      "path": "_news/2023-05-10-meps-to-vote-on-proposed-ban-on-big-brother-ai-facial-recognition-on-streets.md",
-      "title": "MEPs to vote on proposed ban on ‘Big Brother’ AI facial recognition on streets",
-      "excerpt": "Thursday’s vote in EU parliament seen as key test in formation of world’s first artificial intelligence laws",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/technology/2023/may/10/meps-to-vote-on-proposed-ban-on-big-brother-ai-facial-recognition-on-streets",
-      "originalUrl": "https://www.theguardian.com/technology/2023/may/10/meps-to-vote-on-proposed-ban-on-big-brother-ai-facial-recognition-on-streets",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/aa6324386e9fe52d51b229a9ab13f470938263ff/0_202_3500_2100/master/3500.jpg?width=620&quality=85&auto=format&fit=max&s=79dac11ea158833cc0f2edcd050e78c0",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/technology/2023/may/10/meps-to-vote-on-proposed-ban-on-big-brother-ai-facial-recognition-on-streets",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/may/10/meps-to-vote-on-proposed-ban-on-big-brother-ai-facial-recognition-on-streets",
-      "publishedDateTime": "2023-05-09T20:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-05-10-2030-ai-in-computer-vision-market-growth-future-prospects-and-competitive-analysis.md",
       "title": "2030, AI in Computer Vision Market Growth | Future Prospects and Competitive Analysis",
       "excerpt": "The \"AI in Computer Vision Market\" is one of the sectors that is expanding the fastest, thus it is crucial for players",
@@ -105,7 +157,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/2030-ai-in-computer-vision-market-growth-future-prospects-and-competitive-analysis-2023-05-09",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -122,58 +174,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2023-05-09T14:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-10-computer-vision-in-artificial-intelligence-ai-market-research-2023-2030.md",
-      "title": "Computer Vision in Artificial Intelligence (AI) Market Research, 2023-2030",
-      "excerpt": "Computer Vision in Artificial Intelligence (AI) Market Insights 2023 by Types (, Hardware, Software, , ) , Applications",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-in-artificial-intelligence-ai-market-research-2023-2030-2023-05-09",
-      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-in-artificial-intelligence-ai-market-research-2023-2030-2023-05-09",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 397,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-09T13:11:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "MarketWatch",

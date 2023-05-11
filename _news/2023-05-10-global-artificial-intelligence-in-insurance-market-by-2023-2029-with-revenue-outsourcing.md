@@ -28,29 +28,52 @@ images:
     isCached: true
 
 related:
-  - title: "Global Machine Learning-as-a-Service (MLaaS) Market Analysis of New Report 2023-2030"
-    excerpt: "A Promising Outlook for the Global Machine Learning-as-a-Service (MLaaS) Market from 2023 to 2030 Why is Machine Learning-as-a-Service (MLaaS) market 2023 Important? - Overall, the Machine Learning-as-a-Service (MLaaS) market in 2023 is essential for businesses to understand the market landscape,"
-    publishedDateTime: 2023-05-10T16:15:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-machine-learning-as-a-service-mlaas-market-analysis-of-new-report-2023-2030-2023-05-10"
+  - title: "Global Artificial Intelligence Robotics Market [2023-2030] | Understanding the Impact of Trend and Technology"
+    excerpt: "Global “Artificial Intelligence Robotics Market” (2023-2030) research report provides key analysis on the market status"
+    publishedDateTime: 2023-05-10T07:34:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-robotics-market-2023-2030-understanding-the-impact-of-trend-and-technology-2023-05-10"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 77
+    quality: 80
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Machine Learning as a Service (MLaaS) Market 2023 InsightsAmazon, Oracle, IBM, Microsoftn"
-    excerpt: "Global Machine Learning as a Service (MLaaS) Market Research Report 2023 begins with an overview of the Market and offers throughout development. It presents a comprehensive analysis of all the regional and major player segments that gives closer insights upon present market conditions and future market opportunities along with drivers,"
-    publishedDateTime: 2023-05-09T11:18:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-2023-insightsamazon-oracle-ibm-microsoftn-2023-05-09"
+  - title: "Global Deep Learning in CT Scanners Market Analysis of New Report 2023-2030"
+    excerpt: "A Promising Outlook for the Global Deep Learning in CT Scanners Market from 2023 to 2030 Why is Deep Learning in CT Scanners market 2023 Important? - Overall, the Deep Learning in CT Scanners market in 2023 is essential for businesses to understand the market landscape,"
+    publishedDateTime: 2023-05-10T16:21:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-deep-learning-in-ct-scanners-market-analysis-of-new-report-2023-2030-2023-05-10"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 75
+    quality: 67
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "AI in Computer Vision Market in 2031: New Era of Growth and Opportunities"
+    excerpt: "May 10, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global AI in Computer Vision"
+    publishedDateTime: 2023-05-10T10:31:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-in-2031-new-era-of-growth-and-opportunities-2023-05-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 63
+  - title: "Global \"Speech and Voice Recognition Technology Market\" 2023 (Latest Report) Becoming the Top Industry Player by 2030 | 116 Pages Report"
+    excerpt: "The Speech and Voice Recognition Technology Market Scope and Overview Report for 2023 presents a detailed analysis of"
+    publishedDateTime: 2023-05-08T06:38:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-speech-and-voice-recognition-technology-market-2023-latest-report-becoming-the-top-industry-player-by-2030-116-pages-report-2023-05-08"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 21
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

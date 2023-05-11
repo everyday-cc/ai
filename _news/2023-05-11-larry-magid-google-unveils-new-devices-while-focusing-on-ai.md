@@ -87,6 +87,20 @@ related:
         width: 912
         height: 306
         isCached: true
+  - title: "Google Says Search Enters New Era With Conversational AI Features"
+    excerpt: "The company intends to use artificial-intelligence programs to provide lengthier replies to queries. The new features invite follow-up questions."
+    publishedDateTime: 2023-05-10T20:36:00Z
+    webUrl: "https://www.wsj.com/articles/google-says-search-enters-new-era-with-conversational-features-ca17f277?mod=business_minor_pos9"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
+    images:
+      - url: "https://images.wsj.net/im-779547/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Google’s Vertex AI machine learning platform gets generative AI tools"
     excerpt: "The new updates to Google Cloud’s machine learning service will help the company square up against rivals such as Microsoft, AWS and IBM."
     publishedDateTime: 2023-05-10T18:15:00Z
@@ -214,6 +228,6 @@ related:
       domain: fastcompany.com
     quality: 19
 
-secured: "/BxdF+eBfNLrMW69vPLq/z0SB6ayJ7zxs3PYcBCK/AoaGuT/Ag/laEodlk+9kIQNM3hyMAG7k6hXzrrTaoyNuVm4lZ2IvyK5Ss4H2kHP38uT79cURqsMhkDiacp48at86HZHSVTC+fVtBYEqd1wPk/3OHvqWNcjkF0wokYwN7jpfc8KRUq1/1uCxeCfEl9wGMGQsgnGHApfhqTKThnZXAwHeAe1M8ie9iPApji/jsaDPXeyjDiiVfBnM/Pq/P2XhIDkC/Gvd+FXZpqcduzq5TgykCVbH2YzJ+XR+BDH5Feq6FG21ijRNEhVHf+w7KnojJNajy9fVoDpt36y8HuUJZMmRiNMIB/rfIkEPkkcKc/Y=;idqAMTNRTVIrrnaB3z9Bog=="
+secured: "DuMk7E5Hn5jqmTtzmXgn9iIWxQig3/Zru3iCcpQkmovETfHCEGlwi+vARXdtee0LH01MMsHfsqbFeN/5RjxcIoaooKMXcGNPCcmKTENPtuKVs6jTFMiR5gqWdhX4Pwkt6sX+6C0exTlLYwfXqUPwl9jM2+l/VJWNbC/6UkzZpN90P58587E+QgVSh2Y8UrsTm/iWGqo8V97XbM6TrkJHjKpvzw43nbIlzDrcKnTt0SwCxBbV8FTMUXbiD/BYnWKDnoi1NYDKTER2wk6zLL8/zA5YtKPOt+NoO/2JQcndfdVkqGw01Kzl+iwHxYTJUOv+SwsptoJ988CPBoc4DAZCR2vga9+8K/L39gH78PzLDgduG2/igkvqMasXAMQ6Zrb9dNspzYoJzfsSbFL5h4lZG7vvRwNkD4fdaQOaGLEVjWgAlHpSVPfqMPyv3ya3MyWlwpnubMqTjA50Cj04+tMMqQC7Itqxufc2RmGip5Hhl1FmMy644AoSXiBOz+HfTPo10XWxyjhehnFIFuN7UzmhIA==;3IyH39EJgCUiw8zyteGr7g=="
 ---
 

@@ -54,6 +54,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Google I/O 2023 live updates: Pixel Fold, Bard AI, Android 14 and more"
+    excerpt: "Google is hosting its first full-on in-person I/O developer conference since the pandemic and we expect the company to announce a biblical amount of news at breakneck pace. Engadget is here at the show and will bring you a liveblog of what's happening at the keynote as it happens."
+    publishedDateTime: 2023-05-11T02:25:00Z
+    webUrl: "https://www.engadget.com/live-updates-from-google-io-2023-163201853.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 69
+    images:
+      - url: "https://s.yimg.com/uu/api/res/1.2/DGmBpGBQv1Rkn6SzZ_xBcQ--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-05/f07f40c0-ef5a-11ed-bfed-eaa440d7eecb.cf.jpg"
+        width: 985
+        height: 517
+        isCached: true
   - title: "Google previews an AI-powered future at I/O 2023"
     excerpt: "Expect to see more AI powered features coming your way across a range of key services in Google’s Workspace, apps, and Cloud."
     publishedDateTime: 2023-05-10T19:17:00Z

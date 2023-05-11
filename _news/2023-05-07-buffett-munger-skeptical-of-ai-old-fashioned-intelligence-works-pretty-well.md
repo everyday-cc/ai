@@ -33,6 +33,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "AI: Artificial or Advanced Intelligence"
+    excerpt: "What is Artificial Intelligence? And can intelligence actually be artificial? These questions have been on the minds of many for decades. With the emergence of MIT's super A.I. Watson, and the insurgence of the driver-less car, now seems apropos to seek ..."
+    publishedDateTime: 2023-05-10T01:25:00Z
+    webUrl: "https://www.avclub.com/film/reviews/ai-artificial-or-advanced-intelligence-2020"
+    type: article
+    provider:
+      name: AV Club
+      domain: avclub.com
+    quality: 17
 
 secured: "iOfF67Qm2MeacNm4wOgAkbALW8CSdeE4bbvd0CJMvOrmWQ8saRlnDgaQQZnxg+0b+/JjwFwwX3YQaJA7ljML7spWmLg/ZxGHlUlRdul3Czgne1yQPlAPGs9kH4EuYKiE3/lpqcOV3XgMArHG1uq6GoX1MQ9PAD4225FXOQMs4kv39G3bexs+EKLxQ/cvnTc9RuxfvuH5VLhCpOQHHog+1a0yrJmF87nwA9HmKEh5horCYMjfy3hIm7syb+qZmM60Hj9RTLshEo2/pybspAbuyf6ec5Lh+ZFM3tVZdBrYEI/RVmiom253jM7A+WbDwCt/43QnW9u/0N+aWF6iEgRhuWvVf8YLqafpfa9bjjHKDL8=;vgZ13jM19swpnLPfWuGGGQ=="
 ---

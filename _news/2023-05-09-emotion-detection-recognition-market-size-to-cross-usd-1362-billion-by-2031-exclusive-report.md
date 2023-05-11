@@ -19,29 +19,20 @@ topics:
   - AI
 
 related:
-  - title: "2023 Mobile Speech Recognition Software | Dynamic Report By 2030"
-    excerpt: "Mobile Speech Recognition Software Market | Outlook 2023-2028 | Pre and Post-COVID Research is Covered, Report"
-    publishedDateTime: 2023-05-10T11:23:00Z
-    webUrl: "https://www.marketwatch.com/press-release/2023-mobile-speech-recognition-software-dynamic-report-by-2030-2023-05-10"
+  - title: "Automotive Voice Recognition Market Latest Research Unveils Opportunities for Business Expansion to Reach High Globally by 2030"
+    excerpt: "May 09, 2023 (The Expresswire) -- \"Automotive Voice Recognition Market\" Insights 2023 By Types ( Single language recognition, Multilingual"
+    publishedDateTime: 2023-05-09T13:14:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automotive-voice-recognition-market-latest-research-unveils-opportunities-for-business-expansion-to-reach-high-globally-by-2030-2023-05-09"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 69
+    quality: 26
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "2023 Automated Machine Learning (AutoML) | Dynamic Report By 2030"
-    excerpt: "Automated Machine Learning (AutoML) Market | Outlook 2023-2028 | Pre and Post-COVID Research is Covered, Report"
-    publishedDateTime: 2023-05-10T11:23:00Z
-    webUrl: "https://www.marketwatch.com/press-release/2023-automated-machine-learning-automl-dynamic-report-by-2030-2023-05-10"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 66
 
 secured: "ZccgYWE5a8XWmluQPGh+VmDppUa99xvnh1+cRCxAkGyNUeTGUPxV+OSSXaz0tWI2qOB4Blyg4HBjX50nSJ7brWpPA3UAJebjtdH1xLI3sB7iL5YxSCKhOInc1wPbB/vPkrg4X251GkfhAUEOh/skrCud7gaA2Ga2WU2QIVqvuJn5wHIhzW5GszTF9YJp+urkWNzFJGfhWvqeW+DLvA91ZhccH13CNuY4tVEy7NOSBAdSd5rBFycIYPthrTxdYaNLToFJ6oUaqRqo1sQ/YOilWCuiHGGbZgQVKyiRVkB8DSZf5U6CkF1Goc6s+SickL6HQqteyPaDNLgMKB5dLXZg+9Y5azY7TScfCxoJuq59hjnXfY4en59S4Y5VXwbN4qMZjOUOZqlP/5OdZK1MCsK/Bf1J3FsjmQ3fx4m6jXrtTdBzFJEIJSVObSxwYm/3GuMDS7GibfpDL78B7zG1K4oMtqzr3VF33d/ZwipW+yRnq7clgdO2DFrgw6EVLXpV46hoWjCHTlUJ8LFBg+iPGnretg==;qXXLSlgZ6kAt7Obx4/2Y1Q=="
 ---

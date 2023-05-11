@@ -24,6 +24,17 @@ images:
     height: 1024
     isCached: true
 
+related:
+  - title: "Informatica Announces Expanded Industry Focus and Zero Cost Data Pipelines and Transformations with AWS"
+    excerpt: "Informatica (NYSE: INFA), an enterprise cloud data management leader, built upon their years-long relationship with Amazon Web Services (AWS) with a n"
+    publishedDateTime: 2023-05-10T17:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20230510005438/en/Informatica-Announces-Expanded-Industry-Focus-and-Zero-Cost-Data-Pipelines-and-Transformations-with-AWS/"
+    type: article
+    provider:
+      name: newsroom.businesswire.com
+      domain: businesswire.com
+    quality: 3
+
 secured: "KW/qaNXIVrJ4uXB12kYO8Lc1mGAp08JDWOIz7Blsmhu+JV2QVNhvNYk920Ds+yzpBwYxttX4f1ZqUt7O94NBJXPBufz38xD0mvbpXqgNnTgNWFr8I6IhQPsXsJmqBl/N8YHSI/eyLGC0X7Gi7T0JknhoHI6nMVOYgj3m4k6y1CBf6ArX1zkkE+W+74Wb2DEJg6IaxTgHj79FEsOJmD+RAW761e33od6PXhRnu9q7WwVuDGkfIRj9NgBG97NhE8nhS9dqKqJvGAm6SPYnyDNYpjOs4kVD3Qtsow7lYTWCAEGdt6wyHE6zF2/8HgxzDUiXVQuBje/T14FC6jlhwR3VutRRTszicPGedTw9N8UbvUEc4KGw9Qzu8PGBKZpzQrismsK5VZFm1hx4qLV3lYNY7VjgEzgSDfTGkz26HTO/m50qsDNREO6gWMykPU4sIWjRz0t41qSh965r2xGk10kkZKO1W+MmQpPDHGPXBLi6mSYlwWKOtXSok1SpG6LlGCHElUwAyO+Yrt7h5kR1e7yjCw==;1yumWx1RiZjiO9VPL8ed/A=="
 ---
 

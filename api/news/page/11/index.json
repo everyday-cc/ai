@@ -2,6 +2,240 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2023-05-03-optimized-pytorch-20-inference-with-aws-graviton-processors.md",
+      "title": "Optimized PyTorch 2.0 inference with AWS Graviton processors",
+      "excerpt": "New generations of CPUs offer a significant performance improvement in machine learning (ML) inference due to specialized built-in instructions. Combined with their flexibility, high speed of development, and low operating cost, these general-purpose processors offer an alternative to other existing",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/optimized-pytorch-2-0-inference-with-aws-graviton-processors/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/optimized-pytorch-2-0-inference-with-aws-graviton-processors/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/05/03/optimized-pytorch-graviton.jpg",
+          "width": 955,
+          "height": 475,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-03T09:02:30-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-03-researchers-detect-and-classify-multiple-objects-without-images.md",
+      "title": "Researchers detect and classify multiple objects without images",
+      "excerpt": "Today’s image-free perception methods can only achieve classification, single object recognition or tracking. To accomplish all three at once, the researchers developed a technique known as ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/988149",
+      "originalUrl": "https://www.eurekalert.org/news-releases/988149",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-03T08:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-03-gamesbeat-summit-2023-will-capture-how-generative-ai-is-changing-gaming.md",
+      "title": "GamesBeat Summit 2023 will capture how generative AI is changing gaming",
+      "excerpt": "Generative AI is sweeping through the game industry and that's one of the can't-miss topics we'll discuss at GamesBeat Summit 2023.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/games/gamesbeat-summit-2023-will-capture-how-generative-ai-is-changing-gaming/",
+      "originalUrl": "https://venturebeat.com/games/gamesbeat-summit-2023-will-capture-how-generative-ai-is-changing-gaming/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/05/ai-at-gamesbeat.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 575,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/games/gamesbeat-summit-2023-will-capture-how-generative-ai-is-changing-gaming/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/gamesbeat-summit-2023-will-capture-how-generative-ai-is-changing-gaming/amp/",
+      "publishedDateTime": "2023-05-03T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-03-new-artificial-intelligence-tool-can-diagnose-colon-cancer.md",
+      "title": "New Artificial Intelligence Tool Can Diagnose Colon Cancer",
+      "excerpt": "Detailed price information for Bausch Health Companies Inc (BHC-T) from The Globe and Mail including charting and trades.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theglobeandmail.com/investing/markets/stocks/BHC-T/pressreleases/16543041/new-artificial-intelligence-tool-can-diagnose-colon-cancer/",
+      "originalUrl": "https://www.theglobeandmail.com/investing/markets/stocks/BHC-T/pressreleases/16543041/new-artificial-intelligence-tool-can-diagnose-colon-cancer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://barchart-news-media-prod.aws.barchart.com/FC/fbf6e68ba80e8e45990c8b0717fbffb9/bogdanhoda-1.jpg",
+          "width": 777,
+          "height": 436,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-03T08:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Globe and Mail",
+        "domain": "theglobeandmail.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-03-ai-brain-activity-decoder-can-reveal-stories-in-peoples-minds-researchers-say.md",
+      "title": "AI brain activity decoder can reveal stories in peoples' minds, researchers say",
+      "excerpt": "An artificial intelligence system developed at the University of Texas is able to translate a subject's brain activity into a stream of text after storytelling.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/science/ai-brain-activity-decoder-can-reveal-stories-peoples-minds-researchers-say",
+      "originalUrl": "https://www.foxnews.com/science/ai-brain-activity-decoder-can-reveal-stories-peoples-minds-researchers-say",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0cbb3aee-10db-495f-9fe0-b479aa2bec89/0ec766a6-9a55-4885-b3f4-4c77f19ec376/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/science/ai-brain-activity-decoder-can-reveal-stories-peoples-minds-researchers-say.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/science/ai-brain-activity-decoder-can-reveal-stories-peoples-minds-researchers-say.amp",
+      "publishedDateTime": "2023-05-03T08:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-03-why-open-source-is-essential-to-allaying-ai-fears-according-to-stabilityai-founder.md",
       "title": "Why open source is essential to allaying AI fears, according to Stability.ai founder",
       "excerpt": "OpenAI. \"There is no way you can use black-box models\" for the world's most valuable data, insists Stability.ai founder Emad Mostaque.",
@@ -248,49 +482,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-03-new-artificial-intelligence-tool-can-diagnose-colon-cancer.md",
-      "title": "New Artificial Intelligence Tool Can Diagnose Colon Cancer",
-      "excerpt": "Veracyte (NASDAQ:VCYT) and Bausch Health Companies (TSX:BHC) (NYSE:BHC) are other companies offering tests for the detection of colorectal cancer. Mainz Biomed (NASDAQ:MYNZ) creates commercially viable molecular genetic diagnostic solutions for critical illnesses.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theglobeandmail.com/investing/markets/stocks/VCYT-Q/pressreleases/16543041/new-artificial-intelligence-tool-can-diagnose-colon-cancer/",
-      "originalUrl": "https://www.theglobeandmail.com/investing/markets/stocks/VCYT-Q/pressreleases/16543041/new-artificial-intelligence-tool-can-diagnose-colon-cancer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://barchart-news-media-prod.aws.barchart.com/FC/fbf6e68ba80e8e45990c8b0717fbffb9/bogdanhoda-1.jpg",
-          "width": 777,
-          "height": 436,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-03T06:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Globe and Mail",
-        "domain": "theglobeandmail.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     },
@@ -1024,204 +1215,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-03-should-we-stop-developing-ai-for-the-good-of-humanity.md",
-      "title": "Should We Stop Developing AI For The Good Of Humanity?",
-      "excerpt": "Many high-profile tech figures, including Steve Wozniak and Elon Musk, are calling for a pause in the development of AI over concerns about its potential to cause harm, whether intentionally or unintentionally.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2023/05/03/should-we-stop-developing-ai-for-the-good-of-humanity/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2023/05/03/should-we-stop-developing-ai-for-the-good-of-humanity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6451ff360cd981ad54ee1aee/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2023/05/03/should-we-stop-developing-ai-for-the-good-of-humanity/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/05/03/should-we-stop-developing-ai-for-the-good-of-humanity/amp/",
-      "publishedDateTime": "2023-05-02T23:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-03-artificial-intelligence-detecting-cancer-in-some-us-hospitals.md",
-      "title": "Artificial Intelligence detecting cancer in some U.S. hospitals",
-      "excerpt": "Doctors believe Artificial Intelligence is now saving lives, after a major advancement in breast cancer screenings. A.I. is detecting early signs of the disease, in some cases years before doctors would find the cancer on a traditional scan.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/video/6326643971112",
-      "originalUrl": "https://www.foxnews.com/video/6326643971112",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/64a7bf5e-cbc4-4589-b30a-252fdbf7d8bf/ce181432-e4f7-4d55-a2a1-64d01842ee04/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "width": 1024,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-02T22:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-03-automated-machine-learning-automl-market-analysis-and-forecast-to-2031.md",
-      "title": "Automated Machine Learning (AutoML) Market Analysis and Forecast to 2031",
-      "excerpt": "May 03, 2023 (The Expresswire) -- \"Automated Machine Learning (AutoML) Market\" is expected to witness significant growth in the coming years,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/automated-machine-learning-automl-market-analysis-and-forecast-to-2031-2023-05-03",
-      "originalUrl": "https://www.marketwatch.com/press-release/automated-machine-learning-automl-market-analysis-and-forecast-to-2031-2023-05-03",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-02T21:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-05-03-center-for-deep-learning.md",
-      "title": "Center for Deep Learning",
-      "excerpt": "The Center for Deep Learning’s (CDL) mission is to act as a resource for companies seeking to establish or improve access to artificial intelligence (AI) by providing technical capacity and expertise, allowing the center’s members to achieve proof of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.mccormick.northwestern.edu/research/deep-learning/",
-      "originalUrl": "https://www.mccormick.northwestern.edu/research/deep-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mccormick.northwestern.edu/research/deep-learning/images/logos/anthem-440x248.png",
-          "width": 440,
-          "height": 248,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-02T19:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "mccormick.northwestern.edu",
-        "domain": "northwestern.edu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

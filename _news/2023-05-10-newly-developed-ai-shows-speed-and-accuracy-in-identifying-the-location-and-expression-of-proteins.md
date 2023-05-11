@@ -113,22 +113,6 @@ related:
         width: 1200
         height: 667
         isCached: true
-  - title: "How AI is revolutionizing fraud detection in financial transactions and processes"
-    excerpt: "The banking, financial institutions, and fintech industries face a growing number of scams each year, that can be typically categorized into three main types: physical attacks, internal collusion and violation of the Four Eyes Rule,"
-    publishedDateTime: 2023-05-06T10:35:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-ai-is-revolutionizing-fraud-detection-in-financial-transactions-and-processes/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-ai-is-revolutionizing-fraud-detection-in-financial-transactions-and-processes/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/how-ai-is-revolutionizing-fraud-detection-in-financial-transactions-and-processes/"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 54
-    images:
-      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2023/05/Jaya-Mahajanam-Director-of-Pre-Sales-and-Solutions-–-E42.jpg"
-        width: 1648
-        height: 1982
-        isCached: true
   - title: "The rise of human ingenuity in Artificial intelligence"
     excerpt: "The neural network used in ChatGPT is composed of multiple layers of artificial neurons that work. In coherence together to understand the structure and patterns in language. The model is trained on a large corpus of text data, which it uses to learn the ..."
     publishedDateTime: 2023-05-09T11:22:00Z

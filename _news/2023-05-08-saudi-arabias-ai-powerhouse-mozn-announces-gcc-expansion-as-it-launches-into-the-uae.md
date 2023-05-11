@@ -9,8 +9,8 @@ ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/saudi-arabias-
 cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/saudi-arabias-ai-powerhouse-mozn-announces-gcc-expansion-as-it-launches-into-the-uae-kxmryqlx?amp=1"
 type: article
 quality: 51
-heat: 61
-published: false
+heat: 71
+published: true
 
 provider:
   name: Zawya
@@ -38,6 +38,20 @@ related:
       name: Zawya
       domain: zawya.com
     quality: 31
+  - title: "Saudi Arabia's AI Powerhouse, Mozn Announces GCC Expansion As It Launches Into The UAE"
+    excerpt: "Saudi Arabia's Mozn, a market leader in enterprise artificial-intelligence technologies, today announced a regional expansion that will take the com"
+    publishedDateTime: 2023-05-11T03:45:00Z
+    webUrl: "https://menafn.com/1106223098/Saudi-Arabias-AI-Powerhouse-Mozn-Announces-GCC-Expansion-As-It-Launches-Into-The-UAE"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 31
+    images:
+      - url: "https://menafn.com/updates/pr/2023-05/10/KT_4ce45image_story.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "/YhDsqwUaM9/nUmg7T99DYomZS8aGV+gcNtNHr3PjalFJyC8yUOoZvL5g/z8vpW2EDARIkyHrYUUscI9vB59YwsKAA21plEI9/W1P15acQ4PA+xEi7LgDpt1GBbi5nrhJUsB1UOGOH+AJhvgvs3cJK8+efk3rmZJ4DRJRWM3RTkatVK0Z2f4eJRFXSXkAIbzanJYgQC425kXPCVtr/yqqIido3cOqRq9Chb+jTv7Muuj7xxufMnm5Wz5MuoK3ckInrFHsKD+QOPzcPAcr3hk0vH9hp1MEp/lhLVeP5SN6zhyOuj3A3kFzE7IDYn2BYQhjD7gmIOkDj/B5+IlkYKbiab82dkDqnEc+rwSZcf+W3d7jHhofQc47hmGvbhHRKFaV8Yow+ouKfKWK+sQQNcQOM7DJUW/ySs4NR1AbaR9CLRAYWyFhtC/iOChGG1xmJxBY0JFjmj/2TRUvAnN/SOKw+qeNYXEVx+Kz3+UdLj7NtWf6VSDL8luF1hy7nGt8M34+bIIqOjGyKwbsmIsBNvwnw==;Vdkd1MMKEXd9GDHD2noQgA=="
 ---

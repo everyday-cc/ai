@@ -2,40 +2,27 @@
 category: news
 title: "Google is giving its dominant search engine an artificial-intelligence makeover"
 excerpt: "Google has disclosed plans to infuse its dominant search engine with more advanced artificial-intelligence technology"
-publishedDateTime: 2023-05-10T19:32:00Z
-originalUrl: "https://abcnews.go.com/Technology/wireStory/google-giving-dominant-search-engine-artificial-intelligence-makeover-99235255"
-webUrl: "https://abcnews.go.com/Technology/wireStory/google-giving-dominant-search-engine-artificial-intelligence-makeover-99235255"
-ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/google-giving-dominant-search-engine-artificial-intelligence-makeover-99235255"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/google-giving-dominant-search-engine-artificial-intelligence-makeover-99235255"
+publishedDateTime: 2023-05-10T21:58:00Z
+originalUrl: "https://www.washingtonpost.com/business/2023/05/10/google-artificial-intelligence-search-engine-chatgpt-microsoft/9615a0b4-ef61-11ed-b67d-a219ec5dfd30_story.html"
+webUrl: "https://www.washingtonpost.com/business/2023/05/10/google-artificial-intelligence-search-engine-chatgpt-microsoft/9615a0b4-ef61-11ed-b67d-a219ec5dfd30_story.html"
 type: article
-quality: 38
-heat: 38
+quality: 18
+heat: 18
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: The Washington Post
+  domain: washingtonpost.com
 
 topics:
   - AI
 
 images:
-  - url: "https://s.abcnews.com/images/US/wirestory_fd0538018df958388991772ced6e693d_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SNSAMYXPMEI63NT5UIM6YXP5GA_size-normalized.jpg&w=1440"
+    width: 1440
+    height: 960
     isCached: true
 
-related:
-  - title: "AI: Artificial or Advanced Intelligence"
-    excerpt: "What is Artificial Intelligence? And can intelligence actually be artificial? These questions have been on the minds of many for decades. With the emergence of MIT's super A.I. Watson, and the insurgence of the driver-less car, now seems apropos to seek ..."
-    publishedDateTime: 2023-05-10T01:25:00Z
-    webUrl: "https://www.avclub.com/film/reviews/ai-artificial-or-advanced-intelligence-2020"
-    type: article
-    provider:
-      name: AV Club
-      domain: avclub.com
-    quality: 17
-
-secured: "wNoVsuCibZNhyVc36N0xLhCp8HLqZ5BzXUsrl9qNKt/SzWUTBUyjY6FuuAmy83tS48MAsfDN8Z0RVUdppDmtzy9oi91I4tlOsYKHl0CPyKd2dFCReoiQLVO4W+Lt66LtgbNWEgt3Qb2uVuyxXBcB7mAzK90OP60VQQ+KWOtT1c7PMoP2xY5Oz0xyqjILYwwTb/Y84u5mL+ige/g8nqUOYL1yYxyXz7jkQwt4QzWO1njmcr68dewk+v+3MFYbpyiyLP0nNMEGji/MXii4HWcebA6hC0ONL/MKt/nPtYKPA6YOLmFIZRmyyjNWuGvvXnseZAONNNLWZMQfyCoAvI0P2FyWN3lhhmmkZU1JQIB7jIU=;Zei+UHGkZri+LWwZnjh6uw=="
+secured: "FpAodfW3kiiN4W2aypVQ+6qBl476JfCpHavWebsHyKl9fUq8tsPKHswobil1wdxyDnCLApQPzpV+tFVB52RZBX9MhfHde2d9VxBmTsvtwEKI02PyON96hwQ3MelVshNWbgW/zYNsAfsK+jLP0WPBsljVrvxT71dlIJejR+jGt3vKvdYbwYhe0ivQ6iJMpfY0Vs0zG6Jh1VYTHlx1thS6tLzMxYG9sW9tTghuHGqbkkdwfpbUvM6WV5xJTutB4XZZGP/u96YLC5kluZE1oknl2qGeYgMna/3W2AKtIpbSetnUa9UZE7+LPpi90nxh6no93kZh4RxNzPsBajwLvxaEO+EQ30xbugCejtAetBCptNU=;Yn3DsfWMJabvbpVAQcwNtg=="
 ---
 

@@ -39,15 +39,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI in Computer Vision Market in 2031: New Era of Growth and Opportunities"
-    excerpt: "May 10, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global AI in Computer Vision"
-    publishedDateTime: 2023-05-10T10:31:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-in-2031-new-era-of-growth-and-opportunities-2023-05-10"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 63
   - title: "AITP Wins at Computer Competition"
     excerpt: "Colorado Mesa University (CMU) offers an excellent Information Systems (IS) program that prepares students for successful careers in the technology field. The CMU IS program provides students with the knowledge"
     publishedDateTime: 2023-05-09T04:00:00Z

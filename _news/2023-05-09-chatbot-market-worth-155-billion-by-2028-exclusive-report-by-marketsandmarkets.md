@@ -53,6 +53,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI In Computer Vision Market Growth and Revenue Forecast by 2030"
+    excerpt: "Brief Overview of the AI In Computer Vision Market: During The Forecast Period Spanning from 2023 To 2030, The Global AI In Computer Vision Market Is Expected to Experience Significant Growth. As of 2022, The Market Is Steadily Increasing, and with The ..."
+    publishedDateTime: 2023-05-09T05:59:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-growth-and-revenue-forecast-by-2030-2023-05-08"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 84
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence as a Service (AIaaS) for Government Market"
     excerpt: "Short Description About Artificial Intelligence as a Service (AIaaS) for Government Market: The Global Artificial Intelligence as a Service (AIaaS) for Government market is anticipated to rise at a considerable rate during the forecast period,"
     publishedDateTime: 2023-05-10T05:06:00Z
@@ -81,34 +95,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence and Cognitive Computing Market"
-    excerpt: "Research Reports has published a new report titled as \"Artificial Intelligence and Cognitive Computing Market\" by"
-    publishedDateTime: 2023-05-09T01:17:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-and-cognitive-computing-market-2023-05-08"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 67
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Enterprise Artificial Intelligence Market, 2030"
-    excerpt: "Research Reports has published a new report titled as \" Enterprise Artificial Intelligence Market \" by End User ( Security and Risk Management, Marketing Management, Customer Support and Experience, Human Resource and Recruitment Management,"
-    publishedDateTime: 2023-05-09T01:16:00Z
-    webUrl: "https://www.marketwatch.com/press-release/enterprise-artificial-intelligence-market-2030-2023-05-08"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 67
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Machine Learning Market Size, Growth, Opportunities, Key Players and Forecast Outlook 2031"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. May 10, 2023 (Alliance News via COMTEX) -- MACHINE LEARNING MARKET SIZE, SHARE & TRENDS ANALYSIS – GLOBAL OPPORTUNITY ANALYSIS AND INDUSTRY FORECAST 2030 The global machine ..."
     publishedDateTime: 2023-05-11T01:23:00Z
@@ -132,6 +118,34 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 56
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Voice Recognition Systems Market Research, 2030"
+    excerpt: "The Global Voice Recognition Systems market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players,"
+    publishedDateTime: 2023-05-08T03:58:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-systems-market-research-2030-2023-05-07"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Voice Recognition Market Research | 2023-2030"
+    excerpt: "The Global Voice Recognition market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players,"
+    publishedDateTime: 2023-05-11T00:09:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-research-2023-2030-2023-05-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

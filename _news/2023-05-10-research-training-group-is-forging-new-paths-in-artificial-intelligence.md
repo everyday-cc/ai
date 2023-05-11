@@ -18,6 +18,19 @@ topics:
   - Machine Learning
   - AI
 
+related:
+  - title: "This company is paying language experts Rs 2000 per hour for training AI tools to write better responses"
+    excerpt: "Scale AI, a data-labeling company, is hiring writers to train their generative AI models. Here are the details!"
+    publishedDateTime: 2023-05-10T13:52:00Z
+    webUrl: "https://economictimes.indiatimes.com/news/new-updates/this-company-is-paying-language-experts-rs-2000-per-hour-for-training-ai-tools-to-write-better-responses/articleshow/100138449.cms"
+    ampWebUrl: "https://m.economictimes.com/news/new-updates/this-company-is-paying-language-experts-rs-2000-per-hour-for-training-ai-tools-to-write-better-responses/amp_articleshow/100138449.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/news/new-updates/this-company-is-paying-language-experts-rs-2000-per-hour-for-training-ai-tools-to-write-better-responses/amp_articleshow/100138449.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 22
+
 secured: "isXnw1zcZia7N1NqPB+b+PoL6K0rjk4+ETB5if2uMRL+6D8+66gUQRnUOy7BRNRG21ZRVwCZ0M88ZH4N/fxlfsnUJfqIIIRYc9inrweTP4aSqvXXWyPVVGnouWm2WbN3HbQCfl2B2yZ++M7/ImAGFTRtWZnDYMOGpiienyBWPqr28JqPB+wYjbHBs5oOno4c8OySo97/Px8q6jScf3doX5tE567NYEc70oe4ucM5PANHKPKYcFnRTgb4bSRtK8b1y0B/rvYQuAsJ88u9eBuE+PShvX+M4eH5Tjh7Akp9y+QWym9E6GE3Lzd1VQSdzL5wsoFbILVLJ97+YrCtli2wMuwG1PlwHboeVkiyupnyRu8ne/mPNLih9uKa5rVZZh7hgCaraElXFtoygl8UGC/JytYYJQDRDo5N1RnorLug049PqNtnwjbFbpD612FnMjt8fIr5hOwNut0ASsxkevEoBURa/TOSQ9PsduGXrdfGSfw5tHfZBBObiktQOjLzQRJUcEOI//v/dGC3vRphFWbq9w==;dXyDASIe9eBrVdCA/9xDtA=="
 ---
 

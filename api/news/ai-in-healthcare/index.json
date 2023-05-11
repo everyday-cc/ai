@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-05-10-2023-healthcare-artificial-intelligence-ai-dynamic-report-by-2030.md",
+      "title": "2023 Healthcare Artificial Intelligence (AI) | Dynamic Report By 2030",
+      "excerpt": "The major players covered in the Healthcare Artificial Intelligence (AI) market report are: Get a sample copy of the Healthcare Artificial Intelligence (AI) Market report 2023 Healthcare Artificial Intelligence (AI) Marketsize,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/2023-healthcare-artificial-intelligence-ai-dynamic-report-by-2030-2023-05-10",
+      "originalUrl": "https://www.marketwatch.com/press-release/2023-healthcare-artificial-intelligence-ai-dynamic-report-by-2030-2023-05-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-10T04:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-09-transform-analyze-and-discover-insights-from-unstructured-healthcare-data-using-amazon-healthlake.md",
       "title": "Transform, analyze, and discover insights from unstructured healthcare data using Amazon HealthLake",
       "excerpt": "Healthcare data is complex and siloed, and exists in various formats. An estimated 80% of data within organizations is considered to be unstructured or “dark” data that is locked inside text, emails, PDFs, and scanned documents. This data is difficult to interpret or analyze programmatically and limits",
@@ -530,10 +573,10 @@
     {
       "path": "_news/2023-05-03-new-artificial-intelligence-tool-can-diagnose-colon-cancer.md",
       "title": "New Artificial Intelligence Tool Can Diagnose Colon Cancer",
-      "excerpt": "Veracyte (NASDAQ:VCYT) and Bausch Health Companies (TSX:BHC) (NYSE:BHC) are other companies offering tests for the detection of colorectal cancer. Mainz Biomed (NASDAQ:MYNZ) creates commercially viable molecular genetic diagnostic solutions for critical illnesses.",
+      "excerpt": "Detailed price information for Bausch Health Companies Inc (BHC-T) from The Globe and Mail including charting and trades.",
       "sourceUrl": null,
-      "webUrl": "https://www.theglobeandmail.com/investing/markets/stocks/VCYT-Q/pressreleases/16543041/new-artificial-intelligence-tool-can-diagnose-colon-cancer/",
-      "originalUrl": "https://www.theglobeandmail.com/investing/markets/stocks/VCYT-Q/pressreleases/16543041/new-artificial-intelligence-tool-can-diagnose-colon-cancer/",
+      "webUrl": "https://www.theglobeandmail.com/investing/markets/stocks/BHC-T/pressreleases/16543041/new-artificial-intelligence-tool-can-diagnose-colon-cancer/",
+      "originalUrl": "https://www.theglobeandmail.com/investing/markets/stocks/BHC-T/pressreleases/16543041/new-artificial-intelligence-tool-can-diagnose-colon-cancer/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -552,7 +595,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-03T06:38:00-07:00",
+      "publishedDateTime": "2023-05-03T08:28:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "The Globe and Mail",
@@ -1410,50 +1453,6 @@
         "AI in Healthcare",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-04-26-a-pioneering-artificial-intelligence-method-to-fight-urban-air-pollution.md",
-      "title": "A pioneering artificial intelligence method to fight urban air pollution",
-      "excerpt": "World Health Organization (WHO). This scenario is exacerbated in urban areas where more than 50% of the world's population is concentrated.",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2023-04-artificial-intelligence-method-urban-air.html",
-      "originalUrl": "https://phys.org/news/2023-04-artificial-intelligence-method-urban-air.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/a-pioneering-artificia.jpg",
-          "width": 2067,
-          "height": 1831,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2023-04-artificial-intelligence-method-urban-air.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-04-artificial-intelligence-method-urban-air.amp",
-      "publishedDateTime": "2023-04-25T12:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

@@ -2,6 +2,256 @@
   "page": 42,
   "value": [
     {
+      "path": "_news/2023-04-13-artificial-intelligence-in-health-care-new-product-acts-as-copilot-for-doctors.md",
+      "title": "Artificial intelligence in health care: New product acts as 'copilot for doctors'",
+      "excerpt": "Washington, D.C. – America’s medical community appears to be embracing artificial intelligence products in an effort to speed up patient care and prevent burnout among health care professionals.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/health/artificial-intelligence-health-care-new-product-acts-copilot-doctors",
+      "originalUrl": "https://www.foxnews.com/health/artificial-intelligence-health-care-new-product-acts-copilot-doctors",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2022/10/340/340/Meredith_Mark_OFFICIAL.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/health/artificial-intelligence-health-care-new-product-acts-copilot-doctors.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/health/artificial-intelligence-health-care-new-product-acts-copilot-doctors.amp",
+      "publishedDateTime": "2023-04-13T07:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-13-sophisticated-ai-robot-speaks-several-languages-in-disturbing-footage.md",
+      "title": "Sophisticated AI robot speaks several languages in disturbing footage",
+      "excerpt": "Disturbing footage shows a highly-advanced AI robot speaking several languages. Ameca is a robot developed by UK startup Engineered Arts, who describe the robot as the “world’s most advanced ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.aol.com/sophisticated-ai-robot-speaks-several-054650924.html",
+      "originalUrl": "https://www.aol.com/sophisticated-ai-robot-speaks-several-054650924.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.zenfs.com/en/aol_the_independent_uk_548/b54fd902279682f3aebe46b948550b8f",
+          "width": 1200,
+          "height": 677,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-13T07:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AOL",
+        "domain": "aol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-13-natural-language-processing-nlp-market-2023-2029global-report-forecast.md",
+      "title": "Natural Language Processing (NLP) Market 2023-2029|Global Report Forecast",
+      "excerpt": "Natural Language Processing (NLP) Market | Outlook 2023-2028 | Pre and Post-COVID Research is Covered, Report Information",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-2023-2029global-report-forecast-2023-04-13",
+      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-2023-2029global-report-forecast-2023-04-13",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-13T07:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-13-putin-and-xi-seek-to-weaponize-artificial-intelligence-against-america.md",
+      "title": "Putin and Xi seek to weaponize Artificial Intelligence against America",
+      "excerpt": "Russia's Putin and China's Xi seek to weaponize artificial intelligence against America and dominate the world as the Biden administration ponders hitting the brakes on AI",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/opinion/putin-xi-seek-weaponize-artificial-intelligence-against-america",
+      "originalUrl": "https://www.foxnews.com/opinion/putin-xi-seek-weaponize-artificial-intelligence-against-america",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/39b9bfbe-9556-462f-bf6a-a645426e701e/4af56975-0b7e-4a1d-9d54-31a23a484ae7/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/opinion/putin-xi-seek-weaponize-artificial-intelligence-against-america.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/putin-xi-seek-weaponize-artificial-intelligence-against-america.amp",
+      "publishedDateTime": "2023-04-13T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-04-13-artificial-intelligence-market-in-2023unlocking-promising-opportunities-by-2030.md",
+      "title": "Artificial Intelligence Market in 2023|Unlocking Promising Opportunities by 2030",
+      "excerpt": "Apr 13, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry. This report conducts a",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-in-2023unlocking-promising-opportunities-by-2030-2023-04-13",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-in-2023unlocking-promising-opportunities-by-2030-2023-04-13",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-13T06:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-13-5-takeaways-from-the-early-days-of-ibm-partner-plus.md",
       "title": "5 takeaways from the early days of IBM Partner Plus",
       "excerpt": "The past three months have been transformative for the IBM Ecosystem. Our investment in the ecosystem is deeper than ever before, and momentum is accelerating across all partner types as they continue to scale and innovate. This demonstrates their commitment to clients, deep expertise and hunger to collaborate",
@@ -873,229 +1123,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-13-automl-the-promise-vs-reality-according-to-practitioners.md",
-      "title": "AutoML: the Promise vs. Reality According to Practitioners",
-      "excerpt": "Unfortunately, true end-to-end automation is not yet available. AutoML is currently most frequently used in hyperparameter tuning and model selection. The failure of AutoML to be end-to-end can ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoq.com/articles/auto-ml-promise-reality/",
-      "originalUrl": "https://www.infoq.com/articles/auto-ml-promise-reality/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.infoq.com/articles/auto-ml-promise-reality/en/headerimage/header-1661333792384.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-12T12:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-13-decoding-insomnia-machine-learning-model-predicts-sleep-disorders-from-patient-records.md",
-      "title": "Decoding insomnia: Machine learning model predicts sleep disorders from patient records",
-      "excerpt": "A machine learning model can effectively predict a patient's risk for a sleep disorder using demographic and lifestyle data, physical exam results and laboratory values, according to a new study published this week in the open-access journal PLOS ONE by Samuel Y.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2023-04-decoding-insomnia-machine-disorders-patient.html",
-      "originalUrl": "https://medicalxpress.com/news/2023-04-decoding-insomnia-machine-disorders-patient.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/decoding-insomnia-mach.jpg",
-          "width": 2880,
-          "height": 1922,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2023-04-decoding-insomnia-machine-disorders-patient.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-04-decoding-insomnia-machine-disorders-patient.amp",
-      "publishedDateTime": "2023-04-12T11:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-12-how-offshoring-and-artificial-intelligence-threaten-us-white-collar-workers.md",
-      "title": "How Offshoring And Artificial Intelligence Threaten U.S. White-Collar Workers",
-      "excerpt": "A recent Federal Reserve Bank of Atlanta survey found that 7.3% of leadership in the United States plans to move more jobs offshore as the next step from remote work within America.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jackkelly/2023/04/12/how-offshoring-and-artificial-intelligence-threaten-us-white-collar-workers/",
-      "originalUrl": "https://www.forbes.com/sites/jackkelly/2023/04/12/how-offshoring-and-artificial-intelligence-threaten-us-white-collar-workers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6436dc5574074b02cbb0e670/0x0.jpg?format=jpg&crop=4147,2332,x0,y0,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jackkelly/2023/04/12/how-offshoring-and-artificial-intelligence-threaten-us-white-collar-workers/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jackkelly/2023/04/12/how-offshoring-and-artificial-intelligence-threaten-us-white-collar-workers/amp/",
-      "publishedDateTime": "2023-04-12T09:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-12-regulating-ai-three-experts-explain-why-its-difficult-to-do-and-important-to-get-right.md",
-      "title": "Regulating AI: Three experts explain why it's difficult to do and important to get right",
-      "excerpt": "From fake photos of Donald Trump being arrested by New York City police officers to a chatbot describing a very-much-alive computer scientist as having died tragically, the ability of the new generation of generative artificial intelligence systems to create convincing but fictional text and images is setting off alarms about fraud and misinformation on steroids.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2023-04-ai-experts-difficult-important.html",
-      "originalUrl": "https://techxplore.com/news/2023-04-ai-experts-difficult-important.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/artificial-intelligenc-64.jpg",
-          "width": 1920,
-          "height": 1343,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2023-04-ai-experts-difficult-important.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-04-ai-experts-difficult-important.amp",
-      "publishedDateTime": "2023-04-12T09:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-12-siemens-and-microsoft-drive-industrial-productivity-with-generative-artificial-intelligence.md",
-      "title": "Siemens and Microsoft Drive Industrial Productivity with Generative Artificial Intelligence",
-      "excerpt": "Siemens’ new Teamcenter app for Microsoft Teams will use AI, boosting productivity and innovation throughout a product lifecycle.",
-      "sourceUrl": null,
-      "webUrl": "https://www.automation.com/en-us/articles/april-2023/siemens-microsoft-drive-industrial-productivity-ai",
-      "originalUrl": "https://www.automation.com/en-us/articles/april-2023/siemens-microsoft-drive-industrial-productivity-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.automation.com/getmedia/fee1f616-d082-4142-8ab5-acad3d9c662c/Siemens_news_April_12_2023_500x313-web.jpg?width=500&height=313&ext=.jpg",
-          "width": 500,
-          "height": 313,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-12T09:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Automation",
-        "domain": "automation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

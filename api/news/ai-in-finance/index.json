@@ -148,7 +148,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-ml-platforms-market-intelligence-report-2023-2031-by-industry-experts-2023-05-08",
       "featuredContent": null,
       "highlight": null,
-      "heat": 137,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -190,6 +190,49 @@
         "Machine Learning",
         "AI",
         "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2023-05-08-saudi-arabias-ai-powerhouse-mozn-announces-gcc-expansion-as-it-launches-into-the-uae.md",
+      "title": "Saudi Arabia’s AI powerhouse, Mozn announces GCC expansion as it launches into the UAE",
+      "excerpt": "Regional AI leader to bring AML and Anti-Fraud capabilities to financial institutions across the Emirates, GCC, boosting their compliance journeys and accelerating economic progress",
+      "sourceUrl": null,
+      "webUrl": "https://www.zawya.com/en/press-release/companies-news/saudi-arabias-ai-powerhouse-mozn-announces-gcc-expansion-as-it-launches-into-the-uae-kxmryqlx",
+      "originalUrl": "https://www.zawya.com/en/press-release/companies-news/saudi-arabias-ai-powerhouse-mozn-announces-gcc-expansion-as-it-launches-into-the-uae-kxmryqlx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.zawya.com/view/acePublic/alias/contentid/MzAzODlmNjktYWQ5MS00/0/mozn1-jpg.jpeg?f=3%3A2",
+          "width": 900,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zawya.com/en/press-release/companies-news/saudi-arabias-ai-powerhouse-mozn-announces-gcc-expansion-as-it-launches-into-the-uae-kxmryqlx?amp=1",
+      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/saudi-arabias-ai-powerhouse-mozn-announces-gcc-expansion-as-it-launches-into-the-uae-kxmryqlx?amp=1",
+      "publishedDateTime": "2023-05-08T04:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
       ]
     },
     {
@@ -814,6 +857,50 @@
       ]
     },
     {
+      "path": "_news/2023-05-01-machine-learning-and-data-sciences-for-financial-markets.md",
+      "title": "Machine Learning and Data Sciences for Financial Markets",
+      "excerpt": "Leveraging the research efforts of more than sixty experts in the area, this book reviews cutting-edge practices in machine learning for financial markets. Instead of seeing machine learning as a new field, the authors explore the connection between ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cambridge.org/core/books/machine-learning-and-data-sciences-for-financial-markets/8BB31611662A96D0AB93A8A26E2D0D0A",
+      "originalUrl": "https://www.cambridge.org/core/books/machine-learning-and-data-sciences-for-financial-markets/8BB31611662A96D0AB93A8A26E2D0D0A",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.cambridge.org/97813165/16195/large_cover/9781316516195i.jpg",
+          "width": 451,
+          "height": 648,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-30T11:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cambridge University Press",
+        "domain": "cambridge.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-04-29-heres-how-the-cloud-is-revolutionizing-health-tech-and-fintech.md",
       "title": "Here's How the Cloud is Revolutionizing Health Tech and FinTech",
       "excerpt": "Overcoming the model of office and lab work with cloud computing Cloud computing systems have allowed enterprises, schools, and government organizations to overcome pandemic-induced challenges and meaningfully accelerate innovation and agility toward the market.",
@@ -1332,111 +1419,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-21-artificial-intelligence-ai-in-fintech-market-complete-overview-till-2031.md",
-      "title": "Artificial Intelligence (AI) in Fintech Market Complete Overview till 2031",
-      "excerpt": "New Report (2023-2031) of 75 Pages: Global Artificial Intelligence (AI) in Fintech Market Status and Prospect A summary",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-complete-overview-till-2031-2023-04-21",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-complete-overview-till-2031-2023-04-21",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-20T23:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-21-automated-machine-learning-automl-market-research-2023-2030.md",
-      "title": "Automated Machine Learning (AutoML) Market Research, 2023-2030",
-      "excerpt": "Automated Machine Learning (AutoML) Market | Outlook 2023-2028 | Pre and Post-COVID Research is Covered, Report",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/automated-machine-learning-automl-market-research-2023-2030-2023-04-20",
-      "originalUrl": "https://www.marketwatch.com/press-release/automated-machine-learning-automl-market-research-2023-2030-2023-04-20",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 156,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-20T20:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

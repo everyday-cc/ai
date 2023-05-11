@@ -74,6 +74,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Deep Learning Chipset Market Research | 2023-2030"
+    excerpt: "The Global Deep Learning Chipset market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players,"
+    publishedDateTime: 2023-05-08T04:41:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-chipset-market-research-2023-2030-2023-05-08"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Deep Learning in Manufacturing Market Size, 2030"
     excerpt: "The Global Deep Learning in Manufacturing market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players,"
     publishedDateTime: 2023-05-08T06:05:00Z
@@ -102,6 +116,89 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Self-Driving Taxi Market Research | 2023-2030"
+    excerpt: "The Global Self-Driving Taxi market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players,"
+    publishedDateTime: 2023-05-08T04:10:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-taxi-market-research-2023-2030-2023-05-08"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Smart Waste Bins Market Research | 2023-2030"
+    excerpt: "The Global Smart Waste Bins market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players,"
+    publishedDateTime: 2023-05-08T03:57:00Z
+    webUrl: "https://www.marketwatch.com/press-release/smart-waste-bins-market-research-2023-2030-2023-05-07"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Self-driving Cars Market Research | 2023-2030"
+    excerpt: "The Global Self-driving Cars market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players,"
+    publishedDateTime: 2023-05-09T04:06:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-cars-market-research-2023-2030-2023-05-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Latest \"Self-driving Cars and Trucks Market\" Analysis 2023-2030"
+    excerpt: "May 10, 2023 (The Expresswire) -- \"Self-driving Cars and Trucks Market\" Insights 2023 By Types ( Cars, Trucks), Applications ( Transportation,"
+    publishedDateTime: 2023-05-10T08:48:00Z
+    webUrl: "https://www.marketwatch.com/press-release/latest-self-driving-cars-and-trucks-market-analysis-2023-2030-2023-05-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Deep Learning Camera Market Research | 2023-2030"
+    excerpt: "The Global Deep Learning Camera market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players,"
+    publishedDateTime: 2023-05-08T07:33:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-camera-market-research-2023-2030-2023-05-08"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
+  - title: "Machine Learning Courses Market Research, 2030"
+    excerpt: "Research Reports has published a new report titled as \"Machine Learning Courses Market\" by End User (Business,"
+    publishedDateTime: 2023-05-10T00:34:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-courses-market-research-2030-2023-05-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
+  - title: "Machine Learning Software Market Research Analysis, 2023-2030"
+    excerpt: "A Machine Learning Software market new report, spanning multiple 120 pages, offers an extensive and in-depth analysis"
+    publishedDateTime: 2023-05-10T16:08:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-software-market-research-analysis-2023-2030-2023-05-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
   - title: "Machine Learning in Manufacturing Market in 2023: Latest Innovations and Growth Strategies till 2030"
     excerpt: "The Global \"Machine Learning in Manufacturing Market\" report analyzes crucial growth factors, key strategies employed"
     publishedDateTime: 2023-05-08T08:56:00Z

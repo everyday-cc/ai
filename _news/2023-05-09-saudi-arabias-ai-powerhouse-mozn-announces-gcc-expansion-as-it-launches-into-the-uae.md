@@ -37,6 +37,20 @@ related:
         width: 900
         height: 600
         isCached: true
+  - title: "Saudi Arabia's AI Powerhouse, Mozn Announces GCC Expansion As It Launches Into The UAE"
+    excerpt: "Saudi Arabia's Mozn, a market leader in enterprise artificial-intelligence technologies, today announced a regional expansion that will take the com"
+    publishedDateTime: 2023-05-11T03:45:00Z
+    webUrl: "https://menafn.com/1106223098/Saudi-Arabias-AI-Powerhouse-Mozn-Announces-GCC-Expansion-As-It-Launches-Into-The-UAE"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 31
+    images:
+      - url: "https://menafn.com/updates/pr/2023-05/10/KT_4ce45image_story.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "oqvz+RpwGKTVeRWxPvsxpEWvIAtzl/S7ElW3e1lqo50ChgF2u2KZCBu0cfVehCYfwtZTdk8XWYsVVJzmGWPw/8p2aGG9lSAgiOuqSG66PDMnHtqYilLcCpwCaJ5zyPtZKGWOGc4rBeM2HkDcWI882rwQ/72rrAAAVY1EppF6a4GCAEubPzj47OHS6fu8Q+lbQNXkS+LhbWVBjRfeZRrfV3MFxLj7hBq/eJ97gbE/e+OiVkDoun4NqsMJBCxg+s4kyAqtzAztd7MIaf8V+v89pBmtHsxrCNctGpysr18zQAr6g3+SgwUdADIS2iSC7DM8MJPb67fYnnFJzeLAXbkKMs4D52T5th8mPbx0ILrvn/I=;8ugz1YpgBIeZEDlOjBq5ow=="
 ---
