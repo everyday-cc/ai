@@ -105,7 +105,12 @@ related:
     provider:
       name: tvcnews.tv
       domain: tvcnews.tv
-    quality: 4
+    quality: 24
+    images:
+      - url: "https://www.tvcnews.tv/wp-content/uploads/2023/05/download_2_600x400.png"
+        width: 600
+        height: 400
+        isCached: true
 
 secured: "8oq/ewHRScrRxeSa26cebrzpCE1mpWbLgyQ9rf+tvdAl5sLb51KzHziBE3FXmT1BDZAtBmQlzru3uF+01LfepFu09TOfGms9uYhSg/a/b5Xe4logNMll26yuPZ6Z+VK8j5LdDaIFIIaC/+P/gQBBYlckv4EntV7Tx+n/C+1tJPWD+yCUcowd6Lj27UNOA8GMizClccrX2lwRyoa3taAvwD10xwzouqd7Ts3VQiJil/a47oH5vCzasGWBIhYr+lD6Wpc22RTNdZRZK2BlFVz2NpjaU//VGeEh3s3vvakNxoLOiwAX666jeqNzMudT7ILcztWwag+bhLNuj1A+Rn6QHAqnfrDYzVosViVxZO4qxu0=;JL1A5ygmIp9Qo7RQr3AE/w=="
 ---

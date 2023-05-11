@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/how-gmail-plans-to-use-ai-to-wr
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/how-gmail-plans-to-use-ai-to-write-your-emails-for-you/"
 type: article
 quality: 87
-heat: 97
+heat: 99
 published: true
 
 provider:

@@ -27,22 +27,6 @@ images:
     height: 630
     isCached: true
 
-related:
-  - title: "ThetaRay, an AI-powered Transaction Monitoring Tech Provider, Reports Significant Revenue Growth in 2022"
-    excerpt: "ThetaRay, a provider of AI-powered transaction monitoring technology for banks and fintech, today announced 260% revenue growth in 2022."
-    publishedDateTime: 2023-05-06T17:19:00Z
-    webUrl: "https://www.crowdfundinsider.com/2023/05/206704-thetaray-an-ai-powered-transaction-monitoring-tech-provider-reports-significant-revenue-growth-in-2022/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 22
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/01/Zoom-Warp-Speed-Blast-Artificial-Intelligence.jpeg"
-        width: 1280
-        height: 1139
-        isCached: true
-
 secured: "/tFe+zIstHWlg37Cd9OpAb5yfYXadlwoMuLnn1X3nq2OHnwRcN0Q9U8L+PplDGwaycWPC5BUbMqiaSO/SxBW96yl0qRdk4X9+DgPiKuGJ/mcfCreLeY6O5wfqcELdZ1PGlkhfaeldodsgTcQdYXY6yEttlkQXjhRYV3FNCh/eu223lQUPq8IRy0r1gFT68YmbzClNyq8JC14spyt+cJu0c9pAKTMPe+MNFGTJh+mjlWf0StZD/O54oVE3J2ZPxHX9EHIpwNQQL3iWD/cViH2LbaKXve4dcC/YQtngQmhdUeasAB8Atmp6bZEMAvoro4QtcpAFYkVmHTiODHmFOjDEDSePXwzneveYom9m9ZVI+Q=;D2Hn0uGE3fFtCjtsJvJoBg=="
 ---
 

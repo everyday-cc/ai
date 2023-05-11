@@ -39,6 +39,22 @@ related:
         width: 624
         height: 351
         isCached: true
+  - title: "Can artificial intelligence create more jobs?"
+    excerpt: "Discover how AI can create new jobs and transform existing ones; and the challenges and solutions to address job displacement and inequality."
+    publishedDateTime: 2023-05-11T09:07:00Z
+    webUrl: "https://cointelegraph.com/news/can-artificial-intelligence-create-more-jobs"
+    ampWebUrl: "https://cointelegraph.com/news/can-artificial-intelligence-create-more-jobs/amp"
+    cdnAmpWebUrl: "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/can-artificial-intelligence-create-more-jobs/amp"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 57
+    images:
+      - url: "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=740/https://s3.cointelegraph.com/uploads/2023-05/27a3c373-3f5f-4886-8390-7c8982e1c8bd.jpg"
+        width: 740
+        height: 492
+        isCached: true
 
 secured: "i0A/S0gZW+Y6+sHvuSGLvZdudrd+H98rzM/QDNLyA3erulvgNlRcUiK8HYEu1Eq3E/rWTW2WXk3rRyaNkZdFK/5ndMay8Do7vDzg3Grn86W8WJNKZXu7tkWjcGI4GRk3Am1UtaiU7K2PV73zRGqmf9pSbU5a8DV8kiOHEX55ZNhm0IZICRSNGRnTRjWHOEpR2FKZH88+jakUfx6LAQ8ERRIMa9EvGMYq7btnxAaJBCa3lkO9/fsyg+ePWFL00m4xcXGo7y7c/FnbmqpELfM+/qHU8KarP3oJmCXkaR52wZUvVuEk7+oZDSUyYZB7fxg5TaC8jG/xU1qww/dxswifC0uKU9EtaSH3zZujHPFU5DE=;NUhZp4bDTZoVEyUTC9PhlQ=="
 ---

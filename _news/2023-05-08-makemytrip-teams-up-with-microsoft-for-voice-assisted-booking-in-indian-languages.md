@@ -138,6 +138,15 @@ related:
       name: Indiatimes
       domain: indiatimes.com
     quality: 27
+  - title: "MakeMyTrip Teams Up with Microsoft to Transform Travel Booking with Voice-Assisted AI in Indian Languages"
+    excerpt: "Transforming the travel landscape, MakeMyTrip and Microsoft join forces to create an inclusive, accessible, and seamless travel booking experience, Technology & Science News, Times Now"
+    publishedDateTime: 2023-05-08T12:37:00Z
+    webUrl: "https://www.timesnownews.com/technology-science/makemytrip-teams-up-with-microsoft-to-transform-travel-booking-with-voice-assisted-ai-in-indian-languages-article-100077105"
+    type: article
+    provider:
+      name: timesnownews
+      domain: timesnownews.com
+    quality: 17
 
 secured: "xGz8ZFg02ipti5DCvfg7aVpVkbUS9Jud2KmY4+kae3BuU7pcNbwuhSvF+Nj4pxNqhnVCTpBwTedsG1u2C369t6756cTZxq4T/1qEvCTBSjvrp8Foj6//qbnX1ljPfp+GAoMopGK4dpSBM6WUQ+0oZriQ/gyjPpMirqYhLurbF+PnmDbIQsoU9sRVZ9b3e0D4pESbm+NdPvHGc8RoYneWtxtDJP2hW5plC7ffYnZcKSifYryUMFX6p17pd1nadUFO7P7tgh7ATTQlPGbu1vpj7NjuRfNay+i/yjP2WrLDpbMZauJKXCLS0UWSPzo7n3NrtrdR6BRtkW1cc7PCrWVs6YSm1j6IP6udlHVpByHXK7xEeC1gBeIwvloxfigZKadik3GLshZzRoeOfpd4jMZUMMiwdHQ6rKTqToXPbamd9h/WtyfXznTiLRq3gBvaOKeqckVUbE9SIyZbIf+jcpq2wgI4UtvVCDo1W2kRLdb2ySqnJgiOdNN5vd20OfIci3mjmaOWEBaNn61DzTi1WqfCeg==;W/Xl1pFXjfoWgpqEcbCkuQ=="
 ---

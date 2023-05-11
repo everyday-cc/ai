@@ -54,6 +54,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Google Goes Big With a New Folding Phone and Better AI"
+    excerpt: "It’s been a big week for Google, which just announced three new Pixel products, including its first foldable phone, plus key enhancements to its ChatGPT rival Bard."
+    publishedDateTime: 2023-05-11T11:51:00Z
+    webUrl: "https://www.barrons.com/visual-stories/google-ai-chatgpt-pixel-phone-tablet-96a40590"
+    ampWebUrl: "https://www.barrons.com/visual-stories/google-ai-chatgpt-pixel-phone-tablet-96a40590"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/visual-stories/google-ai-chatgpt-pixel-phone-tablet-96a40590"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 57
+    images:
+      - url: "https://images.barrons.com/im-779960?size=1.5005861664712778&height=630&width=1200"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Google Wants to Play Both Sides of the AI Arms Race"
     excerpt: "CEO Sundar Pichai and several top executives at Google’s parent company Alphabet took the stage to announce the infusion of AI into its suite of tools, as well as the launch of a new-and-improved AI model to power it all."
     publishedDateTime: 2023-05-10T22:03:00Z

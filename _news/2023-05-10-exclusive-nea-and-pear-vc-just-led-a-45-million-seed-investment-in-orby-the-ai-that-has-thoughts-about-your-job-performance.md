@@ -44,6 +44,20 @@ related:
         width: 1260
         height: 710
         isCached: true
+  - title: "AI robot testing and an equestrian performance: Thursday’s best photos"
+    excerpt: "The Guardian’s picture editors select photo highlights from around the world"
+    publishedDateTime: 2023-05-11T11:47:00Z
+    webUrl: "https://www.theguardian.com/news/gallery/2023/may/11/ai-robot-testing-and-an-equestrian-performance-thursdays-best-photos"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 54
+    images:
+      - url: "https://i.guim.co.uk/img/media/20f570a1e9da3e5f30e74bd897e07b6d0260d26f/289_422_5158_3095/master/5158.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1ef1c612d5e1f6fcccfde801f59e30d5"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "2hCeC5txLPg9JMw50YF0AX17ssAZIJqG8mAJX+WoOzwSXtHORLcxonM3JAS4m5eSCjW1H3xAzWJgdklKxMc9RUcEIgQesLyr7Va7ODw0XWqYRQcRgsstAWwmO52oj3pIX9jJMziIY7IMVxEXpWImitCjmQN/VDmk8/nWItlh672FPcckuagyuRqVog7slzGVowFet6N9CNJHarKi+WTwEbp17tQ+QlK5Gs1r4r78BhcK632c6Wu5CxYIeUQhp+xvDeyLRyikqBOFV6TG/9ldyH91VBZTku+YKrF5MpDGsFAd4/trCRewbjNnuG3fNEpZUW9eTb7697TxzyN+GOzRZDdgvZZGlSd8FAxYuPq/KN8=;NOxWiSp5mL9DWWJcP/KVtA=="
 ---

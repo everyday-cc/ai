@@ -25,34 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "How Artificial Intelligence is Revolutionising the Fintech Landscape?"
-    excerpt: "According to surveys, 2/3 of FinTech companies currently use AI technology in their activities to a greater or lesser extent. Its influence will increase. Last year, the worldwide market for AI solutions in the FinTech industry was assessed at roughly 9 billion USD;"
-    publishedDateTime: 2023-05-08T17:05:00Z
-    webUrl: "https://www.baltictimes.com/how_artificial_intelligence_is_revolutionising_the_fintech_landscape_/"
-    type: article
-    provider:
-      name: The Baltic Times
-      domain: baltictimes.com
-    quality: 39
-    images:
-      - url: "https://media.baltictimes.com/media/photos/157961_66405011364592af6ddd73_big.jpg"
-        width: 855
-        height: 570
-        isCached: true
-  - title: "How Artificial Intelligence is Revolutionising the Fintech Landscape?"
-    excerpt: "According to surveys, 2/3 of FinTech companies currently use AI technology in their activities to a greater or lesser extent. Its influence will increase. Last year, the worldwide market for AI solutions in the FinTech industry was assessed at roughly 9 billion USD;"
-    publishedDateTime: 2023-05-10T14:04:00Z
-    webUrl: "https://www.lrytas.lt/english/feature/2023/05/10/news/how-artificial-intelligence-is-revolutionising-the-fintech-landscape--26994790"
-    type: article
-    provider:
-      name: lrytas
-      domain: lrytas.lt
-    quality: 39
-    images:
-      - url: "https://media.lrytas.lt/images/2023/05/10/140405959-a47a9743-68ec-47fd-98d1-65e8ded98f3a.jpg"
-        width: 1080
-        height: 720
-        isCached: true
   - title: "‘As big as the invention of the camera’: How AI will revolutionise cinema"
     excerpt: "Recent advances in AI create the possibility of removing any, most or even all humans from a film’s creative process: as well as writing scripts, it can airbrush actors’ blemishes, clean up their dialogue,"
     publishedDateTime: 2023-05-10T14:50:00Z
@@ -67,15 +39,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "FinovateSpring Hosting 60+ Live Demos Showcasing Disruptive Fintech Solutions"
-    excerpt: "What Can We Learn from Innovators in The Space?\" FinovateSpring is well known for spotlighting new fintech innovations from seed-stage startups to global leaders. The event offers 60-plus short, punchy,"
-    publishedDateTime: 2023-05-09T13:35:00Z
-    webUrl: "https://www.marketwatch.com/press-release/finovatespring-hosting-60-live-demos-showcasing-disruptive-fintech-solutions-2023-05-09"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 31
 
 secured: "zXEM3WbQXTuvyMlSBjlxp4Y1BtC1frU4BVHdL67+3LygTn87BgUL58W8ybHTXrRwQ0zCAlpNswJ+IrLOEP7qgXTw8xrREdL9cw7ZQyY91xf6FkCoGeR6kmTcDh5k5hRRr4JKK3qkb9HNsgn4vl39advKMh92NrBm23tpPmYWR7kukQOsd77LsH5dkQIzBy3c9FoBsYtQXcxf8TuowpuCsia7YyKtqSs12TdrDSiJzgn06YR8NGA3oCCoN5IYwPjwVAR+bqi+n2NAz2KZqApPhYBGtdVW97MMh6EHPyfDU2BOLd8oMrhFS7TLXHAC0rX76q3WqlsBoLrZYBXWvlV+4ABgejApngChJHC0m1vVe/lnWPzpzlecchD3NAKRkcnbxnNWfg99/MGo5CFjHd9ebdMH/1Pgh2eSvje/AjWVLmvxMMx9NqFwmuwYFf4RNqjJtROq0jAgsvvwTAY1Y6TUkjZxTYjsO86n7UP0aUykldkmcr9po7QO2G4j3fhu8kXb8IazbECBeyXyKXSgi1pUJQ==;vJJ1IHkubzaTnsS1OWOqlw=="
 ---

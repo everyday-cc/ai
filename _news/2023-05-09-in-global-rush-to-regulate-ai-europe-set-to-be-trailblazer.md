@@ -38,22 +38,6 @@ related:
         width: 256
         height: 256
         isCached: true
-  - title: "How Europe is building artificial intelligence guardrails"
-    excerpt: "Authorities around the world are racing to draw up rules for artificial intelligence, including in the European Union, where draft legislation faces a pivotal moment"
-    publishedDateTime: 2023-05-11T07:02:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/europe-building-artificial-intelligence-guardrails-99247610"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/europe-building-artificial-intelligence-guardrails-99247610"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/europe-building-artificial-intelligence-guardrails-99247610"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 72
-    images:
-      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-        width: 834
-        height: 308
-        isCached: true
   - title: "How Europe is at the forefront of building artificial intelligence guardrails"
     excerpt: "Authorities around the world are racing to draw up rules for artificial intelligence, including in the European Union, where draft legislation faced a pivotal moment on Thursday. A"
     publishedDateTime: 2023-05-11T09:44:00Z
@@ -83,6 +67,20 @@ related:
       - url: "https://media.wired.com/photos/645593587b25a434b1f3bc67/191:100/w_1280,c_limit/riskreward_biz_GettyImages-521951552.jpg"
         width: 1280
         height: 670
+        isCached: true
+  - title: "How Europe is building artificial intelligence guardrails"
+    excerpt: "A European Parliament committee is set to vote on the proposed rules, part of a yearslong effort to draw up guardrails for artificial intelligence. Those efforts have taken on more urgency as the rapid advance of ChatGPT highlights benefits the emerging technology can bring — and the new perils it poses."
+    publishedDateTime: 2023-05-11T10:39:00Z
+    webUrl: "https://www.chron.com/news/world/article/how-europe-is-building-artificial-intelligence-18093065.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 52
+    images:
+      - url: "https://s.hdnux.com/photos/01/32/63/16/23802753/3/rawImage.jpg"
+        width: 2048
+        height: 1365
         isCached: true
 
 secured: "LqM5XF+dKqB+yXdVOw650uEWDNRWEGbUyl5izREaQaCPqBzshJIYOucU0eWMz6lTZc+U779iSGJ406/NsWUNlcnM7ZOJWYiWoUFOGP6IMjyxHpeYXoLM8WhgG31gFSOAOB0diFZKz1+Y/s6XPHE+Y6zO5S4srsncnD+wWqpl1w+1JQ7+QLLh3dXgH8FDwpks67a1S+IgPuRdDdOE5SRPb7evqpjFLCkJ2ZxgO8MLjNTNDVPDJ6J9s+0L6+w/eLlXr9jevGSmVjkoPXbTe7hxtsQ1+zk5YCOFNBFQ5bFHMPMEb12kJ8tTCwkA5AyvWnkDeqFVGLCOTcItnIsBE0iDENgl+0GInuPwbu6ELogB6mm2dDZAMbbGI5PYzHFrfDMmIHnlIPrHuLRNmiiByWQ+XDsIKiBlaw8LP3k7AHqoGcpUICkMTa5Zlqd4siDdkVKCqrte1xfirRs+E35LVf3+VqtVtj/DK2+Wl6XNiGapHzdRhVxv4Eh8xIVwhdvmm+fOlDvoPYGouykJk3EiO2dTsw==;ufgiGRkajLvSkipCTngn+g=="

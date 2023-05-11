@@ -9,8 +9,8 @@ ampWebUrl: "https://moneyweek.com/investments/605871/ai-investing?amp"
 cdnAmpWebUrl: "https://moneyweek-com.cdn.ampproject.org/c/s/moneyweek.com/investments/605871/ai-investing?amp"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: MoneyWeek
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI robot testing and an equestrian performance: Thursday’s best photos"
+    excerpt: "The Guardian’s picture editors select photo highlights from around the world"
+    publishedDateTime: 2023-05-11T11:47:00Z
+    webUrl: "https://www.theguardian.com/news/gallery/2023/may/11/ai-robot-testing-and-an-equestrian-performance-thursdays-best-photos"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 54
+    images:
+      - url: "https://i.guim.co.uk/img/media/20f570a1e9da3e5f30e74bd897e07b6d0260d26f/289_422_5158_3095/master/5158.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1ef1c612d5e1f6fcccfde801f59e30d5"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Exclusive: NEA and Pear VC just led a $4.5 million seed investment in Orby, the AI that has thoughts about your job performance"
     excerpt: "Stealth AI startup Orby says its AI product will look over your shoulder as your work and find ways to make you better."
     publishedDateTime: 2023-05-10T10:00:00Z

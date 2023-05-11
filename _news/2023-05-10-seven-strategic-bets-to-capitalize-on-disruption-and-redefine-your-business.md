@@ -42,6 +42,20 @@ related:
         width: 630
         height: 330
         isCached: true
+  - title: "IBM IT Automation: Reflections from IBM Think"
+    excerpt: "Recapping a few of the exciting new capabilities we are launching in our IT Automation portfolio.\nThe post IBM IT Automation: Reflections from IBM Think appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-05-11T12:00:00Z
+    webUrl: "https://www.ibm.com/blog/ibm-it-automation-reflections-from-ibm-think/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 102
+    images:
+      - url: "https://www.ibm.com/blog/wp-content/uploads/2023/05/istock_cs1_20210815_144154050.lr_-630x330.jpg"
+        width: 630
+        height: 330
+        isCached: true
   - title: "How IBM is helping organizations accelerate their adoption of intelligent automation solutions"
     excerpt: "IBM is committed to being the catalyst to help organizations accelerate their adoption of intelligent automation solutions.\nThe post How IBM is helping organizations accelerate their adoption of intelligent automation solutions appeared first on IBM Blog.\n"
     publishedDateTime: 2023-05-10T11:00:00Z

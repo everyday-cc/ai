@@ -19,31 +19,134 @@ topics:
   - AI
 
 related:
-  - title: "Google, IBM to Tesla, how these companies are using AI to transform work"
-    excerpt: "Google, IBM to Tesla are some companies that are leading the way in AI and driving transformation and innovation. Artificial Intelligence (AI) is one of the most transformative technologies of the current time."
-    publishedDateTime: 2023-05-08T07:34:00Z
-    webUrl: "https://tech.hindustantimes.com/tech/news/google-ibm-to-tesla-how-these-companies-are-using-ai-to-transform-work-71683530733850.html"
-    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/google-ibm-to-tesla-how-these-companies-are-using-ai-to-transform-work-71683530733850.html"
-    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/google-ibm-to-tesla-how-these-companies-are-using-ai-to-transform-work-71683530733850.html"
+  - title: "MakeMyTrip Adds AI Voice Chat to Lure More India Travelers"
+    excerpt: "India’s largest online travel-booking service is rolling out a voice chat service powered by artificial intelligence, becoming the country’s first major company to harness recent advances in generative AI."
+    publishedDateTime: 2023-05-08T07:50:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-05-08/makemytrip-adds-ai-voice-chat-to-lure-more-india-travelers"
     type: article
     provider:
-      name: Hindustan Times Tech
-      domain: hindustantimes.com
-    quality: 75
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 69
     images:
-      - url: "https://images.hindustantimes.com/tech/img/2023/05/08/1600x900/Digital-Ad-Tax-0_1683531188343_1683531212843.jpg"
-        width: 1600
-        height: 900
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iVQ2b33ZQBzI/v1/1200x800.jpg"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Leading the Way with AI: How Companies are Transforming Industries"
-    excerpt: "Here are some companies that are leading the way in AI and driving transformation and innovation, including EnKash and Addverb., Technology & Science News, Times Now"
-    publishedDateTime: 2023-05-09T13:13:00Z
-    webUrl: "https://www.timesnownews.com/technology-science/leading-the-way-with-ai-how-companies-are-transforming-industries-article-100104420"
+  - title: "MakeMyTrip collaborates with Microsoft, introduces voice assisted travel bookings. Details here"
+    excerpt: "The new platform will help in curating and booking holiday packages based on variable inputs like occasion, budget, activity preferences, time of travel, hotel reviews etc, based on the type of traveller the user is."
+    publishedDateTime: 2023-05-08T09:42:00Z
+    webUrl: "https://www.livemint.com/news/india/makemytrip-collaborates-with-microsoft-introduces-voice-assisted-travel-bookings-details-here-11683533784960.html"
+    ampWebUrl: "https://www.livemint.com/news/india/makemytrip-collaborates-with-microsoft-introduces-voice-assisted-travel-bookings-details-here/amp-11683533784960.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/makemytrip-collaborates-with-microsoft-introduces-voice-assisted-travel-bookings-details-here/amp-11683533784960.html"
     type: article
     provider:
-      name: timesnownews
-      domain: timesnownews.com
-    quality: 19
+      name: Mint
+      domain: livemint.com
+    quality: 62
+    images:
+      - url: "https://www.livemint.com/lm-img/img/2023/05/08/600x338/AI_1683534039523_1683534039751.JPG"
+        width: 600
+        height: 338
+        isCached: true
+  - title: "MakeMyTrip partners with Microsoft for voice-based travel bookings in Indian languages with AI"
+    excerpt: "MakeMyTrip announced a partnership with Microsoft on Monday to bring voice-assisted booking in Indian languages using Generative AI to make travel planning easier. Read on to learn more."
+    publishedDateTime: 2023-05-09T12:43:00Z
+    webUrl: "https://www.gizbot.com/internet/news/makemytrip-partners-with-microsoft-for-voice-based-travel-bookings-in-indian-languages-with-ai-085387.html"
+    ampWebUrl: "https://www.gizbot.com/amphtml/internet/news/makemytrip-partners-with-microsoft-for-voice-based-travel-bookings-in-indian-languages-with-ai-085387.html"
+    cdnAmpWebUrl: "https://www-gizbot-com.cdn.ampproject.org/c/s/www.gizbot.com/amphtml/internet/news/makemytrip-partners-with-microsoft-for-voice-based-travel-bookings-in-indian-languages-with-ai-085387.html"
+    type: article
+    provider:
+      name: GIZBOT
+      domain: gizbot.com
+    quality: 62
+    images:
+      - url: "https://www.gizbot.com/img/1200x60x675/img/2023/05/makemytrip-and-microsoft-1683635443.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "MakeMyTrip adds AI voice chat to lure more travellers"
+    excerpt: "MakeMyTrip Ltd. will use Microsoft Corp.’s Azure Open AI technology for the chat, initially available in English and Hindi, the Indian company said in a statement Monday."
+    publishedDateTime: 2023-05-08T08:32:00Z
+    webUrl: "https://www.moneycontrol.com/news/business/makemytrip-adds-ai-voice-chat-to-lure-more-travellers-10547511.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/business/makemytrip-adds-ai-voice-chat-to-lure-more-travellers-10547511.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/makemytrip-adds-ai-voice-chat-to-lure-more-travellers-10547511.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 59
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2019/08/MakeMyTrip1.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "MakeMyTrip ties up with Microsoft for voice-assisted bookings in Indian languages"
+    excerpt: "Initially, a select group of MakeMyTrip users will have access to the voice-assisted feature in English and Hindi."
+    publishedDateTime: 2023-05-08T09:55:00Z
+    webUrl: "https://www.livemint.com/companies/news/makemytrip-ties-up-with-microsoft-for-voice-assisted-bookings-in-indian-languages-11683538682166.html"
+    ampWebUrl: "https://www.livemint.com/companies/news/makemytrip-ties-up-with-microsoft-for-voice-assisted-bookings-in-indian-languages/amp-11683538682166.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/makemytrip-ties-up-with-microsoft-for-voice-assisted-bookings-in-indian-languages/amp-11683538682166.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 54
+    images:
+      - url: "https://www.livemint.com/lm-img/img/2023/05/08/600x338/2-0-484082893-makemytrip-5-0_1680774306608_1683539479338.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "MakeMyTrip collaborates with Microsoft for voice-assisted booking in Indian languages"
+    excerpt: "Read more about MakeMyTrip collaborates with Microsoft for voice-assisted booking in Indian languages on Devdiscourse"
+    publishedDateTime: 2023-05-08T08:50:00Z
+    webUrl: "https://www.devdiscourse.com/article/technology/2443783-makemytrip-collaborates-with-microsoft-for-voice-assisted-booking-in-indian-languages"
+    ampWebUrl: "https://www.devdiscourse.com/article/technology/2443783-makemytrip-collaborates-with-microsoft-for-voice-assisted-booking-in-indian-languages?amp"
+    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2443783-makemytrip-collaborates-with-microsoft-for-voice-assisted-booking-in-indian-languages?amp"
+    type: article
+    provider:
+      name: devdiscourse
+      domain: devdiscourse.com
+    quality: 52
+    images:
+      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/29_11_2021_13_10_29_7850503.jpg?width=1280"
+        width: 1280
+        height: 960
+        isCached: true
+  - title: "MakeMyTrip Partners with Microsoft to Reshape Travel Booking Landscape"
+    excerpt: "MakeMyTrip has collaborated with Microsoft to make travel planning more inclusive and accessible by introducing voice assisted booking in Indian languages. The new, in-platform tech stack powered by Microsoft Azure OpenAI Service and Azure Cognitive Services,"
+    publishedDateTime: 2023-05-08T07:45:00Z
+    webUrl: "https://www.traveltrendstoday.in/makemytrip-partners-with-microsoft-to-reshape-travel-booking-landscape/"
+    type: article
+    provider:
+      name: T3
+      domain: traveltrendstoday.in
+    quality: 39
+    images:
+      - url: "https://www.traveltrendstoday.in/wp-content/uploads/2023/05/MakeMyTrip-2.jpg"
+        width: 584
+        height: 448
+        isCached: true
+  - title: "MakeMyTrip collaborates with Microsoft to introduce voice assisted booking in Indian languages"
+    excerpt: "The new, in-platform tech stack powered by Microsoft Azure OpenAI Service and Azure Cognitive Services, will converse with the user to offer personalized travel recommendations based on their preferences,"
+    publishedDateTime: 2023-05-08T08:42:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/technology/makemytrip-adds-ai-voice-chat-to-lure-more-india-travelers/articleshow/100069679.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/technology/makemytrip-adds-ai-voice-chat-to-lure-more-india-travelers/amp_articleshow/100069679.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/makemytrip-adds-ai-voice-chat-to-lure-more-india-travelers/amp_articleshow/100069679.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 27
+  - title: "MakeMyTrip teams up with Microsoft for voice-assisted booking in Indian languages"
+    excerpt: "The new, in-platform tech stack powered by Microsoft Azure OpenAI Service and Azure Cognitive Services, will converse with the user to offer personalised travel recommendations based on their preferences,"
+    publishedDateTime: 2023-05-08T11:50:00Z
+    webUrl: "https://www.cnbctv18.com/business/makemytrip-teams-up-with-microsoft-for-voice-assisted-booking-in-indian-languages-16598231.htm"
+    type: article
+    provider:
+      name: cnbctv18
+      domain: cnbctv18.com
+    quality: 14
 
 secured: "3lxBix3FlSy0wMHzgu6ESqOdPIIMYeclfZbhvuzTih2hnzlcdlI+N6CkJ92vDgpduaf7heIo2lqJL8hpqXuou7csUnv3lsLgUBM5wVPgDfJbQc64bOzt34ZGJlFStzCoA8zTQ2jrfRaAnc+FVKjlCztCcZdLUU3r9M2cH9UXeLYVPyrjMz+mWf/qZocBm19T+95VzfuqShOO7XQaDQ4hZzZiG6au9P+KPf4FaTSk+4Q9mAuhrlIRlr/4MJynkS7LIxsfcQM83xq49AgiVFldXXdJz8WMWahaATTKSq7abTaN/LJjS9s8jZUlEyMe+UO/8JLTjw1vNMIrq0q8gXihnzzywtFv1yrqPURpYcLjsS3wLoAnAVbmTn8qFiiQMfdiuKPW+aLsNYh/XPXyiqyvkK8d5M6P9nZuqbx7x3Au/XHcVUVpVi11ouBa4wy0Nm4JkPDpGsijLgyzlrDkon0wxxYXKTWGgLKAfiVdS7OQ46XYkwb6M4IxKkyL5sQEUX5pBvKRdOqUlGqu3EuPUA+iFw==;iDUk/aOvZ3/fHeHJuARSqw=="
 ---

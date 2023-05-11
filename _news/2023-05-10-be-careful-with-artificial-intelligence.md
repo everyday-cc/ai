@@ -7,7 +7,7 @@ originalUrl: "https://www.gazetteseries.co.uk/news/23511487.careful-artificial-i
 webUrl: "https://www.gazetteseries.co.uk/news/23511487.careful-artificial-intelligence/"
 type: article
 quality: 41
-heat: -1
+heat: 41
 published: false
 
 provider:
@@ -26,15 +26,15 @@ images:
     isCached: true
 
 related:
-  - title: "World's fastest shoes let you walk with AI"
-    excerpt: "Moonwalkers are said to be the world's fastest shoe, which increases your walking speed by 250% due to its AI-powered instantaneous response time when walking."
-    publishedDateTime: 2023-05-06T18:41:00Z
-    webUrl: "https://www.foxnews.com/tech/worlds-fastest-shoes-let-you-walk-ai"
+  - title: "Otto partners with AI-startup Covariant"
+    excerpt: "Otto is partnering with Covariant, which offers AI-driven warehouse robots. The German Otto Group aims to automate its fulfilment activities."
+    publishedDateTime: 2023-05-09T12:43:00Z
+    webUrl: "https://ecommercenews.eu/otto-partners-with-ai-startup-covariant/"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 47
+      name: Ecommercenews.eu
+      domain: ecommercenews.eu
+    quality: 19
 
 secured: "RdtoZcTIIRaPP9T4yz20w/1KBiSM0Q1Z7myAuYIa8AYv+8wqmvEa6dq8VI1LiylDdaeXVezYWqZfLX7wGaQ9WllT+01g03XjKoAG1MJySBXYIwMsAggZ+JpqPDUvensbu+v69KEpp8hoQ5O8ChMnTFCEDBBE3vwFty1wQIosyD6oPKEpVIiyy7io+vE9yrhVzZxyo3PM8ij78ahpS18L6P/9FFgXm4jBbpm0Znfjd4+Xu6bSpx7pbvKLZJjm6AQXDx6mfHHHgzZqA66cgb8DauiGk+515ojFbnCEnxDZHEwL2I1uiN0Fut+a1bWdpXmm7Z2BsrUqN907yiLWNZOpUOa2pFhi3yXaimryXR6+jyY=;BvXj9HZlMzQEs7DHxej4Pg=="
 ---

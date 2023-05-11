@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1106215659/Artificial-Intelligence-Can-Be-Trans
 webUrl: "https://menafn.com/1106215659/Artificial-Intelligence-Can-Be-Transformative-Technology-Only-With-Appropriate-Restrictions-And-Safeguards-Against-Malicious-Use"
 type: article
 quality: 25
-heat: 25
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Informatica Unveils Expanded Industry Focus and Zero Cost Data Pipelines and Transformations with AWS"
+    excerpt: "Informatica, an enterprise cloud data management leader, built upon their years-long relationship with Amazon Web Services (AWS)."
+    publishedDateTime: 2023-05-11T10:26:00Z
+    webUrl: "https://enterprisetalk.com/news/informatica-unveils-expanded-industry-focus-and-zero-cost-data-pipelines-and-transformations-with-aws/"
+    ampWebUrl: "https://enterprisetalk.com/news/informatica-unveils-expanded-industry-focus-and-zero-cost-data-pipelines-and-transformations-with-aws/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/informatica-unveils-expanded-industry-focus-and-zero-cost-data-pipelines-and-transformations-with-aws/amp/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 44
+    images:
+      - url: "https://enterprisetalk.com/wp-content/uploads/2023/05/Informatica-Unveils-Expanded-Industry-Focus-and-Zero-Cost-Data-Pipelines-and-Transformations-with-AWS.jpg"
+        width: 1500
+        height: 844
+        isCached: true
   - title: "Informatica Announces Expanded Industry Focus and Zero Cost Data Pipelines and Transformations with AWS"
     excerpt: "Informatica (NYSE: INFA), an enterprise cloud data management leader, built upon their years-long relationship with Amazon Web Services (AWS) with a n"
     publishedDateTime: 2023-05-10T17:00:00Z

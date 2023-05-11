@@ -83,6 +83,20 @@ related:
         width: 768
         height: 512
         isCached: true
+  - title: "Facebook says its evolving to meet the needs of Young adults"
+    excerpt: "Facebook says it is not dead. The social media giant also wants you to know that it is not just for “old people”, as young people have been saying for years. Now, with the biggest thorn in its side – TikTok – facing heightened government scrutiny amid growing tensions between the United States and China,"
+    publishedDateTime: 2023-05-09T12:13:00Z
+    webUrl: "https://www.tvcnews.tv/2023/05/facebook-says-its-evolving-to-meet-the-needs-of-young-adults/"
+    type: article
+    provider:
+      name: tvcnews.tv
+      domain: tvcnews.tv
+    quality: 24
+    images:
+      - url: "https://www.tvcnews.tv/wp-content/uploads/2023/05/download_2_600x400.png"
+        width: 600
+        height: 400
+        isCached: true
   - title: "Facebook Is Not Dead Nor Dying; Meta Says It Has 3 Billion Users"
     excerpt: "Facebook says it is not dead. The social media giant also wants you to know that it is not just for “old people”, as young people have been saying for years."
     publishedDateTime: 2023-05-10T10:10:00Z
@@ -97,15 +111,6 @@ related:
         width: 750
         height: 500
         isCached: true
-  - title: "Facebook says its evolving to meet the needs of Young adults"
-    excerpt: "Facebook says it is not dead. The social media giant also wants you to know that it is not just for “old people”, as young people have been saying for years. Now, with the biggest thorn in its side – TikTok – facing heightened government scrutiny amid growing tensions between the United States and China,"
-    publishedDateTime: 2023-05-09T12:13:00Z
-    webUrl: "https://www.tvcnews.tv/2023/05/facebook-says-its-evolving-to-meet-the-needs-of-young-adults/"
-    type: article
-    provider:
-      name: tvcnews.tv
-      domain: tvcnews.tv
-    quality: 4
 
 secured: "a1OjjV55NIMRkbO8qyf3yprS1NrMKU55o/QDJFRWimj4lwyxylAEMUQJFqmBam2YSdC7SRxHAfMssBVFDOjwoXiFJWqjPIAxxfH2t93A1Ai435lDvI8GPUoSwAmqE72zJu/6sXGX1zCtTsODFoRf8bLuXo8pnlC1EDhswgMX/rtyD3SNE/Z1Yy3Mf9oLwqkLu+vUAqEDjHHXY50puVDNpBjteo6VwDgaY6yfpzTJ8rOx0rYhQ0WTmdSxnjiLq6IaoGIIU2Mw3jFKBFHyIJwsW27mo9LY7NnAFqxT9Qh9Rl3QSvFRI18qIE0SKmX/P431y4s/JWbV+K8D34grWWi+YV5dSVvOq+JNfsKx8e4qnnM=;IUZA2XewZJcawgOMuJCXbw=="
 ---

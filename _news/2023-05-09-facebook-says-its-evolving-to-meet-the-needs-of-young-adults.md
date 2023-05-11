@@ -6,7 +6,7 @@ publishedDateTime: 2023-05-09T12:13:00Z
 originalUrl: "https://www.tvcnews.tv/2023/05/facebook-says-its-evolving-to-meet-the-needs-of-young-adults/"
 webUrl: "https://www.tvcnews.tv/2023/05/facebook-says-its-evolving-to-meet-the-needs-of-young-adults/"
 type: article
-quality: 4
+quality: 24
 heat: -1
 published: false
 
@@ -17,6 +17,12 @@ provider:
 topics:
   - Facebook AI
   - AI
+
+images:
+  - url: "https://www.tvcnews.tv/wp-content/uploads/2023/05/download_2_600x400.png"
+    width: 600
+    height: 400
+    isCached: true
 
 related:
   - title: "Once-cool Facebook may have 3 billion users, but many of them are old"
@@ -106,6 +112,6 @@ related:
         height: 500
         isCached: true
 
-secured: "gpedO8n8JZxtCLTEIOUY/iY2J+vucrpVcGfhs2fJGPwxolL/b6HDnLIiWF7aJ1AqTnLL7uAr+FG+zuiNSYQ9RaxMtqIABPVFP2nMqPNUO5DhjRUWf4u5sqGtPkOUAL+V7d4Ul/bk1CvBWHLifF8GHFiNts4bD6YFwVFtCAF+d6/vy+4DapCepyXQYWrVi/gEW3NS2ex1hpBv2+J76EmeBPyAaIsqddm12bjUGqHh+n8ZIjStcCkSgWRkHKDoNk7D7qqW7gddeR5WVjRMOj/pXiooUOvO8rJ35NNjmWw5eOwplvTjuMAFeUZ/8B52G1r0GbzSPTb3zr46hxEB72WFRTiRpxGyGtZdNmsU1ka67lU=;U7Km3LN0YY006EqyqJvcKQ=="
+secured: "Ikg6nJYHwUd2SEa4HafMG+Vil4NNHZLUTT3cptoRlVi9EkRaAJCZ4rB48RMI0sHF4YAS+yJ0Wqp5tlr1k+qZK9mDL/3deh0kAp7XKLwYqre3WNwOAwvflbo5avxH4MP40DxtHIjJKylYbSRjOkixaTr+UWESPeCnBaE4vqrNh08GaOQG8f6px9lNQ7C4cLsnWAgOWvl7u8l5O+PL5R3warxmFnRcjHUHcOvAXBundeVfTWj5hmlT3jpvXJak90BJeldGRDB2VDlv58m2EidNp5SRNY+L+Yu9oyzmbdbM+MVddZ8GT7MEVJTzj3V1/8GuMiTaH/SprBOgQyewoAp8WKZBth9F6pxvmQWZYGf1k7E=;U3keE+rf3XnyTSkjNLFf8g=="
 ---
 

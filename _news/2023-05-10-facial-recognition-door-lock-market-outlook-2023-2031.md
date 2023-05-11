@@ -85,6 +85,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "2023 To 2030, Data and AI Ethics Market Size With The Rising Need To Broaden Viewpoint"
+    excerpt: "This Data and AI Ethics Market report researches the key producers of Data and AI Ethics, also provides the sales of main regions and countries. Highlights of the upcoming market"
+    publishedDateTime: 2023-05-11T06:59:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-to-2030-data-and-ai-ethics-market-size-with-the-rising-need-to-broaden-viewpoint-2023-05-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 76
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Machine Learning Market Size, Growth, Opportunities, Key Players and Forecast Outlook 2031"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. May 10, 2023 (Alliance News via COMTEX) -- MACHINE LEARNING MARKET SIZE, SHARE & TRENDS ANALYSIS – GLOBAL OPPORTUNITY ANALYSIS AND INDUSTRY FORECAST 2030 The global machine ..."
     publishedDateTime: 2023-05-11T01:23:00Z

@@ -130,6 +130,15 @@ related:
       name: Indiatimes
       domain: indiatimes.com
     quality: 27
+  - title: "MakeMyTrip Teams Up with Microsoft to Transform Travel Booking with Voice-Assisted AI in Indian Languages"
+    excerpt: "Transforming the travel landscape, MakeMyTrip and Microsoft join forces to create an inclusive, accessible, and seamless travel booking experience, Technology & Science News, Times Now"
+    publishedDateTime: 2023-05-08T12:37:00Z
+    webUrl: "https://www.timesnownews.com/technology-science/makemytrip-teams-up-with-microsoft-to-transform-travel-booking-with-voice-assisted-ai-in-indian-languages-article-100077105"
+    type: article
+    provider:
+      name: timesnownews
+      domain: timesnownews.com
+    quality: 17
   - title: "MakeMyTrip teams up with Microsoft for voice-assisted booking in Indian languages"
     excerpt: "The new, in-platform tech stack powered by Microsoft Azure OpenAI Service and Azure Cognitive Services, will converse with the user to offer personalised travel recommendations based on their preferences,"
     publishedDateTime: 2023-05-08T11:50:00Z
@@ -140,6 +149,6 @@ related:
       domain: cnbctv18.com
     quality: 14
 
-secured: "j3UO3Jcn7Ios1HTEBfIHbDAsEas2wUBQmxusxxDLOBIDV2H03hZEtkzV5sA+ugfhQgLScqL8l7jaN+VpelySllSnA9OR/kPZ9i4KdFL12qWfaJnoGei6N//5f6eo8Pr8jPKtE5zzIDoEz34fzRvy12W1OsoCj2W+EC+ULGivkQ9LC4SPAbfA2r1RI09PsPZtLnCPNVisr4nAkJ81FbSFzvt91/do3fZH1L4GSfwqXuS6KNpkyyUjFBkXVHYyafyDX0WQzllUAqcrDd9EI/SH+5TtRmfRELbkNKewrYLLTeji+pMHSvm1RCojdY6NZS/OeXC4UOel0DICIAkF4TBQaVZBbuUZRbssHTif9zvcQVs=;PzWFPVqlF2UnJ1/5WoMn5w=="
+secured: "LMwYiZobcV+Ol3VUS9d+RHXjQ/y1WKxD0VLtxlEcRB5T4XSUTv83sPqOMM/YcSBMRA10FsWQyWfaCYiSD+DfomDCua/82g6cw+hcDi6hIVQcFYkipwBRYzGQMt+is5R5gEg2JTNXLdM3OpPXttofyj2dIfOBXMl9NGril8WFoV2fIlCCck4tuVXadT2yZpoWBrjRbBBRrOJJRdO0mka3qC7JI+DVlKVriN3K+5VxM9meZjZZxcJUkVbGehcPbXTStxjbsNDoQHSl1ODyW12ohtaJbgpZuc7qLZ9MiQP8aY11iMwruzIchP4UfxTs1PDDb87DhsF1s0ghBc/u31NX8dno8ZELns5Ns2nMWOR350RdHSkPlwapEycOQZMDpPDyjUAvJcC2+BWXVbzfljWvZbiYyXmEB5iYl6rM64UV7v6/ORAGwwcNElAuJUof5U7u9dK4ruC/PcyreXbWMkxP2tMSZnFDSJj7ZWW4c05fACD2a7Akvm9Pd8OVde78c5niRg5dAkBeZdYn8eJ2qvC3qQ==;4IrBl0ZCu79Jq2TYa3GlyA=="
 ---
 

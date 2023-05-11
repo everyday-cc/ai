@@ -42,6 +42,20 @@ related:
         width: 630
         height: 330
         isCached: true
+  - title: "IBM IT Automation: Reflections from IBM Think"
+    excerpt: "Recapping a few of the exciting new capabilities we are launching in our IT Automation portfolio.\nThe post IBM IT Automation: Reflections from IBM Think appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-05-11T12:00:00Z
+    webUrl: "https://www.ibm.com/blog/ibm-it-automation-reflections-from-ibm-think/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 102
+    images:
+      - url: "https://www.ibm.com/blog/wp-content/uploads/2023/05/istock_cs1_20210815_144154050.lr_-630x330.jpg"
+        width: 630
+        height: 330
+        isCached: true
   - title: "Seven strategic bets to capitalize on disruption and redefine your business"
     excerpt: "The future belongs to those willing to transform their business with bold, informed bets. Based on today's top trends, here are seven business bets to make.\nThe post Seven strategic bets to capitalize on disruption and redefine your business appeared first on IBM Blog.\n"
     publishedDateTime: 2023-05-10T11:58:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://abcnews.go.com/Technology/bill-gates-future-nuclear-energy
 webUrl: "https://abcnews.go.com/Technology/bill-gates-future-nuclear-energy-ai/story?id=99160110"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,17 +22,6 @@ images:
     width: 992
     height: 558
     isCached: true
-
-related:
-  - title: "EXCLUSIVE: Top 10 Most-Searched Tickers On Benzinga Pro In April, Including Tesla, First Republic Bank And Several AI Stocks"
-    excerpt: "Each trading day features hundreds of headlines and press releases on Benzinga Pro, a source for traders to see the latest news on the overall market and individual tickers."
-    publishedDateTime: 2023-05-06T18:56:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/exclusive-top-10-most-searched-tickers-on-benzinga-pro-in-april-including-tesla-first-republic-bank-and-several-ai-stocks-1032299074"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 54
 
 secured: "IZgVYZ+dzfScN6v2wMmEPFWAsMjiwnwRg2yWcAhntKcCiaaTW5JsdC42gm5V/We6JidvypC0zsLBDN3eIW+hxKdtsg5oWD8Gy+WXNw48bOcrBm6bz0aPTbIT2qG2x0/d8y/klrwip5F34pIag239ZbwjfJNhipcKXXVgAzbj9VvUxd3CCSHCebAODfbro3ZOd/4jqDzWgcIjmaY39I0CHCJKYJ/VlEbNUiJXp12dro1paGG+XlxAIaeLEMfBc3rWBxidjHz3ADsei7QQRYkb0sbg9vAgmRTDIsOtfSasQRd25J0vabczrlJtxPsS4P5T+vTpm6pALcKGUbHWZvfQAGq9EQGLr1WTk5RisYQCQ9wtkdpDZdLpyNrHChXyLQo4vtKqqF7bjPHHMbFfTj9tufxs2IoTCYFnd01VYAJMcg9tUdgXn3Fik5DPb8ddtbNgU8yvj7TWJChJQ83xXfmghCY6kW7TnUY7g7HWmqk+9y3JRQOQTPaUqljDd+pNkgMd0rXojIG89LqBsZjSvzUX5A==;AOnxjQaPx5dxrzwb1rQhDA=="
 ---

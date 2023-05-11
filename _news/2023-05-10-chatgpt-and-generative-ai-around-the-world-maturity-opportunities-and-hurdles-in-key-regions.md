@@ -46,6 +46,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Cybersecurity faces a challenge from artificial intelligence’s rise"
+    excerpt: "Many veteran security professionals deride what they call “security by obscurity,” where targets plan on surviving hacking attempts by hiding what programs they depend on or how those programs work. Such a defense is often arrived at not by design but as a convenient justification for not replacing older, specialized software."
+    publishedDateTime: 2023-05-11T11:00:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2023/05/11/hacking-ai-cybersecurity-future/"
+    type: article
+    provider:
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 37
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/G7R756IPWQ5AV6I2OVSD6FZ65Q.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
 
 secured: "25NqeVTRrajPCc8kHWn7VgO5TFO8EoeVyLB0PSZ9yAzULtOl6+FNRXY8lSmVObKTLrJmDgtUYy6AyIIIEKUJKqT1FR+N2WstQshGXH0qrAcVAWp/U8qHbtnLdXs7pZ2576E+/VCXTJ4pOXbxC03F1Mrp1bZe85w7t8Bh6jX3UWniIO4cXxl0QGWit1OOHmWgdFDn3uUGJ6plPx41tmIcHLPqvu6nsBLVzxofWHQUAzqfXCoYwzPy1DxO9kq2Z74NrehCxtgjPKb/BmzBh8G+Y8ztfxDqnZtkWm+guoItq9OcTXW2xn1ASUGPWA7mWL5Uch5+ku/jys7VAkb8NpJeiIpkTM1BquPhjZGG4VHajCs=;0SzDrpJUXsLx0TH6V/JLwg=="
 ---

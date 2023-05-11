@@ -23,6 +23,15 @@ topics:
   - AI
 
 related:
+  - title: "Finovax Leads the Charge in Fintech Innovation: AI-Powered Solutions Drive Business Growth"
+    excerpt: "New York-Based Fintech Company Embraces Artificial Intelligence to Revolutionize Financial Data Products and Fuel Expansion New York, United"
+    publishedDateTime: 2023-05-08T20:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/finovax-leads-the-charge-in-fintech-innovation-ai-powered-solutions-drive-business-growth-1032302798"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 39
   - title: "How Artificial Intelligence is Revolutionising the Fintech Landscape?"
     excerpt: "According to surveys, 2/3 of FinTech companies currently use AI technology in their activities to a greater or lesser extent. Its influence will increase. Last year, the worldwide market for AI solutions in the FinTech industry was assessed at roughly 9 billion USD;"
     publishedDateTime: 2023-05-08T17:05:00Z
@@ -51,34 +60,29 @@ related:
         width: 1080
         height: 720
         isCached: true
-  - title: "‘As big as the invention of the camera’: How AI will revolutionise cinema"
-    excerpt: "Recent advances in AI create the possibility of removing any, most or even all humans from a film’s creative process: as well as writing scripts, it can airbrush actors’ blemishes, clean up their dialogue,"
-    publishedDateTime: 2023-05-10T14:50:00Z
-    webUrl: "https://inews.co.uk/culture/film/ai-saviour-cinema-biggest-threat-2328231?ico=more_from_Culture"
+  - title: "Fintech Benchmarks 2023 – presentation"
+    excerpt: "This year the tension between new forms of digital money and who has the authority to issue it came to the fore of the Fintech Benchmarks 2023. The majority of central banks – 73% – said keeping up with regulating the use of new fintech products and services is their key challenge."
+    publishedDateTime: 2023-05-11T10:32:00Z
+    webUrl: "https://www.centralbanking.com/benchmarking/fintech/7958702/fintech-benchmarks-2023-presentation"
     type: article
     provider:
-      name: i
-      domain: inews.co.uk
-    quality: 38
+      name: Central Banking
+      domain: centralbanking.com
+    quality: 24
     images:
-      - url: "https://wp.inews.co.uk/wp-content/uploads/2023/05/SEI_155244432.jpg?crop=83px%2C0px%2C2334px%2C1318px&resize=1200%2C675"
+      - url: "https://www.centralbanking.com/sites/default/files/styles/metatag_image_large/public/2023-05/Fintech-Benchmarks-2023-GMP-banner.jpg?h=96b01c87&itok=xTnnpaDF"
         width: 1200
-        height: 675
+        height: 743
         isCached: true
-  - title: "How Embedded Finance Is Revolutionising Financial Services in Southeast Asia"
-    excerpt: "Embedded finance is a thriving trend that is rapidly changing the banking and financial services landscape in Southeast Asia."
-    publishedDateTime: 2023-05-09T09:00:00Z
-    webUrl: "https://fintechnews.sg/72383/financial-inclusion/how-embedded-finance-is-revolutionising-financial-services-in-southeast-asia/"
+  - title: "Finovax Leads the Charge in Fintech Innovation: AI-Powered Solutions Drive Business Growth"
+    excerpt: "Based Fintech Company Embraces Artificial Intelligence to Revolutionize Financial Data Products and Fuel Expansion New York, United States - May 8, 2023 — (NEW YORK CITY, NY) — Finovax, a trailblazing fintech"
+    publishedDateTime: 2023-05-08T14:00:00Z
+    webUrl: "https://www.asiaone.com/business/finovax-leads-charge-fintech-innovation-ai-powered-solutions-drive-business-growth"
     type: article
     provider:
-      name: Fintech Singapore
-      domain: fintechnews.sg
-    quality: 36
-    images:
-      - url: "https://c9k9c9v3.stackpathcdn.com/wp-content/uploads/2023/05/How-Embedded-Finance-Is-Revolutionising-Financial-Services-in-Southeast-Asia.png?x90673"
-        width: 1024
-        height: 567
-        isCached: true
+      name: Asia One
+      domain: asiaone.com
+    quality: 9
 
 secured: "vtg0CcVodvlf8bhDAjTQMe0l01aTY8nNkL3/uX7oLiPLFEIkq2QjzfXSu+wZooVEc3TU9XY+zS2kN8haj39OIj2PKcKMNw0ir6asaJiLoHWw002OZlR8inu/ehcdW44PDVYLnSVs59hKmHGhBddAlHPlomd6xT1XXoo52HHP0Uc8J3TxyroNO+mleGPAxsb0aiukbsvt10ploCkliMeKvkgHCHng9YJWsENlEUl1C8xDjD6TVwWQ2PUEK0lJM5o7lanL4NhnqoL5Qih0vUxxDhIueq7xx4kpxyZJmAZNoItZQ7eR2j6G4N/P7OMo6FlCkxtX8Md18OtoUtJNvPseC+bxsOhq+bGeVmrdXMAAa5o=;8jw9ew33sSJc7odeO8/woQ=="
 ---

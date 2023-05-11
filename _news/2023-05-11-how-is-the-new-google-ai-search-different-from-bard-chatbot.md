@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google Reportedly Upgrading Search With AI Chatbot, TikTok Videos"
-    excerpt: "According to the Wall Street Journal, the search engine is planning to add AI prompts that will pop up in response to queries that can’t be easily answered by traditional web results, as well as swipe-through video clips."
-    publishedDateTime: 2023-05-06T17:17:00Z
-    webUrl: "https://www.pcmag.com/news/google-reportedly-upgrading-search-with-ai-chatbot-tiktok-videos"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 67
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/01rDZGzDgqaHe7cTh5kJj9Z-1.fit_lim.size_1200x630.v1683393323.jpg"
-        width: 945
-        height: 630
-        isCached: true
   - title: "Wendy’s, Google Train Next-Generation Order Taker: an AI Chatbot"
     excerpt: "The fast-food chain has customized a language model with terms like “JBC” for junior bacon cheeseburger and “biggie bags” for meal combos."
     publishedDateTime: 2023-05-09T10:45:00Z
@@ -72,6 +58,31 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Google is helping Wendy’s build an AI drive-thru"
+    excerpt: "It has also been trained on the company’s established business practices and was given logical and conversational guardrails."
+    publishedDateTime: 2023-05-10T22:00:00Z
+    webUrl: "https://www.popsci.com/technology/wendys-google-drive-thru-ai/"
+    ampWebUrl: "https://www.popsci.com/technology/wendys-google-drive-thru-ai/?amp"
+    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/wendys-google-drive-thru-ai/?amp"
+    type: article
+    provider:
+      name: Popular Science
+      domain: popsci.com
+    quality: 57
+    images:
+      - url: "https://www.popsci.com/uploads/2023/05/10/batu-gezer-AGGhkGuVs2w-unsplash.jpg?auto=webp"
+        width: 2000
+        height: 1125
+        isCached: true
+  - title: "Wendy’s hired Google AI to take your drive-through order"
+    excerpt: "The next time you get a craving for a spicy chicken sandwich, you might have to ask an AI to ring it up for you. American fast food burger chain Wendy’s is teaming up with Google to make an AI-powered chatbot for taking drive-through food orders,"
+    publishedDateTime: 2023-05-09T13:53:00Z
+    webUrl: "https://www.pcworld.com/article/1814175/wendys-hired-google-ai-to-take-your-drive-through-order.html"
+    type: article
+    provider:
+      name: PC World
+      domain: pcworld.com
+    quality: 47
   - title: "Wendy's testing AI chatbot that takes drive-thru orders"
     excerpt: "Fast food chain Wendy's is partnering with Google Cloud on an AI chatbot to take orders at a drive-thru, the company announced. Wendy's FreshAI will be launched in June as a pilot in a Columbus, Ohio area restaurant."
     publishedDateTime: 2023-05-10T19:43:00Z
@@ -82,6 +93,6 @@ related:
       domain: cbsnews.com
     quality: 17
 
-secured: "yMbHC/uvOWkIZkhNeod1rALybOfpN4jSZVdJAV/+TPuoc8zFgcr3qYiCUBj3lmv/i1n6SiUrcd7sxLwZ20EXHI0FF/D25fHqGmBI2UopCgzms0x0ZFvLxbRWIRC8+ziiIfZ3h/r701ivtMKeCJwGH5k8rCmMOdxQbJCo6U1kOOaTmrdDU+dW0/HI0qshCY1OS49KT7LCmPX+366411/xavpXTL8NQpFgmC1MyFc8E8tPvXvMQOk4toTt+DX91qzeVs/h+nreAx0PkwQeZe7EGZfKC4b+pUq/NACHEbHuXbDbKj1UoU19sqrMEM87sirpMZwL5NsY/YAxuOMcV/aH7+cFceuKkgKZWm7VQH8w0Jk=;8TX2iB4QBKjTyDb9cg0OAA=="
+secured: "t0Iq0aeQ80ziw0JcS0zlUJXLs+zxz/+ob9DtDJJ6r1vbsvxvbnMevKpWjOUk5xObbj+uQlmrWs63CbZVyocPgxsUmnYvduotr9L54CZGA5zryCf47B+e3u/GtXOVzeFxdQfmAqNBdez9HG9dZLevCtKm6G2U+KsJz7gW/lU1SPPr0fiIGw6+f+yvX6L3gtoK9zzodt+yPTPDSV5HmKJ5EdbRWU+Gh8NuzB/hzwCI4/FN6kyJR3FoglHvDSU+OqpVORJi82mAYYaiqxV4pqGx4EmkMpa0bVtmx7dpDLhJRSPkWycXHhPgotBk04vhNck7Kg04z0nXPY8pKpiL3WfrRyeL29/bKe7NLOgMabAJarhNkplPjRRzAK5AjnuuiYXBezRGxhGIqi7yl95eb1LNCu7xLi1WqYa6WlFN7M4B2BHDPRf5Ntqi4zqHxMpYnrd9OVs3H/Ud8tgV2eDf2I8jOuEzYyLzSQy5IqnqabkpsgbaD+3IslaefBwgSDxjULgRev4KCRNgsT/zN2L841QnEA==;iV/TifusJnGre6NyKbI2Xg=="
 ---
 

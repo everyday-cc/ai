@@ -9,8 +9,8 @@ ampWebUrl: "https://www.popsci.com/technology/wendys-google-drive-thru-ai/?amp"
 cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/wendys-google-drive-thru-ai/?amp"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: -1
+published: false
 
 provider:
   name: Popular Science
@@ -26,6 +26,50 @@ images:
     isCached: true
 
 related:
+  - title: "Wendy’s, Google Train Next-Generation Order Taker: an AI Chatbot"
+    excerpt: "The fast-food chain has customized a language model with terms like “JBC” for junior bacon cheeseburger and “biggie bags” for meal combos."
+    publishedDateTime: 2023-05-09T10:45:00Z
+    webUrl: "https://www.wsj.com/articles/wendys-google-train-next-generation-order-taker-an-ai-chatbot-968ff865"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
+    images:
+      - url: "https://images.wsj.net/im-777889/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "How is the new Google AI search different from Bard chatbot?"
+    excerpt: "Google demonstrated an updated core search product that embeds more AI in its answers as the company looks to banish doubts that it is losing ground to Microsoft's OpenAI-powered Bing search."
+    publishedDateTime: 2023-05-11T04:49:00Z
+    webUrl: "https://www.reuters.com/technology/how-is-new-google-ai-search-different-bard-chatbot-2023-05-10/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 67
+    images:
+      - url: "https://www.reuters.com/resizer/KGaBkrQHj3qhm6l3Wtyw8nqhjss=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/5UQGXXHAMNPZHPVIMFFH3XDVPM.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Wendy’s to test AI chatbot that takes your drive-thru order"
+    excerpt: "US fast-food chain says pilot program ‘seeks to take the complexity out of the ordering process’"
+    publishedDateTime: 2023-05-10T14:59:00Z
+    webUrl: "https://www.theguardian.com/us-news/2023/may/10/wendys-ai-chatbot-drive-thru"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2023/may/10/wendys-ai-chatbot-drive-thru"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2023/may/10/wendys-ai-chatbot-drive-thru"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 57
+    images:
+      - url: "https://i.guim.co.uk/img/media/28569c93918527a910695ba29c5afd9ee54972a9/0_193_4744_2847/master/4744.jpg?width=620&quality=85&auto=format&fit=max&s=c7b2467c0c605f2c61cd36601b08e053"
+        width: 620
+        height: 372
+        isCached: true
   - title: "Wendy’s hired Google AI to take your drive-through order"
     excerpt: "The next time you get a craving for a spicy chicken sandwich, you might have to ask an AI to ring it up for you. American fast food burger chain Wendy’s is teaming up with Google to make an AI-powered chatbot for taking drive-through food orders,"
     publishedDateTime: 2023-05-09T13:53:00Z
@@ -35,14 +79,14 @@ related:
       name: PC World
       domain: pcworld.com
     quality: 47
-  - title: "Wendy's to test new artificial intelligence drive-thru tech"
-    excerpt: "\"Google Cloud's generative AI technology creates a huge opportunity for us to deliver a truly differentiated, faster and frictionless experience for our customers,” CEO Todd Penegor said in a release."
-    publishedDateTime: 2023-05-10T13:17:00Z
-    webUrl: "https://www.bizjournals.com/bizwomen/news/latest-news/2023/05/wendys-to-test-ai-in-one-of-columbus-drive-thrus.html"
+  - title: "Wendy's testing AI chatbot that takes drive-thru orders"
+    excerpt: "Fast food chain Wendy's is partnering with Google Cloud on an AI chatbot to take orders at a drive-thru, the company announced. Wendy's FreshAI will be launched in June as a pilot in a Columbus, Ohio area restaurant."
+    publishedDateTime: 2023-05-10T19:43:00Z
+    webUrl: "https://www.cbsnews.com/news/wendys-testing-ai-chatbot-drive-thru-orders/"
     type: article
     provider:
-      name: The Business Journals
-      domain: bizjournals.com
+      name: CBS News
+      domain: cbsnews.com
     quality: 17
 
 secured: "6AxylJfDdXkmD4NFKYLOF65Hf/R9bLQzNpY8y5ewAIcIvEsxvCW/CbH9CIkCoQ1lDtpbWGzLZnI5TaSqWDkrRse3V/tFj0HU/g8C4XuMsB5W+JPLYPTp0vMOqB2KV/XZpOKXLU0kRHeTPg2DSmA9R/k4nprLPOdGni94AAQvBb3nYtETcJfeub8l5d8AsjoHxb3X2/J4DlT315i3sFRHkeSaro3YzMVFtoExBgr+2HTT/8ZxnUn+rcO16n2XGu2edxs0NUdSQG+SRAStsEkqLSEPS1YJPU4x8G4T301don64Pue0Sgy6+I4P915mELkuKDSePXqaGgoX8TrokWa67I+m/9ZhVtRca4VtmzkfSxKGs4il5Ca/H52Ah0RHEy6hymXOJMpxRkL/h+ygYFZ6G+bMxgdfu4dKbzOfCV/my7T4Sb/giZ2voKzTt3KAVaDHi5a/T7wxV3RJbyl5FfizwbzF9zoj4juvuvPwmgJzSuSqBLu0vRZMxyfqPb7XtWwNRvepSlNjFPtmxfAV35UddA==;Hw58eEM8mZU1w6KtaMEptw=="

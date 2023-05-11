@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newindianexpress.com/states/karnataka/2023/may/09/karnat
 cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/states/karnataka/2023/may/09/karnataka-assembly-election-facial-recognition-tech-could-ease-voting-process-2573345.amp"
 type: article
 quality: 55
-heat: 65
+heat: 55
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 600
     height: 390
     isCached: true
-
-related:
-  - title: "Marriage is entitled to constitutional protection, not just legal recognition: SC"
-    excerpt: "The Supreme Court said on Tuesday it has to be alive to the fact that the concept of marriage has evolved and must accept the basic proposition that marriage itself is entitled to constitutional protection as it is not just a matter of statutory recognition."
-    publishedDateTime: 2023-05-09T15:04:00Z
-    webUrl: "https://www.rediff.com/news/report/marriage-is-entitled-to-constitutional-protection-not-just-legal-recognition-sc/20230509.htm"
-    ampWebUrl: "https://m.rediff.com/amp/news/report/marriage-is-entitled-to-constitutional-protection-not-just-legal-recognition-sc/20230509.htm"
-    cdnAmpWebUrl: "https://m-rediff-com.cdn.ampproject.org/c/s/m.rediff.com/amp/news/report/marriage-is-entitled-to-constitutional-protection-not-just-legal-recognition-sc/20230509.htm"
-    type: article
-    provider:
-      name: rediff.com
-      domain: rediff.com
-    quality: 39
-    images:
-      - url: "https://im.rediff.com/345-230/news/2020/dec/27supreme-court.jpg"
-        width: 345
-        height: 230
-        isCached: true
 
 secured: "7D7FRw17JG5F+QZTna/17JU2WlJMdm70HEojgBckgXIbHRm26WqXWsNkg+fSO5oGJIlC6ViKwvK8YxzPO15hyV+S/PyG+EpkTBJgr09YePvIY6oCihc2huDpZXkcPXZKCHciguv95M+mNjo5hN3bpmHa3pYEfdkE03yU7e++nxj59+dzXZV09L6xzwCSRYMEN+gnd5YQcNzrl4eNQmEy4wsLvqhcZBTQoBcNpw6KDUnfMcsyOZbeeqku+eajYivECsPxAzgfHeznRlYmmWgU2RfOB7Nul1e1FKZDNo35U8g3OsAQPepBKmMTcyDF3qJIu8F16GjEYTH/LFuJjlaCUXkqprU9pWOF1i9lCI3PeTGXmuOZb6rEflH7LwEJxS/bv17nZHoF8cP4+/ZjsfTkuhb6f6Cog37+IXjZ8bJdDtt6HZphvCSZqRUKCacgGhdo0QZkUfwpgswPS354a4MUNGnWzjdwbPOhwZGBjQ9ymXqZ+9xh2QFlnwXw2SnSejPVzRVaVuNmisrxsuow/VRC1A==;wHuHTKUTIn4JvgVDj/y7og=="
 ---

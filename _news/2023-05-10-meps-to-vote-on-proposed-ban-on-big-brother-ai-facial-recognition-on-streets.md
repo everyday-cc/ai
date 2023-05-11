@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/technology/2023/may/10/meps-to-vote-on-p
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/may/10/meps-to-vote-on-proposed-ban-on-big-brother-ai-facial-recognition-on-streets"
 type: article
 quality: 70
-heat: 70
+heat: 80
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 620
     height: 372
     isCached: true
+
+related:
+  - title: "Facial-recognition ban gets lawmakers’ backing in AI Act vote"
+    excerpt: "MEPs agreed on a blanket ban on remote biometric identification — AI-aided techniques, such as facial recognition, to recognize individuals from pictures or footage — in public venues, both in real-time and after the fact,"
+    publishedDateTime: 2023-05-11T11:16:00Z
+    webUrl: "https://www.politico.eu/article/meps-adopt-ai-act-text-in-committees/"
+    ampWebUrl: "https://www.politico.eu/article/meps-adopt-ai-act-text-in-committees/amp/"
+    cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/meps-adopt-ai-act-text-in-committees/amp/"
+    type: article
+    provider:
+      name: Politico Europe
+      domain: politico.eu
+    quality: 59
+    images:
+      - url: "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2023/05/11/GettyImages-531573862-scaled.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "K4Tr8hMQ2vJLAb1N6K2HP9A2YATlyFWOPZrAkQqjUu4jFaoucrmEm8LkGXcF/WZoGe4NXtz3yJIWRWXYI/zjM6GsBIRICwC8DGneDj8Wtsv3cec5i9dI80VQTMBTT63YN0bh0piGEqgEoFhF3vJ0voQ/xyr8Gd+snQfj+WE/PuYUWSN8YGjaYX7wQHZuzqf4bpGg/qTDgwUk3GB2mdJGF8xBfwFoT6HMOdCCH3nImFmYw+fuGs2nXZ5NIYaLQRHk072Tm4+rXe2k68KUcDQSzrkT9FQbRm54TPqtoOllppVtEGYrRoyQiE3INkWASt5jgZ3pGUBGiz8w+dRjLgJQ+lmuPVusUeOnTfWKegLCyBhAa0mQahyizUEyl+AZZ17yC4Prl1T+0MvoJq+YoFG07Mtv/6xV4NsbLqaaFp1bABpFyp32UkWXh9ktFrYUej8WdFxVBokQKbhq54eF+PedwH4vZbTX0BDp+HNyWL4aI0sHbjV+tmiQne7V6T6P9xTQT6NOG4AO4A5FHTGddbONDA==;8nGXq9IX6I7NqaIytAmH6w=="
 ---
