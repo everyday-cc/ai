@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/articles/worlds-top-ai-researchers-debate-the-
 webUrl: "https://www.wsj.com/articles/worlds-top-ai-researchers-debate-the-technologys-next-steps-55be2849"
 type: article
 quality: 67
-heat: 137
+heat: 147
 published: true
 
 provider:
@@ -82,6 +82,15 @@ related:
     provider:
       name: The Michigan Daily
       domain: michigandaily.com
+    quality: 19
+  - title: "The Race to Write the World’s First AI Rule Book"
+    excerpt: "The proposed Artificial Intelligence Act is a far-reaching legal framework. But rival nations are watching, hoping to take advantage of delays."
+    publishedDateTime: 2023-05-09T13:11:00Z
+    webUrl: "https://www.thecipherbrief.com/the-race-to-write-the-worlds-first-ai-rule-book"
+    type: article
+    provider:
+      name: The Cipher Brief
+      domain: thecipherbrief.com
     quality: 19
   - title: "Artificial intelligence can be found in many places. How safe is the technology?"
     excerpt: "NPR's A Martinez speaks with Jack Clark, co-founder of artificial intelligence company Anthropic, about AI safety concerns."

@@ -28,19 +28,19 @@ related:
       name: Google
       domain: blog.google
     quality: 69
-  - title: "The AI boom is reshaping the cloud business"
-    excerpt: "To support generative AI models, AWS, Microsoft and Google Cloud are investing in infrastructure and maneuvering to manage cost."
-    publishedDateTime: 2023-05-08T21:01:00Z
-    webUrl: "https://www.ciodive.com/news/AWS-Microsoft-Google-cloud-infrastructure-AI-ML-compute/649712/"
+  - title: "Google Tries To Straddle Being 'Bold' And 'Responsible' In AI Product Blitz"
+    excerpt: "The company seemed to learn from a debacle five years ago, when an AI demo for a technology called Duplex drew immediate backlash."
+    publishedDateTime: 2023-05-10T23:38:00Z
+    webUrl: "https://www.forbes.com/sites/richardnieva/2023/05/10/google-io-2023-ai/"
     type: article
     provider:
-      name: CIO Dive
-      domain: ciodive.com
-    quality: 41
+      name: Forbes
+      domain: forbes.com
+    quality: 65
     images:
-      - url: "https://www.ciodive.com/imgproxy/ArdjKqH_M6Qda4q_61cVhQAyFro4BqPoZNqLfAFdujU/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTgwMjMyMDgzNl9yV0VrMjI5LmpwZw.jpg"
-        width: 770
-        height: 435
+      - url: "https://imageio.forbes.com/specials-images/imageserve/645c20bcd16e96bd249c026a/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 797
         isCached: true
   - title: "New Arlington startup emerges with a goal of helping organizations adopt AI responsibly"
     excerpt: "Properties and written by ARLnow, Startup Monday is a weekly column that highlights Arlington-based startups, founders, and local tech news. Monday Properties is proudly featuring 1515 Wilson Blvd in Rosslyn."

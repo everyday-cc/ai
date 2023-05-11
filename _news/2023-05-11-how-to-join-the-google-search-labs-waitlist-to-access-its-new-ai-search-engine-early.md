@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/how-to-join-the-google-sear
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-to-join-the-google-search-labs-waitlist-to-access-its-new-ai-search-engine-early/"
 type: article
 quality: 80
-heat: 120
+heat: 100
 published: true
 
 provider:
@@ -57,29 +57,6 @@ related:
       - url: "https://i.pcmag.com/imagery/articles/02wpEEUQXRc8sreSn73b1Q1-1.fit_lim.size_1200x630.v1683749201.jpg"
         width: 1120
         height: 630
-        isCached: true
-  - title: "Google Expected To Shake Up Search With New AI Products"
-    excerpt: "Google is expected to announce a more conversational version of its flagship search engine, fueled by artificial intelligence. The efforts to overhaul its search business with AI, set to be unveiled Wednesday at the company’s I/O conference in Mountain View,"
-    publishedDateTime: 2023-05-10T12:00:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-05-10/google-expected-to-shake-up-search-with-new-ai-products"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 47
-  - title: "How AI is about to change your Google search results"
-    excerpt: "A guided tour of the new Google Search Generative Experience, or SGE, coming first to people who sign up — and eventually to everyone."
-    publishedDateTime: 2023-05-10T16:52:00Z
-    webUrl: "https://www.washingtonpost.com/technology/2023/05/10/google-search-ai-io-2023/"
-    type: article
-    provider:
-      name: The Washington Post
-      domain: washingtonpost.com
-    quality: 39
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3I52HAZKDVH2LO55VF2X6FBCNY.jpg&w=1440"
-        width: 1440
-        height: 960
         isCached: true
 
 secured: "73tyzXaLqn6avqQxOTxBA16XCCHe9vJHOKlWlU2SA/QemoMQHFAEGJbdzFzax8vp+Gf5pKvRmQaOsx9FKOApdEZR/A7L394QX+EuRGvAZfzdmWMd4n1sA3xBAgNj+TImbeSqBtIGXyfIbcIKyPbuFWAM+pEepKhlNsNvPmWbWXbU8JV06qdZe9AebI8Ysee1SZJ1cxqtyq0XeVqo17iJf6iqIzvmYHsVEb+nFebHHQVGG6U7i1gsXiW1F54BkxAD2U6VkscPyFlCS5UOC+2R+u8MFbe80gSou8YE3C1UbrM+9wq+QPO5Y/MdZTjJlmuKq8KGvQOojQ9HY1kKgHqPklAwELBJ2lnkYsPDkASIUfU=;2m2QM6TNN09AbZTIKYrcBg=="

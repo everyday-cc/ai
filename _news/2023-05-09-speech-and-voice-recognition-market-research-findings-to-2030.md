@@ -319,6 +319,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Speech Recognition Software Market is Booming Worldwide Throughout 2023 to 2030 | Share, Size, Growth"
+    excerpt: "Global “ Speech Recognition Software Market ” (2023-2030) research report gives an outline of the business with orders, applications and industry chain structure. Speech Recognition Software Market report additionally gives information to the global markets including advancement patterns,"
+    publishedDateTime: 2023-05-10T03:35:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-recognition-software-market-is-booming-worldwide-throughout-2023-to-2030-share-size-growth-2023-05-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Deep Learning Camera Market Research | 2023-2030"
     excerpt: "The Global Deep Learning Camera market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players,"
     publishedDateTime: 2023-05-08T07:33:00Z

@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "TouchByte bought by Salto for face biometrics integration with Cognitec"
+    excerpt: "TouchByte has applied its facial recognition algorithm to age verification and customer analytics, as well as to touchless access controls."
+    publishedDateTime: 2023-05-10T23:02:00Z
+    webUrl: "https://www.biometricupdate.com/202305/touchbyte-bought-by-salto-for-face-biometrics-integration-with-cognitec"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 24
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/12/17104116/acquisitions-scaled.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
   - title: "SALTO introduces face recognition access control with the acquisition of TouchByte"
     excerpt: "SALTO Systems, a provider of innovative smart access control solutions, is committed to the use of biometric technology as the future of access control. In the past two years, it has aimed"
     publishedDateTime: 2023-05-09T12:25:00Z

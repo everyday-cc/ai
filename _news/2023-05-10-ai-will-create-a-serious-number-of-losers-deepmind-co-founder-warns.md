@@ -19,19 +19,21 @@ topics:
   - AI
 
 related:
-  - title: "DeepMind pioneer issues warning on dangers of AI autonomy"
-    excerpt: "AI programs should not be taught how to improve themselves, according to a co-founder of the artificial intelligence research lab DeepMind. Mustafa Suleyman sa"
-    publishedDateTime: 2023-05-08T23:01:00Z
-    webUrl: "https://www.thetimes.co.uk/article/deepmind-pioneer-issues-warning-on-dangers-of-ai-autonomy-rklxhnc76"
+  - title: "DeepMind cofounder warns governments seriously need to find solutions for people who lose their jobs to A.I."
+    excerpt: "Mustafa Suleyman, who cofounded the London-based lab DeepMind, later sold to Google in 2014, told the GIC Bridge Forum event in San Francisco on Tuesday that policymakers needed to step up and provide some form of aid such as universal basic income (UBI)."
+    publishedDateTime: 2023-05-10T20:09:00Z
+    webUrl: "https://fortune.com/2023/05/10/artificial-intelligence-deepmind-co-founder-mustafa-suleyman-ubi-governments-seriously-need-to-find-solution-for-people-that-lose-their-jobs/"
+    ampWebUrl: "https://fortune.com/2023/05/10/artificial-intelligence-deepmind-co-founder-mustafa-suleyman-ubi-governments-seriously-need-to-find-solution-for-people-that-lose-their-jobs/amp/"
+    cdnAmpWebUrl: "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/2023/05/10/artificial-intelligence-deepmind-co-founder-mustafa-suleyman-ubi-governments-seriously-need-to-find-solution-for-people-that-lose-their-jobs/amp/"
     type: article
     provider:
-      name: The Times
-      domain: thetimes.co.uk
-    quality: 54
+      name: Fortune
+      domain: fortune.com
+    quality: 70
     images:
-      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F1535ef20-edd7-11ed-87b0-716b9284a2b0.jpg?crop=5496%2C3091%2C0%2C286&resize=1200"
-        width: 1200
-        height: 674
+      - url: "https://content.fortune.com/wp-content/uploads/2023/05/GettyImages-961707246-e1683733321936.jpg?w=840"
+        width: 840
+        height: 604
         isCached: true
   - title: "AI to create ‘a serious number of losers’, DeepMind co-founder warns"
     excerpt: "Mustafa Suleyman said governments should think about how to support workers who lose their jobs to technology."
@@ -46,6 +48,20 @@ related:
       - url: "https://static.ffx.io/images/$zoom_0.4089%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_129%2C$y_35/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/ceb2fe3e55af0b58698f81ab445d7badef475736"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Startup from Reid Hoffman and DeepMind co-founder debuts chatbot"
+    excerpt: "Pi was built to be a supportive 'neutral listener' that asks follow-up questions to keep a conversation flowing."
+    publishedDateTime: 2023-05-06T22:00:00Z
+    webUrl: "https://www.moneyweb.co.za/news/ai/startup-from-reid-hoffman-and-deepmind-co-founder-debuts-chatbot/"
+    type: article
+    provider:
+      name: Moneyweb
+      domain: moneyweb.co.za
+    quality: 39
+    images:
+      - url: "https://www.moneyweb.co.za/wp-content/uploads/2023/05/397933961-1024x682.jpg"
+        width: 1024
+        height: 682
         isCached: true
   - title: "AI will create ‘a serious number of losers’, warns DeepMind co-founder"
     excerpt: "Advances in artificial intelligence will threaten white-collar workers and create “a serious number of losers” over the next decade, according to one of the co-founders of AI lab DeepMind who has pioneered the technology."

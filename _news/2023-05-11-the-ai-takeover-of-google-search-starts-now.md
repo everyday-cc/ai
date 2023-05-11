@@ -59,29 +59,6 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "Google Expected To Shake Up Search With New AI Products"
-    excerpt: "Google is expected to announce a more conversational version of its flagship search engine, fueled by artificial intelligence. The efforts to overhaul its search business with AI, set to be unveiled Wednesday at the company’s I/O conference in Mountain View,"
-    publishedDateTime: 2023-05-10T12:00:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-05-10/google-expected-to-shake-up-search-with-new-ai-products"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 47
-  - title: "How AI is about to change your Google search results"
-    excerpt: "A guided tour of the new Google Search Generative Experience, or SGE, coming first to people who sign up — and eventually to everyone."
-    publishedDateTime: 2023-05-10T16:52:00Z
-    webUrl: "https://www.washingtonpost.com/technology/2023/05/10/google-search-ai-io-2023/"
-    type: article
-    provider:
-      name: The Washington Post
-      domain: washingtonpost.com
-    quality: 39
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3I52HAZKDVH2LO55VF2X6FBCNY.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
 
 secured: "Mw00w6nxIMW4KNdv8nyDnjA2Ujc4/7TFDsXtySkE+mjUmxLtHgOOljtekX47ZcFt00WzMFfjRm+jI6IAGG0xPZHktTD8N88RcS+pqlXBKQ4m+qmrYZPY9wCFejKkdCThwq+aEpNYV/zyt6u7S5E2jaz1JNMo8TTAqqbmyiGF5nf9lTMFyeBPDMrr6jDzC50vxfwZReh+VcIuzYqD7oHaHcrMlFTq+22pGFT7daH8Llx7bM6OjC2n5LuDfs4EnoTu4ydX0KW5uwYJP715ZAfVZQGQEAD+yy43dBPECO3mK526Q/r7GbupqpzZ398CLIMb0m4Y+aANPwRRbsWydSFkPiTl1tah6spcPvBiHZw8/dr7srFsOUaQg9G0OQiFS+c47/Z2KJfanDRQxERibwOlATICayjEOJKaCYCd5k0CfixZjJ//RK5G9xOdnbSMOjMVmH8VQ0RPgK9E4VGoFBCF8wIW0Yius5f/ZRQYXyRdzLfjGKI+2nenQfNe5cdVGTLh5JI6VtBHd3mJZJkOuV81GQ==;qSSixOP7k7dRuVFzCDWL/g=="
 ---

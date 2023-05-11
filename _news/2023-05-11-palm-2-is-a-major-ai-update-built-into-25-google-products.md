@@ -55,6 +55,47 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Google launches new AI tools"
+    excerpt: "As the race to dominate artificial intelligence escalates between tech giants, Google unveiled new AI software to build presentations, analyze and enter data, and write content. NBC News’ Jacob Ward has more details on growing concerns over the future of AI."
+    publishedDateTime: 2023-05-10T23:23:00Z
+    webUrl: "https://www.nbcnews.com/nightly-news/video/google-launches-new-ai-tools-173891653794"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo173891653794"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo173891653794"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 87
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_05/1683761014453_nn_jwa_googles_ai_launch_230510_1920x1080-r8qeop.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Google’s Vertex AI machine learning platform gets generative AI tools"
+    excerpt: "The new updates to Google Cloud’s machine learning service will help the company square up against rivals such as Microsoft, AWS and IBM."
+    publishedDateTime: 2023-05-10T18:15:00Z
+    webUrl: "https://www.infoworld.com/article/3696208/google-s-vertex-ai-machine-learning-platform-gets-generative-ai-tools.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 66
+  - title: "Google launches new AI PaLM 2 in attempt to regain leadership of the pack"
+    excerpt: "Company says ‘next generation language model’ will outperform other artificial intelligence systems on some tasks"
+    publishedDateTime: 2023-05-10T17:01:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/may/10/google-launches-new-ai-palm-2-in-attempt-to-regain-leadership-of-the-pack"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/may/10/google-launches-new-ai-palm-2-in-attempt-to-regain-leadership-of-the-pack"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/may/10/google-launches-new-ai-palm-2-in-attempt-to-regain-leadership-of-the-pack"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 56
+    images:
+      - url: "https://i.guim.co.uk/img/media/43a90d3f78ebe07deb3a86eb6bec4075fea8a237/0_502_8310_4986/master/8310.jpg?width=620&quality=85&auto=format&fit=max&s=daf5b0a5963f3a1c4ecaf2d4d3d383be"
+        width: 620
+        height: 372
+        isCached: true
   - title: "IBM's generative AI strike force"
     excerpt: "O.G. tech giant IBM is launching a counterstrike in the industry's suddenly-hot AI fight with today's announcement of Watsonx. The big picture: Business-focused IBM claims its latest AI offering, set to launch in July, provides more accurate answers and takes a more responsible approach than rivals."
     publishedDateTime: 2023-05-09T10:00:00Z
@@ -69,6 +110,15 @@ related:
         width: 1366
         height: 768
         isCached: true
+  - title: "Google is throwing generative AI at everything"
+    excerpt: "But experts say that releasing these models into the wild before fixing their flaws could prove extremely risky for the company."
+    publishedDateTime: 2023-05-10T19:00:00Z
+    webUrl: "https://www.technologyreview.com/2023/05/10/1072880/google-is-throwing-generative-ai-at-everything/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 19
   - title: "Scale AI unveils its full-stack generative AI platform"
     excerpt: "Scale's Enterprise AI Platform will allow customers to get the benefits of large language models without having to send data out to a third-party AI company."
     publishedDateTime: 2023-05-10T15:01:00Z
@@ -78,15 +128,6 @@ related:
       name: Fast Company
       domain: fastcompany.com
     quality: 17
-  - title: "Google unveils PaLM 2, its most powerful general-purpose AI yet, to power Bard chatbot"
-    excerpt: "Artificial intelligence took the center stage today at Google LLC’s annual developer conference Google I/O with the unveiling of PaLM 2, the second iteration of the Pathways Language Model. It’s a transformer-based large language model artificial intelligence developed by Google Research that powers the company’s Bard AI chatbot and other products."
-    publishedDateTime: 2023-05-10T18:32:00Z
-    webUrl: "https://siliconangle.com/2023/05/10/google-unveils-palm-2-powerful-general-purpose-ai-yet-power-bard-chatbot/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 11
 
 secured: "w7h7vBxzZHvZvd1r4Jao6AbD4ys7BdZmX+kiIOGJD3GuUsFOFuTOD79rorGrBXlh5oYAz1rGUtSOXZZU5SROKh6qEsMqCYPRlAtm8UyDnIZHuYnoECbIiAZlDfhaJgPIil0AB+JC/kpt+I4hCgmltX0guYrnCAR4SHjii5TM2tRLXpvea5Pyym2gbIQDdA2AJh7mz0xwn4JVSbYS6BDjBQg6868fv3k0mruPlYKSTkeNzpjTXe0y99h2uoDSBMWQa8T0sClobXpFW53E3BGguxzYFc/QL1rZ4xjNS8zRB0au/F2baDZ5hNemggNu85qbb4Re/R6ctesaHq2wwhsUlRGuR/SvPp2dgdrKkB+s3CWcGZLvFC71QtsqSBiX+hrDceYJ5VwsBPjVoIF9j+qYTnmVuTIvkkslzOX2tfwhqnYln769LJFOqxGRaWJZE+cDFb0eduhukexcmBKJo3FTJ2aMAZcKCycaMKJcKjTdKe1urfee34DAjBEjADkg1rMv610Wnel6+NTea2Pq5mv62Q==;D32e2Iz9i6WKosd1APeOFg=="
 ---

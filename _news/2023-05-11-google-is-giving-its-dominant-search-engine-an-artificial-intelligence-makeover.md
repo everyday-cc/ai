@@ -1,28 +1,28 @@
 ---
 category: news
 title: "Google is giving its dominant search engine an artificial-intelligence makeover"
-excerpt: "Google has disclosed plans to infuse its dominant search engine with more advanced artificial-intelligence technology"
-publishedDateTime: 2023-05-10T19:32:00Z
-originalUrl: "https://abcnews.go.com/Business/wireStory/google-giving-dominant-search-engine-artificial-intelligence-makeover-99235251"
-webUrl: "https://abcnews.go.com/Business/wireStory/google-giving-dominant-search-engine-artificial-intelligence-makeover-99235251"
-ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/google-giving-dominant-search-engine-artificial-intelligence-makeover-99235251"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/google-giving-dominant-search-engine-artificial-intelligence-makeover-99235251"
+excerpt: "Google, which is owned by Alphabet Inc., already has been testing its own conversational chatbot called Bard."
+publishedDateTime: 2023-05-10T22:47:00Z
+originalUrl: "https://www.nbcnews.com/tech/tech-news/google-giving-dominant-search-engine-artificial-intelligence-makeover-rcna83863"
+webUrl: "https://www.nbcnews.com/tech/tech-news/google-giving-dominant-search-engine-artificial-intelligence-makeover-rcna83863"
+ampWebUrl: "https://www.nbcnews.com/news/amp/rcna83863"
+cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna83863"
 type: article
-quality: 38
-heat: 38
-published: false
+quality: 68
+heat: 78
+published: true
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: NBC News
+  domain: nbcnews.com
 
 topics:
   - AI
 
 images:
-  - url: "https://s.abcnews.com/images/US/wirestory_fd0538018df958388991772ced6e693d_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-05/230510-sundar-pichai-ew-643p-032d83.jpg"
+    width: 2500
+    height: 1546
     isCached: true
 
 related:
@@ -36,6 +36,6 @@ related:
       domain: avclub.com
     quality: 17
 
-secured: "aJxw4udwlBjfeo4N+oBaIj43C142odaCbxTsGKVQLHtRNJEz0YGxzVtC3hAogMGtSk+qi8fCHleWoiWUI43uFozrniPS8/QxAELkuH/juuk4HVmlIcautA/WP4ef1Ib44eqFc+VHdnQESrMzmPRKcFYCK13ppjIBtpF/BZVya8WeKElGOKidGaRYSVSwEp7BrzZMIHTU1j6OMQSfCeY7qo5NCUxh20bMi8H4Ghg2vVR1jZG2+d6/f3ZeAxJvvzj5lBTGj79emDM9V2ZG+D9EXu1HNpcw4cwprQLgz2qTsXn/VDB1GSBxN9fD2O5mSUIIlTVxlPqV6iW66pCBDi8U9A/5g+rtOUOS/kdg2nyQK0k=;zEaZBPYHOwuQtBvZHj+w4Q=="
+secured: "E3iqi3u+StkeR2wGyuwcZVxFV6pGlKcwJGbhbZDGQj6f1xK0lBlygweCroqI0WrM6pQ5scrobHi8V5JOL3kcfn/GDV6tLPzVt5/jQyUiYU1ObSkYF7CSWGaFTAGUOATtYP6ze0fIC0oN3PHW+ildXqFHQ3ZaX3D4jKTcCAlfyy21f9nK8K2ualbB0XB0zMPX9fgPQxG2Dk07IXb1+wVgOdclA0xe1T+dj+AIPYxGit2SfLdLx537sDzSIDfFWFsWerkymXfx/omENRTZykiVI0yKt8SUtKZT8aE8YH6//jaq6+d1QTMVuszmz9hIx87CaUV4yKgFlq2rpdW2D8fJrS7JHlMLQParXwoGZSb4Y1s=;qVMs2HN8Kx8StuCNER+cCA=="
 ---
 

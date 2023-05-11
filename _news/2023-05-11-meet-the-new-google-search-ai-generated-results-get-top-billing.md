@@ -58,30 +58,7 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Google Expected To Shake Up Search With New AI Products"
-    excerpt: "Google is expected to announce a more conversational version of its flagship search engine, fueled by artificial intelligence. The efforts to overhaul its search business with AI, set to be unveiled Wednesday at the company’s I/O conference in Mountain View,"
-    publishedDateTime: 2023-05-10T12:00:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-05-10/google-expected-to-shake-up-search-with-new-ai-products"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 47
-  - title: "How AI is about to change your Google search results"
-    excerpt: "A guided tour of the new Google Search Generative Experience, or SGE, coming first to people who sign up — and eventually to everyone."
-    publishedDateTime: 2023-05-10T16:52:00Z
-    webUrl: "https://www.washingtonpost.com/technology/2023/05/10/google-search-ai-io-2023/"
-    type: article
-    provider:
-      name: The Washington Post
-      domain: washingtonpost.com
-    quality: 39
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3I52HAZKDVH2LO55VF2X6FBCNY.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
 
-secured: "mRXoOY1CM/eYBj18a6ubmSapNa/rdQqeXTb0PZUViT3ZlPoGNzscSziHPpz+C+vSedVEfEehROgeW5z9UfqV56TneoRq62q41FLObUFOHGlqEPJzKagbsGVD6yjf3GfdZW59Yn1MY70izuOvoI/29y0KjZ1/6aOrzDxdbFgZhfEJza439UZJBsmVPoCKk00N4/1Pzz5DcKc/sI17duwocteBwTkvZBasaHCKAeY1q9fTPYjQSMKWQ6h3FXN2NArZf7aS36UlCF1mC5CzcZqXd9SY51G4FWd+UAMJDVCiBTTMzCWxJyZNfHXjQq1AJCzGS08bFIr5qm7SMQOATfctCuvJb4+sNH5t8c8OmIA9W2s=;fcHl7hC8WmY6O04XOcRcwA=="
+secured: "dFGcwYTgxzWRPyQrpTwJZtkjPIOsvH9b51jebm+4RkD+HehYWqceU6VZ4lncyzKzDrlg7R5LUeme6xfRbxBslv89VgWQ6yXLYcSnzgUaVS835uugvslS2nTlRdr21yS1XzCQSmD6VoPgtw6TASN7+6exBZfDZIeotaes3Vk5OJ/XCHIzeo4zL/PLLxlEs8C38+Mk8RVLcyMwTowCwP0uA3KgiG/8vh7wBHdYv7CL2ay8t/m5ZsElOKwoqitd6TZpOTN3wl/kAUNWBVzjawUSp5Z1xvy2fMe8e1OxrRAwS6WPiZRqNfFNjoKTNCl+I8T+QjjrXOPTBmDu6P1Ha1L1fVImpH1aDiH8s+FthJehoa02nwgoNoRaCt6whsCwGSzYXfMcLtbtEPuCqbkeG60khzHtYfqiiV/LtCoOYzmOG18fJIBjRdlwIfmKEj8B9qT8hbNakn42bszy2HAD48BdgJJudRY0E+Ff3YygQbnk9poCul96OICQ07pju6aGfidJzsFiF55y7O94CjH5FrqDkQ==;10Yh2IGN7d29YwmPGAK2eA=="
 ---
 

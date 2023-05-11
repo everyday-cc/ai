@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/05/10/why-ai-p
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/05/10/why-ai-powered-customer-service-and-support-are-crucial-in-2023/amp/"
 type: article
 quality: 87
-heat: 137
+heat: 129
 published: true
 
 provider:
@@ -81,15 +81,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
-  - title: "Google Ups Its Game in AI-Powered Search"
-    excerpt: "Google announced a flurry of new initiatives in artificial intelligence software, boosting the capabilities of search and making Bard widely available."
-    publishedDateTime: 2023-05-10T19:33:00Z
-    webUrl: "https://www.barrons.com/articles/google-ai-search-f718334"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 19
 
 secured: "vgD5vEXD8Hte4TMWjjO3KEe5GttlJshob4VVY84fy8NdW9pZrgq7IKUtPSV6zE3W5riU4NQfR/jZqEokcsrHgEJtV2/xySSL8hftkYPqVjDtBvllsoI0ervErlID2RxSoGoRhcLH3kTcRyDyDIZVQreyNCXza7DPP/b2h4sB/qj3eCwsp7aQK3eOlZ65ZmW3JGqQuYj8q+Qgk0UedFQppQ82zgV0w0TD7PQPwCWCtIvRUArqTPHoRCoKMoffVCzvtpWnonn6bZjljZVqvP96nyEPmPRsUXbuSZuBalX//alEGchxbpDDDQayes8qjDN9qQxv4a89c5vW1VTmntPmkwPV06/f+z/HCmvEzySv1dI=;Kmb9F5wxGAlUFoIIki56jw=="
 ---

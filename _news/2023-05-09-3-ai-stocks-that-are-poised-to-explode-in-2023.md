@@ -81,15 +81,6 @@ related:
         width: 600
         height: 400
         isCached: true
-  - title: "Google Ups Its Game in AI-Powered Search"
-    excerpt: "Google announced a flurry of new initiatives in artificial intelligence software, boosting the capabilities of search and making Bard widely available."
-    publishedDateTime: 2023-05-10T19:33:00Z
-    webUrl: "https://www.barrons.com/articles/google-ai-search-f718334"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 19
 
 secured: "T4hDkK8JKPjUUqitamExMbj8nkHq9TlajPjaz0uTst3rsqDXN4h2rvMeutu5Kl2rDPGj5gCQ5AE5XTFbch5rcZwk/bw/XbGqVfJiA8l6p5Bhq0tdmZmdztB+AwunkG7zycBq49UP/LgBjK/W4R1vmzc8Jub9vcuPltRj9B7NG7RQ45otgmp2TMji8on3WgLFFBXtYy3mn1wt+3J0hb0Scw/RBqyBKw2IFwGHThPBBq9IQCAEBgHwika8F+wzvhfcoJItSf1F3Opw5f4F8HKOT/HcXj3A0TO3LpX6gwjtUJI++0eTpmEFZiFe2/Y7qS81pxRXbYtgcm5NQXwDf8mQ7Svz419yqKB4kbVOfqdwGW0ohOsbv04UxkIpMeX0vHfYMoheQiclySJf4rex2kB26Xrt7ahUWkBNLmysiujH0WRY+1xKJeplTgOdzda5zuFjoMq96qffqHuekvLiborqaQmFaMOAmu6BfmrcP+QLfC0nAnLqXJkHIQCWJEm8kuLi97FNRwqU43l5i0GJtX63/Q==;giIdnag9x19kQgC3vcO3NQ=="
 ---

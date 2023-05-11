@@ -19,70 +19,127 @@ topics:
   - AI
 
 related:
-  - title: "Google opens up about PaLM 2, its new generative AI LLM"
-    excerpt: "Google's new PaLM 2 LLM will power at least 25 Google products and services that are being detailed during sessions at today's Google I/O."
-    publishedDateTime: 2023-05-10T17:25:00Z
-    webUrl: "https://venturebeat.com/ai/google-opens-up-about-palm-2-its-new-generative-ai-llm/"
-    ampWebUrl: "https://venturebeat.com/ai/google-opens-up-about-palm-2-its-new-generative-ai-llm/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/google-opens-up-about-palm-2-its-new-generative-ai-llm/amp/"
+  - title: "Google unveils advanced AI model to beef up Bard, Search, Maps and more"
+    excerpt: "With its new PaLM 2 large language model, Google said its key products and services will be simpler and smarter thanks to a huge dose of AI."
+    publishedDateTime: 2023-05-10T22:10:00Z
+    webUrl: "https://www.techrepublic.com/article/google-unveils-advanced-ai-bard-search-maps/"
+    ampWebUrl: "https://www.techrepublic.com/article/google-unveils-advanced-ai-bard-search-maps/amp/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/google-unveils-advanced-ai-bard-search-maps/amp/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 91
+    images:
+      - url: "https://www.techrepublic.com/wp-content/uploads/2023/05/tr51023-Figure-Top-Google-unveils-advanced-AI-model-to-beef-up-Bard-Search-Maps-and-more.jpg"
+        width: 1080
+        height: 558
+        isCached: true
+  - title: "Google brings more AI tools to Workspace"
+    excerpt: "Generative AI seems to be the only thing Google wants to talk about at its I/O developer conference this year and unsurprisingly, one of the prime surfaces for highlighting its AI smarts is its Workspace productivity suite."
+    publishedDateTime: 2023-05-10T17:39:00Z
+    webUrl: "https://techcrunch.com/2023/05/10/google-brings-more-ai-tools-to-workspace/"
+    ampWebUrl: "https://techcrunch.com/2023/05/10/google-brings-more-ai-tools-to-workspace/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/10/google-brings-more-ai-tools-to-workspace/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
     quality: 89
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/05/Palm-2.jpg?w=1200&strip=all"
+      - url: "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-83888573.jpg?resize=1200,800"
         width: 1200
-        height: 666
+        height: 800
         isCached: true
-  - title: "New Era Of Generative AI Finally Delivers On Promise"
-    excerpt: "Artificial intelligence is not new, but the public launch of generative AI has led to an explosion of AI models and implementations that are finally delivering some of the potential promise of artificial intelligence."
-    publishedDateTime: 2023-05-10T14:36:00Z
-    webUrl: "https://www.forbes.com/sites/tonybradley/2023/05/10/new-era-of-generative-ai-finally-delivers-on-promise/"
-    ampWebUrl: "https://www.forbes.com/sites/tonybradley/2023/05/10/new-era-of-generative-ai-finally-delivers-on-promise/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tonybradley/2023/05/10/new-era-of-generative-ai-finally-delivers-on-promise/amp/"
+  - title: "Google Bard Boosted With Adobe’s AI Art"
+    excerpt: "Google and Adobe have announced a partnership that will see Adobe’s Firefly become the AI art generator for Bard."
+    publishedDateTime: 2023-05-10T17:45:00Z
+    webUrl: "https://www.forbes.com/sites/barrycollins/2023/05/10/google-bard-boosted-with-adobes-ai-art/"
+    ampWebUrl: "https://www.forbes.com/sites/barrycollins/2023/05/10/google-bard-boosted-with-adobes-ai-art/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/barrycollins/2023/05/10/google-bard-boosted-with-adobes-ai-art/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
     quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/645bab625656905e0c4bd205/0x0.jpg?format=jpg&width=1200"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/645bbeeb59b5bc4fb19c02fa/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 800
+        height: 723
         isCached: true
-  - title: "PaLM 2 Is a Major AI Update Built Into 25 Google Products"
-    excerpt: "Google on Wednesday unveiled a new AI system called PaLM 2, a major update to its most powerful language processing system. The artificial intelligence technology already is incorporated into 25 Google products, underscoring its importance as the company races to capitalize on a computing revolution."
-    publishedDateTime: 2023-05-10T19:45:00Z
-    webUrl: "https://www.cnet.com/tech/computing/palm-2-is-a-major-ai-update-built-into-25-google-products/"
+  - title: "Google Expected To Shake Up Search With New AI Products"
+    excerpt: "Google is expected to announce a more conversational version of its flagship search engine, fueled by artificial intelligence. The efforts to overhaul its search business with AI, set to be unveiled Wednesday at the company’s I/O conference in Mountain View,"
+    publishedDateTime: 2023-05-10T12:00:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-05-10/google-expected-to-shake-up-search-with-new-ai-products"
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
-    quality: 49
-  - title: "IBM's generative AI strike force"
-    excerpt: "O.G. tech giant IBM is launching a counterstrike in the industry's suddenly-hot AI fight with today's announcement of Watsonx. The big picture: Business-focused IBM claims its latest AI offering, set to launch in July, provides more accurate answers and takes a more responsible approach than rivals."
-    publishedDateTime: 2023-05-09T10:00:00Z
-    webUrl: "https://www.axios.com/2023/05/09/watsonx-ibm-generative-ai-chatgpt"
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 47
+  - title: "Google Just Added Generative AI to Search"
+    excerpt: "Challenged by ChatGPT, the king of search launches a feature that can answer queries with text summarizing information found online."
+    publishedDateTime: 2023-05-10T17:59:00Z
+    webUrl: "https://www.wired.com/story/google-io-just-added-generative-ai-to-search/"
     type: article
     provider:
-      name: Axios
-      domain: axios.com
+      name: Wired
+      domain: wired.com
+    quality: 47
+  - title: "Google: We've Made Bard Even Smarter Using PaLM 2 AI Model"
+    excerpt: "The new features could make Bard a stronger rival to ChatGPT. The company also plans on watermarking content created by AI in an effort to stamp out potential misuse."
+    publishedDateTime: 2023-05-10T18:23:00Z
+    webUrl: "https://www.pcmag.com/news/google-weve-made-bard-even-smarter-using-palm-2-ai-model"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 47
+  - title: "How AI is about to change your Google search results"
+    excerpt: "A guided tour of the new Google Search Generative Experience, or SGE, coming first to people who sign up — and eventually to everyone."
+    publishedDateTime: 2023-05-10T16:52:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2023/05/10/google-search-ai-io-2023/"
+    type: article
+    provider:
+      name: The Washington Post
+      domain: washingtonpost.com
     quality: 39
     images:
-      - url: "https://images.axios.com/2abZGvpVZrwSgGGrbzRnGszoxeg=/0x489:6000x3864/1366x768/2023/05/09/1683594467793.jpg"
-        width: 1366
-        height: 768
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3I52HAZKDVH2LO55VF2X6FBCNY.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
-  - title: "Scale AI unveils its full-stack generative AI platform"
-    excerpt: "Scale's Enterprise AI Platform will allow customers to get the benefits of large language models without having to send data out to a third-party AI company."
-    publishedDateTime: 2023-05-10T15:01:00Z
-    webUrl: "https://www.fastcompany.com/90893774/scale-ai-unveils-its-full-stack-generative-ai-platform"
+  - title: "Google’s Bard AI Launches in 180 Countries, Adds New Features"
+    excerpt: "Google is now available in over 180 countries, and it's also being upgraded with Google's more capable PaLM 2 large language model."
+    publishedDateTime: 2023-05-10T17:45:00Z
+    webUrl: "https://www.thurrott.com/cloud/282952/google-bard-ai-launches-in-180-countries-palm-2"
     type: article
     provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 17
+      name: Thurrott
+      domain: thurrott.com
+    quality: 39
+    images:
+      - url: "https://thurrott.s3.amazonaws.com/wp-content/uploads/sites/2/2023/03/Google-Bard-1.jpg"
+        width: 1066
+        height: 600
+        isCached: true
+  - title: "Google Cloud Unveils A3 GPU Supercomputer: Next-Gen Power for Advanced AI Models"
+    excerpt: "In this blog post, Roy Kim, director of product management, and Chris Kleban, group product manager at Google Cloud, announce the private"
+    publishedDateTime: 2023-05-10T18:55:00Z
+    webUrl: "https://www.datanami.com/this-just-in/google-cloud-unveils-a3-gpu-supercomputer-next-gen-power-for-advanced-ai-models/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 29
+  - title: "Google Ups Its Game in AI-Powered Search"
+    excerpt: "Google announced a flurry of new initiatives in artificial intelligence software, boosting the capabilities of search and making Bard widely available."
+    publishedDateTime: 2023-05-10T19:33:00Z
+    webUrl: "https://www.barrons.com/articles/google-ai-search-f718334"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 19
 
 secured: "Ecc7vIF8XKr65950EVhrLwqHBs8nsEfq8oANj/nBX7O5AAm2Dd1EKyg8plWY5bFE0PH22FhQAqHzDh/1Y4uTtIXflFNfE9MJBIpJKpQlKPRgQrB/4k6L4RKhXVemy9G/FwlZMEeBwX8Nq2pECaKMn6UvzOhYk7G1TXN5iFHKZReom3QcLonsi8obiOYiAlrgZW+1akTrBiJIPFp/VoSS2z5Qnxih5yTUWyZFcPR/dlxu/YgHqkw93xFXeyyjDfxGinw8l/qvwmsoGWKel+Tl7MZTMCAnBGzOeoDF6oZu7KLXMvy5NhtznJeBvSnxNvRlImk/2JgD/17tAgj6wUV07jF4rBVBWDHlqTqzxxQJAbTfBliXcNgZyu6di44Ps+LA7qPfaOmhW3GANYQuSGUva7EIpuZ73NrpJB1OCGyAD12PZW9+gClwjikVgBwRkl8Do9oC9+2S1IwdBmiGxlFuJgnLnvOpfosT/CO0mjMlB7q5IgLTDODl3gSnKJH2tNMsXETo93iuCGnsyeymbs6UsQ==;zM7HsiqORtU49rpkpyFRPw=="
 ---

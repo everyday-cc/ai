@@ -9,8 +9,8 @@ ampWebUrl: "https://techcrunch.com/2023/05/10/google-brings-more-ai-tools-to-wor
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/10/google-brings-more-ai-tools-to-workspace/amp/"
 type: article
 quality: 89
-heat: 229
-published: true
+heat: -1
+published: false
 
 provider:
   name: TechCrunch
@@ -31,37 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Here are 10 AI-powered tools to help boost your productivity at work"
-    excerpt: "AI readers like Wordtune Read might be able to help you get ... Insider's Aaron Mok tried the tool for a week and found it gave him a boost of motivation to start rote tasks like responding to emails. It also helped him quickly transition into a focused ..."
-    publishedDateTime: 2023-05-09T10:45:00Z
-    webUrl: "https://www.businessinsider.com/ai-tools-make-your-job-easier-boost-productivity-work-chatgpt-2023-5"
-    ampWebUrl: "https://www.businessinsider.com/ai-tools-make-your-job-easier-boost-productivity-work-chatgpt-2023-5?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-tools-make-your-job-easier-boost-productivity-work-chatgpt-2023-5?amp"
+  - title: "Google unveils advanced AI model to beef up Bard, Search, Maps and more"
+    excerpt: "With its new PaLM 2 large language model, Google said its key products and services will be simpler and smarter thanks to a huge dose of AI."
+    publishedDateTime: 2023-05-10T22:10:00Z
+    webUrl: "https://www.techrepublic.com/article/google-unveils-advanced-ai-bard-search-maps/"
+    ampWebUrl: "https://www.techrepublic.com/article/google-unveils-advanced-ai-bard-search-maps/amp/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/google-unveils-advanced-ai-bard-search-maps/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 87
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 91
     images:
-      - url: "https://i.insider.com/640a41b79ef79f0018286f61?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Google Chrome Brings Better AI Brains to the Web"
-    excerpt: "With a technology called WebGPU, AI software to monitor your health or generate images could run in your browser instead of the cloud."
-    publishedDateTime: 2023-05-09T23:11:00Z
-    webUrl: "https://www.cnet.com/tech/computing/google-chrome-brings-better-ai-brains-to-the-web/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/google-chrome-brings-better-ai-brains-to-the-web/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/google-chrome-brings-better-ai-brains-to-the-web/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 87
-    images:
-      - url: "https://www.cnet.com/a/img/resize/fccd854ab95eb0901bb9d795b1bd9e822ca897ad/hub/2019/05/09/9f2a88cf-2acc-4c04-b11e-03560e8d182f/20120314-google-chrome-lapel-pin-4sts-01.jpg?auto=webp"
-        width: 4048
-        height: 2391
+      - url: "https://www.techrepublic.com/wp-content/uploads/2023/05/tr51023-Figure-Top-Google-unveils-advanced-AI-model-to-beef-up-Bard-Search-Maps-and-more.jpg"
+        width: 1080
+        height: 558
         isCached: true
   - title: "Google Bard Boosted With Adobe’s AI Art"
     excerpt: "Google and Adobe have announced a partnership that will see Adobe’s Firefly become the AI art generator for Bard."
@@ -79,45 +63,15 @@ related:
         width: 1200
         height: 723
         isCached: true
-  - title: "Google makes its text-to-music AI public"
-    excerpt: "Google has launched a new tool that allows users to create music from text prompts. But the tech raises ethical and legal questions."
-    publishedDateTime: 2023-05-10T17:49:00Z
-    webUrl: "https://techcrunch.com/2023/05/10/google-makes-its-text-to-music-ai-public/"
-    ampWebUrl: "https://techcrunch.com/2023/05/10/google-makes-its-text-to-music-ai-public/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/10/google-makes-its-text-to-music-ai-public/amp/"
+  - title: "Google Expected To Shake Up Search With New AI Products"
+    excerpt: "Google is expected to announce a more conversational version of its flagship search engine, fueled by artificial intelligence. The efforts to overhaul its search business with AI, set to be unveiled Wednesday at the company’s I/O conference in Mountain View,"
+    publishedDateTime: 2023-05-10T12:00:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-05-10/google-expected-to-shake-up-search-with-new-ai-products"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/05/Frame_26063334.width-1200.format-webp.webp?w=1200"
-        width: 1200
-        height: 500
-        isCached: true
-  - title: "Google’s Duet AI brings more generative features to Workspace apps"
-    excerpt: "After OpenAI’s ChatGPT caught the tech world off guard late last year, Google reportedly declared a “code red,” scrambling to plan a response to the new threat."
-    publishedDateTime: 2023-05-10T17:45:00Z
-    webUrl: "https://www.engadget.com/googles-duet-ai-brings-more-generative-features-to-workspace-apps-173944737.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 69
-    images:
-      - url: "https://s.yimg.com/uu/api/res/1.2/VEe7NhQRnwM.xJ36kN_Rfw--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-05/f93ba6b0-ef58-11ed-bffd-1d888782a206.cf.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Google’s Vertex AI machine learning platform gets generative AI tools"
-    excerpt: "The new updates to Google Cloud’s machine learning service will help the company square up against rivals such as Microsoft, AWS and IBM."
-    publishedDateTime: 2023-05-10T18:15:00Z
-    webUrl: "https://www.infoworld.com/article/3696208/google-s-vertex-ai-machine-learning-platform-gets-generative-ai-tools.html"
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 66
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 47
   - title: "Google Just Added Generative AI to Search"
     excerpt: "Challenged by ChatGPT, the king of search launches a feature that can answer queries with text summarizing information found online."
     publishedDateTime: 2023-05-10T17:59:00Z
@@ -127,90 +81,71 @@ related:
       name: Wired
       domain: wired.com
     quality: 47
-  - title: "Google rolls out tools for developers to build machine learning and AI into their products"
-    excerpt: "Google LLC is rolling out a number of tools for developers to build machine learning and artificial intelligence into their applications using high-performance AI models and solutions. At Google I/O,"
-    publishedDateTime: 2023-05-10T20:42:00Z
-    webUrl: "https://siliconangle.com/2023/05/10/google-rolls-tools-developers-build-machine-learning-ai-products/"
+  - title: "Google: We've Made Bard Even Smarter Using PaLM 2 AI Model"
+    excerpt: "The new features could make Bard a stronger rival to ChatGPT. The company also plans on watermarking content created by AI in an effort to stamp out potential misuse."
+    publishedDateTime: 2023-05-10T18:23:00Z
+    webUrl: "https://www.pcmag.com/news/google-weve-made-bard-even-smarter-using-palm-2-ai-model"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 47
+  - title: "How AI is about to change your Google search results"
+    excerpt: "A guided tour of the new Google Search Generative Experience, or SGE, coming first to people who sign up — and eventually to everyone."
+    publishedDateTime: 2023-05-10T16:52:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2023/05/10/google-search-ai-io-2023/"
+    type: article
+    provider:
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 39
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3I52HAZKDVH2LO55VF2X6FBCNY.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Google’s Bard AI Launches in 180 Countries, Adds New Features"
+    excerpt: "Google is now available in over 180 countries, and it's also being upgraded with Google's more capable PaLM 2 large language model."
+    publishedDateTime: 2023-05-10T17:45:00Z
+    webUrl: "https://www.thurrott.com/cloud/282952/google-bard-ai-launches-in-180-countries-palm-2"
+    type: article
+    provider:
+      name: Thurrott
+      domain: thurrott.com
+    quality: 39
+    images:
+      - url: "https://thurrott.s3.amazonaws.com/wp-content/uploads/sites/2/2023/03/Google-Bard-1.jpg"
+        width: 1066
+        height: 600
+        isCached: true
+  - title: "Google Cloud Unveils A3 GPU Supercomputer: Next-Gen Power for Advanced AI Models"
+    excerpt: "In this blog post, Roy Kim, director of product management, and Chris Kleban, group product manager at Google Cloud, announce the private"
+    publishedDateTime: 2023-05-10T18:55:00Z
+    webUrl: "https://www.datanami.com/this-just-in/google-cloud-unveils-a3-gpu-supercomputer-next-gen-power-for-advanced-ai-models/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 29
+  - title: "Google Ups Its Game in AI-Powered Search"
+    excerpt: "Google announced a flurry of new initiatives in artificial intelligence software, boosting the capabilities of search and making Bard widely available."
+    publishedDateTime: 2023-05-10T19:33:00Z
+    webUrl: "https://www.barrons.com/articles/google-ai-search-f718334"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 19
+  - title: "Google unveils PaLM 2, its most powerful general-purpose AI yet, to power Bard chatbot"
+    excerpt: "Artificial intelligence took the center stage today at Google LLC’s annual developer conference Google I/O with the unveiling of PaLM 2, the second iteration of the Pathways Language Model. It’s a transformer-based large language model artificial intelligence developed by Google Research that powers the company’s Bard AI chatbot and other products."
+    publishedDateTime: 2023-05-10T18:32:00Z
+    webUrl: "https://siliconangle.com/2023/05/10/google-unveils-palm-2-powerful-general-purpose-ai-yet-power-bard-chatbot/"
     type: article
     provider:
       name: SiliconANGLE
       domain: siliconangle.com
-    quality: 44
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/12/network-g714c9891c_1280.jpg"
-        width: 1280
-        height: 853
-        isCached: true
-  - title: "Creating a Thai language AI tool"
-    excerpt: "Thai artificial intelligence (AI) engineers from public and private organisations have teamed up to develop a Thai-language generative AI-powered chatbot, expected to benefit several sectors from education to business."
-    publishedDateTime: 2023-05-07T23:43:00Z
-    webUrl: "https://www.bangkokpost.com/business/2565696/creating-a-thai-language-ai-tool"
-    type: article
-    provider:
-      name: Bangkok Post
-      domain: bangkokpost.com
-    quality: 41
-    images:
-      - url: "https://static.bangkokpost.com/media/content/dcx/2023/05/08/4747356_700.jpg"
-        width: 700
-        height: 468
-        isCached: true
-  - title: "AI Brings Asset Intelligence to Hospitals"
-    excerpt: "Vizzia Technologies and ElectrifAi have tested artificial intelligence in an RTLS solution at California's Mission Hospital, and will now commercialize the offering for asset-management intelligence."
-    publishedDateTime: 2023-05-07T11:00:00Z
-    webUrl: "https://www.rfidjournal.com/ai-brings-asset-intelligence-to-hospitals"
-    type: article
-    provider:
-      name: RFID Journal
-      domain: rfidjournal.com
-    quality: 39
-    images:
-      - url: "https://www.rfidjournal.com/wp-content/uploads/2023/04/MissionHospital-Vizzia-featured.jpg"
-        width: 1000
-        height: 450
-        isCached: true
-  - title: "Bringing AI Tools to the Workplace Requires a Delicate Balance"
-    excerpt: "By midyear, all of Morgan Stanley’s thousands of wealth advisers are expected to have access to a new artificial-intelligence-powered chat tool.The tool, which is already in use by about 600 staff members,"
-    publishedDateTime: 2023-05-08T20:02:00Z
-    webUrl: "https://www.spokesman.com/stories/2023/may/08/bringing-ai-tools-to-the-workplace-requires-a-deli/"
-    type: article
-    provider:
-      name: The Spokesman-Review
-      domain: spokesman.com
-    quality: 37
-    images:
-      - url: "https://thumb.spokesman.com/o2qlnZLoJkpiNpKj1YWkMoSjY4c=/1200x630/smart/media.spokesman.com/photos/2023/05/08/645948d902eed.hires.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "5 ways to use Google Docs’ new AI"
-    excerpt: "Google Docs' AI is handy to have AI text generation and editing inside Docs, but it’s not yet nearly as powerful or useful as alternatives like ChatGPT or Lex."
-    publishedDateTime: 2023-05-08T04:05:00Z
-    webUrl: "https://www.fastcompany.com/90892473/5-ways-to-use-google-docs-new-ai"
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 19
-  - title: "The Race to Write the World’s First AI Rule Book"
-    excerpt: "The proposed Artificial Intelligence Act is a far-reaching legal framework. But rival nations are watching, hoping to take advantage of delays."
-    publishedDateTime: 2023-05-09T13:11:00Z
-    webUrl: "https://www.thecipherbrief.com/the-race-to-write-the-worlds-first-ai-rule-book"
-    type: article
-    provider:
-      name: The Cipher Brief
-      domain: thecipherbrief.com
-    quality: 19
-  - title: "Google is throwing generative AI at everything"
-    excerpt: "But experts say that releasing these models into the wild before fixing their flaws could prove extremely risky for the company."
-    publishedDateTime: 2023-05-10T19:00:00Z
-    webUrl: "https://www.technologyreview.com/2023/05/10/1072880/google-is-throwing-generative-ai-at-everything/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 19
+    quality: 11
 
-secured: "xzG+DbSdorkVygGR+JvRA986V3qFrw/ZmsthXfcSOy7dHVQZWNzVPG/mdO7IbUMMbCDUcfqFi//dcyKgWZZ1dNbREjqEYhRdsw/aXqxQemz6h63l6YyUph5ty6zTIejfMwX0D93L21uQBUeonq2wAmUeyMpYh6cxkQJj+x7UwhXjJbFtnyJZ5UNZ7HkFSe+WJXGS5/9YAUhw6XYdLzEzQBPHYNQ0Hc2cpniaPSusbywuAvK0qA8YadgdFnFXR9LITab7uV3jOAQ4B7k6SRK5bqZxYIqNKvmmp1j7QVsaxGHHrX+Wb+N81/v5oWKuR0LQqr/yE7O3TbYDF5p1ZWDi6OMcLYrF+Cb542wU8s3MzuE=;YM+z5mMulxKcU4y6DmUENQ=="
+secured: "OfTaEQi0Pt1xAJox22VXrPZU86xrWTPoH58zieBhPOtKbK1sWOXb/LJxFp3nF7ipTaj5zZ27VyqfpiJEXOkiLXUIpg8BVb+QwHkwKJP1tW7lFYlr4ZmiZCvG2vhFQEPp6h0azVCuVdEUuw3sHHiF/vF0HHsi6SDE278Hcnp8vLlvxecMI7oWgln6pf//Uyz/Se2hP1TscrbZGDsoupUUCp79YsifLTv0t35tocNWaWd3l7ARcgO8bpnSfjsz4L4N3RGxK+DArhv9SLjdATyD7u47YXe6YB0rSbFARvLm8SsFU5u4FBFfbkt5OC2SW5T/arOi3WzCJSvTq3ya0spx/K1nrFMuJbRbmpdQpdLUVqZLssR+9GugC/GODvDK2K4DSVHHNzuf/LZkcdcZ7hyeCwyM0sue+BxayqXz67Z0cMGA3kjYB/aFPINumS3jc3C9Lg/O/xcXJoOplN3W7SfK1lni6+XTPRMGUxOt3Fk06iBwPhAHX6oysXmsuOll8N/9zuBlhPjIptgX6ctVT/jnIg==;UqNOUiBrT96mPCVh8IxQWA=="
 ---
 

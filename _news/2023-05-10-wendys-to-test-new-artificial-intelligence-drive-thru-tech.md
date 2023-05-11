@@ -18,6 +18,22 @@ topics:
   - AI
 
 related:
+  - title: "Google is helping Wendy’s build an AI drive-thru"
+    excerpt: "It has also been trained on the company’s established business practices and was given logical and conversational guardrails."
+    publishedDateTime: 2023-05-10T22:00:00Z
+    webUrl: "https://www.popsci.com/technology/wendys-google-drive-thru-ai/"
+    ampWebUrl: "https://www.popsci.com/technology/wendys-google-drive-thru-ai/?amp"
+    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/wendys-google-drive-thru-ai/?amp"
+    type: article
+    provider:
+      name: Popular Science
+      domain: popsci.com
+    quality: 57
+    images:
+      - url: "https://www.popsci.com/uploads/2023/05/10/batu-gezer-AGGhkGuVs2w-unsplash.jpg?auto=webp"
+        width: 2000
+        height: 1125
+        isCached: true
   - title: "Wendy’s hired Google AI to take your drive-through order"
     excerpt: "The next time you get a craving for a spicy chicken sandwich, you might have to ask an AI to ring it up for you. American fast food burger chain Wendy’s is teaming up with Google to make an AI-powered chatbot for taking drive-through food orders,"
     publishedDateTime: 2023-05-09T13:53:00Z

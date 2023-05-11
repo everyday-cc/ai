@@ -1,20 +1,18 @@
 ---
 category: news
 title: "Unlimited opportunities for manufacturing of medical devices in India: CEO of GE HealthCare South Asia"
-excerpt: "According to Sarawate, who is also managing director, Wipro GE Healthcare, new age technologies like artificial intelligence (AI) are significantly improving care quality and access to care."
-publishedDateTime: 2023-05-10T06:36:00Z
-originalUrl: "https://www.moneycontrol.com/news/business/unlimited-opportunities-for-manufacturing-of-medical-devices-in-india-ceo-of-ge-healthcare-south-asia-10559771.html"
-webUrl: "https://www.moneycontrol.com/news/business/unlimited-opportunities-for-manufacturing-of-medical-devices-in-india-ceo-of-ge-healthcare-south-asia-10559771.html"
-ampWebUrl: "https://www.moneycontrol.com/news/business/unlimited-opportunities-for-manufacturing-of-medical-devices-in-india-ceo-of-ge-healthcare-south-asia-10559771.html/amp"
-cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/unlimited-opportunities-for-manufacturing-of-medical-devices-in-india-ceo-of-ge-healthcare-south-asia-10559771.html/amp"
+excerpt: "Through this programme, we aim to nurture the start-up ecosystem, build strategic partnerships, and co-develop healthcare applications using AI and other technologies.GE HealthCare launched the Healthcare Innovation Lab with IISc Bengaluru-based Indian Institute of Science to aid clinicians in tackling real-time difficulties in care delivery by bringing to market new digital solutions that can be incorporated on the Edison platform."
+publishedDateTime: 2023-05-10T06:18:00Z
+originalUrl: "https://www.devdiscourse.com/article/technology/2446198-unlimited-opportunities-for-manufacturing-of-medical-devices-in-india-ceo-of-ge-healthcare-south-asia"
+webUrl: "https://www.devdiscourse.com/article/technology/2446198-unlimited-opportunities-for-manufacturing-of-medical-devices-in-india-ceo-of-ge-healthcare-south-asia"
 type: article
-quality: 45
-heat: 45
+quality: 25
+heat: 25
 published: false
 
 provider:
-  name: moneycontrol.com
-  domain: moneycontrol.com
+  name: devdiscourse
+  domain: devdiscourse.com
 
 topics:
   - AWS AI
@@ -22,11 +20,27 @@ topics:
   - AI in Healthcare
 
 images:
-  - url: "https://images.moneycontrol.com/static-mcnews/2023/02/Collage-Maker-28-Feb-2023-12.30-PM-770x435.jpg"
-    width: 770
-    height: 435
+  - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/27_06_2019_18_33_35_2442501.png?width=920&format=jpeg"
+    width: 920
+    height: 520
     isCached: true
 
-secured: "Hm6/D2xA6eBNdWKLXSqOvASbjuNd6deOAyxYQYLBo78tF8TC1dkGCsYhMveIVs/CsFb3mBad6Qozu/Bq3Li1RbwNgo0TS9ACcI345dA5JEgMyPHItcwBk4Ejc9MgctC/waRsni+WfuOexqJu9HLjmMWXS3qJr9QyQhVNlRgGaUmK0Rx5W/G2DnbPcwLxBwP2fNpW3LOpccSDUkSSHrMt0T3YHMAuaBK2MfRqWLG63yjPnGHcw0gLRYbN7C6SO6peKPyN4Dj6dXkvZhnOQ1ErVhKJgF5UyCxu+IjqCre90wq1wy8vG2Dwkgc1CKZkcjJRmV9NFHRQYIGQY87AlFSPgSvLer0x8yXB6kIbQRnsTlA=;JrCm8c1qKraBXDMhrETJjg=="
+related:
+  - title: "Tackling shortages in financial services talent in Asia Pacific"
+    excerpt: "Amid a talent shortage in the financial services industry in the Asia Pacific region, organisations are heading to invest in training initiatives to upskill employees and develop talent to meet their digital transformation demands."
+    publishedDateTime: 2023-05-08T09:15:00Z
+    webUrl: "https://vir.com.vn/tackling-shortages-in-financial-services-talent-in-asia-pacific-101667.html"
+    type: article
+    provider:
+      name: Vietnam Investment Reviev
+      domain: vir.com.vn
+    quality: 24
+    images:
+      - url: "https://vir.com.vn/stores/news_dataimages/2023/052023/08/09/in_social/tackling-shortages-in-financial-services-talent-in-asia-pacific-20230508092610.jpg?randTime=1683540235"
+        width: 600
+        height: 313
+        isCached: true
+
+secured: "99oTCtHk1S2tzoLxTCQVRQYP4Kv8UB41V8wpBlUwlJM9Xxgl315G5cg68x3PSCgfC7AAXA9Sro1oG/mp3vkASBzlBLkXrIrGpV2FIlNLxcyj3MEzoN2+rlzu8Ueic9Z0kcnaki31S+kFVoG1+zyx7ucY9AgBKrwHwX1NPXK3MK4o+xCBXcUMwO9eMWX7yxz1T4taelMVZkDmmsW2ans9YKq+WUGnPtiBUgmaArVmF6oWUuuNmLzcYtGkuLXs+rgzafz0FtNGsM2wppbYWL7fMy4LQFIZI9AfW1qc+y9jblYC2DUrA4Tvi3Opqte0GVKZ3R1BgAe3eQUbKuh9dxpbzRVaY40yKGR4Mn0r8BYAmz8=;n8wZLhrMkPdFwLGxZl3A0w=="
 ---
 

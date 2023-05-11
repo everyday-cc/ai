@@ -19,192 +19,93 @@ topics:
   - AI
 
 related:
-  - title: "Google brings more AI tools to Workspace"
-    excerpt: "Generative AI seems to be the only thing Google wants to talk about at its I/O developer conference this year and unsurprisingly, one of the prime surfaces for highlighting its AI smarts is its Workspace productivity suite."
-    publishedDateTime: 2023-05-10T17:39:00Z
-    webUrl: "https://techcrunch.com/2023/05/10/google-brings-more-ai-tools-to-workspace/"
-    ampWebUrl: "https://techcrunch.com/2023/05/10/google-brings-more-ai-tools-to-workspace/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/10/google-brings-more-ai-tools-to-workspace/amp/"
+  - title: "World’s Top AI Researchers Debate the Technology’s Next Steps"
+    excerpt: "After ChatGPT sparked a frenzy among tech companies, a conference in Africa is focusing on AI’s promise and peril for poorer nations."
+    publishedDateTime: 2023-05-06T14:00:00Z
+    webUrl: "https://www.wsj.com/articles/worlds-top-ai-researchers-debate-the-technologys-next-steps-55be2849"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 89
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-83888573.jpg?resize=1200,800"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Here are 10 AI-powered tools to help boost your productivity at work"
-    excerpt: "AI readers like Wordtune Read might be able to help you get ... Insider's Aaron Mok tried the tool for a week and found it gave him a boost of motivation to start rote tasks like responding to emails. It also helped him quickly transition into a focused ..."
-    publishedDateTime: 2023-05-09T10:45:00Z
-    webUrl: "https://www.businessinsider.com/ai-tools-make-your-job-easier-boost-productivity-work-chatgpt-2023-5"
-    ampWebUrl: "https://www.businessinsider.com/ai-tools-make-your-job-easier-boost-productivity-work-chatgpt-2023-5?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-tools-make-your-job-easier-boost-productivity-work-chatgpt-2023-5?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 87
-    images:
-      - url: "https://i.insider.com/640a41b79ef79f0018286f61?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Google Chrome Brings Better AI Brains to the Web"
-    excerpt: "With a technology called WebGPU, AI software to monitor your health or generate images could run in your browser instead of the cloud."
-    publishedDateTime: 2023-05-09T23:11:00Z
-    webUrl: "https://www.cnet.com/tech/computing/google-chrome-brings-better-ai-brains-to-the-web/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/google-chrome-brings-better-ai-brains-to-the-web/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/google-chrome-brings-better-ai-brains-to-the-web/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 87
-    images:
-      - url: "https://www.cnet.com/a/img/resize/fccd854ab95eb0901bb9d795b1bd9e822ca897ad/hub/2019/05/09/9f2a88cf-2acc-4c04-b11e-03560e8d182f/20120314-google-chrome-lapel-pin-4sts-01.jpg?auto=webp"
-        width: 4048
-        height: 2391
-        isCached: true
-  - title: "Google Bard Boosted With Adobe’s AI Art"
-    excerpt: "Google and Adobe have announced a partnership that will see Adobe’s Firefly become the AI art generator for Bard."
-    publishedDateTime: 2023-05-10T17:45:00Z
-    webUrl: "https://www.forbes.com/sites/barrycollins/2023/05/10/google-bard-boosted-with-adobes-ai-art/"
-    ampWebUrl: "https://www.forbes.com/sites/barrycollins/2023/05/10/google-bard-boosted-with-adobes-ai-art/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/barrycollins/2023/05/10/google-bard-boosted-with-adobes-ai-art/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/645bbeeb59b5bc4fb19c02fa/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 723
-        isCached: true
-  - title: "Google makes its text-to-music AI public"
-    excerpt: "Google has launched a new tool that allows users to create music from text prompts. But the tech raises ethical and legal questions."
-    publishedDateTime: 2023-05-10T17:49:00Z
-    webUrl: "https://techcrunch.com/2023/05/10/google-makes-its-text-to-music-ai-public/"
-    ampWebUrl: "https://techcrunch.com/2023/05/10/google-makes-its-text-to-music-ai-public/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/10/google-makes-its-text-to-music-ai-public/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/05/Frame_26063334.width-1200.format-webp.webp?w=1200"
-        width: 1200
-        height: 500
-        isCached: true
-  - title: "Google’s Duet AI brings more generative features to Workspace apps"
-    excerpt: "After OpenAI’s ChatGPT caught the tech world off guard late last year, Google reportedly declared a “code red,” scrambling to plan a response to the new threat."
-    publishedDateTime: 2023-05-10T17:45:00Z
-    webUrl: "https://www.engadget.com/googles-duet-ai-brings-more-generative-features-to-workspace-apps-173944737.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 69
-    images:
-      - url: "https://s.yimg.com/uu/api/res/1.2/VEe7NhQRnwM.xJ36kN_Rfw--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-05/f93ba6b0-ef58-11ed-bffd-1d888782a206.cf.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Google’s Vertex AI machine learning platform gets generative AI tools"
-    excerpt: "The new updates to Google Cloud’s machine learning service will help the company square up against rivals such as Microsoft, AWS and IBM."
-    publishedDateTime: 2023-05-10T18:15:00Z
-    webUrl: "https://www.infoworld.com/article/3696208/google-s-vertex-ai-machine-learning-platform-gets-generative-ai-tools.html"
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 66
-  - title: "Google Just Added Generative AI to Search"
-    excerpt: "Challenged by ChatGPT, the king of search launches a feature that can answer queries with text summarizing information found online."
-    publishedDateTime: 2023-05-10T17:59:00Z
-    webUrl: "https://www.wired.com/story/google-io-just-added-generative-ai-to-search/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 47
-  - title: "Google rolls out tools for developers to build machine learning and AI into their products"
-    excerpt: "Google LLC is rolling out a number of tools for developers to build machine learning and artificial intelligence into their applications using high-performance AI models and solutions. At Google I/O,"
-    publishedDateTime: 2023-05-10T20:42:00Z
-    webUrl: "https://siliconangle.com/2023/05/10/google-rolls-tools-developers-build-machine-learning-ai-products/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 44
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/12/network-g714c9891c_1280.jpg"
+      - url: "https://images.wsj.net/im-777121/social"
         width: 1280
-        height: 853
+        height: 640
         isCached: true
-  - title: "Creating a Thai language AI tool"
-    excerpt: "Thai artificial intelligence (AI) engineers from public and private organisations have teamed up to develop a Thai-language generative AI-powered chatbot, expected to benefit several sectors from education to business."
-    publishedDateTime: 2023-05-07T23:43:00Z
-    webUrl: "https://www.bangkokpost.com/business/2565696/creating-a-thai-language-ai-tool"
+  - title: "AI DUDE: The Most Sophisticated Artificial Intelligence Technology"
+    excerpt: "The AIDUDE company is proud to announce the launch of its latest innovation, Ai Dude, which utilizes the most sophisticated Artificial Intelligence (AI) technology to provide businesses with a powerful tool for content creation and optimization."
+    publishedDateTime: 2023-05-08T14:10:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-dude-the-most-sophisticated-artificial-intelligence-technology-2023-05-08"
     type: article
     provider:
-      name: Bangkok Post
-      domain: bangkokpost.com
-    quality: 41
-    images:
-      - url: "https://static.bangkokpost.com/media/content/dcx/2023/05/08/4747356_700.jpg"
-        width: 700
-        height: 468
-        isCached: true
-  - title: "AI Brings Asset Intelligence to Hospitals"
-    excerpt: "Vizzia Technologies and ElectrifAi have tested artificial intelligence in an RTLS solution at California's Mission Hospital, and will now commercialize the offering for asset-management intelligence."
-    publishedDateTime: 2023-05-07T11:00:00Z
-    webUrl: "https://www.rfidjournal.com/ai-brings-asset-intelligence-to-hospitals"
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 64
+  - title: "AI Researchers Worry the U.S. and China Will Leave Everyone Else Behind"
+    excerpt: "After ChatGPT sparked a frenzy among tech companies, a conference in Africa is focusing on AI’s promise and peril for poorer nations."
+    publishedDateTime: 2023-05-08T10:21:00Z
+    webUrl: "https://www.wsj.com/articles/worlds-top-ai-researchers-debate-the-technologys-next-steps-55be2849"
     type: article
     provider:
-      name: RFID Journal
-      domain: rfidjournal.com
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 47
+  - title: "Google AI chief quits due to concerns about dangers from technology"
+    excerpt: "Artificial intelligence pioneer Geoffrey Hinton said he realized computers could become smarter than people far sooner than he and other experts had expected"
+    publishedDateTime: 2023-05-07T15:48:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/273823159/google-ai-chief-quits-due-to-concerns-about-dangers-from-technology"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
     quality: 39
     images:
-      - url: "https://www.rfidjournal.com/wp-content/uploads/2023/04/MissionHospital-Vizzia-featured.jpg"
-        width: 1000
-        height: 450
+      - url: "https://cdn.bignewsnetwork.com/cus1683170979548.jpg"
+        width: 630
+        height: 420
         isCached: true
-  - title: "Bringing AI Tools to the Workplace Requires a Delicate Balance"
-    excerpt: "By midyear, all of Morgan Stanley’s thousands of wealth advisers are expected to have access to a new artificial-intelligence-powered chat tool.The tool, which is already in use by about 600 staff members,"
-    publishedDateTime: 2023-05-08T20:02:00Z
-    webUrl: "https://www.spokesman.com/stories/2023/may/08/bringing-ai-tools-to-the-workplace-requires-a-deli/"
+  - title: "Thousands of hackers will soon test the limits of AI technology"
+    excerpt: "No sooner did ChatGPT get unleashed than hackers started “jailbreaking” the artificial intelligence chatbot – trying to override its safeguards so it could blurt out something unhinged or obscene. But now its maker,"
+    publishedDateTime: 2023-05-10T15:23:00Z
+    webUrl: "https://www.dailypress.com/nation-world/vp-nw-chatgpt-ai-hackers-20230510-hdgshb52pnfvbdwr22jjcyjdmi-story.html"
     type: article
     provider:
-      name: The Spokesman-Review
-      domain: spokesman.com
-    quality: 37
+      name: Daily Press
+      domain: dailypress.com
+    quality: 39
     images:
-      - url: "https://thumb.spokesman.com/o2qlnZLoJkpiNpKj1YWkMoSjY4c=/1200x630/smart/media.spokesman.com/photos/2023/05/08/645948d902eed.hires.jpg"
+      - url: "https://www.dailypress.com/resizer/BOaqPlMihMZc9VFw9XP_zlzSzdg=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/AOU5ZRXYBHSDZZIUXNBDMAUUNQ.jpg"
         width: 1200
         height: 630
         isCached: true
-  - title: "5 ways to use Google Docs’ new AI"
-    excerpt: "Google Docs' AI is handy to have AI text generation and editing inside Docs, but it’s not yet nearly as powerful or useful as alternatives like ChatGPT or Lex."
-    publishedDateTime: 2023-05-08T04:05:00Z
-    webUrl: "https://www.fastcompany.com/90892473/5-ways-to-use-google-docs-new-ai"
+  - title: "Researchers at UMich find a way to reduce the energy consumed by AI"
+    excerpt: "As AI becomes increasingly popular, researchers develop software to decrease energy consumption in an effort to lower carbon footprint."
+    publishedDateTime: 2023-05-07T23:08:00Z
+    webUrl: "https://www.michigandaily.com/news/researchers-at-umich-find-a-way-to-reduce-the-energy-consumed-by-ai/"
     type: article
     provider:
-      name: Fast Company
-      domain: fastcompany.com
+      name: The Michigan Daily
+      domain: michigandaily.com
     quality: 19
-  - title: "Google is throwing generative AI at everything"
-    excerpt: "But experts say that releasing these models into the wild before fixing their flaws could prove extremely risky for the company."
-    publishedDateTime: 2023-05-10T19:00:00Z
-    webUrl: "https://www.technologyreview.com/2023/05/10/1072880/google-is-throwing-generative-ai-at-everything/"
+  - title: "Artificial intelligence can be found in many places. How safe is the technology?"
+    excerpt: "NPR's A Martinez speaks with Jack Clark, co-founder of artificial intelligence company Anthropic, about AI safety concerns."
+    publishedDateTime: 2023-05-10T09:08:00Z
+    webUrl: "https://www.boisestatepublicradio.org/2023-05-10/artificial-intelligence-can-be-found-in-many-places-how-safe-is-the-technology"
     type: article
     provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 19
+      name: Boise State Public Radio
+      domain: boisestatepublicradio.org
+    quality: 14
+  - title: "Researchers Of Open-Source Project Advance The State Of The Art In AI For Music"
+    excerpt: "The researcher’s community has come up with an innovative way to amalgamate cutting edge technologies in speech, text, sound like the transformer-based language models and generative AI techniques to generate music using AI."
+    publishedDateTime: 2023-05-10T01:59:00Z
+    webUrl: "https://www.outlookindia.com/outlook-spotlight/researchers-of-open-source-project-advance-the-state-of-the-art-in-ai-for-music-news-284934"
+    type: article
+    provider:
+      name: Outlookindia
+      domain: outlookindia.com
+    quality: 13
 
 secured: "M83PqMHrPN2wl1eysGHRXoODqetAWzA9Fh2IUBeNNMtL/VgMiazZAUBa7xyV4jRFICaaWznszCBCu+dgCD0VaqhgrcZS4pFVXhWZA4oX0k4pAoz+u26W8EefRo66O42XONMXPpW6ZHdVOBFOMG4OddE92t15IlWhr4iPcT/AK6p/DkbWZOrkDqnBYtRxC5qx6vP5wzgFnmiqgMl0FCsxayp+S5cbczi+IDaAgzzh7+6bdyTOaEn2KMEau//gPGWV1sVYAOzh5QUcHiG/mEASFSGwhk8r5PguOixgBRLfKAJL5Sh0/XVho7BPWNyoy5Lf/lf2hK3Tc9GShTWZ6W5zAoPdGbQRYrXe+3QXmVRgI52C2UZDA7irjqa/cs/YAFnBDVR7gWRRl0kfYMM57UnI1lL8hcxVpAm7feckkDuVn50nMBkdQLDc/n3cYXJpM+lhmmSpw99HGFtifmvWx5EzumHsIZALCeQcDG66vGwwU3dYJyPrUHpN/tB9ofmXMy0QWehS9hau7RrDL4ob7bNI7A==;Pp0sqB0CIw5GnonDwLdGvg=="
 ---

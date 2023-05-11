@@ -22,20 +22,6 @@ topics:
   - AI
 
 related:
-  - title: "AI is coming to the Play Store to help both users and devs"
-    excerpt: "Like so many of the announcements during this year’s Google I/O, AI has been the star of the show and it’s turning up in almost everything. The Play Store is taking part in the action with its own set of new features,"
-    publishedDateTime: 2023-05-10T19:32:00Z
-    webUrl: "https://www.androidpolice.com/ai-is-coming-to-the-play-store-to-help-both-users-and-devs/"
-    type: article
-    provider:
-      name: Android Police
-      domain: androidpolice.com
-    quality: 39
-    images:
-      - url: "https://static1.anpoimages.com/wordpress/wp-content/uploads/2023/05/google-io-play-console-ai-hero.jpg"
-        width: 2000
-        height: 1250
-        isCached: true
   - title: "This company is paying language experts Rs 2000 per hour for training AI tools to write better responses"
     excerpt: "Scale AI, a data-labeling company, is hiring writers to train their generative AI models. Here are the details!"
     publishedDateTime: 2023-05-10T13:52:00Z

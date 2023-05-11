@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/introducing-watsonx-the-future-of-ai-for-
 webUrl: "https://www.ibm.com/blog/introducing-watsonx-the-future-of-ai-for-business/"
 type: article
 quality: 134
-heat: 298
+heat: 294
 published: true
 
 provider:

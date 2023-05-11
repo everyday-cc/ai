@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nextplatform.com/2023/05/08/ai-hype-will-drive-datacente
 cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2023/05/08/ai-hype-will-drive-datacenter-gpu-prices-sky-high/amp/"
 type: article
 quality: 74
-heat: 78
+heat: 74
 published: true
 
 provider:

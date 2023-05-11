@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2023-05-08/gptzero-seeks-t
 webUrl: "https://www.bloomberg.com/news/articles/2023-05-08/gptzero-seeks-to-thwart-plagerism-in-schools-online-media"
 type: article
 quality: 67
-heat: 91
+heat: 87
 published: true
 
 provider:

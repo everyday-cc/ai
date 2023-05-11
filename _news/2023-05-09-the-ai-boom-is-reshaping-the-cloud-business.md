@@ -26,38 +26,59 @@ images:
     isCached: true
 
 related:
-  - title: "Being bold on AI means being responsible from the start"
-    excerpt: "Google’s James Manyika discusses how Google responsibly applies AI to benefit people and society."
-    publishedDateTime: 2023-05-10T18:16:00Z
-    webUrl: "https://blog.google/technology/ai/google-responsible-ai-io-2023/"
+  - title: "Google is transforming the cloud with AI — for both developers and regular users"
+    excerpt: "Google is integrating generative AI into its cloud via a new interface, Duet AI, that helps make cloud developers and users more productive."
+    publishedDateTime: 2023-05-10T23:05:00Z
+    webUrl: "https://venturebeat.com/ai/google-is-transforming-the-cloud-with-ai-for-both-developers-and-regular-users/"
+    ampWebUrl: "https://venturebeat.com/ai/google-is-transforming-the-cloud-with-ai-for-both-developers-and-regular-users/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/google-is-transforming-the-cloud-with-ai-for-both-developers-and-regular-users/amp/"
     type: article
     provider:
-      name: Google
-      domain: blog.google
-    quality: 69
-  - title: "New Arlington startup emerges with a goal of helping organizations adopt AI responsibly"
-    excerpt: "Properties and written by ARLnow, Startup Monday is a weekly column that highlights Arlington-based startups, founders, and local tech news. Monday Properties is proudly featuring 1515 Wilson Blvd in Rosslyn."
-    publishedDateTime: 2023-05-08T16:45:00Z
-    webUrl: "https://www.arlnow.com/2023/05/08/a-new-startup-emerges-with-a-goal-of-helping-organizations-adopt-ai-responsibly/"
-    type: article
-    provider:
-      name: ARLnow.com
-      domain: arlnow.com
-    quality: 29
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 82
     images:
-      - url: "https://s26551.pcdn.co/wp-content/uploads/2023/05/Gerald-Andrew-–-Trustible-Founders-e1683559642837.jpg"
-        width: 1149
-        height: 984
+      - url: "https://venturebeat.com/wp-content/uploads/2023/05/Duet1-e1683757951578.jpg?w=1200&strip=all"
+        width: 1200
+        height: 905
         isCached: true
-  - title: "Executives from leading companies share how to achieve responsible AI"
-    excerpt: "As AI technology continues to evolve at a rapid clip, companies need clearly defined and rigorously implemented internal governance policies."
-    publishedDateTime: 2023-05-08T13:00:00Z
-    webUrl: "https://www.fastcompany.com/90891982/executives-from-leading-ai-companies-share-how-to-achieve-responsible-ai"
+  - title: "AI Expert Exits Google and Joins Others in Voicing the Tech's Dangers"
+    excerpt: "In an interview with The New York Times, Geoffrey Hinton says AI-generated content will lead to misinformation and job loss."
+    publishedDateTime: 2023-05-06T12:01:00Z
+    webUrl: "https://www.cnet.com/news/misinformation/ai-expert-exits-google-and-joins-others-in-voicing-techs-dangers/"
     type: article
     provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 19
+      name: CNET
+      domain: cnet.com
+    quality: 47
+  - title: "Google rolls out tools for developers to build machine learning and AI into their products"
+    excerpt: "Google LLC is rolling out a number of tools for developers to build machine learning and artificial intelligence into their applications using high-performance AI models and solutions. At Google I/O,"
+    publishedDateTime: 2023-05-10T20:42:00Z
+    webUrl: "https://siliconangle.com/2023/05/10/google-rolls-tools-developers-build-machine-learning-ai-products/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 44
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/12/network-g714c9891c_1280.jpg"
+        width: 1280
+        height: 853
+        isCached: true
+  - title: "AI is coming to the Play Store to help both users and devs"
+    excerpt: "Like so many of the announcements during this year’s Google I/O, AI has been the star of the show and it’s turning up in almost everything. The Play Store is taking part in the action with its own set of new features,"
+    publishedDateTime: 2023-05-10T19:32:00Z
+    webUrl: "https://www.androidpolice.com/ai-is-coming-to-the-play-store-to-help-both-users-and-devs/"
+    type: article
+    provider:
+      name: Android Police
+      domain: androidpolice.com
+    quality: 39
+    images:
+      - url: "https://static1.anpoimages.com/wordpress/wp-content/uploads/2023/05/google-io-play-console-ai-hero.jpg"
+        width: 2000
+        height: 1250
+        isCached: true
 
 secured: "hbhId3+zieRLuwhY/VkUjlPBsq3E8H51EDbbZ3O1PonjIq7nq1xyIxUFSjWYmixnwpnOCybC0FJ3ZkpPX8sjsVyrA2FvcvBjsLUmC7O0adIEjMXNnYVOaByLPFobQFCRolgg/SMVvfdplPmCbfEaRfJUsOXuroYJhv/eobxHb4Th4oJyFLrljEH24oNWOnm5sIh6jh+KKAQYrc46/a0uM3uJ+hduF1QvwJHkKo1ZTACmtahukzdo2T7RjT1YHTw38DTCeIZLT2YcPnD4VWj1yuA72hvwkaneyTiXWIn+2MC1PplM9vjsFFeXJLIUHzt7O/tlNBeLCQ5XWOrhrBf4BCA0YXNMKL5OjV77r/cRqYk=;tENzV3l/btLLRTtbp3YesA=="
 ---

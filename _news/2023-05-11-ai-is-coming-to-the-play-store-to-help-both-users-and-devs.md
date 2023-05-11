@@ -25,27 +25,60 @@ images:
     isCached: true
 
 related:
-  - title: "AI Is Coming for Your Web Browser. Here’s How to Use It"
-    excerpt: "Microsoft Edge and other browsers have baked in powerful tools to help you write emails, generate images, and more."
-    publishedDateTime: 2023-05-07T11:00:00Z
-    webUrl: "https://www.wired.com/story/ai-web-browser-microsoft-edge-how-to/"
+  - title: "Google is transforming the cloud with AI — for both developers and regular users"
+    excerpt: "Google is integrating generative AI into its cloud via a new interface, Duet AI, that helps make cloud developers and users more productive."
+    publishedDateTime: 2023-05-10T23:05:00Z
+    webUrl: "https://venturebeat.com/ai/google-is-transforming-the-cloud-with-ai-for-both-developers-and-regular-users/"
+    ampWebUrl: "https://venturebeat.com/ai/google-is-transforming-the-cloud-with-ai-for-both-developers-and-regular-users/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/google-is-transforming-the-cloud-with-ai-for-both-developers-and-regular-users/amp/"
     type: article
     provider:
-      name: Wired
-      domain: wired.com
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 82
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/05/Duet1-e1683757951578.jpg?w=1200&strip=all"
+        width: 1200
+        height: 905
+        isCached: true
+  - title: "AI Expert Exits Google and Joins Others in Voicing the Tech's Dangers"
+    excerpt: "In an interview with The New York Times, Geoffrey Hinton says AI-generated content will lead to misinformation and job loss."
+    publishedDateTime: 2023-05-06T12:01:00Z
+    webUrl: "https://www.cnet.com/news/misinformation/ai-expert-exits-google-and-joins-others-in-voicing-techs-dangers/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
     quality: 47
-  - title: "This company is paying language experts Rs 2000 per hour for training AI tools to write better responses"
-    excerpt: "Scale AI, a data-labeling company, is hiring writers to train their generative AI models. Here are the details!"
-    publishedDateTime: 2023-05-10T13:52:00Z
-    webUrl: "https://economictimes.indiatimes.com/news/new-updates/this-company-is-paying-language-experts-rs-2000-per-hour-for-training-ai-tools-to-write-better-responses/articleshow/100138449.cms"
-    ampWebUrl: "https://m.economictimes.com/news/new-updates/this-company-is-paying-language-experts-rs-2000-per-hour-for-training-ai-tools-to-write-better-responses/amp_articleshow/100138449.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/news/new-updates/this-company-is-paying-language-experts-rs-2000-per-hour-for-training-ai-tools-to-write-better-responses/amp_articleshow/100138449.cms"
+  - title: "Google rolls out tools for developers to build machine learning and AI into their products"
+    excerpt: "Google LLC is rolling out a number of tools for developers to build machine learning and artificial intelligence into their applications using high-performance AI models and solutions. At Google I/O,"
+    publishedDateTime: 2023-05-10T20:42:00Z
+    webUrl: "https://siliconangle.com/2023/05/10/google-rolls-tools-developers-build-machine-learning-ai-products/"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 22
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 44
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/12/network-g714c9891c_1280.jpg"
+        width: 1280
+        height: 853
+        isCached: true
+  - title: "The AI boom is reshaping the cloud business"
+    excerpt: "To support generative AI models, AWS, Microsoft and Google Cloud are investing in infrastructure and maneuvering to manage cost."
+    publishedDateTime: 2023-05-08T21:01:00Z
+    webUrl: "https://www.ciodive.com/news/AWS-Microsoft-Google-cloud-infrastructure-AI-ML-compute/649712/"
+    type: article
+    provider:
+      name: CIO Dive
+      domain: ciodive.com
+    quality: 41
+    images:
+      - url: "https://www.ciodive.com/imgproxy/ArdjKqH_M6Qda4q_61cVhQAyFro4BqPoZNqLfAFdujU/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTgwMjMyMDgzNl9yV0VrMjI5LmpwZw.jpg"
+        width: 770
+        height: 435
+        isCached: true
 
-secured: "6dXxlMLCFzST9MtrYZGWTBfDw33gsbsbmxcgWLuMgUGXdDNQVQhom9mQRC7qow0djKpYqKSdPhYXQ6fvKrZ8xRy8ufyE7a37WaWodcnziflPjZZZpkukLIQyvSvXdfiy4eiyWZ6/8zgCC5scFNTdLP9PaoNU0s9tg0j51wy4AZhMrFw82jwMf/XnfGPJzywCog8/zV2XPftiw9LltiQqvZAz1i7hgiw1sUJ2ZV6vGy7aIJw633HhdGS0Gjol20Gv98qp7vdhza+hZSS4eip2Qf5GlVBGQKhTFayv5lwQ8BpnZGtvCjkAwCHu7bAdfqM058M1ySxVdU/5mHUgkshtgQVzN3IzxN32igQiqjF1Qi0=;qrHmgXDss7praHsioXv/uA=="
+secured: "THKtNROYeaNiD5klufoXfq0BM/Nuyg7bS3id72LnkKXa6CT7MQJIhe4filL4Oolqbjd/4jqyCwTfnWNRoPXTI2GULGeRZMTTPUzwT/Ek+LuHHhyZY8LD0NgU8YPznUIEmoXFiFhEMgZnRyNjtfRGMW+iBFWcGvUyXnY+OFhOtXkxAUSFEggbF6nBVR1kwba3+/EPo+9L5JAakY7urLKi/HmC0r10lseTlNvNrVQg1jlD6un7A1tWhi0HMbA/f5m7QPbge1JcdXBgbPOH2aV3lh912EyxQCd0AcqWcT0BHyDODd+MyaJBQwu4VA1z75cVqguTN1reekshk8K6vKP8XvreUDv5AZw5/2qIbASfnUw4zo+RdMzLgWWaay8kS59Ymht167jT7OcMnNl7qjC1z7huNWDX9yEMWBw+S20RtQdYc7FPeZ3OjR/FTrm5ojrF9mHxRURXo+SQ/GVCeJH2m/9NecIYPKeiXTWIVZ0Jr/muQfWtMJswEuSBYb+awpucKEPtEx4kDoWeaoDCI+QIGQ==;qH2bnGmBnYWzKjJ72b78GA=="
 ---
 

@@ -82,15 +82,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
-  - title: "Google Ups Its Game in AI-Powered Search"
-    excerpt: "Google announced a flurry of new initiatives in artificial intelligence software, boosting the capabilities of search and making Bard widely available."
-    publishedDateTime: 2023-05-10T19:33:00Z
-    webUrl: "https://www.barrons.com/articles/google-ai-search-f718334"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 19
 
 secured: "86WYhUfoRX+yeWbGqmgiEmcg7JO4MhIJ1U6kSPpvZzai3N/LE771FxTusQFmOHbYR4cXjpA1ditKp3XOV1z1V01yWjOPzufL+LRqD7GBoQE7xMjrgD8L059n3X+CeY1G7OC+c715+lx01YZBoAJclkqngOqAORWghgpessD5UyV37W1t9HgxZxEfgJhkWks8K7PuENX+Ll0v1+Ma5o5EnIsXYEXhYsMMtRuX/a+ez1PHPQnDd2wLqQMJJzSn2t9tf+nxun3ARZJZUbM7eLDTCV5tg4lG2nalcRA4ZMxo9UVqO3aFHySYILv+dwsOntBSsmnPttlgBE97TXxtfEyWB6TAeHXzN9xXAiafdcuFDrp4fBpUEN2/1C+u2GKxWNUhF5i2x1hp98ZIt986yBcLcETsPzfB6YQZstj1XzZdjqYqckj64Q4tn7lIIjO5hXsl4g5R1k+VMkYjvHHNuDDW3B7xAymytXzofZiMy8SbzglE/ByoR5/S4r7BxyRLzKtGCwFgXZhdC4w8o4kdSpeOhQ==;JrcDugrHPnxUhF8OjE53ig=="
 ---
