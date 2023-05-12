@@ -28,6 +28,84 @@ images:
     isCached: true
 
 related:
+  - title: "ChatGPT: Everything you need to know about the AI-powered chatbot"
+    excerpt: "Here's a guide to help understand Open AI's viral text-generating system. We outline the most recent updates and answer the most common FAQs."
+    publishedDateTime: 2023-05-12T18:22:00Z
+    webUrl: "https://techcrunch.com/2023/05/12/chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot/"
+    ampWebUrl: "https://techcrunch.com/2023/05/12/chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/12/chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 89
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1462188043.jpg?resize=1200,798"
+        width: 1200
+        height: 798
+        isCached: true
+  - title: "Snapchat Star Earns $70,000 With Sexy ChatGPT AI: Here’s How She Did It"
+    excerpt: "Meet CarynAI - the answer to loneliness by an enterprising social media influencer."
+    publishedDateTime: 2023-05-11T19:58:00Z
+    webUrl: "https://www.forbes.com/sites/martineparis/2023/05/11/carynai-virtual-date-earned-70000-with-sexy-chatgpt-ai-heres-how/"
+    ampWebUrl: "https://www.forbes.com/sites/martineparis/2023/05/11/carynai-virtual-date-earned-70000-with-sexy-chatgpt-ai-heres-how/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martineparis/2023/05/11/carynai-virtual-date-earned-70000-with-sexy-chatgpt-ai-heres-how/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/645d5d77a5a034c6f9e63673/0x0.jpg?format=jpg&width=1200"
+        width: 1066
+        height: 628
+        isCached: true
+  - title: "The Crucial Ways That Religion And Generative AI ChatGPT Are Crossing Fateful Faithful Paths"
+    excerpt: "Religion and generative AI such as ChatGPT are crossing paths, here's a comprehensive look at this fateful faithful intertwining, including upsides and downsides."
+    publishedDateTime: 2023-05-10T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/05/10/the-crucial-ways-that-religion-and-generative-ai-chatgpt-are-crossing-fateful-faithful-paths/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/05/10/the-crucial-ways-that-religion-and-generative-ai-chatgpt-are-crossing-fateful-faithful-paths/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/05/10/the-crucial-ways-that-religion-and-generative-ai-chatgpt-are-crossing-fateful-faithful-paths/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 80
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64591690fd83c13dff9c02fa/0x0.jpg?format=jpg&crop=3240,2160,x432,y0,safe&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Here is how Europe is pushing to regulate artificial intelligence as ChatGPT rapidly emerges"
+    excerpt: "The European Union voted to strengthen regulations around artificial intelligence. Here is a look into how chatbots such as ChatGPT could be regulated in the continent."
+    publishedDateTime: 2023-05-11T13:51:00Z
+    webUrl: "https://www.foxnews.com/world/europe-pushing-regulate-artificial-intelligence-chatgpt-rapidly-emerges"
+    ampWebUrl: "https://www.foxnews.com/world/europe-pushing-regulate-artificial-intelligence-chatgpt-rapidly-emerges.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/world/europe-pushing-regulate-artificial-intelligence-chatgpt-rapidly-emerges.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 76
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/937be039-5093-4a38-8920-5ec96c812149/b1154edd-fccf-4619-a5be-9436eb80ad9d/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Pearson Outlines AI Plans After ChatGPT Share Price Jitters"
+    excerpt: "Education publisher Pearson Plc is outlining how it’s integrating artificial intelligence across its operations a week after its shares fell over fears that AI tools such as ChatGPT will undermine its business."
+    publishedDateTime: 2023-05-09T08:49:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-05-09/pearson-outlines-ai-plans-after-chatgpt-share-price-jitters"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 67
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ihlllbzYnWLY/v0/1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Wendy’s, Google Train Next-Generation Order Taker: an AI Chatbot"
     excerpt: "The fast-food chain has customized a language model with terms like “JBC” for junior bacon cheeseburger and “biggie bags” for meal combos."
     publishedDateTime: 2023-05-09T10:45:00Z
@@ -41,6 +119,38 @@ related:
       - url: "https://images.wsj.net/im-777889/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "State-sponsored Chinese AI firm launches bot service to ‘surpass’ ChatGPT"
+    excerpt: "State-subsidized AI company Iflytek recently launched a GPT competitor it says will rival and surpass OpenAI's popular ChatGPT service by the end of the year."
+    publishedDateTime: 2023-05-08T18:59:00Z
+    webUrl: "https://cointelegraph.com/news/state-sponsored-chinese-ai-firm-launches-bot-service-to-surpass-chatgpt"
+    ampWebUrl: "https://cointelegraph.com/news/state-sponsored-chinese-ai-firm-launches-bot-service-to-surpass-chatgpt/amp"
+    cdnAmpWebUrl: "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/state-sponsored-chinese-ai-firm-launches-bot-service-to-surpass-chatgpt/amp"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 58
+    images:
+      - url: "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=740/https://s3.cointelegraph.com/uploads/2023-05/0d9506a7-6cf2-4379-93bc-8e9bcca5d1ef.jpg"
+        width: 740
+        height: 493
+        isCached: true
+  - title: "ChatGPT: Can students pass using AI tools at university?"
+    excerpt: "As with most universities, Bath's policy on ChatGPT and other AI tools is still in the works. It is due to be in place from September. After that, a team will meet throughout the year to ensure it keeps up with the rapidly changing technology. In the meantime, many staff are once again setting in-person, invigilated summer exams."
+    publishedDateTime: 2023-05-09T07:26:00Z
+    webUrl: "https://www.bbc.co.uk/news/education-65316283"
+    ampWebUrl: "https://www.bbc.co.uk/news/education-65316283.amp"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/education-65316283.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 57
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/0991/production/_129594420_gettyimages-1460902077.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "Wendy’s to test AI chatbot that takes your drive-thru order"
     excerpt: "US fast-food chain says pilot program ‘seeks to take the complexity out of the ordering process’"
@@ -58,31 +168,181 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "Google is helping Wendy’s build an AI drive-thru"
-    excerpt: "It has also been trained on the company’s established business practices and was given logical and conversational guardrails."
-    publishedDateTime: 2023-05-10T22:00:00Z
-    webUrl: "https://www.popsci.com/technology/wendys-google-drive-thru-ai/"
-    ampWebUrl: "https://www.popsci.com/technology/wendys-google-drive-thru-ai/?amp"
-    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/wendys-google-drive-thru-ai/?amp"
+  - title: "Comment: New chatbot is being taught Asimov’s laws of robotics"
+    excerpt: "Technology companies are falling over themselves to promote expertise in generative AI, the hot new technology that churns out text and images as well as humans can. But few are clamoring for the title of “safest AI firm."
+    publishedDateTime: 2023-05-08T08:30:00Z
+    webUrl: "https://www.heraldnet.com/opinion/comment-new-chatbot-is-being-taught-asimovs-laws-of-robotics/"
     type: article
     provider:
-      name: Popular Science
-      domain: popsci.com
-    quality: 57
+      name: HeraldNet
+      domain: heraldnet.com
+    quality: 54
     images:
-      - url: "https://www.popsci.com/uploads/2023/05/10/batu-gezer-AGGhkGuVs2w-unsplash.jpg?auto=webp"
-        width: 2000
-        height: 1125
+      - url: "http://www.heraldnet.com/wp-content/uploads/2017/04/heraldnet_logo.png"
+        width: 400
+        height: 400
         isCached: true
-  - title: "Wendy’s hired Google AI to take your drive-through order"
-    excerpt: "The next time you get a craving for a spicy chicken sandwich, you might have to ask an AI to ring it up for you. American fast food burger chain Wendy’s is teaming up with Google to make an AI-powered chatbot for taking drive-through food orders,"
-    publishedDateTime: 2023-05-09T13:53:00Z
-    webUrl: "https://www.pcworld.com/article/1814175/wendys-hired-google-ai-to-take-your-drive-through-order.html"
+  - title: "Why are patients turning to artificial intelligence chatbots for medical advice?"
+    excerpt: "The future of medicine may have arrived sooner than expected, with patients turning to artificial intelligence (AI) chatbots for medical advice."
+    publishedDateTime: 2023-05-09T15:18:00Z
+    webUrl: "https://www.cbsnews.com/baltimore/news/patients-chatbots-johns-hopkins-medical-artificial-intelligence/"
+    ampWebUrl: "https://www.cbsnews.com/amp/baltimore/news/patients-chatbots-johns-hopkins-medical-artificial-intelligence/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/baltimore/news/patients-chatbots-johns-hopkins-medical-artificial-intelligence/"
     type: article
     provider:
-      name: PC World
-      domain: pcworld.com
-    quality: 47
+      name: CBS News
+      domain: cbsnews.com
+    quality: 54
+    images:
+      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/04/24/c4999830-60ba-4f2c-8a27-e425e120b9de/thumbnail/1200x630/3456dcd79d8e3d3aa1bf1afe24daefdd/gettyimages-1158779006.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Google’s Bard AI chatbot launches in Australia with vow to develop it ethically"
+    excerpt: "Company says its AI programs will include watermarks and metadata saying content is AI-generated as ChatGPT rival rolls out in more than 180 countries"
+    publishedDateTime: 2023-05-11T02:03:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/may/11/bard-ai-google-artificial-intelligence-chatbot-palm-2-launches-australia-chatgpt-competitor"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/may/11/bard-ai-google-artificial-intelligence-chatbot-palm-2-launches-australia-chatgpt-competitor"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/may/11/bard-ai-google-artificial-intelligence-chatbot-palm-2-launches-australia-chatgpt-competitor"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 53
+    images:
+      - url: "https://i.guim.co.uk/img/media/7a59770144a805dedfc4fe4482458935dcbdf700/0_167_5000_3000/master/5000.jpg?width=620&quality=85&auto=format&fit=max&s=4ac865513b8bd74f729741d48cc72e06"
+        width: 620
+        height: 372
+        isCached: true
+  - title: "edX Debuts Two AI-Powered Learning Assistants Built on ChatGPT"
+    excerpt: "X plugin launches in ChatGPT plugin store to give users access to content and course discovery edX Xpert delivers AI-powered learning and"
+    publishedDateTime: 2023-05-12T14:14:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/edx-debuts-two-ai-powered-learning-assistants-built-on-chatgpt-1032322930"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
+  - title: "How AI robots can affect Filipino domestic workers worldwide amid ChatGPT concerns"
+    excerpt: "The discussion of artificial intelligence and robots taking over human jobs has reached another point following a recent study revolving around unpaid domestic help."
+    publishedDateTime: 2023-05-09T07:30:00Z
+    webUrl: "https://www.philstar.com/lifestyle/on-the-radar/2023/05/09/2264997/how-ai-robots-can-affect-filipino-domestic-workers-worldwide-amid-chatgpt-concerns"
+    type: article
+    provider:
+      name: philstar.com
+      domain: philstar.com
+    quality: 48
+    images:
+      - url: "https://media.philstar.com/photos/2023/05/09/ofw2019-11-0921-24-08_2023-05-09_13-35-26.jpg"
+        width: 800
+        height: 494
+        isCached: true
+  - title: "ChatGPT and Generative AI: Our Guide to 2023's Most Talked-About Technology"
+    excerpt: "ChatGPT brought generative AI into the limelight when it hit 1 million users in five days. But how valid is the buzz around ChatGPT?"
+    publishedDateTime: 2023-05-12T18:30:00Z
+    webUrl: "https://www.businessinsider.com/chatgpt-generative-ai-guide-to-2023-most-talked-about-technology-2023-may"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 45
+  - title: "I asked ChatGPT, Bing, and Bard what worries them. Google's AI went Terminator on me"
+    excerpt: "Just to be clear: this is not science fiction. Chatbots might have some worries that might, in turn, worry us just a bit."
+    publishedDateTime: 2023-05-08T17:14:00Z
+    webUrl: "https://www.zdnet.com/article/i-asked-chatgpt-bing-and-bard-what-worries-them-googles-ai-went-terminator-on-me/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 40
+  - title: "UAE: New Chatgpt AI Assistant To Help Plan Visits To Yas Island"
+    excerpt: "Visitors to Abu Dhabi's Yas Island can now get personalised guidance and information about the latest offerings through an AI assistant. Miral, the leading creator of immersive destinations and experiences based in Abu Dhabi,"
+    publishedDateTime: 2023-05-09T19:34:00Z
+    webUrl: "https://menafn.com/1106210851/UAE-New-Chatgpt-AI-Assistant-To-Help-Plan-Visits-To-Yas-Island"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/updates/pr/2023-05/09/KT_6610bimage_story.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "ChatGPT Fever Has Investors Pouring Billions Into AI Startups, No Business Plan Required"
+    excerpt: "It is boom times for startups touting generative artificial intelligence technology."
+    publishedDateTime: 2023-05-09T11:51:00Z
+    webUrl: "https://www.wsj.com/articles/no-business-plan-no-problem-chatgpt-spawns-an-investor-gold-rush-in-ai-6bdbed3c"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 38
+  - title: "It’s Not Just About ChatGPT. Other AI Technologies Are Heading to Schools"
+    excerpt: "How can schools stay on top of this rapidly changing technology? And how can educators separate hype from substance? Education Week asked four experts in technology, education, and artificial intelligence to look into their crystal balls and share their thoughts on how AI will likely change teaching and learning."
+    publishedDateTime: 2023-05-09T15:33:00Z
+    webUrl: "https://www.edweek.org/technology/its-not-just-about-chatgpt-other-ai-technologies-are-heading-to-schools/2023/05"
+    type: article
+    provider:
+      name: Education Week
+      domain: edweek.org
+    quality: 38
+    images:
+      - url: "https://epe.brightspotcdn.com/dims4/default/9881dba/2147483647/strip/true/crop/1720x1150+0+0/resize/942x630!/quality/90/?url=https%3A%2F%2Fepe-brightspot.s3.amazonaws.com%2F41%2F85%2Fe0e49f244864a15de5d019ef2da6%2F050423-edtech-beyond-chat-gpt-fs-prothero.jpg"
+        width: 942
+        height: 630
+        isCached: true
+  - title: "I asked AI bot ChatGPT to write a column on happiness. Here’s what happened next"
+    excerpt: "I had to find out for myself. So I conducted a little experiment. I asked ChatGPT to write an article for me. I submitted the prompt, “Write a 500-word column on happiness.” That’s a broad, overworked topic,"
+    publishedDateTime: 2023-05-08T21:21:00Z
+    webUrl: "https://www.aol.com/news/asked-ai-bot-chatgpt-write-180244290.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 32
+    images:
+      - url: "https://media.zenfs.com/en/aol_san_luis_obispo_tribune_mcclatchy_563/9121ec7733a744f8785aa5baaae9181f"
+        width: 1140
+        height: 759
+        isCached: true
+  - title: "Torah is the anti-ChatGPT. But we can embrace artificial intelligence without losing our soul."
+    excerpt: "I recently asked ChatGPT, the online chatbot, to write a verse in the style of the Bible about robots taking over the world."
+    publishedDateTime: 2023-05-08T17:43:00Z
+    webUrl: "https://www.jewishaz.com/opinion/torah-is-the-anti-chatgpt-but-we-can-embrace-artificial-intelligence-without-losing-our-soul/article_9fbb6fd6-edc7-11ed-91cd-2bcf69a3d42b.html"
+    type: article
+    provider:
+      name: Northern Arizona Jewish News
+      domain: jewishaz.com
+    quality: 27
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/jewishaz.com/content/tncms/assets/v3/editorial/2/eb/2eb5d1d6-edc8-11ed-9209-b32e3208dd0a/645935bcdbcea.image.jpg?crop=1931%2C1014%2C0%2C29&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "How To Write Code With ChatGPT"
+    excerpt: "According to Botpress, OpenAI built ChatGPT using three core programming languages: Python, PyTorch, and TensorFlow. Also, it used other languages for additional frameworks, including, Gensim, NLTK, OpenNMT-py, and spaCy. The AI program also uses libraries ..."
+    publishedDateTime: 2023-05-10T00:00:00Z
+    webUrl: "https://technology.inquirer.net/123907/how-to-write-code-with-chatgpt"
+    type: article
+    provider:
+      name: Philippine Daily Inquirer
+      domain: inquirer.net
+    quality: 24
+    images:
+      - url: "https://technology.inquirer.net/files/2023/05/ChatGPT-coding-featured-image-tryamigo.com_-620x349.png"
+        width: 620
+        height: 349
+        isCached: true
+  - title: "ChatGPT May Have a Big Role in Healthcare"
+    excerpt: "If the results of a recent study are any indication, ChatGPT may soon be professionally responding to patients’ written health-related questions. Virtual healthcare drastically expanded during t"
+    publishedDateTime: 2023-05-09T05:00:00Z
+    webUrl: "https://www.realclearscience.com/articles/2023/05/09/chatgpt_may_have_a_big_role_in_healthcare_898337.html"
+    type: article
+    provider:
+      name: RealClearScience
+      domain: realclearscience.com
+    quality: 19
   - title: "Wendy's testing AI chatbot that takes drive-thru orders"
     excerpt: "Fast food chain Wendy's is partnering with Google Cloud on an AI chatbot to take orders at a drive-thru, the company announced. Wendy's FreshAI will be launched in June as a pilot in a Columbus, Ohio area restaurant."
     publishedDateTime: 2023-05-10T19:43:00Z
@@ -101,6 +361,33 @@ related:
       name: Gadgets Now
       domain: gadgetsnow.com
     quality: 17
+  - title: "I asked ChatGPT where it'd put Brightline stop on Treasure Coast; here's what AI bot said"
+    excerpt: "A TCPalm columnist asked artificial intelligence application ChatGPT where it would put a Brightline train station. Its answer was intriguing."
+    publishedDateTime: 2023-05-12T10:01:00Z
+    webUrl: "https://www.tcpalm.com/story/opinion/columnists/laurence-reisman/2023/05/12/ai-chatgpt-says-where-brightline-should-put-station-on-treasure-coast/70180635007/"
+    type: article
+    provider:
+      name: Treasure Coast Newspapers
+      domain: tcpalm.com
+    quality: 10
+  - title: "Mo, an AI Chatbot Powered by Morningstar Intelligence Engine, Debuts in Morningstar Platforms"
+    excerpt: "(Nasdaq: MORN), a leading provider of independent investment insights, today launched a beta version of its generative artificial intelligence chatbot named \"Mo\" across Morningstar Investor, Research Portal,"
+    publishedDateTime: 2023-05-11T12:41:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/05/11/9812464.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 8
+  - title: "Google ups the ante on AI to compete with ChatGPT. Here's how search and Gmail will change."
+    excerpt: "Here's how Google is introducing more AI into your everyday computing experience. Google unveiled a suite of new functions for both PCs and phones."
+    publishedDateTime: 2023-05-12T18:51:00Z
+    webUrl: "https://www.usatoday.com/story/tech/2023/05/12/google-ai-search-gmail-changes-chatgpt/70211454007/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 7
 
 secured: "t0Iq0aeQ80ziw0JcS0zlUJXLs+zxz/+ob9DtDJJ6r1vbsvxvbnMevKpWjOUk5xObbj+uQlmrWs63CbZVyocPgxsUmnYvduotr9L54CZGA5zryCf47B+e3u/GtXOVzeFxdQfmAqNBdez9HG9dZLevCtKm6G2U+KsJz7gW/lU1SPPr0fiIGw6+f+yvX6L3gtoK9zzodt+yPTPDSV5HmKJ5EdbRWU+Gh8NuzB/hzwCI4/FN6kyJR3FoglHvDSU+OqpVORJi82mAYYaiqxV4pqGx4EmkMpa0bVtmx7dpDLhJRSPkWycXHhPgotBk04vhNck7Kg04z0nXPY8pKpiL3WfrRyeL29/bKe7NLOgMabAJarhNkplPjRRzAK5AjnuuiYXBezRGxhGIqi7yl95eb1LNCu7xLi1WqYa6WlFN7M4B2BHDPRf5Ntqi4zqHxMpYnrd9OVs3H/Ud8tgV2eDf2I8jOuEzYyLzSQy5IqnqabkpsgbaD+3IslaefBwgSDxjULgRev4KCRNgsT/zN2L841QnEA==;iV/TifusJnGre6NyKbI2Xg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://phys.org/news/2023-05-students-positive-ai-uncertain-survey.
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-05-students-positive-ai-uncertain-survey.amp"
 type: article
 quality: 49
-heat: -1
+heat: 49
 published: false
 
 provider:
@@ -26,33 +26,15 @@ images:
     isCached: true
 
 related:
-  - title: "ChatGPT: Can students pass using AI tools at university?"
-    excerpt: "As with most universities, Bath's policy on ChatGPT and other AI tools is still in the works. It is due to be in place from September. After that, a team will meet throughout the year to ensure it keeps up with the rapidly changing technology. In the meantime, many staff are once again setting in-person, invigilated summer exams."
-    publishedDateTime: 2023-05-09T07:26:00Z
-    webUrl: "https://www.bbc.co.uk/news/education-65316283"
-    ampWebUrl: "https://www.bbc.co.uk/news/education-65316283.amp"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/education-65316283.amp"
+  - title: "AI in Education: Students’ Views on Chatbots and Cheating"
+    excerpt: "The majority of the students surveyed expressed positive views towards AI tools like ChatGPT, with more than a third using them regularly."
+    publishedDateTime: 2023-05-11T14:46:00Z
+    webUrl: "https://neurosciencenews.com/chatbot-ai-education-23213/"
     type: article
     provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 57
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/0991/production/_129594420_gettyimages-1460902077.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Seeing potential learning tool, Boston University academic unit outlines policies for student use of AI"
-    excerpt: "It’s not just a case of chatbots in the classroom – while some schools shy away from using ChatGPT, Boston University is embracing the"
-    publishedDateTime: 2023-05-08T21:06:00Z
-    webUrl: "https://whdh.com/news/seeing-potential-learning-tool-boston-university-academic-unit-outlines-policies-for-student-use-of-ai/"
-    ampWebUrl: "https://whdh.com/news/seeing-potential-learning-tool-boston-university-academic-unit-outlines-policies-for-student-use-of-ai/amp/"
-    cdnAmpWebUrl: "https://whdh-com.cdn.ampproject.org/c/s/whdh.com/news/seeing-potential-learning-tool-boston-university-academic-unit-outlines-policies-for-student-use-of-ai/amp/"
-    type: article
-    provider:
-      name: WHDH
-      domain: whdh.com
-    quality: 23
+      name: Neuroscience News
+      domain: neurosciencenews.com
+    quality: 36
 
 secured: "cIYXL6JEqjJva7GLaH1t6CWSmT32wezFwxc9NjTeYG5FQ6uDLjG3KOtLSiBbw/7QzGXEIG2qtUPvFVmFnSKF5GuBHbJPJVyw4l6TfKlctZR00+TjvbFvIkdIur4E8tqgQI+D2zyek32Fyi6zBYY4nGxUkTauEIotvXaxikF3WtT0VPz9eKOP/cr1HseOrC8bKMGeCcgPAjlFna+oxjhA9TAnfBIjcllu80+fzvmpSWRowvSJAMC5sSyCVu/SKFytPUcWbWTpEDglEqA1IKaiyR2FE4w0FNeWtuonfYiuByMddy1ZouRjhzqDJIlBVneKo6kT7K4zrBDo48KVdnNhqmp3uzl7elvBesWczJ4PJ/cplnPlPlDsTahhwHd6SxC23mmGKfJNfp5GmBigfT4ra+2P4C5pGdPW5Ecd4f+CqydNOEVWypSE6vxsOiPWIeaPQQt3Ck4USPFqz+PAQ5GQoRJ2ZR4Ax3OZEaXGlL5BpqktznHhl0PvitPyaXtBsfhRXXzGvT/HOkDH3XUU9YxMrw==;te+8POTFw3a+p8YhJrj1sA=="
 ---

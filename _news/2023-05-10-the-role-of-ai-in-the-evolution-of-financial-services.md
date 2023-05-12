@@ -110,6 +110,15 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "ChatGPT and Generative AI in Insurance: Reality, Hype, What's Next, and How to Prepare"
+    excerpt: "ChatGPT is the most talked-about technology of 2023 and has piqued the interest of insurance industry leaders."
+    publishedDateTime: 2023-05-12T18:00:00Z
+    webUrl: "https://www.businessinsider.com/generative-ai-in-insurance-reality-next-hype-how-to-prepare-2023-may"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 39
   - title: "Leveraging AI in telecoms to enhance offerings and maximise operations"
     excerpt: "As the use cases and opportunities for AI continue to emerge, there are a host of tech-driven approaches telco leaders can integrate into their operations, utilising software like ChatGPT."
     publishedDateTime: 2023-05-09T11:37:00Z

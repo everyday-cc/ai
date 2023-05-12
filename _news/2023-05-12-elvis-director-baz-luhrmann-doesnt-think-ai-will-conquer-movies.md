@@ -22,6 +22,17 @@ topics:
   - AI Ethics
   - AI
 
+related:
+  - title: "Baz Luhrmann Mulls Over the Future of A.I. Art with a Robot"
+    excerpt: "Sitting in the upstairs lounge at the Chelsea Factory in Manhattan, filmmaker Baz Luhrmann leaned across a pleather couch and recited a few lines. “I see all the future and the past, and all that is outside my eyes,"
+    publishedDateTime: 2023-05-12T18:34:00Z
+    webUrl: "https://observer.com/2023/05/baz-luhrmann-mulls-over-the-future-of-a-i-art-with-a-robot/"
+    type: article
+    provider:
+      name: observer
+      domain: observer.com
+    quality: 19
+
 secured: "eMAjbHs3vWf2TME1ODH94L5xdpu6OUJSNXM/Eelb0TyXDCNRWBCl2sgUUNyy6gL6maT1MRHUSf2Zn3iFeceSesyPo5tdlGm6ik0J8XTC5d8824ZE9ZeAsT9n+34E4PktJkkZPDk6nBNteU75CVE/1DKNUiBAan6wa0YNKqGzf85lEe8UhpMYMRvJJGBS/syd7m0fKaqeGuzLGGsnVaLPT1l5xiqnL/tJ81eeSYFZYKQyjwyXcYFtc+LzYTGfow8HKFZTgZwzwhdGn1rx4m6TnOHRtdLkRmUvtnA1zJZVInaLoi3eWEbZZW4TPkWyDhWB6cBurn8pnrSDSTyl6+GCfGnafLOQvInPKRan0Bbq9b0=;HoGLn8T/ArAF7QWAlZFmBA=="
 ---
 

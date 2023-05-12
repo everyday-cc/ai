@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/google-bard-transitions-to-palm-2-and-e
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/google-bard-transitions-to-palm-2-and-expands-to-180-countries-172908926.html"
 type: article
 quality: 87
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -45,22 +45,6 @@ related:
       - url: "https://www.zdnet.com/a/img/resize/f4552f0d0f6335956bb54c280824a4533fab6ea4/2023/05/10/fd1095b6-4cb5-4f32-83ae-d88a430ad3e2/labs.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Google’s Bard AI chatbot launches in Australia with vow to develop it ethically"
-    excerpt: "Company says its AI programs will include watermarks and metadata saying content is AI-generated as ChatGPT rival rolls out in more than 180 countries"
-    publishedDateTime: 2023-05-11T02:03:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/may/11/bard-ai-google-artificial-intelligence-chatbot-palm-2-launches-australia-chatgpt-competitor"
-    ampWebUrl: "https://amp.theguardian.com/technology/2023/may/11/bard-ai-google-artificial-intelligence-chatbot-palm-2-launches-australia-chatgpt-competitor"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/may/11/bard-ai-google-artificial-intelligence-chatbot-palm-2-launches-australia-chatgpt-competitor"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 53
-    images:
-      - url: "https://i.guim.co.uk/img/media/7a59770144a805dedfc4fe4482458935dcbdf700/0_167_5000_3000/master/5000.jpg?width=620&quality=85&auto=format&fit=max&s=4ac865513b8bd74f729741d48cc72e06"
-        width: 620
-        height: 372
         isCached: true
 
 secured: "GIu3HWIy9LK6H5XY6IDTSCu8674I+EH9bl4+rWr6TRglMkIrHbZ98QTOaFsVenUJgDto7/ATca0/kC09Erxob8JE2wKiXkbug2Q1v1FOfTRi060ZLcVE27tURd1htFZBlkTJ1vQGKRk01ohJfe68rzQPYaahdQRG1L1mol9NeQLsP0CATvyHHpl/Hpqk6jF7tLjcoR8cjbmNMpow+eD+/2AGEMYc9kbe5xnaJ7HfJ0nE5jp8ZOhHX4jnXtNKXmjF+CGbT4nVr/lN26P0eeUyb1DqtFOtrlFNuQ2bhNdw2MNlhS52OkYU6rU5IPlkP2PtY9k3iF2vUKhxBgnvzSwOzMUwrFzLMMd7FvbS71rCCuSQ2wIgQZYfOLzs871gPih99qi9X6XTjxPL8i9iMbBXYTPz/jylzVew13Ixssr57Ql46tUALyF0n36jDllnGdGUcHFYohAIPvVAXRNNG0EfqDx9jqvSBn3rWuEiHY+Nwm0Ft0Km13sfEhCskrPVZY4YPIn2yIfAg6bXZFyod8HMEQ==;l+OHdoK3Hp9SCAk6XYJ1WA=="

@@ -28,20 +28,6 @@ related:
       name: Wired
       domain: wired.com
     quality: 47
-  - title: "How lab grown neurons could power the future of AI"
-    excerpt: "Melbourne-based Cortical Labs’ lab grown neurons could speed up AI training in a more energy efficient way and its work has caught the eye of hyperscalers and Amazon’s CTO"
-    publishedDateTime: 2023-05-08T03:13:00Z
-    webUrl: "https://www.computerweekly.com/news/366537095/How-lab-grown-neurons-could-power-the-future-of-AI"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 39
-    images:
-      - url: "https://cdn.ttgtmedia.com/rms/onlineimages/ai_g1182183209.jpg"
-        width: 1200
-        height: 400
-        isCached: true
 
 secured: "3swzVmq/xrYhmN23bybb+S/CkKgFxfZETbjyFYVg2Fb9O01hZnW3+VpTqMszm4Dk+mKgCwdk93RjKFxd2l4xH7JPQkD+qxFHzKcZ5XCTEBdzgGN7F/oT9SUHv2q+fAi5s7nD27zE+UYXQdkhOcoQrxTAtajLLgHF4qnHvzJ7GFrln9p8f5FHxL6COpbhO5hibJX7/TOJ9vv4rLdcgDk/SqhZubcMCrtHZcnPj46Xw/v+EXY3DAdkF75mJlBGSuxImdctHnjuEp/nZNmh3x9rfhXumkQHBV3fJ+u20+jUHOrXgLw3jE14LBWb8wr4ROMvFiMxnwMXuOV66FA1yM+ytS7lhLshmSZCfMgxYDQ7Ob8=;OJei4JYkBrOrip+oiErCGw=="
 ---

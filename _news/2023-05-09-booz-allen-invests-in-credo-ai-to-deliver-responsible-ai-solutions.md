@@ -39,6 +39,15 @@ related:
         width: 768
         height: 334
         isCached: true
+  - title: "Booz Allen's venture arm is making a pattern of investments in AI. An exec tells us why."
+    excerpt: "Booz Allen Ventures recently invested in a San Francisco AI company that reflects a growing investment focus for the massive government contractor. Here's why the company thinks more of its venture dollars may flow in that direction."
+    publishedDateTime: 2023-05-12T19:28:00Z
+    webUrl: "https://www.bizjournals.com/washington/inno/stories/news/2023/05/12/booz-allen-hamilton-ai-investment.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 8
 
 secured: "RspZSYIieQ1r8vtof614i75ejoUP6awT+PySm5/NFVz7aUhq6Mjz5INRpesNw88g9JSVgdAHMrcG9GpwU+qiNSDmIqcOydzPx4OicmGVy+OCPjVk4KhFjgB7GXaEJDQfBzg1eUEus2otzoyx4qow8LuBQJM25rr3f97vumAhb+nK6nSfvSJLbwQTA7psoppCvx0TXJ1dz3f7geKQJNBIiz5RHqSFqSnMvmyPj7llyheO7QOzpxiq9XW5zu/z30Vd2z3++YKphHTUq7KMMR7k10TU5tW06KFOrdJLOdZmDLBTerxZLLjaWXfri0pngGBXcIh6KOJscBgLSgjfykdfmESsPrDY/fAZf2/ViWjYvcra4fJiJdRY3E4D8iL+nBG+TB5rCJ3+d3wg3os0y2vCqxrBSWEc8jM0++vZ9beOJOirQZbekmm8LtwmrhPKisGwoqVx5ImFUlUm9HgSlK7kaaHnatRtjy10APHGVTOWmJjc2TAvm0WLZV2RxkKVl+WsPR9hoZK6FNi4GSLz9Zfulw==;f2hUndL/J+t2SVQV3OpY8w=="
 ---

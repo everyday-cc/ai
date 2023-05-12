@@ -235,6 +235,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "SymphonyAI announces strategic collaboration with Microsoft Azure AI for generative AI"
+    excerpt: "SymphonyAI introduces Sensa Copilot, a vertical application that integrates Microsoft Azure OpenAI Service and Azure Cognitive Search to drive"
+    publishedDateTime: 2023-05-09T12:30:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/symphonyai-announces-strategic-collaboration-with-microsoft-azure-ai-for-generative-ai-1032305943"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 71
   - title: "SymphonyAI announces generative AI collaboration with Microsoft Azure AI"
     excerpt: "SymphonyAI announced today its first generative AI software application that integrates Microsoft Azure OpenAI Service. Sensa Copilot provides sophisticated AI assistance to financial crime investigators by automatically collecting,"
     publishedDateTime: 2023-05-11T16:46:00Z
@@ -407,15 +416,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 42
-  - title: "SymphonyAI announces strategic collaboration with Microsoft Azure AI for generative AI"
-    excerpt: "SymphonyAI introduces Sensa Copilot, a vertical application that integrates Microsoft Azure OpenAI Service and Azure Cognitive Search to drive value for customers in financial crime prevention and regulatory compliance PALO ALTO,"
-    publishedDateTime: 2023-05-09T16:34:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/05/09/9809924.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 41
   - title: "MakeMyTrip announces its collaboration with Microsoft"
     excerpt: "MakeMyTrip has collaborated with Microsoft to make travel planning more inclusive and accessible by introducing voice assisted booking in Indian languages. The new, in-platform tech stack powered by Microsoft Azure OpenAI Service and Azure Cognitive Services,"
     publishedDateTime: 2023-05-08T07:52:00Z

@@ -69,16 +69,14 @@ related:
       domain: businessinsider.com
     quality: 49
   - title: "ServiceNow to Acquire Artificial Intelligence Powered Platform G2K to Transform Retail and Beyond"
-    excerpt: "ServiceNow to add G2K's smart IoT technology to the Now Platform, enabling businesses to intelligently action digital and in-store data with enterprise-grade workflows ServiceNow (NYSE:NOW), the leadi"
+    excerpt: "ServiceNow (NYSE: NOW), the leading digital workflow company making the world work better for everyone, today announced it has signed an agreement to acquire artificial intelligence (AI) powered platform G2K to transform retail and other industries."
     publishedDateTime: 2023-05-12T12:30:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/05/b32362868/servicenow-to-acquire-artificial-intelligence-powered-platform-g2k-to-transform-retail-and-beyond"
-    ampWebUrl: "https://www.benzinga.com/amp/content/32362868"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32362868"
+    webUrl: "https://www.businesswire.com/news/home/20230512005085/en/ServiceNow-to-Acquire-Artificial-Intelligence-Powered-Platform-G2K-to-Transform-Retail-and-Beyond"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 41
+      name: newsroom.businesswire.com
+      domain: businesswire.com
+    quality: 21
 
 secured: "86WYhUfoRX+yeWbGqmgiEmcg7JO4MhIJ1U6kSPpvZzai3N/LE771FxTusQFmOHbYR4cXjpA1ditKp3XOV1z1V01yWjOPzufL+LRqD7GBoQE7xMjrgD8L059n3X+CeY1G7OC+c715+lx01YZBoAJclkqngOqAORWghgpessD5UyV37W1t9HgxZxEfgJhkWks8K7PuENX+Ll0v1+Ma5o5EnIsXYEXhYsMMtRuX/a+ez1PHPQnDd2wLqQMJJzSn2t9tf+nxun3ARZJZUbM7eLDTCV5tg4lG2nalcRA4ZMxo9UVqO3aFHySYILv+dwsOntBSsmnPttlgBE97TXxtfEyWB6TAeHXzN9xXAiafdcuFDrp4fBpUEN2/1C+u2GKxWNUhF5i2x1hp98ZIt986yBcLcETsPzfB6YQZstj1XzZdjqYqckj64Q4tn7lIIjO5hXsl4g5R1k+VMkYjvHHNuDDW3B7xAymytXzofZiMy8SbzglE/ByoR5/S4r7BxyRLzKtGCwFgXZhdC4w8o4kdSpeOhQ==;JrcDugrHPnxUhF8OjE53ig=="
 ---

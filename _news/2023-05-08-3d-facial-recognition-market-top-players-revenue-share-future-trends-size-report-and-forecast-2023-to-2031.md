@@ -297,15 +297,6 @@ related:
         width: 550
         height: 353
         isCached: true
-  - title: "Healthcare Cognitive Computing Market Analysis, Share, Revenue, Growth Rate With Forecast Overview Till 2030"
-    excerpt: "Further, for the in-depth analysis, the report encompasses the industry growth indicators, restraints, supply and demand risk, along with detailed discussion on current and future market trends that are associated with the growth of the market."
-    publishedDateTime: 2023-05-08T01:08:00Z
-    webUrl: "https://www.marketwatch.com/press-release/healthcare-cognitive-computing-market-analysis-share-revenue-growth-rate-with-forecast-overview-till-2030-2023-05-07"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 32
   - title: "Chatbot Market worth $15.5 billion by 2028 - Exclusive Report by MarketsandMarkets™"
     excerpt: "The market for Chatbot Market is estimated to grow from USD 5.4 billion in 2023 to USD 15.5 billion by 2028, at a CAGR of 23.3% during the forecast period, according to a new report by MarketsandMarkets™."
     publishedDateTime: 2023-05-08T17:51:00Z

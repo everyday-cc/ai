@@ -7,7 +7,7 @@ originalUrl: "https://www.thestar.com.my/tech/tech-news/2023/05/11/ai-is-ready-t
 webUrl: "https://www.thestar.com.my/tech/tech-news/2023/05/11/ai-is-ready-to-take-your-order-at-the-drive-thru"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,20 +25,31 @@ images:
     isCached: true
 
 related:
-  - title: "Digi Shorts: Artificial Intelligence takes fast food drive-thru orders now"
-    excerpt: "Artificial intelligence has officially entered the fast-food business as an automated drive-thru ordering assistant. But will it work?"
-    publishedDateTime: 2023-05-08T21:03:00Z
-    webUrl: "https://www.local10.com/news/local/2023/05/08/digi-shorts-artificial-intelligence-takes-fast-food-drive-thru-orders-now/"
+  - title: "Google is helping Wendy’s build an AI drive-thru"
+    excerpt: "It has also been trained on the company’s established business practices and was given logical and conversational guardrails."
+    publishedDateTime: 2023-05-10T22:00:00Z
+    webUrl: "https://www.popsci.com/technology/wendys-google-drive-thru-ai/"
+    ampWebUrl: "https://www.popsci.com/technology/wendys-google-drive-thru-ai/?amp"
+    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/wendys-google-drive-thru-ai/?amp"
     type: article
     provider:
-      name: WPLG
-      domain: local10.com
-    quality: 35
+      name: Popular Science
+      domain: popsci.com
+    quality: 57
     images:
-      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/arc-cf/05-08-2023/t_f6516d189b8d479e8185f548dd888f5c_name_image.jpg?_a=ATCqVhC0"
-        width: 700
-        height: 394
+      - url: "https://www.popsci.com/uploads/2023/05/10/batu-gezer-AGGhkGuVs2w-unsplash.jpg?auto=webp"
+        width: 2000
+        height: 1125
         isCached: true
+  - title: "Wendy’s hired Google AI to take your drive-through order"
+    excerpt: "The next time you get a craving for a spicy chicken sandwich, you might have to ask an AI to ring it up for you. American fast food burger chain Wendy’s is teaming up with Google to make an AI-powered chatbot for taking drive-through food orders,"
+    publishedDateTime: 2023-05-09T13:53:00Z
+    webUrl: "https://www.pcworld.com/article/1814175/wendys-hired-google-ai-to-take-your-drive-through-order.html"
+    type: article
+    provider:
+      name: PC World
+      domain: pcworld.com
+    quality: 47
   - title: "Wendy's to test new artificial intelligence drive-thru tech"
     excerpt: "\"Google Cloud's generative AI technology creates a huge opportunity for us to deliver a truly differentiated, faster and frictionless experience for our customers,” CEO Todd Penegor said in a release."
     publishedDateTime: 2023-05-10T13:17:00Z

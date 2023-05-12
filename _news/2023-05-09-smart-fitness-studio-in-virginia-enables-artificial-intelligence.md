@@ -19,6 +19,15 @@ topics:
   - AI in Healthcare
 
 related:
+  - title: "Rank One facial recognition reaches 4 West Virginia school boards"
+    excerpt: "Facial recognition deployment has been on the rise in the United States despite pushback from parents and rights organizations."
+    publishedDateTime: 2023-05-12T17:54:00Z
+    webUrl: "https://www.biometricupdate.com/202305/rank-one-facial-recognition-reaches-4-west-virginia-school-boards"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 19
   - title: "Smart fitness studio in Virginia uses artificial intelligence to curate workouts"
     excerpt: "A fitness studio in Virginia called The Exercise Coach has enabled artificial intelligence to help people work out in an efficient and effective manner."
     publishedDateTime: 2023-05-08T18:27:00Z

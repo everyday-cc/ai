@@ -72,6 +72,15 @@ related:
         width: 600
         height: 314
         isCached: true
+  - title: "All eyes on AI"
+    excerpt: "\"Colorado has taken vague principles of AI ethics, such as accountability, fairness, transparency... and turned them into the concrete requirements for policies, governance, and technical controls,\" the practice leaders wrote."
+    publishedDateTime: 2023-05-12T19:10:00Z
+    webUrl: "https://www.bizjournals.com/denver/news/2023/05/12/colorado-rules-artificial-intelligence-insurance.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 19
 
 secured: "xOjH2fp6OZH+DubwFlfSCBqqO0TbhgTxXB+yH8peDqXJ8aiP720u9Ro6ij8YphHxiFGAsn1CfBZ9OpVXMrOhiMzMVDTcUjCiRd5BBhzG6owOwGTxmZ3xG5nGe7DwqAlj5hfjbEXydNpN4KjV2bK1O04N1ucz8ClANcWKuLLRvvVHZUKRBmqXDS+mmOk0dC/9Ft5wlNnpydLJ4M0PhJ/vB3QlC/+6u2HQsaQHeQ01gMVb03rggacrA6b1YhpYzqf5FsmrRBE6vEU9/feto9G9UJCAr3tPAjDtvofa/fpBx+NcOy+eB4VRWYZOZzJkS9QbIXUjDgsNkuoxFwfGCLD7L3MmZujdB9yxSgSdhUdhAAWReFBj7aSRnrkr8quB2jj18lSPsLKTHijz2uo0XJuecL34nTXEBqWVajzHyuroe2xn2YvTuomFrrVOOZtLHwmFMIjE9Z/C0C7ADrIjdblVJ88PUeC4TvfbfJjQlG8FtULmsLzngJeme0IvWQI4GtvmPWus03iqQxtRM+0kSDs40w==;ALyqZ88yzBGCETr2enghqg=="
 ---

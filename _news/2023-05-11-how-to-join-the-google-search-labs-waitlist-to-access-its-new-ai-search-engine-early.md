@@ -46,22 +46,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Google’s Bard AI chatbot launches in Australia with vow to develop it ethically"
-    excerpt: "Company says its AI programs will include watermarks and metadata saying content is AI-generated as ChatGPT rival rolls out in more than 180 countries"
-    publishedDateTime: 2023-05-11T02:03:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/may/11/bard-ai-google-artificial-intelligence-chatbot-palm-2-launches-australia-chatgpt-competitor"
-    ampWebUrl: "https://amp.theguardian.com/technology/2023/may/11/bard-ai-google-artificial-intelligence-chatbot-palm-2-launches-australia-chatgpt-competitor"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/may/11/bard-ai-google-artificial-intelligence-chatbot-palm-2-launches-australia-chatgpt-competitor"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 53
-    images:
-      - url: "https://i.guim.co.uk/img/media/7a59770144a805dedfc4fe4482458935dcbdf700/0_167_5000_3000/master/5000.jpg?width=620&quality=85&auto=format&fit=max&s=4ac865513b8bd74f729741d48cc72e06"
-        width: 620
-        height: 372
-        isCached: true
 
 secured: "d52BPy9BrYvEDjVJjhjXYo+X10rUK+hT+iwQ8n9rAxtYMuH+qYo2t4lVNA2QXsbIqzEmVG/NRVTx6PApn817HS2lGDr5UQCJAWC3cm3Mp+7olnJym8BHFEOobIgh/OuRhK7sVJW3RwIHlG2Q1y7ji7Ey/2gP2Ujswzeri0XjLlzd6IAcUv+ONYEACNfnFuAACC8IcO9EV0VBYq0z9WAtme4eNau6OtP1ogepeLMK5C27sSjV7Em1WAdZlPlvskO7rJT6JsRbgLP/bNm13KsIk+WMkurbYfWk5y6o2UesNiWNXcwgveRO9fQyH0D43iuZLm68vODJprU6pK1mQ0ff/Lcfhcr0CUglnEa885+9Z4D09Ka0tO1fb75eHXdkiuyGK+WYGAr60fCxf4pc92E3WyKTCkZwBbZIpflAvSY+C9Q3yFG58T29ru20VS2c0wnQH0PIUN5tRtMvdQfopPoZt0UMBrEawIWu5IkaSC4u3OwOLfcs5a7ZTd6Ay2Qu+5krHYMWfbztab9ao+z+zJuZGw==;7iKjvQ39PSdDi+5HbjmmfA=="
 ---

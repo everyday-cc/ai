@@ -273,6 +273,15 @@ related:
       name: SiliconANGLE
       domain: siliconangle.com
     quality: 34
+  - title: "IBM unveils Watsonx to bring generative AI to the enterprise"
+    excerpt: "The US tech giant is jumping into the generative AI market promising to \"power next generation foundation models\" for businesses. This week IBM announced"
+    publishedDateTime: 2023-05-10T11:35:00Z
+    webUrl: "https://www.techzine.eu/news/applications/105787/ibm-unveils-watsonx-to-bring-generative-ai-to-the-enterprise/"
+    type: article
+    provider:
+      name: techzine
+      domain: techzine.eu
+    quality: 34
   - title: "IBM joins the AI race with WatsonX; will 'multiply impact' of artificial intelligence across businesses"
     excerpt: "IBM, on Tuesday, announced its new WatsonX platform, which is an all-in-one AI building and integration tool for businesses. The iconic American multinational corporation, International Business Machines Corps (IBM) dipped its toes into artificial intelligence more than 10 years ago."
     publishedDateTime: 2023-05-09T13:18:00Z

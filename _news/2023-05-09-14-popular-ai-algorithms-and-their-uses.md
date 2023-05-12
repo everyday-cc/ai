@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3695208/14-popular-ai-algorithms-a
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3695208/14-popular-ai-algorithms-and-their-uses.amp.html"
 type: article
 quality: 89
-heat: 123
+heat: 133
 published: true
 
 provider:
@@ -72,6 +72,15 @@ related:
         width: 600
         height: 314
         isCached: true
+  - title: "All eyes on AI"
+    excerpt: "\"Colorado has taken vague principles of AI ethics, such as accountability, fairness, transparency... and turned them into the concrete requirements for policies, governance, and technical controls,\" the practice leaders wrote."
+    publishedDateTime: 2023-05-12T19:10:00Z
+    webUrl: "https://www.bizjournals.com/denver/news/2023/05/12/colorado-rules-artificial-intelligence-insurance.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 19
 
 secured: "1MZespE79dp8R5aiC+KI9vd+Kn6pKL1zc6SujMi4cKBQZndl+HwBRMvsUeGm8bW9Dhl1QMguOsEHlI/ArjhF0pyFKoG+DIC35SvqXz3ZmPeBvtcnIHofJfVE4hRAmpgGfUYGG1jXUPdsGBZbx0/xOOQTlWYyeJJawJcEmjj75OyaDztr9vkoKBl0PkcJuAUEZgqAeNV24BcM74GNqzT82Eo5T03T2+jTmwXBFbZYaA/kNKtaVo2Lwqhk+CfVC85aZWjWJ5nL619hB8eiqrmw2JaUlw1WhOfKNxBpJRvbXahpvP4lDuAulKTciMeUAh9hHPBZtjwrIMC+D3mgEFV8waeGjOTASgNCuY6/1H1EmkgaQgtFKJCkJkv+fvoXQUQi7eF2HMW5lxXuu+ppaSGYt8oC/twtdioE5fbR5wqlDSO0wr9MRyjKuFGufvfStvoO4YWaLVrBeBsrpMv5D4ayaHelMUafT0jnur9QbP/j22K0w92n+MIBpNXDltvsBOiOeFSBGbSbCFyez6E+VB2ECA==;yUQuvmdO45ZU+pPWn4l4FQ=="
 ---

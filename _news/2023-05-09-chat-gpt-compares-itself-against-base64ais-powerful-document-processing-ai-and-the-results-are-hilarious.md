@@ -68,6 +68,15 @@ related:
       name: Phys.org
       domain: phys.org
     quality: 35
+  - title: "All eyes on AI"
+    excerpt: "\"Colorado has taken vague principles of AI ethics, such as accountability, fairness, transparency... and turned them into the concrete requirements for policies, governance, and technical controls,\" the practice leaders wrote."
+    publishedDateTime: 2023-05-12T19:10:00Z
+    webUrl: "https://www.bizjournals.com/denver/news/2023/05/12/colorado-rules-artificial-intelligence-insurance.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 19
 
 secured: "ZNxDklBndkte+nuP2necV5Z3b1c4Gt8BNdW1EmgBYjHLjagL7pXAcrzSv4ZoHu3hftj+0nnfoJ9FM8MHOnNJnbfYo640VEFPuI9lOPHxafLc+SagYmy0xR8/ksF8QGYjw2H4ynJCCXisL7PkYGflwGk01VfPWX0R7U4zvoH3Yhm9HCommDn7DMXgtfbSKyA16a8vABJrx90BAT8DMJZLO/N40R2gYXHR1t8KREtuZFUFcDr5qKLjrrf8rOisGSDkWH9HZLrOPS3gmtPj8jssKNoCC8XvqCw9I3ge62t0Gu9JoUa3XMerJY/gMxuuyZoG1bTZEqTDYnZlZbd8aGt12UxGSuttY1PnkNeJV3Am1FS9vbiviGybXIkM/2FDemgvN5QFn72soSDuHemOmq0vWk4GvGMsgF2rIBdYNb8c9K1MZUabOHGXv0NjzkYzf+THfvb8TlKnpsK5H47+MgOYPWSGrr4PjbiXh1H2sYADW8Mb6E77qTH6wBjWLmYXIL15kpE2ZpxsKIzGUoRrZoWQOw==;5ZSytFB0kk+SdPLbX9hCIQ=="
 ---

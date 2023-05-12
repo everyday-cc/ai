@@ -285,15 +285,6 @@ related:
         width: 550
         height: 353
         isCached: true
-  - title: "Healthcare Cognitive Computing Market Analysis, Share, Revenue, Growth Rate With Forecast Overview Till 2030"
-    excerpt: "Further, for the in-depth analysis, the report encompasses the industry growth indicators, restraints, supply and demand risk, along with detailed discussion on current and future market trends that are associated with the growth of the market."
-    publishedDateTime: 2023-05-08T01:08:00Z
-    webUrl: "https://www.marketwatch.com/press-release/healthcare-cognitive-computing-market-analysis-share-revenue-growth-rate-with-forecast-overview-till-2030-2023-05-07"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 32
   - title: "3D Facial Recognition Market Top Players, Revenue, Share, Future Trends, Size, Report and Forecast 2023 to 2031"
     excerpt: "Moreover, it has benefits over 2D facial recognition, such as ease in the detection of facial data from videos and 2D images and least affected with illumination issues. With the advancements in 3D facial recognition software and services,"
     publishedDateTime: 2023-05-08T07:48:00Z

@@ -115,6 +115,15 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Britain to roll out first driverless bus service"
+    excerpt: "The service, which aims to carry 10,000 passengers a week over a 22.5-kilometre route on five single-deck buses, will be the world's first automated local bus service, its operator said."
+    publishedDateTime: 2023-05-12T18:48:00Z
+    webUrl: "https://www.gulftoday.ae/news/2023/05/12/britain-to-roll-out-first-driverless-bus-service"
+    type: article
+    provider:
+      name: gulftoday
+      domain: gulftoday.ae
+    quality: 34
 
 secured: "P+HA9kYSezgu21MXaKcrvuX4wBTXn02dDdwQ7PMJWrmttnQm8VE2PbQeDS1qAdLmKaapM8vdA2/S6hEG1O++9I8va+zAOs+4OYjSaazaPtJaoax/cT/LpiDaetsRR+uED4NDDUWOrBQCFFaJWwFtj7rpmKUA1HspRzmnozgNqHVgEpDL49GR8RRK4cz68W63PqjiZ9XdrH1/HkXaNWCB46LNOhP+fY6BRuBNwY8WFPPKMu0IzW+a9fcbA0uBUwcB38fFjl/D8fiN0dFCzig+YhCvHLikA3NoLPkWLS9LCjJepXsDMVJd3op+y9Q4vAkreSYbivJSMGfKeX0RL7o0TyvQfIA1W11zJWx1UBxcvpccwLe99zO4v+dtAp8FWqOpC2fpvWCI4rsCJIL0+B4gtcYtcR2FEwiWImpGuYmlxERxlX/NFn6y/7xRci2aDCwVQsqL2sPoHZklLfa8Dv0gSULyuh6vyBq5roBF0urxELTwOn0TvcqPLqmHqG8Vaft1ZaJGfXEvje0yyRRih8Ke1w==;LgqD472ZkHadQ/9UBurIxw=="
 ---

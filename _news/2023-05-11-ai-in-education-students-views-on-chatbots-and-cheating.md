@@ -20,31 +20,22 @@ topics:
   - AI in Education
 
 related:
-  - title: "Why are patients turning to artificial intelligence chatbots for medical advice?"
-    excerpt: "The future of medicine may have arrived sooner than expected, with patients turning to artificial intelligence (AI) chatbots for medical advice."
-    publishedDateTime: 2023-05-09T15:18:00Z
-    webUrl: "https://www.cbsnews.com/baltimore/news/patients-chatbots-johns-hopkins-medical-artificial-intelligence/"
-    ampWebUrl: "https://www.cbsnews.com/amp/baltimore/news/patients-chatbots-johns-hopkins-medical-artificial-intelligence/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/baltimore/news/patients-chatbots-johns-hopkins-medical-artificial-intelligence/"
+  - title: "Students positive toward AI, but uncertain about what counts as cheating, finds survey"
+    excerpt: "Students in Sweden are positive towards AI tools such as ChatGPT in education, but 62% believe that using chatbots during exams is cheating. However, where the boundary for cheating lies is highly unclear."
+    publishedDateTime: 2023-05-11T15:39:00Z
+    webUrl: "https://phys.org/news/2023-05-students-positive-ai-uncertain-survey.html"
+    ampWebUrl: "https://phys.org/news/2023-05-students-positive-ai-uncertain-survey.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-05-students-positive-ai-uncertain-survey.amp"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 54
+      name: Phys.org
+      domain: phys.org
+    quality: 49
     images:
-      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/04/24/c4999830-60ba-4f2c-8a27-e425e120b9de/thumbnail/1200x630/3456dcd79d8e3d3aa1bf1afe24daefdd/gettyimages-1158779006.jpg"
-        width: 1200
-        height: 630
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/students-positive-towa.jpg"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "Mo, an AI Chatbot Powered by Morningstar Intelligence Engine, Debuts in Morningstar Platforms"
-    excerpt: "(Nasdaq: MORN), a leading provider of independent investment insights, today launched a beta version of its generative artificial intelligence chatbot named \"Mo\" across Morningstar Investor, Research Portal,"
-    publishedDateTime: 2023-05-11T12:41:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/05/11/9812464.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 8
 
 secured: "sY/YRyoTk0YMLR+46H/NErNFZUmeKIYHwtNCyFpsYCPYjqASwp+r0k22O3ce3bXjzrXbBJbSSTZCQqCr4ju2aigD1K/M8A40t4P3lWgzsSfMiAiYDm5WCZxrv9eSNnZV1E8DzRt3FcpXuGt7zIJCSaICJhWZxirFoid/6g202CRprJJqcpDfHgSAFRDKUskLezxM8a9k5Rbm9AbPUvt+GizHEWYehawm8ZOXxUwHG98eHhUk2HF33IvteLE7sWlKllnmoEnbcA0xFuYCUFbxeo1p3FgSSOJXdok66d4GidixpqCGsP4RE9O40xMCVNxG6CmveLKmh9SZvS70VogoXMV+r1qqD+DTgGlkhKXwHK0e7fmcqpM+M2Vn4/a4vrB0Gl9dHIcp9bYodHkkitgrVeSLenfEQ55APamxGeWJbYrdGDR67ZtKRZLEBZNX+c7iNzIoPVHo4j9Cc7bUAS2X58cEr4Li4jLWaG+B3wwU33GJaHeFj+58/8Vf4CopPhxpApUd5jH6eg/x2jZQRuEP9A==;o4X4MSDk+gjBv/voGZuTCw=="
 ---

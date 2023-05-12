@@ -260,15 +260,6 @@ related:
       name: insideHPC
       domain: insidehpc.com
     quality: 28
-  - title: "5 ways to use Google Docs’ new AI"
-    excerpt: "Google Docs' AI is handy to have AI text generation and editing inside Docs, but it’s not yet nearly as powerful or useful as alternatives like ChatGPT or Lex."
-    publishedDateTime: 2023-05-08T04:05:00Z
-    webUrl: "https://www.fastcompany.com/90892473/5-ways-to-use-google-docs-new-ai"
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 19
   - title: "Google says they’ll use powerful new AI tools responsibly"
     excerpt: "At Google’s annual developer conference, the company promised to be bold with its use of AI but also responsible. Google I/O was held near the company’s headquarters in Mountain View,"
     publishedDateTime: 2023-05-11T13:21:00Z

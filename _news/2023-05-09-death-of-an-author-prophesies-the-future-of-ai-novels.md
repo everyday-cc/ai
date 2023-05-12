@@ -22,20 +22,6 @@ topics:
   - AI
 
 related:
-  - title: "How lab grown neurons could power the future of AI"
-    excerpt: "Melbourne-based Cortical Labs’ lab grown neurons could speed up AI training in a more energy efficient way and its work has caught the eye of hyperscalers and Amazon’s CTO"
-    publishedDateTime: 2023-05-08T03:13:00Z
-    webUrl: "https://www.computerweekly.com/news/366537095/How-lab-grown-neurons-could-power-the-future-of-AI"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 39
-    images:
-      - url: "https://cdn.ttgtmedia.com/rms/onlineimages/ai_g1182183209.jpg"
-        width: 1200
-        height: 400
-        isCached: true
   - title: "What Does the Future Hold for AI in Chip Design?"
     excerpt: "It’s hard to imagine a time when AI wasn’t a part of the silicon chip design flow. Since intelligence has now been integrated into design, verification,"
     publishedDateTime: 2023-05-10T06:56:00Z

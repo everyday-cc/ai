@@ -7,7 +7,7 @@ originalUrl: "https://time.com/6278841/microsoft-ceo-satya-nadella-on-artificial
 webUrl: "https://time.com/6278841/microsoft-ceo-satya-nadella-on-artificial-intelligence/"
 type: article
 quality: 84
-heat: 144
+heat: 134
 published: true
 
 provider:
@@ -56,20 +56,6 @@ related:
       - url: "https://www.crn.com/resources/0281-17fee2fdcd7a-2e9db2bde58c-1000/vic-raymond.jpeg"
         width: 611
         height: 458
-        isCached: true
-  - title: "Microsoft reportedly rallies behind AMD to develop chips for AI workloads"
-    excerpt: "Microsoft is reported to be working with AMD to develop AI-capable chips and provide an alternative to Nvidia."
-    publishedDateTime: 2023-05-08T01:25:00Z
-    webUrl: "https://www.arnnet.com.au/article/707031/microsoft-reportedly-rallies-behind-amd-develop-chips-ai-workloads/"
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 70
-    images:
-      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/p1240491-19-100715058-orig_11.jpgautowebp8570"
-        width: 472
-        height: 315
         isCached: true
   - title: "Microsoft, Oracle Reportedly Discussed Sharing AI Servers Amid Global Shortage"
     excerpt: "Miracle and Oracle appear to be preparing for a potential shortage of their own servers, and an agreement to share servers may help ease the problem."

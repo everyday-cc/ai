@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/generative-ai-around-the-world-matur
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/generative-ai-around-the-world-maturity-opportunities-key-hurdles-2023-may?amp"
 type: article
 quality: 75
-heat: 115
+heat: 95
 published: true
 
 provider:
@@ -30,29 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "How AI robots can affect Filipino domestic workers worldwide amid ChatGPT concerns"
-    excerpt: "The discussion of artificial intelligence and robots taking over human jobs has reached another point following a recent study revolving around unpaid domestic help."
-    publishedDateTime: 2023-05-09T07:30:00Z
-    webUrl: "https://www.philstar.com/lifestyle/on-the-radar/2023/05/09/2264997/how-ai-robots-can-affect-filipino-domestic-workers-worldwide-amid-chatgpt-concerns"
-    type: article
-    provider:
-      name: philstar.com
-      domain: philstar.com
-    quality: 48
-    images:
-      - url: "https://media.philstar.com/photos/2023/05/09/ofw2019-11-0921-24-08_2023-05-09_13-35-26.jpg"
-        width: 800
-        height: 494
-        isCached: true
-  - title: "ChatGPT Fever Has Investors Pouring Billions Into AI Startups, No Business Plan Required"
-    excerpt: "It is boom times for startups touting generative artificial intelligence technology."
-    publishedDateTime: 2023-05-09T11:51:00Z
-    webUrl: "https://www.wsj.com/articles/no-business-plan-no-problem-chatgpt-spawns-an-investor-gold-rush-in-ai-6bdbed3c"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 38
   - title: "ChatGPT and Generative AI Around the World: Maturity, Opportunities, and Hurdles in Key Regions"
     excerpt: "ChatGPT has received a lot of press since its November 2022 launch. But while interest in the tool is high, its use is not yet universal."
     publishedDateTime: 2023-05-11T17:01:00Z

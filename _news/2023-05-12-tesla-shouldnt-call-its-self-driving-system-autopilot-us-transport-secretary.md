@@ -9,7 +9,7 @@ ampWebUrl: "https://auto.hindustantimes.com/auto/electric-vehicles/tesla-shouldn
 cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/electric-vehicles/tesla-shouldnt-call-its-self-driving-system-autopilot-us-transport-secretary/amp-41683861027992.html"
 type: article
 quality: 55
-heat: 95
+heat: 105
 published: true
 
 provider:
@@ -84,6 +84,15 @@ related:
       name: Honolulu Star-Advertiser
       domain: staradvertiser.com
     quality: 19
+  - title: "Tesla shouldn't call driving system Autopilot because humans are still in control, Buttigieg says"
+    excerpt: "The top U.S. transportation official says Tesla shouldn't call its partially automated driving system Autopilot because the cars can't drive themselves."
+    publishedDateTime: 2023-05-12T18:08:00Z
+    webUrl: "https://www.ksl.com/article/50642847/tesla-shouldnt-call-driving-system-autopilot-because-humans-are-still-in-control-buttigieg-says"
+    type: article
+    provider:
+      name: KSL
+      domain: ksl.com
+    quality: 6
 
 secured: "q6jqrYDOXyyRgo7f9RzXylEXUFAcsFblNnC10B9k9UMrRHt7tqqBh0S0ELVkpd5ABJhwxL5JtwzuWeO6MHfnD5C46CCQkw1qgVgj+M6e3AdUHFi3iF7lTCGmMdIwMRdzhZ4fMLaiC14nZiA/K1bQCt20X2dEyl0TVFtZadGcIRxE7vXWuDN3D6Ui8J0SyKlmV8LNF3+xP52ssvasd+J+nRkkgH6S9M+THQ9bSTDcOlhsbgsHnIpyAeeFULa94BL4bKDTYeFuLQLmj+wvsrzsuTYsbUJ2kjkqEAlzz3Q26UXISZqvjdDPKohbX1BMn7SyexNLECV8uS8Rdl4e4ELGbqoG/sLIIKqRchPRF8jgk2nGw2fBtkKUq09PAAXYz08S6ddGY9+kPkbu6y88LsE5AQVjDoNLJzpHc8O2dacqlB0VNSC3cSU1pkBmqeRoJstniRA0SiImyonPwFpW6Vn1EzeKKHbuiMXjYdK9y9EiUVEjrfDaJOXMc7kjyqFfrcHnC+Xj+WPY6NcDAXxZdzF5Cg==;jFSjX/kA78lyZINBLK3enw=="
 ---

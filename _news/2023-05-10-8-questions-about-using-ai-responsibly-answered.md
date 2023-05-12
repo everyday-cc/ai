@@ -51,6 +51,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "4 Experts Wager Predictions About What's Next in AI, Ed Tech"
+    excerpt: "Experts in technology, education and artificial intelligence expect the next generation of tools will empower students, give them more autonomy over their education and generate more data as well as risks."
+    publishedDateTime: 2023-05-12T20:33:00Z
+    webUrl: "https://www.govtech.com/education/k-12/4-experts-wager-predictions-about-whats-next-in-ai-ed-tech"
+    ampWebUrl: "https://www.govtech.com/education/k-12/4-experts-wager-predictions-about-whats-next-in-ai-ed-tech?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/k-12/4-experts-wager-predictions-about-whats-next-in-ai-ed-tech?_amp=true"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
+    images:
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/bcf2836/2147483647/strip/true/crop/940x490+0+68/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F42%2Fa7%2F51531ad3d4e4ae15f9a84c8a2112%2Fshutterstock-1016367682.jpg"
+        width: 840
+        height: 438
+        isCached: true
   - title: "Hackers aim to find flaws in AI - with White House help"
     excerpt: "But now its maker, OpenAI, and other major AI providers such as Google and Microsoft, are coordinating with the Biden administration to let thousands of hackers take a shot at testing the limits of their technology."
     publishedDateTime: 2023-05-10T14:01:00Z

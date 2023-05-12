@@ -56,20 +56,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 64
-  - title: "Natural Language Processing (NLP) Software Market to Deliver Greater Revenues during the Forecast Period until 2030 By MRI"
-    excerpt: "Download Full PDF Sample Copy of Natural Language Processing (NLP) Software Report @  Competition is an important issue in any market research analysis. With the help of the competitive analysis provided in the report,"
-    publishedDateTime: 2023-05-08T04:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-software-market-to-deliver-greater-revenues-during-the-forecast-period-until-2030-by-mri-2023-05-08"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 58
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "q17sHHtTrzsU8KoMQI0Eqoj19ROwhjbZ+udy8oT8oKrSw+mEmPd5R81pNd5Ql8H+NR+dCCzR4gC6bREq8cAU5CVjwSVOvNzeP/RnaOAapEFS0zuWgl54wblsD8YWhd3lawxC+pRSMlIpO1SPQC36SoixYlOeQmNIMZ9LdGapMQgrrxikgoMiYmTJ+91DkT4oNqFaQiWfLW3GxzGi6iQgRuK/pb4tJUmSIS5GVQaqg1ISqGDVulyqAPTz5oZ6p5LxBVSjrnbT4Bq8Cp5u+LdkL5HL3Hmvc7MdLShupkeB1CRAr0LXXJGMyBKyx4c0HN6UCPFpoYWE6FxllKTbXzEjtLcr7tqWTRnGTI3YTQe5KaA=;pXLXSKU6UfYmpdodFExYYg=="
 ---

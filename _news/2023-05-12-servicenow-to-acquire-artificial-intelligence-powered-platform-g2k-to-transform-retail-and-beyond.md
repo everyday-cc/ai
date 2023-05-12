@@ -1,20 +1,18 @@
 ---
 category: news
 title: "ServiceNow to Acquire Artificial Intelligence Powered Platform G2K to Transform Retail and Beyond"
-excerpt: "ServiceNow to add G2K's smart IoT technology to the Now Platform, enabling businesses to intelligently action digital and in-store data with enterprise-grade workflows ServiceNow (NYSE:NOW), the leadi"
+excerpt: "ServiceNow (NYSE: NOW), the leading digital workflow company making the world work better for everyone, today announced it has signed an agreement to acquire artificial intelligence (AI) powered platform G2K to transform retail and other industries."
 publishedDateTime: 2023-05-12T12:30:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/05/b32362868/servicenow-to-acquire-artificial-intelligence-powered-platform-g2k-to-transform-retail-and-beyond"
-webUrl: "https://www.benzinga.com/pressreleases/23/05/b32362868/servicenow-to-acquire-artificial-intelligence-powered-platform-g2k-to-transform-retail-and-beyond"
-ampWebUrl: "https://www.benzinga.com/amp/content/32362868"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32362868"
+originalUrl: "https://www.businesswire.com/news/home/20230512005085/en/ServiceNow-to-Acquire-Artificial-Intelligence-Powered-Platform-G2K-to-Transform-Retail-and-Beyond"
+webUrl: "https://www.businesswire.com/news/home/20230512005085/en/ServiceNow-to-Acquire-Artificial-Intelligence-Powered-Platform-G2K-to-Transform-Retail-and-Beyond"
 type: article
-quality: 41
+quality: 21
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: newsroom.businesswire.com
+  domain: businesswire.com
 
 topics:
   - AI in Healthcare
@@ -75,6 +73,6 @@ related:
       domain: businessinsider.com
     quality: 49
 
-secured: "4rmps10gzFTU2rJ5BlWYmUSJJ+V9PrECTV4qEf8jhXK73RROFjyu5cxNeHHyWx9EiCuQtka+qG/4kgqyiH5QuAEXHqrDiK/g7HyF4V48kzq8tibS+xuR/M/BE/8ok7YP8Z6uBA0y40eCTggeVCAYkuEUe/6XfIz/+ymGtbtH2ZU0BpWh7K8lBM6lOAgpCGZ9OwQ96W/DZgDJwTqLJhlP0ip66lZzEFD2WfD/F7RgMMXqob3bXV32L1WCKtm2wDeIpGQAqJdqLCFC11s28iFJBbnh42tsKd3SlQ1FXlgfGwfWTluh9RLeYausOUCqHhILMqKYAoSVXHTXC/Ndb6trLWNPHIaX6z70BHIX/d7B5TU=;9FrAXFK6WlPLQfrincxq1Q=="
+secured: "RAlw4Aca+LLT9xIMyRjZvkRvil3/IDLM/Q4msJsqyPr7TokDVN8/xqPzDE4MOoqI7AZ6nQgZXiSPjCTBkKhxAdseOaasG+yGUQHeD0/6h8QpyRYyzychL1/Tp5XK14GbhSWqeiN/ZVHxVFTGKxu2h15uGFJ8lfXJQLSemLdLxvInSiyIgogbpDq5oy2QAMNrj1aX8SZ6teqUw14xyAgqSW7JNiQdQgqrAoC33zY9siRAcWnpp+BJm4todInr7sFoJQAYESdpcbv439ZQMizro1g5VfORfY1ooJHQ3k23C7tv5H6VTo6ZCQFh5dClh7Isfob4tE0bgaeDlRH8aLAw6FF9HEY0nO6cGpzjP5whfAE=;Unm88Jc3kSBOTP6nPdXWeQ=="
 ---
 
