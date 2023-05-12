@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Cryptominers try to pivot GPU farms to AI workloads after crypto decline"
+    excerpt: "Two large cryptomining companies, Hut 8 and Hive Blockchain, have redirected their mining GPU infrastructure toward high-performance computing (HPC), which includes AI workloads. This move could"
+    publishedDateTime: 2023-05-11T21:44:00Z
+    webUrl: "https://www.techspot.com/news/98661-cryptominers-try-pivot-gpu-farms-ai-after-ethereum.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 85
+    images:
+      - url: "https://www.techspot.com/images2/news/bigimage/2023/01/2023-01-25-image-18.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Cryptominers try to pivot GPU farms to AI after Ethereum merge and Crypto winter"
     excerpt: "Now, the pivot has impacted hardware originally used for blockchain, which could potentially lend its processing power to AI. Two large cryptomining companies, Hut 8 and Hive Blockchain, have redirected their mining GPU infrastructure toward High ..."
     publishedDateTime: 2023-05-11T21:50:00Z

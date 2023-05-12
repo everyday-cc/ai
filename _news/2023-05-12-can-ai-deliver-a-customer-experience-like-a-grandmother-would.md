@@ -5,10 +5,12 @@ excerpt: "ChatGPT is super smart. But can it deliver the customer experience tha
 publishedDateTime: 2023-05-11T19:06:00Z
 originalUrl: "https://www.forbes.com/sites/chipbell/2023/05/11/can-ai-deliver-a-customer-experience-like-a-grandmother-would/"
 webUrl: "https://www.forbes.com/sites/chipbell/2023/05/11/can-ai-deliver-a-customer-experience-like-a-grandmother-would/"
+ampWebUrl: "https://www.forbes.com/sites/chipbell/2023/05/11/can-ai-deliver-a-customer-experience-like-a-grandmother-would/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/chipbell/2023/05/11/can-ai-deliver-a-customer-experience-like-a-grandmother-would/amp/"
 type: article
-quality: 47
-heat: 47
-published: false
+quality: 89
+heat: 89
+published: true
 
 provider:
   name: Forbes
@@ -20,7 +22,14 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
-secured: "ucqs/hDokoNbHiPfmITwqj+SwjVSlRv5Dk/oe8QvFal3b6tWGcn/Um4aq9lLpqi0T2/Qn+a/LFCiFvhQAMLVYD9YvZfKutUMei+j2A56MRWcVYEvrkMKXDD9ziORzilSFJH0cTNwJ4Cl/DApk7iKMX/6FmGmyBIflhkSs430a9lY2+AIuWL0M22H6udeYeJGnlGvG7PT9TegyJBIvFv5Ql1Yyj5VbLxQlr3NMKTHkK9I8hNKFJT/tEUkUtCIIpOckJfU/M2hWzVaKd1YcrIwvQ6PYWqm/mR3nbKmaYwY/RcHFBTYKOjwMrrhph/V6kS1cT6Aslfh8fd9ayugQZH7H9fyzF4ZdMYbnyfrEu6OqeRvSfyBN29nS3wpm8dKsGXZye3R8Eb0GHWGGhVpIx7Jf8H16RPzw/Vjk9zuyAl/qJzQyiY4XLdB16lI1Ivsj1gmfp24bWxZGnRX/hQOnE2ZFMt/HR9tS69HTkHHOq/L/WfW2ZijmKxNJGxIbx0iGgp/Q7QkVjeHyQcVFrNH6ZtLrQ==;qJxXib+51hZ3kJVInVUNZQ=="
+images:
+  - url: "https://imageio.forbes.com/specials-images/imageserve/6457c256a0fc2b0c6ebf9d2d/0x0.jpg?format=jpg&width=1200"
+    width: 1200
+    height: 801
+    isCached: true
+
+secured: "ZX4noqnyggC+hNQJxlAirl4zM2utokbc/R5WkzeyynkiJ/FOooBw+G82k405Wvgff7Y3u+87DmvVTe+H2VJzH2Emffb7wIECGsdva1RQZYQYlcbYoiuzRKgQY/qGwNCs/piV96/PMz8fqdS6xF5IMtegvFWEro/w/FqZDp+P7bZqx+HplNXPo20GV+3ktVJ7m1haneJqSuRfv9v1Ez1to5Fddj/BECRVx6mvugvE9WxYSjWoelCzF7RoQMmet+TIZ4p5YSBb6l2avqHw16000RSH3Ifut5Mx0omfk+EEd2ntwPwT6BLSb0tN2T74PvqemIId4hmyWIsgt5mNt7K3+MczMQz1JItNhWX2GZqggUc=;YlWxz2dSVllWobAs+ArfWQ=="
 ---
 

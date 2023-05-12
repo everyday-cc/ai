@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/how-gmail-plans-to-use-ai-to-wr
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/how-gmail-plans-to-use-ai-to-write-your-emails-for-you/"
 type: article
 quality: 87
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -46,15 +46,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI Is Coming for Your Web Browser. Here’s How to Use It"
-    excerpt: "Microsoft Edge and other browsers have baked in powerful tools to help you write emails, generate images, and more."
-    publishedDateTime: 2023-05-07T11:00:00Z
-    webUrl: "https://www.wired.com/story/ai-web-browser-microsoft-edge-how-to/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 47
 
 secured: "m64qcfPArY+q2P51ON845xLh/oXLGKtyk7bjQV4q6agR6yzkQTtgN1g8Tv1joHDmkNjgqQ179MDbuRWk+YmoUvcwypyO2h2Qk8XVKVTKX8XIHY84dtqr5PFi1+8G5B7VAsD1CAwI77c0c8RBDVc1l/G3dKOWiPoRe2LXB3ZqZeZZ5kEThrVRGywYoSJ+yw2JVMfhMIF4Fhe+k7bR/ECXova44KTuzDXbQ3VWw8nMxsNcTp1bLo0MtYtNUdzFforCg9lQBCo4jNmkGlGfi3UzGr0QG4dFDeZvCuDPUD01MS3TN2D1HSPtSCfoaNLhTo0jrn7JrB6I9U7nroyO230XfuwZEkyq/9zXfLPaeFd+qy0=;teXfXEysLo8DPE3oHQZM1w=="
 ---

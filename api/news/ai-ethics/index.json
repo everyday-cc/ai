@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2023-05-12-generative-ai-landscape-current-and-future-trends.md",
-      "title": "Generative AI Landscape: Current and Future Trends",
-      "excerpt": "The generative AI landscape is expanding rapidly, and offers great benefits even as it presents enormous challenges.",
+      "path": "_news/2023-05-12-can-ai-deliver-a-customer-experience-like-a-grandmother-would.md",
+      "title": "Can AI Deliver A Customer Experience Like A Grandmother Would?",
+      "excerpt": "ChatGPT is super smart. But can it deliver the customer experience that creates ardent advocates? The new customer metric is not, \"Would you recommend,\" but \"Did you recommend\"—action always trumps intent.",
       "sourceUrl": null,
-      "webUrl": "https://www.eweek.com/artificial-intelligence/generative-ai-landscape/",
-      "originalUrl": "https://www.eweek.com/artificial-intelligence/generative-ai-landscape/",
+      "webUrl": "https://www.forbes.com/sites/chipbell/2023/05/11/can-ai-deliver-a-customer-experience-like-a-grandmother-would/",
+      "originalUrl": "https://www.forbes.com/sites/chipbell/2023/05/11/can-ai-deliver-a-customer-experience-like-a-grandmother-would/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 89,
       "tags": null,
       "images": [
         {
-          "url": "https://www.eweek.com/wp-content/uploads/2023/04/top-generative-ai-companies.png",
-          "width": 1400,
-          "height": 933,
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6457c256a0fc2b0c6ebf9d2d/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 801,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,16 +24,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-11T13:27:00-07:00",
+      "ampWebUrl": "https://www.forbes.com/sites/chipbell/2023/05/11/can-ai-deliver-a-customer-experience-like-a-grandmother-would/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/chipbell/2023/05/11/can-ai-deliver-a-customer-experience-like-a-grandmother-would/amp/",
+      "publishedDateTime": "2023-05-11T12:06:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "eWeek",
-        "domain": "eweek.com",
+        "name": "Forbes",
+        "domain": "forbes.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -49,8 +49,8 @@
         "news"
       ],
       "topics": [
-        "AI Ethics",
-        "AI"
+        "AI",
+        "AI Ethics"
       ]
     },
     {
@@ -158,7 +158,7 @@
       "originalUrl": "https://www.cnet.com/news-live/google-io-2023-live-blog-pixel-7a-fold-tablet-and-bard-ai-reveals/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 191,
+      "heat": 201,
       "tags": null,
       "images": [
         {

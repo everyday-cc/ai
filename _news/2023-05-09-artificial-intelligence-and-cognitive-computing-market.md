@@ -163,6 +163,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "2030, Artificial Intelligence in Construction Market Growth | Future Prospects and Competitive Analysis"
+    excerpt: "The \"Artificial Intelligence in Construction Market\" is one of the sectors that is expanding the fastest, thus it"
+    publishedDateTime: 2023-05-11T22:09:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2030-artificial-intelligence-in-construction-market-growth-future-prospects-and-competitive-analysis-2023-05-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Object Recognition Imaging Systems Market, 2030"
     excerpt: "The Global Object Recognition Imaging Systems market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players,"
     publishedDateTime: 2023-05-07T15:22:00Z
@@ -181,20 +195,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 49
-  - title: "2023-2030, The Global Artificial Intelligence in Aviation Market is Experiencing Significant Growth Worldwide"
-    excerpt: "The Readers in the section will understand how the Artificial Intelligence in Aviation market scenario changed across the globe during the pandemic, post-pandemic and Russia-Ukrai"
-    publishedDateTime: 2023-05-07T10:08:00Z
-    webUrl: "https://www.marketwatch.com/press-release/2023-2030-the-global-artificial-intelligence-in-aviation-market-is-experiencing-significant-growth-worldwide-2023-05-07"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 48
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence Sensors Market Insights and Forecast Offers for Growth 2030"
     excerpt: "Global Artificial Intelligence Sensors Market Research report provides detailed insight into different segments based"
     publishedDateTime: 2023-05-09T16:51:00Z

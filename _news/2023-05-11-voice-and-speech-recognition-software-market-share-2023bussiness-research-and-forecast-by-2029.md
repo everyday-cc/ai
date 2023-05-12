@@ -183,6 +183,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Data and AI Ethics Market Research | 2023-2030"
+    excerpt: "Research Reports has published a new report titled as \"Data and AI Ethics Market\" by End User (BFSI, Government"
+    publishedDateTime: 2023-05-11T01:04:00Z
+    webUrl: "https://www.marketwatch.com/press-release/data-and-ai-ethics-market-research-2023-2030-2023-05-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 84
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence (AI) in Automotive Market"
     excerpt: "Research Reports has published a new report titled as \"Artificial Intelligence (AI) in Automotive Market\" by End"
     publishedDateTime: 2023-05-08T05:30:00Z
@@ -433,15 +447,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "2023-2030, Computer Vision in Artificial Intelligence (AI) Market Segmentation-Identifying Your Target Audience"
-    excerpt: "To know How COVID-19 and Russia-Ukraine War Influence Will Impact This Market/Industry - Request a sample copy of the report-:  In This Reports Computer Vision in Artificial Intelligence (AI) Market Segment by Type ( Hardware,"
-    publishedDateTime: 2023-05-07T10:09:00Z
-    webUrl: "https://www.marketwatch.com/press-release/2023-2030-computer-vision-in-artificial-intelligence-ai-market-segmentation-identifying-your-target-audience-2023-05-07"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 59
   - title: "2023 \"Neural Network Market\" SWOT Analysis: Future Business Advancements and Challenges till 2030"
     excerpt: "The Global Neural Network market is poised for significant growth between 2023 and 2030, with a positive outlook for 2022 and beyond. As key players in the industry adopt effective strategies, the market is expected to expand further,"
     publishedDateTime: 2023-05-08T17:25:00Z

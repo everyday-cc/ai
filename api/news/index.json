@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-05-12-tesla-shouldnt-call-its-self-driving-system-autopilot-us-transport-secretary.md",
+      "title": "Tesla shouldn't call its self-driving system Autopilot: US Transport Secretary",
+      "excerpt": "The National Highway Traffic Safety Administration has probed more than 30 crashes since 2016 in which Tesla EVs were suspected of operating on Autopilot or its more sophisticated automated Full Self-Driving system.",
+      "sourceUrl": null,
+      "webUrl": "https://auto.hindustantimes.com/auto/electric-vehicles/tesla-shouldnt-call-its-self-driving-system-autopilot-us-transport-secretary-41683861027992.html",
+      "originalUrl": "https://auto.hindustantimes.com/auto/electric-vehicles/tesla-shouldnt-call-its-self-driving-system-autopilot-us-transport-secretary-41683861027992.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hindustantimes.com/auto/img/2023/05/12/1600x900/Tesla_Autopilot_1667300797258_1683861371582.JPG",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://auto.hindustantimes.com/auto/electric-vehicles/tesla-shouldnt-call-its-self-driving-system-autopilot-us-transport-secretary/amp-41683861027992.html",
+      "cdnAmpWebUrl": "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/electric-vehicles/tesla-shouldnt-call-its-self-driving-system-autopilot-us-transport-secretary/amp-41683861027992.html",
+      "publishedDateTime": "2023-05-11T20:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Auto News India",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-12-h2o-ai-launches-h2ogpt-and-llm-studio-to-help-companies-make-their-own-chatbots.md",
       "title": "H2O AI launches H2OGPT and LLM Studio to help companies make their own chatbots",
       "excerpt": "“One can take open assist–type datasets and start using the base model to build a GPT,” Sri Ambati, the cofounder and CEO of H2O AI, told VentureBeat. “They can then fine-tune it for a specific use case using their own dataset, as well as add ...",
@@ -53,21 +96,21 @@
       ]
     },
     {
-      "path": "_news/2023-05-12-cryptominers-try-to-pivot-gpu-farms-to-ai-after-ethereum-merge-and-crypto-winter.md",
-      "title": "Cryptominers try to pivot GPU farms to AI after Ethereum merge and Crypto winter",
-      "excerpt": "Now, the pivot has impacted hardware originally used for blockchain, which could potentially lend its processing power to AI. Two large cryptomining companies, Hut 8 and Hive Blockchain, have redirected their mining GPU infrastructure toward High ...",
+      "path": "_news/2023-05-12-cryptominers-try-to-pivot-gpu-farms-to-ai-workloads-after-crypto-decline.md",
+      "title": "Cryptominers try to pivot GPU farms to AI workloads after crypto decline",
+      "excerpt": "Two large cryptomining companies, Hut 8 and Hive Blockchain, have redirected their mining GPU infrastructure toward high-performance computing (HPC), which includes AI workloads. This move could",
       "sourceUrl": null,
       "webUrl": "https://www.techspot.com/news/98661-cryptominers-try-pivot-gpu-farms-ai-after-ethereum.html",
       "originalUrl": "https://www.techspot.com/news/98661-cryptominers-try-pivot-gpu-farms-ai-after-ethereum.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 125,
       "tags": null,
       "images": [
         {
-          "url": "https://www.techspot.com/images2/news/bigimage/2023/03/2023-03-21-image-40.jpg",
-          "width": 2440,
-          "height": 1627,
+          "url": "https://www.techspot.com/images2/news/bigimage/2023/01/2023-01-25-image-18.jpg",
+          "width": 1920,
+          "height": 1080,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -77,7 +120,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-11T14:50:00-07:00",
+      "publishedDateTime": "2023-05-11T14:44:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TechSpot",
@@ -100,8 +143,9 @@
         "news"
       ],
       "topics": [
-        "AI Hardware",
-        "AI"
+        "Microsoft AI",
+        "AI",
+        "AI Hardware"
       ]
     },
     {
@@ -208,58 +252,6 @@
       ]
     },
     {
-      "path": "_news/2023-05-12-generative-ai-landscape-current-and-future-trends.md",
-      "title": "Generative AI Landscape: Current and Future Trends",
-      "excerpt": "The generative AI landscape is expanding rapidly, and offers great benefits even as it presents enormous challenges.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eweek.com/artificial-intelligence/generative-ai-landscape/",
-      "originalUrl": "https://www.eweek.com/artificial-intelligence/generative-ai-landscape/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eweek.com/wp-content/uploads/2023/04/top-generative-ai-companies.png",
-          "width": 1400,
-          "height": 933,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-11T13:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eWeek",
-        "domain": "eweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-05-12-how-ubers-robotics-partner-is-reinventing-the-310b-food-delivery-industry.md",
       "title": "How Uber's Robotics Partner Is Reinventing the $310B Food Delivery Industry",
       "excerpt": "Serve's technology is the future of sidewalk delivery, a $310B market opportunity. Here's why they are leading the charge and why you don't want to miss this investment opportunity. Why brands like Uber and Pizza Hut are turning to Serve.",
@@ -268,7 +260,7 @@
       "originalUrl": "https://www.entrepreneur.com/science-technology/how-ubers-robotics-partner-is-reinventing-the-310b-food/451928",
       "featuredContent": null,
       "highlight": null,
-      "heat": 82,
+      "heat": 83,
       "tags": null,
       "images": [
         {
@@ -411,6 +403,58 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-12-can-ai-deliver-a-customer-experience-like-a-grandmother-would.md",
+      "title": "Can AI Deliver A Customer Experience Like A Grandmother Would?",
+      "excerpt": "ChatGPT is super smart. But can it deliver the customer experience that creates ardent advocates? The new customer metric is not, \"Would you recommend,\" but \"Did you recommend\"—action always trumps intent.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/chipbell/2023/05/11/can-ai-deliver-a-customer-experience-like-a-grandmother-would/",
+      "originalUrl": "https://www.forbes.com/sites/chipbell/2023/05/11/can-ai-deliver-a-customer-experience-like-a-grandmother-would/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6457c256a0fc2b0c6ebf9d2d/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/chipbell/2023/05/11/can-ai-deliver-a-customer-experience-like-a-grandmother-would/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/chipbell/2023/05/11/can-ai-deliver-a-customer-experience-like-a-grandmother-would/amp/",
+      "publishedDateTime": "2023-05-11T12:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
       ]
     },
     {
@@ -1042,7 +1086,7 @@
       "originalUrl": "https://techcrunch.com/sponsor/nvidia-aws-company/financial-fraud-is-evolving-faster-than-ever-but-ai-is-helping-fintechs-fight-back/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 144,
+      "heat": 164,
       "tags": null,
       "images": [
         {
@@ -1222,58 +1266,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-11-10-things-in-tech-tesla-teases-a-new-cybertruck-meta-eyes-hyper-targeted-ads-and-google-brings-ai-to-search.md",
-      "title": "10 Things in Tech: Tesla teases a new cybertruck, Meta eyes hyper-targeted ads, and Google brings AI to search",
-      "excerpt": "Etsy launches a wedding registry, DoorDashers demand more tip, and more headlines.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/google-amazon-facebook-microsoft-tesla-san-francisco-etsy-ai-2023-5",
-      "originalUrl": "https://www.businessinsider.com/google-amazon-facebook-microsoft-tesla-san-francisco-etsy-ai-2023-5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/63c8ac85eee94d001a78e2e2?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/google-amazon-facebook-microsoft-tesla-san-francisco-etsy-ai-2023-5?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-amazon-facebook-microsoft-tesla-san-francisco-etsy-ai-2023-5?amp",
-      "publishedDateTime": "2023-05-11T03:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news-live/google-io-2023-live-blog-p
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news-live/google-io-2023-live-blog-pixel-7a-fold-tablet-and-bard-ai-reveals/"
 type: article
 quality: 91
-heat: 191
+heat: 201
 published: true
 
 provider:
@@ -61,6 +61,22 @@ related:
       - url: "https://s.yimg.com/uu/api/res/1.2/DGmBpGBQv1Rkn6SzZ_xBcQ--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-05/f07f40c0-ef5a-11ed-bfed-eaa440d7eecb.cf.jpg"
         width: 985
         height: 517
+        isCached: true
+  - title: "That wasn’t Google I/O — it was Google AI"
+    excerpt: "Three years ago, the company forced out Timnit Gebru, the co-lead of its ethical AI team, essentially over a paper that raised concerns about the dangers of large language models. Gebru’s concerns have since become mainstream. Her departure, and the ..."
+    publishedDateTime: 2023-05-12T02:33:00Z
+    webUrl: "https://www.technologyreview.com/2023/05/11/1072885/google-io-google-ai/"
+    ampWebUrl: "https://www.technologyreview.com/2023/05/11/1072885/google-io-google-ai/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/05/11/1072885/google-io-google-ai/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 59
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/05/IMG_4229.jpeg?w=3000"
+        width: 3000
+        height: 1688
         isCached: true
   - title: "Google previews an AI-powered future at I/O 2023"
     excerpt: "Expect to see more AI powered features coming your way across a range of key services in Google’s Workspace, apps, and Cloud."

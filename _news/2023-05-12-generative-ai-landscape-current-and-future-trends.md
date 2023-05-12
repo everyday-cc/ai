@@ -7,8 +7,8 @@ originalUrl: "https://www.eweek.com/artificial-intelligence/generative-ai-landsc
 webUrl: "https://www.eweek.com/artificial-intelligence/generative-ai-landscape/"
 type: article
 quality: 69
-heat: 99
-published: true
+heat: -1
+published: false
 
 provider:
   name: eWeek
@@ -29,34 +29,15 @@ images:
     isCached: true
 
 related:
-  - title: "How Artificial Intelligence is Revolutionising the Fintech Landscape?"
-    excerpt: "According to surveys, 2/3 of FinTech companies currently use AI technology in their activities to a greater or lesser extent. Its influence will increase. Last year, the worldwide market for AI solutions in the FinTech industry was assessed at roughly 9 billion USD;"
-    publishedDateTime: 2023-05-08T17:05:00Z
-    webUrl: "https://www.baltictimes.com/how_artificial_intelligence_is_revolutionising_the_fintech_landscape_/"
+  - title: "Megatrends: AI and Robotics"
+    excerpt: "Exhibit A in the global megatrends arena is technological innovation, particularly artificial intelligence, or AI, and its impact on critical technology sectors like robotics, machine learning and ..."
+    publishedDateTime: 2023-05-11T09:44:00Z
+    webUrl: "https://money.usnews.com/investing/articles/megatrends-ai-and-robotics"
     type: article
     provider:
-      name: The Baltic Times
-      domain: baltictimes.com
-    quality: 39
-    images:
-      - url: "https://media.baltictimes.com/media/photos/157961_66405011364592af6ddd73_big.jpg"
-        width: 855
-        height: 570
-        isCached: true
-  - title: "How Artificial Intelligence is Revolutionising the Fintech Landscape?"
-    excerpt: "According to surveys, 2/3 of FinTech companies currently use AI technology in their activities to a greater or lesser extent. Its influence will increase. Last year, the worldwide market for AI solutions in the FinTech industry was assessed at roughly 9 billion USD;"
-    publishedDateTime: 2023-05-10T14:04:00Z
-    webUrl: "https://www.lrytas.lt/english/feature/2023/05/10/news/how-artificial-intelligence-is-revolutionising-the-fintech-landscape--26994790"
-    type: article
-    provider:
-      name: lrytas
-      domain: lrytas.lt
-    quality: 39
-    images:
-      - url: "https://media.lrytas.lt/images/2023/05/10/140405959-a47a9743-68ec-47fd-98d1-65e8ded98f3a.jpg"
-        width: 1080
-        height: 720
-        isCached: true
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 81
   - title: "Tech Trends: AI - The Good, the Bad, and Perhaps the Ugly"
     excerpt: "Consider Zeroeyes and Omnilert, whose AI technologies use standard video surveillance cameras to detect a person in possession of a gun, prompting the system to trigger an action or alert prior to the subject carrying the gun making entry to a facility or shooting the weapon."
     publishedDateTime: 2023-05-10T14:45:00Z

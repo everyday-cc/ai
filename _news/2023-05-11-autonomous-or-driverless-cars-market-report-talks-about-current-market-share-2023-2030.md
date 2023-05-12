@@ -45,22 +45,6 @@ related:
         width: 768
         height: 511
         isCached: true
-  - title: "UK to roll out driverless bus service"
-    excerpt: "The UK will roll out its first driverless bus network in Scotland next week with ... The control system includes an AI (artificial intelligence) engine that receives information from throughout the bus to determine its exact location and calculate the ..."
-    publishedDateTime: 2023-05-11T22:50:00Z
-    webUrl: "https://www.gulf-times.com/article/660874/classified/uk-to-roll-out-driverless-bus-service"
-    ampWebUrl: "https://www.gulf-times.com/article/660874/classified/uk-to-roll-out-driverless-bus-service/amp"
-    cdnAmpWebUrl: "https://www-gulf--times-com.cdn.ampproject.org/c/s/www.gulf-times.com/article/660874/classified/uk-to-roll-out-driverless-bus-service/amp"
-    type: article
-    provider:
-      name: Gulf Times
-      domain: gulf-times.com
-    quality: 59
-    images:
-      - url: "https://www.gulf-times.com/gulftimes/uploads/images/2023/05/11/28023.jpg"
-        width: 1000
-        height: 665
-        isCached: true
   - title: "UK's First Driverless Bus Service To Begin In Scotland Next Week"
     excerpt: "The UK will roll out its first driverless bus network in Scotland next week with drivers on standby behind the steering wheel, ready to take control should an emergency arise."
     publishedDateTime: 2023-05-11T17:07:00Z
@@ -90,6 +74,20 @@ related:
       - url: "https://i0.wp.com/theedinburghreporter.co.uk/wp-content/uploads/2023/04/MicrosoftTeams-image-10.jpeg?fit=1200%2C900&#038;ssl=1"
         width: 1200
         height: 900
+        isCached: true
+  - title: "UK To Roll Out Driverless Bus Service"
+    excerpt: "The UK will roll out its first driverless bus network in Scotland next week with drivers on standby behind the steering wheel, ready to take control"
+    publishedDateTime: 2023-05-12T03:40:00Z
+    webUrl: "https://menafn.com/1106231030/UK-To-Roll-Out-Driverless-Bus-Service"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?106671"
+        width: 444
+        height: 250
         isCached: true
   - title: "UK To Roll Out First Driverless Bus Service"
     excerpt: "The UK will roll out its first driverless bus network in Scotland next week with drivers on standby behind the steering wheel, ready to take control should an emergency arise."

@@ -318,7 +318,7 @@
       "originalUrl": "https://newatlas.com/medical/crank-ms-machine-learning-early-parkinsons-diagnosis/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -667,7 +667,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/2030-gpu-for-deep-learning-market-with-pestal-swot-analysis-2023-05-07",
       "featuredContent": null,
       "highlight": null,
-      "heat": 126,
+      "heat": 116,
       "tags": null,
       "images": [
         {
@@ -1148,33 +1148,24 @@
     {
       "path": "_news/2023-05-04-nippon-life-selects-h2oai-to-transform-its-insurance-business-with-machine-learning-and-improve-customer-health.md",
       "title": "Nippon Life Selects H2O.ai to Transform Its Insurance Business With Machine Learning and Improve Customer Health",
-      "excerpt": "May 3, 2023--H2O.ai, the AI Cloud leader, today announced a strategic partnership with Nippon Life Insurance Company, also k",
+      "excerpt": "\"AI is transforming the trillion dollar healthcare insurance industry, both the businesses themselves and the care they facilitate,\" said Sri Ambati, CEO and founder of H2O.ai. \"By helping Nippon Life advance their AI initiatives and create better customer experiences,",
       "sourceUrl": null,
-      "webUrl": "https://www.bakersfield.com/ap/news/nippon-life-selects-h2o-ai-to-transform-its-insurance-business-with-machine-learning-and-improve/article_a98253b3-803d-59ae-b4aa-70dd8cac1a59.html",
-      "originalUrl": "https://www.bakersfield.com/ap/news/nippon-life-selects-h2o-ai-to-transform-its-insurance-business-with-machine-learning-and-improve/article_a98253b3-803d-59ae-b4aa-70dd8cac1a59.html",
+      "webUrl": "https://technews.tmcnet.com/news/2023/05/03/9807216.htm",
+      "originalUrl": "https://technews.tmcnet.com/news/2023/05/03/9807216.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png?resize=600%2C315",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-03T13:01:00-07:00",
+      "publishedDateTime": "2023-05-03T13:10:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Bakersfield Californian",
-        "domain": "bakersfield.com",
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1184,7 +1175,7 @@
         "news"
       ],
       "topics": [
-        "AI in Autos",
+        "AI in Finance",
         "AI",
         "Machine Learning"
       ]

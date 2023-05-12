@@ -24,6 +24,22 @@ images:
     height: 585
     isCached: true
 
+related:
+  - title: "Union election months away as PGSU seeks voluntary recognition"
+    excerpt: "After a semester of organizing, Princeton Graduate Students United (PGSU) plans to seek voluntary recognition from the University ... We want to make sure every grad can make their voice heard if an election is scheduled,” he wrote, explaining why ..."
+    publishedDateTime: 2023-05-12T03:32:00Z
+    webUrl: "https://www.dailyprincetonian.com/article/2023/05/pgsu-seeks-voluntary-university-recognition-instead-of-election"
+    type: article
+    provider:
+      name: The Daily Princetonian
+      domain: dailyprincetonian.com
+    quality: 24
+    images:
+      - url: "https://snworksceo.imgix.net/pri/88490f09-0069-4568-a150-f6770418e4c3.sized-1000x1000.jpg?w=800&h=600"
+        width: 800
+        height: 600
+        isCached: true
+
 secured: "0t+Yl2zklNLhfIgOZeUVsxL9n6oOBSbRhtibLZr4ic8rg56/hen8ydJxsRtp7NZZLLHfjp721dKGo4Tc2pAGX8cPdJWlTs6+fuaBSw7j1xh6xprE5EnCkyZ2FRRl+kY7IJXGDJpYEJUVMVpJOdeeZe4aMJT4CJFoFV/dWGJArnaNZ3hAHqL/9KGlISV/BxyxmtbeYUsxzR7/wXn9ECMiGJbeHnESTikIZ0+MMnniG0iMgTl5Av8mDGLNV5R/fFGbFStAIvXATrHtVdmWljCQDw05LfhU8/+mAJ2IgiEBaxWD9Xf6KBwVAHCnVa67vP8QWLf1HKJM5i0s0snI/BfDPwFELNtjgEY0lxBtKiggLbg=;WhBk0aDmz8DKlAtBI3igNQ=="
 ---
 

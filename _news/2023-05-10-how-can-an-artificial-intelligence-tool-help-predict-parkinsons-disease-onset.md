@@ -55,6 +55,20 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "A machine-learning approach for the early diagnosis of Parkinson's disease"
+    excerpt: "In a recent ACS Central Science study, scientists from the University of New South Wales (UNSW) discuss a machine learning (ML)-based tool that can detect PD years before the first onset of symptoms. At present, the overall diagnostic accuracy for PD based ..."
+    publishedDateTime: 2023-05-11T00:00:00Z
+    webUrl: "https://www.news-medical.net/news/20230511/A-machine-learning-approach-for-the-early-diagnosis-of-Parkinsons-disease.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 22
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_748037_16838554449464169.jpg"
+        width: 2000
+        height: 1041
+        isCached: true
 
 secured: "yOUTS26azWNxV7TXQGHw9xWdXABUPi9wzhKkBKlERDnHxZjYGISVuEA/diulXKaeBTvGJgGZPzaykxDeMR1CqQHNH6wohIppqCUKw+O49VywfGro61VdrTDorAU8z2nbopkAjAhKWlcuWy98mJWeypH6+oJRkgmWGMZLEpzIKZP+89LP2x0vw/6x0ZPlfwloneK5goqeZqcjNofpkdsspWhavqmS+Ya2n8NTxfAegqyi+ggUNpoqbqnpI6tg+8l56aa9q122oody9M+XukENGu19manI6LezLz4wWSIT1h9KeHhUwEPfNrU8d2Sx/em024gnoKav/9sVowgy7s+RJnLFIWgMXSISWWuLyhvALQg=;CMCetBysUMQ0co4/08Nfaw=="
 ---
