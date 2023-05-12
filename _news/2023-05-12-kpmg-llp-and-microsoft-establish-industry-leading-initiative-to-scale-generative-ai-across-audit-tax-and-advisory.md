@@ -2,9 +2,9 @@
 category: news
 title: "KPMG LLP AND MICROSOFT ESTABLISH INDUSTRY-LEADING INITIATIVE TO SCALE GENERATIVE AI ACROSS AUDIT, TAX AND ADVISORY"
 excerpt: "Companies co-invest to deliver generative AI solutions for Audit, Tax and Advisory U.S. clients; KPMG deploys Microsoft OpenAI capabilities across its internal platforms ; Collabo"
-publishedDateTime: 2023-05-11T20:24:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-kpmg-llp-microsoft-establish-industry-leading-initiative-scale-/2023/05/11/9812975.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-kpmg-llp-microsoft-establish-industry-leading-initiative-scale-/2023/05/11/9812975.htm"
+publishedDateTime: 2023-05-11T19:12:00Z
+originalUrl: "https://technews.tmcnet.com/news/2023/05/11/9812975.htm"
+webUrl: "https://technews.tmcnet.com/news/2023/05/11/9812975.htm"
 type: article
 quality: 32
 heat: -1
@@ -469,6 +469,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "vkv23I23KwIBNLuh5a7+1CfhkoZSZiGBVqpso7Rd558o2B+wWPeKUchfN+cNiUP3MfFJ6K1k2gtH8kH1cSc/t40OK0C+Uscl3dI1OKs46g2f+EgxTYQcAedHPw6Gh8UX1oHvpgRYN/KgIsaucn7E4T8VbOh7o1o5WsAmW8s4PtOL70O+aY4+YNfonhe0iC1pEVXnml0QcJggDzt+ywU9/9cz+KY464NC6720/dDt0yDO93/NBR86iOr0Zl+mhugnUoi74IGM65xUOxh5QDaFnZm+VkQ0MCAhcLFln3YNlQvFgeRPmqAS2Dv7z7Hfs/DPAUL+q8ZqC6d/G9TaXG9nJci/Ihqpw/3Ero8wIC0AeA4=;NBK6aoExDvLZztzjnFiCEg=="
+secured: "TpR6ITSJgNEv9tZo+yiFnqoEKUEi9YmOzW42TKsHX6cn5+pbjjj8es32xBcT7dZvUgJCz/nL3EVJSHsSMPOQuVgpmec8lOtmbUcO8EifPBaZDWnNFmufsYJN5j9V6REtSBawBcCF4jvdGPNXkCm3soy7x19yLm2mfOxbHJQVsiBMhjiT6ZrbUmNyipd/lYSkRxzSR+jvD24I5+0jIhDr51sCnwwJ5XNct4BfUUmy3HP91e2FqKbcWzszDAlnygFY3A4xLMlnUOquWpOrC8lWuRTC/9D6Hn+JvE/R0vHB87aWYkB9hwCwqZQSCr6d5zBxzZhAWLHYj3TKnpF2yHOYYX6N4jnNMrImOBbWSa6nUWI=;PSX2pS8SV5ZC4FY/3scZkA=="
 ---
 

@@ -7,8 +7,8 @@ originalUrl: "https://www.wired.com/story/geoffrey-hinton-ai-chatgpt-dangers/"
 webUrl: "https://www.wired.com/story/geoffrey-hinton-ai-chatgpt-dangers/"
 type: article
 quality: 67
-heat: -1
-published: false
+heat: 77
+published: true
 
 provider:
   name: Wired
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI pioneer Geoffrey Hinton outlines 4 dangers of artificial intelligence"
-    excerpt: "The “Godfather of artificial intelligence” has changed his mind about whether AI can become smarter than humans."
-    publishedDateTime: 2023-05-07T14:26:00Z
-    webUrl: "https://www.tampabay.com/news/business/2023/05/07/ai-pioneer-geoffrey-hinton-outlines-4-dangers-artificial-intelligence/"
-    ampWebUrl: "https://www.tampabay.com/news/business/2023/05/07/ai-pioneer-geoffrey-hinton-outlines-4-dangers-artificial-intelligence/?outputType=amp"
-    cdnAmpWebUrl: "https://www-tampabay-com.cdn.ampproject.org/c/s/www.tampabay.com/news/business/2023/05/07/ai-pioneer-geoffrey-hinton-outlines-4-dangers-artificial-intelligence/?outputType=amp"
-    type: article
-    provider:
-      name: Tampa Bay Times
-      domain: tampabay.com
-    quality: 73
-    images:
-      - url: "https://www.tampabay.com/resizer/Ex5xkonKhkVd-9caaUA6LmErs2I=/1200x675/smart/cloudfront-us-east-1.images.arcpublishing.com/tbt/XLO7HHPWM3NDI5NC5D6FR3OQJA.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Why ‘godfather of AI’ Geoffrey Hinton thinks humanity is at a crossroads"
     excerpt: "In an interview with the Guardian’s Alex Hern, Hinton says he now fears the advances he helped usher in could pose an existential threat to humankind"
     publishedDateTime: 2023-05-09T01:00:00Z

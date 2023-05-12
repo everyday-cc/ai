@@ -6,7 +6,7 @@ publishedDateTime: 2023-05-12T04:40:00Z
 originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-business-report-2023-2030-2023-05-12"
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-business-report-2023-2030-2023-05-12"
 type: article
-quality: 81
+quality: 83
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI in Finance
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI pioneer Geoffrey Hinton outlines 4 dangers of artificial intelligence"
-    excerpt: "The “Godfather of artificial intelligence” has changed his mind about whether AI can become smarter than humans."
-    publishedDateTime: 2023-05-07T14:26:00Z
-    webUrl: "https://www.tampabay.com/news/business/2023/05/07/ai-pioneer-geoffrey-hinton-outlines-4-dangers-artificial-intelligence/"
-    ampWebUrl: "https://www.tampabay.com/news/business/2023/05/07/ai-pioneer-geoffrey-hinton-outlines-4-dangers-artificial-intelligence/?outputType=amp"
-    cdnAmpWebUrl: "https://www-tampabay-com.cdn.ampproject.org/c/s/www.tampabay.com/news/business/2023/05/07/ai-pioneer-geoffrey-hinton-outlines-4-dangers-artificial-intelligence/?outputType=amp"
-    type: article
-    provider:
-      name: Tampa Bay Times
-      domain: tampabay.com
-    quality: 73
-    images:
-      - url: "https://www.tampabay.com/resizer/Ex5xkonKhkVd-9caaUA6LmErs2I=/1200x675/smart/cloudfront-us-east-1.images.arcpublishing.com/tbt/XLO7HHPWM3NDI5NC5D6FR3OQJA.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "What Really Made Geoffrey Hinton Into an AI Doomer"
     excerpt: "The AI pioneer is alarmed by how clever the technology he helped create has become. And it all started with a joke."
     publishedDateTime: 2023-05-08T15:18:00Z

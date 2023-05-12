@@ -69,6 +69,20 @@ related:
         width: 620
         height: 349
         isCached: true
+  - title: "Cryptominers are looking at converting their mining farms into AI operations"
+    excerpt: "With the crypto-mining boom over, companies are looking to pivot to AI. But there's a catch, only the most powerful GPUs are capable."
+    publishedDateTime: 2023-05-12T06:27:00Z
+    webUrl: "https://www.tweaktown.com/news/91443/cryptominers-are-looking-at-converting-their-mining-farms-into-ai-operations/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 36
+    images:
+      - url: "https://static.tweaktown.com/news/9/1/91443_01_cryptominers-are-looking-at-converting-their-mining-farms-into-ai-operations.jpg"
+        width: 620
+        height: 413
+        isCached: true
   - title: "AI Needs Special Processors. Crypto Miners Say They Have Them"
     excerpt: "When the Ethereum blockchain moved away from using a technique for verifying transactions known as proof of work last September, crypto market demand for the specialized processors that performed these calculations disappeared virtually overnight."
     publishedDateTime: 2023-05-10T13:09:00Z

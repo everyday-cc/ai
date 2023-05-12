@@ -98,10 +98,38 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Mobile Speech Recognition Software Market | 2030"
+    excerpt: "The Global Mobile Speech Recognition Software market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players,"
+    publishedDateTime: 2023-05-12T02:53:00Z
+    webUrl: "https://www.marketwatch.com/press-release/mobile-speech-recognition-software-market-2030-2023-05-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Enterprise Artificial Intelligence Market, 2030"
     excerpt: "Research Reports has published a new report titled as \" Enterprise Artificial Intelligence Market \" by End User ( Security and Risk Management, Marketing Management, Customer Support and Experience, Human Resource and Recruitment Management,"
     publishedDateTime: 2023-05-09T01:16:00Z
     webUrl: "https://www.marketwatch.com/press-release/enterprise-artificial-intelligence-market-2030-2023-05-08"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 67
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Life Sciences Market by 2030"
+    excerpt: "Precision Reports has published a new report titled as \"Artificial Intelligence in Life Sciences Market\" by End User"
+    publishedDateTime: 2023-05-12T05:06:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-life-sciences-market-by-2030-2023-05-12"
     type: article
     provider:
       name: MarketWatch

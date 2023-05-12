@@ -1,24 +1,30 @@
 ---
 category: news
-title: "Tesla shouldn't call driving system Autopilot because humans are still in control, Buttigieg says"
-excerpt: "Tesla shouldn't be calling its partially automated driving system Autopilot because the cars can't drive themselves, the top U.S. transportation official says."
-publishedDateTime: 2023-05-12T01:50:00Z
-originalUrl: "https://www.newsday.com/news/nation/tesla-autopilot-buttigieg-mbhjy7n4"
-webUrl: "https://www.newsday.com/news/nation/tesla-autopilot-buttigieg-mbhjy7n4"
-ampWebUrl: "https://www.newsday.com/amp/news/nation/tesla-autopilot-buttigieg-mbhjy7n4"
-cdnAmpWebUrl: "https://www-newsday-com.cdn.ampproject.org/c/s/www.newsday.com/amp/news/nation/tesla-autopilot-buttigieg-mbhjy7n4"
+title: "Tesla shouldn’t call driving system Autopilot because humans are still in control, Buttigieg says"
+excerpt: "WASHINGTON — Tesla shouldn’t be calling its partially automated driving system Autopilot because the cars can’t drive themselves, the top U.S. transportation official says. Transportation Secretary Pete Buttigieg says he’s concerned about Tesla’s marketing of the system,"
+publishedDateTime: 2023-05-12T02:53:00Z
+originalUrl: "https://www.twincities.com/2023/05/11/tesla-shouldnt-call-driving-system-autopilot-because-humans-are-still-in-control-buttigieg-says/"
+webUrl: "https://www.twincities.com/2023/05/11/tesla-shouldnt-call-driving-system-autopilot-because-humans-are-still-in-control-buttigieg-says/"
+ampWebUrl: "https://www.twincities.com/2023/05/11/tesla-shouldnt-call-driving-system-autopilot-because-humans-are-still-in-control-buttigieg-says/amp/"
+cdnAmpWebUrl: "https://www-twincities-com.cdn.ampproject.org/c/s/www.twincities.com/2023/05/11/tesla-shouldnt-call-driving-system-autopilot-because-humans-are-still-in-control-buttigieg-says/amp/"
 type: article
-quality: 26
+quality: 46
 heat: -1
 published: false
 
 provider:
-  name: Newsday
-  domain: newsday.com
+  name: TwinCities.com
+  domain: twincities.com
 
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://www.twincities.com/wp-content/uploads/2023/05/AP21179015976166.jpg?w=1024&h=576"
+    width: 1024
+    height: 576
+    isCached: true
 
 related:
   - title: "Tesla shouldn't call its self-driving system Autopilot: US Transport Secretary"
@@ -79,6 +85,6 @@ related:
       domain: staradvertiser.com
     quality: 19
 
-secured: "3OnYnZ4G3zptYrcUM6z9bG1K/lwqGV+fSU6452xaJ8+PLXGcNYj4XlH2Ga5u2RNx4YMop8YWiFx1MdwKO1+15ZCOmHBPvaGN2Ow4fbWkOoBUrmzMmSDWCyYKw49hdQyuuUs3Y2BJbE2EuAY0/Y04itHQDpvaw3F3XFxcWQ46/8ogwcGza9f83erZOWdOhcxnRo45R/kCBGcpnu5wfPYqZuccRijcCbgZYCtGJ/SCGJGvnmrx+/Zvhpg+iYPMbxtU/6f8dE7MJ4v79Bd3epcWrb8J9zrf5XKPnIBRa0tUev2GTjKGhiU3uKCJO9mfOqlW2TNp+iSYTS3e4QGGLC4XbNzJtRBsj4MXA7lyXcYMTnFB29GQM77HDxU3rt94/f0cVdWVwpPyAPUsAmQoWSi6CLlhwMkXe2E6nbfHsUGq+n9pKgMolW6IBmJzgT3WHZbsru3UCOoF+cWxyS0oXYVTA+KvEoXsQMCEwEpxlARqgcrJtp+dvfgApkr9ODb/SwCh7pKw48X7L8AOC/LBau0uVQ==;fc8WhQOLdcNXp4dFAn9/Nw=="
+secured: "bJvghwzSpVy18NeWDCg4hjblbUozpNS8VkKVSafndmsF4ojwZNEoH/aoGuKuR6Kuu9P8FjSaaZ1GNuLa1b1bXvbIrjvPDtFzB8GYIrpsv5VegGGdqLpdZjRO2akWFWTwH5pzyEW+jes0V5bCxmGzx+im6IvMashVmtQLFjuaRQQL1d02pAyBzTihGBuE4VATyUMq061PAYINPx8KGM7VS9JONNYRN4LnbNTfVO5Hs8RavO9Q2vFamQKHHDWgE4oAcWHG5jzRDxZHbzEM5d+Foh1Z/3FjVPVmjKVk7VhkEDIfvo5jzFPzR6bOUbyVy16UzLOaNyLxYa1V0aUeu9ogT9fZIO5/dqGxM0mYymccYMI=;Ds576SsZEr4hs9vSXLi1sQ=="
 ---
 

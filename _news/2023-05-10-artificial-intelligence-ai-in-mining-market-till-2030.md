@@ -196,6 +196,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) in Fintech Market Business Report 2023-2030"
+    excerpt: "Newest Report will contain the Competitional Analysis of Top 5 Key Plyers (The, Autodesk, IBM, Microsoft, Oracle)"
+    publishedDateTime: 2023-05-12T04:40:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-business-report-2023-2030-2023-05-12"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 83
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence (AI) in Automotive Market"
     excerpt: "Research Reports has published a new report titled as \"Artificial Intelligence (AI) in Automotive Market\" by End"
     publishedDateTime: 2023-05-08T05:30:00Z
@@ -214,20 +228,6 @@ related:
     excerpt: "In 2023,Artificial Intelligence Of Things (AIoT) Solutions Market with technical and procedural infrastructure that"
     publishedDateTime: 2023-05-08T03:10:00Z
     webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-of-things-aiot-solutions-market-research-2023-2030-2023-05-07"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 81
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence (AI) in Fintech Market Business Report 2023-2030"
-    excerpt: "Newest Report will contain the Competitional Analysis of Top 5 Key Plyers (The, Autodesk, IBM, Microsoft, Oracle)"
-    publishedDateTime: 2023-05-12T04:40:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-business-report-2023-2030-2023-05-12"
     type: article
     provider:
       name: MarketWatch

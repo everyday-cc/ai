@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-05-12-does-ai-need-a-un-expert-calls-for-global-governing-body-to-police-billions-of-pieces-of-misinformation.md",
+      "title": "Does AI need a UN? Expert calls for global governing body to police 'billions of pieces of misinformation'",
+      "excerpt": "Cognitive scientist and AI expert Gary Marcus advocates for the formation of an international body to govern emerging artificial intelligence technologies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/tech/ai-un-expert-calls-global-governing-body-police-billions-pieces-misinformation",
+      "originalUrl": "https://www.foxnews.com/tech/ai-un-expert-calls-global-governing-body-police-billions-pieces-misinformation",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0f2e41cc-8d6e-4432-8aec-66607c5212e5/8ff15eca-b9ff-4599-8591-fd4605b24e52/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/tech/ai-un-expert-calls-global-governing-body-police-billions-pieces-misinformation.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/ai-un-expert-calls-global-governing-body-police-billions-pieces-misinformation.amp",
+      "publishedDateTime": "2023-05-11T22:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-12-tesla-shouldnt-call-its-self-driving-system-autopilot-us-transport-secretary.md",
       "title": "Tesla shouldn't call its self-driving system Autopilot: US Transport Secretary",
       "excerpt": "The National Highway Traffic Safety Administration has probed more than 30 crashes since 2016 in which Tesla EVs were suspected of operating on Autopilot or its more sophisticated automated Full Self-Driving system.",
@@ -104,7 +155,7 @@
       "originalUrl": "https://www.techspot.com/news/98661-cryptominers-try-pivot-gpu-farms-ai-after-ethereum.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 125,
+      "heat": 135,
       "tags": null,
       "images": [
         {
@@ -1222,49 +1273,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-11-mayo-clinic-invests-in-nc-artificial-intelligence-healthcare-startup.md",
-      "title": "Mayo Clinic invests in NC artificial intelligence healthcare startup",
-      "excerpt": "Lucem Health, a startup that says it is utilizing artificial intelligence to deliver solutions for physicians and healthcare providers, has a big believer: Mayo Clinic. It's now an investor.",
-      "sourceUrl": null,
-      "webUrl": "https://wraltechwire.com/2023/05/11/mayo-clinic-invests-in-nc-artificial-intelligence-healthcare-startup/",
-      "originalUrl": "https://wraltechwire.com/2023/05/11/mayo-clinic-invests-in-nc-artificial-intelligence-healthcare-startup/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wraltechwire.com/wp-content/uploads/2023/05/AI-51123-e1683802381829.jpg",
-          "width": 912,
-          "height": 513,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wraltechwire.com/2023/05/11/mayo-clinic-invests-in-nc-artificial-intelligence-healthcare-startup/?amp=1",
-      "cdnAmpWebUrl": "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/05/11/mayo-clinic-invests-in-nc-artificial-intelligence-healthcare-startup/?amp=1",
-      "publishedDateTime": "2023-05-11T03:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WRAL TechWire",
-        "domain": "wraltechwire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

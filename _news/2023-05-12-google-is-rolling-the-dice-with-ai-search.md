@@ -280,6 +280,22 @@ related:
       name: Finextra
       domain: finextra.com
     quality: 49
+  - title: "Meta Joins Generative AI Race, Will Begin Testing AI-Powered Ads Tools to Create Content"
+    excerpt: "A select group of advertisers will be invited to experiment with the tools in a \"testing playground\" that Meta is calling the AI Sandbox."
+    publishedDateTime: 2023-05-12T06:49:00Z
+    webUrl: "https://www.gadgets360.com/internet/news/facebook-meta-announces-generative-ai-ads-tool-testing-artificial-intelligence-4027738"
+    ampWebUrl: "https://www.gadgets360.com/internet/news/facebook-meta-announces-generative-ai-ads-tool-testing-artificial-intelligence-4027738/amp"
+    cdnAmpWebUrl: "https://www-gadgets360-com.cdn.ampproject.org/c/s/www.gadgets360.com/internet/news/facebook-meta-announces-generative-ai-ads-tool-testing-artificial-intelligence-4027738/amp"
+    type: article
+    provider:
+      name: gadgets360
+      domain: gadgets360.com
+    quality: 48
+    images:
+      - url: "https://i.gadgets360cdn.com/large/meta_image_reuters_1654769238524.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "What Generative AI Means For Banking"
     excerpt: "The technology has many use cases across banking. Here's where it can provide the greatest value and how banks can manage the ensuing risks."
     publishedDateTime: 2023-05-08T13:32:00Z
@@ -455,6 +471,6 @@ related:
       domain: psychologytoday.com
     quality: 17
 
-secured: "tYAo6B8zGDVndFI9mno01ytxlXjRZz55hRHwe2LScparDuupfSZqzItdSEDAQNP5tWOOdIvkq+0IAF8kaBKomF5xNFBNE2Jfoktx33Dzo+vYF0ECxA8SOJr0JTBzXzmCF+LtzUZOr8NdD5SdAXi25dNBQPjsl/c6pNR/zYXc8439OPoyRvkZuVbETSNUvnIDGzvR8D8LkuIyH8Ot8lXZe+saEqifdltNcrQl6hqVOHN1I++Bs2ZvLQsCQFTIm4p6GR5q+D+c/4PBgWxySQtiiJS0vK6dhNI+f4UdAEktj56STw9pVjthS5SnQA8jD52M9sAG2CuHkJidxSwlIngemvQH9p408OdAxgauekrbXyc=;ygryFA2F25W92GnmyKznSQ=="
+secured: "99HSQHhfFKFD9NfE1QlfW4WKGLRX3VCmXqA2+2PIAOF55nGd0FV2WVlEPZ/PufvbjF+XwefH8fcp3EruJQ61ImoDvtuwJ3Y3HsTFRwIIbyE7FtyU7EWdly+PCXFQILQYVN5T3SIRWeOoTGX/0kQ/AqJsFGV2RHhT8ooeuZ81KiCV6V8QPbyfZXb8wy6GO4CWODxToNGgOs7VdJ3hIlP5uuVl8nZASTTTYxOs1yN0/A0/JGiS2x3lK7NZ6PUgV0t9D2p/frkNU7Zu3C9ImzwCMjnMN2/3tLwNC0f6s9/s3XWn+wI/qP6UFo3rWVOAy+AiS8WboUtyuSQx6owIZj/G8q1Bh/8GddErFFY94BTlSE0=;xi/D6/Cdu3fc1SjzOaN0Rw=="
 ---
 

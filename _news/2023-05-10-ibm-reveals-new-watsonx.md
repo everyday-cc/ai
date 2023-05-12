@@ -214,19 +214,19 @@ related:
         width: 1500
         height: 800
         isCached: true
-  - title: "5 Ways Artificial Intelligence is Changing The Future Of Business"
-    excerpt: "Tech - Artificial intelligence (AI) has been a game-changer in countless ways across the world. Companies and businesses are able to use enhanced AI systems to"
-    publishedDateTime: 2023-05-07T14:39:00Z
-    webUrl: "https://business-review.eu/tech/5-ways-artificial-intelligence-is-changing-the-future-of-business-245442"
+  - title: "How IBM’s Watson X is Scripting the End of Business As We Know it"
+    excerpt: "Banking on its strength as an enterprise-focused company, and with many organisations already using its Watson chatbot, the company is looking to revive its former glory with this next-generation technology."
+    publishedDateTime: 2023-05-12T06:47:00Z
+    webUrl: "https://analyticsindiamag.com/how-ibms-watson-x-is-scripting-the-end-of-business-as-we-know-it/"
     type: article
     provider:
-      name: business-review.eu
-      domain: business-review.eu
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
     quality: 39
     images:
-      - url: "https://business-review.eu/wp-content/uploads/2023/05/AI1.png"
-        width: 624
-        height: 328
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/05/ibm.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "IBM debuts Watsonx product suite to streamline enterprise AI projects"
     excerpt: "Watsonx was previewed at the company’s annual Think conference alongside several other new offerings. For its cloud platform, IBM is rolling out new compute options that provide access to graphics cards."

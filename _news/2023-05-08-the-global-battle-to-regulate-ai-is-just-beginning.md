@@ -75,19 +75,16 @@ related:
         height: 308
         isCached: true
   - title: "How Europe is building artificial intelligence guardrails"
-    excerpt: "A European Parliament committee is set to vote on the proposed rules, part of a yearslong effort to draw up guardrails for artificial intelligence. Those efforts have taken on more urgency as the rapid advance of ChatGPT highlights benefits the emerging technology can bring — and the new perils it poses."
-    publishedDateTime: 2023-05-11T10:39:00Z
-    webUrl: "https://www.chron.com/news/world/article/how-europe-is-building-artificial-intelligence-18093065.php"
+    excerpt: "Authorities around the world are racing to draw up rules for artificial intelligence, including in the European Union, where draft legislation faces a pivotal moment."
+    publishedDateTime: 2023-05-11T06:38:00Z
+    webUrl: "https://www.seattletimes.com/business/how-europe-is-building-artificial-intelligence-guardrails/"
+    ampWebUrl: "https://www.seattletimes.com/business/how-europe-is-building-artificial-intelligence-guardrails/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/how-europe-is-building-artificial-intelligence-guardrails/?amp=1"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: chron.com
+      name: Seattle Times
+      domain: seattletimes.com
     quality: 52
-    images:
-      - url: "https://s.hdnux.com/photos/01/32/63/16/23802753/3/rawImage.jpg"
-        width: 2048
-        height: 1365
-        isCached: true
   - title: "In global rush to regulate AI, Europe set to be trailblazer"
     excerpt: "European lawmakers have rushed to add language on general artificial intelligence systems like ChatGPT as they put the finishing touches on the Western world's first AI rules"
     publishedDateTime: 2023-05-09T09:32:00Z

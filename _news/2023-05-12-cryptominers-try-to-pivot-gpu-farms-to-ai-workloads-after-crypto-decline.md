@@ -7,7 +7,7 @@ originalUrl: "https://www.techspot.com/news/98661-cryptominers-try-pivot-gpu-far
 webUrl: "https://www.techspot.com/news/98661-cryptominers-try-pivot-gpu-farms-ai-after-ethereum.html"
 type: article
 quality: 85
-heat: 125
+heat: 135
 published: true
 
 provider:
@@ -59,6 +59,20 @@ related:
       - url: "http://www.bnnbloomberg.ca/polopoly_fs/1.1918302!/fileimage/httpImage/image.png_gen/derivatives/landscape_620/image.png"
         width: 620
         height: 349
+        isCached: true
+  - title: "Cryptominers are looking at converting their mining farms into AI operations"
+    excerpt: "With the crypto-mining boom over, companies are looking to pivot to AI. But there's a catch, only the most powerful GPUs are capable."
+    publishedDateTime: 2023-05-12T06:27:00Z
+    webUrl: "https://www.tweaktown.com/news/91443/cryptominers-are-looking-at-converting-their-mining-farms-into-ai-operations/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 36
+    images:
+      - url: "https://static.tweaktown.com/news/9/1/91443_01_cryptominers-are-looking-at-converting-their-mining-farms-into-ai-operations.jpg"
+        width: 620
+        height: 413
         isCached: true
   - title: "Cryptominers hope they can find a second life by turning their mining operations into AI farms"
     excerpt: "According to Bloomberg (opens in new tab), some crypto mining companies have pivoted their business towards high-performance computing (HPC) services for customers working with AI"

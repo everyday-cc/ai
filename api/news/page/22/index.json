@@ -2,6 +2,109 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2023-04-28-watch-taylor-swift-sing-kanyes-heartless-and-14-other-ai-covers.md",
+      "title": "Watch Taylor Swift Sing Kanye's 'Heartless' and 14 Other AI Covers",
+      "excerpt": "AI language models, presumably like the one used to generate “Heart on My Sleeve,” learn from large sets of vocal data to match the cadence and tone of the singers they try to emulate. Unfortunately for music labels,",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/taylor-swift-ye-tiktok-ai-ai-voice-generators-1850383505",
+      "originalUrl": "https://gizmodo.com/taylor-swift-ye-tiktok-ai-ai-voice-generators-1850383505",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/a733a743bd19e8da9db8f71b8d2c5974.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-27T13:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-28-jpmorgan-debuts-ai-model-used-to-decipher-fed-speeches-for-potential-trading-signals.md",
+      "title": "JPMorgan debuts AI model used to decipher Fed speeches for potential trading signals",
+      "excerpt": "An curved arrow pointing right. Ahead of the Federal Reserve's policy meeting next week, JPMorgan Chase unveiled a new artificial intelligence-powered tool that digests comments from the US ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/bonds/ai-artificial-intelligence-chatgpt-jpmorgan-investing-outlook-fed-jerome-powell-2023-4",
+      "originalUrl": "https://markets.businessinsider.com/news/bonds/ai-artificial-intelligence-chatgpt-jpmorgan-investing-outlook-fed-jerome-powell-2023-4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6439595af62706001942ff9a?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/news/bonds/ai-artificial-intelligence-chatgpt-jpmorgan-investing-outlook-fed-jerome-powell-2023-4",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/news/bonds/ai-artificial-intelligence-chatgpt-jpmorgan-investing-outlook-fed-jerome-powell-2023-4",
+      "publishedDateTime": "2023-04-27T12:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-28-navy-dod-supercomputing-resource-center-adds-nautilus-penguin-hpc-system.md",
       "title": "Navy DoD Supercomputing Resource Center Adds ‘Nautilus’ Penguin HPC System",
       "excerpt": "The Nautilus HPC system configuration includes 1,352 compute nodes with up to 128 AMD EPYC Milan compute cores per node, 256 GB of memory per node, 16 NVIDIA A40 visualization nodes, 32 NVIDIA A100 Quad GPU AI/ML nodes, 26 petabytes of DDN storage ...",
@@ -1110,100 +1213,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-27-a-versatile-deep-learning-model-for-accurate-prediction-of-plant-growth.md",
-      "title": "A versatile deep-learning model for accurate prediction of plant growth",
-      "excerpt": "To overcome this limitation, researchers from Korea led by Professor Jung Eok Son from Seoul National University have created a novel deep-learning based crop model known as “DeepCrop”, for ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/987092",
-      "originalUrl": "https://www.eurekalert.org/news-releases/987092",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/fa66d95e-03d1-4a32-a4d4-df30ecb190da/Rendition/low-res/Content/Public",
-          "width": 700,
-          "height": 346,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-27T08:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-27-genie-ai-achieves-30x-growth-in-one-year-attracting-major-businesses.md",
-      "title": "Genie AI Achieves 30x Growth in One Year - Attracting Major Businesses",
-      "excerpt": "Over 100 new organizations sign up to Genie AI each day. Genie AI, an open-source legal artificial intelligence startup, has experienced a",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/genie-ai-achieves-30x-growth-in-one-year---attracting-major-businesses-1032267944",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/genie-ai-achieves-30x-growth-in-one-year---attracting-major-businesses-1032267944",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/mmstudio-images/gallery/oM6rIz0qQug4KigzzLTTzaYeplf1/1682576593021-0.jpg",
-          "width": 650,
-          "height": 433,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-27T08:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

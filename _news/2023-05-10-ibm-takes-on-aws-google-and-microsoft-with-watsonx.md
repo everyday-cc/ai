@@ -420,8 +420,8 @@ related:
     quality: 34
   - title: "KPMG LLP AND MICROSOFT ESTABLISH INDUSTRY-LEADING INITIATIVE TO SCALE GENERATIVE AI ACROSS AUDIT, TAX AND ADVISORY"
     excerpt: "Companies co-invest to deliver generative AI solutions for Audit, Tax and Advisory U.S. clients; KPMG deploys Microsoft OpenAI capabilities across its internal platforms ; Collabo"
-    publishedDateTime: 2023-05-11T20:24:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-kpmg-llp-microsoft-establish-industry-leading-initiative-scale-/2023/05/11/9812975.htm"
+    publishedDateTime: 2023-05-11T19:12:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/05/11/9812975.htm"
     type: article
     provider:
       name: TMCnet

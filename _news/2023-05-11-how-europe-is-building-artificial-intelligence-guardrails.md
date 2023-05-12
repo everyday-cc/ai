@@ -1,27 +1,23 @@
 ---
 category: news
 title: "How Europe is building artificial intelligence guardrails"
-excerpt: "A European Parliament committee is set to vote on the proposed rules, part of a yearslong effort to draw up guardrails for artificial intelligence. Those efforts have taken on more urgency as the rapid advance of ChatGPT highlights benefits the emerging technology can bring — and the new perils it poses."
-publishedDateTime: 2023-05-11T10:39:00Z
-originalUrl: "https://www.chron.com/news/world/article/how-europe-is-building-artificial-intelligence-18093065.php"
-webUrl: "https://www.chron.com/news/world/article/how-europe-is-building-artificial-intelligence-18093065.php"
+excerpt: "Authorities around the world are racing to draw up rules for artificial intelligence, including in the European Union, where draft legislation faces a pivotal moment."
+publishedDateTime: 2023-05-11T06:38:00Z
+originalUrl: "https://www.seattletimes.com/business/how-europe-is-building-artificial-intelligence-guardrails/"
+webUrl: "https://www.seattletimes.com/business/how-europe-is-building-artificial-intelligence-guardrails/"
+ampWebUrl: "https://www.seattletimes.com/business/how-europe-is-building-artificial-intelligence-guardrails/?amp=1"
+cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/how-europe-is-building-artificial-intelligence-guardrails/?amp=1"
 type: article
 quality: 52
 heat: -1
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: Seattle Times
+  domain: seattletimes.com
 
 topics:
   - AI
-
-images:
-  - url: "https://s.hdnux.com/photos/01/32/63/16/23802753/3/rawImage.jpg"
-    width: 2048
-    height: 1365
-    isCached: true
 
 related:
   - title: "European Union Set to Be Trailblazer in Global Rush to Regulate Artificial Intelligence"
@@ -99,6 +95,6 @@ related:
         height: 413
         isCached: true
 
-secured: "kGK+ZxY37qNnbtsVlJSsBxlApoIeRYwA+zr4TB6y764zsfg5ZgVQT5XcxXTDUl+DAF2mfipX7zPpcEJD+ZTBquwkCK7z+pbxODJl+lf6EHx1/fo45HQFcBuGobX1UreX0Ffx5dQgQU3QjQEYswtGf4L0dgqpOSWLqZDyoaQAMfwyyLyKgenZIxVu6jxYYivUr/gxyGMUI+R+ZLyz/OBxcGDcy09P+TDEHenOTUJEj0hHLoxTXAwlyY6FeVrq5F1pn/CzbhdwqwjZ8v+vL+SmwDCJFwVRqEZNOKzEbEJL7Zjg9xh+I2y+Mp+BOX8onGX0Up1nEwwKDP/xMUW6Yj5Z6Sft/+8iNL3sgh6KN4mndl3a6QUp1Z47yjT+M/Sc46E+qgpj+WB68zq7sH60L1Wli8lzqiiZ2OC9MEoPtdknMmKCD+WVgz1sOt/6HNMQUq7b8GjsG9VILxS1Fzr+2bweFFe8VSW7onKZzA3is98poU1nO7Xq6Q+kX3kf+ne0b6D8Koj/1ZTFAJS5JH4832/xJA==;f4mWCnlHMOeQF2f2q5u80g=="
+secured: "Lk7RtJxeh56MzGrxwZ6n2iUug+dAbqVxsxESRv2zc39G2fj4J68yeT6Ej8Vbbo2qgpIkqyZtmvYbvXS+af+zRdnl/TJgtXP+GXCMQldjlsyHcVT+SvF7rh1xtoiRASa533KBiTe96x71lmvCfg7vW1UAsBgE4V+GrOyEGEojdOTcAMSpW6Z7QTAsgeLYu5+kCajt94FePZJTqzUp7I+GNYCBb5ZQMspO/Oe/PMrUSaONjE9GmheGctpYChHZINsnJYso0RAGc298u8D8aPfsu1NQUhDsf3zAN2HwGeR1+OuPopTyf02sdA21oEE9F/VwxO0Ki+Du5//cNwcX26t23uhwIXNefuYmJ/13AN9U5qUvsbwJDl+N4c/Kj3CYPrWfN+pCXfzuNVWe2NKgXsKZUqpDTN2j8Rcf5jDr4weqHCjWkJf2AwaJvfBlxW5rHv1b/EPhh8nvz4yg3p2ecTvM3LqL4UGZpq9xflT5Tkv5bc49FgKXO07fh67sb06A7PGQZAf7UucZmClh+SQlOKZG3A==;0kuTRVgYjdxYfxFke/HQEg=="
 ---
 

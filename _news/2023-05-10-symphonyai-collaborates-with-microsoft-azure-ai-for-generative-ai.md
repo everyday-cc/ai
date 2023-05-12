@@ -265,6 +265,22 @@ related:
       name: Wired
       domain: wired.com
     quality: 51
+  - title: "Meta Joins Generative AI Race, Will Begin Testing AI-Powered Ads Tools to Create Content"
+    excerpt: "A select group of advertisers will be invited to experiment with the tools in a \"testing playground\" that Meta is calling the AI Sandbox."
+    publishedDateTime: 2023-05-12T06:49:00Z
+    webUrl: "https://www.gadgets360.com/internet/news/facebook-meta-announces-generative-ai-ads-tool-testing-artificial-intelligence-4027738"
+    ampWebUrl: "https://www.gadgets360.com/internet/news/facebook-meta-announces-generative-ai-ads-tool-testing-artificial-intelligence-4027738/amp"
+    cdnAmpWebUrl: "https://www-gadgets360-com.cdn.ampproject.org/c/s/www.gadgets360.com/internet/news/facebook-meta-announces-generative-ai-ads-tool-testing-artificial-intelligence-4027738/amp"
+    type: article
+    provider:
+      name: gadgets360
+      domain: gadgets360.com
+    quality: 48
+    images:
+      - url: "https://i.gadgets360cdn.com/large/meta_image_reuters_1654769238524.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "What Generative AI Means For Banking"
     excerpt: "The technology has many use cases across banking. Here's where it can provide the greatest value and how banks can manage the ensuing risks."
     publishedDateTime: 2023-05-08T13:32:00Z

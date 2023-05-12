@@ -277,6 +277,22 @@ related:
       name: Finextra
       domain: finextra.com
     quality: 49
+  - title: "Meta Joins Generative AI Race, Will Begin Testing AI-Powered Ads Tools to Create Content"
+    excerpt: "A select group of advertisers will be invited to experiment with the tools in a \"testing playground\" that Meta is calling the AI Sandbox."
+    publishedDateTime: 2023-05-12T06:49:00Z
+    webUrl: "https://www.gadgets360.com/internet/news/facebook-meta-announces-generative-ai-ads-tool-testing-artificial-intelligence-4027738"
+    ampWebUrl: "https://www.gadgets360.com/internet/news/facebook-meta-announces-generative-ai-ads-tool-testing-artificial-intelligence-4027738/amp"
+    cdnAmpWebUrl: "https://www-gadgets360-com.cdn.ampproject.org/c/s/www.gadgets360.com/internet/news/facebook-meta-announces-generative-ai-ads-tool-testing-artificial-intelligence-4027738/amp"
+    type: article
+    provider:
+      name: gadgets360
+      domain: gadgets360.com
+    quality: 48
+    images:
+      - url: "https://i.gadgets360cdn.com/large/meta_image_reuters_1654769238524.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Google Expected To Shake Up Search With New AI Products"
     excerpt: "Google is expected to announce a more conversational version of its flagship search engine, fueled by artificial intelligence. The efforts to overhaul its search business with AI, set to be unveiled Wednesday at the company’s I/O conference in Mountain View,"
     publishedDateTime: 2023-05-10T12:00:00Z
