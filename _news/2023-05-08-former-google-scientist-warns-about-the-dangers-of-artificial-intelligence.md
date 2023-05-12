@@ -9,7 +9,7 @@ ampWebUrl: "https://www.ncregister.com/cna/former-google-scientist-warns-about-t
 cdnAmpWebUrl: "https://www-ncregister-com.cdn.ampproject.org/c/s/www.ncregister.com/cna/former-google-scientist-warns-about-the-dangers-of-artificial-intelligence?amp"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -19,22 +19,6 @@ provider:
 topics:
   - AI Ethics
   - AI
-
-related:
-  - title: "Google AI chief quits due to concerns about dangers from technology"
-    excerpt: "Artificial intelligence pioneer Geoffrey Hinton said he realized computers could become smarter than people far sooner than he and other experts had expected"
-    publishedDateTime: 2023-05-07T15:48:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/273823159/google-ai-chief-quits-due-to-concerns-about-dangers-from-technology"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 39
-    images:
-      - url: "https://cdn.bignewsnetwork.com/cus1683170979548.jpg"
-        width: 630
-        height: 420
-        isCached: true
 
 secured: "M/FMWk3hS962+qN/cRXZdEqDv4kWP7Hi45zvFQ1m1w1QOGArtisxT1z+uHGwwp1eDcG9j03DQf55LGkUE/qxVodHF1PEVEjhF/Uk2U1pYIjMJSF+0SJruRjhv6KGwD64/m1zLBZi/znOnxZSsOHPycoCWYCchXAZR8FnGFU+eZCGBOZq2GuJlDi+mYHkTrhcztBr0Z0wOpfgbRTe8jQKkPnbAtUCruuZZDTCAvjhYp1YubwdNsXGp730vQYVE9Yu0zRhRJBQhoIL1W1rLDyCxuPTQcBfl7b0QYLfOiwMXPQBaT15prf6n5Ppa77iBrn7YqNtt7dDB67je8QAM8ZE56aMt48QQmX9F2f1pmm0uhdSe/v1L3uiPH5tUaHyZS0AqUN55ckMGrJe3UouLl3ln1OEA7wSxniLKUI9VWFol4U+3jryayRw76qni7vlHLis2sv3/rvn45U/MgFrwryb2eWcZlkbrVtuZJ5uk3t7aYwluNKjQGjWLhLZGL/97zyK28bK2ZxE2wP+lLkcN9OWVA==;X1Ppp8XdwyqW9n45euo/Iw=="
 ---

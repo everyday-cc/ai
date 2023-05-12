@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/ai-tools-make-your-job-easier-boost-
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-tools-make-your-job-easier-boost-productivity-work-chatgpt-2023-5?amp"
 type: article
 quality: 87
-heat: 89
+heat: 87
 published: true
 
 provider:

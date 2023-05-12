@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/2030-gpu-for-deep-learni
 webUrl: "https://www.marketwatch.com/press-release/2030-gpu-for-deep-learning-market-with-pestal-swot-analysis-2023-05-07"
 type: article
 quality: 86
-heat: 116
+heat: 126
 published: true
 
 provider:
@@ -39,6 +39,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 67
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "2030, Data Science and Machine Learning Service Market with PESTAL & SWOT Analysis"
+    excerpt: "Global Data Science and Machine Learning Service Market Report 2023 is spread across130 pagesand provides exclusive vital statistics, data, information, trends and competitive landscape details in this niche sector. “Global Data Science and Machine ..."
+    publishedDateTime: 2023-05-11T22:38:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2030-data-science-and-machine-learning-service-market-with-pestal-swot-analysis-2023-05-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 63
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/05/11/the-hot-new-job-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/05/11/the-hot-new-job-that-pays-six-figures-ai-prompt-engineering/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:

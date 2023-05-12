@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-05-10-ferrari-may-eventually-make-an-ev-but-it-has-zero-interest-in-self-driving-cars-we-dont-care.md",
+      "title": "Ferrari may eventually make an EV but it has zero interest in self-driving cars: ‘We don’t care’",
+      "excerpt": "But the Italian luxury auto company says it’s unlikely to ever cave to another major car trend: self-driving vehicles. The iconic supercar maker’s brand is to design sports cars that people want to drive themselves, and capitulating to self-driving ...",
+      "sourceUrl": null,
+      "webUrl": "https://fortune.com/2023/05/09/ferrari-wont-do-self-driving-car-ev/?ref=biztoc.com",
+      "originalUrl": "https://fortune.com/2023/05/09/ferrari-wont-do-self-driving-car-ev/?ref=biztoc.com",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://content.fortune.com/wp-content/uploads/2023/05/GettyImages-1247103950-e1683665996989.jpg?w=840",
+          "width": 840,
+          "height": 560,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://fortune.com/2023/05/09/ferrari-wont-do-self-driving-car-ev/amp/",
+      "cdnAmpWebUrl": "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/2023/05/09/ferrari-wont-do-self-driving-car-ev/amp/",
+      "publishedDateTime": "2023-05-09T19:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fortune",
+        "domain": "fortune.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fortune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-10-specific-training-can-help-computer-vision-models-learn-like-humans-study.md",
       "title": "Specific training can help computer vision models learn like humans: Study",
       "excerpt": "MIT researchers have discovered that a specific training method can help computer vision models learn more perceptually straight representations, like humans do. Training involves showing a machine-learning model millions of examples so it can learn a task.",
@@ -53,7 +105,7 @@
       "originalUrl": "https://www.cnet.com/tech/computing/google-chrome-brings-better-ai-brains-to-the-web/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 128,
+      "heat": 127,
       "tags": null,
       "images": [
         {
@@ -104,7 +156,7 @@
       "originalUrl": "https://www.forbes.com/sites/markcperna/2023/05/09/why-ai-will-open-up-new-career-opportunities-for-young-people/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 111,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -1203,57 +1255,6 @@
       ],
       "topics": [
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-09-here-are-10-ai-powered-tools-to-help-boost-your-productivity-at-work.md",
-      "title": "Here are 10 AI-powered tools to help boost your productivity at work",
-      "excerpt": "AI readers like Wordtune Read might be able to help you get ... Insider's Aaron Mok tried the tool for a week and found it gave him a boost of motivation to start rote tasks like responding to emails. It also helped him quickly transition into a focused ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/ai-tools-make-your-job-easier-boost-productivity-work-chatgpt-2023-5",
-      "originalUrl": "https://www.businessinsider.com/ai-tools-make-your-job-easier-boost-productivity-work-chatgpt-2023-5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/640a41b79ef79f0018286f61?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/ai-tools-make-your-job-easier-boost-productivity-work-chatgpt-2023-5?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-tools-make-your-job-easier-boost-productivity-work-chatgpt-2023-5?amp",
-      "publishedDateTime": "2023-05-09T03:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

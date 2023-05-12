@@ -2,6 +2,59 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2023-04-22-artificial-intelligence-in-the-garden-of-eden.md",
+      "title": "Artificial Intelligence in the Garden of Eden",
+      "excerpt": "The dawn of the internet age was so exciting. I took my grade-school son, enthralled by Apple computers, to see Steve Jobs speak at a raucous convention in New York almost a quarter-century ago.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/artificial-intelligence-in-the-garden-of-eden-adam-eve-gates-zuckerberg-technology-god-internet-40a4477a",
+      "originalUrl": "https://www.wsj.com/articles/artificial-intelligence-in-the-garden-of-eden-adam-eve-gates-zuckerberg-technology-god-internet-40a4477a",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-767058/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-21T13:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2023-04-22-ai-ml-data-news-roundup-hugginggpt-aws-bedrock-microsoft-visual-chatgpt-and-stablelm.md",
       "title": "AI, ML & Data News Roundup: HuggingGPT, AWS Bedrock, Microsoft Visual ChatGPT, and StableLM",
       "excerpt": "The latest update for the week of April 17th, 2023, includes the recent advancements and announcements in the domains of data science, machine learning, and artificial intelligence. The spotlight this week is on top players like Hugging Face,",
@@ -1132,49 +1185,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-21-google-creates-new-unit-called-google-deepmind-to-focus-on-ai-projects.md",
-      "title": "Google Creates New Unit Called “Google DeepMind” To Focus On AI Projects",
-      "excerpt": "Google has announced the merger of DeepMind and Google Brain team from the Google Research team to boost AI development efforts.",
-      "sourceUrl": null,
-      "webUrl": "https://techreport.com/news/3495608/google-creates-new-unit-called-google-deepmind-to-focus-on-ai-projects/",
-      "originalUrl": "https://techreport.com/news/3495608/google-creates-new-unit-called-google-deepmind-to-focus-on-ai-projects/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techreport.com/wp-content/uploads/2023/04/rajeshwar-bachu-K4txLik7pnY-unsplash-1-scaled.jpg",
-          "width": 2560,
-          "height": 1840,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-21T02:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Tech Report",
-        "domain": "techreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

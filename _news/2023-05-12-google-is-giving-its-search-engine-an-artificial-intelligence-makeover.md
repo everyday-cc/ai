@@ -7,7 +7,7 @@ originalUrl: "https://www.chicagotribune.com/business/ct-aud-biz-google-search-e
 webUrl: "https://www.chicagotribune.com/business/ct-aud-biz-google-search-engine-ai-20230511-czodpdd2wjgafndao7h2x4qvn4-story.html"
 type: article
 quality: 22
-heat: 22
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "Google is giving its dominant search engine an artificial-intelligence makeover"
+    excerpt: "Google has disclosed plans to infuse its dominant search engine with more advanced artificial-intelligence technology"
+    publishedDateTime: 2023-05-11T12:47:00Z
+    webUrl: "https://abcnews.go.com/US/wireStory/google-giving-dominant-search-engine-artificial-intelligence-makeover-99233593"
+    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/google-giving-dominant-search-engine-artificial-intelligence-makeover-99233593"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/google-giving-dominant-search-engine-artificial-intelligence-makeover-99233593"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 38
+    images:
+      - url: "https://s.abcnews.com/images/US/wirestory_fd0538018df958388991772ced6e693d_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "AI: Artificial or Advanced Intelligence"
     excerpt: "What is Artificial Intelligence? And can intelligence actually be artificial? These questions have been on the minds of many for decades. With the emergence of MIT's super A.I. Watson, and the insurgence of the driver-less car, now seems apropos to seek ..."
     publishedDateTime: 2023-05-10T01:25:00Z
@@ -34,6 +50,6 @@ related:
       domain: avclub.com
     quality: 17
 
-secured: "fWJ+KmKssrODylgYVzxnFgtpT3ayAQ5vII2WRVXOZKqU33a766uh2sPuy/zmsqtzzg5cV9B5SXSb77Jt1Se3nzJlF5lpXcv9UK56O/VonODANVZMwkevwW0pY3dHmv7ADEpPO3jqbj1Y0g0ql1KE9MHua+EqpxLPdM5fG6KxmZnXe1rtpa08lwIAFgNqf674v7yuKBprbizeuuD5onJPU9hTvbTEeKugZ3dvNbZg/XfkzNx9+onzI25/WzsYyoAwIf4jYK9a5w+MAWKbLtP7gynC4nNya1aNU80sCMvZY5wsT29JWVY8HNspTvyPa/vtIXbYxtPCo1o52tDgOlVS8w+M90IzKxdZ1ksT79s6pwA=;IPJTbwsJyVwiZ8g++Z/zfQ=="
+secured: "5hqjLnHhcZPKJcVLeQoHum/3CDrJW7VXw14/BvIQr+UrkGuTBdEV3IlJ4oWoLKqQD92T0uveKA9g3+sKEMt0jjtalkD1LuWZFagNN/AwIZdUfWEumXH+i2mAcOahnNueTzO9JvhkTbw5RUExIBy8OhvHCdV6UD7W0GYO+ATjkqxPJL39CyeYK4EG7Y7kwOWNBmj8ynwkC5fVJxBySc6pmp+XT8eahLz5TmkPPsVWDdXAerix3NGhjmup8X6GmMBHnSCv9NW1UjHbnYOBBewgzFqdxNGAtHIawXNhbgYH0//UXrelwNgn2jU/iaVrzdlljYpyeON9b1t2iyfqcfZa3KR6zeFDyU+xQJs1luOZ3MFjZj2Be/uAagKll2GT7fvXvvju12u4jq/0D16149TlcpHpdHp0sOcQ/TxaOsMRdZsQ5plT5hIDKmLO34sn5slABBy4GmVc72uK3nAvM+z2cYG2f31ga6TmZhCjGhI91HpAR39UuGnHNasxwxrgBg0ihDAYMnhRfr1K63nKhsTRCQ==;LnbNJAzbtnDtmb244cXrqw=="
 ---
 

@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-05-12-ai-powered-vc-firm-vela-emerges-from-stealth-with-25m-under-management.md",
+      "title": "‘AI-powered’ VC firm Vela emerges from stealth with $25M under management",
+      "excerpt": "Vela, an early-stage-focused VC firm that its founder describes as 'product-led,' has emerged from stealth with $25 million under management.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/05/11/ai-powered-vc-firm-vela-emerges-from-stealth-with-25m-under-management/",
+      "originalUrl": "https://techcrunch.com/2023/05/11/ai-powered-vc-firm-vela-emerges-from-stealth-with-25m-under-management/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/09/GettyImages-1142858578.jpg?resize=1200,902",
+          "width": 1200,
+          "height": 902,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/05/11/ai-powered-vc-firm-vela-emerges-from-stealth-with-25m-under-management/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/11/ai-powered-vc-firm-vela-emerges-from-stealth-with-25m-under-management/amp/",
+      "publishedDateTime": "2023-05-11T13:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2023-05-12-how-ubers-robotics-partner-is-reinventing-the-310b-food-delivery-industry.md",
       "title": "How Uber's Robotics Partner Is Reinventing the $310B Food Delivery Industry",
       "excerpt": "Serve's technology is the future of sidewalk delivery, a $310B market opportunity. Here's why they are leading the charge and why you don't want to miss this investment opportunity. Why brands like Uber and Pizza Hut are turning to Serve.",
@@ -360,7 +412,7 @@
       "originalUrl": "https://www.bbc.com/worklife/article/20230507-the-jobs-ai-wont-take-yet",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 90,
       "tags": null,
       "images": [
         {
@@ -1371,40 +1423,6 @@
         "AI in Finance",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-05-02-deere-nysede-an-under-the-radar-ai-and-robotics-stock.md",
-      "title": "Deere (NYSE:DE): An Under-the-Radar AI and Robotics Stock",
-      "excerpt": "Deere has also been busy acquiring a number of AI and robotic startups in recent years ... to smaller deals like its 2021 acquisition of Silicon Valley AgTech startup Bear Flag Robotics and its March 2023 acquisition of SparkAI. Despite these ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/deere-nyse%3Ade%3A-an-under-the-radar-ai-and-robotics-stock",
-      "originalUrl": "https://www.nasdaq.com/articles/deere-nyse%3Ade%3A-an-under-the-radar-ai-and-robotics-stock",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-01T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

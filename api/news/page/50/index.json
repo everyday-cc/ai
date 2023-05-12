@@ -2,6 +2,40 @@
   "page": 50,
   "value": [
     {
+      "path": "_news/2023-04-06-a-staggering-number-of-new-tools-revealed-by-the-google-search-for-ai-tools.md",
+      "title": "A Staggering Number Of New Tools Revealed by “The Google search for AI tools”",
+      "excerpt": "A new search tool for AI, known as Topapps.ai reveals just how proliferated tha AI tool industry has become. In short: if you believe you know what AI is and what it can do, it is highly probable that this tool will re-educate you on the vastness of possibilities.",
+      "sourceUrl": null,
+      "webUrl": "https://techbullion.com/a-staggering-number-of-new-tools-revealed-by-the-google-search-for-ai-tools/",
+      "originalUrl": "https://techbullion.com/a-staggering-number-of-new-tools-revealed-by-the-google-search-for-ai-tools/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-06T01:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Impacts",
+        "domain": "techbullion.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-06-meta-has-a-new-ai-model-that-can-identify-objects-within-an-image.md",
       "title": "Meta has a new AI model that can identify objects within an image",
       "excerpt": "The Facebook owner also unveiled ... Earlier this year, Meta released a new research-focused large language model called Llama, or Large Language Model Meta AI, to join the increasing competition ...",
@@ -950,49 +984,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-05-new-study-shows-the-potential-of-machine-learning-in-the-early-identification-of-people-with-inflammatory-arthritis.md",
-      "title": "New study shows the potential of machine learning in the early identification of people with inflammatory arthritis",
-      "excerpt": "A study by Swansea University has revealed how machine learning can help with the early detection of Ankylosing Spondylitis (AS) inflammatory arthritis and revolutionize how people are detected and diagnosed by their GPs.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2023-04-potential-machine-early-identification-people.html",
-      "originalUrl": "https://medicalxpress.com/news/2023-04-potential-machine-early-identification-people.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/machine-learning-1.jpg",
-          "width": 1920,
-          "height": 1316,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2023-04-potential-machine-early-identification-people.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-04-potential-machine-early-identification-people.amp",
-      "publishedDateTime": "2023-04-05T09:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

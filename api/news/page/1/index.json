@@ -2,6 +2,109 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-05-12-h2o-ai-launches-h2ogpt-and-llm-studio-to-help-companies-make-their-own-chatbots.md",
+      "title": "H2O AI launches H2OGPT and LLM Studio to help companies make their own chatbots",
+      "excerpt": "“One can take open assist–type datasets and start using the base model to build a GPT,” Sri Ambati, the cofounder and CEO of H2O AI, told VentureBeat. “They can then fine-tune it for a specific use case using their own dataset, as well as add ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/h2o-ai-launches-h2ogpt-llm-studio/",
+      "originalUrl": "https://venturebeat.com/ai/h2o-ai-launches-h2ogpt-llm-studio/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/09/chatbot-e1683843122122.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/h2o-ai-launches-h2ogpt-llm-studio/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/h2o-ai-launches-h2ogpt-llm-studio/amp/",
+      "publishedDateTime": "2023-05-11T15:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-12-cryptominers-try-to-pivot-gpu-farms-to-ai-after-ethereum-merge-and-crypto-winter.md",
+      "title": "Cryptominers try to pivot GPU farms to AI after Ethereum merge and Crypto winter",
+      "excerpt": "Now, the pivot has impacted hardware originally used for blockchain, which could potentially lend its processing power to AI. Two large cryptomining companies, Hut 8 and Hive Blockchain, have redirected their mining GPU infrastructure toward High ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/98661-cryptominers-try-pivot-gpu-farms-ai-after-ethereum.html",
+      "originalUrl": "https://www.techspot.com/news/98661-cryptominers-try-pivot-gpu-farms-ai-after-ethereum.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techspot.com/images2/news/bigimage/2023/03/2023-03-21-image-40.jpg",
+          "width": 2440,
+          "height": 1627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-11T14:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-12-githubs-thomas-dohmke-talks-open-source-ai-and-more-on-the-disrupt-saas-stage.md",
       "title": "GitHub’s Thomas Dohmke talks open source, AI and more on the Disrupt SaaS Stage",
       "excerpt": "Thomas Dohmke, the CEO of GitHub, will join TechCrunch for a fireside chat on this year's SaaS Stage at TechCrunch Disrupt 2023.",
@@ -61,7 +164,7 @@
       "originalUrl": "https://techcrunch.com/2023/05/11/ai-powered-vc-firm-vela-emerges-from-stealth-with-25m-under-management/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": 98,
       "tags": null,
       "images": [
         {
@@ -100,7 +203,8 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "AI in Robotics"
       ]
     },
     {
@@ -357,49 +461,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-12-hackers-to-test-limits-of-ai-at-las-vegas-event-this-summer.md",
-      "title": "Hackers to test limits of AI at Las Vegas event this summer",
-      "excerpt": "The Biden administration is joining forces with Microsoft, Google and other companies to get hackers to see if tools like ChatGPT can be used to cause harm.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reviewjournal.com/business/conventions/hackers-to-test-limits-of-ai-at-las-vegas-event-this-summer-2775790/",
-      "originalUrl": "https://www.reviewjournal.com/business/conventions/hackers-to-test-limits-of-ai-at-las-vegas-event-this-summer-2775790/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reviewjournal.com/wp-content/uploads/2023/05/17764760_web1_17764760-0f19e4ef3ff84811b06fbaa753ea19a6.jpg?w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.reviewjournal.com/business/conventions/hackers-to-test-limits-of-ai-at-las-vegas-event-this-summer-2775790/amp/",
-      "cdnAmpWebUrl": "https://www-reviewjournal-com.cdn.ampproject.org/c/s/www.reviewjournal.com/business/conventions/hackers-to-test-limits-of-ai-at-las-vegas-event-this-summer-2775790/amp/",
-      "publishedDateTime": "2023-05-11T10:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Las Vegas Review-Journal",
-        "domain": "reviewjournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     },
@@ -1026,6 +1087,49 @@
       ]
     },
     {
+      "path": "_news/2023-05-11-mass-event-will-let-hackers-test-limits-of-ai-technology.md",
+      "title": "Mass Event Will Let Hackers Test Limits of AI Technology",
+      "excerpt": "Major AI providers such as OpenAI, Google, and Microsoft, are allowing hackers take a shot at testing the limits of their technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.securityweek.com/mass-event-will-let-hackers-test-limits-of-ai-technology/",
+      "originalUrl": "https://www.securityweek.com/mass-event-will-let-hackers-test-limits-of-ai-technology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.securityweek.com/wp-content/uploads/2023/04/ChatGPT_Security-Ethics-AI.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.securityweek.com/mass-event-will-let-hackers-test-limits-of-ai-technology/amp/",
+      "cdnAmpWebUrl": "https://www-securityweek-com.cdn.ampproject.org/c/s/www.securityweek.com/mass-event-will-let-hackers-test-limits-of-ai-technology/amp/",
+      "publishedDateTime": "2023-05-11T05:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SecurityWeek",
+        "domain": "securityweek.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-11-a-season-of-recognition-the-oklahoma-city-thunders-individual-honors-and-a-promising-trajectory.md",
       "title": "A Season Of Recognition: The Oklahoma City Thunder’s Individual Honors And A Promising Trajectory",
       "excerpt": "Following an extremely successful 40-win season for the Oklahoma City Thunder, several individuals earned praise with the various awards and teams that are voted upon.",
@@ -1170,109 +1274,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-05-11-autonomous-or-driverless-cars-market-report-talks-about-current-market-share-2023-2030.md",
-      "title": "Autonomous or Driverless Cars Market Report Talks about Current Market Share 2023-2030",
-      "excerpt": "May 11, 2023 (The Expresswire) -- \"Stay informed with the Latest New Insight Updates on Autonomous or Driverless Cars Market to remain Competitive",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/autonomous-or-driverless-cars-market-report-talks-about-current-market-share-2023-2030-2023-05-11",
-      "originalUrl": "https://www.marketwatch.com/press-release/autonomous-or-driverless-cars-market-report-talks-about-current-market-share-2023-2030-2023-05-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-11T01:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-11-the-hot-new-job-that-pays-six-figures-ai-prompt-engineering.md",
-      "title": "The Hot New Job That Pays Six Figures: AI Prompt Engineering",
-      "excerpt": "The emerging field of prompt engineering involves using generative AI tools and natural language processing to create more effective outputs. But what are the skills required? Which companies are hiring for this role?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2023/05/11/the-hot-new-job-that-pays-six-figures-ai-prompt-engineering/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2023/05/11/the-hot-new-job-that-pays-six-figures-ai-prompt-engineering/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/645c8a0c17d25e16f92796dd/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2023/05/11/the-hot-new-job-that-pays-six-figures-ai-prompt-engineering/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/05/11/the-hot-new-job-that-pays-six-figures-ai-prompt-engineering/amp/",
-      "publishedDateTime": "2023-05-10T23:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Mass Event Will Let Hackers Test Limits of AI Technology"
+    excerpt: "Major AI providers such as OpenAI, Google, and Microsoft, are allowing hackers take a shot at testing the limits of their technology."
+    publishedDateTime: 2023-05-11T12:19:00Z
+    webUrl: "https://www.securityweek.com/mass-event-will-let-hackers-test-limits-of-ai-technology/"
+    ampWebUrl: "https://www.securityweek.com/mass-event-will-let-hackers-test-limits-of-ai-technology/amp/"
+    cdnAmpWebUrl: "https://www-securityweek-com.cdn.ampproject.org/c/s/www.securityweek.com/mass-event-will-let-hackers-test-limits-of-ai-technology/amp/"
+    type: article
+    provider:
+      name: SecurityWeek
+      domain: securityweek.com
+    quality: 59
+    images:
+      - url: "https://www.securityweek.com/wp-content/uploads/2023/04/ChatGPT_Security-Ethics-AI.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Hackers to test limits of AI at Las Vegas event this summer"
     excerpt: "The Biden administration is joining forces with Microsoft, Google and other companies to get hackers to see if tools like ChatGPT can be used to cause harm."
     publishedDateTime: 2023-05-11T17:09:00Z
@@ -44,6 +60,20 @@ related:
       name: NBC News
       domain: nbcnews.com
     quality: 49
+  - title: "Google AI chief quits due to concerns about dangers from technology"
+    excerpt: "Artificial intelligence pioneer Geoffrey Hinton said he realized computers could become smarter than people far sooner than he and other experts had expected"
+    publishedDateTime: 2023-05-07T15:48:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/273823159/google-ai-chief-quits-due-to-concerns-about-dangers-from-technology"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 39
+    images:
+      - url: "https://cdn.bignewsnetwork.com/cus1683170979548.jpg"
+        width: 630
+        height: 420
+        isCached: true
   - title: "Mass event will let hackers test limits of AI technology"
     excerpt: "No sooner did ChatGPT get unleashed than hackers started “jailbreaking” the artificial intelligence chatbot – trying to override its safeguards so it could blurt out something unhinged or obscene"
     publishedDateTime: 2023-05-10T15:02:00Z
@@ -58,29 +88,29 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Mass event will let hackers test limits of AI technology"
-    excerpt: "No sooner did ChatGPT get unleashed than hackers started \"jailbreaking\" the artificial intelligence chatbot — trying to override its safeguards so it could blurt out something unhinged or obscene. But now its maker,"
-    publishedDateTime: 2023-05-11T09:59:00Z
-    webUrl: "https://www.timesfreepress.com/news/2023/may/11/mass-event-will-let-hackers-test-limits-tfp/"
+  - title: "Vintra showcases its artificial intelligence technology in a demo"
+    excerpt: "Vintra, mentioned by former Boston police commissioner Ed Davis during a Senate hearing about the Boston marathon bombing, can learn \"from normal activity\" to notify operators of \"approaching threats and of anomalies."
+    publishedDateTime: 2023-05-10T22:30:00Z
+    webUrl: "https://www.foxbusiness.com/video/6327054767112"
     type: article
     provider:
-      name: Chattanooga Times Free Press
-      domain: timesfreepress.com
-    quality: 39
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 37
     images:
-      - url: "https://wehco.media.clients.ellingtoncms.com/img/photos/2023/05/10/AP23128822415100_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
-        width: 600
-        height: 400
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/134b7b90-1d04-409f-8702-f36e8b024f01/b15f0495-266a-4b82-a6b6-c61ff14fc4dc/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Mass hacking event to test AI programs coming to Las Vegas convention"
-    excerpt: "The mass hacking event is planned for this summer’s DEF CON hacker convention in Las Vegas, which is expected to draw several thousand people."
-    publishedDateTime: 2023-05-11T17:19:00Z
-    webUrl: "https://www.ktnv.com/news/mass-hacking-event-to-test-ai-programs-coming-to-las-vegas-convention"
+  - title: "Artificial intelligence can be found in many places. How safe is the technology?"
+    excerpt: "NPR's A Martinez speaks with Jack Clark, co-founder of artificial intelligence company Anthropic, about AI safety concerns."
+    publishedDateTime: 2023-05-10T09:08:00Z
+    webUrl: "https://www.boisestatepublicradio.org/2023-05-10/artificial-intelligence-can-be-found-in-many-places-how-safe-is-the-technology"
     type: article
     provider:
-      name: KTNV Las Vegas
-      domain: ktnv.com
-    quality: 19
+      name: Boise State Public Radio
+      domain: boisestatepublicradio.org
+    quality: 14
 
 secured: "7qDY80qZqMaBg3gmpC6ubLOCI2H3dgCe5mdzXf3D8H4L7yenRrtJjb5Xd2K5D4u6gk4LFdcKEZSb8jiAZgkzq3sWWIhJGFARw68NzYOMrtY3Lezu7j9eE848zm9dYN1x+KkgGYRUlinGb8Bx1/NqKxS36C/GOZ+UYk68LSLT4Qv0uY6LuYGGu7Gn9vBLsrtVYNNzSeuFyDESCll2eizOCrmqd4hVOXsIptIe2AFnB8rQwKNdaxEmSo8D9tC079K/EMUE8RW4F/XijkcParnxp3rOb8FQTB3G+M57fAbMwy30Y16zLnE2CuG9sX67mrBpg2GnlIJRL5KOcX3YgCbnROoC/9+vXYOK/KMhkDSkJ0B79Axd3JTTOyMi59/Z/km1mBkGm7ZHv+B2BVGKdkxKf4a/+RkZP1NOPdOazaT3QknfuCu05ymZxr7IQPJZYEKmCL3JT8chMofS97PUn/1x6XL4cUrgAt33DT70UX+bOSSGib93hrePniWhRnQZh38Kqw7NdhR59T9k7YblG7V8Tg==;gKM9ayjZ4WMxwzpV2m0fIA=="
 ---

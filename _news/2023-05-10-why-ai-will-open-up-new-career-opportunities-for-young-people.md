@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/markcperna/2023/05/09/why-ai-will-open-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markcperna/2023/05/09/why-ai-will-open-up-new-career-opportunities-for-young-people/amp/"
 type: article
 quality: 89
-heat: 111
+heat: 109
 published: true
 
 provider:

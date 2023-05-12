@@ -9,8 +9,8 @@ ampWebUrl: "https://www.bnnbloomberg.ca/ai-needs-specialized-processors-crypto-m
 cdnAmpWebUrl: "https://www-bnnbloomberg-ca.cdn.ampproject.org/c/s/www.bnnbloomberg.ca/ai-needs-specialized-processors-crypto-miners-say-they-have-them-1.1918301.amp.html"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: -1
+published: false
 
 provider:
   name: bnnbloomberg
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Cryptominers try to pivot GPU farms to AI after Ethereum merge and Crypto winter"
+    excerpt: "Now, the pivot has impacted hardware originally used for blockchain, which could potentially lend its processing power to AI. Two large cryptomining companies, Hut 8 and Hive Blockchain, have redirected their mining GPU infrastructure toward High ..."
+    publishedDateTime: 2023-05-11T21:50:00Z
+    webUrl: "https://www.techspot.com/news/98661-cryptominers-try-pivot-gpu-farms-ai-after-ethereum.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 79
+    images:
+      - url: "https://www.techspot.com/images2/news/bigimage/2023/03/2023-03-21-image-40.jpg"
+        width: 2440
+        height: 1627
+        isCached: true
   - title: "Cryptominers hope they can find a second life by turning their mining operations into AI farms"
     excerpt: "According to Bloomberg (opens in new tab), some crypto mining companies have pivoted their business towards high-performance computing (HPC) services for customers working with AI"
     publishedDateTime: 2023-05-11T20:53:00Z

@@ -54,21 +54,21 @@
       ]
     },
     {
-      "path": "_news/2023-05-12-hackers-to-test-limits-of-ai-at-las-vegas-event-this-summer.md",
-      "title": "Hackers to test limits of AI at Las Vegas event this summer",
-      "excerpt": "The Biden administration is joining forces with Microsoft, Google and other companies to get hackers to see if tools like ChatGPT can be used to cause harm.",
+      "path": "_news/2023-05-11-mass-event-will-let-hackers-test-limits-of-ai-technology.md",
+      "title": "Mass Event Will Let Hackers Test Limits of AI Technology",
+      "excerpt": "Major AI providers such as OpenAI, Google, and Microsoft, are allowing hackers take a shot at testing the limits of their technology.",
       "sourceUrl": null,
-      "webUrl": "https://www.reviewjournal.com/business/conventions/hackers-to-test-limits-of-ai-at-las-vegas-event-this-summer-2775790/",
-      "originalUrl": "https://www.reviewjournal.com/business/conventions/hackers-to-test-limits-of-ai-at-las-vegas-event-this-summer-2775790/",
+      "webUrl": "https://www.securityweek.com/mass-event-will-let-hackers-test-limits-of-ai-technology/",
+      "originalUrl": "https://www.securityweek.com/mass-event-will-let-hackers-test-limits-of-ai-technology/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 129,
       "tags": null,
       "images": [
         {
-          "url": "https://www.reviewjournal.com/wp-content/uploads/2023/05/17764760_web1_17764760-0f19e4ef3ff84811b06fbaa753ea19a6.jpg?w=1200",
+          "url": "https://www.securityweek.com/wp-content/uploads/2023/04/ChatGPT_Security-Ethics-AI.jpg",
           "width": 1200,
-          "height": 800,
+          "height": 675,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -76,13 +76,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.reviewjournal.com/business/conventions/hackers-to-test-limits-of-ai-at-las-vegas-event-this-summer-2775790/amp/",
-      "cdnAmpWebUrl": "https://www-reviewjournal-com.cdn.ampproject.org/c/s/www.reviewjournal.com/business/conventions/hackers-to-test-limits-of-ai-at-las-vegas-event-this-summer-2775790/amp/",
-      "publishedDateTime": "2023-05-11T10:09:00-07:00",
+      "ampWebUrl": "https://www.securityweek.com/mass-event-will-let-hackers-test-limits-of-ai-technology/amp/",
+      "cdnAmpWebUrl": "https://www-securityweek-com.cdn.ampproject.org/c/s/www.securityweek.com/mass-event-will-let-hackers-test-limits-of-ai-technology/amp/",
+      "publishedDateTime": "2023-05-11T05:19:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Las Vegas Review-Journal",
-        "domain": "reviewjournal.com",
+        "name": "SecurityWeek",
+        "domain": "securityweek.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -105,7 +105,7 @@
       "originalUrl": "https://www.techrepublic.com/article/google-unveils-advanced-ai-bard-search-maps/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 211,
+      "heat": 212,
       "tags": null,
       "images": [
         {

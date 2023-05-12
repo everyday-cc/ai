@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "2030, Data Science and Machine Learning Service Market with PESTAL & SWOT Analysis"
+    excerpt: "Global Data Science and Machine Learning Service Market Report 2023 is spread across130 pagesand provides exclusive vital statistics, data, information, trends and competitive landscape details in this niche sector. “Global Data Science and Machine ..."
+    publishedDateTime: 2023-05-11T22:38:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2030-data-science-and-machine-learning-service-market-with-pestal-swot-analysis-2023-05-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 63
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Data Science and Machine-Learning Platforms Market SWOT Analysis [2023-2030] Evaluating Your Business Strengths and Weaknesses"
     excerpt: "To know How COVID-19 and Russia-Ukraine War Influence Will Impact This Market/Industry - Request a sample copy of the report-:  In This Reports Data Science and Machine-Learning Platforms Market Segment by Type ( Open Source Data Integration Tools,"
     publishedDateTime: 2023-05-11T06:36:00Z

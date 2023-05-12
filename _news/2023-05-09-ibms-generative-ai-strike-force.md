@@ -135,22 +135,6 @@ related:
         width: 1200
         height: 633
         isCached: true
-  - title: "Google is giving its dominant search engine an artificial intelligence makeover"
-    excerpt: "Google on Wednesday disclosed plans to infuse its dominant search engine with more advanced artificial intelligence technology, a drive that’s in response to one of the biggest threats to its long-established position as the internet’s main gateway."
-    publishedDateTime: 2023-05-11T01:45:00Z
-    webUrl: "https://www.nbcnews.com/tech/tech-news/google-giving-dominant-search-engine-artificial-intelligence-makeover-rcna83863"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna83863"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna83863"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 83
-    images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-05/230510-sundar-pichai-ew-643p-032d83.jpg"
-        width: 2500
-        height: 1546
-        isCached: true
   - title: "Zendesk AI: Leveling up with generative AI for a more intuitive and intelligent CX platform"
     excerpt: "Zendesk announced new AI capabilities including advanced CX bots, AI-powered assistance for human CX agents and intelligent triage."
     publishedDateTime: 2023-05-10T15:01:00Z

@@ -2,6 +2,49 @@
   "page": 44,
   "value": [
     {
+      "path": "_news/2023-04-13-analysis-the-era-of-deep-learning-is-coming-to-an-end.md",
+      "title": "Analysis: \"The Era of Deep Learning Is Coming to an End\"",
+      "excerpt": "Deep learning has dominated the field for several years — but may be on its way out. The field of AI has shifted focus roughly every decade since it began in the 1950s. Now, a new analysis ...",
+      "sourceUrl": null,
+      "webUrl": "https://futurism.com/deep-learning-end",
+      "originalUrl": "https://futurism.com/deep-learning-end",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp-assets.futurism.com/2019/01/deep-learning-end.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-13T04:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Futurism",
+        "domain": "futurism.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-13-column-does-ai-mean-the-four-day-workweek-and-its-happy-companion-the-three-day-weekend-is-almost-here.md",
       "title": "Column: Does AI mean the four-day workweek — and its happy companion, the three-day weekend — is almost here?",
       "excerpt": "Who says the world is going to hell and the future is bleak? Artificial intelligence, advanced robotics and job automation hold out the hope of less work, more leisure and long weekends every weekend.",
@@ -1039,49 +1082,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-12-is-elon-musk-secretly-making-chatgpt-alternative.md",
-      "title": "Is Elon Musk secretly making ChatGPT alternative?",
-      "excerpt": "As per Business Insider, Musk has procured roughly 10,000 GPUs and has recruited AI experts from DeepMind for the project. Though the AI project is still in its early stages, the sizable number of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thenews.com.pk/latest/1059912-is-elon-musk-secretly-making-chatgpt-alternative",
-      "originalUrl": "https://www.thenews.com.pk/latest/1059912-is-elon-musk-secretly-making-chatgpt-alternative",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thenews.com.pk/assets/uploads/updates/2023-04-12/1059912_055750_updates.jpg",
-          "width": 700,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thenews.com.pk/amp/1059912-is-elon-musk-secretly-making-chatgpt-alternative",
-      "cdnAmpWebUrl": "https://www-thenews-com-pk.cdn.ampproject.org/c/s/www.thenews.com.pk/amp/1059912-is-elon-musk-secretly-making-chatgpt-alternative",
-      "publishedDateTime": "2023-04-12T06:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The News International",
-        "domain": "thenews.com.pk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "Cryptominers try to pivot GPU farms to AI after Ethereum merge and Crypto winter"
+    excerpt: "Now, the pivot has impacted hardware originally used for blockchain, which could potentially lend its processing power to AI. Two large cryptomining companies, Hut 8 and Hive Blockchain, have redirected their mining GPU infrastructure toward High ..."
+    publishedDateTime: 2023-05-11T21:50:00Z
+    webUrl: "https://www.techspot.com/news/98661-cryptominers-try-pivot-gpu-farms-ai-after-ethereum.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 79
+    images:
+      - url: "https://www.techspot.com/images2/news/bigimage/2023/03/2023-03-21-image-40.jpg"
+        width: 2440
+        height: 1627
+        isCached: true
   - title: "AI Needs Specialized Processors. Crypto Miners Say They Have Them"
     excerpt: "When the Ethereum blockchain moved away from using a technique for verifying transactions known as proof of work last September, crypto market demand for the specialized processors that performed these calculations disappeared virtually overnight."
     publishedDateTime: 2023-05-10T13:42:00Z

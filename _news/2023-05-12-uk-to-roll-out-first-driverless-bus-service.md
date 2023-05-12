@@ -49,6 +49,22 @@ related:
         width: 768
         height: 511
         isCached: true
+  - title: "UK to roll out driverless bus service"
+    excerpt: "The UK will roll out its first driverless bus network in Scotland next week with ... The control system includes an AI (artificial intelligence) engine that receives information from throughout the bus to determine its exact location and calculate the ..."
+    publishedDateTime: 2023-05-11T22:50:00Z
+    webUrl: "https://www.gulf-times.com/article/660874/classified/uk-to-roll-out-driverless-bus-service"
+    ampWebUrl: "https://www.gulf-times.com/article/660874/classified/uk-to-roll-out-driverless-bus-service/amp"
+    cdnAmpWebUrl: "https://www-gulf--times-com.cdn.ampproject.org/c/s/www.gulf-times.com/article/660874/classified/uk-to-roll-out-driverless-bus-service/amp"
+    type: article
+    provider:
+      name: Gulf Times
+      domain: gulf-times.com
+    quality: 59
+    images:
+      - url: "https://www.gulf-times.com/gulftimes/uploads/images/2023/05/11/28023.jpg"
+        width: 1000
+        height: 665
+        isCached: true
   - title: "UK's First Driverless Bus Service To Begin In Scotland Next Week"
     excerpt: "The UK will roll out its first driverless bus network in Scotland next week with drivers on standby behind the steering wheel, ready to take control should an emergency arise."
     publishedDateTime: 2023-05-11T17:07:00Z

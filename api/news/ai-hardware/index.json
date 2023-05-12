@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-05-12-cryptominers-try-to-pivot-gpu-farms-to-ai-after-ethereum-merge-and-crypto-winter.md",
+      "title": "Cryptominers try to pivot GPU farms to AI after Ethereum merge and Crypto winter",
+      "excerpt": "Now, the pivot has impacted hardware originally used for blockchain, which could potentially lend its processing power to AI. Two large cryptomining companies, Hut 8 and Hive Blockchain, have redirected their mining GPU infrastructure toward High ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/98661-cryptominers-try-pivot-gpu-farms-ai-after-ethereum.html",
+      "originalUrl": "https://www.techspot.com/news/98661-cryptominers-try-pivot-gpu-farms-ai-after-ethereum.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techspot.com/images2/news/bigimage/2023/03/2023-03-21-image-40.jpg",
+          "width": 2440,
+          "height": 1627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-11T14:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-11-artificial-intelligence-ai-chip-market-research-analysis-2023-2030.md",
       "title": "Artificial Intelligence (AI) Chip Market Research Analysis, 2023-2030",
       "excerpt": "Chip market growth in 2023-2029 with TOPMajor Players? Major Players Covered in this Report: The global Artificial Intelligence (AI) Chip Market USD Million in 2022, with a change of Percent between 2022 and 2023.",
@@ -41,49 +93,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-10-ai-needs-specialized-processors-crypto-miners-say-they-have-them.md",
-      "title": "AI Needs Specialized Processors. Crypto Miners Say They Have Them",
-      "excerpt": "When the Ethereum blockchain moved away from using a technique for verifying transactions known as proof of work last September, crypto market demand for the specialized processors that performed these calculations disappeared virtually overnight.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bnnbloomberg.ca/ai-needs-specialized-processors-crypto-miners-say-they-have-them-1.1918301",
-      "originalUrl": "https://www.bnnbloomberg.ca/ai-needs-specialized-processors-crypto-miners-say-they-have-them-1.1918301",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://www.bnnbloomberg.ca/polopoly_fs/1.1918302!/fileimage/httpImage/image.png_gen/derivatives/landscape_620/image.png",
-          "width": 620,
-          "height": 349,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bnnbloomberg.ca/ai-needs-specialized-processors-crypto-miners-say-they-have-them-1.1918301.amp.html",
-      "cdnAmpWebUrl": "https://www-bnnbloomberg-ca.cdn.ampproject.org/c/s/www.bnnbloomberg.ca/ai-needs-specialized-processors-crypto-miners-say-they-have-them-1.1918301.amp.html",
-      "publishedDateTime": "2023-05-10T06:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "bnnbloomberg",
-        "domain": "bnnbloomberg.ca",
-        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -444,7 +453,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/2030-gpu-for-deep-learning-market-with-pestal-swot-analysis-2023-05-07",
       "featuredContent": null,
       "highlight": null,
-      "heat": 116,
+      "heat": 126,
       "tags": null,
       "images": [
         {

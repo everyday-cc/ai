@@ -2,6 +2,109 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-05-11-autonomous-or-driverless-cars-market-report-talks-about-current-market-share-2023-2030.md",
+      "title": "Autonomous or Driverless Cars Market Report Talks about Current Market Share 2023-2030",
+      "excerpt": "May 11, 2023 (The Expresswire) -- \"Stay informed with the Latest New Insight Updates on Autonomous or Driverless Cars Market to remain Competitive",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/autonomous-or-driverless-cars-market-report-talks-about-current-market-share-2023-2030-2023-05-11",
+      "originalUrl": "https://www.marketwatch.com/press-release/autonomous-or-driverless-cars-market-report-talks-about-current-market-share-2023-2030-2023-05-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-11T01:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-11-the-hot-new-job-that-pays-six-figures-ai-prompt-engineering.md",
+      "title": "The Hot New Job That Pays Six Figures: AI Prompt Engineering",
+      "excerpt": "The emerging field of prompt engineering involves using generative AI tools and natural language processing to create more effective outputs. But what are the skills required? Which companies are hiring for this role?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2023/05/11/the-hot-new-job-that-pays-six-figures-ai-prompt-engineering/",
+      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2023/05/11/the-hot-new-job-that-pays-six-figures-ai-prompt-engineering/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/645c8a0c17d25e16f92796dd/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2023/05/11/the-hot-new-job-that-pays-six-figures-ai-prompt-engineering/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/05/11/the-hot-new-job-that-pays-six-figures-ai-prompt-engineering/amp/",
+      "publishedDateTime": "2023-05-10T23:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-11-deep-learning-system-market-with-future-opportunities-2023-2031.md",
       "title": "Deep Learning System Market with Future Opportunities 2023-2031",
       "excerpt": "The \"Deep Learning System Market\" study delves into the evolution of the technology industry and the responses of major",
@@ -215,7 +318,7 @@
       "originalUrl": "https://www.nbcnews.com/nightly-news/video/google-launches-new-ai-tools-173891653794",
       "featuredContent": null,
       "highlight": null,
-      "heat": 247,
+      "heat": 257,
       "tags": null,
       "images": [
         {
@@ -308,7 +411,7 @@
       "originalUrl": "https://www.techrepublic.com/article/google-unveils-advanced-ai-bard-search-maps/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 211,
+      "heat": 212,
       "tags": null,
       "images": [
         {
@@ -814,7 +917,7 @@
       "originalUrl": "https://www.businessinsider.com/film-tv-writers-should-not-fear-ai-amid-strike-screenwriting-2023-5",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 78,
       "tags": null,
       "images": [
         {
@@ -959,7 +1062,7 @@
       "originalUrl": "https://blog.google/products/search/generative-ai-search/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 449,
+      "heat": 439,
       "tags": null,
       "images": [
         {
@@ -1132,102 +1235,6 @@
       "ampWebUrl": "https://blog.google/products/photos/google-photos-magic-editor-pixel-io-2023/amp/",
       "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/photos/google-photos-magic-editor-pixel-io-2023/amp/",
       "publishedDateTime": "2023-05-10T10:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-11-education-startup-teky-raises-5m-from-foreign-investors.md",
-      "title": "Education startup TEKY raises $5M from foreign investors",
-      "excerpt": "Education startup TEKY Alpha has raised US$5 million from Singaporean investment firm Sweef Capital to expand its operations.",
-      "sourceUrl": null,
-      "webUrl": "https://e.vnexpress.net/news/business/companies/education-startup-teky-raises-5m-from-foreign-investors-4603427.html",
-      "originalUrl": "https://e.vnexpress.net/news/business/companies/education-startup-teky-raises-5m-from-foreign-investors-4603427.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i1-english.vnecdn.net/2023/05/10/Aa-1683687856-1905-1683693659.jpg?w=680&h=0&q=100&dpr=2&fit=crop&s=9WokI48vPG6Kpb_1nRaGbQ",
-          "width": 1199,
-          "height": 719,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://ampe.vnexpress.net/news/business/companies/education-startup-teky-raises-5m-from-foreign-investors-4603427.html",
-      "cdnAmpWebUrl": "https://ampe-vnexpress-net.cdn.ampproject.org/c/s/ampe.vnexpress.net/news/business/companies/education-startup-teky-raises-5m-from-foreign-investors-4603427.html",
-      "publishedDateTime": "2023-05-10T10:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VN Express",
-        "domain": "vnexpress.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2023-05-10-new-ways-ai-is-making-maps-more-immersive.md",
-      "title": "New ways AI is making Maps more immersive",
-      "excerpt": "With advancements in AI, there are new ways to understand your route with Maps. Plus, new immersive tools for developers.",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/products/maps/google-maps-updates-io-2023/",
-      "originalUrl": "https://blog.google/products/maps/google-maps-updates-io-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ROUTE_PREVIEW_DEMO_STILL_mV5TVdi.width-1300.jpg",
-          "width": 1300,
-          "height": 513,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/products/maps/google-maps-updates-io-2023/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/maps/google-maps-updates-io-2023/amp/",
-      "publishedDateTime": "2023-05-10T10:07:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Google",

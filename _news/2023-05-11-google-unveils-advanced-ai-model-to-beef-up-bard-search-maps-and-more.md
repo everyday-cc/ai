@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/article/google-unveils-advanced-ai-bard
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/google-unveils-advanced-ai-bard-search-maps/amp/"
 type: article
 quality: 91
-heat: 211
+heat: 212
 published: true
 
 provider:

@@ -2,6 +2,102 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-05-11-education-startup-teky-raises-5m-from-foreign-investors.md",
+      "title": "Education startup TEKY raises $5M from foreign investors",
+      "excerpt": "Education startup TEKY Alpha has raised US$5 million from Singaporean investment firm Sweef Capital to expand its operations.",
+      "sourceUrl": null,
+      "webUrl": "https://e.vnexpress.net/news/business/companies/education-startup-teky-raises-5m-from-foreign-investors-4603427.html",
+      "originalUrl": "https://e.vnexpress.net/news/business/companies/education-startup-teky-raises-5m-from-foreign-investors-4603427.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i1-english.vnecdn.net/2023/05/10/Aa-1683687856-1905-1683693659.jpg?w=680&h=0&q=100&dpr=2&fit=crop&s=9WokI48vPG6Kpb_1nRaGbQ",
+          "width": 1199,
+          "height": 719,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://ampe.vnexpress.net/news/business/companies/education-startup-teky-raises-5m-from-foreign-investors-4603427.html",
+      "cdnAmpWebUrl": "https://ampe-vnexpress-net.cdn.ampproject.org/c/s/ampe.vnexpress.net/news/business/companies/education-startup-teky-raises-5m-from-foreign-investors-4603427.html",
+      "publishedDateTime": "2023-05-10T10:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VN Express",
+        "domain": "vnexpress.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2023-05-10-new-ways-ai-is-making-maps-more-immersive.md",
+      "title": "New ways AI is making Maps more immersive",
+      "excerpt": "With advancements in AI, there are new ways to understand your route with Maps. Plus, new immersive tools for developers.",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/products/maps/google-maps-updates-io-2023/",
+      "originalUrl": "https://blog.google/products/maps/google-maps-updates-io-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ROUTE_PREVIEW_DEMO_STILL_mV5TVdi.width-1300.jpg",
+          "width": 1300,
+          "height": 513,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/products/maps/google-maps-updates-io-2023/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/maps/google-maps-updates-io-2023/amp/",
+      "publishedDateTime": "2023-05-10T10:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-11-advanced-navigation-unveils-australias-largest-subsea-robotics-centre.md",
       "title": "Advanced Navigation Unveils Australia's Largest Subsea Robotics Centre",
       "excerpt": "Sydney, New South Wales - Advanced Navigation, the world's most determined innovator in artificial intelligence (AI) for robotic and navigation technologies, is",
@@ -253,49 +349,6 @@
       ]
     },
     {
-      "path": "_news/2023-05-10-ai-needs-specialized-processors-crypto-miners-say-they-have-them.md",
-      "title": "AI Needs Specialized Processors. Crypto Miners Say They Have Them",
-      "excerpt": "When the Ethereum blockchain moved away from using a technique for verifying transactions known as proof of work last September, crypto market demand for the specialized processors that performed these calculations disappeared virtually overnight.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bnnbloomberg.ca/ai-needs-specialized-processors-crypto-miners-say-they-have-them-1.1918301",
-      "originalUrl": "https://www.bnnbloomberg.ca/ai-needs-specialized-processors-crypto-miners-say-they-have-them-1.1918301",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://www.bnnbloomberg.ca/polopoly_fs/1.1918302!/fileimage/httpImage/image.png_gen/derivatives/landscape_620/image.png",
-          "width": 620,
-          "height": 349,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bnnbloomberg.ca/ai-needs-specialized-processors-crypto-miners-say-they-have-them-1.1918301.amp.html",
-      "cdnAmpWebUrl": "https://www-bnnbloomberg-ca.cdn.ampproject.org/c/s/www.bnnbloomberg.ca/ai-needs-specialized-processors-crypto-miners-say-they-have-them-1.1918301.amp.html",
-      "publishedDateTime": "2023-05-10T06:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "bnnbloomberg",
-        "domain": "bnnbloomberg.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-05-10-announcing-new-jupyter-contributions-by-aws-to-democratize-generative-ai-and-scale-ml-workloads.md",
       "title": "Announcing new Jupyter contributions by AWS to democratize generative AI and scale ML workloads",
       "excerpt": "Project Jupyter is a multi-stakeholder, open-source project that builds applications, open standards, and tools for data science, machine learning (ML), and computational science. The Jupyter Notebook, first released in 2011, has become a de facto standard tool used by millions of users worldwide across",
@@ -400,7 +453,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/05/10/why-ai-powered-customer-service-and-support-are-crucial-in-2023/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 118,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -1179,58 +1232,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-10-ferrari-may-eventually-make-an-ev-but-it-has-zero-interest-in-self-driving-cars-we-dont-care.md",
-      "title": "Ferrari may eventually make an EV but it has zero interest in self-driving cars: ‘We don’t care’",
-      "excerpt": "But the Italian luxury auto company says it’s unlikely to ever cave to another major car trend: self-driving vehicles. The iconic supercar maker’s brand is to design sports cars that people want to drive themselves, and capitulating to self-driving ...",
-      "sourceUrl": null,
-      "webUrl": "https://fortune.com/2023/05/09/ferrari-wont-do-self-driving-car-ev/?ref=biztoc.com",
-      "originalUrl": "https://fortune.com/2023/05/09/ferrari-wont-do-self-driving-car-ev/?ref=biztoc.com",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://content.fortune.com/wp-content/uploads/2023/05/GettyImages-1247103950-e1683665996989.jpg?w=840",
-          "width": 840,
-          "height": 560,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://fortune.com/2023/05/09/ferrari-wont-do-self-driving-car-ev/amp/",
-      "cdnAmpWebUrl": "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/2023/05/09/ferrari-wont-do-self-driving-car-ev/amp/",
-      "publishedDateTime": "2023-05-09T19:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fortune",
-        "domain": "fortune.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fortune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

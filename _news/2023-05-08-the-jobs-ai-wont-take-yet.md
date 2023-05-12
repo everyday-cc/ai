@@ -7,7 +7,7 @@ originalUrl: "https://www.bbc.com/worklife/article/20230507-the-jobs-ai-wont-tak
 webUrl: "https://www.bbc.com/worklife/article/20230507-the-jobs-ai-wont-take-yet"
 type: article
 quality: 69
-heat: 89
+heat: 90
 published: true
 
 provider:

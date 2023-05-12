@@ -2,6 +2,59 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-05-08-host-ml-models-on-amazon-sagemaker-using-triton-tensorrt-models.md",
+      "title": "Host ML models on Amazon SageMaker using Triton: TensorRT models",
+      "excerpt": "Sometimes it can be very beneficial to use tools such as compilers that can modify and compile your models for optimal inference performance. In this post, we explore TensorRT and how to use it with Amazon SageMaker inference using NVIDIA Triton Inference Server. We explore how TensorRT works and how",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/host-ml-models-on-amazon-sagemaker-using-triton-tensorrt-models/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/host-ml-models-on-amazon-sagemaker-using-triton-tensorrt-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 176,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/05/08/host-ml-models-triton-tensorrt-1260x630.jpg",
+          "width": 1260,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-08T10:04:28-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-05-08-alex-jones-furious-after-falling-for-ai-generated-tucker-carlson-prank-call.md",
       "title": "Alex Jones Furious After Falling For AI-Generated Tucker Carlson Prank Call",
       "excerpt": "Conspiracy theorist Alex Jones went on a rant after being pranked by content creator Chris James, known as \"Prank Stallone.\"",
@@ -191,7 +244,7 @@
       "originalUrl": "https://www.zdnet.com/article/meet-the-post-ai-developer-more-creative-more-business-focused/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 98,
       "tags": null,
       "images": [
         {
@@ -450,7 +503,7 @@
       "originalUrl": "https://www.ibm.com/blog/the-risks-and-limitations-of-ai-in-insurance/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 209,
+      "heat": 199,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -639,7 +692,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/05/08/ai-tools-can-help-musicians-unlock-creativity-and-reach-fans/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 88,
       "tags": null,
       "images": [
         {
@@ -1196,58 +1249,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-08-the-geopolitics-of-ai-chips-will-define-the-future-of-ai.md",
-      "title": "The Geopolitics Of AI Chips Will Define The Future Of AI",
-      "excerpt": "The most important and widely used AI chip in the world today, Nvidia’s A100 GPU, has transistors that are 7 nanometers wide. Google’s latest tensor processing unit (TPU)—the most credible alternative to Nvidia GPUs— likewise uses 7-nanometer technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/robtoews/2023/05/07/the-geopolitics-of-ai-chips-will-define-the-future-of-ai/",
-      "originalUrl": "https://www.forbes.com/sites/robtoews/2023/05/07/the-geopolitics-of-ai-chips-will-define-the-future-of-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/645743bb6563f17e999c02fa/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/robtoews/2023/05/07/the-geopolitics-of-ai-chips-will-define-the-future-of-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2023/05/07/the-geopolitics-of-ai-chips-will-define-the-future-of-ai/amp/",
-      "publishedDateTime": "2023-05-07T16:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

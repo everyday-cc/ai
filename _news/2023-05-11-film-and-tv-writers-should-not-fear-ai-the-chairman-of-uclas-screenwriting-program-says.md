@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/film-tv-writers-should-not-fear-ai-a
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/film-tv-writers-should-not-fear-ai-amid-strike-screenwriting-2023-5?amp"
 type: article
 quality: 77
-heat: 77
+heat: 78
 published: true
 
 provider:

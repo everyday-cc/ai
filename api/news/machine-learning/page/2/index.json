@@ -839,6 +839,49 @@
       ]
     },
     {
+      "path": "_news/2023-04-28-deep-learning-system-explores-materials-interiors-from-the-outside.md",
+      "title": "Deep-learning system explores materials' interiors from the outside",
+      "excerpt": "Maybe you can't tell a book from its cover, but according to researchers at MIT you may now be able to do the equivalent for materials of all sorts, from an airplane part to a medical implant. Their new approach allows engineers to figure out what's going on inside simply by observing properties of the material's surface.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2023-04-deep-learning-explores-materials-interiors.html",
+      "originalUrl": "https://techxplore.com/news/2023-04-deep-learning-explores-materials-interiors.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2023/deep-learning-system-e.jpg",
+          "width": 900,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2023-04-deep-learning-explores-materials-interiors.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-04-deep-learning-explores-materials-interiors.amp",
+      "publishedDateTime": "2023-04-28T05:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-28-machine-learning-operations-mlops-market-research-analysis-2023-2031.md",
       "title": "Machine Learning Operations (MLOps) Market Research Analysis 2023-2031",
       "excerpt": "What is the Machine Learning Operations (MLOps) market growth? Machine Learning Operations (MLOps) Market Size is projected to Reach Multimillion USD by 2031, In comparison to 2023, at unexpected CAGR during the forecast Period 2023-2031.",
@@ -889,49 +932,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-04-28-deep-learning-system-explores-materials-interiors-from-the-outside.md",
-      "title": "Deep-learning system explores materials' interiors from the outside",
-      "excerpt": "The team used a type of machine learning known as deep learning to compare a large set of simulated data about materials' external force fields and the corresponding internal structure ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2023/04/230428130819.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2023/04/230428130819.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-27T16:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     },
     {

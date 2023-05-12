@@ -214,6 +214,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Google’s Launches AI Supercomputer Powered by Tens of Thousands of NVIDIA H100 GPUs"
+    excerpt: "If a computer’s intelligence can be anthropomorphized, then an AI supercomputer that can scale to 26,000 GPUs is genius smart. That’s the case with Google’s new A3 GPU supercomputers for Google Cloud, introduced at the Google I/O 2023 conference."
+    publishedDateTime: 2023-05-11T22:11:00Z
+    webUrl: "https://insidehpc.com/2023/05/googles-launches-ai-supercomputer-powered-by-tens-of-thousands-of-nvidia-h100-gpus/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 28
   - title: "5 ways to use Google Docs’ new AI"
     excerpt: "Google Docs' AI is handy to have AI text generation and editing inside Docs, but it’s not yet nearly as powerful or useful as alternatives like ChatGPT or Lex."
     publishedDateTime: 2023-05-08T04:05:00Z

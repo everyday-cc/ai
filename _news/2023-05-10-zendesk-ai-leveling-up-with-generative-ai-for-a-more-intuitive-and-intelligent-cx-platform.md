@@ -140,22 +140,6 @@ related:
         width: 1200
         height: 633
         isCached: true
-  - title: "Google is giving its dominant search engine an artificial intelligence makeover"
-    excerpt: "Google on Wednesday disclosed plans to infuse its dominant search engine with more advanced artificial intelligence technology, a drive that’s in response to one of the biggest threats to its long-established position as the internet’s main gateway."
-    publishedDateTime: 2023-05-11T01:45:00Z
-    webUrl: "https://www.nbcnews.com/tech/tech-news/google-giving-dominant-search-engine-artificial-intelligence-makeover-rcna83863"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna83863"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna83863"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 83
-    images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-05/230510-sundar-pichai-ew-643p-032d83.jpg"
-        width: 2500
-        height: 1546
-        isCached: true
   - title: "Google’s Duet AI brings more generative features to Workspace apps"
     excerpt: "After OpenAI’s ChatGPT caught the tech world off guard late last year, Google reportedly declared a “code red,” scrambling to plan a response to the new threat."
     publishedDateTime: 2023-05-10T17:45:00Z

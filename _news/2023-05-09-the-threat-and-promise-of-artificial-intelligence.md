@@ -63,22 +63,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "One State Wants to Prevent AI-Driven Discrimination in Insurance"
-    excerpt: "Colorado has a draft rule that would impose oversight and transparency requirements on insurance companies that use big data about consumers or feed such data into predictive models and algorithms."
-    publishedDateTime: 2023-05-07T05:13:00Z
-    webUrl: "https://www.governing.com/policy/one-state-wants-to-prevent-ai-driven-discrimination-in-insurance"
-    ampWebUrl: "https://www.governing.com/policy/one-state-wants-to-prevent-ai-driven-discrimination-in-insurance?_amp=true"
-    cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/policy/one-state-wants-to-prevent-ai-driven-discrimination-in-insurance?_amp=true"
-    type: article
-    provider:
-      name: Governing
-      domain: governing.com
-    quality: 59
-    images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/a86d3ad/2147483647/strip/true/crop/940x490+0+70/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fab%2Fdd%2F19d7f4fee90845302682372b188f%2Finsurance-2.jpg"
-        width: 840
-        height: 438
-        isCached: true
   - title: "Navigating the hype of AI tools in HR"
     excerpt: "Sometimes it’s better to be first to a new technology, but in the case of AI in HR, it may just be better to be smart than first."
     publishedDateTime: 2023-05-08T14:16:00Z

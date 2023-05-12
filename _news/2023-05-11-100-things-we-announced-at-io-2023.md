@@ -7,7 +7,7 @@ originalUrl: "https://blog.google/technology/developers/google-io-2023-100-annou
 webUrl: "https://blog.google/technology/developers/google-io-2023-100-announcements/"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -21,6 +21,17 @@ provider:
 topics:
   - AI
   - Google AI
+
+related:
+  - title: "AWS Announces Amazon Aurora I/O-Optimized"
+    excerpt: "Amazon Aurora gives customers the right tool for the job, so that they can optimize for performance, scale, and costs when designing applications. Aurora provides simple, pay-per-request pricing based on I/O usage,"
+    publishedDateTime: 2023-05-11T20:46:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/05/11/9813118.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
 
 secured: "IH8WUWRjsOexyAtVpEnQUy1/dD0rde13mK3ti26hTrz48zbQRg7dysYTZvmG8ehjgi4Dfw9V07wwWyzq3y+/y7mJucHR9KeCd246ddzbayjG0APUFtuvNcm7HkpqKfVs2JRpYJMYDeY64jZLQBfd+4MxhglMhW8QpbYqK6lnG4EFV2+AKYkhKuOVYU0WjnIxLSSd5PWwSXuVHFfsbbWDRi4xRNXanb20rmZdTtxHeGwMZDAwpsYApALYTZkMCI1VaQYMie3Tlx7KhKxbMofn+LmsjLLA1xN3AR3rLBbwqk/ifDbmjtA3k6RVHoYdHSN3UQKaet2mck7Z5vkpmCmKlW2Og4vny8GTRNVlUpwGUIs=;JrEdMjqtGusjbe60O1WQlg=="
 ---

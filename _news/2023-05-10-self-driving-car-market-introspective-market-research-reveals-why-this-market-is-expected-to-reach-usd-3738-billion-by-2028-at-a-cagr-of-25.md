@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/self-driving-car-market-
 webUrl: "https://www.marketwatch.com/press-release/self-driving-car-market-introspective-market-research-reveals-why-this-market-is-expected-to-reach-usd-3738-billion-by-2028-at-a-cagr-of-25-2023-05-10"
 type: article
 quality: 18
-heat: 18
+heat: -1
 published: false
 
 provider:
@@ -29,33 +29,19 @@ images:
     isCached: true
 
 related:
-  - title: "Smart Healthcare Market Surges To USD 409.8 Billion By 2032, Fueled By Rising Demand For Enhanced Patient Experiences"
-    excerpt: "Reports And Data The global smart healthcare market size was USD 55 Billion in 2022 and is expected to reach USD 409.8 Billion in 2032 </p"
-    publishedDateTime: 2023-05-09T21:49:00Z
-    webUrl: "https://menafn.com/1106207078/Smart-Healthcare-Market-Surges-To-USD-4098-Billion-By-2032-Fueled-By-Rising-Demand-For-Enhanced-Patient-Experiences"
+  - title: "Servo Motors and Drives Market – Global Industry Analysis and Forecast 2029- Report By Introspective Market Research"
+    excerpt: "It is servomechanism-controlled; therefore, it is controllable. Moreover, a rather complex controller is needed, often a module made expressly for servomotor use. Robotics ... is written with a specific goal in mind to give business insights and ..."
+    publishedDateTime: 2023-05-11T23:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/servo-motors-and-drives-market-global-industry-analysis-and-forecast-2029--report-by-introspective-market-research-2023-05-11"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 16
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 31
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?306182"
-        width: 333
-        height: 250
-        isCached: true
-  - title: "User Generated Content Platform Market to Reach $71.3 Billion, Globally, by 2031 at 31.6% CAGR: Allied Market Research"
-    excerpt: "Allied Market Research published a report, titled, \" User Generated Content Platform Market by Product Type (Blogs, Websites, Advertising and Promotions, Social Media, Audio and Video, Others), by End User (Individual,"
-    publishedDateTime: 2023-05-08T12:43:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/05/08/9809061.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
-    images:
-      - url: "https://mma.prnewswire.com/media/636519/Allied_Market_Research_Logo.jpg"
-        width: 400
-        height: 400
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "yo1foAnOyvbpujY53qCSNUc00QmIlfJOqLHbL6k9eySdKwQkXGI76TgMXhHyoa9sSHd49RefgsBrSpmnY3hiymknP/UgB0sahrQruFnNuRQqxxFFHNryK5FBPBNzVbW490LusLHWAET0Dai9p/cjeH0BmK4nr85P6rWMpz4aNGdMXK2lqB0RMzFOTEdeEaFnKHpy1z5AI9q1nsX9ZIxBu/0H99KVTN14274F4VdvuMZaQ03cAmM5nsAVGuP/ybUXTQfE5QS4ecLZJROPDuQiAQT2CGeXG2h5ofMuCfxj2zWrYtBcoX+7hGRdO/Rt4fOUekfuilnv5Gkau7sIwq5R/jzpOgBfVabNCNeTxVezDRA=;rQNwdF+6ENKr2LyOwv4r3A=="
