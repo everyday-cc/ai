@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/microsoft_/2023/05/08/ai-and-predictive
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/microsoft_/2023/05/08/ai-and-predictive-analytics-moving-from-insights-to-foresight/amp/"
 type: article
 quality: 89
-heat: 149
+heat: 159
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Machine Learning & Big Data Analytics Education Market"
+    excerpt: "Research Reports has published a new report titled as \"Machine Learning and Big Data Analytics Education Market\" by"
+    publishedDateTime: 2023-05-11T01:18:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-big-data-analytics-education-market-2023-05-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 86
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Breaking AI bias: Predictive analytics platform aims to eliminate racism in marketing"
     excerpt: "AI-powered platform X_Stereotype uses predictive analytics to eliminate bias and racism by gauging the performance of marketing content across different races and cultures."
     publishedDateTime: 2023-05-11T19:03:00Z

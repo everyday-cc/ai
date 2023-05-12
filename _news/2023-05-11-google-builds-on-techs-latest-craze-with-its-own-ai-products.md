@@ -56,6 +56,22 @@ related:
         width: 1200
         height: 666
         isCached: true
+  - title: "The AI race heats up: Google announces PaLM 2, its answer to GPT-4"
+    excerpt: "Google introduced PaLM 2, a family of foundational language models comparable to OpenAI's GPT-4. At its Google I/O event in Mountain View, Google revealed that it is already using PaLM 2 to power 25 different products,"
+    publishedDateTime: 2023-05-11T19:20:00Z
+    webUrl: "https://arstechnica.com/information-technology/2023/05/googles-top-ai-model-palm-2-hopes-to-upstage-gpt-4-in-generative-mastery/"
+    ampWebUrl: "https://arstechnica.com/information-technology/2023/05/googles-top-ai-model-palm-2-hopes-to-upstage-gpt-4-in-generative-mastery/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/05/googles-top-ai-model-palm-2-hopes-to-upstage-gpt-4-in-generative-mastery/amp/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 89
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/05/google_palm2_hero_1-800x450.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Artificial Intelligence Products Market Size, 2030"
     excerpt: "Research Reports has published a new report titled as \"Artificial Intelligence Products Market\" by End User (Media"
     publishedDateTime: 2023-05-09T04:13:00Z

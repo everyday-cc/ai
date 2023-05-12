@@ -1,22 +1,104 @@
 ---
 category: news
 title: "How Europe is leading the world in building guardrails around AI"
-excerpt: "A European Parliament committee voted to strengthen its flagship legislative proposal as it heads toward passage."
-publishedDateTime: 2023-05-11T13:33:00Z
-originalUrl: "https://www.nbcnews.com/tech/tech-news/europe-leading-world-building-guardrails-ai-rcna83912"
-webUrl: "https://www.nbcnews.com/tech/tech-news/europe-leading-world-building-guardrails-ai-rcna83912"
+excerpt: "Authorities around the world are racing to draw up rules for artificial intelligence, including in the European Union, where draft legislation faced a pivotal moment"
+publishedDateTime: 2023-05-11T11:32:00Z
+originalUrl: "https://abcnews.go.com/Business/wireStory/europe-building-artificial-intelligence-guardrails-99247610"
+webUrl: "https://abcnews.go.com/Business/wireStory/europe-building-artificial-intelligence-guardrails-99247610"
+ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/europe-building-artificial-intelligence-guardrails-99247610"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/europe-building-artificial-intelligence-guardrails-99247610"
 type: article
-quality: 47
-heat: 47
+quality: 57
+heat: -1
 published: false
 
 provider:
-  name: NBC News
-  domain: nbcnews.com
+  name: ABC
+  domain: abcnews.go.com
 
 topics:
   - AI
 
-secured: "jBktXwFzyTIKw+EH1fKAToEkt5+EM/POQv5NNN4ODoUvnHGE0FnyZaTchN1cUceY/rrJTRlYC4NGmPiY7OHWGk8R2ueZrIyoeKGDlsIbw0CEKiZx2OedRLxYOIz3PFPa4jKKBU2ISEgfxu9NJgHgBMAtlMAGgPBzI9kDu2bKEyKEbOFHpM2RnYjm/W2lpanMNsMMMnNEqAonY++jyfOoeYkeihikuShLVGtBudRx7k5Jf8mAgIx1V6OHRqyjpQ3yXpjd8li4ntab+pUKXcxXg+IMSy1xvfsTc4VDDsKDBYjAxwFfL7/PE6/EZIziVWh2ElIk2ihllzwlRskXpqYIlAhAfIuFzljkMmWra0ruC9MM7apMsMSVBr206fG1mO7EvcoUHACA/jB/p7cXQN4azqcI+mVw1HEgTG3tlPRrUwUKJ7jIDX/4OGta+eev/6hVPd/6k6Mm0fqEcsNDL37gAnz0zelHb+9GoC8ng4bHgNkI+gazfRVNq6XxuqURQMafbdhiMlBbncIwMas9sMCTFw==;GNaCSuUKF6YovtYT5cKyAQ=="
+images:
+  - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+    width: 834
+    height: 308
+    isCached: true
+
+related:
+  - title: "European Union Set to Be Trailblazer in Global Rush to Regulate Artificial Intelligence"
+    excerpt: "Even European Union officials working on groundbreaking rules to govern the emerging technology were caught off guard by AI’s rapid rise. The 27-nation bloc proposed the Western world’s first AI rules two years ago,"
+    publishedDateTime: 2023-05-09T09:00:00Z
+    webUrl: "https://time.com/6278144/european-union-artificial-intelligence-regulation/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 76
+    images:
+      - url: "https://time.com/img/icons/wallet-connect.png"
+        width: 256
+        height: 256
+        isCached: true
+  - title: "How Europe is at the forefront of building artificial intelligence guardrails"
+    excerpt: "Authorities around the world are racing to draw up rules for artificial intelligence, including in the European Union, where draft legislation faced a pivotal moment on Thursday. A"
+    publishedDateTime: 2023-05-11T09:44:00Z
+    webUrl: "https://kdvr.com/news/technology/how-europe-is-building-artificial-intelligence-guardrails/"
+    ampWebUrl: "https://kdvr.com/news/technology/how-europe-is-building-artificial-intelligence-guardrails/amp/"
+    cdnAmpWebUrl: "https://kdvr-com.cdn.ampproject.org/c/s/kdvr.com/news/technology/how-europe-is-building-artificial-intelligence-guardrails/amp/"
+    type: article
+    provider:
+      name: FOX31 Denver
+      domain: kdvr.com
+    quality: 69
+    images:
+      - url: "https://kdvr.com/wp-content/uploads/sites/11/2023/05/645cb94a2eb286.56802250.jpeg?w=1280"
+        width: 1280
+        height: 853
+        isCached: true
+  - title: "The Global Battle to Regulate AI Is Just Beginning"
+    excerpt: "Europe’s parliament is struggling to agree on new rules to govern AI—showing how policymakers everywhere have a lot to learn about the technology."
+    publishedDateTime: 2023-05-08T06:00:00Z
+    webUrl: "https://www.wired.com/story/the-global-battle-to-regulate-ai-is-just-beginning/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 67
+    images:
+      - url: "https://media.wired.com/photos/645593587b25a434b1f3bc67/191:100/w_1280,c_limit/riskreward_biz_GettyImages-521951552.jpg"
+        width: 1280
+        height: 670
+        isCached: true
+  - title: "How Europe is building artificial intelligence guardrails"
+    excerpt: "A European Parliament committee is set to vote on the proposed rules, part of a yearslong effort to draw up guardrails for artificial intelligence. Those efforts have taken on more urgency as the rapid advance of ChatGPT highlights benefits the emerging technology can bring — and the new perils it poses."
+    publishedDateTime: 2023-05-11T10:39:00Z
+    webUrl: "https://www.chron.com/news/world/article/how-europe-is-building-artificial-intelligence-18093065.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 52
+    images:
+      - url: "https://s.hdnux.com/photos/01/32/63/16/23802753/3/rawImage.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
+  - title: "In global rush to regulate AI, Europe set to be trailblazer"
+    excerpt: "European lawmakers have rushed to add language on general artificial intelligence systems like ChatGPT as they put the finishing touches on the Western world's first AI rules"
+    publishedDateTime: 2023-05-09T09:32:00Z
+    webUrl: "https://abcnews.go.com/Technology/wireStory/global-rush-regulate-ai-europe-set-trailblazer-99189489"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 37
+    images:
+      - url: "https://s.abcnews.com/images/International/wirestory_906fc89d2561b200fa6eb40a06b946a5_12x5_992.jpg"
+        width: 992
+        height: 413
+        isCached: true
+
+secured: "hCchmGIbFHfFZIrZgjPzBElppyq1QY8KihovSE5sHAy0zT9B8aLxDe/TFMV8y+bRdPxBVHPNUgyQFKHNkb3ChjYhxg5CRITe4J389ZBF8yY8G7/Ao3jp7IfQJAVzNLFWdWuIgmyJExxq6mGyIOepGn2cOsw3M2NuYlV9R2hOz/UasQOPjJbSqAybJul3XjHGuFr54JldirWuoppK1PvP970qIP/9KJp8Q5Z9RZG1OAst9znUWbrP3a0ioLli6okk9nZrOBS1pM/G9uoDTa4+cJG2jc8gNvNBjNP5wJq2YJ+Ht2o8c97YyW7aLdQXUBxMdgzErjUNLkzvma92+JOh0CxSHxzXU8fBAfrJn8R/+ys=;6s0+dRgwS2agXa+7mFH0gw=="
 ---
 

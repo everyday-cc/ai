@@ -68,6 +68,22 @@ related:
         width: 1280
         height: 670
         isCached: true
+  - title: "How Europe is leading the world in building guardrails around AI"
+    excerpt: "Authorities around the world are racing to draw up rules for artificial intelligence, including in the European Union, where draft legislation faced a pivotal moment"
+    publishedDateTime: 2023-05-11T11:32:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/europe-building-artificial-intelligence-guardrails-99247610"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/europe-building-artificial-intelligence-guardrails-99247610"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/europe-building-artificial-intelligence-guardrails-99247610"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 57
+    images:
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
+        isCached: true
   - title: "In global rush to regulate AI, Europe set to be trailblazer"
     excerpt: "European lawmakers have rushed to add language on general artificial intelligence systems like ChatGPT as they put the finishing touches on the Western world's first AI rules"
     publishedDateTime: 2023-05-09T09:32:00Z

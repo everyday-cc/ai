@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Recognizing the risks: Go slow on facial recognition"
-    excerpt: "The City Council is poised to pass a bill that would generally prohibit public accommodations like, hypothetically, large sports arenas and music halls owned by a gruff billionaire from utilizing biometric technologies like facial recognition to “verify or identify a customer,"
-    publishedDateTime: 2023-05-07T08:05:00Z
-    webUrl: "https://www.nydailynews.com/opinion/ny-edit-msg-city-council-bill-legislation-surveillance-monitoring-landlords-20230507-756n7ua5krarpev5ej2cuzsrpq-story.html"
-    type: article
-    provider:
-      name: New York Daily News
-      domain: nydailynews.com
-    quality: 39
-    images:
-      - url: "https://www.nydailynews.com/resizer/A1GIYA7uiW28B64Wfc2PtS8B8E0=/1200x630/filters:format(jpg):quality(70):focal(3753x1333:3763x1343)/cloudfront-us-east-1.images.arcpublishing.com/tronc/LGQX7TQZDZAW7A43PDRQY53FJY.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Marriage is entitled to constitutional protection, not just legal recognition: SC"
     excerpt: "The Supreme Court said on Tuesday it has to be alive to the fact that the concept of marriage has evolved and must accept the basic proposition that marriage itself is entitled to constitutional protection as it is not just a matter of statutory recognition."
     publishedDateTime: 2023-05-09T15:04:00Z

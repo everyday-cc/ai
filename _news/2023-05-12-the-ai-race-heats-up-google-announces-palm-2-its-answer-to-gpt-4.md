@@ -1,28 +1,33 @@
 ---
 category: news
-title: "Google rolls out tools for developers to build machine learning and AI into their products"
-excerpt: "Google LLC is rolling out a number of tools for developers to build machine learning and artificial intelligence into their applications using high-performance AI models and solutions. At Google I/O,"
-publishedDateTime: 2023-05-10T20:42:00Z
-originalUrl: "https://siliconangle.com/2023/05/10/google-rolls-tools-developers-build-machine-learning-ai-products/"
-webUrl: "https://siliconangle.com/2023/05/10/google-rolls-tools-developers-build-machine-learning-ai-products/"
+title: "The AI race heats up: Google announces PaLM 2, its answer to GPT-4"
+excerpt: "Google introduced PaLM 2, a family of foundational language models comparable to OpenAI's GPT-4. At its Google I/O event in Mountain View, Google revealed that it is already using PaLM 2 to power 25 different products,"
+publishedDateTime: 2023-05-11T19:20:00Z
+originalUrl: "https://arstechnica.com/information-technology/2023/05/googles-top-ai-model-palm-2-hopes-to-upstage-gpt-4-in-generative-mastery/"
+webUrl: "https://arstechnica.com/information-technology/2023/05/googles-top-ai-model-palm-2-hopes-to-upstage-gpt-4-in-generative-mastery/"
+ampWebUrl: "https://arstechnica.com/information-technology/2023/05/googles-top-ai-model-palm-2-hopes-to-upstage-gpt-4-in-generative-mastery/amp/"
+cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/05/googles-top-ai-model-palm-2-hopes-to-upstage-gpt-4-in-generative-mastery/amp/"
 type: article
-quality: 46
+quality: 89
 heat: -1
 published: false
 
 provider:
-  name: SiliconANGLE
-  domain: siliconangle.com
+  name: Ars Technica
+  domain: arstechnica.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - Machine Learning
+  - Natural Language Processing
   - AI
-  - Google AI
 
 images:
-  - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/12/network-g714c9891c_1280.jpg"
-    width: 1280
-    height: 853
+  - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/05/google_palm2_hero_1-800x450.jpg"
+    width: 800
+    height: 450
     isCached: true
 
 related:
@@ -58,22 +63,6 @@ related:
         width: 1200
         height: 666
         isCached: true
-  - title: "The AI race heats up: Google announces PaLM 2, its answer to GPT-4"
-    excerpt: "Google introduced PaLM 2, a family of foundational language models comparable to OpenAI's GPT-4. At its Google I/O event in Mountain View, Google revealed that it is already using PaLM 2 to power 25 different products,"
-    publishedDateTime: 2023-05-11T19:20:00Z
-    webUrl: "https://arstechnica.com/information-technology/2023/05/googles-top-ai-model-palm-2-hopes-to-upstage-gpt-4-in-generative-mastery/"
-    ampWebUrl: "https://arstechnica.com/information-technology/2023/05/googles-top-ai-model-palm-2-hopes-to-upstage-gpt-4-in-generative-mastery/amp/"
-    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/05/googles-top-ai-model-palm-2-hopes-to-upstage-gpt-4-in-generative-mastery/amp/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 89
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/05/google_palm2_hero_1-800x450.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Artificial Intelligence Products Market Size, 2030"
     excerpt: "Research Reports has published a new report titled as \"Artificial Intelligence Products Market\" by End User (Media"
     publishedDateTime: 2023-05-09T04:13:00Z
@@ -87,6 +76,20 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Google rolls out tools for developers to build machine learning and AI into their products"
+    excerpt: "Google LLC is rolling out a number of tools for developers to build machine learning and artificial intelligence into their applications using high-performance AI models and solutions. At Google I/O,"
+    publishedDateTime: 2023-05-10T20:42:00Z
+    webUrl: "https://siliconangle.com/2023/05/10/google-rolls-tools-developers-build-machine-learning-ai-products/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 46
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/12/network-g714c9891c_1280.jpg"
+        width: 1280
+        height: 853
         isCached: true
   - title: "Google builds on tech’s latest craze with its own AI products"
     excerpt: "On Wednesday, at its annual conference in Mountain View, California, the company demonstrated some of what it has been working on. Google said its search engine will begin incorporating responses generated by AI at the top of query results pages and allow users to ask follow-up questions."
@@ -103,6 +106,6 @@ related:
         height: 630
         isCached: true
 
-secured: "dsvfWa0sbqWmXvNCOJb2hI5M+IhLoz1+MB06kItoSgz9Ok2A3IgBLZXI2sktM8FRXh43e49EvR4lhBwhDRc1SWMc+xwzb0nYnxZMTEKIBl4qrYv7P4S7GzAPtvlUiLpPcUwIxhsR3TufYcWNJ5gpcKVkHmFNaqwqpUYkd+Zj6bhLrMMtXd3ksh10r3514KdRU4fZTSIsQc7YFP6gYz59dSY10gjKZbQ47KigT2IG/OExk31C0PPhvAOS3o2OCnNJU4b8uTP0xuY4qsWJvydtHlcoO0cS13sZc3g/hIhb3AgrYyjDlLSj6KFQmVXGz63rGaQVp2L1+/hWB3v0dSRoPM/pxj4szKD+/dO0fdN39qI1BkDJ9FkJXWVczw8Z4F6VjDdcFatZ8W7zPU2/V11M80Rthx1gNOkZxesn8+eH/0IqiONeAYs7znCalVWgbHCO83FroZ3vGbEBnqBj7iaWipQX+xfmW7oU8laaDlcNHKivVhMLqjxHN9gQtsfrxky5FMqNFbqMfLREE+wR1rb0lw==;hoCFwWmgjFdd6dXQg9pspQ=="
+secured: "xwJtWgI+A0Wb3xQxbu7l5b9tlYlKQRXN7fn6HKFxu82dpMpTyVCPzp4sjxFKYqonZTZG/j6XBxO2RsDDCe8hixX3JArv02bHRGXBU1K3r8nrDByOKkjOzfzq6b+7mB62NXgCOywllD1qXYik109RFdKsl7/KP+flJXboRIDwM4AzYOE55/QiH3voXPvUDghW5+LFnhRGsNPgwQKTdpBNgOjPXAGstfqDg0bpt47ms1StRcuMd6OcpGuVFBsz7aNydw3ExZo9oUPoi/AnouGTVWMgRm6M+PqJgmpuk0KAoZnvs0xl5jlJSCa6xo/ibKDd6u4fIM0/c0DG70V+vW77D9dqc6aL4mxKEKG5irp8Dk4=;KScP0+SS7LcdT0lM9gYiqQ=="
 ---
 
