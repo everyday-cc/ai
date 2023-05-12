@@ -27,152 +27,110 @@ images:
     isCached: true
 
 related:
-  - title: "U.S. Sanctions Drive Chinese Firms to Advance AI Without Latest Chips"
-    excerpt: "Chinese companies racing to catch up with American AI leaders get creative as U.S. sanctions cut them off from the most advanced chips."
-    publishedDateTime: 2023-05-07T13:00:00Z
-    webUrl: "https://www.wsj.com/articles/u-s-sanctions-drive-chinese-firms-to-advance-ai-without-latest-chips-f6aed67f"
+  - title: "No Business Plan? No Problem. ChatGPT Spawns an Investor Gold Rush in AI"
+    excerpt: "It is boom times for startups touting generative artificial intelligence technology."
+    publishedDateTime: 2023-05-08T09:00:00Z
+    webUrl: "https://www.wsj.com/articles/no-business-plan-no-problem-chatgpt-spawns-an-investor-gold-rush-in-ai-6bdbed3c"
     type: article
     provider:
       name: Wall Street Journal
       domain: wsj.com
-    quality: 84
+    quality: 66
     images:
-      - url: "https://images.wsj.net/im-776300/social"
+      - url: "https://images.wsj.net/im-776000/social"
         width: 1280
         height: 640
         isCached: true
-  - title: "China is developing AI without US chips: Here's how"
-    excerpt: "The report revealed that local Chinese companies are working on ways to develop AI with weaker semiconductors along with combinations of chips to stop the reliance on one type of hardware."
-    publishedDateTime: 2023-05-08T08:22:00Z
-    webUrl: "https://cointelegraph.com/news/china-is-developing-ai-without-us-chips-here-s-how"
-    ampWebUrl: "https://cointelegraph.com/news/china-is-developing-ai-without-us-chips-here-s-how/amp"
-    cdnAmpWebUrl: "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/china-is-developing-ai-without-us-chips-here-s-how/amp"
+  - title: "UAE: New ChatGPT ‘Yas Island AI Assistant’ to help plan visits"
+    excerpt: "Visitors to Abu Dhabi’s Yas Island can now get personalised guidance and information about the latest offerings through an AI"
+    publishedDateTime: 2023-05-09T11:36:00Z
+    webUrl: "https://www.khaleejtimes.com/travel/uae-new-chatgpt-yas-island-ai-assistant-to-help-plan-visits"
+    ampWebUrl: "https://www.khaleejtimes.com/travel/uae-new-chatgpt-yas-island-ai-assistant-to-help-plan-visits?amp=1"
+    cdnAmpWebUrl: "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/travel/uae-new-chatgpt-yas-island-ai-assistant-to-help-plan-visits?amp=1"
     type: article
     provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 74
+      name: Khaleej Times
+      domain: khaleejtimes.com
+    quality: 59
     images:
-      - url: "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=740/https://s3.cointelegraph.com/uploads/2023-05/945d6562-7cc8-4c63-9ad5-3bc1eacd921a.jpg"
-        width: 740
-        height: 492
+      - url: "https://image.khaleejtimes.com?uuid=67864b60-5b67-5005-aed2-dd02f8f8b6c7&function=cropresize&type=preview&source=false&q=75&crop_w=0.58233&crop_h=0.99999&x=0.20884&y=0&width=1200&height=675"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Chinese Tech Companies Forced To Think Outside The Box To Overcome US Chip Ban In The Race For AI Supremacy"
-    excerpt: "By the time the sanctions were issued in October, Chinese institutions were producing 4.5 times more research papers on the topic of AI than American ones, according to a report released by State of AI. The release of ChatGPT in November 2021 by OpenAI ..."
-    publishedDateTime: 2023-05-08T19:12:00Z
-    webUrl: "https://markets.businessinsider.com/news/etf/chinese-tech-companies-forced-to-think-outside-the-box-to-overcome-us-chip-ban-in-the-race-for-ai-supremacy-1032303426"
+  - title: "How AI robots can affect Filipino domestic workers worldwide amid ChatGPT concerns"
+    excerpt: "The discussion of artificial intelligence and robots taking over human jobs has reached another point following a recent study revolving around unpaid domestic help."
+    publishedDateTime: 2023-05-09T07:30:00Z
+    webUrl: "https://www.philstar.com/lifestyle/on-the-radar/2023/05/09/2264997/how-ai-robots-can-affect-filipino-domestic-workers-worldwide-amid-chatgpt-concerns"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 68
+      name: philstar.com
+      domain: philstar.com
+    quality: 48
     images:
-      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/Computer,Support,Engineer,Installing,Processor.,Microprocessor,With,Clearly,Visible,Silicon.jpeg"
-        width: 1024
-        height: 768
+      - url: "https://media.philstar.com/photos/2023/05/09/ofw2019-11-0921-24-08_2023-05-09_13-35-26.jpg"
+        width: 800
+        height: 494
         isCached: true
-  - title: "Chinese think they can do AI with weaker chips"
-    excerpt: "Avoiding US sanctions  While the US thinks that it can delay China's rise in power by forbidding the sale of high powered chips to the Middle Kingdom, it seems that is doomed to fail. According to a report from the Wall Street Journal,"
-    publishedDateTime: 2023-05-08T10:41:00Z
-    webUrl: "https://www.fudzilla.com/news/ai/56847-chinese-think-they-can-do-ai-with-weaker-chips"
+  - title: "Gartner: ChatGPT has prompted increase in AI investments"
+    excerpt: "A Gartner poll shows that 45% reported that the publicity of ChatGPT has prompted them to increase AI investments."
+    publishedDateTime: 2023-05-07T23:30:00Z
+    webUrl: "https://techwireasia.com/2023/05/gartner-chatgpt-has-prompted-increase-in-ai-investments/"
     type: article
     provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 54
+      name: techwireasia.com
+      domain: techwireasia.com
+    quality: 39
     images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/213f473a5cd1c97e9ee0f7bcc7d4bde7_L.jpg"
-        width: 620
-        height: 465
+      - url: "https://cdn.techwireasia.com/wp-content/uploads/2023/05/shutterstock_2261871805-897x500.jpg"
+        width: 897
+        height: 500
         isCached: true
-  - title: "How China is Developing AI Without US Chips"
-    excerpt: "China has been ramping up its own chip development and is making strides in developing AI without relying on US technology."
-    publishedDateTime: 2023-05-07T17:18:00Z
-    webUrl: "https://insidebitcoins.com/news/how-china-is-developing-ai-without-us-chips"
+  - title: "UAE: New Chatgpt AI Assistant To Help Plan Visits To Yas Island"
+    excerpt: "Visitors to Abu Dhabi's Yas Island can now get personalised guidance and information about the latest offerings through an AI assistant. Miral, the leading creator of immersive destinations and experiences based in Abu Dhabi,"
+    publishedDateTime: 2023-05-09T19:34:00Z
+    webUrl: "https://menafn.com/1106210851/UAE-New-Chatgpt-AI-Assistant-To-Help-Plan-Visits-To-Yas-Island"
     type: article
     provider:
-      name: Inside Bitcoins
-      domain: insidebitcoins.com
-    quality: 54
+      name: Mena FN
+      domain: menafn.com
+    quality: 39
     images:
-      - url: "https://insidebitcoins.com/wp-content/uploads/2018/02/china-economy.jpg"
-        width: 1920
-        height: 1200
+      - url: "https://menafn.com/updates/pr/2023-05/09/KT_6610bimage_story.jpg"
+        width: 600
+        height: 337
         isCached: true
-  - title: "Chinese firms to seek AI chips alternatives"
-    excerpt: "THE US government's intensifying chip sanctions against China have forced Chinese firms to search for alternatives to advanced chips used in cutting-edge artificial intelligence (AI) and could even offer a new opportunity for Chinese firms to take the lead in the emerging technology,"
-    publishedDateTime: 2023-05-09T14:06:00Z
-    webUrl: "https://www.manilatimes.net/2023/05/10/business/foreign-business/chinese-firms-to-seek-ai-chips-alternatives/1890644"
+  - title: "ChatGPT Fever Has Investors Pouring Billions Into AI Startups, No Business Plan Required"
+    excerpt: "It is boom times for startups touting generative artificial intelligence technology."
+    publishedDateTime: 2023-05-09T11:51:00Z
+    webUrl: "https://www.wsj.com/articles/no-business-plan-no-problem-chatgpt-spawns-an-investor-gold-rush-in-ai-6bdbed3c"
     type: article
     provider:
-      name: manilatimes
-      domain: manilatimes.net
-    quality: 54
-    images:
-      - url: "https://www.manilatimes.net/uploads/authors/468_1656384454.jpg"
-        width: 400
-        height: 400
-        isCached: true
-  - title: "Didi to mass produce self-driving EVs in partnership with Chinese carmaker GAC"
-    excerpt: "Didi has been preparing for a comeback with autonomous driving cars, a sector favoured by the government, after a 2021 crackdown."
-    publishedDateTime: 2023-05-10T22:00:00Z
-    webUrl: "https://www.scmp.com/tech/article/3220097/didi-mass-produce-self-driving-evs-partnership-chinese-carmaker-gac"
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 38
+  - title: "Torah is the anti-ChatGPT. But we can embrace artificial intelligence without losing our soul."
+    excerpt: "I recently asked ChatGPT, the online chatbot, to write a verse in the style of the Bible about robots taking over the world."
+    publishedDateTime: 2023-05-08T17:43:00Z
+    webUrl: "https://www.jewishaz.com/opinion/torah-is-the-anti-chatgpt-but-we-can-embrace-artificial-intelligence-without-losing-our-soul/article_9fbb6fd6-edc7-11ed-91cd-2bcf69a3d42b.html"
     type: article
     provider:
-      name: scmp.com
-      domain: scmp.com
-    quality: 50
+      name: Northern Arizona Jewish News
+      domain: jewishaz.com
+    quality: 27
     images:
-      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2023/05/10/94ef84a8-7065-4d3b-aed6-30868f28d524_e01db933.jpg?itok=SYbroS_M&v=1683719752"
+      - url: "https://bloximages.newyork1.vip.townnews.com/jewishaz.com/content/tncms/assets/v3/editorial/2/eb/2eb5d1d6-edc8-11ed-9209-b32e3208dd0a/645935bcdbcea.image.jpg?crop=1931%2C1014%2C0%2C29&resize=1200%2C630&order=crop%2Cresize"
         width: 1200
         height: 630
         isCached: true
-  - title: "US sanctions force Chinese firms to strive for alternatives to AI chips: experts"
-    excerpt: "The US government's intensifying chip sanctions against China have forced Chinese firms to search for alternatives to advanced chips used in cutting-edge artificial intelligence (AI) and could even offer a new opportunity for Chinese firms to take the lead in the emerging technology,"
-    publishedDateTime: 2023-05-08T14:36:00Z
-    webUrl: "https://www.globaltimes.cn/page/202305/1290343.shtml"
+  - title: "In 30 secs, ChatGPT produces 643 words on India and AI; Edge manages just 143"
+    excerpt: "In the IANS New York office, we have been experimenting with chatbots and one of the tasks we set for the two as a test was to \"write a report"
+    publishedDateTime: 2023-05-08T12:55:00Z
+    webUrl: "https://glamsham.com/world/health-lifestyle/in-30-secs-chatgpt-produces-643-words-on-india-and-ai-edge-manages-just-143"
     type: article
     provider:
-      name: Global Times
-      domain: globaltimes.cn
-    quality: 49
-    images:
-      - url: "https://www.globaltimes.cn/Portals/0/attachment/2023/2023-04-11/61b112bd-1fff-4b0e-bc56-3d47fa2f37df.jpeg"
-        width: 800
-        height: 480
-        isCached: true
-  - title: "Chinese scientists reveal shocking brain chip that allows monkeys to control a robotic arm with their mind"
-    excerpt: "SCIENTISTS in China have made a breakthrough in ‘Frankenstein’ brain chip technology, with the aim of letting people control machines with their mind. For now though, the technology"
-    publishedDateTime: 2023-05-10T12:26:00Z
-    webUrl: "https://www.thesun.co.uk/tech/22310762/chinese-scientists-brain-chip-monkey-control-robotic-arm/"
-    type: article
-    provider:
-      name: The Sun
-      domain: thesun.co.uk
-    quality: 33
-  - title: "Leading Chinese AI company iFLYTEK showcases latest innovations at opening ceremony of BEYOND Expo 2023 in Macao"
-    excerpt: "PRNewswire/ -- iFLYTEK, a leader in AI technology, showcased its latest cutting-edge innovation at the opening ceremonies of"
-    publishedDateTime: 2023-05-11T16:36:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/leading-chinese-ai-company-iflytek-showcases-latest-innovations-at-opening-ceremony-of-beyond-expo-2023-in-macao-1032318837"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 28
-  - title: "Chinese voice-recognition company iFlytek unveils ChatGPT rival"
-    excerpt: "Chinese voice-recognition company iflytek Co. has entered the race to build a rival to OpenAI Inc.’s ChatGPT, with a live demonstration of its artificial intelligence model for educational and enterprise uses,"
-    publishedDateTime: 2023-05-07T11:40:00Z
-    webUrl: "https://www.thestar.com.my/aseanplus/aseanplus-news/2023/05/07/chinese-voice-recognition-company-iflytek-unveils-chatgpt-rival"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 24
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2023/05/07/2060372.jpg"
-        width: 860
-        height: 573
-        isCached: true
+      name: glamsham.com
+      domain: glamsham.com
+    quality: 16
 
 secured: "GGuLY4UK8LQjA/qLd0r34H39lvsmu30rbJDIGausNZli1oGD/eXYwRDcb2fdQZD4smt6uoDSA6K6PzmPjhadzqU+JR5DqMl4DPJkpljtPqkr3eDPT0TAz1DwFtSrNlSlIjtvg9PXqK08bw5jKSbOsDu0WGmdR2cqM0wY7GwfW8uSNrvc1PRnvUoLpI5F4gIN2dWvVbGFfrxNBVFj56T5HjSiQZYMtsO98nCIpXS8Z0tyGuCo/nj9hezyit5TvB6ZjWUKzcMcGBjokfdFMMAqxn7nI696CYMEZOXJzJ8Rk6p26QfpRMzlu9ibv3aZlAy/3HJfaY3dXgCrCQEi/NXH/bA2QRUkYPrWNWBIaEPu9I9qeZbxpzgp4H+wmWrkbBkd1sFgMNJp7ADOMs0yNu8qzTLCa6csjTGm7cVDwNbpEBXIuYNEsjQ9fmoNDCdYC0R1sJSApN49b5UH3jxqNSz79JZ+rHz1Nijvf+fjFp1yIPHRVYlx51n/eJT1zZvYQHR/xAxI0OanPcFAWHgkENRotw==;7aChtZOiODdRvXvCSOiRiA=="
 ---

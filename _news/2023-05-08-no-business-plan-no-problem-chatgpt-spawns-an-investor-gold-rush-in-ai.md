@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/articles/no-business-plan-no-problem-chatgpt-s
 webUrl: "https://www.wsj.com/articles/no-business-plan-no-problem-chatgpt-spawns-an-investor-gold-rush-in-ai-6bdbed3c"
 type: article
 quality: 66
-heat: 136
+heat: 146
 published: true
 
 provider:
@@ -43,6 +43,22 @@ related:
       - url: "https://image.khaleejtimes.com?uuid=67864b60-5b67-5005-aed2-dd02f8f8b6c7&function=cropresize&type=preview&source=false&q=75&crop_w=0.58233&crop_h=0.99999&x=0.20884&y=0&width=1200&height=675"
         width: 1200
         height: 675
+        isCached: true
+  - title: "State-sponsored Chinese AI firm launches bot service to ‘surpass’ ChatGPT"
+    excerpt: "State-subsidized AI company Iflytek recently launched a GPT competitor it says will rival and surpass OpenAI's popular ChatGPT service by the end of the year."
+    publishedDateTime: 2023-05-08T18:59:00Z
+    webUrl: "https://cointelegraph.com/news/state-sponsored-chinese-ai-firm-launches-bot-service-to-surpass-chatgpt"
+    ampWebUrl: "https://cointelegraph.com/news/state-sponsored-chinese-ai-firm-launches-bot-service-to-surpass-chatgpt/amp"
+    cdnAmpWebUrl: "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/state-sponsored-chinese-ai-firm-launches-bot-service-to-surpass-chatgpt/amp"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 58
+    images:
+      - url: "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=740/https://s3.cointelegraph.com/uploads/2023-05/0d9506a7-6cf2-4379-93bc-8e9bcca5d1ef.jpg"
+        width: 740
+        height: 493
         isCached: true
   - title: "How AI robots can affect Filipino domestic workers worldwide amid ChatGPT concerns"
     excerpt: "The discussion of artificial intelligence and robots taking over human jobs has reached another point following a recent study revolving around unpaid domestic help."

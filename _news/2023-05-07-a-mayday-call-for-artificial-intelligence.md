@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/a-mayday-call-for-artificial-intelligence
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/a-mayday-call-for-artificial-intelligence/amp/"
 type: article
 quality: 91
-heat: 111
+heat: 121
 published: true
 
 provider:
@@ -60,6 +60,15 @@ related:
         width: 1664
         height: 674
         isCached: true
+  - title: "Scientists call for AI moratorium, warn about potential pitfalls in healthcare"
+    excerpt: "Although artificial intelligence is often touted as a game-changer in healthcare, an international team of scientists is warning that it also may pose threats to human health in terms of social, political,"
+    publishedDateTime: 2023-05-12T04:16:00Z
+    webUrl: "https://www.mcknightsseniorliving.com/home/news/tech-daily-news/scientists-call-for-ai-moratorium-warn-about-potential-pitfalls-in-healthcare/"
+    type: article
+    provider:
+      name: McKnight's Senior Living
+      domain: mcknightsseniorliving.com
+    quality: 30
 
 secured: "E2487Ms5UexciQ6DDPND7IGIGQi0hjljB2JCNWdXKdQdGG4wAB9ZrOGAVdU4EA0KQRP3zz9nl5sIEp3QhoVxY7AlOCGGktCxgkw/JMS+fMp0z04V+gUFS1EV98O4ZJgms+/fR/72c72XV1xOYaV2Tvrc36mQI6I1a2qG20NKU+ZNMPvizScsYggCxi0Z4TC9BIYYrubhVFvIKvGI3yEN1gSdlgTbaaAxi5zvUYzn5w3udN/HGFxnWQPRpCWSt0r83psxgKqParFrUFY1FlBQSfGGJJqC/ETcFaSyWdZw1ZOGthHs9z4LmI0qH1gtsmkBoMC312o8sXHcRTzMCN0got03vcj9TzdWRsGjlFnVutNfwqLMkPooA5oE+kaQ8TvPAJjrNF4n7hpqyB7hdD8dvh+IzxJ0WwS19XZ5ycad0YdSJYxBZMnIAbgMRqsEWHqoFh6Gl5Uto/4NL3vmXkRPY2OqfjrXzHTZvzWhLsmEgwhWeYbEPyNn4mcHByFi6V04DHIYEsIZFIemzvlin4jDTQ==;SqZkQsPcWteXloNfn20BbA=="
 ---

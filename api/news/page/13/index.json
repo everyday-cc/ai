@@ -2,6 +2,103 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2023-05-03-amd-reports-a-steep-decline-in-pc-chip-sales-but-theres-an-epyc-silver-lining.md",
+      "title": "AMD Reports A Steep Decline In PC Chip Sales But There's An EPYC Silver Lining",
+      "excerpt": "Despite some big losses, AMD CEO Dr. Lisa Su remained upbeat with an eye on 'significant growth opportunities' if the company sticks to its game plan.",
+      "sourceUrl": null,
+      "webUrl": "https://hothardware.com/news/amd-steep-decline-pc-chip-sales-epyc-silver-lining",
+      "originalUrl": "https://hothardware.com/news/amd-steep-decline-pc-chip-sales-epyc-silver-lining",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hothardware.com/contentimages/newsitem/61530/content/AMD_Dr_Lisa_Su_EPYC_Hero.jpg",
+          "width": 708,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.hothardware.com/news/amd-steep-decline-pc-chip-sales-epyc-silver-lining",
+      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/amd-steep-decline-pc-chip-sales-epyc-silver-lining",
+      "publishedDateTime": "2023-05-03T06:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HotHardware",
+        "domain": "hothardware.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2023-05-03-charmhealth-democratizes-generative-ai-use-across-clinical-workflows-in-healthcare-establishments-and-verticals.md",
+      "title": "CharmHealth Democratizes Generative AI Use Across Clinical Workflows in Healthcare Establishments and Verticals",
+      "excerpt": "CharmHealth integrates search and summarize features, including auto-generating chart note components, note summaries, referral letters, lab result queries, and other features. Clinical virtual assistant features such as auto-suggestion of diagnosis codes and treatment plans are also being rolled out.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/charmhealth-democratizes-generative-ai-use-across-clinical-workflows-in-healthcare-establishments-and-verticals-2023-05-03",
+      "originalUrl": "https://www.marketwatch.com/press-release/charmhealth-democratizes-generative-ai-use-across-clinical-workflows-in-healthcare-establishments-and-verticals-2023-05-03",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-03T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-05-03-sap-signs-ibm-watson-deal-chatgpt-showstopper-waits-in-the-wings.md",
       "title": "SAP signs IBM Watson deal, ChatGPT showstopper waits in the wings",
       "excerpt": "Watson is a question-answering system developed by IBM in the Noughties. SAP said the Watson-powered system would help managers and employees in the find answers across various SAP business applications, having already been deployed in SAP Concur, the expense management application.",
@@ -1107,108 +1204,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-03-ai-generated-beer-commercial-contains-joyful-monstrosities-goes-viral.md",
-      "title": "AI-generated beer commercial contains joyful monstrosities, goes viral",
-      "excerpt": "While many fear a future where AI-generated media becomes indistinguishable from traditional media, destroying society and/or civilization in the process, we aren't quite there yet. Exhibit A comes in the form of a surreal AI-generated beer commercial that went viral over the weekend.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2023/05/ai-generated-beer-commercial-contains-joyful-monstrosities-goes-viral/",
-      "originalUrl": "https://arstechnica.com/information-technology/2023/05/ai-generated-beer-commercial-contains-joyful-monstrosities-goes-viral/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/ai_beer_hero-800x450.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/information-technology/2023/05/ai-generated-beer-commercial-contains-joyful-monstrosities-goes-viral/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/05/ai-generated-beer-commercial-contains-joyful-monstrosities-goes-viral/amp/",
-      "publishedDateTime": "2023-05-02T14:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-03-the-ai-political-campaign-is-here.md",
-      "title": "The AI political campaign is here",
-      "excerpt": "President Barack Obama's 2008 election campaign has often been celebrated as the first to effectively use social media as a mobilization tool to capture the White House. In the 15 years since, the technology has gone from being a novel addition to a political campaign to transcending every aspect of one.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2023/05/02/politics/ai-election-ads-2024/index.html",
-      "originalUrl": "https://www.cnn.com/2023/05/02/politics/ai-election-ads-2024/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/230502181615-rnc-beat-biden-ai-ad-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2023/05/02/politics/ai-election-ads-2024/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/05/02/politics/ai-election-ads-2024/index.html",
-      "publishedDateTime": "2023-05-02T14:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

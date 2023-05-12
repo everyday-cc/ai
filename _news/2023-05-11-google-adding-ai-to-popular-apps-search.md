@@ -376,6 +376,20 @@ related:
         width: 860
         height: 573
         isCached: true
+  - title: "Google Is Rolling the Dice With AI Search"
+    excerpt: "As AI answers fill our phone screens, what will become of the tech giant’s relationship with advertisers — or the truth?"
+    publishedDateTime: 2023-05-11T23:53:00Z
+    webUrl: "https://www.washingtonpost.com/business/2023/05/12/google-is-rolling-the-dice-with-ai-search/42a55c5a-f081-11ed-b67d-a219ec5dfd30_story.html"
+    type: article
+    provider:
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 39
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IH5Q43HQQEI63NT5UIM6YXP5GA.jpg&w=1440"
+        width: 1440
+        height: 958
+        isCached: true
   - title: "Research Training Group is forging new paths in Artificial Intelligence"
     excerpt: "A new Research Training Group (RTG) at Saarland University will develop approaches aimed at making Artificial Intelligence more trustworthy and comprehensible. The German Research Foundation will be funding the new RTG over the next five years with around €7."
     publishedDateTime: 2023-05-10T11:46:00Z

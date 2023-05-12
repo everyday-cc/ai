@@ -87,15 +87,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Forget ChatGPT. These Are the Best AI-Powered Apps."
-    excerpt: "Chat features built into Duolingo, Expedia and others can be more useful than ask-me-anything bots."
-    publishedDateTime: 2023-05-07T12:00:00Z
-    webUrl: "https://www.wsj.com/articles/forget-chatgpt-these-are-the-best-ai-powered-apps-d927d0bf"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 47
   - title: "I asked AI bot ChatGPT to write a column on happiness. Here’s what happened next"
     excerpt: "I had to find out for myself. So I conducted a little experiment. I asked ChatGPT to write an article for me. I submitted the prompt, “Write a 500-word column on happiness.” That’s a broad, overworked topic,"
     publishedDateTime: 2023-05-08T21:21:00Z

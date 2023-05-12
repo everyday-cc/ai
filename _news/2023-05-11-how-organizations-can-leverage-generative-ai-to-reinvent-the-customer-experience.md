@@ -367,6 +367,20 @@ related:
         width: 860
         height: 573
         isCached: true
+  - title: "Google Is Rolling the Dice With AI Search"
+    excerpt: "As AI answers fill our phone screens, what will become of the tech giant’s relationship with advertisers — or the truth?"
+    publishedDateTime: 2023-05-11T23:53:00Z
+    webUrl: "https://www.washingtonpost.com/business/2023/05/12/google-is-rolling-the-dice-with-ai-search/42a55c5a-f081-11ed-b67d-a219ec5dfd30_story.html"
+    type: article
+    provider:
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 39
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IH5Q43HQQEI63NT5UIM6YXP5GA.jpg&w=1440"
+        width: 1440
+        height: 958
+        isCached: true
   - title: "Google adding AI to popular apps, search"
     excerpt: "AI-generated responses will top the results pages, and allow users to ask follow-up questions. Google also plans to add a \"help me write\" option in its GMail that will generate replies to emails within seconds."
     publishedDateTime: 2023-05-11T14:18:00Z

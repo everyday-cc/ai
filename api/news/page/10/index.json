@@ -2,6 +2,91 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2023-05-05-indias-robot-installations-hit-an-all-time-high.md",
+      "title": "India’s robot installations hit an all-time high",
+      "excerpt": "Industrial robot sales in India have reached a new record with 4,945 units installed in 2021, according to the IFR.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/indias-robot-installations-hit-an-all-time-high/",
+      "originalUrl": "https://www.therobotreport.com/indias-robot-installations-hit-an-all-time-high/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2023/05/ifr-graph-featured.jpg",
+          "width": 770,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-04T14:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-05-artificial-intelligence-helps-identify-people-at-risk-for-mental-illness.md",
+      "title": "Artificial intelligence helps identify people at risk for mental illness",
+      "excerpt": "NBC’s Jake Ward reports on how doctors at Cincinnati Children’s Hospital are using artificial intelligence to identify the risk of anxiety, depression and suicide early in kids and teens.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/now/video/artificial-intelligence-helps-identify-people-at-risk-for-mental-illness-172782661809",
+      "originalUrl": "https://www.nbcnews.com/now/video/artificial-intelligence-helps-identify-people-at-risk-for-mental-illness-172782661809",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_05/1683230682682_now_daily_b_ai_mentalillness_230504_1920x1080-2zyca5.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo172782661809",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo172782661809",
+      "publishedDateTime": "2023-05-04T13:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-05-godfather-of-ai-on-regulating-artificial-intelligence-things-are-incredibly-uncertain.md",
       "title": "'Godfather of AI' on regulating artificial intelligence: 'things are incredibly uncertain'",
       "excerpt": "Katy Tur spoke with Geoffrey Hinton, fmr. Vice President and Engineering Fellow at Google known as the 'Godfather of A.I.' about the furture of artificial intelligence.",
@@ -1092,109 +1177,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-04-supporting-teachers-in-their-stem-skilling-journeys.md",
-      "title": "Supporting teachers in their STEM skilling journeys",
-      "excerpt": "Three of my four grandparents were teachers. Their love of learning and passion for lighting a spark in their students impressed upon me the power that teachers have to change lives and shape the future. As I&#8217;m writing this, I am in Jacksonville, Florida, just a few miles from where my grandmother,",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/supporting-teachers-in-their-stem-skilling-journeys/",
-      "originalUrl": "https://www.ibm.com/blog/supporting-teachers-in-their-stem-skilling-journeys/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/05/Supporting-teachers-in-their-STEM-skilling-journeys-630x330.jpg",
-          "width": 630,
-          "height": 330,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-04T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-04-ai-powered-characters-changing-the-game.md",
-      "title": "AI-Powered Characters Changing The Game",
-      "excerpt": "Gamers have been clamoring for better non-player characters for years, and the arrival of conversational AI may finally provide the computing superpower to make it possible.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/charliefink/2023/05/04/ai-powered-characters-changing-the-game/",
-      "originalUrl": "https://www.forbes.com/sites/charliefink/2023/05/04/ai-powered-characters-changing-the-game/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64534a81ed2c825a139c02fa/0x0.jpg?format=jpg&width=1200",
-          "width": 961,
-          "height": 856,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/charliefink/2023/05/04/ai-powered-characters-changing-the-game/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charliefink/2023/05/04/ai-powered-characters-changing-the-game/amp/",
-      "publishedDateTime": "2023-05-04T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

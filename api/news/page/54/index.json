@@ -2,6 +2,74 @@
   "page": 54,
   "value": [
     {
+      "path": "_news/2023-04-04-leaning-into-ai-keynote-speakers.md",
+      "title": "Leaning into AI: Keynote speakers",
+      "excerpt": "As AI becomes embedded in our everyday lives, organisations are harnessing its power and affordability to revolutionise the way we do business. Across two Leaning into AI seminars, SmartCompany and AWS partnered to explore the rise of AI,",
+      "sourceUrl": null,
+      "webUrl": "https://www.smartcompany.com.au/partner-content/articles/leaning-into-ai-keynote-speakers/",
+      "originalUrl": "https://www.smartcompany.com.au/partner-content/articles/leaning-into-ai-keynote-speakers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-03T16:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SmartCompany",
+        "domain": "smartcompany.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-04-a-sensor-that-might-someday-enable-mind-controlled-robots.md",
+      "title": "A Sensor That Might Someday Enable Mind-Controlled Robots",
+      "excerpt": "A newly designed dry sensor that can measure brain activity may someday enable mind control of robotic systems.",
+      "sourceUrl": null,
+      "webUrl": "https://neurosciencenews.com/mind-controlled-robots-22931/",
+      "originalUrl": "https://neurosciencenews.com/mind-controlled-robots-22931/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-03T14:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neuroscience News",
+        "domain": "neurosciencenews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-04-ai-will-help-generate-commentary-for-masters-golf-tourney.md",
       "title": "AI Will Help Generate Commentary for Masters Golf Tourney",
       "excerpt": "IBM's modern tech will augment the historic event, using generative AI tech to add audio commentary to video highlights.",
@@ -889,83 +957,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-03-a-sensor-that-might-someday-enable-mind-controlled-robots.md",
-      "title": "A sensor that might someday enable ‘mind-controlled’ robots",
-      "excerpt": "It sounds like something from science fiction: Don a specialized, electronic headband and control a robot using your mind. But now, recent research published in ACS Applied Nano Materials has taken a step toward making this a reality. By designing a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.acs.org/pressroom/presspacs/2023/april/sensor-might-someday-enable-mind-controlled-robots.html",
-      "originalUrl": "https://www.acs.org/pressroom/presspacs/2023/april/sensor-might-someday-enable-mind-controlled-robots.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-02T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "C&EN",
-        "domain": "acs.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-03-how-researchers-are-using-ai-fruit-flies-to-make-major-biological-breakthroughs.md",
-      "title": "How researchers are using AI, fruit flies to make major biological breakthroughs",
-      "excerpt": "KANSAS CITY, Mo. (KCTV) - Artificial intelligence is taking the world to a new era at the Stowers Institute for Medical Research. AI is making major breakthroughs in biology that have stumped ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.kctv5.com/2023/04/04/how-researchers-are-using-ai-fruit-flies-make-major-biological-breakthroughs/",
-      "originalUrl": "https://www.kctv5.com/2023/04/04/how-researchers-are-using-ai-fruit-flies-make-major-biological-breakthroughs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gray-kctv-prod.cdn.arcpublishing.com/resizer/T8YzKAN3cuVd7ooBW0YR1SxdDMg=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/QE3MRHDW6NAFJHDPKHACMG53UM.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.kctv5.com/2023/04/04/how-researchers-are-using-ai-fruit-flies-make-major-biological-breakthroughs/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-kctv5-com.cdn.ampproject.org/c/s/www.kctv5.com/2023/04/04/how-researchers-are-using-ai-fruit-flies-make-major-biological-breakthroughs/?outputType=amp",
-      "publishedDateTime": "2023-04-02T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KCTV News",
-        "domain": "kctv5.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

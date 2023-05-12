@@ -1107,7 +1107,7 @@
       "originalUrl": "https://www.wsj.com/articles/no-business-plan-no-problem-chatgpt-spawns-an-investor-gold-rush-in-ai-6bdbed3c",
       "featuredContent": null,
       "highlight": null,
-      "heat": 136,
+      "heat": 146,
       "tags": null,
       "images": [
         {
@@ -1202,21 +1202,21 @@
       ]
     },
     {
-      "path": "_news/2023-05-08-makemytrip-adds-ai-voice-chat-to-lure-more-india-travelers.md",
-      "title": "MakeMyTrip Adds AI Voice Chat to Lure More India Travelers",
-      "excerpt": "India’s largest online travel-booking service is rolling out a voice chat service powered by artificial intelligence, becoming the country’s first major company to harness recent advances in generative AI.",
+      "path": "_news/2023-05-08-china-is-developing-ai-without-us-chips-heres-how.md",
+      "title": "China is developing AI without US chips: Here's how",
+      "excerpt": "The report revealed that local Chinese companies are working on ways to develop AI with weaker semiconductors along with combinations of chips to stop the reliance on one type of hardware.",
       "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2023-05-08/makemytrip-adds-ai-voice-chat-to-lure-more-india-travelers",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2023-05-08/makemytrip-adds-ai-voice-chat-to-lure-more-india-travelers",
+      "webUrl": "https://cointelegraph.com/news/china-is-developing-ai-without-us-chips-here-s-how",
+      "originalUrl": "https://cointelegraph.com/news/china-is-developing-ai-without-us-chips-here-s-how",
       "featuredContent": null,
       "highlight": null,
-      "heat": 179,
+      "heat": 144,
       "tags": null,
       "images": [
         {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iVQ2b33ZQBzI/v1/1200x800.jpg",
-          "width": 1200,
-          "height": 800,
+          "url": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=740/https://s3.cointelegraph.com/uploads/2023-05/945d6562-7cc8-4c63-9ad5-3bc1eacd921a.jpg",
+          "width": 740,
+          "height": 492,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1224,23 +1224,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-08T00:50:00-07:00",
+      "ampWebUrl": "https://cointelegraph.com/news/china-is-developing-ai-without-us-chips-here-s-how/amp",
+      "cdnAmpWebUrl": "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/china-is-developing-ai-without-us-chips-here-s-how/amp",
+      "publishedDateTime": "2023-05-08T01:22:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Bloomberg L.P.",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "CoinTelegraph",
+        "domain": "cointelegraph.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1249,7 +1240,7 @@
         "news"
       ],
       "topics": [
-        "Microsoft AI",
+        "AI Hardware",
         "AI"
       ]
     }

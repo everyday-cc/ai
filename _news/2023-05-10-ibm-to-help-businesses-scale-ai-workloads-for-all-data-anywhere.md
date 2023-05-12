@@ -55,6 +55,15 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Scientists call for AI moratorium, warn about potential pitfalls in healthcare"
+    excerpt: "Although artificial intelligence is often touted as a game-changer in healthcare, an international team of scientists is warning that it also may pose threats to human health in terms of social, political,"
+    publishedDateTime: 2023-05-12T04:16:00Z
+    webUrl: "https://www.mcknightsseniorliving.com/home/news/tech-daily-news/scientists-call-for-ai-moratorium-warn-about-potential-pitfalls-in-healthcare/"
+    type: article
+    provider:
+      name: McKnight's Senior Living
+      domain: mcknightsseniorliving.com
+    quality: 30
 
 secured: "Bh2vHsH7eblpLq12lgCeaxcbW3H1agUVX16NtV9+Wfartx5J9EBlFzzgegQkvQjFdpAMH7r4Ig9pAZNDUF6nBLGge02wtsr8CpiUpIwmNn3Hje5JcVhhyjXJoDw/LCpZbwKeY0sIrelarqYpB0iTQfrvSpXJLo62HMkcxHAv46bapgZ/EQmpjWKI2dAIc56kD3zmabbHpfdxu8ycg7KOh2ZH0wOKiJgiiNVQH7TsnRYc/11POLtY3I19MDK8tpQygBGcbsb+XFhVwOd2+qsaR7HeSbndrNauWQhiKltPXgtEm9JsLj4Y7Q4yDSjlOC+hqd/GgXkISiJv0phfB8Cqllk8OC3on/K3+E/Jkl13e6OrE41jte/R6fF45Vyb1cC3ZGCtV8FWL1MS4yoeRaDadoL8hq6TfNIakqyclwKR8ZnRXfsLyfc3rGyfiSVS7/N9NjDAD73qilRaHTv1CxVsO/QeaKkEUCXj7OkedCmaV/cyRWYucntsShUffQ03Gb8C2bei6cNrKeqn0/fHaWcRdg==;q1CCQHIesj2hbQEyf13Vgg=="
 ---

@@ -2,6 +2,109 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2023-05-01-oracle-making-ai-for-business-a-reality-with-latest-fusion-hcm-and-scm-updates.md",
+      "title": "Oracle Making AI For Business A Reality With Latest Fusion HCM And SCM Updates",
+      "excerpt": "Ranked Industry Analyst Patrick Moorhead dives into his conversation with Steve Miranda, executive vice president of Oracle applications development, in what has become a regular quarterly discussion about what is new in Oracle Fusion Applications.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/05/01/oracle-making-ai-for-business-a-reality-with-latest-fusion-hcm-and-scm-updates/",
+      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/05/01/oracle-making-ai-for-business-a-reality-with-latest-fusion-hcm-and-scm-updates/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/644fc92e311b61453fad4710/0x0.jpg?format=jpg&width=1200",
+          "width": 897,
+          "height": 561,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/05/01/oracle-making-ai-for-business-a-reality-with-latest-fusion-hcm-and-scm-updates/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2023/05/01/oracle-making-ai-for-business-a-reality-with-latest-fusion-hcm-and-scm-updates/amp/",
+      "publishedDateTime": "2023-05-01T07:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-01-how-generative-ai-can-affect-your-business-data-privacy.md",
+      "title": "How Generative AI Can Affect Your Business’ Data Privacy",
+      "excerpt": "If a business enters any client, customer or partner information into a chatbot, that AI may use that information in ways that businesses can’t reliably predict.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/01/how-generative-ai-can-affect-your-business-data-privacy/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/01/how-generative-ai-can-affect-your-business-data-privacy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/61f2bb5a705a07e1687440a6/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/01/how-generative-ai-can-affect-your-business-data-privacy/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/05/01/how-generative-ai-can-affect-your-business-data-privacy/amp/",
+      "publishedDateTime": "2023-05-01T07:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-01-who-do-you-trust-with-ai.md",
       "title": "Who Do You Trust With AI?",
       "excerpt": "One question for Andy Kessler.",
@@ -1072,108 +1175,6 @@
         "name": "NBC News",
         "domain": "nbcnews.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-01-we-must-perfect-predictive-models-for-generative-ai-to-deliver-on-the-ai-revolution.md",
-      "title": "We must perfect predictive models for generative AI to deliver on the AI revolution",
-      "excerpt": "To accelerate the AI revolution, we shouldn’t abandon “old school AI” for flashier generative AI. Why we should perfect predictive AI.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/we-must-perfect-predictive-models-for-generative-ai-to-deliver-on-the-ai-revolution/",
-      "originalUrl": "https://venturebeat.com/ai/we-must-perfect-predictive-models-for-generative-ai-to-deliver-on-the-ai-revolution/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1347040940.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 631,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/we-must-perfect-predictive-models-for-generative-ai-to-deliver-on-the-ai-revolution/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/we-must-perfect-predictive-models-for-generative-ai-to-deliver-on-the-ai-revolution/amp/",
-      "publishedDateTime": "2023-04-30T16:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-01-board-directors-and-c-suite-executives-need-an-ai-digital-literacy-jolt.md",
-      "title": "Board Directors And C-Suite Executives Need An AI Digital Literacy Jolt",
-      "excerpt": "This article summarizes a series of articles on ChatGPT to help advance board directors and c-level leaders understanding of AI in particular, generative AI like OpenAI's ChatGPT.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cindygordon/2023/04/30/board-directors-and-c-suite-executives-need-an-ai-digital-literacy-jolt/",
-      "originalUrl": "https://www.forbes.com/sites/cindygordon/2023/04/30/board-directors-and-c-suite-executives-need-an-ai-digital-literacy-jolt/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/644ed0207cdeacee53ba8cab/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 425,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2023/04/30/board-directors-and-c-suite-executives-need-an-ai-digital-literacy-jolt/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2023/04/30/board-directors-and-c-suite-executives-need-an-ai-digital-literacy-jolt/amp/",
-      "publishedDateTime": "2023-04-30T13:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

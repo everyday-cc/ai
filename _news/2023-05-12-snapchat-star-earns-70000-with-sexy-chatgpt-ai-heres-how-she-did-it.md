@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/martineparis/2023/05/11/carynai-virtual
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martineparis/2023/05/11/carynai-virtual-date-earned-70000-with-sexy-chatgpt-ai-heres-how/amp/"
 type: article
 quality: 87
-heat: 167
+heat: 157
 published: true
 
 provider:
@@ -76,15 +76,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Forget ChatGPT. These Are the Best AI-Powered Apps."
-    excerpt: "Chat features built into Duolingo, Expedia and others can be more useful than ask-me-anything bots."
-    publishedDateTime: 2023-05-07T12:00:00Z
-    webUrl: "https://www.wsj.com/articles/forget-chatgpt-these-are-the-best-ai-powered-apps-d927d0bf"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 47
   - title: "It’s Not Just About ChatGPT. Other AI Technologies Are Heading to Schools"
     excerpt: "How can schools stay on top of this rapidly changing technology? And how can educators separate hype from substance? Education Week asked four experts in technology, education, and artificial intelligence to look into their crystal balls and share their thoughts on how AI will likely change teaching and learning."
     publishedDateTime: 2023-05-09T15:33:00Z

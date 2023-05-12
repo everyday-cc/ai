@@ -2,6 +2,110 @@
   "page": 29,
   "value": [
     {
+      "path": "_news/2023-04-25-how-aurora-is-navigating-the-bumpy-road-to-commercial-self-driving-trucks.md",
+      "title": "How Aurora is navigating the bumpy road to commercial self-driving trucks",
+      "excerpt": "Chris Urmson, the CEO of AV company Aurora, talks about the road to commercial operations, the Uber ATG merger and what challenges lie ahead.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/04/24/how-aurora-is-navigating-the-bumpy-road-to-commercial-self-driving-trucks/",
+      "originalUrl": "https://techcrunch.com/2023/04/24/how-aurora-is-navigating-the-bumpy-road-to-commercial-self-driving-trucks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/04/Aurora-terminal-4.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/04/24/how-aurora-is-navigating-the-bumpy-road-to-commercial-self-driving-trucks/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/04/24/how-aurora-is-navigating-the-bumpy-road-to-commercial-self-driving-trucks/amp/",
+      "publishedDateTime": "2023-04-24T18:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-25-ai-isnt-just-for-tech-stocks-heres-how-coca-cola-is-teaming-up-with-openai.md",
+      "title": "AI Isn't Just for Tech Stocks. Here's How Coca-Cola Is Teaming Up With OpenAI",
+      "excerpt": "In March, the company launched an AI-driven design platform, \"Create Your Own Magic.\" Beyond marketing, Coke aims to use AI in areas like customer service and ordering. The partnership shows that ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/04/24/ai-isnt-just-for-tech-stocks-heres-how-coca-cola-i/",
+      "originalUrl": "https://www.fool.com/investing/2023/04/24/ai-isnt-just-for-tech-stocks-heres-how-coca-cola-i/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/729339/aluminum-cans.jpg",
+          "width": 3456,
+          "height": 2304,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-24T17:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-25-this-week-in-data-the-truth-about-ai.md",
       "title": "This week in data: The truth about AI",
       "excerpt": "In this week's video, Bruno and a special guest examine Gartner's latest Spaghetti Chart, discuss the real truth about AI, and more.",
@@ -1097,111 +1201,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-24-sensory-enables-voice-chat-with-generative-ai-on-consumer-devices.md",
-      "title": "Sensory enables voice chat with generative AI on consumer devices",
-      "excerpt": "Sensory, a maker of consumer voice AI, has announced it has integrated ChatGPT and other AI to drive voice responses on consumer devices.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/sensory-enables-voice-chat-with-generative-ai-on-consumer-devices/",
-      "originalUrl": "https://venturebeat.com/ai/sensory-enables-voice-chat-with-generative-ai-on-consumer-devices/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 151,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/04/SENSORY-2.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 727,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/sensory-enables-voice-chat-with-generative-ai-on-consumer-devices/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/sensory-enables-voice-chat-with-generative-ai-on-consumer-devices/amp/",
-      "publishedDateTime": "2023-04-24T07:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2023-04-24-infor-achieves-aws-manufacturing-and-industrial-competency.md",
-      "title": "Infor Achieves AWS Manufacturing and Industrial Competency",
-      "excerpt": "Designation recognizes Infor for its expertise in providing services and software solutions for an end-to-end industrial manufacturing software",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/infor-achieves-aws-manufacturing-and-industrial-competency-1032254536",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/infor-achieves-aws-manufacturing-and-industrial-competency-1032254536",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/526907/Infor_new_Logo.jpg",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-24T07:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

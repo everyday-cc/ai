@@ -41,6 +41,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "State-sponsored Chinese AI firm launches bot service to ‘surpass’ ChatGPT"
+    excerpt: "State-subsidized AI company Iflytek recently launched a GPT competitor it says will rival and surpass OpenAI's popular ChatGPT service by the end of the year."
+    publishedDateTime: 2023-05-08T18:59:00Z
+    webUrl: "https://cointelegraph.com/news/state-sponsored-chinese-ai-firm-launches-bot-service-to-surpass-chatgpt"
+    ampWebUrl: "https://cointelegraph.com/news/state-sponsored-chinese-ai-firm-launches-bot-service-to-surpass-chatgpt/amp"
+    cdnAmpWebUrl: "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/state-sponsored-chinese-ai-firm-launches-bot-service-to-surpass-chatgpt/amp"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 58
+    images:
+      - url: "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=740/https://s3.cointelegraph.com/uploads/2023-05/0d9506a7-6cf2-4379-93bc-8e9bcca5d1ef.jpg"
+        width: 740
+        height: 493
+        isCached: true
   - title: "How AI robots can affect Filipino domestic workers worldwide amid ChatGPT concerns"
     excerpt: "The discussion of artificial intelligence and robots taking over human jobs has reached another point following a recent study revolving around unpaid domestic help."
     publishedDateTime: 2023-05-09T07:30:00Z

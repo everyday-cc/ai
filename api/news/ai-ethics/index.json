@@ -402,6 +402,50 @@
       ]
     },
     {
+      "path": "_news/2023-05-07-the-rise-of-the-machines-assessing-the-ethical-risks-of-machine-learning-and-ai.md",
+      "title": "The Rise of the Machines: Assessing The Ethical Risks of Machine Learning And AI",
+      "excerpt": "As the world progresses towards digitalization, more people are adopting Artificial Intelligence (AI). The pandemic has accelerated this adoption. There are predictions that computers and robots will become more",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/readersblog/anawrites98/the-rise-of-the-machines-assessing-the-ethical-risks-of-machine-learning-and-ai-2-53549/",
+      "originalUrl": "https://timesofindia.indiatimes.com/readersblog/anawrites98/the-rise-of-the-machines-assessing-the-ethical-risks-of-machine-learning-and-ai-2-53549/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/photo/75476733.cms",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-07T08:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2023-05-07-how-will-we-know-when-artificial-intelligence-has-become-sentient.md",
       "title": "How Will We Know When Artificial Intelligence Has Become Sentient?",
       "excerpt": "Artificial intelligence research has accelerated in recent years, and people are interacting with AI more frequently. In-home AI assistants and self-driving cars were once things out of science fiction",
@@ -1446,58 +1490,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-04-27-the-future-of-workplace-safety-data-privacy-and-ethical-ai-at-the-highest-level.md",
-      "title": "The future of workplace safety: Data privacy and ethical AI at the highest level",
-      "excerpt": "Intenseye launched revolutionary 3D anonymization technique for workplace safety and data privacyNEW YORK, April 27, 2023 /PRNewswire/ --",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/the-future-of-workplace-safety-data-privacy-and-ethical-ai-at-the-highest-level-1032269760",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/the-future-of-workplace-safety-data-privacy-and-ethical-ai-at-the-highest-level-1032269760",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/2064905/FINAL_3D_RENDER_THUMB__1.jpg",
-          "width": 320,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-27T09:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],
