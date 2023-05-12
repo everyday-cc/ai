@@ -59,6 +59,22 @@ related:
         width: 1200
         height: 500
         isCached: true
+  - title: "Google releases new generative AI products and features for Google Cloud and Vertex AI"
+    excerpt: "Google announced at its developer conference Google I/O 2023 new products and features that give customers access to new generative AI modalities and expanded ways to use and tune custom models."
+    publishedDateTime: 2023-05-11T01:06:00Z
+    webUrl: "https://venturebeat.com/ai/google-releases-new-generative-ai-products-and-features-for-google-cloud-and-vertex-ai/"
+    ampWebUrl: "https://venturebeat.com/ai/google-releases-new-generative-ai-products-and-features-for-google-cloud-and-vertex-ai/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/google-releases-new-generative-ai-products-and-features-for-google-cloud-and-vertex-ai/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 79
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/05/GenAI-Google.png?w=1200&strip=all"
+        width: 1200
+        height: 591
+        isCached: true
   - title: "Cedars-Sinai Launches Center for Artificial Intelligence Research and Education"
     excerpt: "The center’s efforts will focus on developing new AI and machine learning algorithms for personalized medicine, genomics, and other healthcare research."
     publishedDateTime: 2023-05-11T17:30:00Z

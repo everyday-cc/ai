@@ -2,59 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2023-05-11-financial-fraud-is-evolving-faster-than-ever-but-ai-is-helping-fintechs-fight-back.md",
-      "title": "Financial fraud is evolving faster than ever. But AI is helping fintechs fight back.",
-      "excerpt": "As digital interactions across financial services grow exponentially—giving more people than ever access to the global financial system and the cashless economy—financial crime has become a much more prevalent threat.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/sponsor/nvidia-aws-company/financial-fraud-is-evolving-faster-than-ever-but-ai-is-helping-fintechs-fight-back/",
-      "originalUrl": "https://techcrunch.com/sponsor/nvidia-aws-company/financial-fraud-is-evolving-faster-than-ever-but-ai-is-helping-fintechs-fight-back/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/05/NVIDIA-art-3-hero.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-11T06:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
       "path": "_news/2023-05-11-regtech-artificial-intelligence-bank-of-valletta-adopts-resistant-ais-aml-product-to-tackle-financial-crime.md",
       "title": "Regtech, Artificial Intelligence: Bank of Valletta Adopts Resistant AI’s AML Product to Tackle Financial Crime",
       "excerpt": "Bank of Valletta, the largest bank in Malta, is to adopt Resistant AI's Transaction Forensics product for anti-money laundering (AML).",
@@ -106,7 +53,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/finovax-leads-the-charge-in-fintech-innovation-ai-powered-solutions-drive-business-growth-2023-05-09",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 189,
       "tags": null,
       "images": [
         {
@@ -1420,6 +1367,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-24-chatgpt-how-to-use-ai-as-a-virtual-financial-adviser.md",
+      "title": "ChatGPT: how to use AI as a virtual financial adviser",
+      "excerpt": "The study found that, particularly when ChatGPT models are fine tuned, they are more accurate than other machine learning models ... and what data it uses. Some financial planning companies already offer robo-advisors – services that use algorithms ...",
+      "sourceUrl": null,
+      "webUrl": "https://theconversation.com/chatgpt-how-to-use-ai-as-a-virtual-financial-adviser-204207",
+      "originalUrl": "https://theconversation.com/chatgpt-how-to-use-ai-as-a-virtual-financial-adviser-204207",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.theconversation.com/files/522314/original/file-20230421-20-89ix5g.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop",
+          "width": 320,
+          "height": 213,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://theconversation.com/amp/chatgpt-how-to-use-ai-as-a-virtual-financial-adviser-204207",
+      "cdnAmpWebUrl": "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/chatgpt-how-to-use-ai-as-a-virtual-financial-adviser-204207",
+      "publishedDateTime": "2023-04-24T09:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Conversation",
+        "domain": "theconversation.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

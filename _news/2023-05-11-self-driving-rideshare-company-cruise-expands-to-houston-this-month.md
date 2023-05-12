@@ -35,6 +35,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Global Self-Driving Car for AI Programming Market: Revenue, Size, and Trends from 2023 to 2031"
+    excerpt: "During the forecast period from 2023 to 2030, the global Self-Driving Car for AI Programming market is expected to experience significant growth. As of 2022, the market is growing at a steady pace, and with the increasing implementation of strategies by major players,"
+    publishedDateTime: 2023-05-10T16:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-self-driving-car-for-ai-programming-market-revenue-size-and-trends-from-2023-to-2031-2023-05-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 57
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "GM's Cruise bringing autonomous vehicles to Houston"
     excerpt: "Cruise, a General Motors autonomous vehicle subsidiary, is bringing its self-driving cars to Houston with the goal of offering driverless rides. The cars will begin testing next week, said Megan Prichard,"
     publishedDateTime: 2023-05-10T10:01:00Z

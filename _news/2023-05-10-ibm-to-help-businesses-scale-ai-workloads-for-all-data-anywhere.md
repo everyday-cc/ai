@@ -25,45 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "A mayday call for artificial intelligence"
-    excerpt: "Was Geoffrey Hinton's (the \"godfather of AI\") resignation from Google on May Day a true mayday signal for where AI is headed?"
-    publishedDateTime: 2023-05-07T15:20:00Z
-    webUrl: "https://venturebeat.com/ai/a-mayday-call-for-artificial-intelligence/"
-    ampWebUrl: "https://venturebeat.com/ai/a-mayday-call-for-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/a-mayday-call-for-artificial-intelligence/amp/"
+  - title: "IBM Launches Its Enterprise Service ‘WatsonX.ai’ as an Alternative to SageMaker Studio, Vertex AI, and Azure AI"
+    excerpt: "According to IBM, WatsonX is an “enterprise studio for AI builders,” motivated by the challenges businesses experience in deploying AI within the workplace. In the same category, Amazon provides SageMaker Studio;"
+    publishedDateTime: 2023-05-09T16:26:00Z
+    webUrl: "https://iblnews.org/ibm-launches-its-enterprise-service-watsonx-ai-as-an-alternative-to-sagemaker-studio-vertex-ai-and-azure-ai/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 91
+      name: IBL News
+      domain: iblnews.org
+    quality: 51
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/05/annevb_yelling_into_the_darkness_for_help._Mayday._colorful_tec_0a36545d-071c-43e1-8b42-cc2ee04e5099.png?w=1200&strip=all"
-        width: 1200
-        height: 600
+      - url: "https://iblnews.org/wp-content/uploads/2023/05/watsonxai.jpg"
+        width: 860
+        height: 469
         isCached: true
-  - title: "Cedars-Sinai establishes center for AI, machine learning"
-    excerpt: "Los Angeles-based Cedars-Sinai has established a new center focused on advancing artificial intelligence and machine learning."
-    publishedDateTime: 2023-05-09T14:06:00Z
-    webUrl: "https://www.beckershospitalreview.com/innovation/cedars-sinai-establishes-center-for-ai-machine-learning.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 54
-    images:
-      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "Scientists call for AI moratorium, warn about potential pitfalls in healthcare"
-    excerpt: "Although artificial intelligence is often touted as a game-changer in healthcare, an international team of scientists is warning that it also may pose threats to human health in terms of social, political,"
-    publishedDateTime: 2023-05-12T04:16:00Z
-    webUrl: "https://www.mcknightsseniorliving.com/home/news/tech-daily-news/scientists-call-for-ai-moratorium-warn-about-potential-pitfalls-in-healthcare/"
-    type: article
-    provider:
-      name: McKnight's Senior Living
-      domain: mcknightsseniorliving.com
-    quality: 30
 
 secured: "Bh2vHsH7eblpLq12lgCeaxcbW3H1agUVX16NtV9+Wfartx5J9EBlFzzgegQkvQjFdpAMH7r4Ig9pAZNDUF6nBLGge02wtsr8CpiUpIwmNn3Hje5JcVhhyjXJoDw/LCpZbwKeY0sIrelarqYpB0iTQfrvSpXJLo62HMkcxHAv46bapgZ/EQmpjWKI2dAIc56kD3zmabbHpfdxu8ycg7KOh2ZH0wOKiJgiiNVQH7TsnRYc/11POLtY3I19MDK8tpQygBGcbsb+XFhVwOd2+qsaR7HeSbndrNauWQhiKltPXgtEm9JsLj4Y7Q4yDSjlOC+hqd/GgXkISiJv0phfB8Cqllk8OC3on/K3+E/Jkl13e6OrE41jte/R6fF45Vyb1cC3ZGCtV8FWL1MS4yoeRaDadoL8hq6TfNIakqyclwKR8ZnRXfsLyfc3rGyfiSVS7/N9NjDAD73qilRaHTv1CxVsO/QeaKkEUCXj7OkedCmaV/cyRWYucntsShUffQ03Gb8C2bei6cNrKeqn0/fHaWcRdg==;q1CCQHIesj2hbQEyf13Vgg=="
 ---

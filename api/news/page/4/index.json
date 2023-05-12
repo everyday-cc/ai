@@ -2,6 +2,110 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-05-10-15-amazing-real-world-applications-of-ai-everyone-should-know-about.md",
+      "title": "15 Amazing Real-World Applications Of AI Everyone Should Know About",
+      "excerpt": "The future is here, and it’s fueled by artificial intelligence. Read on to find out the top 15 real-world applications of AI that are redefining industries and impacting our daily lives in 2023.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2023/05/10/15-amazing-real-world-applications-of-ai-everyone-should-know-about/",
+      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2023/05/10/15-amazing-real-world-applications-of-ai-everyone-should-know-about/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/645b3eca0059191fb09c02fa/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2023/05/10/15-amazing-real-world-applications-of-ai-everyone-should-know-about/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/05/10/15-amazing-real-world-applications-of-ai-everyone-should-know-about/amp/",
+      "publishedDateTime": "2023-05-09T23:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-10-ai-will-be-the-political-lefts-single-greatest-weapon-against-religious-faith-and-truth-says-expert.md",
+      "title": "AI will be the political left's 'single greatest weapon' against religious faith and truth, says expert",
+      "excerpt": "As AI technologies grow, experts and faith leaders share concerns over AI and worship. Faith leaders weigh in, saying AI can learn the gospel, but can't ever experience and share it as humans can.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/lifestyle/ai-political-left-single-greatest-weapon-religious-faith-truth-expert",
+      "originalUrl": "https://www.foxnews.com/lifestyle/ai-political-left-single-greatest-weapon-religious-faith-truth-expert",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d5c69365-fe8d-493b-bfed-036295311cf9/fa99226e-59e6-4ec3-a739-7a0c2ea9d800/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/lifestyle/ai-political-left-single-greatest-weapon-religious-faith-truth-expert.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/lifestyle/ai-political-left-single-greatest-weapon-religious-faith-truth-expert.amp",
+      "publishedDateTime": "2023-05-09T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2023-05-10-artificial-intelligence-as-a-service-aiaas-for-government-market.md",
       "title": "Artificial Intelligence as a Service (AIaaS) for Government Market",
       "excerpt": "Short Description About Artificial Intelligence as a Service (AIaaS) for Government Market: The Global Artificial Intelligence as a Service (AIaaS) for Government market is anticipated to rise at a considerable rate during the forecast period,",
@@ -342,6 +446,57 @@
       ],
       "topics": [
         "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-10-ai-poses-existential-threat-and-risk-to-health-of-millions-experts-warn.md",
+      "title": "AI poses existential threat and risk to health of millions, experts warn",
+      "excerpt": "BMJ Global Health article calls for halt to ‘development of self-improving artificial general intelligence’ until regulation in place",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/technology/2023/may/10/ai-poses-existential-threat-and-risk-to-health-of-millions-experts-warn",
+      "originalUrl": "https://www.theguardian.com/technology/2023/may/10/ai-poses-existential-threat-and-risk-to-health-of-millions-experts-warn",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/8e068a147c7743156c00127085bf7d5913134cb7/0_255_4000_2400/master/4000.jpg?width=620&quality=85&auto=format&fit=max&s=43061043ccc54214825bff6d03a8b314",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/technology/2023/may/10/ai-poses-existential-threat-and-risk-to-health-of-millions-experts-warn",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/may/10/ai-poses-existential-threat-and-risk-to-health-of-millions-experts-warn",
+      "publishedDateTime": "2023-05-09T15:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
@@ -888,6 +1043,49 @@
       ]
     },
     {
+      "path": "_news/2023-05-09-cedars-sinai-establishes-center-for-ai-machine-learning.md",
+      "title": "Cedars-Sinai establishes center for AI, machine learning",
+      "excerpt": "Los Angeles-based Cedars-Sinai has established a new center focused on advancing artificial intelligence and machine learning.",
+      "sourceUrl": null,
+      "webUrl": "https://www.beckershospitalreview.com/innovation/cedars-sinai-establishes-center-for-ai-machine-learning.html",
+      "originalUrl": "https://www.beckershospitalreview.com/innovation/cedars-sinai-establishes-center-for-ai-machine-learning.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-09T07:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Becker's Hospital Review",
+        "domain": "beckershospitalreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-09-the-critical-need-to-identify-ai-generated-content.md",
       "title": "The Critical Need To Identify AI Generated Content",
       "excerpt": "A lot of concern about AI is raised by hundreds of tech and government leaders who now realize that AI released without serious guardrails could have significant consequences for all of us.",
@@ -1017,211 +1215,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2023-05-09T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-09-ibm-watson-orchestrate-unlocking-new-levels-productivity-for-every-employee.md",
-      "title": "IBM Watson Orchestrate: Unlocking new levels productivity for every employee",
-      "excerpt": "IBM Watson Orchestrate is a cloud-based platform that helps companies empower their people to completely change the nature of day-to-day work for good. \nThe post IBM Watson Orchestrate: Unlocking new levels productivity for every employee appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/ibm-watson-orchestrate-unlocking-new-levels-productivity-for-every-employee/",
-      "originalUrl": "https://www.ibm.com/blog/ibm-watson-orchestrate-unlocking-new-levels-productivity-for-every-employee/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/05/ux62.lr_-630x330.jpg",
-          "width": 630,
-          "height": 330,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-09T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-09-edge-ai-chips-market-witness-the-massive-growth-of-the-market-to-2029-nvidia-intel-xilinx-samsung-electronics.md",
-      "title": "Edge AI Chips Market Witness the massive growth of the market to 2029 |Nvidia, Intel, Xilinx, Samsung Electronics",
-      "excerpt": "Nvidia, Intel, Xilinx, Samsung Electronics, Micron Technology, Qualcomm Technologies, IBM, Google, Microsoft, Apple, Huawei  The region-wise coverage of the market is mentioned in the report, mainly focusing on the regions: North America (the USA,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/edge-ai-chips-market-witness-the-massive-growth-of-the-market-to-2029-nvidia-intel-xilinx-samsung-electronics-2023-05-09",
-      "originalUrl": "https://www.marketwatch.com/press-release/edge-ai-chips-market-witness-the-massive-growth-of-the-market-to-2029-nvidia-intel-xilinx-samsung-electronics-2023-05-09",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-09T04:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-09-ai-influx-alters-corporate-leadership-qualities-3-essential-strategic-approaches.md",
-      "title": "AI Influx Alters Corporate Leadership Qualities: 3 Essential Strategic Approaches",
-      "excerpt": "Here are three critical traits for leaders seeking to harness employees’ intrinsic motivation to learn and give them responsibility for leading the transformation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/05/09/ai-influx-alters-corporate-leadership-qualities-3-essential-strategic-approaches/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/05/09/ai-influx-alters-corporate-leadership-qualities-3-essential-strategic-approaches/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/5ef65f436cd39700069ce974/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/05/09/ai-influx-alters-corporate-leadership-qualities-3-essential-strategic-approaches/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/05/09/ai-influx-alters-corporate-leadership-qualities-3-essential-strategic-approaches/amp/",
-      "publishedDateTime": "2023-05-09T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-09-bring-light-to-the-black-box.md",
-      "title": "Bring light to the black box",
-      "excerpt": "Using AI can seem like a black box full of risks and challenges that keep businesses from adopting it. Here's how AI governance and trustworthy AI can help.\nThe post Bring light to the black box appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/bring-light-to-the-black-box/",
-      "originalUrl": "https://www.ibm.com/blog/bring-light-to-the-black-box/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/05/IBM_WatsonXGovernance_A03.l-e1683595201131.jpg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-09T04:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "IBM",

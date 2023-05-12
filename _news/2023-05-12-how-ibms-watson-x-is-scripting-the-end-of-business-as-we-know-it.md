@@ -108,6 +108,22 @@ related:
       name: IBM
       domain: ibm.com
     quality: 97
+  - title: "IBM’s watsonx could be a generative AI game-changer"
+    excerpt: "Generative AI has been much-hyped over the past few months, but still faces serious teething issues. IBM's watsonx could help solve some of those problems."
+    publishedDateTime: 2023-05-12T06:45:00Z
+    webUrl: "https://www.computerworld.com/article/3696275/ibms-watsonx-could-be-a-generative-ai-game-changer.html"
+    ampWebUrl: "https://www.computerworld.com/article/3696275/ibms-watsonx-could-be-a-generative-ai-game-changer.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3696275/ibms-watsonx-could-be-a-generative-ai-game-changer.amp.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 74
+    images:
+      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2023/05/08/01/shutterstock_728178127-100940689-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "IBM launches watsonx studio to make deploying generative AI easier"
     excerpt: "The watsonx platform announcement also marks IBM's plan to add generative AI to other services, incorporating code writing and more."
     publishedDateTime: 2023-05-11T12:43:00Z
@@ -275,6 +291,6 @@ related:
         height: 353
         isCached: true
 
-secured: "YjOeTdLOFfLy6AVV6sF33AmHsG5mh7gPf4rPovAwGZokEob8P1Yx7YaTZS2BwamgFSy3cF3ok3ERicYmkJh/y7TNLo24dfZZ7SxaLKefgiXqojvfpRBQ80aMm+24Sc2gMxYgPBNgqlR40rgm+tVfI8OzZZEpzGS7OKpsZIiLwzUav31r3tCUWqdi5K50kfCQ6tCWwqs/eG0mDvJRKuOEiDwEz0rk28vgwZCelqunSKvFiMzzyU3B2XAsPbGyntQhQ5/o3foEt3HkTSlm/w8YNPdobnMjobo78rx9IOizUXeRSzIgdW0fsLfHKHEXG7VnoP6M35HOGsGbM+66Z/e6TbfZ8kGEDwPpdv7WFF+6o0E=;87Dpg8XXKvPFuZZXO1tAJg=="
+secured: "ang6hSi5p1BAFiOa9UxDwdZIqOGx6NYjZtEbcUfiCuGgwnI3KGUSxLdsh3U2nW5AtLg41ofR1VYXu1t5rueJg/bduB3ol4KaGk8IZeqZo2D65lH7f4/m14RvQis7qHKsKOwsJhsDU6/cVC0J7vuaCIXXITta1ttnXpaX1c+YQ9OS9zuxfdpaPT5dUHm4dZOuNHE740Qahed7wP7csNibuAb0kUaa60ir/LoY2u28PtFveBLBqQpyUgtx6+i+mL9CsBUuWR1BfUty72ufJNiCwzq+FgLf1iUAMfkVnoeDyuHiNPMAhgCKLRJJob9cwSoYsrZfvwYG/F5E3EYVecjo58ox9kNvO+JkETM08jdkrxMebveLjMStLQnTqJ4Qa1IOd6TmYA/KR/PcMdMVs2iOMwwY6Li7j1gMSROONnI0btkpWjWUCROhJiY4SUCex+C+y4BbZsdd/5hDKsKXq63ZHaUaDwwJ6si9Uf5YYAd7BiZaur3Dz3vTcf7xnNVADGKbIYX5B7uCqBJ+lZueW0YbfQ==;gSjAe18FrqY+3wYTAaQQxg=="
 ---
 

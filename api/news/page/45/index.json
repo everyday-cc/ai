@@ -2,6 +2,220 @@
   "page": 45,
   "value": [
     {
+      "path": "_news/2023-04-13-nvidia-slips-even-as-it-unveils-new-lower-priced-ai-enhanced-gpu.md",
+      "title": "Nvidia slips even as it unveils new lower priced AI-enhanced GPU",
+      "excerpt": "Nvidia (NASDAQ:NVDA) shares slipped slightly more than 1% on Wednesday even as the company unveiled a new lower priced GPU that utilizes artificial intelligence. In a statement, Nvidia (NVDA ...",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/news/3956050-nvidia-slips-unveils-new-lower-priced-ai-enhanced-gpu",
+      "originalUrl": "https://seekingalpha.com/news/3956050-nvidia-slips-unveils-new-lower-priced-ai-enhanced-gpu",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-12T12:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-13-automl-the-promise-vs-reality-according-to-practitioners.md",
+      "title": "AutoML: the Promise vs. Reality According to Practitioners",
+      "excerpt": "Unfortunately, true end-to-end automation is not yet available. AutoML is currently most frequently used in hyperparameter tuning and model selection. The failure of AutoML to be end-to-end can ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoq.com/articles/auto-ml-promise-reality/",
+      "originalUrl": "https://www.infoq.com/articles/auto-ml-promise-reality/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://res.infoq.com/articles/auto-ml-promise-reality/en/headerimage/header-1661333792384.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-12T12:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoQ",
+        "domain": "infoq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-13-decoding-insomnia-machine-learning-model-predicts-sleep-disorders-from-patient-records.md",
+      "title": "Decoding insomnia: Machine learning model predicts sleep disorders from patient records",
+      "excerpt": "A machine learning model can effectively predict a patient's risk for a sleep disorder using demographic and lifestyle data, physical exam results and laboratory values, according to a new study published this week in the open-access journal PLOS ONE by Samuel Y.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2023-04-decoding-insomnia-machine-disorders-patient.html",
+      "originalUrl": "https://medicalxpress.com/news/2023-04-decoding-insomnia-machine-disorders-patient.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/decoding-insomnia-mach.jpg",
+          "width": 2880,
+          "height": 1922,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2023-04-decoding-insomnia-machine-disorders-patient.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-04-decoding-insomnia-machine-disorders-patient.amp",
+      "publishedDateTime": "2023-04-12T11:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-12-how-offshoring-and-artificial-intelligence-threaten-us-white-collar-workers.md",
+      "title": "How Offshoring And Artificial Intelligence Threaten U.S. White-Collar Workers",
+      "excerpt": "A recent Federal Reserve Bank of Atlanta survey found that 7.3% of leadership in the United States plans to move more jobs offshore as the next step from remote work within America.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jackkelly/2023/04/12/how-offshoring-and-artificial-intelligence-threaten-us-white-collar-workers/",
+      "originalUrl": "https://www.forbes.com/sites/jackkelly/2023/04/12/how-offshoring-and-artificial-intelligence-threaten-us-white-collar-workers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6436dc5574074b02cbb0e670/0x0.jpg?format=jpg&crop=4147,2332,x0,y0,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jackkelly/2023/04/12/how-offshoring-and-artificial-intelligence-threaten-us-white-collar-workers/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jackkelly/2023/04/12/how-offshoring-and-artificial-intelligence-threaten-us-white-collar-workers/amp/",
+      "publishedDateTime": "2023-04-12T09:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-12-regulating-ai-three-experts-explain-why-its-difficult-to-do-and-important-to-get-right.md",
+      "title": "Regulating AI: Three experts explain why it's difficult to do and important to get right",
+      "excerpt": "From fake photos of Donald Trump being arrested by New York City police officers to a chatbot describing a very-much-alive computer scientist as having died tragically, the ability of the new generation of generative artificial intelligence systems to create convincing but fictional text and images is setting off alarms about fraud and misinformation on steroids.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2023-04-ai-experts-difficult-important.html",
+      "originalUrl": "https://techxplore.com/news/2023-04-ai-experts-difficult-important.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/artificial-intelligenc-64.jpg",
+          "width": 1920,
+          "height": 1343,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2023-04-ai-experts-difficult-important.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-04-ai-experts-difficult-important.amp",
+      "publishedDateTime": "2023-04-12T09:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-12-siemens-and-microsoft-drive-industrial-productivity-with-generative-artificial-intelligence.md",
       "title": "Siemens and Microsoft Drive Industrial Productivity with Generative Artificial Intelligence",
       "excerpt": "Siemens’ new Teamcenter app for Microsoft Teams will use AI, boosting productivity and innovation throughout a product lifecycle.",
@@ -879,230 +1093,6 @@
         "AI",
         "AWS AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2023-04-11-the-collaboration-technology-making-meetings-more-equitable.md",
-      "title": "The Collaboration Technology Making Meetings More Equitable",
-      "excerpt": "Vice President & Principal Analyst, Modern Work, Melody Brue, examines how a pronounced focus on equity and inclusion in meetings has evolved.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/moorinsights/2023/04/11/the-collaboration-technology-making-meetings-more-equitable/",
-      "originalUrl": "https://www.forbes.com/sites/moorinsights/2023/04/11/the-collaboration-technology-making-meetings-more-equitable/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64358d75411e5df1626ba1b0/0x0.jpg?format=jpg&width=1200",
-          "width": 480,
-          "height": 408,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2023/04/11/the-collaboration-technology-making-meetings-more-equitable/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/04/11/the-collaboration-technology-making-meetings-more-equitable/amp/",
-      "publishedDateTime": "2023-04-11T09:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-11-amazon-prime-day-2023-what-we-know-so-far.md",
-      "title": "Amazon Prime Day 2023: What we know so far",
-      "excerpt": "Promotions are subject to availability and retailer terms. Amazon Prime Day is one of the biggest shopping events of the year. Alongside Black Friday, it's the best opportunity to score doorbuster ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/essentials/amazon-prime-day-2023-what-we-know-so-far/",
-      "originalUrl": "https://www.cbsnews.com/essentials/amazon-prime-day-2023-what-we-know-so-far/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2022/03/23/34c582b1-19f6-41be-ba69-c0ff2b62eb6b/thumbnail/1200x630/797f673b033164ff6863589d01b687ac/when-is-prime-day-2022-main.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/essentials/amazon-prime-day-2023-what-we-know-so-far/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/amazon-prime-day-2023-what-we-know-so-far/",
-      "publishedDateTime": "2023-04-11T09:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-11-create-your-rstudio-on-amazon-sagemaker-licensed-or-trial-environment-in-three-easy-steps.md",
-      "title": "Create your RStudio on Amazon SageMaker licensed or trial environment in three easy steps",
-      "excerpt": "RStudio on Amazon SageMaker is the first fully managed cloud-based Posit Workbench (formerly known as RStudio Workbench). RStudio on Amazon SageMaker removes the need for you to manage the underlying Posit Workbench infrastructure, so your teams can concentrate on producing value for your business. You",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/create-your-rstudio-on-amazon-sagemaker-licensed-or-trial-environment-in-three-easy-steps/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/create-your-rstudio-on-amazon-sagemaker-licensed-or-trial-environment-in-three-easy-steps/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-11T08:39:53-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-11-cadence-ceo-drives-growth-beyond-chip-design-with-ai-and-computational-software.md",
-      "title": "Cadence CEO Drives Growth Beyond Chip Design With AI And Computational Software",
-      "excerpt": "Dr. Devgan and his company have a vision of bringing the power of simulation, modeling and computational software to far more than just semiconductor chip design.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davealtavilla/2023/04/11/cadence-ceo-drives-growth-beyond-chip-design-with-ai-and-computational-software/",
-      "originalUrl": "https://www.forbes.com/sites/davealtavilla/2023/04/11/cadence-ceo-drives-growth-beyond-chip-design-with-ai-and-computational-software/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-11T08:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-11-global-executives-and-ai-strategy-for-hr-how-to-tackle-bias-in-algorithmic-ai.md",
-      "title": "Global executives and AI strategy for HR: How to tackle bias in algorithmic AI",
-      "excerpt": "The move towards monitoring HR tools and applications for bias is gaining traction worldwide, driven by various global and domestic data privacy laws and the US Equal Employment Opportunity Commission (EEOC). In line with this trend, the New York City Council has enacted new regulations requiring organizations",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/global-executives-and-ai-strategy-for-hr-how-to-tackle-bias-in-algorithmic-ai/",
-      "originalUrl": "https://www.ibm.com/blog/global-executives-and-ai-strategy-for-hr-how-to-tackle-bias-in-algorithmic-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-11T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
       ]
     }
   ],

@@ -109,6 +109,22 @@ related:
       name: IBM
       domain: ibm.com
     quality: 97
+  - title: "IBM’s watsonx could be a generative AI game-changer"
+    excerpt: "Generative AI has been much-hyped over the past few months, but still faces serious teething issues. IBM's watsonx could help solve some of those problems."
+    publishedDateTime: 2023-05-12T06:45:00Z
+    webUrl: "https://www.computerworld.com/article/3696275/ibms-watsonx-could-be-a-generative-ai-game-changer.html"
+    ampWebUrl: "https://www.computerworld.com/article/3696275/ibms-watsonx-could-be-a-generative-ai-game-changer.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3696275/ibms-watsonx-could-be-a-generative-ai-game-changer.amp.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 74
+    images:
+      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2023/05/08/01/shutterstock_728178127-100940689-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "IBM launches watsonx studio to make deploying generative AI easier"
     excerpt: "The watsonx platform announcement also marks IBM's plan to add generative AI to other services, incorporating code writing and more."
     publishedDateTime: 2023-05-11T12:43:00Z

@@ -19,49 +19,35 @@ topics:
   - AI
 
 related:
-  - title: "A mayday call for artificial intelligence"
-    excerpt: "Was Geoffrey Hinton's (the \"godfather of AI\") resignation from Google on May Day a true mayday signal for where AI is headed?"
-    publishedDateTime: 2023-05-07T15:20:00Z
-    webUrl: "https://venturebeat.com/ai/a-mayday-call-for-artificial-intelligence/"
-    ampWebUrl: "https://venturebeat.com/ai/a-mayday-call-for-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/a-mayday-call-for-artificial-intelligence/amp/"
+  - title: "AI poses existential threat and risk to health of millions, experts warn"
+    excerpt: "BMJ Global Health article calls for halt to ‘development of self-improving artificial general intelligence’ until regulation in place"
+    publishedDateTime: 2023-05-09T22:01:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/may/10/ai-poses-existential-threat-and-risk-to-health-of-millions-experts-warn"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/may/10/ai-poses-existential-threat-and-risk-to-health-of-millions-experts-warn"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/may/10/ai-poses-existential-threat-and-risk-to-health-of-millions-experts-warn"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 91
+      name: The Guardian
+      domain: theguardian.com
+    quality: 56
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/05/annevb_yelling_into_the_darkness_for_help._Mayday._colorful_tec_0a36545d-071c-43e1-8b42-cc2ee04e5099.png?w=1200&strip=all"
-        width: 1200
-        height: 600
+      - url: "https://i.guim.co.uk/img/media/8e068a147c7743156c00127085bf7d5913134cb7/0_255_4000_2400/master/4000.jpg?width=620&quality=85&auto=format&fit=max&s=43061043ccc54214825bff6d03a8b314"
+        width: 620
+        height: 372
         isCached: true
-  - title: "Cedars-Sinai establishes center for AI, machine learning"
-    excerpt: "Los Angeles-based Cedars-Sinai has established a new center focused on advancing artificial intelligence and machine learning."
-    publishedDateTime: 2023-05-09T14:06:00Z
-    webUrl: "https://www.beckershospitalreview.com/innovation/cedars-sinai-establishes-center-for-ai-machine-learning.html"
+  - title: "AI Poses Serious Threats to Health and Human Existence, Researchers Say"
+    excerpt: "Despite the potential for negative health outcomes with the use of artificial intelligence (AI), most research is biased toward its benefits, without sufficient consideration of effective regulations that would be needed to avoid those harms,"
+    publishedDateTime: 2023-05-09T22:57:00Z
+    webUrl: "https://www.medpagetoday.com/special-reports/features/104430"
     type: article
     provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 54
-    images:
-      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "IBM to Help Businesses Scale AI Workloads for All Data, Anywhere"
-    excerpt: "IBM today announced the coming launch of IBM watsonx.data, a data store built on an open lakehouse architecture, to help enterprises easily"
-    publishedDateTime: 2023-05-09T17:14:00Z
-    webUrl: "https://www.datanami.com/this-just-in/ibm-to-help-businesses-scale-ai-workloads-for-all-data-anywhere/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
+      name: MedPage Today
+      domain: medpagetoday.com
     quality: 39
     images:
-      - url: "https://www.datanami.com/wp-content/uploads/2023/02/AI-North-America23.png"
-        width: 1664
-        height: 674
+      - url: "https://assets.medpagetoday.net/media/images/104xxx/104430.jpg"
+        width: 1600
+        height: 900
         isCached: true
 
 secured: "z6L3kXZPTWo1XhpOeM8nLiPZT3kswCDQV+AyGZZnlx6L9gAJ8M6kanySrlvI8GvXU636Bt5/czsk8i8Nv3ukq5+N6dOk8cntC+zNCWwHjZqod0COH1LR8L/RDPgpmzeUvjXlKO/m99ysugWSDsVTxBGBlldw+nqQKexFQAltKXmIFi/s2LFzTh7J5Xv7UFSQUWjneXBGgQjUDcFCYjItcttzrcAT3OFraM6G4Jm3l7pfZT8GeODlKqqp9uFxk5COz6D9vDlAhMrc74kZ4hF4IO/qI/Yum/Kyj+sswYpto/8xQHAQgA0LQK5jIlcnYgD8VzgEews8zvKCJiZ05e/Fd2Gir4RSjgnsHd8t0UY8DZB1oBwrGc0cYE6kJc9uvquN7z2h7vAOXzQlUbPCWTBkH8jVnGUVPsa9M/jwOOWZ35OA6XZpuJHo+nHxddtWn0jdVgGh/1yT1l7g/WOOQAxwYtGOz8LnWn/8qrSiw2ngIDK9POo4O4M6PS6koU5VggmOxD1ImPTvn6+jm1YnO8gZXg==;l6lLvJfh2Hk4GfoRB/tFSQ=="

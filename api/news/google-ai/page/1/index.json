@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-05-12-evokai-creative-labs-to-acquire-ai-powered-company-rehaboo-oy.md",
+      "title": "EvokAI Creative Labs To Acquire AI-Powered Company Rehaboo Oy",
+      "excerpt": "Following the closing of the Rehaboo Acquisition, Rehaboo will be a wholly owned subsidiary of EvokAI. Completion of the Rehaboo Acquisition is subject to a number of standard conditions, including receipt of all regulatory approvals and the acceptance of the TSX Venture Exchange (\" TSXV \").",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/evokai-creative-labs-to-acquire-ai-powered-company-rehaboo-oy-2023-05-11",
+      "originalUrl": "https://www.marketwatch.com/press-release/evokai-creative-labs-to-acquire-ai-powered-company-rehaboo-oy-2023-05-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-11T13:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-10-introducing-project-gameface-a-hands-free-ai-powered-gaming-mouse.md",
       "title": "Introducing Project Gameface: A hands-free, AI-powered gaming mouse",
       "excerpt": "Project Gameface, a new open-source hands-free gaming mouse has the potential to make gaming more accessible.",
@@ -1425,49 +1477,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-21-google-integrates-deepmind-and-brain-teams-creating-google-deepmind.md",
-      "title": "Google integrates DeepMind and Brain teams, creating Google DeepMind",
-      "excerpt": "The move aims to consolidate Google's artificial intelligence (AI) research divisions and keep pace with other tech giants in the field. DeepMind",
-      "sourceUrl": null,
-      "webUrl": "https://www.techzine.eu/news/applications/104951/google-integrates-deepmind-and-brain-teams-creating-google-deepmind/",
-      "originalUrl": "https://www.techzine.eu/news/applications/104951/google-integrates-deepmind-and-brain-teams-creating-google-deepmind/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techzine.eu/wp-content/uploads/2023/02/Shutterstock_1587240631.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-21T04:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techzine",
-        "domain": "techzine.eu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
       ]
     }
   ],

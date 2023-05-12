@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-04-28-how-generative-ai-is-transforming-enterprise-search-solutions.md",
+      "title": "How generative AI is transforming enterprise search solutions",
+      "excerpt": "Generative AI can unlock the full potential of data in the enterprise for the employees who rely on it, lowering barrier to knowledge.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/how-generative-ai-is-transforming-enterprise-search-solutions/",
+      "originalUrl": "https://venturebeat.com/ai/how-generative-ai-is-transforming-enterprise-search-solutions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 239,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/04/AdobeStock_569404196-copy.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/how-generative-ai-is-transforming-enterprise-search-solutions/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-generative-ai-is-transforming-enterprise-search-solutions/amp/",
+      "publishedDateTime": "2023-04-27T11:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2023-04-27-the-future-of-workplace-safety-data-privacy-and-ethical-ai-at-the-highest-level.md",
       "title": "The future of workplace safety: Data privacy and ethical AI at the highest level",
       "excerpt": "Intenseye launched revolutionary 3D anonymization technique for workplace safety and data privacyNEW YORK, April 27, 2023 /PRNewswire/ --",
@@ -1378,50 +1430,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-31-why-we-need-to-pause-ai-research-and-consider-the-real-dangers.md",
-      "title": "Why we need to pause AI research and consider the real dangers",
-      "excerpt": "Google’s DeepMind says its mission is to “solve intelligence” and from there use the enhanced intelligence to solve all our other problems — global poverty, climate change, cancer, you name it. I find this vision compelling, and I still believe AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2023/03/31/why-we-need-to-pause-ai-research-consider-the-real-dangers/",
-      "originalUrl": "https://nypost.com/2023/03/31/why-we-need-to-pause-ai-research-consider-the-real-dangers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2023/03/NYPICHPDPICT000009022875.jpg?quality=75&strip=all&w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2023/03/31/why-we-need-to-pause-ai-research-consider-the-real-dangers/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2023/03/31/why-we-need-to-pause-ai-research-consider-the-real-dangers/amp/",
-      "publishedDateTime": "2023-03-31T07:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

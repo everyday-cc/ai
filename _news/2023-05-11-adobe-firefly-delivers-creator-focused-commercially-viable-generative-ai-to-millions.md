@@ -35,6 +35,15 @@ related:
         width: 1200
         height: 674
         isCached: true
+  - title: "Now anyone can have their own Disney studio, thanks to generative AI"
+    excerpt: "The organization has been shipping new generative AI products every week since it announced the new hyperrealistic image generator Stable Diffusion XL. There was ChatGPT’s rival StableLM, the typesetting AI Deep Floyd (the first in its class),"
+    publishedDateTime: 2023-05-12T04:00:00Z
+    webUrl: "https://www.fastcompany.com/90895402/now-anyone-can-have-their-own-disney-studio-thanks-to-generative-ai"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 17
 
 secured: "pg0iWwGqTFqG+jfNL/5WtLL+u/1PJ2Tv87gmjDQbTXVibchh1zzT2BdQhQCUuPp38CML7WlwdS0wEZ7ikzRd47I+xedGEJ0gvWuLPQlD+6S4rbT2WVa+18AqI9ELi5GjfOmkFvscMYJMDtiU1FQvC6YgE5yaeFHi+0FE9b0pqZKhUCE+hGbyKY806g7xkKehZ7AOlyQJInMivzE1tJgjl/BcSuls4JRfBEeNjXIbo9wgkPyy8xNVUKpHy/aBQeDFJ2ec81QSUwVmLdZglhhxn/tc18FzgXRzAGDtFJNtNvr6XTSsPoxc6pfvFKnsUARPiFfMt7acpFvoh2NlndTEWJWZA2GCsiZR6gefO/XQFRZkUXCKmtRmfeIIT3k9nkEovh/HCytbX4NhPHvtRGK7xd+eRwVeRJ3h++QdQN++51XEPNsjLeXj5okEMYt6n1C3AGHUdzsHLrvUdVy570fWrlbhHeWLn4ccNhy7EYIQRcSEO0XQdDPOMZ1926OEOtyrPoU2YAFrU5prZckOIzja0A==;eH5ihYStgELCQm/XFCDwzw=="
 ---

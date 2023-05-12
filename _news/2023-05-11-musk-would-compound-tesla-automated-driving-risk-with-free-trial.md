@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2023-05-11/musk-would-comp
 webUrl: "https://www.bloomberg.com/news/articles/2023-05-11/musk-would-compound-tesla-automated-driving-risk-with-free-trial"
 type: article
 quality: 69
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -75,6 +75,15 @@ related:
       name: Electrek
       domain: electrek.co
     quality: 42
+  - title: "Buttigieg: Tesla shouldn’t call driving system Autopilot"
+    excerpt: "Tesla shouldn't be calling its partially automated driving system Autopilot because the cars can't drive themselves, the top U.S. transportation official says."
+    publishedDateTime: 2023-05-12T09:39:00Z
+    webUrl: "https://www.newstribune.com/news/2023/may/12/buttigieg-tesla-shouldnt-call-driving-system/"
+    type: article
+    provider:
+      name: News Tribune
+      domain: newstribune.com
+    quality: 19
 
 secured: "tKSj++i7w20gJs4rrNusw9BcLENY/WJz/Zdk34kRZC6unJQcECnNlEOd6Ug6cmc/oIodODYMHRDDvjeydEhXpUZ5cwaEDfUdLGLEYmaCyDg43GSIIHTWVYZZvBDN6H/TtdXANW0HbcrwsnVLO6ZC3PeBd2cOZGD2ColdlAXS67TZuVbYibSLrCNVxbaUCR3ilrXPtgAsAcw/vBsuisvlk1vVpfc2A7vAMl+EB9IsvDMZeGLi4G5JgFqfl2lE3sGrnb6LbSlimsF+p19kpzebDLNzO9K1Bvmx5+HSuy+9LqOnD/9zHL6/aRUkUvB0TM9b6AJC0XpaQfFZdNXU2OozUuC2I/qsAFDJsdlklyD9/Ik=;waaV1DaywpZSRlePBjimRg=="
 ---

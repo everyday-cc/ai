@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Face Recognition Systems Market | Worldwide Industry Trends 2023-2030"
+    excerpt: "The report offers essential statistical information on the market status of Face Recognition Systems players, making it"
+    publishedDateTime: 2023-05-11T10:41:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-systems-market-worldwide-industry-trends-2023-2030-2023-05-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Facial Recognition Access Control Solutions Market 2023-2030 with Emerging Trends and Technologies"
     excerpt: "Additionally, the report [117 Pages] examines emerging technological developments and RandD spending by key vendors. It comprehensively covers critical elements such as global Facial Recognition Access Control Solutions market share,"
     publishedDateTime: 2023-05-11T17:53:00Z

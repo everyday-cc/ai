@@ -7,8 +7,8 @@ originalUrl: "https://www.beckershospitalreview.com/innovation/cedars-sinai-esta
 webUrl: "https://www.beckershospitalreview.com/innovation/cedars-sinai-establishes-center-for-ai-machine-learning.html"
 type: article
 quality: 54
-heat: -1
-published: false
+heat: 74
+published: true
 
 provider:
   name: Becker's Hospital Review
@@ -25,45 +25,29 @@ images:
     isCached: true
 
 related:
-  - title: "A mayday call for artificial intelligence"
-    excerpt: "Was Geoffrey Hinton's (the \"godfather of AI\") resignation from Google on May Day a true mayday signal for where AI is headed?"
-    publishedDateTime: 2023-05-07T15:20:00Z
-    webUrl: "https://venturebeat.com/ai/a-mayday-call-for-artificial-intelligence/"
-    ampWebUrl: "https://venturebeat.com/ai/a-mayday-call-for-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/a-mayday-call-for-artificial-intelligence/amp/"
+  - title: "China's tech elite lead AI startup frenzy"
+    excerpt: "But the furor this year around OpenAI's ChatGPT has inspired a new breed of AI entrepreneur: the elite of China's tech giants. After spending years testing and developing AI at Chinese companies, heavyweights such as Jia Yangqing,"
+    publishedDateTime: 2023-05-12T07:10:00Z
+    webUrl: "https://asia.nikkei.com/cms/Spotlight/Caixin/China-s-tech-elite-lead-AI-startup-frenzy"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 91
+      name: Nikkei Asia
+      domain: nikkei.com
+    quality: 37
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/05/annevb_yelling_into_the_darkness_for_help._Mayday._colorful_tec_0a36545d-071c-43e1-8b42-cc2ee04e5099.png?w=1200&strip=all"
-        width: 1200
-        height: 600
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F4%252F4%252F9%252F1%252F45591944-4-eng-GB%252FCropped-1683854388.png?width=1260&height=630&fit=cover&gravity=faces&source=nar-cms"
+        width: 1260
+        height: 630
         isCached: true
-  - title: "IBM to Help Businesses Scale AI Workloads for All Data, Anywhere"
-    excerpt: "IBM today announced the coming launch of IBM watsonx.data, a data store built on an open lakehouse architecture, to help enterprises easily"
-    publishedDateTime: 2023-05-09T17:14:00Z
-    webUrl: "https://www.datanami.com/this-just-in/ibm-to-help-businesses-scale-ai-workloads-for-all-data-anywhere/"
+  - title: "How OpenAI may keep enterprises from building their own AI models"
+    excerpt: "Enterprise leaders balk at the idea of sending their proprietary data off to another company's models. With open source thriving, they may just build their own."
+    publishedDateTime: 2023-05-10T04:04:00Z
+    webUrl: "https://www.fastcompany.com/90893423/how-openai-may-keep-enterprises-from-building-their-own-ai-models"
     type: article
     provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 39
-    images:
-      - url: "https://www.datanami.com/wp-content/uploads/2023/02/AI-North-America23.png"
-        width: 1664
-        height: 674
-        isCached: true
-  - title: "Scientists call for AI moratorium, warn about potential pitfalls in healthcare"
-    excerpt: "Although artificial intelligence is often touted as a game-changer in healthcare, an international team of scientists is warning that it also may pose threats to human health in terms of social, political,"
-    publishedDateTime: 2023-05-12T04:16:00Z
-    webUrl: "https://www.mcknightsseniorliving.com/home/news/tech-daily-news/scientists-call-for-ai-moratorium-warn-about-potential-pitfalls-in-healthcare/"
-    type: article
-    provider:
-      name: McKnight's Senior Living
-      domain: mcknightsseniorliving.com
-    quality: 30
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 17
 
 secured: "Cj0odgzOeAYZ7mZHLw1ruuZjmKFDlo+yzqaE8KEs99iCYU7qaJfIk7mysx31f5HFTQq0/bj+8+hNSPfuMXJy9J9/SbMPLph6VLW4bHUC26Uv7OS0oTAX5sgNYBO5at6+FFCgmfL2K0+Ag4LKN2kzvuK8F4BeW6Ee3QoT4AMNP2BsAMMFvJsL/r/XwgAIlAzp2hrJhhv/JgtULE9VbhOUkuggZpN0m0hWPauSJZ88OalxvDdOqUgBG8uPJpiEPwAWOQkWpKm7gkQCJev4/yduPXWndZvyHumQ6o9crnlL89UUR1ojgOxavGchgf5xdLGdvsYg7FMaFcJGgf2DAw8OJTOStHIayL3kOrhPlbukWDc=;pGxHBGfoSGnUhck6r9gasg=="
 ---

@@ -39,15 +39,6 @@ related:
         width: 620
         height: 330
         isCached: true
-  - title: "Artificial Intelligence Is Our Future. But Will It Save Or Destroy Humanity?"
-    excerpt: "If tech experts are to be believed, artificial intelligence (AI ... and minor — AI that can play Go can't navigate a self-driving car, after all. But on a deeper level, these developments ..."
-    publishedDateTime: 2023-05-07T15:20:00Z
-    webUrl: "https://futurism.com/artificial-intelligence-is-our-future-but-will-it-save-or-destroy-humanity"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 16
 
 secured: "CJj+B1NEV8bizBihBWUSgSHWLcKUZI3EKKdRH5f8CkfN28eT4bZ3m7A0+c5ZjpkerdLSF4IZ+W7L8niMhEHJubJRhTkKyqF6KGIh6IgWqtVx04aJc19LlYiP4VjSxSmlyGq1Wr4e3Pq+P4CV6yrR6Zu5lrLbMLemieFwnV+5YMkABre62CxSHkOWitZSW+C9v5Ftl6sSc8PT7p2hjxeRpJWn2v17zWZDxz3ECWvXxyxSCHDZRtyB0SpdPfwRlNXM24Cftx91Q31AAvvuljXe3ziMd9mZE4q/E2zgzv7eeon/T7Xn5HQ/N4+LsI8T0oBwn9VQsqDR2/eFmG1azYjwhG9sB222ADdtQoTqa2fiv2g=;Y4M3yTtYLm3x873iHg2ahw=="
 ---

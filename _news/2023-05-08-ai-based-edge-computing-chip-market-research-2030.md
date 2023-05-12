@@ -127,6 +127,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Natural Language Processing for Finance Market Research | 2023-2030"
+    excerpt: "May 11, 2023 (The Expresswire) -- \"Natural Language Processing for Finance Market\" is expected to exhibit an unexpected CAGR during the forecast period,"
+    publishedDateTime: 2023-05-11T18:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-for-finance-market-research-2023-2030-2023-05-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 86
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AI Robot Dog Market Size, Revenue, and Forecast 2030"
     excerpt: "The Global AI Robot Dog market is anticipated to rise at a considerable rate during the forecast period, between 2023 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players,"
     publishedDateTime: 2023-05-08T11:02:00Z
@@ -215,6 +229,20 @@ related:
     excerpt: "Precision Reports has published a new report titled as \"Artificial Intelligence (AI) in Mining Market\" by End User"
     publishedDateTime: 2023-05-10T09:42:00Z
     webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-mining-market-till-2030-2023-05-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 82
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence (AI) in the Freight Transportation Market"
+    excerpt: "Precision Reports has published a new report titled as \"Artificial Intelligence (AI) in the Freight Transportation"
+    publishedDateTime: 2023-05-12T04:38:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-the-freight-transportation-market-2023-05-12"
     type: article
     provider:
       name: MarketWatch

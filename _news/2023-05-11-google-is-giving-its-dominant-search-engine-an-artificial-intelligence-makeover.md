@@ -3,10 +3,10 @@ category: news
 title: "Google is giving its dominant search engine an artificial-intelligence makeover"
 excerpt: "Google has disclosed plans to infuse its dominant search engine with more advanced artificial-intelligence technology"
 publishedDateTime: 2023-05-11T12:47:00Z
-originalUrl: "https://abcnews.go.com/US/wireStory/google-giving-dominant-search-engine-artificial-intelligence-makeover-99233593"
-webUrl: "https://abcnews.go.com/US/wireStory/google-giving-dominant-search-engine-artificial-intelligence-makeover-99233593"
-ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/google-giving-dominant-search-engine-artificial-intelligence-makeover-99233593"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/google-giving-dominant-search-engine-artificial-intelligence-makeover-99233593"
+originalUrl: "https://abcnews.go.com/Business/wireStory/google-giving-dominant-search-engine-artificial-intelligence-makeover-99235251"
+webUrl: "https://abcnews.go.com/Business/wireStory/google-giving-dominant-search-engine-artificial-intelligence-makeover-99235251"
+ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/google-giving-dominant-search-engine-artificial-intelligence-makeover-99235251"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/google-giving-dominant-search-engine-artificial-intelligence-makeover-99235251"
 type: article
 quality: 38
 heat: 38
@@ -50,6 +50,6 @@ related:
       domain: avclub.com
     quality: 17
 
-secured: "gDafE30q/qetgaq5VX6eoIh11Wnd7uWs3pXmjjg1cJK3wtsxp0xm6I/khK1vY4nvr7TTnuPY6qMqhfUaMxkQuFqJxTpgxrE3Mffk6NNnVg5YR7dAlPHwFjic/QYbwv4hoWUQFRktErrMVNwY+rQ42I+1UHMYodIygGFW5ZvxezqkkmI9If8Tvi8JnJcg2zjOSMmadWkQWO+ZWC4SBsW7TxLzSqcdWBT+doKulUyhnzF3Iv/o2eL94sevaoVaKTAxpRap/50zqBOQO6Ostx5m6uB8BWlNuoewXCVYEzCMGJqDva021WOi7dQQ6kvfVJ59ty48VX6emoYOdUDNN109q2a6bigEAdBYQBdsz0ojWuQE/elDLwE+vSAjJC+rktAE9xiU2hU+4KgjdfiqKgpTkudvmyMlUb1vsHB9KIuDeWxifCFUgW5NZrj30fvlndXyyUirQlmiFU/ZG2c0kQnD99eJCvlp6fFAz4IX9DodQTgTxFTmvXWdCTFuvSwvw66CemosAGFWfoKertpo+gqNaQ==;FSkYVfwypUByAAat7GwwWA=="
+secured: "uUi5e/Fux5sQ3voxhPpyZsk4rVTOmCkjjr/FE22MhC/YGq55Ms9cVd3lIDg/QA5BmPU/2g3Uj3uiNVZr77jY8Qlo0F2aLWfSRfbttCu8vPRi6R15ONjWaL4++TT9654/0MRVFW2A2XMufkF8CqDfYgghAr+aoABNPDKxpD7cL5Q4R60WuJml+CEqMxjrhGqpTgASNoQ9qZIfwBdQ0Yy7lJ/ghyEgycs7ek/2pl2C0PrrkiEEwDLhGRLB7D3lzgQr6GjqlwiteWk0cxO0hlTK2axqrb6DjMelGgZqTwg9XzL0h2i7yFI9dRA9dXGHJU4T2gcUX+i7OKsN1BOo5kCfrRsanqJ1Tkb+qBeg5/Aq4i0=;22b7BtYH23Ez3oQ21vXX6w=="
 ---
 

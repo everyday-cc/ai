@@ -24,6 +24,22 @@ images:
     height: 675
     isCached: true
 
+related:
+  - title: "How Embedded Finance Is Revolutionising Financial Services in Southeast Asia"
+    excerpt: "Embedded finance is a thriving trend that is rapidly changing the banking and financial services landscape in Southeast Asia."
+    publishedDateTime: 2023-05-09T09:00:00Z
+    webUrl: "https://fintechnews.sg/72383/financial-inclusion/how-embedded-finance-is-revolutionising-financial-services-in-southeast-asia/"
+    type: article
+    provider:
+      name: Fintech Singapore
+      domain: fintechnews.sg
+    quality: 36
+    images:
+      - url: "https://c9k9c9v3.stackpathcdn.com/wp-content/uploads/2023/05/How-Embedded-Finance-Is-Revolutionising-Financial-Services-in-Southeast-Asia.png?x90673"
+        width: 1024
+        height: 567
+        isCached: true
+
 secured: "bzlc6iBETR7K9vWr9FZuAxfSZMsWqbqx6uRTsXcr99x3LrzWpzZa1CAWFsZ+e4w0WgNMcg4IzdDX4nABDjyAdTrYfvcthhP+CwFBxO6lL41oQzr04Lfa3N3Aczkm9+i1fTTL57qrq2ynY6JGVeFMXx8LxWzOQeYsrAqvrweu0fsQth4LRUb9hl2ro1Sez/Gozz9s+cfx2e7HAte4ip2fB3phWaFvhwI0h93qWsAjGVwXoK3mb+txYv6xKKgg4D+ZJsn72foGVcmux8DCNqX23g94FYWCMeaMs0OeA4numWR22mNoB7HMeitJb4Ilio00dbnxqiMIHePQwViKZaky1jzvJYTbffnDALx/t9kzZO8=;TjN6wZD/GtLb4A8smR5fLA=="
 ---
 

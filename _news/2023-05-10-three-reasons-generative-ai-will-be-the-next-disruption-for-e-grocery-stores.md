@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/10/three-reas
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/05/10/three-reasons-generative-ai-will-be-the-next-disruption-for-e-grocery-stores/amp/"
 type: article
 quality: 84
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -30,6 +30,15 @@ images:
     isCached: true
 
 related:
+  - title: "Now anyone can have their own Disney studio, thanks to generative AI"
+    excerpt: "The organization has been shipping new generative AI products every week since it announced the new hyperrealistic image generator Stable Diffusion XL. There was ChatGPT’s rival StableLM, the typesetting AI Deep Floyd (the first in its class),"
+    publishedDateTime: 2023-05-12T04:00:00Z
+    webUrl: "https://www.fastcompany.com/90895402/now-anyone-can-have-their-own-disney-studio-thanks-to-generative-ai"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 17
   - title: "Adobe Firefly Delivers Creator-Focused, Commercially Viable Generative AI to Millions"
     excerpt: "Adobe (Nasdaq:ADBE) showcased the incredible momentum of Adobe Firefly including a new integration with Bard by Google and the expansion of the"
     publishedDateTime: 2023-05-10T17:45:00Z

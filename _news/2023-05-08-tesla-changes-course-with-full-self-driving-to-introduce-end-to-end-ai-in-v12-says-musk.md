@@ -74,6 +74,15 @@ related:
       name: Electrek
       domain: electrek.co
     quality: 42
+  - title: "Buttigieg: Tesla shouldn’t call driving system Autopilot"
+    excerpt: "Tesla shouldn't be calling its partially automated driving system Autopilot because the cars can't drive themselves, the top U.S. transportation official says."
+    publishedDateTime: 2023-05-12T09:39:00Z
+    webUrl: "https://www.newstribune.com/news/2023/may/12/buttigieg-tesla-shouldnt-call-driving-system/"
+    type: article
+    provider:
+      name: News Tribune
+      domain: newstribune.com
+    quality: 19
 
 secured: "ogct4HeH0iblKJUMyve5LhyhukttB6HzUs0Y1OvSjcp5b0vQRddXpEi+4rEXiioAbzvmEbuHqxOD4pBxsPfIVpkXnRJgSb/xD8I4z88+d/vbWZTWbcJp1oLmP0lpgIkwH8fekWn05scvPCIqVtCJ1Xtksk0++O36VIUT9qIB/aCMcONe7fevXhKRd8dq/scIM5W7VLdK96HRTOj2On+NmPwq2cEp3+iqGrTVZcIBYumb1t+e3scbATl3Gj8WHBr1y8dsVBL0Fg31vXps7NtyVZpC0rwHEKf90k3WtG2FjH9DGxHA+4dEjxyNCPHm59ZkYa0Jw7+r/mn0lP1W4YoDW3wMNTInrogv6FXhrV6PlQv3yZBLvd+Sff0vIPXnLxtvhbeDp524qUhmWjJRIZluZJQGK9Zeu7dfTpye2IYBe+43jLlGmjWN+6DMjs23SXA29XTvKKV51E9LweFKfrmmKOq9nNsLXzAQ1YcLMKL024JlyCMvtstmAxPXRK/ODsAFICmdapR4tNSiL6kHlmp45Q==;uHUlXf64sO0KGYnO3C/Azg=="
 ---

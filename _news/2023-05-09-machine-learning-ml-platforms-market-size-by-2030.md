@@ -37,20 +37,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Machine Learning in Manufacturing Market Dynamics and Drivers: 2023-2031"
-    excerpt: "Global “ Machine Learning in Manufacturing Market ” Research Report 2023-2031 offers a detailed analysis of the industry landscape, including growth drivers, restraints, and competitive dynamics of Top Manufacturers [Teradata,"
-    publishedDateTime: 2023-05-07T16:41:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-in-manufacturing-market-dynamics-and-drivers-2023-2031-2023-05-07"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 70
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Computer Vision System Market 2023 to Hit Significant Value by 2030| Research Reports World"
     excerpt: "The Computer Vision System Market Scope and Overview Report for 2023 presents a detailed analysis of the latest trends"
     publishedDateTime: 2023-05-11T08:32:00Z
@@ -79,6 +65,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Slator 2023 Language Industry Market Report"
+    excerpt: "The 140-page Slator 2023 Language Industry Market Report provides a comprehensive view of the global language services and language technology industry — an addressable market of USD 27.9bn in 2022, according to Slator’s research."
+    publishedDateTime: 2023-05-12T09:10:00Z
+    webUrl: "https://slator.com/2023-language-industry-market-report/"
+    type: article
+    provider:
+      name: Slator
+      domain: slator.com
+    quality: 4
 
 secured: "DPPiqMZrEnng6BEzNSmCJtce+1tXC5CQ0QSNYA+6jXxQ+eMO8ixo6WP3N5PoGhvxh59ALoLXJl9hyGgVqOOWwDpEox6qQ7SSwZ0Qknkhpdp00aKtN7lxd0ykQA6YMGlrt/7DK2wgsNly+dvC+N5mXVjo8L4ddD+uQbPDqNvn6vYJF8sbtD2XeCTfyuoBelE44XoIJEygzQT6uILrX5FKchpHh59nX96RW/4wJDBZqdRAaNBsILeV5JrhrHZsNV0pYKrobW485xAyTuxUSUwcXHHRbzolSMc/1Wlc+QRoZ8dv5iqexAOzxEh5rpHdYnnY3QZ5gg0ztjZqWkbC6qraQTF+NBGBxk6fE0D+finRe8c=;e9YuF72ZMtNekfnx3gtEYA=="
 ---

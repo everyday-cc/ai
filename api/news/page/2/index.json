@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-05-11-a-season-of-recognition-the-oklahoma-city-thunders-individual-honors-and-a-promising-trajectory.md",
+      "title": "A Season Of Recognition: The Oklahoma City Thunder’s Individual Honors And A Promising Trajectory",
+      "excerpt": "Following an extremely successful 40-win season for the Oklahoma City Thunder, several individuals earned praise with the various awards and teams that are voted upon.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/nicholascrain/2023/05/11/a-season-of-recognition-the-oklahoma-city-thunders-individual-honors-and-a-promising-trajectory/",
+      "originalUrl": "https://www.forbes.com/sites/nicholascrain/2023/05/11/a-season-of-recognition-the-oklahoma-city-thunders-individual-honors-and-a-promising-trajectory/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/645c6fe7bc41d9b5e65a4511/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/nicholascrain/2023/05/11/a-season-of-recognition-the-oklahoma-city-thunders-individual-honors-and-a-promising-trajectory/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nicholascrain/2023/05/11/a-season-of-recognition-the-oklahoma-city-thunders-individual-honors-and-a-promising-trajectory/amp/",
+      "publishedDateTime": "2023-05-11T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-11-mayo-clinic-invests-in-nc-artificial-intelligence-healthcare-startup.md",
       "title": "Mayo Clinic invests in NC artificial intelligence healthcare startup",
       "excerpt": "Lucem Health, a startup that says it is utilizing artificial intelligence to deliver solutions for physicians and healthcare providers, has a big believer: Mayo Clinic. It's now an investor.",
@@ -457,7 +509,7 @@
       "originalUrl": "https://www.nbcnews.com/nightly-news/video/google-launches-new-ai-tools-173891653794",
       "featuredContent": null,
       "highlight": null,
-      "heat": 257,
+      "heat": 267,
       "tags": null,
       "images": [
         {
@@ -646,7 +698,7 @@
       "originalUrl": "https://time.com/6278841/microsoft-ceo-satya-nadella-on-artificial-intelligence/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 134,
       "tags": null,
       "images": [
         {
@@ -1166,58 +1218,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2023-05-10T11:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-10-supercharging-search-with-generative-ai.md",
-      "title": "Supercharging Search with generative AI",
-      "excerpt": "We’re starting with an experiment in Search Labs called SGE, Search Generative Experience, which uses generative AI.",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/products/search/generative-ai-search/",
-      "originalUrl": "https://blog.google/products/search/generative-ai-search/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 459,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/socialshare-test.width-1300.jpg",
-          "width": 1300,
-          "height": 731,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/products/search/generative-ai-search/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/search/generative-ai-search/amp/",
-      "publishedDateTime": "2023-05-10T10:45:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Google",

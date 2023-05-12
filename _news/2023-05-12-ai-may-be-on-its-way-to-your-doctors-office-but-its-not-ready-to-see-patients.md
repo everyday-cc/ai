@@ -1,0 +1,44 @@
+---
+category: news
+title: "AI May Be on Its Way to Your Doctor’s Office, But It’s Not Ready to See Patients"
+excerpt: "Companies pushing the latest AI technology — known as “generative AI” — are ... Joshua Tamayo-Sarver, a clinician and executive with the startup Inflect Health, fed fictionalized patient scenarios based on his own practice in an emergency ..."
+publishedDateTime: 2023-05-12T09:46:00Z
+originalUrl: "https://omaha.com/lifestyles/health-med-fit/ai-may-be-on-its-way-to-your-doctor-s-office-but-it-s-not/article_ecd47e7f-7eb4-5bbc-be15-ea2e4c24bdec.html"
+webUrl: "https://omaha.com/lifestyles/health-med-fit/ai-may-be-on-its-way-to-your-doctor-s-office-but-it-s-not/article_ecd47e7f-7eb4-5bbc-be15-ea2e4c24bdec.html"
+type: article
+quality: 32
+heat: -1
+published: false
+
+provider:
+  name: Omaha.com
+  domain: omaha.com
+
+topics:
+  - AI
+
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/custom/image/9595a7a2-2379-11e7-b3c5-13eacc36a918.jpg?resize=600%2C315"
+    width: 600
+    height: 315
+    isCached: true
+
+related:
+  - title: "AI may be on its way to your doctor's office, but it's not ready to see patients"
+    excerpt: "Giant corporations like Microsoft and Google, plus many startups, are eyeing healthcare profits from programs based on artificial intelligence."
+    publishedDateTime: 2023-05-11T15:55:00Z
+    webUrl: "https://www.aol.com/news/ai-may-way-doctors-office-120037954.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 32
+    images:
+      - url: "https://s.yimg.com/cv/apiv2/aolfp/metadata/og-image.png"
+        width: 1200
+        height: 630
+        isCached: true
+
+secured: "lvcFnzCu+v4uPD5aTPpFLAoNV6zJQb0L2pXqhrOGf+BamjtIYKyiDzGfGhufIpm3qr85jZcdXGP/YTYtv4KTv+UwtAeJNHzGFdA5nfUBeTxMNEPc3uv3phNLkKZcdrrxIsHJp3EigUmYkx4Qx2VgWw5JUbfgX8cYBSEO03hMNXzm/IG7d9r7qjbQPfBQIvEOIODAwdZekXN3/N3lWZ21rHuZCWUlADLWhoEJ1rEDKnF8TvaN/iiBM058deD1wgXBICBWIISQowJ0jjsrT70EG8wcLCw+hS/awLewBPM4X1HIUOsBaIu187PGobQw9yeIXUoaOXkdSpwfbjzxBkPrz2V8eFRID/890gVjYxef/zg=;iW1zFuJRMNoPq/f5sYCc+w=="
+---
+

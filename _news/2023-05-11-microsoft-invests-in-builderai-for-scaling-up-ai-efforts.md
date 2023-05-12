@@ -75,6 +75,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Microsoft makes strategic investment into Builder.ai, integrates its services into Teams"
+    excerpt: "It’s now landed a strategic collaboration with Microsoft, which includes an undisclosed equity investment in the startup. TechCrunch’s source’s indicate the investment was “significant,” though we couldn’t get anything more than that."
+    publishedDateTime: 2023-05-11T18:57:00Z
+    webUrl: "https://techcrunch.com/2023/05/11/microsoft-makes-strategic-investment-into-builder-ai-integrates-its-services-into-teams/"
+    ampWebUrl: "https://techcrunch.com/2023/05/11/microsoft-makes-strategic-investment-into-builder-ai-integrates-its-services-into-teams/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/11/microsoft-makes-strategic-investment-into-builder-ai-integrates-its-services-into-teams/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 95
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/02/GettyImages-1265041897.jpg?resize=1200,800"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Microsoft’s Big AI Push Could Power Its Cloud Past AWS. Here’s Why."
     excerpt: "Bernstein analyst Mark Moerdler thinks artificial intelligence could drive huge growth at Microsoft—more than most investors expect."
     publishedDateTime: 2023-05-09T16:28:00Z

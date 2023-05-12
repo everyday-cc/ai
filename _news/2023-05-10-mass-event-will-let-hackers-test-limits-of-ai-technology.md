@@ -66,20 +66,6 @@ related:
       name: NBC News
       domain: nbcnews.com
     quality: 49
-  - title: "Google AI chief quits due to concerns about dangers from technology"
-    excerpt: "Artificial intelligence pioneer Geoffrey Hinton said he realized computers could become smarter than people far sooner than he and other experts had expected"
-    publishedDateTime: 2023-05-07T15:48:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/273823159/google-ai-chief-quits-due-to-concerns-about-dangers-from-technology"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 39
-    images:
-      - url: "https://cdn.bignewsnetwork.com/cus1683170979548.jpg"
-        width: 630
-        height: 420
-        isCached: true
   - title: "Vintra showcases its artificial intelligence technology in a demo"
     excerpt: "Vintra, mentioned by former Boston police commissioner Ed Davis during a Senate hearing about the Boston marathon bombing, can learn \"from normal activity\" to notify operators of \"approaching threats and of anomalies."
     publishedDateTime: 2023-05-10T22:30:00Z

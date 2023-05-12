@@ -9,7 +9,7 @@ ampWebUrl: "https://www.securityweek.com/mass-event-will-let-hackers-test-limits
 cdnAmpWebUrl: "https://www-securityweek-com.cdn.ampproject.org/c/s/www.securityweek.com/mass-event-will-let-hackers-test-limits-of-ai-technology/amp/"
 type: article
 quality: 59
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -52,20 +52,6 @@ related:
       name: NBC News
       domain: nbcnews.com
     quality: 49
-  - title: "Google AI chief quits due to concerns about dangers from technology"
-    excerpt: "Artificial intelligence pioneer Geoffrey Hinton said he realized computers could become smarter than people far sooner than he and other experts had expected"
-    publishedDateTime: 2023-05-07T15:48:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/273823159/google-ai-chief-quits-due-to-concerns-about-dangers-from-technology"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 39
-    images:
-      - url: "https://cdn.bignewsnetwork.com/cus1683170979548.jpg"
-        width: 630
-        height: 420
-        isCached: true
   - title: "Mass event will let hackers test limits of AI technology"
     excerpt: "No sooner did ChatGPT get unleashed than hackers started “jailbreaking” the artificial intelligence chatbot – trying to override its safeguards so it could blurt out something unhinged or obscene"
     publishedDateTime: 2023-05-10T15:02:00Z

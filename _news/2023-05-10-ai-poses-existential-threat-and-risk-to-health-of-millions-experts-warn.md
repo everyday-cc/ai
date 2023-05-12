@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.theguardian.com/technology/2023/may/10/ai-poses-existent
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/may/10/ai-poses-existential-threat-and-risk-to-health-of-millions-experts-warn"
 type: article
 quality: 56
-heat: 66
-published: false
+heat: 76
+published: true
 
 provider:
   name: The Guardian
@@ -44,6 +44,15 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Scientists call for AI moratorium, warn about potential pitfalls in healthcare"
+    excerpt: "Although artificial intelligence is often touted as a game-changer in healthcare, an international team of scientists is warning that it also may pose threats to human health in terms of social, political,"
+    publishedDateTime: 2023-05-12T04:16:00Z
+    webUrl: "https://www.mcknightsseniorliving.com/home/news/tech-daily-news/scientists-call-for-ai-moratorium-warn-about-potential-pitfalls-in-healthcare/"
+    type: article
+    provider:
+      name: McKnight's Senior Living
+      domain: mcknightsseniorliving.com
+    quality: 30
 
 secured: "j22Vkxy9CIOWsk1qsx0z4lJasV+Itm/u1LljMEz4X/WVeXk0WZhE+yBEJidDNxvlpo66grmO5w8ClKgeOT7thYksYu0fBgGIYz4j258B0KK2ZnDZZFp/tK9XVoYP5BoXxflmNUQTFA7CsieURiU4JWrGV/DqQx4WIIi0LAQ3a72FMSmwmLvVpj36PWtZ9PqAKMsUK7e6TzLjcUTziXzwme/f57DaHDLImJW49t9W/49FecJHuB9SJn2lKB8mIaMNPTM0pwKtR4D0eRfh3sX2F053UtzoA3q8KFyGFpQhq81hDb049M+DlF6zwgq9rD4RnjNmOeCiIHriRUjz7K5tAltwNwq418rrIUIoktJUMwIoYfCIGgfzHviSSNgw9BuE8rB4bxdf6JSeg7srVSe2tMlNx7Wlqa+RXmWTcKCIXbKGKR6O/4kJQDXGk89pLyMrP5pGG3l3DOrQYBkn9brwg7m9f9bIIAphXbLwFqkg8Bxj1QnIDRzFCtu69+ybl5HOM2DQ2Nc/XTL9VpsIU4o/7g==;eITM/AZQqOsRAvU0m+BLjw=="
 ---

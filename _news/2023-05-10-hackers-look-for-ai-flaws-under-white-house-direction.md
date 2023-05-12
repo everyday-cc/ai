@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxbusiness.com/technology/hackers-look-ai-flaws-white-h
 cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/hackers-look-ai-flaws-white-house-direction.amp"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Fox Business
@@ -40,6 +40,20 @@ related:
       - url: "https://apicms.thestar.com.my/uploads/images/2023/05/11/2067485.jpg"
         width: 1240
         height: 826
+        isCached: true
+  - title: "Hospitality sector’s use of artificial intelligence could rise as owners look for ways around expensive apps"
+    excerpt: "The idea of robots in hospitality may conjure visions of The Jetsons’ personal assistant Rosey, or robotic waiters at city restaurants, but experts say the sector’s adoption of AI will grow."
+    publishedDateTime: 2023-05-12T08:09:00Z
+    webUrl: "https://thewest.com.au/business/retail/hospitality-sectors-use-of-artificial-intelligence-could-rise-as-owners-look-for-ways-around-expensive-apps-c-10415544"
+    type: article
+    provider:
+      name: The West Australian
+      domain: thewest.com.au
+    quality: 20
+    images:
+      - url: "https://images.thewest.com.au/publication/C-10415544/57de6a51ee683fc8bed087633ae160bcc2fb5431-16x9-x0y287w2756h1550.jpg?imwidth=1200"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "e++8acCpIBGy/8QYJ4P8p9QOQBtY6dZa83WyDhKJ2ypIXpiNAUSWUkdb4BaSz9dcedYd7wN7ZE1mQ3lKMo5aUQu6jh4u+hgWR33QvMWRuJOnbtopCbI/5DJZ4oU8r777ky3llh6bqJtvyTiR3i60oFvsT9UhC6YFOmx4b3sprl0vKv88wDqbrR1iTE9uiAydln37NtAc4OggCwWPHjs9q06jhs8oekZs2CkOwteHYn9LLiJ2PXnff0weSVKsF+O/oj9WyWSjbRXFgNXQ8II9No0+oomO5hrOMP/hxStJfSViKlf/wbL0lPstf48vxRvc9TAMvaX/7pFNGw9A6cehkgeK0O3eLOkN4wQJXpVVwb8B+vR170XSgysQMlIadxHEqTQ/dmf8d3d2w4NAxzz5cKe/b02cnP0h3IGBJ9RU519/iRWTSIdeJhouGUk8B9eA6SyrwOqDncyzJkmfYtMCy2xfHTKJpRwlo+AhxaxWZzr+Zj/eApudStxsm1xf8Do6XEXE12QzrQwzgqmegfGXOA==;X8vP7M+UgGuqrq4PG0HM5w=="

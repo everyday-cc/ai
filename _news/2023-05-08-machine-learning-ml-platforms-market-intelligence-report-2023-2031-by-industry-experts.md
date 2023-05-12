@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Machine Learning in Manufacturing Market Dynamics and Drivers: 2023-2031"
-    excerpt: "Global “ Machine Learning in Manufacturing Market ” Research Report 2023-2031 offers a detailed analysis of the industry landscape, including growth drivers, restraints, and competitive dynamics of Top Manufacturers [Teradata,"
-    publishedDateTime: 2023-05-07T16:41:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-in-manufacturing-market-dynamics-and-drivers-2023-2031-2023-05-07"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 70
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Machine Learning (ML) Platforms Market Size By 2030"
     excerpt: "The report focuses on the volume and value of Machine Learning (ML) Platforms at the global, regional, and company levels. It analyzes historical data and future prospects to determine the overall Machine Learning (ML) Platforms market size."
     publishedDateTime: 2023-05-09T06:20:00Z
@@ -81,6 +67,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Slator 2023 Language Industry Market Report"
+    excerpt: "The 140-page Slator 2023 Language Industry Market Report provides a comprehensive view of the global language services and language technology industry — an addressable market of USD 27.9bn in 2022, according to Slator’s research."
+    publishedDateTime: 2023-05-12T09:10:00Z
+    webUrl: "https://slator.com/2023-language-industry-market-report/"
+    type: article
+    provider:
+      name: Slator
+      domain: slator.com
+    quality: 4
 
 secured: "0fEeh0p7HEdq3FxpL9TrWUFS2t956lkkPvqt7KVqF1XcZqsZuE2QDVdKp6kr2Ly9LHQN2DzJYfzr0fjrUtf74VuiY0O5lJJOIw6IcyjW+dWbtSC5GAt6sJzsV+WUiYrIywnEi+qROrRj9psZDjTvLfrUlMJKhaX6sEdRPhRyx58Wfx9v0myLknsbm/TgNz1QJwk+x1r+t2k3EA9gk9keoZv7Ln1bJmIEMia6uGMCF6AUYD9cQiycRcdALZ/IbwIt0VFQoPeG1JA4LbMs/TkBYP84RcGJ3kJjkj8OXHS2nmFHAEbaSRd3xWtmJ01ELOZtvTGnr0Qh9BcB/hzcuZBfsGGRhpgPqse2k8QBHv8KCOU=;9rjIuzpWIR61FkZMnZYOQw=="
 ---

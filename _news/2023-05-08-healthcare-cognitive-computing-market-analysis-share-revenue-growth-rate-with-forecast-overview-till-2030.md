@@ -215,15 +215,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Object Recognition Imaging Systems Market, 2030"
-    excerpt: "The Global Object Recognition Imaging Systems market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players,"
-    publishedDateTime: 2023-05-07T15:22:00Z
-    webUrl: "https://www.marketwatch.com/press-release/object-recognition-imaging-systems-market-2030-2023-05-07"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
   - title: "Cloud Natural Language Processing Market Size, 2030"
     excerpt: "The Global Cloud Natural Language Processing market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players,"
     publishedDateTime: 2023-05-09T01:08:00Z

@@ -362,6 +362,49 @@
       ]
     },
     {
+      "path": "_news/2023-05-09-cedars-sinai-establishes-center-for-ai-machine-learning.md",
+      "title": "Cedars-Sinai establishes center for AI, machine learning",
+      "excerpt": "Los Angeles-based Cedars-Sinai has established a new center focused on advancing artificial intelligence and machine learning.",
+      "sourceUrl": null,
+      "webUrl": "https://www.beckershospitalreview.com/innovation/cedars-sinai-establishes-center-for-ai-machine-learning.html",
+      "originalUrl": "https://www.beckershospitalreview.com/innovation/cedars-sinai-establishes-center-for-ai-machine-learning.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-09T07:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Becker's Hospital Review",
+        "domain": "beckershospitalreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-09-machine-learning-as-a-service-mlaas-market-2023-insightsamazon-oracle-ibm-microsoftn.md",
       "title": "Machine Learning as a Service (MLaaS) Market 2023 InsightsAmazon, Oracle, IBM, Microsoftn",
       "excerpt": "Global Machine Learning as a Service (MLaaS) Market Research Report 2023 begins with an overview of the Market and offers throughout development. It presents a comprehensive analysis of all the regional and major player segments that gives closer insights upon present market conditions and future market opportunities along with drivers,",
@@ -1394,49 +1437,6 @@
       "provider": {
         "name": "MIT Technology Review",
         "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-03-new-course-steeps-humanities-and-social-science-graduate-students-in-machine-learning.md",
-      "title": "New course steeps humanities and social science graduate students in machine learning",
-      "excerpt": "The course, taught by Sarah-Jane Leslie, the Class of 1943 Professor of Philosophy, offers a primer on “deep learning” for graduate students. The class assumes the students have no extensive knowledge of calculus or linear algebra, nor any prior ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.princeton.edu/news/2023/05/02/deep-learning-princetons-graduate-school",
-      "originalUrl": "https://www.princeton.edu/news/2023/05/02/deep-learning-princetons-graduate-school",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.princeton.edu/sites/default/files/styles/scale_1440/public/images/2023/05/MachineLearning_3000x1688_bookFinal_0.jpg?itok=gRmwODxT",
-          "width": 1440,
-          "height": 810,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-02T17:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Princeton University",
-        "domain": "princeton.edu",
         "images": null,
         "publishers": null,
         "authors": null

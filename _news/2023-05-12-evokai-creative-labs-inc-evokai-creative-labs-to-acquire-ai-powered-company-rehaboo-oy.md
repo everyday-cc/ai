@@ -20,18 +20,18 @@ topics:
 
 related:
   - title: "EvokAI Creative Labs To Acquire AI-Powered Company Rehaboo Oy"
-    excerpt: "Following the closing of the Rehaboo Acquisition, Rehaboo will be a wholly owned subsidiary of EvokAI. Completion of the Rehaboo Acquisition is subject to a number of standard conditions, including receipt of all regulatory approvals and the acceptance of the TSX Venture Exchange (' TSXV ')."
-    publishedDateTime: 2023-05-11T21:04:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/273828445/evokai-creative-labs-to-acquire-ai-powered-company-rehaboo-oy"
+    excerpt: "Following the closing of the Rehaboo Acquisition, Rehaboo will be a wholly owned subsidiary of EvokAI. Completion of the Rehaboo Acquisition is subject to a number of standard conditions, including receipt of all regulatory approvals and the acceptance of the TSX Venture Exchange (\" TSXV \")."
+    publishedDateTime: 2023-05-11T20:50:00Z
+    webUrl: "https://www.marketwatch.com/press-release/evokai-creative-labs-to-acquire-ai-powered-company-rehaboo-oy-2023-05-11"
     type: article
     provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 39
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
     images:
-      - url: "https://cdn.bignewsnetwork.com/cus1683605703216.jpg"
-        width: 630
-        height: 420
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "aVdXFjEYD4Bb8wtRL0ejrTHRiU1rFhb4NJAps6dPmorhxIvU2abxtXPLSp9MZPAnJPNRnEaCqwY9hEF4DdDoA4FlLrL2oUTuUOaq5FS+BZKZ//SNvjaveVVVri9rlgNYGd/mG9JZFuou2N86EnK90HEYBlfYLWecJof2V/0g46GlDAcyIK2cevmdIPSPjkSaL2BypQmOVEqBdpRZaKvWqJx/sHw/eJUJEY/rpMdrMpdMuoFiNwU920LVDoXVRn2lOdYNxBEJydacxZta5GVdaETGXklE3KX0SQZaEN4eK2M3SsXmz+buEjeaehHT9My5yH1ZT2OEseuGIWFvp75DPk1F4AbYZxML7OMHjG7G21c=;6OfJ1rlq9YUaWkbNLW9G/A=="
