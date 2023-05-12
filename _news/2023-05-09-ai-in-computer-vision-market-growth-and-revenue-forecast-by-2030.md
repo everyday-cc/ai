@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-ma
 webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-growth-and-revenue-forecast-by-2030-2023-05-08"
 type: article
 quality: 84
-heat: 304
+heat: 314
 published: true
 
 provider:
@@ -215,6 +215,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 49
+  - title: "Artificial Intelligence in Medication Management Market Report, Trends, Growth, Size, Share, and Forecast 2028"
+    excerpt: "Get a Sample of the Artificial Intelligence in Medication Management Market Report @  Artificial Intelligence in Medication Management Market is rapidly growing with a CAGR of 22.3% from 2022 to 2028."
+    publishedDateTime: 2023-05-11T12:09:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-medication-management-market-report-trends-growth-size-share-and-forecast-2028-2023-05-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence Sensors Market Insights and Forecast Offers for Growth 2030"
     excerpt: "Global Artificial Intelligence Sensors Market Research report provides detailed insight into different segments based"
     publishedDateTime: 2023-05-09T16:51:00Z

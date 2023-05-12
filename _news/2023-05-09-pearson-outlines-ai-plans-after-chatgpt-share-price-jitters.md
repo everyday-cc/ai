@@ -127,6 +127,15 @@ related:
       name: RealClearScience
       domain: realclearscience.com
     quality: 19
+  - title: "I asked ChatGPT where it'd put Brightline stop on Treasure Coast; here's what AI bot said"
+    excerpt: "A TCPalm columnist asked artificial intelligence application ChatGPT where it would put a Brightline train station. Its answer was intriguing."
+    publishedDateTime: 2023-05-12T10:01:00Z
+    webUrl: "https://www.tcpalm.com/story/opinion/columnists/laurence-reisman/2023/05/12/ai-chatgpt-says-where-brightline-should-put-station-on-treasure-coast/70180635007/"
+    type: article
+    provider:
+      name: Treasure Coast Newspapers
+      domain: tcpalm.com
+    quality: 10
 
 secured: "IFrrMBwsBfjtYdbw9Wdp1yD2rNIn4CRy7NFqD1XFfp0WonErP0zrh5QCMouH06lczY+GjOiC9vxcbg4EXHAZ1N0AAdZiEH0CkXUzrR4zx/OR12Yh4TyLCAUi7oG7CZAvhEwEdqThBUSAcgoU3D6Sio38/XDHyaywsKaaQiuUbg/7q7aIa/cdZiZ260hU9c0m+WcGqDZpBMhA6j8bwkxYCWXa5/qtr/OP9pzYhIIkZ86ZAbr7tKkSrm/lrvNyODCPxIFpF3GnhK5fHhkbdrMEInMLyzwFGGuFkCtIDRnshhRfIYWDparDsn1IIQlh+XgriB3Lb/PnWviOu/uOeE5iRQIOAkN3FYQ/XR4Th/ojBQk=;+/cotRxsFwSOYwTUrQyVJw=="
 ---

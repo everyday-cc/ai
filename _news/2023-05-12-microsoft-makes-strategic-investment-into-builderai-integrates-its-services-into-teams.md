@@ -47,6 +47,20 @@ related:
         width: 1200
         height: 803
         isCached: true
+  - title: "IBM and Microsoft partnership accelerates sustainable cloud modernization"
+    excerpt: "A global fast-moving consumer goods (FMCG) enterprise needed to modernize its product portfolio, focusing on high-growth categories like pet care, coffee and consumer health. Its aggressive sustainability goals included achieving net zero emissions by 2050, making all packaging reusable or recyclable"
+    publishedDateTime: 2023-05-12T12:00:00Z
+    webUrl: "https://www.ibm.com/blog/ibm-and-microsoft-partnership-accelerates-sustainable-cloud-modernization/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 118
+    images:
+      - url: "https://www.ibm.com/blog/wp-content/uploads/2023/05/IBM-and-Microsoft-partnership-accelerates-sustainable-cloud-modernization-630x330.jpg"
+        width: 630
+        height: 330
+        isCached: true
   - title: "Top 10 Google AI Products To Take On Amazon, ChatGPT And Microsoft"
     excerpt: "It was all about AI as Google I/O 2023 kicked off at Google headquarters in Mountain View, California with a keynote by CEO Sundar Pichai. Here are the top ten AI products and features to watch for from the tech giant in the coming months and how to sign up to become a tester."
     publishedDateTime: 2023-05-11T01:17:00Z
@@ -489,6 +503,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "kgaGTrkOG+XosTZ63cnWwzBdxllOzX2SOkuR382yzrCUUjm4NCT38GDUGlR2lTx5JUU3iyWsTHNG51KKFfxeb6mSrU+0kPrttpP83DmxHcdVXc55zSK4Np4ngwi94DNMtlHopfC1bqLSAcq50LxerQIIEOL6V/3Qp8w7s/XlaDmJdmO0un9biwvuEoytK9ZME9Pvf9yfMXdZZsTTp/q2DdNRDuI7y99qsxyQ6PTzrbRBjDND3P2ZvzyHAz7NMVn6oXmjpWYRjrdBujGNh5FK+d7ZPEeVEIGIXNhZBYlc/qcTzE7LyT7bxVa22btJT0cND4nUQNX4TlivVtRYOx1NDauDs6Wyr3Sg9I/jasKWYFU=;aDCFG6AW4tvt2NvES3/TiA=="
+secured: "hCgVERhz9Wz4uc4/FYmOwv2nkfDM2UG6u+8NyhWDAsqKr2Wv4cdA1+Yr0iIUrLJEkKXYDU/Pw9Emyrsf2eQfeNqbSwitp6yxcXse/nm+7S6e6mS3p8ELCa2xUd+B3O/CVR+mXtBeWGF8RxboRU3n29+fzCHz0oEW/bNwjHdVR4FI6nC8DQLU2jwTY4lzHV8QweFRXv1jfQQnxlp3XHjCRupzGS/cl8Gls0E7sabM/466kTVKOeFQTRTK5nXlfWWo4QE/nUcRTe61POWTEp4ye9wja0vKDns7gbuBdoxFkdVq1zLBoNbVdvaEBNtQmGHCxJpdP23Cbd6ImmpxB+y+wSK29FDZdiwQqEqDzRMsRAb+mURiMvwuUtvMI9ZWCwi/PXgiY65CUNWoyxLkdVIa0OusFw53DpmVZCLpaKZtB9NTJkg3ILaw3kcxaG6p+ZMJvoK3k8ElFJLGHujhD5tdW5WbYMLxjWTUhmkCTMtz+mKL3cKuDEUa+/VoeAcczcYTALGzWVefWLxISwY6bTPM8Q==;sO2QYbxaxQmVcGj7FXMS2w=="
 ---
 

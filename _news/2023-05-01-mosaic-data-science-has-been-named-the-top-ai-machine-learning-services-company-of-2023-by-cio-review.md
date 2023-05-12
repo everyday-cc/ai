@@ -1,27 +1,21 @@
 ---
 category: news
-title: "Mosaic Data Science Has Been Named the Top AI & Machine Learning Services Company of 2023 by CIO Review"
+title: "Mosaic Data Science has been named the Top AI & Machine Learning Services Company of 2023 By CIO Review"
 excerpt: "Mosaic is thrilled to be recognized as a leader in the Artificial Intelligence & Machine Learning space ... such as professional and financial services, retail, manufacturing, CPG, and oil ..."
-publishedDateTime: 2023-05-01T15:14:00Z
-originalUrl: "https://www.finanznachrichten.de/nachrichten-2023-05/58961128-mosaic-data-science-has-been-named-the-top-ai-machine-learning-services-company-of-2023-by-cio-review-200.htm"
-webUrl: "https://www.finanznachrichten.de/nachrichten-2023-05/58961128-mosaic-data-science-has-been-named-the-top-ai-machine-learning-services-company-of-2023-by-cio-review-200.htm"
+publishedDateTime: 2023-05-01T13:50:00Z
+originalUrl: "https://www.miamiherald.com/press-releases/article274911516.html"
+webUrl: "https://www.miamiherald.com/press-releases/article274911516.html"
 type: article
 
 provider:
-  name: Finanznachrichten
-  domain: finanznachrichten.de
+  name: Miami Herald
+  domain: miamiherald.com
 
 topics:
   - AI in Finance
   - AI
   - Machine Learning
 
-images:
-  - url: "https://www.accesswire.com/users/newswire/images/751981/9395de5167fcc82d1591bf86ed6d.jpg"
-    width: 300
-    height: 391
-    isCached: true
-
-secured: "ACOjQtuoZqGb7rs8BMCrFuimc6kqMf2PjzfK3MaR8pCctMMTWjH4KiKGYxgx51srNHXVyrFvXtRjuIzQsHe34vUX+hrjXZcEP/7QwEP4bhx6JbuERTL/AdJEL74kandjUXWQuW5qwCFchHcOueVcFhv5VoTsXa/ywXIML5trJv/1hSRe0GW0FEVObEEHaZ4lcLJvnEIGRNRGIVLPPgxKe+njynrO1epIp0WMU70IKvTqduQGPDE+yQlZEYp/2qo3m3H7S4WHXG89yO4TFLLrFE8+sv43CiF45WI2+ggKiQCwrxvaTA4x7w6oqFS07h2FRW9dz7rKJkr4YPIlQC+3FEpE7PteUzoGLLE9bF7+OJw=;+fUl46ospw8jNJ7VhCj0DQ=="
+secured: "P9bniIP9YcOV+SFsIAjYFHtnDCKopYIcjyiTAdInuSquPZJXHMmvGaXac3K7egIDD0t4VCPsqozU4/tMMTvH63xSIqIR4M0cROOcQXAT6M46zHCX7kOZSDPAkB4wLDAfUjndjSt6k2LruC4Gcwfc5UoKj5jPWDE57zUoMgxd4u+SE1jW52G6tYHFS4L6NpeP9nxHsQaYuXZY/sW0H+1nbLQOmXMNyaPEI/nvowvptIG9YwFaJ72t7XBNMu1hIm3tEEcXo78O8XuUvZbVyJptw1fnmKCCcvp8FRA7Gn2CNonC0JgnHvpQUjsJhhPYI4VxuoKLVoZiRRo49EEGLjzLVHH+x0PQmi9Ya8ZVQIWMwyA=;NLGtVAu0SZyT1NrVTUWwzA=="
 ---
 

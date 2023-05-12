@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/martineparis/2023/05/11/carynai-virtual
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martineparis/2023/05/11/carynai-virtual-date-earned-70000-with-sexy-chatgpt-ai-heres-how/amp/"
 type: article
 quality: 87
-heat: 157
+heat: 167
 published: true
 
 provider:
@@ -127,6 +127,15 @@ related:
       name: RealClearScience
       domain: realclearscience.com
     quality: 19
+  - title: "I asked ChatGPT where it'd put Brightline stop on Treasure Coast; here's what AI bot said"
+    excerpt: "A TCPalm columnist asked artificial intelligence application ChatGPT where it would put a Brightline train station. Its answer was intriguing."
+    publishedDateTime: 2023-05-12T10:01:00Z
+    webUrl: "https://www.tcpalm.com/story/opinion/columnists/laurence-reisman/2023/05/12/ai-chatgpt-says-where-brightline-should-put-station-on-treasure-coast/70180635007/"
+    type: article
+    provider:
+      name: Treasure Coast Newspapers
+      domain: tcpalm.com
+    quality: 10
 
 secured: "z3yEU/j07pkcBNf4eXySHQPANeXjD0jqP9II0LT1MUE0c5xrBk5H5rYzcAiqoSqpGUrRR2HQiUJFYYMnkN/btHongUu9Y6gDhf5YHA8m8WxbEeRWYgnb3sP9HD72amwgqT3dJlZIDWoO2aouwtyuWoJKZJlAXjN7pKAznRp8LWXhvSvUXhQOviJkCUjrCN+ea140ncjfYQy986bx5rtwDG6lnGN56y4MtaMtm7WmUzJIcyNcUuhksXLApbwHYDv9sH2ZYg5ddYO1tvaZdgN353R+Xavhqv3qWqHxm8+zv5qCPONvpvxU9ZEQ9dDxVF2pptNLguZhPaz+qY/I75ydcFhpwBJNvlWZ84VYyyH0iQnLn3U0TuwmtHI/91dPuCNxO2YK6t66f96nsIVT+7GDtAzJCH5VPJwfebGjgmNCZ2T7gO01sXryleZNm5OkIKvSJLC9jOkgD7+SiEJLyeMB5WXnS/VuKFZA59JZAORFMtEOAQOA4TBhoG6PUndMBv6+ryUXIXEAlkPpBB80Ui017Q==;vVNtk1XvJLm4KzkMTf3mxw=="
 ---

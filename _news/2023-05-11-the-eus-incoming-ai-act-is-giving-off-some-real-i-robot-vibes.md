@@ -33,6 +33,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "EU parliament backs AI restrictions and facial recognition ban"
+    excerpt: "The European parliament has voted in favour of a ban on biometric surveillance and restrictions on generative AI and foundation models such as ChatGPT."
+    publishedDateTime: 2023-05-12T11:20:00Z
+    webUrl: "https://www.research-live.com/article/news/eu-parliament-backs-ai-restrictions-and-facial-recognition-ban/id/5112292"
+    ampWebUrl: "https://www.research-live.com/amp-page.html?id=5112292&name=eu-parliament-backs-ai-restrictions-and-facial-recognition-ban"
+    cdnAmpWebUrl: "https://www-research--live-com.cdn.ampproject.org/c/s/www.research-live.com/amp-page.html?id=5112292&name=eu-parliament-backs-ai-restrictions-and-facial-recognition-ban"
+    type: article
+    provider:
+      name: research
+      domain: research-live.com
+    quality: 74
+    images:
+      - url: "https://www.research-live.com/img/MRS_EM_RGB.jpg"
+        width: 1000
+        height: 581
+        isCached: true
   - title: "MEPs to vote on proposed ban on ‘Big Brother’ AI facial recognition on streets"
     excerpt: "Thursday’s vote in EU parliament seen as key test in formation of world’s first artificial intelligence laws"
     publishedDateTime: 2023-05-10T14:34:00Z

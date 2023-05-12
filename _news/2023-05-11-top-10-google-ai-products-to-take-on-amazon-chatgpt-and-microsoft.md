@@ -47,6 +47,20 @@ related:
         width: 1200
         height: 803
         isCached: true
+  - title: "IBM and Microsoft partnership accelerates sustainable cloud modernization"
+    excerpt: "A global fast-moving consumer goods (FMCG) enterprise needed to modernize its product portfolio, focusing on high-growth categories like pet care, coffee and consumer health. Its aggressive sustainability goals included achieving net zero emissions by 2050, making all packaging reusable or recyclable"
+    publishedDateTime: 2023-05-12T12:00:00Z
+    webUrl: "https://www.ibm.com/blog/ibm-and-microsoft-partnership-accelerates-sustainable-cloud-modernization/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 118
+    images:
+      - url: "https://www.ibm.com/blog/wp-content/uploads/2023/05/IBM-and-Microsoft-partnership-accelerates-sustainable-cloud-modernization-630x330.jpg"
+        width: 630
+        height: 330
+        isCached: true
   - title: "“Meaningful harm” from AI necessary before regulation, says Microsoft exec"
     excerpt: "As lawmakers worldwide attempt to understand how to regulate rapidly advancing AI technologies, Microsoft chief economist Michael Schwarz told attendees of the World Economic Forum Growth Summit today that \"we shouldn't regulate AI until we see some meaningful harm that is actually happening,"
     publishedDateTime: 2023-05-11T19:48:00Z

@@ -69,20 +69,6 @@ related:
         width: 620
         height: 465
         isCached: true
-  - title: "How China is Developing AI Without US Chips"
-    excerpt: "China has been ramping up its own chip development and is making strides in developing AI without relying on US technology."
-    publishedDateTime: 2023-05-07T17:18:00Z
-    webUrl: "https://insidebitcoins.com/news/how-china-is-developing-ai-without-us-chips"
-    type: article
-    provider:
-      name: Inside Bitcoins
-      domain: insidebitcoins.com
-    quality: 54
-    images:
-      - url: "https://insidebitcoins.com/wp-content/uploads/2018/02/china-economy.jpg"
-        width: 1920
-        height: 1200
-        isCached: true
   - title: "Chinese firms to seek AI chips alternatives"
     excerpt: "THE US government's intensifying chip sanctions against China have forced Chinese firms to search for alternatives to advanced chips used in cutting-edge artificial intelligence (AI) and could even offer a new opportunity for Chinese firms to take the lead in the emerging technology,"
     publishedDateTime: 2023-05-09T14:06:00Z

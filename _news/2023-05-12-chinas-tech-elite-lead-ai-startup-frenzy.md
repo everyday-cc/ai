@@ -3,8 +3,8 @@ category: news
 title: "China's tech elite lead AI startup frenzy"
 excerpt: "But the furor this year around OpenAI's ChatGPT has inspired a new breed of AI entrepreneur: the elite of China's tech giants. After spending years testing and developing AI at Chinese companies, heavyweights such as Jia Yangqing,"
 publishedDateTime: 2023-05-12T07:10:00Z
-originalUrl: "https://asia.nikkei.com/cms/Spotlight/Caixin/China-s-tech-elite-lead-AI-startup-frenzy"
-webUrl: "https://asia.nikkei.com/cms/Spotlight/Caixin/China-s-tech-elite-lead-AI-startup-frenzy"
+originalUrl: "https://asia.nikkei.com/Spotlight/Caixin/China-s-tech-elite-lead-AI-startup-frenzy"
+webUrl: "https://asia.nikkei.com/Spotlight/Caixin/China-s-tech-elite-lead-AI-startup-frenzy"
 type: article
 quality: 37
 heat: -1
@@ -48,6 +48,6 @@ related:
       domain: fastcompany.com
     quality: 17
 
-secured: "+aMPhfY/vWcukKWUc56mGp1wJIUUD9b+MXKTWdhGkLKoUJQZOWqUAHSwsay20w5s/GiVAhfgFYcMcBewmJ+SfOOUKWDmw/m9Xwh413yTrdtW4ZQ20Sdwx71/GGXPcRZTxpRKYgyQZLBXeh99E/br/cAuzB26jXrH+opI1eD1eTikU2WQnW8yU3PVQz9D68NcisN2BX6G6CrDHWemEyNPBjCmBI5njw01jj6OjiYUPs/yV+bE5Dadj1Vnq5oyxVuitb5DDBKXHtj6XzG8qBcU30HfOydskbSYf6QXNsNfMffMrF+PzWjzBunZOy9Ukyd03PcfuT/14mMexWMXkuuGqQA57Z+N3YQYhldix31L/4w=;r33YgsHrXxFSdbbKbtAuYA=="
+secured: "TtkfaIDK8hlLRxgGKPsyHUTRbV5GSFyW5vf9hS1c7sdBfG72veSpwMhpT2dXPuZbhFgCpWA0YXRZJUVzfSvhOFIx2f7szamqGIMjmJQoJ/aW0JS94MzlmRVsQ3NLHXHo+xhEfbaI7AvKDZ0nVt7ovkmi+P6Pw88rg/MOVvARNldo8pKvcMu7hj7a6gJaykg6UYU3Oa/YS4ElzE3+b7gunMfdesZbYC3A/DrHzdCp2X2qktTz3bmANTous+EuAL6T19IJAes6UkBqZUuv5s00jNQOWzMSk0B+GxHRtjtlDL4YYYv5DpCD9jDy4x27LjLs7xeI9ExbXM8CxgBb9zWy3ku4oMza6nJ6Ff0UfjrKfPk=;7Ll/dOmrTKxJKsC+mhvKVQ=="
 ---
 

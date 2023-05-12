@@ -41,6 +41,20 @@ related:
         width: 700
         height: 400
         isCached: true
+  - title: "Britain's first autonomous bus service launches in Scotland"
+    excerpt: "The UK has celebrated the launch of its first driverless bus service, operated by Stagecoach. The start of the pilot programme was marked by a journey on the service between Ferry Toll near Inverkeithing,"
+    publishedDateTime: 2023-05-12T11:09:00Z
+    webUrl: "https://eandt.theiet.org/content/articles/2023/05/britains-first-autonomous-bus-service-launches-in-scotland/"
+    type: article
+    provider:
+      name: IET
+      domain: theiet.org
+    quality: 39
+    images:
+      - url: "https://eandt.theiet.org/media/21406/autonomous-bus-1.jpg?crop=0,0.36166666666666669,0,0.14614583333333328&cropmode=percentage&width=1200&height=450&rnd=133283620740000000"
+        width: 1200
+        height: 450
+        isCached: true
   - title: "'World's first' self-driving bus being trialed in Scotland"
     excerpt: "In a world first, a trial is underway in Edinburgh with an autonomous bus taking passengers across the Forth Road Bridge in a viable service route. | ITV National News"
     publishedDateTime: 2023-05-11T18:27:00Z

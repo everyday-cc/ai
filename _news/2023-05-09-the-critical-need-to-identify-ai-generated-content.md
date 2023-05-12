@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/timbajarin/2023/05/09/the-critical-need
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/timbajarin/2023/05/09/the-critical-need-to-identify-ai-generated-content/amp/"
 type: article
 quality: 87
-heat: 167
+heat: 177
 published: true
 
 provider:
@@ -103,6 +103,20 @@ related:
       - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2023%2F05%2Fspotify-removes-thousands-of-ai-generated-songs-boomy-tw.jpg?w=960&cbr=1&q=90&fit=max"
         width: 960
         height: 480
+        isCached: true
+  - title: "AI-generated letters to lawmakers may skew our politics"
+    excerpt: "Artificial intelligence technology continues to develop at a rapid pace, and with the emergence of AI-powered language models, such as ChatGPT, concerns are developing about the potential spread of misinformation."
+    publishedDateTime: 2023-05-12T11:27:00Z
+    webUrl: "https://www.cbsnews.com/newyork/video/ai-generated-letters-to-lawmakers-may-skew-our-politics/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 37
+    images:
+      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/05/12/d709d4fb-609a-41c6-868f-33658d02ee94/thumbnail/1200x630/49d642f4e4d7723351a160e9a9085e87/484d66c5803a5c1c595e9ba82230c900.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Spotify takes down thousands of AI-generated songs after suspected bot use to inflate streams, report says"
     excerpt: "Spotify took down about 7% of tracks from AI startup Boomy, after Universal warned streaming services they were artificially boosted, the FT reported."

@@ -28,76 +28,21 @@ images:
     isCached: true
 
 related:
-  - title: "European Union Set to Be Trailblazer in Global Rush to Regulate Artificial Intelligence"
-    excerpt: "Even European Union officials working on groundbreaking rules to govern the emerging technology were caught off guard by AI’s rapid rise. The 27-nation bloc proposed the Western world’s first AI rules two years ago,"
-    publishedDateTime: 2023-05-09T09:00:00Z
-    webUrl: "https://time.com/6278144/european-union-artificial-intelligence-regulation/"
+  - title: "How AI Is Helping To Improve Transportation Safety On A Global Scale"
+    excerpt: "While the use of AI in vehicle inspection is a significant development, it is one of many other ways that AI is being used to improve transportation safety around the world."
+    publishedDateTime: 2023-05-12T10:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/12/how-ai-is-helping-to-improve-transportation-safety-on-a-global-scale/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/12/how-ai-is-helping-to-improve-transportation-safety-on-a-global-scale/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/05/12/how-ai-is-helping-to-improve-transportation-safety-on-a-global-scale/amp/"
     type: article
     provider:
-      name: Time
-      domain: time.com
-    quality: 76
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://time.com/img/icons/wallet-connect.png"
-        width: 256
-        height: 256
-        isCached: true
-  - title: "How Europe is at the forefront of building artificial intelligence guardrails"
-    excerpt: "Authorities around the world are racing to draw up rules for artificial intelligence, including in the European Union, where draft legislation faced a pivotal moment on Thursday. A"
-    publishedDateTime: 2023-05-11T09:44:00Z
-    webUrl: "https://kdvr.com/news/technology/how-europe-is-building-artificial-intelligence-guardrails/"
-    ampWebUrl: "https://kdvr.com/news/technology/how-europe-is-building-artificial-intelligence-guardrails/amp/"
-    cdnAmpWebUrl: "https://kdvr-com.cdn.ampproject.org/c/s/kdvr.com/news/technology/how-europe-is-building-artificial-intelligence-guardrails/amp/"
-    type: article
-    provider:
-      name: FOX31 Denver
-      domain: kdvr.com
-    quality: 69
-    images:
-      - url: "https://kdvr.com/wp-content/uploads/sites/11/2023/05/645cb94a2eb286.56802250.jpeg?w=1280"
-        width: 1280
-        height: 853
-        isCached: true
-  - title: "How Europe is leading the world in building guardrails around AI"
-    excerpt: "Authorities around the world are racing to draw up rules for artificial intelligence, including in the European Union, where draft legislation faced a pivotal moment"
-    publishedDateTime: 2023-05-11T11:32:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/europe-building-artificial-intelligence-guardrails-99247610"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/europe-building-artificial-intelligence-guardrails-99247610"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/europe-building-artificial-intelligence-guardrails-99247610"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 57
-    images:
-      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-        width: 834
-        height: 308
-        isCached: true
-  - title: "How Europe is building artificial intelligence guardrails"
-    excerpt: "Authorities around the world are racing to draw up rules for artificial intelligence, including in the European Union, where draft legislation faces a pivotal moment."
-    publishedDateTime: 2023-05-11T06:38:00Z
-    webUrl: "https://www.seattletimes.com/business/how-europe-is-building-artificial-intelligence-guardrails/"
-    ampWebUrl: "https://www.seattletimes.com/business/how-europe-is-building-artificial-intelligence-guardrails/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/how-europe-is-building-artificial-intelligence-guardrails/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 52
-  - title: "In global rush to regulate AI, Europe set to be trailblazer"
-    excerpt: "European lawmakers have rushed to add language on general artificial intelligence systems like ChatGPT as they put the finishing touches on the Western world's first AI rules"
-    publishedDateTime: 2023-05-09T09:32:00Z
-    webUrl: "https://abcnews.go.com/Technology/wireStory/global-rush-regulate-ai-europe-set-trailblazer-99189489"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 37
-    images:
-      - url: "https://s.abcnews.com/images/International/wirestory_906fc89d2561b200fa6eb40a06b946a5_12x5_992.jpg"
-        width: 992
-        height: 413
+      - url: "https://imageio.forbes.com/specials-images/imageserve/645ce929429d7626542796dd/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "MZf4Mkxeats8EdfYdFg5sm8m3jvbLZIrq7lSTatcr+tmQKrIFlg5VOIAUXdn6Fd9GavKEFNEF0kKcL9ekD6KA0QtJNXLxI2EKJN7pu7vhTsgbpp7dzS2goX9tqnYzWslJNa7fwJoSY3asBmsdjLDYt/1dZ+FRkuROw0KYOHFpsywbTIChe2FN986RkveCShikkdkK2Z7h0WMdW03NMCUYllOxQpuaKoWZtN1oWtebPCfko5h4W26l5KZgiIr3H+TqlKVJBU6+/f4fV4EXZoC0MaPACaD/GAXkBg3IoN+A64AF1lcGuBGb1MuVrkAKjCHWYMt3adJ+2uY/4XDu3aUTS0b/QjVfU1I7RbTswE4+PEPuPcWE2NRj5D5SpV9tuTTzMrlA3DGsig2DI14Ty5sV2hGEZUhNW/A0WkhDSPIUfORkQ5wKAZ35C+n4ZXciFFhByD89+eY9fm46WJNzKUo/qXwzQZY2CUhiaCY3jpkhMU+R6cPaZN+27s2Qf3ysyjep2u0qPjHkQ0RLkzrUX2h9Q==;XZUpgUPIPD1f77iC5g4HlQ=="

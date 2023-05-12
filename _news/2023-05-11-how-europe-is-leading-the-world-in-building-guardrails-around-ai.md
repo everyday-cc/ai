@@ -56,20 +56,6 @@ related:
         width: 1280
         height: 853
         isCached: true
-  - title: "The Global Battle to Regulate AI Is Just Beginning"
-    excerpt: "Europe’s parliament is struggling to agree on new rules to govern AI—showing how policymakers everywhere have a lot to learn about the technology."
-    publishedDateTime: 2023-05-08T06:00:00Z
-    webUrl: "https://www.wired.com/story/the-global-battle-to-regulate-ai-is-just-beginning/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 67
-    images:
-      - url: "https://media.wired.com/photos/645593587b25a434b1f3bc67/191:100/w_1280,c_limit/riskreward_biz_GettyImages-521951552.jpg"
-        width: 1280
-        height: 670
-        isCached: true
   - title: "How Europe is building artificial intelligence guardrails"
     excerpt: "Authorities around the world are racing to draw up rules for artificial intelligence, including in the European Union, where draft legislation faces a pivotal moment."
     publishedDateTime: 2023-05-11T06:38:00Z

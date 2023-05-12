@@ -73,6 +73,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Are Alternative Investment Firms Becoming Over-Reliant On AI To Solve Their Cyber Challenges?"
+    excerpt: "Organizations must strengthen their first line of defense by taking a more holistic approach to threat prevention."
+    publishedDateTime: 2023-05-12T10:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/12/are-alternative-investment-firms-becoming-over-reliant-on-ai-to-solve-their-cyber-challenges/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/12/are-alternative-investment-firms-becoming-over-reliant-on-ai-to-solve-their-cyber-challenges/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/05/12/are-alternative-investment-firms-becoming-over-reliant-on-ai-to-solve-their-cyber-challenges/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 76
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/645ce8924885ffd3982796e1/0x0.jpg?format=jpg&crop=2144,1206,x871,y0,safe&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Doctors are using AI to draft messages without telling patients"
     excerpt: "US healthcare organisations are trialling OpenAI’s GPT-3 for drafting clinician messages to patients. But not all patients are being informed and some AI researchers warn of errors creeping in"
     publishedDateTime: 2023-05-09T05:00:00Z
