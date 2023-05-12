@@ -38,6 +38,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI May Be on Its Way to Your Doctor's Office, But It's Not Ready to See Patients"
+    excerpt: "Few in healthcare believe this latest form of AI is about to take their jobs. The article was published on Friday, May 12, 2023 in. By Darius Tahir. What use co"
+    publishedDateTime: 2023-05-12T17:54:00Z
+    webUrl: "https://www.healthleadersmedia.com/technology/ai-may-be-its-way-your-doctors-office-its-not-ready-see-patients"
+    type: article
+    provider:
+      name: HealthLeaders Media
+      domain: healthleadersmedia.com
+    quality: 32
+    images:
+      - url: "https://www.healthleadersmedia.com/sites/hlmp/files/files/ehr_0.jpg"
+        width: 2732
+        height: 1200
+        isCached: true
 
 secured: "lvcFnzCu+v4uPD5aTPpFLAoNV6zJQb0L2pXqhrOGf+BamjtIYKyiDzGfGhufIpm3qr85jZcdXGP/YTYtv4KTv+UwtAeJNHzGFdA5nfUBeTxMNEPc3uv3phNLkKZcdrrxIsHJp3EigUmYkx4Qx2VgWw5JUbfgX8cYBSEO03hMNXzm/IG7d9r7qjbQPfBQIvEOIODAwdZekXN3/N3lWZ21rHuZCWUlADLWhoEJ1rEDKnF8TvaN/iiBM058deD1wgXBICBWIISQowJ0jjsrT70EG8wcLCw+hS/awLewBPM4X1HIUOsBaIu187PGobQw9yeIXUoaOXkdSpwfbjzxBkPrz2V8eFRID/890gVjYxef/zg=;iW1zFuJRMNoPq/f5sYCc+w=="
 ---

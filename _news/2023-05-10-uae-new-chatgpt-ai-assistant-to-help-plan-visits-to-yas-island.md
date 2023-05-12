@@ -71,43 +71,6 @@ related:
         width: 740
         height: 493
         isCached: true
-  - title: "How AI robots can affect Filipino domestic workers worldwide amid ChatGPT concerns"
-    excerpt: "The discussion of artificial intelligence and robots taking over human jobs has reached another point following a recent study revolving around unpaid domestic help."
-    publishedDateTime: 2023-05-09T07:30:00Z
-    webUrl: "https://www.philstar.com/lifestyle/on-the-radar/2023/05/09/2264997/how-ai-robots-can-affect-filipino-domestic-workers-worldwide-amid-chatgpt-concerns"
-    type: article
-    provider:
-      name: philstar.com
-      domain: philstar.com
-    quality: 48
-    images:
-      - url: "https://media.philstar.com/photos/2023/05/09/ofw2019-11-0921-24-08_2023-05-09_13-35-26.jpg"
-        width: 800
-        height: 494
-        isCached: true
-  - title: "Gartner: ChatGPT has prompted increase in AI investments"
-    excerpt: "A Gartner poll shows that 45% reported that the publicity of ChatGPT has prompted them to increase AI investments."
-    publishedDateTime: 2023-05-07T23:30:00Z
-    webUrl: "https://techwireasia.com/2023/05/gartner-chatgpt-has-prompted-increase-in-ai-investments/"
-    type: article
-    provider:
-      name: techwireasia.com
-      domain: techwireasia.com
-    quality: 39
-    images:
-      - url: "https://cdn.techwireasia.com/wp-content/uploads/2023/05/shutterstock_2261871805-897x500.jpg"
-        width: 897
-        height: 500
-        isCached: true
-  - title: "ChatGPT Fever Has Investors Pouring Billions Into AI Startups, No Business Plan Required"
-    excerpt: "It is boom times for startups touting generative artificial intelligence technology."
-    publishedDateTime: 2023-05-09T11:51:00Z
-    webUrl: "https://www.wsj.com/articles/no-business-plan-no-problem-chatgpt-spawns-an-investor-gold-rush-in-ai-6bdbed3c"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 38
   - title: "Torah is the anti-ChatGPT. But we can embrace artificial intelligence without losing our soul."
     excerpt: "I recently asked ChatGPT, the online chatbot, to write a verse in the style of the Bible about robots taking over the world."
     publishedDateTime: 2023-05-08T17:43:00Z
@@ -122,15 +85,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "In 30 secs, ChatGPT produces 643 words on India and AI; Edge manages just 143"
-    excerpt: "In the IANS New York office, we have been experimenting with chatbots and one of the tasks we set for the two as a test was to \"write a report"
-    publishedDateTime: 2023-05-08T12:55:00Z
-    webUrl: "https://glamsham.com/world/health-lifestyle/in-30-secs-chatgpt-produces-643-words-on-india-and-ai-edge-manages-just-143"
-    type: article
-    provider:
-      name: glamsham.com
-      domain: glamsham.com
-    quality: 16
 
 secured: "eZSpCP5eJISGfkio7vd89Kc6VrVbhAUbiO3QIxwQ86/8oXHbvtbrO20gMws6CqrwEjsts5BGHzYNfQ3L2VJwIXlIKpTJF9Be6BjXfJseN217WwnTcRBqZQi/wMTbSFa7HWQw+hTrHTaZsh4oRQI7usZg7RX82Ghcbxv32LegZMUHvOHUEc+Dg0rdZA/gBDoa/3qM7IqQUE0VHLO/CrvF/H2akoE1YzMs4PEbq0QRvE0FWQYQCGSaWoaubSHWNNgxSpuMqflS3SGdDwsXEuh24xFlZxz3X9eT1PIamhrswy3WK8kcWQbNrI6/y3BNocaQQja26r6iu2BKb8v1PVk/4GTuP3o4DoKLJ+v7lwwoIvw=;brzTJw1SNK7f5rx6bqMIAg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3695208/14-popular-ai-algorithms-a
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3695208/14-popular-ai-algorithms-and-their-uses.amp.html"
 type: article
 quality: 89
-heat: 109
+heat: 123
 published: true
 
 provider:
@@ -47,6 +47,17 @@ related:
         width: 1200
         height: 484
         isCached: true
+  - title: "New artificial intelligence algorithm for more accurate plant disease detection"
+    excerpt: "Every year, plant diseases caused by bacteria, viruses, and fungi contribute to major economic losses. The prompt detection of these diseases is necessary to curb their spread and mitigate agricultural damage,"
+    publishedDateTime: 2023-05-12T17:30:00Z
+    webUrl: "https://phys.org/news/2023-05-artificial-intelligence-algorithm-accurate-disease.html"
+    ampWebUrl: "https://phys.org/news/2023-05-artificial-intelligence-algorithm-accurate-disease.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-05-artificial-intelligence-algorithm-accurate-disease.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 35
   - title: "Chat GPT Compares Itself Against Base64.Ai's Powerful Document Processing AI And The Results Are Hilarious"
     excerpt: "AI facing each other Chat GPT is not suitable for documents. Chat GPT vs Base64.ai We asked if Chat GPT could replace all"
     publishedDateTime: 2023-05-09T10:58:00Z

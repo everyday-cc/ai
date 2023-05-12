@@ -57,6 +57,17 @@ related:
         width: 1200
         height: 484
         isCached: true
+  - title: "New artificial intelligence algorithm for more accurate plant disease detection"
+    excerpt: "Every year, plant diseases caused by bacteria, viruses, and fungi contribute to major economic losses. The prompt detection of these diseases is necessary to curb their spread and mitigate agricultural damage,"
+    publishedDateTime: 2023-05-12T17:30:00Z
+    webUrl: "https://phys.org/news/2023-05-artificial-intelligence-algorithm-accurate-disease.html"
+    ampWebUrl: "https://phys.org/news/2023-05-artificial-intelligence-algorithm-accurate-disease.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-05-artificial-intelligence-algorithm-accurate-disease.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 35
 
 secured: "ZNxDklBndkte+nuP2necV5Z3b1c4Gt8BNdW1EmgBYjHLjagL7pXAcrzSv4ZoHu3hftj+0nnfoJ9FM8MHOnNJnbfYo640VEFPuI9lOPHxafLc+SagYmy0xR8/ksF8QGYjw2H4ynJCCXisL7PkYGflwGk01VfPWX0R7U4zvoH3Yhm9HCommDn7DMXgtfbSKyA16a8vABJrx90BAT8DMJZLO/N40R2gYXHR1t8KREtuZFUFcDr5qKLjrrf8rOisGSDkWH9HZLrOPS3gmtPj8jssKNoCC8XvqCw9I3ge62t0Gu9JoUa3XMerJY/gMxuuyZoG1bTZEqTDYnZlZbd8aGt12UxGSuttY1PnkNeJV3Am1FS9vbiviGybXIkM/2FDemgvN5QFn72soSDuHemOmq0vWk4GvGMsgF2rIBdYNb8c9K1MZUabOHGXv0NjzkYzf+THfvb8TlKnpsK5H47+MgOYPWSGrr4PjbiXh1H2sYADW8Mb6E77qTH6wBjWLmYXIL15kpE2ZpxsKIzGUoRrZoWQOw==;5ZSytFB0kk+SdPLbX9hCIQ=="
 ---

@@ -1,22 +1,30 @@
 ---
 category: news
-title: "UK To Roll Out First Driverless Bus Service"
+title: "UK to roll out first driverless bus service"
 excerpt: "The UK will roll out its first driverless bus network in Scotland next week with drivers on standby behind the steering wheel, ready to take control should an emergency arise."
-publishedDateTime: 2023-05-11T19:09:00Z
-originalUrl: "https://www.barrons.com/news/uk-to-roll-out-first-driverless-bus-service-736a4108?refsec=topics_afp-news"
-webUrl: "https://www.barrons.com/news/uk-to-roll-out-first-driverless-bus-service-736a4108?refsec=topics_afp-news"
+publishedDateTime: 2023-05-11T20:13:00Z
+originalUrl: "https://techxplore.com/news/2023-05-uk-driverless-bus.html"
+webUrl: "https://techxplore.com/news/2023-05-uk-driverless-bus.html"
+ampWebUrl: "https://techxplore.com/news/2023-05-uk-driverless-bus.amp"
+cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-05-uk-driverless-bus.amp"
 type: article
-quality: 19
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Barron's
-  domain: barrons.com
+  name: techxplore
+  domain: techxplore.com
 
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/edinburgh.jpg"
+    width: 2880
+    height: 2030
+    isCached: true
 
 related:
   - title: "Autonomous or Driverless Cars Market Report Talks about Current Market Share 2023-2030"
@@ -108,6 +116,6 @@ related:
         height: 250
         isCached: true
 
-secured: "g2/23rB/Scg/nBNyK2zAAiJMT2LxrX7O0ulxfJ/SdIGOF+9h7X9pj1Kkl6cJ1+vES/AfcxfGBjAtWik+9q84+yTc/faRJKbdHEXkUswBNc06zhJdRDRFpf+dzsDKO+h+OrBE8fqqLP7wcPh7JOh7vQ4IRsd1nH/iCXweChRruXMNcJTxy923QMS+BE8zGIDVrBVk8f3H59MKAczBUaXNneaY8D1StNIERun+RF6QQR9WOT+m7LISTl3GzRIRHOuDEK/c1pg9uW8j+KLROwGPhcC29SL3t0NaazcdqfA2wDkD+VzGGu/P2wg+7vXaUkY7Hi66dpErERt0Ch7sXwKRNRXvztN9H/dSHSH4iDRw7dgGl72Eh0xoCDU5VmwIGU/6IXM5H0G7mqB30ZSUTDyL5IHyysD4D/ykU6GD+T7yI1jMUVcS1EKB972ahIOrKnDepFBajyD2702J11c+4HKDG+XXaYHMnwMT5Y2OaTmhpRzanXfITclUOaJkEA3U6zZb3cL0vZARE/EmbN5AT8sJGA==;w6cFGITA0RsKTr0LktZA5Q=="
+secured: "SKdtcAMknILaOxX9UsgUmHJU/qRGQ7nl6Olf8RJ0D1E9H+kiq1thdwS2tgLk+6bwcY5kLEfTZo9MiKm8DYZKfxRVwXGyPggmPDlxGsfoQe3IsSeSCSAxTu24Cu+OlTf+/gtU8hNKwFfGVx9m1gZNBXlAORzyw51zhZfA6PUn+mcooUPgHvy4UZDSu7UC/fyYKhoOioXGedc3tnPiHnHSVepQNbptbumEUBr+im9oyQQ/nkaWUiOUsDTFbOawBjNP7b9KBBA26g/hQQhLQBkInY0GjGsdpRSJqsSe5N6jSJ/vhYO3Q9WVpn3aeAJ+Z0vPKlBX4UG7BJ6hx1ULz/HSi6EO1oPjAaauA3IlBNM3JHE=;5ttIUXY2hpCN78ffOHPm2g=="
 ---
 

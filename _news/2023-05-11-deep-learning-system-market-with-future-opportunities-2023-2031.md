@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/deep-learning-system-mar
 webUrl: "https://www.marketwatch.com/press-release/deep-learning-system-market-with-future-opportunities-2023-2031-2023-05-10"
 type: article
 quality: 69
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -66,6 +66,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 34
+  - title: "Automated Machine Learning (AutoML) Market worth $6.4 billion by 2028 - Exclusive Report by MarketsandMarkets™"
+    excerpt: "The market for automated machine learning (AutoML) appears to have a bright future thanks to rising acceptance, technological breakthroughs, integration with other developing technologies, and an emphasis on customisation and personalization."
+    publishedDateTime: 2023-05-12T17:25:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-automated-machine-learning-automl-market-worth-64-billion-/2023/05/12/9813555.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 14
 
 secured: "vlvGuIv/KuFvycrhh13/0mbIiT30nnHNc06mTpsdexPQWip1d069BIR1M+SVLlkTPCP92Mmm1SyKuyMgdJ3VP9aipexyBkHXdk94MSvpWzkFK/tsRPfbLhENnLoGbiS/GQBnLe81SuRMZAA3ISFUXFZJHyhVZ5LvH92hQvgrtyTeYu8/IA49DLVRnQ+0L81d1OIjHsO6s3mHdSVzM4Ah9No3W1+DWS8cIw7WCa3g1bER7fDdSiPvnaiIz8onv53gwrArycYUn6PbP9JNxH/vSiHqx2leItIxQiBujAnY1p5wsIRsupFhK8XNeUsZZHllzhCcAfA8wz4CtOI2SGoBhEfS/jQHLnR8deIOw58zFx0=;2kj5DdalKaTTil7dZM/QQw=="
 ---

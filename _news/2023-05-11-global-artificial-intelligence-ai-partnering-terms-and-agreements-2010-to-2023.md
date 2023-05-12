@@ -1,18 +1,20 @@
 ---
 category: news
 title: "Global Artificial Intelligence (AI) Partnering Terms and Agreements 2010 to 2023"
-excerpt: "Partnering Terms and Agreements 2010 to 2023\" report has been added to ResearchAndMarkets.com's offering. The Global Artificial Intelligence (AI) Partnering Terms and Agreements 2010 to 2023 report provides an understanding and access to the artificial intelligence partnering deals and agreements entered into by the worlds leading healthcare companies."
-publishedDateTime: 2023-05-11T16:08:00Z
-originalUrl: "https://technews.tmcnet.com/news/2023/05/11/9812873.htm"
-webUrl: "https://technews.tmcnet.com/news/2023/05/11/9812873.htm"
+excerpt: "Partnering Terms and Agreements 2010 to 2023\" report has been added to ResearchAndMarkets.com's offering. The Global Artificial"
+publishedDateTime: 2023-05-11T16:00:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/23/05/n32345938/global-artificial-intelligence-ai-partnering-terms-and-agreements-2010-to-2023"
+webUrl: "https://www.benzinga.com/pressreleases/23/05/n32345938/global-artificial-intelligence-ai-partnering-terms-and-agreements-2010-to-2023"
+ampWebUrl: "https://www.benzinga.com/amp/content/32345938"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32345938"
 type: article
-quality: 29
+quality: 49
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Healthcare
@@ -159,20 +161,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Security Market, 2030"
-    excerpt: "The Global Artificial Intelligence in Security market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players,"
-    publishedDateTime: 2023-05-08T00:34:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-security-market-2030-2023-05-07"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 84
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "AI Accelerator Chip Market: Trend & Outlook by 2030"
     excerpt: "The Main Objective of The AI Accelerator Chip Market Is to Develop the Perspectives of Business Professionals and"
     publishedDateTime: 2023-05-09T03:57:00Z
@@ -271,15 +259,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) Chips Market, 2030"
-    excerpt: "Research Reports has published a new report titled as \" Artificial Intelligence (AI) Chips Market \" by End User ( Electronics, Automotive, Consumer Goods ), Types ( GPU, ASIC, FPGA, CPU ), Region and Global Forecast to 2023-2030 - Executive Data Report."
-    publishedDateTime: 2023-05-08T00:39:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-2030-2023-05-07"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 79
   - title: "2023 Healthcare Artificial Intelligence (AI) | Dynamic Report By 2030"
     excerpt: "The major players covered in the Healthcare Artificial Intelligence (AI) market report are: Get a sample copy of the Healthcare Artificial Intelligence (AI) Market report 2023 Healthcare Artificial Intelligence (AI) Marketsize,"
     publishedDateTime: 2023-05-10T11:17:00Z
@@ -743,15 +722,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 38
-  - title: "Voice Recognition Biometrics Market Research, 2030"
-    excerpt: "The Global Voice Recognition Biometrics market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players,"
-    publishedDateTime: 2023-05-08T00:51:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-biometrics-market-research-2030-2023-05-07"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 34
   - title: "Speech and Voice Recognition Market Research Findings to 2030"
     excerpt: "The 2023 Global Speech and Voice Recognition Market Survey aims to provide comprehensive insights into the industry,"
     publishedDateTime: 2023-05-09T08:00:00Z
@@ -762,6 +732,6 @@ related:
       domain: marketwatch.com
     quality: 34
 
-secured: "FXGS34p7YRBVcrM6P6OgNnYV6V8wukx8DxsdgeAKi+9NzyNDdJjXQtdeKExKOKkCKvf9qbNb3BhJ8/qdvgmQFyw6xNWNDOJMq/pZeKH8kPeK6pAQnEZf5InSi98Lhdg1ZzgxhcnqMq7ZzPj8NcaCwqX2pNLcYqkn/bXKj28MKc10DzxS10bxY54kCw5ynq4tXO869T1u1+t/H7NI9Mi+BmiJaaRodnNQtt2aUNC4vDE0jepqppmxkfJnKwtpvjavP7xmjZwzIthxJzE6CIzc60evqUVx5oGamSb4fafy32sJbq3w6XpeuvPeTrL+Mg28eqeJsBf7292EAP1g8CnxKWAW5kTgUM2oYHa8ZySxBug=;L62fpM/BdYFL0vgyHpbghg=="
+secured: "9KJHC0sK2ubU28fDdYhY1INYlKuPaYkofVceOgp05kg2BBUg20GJZx0gIIPNu8D7h18qRc3Th37GydVligrPz5wDulrFgjpSH9mLdniyrCCZAZsIKDIndEiC50dIp5tivsof2lHi2DaPXtA5lw8tz3IaiD2a/sg+pZDoAmti+3gO+uYScbybwZ1+catH0VYrEpbVweMaG7rUwnOiZdVvCNHarbRErg6HZGHyDPHStEKBoCWT384FtTD9/N0d8yGY6z8h10uF8WCkv17joq7PMPwK4sA45zByQLj+Cxz/JxmFNuEmALwpd9jpFsRhU5sFkaK+wAvMULKuWz8Gaz1SYoLhO6pS/A0kv3GVDpUx4X0=;YAaj/BdS34g0/sSi8LPW8g=="
 ---
 

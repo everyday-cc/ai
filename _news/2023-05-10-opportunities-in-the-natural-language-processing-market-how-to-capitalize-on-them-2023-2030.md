@@ -66,6 +66,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 34
+  - title: "Automated Machine Learning (AutoML) Market worth $6.4 billion by 2028 - Exclusive Report by MarketsandMarkets™"
+    excerpt: "The market for automated machine learning (AutoML) appears to have a bright future thanks to rising acceptance, technological breakthroughs, integration with other developing technologies, and an emphasis on customisation and personalization."
+    publishedDateTime: 2023-05-12T17:25:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-automated-machine-learning-automl-market-worth-64-billion-/2023/05/12/9813555.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 14
 
 secured: "SrPVUEnFuLP1YeV9stlFaijEWWm/d0vRjHXPtpuPo33zZ5MRCKLFOHAbkxFC+A5ncWcHpcBmb+MvXYatZHo0NIzWKfHx9z35qvG56gVUUElm544/egNiwv/ZiAhiYKWLQaWfXDflb1v7LCzx1YvvaUsJzQpUA/51TiXX/IKYTegf66UHhXR9E/6AtTohDaPGIYYpircC4Gwdo5uEZngASwRgnKk/mXFVKrN7rakQJLRvNN2XPJ1GScdDmeP3nh800nBd9kRo5vDPVjuqMNu3thwj7yo+FINLdQqhNMLnJOG7nC6xrGW7lk3jNq83bBwKYAJWNYuB9PJwcbYvmGtHkzEKWkzrE9vEH4VQX27NhOg=;+8mxLcxWe2X7e0szJTUzxA=="
 ---

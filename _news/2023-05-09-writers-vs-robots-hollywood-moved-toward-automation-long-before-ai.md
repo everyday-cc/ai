@@ -51,20 +51,6 @@ related:
         width: 1440
         height: 907
         isCached: true
-  - title: "10 startups bringing AI tech to Netflix, Lucasfilm, Marvel, and more Hollywood studios — and attracting millions in VC funding"
-    excerpt: "a London-based AI startup known for its Tom Cruise deepfakes. \"Over 10, 15 years, it'll touch every part of content creation.\" Vendors and investors told Insider that over time, AI tools will ..."
-    publishedDateTime: 2023-05-08T00:00:00Z
-    webUrl: "https://www.businessinsider.com/ai-startups-netflix-marvel-lucasfilm-holllywood-deepfake-dubbing-vc-funding-2023-3"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 39
-    images:
-      - url: "https://i.insider.com/640ac45b9ef79f00182879f7?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Striking Hollywood Writers Have Few Options to Stop AI Creep"
     excerpt: "Film and TV studios could replace striking writers with artificial intelligence bots, and there’s not much labor unions could do to stop it without language in a collective bargaining agreement."
     publishedDateTime: 2023-05-08T15:00:00Z

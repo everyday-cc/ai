@@ -175,20 +175,6 @@ related:
         width: 640
         height: 427
         isCached: true
-  - title: "Creating a Thai language AI tool"
-    excerpt: "Thai artificial intelligence (AI) engineers from public and private organisations have teamed up to develop a Thai-language generative AI-powered chatbot, expected to benefit several sectors from education to business."
-    publishedDateTime: 2023-05-07T23:43:00Z
-    webUrl: "https://www.bangkokpost.com/business/2565696/creating-a-thai-language-ai-tool"
-    type: article
-    provider:
-      name: Bangkok Post
-      domain: bangkokpost.com
-    quality: 41
-    images:
-      - url: "https://static.bangkokpost.com/media/content/dcx/2023/05/08/4747356_700.jpg"
-        width: 700
-        height: 468
-        isCached: true
   - title: "IBM launches new artificial intelligence and data platform"
     excerpt: "Watsonx could bring AI to more businesses IBM on Tuesday launched watsonx, a new artificial intelligence and data platform to help companies integrate AI in their business. The new AI platform launch comes over a decade after IBM's software called Watson got attention for winning the game show"
     publishedDateTime: 2023-05-10T10:45:00Z

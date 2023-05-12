@@ -173,20 +173,6 @@ related:
         width: 640
         height: 427
         isCached: true
-  - title: "Creating a Thai language AI tool"
-    excerpt: "Thai artificial intelligence (AI) engineers from public and private organisations have teamed up to develop a Thai-language generative AI-powered chatbot, expected to benefit several sectors from education to business."
-    publishedDateTime: 2023-05-07T23:43:00Z
-    webUrl: "https://www.bangkokpost.com/business/2565696/creating-a-thai-language-ai-tool"
-    type: article
-    provider:
-      name: Bangkok Post
-      domain: bangkokpost.com
-    quality: 41
-    images:
-      - url: "https://static.bangkokpost.com/media/content/dcx/2023/05/08/4747356_700.jpg"
-        width: 700
-        height: 468
-        isCached: true
   - title: "AI tools SMEs need to know about"
     excerpt: "While AI may seem scary, it’s also incredibly useful, and not just to show you the best way around load shedding traffic jams."
     publishedDateTime: 2023-05-10T04:54:00Z

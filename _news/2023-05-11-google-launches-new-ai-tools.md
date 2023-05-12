@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo173891653794"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo173891653794"
 type: article
 quality: 87
-heat: 287
+heat: 277
 published: true
 
 provider:
@@ -163,20 +163,6 @@ related:
       - url: "https://cdnph.upi.com/sv/ph/og/i/5801683738669/2023/1/16837809808912/v1.5/Google-shows-off-AI-advances-new-Pixel-devices-at-IO-developers-conference.jpg"
         width: 640
         height: 427
-        isCached: true
-  - title: "Creating a Thai language AI tool"
-    excerpt: "Thai artificial intelligence (AI) engineers from public and private organisations have teamed up to develop a Thai-language generative AI-powered chatbot, expected to benefit several sectors from education to business."
-    publishedDateTime: 2023-05-07T23:43:00Z
-    webUrl: "https://www.bangkokpost.com/business/2565696/creating-a-thai-language-ai-tool"
-    type: article
-    provider:
-      name: Bangkok Post
-      domain: bangkokpost.com
-    quality: 41
-    images:
-      - url: "https://static.bangkokpost.com/media/content/dcx/2023/05/08/4747356_700.jpg"
-        width: 700
-        height: 468
         isCached: true
   - title: "AI tools SMEs need to know about"
     excerpt: "While AI may seem scary, it’s also incredibly useful, and not just to show you the best way around load shedding traffic jams."

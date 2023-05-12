@@ -179,20 +179,6 @@ related:
         width: 640
         height: 427
         isCached: true
-  - title: "Creating a Thai language AI tool"
-    excerpt: "Thai artificial intelligence (AI) engineers from public and private organisations have teamed up to develop a Thai-language generative AI-powered chatbot, expected to benefit several sectors from education to business."
-    publishedDateTime: 2023-05-07T23:43:00Z
-    webUrl: "https://www.bangkokpost.com/business/2565696/creating-a-thai-language-ai-tool"
-    type: article
-    provider:
-      name: Bangkok Post
-      domain: bangkokpost.com
-    quality: 41
-    images:
-      - url: "https://static.bangkokpost.com/media/content/dcx/2023/05/08/4747356_700.jpg"
-        width: 700
-        height: 468
-        isCached: true
   - title: "AI tools SMEs need to know about"
     excerpt: "While AI may seem scary, it’s also incredibly useful, and not just to show you the best way around load shedding traffic jams."
     publishedDateTime: 2023-05-10T04:54:00Z
@@ -294,6 +280,6 @@ related:
       domain: ktla.com
     quality: 19
 
-secured: "/lHeS4xqOW3Tk8a5rStqQ8qmgKcNQNmisyAU1/Zm9fJUM394VVQDacJyXf0OV+pSjLYXoa+GdaVdc+ShfAvZZo806sZLWMk7Ohb1hVAkch5LiNGaC4WIrp6IIwTpcVXBfcT4rXz9QXKbRVLdYE7OaLektTiCM4zqeHrxrXOS31kBOSJjHM0Ppjoz7lWGoR2qJjyoQp7u0U3iYJ7MJcn40ZR5qrg3tvjZZztPZwvnxk0bmGch9NkmODI83veZzGh6b6pwKHogbm7sVAK4n96DZ0UKMVFJPdKYfqCorahMKGQyI7dolZEW+sypMdl6n6U5sP07+t86SuNAh14WljuQQgCQYsAFQyyRn+tu3LSeQGY=;QHXioncG/3YUtCfr5L7hJQ=="
+secured: "1QVWyavKEZ85JHNkIioGbllAXb8l52AhNrAEdukCz2CrUwF7Nr8RaifUrlliU4UYGsWGlZbb82ZoFhjt60TBXhV5TNNRyO417U0TMiBHM5WOzMGFiQpOVa0EXWVOX5v7eZa/dK26cw5HNSgv/wolHzNxdU/SGGjurWfDRche2TgbrR6ysX0wwNMdlFwBby3VgbNYWVJU+/izLN0VjIT86467s3oCl1/0+QDruYsm3ACKl3z2rajArnwkaWD+niEagIFfSi96ui67lvycecPuLYe+iTT09z5LRDUAvKTkw+Pzwz/vcsfZVZnOrSDKeng1amSEINK+Bl3/F07FDn6dLJlzS+JHNFITJbaR0RqpxQwss0nWCJvvh48Nlatuu8RNDJg34Ik800CFaDFlrzY56LLv+ZiKLWITdPnW6LEp1aXwzkvf9VGKZoocIA9vn28qqVFRN7B/+eXEB27MHFz9fJnaPy2tOUCNY45gHtk/0nQJ/Xp3ML0cNMJSuXvihpXm6Wh+cSGW7E9gVsfeZlTljQ==;12arwJ52cAhdu6K2rQZKlw=="
 ---
 

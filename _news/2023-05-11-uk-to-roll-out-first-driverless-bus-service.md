@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "UK to roll out first driverless bus service"
+    excerpt: "The UK will roll out its first driverless bus network in Scotland next week with drivers on standby behind the steering wheel, ready to take control should an emergency arise."
+    publishedDateTime: 2023-05-11T20:13:00Z
+    webUrl: "https://techxplore.com/news/2023-05-uk-driverless-bus.html"
+    ampWebUrl: "https://techxplore.com/news/2023-05-uk-driverless-bus.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-05-uk-driverless-bus.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 59
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/edinburgh.jpg"
+        width: 2880
+        height: 2030
+        isCached: true
   - title: "UK's First Driverless Bus Service To Begin In Scotland Next Week"
     excerpt: "The UK will roll out its first driverless bus network in Scotland next week with drivers on standby behind the steering wheel, ready to take control should an emergency arise."
     publishedDateTime: 2023-05-11T17:07:00Z
@@ -99,15 +115,6 @@ related:
         width: 444
         height: 250
         isCached: true
-  - title: "UK To Roll Out First Driverless Bus Service"
-    excerpt: "The UK will roll out its first driverless bus network in Scotland next week with drivers on standby behind the steering wheel, ready to take control should an emergency arise."
-    publishedDateTime: 2023-05-11T19:09:00Z
-    webUrl: "https://www.barrons.com/news/uk-to-roll-out-first-driverless-bus-service-736a4108?refsec=topics_afp-news"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 19
 
 secured: "h3wApDfEHd0ORFhhjhn/MGZ9PdMF6ehpNfN0guDpAHg8c9wXDhVvQg5/JYr3mN1prUv6zxUygM/KH3HqP4sDbEnypjmo9MSHguqi6V/GHrXmVfTZLemtTNZqer9zHcBCaiFic4ilDJZo7mfyA9QJIDZBpjrn7KDsEbAM9sCBX5ngWLmzZdf8Hjwj8lTdr+2ZzsldHnc3xMlEcmkNsfTG5nyvNSfOkolyTVurU6k/aUc+eqll2poZhdfdQyiKc5i9vRPaixIjLw+Lf+uIfvjhKNyAOfcy9pEude/AZ4gAYYUuYIecjPA6FzFfjV9xPKnDsx1e/fZDmfmp6WS3T7Ug+X8Gqyj2hP2312RkN40gW+f9FDoXmOZdZltpACLG2keqiGuLeHEjst3G2Qm2LDQfzYMqFpIMPINvKkA5zpRUn2A6qpMvIQmypNXl5GfQ15iAHo5oXKDtYcDsN/9seB8KkjhIXBlWKA0DlgMqG/qAn9frk1WaKKq+6FlZpPsR6v2h3eDV2vGqXD6tpVBIrOT2Tw==;nN58doDrsmpCMa9YmRUcUQ=="
 ---

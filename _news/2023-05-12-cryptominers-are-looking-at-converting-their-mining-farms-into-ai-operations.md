@@ -69,6 +69,20 @@ related:
         width: 620
         height: 349
         isCached: true
+  - title: "Your Crypto Mining Chips Are No Good for AI—Here’s Why"
+    excerpt: "Proof-of-work coins and AI models have different tastes when it comes to GPUs, and cryptocurrency miners can’t satisfy them both."
+    publishedDateTime: 2023-05-11T21:07:00Z
+    webUrl: "https://decrypt.co/139825/crypto-mining-chips-ai-heres-why"
+    type: article
+    provider:
+      name: decrypt
+      domain: decrypt.co
+    quality: 54
+    images:
+      - url: "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/05/jaldps_photorealistic_render_of_A_split_screen_depicting_Crypto_3d21b049-a1f3-4937-8873-c649f450eae9-gID_7.png@png"
+        width: 1024
+        height: 512
+        isCached: true
   - title: "Cryptominers hope they can find a second life by turning their mining operations into AI farms"
     excerpt: "According to Bloomberg (opens in new tab), some crypto mining companies have pivoted their business towards high-performance computing (HPC) services for customers working with AI"
     publishedDateTime: 2023-05-11T20:53:00Z

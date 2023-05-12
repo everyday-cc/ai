@@ -9,8 +9,8 @@ ampWebUrl: "https://www.businessinsider.com/generative-ai-around-the-world-matur
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/generative-ai-around-the-world-maturity-opportunities-key-hurdles-2023-may?amp"
 type: article
 quality: 75
-heat: -1
-published: false
+heat: 115
+published: true
 
 provider:
   name: Business Insider
@@ -30,36 +30,29 @@ images:
     isCached: true
 
 related:
-  - title: "ChatGPT and the new AI are wreaking havoc on cybersecurity in exciting and frightening ways"
-    excerpt: "Unrestrained by ethics or law, cybercriminals are racing to use AI to find innovative new hacks, says Recorded Future CEO Christopher Ahlberg."
-    publishedDateTime: 2023-05-08T00:09:00Z
-    webUrl: "https://www.zdnet.com/article/chatgpt-and-the-new-ai-are-wreaking-havoc-on-cybersecurity/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/chatgpt-and-the-new-ai-are-wreaking-havoc-on-cybersecurity/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/chatgpt-and-the-new-ai-are-wreaking-havoc-on-cybersecurity/"
+  - title: "How AI robots can affect Filipino domestic workers worldwide amid ChatGPT concerns"
+    excerpt: "The discussion of artificial intelligence and robots taking over human jobs has reached another point following a recent study revolving around unpaid domestic help."
+    publishedDateTime: 2023-05-09T07:30:00Z
+    webUrl: "https://www.philstar.com/lifestyle/on-the-radar/2023/05/09/2264997/how-ai-robots-can-affect-filipino-domestic-workers-worldwide-amid-chatgpt-concerns"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 77
+      name: philstar.com
+      domain: philstar.com
+    quality: 48
     images:
-      - url: "https://www.zdnet.com/a/img/resize/0f069f7582c82f625117f92909ccd4f7bb840cdf/2023/05/07/0c2625f3-8f61-483b-8cbb-b39dfadd09fe/alhberg-recorded-future.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://media.philstar.com/photos/2023/05/09/ofw2019-11-0921-24-08_2023-05-09_13-35-26.jpg"
+        width: 800
+        height: 494
         isCached: true
-  - title: "Cybersecurity faces a challenge from artificial intelligence’s rise"
-    excerpt: "Many veteran security professionals deride what they call “security by obscurity,” where targets plan on surviving hacking attempts by hiding what programs they depend on or how those programs work. Such a defense is often arrived at not by design but as a convenient justification for not replacing older, specialized software."
-    publishedDateTime: 2023-05-11T11:00:00Z
-    webUrl: "https://www.washingtonpost.com/technology/2023/05/11/hacking-ai-cybersecurity-future/"
+  - title: "ChatGPT Fever Has Investors Pouring Billions Into AI Startups, No Business Plan Required"
+    excerpt: "It is boom times for startups touting generative artificial intelligence technology."
+    publishedDateTime: 2023-05-09T11:51:00Z
+    webUrl: "https://www.wsj.com/articles/no-business-plan-no-problem-chatgpt-spawns-an-investor-gold-rush-in-ai-6bdbed3c"
     type: article
     provider:
-      name: The Washington Post
-      domain: washingtonpost.com
-    quality: 37
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/G7R756IPWQ5AV6I2OVSD6FZ65Q.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 38
   - title: "ChatGPT and Generative AI Around the World: Maturity, Opportunities, and Hurdles in Key Regions"
     excerpt: "ChatGPT has received a lot of press since its November 2022 launch. But while interest in the tool is high, its use is not yet universal."
     publishedDateTime: 2023-05-11T17:01:00Z
@@ -69,6 +62,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 35
+  - title: "In 30 secs, ChatGPT produces 643 words on India and AI; Edge manages just 143"
+    excerpt: "In the IANS New York office, we have been experimenting with chatbots and one of the tasks we set for the two as a test was to \"write a report"
+    publishedDateTime: 2023-05-08T12:55:00Z
+    webUrl: "https://glamsham.com/world/health-lifestyle/in-30-secs-chatgpt-produces-643-words-on-india-and-ai-edge-manages-just-143"
+    type: article
+    provider:
+      name: glamsham.com
+      domain: glamsham.com
+    quality: 16
 
 secured: "25NqeVTRrajPCc8kHWn7VgO5TFO8EoeVyLB0PSZ9yAzULtOl6+FNRXY8lSmVObKTLrJmDgtUYy6AyIIIEKUJKqT1FR+N2WstQshGXH0qrAcVAWp/U8qHbtnLdXs7pZ2576E+/VCXTJ4pOXbxC03F1Mrp1bZe85w7t8Bh6jX3UWniIO4cXxl0QGWit1OOHmWgdFDn3uUGJ6plPx41tmIcHLPqvu6nsBLVzxofWHQUAzqfXCoYwzPy1DxO9kq2Z74NrehCxtgjPKb/BmzBh8G+Y8ztfxDqnZtkWm+guoItq9OcTXW2xn1ASUGPWA7mWL5Uch5+ku/jys7VAkb8NpJeiIpkTM1BquPhjZGG4VHajCs=;0SzDrpJUXsLx0TH6V/JLwg=="
 ---

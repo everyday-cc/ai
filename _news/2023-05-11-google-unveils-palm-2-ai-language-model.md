@@ -95,6 +95,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "How to Sign Up for Google Search Labs And Access New AI-Driven Search Tools"
+    excerpt: "Among the more notable announcements from Google I/O, the search giant's annual developer conference, was the news that the public could now test out its new AI-driven search tools, which are being housed on Search Labs."
+    publishedDateTime: 2023-05-12T16:13:00Z
+    webUrl: "https://www.cnet.com/tech/computing/how-to-sign-up-for-google-search-labs-and-access-new-ai-driven-search-tools/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/how-to-sign-up-for-google-search-labs-and-access-new-ai-driven-search-tools/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/how-to-sign-up-for-google-search-labs-and-access-new-ai-driven-search-tools/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 85
+    images:
+      - url: "https://www.cnet.com/a/img/resize/45757153ae157d44b9bae8ae1e2ba6af86bac55a/hub/2023/05/11/3a878f9f-21cd-451b-ae9a-0d7ed8121e23/gettyimages-1230722138.jpg?auto=webp&fit=crop&height=630&width=1200"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Researcher uses artificial intelligence to discover new materials for advanced computing"
     excerpt: "A team of researchers led by Rensselaer Polytechnic Institute's Trevor David Rhone, assistant professor in the Department of Physics, Applied Physics, and Astronomy, has identified novel van der Waals (vdW) magnets using cutting-edge tools in artificial intelligence (AI)."
     publishedDateTime: 2023-05-11T21:07:00Z

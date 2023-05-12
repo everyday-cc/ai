@@ -21,19 +21,35 @@ topics:
   - AI
 
 related:
-  - title: "Teachers Need PD on Artificial Intelligence. What It Should Look Like"
-    excerpt: "Artificial intelligence technologies replicate human-like intelligence by training machines and computer systems to do tasks that simulate some of what the human brain can do. It relies on systems that can actually learn,"
-    publishedDateTime: 2023-05-10T02:01:00Z
-    webUrl: "https://www.edweek.org/leadership/teachers-need-pd-on-artificial-intelligence-what-it-should-look-like/2023/04"
+  - title: "Opinion: To understand AI's problems, look at the shortcuts taken to create it"
+    excerpt: "A machine can only \"do whatever we know how to order it to perform,\" wrote the 19th-century computing pioneer Ada Lovelace. This reassuring statement was made in relation to Charles Babbage's description of the first mechanical computer."
+    publishedDateTime: 2023-05-12T16:42:00Z
+    webUrl: "https://techxplore.com/news/2023-05-opinion-ai-problems-shortcuts.html"
+    ampWebUrl: "https://techxplore.com/news/2023-05-opinion-ai-problems-shortcuts.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-05-opinion-ai-problems-shortcuts.amp"
     type: article
     provider:
-      name: Education Week
-      domain: edweek.org
-    quality: 39
+      name: techxplore
+      domain: techxplore.com
+    quality: 55
     images:
-      - url: "https://epe.brightspotcdn.com/dims4/default/abfefeb/2147483647/strip/true/crop/1720x1150+0+0/resize/942x630!/quality/90/?url=https%3A%2F%2Fepe-brightspot.s3.amazonaws.com%2F15%2F8d%2F3f24eb114899af5e7f75721aec41%2F050423-edtech-teacher-pd-fs-langreo.jpg"
-        width: 942
-        height: 630
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/to-understand-ais-prob.jpg"
+        width: 1356
+        height: 668
+        isCached: true
+  - title: "Opinion: Artificial Intelligence Is Here — Friend, Foe or Both? – Inside Sources"
+    excerpt: "Artificial intelligence, known as AI, has had pride of place on the worry list for several weeks. Its arrival was trumpeted for a long time, including by the government and by techies across the board."
+    publishedDateTime: 2023-05-08T07:07:00Z
+    webUrl: "https://prescottenews.com/index.php/2023/05/08/opinion-artificial-intelligence-is-here-friend-foe-or-both-inside-sources/"
+    type: article
+    provider:
+      name: Prescott eNews
+      domain: prescottenews.com
+    quality: 34
+    images:
+      - url: "https://prescottenews.com/wp-content/uploads/2023/05/bigstock-Ai-Artificial-Intelligence.jpg"
+        width: 300
+        height: 300
         isCached: true
 
 secured: "8LUNYxtKdbUrZOpsp3vSBYsw98YffV7sEbVq8IFgyv4EjnsBFaibCk4Q7qSKtH0ps8oqZLkanf/HIc63AbAMUPyS1d49EmM4vatgQp8Zikmvf/KT+Yty89kRK5WIoFH85w04nvQ/VljzhvK0H32FBT1nnEJkuDlA0XIZYcS/kwX9dbYerhhZYlDf1Oh1HnyIrkn/wtL4oxj6BqJSHLlR1ynhdQCViaIA7ksWWwYo3WNnrZ2O5yYcErj46yQkZqNKU5t87FlY5ekxtbJvmgEhASdK7WFqDw50o9YsATmk5jozy8Ac2gdyC36+wktFvVCqvjhsRKg07Tlxz0JqPV57iIU09ifIuVsYSOyxpytOIpH1pboYtffZVw/M4sPY13cSwwdxctoAm3g2NH4CuBolkCiHL0X2djlTEdRYd9O4jGSW7P56WO2yyMTxMr7DqsEWFWPFswfUpxEwcjCtkmamn+06Dwnvd7iJAjdQoImcMLQEd4sMjaber1XiTbns+JRo/Vpw0+r1zjvUy/w5G3cpyw==;WCLxhyxPsdJ45Gd7DUnOaQ=="
