@@ -1,20 +1,18 @@
 ---
 category: news
 title: "Global Artificial Intelligence (AI) Partnering Terms and Agreements 2010 to 2023"
-excerpt: "Partnering Terms and Agreements 2010 to 2023\" report has been added to ResearchAndMarkets.com's offering. The Global Artificial"
-publishedDateTime: 2023-05-11T16:00:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/05/n32345938/global-artificial-intelligence-ai-partnering-terms-and-agreements-2010-to-2023"
-webUrl: "https://www.benzinga.com/pressreleases/23/05/n32345938/global-artificial-intelligence-ai-partnering-terms-and-agreements-2010-to-2023"
-ampWebUrl: "https://www.benzinga.com/amp/content/32345938"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32345938"
+excerpt: "Partnering Terms and Agreements 2010 to 2023\" report has been added to ResearchAndMarkets.com's offering. The Global Artificial Intelligence (AI) Partnering Terms and Agreements 2010 to 2023 report provides an understanding and access to the artificial intelligence partnering deals and agreements entered into by the worlds leading healthcare companies."
+publishedDateTime: 2023-05-11T16:08:00Z
+originalUrl: "https://technews.tmcnet.com/news/2023/05/11/9812873.htm"
+webUrl: "https://technews.tmcnet.com/news/2023/05/11/9812873.htm"
 type: article
-quality: 49
+quality: 29
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Healthcare
@@ -389,6 +387,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Computer Vision Software Market Research, 2030"
+    excerpt: "Precision Reports has published a new report titled as \" Computer Vision Software Market \" by End User ( Automotive, Electronics and Semiconductor, Glass, Metals, Wood and Paper, Food and Packaging, Others ),"
+    publishedDateTime: 2023-05-10T21:21:00Z
+    webUrl: "https://www.marketwatch.com/press-release/computer-vision-software-market-research-2030-2023-05-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Machine Learning 2023 Market Size, Historical Growth, Analysis up to 2030"
     excerpt: "The key players in the Machine Learning market include global distribution system (GDS) providers, such as These companies are typically the largest or most prominent players in the industry, and they may have significant market share,"
     publishedDateTime: 2023-05-10T13:14:00Z
@@ -750,6 +762,6 @@ related:
       domain: marketwatch.com
     quality: 34
 
-secured: "ugBXq4YqQ0/d/nCOAMRHAAv3qjnLwqt9dxmzlqg1s/psTryzyDeG7R4cXPJy+CX6CqyWh9e1/NTZaAgFm106efzitAWY16xjYDZLs9+TT+/BICnsEqMjt1RguPffXiZwQfNDfutuILvncKJXoAExYK59YePyDWEDYI6sc/DhB22yCGGOPfypYdZJXK6IJBz19Y29vUNtA7jypSS7jBfdSy5KYWiD0jHfd4b/JV5OTZSEJqOK0Tc/GDQr2Bwpi58rnfgLXdBuKzegd1MNJtIspgqRUzcXtoZSuZhDQR/0IAqVCZv8JnPDtXdSQNw2QkyT5fza+bu7eh15pvYLyHR2NVhU9V+gyMTIedNKq3Wklhc=;JF1kYtZDTqCvHx+jYyy15Q=="
+secured: "FXGS34p7YRBVcrM6P6OgNnYV6V8wukx8DxsdgeAKi+9NzyNDdJjXQtdeKExKOKkCKvf9qbNb3BhJ8/qdvgmQFyw6xNWNDOJMq/pZeKH8kPeK6pAQnEZf5InSi98Lhdg1ZzgxhcnqMq7ZzPj8NcaCwqX2pNLcYqkn/bXKj28MKc10DzxS10bxY54kCw5ynq4tXO869T1u1+t/H7NI9Mi+BmiJaaRodnNQtt2aUNC4vDE0jepqppmxkfJnKwtpvjavP7xmjZwzIthxJzE6CIzc60evqUVx5oGamSb4fafy32sJbq3w6XpeuvPeTrL+Mg28eqeJsBf7292EAP1g8CnxKWAW5kTgUM2oYHa8ZySxBug=;L62fpM/BdYFL0vgyHpbghg=="
 ---
 

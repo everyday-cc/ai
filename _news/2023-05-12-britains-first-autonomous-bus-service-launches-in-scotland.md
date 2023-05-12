@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Britain's first autonomous bus service launches in Scotland"
+title: "Britain’s first autonomous bus service launches in Scotland"
 excerpt: "The UK has celebrated the launch of its first driverless bus service, operated by Stagecoach. The start of the pilot programme was marked by a journey on the service between Ferry Toll near Inverkeithing,"
-publishedDateTime: 2023-05-12T11:09:00Z
-originalUrl: "https://eandt.theiet.org/content/articles/2023/05/britains-first-autonomous-bus-service-launches-in-scotland/"
-webUrl: "https://eandt.theiet.org/content/articles/2023/05/britains-first-autonomous-bus-service-launches-in-scotland/"
+publishedDateTime: 2023-05-12T13:16:00Z
+originalUrl: "https://eandt.theiet.org/content/articles/2023/05/britain-s-first-autonomous-bus-service-launches-in-scotland/"
+webUrl: "https://eandt.theiet.org/content/articles/2023/05/britain-s-first-autonomous-bus-service-launches-in-scotland/"
 type: article
-quality: 39
+quality: 19
 heat: -1
 published: false
 
@@ -17,12 +17,6 @@ provider:
 topics:
   - AI in Autos
   - AI
-
-images:
-  - url: "https://eandt.theiet.org/media/21406/autonomous-bus-1.jpg?crop=0,0.36166666666666669,0,0.14614583333333328&cropmode=percentage&width=1200&height=450&rnd=133283620740000000"
-    width: 1200
-    height: 450
-    isCached: true
 
 related:
   - title: "Scotland set to debut UK's first self-driving bus next week"
@@ -40,6 +34,22 @@ related:
       - url: "https://www.thenews.com.pk/assets/uploads/updates/2023-05-12/1069301_022208_updates.jpg"
         width: 700
         height: 400
+        isCached: true
+  - title: "UK Launches its First Self-Driving Bus Service"
+    excerpt: "Scotland will launch its first driverless bus network. According to the details, the buses will run without any input from the drivers."
+    publishedDateTime: 2023-05-12T13:55:00Z
+    webUrl: "https://propakistani.pk/2023/05/12/uk-launches-its-first-self-driving-bus-service/"
+    ampWebUrl: "https://propakistani.pk/2023/05/12/uk-launches-its-first-self-driving-bus-service/amp/"
+    cdnAmpWebUrl: "https://propakistani-pk.cdn.ampproject.org/c/s/propakistani.pk/2023/05/12/uk-launches-its-first-self-driving-bus-service/amp/"
+    type: article
+    provider:
+      name: ProPakistani
+      domain: propakistani.pk
+    quality: 44
+    images:
+      - url: "https://propakistani.pk/wp-content/uploads/2023/05/Autonomous-Bus-e1683895957688.jpg"
+        width: 1000
+        height: 560
         isCached: true
   - title: "'World first' self-driving buses ready for roads in Scotland"
     excerpt: "A full size, self-driving bus service is ready to take to the roads of Scotland in what is believed to be a world first. The Stagecoach autonomous bus service, AB1, is launching for passengers over the Forth Road Bridge on 15 May. The 14-mile route runs between Ferrytoll park-and-ride in Fife and Edinburgh Park train and tram interchange."
@@ -74,6 +84,6 @@ related:
       domain: itv.com
     quality: 4
 
-secured: "y4cCFCXOTDRAqMT4Fh7aMyo7MkUYDvIJKPMZgoYu6lbwTCtdJgVuKsABQNTvMtDAd3Io3dxHhTLorGNW7rTKJnVc9ulvfAbioIjRsFGIJAK7PZgGZtlvAUEVXtMORuovW6GeLzjKxmsiSMVvPQhlHTMV7g+iO5TV4CHYgsh05xKEr+4/EPSx9VM1ZlX/mfcaB/8DOHPJFUBE8gfhzzZ0y4Ih/3+LTqYhhnlNKNioQ3GwiZCHmoVheSse4DgO9W4bYOCXUCmEhqZufW6HxJxdECiFDX257wfPogfT5k45EPzfiyB9MuTE+6MV+TpEp0Hc1NpeN6eo5fp0RuPZdjSMwPjPSMFDywkzie4XpaJH9tM=;n4JKXa4+/48sCg+qC/fqdg=="
+secured: "z1azIjcgC4xkdaWbzNQwgjITZzv4XRS210NYX9KMiOvHZAvbywCULTa4Ad4NP+NOQKBRigI9yrE60noeyDMJGexX30BP7PWkLDujKjNbFnOnKCOocK5CWTadY/wJAZVL1IYQ2aLxSXWYuBeKGitOt0enp09/pUlFKKn8vGbVZFCoZ4TmpuM0PjAWQR7DboJWjV5L0K/n92jTawOZGSYsGycyAD5j4kOltyiwwAJF7F5u5S54j4n85tWgYqoPBtwQiM1BsOsDbGx7qTfMTrKtM/9QUNIwNekt0yAVrK/fAhJE7TVXKNJAY8Lqm1onvg4OCN49yzlTBZD17pa7urnZr9XvYw4o1Awvbv5PrRuEzUF6NS9fYnc1Pv+LK5ik3sHDiADCdaXgNclB8QfgtidDic5XTm3DhOhkqzk6lTKwRLji1dMip6h7otDCV1k5L9O/CK1p8GfT+Zp+aIEkBkqtCC0YWns3PNSg6uD+6T6gnBwdb+iJReCISOeZ8de8yOw8pdLBT4tydNjwe2Hl2OYHOw==;vXkuSk15Q73PprRoX1BCQA=="
 ---
 

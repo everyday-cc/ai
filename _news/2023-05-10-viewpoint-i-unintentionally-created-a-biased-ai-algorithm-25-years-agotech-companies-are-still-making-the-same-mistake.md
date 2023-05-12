@@ -36,6 +36,15 @@ related:
       name: The Grio
       domain: thegrio.com
     quality: 1
+  - title: "I unintentionally created a biased AI algorithm 25 years ago, and tech companies haven’t learned from my mistake"
+    excerpt: "How and why do well-educated, well-intentioned scientists produce biased AI systems? Sociological theories of privilege provide one useful lens."
+    publishedDateTime: 2023-05-12T04:03:00Z
+    webUrl: "https://www.fastcompany.com/90895218/i-unintentionally-created-a-biased-ai-algorithm-25-years-ago-and-tech-companies-havent-learned-from-my-mistake"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 0
 
 secured: "yAzKkQS4nSBhRCTPVjtrdDnPZhm4a90Vk3V0nQzapvM1AiqOMEdps4AfI7eFhhcOyaDxrolGvIInVhGGv+4mS5OtkilFFvwAjR+Bsf2++nluHEuTkKoDeK2NQOmTmGe4j8PviJXw/nN9P1kY+rVsDZ1aCiThH7UkfbaRLUAH7DOf90Wgibk+ZsFPFx11ywV/1+yw8K0VJ4bYhviBEOrJEUeKklYEjbzJnHWjJzQBqexjnmn31Q2uucp7Uq1MEUwDqcSr7C0+M3tI4AUsE4hQzgwYRGRVATuPo2olYa8A0BA5cYX6LUMNOkjV1RrUqir+Pf73x6S8uchpGuzvJDJnwXYhUrQKCFGaz+kCuSlJgugGtO5WjGEkvdlLhDqTCBQbsvzwtFfjvB4KNgIrMWHhU5LIsnM9UxpyPE1D4D9yKjcxWXhNZd+6i8nymhPNVkFPDlmS/pTxoYD7iLrVB6oHMkEW0OGTYRrxV0QwCK19QyRIgZgXpD4KreYHXMpUtzbtlkJ3XlfIlk1WhPHnU4yE0A==;6il8bK2eV8WROXinN9za9g=="
 ---

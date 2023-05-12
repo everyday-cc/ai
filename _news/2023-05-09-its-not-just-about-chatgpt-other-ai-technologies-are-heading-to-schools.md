@@ -87,6 +87,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "edX Debuts Two AI-Powered Learning Assistants Built on ChatGPT"
+    excerpt: "X plugin launches in ChatGPT plugin store to give users access to content and course discovery edX Xpert delivers AI-powered learning and"
+    publishedDateTime: 2023-05-12T14:14:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/edx-debuts-two-ai-powered-learning-assistants-built-on-chatgpt-1032322930"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
   - title: "I asked AI bot ChatGPT to write a column on happiness. Here’s what happened next"
     excerpt: "I had to find out for myself. So I conducted a little experiment. I asked ChatGPT to write an article for me. I submitted the prompt, “Write a 500-word column on happiness.” That’s a broad, overworked topic,"
     publishedDateTime: 2023-05-08T21:21:00Z

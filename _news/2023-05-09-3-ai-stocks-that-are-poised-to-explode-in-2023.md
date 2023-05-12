@@ -67,6 +67,17 @@ related:
         width: 600
         height: 400
         isCached: true
+  - title: "ServiceNow to Acquire Artificial Intelligence Powered Platform G2K to Transform Retail and Beyond"
+    excerpt: "ServiceNow to add G2K's smart IoT technology to the Now Platform, enabling businesses to intelligently action digital and in-store data with enterprise-grade workflows ServiceNow (NYSE:NOW), the leadi"
+    publishedDateTime: 2023-05-12T12:30:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/05/b32362868/servicenow-to-acquire-artificial-intelligence-powered-platform-g2k-to-transform-retail-and-beyond"
+    ampWebUrl: "https://www.benzinga.com/amp/content/32362868"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32362868"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 41
 
 secured: "T4hDkK8JKPjUUqitamExMbj8nkHq9TlajPjaz0uTst3rsqDXN4h2rvMeutu5Kl2rDPGj5gCQ5AE5XTFbch5rcZwk/bw/XbGqVfJiA8l6p5Bhq0tdmZmdztB+AwunkG7zycBq49UP/LgBjK/W4R1vmzc8Jub9vcuPltRj9B7NG7RQ45otgmp2TMji8on3WgLFFBXtYy3mn1wt+3J0hb0Scw/RBqyBKw2IFwGHThPBBq9IQCAEBgHwika8F+wzvhfcoJItSf1F3Opw5f4F8HKOT/HcXj3A0TO3LpX6gwjtUJI++0eTpmEFZiFe2/Y7qS81pxRXbYtgcm5NQXwDf8mQ7Svz419yqKB4kbVOfqdwGW0ohOsbv04UxkIpMeX0vHfYMoheQiclySJf4rex2kB26Xrt7ahUWkBNLmysiujH0WRY+1xKJeplTgOdzda5zuFjoMq96qffqHuekvLiborqaQmFaMOAmu6BfmrcP+QLfC0nAnLqXJkHIQCWJEm8kuLi97FNRwqU43l5i0GJtX63/Q==;giIdnag9x19kQgC3vcO3NQ=="
 ---

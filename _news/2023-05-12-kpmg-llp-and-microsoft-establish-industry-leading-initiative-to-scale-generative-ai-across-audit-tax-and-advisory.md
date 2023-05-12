@@ -1,28 +1,26 @@
 ---
 category: news
 title: "KPMG LLP AND MICROSOFT ESTABLISH INDUSTRY-LEADING INITIATIVE TO SCALE GENERATIVE AI ACROSS AUDIT, TAX AND ADVISORY"
-excerpt: "Companies co-invest to deliver generative AI solutions for Audit, Tax and Advisory U.S. clients; KPMG deploys Microsoft OpenAI capabilities across its internal platforms ; Collabo"
-publishedDateTime: 2023-05-11T19:12:00Z
-originalUrl: "https://technews.tmcnet.com/news/2023/05/11/9812975.htm"
-webUrl: "https://technews.tmcnet.com/news/2023/05/11/9812975.htm"
+excerpt: "KPMG LLP AND MICROSOFT ESTABLISH INDUSTRY-LEADING INITIATIVE TO SCALE GENERATIVE AI ACROSS AUDIT, TAX AND ADVISORY May 11, 2023 (PRNewswire via COMTEX) --"
+publishedDateTime: 2023-05-11T18:50:00Z
+originalUrl: "https://www.marketwatch.com/press-release/kpmg-llp-and-microsoft-establish-industry-leading-initiative-to-scale-generative-ai-across-audit-tax-and-advisory-2023-05-11"
+webUrl: "https://www.marketwatch.com/press-release/kpmg-llp-and-microsoft-establish-industry-leading-initiative-to-scale-generative-ai-across-audit-tax-and-advisory-2023-05-11"
 type: article
-quality: 32
+quality: 42
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Microsoft AI
   - AI
-
-images:
-  - url: "https://mma.prnewswire.com/media/624145/KPMG_Corporate_Finance_logo.jpg"
-    width: 400
-    height: 295
-    isCached: true
 
 related:
   - title: "AMP Robotics attracts investment from Microsoft’s Climate Innovation Fund"
@@ -296,6 +294,15 @@ related:
         width: 900
         height: 600
         isCached: true
+  - title: "Google Fights Back Against Microsoft With New AI Search Capabilities"
+    excerpt: "Google CEO Sundar Pichai has announced that the AI chatbot Bard is open to all, AI is coming to almost all Google products and new search experiences are on the way"
+    publishedDateTime: 2023-05-12T12:35:00Z
+    webUrl: "https://www.forbes.com/sites/qai/2023/05/12/google-fights-back-against-microsoft-with-new-ai-search-capabilities/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 64
   - title: "MakeMyTrip partners with Microsoft for voice-based travel bookings in Indian languages with AI"
     excerpt: "MakeMyTrip announced a partnership with Microsoft on Monday to bring voice-assisted booking in Indian languages using Generative AI to make travel planning easier. Read on to learn more."
     publishedDateTime: 2023-05-09T12:43:00Z
@@ -499,6 +506,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "TpR6ITSJgNEv9tZo+yiFnqoEKUEi9YmOzW42TKsHX6cn5+pbjjj8es32xBcT7dZvUgJCz/nL3EVJSHsSMPOQuVgpmec8lOtmbUcO8EifPBaZDWnNFmufsYJN5j9V6REtSBawBcCF4jvdGPNXkCm3soy7x19yLm2mfOxbHJQVsiBMhjiT6ZrbUmNyipd/lYSkRxzSR+jvD24I5+0jIhDr51sCnwwJ5XNct4BfUUmy3HP91e2FqKbcWzszDAlnygFY3A4xLMlnUOquWpOrC8lWuRTC/9D6Hn+JvE/R0vHB87aWYkB9hwCwqZQSCr6d5zBxzZhAWLHYj3TKnpF2yHOYYX6N4jnNMrImOBbWSa6nUWI=;PSX2pS8SV5ZC4FY/3scZkA=="
+secured: "yyv061yCHRGyj915zykJTdMhCCLDU6nagxg7oykygP00iowBbdtENqYQdj/fRNmG0GbnxM9Jd6yc1Fc6nDAGBVliTkZWTSM9x0ouvuqmk2M6QHcyWmUCYVL4aEv85WnXKzgl2T4Ge0c7DzwltzEH9guEGU96u3d+Boy44SDnvTqw8PTjxzLpvCAZYcGrcri5HaE6HNled3yvK1JlK1npYuts4qMBK0IkFuRzuwxzLBqWnsU9MNptz9FhUM4O6ZlDvt+UYYpPn3Y3w0nMW0B8ZcZGimvVZcLcnMi+o5FffT3bllgNhZOvkX7J0oIPixV03/ltsAikvsKkRQ7M1sgWFOQ4H+afoO+KNWGY/l4UoF8=;vXNc/zsR6K1Agbdvts90zA=="
 ---
 

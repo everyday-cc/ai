@@ -48,6 +48,17 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 38
+  - title: "Altered Indigenous voice to parliament out of question, says inquiry"
+    excerpt: "Australians will be asked to vote for an Indigenous voice to parliament and “executive government” after a Labor-dominated parliamentary committee endorsed Anthony Albanese’s proposed constitutional amendment without change,"
+    publishedDateTime: 2023-05-12T14:48:00Z
+    webUrl: "https://www.theaustralian.com.au/nation/politics/parliamentary-committees-one-recommendation-on-voice-constitutional-alteration-should-pass-unamended/news-story/129fa934b0cd1413cadb7cf495eff000"
+    ampWebUrl: "https://www.theaustralian.com.au/nation/politics/parliamentary-committees-one-recommendation-on-voice-constitutional-alteration-should-pass-unamended/news-story/129fa934b0cd1413cadb7cf495eff000?amp"
+    cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/nation/politics/parliamentary-committees-one-recommendation-on-voice-constitutional-alteration-should-pass-unamended/news-story/129fa934b0cd1413cadb7cf495eff000?amp"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 24
 
 secured: "gGE45JLq3ANdeWuKrXH5lCfy/mDpbA0NjO1ZnagN8pcK1wiynXfitxwvFz+0Burp2aNDSmghfo9c1E7IRAv/Hkd+w1Ay5KuP2ns/ujmLnWy42z4YD46MKT4hGmzPLyS9vGSnYOFQ4xj6Yql5TjCHmrF6V6j71LOgewYa09PusfZUc0F7wrB0Au3wdm6GNXGOvXfF6d6QoBX0LTz6e4Eb58FuMHnds4DxYJKj5Hay7B/g0gARrgoqgLkJX9TfqAnVacSBYkrqIxZzBhiVXMOMI+Km2lyzFXBnGB5xGYy2fzlvnFTYnlALvSNd/OjxUVSc2oXjZyqn/OjjIaI9YJ+CberSSXgXIeLT591IPICgijigb+uHZM5GErNdblEgLFWz4V6a/+npbmbOO+ox331RZMh8PEmjhEGyqLRiSc9uieoFAnJk4g/tM3wkwwMp9v6fFRtwUCVIczx+bIEA+TUpiki5vNO7UHq9ilaqdd3K3TLnJGgiw7TIWz0lKTz9jgKsJwMI5hOL8YtgKAA9/NWnOw==;8meikdLLBINhkbtDPCP2NQ=="
 ---

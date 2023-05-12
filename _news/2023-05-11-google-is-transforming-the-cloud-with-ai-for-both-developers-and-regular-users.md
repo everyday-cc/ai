@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/google-is-transforming-the-cloud-with-ai-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/google-is-transforming-the-cloud-with-ai-for-both-developers-and-regular-users/amp/"
 type: article
 quality: 82
-heat: 112
+heat: 102
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "The AI boom is reshaping the cloud business"
-    excerpt: "To support generative AI models, AWS, Microsoft and Google Cloud are investing in infrastructure and maneuvering to manage cost."
-    publishedDateTime: 2023-05-08T21:01:00Z
-    webUrl: "https://www.ciodive.com/news/AWS-Microsoft-Google-cloud-infrastructure-AI-ML-compute/649712/"
-    type: article
-    provider:
-      name: CIO Dive
-      domain: ciodive.com
-    quality: 41
-    images:
-      - url: "https://www.ciodive.com/imgproxy/ArdjKqH_M6Qda4q_61cVhQAyFro4BqPoZNqLfAFdujU/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTgwMjMyMDgzNl9yV0VrMjI5LmpwZw.jpg"
-        width: 770
-        height: 435
-        isCached: true
   - title: "AI is coming to the Play Store to help both users and devs"
     excerpt: "Like so many of the announcements during this year’s Google I/O, AI has been the star of the show and it’s turning up in almost everything. The Play Store is taking part in the action with its own set of new features,"
     publishedDateTime: 2023-05-10T19:32:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/the-natural-language-pro
 webUrl: "https://www.marketwatch.com/press-release/the-natural-language-processing-nlp-software-market-is-poised-to-experience-huge-growth-to-2023-2023-05-09"
 type: article
 quality: 71
-heat: 101
+heat: 111
 published: true
 
 provider:
@@ -66,6 +66,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Natural Language Processing (NLP) Market To See Huge Growth By 2030 | Dolbey Systems, Google LLC"
+    excerpt: "Coherent Market Insights recently published a research titled \"natural language processing (nlp) market 2023\" that offers details for both the regional and worldwide markets and forecasts trends between 2023 and 2030."
+    publishedDateTime: 2023-05-12T13:24:00Z
+    webUrl: "https://menafn.com/1106233138/Natural-Language-Processing-NLP-Market-To-See-Huge-Growth-By-2030-Dolbey-Systems-Google-LLC"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 21
 
 secured: "+AF21O+BEYH0Xjqp2BCESbYENqLw3HUEeTy/Q0dw9LHgyfbLQrbFPsrazFQQM2dUI5o4f5f2WT5NnFK11Qvq3VGD93oQbUmsobaoPQRX/8NCOt3kbU7gi+DuuwCH+X7CynTRh9H1MipFFhOEVsaxTptZvhKWWFXLlnbgGC+apDArIvGS8Y+KuuzZOv8c+mKeehubfa5fZUtJjiWtQpVm7tH6wPUSCWUEhLLyOxgiOsSl9M1mjrTZy7mgSNkDOkJWXYlUWx6BVws5vnx5gPHRq7zh8nL4MlRtzWJy10Hu71afX5zVmTeoSt1kJHb++lTDXIIo9nuJ0m/enLGZzbFi+nRgz98U9I3L8tBOuu1TI0c=;dNHEsKJPlP4YsN3uJ5boJw=="
 ---

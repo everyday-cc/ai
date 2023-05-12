@@ -2,6 +2,449 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2023-05-07-rise-of-ai-also-raises-demand-for-creative-skills.md",
+      "title": "Rise Of AI Also Raises Demand For Creative Skills",
+      "excerpt": "Taking the robot out of the human and allowing humans to do what humans do best - strategic thinking, empathy and building authentic relationships'",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/joemckendrick/2023/05/07/rise-of-ai-also-raises-demand-for-creative-skills/",
+      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2023/05/07/rise-of-ai-also-raises-demand-for-creative-skills/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6457c5f1daba20bec8bf9d2d/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2023/05/07/rise-of-ai-also-raises-demand-for-creative-skills/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/05/07/rise-of-ai-also-raises-demand-for-creative-skills/amp/",
+      "publishedDateTime": "2023-05-07T09:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-07-the-rise-of-the-machines-assessing-the-ethical-risks-of-machine-learning-and-ai.md",
+      "title": "The Rise of the Machines: Assessing The Ethical Risks of Machine Learning And AI",
+      "excerpt": "As the world progresses towards digitalization, more people are adopting Artificial Intelligence (AI). The pandemic has accelerated this adoption. There are predictions that computers and robots will become more",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/readersblog/anawrites98/the-rise-of-the-machines-assessing-the-ethical-risks-of-machine-learning-and-ai-2-53549/",
+      "originalUrl": "https://timesofindia.indiatimes.com/readersblog/anawrites98/the-rise-of-the-machines-assessing-the-ethical-risks-of-machine-learning-and-ai-2-53549/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/photo/75476733.cms",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-07T08:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2023-05-07-a-mayday-call-for-artificial-intelligence.md",
+      "title": "A mayday call for artificial intelligence",
+      "excerpt": "Was Geoffrey Hinton's (the \"godfather of AI\") resignation from Google on May Day a true mayday signal for where AI is headed?",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/a-mayday-call-for-artificial-intelligence/",
+      "originalUrl": "https://venturebeat.com/ai/a-mayday-call-for-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/05/annevb_yelling_into_the_darkness_for_help._Mayday._colorful_tec_0a36545d-071c-43e1-8b42-cc2ee04e5099.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/a-mayday-call-for-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/a-mayday-call-for-artificial-intelligence/amp/",
+      "publishedDateTime": "2023-05-07T08:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-05-07-hitting-the-books-why-a-dartmouth-professor-coined-the-term-artificial-intelligence.md",
+      "title": "Hitting the Books: Why a Dartmouth professor coined the term 'artificial intelligence'",
+      "excerpt": "In their new book, professors Chris Wiggins and Matthew L Jones examine how data acts as the lifeblood of modern society, shaping everything from our political views and social mores to our military responses and economic activities.",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/hitting-the-books-how-data-happened-wiggins-jones-ww-norton-143036972.html",
+      "originalUrl": "https://www.engadget.com/hitting-the-books-how-data-happened-wiggins-jones-ww-norton-143036972.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/kT7TqEq5Jq_eUSqgPTyzGw--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-04/9d192850-e876-11ed-bbf5-7cb8e2e645df.cf.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/hitting-the-books-how-data-happened-wiggins-jones-ww-norton-143036972.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/hitting-the-books-how-data-happened-wiggins-jones-ww-norton-143036972.html",
+      "publishedDateTime": "2023-05-07T08:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-07-ai-pioneer-geoffrey-hinton-outlines-4-dangers-of-artificial-intelligence.md",
+      "title": "AI pioneer Geoffrey Hinton outlines 4 dangers of artificial intelligence",
+      "excerpt": "The “Godfather of artificial intelligence” has changed his mind about whether AI can become smarter than humans.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tampabay.com/news/business/2023/05/07/ai-pioneer-geoffrey-hinton-outlines-4-dangers-artificial-intelligence/",
+      "originalUrl": "https://www.tampabay.com/news/business/2023/05/07/ai-pioneer-geoffrey-hinton-outlines-4-dangers-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tampabay.com/resizer/Ex5xkonKhkVd-9caaUA6LmErs2I=/1200x675/smart/cloudfront-us-east-1.images.arcpublishing.com/tbt/XLO7HHPWM3NDI5NC5D6FR3OQJA.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.tampabay.com/news/business/2023/05/07/ai-pioneer-geoffrey-hinton-outlines-4-dangers-artificial-intelligence/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-tampabay-com.cdn.ampproject.org/c/s/www.tampabay.com/news/business/2023/05/07/ai-pioneer-geoffrey-hinton-outlines-4-dangers-artificial-intelligence/?outputType=amp",
+      "publishedDateTime": "2023-05-07T07:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Tampa Bay Times",
+        "domain": "tampabay.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-05-07-how-will-we-know-when-artificial-intelligence-has-become-sentient.md",
+      "title": "How Will We Know When Artificial Intelligence Has Become Sentient?",
+      "excerpt": "Artificial intelligence research has accelerated in recent years, and people are interacting with AI more frequently. In-home AI assistants and self-driving cars were once things out of science fiction",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/finance/how-will-we-know-when-artificial-intelligence-has-become/451129",
+      "originalUrl": "https://www.entrepreneur.com/finance/how-will-we-know-when-artificial-intelligence-has-become/451129",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/providers/due/hero-image-due-451129.jpeg",
+          "width": 1024,
+          "height": 573,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-07T06:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Autos",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-05-07-us-sanctions-drive-chinese-firms-to-advance-ai-without-latest-chips.md",
+      "title": "U.S. Sanctions Drive Chinese Firms to Advance AI Without Latest Chips",
+      "excerpt": "Chinese companies racing to catch up with American AI leaders get creative as U.S. sanctions cut them off from the most advanced chips.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/u-s-sanctions-drive-chinese-firms-to-advance-ai-without-latest-chips-f6aed67f",
+      "originalUrl": "https://www.wsj.com/articles/u-s-sanctions-drive-chinese-firms-to-advance-ai-without-latest-chips-f6aed67f",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 194,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-776300/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-07T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-07-ai-courses-what-it-is-how-it-works-and-benefits.md",
+      "title": "AI Courses: What It Is, How It Works And Benefits",
+      "excerpt": "What Is An AI Course? Artificial intelligence or AI is no longer restricted to the world of science-fiction or movies, in fact AI is something which we are dealing with on an everyday basis. Whether it is solving your queries via live chat bots or chatting with Siri or Alexa,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/advisor/in/education/artificial-intelligence-courses/",
+      "originalUrl": "https://www.forbes.com/advisor/in/education/artificial-intelligence-courses/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/x/https://www.forbes.com/advisor/in/wp-content/uploads/2023/04/marvin-meyer-SYTO3xs06fU-unsplash-Cropped.jpg",
+          "width": 960,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-07T02:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-07-is-artificial-intelligence-good-for-education.md",
+      "title": "Is artificial intelligence good for education?",
+      "excerpt": "This past week, a student called me to request an interview for an assignment. The topic was artificial intelligence and its effect on the ivory tower.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtontimes.com/news/2023/may/6/is-artificial-intelligence-good-for-education/",
+      "originalUrl": "https://www.washingtontimes.com/news/2023/may/6/is-artificial-intelligence-good-for-education/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://twt-thumbs.washtimes.com/media/image/2023/05/06/B1-PIPE-Lost-Soul-GG_c0-919-2200-2202_s1200x700.jpg?2a1a00f04a42eeed57795a4a2b6f93f474d49a53",
+          "width": 1200,
+          "height": 700,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.washingtontimes.com/news/2023/may/6/is-artificial-intelligence-good-for-education/",
+      "cdnAmpWebUrl": "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2023/may/6/is-artificial-intelligence-good-for-education/",
+      "publishedDateTime": "2023-05-06T15:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Times",
+        "domain": "washingtontimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
       "path": "_news/2023-05-07-3-robotics-stocks-to-buy-for-futuristic-growth-potential.md",
       "title": "3 Robotics Stocks to Buy for Futuristic Growth Potential",
       "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The robot revolution is well underway and only growing in size and scope.",
@@ -772,446 +1215,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-06-what-are-apples-plans-for-generative-ai-tim-cook-wants-to-be-thoughtful.md",
-      "title": "What are Apple’s plans for generative AI? Tim Cook wants to be ‘thoughtful’",
-      "excerpt": "Apple CEO Tim Cook didn't talk specifics, but noted the company will continue to include generative AI and AI overall in its products.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/apple-plans-generative-ai-tim-cook-wants-to-be-thoughtful/",
-      "originalUrl": "https://venturebeat.com/ai/apple-plans-generative-ai-tim-cook-wants-to-be-thoughtful/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/12/static.reuters.com_-3.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 677,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/apple-plans-generative-ai-tim-cook-wants-to-be-thoughtful/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/apple-plans-generative-ai-tim-cook-wants-to-be-thoughtful/amp/",
-      "publishedDateTime": "2023-05-05T13:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-06-navan-is-leveraging-generative-ai-to-help-companies-cut-costs.md",
-      "title": "Navan Is Leveraging Generative AI To Help Companies Cut Costs",
-      "excerpt": "The travel and expense management solution has expanded the capabilities of its AI-driven virtual assistant, Ava, to optimize travel and expense management for businesses.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johanmoreno/2023/05/05/navan-is-leveraging-generative-ai-to-help-companies-cut-costs/",
-      "originalUrl": "https://www.forbes.com/sites/johanmoreno/2023/05/05/navan-is-leveraging-generative-ai-to-help-companies-cut-costs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6455606519524744e09c02fa/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johanmoreno/2023/05/05/navan-is-leveraging-generative-ai-to-help-companies-cut-costs/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2023/05/05/navan-is-leveraging-generative-ai-to-help-companies-cut-costs/amp/",
-      "publishedDateTime": "2023-05-05T13:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-06-how-microsoft-might-turn-bing-chat-into-your-ai-personal-assistant.md",
-      "title": "How Microsoft might turn Bing Chat into your AI personal assistant",
-      "excerpt": "Commentary: After analyzing recent Microsoft developer content, expert Simon Bisson says there is a big clue into how Bing Chat will work.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/microsoft-bing-chat-ai-personal-assistant/",
-      "originalUrl": "https://www.techrepublic.com/article/microsoft-bing-chat-ai-personal-assistant/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 446,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/wp-content/uploads/2023/02/microsoft-bing-openai-gguy.jpeg",
-          "width": 1400,
-          "height": 934,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/article/microsoft-bing-chat-ai-personal-assistant/amp/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/microsoft-bing-chat-ai-personal-assistant/amp/",
-      "publishedDateTime": "2023-05-05T12:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-05-06-chatgpt-and-generative-ai-in-payments-reality-hype-whats-next-and-how-to-prepare.md",
-      "title": "ChatGPT and Generative AI in Payments: Reality, Hype, What's Next, and How to Prepare",
-      "excerpt": "ChatGPT is the most talked-about technology of 2023 and has caught the attention of payments services providers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/chatgpt-and-generative-ai-in-payments-hype-how-to-prepare-2023-may",
-      "originalUrl": "https://www.businessinsider.com/chatgpt-and-generative-ai-in-payments-hype-how-to-prepare-2023-may",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 170,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/64414647632fda001803ccf4?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/chatgpt-and-generative-ai-in-payments-hype-how-to-prepare-2023-may?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-and-generative-ai-in-payments-hype-how-to-prepare-2023-may?amp",
-      "publishedDateTime": "2023-05-05T11:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-06-techcrunch-roundup-ai-ethics-investor-survey-b2b-saas-kpis-dont-frown-on-down-rounds.md",
-      "title": "TechCrunch+ roundup: AI ethics investor survey, B2B SaaS KPIs, don’t frown on down rounds",
-      "excerpt": "Because AI requires human input, it is inherently susceptible to bias. What are investors doing to hold founders accountable?",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/05/05/techcrunch-roundup-ai-ethics-investor-survey-b2b-saas-kpis-dont-frown-on-down-rounds/",
-      "originalUrl": "https://techcrunch.com/2023/05/05/techcrunch-roundup-ai-ethics-investor-survey-b2b-saas-kpis-dont-frown-on-down-rounds/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-05T10:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-06-biden-administration-takes-action-to-promote-responsible-ai-innovation.md",
-      "title": "Biden administration takes action to promote responsible AI innovation",
-      "excerpt": "The Biden administration pushes responsible AI with R&D investment, policymaking, and assessments of current generative AI systems.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/biden-administration-takes-action-to-promote-responsible-ai-innovation/",
-      "originalUrl": "https://venturebeat.com/ai/biden-administration-takes-action-to-promote-responsible-ai-innovation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/04/annevb_chatbots_and_AI_everywhere_all_at_once_-_tech_colorful_e_beb92de9-8091-4437-9e29-d568ea8d4b74.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/biden-administration-takes-action-to-promote-responsible-ai-innovation/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/biden-administration-takes-action-to-promote-responsible-ai-innovation/amp/",
-      "publishedDateTime": "2023-05-05T10:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-05-build-an-image-search-engine-with-amazon-kendra-and-amazon-rekognition.md",
-      "title": "Build an image search engine with Amazon Kendra and Amazon Rekognition",
-      "excerpt": "In this post, we discuss a machine learning (ML) solution for complex image searches using Amazon Kendra and Amazon Rekognition. Specifically, we use the example of architecture diagrams for complex images due to their incorporation of numerous different visual icons and text. With the internet, searching",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-an-image-search-engine-with-amazon-kendra-and-amazon-rekognition/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-an-image-search-engine-with-amazon-kendra-and-amazon-rekognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/05/05/image-search-kendra-rekognition.jpg",
-          "width": 958,
-          "height": 477,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-05T09:45:46-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2023-05-05-meta-hires-ai-team-of-uk-chip-unicorn-graphcore.md",
-      "title": "Meta hires AI team of UK chip unicorn Graphcore",
-      "excerpt": "Meta has hired UK chip unicorn Graphcore's Oslo-based team that was working on AI networking technology till late last year. The chip startup shuttered its Oslo office as part of its restructuring plans announced in October 2022,",
-      "sourceUrl": null,
-      "webUrl": "https://inshorts.com/en/news/meta-hires-ai-team-of-uk-chip-unicorn-graphcore-1683303868650",
-      "originalUrl": "https://inshorts.com/en/news/meta-hires-ai-team-of-uk-chip-unicorn-graphcore-1683303868650",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2023/05_may/5_fri/img_1683298262597_763.jpg?",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://inshorts.com/m/en/amp_news/meta-hires-ai-team-of-uk-chip-unicorn-graphcore-1683303868650",
-      "cdnAmpWebUrl": "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/meta-hires-ai-team-of-uk-chip-unicorn-graphcore-1683303868650",
-      "publishedDateTime": "2023-05-05T09:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Inshorts",
-        "domain": "inshorts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-05-idvv-announces-artificial-intelligence-ai-client-in-medical-sector.md",
-      "title": "IDVV Announces Artificial Intelligence (AI) Client In Medical Sector",
-      "excerpt": "LAS VEGAS, NV / ACCESSWIRE / May 5, 2023 / International Endeavors Corporation 'IEC' (OTC PINK:IDVV) announced that its AI division WITech has",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/idvv-announces-artificial-intelligence-ai-client-in-medical-sector-1032298117",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/idvv-announces-artificial-intelligence-ai-client-in-medical-sector-1032298117",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-05T09:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/autonomous-or-driverless
 webUrl: "https://www.marketwatch.com/press-release/autonomous-or-driverless-cars-market-report-talks-about-current-market-share-2023-2030-2023-05-11"
 type: article
 quality: 61
-heat: 111
+heat: 121
 published: true
 
 provider:
@@ -60,6 +60,20 @@ related:
       - url: "https://c.ndtvimg.com/2023-02/lc9brad_e-bus-generic-_625x300_17_February_23.jpg"
         width: 650
         height: 400
+        isCached: true
+  - title: "SWOT Analysis of the Autonomous or Driverless Cars Market Include Top Manufacturers Analysis 2023-2030"
+    excerpt: "Pre and Post-Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and"
+    publishedDateTime: 2023-05-09T18:52:00Z
+    webUrl: "https://www.marketwatch.com/press-release/swot-analysis-of-the-autonomous-or-driverless-cars-market-include-top-manufacturers-analysis-2023-2030-2023-05-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 53
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Driverless buses to start running next week"
     excerpt: "In a UK first, Stagecoach will begin using driverless buses on services across the Forth Road Bridge from 15 May. The route will be 14 miles long in total from the Ferrytoll Park and Ride in Fife"

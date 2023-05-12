@@ -66,6 +66,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 64
+  - title: "Natural Language Processing (NLP) Market To See Huge Growth By 2030 | Dolbey Systems, Google LLC"
+    excerpt: "Coherent Market Insights recently published a research titled \"natural language processing (nlp) market 2023\" that offers details for both the regional and worldwide markets and forecasts trends between 2023 and 2030."
+    publishedDateTime: 2023-05-12T13:24:00Z
+    webUrl: "https://menafn.com/1106233138/Natural-Language-Processing-NLP-Market-To-See-Huge-Growth-By-2030-Dolbey-Systems-Google-LLC"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 21
 
 secured: "T+wBcGgPoUGhVYOVatQvQdlm7KxwZRa8RBlBEsBzmpjGY+2wxg3h5H7Hvv8XW5DAeOjWpK6M7xB9xddC0EVyKWg4/kRjrLPqaW55jA/xNIpIHHBQSAtYb/eTKxllLIIOt5xspvkKAI5BCYfED8NuavZBsq9jBb/Lz5EDvu3uLb5yUHgZTcNlin5tBJVNuUMxegFN2RBRBR01XSbut2w3mgFCQVNxBwJXHxQHXlaAXczNpjrJLTnOvRyNRD69WIDHCwDV+TCGzIBA0hdIzlpMv1uUeXSOMAoqXt0JRHVWjRZAG/1vS2hNJlyAlVvtli5SVxCfkKXYvKEMW1Ke9W4W6CAE/hAH4vEVj/nU4twXqsw=;9846s4jFwuYzAthuDBaLow=="
 ---

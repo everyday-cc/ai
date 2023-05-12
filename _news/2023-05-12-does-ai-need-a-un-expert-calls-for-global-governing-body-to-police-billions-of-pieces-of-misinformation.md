@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/tech/ai-un-expert-calls-global-governing-bod
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/ai-un-expert-calls-global-governing-body-police-billions-pieces-misinformation.amp"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -45,20 +45,6 @@ related:
       - url: "https://enterprisetalk.com/wp-content/uploads/2023/05/Informatica-Unveils-Expanded-Industry-Focus-and-Zero-Cost-Data-Pipelines-and-Transformations-with-AWS.jpg"
         width: 1500
         height: 844
-        isCached: true
-  - title: "Informatica Announces Expanded Industry Focus and Zero Cost Data Pipelines and Transformations with AWS"
-    excerpt: "Informatica, an enterprise cloud data management leader, built upon their years-long relationship with Amazon Web"
-    publishedDateTime: 2023-05-11T14:59:00Z
-    webUrl: "https://www.datanami.com/this-just-in/informatica-announces-expanded-industry-focus-and-zero-cost-data-pipelines-and-transformations-with-aws/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 23
-    images:
-      - url: "https://www.datanami.com/wp-content/uploads/2023/02/AI-North-America23.png"
-        width: 1664
-        height: 674
         isCached: true
 
 secured: "LhOyZEFi/itj8AY0rn5JEP07YfLnl3GqIHwF6UP3Z6fAOSbe+rJpjYcB0Hj6Tb3mJUPycfDSc7QBatMJCIwlQzOwU6RNgje7b1+A9lN13POicK/5mWUOeUSaS3NTF4V+VU7VQxwvfZDxVB2cPxUsl2Xbm7sBJSlxx6wbSsXq8Ft8/3280u0mUIwSZAW2elZBA7JimQY8rUk7sEdYRRi+bfyvELzV+i0qgfOXwHIul3coKDkLp1jaahggtbNfcihSfQLy1g0etlq/uDkMf/W+BBdOx9idgaSjbltVylNE5fR0MXSCNEQ0o+ggg4kRo1KK6BWmCibuRzSgxv3GXu73+ozH9W3FPOEp7KKILD+6afad13fNZZKWOL6hEvt5oENa2Ea0GA2fktkoi8p1aAoRmo810OWLhnBO3dGmRqeIRdLMsqI9usNXeAepFqf+V/mkb56azCv8rl6kSk7JdPj2dfquq2sP5k2jsHgXuBamEillTY74Plrn6MtFmUkyxgzA8iahjzYpuTeYb8ZxeMQ4/g==;QaH1tFcMcFZgDuM6SCNtDw=="

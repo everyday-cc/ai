@@ -2,6 +2,349 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-05-09-3-ways-bud-light-disaster-ends-kamalas-artificial-intelligence-problem-and-more-fox-news-opinion.md",
+      "title": "3 ways Bud Light disaster ends, Kamala's artificial intelligence problem and more Fox News Opinion",
+      "excerpt": "Read the latest Fox News Opinion columns and watch videos from Sean Hannity, Laura Ingraham, Jesse Watters and more.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/opinion/bud-light-disaster-kamalas-artificial-intelligence-problem",
+      "originalUrl": "https://www.foxnews.com/opinion/bud-light-disaster-kamalas-artificial-intelligence-problem",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a0eb906b-3d83-408e-af92-173cd16e6f43/e0b9d36a-9913-4c2b-8fd2-eb2167427d91/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/opinion/bud-light-disaster-kamalas-artificial-intelligence-problem.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/bud-light-disaster-kamalas-artificial-intelligence-problem.amp",
+      "publishedDateTime": "2023-05-09T08:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-09-why-are-patients-turning-to-artificial-intelligence-chatbots-for-medical-advice.md",
+      "title": "Why are patients turning to artificial intelligence chatbots for medical advice?",
+      "excerpt": "The future of medicine may have arrived sooner than expected, with patients turning to artificial intelligence (AI) chatbots for medical advice.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/baltimore/news/patients-chatbots-johns-hopkins-medical-artificial-intelligence/",
+      "originalUrl": "https://www.cbsnews.com/baltimore/news/patients-chatbots-johns-hopkins-medical-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/04/24/c4999830-60ba-4f2c-8a27-e425e120b9de/thumbnail/1200x630/3456dcd79d8e3d3aa1bf1afe24daefdd/gettyimages-1158779006.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/baltimore/news/patients-chatbots-johns-hopkins-medical-artificial-intelligence/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/baltimore/news/patients-chatbots-johns-hopkins-medical-artificial-intelligence/",
+      "publishedDateTime": "2023-05-09T08:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-05-09-the-ai-revolution-transforming-hybrid-and-remote-work-and-the-return-to-office.md",
+      "title": "The AI Revolution Transforming Hybrid And Remote Work And The Return To Office",
+      "excerpt": "With the advent of generative AI like ChatGPT, we are on the cusp of realizing the full potential of remote and hybrid work by reducing - while not eliminating - the benefits of office visits.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/glebtsipursky/2023/05/09/the-ai-revolution-transforming-hybrid-and-remote-work-and-the-return-to-office/",
+      "originalUrl": "https://www.forbes.com/sites/glebtsipursky/2023/05/09/the-ai-revolution-transforming-hybrid-and-remote-work-and-the-return-to-office/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/645a5c605e5c27c4782796df/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/glebtsipursky/2023/05/09/the-ai-revolution-transforming-hybrid-and-remote-work-and-the-return-to-office/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glebtsipursky/2023/05/09/the-ai-revolution-transforming-hybrid-and-remote-work-and-the-return-to-office/amp/",
+      "publishedDateTime": "2023-05-09T07:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2023-05-09-how-to-use-craiyon-ai-formerly-known-as-dall-e-mini.md",
+      "title": "How to use Craiyon AI (formerly known as DALL-E mini)",
+      "excerpt": "The free web version of Craiyon will generate art, drawings, and photos from your text descriptions. There's also a Craiyon Android app.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/how-to-use-craiyon-ai-formerly-known-as-dall-e-mini/",
+      "originalUrl": "https://www.zdnet.com/article/how-to-use-craiyon-ai-formerly-known-as-dall-e-mini/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/34852bdb59340a3dd04bbaebf348bd73e92b6f83/2023/05/08/f6b999d1-6e29-426a-b7cf-c5aaecbd0f50/figure-top-2-how-to-use-craiyon-ai-to-create-amazing-images-1.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/how-to-use-craiyon-ai-formerly-known-as-dall-e-mini/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-to-use-craiyon-ai-formerly-known-as-dall-e-mini/",
+      "publishedDateTime": "2023-05-09T07:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-09-white-house-addresses-ais-risks-and-rewards-as-security-experts-voice-concerns-about-malicious-use.md",
+      "title": "White House addresses AI’s risks and rewards as security experts voice concerns about malicious use",
+      "excerpt": "The Biden administration articulated aims to put guardrails around generative and other AI, while attackers get bolder using the technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/white-house-harness-ai/",
+      "originalUrl": "https://www.techrepublic.com/article/white-house-harness-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 130,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/wp-content/uploads/2023/05/hero-hite-House-Harness-AI.jpeg",
+          "width": 1200,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/article/white-house-harness-ai/amp/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/white-house-harness-ai/amp/",
+      "publishedDateTime": "2023-05-09T07:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2023-05-09-cedars-sinai-establishes-center-for-ai-machine-learning.md",
+      "title": "Cedars-Sinai establishes center for AI, machine learning",
+      "excerpt": "Los Angeles-based Cedars-Sinai has established a new center focused on advancing artificial intelligence and machine learning.",
+      "sourceUrl": null,
+      "webUrl": "https://www.beckershospitalreview.com/innovation/cedars-sinai-establishes-center-for-ai-machine-learning.html",
+      "originalUrl": "https://www.beckershospitalreview.com/innovation/cedars-sinai-establishes-center-for-ai-machine-learning.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-09T07:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Becker's Hospital Review",
+        "domain": "beckershospitalreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-09-the-critical-need-to-identify-ai-generated-content.md",
+      "title": "The Critical Need To Identify AI Generated Content",
+      "excerpt": "A lot of concern about AI is raised by hundreds of tech and government leaders who now realize that AI released without serious guardrails could have significant consequences for all of us.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/timbajarin/2023/05/09/the-critical-need-to-identify-ai-generated-content/",
+      "originalUrl": "https://www.forbes.com/sites/timbajarin/2023/05/09/the-critical-need-to-identify-ai-generated-content/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 177,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64594cd3534232d7f02796dd/0x0.jpg?format=jpg&width=1200",
+          "width": 836,
+          "height": 425,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/timbajarin/2023/05/09/the-critical-need-to-identify-ai-generated-content/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/timbajarin/2023/05/09/the-critical-need-to-identify-ai-generated-content/amp/",
+      "publishedDateTime": "2023-05-09T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-09-ai-wrote-95-percent-of-this-murder-mystery.md",
       "title": "AI Wrote 95 Percent of This Murder Mystery",
       "excerpt": "Stephen Marche composed 'Death of an Author' using three AI tools, under the shared pen name Aidan Marchine. Here’s a look at the result.",
@@ -526,7 +869,7 @@
       "originalUrl": "https://www.wsj.com/articles/wendys-google-train-next-generation-order-taker-an-ai-chatbot-968ff865",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 127,
       "tags": null,
       "images": [
         {
@@ -730,7 +1073,7 @@
       "originalUrl": "https://www.ibm.com/blog/introducing-watsonx-the-future-of-ai-for-business/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 334,
+      "heat": 344,
       "tags": null,
       "images": [
         {
@@ -782,7 +1125,7 @@
       "originalUrl": "https://www.infoworld.com/article/3695208/14-popular-ai-algorithms-and-their-uses.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -910,350 +1253,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-09-ibm-takes-another-shot-at-watson-as-ai-boom-picks-up-steam.md",
-      "title": "IBM takes another shot at Watson as A.I. boom picks up steam",
-      "excerpt": "It’s been a long time since IBM has actively touted Watson. Originally created to beat humans at the “Jeopardy!” game show, Watson marked IBM’s early splash in artificial intelligence, but it never amounted to a profitable offering.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/05/09/ibm-takes-another-shot-at-watson-as-ai-boom-picks-up-steam.html",
-      "originalUrl": "https://www.cnbc.com/2023/05/09/ibm-takes-another-shot-at-watson-as-ai-boom-picks-up-steam.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107184040-1674677984697-gettyimages-1246298067-DAVOS_WEF_2023.jpeg?v=1683626401",
-          "width": 4000,
-          "height": 2692,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2023/05/09/ibm-takes-another-shot-at-watson-as-ai-boom-picks-up-steam.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/05/09/ibm-takes-another-shot-at-watson-as-ai-boom-picks-up-steam.html",
-      "publishedDateTime": "2023-05-09T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-09-finovax-leads-the-charge-in-fintech-innovation-ai-powered-solutions-drive-business-growth.md",
-      "title": "Finovax Leads the Charge in Fintech Innovation: AI-Powered Solutions Drive Business Growth",
-      "excerpt": "New York-Based Fintech Company Embraces Artificial Intelligence to Revolutionize Financial Data Products and Fuel",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/finovax-leads-the-charge-in-fintech-innovation-ai-powered-solutions-drive-business-growth-2023-05-09",
-      "originalUrl": "https://www.marketwatch.com/press-release/finovax-leads-the-charge-in-fintech-innovation-ai-powered-solutions-drive-business-growth-2023-05-09",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 189,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-09T00:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-09-chatgpt-can-students-pass-using-ai-tools-at-university.md",
-      "title": "ChatGPT: Can students pass using AI tools at university?",
-      "excerpt": "As with most universities, Bath's policy on ChatGPT and other AI tools is still in the works. It is due to be in place from September. After that, a team will meet throughout the year to ensure it keeps up with the rapidly changing technology. In the meantime, many staff are once again setting in-person, invigilated summer exams.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.co.uk/news/education-65316283",
-      "originalUrl": "https://www.bbc.co.uk/news/education-65316283",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/0991/production/_129594420_gettyimages-1460902077.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.co.uk/news/education-65316283.amp",
-      "cdnAmpWebUrl": "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/education-65316283.amp",
-      "publishedDateTime": "2023-05-09T00:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-09-the-natural-language-processing-nlp-software-market-is-poised-to-experience-huge-growth-to-2023.md",
-      "title": "The Natural Language Processing (NLP) Software Market is Poised to Experience Huge Growth to 2023",
-      "excerpt": "Natural Language Processing (NLP) Software Market Size 2023 | New Report (120 Pages) | Analytics | In This Reports",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/the-natural-language-processing-nlp-software-market-is-poised-to-experience-huge-growth-to-2023-2023-05-09",
-      "originalUrl": "https://www.marketwatch.com/press-release/the-natural-language-processing-nlp-software-market-is-poised-to-experience-huge-growth-to-2023-2023-05-09",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-08T23:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-09-ai-in-computer-vision-market-growth-and-revenue-forecast-by-2030.md",
-      "title": "AI In Computer Vision Market Growth and Revenue Forecast by 2030",
-      "excerpt": "Brief Overview of the AI In Computer Vision Market: During The Forecast Period Spanning from 2023 To 2030, The Global AI In Computer Vision Market Is Expected to Experience Significant Growth. As of 2022, The Market Is Steadily Increasing, and with The ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-growth-and-revenue-forecast-by-2030-2023-05-08",
-      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-growth-and-revenue-forecast-by-2030-2023-05-08",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 314,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-08T22:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-09-ai-machine-learning-openlayer-finalizes-48m-seed-round.md",
-      "title": "AI, Machine Learning: Openlayer Finalizes $4.8M Seed Round",
-      "excerpt": "Openlayer, which claims to be the creator of the most comprehensive platform for testing AI, announced that it has closed a $4.8M seed round.",
-      "sourceUrl": null,
-      "webUrl": "https://www.crowdfundinsider.com/2023/05/206771-ai-machine-learning-openlayer-finalizes-4-8m-seed-round/",
-      "originalUrl": "https://www.crowdfundinsider.com/2023/05/206771-ai-machine-learning-openlayer-finalizes-4-8m-seed-round/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2018/12/US-Dollar-George-Washington-Money.jpg",
-          "width": 1280,
-          "height": 1047,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.crowdfundinsider.com/2023/05/206771-ai-machine-learning-openlayer-finalizes-4-8m-seed-round/amp/",
-      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/05/206771-ai-machine-learning-openlayer-finalizes-4-8m-seed-round/amp/",
-      "publishedDateTime": "2023-05-08T19:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crowdfund Insider",
-        "domain": "crowdfundinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-09-new-jersey-biotech-company-uses-artificial-intelligence-for-drug-development.md",
-      "title": "New Jersey biotech company uses artificial intelligence for drug development",
-      "excerpt": "PsychoGenics CEO Emer Leahy of Paramus, New Jersey, explains how the first potential AI-discovered treatment for schizophrenia was developed through machine learning. Fox News Digital spoke with her.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/video/6327063190112",
-      "originalUrl": "https://www.foxnews.com/video/6327063190112",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/44203693-1c85-4ea8-9deb-8fba074c2686/b1fd64fd-3b38-49fb-b878-65d240efae67/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "width": 1024,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-08T18:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -55,6 +55,17 @@ related:
         width: 767
         height: 633
         isCached: true
+  - title: "9 Ways AI Can Make Your Life Easier"
+    excerpt: "Artificial intelligence (AI) isn’t just a buzzword or a futuristic concept anymore. It's a complex technology that's already transforming our daily lives, making them easier, and more efficient. Here"
+    publishedDateTime: 2023-05-12T15:09:00Z
+    webUrl: "https://www.benzinga.com/general/23/05/32366652/9-ways-ai-can-make-your-life-easier"
+    ampWebUrl: "https://www.benzinga.com/amp/content/32366652"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32366652"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 39
 
 secured: "E5NzHlBtDeHmVpyRkHYbO6QdAk90+QePtfk5HuivURpK0qMI6eaWEmK90ezKqq6SCb/4qQYZmrMAsAyW8ULDNSEgEaiRT1prd77ihD1cmeq0PINPKsTDjgntejQKvxf2cTxaERsWJQEmueHP79mPrONM4kYpzRsBUdHyVdvgZ8j/U7oXaoHyaDRV1RBsTIcmbK4uo5HjGdYFbl9l6cZJR8qgBHpMY4wOyw1Xqhoo8hWPDxjWhOIxEsSQYgt/o6hVjZ9nEzapGGMEcRXGHBI31+lCJgN0l8p/HJFFTygokZ/qH1iPsjP154C7zVa+2hSU5bPIkNfKCnUZhHLgUytqZOpqHKegEfHwbFe2d06TyJDWz+Nza2qwvJlqq+OGWq4U0CqZRBjPtG70tfIu5RjiwEBf1KETO611SsdTLceYNsvMrDhIgSgN7uvTrXdpAq90l8y7q5RyWV/fuHEyGtWVgZv+ssBzRovJ+FBz3hTSwqXZaquNGDKUXhM0rz/Bsb0Wi+G1EnMlj2TiEM/Q7iLS3A==;Pr5COEMpl1OjU8mxusiRrA=="
 ---

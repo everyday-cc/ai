@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/articles/wendys-google-train-next-generation-o
 webUrl: "https://www.wsj.com/articles/wendys-google-train-next-generation-order-taker-an-ai-chatbot-968ff865"
 type: article
 quality: 67
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -91,6 +91,15 @@ related:
     provider:
       name: CBS News
       domain: cbsnews.com
+    quality: 17
+  - title: "Google-backed AI startup's chatbot can read novels in seconds"
+    excerpt: "In an announcement about the increased capability of Claude, Anthropic claimed that they have raised the context window from 9K to 100K tokens, which corresponds to around 75,000 words. Tokens are the basic units of text or code that a large language model (LLM) AI uses to process and generate language."
+    publishedDateTime: 2023-05-12T13:03:00Z
+    webUrl: "https://www.gadgetsnow.com/tech-news/google-backed-ai-startups-chatbot-can-read-novels-in-seconds/articleshow/100189431.cms"
+    type: article
+    provider:
+      name: Gadgets Now
+      domain: gadgetsnow.com
     quality: 17
 
 secured: "ktoSsVrtd1rdUXGo5Mv8O/mYRFzuwiq8FZum7C5SBpW/7aRXQ1McNzDEvKr7yjrJhRxGkSjcMs1L21xxVO5es6dX/UxxSz6azMcgrd7Rseo0cyYmMFn/7Icc5E5FE6GxeK5WQpgzky1Zzo4TbKB72Llde9j+xmNAiBCaVIacrXK04tWVZIEbwzuVWMLmOjdrfWmsGVq8kPcYx1HW2k63lGF9QPiyZEDQWFN3zrYCeDg1e+ZEynLpfpcgjGziIcLZWrgBODlHN27M06N7sNcreCWViqYCS0K4fxjOdAfSPOpN9Ony38ofFct6VwNqO13wB1P1VYL0cy/5w8fto7KsiCf3UJQjF+ZMy6qV3l6bWJ4=;mbZo7P1n5eARdTJBrKe+xA=="

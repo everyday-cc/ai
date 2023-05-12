@@ -432,6 +432,15 @@ related:
       name: MIT Technology Review
       domain: technologyreview.com
     quality: 19
+  - title: "The creative use of generative AI in post-production"
+    excerpt: "Graham McGuinness at Jigsaw24 Media explains how AI is already helping post-production with creating technical grades and post-producing scripted content"
+    publishedDateTime: 2023-05-12T12:08:00Z
+    webUrl: "https://www.broadcastnow.co.uk/tech/the-creative-use-of-generative-ai-in-post-production/5181926.article"
+    type: article
+    provider:
+      name: Broadcast
+      domain: broadcastnow.co.uk
+    quality: 19
   - title: "Scale AI unveils its full-stack generative AI platform"
     excerpt: "Scale's Enterprise AI Platform will allow customers to get the benefits of large language models without having to send data out to a third-party AI company."
     publishedDateTime: 2023-05-10T15:01:00Z

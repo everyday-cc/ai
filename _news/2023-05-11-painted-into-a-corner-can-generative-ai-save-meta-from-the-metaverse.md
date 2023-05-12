@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/technology/2023/may/11/meta-artificial-i
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/may/11/meta-artificial-intelligence-metaverse-mark-zuckerberg"
 type: article
 quality: 58
-heat: -1
+heat: 58
 published: false
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 620
     height: 414
     isCached: true
-
-related:
-  - title: "This Week In XR: After AI Sucks The Air Out Of The Metaverse, It Will Remake XR"
-    excerpt: "On the “This Week In XR” podcast Friday morning, co-host and Magic Leap founder Rony Abovitz said “ AI is what XR has been waiting for. ” Co-host Ted Schilowitz, Futurist at Paramount Global says “the Apple Mixed Reality headset will change everyone’s thinking. ” He should know. He’s seen it."
-    publishedDateTime: 2023-05-07T21:21:00Z
-    webUrl: "https://www.forbes.com/sites/charliefink/2023/05/07/this-week-in-xr-after-ai-sucks-the-air-out-of-the-metaverse-it-will-remake-xr/"
-    ampWebUrl: "https://www.forbes.com/sites/charliefink/2023/05/07/this-week-in-xr-after-ai-sucks-the-air-out-of-the-metaverse-it-will-remake-xr/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charliefink/2023/05/07/this-week-in-xr-after-ai-sucks-the-air-out-of-the-metaverse-it-will-remake-xr/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 83
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64567adb7e7cefe61be31892/0x0.jpg?format=jpg&width=1200"
-        width: 782
-        height: 607
-        isCached: true
 
 secured: "v7brO/PSQ/XfGH38BEW428SGi2GaCNSCKiWU8leb3iZE/aJ2FoBmC78sVVjvHRHiDteKAabuA740or696XF4oVz4C0o8qRrDIcWPalmqYyvvRF+EFeIWKINOKLMfA1sTkC6KbtnKHP2TZh/HpLC0HIYsQvzkg1+JGf1lJijq+oVHuLN6JVoZ12pT+FfhTkafD+uclfXASF0wzeHFcGn7mXPrBtmBdG9FX67cvdvYjG8UNVxJGqCtJy3IcHybsFhez2gjkrwn3oshmDAZFHq13ZlmvO7uquCXnAgSbjz2xJ/SxLs8x6/5PlhTFak5j0QaTW9ulEOhhassO4la9NnO9ggmt/hyynG1IyJscFTJHaNazUtgWUtzacjpbtvYTdo+8v4hxlHcTEwz70VCywpPIl1+U6ic0cXXPCidwkYtKpBEVkmONbZY+9gTGwPptDZOTIMizuTjL/MCFRWyoHrNBnbFGiuxfPeHHuzfrGFoQudwlz18We01WJaHe/SbIAGF+TAaCP32OTHFJuHOXt03bg==;3mFQRRHZGxT7MDy5LQankw=="
 ---

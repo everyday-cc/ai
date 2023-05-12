@@ -110,6 +110,22 @@ related:
       name: IBM
       domain: ibm.com
     quality: 97
+  - title: "How Artificial Intelligence Is Changing Business"
+    excerpt: "Artificial intelligence (AI) has been changing every type of business worldwide. The phrase derives from computer-based operating systems being able to imitate or replicate exact human-like activities. There are also many different types of artificial intelligence, but let’s go over some of the types relating to a business environment."
+    publishedDateTime: 2023-05-12T12:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/12/how-artificial-intelligence-is-changing-business/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/12/how-artificial-intelligence-is-changing-business/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/05/12/how-artificial-intelligence-is-changing-business/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/645907002b0d8e64282796dd/0x0.jpg?format=jpg&crop=6833,3840,x1162,y0,safe&width=1200"
+        width: 1200
+        height: 674
+        isCached: true
   - title: "IBM launches watsonx studio to make deploying generative AI easier"
     excerpt: "The watsonx platform announcement also marks IBM's plan to add generative AI to other services, incorporating code writing and more."
     publishedDateTime: 2023-05-11T12:43:00Z

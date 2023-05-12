@@ -1,12 +1,12 @@
 ---
 category: news
 title: "The threat and promise of artificial intelligence"
-excerpt: "We’ll send you a myFT Daily Digest email rounding up the latest Artificial intelligence news every morning. In 1900, the UK had 3.3mn horses. These animals provided pulling power, transport and cavalry."
-publishedDateTime: 2023-05-09T15:25:00Z
-originalUrl: "https://www.ft.com/content/41fd34b2-89ee-4b21-ac0a-9b15560ef37c"
-webUrl: "https://www.ft.com/content/41fd34b2-89ee-4b21-ac0a-9b15560ef37c"
+excerpt: "Yet even if no such revolution threatens, recent advances in artificial intelligence are highly significant. According to Bill Gate s, they are the most important development since personal computers."
+publishedDateTime: 2023-05-09T16:04:00Z
+originalUrl: "https://www.ft.com/content/41fd34b2-89ee-4b21-ac0a-9b15560ef37c?shareType=nongift"
+webUrl: "https://www.ft.com/content/41fd34b2-89ee-4b21-ac0a-9b15560ef37c?shareType=nongift"
 type: article
-quality: 37
+quality: 17
 heat: -1
 published: false
 
@@ -16,12 +16,6 @@ provider:
 
 topics:
   - AI
-
-images:
-  - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/comment.jpg"
-    width: 619
-    height: 377
-    isCached: true
 
 related:
   - title: "The risks and limitations of AI in insurance"
@@ -151,6 +145,6 @@ related:
       domain: 9to5mac.com
     quality: 15
 
-secured: "+CZZoTPglQK5gjeECrAQA5zSDFbAfUfSUiZ3zeOQ+9OEQYRvvbKwTC8ogq2KerKuNpk+3M4jeJOX3PjQe0tCui6Lc3pvBWYdZjEhuGWULoM62OQC4lc28DH7/Wtg/zcIFth/mUqVwEhhCPf7qpykoAOnqjW3DiH90wo8KH6/9QxCZNoOtwHadW4tJ8MgL3/otGY6YkUOQt2R2CQl75BYIvDFyhwB+kqBkRhkFcOWVJ9uodMZ5j6ORdWC9qUyFRWU+dxw6yxTXgYLcXFYIw3l2BaKtHPDBCT3YLJeXd74ML2dfqz2I5QjRQsG5DDW0RpYeApU7JF9ErO5nNGFWJ66KUFkEPgUtPr//uh5qAZqoY8rkhT/VxxoBfcNED5MEHIDJ5dReNnUWDJQMK9z+LX2Y04AC3AIPysRbjcqKmChSWVOtVMkD5l853olFnkxtXEp0SqXQdqBB/BTJWT/pNZG9O1Sv8itc01uwD0ctMqTvjXLqKRh5NRBVf4qNQduDPU5dTUuYs+tGxAiNbkQb7b3Fw==;R6aAmD4oDZTur+R3JXN5VA=="
+secured: "PaXnwG5a9CA1R66i22qi1RDtA8L0MC/iiFR72ASXTqRM/g1YIRb+94b8AMF9LeHRewBqZ82fkUyPUsDKhkvLOOsRBZsdTr+2z0UXJiXwYaeQkPXnJ0QfOozeiZZpcal2gtyeBZnOFfNvIO2B6O+S0hrGLHD2Cyxe5JvsL91RjGSdNTiLeEq7vVozViToZ8Dr+yyUZpy9wMWSs9b+yBflwRjUekWrTMYXYzNBUprP4LBMuAcRx2nOCj/YuJytbOrH3b2AH+izOSJrnLNvIQzHvrV2JtAwqcJn20plTXoLobev+5LcAFs1uad/LKIJIUV5ZeFUn0FTRS5QqcXNh9CZry89Sb0xqhst+S1YzMke6o2xNh8EIsun82+j+Tm772Cr6V9iS9G8A0EKvP1s3cb5nBJHhWM7J4HFtN0FQQ6IXUAcS8kmQstvTTnNuZp4zyTozT0HNhhUyB4v3fY0qmNiRL6B0mdIL1LoT+hr0Qx65Mo2/mr0BWjzSNCSZoOm3Snk18kD69Pcl3Uz9j7O+NHH2Q==;RysGJcZZXqG4dNwiVoJQog=="
 ---
 

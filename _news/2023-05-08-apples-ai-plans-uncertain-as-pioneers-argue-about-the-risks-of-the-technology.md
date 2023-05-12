@@ -118,20 +118,6 @@ related:
         width: 600
         height: 300
         isCached: true
-  - title: "The threat and promise of artificial intelligence"
-    excerpt: "We’ll send you a myFT Daily Digest email rounding up the latest Artificial intelligence news every morning. In 1900, the UK had 3.3mn horses. These animals provided pulling power, transport and cavalry."
-    publishedDateTime: 2023-05-09T15:25:00Z
-    webUrl: "https://www.ft.com/content/41fd34b2-89ee-4b21-ac0a-9b15560ef37c"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 37
-    images:
-      - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/comment.jpg"
-        width: 619
-        height: 377
-        isCached: true
   - title: "Leveraging AI in telecoms to enhance offerings and maximise operations"
     excerpt: "As the use cases and opportunities for AI continue to emerge, there are a host of tech-driven approaches telco leaders can integrate into their operations, utilising software like ChatGPT."
     publishedDateTime: 2023-05-09T11:37:00Z
@@ -150,6 +136,15 @@ related:
       name: The Daily Record (Maryland)
       domain: thedailyrecord.com
     quality: 19
+  - title: "The threat and promise of artificial intelligence"
+    excerpt: "Yet even if no such revolution threatens, recent advances in artificial intelligence are highly significant. According to Bill Gate s, they are the most important development since personal computers."
+    publishedDateTime: 2023-05-09T16:04:00Z
+    webUrl: "https://www.ft.com/content/41fd34b2-89ee-4b21-ac0a-9b15560ef37c?shareType=nongift"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 17
 
 secured: "3yj14j0MQDUCsvqA3W0BuAnntgk1AU9lDj5DBK11QK84AGGzOpzdFRkx5fpGtdaCFVbBPxMC3i+QSjRHf9oyMYAmR26JIhWUXbklDlT/VrZ+9nqY0T/iYfDn6VQ+0A/cOVoellMWumPasd5buL5eXmGt4SiJnCdM4GsufkIrUzRo40xhaJalR6rpUyBGnqxRolKtd9gIW4C+baHaJy+9WRA5GlIYBKFf2qnlMFiyDqMxy2VbWFj3JyileT3AMM/uecEZFKqAcB+HVngYZW1pL0Ozmg+HnsGz0iw63crCTrvV3s/CQznVPGVCd5AxxugudzRNeGUoVY8YOjelq3j3iBh2zAZ39WlahkVj3i+GfZ+I0g2c/94BEbLKrm93cmhq1RDLxDTdT8GloXPh9glLvyejS0X/beVk3Dja+l8KJY0PlnvXISbn+vXPGYyxDjW8a7pMltxZQ4W340kyIOtSgQ5Z+gqZTmSZxMTJKqsJq2z7AsSjNDbmxApFP0ekv9/7o/bXM/UmJRlEcOQTSO/Epw==;iFwPdHLsl+reW3Y/k8ov5g=="
 ---

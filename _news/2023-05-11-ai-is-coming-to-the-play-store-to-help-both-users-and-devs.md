@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 905
         isCached: true
-  - title: "The AI boom is reshaping the cloud business"
-    excerpt: "To support generative AI models, AWS, Microsoft and Google Cloud are investing in infrastructure and maneuvering to manage cost."
-    publishedDateTime: 2023-05-08T21:01:00Z
-    webUrl: "https://www.ciodive.com/news/AWS-Microsoft-Google-cloud-infrastructure-AI-ML-compute/649712/"
-    type: article
-    provider:
-      name: CIO Dive
-      domain: ciodive.com
-    quality: 41
-    images:
-      - url: "https://www.ciodive.com/imgproxy/ArdjKqH_M6Qda4q_61cVhQAyFro4BqPoZNqLfAFdujU/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTgwMjMyMDgzNl9yV0VrMjI5LmpwZw.jpg"
-        width: 770
-        height: 435
-        isCached: true
   - title: "Transformative impact of AI and quantum sets the tone for IBM Think"
     excerpt: "In IBM Corp.’s view of the world, the tech industry is coming to a place where the intersection of cloud, artificial intelligence and quantum computing will trigger a significant transformation. “It’s a massive moment of technological advancement,"
     publishedDateTime: 2023-05-11T19:47:00Z

@@ -6,8 +6,8 @@ publishedDateTime: 2023-05-11T23:57:00Z
 originalUrl: "https://www.law.com/legaltechnews/2023/05/11/clm-provider-icertis-launches-exploreai-a-generative-ai-contract-intelligence-tool/"
 webUrl: "https://www.law.com/legaltechnews/2023/05/11/clm-provider-icertis-launches-exploreai-a-generative-ai-contract-intelligence-tool/"
 type: article
-quality: 33
-heat: 33
+quality: 35
+heat: 35
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/04/chatting-smart-AI-767x633-1.jpg"

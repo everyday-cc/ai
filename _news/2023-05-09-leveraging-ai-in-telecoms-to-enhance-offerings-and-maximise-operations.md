@@ -118,20 +118,6 @@ related:
         width: 600
         height: 300
         isCached: true
-  - title: "The threat and promise of artificial intelligence"
-    excerpt: "We’ll send you a myFT Daily Digest email rounding up the latest Artificial intelligence news every morning. In 1900, the UK had 3.3mn horses. These animals provided pulling power, transport and cavalry."
-    publishedDateTime: 2023-05-09T15:25:00Z
-    webUrl: "https://www.ft.com/content/41fd34b2-89ee-4b21-ac0a-9b15560ef37c"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 37
-    images:
-      - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/comment.jpg"
-        width: 619
-        height: 377
-        isCached: true
   - title: "Hackers to test limits of AI technology in mass event"
     excerpt: "ChatGPT creator OpenAI and other major AI providers are coordinating with the Biden administration to let hackers test the limits of their technology."
     publishedDateTime: 2023-05-10T19:14:00Z
@@ -141,6 +127,15 @@ related:
       name: The Daily Record (Maryland)
       domain: thedailyrecord.com
     quality: 19
+  - title: "The threat and promise of artificial intelligence"
+    excerpt: "Yet even if no such revolution threatens, recent advances in artificial intelligence are highly significant. According to Bill Gate s, they are the most important development since personal computers."
+    publishedDateTime: 2023-05-09T16:04:00Z
+    webUrl: "https://www.ft.com/content/41fd34b2-89ee-4b21-ac0a-9b15560ef37c?shareType=nongift"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 17
   - title: "Apple’s AI plans uncertain, as pioneers argue about the risks of the technology"
     excerpt: "Jürgen Schmidhuber has been called “the father of AI” for his work in natural language processing within neural networks – the technology behind Siri and Google Translate. He has likewise written a huge number of papers and won awards for his work."
     publishedDateTime: 2023-05-08T13:31:00Z

@@ -17,6 +17,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - Google AI
 
 images:
   - url: "https://www.searchenginejournal.com/wp-content/uploads/2023/04/ai-skills-for-job-seekers-64473eb18deab-sej.jpg"

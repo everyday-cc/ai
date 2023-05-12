@@ -1,0 +1,31 @@
+---
+category: news
+title: "Forget Cambridge Analytica — Here’s how AI could threaten elections"
+excerpt: "AI could contribute to the spread of disinformation globally, and to mitigate it, governments, social media companies and education will each have a big role to play."
+publishedDateTime: 2023-05-12T12:00:00Z
+originalUrl: "https://cointelegraph.com/news/forget-cambridge-analytica-here-s-how-ai-could-threaten-elections"
+webUrl: "https://cointelegraph.com/news/forget-cambridge-analytica-here-s-how-ai-could-threaten-elections"
+ampWebUrl: "https://cointelegraph.com/news/forget-cambridge-analytica-here-s-how-ai-could-threaten-elections/amp"
+cdnAmpWebUrl: "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/forget-cambridge-analytica-here-s-how-ai-could-threaten-elections/amp"
+type: article
+quality: 59
+heat: 59
+published: false
+
+provider:
+  name: CoinTelegraph
+  domain: cointelegraph.com
+
+topics:
+  - Facebook AI
+  - AI
+
+images:
+  - url: "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=740/https://s3.cointelegraph.com/uploads/2023-05/cf9b39a1-502f-48eb-a844-a2da40d94355.jpg"
+    width: 740
+    height: 492
+    isCached: true
+
+secured: "izHwLQ6whWqCZL2cvhjpA6ughAcl//D5OdZ0GHIPlH5INaF37la1OfMeEC7/kxAI/rmTUT3EuTZMNN458PKB3+pb3QeAMvtOwTxEXYBCADXKx/frTo11nf4qwXVBl5enBgKmZDtBSxOs/sipIfKldqxWnaJMYxr2zaofIVvTIZtUhZY3llrsJvRMfrmHMvHy5tu+HP2iCsB6s4h1EBo/odbQ1TSEKPoE/JRFMF0J9DDoH1PrrwiZ7w4j+XP7q+RzOLRZYkaIDi1fCDpkXf5DvrQY5+FFBuD77n4dpy9CS78nPUezVEYYbpl+1Zss5dyDNQU6M7uFFA3+bNKo94Wd+6dhc9E0RtNxbwdX1/LqxvA=;9ZLXId7oEbZmnIj+VSnEcA=="
+---
+

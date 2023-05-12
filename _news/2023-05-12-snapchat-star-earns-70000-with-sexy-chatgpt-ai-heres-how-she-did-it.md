@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/martineparis/2023/05/11/carynai-virtual
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martineparis/2023/05/11/carynai-virtual-date-earned-70000-with-sexy-chatgpt-ai-heres-how/amp/"
 type: article
 quality: 87
-heat: 167
+heat: 177
 published: true
 
 provider:
@@ -76,6 +76,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "edX Debuts Two AI-Powered Learning Assistants Built on ChatGPT"
+    excerpt: "X plugin launches in ChatGPT plugin store to give users access to content and course discovery edX Xpert delivers AI-powered learning and"
+    publishedDateTime: 2023-05-12T14:14:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/edx-debuts-two-ai-powered-learning-assistants-built-on-chatgpt-1032322930"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
   - title: "It’s Not Just About ChatGPT. Other AI Technologies Are Heading to Schools"
     excerpt: "How can schools stay on top of this rapidly changing technology? And how can educators separate hype from substance? Education Week asked four experts in technology, education, and artificial intelligence to look into their crystal balls and share their thoughts on how AI will likely change teaching and learning."
     publishedDateTime: 2023-05-09T15:33:00Z

@@ -287,6 +287,15 @@ related:
         width: 900
         height: 600
         isCached: true
+  - title: "Google Fights Back Against Microsoft With New AI Search Capabilities"
+    excerpt: "Google CEO Sundar Pichai has announced that the AI chatbot Bard is open to all, AI is coming to almost all Google products and new search experiences are on the way"
+    publishedDateTime: 2023-05-12T12:35:00Z
+    webUrl: "https://www.forbes.com/sites/qai/2023/05/12/google-fights-back-against-microsoft-with-new-ai-search-capabilities/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 64
   - title: "MakeMyTrip partners with Microsoft for voice-based travel bookings in Indian languages with AI"
     excerpt: "MakeMyTrip announced a partnership with Microsoft on Monday to bring voice-assisted booking in Indian languages using Generative AI to make travel planning easier. Read on to learn more."
     publishedDateTime: 2023-05-09T12:43:00Z
@@ -402,6 +411,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "KPMG LLP AND MICROSOFT ESTABLISH INDUSTRY-LEADING INITIATIVE TO SCALE GENERATIVE AI ACROSS AUDIT, TAX AND ADVISORY"
+    excerpt: "KPMG LLP AND MICROSOFT ESTABLISH INDUSTRY-LEADING INITIATIVE TO SCALE GENERATIVE AI ACROSS AUDIT, TAX AND ADVISORY May 11, 2023 (PRNewswire via COMTEX) --"
+    publishedDateTime: 2023-05-11T18:50:00Z
+    webUrl: "https://www.marketwatch.com/press-release/kpmg-llp-and-microsoft-establish-industry-leading-initiative-to-scale-generative-ai-across-audit-tax-and-advisory-2023-05-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 42
   - title: "MakeMyTrip announces its collaboration with Microsoft"
     excerpt: "MakeMyTrip has collaborated with Microsoft to make travel planning more inclusive and accessible by introducing voice assisted booking in Indian languages. The new, in-platform tech stack powered by Microsoft Azure OpenAI Service and Azure Cognitive Services,"
     publishedDateTime: 2023-05-08T07:52:00Z
@@ -448,20 +466,6 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 34
-  - title: "KPMG LLP AND MICROSOFT ESTABLISH INDUSTRY-LEADING INITIATIVE TO SCALE GENERATIVE AI ACROSS AUDIT, TAX AND ADVISORY"
-    excerpt: "Companies co-invest to deliver generative AI solutions for Audit, Tax and Advisory U.S. clients; KPMG deploys Microsoft OpenAI capabilities across its internal platforms ; Collabo"
-    publishedDateTime: 2023-05-11T19:12:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/05/11/9812975.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 32
-    images:
-      - url: "https://mma.prnewswire.com/media/624145/KPMG_Corporate_Finance_logo.jpg"
-        width: 400
-        height: 295
-        isCached: true
   - title: "Informatica Expands its Collaboration with Microsoft, Announces Planned Intelligent Data Management Cloud as a Microsoft Azure Native ISV Service"
     excerpt: "Informatica (NYSE: INFA), an enterprise cloud data management leader, expanded its collaboration with Microsoft"
     publishedDateTime: 2023-05-09T13:00:00Z

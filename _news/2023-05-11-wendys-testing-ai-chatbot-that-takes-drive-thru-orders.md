@@ -87,6 +87,15 @@ related:
       name: PC World
       domain: pcworld.com
     quality: 47
+  - title: "Google-backed AI startup's chatbot can read novels in seconds"
+    excerpt: "In an announcement about the increased capability of Claude, Anthropic claimed that they have raised the context window from 9K to 100K tokens, which corresponds to around 75,000 words. Tokens are the basic units of text or code that a large language model (LLM) AI uses to process and generate language."
+    publishedDateTime: 2023-05-12T13:03:00Z
+    webUrl: "https://www.gadgetsnow.com/tech-news/google-backed-ai-startups-chatbot-can-read-novels-in-seconds/articleshow/100189431.cms"
+    type: article
+    provider:
+      name: Gadgets Now
+      domain: gadgetsnow.com
+    quality: 17
 
 secured: "31NUlTWmO81eljqunwQmfU3rngiw9kAIpJXvhSO//oqAY98odMWFCgM5xTi44NjiYi7uymHYU6XJr8xOXVYhWZry3SszNltKyGWTMAwgjsBL5LpVSEfHC8sYfoEcexM3bWIVYtnqWmmAqBX5Md4M+3k7StIk7NOHexlYOs7pWAfMyKR/ZF+CFxn+mz6XlWJTc6hy57zIMAHloeD5iR4ZkcKMukKbLAuluJALSjRpx5bb5xPBnkjW9t24/hzDNzQit3t3MGPM4FMrWcG/MnA49dLwD6ubnjlVm0oyhuEiNeFdTnmy38LUcBf7gWuakXvSwjLKg76MUpRCzPJ4k5E1c8FssWdisP1iVbGqJKCHfHALKQrhOILTjUlVOGiBkVl0Bt7nMmueMG11RbhQZjQm3fSAkAERMOLd1k+HKBA2gktR4bCFN8fNJeAGKgnWvyWb0SfTm34hTUDk0l6ZC5oVgQyNYHmWBlwwPKVuQUuUigrT0DYMcyN3SYdOsU7AGekEQg0PhzKdvdGSOh47kHny/g==;Cg4sbrh+S9+ZQuGDiIi/7w=="
 ---

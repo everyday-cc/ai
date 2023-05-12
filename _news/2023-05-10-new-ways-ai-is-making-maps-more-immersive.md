@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/products/maps/google-maps-updates-io-2023/amp/"
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/maps/google-maps-updates-io-2023/amp/"
 type: article
 quality: 109
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -59,6 +59,17 @@ related:
         width: 767
         height: 633
         isCached: true
+  - title: "9 Ways AI Can Make Your Life Easier"
+    excerpt: "Artificial intelligence (AI) isn’t just a buzzword or a futuristic concept anymore. It's a complex technology that's already transforming our daily lives, making them easier, and more efficient. Here"
+    publishedDateTime: 2023-05-12T15:09:00Z
+    webUrl: "https://www.benzinga.com/general/23/05/32366652/9-ways-ai-can-make-your-life-easier"
+    ampWebUrl: "https://www.benzinga.com/amp/content/32366652"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32366652"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 39
 
 secured: "bBe/GTC69zi4Pmn899k+IgIp2L8FuB/jbI2ogY6Oot+bVrCSd0NyFwXCVBxJOFiHTLWijmlbrX47NlNPyrVsnq9c3AGBbc9GWnWqA7RSHHF9N6Oy0nNyR436Jbp7fYnfrq+2dcnfA84/TUaxx5VYe6z+9bpN1CNa3Z7cVc2OtKviwJk/tyGnn0QVSP4UFl9QK0bq5936UwL5F8OhX38p68hz28OEjED2IB2E+g9hEDkvwEpc7N4Rq1sZQWX2cIa4PphULar7pRpTdlONCgKpaEExSmpjN92YyjUX9XGa0G2UjZEQte/H22p0aVc6/wBFiRgpKp/QyCiRDlFbeUdjZaEBrDS5/nWIdlU5TTYjNHc=;C4EdnxNAbA05/XLUJ6nEDw=="
 ---

@@ -29,15 +29,29 @@ images:
     isCached: true
 
 related:
-  - title: "The Prospects of Image Recognition in Retail Market 2023: Industry Trends and Challenges till 2030"
-    excerpt: "A recent study report named \" Image Recognition in Retail Market \" offers a thorough analysis of the market's development potential, potential for revenue generation, and current trends through 2028."
-    publishedDateTime: 2023-05-11T08:51:00Z
-    webUrl: "https://www.marketwatch.com/press-release/the-prospects-of-image-recognition-in-retail-market-2023-industry-trends-and-challenges-till-2030-2023-05-11"
+  - title: "2030, Data Science and Machine Learning Service Market with PESTAL & SWOT Analysis"
+    excerpt: "Global Data Science and Machine Learning Service Market Report 2023 is spread across130 pagesand provides exclusive vital statistics, data, information, trends and competitive landscape details in this niche sector. “Global Data Science and Machine ..."
+    publishedDateTime: 2023-05-11T22:38:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2030-data-science-and-machine-learning-service-market-with-pestal-swot-analysis-2023-05-11"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 55
+    quality: 63
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "(New Research) Data Science and Machine-Learning Platforms Market with Statistics and Forecasts till 2031 for the year 2023"
+    excerpt: "The global \"Data Science and Machine-Learning Platforms Market\" report thoroughly analyzed in this Insight Report,"
+    publishedDateTime: 2023-05-10T03:11:00Z
+    webUrl: "https://www.marketwatch.com/press-release/new-research-data-science-and-machine-learning-platforms-market-with-statistics-and-forecasts-till-2031-for-the-year-2023-2023-05-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 30
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

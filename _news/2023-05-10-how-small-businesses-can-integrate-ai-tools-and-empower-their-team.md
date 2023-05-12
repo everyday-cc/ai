@@ -47,20 +47,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Ignore the Hysteria on AI and Jobs"
-    excerpt: "A study found that 60% of employment in 2018 was in roles that didn’t exist in 1940."
-    publishedDateTime: 2023-05-07T19:25:00Z
-    webUrl: "https://www.wsj.com/articles/ignore-the-hysteria-on-ai-and-jobs-chatgpt-automation-workforce-tech-innovation-51b3d994"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 67
-    images:
-      - url: "https://images.wsj.net/im-777038/social"
-        width: 1279
-        height: 640
-        isCached: true
   - title: "Chat GPT Compares Itself Against Base64.Ai's Powerful Document Processing AI And The Results Are Hilarious"
     excerpt: "AI facing each other Chat GPT is not suitable for documents. Chat GPT vs Base64.ai We asked if Chat GPT could replace all"
     publishedDateTime: 2023-05-09T10:58:00Z

@@ -132,6 +132,22 @@ related:
         width: 1024
         height: 742
         isCached: true
+  - title: "Law firms are experimenting with artificial intelligence tools"
+    excerpt: "Big law firms, known for their grueling hours and workloads, are experimenting with artificial intelligence tools that can handle the drudgery typically delegated to entry-level lawyers and simplify complex work that bogs down even top firm leaders,"
+    publishedDateTime: 2023-05-12T14:49:00Z
+    webUrl: "https://www.businessreport.com/business/law-firms-are-experimenting-with-artificial-intelligence-tools"
+    ampWebUrl: "https://www.businessreport.com/business/law-firms-are-experimenting-with-artificial-intelligence-tools?amp=1"
+    cdnAmpWebUrl: "https://www-businessreport-com.cdn.ampproject.org/c/s/www.businessreport.com/business/law-firms-are-experimenting-with-artificial-intelligence-tools?amp=1"
+    type: article
+    provider:
+      name: Baton Rouge Business Report
+      domain: businessreport.com
+    quality: 59
+    images:
+      - url: "https://s25562.pcdn.co/wp-content/uploads/2019/12/lawsuit-court-law.png"
+        width: 1734
+        height: 1122
+        isCached: true
   - title: "Google launches new AI PaLM 2 in attempt to regain leadership of the pack"
     excerpt: "Company says ‘next generation language model’ will outperform other artificial intelligence systems on some tasks"
     publishedDateTime: 2023-05-10T17:01:00Z
@@ -198,6 +214,20 @@ related:
       name: The Edge Singapore
       domain: theedgesingapore.com
     quality: 39
+  - title: "Google Is in Too Much of a Hurry on AI Search"
+    excerpt: "As AI answers fill our phone screens, what will become of the tech giant’s relationship with advertisers — or the truth?"
+    publishedDateTime: 2023-05-11T23:53:00Z
+    webUrl: "https://www.washingtonpost.com/business/2023/05/12/google-is-rolling-the-dice-with-ai-search/42a55c5a-f081-11ed-b67d-a219ec5dfd30_story.html"
+    type: article
+    provider:
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 39
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IH5Q43HQQEI63NT5UIM6YXP5GA.jpg&w=1440"
+        width: 1440
+        height: 958
+        isCached: true
   - title: "iFlytek demonstrates new AI writing tools based on its own language model"
     excerpt: "this newly launched AI writing product focuses on providing AI writing, rewriting, smart summarization, language polishing and proofreading, multi-language translation of text, and keyword extraction. It can be used in various writing scenarios ..."
     publishedDateTime: 2023-05-10T09:54:00Z

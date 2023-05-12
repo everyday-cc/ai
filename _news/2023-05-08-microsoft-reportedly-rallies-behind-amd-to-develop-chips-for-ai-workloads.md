@@ -54,6 +54,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Triumph Tech CEO: AWS Will Win ‘AI War’ Vs. Google, Microsoft"
+    excerpt: "Generative AI market of Amazon, Google and Microsoft’s OpenAI ChatGPT will be won by AWS due to the cloud company’s artificial intelligence customization and scalability, says Triumph Technology Solutions CEO."
+    publishedDateTime: 2023-05-12T15:29:00Z
+    webUrl: "https://www.crn.com/news/cloud/triumph-tech-ceo-aws-will-win-ai-war-vs-google-microsoft"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 71
+    images:
+      - url: "https://www.crn.com/resources/0281-17fee2fdcd7a-2e9db2bde58c-1000/vic-raymond.jpeg"
+        width: 611
+        height: 458
+        isCached: true
   - title: "Microsoft, Oracle Reportedly Discussed Sharing AI Servers Amid Global Shortage"
     excerpt: "Miracle and Oracle appear to be preparing for a potential shortage of their own servers, and an agreement to share servers may help ease the problem."
     publishedDateTime: 2023-05-10T05:41:00Z

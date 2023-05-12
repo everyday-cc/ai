@@ -26,45 +26,36 @@ images:
     isCached: true
 
 related:
-  - title: "Google is transforming the cloud with AI — for both developers and regular users"
-    excerpt: "Google is integrating generative AI into its cloud via a new interface, Duet AI, that helps make cloud developers and users more productive."
-    publishedDateTime: 2023-05-10T23:05:00Z
-    webUrl: "https://venturebeat.com/ai/google-is-transforming-the-cloud-with-ai-for-both-developers-and-regular-users/"
-    ampWebUrl: "https://venturebeat.com/ai/google-is-transforming-the-cloud-with-ai-for-both-developers-and-regular-users/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/google-is-transforming-the-cloud-with-ai-for-both-developers-and-regular-users/amp/"
+  - title: "How Businesses Can Ethically Embrace Artificial Intelligence"
+    excerpt: "Though there are many benefits to using AI in marketing, we must be aware of the potential risks and ethical concerns that come along with it."
+    publishedDateTime: 2023-05-12T13:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/12/how-businesses-can-ethically-embrace-artificial-intelligence/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/12/how-businesses-can-ethically-embrace-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/05/12/how-businesses-can-ethically-embrace-artificial-intelligence/amp/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 82
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/05/Duet1-e1683757951578.jpg?w=1200&strip=all"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/645d3d41cac5cbcb9fcb5cb6/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 905
+        height: 650
         isCached: true
-  - title: "AI is coming to the Play Store to help both users and devs"
-    excerpt: "Like so many of the announcements during this year’s Google I/O, AI has been the star of the show and it’s turning up in almost everything. The Play Store is taking part in the action with its own set of new features,"
-    publishedDateTime: 2023-05-10T19:32:00Z
-    webUrl: "https://www.androidpolice.com/ai-is-coming-to-the-play-store-to-help-both-users-and-devs/"
+  - title: "IBM to Help Businesses Scale AI Workloads for All Data, Anywhere"
+    excerpt: "IBM today announced the coming launch of IBM watsonx.data, a data store built on an open lakehouse architecture, to help enterprises easily"
+    publishedDateTime: 2023-05-09T17:14:00Z
+    webUrl: "https://www.datanami.com/this-just-in/ibm-to-help-businesses-scale-ai-workloads-for-all-data-anywhere/"
     type: article
     provider:
-      name: Android Police
-      domain: androidpolice.com
+      name: datanami.com
+      domain: datanami.com
     quality: 39
     images:
-      - url: "https://static1.anpoimages.com/wordpress/wp-content/uploads/2023/05/google-io-play-console-ai-hero.jpg"
-        width: 2000
-        height: 1250
+      - url: "https://www.datanami.com/wp-content/uploads/2023/02/AI-North-America23.png"
+        width: 1664
+        height: 674
         isCached: true
-  - title: "Transformative impact of AI and quantum sets the tone for IBM Think"
-    excerpt: "In IBM Corp.’s view of the world, the tech industry is coming to a place where the intersection of cloud, artificial intelligence and quantum computing will trigger a significant transformation. “It’s a massive moment of technological advancement,"
-    publishedDateTime: 2023-05-11T19:47:00Z
-    webUrl: "https://siliconangle.com/2023/05/11/transformative-impact-ai-quantum-sets-tone-ibm-think/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 17
 
 secured: "hbhId3+zieRLuwhY/VkUjlPBsq3E8H51EDbbZ3O1PonjIq7nq1xyIxUFSjWYmixnwpnOCybC0FJ3ZkpPX8sjsVyrA2FvcvBjsLUmC7O0adIEjMXNnYVOaByLPFobQFCRolgg/SMVvfdplPmCbfEaRfJUsOXuroYJhv/eobxHb4Th4oJyFLrljEH24oNWOnm5sIh6jh+KKAQYrc46/a0uM3uJ+hduF1QvwJHkKo1ZTACmtahukzdo2T7RjT1YHTw38DTCeIZLT2YcPnD4VWj1yuA72hvwkaneyTiXWIn+2MC1PplM9vjsFFeXJLIUHzt7O/tlNBeLCQ5XWOrhrBf4BCA0YXNMKL5OjV77r/cRqYk=;tENzV3l/btLLRTtbp3YesA=="
 ---

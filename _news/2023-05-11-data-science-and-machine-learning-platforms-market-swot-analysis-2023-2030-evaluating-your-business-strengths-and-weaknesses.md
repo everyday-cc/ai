@@ -29,43 +29,71 @@ images:
     isCached: true
 
 related:
-  - title: "2030, GPU for Deep Learning Market with PESTAL & SWOT Analysis"
-    excerpt: "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and"
-    publishedDateTime: 2023-05-07T19:31:00Z
-    webUrl: "https://www.marketwatch.com/press-release/2030-gpu-for-deep-learning-market-with-pestal-swot-analysis-2023-05-07"
+  - title: "Global Artificial Intelligence Robotics Market [2023-2030] | Understanding the Impact of Trend and Technology"
+    excerpt: "Global “Artificial Intelligence Robotics Market” (2023-2030) research report provides key analysis on the market status"
+    publishedDateTime: 2023-05-10T07:34:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-robotics-market-2023-2030-understanding-the-impact-of-trend-and-technology-2023-05-10"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 86
+    quality: 82
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "2030, Data Science and Machine Learning Service Market with PESTAL & SWOT Analysis"
-    excerpt: "Global Data Science and Machine Learning Service Market Report 2023 is spread across130 pagesand provides exclusive vital statistics, data, information, trends and competitive landscape details in this niche sector. “Global Data Science and Machine ..."
-    publishedDateTime: 2023-05-11T22:38:00Z
-    webUrl: "https://www.marketwatch.com/press-release/2030-data-science-and-machine-learning-service-market-with-pestal-swot-analysis-2023-05-11"
+  - title: "2023 To 2030, Data and AI Ethics Market Size With The Rising Need To Broaden Viewpoint"
+    excerpt: "This Data and AI Ethics Market report researches the key producers of Data and AI Ethics, also provides the sales of main regions and countries. Highlights of the upcoming market"
+    publishedDateTime: 2023-05-11T06:59:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-to-2030-data-and-ai-ethics-market-size-with-the-rising-need-to-broaden-viewpoint-2023-05-11"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 63
+    quality: 76
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "SWOT Analysis of the Autonomous or Driverless Cars Market Include Top Manufacturers Analysis 2023-2030"
-    excerpt: "Pre and Post-Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and"
-    publishedDateTime: 2023-05-09T18:52:00Z
-    webUrl: "https://www.marketwatch.com/press-release/swot-analysis-of-the-autonomous-or-driverless-cars-market-include-top-manufacturers-analysis-2023-2030-2023-05-09"
+  - title: "Face Recognition Systems Market | Worldwide Industry Trends 2023-2030"
+    excerpt: "The report offers essential statistical information on the market status of Face Recognition Systems players, making it"
+    publishedDateTime: 2023-05-11T10:41:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-systems-market-worldwide-industry-trends-2023-2030-2023-05-11"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 53
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Facial Recognition Access Control Solutions Market 2023-2030 with Emerging Trends and Technologies"
+    excerpt: "Additionally, the report [117 Pages] examines emerging technological developments and RandD spending by key vendors. It comprehensively covers critical elements such as global Facial Recognition Access Control Solutions market share,"
+    publishedDateTime: 2023-05-11T17:53:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-access-control-solutions-market-2023-2030-with-emerging-trends-and-technologies-2023-05-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 55
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global \"Speech and Voice Recognition Technology Market\" 2023 (Latest Report) Becoming the Top Industry Player by 2030 | 116 Pages Report"
+    excerpt: "The Speech and Voice Recognition Technology Market Scope and Overview Report for 2023 presents a detailed analysis of"
+    publishedDateTime: 2023-05-08T06:38:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-speech-and-voice-recognition-technology-market-2023-latest-report-becoming-the-top-industry-player-by-2030-116-pages-report-2023-05-08"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 21
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

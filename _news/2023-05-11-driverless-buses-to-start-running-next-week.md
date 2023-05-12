@@ -71,6 +71,20 @@ related:
         width: 650
         height: 400
         isCached: true
+  - title: "SWOT Analysis of the Autonomous or Driverless Cars Market Include Top Manufacturers Analysis 2023-2030"
+    excerpt: "Pre and Post-Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and"
+    publishedDateTime: 2023-05-09T18:52:00Z
+    webUrl: "https://www.marketwatch.com/press-release/swot-analysis-of-the-autonomous-or-driverless-cars-market-include-top-manufacturers-analysis-2023-2030-2023-05-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 53
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "UK To Roll Out Driverless Bus Service"
     excerpt: "The UK will roll out its first driverless bus network in Scotland next week with drivers on standby behind the steering wheel, ready to take control"
     publishedDateTime: 2023-05-12T03:40:00Z

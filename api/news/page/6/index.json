@@ -2,6 +2,393 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-05-09-deepmind-boss-says-human-level-ai-is-just-a-few-years-away.md",
+      "title": "DeepMind boss says human-level AI is just a few years away",
+      "excerpt": "The head of Google’s artificial intelligence division DeepMind has predicted that human-level AI may be just a few years away. The forecast from Demis Hassabis puts the date for the arrival of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.independent.co.uk/tech/ai-deepmind-artificial-general-intelligence-b2332322.html",
+      "originalUrl": "https://www.independent.co.uk/tech/ai-deepmind-artificial-general-intelligence-b2332322.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.independent.co.uk/2023/05/04/10/deepmind%20human%20level%20ai.jpg?quality=75&width=1200&auto=webp",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.independent.co.uk/tech/ai-deepmind-artificial-general-intelligence-b2332322.html",
+      "cdnAmpWebUrl": "https://www-independent-co-uk.cdn.ampproject.org/c/s/www.independent.co.uk/tech/ai-deepmind-artificial-general-intelligence-b2332322.html",
+      "publishedDateTime": "2023-05-09T01:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Independent",
+        "domain": "independent.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-09-ibm-takes-another-shot-at-watson-as-ai-boom-picks-up-steam.md",
+      "title": "IBM takes another shot at Watson as A.I. boom picks up steam",
+      "excerpt": "It’s been a long time since IBM has actively touted Watson. Originally created to beat humans at the “Jeopardy!” game show, Watson marked IBM’s early splash in artificial intelligence, but it never amounted to a profitable offering.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/05/09/ibm-takes-another-shot-at-watson-as-ai-boom-picks-up-steam.html",
+      "originalUrl": "https://www.cnbc.com/2023/05/09/ibm-takes-another-shot-at-watson-as-ai-boom-picks-up-steam.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107184040-1674677984697-gettyimages-1246298067-DAVOS_WEF_2023.jpeg?v=1683626401",
+          "width": 4000,
+          "height": 2692,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2023/05/09/ibm-takes-another-shot-at-watson-as-ai-boom-picks-up-steam.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/05/09/ibm-takes-another-shot-at-watson-as-ai-boom-picks-up-steam.html",
+      "publishedDateTime": "2023-05-09T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-09-finovax-leads-the-charge-in-fintech-innovation-ai-powered-solutions-drive-business-growth.md",
+      "title": "Finovax Leads the Charge in Fintech Innovation: AI-Powered Solutions Drive Business Growth",
+      "excerpt": "New York-Based Fintech Company Embraces Artificial Intelligence to Revolutionize Financial Data Products and Fuel",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/finovax-leads-the-charge-in-fintech-innovation-ai-powered-solutions-drive-business-growth-2023-05-09",
+      "originalUrl": "https://www.marketwatch.com/press-release/finovax-leads-the-charge-in-fintech-innovation-ai-powered-solutions-drive-business-growth-2023-05-09",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 189,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-09T00:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-09-chatgpt-can-students-pass-using-ai-tools-at-university.md",
+      "title": "ChatGPT: Can students pass using AI tools at university?",
+      "excerpt": "As with most universities, Bath's policy on ChatGPT and other AI tools is still in the works. It is due to be in place from September. After that, a team will meet throughout the year to ensure it keeps up with the rapidly changing technology. In the meantime, many staff are once again setting in-person, invigilated summer exams.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.co.uk/news/education-65316283",
+      "originalUrl": "https://www.bbc.co.uk/news/education-65316283",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/0991/production/_129594420_gettyimages-1460902077.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.co.uk/news/education-65316283.amp",
+      "cdnAmpWebUrl": "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/education-65316283.amp",
+      "publishedDateTime": "2023-05-09T00:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-09-the-natural-language-processing-nlp-software-market-is-poised-to-experience-huge-growth-to-2023.md",
+      "title": "The Natural Language Processing (NLP) Software Market is Poised to Experience Huge Growth to 2023",
+      "excerpt": "Natural Language Processing (NLP) Software Market Size 2023 | New Report (120 Pages) | Analytics | In This Reports",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/the-natural-language-processing-nlp-software-market-is-poised-to-experience-huge-growth-to-2023-2023-05-09",
+      "originalUrl": "https://www.marketwatch.com/press-release/the-natural-language-processing-nlp-software-market-is-poised-to-experience-huge-growth-to-2023-2023-05-09",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-08T23:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-09-ai-in-computer-vision-market-growth-and-revenue-forecast-by-2030.md",
+      "title": "AI In Computer Vision Market Growth and Revenue Forecast by 2030",
+      "excerpt": "Brief Overview of the AI In Computer Vision Market: During The Forecast Period Spanning from 2023 To 2030, The Global AI In Computer Vision Market Is Expected to Experience Significant Growth. As of 2022, The Market Is Steadily Increasing, and with The ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-growth-and-revenue-forecast-by-2030-2023-05-08",
+      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-growth-and-revenue-forecast-by-2030-2023-05-08",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 314,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-08T22:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-09-ai-machine-learning-openlayer-finalizes-48m-seed-round.md",
+      "title": "AI, Machine Learning: Openlayer Finalizes $4.8M Seed Round",
+      "excerpt": "Openlayer, which claims to be the creator of the most comprehensive platform for testing AI, announced that it has closed a $4.8M seed round.",
+      "sourceUrl": null,
+      "webUrl": "https://www.crowdfundinsider.com/2023/05/206771-ai-machine-learning-openlayer-finalizes-4-8m-seed-round/",
+      "originalUrl": "https://www.crowdfundinsider.com/2023/05/206771-ai-machine-learning-openlayer-finalizes-4-8m-seed-round/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2018/12/US-Dollar-George-Washington-Money.jpg",
+          "width": 1280,
+          "height": 1047,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.crowdfundinsider.com/2023/05/206771-ai-machine-learning-openlayer-finalizes-4-8m-seed-round/amp/",
+      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/05/206771-ai-machine-learning-openlayer-finalizes-4-8m-seed-round/amp/",
+      "publishedDateTime": "2023-05-08T19:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crowdfund Insider",
+        "domain": "crowdfundinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-09-new-jersey-biotech-company-uses-artificial-intelligence-for-drug-development.md",
+      "title": "New Jersey biotech company uses artificial intelligence for drug development",
+      "excerpt": "PsychoGenics CEO Emer Leahy of Paramus, New Jersey, explains how the first potential AI-discovered treatment for schizophrenia was developed through machine learning. Fox News Digital spoke with her.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/video/6327063190112",
+      "originalUrl": "https://www.foxnews.com/video/6327063190112",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/44203693-1c85-4ea8-9deb-8fba074c2686/b1fd64fd-3b38-49fb-b878-65d240efae67/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "width": 1024,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-08T18:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-09-apple-co-founder-says-ai-may-make-scams-harder-to-spot.md",
       "title": "Apple co-founder says AI may make scams harder to spot",
       "excerpt": "Apple co-founder, Steve Wozniak, has warned that artificial intelligence (AI) could make scams and misinformation harder to spot. Mr Wozniak says he fears the technology will be harnessed by \"bad actors\". Speaking to the BBC, he said AI content should be clearly labelled, and regulation was needed for the sector.",
@@ -92,6 +479,57 @@
       ],
       "topics": [
         "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-09-william-on-f1-ai-harvard-and-the-future-of-the-black-eyed-peas.md",
+      "title": "Will.i.am On F1, AI, Harvard And The Future Of The Black-Eyed Peas",
+      "excerpt": "The entrepreneur and cofounder of The Black-Eyed Peas talks about his innovative artist-in-residence program with Formula 1, a sport that he calls “a perfect example of science, technology, engineering.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/dianebrady/2023/05/08/william-on-f1-ai-harvard-and-the-future-of-the-black-eyed-peas/",
+      "originalUrl": "https://www.forbes.com/sites/dianebrady/2023/05/08/william-on-f1-ai-harvard-and-the-future-of-the-black-eyed-peas/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64597685dc84d6dd7e2796e1/0x0.jpg?format=jpg&crop=2997,1405,x0,y15,safe&width=1200",
+          "width": 1200,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-08T15:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
@@ -767,454 +1205,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-08-jobs-market-remains-strong-and-the-fed-hints-at-a-pause-to-rate-hikes-forbes-ai-newsletter-may-6th.md",
-      "title": "Jobs Market Remains Strong And The Fed Hints At A Pause To Rate Hikes - Forbes AI Newsletter May 6th",
-      "excerpt": "Subscribe to the Forbes AI newsletter to stay in the loop and get AI-backed investing insights, the latest news and more delivered directly to your inbox every weekend.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/qai/2023/05/08/jobs-market-remains-strong-and-the-fed-hints-at-a-pause-to-rate-hikesforbes-ai-newsletter-may-6th/",
-      "originalUrl": "https://www.forbes.com/sites/qai/2023/05/08/jobs-market-remains-strong-and-the-fed-hints-at-a-pause-to-rate-hikesforbes-ai-newsletter-may-6th/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6458f92af96b32b6112796dd/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 789,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/qai/2023/05/08/jobs-market-remains-strong-and-the-fed-hints-at-a-pause-to-rate-hikesforbes-ai-newsletter-may-6th/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/05/08/jobs-market-remains-strong-and-the-fed-hints-at-a-pause-to-rate-hikesforbes-ai-newsletter-may-6th/amp/",
-      "publishedDateTime": "2023-05-08T06:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-08-machine-learning-ml-platforms-market-intelligence-report-2023-2031-by-industry-experts.md",
-      "title": "Machine Learning (ML) Platforms Market Intelligence Report: 2023-2031 by Industry Experts",
-      "excerpt": "Platforms Market ” Research Report 2023-2031 offers a detailed analysis of the industry landscape, including growth drivers, restraints, and competitive dynamics of Top Manufacturers [Microsoft Corporation,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-ml-platforms-market-intelligence-report-2023-2031-by-industry-experts-2023-05-08",
-      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-ml-platforms-market-intelligence-report-2023-2031-by-industry-experts-2023-05-08",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-08T06:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2023-05-08-for-artificial-intelligence-to-really-work-the-military-will-need-better-connectivity.md",
-      "title": "For Artificial Intelligence to Really Work, The Military Will Need Better Connectivity",
-      "excerpt": "While talking with CENTCOM’s chief technology officer, Schuyler Moore, I opined that in a peer fight the U.S. military’s data and communications networks may not hold up for even 24 hours. She waited a beat before saying,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/erictegler/2023/05/08/for-artificial-intelligence-to-really-work-the-military-will-need-better-connectivity/",
-      "originalUrl": "https://www.forbes.com/sites/erictegler/2023/05/08/for-artificial-intelligence-to-really-work-the-military-will-need-better-connectivity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64554c059234b64d096396dd/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 746,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/erictegler/2023/05/08/for-artificial-intelligence-to-really-work-the-military-will-need-better-connectivity/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/erictegler/2023/05/08/for-artificial-intelligence-to-really-work-the-military-will-need-better-connectivity/amp/",
-      "publishedDateTime": "2023-05-08T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-08-galileo-unveils-ml-data-quality-intelligence-platform-for-faster-more-accurate-computer-vision-models.md",
-      "title": "Galileo Unveils ML Data-Quality Intelligence Platform for Faster, More Accurate Computer Vision Models",
-      "excerpt": "Galileo, the first-ever machine-learning (ML) data intelligence company for unstructured data, today announced the",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/galileo-unveils-ml-data-quality-intelligence-platform-for-faster-more-accurate-computer-vision-models-2023-05-08",
-      "originalUrl": "https://www.marketwatch.com/press-release/galileo-unveils-ml-data-quality-intelligence-platform-for-faster-more-accurate-computer-vision-models-2023-05-08",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-08T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-05-08-the-risks-and-limitations-of-ai-in-insurance.md",
-      "title": "The risks and limitations of AI in insurance",
-      "excerpt": "After examining the world of opportunities between AI and the insurance industry, it's time to investigate the risks of AI and how to adopt AI responsibly.\nThe post The risks and limitations of AI in insurance appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/the-risks-and-limitations-of-ai-in-insurance/",
-      "originalUrl": "https://www.ibm.com/blog/the-risks-and-limitations-of-ai-in-insurance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 199,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-08T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-08-saudi-arabias-ai-powerhouse-mozn-announces-gcc-expansion-as-it-launches-into-the-uae.md",
-      "title": "Saudi Arabia’s AI powerhouse, Mozn announces GCC expansion as it launches into the UAE",
-      "excerpt": "Regional AI leader to bring AML and Anti-Fraud capabilities to financial institutions across the Emirates, GCC, boosting their compliance journeys and accelerating economic progress",
-      "sourceUrl": null,
-      "webUrl": "https://www.zawya.com/en/press-release/companies-news/saudi-arabias-ai-powerhouse-mozn-announces-gcc-expansion-as-it-launches-into-the-uae-kxmryqlx",
-      "originalUrl": "https://www.zawya.com/en/press-release/companies-news/saudi-arabias-ai-powerhouse-mozn-announces-gcc-expansion-as-it-launches-into-the-uae-kxmryqlx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.zawya.com/view/acePublic/alias/contentid/MzAzODlmNjktYWQ5MS00/0/mozn1-jpg.jpeg?f=3%3A2",
-          "width": 900,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zawya.com/en/press-release/companies-news/saudi-arabias-ai-powerhouse-mozn-announces-gcc-expansion-as-it-launches-into-the-uae-kxmryqlx?amp=1",
-      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/saudi-arabias-ai-powerhouse-mozn-announces-gcc-expansion-as-it-launches-into-the-uae-kxmryqlx?amp=1",
-      "publishedDateTime": "2023-05-08T04:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-08-driving-profitable-business-growth-5-areas-for-cfos-to-explore.md",
-      "title": "Driving Profitable Business Growth: 5 Areas For CFOs To Explore",
-      "excerpt": "In this new world, business leaders should not forget about the other side of the coin, growth, which drives companies forward.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2023/05/08/driving-profitable-business-growth-5-areas-for-cfos-to-explore/",
-      "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2023/05/08/driving-profitable-business-growth-5-areas-for-cfos-to-explore/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/5fb69234ea23938ddf5c154f/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2023/05/08/driving-profitable-business-growth-5-areas-for-cfos-to-explore/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2023/05/08/driving-profitable-business-growth-5-areas-for-cfos-to-explore/amp/",
-      "publishedDateTime": "2023-05-08T04:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-08-should-we-be-worried-about-ai-i-thought-not-until-i-asked-an-ai.md",
-      "title": "Should We Be Worried About AI? I Thought Not, Until I Asked An AI",
-      "excerpt": "With the introduction of ChatGPT last November, millions of people suddenly discovered that AI was far, far more than just a research activity. The range and sophistication of ChatGPT’s answers to questions across a wide range of disciplines is,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/stevensalzberg/2023/05/08/should-we-be-worried-about-ai-i-thought-not-until-i-asked-an-ai/",
-      "originalUrl": "https://www.forbes.com/sites/stevensalzberg/2023/05/08/should-we-be-worried-about-ai-i-thought-not-until-i-asked-an-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6457a40845ad46981d9c02fc/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/stevensalzberg/2023/05/08/should-we-be-worried-about-ai-i-thought-not-until-i-asked-an-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevensalzberg/2023/05/08/should-we-be-worried-about-ai-i-thought-not-until-i-asked-an-ai/amp/",
-      "publishedDateTime": "2023-05-08T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-08-ai-tools-can-help-musicians-unlock-creativity-and-reach-fans.md",
-      "title": "AI Tools Can Help Musicians Unlock Creativity And Reach Fans",
-      "excerpt": "AI is a game changer for music. It's intuitive, adaptive, suggestive and big-data-powered, and everything from workflow to strategic analysis is set to evolve.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/05/08/ai-tools-can-help-musicians-unlock-creativity-and-reach-fans/",
-      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/05/08/ai-tools-can-help-musicians-unlock-creativity-and-reach-fans/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64555ccda625265f03e31892/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 759,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/05/08/ai-tools-can-help-musicians-unlock-creativity-and-reach-fans/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/05/08/ai-tools-can-help-musicians-unlock-creativity-and-reach-fans/amp/",
-      "publishedDateTime": "2023-05-08T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

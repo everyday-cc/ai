@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-artificial-intell
 webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-robotics-market-2023-2030-understanding-the-impact-of-trend-and-technology-2023-05-10"
 type: article
 quality: 82
-heat: 122
+heat: 132
 published: true
 
 provider:
@@ -67,6 +67,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 55
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Data Science and Machine-Learning Platforms Market SWOT Analysis [2023-2030] Evaluating Your Business Strengths and Weaknesses"
+    excerpt: "To know How COVID-19 and Russia-Ukraine War Influence Will Impact This Market/Industry - Request a sample copy of the report-:  In This Reports Data Science and Machine-Learning Platforms Market Segment by Type ( Open Source Data Integration Tools,"
+    publishedDateTime: 2023-05-11T06:36:00Z
+    webUrl: "https://www.marketwatch.com/press-release/data-science-and-machine-learning-platforms-market-swot-analysis-2023-2030-evaluating-your-business-strengths-and-weaknesses-2023-05-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 26
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

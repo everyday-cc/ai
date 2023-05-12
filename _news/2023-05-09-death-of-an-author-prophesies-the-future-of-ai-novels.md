@@ -7,7 +7,7 @@ originalUrl: "https://www.wired.com/story/death-of-an-author-ai-book-review/"
 webUrl: "https://www.wired.com/story/death-of-an-author-ai-book-review/"
 type: article
 quality: 47
-heat: -1
+heat: 47
 published: false
 
 provider:
@@ -22,38 +22,6 @@ topics:
   - AI
 
 related:
-  - title: "The Geopolitics Of AI Chips Will Define The Future Of AI"
-    excerpt: "The most important and widely used AI chip in the world today, Nvidia’s A100 GPU, has transistors that are 7 nanometers wide. Google’s latest tensor processing unit (TPU)—the most credible alternative to Nvidia GPUs— likewise uses 7-nanometer technology."
-    publishedDateTime: 2023-05-07T23:00:00Z
-    webUrl: "https://www.forbes.com/sites/robtoews/2023/05/07/the-geopolitics-of-ai-chips-will-define-the-future-of-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/robtoews/2023/05/07/the-geopolitics-of-ai-chips-will-define-the-future-of-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2023/05/07/the-geopolitics-of-ai-chips-will-define-the-future-of-ai/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 104
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/645743bb6563f17e999c02fa/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 900
-        isCached: true
-  - title: "The future of AI has begun to look rather too human"
-    excerpt: "The advancements in Large Language Models (LLMs) have led to the creation of AI chatbots that can provide personalized fitness plans and even answer questions as historical figures. However, this raises questions about the potential for AI to become indistinguishable from humans,"
-    publishedDateTime: 2023-05-12T05:46:00Z
-    webUrl: "https://www.livemint.com/opinion/columns/the-future-of-ai-from-chatbots-to-digital-afterlife-what-lies-ahead-for-human-existence-and-society-11683828995918.html"
-    ampWebUrl: "https://www.livemint.com/opinion/columns/the-future-of-ai-from-chatbots-to-digital-afterlife-what-lies-ahead-for-human-existence-and-society/amp-11683828995918.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/opinion/columns/the-future-of-ai-from-chatbots-to-digital-afterlife-what-lies-ahead-for-human-existence-and-society/amp-11683828995918.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 59
-    images:
-      - url: "https://www.livemint.com/lm-img/img/2023/05/11/600x338/AI_1683829938873_1683829939068.JPG"
-        width: 600
-        height: 338
-        isCached: true
   - title: "How lab grown neurons could power the future of AI"
     excerpt: "Melbourne-based Cortical Labs’ lab grown neurons could speed up AI training in a more energy efficient way and its work has caught the eye of hyperscalers and Amazon’s CTO"
     publishedDateTime: 2023-05-08T03:13:00Z

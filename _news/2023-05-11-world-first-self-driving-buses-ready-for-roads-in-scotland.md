@@ -41,20 +41,31 @@ related:
         width: 700
         height: 400
         isCached: true
-  - title: "Britain's first autonomous bus service launches in Scotland"
+  - title: "UK Launches its First Self-Driving Bus Service"
+    excerpt: "Scotland will launch its first driverless bus network. According to the details, the buses will run without any input from the drivers."
+    publishedDateTime: 2023-05-12T13:55:00Z
+    webUrl: "https://propakistani.pk/2023/05/12/uk-launches-its-first-self-driving-bus-service/"
+    ampWebUrl: "https://propakistani.pk/2023/05/12/uk-launches-its-first-self-driving-bus-service/amp/"
+    cdnAmpWebUrl: "https://propakistani-pk.cdn.ampproject.org/c/s/propakistani.pk/2023/05/12/uk-launches-its-first-self-driving-bus-service/amp/"
+    type: article
+    provider:
+      name: ProPakistani
+      domain: propakistani.pk
+    quality: 44
+    images:
+      - url: "https://propakistani.pk/wp-content/uploads/2023/05/Autonomous-Bus-e1683895957688.jpg"
+        width: 1000
+        height: 560
+        isCached: true
+  - title: "Britain’s first autonomous bus service launches in Scotland"
     excerpt: "The UK has celebrated the launch of its first driverless bus service, operated by Stagecoach. The start of the pilot programme was marked by a journey on the service between Ferry Toll near Inverkeithing,"
-    publishedDateTime: 2023-05-12T11:09:00Z
-    webUrl: "https://eandt.theiet.org/content/articles/2023/05/britains-first-autonomous-bus-service-launches-in-scotland/"
+    publishedDateTime: 2023-05-12T13:16:00Z
+    webUrl: "https://eandt.theiet.org/content/articles/2023/05/britain-s-first-autonomous-bus-service-launches-in-scotland/"
     type: article
     provider:
       name: IET
       domain: theiet.org
-    quality: 39
-    images:
-      - url: "https://eandt.theiet.org/media/21406/autonomous-bus-1.jpg?crop=0,0.36166666666666669,0,0.14614583333333328&cropmode=percentage&width=1200&height=450&rnd=133283620740000000"
-        width: 1200
-        height: 450
-        isCached: true
+    quality: 19
   - title: "'World's first' self-driving bus being trialed in Scotland"
     excerpt: "In a world first, a trial is underway in Edinburgh with an autonomous bus taking passengers across the Forth Road Bridge in a viable service route. | ITV National News"
     publishedDateTime: 2023-05-11T18:27:00Z

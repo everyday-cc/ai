@@ -383,6 +383,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Computer Vision Software Market Research, 2030"
+    excerpt: "Precision Reports has published a new report titled as \" Computer Vision Software Market \" by End User ( Automotive, Electronics and Semiconductor, Glass, Metals, Wood and Paper, Food and Packaging, Others ),"
+    publishedDateTime: 2023-05-10T21:21:00Z
+    webUrl: "https://www.marketwatch.com/press-release/computer-vision-software-market-research-2030-2023-05-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Machine Learning 2023 Market Size, Historical Growth, Analysis up to 2030"
     excerpt: "The key players in the Machine Learning market include global distribution system (GDS) providers, such as These companies are typically the largest or most prominent players in the industry, and they may have significant market share,"
     publishedDateTime: 2023-05-10T13:14:00Z
@@ -693,17 +707,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 49
-  - title: "Global Artificial Intelligence (AI) Partnering Terms and Agreements 2010 to 2023"
-    excerpt: "Partnering Terms and Agreements 2010 to 2023\" report has been added to ResearchAndMarkets.com's offering. The Global Artificial"
-    publishedDateTime: 2023-05-11T16:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/05/n32345938/global-artificial-intelligence-ai-partnering-terms-and-agreements-2010-to-2023"
-    ampWebUrl: "https://www.benzinga.com/amp/content/32345938"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32345938"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 49
   - title: "Artificial Intelligence in Healthcare Market 2023 to Hit Significant Growth by 2030| Research Reports World"
     excerpt: "Global “Artificial Intelligence in Healthcare Market” 2023 | New Report | Medical Care Global Industry | (129 Pages"
     publishedDateTime: 2023-05-09T10:33:00Z
@@ -754,6 +757,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 34
+  - title: "Global Artificial Intelligence (AI) Partnering Terms and Agreements 2010 to 2023"
+    excerpt: "Partnering Terms and Agreements 2010 to 2023\" report has been added to ResearchAndMarkets.com's offering. The Global Artificial Intelligence (AI) Partnering Terms and Agreements 2010 to 2023 report provides an understanding and access to the artificial intelligence partnering deals and agreements entered into by the worlds leading healthcare companies."
+    publishedDateTime: 2023-05-11T16:08:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/05/11/9812873.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 29
 
 secured: "F/uhRduxbI6IoZIfyBkNPOiHYVFVuExsXA9fOM8hnmrvHz/3eew7WwbB5xM3hG5Yp6U1BQMt3qYfKTGPKPImee21Jeq+FDi6w1zcKViRdM+S4+hhCrgpsocHLhudQ8OHpFkjauiZymSnRILI9N6+TmXviA31b11K7LbgOm8KLDKB+5ZooC1vb7m2zuuYKvywWLKiiMxG+b0vOye08X0VxnbPQ8g5ypOu2h28UnRmAzA8ihwT487BcCrNxC+O3fYdtG87l9+CgyzIUoXgTY1Tz1SoOl0T3tr99fQJMPLrA5mF1v+IUT4ETu8ZEfbVMWXXPgnuVcuwQYghL+8DGWf0p3W5VCvxEtV+NS7yvhddS94=;6HUZjp5KVRxK7SwDC6pj6Q=="
 ---
