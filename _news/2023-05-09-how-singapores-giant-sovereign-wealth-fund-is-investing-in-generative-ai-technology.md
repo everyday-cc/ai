@@ -7,7 +7,7 @@ originalUrl: "https://www.businessinsider.com/singapore-sovereign-wealth-fund-in
 webUrl: "https://www.businessinsider.com/singapore-sovereign-wealth-fund-investing-in-generative-ai-gic-2023-5"
 type: article
 quality: 60
-heat: 80
+heat: 90
 published: true
 
 provider:
@@ -59,6 +59,20 @@ related:
       - url: "https://images.moneycontrol.com/static-mcnews/2023/02/Growth-image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Wisma Atria Bank is A Trusted and Innovative Financial Institution in Singapore"
+    excerpt: "Wisma Atria Bank is a leading financial institution based in Singapore that provides a wide range of banking and financial services. Established in 1979, the bank has become one of the most respected and trusted banks in Asia."
+    publishedDateTime: 2023-05-13T09:10:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/273830201/wisma-atria-bank-is-a-trusted-and-innovative-financial-institution-in-singapore"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 35
+    images:
+      - url: "https://cdn.bignewsnetwork.com/cus1683777921815.jpg"
+        width: 630
+        height: 420
         isCached: true
 
 secured: "oM29s3zbFjx3IXNXF09v8pANSVghTLkPkURxRGdXm58LeIpeVHi2ZyGm+1ZHxUs0BaQplsCBeDZ/uZO1xGFfcP5lUxHMCDcXX+BB7Ck/KywgwLYpHa9QZQeKUSPICVNLFLqLEZTjtOEyRnsvv2ZInsp3zdYXM7SN3JPC38jpKV+Gl7ohZ9XslgKOsQkcJptCc5LumLMCJMssUPLLtnmtUOBn/0LtbuM8wNCJzB5VYG+A+hZbmm3SOzX9X0p45NIfTe7dOTT2YXvmjNPhLPfK4s0yeI1wZE1gcLNjaGmVaP+olDqM4FSVt0WRHN9TSPStADrdh+7ab2NQBeheCNxUSH18f+RV9kp/CKQlaOIR1NI=;mAZIkThAGyWrnww7ODYGJQ=="

@@ -2,6 +2,111 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2023-04-28-artificial-intelligence-robotics-market-demand-by-2031.md",
+      "title": "Artificial Intelligence Robotics Market Demand by 2031",
+      "excerpt": "The latest market research report on the Global \"Artificial Intelligence Robotics Market\" is segmented by Regions,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robotics-market-demand-by-2031-2023-04-27",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robotics-market-demand-by-2031-2023-04-27",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 191,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-27T19:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-04-28-microsoft-is-ending-windows-10-updates.md",
+      "title": "Microsoft Is Ending Windows 10 Updates",
+      "excerpt": "Attila is a Staff Writer for CNET, covering software, apps and services with a focus on virtual ... to protect their privacy online and Microsoft is finished with major updates to Windows 10 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/tech/services-and-software/microsoft-is-ending-windows-10-updates/",
+      "originalUrl": "https://www.cnet.com/tech/services-and-software/microsoft-is-ending-windows-10-updates/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/7cba03e614d3c08239c138b83b52c8fddabef463/hub/2015/07/29/6c89a30d-005e-4f79-8ea4-8e2466731af2/microsoft-windows-10-start-screen-7179.jpg?auto=webp&fit=crop&height=630&width=1200",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/microsoft-is-ending-windows-10-updates/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/microsoft-is-ending-windows-10-updates/",
+      "publishedDateTime": "2023-04-27T17:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-28-aws-shifts-focus-to-llms-generative-ai-as-growth-continues-to-taper.md",
       "title": "AWS shifts focus to LLMs, generative AI as growth continues to taper",
       "excerpt": "Credit: IDG Amazon’s cloud computing division, AWS, is shifting its focus towards large language models (LLMs) and generative AI-based offerings as it continues to see a downward spiral in ...",
@@ -1065,102 +1170,6 @@
         "Google AI",
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-28-aurora-self-driving-truck-service-to-launch-in-2024.md",
-      "title": "Aurora self-driving truck service to launch in 2024",
-      "excerpt": "Aurora Innovation, the self-driving technology startup founded by Chris Urmson, one of the original engineers of the Google Self-Driving Car Project that eventually became Waymo, plans to launch a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.motorauthority.com/news/1139487_aurora-self-driving-truck-service-to-launch-in-2024",
-      "originalUrl": "https://www.motorauthority.com/news/1139487_aurora-self-driving-truck-service-to-launch-in-2024",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hgmsites.net/hug/aurora-self-driving-truck-prototype_100883024_h.jpg",
-          "width": 1920,
-          "height": 1281,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-27T10:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Motor Authority",
-        "domain": "motorauthority.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-28-tenable-report-shows-how-generative-ai-is-changing-security-research.md",
-      "title": "Tenable report shows how generative AI is changing security research",
-      "excerpt": "A Tenable report reveals four ways researchers can use generative AI to enhance vulnerability analysis and debugging.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/security/tenable-report-shows-how-generative-ai-is-changing-security-research/",
-      "originalUrl": "https://venturebeat.com/security/tenable-report-shows-how-generative-ai-is-changing-security-research/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 186,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1076658494.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 603,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/security/tenable-report-shows-how-generative-ai-is-changing-security-research/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/security/tenable-report-shows-how-generative-ai-is-changing-security-research/amp/",
-      "publishedDateTime": "2023-04-27T10:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

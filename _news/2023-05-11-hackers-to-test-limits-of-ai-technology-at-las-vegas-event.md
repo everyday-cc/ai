@@ -59,7 +59,7 @@ related:
     provider:
       name: Nasdaq
       domain: nasdaq.com
-    quality: 47
+    quality: 49
   - title: "Mass event will let hackers test limits of AI technology"
     excerpt: "No sooner did ChatGPT get unleashed than hackers started “jailbreaking” the artificial intelligence chatbot – trying to override its safeguards so it could blurt out something unhinged or obscene"
     publishedDateTime: 2023-05-10T15:02:00Z

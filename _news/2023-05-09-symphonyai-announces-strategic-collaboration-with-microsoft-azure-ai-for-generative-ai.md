@@ -1,22 +1,18 @@
 ---
 category: news
 title: "SymphonyAI announces strategic collaboration with Microsoft Azure AI for generative AI"
-excerpt: "SymphonyAI introduces Sensa Copilot, a vertical application that integrates Microsoft Azure OpenAI Service and Azure Cognitive Search to drive"
-publishedDateTime: 2023-05-09T12:30:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/symphonyai-announces-strategic-collaboration-with-microsoft-azure-ai-for-generative-ai-1032305943"
-webUrl: "https://markets.businessinsider.com/news/stocks/symphonyai-announces-strategic-collaboration-with-microsoft-azure-ai-for-generative-ai-1032305943"
+excerpt: "SymphonyAI introduces Sensa Copilot, a vertical application that integrates Microsoft Azure OpenAI Service and Azure Cognitive Search to drive value for customers in financial crime prevention and regulatory compliance PALO ALTO,"
+publishedDateTime: 2023-05-09T16:34:00Z
+originalUrl: "https://it.tmcnet.com/news/2023/05/09/9809924.htm"
+webUrl: "https://it.tmcnet.com/news/2023/05/09/9809924.htm"
 type: article
-quality: 71
+quality: 41
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Microsoft AI
@@ -446,6 +442,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "J0HK16XuAbkWMy6m2jGeP+OZACOaF9bM20w6jWvXPFd3f+0lmNFs1K9ZxJGPR22QLAcl7vJ18rG5v3m3PZ6expxWczkED9JJqcjRwwTiil0/LzDuifFfMlD/Wuy6oFwxHPkR6KKEVEHFRd9dABPcESKwv6Sl2pOzPSTIBxA0Vn2timfc9SV3ARaTJLyjPp2ZfX/qEXmvK+e6GGi0XAu4dovizN5dIZ2fAJ/vZuZf7HhCwmH4MwuyjR+IxdUbyNb/S2Xpq/DdoHdkjRLjmThqTamuDp/qWdgi7N5+w414QqV+ciIHfsCpiIbPcrL5ORvpsbcgV9CS0VcdPYwb6HLETKpAfHGZp9UaMC5dfKGNtgI=;574IlhilL1BgpX/XUTJfBA=="
+secured: "IXLBaU2KmWdFqAQejGF89Kef2AkuwROx8bJ+N8jvt9lSUP5H7r/+1WvHSFH9BgGm9MH3zkKeZ5TitMda5ReyDiJ7W+VfCj8nr4WiYmS0rNpFXZ2cKCueKSVbGGAYcry5uU4osfJUMPBDYq8TPUet2XLCr0MErkTIWem8AyqvMegq27j2y6OIs5rRsEhybK+fXL64b2rZO8TzkKYU9s6e8uWbfTAXjecg1wNMSP29wMD5CGV5sS680g887qIvqVydbeosFlA2+wIyHpb8iGZADRznislbuap2567gi5urzc18BB5QTrd1jkw7SKV0VkzDNNBF2rSIKXVAHWYI1QruXlYMjNnSKX/fUFHRH6xnIwk=;kOLveGf5Nz0Z8If+CS52UA=="
 ---
 

@@ -46,22 +46,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "White House challenges hackers to break top AI models at DEF CON 31"
-    excerpt: "On Thursday, the White House announced a surprising collaboration between top AI developers, including OpenAI, Google, Antrhopic, Hugging Face, Microsoft, Nvidia, and Stability AI, to participate in a public evaluation of their generative AI systems at DEF CON 31,"
-    publishedDateTime: 2023-05-08T16:42:00Z
-    webUrl: "https://arstechnica.com/information-technology/2023/05/white-house-challenges-hackers-to-break-top-ai-models-at-def-con-31/"
-    ampWebUrl: "https://arstechnica.com/information-technology/2023/05/white-house-challenges-hackers-to-break-top-ai-models-at-def-con-31/amp/"
-    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/05/white-house-challenges-hackers-to-break-top-ai-models-at-def-con-31/amp/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 87
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/05/cyber_whitehouse_hero_2-800x450.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "US Federal Government CIOs Share Challenges And Insights Into Future Of AI And Technology"
     excerpt: "At the GITEC 2023 Conference hosted in Annapolis, government CIOs shared some of their insights into where hot technologies like AI, but also less “sexy” technology priorities such as IT modernization and big data analytics,"
     publishedDateTime: 2023-05-10T19:47:00Z
@@ -93,6 +77,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "5fuDYgLuosnpsP4KZYfmPLi3UTCrDxihkgqcPQ+Hw0VhPLx8yaH1Ascx7HweyU/EDyTWx7aM3o2WWDB1ilnlmu1qrUkr/zc1Vqa3F6fNDThD3hgHhljL4lAmQO4tAsjzXqnJH39RY6vkd+iEqx5KEuKHfR5Ryyt5SdCvOvNUjal1RGuFRamqd8eIlf2wsj8dftY4e/whI7saNUA9rBKziHLpClZ3Bjf47sCw8EkH89NGEB7Jm0ImQxJocoV9Bo0y4bjJkbxsZg4oUmT1Ljzre+OnpqKZFhiXiz0hziRb5t6639ZpeUaselGTFO2ozGK/YVH3MieXQhVpHe8DOYf7Ks8wg1EH+loaUaXsCsh/HDM=;x2o7OSWiFa6HnAAip3JEpw=="
+secured: "SXS5ZlG6hBFF0ziDmGFPAWuPhMzcxoT1+/yYWW1c6e737unK78DG2Hpt9PFyQTr68W4JjLB9a4Ju9IUrZIccOFJFclsQnkYcBFL0vCCGnslN/imt3yqemUWCpqCovI+AkjSeB1wAd1QXaXvRK/ZP3K3WVHKl6pPfayYPohoHmFlrBcxjejslgk9WiYv8UAvxlwArQRBZzYQNupBzDyz5RlImKmRkB7vprehb5Oy9wYqVDJ1GXFienk+vuq1/qLmDCOIE9UdsYvs7c/kr0dc2lLd3Uti5OkbRIZVqoSsdT5blfTHFc/NgFj06WYyl7Xs8Pibn/SRAnb3chtgyjOuYSo60hipFcFKkr+TN2vy8RhhTqlWaAEPtHUI8NrLBsmzGYT9l4jefJh/+Ipa4OUpyYljN3LWjuGM/sUNMeXREjix6uhWZu5kzCzIjWLsXvB7n5eTsULyQIgFuqozQgTKY+tDMzU53rYDoqufovOPijPQWL4KWks5p4tj6t1vLfj4hgWuN2qpG/oqZ4pFcbul+HQ==;7mBWNPM7WYn6pQuLbIZZtA=="
 ---
 

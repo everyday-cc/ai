@@ -7,8 +7,8 @@ originalUrl: "https://www.entrepreneur.com/business-news/spotify-removes-thousan
 webUrl: "https://www.entrepreneur.com/business-news/spotify-removes-thousands-of-boomys-ai-generated-songs/451985"
 type: article
 quality: 60
-heat: 70
-published: true
+heat: 60
+published: false
 
 provider:
   name: Entrepreneur
@@ -26,22 +26,6 @@ images:
     width: 2000
     height: 1333
     isCached: true
-
-related:
-  - title: "Boomy’s AI-generated tracks start landing back on Spotify amid growing battle against artificial streaming"
-    excerpt: "Less than a week after uploads to Spotify from AI-powered music creation app Boomy were blocked over concerns about artificial streaming, Boomy says it’s back in business on the prominent music streaming platform."
-    publishedDateTime: 2023-05-08T15:08:00Z
-    webUrl: "https://www.musicbusinessworldwide.com/boomys-ai-generated-tracks-start-landing-back-on-spotify-amid-growing-battle-against-artificial-streaming/"
-    type: article
-    provider:
-      name: Spotify
-      domain: musicbusinessworldwide.com
-    quality: 19
-    images:
-      - url: "https://www.musicbusinessworldwide.com/files/2023/05/growtika-3C0SWyusdS8-unsplash.jpg"
-        width: 3840
-        height: 2160
-        isCached: true
 
 secured: "jPZXt7kyHzjI5ZL2dwiTR6BviQGFPzU52bt0A7fMqMerIQ9eaS2yVObn0E8WG1Mxf+RQHyO3DAPk5nJ0NuvQSj0pQPnY6InGnadmmsF2idldeqKdexf0PEuZDtKQIvizijmLea6F4g1P2Zfme4fs4PNEsh7h5HEK/VZymCOObk92YA3SMEAIWWba8Ykm+BRN/MZOpUw+y88w84XUp59X99NvTd+g0+7wquJ9943TiVyte6uQKBTPIh6vEuv832RXq/Z97Q6Q5iDrfS1P8XFrLFQZgK0dwbXW0Roh+jEHvRhdxVZMINoRWoJf9zLENWmxtV69y8i/VtrJJwD8MAifwlG36T2gyVGR9XV+UmMf0MBaxiUnej8o0RG8Vh2cl/Z0RvB94RzBpqnJ/5R6OPF22HewKsSXi1Mejf4bo4+Wcjp1tQAAeriBosYvUk2/Eo0oSuIBN1NTFDfh4bFIZnfhsJ//T9vyHhoC0a7DxWY6ielmPlsbGnMrSNM080PLlWkY7CeKIfSBsVmOARhg9+C3NQ==;yGrGiZotT+DyRXTuYPyfSg=="
 ---

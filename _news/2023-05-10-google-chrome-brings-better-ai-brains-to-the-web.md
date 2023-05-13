@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/google-chrome-brings-better-ai-
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/google-chrome-brings-better-ai-brains-to-the-web/"
 type: article
 quality: 87
-heat: 137
+heat: 147
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "How a Toronto computer chip maker is providing the better brains AI runs on"
+    excerpt: "From its downtown Toronto HQ, Untether is designing the computer chips that run artificial intelligence programs more efficiently."
+    publishedDateTime: 2023-05-13T09:15:00Z
+    webUrl: "https://www.thestar.com/business/2023/05/13/untether-ai-ceo-arun-iyengar-on-the-hidden-energy-crisis-in-ai-semiconductors-and-why-he-stayed-in-canada.html"
+    ampWebUrl: "https://www.thestar.com/amp/business/2023/05/13/untether-ai-ceo-arun-iyengar-on-the-hidden-energy-crisis-in-ai-semiconductors-and-why-he-stayed-in-canada.html"
+    cdnAmpWebUrl: "https://www-thestar-com.cdn.ampproject.org/c/s/www.thestar.com/amp/business/2023/05/13/untether-ai-ceo-arun-iyengar-on-the-hidden-energy-crisis-in-ai-semiconductors-and-why-he-stayed-in-canada.html"
+    type: article
+    provider:
+      name: Toronto Star
+      domain: thestar.com
+    quality: 72
+    images:
+      - url: "https://www.thestar.com/content/dam/thestar/star-chevron-16x9.png.size.custom.crop.640x360.jpg"
+        width: 640
+        height: 360
+        isCached: true
   - title: "Google Is Opening the AI Floodgates"
     excerpt: "This week we recap all the news from Google I/O and discuss how the company is reshaping its core business with generative tools."
     publishedDateTime: 2023-05-12T12:00:00Z

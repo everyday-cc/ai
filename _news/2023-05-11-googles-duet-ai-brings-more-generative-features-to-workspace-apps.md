@@ -109,20 +109,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Why generative AI is the finance industry’s road to superior customer service"
-    excerpt: "Delivering a premium customer experience has always been essential to financial services. But in today’s rapidly changing environment, financial institutions need to do more than maintain the experiences they’ve developed."
-    publishedDateTime: 2023-05-08T15:38:00Z
-    webUrl: "https://techcrunch.com/sponsor/nvidia-aws-company/why-generative-ai-is-the-finance-industrys-road-to-superior-customer-service/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 83
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/04/GettyImages-1456589557.jpg?resize=1200,633"
-        width: 1200
-        height: 633
-        isCached: true
   - title: "Zendesk AI: Leveling up with generative AI for a more intuitive and intelligent CX platform"
     excerpt: "Zendesk announced new AI capabilities including advanced CX bots, AI-powered assistance for human CX agents and intelligent triage."
     publishedDateTime: 2023-05-10T15:01:00Z
@@ -152,22 +138,6 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/QQawoxSGsujkaqzq1e5nMDIBGdw=/0x0:2620x1500/1200x628/filters:focal(233x623:234x624)/cdn.vox-cdn.com/uploads/chorus_asset/file/24644238/SGE_Bluetooth_Speakers_v2.png"
         width: 1200
         height: 628
-        isCached: true
-  - title: "ChatGPT and Generative AI in Media and Advertising: With Use Cases Set, the Battle for Hearts and Minds Begins"
-    excerpt: "Generative AI can already do much of the work and low-skilled labor that powers modern media and advertising."
-    publishedDateTime: 2023-05-08T17:01:00Z
-    webUrl: "https://www.businessinsider.com/chatgpt-and-generative-ai-media-and-advertising-battle-use-cases-2023-may"
-    ampWebUrl: "https://www.businessinsider.com/chatgpt-and-generative-ai-media-and-advertising-battle-use-cases-2023-may?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-and-generative-ai-media-and-advertising-battle-use-cases-2023-may?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 67
-    images:
-      - url: "https://i.insider.com/64402b373f6f690018de8d48?width=1200&format=jpeg"
-        width: 470
-        height: 352
         isCached: true
   - title: "Google Says Search Enters New Era With Conversational AI Features"
     excerpt: "The company intends to use AI programs to provide lengthier replies to queries. The new features invite follow-up questions."
@@ -390,6 +360,20 @@ related:
     quality: 37
     images:
       - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/05/11/76c64e6b-6549-4c21-8823-8f3d1bf8f87a/thumbnail/1200x630/24eb6d37a456e6c3f266e2d621d2d54e/5ce48051e6594736cf61c54a5327ef5c.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Meta to start testing generative AI tools for advertisers"
+    excerpt: "The generative AI ad tool AI Sandbox is currently being released to a small group of advertisers and will see a bigger release in July."
+    publishedDateTime: 2023-05-13T07:57:00Z
+    webUrl: "https://www.afaqs.com/news/digital/meta-to-start-testing-generative-ai-tools-for-advertisers"
+    type: article
+    provider:
+      name: AFAQS
+      domain: afaqs.com
+    quality: 37
+    images:
+      - url: "https://gumlet.assettype.com/afaqs%2F2023-05%2F32d75038-49eb-43cb-91fe-9da8b8d51f58%2Fmedia_mantra__3_.png?rect=0%2C20%2C1280%2C672&w=1200&auto=format%2Ccompress&ogImage=true"
         width: 1200
         height: 630
         isCached: true

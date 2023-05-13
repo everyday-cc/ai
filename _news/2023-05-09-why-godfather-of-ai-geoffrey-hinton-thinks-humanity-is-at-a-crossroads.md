@@ -7,7 +7,7 @@ originalUrl: "https://www.theguardian.com/news/audio/2023/may/09/godfather-ai-ge
 webUrl: "https://www.theguardian.com/news/audio/2023/may/09/godfather-ai-geoffrey-hinton-humanity-crossroads-podcast"
 type: article
 quality: 36
-heat: -1
+heat: 36
 published: false
 
 provider:
@@ -26,22 +26,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "What Really Made Geoffrey Hinton Into an AI Doomer"
-    excerpt: "The AI pioneer is alarmed by how clever the technology he helped create has become. And it all started with a joke."
-    publishedDateTime: 2023-05-08T15:18:00Z
-    webUrl: "https://www.wired.com/story/geoffrey-hinton-ai-chatgpt-dangers/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 67
-    images:
-      - url: "https://media.wired.com/photos/6458f22c4a854832b16fcf7b/191:100/w_1280,c_limit/GeoffHinton_Biz_h_15908078.jpg"
-        width: 1280
-        height: 670
-        isCached: true
 
 secured: "9qarEZ7IMhMk6/mRaSM9y4BGxlYZnD9r2XF+Q9yDULlWXcbwmUgnorwbvlbB9dx5hW4CTT2Q3zF004iRbKMPsn4/QfTAKrBikVSFvQxSm49/bELUHtPp2BknQcg90e9GlpWLzKAFDBozSvTFoqPOJlwvyjiaGuC2ZWeWCMfXOYxh2LSZokyZW78BB7Rr1avBccVFDlPso/FuL0ORSAoadng4XnvHhQEcI5GQOmK3WqkX0HWEmS0Zx4NgEAWClxAdUjbTDcIo+MagJ5Wa7hr7hgxDfvpcfJP+pkfnMWMH4JYmTA2z+RHlP7HoZlaNU7OX0CIB0DhGwyF50hky+b9UvnfhkCAFEqmOQGUX/E9sH2a2JXVcDyFQzU3tYcWKjVaoLMqAeOfDTcjtAwVnPAm35HRuuC58FuA+8NZZNASrEr9Im0M/T5zI8RzR8jbUiwh/nYoAJpOClNOMU/F3Loe1nmVpF6OhRD5wAcdlfxSCng8HbIYQbAYsGIfZD/XejxF+jNvOXHam8CbrEU9S6nJXyA==;L2B75qG2W5vr4qf7MkAviQ=="
 ---

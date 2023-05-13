@@ -6,7 +6,7 @@ publishedDateTime: 2023-05-11T16:17:00Z
 originalUrl: "https://www.nasdaq.com/articles/3-ai-stocks-that-have-game-changing-technologies"
 webUrl: "https://www.nasdaq.com/articles/3-ai-stocks-that-have-game-changing-technologies"
 type: article
-quality: 47
+quality: 49
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Microsoft AI
 
 related:
   - title: "Mass Event Will Let Hackers Test Limits of AI Technology"

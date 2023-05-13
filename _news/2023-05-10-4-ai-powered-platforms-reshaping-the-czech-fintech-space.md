@@ -41,20 +41,6 @@ related:
         isCached: true
   - title: "How Artificial Intelligence is Revolutionising the Fintech Landscape?"
     excerpt: "According to surveys, 2/3 of FinTech companies currently use AI technology in their activities to a greater or lesser extent. Its influence will increase. Last year, the worldwide market for AI solutions in the FinTech industry was assessed at roughly 9 billion USD;"
-    publishedDateTime: 2023-05-08T17:05:00Z
-    webUrl: "https://www.baltictimes.com/how_artificial_intelligence_is_revolutionising_the_fintech_landscape_/"
-    type: article
-    provider:
-      name: The Baltic Times
-      domain: baltictimes.com
-    quality: 39
-    images:
-      - url: "https://media.baltictimes.com/media/photos/157961_66405011364592af6ddd73_big.jpg"
-        width: 855
-        height: 570
-        isCached: true
-  - title: "How Artificial Intelligence is Revolutionising the Fintech Landscape?"
-    excerpt: "According to surveys, 2/3 of FinTech companies currently use AI technology in their activities to a greater or lesser extent. Its influence will increase. Last year, the worldwide market for AI solutions in the FinTech industry was assessed at roughly 9 billion USD;"
     publishedDateTime: 2023-05-10T14:04:00Z
     webUrl: "https://www.lrytas.lt/english/feature/2023/05/10/news/how-artificial-intelligence-is-revolutionising-the-fintech-landscape--26994790"
     type: article

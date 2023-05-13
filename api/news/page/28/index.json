@@ -2,6 +2,110 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2023-04-26-artificial-neural-networks-market-share-and-forecast-till-2030.md",
+      "title": "Artificial Neural Networks Market Share and Forecast till 2030",
+      "excerpt": "Newest Report will contain the Competitional Analysis of Top 5 Key Plyers (Intel, Starmind, Clarifai, Microsoft,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-neural-networks-market-share-and-forecast-till-2030-2023-04-25",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-neural-networks-market-share-and-forecast-till-2030-2023-04-25",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-25T17:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-26-missed-the-ai-rally-hsbc-names-4-chinese-stocks-set-to-benefit-from-the-trend.md",
+      "title": "Missed the A.I. rally? HSBC names 4 Chinese stocks set to benefit from the trend",
+      "excerpt": "For example, the Global X Robotics & Artificial Intelligence ETF has risen by 22% and attracted $142 million in fund flows this year. The fund now holds more than $2 billion worth of assets ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/04/26/missed-the-ai-rally-hsbc-names-4-chinese-stocks-set-to-benefit-from-the-trend.html",
+      "originalUrl": "https://www.cnbc.com/2023/04/26/missed-the-ai-rally-hsbc-names-4-chinese-stocks-set-to-benefit-from-the-trend.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107219133-1680513064696-gettyimages-1413577536-dsc081482342342342.jpeg?v=1682467610&w=1920&h=1080",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-25T17:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-26-all-symbols-in-tensorflow-probability.md",
       "title": "All symbols in TensorFlow Probability",
       "excerpt": "[{ \"type\": \"thumb-down\", \"id\": \"missingTheInformationINeed\", \"label\":\"Missing the information I need\" },{ \"type\": \"thumb-down\", \"id\": \"tooComplicatedTooManySteps ...",
@@ -1168,92 +1272,6 @@
         "Microsoft AI",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-04-25-microsoft-earnings-preview-ai-azure-and-activision-takeover-in-focus.md",
-      "title": "Microsoft Earnings Preview: AI, Azure and Activision Takeover In Focus",
-      "excerpt": "Azure growth, which in the prior quarter slowed ... leadership bolstered by at-scale compute demand for emerging AI/generative AI data, training, and application deployment,” said KeyBanc ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestreet.com/investing/stocks/microsoft-earnings-preview-ai-azure-and-activision-deal-in-focus",
-      "originalUrl": "https://www.thestreet.com/investing/stocks/microsoft-earnings-preview-ai-azure-and-activision-deal-in-focus",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-25T09:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TheStreet.com",
-        "domain": "thestreet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-25-a-meta-executive-reportedly-warned-staff-last-year-that-we-have-a-significant-gap-when-it-comes-to-ai.md",
-      "title": "A Meta executive reportedly warned staff last year that 'we have a significant gap' when it comes to AI",
-      "excerpt": "Mark Zuckerberg and other execs had a five-hour discussion on how Meta could implement systems for cutting edge AI last year, Reuters reports.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/meta-executive-warned-staff-falling-behind-ai-report-2023-4",
-      "originalUrl": "https://www.businessinsider.com/meta-executive-warned-staff-falling-behind-ai-report-2023-4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/6447d9cb90523900196fceb6?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/meta-executive-warned-staff-falling-behind-ai-report-2023-4?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/meta-executive-warned-staff-falling-behind-ai-report-2023-4?amp",
-      "publishedDateTime": "2023-04-25T09:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "YAHOO!News",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

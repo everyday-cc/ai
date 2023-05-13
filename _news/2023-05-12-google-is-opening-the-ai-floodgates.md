@@ -44,6 +44,22 @@ related:
         width: 4048
         height: 2391
         isCached: true
+  - title: "How a Toronto computer chip maker is providing the better brains AI runs on"
+    excerpt: "From its downtown Toronto HQ, Untether is designing the computer chips that run artificial intelligence programs more efficiently."
+    publishedDateTime: 2023-05-13T09:15:00Z
+    webUrl: "https://www.thestar.com/business/2023/05/13/untether-ai-ceo-arun-iyengar-on-the-hidden-energy-crisis-in-ai-semiconductors-and-why-he-stayed-in-canada.html"
+    ampWebUrl: "https://www.thestar.com/amp/business/2023/05/13/untether-ai-ceo-arun-iyengar-on-the-hidden-energy-crisis-in-ai-semiconductors-and-why-he-stayed-in-canada.html"
+    cdnAmpWebUrl: "https://www-thestar-com.cdn.ampproject.org/c/s/www.thestar.com/amp/business/2023/05/13/untether-ai-ceo-arun-iyengar-on-the-hidden-energy-crisis-in-ai-semiconductors-and-why-he-stayed-in-canada.html"
+    type: article
+    provider:
+      name: Toronto Star
+      domain: thestar.com
+    quality: 72
+    images:
+      - url: "https://www.thestar.com/content/dam/thestar/star-chevron-16x9.png.size.custom.crop.640x360.jpg"
+        width: 640
+        height: 360
+        isCached: true
   - title: "WebGPU Brings AI Capabilities Directly to Google Chrome Users"
     excerpt: "Google I/O focused on AI technologies, integrating AI into Chrome using WebGPU for improved performance and security."
     publishedDateTime: 2023-05-11T12:59:00Z
@@ -98,6 +114,6 @@ related:
         height: 675
         isCached: true
 
-secured: "q0Eqlf9A4x39nu0XYrKySZsNoL8p7IKfi3xt9Zm/mIlRdYQAA/b7swDoqbZYbG1IzdlbMvMN4qTHBLBrVfE4taDm0dL5U+5MBXRGRGngBA/nhqf3om9ZNwzjFoISMrVZ0L5uIPjv5yorYFUlREgv+nEmrWn7XexPc2yF4Mx4NxH6aHo+u31cNYROckrGkSa1g9HinGnHvUfboSlDVThMXohPpa+6E4BmSTcWbpmyufSxEEspqFIQ0rd23ytMlh1RjBrUcqkiaFoM5CjfFr1HX/JQ2+AfCFI3O9SjSvnJ5OPWegOv3a7gDUDft+R7cxmYedp1qM09S0DPBBBrRx9Rq+10N+e/KjQp3A6S/vGNRI4=;5NZiWodSGBZtpb4Gsg1ncA=="
+secured: "h5fWiPJ1aaXCAqgudt8ChFB1bQH/NEB7QS0/oHFfMy6nbVVyoeMdXofZRqs0QWAfLEx9wSmOReJdZN/RNMK4Ex6yYXaXUR5qlyiGZPoZ3rhl6AOBiJkuctr5DUD+3cvvohVVvZPKLFU6EFlURwGLUOwQ95K+6iZ9jdL+Z4DdiAdKKSBhC0km7zqZGP/CPAqdnkKdePNDK0q4TWzKiz/vai4I2yn9GL23Lc6oK3LEN4RT36aqulRFlg8ZmE1EiOpryeXW0luoqE4g4HVaMTrkuQpF7xGvmQPpCYGHTilxBplqOtgj1bMvDWQvCVD/GFPK+fRRzeJX9BCcjUowWTgCP5nnTnrZhhE0Sx0pkOQjfRD3LWqrDXvIq/Yi/nfxFFM0fnysBUakoQTgFannOyDbKlWZvdJ8AKS5HObFXTN3reWcqu7fZpEE+JJvjnc4bdftplrKoXmxpsDZ27WLylRTZO2kSVqUN6U7UiAUD3xQaf9fUQaYmjehUZgLgqrWX8NhRD6G+kqHqK1LKaO9Fgcb2Q==;zSKEbSGJTI1BuwkarkY96g=="
 ---
 

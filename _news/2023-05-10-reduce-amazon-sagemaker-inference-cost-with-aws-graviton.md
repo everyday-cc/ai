@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Host ML models on Amazon SageMaker using Triton: TensorRT models"
-    excerpt: "Sometimes it can be very beneficial to use tools such as compilers that can modify and compile your models for optimal inference performance. In this post, we explore TensorRT and how to use it with Amazon SageMaker inference using NVIDIA Triton Inference Server. We explore how TensorRT works and how"
-    publishedDateTime: 2023-05-08T17:04:28Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/host-ml-models-on-amazon-sagemaker-using-triton-tensorrt-models/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 106
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/05/08/host-ml-models-triton-tensorrt-1260x630.jpg"
-        width: 1260
-        height: 630
-        isCached: true
   - title: "Host ML models on Amazon SageMaker using Triton: Python backend"
     excerpt: "Amazon SageMaker provides a number of options for users who are looking for a solution to host their machine learning (ML) models. Of these options, one of the key features that SageMaker provides is real-time inference. Real-time inference workloads can have varying levels of requirements and service"
     publishedDateTime: 2023-05-09T15:59:57Z
@@ -57,6 +43,34 @@ related:
         width: 1260
         height: 630
         isCached: true
+  - title: "AI-powered code suggestions and security scans in Amazon SageMaker notebooks using Amazon CodeWhisperer and Amazon CodeGuru"
+    excerpt: "Amazon SageMaker comes with two options to spin up fully managed notebooks for exploring data and building machine learning (ML) models. The first option is fast start, collaborative notebooks accessible within Amazon SageMaker Studio—a fully integrated development environment (IDE) for machine learning."
+    publishedDateTime: 2023-05-12T20:29:27Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/ai-powered-code-suggestions-and-security-scans-in-amazon-sagemaker-notebooks-using-amazon-codewhisperer-and-amazon-codeguru/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 95
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/05/12/featured-images-ml-14339.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Publish predictive dashboards in Amazon QuickSight using ML predictions from Amazon SageMaker Canvas"
+    excerpt: "Understanding business trends, customer behavior, sales revenue, increase in demand, and buyer propensity all start with data. Exploring, analyzing, interpreting, and finding trends in data is essential for businesses to achieve successful outcomes. Business analysts play a pivotal role in facilitating"
+    publishedDateTime: 2023-05-10T14:17:43Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/publish-predictive-dashboards-in-amazon-quicksight-using-ml-predictions-from-amazon-sagemaker-canvas/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 91
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/05/10/predictive-dashboards-quicksight-sagemaker-canvas.jpg"
+        width: 1068
+        height: 537
+        isCached: true
   - title: "Announcing provisioned concurrency for Amazon SageMaker Serverless Inference"
     excerpt: "Amazon SageMaker Serverless Inference allows you to serve model inference requests in real time without having to explicitly provision compute instances or configure scaling policies to handle traffic variations. You can let AWS handle the undifferentiated heavy lifting of managing the underlying infrastructure"
     publishedDateTime: 2023-05-09T22:26:59Z
@@ -69,20 +83,6 @@ related:
     images:
       - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/05/09/provisioned-concurrency-1260x630.jpg"
         width: 1260
-        height: 630
-        isCached: true
-  - title: "Amazon SageMaker with TensorBoard: An overview of a hosted TensorBoard experience"
-    excerpt: "Today, data scientists who are training deep learning models need to identify and remediate model training issues to meet accuracy targets for production deployment, and require a way to utilize standard tools for debugging model training. Among the data scientist community, TensorBoard is a popular"
-    publishedDateTime: 2023-05-10T16:23:32Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-with-tensorboard-overview-of-a-hosted-tensorboard-experience/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 84
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/05/08/ml-14204-image010-1002x630.jpg"
-        width: 1002
         height: 630
         isCached: true
   - title: "Accelerate protein structure prediction with the ESMFold language model on Amazon SageMaker"

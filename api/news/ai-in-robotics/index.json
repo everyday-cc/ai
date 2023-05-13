@@ -342,7 +342,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/10/ai-and-modern-workforce-challenges/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -668,6 +668,49 @@
       "provider": {
         "name": "The Robot Report",
         "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-06-artificial-intelligence-and-robotics-great-expectations-and-daunting-existential-risks.md",
+      "title": "Artificial intelligence and robotics: Great expectations and daunting existential risks",
+      "excerpt": "The starting point is to understand the basic definitions of key concepts such as Robotics, AI, Machine Learning, Deep Learning, Single-Task AI, Artificial General Intelligence (AGI), Strong AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsday.co.zw/opinion-analysis/article/200011132/artificial-intelligence-and-robotics-great-expectations-and-daunting-existential-risks",
+      "originalUrl": "https://www.newsday.co.zw/opinion-analysis/article/200011132/artificial-intelligence-and-robotics-great-expectations-and-daunting-existential-risks",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.thestandard.co.zw/images/newsday/uploads/2023/05/hZodp8Um0oaPzRpA9UAYDI6JrJKwBk2WaQ4D4xOw.jpg",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsday.co.zw/opinion-analysis/article/200011132/artificial-intelligence-and-robotics-great-expectations-and-daunting-existential-risks",
+      "cdnAmpWebUrl": "https://www-newsday-co-zw.cdn.ampproject.org/c/s/www.newsday.co.zw/opinion-analysis/article/200011132/artificial-intelligence-and-robotics-great-expectations-and-daunting-existential-risks",
+      "publishedDateTime": "2023-05-05T21:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Day",
+        "domain": "newsday.co.zw",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1379,40 +1422,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-02-ai-could-create-religions-to-control-humans-warns-sapiens-author-harari.md",
-      "title": "AI could create religions to control humans, warns Sapiens author Harari",
-      "excerpt": "The world could soon see the first religion that attracts devotees with sacred texts created by artificial intelligence, the historian Yuval Noah Harari has s",
-      "sourceUrl": null,
-      "webUrl": "https://www.thetimes.co.uk/article/f551b41e-e8db-11ed-8b19-8262c49fff39?shareToken=a6f2bbfb6db6f3e078309f8250e3938f&trk=public_post_comment-text",
-      "originalUrl": "https://www.thetimes.co.uk/article/f551b41e-e8db-11ed-8b19-8262c49fff39?shareToken=a6f2bbfb6db6f3e078309f8250e3938f&trk=public_post_comment-text",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-02T06:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Times",
-        "domain": "thetimes.co.uk",
-        "images": null,
         "publishers": null,
         "authors": null
       },
