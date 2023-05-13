@@ -53,15 +53,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Tesla changes course with Full Self-Driving to introduce end-to-end AI in v12, says Musk"
-    excerpt: "Tesla is planning to update its Full Self-Driving package with end-to-end AI in its FSD Beta v12, says Elon Musk. FSD Beta already makes plenty of use of neural nets powered by artificial intelligence, but it is used for the perception part of the equation – meaning for the vehicle to detect its environment."
-    publishedDateTime: 2023-05-08T12:14:00Z
-    webUrl: "https://electrek.co/2023/05/08/tesla-changes-course-full-self-driving-end-to-end-ai-v12-musk/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 55
   - title: "Elon Musk says Tesla will give everyone free month of Full Self-Driving, but not yet"
     excerpt: "Elon Musk says Tesla will give a free month of a Full Self-Driving package to every owner in North America, but only once it is “super smooth.” The CEO has had a fixation on people “not understanding the value of Tesla’s Full Self-Driving package,” which the automaker now sells for $15,000."
     publishedDateTime: 2023-05-08T19:25:00Z

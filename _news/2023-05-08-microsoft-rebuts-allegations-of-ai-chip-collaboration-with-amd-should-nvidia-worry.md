@@ -7,7 +7,7 @@ originalUrl: "https://hothardware.com/news/microsoft-rebuts-allegations-ai-chip-
 webUrl: "https://hothardware.com/news/microsoft-rebuts-allegations-ai-chip-collaboration-amd"
 type: article
 quality: 64
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -41,20 +41,6 @@ related:
       - url: "https://www.traveldailymedia.com/assets/2023/05/shutterstock_2130878285.jpg"
         width: 1000
         height: 667
-        isCached: true
-  - title: "Microsoft and AMD vs. Nvidia: new battle over AI hardware?"
-    excerpt: "AMD is getting help with the development of its AI accelerators. According to Bloomberg, Microsoft is offering support to the chip company to avoid having"
-    publishedDateTime: 2023-05-08T13:04:00Z
-    webUrl: "https://www.techzine.eu/news/infrastructure/105662/microsoft-and-amd-vs-nvidia-new-battle-over-ai-hardware/"
-    type: article
-    provider:
-      name: techzine
-      domain: techzine.eu
-    quality: 56
-    images:
-      - url: "https://www.techzine.eu/wp-content/uploads/2023/05/Nvidia-GPU-server.jpg"
-        width: 2560
-        height: 1440
         isCached: true
 
 secured: "NDnhYbl4KrMEQxWQxZK3+F2G/uRqv2SVpX7wxGWrnzctoCrD2c9PdqS49A6wYKnF/vLa1oMWweO1MECyUzJd6as/Cf2ieMgf0mj3FRNjlEEmLNj3fQpul3porSsMirSwL6VukFfUh0aqEgU0T9iBxHgt8G5dGNGOAMlrefmyTi/0kYwvlNyeB7Q9EOmvIUctAc/avbML/0X22oEc2Pwbbm/+Rd00CHg06lucXmaytAtiTvGvVTjhaUQEA5AN2ckEyl97QI0IpEJiRoXj5kO4BwkM4rmQtBxsr9XRpiQEqUvcI8CToM0bERGUe340YT2zM8eAYrwNpJfUvHIbFIYkXapJi4Kor9IzWu8PzpIKWIv4MXzB0TC7adr/yL0ATC8ZAc/hrh+jeosH7CZsLCcWPFcOPYlR5OpuGj2aDa9pfffP3YcY5F0G3WLmjL2hk8+Xv3IDy74SZX9PFh6MqecghiP0CCdoLiUm2y2xLz543826dmo6JMdw60NdlYisR1H9/x/Vqo7XY6i3fxkfKVvmsQ==;FPNhTGTDPzxLb/mcm8x9AA=="

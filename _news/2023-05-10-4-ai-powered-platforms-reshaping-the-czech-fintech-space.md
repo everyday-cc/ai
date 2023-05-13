@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Unlock the Profit Potential in AI Healthcare Innovation with This Leading Biotech Stock"
-    excerpt: "While Nick Black handles the cryptocurrency, blockchain, and Web3 side of things, I'm going to bring you a new stock each week related to these emerging technologies, including artificial intelligence."
-    publishedDateTime: 2023-05-08T21:05:00Z
-    webUrl: "https://moneymorning.com/investing/unlock-the-profit-potential-in-ai-healthcare-innovation-with-this-leading-biotech-stock/"
-    type: article
-    provider:
-      name: Money Morning
-      domain: moneymorning.com
-    quality: 46
-    images:
-      - url: "https://moneymorning.com/wp-content/blogs.dir/1/files/2022/06/crypto-syndication.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "How Artificial Intelligence is Revolutionising the Fintech Landscape?"
     excerpt: "According to surveys, 2/3 of FinTech companies currently use AI technology in their activities to a greater or lesser extent. Its influence will increase. Last year, the worldwide market for AI solutions in the FinTech industry was assessed at roughly 9 billion USD;"
     publishedDateTime: 2023-05-08T17:05:00Z
@@ -173,15 +159,6 @@ related:
       name: Asia One
       domain: asiaone.com
     quality: 9
-  - title: "Atomic Revolutionizes Payroll System Integrations with SmartAuth, its Groundbreaking AI-Powered Authentication Engine"
-    excerpt: "Atomic, a leading provider of payroll system integrations, has unveiled SmartAuth, a new artificial intelligence-powered authentication engine. This b"
-    publishedDateTime: 2023-05-10T12:05:00Z
-    webUrl: "https://www.businesswire.com/news/home/20230510005294/en/Atomic-Revolutionizes-Payroll-System-Integrations-with-SmartAuth-its-Groundbreaking-AI-Powered-Authentication-Engine"
-    type: article
-    provider:
-      name: newsroom.businesswire.com
-      domain: businesswire.com
-    quality: 0
 
 secured: "m/PR2jch6SY7OiJt4U5ZTT81zpCUK7K4hB2LGv2Oko4n6vNOOy9q/RJIPPuRGPXVEPkmijOHAWvteZzaIqR3qjKCL8jsOBql0ehi/V3zwgD4exwrfVA9DnZ9XNKAafcdSkiG+VslNS3yXy34oNB3BII9OxWhH0E9bH7+56ghRgB49AhS0GWQfL5kt23/HMVf+ZuFQe3o2z8UQO+HJaIIBubszBD4m2Dyg2kUpZ3PUkhCue/FqlYNIOUyLuUsL4dNedQhBXjiO7ujqWWV1sUbmY4V5CPYA1Ka928V2PAqZa6OjFfHXyBSCCA/67Lon9VcIOG5Ucs+pDUgx0lVWUpjzGRFCW+Q2nqrffLteABbVMdQbIRvCGzKxhBma7HnajOgyPigr8rShtEgbpMPWvjQLyKrBufXjhXR7RM2OrwaJwvxBZ7A5EWMVamgOL8SH6NthIKmQahQgtztOKH7OmKuSKxlvz7pbwjnGJBMI01Ohm5ZRKuaE1vIy8Z+7bJZ5MVdbNs+a+RdrsXlWZt/6VtkdA==;tdItrgXbGKKox6pktGx3gw=="
 ---

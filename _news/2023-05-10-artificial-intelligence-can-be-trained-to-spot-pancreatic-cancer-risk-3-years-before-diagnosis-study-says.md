@@ -41,20 +41,6 @@ related:
         width: 2000
         height: 1125
         isCached: true
-  - title: "Artificial Intelligence Improves Prediction of Pancreatic Cancer"
-    excerpt: "Artificial intelligence (AI) can improve the design of surveillance programs for pancreatic cancer, according to a study published online May 8 in Nature Medicine. Davide Placido, from the University of Copenhagen in Denmark,"
-    publishedDateTime: 2023-05-12T23:59:00Z
-    webUrl: "https://www.physiciansweekly.com/artificial-intelligence-improves-prediction-of-pancreatic-cancer/"
-    type: article
-    provider:
-      name: Too Old to Operate
-      domain: physiciansweekly.com
-    quality: 37
-    images:
-      - url: "https://www.physiciansweekly.com/wp-content/uploads/2023/05/image1683935942.jpg"
-        width: 800
-        height: 600
-        isCached: true
 
 secured: "AVnyuzyir6MM8Rzd8iipVL1R7shkDvt9K00uOZZZnPEc9OgUs0uIigBvtzXs1fnTYt9usfG45Da7ilC34RE+gBDecEq2G/pzec+vuCyi4fGXkiC2Dkm97AGjfGB3K3bndqkLO4KfLfhs2rJAQ+TlXS49WsAZRC3gm7PBh20JuyY2T1p20m/D7UzLxJPiJOQyDkRc7HD9c2ls/PL649rRVlCdH4FFXQuxtLSVXJzU+aZUjOUdjW1h4ZEXAJYWFcvVuvvYmMqi1ihSHZygPAvV5o+FVAGvrUAO1xdpwKtv0P6PJPvm4PaYeAuoPLlEFyUPx2FVE6SQN09w1BXWEAS/uSn1Y127IGOFpsdxzAw6qrfve/saIU9rX7e/9sGQiSCbBl3CXeHO08LfQL3J/oGBuMKT+GBh3C5kFbO9+84oGHJtFWSjKlKX6AuLgE1ePDXKCI1zqazroe+Tm2QDbCT1YI3Up9B36nPHWieEUXoAqQWNSWHnHGaTRzgAdaB3HDC6KOHPkbWKB1CYeseSJKS6Nw==;HH3FYvl1WMO0UEW+m+gXnw=="
 ---

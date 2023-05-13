@@ -117,6 +117,22 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Navigating the hype of AI tools in HR"
+    excerpt: "Sometimes it’s better to be first to a new technology, but in the case of AI in HR, it may just be better to be smart than first."
+    publishedDateTime: 2023-05-08T14:16:00Z
+    webUrl: "https://www.benefitspro.com/2023/05/08/147764/"
+    ampWebUrl: "https://www.benefitspro.com/2023/05/08/147764/?amp=1"
+    cdnAmpWebUrl: "https://www-benefitspro-com.cdn.ampproject.org/c/s/www.benefitspro.com/2023/05/08/147764/?amp=1"
+    type: article
+    provider:
+      name: Benefits Pro
+      domain: benefitspro.com
+    quality: 59
+    images:
+      - url: "https://images.benefitspro.com/contrib/content/uploads/sites/412/2022/10/Looking-at-Technology-Article-202210271701.jpg"
+        width: 620
+        height: 372
+        isCached: true
   - title: "Law firms are experimenting with artificial intelligence tools"
     excerpt: "Big law firms, known for their grueling hours and workloads, are experimenting with artificial intelligence tools that can handle the drudgery typically delegated to entry-level lawyers and simplify complex work that bogs down even top firm leaders,"
     publishedDateTime: 2023-05-12T14:49:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://talkingbiznews.com/biz-news-help-wanted/full-time/bloomberg-
 cdnAmpWebUrl: "https://talkingbiznews-com.cdn.ampproject.org/c/s/talkingbiznews.com/biz-news-help-wanted/full-time/bloomberg-seeks-ai-ethics-and-policy-reporter/amp/"
 type: article
 quality: 74
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -25,17 +25,6 @@ images:
     width: 592
     height: 233
     isCached: true
-
-related:
-  - title: "Bloomberg seeks an AI ethics & policy reporter"
-    excerpt: "We’re seeking a persistent, talented and intellectually curious reporter who can explore the ethical and regulatory dimensions of the emerging field of artificial intelligence. We aim to hire someone with a profound appreciation of both the potential benefits and unintended harms resulting from chatbots,"
-    publishedDateTime: 2023-05-08T13:04:00Z
-    webUrl: "https://talkingbiznews.com/biz-news-help-wanted/bloomberg-seeks-an-ai-ethics-policy-reporter/"
-    type: article
-    provider:
-      name: Talking Biz News
-      domain: talkingbiznews.com
-    quality: 34
 
 secured: "8HGop4msZ5x+wLDuhGv8cnISJxRuNmuSJmhJ24yIQYOBNiQtRJleZUP35AGOUteFzg2GAP0Jkt4LZN5sNF0cwLhs6fZk/G1wH5R15fuGdJnAAxP5HT8uB1XIB0WJkLFHgpPBnNX8DFWe0paZX/9BmXf9yD7VyT1CjjKRPOh0wAErIvO7bDa9NAbwIsDeQdPM4kWlYDMyAW6q0US/AnCD/Pbch67h+jjKihZiZKorG9fKAZT4URqXMcLHYRCTO8FQ1T71IfQgC8eNj6v4ylFKGohbG3PHgR59eU8doIoKJ4aXA+MKLbF3X7hTBhXiIXZOIT+vQGrF8NlJXYywS679TPCpQ+IgtWsDckmlWD9oc65WS809buSGOM3HO3eR9XXWdrrqO+sVOADpcsuIYbqHphziaOQhtqexUaViHfL3duZsxoCRlJiAOKPY5SCG2aQdG3iQDk+Tvwwr9f6qBC+nDpnrGHWE+YmQwww/SXLwjMWo7GHkv3Fk1qAOFmH9IxUZ/zbp7u7oLX4doE63GbfXOg==;maRliMLGjLcrCz1M/PHWkg=="
 ---

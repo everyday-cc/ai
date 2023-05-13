@@ -22,8 +22,8 @@ topics:
 related:
   - title: "Media Alert: BrainChip Showcases Edge AI Technologies at 2023 Embedded Vision Summit"
     excerpt: "The Embedded Vision Summit attracts a global audience of technology professionals from companies developing computer vision and edge AI-enabled products including embedded systems, cloud solutions and mobile applications."
-    publishedDateTime: 2023-05-10T16:31:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/05/10/9811798.htm"
+    publishedDateTime: 2023-05-10T16:48:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/05/10/9811798.htm"
     type: article
     provider:
       name: TMCnet

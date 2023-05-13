@@ -112,6 +112,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence In Insurtech Market, 2030"
+    excerpt: "The Global Artificial Intelligence In Insurtech market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players,"
+    publishedDateTime: 2023-05-09T23:56:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-insurtech-market-2030-2023-05-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 67
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AI in Computer Vision Market in 2031: New Era of Growth and Opportunities"
     excerpt: "May 10, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global AI in Computer Vision"
     publishedDateTime: 2023-05-10T10:31:00Z

@@ -89,14 +89,23 @@ related:
       name: Las Vegas Sun
       domain: lasvegassun.com
     quality: 19
-  - title: "Artificial intelligence can be found in many places. How safe is the technology?"
-    excerpt: "NPR's A Martinez speaks with Jack Clark, co-founder of artificial intelligence company Anthropic, about AI safety concerns."
-    publishedDateTime: 2023-05-10T09:08:00Z
-    webUrl: "https://www.boisestatepublicradio.org/2023-05-10/artificial-intelligence-can-be-found-in-many-places-how-safe-is-the-technology"
+  - title: "Hackers to test limits of AI technology in mass event"
+    excerpt: "ChatGPT creator OpenAI and other major AI providers are coordinating with the Biden administration to let hackers test the limits of their technology."
+    publishedDateTime: 2023-05-10T19:14:00Z
+    webUrl: "https://thedailyrecord.com/2023/05/10/hackers-to-test-limits-of-ai-technology-in-mass-event/"
     type: article
     provider:
-      name: Boise State Public Radio
-      domain: boisestatepublicradio.org
+      name: The Daily Record (Maryland)
+      domain: thedailyrecord.com
+    quality: 19
+  - title: "Artificial intelligence can be found in many places. How safe is the technology?"
+    excerpt: "NPR's A Martinez speaks with Jack Clark, co-founder of artificial intelligence company Anthropic, about AI safety concerns."
+    publishedDateTime: 2023-05-10T14:08:00Z
+    webUrl: "https://www.wuwm.com/health-science/health-science/2023-05-10/artificial-intelligence-can-be-found-in-many-places-how-safe-is-the-technology"
+    type: article
+    provider:
+      name: WUWM
+      domain: wuwm.com
     quality: 14
 
 secured: "fT+DNCr0uMUjfXlHew6QiqS0x/aIhtvq3LP+MXNAqF7KufDYtF4aBg3l1fBT6Bj00spcHrVGspUKoieysS4vDhBi2G+TsckooZLif4fZZZphcFbnJMfgWQvl775HW6FqLdSWVcrKF32GVTw/UKxnjH2Efaq/OxYmFp5Ce/oPdRKYem4rpPeUhOWM6BruE6vq7VRoEjc2yjakD3/w2XL5f1r6SbwxZi71i118wFqtbH8vCceutf2xZu3qqulh+eIiitovj4VRfxieFuAmHsFcHY7Z333MGywePct3MwSGILKGnDlKmFxE0y/2MFmuK32suVrHueHuOX54uCTFl4+vg9Q7FJxXzA+li1T+Kd/1/Xx08aipF+QB9ejt5N03j76pjP5Dt5jVtOjZo8L3rKSN3ReK2lFfnwPLWbPM0a5XYhMhorkg1q0IAoKSHSeYvpn9PVqVZRTzFZfT2cL4E+5xdERuyeDN+vb1fJ+XykYSDieAtTBA9YMfES9kSgWvfzrBAboD5aoTlGgpHlwKemSclA==;bq1468/FaBWuawYuIlcHHw=="

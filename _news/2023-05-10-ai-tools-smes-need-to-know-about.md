@@ -111,6 +111,22 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Navigating the hype of AI tools in HR"
+    excerpt: "Sometimes it’s better to be first to a new technology, but in the case of AI in HR, it may just be better to be smart than first."
+    publishedDateTime: 2023-05-08T14:16:00Z
+    webUrl: "https://www.benefitspro.com/2023/05/08/147764/"
+    ampWebUrl: "https://www.benefitspro.com/2023/05/08/147764/?amp=1"
+    cdnAmpWebUrl: "https://www-benefitspro-com.cdn.ampproject.org/c/s/www.benefitspro.com/2023/05/08/147764/?amp=1"
+    type: article
+    provider:
+      name: Benefits Pro
+      domain: benefitspro.com
+    quality: 59
+    images:
+      - url: "https://images.benefitspro.com/contrib/content/uploads/sites/412/2022/10/Looking-at-Technology-Article-202210271701.jpg"
+        width: 620
+        height: 372
+        isCached: true
   - title: "Larry Magid: Google unveils new devices while focusing on AI"
     excerpt: "As I entered Shoreline Amphitheater on Wednesday, I thought I was attending Google IO – the company’s annual developers conference. But after listening to CEO Sundar Pichai and several other"
     publishedDateTime: 2023-05-11T01:49:00Z

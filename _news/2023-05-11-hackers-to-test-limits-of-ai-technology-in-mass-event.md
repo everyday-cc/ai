@@ -19,141 +19,93 @@ topics:
   - AI
 
 related:
-  - title: "The risks and limitations of AI in insurance"
-    excerpt: "After examining the world of opportunities between AI and the insurance industry, it's time to investigate the risks of AI and how to adopt AI responsibly.\nThe post The risks and limitations of AI in insurance appeared first on IBM Blog.\n"
-    publishedDateTime: 2023-05-08T13:00:00Z
-    webUrl: "https://www.ibm.com/blog/the-risks-and-limitations-of-ai-in-insurance/"
+  - title: "Mass Event Will Let Hackers Test Limits of AI Technology"
+    excerpt: "Major AI providers such as OpenAI, Google, and Microsoft, are allowing hackers take a shot at testing the limits of their technology."
+    publishedDateTime: 2023-05-11T12:19:00Z
+    webUrl: "https://www.securityweek.com/mass-event-will-let-hackers-test-limits-of-ai-technology/"
+    ampWebUrl: "https://www.securityweek.com/mass-event-will-let-hackers-test-limits-of-ai-technology/amp/"
+    cdnAmpWebUrl: "https://www-securityweek-com.cdn.ampproject.org/c/s/www.securityweek.com/mass-event-will-let-hackers-test-limits-of-ai-technology/amp/"
     type: article
     provider:
-      name: IBM
-      domain: ibm.com
-    quality: 99
-  - title: "Integration of AI in healthcare"
-    excerpt: "According to a case study by Medtronic titled “5 Ways Artificial Intelligence is Transforming Healthcare,” the use of AI in healthcare improves accuracy, promotes interventional insights, supports training and education,"
-    publishedDateTime: 2023-05-08T22:22:00Z
-    webUrl: "https://highschool.latimes.com/sage-hill-school/integration-of-ai-in-healthcare/"
-    ampWebUrl: "https://highschool.latimes.com/sage-hill-school/integration-of-ai-in-healthcare/amp/"
-    cdnAmpWebUrl: "https://highschool-latimes-com.cdn.ampproject.org/c/s/highschool.latimes.com/sage-hill-school/integration-of-ai-in-healthcare/amp/"
-    type: article
-    provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 74
-    images:
-      - url: "https://i0.wp.com/highschool.latimes.com/wp-content/uploads/2023/02/ai-healthcarephoto.png?fit=361%2C203&ssl=1"
-        width: 361
-        height: 203
-        isCached: true
-  - title: "Artificial Intelligence In Insurtech Market, 2030"
-    excerpt: "The Global Artificial Intelligence In Insurtech market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players,"
-    publishedDateTime: 2023-05-09T23:56:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-insurtech-market-2030-2023-05-09"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 67
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Navigating the hype of AI tools in HR"
-    excerpt: "Sometimes it’s better to be first to a new technology, but in the case of AI in HR, it may just be better to be smart than first."
-    publishedDateTime: 2023-05-08T14:16:00Z
-    webUrl: "https://www.benefitspro.com/2023/05/08/147764/"
-    ampWebUrl: "https://www.benefitspro.com/2023/05/08/147764/?amp=1"
-    cdnAmpWebUrl: "https://www-benefitspro-com.cdn.ampproject.org/c/s/www.benefitspro.com/2023/05/08/147764/?amp=1"
-    type: article
-    provider:
-      name: Benefits Pro
-      domain: benefitspro.com
+      name: SecurityWeek
+      domain: securityweek.com
     quality: 59
     images:
-      - url: "https://images.benefitspro.com/contrib/content/uploads/sites/412/2022/10/Looking-at-Technology-Article-202210271701.jpg"
-        width: 620
-        height: 372
+      - url: "https://www.securityweek.com/wp-content/uploads/2023/04/ChatGPT_Security-Ethics-AI.jpg"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Newly developed AI shows speed and accuracy in identifying the location and expression of proteins"
-    excerpt: "A new advanced artificial intelligence (AI) system has shown world-leading accuracy and speed in identifying protein patterns within individual cells. The new system, developed at the University of Surrey's Institute for People-Centered AI,"
-    publishedDateTime: 2023-05-10T14:02:00Z
-    webUrl: "https://phys.org/news/2023-05-newly-ai-accuracy-proteins.html"
-    ampWebUrl: "https://phys.org/news/2023-05-newly-ai-accuracy-proteins.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-05-newly-ai-accuracy-proteins.amp"
+  - title: "Hackers to test limits of AI at Las Vegas event this summer"
+    excerpt: "The Biden administration is joining forces with Microsoft, Google and other companies to get hackers to see if tools like ChatGPT can be used to cause harm."
+    publishedDateTime: 2023-05-11T17:09:00Z
+    webUrl: "https://www.reviewjournal.com/business/conventions/hackers-to-test-limits-of-ai-at-las-vegas-event-this-summer-2775790/"
+    ampWebUrl: "https://www.reviewjournal.com/business/conventions/hackers-to-test-limits-of-ai-at-las-vegas-event-this-summer-2775790/amp/"
+    cdnAmpWebUrl: "https://www-reviewjournal-com.cdn.ampproject.org/c/s/www.reviewjournal.com/business/conventions/hackers-to-test-limits-of-ai-at-las-vegas-event-this-summer-2775790/amp/"
     type: article
     provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 43
+      name: Las Vegas Review-Journal
+      domain: reviewjournal.com
+    quality: 59
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/ai-developed-in-the-uk.jpg"
-        width: 2001
-        height: 1352
+      - url: "https://www.reviewjournal.com/wp-content/uploads/2023/05/17764760_web1_17764760-0f19e4ef3ff84811b06fbaa753ea19a6.jpg?w=1200"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "The rise of human ingenuity in Artificial intelligence"
-    excerpt: "The neural network used in ChatGPT is composed of multiple layers of artificial neurons that work. In coherence together to understand the structure and patterns in language. The model is trained on a large corpus of text data, which it uses to learn the ..."
-    publishedDateTime: 2023-05-09T11:22:00Z
-    webUrl: "https://timesofindia.indiatimes.com/readersblog/anawrites98/the-rise-of-human-ingenuity-in-artificial-intelligence-53634/"
+  - title: "Hackers to test limits of AI technology at Las Vegas event"
+    excerpt: "OpenAI and other major AI providers are coordinating with the Biden administration to let thousands of hackers take shots at testing the limits of their technology."
+    publishedDateTime: 2023-05-11T03:56:00Z
+    webUrl: "https://www.nbcnews.com/tech/tech-news/mass-event-will-let-hackers-test-limits-ai-technology-rcna83708"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 41
-    images:
-      - url: "https://static.toiimg.com/photo/75476733.cms"
-        width: 640
-        height: 360
-        isCached: true
-  - title: "The Role of AI in the Evolution of Financial Services"
-    excerpt: "AD With the rapid advancement of technology, financial institutions are constantly looking for new ways to improve their services. One of the most significant developments in recent years has been the integration of artificial intelligence (AI) into the financial industry."
-    publishedDateTime: 2023-05-10T13:41:00Z
-    webUrl: "https://taxguru.in/finance/role-ai-evolution-financial-services.html"
+      name: NBC News
+      domain: nbcnews.com
+    quality: 49
+  - title: "Mass event will let hackers test limits of AI technology"
+    excerpt: "No sooner did ChatGPT get unleashed than hackers started “jailbreaking” the artificial intelligence chatbot – trying to override its safeguards so it could blurt out something unhinged or obscene"
+    publishedDateTime: 2023-05-10T15:02:00Z
+    webUrl: "https://abcnews.go.com/Technology/wireStory/hackers-aim-find-flaws-ai-white-house-99219240"
     type: article
     provider:
-      name: Tax Guru
-      domain: taxguru.in
+      name: ABC
+      domain: abcnews.go.com
     quality: 39
     images:
-      - url: "https://taxguru.in/wp-content/uploads/2023/05/investment-advice-that-is-tailored-to-their-individual-needs-and-goals.jpg"
-        width: 600
-        height: 300
+      - url: "https://s.abcnews.com/images/US/wirestory_97b963db084800f11b26b8a023b1713f_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "ChatGPT and Generative AI in Insurance: Reality, Hype, What's Next, and How to Prepare"
-    excerpt: "ChatGPT is the most talked-about technology of 2023 and has piqued the interest of insurance industry leaders."
-    publishedDateTime: 2023-05-12T18:00:00Z
-    webUrl: "https://www.businessinsider.com/generative-ai-in-insurance-reality-next-hype-how-to-prepare-2023-may"
+  - title: "Vintra showcases its artificial intelligence technology in a demo"
+    excerpt: "Vintra, mentioned by former Boston police commissioner Ed Davis during a Senate hearing about the Boston marathon bombing, can learn \"from normal activity\" to notify operators of \"approaching threats and of anomalies."
+    publishedDateTime: 2023-05-10T22:30:00Z
+    webUrl: "https://www.foxbusiness.com/video/6327054767112"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 39
-  - title: "Leveraging AI in telecoms to enhance offerings and maximise operations"
-    excerpt: "As the use cases and opportunities for AI continue to emerge, there are a host of tech-driven approaches telco leaders can integrate into their operations, utilising software like ChatGPT."
-    publishedDateTime: 2023-05-09T11:37:00Z
-    webUrl: "https://telecoms.com/opinion/leveraging-ai-in-telecoms-to-enhance-offerings-and-maximise-operations/"
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 37
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/134b7b90-1d04-409f-8702-f36e8b024f01/b15f0495-266a-4b82-a6b6-c61ff14fc4dc/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Las Vegas event will let hackers test limits of AI technology"
+    excerpt: "No sooner did ChatGPT get unleashed than hackers started “jailbreaking” the artificial intelligence chatbot — trying to override its safeguards so it could blurt out something"
+    publishedDateTime: 2023-05-10T16:26:00Z
+    webUrl: "https://lasvegassun.com/news/2023/may/10/las-vegas-event-will-let-hackers-test-limits-of-ai/"
     type: article
     provider:
-      name: Telecoms
-      domain: telecoms.com
+      name: Las Vegas Sun
+      domain: lasvegassun.com
     quality: 19
-  - title: "The threat and promise of artificial intelligence"
-    excerpt: "Yet even if no such revolution threatens, recent advances in artificial intelligence are highly significant. According to Bill Gate s, they are the most important development since personal computers."
-    publishedDateTime: 2023-05-09T16:04:00Z
-    webUrl: "https://www.ft.com/content/41fd34b2-89ee-4b21-ac0a-9b15560ef37c?shareType=nongift"
+  - title: "Artificial intelligence can be found in many places. How safe is the technology?"
+    excerpt: "NPR's A Martinez speaks with Jack Clark, co-founder of artificial intelligence company Anthropic, about AI safety concerns."
+    publishedDateTime: 2023-05-10T14:08:00Z
+    webUrl: "https://www.wuwm.com/health-science/health-science/2023-05-10/artificial-intelligence-can-be-found-in-many-places-how-safe-is-the-technology"
     type: article
     provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 17
-  - title: "Apple’s AI plans uncertain, as pioneers argue about the risks of the technology"
-    excerpt: "Jürgen Schmidhuber has been called “the father of AI” for his work in natural language processing within neural networks – the technology behind Siri and Google Translate. He has likewise written a huge number of papers and won awards for his work."
-    publishedDateTime: 2023-05-08T13:31:00Z
-    webUrl: "https://9to5mac.com/2023/05/08/apple-ai-plans/"
-    type: article
-    provider:
-      name: 9to5Mac
-      domain: 9to5mac.com
-    quality: 15
+      name: WUWM
+      domain: wuwm.com
+    quality: 14
 
 secured: "dG3hKZRt5fYU/e4r3Nv1OUSQ5nPkoWXKfxZCg47rP74vt8rpMv2mcPliI6pxPy+3G4Ms2rkPFaRw/aupNhjJS+zPKMHoVgEGksIrIvyE3qNL3d+Rxw7no/qJGZzYFDegmpVPalK2QSIOUAMeM9/rTmPhtZ+vWIdulQly9Xq8+3K0tzOzFh7Dw+rt9xdoXoB5o2GxJDOYRO6f+fASXbufKZ85mM20SuV22kq2T/ktQ+RG6Fc0yaSDyJIffYfMFqpoAf7BIuFO8WeQVlkDEm1ftgtJdNWwaQUcHFfQ6AG4wlN3R0blNtOwM+CM8dpMWka+Me1HspHJgrKWxLAZD094mz+9FYvu0kc60eU5TUcV6PlrOQpmVRfwT84dJ1x7egbVrAy43nyanIJGsnfdoHEkzpRDO5TrQUEC8kAIiEDpfVUjF06GVNESRqO0W6bMYTyo42Y4hM4c5NA4xtD4dkiRqoMTPPNb0xtMuqBEt/TkQIyZCLazKHJf7dbUATkycnLIVQZxRAKIbODoTT8YQi9eww==;rGFe2Fses54jS+9LAJRMag=="
 ---

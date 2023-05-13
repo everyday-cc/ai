@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2023/05/09/ibm-takes-another-shot-at-watson
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/05/09/ibm-takes-another-shot-at-watson-as-ai-boom-picks-up-steam.html"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -40,15 +40,6 @@ related:
       name: BayStreet
       domain: baystreet.ca
     quality: 34
-  - title: "IBM and SAP Collaborate to Power SAP’s Digital Assistant with IBM Watson"
-    excerpt: "SAP and IBM announced that IBM Watson technology will be embedded into SAP solutions to provide new AI-driven insights and automation. The move aims to help accelerate innovation and create more efficient and effective user experiences across the SAP solution portfolio."
-    publishedDateTime: 2023-05-08T13:02:00Z
-    webUrl: "https://www.dbta.com/Editorial/News-Flashes/IBM-and-SAP-Collaborate-to-Power-SAPs-Digital-Assistant-with-IBM-Watson-158487.aspx"
-    type: article
-    provider:
-      name: dbta
-      domain: dbta.com
-    quality: 18
 
 secured: "LOpqhTmn6efpESRm95SZ0UoKBUqxq5hEjXG18hPpUrtTgzs4Zx3lu/fA+tNiAllvYKES/+Qy2lhdAgFiLrr3bBQ0AcARVas4TBo9zrnykikm13dpk5ZaiZqkyW6/TzVdEE5BY97cAtTLFP/5ihlpffR/JoVJIXY2ZX6ut51JQ37q/ScTbZ2OYuqTGUD+SiycBDAhhEYqkmp1zffxrA6uOCe6F+Ih/F4/zWtpnPCs1BzVhTgFh5lvujWYIoNrE9VTnMQ5VaLDFGemSjAAr8WFBJM0CcK/tFq8DIqoOPQ/q9OyW4TuTdN5udsfJOLHaYku0BUJz/2gpU52losU1lSTYSAzb05MVl1DCRiUh0nm6JUvVdCWf9zQcQPJ1ae9/vF9wA0KeQzgICVDwofNjso03RgQd4x3FX1kudA/eMZvJb4Wda2QJIerGX0q55usO9cRvpLCepTeF2wz1WZNECj2Yo5Hy6p2XTTpEpjvuN2ZplrJ9Q/vhZrnCi8rPjlItxAGWXaSnQ6lB8d2OaVDdP2+RQ==;z1CJb4KpW8xniE9vMEtoPw=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3695208/14-popular-ai-algorithms-a
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3695208/14-popular-ai-algorithms-and-their-uses.amp.html"
 type: article
 quality: 89
-heat: 131
+heat: 141
 published: true
 
 provider:
@@ -81,6 +81,15 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 19
+  - title: "The threat and promise of artificial intelligence"
+    excerpt: "Yet even if no such revolution threatens, recent advances in artificial intelligence are highly significant. According to Bill Gate s, they are the most important development since personal computers."
+    publishedDateTime: 2023-05-09T16:04:00Z
+    webUrl: "https://www.ft.com/content/41fd34b2-89ee-4b21-ac0a-9b15560ef37c?shareType=nongift"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 17
 
 secured: "1MZespE79dp8R5aiC+KI9vd+Kn6pKL1zc6SujMi4cKBQZndl+HwBRMvsUeGm8bW9Dhl1QMguOsEHlI/ArjhF0pyFKoG+DIC35SvqXz3ZmPeBvtcnIHofJfVE4hRAmpgGfUYGG1jXUPdsGBZbx0/xOOQTlWYyeJJawJcEmjj75OyaDztr9vkoKBl0PkcJuAUEZgqAeNV24BcM74GNqzT82Eo5T03T2+jTmwXBFbZYaA/kNKtaVo2Lwqhk+CfVC85aZWjWJ5nL619hB8eiqrmw2JaUlw1WhOfKNxBpJRvbXahpvP4lDuAulKTciMeUAh9hHPBZtjwrIMC+D3mgEFV8waeGjOTASgNCuY6/1H1EmkgaQgtFKJCkJkv+fvoXQUQi7eF2HMW5lxXuu+ppaSGYt8oC/twtdioE5fbR5wqlDSO0wr9MRyjKuFGufvfStvoO4YWaLVrBeBsrpMv5D4ayaHelMUafT0jnur9QbP/j22K0w92n+MIBpNXDltvsBOiOeFSBGbSbCFyez6E+VB2ECA==;yUQuvmdO45ZU+pPWn4l4FQ=="
 ---

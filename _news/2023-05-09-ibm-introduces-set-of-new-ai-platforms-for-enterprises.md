@@ -24,17 +24,6 @@ images:
     height: 400
     isCached: true
 
-related:
-  - title: "IBM Unveils All-In-One AI Integration Tool"
-    excerpt: "Blue-chip tech name IBM (NYSE:IBM) today launched WatsonX, a new, all-in-one artificial intelligence (AI) tool that will help companies with their AI integration. This announcement comes roughly 15 months after IBM sold its Watson Health unit to Francisco Partners."
-    publishedDateTime: 2023-05-09T12:50:00Z
-    webUrl: "https://www.schaeffersresearch.com/content/news/2023/05/09/ibm-unveils-all-in-one-ai-integration-tool"
-    type: article
-    provider:
-      name: SchaeffersResearch.com
-      domain: schaeffersresearch.com
-    quality: 21
-
 secured: "9lJcGU/A3XeYbBRuVUSX0W7G72GENsoUBof2c40xSQyviRteLnhU2pby0g4wAskqapXZ+MgcNiOo/KmqPgIzlhCHkBSktyjeaDeAGX/8lPz+G7dq3jlasZ+Pa3Y8tRfcmX/xjl2LjEuehA/eXIIj52y0feqRxFUao7iaLknRBIOGK7UrB5fiiPp5XdpCEE6uuhO5C/+kLP5g2C3DxxQfC6QCb+/k8i+cX09727LRhV2BV2nP/k8KNEogs7y67CsFkoSL1dTswXGDjJ/P7Pp3P97DjbX/nBTdxnHUO2LIeyzHDhHcm+haXhP5czgGWojqhyjZS/q9PXH0vIIrQTpjeEQLW5tKn2XdwnbBD2EwRyumvk73xB13WLY5c/FIK6XoLqprMy+dS2dsZnJ54/vrre3sRAPn0Y9KcooqXRXX3XzIvU0t0WsW4AWjtWurELhjQL2uE+YVMKOfYb3M3rHTtpXGf81sEx3OM8Zxcvgxujmr46f5KkjU+YKwbDRpt+u3vFtXuXi6Ob+SfENFPa8VHw==;HFtnQJbzmmR28GMQIbi89Q=="
 ---
 

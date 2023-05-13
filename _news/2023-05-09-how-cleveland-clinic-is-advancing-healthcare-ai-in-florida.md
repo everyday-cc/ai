@@ -7,7 +7,7 @@ originalUrl: "https://www.beckershospitalreview.com/innovation/how-cleveland-cli
 webUrl: "https://www.beckershospitalreview.com/innovation/how-cleveland-clinic-is-advancing-healthcare-ai-in-florida.html"
 type: article
 quality: 34
-heat: -1
+heat: 34
 published: false
 
 provider:
@@ -19,31 +19,15 @@ topics:
   - AI
 
 related:
-  - title: "Mayo Clinic invests in NC artificial intelligence healthcare startup"
-    excerpt: "Lucem Health, a startup that says it is utilizing artificial intelligence to deliver solutions for physicians and healthcare providers, has a big believer: Mayo Clinic. It's now an investor."
-    publishedDateTime: 2023-05-11T10:54:00Z
-    webUrl: "https://wraltechwire.com/2023/05/11/mayo-clinic-invests-in-nc-artificial-intelligence-healthcare-startup/"
-    ampWebUrl: "https://wraltechwire.com/2023/05/11/mayo-clinic-invests-in-nc-artificial-intelligence-healthcare-startup/?amp=1"
-    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/05/11/mayo-clinic-invests-in-nc-artificial-intelligence-healthcare-startup/?amp=1"
-    type: article
-    provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 74
-    images:
-      - url: "https://wraltechwire.com/wp-content/uploads/2023/05/AI-51123-e1683802381829.jpg"
-        width: 912
-        height: 513
-        isCached: true
-  - title: "Mayo Clinic a leading investor in Davidson startup Lucem Health's $7.7M funding round"
-    excerpt: "A health-care giant was among the leading investors in Davidson-based Lucem Health's latest funding round. The health-tech startup, a provider of clinical AI technology and solutions, closed on $7.7 million in Series A funding."
-    publishedDateTime: 2023-05-11T18:47:00Z
-    webUrl: "https://www.bizjournals.com/charlotte/inno/stories/fundings/2023/05/11/lucem-health-funding-round-mayo-clinic-startups.html"
+  - title: "AI company reduces hiring goals in South Florida. Here's why"
+    excerpt: "In 2020, the firm agreed to create new jobs in Palm Beach County in exchange for economic incentives. Now, it's withdrawing from that agreement."
+    publishedDateTime: 2023-05-11T16:48:00Z
+    webUrl: "https://www.bizjournals.com/southflorida/news/2023/05/11/ai-levatas-incentives-palm-beach-county.html"
     type: article
     provider:
       name: The Business Journals
       domain: bizjournals.com
-    quality: 0
+    quality: 19
 
 secured: "1o8bJ63ZmhdeO/aGJasDDTwkaWVWCC5wJ35FBE/J2Lv0azg1DYmFooFXJkyiIcsxEi/GUtiyEKVnrdTGd6i4aOddzMGdExA8RiKhj/PChC+ekrzVKZc0i3NhKgIIg8Wvhiuc2cbN1o8HFdk3nQt6huNwmCJuKaG4bQTEtkYLZn9n+iah/8Qp3xM4tqWR4dS4lpoqGQ638L4Cr8j7+7Nbt8oMU6/7+T0IhL5x0wzwgZCuoKTOvC5DkwDw1Y/3dhte3ci9/Iqv0QghYF0CzySiLtxM97Hv9LRAyzSMLKLQxoXI4n6VzXpX2mObhT2va/cYQIZDzx5e14zV6ayxDfwXut6eTPP3TC0jSjTt7/1Nqvc=;zjR9RJ8Y5AHzJ4Cy/f13dw=="
 ---

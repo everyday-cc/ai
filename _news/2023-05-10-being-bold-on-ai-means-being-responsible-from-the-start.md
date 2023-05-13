@@ -7,7 +7,7 @@ originalUrl: "https://blog.google/technology/ai/google-responsible-ai-io-2023/"
 webUrl: "https://blog.google/technology/ai/google-responsible-ai-io-2023/"
 type: article
 quality: 69
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -51,15 +51,6 @@ related:
         width: 1149
         height: 984
         isCached: true
-  - title: "Executives from leading companies share how to achieve responsible AI"
-    excerpt: "As AI technology continues to evolve at a rapid clip, companies need clearly defined and rigorously implemented internal governance policies."
-    publishedDateTime: 2023-05-08T13:00:00Z
-    webUrl: "https://www.fastcompany.com/90891982/executives-from-leading-ai-companies-share-how-to-achieve-responsible-ai"
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 19
 
 secured: "AUpX1WpmTNOEK1mFN2qWlCU+Z2v6Ak1aaZgHb0WrvEbZjKqYQlM4ipS1Lz7rRG7AtA/cVQ9B1fbAPeMEU1ZmnItXAyoY4suRZXXhM8qX52ByfrNWVldC8JmA4kgd0/OqxdYrbM0hUZw0MOnGi2S9SkBloJ7VwBrPjELh2Rpjj2RNg3aQ9SOKHio1ysRwQUIkcuD3quVyP475TdRt+lY96/oBvtyjafhDlVJnFGcQdsuIylk8c4hZdye5etwTx7Zv7Axz/AbU/bePfraHrcSJtsfpoYw9VHRzydciVCJFC3HNnF9Ynoa6M764qNIQBw8XEY7T39NYSgwFIJ0g4YZ8C8etdV3CjA10dIjjkJWXhTk=;rrmJU1y/iAFl/VE+oSzTYw=="
 ---

@@ -47,15 +47,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Tesla changes course with Full Self-Driving to introduce end-to-end AI in v12, says Musk"
-    excerpt: "Tesla is planning to update its Full Self-Driving package with end-to-end AI in its FSD Beta v12, says Elon Musk. FSD Beta already makes plenty of use of neural nets powered by artificial intelligence, but it is used for the perception part of the equation – meaning for the vehicle to detect its environment."
-    publishedDateTime: 2023-05-08T12:14:00Z
-    webUrl: "https://electrek.co/2023/05/08/tesla-changes-course-full-self-driving-end-to-end-ai-v12-musk/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 55
   - title: "Tesla Gears Up to Offer Free AI-Powered Self-Driving Trial: Time to Buy the Stock?"
     excerpt: "Tesla (NASDAQ: TSLA) already stands as the clear leader in the electric vehicle (EV) market, and the company is taking steps to ensure that it has a front position in autonomous-d"
     publishedDateTime: 2023-05-10T11:42:00Z

@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Unlock the Profit Potential in AI Healthcare Innovation with This Leading Biotech Stock"
-    excerpt: "While Nick Black handles the cryptocurrency, blockchain, and Web3 side of things, I'm going to bring you a new stock each week related to these emerging technologies, including artificial intelligence."
-    publishedDateTime: 2023-05-08T21:05:00Z
-    webUrl: "https://moneymorning.com/investing/unlock-the-profit-potential-in-ai-healthcare-innovation-with-this-leading-biotech-stock/"
-    type: article
-    provider:
-      name: Money Morning
-      domain: moneymorning.com
-    quality: 46
-    images:
-      - url: "https://moneymorning.com/wp-content/blogs.dir/1/files/2022/06/crypto-syndication.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "4 AI-powered platforms reshaping the Czech FinTech space"
     excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
     publishedDateTime: 2023-05-10T04:20:00Z
@@ -173,15 +159,6 @@ related:
       name: Asia One
       domain: asiaone.com
     quality: 9
-  - title: "Atomic Revolutionizes Payroll System Integrations with SmartAuth, its Groundbreaking AI-Powered Authentication Engine"
-    excerpt: "Atomic, a leading provider of payroll system integrations, has unveiled SmartAuth, a new artificial intelligence-powered authentication engine. This b"
-    publishedDateTime: 2023-05-10T12:05:00Z
-    webUrl: "https://www.businesswire.com/news/home/20230510005294/en/Atomic-Revolutionizes-Payroll-System-Integrations-with-SmartAuth-its-Groundbreaking-AI-Powered-Authentication-Engine"
-    type: article
-    provider:
-      name: newsroom.businesswire.com
-      domain: businesswire.com
-    quality: 0
 
 secured: "rFFRMbcxuG0AQJ9H/6CTjTo3iMw6t17eyEP+2nOUIfNhhAZvs2uvvcZvulFW+OexkpE2wQ7VH0aZr0YlZJDuKEXl+aJUsr7T4D/VO7784XS2HjZVf7PPgQfJpBUVQ0IAlz6AEt69wxdD5NiJUc14VFty33n7q2zN8dHU3YLweastRMmYcr4HEXg35lPw/J04h2oVf13TS4bN1Ybey/9EOFQuXbODdKrEb74Ebd5DMEUkjXha23onH0ncbU2Xecq1Le1Jg95Ew1TLKdl69I1vYn/WVj2i0GbCKADTxqllLpMUQB5vSMBIPq1MSfjUr08ETMUdp0yxOYFh4PoLKL1KGjlys6hqRcVcfB79mzAECMT85UUT84LvPWmNHrgNFIVP/wQJEIQMVylnXEQRGzpy4dCRE8bPbcSA8eW3SXyhEniKZBbqGifVi/aTQEoaHqUlbESI/22j1voQcAFcSsbiqFRn8vI4UEv/G5NUClSFwVeC2DE8e0zmfDPHzT1aWMmMQYBT5g5TPCTpzXvygTip+A==;Xbn5epuiME8ugrKkO3KUDg=="
 ---

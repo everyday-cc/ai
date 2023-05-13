@@ -38,15 +38,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "In 30 secs, ChatGPT produces 643 words on India and AI; Edge manages just 143"
-    excerpt: "In the IANS New York office, we have been experimenting with chatbots and one of the tasks we set for the two as a test was to \"write a report"
-    publishedDateTime: 2023-05-08T12:55:00Z
-    webUrl: "https://glamsham.com/world/health-lifestyle/in-30-secs-chatgpt-produces-643-words-on-india-and-ai-edge-manages-just-143"
-    type: article
-    provider:
-      name: glamsham.com
-      domain: glamsham.com
-    quality: 16
 
 secured: "X8gACvFnwWd7l5ksiP5xoC1hKim06Nfy67guwWK3AjzqNYq8ZNylQi9U3rgQ02mJEkP9BAbMXca8oUas/gqtzWFuKSj6t1nf1exfIpQDVFv/Q5/exYnXgVnK17RkEveFaykltxTrJpiFsxY9JeMBQwYuxvZLA2Qg+0cGHouB6hVsoHgA0a8NYyIMiy26oZX3x3r0432D+xcmx6bms0T2/AEWXj0UBcq3EG56GxHp9CPvb4Twq5/44BXxC5mIKqBajJuEgzjE6JpnuhcdJh8fkQIyEE8Auu49qMZKwGK5hcEeKFEcm7KAOJRMfdiwGoaGEQbxRLhlvV8XKDN3SyhJNQXuoMAfJ5eGW8S1rLemiOLxyVtkNrvgU1h4rMMt4jBGmj9Yi91NpifD6Xpn4fyLuWO3XSii/PooQXaRlfYV1SXfWJhXTP9JNKdKsMfZMyGOe/EjOK7zlQaMmzSlqmJqUgXdD2/HQblXNdNaWVKN6dvOAdzLo0yB8X4uo7Vva+n8MycCxhkLo0GQoLa1VmGrKg==;j/1bFzJaOpGhtwa8dTPfdQ=="
 ---

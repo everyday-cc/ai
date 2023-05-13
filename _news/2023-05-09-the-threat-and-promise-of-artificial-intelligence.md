@@ -18,141 +18,72 @@ topics:
   - AI
 
 related:
-  - title: "The risks and limitations of AI in insurance"
-    excerpt: "After examining the world of opportunities between AI and the insurance industry, it's time to investigate the risks of AI and how to adopt AI responsibly.\nThe post The risks and limitations of AI in insurance appeared first on IBM Blog.\n"
-    publishedDateTime: 2023-05-08T13:00:00Z
-    webUrl: "https://www.ibm.com/blog/the-risks-and-limitations-of-ai-in-insurance/"
+  - title: "14 popular AI algorithms and their uses"
+    excerpt: "Large language models have captured the news cycle, but there are many other kinds of machine learning and deep learning with many different use cases."
+    publishedDateTime: 2023-05-09T09:00:00Z
+    webUrl: "https://www.infoworld.com/article/3695208/14-popular-ai-algorithms-and-their-uses.html"
+    ampWebUrl: "https://www.infoworld.com/article/3695208/14-popular-ai-algorithms-and-their-uses.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3695208/14-popular-ai-algorithms-and-their-uses.amp.html"
     type: article
     provider:
-      name: IBM
-      domain: ibm.com
-    quality: 99
-  - title: "Integration of AI in healthcare"
-    excerpt: "According to a case study by Medtronic titled “5 Ways Artificial Intelligence is Transforming Healthcare,” the use of AI in healthcare improves accuracy, promotes interventional insights, supports training and education,"
-    publishedDateTime: 2023-05-08T22:22:00Z
-    webUrl: "https://highschool.latimes.com/sage-hill-school/integration-of-ai-in-healthcare/"
-    ampWebUrl: "https://highschool.latimes.com/sage-hill-school/integration-of-ai-in-healthcare/amp/"
-    cdnAmpWebUrl: "https://highschool-latimes-com.cdn.ampproject.org/c/s/highschool.latimes.com/sage-hill-school/integration-of-ai-in-healthcare/amp/"
-    type: article
-    provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 74
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 89
     images:
-      - url: "https://i0.wp.com/highschool.latimes.com/wp-content/uploads/2023/02/ai-healthcarephoto.png?fit=361%2C203&ssl=1"
-        width: 361
-        height: 203
-        isCached: true
-  - title: "Artificial Intelligence In Insurtech Market, 2030"
-    excerpt: "The Global Artificial Intelligence In Insurtech market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players,"
-    publishedDateTime: 2023-05-09T23:56:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-insurtech-market-2030-2023-05-09"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 67
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://images.idgesg.net/images/article/2019/02/network_endpoint_connections_neural_synapses_by_koto_feja_gettyimages-910881616_2400x1600-100788349-large.jpg?auto=webp&quality=85,70"
         width: 1200
-        height: 630
+        height: 800
         isCached: true
-  - title: "Navigating the hype of AI tools in HR"
-    excerpt: "Sometimes it’s better to be first to a new technology, but in the case of AI in HR, it may just be better to be smart than first."
-    publishedDateTime: 2023-05-08T14:16:00Z
-    webUrl: "https://www.benefitspro.com/2023/05/08/147764/"
-    ampWebUrl: "https://www.benefitspro.com/2023/05/08/147764/?amp=1"
-    cdnAmpWebUrl: "https://www-benefitspro-com.cdn.ampproject.org/c/s/www.benefitspro.com/2023/05/08/147764/?amp=1"
+  - title: "How Small Businesses Can Integrate AI Tools And Empower Their Team"
+    excerpt: "As entrepreneurs, it's important to stay ahead of the curve and not ignore emerging technologies that can give us a competitive edge. At the same time, we must prioritize taking care of our people. Here are my thoughts on how to integrate AI into your small business in a responsible way."
+    publishedDateTime: 2023-05-10T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/theyec/2023/05/10/how-small-businesses-can-integrate-ai-tools-and-empower-their-team/"
+    ampWebUrl: "https://www.forbes.com/sites/theyec/2023/05/10/how-small-businesses-can-integrate-ai-tools-and-empower-their-team/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2023/05/10/how-small-businesses-can-integrate-ai-tools-and-empower-their-team/amp/"
     type: article
     provider:
-      name: Benefits Pro
-      domain: benefitspro.com
-    quality: 59
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: "https://images.benefitspro.com/contrib/content/uploads/sites/412/2022/10/Looking-at-Technology-Article-202210271701.jpg"
-        width: 620
-        height: 372
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64595406c962fe6795be84e9/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 484
         isCached: true
-  - title: "Newly developed AI shows speed and accuracy in identifying the location and expression of proteins"
-    excerpt: "A new advanced artificial intelligence (AI) system has shown world-leading accuracy and speed in identifying protein patterns within individual cells. The new system, developed at the University of Surrey's Institute for People-Centered AI,"
-    publishedDateTime: 2023-05-10T14:02:00Z
-    webUrl: "https://phys.org/news/2023-05-newly-ai-accuracy-proteins.html"
-    ampWebUrl: "https://phys.org/news/2023-05-newly-ai-accuracy-proteins.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-05-newly-ai-accuracy-proteins.amp"
+  - title: "New artificial intelligence algorithm for more accurate plant disease detection"
+    excerpt: "Every year, plant diseases caused by bacteria, viruses, and fungi contribute to major economic losses. The prompt detection of these diseases is necessary to curb their spread and mitigate agricultural damage,"
+    publishedDateTime: 2023-05-12T17:30:00Z
+    webUrl: "https://phys.org/news/2023-05-artificial-intelligence-algorithm-accurate-disease.html"
+    ampWebUrl: "https://phys.org/news/2023-05-artificial-intelligence-algorithm-accurate-disease.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-05-artificial-intelligence-algorithm-accurate-disease.amp"
     type: article
     provider:
       name: Phys.org
       domain: phys.org
-    quality: 43
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/ai-developed-in-the-uk.jpg"
-        width: 2001
-        height: 1352
-        isCached: true
-  - title: "The rise of human ingenuity in Artificial intelligence"
-    excerpt: "The neural network used in ChatGPT is composed of multiple layers of artificial neurons that work. In coherence together to understand the structure and patterns in language. The model is trained on a large corpus of text data, which it uses to learn the ..."
-    publishedDateTime: 2023-05-09T11:22:00Z
-    webUrl: "https://timesofindia.indiatimes.com/readersblog/anawrites98/the-rise-of-human-ingenuity-in-artificial-intelligence-53634/"
+    quality: 35
+  - title: "Chat GPT Compares Itself Against Base64.Ai's Powerful Document Processing AI And The Results Are Hilarious"
+    excerpt: "AI facing each other Chat GPT is not suitable for documents. Chat GPT vs Base64.ai We asked if Chat GPT could replace all"
+    publishedDateTime: 2023-05-09T10:58:00Z
+    webUrl: "https://menafn.com/1106205969/Chat-GPT-Compares-Itself-Against-Base64Ais-Powerful-Document-Processing-AI-And-The-Results-Are-Hilarious"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 41
+      name: Mena FN
+      domain: menafn.com
+    quality: 21
     images:
-      - url: "https://static.toiimg.com/photo/75476733.cms"
-        width: 640
-        height: 360
-        isCached: true
-  - title: "The Role of AI in the Evolution of Financial Services"
-    excerpt: "AD With the rapid advancement of technology, financial institutions are constantly looking for new ways to improve their services. One of the most significant developments in recent years has been the integration of artificial intelligence (AI) into the financial industry."
-    publishedDateTime: 2023-05-10T13:41:00Z
-    webUrl: "https://taxguru.in/finance/role-ai-evolution-financial-services.html"
-    type: article
-    provider:
-      name: Tax Guru
-      domain: taxguru.in
-    quality: 39
-    images:
-      - url: "https://taxguru.in/wp-content/uploads/2023/05/investment-advice-that-is-tailored-to-their-individual-needs-and-goals.jpg"
+      - url: "https://menafn.com/updates/pr/2023-05/09/EP_2654cimage_story.png"
         width: 600
-        height: 300
+        height: 314
         isCached: true
-  - title: "ChatGPT and Generative AI in Insurance: Reality, Hype, What's Next, and How to Prepare"
-    excerpt: "ChatGPT is the most talked-about technology of 2023 and has piqued the interest of insurance industry leaders."
-    publishedDateTime: 2023-05-12T18:00:00Z
-    webUrl: "https://www.businessinsider.com/generative-ai-in-insurance-reality-next-hype-how-to-prepare-2023-may"
+  - title: "All eyes on AI"
+    excerpt: "\"Colorado has taken vague principles of AI ethics, such as accountability, fairness, transparency... and turned them into the concrete requirements for policies, governance, and technical controls,\" the practice leaders wrote."
+    publishedDateTime: 2023-05-12T19:10:00Z
+    webUrl: "https://www.bizjournals.com/denver/news/2023/05/12/colorado-rules-artificial-intelligence-insurance.html"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 39
-  - title: "Leveraging AI in telecoms to enhance offerings and maximise operations"
-    excerpt: "As the use cases and opportunities for AI continue to emerge, there are a host of tech-driven approaches telco leaders can integrate into their operations, utilising software like ChatGPT."
-    publishedDateTime: 2023-05-09T11:37:00Z
-    webUrl: "https://telecoms.com/opinion/leveraging-ai-in-telecoms-to-enhance-offerings-and-maximise-operations/"
-    type: article
-    provider:
-      name: Telecoms
-      domain: telecoms.com
+      name: The Business Journals
+      domain: bizjournals.com
     quality: 19
-  - title: "Hackers to test limits of AI technology in mass event"
-    excerpt: "ChatGPT creator OpenAI and other major AI providers are coordinating with the Biden administration to let hackers test the limits of their technology."
-    publishedDateTime: 2023-05-10T19:14:00Z
-    webUrl: "https://thedailyrecord.com/2023/05/10/hackers-to-test-limits-of-ai-technology-in-mass-event/"
-    type: article
-    provider:
-      name: The Daily Record (Maryland)
-      domain: thedailyrecord.com
-    quality: 19
-  - title: "Apple’s AI plans uncertain, as pioneers argue about the risks of the technology"
-    excerpt: "Jürgen Schmidhuber has been called “the father of AI” for his work in natural language processing within neural networks – the technology behind Siri and Google Translate. He has likewise written a huge number of papers and won awards for his work."
-    publishedDateTime: 2023-05-08T13:31:00Z
-    webUrl: "https://9to5mac.com/2023/05/08/apple-ai-plans/"
-    type: article
-    provider:
-      name: 9to5Mac
-      domain: 9to5mac.com
-    quality: 15
 
 secured: "PaXnwG5a9CA1R66i22qi1RDtA8L0MC/iiFR72ASXTqRM/g1YIRb+94b8AMF9LeHRewBqZ82fkUyPUsDKhkvLOOsRBZsdTr+2z0UXJiXwYaeQkPXnJ0QfOozeiZZpcal2gtyeBZnOFfNvIO2B6O+S0hrGLHD2Cyxe5JvsL91RjGSdNTiLeEq7vVozViToZ8Dr+yyUZpy9wMWSs9b+yBflwRjUekWrTMYXYzNBUprP4LBMuAcRx2nOCj/YuJytbOrH3b2AH+izOSJrnLNvIQzHvrV2JtAwqcJn20plTXoLobev+5LcAFs1uad/LKIJIUV5ZeFUn0FTRS5QqcXNh9CZry89Sb0xqhst+S1YzMke6o2xNh8EIsun82+j+Tm772Cr6V9iS9G8A0EKvP1s3cb5nBJHhWM7J4HFtN0FQQ6IXUAcS8kmQstvTTnNuZp4zyTozT0HNhhUyB4v3fY0qmNiRL6B0mdIL1LoT+hr0Qx65Mo2/mr0BWjzSNCSZoOm3Snk18kD69Pcl3Uz9j7O+NHH2Q==;RysGJcZZXqG4dNwiVoJQog=="
 ---

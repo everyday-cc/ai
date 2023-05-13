@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/finovax-leads-the-charge
 webUrl: "https://www.marketwatch.com/press-release/finovax-leads-the-charge-in-fintech-innovation-ai-powered-solutions-drive-business-growth-2023-05-09"
 type: article
 quality: 59
-heat: 189
+heat: 169
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Unlock the Profit Potential in AI Healthcare Innovation with This Leading Biotech Stock"
-    excerpt: "While Nick Black handles the cryptocurrency, blockchain, and Web3 side of things, I'm going to bring you a new stock each week related to these emerging technologies, including artificial intelligence."
-    publishedDateTime: 2023-05-08T21:05:00Z
-    webUrl: "https://moneymorning.com/investing/unlock-the-profit-potential-in-ai-healthcare-innovation-with-this-leading-biotech-stock/"
-    type: article
-    provider:
-      name: Money Morning
-      domain: moneymorning.com
-    quality: 46
-    images:
-      - url: "https://moneymorning.com/wp-content/blogs.dir/1/files/2022/06/crypto-syndication.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "How Artificial Intelligence is Revolutionising the Fintech Landscape?"
     excerpt: "According to surveys, 2/3 of FinTech companies currently use AI technology in their activities to a greater or lesser extent. Its influence will increase. Last year, the worldwide market for AI solutions in the FinTech industry was assessed at roughly 9 billion USD;"
     publishedDateTime: 2023-05-08T17:05:00Z
@@ -177,15 +163,6 @@ related:
       name: Asia One
       domain: asiaone.com
     quality: 9
-  - title: "Atomic Revolutionizes Payroll System Integrations with SmartAuth, its Groundbreaking AI-Powered Authentication Engine"
-    excerpt: "Atomic, a leading provider of payroll system integrations, has unveiled SmartAuth, a new artificial intelligence-powered authentication engine. This b"
-    publishedDateTime: 2023-05-10T12:05:00Z
-    webUrl: "https://www.businesswire.com/news/home/20230510005294/en/Atomic-Revolutionizes-Payroll-System-Integrations-with-SmartAuth-its-Groundbreaking-AI-Powered-Authentication-Engine"
-    type: article
-    provider:
-      name: newsroom.businesswire.com
-      domain: businesswire.com
-    quality: 0
 
 secured: "qYUqeDdgRvWPOgowSYuJFQQ5p5YDklvG3Ebt/Oy02aEo7m0nmyPpiDuUQnenz+ra6ABugHcw+W3t7IUVO6EI+9HwqHR6u9VMmdrjRYiBm76pz8Y3u4EOPJSS9k75oKGZofJu0JMILqLEivUQA4roxfdmvPHLeTXeBGPcqvJpjtYsT08oPgATrPP0DHU6i06A/X8WdZoHRBDDdGjQRY66A14xNrGV9pUKbyC9W2DikSgZHCzm1JJHa0COT8XMJ1DhL/IEQ2saLzEs86krzKMXm1hcGVEm0mJPGOo+mmJjfGPdsZYMBb1myJ3DuztNyl5wEsJgO9dpqoB3T6ianXOdaA/pOejqY5+KtmE59qxZ7dE=;CO5zjeKbHXINhrOv51nqUA=="
 ---

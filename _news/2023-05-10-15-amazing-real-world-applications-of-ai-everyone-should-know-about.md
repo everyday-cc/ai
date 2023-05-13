@@ -39,7 +39,7 @@ related:
     provider:
       name: WXYZ
       domain: wxyz.com
-    quality: 35
+    quality: 37
     images:
       - url: "https://ewscripps.brightspotcdn.com/dims4/default/983adc4/2147483647/strip/true/crop/1280x672+0+24/resize/1200x630!/quality/90/?url=https%3A%2F%2Fx-default-stgec.uplynk.com%2Fausw%2Fslices%2Fae6%2Fbe88c4e651db4a7dbe102614d7272948%2Fae6989154e2e4be3ae579d57a55711ef%2Fposter_8be10a2ad5c74533856a8bf2a479b3eb.jpg"
         width: 1200

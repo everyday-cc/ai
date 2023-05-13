@@ -62,6 +62,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "We need AI to help us face the challenges of the future"
+    excerpt: "Letters: Readers respond to Naomi Klein’s article that argued it is delusional to believe AI machines will benefit humanity"
+    publishedDateTime: 2023-05-12T15:47:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/may/12/we-need-ai-to-help-us-face-the-challenges-of-the-future"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/may/12/we-need-ai-to-help-us-face-the-challenges-of-the-future"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/may/12/we-need-ai-to-help-us-face-the-challenges-of-the-future"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 57
+    images:
+      - url: "https://i.guim.co.uk/img/media/597d5f6734c16144721d0597b01c71b97101cb20/0_115_4000_2399/master/4000.jpg?width=620&quality=85&auto=format&fit=max&s=88eb72596b6f639a049b50d075ccd716"
+        width: 620
+        height: 372
+        isCached: true
   - title: "AI Promises to Impact the Workforce in Unexpected Ways"
     excerpt: "Rise of the Machines Twice a year, Tom Loper participates in a Cybersecurity Advisory Council meeting. The last one was … different. “I would say there was a sense of concern that I hadn’t seen before at that council because of ChatGPT and the phishing potential,"
     publishedDateTime: 2023-05-11T09:59:00Z

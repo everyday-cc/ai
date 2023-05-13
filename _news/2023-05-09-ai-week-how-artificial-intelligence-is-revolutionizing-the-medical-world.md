@@ -6,7 +6,7 @@ publishedDateTime: 2023-05-09T14:02:00Z
 originalUrl: "https://www.wxyz.com/news/a-i-week-how-artificial-intelligence-is-revolutionizing-the-medical-world"
 webUrl: "https://www.wxyz.com/news/a-i-week-how-artificial-intelligence-is-revolutionizing-the-medical-world"
 type: article
-quality: 35
+quality: 37
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://ewscripps.brightspotcdn.com/dims4/default/983adc4/2147483647/strip/true/crop/1280x672+0+24/resize/1200x630!/quality/90/?url=https%3A%2F%2Fx-default-stgec.uplynk.com%2Fausw%2Fslices%2Fae6%2Fbe88c4e651db4a7dbe102614d7272948%2Fae6989154e2e4be3ae579d57a55711ef%2Fposter_8be10a2ad5c74533856a8bf2a479b3eb.jpg"

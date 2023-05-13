@@ -40,15 +40,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "MakeMyTrip brings generative AI for travel bookings, ties up with Microsoft"
-    excerpt: "MakeMyTrip plans to expand the platform to other Indian languages, such as Bhojpuri and various southern dialects, in the near future"
-    publishedDateTime: 2023-05-08T12:23:00Z
-    webUrl: "https://www.business-standard.com/companies/news/makemytrip-brings-generative-ai-for-travel-bookings-ties-up-with-microsoft-123050800609_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 32
 
 secured: "91ubBkhPb/q12rEdv8s6Pzu50iFfMe/WA3YRTZJ7B2KRw4IHMPWDIDffdLnxQxZIF5dpvkuYsiOlRD8aX3haiHt/vABE3WCs6Pm3N+riCqsYOEnZQnYJSmPfwU8WnZAx2oInnMgZHea0G53wpNbK3ErQwU+3aiZ/kEQhDtaV5Qz3o3fH6U1P2WWf8HyBnhyCK5OU120x18eAQGM8o+DutFvTgNJIECd2/1kIXjBQecg6vt1AKDuzsWVI94QVkwUwh2CTuGi/7SyZC2hM+CTnvNgfoLSPhpnNtKrPTzab8bDzcfbkVOEJRc86A4bb6/IGGrWL21mHbr3QLg6KKqtc5sFmABbhYyr44C29gSLXPS24g3pkoPTf1vf0lsLRWsBfbY4QojTOtmFquC1pOgNtHgAROwIVJZXkIoIw/1eDubWF6UhJwnEAQGqxQvd3LgApEhZqxrv0rdOgdRs1gZ7TnCf8qu5v26fJsX0usHnixzVGt8iPIkBpsGu9aYhlbes4gXuX8+SsEb4UE8sU10YZXw==;l36B6wTpMopgCbqjK5HXBA=="
 ---

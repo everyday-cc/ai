@@ -122,15 +122,6 @@ related:
       name: CoinTelegraph
       domain: cointelegraph.com
     quality: 34
-  - title: "EU expected to delay fingerprinting and facial recognition checks at Dover"
-    excerpt: "Exclusive: move predicted after fears extra checks could mar travel to 2024 Paris Olympics"
-    publishedDateTime: 2023-05-08T13:06:00Z
-    webUrl: "https://www.theguardian.com/politics/2023/may/08/eu-expected-to-delay-fingerprinting-and-facial-recognition-checks-at-dover"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 17
 
 secured: "WZAxKrh/M3lEJ3awK666JOIyguFd7CEtzEA5L/Zlnobl4UhAWC+f3aGlDwO3kEIFR98yohPU1vDTZaTHEeI5kKrKFb6lIZQGtWjz+g/I/o7GvNcvFcErdEXRR4UEj8qtUBQY6sr0gh0UP0IncWMkvEgmqY10PUWmcmCKohyBs+/OipsTXVp1Dpb+RY30TU2x37Y5Y8eUlS+hI55mRHH+GnafZhvJO3X4C1Dg18LhOiY2RT3TXxhPsskpa9skhgYreN/L6d6vFBXoeGCkxWzl+23NRZwYdQ9p0vpVZjdjoIWrDnoWNTq1X8FggWxfXIKGXmKO0E9Bu3yk8dNCVTlozVtk5bE6qnpOMlOZb4NYN+jccy+hG+wVH7l0SrRLqEczkLNRwPv+oMD0EW11/LCbRSs9RZQEQ2i/pFchZlcd22fR70OdZ1JSr66a8KWOG7uh4BjxZf6CCejCeVfLQ3WoRZ331l84O5dCfU/YjVCI/qtf1/Sq60Z0V20sIsp78zNmfKzDoSkgeAfR5QfYd2xvGg==;hAFni8RkVXFmMKiKsCBt+g=="
 ---

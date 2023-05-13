@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/ai-act-vote-pushes-eu-ban-on-predictiv
 webUrl: "https://thenextweb.com/news/ai-act-vote-pushes-eu-ban-on-predictive-policing-facial-recognition"
 type: article
 quality: 81
-heat: 161
+heat: 151
 published: true
 
 provider:
@@ -127,15 +127,6 @@ related:
       name: PC Gamer
       domain: pcgamer.com
     quality: 34
-  - title: "EU expected to delay fingerprinting and facial recognition checks at Dover"
-    excerpt: "Exclusive: move predicted after fears extra checks could mar travel to 2024 Paris Olympics"
-    publishedDateTime: 2023-05-08T13:06:00Z
-    webUrl: "https://www.theguardian.com/politics/2023/may/08/eu-expected-to-delay-fingerprinting-and-facial-recognition-checks-at-dover"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 17
 
 secured: "zzLMO7Zx3l8lFCiPWShlfB88XKoUlRVzmZWUxAb6Qm3tdtldQD892sBqKeasjrrFVaAQmMlqRI1WUww1kGlgyW/EZvkN3Ln/dwqkpV8jWr7EYG/XlizlYcx/GJl4ycu4JZGzTvnWp9+6zanPVqAMxmznohpDObL4qeNAKGiTANHBMSNXbNd2DNLzwhr6R874IsU6mWYwMioqqy3oRcYU2yZxSW2iYT16PW0Jx5fdPJedgYxWypN3QPMCD0Z1DO8dyWEd9IYs1WAoemvKQ3vn6H2MBYi8cZ4KVh2MQB6pNGK+rCafgl5852r9WoVYgS8IglsFyavyqvLDkpxPgPsx1nHHNFGAfonenV624pcboNVpmL4I8tzbLXOz1j8CcnM1QCwNmC4Q5zbohLGk7ZYez5CFKzmjyN4/F0659CqfDUNzKlMLsJwbOrZxraSDHixr6HRXNoDeQG5X5C6bD7aVuWb4gfwkZ+088FlMIUUGtS2tqGQVSNVgfJtH8NeOVROOV1trfczWGI/LnhZGgh61Og==;sl9lKaFd39eA7SD5MaBCpg=="
 ---

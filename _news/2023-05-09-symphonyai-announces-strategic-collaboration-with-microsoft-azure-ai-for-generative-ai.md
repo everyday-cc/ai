@@ -1,32 +1,26 @@
 ---
 category: news
 title: "SymphonyAI announces strategic collaboration with Microsoft Azure AI for generative AI"
-excerpt: "SymphonyAI announces strategic collaboration with Microsoft Azure AI for generative AI May 09, 2023 (PRNewswire via COMTEX) -- PR Newswire PALO ALTO,"
-publishedDateTime: 2023-05-09T10:30:00Z
-originalUrl: "https://www.marketwatch.com/press-release/symphonyai-announces-strategic-collaboration-with-microsoft-azure-ai-for-generative-ai-2023-05-09"
-webUrl: "https://www.marketwatch.com/press-release/symphonyai-announces-strategic-collaboration-with-microsoft-azure-ai-for-generative-ai-2023-05-09"
+excerpt: "SymphonyAI introduces Sensa Copilot, a vertical application that integrates Microsoft Azure OpenAI Service and Azure Cognitive Search to drive"
+publishedDateTime: 2023-05-09T12:30:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/symphonyai-announces-strategic-collaboration-with-microsoft-azure-ai-for-generative-ai-1032305943"
+webUrl: "https://markets.businessinsider.com/news/stocks/symphonyai-announces-strategic-collaboration-with-microsoft-azure-ai-for-generative-ai-1032305943"
 type: article
-quality: 91
+quality: 71
 heat: -1
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Microsoft AI
   - AI
-
-images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
-    isCached: true
 
 related:
   - title: "AMP Robotics attracts investment from Microsoft’s Climate Innovation Fund"
@@ -452,6 +446,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "w4ilNZu/YRQ1XE1xkXK/0S0BmjYJ1ZWdK9A46XTfpMH68H6IcMIdmwmFcCJ8d4MRzVy4lSVm3XPrVxa63kZCMsKN3Fx2ratFQDAWsqkcYxRo1/ckXSA8PDbIzOHDEVFLpt719lOdVa7KPPx8z9wRJpFw+f2d9OD20YDOfNmXhrkTS7iqZtgKgtV8NnrvROxPxFkL4Sw7sSPjopbF8BoCd6Dc0QVEGpgFyHCHJxnfG6zC+hdQLRBVBbK+Xcrd2YICJ3Kad8/+uQRBdwUgDSCdE582zYSIWHu7Ba4C9r8m1v6A5etTHSYTbUZjT2+KDE+7Gj9mgyq4ppHqdHIChMSryfVdAktotE5M1zkTK/3G5I4=;1wtRRgXKk0NaSOjcxlodfg=="
+secured: "J0HK16XuAbkWMy6m2jGeP+OZACOaF9bM20w6jWvXPFd3f+0lmNFs1K9ZxJGPR22QLAcl7vJ18rG5v3m3PZ6expxWczkED9JJqcjRwwTiil0/LzDuifFfMlD/Wuy6oFwxHPkR6KKEVEHFRd9dABPcESKwv6Sl2pOzPSTIBxA0Vn2timfc9SV3ARaTJLyjPp2ZfX/qEXmvK+e6GGi0XAu4dovizN5dIZ2fAJ/vZuZf7HhCwmH4MwuyjR+IxdUbyNb/S2Xpq/DdoHdkjRLjmThqTamuDp/qWdgi7N5+w414QqV+ciIHfsCpiIbPcrL5ORvpsbcgV9CS0VcdPYwb6HLETKpAfHGZp9UaMC5dfKGNtgI=;574IlhilL1BgpX/XUTJfBA=="
 ---
 

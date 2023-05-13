@@ -89,14 +89,23 @@ related:
       name: Las Vegas Sun
       domain: lasvegassun.com
     quality: 19
-  - title: "Artificial intelligence can be found in many places. How safe is the technology?"
-    excerpt: "NPR's A Martinez speaks with Jack Clark, co-founder of artificial intelligence company Anthropic, about AI safety concerns."
-    publishedDateTime: 2023-05-10T09:08:00Z
-    webUrl: "https://www.boisestatepublicradio.org/2023-05-10/artificial-intelligence-can-be-found-in-many-places-how-safe-is-the-technology"
+  - title: "Hackers to test limits of AI technology in mass event"
+    excerpt: "ChatGPT creator OpenAI and other major AI providers are coordinating with the Biden administration to let hackers test the limits of their technology."
+    publishedDateTime: 2023-05-10T19:14:00Z
+    webUrl: "https://thedailyrecord.com/2023/05/10/hackers-to-test-limits-of-ai-technology-in-mass-event/"
     type: article
     provider:
-      name: Boise State Public Radio
-      domain: boisestatepublicradio.org
+      name: The Daily Record (Maryland)
+      domain: thedailyrecord.com
+    quality: 19
+  - title: "Artificial intelligence can be found in many places. How safe is the technology?"
+    excerpt: "NPR's A Martinez speaks with Jack Clark, co-founder of artificial intelligence company Anthropic, about AI safety concerns."
+    publishedDateTime: 2023-05-10T14:08:00Z
+    webUrl: "https://www.wuwm.com/health-science/health-science/2023-05-10/artificial-intelligence-can-be-found-in-many-places-how-safe-is-the-technology"
+    type: article
+    provider:
+      name: WUWM
+      domain: wuwm.com
     quality: 14
 
 secured: "CBlWRI2RF+xKxbwGlbLeJPlnLhBehWYjcNjWLVHaXKfwoc0RbVbIUEEzW1CSv00KdJ6Tx/8zV378lUaMbu9kMSDTQuISdmzhXuB11bzVPNLhcJsJOqxm0h0P57MFNsHK2F/fWGnNNfCwH4jMXQzTka2cZupNgskVwlP7/4lTUBX9uYy9hoxUhhr4RRIv/bdjMG3gm0AzgmSbZ8ZXSV7pqEMIbhb1nJ7ic8rWGUiO21L30RJhVavlnWJuKLO9Ec72Lxs6zCR4sxh2dKzqCAcDR+JnXUu30RYtjXtbxFimDnHhwNGe9aNY2/pG71jBbahuxwOyYVe6ja9gaG9KvUx7dkeniZooAYR6CcIAUuQ08qI=;ycdNUFJbLNMQq55u/qVsYw=="

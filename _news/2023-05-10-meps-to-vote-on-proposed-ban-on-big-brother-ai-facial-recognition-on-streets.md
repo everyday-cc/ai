@@ -127,15 +127,6 @@ related:
       name: PC Gamer
       domain: pcgamer.com
     quality: 34
-  - title: "EU expected to delay fingerprinting and facial recognition checks at Dover"
-    excerpt: "Exclusive: move predicted after fears extra checks could mar travel to 2024 Paris Olympics"
-    publishedDateTime: 2023-05-08T13:06:00Z
-    webUrl: "https://www.theguardian.com/politics/2023/may/08/eu-expected-to-delay-fingerprinting-and-facial-recognition-checks-at-dover"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 17
 
 secured: "K4Tr8hMQ2vJLAb1N6K2HP9A2YATlyFWOPZrAkQqjUu4jFaoucrmEm8LkGXcF/WZoGe4NXtz3yJIWRWXYI/zjM6GsBIRICwC8DGneDj8Wtsv3cec5i9dI80VQTMBTT63YN0bh0piGEqgEoFhF3vJ0voQ/xyr8Gd+snQfj+WE/PuYUWSN8YGjaYX7wQHZuzqf4bpGg/qTDgwUk3GB2mdJGF8xBfwFoT6HMOdCCH3nImFmYw+fuGs2nXZ5NIYaLQRHk072Tm4+rXe2k68KUcDQSzrkT9FQbRm54TPqtoOllppVtEGYrRoyQiE3INkWASt5jgZ3pGUBGiz8w+dRjLgJQ+lmuPVusUeOnTfWKegLCyBhAa0mQahyizUEyl+AZZ17yC4Prl1T+0MvoJq+YoFG07Mtv/6xV4NsbLqaaFp1bABpFyp32UkWXh9ktFrYUej8WdFxVBokQKbhq54eF+PedwH4vZbTX0BDp+HNyWL4aI0sHbjV+tmiQne7V6T6P9xTQT6NOG4AO4A5FHTGddbONDA==;8nGXq9IX6I7NqaIytAmH6w=="
 ---

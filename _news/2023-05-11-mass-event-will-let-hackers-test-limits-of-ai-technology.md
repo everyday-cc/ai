@@ -9,7 +9,7 @@ ampWebUrl: "https://www.securityweek.com/mass-event-will-let-hackers-test-limits
 cdnAmpWebUrl: "https://www-securityweek-com.cdn.ampproject.org/c/s/www.securityweek.com/mass-event-will-let-hackers-test-limits-of-ai-technology/amp/"
 type: article
 quality: 59
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -89,14 +89,23 @@ related:
       name: Las Vegas Sun
       domain: lasvegassun.com
     quality: 19
-  - title: "Artificial intelligence can be found in many places. How safe is the technology?"
-    excerpt: "NPR's A Martinez speaks with Jack Clark, co-founder of artificial intelligence company Anthropic, about AI safety concerns."
-    publishedDateTime: 2023-05-10T09:08:00Z
-    webUrl: "https://www.boisestatepublicradio.org/2023-05-10/artificial-intelligence-can-be-found-in-many-places-how-safe-is-the-technology"
+  - title: "Hackers to test limits of AI technology in mass event"
+    excerpt: "ChatGPT creator OpenAI and other major AI providers are coordinating with the Biden administration to let hackers test the limits of their technology."
+    publishedDateTime: 2023-05-10T19:14:00Z
+    webUrl: "https://thedailyrecord.com/2023/05/10/hackers-to-test-limits-of-ai-technology-in-mass-event/"
     type: article
     provider:
-      name: Boise State Public Radio
-      domain: boisestatepublicradio.org
+      name: The Daily Record (Maryland)
+      domain: thedailyrecord.com
+    quality: 19
+  - title: "Artificial intelligence can be found in many places. How safe is the technology?"
+    excerpt: "NPR's A Martinez speaks with Jack Clark, co-founder of artificial intelligence company Anthropic, about AI safety concerns."
+    publishedDateTime: 2023-05-10T14:08:00Z
+    webUrl: "https://www.wuwm.com/health-science/health-science/2023-05-10/artificial-intelligence-can-be-found-in-many-places-how-safe-is-the-technology"
+    type: article
+    provider:
+      name: WUWM
+      domain: wuwm.com
     quality: 14
 
 secured: "4whHreLiy4HSTnini8gA9XVhF2CKPu5bwd/lJQ8XILZhuaqfItI9eTtncghxcivpigtax8qnEioRzgfmRIJkinnmbWrdCFxF5E0thHRkOrPVaniaROFU3o77i1A47z0y8nA9YeaMrTlrTZa4HYQw5hnyhBGsRjpqbVZPKHY0kvJdI0M3gnmuNd5rZvWsAvTxICOnj5IjNU6pg/5Dzq9TNPKLR5LgKXVQfiweoKsmWcOWKNG0VsmRcchbwZsjrpPouEAwfCGT1l1+1UpeUchlq36ncqcxNmIy0x+x9voigshBxJLUH7THVPMg8SMf5BlDFZmTUgEHGElRHrPU8xodvn2u2zvFHrvAs0CEvclijp9FURFM0mzcyKMxHmb+RT8lVdO9NGslQfUmivaOxSputUkzHWwWAtD9KD3gdMYVI5w41XbTPuX5qV8ooRFs72DcopwQmRiXz+z3ZYdbil2G2XnCTxmlRClvJ0NIZNmkjQCIhqN2YNSEKWojFPpHOD2wc0CMWSsH4JpqsSbgoLafgw==;Y0yG3sDoVjiIq9XEzYaFuA=="

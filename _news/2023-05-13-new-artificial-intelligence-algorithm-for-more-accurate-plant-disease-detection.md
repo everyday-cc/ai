@@ -76,6 +76,15 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 19
+  - title: "The threat and promise of artificial intelligence"
+    excerpt: "Yet even if no such revolution threatens, recent advances in artificial intelligence are highly significant. According to Bill Gate s, they are the most important development since personal computers."
+    publishedDateTime: 2023-05-09T16:04:00Z
+    webUrl: "https://www.ft.com/content/41fd34b2-89ee-4b21-ac0a-9b15560ef37c?shareType=nongift"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 17
 
 secured: "X7fZrImoPmZSTKZZomAkbBZ1V6Iut0I4tl/ODFQCoUioaV55bkjaLrabHVSNrvwimiz65BLL3UgtltwxT6w9ZrGbQMO8szh4V1jc/xMWZnuJ1ZTfnbZ/6zku2JXMQPUA2aLdMHtfiT69HmfvTgnt5yUysmWhKckmdL5iBbB/raQSZkiPaNbRxOUWQ/LToj2oQq3ZsxZsN7CuCHxqR93X4KuW1l4AoLBHc6IUzlxtHDtuRjRatQQkzJUuJyfgW9cvS5IO28aPeaJIP2tNv/HM0+AeGMNIloUrc46ZXtyEE9vxKEumgSPcw30MJJBBXlqrXZtEmWiS5AiBJ03g1Lsp6PQ9BmoMtm5uWDMJ3p+iT8I=;wD0k1GqH7NAVibVDonD7OA=="
 ---

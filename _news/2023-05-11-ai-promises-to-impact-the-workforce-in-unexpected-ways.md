@@ -73,6 +73,22 @@ related:
         width: 1200
         height: 563
         isCached: true
+  - title: "We need AI to help us face the challenges of the future"
+    excerpt: "Letters: Readers respond to Naomi Klein’s article that argued it is delusional to believe AI machines will benefit humanity"
+    publishedDateTime: 2023-05-12T15:47:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/may/12/we-need-ai-to-help-us-face-the-challenges-of-the-future"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/may/12/we-need-ai-to-help-us-face-the-challenges-of-the-future"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/may/12/we-need-ai-to-help-us-face-the-challenges-of-the-future"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 57
+    images:
+      - url: "https://i.guim.co.uk/img/media/597d5f6734c16144721d0597b01c71b97101cb20/0_115_4000_2399/master/4000.jpg?width=620&quality=85&auto=format&fit=max&s=88eb72596b6f639a049b50d075ccd716"
+        width: 620
+        height: 372
+        isCached: true
 
 secured: "mGD+B2P4PNTDRXun7Ikp4qSvCmEi29Eone2Ly75cOul9GbLA8JKmlB33rwDB1qqLYyjyY4z+4cJIHxrdpGPPRSpjwFVHBi6wpPmQbXXUDvTBvUPCMt07+95VZOMGFkQcILdYw7y9KtnclpQdo98okOjUCLfossQXsMrc91J25jn4KNo0iYhXYc5yaUyM6v/pIdafoafz11fcG0ExYaBSzlF9cwq+iNlgDbwAphFGa59rc6wg5o6nrOX2OyRhRQ11visOZBMqALbfn3TKF+zqCiC/15ikDKjFgrps/OEIXM86eMPgAhE6EGCmlLmxaj9TNxhcoEzMh0xsyG3xxIlgXUkhYOJXkKemOO/SrZI3KCySiv+Yi+H/LkHo6necZ+t2/n+Kt9VZ010oN3v1KkT9qsqQZsqqoep1QfrsLY132YlJL/ASjnUi1nhJ+251KImiHe5oe6I962fC3T1YU2WJNcmaKwtpZGG7WcJXNgSXSPlXGypXN9cnonhxcWq/BO+p77YkWp4fw2X+TcG1OZ7Tqw==;Yl7Q+bMe6Jroc/eQqdA6Sg=="
 ---

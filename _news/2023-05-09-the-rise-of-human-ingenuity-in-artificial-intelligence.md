@@ -26,136 +26,36 @@ images:
     isCached: true
 
 related:
-  - title: "The risks and limitations of AI in insurance"
-    excerpt: "After examining the world of opportunities between AI and the insurance industry, it's time to investigate the risks of AI and how to adopt AI responsibly.\nThe post The risks and limitations of AI in insurance appeared first on IBM Blog.\n"
-    publishedDateTime: 2023-05-08T13:00:00Z
-    webUrl: "https://www.ibm.com/blog/the-risks-and-limitations-of-ai-in-insurance/"
+  - title: "Making Intelligent Noise: AI In The Music Industry"
+    excerpt: "As AI continues to expand, so do its applications, which now span all aspects of the industry from A&R to audio engineering to live performance."
+    publishedDateTime: 2023-05-09T10:14:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/09/making-intelligent-noise-ai-in-the-music-industry/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/09/making-intelligent-noise-ai-in-the-music-industry/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/05/09/making-intelligent-noise-ai-in-the-music-industry/amp/"
     type: article
     provider:
-      name: IBM
-      domain: ibm.com
-    quality: 99
-  - title: "Integration of AI in healthcare"
-    excerpt: "According to a case study by Medtronic titled “5 Ways Artificial Intelligence is Transforming Healthcare,” the use of AI in healthcare improves accuracy, promotes interventional insights, supports training and education,"
-    publishedDateTime: 2023-05-08T22:22:00Z
-    webUrl: "https://highschool.latimes.com/sage-hill-school/integration-of-ai-in-healthcare/"
-    ampWebUrl: "https://highschool.latimes.com/sage-hill-school/integration-of-ai-in-healthcare/amp/"
-    cdnAmpWebUrl: "https://highschool-latimes-com.cdn.ampproject.org/c/s/highschool.latimes.com/sage-hill-school/integration-of-ai-in-healthcare/amp/"
-    type: article
-    provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 74
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://i0.wp.com/highschool.latimes.com/wp-content/uploads/2023/02/ai-healthcarephoto.png?fit=361%2C203&ssl=1"
-        width: 361
-        height: 203
-        isCached: true
-  - title: "Artificial Intelligence In Insurtech Market, 2030"
-    excerpt: "The Global Artificial Intelligence In Insurtech market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players,"
-    publishedDateTime: 2023-05-09T23:56:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-insurtech-market-2030-2023-05-09"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 67
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/645903282939ed75411170d1/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 630
+        height: 844
         isCached: true
-  - title: "Navigating the hype of AI tools in HR"
-    excerpt: "Sometimes it’s better to be first to a new technology, but in the case of AI in HR, it may just be better to be smart than first."
-    publishedDateTime: 2023-05-08T14:16:00Z
-    webUrl: "https://www.benefitspro.com/2023/05/08/147764/"
-    ampWebUrl: "https://www.benefitspro.com/2023/05/08/147764/?amp=1"
-    cdnAmpWebUrl: "https://www-benefitspro-com.cdn.ampproject.org/c/s/www.benefitspro.com/2023/05/08/147764/?amp=1"
+  - title: "Leveraging Artificial Intelligence In The Food Industry: How Startups Are Captivating Early Adopting F&B Operators to Tackle Theft and Waste"
+    excerpt: "As AI continues to reveal its potential across every industry, we remain focused on harnessing its power to improve productivity and ingenuity to address decades-old problems plaguing the industry we love so dearly."
+    publishedDateTime: 2023-05-09T03:00:00Z
+    webUrl: "https://www.entrepreneur.com/en-ae/technology/embracing-artificial-intelligence-in-the-food-industry-how/451146"
     type: article
     provider:
-      name: Benefits Pro
-      domain: benefitspro.com
-    quality: 59
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 32
     images:
-      - url: "https://images.benefitspro.com/contrib/content/uploads/sites/412/2022/10/Looking-at-Technology-Article-202210271701.jpg"
-        width: 620
-        height: 372
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1683564033-Shutterstock-1937933428.jpg"
+        width: 2000
+        height: 1333
         isCached: true
-  - title: "Newly developed AI shows speed and accuracy in identifying the location and expression of proteins"
-    excerpt: "A new advanced artificial intelligence (AI) system has shown world-leading accuracy and speed in identifying protein patterns within individual cells. The new system, developed at the University of Surrey's Institute for People-Centered AI,"
-    publishedDateTime: 2023-05-10T14:02:00Z
-    webUrl: "https://phys.org/news/2023-05-newly-ai-accuracy-proteins.html"
-    ampWebUrl: "https://phys.org/news/2023-05-newly-ai-accuracy-proteins.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-05-newly-ai-accuracy-proteins.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 43
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/ai-developed-in-the-uk.jpg"
-        width: 2001
-        height: 1352
-        isCached: true
-  - title: "The Role of AI in the Evolution of Financial Services"
-    excerpt: "AD With the rapid advancement of technology, financial institutions are constantly looking for new ways to improve their services. One of the most significant developments in recent years has been the integration of artificial intelligence (AI) into the financial industry."
-    publishedDateTime: 2023-05-10T13:41:00Z
-    webUrl: "https://taxguru.in/finance/role-ai-evolution-financial-services.html"
-    type: article
-    provider:
-      name: Tax Guru
-      domain: taxguru.in
-    quality: 39
-    images:
-      - url: "https://taxguru.in/wp-content/uploads/2023/05/investment-advice-that-is-tailored-to-their-individual-needs-and-goals.jpg"
-        width: 600
-        height: 300
-        isCached: true
-  - title: "ChatGPT and Generative AI in Insurance: Reality, Hype, What's Next, and How to Prepare"
-    excerpt: "ChatGPT is the most talked-about technology of 2023 and has piqued the interest of insurance industry leaders."
-    publishedDateTime: 2023-05-12T18:00:00Z
-    webUrl: "https://www.businessinsider.com/generative-ai-in-insurance-reality-next-hype-how-to-prepare-2023-may"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 39
-  - title: "Leveraging AI in telecoms to enhance offerings and maximise operations"
-    excerpt: "As the use cases and opportunities for AI continue to emerge, there are a host of tech-driven approaches telco leaders can integrate into their operations, utilising software like ChatGPT."
-    publishedDateTime: 2023-05-09T11:37:00Z
-    webUrl: "https://telecoms.com/opinion/leveraging-ai-in-telecoms-to-enhance-offerings-and-maximise-operations/"
-    type: article
-    provider:
-      name: Telecoms
-      domain: telecoms.com
-    quality: 19
-  - title: "Hackers to test limits of AI technology in mass event"
-    excerpt: "ChatGPT creator OpenAI and other major AI providers are coordinating with the Biden administration to let hackers test the limits of their technology."
-    publishedDateTime: 2023-05-10T19:14:00Z
-    webUrl: "https://thedailyrecord.com/2023/05/10/hackers-to-test-limits-of-ai-technology-in-mass-event/"
-    type: article
-    provider:
-      name: The Daily Record (Maryland)
-      domain: thedailyrecord.com
-    quality: 19
-  - title: "The threat and promise of artificial intelligence"
-    excerpt: "Yet even if no such revolution threatens, recent advances in artificial intelligence are highly significant. According to Bill Gate s, they are the most important development since personal computers."
-    publishedDateTime: 2023-05-09T16:04:00Z
-    webUrl: "https://www.ft.com/content/41fd34b2-89ee-4b21-ac0a-9b15560ef37c?shareType=nongift"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 17
-  - title: "Apple’s AI plans uncertain, as pioneers argue about the risks of the technology"
-    excerpt: "Jürgen Schmidhuber has been called “the father of AI” for his work in natural language processing within neural networks – the technology behind Siri and Google Translate. He has likewise written a huge number of papers and won awards for his work."
-    publishedDateTime: 2023-05-08T13:31:00Z
-    webUrl: "https://9to5mac.com/2023/05/08/apple-ai-plans/"
-    type: article
-    provider:
-      name: 9to5Mac
-      domain: 9to5mac.com
-    quality: 15
 
 secured: "E0tgButsJAgMm7lSBlADUf4xx18fqCBZVJVjYA2G9N+ijk23qukPVReA4cVXyBfVqOw6ob2f8Z7/zJaAvinJX/1cjxk2tLRGFPJ12pSzrcsiqLCzPaMZkyv5IZeQ0Tk3ct74ojftY/7L5Kt6i/OvmRxwR/RaKnd84SueJwQkzwVS+WSCDeQ0Gc5zWB1qarvT44VR9Zyg2KMPDSnlnFk5Doxe5kn0BSxMlwIpuiDsc41FI7KnWWMIjwmm+QJDqINSNlL0JqJIh8cyMdy5Ccj4Lx6VeLLMgrsBo6tYShziYDlmgo6dTds37Y+luVWn8l9AN243NP+ELeD76gZ9OEZpk7ZjmiQf3JeyfNmELbek8MM=;rfK+5Xn2G8Ci8LNj2I7UTA=="
 ---

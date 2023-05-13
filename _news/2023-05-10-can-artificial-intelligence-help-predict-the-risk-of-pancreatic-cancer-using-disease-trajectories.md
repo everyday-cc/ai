@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence Improves Prediction of Pancreatic Cancer"
-    excerpt: "Artificial intelligence (AI) can improve the design of surveillance programs for pancreatic cancer, according to a study published online May 8 in Nature Medicine. Davide Placido, from the University of Copenhagen in Denmark,"
-    publishedDateTime: 2023-05-12T23:59:00Z
-    webUrl: "https://www.physiciansweekly.com/artificial-intelligence-improves-prediction-of-pancreatic-cancer/"
-    type: article
-    provider:
-      name: Too Old to Operate
-      domain: physiciansweekly.com
-    quality: 37
-    images:
-      - url: "https://www.physiciansweekly.com/wp-content/uploads/2023/05/image1683935942.jpg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "Artificial intelligence can be trained to spot pancreatic cancer risk 3 years before diagnosis, study says"
     excerpt: "According to a new study, artificial intelligence algorithms may be the key to identifying who is at the most risk of developing one of the most notoriously difficult cancers to diagnose early: pancreatic cancer."
     publishedDateTime: 2023-05-10T14:13:00Z
