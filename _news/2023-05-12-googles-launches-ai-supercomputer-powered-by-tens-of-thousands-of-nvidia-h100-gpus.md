@@ -237,20 +237,6 @@ related:
         width: 2560
         height: 1707
         isCached: true
-  - title: "A new app aims to thwart AI plagiarism in schools, online media"
-    excerpt: "The startup GPTZero, designed by a 22-year-old college student, has attracted 1.2 million registered users since January. It aims to deter the misuse of ChatGPT in classrooms."
-    publishedDateTime: 2023-05-08T23:19:00Z
-    webUrl: "https://www.latimes.com/business/story/2023-05-08/gptzero-aims-to-thwart-ai-plagiarism-in-schools-online-media"
-    type: article
-    provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 37
-    images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/48d50b8/2147483647/strip/true/crop/4338x2892+0+0/resize/1200x800!/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fdf%2Ffa%2Ff8ca91bb40109203c9484c39ac01%2Fartificial-intelligence-audits-66775.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "9 new Google AI features that will upgrade your life"
     excerpt: "If you want a full breakdown of all the announcements from yesterday’s event as-it-happened, take a look at our Google I/O 2023 live blog here. Otherwise, let’s dive into nine of the best new AI features that Google hopes will make your online life a little easier to manage."
     publishedDateTime: 2023-05-11T13:03:00Z

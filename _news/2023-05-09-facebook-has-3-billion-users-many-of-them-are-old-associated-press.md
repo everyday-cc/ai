@@ -25,33 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Facebook has 3 billion users, but young people have moved on"
-    excerpt: "For younger generations — those who signed up in middle school, or those who are now in middle school, it's decidedly not the place to be."
-    publishedDateTime: 2023-05-09T00:43:00Z
-    webUrl: "https://www.yorkdispatch.com/story/money/business/2023/05/08/facebook-has-3-billion-users-but-young-people-have-moved-on/70197561007/"
+  - title: "Urgent warning to millions of Facebook users as it’s feared hackers have found new way to break into devices"
+    excerpt: "FACEBOOK users have been given an urgent warning as it’s feared hackers have discovered a new way to break into phones. Meta issued the warning after their security team found malicious"
+    publishedDateTime: 2023-05-13T16:24:00Z
+    webUrl: "https://www.thesun.co.uk/tech/22348423/urgent-warning-facebook-users-hackers-new-way-break-devices/"
+    ampWebUrl: "https://www.thesun.co.uk/tech/22348423/urgent-warning-facebook-users-hackers-new-way-break-devices/amp/"
+    cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/tech/22348423/urgent-warning-facebook-users-hackers-new-way-break-devices/amp/"
     type: article
     provider:
-      name: The York Dispatch
-      domain: yorkdispatch.com
-    quality: 24
+      name: The Sun
+      domain: thesun.co.uk
+    quality: 25
     images:
-      - url: "https://www.gannett-cdn.com/presto/2023/05/09/PPYD/cf1a9c1e-155b-4435-a513-392915041f1f-AP23125612260648.jpg?auto=webp&crop=1023,575,x0,y52&format=pjpg&width=1200"
-        width: 1200
-        height: 674
-        isCached: true
-  - title: "Facebook, nearing 20, has 3 billion users. Many of them are old."
-    excerpt: "But it says it isn’t dead or just for “old people,” as critics have said for years. The social media platform, born before the iPhone, is approaching two decades in existence."
-    publishedDateTime: 2023-05-09T00:10:00Z
-    webUrl: "https://chicago.suntimes.com/2023/5/8/23716234/facebook-users-old-social-media-demographics-meta"
-    type: article
-    provider:
-      name: Chicago Sun-Times
-      domain: suntimes.com
-    quality: 24
-    images:
-      - url: "https://cst.brightspotcdn.com/dims4/default/ddc495e/2147483647/strip/true/crop/1980x1130+0+112/resize/1461x834!/quality/90/?url=https%3A%2F%2Fcdn.vox-cdn.com%2Fthumbor%2FgCPS-snMkSEwQLd1BLWIQyeYsEY%3D%2F0x0%3A1980x1320%2F1980x1320%2Ffilters%3Afocal%281418x677%3A1419x678%29%2Fcdn.vox-cdn.com%2Fuploads%2Fchorus_asset%2Ffile%2F24642754%2Fmerlin_113229210.jpg"
-        width: 1461
-        height: 834
+      - url: "https://www.thesun.co.uk/wp-content/uploads/2023/05/newspress-collage-22348423-1683997206908.jpg?1684000827&strip=all&quality=100&w=1920&h=1080&crop=1"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Facebook says its evolving to meet the needs of Young adults"
     excerpt: "Facebook says it is not dead. The social media giant also wants you to know that it is not just for “old people”, as young people have been saying for years. Now, with the biggest thorn in its side – TikTok – facing heightened government scrutiny amid growing tensions between the United States and China,"

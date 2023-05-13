@@ -53,6 +53,17 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "The Artificial Intelligence Driving Travel Innovations"
+    excerpt: "AI news drove headlines this week, from Expedia, to Google, and even to Skift. Click through for a summary of the top stories."
+    publishedDateTime: 2023-05-13T16:00:00Z
+    webUrl: "https://skift.com/2023/05/13/the-artificial-intelligence-driving-travel-innovations/"
+    ampWebUrl: "https://skift.com/2023/05/13/the-artificial-intelligence-driving-travel-innovations/amp/"
+    cdnAmpWebUrl: "https://skift-com.cdn.ampproject.org/c/s/skift.com/2023/05/13/the-artificial-intelligence-driving-travel-innovations/amp/"
+    type: article
+    provider:
+      name: Skift
+      domain: skift.com
+    quality: 39
   - title: "FinovateSpring Hosting 60+ Live Demos Showcasing Disruptive Fintech Solutions"
     excerpt: "What Can We Learn from Innovators in The Space?\" FinovateSpring is well known for spotlighting new fintech innovations from seed-stage startups to global leaders. The event offers 60-plus short, punchy,"
     publishedDateTime: 2023-05-09T13:35:00Z

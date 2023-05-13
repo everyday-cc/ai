@@ -34,6 +34,20 @@ related:
         width: 912
         height: 513
         isCached: true
+  - title: "SC State included in $20M NSF investment to change health care using AI"
+    excerpt: "The National Science Foundation announced a $20 million, five-year investment in a multi-institutional project called Artificial Intelligence-Enabled Devices for the Advancement of Personalized and Transformative Health Care in South Carolina or ADAPT-SC."
+    publishedDateTime: 2023-05-13T16:29:00Z
+    webUrl: "https://thetandd.com/news/local/sc-state-included-in-20m-nsf-investment-to-change-health-care-using-ai/article_85acc86e-ee86-11ed-ab64-d7077876a609.html"
+    type: article
+    provider:
+      name: The Times and Democrat
+      domain: thetandd.com
+    quality: 39
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/thetandd.com/content/tncms/assets/v3/editorial/8/5a/85acc86e-ee86-11ed-ab64-d7077876a609/645a77a038343.preview.jpg?crop=1938%2C1017%2C0%2C25&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "xaF/tMWHb57eIRAuahFVuj7N8ycvYBI3MdWcIQpZUa7L1Al6FaajAGNrFOixSvIzAtUlwoDY0rW2FKliwFWMx5Wz9dSJFzOeNE5pDWiPTLF8fVfWaliqYavORjr+Sglc3xy9dYrTHxL7BvRMIofhbWoDq7BMkTTea4ruGec55VIQ4xTdopuA9Wc4c1HQiqa77KONkcHt0xNIJs+tpy9V9TOrqOnBn8cRUwFu4sH65e8y+EjZtQoiVJpP6soNl7kjOL1LC2m1oYd6lMQHv4AHMps2l1dQYzLZzU7Ty3TcovBAM+APpnXYDVj5clC9vgJcaWvHWC5gFm4xEfia99fYcmD0ujGfKjoerufxDMfjwp3+/JTvWz4jUFBXQhRddN9BQzuTDPXyJ60QTj1RjekzN7B8UspAD0JdtmBdQdK+AxvDXaEHi9OvDJiitegs4aSvaIGD7S45lVcRMVeSAg+YPPdOAMEhNYeeF6kiOSMjojLkcdeiIEBK0Kgr5/q1JIg9whFMhNFi4pNAfYybhd8YZA==;dzhXkuvSBBYabEOrQvf7OA=="
 ---

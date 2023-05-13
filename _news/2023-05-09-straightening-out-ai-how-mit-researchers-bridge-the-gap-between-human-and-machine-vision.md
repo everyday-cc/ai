@@ -20,14 +20,21 @@ topics:
 
 related:
   - title: "Specific training can help computer vision models learn like humans: Study"
-    excerpt: "MIT researchers have discovered that a specific training method can help computer vision models learn more perceptually straight representations, like humans do. Training involves showing machine-learning model millions of examples so it can learn a task."
-    publishedDateTime: 2023-05-10T13:06:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Science/20230510/4071872.html"
+    excerpt: "MIT researchers have discovered that a specific training method can help computer vision models learn more perceptually straight representations, like humans do. Training involves showing a machine-learning model millions of examples so it can learn a task."
+    publishedDateTime: 2023-05-10T01:01:00Z
+    webUrl: "https://www.devdiscourse.com/article/science-environment/2445976-specific-training-can-help-computer-vision-models-learn-like-humans-study"
+    ampWebUrl: "https://www.devdiscourse.com/article/science-environment/2445976-specific-training-can-help-computer-vision-models-learn-like-humans-study?amp"
+    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/science-environment/2445976-specific-training-can-help-computer-vision-models-learn-like-humans-study?amp"
     type: article
     provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 32
+      name: devdiscourse
+      domain: devdiscourse.com
+    quality: 72
+    images:
+      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/10_05_2023_00_57_45_5641496.jpg?width=1280"
+        width: 1280
+        height: 960
+        isCached: true
 
 secured: "ZlpmpS2sC0EnXlBCbgDnAxL6FPk9CjlUk5f8HmzKWSMpwx+YUOkpIaw2iIhFMWbnYYjUL+Ygc5ozJDrAG7fhfYwlD2xxCh8AzLYQT6/u3kDVNy697zIez2Yn45qZ8/0EjsMYjrmtN+f1xmF8Ful++4SOI+UC0GA52uY3gMXcnj46HuUEDbukAWd0rAnl5BVQU94YdkMkC0Q+7NFsIR10FOPmsJ74o/lXPndbi696gZEMpJ8ZbyVcEGn0vSo6zmzwMIWq8hVBVNUAyqo43r/BXqdR7spCO/8ayy8MXj3d23NGZzgBww9NziPC51vmlSdSMywKukJsO6InYJ27c3qzd9vT6rB6LedRppv1uL7AKyWjapTUu33nl8/fdOmlRCb5o8ETYHvTlMb7oOAes+HpLUul2t3WVXl8nmEiezYn+cMqd2Jck908TLy7SZ0MbP8fNxizCXUMb5zS/vOSb178frmTLmcHeTRv1JsXNbVNAOqf068vPH/v+m2IUIg2PyPQJZUp4J5dRMk+SA+l3T5DSQ==;g73HEHcgjzKfzmvO+nCR6Q=="
 ---

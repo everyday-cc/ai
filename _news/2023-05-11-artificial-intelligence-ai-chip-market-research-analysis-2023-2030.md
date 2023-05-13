@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chip-market-research-analysis-2023-2030-2023-05-11"
 type: article
 quality: 99
-heat: 549
+heat: 559
 published: true
 
 provider:
@@ -252,6 +252,20 @@ related:
     excerpt: "Artificial Intelligence (AI) in Social Media Market | Outlook 2023-2028 | Pre and Post-COVID Research is Covered,"
     publishedDateTime: 2023-05-11T14:24:00Z
     webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-social-media-market-share-granular-analysis-2023-2030-2023-05-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 76
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence (AI) in Food and Beverage Market: Growth & Revenue by 2030"
+    excerpt: "Artificial Intelligence (AI) in Food and Beverage Market Size 2023 - 2030 Report Consisting of 83 Pages Offers"
+    publishedDateTime: 2023-05-13T16:58:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-food-and-beverage-market-growth-revenue-by-2030-2023-05-13"
     type: article
     provider:
       name: MarketWatch

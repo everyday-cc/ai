@@ -65,6 +65,17 @@ related:
         width: 1080
         height: 720
         isCached: true
+  - title: "The Artificial Intelligence Driving Travel Innovations"
+    excerpt: "AI news drove headlines this week, from Expedia, to Google, and even to Skift. Click through for a summary of the top stories."
+    publishedDateTime: 2023-05-13T16:00:00Z
+    webUrl: "https://skift.com/2023/05/13/the-artificial-intelligence-driving-travel-innovations/"
+    ampWebUrl: "https://skift.com/2023/05/13/the-artificial-intelligence-driving-travel-innovations/amp/"
+    cdnAmpWebUrl: "https://skift-com.cdn.ampproject.org/c/s/skift.com/2023/05/13/the-artificial-intelligence-driving-travel-innovations/amp/"
+    type: article
+    provider:
+      name: Skift
+      domain: skift.com
+    quality: 39
   - title: "GIC sees more growth in fintech after downturn"
     excerpt: "SAN FRANCISCO - Singapore sovereign wealth fund GIC said it still sees more growth in the financial technology sector, even after a downturn that’s sent start-up valuations plummeting as investors turn away from riskier bets."
     publishedDateTime: 2023-05-09T04:30:00Z

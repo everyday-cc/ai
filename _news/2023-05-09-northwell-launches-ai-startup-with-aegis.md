@@ -7,7 +7,7 @@ originalUrl: "https://www.modernhealthcare.com/finance/northwell-aegis-ai-compan
 webUrl: "https://www.modernhealthcare.com/finance/northwell-aegis-ai-company-screen-diagnose-optain"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,20 +24,15 @@ images:
     isCached: true
 
 related:
-  - title: "Northwell commits $1M to 2 employee-driven healthcare innovation projects"
-    excerpt: "New Hyde Park, N.Y.-based Northwell Health awarded $1 million to two employee-driven healthcare innovation projects after 84 projects were submitted for consideration. The two projects, according to a May 8 Northwell news release:"
-    publishedDateTime: 2023-05-09T00:07:00Z
-    webUrl: "https://www.beckershospitalreview.com/innovation/northwell-commits-1m-to-2-employee-driven-healthcare-innovation-projects.html"
+  - title: "Otto partners with AI-startup Covariant"
+    excerpt: "Otto is partnering with Covariant, which offers AI-driven warehouse robots. The German Otto Group aims to automate its fulfilment activities."
+    publishedDateTime: 2023-05-09T12:43:00Z
+    webUrl: "https://ecommercenews.eu/otto-partners-with-ai-startup-covariant/"
     type: article
     provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 38
-    images:
-      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
-        width: 800
-        height: 600
-        isCached: true
+      name: Ecommercenews.eu
+      domain: ecommercenews.eu
+    quality: 19
 
 secured: "0syql7PaVjPwg/cKDNVX7+z+1NdYrZC71eD6OhlUqKoTXJTG9FPNheUf28kihNG6WdvbBXulCmZJMiT4dPxTH8mYWncrn2qBJE02XGLaLXr5wBvFzAxcUH9v3n26bPad6P9gi+R8aU+h60IlIB7InCwDC3Biqpq4GJXNMkMn/SRXzMWkMnvZIG3zD6l3elwr7EFS9aCm/ee+UoDjBeP/VsWBkjP3QIQAmx9vQvxT5BKEXOtBZINqyUiuY6ApIim0Z7A0bVtT7cW+Z76m73PebcsnBSuDRM2oD5qnNYGXUMdltbYeybCRNlqpUGOd6mkUfZq4/fKPOJZDg4+QKXaxUHD7GMa+HozGA0YSE94wanZ5x3zOHjRcZuNeUoXU7tYVVyukpNIzmM36W+FKGy32j7xqGHr5/ddaAJgxHDHEOQPkMmZhd8S2/d9VvLufwriQphSub8PxU9k1V3DkJdPToT4BpZ9c+ASgBjTfboEkId36ZncdOrZZ4/qJV5YcUCTSDJzPYRc/l9pdV3qdjIZjAw==;MUeX/01wREaal0u2GqbN1w=="
 ---

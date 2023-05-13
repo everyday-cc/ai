@@ -41,6 +41,20 @@ related:
         width: 840
         height: 560
         isCached: true
+  - title: "Brian Merchant: The writers’ strike is only the beginning. A rebellion against AI is underway"
+    excerpt: "So far, the story of the AI boom has been the one that the tech industry has wanted to tell: Silicon Valley companies creating AI services that can mimic human art and words and, according to them, replace millions of jobs and transform the economy."
+    publishedDateTime: 2023-05-13T17:21:00Z
+    webUrl: "https://www.limaohio.com/news/business/2023/05/13/brian-merchant-the-writers-strike-is-only-the-beginning-a-rebellion-against-ai-is-underway/"
+    type: article
+    provider:
+      name: The Lima News
+      domain: limaohio.com
+    quality: 28
+    images:
+      - url: "https://www.limaohio.com/wp-content/uploads/2023/05/131274713_web1_BIZ-MERCHANT-COLUMN-LA-696x464.jpg"
+        width: 696
+        height: 464
+        isCached: true
 
 secured: "Q49O45LrEywFbH3QpV3leKQsKbjQbelmWYxXBnleMoWapnbh7+XGJO3jsnHIV27Hg+Wvifv7jdtHJGjuvTaCsJKnY0CjraVCA6t5xy8NdlW8/VEHCYduOm+H+UZWSeB0zr4gLXvTTIpgZ/avart9RGsvmnLvL4Qwq3vqqrjRZs8fw9wIAu3l8Olu7dv5NlW7Cbhhf3eNLxVmXHpCiBQyo0dXalvnFK+0J0QPgc9j7KuhCt3ov6sx3318FDKBLJURle5Pl83YLKW+mMnsGUGNDMncsc3WCzvlyDwrZi0XIJqs1z7gAK3uYhEV8v1OUSNrSm6MVHxnlYkdbgOjOF2RkQMzOeZnoLRCbida46MFx/tmZ4kK6cCin7zXAdsZgk7pJdkskjTdUc+J6EcJgsozkaR4bt5Ub8dF5uyycBwBMmAaWgmziqZTihb6u5nS/VkT9X9zPbO1ur28w4Ox/xLlUp7viTw/tHBItc7ux4ZZGKx4Xmuz6snWogIkzQtqqvwpsvCp2OWyLLpQaXutd3sqJw==;wbPpXu0gnOIxwaG866uhFA=="
 ---
