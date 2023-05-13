@@ -288,20 +288,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Chatbot Market worth $15.5 billion by 2028 - Exclusive Report by MarketsandMarkets™"
-    excerpt: "The market for Chatbot Market is estimated to grow from USD 5.4 billion in 2023 to USD 15.5 billion by 2028, at a CAGR of 23.3% during the forecast period, according to a new report by MarketsandMarkets™."
-    publishedDateTime: 2023-05-08T17:51:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-chatbot-market-worth-155-billion-2028-exclusive-report-/2023/05/08/9809532.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 18
-    images:
-      - url: "https://marketplace.connectwise.com/content/images/thumbs/0000635_skykick_550.png"
-        width: 550
-        height: 353
-        isCached: true
 
 secured: "8r+s3yQuaTulw82CWuZXwpQDSHhg6EK9FI9wAX7EJGlsJbJTg1YZpD7TrW7cQCj0J3ftTB43JlH8Xua8OX+ENKLKJjVT1CofMrEliB2sKfm2VH4tHDP6YKYbmtPsuQ85apF1IAz9o+JLTvsz9jQ2Q6A6QUJk6/nnzTVnLet2u2vMvdR7SwNOUw+I1bNoGa8ePT476DvaaL4ZKVwEv0Zwbh+vRBo/ISz94/lN9YoDZMspj3/KBUz/3hfJR8aZRQRe55ANWrmoB3Y2Q97jAP/b/CAwb2chNQxbOS6jtdYCwQBbXHNedaL/F0/GHbLTMCrmBI2SnJa7X+oMYLPkpMgv8bGGnmK1XBC80ClHAWVbW88=;+fOqu3lDvNpPhpUNPbs8+w=="
 ---

@@ -1,27 +1,29 @@
 ---
 category: news
 title: "Vatican experts uncovering gilded glory of Hercules statue struck by lightning"
-excerpt: "Scaffolding in a niche of the Vatican Museums’ Round Hall conceal from view the work of restorers who are removing centuries of grime from the largest known bronze statue of the ancient world: the gilded Hercules Mastai Righetti."
-publishedDateTime: 2023-05-13T09:32:00Z
-originalUrl: "https://www.aol.com/entertainment/vatican-experts-uncovering-gilded-glory-061941805.html"
-webUrl: "https://www.aol.com/entertainment/vatican-experts-uncovering-gilded-glory-061941805.html"
+excerpt: "Vatican Museum restorers are working to remove centuries of grime from the largest known bronze statue of the ancient world: the gilded Hercules Mastai Righetti"
+publishedDateTime: 2023-05-13T06:32:00Z
+originalUrl: "https://abcnews.go.com/International/wireStory/vatican-experts-uncovering-gilded-glory-hercules-statue-struck-99300699"
+webUrl: "https://abcnews.go.com/International/wireStory/vatican-experts-uncovering-gilded-glory-hercules-statue-struck-99300699"
+ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/vatican-experts-uncovering-gilded-glory-hercules-statue-struck-99300699"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/vatican-experts-uncovering-gilded-glory-hercules-statue-struck-99300699"
 type: article
-quality: 20
-heat: -1
+quality: 40
+heat: 40
 published: false
 
 provider:
-  name: AOL
-  domain: aol.com
+  name: ABC
+  domain: abcnews.go.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://s.yimg.com/ny/api/res/1.2/hsEQb0_yqTMDaKo.Bjct.A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_associated_press_484/b2db07abad301bf1b169dc6fdee414e2"
-    width: 1200
-    height: 800
+  - url: "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -51,6 +53,6 @@ related:
       domain: lasvegassun.com
     quality: 4
 
-secured: "NJNfd/1gYXRGHaGujdOD7N11eKS+ndEtWftncYxWq+UQXnI6162A05to038ZIKQaD8royHuTuzPMzkoxDmDArZetr+yYvlMLG5yqaq8aOuEf6nKpCG0NryuwLYtEjZ5lvxn7pb8D5mWS7tiD+2MoTd+vHMXUj1efJ93Khc5SfTS5yty1kWCAzDZbzmA85XtOmSeX8Jw3AWfKIANZ4bbMaWvQQzqeyTBTII5U6+E0uPimx2W2NtcV96C7GDhmfy9pB3gRyye1GSH9gvUsY/ldfS64fwIOhFqBXjmKQScaHcuvpwJ4m2SGgwRMrWawlaAFYas5vg8xHQHcGqJUMVLS7aJqljvX+1lxDLoCE/MEftQ=;X6sgp2aniV/gta9JL2CLFQ=="
+secured: "0635PEghp0tNWlhmJJ2hmkqJBm9kLKIpdaGRsDmH6qw0lkL+B48NrMbJHCgh1fDZmwIurZAM2FLdn88U6g5+oRNN9QFpI1NV5PGPt7hNCPeaF3LGCtBJYLkijH8iezfHDXLiiEUsgZm6pl9W0Jpg6lqI1WHlBISiWf+OTOpNj1RHZg12PIubJH6q1j+Wxk98nh3jcm0IKJgrV4IRT1326v9QrgSt0jO0FtaOdv/QtDgtt1OLJnKHlKXaRokgZwL6lVGpecoWkegNVCYc+u+YjlwCjQxMLe3BRbCDC82bUje0q63xOXaubNpJOCozzf3eN6fpBNLzOFXrO/X42TJYgzLLO6mhT4E+AyhZ8ezpXEU=;bnS0T3a96K4HcVbf2nZiaA=="
 ---
 

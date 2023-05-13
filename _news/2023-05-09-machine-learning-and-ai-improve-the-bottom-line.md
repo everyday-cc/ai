@@ -7,7 +7,7 @@ originalUrl: "https://www.automationworld.com/analytics/article/33003186/machine
 webUrl: "https://www.automationworld.com/analytics/article/33003186/machine-learning-and-ai-improve-the-bottom-line"
 type: article
 quality: 54
-heat: -1
+heat: 64
 published: false
 
 provider:
@@ -25,22 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "Feedback from an AI-driven tool improves teaching, research finds"
-    excerpt: "Artificial intelligence is rapidly transforming education, in both worrisome and beneficial ways. On the positive side of the ledger, new research shows how AI can help improve the way instructors engage with their students,"
-    publishedDateTime: 2023-05-08T18:02:00Z
-    webUrl: "https://phys.org/news/2023-05-feedback-ai-driven-tool.html"
-    ampWebUrl: "https://phys.org/news/2023-05-feedback-ai-driven-tool.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-05-feedback-ai-driven-tool.amp"
+  - title: "Students turn to AI for ideas to improve lives at this year’s Imagine Cup"
+    excerpt: "Here’s a look at some of the teams using AI, including the top three teams — Eupnea, TAWI and CS-M Tool — who made it to the 2023 Imagine Cup World Championship. That event will be held at Microsoft Build 2023 on May 23 at 8:30 a.m. PDT."
+    publishedDateTime: 2023-05-11T15:07:00Z
+    webUrl: "https://news.microsoft.com/source/features/ai/students-turn-to-ai-for-ideas-to-improve-lives-at-this-years-imagine-cup/"
     type: article
     provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 57
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/feedback-from-an-ai-dr.jpg"
-        width: 797
-        height: 1500
-        isCached: true
+      name: Microsoft
+      domain: microsoft.com
+    quality: 18
 
 secured: "Jz7N+d6ZoLrQb3DTQQkD6oy9XS3ltFKpDVr1ZkYoE1NwUHvSpLDrrbY6bUL5TyESNr0YH+kQxGg1RIjuFcEEuOL0G5Xgefwcc0YqvCx0qyPFNNnmE0gJn9Y2CNhP9vONPg1hYw3coDOJBKzhWA+lsUgiFxsaWfQXItvd6VNJlRelS9xCuPCKz+sw48g9hhCRuKgz7KnULJic/2ZbxizejbM4jQdJ6gvgvVJHeZXTz7xHhfcgSAPLTEjl2cM4pouLh+ydkM5CS1X1U0t6DEG8J1fuHQK9KYQrlfiFZ64C9ruczoSfqFp89PXuc543ufUf95zkb4LgIa6DNLYCxhpYE7M0cvoMfxKa7Q4faaPGnMR96f9iBYzhGFVuJH1RZ+2kPy5Aw1KEKx36FY0tT2qLRET3/+L9nRwfJccIHGiZlKD7EjxprVTyUkNJ9/Hv0Qn6LIPnFBBBc5u0hvGg8e7j1aechb4qrTC0Ey9AGk9ORyowrMDq8hyGyVKKwa6+er/2Hpj3ybVgmImRqbcxAcO1CQ==;skPd9K3p5Em5+5h6judpog=="
 ---

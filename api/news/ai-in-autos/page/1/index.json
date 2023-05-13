@@ -98,6 +98,58 @@
       ]
     },
     {
+      "path": "_news/2023-05-12-googles-ai-bonanza-and-driverless-car-talk-with-cruise-ceo-kyle-vogt.md",
+      "title": "Google’s A.I. Bonanza and Driverless Car Talk With Cruise C.E.O. Kyle Vogt",
+      "excerpt": "And as you might expect, most of what they showed off today had a lot to do with artificial intelligence and how they’re going ... So Casey and I hailed a ride in one to find out if the driverless car revolution we’ve all been talking about and waiting ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2023/05/12/podcasts/googles-ai-bonanza-and-driverless-car-talk-with-cruise-ceo-kyle-vogt.html",
+      "originalUrl": "https://www.nytimes.com/2023/05/12/podcasts/googles-ai-bonanza-and-driverless-car-talk-with-cruise-ceo-kyle-vogt.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 167,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2023/06/05/multimedia/0512HF-googleai-lwfv/0512HF-googleai-lwfv-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-12T06:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-12-tesla-shouldnt-call-its-self-driving-system-autopilot-us-transport-secretary.md",
       "title": "Tesla shouldn't call its self-driving system Autopilot: US Transport Secretary",
       "excerpt": "The National Highway Traffic Safety Administration has probed more than 30 crashes since 2016 in which Tesla EVs were suspected of operating on Autopilot or its more sophisticated automated Full Self-Driving system.",
@@ -193,6 +245,58 @@
       ]
     },
     {
+      "path": "_news/2023-05-11-self-driving-cars-are-being-put-on-a-data-diet.md",
+      "title": "Self-Driving Cars Are Being Put on a Data Diet",
+      "excerpt": "Growing fleets, fancier sensors, and tighter budgets are forcing autonomous vehicle developers to get pickier about what stays on their servers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/self-driving-cars-are-being-put-on-a-data-diet/",
+      "originalUrl": "https://www.wired.com/story/self-driving-cars-are-being-put-on-a-data-diet/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/645c372a88479249e0cc28b6/191:100/w_1280,c_limit/Driverless-Cars-Data-Diet-Business-1247366812.jpg",
+          "width": 1280,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-11T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-11-10-things-in-tech-tesla-teases-a-new-cybertruck-meta-eyes-hyper-targeted-ads-and-google-brings-ai-to-search.md",
       "title": "10 Things in Tech: Tesla teases a new cybertruck, Meta eyes hyper-targeted ads, and Google brings AI to search",
       "excerpt": "Etsy launches a wedding registry, DoorDashers demand more tip, and more headlines.",
@@ -201,7 +305,7 @@
       "originalUrl": "https://www.businessinsider.com/google-amazon-facebook-microsoft-tesla-san-francisco-etsy-ai-2023-5",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 85,
       "tags": null,
       "images": [
         {
@@ -253,7 +357,7 @@
       "originalUrl": "https://money.usnews.com/investing/articles/megatrends-ai-and-robotics",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 102,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -286,58 +390,6 @@
         "AI in Autos",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-05-11-autonomous-or-driverless-cars-market-report-talks-about-current-market-share-2023-2030.md",
-      "title": "Autonomous or Driverless Cars Market Report Talks about Current Market Share 2023-2030",
-      "excerpt": "May 11, 2023 (The Expresswire) -- \"Stay informed with the Latest New Insight Updates on Autonomous or Driverless Cars Market to remain Competitive",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/autonomous-or-driverless-cars-market-report-talks-about-current-market-share-2023-2030-2023-05-11",
-      "originalUrl": "https://www.marketwatch.com/press-release/autonomous-or-driverless-cars-market-report-talks-about-current-market-share-2023-2030-2023-05-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 141,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-11T01:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     },
     {
@@ -1396,58 +1448,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-29-letters-in-the-driverless-car-chase-hong-kong-mustnt-lag-behind.md",
-      "title": "Letters | In the driverless car chase, Hong Kong mustn’t lag behind",
-      "excerpt": "Consider a hypothetical scenario wherein one requests a taxi on a ride-hailing app, and a self-driving vehicle arrives. How would you react? Perhaps you would be taken aback. In August last year, Baidu, a leading Chinese tech company, was granted approval ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/comment/letters/article/3218754/driverless-car-chase-hong-kong-mustnt-lag-behind",
-      "originalUrl": "https://www.scmp.com/comment/letters/article/3218754/driverless-car-chase-hong-kong-mustnt-lag-behind",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2023/04/28/89d39af8-72d7-45b5-b249-5c3a654c0acd_2a10a2f5.jpg?itok=PSMRZWmS&v=1682674581",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-28T20:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "scmp.com",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

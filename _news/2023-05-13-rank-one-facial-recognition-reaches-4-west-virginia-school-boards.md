@@ -24,26 +24,6 @@ images:
     height: 729
     isCached: true
 
-related:
-  - title: "Smart fitness studio in Virginia enables artificial intelligence"
-    excerpt: "A fitness studio in Virginia called The Exercise Coach has enabled artificial intelligence to help people work out in an efficient and effective manner."
-    publishedDateTime: 2023-05-08T18:27:00Z
-    webUrl: "https://www.foxbusiness.com/technology/smart-fitness-studio-virginia-enables-artificial-intelligence"
-    type: article
-    provider:
-      name: Fox Business
-      domain: foxbusiness.com
-    quality: 19
-  - title: "Smart fitness studio in Virginia uses artificial intelligence to curate workouts"
-    excerpt: "A fitness studio in Virginia called The Exercise Coach has enabled artificial intelligence to help people work out in an efficient and effective manner."
-    publishedDateTime: 2023-05-08T18:27:00Z
-    webUrl: "https://www.foxbusiness.com/technology/smart-fitness-studio-virginia-uses-artificial-intelligence-curate-workouts"
-    type: article
-    provider:
-      name: Fox Business
-      domain: foxbusiness.com
-    quality: 14
-
 secured: "Rlk5T/78Gqim+HLWkggn6QqCloVoYNyQSkmzWlhEjXw/xibA+nMln83RXX21nB4o20+3WwUkOUZyaaKNPXY58LVGZAOPBEkQHrW8No+Cfq5TKrBcSdi7EZyCAIFie9BDtMe6gHrTdKvKwzDl/FeZfHQPQMMWG2HzhzZad7+2SnZGBAHSDL5AxsW7JVaGOxbxkJ5h1Q/dlew+w1aLgkkzRWf2GnetkLK7IE07PTJAInoLBjhYeG4gSwZZl81BQlRQYydl+P3wKrAcKMbsBwgP/uCRQb21GRpdSC04CsFU/TWDC2OFExWvihRSJUtBlGSTz6/o6zfMo3EnrHl5u1L4GMhD5m9EIqnK+HHIdJJV4noP8VdZLQgUGKhuwSDGQR1tXlrCWcQRxWtyzYKAqcimh1wCoforJNlOBLRRGVjKOTsNLErgBdCeqj+2WiKQtvQyIFgLYy3SVtOrY40q6lUXJgyL6rLkvQzqjJsIek5s7gxWBZdWe9OvGWr2AH3CKVd1eML1B4Pt/yqje+4NWe+Znw==;9zomianFI8XlVKtYPZNZdQ=="
 ---
 

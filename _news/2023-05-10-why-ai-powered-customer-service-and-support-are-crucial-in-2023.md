@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/05/10/why-ai-p
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/05/10/why-ai-powered-customer-service-and-support-are-crucial-in-2023/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/645bb6c0da50d9e629b32fd2/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 800
-        isCached: true
-  - title: "How Artificial Intelligence is Used in Customer Service"
-    excerpt: "Of all the applications for artificial intelligence (AI), customer service is one of the most common. Companies big and small have been using tools like AI customer service bots and voice assistants in order to handle customer requests,"
-    publishedDateTime: 2023-05-08T18:20:00Z
-    webUrl: "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/ai-in-customer-service/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 67
-    images:
-      - url: "https://m.foolcdn.com/media/dubs/images/image_7.width-600.jpg"
-        width: 600
-        height: 400
         isCached: true
   - title: "3 AI Stocks That Are Poised to Explode in 2023"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial Intelligence (or AI) is the latest and greatest buzzword on Wall"

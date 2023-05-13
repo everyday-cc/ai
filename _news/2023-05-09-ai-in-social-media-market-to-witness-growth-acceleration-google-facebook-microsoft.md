@@ -217,6 +217,15 @@ related:
         width: 730
         height: 395
         isCached: true
+  - title: "SymphonyAI announces strategic collaboration with Microsoft Azure AI for generative AI"
+    excerpt: "SymphonyAI introduces Sensa Copilot, a vertical application that integrates Microsoft Azure OpenAI Service and Azure Cognitive Search to drive"
+    publishedDateTime: 2023-05-09T12:30:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/symphonyai-announces-strategic-collaboration-with-microsoft-azure-ai-for-generative-ai-1032305943"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 71
   - title: "Microsoft and Oracle considered sharing AI servers amid GPU shortages"
     excerpt: "That existing infrastructure could be used to share GPU server capacity, a person familiar with the matter told The Information. The publication previously reported that Microsoft has rationed access to AI servers for some of its internal teams ..."
     publishedDateTime: 2023-05-10T09:58:00Z
@@ -378,15 +387,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 42
-  - title: "SymphonyAI announces strategic collaboration with Microsoft Azure AI for generative AI"
-    excerpt: "SymphonyAI introduces Sensa Copilot, a vertical application that integrates Microsoft Azure OpenAI Service and Azure Cognitive Search to drive value for customers in financial crime prevention and regulatory compliance PALO ALTO,"
-    publishedDateTime: 2023-05-09T16:34:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/05/09/9809924.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 41
   - title: "AWS and Microsoft partner acquires data service firm Forecast"
     excerpt: "AWS and Microsoft partner Kin+Carta has acquired data service provider Forecast Data Services with the aim of strengthening its global enterprise data and AI services. Edinburgh-based Forecast, which also has a delivery hub in Poland,"
     publishedDateTime: 2023-05-10T12:35:00Z

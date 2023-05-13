@@ -59,20 +59,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "White House announces measures to address challenges of AI"
-    excerpt: "The White House has announced a series of measures to address the challenges of artificial intelligence, driven by the sudden popularity of tools such as ChatGPT and amid rising concerns about the technology’s potential risks for discrimination,"
-    publishedDateTime: 2023-05-08T17:27:00Z
-    webUrl: "https://www.tvcnews.tv/2023/05/white-house-announces-measures-to-address-challenges-of-ai/"
-    type: article
-    provider:
-      name: tvcnews.tv
-      domain: tvcnews.tv
-    quality: 39
-    images:
-      - url: "https://www.tvcnews.tv/wp-content/uploads/2023/05/download_53_600x400.jpg"
-        width: 600
-        height: 400
-        isCached: true
   - title: "Hackers aim to find flaws in AI - with White House help"
     excerpt: "But now its maker, OpenAI, and other major AI providers such as Google and Microsoft, are coordinating with the Biden administration to let thousands of hackers take a shot at testing the limits of their technology."
     publishedDateTime: 2023-05-10T14:01:00Z

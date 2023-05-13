@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/tech/how-this-safe-browsing-feature-is-using
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/how-this-safe-browsing-feature-is-using-ai-stay-ahead-scammers.amp"
 type: article
 quality: 87
-heat: 107
+heat: 109
 published: true
 
 provider:

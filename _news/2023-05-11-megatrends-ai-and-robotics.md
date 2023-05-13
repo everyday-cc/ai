@@ -7,7 +7,7 @@ originalUrl: "https://money.usnews.com/investing/articles/megatrends-ai-and-robo
 webUrl: "https://money.usnews.com/investing/articles/megatrends-ai-and-robotics"
 type: article
 quality: 81
-heat: 101
+heat: 102
 published: true
 
 provider:

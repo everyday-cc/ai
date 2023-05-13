@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Google’s A.I. Bonanza and Driverless Car Talk With Cruise C.E.O. Kyle Vogt"
+    excerpt: "And as you might expect, most of what they showed off today had a lot to do with artificial intelligence and how they’re going ... So Casey and I hailed a ride in one to find out if the driverless car revolution we’ve all been talking about and waiting ..."
+    publishedDateTime: 2023-05-12T13:41:00Z
+    webUrl: "https://www.nytimes.com/2023/05/12/podcasts/googles-ai-bonanza-and-driverless-car-talk-with-cruise-ceo-kyle-vogt.html"
+    type: article
+    provider:
+      name: The New York Times
+      domain: nytimes.com
+    quality: 67
+    images:
+      - url: "https://static01.nyt.com/images/2023/06/05/multimedia/0512HF-googleai-lwfv/0512HF-googleai-lwfv-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Autonomous or Driverless Cars Market Report Talks about Current Market Share 2023-2030"
     excerpt: "May 11, 2023 (The Expresswire) -- \"Stay informed with the Latest New Insight Updates on Autonomous or Driverless Cars Market to remain Competitive"
     publishedDateTime: 2023-05-11T08:58:00Z
@@ -114,6 +128,20 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Cruise CEO Kyle Vogt talks the future of self-driving cars with Jim Cramer"
+    excerpt: "Cruise CEO Kyle Vogt joins 'Mad Money' host Jim Cramer to discuss where autonomous vehicle tech is being implemented right now and what the future of the industry could look like."
+    publishedDateTime: 2023-05-10T21:21:00Z
+    webUrl: "https://www.cnbc.com/video/2023/05/10/cruise-ceo-kyle-vogt-talks-the-future-of-self-driving-cars-with-jim-cramer.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 52
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/107239402-1683759325MM-Block-C-051023.jpg?v=1683760939&w=1920&h=1080"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "UK To Roll Out Driverless Bus Service"
     excerpt: "The UK will roll out its first driverless bus network in Scotland next week with drivers on standby behind the steering wheel, ready to take control"

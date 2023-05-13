@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/articles/softbank-trims-overall-loss-after-top
 webUrl: "https://www.wsj.com/articles/softbank-trims-overall-loss-after-topsy-turvy-fiscal-year-9a07237c?mod=hp_lead_pos1"
 type: article
 quality: 67
-heat: 87
+heat: 89
 published: true
 
 provider:

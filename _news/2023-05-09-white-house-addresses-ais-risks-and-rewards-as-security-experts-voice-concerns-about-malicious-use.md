@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/article/white-house-harness-ai/amp/"
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/white-house-harness-ai/amp/"
 type: article
 quality: 90
-heat: 150
+heat: 140
 published: true
 
 provider:
@@ -62,20 +62,6 @@ related:
       - url: "https://erepublic.brightspotcdn.com/dims4/default/bcf2836/2147483647/strip/true/crop/940x490+0+68/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F42%2Fa7%2F51531ad3d4e4ae15f9a84c8a2112%2Fshutterstock-1016367682.jpg"
         width: 840
         height: 438
-        isCached: true
-  - title: "White House announces measures to address challenges of AI"
-    excerpt: "The White House has announced a series of measures to address the challenges of artificial intelligence, driven by the sudden popularity of tools such as ChatGPT and amid rising concerns about the technology’s potential risks for discrimination,"
-    publishedDateTime: 2023-05-08T17:27:00Z
-    webUrl: "https://www.tvcnews.tv/2023/05/white-house-announces-measures-to-address-challenges-of-ai/"
-    type: article
-    provider:
-      name: tvcnews.tv
-      domain: tvcnews.tv
-    quality: 39
-    images:
-      - url: "https://www.tvcnews.tv/wp-content/uploads/2023/05/download_53_600x400.jpg"
-        width: 600
-        height: 400
         isCached: true
   - title: "Hackers aim to find flaws in AI - with White House help"
     excerpt: "But now its maker, OpenAI, and other major AI providers such as Google and Microsoft, are coordinating with the Biden administration to let thousands of hackers take a shot at testing the limits of their technology."

@@ -7,7 +7,7 @@ originalUrl: "https://insidehpc.com/2023/05/galileo-unveils-ml-data-quality-inte
 webUrl: "https://insidehpc.com/2023/05/galileo-unveils-ml-data-quality-intelligence-platform-for-computer-vision-models/"
 type: article
 quality: 51
-heat: 61
+heat: 51
 published: false
 
 provider:
@@ -24,17 +24,6 @@ images:
     width: 842
     height: 1187
     isCached: true
-
-related:
-  - title: "Galileo Unveils ML Data-Quality Intelligence Platform for Faster, More Accurate Computer Vision Models"
-    excerpt: "By adding just a few lines of Python code during the model training process, the innovative Galileo Data Intelligence for Computer Vision platform automatically identifies problematic data that negatively impacts model performance, then suggests effective ..."
-    publishedDateTime: 2023-05-08T18:20:00Z
-    webUrl: "https://www.datanami.com/this-just-in/galileo-unveils-ml-data-quality-intelligence-platform-for-faster-more-accurate-computer-vision-models/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 20
 
 secured: "d8f5jh/P4v94V+yPWqxO1RZ6ig743hrlangS8En/+ixVdVZhvYLFO+EzzSHGaoP26fkI9xJUOEalnfB8mdXWAsDHgrNq0MRWuWVqYVy8LXU57Y+2A1D8/pkg7rMkOly9LoJc0n4r/DzG28+jJn3/h1igW0hs0nmIz3VTNE5XcHqz7V6bFaECxZ378dhOvG9i99o0vugc9PSfGBWjVYYws0x3/oiQtmb8JzJa8hye6EinVBUvnZTm7eveic5EMAgJi5gsw54wlMqTADPNCWMkagf21CG1/u8w2FMWsq/rFBYYRyaknJUFzqHtPlCjDlKRaE1MJfbHt8JrZu9gXXjAGlSR65ZAVtWUygs0LkG3FHQ=;eV9dJOKaRLzZ2sbbFyaSgQ=="
 ---

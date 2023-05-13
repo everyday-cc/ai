@@ -43,6 +43,22 @@ related:
         width: 4048
         height: 2391
         isCached: true
+  - title: "Google told me Bard has gotten better. But even the AI doesn't believe ..."
+    excerpt: "Even after Google I/O, Bard seems to be holding on to some of its old quirks, even denying its upgrade to PaLM 2."
+    publishedDateTime: 2023-05-13T11:29:00Z
+    webUrl: "https://www.zdnet.com/article/google-told-me-bard-has-gotten-better-but-even-the-ai-doesnt-believe-it/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/google-told-me-bard-has-gotten-better-but-even-the-ai-doesnt-believe-it/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-told-me-bard-has-gotten-better-but-even-the-ai-doesnt-believe-it/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 85
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/3002560b7b92127860a6d1747749f19b9714d7c1/2023/05/10/bb010820-3937-4ed0-8468-2d013125672d/google-bard-2.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Google Is Opening the AI Floodgates"
     excerpt: "This week we recap all the news from Google I/O and discuss how the company is reshaping its core business with generative tools."
     publishedDateTime: 2023-05-12T12:00:00Z

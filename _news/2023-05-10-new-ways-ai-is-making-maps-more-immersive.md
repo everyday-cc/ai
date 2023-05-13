@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/products/maps/google-maps-updates-io-2023/amp/"
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/maps/google-maps-updates-io-2023/amp/"
 type: article
 quality: 109
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "7 ways generative AI is being used in healthcare"
+    excerpt: "Generative artificial intelligence is already being used in the healthcare industry to help lower costs and improve efficiency."
+    publishedDateTime: 2023-05-11T16:44:00Z
+    webUrl: "https://www.beckershospitalreview.com/innovation/7-ways-generative-ai-is-being-used-in-healthcare.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 54
+    images:
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Tracking Generative AI: How Evolving AI Models Are Impacting Legal"
     excerpt: "A running compilation of how the legal landscape continues to be shaped by generative AI tools, from GPT technologies to art generation tools and beyond."
     publishedDateTime: 2023-05-09T16:30:00Z

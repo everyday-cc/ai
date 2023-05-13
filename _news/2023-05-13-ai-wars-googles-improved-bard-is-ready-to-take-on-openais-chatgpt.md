@@ -145,22 +145,6 @@ related:
         width: 1280
         height: 670
         isCached: true
-  - title: "State-sponsored Chinese AI firm launches bot service to ‘surpass’ ChatGPT"
-    excerpt: "State-subsidized AI company Iflytek recently launched a GPT competitor it says will rival and surpass OpenAI's popular ChatGPT service by the end of the year."
-    publishedDateTime: 2023-05-08T18:59:00Z
-    webUrl: "https://cointelegraph.com/news/state-sponsored-chinese-ai-firm-launches-bot-service-to-surpass-chatgpt"
-    ampWebUrl: "https://cointelegraph.com/news/state-sponsored-chinese-ai-firm-launches-bot-service-to-surpass-chatgpt/amp"
-    cdnAmpWebUrl: "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/state-sponsored-chinese-ai-firm-launches-bot-service-to-surpass-chatgpt/amp"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 58
-    images:
-      - url: "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=740/https://s3.cointelegraph.com/uploads/2023-05/0d9506a7-6cf2-4379-93bc-8e9bcca5d1ef.jpg"
-        width: 740
-        height: 493
-        isCached: true
   - title: "ChatGPT: Can students pass using AI tools at university?"
     excerpt: "As with most universities, Bath's policy on ChatGPT and other AI tools is still in the works. It is due to be in place from September. After that, a team will meet throughout the year to ensure it keeps up with the rapidly changing technology. In the meantime, many staff are once again setting in-person, invigilated summer exams."
     publishedDateTime: 2023-05-09T07:26:00Z
@@ -257,15 +241,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 45
-  - title: "I asked ChatGPT, Bing, and Bard what worries them. Google's AI went Terminator on me"
-    excerpt: "Just to be clear: this is not science fiction. Chatbots might have some worries that might, in turn, worry us just a bit."
-    publishedDateTime: 2023-05-08T17:14:00Z
-    webUrl: "https://www.zdnet.com/article/i-asked-chatgpt-bing-and-bard-what-worries-them-googles-ai-went-terminator-on-me/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 40
   - title: "UAE: New Chatgpt AI Assistant To Help Plan Visits To Yas Island"
     excerpt: "Visitors to Abu Dhabi's Yas Island can now get personalised guidance and information about the latest offerings through an AI assistant. Miral, the leading creator of immersive destinations and experiences based in Abu Dhabi,"
     publishedDateTime: 2023-05-09T19:34:00Z
@@ -289,6 +264,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 39
+  - title: "Discovering Chat GPT: The Future of Conversational AI"
+    excerpt: "Conversational AI has come a long way since its early days. It all started with simple rule-based chatbots that could only understand and respond to predefined phrases. The technology evolved with machine learning and natural language processing,"
+    publishedDateTime: 2023-05-13T11:39:00Z
+    webUrl: "https://techbullion.com/discovering-chat-gpt-the-future-of-conversational-ai/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 39
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/05/Chatgpt-full-form.png"
+        width: 860
+        height: 430
+        isCached: true
   - title: "ChatGPT Fever Has Investors Pouring Billions Into AI Startups, No Business Plan Required"
     excerpt: "It is boom times for startups touting generative artificial intelligence technology."
     publishedDateTime: 2023-05-09T11:51:00Z
@@ -325,20 +314,6 @@ related:
       - url: "https://media.zenfs.com/en/aol_san_luis_obispo_tribune_mcclatchy_563/9121ec7733a744f8785aa5baaae9181f"
         width: 1140
         height: 759
-        isCached: true
-  - title: "Torah is the anti-ChatGPT. But we can embrace artificial intelligence without losing our soul."
-    excerpt: "I recently asked ChatGPT, the online chatbot, to write a verse in the style of the Bible about robots taking over the world."
-    publishedDateTime: 2023-05-08T17:43:00Z
-    webUrl: "https://www.jewishaz.com/opinion/torah-is-the-anti-chatgpt-but-we-can-embrace-artificial-intelligence-without-losing-our-soul/article_9fbb6fd6-edc7-11ed-91cd-2bcf69a3d42b.html"
-    type: article
-    provider:
-      name: Northern Arizona Jewish News
-      domain: jewishaz.com
-    quality: 27
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/jewishaz.com/content/tncms/assets/v3/editorial/2/eb/2eb5d1d6-edc8-11ed-9209-b32e3208dd0a/645935bcdbcea.image.jpg?crop=1931%2C1014%2C0%2C29&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
         isCached: true
   - title: "How To Write Code With ChatGPT"
     excerpt: "According to Botpress, OpenAI built ChatGPT using three core programming languages: Python, PyTorch, and TensorFlow. Also, it used other languages for additional frameworks, including, Gensim, NLTK, OpenNMT-py, and spaCy. The AI program also uses libraries ..."

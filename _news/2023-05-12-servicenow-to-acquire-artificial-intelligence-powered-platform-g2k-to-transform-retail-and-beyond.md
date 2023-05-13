@@ -49,20 +49,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "How Artificial Intelligence is Used in Customer Service"
-    excerpt: "Of all the applications for artificial intelligence (AI), customer service is one of the most common. Companies big and small have been using tools like AI customer service bots and voice assistants in order to handle customer requests,"
-    publishedDateTime: 2023-05-08T18:20:00Z
-    webUrl: "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/ai-in-customer-service/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 67
-    images:
-      - url: "https://m.foolcdn.com/media/dubs/images/image_7.width-600.jpg"
-        width: 600
-        height: 400
-        isCached: true
   - title: "3 AI Stocks That Are Poised to Explode in 2023"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial Intelligence (or AI) is the latest and greatest buzzword on Wall"
     publishedDateTime: 2023-05-09T15:38:00Z

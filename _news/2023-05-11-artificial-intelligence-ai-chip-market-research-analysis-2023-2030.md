@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chip-market-research-analysis-2023-2030-2023-05-11"
 type: article
 quality: 99
-heat: 569
+heat: 559
 published: true
 
 provider:
@@ -457,20 +457,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 57
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "2023 \"Neural Network Market\" SWOT Analysis: Future Business Advancements and Challenges till 2030"
-    excerpt: "The Global Neural Network market is poised for significant growth between 2023 and 2030, with a positive outlook for 2022 and beyond. As key players in the industry adopt effective strategies, the market is expected to expand further,"
-    publishedDateTime: 2023-05-08T17:25:00Z
-    webUrl: "https://www.marketwatch.com/press-release/2023-neural-network-market-swot-analysis-future-business-advancements-and-challenges-till-2030-2023-05-08"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 56
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
