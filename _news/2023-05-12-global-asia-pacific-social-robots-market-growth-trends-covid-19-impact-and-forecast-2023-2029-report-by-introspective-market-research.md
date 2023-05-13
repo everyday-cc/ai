@@ -1,12 +1,12 @@
 ---
 category: news
-title: "2023, The Latest Insights Report on The Healthcare Artificial Intelligence Market Provides Statistics And Forecasts Extending till 2030"
-excerpt: "May 11, 2023 (The Expresswire) -- 2023-2030 According to our Latest CAGR Research, Healthcare Artificial Intelligence Market Size With The Global Market looks promising in the next 5 years. As of 2023, the global Healthcare Artificial Intelligence market ..."
-publishedDateTime: 2023-05-11T07:34:00Z
-originalUrl: "https://www.marketwatch.com/press-release/2023-the-latest-insights-report-on-the-healthcare-artificial-intelligence-market-provides-statistics-and-forecasts-extending-till-2030-2023-05-11"
-webUrl: "https://www.marketwatch.com/press-release/2023-the-latest-insights-report-on-the-healthcare-artificial-intelligence-market-provides-statistics-and-forecasts-extending-till-2030-2023-05-11"
+title: "Global Asia Pacific Social Robots Market - Growth, Trends, Covid-19 Impact, and Forecast (2023 - 2029) - Report By Introspective Market Research"
+excerpt: "The Asia Pacific Social Robots Market is expected to grow at a significant growth rate, and the forecast period is 2022-2028, considering the base year as 2021. Social robots are robots that have been physically personified as social creatures."
+publishedDateTime: 2023-05-12T10:58:00Z
+originalUrl: "https://www.marketwatch.com/press-release/global-asia-pacific-social-robots-market---growth-trends-covid-19-impact-and-forecast-2023---2029---report-by-introspective-market-research-2023-05-12"
+webUrl: "https://www.marketwatch.com/press-release/global-asia-pacific-social-robots-market---growth-trends-covid-19-impact-and-forecast-2023---2029---report-by-introspective-market-research-2023-05-12"
 type: article
-quality: 52
+quality: 32
 heat: -1
 published: false
 
@@ -19,7 +19,7 @@ provider:
       height: 50
 
 topics:
-  - AI in Healthcare
+  - AI in Robotics
   - AI
 
 images:
@@ -164,6 +164,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "2023, The Latest Insights Report on The Healthcare Artificial Intelligence Market Provides Statistics And Forecasts Extending till 2030"
+    excerpt: "May 11, 2023 (The Expresswire) -- 2023-2030 According to our Latest CAGR Research, Healthcare Artificial Intelligence Market Size With The Global Market looks promising in the next 5 years. As of 2023, the global Healthcare Artificial Intelligence market ..."
+    publishedDateTime: 2023-05-11T07:34:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-the-latest-insights-report-on-the-healthcare-artificial-intelligence-market-provides-statistics-and-forecasts-extending-till-2030-2023-05-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 52
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "2030, Artificial Intelligence in Construction Market Growth | Future Prospects and Competitive Analysis"
     excerpt: "The \"Artificial Intelligence in Construction Market\" is one of the sectors that is expanding the fastest, thus it"
     publishedDateTime: 2023-05-11T22:09:00Z
@@ -261,20 +275,6 @@ related:
         width: 550
         height: 353
         isCached: true
-  - title: "Global Asia Pacific Social Robots Market - Growth, Trends, Covid-19 Impact, and Forecast (2023 - 2029) - Report By Introspective Market Research"
-    excerpt: "The Asia Pacific Social Robots Market is expected to grow at a significant growth rate, and the forecast period is 2022-2028, considering the base year as 2021. Social robots are robots that have been physically personified as social creatures."
-    publishedDateTime: 2023-05-12T10:58:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-asia-pacific-social-robots-market---growth-trends-covid-19-impact-and-forecast-2023---2029---report-by-introspective-market-research-2023-05-12"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 32
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "3D Facial Recognition Market Top Players, Revenue, Share, Future Trends, Size, Report and Forecast 2023 to 2031"
     excerpt: "Moreover, it has benefits over 2D facial recognition, such as ease in the detection of facial data from videos and 2D images and least affected with illumination issues. With the advancements in 3D facial recognition software and services,"
     publishedDateTime: 2023-05-08T07:48:00Z
@@ -299,6 +299,6 @@ related:
         height: 353
         isCached: true
 
-secured: "LWFIKqvM/HkztaJF4IvrHXTEUcqvFLIy0MIpkZjOwTX4dZd+puXy8ASSfugl5HrcewEEzRl6QPF0NcSHN90/jsKjdWM1q+KwtNr+O2e0DKOkGVYMNC32BVYKo+5R1QxLypS8sbNPZIvPG2NF7DB1nJWOV/mqwmPUX30fH5kFP4gy7fBmJShkv/bF7E96v3LaU/CzD+IvktaL2HRxNeoHdYVdQKWm1hvzDMLUqjXgEjYsvD7RGO/s7JqVUXgCNDQHJUgJ4ss2M/mEdkAO5/y/GjB8EsCHTmOUYGZlByim8zmobLUG6Ci7qw3Ixm+1/iaDDmFxj8hzaTvNl3teKIJoNWXKOGRWmCt1zZs825Zb5dk=;YSLU1FktLrfmj7Pfk1c+0A=="
+secured: "pBvhHQZH47f8Qt9y91T+ZcVqPA4F8NmlCsYPasmZEv1p2KKRA/O6b4MFJKRiefxm/RWb4ICUxZgv9+62E/ZlhDqVvTocaQtkP//V+nJfdKwajnruS+sY3TM8c6oxNqTGxPfooPc0KaFjMYn/p71IL3F5KGlAn9RJMDktEHln1any3vZvXjNhxfy22cP2bZdQc2WjfaPwoVyGI/OwO9ZU8YhP9ti5gi8Z9sg/UR3b/dAv+vJdGNnK1dpTCvHIOjbFpqBIjK0Z6CR8B2Ai/J7RvRTQfHrvVPSYfzfKX7bPAsvCsipn0YvSu+GHjMl1pYTVS8OmwnJI3NkGxQdYjxTEZ6J0zcXvnHIIz6zO16/LB3Y=;4dQx7zNlqEHQs2yPznXzwQ=="
 ---
 

@@ -2,6 +2,50 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2023-05-05-uae-chemo-robot-artificial-intelligence-guided-radiotherapy-for-cancer-care-now-available-in-abu-dhabi.md",
+      "title": "UAE: Chemo robot, artificial intelligence-guided radiotherapy for cancer care now available in Abu Dhabi",
+      "excerpt": "Newly-launched Fatima bint Mubarak Center also has latest non-invasive treatments Abu Dhabi: An artificial intelligence-guided radiotherapy treatment, a targeted therapy for liver cancer, and a chemotherapy robot are some of the innovative options that are ...",
+      "sourceUrl": null,
+      "webUrl": "https://gulfnews.com/uae/health/uae-chemo-robot-artificial-intelligence-guided-radiotherapy-for-cancer-care-now-available-in-abu-dhabi-1.95537748",
+      "originalUrl": "https://gulfnews.com/uae/health/uae-chemo-robot-artificial-intelligence-guided-radiotherapy-for-cancer-care-now-available-in-abu-dhabi-1.95537748",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imagevars.gulfnews.com/2023/05/04/Cleveland_Clinic_Abu_Dhabi_Fatima_bint_Mubarak_Center-_Chemotherapy_robot-1683221993322_187e7d95774_medium.jpg",
+          "width": 540,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gulfnews.com/amp/uae/health/uae-chemo-robot-artificial-intelligence-guided-radiotherapy-for-cancer-care-now-available-in-abu-dhabi-1.95537748",
+      "cdnAmpWebUrl": "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/uae/health/uae-chemo-robot-artificial-intelligence-guided-radiotherapy-for-cancer-care-now-available-in-abu-dhabi-1.95537748",
+      "publishedDateTime": "2023-05-04T11:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gulf News",
+        "domain": "gulfnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-05-04-automate-the-deployment-of-an-amazon-forecast-time-series-forecasting-model.md",
       "title": "Automate the deployment of an Amazon Forecast time-series forecasting model",
       "excerpt": "Time series forecasting refers to the process of predicting future values of time series data (data that is collected at regular intervals over time). Simple methods for time series forecasting use historical values of the same variable whose future values need to be predicted, whereas more complex,",
@@ -1145,40 +1189,6 @@
         "Natural Language Processing",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-04-protecto-boosts-privacy-protection-by-10x-with-lightning-fast-gpu-technology-from-nvidia.md",
-      "title": "Protecto Boosts Privacy Protection by 10x with Lightning-Fast GPU Technology from NVIDIA",
-      "excerpt": "Protecto, a leading provider of privacy intelligence solutions, today announced it has been able to boost the performance of its privacy models on NVI",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20230504005083/en/",
-      "originalUrl": "https://www.businesswire.com/news/home/20230504005083/en/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-04T02:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "newsroom.businesswire.com",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

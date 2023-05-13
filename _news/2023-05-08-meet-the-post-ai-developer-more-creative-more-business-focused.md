@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/meet-the-post-ai-developer-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/meet-the-post-ai-developer-more-creative-more-business-focused/"
 type: article
 quality: 87
-heat: 98
+heat: 97
 published: true
 
 provider:

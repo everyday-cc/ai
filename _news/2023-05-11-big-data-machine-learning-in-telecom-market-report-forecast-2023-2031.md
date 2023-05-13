@@ -58,34 +58,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence for Healthcare Applications Market 2023 | Increasing Number of Users by 2030"
-    excerpt: "The Artificial Intelligence for Healthcare Applications Market Scope and Overview Report for 2023 presents a detailed analysis of the latest trends in the global Artificial Intelligence for Healthcare Applications market."
-    publishedDateTime: 2023-05-08T06:38:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-for-healthcare-applications-market-2023-increasing-number-of-users-by-2030-2023-05-08"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Deep Learning in Manufacturing Market Size, 2030"
-    excerpt: "The Global Deep Learning in Manufacturing market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players,"
-    publishedDateTime: 2023-05-08T06:05:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-in-manufacturing-market-size-2030-2023-05-08"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Mobile Speech Recognition Software Market | 2030"
     excerpt: "The Global Mobile Speech Recognition Software market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players,"
     publishedDateTime: 2023-05-12T02:53:00Z
@@ -289,6 +261,20 @@ related:
       - url: "https://marketplace.connectwise.com/content/images/thumbs/0000635_skykick_550.png"
         width: 550
         height: 353
+        isCached: true
+  - title: "Global Asia Pacific Social Robots Market - Growth, Trends, Covid-19 Impact, and Forecast (2023 - 2029) - Report By Introspective Market Research"
+    excerpt: "The Asia Pacific Social Robots Market is expected to grow at a significant growth rate, and the forecast period is 2022-2028, considering the base year as 2021. Social robots are robots that have been physically personified as social creatures."
+    publishedDateTime: 2023-05-12T10:58:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-asia-pacific-social-robots-market---growth-trends-covid-19-impact-and-forecast-2023---2029---report-by-introspective-market-research-2023-05-12"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 32
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "3D Facial Recognition Market Top Players, Revenue, Share, Future Trends, Size, Report and Forecast 2023 to 2031"
     excerpt: "Moreover, it has benefits over 2D facial recognition, such as ease in the detection of facial data from videos and 2D images and least affected with illumination issues. With the advancements in 3D facial recognition software and services,"

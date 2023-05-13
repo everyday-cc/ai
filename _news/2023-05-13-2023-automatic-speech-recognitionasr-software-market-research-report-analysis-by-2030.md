@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Voice Recognition Market Research | 2023-2030"
-excerpt: "The Global Voice Recognition market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players,"
-publishedDateTime: 2023-05-11T00:09:00Z
-originalUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-research-2023-2030-2023-05-10"
-webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-research-2023-2030-2023-05-10"
+title: "2023, Automatic Speech Recognition(ASR) Software Market Research Report Analysis by 2030"
+excerpt: "The major players covered in the Automatic Speech Recognition (ASR) Software market report are: Get a sample copy of the Automatic Speech Recognition (ASR) Software Market report 2023 Short Summery About Automatic Speech Recognition (ASR) Software Market: The global Automatic Speech Recognition (ASR) Software market size was valued at USD 13410."
+publishedDateTime: 2023-05-12T17:30:00Z
+originalUrl: "https://www.marketwatch.com/press-release/2023-automatic-speech-recognitionasr-software-market-research-report-analysis-by-2030-2023-05-12"
+webUrl: "https://www.marketwatch.com/press-release/2023-automatic-speech-recognitionasr-software-market-research-report-analysis-by-2030-2023-05-12"
 type: article
-quality: 54
+quality: 60
 heat: -1
 published: false
 
@@ -429,20 +429,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "2023, Automatic Speech Recognition(ASR) Software Market Research Report Analysis by 2030"
-    excerpt: "The major players covered in the Automatic Speech Recognition (ASR) Software market report are: Get a sample copy of the Automatic Speech Recognition (ASR) Software Market report 2023 Short Summery About Automatic Speech Recognition (ASR) Software Market: The global Automatic Speech Recognition (ASR) Software market size was valued at USD 13410."
-    publishedDateTime: 2023-05-12T17:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/2023-automatic-speech-recognitionasr-software-market-research-report-analysis-by-2030-2023-05-12"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 60
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Voice And Speech Recognition Software Market Share 2023|Bussiness Research And Forecast by 2029"
     excerpt: "The major players covered in the Voice And Speech Recognition Software market report are: Get a sample copy of the Voice And Speech Recognition Software Market report 2023 Voice And Speech Recognition Software Marketsize,"
     publishedDateTime: 2023-05-11T14:54:00Z
@@ -550,6 +536,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Voice Recognition Market Research | 2023-2030"
+    excerpt: "The Global Voice Recognition market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players,"
+    publishedDateTime: 2023-05-11T00:09:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-research-2023-2030-2023-05-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Deep Learning Camera Market Research | 2023-2030"
     excerpt: "The Global Deep Learning Camera market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players,"
     publishedDateTime: 2023-05-08T07:33:00Z
@@ -630,6 +630,6 @@ related:
       domain: marketwatch.com
     quality: 34
 
-secured: "EBXQVi+TMGbxrviegyaQBJ6EwC05D7ALI8OWbMHtwC95A7qJ9egE+gxBnyIv9lQ3EXeMrJfb+4SrpShhVwmg0Sdvdm0baMehguSIl2TInfo8MxZS7ganM69iSX++rOe11VNTkrKrwXuQ5fpAOQvpk6BDar7+x1uBsdfl6njXqqE3LHec5KSWMcw/kWOE91cp5A8rXXyiLxdhweDvzXFcGPNsHo/wqFpIy8d17rICJwSv46b5NNSAgYdGyp1d/sHY2N8ZR+QFpQo3yMcj9zJicyWJHFmrmmABfWCWs9FgAHFJ0xPY7LDQcrN+AzxEGH92sJasyNwEKNYzqhwoh6i+t1rBHKf2LPjDUBej6zt4P4o=;NqtYhGR63sjGc+0ZMPbNLw=="
+secured: "awg+v4+jJLE+kPKREMY24L9e5p7TE+gHUNd+V5xMO4tbhZafrarCDJLXqdNpKuoJErseXmzke6eS03ekYxh26Vmrf3xrJ3Aod8rY2AG2l0PQeUnAyt/REA8vCIRHsEH5wtUboSIijNOn7JxfyJ5b/gDf9GzkAV9Wjmf65Iz7IDDM/Cf/Xh+/v2m52M6JGJZC+cP0OW7pt4HgbmP2KMSl8w3HkGLBUc+OX8JYE8fCxhum7D/GlFL5FpEjZ3KEOIkEgUexasXQFB5IAHfg+ZvzFtBogX0DGKRQd6gI2L5JtHoVM9hhITnMlJED/mJNiZdmtbECFjZuiuXXuxWtvOqKN8ER8hrGKg7JTSHwvho7P9k=;sapr0LJ6ObJ471VKgeouUg=="
 ---
 

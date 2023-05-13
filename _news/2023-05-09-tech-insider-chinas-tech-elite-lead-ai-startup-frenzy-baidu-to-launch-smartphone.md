@@ -18,20 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "Baidu to Unveil Own Smartphone Next Week in Surprise AI Move"
-    excerpt: "The Beijing-based internet firm’s Xiaodu unit, similar to Amazon.com Inc. ’s Alexa division, will unveil its first smartphone product next week, a spokesperson said. Xiaodu has developed smart speakers running Baidu’s own DuerOS software, which the company describes as a conversational artificial intelligence system."
-    publishedDateTime: 2023-05-08T06:36:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-05-08/baidu-to-unveil-own-smartphone-next-week-in-surprise-ai-move"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 67
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i3HYc4yxYT1g/v0/1200x800.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Baidu to launch its own phone soon"
     excerpt: "Baidu said in its latest financial earnings that Xiaodu smart home systems were linked with more than 200 million units of devices covering 70 categories of smart household appliances and 1,200 well-known brands last year."
     publishedDateTime: 2023-05-09T02:05:00Z

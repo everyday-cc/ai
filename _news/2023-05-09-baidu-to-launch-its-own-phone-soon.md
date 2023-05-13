@@ -7,7 +7,7 @@ originalUrl: "https://global.chinadaily.com.cn/a/202305/09/WS64599f74a310b6054fa
 webUrl: "https://global.chinadaily.com.cn/a/202305/09/WS64599f74a310b6054fad1d17.html"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Baidu to Unveil Own Smartphone Next Week in Surprise AI Move"
-    excerpt: "The Beijing-based internet firm’s Xiaodu unit, similar to Amazon.com Inc. ’s Alexa division, will unveil its first smartphone product next week, a spokesperson said. Xiaodu has developed smart speakers running Baidu’s own DuerOS software, which the company describes as a conversational artificial intelligence system."
-    publishedDateTime: 2023-05-08T06:36:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-05-08/baidu-to-unveil-own-smartphone-next-week-in-surprise-ai-move"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 67
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i3HYc4yxYT1g/v0/1200x800.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Tech Insider: China’s Tech Elite Lead AI Startup Frenzy, Baidu to Launch Smartphone"
     excerpt: "Welcome to Caixin’s Tech Insider, your twice-weekly wrap on the movers, shakers and deal-makers in China’s tech scene. China’s AI charge: China’s tech elite lead startup f"
     publishedDateTime: 2023-05-09T12:28:00Z

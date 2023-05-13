@@ -183,20 +183,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) in Automotive Market"
-    excerpt: "Research Reports has published a new report titled as \"Artificial Intelligence (AI) in Automotive Market\" by End"
-    publishedDateTime: 2023-05-08T05:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-automotive-market-2023-05-08"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 82
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence (AI) in Mining Market Till 2030"
     excerpt: "Precision Reports has published a new report titled as \"Artificial Intelligence (AI) in Mining Market\" by End User"
     publishedDateTime: 2023-05-10T09:42:00Z
@@ -332,6 +318,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "2023, Computer Vision System Market Research Report Analysis by 2030"
+    excerpt: "Computer Vision System Market | Outlook 2023-2028 | Pre and Post-COVID Research is Covered, Report Information | Newest"
+    publishedDateTime: 2023-05-12T17:10:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-computer-vision-system-market-research-report-analysis-by-2030-2023-05-12"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Machine Learning 2023 Market Size, Historical Growth, Analysis up to 2030"
     excerpt: "The key players in the Machine Learning market include global distribution system (GDS) providers, such as These companies are typically the largest or most prominent players in the industry, and they may have significant market share,"
     publishedDateTime: 2023-05-10T13:14:00Z
@@ -410,6 +410,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 62
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "2023, Automatic Speech Recognition(ASR) Software Market Research Report Analysis by 2030"
+    excerpt: "The major players covered in the Automatic Speech Recognition (ASR) Software market report are: Get a sample copy of the Automatic Speech Recognition (ASR) Software Market report 2023 Short Summery About Automatic Speech Recognition (ASR) Software Market: The global Automatic Speech Recognition (ASR) Software market size was valued at USD 13410."
+    publishedDateTime: 2023-05-12T17:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-automatic-speech-recognitionasr-software-market-research-report-analysis-by-2030-2023-05-12"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 60
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -531,20 +545,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 54
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence In RegTech Market Analysis [2023-2030] Understanding the Latest Market Trends"
-    excerpt: "To know How COVID-19 and Russia-Ukraine War Influence Will Impact This Market/Industry - Request a sample copy of the report-:  In This Reports Artificial Intelligence In RegTech Market Segment by Type ( Employee Surveillance,"
-    publishedDateTime: 2023-05-08T05:15:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-regtech-market-analysis-2023-2030-understanding-the-latest-market-trends-2023-05-08"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 52
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

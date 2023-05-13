@@ -85,20 +85,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global \"Speech and Voice Recognition Technology Market\" 2023 (Latest Report) Becoming the Top Industry Player by 2030 | 116 Pages Report"
-    excerpt: "The Speech and Voice Recognition Technology Market Scope and Overview Report for 2023 presents a detailed analysis of"
-    publishedDateTime: 2023-05-08T06:38:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-speech-and-voice-recognition-technology-market-2023-latest-report-becoming-the-top-industry-player-by-2030-116-pages-report-2023-05-08"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 21
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "wSMIvd9z/oOmcZORT1Jr/LIbsL4zZenk4Jh09nwFKYUdL+CsJ5TQz7JpXuTutYAOYyC8LJGc01F61xVAUS/9LFqvQFWdF6ZrgYhn/ONnD461AAG5REPpM5uzutF2yxTFcfx9/3WC+Xo01u/ntXf1ZFUdr1j1mHjJGkMGpRUAiRHT/fxLQUuTZPjxXXfctXKxedwD/viFoivsWPqHkXwEukn8UjpLOSA4gy6cOBSLeFo2Jrni5rL/tm6x6GoGXCMNuK8aeMeK2a79IXgkI2HPZBigjod7zjj9jcQ1Y5x8MzEF1MFa+l8GHzNAwgseTVMM/RlM34zwATDbftM8lrMQ6oFmNUFDTV/7mTgloMUo+0Q=;XPtpxjj1EJ8c1wYn/TY8eQ=="
 ---

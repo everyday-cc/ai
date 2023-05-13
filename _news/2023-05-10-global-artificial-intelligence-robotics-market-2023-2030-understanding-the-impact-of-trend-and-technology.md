@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-artificial-intell
 webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-robotics-market-2023-2030-understanding-the-impact-of-trend-and-technology-2023-05-10"
 type: article
 quality: 82
-heat: 132
+heat: 122
 published: true
 
 provider:
@@ -81,20 +81,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 26
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global \"Speech and Voice Recognition Technology Market\" 2023 (Latest Report) Becoming the Top Industry Player by 2030 | 116 Pages Report"
-    excerpt: "The Speech and Voice Recognition Technology Market Scope and Overview Report for 2023 presents a detailed analysis of"
-    publishedDateTime: 2023-05-08T06:38:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-speech-and-voice-recognition-technology-market-2023-latest-report-becoming-the-top-industry-player-by-2030-116-pages-report-2023-05-08"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 21
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

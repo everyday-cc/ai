@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-05-12-google-insiders-are-9-billion-richer-after-ai-fueled-stock-rally.md",
+      "title": "Google Insiders Are $9 Billion Richer After AI-Fueled Stock Rally",
+      "excerpt": "Google cofounders Larry Page and Sergey Brin surged back into the ranks of the 10 richest people in the world Thursday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/dereksaul/2023/05/11/google-insiders-are-9-billion-richer-after-ai-fueled-stock-rally/",
+      "originalUrl": "https://www.forbes.com/sites/dereksaul/2023/05/11/google-insiders-are-9-billion-richer-after-ai-fueled-stock-rally/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/645d405718760da33bcb5cb6/0x0.jpg?format=jpg&crop=2096,1178,x0,y0,safe&width=1200",
+          "width": 1200,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/dereksaul/2023/05/11/google-insiders-are-9-billion-richer-after-ai-fueled-stock-rally/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/dereksaul/2023/05/11/google-insiders-are-9-billion-richer-after-ai-fueled-stock-rally/amp/",
+      "publishedDateTime": "2023-05-11T13:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-12-can-ai-deliver-a-customer-experience-like-a-grandmother-would.md",
       "title": "Can AI Deliver A Customer Experience Like A Grandmother Would?",
       "excerpt": "ChatGPT is super smart. But can it deliver the customer experience that creates ardent advocates? The new customer metric is not, \"Would you recommend,\" but \"Did you recommend\"—action always trumps intent.",
@@ -916,7 +967,7 @@
       "originalUrl": "https://www.forbes.com/sites/bernardmarr/2023/05/11/the-hot-new-job-that-pays-six-figures-ai-prompt-engineering/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -1019,7 +1070,7 @@
       "originalUrl": "https://www.engadget.com/google-bard-transitions-to-palm-2-and-expands-to-180-countries-172908926.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -1070,7 +1121,7 @@
       "originalUrl": "https://www.cnet.com/tech/services-and-software/how-gmail-plans-to-use-ai-to-write-your-emails-for-you/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -1194,57 +1245,6 @@
         "name": "NBC News",
         "domain": "nbcnews.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-11-google-is-transforming-the-cloud-with-ai-for-both-developers-and-regular-users.md",
-      "title": "Google is transforming the cloud with AI — for both developers and regular users",
-      "excerpt": "Google is integrating generative AI into its cloud via a new interface, Duet AI, that helps make cloud developers and users more productive.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/google-is-transforming-the-cloud-with-ai-for-both-developers-and-regular-users/",
-      "originalUrl": "https://venturebeat.com/ai/google-is-transforming-the-cloud-with-ai-for-both-developers-and-regular-users/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/05/Duet1-e1683757951578.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 905,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/google-is-transforming-the-cloud-with-ai-for-both-developers-and-regular-users/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/google-is-transforming-the-cloud-with-ai-for-both-developers-and-regular-users/amp/",
-      "publishedDateTime": "2023-05-10T16:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

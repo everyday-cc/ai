@@ -9,7 +9,7 @@ ampWebUrl: "https://www.outlookindia.com/national/eci-to-pilot-facial-recognitio
 cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/national/eci-to-pilot-facial-recognition-technology-in-polls-iff-raises-concerns-of-surveillance-news-285131/amp"
 type: article
 quality: 65
-heat: 95
+heat: 85
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Karnataka Assembly elections: ECI to pilot facial recognition tech in upcoming polls"
-    excerpt: "The 'Electhon 2023' hackathon was a collaboration between the Election Commission (EC), the International Institute of Information Technology in Bengaluru, and the Indian Institute of Science in Bengaluru."
-    publishedDateTime: 2023-05-08T06:51:00Z
-    webUrl: "https://www.livemint.com/news/india/karnataka-assembly-elections-eci-to-pilot-facial-recognition-tech-in-upcoming-polls-11683526705081.html"
-    ampWebUrl: "https://www.livemint.com/news/india/karnataka-assembly-elections-eci-to-pilot-facial-recognition-tech-in-upcoming-polls/amp-11683526705081.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/karnataka-assembly-elections-eci-to-pilot-facial-recognition-tech-in-upcoming-polls/amp-11683526705081.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 52
-    images:
-      - url: "https://www.livemint.com/lm-img/img/2023/05/08/600x338/2-0-1453543862-iStock-855246344-0_1679736566717_1683528306159.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Facial Recognition Technology Could Ease Voting Process In Future Elections"
     excerpt: "The incorporation of facial recognition technology could make voting considerably simpler in the future.Deputy Joint CEO Surya Sen explained that by downloading the \"Chunavana\" mobile app"
     publishedDateTime: 2023-05-09T06:30:00Z

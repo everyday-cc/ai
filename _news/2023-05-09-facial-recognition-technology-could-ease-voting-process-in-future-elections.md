@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Karnataka Assembly elections: ECI to pilot facial recognition tech in upcoming polls"
-    excerpt: "The 'Electhon 2023' hackathon was a collaboration between the Election Commission (EC), the International Institute of Information Technology in Bengaluru, and the Indian Institute of Science in Bengaluru."
-    publishedDateTime: 2023-05-08T06:51:00Z
-    webUrl: "https://www.livemint.com/news/india/karnataka-assembly-elections-eci-to-pilot-facial-recognition-tech-in-upcoming-polls-11683526705081.html"
-    ampWebUrl: "https://www.livemint.com/news/india/karnataka-assembly-elections-eci-to-pilot-facial-recognition-tech-in-upcoming-polls/amp-11683526705081.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/karnataka-assembly-elections-eci-to-pilot-facial-recognition-tech-in-upcoming-polls/amp-11683526705081.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 52
-    images:
-      - url: "https://www.livemint.com/lm-img/img/2023/05/08/600x338/2-0-1453543862-iStock-855246344-0_1679736566717_1683528306159.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Facial Recognition Technology Could Improve Livestock Health"
     excerpt: "Facial recognition technology isn’t limited to humans. Livestock are now getting their mugs snapped in order to help farmers monitor animal health, increase efficiency and improve traceability.  Researchers from the US to Australia are using drones to handle health assessments of cattle from the air,"
     publishedDateTime: 2023-05-11T12:00:00Z

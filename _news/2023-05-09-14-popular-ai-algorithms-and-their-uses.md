@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3695208/14-popular-ai-algorithms-a
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3695208/14-popular-ai-algorithms-and-their-uses.amp.html"
 type: article
 quality: 89
-heat: 133
+heat: 131
 published: true
 
 provider:
