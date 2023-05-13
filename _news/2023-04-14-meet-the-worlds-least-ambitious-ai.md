@@ -21,6 +21,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://cdn.theatlantic.com/thumbor/w27VJFP0-GwD-Rdtsx13ENmwaJA=/0x43:2000x1085/1200x625/media/img/mt/2023/04/Chess_layers_2/original.gif"

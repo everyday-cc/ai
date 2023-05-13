@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "China is developing AI without US chips: Here's how"
-    excerpt: "The report revealed that local Chinese companies are working on ways to develop AI with weaker semiconductors along with combinations of chips to stop the reliance on one type of hardware."
-    publishedDateTime: 2023-05-08T08:22:00Z
-    webUrl: "https://cointelegraph.com/news/china-is-developing-ai-without-us-chips-here-s-how"
-    ampWebUrl: "https://cointelegraph.com/news/china-is-developing-ai-without-us-chips-here-s-how/amp"
-    cdnAmpWebUrl: "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/china-is-developing-ai-without-us-chips-here-s-how/amp"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 74
-    images:
-      - url: "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=740/https://s3.cointelegraph.com/uploads/2023-05/945d6562-7cc8-4c63-9ad5-3bc1eacd921a.jpg"
-        width: 740
-        height: 492
-        isCached: true
   - title: "Chinese Tech Companies Forced To Think Outside The Box To Overcome US Chip Ban In The Race For AI Supremacy"
     excerpt: "By the time the sanctions were issued in October, Chinese institutions were producing 4.5 times more research papers on the topic of AI than American ones, according to a report released by State of AI. The release of ChatGPT in November 2021 by OpenAI ..."
     publishedDateTime: 2023-05-08T19:12:00Z
@@ -69,20 +53,6 @@ related:
         width: 620
         height: 465
         isCached: true
-  - title: "China Developing AI Non-Dependent On U.S. Chips"
-    excerpt: "Currently, the Chinese depend on the development of home-grown AI technology in a bid to cope with U.S. sanctions."
-    publishedDateTime: 2023-05-08T17:18:00Z
-    webUrl: "https://insidebitcoins.com/news/china-developing-ai-non-dependent-on-u-s-chips"
-    type: article
-    provider:
-      name: Inside Bitcoins
-      domain: insidebitcoins.com
-    quality: 54
-    images:
-      - url: "https://insidebitcoins.com/wp-content/uploads/2023/05/China-Developing-AI-Non-Dependent-On-U.S.-Chips.jpg"
-        width: 1300
-        height: 928
-        isCached: true
   - title: "Chinese firms to seek AI chips alternatives"
     excerpt: "THE US government's intensifying chip sanctions against China have forced Chinese firms to search for alternatives to advanced chips used in cutting-edge artificial intelligence (AI) and could even offer a new opportunity for Chinese firms to take the lead in the emerging technology,"
     publishedDateTime: 2023-05-09T14:06:00Z
@@ -97,15 +67,6 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "CX Daily: China’s AI Charge Part 3: Short on Chips and Talent"
-    excerpt: "Short on chips and talent. As China’s AI industry develops, companies are facing an imminent challenge — a lack of chips. Co-founder and CEO Y"
-    publishedDateTime: 2023-05-10T00:39:00Z
-    webUrl: "https://www.caixinglobal.com/2023-05-10/cx-daily-chinas-ai-charge-part-3-short-on-chips-and-talent-102050601.html"
-    type: article
-    provider:
-      name: Caixin Global
-      domain: caixinglobal.com
-    quality: 34
 
 secured: "4arRtYpcUhEinGbnsb8XctcJ8OhmbVkEn6GyJAU023WU7Av3oIJK3ILRMjnQwdyKLCmU72ALN5V7U3Ma3NipJ0mdbVY8+mmJp3Yqbdu4dV2HJb9IO1bGOSDNxwI6yU0Uv2KebMfnHIfXBLIkFJ6Edgnw5i8vHYNWVpUckNAE9mYjW7ozZ8LqqOpdW9ELvxXt93njeZoKN7eloAhXvvdKMCtVxl4yJIgkNqMpTwHzkAc8z1lcxgQPJKvh6c3UyD+vMDCsHrbDP9mNYAJbqWQ7TZxmIw7kMv9DNcOES8UJTPeRWFSBKeGmsr33sQ94kCpN86XAQcsv0tiDLxjvKSvq35yJjPtPil3EV7skRGa5anbyugjCMvZCf/gLffpfqQ7buhAHLvpXgP86+EoKrERBtEfAjkC/ITatA6ikcyvu9GWTHbpRfaB92dQH5BIX/k/a4m4rs7gmC7d92voFxdzOxrxHfRhLHzQt9tPpFUdZbjqhAi3ehVJtAGCvf/qv1BzQ7SjSCWkKShZmEb7rv5ZTcw==;/w0NQhhLc2QwjWANP5D78g=="
 ---

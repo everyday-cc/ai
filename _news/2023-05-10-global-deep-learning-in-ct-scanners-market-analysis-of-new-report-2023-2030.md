@@ -234,6 +234,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 79
+  - title: "Artificial Intelligence (AI) Accelerator Market Research Analysis, 2023-2030"
+    excerpt: "Accelerator market growth in 2023-2030 with TOPMajor Players? Major Players Covered in this Report: The global Artificial Intelligence (AI) Accelerator Market USD Million in 2022, with a change of Percent between 2022 and 2023."
+    publishedDateTime: 2023-05-12T17:03:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-accelerator-market-research-analysis-2023-2030-2023-05-12"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 79
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Machine Learning-as-a-Service (MLaaS) Market Analysis of New Report 2023-2030"
     excerpt: "A Promising Outlook for the Global Machine Learning-as-a-Service (MLaaS) Market from 2023 to 2030 Why is Machine Learning-as-a-Service (MLaaS) market 2023 Important? - Overall, the Machine Learning-as-a-Service (MLaaS) market in 2023 is essential for businesses to understand the market landscape,"
     publishedDateTime: 2023-05-10T16:15:00Z
@@ -346,6 +360,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Cloud AI in Fintech Market 2023-2030 Business Report"
+    excerpt: "A Promising Outlook for the Global Cloud AI in Fintech Market from 2023 to 2030 Why is Cloud AI in Fintech market 2023 Important? - Overall, the Cloud AI in Fintech market in 2023 is essential for businesses to understand the market landscape,"
+    publishedDateTime: 2023-05-12T17:03:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cloud-ai-in-fintech-market-2023-2030-business-report-2023-05-12"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Machine Learning 2023 Market Size, Historical Growth, Analysis up to 2030"
     excerpt: "The key players in the Machine Learning market include global distribution system (GDS) providers, such as These companies are typically the largest or most prominent players in the industry, and they may have significant market share,"
     publishedDateTime: 2023-05-10T13:14:00Z
@@ -360,15 +388,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) in Healthcare Market Industry-Specific Challenges and Risks(2023-2030)"
-    excerpt: "Global Artificial Intelligence (AI) in Healthcare Market report provides valuable insights on the global market for"
-    publishedDateTime: 2023-05-08T08:05:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-industry-specific-challenges-and-risks2023-2030-2023-05-08"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 65
   - title: "2030, Artificial Intelligence (AI) Chips Market Growth | Future Prospects and Competitive Analysis"
     excerpt: "The \"Artificial Intelligence (AI) Chips Market\" is one of the sectors that is expanding the fastest, thus it is crucial"
     publishedDateTime: 2023-05-09T21:50:00Z
@@ -550,15 +569,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Deep Learning Camera Market Research | 2023-2030"
-    excerpt: "The Global Deep Learning Camera market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players,"
-    publishedDateTime: 2023-05-08T07:33:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-camera-market-research-2023-2030-2023-05-08"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
   - title: "Machine Learning Courses Market Research, 2030"
     excerpt: "Research Reports has published a new report titled as \"Machine Learning Courses Market\" by End User (Business,"
     publishedDateTime: 2023-05-10T00:34:00Z

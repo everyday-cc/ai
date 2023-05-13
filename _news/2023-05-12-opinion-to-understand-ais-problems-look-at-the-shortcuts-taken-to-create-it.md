@@ -9,8 +9,8 @@ ampWebUrl: "https://techxplore.com/news/2023-05-opinion-ai-problems-shortcuts.am
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-05-opinion-ai-problems-shortcuts.amp"
 type: article
 quality: 55
-heat: 75
-published: true
+heat: 65
+published: false
 
 provider:
   name: techxplore
@@ -38,20 +38,6 @@ related:
       name: The Conversation
       domain: theconversation.com
     quality: 39
-  - title: "Opinion: Artificial Intelligence Is Here — Friend, Foe or Both? – Inside Sources"
-    excerpt: "Artificial intelligence, known as AI, has had pride of place on the worry list for several weeks. Its arrival was trumpeted for a long time, including by the government and by techies across the board."
-    publishedDateTime: 2023-05-08T07:07:00Z
-    webUrl: "https://prescottenews.com/index.php/2023/05/08/opinion-artificial-intelligence-is-here-friend-foe-or-both-inside-sources/"
-    type: article
-    provider:
-      name: Prescott eNews
-      domain: prescottenews.com
-    quality: 34
-    images:
-      - url: "https://prescottenews.com/wp-content/uploads/2023/05/bigstock-Ai-Artificial-Intelligence.jpg"
-        width: 300
-        height: 300
-        isCached: true
 
 secured: "Hz2Imc1RryCDvsVRZ9ITAXiXjubn29xFGH28RSCLsyn5ZWoow+KO6PW7sW0PvdlNoLryn4YvXp7kIZPi2+rIaYCizcp56+e67sfjdYt0QhI2Yf0bOIZscVIy3ODVXYdBGRjVCiKLTElNJyb6qHAccV0G53ha0y2KU1UADqxfDsAFhdK+pndgw8U+G7P+FALmymzJox244vH0cblaRjLFVKeiA50OG80FJIMhNtMbWLQCrq5mjDHQYs5nC0zUl0zBMbUXMLuJiL6PvZz44lk019vZTGDU4LIXLtQ6aUgOkOm2CWqx1y8raxmvg6ryLNq6VVrMLzQEULEv2NX7B3S5DL7w/xhU452u+XtSkj+w8lI=;0bKliARw+OxkcPgDlaNZ1w=="
 ---

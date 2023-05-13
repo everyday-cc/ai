@@ -7,7 +7,7 @@ originalUrl: "https://techcrunch.com/2023/05/09/sound-ventures-has-already-plugg
 webUrl: "https://techcrunch.com/2023/05/09/sound-ventures-has-already-plugged-half-its-new-240-million-ai-fund-into-three-companies/"
 type: article
 quality: 38
-heat: -1
+heat: 38
 published: false
 
 provider:
@@ -20,28 +20,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "Fintech firm Fundly.ai bags $3 million in seed funding"
-    excerpt: "Mumbai-based fintech startup Fundly.ai on Sunday said it has raised $3 million in a seed funding round, led by Accel. Other investors in the round included Multiply Ventures and other angel investors."
-    publishedDateTime: 2023-05-08T07:26:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/funding/fintech-firm-fundly-ai-bags-3-million-in-seed/articleshow/100057182.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/funding/fintech-firm-fundly-ai-bags-3-million-in-seed/amp_articleshow/100057182.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/funding/fintech-firm-fundly-ai-bags-3-million-in-seed/amp_articleshow/100057182.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 39
-  - title: "UVeye, creator of an AI-powered vehicle inspection system, raises $100M in funding"
-    excerpt: "Automated vehicle inspection systems startup UVeye Inc. said today it has closed on a $100 million funding round led by Hanaco VC. The Series D round, which also saw participation from existing investors GM Ventures,"
-    publishedDateTime: 2023-05-09T13:00:00Z
-    webUrl: "https://siliconangle.com/2023/05/09/uveye-creator-ai-powered-vehicle-inspection-system-raises-100m-funding/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 11
 
 secured: "wZ3r3grUmmYMvK8/zibkNLV5onOhrsn3I0aX8/vJJ6tzaFLA+boWgPOOGA8OPSgPAQFE4OvMco53TsfkBjvsbkKCGAQUx1WzXwg9GsLdeTpVXQ9Hk+OQzepgkuDwDU+yOa0Qr8FZa+wVi0c6R7mWoj+GR+fLuSZMdy5IdZldaXSqFSShM+Iw48Iwl9LmT74rSRnuGx3IFtSofjRh2RlgdNvRBjfob69t43J7d9k/rwbRb9AJgRVRE8ESLXCGK9G0tOxKNwP6n6WBe+1MQXbskwxt55U9c1cOWSyKxeXFLDUm6x3nPXo06XA/bVsL550e5OhuGBeFHURH/ETf13FxmmIzDmc3/W819/EnAf6iHkyoaF0rT2GGdESsd8bVTk5SCnw5al3c8zSH762glPsheIa9JE1zptzTVyEr8p75ZYTLtdDPvHnHMYewKFBkM/nFVI3XSojidL2pCauk0OYC9oqfVQCz51KTwfkC6pUorGoRRpbg0vWhWtZSIHtMQ2m+jPIpF1jpyzxBOyZDLActEA==;bdvgqeIiWXiEotRZ2x+c5w=="
 ---

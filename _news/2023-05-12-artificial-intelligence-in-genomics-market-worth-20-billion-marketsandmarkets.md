@@ -243,20 +243,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 40
-  - title: "Data Science and Machine-Learning Platforms Market Revenue, Growth Opportunities and Forecast to 2031"
-    excerpt: "Our report on the Data Science and Machine-Learning Platforms Market provides in-depth analysis on the current state of"
-    publishedDateTime: 2023-05-08T08:44:00Z
-    webUrl: "https://www.marketwatch.com/press-release/data-science-and-machine-learning-platforms-market-revenue-growth-opportunities-and-forecast-to-2031-2023-05-08"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 39
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Asia Pacific Social Robots Market - Growth, Trends, Covid-19 Impact, and Forecast (2023 - 2029) - Report By Introspective Market Research"
     excerpt: "The Asia Pacific Social Robots Market is expected to grow at a significant growth rate, and the forecast period is 2022-2028, considering the base year as 2021. Social robots are robots that have been physically personified as social creatures."
     publishedDateTime: 2023-05-12T10:58:00Z
@@ -271,15 +257,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "3D Facial Recognition Market Top Players, Revenue, Share, Future Trends, Size, Report and Forecast 2023 to 2031"
-    excerpt: "Moreover, it has benefits over 2D facial recognition, such as ease in the detection of facial data from videos and 2D images and least affected with illumination issues. With the advancements in 3D facial recognition software and services,"
-    publishedDateTime: 2023-05-08T07:48:00Z
-    webUrl: "https://www.marketwatch.com/press-release/3d-facial-recognition-market-top-players-revenue-share-future-trends-size-report-and-forecast-2023-to-2031-2023-05-08"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 29
   - title: "Chatbot Market worth $15.5 billion by 2028 - Exclusive Report by MarketsandMarkets™"
     excerpt: "The market for Chatbot Market is estimated to grow from USD 5.4 billion in 2023 to USD 15.5 billion by 2028, at a CAGR of 23.3% during the forecast period, according to a new report by MarketsandMarkets™."
     publishedDateTime: 2023-05-08T17:51:00Z

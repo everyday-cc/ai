@@ -7,7 +7,7 @@ originalUrl: "https://techbullion.com/top-7-use-cases-for-facial-recognition-in-
 webUrl: "https://techbullion.com/top-7-use-cases-for-facial-recognition-in-2023/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,20 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "TSA is installing facial recognition machines at CVG"
-    excerpt: "Initially, it's opt-in. A regional TSA rep says if you don't want to have your picture taken, you don't have to."
-    publishedDateTime: 2023-05-08T08:21:00Z
-    webUrl: "https://www.wvxu.org/local-news/2023-05-08/tsa-installing-facial-recognition-machines-cvg-cincinnati-airport"
+  - title: "Spain fines Mobile World Congress 200,000 euros for facial recognition use"
+    excerpt: "One of the largest technology fairs in the world is facing a fine for using remote biometric tech in violation of European data privacy laws."
+    publishedDateTime: 2023-05-08T15:40:00Z
+    webUrl: "https://www.biometricupdate.com/202305/spain-fines-mobile-world-congress-200000-euros-for-facial-recognition-use"
     type: article
     provider:
-      name: WVXU
-      domain: wvxu.org
-    quality: 39
-    images:
-      - url: "https://npr.brightspotcdn.com/dims4/default/d3052d2/2147483647/strip/true/crop/448x235+0+40/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Flegacy%2Fsites%2Fwvxu%2Ffiles%2F201408%2FCVG_6.jpg"
-        width: 1200
-        height: 630
-        isCached: true
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 32
 
 secured: "gcH6waWeYXKx7zYgsn7gDRovpFCLy0xEjPCF/Sl/lXDPiuBRYfa+bHPBFgTj1A0xC8/zcitPD3K7hC0soWZACyPL5oXHhjRKXmYfGo08Y9BmhuJH9DI6AoCS1MjpqeWH87NobwAAJwXL2wMNk5WsciiG5VLqYsQmkeIT/AhLGnsSjevK7d/WsXOFS7WMClHS8VAJkedm3w0H9iBYe5pPX7ab3xp7/D4/QmtZj0YgEcSSxfwdf3VAGgoEXAh1onBq85dAfOQa+KdvI4lL7m5vQpIGVZWghfPT93WBsu9VUgvf7lMDSSbCThl1v9Fnn8dq1VAjgMqdtoI+xCqnO3+43QUjKzpVqt8HRaRRUNRDMmFf21aMKVQfsbOfWXDU55Q4ptXv0U71wOoplWioQ29kQsrl7exJd0/7VaNrAQKF4JXLUPHdpyRUr2GKbRESC0qEJW0R322ilc+86qmsT9bwOk3dugrUqr6WFQhCG8xKv2HMEr3T9XgONdN42HLxUM/uXSa1vdtSLZY42ZdFkSUR3g==;ruba1UJ3lLaSSbbj17f6LA=="
 ---

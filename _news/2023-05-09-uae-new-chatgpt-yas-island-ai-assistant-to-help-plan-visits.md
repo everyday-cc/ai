@@ -9,7 +9,7 @@ ampWebUrl: "https://www.khaleejtimes.com/travel/uae-new-chatgpt-yas-island-ai-as
 cdnAmpWebUrl: "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/travel/uae-new-chatgpt-yas-island-ai-assistant-to-help-plan-visits?amp=1"
 type: article
 quality: 59
-heat: -1
+heat: 69
 published: false
 
 provider:
@@ -27,20 +27,15 @@ images:
     isCached: true
 
 related:
-  - title: "No Business Plan? No Problem. ChatGPT Spawns an Investor Gold Rush in AI"
-    excerpt: "It is boom times for startups touting generative artificial intelligence technology."
-    publishedDateTime: 2023-05-08T09:00:00Z
-    webUrl: "https://www.wsj.com/articles/no-business-plan-no-problem-chatgpt-spawns-an-investor-gold-rush-in-ai-6bdbed3c"
+  - title: "Abu Dhabi Yas Island theme parks launch use of AI customer-facing service"
+    excerpt: "The generative AI customer facing service leveraging ChatGPT will provide personalised guidance and information to visitors Abu Dhabi Yas Island theme parks launch use of AI customer-facing service Abu Dhabi,"
+    publishedDateTime: 2023-05-09T07:06:00Z
+    webUrl: "https://www.arabianbusiness.com/industries/technology/abu-dhabi-yas-island-theme-parks-launch-use-of-ai-customer-facing-service"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 66
-    images:
-      - url: "https://images.wsj.net/im-776000/social"
-        width: 1280
-        height: 640
-        isCached: true
+      name: Arabian Business
+      domain: arabianbusiness.com
+    quality: 18
 
 secured: "Jvd+p2XSS6pcp5Wv7v6MUNDrZzey7Pl2xhhvptNvIsIrWSm+ONz1wXQD2cPnkTRCXFMvXYmRTesZNjNYdiTw4rQSBkykB2SS2hiRVqc7hEvwuHo99M6aJGK+jxbb3CE/pvzFTsMcvatk9hSVlkCbKFLVzUZtjh2wUHmajLSYhUpaOAchBr47z7Oig+bxCSo/qkku61pA7NRwGWbj7j8KZo0CNKFsQr3DOi3sTWYVBogyhoRtFx68FzWa1hr8/ZC32fyyAQHPgL7rAYDmKt6Z3pi7GBvoXDcdY19+cRifxtmIKcd5dRg6YMFmDDgRHX1x9b83TRkrxgZ0ucdWN1xfaXJbGQIkkyw0dIZw0beWwCg=;/HW6FDJwwkXK2EpdbhVC0Q=="
 ---

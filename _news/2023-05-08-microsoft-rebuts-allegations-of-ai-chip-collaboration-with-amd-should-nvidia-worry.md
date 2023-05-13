@@ -7,7 +7,7 @@ originalUrl: "https://hothardware.com/news/microsoft-rebuts-allegations-ai-chip-
 webUrl: "https://hothardware.com/news/microsoft-rebuts-allegations-ai-chip-collaboration-amd"
 type: article
 quality: 64
-heat: 74
+heat: 94
 published: true
 
 provider:
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "MakeMyTrip collaborates with Microsoft to reshape the travel booking landscape with generative AI"
+    excerpt: "In a landmark move, MakeMyTrip has collaborated with Microsoft to make travel planning more inclusive and accessible."
+    publishedDateTime: 2023-05-09T08:01:00Z
+    webUrl: "https://www.traveldailymedia.com/makemytrip-collaborates-with-microsoft-to-reshape-the-travel-booking-landscape-with-generative-ai/"
+    ampWebUrl: "https://www.traveldailymedia.com/makemytrip-collaborates-with-microsoft-to-reshape-the-travel-booking-landscape-with-generative-ai/amp/"
+    cdnAmpWebUrl: "https://www-traveldailymedia-com.cdn.ampproject.org/c/s/www.traveldailymedia.com/makemytrip-collaborates-with-microsoft-to-reshape-the-travel-booking-landscape-with-generative-ai/amp/"
+    type: article
+    provider:
+      name: Travel Daily Media
+      domain: traveldailymedia.com
+    quality: 61
+    images:
+      - url: "https://www.traveldailymedia.com/assets/2023/05/shutterstock_2130878285.jpg"
+        width: 1000
+        height: 667
+        isCached: true
   - title: "Microsoft and AMD vs. Nvidia: new battle over AI hardware?"
     excerpt: "AMD is getting help with the development of its AI accelerators. According to Bloomberg, Microsoft is offering support to the chip company to avoid having"
     publishedDateTime: 2023-05-08T13:04:00Z
@@ -39,6 +55,20 @@ related:
       - url: "https://www.techzine.eu/wp-content/uploads/2023/05/Nvidia-GPU-server.jpg"
         width: 2560
         height: 1440
+        isCached: true
+  - title: "Makemytrip Collaborates With Microsoft To Reshape The Travel Booking Landscape With Generative AI"
+    excerpt: "In a landmark move, MakeMyTrip has collaborated with Microsoft to make travel planning more inclusive and accessible by intro"
+    publishedDateTime: 2023-05-08T10:37:00Z
+    webUrl: "https://menafn.com/1106196713/Makemytrip-Collaborates-With-Microsoft-To-Reshape-The-Travel-Booking-Landscape-With-Generative-AI"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 41
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?633811"
+        width: 333
+        height: 250
         isCached: true
 
 secured: "NDnhYbl4KrMEQxWQxZK3+F2G/uRqv2SVpX7wxGWrnzctoCrD2c9PdqS49A6wYKnF/vLa1oMWweO1MECyUzJd6as/Cf2ieMgf0mj3FRNjlEEmLNj3fQpul3porSsMirSwL6VukFfUh0aqEgU0T9iBxHgt8G5dGNGOAMlrefmyTi/0kYwvlNyeB7Q9EOmvIUctAc/avbML/0X22oEc2Pwbbm/+Rd00CHg06lucXmaytAtiTvGvVTjhaUQEA5AN2ckEyl97QI0IpEJiRoXj5kO4BwkM4rmQtBxsr9XRpiQEqUvcI8CToM0bERGUe340YT2zM8eAYrwNpJfUvHIbFIYkXapJi4Kor9IzWu8PzpIKWIv4MXzB0TC7adr/yL0ATC8ZAc/hrh+jeosH7CZsLCcWPFcOPYlR5OpuGj2aDa9pfffP3YcY5F0G3WLmjL2hk8+Xv3IDy74SZX9PFh6MqecghiP0CCdoLiUm2y2xLz543826dmo6JMdw60NdlYisR1H9/x/Vqo7XY6i3fxkfKVvmsQ==;FPNhTGTDPzxLb/mcm8x9AA=="

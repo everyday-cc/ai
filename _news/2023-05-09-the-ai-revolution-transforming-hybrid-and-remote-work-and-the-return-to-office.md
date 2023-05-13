@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/glebtsipursky/2023/05/09/the-ai-revolut
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glebtsipursky/2023/05/09/the-ai-revolution-transforming-hybrid-and-remote-work-and-the-return-to-office/amp/"
 type: article
 quality: 85
-heat: 95
+heat: 85
 published: true
 
 provider:
@@ -29,17 +29,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "Fiction to reality: Exploring the future with AI"
-    excerpt: "There has been no better time to be in the world of AI than now. The advancements in the field today are playing a huge role in shaping the future of business and work. Fiction to reality: Exploring the future with AI."
-    publishedDateTime: 2023-05-08T07:37:00Z
-    webUrl: "https://www.itp.net/emergent-tech/fiction-to-reality-exploring-the-future-with-ai"
-    type: article
-    provider:
-      name: GDPR fines
-      domain: itp.net
-    quality: 21
 
 secured: "zJ7lx/zTUwwmZ8zJDfpYRg2uIyaljztBarPoWIs/u0eiz9fC5qXR9bedtxY0rmBDghWhjUnb0t1UKDHEt/B0wf5rxxICCIefx5IfB+8JrjeTDsLKTBYz0gjjV/6HMV3bJ77405trqQO+hzxmtGAFT+RvqWM26s0r2XBcH0n+zsVj0i3tbj9l/uGJ+bqN4Veu4zMg18guJ7LtqIpwgoz2WAwHhcKM26+vwfkNGDy1V69d3rOevVgpuqYrW12fYMUsPaVCARu5xlliKf/cGiUGVCyld1Rw+su2uzBWM/+wHlwRV5LJbqherV82C7+jttrSwVir660gYTG7P23vPwRcIICBGiTnueiGiHBmPDK3mkKoVrfh0+X1JB5dLYN87aK6QgHlJrHUNBVaUPz8xm+vPKcNBwoC3iN+h4qOUbuL9tr+umALWOU9i+bqnSR+ug3dcmnnZ7XYa76uMi9LG1yqiZgudCMB6Z5dowwfHgMB2Pi3X3mZKOBHuHaEOpESWZYe+ClEvbBO6W19RD7MBnp5LQ==;Hi2Cefcb/iaukcmsTQzrdQ=="
 ---

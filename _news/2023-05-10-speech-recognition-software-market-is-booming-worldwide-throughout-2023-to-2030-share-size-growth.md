@@ -29,38 +29,47 @@ images:
     isCached: true
 
 related:
-  - title: "Warehouse Robotics Market Share, Size, Financial Summaries Analysis from 2023 to 2028"
-    excerpt: "Warehouse Robotics report provides a detailed analysis of regional and country-level market size, segmentation market growth, market share, competitive Landscape, sales analysis, impact of domestic. The warehouse robotics market has been witnessing significant growth in recent years."
-    publishedDateTime: 2023-05-08T09:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/warehouse-robotics-market-share-size-financial-summaries-analysis-from-2023-to-2028-2023-05-08"
+  - title: "2023 Mobile Speech Recognition Software | Dynamic Report By 2030"
+    excerpt: "Mobile Speech Recognition Software Market | Outlook 2023-2028 | Pre and Post-COVID Research is Covered, Report"
+    publishedDateTime: 2023-05-10T11:23:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-mobile-speech-recognition-software-dynamic-report-by-2030-2023-05-10"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 77
+    quality: 69
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Machine Learning & Big Data Analytics Education Market 2023 to Hit Statistical Significance Value by 2030"
-    excerpt: "The Machine Learning and Big Data Analytics Education Market is Expected to Lead During the Forecast Period 2023-2030 in Information and Communication Technology, Information Technology Sector. Market Growth Report Has Segmented the Global Machine Learning and Big Data Analytics Education market report based on Type (Machine Learning,"
-    publishedDateTime: 2023-05-11T04:25:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-big-data-analytics-education-market-2023-to-hit-statistical-significance-value-by-2030-2023-05-11"
+  - title: "Facial Recognition Door Lock Market Outlook | 2023-2031"
+    excerpt: "The Global Facial Recognition Door Lock market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players,"
+    publishedDateTime: 2023-05-09T21:58:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-door-lock-market-outlook-2023-2031-2023-05-09"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 71
+    quality: 69
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Back Therapy Kit Market Share, Size, Financial Summaries Analysis from 2023 to 2028"
-    excerpt: "Back Therapy Kit report provides a detailed analysis of regional and country-level market size, segmentation market growth, market share, competitive Landscape, sales analysis, impact of domestic. The Back Therapy Kit market is expected to witness significant growth in the coming years due to the increasing prevalence of back pain and the need for non-invasive treatment options."
-    publishedDateTime: 2023-05-10T06:47:00Z
-    webUrl: "https://www.marketwatch.com/press-release/back-therapy-kit-market-share-size-financial-summaries-analysis-from-2023-to-2028-2023-05-10"
+  - title: "2023 Automated Machine Learning (AutoML) | Dynamic Report By 2030"
+    excerpt: "Automated Machine Learning (AutoML) Market | Outlook 2023-2028 | Pre and Post-COVID Research is Covered, Report"
+    publishedDateTime: 2023-05-10T11:23:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-automated-machine-learning-automl-dynamic-report-by-2030-2023-05-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 66
+  - title: "Computer Vision Software Market Share 2023|Bussiness Research And Forecast by 2029"
+    excerpt: "Computer Vision Software Market | Outlook 2023-2028 | Pre and Post-COVID Research is Covered, Report Information |"
+    publishedDateTime: 2023-05-11T14:19:00Z
+    webUrl: "https://www.marketwatch.com/press-release/computer-vision-software-market-share-2023bussiness-research-and-forecast-by-2029-2023-05-11"
     type: article
     provider:
       name: MarketWatch
@@ -71,34 +80,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Face Recognition Software Market 2023 with Regional Segmentations Forecast till 2030"
-    excerpt: "The Global \"Face Recognition Software Market\" report analyzes crucial growth factors, key strategies employed by"
-    publishedDateTime: 2023-05-08T09:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-software-market-2023-with-regional-segmentations-forecast-till-2030-2023-05-08"
+  - title: "Emotion Detection & Recognition Market Size To Cross USD 136.2 Billion By 2031 | Exclusive Report"
+    excerpt: "Emotion Detection and Recognition Market Research Substantial growth of the Internet of Things technology, increase in popularity of wear"
+    publishedDateTime: 2023-05-09T08:53:00Z
+    webUrl: "https://menafn.com/1106205765/Emotion-Detection-Recognition-Market-Size-To-Cross-USD-1362-Billion-By-2031-Exclusive-Report"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 62
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Stereotactic Body Radiation Therapy Market Share, Size, Financial Summaries Analysis from 2023 to 2028"
-    excerpt: "Stereotactic Body Radiation Therapy report provides a detailed analysis of regional and country-level market size, segmentation market growth, market share, competitive Landscape, sales analysis, impact of domestic."
-    publishedDateTime: 2023-05-10T06:05:00Z
-    webUrl: "https://www.marketwatch.com/press-release/stereotactic-body-radiation-therapy-market-share-size-financial-summaries-analysis-from-2023-to-2028-2023-05-10"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 53
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
+      name: Mena FN
+      domain: menafn.com
+    quality: 0
 
 secured: "YWuLKeMFqFJh90Z0VOz5AYCH8SeY6lckTKFbnnybxnvumoN759uuLAEHmlmvqPin5ASap5iTiFE9ltmbNqUfrINGp1Rx1cJc5ds7F5ZgDpfJqnXxhr/kysUUu61dvxf8mZILL/jU6MjP+rBTq0RW2AokoBGTPYD643la8Et6OoV5+gt7LSHVXZwHBK2qU1xb0FNT1IvQeBc3/QRj0ue4eixOyChA45K+gvsS9oIoum/KKsBh5/UoFlft79jj+AXAPr8DRj66ndyzIOT5SR1S1yq9uUhjlXnoy9gX36aY+OhTCfVY3/RQL8Rwff7ZmrrL8Yh6jrVLE2mgoxyCQ4rf6x2DVeCpWm479uhMIz/zYdo=;HrOybypKbgJiMW3R+kjeAw=="
 ---

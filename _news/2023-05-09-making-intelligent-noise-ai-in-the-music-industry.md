@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/09/making-int
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/05/09/making-intelligent-noise-ai-in-the-music-industry/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial General Intelligence: The Next Frontier In Technology"
-    excerpt: "For an AI to be classified as AGI, it needs to have certain characteristics such as common sense, background knowledge, transfer learning, abstraction, and causality. Vision from the Marvel Cinematic"
-    publishedDateTime: 2023-05-08T07:43:00Z
-    webUrl: "https://www.entrepreneur.com/en-in/news-and-trends/artificial-general-intelligence-the-next-frontier-in/451139"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 54
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1683531881-Hithere11.png"
-        width: 2000
-        height: 1333
-        isCached: true
   - title: "Leveraging Artificial Intelligence In The Food Industry: How Startups Are Captivating Early Adopting F&B Operators to Tackle Theft and Waste"
     excerpt: "As AI continues to reveal its potential across every industry, we remain focused on harnessing its power to improve productivity and ingenuity to address decades-old problems plaguing the industry we love so dearly."
     publishedDateTime: 2023-05-09T03:00:00Z

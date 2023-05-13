@@ -136,6 +136,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "You’re Probably Underestimating AI Chatbots"
+    excerpt: "Just as the first iPhone reviews mostly missed the device’s huge potential, it’s folly to draw conclusions from today’s unrefined technology."
+    publishedDateTime: 2023-05-12T13:01:00Z
+    webUrl: "https://www.wired.com/story/plaintext-youre-probably-underestimating-ai-chatbots/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 67
+    images:
+      - url: "https://media.wired.com/photos/645d37c10227ed23db8041a9/191:100/w_1280,c_limit/AI_biz_GettyImages-1372009287.jpg"
+        width: 1280
+        height: 670
+        isCached: true
   - title: "State-sponsored Chinese AI firm launches bot service to ‘surpass’ ChatGPT"
     excerpt: "State-subsidized AI company Iflytek recently launched a GPT competitor it says will rival and surpass OpenAI's popular ChatGPT service by the end of the year."
     publishedDateTime: 2023-05-08T18:59:00Z
@@ -183,20 +197,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/28569c93918527a910695ba29c5afd9ee54972a9/0_193_4744_2847/master/4744.jpg?width=620&quality=85&auto=format&fit=max&s=c7b2467c0c605f2c61cd36601b08e053"
         width: 620
         height: 372
-        isCached: true
-  - title: "Comment: New chatbot is being taught Asimov’s laws of robotics"
-    excerpt: "Technology companies are falling over themselves to promote expertise in generative AI, the hot new technology that churns out text and images as well as humans can. But few are clamoring for the title of “safest AI firm."
-    publishedDateTime: 2023-05-08T08:30:00Z
-    webUrl: "https://www.heraldnet.com/opinion/comment-new-chatbot-is-being-taught-asimovs-laws-of-robotics/"
-    type: article
-    provider:
-      name: HeraldNet
-      domain: heraldnet.com
-    quality: 54
-    images:
-      - url: "http://www.heraldnet.com/wp-content/uploads/2017/04/heraldnet_logo.png"
-        width: 400
-        height: 400
         isCached: true
   - title: "Why are patients turning to artificial intelligence chatbots for medical advice?"
     excerpt: "The future of medicine may have arrived sooner than expected, with patients turning to artificial intelligence (AI) chatbots for medical advice."
@@ -268,6 +268,20 @@ related:
       - url: "https://menafn.com/updates/pr/2023-05/09/KT_6610bimage_story.jpg"
         width: 600
         height: 337
+        isCached: true
+  - title: "AI Wars: Google’s Improved Bard Is Ready to Take On OpenAI’s ChatGPT"
+    excerpt: "When it comes to AI chatbots, we all love OpenAI's ChatGPT, but Google's Bard has everything that makes us drool—for free."
+    publishedDateTime: 2023-05-12T22:34:00Z
+    webUrl: "https://decrypt.co/139953/google-bard-openai-chatgpt-ai-wars"
+    type: article
+    provider:
+      name: decrypt
+      domain: decrypt.co
+    quality: 39
+    images:
+      - url: "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/05/Leonardo_Diffusion_photorealistic_render_of_A_screen_depicting_1-1-gID_7.png@png"
+        width: 1024
+        height: 512
         isCached: true
   - title: "ChatGPT Fever Has Investors Pouring Billions Into AI Startups, No Business Plan Required"
     excerpt: "It is boom times for startups touting generative artificial intelligence technology."

@@ -6,7 +6,7 @@ publishedDateTime: 2023-05-12T18:48:00Z
 originalUrl: "https://www.gulftoday.ae/news/2023/05/12/britain-to-roll-out-first-driverless-bus-service"
 webUrl: "https://www.gulftoday.ae/news/2023/05/12/britain-to-roll-out-first-driverless-bus-service"
 type: article
-quality: 34
+quality: 54
 heat: -1
 published: false
 
@@ -17,6 +17,12 @@ provider:
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "http://www.gulftoday.ae/-/media/gulf-today/images/articles/news/2023/5/12/driverless-buses.ashx?h=450&w=750&hash=DA420C0A40E730C30B1558286369EDC1"
+    width: 750
+    height: 450
+    isCached: true
 
 related:
   - title: "Autonomous or Driverless Cars Market Report Talks about Current Market Share 2023-2030"
@@ -124,6 +130,6 @@ related:
         height: 250
         isCached: true
 
-secured: "UuN3YGAYOcvWfM8O2OhzqMjSJw69UjIexb6AgISkG9f/0ko395z/uoEB1LtPeieIi5snjTBlqVDzKw+xU3j9tig024F4x6XMyu3wXbb8Nrby7HdGszwyTdTegozZDVYw/tIqshFvGsBcFmtRpP8W2/XYkiFSZGMkTx0ETREL8iQidWmoquL8+ykg4TfSYbYdxwXEvj2BQLfY8roFWXP9EkqfOVKXFvaevzFTs41XbPvkPfMmORdJfFT2yZK/MNXBvjRMZtZIH28fQDYWNYMN1WK6PPJmq0D79IbWh2XW0X62alauLgCbHKg21kf3eqbixCRrW3gYV6U99DEHveTRhPl0ww2vJQWIz8NENGm6NfA=;vf+NpG79OziLe0aN3YoNhw=="
+secured: "chx3PeFR3GxS4zhVicpF8enWy2NTro4XPL1X1woMKmVIC5Kdz0/TbVpj0eSirMQnIVcrMaVjIVeq8/ixKgN74d0vm6L2xTLEy/eMvNG+XEvAkNQZ6ALPsnI7MdM7MT8zUTAlKwREPRwjLEfP2nvFi1N1JEpE++jBzrXhk/Pzguld4RZ146tGAal3ctLYa3zmgqm1+xIFAr3kflTArZDYp4T2oD+qa1ktph+hLgFVUSDnDp3YF3fNINHnAEVsavhUSvXmt1v4EhKF2NgyuqzlTAiMR33bJNUAQ6OnnkEsUtbzXDQ6luSinbKjesZs99x4c7nDTfUw8TtDs9XCy7H2HwdzWqFKSyZX4a6zSLdbb5M=;MFDZ5IYMORRVapTEGyUg8w=="
 ---
 

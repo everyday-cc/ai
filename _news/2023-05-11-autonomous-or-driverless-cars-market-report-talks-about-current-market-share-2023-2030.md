@@ -77,6 +77,20 @@ related:
         width: 650
         height: 400
         isCached: true
+  - title: "Britain to roll out first driverless bus service"
+    excerpt: "The service, which aims to carry 10,000 passengers a week over a 22.5-kilometre route on five single-deck buses, will be the world's first automated local bus service, its operator said."
+    publishedDateTime: 2023-05-12T18:48:00Z
+    webUrl: "https://www.gulftoday.ae/news/2023/05/12/britain-to-roll-out-first-driverless-bus-service"
+    type: article
+    provider:
+      name: gulftoday
+      domain: gulftoday.ae
+    quality: 54
+    images:
+      - url: "http://www.gulftoday.ae/-/media/gulf-today/images/articles/news/2023/5/12/driverless-buses.ashx?h=450&w=750&hash=DA420C0A40E730C30B1558286369EDC1"
+        width: 750
+        height: 450
+        isCached: true
   - title: "SWOT Analysis of the Autonomous or Driverless Cars Market Include Top Manufacturers Analysis 2023-2030"
     excerpt: "Pre and Post-Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and"
     publishedDateTime: 2023-05-09T18:52:00Z
@@ -119,15 +133,6 @@ related:
         width: 444
         height: 250
         isCached: true
-  - title: "Britain to roll out first driverless bus service"
-    excerpt: "The service, which aims to carry 10,000 passengers a week over a 22.5-kilometre route on five single-deck buses, will be the world's first automated local bus service, its operator said."
-    publishedDateTime: 2023-05-12T18:48:00Z
-    webUrl: "https://www.gulftoday.ae/news/2023/05/12/britain-to-roll-out-first-driverless-bus-service"
-    type: article
-    provider:
-      name: gulftoday
-      domain: gulftoday.ae
-    quality: 34
 
 secured: "KgWZmyfuqXtt71Jt/L5RpbZ/ScummE6gMDkbWtZg+DMVHsUoB/4RQzJzbOR2zqfmaX3ExZEgH3yPnE4cDyD7/Fl3CFjxdsEpmKHadTE73g4c7uF0bYTF3eNSPnlfg/xSCIutokRe8JeHICTzbySCghVUv88F6jT9HdQIqgI17DpesUhd5QvKMb0eGpWCP1Gm5X9HbgjiJ25iQWddkeaJLlpY9LPXjcXz74SrmELm6EbJt3zHEPtDplK5qv/9tadH2+gsTJTozRpShMwrlzNxPQ7yAqIJl+eE9RxCn7HXVEDw87GKE9k+JNVqAZj+0klsAvuhcH/6lIKaonfjaaTEn7ue/CfOkeF+5BxIjHdcxOM=;lHhgMJIUcxRt2zFZWJZXCw=="
 ---

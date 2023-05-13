@@ -40,6 +40,36 @@ related:
         width: 708
         height: 398
         isCached: true
+  - title: "MakeMyTrip collaborates with Microsoft to reshape the travel booking landscape with generative AI"
+    excerpt: "In a landmark move, MakeMyTrip has collaborated with Microsoft to make travel planning more inclusive and accessible."
+    publishedDateTime: 2023-05-09T08:01:00Z
+    webUrl: "https://www.traveldailymedia.com/makemytrip-collaborates-with-microsoft-to-reshape-the-travel-booking-landscape-with-generative-ai/"
+    ampWebUrl: "https://www.traveldailymedia.com/makemytrip-collaborates-with-microsoft-to-reshape-the-travel-booking-landscape-with-generative-ai/amp/"
+    cdnAmpWebUrl: "https://www-traveldailymedia-com.cdn.ampproject.org/c/s/www.traveldailymedia.com/makemytrip-collaborates-with-microsoft-to-reshape-the-travel-booking-landscape-with-generative-ai/amp/"
+    type: article
+    provider:
+      name: Travel Daily Media
+      domain: traveldailymedia.com
+    quality: 61
+    images:
+      - url: "https://www.traveldailymedia.com/assets/2023/05/shutterstock_2130878285.jpg"
+        width: 1000
+        height: 667
+        isCached: true
+  - title: "Makemytrip Collaborates With Microsoft To Reshape The Travel Booking Landscape With Generative AI"
+    excerpt: "In a landmark move, MakeMyTrip has collaborated with Microsoft to make travel planning more inclusive and accessible by intro"
+    publishedDateTime: 2023-05-08T10:37:00Z
+    webUrl: "https://menafn.com/1106196713/Makemytrip-Collaborates-With-Microsoft-To-Reshape-The-Travel-Booking-Landscape-With-Generative-AI"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 41
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?633811"
+        width: 333
+        height: 250
+        isCached: true
 
 secured: "TA5qoMOePy1c7yr+dlse6VRAxxwTe3rtCzGlrz5UNobBOlhc6utK6ku6pskL86AZD5bP10fdB9IDlCGOkBUuqOvGeiuN83FZzaqQPyMgo+CIkrk4Twn2fFW3fvk0+ShQnDFhtovOON8CjXglCgEeR12Gb43OhevM9tO1mRaraM96T4akPKUL6gckGEhhDyDt0tUOLc45Pk/xUEEA/d7FaYR+Og9ZXMh0mHJSpcON8bq2xo1PyNGZ758YKlouB0oh8gCtG5C0EB0HAO5d4q7fzofMRBgj3IfHqUvvRo/G5/m9/02llrM3x2oBkuTW20EznSFlykFE84SkqtEfR25LP2QDj6AL2xkjMLWIfQR8JuPy5OmHl84+pdb4rCIeCJXZ0rfUz/yiOxOG0DRGRroTap8cYFcPkCyhai521hQ5q7WXAVz8ve0NwxXf5Erxiyb+2MBp3twZX7wC0YxLUoGlRST39hSoMkryT8iclMhqWUCYMsYp0Ju8O2yHjBZymL18pbWH0KsqhpkSHDsMTgGHXg==;5BpE8zCBZoxhvjxZKulPtw=="
 ---

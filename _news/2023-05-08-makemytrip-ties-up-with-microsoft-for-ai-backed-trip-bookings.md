@@ -77,22 +77,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "MakeMyTrip collaborates with Microsoft to reshape the website with generative AI"
-    excerpt: "As per the company, the new in-platform tech stack will converse with the user to offer personalized travel recommendations"
-    publishedDateTime: 2023-05-08T08:53:00Z
-    webUrl: "https://www.financialexpress.com/business/brandwagon-makemytrip-collaborates-with-microsoft-to-reshape-the-website-with-generative-ai-3078753/"
-    ampWebUrl: "https://www.financialexpress.com/business/brandwagon-makemytrip-collaborates-with-microsoft-to-reshape-the-website-with-generative-ai-3078753/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/brandwagon-makemytrip-collaborates-with-microsoft-to-reshape-the-website-with-generative-ai-3078753/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 69
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/05/Untitled-design-2023-05-08T134752.691.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "oI9/a/kkkV9TAu+lnfeUgg2Dw09d6zOGZ+00t6w9gYdDdf4MrOXHzZpqbSB6p8nEl8hJjaKkIevn5HMg39HQeG9wpJWrabpHAvtPwV3HZz6W14tQTs37bomNMBp8oGlvJnO3ychlErqKFeHd7wl7GIWFGjnaW6/tQQqBWmmquy8N+Z/r5eqgouU9n0DcQWZFNAP4Rb5vPUjKpttL9xHzRn+lXIlOCduFHW5bI+xAfUVnGHEP1hJ2D5G5AnAqLG0gR7fxCxZzYaZjyUPnd/8JKGS2IQGbod85iYeWhAREtvlvI4BNzJu7pzM5TRp/8CUNVuUhSzHgADx62Rb+41V7cx8cQsFx9UNSyclJQ8Ck4HukWyxAETYnst2rPdN2ra/3dY9e1oHBPLs7hINcZNbvPI2z2Vpsx6ZkvHF7i+MRFBgDs66MNMTYRyO4IwNRlrzcXVwZWpbzppl5NF0B9AL+BIs5krnNxcKmQxjHB3cygm7oiy3hqVEPahLsHacK3BxdGyXcEbnfTRpsx7TNN+dcZA==;Yg503b2OM5CsnzUtr6uUWQ=="
 ---

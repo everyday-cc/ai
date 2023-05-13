@@ -73,22 +73,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "MakeMyTrip collaborates with Microsoft to reshape the website with generative AI"
-    excerpt: "As per the company, the new in-platform tech stack will converse with the user to offer personalized travel recommendations"
-    publishedDateTime: 2023-05-08T08:53:00Z
-    webUrl: "https://www.financialexpress.com/business/brandwagon-makemytrip-collaborates-with-microsoft-to-reshape-the-website-with-generative-ai-3078753/"
-    ampWebUrl: "https://www.financialexpress.com/business/brandwagon-makemytrip-collaborates-with-microsoft-to-reshape-the-website-with-generative-ai-3078753/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/brandwagon-makemytrip-collaborates-with-microsoft-to-reshape-the-website-with-generative-ai-3078753/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 69
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/05/Untitled-design-2023-05-08T134752.691.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "MakeMyTrip ties up with Microsoft for AI-backed trip bookings"
     excerpt: "MakeMyTrip ties up with Microsoft for voice-assisted travel bookings. Microsoft Azure OpenAI Service and Azure Cognitive Services will converse with the user to offer personalised travel recommendatio"
     publishedDateTime: 2023-05-08T13:20:00Z

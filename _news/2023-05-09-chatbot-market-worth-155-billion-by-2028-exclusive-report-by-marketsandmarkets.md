@@ -243,20 +243,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 40
-  - title: "Data Science and Machine-Learning Platforms Market Revenue, Growth Opportunities and Forecast to 2031"
-    excerpt: "Our report on the Data Science and Machine-Learning Platforms Market provides in-depth analysis on the current state of"
-    publishedDateTime: 2023-05-08T08:44:00Z
-    webUrl: "https://www.marketwatch.com/press-release/data-science-and-machine-learning-platforms-market-revenue-growth-opportunities-and-forecast-to-2031-2023-05-08"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 39
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence In Genomics Market worth $2.0 billion | MarketsandMarkets"
     excerpt: "Artificial Intelligence In Genomics Market in terms of revenue was estimated to be worth $0.5 billion in 2023 and is poised to reach $2.0 billion by 2028, growing at a CAGR of 32.3% from 2023 to 2028 according to a new report by MarketsandMarkets™."
     publishedDateTime: 2023-05-11T17:53:00Z
@@ -285,15 +271,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "3D Facial Recognition Market Top Players, Revenue, Share, Future Trends, Size, Report and Forecast 2023 to 2031"
-    excerpt: "Moreover, it has benefits over 2D facial recognition, such as ease in the detection of facial data from videos and 2D images and least affected with illumination issues. With the advancements in 3D facial recognition software and services,"
-    publishedDateTime: 2023-05-08T07:48:00Z
-    webUrl: "https://www.marketwatch.com/press-release/3d-facial-recognition-market-top-players-revenue-share-future-trends-size-report-and-forecast-2023-to-2031-2023-05-08"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 29
 
 secured: "uwh3w0MoGQo+J/oSEtQoVrzWtubnaYtrDj8L3IJ9ISt97oCUoPtxh2GncPFEppUcysdZpQhjal+nV0MZla+AVENqiaxyIojW2/0kriNbcdtCdShY+bqfElZFW4DrclnLvZN63wTz+VuUp9noyS2jPY4FIzBcqSlVd4Lbpt/naG/6w8GlCWm3zJT/UUCZJxp/gZ1rL3kgxTQlCucc/aLPJlrTl4sw1c29l0svd+u8qtVG+NbVmo4G2Oy/2FQPgHxGxhn9v8l5lahDZdfH74NUO1+Ic0Bxuanz2e4D3gmnHL7ffIUUfMBqaFHchyQWDN2q4rM8CuzgORGRSs2ZNrqSDxh1CENjdbnTi9p7bgSiwRM=;uEnGjhNwXn1n+rLbanTpjw=="
 ---

@@ -57,15 +57,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Machine Learning in Manufacturing Market in 2023: Latest Innovations and Growth Strategies till 2030"
-    excerpt: "The Global \"Machine Learning in Manufacturing Market\" report analyzes crucial growth factors, key strategies employed"
-    publishedDateTime: 2023-05-08T08:56:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-in-manufacturing-market-in-2023-latest-innovations-and-growth-strategies-till-2030-2023-05-08"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 34
   - title: "Automated Machine Learning (AutoML) Market worth $6.4 billion by 2028 - Exclusive Report by MarketsandMarkets™"
     excerpt: "The market for automated machine learning (AutoML) appears to have a bright future thanks to rising acceptance, technological breakthroughs, integration with other developing technologies, and an emphasis on customisation and personalization."
     publishedDateTime: 2023-05-12T17:25:00Z

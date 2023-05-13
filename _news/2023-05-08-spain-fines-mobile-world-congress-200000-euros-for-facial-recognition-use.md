@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202305/spain-fines-mobile-world-co
 webUrl: "https://www.biometricupdate.com/202305/spain-fines-mobile-world-congress-200000-euros-for-facial-recognition-use"
 type: article
 quality: 32
-heat: 32
+heat: -1
 published: false
 
 provider:
@@ -19,15 +19,20 @@ topics:
   - AI
 
 related:
-  - title: "GSMA fined €200,000 for MWC facial recognition GDPR infringement"
-    excerpt: "Following a complaint over the use of facial recognition tech at MWC 2021, the Spanish data protection agency has upheld a finding against show organiser GSMA."
-    publishedDateTime: 2023-05-09T10:40:00Z
-    webUrl: "https://telecoms.com/521558/gsma-fined-e200000-for-mwc-facial-recognition-gdpr-infringement/"
+  - title: "Top 7 Use Cases For Facial Recognition In 2023"
+    excerpt: "The demand for AI face recognition technology is rising quickly on a global scale. By 2028, the market is expected to have grown from $5 billion to over $13 billion. Business executives must consider several variables before starting any projects when employing facial recognition technology,"
+    publishedDateTime: 2023-05-11T16:17:00Z
+    webUrl: "https://techbullion.com/top-7-use-cases-for-facial-recognition-in-2023/"
     type: article
     provider:
-      name: Telecoms
-      domain: telecoms.com
-    quality: 19
+      name: Impacts
+      domain: techbullion.com
+    quality: 39
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/05/20210201002126713_img-1000x600.jpg"
+        width: 1000
+        height: 600
+        isCached: true
 
 secured: "J/blS2oboP5gNm+RqjvF+uhzYtA+wO+3PD2CComcf1YmyI7HmyjLS9i0o6MxcAbdL2BK0bnH44r3rXSpmsPf4WYpcPFD9w+UD9rqReIbytf25QuDOk67TzCtA7fzE2rbbVDYp2OkVoAK0PpeQsUS8VEvle343/wWwFV2J3Nbhdygyjj7nTxRLgJyKnmvrW9kvBdoHD5nmr9NOjIlU+klMjZMiz2jEGBkeN60js0i4nmcNdV9FsWpRRLmNSoKxbUf/TOEQbZB0dhvC4y7/BDdd1DvemEwPr/iV/w9v/1rbOG/2dxiEKPKyIvh9w1t9WATOIEAkebS4zdMGguBaBuMKPIi3js5wlHi8RU72qASIJc=;M6H18skfUqPDBIYhud8Hag=="
 ---

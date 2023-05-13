@@ -44,20 +44,6 @@ related:
         width: 1200
         height: 844
         isCached: true
-  - title: "Artificial General Intelligence: The Next Frontier In Technology"
-    excerpt: "For an AI to be classified as AGI, it needs to have certain characteristics such as common sense, background knowledge, transfer learning, abstraction, and causality. Vision from the Marvel Cinematic"
-    publishedDateTime: 2023-05-08T07:43:00Z
-    webUrl: "https://www.entrepreneur.com/en-in/news-and-trends/artificial-general-intelligence-the-next-frontier-in/451139"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 54
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1683531881-Hithere11.png"
-        width: 2000
-        height: 1333
-        isCached: true
 
 secured: "GWQ85YMPq21hD9IfxeCxyDcDR3CnyBQ5mji+FKPvdY31vUcjl1DxjOqp0rA46czlu65tgOpb/2KXorIaCm0rWkifBmIsB0AYyQTEt4LIgiTUC1XkZ2/QEU33qj/WYll24KMxw+jHNt1XljzpVThwapD4vLZeO1qtZH9xih+gJOsXtr2OExQkk+PV6nt5EulNheZUa2GU+/TuuRreSEhma4UcjqjSozrmILVwIJo9ngZuDeI8zeZiDIvWu/iKpgAEX1jdiC1wbWWjFNnD3RLhHvi1h5D9w7JKrIqQqqZ1OyON/LQbZ1Gl2CVv6+2A00xH14E0poZ1KYXryKNDr391KPIn5PaGCjxzG+5F0PesZMk=;bQH8aaPoXTTMVtMUKzlsAg=="
 ---

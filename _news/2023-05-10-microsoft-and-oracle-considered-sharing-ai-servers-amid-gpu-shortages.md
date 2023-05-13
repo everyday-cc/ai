@@ -219,22 +219,6 @@ related:
         width: 730
         height: 395
         isCached: true
-  - title: "MakeMyTrip introduces Microsoft Generative AI to make travel more inclusive"
-    excerpt: "Leading online travel company MakeMyTrip on Monday said it has collaborated with Microsoft to make travel planning more inclusive and accessible by introducing voice assisted booking in Indian languages."
-    publishedDateTime: 2023-05-08T08:35:00Z
-    webUrl: "https://www.thenewsminute.com/article/makemytrip-introduces-microsoft-generative-ai-make-travel-more-inclusive-176883"
-    ampWebUrl: "https://www.thenewsminute.com/article/makemytrip-introduces-microsoft-generative-ai-make-travel-more-inclusive-176883?amp"
-    cdnAmpWebUrl: "https://www-thenewsminute-com.cdn.ampproject.org/c/s/www.thenewsminute.com/article/makemytrip-introduces-microsoft-generative-ai-make-travel-more-inclusive-176883?amp"
-    type: article
-    provider:
-      name: The News Minute
-      domain: thenewsminute.com
-    quality: 72
-    images:
-      - url: "https://www.thenewsminute.com/sites/default/files/MakeMyTrip_Ians_31012023_1200x800-compressed.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "SymphonyAI announces strategic collaboration with Microsoft Azure AI for generative AI"
     excerpt: "SymphonyAI introduces Sensa Copilot, a vertical application that integrates Microsoft Azure OpenAI Service and Azure Cognitive Search to drive"
     publishedDateTime: 2023-05-09T12:30:00Z
@@ -416,34 +400,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 42
-  - title: "MakeMyTrip announces its collaboration with Microsoft"
-    excerpt: "MakeMyTrip has collaborated with Microsoft to make travel planning more inclusive and accessible by introducing voice assisted booking in Indian languages. The new, in-platform tech stack powered by Microsoft Azure OpenAI Service and Azure Cognitive Services,"
-    publishedDateTime: 2023-05-08T07:52:00Z
-    webUrl: "https://technuter.com/channel-news/makemytrip-announces-its-collaboration-with-microsoft.html"
-    type: article
-    provider:
-      name: technuter.com
-      domain: technuter.com
-    quality: 39
-    images:
-      - url: "https://technuter.com/wp-content/uploads/2020/01/Microsoft.jpg"
-        width: 418
-        height: 335
-        isCached: true
-  - title: "MMT partners with Microsoft to offer voice assistance in Indian languages"
-    excerpt: "MakeMyTrip (MMT) has collaborated with Microsoft to make travel planning more inclusive and accessible by introducing voice assisted booking in Indian languages. The new, in-platform tech stack powered by Microsoft Azure OpenAI Service and Azure Cognitive Services,"
-    publishedDateTime: 2023-05-08T08:00:00Z
-    webUrl: "https://travelbizmonitor.com/mmt-partners-with-microsoft-to-offer-voice-assistance-in-indian-languages/"
-    type: article
-    provider:
-      name: Travel Biz Monitor
-      domain: travelbizmonitor.com
-    quality: 38
-    images:
-      - url: "https://travelbizmonitor.com/wp-content/uploads/2021/07/IMG-20210515-WA0036_074850-e1627021612894.jpg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "AWS and Microsoft partner acquires data service firm Forecast"
     excerpt: "AWS and Microsoft partner Kin+Carta has acquired data service provider Forecast Data Services with the aim of strengthening its global enterprise data and AI services. Edinburgh-based Forecast, which also has a delivery hub in Poland,"
     publishedDateTime: 2023-05-10T12:35:00Z

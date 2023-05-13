@@ -9,7 +9,7 @@ ampWebUrl: "https://www.moneycontrol.com/news/business/microsoft-partners-gurugr
 cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/microsoft-partners-gurugram-based-builder-ai-for-developing-ai-solutions-for-businesses-10560011.html/amp"
 type: article
 quality: 66
-heat: 76
+heat: 86
 published: true
 
 provider:
@@ -36,6 +36,15 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 63
+  - title: "MakeMyTrip brings generative AI for travel bookings, ties up with Microsoft"
+    excerpt: "MakeMyTrip plans to expand the platform to other Indian languages, such as Bhojpuri and various southern dialects, in the near future"
+    publishedDateTime: 2023-05-08T12:23:00Z
+    webUrl: "https://www.business-standard.com/companies/news/makemytrip-brings-generative-ai-for-travel-bookings-ties-up-with-microsoft-123050800609_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 32
 
 secured: "sf2iEG4jWs8b9Zv3Z9hiWQR0hrl08EII1DbhJp6Rwe4jkOKoU4KYFcxlcyQl2XiTdwz0Pdm2cCtlJjmfd7MToev7iCFOxVkmmmbbVDI5eOLzkx4Kmsiqh+v+cpGT5LfmUWSGr2zhoR0T2K2Cwuo49gwwR4eaI+Hrxn/ZkQBzd3tyYORyR1R+wac5z9olw7kzpcXgxnnPBcJineJorxYHAENXCQZWKJNcD7IpX/iWFkTOK6n6eVxSUkOk4w8VWQvdJbUwiEmNFrFv2e0PQHa8H2C4uMpWq1crsdGqyWB9BFh9g+ntqdPLSmdg3wTJ8DeWbvs1fWDzU1pI37OFjR8W4Rpy0ytuWM8176L4AcQXteOmSOjTDlhGB63pj9k6a+Zu4VuwyQTgMv2b3gbeBnlfK4a7DGagEcSHYkaV/85O3LBGdz9kkMKJGSJcOAq1AnXRee9BfL0Im1VC299clsjk1znkUNF92pT3EHglqaGXpwNr7X4wUXnBKoWQwpsSHaogigOPNZa8VI3iROf/5KQU3Q==;YcU2j0SYboz7tWhilGlE1A=="
 ---
