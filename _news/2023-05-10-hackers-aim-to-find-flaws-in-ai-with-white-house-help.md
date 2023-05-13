@@ -73,6 +73,20 @@ related:
         width: 840
         height: 438
         isCached: true
+  - title: "White House announces measures to address challenges of AI"
+    excerpt: "The White House has announced a series of measures to address the challenges of artificial intelligence, driven by the sudden popularity of tools such as ChatGPT and amid rising concerns about the technology’s potential risks for discrimination,"
+    publishedDateTime: 2023-05-08T17:27:00Z
+    webUrl: "https://www.tvcnews.tv/2023/05/white-house-announces-measures-to-address-challenges-of-ai/"
+    type: article
+    provider:
+      name: tvcnews.tv
+      domain: tvcnews.tv
+    quality: 39
+    images:
+      - url: "https://www.tvcnews.tv/wp-content/uploads/2023/05/download_53_600x400.jpg"
+        width: 600
+        height: 400
+        isCached: true
   - title: "Biden Administration Turns To Hackers To Tame AI As White House Looks Towards Regulating Artificial Intelligence To Preserve Jobs"
     excerpt: "Gamers Making Thousands Selling Gaming Skins And Assets: Gameflip's Bold Vision For The Future Of Gaming Commerce Artificial intelligence (AI) technology — led by the growth of ChatGPT — has governments around the world concerned about its impact."
     publishedDateTime: 2023-05-08T20:01:00Z

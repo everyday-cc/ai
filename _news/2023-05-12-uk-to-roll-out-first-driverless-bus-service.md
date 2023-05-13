@@ -129,6 +129,20 @@ related:
         width: 444
         height: 250
         isCached: true
+  - title: "UK to roll out first driverless bus service"
+    excerpt: "The UK will roll out its first driverless bus network in Scotland next week with drivers on standby behind the steering wheel, ready to take control should an emergency arise. The service,"
+    publishedDateTime: 2023-05-13T03:28:00Z
+    webUrl: "https://technology.inquirer.net/124026/uk-to-roll-out-first-driverless-bus-service"
+    type: article
+    provider:
+      name: Philippine Daily Inquirer
+      domain: inquirer.net
+    quality: 39
+    images:
+      - url: "https://technology.inquirer.net/files/2023/05/Driver_Stuart_Doidge_monitors_an_autonomous_bus_as_it_drives_across_the_Forth_Road_Bridge_between_Edinburgh_and_Fife_during_a_press_preview_for_the_CAV_Forth_a_bvXSMR84YoEl-620x413.jpg"
+        width: 620
+        height: 413
+        isCached: true
 
 secured: "SKdtcAMknILaOxX9UsgUmHJU/qRGQ7nl6Olf8RJ0D1E9H+kiq1thdwS2tgLk+6bwcY5kLEfTZo9MiKm8DYZKfxRVwXGyPggmPDlxGsfoQe3IsSeSCSAxTu24Cu+OlTf+/gtU8hNKwFfGVx9m1gZNBXlAORzyw51zhZfA6PUn+mcooUPgHvy4UZDSu7UC/fyYKhoOioXGedc3tnPiHnHSVepQNbptbumEUBr+im9oyQQ/nkaWUiOUsDTFbOawBjNP7b9KBBA26g/hQQhLQBkInY0GjGsdpRSJqsSe5N6jSJ/vhYO3Q9WVpn3aeAJ+Z0vPKlBX4UG7BJ6hx1ULz/HSi6EO1oPjAaauA3IlBNM3JHE=;5ttIUXY2hpCN78ffOHPm2g=="
 ---

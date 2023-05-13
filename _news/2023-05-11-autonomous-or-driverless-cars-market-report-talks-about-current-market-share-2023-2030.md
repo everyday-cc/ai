@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/autonomous-or-driverless
 webUrl: "https://www.marketwatch.com/press-release/autonomous-or-driverless-cars-market-report-talks-about-current-market-share-2023-2030-2023-05-11"
 type: article
 quality: 61
-heat: 131
+heat: 141
 published: true
 
 provider:
@@ -132,6 +132,20 @@ related:
       - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?106671"
         width: 444
         height: 250
+        isCached: true
+  - title: "UK to roll out first driverless bus service"
+    excerpt: "The UK will roll out its first driverless bus network in Scotland next week with drivers on standby behind the steering wheel, ready to take control should an emergency arise. The service,"
+    publishedDateTime: 2023-05-13T03:28:00Z
+    webUrl: "https://technology.inquirer.net/124026/uk-to-roll-out-first-driverless-bus-service"
+    type: article
+    provider:
+      name: Philippine Daily Inquirer
+      domain: inquirer.net
+    quality: 39
+    images:
+      - url: "https://technology.inquirer.net/files/2023/05/Driver_Stuart_Doidge_monitors_an_autonomous_bus_as_it_drives_across_the_Forth_Road_Bridge_between_Edinburgh_and_Fife_during_a_press_preview_for_the_CAV_Forth_a_bvXSMR84YoEl-620x413.jpg"
+        width: 620
+        height: 413
         isCached: true
 
 secured: "KgWZmyfuqXtt71Jt/L5RpbZ/ScummE6gMDkbWtZg+DMVHsUoB/4RQzJzbOR2zqfmaX3ExZEgH3yPnE4cDyD7/Fl3CFjxdsEpmKHadTE73g4c7uF0bYTF3eNSPnlfg/xSCIutokRe8JeHICTzbySCghVUv88F6jT9HdQIqgI17DpesUhd5QvKMb0eGpWCP1Gm5X9HbgjiJ25iQWddkeaJLlpY9LPXjcXz74SrmELm6EbJt3zHEPtDplK5qv/9tadH2+gsTJTozRpShMwrlzNxPQ7yAqIJl+eE9RxCn7HXVEDw87GKE9k+JNVqAZj+0klsAvuhcH/6lIKaonfjaaTEn7ue/CfOkeF+5BxIjHdcxOM=;lHhgMJIUcxRt2zFZWJZXCw=="

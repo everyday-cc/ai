@@ -6,8 +6,8 @@ publishedDateTime: 2023-05-12T17:54:00Z
 originalUrl: "https://www.biometricupdate.com/202305/rank-one-facial-recognition-reaches-4-west-virginia-school-boards"
 webUrl: "https://www.biometricupdate.com/202305/rank-one-facial-recognition-reaches-4-west-virginia-school-boards"
 type: article
-quality: 19
-heat: -1
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -17,6 +17,12 @@ provider:
 topics:
   - Computer Vision
   - AI
+
+images:
+  - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/04/02114722/3025CDA7-1DB4-4909-AEBF-E13BC58EA9D8.jpeg"
+    width: 1021
+    height: 729
+    isCached: true
 
 related:
   - title: "Smart fitness studio in Virginia enables artificial intelligence"
@@ -38,6 +44,6 @@ related:
       domain: foxbusiness.com
     quality: 14
 
-secured: "4HEq/LnhL1qf0I+0L+8siqmB8wJFxk9y9jGMtQjbRPd1yXR5rHAfzSUBauZ3wUhj+MDv3u608w5cL1XF4EszRmmzbpMdRG/xRKflRxXRsngwpgSCPt24hT6AS/SAMMArpm6ASRFiphO+57rz5jhKeC59q3LGEaU95QSsC+0KXVuBhvv6YVkFc4ByvpkoQwKuKDwrj0bc+fl3rrAOGon8PZlUJ24LahFuzO9jY2rPjPGvq2V6+uJgZLgPAS2Hee+Ot+qvaSFbVfD9PclZWXon2ZyJ6I/z8oibjAY5Rbm3SJQb/+YJB17B15g5/vgfHM/jrJPH+E2sAFnYjZQnefbH+hPZ3ktgZ6UKaFxWyG8pZ44=;4ahGjMaLYghCj2se7s5Irw=="
+secured: "e6+wfNagnLLpTzpY7Vf8/tr7NGaZs4REIR5Q2AHZQe9TV6eeXtqFwKcFVFIaLyOvVNOcNY+NjyIjC/xvhtelp2XlzzaB+D09VvyYHCDOaSgSYiYP+X4AOgfffQ4Tl9vOI58RL8PHyMjMTes2S1mlZ8SBfPzB2HB9mqxltznLQuLM4ARv8kSpS1W+GZ3SkWU2iiGfD7VepvgPiak9Yxu2JqYT6KpZWHSu0crXzkre79TRTYmA/bg2thl5+lInFmOi8JdsFmDYKAIRlzxoPlXOUxv20+ip1nelkhh63rU1+FoJHEkssPBXIaMPz47ZFBWZubLqNJfEaqY8IhLdbETGmVRwUW5J+eO3q4WbtQZJki0=;uI8kCF7Xaf0OqizkNwgSjA=="
 ---
 

@@ -53,6 +53,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Video Analytics and Artificial Intelligence Market"
+    excerpt: "Precision Reports has published a new report titled as \"Video Analytics and Artificial Intelligence Market\" by End"
+    publishedDateTime: 2023-05-12T04:38:00Z
+    webUrl: "https://www.marketwatch.com/press-release/video-analytics-and-artificial-intelligence-market-2023-05-12"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 67
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AI and advanced analytics drive sustainability and efficiency"
     excerpt: "City of Istanbul and Wienerberger Group reduce emissions and optimize operations with SASORLANDO, Fla., May 9, 2023 /PRNewswire/ -- SAS INNOVATE"
     publishedDateTime: 2023-05-09T18:26:00Z

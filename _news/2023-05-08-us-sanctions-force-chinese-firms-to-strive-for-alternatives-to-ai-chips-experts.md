@@ -39,20 +39,6 @@ related:
         width: 1024
         height: 768
         isCached: true
-  - title: "Chinese think they can do AI with weaker chips"
-    excerpt: "Avoiding US sanctions  While the US thinks that it can delay China's rise in power by forbidding the sale of high powered chips to the Middle Kingdom, it seems that is doomed to fail. According to a report from the Wall Street Journal,"
-    publishedDateTime: 2023-05-08T10:41:00Z
-    webUrl: "https://www.fudzilla.com/news/ai/56847-chinese-think-they-can-do-ai-with-weaker-chips"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 54
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/213f473a5cd1c97e9ee0f7bcc7d4bde7_L.jpg"
-        width: 620
-        height: 465
-        isCached: true
   - title: "Chinese firms to seek AI chips alternatives"
     excerpt: "THE US government's intensifying chip sanctions against China have forced Chinese firms to search for alternatives to advanced chips used in cutting-edge artificial intelligence (AI) and could even offer a new opportunity for Chinese firms to take the lead in the emerging technology,"
     publishedDateTime: 2023-05-09T14:06:00Z

@@ -18,98 +18,61 @@ topics:
   - AI
 
 related:
-  - title: "How 4 startups are using AI to solve climate change challenges"
-    excerpt: "These startups are using AI to decarbonize buildings, create sustainable agriculture, protect biodiversity, and remove carbon from the atmosphere."
-    publishedDateTime: 2023-05-08T11:00:00Z
-    webUrl: "https://blog.google/outreach-initiatives/entrepreneurs/how-4-startups-are-using-ai-to-solve-climate-change-challenges/"
-    ampWebUrl: "https://blog.google/outreach-initiatives/entrepreneurs/how-4-startups-are-using-ai-to-solve-climate-change-challenges/amp/"
-    cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/outreach-initiatives/entrepreneurs/how-4-startups-are-using-ai-to-solve-climate-change-challenges/amp/"
+  - title: "New ways AI is making Maps more immersive"
+    excerpt: "With advancements in AI, there are new ways to understand your route with Maps. Plus, new immersive tools for developers."
+    publishedDateTime: 2023-05-10T17:07:00Z
+    webUrl: "https://blog.google/products/maps/google-maps-updates-io-2023/"
+    ampWebUrl: "https://blog.google/products/maps/google-maps-updates-io-2023/amp/"
+    cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/maps/google-maps-updates-io-2023/amp/"
     type: article
     provider:
       name: Google
       domain: blog.google
     quality: 109
     images:
-      - url: "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Screenshot_2023-05-07_at_10.25.22_PM.width-1300.png"
+      - url: "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ROUTE_PREVIEW_DEMO_STILL_mV5TVdi.width-1300.jpg"
         width: 1300
-        height: 708
+        height: 513
         isCached: true
-  - title: "AI And Modern Workforce Challenges"
-    excerpt: "The global workforce should expect big changes over the next decade, and I believe humans will lead those changes."
-    publishedDateTime: 2023-05-10T14:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/10/ai-and-modern-workforce-challenges/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/10/ai-and-modern-workforce-challenges/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/05/10/ai-and-modern-workforce-challenges/amp/"
+  - title: "Tracking Generative AI: How Evolving AI Models Are Impacting Legal"
+    excerpt: "A running compilation of how the legal landscape continues to be shaped by generative AI tools, from GPT technologies to art generation tools and beyond."
+    publishedDateTime: 2023-05-09T16:30:00Z
+    webUrl: "https://www.law.com/legaltechnews/2023/05/09/tracking-generative-ai-how-evolving-ai-models-are-impacting-legal/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
+      name: Law
+      domain: law.com
+    quality: 41
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/645a72f2a9a3d1f35644914e/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/01/Numbers-Artificial-Intelligence-767x633.jpg"
+        width: 767
+        height: 633
         isCached: true
-  - title: "White House challenges hackers to break top AI models at DEF CON 31"
-    excerpt: "On Thursday, the White House announced a surprising collaboration between top AI developers, including OpenAI, Google, Antrhopic, Hugging Face, Microsoft, Nvidia, and Stability AI, to participate in a public evaluation of their generative AI systems at DEF CON 31,"
-    publishedDateTime: 2023-05-08T16:42:00Z
-    webUrl: "https://arstechnica.com/information-technology/2023/05/white-house-challenges-hackers-to-break-top-ai-models-at-def-con-31/"
-    ampWebUrl: "https://arstechnica.com/information-technology/2023/05/white-house-challenges-hackers-to-break-top-ai-models-at-def-con-31/amp/"
-    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/05/white-house-challenges-hackers-to-break-top-ai-models-at-def-con-31/amp/"
+  - title: "Tracking Generative AI: How Evolving AI Models Are Impacting Legal"
+    excerpt: "A running compilation of how the legal landscape continues to be shaped by generative AI tools, from GPT technologies to art generation tools and beyond."
+    publishedDateTime: 2023-05-10T23:54:00Z
+    webUrl: "https://www.law.com/legaltechnews/2023/05/10/tracking-generative-ai-how-evolving-ai-models-are-impacting-legal/"
     type: article
     provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 87
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/05/cyber_whitehouse_hero_2-800x450.jpg"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "Are Alternative Investment Firms Becoming Over-Reliant On AI To Solve Their Cyber Challenges?"
-    excerpt: "Organizations must strengthen their first line of defense by taking a more holistic approach to threat prevention."
-    publishedDateTime: 2023-05-12T10:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/12/are-alternative-investment-firms-becoming-over-reliant-on-ai-to-solve-their-cyber-challenges/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/12/are-alternative-investment-firms-becoming-over-reliant-on-ai-to-solve-their-cyber-challenges/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/05/12/are-alternative-investment-firms-becoming-over-reliant-on-ai-to-solve-their-cyber-challenges/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 76
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/645ce8924885ffd3982796e1/0x0.jpg?format=jpg&crop=2144,1206,x871,y0,safe&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "White House announces measures to address challenges of AI"
-    excerpt: "The White House has announced a series of measures to address the challenges of artificial intelligence, driven by the sudden popularity of tools such as ChatGPT and amid rising concerns about the technology’s potential risks for discrimination,"
-    publishedDateTime: 2023-05-08T17:27:00Z
-    webUrl: "https://www.tvcnews.tv/2023/05/white-house-announces-measures-to-address-challenges-of-ai/"
-    type: article
-    provider:
-      name: tvcnews.tv
-      domain: tvcnews.tv
+      name: Law
+      domain: law.com
     quality: 39
     images:
-      - url: "https://www.tvcnews.tv/wp-content/uploads/2023/05/download_53_600x400.jpg"
-        width: 600
-        height: 400
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/01/Numbers-Artificial-Intelligence-767x633.jpg"
+        width: 767
+        height: 633
         isCached: true
-  - title: "Doctors are using AI to draft messages without telling patients"
-    excerpt: "US healthcare organisations are trialling OpenAI’s GPT-3 for drafting clinician messages to patients. But not all patients are being informed and some AI researchers warn of errors creeping in"
-    publishedDateTime: 2023-05-09T05:00:00Z
-    webUrl: "https://www.newscientist.com/article/2372025-doctors-are-using-ai-to-draft-messages-without-telling-patients/"
+  - title: "9 Ways AI Can Make Your Life Easier"
+    excerpt: "Artificial intelligence (AI) isn’t just a buzzword or a futuristic concept anymore. It's a complex technology that's already transforming our daily lives, making them easier, and more efficient. Here"
+    publishedDateTime: 2023-05-12T15:09:00Z
+    webUrl: "https://www.benzinga.com/general/23/05/32366652/9-ways-ai-can-make-your-life-easier"
+    ampWebUrl: "https://www.benzinga.com/amp/content/32366652"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32366652"
     type: article
     provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 37
-    images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2023/05/05201935/SEI_154719026.jpg"
-        width: 1350
-        height: 900
-        isCached: true
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 39
 
 secured: "9Kbps95kBTPinUxmIkwPChHYnxc/NA5Up2rwNjroxH86gkSB1YOXdvBoJLRapWoiKhVK1sckLE3LRDSRx948dUYrZqYz0U5Cxud4qYGmym5kuTBRNOrNixRyuudJJQQsFOWdXP1UsFRxoXICciNuNXjuborRkNd5imBTgKQ30XTw8EWhpapsoG75IVKL66w2fK0y/GaiVHX4zY1UHEXWU7N7MCRwaxGKpC7fMHLlzsaDF4LJNk67/zIhy82L9wpsNNkVYvV3jJVoRwtMiQ2Cm2FDjLi40SvaZdoyaAxfGblXOEnkEqzSfrfpt0fhcitJXzphhG+EeyZdpztM9wuLzFYQPjjwnuFCaCDEY0cH/fDO8k5+xdttGW/1Ydp9UPqsBPr2VqR8mcU0I8jE9OQAgJJQnEgruVbEfrpNYDY9GmIpjjKc9ENJdXl0XWDMhSyTF0UiHFVQNXcwUvunDNHXkMO4JCrbEw52iRk3BFVdqnpqjI6pG/QTJiuyjXeNPorUikRgaCJJAds0h6BupiGg9A==;Xzk4EhS13aWHvMLoMvzEug=="
 ---

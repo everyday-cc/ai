@@ -2,9 +2,9 @@
 category: news
 title: "Media Alert: BrainChip Showcases Edge AI Technologies at 2023 Embedded Vision Summit"
 excerpt: "The Embedded Vision Summit attracts a global audience of technology professionals from companies developing computer vision and edge AI-enabled products including embedded systems, cloud solutions and mobile applications."
-publishedDateTime: 2023-05-10T16:48:00Z
-originalUrl: "https://it.tmcnet.com/news/2023/05/10/9811798.htm"
-webUrl: "https://it.tmcnet.com/news/2023/05/10/9811798.htm"
+publishedDateTime: 2023-05-10T16:31:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2023/05/10/9811798.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2023/05/10/9811798.htm"
 type: article
 quality: 12
 heat: -1
@@ -29,6 +29,6 @@ related:
       domain: design-reuse.com
     quality: 21
 
-secured: "2mN4wVoPbFssPLg9rl/cs/PLtnPYJ6phHn/zPY0a7VYaxlrmtwJ/zldyB/jafka2NKtGTiD7UhVbw/QKk0zlgV9Gzn2VeYjzDFCZ1tW2aN8F3Dzo/KkH+X0/+EoGo9yeGmw1Ogts0J1AC/XLrKt4lz5PvbZ4vQO/IFjbQC+uBjFOQM5UvgH4+g1w+MCFiqne0xkb8/rlnx9EVxEYy/BpXeTj0FS/bMTtKO2bnAlojt4AzCFM9cMsBoSCAer7g+O+PFAnRYD/0NAmCNCaZhGcdJkNv8KnK60us/pcKW9chpILih03hxOskdkKDfCAAHfEXP7r9PtDSdf4z5TgLrhHoaZpkSXRfKjNMxyHpbEVIuI=;1CNuYBjdW9iJPFQ64Yhx/g=="
+secured: "AISY+iCowerE9VA4yLvDWYoXr7E82eL+hU+Rw0Kl+DBQJSODFxvsKRfb2hrrx+5ozNXeSA6gL+v/st5Dz6pviK3v0/giUHJRsb4h/pFXnwSs+g1QBT9jK6QlHuVcGAXjhQDlnR4fnQyZ96XDjzdOvKNuVEaruWiNDY3aoJxZqoHdSXImnO9PhduK8zhJXl0Vo9hTuiGSl8kfrLuwa7gnszX7wg5VwpZr32hE1M8Y9FPJ5UHESMxXNxA5LQEf1drbCHPKLesVOyNGlHhszGhYEP5b59HDZ4hlRzejIuAisAbAgBpOfM70EHH63AYDR4VQX1yUJSmHlJsvS6qP3Gwp6X3CHVeMUK1YrYoiScnxDjU=;opt93M7kYSYhEYSHAfNzmw=="
 ---
 

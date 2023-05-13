@@ -7,7 +7,7 @@ originalUrl: "https://www.foxbusiness.com/technology/smart-fitness-studio-virgin
 webUrl: "https://www.foxbusiness.com/technology/smart-fitness-studio-virginia-enables-artificial-intelligence"
 type: article
 quality: 19
-heat: 19
+heat: -1
 published: false
 
 provider:
@@ -27,7 +27,12 @@ related:
     provider:
       name: Biometric Companies
       domain: biometricupdate.com
-    quality: 19
+    quality: 39
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/04/02114722/3025CDA7-1DB4-4909-AEBF-E13BC58EA9D8.jpeg"
+        width: 1021
+        height: 729
+        isCached: true
   - title: "Smart fitness studio in Virginia uses artificial intelligence to curate workouts"
     excerpt: "A fitness studio in Virginia called The Exercise Coach has enabled artificial intelligence to help people work out in an efficient and effective manner."
     publishedDateTime: 2023-05-08T18:27:00Z

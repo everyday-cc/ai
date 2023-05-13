@@ -3,8 +3,8 @@ category: news
 title: "End of the Billable Hour? Law Firms Get On Board With Artificial Intelligence"
 excerpt: "New products using GPT-4 could change the financial dynamics of the legal business, which bills for the many hours spent on complex, time-consuming tasks."
 publishedDateTime: 2023-05-11T14:00:00Z
-originalUrl: "https://www.wsj.com/articles/end-of-the-billable-hour-law-firms-get-on-board-with-artificial-intelligence-17ebd3f8?mod=latest_headlines&autoplay=false"
-webUrl: "https://www.wsj.com/articles/end-of-the-billable-hour-law-firms-get-on-board-with-artificial-intelligence-17ebd3f8?mod=latest_headlines&autoplay=false"
+originalUrl: "https://www.wsj.com/articles/end-of-the-billable-hour-law-firms-get-on-board-with-artificial-intelligence-17ebd3f8"
+webUrl: "https://www.wsj.com/articles/end-of-the-billable-hour-law-firms-get-on-board-with-artificial-intelligence-17ebd3f8"
 type: article
 quality: 64
 heat: 64
@@ -27,6 +27,6 @@ images:
     height: 640
     isCached: true
 
-secured: "i65GHLgWYqu1pR7dY1aryaV7/YOqWXe93d8w5AoENgqUkUmVlLUnzCpzq1YozfE0DFgdlkQ8V6LZNDKxFsHf2zLl5IVIw2//fySpDr/9JH8KmSqbwQ8c9F/AHNRIqmnUA4xq0uS9E9WDC2tLM7LElFS+TsIhhppYTRzeEfvIulAwEz+F4L6il+yW3DLltJhOadxky/x6OgN0rlCJMrQtk61F/3CCwZdkKB3B32aNU18/NTa5jF8D0zXO9k3sANCqg22AP9p9/BRagc6AJMEcii8zkrCYT9yd9qqryzY+6XOMlOVVjbzmGsc2tRobbvrgz+mZNrnWlwPVZj16YEZLK8LIOIrn77sjXz9UIMinU101xGeTk61jv3rRkPART7UkJCEobJI10hlVgJUw1A6on3nhpN91sFEvoCQuqqma3lJJMfyyYxrR7/ER/3g4DgXO3v/ye77wHQ/uL7PWqfPGnzNTlmoh/r8/ji/xetq053j16OhbQwdciuaNz8SBsbQxGuCa5EFfUi+Ee0Whf3nQdw==;6ZhUKecsPBelqbL+3pWTxg=="
+secured: "zet7BdskAT+ZKs3tGpvTo3BUkLcOEh77pw6LTUHPubxdZY/2S/jHI0xk+GySCJcEiAP58OSCF9cuJzF/Sl5Xa4Bczf1NVqIOcI9BLXiSQWgAjBwzPHb75Owmm5hv3Pm7/DcLe8EiQHI2nOJAAxL4loHaqmhVxmzPwBfOnbqTBVdKE8UakgqNoqHJiLODUO7NBtUmdL2Slfvt1zhuuMet4+1ie1XbM0QQp1PyuUuwtv1R8b8xRTifmeaCr4UsUklxIoyBPXKCGTqtaNKy3lDhXq6joYkHWut9c8Dj3bL26wIGMYagsI10sdf5df+x7VOeVlyErFGS86R0c7j3n/o6s1WgV5xsd7ShV6kEjoL4b84=;lFN1iDWoKHP32ODAfttGDQ=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/tech/how-this-safe-browsing-feature-is-using
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/how-this-safe-browsing-feature-is-using-ai-stay-ahead-scammers.amp"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -41,7 +41,21 @@ related:
       name: KRIV
       domain: fox26houston.com
     quality: 35
+  - title: "AI is coming for Hollywood scriptwriters – this is how they are going to do it"
+    excerpt: "Artificial intelligence mashups of Lord of the Rings, Pixar and Wes Anderson are amusing novelties, but how long before the robots are generating whole screenplays – and can we be sure they’re not already?"
+    publishedDateTime: 2023-05-12T14:46:00Z
+    webUrl: "https://www.theguardian.com/film/2023/may/12/ai-artificial-intelligence-generating-screenplays"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 33
+    images:
+      - url: "https://i.guim.co.uk/img/media/5faeb2d2a06b9896f4b6067b8a33d2ba0853b144/0_188_5007_3005/master/5007.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fe2384fb22b167c863cc1e049ef71ecf"
+        width: 1200
+        height: 630
+        isCached: true
 
-secured: "ze9yROCRPhfVLC3AsVjLhy4RXDk38yDfvsYfg2TnkVAch+bgCXueFkMV3Zri1giivz2VF95zdav+RxmxUUhJ7TzrDpi3dzyIrzsOZbAFeCLWu5HQszN8x1xrtanKHssrlWWmiRajkNwDTrJw0LSBtZp08jjZpXPrmQPG9XVEwhIEshaLJmUVHO+QdHmw0WI6/vNCZa8i9jqDVDXG/OGQz8KBTO7SD8pUBZj3NBnIf+mtoN1bojygfg5nEoxuZjN0nu/4glIvgzUNG099eiqu5iEQWq3cHJZebK3C+cTAsCcG9njga3rF7Ya3ULQ+NPeWMFrSkqmSRmvZGZsEhvNKaSIEI2msfwJIBUI2gRpMQLs=;5rmXz1ukOTEEttcpyghF5g=="
+secured: "IG7CO57fjroBV66LUN2cbUAJ5bxYyBaJwHCgk9NVTUL0X8tJuU4JLhi9XjxgdDMsH6iXLCsC/3hjn3S9SbhcyFCLV07kl65yJoZzS/bKzSLX4ds371pWCty1NBf2Xx0lu0ESau8nG3GR9DDLEybYwcZVKHtWY5pGbeefwe33Go0piZlSGtlJEn1iXHDNVxv72A/ZwmbfwS0UZKaYzaKcDuU4mLxH/HMdko3+kHB8THA+tOvNEduyps2OBWtxpXJ92wPJuii7HV7pfZ8BKkmGPMiyjyoauHITBr3JkbK1QKh/ZXNajbWHwtd97xlv0SGVNk4CmaTAA9VmAlmKxOi7RaKhzrGA+dHDMgetAsgKZEKyViwTWOruu7+Er1UE7O5kBLUIvmigVfKqOfFe2HI542G2tcrbkxGJuekTwBDAWtn9sv71MTDqVgviwEoNZ9oRym3Y4XH4vIHxvysxYsUIqxyrNJn1REhTX7a37Gv5o8DWs+YekEIkCbNkwL1ljkWl2nxs6G/AxinVtqkBAevCYw==;h4KHnXGG1iXp+ET2jN0tkw=="
 ---
 

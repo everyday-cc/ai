@@ -1,26 +1,32 @@
 ---
 category: news
 title: "SymphonyAI announces strategic collaboration with Microsoft Azure AI for generative AI"
-excerpt: "SymphonyAI introduces Sensa Copilot, a vertical application that integrates Microsoft Azure OpenAI Service and Azure Cognitive Search to drive"
-publishedDateTime: 2023-05-09T12:30:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/symphonyai-announces-strategic-collaboration-with-microsoft-azure-ai-for-generative-ai-1032305943"
-webUrl: "https://markets.businessinsider.com/news/stocks/symphonyai-announces-strategic-collaboration-with-microsoft-azure-ai-for-generative-ai-1032305943"
+excerpt: "SymphonyAI announces strategic collaboration with Microsoft Azure AI for generative AI May 09, 2023 (PRNewswire via COMTEX) -- PR Newswire PALO ALTO,"
+publishedDateTime: 2023-05-09T10:30:00Z
+originalUrl: "https://www.marketwatch.com/press-release/symphonyai-announces-strategic-collaboration-with-microsoft-azure-ai-for-generative-ai-2023-05-09"
+webUrl: "https://www.marketwatch.com/press-release/symphonyai-announces-strategic-collaboration-with-microsoft-azure-ai-for-generative-ai-2023-05-09"
 type: article
-quality: 71
+quality: 91
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
+  name: MarketWatch
+  domain: marketwatch.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Microsoft AI
   - AI
+
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "AMP Robotics attracts investment from Microsoft’s Climate Innovation Fund"
@@ -321,22 +327,6 @@ related:
       name: The Buffalo News
       domain: buffalonews.com
     quality: 57
-  - title: "MakeMyTrip ties up with Microsoft for voice-assisted bookings in Indian languages"
-    excerpt: "Initially, a select group of MakeMyTrip users will have access to the voice-assisted feature in English and Hindi."
-    publishedDateTime: 2023-05-08T09:55:00Z
-    webUrl: "https://www.livemint.com/companies/news/makemytrip-ties-up-with-microsoft-for-voice-assisted-bookings-in-indian-languages-11683538682166.html"
-    ampWebUrl: "https://www.livemint.com/companies/news/makemytrip-ties-up-with-microsoft-for-voice-assisted-bookings-in-indian-languages/amp-11683538682166.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/makemytrip-ties-up-with-microsoft-for-voice-assisted-bookings-in-indian-languages/amp-11683538682166.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 54
-    images:
-      - url: "https://www.livemint.com/lm-img/img/2023/05/08/600x338/2-0-484082893-makemytrip-5-0_1680774306608_1683539479338.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Microsoft confidence in UK less 'shaken' as it invests in AI startup"
     excerpt: "Days after slamming Britain as no country for tech businesses, Microsoft Corporation (NASDAQ:MSFT) has invested in a UK artificial intelligence"
     publishedDateTime: 2023-05-10T14:30:00Z
@@ -462,6 +452,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "RoXj+OXhyRJJoctv3L1W+4SGXp5548sDhPY8fYddt6xtaFWtBTjfz/KuL5iyOLU7xQ1K7fkN61IArEvQBvywR6+yGUXL5F3yw9xJehs9YGUsHqgdkFxhGqVKwB6lsUWgOXjLL8lTyZENoF8QuOu8qPWA72iq4ENZBFQjyCirQr/xrJkcrkmDnamQTy8Advfi2vxvFmcu1xFm2/vxdreILtXHOL1tLLvFzwTvZnkuKODQoeJTbweSw4JBntIUptgdW9avZLVFpKfPXddIi3tCjXEVoThbWCcfiI+0kC9C/KNT0uGDfzzU2um6zrQ4sCCwAia1lyLT/8Xl1tuXYGM4Axd3VcUd57MJKj2S90iUFWg=;pxHB5CHYaEdUM6QYWLQqJA=="
+secured: "w4ilNZu/YRQ1XE1xkXK/0S0BmjYJ1ZWdK9A46XTfpMH68H6IcMIdmwmFcCJ8d4MRzVy4lSVm3XPrVxa63kZCMsKN3Fx2ratFQDAWsqkcYxRo1/ckXSA8PDbIzOHDEVFLpt719lOdVa7KPPx8z9wRJpFw+f2d9OD20YDOfNmXhrkTS7iqZtgKgtV8NnrvROxPxFkL4Sw7sSPjopbF8BoCd6Dc0QVEGpgFyHCHJxnfG6zC+hdQLRBVBbK+Xcrd2YICJ3Kad8/+uQRBdwUgDSCdE582zYSIWHu7Ba4C9r8m1v6A5etTHSYTbUZjT2+KDE+7Gj9mgyq4ppHqdHIChMSryfVdAktotE5M1zkTK/3G5I4=;1wtRRgXKk0NaSOjcxlodfg=="
 ---
 

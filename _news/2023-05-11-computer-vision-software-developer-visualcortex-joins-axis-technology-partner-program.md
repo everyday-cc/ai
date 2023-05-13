@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Computer Vision software developer VisualCortex joins Axis Technology Partner Program"
-excerpt: "VisualCortex joins Axis Technology Integration Partner Program to deliver computer vision software and video analytics solutions to Axis Communications' global network of customers and partners across 50 countries"
-publishedDateTime: 2023-05-11T07:15:00Z
-originalUrl: "https://www.asiaone.com/business/computer-vision-software-developer-visualcortex-joins-axis-technology-partner-program"
-webUrl: "https://www.asiaone.com/business/computer-vision-software-developer-visualcortex-joins-axis-technology-partner-program"
+excerpt: "VisualCortex joins Axis Technology Integration Partner Program to deliver computer vision software and video analytics solutions to Axis Communications' global network of customers and partners across 50 countries SYDNEY and LUND,"
+publishedDateTime: 2023-05-11T05:35:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-computer-vision-software-developer-visualcortex-joins-axis-technology-/2023/05/11/9812159.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-computer-vision-software-developer-visualcortex-joins-axis-technology-/2023/05/11/9812159.htm"
 type: article
 quality: 32
 heat: 32
 published: false
 
 provider:
-  name: Asia One
-  domain: asiaone.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://media.asiaone.com/sites/default/files/styles/article_main_image/public/original_images/May2023/image_5019313_7056565_0.jpg?itok=vDP3siK7"
-    width: 599
-    height: 337
+  - url: "https://mma.prnewswire.com/media/2074639/image_5019313_7056565.jpg"
+    width: 400
+    height: 225
     isCached: true
 
-secured: "Ji0silX3PpLoMD7TWgZkVnJeNS23d16E4ogs3JYklaaFwPlQDN6qiKTdHKzcbVAgeCHjD30BYViVWDnRd7wIFS3pkTENzl29gXFCqBAJX/aKDDcbN47JZ3yoPnhcsmOinBYtMXct4DLht8YMUkYJgM0thYUp+vicW5JYhcl477kjs8PxmOa6iKfT6l1Qvpjr5fT9b6bGBHMPfQacw5b+RbDY5v/+GTSQxZwQIGhlsFJaynN1k5hk1J9pT5hTErfhbm4UzmE2vKldLe0F03lmnD0FmvigIrXnop9F1WzqroH6HPRg6NVAWZ+obhhCPFht6wVxYNBhXVdWsVLuoKzV4U/ljem1l6OTogWQW0iq0X3ie1XTuWnAlTVc3894aRRjCFrRZDYBXpgOhhkLoxU9Z05UPEHcAmYkCP3uZquc+B9VNQ70CB/g88xKdZo/M84vUiEWxAloko6AJeb0zwkRC7ZOKPogVuFgdcWYT0lKSMaAsC/cFvs2Bi7yg798c+JpPKXaA+QR8ns/TFC9ZHc+4w==;m+ufbnBXVRLDa3zuHVIjMg=="
+secured: "zKc3NrfMvDo6rjq8wIeO1c5hS2rHG2WjVEYxLeAj/h0D8MmnbQr0rUsrMJXcJ0ngWXRtij4m/q28rye6W1uQGA1hajd5cb4idBeCn8YUqHs9cK55Y3QopnD6NcNcqGO2zo2RJxkArNBDILXNYJpMInnWkqodEd+SCwgcZU5VwNvoAAKPVYyh9QRsIDyUH+hzLSsPVLMBe3M07qd6lS6g5vbbKUF0Dhif2VDdzyd2qUTwGthXesFeU4PYkzWU90O/765evmzcZ3WajXFLIRBqZGmfG1SL8UTBZO3df5vL1Z31uyAp1+AbwLMfMdEn5FyJs4/5/ODYR7klEbXJj03kyX0QIu5ZfdKKuz0mn+f2EbM=;jbRFLQkzLuEVfxnehvGRYA=="
 ---
 

@@ -24,10 +24,10 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "Natural Language Processing For Healthcare And Life Sciences Market Projected to Show Strong Growth by 2030| Microsoft, Google, IBM, 3M"
-    excerpt: "The Global Natural Language Processing For Healthcare And Life Sciences Market research report gives an essential outline"
-    publishedDateTime: 2023-05-08T10:16:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-for-healthcare-and-life-sciences-market-projected-to-show-strong-growth-by-2030-microsoft-google-ibm-3m-2023-05-08"
+  - title: "The Natural Language Processing (NLP) Software Market is Poised to Experience Huge Growth to 2023"
+    excerpt: "Natural Language Processing (NLP) Software Market Size 2023 | New Report (120 Pages) | Analytics | In This Reports"
+    publishedDateTime: 2023-05-09T06:53:00Z
+    webUrl: "https://www.marketwatch.com/press-release/the-natural-language-processing-nlp-software-market-is-poised-to-experience-huge-growth-to-2023-2023-05-09"
     type: article
     provider:
       name: MarketWatch
@@ -38,20 +38,38 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Face Recognition Paper Picker Market Projected to Show Strong Growth by 2030|Sunpn, SVAVO, Shikoku, Kimberly-Clark"
-    excerpt: "The \"Global Face Recognition Paper Picker Market Report 2030\" offers a clear understanding of the subject matter. The"
-    publishedDateTime: 2023-05-08T11:33:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-paper-picker-market-projected-to-show-strong-growth-by-2030sunpn-svavo-shikoku-kimberly-clark-2023-05-08"
+  - title: "Cloud Natural Language Processing Market Growth 2023-2030"
+    excerpt: "May 09, 2023 (The Expresswire) -- \"Cloud Natural Language Processing Market\" Insights 2023 By Types ( Rulebased Natural Language Processing,"
+    publishedDateTime: 2023-05-09T21:33:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cloud-natural-language-processing-market-growth-2023-2030-2023-05-09"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 47
+    quality: 69
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
+  - title: "Natural Language Processing (NLP) Software Market"
+    excerpt: "Precision Reports has published a new report titled as \"Natural Language Processing (NLP) Software Market\" by End"
+    publishedDateTime: 2023-05-09T07:25:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-software-market-2023-05-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 64
+  - title: "Natural Language Processing (NLP) Market To See Huge Growth By 2030 | Dolbey Systems, Google LLC"
+    excerpt: "Coherent Market Insights recently published a research titled \"natural language processing (nlp) market 2023\" that offers details for both the regional and worldwide markets and forecasts trends between 2023 and 2030."
+    publishedDateTime: 2023-05-12T13:24:00Z
+    webUrl: "https://menafn.com/1106233138/Natural-Language-Processing-NLP-Market-To-See-Huge-Growth-By-2030-Dolbey-Systems-Google-LLC"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 21
 
 secured: "bPzVptt0O48lsODdZJatw625WwCuuST1MGHsWx7mxlxAAhNaFzD056xItOvHm8grxy9211TpxtWZv8z+Xwkta14dQnSYgVSRcM1LTLM564VZjNMwjUq6kZ25tIGwMyUrEVBmziVY9E0cYCbysC7EiZEdUDLPD/xvZhTvI7mHkv2PhxnundvG1OUbVhtGfS9w+DGo40t1xkLb9GsaPF3Ohw7iq+cwH28lYgf27PT8QNOIlwmBf2xrsHLWqEEkNmDK0j2G/jAwiuTSIZzvByB6FQrrC9z8Fw9pukxeuK3IxVTDLcEhXgziHa01WI9x8oWn+3TYzPFc8EBoG7hZRWml2ua4QI75XHh+ssveLfHtMpI=;7qjvVA1I1GJacuyONpsrhg=="
 ---

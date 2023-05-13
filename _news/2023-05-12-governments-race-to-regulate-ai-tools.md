@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/video/watch/idOV167211052023RP1"
 webUrl: "https://www.reuters.com/video/watch/idOV167211052023RP1"
 type: article
 quality: 67
-heat: 67
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,33 @@ images:
     width: 960
     height: 540
     isCached: true
+
+related:
+  - title: "Hear Reddit co-founder’s response when asked if Government is equipped to regulate AI"
+    excerpt: "Reddit co-founder Alexis Ohanian joins CNN's Chris Wallace to discuss artificial intelligence and if the Government is equipped to regulate it."
+    publishedDateTime: 2023-05-13T03:02:00Z
+    webUrl: "https://www.cnn.com/videos/business/2023/05/13/alexis-ohanian-artificial-intelligence-government-regulation-ai-reddit-wallace-sot-contd-wtcw-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/business/2023/05/13/alexis-ohanian-artificial-intelligence-government-regulation-ai-reddit-wallace-sot-contd-wtcw-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/business/2023/05/13/alexis-ohanian-artificial-intelligence-government-regulation-ai-reddit-wallace-sot-contd-wtcw-vpx.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 80
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/230512224047-alexis-ohanian-wtcw-vpx-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "How Real People Are Caught Up In Reddit’s AI Porn Explosion"
+    excerpt: "As text-to-image generators become easy to build, use and customize, AI-generated porn communities are burgeoning on Reddit. But these synthetic sexual photos are built on non-consensual images of real people,"
+    publishedDateTime: 2023-05-11T10:30:00Z
+    webUrl: "https://www.forbes.com/sites/rashishrivastava/2023/05/11/reddit-ai-generated-porn/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
 
 secured: "gLPA0YjHTQlFTRp5PUwPOacH8AUh79wC5QvqEjW3uiT2L9A7GL1z3oe01dePwtfECInLo3UVDH3OFgxJ55WSCKqW19KGOZ5KsIuAHoOMHtivg75zwR8rYIVxNtNzo93mUd2vY7Lk7LEJ/f9Fk31/oIrW7gssR7YO3rK669fwrlPJeAJ+WjeDfT2bgTGlm2NG2twShMRek3GpfOECGwMaj02mK4ydRj+cfBORkmGxXAaO6xpMVqMbDOlPwr2Km6zYgHRMm65MdrJR0ZYmHdUVwiolOFFFypHgvmxnm7rrUleivmtu55K86gI4cybK0YpaXjFeIGAEUj85420jnP+jVGq37kpfNdqlLkxpqbCgfiM=;jyHD3PUqGqsCEhQpGJA1nQ=="
 ---

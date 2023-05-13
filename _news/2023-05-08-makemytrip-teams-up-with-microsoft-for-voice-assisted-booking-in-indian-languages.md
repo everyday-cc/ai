@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "MakeMyTrip collaborates with Microsoft, introduces voice assisted travel bookings. Details here"
-    excerpt: "The new platform will help in curating and booking holiday packages based on variable inputs like occasion, budget, activity preferences, time of travel, hotel reviews etc, based on the type of traveller the user is."
-    publishedDateTime: 2023-05-08T09:42:00Z
-    webUrl: "https://www.livemint.com/news/india/makemytrip-collaborates-with-microsoft-introduces-voice-assisted-travel-bookings-details-here-11683533784960.html"
-    ampWebUrl: "https://www.livemint.com/news/india/makemytrip-collaborates-with-microsoft-introduces-voice-assisted-travel-bookings-details-here/amp-11683533784960.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/makemytrip-collaborates-with-microsoft-introduces-voice-assisted-travel-bookings-details-here/amp-11683533784960.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 62
-    images:
-      - url: "https://www.livemint.com/lm-img/img/2023/05/08/600x338/AI_1683534039523_1683534039751.JPG"
-        width: 600
-        height: 338
-        isCached: true
   - title: "MakeMyTrip introduces Microsoft AI to make travel more inclusive, accessible"
     excerpt: "MakeMyTrip introduces Microsoft AI to make travel more inclusive, accessible - Leading online travel company MakeMyTrip said it has collaborated with Microsoft to make travel planning"
     publishedDateTime: 2023-05-08T11:37:00Z

@@ -66,6 +66,15 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 39
+  - title: "How Generative AI Is Changing Work"
+    excerpt: "Customer Service Jobs"
+    publishedDateTime: 2023-05-08T13:16:00Z
+    webUrl: "https://hbr.org/insight-center/how-generative-ai-is-changing-work?tpcc=orgsocial_edit&linkedin"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 17
 
 secured: "E5NzHlBtDeHmVpyRkHYbO6QdAk90+QePtfk5HuivURpK0qMI6eaWEmK90ezKqq6SCb/4qQYZmrMAsAyW8ULDNSEgEaiRT1prd77ihD1cmeq0PINPKsTDjgntejQKvxf2cTxaERsWJQEmueHP79mPrONM4kYpzRsBUdHyVdvgZ8j/U7oXaoHyaDRV1RBsTIcmbK4uo5HjGdYFbl9l6cZJR8qgBHpMY4wOyw1Xqhoo8hWPDxjWhOIxEsSQYgt/o6hVjZ9nEzapGGMEcRXGHBI31+lCJgN0l8p/HJFFTygokZ/qH1iPsjP154C7zVa+2hSU5bPIkNfKCnUZhHLgUytqZOpqHKegEfHwbFe2d06TyJDWz+Nza2qwvJlqq+OGWq4U0CqZRBjPtG70tfIu5RjiwEBf1KETO611SsdTLceYNsvMrDhIgSgN7uvTrXdpAq90l8y7q5RyWV/fuHEyGtWVgZv+ssBzRovJ+FBz3hTSwqXZaquNGDKUXhM0rz/Bsb0Wi+G1EnMlj2TiEM/Q7iLS3A==;Pr5COEMpl1OjU8mxusiRrA=="
 ---

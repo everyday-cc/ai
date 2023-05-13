@@ -7,7 +7,7 @@ originalUrl: "https://businesswest.com/blog/ai-promises-to-impact-the-workforce-
 webUrl: "https://businesswest.com/blog/ai-promises-to-impact-the-workforce-in-unexpected-ways/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,56 @@ images:
     width: 1920
     height: 1080
     isCached: true
+
+related:
+  - title: "AI And Modern Workforce Challenges"
+    excerpt: "The global workforce should expect big changes over the next decade, and I believe humans will lead those changes."
+    publishedDateTime: 2023-05-10T14:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/10/ai-and-modern-workforce-challenges/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/10/ai-and-modern-workforce-challenges/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/05/10/ai-and-modern-workforce-challenges/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/645a72f2a9a3d1f35644914e/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "White House challenges hackers to break top AI models at DEF CON 31"
+    excerpt: "On Thursday, the White House announced a surprising collaboration between top AI developers, including OpenAI, Google, Antrhopic, Hugging Face, Microsoft, Nvidia, and Stability AI, to participate in a public evaluation of their generative AI systems at DEF CON 31,"
+    publishedDateTime: 2023-05-08T16:42:00Z
+    webUrl: "https://arstechnica.com/information-technology/2023/05/white-house-challenges-hackers-to-break-top-ai-models-at-def-con-31/"
+    ampWebUrl: "https://arstechnica.com/information-technology/2023/05/white-house-challenges-hackers-to-break-top-ai-models-at-def-con-31/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/05/white-house-challenges-hackers-to-break-top-ai-models-at-def-con-31/amp/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 87
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/05/cyber_whitehouse_hero_2-800x450.jpg"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "US Federal Government CIOs Share Challenges And Insights Into Future Of AI And Technology"
+    excerpt: "At the GITEC 2023 Conference hosted in Annapolis, government CIOs shared some of their insights into where hot technologies like AI, but also less “sexy” technology priorities such as IT modernization and big data analytics,"
+    publishedDateTime: 2023-05-10T19:47:00Z
+    webUrl: "https://www.forbes.com/sites/cognitiveworld/2023/05/10/us-federal-government-cios-share-challenges-and-insights-into-future-of-ai-and-technology/"
+    ampWebUrl: "https://www.forbes.com/sites/cognitiveworld/2023/05/10/us-federal-government-cios-share-challenges-and-insights-into-future-of-ai-and-technology/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2023/05/10/us-federal-government-cios-share-challenges-and-insights-into-future-of-ai-and-technology/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 78
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/645bf484b738ee39999c02fa/0x0.jpg?format=jpg&crop=2880,1350,x0,y405,safe&width=1200"
+        width: 1200
+        height: 563
+        isCached: true
 
 secured: "mGD+B2P4PNTDRXun7Ikp4qSvCmEi29Eone2Ly75cOul9GbLA8JKmlB33rwDB1qqLYyjyY4z+4cJIHxrdpGPPRSpjwFVHBi6wpPmQbXXUDvTBvUPCMt07+95VZOMGFkQcILdYw7y9KtnclpQdo98okOjUCLfossQXsMrc91J25jn4KNo0iYhXYc5yaUyM6v/pIdafoafz11fcG0ExYaBSzlF9cwq+iNlgDbwAphFGa59rc6wg5o6nrOX2OyRhRQ11visOZBMqALbfn3TKF+zqCiC/15ikDKjFgrps/OEIXM86eMPgAhE6EGCmlLmxaj9TNxhcoEzMh0xsyG3xxIlgXUkhYOJXkKemOO/SrZI3KCySiv+Yi+H/LkHo6necZ+t2/n+Kt9VZ010oN3v1KkT9qsqQZsqqoep1QfrsLY132YlJL/ASjnUi1nhJ+251KImiHe5oe6I962fC3T1YU2WJNcmaKwtpZGG7WcJXNgSXSPlXGypXN9cnonhxcWq/BO+p77YkWp4fw2X+TcG1OZ7Tqw==;Yl7Q+bMe6Jroc/eQqdA6Sg=="
 ---

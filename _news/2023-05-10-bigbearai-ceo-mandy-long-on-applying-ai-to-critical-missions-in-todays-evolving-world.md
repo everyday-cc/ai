@@ -25,19 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "How Adobe Is Tackling Content Authentication in an AI-Driven World"
-    excerpt: "Looking for the latest Government Contracting News? Read about How Adobe Is Tackling Content Authentication in an AI-Driven World."
-    publishedDateTime: 2023-05-10T21:04:00Z
-    webUrl: "https://executivegov.com/2023/05/how-adobe-is-tackling-content-authentication-in-an-ai-driven-world/"
+  - title: "An upcoming dating app promises to create an AI version of you to chat with potential matches"
+    excerpt: "Can AI put an end to ghosting on dating apps? The team behind Dispo is building a new dating app called Teaser AI to do just that."
+    publishedDateTime: 2023-05-12T12:57:00Z
+    webUrl: "https://www.businessinsider.com/dispo-makers-building-dating-app-ai-teaser-without-david-dobrik-2023-5"
+    ampWebUrl: "https://www.businessinsider.com/dispo-makers-building-dating-app-ai-teaser-without-david-dobrik-2023-5?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/dispo-makers-building-dating-app-ai-teaser-without-david-dobrik-2023-5?amp"
     type: article
     provider:
-      name: Executive Gov
-      domain: executivegov.com
-    quality: 39
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 76
     images:
-      - url: "https://em-graphics.s3.us-west-2.amazonaws.com/archintel-media/7f9d1ec0-bb75-4bbc-b26b-289dbe6f4dc5.png"
+      - url: "https://i.insider.com/6452b825dcb78700180cc3a4?width=1200&format=jpeg"
         width: 1200
-        height: 628
+        height: 600
         isCached: true
 
 secured: "3OUuEPA8Ovjoir2PIbqQjWjVYC8oc0qFX50blPVQESSqh+OU0emRlGPniHYudZK3YydOYpKMwO+s4wytBwgM4DEupRXqHeNgUiPHBA5H1dgkCsiYr8N91nrXKM46y7KgR+ix7bHDj2cR/uiEHxjCYPGirPSjuKAu60KyWsa0xTCSWMCJOodOYzXKy8GY9atyr7vkU7p4PYiu+j0Jo0SBhVbNIIgMhahrRsVs50k7wZGeKesO1FtcosXZfmM2vNVcSiN+gNRjLTuaQbG/ci6cphPOCOF7MpSuHATyCIoGLfYBsuZJPP0V6CrnCNf7lse8e65/RNKLCAmXjbO9oj6jqQkfl5Zy6KAvpLfsRupjA6M=;R1urRdl2Fi/xoY5nao9Cng=="

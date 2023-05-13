@@ -65,6 +65,15 @@ related:
         width: 767
         height: 633
         isCached: true
+  - title: "How Generative AI Is Changing Work"
+    excerpt: "Customer Service Jobs"
+    publishedDateTime: 2023-05-08T13:16:00Z
+    webUrl: "https://hbr.org/insight-center/how-generative-ai-is-changing-work?tpcc=orgsocial_edit&linkedin"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 17
 
 secured: "tOetQDUULHocE3MfK8vcVsUS3VVUWv/TwlR/w6wGeL8vvqn23wUtRHz2YTNTfFesMhS97YtCIkNQ7GEz+qVMGZrM5aZuPSCWxpsb53HGklsV+mLg65+zT/Lw3Xo/jWtG6O4/E+/ysn69TlVzcSGmAqkS7cPi9yCJU7Jg7LezI7o5Rtij8gLky2IlFJvYWxEXxKi/r7Af9kf5D1hZcV1OIpqG2BfAgxMLHlOuGalVfC/XGkEtxPp6Ob8SCxUW3HQswjqRtY1stf3TXNxiYCs8TBSBs7LyS1XLcdebjWjRn5B0pDxX6rnUWC2gybDygbzDjkCh0RFQ4JsvPBpg+JBSjN43MF0GDxTHRrfc1fx7HXU=;NjdG2btIobm+BL+8mPETag=="
 ---

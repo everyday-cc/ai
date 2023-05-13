@@ -53,6 +53,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Video Analytics and Artificial Intelligence Market"
+    excerpt: "Precision Reports has published a new report titled as \"Video Analytics and Artificial Intelligence Market\" by End"
+    publishedDateTime: 2023-05-12T04:38:00Z
+    webUrl: "https://www.marketwatch.com/press-release/video-analytics-and-artificial-intelligence-market-2023-05-12"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 67
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Breaking AI bias: Predictive analytics platform aims to eliminate racism in marketing"
     excerpt: "AI-powered platform X_Stereotype uses predictive analytics to eliminate bias and racism by gauging the performance of marketing content across different races and cultures."
     publishedDateTime: 2023-05-11T19:03:00Z

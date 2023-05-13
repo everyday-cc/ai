@@ -28,24 +28,6 @@ images:
     height: 630
     isCached: true
 
-related:
-  - title: "User Generated Content Platform Market to Reach $71.3 Billion, Globally, by 2031 at 31.6% CAGR: Allied Market Research"
-    excerpt: "The growth of the global user generated content platform market is driven by factors such as increase in use of influencer marketing, the rise in demand for authentic content, and uniqueness and cost-"
-    publishedDateTime: 2023-05-08T10:12:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/05/n32259556/user-generated-content-platform-market-to-reach-71-3-billion-globally-by-2031-at-31-6-cagr-allied-"
-    ampWebUrl: "https://www.benzinga.com/amp/content/32259556"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32259556"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 20
-    images:
-      - url: "https://mma.prnewswire.com/media/636519/Allied_Market_Research_Logo.jpg"
-        width: 400
-        height: 400
-        isCached: true
-
 secured: "rc0XPV2CB+NiF83fSQ2z2zApKjDir5ZiGuIgAq4Re9mXXSw/ubGkhgQTf5D1HDtVcYdUt0iKApORsmYIdE6uaH1kvW8/uc4pp05rXARHUtBzHooaHV7e5vX0NUPYUPEzj1P7J4SbqW57VqxBGnwiT5fqPriJf1fsUiFNCJR6bC3bnMoHSYqqqF7snjcKRkjWIYpM7y4gyCmakbrMHfJm47oNlWBemtkN2/7+3+dWuNjwz2RbeT6sQnjHh5r0KqCeQfyjNPm5kP+xj0sFOF1UUWy8eMh/C0sXZJ0f61uKujnLE9QNQKw0JOHkvd4b3uoWr+xGsUdAGwU8JjqSPFMzAzNViSwRk/Cy5LdEQQ/Rtko=;NWosT1wCJA4DNcciLALjig=="
 ---
 
