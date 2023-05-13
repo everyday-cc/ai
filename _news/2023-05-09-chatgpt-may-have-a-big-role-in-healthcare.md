@@ -309,20 +309,6 @@ related:
         width: 942
         height: 630
         isCached: true
-  - title: "I asked AI bot ChatGPT to write a column on happiness. Here’s what happened next"
-    excerpt: "I had to find out for myself. So I conducted a little experiment. I asked ChatGPT to write an article for me. I submitted the prompt, “Write a 500-word column on happiness.” That’s a broad, overworked topic,"
-    publishedDateTime: 2023-05-08T21:21:00Z
-    webUrl: "https://www.aol.com/news/asked-ai-bot-chatgpt-write-180244290.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 32
-    images:
-      - url: "https://media.zenfs.com/en/aol_san_luis_obispo_tribune_mcclatchy_563/9121ec7733a744f8785aa5baaae9181f"
-        width: 1140
-        height: 759
-        isCached: true
   - title: "How To Write Code With ChatGPT"
     excerpt: "According to Botpress, OpenAI built ChatGPT using three core programming languages: Python, PyTorch, and TensorFlow. Also, it used other languages for additional frameworks, including, Gensim, NLTK, OpenNMT-py, and spaCy. The AI program also uses libraries ..."
     publishedDateTime: 2023-05-10T00:00:00Z

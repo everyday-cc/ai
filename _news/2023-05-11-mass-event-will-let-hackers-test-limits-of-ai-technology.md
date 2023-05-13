@@ -9,7 +9,7 @@ ampWebUrl: "https://www.securityweek.com/mass-event-will-let-hackers-test-limits
 cdnAmpWebUrl: "https://www-securityweek-com.cdn.ampproject.org/c/s/www.securityweek.com/mass-event-will-let-hackers-test-limits-of-ai-technology/amp/"
 type: article
 quality: 59
-heat: 149
+heat: 159
 published: true
 
 provider:
@@ -88,6 +88,20 @@ related:
       - url: "https://www.dailypress.com/resizer/BOaqPlMihMZc9VFw9XP_zlzSzdg=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/AOU5ZRXYBHSDZZIUXNBDMAUUNQ.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Mass event will let hackers test limits of AI technology"
+    excerpt: "OpenAI and other major AI providers such as Google and Microsoft, are coordinating with the Biden administration to let thousands of hackers take a shot at testing the limits of their technology."
+    publishedDateTime: 2023-05-13T14:13:00Z
+    webUrl: "https://www.ksl.com/article/50641482/mass-event-will-let-hackers-test-limits-of-ai-technology"
+    type: article
+    provider:
+      name: KSL
+      domain: ksl.com
+    quality: 39
+    images:
+      - url: "https://img.ksl.com/slc/2929/292917/29291734.jpg?filter=kslv2/responsive_story_lg"
+        width: 1228
+        height: 690
         isCached: true
   - title: "Vintra showcases its artificial intelligence technology in a demo"
     excerpt: "Vintra, mentioned by former Boston police commissioner Ed Davis during a Senate hearing about the Boston marathon bombing, can learn \"from normal activity\" to notify operators of \"approaching threats and of anomalies."

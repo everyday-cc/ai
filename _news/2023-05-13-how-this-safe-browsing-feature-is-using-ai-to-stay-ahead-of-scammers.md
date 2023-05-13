@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/tech/how-this-safe-browsing-feature-is-using
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/how-this-safe-browsing-feature-is-using-ai-stay-ahead-scammers.amp"
 type: article
 quality: 87
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -30,17 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Kidnap scammers using AI to create fake videos, voice recordings of loved ones"
-    excerpt: "Scammers are using artificial intelligence to clone the voice or videos of a loved one to trick you into paying a ransom for their release."
-    publishedDateTime: 2023-05-08T23:01:00Z
-    webUrl: "https://www.fox26houston.com/news/kidnap-scammers-using-ai-to-create-fake-videos-voice-recordings-of-loved-ones"
-    ampWebUrl: "https://www.fox26houston.com/news/kidnap-scammers-using-ai-to-create-fake-videos-voice-recordings-of-loved-ones.amp"
-    cdnAmpWebUrl: "https://www-fox26houston-com.cdn.ampproject.org/c/s/www.fox26houston.com/news/kidnap-scammers-using-ai-to-create-fake-videos-voice-recordings-of-loved-ones.amp"
-    type: article
-    provider:
-      name: KRIV
-      domain: fox26houston.com
-    quality: 35
   - title: "AI is coming for Hollywood scriptwriters – this is how they are going to do it"
     excerpt: "Artificial intelligence mashups of Lord of the Rings, Pixar and Wes Anderson are amusing novelties, but how long before the robots are generating whole screenplays – and can we be sure they’re not already?"
     publishedDateTime: 2023-05-12T14:46:00Z

@@ -1,22 +1,30 @@
 ---
 category: news
 title: "Tesla shouldn't call driving system Autopilot because humans are still in control, Buttigieg says"
-excerpt: "The top U.S. transportation official says Tesla shouldn't call its partially automated driving system Autopilot because the cars can't drive themselves."
-publishedDateTime: 2023-05-12T18:08:00Z
-originalUrl: "https://www.ksl.com/article/50642847/tesla-shouldnt-call-driving-system-autopilot-because-humans-are-still-in-control-buttigieg-says"
-webUrl: "https://www.ksl.com/article/50642847/tesla-shouldnt-call-driving-system-autopilot-because-humans-are-still-in-control-buttigieg-says"
+excerpt: "Not everyone is thrilled by the idea of using *** self driving car amid *** string of headlines about Tesla's seemingly random car crashes while an autopilot triple *** conducted *** survey of nearly 1000 adults and found 68% said they are afraid of fully ..."
+publishedDateTime: 2023-05-13T15:49:00Z
+originalUrl: "https://www.wtae.com/article/buttigieg-says-tesla-shouldnt-call-driving-system-autopilot/43882392"
+webUrl: "https://www.wtae.com/article/buttigieg-says-tesla-shouldnt-call-driving-system-autopilot/43882392"
+ampWebUrl: "https://www.wtae.com/amp/article/buttigieg-says-tesla-shouldnt-call-driving-system-autopilot/43882392"
+cdnAmpWebUrl: "https://www-wtae-com.cdn.ampproject.org/c/s/www.wtae.com/amp/article/buttigieg-says-tesla-shouldnt-call-driving-system-autopilot/43882392"
 type: article
-quality: 6
+quality: 46
 heat: -1
 published: false
 
 provider:
-  name: KSL
-  domain: ksl.com
+  name: WTAE-TV
+  domain: wtae.com
 
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/gettyimages-1177714952-645fa97026493.jpg?crop=1.00xw:0.817xh;0,0&resize=1200:*"
+    width: 1024
+    height: 578
+    isCached: true
 
 related:
   - title: "Tesla shouldn't call its self-driving system Autopilot: US Transport Secretary"
@@ -93,6 +101,6 @@ related:
       domain: staradvertiser.com
     quality: 19
 
-secured: "LRU8aXajcp0BBh/j7+KXD9z+Mw7lymKQcaqBklbnzEMUjQzCJFdHQz8YzIc4b4oRvZWeTa+hfRrT77Ej5OJyL+HB1Yy6zVa3HNkmkaoahquKTxl7K+oi5VqSg8TsQCwUo775i2ywOUjLv2otBwlJcmeExZi5rfq61cw0pdwxq7hlMzl0jNwj+RRkPnizT4w3hLDhgpzdcG5+WdCzu93ZJWBie1rcCx3IrpCxi6/Mh7ftJm5kUHtY/Gxwf8b26K9XNgtubk9JtXf40f5Or1YTaezbzmMT+oZbmjfuc3HRzg/CzvssrNMARZfljGuNASyZmbr5jtBBSWis1qeGUP2waHK+qPEwiuHQrJ0LE/63dBU=;Jns0gswnTbixOcjadaRl0A=="
+secured: "13dxZsqfPssVHHrq09xC1KrD+82Odr7eF6gGSfTz5ct7y90nSHbYDcTQ1vadOSXya4ksTMTuoP9QL4U2bWGpZ98EhhUH93VUyui/GLPZxMMGajkisJS+jYoY4JzGm7nSW7OPUVZ9OMP2aYzYewfavwyT/USmHBhNajA7RXRwqNOxk+Ym5VpF45sFFaK5rb9nuZlkFDRMFNDxcxQn4guv9DKCIwwatvDRPBvVyXGP9h9hqo4f6H1/vUuNCejBLYcXWFJV2IbLTczD2xx1/URezSTuwZ2EIvufSf1It3ukqBXVZA/51MTvwFWlik2gy5zR6BvYnfuGkep6YNcN3sJ06En8SHZyD5qD92TvHENKd3Y=;fFBNYgkU75u6YVImIbfbMQ=="
 ---
 

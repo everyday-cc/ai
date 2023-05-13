@@ -111,20 +111,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Bringing AI Tools to the Workplace Requires a Delicate Balance"
-    excerpt: "By midyear, all of Morgan Stanley’s thousands of wealth advisers are expected to have access to a new artificial-intelligence-powered chat tool.The tool, which is already in use by about 600 staff members,"
-    publishedDateTime: 2023-05-08T20:02:00Z
-    webUrl: "https://www.spokesman.com/stories/2023/may/08/bringing-ai-tools-to-the-workplace-requires-a-deli/"
-    type: article
-    provider:
-      name: The Spokesman-Review
-      domain: spokesman.com
-    quality: 37
-    images:
-      - url: "https://thumb.spokesman.com/o2qlnZLoJkpiNpKj1YWkMoSjY4c=/1200x630/smart/media.spokesman.com/photos/2023/05/08/645948d902eed.hires.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "2jTyGO0z/SH9K+XY/dSnoPB6+nng3Y0eM4rWtUIOyL1BbpDotIGh2uSNnU1Mg9wQki0B0XkmhQ9OxPW9w2Sm8Jm24sTbVWa+mh+8fT4Yufa5CD6njJkYUy1FQnngVBGjrg7n9+dUWPoQZZwaQM6oGg++ZuooSwyyzPdpdzGyoY2kV/Cw/J9Xuxlg5IFlw6nDLIBAZyn2M+Kn0HvCty1Dg4iXJ7BByrSo3W+sxP3DZYR5CaDVxmRrDggFsmo2YXIBQsCHXfc/qrNi27+IibZluPx1d6qKN8LJ+t2KcLJcRKed6o+FB7MzEQrkXhMpavUuWHzj+tw08RlrES59pxpSf51BMrc58den4/T3Wq1NuHd1cRC82Hu9LnmUu1TRUDZ3Yimuj28w+yZH4E6gtSDafX9SGhecdX605RMBZ7oZb1+3o7BUIqLkg+z4SMzcnJIYuNu3rsvJhZjrggLx0Jn4OOjst8GhNmj5tToNWegeK0GC0zAPEpYz9/O4XKdG+QU6PqnRcS+6whQM4w4arDqOkg==;DcdPeCS0BpBCXCa4BXjMVg=="
 ---

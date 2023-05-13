@@ -75,6 +75,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Tesla shouldn't call driving system Autopilot because humans are still in control, Buttigieg says"
+    excerpt: "Not everyone is thrilled by the idea of using *** self driving car amid *** string of headlines about Tesla's seemingly random car crashes while an autopilot triple *** conducted *** survey of nearly 1000 adults and found 68% said they are afraid of fully ..."
+    publishedDateTime: 2023-05-13T15:49:00Z
+    webUrl: "https://www.wtae.com/article/buttigieg-says-tesla-shouldnt-call-driving-system-autopilot/43882392"
+    ampWebUrl: "https://www.wtae.com/amp/article/buttigieg-says-tesla-shouldnt-call-driving-system-autopilot/43882392"
+    cdnAmpWebUrl: "https://www-wtae-com.cdn.ampproject.org/c/s/www.wtae.com/amp/article/buttigieg-says-tesla-shouldnt-call-driving-system-autopilot/43882392"
+    type: article
+    provider:
+      name: WTAE-TV
+      domain: wtae.com
+    quality: 46
+    images:
+      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/gettyimages-1177714952-645fa97026493.jpg?crop=1.00xw:0.817xh;0,0&resize=1200:*"
+        width: 1024
+        height: 578
+        isCached: true
   - title: "Tesla shouldn’t call driving system Autopilot, Buttigieg says"
     excerpt: "WASHINGTON >> Tesla shouldn’t be calling its partially automated driving system Autopilot because the cars can’t drive themselves, the top U.S. transportation official says."
     publishedDateTime: 2023-05-11T19:30:00Z
@@ -84,15 +100,6 @@ related:
       name: Honolulu Star-Advertiser
       domain: staradvertiser.com
     quality: 19
-  - title: "Tesla shouldn't call driving system Autopilot because humans are still in control, Buttigieg says"
-    excerpt: "The top U.S. transportation official says Tesla shouldn't call its partially automated driving system Autopilot because the cars can't drive themselves."
-    publishedDateTime: 2023-05-12T18:08:00Z
-    webUrl: "https://www.ksl.com/article/50642847/tesla-shouldnt-call-driving-system-autopilot-because-humans-are-still-in-control-buttigieg-says"
-    type: article
-    provider:
-      name: KSL
-      domain: ksl.com
-    quality: 6
 
 secured: "UendQmesHpZngK3O8GefrEazB3rOuAfJ/EyqHJQXZ8jSkz6FRzUS+LpOGYAvfZ4+HN8HNo4akVC8s7rNOSLrrdQdMZ3coOXqKfN67yIfx+AquOnRujVv4bOW+9QhYgtDBUU986Owk/Wrg95C3JWk3jDYYJ9Q9u+LsI8gkBALUaQMBvAmRmMoofKpU8hyz3LoydwxrwCAwfcDU6q/iiNcM7A+1rRpCSawnJjDfBJxeoiCk5psGEcYCgE3zW1rg4pnvVCbcO3Yo24MdId+3PzLyXdg9hO/4aeqVyUK0Fw9NGoSwV1vrYJLoT3py8sEjwX/IlI70Ybv23nbP+BrCR/ZexJqJhWsrxd8CoLDtsloMR4=;wxj+lPl3+fp3w4xTfAuS1w=="
 ---

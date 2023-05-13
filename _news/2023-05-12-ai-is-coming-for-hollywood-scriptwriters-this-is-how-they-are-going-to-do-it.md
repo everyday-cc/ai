@@ -44,17 +44,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Kidnap scammers using AI to create fake videos, voice recordings of loved ones"
-    excerpt: "Scammers are using artificial intelligence to clone the voice or videos of a loved one to trick you into paying a ransom for their release."
-    publishedDateTime: 2023-05-08T23:01:00Z
-    webUrl: "https://www.fox26houston.com/news/kidnap-scammers-using-ai-to-create-fake-videos-voice-recordings-of-loved-ones"
-    ampWebUrl: "https://www.fox26houston.com/news/kidnap-scammers-using-ai-to-create-fake-videos-voice-recordings-of-loved-ones.amp"
-    cdnAmpWebUrl: "https://www-fox26houston-com.cdn.ampproject.org/c/s/www.fox26houston.com/news/kidnap-scammers-using-ai-to-create-fake-videos-voice-recordings-of-loved-ones.amp"
-    type: article
-    provider:
-      name: KRIV
-      domain: fox26houston.com
-    quality: 35
 
 secured: "t/NBFdgyfBkc8lnUX7Um2FXPs2cDphcDenEWrmb9la+nRn3ASpgjVNkqQVzKjisjeQGZKryS1TkUnLo7Sz5WGDG3D8B/1zKjnwfJqEzyZRtLi0iUQ6aEAApVEV/OOVqKsmNVdohGwevAtvys1imcWCSYLjow6Hg3Nkb4pa+zeRiVEV2PwjXo4QtOBBZwdpbOtEfJDiQ/155SOFXwcsmQ7maEDSzZ6ybd97P7D1iRuHUuGsraw3E/KsyqP0vIkjGRXYp2nPaI9X0WMQEbWtl59mLGqS0bDQuNmzx9NA5lB51M4zaN38bhRqwLOpuqqtSWFKeFP927nQMo65d1G02TxOEpvwmbqGsU1m5p4Pgtbz0WAs2xqMikFF2qIXqiyFliKfUF67fO75hM7q+N6wmTOq2WQ0sPNgbkO8cgFZbyPB8p9/3NAE3Q7dbIC/X0e7TDbzWmmiO+VeE3jT3FvyFj0GurbTOamyFNFXuXEjKrBqGlaVrPfZ5dUXZ6lxWcKpK+Dz9Ppjk+Ophlg8oWAKZYMA==;j8CCxfRV9FjBoeLNjiNJ+g=="
 ---

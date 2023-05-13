@@ -97,20 +97,6 @@ related:
       name: Gizmochina
       domain: gizmochina.com
     quality: 64
-  - title: "Bringing AI Tools to the Workplace Requires a Delicate Balance"
-    excerpt: "By midyear, all of Morgan Stanley’s thousands of wealth advisers are expected to have access to a new artificial-intelligence-powered chat tool.The tool, which is already in use by about 600 staff members,"
-    publishedDateTime: 2023-05-08T20:02:00Z
-    webUrl: "https://www.spokesman.com/stories/2023/may/08/bringing-ai-tools-to-the-workplace-requires-a-deli/"
-    type: article
-    provider:
-      name: The Spokesman-Review
-      domain: spokesman.com
-    quality: 37
-    images:
-      - url: "https://thumb.spokesman.com/o2qlnZLoJkpiNpKj1YWkMoSjY4c=/1200x630/smart/media.spokesman.com/photos/2023/05/08/645948d902eed.hires.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Google Wants to Play Both Sides of the AI Arms Race"
     excerpt: "CEO Sundar Pichai and several top executives at Google’s parent company Alphabet took the stage to announce the infusion of AI into its suite of tools, as well as the launch of a new-and-improved AI model to power it all."
     publishedDateTime: 2023-05-10T22:03:00Z

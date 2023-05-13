@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/technology/2023/may/09/apple-co-founder-
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/may/09/apple-co-founder-ai-scams-steve-wozniak-artificial-intelligence"
 type: article
 quality: 57
-heat: -1
+heat: 57
 published: false
 
 provider:
@@ -28,35 +28,6 @@ images:
     width: 620
     height: 372
     isCached: true
-
-related:
-  - title: "Apple co-founder says AI may make scams harder to spot"
-    excerpt: "Apple co-founder, Steve Wozniak, has warned that artificial intelligence (AI) could make scams and misinformation harder to spot. Mr Wozniak says he fears the technology will be harnessed by \"bad actors\". Speaking to the BBC, he said AI content should be clearly labelled, and regulation was needed for the sector."
-    publishedDateTime: 2023-05-08T22:59:00Z
-    webUrl: "https://www.bbc.com/news/technology-65496150"
-    ampWebUrl: "https://www.bbc.com/news/technology-65496150.amp"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-65496150.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 87
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/5834/production/_129608522_gettyimages-1423387395.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Tesla's AI Could Kill, Says Steve Wozniak — Apple Co-Founder Criticizes Elon Musk's Self-Driving Car Failures"
-    excerpt: "Tech icon and Apple Inc. Co-Founder Steve Wozniak has criticized Tesla Inc. CEO Elon Musk, accusing him of failing to deliver on the promise of self-driving cars and warning that Tesla’s artificial intelligence (AI) technology could be deadly."
-    publishedDateTime: 2023-05-11T17:15:00Z
-    webUrl: "https://www.benzinga.com/news/23/05/32347884/teslas-ai-could-kill-says-steve-wozniak-apple-co-founder-criticizes-elon-musks-self-driving-car-fail"
-    ampWebUrl: "https://www.benzinga.com/amp/content/32347884"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32347884"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 37
 
 secured: "EI/a7bYWi/kn0xY03hQwj5nL9+6OSOXPRrEncI+s7kyOFmP4k2wl89I16lKHpz3TRWr+hFA0acnsrS/DjRde0rAT40XYVgbE6YU13sksAfYYf5LZ+s9nGdhj4aqce1LS1IV2N+AAu9g+dtI/Iu8PGg3ts8EcF66OTzuTBgxFxeVMhAEBJLSv/wbadgDDGDVXFdLV2sK0wpdaeX8rccxdq8JS1gJU71h02WtfRS1RUFn9w6fGIhStwK64aVMugghP+xSTP7X7DNdRD0kbaJTHh91iR+q2e5Pz/+2pOWsCq1cX4u+s1hISMRwTwusb+UGmK5QEOxGLHhdmuzAsujrJm0WaOeEWNViWEJ2KFjBKem/P0B3qZlxypFKa4wreqguGUryMQLXBofeWTzLH0B93tYPI0ajVj3YrnQI2vEeKqztmT3Vvi8wZ5OhgYcEyVp2qYUV4HriqLV6vRQVapqySsy7jzmsIgkLjWBLm5vMb9PaJ7sBTPYFKuZ1cVub38Y+f6bqscSzA29klSu1T+V51Zw==;ENgUqbEwQlQERJ/7MTMK3Q=="
 ---

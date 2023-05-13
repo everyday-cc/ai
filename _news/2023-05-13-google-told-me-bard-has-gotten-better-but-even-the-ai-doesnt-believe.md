@@ -101,20 +101,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Bringing AI Tools to the Workplace Requires a Delicate Balance"
-    excerpt: "By midyear, all of Morgan Stanley’s thousands of wealth advisers are expected to have access to a new artificial-intelligence-powered chat tool.The tool, which is already in use by about 600 staff members,"
-    publishedDateTime: 2023-05-08T20:02:00Z
-    webUrl: "https://www.spokesman.com/stories/2023/may/08/bringing-ai-tools-to-the-workplace-requires-a-deli/"
-    type: article
-    provider:
-      name: The Spokesman-Review
-      domain: spokesman.com
-    quality: 37
-    images:
-      - url: "https://thumb.spokesman.com/o2qlnZLoJkpiNpKj1YWkMoSjY4c=/1200x630/smart/media.spokesman.com/photos/2023/05/08/645948d902eed.hires.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Google Wants to Play Both Sides of the AI Arms Race"
     excerpt: "CEO Sundar Pichai and several top executives at Google’s parent company Alphabet took the stage to announce the infusion of AI into its suite of tools, as well as the launch of a new-and-improved AI model to power it all."
     publishedDateTime: 2023-05-10T22:03:00Z
@@ -130,6 +116,6 @@ related:
         height: 675
         isCached: true
 
-secured: "ozLGJjNRK+RcWOyRapUlyrOjzq0st5SZSq+W9wPV2WjD59IYqYSpHuK0xzGt+BvwGl1JJZMCHnh2huqPxIXO/LhM7Jc4bTLTk+aNFc9ynrb62TMWmtOoJF/XticDNkjIuqFemGfgdNOtqFVlF17NkQAE6NNNvhpjoQUl6qaKwu0K0Ufw67NKP+bSwbGq6EATJdurHakCx+9MLee1Kkyvk7R3yhPnWwCsOinEIxHCbNJbH2mBJuk4hhE2hyqeQxOsdQqhLHMtRWulRgPeHi15qlPHssdv/LxiZ/oFNuqA2YqS7RA+stfYrcg3gH/x8MxzrfDBjvzuaKMox2h8G74jaYRe2b1nLURzlsmIME91+H8=;xEtald/MjdMPIa3SnQzuuw=="
+secured: "C50K8rW9b3LL+qRl9C5j7Yl1X40Byxbw32mtBy0s9jsCjuH0S3Wrpyb2u6mwPJpgsQgqfNVdMpOITcY6AZTtujKTkgOQ/qm3EEc4usAKlqEwaJePgQ+8YAXedtWs0lSAa8I6RdJfYjoCXS193lSwZFAJtAEXAspSW3qRELjwdp5MAVtxJk6dL6580X4C3YPaBblLz9ak026AjFNGLdSJDSn1HCikEfR3YUkW7kBDZ4GmXpDq9Yn64r2mn1KWOZBNzzyUnU39ma9MbLA0VYRpLq+e7xtMuA12atTKomfqpPjdJiQa/i003ms6yacFHyZElo19SdHmW3h7kkaxT6d9KHG2RnY0dVMQXu3WKqhzT6Q06HnikVD/TE5m5RRf2ZtzAaU69ax+9KVHwtIEL7Q+wnoqkfrXxEYwKQAX4rSyiLCmdJn6sFvN6qjD/K7DgMlkEmSZz2ZS5gEFh8GLed6vqIFliiWDFT47+wachOIaPwO5tc2vc0w4+Sue8QYzuKkq8HlXMwd6OjwbkBAGeb0ARQ==;XXGZaCBZSj/hbLpgHQ1dvQ=="
 ---
 

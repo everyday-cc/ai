@@ -113,15 +113,6 @@ related:
       name: IBS
       domain: ibsintelligence.com
     quality: 19
-  - title: "The Future of Fintech: How AI is Disrupting the Financial Industry"
-    excerpt: "The financial industry is undergoing a significant transformation thanks to the emergence of Artificial Intelligence (AI) and machine learning. On a global scale, the AI-based fintech market experienced growth from $9."
-    publishedDateTime: 2023-05-08T19:03:00Z
-    webUrl: "https://techbullion.com/the-future-of-fintech-how-ai-is-disrupting-the-financial-industry/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 19
   - title: "Machine-learning innovation in RayStation: prioritizing speed, automation, efficiency"
     excerpt: "RaySearch Laboratories and its clinical customers are leveraging advances in machine learning to reimagine the radiotherapy workflow"
     publishedDateTime: 2023-05-11T16:11:00Z
@@ -136,6 +127,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Atomic Revolutionizes Payroll System Integrations with SmartAuth, its Groundbreaking AI-Powered Authentication Engine"
+    excerpt: "Atomic, a leading provider of payroll system integrations, has unveiled SmartAuth, a new artificial intelligence-powered authentication engine. This b"
+    publishedDateTime: 2023-05-10T12:05:00Z
+    webUrl: "https://www.businesswire.com/news/home/20230510005294/en/Atomic-Revolutionizes-Payroll-System-Integrations-with-SmartAuth-its-Groundbreaking-AI-Powered-Authentication-Engine"
+    type: article
+    provider:
+      name: newsroom.businesswire.com
+      domain: businesswire.com
+    quality: 0
 
 secured: "/oY8gtc27+QxAxC7SimpjLZluP7ymgNoryUPDyQZtE2pVodiSFkrTg/hlEM/tPasdH1rOh6DF8eIZcpXLUWR9Vbmql6ypAFECnVFJEiACdwM2QFJEkvI1Xc99WSj4/nC42V7hyyA+HSpVrRHTESfOK2z/j0RkZsKttw5kLOobTrRLGi5W6tNHBUZVE8RoUy9CsueA9McuyxTPczLWrIfquyNTicDnMJWygzQN5Qe788z0zGvypT6U4xV1CAeUDi98WLgIIQ0uwV6bLgTTdBO15U2p+cVCej5vy7qwuWSa+yNC6OFutg2RuT9+RBGXouNz2I2bKhxRGnl+T71EDF6gC5HEGYqzmkVIT1xrHIpjGwWLAD1isIke4ViQC8iCuikhAkfavHQDErAZXFFMYDuqeRxCQDKpEuL5FALawuvPlQb51ZQVDZk/mc/HL5lToTAUIEX2Ek6PasU35DCyXHDOrc6TGpPBlUmZGQgzwylkEEc8IgLXcLxS918ih2zy11T/j9QQ7LIB2Qi2cRlu7vK0Q==;EBRLbuK/jOjM9co8zGx66A=="
 ---

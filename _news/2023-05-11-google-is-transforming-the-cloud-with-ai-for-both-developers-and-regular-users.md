@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/google-is-transforming-the-cloud-with-ai-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/google-is-transforming-the-cloud-with-ai-for-both-developers-and-regular-users/amp/"
 type: article
 quality: 82
-heat: 102
+heat: 112
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://static1.anpoimages.com/wordpress/wp-content/uploads/2023/05/google-io-play-console-ai-hero.jpg"
         width: 2000
         height: 1250
+        isCached: true
+  - title: "How Entrepreneurs Are Transforming Patient Care With AI"
+    excerpt: "According to Markets and Markets, global AI in the healthcare market is projected to grow from $4.9 billion in 2020 to $45.2 billion by 2026, registering a compound annual growth rate (CAGR) of 44.9% during the forecast period."
+    publishedDateTime: 2023-05-13T14:04:00Z
+    webUrl: "https://www.medpagetoday.com/opinion/kevinmd/104478"
+    type: article
+    provider:
+      name: MedPage Today
+      domain: medpagetoday.com
+    quality: 39
+    images:
+      - url: "https://assets.medpagetoday.net/media/images/104xxx/104478.jpg"
+        width: 1600
+        height: 900
         isCached: true
   - title: "Transformative impact of AI and quantum sets the tone for IBM Think"
     excerpt: "In IBM Corp.’s view of the world, the tech industry is coming to a place where the intersection of cloud, artificial intelligence and quantum computing will trigger a significant transformation. “It’s a massive moment of technological advancement,"

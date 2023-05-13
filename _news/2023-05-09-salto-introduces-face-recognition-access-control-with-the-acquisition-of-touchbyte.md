@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "SALTO acquires TouchByte, introduces face recognition access control"
-    excerpt: "Bringing TouchByte under the SALTO Group umbrella reinforces SALTO’s commitment to innovation and the development of new technologies."
-    publishedDateTime: 2023-05-08T22:02:00Z
-    webUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/press-release/53059801/salto-systems-inc-salto-acquires-touchbyte-introduces-face-recognition-access-control"
-    type: article
-    provider:
-      name: Security
-      domain: securityinfowatch.com
-    quality: 39
-    images:
-      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2023/05/16x9/SALTO_OK_Touchbyte_Face_Recognition.64596c0cb4da9.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "TouchByte bought by Salto for face biometrics integration with Cognitec"
     excerpt: "TouchByte has applied its facial recognition algorithm to age verification and customer analytics, as well as to touchless access controls."
     publishedDateTime: 2023-05-10T23:02:00Z
@@ -46,6 +32,20 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/12/17104116/acquisitions-scaled.jpg"
         width: 2048
         height: 1365
+        isCached: true
+  - title: "Trua Digital ID Solution Supports Face Biometrics, Multi-factor Authentication"
+    excerpt: "Trua was established by CEO Raj Ananthanpillai in 2021, with the aim of pioneering digital identity solutions – namely its flagship product, TruaID. The solution is aimed at offering an all-in-one identity hub,"
+    publishedDateTime: 2023-05-11T21:15:00Z
+    webUrl: "https://mobileidworld.com/trua-digital-id-solution-supports-face-biometrics-multi-factor-authentication/"
+    type: article
+    provider:
+      name: Mobile ID News
+      domain: mobileidworld.com
+    quality: 20
+    images:
+      - url: "https://mobileidworld.com/wp-content/uploads/Aviation-WP-Download-Now-300x300.jpg"
+        width: 300
+        height: 300
         isCached: true
 
 secured: "e4xGLK/ej3NE/OrrMgqVb9x42aLeFoqHAF02iK6fszULNOnGXd5lAWIPOxv4H7g/llJInV6MHWAKdb+/Jio8cX/AARuxk5PyUcFON49gyilE/wYZBop5ne0GtdQxQ1rVsUwXTRl0QxL5Dlk92ZiL7uA0BKVbwlD13+YSUXql7HqnWz5417llK5dkwXCN0RWlER9EUplecX2qA1AsfXYIkTZzQcdLusKqRAZYH3JVcDPZLlBFnE/ZLJ7avwUI3bo63EEywlBtg6hsPPrUqTvAAxF8ClqcfBaYu+Yrxzp9GXWcwnTbhPOx0BW072LfmYQGFDbYXOfo7OM2M96Ac2lY2OXOFuk7t8z5qC8KVl/nZKHAvvhjiZhW8hffV1gXReJfhj3YTSXIe0TkeVLoodJio8POs0wAuKXpRKwyhHsdfPKMM6QYgXjuBxtJAZ4Os7zSs5yMCGB04JWQBU+xLP4smzzyFjisLjQXRkUeDznZjlq7UTsFSvk0dMqzYPmdrJkzEX9wTlHdtAZgjb7KD73lDQ==;LfH3xEEuvvP4R50AYsIyyw=="

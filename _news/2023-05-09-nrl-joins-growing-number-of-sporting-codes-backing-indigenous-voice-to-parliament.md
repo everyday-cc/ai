@@ -31,17 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "NRL to back Yes campaign in Voice to parliament referendum"
-    excerpt: "NRL will become the first football code to support the “Yes” campaign in a referendum on an Indigenous Voice to parliament, ahead of the league’s Indigenous Round."
-    publishedDateTime: 2023-05-08T22:37:00Z
-    webUrl: "https://www.news.com.au/sport/nrl/nrl-to-back-yes-campaign-in-voice-to-parliament-referendum/news-story/ae7502a7dda73efad2cc491f8e8fec26"
-    ampWebUrl: "https://www.news.com.au/sport/nrl/nrl-to-back-yes-campaign-in-voice-to-parliament-referendum/news-story/ae7502a7dda73efad2cc491f8e8fec26?amp"
-    cdnAmpWebUrl: "https://www-news-com-au.cdn.ampproject.org/c/s/www.news.com.au/sport/nrl/nrl-to-back-yes-campaign-in-voice-to-parliament-referendum/news-story/ae7502a7dda73efad2cc491f8e8fec26?amp"
-    type: article
-    provider:
-      name: Couriermail
-      domain: news.com.au
-    quality: 39
   - title: "Indigenous voice to parliament: ‘No’ campaign merger to bolster resources"
     excerpt: "Anti-voice spokesman Warren Mundine says the newly merged strands of the No campaign bring together 37,000 volunteers and millions in donations."
     publishedDateTime: 2023-05-09T08:47:00Z

@@ -127,20 +127,6 @@ related:
       name: CNET
       domain: cnet.com
     quality: 45
-  - title: "Next-gen AI language model will reportedly debut at Google I/O 2023"
-    excerpt: "Leaked documents reveal that Google plans to announce its next-gen PaLM AI large language model at Google I/O 2023."
-    publishedDateTime: 2023-05-08T21:10:00Z
-    webUrl: "https://bgr.com/tech/next-gen-ai-language-model-will-reportedly-debut-at-google-i-o-2023/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 37
-    images:
-      - url: "https://bgr.com/wp-content/uploads/2023/05/Google-IO-2022.jpg?quality=82&strip=all"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "New AI Features, the Pixel Fold, and More Updates From This Year's Google I/O"
     excerpt: "Google I/O is the company’s big spring event, where it can show off new software and hardware customers and developers alike can look forward to. This year’s I/O was over two hours long, and was almost all about AI."
     publishedDateTime: 2023-05-10T21:30:00Z

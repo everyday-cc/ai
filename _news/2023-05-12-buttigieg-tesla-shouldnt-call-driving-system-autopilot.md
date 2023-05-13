@@ -61,15 +61,6 @@ related:
         width: 720
         height: 483
         isCached: true
-  - title: "Elon Musk says Tesla will give everyone free month of Full Self-Driving, but not yet"
-    excerpt: "Elon Musk says Tesla will give a free month of a Full Self-Driving package to every owner in North America, but only once it is “super smooth.” The CEO has had a fixation on people “not understanding the value of Tesla’s Full Self-Driving package,” which the automaker now sells for $15,000."
-    publishedDateTime: 2023-05-08T19:25:00Z
-    webUrl: "https://electrek.co/2023/05/08/elon-musk-tesla-free-month-full-self-driving/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 42
 
 secured: "trvXQGZi6Q+hEnRwJ0Hias2jprhiijgvKeRg+ToH4FQ9XCpkAkzk+L+RfX4dP34l+PR40wKL4G+ZJmEcGt3obcuBarguINb/9PZrC0mvSgQjwEqTu8FGLG8hUZdH6DtLDfjIPXtTXS2gf7Wjtt9GxoTj61WZMNpjQlCGJX5ODp1Y2CsOnvOxTa4EvKAVFjrY1tjenPI7vXySARUpqxST+wS/0IVguJcON+gVa8BaJRn7AtciAAW+c/Q9TKAhEYSuvuhNOkWM7rAuw0Tidbly0DL0X4GQLH2R/jmgbDX00nWMF/nzZud+R2JZj/p8bdatG6ScvlypSzaZ8eNALcgOGhJVGT5muRmx0/aFLF/ktio=;fimbTEqpPGtayIAxBuZO5w=="
 ---

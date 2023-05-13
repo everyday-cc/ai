@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/32347884"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32347884"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,38 +22,24 @@ topics:
   - AI in Robotics
 
 related:
-  - title: "Apple co-founder says AI may make scams harder to spot"
-    excerpt: "Apple co-founder, Steve Wozniak, has warned that artificial intelligence (AI) could make scams and misinformation harder to spot. Mr Wozniak says he fears the technology will be harnessed by \"bad actors\". Speaking to the BBC, he said AI content should be clearly labelled, and regulation was needed for the sector."
-    publishedDateTime: 2023-05-08T22:59:00Z
-    webUrl: "https://www.bbc.com/news/technology-65496150"
-    ampWebUrl: "https://www.bbc.com/news/technology-65496150.amp"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-65496150.amp"
+  - title: "Elon Musk May Have Eyes on AI, Not Tesla, As He Tabs New Twitter CEO"
+    excerpt: "Tesla investors think Elon Musk will have more time for the EV maker now that Twitter has a new CEO. They could be wrong."
+    publishedDateTime: 2023-05-12T12:40:00Z
+    webUrl: "https://www.thestreet.com/investing/stocks/elon-musk-seeks-new-twitter-ceo-but-ai-not-tesla-may-be-next-focus"
     type: article
     provider:
-      name: BBC
-      domain: bbc.com
-    quality: 87
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/5834/production/_129608522_gettyimages-1423387395.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Apple co-founder warns AI could make it harder to spot scams"
-    excerpt: "Steve Wozniak says content created with artificial intelligence should be labelled and calls for regulation"
-    publishedDateTime: 2023-05-09T06:21:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/may/09/apple-co-founder-ai-scams-steve-wozniak-artificial-intelligence"
-    ampWebUrl: "https://amp.theguardian.com/technology/2023/may/09/apple-co-founder-ai-scams-steve-wozniak-artificial-intelligence"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/may/09/apple-co-founder-ai-scams-steve-wozniak-artificial-intelligence"
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 34
+  - title: "AI cannot be stopped, says Steve Wozniak; we must prepare for more convincing scams"
+    excerpt: "Steve Wozniak has been one of those to favor a more cautious approach, recently signing an open letter calling for AI development beyond GPT-4 to be paused. He does, though, appear to agree with both Hinton and Schmidhuber that AI’s progress cannot be stopped."
+    publishedDateTime: 2023-05-10T12:12:00Z
+    webUrl: "https://9to5mac.com/2023/05/10/ai-cannot-be-stopped/"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 57
-    images:
-      - url: "https://i.guim.co.uk/img/media/891cd476653ebbb0db34a7281c20657a1310f661/0_165_2600_1561/master/2600.jpg?width=620&quality=85&auto=format&fit=max&s=f0fd6ba67732c8106827dd297bc29281"
-        width: 620
-        height: 372
-        isCached: true
+      name: 9to5Mac
+      domain: 9to5mac.com
+    quality: 13
 
 secured: "S/bob7tUYvpBQAR1i/FrzmZxjRznceKV6cuvxR0LMHGUaLOmqaivdlHmSe0bfYS9JXk2hnYnoYg02vbl2xo9R4AkunnEpAOTheW7rUKNCntXvFZCLWE+zTQyin8Bdv7MsIQhv0uKl2WCHwc2hf0ciu6wuRRefJ/aWCYgLdYUlEqEBDU2m0wCjqKdUd6Ul0ASpo6L/R5bkUN2Tqb38iUZwTWf3mrYhbp8Ocl4Rf5Kc7p2o0VYqjNhAAiPmuXT41VKMGnt9RXRcO0xqIB5PUpG+KbiPQQ361dNn1wdkpd+1M54hn6T6h7hog6bfiwJ1tCCHsUaeuVzDnwfwos1i8W5c0l34SUP2ocvVnCBaHccv5k=;ZpY72aw1FJ7kYiV9xMjV2Q=="
 ---

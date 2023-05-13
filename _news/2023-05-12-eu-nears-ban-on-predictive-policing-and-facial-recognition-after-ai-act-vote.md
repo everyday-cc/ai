@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/ai-act-vote-pushes-eu-ban-on-predictiv
 webUrl: "https://thenextweb.com/news/ai-act-vote-pushes-eu-ban-on-predictive-policing-facial-recognition"
 type: article
 quality: 81
-heat: 151
+heat: 141
 published: true
 
 provider:
@@ -92,22 +92,6 @@ related:
       - url: "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2023/05/11/GettyImages-531573862-scaled.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Dover chaos fears as EU tipped to delay fingerprint and facial recognition checks"
-    excerpt: "One of the issues facing authorities at the Port of Dover and at Folkestone is the lack of room available to create first-time registration zones for the EU's new entry and exit system (ESS)."
-    publishedDateTime: 2023-05-08T20:56:00Z
-    webUrl: "https://www.express.co.uk/news/world/1767936/dover-fingerprint-facial-recognition-brexit"
-    ampWebUrl: "https://www.express.co.uk/news/world/1767936/dover-fingerprint-facial-recognition-brexit/amp"
-    cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/news/world/1767936/dover-fingerprint-facial-recognition-brexit/amp"
-    type: article
-    provider:
-      name: Daily Express
-      domain: express.co.uk
-    quality: 54
-    images:
-      - url: "https://cdn.images.express.co.uk/img/dynamic/78/590x/secondary/Port-4740308.jpg?r=1683579375171"
-        width: 590
-        height: 393
         isCached: true
   - title: "EU draft AI Act updated with public facial recognition ban"
     excerpt: "The additions to the AI act include banning the use of facial recognition in public spaces along with predictive policing tools."

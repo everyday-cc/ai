@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Edge AI Chips Market Future Scope and Growth Status 2028"
+    excerpt: "What is the Computer-aided Design (CAD) market growth? Computer-aided Design (CAD) Market Size is projected to Reach Multimillion USD by 2028, In comparison to 2023, at unexpected CAGR during the forecast Period 2023-2028."
+    publishedDateTime: 2023-05-11T19:05:00Z
+    webUrl: "https://www.marketwatch.com/press-release/edge-ai-chips-market-future-scope-and-growth-status-2028-2023-05-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 84
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "2030, AI in Computer Vision Market Growth | Future Prospects and Competitive Analysis"
     excerpt: "The \"AI in Computer Vision Market\" is one of the sectors that is expanding the fastest, thus it is crucial for players"
     publishedDateTime: 2023-05-09T21:48:00Z
@@ -215,6 +229,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 49
+  - title: "Artificial Intelligence in Oil and Gas Market by 2030"
+    excerpt: "Precision Reports has published a new report titled as \"Artificial Intelligence in Oil and Gas Market\" by End User"
+    publishedDateTime: 2023-05-13T05:16:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-oil-and-gas-market-by-2030-2023-05-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 47
   - title: "Artificial Intelligence Sensors Market Insights and Forecast Offers for Growth 2030"
     excerpt: "Global Artificial Intelligence Sensors Market Research report provides detailed insight into different segments based"
     publishedDateTime: 2023-05-09T16:51:00Z
@@ -224,20 +247,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 43
-  - title: "AI In Computer Vision Market Growth Will Accelerate At CAGR Value, Swot Analysis Till 2031 | AMR"
-    excerpt: "AI in Computer Vision Market The global AI in computer vision market size is expected to reach $207.09 billion by 2030 from $9.18 billion"
-    publishedDateTime: 2023-05-08T20:41:00Z
-    webUrl: "https://menafn.com/1106202313/AI-In-Computer-Vision-Market-Growth-Will-Accelerate-At-CAGR-Value-Swot-Analysis-Till-2031-AMR"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 41
-    images:
-      - url: "https://menafn.com/updates/pr/2023-05/08/EP_54e4bimage_story.jpeg"
-        width: 890
-        height: 466
-        isCached: true
   - title: "Face Recognition Software Market 2023 Growth Possibilities, Analysis and Forecast To 2030"
     excerpt: "The Face Recognition Software Market Report by Type (Holistic Matching Method, Feature-based Method, Skin Texture Analysis, Hybrid Types, Other) and by Application (Corporate and Residential Security,"
     publishedDateTime: 2023-05-11T11:22:00Z

@@ -276,20 +276,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Autonomous Delivery Robots Market Research, 2030"
-    excerpt: "Precision Reports has published a new report titled as \"Autonomous Delivery Robots Market\" by End User (Hotels,"
-    publishedDateTime: 2023-05-08T21:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/autonomous-delivery-robots-market-research-2030-2023-05-08"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence In RegTech Market [2023-2030] Business Report"
     excerpt: "What is the Artificial Intelligence In RegTech market growth in 2023-2029 with TOPMajor Players? Major Players Covered in this Report: The global Artificial Intelligence In RegTech Market USD Million in 2022,"
     publishedDateTime: 2023-05-11T15:03:00Z

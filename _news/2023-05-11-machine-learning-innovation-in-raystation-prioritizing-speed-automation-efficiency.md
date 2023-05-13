@@ -127,15 +127,15 @@ related:
       name: IBS
       domain: ibsintelligence.com
     quality: 19
-  - title: "The Future of Fintech: How AI is Disrupting the Financial Industry"
-    excerpt: "The financial industry is undergoing a significant transformation thanks to the emergence of Artificial Intelligence (AI) and machine learning. On a global scale, the AI-based fintech market experienced growth from $9."
-    publishedDateTime: 2023-05-08T19:03:00Z
-    webUrl: "https://techbullion.com/the-future-of-fintech-how-ai-is-disrupting-the-financial-industry/"
+  - title: "Atomic Revolutionizes Payroll System Integrations with SmartAuth, its Groundbreaking AI-Powered Authentication Engine"
+    excerpt: "Atomic, a leading provider of payroll system integrations, has unveiled SmartAuth, a new artificial intelligence-powered authentication engine. This b"
+    publishedDateTime: 2023-05-10T12:05:00Z
+    webUrl: "https://www.businesswire.com/news/home/20230510005294/en/Atomic-Revolutionizes-Payroll-System-Integrations-with-SmartAuth-its-Groundbreaking-AI-Powered-Authentication-Engine"
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 19
+      name: newsroom.businesswire.com
+      domain: businesswire.com
+    quality: 0
 
 secured: "4BvcB+PIhALzOp9p9yIlZkWNSMkrf74TA6LoIobankj0HQexAJfByl8Zx6cEbyOZ/D64YRfsLM79MlFQBm8gDO6MkRjDg70pakQLevmwF85IFBO7/EAyOD2vx4tnF/XmNNS9aW3mJdbANQbMejldUQ8rhBbUNBwhnhVWQbAOhc2xp9L48CBVLlYL8hmZLMlUmc7bEQVYgp2hjNBP1pLM3SshHXaFtnmgU22w7ynlMFsUY8VpRTBTVnhC3vZcMBZRmMkoY7xzoo/botIF5R6Bm6LvDbx/eJ9bK0J5HuZSJIOJs/5XqIqkz26tV+tKyasVHGMrcNwIMFGCg70Jk6sjPvCRPiUbS4LTl5q0m+68AsM=;IWXCF6jqDHnfxw5PLr7PVA=="
 ---

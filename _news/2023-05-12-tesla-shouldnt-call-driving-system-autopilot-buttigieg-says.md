@@ -84,14 +84,21 @@ related:
         height: 720
         isCached: true
   - title: "Tesla shouldn't call driving system Autopilot because humans are still in control, Buttigieg says"
-    excerpt: "The top U.S. transportation official says Tesla shouldn't call its partially automated driving system Autopilot because the cars can't drive themselves."
-    publishedDateTime: 2023-05-12T18:08:00Z
-    webUrl: "https://www.ksl.com/article/50642847/tesla-shouldnt-call-driving-system-autopilot-because-humans-are-still-in-control-buttigieg-says"
+    excerpt: "Not everyone is thrilled by the idea of using *** self driving car amid *** string of headlines about Tesla's seemingly random car crashes while an autopilot triple *** conducted *** survey of nearly 1000 adults and found 68% said they are afraid of fully ..."
+    publishedDateTime: 2023-05-13T15:49:00Z
+    webUrl: "https://www.wtae.com/article/buttigieg-says-tesla-shouldnt-call-driving-system-autopilot/43882392"
+    ampWebUrl: "https://www.wtae.com/amp/article/buttigieg-says-tesla-shouldnt-call-driving-system-autopilot/43882392"
+    cdnAmpWebUrl: "https://www-wtae-com.cdn.ampproject.org/c/s/www.wtae.com/amp/article/buttigieg-says-tesla-shouldnt-call-driving-system-autopilot/43882392"
     type: article
     provider:
-      name: KSL
-      domain: ksl.com
-    quality: 6
+      name: WTAE-TV
+      domain: wtae.com
+    quality: 46
+    images:
+      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/gettyimages-1177714952-645fa97026493.jpg?crop=1.00xw:0.817xh;0,0&resize=1200:*"
+        width: 1024
+        height: 578
+        isCached: true
 
 secured: "KqS6pYBGe7CHhbh+BSG/R9NF5u1LLoSKf7namu6NInT8ZqaEBsgrQvJP+y/OebWRJ4mZrrycmNFIplVnxfWGUg/4fJDRo8YkUwX+LFzDtEdGbvfa87dStH4y77De0S2jWWP9i4KpEy94PcPJzSbu3CM5PrpCcYE2HT0JkhV56jTOq0bylYOjjDayWdIKovzN+8wEuToDAAv8mRE58nMcks4DVMed8K2NV+2+u4dEHEDz+8Tws2KRcTBK75KBF8nit5RWPms1T//c9tHIsKwU0N4uy7RAVLDy3yolVOcNO9a+zyvOIcOsL/hO4p5YrZm89sDkYnQ2t6blQYqpeDSBodj5Xia0VCTiXTxHy0khJkS2nraQ1tL8xLLyn3LidgdSOU9OU23/DLa7MNt83pAVjGH7PIElgfrTGdOfwbuRl0wF5ISQIqZu0XzKnlwp9nXWZwpV2G5R/LnzM86KG0nXGiwyZekLnp+VOKIvJs43SOzqu0sYetDPiGkrZ7ruH7SX4PP39xactsNa8M+jW8xa3g==;LyeKZ+avVUEXCYw4fI/ESg=="
 ---

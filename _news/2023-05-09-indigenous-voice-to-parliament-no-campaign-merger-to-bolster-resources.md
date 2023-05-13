@@ -37,17 +37,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "NRL to back Yes campaign in Voice to parliament referendum"
-    excerpt: "NRL will become the first football code to support the “Yes” campaign in a referendum on an Indigenous Voice to parliament, ahead of the league’s Indigenous Round."
-    publishedDateTime: 2023-05-08T22:37:00Z
-    webUrl: "https://www.news.com.au/sport/nrl/nrl-to-back-yes-campaign-in-voice-to-parliament-referendum/news-story/ae7502a7dda73efad2cc491f8e8fec26"
-    ampWebUrl: "https://www.news.com.au/sport/nrl/nrl-to-back-yes-campaign-in-voice-to-parliament-referendum/news-story/ae7502a7dda73efad2cc491f8e8fec26?amp"
-    cdnAmpWebUrl: "https://www-news-com-au.cdn.ampproject.org/c/s/www.news.com.au/sport/nrl/nrl-to-back-yes-campaign-in-voice-to-parliament-referendum/news-story/ae7502a7dda73efad2cc491f8e8fec26?amp"
-    type: article
-    provider:
-      name: Couriermail
-      domain: news.com.au
-    quality: 39
   - title: "Altered Indigenous voice to parliament out of question, says inquiry"
     excerpt: "Australians will be asked to vote for an Indigenous voice to parliament and “executive government” after a Labor-dominated parliamentary committee endorsed Anthony Albanese’s proposed constitutional amendment without change,"
     publishedDateTime: 2023-05-12T14:48:00Z

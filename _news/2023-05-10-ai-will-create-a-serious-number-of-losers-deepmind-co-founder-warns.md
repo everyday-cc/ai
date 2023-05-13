@@ -35,20 +35,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "DeepMind pioneer issues warning on dangers of AI autonomy"
-    excerpt: "AI programs should not be taught how to improve themselves, according to a co-founder of the artificial intelligence research lab DeepMind. Mustafa Suleyman sa"
-    publishedDateTime: 2023-05-08T23:01:00Z
-    webUrl: "https://www.thetimes.co.uk/article/deepmind-pioneer-issues-warning-on-dangers-of-ai-autonomy-rklxhnc76"
-    type: article
-    provider:
-      name: The Times
-      domain: thetimes.co.uk
-    quality: 54
-    images:
-      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F1535ef20-edd7-11ed-87b0-716b9284a2b0.jpg?crop=5496%2C3091%2C0%2C286&resize=1200"
-        width: 1200
-        height: 674
-        isCached: true
   - title: "AI to create ‘a serious number of losers’, DeepMind co-founder warns"
     excerpt: "Mustafa Suleyman said governments should think about how to support workers who lose their jobs to technology."
     publishedDateTime: 2023-05-10T07:44:00Z

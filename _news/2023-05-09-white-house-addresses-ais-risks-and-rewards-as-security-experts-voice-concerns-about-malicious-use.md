@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/article/white-house-harness-ai/amp/"
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/white-house-harness-ai/amp/"
 type: article
 quality: 90
-heat: 140
+heat: 130
 published: true
 
 provider:
@@ -77,17 +77,6 @@ related:
         width: 2048
         height: 1365
         isCached: true
-  - title: "Biden Administration Turns To Hackers To Tame AI As White House Looks Towards Regulating Artificial Intelligence To Preserve Jobs"
-    excerpt: "Gamers Making Thousands Selling Gaming Skins And Assets: Gameflip's Bold Vision For The Future Of Gaming Commerce Artificial intelligence (AI) technology — led by the growth of ChatGPT — has governments around the world concerned about its impact."
-    publishedDateTime: 2023-05-08T20:01:00Z
-    webUrl: "https://www.benzinga.com/news/23/05/32272632/biden-administration-turns-to-hackers-to-tame-ai-as-white-house-looks-towards-regulating-artificial"
-    ampWebUrl: "https://www.benzinga.com/amp/content/32272632"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32272632"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 23
   - title: "8 Questions About Using AI Responsibly, Answered"
     excerpt: "Generative AI tools are poised to change the way every business operates. As your own organization begins strategizing which to use, and how, operational and ethical considerations are inevitable. This article delves into eight of them,"
     publishedDateTime: 2023-05-09T17:01:00Z

@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Local Opinion: Does ChatGPT Have a Future in Healthcare?"
+    excerpt: "Artificial intelligence (AI) has the potential to improve health care delivery for patients and providers. While one of the most common applications are automated bill pay services, the use of medical technology extends to machine learning algorithms to ..."
+    publishedDateTime: 2023-05-13T14:02:00Z
+    webUrl: "https://tucson.com/opinion/local/local-opinion-does-chatgpt-have-a-future-in-healthcare/article_81a34ee2-ef52-11ed-927e-dffedd275194.html"
+    type: article
+    provider:
+      name: Arizona Daily Star
+      domain: tucson.com
+    quality: 39
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/tucson.com/content/tncms/assets/v3/editorial/d/3c/d3c85faa-ef52-11ed-828d-2bc72cb50f57/645bcbd0e5fd4.image.jpg?crop=1172%2C659%2C1%2C202&resize=1120%2C630&order=crop%2Cresize"
+        width: 1120
+        height: 630
+        isCached: true
   - title: "Can You Build Large Language Models Like ChatGPT At Half Cost?"
     excerpt: "Learn about the cost of training Large Language Models like GPT-3. Explore how the LiGO technique can halve the cost of training LLMs."
     publishedDateTime: 2023-05-11T07:24:00Z

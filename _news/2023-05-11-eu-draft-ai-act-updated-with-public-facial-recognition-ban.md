@@ -97,22 +97,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Dover chaos fears as EU tipped to delay fingerprint and facial recognition checks"
-    excerpt: "One of the issues facing authorities at the Port of Dover and at Folkestone is the lack of room available to create first-time registration zones for the EU's new entry and exit system (ESS)."
-    publishedDateTime: 2023-05-08T20:56:00Z
-    webUrl: "https://www.express.co.uk/news/world/1767936/dover-fingerprint-facial-recognition-brexit"
-    ampWebUrl: "https://www.express.co.uk/news/world/1767936/dover-fingerprint-facial-recognition-brexit/amp"
-    cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/news/world/1767936/dover-fingerprint-facial-recognition-brexit/amp"
-    type: article
-    provider:
-      name: Daily Express
-      domain: express.co.uk
-    quality: 54
-    images:
-      - url: "https://cdn.images.express.co.uk/img/dynamic/78/590x/secondary/Port-4740308.jpg?r=1683579375171"
-        width: 590
-        height: 393
-        isCached: true
   - title: "The EU's incoming AI Act is giving off some real I, Robot vibes"
     excerpt: "The AI Act makes a lot of sense considering the state of the artificial intelligence discourse right now, though the first prohibited practice in the original proposal (opens in n"
     publishedDateTime: 2023-05-11T11:37:00Z

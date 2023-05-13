@@ -72,20 +72,6 @@ related:
         width: 740
         height: 450
         isCached: true
-  - title: "AI-generated images of satanic kids’ event misrepresented as real"
-    excerpt: "CLAIM: Photos show children being taught Satanism in libraries in the U.S. during an event called SatanCon. AP’S ASSESSMENT: False. The images were generated with an artificial intelligence tool and posted online."
-    publishedDateTime: 2023-05-08T21:41:00Z
-    webUrl: "https://apnews.com/article/fact-check-satanic-kids-libraries-415653916064"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 37
-    images:
-      - url: "https://storage.googleapis.com/afs-prod/media/afs:Medium:341014000747/822.jpeg"
-        width: 822
-        height: 500
-        isCached: true
   - title: "AI-generated letters to lawmakers may skew our politics"
     excerpt: "Artificial intelligence technology continues to develop at a rapid pace, and with the emergence of AI-powered language models, such as ChatGPT, concerns are developing about the potential spread of misinformation."
     publishedDateTime: 2023-05-12T11:27:00Z

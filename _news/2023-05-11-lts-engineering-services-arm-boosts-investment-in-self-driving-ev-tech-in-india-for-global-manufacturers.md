@@ -41,20 +41,6 @@ related:
         width: 920
         height: 520
         isCached: true
-  - title: "UK ‘losing ground’ in race for self-driving vehicles"
-    excerpt: "The government has been warned that the UK risks falling behind in the race to deploy self-driving car technology unless it brings in legislation soon.Unlike in"
-    publishedDateTime: 2023-05-08T23:01:00Z
-    webUrl: "https://www.thetimes.co.uk/article/uk-losing-ground-in-race-for-self-driving-vehicles-kxg389xvc"
-    type: article
-    provider:
-      name: The Times
-      domain: thetimes.co.uk
-    quality: 24
-    images:
-      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F1f97b87c-edc3-11ed-8ea4-131f6a9039fb.jpg?crop=2796%2C1573%2C70%2C192&resize=1200"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "R/pXv+0eZJqFeNSmt9GFfwniGcDVfIr+6sZ1vFZNWWVd+0M8hIfTSvD/cko6Tev/s09VUkrUfhkDwTfCiWrRnULqzgcz31kV+/DTaDbvfLpX85GE7yRxKB7PQj6DXA9v23oWyO2TjWwkExCkhEUkxP0AEDgZqEWFkzzudkHcsAJQxZdseoyx0Ye7Jo56x0jVdvzFxguUdf3wM2RuvlFzDSXPnjqwCUqRzG9tANcA1eQO+eiwAuO02z19kxEYgDxvIQx/udu/xUg1hM+/XTqBW9aRt02KLPdOiUDj9MOQotfJ//tbMpPr4BXz6nLVV5WWGf9PhiaflTPGgDqkXUJEdlpyS/jXIEkFm+3JlJTlDeNhaADXiykKLJFcR5yoNAw4y8mu+MkAWKaI8tXyU+c3W9rXqfsMF29pdQWa9ZaV/TIRsizBPJvekX/rSQ6AjtEKOF8XQU3Fg/5CgjwQ5iJH8vAhZIjMDZb2TG01JtPiyjIbZh2Mtsq6bH800HiRnvADiyd1/J6J9GHXcfKwrLX0uw==;VUWyRjjDLU+VbtlNYQkAsA=="
 ---

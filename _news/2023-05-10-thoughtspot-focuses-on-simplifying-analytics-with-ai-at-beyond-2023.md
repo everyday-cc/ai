@@ -22,22 +22,6 @@ topics:
   - AI
 
 related:
-  - title: "AI And Predictive Analytics: Moving From Insights To Foresight"
-    excerpt: "Given how much AI dominates today's technology conversations, many businesses feel the competitive pressure to jump on AI and analytics opportunities."
-    publishedDateTime: 2023-05-08T20:04:00Z
-    webUrl: "https://www.forbes.com/sites/microsoft_/2023/05/08/ai-and-predictive-analytics-moving-from-insights-to-foresight/"
-    ampWebUrl: "https://www.forbes.com/sites/microsoft_/2023/05/08/ai-and-predictive-analytics-moving-from-insights-to-foresight/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/microsoft_/2023/05/08/ai-and-predictive-analytics-moving-from-insights-to-foresight/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/645947bc0b8337af0bbe84e5/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Machine Learning & Big Data Analytics Education Market"
     excerpt: "Research Reports has published a new report titled as \"Machine Learning and Big Data Analytics Education Market\" by"
     publishedDateTime: 2023-05-11T01:18:00Z
@@ -47,6 +31,34 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 86
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Machine Learning & Big Data Analytics Education Market 2023 to Hit Statistical Significance Value by 2030"
+    excerpt: "The Machine Learning and Big Data Analytics Education Market is Expected to Lead During the Forecast Period 2023-2030 in Information and Communication Technology, Information Technology Sector. Market Growth Report Has Segmented the Global Machine Learning and Big Data Analytics Education market report based on Type (Machine Learning,"
+    publishedDateTime: 2023-05-11T04:25:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-big-data-analytics-education-market-2023-to-hit-statistical-significance-value-by-2030-2023-05-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 71
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Deep Learning in CT Scanners Market | 2030"
+    excerpt: "Precision Reports has published a new report titled as \" Deep Learning in CT Scanners Market \" by End User ( Hospital, Diagnostic Center, Research, Veterinary Clinic ), Types ( Stationary, Portable ),"
+    publishedDateTime: 2023-05-13T05:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-in-ct-scanners-market-2030-2023-05-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -93,6 +105,29 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 34
+  - title: "MultiPlan Acquires Leading Healthcare Data and Analytics Firm Benefits Science LLC"
+    excerpt: "MultiPlan Corporation (NYSE: MPLN) (“MultiPlan” or the “Company”), a leading provider of technology and data-enabled cost management, payment, and revenue integrity solutions to the U.S. healthcare industry,"
+    publishedDateTime: 2023-05-09T11:01:00Z
+    webUrl: "https://www.joplinglobe.com/region/national_business/multiplan-acquires-leading-healthcare-data-and-analytics-firm-benefits-science-llc/article_903e5220-8598-5bc0-9d9b-d397d41221da.html"
+    type: article
+    provider:
+      name: Joplin Globe
+      domain: joplinglobe.com
+    quality: 33
+    images:
+      - url: "https://static.cnhionline.com/ksherman/images/575801-RTJ-Masters-Package-300x250.gif"
+        width: 300
+        height: 250
+        isCached: true
+  - title: "FuriosaAI Enhances Next-Generation AI Chips with proteanTecs’ Deep Data Analytics"
+    excerpt: "Tecs, a global leader of deep data analytics for advanced electronics, announced today that FuriosaAI has selected their deep data analytics so"
+    publishedDateTime: 2023-05-09T14:15:00Z
+    webUrl: "https://www.businesswire.com/news/home/20230509005005/en/FuriosaAI-Enhances-Next-Generation-AI-Chips-with-proteanTecs’-Deep-Data-Analytics/"
+    type: article
+    provider:
+      name: newsroom.businesswire.com
+      domain: businesswire.com
+    quality: 29
   - title: "Boston’s Leading AI Image Analytics Startup Named to Leading 100 List of 2023"
     excerpt: "The Lead has announced The Leading 100 of 2023, the highly anticipated annual research list recognizing the innovative tech startups driving the future of brand-to-consumer, … Continue Reading →"
     publishedDateTime: 2023-05-11T13:10:00Z
