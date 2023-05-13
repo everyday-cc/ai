@@ -318,15 +318,6 @@ related:
         width: 620
         height: 349
         isCached: true
-  - title: "ChatGPT May Have a Big Role in Healthcare"
-    excerpt: "If the results of a recent study are any indication, ChatGPT may soon be professionally responding to patients’ written health-related questions. Virtual healthcare drastically expanded during t"
-    publishedDateTime: 2023-05-09T05:00:00Z
-    webUrl: "https://www.realclearscience.com/articles/2023/05/09/chatgpt_may_have_a_big_role_in_healthcare_898337.html"
-    type: article
-    provider:
-      name: RealClearScience
-      domain: realclearscience.com
-    quality: 19
   - title: "Wendy's testing AI chatbot that takes drive-thru orders"
     excerpt: "Fast food chain Wendy's is partnering with Google Cloud on an AI chatbot to take orders at a drive-thru, the company announced. Wendy's FreshAI will be launched in June as a pilot in a Columbus, Ohio area restaurant."
     publishedDateTime: 2023-05-10T19:43:00Z

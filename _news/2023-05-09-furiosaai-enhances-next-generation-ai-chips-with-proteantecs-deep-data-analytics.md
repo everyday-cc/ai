@@ -61,6 +61,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Machine Learning Recommendation Algorithm Market"
+    excerpt: "Research Reports has published a new report titled as \"Machine Learning Recommendation Algorithm Market\" by End"
+    publishedDateTime: 2023-05-13T17:45:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-recommendation-algorithm-market-2023-05-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Video Analytics and Artificial Intelligence Market"
     excerpt: "Precision Reports has published a new report titled as \"Video Analytics and Artificial Intelligence Market\" by End"
     publishedDateTime: 2023-05-12T04:38:00Z

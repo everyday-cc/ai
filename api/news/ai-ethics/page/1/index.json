@@ -2,6 +2,101 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-05-14-eric-schmidt-on-synthetic-biology-ai-ethics-and-the-bioeconomys-seismic-shift.md",
+      "title": "Eric Schmidt On Synthetic Biology, AI, Ethics And The Bioeconomy’s ‘Seismic Shift’",
+      "excerpt": "Eric Schmidt at the SynBioBeta conference. You mentioned the Bioeconomy Moonshot as a way to drive progress in biotech. What recent developments or advancements in synthetic biology are you most excited about?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johncumbers/2023/05/13/eric-schmidt-on-synthetic-biology-ai-ethics-and-the-bioeconomys-seismic-shift/",
+      "originalUrl": "https://www.forbes.com/sites/johncumbers/2023/05/13/eric-schmidt-on-synthetic-biology-ai-ethics-and-the-bioeconomys-seismic-shift/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/645fe1c0741dcd08dba69868/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johncumbers/2023/05/13/eric-schmidt-on-synthetic-biology-ai-ethics-and-the-bioeconomys-seismic-shift/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johncumbers/2023/05/13/eric-schmidt-on-synthetic-biology-ai-ethics-and-the-bioeconomys-seismic-shift/amp/",
+      "publishedDateTime": "2023-05-13T12:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-12-the-future-of-ai-has-begun-to-look-rather-too-human.md",
+      "title": "The future of AI has begun to look rather too human",
+      "excerpt": "The advancements in Large Language Models (LLMs) have led to the creation of AI chatbots that can provide personalized fitness plans and even answer questions as historical figures. However, this raises questions about the potential for AI to become indistinguishable from humans,",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/opinion/columns/the-future-of-ai-from-chatbots-to-digital-afterlife-what-lies-ahead-for-human-existence-and-society-11683828995918.html",
+      "originalUrl": "https://www.livemint.com/opinion/columns/the-future-of-ai-from-chatbots-to-digital-afterlife-what-lies-ahead-for-human-existence-and-society-11683828995918.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.livemint.com/lm-img/img/2023/05/11/600x338/AI_1683829938873_1683829939068.JPG",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/opinion/columns/the-future-of-ai-from-chatbots-to-digital-afterlife-what-lies-ahead-for-human-existence-and-society/amp-11683828995918.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/opinion/columns/the-future-of-ai-from-chatbots-to-digital-afterlife-what-lies-ahead-for-human-existence-and-society/amp-11683828995918.html",
+      "publishedDateTime": "2023-05-11T22:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-12-can-ai-deliver-a-customer-experience-like-a-grandmother-would.md",
       "title": "Can AI Deliver A Customer Experience Like A Grandmother Would?",
       "excerpt": "ChatGPT is super smart. But can it deliver the customer experience that creates ardent advocates? The new customer metric is not, \"Would you recommend,\" but \"Did you recommend\"—action always trumps intent.",
@@ -1386,101 +1481,6 @@
         "AI",
         "AI Ethics",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2023-04-29-data-and-ai-ethics-market-size-2023-with-swot-and-pestal-analysis-forecast-to-2031.md",
-      "title": "Data and AI Ethics Market Size 2023 with SWOT and PESTAL Analysis | Forecast to 2031",
-      "excerpt": "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/data-and-ai-ethics-market-size-2023-with-swot-and-pestal-analysis-forecast-to-2031-2023-04-28?tesla=y",
-      "originalUrl": "https://www.marketwatch.com/press-release/data-and-ai-ethics-market-size-2023-with-swot-and-pestal-analysis-forecast-to-2031-2023-04-28?tesla=y",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-28T11:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-28-voices-study-finds-creatives-optimistic-about-generative-ai-but-share-concerns-over-its-ethics.md",
-      "title": "Voices study finds creatives optimistic about generative AI, but share concerns over its ethics",
-      "excerpt": "PRNewswire/ - Today, Voices, the world's leading voice over marketplace, released their AI in the Creative Industry",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/voices-study-finds-creatives-optimistic-about-generative-ai-but-share-concerns-over-its-ethics-1032274231",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/voices-study-finds-creatives-optimistic-about-generative-ai-but-share-concerns-over-its-ethics-1032274231",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-28T08:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

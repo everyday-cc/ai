@@ -9,8 +9,8 @@ ampWebUrl: "https://www.livemint.com/opinion/columns/the-future-of-ai-from-chatb
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/opinion/columns/the-future-of-ai-from-chatbots-to-digital-afterlife-what-lies-ahead-for-human-existence-and-society/amp-11683828995918.html"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Mint
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI voice synthesising is being hailed as the future of video games – but at what cost?"
+    excerpt: "Tech advances that make it easier to recreate human voices also raise ethical questions about the rights of actors and musicians"
+    publishedDateTime: 2023-05-13T19:52:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/may/14/ai-voice-synthesising-is-being-hailed-as-the-future-of-video-games-but-at-what-cost"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/may/14/ai-voice-synthesising-is-being-hailed-as-the-future-of-video-games-but-at-what-cost"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/may/14/ai-voice-synthesising-is-being-hailed-as-the-future-of-video-games-but-at-what-cost"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 49
+    images:
+      - url: "https://i.guim.co.uk/img/media/0c2300f159bd34821e1c33a534861f1f1dc005f0/0_0_2860_1552/master/2860.jpg?width=620&quality=85&auto=format&fit=max&s=7359881931d227f2de5b3659f85a899f"
+        width: 620
+        height: 336
+        isCached: true
   - title: "Death of an Author Prophesies the Future of AI Novels"
     excerpt: "Stephen Marche composed this novella with extensive input from large language models. It’s required reading for anyone who's thinking about doing the same."
     publishedDateTime: 2023-05-09T13:00:00Z

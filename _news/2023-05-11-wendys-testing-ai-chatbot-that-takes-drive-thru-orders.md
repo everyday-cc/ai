@@ -322,15 +322,6 @@ related:
         width: 620
         height: 349
         isCached: true
-  - title: "ChatGPT May Have a Big Role in Healthcare"
-    excerpt: "If the results of a recent study are any indication, ChatGPT may soon be professionally responding to patients’ written health-related questions. Virtual healthcare drastically expanded during t"
-    publishedDateTime: 2023-05-09T05:00:00Z
-    webUrl: "https://www.realclearscience.com/articles/2023/05/09/chatgpt_may_have_a_big_role_in_healthcare_898337.html"
-    type: article
-    provider:
-      name: RealClearScience
-      domain: realclearscience.com
-    quality: 19
   - title: "Google-backed AI startup's chatbot can read novels in seconds"
     excerpt: "In an announcement about the increased capability of Claude, Anthropic claimed that they have raised the context window from 9K to 100K tokens, which corresponds to around 75,000 words. Tokens are the basic units of text or code that a large language model (LLM) AI uses to process and generate language."
     publishedDateTime: 2023-05-12T13:03:00Z

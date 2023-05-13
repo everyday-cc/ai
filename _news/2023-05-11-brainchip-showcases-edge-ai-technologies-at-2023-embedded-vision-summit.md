@@ -7,7 +7,7 @@ originalUrl: "https://www.design-reuse.com/news/54019/brainchip-2023-embedded-vi
 webUrl: "https://www.design-reuse.com/news/54019/brainchip-2023-embedded-vision-summit.html"
 type: article
 quality: 21
-heat: 21
+heat: -1
 published: false
 
 provider:
@@ -21,14 +21,16 @@ topics:
 
 related:
   - title: "Media Alert: BrainChip Showcases Edge AI Technologies at 2023 Embedded Vision Summit"
-    excerpt: "The Embedded Vision Summit attracts a global audience of technology professionals from companies developing computer vision and edge AI-enabled products including embedded systems, cloud solutions and mobile applications."
-    publishedDateTime: 2023-05-10T16:48:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/05/10/9811798.htm"
+    excerpt: "BrainChip Holdings Ltd ((ASX: BRN, OTCQX:BRCHF, OTC:BCHPY), the world's first commercial producer of ultra-low power, fully digital, event-based, neuromorphic AI IP, today announced that Chief Marketi"
+    publishedDateTime: 2023-05-10T15:01:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/05/b32318943/media-alert-brainchip-showcases-edge-ai-technologies-at-2023-embedded-vision-summit"
+    ampWebUrl: "https://www.benzinga.com/amp/content/32318943"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32318943"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 12
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 32
 
 secured: "oog30PsXdlLlebFF0r4NccIfBrBEdsHyNbICJzflkY2ZQG6PKXH9BxFnK6wo+Sq0np4kbmQTZLXusoGe1noliqsLqfkzkcF4+0FO2sy6vXv/6uFmhmCgu9sCfDgeXcOXYWWkDFdMKTJdMuqwmT5QaAnBVA/7iqe+H4L37Qlnp9OqRDCQdCY3RM3fBE2TL4aRj9BXA9NpZJ470LjZ1YHqLSlQh3ffekCiT2EeUVqXkCU8ORJIAqGiFtblpDYfWQkxTSFFqHV4obuUQAc8ZFzCDDSZaJGIvTg6mbsJyXHWRsxdGKW0hQNst2CteLnZcYjL6kUKWUCpaQIUd9gSxPAB54bpd7bYIdnJOjQJwf8rlfk=;KS6Ds2qPlzHK3OCfY1Fi9w=="
 ---

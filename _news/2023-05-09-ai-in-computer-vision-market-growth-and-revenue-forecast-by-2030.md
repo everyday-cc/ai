@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-ma
 webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-growth-and-revenue-forecast-by-2030-2023-05-08"
 type: article
 quality: 84
-heat: 294
+heat: 274
 published: true
 
 provider:
@@ -80,34 +80,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence and Cognitive Computing Market"
-    excerpt: "Research Reports has published a new report titled as \"Artificial Intelligence and Cognitive Computing Market\" by"
-    publishedDateTime: 2023-05-09T01:17:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-and-cognitive-computing-market-2023-05-08"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 67
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Enterprise Artificial Intelligence Market, 2030"
-    excerpt: "Research Reports has published a new report titled as \" Enterprise Artificial Intelligence Market \" by End User ( Security and Risk Management, Marketing Management, Customer Support and Experience, Human Resource and Recruitment Management,"
-    publishedDateTime: 2023-05-09T01:16:00Z
-    webUrl: "https://www.marketwatch.com/press-release/enterprise-artificial-intelligence-market-2030-2023-05-08"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 67
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -206,15 +178,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Cloud Natural Language Processing Market Size, 2030"
-    excerpt: "The Global Cloud Natural Language Processing market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players,"
-    publishedDateTime: 2023-05-09T01:08:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cloud-natural-language-processing-market-size-2030-2023-05-08"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
   - title: "Artificial Intelligence in Medication Management Market Report, Trends, Growth, Size, Share, and Forecast 2028"
     excerpt: "Get a Sample of the Artificial Intelligence in Medication Management Market Report @  Artificial Intelligence in Medication Management Market is rapidly growing with a CAGR of 22.3% from 2022 to 2028."
     publishedDateTime: 2023-05-11T12:09:00Z
@@ -298,6 +261,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Analysis the CAGR growth on the Global Speech & Voice Recognition Systems Market and the Market size is growing at a CAGR of 13.9% from 2023 - 2030"
+    excerpt: "The global Speech & Voice Recognition Systems market has seen significant growth in recent years, driven by increasing demand from various industries. Technological advancements, increasing consumer awareness,"
+    publishedDateTime: 2023-05-13T13:25:00Z
+    webUrl: "https://www.marketwatch.com/press-release/analysis-the-cagr-growth-on-the-global-speech-voice-recognition-systems-market-and-the-market-size-is-growing-at-a-cagr-of-139-from-2023---2030-2023-05-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 0
 
 secured: "8oUVbV1+AQLgv7vT+FmDCX4sVm7z4vkFcvZxIpkccIA1sssthpCl0aelANKJ0e0Ts76tgNLNIKUAjue00LdkzIp+qnsqnrZxw0Q9/ashPo9amJKOQHukjwhWl6rjkrd69c5RkWlv4p9BpWORS6wc/aLm3kdtwlIhEMkhQKGpUrolOoNFDyVeSZ+1LsGhrcqgjCmRuPyHyZUUXzA106fVsemDJ307V/UpJKdyqniWyv2t8oJAOgGKxdXOm0luhJQGzL3qeYQOVCLfHJNcE/BYFjMb60u+pmiFNhxSdx/6Xqysta/gmJclC1vLbDH+JitmOR40baTy7S9PK+Rulx/tocItDRwgYRYd2thgMriazLg=;QVvvuLvh+O13YZCA2TL1cg=="
 ---

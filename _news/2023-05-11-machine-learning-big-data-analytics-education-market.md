@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/machine-learning-big-dat
 webUrl: "https://www.marketwatch.com/press-release/machine-learning-big-data-analytics-education-market-2023-05-10"
 type: article
 quality: 86
-heat: 196
+heat: 206
 published: true
 
 provider:
@@ -48,6 +48,20 @@ related:
     excerpt: "Precision Reports has published a new report titled as \" Deep Learning in CT Scanners Market \" by End User ( Hospital, Diagnostic Center, Research, Veterinary Clinic ), Types ( Stationary, Portable ),"
     publishedDateTime: 2023-05-13T05:13:00Z
     webUrl: "https://www.marketwatch.com/press-release/deep-learning-in-ct-scanners-market-2030-2023-05-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Machine Learning Recommendation Algorithm Market"
+    excerpt: "Research Reports has published a new report titled as \"Machine Learning Recommendation Algorithm Market\" by End"
+    publishedDateTime: 2023-05-13T17:45:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-recommendation-algorithm-market-2023-05-13"
     type: article
     provider:
       name: MarketWatch

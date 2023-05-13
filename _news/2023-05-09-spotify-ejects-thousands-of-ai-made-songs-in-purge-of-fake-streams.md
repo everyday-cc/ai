@@ -38,6 +38,15 @@ related:
         width: 2400
         height: 1800
         isCached: true
+  - title: "Spotify deletes tens of thousands of songs made with Artificial Intelligence"
+    excerpt: "Spotify has deleted thousands of songs made with AI after fraud attempts and suspicious streaming activity on generative music startup Boomy's songs."
+    publishedDateTime: 2023-05-13T19:28:00Z
+    webUrl: "https://en.as.com/latest_news/spotify-deletes-tens-of-thousands-of-songs-made-with-artificial-intelligence-n/"
+    type: article
+    provider:
+      name: as.com
+      domain: as.com
+    quality: 14
 
 secured: "Tnqlz1kiRwu8oDIQXzf4KqNoHggkSBUywe6gLdPuFaMIvPYqy4aZe+ME9K8gTH/Dp8VAGJ1SoSEdXl/1XnB6PDRD6YnILCnLsxOkoktONKeaMPlaln2ftPbo7pBAyh8QkY/w8bMfpEr/Hs2z9JHhH3Qadcm70PtaJU8Se5y6II5BYnj+V42DEKPMeQJLafgz2+wGaA3ejQvC/gAQH2Jh6SkZFTVlytmFzfXU7SpgOTMbaK+6Iq9hpgKDz2JFtPCcdIX26zTT+68hHFIrPGJmBHShEgnQ9HGK6bpiPTKPQz3W0Ia6hUNK4ULh3xmd2w7MLPztgotiEz0uu9r2LBwuSC8+s3MZl43gReX+SbTs7orebT46Q/QsvPV8v66PKGW24czYt81H1GlJ53hK18hnmWlGx9EMbnf49fAyiMPVw1ed2chA21tu7rnfEazKAAMKjDoEHJmUhYJ1tVu6eA+zVH5DMgjnyuXoIsYW9R2oXIoI3zSF3Z5ysGSoe6gxavs7T2HNHKxvbneYo4MPYaufqg==;phBKyZzVjhk9Ecsqglgh7w=="
 ---

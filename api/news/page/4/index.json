@@ -2,6 +2,113 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-05-11-google-expands-tensorflow-open-source-tooling-for-accelerated-machine-learning-development.md",
+      "title": "Google expands TensorFlow open-source tooling for accelerated machine learning development",
+      "excerpt": "Google enhances TensorFlow with deep learning capabilities and parallelism techniques for developer choice in machine language tooling.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/google-expands-tensorflow-open-source-tooling-for-accelerated-machine-learning-development/",
+      "originalUrl": "https://venturebeat.com/ai/google-expands-tensorflow-open-source-tooling-for-accelerated-machine-learning-development/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/04/VB_google_deepmind_annc_042023-copy.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/google-expands-tensorflow-open-source-tooling-for-accelerated-machine-learning-development/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/google-expands-tensorflow-open-source-tooling-for-accelerated-machine-learning-development/amp/",
+      "publishedDateTime": "2023-05-10T13:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "TensorFlow",
+        "Google AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-05-11-palm-2-is-a-major-ai-update-built-into-25-google-products.md",
+      "title": "PaLM 2 Is a Major AI Update Built Into 25 Google Products",
+      "excerpt": "Google on Wednesday unveiled a new AI system called PaLM 2, a major update to its most powerful language processing system. The artificial intelligence technology already is incorporated into 25 Google products, underscoring its importance as the company races to capitalize on a computing revolution.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/tech/computing/palm-2-is-a-major-ai-update-built-into-25-google-products/",
+      "originalUrl": "https://www.cnet.com/tech/computing/palm-2-is-a-major-ai-update-built-into-25-google-products/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/fe3d1d07b739cc3244a8a9fcfe9874465549ff2c/hub/2023/05/10/cdb8cbe0-b31f-453b-a7be-880690b5828c/palm2.jpg?auto=webp&fit=crop&height=630&width=1200",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/palm-2-is-a-major-ai-update-built-into-25-google-products/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/palm-2-is-a-major-ai-update-built-into-25-google-products/",
+      "publishedDateTime": "2023-05-10T12:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2023-05-11-google-io-2023-live-blog-pixel-7a-fold-tablet-and-bard-ai-reveals.md",
       "title": "Google I/O 2023 Live Blog: Pixel 7A, Fold, Tablet and Bard AI Reveals",
       "excerpt": "Google I/O 2023, the company's annual developer conference is now underway and is already including reveals for Google's AI plans, the new Pixel 7A, Pixel Fold and Pixel Tablet. Google's keynote has just wrapped, but you can check out all the major highlights from our live blog below.",
@@ -1137,109 +1244,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-10-learn-how-to-build-ai-powered-software-with-this-40-bundle.md",
-      "title": "Learn how to build AI-powered software with this $40 bundle",
-      "excerpt": "Discover how to code your own chatbots, run data analysis and even create games. This bundle includes Python and ChatGPT video courses.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/build-ai-powered-software-chatgpt-python/",
-      "originalUrl": "https://www.techrepublic.com/article/build-ai-powered-software-chatgpt-python/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/wp-content/uploads/2023/05/tra5923-chatgpt-python-bundle.png",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/article/build-ai-powered-software-chatgpt-python/amp/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/build-ai-powered-software-chatgpt-python/amp/",
-      "publishedDateTime": "2023-05-10T02:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-10-mediatek-dimensity-9200-chipset-announced-with-upgraded-cpu-and-gpu-performance.md",
-      "title": "MediaTek Dimensity 9200+ chipset announced with upgraded CPU and GPU performance",
-      "excerpt": "MediaTek’s flagship chipset offerings have been gaining recognition for their impressive hardware, and the recently launched MediaTek Dimensity 9200 was no exception. Now, the company has announced an upgraded version of this chipset,",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2023/05/10/mediatek-dimensity-9200-plus-launch/",
-      "originalUrl": "https://www.gizmochina.com/2023/05/10/mediatek-dimensity-9200-plus-launch/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2023/05/MediaTek-Dimensity-9200-1.jpg",
-          "width": 1056,
-          "height": 741,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-10T02:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

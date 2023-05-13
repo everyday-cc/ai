@@ -76,20 +76,6 @@ related:
       name: Skift
       domain: skift.com
     quality: 39
-  - title: "GIC sees more growth in fintech after downturn"
-    excerpt: "SAN FRANCISCO - Singapore sovereign wealth fund GIC said it still sees more growth in the financial technology sector, even after a downturn that’s sent start-up valuations plummeting as investors turn away from riskier bets."
-    publishedDateTime: 2023-05-09T04:30:00Z
-    webUrl: "https://www.straitstimes.com/business/gic-sees-more-growth-in-fintech-after-downturn"
-    type: article
-    provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 24
-    images:
-      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2023/05/09/IMGGIC112113KC4_2.jpg?VersionId=gMEqlZHu5Vb7K_7IuRHKXnl.VfQvmEd4"
-        width: 860
-        height: 573
-        isCached: true
   - title: "Fintech Benchmarks 2023 – presentation"
     excerpt: "This year the tension between new forms of digital money and who has the authority to issue it came to the fore of the Fintech Benchmarks 2023. The majority of central banks – 73% – said keeping up with regulating the use of new fintech products and services is their key challenge."
     publishedDateTime: 2023-05-11T10:32:00Z

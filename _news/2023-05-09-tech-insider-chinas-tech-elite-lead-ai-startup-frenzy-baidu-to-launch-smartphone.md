@@ -7,7 +7,7 @@ originalUrl: "https://www.caixinglobal.com/2023-05-09/tech-insider-chinas-tech-e
 webUrl: "https://www.caixinglobal.com/2023-05-09/tech-insider-chinas-tech-elite-lead-ai-startup-frenzy-baidu-to-launch-smartphone-102050530.html"
 type: article
 quality: 11
-heat: -1
+heat: 11
 published: false
 
 provider:
@@ -16,22 +16,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "Baidu to launch its own phone soon"
-    excerpt: "Baidu said in its latest financial earnings that Xiaodu smart home systems were linked with more than 200 million units of devices covering 70 categories of smart household appliances and 1,200 well-known brands last year."
-    publishedDateTime: 2023-05-09T02:05:00Z
-    webUrl: "https://global.chinadaily.com.cn/a/202305/09/WS64599f74a310b6054fad1d17.html"
-    type: article
-    provider:
-      name: 中国日报网
-      domain: chinadaily.com.cn
-    quality: 39
-    images:
-      - url: "https://img2.chinadaily.com.cn/images/202305/09/64599f74a310b60580cc9054.jpeg"
-        width: 646
-        height: 430
-        isCached: true
 
 secured: "6gJ+XBc1L1z6eaVCdztfdvD1vJkh38iitgLelMUH3AhuRuiD34ZyNo+nrBDIqzfkWoGC0irr5oEXyJ6wnMmJFkhHEs1wIX1Sy0ov9/9pu8mQJmi35HpOHzhiCEhYcaWKwOBhqADYMsDgGOrPSbmMqAAM/E1bz1SET8/dHzFQuOBRqVCHLEMqBY9TFiy8zkhKV2y7F2r7W+LfUR2O1iKFzRFhSi/z69cBT2Hr8ETuEYd9nWeI0Y+b341K538e3wYpQnzpkQO4jXVF/yEhxuIU1aUiXWrmh0iZvCIJTAXxw37fpDEORgpJnWxqKCRHvNkBUJHuaAG8BfUH32evCCCiniUBGkZnSRwGWoofDYC3qGI=;QWFRZwyoRUFE9FACA5L8KA=="
 ---

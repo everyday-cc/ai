@@ -61,6 +61,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 64
+  - title: "Natural Language Processing (NLP) Market To See Huge Growth By 2030 | Dolbey Systems, Google LLC"
+    excerpt: "Coherent Market Insights recently published a research titled \"natural language processing (nlp) market 2023\" that offers details for both the regional and worldwide markets and forecasts trends between 2023 and 2030."
+    publishedDateTime: 2023-05-12T13:24:00Z
+    webUrl: "https://menafn.com/1106233138/Natural-Language-Processing-NLP-Market-To-See-Huge-Growth-By-2030-Dolbey-Systems-Google-LLC"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 41
+    images:
+      - url: "https://menafn.com/updates/pr/2023-05/12/EP_55327image_story.jpeg"
+        width: 600
+        height: 314
+        isCached: true
   - title: "New Report Predicts Significant Growth in Data Science and Machine-Learning Platforms Market to 2023"
     excerpt: "Data Science and Machine-Learning Platforms Market Size 2023 | New Report (127 Pages) | Analytics | In This Reports"
     publishedDateTime: 2023-05-09T06:43:00Z
@@ -75,15 +89,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Natural Language Processing (NLP) Market To See Huge Growth By 2030 | Dolbey Systems, Google LLC"
-    excerpt: "Coherent Market Insights recently published a research titled \"natural language processing (nlp) market 2023\" that offers details for both the regional and worldwide markets and forecasts trends between 2023 and 2030."
-    publishedDateTime: 2023-05-12T13:24:00Z
-    webUrl: "https://menafn.com/1106233138/Natural-Language-Processing-NLP-Market-To-See-Huge-Growth-By-2030-Dolbey-Systems-Google-LLC"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 21
 
 secured: "+AF21O+BEYH0Xjqp2BCESbYENqLw3HUEeTy/Q0dw9LHgyfbLQrbFPsrazFQQM2dUI5o4f5f2WT5NnFK11Qvq3VGD93oQbUmsobaoPQRX/8NCOt3kbU7gi+DuuwCH+X7CynTRh9H1MipFFhOEVsaxTptZvhKWWFXLlnbgGC+apDArIvGS8Y+KuuzZOv8c+mKeehubfa5fZUtJjiWtQpVm7tH6wPUSCWUEhLLyOxgiOsSl9M1mjrTZy7mgSNkDOkJWXYlUWx6BVws5vnx5gPHRq7zh8nL4MlRtzWJy10Hu71afX5zVmTeoSt1kJHb++lTDXIIo9nuJ0m/enLGZzbFi+nRgz98U9I3L8tBOuu1TI0c=;dNHEsKJPlP4YsN3uJ5boJw=="
 ---

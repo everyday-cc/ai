@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-agriculture-market-to-observer-consistent-development-all-through-forecast-period-2023-2023-05-09"
 type: article
 quality: 60
-heat: 60
-published: false
+heat: 70
+published: true
 
 provider:
   name: MarketWatch
@@ -27,6 +27,22 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Top AI Development Companies in 2023-24"
+    excerpt: "This blog covers the top 10 AI development companies in 2023-24 that offer premium AI development services. Read to know more."
+    publishedDateTime: 2023-05-11T14:45:00Z
+    webUrl: "https://business-review.eu/tech/top-ai-development-companies-in-2023-24-245845"
+    type: article
+    provider:
+      name: business-review.eu
+      domain: business-review.eu
+    quality: 39
+    images:
+      - url: "https://business-review.eu/wp-content/uploads/2023/05/AI1-1.png"
+        width: 624
+        height: 328
+        isCached: true
 
 secured: "4LZbWooa+esm+lw+JNtjbW8OS1p3/mYIUz1Hkpzs+w6rvRWfeh3ZryuNJT1Ujxvw6ThDNa3dN9VHIg4JNwuJWxzDjK7CDI56Ude2f1ennc9onalQwaS3j8q5P3xukPSXXXg3pTa28o/ESYtmCWWJKOSBjVSkJgbpKuxylhf2eTPPuGPe3nmkFq4km8PfMGDRPd/pHz8KzjobF5AIiO3XX80wIrsD+zA9b3vHXzeSTrxdCr4sZBfdEl7JddKJ7rzcD03DPocFG9do0ph79XTEUcN/yCZHViyssKKtskA/Coj8PAeu6b3A72rcG1oyrcgdKFViOa/K2ramfTZHqPzsRplGMV/lSP1TyMoFpfgkhmI=;JvHSxBbq9jtkQqt+xLKInw=="
 ---

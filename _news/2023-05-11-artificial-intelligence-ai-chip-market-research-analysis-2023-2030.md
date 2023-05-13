@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chip-market-research-analysis-2023-2030-2023-05-11"
 type: article
 quality: 99
-heat: 559
+heat: 539
 published: true
 
 provider:
@@ -122,20 +122,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 86
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "AI Accelerator Chip Market: Trend & Outlook by 2030"
-    excerpt: "The Main Objective of The AI Accelerator Chip Market Is to Develop the Perspectives of Business Professionals and"
-    publishedDateTime: 2023-05-09T03:57:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-accelerator-chip-market-trend-outlook-by-2030-2023-05-08"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 84
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -485,20 +471,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 55
-  - title: "Self-driving Cars Market Research | 2023-2030"
-    excerpt: "The Global Self-driving Cars market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players,"
-    publishedDateTime: 2023-05-09T04:06:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-cars-market-research-2023-2030-2023-05-09"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Voice Recognition Software Market Research, 2030"
     excerpt: "Precision Reports has published a new report titled as \"Voice Recognition Software Market\" by End User (Customized"
     publishedDateTime: 2023-05-09T07:06:00Z

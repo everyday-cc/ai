@@ -70,6 +70,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Machine Learning Recommendation Algorithm Market"
+    excerpt: "Research Reports has published a new report titled as \"Machine Learning Recommendation Algorithm Market\" by End"
+    publishedDateTime: 2023-05-13T17:45:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-recommendation-algorithm-market-2023-05-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Breaking AI bias: Predictive analytics platform aims to eliminate racism in marketing"
     excerpt: "AI-powered platform X_Stereotype uses predictive analytics to eliminate bias and racism by gauging the performance of marketing content across different races and cultures."
     publishedDateTime: 2023-05-11T19:03:00Z

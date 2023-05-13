@@ -7,7 +7,7 @@ originalUrl: "https://news.microsoft.com/source/features/ai/students-turn-to-ai-
 webUrl: "https://news.microsoft.com/source/features/ai/students-turn-to-ai-for-ideas-to-improve-lives-at-this-years-imagine-cup/"
 type: article
 quality: 18
-heat: -1
+heat: 18
 published: false
 
 provider:
@@ -21,36 +21,6 @@ provider:
 topics:
   - Microsoft AI
   - AI
-
-related:
-  - title: "Machine Learning and AI Improve the Bottom Line"
-    excerpt: "Machine learning and artificial intelligence may appear futuristic, but these solutions have advanced rapidly to where end users experience them as a practical, vital tool for improving the bottom line."
-    publishedDateTime: 2023-05-09T04:24:00Z
-    webUrl: "https://www.automationworld.com/analytics/article/33003186/machine-learning-and-ai-improve-the-bottom-line"
-    type: article
-    provider:
-      name: Automation World
-      domain: automationworld.com
-    quality: 54
-    images:
-      - url: "https://img.officer.com/files/base/ebm/automationworld/image/2023/04/Predictive_Maintenance_for_welding_gun.6434313795e1a.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Learning Advances Could Move Brain-Like AI Into Smartphones"
-    excerpt: "Implemented in chips, called neuromorphic hardware, such spiking neural networks hold the promise of bringing AI programmes closer to users – on their own devices. These local solutions are good for privacy, robustness and responsiveness. Applications ..."
-    publishedDateTime: 2023-05-09T09:39:00Z
-    webUrl: "https://www.technologynetworks.com/neuroscience/news/learning-advances-could-move-brain-like-ai-into-smartphones-373058"
-    type: article
-    provider:
-      name: technologynetworks
-      domain: technologynetworks.com
-    quality: 41
-    images:
-      - url: "https://assets.technologynetworks.com/production/dynamic/images/content/373058/learning-advances-could-move-brain-like-ai-into-smartphones-373058-640x360.jpg?cb=20230509"
-        width: 640
-        height: 360
-        isCached: true
 
 secured: "iZSJRGS2S4BFmtx790i82IjzrasS1/ehiOF7KiVyrn7rmrY3zfsz9fYGw3BCni74zQ91JhvyXMr2NPQRlknlRcILDLY2MoJIT1avDJ51fvHsXtaZaChGRCrBEyzTvZBNGigTzZRqwS/PnKaFuG6mwUb2sRZ3YYwbmc2ziyPcqdTzMgxv3i2awBYC4yThI3mgdKpMsznP+4lGvaCDuzIgvgkRDtWqyOaAzVIT8QDKgCp9tkKz5pak9nQLFds9hzgbCRbN/CGDLeraXcDPYmQ7U3U+e9lMbVm3/njzxmmayKtfCozWFz2z8btNhfwEqfXAD2rGIKR8sebCSaVKfEe+jQ6Spca3F6PRn44+QEWKm9A=;97n2TJw/yYmXzlr2Sgjdmw=="
 ---

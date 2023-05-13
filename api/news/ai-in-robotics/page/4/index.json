@@ -2,6 +2,50 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-04-17-deep-learning-robotics-dlrob-announces-support-for-universal-robots-devices-in-its-ai-powered-robotics-software.md",
+      "title": "Deep Learning Robotics (DLRob) Announces Support for Universal Robots devices in its AI-powered Robotics Software",
+      "excerpt": "Deep Learning Robotics (DLRob), a leading provider of AI robotics software, has announced its support for new hardware devices in its latest software update. The new",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/04/n31824160/deep-learning-robotics-dlrob-announces-support-for-universal-robots-devices-in-its-ai-powered-robo",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/04/n31824160/deep-learning-robotics-dlrob-announces-support-for-universal-robots-devices-in-its-ai-powered-robo",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-17T03:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2023-04-17-is-artificial-intelligence-advancing-too-quickly-what-ai-leaders-at-google-say.md",
       "title": "Is artificial intelligence advancing too quickly? What AI leaders at Google say",
       "excerpt": "The soccer robots, for example, can't write up a grocery list or book your travel or drive your car. The ultimate goal is what's called artificial general intelligence-- a learning machine that can score on a wide range of talents. Scott Pelley ...",
@@ -1290,40 +1334,6 @@
       "provider": {
         "name": "Gazette Series",
         "domain": "gazetteseries.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-08-embracing-ai-enabled-robotic-technology-for-productivity-and-convenience.md",
-      "title": "Embracing A.I.-Enabled Robotic Technology for Productivity and Convenience",
-      "excerpt": "As A.I.-enabled robotic technology becomes increasingly integrated into our everyday lives, remote workers and small-business owners can benefit from innovative solutions that simplify their lives and optimize productivity.",
-      "sourceUrl": null,
-      "webUrl": "https://www.inc.com/heather-wilde/embracing-ai-enabled-robotic-technology-for-productivity-convenience.html",
-      "originalUrl": "https://www.inc.com/heather-wilde/embracing-ai-enabled-robotic-technology-for-productivity-convenience.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-07T14:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Inc",
-        "domain": "inc.com",
         "images": null,
         "publishers": null,
         "authors": null

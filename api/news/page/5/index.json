@@ -2,6 +2,109 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-05-10-learn-how-to-build-ai-powered-software-with-this-40-bundle.md",
+      "title": "Learn how to build AI-powered software with this $40 bundle",
+      "excerpt": "Discover how to code your own chatbots, run data analysis and even create games. This bundle includes Python and ChatGPT video courses.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/build-ai-powered-software-chatgpt-python/",
+      "originalUrl": "https://www.techrepublic.com/article/build-ai-powered-software-chatgpt-python/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/wp-content/uploads/2023/05/tra5923-chatgpt-python-bundle.png",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/article/build-ai-powered-software-chatgpt-python/amp/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/build-ai-powered-software-chatgpt-python/amp/",
+      "publishedDateTime": "2023-05-10T02:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-10-mediatek-dimensity-9200-chipset-announced-with-upgraded-cpu-and-gpu-performance.md",
+      "title": "MediaTek Dimensity 9200+ chipset announced with upgraded CPU and GPU performance",
+      "excerpt": "MediaTek’s flagship chipset offerings have been gaining recognition for their impressive hardware, and the recently launched MediaTek Dimensity 9200 was no exception. Now, the company has announced an upgraded version of this chipset,",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2023/05/10/mediatek-dimensity-9200-plus-launch/",
+      "originalUrl": "https://www.gizmochina.com/2023/05/10/mediatek-dimensity-9200-plus-launch/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2023/05/MediaTek-Dimensity-9200-1.jpg",
+          "width": 1056,
+          "height": 741,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-10T02:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-10-eci-to-pilot-facial-recognition-technology-in-polls-iff-raises-concerns-of-surveillance.md",
       "title": "ECI To Pilot Facial Recognition Technology In Polls, IFF Raises Concerns Of Surveillance",
       "excerpt": "IFF has asked a copy of the relevant government order/notice/direction accompanying this move in its RTI to the ECI",
@@ -1137,109 +1240,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-09-3-ways-bud-light-disaster-ends-kamalas-artificial-intelligence-problem-and-more-fox-news-opinion.md",
-      "title": "3 ways Bud Light disaster ends, Kamala's artificial intelligence problem and more Fox News Opinion",
-      "excerpt": "Read the latest Fox News Opinion columns and watch videos from Sean Hannity, Laura Ingraham, Jesse Watters and more.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/opinion/bud-light-disaster-kamalas-artificial-intelligence-problem",
-      "originalUrl": "https://www.foxnews.com/opinion/bud-light-disaster-kamalas-artificial-intelligence-problem",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a0eb906b-3d83-408e-af92-173cd16e6f43/e0b9d36a-9913-4c2b-8fd2-eb2167427d91/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/opinion/bud-light-disaster-kamalas-artificial-intelligence-problem.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/bud-light-disaster-kamalas-artificial-intelligence-problem.amp",
-      "publishedDateTime": "2023-05-09T08:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-09-the-ai-revolution-transforming-hybrid-and-remote-work-and-the-return-to-office.md",
-      "title": "The AI Revolution Transforming Hybrid And Remote Work And The Return To Office",
-      "excerpt": "With the advent of generative AI like ChatGPT, we are on the cusp of realizing the full potential of remote and hybrid work by reducing - while not eliminating - the benefits of office visits.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/glebtsipursky/2023/05/09/the-ai-revolution-transforming-hybrid-and-remote-work-and-the-return-to-office/",
-      "originalUrl": "https://www.forbes.com/sites/glebtsipursky/2023/05/09/the-ai-revolution-transforming-hybrid-and-remote-work-and-the-return-to-office/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/645a5c605e5c27c4782796df/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/glebtsipursky/2023/05/09/the-ai-revolution-transforming-hybrid-and-remote-work-and-the-return-to-office/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glebtsipursky/2023/05/09/the-ai-revolution-transforming-hybrid-and-remote-work-and-the-return-to-office/amp/",
-      "publishedDateTime": "2023-05-09T07:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

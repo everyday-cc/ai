@@ -83,7 +83,12 @@ related:
     provider:
       name: Mena FN
       domain: menafn.com
-    quality: 21
+    quality: 41
+    images:
+      - url: "https://menafn.com/updates/pr/2023-05/12/EP_55327image_story.jpeg"
+        width: 600
+        height: 314
+        isCached: true
 
 secured: "Yfc/xNpeu8aKCvOLsNOA7YckKLeBagLE5ptjmyWq8d0lRwliUwbHTfQICM86df2FikmdLQaBXv87h2jAPMVNnfy8mOnRmCayR8ZO/o8u0HG/yEqcIuErZiyJiXfvfReEAxAyPBpcovBXIrgjJn2QoiuqNIG1XrfBKGKG9yWZtJifKXKJKAi1qKLFn0T4o6NWkpvWzgMBFy3UwVum3iY6BbijKREgNOWvZxZF9ZOW4RcbDZvL+12+gOjQbAoUTQIoNSw/Kza/QxKOmVswPXXu+5H0Bwpa2z/ssQdqoB5S5Ze2BrrH0yv9mC97LK4/A/n2L+7cvGbqvaNdKQ/WVM3tLS1/JUWAaZc7ZFm1OqDQ+hQ=;zcBFrl8Cg6Pj6ZLW7Ri+QQ=="
 ---

@@ -99,34 +99,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence and Cognitive Computing Market"
-    excerpt: "Research Reports has published a new report titled as \"Artificial Intelligence and Cognitive Computing Market\" by"
-    publishedDateTime: 2023-05-09T01:17:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-and-cognitive-computing-market-2023-05-08"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 67
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Enterprise Artificial Intelligence Market, 2030"
-    excerpt: "Research Reports has published a new report titled as \" Enterprise Artificial Intelligence Market \" by End User ( Security and Risk Management, Marketing Management, Customer Support and Experience, Human Resource and Recruitment Management,"
-    publishedDateTime: 2023-05-09T01:16:00Z
-    webUrl: "https://www.marketwatch.com/press-release/enterprise-artificial-intelligence-market-2030-2023-05-08"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 67
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence In Insurtech Market, 2030"
     excerpt: "The Global Artificial Intelligence In Insurtech market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players,"
     publishedDateTime: 2023-05-09T23:56:00Z
@@ -220,15 +192,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Cloud Natural Language Processing Market Size, 2030"
-    excerpt: "The Global Cloud Natural Language Processing market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players,"
-    publishedDateTime: 2023-05-09T01:08:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cloud-natural-language-processing-market-size-2030-2023-05-08"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
   - title: "Artificial Intelligence in Oil and Gas Market by 2030"
     excerpt: "Precision Reports has published a new report titled as \"Artificial Intelligence in Oil and Gas Market\" by End User"
     publishedDateTime: 2023-05-13T05:16:00Z
@@ -298,6 +261,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Analysis the CAGR growth on the Global Speech & Voice Recognition Systems Market and the Market size is growing at a CAGR of 13.9% from 2023 - 2030"
+    excerpt: "The global Speech & Voice Recognition Systems market has seen significant growth in recent years, driven by increasing demand from various industries. Technological advancements, increasing consumer awareness,"
+    publishedDateTime: 2023-05-13T13:25:00Z
+    webUrl: "https://www.marketwatch.com/press-release/analysis-the-cagr-growth-on-the-global-speech-voice-recognition-systems-market-and-the-market-size-is-growing-at-a-cagr-of-139-from-2023---2030-2023-05-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 0
 
 secured: "7wEcWTTTWBRwvFck7lX/SnZkVXdBME1qd9jrPDMnXrHakkd0tCWNvoXuqZ2T8MLo08uXEHpHDXItG2T9bmIwAk/6RpSF78Vf2VlUVSq9BkOvQbibiMtahvaqSa3Vv4GQRjTk3PKx9343HWl9YPFM18aa5GsAweJNvdnxUvN4xDJtcx9urzvmK96O5EY/hV+/YTBqmO12JVPysp9cBBRz7E4UR7q+j7lPMqNOM8ql/S8sNG762zULuVTm+VKdvzt/P8/dsBy9oX0WGw9SaouVJAqBWVE5HaYYfGrQZc2Bo0VcCxT7PmYQPH0ajjhJ9fjiDjs5XKbSl9RXOckTXp0xAzztjfDUYe5DvzcR5faeVNA=;UG5wZYuIOahQE/1KM6GGjw=="
 ---

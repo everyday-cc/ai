@@ -87,20 +87,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 31
-  - title: "GIC sees more growth in fintech after downturn"
-    excerpt: "SAN FRANCISCO - Singapore sovereign wealth fund GIC said it still sees more growth in the financial technology sector, even after a downturn that’s sent start-up valuations plummeting as investors turn away from riskier bets."
-    publishedDateTime: 2023-05-09T04:30:00Z
-    webUrl: "https://www.straitstimes.com/business/gic-sees-more-growth-in-fintech-after-downturn"
-    type: article
-    provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 24
-    images:
-      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2023/05/09/IMGGIC112113KC4_2.jpg?VersionId=gMEqlZHu5Vb7K_7IuRHKXnl.VfQvmEd4"
-        width: 860
-        height: 573
-        isCached: true
   - title: "Tricolor Wins Fintech Nexus Award for Excellence in Financial Inclusion"
     excerpt: "Tricolor Holdings today announced that it has been named the Fintech Nexus Award winner for Excellence in Financial Inclusion. Given to the financial services company making the biggest difference in expanding access to financial services for the underserved population,"
     publishedDateTime: 2023-05-11T13:15:00Z

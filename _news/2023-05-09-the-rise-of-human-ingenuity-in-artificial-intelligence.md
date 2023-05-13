@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 844
         isCached: true
-  - title: "Leveraging Artificial Intelligence In The Food Industry: How Startups Are Captivating Early Adopting F&B Operators to Tackle Theft and Waste"
-    excerpt: "As AI continues to reveal its potential across every industry, we remain focused on harnessing its power to improve productivity and ingenuity to address decades-old problems plaguing the industry we love so dearly."
-    publishedDateTime: 2023-05-09T03:00:00Z
-    webUrl: "https://www.entrepreneur.com/en-ae/technology/embracing-artificial-intelligence-in-the-food-industry-how/451146"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 32
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1683564033-Shutterstock-1937933428.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
 
 secured: "E0tgButsJAgMm7lSBlADUf4xx18fqCBZVJVjYA2G9N+ijk23qukPVReA4cVXyBfVqOw6ob2f8Z7/zJaAvinJX/1cjxk2tLRGFPJ12pSzrcsiqLCzPaMZkyv5IZeQ0Tk3ct74ojftY/7L5Kt6i/OvmRxwR/RaKnd84SueJwQkzwVS+WSCDeQ0Gc5zWB1qarvT44VR9Zyg2KMPDSnlnFk5Doxe5kn0BSxMlwIpuiDsc41FI7KnWWMIjwmm+QJDqINSNlL0JqJIh8cyMdy5Ccj4Lx6VeLLMgrsBo6tYShziYDlmgo6dTds37Y+luVWn8l9AN243NP+ELeD76gZ9OEZpk7ZjmiQf3JeyfNmELbek8MM=;rfK+5Xn2G8Ci8LNj2I7UTA=="
 ---

@@ -25,33 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "New Jersey biotech company uses artificial intelligence for drug development"
-    excerpt: "PsychoGenics CEO Emer Leahy of Paramus, New Jersey, explains how the first potential AI-discovered treatment for schizophrenia was developed through machine learning. Fox News Digital spoke with her."
-    publishedDateTime: 2023-05-09T01:22:00Z
-    webUrl: "https://www.foxnews.com/video/6327063190112"
+  - title: "Artificial Intelligence (AI) in Agriculture Market To Observer Consistent Development All through Forecast Period 2023"
+    excerpt: "This Artificial Intelligence (AI) in Agriculture Market report researches the key producers of Artificial Intelligence (AI) in Agriculture, also provides the sales of main regions"
+    publishedDateTime: 2023-05-09T07:35:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-agriculture-market-to-observer-consistent-development-all-through-forecast-period-2023-2023-05-09"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 64
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 60
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/44203693-1c85-4ea8-9deb-8fba074c2686/b1fd64fd-3b38-49fb-b878-65d240efae67/1280x720/match/1024/512/image.jpg?ve=1&tl=1"
-        width: 1024
-        height: 512
-        isCached: true
-  - title: "New Language for AI Development: Mojo builds on Python with the Power of C"
-    excerpt: "Mojo is a Python superset with additional functions. Chris Lattner, the creator of Swift and LLVM, is behind it."
-    publishedDateTime: 2023-05-09T15:25:00Z
-    webUrl: "https://www.heise.de/news/New-Language-for-AI-Development-Mojo-builds-on-Python-with-the-Power-of-C-8991728.html"
-    type: article
-    provider:
-      name: heise online
-      domain: heise.de
-    quality: 37
-    images:
-      - url: "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/1/5/6/3/8/0/shutterstock_2161477825-e7fd0c866f5b7ecd.jpg"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
-        height: 675
+        height: 630
         isCached: true
 
 secured: "YVUFpbYPrzeb8sDiNeWwMMqngmoOS97lEqDTgwVedh3RoSfdefW9qI/9s4oNOCA7Sp7qp0ETJ05mQsjnvqM9VDOMcSZMI4gE9Onv0c8n/IKvzYfgoZeHRbmXoNoY4m9ZusS8EkS+3k4pmivyvwCM4L4+kuwpEE19htxVmlgenW3jETgITW0J8x4ccrRsJhTrLGEeps5oJkouJYo9K0NlJwKNRoN9uohUMtYy9otzfLcnXsdDYtDiCToDPime06twZZ4UbeKKZTQBvOTcO+PDo1jCljrvUlUIkD2R+uJYHA1s+wUGJDUDR633N9QWPuigMF30/9ZRAt20CGF6KWTkbt4IH1abxVDAwtzijunqr80=;y9Qj3urRBGiDgJUYArGfJQ=="

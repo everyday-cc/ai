@@ -38,6 +38,22 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "AI voice synthesising is being hailed as the future of video games – but at what cost?"
+    excerpt: "Tech advances that make it easier to recreate human voices also raise ethical questions about the rights of actors and musicians"
+    publishedDateTime: 2023-05-13T19:52:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/may/14/ai-voice-synthesising-is-being-hailed-as-the-future-of-video-games-but-at-what-cost"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/may/14/ai-voice-synthesising-is-being-hailed-as-the-future-of-video-games-but-at-what-cost"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/may/14/ai-voice-synthesising-is-being-hailed-as-the-future-of-video-games-but-at-what-cost"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 49
+    images:
+      - url: "https://i.guim.co.uk/img/media/0c2300f159bd34821e1c33a534861f1f1dc005f0/0_0_2860_1552/master/2860.jpg?width=620&quality=85&auto=format&fit=max&s=7359881931d227f2de5b3659f85a899f"
+        width: 620
+        height: 336
+        isCached: true
 
 secured: "qlkQpEu8h5K+O1kFJT5xIyPtXYzdbM84EP19Wx7vL4VhZPDmXv+Lu5eWjXJ7deMfFy5D/4wDnkI9jppXIGuzv+IJbv9LJfP9CAjALY6CixUJiCw1Rti6GkKdWLgdI+fkKhNPwr8UoEYCfhjkVn48swKFj47Po0+ziPB3MXmg1RB4x2fzwwTmD9+m66rjiOW4fn4YXiPPgPVB+2GWcMnTU6ivouKQlpCQrmWYIYMJbCDXlaoTsprLBum8echbKUwFQaDje/TLd+rsTEoQlXgLeHI2Z0APkHIYMiHoul2DcQMt6ajwuUIpoCPydj3zAeXzyP4cCHrQ3WGKKEt3H2QbizGBKsRzriBl2Xtv5BTrDBfq2mtB+Z6LgaVn+HWvY9o4yvh2RMxIWAK3Rk/7M+Yucjv4gLG41QYAj+zk3cTzfRN1vffIyywOYJWyfaMXKNCJ6bcNaNG5IdQpvJn1Gt3QxV/MLKvuYKXPWEU+uSuSbo1iaEt9l51KRn1Pk3FRNwcOgDVYGoKq40fd/tS8RHt1Kw==;LoWIwmpgkk816NXcSQa+MA=="
 ---

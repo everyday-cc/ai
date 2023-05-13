@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/09/making-int
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/05/09/making-intelligent-noise-ai-in-the-music-industry/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
       - url: "https://static.toiimg.com/photo/75476733.cms"
         width: 640
         height: 360
-        isCached: true
-  - title: "Leveraging Artificial Intelligence In The Food Industry: How Startups Are Captivating Early Adopting F&B Operators to Tackle Theft and Waste"
-    excerpt: "As AI continues to reveal its potential across every industry, we remain focused on harnessing its power to improve productivity and ingenuity to address decades-old problems plaguing the industry we love so dearly."
-    publishedDateTime: 2023-05-09T03:00:00Z
-    webUrl: "https://www.entrepreneur.com/en-ae/technology/embracing-artificial-intelligence-in-the-food-industry-how/451146"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 32
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1683564033-Shutterstock-1937933428.jpg"
-        width: 2000
-        height: 1333
         isCached: true
 
 secured: "RpDsN7g3rxUWzXSJrD7uJJBlqzBWSBDLEkaGoUEMDEdiDdvltvwtrSaK36WaBKFQrCB0T9mib+/hXXHp3BmNvK5a9BO3BNpV6k7TwFy5xv0DzavbvUsyNik7SglfMac6kQBUrp59Bgvx53RbjuCnlYnX/7LAzsc433a37zrtqz+EcxZaEgmm5LBBpyg+EjW5Kn1nU9oZHxZwjKycPQU2+b78VvgHs+G4lO4deIhB17z+KRXdWROCkPMgPeIrVdwtwh+EjSz+MLKHLBFF4P+Wp5490St/jIDXnqcW0wpGW/V4DvWHRNpj6QzOycmqsSjGRrvraVvmnb/WNMUiv+HRYagEPDTRHqmmc02m5iS/DPw=;4XnI0ubE30bAGdgX8eVFPA=="

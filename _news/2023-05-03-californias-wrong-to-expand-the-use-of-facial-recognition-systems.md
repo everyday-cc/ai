@@ -3,67 +3,26 @@ category: news
 title: "California’s wrong to expand the use of facial recognition systems"
 excerpt: "As technology advances, so too do the challenges surrounding the protection of the public’s privacy and our civil liberties."
 publishedDateTime: 2023-05-03T15:00:00Z
-originalUrl: "https://www.ocregister.com/2023/05/03/state-wrong-to-expand-use-of-face-id-systems/"
-webUrl: "https://www.ocregister.com/2023/05/03/state-wrong-to-expand-use-of-face-id-systems/"
+originalUrl: "https://www.dailynews.com/2023/05/03/state-wrong-to-expand-use-of-face-id-systems/"
+webUrl: "https://www.dailynews.com/2023/05/03/state-wrong-to-expand-use-of-face-id-systems/"
+ampWebUrl: "https://www.dailynews.com/2023/05/03/state-wrong-to-expand-use-of-face-id-systems/amp/"
+cdnAmpWebUrl: "https://www-dailynews-com.cdn.ampproject.org/c/s/www.dailynews.com/2023/05/03/state-wrong-to-expand-use-of-face-id-systems/amp/"
 type: article
-quality: 19
-heat: -1
-published: false
 
 provider:
-  name: Orange County Register
-  domain: ocregister.com
+  name: Los Angeles Daily News
+  domain: dailynews.com
 
 topics:
   - Computer Vision
   - AI
 
-related:
-  - title: "Opinion: California Wrong to Expand Facial Recognition Use"
-    excerpt: "The technology still misidentifies individuals, especially when it’s focused on people of color. While the technology has advanced, the problems haven't gone away, and new legislation won’t fix them either."
-    publishedDateTime: 2023-05-04T22:56:00Z
-    webUrl: "https://www.govtech.com/opinion/opinion-california-wrong-to-expand-facial-recognition-use"
-    ampWebUrl: "https://www.govtech.com/opinion/opinion-california-wrong-to-expand-facial-recognition-use?_amp=true"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/opinion/opinion-california-wrong-to-expand-facial-recognition-use?_amp=true"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 59
-    images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/cf6e9f9/2147483647/strip/true/crop/940x490+0+68/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F13%2F77%2F5763ddd14e65eb9c7594500441fc%2Fshutterstock-1270097047.jpg"
-        width: 840
-        height: 438
-        isCached: true
-  - title: "University of Southern California launches $1B-plus initiative for computing including AI, advanced computation and quantum computing"
-    excerpt: "Folt on Thursday announced a $1 billion-plus initiative for computing research and education across disciplines, with a focus on AI, machine learning and data ... to have a solid grounding in technology and the ethics of the work that they do,\" Folt ..."
-    publishedDateTime: 2023-05-05T18:56:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/university-of-southern-california-launches-1b-plus-initiative-for-computing-including-ai-advanced-computation-and-quantum-computing-1032298479"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 38
-    images:
-      - url: "https://mma.prnewswire.com/media/2070308/ICT_VR.jpg"
-        width: 400
-        height: 267
-        isCached: true
-  - title: "In California, the specter of self-driving trucks brings a backlash"
-    excerpt: "California, the birthplace and epicenter of the self-driving industry, could soon put the brakes on autonomous trucking."
-    publishedDateTime: 2023-05-05T04:00:00Z
-    webUrl: "https://www.autonews.com/mobility-report/california-assembly-bill-316-chills-self-driving-truck-hopes"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 24
-    images:
-      - url: "https://www.autonews.com/s3/files/styles/1200x630/public/california_truck_tech-MAIN.jpg"
-        width: 1200
-        height: 630
-        isCached: true
+images:
+  - url: "https://www.dailynews.com/wp-content/uploads/2023/05/PAS-L-FACE-RECOGNITION-0226-03-SR.jpg?w=1024&h=683"
+    width: 1024
+    height: 682
+    isCached: true
 
-secured: "f9yZwEcG5nAadKVMyoNKm054mtY+VAYs4O+6zvXcQqMo0VfNyM1xI5GeWhnr5gSGvbcKyW1iSsrKgr3SaOGdKM9Xr7f7Fd8Lka/NU/AbwQydSn+K9lr7895bVOcflnyambv9OAbApVQ1Z/qa0Mckah3DyWKS1WNdfZI7JNgpWzk3wPu0UHz5jNwIzQV8PP0jHQ4qwmwxwS1/IM8mTTr5pvbaoE/xJVuQJbu2xNidSKCYApizt3LSTScrVzK/wFWJjgDlxZ3WvGum22ModDIan49JRhzdrWqOXj6d2bAjTObXWdYmBtaKe3S81ZsBLMWUyaQO9Rm2dbvx1I56CjDwCAp+k0OP3SuL6vfS+//9Zi14vZcdzStVmFbqsjCf0DyohzcHgt4eJa1j7wc5+G7f922AB03l0X9rK+Wm2NKiX1iUPEKXy26zwMYhCXIwXKjZUAcyUGPV6JX6Kws8l2THp1KSkjYXw4Ylb18ZXHoqtSh0zow2JjnTC+GLgN7HPr/b12bTXaz+IN7iXyoQIIyeNw==;2woJiUPBxlzA/yZmusrf8g=="
+secured: "m9I7Sod6YnTgSfkhzGY32WXAio6Fnncvjye4ObgJ1AdpAXdBBGDclS9dpBg8jT1nReUKoS9sRVPoLMRjRzgAu+G15W01NH3sqxWwXc7C1J/1oLRU8XZ2P7CQmIBGfaIRkmWSXAd/QCIqO607RoxkEiajBt1024gZVfvw1/ZE7jEyYCPrir/nGfzzTmISslLNwM0DGYXXmu70I4mGRd0bLsuKHSv579IMcdX4KNF/5HdjkORUTKX6kLckbO1OX5OugNTXAjPGmvfWKWO/JWJgJvGoC+JjwWqS/RMtM8voPU7I7chShGFdQCZp7/S+V9lRUquGXU4kbAoLxsJHjwSz0JOYGdBqryHGgiKRmzIo0Qc=;KHUt2w74ppvVZEdcFFdM6A=="
 ---
 

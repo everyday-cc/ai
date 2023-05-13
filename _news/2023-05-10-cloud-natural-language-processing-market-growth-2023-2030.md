@@ -61,6 +61,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 64
+  - title: "Natural Language Processing (NLP) Market To See Huge Growth By 2030 | Dolbey Systems, Google LLC"
+    excerpt: "Coherent Market Insights recently published a research titled \"natural language processing (nlp) market 2023\" that offers details for both the regional and worldwide markets and forecasts trends between 2023 and 2030."
+    publishedDateTime: 2023-05-12T13:24:00Z
+    webUrl: "https://menafn.com/1106233138/Natural-Language-Processing-NLP-Market-To-See-Huge-Growth-By-2030-Dolbey-Systems-Google-LLC"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 41
+    images:
+      - url: "https://menafn.com/updates/pr/2023-05/12/EP_55327image_story.jpeg"
+        width: 600
+        height: 314
+        isCached: true
   - title: "New Report Predicts Significant Growth in Data Science and Machine-Learning Platforms Market to 2023"
     excerpt: "Data Science and Machine-Learning Platforms Market Size 2023 | New Report (127 Pages) | Analytics | In This Reports"
     publishedDateTime: 2023-05-09T06:43:00Z
@@ -75,15 +89,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Natural Language Processing (NLP) Market To See Huge Growth By 2030 | Dolbey Systems, Google LLC"
-    excerpt: "Coherent Market Insights recently published a research titled \"natural language processing (nlp) market 2023\" that offers details for both the regional and worldwide markets and forecasts trends between 2023 and 2030."
-    publishedDateTime: 2023-05-12T13:24:00Z
-    webUrl: "https://menafn.com/1106233138/Natural-Language-Processing-NLP-Market-To-See-Huge-Growth-By-2030-Dolbey-Systems-Google-LLC"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 21
 
 secured: "F5KQFBL7d+RbW3CK1Dgm5Tp1c0jAefF809yVTjMDJJdXFR3esUjL8O3qAApULFSqEMGqElZD3qc7CvyTsyBwnp8COsSoUES8D4d2O/nV5LeyZCy75aK5CcTP6hCyYVu6QJFbQYpiHum9SrdDvr1RXPvQUawxzkEm9rsgfVh7dRUOMhfxw6DaK0dkP2HwPrJpABu7Ut9IUaUo/kmJXuL9cuLAcczUUCc3U05CFkTf9YEnKrUFXd5lTbx6HlecirYGfK2dTMKpgPXD5aV36DkcMJKSukl1lJqQH2yuA3MUEQ55YHA6U85Qkb7IT2WdH8lLEj0YVtuSioqdPf1G2l8iltl1H4VfvRwfzeAV2A84kSs=;5HXjLtu5+xNuuGUutY3xKA=="
 ---
