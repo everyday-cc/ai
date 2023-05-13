@@ -66,6 +66,29 @@ related:
       name: NBC News
       domain: nbcnews.com
     quality: 49
+  - title: "3 AI Stocks That Have Game-Changing Technologies"
+    excerpt: "Companies are leveraging AI to create new technologies that promise to reshape our world. Some AI applications will fail, while others will be game-changing. Thus, investing in th"
+    publishedDateTime: 2023-05-11T16:17:00Z
+    webUrl: "https://www.nasdaq.com/articles/3-ai-stocks-that-have-game-changing-technologies"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 47
+  - title: "Thousands of hackers will soon test the limits of AI technology"
+    excerpt: "No sooner did ChatGPT get unleashed than hackers started “jailbreaking” the artificial intelligence chatbot – trying to override its safeguards so it could blurt out something unhinged or obscene. But now its maker,"
+    publishedDateTime: 2023-05-10T15:23:00Z
+    webUrl: "https://www.dailypress.com/nation-world/vp-nw-chatgpt-ai-hackers-20230510-hdgshb52pnfvbdwr22jjcyjdmi-story.html"
+    type: article
+    provider:
+      name: Daily Press
+      domain: dailypress.com
+    quality: 39
+    images:
+      - url: "https://www.dailypress.com/resizer/BOaqPlMihMZc9VFw9XP_zlzSzdg=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/AOU5ZRXYBHSDZZIUXNBDMAUUNQ.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Vintra showcases its artificial intelligence technology in a demo"
     excerpt: "Vintra, mentioned by former Boston police commissioner Ed Davis during a Senate hearing about the Boston marathon bombing, can learn \"from normal activity\" to notify operators of \"approaching threats and of anomalies."
     publishedDateTime: 2023-05-10T22:30:00Z

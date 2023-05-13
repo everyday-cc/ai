@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo173891653794"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo173891653794"
 type: article
 quality: 87
-heat: 277
+heat: 267
 published: true
 
 provider:
@@ -99,22 +99,6 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/645a534875a3f83c6644914e/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 900
-        isCached: true
-  - title: "Navigating the hype of AI tools in HR"
-    excerpt: "Sometimes it’s better to be first to a new technology, but in the case of AI in HR, it may just be better to be smart than first."
-    publishedDateTime: 2023-05-08T14:16:00Z
-    webUrl: "https://www.benefitspro.com/2023/05/08/147764/"
-    ampWebUrl: "https://www.benefitspro.com/2023/05/08/147764/?amp=1"
-    cdnAmpWebUrl: "https://www-benefitspro-com.cdn.ampproject.org/c/s/www.benefitspro.com/2023/05/08/147764/?amp=1"
-    type: article
-    provider:
-      name: Benefits Pro
-      domain: benefitspro.com
-    quality: 59
-    images:
-      - url: "https://images.benefitspro.com/contrib/content/uploads/sites/412/2022/10/Looking-at-Technology-Article-202210271701.jpg"
-        width: 620
-        height: 372
         isCached: true
   - title: "Larry Magid: Google unveils new devices while focusing on AI"
     excerpt: "As I entered Shoreline Amphitheater on Wednesday, I thought I was attending Google IO – the company’s annual developers conference. But after listening to CEO Sundar Pichai and several other"

@@ -72,20 +72,6 @@ related:
         width: 740
         height: 450
         isCached: true
-  - title: "Artificial intelligence identifies new anti-aging compounds"
-    excerpt: "This research result is a significant milestone for both longevity research and the application of artificial intelligence to drug discovery,” said co-lead author Felix Wong, the co-founder of Integrated Biosciences."
-    publishedDateTime: 2023-05-08T14:58:00Z
-    webUrl: "https://www.earth.com/news/artificial-intelligence-identifies-new-anti-aging-compounds/"
-    type: article
-    provider:
-      name: earth
-      domain: earth.com
-    quality: 39
-    images:
-      - url: "https://cff2.earth.com/uploads/2023/05/08085811/Aging.jpg"
-        width: 1000
-        height: 667
-        isCached: true
   - title: "AI-generated images of satanic kids’ event misrepresented as real"
     excerpt: "CLAIM: Photos show children being taught Satanism in libraries in the U.S. during an event called SatanCon. AP’S ASSESSMENT: False. The images were generated with an artificial intelligence tool and posted online."
     publishedDateTime: 2023-05-08T21:41:00Z

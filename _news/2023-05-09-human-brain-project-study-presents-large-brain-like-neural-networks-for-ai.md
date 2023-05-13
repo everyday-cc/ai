@@ -41,20 +41,6 @@ related:
         width: 1345
         height: 1105
         isCached: true
-  - title: "Study presents large brain-like neural networks for AI"
-    excerpt: "In a study that appears today in Nature Machine Intelligence*, CWI researchers Bojian Yin and Sander Bohté demonstrate a significant step towards artificial intelligence (AI) that can be used in local devices like smartphones and in VR-like applications,"
-    publishedDateTime: 2023-05-08T15:01:00Z
-    webUrl: "https://www.cwi.nl/en/news/study-presents-large-brain-like-neural-networks-for-ai/"
-    type: article
-    provider:
-      name: CWI
-      domain: www.cwi.nl
-    quality: 54
-    images:
-      - url: "https://www.cwi.nl/images/13355/brein_op_chip_shutterstock-verkle.2e16d0ba.fill-1200x630.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Learning Advances Could Move Brain-Like AI Into Smartphones"
     excerpt: "Implemented in chips, called neuromorphic hardware, such spiking neural networks hold the promise of bringing AI programmes closer to users – on their own devices. These local solutions are good for privacy, robustness and responsiveness. Applications ..."
     publishedDateTime: 2023-05-09T09:39:00Z

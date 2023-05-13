@@ -7,7 +7,7 @@ originalUrl: "https://time.com/6278841/microsoft-ceo-satya-nadella-on-artificial
 webUrl: "https://time.com/6278841/microsoft-ceo-satya-nadella-on-artificial-intelligence/"
 type: article
 quality: 84
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -73,15 +73,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "MakeMyTrip ties up with Microsoft for AI-backed trip bookings"
-    excerpt: "MakeMyTrip ties up with Microsoft for voice-assisted travel bookings. Microsoft Azure OpenAI Service and Azure Cognitive Services will converse with the user to offer personalised travel recommendatio"
-    publishedDateTime: 2023-05-08T13:20:00Z
-    webUrl: "https://www.thehindubusinessline.com/companies/makemytrip-ties-up-with-microsoft-for-ai-backed-trip-bookings/article66826930.ece"
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 34
 
 secured: "quamTEZSYQzJeKViwiuUNVpvhT4Dgohx/477/AnI0WHJwpyvmIakk3SRjzh4hbMXVld4V95dvXRK7ae08nu31X5ikS7ZlqlzI1UmyBOh42vOX6VFbMB4y0+RluuowCjwwcSz/gAr9qwyw0v7yZBs/HFwrFFnV05GQFSZS295QYj7B1Z2ZpfLgg5i8oFedubd/jiLFvXqjSQGk93uy2ghGfCHRu4pW6iwz7kQQSqHPCqxLHVQAPnHNY4cbkD1cD6f+MSvd9HDkdpnz9LAxnRAwpog8FdsrydGL5N9aNTSDkX7msU9cQSwXMOrwTF3TJy+Qma/kKrQuUJWoZsnxzKkbFOxMai736fWvWvDrP79KuY=;7ssKZDVajEMOLBzgNqtsPg=="
 ---

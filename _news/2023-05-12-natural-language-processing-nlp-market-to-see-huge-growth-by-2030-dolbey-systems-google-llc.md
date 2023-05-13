@@ -65,6 +65,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 64
+  - title: "New Report Predicts Significant Growth in Data Science and Machine-Learning Platforms Market to 2023"
+    excerpt: "Data Science and Machine-Learning Platforms Market Size 2023 | New Report (127 Pages) | Analytics | In This Reports"
+    publishedDateTime: 2023-05-09T06:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/new-report-predicts-significant-growth-in-data-science-and-machine-learning-platforms-market-to-2023-2023-05-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 39
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "q17sHHtTrzsU8KoMQI0Eqoj19ROwhjbZ+udy8oT8oKrSw+mEmPd5R81pNd5Ql8H+NR+dCCzR4gC6bREq8cAU5CVjwSVOvNzeP/RnaOAapEFS0zuWgl54wblsD8YWhd3lawxC+pRSMlIpO1SPQC36SoixYlOeQmNIMZ9LdGapMQgrrxikgoMiYmTJ+91DkT4oNqFaQiWfLW3GxzGi6iQgRuK/pb4tJUmSIS5GVQaqg1ISqGDVulyqAPTz5oZ6p5LxBVSjrnbT4Bq8Cp5u+LdkL5HL3Hmvc7MdLShupkeB1CRAr0LXXJGMyBKyx4c0HN6UCPFpoYWE6FxllKTbXzEjtLcr7tqWTRnGTI3YTQe5KaA=;pXLXSKU6UfYmpdodFExYYg=="
 ---

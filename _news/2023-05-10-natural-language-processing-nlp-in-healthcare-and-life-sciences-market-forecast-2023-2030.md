@@ -61,6 +61,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 64
+  - title: "New Report Predicts Significant Growth in Data Science and Machine-Learning Platforms Market to 2023"
+    excerpt: "Data Science and Machine-Learning Platforms Market Size 2023 | New Report (127 Pages) | Analytics | In This Reports"
+    publishedDateTime: 2023-05-09T06:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/new-report-predicts-significant-growth-in-data-science-and-machine-learning-platforms-market-to-2023-2023-05-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 39
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Natural Language Processing (NLP) Market To See Huge Growth By 2030 | Dolbey Systems, Google LLC"
     excerpt: "Coherent Market Insights recently published a research titled \"natural language processing (nlp) market 2023\" that offers details for both the regional and worldwide markets and forecasts trends between 2023 and 2030."
     publishedDateTime: 2023-05-12T13:24:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/etf/chinese-tech-companie
 webUrl: "https://markets.businessinsider.com/news/etf/chinese-tech-companies-forced-to-think-outside-the-box-to-overcome-us-chip-ban-in-the-race-for-ai-supremacy-1032303426"
 type: article
 quality: 68
-heat: 88
+heat: 78
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
       - url: "https://www.manilatimes.net/uploads/authors/468_1656384454.jpg"
         width: 400
         height: 400
-        isCached: true
-  - title: "US sanctions force Chinese firms to strive for alternatives to AI chips: experts"
-    excerpt: "The US government's intensifying chip sanctions against China have forced Chinese firms to search for alternatives to advanced chips used in cutting-edge artificial intelligence (AI) and could even offer a new opportunity for Chinese firms to take the lead in the emerging technology,"
-    publishedDateTime: 2023-05-08T14:36:00Z
-    webUrl: "https://www.globaltimes.cn/page/202305/1290343.shtml"
-    type: article
-    provider:
-      name: Global Times
-      domain: globaltimes.cn
-    quality: 49
-    images:
-      - url: "https://www.globaltimes.cn/Portals/0/attachment/2023/2023-04-11/61b112bd-1fff-4b0e-bc56-3d47fa2f37df.jpeg"
-        width: 800
-        height: 480
         isCached: true
 
 secured: "NKus6zT4pITULLzr22eAgFeMxC++LXqMIcIcKY4r+DkWhztxK9rlasLpM938Nm835lKzMs8nbMBsDA2Vvl7gLsVOnbRIzsIleFSpzkacHjRHlVHsxC0kpdxTCJW1kWfUF53EjqDxZrMx3GTn1XX4c2CAzbVQB41mZNd2662rDycJT927yAK0cYf0jNK2HhvXdMqvZH1yxNa/oEkU5oOkfyeqIGY1Fev92OVZWZx5F4jj7yRpsUG+Rjiy8TUyViSkg6ZXH6o7IKx1x3aUe99b0osXrVd5NHbNZhHDP7zdHyxZRyPePu0WaXyQBPJ6mAifms9YGibzj41o2EyiDmm/07FZDnUSf1CJD5ye2OD4Xdg=;0eghZQg+vsm63dS6fqXeJw=="

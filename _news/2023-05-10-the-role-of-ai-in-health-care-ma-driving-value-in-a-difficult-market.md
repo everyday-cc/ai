@@ -71,20 +71,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Here’s how UPMC’s CTO is thinking about AI in healthcare, from sorting data to fielding questions"
-    excerpt: "Chris Carmody told Technical.ly the Pittsburgh healthcare system wants to apply artificial intelligence to make patients and health professionals’ lives easier."
-    publishedDateTime: 2023-05-08T14:00:00Z
-    webUrl: "https://technical.ly/software-development/upmc-ai-healthcare-chris-carmody/"
-    type: article
-    provider:
-      name: Technical
-      domain: technical.ly
-    quality: 41
-    images:
-      - url: "https://technical.ly/wp-content/uploads/2023/05/christian-carmody-hr.jpg"
-        width: 300
-        height: 300
-        isCached: true
   - title: "Artificial Intelligence Improves Prediction of Pancreatic Cancer"
     excerpt: "Artificial intelligence (AI) can improve the design of surveillance programs for pancreatic cancer, according to a study published online May 8 in Nature Medicine. Davide Placido, from the University of Copenhagen in Denmark,"
     publishedDateTime: 2023-05-12T23:59:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/finovax-leads-the-charge
 webUrl: "https://www.marketwatch.com/press-release/finovax-leads-the-charge-in-fintech-innovation-ai-powered-solutions-drive-business-growth-2023-05-09"
 type: article
 quality: 59
-heat: 169
+heat: 159
 published: true
 
 provider:
@@ -154,15 +154,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Finovax Leads the Charge in Fintech Innovation: AI-Powered Solutions Drive Business Growth"
-    excerpt: "Based Fintech Company Embraces Artificial Intelligence to Revolutionize Financial Data Products and Fuel Expansion New York, United States - May 8, 2023 — (NEW YORK CITY, NY) — Finovax, a trailblazing fintech"
-    publishedDateTime: 2023-05-08T14:00:00Z
-    webUrl: "https://www.asiaone.com/business/finovax-leads-charge-fintech-innovation-ai-powered-solutions-drive-business-growth"
-    type: article
-    provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 9
 
 secured: "qYUqeDdgRvWPOgowSYuJFQQ5p5YDklvG3Ebt/Oy02aEo7m0nmyPpiDuUQnenz+ra6ABugHcw+W3t7IUVO6EI+9HwqHR6u9VMmdrjRYiBm76pz8Y3u4EOPJSS9k75oKGZofJu0JMILqLEivUQA4roxfdmvPHLeTXeBGPcqvJpjtYsT08oPgATrPP0DHU6i06A/X8WdZoHRBDDdGjQRY66A14xNrGV9pUKbyC9W2DikSgZHCzm1JJHa0COT8XMJ1DhL/IEQ2saLzEs86krzKMXm1hcGVEm0mJPGOo+mmJjfGPdsZYMBb1myJ3DuztNyl5wEsJgO9dpqoB3T6ianXOdaA/pOejqY5+KtmE59qxZ7dE=;CO5zjeKbHXINhrOv51nqUA=="
 ---

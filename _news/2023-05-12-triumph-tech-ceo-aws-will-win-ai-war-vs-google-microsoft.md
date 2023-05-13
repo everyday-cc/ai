@@ -70,15 +70,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "MakeMyTrip ties up with Microsoft for AI-backed trip bookings"
-    excerpt: "MakeMyTrip ties up with Microsoft for voice-assisted travel bookings. Microsoft Azure OpenAI Service and Azure Cognitive Services will converse with the user to offer personalised travel recommendatio"
-    publishedDateTime: 2023-05-08T13:20:00Z
-    webUrl: "https://www.thehindubusinessline.com/companies/makemytrip-ties-up-with-microsoft-for-ai-backed-trip-bookings/article66826930.ece"
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 34
 
 secured: "xTd/HRv7OOnPTOfP76uhaTLHid9gS/BlDIxuqMxU5HJKThNKp1UkYIbKmYsN+ioBiAJPVRxf31D7IDqMtumlanO7HbXZIGzkVERMhsc8SeoT6qMKnmbuMpaW5vneOMbr4XYtGwfRXGmreHwQUupWJBDKWRF6hyNqc+P+Gsn2ezwXXS6TVYgWuJSjjq4f3RMITAPMK5Rd8sy7/KDaKty/2hlKGbdGLjA5z7zfx1/2ZI4SimG9cmosCydfeLxL17TXPfZfk5E5HS1yuFDIlRR7tqeytenKWMI/pnNt1jr45M57mZGaw4Dawaex7Y2ETS+NNbreePc7ztF8RgyjCc02QAiO79DZNFVKUy8qzOduvCQbqb2E/mzTP14ZE+L0UrG5KZbPoZhNaP2g5qWJNk0QB7+OJu/i2/i+Xs6BJiwXMfLvKGWx0MV6JisgpyUG+dQXqS3IJWLc82Q8yBzAKLnnPBC89M3tE3SFwqGCovv3IUIjvPG9Vh09cIENLqGGj3aqWzOot61m+Rt8mqT63BkvBQ==;OZ5qmShpIhwduE1M0kGlKw=="
 ---

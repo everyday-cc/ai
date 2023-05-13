@@ -3,16 +3,13 @@ category: news
 title: "AI Ethics by Design Is the Way Ahead to Protect Privacy"
 excerpt: "With the growing dominance of AI and concerns over its responsible use, is it time to move toward AI ethics by design? Sameer Ahirrao, founder of Ardent Privacy,"
 publishedDateTime: 2023-05-07T00:00:00Z
-originalUrl: "https://www.inforisktoday.com/ai-ethics-by-design-way-ahead-to-protect-privacy-a-21771"
-webUrl: "https://www.inforisktoday.com/ai-ethics-by-design-way-ahead-to-protect-privacy-a-21771"
+originalUrl: "https://www.govinfosecurity.com/ai-ethics-by-design-way-ahead-to-protect-privacy-a-21771"
+webUrl: "https://www.govinfosecurity.com/ai-ethics-by-design-way-ahead-to-protect-privacy-a-21771"
 type: article
-quality: 54
-heat: 54
-published: false
 
 provider:
-  name: Info Risk Today
-  domain: inforisktoday.com
+  name: HHS
+  domain: govinfosecurity.com
 
 topics:
   - AI Ethics
@@ -24,6 +21,6 @@ images:
     height: 520
     isCached: true
 
-secured: "pHSq5RGckrfG7EEVtP6nNm8uiOALfNO6LY3UFFzxBfslf/T5DjnTzs6CLR5wEPudhSjn4zh3l9kGWPBFJFd95EJpnhvHsMValdyQypaJiOkTquxQWqFAxEiDd8HAqGkM6Robm+g07OwiUdcgAoUumKJWoSq2U3MjV/UwgKHpsgwAQIp/O17t7/GKXtn8R4TP99RcITqwL2ka9wL/RXQki1K6C8CR3u+k0vN9MR7y1R+eoJ5akA/p+JUQbhDuVzn8YGT/GV3ZAduvnteUUnejxCoXM9i8KG8EodavI7DabSlWiwRmbf7mxH3V6VJZvaeZXXjPIIwephdoxshrqQ1BtTbJqYrJW3FxmD0zwtrfkgY++mz+8Pa5B7uPjDaN/05h64j76bN5cNNjfjYuYks5Zxu47WqRd/ZmLi49w6IYhitxK7Sq4ruJyc4viUuoMXwu7PM9JCgHeIxDkbNzNIjkOjGfJ4NFkFZu4k8ZIP0azxOOv2B1+2LD2nHOibmEmv7KLsbLEY8JAuOLqaawDNwLvA==;sV4BRyBYrhNN8/G2rPUlKA=="
+secured: "QfP5CTa+83vhF6uwLRy8KKNFij9Jcwym1XHgCDyTvMFCiLGQ/oyghvorZyUsnauo1Bs0qC4B4EKD8rInSvbCbq1bsCCwdoartsm1ehPYFHv5fDzO9Qig6d6xNpQcasMx3oKIAu+ePkbDdC3wk8AMj+zDZ/H+gR7EHLuz4+A6hOxgAL6uCXwlS6dfQ9OZUkX+1Km9pfa9+10x7fhP55tT3UNrOOMA04NEqGo+Rlwl30Llng1nwHwDLQEvxcN6PI27tfobw1BlXSyLq6G3efN1KDtegchhBcVoKjmLYUbgwIJ991OaRw7ExWsmflNtYSvCX+laUiZd4xEs9Ec/yP5Cl77LQU0Q94S4I2PsGnTdRIU=;e+tZmKEXxkqWVvAVLmvQew=="
 ---
 

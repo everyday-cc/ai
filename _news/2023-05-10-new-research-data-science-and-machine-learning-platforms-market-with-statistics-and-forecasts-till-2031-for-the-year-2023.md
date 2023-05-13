@@ -72,6 +72,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Computer Vision System Market 2023 to Hit Significant Value by 2030| Research Reports World"
+    excerpt: "The Computer Vision System Market Scope and Overview Report for 2023 presents a detailed analysis of the latest trends"
+    publishedDateTime: 2023-05-11T08:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/computer-vision-system-market-2023-to-hit-significant-value-by-2030-research-reports-world-2023-05-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 59
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "MultiPlan Acquires Leading Healthcare Data and Analytics Firm Benefits Science LLC"
     excerpt: "MultiPlan Corporation (NYSE: MPLN) (“MultiPlan” or the “Company”), a leading provider of technology and data-enabled cost management, payment, and revenue integrity solutions to the U.S. healthcare industry,"
     publishedDateTime: 2023-05-09T11:01:00Z

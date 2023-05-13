@@ -6,8 +6,8 @@ publishedDateTime: 2023-05-12T12:15:00Z
 originalUrl: "https://hbr.org/2023/05/ai-can-be-both-accurate-and-transparent"
 webUrl: "https://hbr.org/2023/05/ai-can-be-both-accurate-and-transparent"
 type: article
-quality: 17
-heat: 17
+quality: 37
+heat: 37
 published: false
 
 provider:
@@ -17,6 +17,12 @@ provider:
 topics:
   - AI
 
-secured: "g3vTYNh1+PcP37pI1uh6YVzYaHneIkl9ifKEMhUlr3MEiLu0QHZzjYLer9jbO6cpP2hY7PJ7bm3U7if5Dznj49LSSy1jKX1SeG9mPI0PC5VyN2wgSI5d0R0VToxKJAF6eMLlXdBiNcayHQecSagkkPFVfUlM/xdsB3GRoBfue8BrCvtgHKuW3aJrOYysMgYOqL53M1FnJna/qZPwYPt5qrBV9FTPjWF9bBCYZo5CsiE6vpRboEoav9BlFYzNim4QUDsRgbGNppLdS7edKvWLfz4KMvZlMn4flP/usD1YI/xjnHYFiZVVJiG7Ldfgbq+fExNSiB23p99r6k8p+Ta/337SlgtqLPCoBweSbmZVuMQ=;DbXFsfEtVf4j8qgMDH+xCw=="
+images:
+  - url: "https://hbr.org/resources/images/article_assets/2023/05/May23_12_460688633.jpg"
+    width: 1200
+    height: 675
+    isCached: true
+
+secured: "xrVVk+XUrBF9HIj/A6AO25UFx/FY10hKXGUBkGB2Jl/ExKsjk4Fujk8hyTtV1e/6TFsbFW0nMCNg+szSXtVX/P1dxlZ+4QnOf5Orwi7WdBnlQ2TpLtfn/D8A/+yYJZcRKyRaIjugYWvT1dEFentE+ijp0z4xUMxrGKXIbjo3AVlasqnLDtHUJ0Uzoetkxj+qNDOAnoNP13RKm41EhYcmZRdyT+o8X9luS96BDrMvTVCmVuCy/3i3ICo0AloSj1sWecGViMx3/DimyIFdBWdBUQfhinbnm2gJvqVXrgWtidoVW5VrGVBLHHFHEfYEbczsomg2LLWNZe/fDyRxnnBkki/CKrIXVrngGPjOETFZR90=;NRpSweHbbXK1gdTciVxunQ=="
 ---
 

@@ -150,15 +150,6 @@ related:
       name: Impacts
       domain: techbullion.com
     quality: 19
-  - title: "Finovax Leads the Charge in Fintech Innovation: AI-Powered Solutions Drive Business Growth"
-    excerpt: "Based Fintech Company Embraces Artificial Intelligence to Revolutionize Financial Data Products and Fuel Expansion New York, United States - May 8, 2023 — (NEW YORK CITY, NY) — Finovax, a trailblazing fintech"
-    publishedDateTime: 2023-05-08T14:00:00Z
-    webUrl: "https://www.asiaone.com/business/finovax-leads-charge-fintech-innovation-ai-powered-solutions-drive-business-growth"
-    type: article
-    provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 9
 
 secured: "4BvcB+PIhALzOp9p9yIlZkWNSMkrf74TA6LoIobankj0HQexAJfByl8Zx6cEbyOZ/D64YRfsLM79MlFQBm8gDO6MkRjDg70pakQLevmwF85IFBO7/EAyOD2vx4tnF/XmNNS9aW3mJdbANQbMejldUQ8rhBbUNBwhnhVWQbAOhc2xp9L48CBVLlYL8hmZLMlUmc7bEQVYgp2hjNBP1pLM3SshHXaFtnmgU22w7ynlMFsUY8VpRTBTVnhC3vZcMBZRmMkoY7xzoo/botIF5R6Bm6LvDbx/eJ9bK0J5HuZSJIOJs/5XqIqkz26tV+tKyasVHGMrcNwIMFGCg70Jk6sjPvCRPiUbS4LTl5q0m+68AsM=;IWXCF6jqDHnfxw5PLr7PVA=="
 ---

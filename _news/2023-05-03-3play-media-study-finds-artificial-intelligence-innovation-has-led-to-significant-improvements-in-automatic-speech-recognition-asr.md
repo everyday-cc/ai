@@ -1,39 +1,26 @@
 ---
 category: news
 title: "3Play Media Study Finds Artificial Intelligence Innovation Has Led to Significant Improvements in Automatic Speech Recognition (ASR)"
-excerpt: "Play Media Study Finds Artificial Intelligence Innovation Has Led to Significant Improvements in Automatic Speech Recognition (ASR) ASR technology has never been as accurate as i"
-publishedDateTime: 2023-05-03T12:53:00Z
-originalUrl: "https://technews.tmcnet.com/news/2023/05/03/9806777.htm"
-webUrl: "https://technews.tmcnet.com/news/2023/05/03/9806777.htm"
+excerpt: "ASR technology has never been as accurate as it is today thanks to advances in artificial intelligence (AI), according to a report from 3Play Media, the leading media accessibility provider, released today."
+publishedDateTime: 2023-05-03T12:44:00Z
+originalUrl: "https://www.bakersfield.com/ap/news/3play-media-study-finds-artificial-intelligence-innovation-has-led-to-significant-improvements-in-automatic-speech/article_2bb5eaa0-827d-5bba-8c96-02349104c5a5.html"
+webUrl: "https://www.bakersfield.com/ap/news/3play-media-study-finds-artificial-intelligence-innovation-has-led-to-significant-improvements-in-automatic-speech/article_2bb5eaa0-827d-5bba-8c96-02349104c5a5.html"
 type: article
-quality: 3
-heat: -1
-published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: The Bakersfield Californian
+  domain: bakersfield.com
 
 topics:
   - Natural Language Processing
   - AI
 
-related:
-  - title: "Qatar Adopts Speech Recognition AI To Boost Prosecution Efficiency"
-    excerpt: "Qatar has started to use AI speech-to-text technology in public prosecution to boost efficiency, local media reported Thursday, trend reports citing"
-    publishedDateTime: 2023-05-04T23:54:00Z
-    webUrl: "https://menafn.com/1106180848/Qatar-Adopts-Speech-Recognition-AI-To-Boost-Prosecution-Efficiency"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 54
-    images:
-      - url: "https://menafn.com/updates/pr/2023-05/04/TNA_1aac0image_story.jpg"
-        width: 941
-        height: 647
-        isCached: true
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png?resize=600%2C315"
+    width: 600
+    height: 315
+    isCached: true
 
-secured: "iKbihp50q3UsIcMPP69/AD7rTFRwFg6Q90kBd6S1zQSqA6T2el0CKzpD7xint6A0wq/Pe0/Buv4WiPtlQM69/rpLT+Qv+GYYbGtZWF8kXnTNd8izW0G/22pRA1jdW7p33HbI1rwgHDPDPN5k+gzvip3YU0w+oSNGneEHBxxJalGpMPh2spDfAHryGkXffF+0d0BqSKp0Qgk7R9NT7W+8bd9wpBqf7Evg6TsalSGaDwVLk2Egcbe5sGx1btVGj/VDPow85sdyHYjiLbYmoivYDvJmxjnhMh/CoTi33lNC204Sx4UDpAIewim/1MsJOnIzUtNnDeuSRwcCqgdlZdJ9SF4xIyBqoiSj/1FbmcqcMfs=;LLidLrzZ7+jK0M6y/9YnoA=="
+secured: "4XcIYvbPDSDFj5B5r+eNCk8VX6YUw4kEuF+Io3AAW1FvwyWnmi6itpvtehoJ6jDdxbQM8yQnW02UkYQect1a870553BnGZCjYKbze/MGa/UjoVEyG32qu2wiJae9jNRk1/OhEOglExGWDtkl3BqUvZzILEATVGSAMYrEQt6ohyIQiS95UVBCF52Kpoe6Dt+AVlBFowVaszN+Zo4RR+y+Ddvv59zbfAi4JwNBuzplRHIRYIcMvcoH/GuJHfwzDjs+5SFJIlowTX7GMV/+IB5Nsy3dn6B7VzIYvPC4TZYkUe+ahChGvbYsimoFxAGjwdwde1Jx/OdUBHDWsrZEgL9o3ZTCZFLdvQIy9W/JUHTZ6qY=;Q/S1REynmNK5jFMoYJqa0w=="
 ---
 

@@ -39,6 +39,20 @@ related:
         width: 768
         height: 512
         isCached: true
+  - title: "Facebook, nearing 20, has 3 billion users. Many of them are old."
+    excerpt: "But it says it isn’t dead or just for “old people,” as critics have said for years. The social media platform, born before the iPhone, is approaching two decades in existence."
+    publishedDateTime: 2023-05-09T00:10:00Z
+    webUrl: "https://chicago.suntimes.com/2023/5/8/23716234/facebook-users-old-social-media-demographics-meta"
+    type: article
+    provider:
+      name: Chicago Sun-Times
+      domain: suntimes.com
+    quality: 24
+    images:
+      - url: "https://cst.brightspotcdn.com/dims4/default/ddc495e/2147483647/strip/true/crop/1980x1130+0+112/resize/1461x834!/quality/90/?url=https%3A%2F%2Fcdn.vox-cdn.com%2Fthumbor%2FgCPS-snMkSEwQLd1BLWIQyeYsEY%3D%2F0x0%3A1980x1320%2F1980x1320%2Ffilters%3Afocal%281418x677%3A1419x678%29%2Fcdn.vox-cdn.com%2Fuploads%2Fchorus_asset%2Ffile%2F24642754%2Fmerlin_113229210.jpg"
+        width: 1461
+        height: 834
+        isCached: true
   - title: "Facebook says its evolving to meet the needs of Young adults"
     excerpt: "Facebook says it is not dead. The social media giant also wants you to know that it is not just for “old people”, as young people have been saying for years. Now, with the biggest thorn in its side – TikTok – facing heightened government scrutiny amid growing tensions between the United States and China,"
     publishedDateTime: 2023-05-09T12:13:00Z
@@ -52,6 +66,20 @@ related:
       - url: "https://www.tvcnews.tv/wp-content/uploads/2023/05/download_2_600x400.png"
         width: 600
         height: 400
+        isCached: true
+  - title: "Facebook Is Not Dead Nor Dying; Meta Says It Has 3 Billion Users"
+    excerpt: "Facebook says it is not dead. The social media giant also wants you to know that it is not just for “old people”, as young people have been saying for years."
+    publishedDateTime: 2023-05-10T10:10:00Z
+    webUrl: "https://www.techjuice.pk/facebook-is-not-dead-nor-dying-meta-says-it-has-3-billion-users/"
+    type: article
+    provider:
+      name: techjuice.pk
+      domain: techjuice.pk
+    quality: 24
+    images:
+      - url: "https://cdn.techjuice.pk/wp-content/uploads/2023/05/614dd3f759854.jpg"
+        width: 750
+        height: 500
         isCached: true
 
 secured: "1vqHd/ooXDvx2hpaFhSZn4SSIXJE6KvsQThrS8QbSYGNd/p5T4ecTTh4LjJGVwtEzEs7Nwj0HKXOY3nZcCuoaZoIzRhm1V1kj1sOugoUGJbFlc1aK1vL+z/s2ezYx6d3Yt1L8urvS73llMLWQMIxzn+KMXOjp9Bo14E1G/mZZE2kzD4YtEniY+uG01H9UUBZ5qvPS6rM+FAaRIONL7zF8yxPqrMn+wIwMkkRAnnFAaIskAH/z20HDg+TfJH+CkXIbOzq9U6dFhSGa1GfRM3xHUhB/TNFsSVHrcLWQl3wYBa+Qq0As4CuqxaXkOnZS9hN9naCErII6kvRWEyrLyTT1wo/wOVQG0iEq4+IsWuY+m+hS2xg9CKj13HdiHwTUNOeYVHsjekWv5NBRI2yQYDaLWvd3Vv9tejNscb8nxf6H+NFR5WvGLfFlRYmEp8ddEtxKzNdh6LMJqt9ztHkrXa+YUat0nnnAy9AKp02rEKudvzXoSL+q9fiXoZYTYD69Is+bVQIDWB2tAoz/NmTc1Ngjw==;8fkoweP1uLQ+PDfIxbxR8g=="

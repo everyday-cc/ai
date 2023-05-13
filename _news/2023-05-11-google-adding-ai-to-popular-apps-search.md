@@ -56,22 +56,6 @@ related:
         width: 1200
         height: 676
         isCached: true
-  - title: "Salesforce goes all in on generative AI with Slack GPT"
-    excerpt: "Salesforce last week made the AI-ready platform designed with OpenAI available for developers of allied apps and services. Einstein GPT is available as a beta version, and the company is currently prototyping the integration of Einstein GPT within Slack, according to Seaman ( Figure B )."
-    publishedDateTime: 2023-05-08T14:57:00Z
-    webUrl: "https://www.techrepublic.com/article/salesforce-launches-slack-gpt/"
-    ampWebUrl: "https://www.techrepublic.com/article/salesforce-launches-slack-gpt/amp/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/salesforce-launches-slack-gpt/amp/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 87
-    images:
-      - url: "https://www.techrepublic.com/wp-content/uploads/2023/05/Hero.Salesforce.jpg"
-        width: 1400
-        height: 512
-        isCached: true
   - title: "New Era Of Generative AI Finally Delivers On Promise"
     excerpt: "Artificial intelligence is not new, but the public launch of generative AI has led to an explosion of AI models and implementations that are finally delivering some of the potential promise of artificial intelligence."
     publishedDateTime: 2023-05-10T14:36:00Z
@@ -302,15 +286,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "What Generative AI Means For Banking"
-    excerpt: "The technology has many use cases across banking. Here's where it can provide the greatest value and how banks can manage the ensuing risks."
-    publishedDateTime: 2023-05-08T13:32:00Z
-    webUrl: "https://www.forbes.com/sites/michaelabbott/2023/05/08/what-generative-ai-means-for-banking/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "Google Expected To Shake Up Search With New AI Products"
     excerpt: "Google is expected to announce a more conversational version of its flagship search engine, fueled by artificial intelligence. The efforts to overhaul its search business with AI, set to be unveiled Wednesday at the company’s I/O conference in Mountain View,"
     publishedDateTime: 2023-05-10T12:00:00Z

@@ -70,20 +70,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Here’s how UPMC’s CTO is thinking about AI in healthcare, from sorting data to fielding questions"
-    excerpt: "Chris Carmody told Technical.ly the Pittsburgh healthcare system wants to apply artificial intelligence to make patients and health professionals’ lives easier."
-    publishedDateTime: 2023-05-08T14:00:00Z
-    webUrl: "https://technical.ly/software-development/upmc-ai-healthcare-chris-carmody/"
-    type: article
-    provider:
-      name: Technical
-      domain: technical.ly
-    quality: 41
-    images:
-      - url: "https://technical.ly/wp-content/uploads/2023/05/christian-carmody-hr.jpg"
-        width: 300
-        height: 300
-        isCached: true
   - title: "The Role of AI in Health Care M&A: Driving Value in a Difficult Market"
     excerpt: "Health care merger and acquisition (M&A) activity reached a significant level in 2022, even if not matching 2021’s record-breaking standard. This reflects the overall economy&rsquo"
     publishedDateTime: 2023-05-10T00:00:00Z

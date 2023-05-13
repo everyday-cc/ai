@@ -39,6 +39,20 @@ related:
         width: 4048
         height: 2391
         isCached: true
+  - title: "Google Is Opening the AI Floodgates"
+    excerpt: "This week we recap all the news from Google I/O and discuss how the company is reshaping its core business with generative tools."
+    publishedDateTime: 2023-05-12T12:00:00Z
+    webUrl: "https://www.wired.com/story/gadget-lab-podcast-597/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 67
+    images:
+      - url: "https://media.wired.com/photos/645d18570b67c709cbcaa855/191:100/w_1280,c_limit/Google-IO-2023-Gadget-Lab-Gear-1488931959.jpg"
+        width: 1280
+        height: 670
+        isCached: true
   - title: "Google Goes Big With a New Folding Phone and Better AI"
     excerpt: "It’s been a big week for Google, which just announced three new Pixel products, including its first foldable phone, plus key enhancements to its ChatGPT rival Bard."
     publishedDateTime: 2023-05-11T11:51:00Z
