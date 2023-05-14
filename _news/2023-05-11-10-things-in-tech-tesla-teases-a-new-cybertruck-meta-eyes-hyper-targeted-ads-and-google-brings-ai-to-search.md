@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/google-amazon-facebook-microsoft-tes
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-amazon-facebook-microsoft-tesla-san-francisco-etsy-ai-2023-5?amp"
 type: article
 quality: 84
-heat: 85
+heat: 84
 published: true
 
 provider:

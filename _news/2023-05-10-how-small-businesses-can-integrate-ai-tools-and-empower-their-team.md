@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/theyec/2023/05/10/how-small-businesses-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2023/05/10/how-small-businesses-can-integrate-ai-tools-and-empower-their-team/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -63,15 +63,6 @@ related:
         width: 1200
         height: 650
         isCached: true
-  - title: "IBM Unveils All-In-One AI Integration Tool"
-    excerpt: "Blue-chip tech name IBM (NYSE:IBM) today launched WatsonX, a new, all-in-one artificial intelligence (AI) tool that will help companies with their AI integration. This announcement comes roughly 15 months after IBM sold its Watson Health unit to Francisco Partners."
-    publishedDateTime: 2023-05-09T12:50:00Z
-    webUrl: "https://www.schaeffersresearch.com/content/news/2023/05/09/ibm-unveils-all-in-one-ai-integration-tool"
-    type: article
-    provider:
-      name: SchaeffersResearch.com
-      domain: schaeffersresearch.com
-    quality: 21
 
 secured: "xOjH2fp6OZH+DubwFlfSCBqqO0TbhgTxXB+yH8peDqXJ8aiP720u9Ro6ij8YphHxiFGAsn1CfBZ9OpVXMrOhiMzMVDTcUjCiRd5BBhzG6owOwGTxmZ3xG5nGe7DwqAlj5hfjbEXydNpN4KjV2bK1O04N1ucz8ClANcWKuLLRvvVHZUKRBmqXDS+mmOk0dC/9Ft5wlNnpydLJ4M0PhJ/vB3QlC/+6u2HQsaQHeQ01gMVb03rggacrA6b1YhpYzqf5FsmrRBE6vEU9/feto9G9UJCAr3tPAjDtvofa/fpBx+NcOy+eB4VRWYZOZzJkS9QbIXUjDgsNkuoxFwfGCLD7L3MmZujdB9yxSgSdhUdhAAWReFBj7aSRnrkr8quB2jj18lSPsLKTHijz2uo0XJuecL34nTXEBqWVajzHyuroe2xn2YvTuomFrrVOOZtLHwmFMIjE9Z/C0C7ADrIjdblVJ88PUeC4TvfbfJjQlG8FtULmsLzngJeme0IvWQI4GtvmPWus03iqQxtRM+0kSDs40w==;ALyqZ88yzBGCETr2enghqg=="
 ---

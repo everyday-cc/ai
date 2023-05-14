@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/05/12/chatgpt-everything-you-need-to-kno
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/12/chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot/amp/"
 type: article
 quality: 89
-heat: 319
+heat: 309
 published: true
 
 provider:
@@ -224,15 +224,6 @@ related:
         width: 860
         height: 430
         isCached: true
-  - title: "ChatGPT Fever Has Investors Pouring Billions Into AI Startups, No Business Plan Required"
-    excerpt: "It is boom times for startups touting generative artificial intelligence technology."
-    publishedDateTime: 2023-05-09T11:51:00Z
-    webUrl: "https://www.wsj.com/articles/no-business-plan-no-problem-chatgpt-spawns-an-investor-gold-rush-in-ai-6bdbed3c"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 38
   - title: "It’s Not Just About ChatGPT. Other AI Technologies Are Heading to Schools"
     excerpt: "How can schools stay on top of this rapidly changing technology? And how can educators separate hype from substance? Education Week asked four experts in technology, education, and artificial intelligence to look into their crystal balls and share their thoughts on how AI will likely change teaching and learning."
     publishedDateTime: 2023-05-09T15:33:00Z

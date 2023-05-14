@@ -234,15 +234,6 @@ related:
         width: 860
         height: 430
         isCached: true
-  - title: "ChatGPT Fever Has Investors Pouring Billions Into AI Startups, No Business Plan Required"
-    excerpt: "It is boom times for startups touting generative artificial intelligence technology."
-    publishedDateTime: 2023-05-09T11:51:00Z
-    webUrl: "https://www.wsj.com/articles/no-business-plan-no-problem-chatgpt-spawns-an-investor-gold-rush-in-ai-6bdbed3c"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 38
   - title: "How To Write Code With ChatGPT"
     excerpt: "According to Botpress, OpenAI built ChatGPT using three core programming languages: Python, PyTorch, and TensorFlow. Also, it used other languages for additional frameworks, including, Gensim, NLTK, OpenNMT-py, and spaCy. The AI program also uses libraries ..."
     publishedDateTime: 2023-05-10T00:00:00Z

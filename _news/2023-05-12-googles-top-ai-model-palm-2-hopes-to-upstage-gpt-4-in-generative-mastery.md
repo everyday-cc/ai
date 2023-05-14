@@ -7,7 +7,7 @@ originalUrl: "https://arstechnica.com/information-technology/2023/05/googles-top
 webUrl: "https://arstechnica.com/information-technology/2023/05/googles-top-ai-model-palm-2-hopes-to-upstage-gpt-4-in-generative-mastery/"
 type: article
 quality: 47
-heat: -1
+heat: 47
 published: false
 
 provider:
@@ -21,17 +21,6 @@ provider:
 topics:
   - Natural Language Processing
   - AI
-
-related:
-  - title: "Informatica goes all in on generative AI with Claire GPT"
-    excerpt: "Informatica today announced Claire GPT, a generative AI tool aiming to help enterprises with data management tasks."
-    publishedDateTime: 2023-05-09T13:00:00Z
-    webUrl: "https://venturebeat.com/data-infrastructure/informatica-goes-all-in-on-generative-ai-with-claire-gpt/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 47
 
 secured: "0GdfK1CoDT4RnFF4ppqJyaAWr9FIj0RoYUuigtXn/x93RSARCj3+FMhx7Hw481swmyRX7fP6eIN2YEY89OiiTAplzGWPVTSxD/2QbsVPHNcBRBqjsfffRI+NiNCVTWED+GIFq73i1XMFmlp7dg4r00PPj9z96x7LMrZnpDwD2ZHZ/B+4nFMh0d9Bod9vkZ8X5de4WeQspR0vevmBKTWJOGUHueqzvOk5y/zLXZ4ruNF46j9EwVxcPme7nfxH1nwlCgJXX4Oa6YumRAd6u965IbuzS8L2wcsN04MLNkq1MXMCUKF619VI54ONTQufkDXO0KNW/K4JHpg4T6vYjmY9/TlXnRb7XDwfALH+OAIuUzeYUPtXDCpCr3v7+VZm096NBppUj+tMd4YeWKzmdvxygPtw1Tzodp8FY1s5gcHGx8O/ywhGmnHqZEvj7Noc+J4ITNpWeuhfhjXQKwq30bDXx9Uol+i5qvZDW6CvvbxLx3N6Xk7dM6dGQwhH6iWMAKgp+Hacs9XcWkJxUvQsDn0LpA==;Zn5YkT1JYY5SbpuISjOJZg=="
 ---

@@ -76,24 +76,6 @@ related:
         width: 1366
         height: 768
         isCached: true
-  - title: "4 AI-powered firms reshaping the FinTech space in Czech Republic"
-    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
-    publishedDateTime: 2023-05-09T12:02:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/4-ai-powered-firms-reshaping-the-fintech-space-in-czech-republic/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 19
-  - title: "Swissquote selects AI FinTech NetGuardians to fight financial crime"
-    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
-    publishedDateTime: 2023-05-09T11:33:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/swissquote-selects-ai-fintech-netguardians-to-fight-financial-crime/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 19
   - title: "Investors want AI-powered advisors, and fintechs race to meet demand"
     excerpt: "Investors are bullish on financial advisors using AI and fintech companies are racing to fill meet the demand."
     publishedDateTime: 2023-05-12T18:30:00Z

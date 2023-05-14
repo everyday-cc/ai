@@ -38,6 +38,20 @@ related:
       name: HRZone
       domain: hrzone.com
     quality: 39
+  - title: "Machine learning improves accuracy, but increases human workload too"
+    excerpt: "New research from ESMT Berlin shows that utilizing machine-learning in the workplace always improves the accuracy of human decision-making, however, often it can also cause humans to exert more cognitive efforts when making decisions."
+    publishedDateTime: 2023-05-14T05:21:00Z
+    webUrl: "https://www.thehrdirector.com/business-news/technology/machine-learning-improves-accuracy-increases-human-workload/"
+    type: article
+    provider:
+      name: theHRDIRECTOR
+      domain: thehrdirector.com
+    quality: 39
+    images:
+      - url: "https://www.thehrdirector.com/wp-content/uploads/2023/05/robot-g096da1959_1280-7086f5db.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Workplace machine learning improves accuracy, but increases workload for people"
     excerpt: "Workplace machine learning improves the accuracy of decision-making, but it can also cause people to exert more cognitive effort"
     publishedDateTime: 2023-05-11T15:49:00Z

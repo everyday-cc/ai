@@ -25,45 +25,34 @@ images:
     isCached: true
 
 related:
-  - title: "Valley Health System hospital innovations include robots at nursing stations"
-    excerpt: "Artificial intelligence may be intimidating to some, but robotic support is about to be making an innovative debut on your hospital floor as a way to improve"
-    publishedDateTime: 2023-05-09T22:44:00Z
-    webUrl: "https://www.dcnewsnow.com/news/local-news/virginia/shenandoah-county/valley-health-system-hospital-innovations-include-robots-at-nursing-stations/"
-    ampWebUrl: "https://www.dcnewsnow.com/news/local-news/virginia/shenandoah-county/valley-health-system-hospital-innovations-include-robots-at-nursing-stations/amp/"
-    cdnAmpWebUrl: "https://www-dcnewsnow-com.cdn.ampproject.org/c/s/www.dcnewsnow.com/news/local-news/virginia/shenandoah-county/valley-health-system-hospital-innovations-include-robots-at-nursing-stations/amp/"
+  - title: "IBM IT Automation: Reflections from IBM Think"
+    excerpt: "Recapping a few of the exciting new capabilities we are launching in our IT Automation portfolio.\nThe post IBM IT Automation: Reflections from IBM Think appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-05-11T12:00:00Z
+    webUrl: "https://www.ibm.com/blog/ibm-it-automation-reflections-from-ibm-think/"
     type: article
     provider:
-      name: dcnewsnow
-      domain: dcnewsnow.com
-    quality: 56
+      name: IBM
+      domain: ibm.com
+    quality: 102
     images:
-      - url: "https://www.dcnewsnow.com/wp-content/uploads/sites/14/2023/02/GettyImages-1386596147.jpg?w=1280"
-        width: 1280
-        height: 713
+      - url: "https://www.ibm.com/blog/wp-content/uploads/2023/05/istock_cs1_20210815_144154050.lr_-630x330.jpg"
+        width: 630
+        height: 330
         isCached: true
-  - title: "Innovations in autonomous driving: Navigating legal and ethical implications"
-    excerpt: "There are a few issues being worked out with the legality and safety of autonomous driving cars. Let’s take a closer look."
-    publishedDateTime: 2023-05-12T09:03:00Z
-    webUrl: "https://www.cbtnews.com/innovations-in-autonomous-driving-navigating-legal-and-ethical-implications/"
+  - title: "How IBM is helping organizations accelerate their adoption of intelligent automation solutions"
+    excerpt: "IBM is committed to being the catalyst to help organizations accelerate their adoption of intelligent automation solutions.\nThe post How IBM is helping organizations accelerate their adoption of intelligent automation solutions appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-05-10T11:00:00Z
+    webUrl: "https://www.ibm.com/blog/how-ibm-is-helping-organizations-accelerate-their-adoption-of-intelligent-automation-solutions/"
     type: article
     provider:
-      name: cbtnews
-      domain: cbtnews.com
-    quality: 38
+      name: IBM
+      domain: ibm.com
+    quality: 90
     images:
-      - url: "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/05/Autonomous-Vehicles-scaled.jpeg"
-        width: 2560
-        height: 1440
+      - url: "https://www.ibm.com/blog/wp-content/uploads/2023/05/wave-flowing-network2.lr_-630x330.jpg"
+        width: 630
+        height: 330
         isCached: true
-  - title: "Atomic Revolutionizes Payroll System Integrations with SmartAuth, its Groundbreaking AI-Powered Authentication Engine"
-    excerpt: "Atomic, a leading provider of payroll system integrations, has unveiled SmartAuth, a new artificial intelligence-powered authentication engine. This b"
-    publishedDateTime: 2023-05-10T12:05:00Z
-    webUrl: "https://www.businesswire.com/news/home/20230510005294/en/Atomic-Revolutionizes-Payroll-System-Integrations-with-SmartAuth-its-Groundbreaking-AI-Powered-Authentication-Engine"
-    type: article
-    provider:
-      name: newsroom.businesswire.com
-      domain: businesswire.com
-    quality: 0
 
 secured: "4BvcB+PIhALzOp9p9yIlZkWNSMkrf74TA6LoIobankj0HQexAJfByl8Zx6cEbyOZ/D64YRfsLM79MlFQBm8gDO6MkRjDg70pakQLevmwF85IFBO7/EAyOD2vx4tnF/XmNNS9aW3mJdbANQbMejldUQ8rhBbUNBwhnhVWQbAOhc2xp9L48CBVLlYL8hmZLMlUmc7bEQVYgp2hjNBP1pLM3SshHXaFtnmgU22w7ynlMFsUY8VpRTBTVnhC3vZcMBZRmMkoY7xzoo/botIF5R6Bm6LvDbx/eJ9bK0J5HuZSJIOJs/5XqIqkz26tV+tKyasVHGMrcNwIMFGCg70Jk6sjPvCRPiUbS4LTl5q0m+68AsM=;IWXCF6jqDHnfxw5PLr7PVA=="
 ---

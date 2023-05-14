@@ -86,15 +86,6 @@ related:
         width: 960
         height: 480
         isCached: true
-  - title: "Spotify takes down thousands of AI-generated songs after suspected bot use to inflate streams, report says"
-    excerpt: "Spotify took down about 7% of tracks from AI startup Boomy, after Universal warned streaming services they were artificially boosted, the FT reported."
-    publishedDateTime: 2023-05-09T12:29:00Z
-    webUrl: "https://www.businessinsider.com/spotify-takes-down-thousands-of-ai-generated-songs-bot-streams-2023-5"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 29
   - title: "Should Governments Use ChatGPT And AI Generated Content? US Federal And State Government Leaders Share Thoughts"
     excerpt: "Government agencies across all levels of government are exploring the potential of using AI-generated content and language models to improve their services, automate processes, and enhance decision-making."
     publishedDateTime: 2023-05-09T18:30:00Z

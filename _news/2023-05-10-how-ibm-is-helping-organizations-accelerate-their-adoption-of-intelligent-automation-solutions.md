@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Accelerate your speed of business with IBM Event Automation"
-    excerpt: "IBM is announcing IBM Event Automation, a composable solution designed to help businesses put events to work.\nThe post Accelerate your speed of business with IBM Event Automation appeared first on IBM Blog.\n"
-    publishedDateTime: 2023-05-09T12:00:00Z
-    webUrl: "https://www.ibm.com/blog/accelerate-your-speed-of-business-with-ibm-event-automation/"
-    type: article
-    provider:
-      name: IBM
-      domain: ibm.com
-    quality: 102
-    images:
-      - url: "https://www.ibm.com/blog/wp-content/uploads/2023/05/amv-2021bcncloudbusiness20567.lr_-630x330.jpg"
-        width: 630
-        height: 330
-        isCached: true
   - title: "IBM IT Automation: Reflections from IBM Think"
     excerpt: "Recapping a few of the exciting new capabilities we are launching in our IT Automation portfolio.\nThe post IBM IT Automation: Reflections from IBM Think appeared first on IBM Blog.\n"
     publishedDateTime: 2023-05-11T12:00:00Z
@@ -56,19 +42,19 @@ related:
         width: 630
         height: 330
         isCached: true
-  - title: "Seven strategic bets to capitalize on disruption and redefine your business"
-    excerpt: "The future belongs to those willing to transform their business with bold, informed bets. Based on today's top trends, here are seven business bets to make.\nThe post Seven strategic bets to capitalize on disruption and redefine your business appeared first on IBM Blog.\n"
-    publishedDateTime: 2023-05-10T11:58:00Z
-    webUrl: "https://www.ibm.com/blog/seven-strategic-bets-to-capitalize-on-disruption-and-redefine-your-business/"
+  - title: "Machine-learning innovation in RayStation: prioritizing speed, automation, efficiency"
+    excerpt: "RaySearch Laboratories and its clinical customers are leveraging advances in machine learning to reimagine the radiotherapy workflow"
+    publishedDateTime: 2023-05-11T16:11:00Z
+    webUrl: "https://physicsworld.com/a/machine-learning-innovation-in-raystation-prioritizing-speed-automation-efficiency/"
     type: article
     provider:
-      name: IBM
-      domain: ibm.com
-    quality: 100
+      name: Physics World
+      domain: physicsworld.com
+    quality: 17
     images:
-      - url: "https://www.ibm.com/blog/wp-content/uploads/2023/05/7_Business_Ideas_illustration_CV.l-1-e1683647670886.jpg"
+      - url: "https://physicsworld.com/wp-content/uploads/2023/05/RayStation-Deep-Learning-segmentation-models.jpg"
         width: 1200
-        height: 600
+        height: 675
         isCached: true
 
 secured: "Jl9elCPBRjOUsthifM0WwZgMsX1AO447MIQoE6PuAwcKbX0W2u9V+5T1MI4693WpdnDYiFyzRHJhe3qsEBkclwnZuwS1IEeu69pa3ZjF8SAK+aydHzOvqVr7cP+xdZQPNz1e3VKfUIyoVNry2l4/2OfuEQb7R7d7ocEV6p5K++8YmMaPECdsJGz62QrEswTuHtvtfzH27ykAlzzAteRwvzOCM3AqaDSGLAo2TG5DolnGK5DBs05daskyXYw/X0o/p1zTplU+wEGOd8NcctRqKKq1AdqWWTb0nbBpgD7HZ+LW/vf4idU1nzYWX0zLCllnELUcMowBdSxXyznS6K1ptvaAa12dIDTHhnnIaSCG/78=;qUswGn7qHqxJp8kad9JLPg=="

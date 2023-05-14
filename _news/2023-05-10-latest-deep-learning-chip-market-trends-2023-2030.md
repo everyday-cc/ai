@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/latest-deep-learning-chi
 webUrl: "https://www.marketwatch.com/press-release/latest-deep-learning-chip-market-trends-2023-2030-2023-05-10"
 type: article
 quality: 86
-heat: 166
+heat: 156
 published: true
 
 provider:
@@ -95,15 +95,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Current \"Artificial Intelligence Systems in Healthcare Market\" Trends 2023: Future Business Expansion and Improvements Forecast 2030"
-    excerpt: "A Comprehensive Growth Research 2023: “Artificial Intelligence Systems in Healthcare Market” | Survey with [113]"
-    publishedDateTime: 2023-05-09T12:03:00Z
-    webUrl: "https://www.marketwatch.com/press-release/current-artificial-intelligence-systems-in-healthcare-market-trends-2023-future-business-expansion-and-improvements-forecast-2030-2023-05-09"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 33
   - title: "Automated Machine Learning (AutoML) Market worth $6.4 billion by 2028 - Exclusive Report by MarketsandMarkets"
     excerpt: "The market for automated machine learning (AutoML) appears to have a bright future thanks to rising acceptance, technological breakthroughs, integration"
     publishedDateTime: 2023-05-12T16:10:00Z

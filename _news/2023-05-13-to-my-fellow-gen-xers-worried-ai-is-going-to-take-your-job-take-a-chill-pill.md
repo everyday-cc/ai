@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/will-ai-take-my-job-gen-x-gen-z-worr
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/will-ai-take-my-job-gen-x-gen-z-worry-2023-5?amp"
 type: article
 quality: 84
-heat: 94
+heat: 96
 published: true
 
 provider:

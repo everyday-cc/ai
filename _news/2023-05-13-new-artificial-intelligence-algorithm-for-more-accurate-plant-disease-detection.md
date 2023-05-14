@@ -51,20 +51,6 @@ related:
         width: 1240
         height: 826
         isCached: true
-  - title: "Hospitality sector’s use of artificial intelligence could rise as owners look for ways around expensive apps"
-    excerpt: "The idea of robots in hospitality may conjure visions of The Jetsons’ personal assistant Rosey, or robotic waiters at city restaurants, but experts say the sector’s adoption of AI will grow."
-    publishedDateTime: 2023-05-12T08:09:00Z
-    webUrl: "https://thewest.com.au/business/retail/hospitality-sectors-use-of-artificial-intelligence-could-rise-as-owners-look-for-ways-around-expensive-apps-c-10415544"
-    type: article
-    provider:
-      name: The West Australian
-      domain: thewest.com.au
-    quality: 20
-    images:
-      - url: "https://images.thewest.com.au/publication/C-10415544/57de6a51ee683fc8bed087633ae160bcc2fb5431-16x9-x0y287w2756h1550.jpg?imwidth=1200"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "X7fZrImoPmZSTKZZomAkbBZ1V6Iut0I4tl/ODFQCoUioaV55bkjaLrabHVSNrvwimiz65BLL3UgtltwxT6w9ZrGbQMO8szh4V1jc/xMWZnuJ1ZTfnbZ/6zku2JXMQPUA2aLdMHtfiT69HmfvTgnt5yUysmWhKckmdL5iBbB/raQSZkiPaNbRxOUWQ/LToj2oQq3ZsxZsN7CuCHxqR93X4KuW1l4AoLBHc6IUzlxtHDtuRjRatQQkzJUuJyfgW9cvS5IO28aPeaJIP2tNv/HM0+AeGMNIloUrc46ZXtyEE9vxKEumgSPcw30MJJBBXlqrXZtEmWiS5AiBJ03g1Lsp6PQ9BmoMtm5uWDMJ3p+iT8I=;wD0k1GqH7NAVibVDonD7OA=="
 ---

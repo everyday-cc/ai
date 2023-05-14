@@ -62,20 +62,6 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "Google Is Opening the AI Floodgates"
-    excerpt: "This week we recap all the news from Google I/O and discuss how the company is reshaping its core business with generative tools."
-    publishedDateTime: 2023-05-12T12:00:00Z
-    webUrl: "https://www.wired.com/story/gadget-lab-podcast-597/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 67
-    images:
-      - url: "https://media.wired.com/photos/645d18570b67c709cbcaa855/191:100/w_1280,c_limit/Google-IO-2023-Gadget-Lab-Gear-1488931959.jpg"
-        width: 1280
-        height: 670
-        isCached: true
   - title: "WebGPU Brings AI Capabilities Directly to Google Chrome Users"
     excerpt: "Google I/O focused on AI technologies, integrating AI into Chrome using WebGPU for improved performance and security."
     publishedDateTime: 2023-05-11T12:59:00Z
@@ -100,20 +86,6 @@ related:
       - url: "https://images.barrons.com/im-779960?size=1.5005861664712778&height=630&width=1200"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Google Wants to Play Both Sides of the AI Arms Race"
-    excerpt: "CEO Sundar Pichai and several top executives at Google’s parent company Alphabet took the stage to announce the infusion of AI into its suite of tools, as well as the launch of a new-and-improved AI model to power it all."
-    publishedDateTime: 2023-05-10T22:03:00Z
-    webUrl: "https://www.thedailybeast.com/googles-io-conference-reveals-the-internets-ai-generated-future"
-    type: article
-    provider:
-      name: The Daily Beast
-      domain: thedailybeast.com
-    quality: 37
-    images:
-      - url: "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_675,w_1200,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1683752560/230509-Google-AI-sides-tease_dvcxia"
-        width: 1200
-        height: 675
         isCached: true
 
 secured: "C50K8rW9b3LL+qRl9C5j7Yl1X40Byxbw32mtBy0s9jsCjuH0S3Wrpyb2u6mwPJpgsQgqfNVdMpOITcY6AZTtujKTkgOQ/qm3EEc4usAKlqEwaJePgQ+8YAXedtWs0lSAa8I6RdJfYjoCXS193lSwZFAJtAEXAspSW3qRELjwdp5MAVtxJk6dL6580X4C3YPaBblLz9ak026AjFNGLdSJDSn1HCikEfR3YUkW7kBDZ4GmXpDq9Yn64r2mn1KWOZBNzzyUnU39ma9MbLA0VYRpLq+e7xtMuA12atTKomfqpPjdJiQa/i003ms6yacFHyZElo19SdHmW3h7kkaxT6d9KHG2RnY0dVMQXu3WKqhzT6Q06HnikVD/TE5m5RRf2ZtzAaU69ax+9KVHwtIEL7Q+wnoqkfrXxEYwKQAX4rSyiLCmdJn6sFvN6qjD/K7DgMlkEmSZz2ZS5gEFh8GLed6vqIFliiWDFT47+wachOIaPwO5tc2vc0w4+Sue8QYzuKkq8HlXMwd6OjwbkBAGeb0ARQ==;XXGZaCBZSj/hbLpgHQ1dvQ=="

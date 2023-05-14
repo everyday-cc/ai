@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Audio Book Narrators Say AI Is Already Taking Away Business"
-excerpt: "\"The essence of storytelling is teaching humanity how to be human. And we feel strongly that that should never be given to a machine to teach us about how to be human,\" said Emily Ellet, an actor and audio book narrator who cofounded the Professional Audiobook Narrators Association (PANA)."
-publishedDateTime: 2023-05-14T01:45:00Z
-originalUrl: "https://www.ibtimes.com/audio-book-narrators-say-ai-already-taking-away-business-3693074"
-webUrl: "https://www.ibtimes.com/audio-book-narrators-say-ai-already-taking-away-business-3693074"
-ampWebUrl: "https://www.ibtimes.com/audio-book-narrators-say-ai-already-taking-away-business-3693074?amp=1"
-cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/audio-book-narrators-say-ai-already-taking-away-business-3693074?amp=1"
+excerpt: "As people brace for the disruptive impact of artificial intelligence on jobs and everyday living, those in the world of audio books say their field is already being transformed."
+publishedDateTime: 2023-05-14T05:42:00Z
+originalUrl: "https://www.barrons.com/news/audio-book-narrators-say-ai-is-already-taking-away-business-1837d837"
+webUrl: "https://www.barrons.com/news/audio-book-narrators-say-ai-is-already-taking-away-business-1837d837"
+ampWebUrl: "https://www.barrons.com/amp/news/audio-book-narrators-say-ai-is-already-taking-away-business-1837d837"
+cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/audio-book-narrators-say-ai-is-already-taking-away-business-1837d837"
 type: article
 quality: 57
 heat: -1
 published: false
 
 provider:
-  name: International Business Times
-  domain: ibtimes.com
+  name: Barron's
+  domain: barrons.com
 
 topics:
   - AI
 
 images:
-  - url: "https://d.ibtimes.com/en/full/4456601/woman-poses-installation-showing-headphones-booth-jvc-ifa-internationale-funkausstellung.jpg"
+  - url: "https://www.barrons.com/asset/external-media/afp/AFP9260753792462234016572263585427134158643---1.jpg"
     width: 768
     height: 396
     isCached: true
@@ -57,6 +57,6 @@ related:
         height: 630
         isCached: true
 
-secured: "0j/Mc2xjFW8olJf5KjF2YGUlRxCf5orH3M7peM2/5rbdrf/Vz/0yu2EZtHwMj6QsTdK3y+LSHRNO78evkaQ6S6yVWmvaD+COsKCPxx8em4lwBJorEkNuWIb8S8MJMSOM0xRyOO7NbMI31c3b43N+LTchBrCWXrbXg8vcTyEV0/tI4SNAwGyTSRIQm50iV4uvLABqzPSkJxFiFGfN5yWGRT2084iWXGwTY6oTyeji2W6l6E9VUa1Q16/rd8X5qPIeVEJVEYhHT20FPTwoNRHUAJtmi3EKQccHkAjyb1RBJ0f+/bYO4SOXXWbOucbbzVXxwRzI5r5oDtxIVymwm2BwvKF19YmVb8g7kZ/JXo5wTbU=;cl3u7raTn+6o07JjQkvo6w=="
+secured: "KGJdUusCaiWXMIrt/2MgdZvL29NEARgWNZrkS+cRPaY9p7HMiN/T4wvk2vShoF7qp2yLAoVKnBBqU8NcaNdZdw3tq52/ZEMvAH1azaGgjrMe21J0EAZ6WHL3TT1JNKXZKtGZJ/FWFAruvT0UpOWaCE/Lcj/lkjKraQuEf9/ov7KUog3KHmXKGVkU6tN6GXyKRb+FKBtS7qlrvt6vEwlgxvsqAttNLjjs7rHF5XRbTSYrvJvoUCHYRP++Oijs8YgHvFlmUhYnDIWJ0HGEm2jJFrX8xWg3QrlK5lI2pu7SRsD4hkIVFVAvJabRsP0WB9sQcOfrrMsIIcXEKzbbZtKXEV0yUHopchDNdSdl+TWJD7s=;IJ2sd0uUn6+jMzk5xFP/Ag=="
 ---
 

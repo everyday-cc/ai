@@ -39,15 +39,6 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "SALTO introduces face recognition access control with the acquisition of TouchByte"
-    excerpt: "SALTO Systems, a provider of innovative smart access control solutions, is committed to the use of biometric technology as the future of access control. In the past two years, it has aimed"
-    publishedDateTime: 2023-05-09T12:25:00Z
-    webUrl: "https://www.sourcesecurity.com/news/salto-introduces-face-recognition-access-control-acquisition-touchbyte-co-2232-ga-co-3322-ga-co-1683622276-ga.1683622951.html"
-    type: article
-    provider:
-      name: SourceSecurity
-      domain: sourcesecurity.com
-    quality: 13
 
 secured: "usVIu+mZCQX97Mji3SWi5BYo96EQrOsOkLwYl0O+XhkM4xc0BeSZUSrum+Z7UoblCTCcGuk5krvF6ANEWE9tMCLl4EQja396Dn3Ym9n0IWvVwMccsO8JJPEYgjzZJsfYEBhm9DjROW6/piuqWXrhPoody78gePncmt2wdGg0cBzzg4wfNuxyM6wsmo/OThX8EJakqAOI9AJ+HreUU+j2Wcdy4RI2zD+jWxoKrYnymPdgIeKsKMVqn/+s8AtB5p214k+0wQnbizzv7r2qJsc34/Ufdka+d46qymc4rkELuczEmN/SsPxWI9F8BbjRxy8T2C4uAo3HqSRO5Rb78/v6vurXkQvfCpjr3bBLDSx8yeCytPLaS3FQI5QoO9y/kz/kQdrN5xMmbrPnudSBK8Ld0WAohlGb8yLDDxVfsLh4cAbnYwfjIxhhSdpEaRljU0ylizaQB1Xbiad4EYpFb1zE2sAY0vGj/eTAN+j8iwk/W0blef2QLFiV8q6/87Gf4dJCf6xmOwVAKLc0CTpKypC1gQ==;dOpoBhnxarGy/Rg22LbZPg=="
 ---

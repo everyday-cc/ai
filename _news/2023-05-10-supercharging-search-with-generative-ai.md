@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/products/search/generative-ai-search/amp/"
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/search/generative-ai-search/amp/"
 type: article
 quality: 109
-heat: 439
+heat: 429
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "IBM CEO sees a future for generative AI with Watsonx in the enterprise"
-    excerpt: "IBM is partnering with Hugging Face to bring access to open AI models to IBM’s enterprise users. The Watsonx AI models also include the Watson Code Assistant, which is a generative AI coding tool that will be integrated with IBM’s Red Hat Ansible ..."
-    publishedDateTime: 2023-05-09T11:05:00Z
-    webUrl: "https://venturebeat.com/ai/ibm-ceo-sees-a-future-for-generative-ai-with-watsonx-in-the-enterprise/"
-    ampWebUrl: "https://venturebeat.com/ai/ibm-ceo-sees-a-future-for-generative-ai-with-watsonx-in-the-enterprise/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/ibm-ceo-sees-a-future-for-generative-ai-with-watsonx-in-the-enterprise/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 104
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/05/IBM_think_logo_050823.jpg?w=1200&strip=all"
-        width: 1200
-        height: 578
-        isCached: true
   - title: "What AI-Generated Fingers AI Can Teach You About Training Your Own Models"
     excerpt: "Generative AI is everywhere and has unlocked creativity for extraordinary creations, such as images of ecstatic Friedrich Nietzsche dancing or of Immanuel Kant with a sneaky grin. Rather than deciphering Kant's intricate ideas,"
     publishedDateTime: 2023-05-11T11:44:00Z

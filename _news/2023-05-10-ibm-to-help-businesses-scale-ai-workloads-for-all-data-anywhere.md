@@ -39,6 +39,20 @@ related:
         width: 800
         height: 400
         isCached: true
+  - title: "IBM Introduces Watsonx Platform to Empower Next-Gen Foundation Models for Business Amid Rising Popularity of ChatGPT and Other LLMs"
+    excerpt: "The Watsonx platform, announced at IBM's annual Think conference, aims to enable enterprises to scale and accelerate the impact of advanced AI with trusted data. It offers a full technology stack that allows organizations to train,"
+    publishedDateTime: 2023-05-09T13:57:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/05/09/9810544.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 9
+    images:
+      - url: "https://marketplace.connectwise.com/content/images/thumbs/0000635_skykick_550.png"
+        width: 550
+        height: 353
+        isCached: true
 
 secured: "Bh2vHsH7eblpLq12lgCeaxcbW3H1agUVX16NtV9+Wfartx5J9EBlFzzgegQkvQjFdpAMH7r4Ig9pAZNDUF6nBLGge02wtsr8CpiUpIwmNn3Hje5JcVhhyjXJoDw/LCpZbwKeY0sIrelarqYpB0iTQfrvSpXJLo62HMkcxHAv46bapgZ/EQmpjWKI2dAIc56kD3zmabbHpfdxu8ycg7KOh2ZH0wOKiJgiiNVQH7TsnRYc/11POLtY3I19MDK8tpQygBGcbsb+XFhVwOd2+qsaR7HeSbndrNauWQhiKltPXgtEm9JsLj4Y7Q4yDSjlOC+hqd/GgXkISiJv0phfB8Cqllk8OC3on/K3+E/Jkl13e6OrE41jte/R6fF45Vyb1cC3ZGCtV8FWL1MS4yoeRaDadoL8hq6TfNIakqyclwKR8ZnRXfsLyfc3rGyfiSVS7/N9NjDAD73qilRaHTv1CxVsO/QeaKkEUCXj7OkedCmaV/cyRWYucntsShUffQ03Gb8C2bei6cNrKeqn0/fHaWcRdg==;q1CCQHIesj2hbQEyf13Vgg=="
 ---

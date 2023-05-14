@@ -25,47 +25,84 @@ images:
     isCached: true
 
 related:
-  - title: "Hackers look for AI flaws under White House direction"
-    excerpt: "A mass hacking event will target models from OpenAI, Microsoft and more, looking for flaws in AI systems at the direction of the White House."
-    publishedDateTime: 2023-05-10T16:28:00Z
-    webUrl: "https://www.foxbusiness.com/technology/hackers-look-ai-flaws-white-house-direction"
-    ampWebUrl: "https://www.foxbusiness.com/technology/hackers-look-ai-flaws-white-house-direction.amp"
-    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/hackers-look-ai-flaws-white-house-direction.amp"
+  - title: "Rise Of The AI Whisperers"
+    excerpt: "I see the emerging profession of AI whisperer as holding the key to unlocking the full potential of AI systems."
+    publishedDateTime: 2023-05-11T11:15:00Z
+    webUrl: "https://www.forbes.com/sites/theyec/2023/05/11/rise-of-the-ai-whisperers/"
+    ampWebUrl: "https://www.forbes.com/sites/theyec/2023/05/11/rise-of-the-ai-whisperers/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2023/05/11/rise-of-the-ai-whisperers/amp/"
     type: article
     provider:
-      name: Fox Business
-      domain: foxbusiness.com
-    quality: 59
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/8413fe5c-9099-4c4d-88f4-ed26e5fe8c69/2fc9d027-6cf3-41fd-aa0c-dd12a69199d6/1280x720/match/image.jpg"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/645ba88738407b978d2796dd/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Google Is Opening the AI Floodgates"
+    excerpt: "This week we recap all the news from Google I/O and discuss how the company is reshaping its core business with generative tools."
+    publishedDateTime: 2023-05-12T12:00:00Z
+    webUrl: "https://www.wired.com/story/gadget-lab-podcast-597/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 67
+    images:
+      - url: "https://media.wired.com/photos/645d18570b67c709cbcaa855/191:100/w_1280,c_limit/Google-IO-2023-Gadget-Lab-Gear-1488931959.jpg"
         width: 1280
-        height: 720
+        height: 670
         isCached: true
-  - title: "Hackers aim to find flaws in AI – with White House help"
-    excerpt: "No sooner did ChatGPT get unleashed than hackers started “jailbreaking” the artificial intelligence chatbot – trying to override its safeguards so it could blurt out something unhinged or obscene."
-    publishedDateTime: 2023-05-11T09:34:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2023/05/11/hackers-aim-to-find-flaws-in-ai---with-white-house-help"
+  - title: "As AI jobs loss fears spread, know these 10 jobs that will grow because of it"
+    excerpt: "World Economic Forum has informed about top 10 fastest growing jobs because of Artificial Intelligence. From Robotics Engineers to AI Machine Learning specialists, check the list here. Artificial Intelligence will claim a huge number of jobs causing fear to spread rapidly among workers."
+    publishedDateTime: 2023-05-10T21:42:00Z
+    webUrl: "https://tech.hindustantimes.com/tech/news/as-ai-jobs-loss-fears-spread-know-these-10-jobs-that-will-grow-because-of-it-71683713149141.html"
+    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/as-ai-jobs-loss-fears-spread-know-these-10-jobs-that-will-grow-because-of-it-71683713149141.html"
+    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/as-ai-jobs-loss-fears-spread-know-these-10-jobs-that-will-grow-because-of-it-71683713149141.html"
     type: article
     provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 39
+      name: Hindustan Times Tech
+      domain: hindustantimes.com
+    quality: 56
     images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2023/05/11/2067485.jpg"
-        width: 1240
-        height: 826
+      - url: "https://images.hindustantimes.com/tech/img/2023/05/10/cropped/16-9/USA-ARTIFICAL-INTELLIGENCE-BIDEN-0_1683713231312_1683713308449.JPG?impolicy=new-ht-20210112&width=1600"
+        width: 1600
+        height: 900
         isCached: true
-  - title: "New artificial intelligence algorithm for more accurate plant disease detection"
-    excerpt: "Every year, plant diseases caused by bacteria, viruses, and fungi contribute to major economic losses. The prompt detection of these diseases is necessary to curb their spread and mitigate agricultural damage,"
-    publishedDateTime: 2023-05-12T17:30:00Z
-    webUrl: "https://phys.org/news/2023-05-artificial-intelligence-algorithm-accurate-disease.html"
-    ampWebUrl: "https://phys.org/news/2023-05-artificial-intelligence-algorithm-accurate-disease.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-05-artificial-intelligence-algorithm-accurate-disease.amp"
+  - title: "Google Wants to Play Both Sides of the AI Arms Race"
+    excerpt: "CEO Sundar Pichai and several top executives at Google’s parent company Alphabet took the stage to announce the infusion of AI into its suite of tools, as well as the launch of a new-and-improved AI model to power it all."
+    publishedDateTime: 2023-05-10T22:03:00Z
+    webUrl: "https://www.thedailybeast.com/googles-io-conference-reveals-the-internets-ai-generated-future"
     type: article
     provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 35
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 37
+    images:
+      - url: "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_675,w_1200,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1683752560/230509-Google-AI-sides-tease_dvcxia"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "The threat and promise of artificial intelligence"
+    excerpt: "Yet even if no such revolution threatens, recent advances in artificial intelligence are highly significant. According to Bill Gate s, they are the most important development since personal computers."
+    publishedDateTime: 2023-05-09T16:04:00Z
+    webUrl: "https://www.ft.com/content/41fd34b2-89ee-4b21-ac0a-9b15560ef37c?shareType=nongift"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 17
+  - title: "EU lawmakers agree tough measures over use of AI"
+    excerpt: "EU lawmakers have agreed a tough set of rules over the use of AI, including restrictions on chatbots such as ChatGPT, as Brussels pushes forward in enacting the world’s most restrictive regime on the development of the technology."
+    publishedDateTime: 2023-05-11T11:24:00Z
+    webUrl: "https://www.ft.com/content/da597e19-4d63-4d4d-b7d1-c3405302a1e3"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 17
 
 secured: "2caALUhscXNiwSlPyrXBuhDCFLE+Cq5KBgceFCcmqZLSd36xzHpIkwPDFNjgsc71qeViqfoX6LSi22KIkh+76kQh7Qii6hMdtqmxs3+V2qhQ1AaR4BowJVPKtWO4R1jybdj21Jr282d8ARN55eTRfx5VwSzIrMI5PLLNhrLig4180RGE7pVsfS4mHj/5dAgIHJjknSCZMeL3kEe0VwBRz2sNWBgPLwM0Tvdx/AxWtUp1zF7IW38rPO/SsjbAze9lTtks3Do5zoDrYsiAysRubpcHNAutZcMhG44hImLvL/YtZZekznTKSOOAg+NPBUp1NQyDu6BAjFNYsFjDbHgv0F2nWf3LvRGCvQp7s1tu9Jeio3iT1FW0Vp2fPtkBC4Y/oHjG3Qc2UVvu4S9JW9ztksTTt2QVOzmNTt+4TiyJhqbsLci5PNbURCnLNc8imKjbxpBWMadlaczymqvBbQtuZj8bvbDBoOghmwg/QBwu6n6T4+9EiuudiPimQbRLotnwao2w8EAm8S5gHEzL/qvLog==;4dfWNhiKo4QFPOAQy/5bqQ=="
 ---

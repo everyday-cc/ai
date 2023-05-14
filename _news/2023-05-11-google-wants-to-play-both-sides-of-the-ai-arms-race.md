@@ -24,53 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "Google Chrome Brings Better AI Brains to the Web"
-    excerpt: "With a technology called WebGPU, AI software to monitor your health or generate images could run in your browser instead of the cloud."
-    publishedDateTime: 2023-05-09T23:11:00Z
-    webUrl: "https://www.cnet.com/tech/computing/google-chrome-brings-better-ai-brains-to-the-web/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/google-chrome-brings-better-ai-brains-to-the-web/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/google-chrome-brings-better-ai-brains-to-the-web/"
+  - title: "Rise Of The AI Whisperers"
+    excerpt: "I see the emerging profession of AI whisperer as holding the key to unlocking the full potential of AI systems."
+    publishedDateTime: 2023-05-11T11:15:00Z
+    webUrl: "https://www.forbes.com/sites/theyec/2023/05/11/rise-of-the-ai-whisperers/"
+    ampWebUrl: "https://www.forbes.com/sites/theyec/2023/05/11/rise-of-the-ai-whisperers/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2023/05/11/rise-of-the-ai-whisperers/amp/"
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
-    quality: 87
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: "https://www.cnet.com/a/img/resize/fccd854ab95eb0901bb9d795b1bd9e822ca897ad/hub/2019/05/09/9f2a88cf-2acc-4c04-b11e-03560e8d182f/20120314-google-chrome-lapel-pin-4sts-01.jpg?auto=webp"
-        width: 4048
-        height: 2391
-        isCached: true
-  - title: "Google told me Bard has gotten better. But even the AI doesn't believe ..."
-    excerpt: "Even after Google I/O, Bard seems to be holding on to some of its old quirks, even denying its upgrade to PaLM 2."
-    publishedDateTime: 2023-05-13T11:29:00Z
-    webUrl: "https://www.zdnet.com/article/google-told-me-bard-has-gotten-better-but-even-the-ai-doesnt-believe-it/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/google-told-me-bard-has-gotten-better-but-even-the-ai-doesnt-believe-it/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-told-me-bard-has-gotten-better-but-even-the-ai-doesnt-believe-it/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 85
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/3002560b7b92127860a6d1747749f19b9714d7c1/2023/05/10/bb010820-3937-4ed0-8468-2d013125672d/google-bard-2.jpg?auto=webp&fit=crop&height=675&width=1200"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/645ba88738407b978d2796dd/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 675
-        isCached: true
-  - title: "How a Toronto computer chip maker is providing the better brains AI runs on"
-    excerpt: "From its downtown Toronto HQ, Untether is designing the computer chips that run artificial intelligence programs more efficiently."
-    publishedDateTime: 2023-05-13T09:15:00Z
-    webUrl: "https://www.thestar.com/business/2023/05/13/untether-ai-ceo-arun-iyengar-on-the-hidden-energy-crisis-in-ai-semiconductors-and-why-he-stayed-in-canada.html"
-    ampWebUrl: "https://www.thestar.com/amp/business/2023/05/13/untether-ai-ceo-arun-iyengar-on-the-hidden-energy-crisis-in-ai-semiconductors-and-why-he-stayed-in-canada.html"
-    cdnAmpWebUrl: "https://www-thestar-com.cdn.ampproject.org/c/s/www.thestar.com/amp/business/2023/05/13/untether-ai-ceo-arun-iyengar-on-the-hidden-energy-crisis-in-ai-semiconductors-and-why-he-stayed-in-canada.html"
-    type: article
-    provider:
-      name: Toronto Star
-      domain: thestar.com
-    quality: 72
-    images:
-      - url: "https://www.thestar.com/content/dam/thestar/star-chevron-16x9.png.size.custom.crop.640x360.jpg"
-        width: 640
-        height: 360
+        height: 800
         isCached: true
   - title: "Google Is Opening the AI Floodgates"
     excerpt: "This week we recap all the news from Google I/O and discuss how the company is reshaping its core business with generative tools."
@@ -86,31 +54,54 @@ related:
         width: 1280
         height: 670
         isCached: true
-  - title: "WebGPU Brings AI Capabilities Directly to Google Chrome Users"
-    excerpt: "Google I/O focused on AI technologies, integrating AI into Chrome using WebGPU for improved performance and security."
-    publishedDateTime: 2023-05-11T12:59:00Z
-    webUrl: "https://www.gizmochina.com/2023/05/11/google-integrating-ai-into-chrome-using-webgpu/"
+  - title: "As AI jobs loss fears spread, know these 10 jobs that will grow because of it"
+    excerpt: "World Economic Forum has informed about top 10 fastest growing jobs because of Artificial Intelligence. From Robotics Engineers to AI Machine Learning specialists, check the list here. Artificial Intelligence will claim a huge number of jobs causing fear to spread rapidly among workers."
+    publishedDateTime: 2023-05-10T21:42:00Z
+    webUrl: "https://tech.hindustantimes.com/tech/news/as-ai-jobs-loss-fears-spread-know-these-10-jobs-that-will-grow-because-of-it-71683713149141.html"
+    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/as-ai-jobs-loss-fears-spread-know-these-10-jobs-that-will-grow-because-of-it-71683713149141.html"
+    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/as-ai-jobs-loss-fears-spread-know-these-10-jobs-that-will-grow-because-of-it-71683713149141.html"
     type: article
     provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 64
-  - title: "Google Goes Big With a New Folding Phone and Better AI"
-    excerpt: "It’s been a big week for Google, which just announced three new Pixel products, including its first foldable phone, plus key enhancements to its ChatGPT rival Bard."
-    publishedDateTime: 2023-05-11T11:51:00Z
-    webUrl: "https://www.barrons.com/visual-stories/google-ai-chatgpt-pixel-phone-tablet-96a40590"
-    ampWebUrl: "https://www.barrons.com/visual-stories/google-ai-chatgpt-pixel-phone-tablet-96a40590"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/visual-stories/google-ai-chatgpt-pixel-phone-tablet-96a40590"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 57
+      name: Hindustan Times Tech
+      domain: hindustantimes.com
+    quality: 56
     images:
-      - url: "https://images.barrons.com/im-779960?size=1.5005861664712778&height=630&width=1200"
-        width: 1200
-        height: 630
+      - url: "https://images.hindustantimes.com/tech/img/2023/05/10/cropped/16-9/USA-ARTIFICAL-INTELLIGENCE-BIDEN-0_1683713231312_1683713308449.JPG?impolicy=new-ht-20210112&width=1600"
+        width: 1600
+        height: 900
         isCached: true
+  - title: "Hospitality sector’s use of artificial intelligence could rise as owners look for ways around expensive apps"
+    excerpt: "The idea of robots in hospitality may conjure visions of The Jetsons’ personal assistant Rosey, or robotic waiters at city restaurants, but experts say the sector’s adoption of AI will grow."
+    publishedDateTime: 2023-05-12T08:09:00Z
+    webUrl: "https://thewest.com.au/business/retail/hospitality-sectors-use-of-artificial-intelligence-could-rise-as-owners-look-for-ways-around-expensive-apps-c-10415544"
+    type: article
+    provider:
+      name: The West Australian
+      domain: thewest.com.au
+    quality: 20
+    images:
+      - url: "https://images.thewest.com.au/publication/C-10415544/57de6a51ee683fc8bed087633ae160bcc2fb5431-16x9-x0y287w2756h1550.jpg?imwidth=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "The threat and promise of artificial intelligence"
+    excerpt: "Yet even if no such revolution threatens, recent advances in artificial intelligence are highly significant. According to Bill Gate s, they are the most important development since personal computers."
+    publishedDateTime: 2023-05-09T16:04:00Z
+    webUrl: "https://www.ft.com/content/41fd34b2-89ee-4b21-ac0a-9b15560ef37c?shareType=nongift"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 17
+  - title: "EU lawmakers agree tough measures over use of AI"
+    excerpt: "EU lawmakers have agreed a tough set of rules over the use of AI, including restrictions on chatbots such as ChatGPT, as Brussels pushes forward in enacting the world’s most restrictive regime on the development of the technology."
+    publishedDateTime: 2023-05-11T11:24:00Z
+    webUrl: "https://www.ft.com/content/da597e19-4d63-4d4d-b7d1-c3405302a1e3"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 17
 
 secured: "2jTyGO0z/SH9K+XY/dSnoPB6+nng3Y0eM4rWtUIOyL1BbpDotIGh2uSNnU1Mg9wQki0B0XkmhQ9OxPW9w2Sm8Jm24sTbVWa+mh+8fT4Yufa5CD6njJkYUy1FQnngVBGjrg7n9+dUWPoQZZwaQM6oGg++ZuooSwyyzPdpdzGyoY2kV/Cw/J9Xuxlg5IFlw6nDLIBAZyn2M+Kn0HvCty1Dg4iXJ7BByrSo3W+sxP3DZYR5CaDVxmRrDggFsmo2YXIBQsCHXfc/qrNi27+IibZluPx1d6qKN8LJ+t2KcLJcRKed6o+FB7MzEQrkXhMpavUuWHzj+tw08RlrES59pxpSf51BMrc58den4/T3Wq1NuHd1cRC82Hu9LnmUu1TRUDZ3Yimuj28w+yZH4E6gtSDafX9SGhecdX605RMBZ7oZb1+3o7BUIqLkg+z4SMzcnJIYuNu3rsvJhZjrggLx0Jn4OOjst8GhNmj5tToNWegeK0GC0zAPEpYz9/O4XKdG+QU6PqnRcS+6whQM4w4arDqOkg==;DcdPeCS0BpBCXCa4BXjMVg=="
 ---

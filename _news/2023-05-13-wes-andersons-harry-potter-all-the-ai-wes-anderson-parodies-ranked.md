@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/movies/all-the-wes-anderson-artificial
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/movies/all-the-wes-anderson-artificial-intelligent-parodies-ranked/?amp"
 type: article
 quality: 87
-heat: 97
+heat: 98
 published: true
 
 provider:

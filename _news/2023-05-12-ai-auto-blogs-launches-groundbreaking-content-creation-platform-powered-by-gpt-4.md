@@ -37,15 +37,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Medical Billing Automation Takes Giant Leap Forward With GPT-Enabled Virtual Agents From Outbound AI"
-    excerpt: "Outbound AI takes giant leap forward in medical billing automation with GPT-enabled virtual agents specially trained to handle phone-based tasks."
-    publishedDateTime: 2023-05-09T13:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20230509005422/en/Medical-Billing-Automation-Takes-Giant-Leap-Forward-With-GPT-Enabled-Virtual-Agents-From-Outbound-AI/"
-    type: article
-    provider:
-      name: newsroom.businesswire.com
-      domain: businesswire.com
-    quality: 4
 
 secured: "CJQS9XXneUP9enlrTT7pulyOB7QSvWRU9gdYHrf3MV8nH+DhpLKZG42FxIj/WdeU36L7HogLV1urZF5O+/vfaYYUygaEWvvuSJAMXQ2vzIh0DD2szQi9EMlt/k1YJ2hKkNsRTAiZczNoxORV5JCNgJa9Z+GoyDNsn/LYCDW7FptGbfXaaUSRax9uO+ygkTGu1LS8RK11xpsur9+k2YsrMrauVGEkdTcRLd0jetiJ95goSFU5rM1dfDsNwaP4i6CT8qEAJDIRNIwBnprZCcVeDy8d49JK78W12zuj6lnhn8/OKRKcRIhNpgsBFAJuSIDLT0moxid1LDLErVMbU88gYKBySOXlgXu3Ivue0V3gCgE=;S1BVqAbIj8iD+X/Bk26nrg=="
 ---

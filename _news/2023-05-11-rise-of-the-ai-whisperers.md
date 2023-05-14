@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/theyec/2023/05/11/rise-of-the-ai-whispe
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2023/05/11/rise-of-the-ai-whisperers/amp/"
 type: article
 quality: 89
-heat: -1
-published: false
+heat: 149
+published: true
 
 provider:
   name: Forbes
@@ -31,22 +31,82 @@ images:
     isCached: true
 
 related:
-  - title: "AI Wrote 95 Percent of This Murder Mystery"
-    excerpt: "Stephen Marche composed 'Death of an Author' using three AI tools, under the shared pen name Aidan Marchine. Here’s a look at the result."
-    publishedDateTime: 2023-05-09T13:00:00Z
-    webUrl: "https://www.wired.com/story/death-of-an-author-ai-book-excerpt/"
-    ampWebUrl: "https://www.wired.com/story/death-of-an-author-ai-book-excerpt/amp"
-    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/death-of-an-author-ai-book-excerpt/amp"
+  - title: "Google Is Opening the AI Floodgates"
+    excerpt: "This week we recap all the news from Google I/O and discuss how the company is reshaping its core business with generative tools."
+    publishedDateTime: 2023-05-12T12:00:00Z
+    webUrl: "https://www.wired.com/story/gadget-lab-podcast-597/"
     type: article
     provider:
       name: Wired
       domain: wired.com
-    quality: 91
+    quality: 67
     images:
-      - url: "https://media.wired.com/photos/6459890a40f1b0ff5784445b/master/pass/Death-of-An-Author-AI-Culture-1337018866.jpg"
-        width: 2400
-        height: 1600
+      - url: "https://media.wired.com/photos/645d18570b67c709cbcaa855/191:100/w_1280,c_limit/Google-IO-2023-Gadget-Lab-Gear-1488931959.jpg"
+        width: 1280
+        height: 670
         isCached: true
+  - title: "As AI jobs loss fears spread, know these 10 jobs that will grow because of it"
+    excerpt: "World Economic Forum has informed about top 10 fastest growing jobs because of Artificial Intelligence. From Robotics Engineers to AI Machine Learning specialists, check the list here. Artificial Intelligence will claim a huge number of jobs causing fear to spread rapidly among workers."
+    publishedDateTime: 2023-05-10T21:42:00Z
+    webUrl: "https://tech.hindustantimes.com/tech/news/as-ai-jobs-loss-fears-spread-know-these-10-jobs-that-will-grow-because-of-it-71683713149141.html"
+    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/as-ai-jobs-loss-fears-spread-know-these-10-jobs-that-will-grow-because-of-it-71683713149141.html"
+    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/as-ai-jobs-loss-fears-spread-know-these-10-jobs-that-will-grow-because-of-it-71683713149141.html"
+    type: article
+    provider:
+      name: Hindustan Times Tech
+      domain: hindustantimes.com
+    quality: 56
+    images:
+      - url: "https://images.hindustantimes.com/tech/img/2023/05/10/cropped/16-9/USA-ARTIFICAL-INTELLIGENCE-BIDEN-0_1683713231312_1683713308449.JPG?impolicy=new-ht-20210112&width=1600"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "Google Wants to Play Both Sides of the AI Arms Race"
+    excerpt: "CEO Sundar Pichai and several top executives at Google’s parent company Alphabet took the stage to announce the infusion of AI into its suite of tools, as well as the launch of a new-and-improved AI model to power it all."
+    publishedDateTime: 2023-05-10T22:03:00Z
+    webUrl: "https://www.thedailybeast.com/googles-io-conference-reveals-the-internets-ai-generated-future"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 37
+    images:
+      - url: "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_675,w_1200,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1683752560/230509-Google-AI-sides-tease_dvcxia"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Hospitality sector’s use of artificial intelligence could rise as owners look for ways around expensive apps"
+    excerpt: "The idea of robots in hospitality may conjure visions of The Jetsons’ personal assistant Rosey, or robotic waiters at city restaurants, but experts say the sector’s adoption of AI will grow."
+    publishedDateTime: 2023-05-12T08:09:00Z
+    webUrl: "https://thewest.com.au/business/retail/hospitality-sectors-use-of-artificial-intelligence-could-rise-as-owners-look-for-ways-around-expensive-apps-c-10415544"
+    type: article
+    provider:
+      name: The West Australian
+      domain: thewest.com.au
+    quality: 20
+    images:
+      - url: "https://images.thewest.com.au/publication/C-10415544/57de6a51ee683fc8bed087633ae160bcc2fb5431-16x9-x0y287w2756h1550.jpg?imwidth=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "The threat and promise of artificial intelligence"
+    excerpt: "Yet even if no such revolution threatens, recent advances in artificial intelligence are highly significant. According to Bill Gate s, they are the most important development since personal computers."
+    publishedDateTime: 2023-05-09T16:04:00Z
+    webUrl: "https://www.ft.com/content/41fd34b2-89ee-4b21-ac0a-9b15560ef37c?shareType=nongift"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 17
+  - title: "EU lawmakers agree tough measures over use of AI"
+    excerpt: "EU lawmakers have agreed a tough set of rules over the use of AI, including restrictions on chatbots such as ChatGPT, as Brussels pushes forward in enacting the world’s most restrictive regime on the development of the technology."
+    publishedDateTime: 2023-05-11T11:24:00Z
+    webUrl: "https://www.ft.com/content/da597e19-4d63-4d4d-b7d1-c3405302a1e3"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 17
 
 secured: "IWSyvgcFSdwtsZZXfI1imtOevTnb8UCKLv2HYDXM6YqmwLQxfBH+v/vqOaXqRz0kdgQ7/oCpmMNgW0KSnYDE3XUAalEVbacqGxzzBIf0xjgli4t0KBlFTbXzqQlKYoDEYbD9BUrYiVu1VKpP3TU4ZwtDwXTVs/OccSLqAX7dgTxaPEMjWk/5fdAqiLppuY/XClsWvDvWBAuifqcuwGh1kCEEhSAex0Qx/DMB17cbFdWmeXRkgTh2oHCQ3z3ckQzNoFjGdnhdZ5fnm0Xh0nrc+euR7+j+UnIjdNRu3WKBfJiG5oZmA+H5mw8Wieg9cWfRwXhkYAD43FoT+YKKVXvSCarXI5EDgCJ0SQ7s/tQEEtOiHp54lCDpvG6c1IyHurGhbOx0H9AVD7wf2kFedwGGX3s/SQadBrpERjnQiV5Vee+ZwWWmXbNtIxqE4jPa2JNrk5xkRniHmIJCF6dUMpZUlCJOhqxsUCnVW78DwCpRABBY+1qy1jxs1btU0rwDwXgsfoiTdGiFq/j2OgAoB8aCxw==;Ti3Cz06IJhurPQhBGM+hKQ=="
 ---

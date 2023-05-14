@@ -26,6 +26,36 @@ images:
     isCached: true
 
 related:
+  - title: "IBM brings back Watson as AI heats up"
+    excerpt: "IBM has unveiled WatsonX, the next generation of the company's AI system. Matthias Balk/picture alliance via Getty Images Watson, the artificial intelligence created by IBM more than a decade ago, is ready for its encore as interest in artificial ..."
+    publishedDateTime: 2023-05-09T15:34:00Z
+    webUrl: "https://fortune.com/2023/05/09/ibm-brings-back-watson-ai/"
+    ampWebUrl: "https://fortune.com/2023/05/09/ibm-brings-back-watson-ai/amp/"
+    cdnAmpWebUrl: "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/2023/05/09/ibm-brings-back-watson-ai/amp/"
+    type: article
+    provider:
+      name: Fortune
+      domain: fortune.com
+    quality: 104
+    images:
+      - url: "https://content.fortune.com/wp-content/uploads/2023/05/GettyImages-1039870520-e1683644169196.jpg?w=840"
+        width: 840
+        height: 559
+        isCached: true
+  - title: "IBM unleashes new AI strategy with \"watsonx\""
+    excerpt: "Such is the case with IBM, the most recent entrant to the generative AI product and service world. At their annual Think conference in Orlando, they"
+    publishedDateTime: 2023-05-09T16:34:00Z
+    webUrl: "https://www.techspot.com/news/98621-ibm-unleashes-new-ai-strategy-watsonx.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 84
+    images:
+      - url: "https://www.techspot.com/images2/news/bigimage/2023/05/2023-05-09-image-7.jpg"
+        width: 2400
+        height: 1200
+        isCached: true
   - title: "IBM’s watsonx could be a generative AI game-changer"
     excerpt: "Generative AI has been much-hyped over the past few months, but still faces serious teething issues. IBM's watsonx could help solve some of those problems."
     publishedDateTime: 2023-05-12T06:45:00Z
@@ -51,6 +81,22 @@ related:
       name: TechRepublic
       domain: techrepublic.com
     quality: 68
+  - title: "IBM Reveals New WatsonX"
+    excerpt: "International Business Machines Corp released Watsonx, a new AI and data tool to enable organizations to integrate AI into their business."
+    publishedDateTime: 2023-05-10T16:02:00Z
+    webUrl: "https://enterprisetalk.com/quick-bytes/ibm-reveals-new-watsonx/"
+    ampWebUrl: "https://enterprisetalk.com/quick-bytes/ibm-reveals-new-watsonx/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/ibm-reveals-new-watsonx/amp/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 59
+    images:
+      - url: "https://enterprisetalk.com/wp-content/uploads/2023/05/IBM-Reveals-New-WatsonX.jpg"
+        width: 1500
+        height: 844
+        isCached: true
   - title: "IBM: Remember Watson? It's Still Around, Ready to Give Your Business an AI Upgrade"
     excerpt: "IBM has a new AI and data platform called Watsonx (Opens in a new window) aimed at making it easy for enterprises to take advantage of artificial intelligence. The name Watson fir"
     publishedDateTime: 2023-05-09T13:03:00Z
@@ -116,6 +162,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "“Big Blue” Takes Aim Once More at Watson"
+    excerpt: "It’s been a long time since IBM (NYSE:IBM) has actively touted Watson. Originally created to beat humans at the “Jeopardy!” game show, Watson marked IBM’s early splash in artificial intelligence, but it never amounted to a profitable offering."
+    publishedDateTime: 2023-05-09T13:49:00Z
+    webUrl: "https://www.baystreet.ca/articles/techinsider/87351/050923"
+    type: article
+    provider:
+      name: BayStreet
+      domain: baystreet.ca
+    quality: 34
   - title: "IBM debuts Watsonx product suite to streamline enterprise AI projects"
     excerpt: "Watsonx was previewed at the company’s annual Think conference alongside several other new offerings. For its cloud platform, IBM is rolling out new compute options that provide access to graphics cards."
     publishedDateTime: 2023-05-09T18:01:00Z
@@ -143,34 +198,15 @@ related:
       name: Hindustan Times Tech
       domain: hindustantimes.com
     quality: 33
-  - title: "IBM Unveils the Watsonx Platform to Power Next-Generation Foundation Models for Business"
-    excerpt: "Watsonx is a new platform to be released for foundation models and generative AI, offering a studio, data store, and governance toolkit; New Watson products infused with foundatio"
-    publishedDateTime: 2023-05-09T11:44:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/05/09/9809872.htm"
+  - title: "SAS to spend $1 billion on AI as global tech race heats up"
+    excerpt: "Cary-based SAS will pour huge sums into advancing its artificial intelligence platforms in order to keep up with other tech giants."
+    publishedDateTime: 2023-05-09T18:00:00Z
+    webUrl: "https://www.bizjournals.com/triangle/inno/stories/news/2023/05/09/sas-to-spend-one-billion-global-ai-race-heats-up.html"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 30
-    images:
-      - url: "https://mma.prnewswire.com/media/2072303/IBM_Think_2023.jpg"
-        width: 400
-        height: 225
-        isCached: true
-  - title: "IBM Introduces Watsonx Platform to Empower Next-Gen Foundation Models for Business Amid Rising Popularity of ChatGPT and Other LLMs"
-    excerpt: "The Watsonx platform, announced at IBM's annual Think conference, aims to enable enterprises to scale and accelerate the impact of advanced AI with trusted data. It offers a full technology stack that allows organizations to train,"
-    publishedDateTime: 2023-05-09T13:57:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/05/09/9810544.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 9
-    images:
-      - url: "https://marketplace.connectwise.com/content/images/thumbs/0000635_skykick_550.png"
-        width: 550
-        height: 353
-        isCached: true
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 19
 
 secured: "QTSmIzw/AN8iT85Xf6woYIeAu9iajJzhMdKgJcCUIf8zIVVwPv8S0YPRb7jKF7LNOTR+XCnxaWETa8RA2hKl9uMoLkhCYU8EScp2f7qbMTrxC6fAfczBcx2VvN+EyvB3lZomlSIkpagywa/1gNbxerUp//fg6kHbZXyeRRiSZyyhoB3FArvv7xgIO1YQJEyNn0kEJSEA8fWL4OCi8Uke4jrTmUsVjUicSEfn82feUAJafc8l0JgE5rxb2JT2myYXTKJznKF5sZyfKwFXspmeXCBSoko42lIOzKk4i89vOXVAcctE/mElAC2NHo8ZOYo9U1BFs4V87xtBzbVmCg2IBcm2PN8/MT0kWYYVJj4O3NLHT2XIqd8S9kEO3QyehTng/xxjxiTuDjD8InpeVg3NZL124lAwfpk7tC5n80eNvnKuC+72wJRW+G25eQGH14kaahXVHgCPRQTPKgRpL/QkkBWcsZhjcwFGXtN3X01HQxm68B3WRHgxmd1bm5vrEmAs/i4oiZ2ep+jNxAhcA8hGkg==;MF81YZWoZoEKCjqoWpGjGw=="
 ---

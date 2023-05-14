@@ -47,22 +47,6 @@ related:
         width: 1300
         height: 731
         isCached: true
-  - title: "IBM CEO sees a future for generative AI with Watsonx in the enterprise"
-    excerpt: "IBM is partnering with Hugging Face to bring access to open AI models to IBM’s enterprise users. The Watsonx AI models also include the Watson Code Assistant, which is a generative AI coding tool that will be integrated with IBM’s Red Hat Ansible ..."
-    publishedDateTime: 2023-05-09T11:05:00Z
-    webUrl: "https://venturebeat.com/ai/ibm-ceo-sees-a-future-for-generative-ai-with-watsonx-in-the-enterprise/"
-    ampWebUrl: "https://venturebeat.com/ai/ibm-ceo-sees-a-future-for-generative-ai-with-watsonx-in-the-enterprise/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/ibm-ceo-sees-a-future-for-generative-ai-with-watsonx-in-the-enterprise/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 104
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/05/IBM_think_logo_050823.jpg?w=1200&strip=all"
-        width: 1200
-        height: 578
-        isCached: true
   - title: "New Era Of Generative AI Finally Delivers On Promise"
     excerpt: "Artificial intelligence is not new, but the public launch of generative AI has led to an explosion of AI models and implementations that are finally delivering some of the potential promise of artificial intelligence."
     publishedDateTime: 2023-05-10T14:36:00Z

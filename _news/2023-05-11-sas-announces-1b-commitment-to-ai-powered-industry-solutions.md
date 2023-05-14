@@ -80,15 +80,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 19
-  - title: "SAS to spend $1 billion on AI as global tech race heats up"
-    excerpt: "Cary-based SAS will pour huge sums into advancing its artificial intelligence platforms in order to keep up with other tech giants."
-    publishedDateTime: 2023-05-09T18:00:00Z
-    webUrl: "https://www.bizjournals.com/triangle/inno/stories/news/2023/05/09/sas-to-spend-one-billion-global-ai-race-heats-up.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 19
 
 secured: "yGXcVLexhv4pLb3oJI+UUSprLbWNwU1gIo/KMASEsEGopnSh5w+dm1iX5Bueo7g2MnrFZ4MlF3/GQtwIRsLvpv2Mer0vFC31iOlnqk/PwFYhy5FX9FKz+KMRfmUmPB8I4cs/Nwb/cWzfJ+s4e5FQj6fHuVfIYOFwbQRkih63D/U79i7EHuEXtWXI2mSnrTta03KymDgpW2HVtDxIOwV/jwUNW0ijPyE4/ibLZ3xWrU6a9s9wuj0LmLizw2/377zZtVgbTmCWFK9oOCCRCADTi3FDhifxDq9351V49vVTT/G84oWX84iS6D2llr3PM8m8oX9lD3rgDnpyetwcPeT00bUkQJS5NWAZ2jSnOcZg5ZalOsT1tdMneEnSgy+27ZhjlozRmr77/S0iEovyjwY4d/BtMN+su93T06uJsX3UA488HNXHJYlrAvnRXEhQAcw8Wu02dyQo75Nqtr35anxFS8irKTB/+ORKcWhY4vzxXb3LUbtFs/gYTYkFgQRkLfasrNaywj2bj4zmJ1yP1K44VA==;EM7uGAS5sLjm1oqfPW0iqw=="
 ---

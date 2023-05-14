@@ -1,22 +1,15 @@
 ---
 category: news
 title: "Galileo Unveils ML Data-Quality Intelligence Platform for Faster, More Accurate Computer Vision Models"
-excerpt: "Galileo, the first-ever machine-learning (ML) data intelligence company for unstructured data, today announced the"
-publishedDateTime: 2023-05-08T13:00:00Z
-originalUrl: "https://www.marketwatch.com/press-release/galileo-unveils-ml-data-quality-intelligence-platform-for-faster-more-accurate-computer-vision-models-2023-05-08"
-webUrl: "https://www.marketwatch.com/press-release/galileo-unveils-ml-data-quality-intelligence-platform-for-faster-more-accurate-computer-vision-models-2023-05-08"
+excerpt: "Galileo, the first-ever machine-learning (ML) data intelligence company for unstructured data, today announced the launch of its proprietary data-quality intelligence platform, called Galileo Data Intelligence for Computer Vision. The first-ever solution ..."
+publishedDateTime: 2023-05-08T13:31:00Z
+originalUrl: "https://www.bakersfield.com/ap/news/galileo-unveils-ml-data-quality-intelligence-platform-for-faster-more-accurate-computer-vision-models/article_fbefe79c-0d03-548d-bf81-e8e995d979eb.html"
+webUrl: "https://www.bakersfield.com/ap/news/galileo-unveils-ml-data-quality-intelligence-platform-for-faster-more-accurate-computer-vision-models/article_fbefe79c-0d03-548d-bf81-e8e995d979eb.html"
 type: article
-quality: 70
-heat: 100
-published: true
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Bakersfield Californian
+  domain: bakersfield.com
 
 topics:
   - Computer Vision
@@ -24,50 +17,11 @@ topics:
   - Machine Learning
 
 images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
+  - url: "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/assets/v3/editorial/3/02/3028c1a9-8c90-5f91-afa2-a0dbf673dec9/6458f6df13782.image.jpg?crop=1153%2C605%2C0%2C24&resize=1153%2C605&order=crop%2Cresize"
+    width: 1153
+    height: 605
     isCached: true
 
-related:
-  - title: "Galileo Unveils ML Data-Quality Intelligence Platform for Computer Vision Models"
-    excerpt: "Galileo, the machine-learning (ML) data intelligence company for unstructured data, today announced the launch of its proprietary data-quality intelligence platform, called Galileo Data Intelligence for Computer Vision."
-    publishedDateTime: 2023-05-08T19:59:00Z
-    webUrl: "https://insidehpc.com/2023/05/galileo-unveils-ml-data-quality-intelligence-platform-for-computer-vision-models/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 51
-    images:
-      - url: "https://insidehpc.com/wp-content/uploads/2021/03/Atos-iHPC-CT-210318-AR-HPC-Software-Suites-ES-evV2-web-COVER-IMAGE.jpg"
-        width: 842
-        height: 1187
-        isCached: true
-  - title: "Galileo Unveils ML Data-Quality Intelligence Platform for Faster, More Accurate Computer Vision Models"
-    excerpt: "By adding just a few lines of Python code during the model training process, the innovative Galileo Data Intelligence for Computer Vision platform automatically identifies problematic data that negatively impacts model performance, then suggests effective ..."
-    publishedDateTime: 2023-05-08T18:20:00Z
-    webUrl: "https://www.datanami.com/this-just-in/galileo-unveils-ml-data-quality-intelligence-platform-for-faster-more-accurate-computer-vision-models/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 20
-  - title: "Genialis Unveils Expressions Version 3.0, Cloud Software for Faster, More Secure Data Processing and Management"
-    excerpt: "Genialis, a computational precision medicine company unraveling complex biology to find new ways to treat disease, today released Genialis (™) Expressions version 3.0 to accelerate translational and clinical biomarker discovery."
-    publishedDateTime: 2023-05-08T15:09:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/05/08/9809370.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 4
-    images:
-      - url: "https://marketplace.connectwise.com/content/images/thumbs/0000635_skykick_550.png"
-        width: 550
-        height: 353
-        isCached: true
-
-secured: "e+UzL/vzycsFdsW9apGF35j1/dUDSfEPsTJcn++whgQWZ+g2j35H+6BL+aOrAUAgrQ32n9u8Y48wViHc0njbEfS91/a8i71qfYNN3Qljqa4md1nKojF4tGWDcP7LbH8/iZ0q3Mz5cmz8Cx4Y3JNDIGCzA73d9PeIV8dOgFUI9WSPqts7lKS+UNADVglnXZXVAmK56j9rfVSukaJKnEJ9zpj2dmQLo/ZJrdpdOJKOZomwSxCV04tnsb0MRZXWE4JWPz6KdVnm5ML/GMhYjnMI1CdTq/1ZFkuz+ZOMK/UKJKi+Pt5a+loUH/YNjpDXkg1R9owYcn4KglXY/9q/5LAzWfY3L3pfJsU0oNC4agJIDw0=;B0V1QtegkxjvCM0fTcwQKA=="
+secured: "FXNXY6UDFElTLA51wS40q7ovED1eq944WfGn60TftvCNqq18cwbnTU8NMnuuzf5tFlhr55ezXoOSbMtevIQEbvgbhIyERntKTCX7HSWek/9efoROiQAYYvhXtRJdp0xavgNzlkTBwg5X9tefsvbDb5izAQNdKk40+vLRTQ57xtZ7AvzrSLDcVgLYkjGGoD/dAED+/tRtH5osAeUz2F7GPr8XcuBlsOfUGAuZxoxbvldHIEh5L13Bogl5v+WFEEtTMcZE+gfmodB2CIRCyxIiJXfg3Dwg4feYRl2xhiG/9jXXkoJF6Nj03CjAXNwEsTwx1lIpJCaioqywomgl7s+fUFCyXswxcfMNDH9qa9r7A3s=;pxBaiMu7IYJl4gVVIqYKnw=="
 ---
 

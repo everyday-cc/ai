@@ -74,20 +74,6 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "Google Is Opening the AI Floodgates"
-    excerpt: "This week we recap all the news from Google I/O and discuss how the company is reshaping its core business with generative tools."
-    publishedDateTime: 2023-05-12T12:00:00Z
-    webUrl: "https://www.wired.com/story/gadget-lab-podcast-597/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 67
-    images:
-      - url: "https://media.wired.com/photos/645d18570b67c709cbcaa855/191:100/w_1280,c_limit/Google-IO-2023-Gadget-Lab-Gear-1488931959.jpg"
-        width: 1280
-        height: 670
-        isCached: true
   - title: "WebGPU Brings AI Capabilities Directly to Google Chrome Users"
     excerpt: "Google I/O focused on AI technologies, integrating AI into Chrome using WebGPU for improved performance and security."
     publishedDateTime: 2023-05-11T12:59:00Z
@@ -97,20 +83,6 @@ related:
       name: Gizmochina
       domain: gizmochina.com
     quality: 64
-  - title: "Google Wants to Play Both Sides of the AI Arms Race"
-    excerpt: "CEO Sundar Pichai and several top executives at Google’s parent company Alphabet took the stage to announce the infusion of AI into its suite of tools, as well as the launch of a new-and-improved AI model to power it all."
-    publishedDateTime: 2023-05-10T22:03:00Z
-    webUrl: "https://www.thedailybeast.com/googles-io-conference-reveals-the-internets-ai-generated-future"
-    type: article
-    provider:
-      name: The Daily Beast
-      domain: thedailybeast.com
-    quality: 37
-    images:
-      - url: "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_675,w_1200,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1683752560/230509-Google-AI-sides-tease_dvcxia"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "oIph0cxEVyx/McJV5EnxU8bixmoOxM702t8L5ZldMR0LGsAD+oO2iQYJuRw2ltvP/yZYrt6aOXVRwpU40Ku66tixMCLjdA7DfihxZq9qY0mXQAG2bHbte6VuVpU4JIJoN/wgM+HKR/e6Eh+VfQx9ztqZ0jjsiPpWoZRFtJvwMHWi7JJPI5DSuWP+/c8aSJ+EOXM1536JofPGHryUAi6p82IKJ9s0svLOQ630yme1HmGeGhUy8Gjl8o/7bDJUchGmlXGKx+7TtN3EPXv1sa3ucYDAPIuPvxMRUXDSVbzIS+l50ciNIlDQR2XYTKmjL3s5NGM/hzMz+WrSuzQX9KLw4Mbz8LBlYU2GTC+JGvgWAtI=;pq+xAvRWvZMNeSb+vWA9BA=="
 ---

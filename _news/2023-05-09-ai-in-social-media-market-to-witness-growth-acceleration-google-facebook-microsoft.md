@@ -70,6 +70,22 @@ related:
         width: 1200
         height: 805
         isCached: true
+  - title: "Google Fights Back Against Microsoft With New AI Search Capabilities"
+    excerpt: "Google CEO Sundar Pichai has announced that the AI chatbot Bard is open to all, AI is coming to almost all Google products and new search experiences are on the way"
+    publishedDateTime: 2023-05-12T12:35:00Z
+    webUrl: "https://www.forbes.com/sites/qai/2023/05/12/google-fights-back-against-microsoft-with-new-ai-search-capabilities/"
+    ampWebUrl: "https://www.forbes.com/sites/qai/2023/05/12/google-fights-back-against-microsoft-with-new-ai-search-capabilities/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/05/12/google-fights-back-against-microsoft-with-new-ai-search-capabilities/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 104
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/645e322c80f608b0fb76b706/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 793
+        isCached: true
   - title: "“Meaningful harm” from AI necessary before regulation, says Microsoft exec"
     excerpt: "As lawmakers worldwide attempt to understand how to regulate rapidly advancing AI technologies, Microsoft chief economist Michael Schwarz told attendees of the World Economic Forum Growth Summit today that \"we shouldn't regulate AI until we see some meaningful harm that is actually happening,"
     publishedDateTime: 2023-05-11T19:48:00Z
@@ -217,15 +233,6 @@ related:
         width: 730
         height: 395
         isCached: true
-  - title: "SymphonyAI announces strategic collaboration with Microsoft Azure AI for generative AI"
-    excerpt: "SymphonyAI introduces Sensa Copilot, a vertical application that integrates Microsoft Azure OpenAI Service and Azure Cognitive Search to drive"
-    publishedDateTime: 2023-05-09T12:30:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/symphonyai-announces-strategic-collaboration-with-microsoft-azure-ai-for-generative-ai-1032305943"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 71
   - title: "Microsoft and Oracle considered sharing AI servers amid GPU shortages"
     excerpt: "That existing infrastructure could be used to share GPU server capacity, a person familiar with the matter told The Information. The publication previously reported that Microsoft has rationed access to AI servers for some of its internal teams ..."
     publishedDateTime: 2023-05-10T09:58:00Z
@@ -279,49 +286,6 @@ related:
         width: 900
         height: 600
         isCached: true
-  - title: "Google Fights Back Against Microsoft With New AI Search Capabilities"
-    excerpt: "Google CEO Sundar Pichai has announced that the AI chatbot Bard is open to all, AI is coming to almost all Google products and new search experiences are on the way"
-    publishedDateTime: 2023-05-12T12:35:00Z
-    webUrl: "https://www.forbes.com/sites/qai/2023/05/12/google-fights-back-against-microsoft-with-new-ai-search-capabilities/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 64
-  - title: "MakeMyTrip partners with Microsoft for voice-based travel bookings in Indian languages with AI"
-    excerpt: "MakeMyTrip announced a partnership with Microsoft on Monday to bring voice-assisted booking in Indian languages using Generative AI to make travel planning easier. Read on to learn more."
-    publishedDateTime: 2023-05-09T12:43:00Z
-    webUrl: "https://www.gizbot.com/internet/news/makemytrip-partners-with-microsoft-for-voice-based-travel-bookings-in-indian-languages-with-ai-085387.html"
-    ampWebUrl: "https://www.gizbot.com/amphtml/internet/news/makemytrip-partners-with-microsoft-for-voice-based-travel-bookings-in-indian-languages-with-ai-085387.html"
-    cdnAmpWebUrl: "https://www-gizbot-com.cdn.ampproject.org/c/s/www.gizbot.com/amphtml/internet/news/makemytrip-partners-with-microsoft-for-voice-based-travel-bookings-in-indian-languages-with-ai-085387.html"
-    type: article
-    provider:
-      name: GIZBOT
-      domain: gizbot.com
-    quality: 62
-    images:
-      - url: "https://www.gizbot.com/img/1200x60x675/img/2023/05/makemytrip-and-microsoft-1683635443.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "70% of employees are happy to delegate work to AI, according to new Microsoft report"
-    excerpt: "According to the survey, while 49% of respondents expressed fear of losing their jobs to AI, 70% stated that they would delegate as much work as possible to AI in order to reduce their workload."
-    publishedDateTime: 2023-05-09T13:00:00Z
-    webUrl: "https://www.zdnet.com/article/70-of-employees-are-happy-to-delegate-work-to-ai-according-to-new-microsoft-report/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 57
-  - title: "AMP Robotics Raises Additional Series C Investment From Microsoft Climate Innovation Fund"
-    excerpt: "AMP Robotics Corp. (“AMP”), a pioneer in artificial intelligence (AI), robotics, and infrastructure for the waste and recycling industry, has received financing from Microsoft’s Climate Innovation Fund."
-    publishedDateTime: 2023-05-09T13:00:00Z
-    webUrl: "https://markets.buffalonews.com/buffnews/article/bizwire-2023-5-9-amp-robotics-raises-additional-series-c-investment-from-microsoft-climate-innovation-fund"
-    type: article
-    provider:
-      name: The Buffalo News
-      domain: buffalonews.com
-    quality: 57
   - title: "Microsoft confidence in UK less 'shaken' as it invests in AI startup"
     excerpt: "Days after slamming Britain as no country for tech businesses, Microsoft Corporation (NASDAQ:MSFT) has invested in a UK artificial intelligence"
     publishedDateTime: 2023-05-10T14:30:00Z
@@ -405,15 +369,6 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 34
-  - title: "Informatica Expands its Collaboration with Microsoft, Announces Planned Intelligent Data Management Cloud as a Microsoft Azure Native ISV Service"
-    excerpt: "Informatica (NYSE: INFA), an enterprise cloud data management leader, expanded its collaboration with Microsoft"
-    publishedDateTime: 2023-05-09T13:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/informatica-expands-its-collaboration-with-microsoft-announces-planned-intelligent-data-management-cloud-as-a-microsoft-azure-native-isv-service-2023-05-09"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 27
   - title: "Palo Alto Networks Unveils Its Cloud Next-Generation Firewall For Microsoft Azure Customers"
     excerpt: "Cloud NGFW for Azure seamlessly integrates Palo Alto Networks AI and ML-powered security with the simplicity, scalability and global availability"
     publishedDateTime: 2023-05-11T19:42:00Z

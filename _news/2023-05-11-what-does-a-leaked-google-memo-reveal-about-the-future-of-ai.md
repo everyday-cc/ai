@@ -39,20 +39,6 @@ related:
         width: 320
         height: 250
         isCached: true
-  - title: "WV Legislative Interims: How does the state regulate artificial intelligence?"
-    excerpt: "Regulating artificial intelligence (AI) is something that West Virginia’s legislators must begin to consider, at least according to some experts.  On Monday, members of the interim Joint Standing Committee on the Judiciary heard from three experts on how AI is being[Read"
-    publishedDateTime: 2023-05-09T11:55:00Z
-    webUrl: "https://www.morganmessenger.com/2023/05/09/wv-legislative-interims-how-does-the-state-regulate-artificial-intelligence/"
-    type: article
-    provider:
-      name: Morgan Messenger
-      domain: morganmessenger.com
-    quality: 36
-    images:
-      - url: "https://www.morganmessenger.com/wp-content/uploads/2022/09/capitol-1.jpeg"
-        width: 750
-        height: 500
-        isCached: true
 
 secured: "ygUyQmBvgkh0KGpgpJu9ZWnUdMKRn9dG00NDk/fj4IjonOpZeCeF/6ClF1Sv1NBUZFY4JysIqk5dTT6y/nfTHpV2VhzUZbjwqiMCOO6UfeBHASzkCznzeQ7vdXCuD5QcU4IBfE+KyYJUm/8kb7Sr1L1vjZ85G+foGBeME8FDls03PUQCLe1NLXl0hT0HziIHAC+bR0oXcxciO3qvNaFhspr6NfBnSW1XtgVmj6sDjptt0XuHSwszVBTHC76Jw+fZ2CbpMjf8gRnckKAR3BEODCqphJuXWQ/Di9xc3jNoaJf10EepYJKTbg4pcG3kBJmOdKxMeSoi4aNlX4UTWCNUaaPI1yxa4Rult3WFvtg/hWPqh7vyBNTg2Augp7XcYrVWrf7fba9T1YWd/sUaQLIsNoyR6K5pUUmxVBm4GhP7unxfEIyquCOCfxslBJEaRTJ1o2ydQyKFItWN5gOZXKcjzqyqx7B1EIS0mmshuNn4s7+lu/Y+LeTbn7Ij8eVcSNGficSlCrDFN494NkGfyFc9mg==;+ZsewvchtcOw4X10ih1zqA=="
 ---
