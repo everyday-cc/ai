@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/12/how-ai-is-hel
 ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/12/how-ai-is-helping-to-improve-transportation-safety-on-a-global-scale/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/05/12/how-ai-is-helping-to-improve-transportation-safety-on-a-global-scale/amp/"
 type: article
-quality: 87
-heat: 97
+quality: 89
+heat: 99
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/645ce929429d7626542796dd/0x0.jpg?format=jpg&width=1200"

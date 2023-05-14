@@ -2,31 +2,28 @@
 category: news
 title: "Could AI Help Us Humans Trust Each Other More?"
 excerpt: "AI has the potential to expose more people to different cultures, which tends to make us more tolerant and trusting."
-publishedDateTime: 2023-05-13T12:00:00Z
-originalUrl: "https://www.bloomberg.com/opinion/articles/2023-05-13/could-ai-help-us-humans-trust-each-other-more"
-webUrl: "https://www.bloomberg.com/opinion/articles/2023-05-13/could-ai-help-us-humans-trust-each-other-more"
+publishedDateTime: 2023-05-13T07:14:00Z
+originalUrl: "https://www.washingtonpost.com/business/2023/05/13/could-ai-help-us-humans-trust-each-other-more/ef574dee-f187-11ed-b67d-a219ec5dfd30_story.html"
+webUrl: "https://www.washingtonpost.com/business/2023/05/13/could-ai-help-us-humans-trust-each-other-more/ef574dee-f187-11ed-b67d-a219ec5dfd30_story.html"
 type: article
-quality: 67
-heat: 67
+quality: 39
+heat: 39
 published: false
 
 provider:
-  name: Bloomberg L.P.
-  domain: bloomberg.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Washington Post
+  domain: washingtonpost.com
 
 topics:
+  - AI Ethics
   - AI
 
 images:
-  - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i73utUfBssmo/v1/1200x800.jpg"
-    width: 1200
-    height: 800
+  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5IJIVMHRQ4I63NT5UIM6YXP5GA.jpg&w=1440"
+    width: 1024
+    height: 683
     isCached: true
 
-secured: "uxI3zLYjiEJeiOZfc6RAZMwiM1QMYnLZcIGm/QydH9Z6x5UCukAkmvGqLjgQB00zSI1V0jCK7WEZ8Eu56aQsxEE5u5ldbAms+lzpbHk6gOicXhmqOjpo2YCxTNfkXxMi19h+9LogaG2Q2tn89RouaSBsk43Ej267WFzW1m2+7KjtJE877phcjwi0QcGRHIwFJKAoJHCo16xFivH+ER6OVQKtiFC293cVivEHz+dccUaO1cm+p/2q7aU+KpJ8mRf58pi7a8FmCUnjq6nbevR6LbIVFE+FuLIBxCEN2jH3C2uYJdFzjNNRlc/PvzOeVmviv+L73dNfY09HOoWrBy5e+2F5jcfplvJOQrPEKQ9Z7pQ=;VYrvues/yzdKFbdRQTXFMQ=="
+secured: "Qp9fXOwGox/SBBfoTlalQ2vwOdeIzSUiCz+sjC31ESGCEunAjyxRpw5elOkNUSdOtNRwwkSMe8fwETc/upDOlt1Lry+39PE0f4azWMDFVzLyVqYwIUcEN/iTaGz2M7VWegKJWAide58Jo32TYa9DSG1BKPt4u7Ynd/qKl7L0Zso2uxkOayAIWrQKO+HJ62fpS7RG6Wc+Z08tcnQyjrdgkXyD3qITEdzYUJwv9qdxNSUPzu/euZ5SVMXcVfRUVJijwBzgX+dGKLZgwJoyelSu3/ozSLWQtlam7hHD8E9QI2BDlKabC2x58Xg3dXshMKoZgeWj15nw4YwcTZwY3ahlXpe/PoMdAUAwfF9tehhzkmI=;PDuQWkcsjVxBx8Xt0hDeKA=="
 ---
 

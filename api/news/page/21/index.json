@@ -2,6 +2,57 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2023-04-29-understanding-the-risks-of-generative-ai-for-better-business-outcomes.md",
+      "title": "Understanding the risks of generative AI for better business outcomes",
+      "excerpt": "Understand the risks to security, privacy and more of generative AI and the precautions you can take to mitigate them.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/understand-risks-generative-ai-better-business-outcomes/",
+      "originalUrl": "https://venturebeat.com/ai/understand-risks-generative-ai-better-business-outcomes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1209661950-e1666828949345.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 595,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/understand-risks-generative-ai-better-business-outcomes/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/understand-risks-generative-ai-better-business-outcomes/amp/",
+      "publishedDateTime": "2023-04-29T09:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-29-cybersecurity-meets-ai-augmenting-and-accelerating-humans.md",
       "title": "Cybersecurity meets AI: Augmenting and accelerating humans",
       "excerpt": "AI in cybersecurity must be collaborative, with humans and AI improving efficiency and efficacy over what either could do independently.",
@@ -1098,49 +1149,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-29-addison-selected-as-host-site-for-a-fourth-time-for-artificial-intelligence-bootcamp-applications-now-open.md",
-      "title": "Addison Selected as Host Site for a Fourth Time for Artificial Intelligence Bootcamp – APPLICATIONS NOW OPEN!",
-      "excerpt": "Headstorm will host a Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp for high school students at no cost for a 4th time in the Fall of 2023. The AI",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/04/g32092893/addison-selected-as-host-site-for-a-fourth-time-for-artificial-intelligence-bootcamp-applications-",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/04/g32092893/addison-selected-as-host-site-for-a-fourth-time-for-artificial-intelligence-bootcamp-applications-",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/32092893",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32092893",
-      "publishedDateTime": "2023-04-28T12:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

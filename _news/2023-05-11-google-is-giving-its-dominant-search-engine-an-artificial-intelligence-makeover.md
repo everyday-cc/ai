@@ -3,10 +3,10 @@ category: news
 title: "Google is giving its dominant search engine an artificial-intelligence makeover"
 excerpt: "Google has disclosed plans to infuse its dominant search engine with more advanced artificial-intelligence technology"
 publishedDateTime: 2023-05-11T12:47:00Z
-originalUrl: "https://abcnews.go.com/Business/wireStory/google-giving-dominant-search-engine-artificial-intelligence-makeover-99235251"
-webUrl: "https://abcnews.go.com/Business/wireStory/google-giving-dominant-search-engine-artificial-intelligence-makeover-99235251"
-ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/google-giving-dominant-search-engine-artificial-intelligence-makeover-99235251"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/google-giving-dominant-search-engine-artificial-intelligence-makeover-99235251"
+originalUrl: "https://abcnews.go.com/US/wireStory/google-giving-dominant-search-engine-artificial-intelligence-makeover-99233593"
+webUrl: "https://abcnews.go.com/US/wireStory/google-giving-dominant-search-engine-artificial-intelligence-makeover-99233593"
+ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/google-giving-dominant-search-engine-artificial-intelligence-makeover-99233593"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/google-giving-dominant-search-engine-artificial-intelligence-makeover-99233593"
 type: article
 quality: 38
 heat: 38
@@ -40,6 +40,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Google giving its popular search engine an artificial-intelligence makeover"
+    excerpt: "Google is ready to test the AI waters with its search engine and also unveiled the first foldable smartphone in its Pixel line-up at the I/O showcase."
+    publishedDateTime: 2023-05-14T00:15:00Z
+    webUrl: "https://www.nwitimes.com/news/nation-world/business/google-giving-its-popular-search-engine-an-artificial-intelligence-makeover/article_cc7d4930-1616-55fb-a336-c328d04d1265.html"
+    type: article
+    provider:
+      name: The Times of Northwest Indiana
+      domain: nwitimes.com
+    quality: 20
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/c/c7/cc7d4930-1616-55fb-a336-c328d04d1265/645d724540c89.preview.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AI: Artificial or Advanced Intelligence"
     excerpt: "What is Artificial Intelligence? And can intelligence actually be artificial? These questions have been on the minds of many for decades. With the emergence of MIT's super A.I. Watson, and the insurgence of the driver-less car, now seems apropos to seek ..."
     publishedDateTime: 2023-05-10T01:25:00Z
@@ -50,6 +64,6 @@ related:
       domain: avclub.com
     quality: 17
 
-secured: "RFfpfVXt+mlKO1wnEyLU2grJLarcPY9KIPgi5SMq0Rn0ZUib8qE+/07v2wcffQVLdWFjOz5+SoqvaOwknWpPt+ENWlTLqb1jibJxevH0eCP4nV6X+qjzWuhWgqV2OBeYGIyWwZRioKOny79V5Y3TIbLDICWYBLFCyeHYlu7GVxPavetw3Z1E0jj7iMiBk5IYHMPeQJ7vQcxMZTgYC3MKCpx4uCgVJTUkFUL/BWS6aRUfNmQA64MPlr0NFbFmmCMBZUqZcQOx/UpuuX1TvhqR6o+KWv453nKZlZZV1uNWWEYLolEL2TfjNna4rXHHpKWDxGmKUC8q/cwsC7HERnsrzhM55wUrnljqPKHrH3NNz+Y=;JEL7aCsuCfuAwxy2rWiUow=="
+secured: "JDwtqfa6fxFAuq2TrSKqtHzigkK6hxyqyM9DUOZcW7xau4snDAYrMK7LJA2ehc0TF/7U4+pQOLHQWnD54QTFE8V85r0IFA+y6S7cxKxYIq82tz5XufL8xO0K3UxTUGkC+lCedsYX5eMr+r8ujm7Hp7KkKH91d82/Me4Fr3HlUvKrYU9utd2fS24qj1eiD8LIxjlDJWJFd6pQsjgdmxo0T2VInpFXHMoKHVEFY876QkzoFUXJLU5Jkke31Pbtykip0ytG4J3dalS5tpY5xBxbJDg3BK89d7TErRsQ7rwpIvNfachsAOZJ9EB5VbHJhAvbgxa7LSVMt2OTTOGEufVFYLpCMJcjZvlM5wfdifJGAnI=;B+FglE5lDsKi4Sru7q9mtg=="
 ---
 

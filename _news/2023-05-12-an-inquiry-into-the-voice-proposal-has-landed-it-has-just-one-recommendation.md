@@ -7,7 +7,7 @@ originalUrl: "https://www.sbs.com.au/news/article/an-inquiry-into-the-voice-prop
 webUrl: "https://www.sbs.com.au/news/article/an-inquiry-into-the-voice-proposal-has-landed-it-has-just-one-recommendation/fcyygvmx9"
 type: article
 quality: 21
-heat: 21
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,37 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "Altered Indigenous voice to parliament out of question, says inquiry"
+    excerpt: "Australians will be asked to vote for an Indigenous voice to parliament and “executive government” after a Labor-dominated parliamentary committee endorsed Anthony Albanese’s proposed constitutional amendment without change,"
+    publishedDateTime: 2023-05-12T14:48:00Z
+    webUrl: "https://www.theaustralian.com.au/nation/politics/parliamentary-committees-one-recommendation-on-voice-constitutional-alteration-should-pass-unamended/news-story/129fa934b0cd1413cadb7cf495eff000"
+    ampWebUrl: "https://www.theaustralian.com.au/nation/politics/parliamentary-committees-one-recommendation-on-voice-constitutional-alteration-should-pass-unamended/news-story/129fa934b0cd1413cadb7cf495eff000?amp"
+    cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/nation/politics/parliamentary-committees-one-recommendation-on-voice-constitutional-alteration-should-pass-unamended/news-story/129fa934b0cd1413cadb7cf495eff000?amp"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 24
+  - title: "NSW Coalition moves to allow MPs free vote on Indigenous voice to parliament"
+    excerpt: "NSW Liberal leader Mark Speakman says he still has concerns about the wording of the voice to parliament as his shadow cabinet moved to allow MPs to campaign for either the Yes or No vote."
+    publishedDateTime: 2023-05-10T11:27:00Z
+    webUrl: "https://www.theaustralian.com.au/nation/politics/nsw-coalition-moves-to-allow-mps-free-vote-on-indigenous-voice-to-parliament/news-story/00faf19d343a3e8680ba8cb9bf055e98"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 1
+  - title: "Indigenous voice to parliament is ‘divisive and breaches discrimination laws’, says Michaelia Cash"
+    excerpt: "The Indigenous voice to parliament will “destroy equality of citizenship” and “embed division based on race in the Constitution”, the Coalition’s new legal affairs spokeswoman, Michaelia Cash, says."
+    publishedDateTime: 2023-05-09T19:15:00Z
+    webUrl: "https://www.theaustralian.com.au/nation/politics/indigenous-voice-to-parliament-is-divisive-and-breaches-discrimination-laws-says-michaelia-cash/news-story/db65783cc0285d266b8910c8c5a54df1"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 0
 
 secured: "sTD8hzAGPl/qGDcp6Z8ZV6BNhGPrwHszFlcSm2CNiWUcfBvGKQ8c69zeuIQyrjeW3gOAzkC1Sc0NWIGQg/KO2qVnBQuYttgoZVgDsJ8m4hlk1cQd8kLhmjSn3d8skEGsi3U115IDRAG1HueTHHk0XsL5+VwBgdfGMAsqvDVDpU+GbAHAVY65I/jlWkphHT9BDmY+0N4q0h11SUz7JUQlC1uLouder+xcu/mTIn0uuqg7L5ekDOh8YGze8YVZy7gOV8Udmxyu9BPqmJKIy4H9trZgo7SP3L6mnJRCC2ujrC0il2E5ByLL5wr7KvIl5nB9I23DjnCLG8rgdM+XNxLpyAKkkAJGh+G4LB+8iJfdbeY=;qfYGXjHb6PRfAqnDLXJDCQ=="
 ---

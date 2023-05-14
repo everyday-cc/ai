@@ -27,34 +27,68 @@ images:
     isCached: true
 
 related:
-  - title: "How Singapore's giant sovereign wealth fund is investing in generative AI technology"
-    excerpt: "GIC manages hundreds of billions of dollars in assets. It's invested in tech for decades and is unfazed by last year's tech stock rout."
-    publishedDateTime: 2023-05-09T09:00:00Z
-    webUrl: "https://www.businessinsider.com/singapore-sovereign-wealth-fund-investing-in-generative-ai-gic-2023-5"
+  - title: "SAS commits $1bln to AI-powered industry solutions"
+    excerpt: "All industry solutions will run on SAS® Viya®, SAS’ cloud-native, massively parallel AI and analytics platform. “Businesses face many challenges, from the threat of economic recession and stressed supply chains to workforce shortages and regulatory changes,"
+    publishedDateTime: 2023-05-10T07:37:00Z
+    webUrl: "https://www.zawya.com/en/press-release/companies-news/sas-commits-1bln-to-ai-powered-industry-solutions-ru5q37hj"
+    ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/sas-commits-1bln-to-ai-powered-industry-solutions-ru5q37hj?amp=1"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/sas-commits-1bln-to-ai-powered-industry-solutions-ru5q37hj?amp=1"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 60
+      name: Zawya
+      domain: zawya.com
+    quality: 59
     images:
-      - url: "https://i.insider.com/6459be0f65a21600192fb67c?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://static.zawya.com/view/acePublic/alias/contentid/YTk5NGRiNWYtZTMyMi00/0/tailoredsolutions-jpg.jpeg?f=3%3A2"
+        width: 799
+        height: 533
         isCached: true
-  - title: "Wisma Atria Bank is A Trusted and Innovative Financial Institution in Singapore"
-    excerpt: "Wisma Atria Bank is a leading financial institution based in Singapore that provides a wide range of banking and financial services. Established in 1979, the bank has become one of the most respected and trusted banks in Asia."
-    publishedDateTime: 2023-05-13T09:10:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/273830201/wisma-atria-bank-is-a-trusted-and-innovative-financial-institution-in-singapore"
+  - title: "SAS commits $1B to AI-powered industry solutions"
+    excerpt: "Multiyear investment will fuel cloud-first solutions across numerous industries ORLANDO, Fla., May 9, 2023 /PRNewswire/ -- SAS INNOVATE -- SAS, the leader in analytics, will invest $1 billion"
+    publishedDateTime: 2023-05-09T15:45:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-05/59037654-sas-commits-dollar-1b-to-ai-powered-industry-solutions-008.htm"
     type: article
     provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 35
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 39
     images:
-      - url: "https://cdn.bignewsnetwork.com/cus1683777921815.jpg"
-        width: 630
-        height: 420
+      - url: "https://mma.prnewswire.com/media/2070967/SAS_Investment.jpg"
+        width: 400
+        height: 267
         isCached: true
+  - title: "SAS Announces $1B Commitment to AI-powered Industry Solutions"
+    excerpt: "SAS, a leader in analytics, will invest $1 billion over the next three years to further develop advanced analytics"
+    publishedDateTime: 2023-05-10T21:02:00Z
+    webUrl: "https://www.datanami.com/this-just-in/sas-announces-1b-commitment-to-ai-powered-industry-solutions/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 39
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2023/02/AI-North-America23.png"
+        width: 1664
+        height: 674
+        isCached: true
+  - title: "SAS commits $1B to AI-powered industry solutions"
+    excerpt: "Multiyear investment will fuel cloud-first solutions across numerous industries. ORLANDO, Fla., May 9, 2023 /CNW/ -- SAS INNOVATE -- SAS, the leader in analytics, will invest $1 b"
+    publishedDateTime: 2023-05-09T18:23:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/05/09/9810699.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
+  - title: "SAS to spend $1 billion on AI as global tech race heats up"
+    excerpt: "Cary-based SAS will pour huge sums into advancing its artificial intelligence platforms in order to keep up with other tech giants."
+    publishedDateTime: 2023-05-09T18:00:00Z
+    webUrl: "https://www.bizjournals.com/triangle/inno/stories/news/2023/05/09/sas-to-spend-one-billion-global-ai-race-heats-up.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 19
 
 secured: "eEL8JzXn29CH9ef47KdHD/ww6wB+DZfVlG13aMDBUW4j6Yil64f/Bn1ZR2WpWIy2cruECaXhqBShVOjLOH5GvfxtUfJVFCM7cFLcMh3U+k5bikhyaGXtlMb1TQWu2QZvGpzZttlWOHCmbIjli29elYhZPpE8b0Qd06MjhqN455TKPcm20b6AVmbmHIrWa2cQUWvMadGB79bCJUdzG4iud0sH1sxjvueUzh5b7kXhN04uH554ZXKW+i2KlQaVLu4McfE1hxLL+Yj2Gz8Fyzl1zky1Ni6OgZj8yv1RT3ybPfqR7ZoZq2rJlmeevThD6tiksV3Ey6Oi6asW2gaolZw4GsTye9OCoKFD+ULBLkOllf+G8LiNt0sX1lBRcGGXk3okcraPSwnPgYca+bOft2yaWWesbu1uk33ABLSay57l8/cIi5lsZbfmtP8b+6hIrkHVtwV0RpesOpuPjAyR+5zZGiX6qftScwl7lk02nqU+VAVYoKA/3h4Z1+4EGnOeSTSE/DHqTgCJd2UEXu0UVMMO3g==;CqpY3VNBQzVJDNDmhQIzNg=="
 ---

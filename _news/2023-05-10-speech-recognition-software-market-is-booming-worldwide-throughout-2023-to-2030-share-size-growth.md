@@ -94,15 +94,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Emotion Detection & Recognition Market Size To Cross USD 136.2 Billion By 2031 | Exclusive Report"
-    excerpt: "Emotion Detection and Recognition Market Research Substantial growth of the Internet of Things technology, increase in popularity of wear"
-    publishedDateTime: 2023-05-09T08:53:00Z
-    webUrl: "https://menafn.com/1106205765/Emotion-Detection-Recognition-Market-Size-To-Cross-USD-1362-Billion-By-2031-Exclusive-Report"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 0
 
 secured: "YWuLKeMFqFJh90Z0VOz5AYCH8SeY6lckTKFbnnybxnvumoN759uuLAEHmlmvqPin5ASap5iTiFE9ltmbNqUfrINGp1Rx1cJc5ds7F5ZgDpfJqnXxhr/kysUUu61dvxf8mZILL/jU6MjP+rBTq0RW2AokoBGTPYD643la8Et6OoV5+gt7LSHVXZwHBK2qU1xb0FNT1IvQeBc3/QRj0ue4eixOyChA45K+gvsS9oIoum/KKsBh5/UoFlft79jj+AXAPr8DRj66ndyzIOT5SR1S1yq9uUhjlXnoy9gX36aY+OhTCfVY3/RQL8Rwff7ZmrrL8Yh6jrVLE2mgoxyCQ4rf6x2DVeCpWm479uhMIz/zYdo=;HrOybypKbgJiMW3R+kjeAw=="
 ---

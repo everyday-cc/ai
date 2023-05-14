@@ -2,6 +2,49 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2023-05-01-can-self-driving-ships-revolutionize-water-travel-and-fix-supply-chains.md",
+      "title": "Can Self-Driving Ships Revolutionize Water Travel And Fix Supply Chains?",
+      "excerpt": "Current autonomous systems aren’t necessarily whizzes at perceiving obstacles or overcoming navigation challenges — Tesla’s Full Self-Driving feature, which despite the name requires some ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.inverse.com/science/autonomous-self-driving-ships",
+      "originalUrl": "https://www.inverse.com/science/autonomous-self-driving-ships",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imgix.bustle.com/uploads/image/2023/5/1/ab512dfb-acb4-4004-b5f2-79289fedab47-c26b7f51-d378-4944-8bc0-f7216d76cb2e-thecusp_autonomoustravel_header.jpeg?w=1200&h=630&fit=crop&crop=faces&fm=jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-01T03:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Inverse",
+        "domain": "inverse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-01-best-fintech-app-development-companies-in-the-usa.md",
       "title": "Best Fintech App Development Companies in the USA",
       "excerpt": "Fintech apps are designed for various purposes such as payments, budgeting, investing, and lending. Fintech app development incorporates advanced technologies such as AI, ML, and Blockchain. Developing a fintech app requires expertise in both finance and technology,",
@@ -1153,57 +1196,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-29-understanding-the-risks-of-generative-ai-for-better-business-outcomes.md",
-      "title": "Understanding the risks of generative AI for better business outcomes",
-      "excerpt": "Understand the risks to security, privacy and more of generative AI and the precautions you can take to mitigate them.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/understand-risks-generative-ai-better-business-outcomes/",
-      "originalUrl": "https://venturebeat.com/ai/understand-risks-generative-ai-better-business-outcomes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1209661950-e1666828949345.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 595,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/understand-risks-generative-ai-better-business-outcomes/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/understand-risks-generative-ai-better-business-outcomes/amp/",
-      "publishedDateTime": "2023-04-29T09:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

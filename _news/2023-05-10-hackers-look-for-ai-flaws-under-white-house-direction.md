@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxbusiness.com/technology/hackers-look-ai-flaws-white-h
 cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/hackers-look-ai-flaws-white-house-direction.amp"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -41,6 +41,17 @@ related:
         width: 1240
         height: 826
         isCached: true
+  - title: "New artificial intelligence algorithm for more accurate plant disease detection"
+    excerpt: "Every year, plant diseases caused by bacteria, viruses, and fungi contribute to major economic losses. The prompt detection of these diseases is necessary to curb their spread and mitigate agricultural damage,"
+    publishedDateTime: 2023-05-12T17:30:00Z
+    webUrl: "https://phys.org/news/2023-05-artificial-intelligence-algorithm-accurate-disease.html"
+    ampWebUrl: "https://phys.org/news/2023-05-artificial-intelligence-algorithm-accurate-disease.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-05-artificial-intelligence-algorithm-accurate-disease.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 35
   - title: "Hospitality sector’s use of artificial intelligence could rise as owners look for ways around expensive apps"
     excerpt: "The idea of robots in hospitality may conjure visions of The Jetsons’ personal assistant Rosey, or robotic waiters at city restaurants, but experts say the sector’s adoption of AI will grow."
     publishedDateTime: 2023-05-12T08:09:00Z

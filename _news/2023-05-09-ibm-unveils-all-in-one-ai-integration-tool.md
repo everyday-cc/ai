@@ -20,19 +20,37 @@ topics:
   - IBM AI
 
 related:
-  - title: "IBM introduces set of new AI platforms for enterprises"
-    excerpt: "Global technology company IBM has introduced Watsonx, a new AI and data platform that is expected to provide enterprises with all the capabilities of generative AI for their businesses."
-    publishedDateTime: 2023-05-09T16:55:00Z
-    webUrl: "https://yourstory.com/enterprise-story/2023/05/ibm-introduces-ai-platforms-for-enterprises-infosys"
+  - title: "How Small Businesses Can Integrate AI Tools And Empower Their Team"
+    excerpt: "As entrepreneurs, it's important to stay ahead of the curve and not ignore emerging technologies that can give us a competitive edge. At the same time, we must prioritize taking care of our people. Here are my thoughts on how to integrate AI into your small business in a responsible way."
+    publishedDateTime: 2023-05-10T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/theyec/2023/05/10/how-small-businesses-can-integrate-ai-tools-and-empower-their-team/"
+    ampWebUrl: "https://www.forbes.com/sites/theyec/2023/05/10/how-small-businesses-can-integrate-ai-tools-and-empower-their-team/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2023/05/10/how-small-businesses-can-integrate-ai-tools-and-empower-their-team/amp/"
     type: article
     provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 39
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: "https://images.yourstory.com/cs/120/220356402d6d11e9aa979329348d4c3e/exp-24-1682348793424.png?fm=png&auto=format"
-        width: 800
-        height: 400
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64595406c962fe6795be84e9/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 484
+        isCached: true
+  - title: "How Businesses Can Ethically Embrace Artificial Intelligence"
+    excerpt: "Though there are many benefits to using AI in marketing, we must be aware of the potential risks and ethical concerns that come along with it."
+    publishedDateTime: 2023-05-12T13:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/12/how-businesses-can-ethically-embrace-artificial-intelligence/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/12/how-businesses-can-ethically-embrace-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/05/12/how-businesses-can-ethically-embrace-artificial-intelligence/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/645d3d41cac5cbcb9fcb5cb6/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 650
         isCached: true
 
 secured: "CiPzYBBksw8bBx5EuMr7G78eY+Vy7joVhP71OdyBR4+Z5Vt9Q6oV6dq0D9+41aBSbbI8kF/io7VK7Yd1Mf3ZSyBgxvK2tB/t/hYbZhbvc3Cr3fvw8Xi6jybDvPPDVotK859KGU/WLoAptXxAQdL67ky3lBIYJWP1es781ettMzZhNNFpMw6jVKfVes7ui31DYde/le5wYJ+dR8nylJ5vf31SyGIKctFwUBNwuv4b1lKH/7lX1R+K8GScDDPS//RWNsYIt0w0QoXnyEh5cxMK8vpqIJtKUx2+6IQgb0nfvQ3+XypAzDTUB6EU3/r1li8kP0PU3T8qjGJL7s5csk9gQqSadN8bkSVebat5KkR4lMZXvF2uWixMKIcGqVrQrSVIQoLZvXMVckWzCQcHhi1nUagSz4YQ4B2SHDNYQe+QF9Zv2jcODzDawOPZeq6pLItiD1Ryb2fzaCAO41rjVkkAjfxmCX49Gbr0rhopKstTY7bHqy7YuahSCPQgZng8MH2zRrX2SEwpaU72DGR3/+NZGQ==;47XWc5CupDU1pP0IFgIGYw=="

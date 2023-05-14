@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-04-29-chatbots-are-digesting-the-internet-the-internet-wants-to-get-paid.md",
+      "title": "Chatbots Are Digesting the Internet. The Internet Wants to Get Paid.",
+      "excerpt": "it’s very likely you have played a part in creating the latest generation of artificial intelligence. Google’s Bard chatbot, OpenAI’s ChatGPT, Microsoft’s OpenAI-powered version of Bing ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/chatgpt-ai-artificial-intelligence-openai-personal-writing-5328339a",
+      "originalUrl": "https://www.wsj.com/articles/chatgpt-ai-artificial-intelligence-openai-personal-writing-5328339a",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-771262/social",
+          "width": 960,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-29T05:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-29-letters-in-the-driverless-car-chase-hong-kong-mustnt-lag-behind.md",
       "title": "Letters | In the driverless car chase, Hong Kong mustn’t lag behind",
       "excerpt": "Consider a hypothetical scenario wherein one requests a taxi on a ride-hailing app, and a self-driving vehicle arrives. How would you react? Perhaps you would be taken aback. In August last year, Baidu, a leading Chinese tech company, was granted approval ...",
@@ -1246,49 +1298,6 @@
       "provider": {
         "name": "Autoblog",
         "domain": "autoblog.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-26-self-driving-cars-will-bring-vital-innovation-to-our-roads-but-we-need-new-laws-for-it-to-work.md",
-      "title": "Self-driving cars will bring vital innovation to our roads – but we need new laws for it to work",
-      "excerpt": "Ben Everitt is the Conservative MP for Milton Keynes North The ‘Pop.up next’ concept flying car, a hybrid vehicle that blends a self-driving car and passenger drone by Audi, italdesign and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cityam.com/self-driving-cars-will-bring-vital-innovation-to-our-roads-but-we-need-new-laws-for-it-to-work/",
-      "originalUrl": "https://www.cityam.com/self-driving-cars-will-bring-vital-innovation-to-our-roads-but-we-need-new-laws-for-it-to-work/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cityam.com/wp-content/uploads/2023/04/GettyImages-928219548-1-e1682430586738.jpg",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cityam.com/self-driving-cars-will-bring-vital-innovation-to-our-roads-but-we-need-new-laws-for-it-to-work/?amp=1",
-      "cdnAmpWebUrl": "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/self-driving-cars-will-bring-vital-innovation-to-our-roads-but-we-need-new-laws-for-it-to-work/?amp=1",
-      "publishedDateTime": "2023-04-26T05:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "City A.M.",
-        "domain": "cityam.com",
         "images": null,
         "publishers": null,
         "authors": null

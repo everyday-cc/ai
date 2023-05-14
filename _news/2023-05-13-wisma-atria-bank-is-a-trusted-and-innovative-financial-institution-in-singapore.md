@@ -7,7 +7,7 @@ originalUrl: "https://www.bignewsnetwork.com/news/273830201/wisma-atria-bank-is-
 webUrl: "https://www.bignewsnetwork.com/news/273830201/wisma-atria-bank-is-a-trusted-and-innovative-financial-institution-in-singapore"
 type: article
 quality: 35
-heat: -1
+heat: 35
 published: false
 
 provider:
@@ -23,38 +23,6 @@ images:
     width: 630
     height: 420
     isCached: true
-
-related:
-  - title: "How Singapore's giant sovereign wealth fund is investing in generative AI technology"
-    excerpt: "GIC manages hundreds of billions of dollars in assets. It's invested in tech for decades and is unfazed by last year's tech stock rout."
-    publishedDateTime: 2023-05-09T09:00:00Z
-    webUrl: "https://www.businessinsider.com/singapore-sovereign-wealth-fund-investing-in-generative-ai-gic-2023-5"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 60
-    images:
-      - url: "https://i.insider.com/6459be0f65a21600192fb67c?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "SAS says it’s investing $1B over next three years in AI products, technology"
-    excerpt: "SAS, profitable since 1976 when it launched and a $3 billion a year company, showed how serious it is about the growing artificial intelligence market on Tuesday, its CEO saying $1 billion will be invested in AI initiatives over the next three years."
-    publishedDateTime: 2023-05-09T16:41:00Z
-    webUrl: "https://wraltechwire.com/2023/05/09/sas-says-its-investing-1b-over-next-three-years-in-ai-products-technology/"
-    ampWebUrl: "https://wraltechwire.com/2023/05/09/sas-says-its-investing-1b-over-next-three-years-in-ai-products-technology/?amp=1"
-    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/05/09/sas-says-its-investing-1b-over-next-three-years-in-ai-products-technology/?amp=1"
-    type: article
-    provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 56
-    images:
-      - url: "https://wraltechwire.com/wp-content/uploads/2019/11/jim-goodnight-sas-e1572962905728.jpg"
-        width: 1866
-        height: 1048
-        isCached: true
 
 secured: "pZJ0HEInIQe5sE+klQZhNxeayBenv1bVphr2BaHlmYkwlBhHkfOKDv/P+SgERggWwgS4B7X45bccj661LT4QBWPZK6t+tibkWoZCFXnu3mbHhnezJH8R0bIQwlnaxUwHzUHcGJ192sXpUHqeQl1hLynmYTM10i1t3nxcnBQPcO7jVEaTBX+rk0RFtam/oGr2+Iy/l8yRZ9yYzLQjsJruEsM3ROz7JrkbnMYAFt3eeRREG+2Te4Xo7M1uuPDsFZ4ueaZ5OwG/ieJfNCBvHenfkppnT2SfrTwd8ZuJirxiHjmS1WNzMLB7uJEfxyzyfeRmY2VvauT2eCFBizQyYQ8gyjoXVnpQuft6gZnZtqDrQH4=;d3D2PVh4CX8OrG8MOF/JNw=="
 ---

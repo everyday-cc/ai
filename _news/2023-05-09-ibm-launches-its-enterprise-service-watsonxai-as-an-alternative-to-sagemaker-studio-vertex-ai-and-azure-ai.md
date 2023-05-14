@@ -7,7 +7,7 @@ originalUrl: "https://iblnews.org/ibm-launches-its-enterprise-service-watsonx-ai
 webUrl: "https://iblnews.org/ibm-launches-its-enterprise-service-watsonx-ai-as-an-alternative-to-sagemaker-studio-vertex-ai-and-azure-ai/"
 type: article
 quality: 51
-heat: 51
+heat: 61
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     width: 860
     height: 469
     isCached: true
+
+related:
+  - title: "IBM to Help Businesses Scale AI Workloads for All Data, Anywhere"
+    excerpt: "IBM today announced the coming launch of IBM watsonx.data, a data store built on an open lakehouse architecture, to help enterprises easily"
+    publishedDateTime: 2023-05-09T17:14:00Z
+    webUrl: "https://www.datanami.com/this-just-in/ibm-to-help-businesses-scale-ai-workloads-for-all-data-anywhere/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 39
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2023/02/AI-North-America23.png"
+        width: 1664
+        height: 674
+        isCached: true
 
 secured: "KI7aMg8GMVeBZGG2DElgwhfh8dj6MZB5k7fc3Xrb9kLVUZIZo18+oOY8DNSqQkMcsquGm6m32qOkn0SiN9kJPFYDAqUjN1UlExSJ8gXZPkbMtNNj1/nTwgS1UfpJ+teSiYXcUgFudzubvI3IMZRUGCHqHJL+7/czKvuG1UpdvV2RTVJDVZj2oWF4bfOznyS3Z3K8AxCw09qFh9mXk6VRuFabp6eNcFRs/eM0Mc2DrNnhCIs3NsZsNlVt0615p19kB54I4rsCxrAsuGpqJHJTj7NJEdjDsuhnouVlHzjidTu3Vy8t7iy8nZMJ0PvAkxUxRLST1iH9Ft2FaPxz3FHE7kPjMb2656Dw815fOQiHvP+kE4gCjr8Kj9+yFMDXu78WUrSSBgkDp31pJeNRmp4PNqOkK6oP9zS/r105mJif/1gljcy/bHA8TCzkVW4XyftLEZpe7V/ywLz17paPQXnEaa5AclWOh4RRTilcU++IHOgt23PFMz2TIV83PfyyukxaZ47ZekamfWI3EqeUfcgqkg==;pgwhWMkvLU+5prNPxiD2+w=="
 ---

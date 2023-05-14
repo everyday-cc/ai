@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/12/how-bu
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/05/12/how-businesses-can-ethically-embrace-artificial-intelligence/amp/"
 type: article
 quality: 87
-heat: 97
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -30,20 +30,31 @@ images:
     isCached: true
 
 related:
-  - title: "IBM to Help Businesses Scale AI Workloads for All Data, Anywhere"
-    excerpt: "IBM today announced the coming launch of IBM watsonx.data, a data store built on an open lakehouse architecture, to help enterprises easily"
-    publishedDateTime: 2023-05-09T17:14:00Z
-    webUrl: "https://www.datanami.com/this-just-in/ibm-to-help-businesses-scale-ai-workloads-for-all-data-anywhere/"
+  - title: "How Small Businesses Can Integrate AI Tools And Empower Their Team"
+    excerpt: "As entrepreneurs, it's important to stay ahead of the curve and not ignore emerging technologies that can give us a competitive edge. At the same time, we must prioritize taking care of our people. Here are my thoughts on how to integrate AI into your small business in a responsible way."
+    publishedDateTime: 2023-05-10T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/theyec/2023/05/10/how-small-businesses-can-integrate-ai-tools-and-empower-their-team/"
+    ampWebUrl: "https://www.forbes.com/sites/theyec/2023/05/10/how-small-businesses-can-integrate-ai-tools-and-empower-their-team/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2023/05/10/how-small-businesses-can-integrate-ai-tools-and-empower-their-team/amp/"
     type: article
     provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 39
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: "https://www.datanami.com/wp-content/uploads/2023/02/AI-North-America23.png"
-        width: 1664
-        height: 674
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64595406c962fe6795be84e9/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 484
         isCached: true
+  - title: "IBM Unveils All-In-One AI Integration Tool"
+    excerpt: "Blue-chip tech name IBM (NYSE:IBM) today launched WatsonX, a new, all-in-one artificial intelligence (AI) tool that will help companies with their AI integration. This announcement comes roughly 15 months after IBM sold its Watson Health unit to Francisco Partners."
+    publishedDateTime: 2023-05-09T12:50:00Z
+    webUrl: "https://www.schaeffersresearch.com/content/news/2023/05/09/ibm-unveils-all-in-one-ai-integration-tool"
+    type: article
+    provider:
+      name: SchaeffersResearch.com
+      domain: schaeffersresearch.com
+    quality: 21
 
 secured: "zWMBxYf5cI5mlbhIm8lbADjRRefhwcRgd2R6FSsoC9EfjU4DixBemtAt0eZgb9jC83tvAWNVBT4apomyG1hR0+mVkcl2Hhe4IB1FFqvMXBWCOCcmnKNvEazn9lYZS2XFfZY1aWOLUUma7qwCRiXUGZdOYiR978W0uqJfAOiY24boyuzCQHLVDFVX1/2Oaxb3YZsLi1TzFGbJLViWecLwftxg3SSfjHSEHfNdinrnk9Ly97efHPnPd2uzEHF+usmDYviMMC4Yw0SW27jq36D353Y7PKeW1c7oyWFjhqgK2EI2bgbZAEJK71kTpJCGpAaYgnxDLuSYTeseyq1Np2Z/hQSZ88GbseY72OmkDc1cTEg=;9xnDGwFgtfkPlIdr79Bdfw=="
 ---

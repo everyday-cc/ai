@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/dispo-makers-building-dating-app-ai-
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/dispo-makers-building-dating-app-ai-teaser-without-david-dobrik-2023-5?amp"
 type: article
 quality: 76
-heat: 86
+heat: 96
 published: true
 
 provider:
@@ -44,6 +44,15 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "The threat and promise of artificial intelligence"
+    excerpt: "Yet even if no such revolution threatens, recent advances in artificial intelligence are highly significant. According to Bill Gate s, they are the most important development since personal computers."
+    publishedDateTime: 2023-05-09T16:04:00Z
+    webUrl: "https://www.ft.com/content/41fd34b2-89ee-4b21-ac0a-9b15560ef37c?shareType=nongift"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 17
 
 secured: "YOn9qwv4q+LpqGrAGwGJwIQ+vS9lwG58ipRXru+A/jz85AYMZ9TbAvUX/dWAxp1IsDM8+EU1MwO9tdJ0/7KmwE4nll3J/UwnKNKTsGciNJUG5BSUMGsAHYyykPaoRdI/r8gKZ9/B2N3nGh9HFUXKYfDRAXYDP0Yao6JJAZOqflyyDE/DcSvARKTDRnHYLYR0lw35j//Sx99am1jzeg2AkPgyv4c2fuoXEGCK93ub2MvQAx2QL8ifnmIyhPy81V5iC7XN+LskpD10LV+uLr7IekY/Htv0UcDGvrZwTEPHD//SBmGjp+lH8XPjstA9jUZCsXl13n749SMm3jEPdVEzZLDPmuBk0kUEMm6HIg0M62OApr2L7+Sseu0JiwAVx0PcMOgkPuiALzDJcd/KeODj/BpibL54bvhLBlGAXNi7uaWj8TPhPTItC8Rfs/pKZ3FibhN9eRe2MODHlIrqyEhEAQdm/9Z2NjqJ4xAReZH4wCANOjomeEtTdjO5OW5I1IjSGaXXlXY3f94KlU5u3FK92g==;eTUKynQEq8YrvIhUOfb81A=="
 ---

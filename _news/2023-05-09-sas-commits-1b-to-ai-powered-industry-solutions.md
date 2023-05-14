@@ -41,6 +41,22 @@ related:
         width: 799
         height: 533
         isCached: true
+  - title: "SAS says it’s investing $1B over next three years in AI products, technology"
+    excerpt: "SAS, profitable since 1976 when it launched and a $3 billion a year company, showed how serious it is about the growing artificial intelligence market on Tuesday, its CEO saying $1 billion will be invested in AI initiatives over the next three years."
+    publishedDateTime: 2023-05-09T16:41:00Z
+    webUrl: "https://wraltechwire.com/2023/05/09/sas-says-its-investing-1b-over-next-three-years-in-ai-products-technology/"
+    ampWebUrl: "https://wraltechwire.com/2023/05/09/sas-says-its-investing-1b-over-next-three-years-in-ai-products-technology/?amp=1"
+    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/05/09/sas-says-its-investing-1b-over-next-three-years-in-ai-products-technology/?amp=1"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 56
+    images:
+      - url: "https://wraltechwire.com/wp-content/uploads/2019/11/jim-goodnight-sas-e1572962905728.jpg"
+        width: 1866
+        height: 1048
+        isCached: true
   - title: "SAS Announces $1B Commitment to AI-powered Industry Solutions"
     excerpt: "SAS, a leader in analytics, will invest $1 billion over the next three years to further develop advanced analytics"
     publishedDateTime: 2023-05-10T21:02:00Z

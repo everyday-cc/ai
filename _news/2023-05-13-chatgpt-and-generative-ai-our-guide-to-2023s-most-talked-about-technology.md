@@ -86,20 +86,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Pearson Outlines AI Plans After ChatGPT Share Price Jitters"
-    excerpt: "Education publisher Pearson Plc is outlining how it’s integrating artificial intelligence across its operations a week after its shares fell over fears that AI tools such as ChatGPT will undermine its business."
-    publishedDateTime: 2023-05-09T08:49:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-05-09/pearson-outlines-ai-plans-after-chatgpt-share-price-jitters"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 67
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ihlllbzYnWLY/v0/1200x800.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Wendy’s, Google Train Next-Generation Order Taker: an AI Chatbot"
     excerpt: "The fast-food chain has customized a language model with terms like “JBC” for junior bacon cheeseburger and “biggie bags” for meal combos."
     publishedDateTime: 2023-05-09T10:45:00Z
@@ -141,22 +127,6 @@ related:
       - url: "https://media.wired.com/photos/645d37c10227ed23db8041a9/191:100/w_1280,c_limit/AI_biz_GettyImages-1372009287.jpg"
         width: 1280
         height: 670
-        isCached: true
-  - title: "ChatGPT: Can students pass using AI tools at university?"
-    excerpt: "As with most universities, Bath's policy on ChatGPT and other AI tools is still in the works. It is due to be in place from September. After that, a team will meet throughout the year to ensure it keeps up with the rapidly changing technology. In the meantime, many staff are once again setting in-person, invigilated summer exams."
-    publishedDateTime: 2023-05-09T07:26:00Z
-    webUrl: "https://www.bbc.co.uk/news/education-65316283"
-    ampWebUrl: "https://www.bbc.co.uk/news/education-65316283.amp"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/education-65316283.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 57
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/0991/production/_129594420_gettyimages-1460902077.jpg"
-        width: 1024
-        height: 576
         isCached: true
   - title: "Wendy’s to test AI chatbot that takes your drive-thru order"
     excerpt: "US fast-food chain says pilot program ‘seeks to take the complexity out of the ordering process’"
@@ -215,20 +185,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
-  - title: "How AI robots can affect Filipino domestic workers worldwide amid ChatGPT concerns"
-    excerpt: "The discussion of artificial intelligence and robots taking over human jobs has reached another point following a recent study revolving around unpaid domestic help."
-    publishedDateTime: 2023-05-09T07:30:00Z
-    webUrl: "https://www.philstar.com/lifestyle/on-the-radar/2023/05/09/2264997/how-ai-robots-can-affect-filipino-domestic-workers-worldwide-amid-chatgpt-concerns"
-    type: article
-    provider:
-      name: philstar.com
-      domain: philstar.com
-    quality: 48
-    images:
-      - url: "https://media.philstar.com/photos/2023/05/09/ofw2019-11-0921-24-08_2023-05-09_13-35-26.jpg"
-        width: 800
-        height: 494
-        isCached: true
   - title: "UAE: New Chatgpt AI Assistant To Help Plan Visits To Yas Island"
     excerpt: "Visitors to Abu Dhabi's Yas Island can now get personalised guidance and information about the latest offerings through an AI assistant. Miral, the leading creator of immersive destinations and experiences based in Abu Dhabi,"
     publishedDateTime: 2023-05-09T19:34:00Z

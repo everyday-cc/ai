@@ -9,8 +9,8 @@ ampWebUrl: "https://kdvr.com/news/technology/how-europe-is-building-artificial-i
 cdnAmpWebUrl: "https://kdvr-com.cdn.ampproject.org/c/s/kdvr.com/news/technology/how-europe-is-building-artificial-intelligence-guardrails/amp/"
 type: article
 quality: 69
-heat: -1
-published: false
+heat: 109
+published: true
 
 provider:
   name: FOX31 Denver
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "European Union Set to Be Trailblazer in Global Rush to Regulate Artificial Intelligence"
-    excerpt: "Even European Union officials working on groundbreaking rules to govern the emerging technology were caught off guard by AI’s rapid rise. The 27-nation bloc proposed the Western world’s first AI rules two years ago,"
-    publishedDateTime: 2023-05-09T09:00:00Z
-    webUrl: "https://time.com/6278144/european-union-artificial-intelligence-regulation/"
-    type: article
-    provider:
-      name: Time
-      domain: time.com
-    quality: 76
-    images:
-      - url: "https://time.com/img/icons/wallet-connect.png"
-        width: 256
-        height: 256
-        isCached: true
   - title: "How Europe is leading the world in building guardrails around AI"
     excerpt: "Authorities around the world are racing to draw up rules for artificial intelligence, including in the European Union, where draft legislation faced a pivotal moment"
     publishedDateTime: 2023-05-11T11:32:00Z
@@ -81,6 +67,15 @@ related:
         width: 992
         height: 413
         isCached: true
+  - title: "Europe acts against the threat of a social credit system with new AI rulebook"
+    excerpt: "The European Parliament has voted in favour of document that it describes as the world’s first ever rules for artificial intelligence."
+    publishedDateTime: 2023-05-12T11:18:00Z
+    webUrl: "https://telecoms.com/521652/europe-acts-against-the-threat-of-a-social-credit-system-with-new-ai-rulebook/"
+    type: article
+    provider:
+      name: Telecoms
+      domain: telecoms.com
+    quality: 16
 
 secured: "I7p3GKM3hcGWZagXi31ikDpuLqX8NfyypUHW/hyZvQxewWx4i2iPyb5sEByJEkWY8+Z3/K8AkZOwV+3wzWUt3yQ4KMPRUrutfNk3FJ0zlSodlTfo3O80Y+XJWmC9zsHEVk8dlsPAW/hZSdcvyPLb+Pwar/RaG4TG96StQfcNbLMGOzb6GeJfb9X0jq9CzJkdWVyzQYBwPQQ4bK0tEjwvQG58h3gG/Lq05+favSL16KpuKdaLnM572W83YLXl90zT/wqIJzO8nrzO6c/eKtziS/cpP/EFxggnEAEJ5OwkykdKP55U001FLJVL8q/e2fY9Qxy66OXnDwuJVtHfGwN5HBwKBi7D2W60e54gPC2Lo0A=;lgZvSHYMXiwhk7mDHHgA2A=="
 ---

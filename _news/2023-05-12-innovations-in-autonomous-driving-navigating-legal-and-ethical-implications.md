@@ -42,6 +42,29 @@ related:
         width: 1280
         height: 713
         isCached: true
+  - title: "Machine-learning innovation in RayStation: prioritizing speed, automation, efficiency"
+    excerpt: "RaySearch Laboratories and its clinical customers are leveraging advances in machine learning to reimagine the radiotherapy workflow"
+    publishedDateTime: 2023-05-11T16:11:00Z
+    webUrl: "https://physicsworld.com/a/machine-learning-innovation-in-raystation-prioritizing-speed-automation-efficiency/"
+    type: article
+    provider:
+      name: Physics World
+      domain: physicsworld.com
+    quality: 17
+    images:
+      - url: "https://physicsworld.com/wp-content/uploads/2023/05/RayStation-Deep-Learning-segmentation-models.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Atomic Revolutionizes Payroll System Integrations with SmartAuth, its Groundbreaking AI-Powered Authentication Engine"
+    excerpt: "Atomic, a leading provider of payroll system integrations, has unveiled SmartAuth, a new artificial intelligence-powered authentication engine. This b"
+    publishedDateTime: 2023-05-10T12:05:00Z
+    webUrl: "https://www.businesswire.com/news/home/20230510005294/en/Atomic-Revolutionizes-Payroll-System-Integrations-with-SmartAuth-its-Groundbreaking-AI-Powered-Authentication-Engine"
+    type: article
+    provider:
+      name: newsroom.businesswire.com
+      domain: businesswire.com
+    quality: 0
 
 secured: "5/NGe/v8rp/NXBveG3zo7BiacppcLtLxBWWAZ91CUjN4C5tqE0+dlz7lFeUTDkZ7x6cukWc3VAeZZ5Qq3KmcCYhTygx9FP2cRkc8kr8QGjhhuc+8O9aXewehPOlqz4gtvZnP7KLxFSdBaHx1TcNME423dhNJRt+TBH2au4yoJjH9tXbb4bLLS2Jpwqv3H46UExzOOd7CpiYz5pIOGy7Zr7XKasKBzzhELdkJqVO1c13nM4mu2hGuD1Sp6EOvUyHThDrmrlyCpC8b+MDvKCXfkaqG3o3QEA77UbZCqb1XTnUb9ajnzQyRY3dYsWIbthjUQNpSMc+e84rk9BPjWaf2nQQqzaXRAmnI3+Ap+TOyNGk8E44knRRT2ANbwqhOMnoq0M9ybo+oOB93+we7MTJ49UL3Y+96FioRO9DMwadHel0qn0utu0BZCM7OIR0Nc00eKg89l7mzmmRzfRCJRtpxV8kpV0Uh4KzrWt/KONTC06Fxb1V5q6yPZ+5nq0QL0q2WOVgQVF9BLK/z0TpwVtFqHg==;fsikYRrlncNgPTHqbvAGbw=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theaustralian.com.au/nation/politics/parliamentary-commi
 cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/nation/politics/parliamentary-committees-one-recommendation-on-voice-constitutional-alteration-should-pass-unamended/news-story/129fa934b0cd1413cadb7cf495eff000?amp"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -21,17 +21,20 @@ topics:
   - AI
 
 related:
-  - title: "Indigenous voice to parliament: ‘No’ campaign merger to bolster resources"
-    excerpt: "Anti-voice spokesman Warren Mundine says the newly merged strands of the No campaign bring together 37,000 volunteers and millions in donations."
-    publishedDateTime: 2023-05-09T08:47:00Z
-    webUrl: "https://www.theaustralian.com.au/nation/indigenous/indigenous-voice-to-parliament-no-campaign-merger-to-bolster-resources/news-story/cdb0a0ae3f5d1f4196e2d2a56b675d67"
-    ampWebUrl: "https://www.theaustralian.com.au/nation/politics/indigenous-voice-to-parliament-no-campaign-merger-to-bolster-resources/news-story/cdb0a0ae3f5d1f4196e2d2a56b675d67?amp"
-    cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/nation/politics/indigenous-voice-to-parliament-no-campaign-merger-to-bolster-resources/news-story/cdb0a0ae3f5d1f4196e2d2a56b675d67?amp"
+  - title: "An inquiry into the Voice proposal has landed. It has just one recommendation"
+    excerpt: "A parliamentary inquiry into Labor's Voice to Parliament wording has handed down its report. The Labor-majority committee has recommended the wording be passed unamended. But dissenting Liberals have blasted Labor's approach."
+    publishedDateTime: 2023-05-12T06:46:00Z
+    webUrl: "https://www.sbs.com.au/news/article/an-inquiry-into-the-voice-proposal-has-landed-it-has-just-one-recommendation/fcyygvmx9"
     type: article
     provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 38
+      name: SBS
+      domain: sbs.com.au
+    quality: 21
+    images:
+      - url: "https://images.sbs.com.au/dims4/default/84e22ce/2147483647/strip/true/crop/8256x4644+0+430/resize/1280x720!/quality/90/?url=http%3A%2F%2Fsbs-au-brightspot.s3.amazonaws.com%2F71%2Fab%2F4a39b9cd45edb53e5e7d665a0dc9%2F20230323001778106507-original.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "NSW Coalition moves to allow MPs free vote on Indigenous voice to parliament"
     excerpt: "NSW Liberal leader Mark Speakman says he still has concerns about the wording of the voice to parliament as his shadow cabinet moved to allow MPs to campaign for either the Yes or No vote."
     publishedDateTime: 2023-05-10T11:27:00Z
@@ -41,6 +44,15 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 1
+  - title: "Indigenous voice to parliament is ‘divisive and breaches discrimination laws’, says Michaelia Cash"
+    excerpt: "The Indigenous voice to parliament will “destroy equality of citizenship” and “embed division based on race in the Constitution”, the Coalition’s new legal affairs spokeswoman, Michaelia Cash, says."
+    publishedDateTime: 2023-05-09T19:15:00Z
+    webUrl: "https://www.theaustralian.com.au/nation/politics/indigenous-voice-to-parliament-is-divisive-and-breaches-discrimination-laws-says-michaelia-cash/news-story/db65783cc0285d266b8910c8c5a54df1"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 0
 
 secured: "5wcUpu+W14rzvVeykDBtMFMDDmkY82QIV7sDivYipAiotjaPGZM2h3hzfeER7+Kc51Xv3qFGCGQjEdEVCx58Fz61qpyol+P7X3Z6iGYzFrgBzHhIXYczuG3eyGIolT1YQQ4E2//rgERoBuzWvBn2JejS5ArwnF57qsbDS764MJkfF1kg6KbHCzMyllZlxsOvQiWwbtDTuufZ1S0H+a7Q/BNVgHx42uq+EFARf/zu7/ukBihhaXxCNFtceK/UZbCurfCXSDHTsBAqh0KrsjsUoUI6TOIB8iONS6UzH92VDR+E0CdPkvC7om+tzF/fdIzi5hAvlZnfbqP3X9dNuw+GcUcgdGDkYi0OkANtJ1iHtQ84j/a+SMqfBI897wC6kOfj658RYHrEOaOb5ZlP9KfOnv1SOqw60EGBpITaG04Hp8AfGvnU+8e2SCQC6GlNsVI2pXz0tbR2jdCPh5OBMeIlqr8yYCqZFy9qw3ojv2OndSgGVHoqGlmMGwf86CUeTg009Rz9rEGNqT77932Ha6N+6A==;M99pvKKFcekGIeQQjJy/Ng=="
 ---

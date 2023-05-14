@@ -24,6 +24,19 @@ images:
     height: 628
     isCached: true
 
+related:
+  - title: "The Artificial Intelligence Driving Travel Innovations"
+    excerpt: "AI news drove headlines this week, from Expedia, to Google, and even to Skift. Click through for a summary of the top stories."
+    publishedDateTime: 2023-05-13T16:00:00Z
+    webUrl: "https://skift.com/2023/05/13/the-artificial-intelligence-driving-travel-innovations/"
+    ampWebUrl: "https://skift.com/2023/05/13/the-artificial-intelligence-driving-travel-innovations/amp/"
+    cdnAmpWebUrl: "https://skift-com.cdn.ampproject.org/c/s/skift.com/2023/05/13/the-artificial-intelligence-driving-travel-innovations/amp/"
+    type: article
+    provider:
+      name: Skift
+      domain: skift.com
+    quality: 39
+
 secured: "SzggpYwX0eiK/IBJVaWu0EPRWAVIkWippRQuofl5ERr4hP0hI3Ps5xJ1di6LQE69uBxx5LS81Rf4o+cmnhJbP9KleFl4GEIOqYanEZ/lfhsscZdQ+6yj/Nl2XPB5LAhP00cQwJGHSiSbgDvjYcBlMBDT4wJQimqA8p1RlHPy6VMVpJ4yucadk7iWK9n4wZqyLrSuj5ZlXvuLy75fqx8W1niEgO8WDf+83zX15waMWALstrxkmr+ECu7hzg9xS0KCIiI1BwS4zFoLD6Dpa0RQdszQjd+4ZlOlQFzwu9ljtWmcmf7tqj2bfM81oUIuMh8Ugwcn/VRn4wU/4Wh1EHiotcuA3bYvjIgoWwmAvzMqP4lkRZfvtj8DtkQwJ5ue0ECAPNrHcKK5AGugLfvqE6JPAV0CJXpPKahRQEQuEU/O+egL6iMyvRG27DBulV3g2LP6HOZKn0jeGIYt9wSIvqbS7v8tRs0rBGfewtWS9z6napbIF1F4yip6I2+bROQlEw8l2tUmRc0nmyy2YijIOyfQEw==;zaJGvBOF9ZWCoVMB8v6ZFw=="
 ---
 

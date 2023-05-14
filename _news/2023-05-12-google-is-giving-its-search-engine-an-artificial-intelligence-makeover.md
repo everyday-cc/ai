@@ -27,9 +27,9 @@ related:
   - title: "Google is giving its dominant search engine an artificial-intelligence makeover"
     excerpt: "Google has disclosed plans to infuse its dominant search engine with more advanced artificial-intelligence technology"
     publishedDateTime: 2023-05-11T12:47:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/google-giving-dominant-search-engine-artificial-intelligence-makeover-99235251"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/google-giving-dominant-search-engine-artificial-intelligence-makeover-99235251"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/google-giving-dominant-search-engine-artificial-intelligence-makeover-99235251"
+    webUrl: "https://abcnews.go.com/US/wireStory/google-giving-dominant-search-engine-artificial-intelligence-makeover-99233593"
+    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/google-giving-dominant-search-engine-artificial-intelligence-makeover-99233593"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/google-giving-dominant-search-engine-artificial-intelligence-makeover-99233593"
     type: article
     provider:
       name: ABC
@@ -39,6 +39,20 @@ related:
       - url: "https://s.abcnews.com/images/US/wirestory_fd0538018df958388991772ced6e693d_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Google giving its popular search engine an artificial-intelligence makeover"
+    excerpt: "Google is ready to test the AI waters with its search engine and also unveiled the first foldable smartphone in its Pixel line-up at the I/O showcase."
+    publishedDateTime: 2023-05-14T00:15:00Z
+    webUrl: "https://www.nwitimes.com/news/nation-world/business/google-giving-its-popular-search-engine-an-artificial-intelligence-makeover/article_cc7d4930-1616-55fb-a336-c328d04d1265.html"
+    type: article
+    provider:
+      name: The Times of Northwest Indiana
+      domain: nwitimes.com
+    quality: 20
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/c/c7/cc7d4930-1616-55fb-a336-c328d04d1265/645d724540c89.preview.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
         isCached: true
   - title: "AI: Artificial or Advanced Intelligence"
     excerpt: "What is Artificial Intelligence? And can intelligence actually be artificial? These questions have been on the minds of many for decades. With the emergence of MIT's super A.I. Watson, and the insurgence of the driver-less car, now seems apropos to seek ..."

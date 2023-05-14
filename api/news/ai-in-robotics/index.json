@@ -385,7 +385,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/10/ai-and-modern-workforce-challenges/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -402,6 +402,58 @@
       "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/10/ai-and-modern-workforce-challenges/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/05/10/ai-and-modern-workforce-challenges/amp/",
       "publishedDateTime": "2023-05-10T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-10-how-small-businesses-can-integrate-ai-tools-and-empower-their-team.md",
+      "title": "How Small Businesses Can Integrate AI Tools And Empower Their Team",
+      "excerpt": "As entrepreneurs, it's important to stay ahead of the curve and not ignore emerging technologies that can give us a competitive edge. At the same time, we must prioritize taking care of our people. Here are my thoughts on how to integrate AI into your small business in a responsible way.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/theyec/2023/05/10/how-small-businesses-can-integrate-ai-tools-and-empower-their-team/",
+      "originalUrl": "https://www.forbes.com/sites/theyec/2023/05/10/how-small-businesses-can-integrate-ai-tools-and-empower-their-team/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64595406c962fe6795be84e9/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 484,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/theyec/2023/05/10/how-small-businesses-can-integrate-ai-tools-and-empower-their-team/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2023/05/10/how-small-businesses-can-integrate-ai-tools-and-empower-their-team/amp/",
+      "publishedDateTime": "2023-05-10T04:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -532,6 +584,49 @@
         "AI in Robotics",
         "AI",
         "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-10-valley-health-system-hospital-innovations-include-robots-at-nursing-stations.md",
+      "title": "Valley Health System hospital innovations include robots at nursing stations",
+      "excerpt": "Artificial intelligence may be intimidating to some, but robotic support is about to be making an innovative debut on your hospital floor as a way to improve",
+      "sourceUrl": null,
+      "webUrl": "https://www.dcnewsnow.com/news/local-news/virginia/shenandoah-county/valley-health-system-hospital-innovations-include-robots-at-nursing-stations/",
+      "originalUrl": "https://www.dcnewsnow.com/news/local-news/virginia/shenandoah-county/valley-health-system-hospital-innovations-include-robots-at-nursing-stations/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dcnewsnow.com/wp-content/uploads/sites/14/2023/02/GettyImages-1386596147.jpg?w=1280",
+          "width": 1280,
+          "height": 713,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dcnewsnow.com/news/local-news/virginia/shenandoah-county/valley-health-system-hospital-innovations-include-robots-at-nursing-stations/amp/",
+      "cdnAmpWebUrl": "https://www-dcnewsnow-com.cdn.ampproject.org/c/s/www.dcnewsnow.com/news/local-news/virginia/shenandoah-county/valley-health-system-hospital-innovations-include-robots-at-nursing-stations/amp/",
+      "publishedDateTime": "2023-05-09T15:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "dcnewsnow",
+        "domain": "dcnewsnow.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
       ]
     },
     {
@@ -1326,92 +1421,6 @@
       "provider": {
         "name": "The Robot Report",
         "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-03-these-robot-arms-were-designed-to-help-humans-interact-with-ai.md",
-      "title": "These robot arms were designed to help humans interact with AI",
-      "excerpt": "Jizai Arms is a system of supernumerary robotic limbs. Up to six of these arms can be worn and controlled by the user. The limbs allow the wearer to attach, detach, replace or edit the arms. This was designed to enable social interaction between wearers to support human beings acting with robots and AIs while maintaining a sense of self-awareness and widening the possibility of human actions.",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/video/robot-arms-jizai-bodies",
-      "originalUrl": "https://mashable.com/video/robot-arms-jizai-bodies",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://helios-i.mashable.com/imagery/videos/04dRP8kLvImZOxp7RbvFFmD/hero-image.fill.size_1200x675.v1683028082.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-03T04:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-05-03-hollywood-screenwriters-dont-want-robots-taking-their-jobs-either.md",
-      "title": "Hollywood screenwriters don’t want robots taking their jobs, either",
-      "excerpt": "The thousands of WGA scribes who went on strike this week are concerned in part about the rise of AI — and how the major studios might tap the technology going forward.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/news/writers-strike-2023-hollywood-screenwriters-ai-concerns-rcna82543",
-      "originalUrl": "https://www.nbcnews.com/news/writers-strike-2023-hollywood-screenwriters-ai-concerns-rcna82543",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-05/230502-NYC-Hollywood-Writers-Strike-ac-536p-6e2e6a.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna82543",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna82543",
-      "publishedDateTime": "2023-05-02T16:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
         "images": null,
         "publishers": null,
         "authors": null

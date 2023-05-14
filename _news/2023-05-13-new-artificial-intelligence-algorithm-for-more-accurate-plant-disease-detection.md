@@ -21,70 +21,50 @@ topics:
   - AI
 
 related:
-  - title: "14 popular AI algorithms and their uses"
-    excerpt: "Large language models have captured the news cycle, but there are many other kinds of machine learning and deep learning with many different use cases."
-    publishedDateTime: 2023-05-09T09:00:00Z
-    webUrl: "https://www.infoworld.com/article/3695208/14-popular-ai-algorithms-and-their-uses.html"
-    ampWebUrl: "https://www.infoworld.com/article/3695208/14-popular-ai-algorithms-and-their-uses.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3695208/14-popular-ai-algorithms-and-their-uses.amp.html"
+  - title: "Hackers look for AI flaws under White House direction"
+    excerpt: "A mass hacking event will target models from OpenAI, Microsoft and more, looking for flaws in AI systems at the direction of the White House."
+    publishedDateTime: 2023-05-10T16:28:00Z
+    webUrl: "https://www.foxbusiness.com/technology/hackers-look-ai-flaws-white-house-direction"
+    ampWebUrl: "https://www.foxbusiness.com/technology/hackers-look-ai-flaws-white-house-direction.amp"
+    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/hackers-look-ai-flaws-white-house-direction.amp"
     type: article
     provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 89
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 59
     images:
-      - url: "https://images.idgesg.net/images/article/2019/02/network_endpoint_connections_neural_synapses_by_koto_feja_gettyimages-910881616_2400x1600-100788349-large.jpg?auto=webp&quality=85,70"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/8413fe5c-9099-4c4d-88f4-ed26e5fe8c69/2fc9d027-6cf3-41fd-aa0c-dd12a69199d6/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Hackers aim to find flaws in AI – with White House help"
+    excerpt: "No sooner did ChatGPT get unleashed than hackers started “jailbreaking” the artificial intelligence chatbot – trying to override its safeguards so it could blurt out something unhinged or obscene."
+    publishedDateTime: 2023-05-11T09:34:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2023/05/11/hackers-aim-to-find-flaws-in-ai---with-white-house-help"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 39
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2023/05/11/2067485.jpg"
+        width: 1240
+        height: 826
+        isCached: true
+  - title: "Hospitality sector’s use of artificial intelligence could rise as owners look for ways around expensive apps"
+    excerpt: "The idea of robots in hospitality may conjure visions of The Jetsons’ personal assistant Rosey, or robotic waiters at city restaurants, but experts say the sector’s adoption of AI will grow."
+    publishedDateTime: 2023-05-12T08:09:00Z
+    webUrl: "https://thewest.com.au/business/retail/hospitality-sectors-use-of-artificial-intelligence-could-rise-as-owners-look-for-ways-around-expensive-apps-c-10415544"
+    type: article
+    provider:
+      name: The West Australian
+      domain: thewest.com.au
+    quality: 20
+    images:
+      - url: "https://images.thewest.com.au/publication/C-10415544/57de6a51ee683fc8bed087633ae160bcc2fb5431-16x9-x0y287w2756h1550.jpg?imwidth=1200"
         width: 1200
-        height: 800
+        height: 675
         isCached: true
-  - title: "How Small Businesses Can Integrate AI Tools And Empower Their Team"
-    excerpt: "As entrepreneurs, it's important to stay ahead of the curve and not ignore emerging technologies that can give us a competitive edge. At the same time, we must prioritize taking care of our people. Here are my thoughts on how to integrate AI into your small business in a responsible way."
-    publishedDateTime: 2023-05-10T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/theyec/2023/05/10/how-small-businesses-can-integrate-ai-tools-and-empower-their-team/"
-    ampWebUrl: "https://www.forbes.com/sites/theyec/2023/05/10/how-small-businesses-can-integrate-ai-tools-and-empower-their-team/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2023/05/10/how-small-businesses-can-integrate-ai-tools-and-empower-their-team/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64595406c962fe6795be84e9/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 484
-        isCached: true
-  - title: "Chat GPT Compares Itself Against Base64.Ai's Powerful Document Processing AI And The Results Are Hilarious"
-    excerpt: "AI facing each other Chat GPT is not suitable for documents. Chat GPT vs Base64.ai We asked if Chat GPT could replace all"
-    publishedDateTime: 2023-05-09T10:58:00Z
-    webUrl: "https://menafn.com/1106205969/Chat-GPT-Compares-Itself-Against-Base64Ais-Powerful-Document-Processing-AI-And-The-Results-Are-Hilarious"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 21
-    images:
-      - url: "https://menafn.com/updates/pr/2023-05/09/EP_2654cimage_story.png"
-        width: 600
-        height: 314
-        isCached: true
-  - title: "All eyes on AI"
-    excerpt: "\"Colorado has taken vague principles of AI ethics, such as accountability, fairness, transparency... and turned them into the concrete requirements for policies, governance, and technical controls,\" the practice leaders wrote."
-    publishedDateTime: 2023-05-12T19:10:00Z
-    webUrl: "https://www.bizjournals.com/denver/news/2023/05/12/colorado-rules-artificial-intelligence-insurance.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 19
-  - title: "The threat and promise of artificial intelligence"
-    excerpt: "Yet even if no such revolution threatens, recent advances in artificial intelligence are highly significant. According to Bill Gate s, they are the most important development since personal computers."
-    publishedDateTime: 2023-05-09T16:04:00Z
-    webUrl: "https://www.ft.com/content/41fd34b2-89ee-4b21-ac0a-9b15560ef37c?shareType=nongift"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 17
 
 secured: "X7fZrImoPmZSTKZZomAkbBZ1V6Iut0I4tl/ODFQCoUioaV55bkjaLrabHVSNrvwimiz65BLL3UgtltwxT6w9ZrGbQMO8szh4V1jc/xMWZnuJ1ZTfnbZ/6zku2JXMQPUA2aLdMHtfiT69HmfvTgnt5yUysmWhKckmdL5iBbB/raQSZkiPaNbRxOUWQ/LToj2oQq3ZsxZsN7CuCHxqR93X4KuW1l4AoLBHc6IUzlxtHDtuRjRatQQkzJUuJyfgW9cvS5IO28aPeaJIP2tNv/HM0+AeGMNIloUrc46ZXtyEE9vxKEumgSPcw30MJJBBXlqrXZtEmWiS5AiBJ03g1Lsp6PQ9BmoMtm5uWDMJ3p+iT8I=;wD0k1GqH7NAVibVDonD7OA=="
 ---

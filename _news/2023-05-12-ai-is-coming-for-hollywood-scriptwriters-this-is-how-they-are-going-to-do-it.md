@@ -44,6 +44,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Audio Book Narrators Say AI Is Already Taking Away Business"
+    excerpt: "\"The essence of storytelling is teaching humanity how to be human. And we feel strongly that that should never be given to a machine to teach us about how to be human,\" said Emily Ellet, an actor and audio book narrator who cofounded the Professional Audiobook Narrators Association (PANA)."
+    publishedDateTime: 2023-05-14T01:45:00Z
+    webUrl: "https://www.ibtimes.com/audio-book-narrators-say-ai-already-taking-away-business-3693074"
+    ampWebUrl: "https://www.ibtimes.com/audio-book-narrators-say-ai-already-taking-away-business-3693074?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/audio-book-narrators-say-ai-already-taking-away-business-3693074?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 57
+    images:
+      - url: "https://d.ibtimes.com/en/full/4456601/woman-poses-installation-showing-headphones-booth-jvc-ifa-internationale-funkausstellung.jpg"
+        width: 768
+        height: 396
+        isCached: true
 
 secured: "t/NBFdgyfBkc8lnUX7Um2FXPs2cDphcDenEWrmb9la+nRn3ASpgjVNkqQVzKjisjeQGZKryS1TkUnLo7Sz5WGDG3D8B/1zKjnwfJqEzyZRtLi0iUQ6aEAApVEV/OOVqKsmNVdohGwevAtvys1imcWCSYLjow6Hg3Nkb4pa+zeRiVEV2PwjXo4QtOBBZwdpbOtEfJDiQ/155SOFXwcsmQ7maEDSzZ6ybd97P7D1iRuHUuGsraw3E/KsyqP0vIkjGRXYp2nPaI9X0WMQEbWtl59mLGqS0bDQuNmzx9NA5lB51M4zaN38bhRqwLOpuqqtSWFKeFP927nQMo65d1G02TxOEpvwmbqGsU1m5p4Pgtbz0WAs2xqMikFF2qIXqiyFliKfUF67fO75hM7q+N6wmTOq2WQ0sPNgbkO8cgFZbyPB8p9/3NAE3Q7dbIC/X0e7TDbzWmmiO+VeE3jT3FvyFj0GurbTOamyFNFXuXEjKrBqGlaVrPfZ5dUXZ6lxWcKpK+Dz9Ppjk+Ophlg8oWAKZYMA==;j8CCxfRV9FjBoeLNjiNJ+g=="
 ---

@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Finovax Leads the Charge in Fintech Innovation: AI-Powered Solutions Drive Business Growth"
-    excerpt: "New York-Based Fintech Company Embraces Artificial Intelligence to Revolutionize Financial Data Products and Fuel"
-    publishedDateTime: 2023-05-09T07:57:00Z
-    webUrl: "https://www.marketwatch.com/press-release/finovax-leads-the-charge-in-fintech-innovation-ai-powered-solutions-drive-business-growth-2023-05-09"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 59
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "4 AI-powered platforms reshaping the Czech FinTech space"
     excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
     publishedDateTime: 2023-05-10T04:20:00Z
@@ -53,17 +39,6 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "The Artificial Intelligence Driving Travel Innovations"
-    excerpt: "AI news drove headlines this week, from Expedia, to Google, and even to Skift. Click through for a summary of the top stories."
-    publishedDateTime: 2023-05-13T16:00:00Z
-    webUrl: "https://skift.com/2023/05/13/the-artificial-intelligence-driving-travel-innovations/"
-    ampWebUrl: "https://skift.com/2023/05/13/the-artificial-intelligence-driving-travel-innovations/amp/"
-    cdnAmpWebUrl: "https://skift-com.cdn.ampproject.org/c/s/skift.com/2023/05/13/the-artificial-intelligence-driving-travel-innovations/amp/"
-    type: article
-    provider:
-      name: Skift
-      domain: skift.com
-    quality: 39
   - title: "FinovateSpring Hosting 60+ Live Demos Showcasing Disruptive Fintech Solutions"
     excerpt: "What Can We Learn from Innovators in The Space?\" FinovateSpring is well known for spotlighting new fintech innovations from seed-stage startups to global leaders. The event offers 60-plus short, punchy,"
     publishedDateTime: 2023-05-09T13:35:00Z
@@ -110,29 +85,24 @@ related:
       name: IBS
       domain: ibsintelligence.com
     quality: 19
-  - title: "Machine-learning innovation in RayStation: prioritizing speed, automation, efficiency"
-    excerpt: "RaySearch Laboratories and its clinical customers are leveraging advances in machine learning to reimagine the radiotherapy workflow"
-    publishedDateTime: 2023-05-11T16:11:00Z
-    webUrl: "https://physicsworld.com/a/machine-learning-innovation-in-raystation-prioritizing-speed-automation-efficiency/"
+  - title: "Swissquote selects AI FinTech NetGuardians to fight financial crime"
+    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
+    publishedDateTime: 2023-05-09T11:33:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/swissquote-selects-ai-fintech-netguardians-to-fight-financial-crime/"
     type: article
     provider:
-      name: Physics World
-      domain: physicsworld.com
-    quality: 17
-    images:
-      - url: "https://physicsworld.com/wp-content/uploads/2023/05/RayStation-Deep-Learning-segmentation-models.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Atomic Revolutionizes Payroll System Integrations with SmartAuth, its Groundbreaking AI-Powered Authentication Engine"
-    excerpt: "Atomic, a leading provider of payroll system integrations, has unveiled SmartAuth, a new artificial intelligence-powered authentication engine. This b"
-    publishedDateTime: 2023-05-10T12:05:00Z
-    webUrl: "https://www.businesswire.com/news/home/20230510005294/en/Atomic-Revolutionizes-Payroll-System-Integrations-with-SmartAuth-its-Groundbreaking-AI-Powered-Authentication-Engine"
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 19
+  - title: "Investors want AI-powered advisors, and fintechs race to meet demand"
+    excerpt: "Investors are bullish on financial advisors using AI and fintech companies are racing to fill meet the demand."
+    publishedDateTime: 2023-05-12T18:30:00Z
+    webUrl: "https://www.investmentnews.com/investors-want-ai-powered-advisors-and-fintechs-race-to-meet-demand-237553"
     type: article
     provider:
-      name: newsroom.businesswire.com
-      domain: businesswire.com
-    quality: 0
+      name: InvestmentNews
+      domain: investmentnews.com
+    quality: 19
 
 secured: "ahNMukXvewyv7TbjtAmXJz3f9nap6F65D2guVAQd6i3rwYrJJIlQh8iWNVROm8XdKpV66pcbs7I8gmMr7K1e0BV4Frh+WVwxVLFDwemuCxl9P6pVdKH3BlBMRTuDAvQeEXl4U3iQGctflhUmpI5aQVuobJYGBWWv6TEhD8KF3HysY8ChHtXQyVwisYhdqJP02n1kX9/X55TIwwJS1SbOPPMzC8XiIPoJ4dVFxTjEZ+ANOosFgJ3i7Qi25KUlbK4icidBGXtnA8uvKfAyWRFboQSeA7iSUII8e+0ztmX7TlCN4UH79kkxtqWKJ8+xMhldxPeawuHgrEPlpD587GFa+pdv+7g4/jeKMZ6Pg+t1FSt7QUmtO1Y+FbwVhdAiwZmKnxi2YIwzpB2qtV/A7vVvZ2XBf+h+dYRLyi5E7HbyYTy3yJno7knxOgfCd4JeO6JMTm46ZQMmttLeaI1zCmk2mKbHZ2VNaFGo2DRsWGjwNIcNb6m1V75n+ANU8LFUFLd+wzw1S9IeGUOWVvAhnXnt4g==;yaM+6703qFbyQlTJ7I41vg=="
 ---

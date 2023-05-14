@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/theyec/2023/05/10/how-small-businesses-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2023/05/10/how-small-businesses-can-integrate-ai-tools-and-empower-their-team/amp/"
 type: article
 quality: 89
-heat: -1
-published: false
+heat: 109
+published: true
 
 provider:
   name: Forbes
@@ -31,65 +31,31 @@ images:
     isCached: true
 
 related:
-  - title: "14 popular AI algorithms and their uses"
-    excerpt: "Large language models have captured the news cycle, but there are many other kinds of machine learning and deep learning with many different use cases."
-    publishedDateTime: 2023-05-09T09:00:00Z
-    webUrl: "https://www.infoworld.com/article/3695208/14-popular-ai-algorithms-and-their-uses.html"
-    ampWebUrl: "https://www.infoworld.com/article/3695208/14-popular-ai-algorithms-and-their-uses.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3695208/14-popular-ai-algorithms-and-their-uses.amp.html"
+  - title: "How Businesses Can Ethically Embrace Artificial Intelligence"
+    excerpt: "Though there are many benefits to using AI in marketing, we must be aware of the potential risks and ethical concerns that come along with it."
+    publishedDateTime: 2023-05-12T13:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/12/how-businesses-can-ethically-embrace-artificial-intelligence/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/12/how-businesses-can-ethically-embrace-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/05/12/how-businesses-can-ethically-embrace-artificial-intelligence/amp/"
     type: article
     provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 89
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://images.idgesg.net/images/article/2019/02/network_endpoint_connections_neural_synapses_by_koto_feja_gettyimages-910881616_2400x1600-100788349-large.jpg?auto=webp&quality=85,70"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/645d3d41cac5cbcb9fcb5cb6/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 800
+        height: 650
         isCached: true
-  - title: "New artificial intelligence algorithm for more accurate plant disease detection"
-    excerpt: "Every year, plant diseases caused by bacteria, viruses, and fungi contribute to major economic losses. The prompt detection of these diseases is necessary to curb their spread and mitigate agricultural damage,"
-    publishedDateTime: 2023-05-12T17:30:00Z
-    webUrl: "https://phys.org/news/2023-05-artificial-intelligence-algorithm-accurate-disease.html"
-    ampWebUrl: "https://phys.org/news/2023-05-artificial-intelligence-algorithm-accurate-disease.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-05-artificial-intelligence-algorithm-accurate-disease.amp"
+  - title: "IBM Unveils All-In-One AI Integration Tool"
+    excerpt: "Blue-chip tech name IBM (NYSE:IBM) today launched WatsonX, a new, all-in-one artificial intelligence (AI) tool that will help companies with their AI integration. This announcement comes roughly 15 months after IBM sold its Watson Health unit to Francisco Partners."
+    publishedDateTime: 2023-05-09T12:50:00Z
+    webUrl: "https://www.schaeffersresearch.com/content/news/2023/05/09/ibm-unveils-all-in-one-ai-integration-tool"
     type: article
     provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 35
-  - title: "Chat GPT Compares Itself Against Base64.Ai's Powerful Document Processing AI And The Results Are Hilarious"
-    excerpt: "AI facing each other Chat GPT is not suitable for documents. Chat GPT vs Base64.ai We asked if Chat GPT could replace all"
-    publishedDateTime: 2023-05-09T10:58:00Z
-    webUrl: "https://menafn.com/1106205969/Chat-GPT-Compares-Itself-Against-Base64Ais-Powerful-Document-Processing-AI-And-The-Results-Are-Hilarious"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
+      name: SchaeffersResearch.com
+      domain: schaeffersresearch.com
     quality: 21
-    images:
-      - url: "https://menafn.com/updates/pr/2023-05/09/EP_2654cimage_story.png"
-        width: 600
-        height: 314
-        isCached: true
-  - title: "All eyes on AI"
-    excerpt: "\"Colorado has taken vague principles of AI ethics, such as accountability, fairness, transparency... and turned them into the concrete requirements for policies, governance, and technical controls,\" the practice leaders wrote."
-    publishedDateTime: 2023-05-12T19:10:00Z
-    webUrl: "https://www.bizjournals.com/denver/news/2023/05/12/colorado-rules-artificial-intelligence-insurance.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 19
-  - title: "The threat and promise of artificial intelligence"
-    excerpt: "Yet even if no such revolution threatens, recent advances in artificial intelligence are highly significant. According to Bill Gate s, they are the most important development since personal computers."
-    publishedDateTime: 2023-05-09T16:04:00Z
-    webUrl: "https://www.ft.com/content/41fd34b2-89ee-4b21-ac0a-9b15560ef37c?shareType=nongift"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 17
 
 secured: "xOjH2fp6OZH+DubwFlfSCBqqO0TbhgTxXB+yH8peDqXJ8aiP720u9Ro6ij8YphHxiFGAsn1CfBZ9OpVXMrOhiMzMVDTcUjCiRd5BBhzG6owOwGTxmZ3xG5nGe7DwqAlj5hfjbEXydNpN4KjV2bK1O04N1ucz8ClANcWKuLLRvvVHZUKRBmqXDS+mmOk0dC/9Ft5wlNnpydLJ4M0PhJ/vB3QlC/+6u2HQsaQHeQ01gMVb03rggacrA6b1YhpYzqf5FsmrRBE6vEU9/feto9G9UJCAr3tPAjDtvofa/fpBx+NcOy+eB4VRWYZOZzJkS9QbIXUjDgsNkuoxFwfGCLD7L3MmZujdB9yxSgSdhUdhAAWReFBj7aSRnrkr8quB2jj18lSPsLKTHijz2uo0XJuecL34nTXEBqWVajzHyuroe2xn2YvTuomFrrVOOZtLHwmFMIjE9Z/C0C7ADrIjdblVJ88PUeC4TvfbfJjQlG8FtULmsLzngJeme0IvWQI4GtvmPWus03iqQxtRM+0kSDs40w==;ALyqZ88yzBGCETr2enghqg=="
 ---

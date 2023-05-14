@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/10/ai-and
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/05/10/ai-and-modern-workforce-challenges/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -77,6 +77,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "All eyes on AI"
+    excerpt: "\"Colorado has taken vague principles of AI ethics, such as accountability, fairness, transparency... and turned them into the concrete requirements for policies, governance, and technical controls,\" the practice leaders wrote."
+    publishedDateTime: 2023-05-12T19:10:00Z
+    webUrl: "https://www.bizjournals.com/denver/news/2023/05/12/colorado-rules-artificial-intelligence-insurance.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 19
 
 secured: "g4KrkubNWoghoGOm/X03aSKejl9cr0dD6Enp5t4n8u+ZKVHgFOgdKZwZmMLvrTR7xGnB45fup9HlBzEjOI347wa2QE1gyl70p0nwPeZmBrDGikXj4m0+OSoj7zgZxOHuefkllRGRtdgHE4WiecXZUYybxOdGtq0BQYnV8h37+9hdpdZVL3XOyBrKYzMmlUUZAgpAF6XTvRG3L+wDZEdGv9bR9kVQaYDrD4/UZVdtRwiK02sJNRK02DhBTBQPnZhzimdPmgC4hNLIOiGXigzVKPkOtS7v4rFvROYVe1C2kXRJUbLimwfqA3iCt7iQRZ1pyllWgNqI68DhOp/K1sTlb82WL0HKExCuJ5pzptLcJpGB47/+coCibb/MsiPrE4kY42mCUpZs92SkFxe1Fbak0B0DZza0gX8QQE20NszcOV34tZYdcxe6F7g6DXd+03uUHWmsGOLweOr5w6ny/LLpQi5DeGxqcJ4WyBdE6ho++ofwK9jOnfT8TzTLZLfvTOg6zJGh/B0iOfycwHN7lIQC/w==;vh3Ndvzo6qE+Ayqy9eG6MQ=="
 ---

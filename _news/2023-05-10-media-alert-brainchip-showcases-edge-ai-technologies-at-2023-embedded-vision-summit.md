@@ -1,20 +1,18 @@
 ---
 category: news
 title: "Media Alert: BrainChip Showcases Edge AI Technologies at 2023 Embedded Vision Summit"
-excerpt: "BrainChip Holdings Ltd ((ASX: BRN, OTCQX:BRCHF, OTC:BCHPY), the world's first commercial producer of ultra-low power, fully digital, event-based, neuromorphic AI IP, today announced that Chief Marketi"
-publishedDateTime: 2023-05-10T15:01:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/05/b32318943/media-alert-brainchip-showcases-edge-ai-technologies-at-2023-embedded-vision-summit"
-webUrl: "https://www.benzinga.com/pressreleases/23/05/b32318943/media-alert-brainchip-showcases-edge-ai-technologies-at-2023-embedded-vision-summit"
-ampWebUrl: "https://www.benzinga.com/amp/content/32318943"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32318943"
+excerpt: "The Embedded Vision Summit attracts a global audience of technology professionals from companies developing computer vision and edge AI-enabled products including embedded systems, cloud solutions and mobile applications."
+publishedDateTime: 2023-05-10T16:48:00Z
+originalUrl: "https://it.tmcnet.com/news/2023/05/10/9811798.htm"
+webUrl: "https://it.tmcnet.com/news/2023/05/10/9811798.htm"
 type: article
-quality: 32
-heat: 32
+quality: 12
+heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Computer Vision
@@ -31,6 +29,6 @@ related:
       domain: design-reuse.com
     quality: 21
 
-secured: "uyS90JRotD4CuLk37UVTZzIeKPNcJuObhbONsA7EatPyt9ttlwgheBnLBqkQQAwvjbgRAZdwJVPO+Gth0VtCghHNPZ6CN0PRQXngCwx0mxD4z3yM81fNVrVyc6wQMnsW3M/3bld7PgxUbvFc7Z9sAQTJZG527UCYDXr/WSM3qsGtWT4JrZW27nAP6uqkwE1I2y3OG0zPOQKPuHAK5uCPz+gpb9TZh8NJpZNijfQq8KUXOo3t4uotsOt5p63+SLFVJ3MuO92qsAlU9j3oTvDGsYLS5tEVT0zjCBuygSadrDZAiRAEqeuGCZD0b3rM3m3xrigvR+5nk3XFRPPcHnDDE5JgsEpm25EQrZ2jfUePdII=;7DDaKh/0CLsYkyj+Euz2VQ=="
+secured: "2cKlSNcEeMJJ6PcLaTmtU2yTpnferz77WjtvbbYZlZGkI4slp6Ep7iMsQe8109rL4/wwIjahtf2H222V5M5ryu7jiF8E0QJShfUqVcUdXjaXqXYZIgCmNpLy608WF5ZzH3bqPkfLouTB3n03T2F2pqAxejM+1i1Agwq69M4rj9co4NZjtGM1mafIkUqXN86ChVU+IO82xfjTSKebq561jkkGV2CwStzVrlOiin5yJYhwh8jUZ+0OoZn+2tGbzDigpTR6ZyKJrDxr3T6+mJjRvePXgU1tCjDcrFzGxQWiwWNSdAiF2R+BQiWhpe5Hnl5oxarT3dLMZmanxD/OD+cibsuLcI3rzgh7rIYnZsjQEjI=;gcRwUeKvpb5dhtnhoIJAZA=="
 ---
 

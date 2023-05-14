@@ -2,6 +2,49 @@
   "page": 63,
   "value": [
     {
+      "path": "_news/2023-03-27-facial-recognition-technology-a-threat-to-privacy-and-freedom.md",
+      "title": "Facial Recognition Technology: A Threat To Privacy And Freedom",
+      "excerpt": "Across the country, people are waking up to the dangers of facial recognition technology — and they’re taking action. In Massachusetts, municipalities are stepping up to stop this harmful surveillance technology: Somerville was the first community on ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wgbh.org/news/commentary/2021/08/17/facial-recognition-technology-a-threat-to-privacy-and-freedom",
+      "originalUrl": "https://www.wgbh.org/news/commentary/2021/08/17/facial-recognition-technology-a-threat-to-privacy-and-freedom",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wgbh.brightspotcdn.com/dims4/default/9ba3161/2147483647/strip/true/crop/2247x1498+0+0/resize/2247x1498!/quality/70/?url=https%3A%2F%2Fwgbh-brightspot.s3.amazonaws.com%2F22%2F97%2Fcd7df23a41599366eb296240e54e%2Fap20176661952737.jpg",
+          "width": 2247,
+          "height": 1498,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-26T22:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WGBH",
+        "domain": "wgbh.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-27-the-role-robots-play-in-getting-your-online-orders-to-you.md",
       "title": "The role robots play in getting your online orders to you",
       "excerpt": "RELATED: AI is getting really good, and some artists and educators don't like that Dejean predicts robots will really start to be in places we can barely imagine now, like transportation ...",
@@ -1169,57 +1212,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-03-26-data-through-a-prism-ai-powered-analysis-key-to-gleaning-data-insights.md",
-      "title": "Data through a prism: AI-powered analysis key to gleaning data insights",
-      "excerpt": "How AI-powered business intelligence enables CFOs to use data to glean insights rather than impose their own metrics onto them.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/data-through-a-prism-ai-powered-analysis-key-to-gleaning-data-insights/",
-      "originalUrl": "https://venturebeat.com/ai/data-through-a-prism-ai-powered-analysis-key-to-gleaning-data-insights/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/05/AI.GettyImages-627546265.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 939,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/data-through-a-prism-ai-powered-analysis-key-to-gleaning-data-insights/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/data-through-a-prism-ai-powered-analysis-key-to-gleaning-data-insights/amp/",
-      "publishedDateTime": "2023-03-25T15:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,58 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2023-04-21-businesses-turn-to-facial-recognition-technology-to-avert-shoplifting-and-robbery.md",
+      "title": "Businesses turn to facial recognition technology to avert shoplifting and robbery",
+      "excerpt": "Fox News’ Douglas Kennedy reports that shoplifting and robbery crimes are up 22% from last year, prompting business owners to use facial recognition technology to stop repeat offenders.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/video/6325508060112",
+      "originalUrl": "https://www.foxnews.com/video/6325508060112",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8f9568c0-e2b3-4369-b71e-f2066447ffc9/c9ff9a97-7061-475b-bcd1-902a42a763be/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "width": 1024,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-21T09:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-21-up-fintech-talks-up-tigergpt-as-new-investor-tool.md",
       "title": "UP Fintech Talks Up TigerGPT As New Investor Tool",
       "excerpt": "AI chatbots are likely to have their limitations, at least in the short term, such as the inability to provide highly personalized investment advice. But UP Fintech's new chatbot will only be able ...",
@@ -1140,58 +1192,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-21-artificial-neural-networks-market-analysis-and-forecast-to-2030trends-with-cagr.md",
-      "title": "Artificial Neural Networks Market Analysis and Forecast to 2030|Trends with CAGR",
-      "excerpt": "The research report on the \"Artificial Neural Networks Market\" Report helps to Development Strategy to optimise",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-neural-networks-market-analysis-and-forecast-to-2030trends-with-cagr-2023-04-21",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-neural-networks-market-analysis-and-forecast-to-2030trends-with-cagr-2023-04-21",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-20T22:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

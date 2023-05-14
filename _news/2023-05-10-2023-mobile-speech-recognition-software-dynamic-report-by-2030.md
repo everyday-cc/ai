@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/2023-mobile-speech-recog
 webUrl: "https://www.marketwatch.com/press-release/2023-mobile-speech-recognition-software-dynamic-report-by-2030-2023-05-10"
 type: article
 quality: 69
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -94,15 +94,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Emotion Detection & Recognition Market Size To Cross USD 136.2 Billion By 2031 | Exclusive Report"
-    excerpt: "Emotion Detection and Recognition Market Research Substantial growth of the Internet of Things technology, increase in popularity of wear"
-    publishedDateTime: 2023-05-09T08:53:00Z
-    webUrl: "https://menafn.com/1106205765/Emotion-Detection-Recognition-Market-Size-To-Cross-USD-1362-Billion-By-2031-Exclusive-Report"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 0
 
 secured: "i7jUkKS3GdyFi2fO+uL6qTv00lFKm0AlWP039uUTu2AEBAUjv6I7z0xY2k/Ifc2Bi59vCipOtfCxMGi9HinavQtkjTsDm+u1HK6mHAbnh7da02GCViF6yW1aOkyHO2nCv6X8mwTm8Gj+bH0ClprywD+fz65FFlQ0J3Mu7p3rI7HsUHGFODmoxZ5ZC/G3T/IeZRgAmExZJUzMx6RVK7jfH8TnxEcYwzUekImlsxV23oKqsLDM4dllRuEpElLhOUl1nIpIeCYfQDk1zthD+ZhbTWAPA583hX3kltExBEe9zvZZ0IXr0QM2q1tKNvT3jFXY1UvkGIZAICelq/FWAvATjorY5vOliwZbFuLefMFxmG4=;pzmvzzOICqecXFvSbr8+Yg=="
 ---

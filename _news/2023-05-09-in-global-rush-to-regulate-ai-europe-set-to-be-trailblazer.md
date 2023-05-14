@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "European Union Set to Be Trailblazer in Global Rush to Regulate Artificial Intelligence"
-    excerpt: "Even European Union officials working on groundbreaking rules to govern the emerging technology were caught off guard by AI’s rapid rise. The 27-nation bloc proposed the Western world’s first AI rules two years ago,"
-    publishedDateTime: 2023-05-09T09:00:00Z
-    webUrl: "https://time.com/6278144/european-union-artificial-intelligence-regulation/"
-    type: article
-    provider:
-      name: Time
-      domain: time.com
-    quality: 76
-    images:
-      - url: "https://time.com/img/icons/wallet-connect.png"
-        width: 256
-        height: 256
-        isCached: true
   - title: "How Europe is at the forefront of building artificial intelligence guardrails"
     excerpt: "Authorities around the world are racing to draw up rules for artificial intelligence, including in the European Union, where draft legislation faced a pivotal moment on Thursday. A"
     publishedDateTime: 2023-05-11T09:44:00Z
@@ -81,6 +67,15 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 52
+  - title: "Europe acts against the threat of a social credit system with new AI rulebook"
+    excerpt: "The European Parliament has voted in favour of document that it describes as the world’s first ever rules for artificial intelligence."
+    publishedDateTime: 2023-05-12T11:18:00Z
+    webUrl: "https://telecoms.com/521652/europe-acts-against-the-threat-of-a-social-credit-system-with-new-ai-rulebook/"
+    type: article
+    provider:
+      name: Telecoms
+      domain: telecoms.com
+    quality: 16
 
 secured: "LqM5XF+dKqB+yXdVOw650uEWDNRWEGbUyl5izREaQaCPqBzshJIYOucU0eWMz6lTZc+U779iSGJ406/NsWUNlcnM7ZOJWYiWoUFOGP6IMjyxHpeYXoLM8WhgG31gFSOAOB0diFZKz1+Y/s6XPHE+Y6zO5S4srsncnD+wWqpl1w+1JQ7+QLLh3dXgH8FDwpks67a1S+IgPuRdDdOE5SRPb7evqpjFLCkJ2ZxgO8MLjNTNDVPDJ6J9s+0L6+w/eLlXr9jevGSmVjkoPXbTe7hxtsQ1+zk5YCOFNBFQ5bFHMPMEb12kJ8tTCwkA5AyvWnkDeqFVGLCOTcItnIsBE0iDENgl+0GInuPwbu6ELogB6mm2dDZAMbbGI5PYzHFrfDMmIHnlIPrHuLRNmiiByWQ+XDsIKiBlaw8LP3k7AHqoGcpUICkMTa5Zlqd4siDdkVKCqrte1xfirRs+E35LVf3+VqtVtj/DK2+Wl6XNiGapHzdRhVxv4Eh8xIVwhdvmm+fOlDvoPYGouykJk3EiO2dTsw==;ufgiGRkajLvSkipCTngn+g=="
 ---

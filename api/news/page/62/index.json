@@ -2,6 +2,40 @@
   "page": 62,
   "value": [
     {
+      "path": "_news/2023-03-28-ai-taking-flight-in-the-us-air-force.md",
+      "title": "AI Taking Flight in the U.S. Air Force",
+      "excerpt": "Tesla is already moving to a full self-driving mode, and Waymo is preparing for new driverless prototypes ... became the first military aircraft to fly with artificial intelligence as its copilot. The copilot is named ARTUµ, the algorithm behind the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/ai-taking-flight-in-the-u.s.-air-force",
+      "originalUrl": "https://www.nasdaq.com/articles/ai-taking-flight-in-the-u.s.-air-force",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/ai-taking-flight-in-the-u.s.-air-force?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ai-taking-flight-in-the-u.s.-air-force?amp",
+      "publishedDateTime": "2023-03-27T11:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-28-amazon-microsoft-and-googles-ai-armies-are-huge-yet-struggling-to-innovate.md",
       "title": "Amazon, Microsoft and Google's AI armies are huge, yet struggling to innovate",
       "excerpt": "New data show Amazon, Microsoft and Google have thousands of AI specialists, but they’re still playing catch-up to a tiny team at OpenAI.",
@@ -1165,49 +1199,6 @@
         "AI in Healthcare",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-03-27-facial-recognition-technology-a-threat-to-privacy-and-freedom.md",
-      "title": "Facial Recognition Technology: A Threat To Privacy And Freedom",
-      "excerpt": "Across the country, people are waking up to the dangers of facial recognition technology — and they’re taking action. In Massachusetts, municipalities are stepping up to stop this harmful surveillance technology: Somerville was the first community on ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wgbh.org/news/commentary/2021/08/17/facial-recognition-technology-a-threat-to-privacy-and-freedom",
-      "originalUrl": "https://www.wgbh.org/news/commentary/2021/08/17/facial-recognition-technology-a-threat-to-privacy-and-freedom",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wgbh.brightspotcdn.com/dims4/default/9ba3161/2147483647/strip/true/crop/2247x1498+0+0/resize/2247x1498!/quality/70/?url=https%3A%2F%2Fwgbh-brightspot.s3.amazonaws.com%2F22%2F97%2Fcd7df23a41599366eb296240e54e%2Fap20176661952737.jpg",
-          "width": 2247,
-          "height": 1498,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-26T22:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WGBH",
-        "domain": "wgbh.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

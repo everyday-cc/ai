@@ -58,6 +58,20 @@ related:
         width: 345
         height: 230
         isCached: true
+  - title: "Genocide Recognition: an Australian story"
+    excerpt: "May it appears is the month of genocide recognition amongst the Australian parliaments, with Tasmania being the latest one to adopt a resolution of recognition of the Genocides of the Hellenes, Armenians and Assyrians on Thursday 11 May."
+    publishedDateTime: 2023-05-13T23:06:00Z
+    webUrl: "https://neoskosmos.com/en/2023/05/14/dialogue/opinion/genocide-recognition-an-australian-story/"
+    type: article
+    provider:
+      name: Neos Kosmos
+      domain: neoskosmos.com
+    quality: 24
+    images:
+      - url: "https://cdn1.neoskosmos.com/uploads/sites/2/2023/05/genocideopinion2-PRI_15986-e1684022952308.jpg"
+        width: 1900
+        height: 1104
+        isCached: true
 
 secured: "JL/RcMRwmm6T78ipYvyEDzMjwf4H4VEHznGEkk6xLXIeM4HI4SVskpsIevemoqOtBRjoECA/cDqTtpBZ9jJrsgGIUp1nRz7HTt332JljBxi0dD1yFRufLtM6sgUbWTCzsPTDq4D84A/u733oNYs2KLz0hpNziijvOcP8pZ6sxVOBMDxkVFkL4c3A2RqxYHcAfzc4yy5o/qvEWIUkCf6Nki/Y5a+VrleaxaovyH2gD7z6poZTdbV48IGkOlWsf0y4oZwr2uZ/wbhzbjMQZjYBtmeE89xsnGH97RVVoVJrsDYJvhXHlNMeh0sQe/Kf2ja0fe80mnqkj08MOQ51XCdgmXhKY9cV5LNudBGa6RJgdywjGprHOo8o2FH9WCoBdSlBx6cdz3Wtr1hVP+BuEApEf/nM1/USVc6VZh39PgtQTXyHHGVDLyo/HJTQ5Ytz2wL+O+UifcT8yAOWy9G8uobcy7mt58rET8iJ3fjczPNtTzu6WrupTIInzXiGicPOGnXh8fvVI+1WqURtf1NhjObFEA==;lwqK2yZ7K8MStMDDB7E5Ew=="
 ---

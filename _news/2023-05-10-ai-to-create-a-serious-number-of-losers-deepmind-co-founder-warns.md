@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "DeepMind boss says human-level AI is just a few years away"
-    excerpt: "The head of Google’s artificial intelligence division DeepMind has predicted that human-level AI may be just a few years away. The forecast from Demis Hassabis puts the date for the arrival of ..."
-    publishedDateTime: 2023-05-09T08:05:00Z
-    webUrl: "https://www.independent.co.uk/tech/ai-deepmind-artificial-general-intelligence-b2332322.html"
-    ampWebUrl: "https://www.independent.co.uk/tech/ai-deepmind-artificial-general-intelligence-b2332322.html"
-    cdnAmpWebUrl: "https://www-independent-co-uk.cdn.ampproject.org/c/s/www.independent.co.uk/tech/ai-deepmind-artificial-general-intelligence-b2332322.html"
+  - title: "DeepMind cofounder warns governments seriously need to find solutions for people who lose their jobs to A.I."
+    excerpt: "Mustafa Suleyman, who cofounded the London-based lab DeepMind, later sold to Google in 2014, told the GIC Bridge Forum event in San Francisco on Tuesday that policymakers needed to step up and provide some form of aid such as universal basic income (UBI)."
+    publishedDateTime: 2023-05-10T20:09:00Z
+    webUrl: "https://fortune.com/2023/05/10/artificial-intelligence-deepmind-co-founder-mustafa-suleyman-ubi-governments-seriously-need-to-find-solution-for-people-that-lose-their-jobs/"
+    ampWebUrl: "https://fortune.com/2023/05/10/artificial-intelligence-deepmind-co-founder-mustafa-suleyman-ubi-governments-seriously-need-to-find-solution-for-people-that-lose-their-jobs/amp/"
+    cdnAmpWebUrl: "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/2023/05/10/artificial-intelligence-deepmind-co-founder-mustafa-suleyman-ubi-governments-seriously-need-to-find-solution-for-people-that-lose-their-jobs/amp/"
     type: article
     provider:
-      name: The Independent
-      domain: independent.co.uk
-    quality: 74
+      name: Fortune
+      domain: fortune.com
+    quality: 70
     images:
-      - url: "https://static.independent.co.uk/2023/05/04/10/deepmind%20human%20level%20ai.jpg?quality=75&width=1200&auto=webp"
-        width: 1200
-        height: 900
+      - url: "https://content.fortune.com/wp-content/uploads/2023/05/GettyImages-961707246-e1683733321936.jpg?w=840"
+        width: 840
+        height: 604
         isCached: true
   - title: "AI will create ‘a serious number of losers’, DeepMind co-founder warns"
     excerpt: "Advances in artificial intelligence will threaten white-collar workers and create “a serious number of losers” over the next decade, according to one of the co-founders of AI lab DeepMind who has pioneered the technology."

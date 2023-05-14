@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/tech/how-this-safe-browsing-feature-is-using
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/how-this-safe-browsing-feature-is-using-ai-stay-ahead-scammers.amp"
 type: article
 quality: 87
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Audio Book Narrators Say AI Is Already Taking Away Business"
+    excerpt: "\"The essence of storytelling is teaching humanity how to be human. And we feel strongly that that should never be given to a machine to teach us about how to be human,\" said Emily Ellet, an actor and audio book narrator who cofounded the Professional Audiobook Narrators Association (PANA)."
+    publishedDateTime: 2023-05-14T01:45:00Z
+    webUrl: "https://www.ibtimes.com/audio-book-narrators-say-ai-already-taking-away-business-3693074"
+    ampWebUrl: "https://www.ibtimes.com/audio-book-narrators-say-ai-already-taking-away-business-3693074?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/audio-book-narrators-say-ai-already-taking-away-business-3693074?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 57
+    images:
+      - url: "https://d.ibtimes.com/en/full/4456601/woman-poses-installation-showing-headphones-booth-jvc-ifa-internationale-funkausstellung.jpg"
+        width: 768
+        height: 396
+        isCached: true
   - title: "AI is coming for Hollywood scriptwriters – this is how they are going to do it"
     excerpt: "Artificial intelligence mashups of Lord of the Rings, Pixar and Wes Anderson are amusing novelties, but how long before the robots are generating whole screenplays – and can we be sure they’re not already?"
     publishedDateTime: 2023-05-12T14:46:00Z

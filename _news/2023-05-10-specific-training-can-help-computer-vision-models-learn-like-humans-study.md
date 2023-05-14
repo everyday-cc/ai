@@ -18,17 +18,6 @@ topics:
   - Computer Vision
   - AI
 
-related:
-  - title: "Straightening Out AI: How MIT Researchers Bridge the Gap Between Human and Machine Vision"
-    excerpt: "Researchers identify a property that helps computer vision models learn to represent the visual world in a more stable, predictable way. MIT researchers found that adversarial training improves perceptual straightness in computer vision models,"
-    publishedDateTime: 2023-05-09T07:44:00Z
-    webUrl: "https://scitechdaily.com/straightening-out-ai-how-mit-researchers-bridge-the-gap-between-human-and-machine-vision/"
-    type: article
-    provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 10
-
 secured: "mLnT17dkTF+UFoJTgl/lL9NvNZ4eWHnIvNPyPqb8Gnz3ZnJZYQLDZxw06tkdttiHPYY3ARsa+bXjo+deyg4/tdAs2ddTRI58H3dxvTZux+tYJ1u77fu9GhyMqkuaLHOiClJMXpgxBESTBX/T/T6vuNMgeqglrqcVaW/VADLCfKYputEQdHMms9KktYYPnBn7fBILM0y4cfabSXww5L10qV2Mu9JYRTkiFNYb0D0Etw28D1rfE6tQXDrNvfe2I1opXo07MkVlo+pKEzRRo/95gQHhyvNtDI5MSjqkGjDtHbISoJWDPIwyiqIZDcGmGEwk1sFbtdLt8tsE+pC5aW+dqSMf5Gbiv7nOK9wjgY0FeLU=;7Mv4swNBzGKcbjf5xgiL1A=="
 ---
 

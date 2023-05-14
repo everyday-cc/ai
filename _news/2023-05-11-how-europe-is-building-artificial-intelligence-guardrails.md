@@ -20,20 +20,6 @@ topics:
   - AI
 
 related:
-  - title: "European Union Set to Be Trailblazer in Global Rush to Regulate Artificial Intelligence"
-    excerpt: "Even European Union officials working on groundbreaking rules to govern the emerging technology were caught off guard by AI’s rapid rise. The 27-nation bloc proposed the Western world’s first AI rules two years ago,"
-    publishedDateTime: 2023-05-09T09:00:00Z
-    webUrl: "https://time.com/6278144/european-union-artificial-intelligence-regulation/"
-    type: article
-    provider:
-      name: Time
-      domain: time.com
-    quality: 76
-    images:
-      - url: "https://time.com/img/icons/wallet-connect.png"
-        width: 256
-        height: 256
-        isCached: true
   - title: "How Europe is at the forefront of building artificial intelligence guardrails"
     excerpt: "Authorities around the world are racing to draw up rules for artificial intelligence, including in the European Union, where draft legislation faced a pivotal moment on Thursday. A"
     publishedDateTime: 2023-05-11T09:44:00Z
@@ -80,6 +66,15 @@ related:
         width: 992
         height: 413
         isCached: true
+  - title: "Europe acts against the threat of a social credit system with new AI rulebook"
+    excerpt: "The European Parliament has voted in favour of document that it describes as the world’s first ever rules for artificial intelligence."
+    publishedDateTime: 2023-05-12T11:18:00Z
+    webUrl: "https://telecoms.com/521652/europe-acts-against-the-threat-of-a-social-credit-system-with-new-ai-rulebook/"
+    type: article
+    provider:
+      name: Telecoms
+      domain: telecoms.com
+    quality: 16
 
 secured: "Lk7RtJxeh56MzGrxwZ6n2iUug+dAbqVxsxESRv2zc39G2fj4J68yeT6Ej8Vbbo2qgpIkqyZtmvYbvXS+af+zRdnl/TJgtXP+GXCMQldjlsyHcVT+SvF7rh1xtoiRASa533KBiTe96x71lmvCfg7vW1UAsBgE4V+GrOyEGEojdOTcAMSpW6Z7QTAsgeLYu5+kCajt94FePZJTqzUp7I+GNYCBb5ZQMspO/Oe/PMrUSaONjE9GmheGctpYChHZINsnJYso0RAGc298u8D8aPfsu1NQUhDsf3zAN2HwGeR1+OuPopTyf02sdA21oEE9F/VwxO0Ki+Du5//cNwcX26t23uhwIXNefuYmJ/13AN9U5qUvsbwJDl+N4c/Kj3CYPrWfN+pCXfzuNVWe2NKgXsKZUqpDTN2j8Rcf5jDr4weqHCjWkJf2AwaJvfBlxW5rHv1b/EPhh8nvz4yg3p2ecTvM3LqL4UGZpq9xflT5Tkv5bc49FgKXO07fh67sb06A7PGQZAf7UucZmClh+SQlOKZG3A==;0kuTRVgYjdxYfxFke/HQEg=="
 ---

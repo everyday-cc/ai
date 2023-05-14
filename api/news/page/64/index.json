@@ -2,6 +2,57 @@
   "page": 64,
   "value": [
     {
+      "path": "_news/2023-03-26-data-through-a-prism-ai-powered-analysis-key-to-gleaning-data-insights.md",
+      "title": "Data through a prism: AI-powered analysis key to gleaning data insights",
+      "excerpt": "How AI-powered business intelligence enables CFOs to use data to glean insights rather than impose their own metrics onto them.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/data-through-a-prism-ai-powered-analysis-key-to-gleaning-data-insights/",
+      "originalUrl": "https://venturebeat.com/ai/data-through-a-prism-ai-powered-analysis-key-to-gleaning-data-insights/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/05/AI.GettyImages-627546265.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 939,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/data-through-a-prism-ai-powered-analysis-key-to-gleaning-data-insights/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/data-through-a-prism-ai-powered-analysis-key-to-gleaning-data-insights/amp/",
+      "publishedDateTime": "2023-03-25T15:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-25-top-5-stories-of-the-week-generative-ai-market-heating-up-even-more.md",
       "title": "Top 5 stories of the week: Generative AI market heating up (even more)",
       "excerpt": "This she found in a March 2021 AI research paper, “On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?” Although it led to firings, researchers decided it was time to look back at the explosive paper — which in hindsight ...",

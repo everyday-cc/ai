@@ -19,72 +19,68 @@ topics:
   - AI
 
 related:
-  - title: "14 popular AI algorithms and their uses"
-    excerpt: "Large language models have captured the news cycle, but there are many other kinds of machine learning and deep learning with many different use cases."
-    publishedDateTime: 2023-05-09T09:00:00Z
-    webUrl: "https://www.infoworld.com/article/3695208/14-popular-ai-algorithms-and-their-uses.html"
-    ampWebUrl: "https://www.infoworld.com/article/3695208/14-popular-ai-algorithms-and-their-uses.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3695208/14-popular-ai-algorithms-and-their-uses.amp.html"
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 89
-    images:
-      - url: "https://images.idgesg.net/images/article/2019/02/network_endpoint_connections_neural_synapses_by_koto_feja_gettyimages-910881616_2400x1600-100788349-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "How Small Businesses Can Integrate AI Tools And Empower Their Team"
-    excerpt: "As entrepreneurs, it's important to stay ahead of the curve and not ignore emerging technologies that can give us a competitive edge. At the same time, we must prioritize taking care of our people. Here are my thoughts on how to integrate AI into your small business in a responsible way."
-    publishedDateTime: 2023-05-10T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/theyec/2023/05/10/how-small-businesses-can-integrate-ai-tools-and-empower-their-team/"
-    ampWebUrl: "https://www.forbes.com/sites/theyec/2023/05/10/how-small-businesses-can-integrate-ai-tools-and-empower-their-team/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2023/05/10/how-small-businesses-can-integrate-ai-tools-and-empower-their-team/amp/"
+  - title: "AI And Modern Workforce Challenges"
+    excerpt: "The global workforce should expect big changes over the next decade, and I believe humans will lead those changes."
+    publishedDateTime: 2023-05-10T14:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/10/ai-and-modern-workforce-challenges/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/10/ai-and-modern-workforce-challenges/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/05/10/ai-and-modern-workforce-challenges/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
     quality: 89
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64595406c962fe6795be84e9/0x0.jpg?format=jpg&width=1200"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/645a72f2a9a3d1f35644914e/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 484
+        height: 800
         isCached: true
-  - title: "New artificial intelligence algorithm for more accurate plant disease detection"
-    excerpt: "Every year, plant diseases caused by bacteria, viruses, and fungi contribute to major economic losses. The prompt detection of these diseases is necessary to curb their spread and mitigate agricultural damage,"
-    publishedDateTime: 2023-05-12T17:30:00Z
-    webUrl: "https://phys.org/news/2023-05-artificial-intelligence-algorithm-accurate-disease.html"
-    ampWebUrl: "https://phys.org/news/2023-05-artificial-intelligence-algorithm-accurate-disease.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-05-artificial-intelligence-algorithm-accurate-disease.amp"
+  - title: "US Federal Government CIOs Share Challenges And Insights Into Future Of AI And Technology"
+    excerpt: "At the GITEC 2023 Conference hosted in Annapolis, government CIOs shared some of their insights into where hot technologies like AI, but also less “sexy” technology priorities such as IT modernization and big data analytics,"
+    publishedDateTime: 2023-05-10T19:47:00Z
+    webUrl: "https://www.forbes.com/sites/cognitiveworld/2023/05/10/us-federal-government-cios-share-challenges-and-insights-into-future-of-ai-and-technology/"
+    ampWebUrl: "https://www.forbes.com/sites/cognitiveworld/2023/05/10/us-federal-government-cios-share-challenges-and-insights-into-future-of-ai-and-technology/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2023/05/10/us-federal-government-cios-share-challenges-and-insights-into-future-of-ai-and-technology/amp/"
     type: article
     provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 35
-  - title: "Chat GPT Compares Itself Against Base64.Ai's Powerful Document Processing AI And The Results Are Hilarious"
-    excerpt: "AI facing each other Chat GPT is not suitable for documents. Chat GPT vs Base64.ai We asked if Chat GPT could replace all"
-    publishedDateTime: 2023-05-09T10:58:00Z
-    webUrl: "https://menafn.com/1106205969/Chat-GPT-Compares-Itself-Against-Base64Ais-Powerful-Document-Processing-AI-And-The-Results-Are-Hilarious"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 21
+      name: Forbes
+      domain: forbes.com
+    quality: 78
     images:
-      - url: "https://menafn.com/updates/pr/2023-05/09/EP_2654cimage_story.png"
-        width: 600
-        height: 314
+      - url: "https://imageio.forbes.com/specials-images/imageserve/645bf484b738ee39999c02fa/0x0.jpg?format=jpg&crop=2880,1350,x0,y405,safe&width=1200"
+        width: 1200
+        height: 563
         isCached: true
-  - title: "The threat and promise of artificial intelligence"
-    excerpt: "Yet even if no such revolution threatens, recent advances in artificial intelligence are highly significant. According to Bill Gate s, they are the most important development since personal computers."
-    publishedDateTime: 2023-05-09T16:04:00Z
-    webUrl: "https://www.ft.com/content/41fd34b2-89ee-4b21-ac0a-9b15560ef37c?shareType=nongift"
+  - title: "We need AI to help us face the challenges of the future"
+    excerpt: "Letters: Readers respond to Naomi Klein’s article that argued it is delusional to believe AI machines will benefit humanity"
+    publishedDateTime: 2023-05-12T15:47:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/may/12/we-need-ai-to-help-us-face-the-challenges-of-the-future"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/may/12/we-need-ai-to-help-us-face-the-challenges-of-the-future"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/may/12/we-need-ai-to-help-us-face-the-challenges-of-the-future"
     type: article
     provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 17
+      name: The Guardian
+      domain: theguardian.com
+    quality: 57
+    images:
+      - url: "https://i.guim.co.uk/img/media/597d5f6734c16144721d0597b01c71b97101cb20/0_115_4000_2399/master/4000.jpg?width=620&quality=85&auto=format&fit=max&s=88eb72596b6f639a049b50d075ccd716"
+        width: 620
+        height: 372
+        isCached: true
+  - title: "AI Promises to Impact the Workforce in Unexpected Ways"
+    excerpt: "Rise of the Machines Twice a year, Tom Loper participates in a Cybersecurity Advisory Council meeting. The last one was … different. “I would say there was a sense of concern that I hadn’t seen before at that council because of ChatGPT and the phishing potential,"
+    publishedDateTime: 2023-05-11T09:59:00Z
+    webUrl: "https://businesswest.com/blog/ai-promises-to-impact-the-workforce-in-unexpected-ways/"
+    type: article
+    provider:
+      name: BusinessWest
+      domain: businesswest.com
+    quality: 39
+    images:
+      - url: "https://businesswest.com/wp-content/uploads/2023/05/AI-over-Springfield-3.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "keU03gQQrGe1wwDR1GrSvH1RdMkkyT0AQbnXk/Td7jrpWk4NEwwN7N/M42rtMYCn9maOpoG7yktbtztUYapdohIt2tMpvpZogMCJALPQwrjzfBEUB00HWrFpzOprBiY8NFg62H1uuNm0rLdCa2FqnMcBwDofV3mDv/mZVHWGxZsppd5LJAk3LBbfDGAPR6iJz0YUwE836CBnFawxeRyovI+axld/tfMm3TegHRxuCwGYY7i588szxihTfbEH9XgKO4B3y1bADBfS1xSNoPtuCbGcumSk25bNSHlAJGbn1AvnQAu6hVfEJ3wsQxW55Wb8HSRs1u4+fQ6oO/I8QzlezLz6sqF/cRJGu20Fx1Lqfm0=;uptH1rWIgPFvD7wovHiuEw=="
 ---
