@@ -39,6 +39,17 @@ related:
         width: 620
         height: 349
         isCached: true
+  - title: "How real is the fear of losing jobs to Artificial Intelligence?"
+    excerpt: "Geoffrey Hinton, now 75, a man commonly labelled as the “godfather of AI” recently resigned from his job at Google Inc, warning that the"
+    publishedDateTime: 2023-05-14T17:04:00Z
+    webUrl: "https://www.omanobserver.om/article/1137140/opinion/oman/how-real-is-the-fear-of-losing-jobs-to-artificial-intelligence"
+    ampWebUrl: "https://www.omanobserver.om/ampArticle/1137140"
+    cdnAmpWebUrl: "https://www-omanobserver-om.cdn.ampproject.org/c/s/www.omanobserver.om/ampArticle/1137140"
+    type: article
+    provider:
+      name: omanobserver
+      domain: omanobserver.om
+    quality: 39
 
 secured: "neVGpgnYrNn8zub3KZvdWOR78R9nIGFejhWkcWgLD/jX7wB9VXbr+zGSe6VVOG4lXDTsyD0zxA3tphwIL0dkHgYa9/Zdl7yD3CAt5BT03dvDaXyo9pZHH9e/GyGLxb86t9X25EH/gVsS4e7HsHRSyl7rVwZ4qSyoV5ymFRot0TocmDVfOJuGCNabz6kFIx+Ct4QrDIMuCaxX2kcdiIuBUhukZulJQRKb/s4YM1qdyY7Eb/4K14j/MHmLDRryAPg2dtsA8elwI16Veudodsk+id5JpApprQppp/KqN9kpNVBSergnF+6zT9FXoaK1uDO5os8zU89qRGi1ygSQsQEbH6297/NkXICXW31Q0BJsIts=;hj5Lhenijh8aDBAEn8vRoQ=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/google-told-me-bard-has-got
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-told-me-bard-has-gotten-better-but-even-the-ai-doesnt-believe-it/"
 type: article
 quality: 85
-heat: -1
-published: false
+heat: 85
+published: true
 
 provider:
   name: ZDNet
@@ -28,65 +28,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "Google Chrome Brings Better AI Brains to the Web"
-    excerpt: "With a technology called WebGPU, AI software to monitor your health or generate images could run in your browser instead of the cloud."
-    publishedDateTime: 2023-05-09T23:11:00Z
-    webUrl: "https://www.cnet.com/tech/computing/google-chrome-brings-better-ai-brains-to-the-web/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/google-chrome-brings-better-ai-brains-to-the-web/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/google-chrome-brings-better-ai-brains-to-the-web/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 87
-    images:
-      - url: "https://www.cnet.com/a/img/resize/fccd854ab95eb0901bb9d795b1bd9e822ca897ad/hub/2019/05/09/9f2a88cf-2acc-4c04-b11e-03560e8d182f/20120314-google-chrome-lapel-pin-4sts-01.jpg?auto=webp"
-        width: 4048
-        height: 2391
-        isCached: true
-  - title: "How a Toronto computer chip maker is providing the better brains AI runs on"
-    excerpt: "From its downtown Toronto HQ, Untether is designing the computer chips that run artificial intelligence programs more efficiently."
-    publishedDateTime: 2023-05-13T09:15:00Z
-    webUrl: "https://www.thestar.com/business/2023/05/13/untether-ai-ceo-arun-iyengar-on-the-hidden-energy-crisis-in-ai-semiconductors-and-why-he-stayed-in-canada.html"
-    ampWebUrl: "https://www.thestar.com/amp/business/2023/05/13/untether-ai-ceo-arun-iyengar-on-the-hidden-energy-crisis-in-ai-semiconductors-and-why-he-stayed-in-canada.html"
-    cdnAmpWebUrl: "https://www-thestar-com.cdn.ampproject.org/c/s/www.thestar.com/amp/business/2023/05/13/untether-ai-ceo-arun-iyengar-on-the-hidden-energy-crisis-in-ai-semiconductors-and-why-he-stayed-in-canada.html"
-    type: article
-    provider:
-      name: Toronto Star
-      domain: thestar.com
-    quality: 72
-    images:
-      - url: "https://www.thestar.com/content/dam/thestar/star-chevron-16x9.png.size.custom.crop.640x360.jpg"
-        width: 640
-        height: 360
-        isCached: true
-  - title: "WebGPU Brings AI Capabilities Directly to Google Chrome Users"
-    excerpt: "Google I/O focused on AI technologies, integrating AI into Chrome using WebGPU for improved performance and security."
-    publishedDateTime: 2023-05-11T12:59:00Z
-    webUrl: "https://www.gizmochina.com/2023/05/11/google-integrating-ai-into-chrome-using-webgpu/"
-    type: article
-    provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 64
-  - title: "Google Goes Big With a New Folding Phone and Better AI"
-    excerpt: "It’s been a big week for Google, which just announced three new Pixel products, including its first foldable phone, plus key enhancements to its ChatGPT rival Bard."
-    publishedDateTime: 2023-05-11T11:51:00Z
-    webUrl: "https://www.barrons.com/visual-stories/google-ai-chatgpt-pixel-phone-tablet-96a40590"
-    ampWebUrl: "https://www.barrons.com/visual-stories/google-ai-chatgpt-pixel-phone-tablet-96a40590"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/visual-stories/google-ai-chatgpt-pixel-phone-tablet-96a40590"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 57
-    images:
-      - url: "https://images.barrons.com/im-779960?size=1.5005861664712778&height=630&width=1200"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "C50K8rW9b3LL+qRl9C5j7Yl1X40Byxbw32mtBy0s9jsCjuH0S3Wrpyb2u6mwPJpgsQgqfNVdMpOITcY6AZTtujKTkgOQ/qm3EEc4usAKlqEwaJePgQ+8YAXedtWs0lSAa8I6RdJfYjoCXS193lSwZFAJtAEXAspSW3qRELjwdp5MAVtxJk6dL6580X4C3YPaBblLz9ak026AjFNGLdSJDSn1HCikEfR3YUkW7kBDZ4GmXpDq9Yn64r2mn1KWOZBNzzyUnU39ma9MbLA0VYRpLq+e7xtMuA12atTKomfqpPjdJiQa/i003ms6yacFHyZElo19SdHmW3h7kkaxT6d9KHG2RnY0dVMQXu3WKqhzT6Q06HnikVD/TE5m5RRf2ZtzAaU69ax+9KVHwtIEL7Q+wnoqkfrXxEYwKQAX4rSyiLCmdJn6sFvN6qjD/K7DgMlkEmSZz2ZS5gEFh8GLed6vqIFliiWDFT47+wachOIaPwO5tc2vc0w4+Sue8QYzuKkq8HlXMwd6OjwbkBAGeb0ARQ==;XXGZaCBZSj/hbLpgHQ1dvQ=="
 ---

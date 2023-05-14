@@ -250,20 +250,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "How To Write Code With ChatGPT"
-    excerpt: "According to Botpress, OpenAI built ChatGPT using three core programming languages: Python, PyTorch, and TensorFlow. Also, it used other languages for additional frameworks, including, Gensim, NLTK, OpenNMT-py, and spaCy. The AI program also uses libraries ..."
-    publishedDateTime: 2023-05-10T00:00:00Z
-    webUrl: "https://technology.inquirer.net/123907/how-to-write-code-with-chatgpt"
-    type: article
-    provider:
-      name: Philippine Daily Inquirer
-      domain: inquirer.net
-    quality: 24
-    images:
-      - url: "https://technology.inquirer.net/files/2023/05/ChatGPT-coding-featured-image-tryamigo.com_-620x349.png"
-        width: 620
-        height: 349
-        isCached: true
   - title: "Wendy's testing AI chatbot that takes drive-thru orders"
     excerpt: "Fast food chain Wendy's is partnering with Google Cloud on an AI chatbot to take orders at a drive-thru, the company announced. Wendy's FreshAI will be launched in June as a pilot in a Columbus, Ohio area restaurant."
     publishedDateTime: 2023-05-10T19:43:00Z

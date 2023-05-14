@@ -2,26 +2,20 @@
 category: news
 title: "AI presents political peril for 2024 with threat to mislead voters: 'We're not prepared for this'"
 excerpt: "The threat posed by AI and so-called deepfakes always seemed a year or two away. No more. Sophisticated generative AI tools can now create cloned human voices and hyper-realistic images, videos and audio in seconds,"
-publishedDateTime: 2023-05-14T15:45:00Z
-originalUrl: "https://www.timesunion.com/news/politics/article/ai-presents-political-peril-for-2024-with-threat-18098456.php"
-webUrl: "https://www.timesunion.com/news/politics/article/ai-presents-political-peril-for-2024-with-threat-18098456.php"
+publishedDateTime: 2023-05-14T16:45:00Z
+originalUrl: "https://www.mysanantonio.com/news/politics/article/ai-presents-political-peril-for-2024-with-threat-18098456.php"
+webUrl: "https://www.mysanantonio.com/news/politics/article/ai-presents-political-peril-for-2024-with-threat-18098456.php"
 type: article
-quality: 24
+quality: 4
 heat: -1
 published: false
 
 provider:
-  name: Times Union
-  domain: timesunion.com
+  name: San Antonio Express-News
+  domain: mysanantonio.com
 
 topics:
   - AI
-
-images:
-  - url: "https://s.hdnux.com/photos/01/32/70/16/23823256/6/rawImage.jpg"
-    width: 2048
-    height: 1365
-    isCached: true
 
 related:
   - title: "AI presents political peril for 2024 with threat to mislead voters"
@@ -39,6 +33,6 @@ related:
         height: 800
         isCached: true
 
-secured: "0Ayy75nwSFjOaR4g5EKZibIycQnrzeyuufNjEZ0LX1TXFkhRFAQT+ApziHOu3rbmXNEMOLH+KWXOj+mRO8GWAYsXr8sQSUUnVz6GOa4x5aTKSGn0OwmE1tggLzK2NF59xs3tU+fdZcBGxrGZqX2DYd6YRKoQTY2iiDuyShG66tPeYuH05DC28XnyhRX0K8u4qt0CU3AYrHXPCfe25LL2k/+g8qW72KbJGiiczW355NQdoo2UdxImu/slEH7CPNSNyRc1Im2dMG7HtApoUW5PbRn2e1GWKN4lhetpi0zUUiQVy4tnbdDf5tJK3hg0Z2XnAVhgH7HkBbCHpM2yxTDYWgRL89ZqMUO5oBNh0+JqcqE=;/8HcV5FUDHcwBQBXcrkBGA=="
+secured: "z5KSOMkST70WVzGdsUXSH7iJhqQed68n3ZWAHs0j7VqBjtZ1EYxYwB1kWWfVNkeXy7GUwmdPbMLKdUFHJaxsLjwXj62GE0rqJZcexpGCQnRhWmSzNkABVbDS9J5/L+L5Jgw5Mayq3FXl9aeGq+FUOina1Fsqigz791JNLIBxUs7rqCIhOcgkOnMiCN0zaCHavmE+ihaVpdxt22o8J3/tdifHCz/CM1rnf0W/db0x6OYCHnRmhVb0zwt88NNOm48sjBu5hjoFMBJzdj5nL07ij/2XrlzAaIWY9l/3IXXQnLd16DZQndQseWVYGXh47scNbfoq5nVMsEBaWoHes5mgU20LrMjP8trmm9wEDy/y8blqPFU2/lnnLnTbV1sPTpFiFJYd+vR8j5Ia/WEiBszBMFuCbuc4qI+cmuu35oyuKiQHXzDXim5y0LK1evWyVWrl06GuqGx18ht98303SUz9G7FB9GXWhERnbF+o8WdMsfo74ZqiPKRhN1acKkQHw8jbDD1V8kdxkJ7EtqVQ+IWBuA==;/HDtucs80XieE30RpyyzgQ=="
 ---
 

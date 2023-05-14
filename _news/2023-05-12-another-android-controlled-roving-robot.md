@@ -7,7 +7,7 @@ originalUrl: "https://hackaday.com/2012/08/03/another-android-controlled-roving-
 webUrl: "https://hackaday.com/2012/08/03/another-android-controlled-roving-robot/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 470
     height: 216
     isCached: true
-
-related:
-  - title: "Remote-controlled Robot Toy From Air Freshener Parts"
-    excerpt: "Using a pair of pencils for legs, he constructed his robot, “Limpy.” He removed a pair of motors and control board from an old toy, mounting it to his creation with a few strips of electrical ..."
-    publishedDateTime: 2023-05-10T00:00:00Z
-    webUrl: "https://hackaday.com/2011/03/07/remote-controlled-robot-toy-from-air-freshener-parts/"
-    type: article
-    provider:
-      name: Hackaday
-      domain: hackaday.com
-    quality: 54
-    images:
-      - url: "https://hackaday.com/wp-content/uploads/2011/03/limpy_the_robot.jpg"
-        width: 470
-        height: 353
-        isCached: true
 
 secured: "8kvTVJwbj765MAjLwUEtiElkg8+oAgd0wbcS4Ao9uQZR7jHihZld9bBtU50ZAI0WS34XzM/cYErR0w1Q5/wc9KJFjORapebABwHK7/nkYd2917EJ2ZwNytYKYfK/B3DUM5QK5g/G5PHyBmnbigqfn/E9Q5v3VkOm0+zpF6oufq54pRGNe5C8cGx/O6sg9jsvZHyxbRt+L1hXqDaghA2PeF4VLsPHhgwg2LbWi58cb9Sw1TDTUanPkwczWs8sefePyaBmCMykTvijayzOrTAxvkkUYMe03FOx5zQgWlqUxaDnxQ2vcQfdsi243n+v6nQh3wIUuajod5tOlFlTPIPUsaQGmgIwUJLgBoEZMu7sx/I=;abkXL5x1gV1gm34Kaue3ng=="
 ---

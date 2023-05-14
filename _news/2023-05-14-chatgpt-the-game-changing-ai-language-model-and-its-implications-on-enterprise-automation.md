@@ -236,20 +236,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "How To Write Code With ChatGPT"
-    excerpt: "According to Botpress, OpenAI built ChatGPT using three core programming languages: Python, PyTorch, and TensorFlow. Also, it used other languages for additional frameworks, including, Gensim, NLTK, OpenNMT-py, and spaCy. The AI program also uses libraries ..."
-    publishedDateTime: 2023-05-10T00:00:00Z
-    webUrl: "https://technology.inquirer.net/123907/how-to-write-code-with-chatgpt"
-    type: article
-    provider:
-      name: Philippine Daily Inquirer
-      domain: inquirer.net
-    quality: 24
-    images:
-      - url: "https://technology.inquirer.net/files/2023/05/ChatGPT-coding-featured-image-tryamigo.com_-620x349.png"
-        width: 620
-        height: 349
-        isCached: true
   - title: "Can ChatGPT teach you a language?"
     excerpt: "For those wondering if ChatGPT can be used to teach you a language, don’t worry ... a programme called Whisper which allows for the translation and transcription of audio."
     publishedDateTime: 2023-05-11T11:53:00Z
@@ -310,6 +296,6 @@ related:
       domain: usatoday.com
     quality: 7
 
-secured: "MhO1fdG1d612+bMHGxKKDa3tpS+0uSLQOso785qw8tUEWL7KN4XQr6p0OVqVXKW4UuMXAmuYVh02XM62ghWYr7fVFxgWQKmoYpBJycHKyRHeeNMHCO9j2QpJaWc7ugeqotQjz8U02FxtJIxOz9d10CG9XFTzN3MkweOPQaZ3YvivEiqzLgD6Wgdd4eiQfH/7nxwXw5fq2Jl+e0/BNScAf7IJ6C8VB5hfTffM9CX/uM2xWEsKKhThAXh7fNAqPpoX6HwJvP+wpNjOu6eaWvntdEcDWO5/IaK4VUVsndtUUiWDZBSVIXZsc9DPBYDwKMbvnOaRvjg3nEkCMrtxIKqqQ2T82VVmt4f09N/7BZR/Nbk=;/NhR3sWP9+QFagG1RU3a9w=="
+secured: "XXife6whKDWoHUyLbNFYY7HKI/0RhbRlzKnm5eN5QGG7JxECQ08oFWt270/efIJNApqJQajCB33QHmrcGpbLKTC1iYoGka4N3/B70g6OCwgIMROes8IpCE5OFQaNje71DssMQ/Uz/bhu6ob0TghjJ5sJy9e+nvBsyCxGE44pMxpJnLFyTtiPAWPrnljXdM+nwIrGMBAYFy7Bzlkux71FoFslM3ssWODqdwxfuorvDli8LUXSC55JGJJp9Ofe0M3BJbzAsiuez6ex2KSMzJTVNvb7Vgl3N0uCPc7zdUU5kCwwHbp6dZqZiwm/8+BaB+9YYnw4+k2y74zFz6xFx0VJcm9ASSrI9TV9O1dy4P0G35hR5gMBZNDhhuwPqbA4ejnnwWgT4RAYLH1/1Je3760n+TKxftAQV9lUd/u9n5vdk0lEKfXK6rzOlZEPg00oenPGHA0EKmf3cMUMZ4TppQ3EZah4du750dMFuK12f2R/YljTV9klwjdQyuObVoDYmp4ARwQDQaVt694cFFslvEp7eA==;CRNu2Aauw+z4m8YMLsNmLg=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://fortune.com/2023/05/10/artificial-intelligence-deepmind-co-f
 cdnAmpWebUrl: "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/2023/05/10/artificial-intelligence-deepmind-co-founder-mustafa-suleyman-ubi-governments-seriously-need-to-find-solution-for-people-that-lose-their-jobs/amp/"
 type: article
 quality: 70
-heat: 90
+heat: 80
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://static.ffx.io/images/$zoom_0.4089%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_129%2C$y_35/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/ceb2fe3e55af0b58698f81ab445d7badef475736"
         width: 1200
         height: 628
-        isCached: true
-  - title: "DeepMind Is Working on a Solution to Bias in AI"
-    excerpt: "In DeepMind's hypothetical college admissions example: qualifications (Q), gender (G), and choice of department (D), all factor into whether a candidate is admitted (A). A Causal Bayesian Network can identify causal and non casual relationships between ..."
-    publishedDateTime: 2023-05-10T00:00:00Z
-    webUrl: "https://www.designnews.com/design-hardware-software/deepmind-working-solution-bias-ai"
-    type: article
-    provider:
-      name: Design News
-      domain: designnews.com
-    quality: 54
-    images:
-      - url: "https://www.designnews.com/sites/designnews.com/files/Design%20News/DeepMind%20CBN%20example.png"
-        width: 1178
-        height: 1070
         isCached: true
 
 secured: "lVq6fAUwhhIytV6i6zLZ6t9XlGDjx8F3fVsd6Z09PmrdIs13qS4kbGY6PVG03MqUQF7SHO7z036EwbLgedGgfglKN8GrvN9hyx1tMhfkhPzZ+oUvbMdyeMtCrmxwkfWLI9ZcYKWICZxFOiZGGIClZ5f03zeg29T/Hv7hb8jI3CExpOP/WNmyyKzSdbVN6RoXAuvUz3I4dN9mkC3pNG5kFYCAR/Qd9YEV61UzcVo2yR8wyp2V8ivNB2zzHXD2EhxUCnMS7o0DzF0+KofNSog0tXySzRog7OVhXLAaN1PwxpQeQT1uQ+rjZnKOP6rtON8fAVliIwNmC990KproG+Ld3bvOC401uIDkfuDYy3ADjRc=;ddc7pd510VhCXYmJwObOdA=="

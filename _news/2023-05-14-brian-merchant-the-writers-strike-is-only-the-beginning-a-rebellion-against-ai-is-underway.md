@@ -69,6 +69,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Column: In the teeth of the WGA strike, Chicago-based screenwriters talk about pay issues — and artificial intelligence"
+    excerpt: "The last WGA strike, in late 2007 and early 2008, lasted 100 days and cost the industry an estimated $2 billion. Last month, as the latest strike loomed, Netflix CEO Ted Sarandos said in an earnings call: “We really don’t want this to happen.” But, he added, “we do have a pretty robust slate of releases to take us into (the near future).”"
+    publishedDateTime: 2023-05-14T17:17:00Z
+    webUrl: "https://www.chicagotribune.com/entertainment/movies/ct-ent-wga-chicago-strike-action-20230514-rmoezoj66jal7pn6lpmyib765u-story.html"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 13
+    images:
+      - url: "https://www.chicagotribune.com/resizer/eNibvbvBMWKnE2xJJ8rU03GEtY4=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/AFAPEG52H5EUJKLTA5NMODI6GA.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "L6B03uOjhDPM5YAiUjwaJg9tXeaNPMCmznEfC0X0MuouSvQO0TCk8utKBf9jNFGWdPlPgc0PrqHGZ66+tbgAlsKENmW2vPFMH9MOBaERVw8HXDjncKarrK2KPJUsXInSHL9PE9bsZoePQMUwn9FVle1JJ0eVGdFDZYXepmMi0qYS71UfxOP4NtArphNvfQmPne6CV11rgy9ZxHOAxG8ged5mWyNX1XN72tSXDHiIpiIGCRAktpUcOkEJsLkv1tkEb8Sa8GqJCODIA5FbttrFIUcUUqWH/kvb1t6mD/sZQ0mFUkqHfvJ/w+Wdbi2F3LP860j8bWettJXqQ30rFWAmEkYBIF4t+bsh5Qd0nK4UutwrS60duhpRvByayctOFLK2mQjRjq+RwPwtYimesVgIQxcRnvWL8FvKjIasMXDW6WqxTMB+o11RpWdIW4E79ndQUuTA9ZzYBG4Ol0yOnfk3U8OgK44j2Rhuw+qU6JfprmmzlI5c1AIH4+3Pdg2Eoj+Rpyk2/o4lfVXyme7YgvMG9g==;B48Vtm+5Ffuls0JvwTG4Aw=="
 ---

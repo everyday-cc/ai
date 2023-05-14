@@ -235,20 +235,6 @@ related:
         width: 860
         height: 430
         isCached: true
-  - title: "How To Write Code With ChatGPT"
-    excerpt: "According to Botpress, OpenAI built ChatGPT using three core programming languages: Python, PyTorch, and TensorFlow. Also, it used other languages for additional frameworks, including, Gensim, NLTK, OpenNMT-py, and spaCy. The AI program also uses libraries ..."
-    publishedDateTime: 2023-05-10T00:00:00Z
-    webUrl: "https://technology.inquirer.net/123907/how-to-write-code-with-chatgpt"
-    type: article
-    provider:
-      name: Philippine Daily Inquirer
-      domain: inquirer.net
-    quality: 24
-    images:
-      - url: "https://technology.inquirer.net/files/2023/05/ChatGPT-coding-featured-image-tryamigo.com_-620x349.png"
-        width: 620
-        height: 349
-        isCached: true
   - title: "Can ChatGPT teach you a language?"
     excerpt: "For those wondering if ChatGPT can be used to teach you a language, don’t worry ... a programme called Whisper which allows for the translation and transcription of audio."
     publishedDateTime: 2023-05-11T11:53:00Z

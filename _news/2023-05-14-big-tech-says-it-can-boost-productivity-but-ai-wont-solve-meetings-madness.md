@@ -2,9 +2,9 @@
 category: news
 title: "Big tech says it can boost productivity, but AI won’t solve meetings madness"
 excerpt: "Endless Zoom meetings, a full inbox, innumerable Slack notifications – who’s got any time to actually work?"
-publishedDateTime: 2023-05-14T10:00:00Z
-originalUrl: "https://www.theguardian.com/commentisfree/2023/may/14/productivity-decline-tech-ai"
-webUrl: "https://www.theguardian.com/commentisfree/2023/may/14/productivity-decline-tech-ai"
+publishedDateTime: 2023-05-14T11:23:00Z
+originalUrl: "https://www.theguardian.com/commentisfree/2023/may/14/productivity-decline-tech-ai?ref=biztoc.com"
+webUrl: "https://www.theguardian.com/commentisfree/2023/may/14/productivity-decline-tech-ai?ref=biztoc.com"
 ampWebUrl: "https://amp.theguardian.com/commentisfree/2023/may/14/productivity-decline-tech-ai"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2023/may/14/productivity-decline-tech-ai"
 type: article
@@ -29,6 +29,6 @@ images:
     height: 452
     isCached: true
 
-secured: "tx0CrwgJMsvIUyLUC/MGtqMHENmQR/zMfsqw7sLiDauHwqQ4FbgRrJNyo4dK2dONSl83CZzbJLfNHWLS0EoQEas+qjKk/WcI5V6SswFouDFeRVDmS0tVaMFEJ0x+qR1s8ZaiPiCcFpDJvpT1ZoRlDdNIN42XcWXnloNkpApHZfE5OrcdLOhdZfrrg1exxI9cucyfCkoMqnCyUf6JFJzwvGbg2Yfb5162SpFm0YMwfezSshGN5+re04C++jQL1svqoA1/Mba/HqIUJE0GlUJzJFeh8YBCGNP02C/5EWn9e4KIu1zhFBQRJT+ppsonIuBn6eEugKRJjycmX+EPb1v85ZADrvPEV4A3p5WlieC8UL8=;Ovv1YX4O0vYJoOTTnp2nFQ=="
+secured: "c47+2+dHszh8rb21IZzJ2VUe98SAZhasvoLMdU4u23WOPvhivmwXvDGjgIjUtIcdF9/iow4iNcKiyqdaG2dvvrcix405ezoeN/OnoGgx78ttJt9P3ZHd8EpJpVGXyYoqtoovQXbb8NchL5RDcYFl5baGNaSzrk8VwDZt4QwxuNuiz0SV1/hLZ9s4kbMqRJWZdKaYfUFGD2MC4t1t0EDFMsJXYVp5HpwZvqZiyVyW34k8IeqYVBSeimaDKbtHTdIrxL0s4ENYwHu3oq9GgzRmrjkqaSubSl+dK5uEBo1REzszdNLO0tWgRg9A9ryJGXMV8XwAzBLh7lek3cWGuV5wqKEP++aRpPg8FO7BFekcTt4=;sXb9cnmsKQkT3kdZdawOvg=="
 ---
 

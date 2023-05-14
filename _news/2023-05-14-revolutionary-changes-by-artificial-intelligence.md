@@ -8,7 +8,7 @@ webUrl: "https://timesofindia.indiatimes.com/blogs/voices/revolutionary-changes-
 ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/revolutionary-changes-by-artificial-intelligence/"
 cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/revolutionary-changes-by-artificial-intelligence/"
 type: article
-quality: 59
+quality: 61
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI
   - AI in Healthcare
+  - AI in Autos
 
 images:
   - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2023/03/Manish-Mohta.JPEG-1.jpeg"
@@ -113,6 +114,6 @@ related:
       domain: bizjournals.com
     quality: 19
 
-secured: "lNFVwwCMBmVnaNmJvoFkJ87JrmIH6uDJH5rl5ZdB3qxCqi/1WF2rloL4XK97em/clMmk1+sVFrKwlCnzsg0gnj4Xlk5MnAGCx2VBqJROUihvkWqwZTrZZPNJIaiXR55253m7GvtsFvsG7A0yrmrAk+SkJE9Jn5Y6hcTPd3D9kMT9PrljoZZg/EXyyx4P0ZyLZormF2p7k+1RfMDrdgmGf1z6fC70Qrj/D0h6cgUSGW0bl6NHwYf7YSd1K8LxogJA3iKRSGiUvff6NMvxVQ8UlW36A3ChLC2Y0x/mqEkvF69sLfXh65sb1ac8m5OP7Nc0+n43oYGHLK3qjiia0OPzr5xp/eyaCBlkAJug21QbLC8=;RZwrjknbZXsU90+FWr5EWQ=="
+secured: "zgocLbfP8xJ9R4L8YvkKY0S8IXjKDWd2QNWeusKdPpHBuiwUH467Ad1V6Ki1sD0BRKu7JyjMz7b8TbdAWlNrg1gwTvD0hmkhddb2VuwPmK6Tuu8zTW9RkuntdpGVR3tT83x8+iy70V1bhs87yfzZbd0K+2Kpy39+ZTY7KNAUwG9UMOzdB7COsXBKrr1603LJ4KlFXfEO/bZRGnHfFyJS4kx6cOFUmVs/sVQ+Oq5+kNn6MouILKRoAysUD8LwSfQij3BrwQqyAi7KPtblBBTK0GuY/zPRCQBtGq3BLL3FbwRbe1JYX2BWWl15nMyeHqW67GWy0zBC1g0aYvTkM1twKQJtLHmuOtktjnFVRDUlRNYZj9MGVIOlWLDaBcbRXur9Wk6EjiTMHOwU/oFZ/vM0pHhQfH1DfhY8rTQsF5Uk9SX2VCL+x2N2uE2asT480L/Yjfq5u5F8Se85Jp8I+DZpgLX6jGI0HN0XGVcvGEVCr8Xfm9xh7JoFnqpILN77eK3o9Oflse5Hw2lmWodkndfNmQ==;nOzZF3PTedZpBNU0CRYDMg=="
 ---
 

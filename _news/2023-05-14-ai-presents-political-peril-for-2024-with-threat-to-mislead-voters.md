@@ -26,19 +26,14 @@ images:
 related:
   - title: "AI presents political peril for 2024 with threat to mislead voters: 'We're not prepared for this'"
     excerpt: "The threat posed by AI and so-called deepfakes always seemed a year or two away. No more. Sophisticated generative AI tools can now create cloned human voices and hyper-realistic images, videos and audio in seconds,"
-    publishedDateTime: 2023-05-14T15:45:00Z
-    webUrl: "https://www.timesunion.com/news/politics/article/ai-presents-political-peril-for-2024-with-threat-18098456.php"
+    publishedDateTime: 2023-05-14T16:45:00Z
+    webUrl: "https://www.mysanantonio.com/news/politics/article/ai-presents-political-peril-for-2024-with-threat-18098456.php"
     type: article
     provider:
-      name: Times Union
-      domain: timesunion.com
-    quality: 24
-    images:
-      - url: "https://s.hdnux.com/photos/01/32/70/16/23823256/6/rawImage.jpg"
-        width: 2048
-        height: 1365
-        isCached: true
+      name: San Antonio Express-News
+      domain: mysanantonio.com
+    quality: 4
 
-secured: "Ghvpu84iOvIWafnRy6QXldvWcNNyz7qeVk5dSegiJIH9SPVBCBJBvbwYlAg/yCqplZCzO6ITLpUpad7ygsK1grF+1qHb67OuLa5y6Q+9QhxlVpaMA2mnmUAgOIFIxSmGZnd6HksgN/b+4wAGp9KtvsHPgOJgGFIkD9CEzvQtdIXTDDl7OQ6AMFUZxhruoSMRaMmGDtyK3uP4JuRKa43C7unyOZw4ZvBO4jN23bv7HYjqogDG7k+dY1eDA0DvzvC7/+FxRyobz465Abakh6Rqe1gizOJxrV7LO1xW94UbQJSWw1CpfbgCd7Vy0xcliVBBcfg9CgqrsTVcMCklOR8CBtMVfJO0w0TvgqAV2tHdZ3Q=;bGAHIc7EfGasjXAlem8cJQ=="
+secured: "LSNw3kRYzOa6Ner/D2s6b4f4nzzyBdPbHucEUbyFo67NmIL7aGEZjL0c1flnn2l2Sx0MH2CQF93ZYxbXISz3KiZzWs5CD4E0SxpgpwFcfClWbRd9263wyTAIGtuj6RCWaX0pSfNB8dj6D2tU2oBk0xKxVP0HtYc0FfU15Wv5zwtauL1MU2f6ihunfAvagUigHAo9kolDMO81hRPOzb/9+Av1naq5zInN+0es/SF+FEcTDuyqaoumjTQ9yepjGj4YygIbfj5ZRiRFAYI52lo/NTDjO+afj1vWRvvSkzpgOdR2MEXFlCBMzh9dvGmICQdiMjQUp5TMVgmCWZjZfbe4OTPguur+ESFYPsXXsZ7qqJXRZg/eStqJ/5apVz/ZoSW0nuSQ2na1pv8S2tYXZbvpLycDPS39VNFTL6EU3Apuz1X+YjiPbcyYnvaEN4MniF6MF4zUbzjov+mR94+/LDRS9MYbmLMvi05p7A1i/FesoKQw2LDyUxBdCDMPTeqPLzLCUb347pEir01o5sJMX7Z3+Q==;+enxOLH1jZ+gbIXymWZQeA=="
 ---
 

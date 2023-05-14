@@ -71,7 +71,7 @@ related:
     provider:
       name: Indiatimes
       domain: indiatimes.com
-    quality: 59
+    quality: 61
     images:
       - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2023/03/Manish-Mohta.JPEG-1.jpeg"
         width: 1280

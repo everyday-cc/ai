@@ -244,15 +244,20 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Microsoft Work Trend Index: AI will work alongside employees"
-    excerpt: "Artificial intelligence could enhance, not replace, jobs, Microsoft says. But AI still needs human input and emotional intelligence."
-    publishedDateTime: 2023-05-09T23:50:00Z
-    webUrl: "https://www.techrepublic.com/article/microsoft-work-trend-index-artificial-intelligence/"
+  - title: "Face Recognition API Market ICT Industry 2023 Global Insights and Business Scenario Microsoft Computer Vision API, Lambda Labs API, Inferdo"
+    excerpt: "A full Sample Report of Face Recognition API Market is Available Free –  This research report provides a lucrative growth opportunity for the market players to generate better revenue streams by expanding their market presence in the emerging economies."
+    publishedDateTime: 2023-05-12T08:45:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-api-market-ict-industry-2023-global-insights-and-business-scenario-microsoft-computer-vision-api-lambda-labs-api-inferdo-2023-05-12"
     type: article
     provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 64
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 67
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Palo Alto Networks unveils its cloud next-generation firewall for Microsoft Azure customers"
     excerpt: "Cloud NGFW for Azure seamlessly integrates Palo Alto Networks AI and ML-powered security with the simplicity, scalability and global availability of Azure"
     publishedDateTime: 2023-05-11T10:48:00Z

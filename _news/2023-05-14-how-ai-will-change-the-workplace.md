@@ -70,7 +70,7 @@ related:
     provider:
       name: Indiatimes
       domain: indiatimes.com
-    quality: 59
+    quality: 61
     images:
       - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2023/03/Manish-Mohta.JPEG-1.jpeg"
         width: 1280
@@ -116,6 +116,6 @@ related:
       domain: bizjournals.com
     quality: 19
 
-secured: "34fuvArzeJToxGUs6aA4JrESCKITh0RmVYosJ7w+hS/nvi2LH2RdPYk+r8z5hVOPyEDrZ2baha+K9Nc5oy2kUf21jgNyTXL6z+PR11mS0hNwe5Wo/5Oy8r42Kwx4dLD8LVBm7n3GxPa/h/jqRr8oRqLnFWUC5MdMfUzjr3ErkxXMoV1wUj5bPXINDlwoAXuXkS3z0F30gVQVN0xC5AAx3tfmP0B7t+QTeMNCI+BbPaSuj5KbFwL8MbyTUTb9AmIrCak5Z/qv9O5mfJiVRDaTaRgCnza1P85HhpuPYEZsRoHJEDDNc6/2w+it1FW0hvGmCzZjeLUIU2OCMrJ+DY0jXHuDpesaV70DzSHg1YvJVSQ=;nFEv+pc9ufoOoj8xl9aynA=="
+secured: "qgtlWasB9MnOCqMuTdWOnW85QmyDyFoW6Zw1l929OrAjsRwb8jFFEN8d8gjpPCyVq/9Ab5JSk55yxGPkpiCe8iyZ1D10u+Bj+PMH7/ntgMvtEPt3aVmdeR3lNbwOmf+5qhw47ZGE01MPJDGA7C9+EUwmMpYDXFrXswbZK/I7L6DPa01DtmkDIuG6X6xEg5+8YG3MymZXmuTEJPr2bG+mBU30+YQVU8IdDbzFORMhufXWpI6eLYmd4C1J/FCXPGoyqbHaLZhiX7Zqyr9aa04TrY/4TX/KqNL949TeDNwugmpuS8e47XP+D39fb0IsIAZF0p4XJgCQA5/FrtpAO/4A0Gze2OWam/jPeGawTXHN4cI2PccibR+GmzJz6Dcbx+0Y3CETVD8sG92hERBMBChq+g965LtsP4KzfRf5lK13DEbuACzQF6rE0P/0A3TJH2/zSm2RQMHFl3dtpRgv8laHElXMb7VFYb2CjQqbb8vIHn5egobxOQ5U0yBI12mLIrK9G0u9LNu7UsMj+GSjentr4g==;uQuGB1MQCXBLBlTXNowBTg=="
 ---
 

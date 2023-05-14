@@ -456,24 +456,17 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Machine Learning Courses Market Research, 2030"
-    excerpt: "Research Reports has published a new report titled as \"Machine Learning Courses Market\" by End User (Business,"
-    publishedDateTime: 2023-05-10T00:34:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-courses-market-research-2030-2023-05-09"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
   - title: "Global Artificial Intelligence (AI) Partnering Terms and Agreements 2010 to 2023"
-    excerpt: "Partnering Terms and Agreements 2010 to 2023\" report has been added to ResearchAndMarkets.com's offering. The Global Artificial Intelligence (AI) Partnering Terms and Agreements 2010 to 2023 report provides an understanding and access to the artificial intelligence partnering deals and agreements entered into by the worlds leading healthcare companies."
-    publishedDateTime: 2023-05-11T16:08:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/05/11/9812873.htm"
+    excerpt: "Partnering Terms and Agreements 2010 to 2023\" report has been added to ResearchAndMarkets.com's offering. The Global Artificial"
+    publishedDateTime: 2023-05-11T16:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/05/n32345938/global-artificial-intelligence-ai-partnering-terms-and-agreements-2010-to-2023"
+    ampWebUrl: "https://www.benzinga.com/amp/content/32345938"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32345938"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 29
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 49
 
 secured: "wm01KnWbM6+gaxO7EPntw38xkA8kUvkFzJ9zQ+u3kqnjdVEyli0XzS3YPYa+Aboi1fIrWlomT2zU9rkUdMoaZmLEli3f/LSXVA2WFQketQuBPEdWjGieRH8Sqnua36PglQviK86PGPjGWp5Bj3ryFdtXcMk1LkuErzfxOBXqL8AsyG+OomlC/+Itel2dKan9uR0etMLDiN76ng3h5xRkikRxVdj+jEgwvEXcpybHPiHjR9MIL6GsHfcTp4cSnvGeN6vzblXt7gyUnbTCaxzwnhJ/rV2Apun21F+06B/S3jGdyQLlDWnmbymHFp13oyyljkarc9ln4lzqKV/dy/1eBVpyFogHswYsWGvICl1Htkk=;wF4Zwso2vxwlX01Os6BvwA=="
 ---
