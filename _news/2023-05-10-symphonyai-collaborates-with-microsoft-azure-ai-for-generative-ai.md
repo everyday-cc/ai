@@ -35,6 +35,22 @@ related:
         width: 1300
         height: 731
         isCached: true
+  - title: "IBM CEO sees a future for generative AI with Watsonx in the enterprise"
+    excerpt: "IBM is partnering with Hugging Face to bring access to open AI models to IBM’s enterprise users. The Watsonx AI models also include the Watson Code Assistant, which is a generative AI coding tool that will be integrated with IBM’s Red Hat Ansible ..."
+    publishedDateTime: 2023-05-09T11:05:00Z
+    webUrl: "https://venturebeat.com/ai/ibm-ceo-sees-a-future-for-generative-ai-with-watsonx-in-the-enterprise/"
+    ampWebUrl: "https://venturebeat.com/ai/ibm-ceo-sees-a-future-for-generative-ai-with-watsonx-in-the-enterprise/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/ibm-ceo-sees-a-future-for-generative-ai-with-watsonx-in-the-enterprise/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 104
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/05/IBM_think_logo_050823.jpg?w=1200&strip=all"
+        width: 1200
+        height: 578
+        isCached: true
   - title: "What AI-Generated Fingers AI Can Teach You About Training Your Own Models"
     excerpt: "Generative AI is everywhere and has unlocked creativity for extraordinary creations, such as images of ecstatic Friedrich Nietzsche dancing or of Immanuel Kant with a sneaky grin. Rather than deciphering Kant's intricate ideas,"
     publishedDateTime: 2023-05-11T11:44:00Z
@@ -171,6 +187,20 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "The Boring Future of Generative AI"
+    excerpt: "ChatGPT’s chaotic streak can be charming. Google’s new chat-style search shows text-generation technology is headed in a much tamer direction."
+    publishedDateTime: 2023-05-11T16:00:00Z
+    webUrl: "https://www.wired.com/story/the-boring-future-of-generative-ai/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 67
+    images:
+      - url: "https://media.wired.com/photos/645c399a7b25a434b1f3bd06/191:100/w_1280,c_limit/Google-IO-2023-Fast%20Forward-Sundar-IO-2023-23_0943.jpg"
+        width: 1280
+        height: 670
+        isCached: true
   - title: "ChatGPT and Generative AI in Media and Advertising: With Use Cases Set, the Battle for Hearts and Minds Begins"
     excerpt: "Generative AI can already do much of the work and low-skilled labor that powers modern media and advertising."
     publishedDateTime: 2023-05-12T17:00:00Z
@@ -257,20 +287,6 @@ related:
       - url: "https://www.gazetteseries.co.uk/resources/images/16762960/?type=og-image"
         width: 788
         height: 630
-        isCached: true
-  - title: "IBM's generative AI strike force"
-    excerpt: "O.G. tech giant IBM is launching a counterstrike in the industry's suddenly-hot AI fight with today's announcement of Watsonx. The big picture: Business-focused IBM claims its latest AI offering, set to launch in July, provides more accurate answers and takes a more responsible approach than rivals."
-    publishedDateTime: 2023-05-09T10:00:00Z
-    webUrl: "https://www.axios.com/2023/05/09/watsonx-ibm-generative-ai-chatgpt"
-    type: article
-    provider:
-      name: Axios
-      domain: axios.com
-    quality: 39
-    images:
-      - url: "https://images.axios.com/2abZGvpVZrwSgGGrbzRnGszoxeg=/0x489:6000x3864/1366x768/2023/05/09/1683594467793.jpg"
-        width: 1366
-        height: 768
         isCached: true
   - title: "IBM pins hybrid cloud strategy to generative AI play"
     excerpt: "The machine learning pioneer joins AWS, Microsoft and Google in the race to deploy the latest iteration of large language model technology."

@@ -91,20 +91,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Wendy’s, Google Train Next-Generation Order Taker: an AI Chatbot"
-    excerpt: "The fast-food chain has customized a language model with terms like “JBC” for junior bacon cheeseburger and “biggie bags” for meal combos."
-    publishedDateTime: 2023-05-09T10:45:00Z
-    webUrl: "https://www.wsj.com/articles/wendys-google-train-next-generation-order-taker-an-ai-chatbot-968ff865"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 67
-    images:
-      - url: "https://images.wsj.net/im-777889/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "How is the new Google AI search different from Bard chatbot?"
     excerpt: "Google demonstrated an updated core search product that embeds more AI in its answers as the company looks to banish doubts that it is losing ground to Microsoft's OpenAI-powered Bing search."
     publishedDateTime: 2023-05-11T04:49:00Z
@@ -270,6 +256,20 @@ related:
       - url: "https://technology.inquirer.net/files/2023/05/ChatGPT-coding-featured-image-tryamigo.com_-620x349.png"
         width: 620
         height: 349
+        isCached: true
+  - title: "Can ChatGPT teach you a language?"
+    excerpt: "For those wondering if ChatGPT can be used to teach you a language, don’t worry ... a programme called Whisper which allows for the translation and transcription of audio."
+    publishedDateTime: 2023-05-11T11:53:00Z
+    webUrl: "https://www.videogamer.com/tech/ai/can-chatgpt-teach-you-a-language/"
+    type: article
+    provider:
+      name: VideoGamer.com
+      domain: videogamer.com
+    quality: 24
+    images:
+      - url: "https://www.videogamer.com/wp-content/uploads/ChatGPT-language.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Wendy's testing AI chatbot that takes drive-thru orders"
     excerpt: "Fast food chain Wendy's is partnering with Google Cloud on an AI chatbot to take orders at a drive-thru, the company announced. Wendy's FreshAI will be launched in June as a pilot in a Columbus, Ohio area restaurant."

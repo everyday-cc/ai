@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/opinion/columns/the-future-of-ai-from-chatb
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/opinion/columns/the-future-of-ai-from-chatbots-to-digital-afterlife-what-lies-ahead-for-human-existence-and-society/amp-11683828995918.html"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -52,6 +52,20 @@ related:
       name: Wired
       domain: wired.com
     quality: 47
+  - title: "The rise of human ingenuity in Artificial intelligence"
+    excerpt: "The neural network used in ChatGPT is composed of multiple layers of artificial neurons that work. In coherence together to understand the structure and patterns in language. The model is trained on a large corpus of text data, which it uses to learn the ..."
+    publishedDateTime: 2023-05-09T11:22:00Z
+    webUrl: "https://timesofindia.indiatimes.com/readersblog/anawrites98/the-rise-of-human-ingenuity-in-artificial-intelligence-53634/"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 41
+    images:
+      - url: "https://static.toiimg.com/photo/75476733.cms"
+        width: 640
+        height: 360
+        isCached: true
 
 secured: "d1p34WvKlP9VdLSCXSZbYHX4fd+G76fNHTq8hUD7QgntPjx9m/TyhCpy5WXcAVNPpaQfAua7nEUzfQi6EzBbqste7KFTemRu5bl7dEq5/UyDnaGsx7BE71lkfgURbHEJkxW8Ypn3U5M1toSHc4MrGsZyXJQRyW/yrB2n387ijmi6VOvSfS1SEOvPEcgD1bP5sje+mLvlpXAJfXGP7duWwyHys5HoB+tA28Th33AgWrlV3fjEiVt50/YuD9f6zeokADU9J9J+Qyrlsb95NuRqoMDW43S6076aN4zpbA301RJsKCdjwTQmtwX4CoIDhH4c5Z0m3YHzNl7q5s2UfDqzDkDvQpOO2TnvQVJQu0IMt9o=;Npqn6CBvrShDA/9OukDUcQ=="
 ---

@@ -53,20 +53,6 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 52
-  - title: "In global rush to regulate AI, Europe set to be trailblazer"
-    excerpt: "European lawmakers have rushed to add language on general artificial intelligence systems like ChatGPT as they put the finishing touches on the Western world's first AI rules"
-    publishedDateTime: 2023-05-09T09:32:00Z
-    webUrl: "https://abcnews.go.com/Technology/wireStory/global-rush-regulate-ai-europe-set-trailblazer-99189489"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 37
-    images:
-      - url: "https://s.abcnews.com/images/International/wirestory_906fc89d2561b200fa6eb40a06b946a5_12x5_992.jpg"
-        width: 992
-        height: 413
-        isCached: true
   - title: "Europe acts against the threat of a social credit system with new AI rulebook"
     excerpt: "The European Parliament has voted in favour of document that it describes as the world’s first ever rules for artificial intelligence."
     publishedDateTime: 2023-05-12T11:18:00Z

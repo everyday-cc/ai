@@ -1,18 +1,22 @@
 ---
 category: news
 title: "SymphonyAI announces strategic collaboration with Microsoft Azure AI for generative AI"
-excerpt: "SymphonyAI introduces Sensa Copilot, a vertical application that integrates Microsoft Azure OpenAI Service and Azure Cognitive Search to drive value for customers in financial crime prevention and regulatory compliance PALO ALTO,"
-publishedDateTime: 2023-05-09T16:34:00Z
-originalUrl: "https://it.tmcnet.com/news/2023/05/09/9809924.htm"
-webUrl: "https://it.tmcnet.com/news/2023/05/09/9809924.htm"
+excerpt: "SymphonyAI introduces Sensa Copilot, a vertical application that integrates Microsoft Azure OpenAI Service and Azure Cognitive Search to drive"
+publishedDateTime: 2023-05-09T12:30:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/symphonyai-announces-strategic-collaboration-with-microsoft-azure-ai-for-generative-ai-1032305943"
+webUrl: "https://markets.businessinsider.com/news/stocks/symphonyai-announces-strategic-collaboration-with-microsoft-azure-ai-for-generative-ai-1032305943"
 type: article
-quality: 41
+quality: 71
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Microsoft AI
@@ -418,20 +422,6 @@ related:
       name: Mena FN
       domain: menafn.com
     quality: 24
-  - title: "PwC, Microsoft and Icertis launch strategic collaboration to accelerate enterprise digital transformation with AI-powered contract intelligence"
-    excerpt: "PwC, Microsoft and Icertis today formally announced a new strategic collaboration that will provide C-suites with a powerful, innovative AI-driven approach to contract management that enables accelerated enterprise-level digital transformation."
-    publishedDateTime: 2023-05-09T09:52:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-pwc-microsoft-icertis-launch-strategic-collaboration-accelerate-enterprise-/2023/05/09/9809823.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 18
-    images:
-      - url: "https://mma.prnewswire.com/media/371539/Icertis_Logo.jpg"
-        width: 400
-        height: 260
-        isCached: true
   - title: "Informatica Expands its Collaboration with Microsoft, Announces Planned Intelligent Data Management Cloud as a Microsoft Azure Native ISV Service"
     excerpt: "Informatica (NYSE: INFA), an enterprise cloud data management leader, expanded its collaboration with Microsoft with two key developments aimed at pro"
     publishedDateTime: 2023-05-09T17:00:00Z
@@ -442,6 +432,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "8BueIFbhhfD4zF4bMfAK+CYLlazyU29hzIzx9lQ1WowC4vrsZZr7xiyHPeTYvACcLsOcUmOXCB+i1SAPspWMBfpqsCHjTkyvmwvNjXmMjEn4hDJDVFWTALlpWmOhPUMEjM6ILVF0NjOr09JHhZt/6AOey39u9eUzqpgoRdlQYjzUvh1Ub9u4k9nb6vyfkL//ZuGrYsoIEcdTp7HlGMKami1tnJPnFSTdvsaP/sjJ6L2hH6rttwskje+FT49TdNAk1rUUyTkuAmnBb5I7HdRWE9qDpMmAM0K6alTgG+VQS2YxsTZNfPaOiUVs71/+D9++6b9+HUreCa8ZLuspw8PyNgtrrw3gp3kC2OYPG/DQX1s=;skZMSF6Wqtc2VaZb3PQNlg=="
+secured: "ti+GgfIeLH92he/udsOL/oKHld6NMege0J+fOI9NiP8ar+Z+1jIPeni6hm968OeLy2fkpjyf9FPWB9X3DPvrpi4Itvki590yxyO2BnlFYdUnX2CIqqZTCyo0rpYRQLDATDvV2/F2PS/cwTZLyfZ7JDEmyi3Y2RK0NkISQiRCPDQRKbVcfkeLZmJD1uN6xFppmSRjyWo+sycw3q7VK039EofB/IuOJxfBjjGbsxREoP+L7agb0l5/w/o6etT0vqb8HZH2F7mSiM4KKTYFn9P/kSoWb+/XAp6GPAm4B8ggQyHF3CTx1ulcZVXeiWt+0ssDdao126jgZY4SbDw1RTSvRFYgcP7hopRj/1XWjvGqiNo=;6Y4vvip9hB52BjSihikQWw=="
 ---
 

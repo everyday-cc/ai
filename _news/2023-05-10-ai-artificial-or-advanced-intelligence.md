@@ -51,14 +51,14 @@ related:
   - title: "Google giving its popular search engine an artificial-intelligence makeover"
     excerpt: "Google is ready to test the AI waters with its search engine and also unveiled the first foldable smartphone in its Pixel line-up at the I/O showcase."
     publishedDateTime: 2023-05-14T00:15:00Z
-    webUrl: "https://www.nwitimes.com/news/nation-world/business/google-giving-its-popular-search-engine-an-artificial-intelligence-makeover/article_cc7d4930-1616-55fb-a336-c328d04d1265.html"
+    webUrl: "https://madison.com/business/google-giving-its-popular-search-engine-an-artificial-intelligence-makeover/article_07a06df7-1648-5cfd-b535-8f1678a9a602.html"
     type: article
     provider:
-      name: The Times of Northwest Indiana
-      domain: nwitimes.com
+      name: Madison.com
+      domain: madison.com
     quality: 20
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/c/c7/cc7d4930-1616-55fb-a336-c328d04d1265/645d724540c89.preview.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+      - url: "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/0/7a/07a06df7-1648-5cfd-b535-8f1678a9a602/645d7241ca788.preview.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
         width: 1200
         height: 630
         isCached: true

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/world/deepfakes-porn-tapes-bots-ai-shaped-vi
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/world/deepfakes-porn-tapes-bots-ai-shaped-vital-nato-allys-presidential-election.amp"
 type: article
 quality: 78
-heat: 79
+heat: 78
 published: true
 
 provider:

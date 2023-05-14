@@ -1,30 +1,27 @@
 ---
 category: news
-title: "You’re Probably Underestimating AI Chatbots"
-excerpt: "Just as the first iPhone reviews mostly missed the device’s huge potential, it’s folly to draw conclusions from today’s unrefined technology."
-publishedDateTime: 2023-05-12T13:01:00Z
-originalUrl: "https://www.wired.com/story/plaintext-youre-probably-underestimating-ai-chatbots/"
-webUrl: "https://www.wired.com/story/plaintext-youre-probably-underestimating-ai-chatbots/"
+title: "Can ChatGPT teach you a language?"
+excerpt: "For those wondering if ChatGPT can be used to teach you a language, don’t worry ... a programme called Whisper which allows for the translation and transcription of audio."
+publishedDateTime: 2023-05-11T11:53:00Z
+originalUrl: "https://www.videogamer.com/tech/ai/can-chatgpt-teach-you-a-language/"
+webUrl: "https://www.videogamer.com/tech/ai/can-chatgpt-teach-you-a-language/"
 type: article
-quality: 67
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Wired
-  domain: wired.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: VideoGamer.com
+  domain: videogamer.com
 
 topics:
+  - Natural Language Processing
   - AI
 
 images:
-  - url: "https://media.wired.com/photos/645d37c10227ed23db8041a9/191:100/w_1280,c_limit/AI_biz_GettyImages-1372009287.jpg"
-    width: 1280
-    height: 670
+  - url: "https://www.videogamer.com/wp-content/uploads/ChatGPT-language.jpg"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
@@ -105,6 +102,20 @@ related:
       - url: "https://www.reuters.com/resizer/KGaBkrQHj3qhm6l3Wtyw8nqhjss=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/5UQGXXHAMNPZHPVIMFFH3XDVPM.jpg"
         width: 1200
         height: 628
+        isCached: true
+  - title: "You’re Probably Underestimating AI Chatbots"
+    excerpt: "Just as the first iPhone reviews mostly missed the device’s huge potential, it’s folly to draw conclusions from today’s unrefined technology."
+    publishedDateTime: 2023-05-12T13:01:00Z
+    webUrl: "https://www.wired.com/story/plaintext-youre-probably-underestimating-ai-chatbots/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 67
+    images:
+      - url: "https://media.wired.com/photos/645d37c10227ed23db8041a9/191:100/w_1280,c_limit/AI_biz_GettyImages-1372009287.jpg"
+        width: 1280
+        height: 670
         isCached: true
   - title: "Wendy’s to test AI chatbot that takes your drive-thru order"
     excerpt: "US fast-food chain says pilot program ‘seeks to take the complexity out of the ordering process’"
@@ -260,20 +271,6 @@ related:
         width: 620
         height: 349
         isCached: true
-  - title: "Can ChatGPT teach you a language?"
-    excerpt: "For those wondering if ChatGPT can be used to teach you a language, don’t worry ... a programme called Whisper which allows for the translation and transcription of audio."
-    publishedDateTime: 2023-05-11T11:53:00Z
-    webUrl: "https://www.videogamer.com/tech/ai/can-chatgpt-teach-you-a-language/"
-    type: article
-    provider:
-      name: VideoGamer.com
-      domain: videogamer.com
-    quality: 24
-    images:
-      - url: "https://www.videogamer.com/wp-content/uploads/ChatGPT-language.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Wendy's testing AI chatbot that takes drive-thru orders"
     excerpt: "Fast food chain Wendy's is partnering with Google Cloud on an AI chatbot to take orders at a drive-thru, the company announced. Wendy's FreshAI will be launched in June as a pilot in a Columbus, Ohio area restaurant."
     publishedDateTime: 2023-05-10T19:43:00Z
@@ -320,6 +317,6 @@ related:
       domain: usatoday.com
     quality: 7
 
-secured: "jEU3DsGeDMEP0rcF1QXykTK3jsAvXGIvUlKUiogpw1LQ+XwReQVzUKeHGfJb/e1REAkN+RZr+7yR6Vp0gBL0daK+kqyiVLhk3CN1L4k0LmDzpQRa63haGrgawaSbTc+aSHP2c9j5zZj2ILVM26xHTRgo/mHg6C8bZ3kNXdplciVknuKY1BXlFtQOGV445bR9oOEnekiwxZobHeEudakz0tlbaZNe5hXMzdN0rAqi/RbfXgwHDlFmmCqO1vx+4ZxPwzPeL74ZncjcavY/LPI8aWyhlnlNEhGYCuyYrDMTTViNc9vJiB6fVyG01GS/0obtK72/c9+MaXOweO1qyWIxx44OmfhJhN3uoVhjaxrDjDkJNRe3g9LY+ZzCVeC2w88feU0Pyi7eMhagLtAYZIs+nTg4Z9I9ksrYQup+Uh24YukIouz+gbGVAhtRjuHafAr/dGJcMjWFfCKO407iUmGqa+/rTL3DGQYw4aqVQH4/bXO7EeFkkoyKhnWfxCotLi8jhxL+wM/46yj1My+OOFhOeg==;2MrVL1fa6MAhBkL2oPCUcw=="
+secured: "GzIsiod4zOD7QoHNH5euoxFOvwZpHaQv6IxtoqoX0FDD8Zt8GDF52MrgvsN6iCKcTqhQOyYOwyVxqjxWGxbwv/N9z/RfdZIX3RwgH7I91b68RaPwKWhvH4bHLIDMXGpCmfLHlGGRfi6rqv/npYAk0TIxRB92mepFngpG4wSFBFp6+yT+806I7//p4k3Gc1hboJ3Z2GsnpWAiuMRBwgnMmHf2CLJVrnDxzLt9hi3LHiJn3nXg06L5QJNCw32U2NQJp5Fiv7Rhvrb3lgALNIFQ2NASLglCfRJzCAfMIBYkHJejtVz/xXpf/G/22Sk5jDlGbnBVTIhAoCmO0LaPaDi/89n4CJQFsskm5a/sIjO6/aU=;O4h2die6NgfVYSD9Zo3C2A=="
 ---
 

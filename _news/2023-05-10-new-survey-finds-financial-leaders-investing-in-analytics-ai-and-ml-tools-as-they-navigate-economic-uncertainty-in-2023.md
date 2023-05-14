@@ -126,20 +126,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 34
-  - title: "MultiPlan Acquires Leading Healthcare Data and Analytics Firm Benefits Science LLC"
-    excerpt: "MultiPlan Corporation (NYSE: MPLN) (“MultiPlan” or the “Company”), a leading provider of technology and data-enabled cost management, payment, and revenue integrity solutions to the U.S. healthcare industry,"
-    publishedDateTime: 2023-05-09T11:01:00Z
-    webUrl: "https://www.joplinglobe.com/region/national_business/multiplan-acquires-leading-healthcare-data-and-analytics-firm-benefits-science-llc/article_903e5220-8598-5bc0-9d9b-d397d41221da.html"
-    type: article
-    provider:
-      name: Joplin Globe
-      domain: joplinglobe.com
-    quality: 33
-    images:
-      - url: "https://static.cnhionline.com/ksherman/images/575801-RTJ-Masters-Package-300x250.gif"
-        width: 300
-        height: 250
-        isCached: true
   - title: "FuriosaAI Enhances Next-Generation AI Chips with proteanTecs’ Deep Data Analytics"
     excerpt: "Tecs, a global leader of deep data analytics for advanced electronics, announced today that FuriosaAI has selected their deep data analytics so"
     publishedDateTime: 2023-05-09T14:15:00Z

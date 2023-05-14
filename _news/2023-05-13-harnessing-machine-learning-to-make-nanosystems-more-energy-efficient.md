@@ -5,9 +5,11 @@ excerpt: "Getting something for nothing doesn't work in physics. But it turns ou
 publishedDateTime: 2023-05-12T17:18:00Z
 originalUrl: "https://phys.org/news/2023-05-harnessing-machine-nanosystems-energy-efficient.html"
 webUrl: "https://phys.org/news/2023-05-harnessing-machine-nanosystems-energy-efficient.html"
+ampWebUrl: "https://phys.org/news/2023-05-harnessing-machine-nanosystems-energy-efficient.amp"
+cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-05-harnessing-machine-nanosystems-energy-efficient.amp"
 type: article
-quality: 19
-heat: 19
+quality: 59
+heat: 59
 published: false
 
 provider:
@@ -18,6 +20,12 @@ topics:
   - Machine Learning
   - AI
 
-secured: "gojKHqosM/rVtth1dnmqz0Uoq1Bv5nlFZxqqw7HEJrZp2osuHxjMfXymba+7oQSZtD+50qk0+o5JPwnFtZqEt9ol9QTd0L5sjggB1vZpZnCH8jiLYUdKPiqbq17pwn3riD4FiHW2bsEE3sMSlxAsIBo1HyP6ScAKCFMsic6GwaJS3zpcbc6QO308kVw3/c/w5UhPOqpsFUQpQJBDE7mHgl5YuQof/cyTL/tXoYPr2t22/XTL6qKmA7CywbtJAZaXXPazOaFoSY5VvYXnOOA4B8T4qA8wGXJhqs590Q0wQ5iMX1cQ0DOoaI2RnMKCuNKClvgPQkGNtrsy6AGq7QjZN9NvyMW4VB561ru11Vjfmto=;Zd4Ew4ebanTD4TCck2DGHQ=="
+images:
+  - url: "https://scx2.b-cdn.net/gfx/news/2023/harnessing-machine-lea-1.jpg"
+    width: 800
+    height: 700
+    isCached: true
+
+secured: "eiNQjTN1dNdNHZY7dgYrMYcFljneUslJDdQWVHb1q1C7dCviaBdfKO/3ZDgchoBFHpHmT9q/E1looBgeco9+EPkMfuXxoL2HxuNgSkKnHreAcLu0qAUvjuL+wQFjlmk8OcL1GZ5dpEX8Hjov1jSMPhVms7CXiNBmXsMPrOzrhDI5rAUqWHEFafr3qI54m1uSh1SScKrcuokB9xE2pLI1OK6/hGq2/7/iNmiz0CubeI7pw0hgwE8DuPO0ibh9HV/Hx6YKTS+46FGD4GcAX4tD+TfTMjQd9deAf2rVWweGvs5zrWWj36sF7f/qNHHavwbgWmHMeVWozMGSgwAu7DPv6s0a6jAO2FLHmvGU/nyBnbA=;9+APAxTrBznDOPq/G5RbSA=="
 ---
 

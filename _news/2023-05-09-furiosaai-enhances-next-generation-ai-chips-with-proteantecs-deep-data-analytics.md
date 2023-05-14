@@ -125,20 +125,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 34
-  - title: "MultiPlan Acquires Leading Healthcare Data and Analytics Firm Benefits Science LLC"
-    excerpt: "MultiPlan Corporation (NYSE: MPLN) (“MultiPlan” or the “Company”), a leading provider of technology and data-enabled cost management, payment, and revenue integrity solutions to the U.S. healthcare industry,"
-    publishedDateTime: 2023-05-09T11:01:00Z
-    webUrl: "https://www.joplinglobe.com/region/national_business/multiplan-acquires-leading-healthcare-data-and-analytics-firm-benefits-science-llc/article_903e5220-8598-5bc0-9d9b-d397d41221da.html"
-    type: article
-    provider:
-      name: Joplin Globe
-      domain: joplinglobe.com
-    quality: 33
-    images:
-      - url: "https://static.cnhionline.com/ksherman/images/575801-RTJ-Masters-Package-300x250.gif"
-        width: 300
-        height: 250
-        isCached: true
   - title: "Boston’s Leading AI Image Analytics Startup Named to Leading 100 List of 2023"
     excerpt: "The Lead has announced The Leading 100 of 2023, the highly anticipated annual research list recognizing the innovative tech startups driving the future of brand-to-consumer, … Continue Reading →"
     publishedDateTime: 2023-05-11T13:10:00Z

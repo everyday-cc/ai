@@ -9,7 +9,7 @@ ampWebUrl: "https://fortune.com/2023/05/12/forbes-austin-russell-acquisition-maj
 cdnAmpWebUrl: "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/2023/05/12/forbes-austin-russell-acquisition-majority-stake/amp/"
 type: article
 quality: 70
-heat: 71
+heat: 70
 published: true
 
 provider:

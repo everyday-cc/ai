@@ -31,114 +31,158 @@ images:
     isCached: true
 
 related:
-  - title: "Introducing watsonx: The future of AI for business"
-    excerpt: "It's time to put the power of AI in the hands of all “AI builders”, from data scientists to developers to business users who don't write code. Meet watsonx.\nThe post Introducing watsonx: The future of AI for business appeared first on IBM Blog.\n"
-    publishedDateTime: 2023-05-09T09:58:00Z
-    webUrl: "https://www.ibm.com/blog/introducing-watsonx-the-future-of-ai-for-business/"
+  - title: "Supercharging Search with generative AI"
+    excerpt: "We’re starting with an experiment in Search Labs called SGE, Search Generative Experience, which uses generative AI."
+    publishedDateTime: 2023-05-10T17:45:00Z
+    webUrl: "https://blog.google/products/search/generative-ai-search/"
+    ampWebUrl: "https://blog.google/products/search/generative-ai-search/amp/"
+    cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/search/generative-ai-search/amp/"
     type: article
     provider:
-      name: IBM
-      domain: ibm.com
-    quality: 134
+      name: Google
+      domain: blog.google
+    quality: 109
     images:
-      - url: "https://www.ibm.com/blog/wp-content/uploads/2023/05/ibm-watsonx-family-a04.l.jpg"
-        width: 1312
-        height: 656
+      - url: "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/socialshare-test.width-1300.jpg"
+        width: 1300
+        height: 731
         isCached: true
-  - title: "Introducing the technology behind watsonx.ai, IBM’s AI and data platform for enterprise"
-    excerpt: "AI introduces opportunities and challenges for businesses. Discover the approach addressing these challenges and developing real business value: watsonx.ai.\nThe post Introducing the technology behind watsonx.ai, IBM’s AI and data platform for enterprise appeared first on IBM Blog.\n"
-    publishedDateTime: 2023-05-09T09:59:00Z
-    webUrl: "https://www.ibm.com/blog/introducing-the-technology-behind-watsonx-ai/"
+  - title: "What AI-Generated Fingers AI Can Teach You About Training Your Own Models"
+    excerpt: "Generative AI is everywhere and has unlocked creativity for extraordinary creations, such as images of ecstatic Friedrich Nietzsche dancing or of Immanuel Kant with a sneaky grin. Rather than deciphering Kant's intricate ideas,"
+    publishedDateTime: 2023-05-11T11:44:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/11/what-ai-generated-fingers-ai-can-teach-you-about-training-your-own-models/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/11/what-ai-generated-fingers-ai-can-teach-you-about-training-your-own-models/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/05/11/what-ai-generated-fingers-ai-can-teach-you-about-training-your-own-models/amp/"
     type: article
     provider:
-      name: IBM
-      domain: ibm.com
-    quality: 126
+      name: Forbes
+      domain: forbes.com
+    quality: 88
     images:
-      - url: "https://www.ibm.com/blog/wp-content/uploads/2023/05/ibm-watsonxai-a04.l.jpg"
-        width: 1312
-        height: 656
-        isCached: true
-  - title: "IBM to help businesses scale AI workloads, for all data, anywhere"
-    excerpt: "Meet IBM watsonx.data, a data store built to help enterprises unify and govern their data, wherever it resides, for high-performance AI and analytics.\nThe post IBM to help businesses scale AI workloads, for all data, anywhere appeared first on IBM Blog.\n"
-    publishedDateTime: 2023-05-09T09:59:00Z
-    webUrl: "https://www.ibm.com/blog/ibm-to-help-businesses-scale-ai-workloads-for-all-data-anywhere/"
-    type: article
-    provider:
-      name: IBM
-      domain: ibm.com
-    quality: 119
-    images:
-      - url: "https://www.ibm.com/blog/wp-content/uploads/2023/05/IBM_WatsonXData_A05.l-e1683578205623.jpg"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/645b9e989f952bd52c9c02fa/0x0.jpg?format=jpg&crop=3702,2084,x0,y499,safe&width=1200"
         width: 1200
-        height: 600
+        height: 676
         isCached: true
-  - title: "IBM brings back Watson as AI heats up"
-    excerpt: "IBM has unveiled WatsonX, the next generation of the company's AI system. Matthias Balk/picture alliance via Getty Images Watson, the artificial intelligence created by IBM more than a decade ago, is ready for its encore as interest in artificial ..."
-    publishedDateTime: 2023-05-09T15:34:00Z
-    webUrl: "https://fortune.com/2023/05/09/ibm-brings-back-watson-ai/"
-    ampWebUrl: "https://fortune.com/2023/05/09/ibm-brings-back-watson-ai/amp/"
-    cdnAmpWebUrl: "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/2023/05/09/ibm-brings-back-watson-ai/amp/"
-    type: article
-    provider:
-      name: Fortune
-      domain: fortune.com
-    quality: 104
-    images:
-      - url: "https://content.fortune.com/wp-content/uploads/2023/05/GettyImages-1039870520-e1683644169196.jpg?w=840"
-        width: 840
-        height: 559
-        isCached: true
-  - title: "Reshaping IT automation with IBM Watson Code Assistant"
-    excerpt: "Previewing IBM Watson Code Assistant, an innovative solution that empowers developers to write syntactically correct code with AI-generated recommendations.\nThe post Reshaping IT automation with IBM Watson Code Assistant appeared first on IBM Blog.\n"
-    publishedDateTime: 2023-05-09T12:03:00Z
-    webUrl: "https://www.ibm.com/blog/reshaping-it-automation-with-ibm-watson-code-assistant/"
-    type: article
-    provider:
-      name: IBM
-      domain: ibm.com
-    quality: 97
-  - title: "How Artificial Intelligence Is Changing Business"
-    excerpt: "Artificial intelligence (AI) has been changing every type of business worldwide. The phrase derives from computer-based operating systems being able to imitate or replicate exact human-like activities. There are also many different types of artificial intelligence, but let’s go over some of the types relating to a business environment."
-    publishedDateTime: 2023-05-12T12:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/12/how-artificial-intelligence-is-changing-business/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/12/how-artificial-intelligence-is-changing-business/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/05/12/how-artificial-intelligence-is-changing-business/amp/"
+  - title: "New Era Of Generative AI Finally Delivers On Promise"
+    excerpt: "Artificial intelligence is not new, but the public launch of generative AI has led to an explosion of AI models and implementations that are finally delivering some of the potential promise of artificial intelligence."
+    publishedDateTime: 2023-05-10T14:36:00Z
+    webUrl: "https://www.forbes.com/sites/tonybradley/2023/05/10/new-era-of-generative-ai-finally-delivers-on-promise/"
+    ampWebUrl: "https://www.forbes.com/sites/tonybradley/2023/05/10/new-era-of-generative-ai-finally-delivers-on-promise/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tonybradley/2023/05/10/new-era-of-generative-ai-finally-delivers-on-promise/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
     quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/645907002b0d8e64282796dd/0x0.jpg?format=jpg&crop=6833,3840,x1162,y0,safe&width=1200"
-        width: 1200
-        height: 674
-        isCached: true
-  - title: "IBM’s watsonx could be a generative AI game-changer"
-    excerpt: "Generative AI has been much-hyped over the past few months, but still faces serious teething issues. IBM's watsonx could help solve some of those problems."
-    publishedDateTime: 2023-05-12T06:45:00Z
-    webUrl: "https://www.computerworld.com/article/3696275/ibms-watsonx-could-be-a-generative-ai-game-changer.html"
-    ampWebUrl: "https://www.computerworld.com/article/3696275/ibms-watsonx-could-be-a-generative-ai-game-changer.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3696275/ibms-watsonx-could-be-a-generative-ai-game-changer.amp.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 74
-    images:
-      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2023/05/08/01/shutterstock_728178127-100940689-large.jpg?auto=webp&quality=85,70"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/645bab625656905e0c4bd205/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 800
         isCached: true
-  - title: "IBM launches watsonx studio to make deploying generative AI easier"
-    excerpt: "The watsonx platform announcement also marks IBM's plan to add generative AI to other services, incorporating code writing and more."
-    publishedDateTime: 2023-05-11T12:43:00Z
-    webUrl: "https://www.techrepublic.com/article/ibm-watsonx-studio-generative-ai/"
+  - title: "How Organizations Can Leverage Generative AI To Reinvent The Customer Experience"
+    excerpt: "Businesses of all sizes and industries are exploring and crafting their own generative AI use cases to change the way they—and their customers—interact with technology forever."
+    publishedDateTime: 2023-05-11T10:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/11/how-organizations-can-leverage-generative-ai-to-reinvent-the-customer-experience/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/11/how-organizations-can-leverage-generative-ai-to-reinvent-the-customer-experience/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/05/11/how-organizations-can-leverage-generative-ai-to-reinvent-the-customer-experience/amp/"
     type: article
     provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 68
+      name: Forbes
+      domain: forbes.com
+    quality: 84
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/645b96df2eac9fd38eb32fd0/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 798
+        isCached: true
+  - title: "New Google search tool will distinguish real images from AI-generated phonies"
+    excerpt: "Rolling out in the coming months, the new 'About this Image' tool will help identify which images in a search are real and which are created by AI."
+    publishedDateTime: 2023-05-11T14:52:00Z
+    webUrl: "https://www.zdnet.com/article/new-google-search-tool-will-distinguish-real-images-from-ai-generated-phonies/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/new-google-search-tool-will-distinguish-real-images-from-ai-generated-phonies/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/new-google-search-tool-will-distinguish-real-images-from-ai-generated-phonies/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 84
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/e2abf1115d40e1fcee596f55c6be46a839a0d904/2023/05/11/1f3609ef-3fd4-45b9-9162-dc868eff6419/figure-top-new-google-search-tool-will-distinguish-real-images-from-ai-generated-phonies.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Zendesk AI: Leveling up with generative AI for a more intuitive and intelligent CX platform"
+    excerpt: "Zendesk announced new AI capabilities including advanced CX bots, AI-powered assistance for human CX agents and intelligent triage."
+    publishedDateTime: 2023-05-10T15:01:00Z
+    webUrl: "https://venturebeat.com/ai/zendesk-ai-leveling-up-with-generative-ai-for-a-more-intuitive-and-intelligent-cx-platform/"
+    ampWebUrl: "https://venturebeat.com/ai/zendesk-ai-leveling-up-with-generative-ai-for-a-more-intuitive-and-intelligent-cx-platform/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/zendesk-ai-leveling-up-with-generative-ai-for-a-more-intuitive-and-intelligent-cx-platform/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 77
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2016/02/customer-experience-e1660171789318.jpg?w=1200&strip=all"
+        width: 1200
+        height: 781
+        isCached: true
+  - title: "Google’s Duet AI brings more generative features to Workspace apps"
+    excerpt: "After OpenAI’s ChatGPT caught the tech world off guard late last year, Google reportedly declared a “code red,” scrambling to plan a response to the new threat."
+    publishedDateTime: 2023-05-10T17:45:00Z
+    webUrl: "https://www.engadget.com/googles-duet-ai-brings-more-generative-features-to-workspace-apps-173944737.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 69
+    images:
+      - url: "https://s.yimg.com/uu/api/res/1.2/VEe7NhQRnwM.xJ36kN_Rfw--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-05/f93ba6b0-ef58-11ed-bffd-1d888782a206.cf.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "The AI takeover of Google Search starts now"
+    excerpt: "The future of Google Search is AI. But not in the way you think. The company synonymous with web search isn’t all in on chatbots (even though it’s building one, called Bard ), and it’s not redesigning its homepage to look more like a ChatGPT-style messaging system."
+    publishedDateTime: 2023-05-10T17:51:00Z
+    webUrl: "https://www.theverge.com/2023/5/10/23717120/google-search-ai-results-generated-experience-io"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 69
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/QQawoxSGsujkaqzq1e5nMDIBGdw=/0x0:2620x1500/1200x628/filters:focal(233x623:234x624)/cdn.vox-cdn.com/uploads/chorus_asset/file/24644238/SGE_Bluetooth_Speakers_v2.png"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Google Says Search Enters New Era With Conversational AI Features"
+    excerpt: "The company intends to use AI programs to provide lengthier replies to queries. The new features invite follow-up questions."
+    publishedDateTime: 2023-05-10T20:36:00Z
+    webUrl: "https://www.wsj.com/articles/google-says-search-enters-new-era-with-conversational-features-ca17f277"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
+    images:
+      - url: "https://images.wsj.net/im-779547/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Meet the New Google Search: AI-Generated Results Get Top Billing"
+    excerpt: "At I/O, Google previews the new 'Search Generative Experience,' which places AI-powered results atop traditional search results."
+    publishedDateTime: 2023-05-10T21:15:00Z
+    webUrl: "https://www.pcmag.com/news/meet-the-new-google-search-ai-generated-results-get-top-billing"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 67
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/02wpEEUQXRc8sreSn73b1Q1-1.fit_lim.size_1200x630.v1683749201.jpg"
+        width: 1120
+        height: 630
+        isCached: true
   - title: "The Boring Future of Generative AI"
     excerpt: "ChatGPT’s chaotic streak can be charming. Google’s new chat-style search shows text-generation technology is headed in a much tamer direction."
     publishedDateTime: 2023-05-11T16:00:00Z
@@ -153,172 +197,258 @@ related:
         width: 1280
         height: 670
         isCached: true
-  - title: "IBM Reveals New WatsonX"
-    excerpt: "International Business Machines Corp released Watsonx, a new AI and data tool to enable organizations to integrate AI into their business."
-    publishedDateTime: 2023-05-10T16:02:00Z
-    webUrl: "https://enterprisetalk.com/quick-bytes/ibm-reveals-new-watsonx/"
-    ampWebUrl: "https://enterprisetalk.com/quick-bytes/ibm-reveals-new-watsonx/amp/"
-    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/ibm-reveals-new-watsonx/amp/"
+  - title: "ChatGPT and Generative AI in Media and Advertising: With Use Cases Set, the Battle for Hearts and Minds Begins"
+    excerpt: "Generative AI can already do much of the work and low-skilled labor that powers modern media and advertising."
+    publishedDateTime: 2023-05-12T17:00:00Z
+    webUrl: "https://www.businessinsider.com/generative-ai-media-and-advertising-battle-for-hearts-use-cases-2023-may"
+    ampWebUrl: "https://www.businessinsider.com/generative-ai-media-and-advertising-battle-for-hearts-use-cases-2023-may?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/generative-ai-media-and-advertising-battle-for-hearts-use-cases-2023-may?amp"
     type: article
     provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 59
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 67
     images:
-      - url: "https://enterprisetalk.com/wp-content/uploads/2023/05/IBM-Reveals-New-WatsonX.jpg"
-        width: 1500
-        height: 844
+      - url: "https://i.insider.com/64402b373f6f690018de8d48?width=1200&format=jpeg"
+        width: 470
+        height: 352
         isCached: true
-  - title: "IBM: Remember Watson? It's Still Around, Ready to Give Your Business an AI Upgrade"
-    excerpt: "IBM has a new AI and data platform called Watsonx (Opens in a new window) aimed at making it easy for enterprises to take advantage of artificial intelligence. The name Watson fir"
-    publishedDateTime: 2023-05-09T13:03:00Z
-    webUrl: "https://www.pcmag.com/news/ibm-remember-watson-its-still-around-ready-to-give-your-business-an-ai"
+  - title: "Google’s Vertex AI machine learning platform gets generative AI tools"
+    excerpt: "The new updates to Google Cloud’s machine learning service will help the company square up against rivals such as Microsoft, AWS and IBM."
+    publishedDateTime: 2023-05-10T18:15:00Z
+    webUrl: "https://www.infoworld.com/article/3696208/google-s-vertex-ai-machine-learning-platform-gets-generative-ai-tools.html"
     type: article
     provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 58
-  - title: "IBM Think 2023: Watsonx Promises Enterprise AI At Scale With Trust"
-    excerpt: "Branden Voegerl, the IBM solutions director at Carmel, Ind.-based partner CleanSlate Technology Group, told CRN that AI has been coming up more in conversations with customers, including by those asking for AI tools with more security guardrails than that offered by ChatGPT, a text-generator program that has helped popularize generative AI."
-    publishedDateTime: 2023-05-09T13:33:00Z
-    webUrl: "https://www.crn.com/news/cloud/ibm-think-2023-watsonx-promises-enterprise-ai-at-scale-with-trust"
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 66
+  - title: "DDN Empowers Breakthroughs in Generative AI with Unprecedented Sales Growth"
+    excerpt: "DDN, the global leader in artificial intelligence (AI) and multi-cloud data management solutions, today announced that"
+    publishedDateTime: 2023-05-11T20:06:00Z
+    webUrl: "https://www.datanami.com/this-just-in/ddn-empowers-breakthroughs-in-generative-ai-with-unprecedented-sales-growth/"
     type: article
     provider:
-      name: CRN
-      domain: crn.com
-    quality: 58
-    images:
-      - url: "https://www.crn.com/resources/0281-17f8b0808f94-b4ed03592f04-1000/watsonx.jpeg"
-        width: 611
-        height: 457
-        isCached: true
-  - title: "Watson at IBM is getting a reboot with new name (WatsonX), more capabilities"
-    excerpt: "IBM is giving a big reboot to its \"Watson\" artificial intelligence suite, responding to aggressive moves and expansions being made by Microsoft, Google and other competitors while companies worldwide capitalize on opportunities being made by ChatGPT and more humanlike interactions."
-    publishedDateTime: 2023-05-09T11:26:00Z
-    webUrl: "https://wraltechwire.com/2023/05/09/watson-at-ibm-is-getting-a-reboot-with-new-name-watsonx-more-capabilities/"
-    ampWebUrl: "https://wraltechwire.com/2023/05/09/watson-at-ibm-is-getting-a-reboot-with-new-name-watsonx-more-capabilities/?amp=1"
-    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/05/09/watson-at-ibm-is-getting-a-reboot-with-new-name-watsonx-more-capabilities/?amp=1"
-    type: article
-    provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 56
-    images:
-      - url: "https://wraltechwire.com/wp-content/uploads/2023/05/biotech-cyborg-future-tech-e1683109824615.jpg"
-        width: 948
-        height: 532
-        isCached: true
-  - title: "IBM Unveils Watsonx Generative AI Platform"
-    excerpt: "Though long gone from the HPC systems business, IBM is asserting itself in the HPC-AI and generative AI markets with its announcement today of IBM watsonx, a genAI and data platform.  Announced at its annual Think conference in San Franciscolso,"
-    publishedDateTime: 2023-05-09T17:38:00Z
-    webUrl: "https://insidehpc.com/2023/05/ibm-unveils-watsonx-generative-ai-platform/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 56
-    images:
-      - url: "https://insidehpc.com/wp-content/uploads/2021/11/insideHPC_Guide_CDI_cover.png"
-        width: 300
-        height: 391
-        isCached: true
-  - title: "Redefining AI with watsonx: Highlights from IBM Think 2023"
-    excerpt: "Chairman and CEO Arvind Krishna address the attendees at the IBM Think event. (Source – IBM) At the annual Think conference, IBM presented watsonx, an AI platform set to boost AI use and scalability in any cloud setting."
-    publishedDateTime: 2023-05-11T04:01:00Z
-    webUrl: "https://techwireasia.com/2023/05/redefining-ai-with-watsonx-highlights-from-ibm-think-2023/"
-    type: article
-    provider:
-      name: techwireasia.com
-      domain: techwireasia.com
-    quality: 56
-    images:
-      - url: "https://cdn.techwireasia.com/wp-content/uploads/2023/05/arvind-897x500.jpg"
-        width: 897
-        height: 500
-        isCached: true
-  - title: "IBM unveils Watsonx, a tool to help companies integrate AI"
-    excerpt: "IBM has launched Watsonx, a new artificial intelligence and data platform to help companies integrate AI in their businesses."
-    publishedDateTime: 2023-05-09T10:43:00Z
-    webUrl: "https://techcentral.co.za/ibm-unveils-watsonx-a-tool-to-help-companies-integrate-ai/225387/"
-    type: article
-    provider:
-      name: TechCentral
-      domain: techcentral.co.za
+      name: datanami.com
+      domain: datanami.com
     quality: 54
     images:
-      - url: "https://techcentral.co.za/wp-content/uploads/2023/05/arvind-krishna-1500-800.jpg"
-        width: 1500
-        height: 800
+      - url: "https://www.datanami.com/wp-content/uploads/2020/06/DDN-Logo-Portrait-RGB-1-300x300-1-300x300.png"
+        width: 300
+        height: 300
         isCached: true
-  - title: "How IBM’s Watson X is Scripting the End of Business As We Know it"
-    excerpt: "Banking on its strength as an enterprise-focused company, and with many organisations already using its Watson chatbot, the company is looking to revive its former glory with this next-generation technology."
-    publishedDateTime: 2023-05-12T06:47:00Z
-    webUrl: "https://analyticsindiamag.com/how-ibms-watson-x-is-scripting-the-end-of-business-as-we-know-it/"
+  - title: "SymphonyAI collaborates with Microsoft Azure AI for generative AI"
+    excerpt: "SymphonyAI, a leader in high-value enterprise AI SaaS for strategic industries, announced today a strategic collaboration with Microsoft to enhance its portfolio of vertical AI software applications using Microsoft Azure AI,"
+    publishedDateTime: 2023-05-09T18:01:00Z
+    webUrl: "https://www.finextra.com/pressarticle/96754/symphonyai-collaborates-with-microsoft-azure-ai-for-generative-ai"
     type: article
     provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
+      name: Finextra
+      domain: finextra.com
+    quality: 49
+  - title: "Meta Joins Generative AI Race, Will Begin Testing AI-Powered Ads Tools to Create Content"
+    excerpt: "A select group of advertisers will be invited to experiment with the tools in a \"testing playground\" that Meta is calling the AI Sandbox."
+    publishedDateTime: 2023-05-12T06:49:00Z
+    webUrl: "https://www.gadgets360.com/internet/news/facebook-meta-announces-generative-ai-ads-tool-testing-artificial-intelligence-4027738"
+    ampWebUrl: "https://www.gadgets360.com/internet/news/facebook-meta-announces-generative-ai-ads-tool-testing-artificial-intelligence-4027738/amp"
+    cdnAmpWebUrl: "https://www-gadgets360-com.cdn.ampproject.org/c/s/www.gadgets360.com/internet/news/facebook-meta-announces-generative-ai-ads-tool-testing-artificial-intelligence-4027738/amp"
+    type: article
+    provider:
+      name: gadgets360
+      domain: gadgets360.com
+    quality: 48
+    images:
+      - url: "https://i.gadgets360cdn.com/large/meta_image_reuters_1654769238524.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Google Expected To Shake Up Search With New AI Products"
+    excerpt: "Google is expected to announce a more conversational version of its flagship search engine, fueled by artificial intelligence. The efforts to overhaul its search business with AI, set to be unveiled Wednesday at the company’s I/O conference in Mountain View,"
+    publishedDateTime: 2023-05-10T12:00:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-05-10/google-expected-to-shake-up-search-with-new-ai-products"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 47
+  - title: "Google Just Added Generative AI to Search"
+    excerpt: "Challenged by ChatGPT, the king of search launches a feature that can answer queries with text summarizing information found online."
+    publishedDateTime: 2023-05-10T17:59:00Z
+    webUrl: "https://www.wired.com/story/google-io-just-added-generative-ai-to-search/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 47
+  - title: "Be careful with Artificial Intelligence"
+    excerpt: "However, how do we actually use the words Artificial Intelligence? Surely we mean systems that think, not just data collect like ChatGPT, which common parlance says produces thoughtful output and is AI,"
+    publishedDateTime: 2023-05-10T07:57:00Z
+    webUrl: "https://www.gazetteseries.co.uk/news/23511487.careful-artificial-intelligence/"
+    type: article
+    provider:
+      name: Gazette Series
+      domain: gazetteseries.co.uk
+    quality: 41
+    images:
+      - url: "https://www.gazetteseries.co.uk/resources/images/16762960/?type=og-image"
+        width: 788
+        height: 630
+        isCached: true
+  - title: "IBM pins hybrid cloud strategy to generative AI play"
+    excerpt: "The machine learning pioneer joins AWS, Microsoft and Google in the race to deploy the latest iteration of large language model technology."
+    publishedDateTime: 2023-05-10T16:15:00Z
+    webUrl: "https://www.ciodive.com/news/IBM-watsonx-generative-AI-enterprise-models/649901/"
+    type: article
+    provider:
+      name: CIO Dive
+      domain: ciodive.com
     quality: 39
     images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/05/ibm.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://www.ciodive.com/imgproxy/U3Ekh9vEfsuA9PC710cRMu4GRXivm7aVs3eLMP0H3FE/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTUxNDA1MTUzLmpwZw.jpg"
+        width: 770
+        height: 435
         isCached: true
-  - title: "IBM debuts Watsonx product suite to streamline enterprise AI projects"
-    excerpt: "Watsonx was previewed at the company’s annual Think conference alongside several other new offerings. For its cloud platform, IBM is rolling out new compute options that provide access to graphics cards."
-    publishedDateTime: 2023-05-09T18:01:00Z
-    webUrl: "https://siliconangle.com/2023/05/09/ibm-debuts-watsonx-product-suite-streamline-enterprise-ai-projects/"
+  - title: "The Path Ahead for Generative AI"
+    excerpt: "The role of generative AI is rapidly evolving in education and in creating a vision of the society of the future."
+    publishedDateTime: 2023-05-10T07:37:00Z
+    webUrl: "https://www.insidehighered.com/opinion/blogs/online-trending-now/2023/05/10/path-ahead-generative-ai"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 34
-  - title: "IBM unveils Watsonx to bring generative AI to the enterprise"
-    excerpt: "The US tech giant is jumping into the generative AI market promising to \"power next generation foundation models\" for businesses. This week IBM announced"
-    publishedDateTime: 2023-05-10T11:35:00Z
-    webUrl: "https://www.techzine.eu/news/applications/105787/ibm-unveils-watsonx-to-bring-generative-ai-to-the-enterprise/"
-    type: article
-    provider:
-      name: techzine
-      domain: techzine.eu
-    quality: 34
-  - title: "IBM joins the AI race with WatsonX; will 'multiply impact' of artificial intelligence across businesses"
-    excerpt: "IBM, on Tuesday, announced its new WatsonX platform, which is an all-in-one AI building and integration tool for businesses. The iconic American multinational corporation, International Business Machines Corps (IBM) dipped its toes into artificial intelligence more than 10 years ago."
-    publishedDateTime: 2023-05-09T13:18:00Z
-    webUrl: "https://tech.hindustantimes.com/tech/news/ibm-joins-the-ai-race-with-watsonx-will-multiply-impact-of-artificial-intelligence-across-businesses-71683637877347.html"
-    type: article
-    provider:
-      name: Hindustan Times Tech
-      domain: hindustantimes.com
-    quality: 33
-  - title: "IBM Unveils the Watsonx Platform to Power Next-Generation Foundation Models for Business"
-    excerpt: "Watsonx is a new platform to be released for foundation models and generative AI, offering a studio, data store, and governance toolkit; New Watson products infused with foundatio"
-    publishedDateTime: 2023-05-09T11:44:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/05/09/9809872.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 30
+      name: Inside Higher Ed
+      domain: insidehighered.com
+    quality: 39
     images:
-      - url: "https://mma.prnewswire.com/media/2072303/IBM_Think_2023.jpg"
-        width: 400
-        height: 225
+      - url: "https://www.insidehighered.com/sites/default/files/2023-04/ihe-logo-web.png"
+        width: 600
+        height: 324
         isCached: true
-  - title: "IBM Introduces Watsonx Platform to Empower Next-Gen Foundation Models for Business Amid Rising Popularity of ChatGPT and Other LLMs"
-    excerpt: "The Watsonx platform, announced at IBM's annual Think conference, aims to enable enterprises to scale and accelerate the impact of advanced AI with trusted data. It offers a full technology stack that allows organizations to train,"
-    publishedDateTime: 2023-05-09T13:57:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/05/09/9810544.htm"
+  - title: "Google to revamp search with generative AI tools, but gradually"
+    excerpt: "The approach insulates Google from some of the ethical concerns surrounding generative AI. Read more at straitstimes.com."
+    publishedDateTime: 2023-05-11T01:52:00Z
+    webUrl: "https://www.straitstimes.com/world/united-states/google-to-revamp-search-with-generative-ai-tools-but-gradually"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 9
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 39
     images:
-      - url: "https://marketplace.connectwise.com/content/images/thumbs/0000635_skykick_550.png"
-        width: 550
-        height: 353
+      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2023/05/11/GOOGLEAI7.JPG?VersionId=reNH981AG40mKLjaJ4zZiHurml9tao66"
+        width: 860
+        height: 573
         isCached: true
+  - title: "Google Is Rolling the Dice With AI Search"
+    excerpt: "As AI answers fill our phone screens, what will become of the tech giant’s relationship with advertisers — or the truth?"
+    publishedDateTime: 2023-05-11T23:53:00Z
+    webUrl: "https://www.washingtonpost.com/business/2023/05/12/google-is-rolling-the-dice-with-ai-search/42a55c5a-f081-11ed-b67d-a219ec5dfd30_story.html"
+    type: article
+    provider:
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 39
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IH5Q43HQQEI63NT5UIM6YXP5GA.jpg&w=1440"
+        width: 1440
+        height: 958
+        isCached: true
+  - title: "Google adding AI to popular apps, search"
+    excerpt: "AI-generated responses will top the results pages, and allow users to ask follow-up questions. Google also plans to add a \"help me write\" option in its GMail that will generate replies to emails within seconds."
+    publishedDateTime: 2023-05-11T14:18:00Z
+    webUrl: "https://www.cbsnews.com/newyork/video/google-adding-ai-to-popular-apps-search/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 37
+    images:
+      - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/05/11/76c64e6b-6549-4c21-8823-8f3d1bf8f87a/thumbnail/1200x630/24eb6d37a456e6c3f266e2d621d2d54e/5ce48051e6594736cf61c54a5327ef5c.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Meta to start testing generative AI tools for advertisers"
+    excerpt: "The generative AI ad tool AI Sandbox is currently being released to a small group of advertisers and will see a bigger release in July."
+    publishedDateTime: 2023-05-13T07:57:00Z
+    webUrl: "https://www.afaqs.com/news/digital/meta-to-start-testing-generative-ai-tools-for-advertisers"
+    type: article
+    provider:
+      name: AFAQS
+      domain: afaqs.com
+    quality: 37
+    images:
+      - url: "https://gumlet.assettype.com/afaqs%2F2023-05%2F32d75038-49eb-43cb-91fe-9da8b8d51f58%2Fmedia_mantra__3_.png?rect=0%2C20%2C1280%2C672&w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Research Training Group is forging new paths in Artificial Intelligence"
+    excerpt: "A new Research Training Group (RTG) at Saarland University will develop approaches aimed at making Artificial Intelligence more trustworthy and comprehensible. The German Research Foundation will be funding the new RTG over the next five years with around €7."
+    publishedDateTime: 2023-05-10T11:46:00Z
+    webUrl: "https://idw-online.de/en/news814099"
+    type: article
+    provider:
+      name: idw
+      domain: idw-online.de
+    quality: 34
+  - title: "Google is throwing generative AI at everything"
+    excerpt: "But experts say that releasing these models into the wild before fixing their flaws could prove extremely risky for the company."
+    publishedDateTime: 2023-05-10T19:00:00Z
+    webUrl: "https://www.technologyreview.com/2023/05/10/1072880/google-is-throwing-generative-ai-at-everything/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 19
+  - title: "The creative use of generative AI in post-production"
+    excerpt: "Graham McGuinness at Jigsaw24 Media explains how AI is already helping post-production with creating technical grades and post-producing scripted content"
+    publishedDateTime: 2023-05-12T12:08:00Z
+    webUrl: "https://www.broadcastnow.co.uk/tech/the-creative-use-of-generative-ai-in-post-production/5181926.article"
+    type: article
+    provider:
+      name: Broadcast
+      domain: broadcastnow.co.uk
+    quality: 19
+  - title: "Creating Business Content With Artificial Intelligence"
+    excerpt: "Sometimes all it takes is a word or concept to get a writer \"unstuck.\" ChatGPT is a great tool to spark the infamous light bulb moment. Ask it for ideas generally related to the concept you are writing about."
+    publishedDateTime: 2023-05-09T14:44:00Z
+    webUrl: "https://www.inc.com/inc-masters/creating-business-content-with-artificial-intelligence.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 17
+  - title: "Scale AI unveils its full-stack generative AI platform"
+    excerpt: "Scale's Enterprise AI Platform will allow customers to get the benefits of large language models without having to send data out to a third-party AI company."
+    publishedDateTime: 2023-05-10T15:01:00Z
+    webUrl: "https://www.fastcompany.com/90893774/scale-ai-unveils-its-full-stack-generative-ai-platform"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 17
+  - title: "Google is giving its dominant search engine an AI makeover"
+    excerpt: "Google on Wednesday disclosed plans to infuse its dominant search engine with more advanced artificial-intelligence technology, a drive that's in response to one of the biggest threats to its long-established position as the internet's main gateway."
+    publishedDateTime: 2023-05-11T05:41:00Z
+    webUrl: "https://lasvegassun.com/news/2023/may/10/google-is-giving-its-dominant-search-engine-an-ai/"
+    type: article
+    provider:
+      name: Las Vegas Sun
+      domain: lasvegassun.com
+    quality: 17
+  - title: "The likely winners of the generative AI gold rush"
+    excerpt: "Small, specialist models that are cheap to train and fast to run may win out over the broader Big Tech offerings"
+    publishedDateTime: 2023-05-11T13:10:00Z
+    webUrl: "https://www.ft.com/content/0cbe91ec-0971-4ba6-bdf1-87855aedd34c"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 17
+  - title: "Educational Psychology Meets Generative AI"
+    excerpt: "Post by Dr. Andrew J. Martin, School of Education, University of New South Wales, Australia"
+    publishedDateTime: 2023-05-11T18:35:00Z
+    webUrl: "https://www.psychologytoday.com/us/blog/psyched/202305/educational-psychology-meets-generative-ai"
+    type: article
+    provider:
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 17
 
 secured: "pUsJ5nD3AqEV9H6dCH2CA2rIDFJUd5OgjPZndtuOButay2zf0Gb/9ULX4VLSXvXN+LhKPY1BGyzqafANkTF2I4Km/xCk3crgzbdWOi05M/ODQb0snzlIjADUTPblz5U+8heKYQq0Mk8y7P5MjvmnfW02ONOViMr+VeEEq9wrEtx3IqKhvV1WojX/mqSa5hCVxVS1LjpL0Fs9YsMZGa7/cOZGtfE80OtRQrTc7OEcy0vAFMLOci8qe3YFW/S14YMNNdAVFLsIH0EhF75TsTZxb/NtrirtKq4JwFZ/gUXLZP0FQq3x7QrqKry+RWyr3pbtjn8yEP0SOYkYas2uZ5o/IbfTfNzcUumKM0f0Oc6Lgf8usqy6qMdtkGh1aAf5AjEUc33HiC3uSRphKXNIpdS0GZLYqM80iczwymbhNP7UWVnYWmov5FzcD3Lmwe1CKGHPS9RGIxAx/cfBYQcAXeLF2zoIlG92bB3iBZlGGsRJwMX3KWJOQSf2UqGSUltJBaxCpPXIyO/cLvrcr9zcyhTyww==;HyVX9fxrDd5ScoiYAvaeTw=="
 ---

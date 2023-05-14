@@ -7,7 +7,7 @@ originalUrl: "https://www.reliableplant.com/Read/32349/condition-monitoring-anal
 webUrl: "https://www.reliableplant.com/Read/32349/condition-monitoring-analysis-in-age-of-machine-learning"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,22 +25,17 @@ images:
     isCached: true
 
 related:
-  - title: "How machine learning improves performance testing and monitoring"
-    excerpt: "Ever since digitalization took center stage, various new-age technologies have come to the fore and benefited sectors in a dramatic manner. Though the emergence has not only enticed humankind to embrace software and applications"
-    publishedDateTime: 2023-05-09T09:39:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-machine-learning-improves-performance-testing-and-monitoring/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-machine-learning-improves-performance-testing-and-monitoring/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/how-machine-learning-improves-performance-testing-and-monitoring/"
+  - title: "Era of conventional teaching is over, way forward is practical-based learning: PM Modi"
+    excerpt: "Prime Minister Narendra Modi on Friday stated that the era of teaching is over, now the way forward in education is only through learning"
+    publishedDateTime: 2023-05-12T10:55:00Z
+    webUrl: "https://www.thehindubusinessline.com/news/era-of-conventional-teaching-is-over-way-forward-is-practical-based-learning-pm-modi/article66842175.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/news/era-of-conventional-teaching-is-over-way-forward-is-practical-based-learning-pm-modi/article66842175.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/news/era-of-conventional-teaching-is-over-way-forward-is-practical-based-learning-pm-modi/article66842175.ece/amp/"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 59
-    images:
-      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2023/05/RaviPulle.jpg"
-        width: 576
-        height: 576
-        isCached: true
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 16
 
 secured: "0jlzkVw97YW9PrZQd+/pnMPN58u1xcNvUxWkn/AahoAkZWibHX0HiMHhDMDmvumolyyiXHiHcQFZQh1cWXLkiCBjR2ePHhQenecKjP7verEFYuw/dkwgatWKWrWwceFIR0eIrn37KsBdaczrH9y6xs7wOS1UMohknnYcpGHvl480mj/eSYayN8774wSDUqsU0U7J3dx1saPXWfDxMpMepV028VKbH1qc4D11RKWH58++SVRUWXOF3rIxqVvU64AvmL80/F05FH7GkiSDGik3f/5GPWVTw3KCVT8oNYLIEghg+/2/q/Vq+RzBpsGA7GO3rUbMBoAZfkSor9awN6enseNiI5KtjGSEmfiOiZqcDnn07RUuulXRJTToMfQkjQJRSfOwHplBrERdp0ZmgpcCT7Zd6nHgLDz+MRau9qj7mdMC1PX6ht+p+rnDpS/OpxrXaIt0dgyZ/t79ms5CqnuUMAHlcHrI8yqU0GLxLznPnq9K4YZOv+HweX6iYJHZTu1jdueLcGCYYOHjxii5aqhDkQ==;7apZn/lzznYlLF1H3zByjg=="
 ---

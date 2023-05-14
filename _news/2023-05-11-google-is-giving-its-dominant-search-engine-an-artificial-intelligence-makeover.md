@@ -43,14 +43,14 @@ related:
   - title: "Google giving its popular search engine an artificial-intelligence makeover"
     excerpt: "Google is ready to test the AI waters with its search engine and also unveiled the first foldable smartphone in its Pixel line-up at the I/O showcase."
     publishedDateTime: 2023-05-14T00:15:00Z
-    webUrl: "https://www.nwitimes.com/news/nation-world/business/google-giving-its-popular-search-engine-an-artificial-intelligence-makeover/article_cc7d4930-1616-55fb-a336-c328d04d1265.html"
+    webUrl: "https://madison.com/business/google-giving-its-popular-search-engine-an-artificial-intelligence-makeover/article_07a06df7-1648-5cfd-b535-8f1678a9a602.html"
     type: article
     provider:
-      name: The Times of Northwest Indiana
-      domain: nwitimes.com
+      name: Madison.com
+      domain: madison.com
     quality: 20
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/c/c7/cc7d4930-1616-55fb-a336-c328d04d1265/645d724540c89.preview.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+      - url: "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/0/7a/07a06df7-1648-5cfd-b535-8f1678a9a602/645d7241ca788.preview.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
         width: 1200
         height: 630
         isCached: true
@@ -64,6 +64,6 @@ related:
       domain: avclub.com
     quality: 17
 
-secured: "JDwtqfa6fxFAuq2TrSKqtHzigkK6hxyqyM9DUOZcW7xau4snDAYrMK7LJA2ehc0TF/7U4+pQOLHQWnD54QTFE8V85r0IFA+y6S7cxKxYIq82tz5XufL8xO0K3UxTUGkC+lCedsYX5eMr+r8ujm7Hp7KkKH91d82/Me4Fr3HlUvKrYU9utd2fS24qj1eiD8LIxjlDJWJFd6pQsjgdmxo0T2VInpFXHMoKHVEFY876QkzoFUXJLU5Jkke31Pbtykip0ytG4J3dalS5tpY5xBxbJDg3BK89d7TErRsQ7rwpIvNfachsAOZJ9EB5VbHJhAvbgxa7LSVMt2OTTOGEufVFYLpCMJcjZvlM5wfdifJGAnI=;B+FglE5lDsKi4Sru7q9mtg=="
+secured: "7RaUZwuoXCIJS4Neg5rZNfBITFLoRpRjog5UbBdZCu6K0BEB4tSM1udzki7GczlVm42Ocxif2dwDvQtvOiexvKvhcUfoYgdjy7tkRM7/4E2ftgrVVH+G8uYYPZryLYjQycLBGzlluR3CscFliFItySNvl4ZWQFN50z281KPUYKFOufgkD60DQCAt98/A7VFf6OIU5JjTGn7Q+ZBtH2vYQNRRL7lKTtwaf4apXqiIHIdA9/ZLL3Ajc6z52tP3YFwJMq6pnyTh2TGWzePb3kbVX2eT9nNyxfq8nOid0TkGfnAZ+vQCEt9OIi0xfkiWJTJQfyodRGkKa09gy5nLo3nIcac9R79mjpMbvpk+95btuOb9f2FgR/d8feRJri3eg2C3kQ95XQNNN0obxYTBBd3EQ5jWCu5x2KRoGKxTmnQKph1gqYdIHo8q6GDPJkToXFzQX3HTmu4JsHARMDbMYzbK9HHoOkyuG0tzCYE8YAdB9taDb+BSsAPqX/g2XMt9W0CXz97u4hAI26NL18ddoNdUew==;gOIPputLGkIcdPAts7AYEg=="
 ---
 

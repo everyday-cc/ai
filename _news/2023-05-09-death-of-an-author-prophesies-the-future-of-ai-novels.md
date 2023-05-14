@@ -54,6 +54,20 @@ related:
         width: 620
         height: 336
         isCached: true
+  - title: "The rise of human ingenuity in Artificial intelligence"
+    excerpt: "The neural network used in ChatGPT is composed of multiple layers of artificial neurons that work. In coherence together to understand the structure and patterns in language. The model is trained on a large corpus of text data, which it uses to learn the ..."
+    publishedDateTime: 2023-05-09T11:22:00Z
+    webUrl: "https://timesofindia.indiatimes.com/readersblog/anawrites98/the-rise-of-human-ingenuity-in-artificial-intelligence-53634/"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 41
+    images:
+      - url: "https://static.toiimg.com/photo/75476733.cms"
+        width: 640
+        height: 360
+        isCached: true
 
 secured: "qlkQpEu8h5K+O1kFJT5xIyPtXYzdbM84EP19Wx7vL4VhZPDmXv+Lu5eWjXJ7deMfFy5D/4wDnkI9jppXIGuzv+IJbv9LJfP9CAjALY6CixUJiCw1Rti6GkKdWLgdI+fkKhNPwr8UoEYCfhjkVn48swKFj47Po0+ziPB3MXmg1RB4x2fzwwTmD9+m66rjiOW4fn4YXiPPgPVB+2GWcMnTU6ivouKQlpCQrmWYIYMJbCDXlaoTsprLBum8echbKUwFQaDje/TLd+rsTEoQlXgLeHI2Z0APkHIYMiHoul2DcQMt6ajwuUIpoCPydj3zAeXzyP4cCHrQ3WGKKEt3H2QbizGBKsRzriBl2Xtv5BTrDBfq2mtB+Z6LgaVn+HWvY9o4yvh2RMxIWAK3Rk/7M+Yucjv4gLG41QYAj+zk3cTzfRN1vffIyywOYJWyfaMXKNCJ6bcNaNG5IdQpvJn1Gt3QxV/MLKvuYKXPWEU+uSuSbo1iaEt9l51KRn1Pk3FRNwcOgDVYGoKq40fd/tS8RHt1Kw==;LoWIwmpgkk816NXcSQa+MA=="
 ---

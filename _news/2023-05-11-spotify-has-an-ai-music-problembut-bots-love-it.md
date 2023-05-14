@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/story/spotify-ai-music-robot-listeners/amp"
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/spotify-ai-music-robot-listeners/amp"
 type: article
 quality: 87
-heat: 107
+heat: 108
 published: true
 
 provider:

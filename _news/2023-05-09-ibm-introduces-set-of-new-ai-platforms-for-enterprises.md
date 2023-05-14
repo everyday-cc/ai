@@ -24,6 +24,22 @@ images:
     height: 400
     isCached: true
 
+related:
+  - title: "IBM to Help Businesses Scale AI Workloads for All Data, Anywhere"
+    excerpt: "IBM today announced the coming launch of IBM watsonx.data, a data store built on an open lakehouse architecture, to help enterprises easily"
+    publishedDateTime: 2023-05-09T17:14:00Z
+    webUrl: "https://www.datanami.com/this-just-in/ibm-to-help-businesses-scale-ai-workloads-for-all-data-anywhere/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 39
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2023/02/AI-North-America23.png"
+        width: 1664
+        height: 674
+        isCached: true
+
 secured: "9lJcGU/A3XeYbBRuVUSX0W7G72GENsoUBof2c40xSQyviRteLnhU2pby0g4wAskqapXZ+MgcNiOo/KmqPgIzlhCHkBSktyjeaDeAGX/8lPz+G7dq3jlasZ+Pa3Y8tRfcmX/xjl2LjEuehA/eXIIj52y0feqRxFUao7iaLknRBIOGK7UrB5fiiPp5XdpCEE6uuhO5C/+kLP5g2C3DxxQfC6QCb+/k8i+cX09727LRhV2BV2nP/k8KNEogs7y67CsFkoSL1dTswXGDjJ/P7Pp3P97DjbX/nBTdxnHUO2LIeyzHDhHcm+haXhP5czgGWojqhyjZS/q9PXH0vIIrQTpjeEQLW5tKn2XdwnbBD2EwRyumvk73xB13WLY5c/FIK6XoLqprMy+dS2dsZnJ54/vrre3sRAPn0Y9KcooqXRXX3XzIvU0t0WsW4AWjtWurELhjQL2uE+YVMKOfYb3M3rHTtpXGf81sEx3OM8Zxcvgxujmr46f5KkjU+YKwbDRpt+u3vFtXuXi6Ob+SfENFPa8VHw==;HFtnQJbzmmR28GMQIbi89Q=="
 ---
 

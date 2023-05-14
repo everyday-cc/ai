@@ -24,17 +24,6 @@ images:
     height: 630
     isCached: true
 
-related:
-  - title: "Artificial intelligence: Is it our friend, our foe or both?"
-    excerpt: "A whole new thing to worry about has just arrived. It joins a list of existential concerns for the future, along with global warming, the wobbling of democracy, the relationship with China, the national debt,"
-    publishedDateTime: 2023-05-09T09:27:00Z
-    webUrl: "https://lasvegassun.com/news/2023/may/09/artificial-intelligence-is-it-our-friend-our-foe-o/"
-    type: article
-    provider:
-      name: Las Vegas Sun
-      domain: lasvegassun.com
-    quality: 19
-
 secured: "GtbGU8L+TpFXjT4RMK9EAgc0ly5P8VH49MrDorFjoBACdDQf/vKYU8o+GFRBbxLSym7KdvUSUWT4DzDAUAVIZ1VnAdK7L/P4dwIx6Y9lDSxEPXhZQAIQlplJKQ+iAb5W674axR2uksYMc/h9M4r4PN23SwsVE027mnIHEJJJKlE0QWBKa7MGIqGmmYJBNPZ+WLftJqfXNRIbCWqgyw33PXe26vKoWPGhb+eVnx8pWl7yrIPxLj6NsxleFhdo94M/zQ4bnhl6q66filuA39qAuET28z2qETd57RPbARs22VZ6xaMF4SwTLtqHWwTtDMzYDlR7mtr3lsGxbArnIBpyEawbPMUFoPsUkEW/ZEzU4aC96aAI74oRt6qG+9QP7Vg8MgzvWoxvcXvxqFEAqquJitOvGR/H7ZXZcZoFBzP1eQk83YPb9vzIGGU0QyAGyK6bT84CfUdlxmFgbM044fwOWeF6MvZQlhc//7gH3AT8u75wg87/AqkijSbr8qfs5I6moOVGi5ZXLvNwns1H0VGqBg==;8ZyTMvB0rhKVC4Y/IpRE4A=="
 ---
 
