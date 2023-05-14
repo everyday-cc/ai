@@ -171,6 +171,22 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
+  - title: "ChatGPT: The game-changing AI-language model and its implications on enterprise automation"
+    excerpt: "ChatGPT has gained global attention and recognition, yet its impact on enterprise automation remains an area not fully explored. Analyzing it from the standpoint of intelligent automation can reveal its potential impact on the"
+    publishedDateTime: 2023-05-14T10:03:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/chatgpt-the-game-changing-ai-language-model-and-its-implications-on-enterprise-automation/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/chatgpt-the-game-changing-ai-language-model-and-its-implications-on-enterprise-automation/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/chatgpt-the-game-changing-ai-language-model-and-its-implications-on-enterprise-automation/"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 49
+    images:
+      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/08/Sanjeev-Menon.png"
+        width: 573
+        height: 413
+        isCached: true
   - title: "UAE: New Chatgpt AI Assistant To Help Plan Visits To Yas Island"
     excerpt: "Visitors to Abu Dhabi's Yas Island can now get personalised guidance and information about the latest offerings through an AI assistant. Miral, the leading creator of immersive destinations and experiences based in Abu Dhabi,"
     publishedDateTime: 2023-05-09T19:34:00Z
@@ -221,6 +237,20 @@ related:
       - url: "https://techbullion.com/wp-content/uploads/2023/05/Chatgpt-full-form.png"
         width: 860
         height: 430
+        isCached: true
+  - title: "ChatGPT on Mars: How AI can help scientists study the Red Planet"
+    excerpt: "Steve Ruff, associate research professor at Arizona State University's School of Earth and Space Exploration in Tempe, Arizona, is keenly tied to studying Mars."
+    publishedDateTime: 2023-05-14T10:00:00Z
+    webUrl: "https://www.space.com/artificial-intelligence-chatgpt-mars"
+    type: article
+    provider:
+      name: Space.com
+      domain: space.com
+    quality: 37
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/B6gVBJ4kwYSsESKTc9XXNK-1200-80.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "How To Write Code With ChatGPT"
     excerpt: "According to Botpress, OpenAI built ChatGPT using three core programming languages: Python, PyTorch, and TensorFlow. Also, it used other languages for additional frameworks, including, Gensim, NLTK, OpenNMT-py, and spaCy. The AI program also uses libraries ..."

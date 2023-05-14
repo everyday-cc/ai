@@ -7,7 +7,7 @@ originalUrl: "https://www.lrytas.lt/english/feature/2023/05/10/news/how-artifici
 webUrl: "https://www.lrytas.lt/english/feature/2023/05/10/news/how-artificial-intelligence-is-revolutionising-the-fintech-landscape--26994790"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,57 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "4 AI-powered platforms reshaping the Czech FinTech space"
-    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
-    publishedDateTime: 2023-05-10T04:20:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/4-ai-powered-firms-reshaping-the-fintech-space-in-czech-republic/"
+  - title: "‘As big as the invention of the camera’: How AI will revolutionise cinema"
+    excerpt: "Recent advances in AI create the possibility of removing any, most or even all humans from a film’s creative process: as well as writing scripts, it can airbrush actors’ blemishes, clean up their dialogue,"
+    publishedDateTime: 2023-05-10T14:50:00Z
+    webUrl: "https://inews.co.uk/culture/film/ai-saviour-cinema-biggest-threat-2328231?ico=more_from_Culture"
     type: article
     provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 39
+      name: i
+      domain: inews.co.uk
+    quality: 38
     images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2023/05/Artificial-Intelligence-1.jpg"
-        width: 300
-        height: 300
-        isCached: true
-  - title: "Fintech Benchmarks 2023 – presentation"
-    excerpt: "This year the tension between new forms of digital money and who has the authority to issue it came to the fore of the Fintech Benchmarks 2023. The majority of central banks – 73% – said keeping up with regulating the use of new fintech products and services is their key challenge."
-    publishedDateTime: 2023-05-11T10:32:00Z
-    webUrl: "https://www.centralbanking.com/benchmarking/fintech/7958702/fintech-benchmarks-2023-presentation"
-    type: article
-    provider:
-      name: Central Banking
-      domain: centralbanking.com
-    quality: 24
-    images:
-      - url: "https://www.centralbanking.com/sites/default/files/styles/metatag_image_large/public/2023-05/Fintech-Benchmarks-2023-GMP-banner.jpg?h=96b01c87&itok=xTnnpaDF"
+      - url: "https://wp.inews.co.uk/wp-content/uploads/2023/05/SEI_155244432.jpg?crop=83px%2C0px%2C2334px%2C1318px&resize=1200%2C675"
         width: 1200
-        height: 743
+        height: 675
         isCached: true
-  - title: "Tricolor Wins Fintech Nexus Award for Excellence in Financial Inclusion"
-    excerpt: "Tricolor Holdings today announced that it has been named the Fintech Nexus Award winner for Excellence in Financial Inclusion. Given to the financial services company making the biggest difference in expanding access to financial services for the underserved population,"
-    publishedDateTime: 2023-05-11T13:15:00Z
-    webUrl: "https://financialit.net/news/treasury/tricolor-wins-fintech-nexus-award-excellence-financial-inclusion"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 24
-    images:
-      - url: "https://financialit.net/sites/default/files/tricolor_3.png"
-        width: 1366
-        height: 768
-        isCached: true
-  - title: "Investors want AI-powered advisors, and fintechs race to meet demand"
-    excerpt: "Investors are bullish on financial advisors using AI and fintech companies are racing to fill meet the demand."
-    publishedDateTime: 2023-05-12T18:30:00Z
-    webUrl: "https://www.investmentnews.com/investors-want-ai-powered-advisors-and-fintechs-race-to-meet-demand-237553"
-    type: article
-    provider:
-      name: InvestmentNews
-      domain: investmentnews.com
-    quality: 19
 
 secured: "ahNMukXvewyv7TbjtAmXJz3f9nap6F65D2guVAQd6i3rwYrJJIlQh8iWNVROm8XdKpV66pcbs7I8gmMr7K1e0BV4Frh+WVwxVLFDwemuCxl9P6pVdKH3BlBMRTuDAvQeEXl4U3iQGctflhUmpI5aQVuobJYGBWWv6TEhD8KF3HysY8ChHtXQyVwisYhdqJP02n1kX9/X55TIwwJS1SbOPPMzC8XiIPoJ4dVFxTjEZ+ANOosFgJ3i7Qi25KUlbK4icidBGXtnA8uvKfAyWRFboQSeA7iSUII8e+0ztmX7TlCN4UH79kkxtqWKJ8+xMhldxPeawuHgrEPlpD587GFa+pdv+7g4/jeKMZ6Pg+t1FSt7QUmtO1Y+FbwVhdAiwZmKnxi2YIwzpB2qtV/A7vVvZ2XBf+h+dYRLyi5E7HbyYTy3yJno7knxOgfCd4JeO6JMTm46ZQMmttLeaI1zCmk2mKbHZ2VNaFGo2DRsWGjwNIcNb6m1V75n+ANU8LFUFLd+wzw1S9IeGUOWVvAhnXnt4g==;yaM+6703qFbyQlTJ7I41vg=="
 ---

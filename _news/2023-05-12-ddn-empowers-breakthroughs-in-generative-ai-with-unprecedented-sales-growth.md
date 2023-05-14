@@ -217,15 +217,6 @@ related:
       name: InfoWorld
       domain: infoworld.com
     quality: 66
-  - title: "SymphonyAI collaborates with Microsoft Azure AI for generative AI"
-    excerpt: "SymphonyAI, a leader in high-value enterprise AI SaaS for strategic industries, announced today a strategic collaboration with Microsoft to enhance its portfolio of vertical AI software applications using Microsoft Azure AI,"
-    publishedDateTime: 2023-05-09T18:01:00Z
-    webUrl: "https://www.finextra.com/pressarticle/96754/symphonyai-collaborates-with-microsoft-azure-ai-for-generative-ai"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 49
   - title: "Meta Joins Generative AI Race, Will Begin Testing AI-Powered Ads Tools to Create Content"
     excerpt: "A select group of advertisers will be invited to experiment with the tools in a \"testing playground\" that Meta is calling the AI Sandbox."
     publishedDateTime: 2023-05-12T06:49:00Z

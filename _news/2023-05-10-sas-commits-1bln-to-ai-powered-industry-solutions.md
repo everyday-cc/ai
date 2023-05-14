@@ -9,8 +9,8 @@ ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/sas-commits-1b
 cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/sas-commits-1bln-to-ai-powered-industry-solutions-ru5q37hj?amp=1"
 type: article
 quality: 59
-heat: 89
-published: true
+heat: 69
+published: false
 
 provider:
   name: Zawya
@@ -41,24 +41,6 @@ related:
         width: 1664
         height: 674
         isCached: true
-  - title: "SAS commits $1B to AI-powered industry solutions"
-    excerpt: "Multiyear investment will fuel cloud-first solutions across numerous industries. ORLANDO, Fla., May 9, 2023 /CNW/ -- SAS INNOVATE -- SAS, the leader in analytics, will invest $1 b"
-    publishedDateTime: 2023-05-09T18:23:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/05/09/9810699.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
-  - title: "SAS to spend $1 billion on AI as global tech race heats up"
-    excerpt: "Cary-based SAS will pour huge sums into advancing its artificial intelligence platforms in order to keep up with other tech giants."
-    publishedDateTime: 2023-05-09T18:00:00Z
-    webUrl: "https://www.bizjournals.com/triangle/inno/stories/news/2023/05/09/sas-to-spend-one-billion-global-ai-race-heats-up.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 19
 
 secured: "mroCFsPw7VQzF2lFcglognPGJ/FWr6yteHsKGDvHKeGdwtfwLD3lVYSbdpTZ/yQB4PLyID60BZkZM/eWsj5hNftT8m3MUTmf96HOchiNL0Wb5/q0C0qpGWvOwfFqbE8nAmlCgFWqMt12eIHt871hNVwk6o/pDVdD/dgrVPG/lDn/qOJL0TRjovvq3PxT9wCOaStJ9LDe20ytPdx1dnH6zzkaX+lrb/37IVA7qG6OWCOXs8hDzTflQe12PxdqNHGhQIV+PeR6sTP0BZ7/3SgnN5bHsO9kek4GuzWJGODJNF36O73AsuokPfWuBkMG62yIDQxyZ+qNtIxmqSfxXJisgXmKXVFwnl8bPBWG0ri34w8=;fSTvG2iy2t1WAoTqzZdsmA=="
 ---

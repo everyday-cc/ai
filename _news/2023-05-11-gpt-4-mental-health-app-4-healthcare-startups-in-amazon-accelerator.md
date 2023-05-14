@@ -24,17 +24,6 @@ images:
     height: 600
     isCached: true
 
-related:
-  - title: "Chicago mental health app Stigma selected for Amazon accelerator"
-    excerpt: "A Chicago startup has been named to one of Amazon's coveted accelerators. Here's what the company hope to get out of it."
-    publishedDateTime: 2023-05-09T18:06:00Z
-    webUrl: "https://www.bizjournals.com/chicago/inno/stories/news/2023/05/09/stigma-amazon-accelerator.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 4
-
 secured: "91aiaRdAu3R/lcxnSzU97usIeEvM+xEKOtaqlIUQwicQwTNPi78xwOz7sa40LdoyhUdJGtF8wi6SW6td+qB8CRp/+QZSXQ8JofKPZrUbeow3N8oy+0i68GoGDvtlCRKxpmP7ZVJOv4DdUNyIcd+Nu2oa6blBYV5SYvvppdj+RBcRegBOFYgpMTOsyIxSE6xVLo1TTfhSh+PeWE1DhYJccQp7/K+9BiKtrHo8VpG9Q4e/o3WHektQEnS6sn6Sr6LtELqqqzC0E7P3OzEQPJ4BYCrwpnYEi1Oo13bK9K/23f5ulqcl6NLCSepQklkxK9uWyXvli2ZKrz8CDOTZnQ+RcATcdFuemczXmwKO2hlqwVU=;ghOC0rpKABy2plQ98BKFDQ=="
 ---
 

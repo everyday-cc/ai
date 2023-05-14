@@ -612,49 +612,6 @@
       ]
     },
     {
-      "path": "_news/2023-05-10-sas-commits-1bln-to-ai-powered-industry-solutions.md",
-      "title": "SAS commits $1bln to AI-powered industry solutions",
-      "excerpt": "All industry solutions will run on SAS® Viya®, SAS’ cloud-native, massively parallel AI and analytics platform. “Businesses face many challenges, from the threat of economic recession and stressed supply chains to workforce shortages and regulatory changes,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zawya.com/en/press-release/companies-news/sas-commits-1bln-to-ai-powered-industry-solutions-ru5q37hj",
-      "originalUrl": "https://www.zawya.com/en/press-release/companies-news/sas-commits-1bln-to-ai-powered-industry-solutions-ru5q37hj",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.zawya.com/view/acePublic/alias/contentid/YTk5NGRiNWYtZTMyMi00/0/tailoredsolutions-jpg.jpeg?f=3%3A2",
-          "width": 799,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zawya.com/en/press-release/companies-news/sas-commits-1bln-to-ai-powered-industry-solutions-ru5q37hj?amp=1",
-      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/sas-commits-1bln-to-ai-powered-industry-solutions-ru5q37hj?amp=1",
-      "publishedDateTime": "2023-05-10T00:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-05-10-global-artificial-intelligence-robotics-market-2023-2030-understanding-the-impact-of-trend-and-technology.md",
       "title": "Global Artificial Intelligence Robotics Market [2023-2030] | Understanding the Impact of Trend and Technology",
       "excerpt": "Global “Artificial Intelligence Robotics Market” (2023-2030) research report provides key analysis on the market status",
@@ -862,7 +819,7 @@
       "originalUrl": "https://www.forbes.com/sites/bernardmarr/2023/05/10/15-amazing-real-world-applications-of-ai-everyone-should-know-about/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -1203,6 +1160,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-10-specific-training-can-help-computer-vision-models-learn-like-humans-study.md",
+      "title": "Specific training can help computer vision models learn like humans: Study",
+      "excerpt": "MIT researchers have discovered that a specific training method can help computer vision models learn more perceptually straight representations, like humans do. Training involves showing a machine-learning model millions of examples so it can learn a task.",
+      "sourceUrl": null,
+      "webUrl": "https://www.devdiscourse.com/article/science-environment/2445976-specific-training-can-help-computer-vision-models-learn-like-humans-study",
+      "originalUrl": "https://www.devdiscourse.com/article/science-environment/2445976-specific-training-can-help-computer-vision-models-learn-like-humans-study",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/10_05_2023_00_57_45_5641496.jpg?width=1280",
+          "width": 1280,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.devdiscourse.com/article/science-environment/2445976-specific-training-can-help-computer-vision-models-learn-like-humans-study?amp",
+      "cdnAmpWebUrl": "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/science-environment/2445976-specific-training-can-help-computer-vision-models-learn-like-humans-study?amp",
+      "publishedDateTime": "2023-05-09T18:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "devdiscourse",
+        "domain": "devdiscourse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
         "AI"
       ]
     },

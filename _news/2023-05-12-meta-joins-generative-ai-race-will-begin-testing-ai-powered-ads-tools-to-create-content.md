@@ -231,15 +231,6 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "SymphonyAI collaborates with Microsoft Azure AI for generative AI"
-    excerpt: "SymphonyAI, a leader in high-value enterprise AI SaaS for strategic industries, announced today a strategic collaboration with Microsoft to enhance its portfolio of vertical AI software applications using Microsoft Azure AI,"
-    publishedDateTime: 2023-05-09T18:01:00Z
-    webUrl: "https://www.finextra.com/pressarticle/96754/symphonyai-collaborates-with-microsoft-azure-ai-for-generative-ai"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 49
   - title: "Google Expected To Shake Up Search With New AI Products"
     excerpt: "Google is expected to announce a more conversational version of its flagship search engine, fueled by artificial intelligence. The efforts to overhaul its search business with AI, set to be unveiled Wednesday at the company’s I/O conference in Mountain View,"
     publishedDateTime: 2023-05-10T12:00:00Z

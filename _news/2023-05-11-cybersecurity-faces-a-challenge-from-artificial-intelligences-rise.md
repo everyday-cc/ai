@@ -7,7 +7,7 @@ originalUrl: "https://www.washingtonpost.com/technology/2023/05/11/hacking-ai-cy
 webUrl: "https://www.washingtonpost.com/technology/2023/05/11/hacking-ai-cybersecurity-future/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,17 +22,6 @@ images:
     width: 1440
     height: 960
     isCached: true
-
-related:
-  - title: "VentureBeat Q&A: How Airgap CEO Ritesh Agrawal created an innovative cybersecurity startup"
-    excerpt: "CEO and cofounder of cybersecurity startup Airgap Networks talks innovation, zero trust, OT threats, and Airgap's new AI-assisted ThreatGPT."
-    publishedDateTime: 2023-05-09T18:02:00Z
-    webUrl: "https://venturebeat.com/security/venturebeat-qa-how-airgap-ceo-ritesh-agrawal-created-an-innovative-cybersecurity-startup/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 37
 
 secured: "2Lkhl+heS1SiGoEPzbv6FpiCuaml2yBW8fE/+8oRpqxoFdSAGFayyFAg2tKiN38em0yYODQaI33zNu2YoLOojUELzM1KOsq4W43STwtjt89wHVBz1ZJH6sAvWMatqlvqZM9K7YJE3CV6VtrsKcbMNZHLxgE/QU3RNVTCoM605FS/YgxJkERAlNNr01aEl+EpksAbM7+6/ZxxN/u1UdsMjIu2fE4+3rZ86gUIR5pfLvArFzf7NjrIxVkJlHDBbzAYzano82tttTtujkQu13i780uPoTayWV/yCpQ/VCUPusFYQWLq6cKmWAK27x+eB8uogtwj8GSor80kjSpxPq881tQng0ZKm83tUKLD2KbV3iM=;bjIgdX/Z2Zbfc4kntQcgWQ=="
 ---

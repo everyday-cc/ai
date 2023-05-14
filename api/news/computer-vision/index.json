@@ -201,6 +201,49 @@
       ]
     },
     {
+      "path": "_news/2023-05-10-specific-training-can-help-computer-vision-models-learn-like-humans-study.md",
+      "title": "Specific training can help computer vision models learn like humans: Study",
+      "excerpt": "MIT researchers have discovered that a specific training method can help computer vision models learn more perceptually straight representations, like humans do. Training involves showing a machine-learning model millions of examples so it can learn a task.",
+      "sourceUrl": null,
+      "webUrl": "https://www.devdiscourse.com/article/science-environment/2445976-specific-training-can-help-computer-vision-models-learn-like-humans-study",
+      "originalUrl": "https://www.devdiscourse.com/article/science-environment/2445976-specific-training-can-help-computer-vision-models-learn-like-humans-study",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/10_05_2023_00_57_45_5641496.jpg?width=1280",
+          "width": 1280,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.devdiscourse.com/article/science-environment/2445976-specific-training-can-help-computer-vision-models-learn-like-humans-study?amp",
+      "cdnAmpWebUrl": "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/science-environment/2445976-specific-training-can-help-computer-vision-models-learn-like-humans-study?amp",
+      "publishedDateTime": "2023-05-09T18:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "devdiscourse",
+        "domain": "devdiscourse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-10-2030-ai-in-computer-vision-market-growth-future-prospects-and-competitive-analysis.md",
       "title": "2030, AI in Computer Vision Market Growth | Future Prospects and Competitive Analysis",
       "excerpt": "The \"AI in Computer Vision Market\" is one of the sectors that is expanding the fastest, thus it is crucial for players",
@@ -1357,58 +1400,6 @@
         "name": "insidebigdata.com",
         "domain": "insidebigdata.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-28-ballooning-ai-driven-facial-recognition-industry-sparks-concern-over-bias-privacy-you-are-being-identified.md",
-      "title": "Ballooning AI-driven facial recognition industry sparks concern over bias, privacy: ‘You are being identified'",
-      "excerpt": "A significant expansion in Artificial intelligence (AI) facial recognition technology is increasingly being deployed to catch criminals, but experts express concern about the impact on personal ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/ballooning-ai-driven-facial-recognition-industry-concern-bias-privacy-being-identified",
-      "originalUrl": "https://www.foxnews.com/media/ballooning-ai-driven-facial-recognition-industry-concern-bias-privacy-being-identified",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2022/10/340/340/32c1b574-IMG_0282_Facetune_12-01-2022-10-53-23.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/ballooning-ai-driven-facial-recognition-industry-concern-bias-privacy-being-identified.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/ballooning-ai-driven-facial-recognition-industry-concern-bias-privacy-being-identified.amp",
-      "publishedDateTime": "2023-04-28T06:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

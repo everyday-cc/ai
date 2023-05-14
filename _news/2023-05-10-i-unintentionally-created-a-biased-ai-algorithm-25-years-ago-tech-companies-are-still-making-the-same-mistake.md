@@ -7,7 +7,7 @@ originalUrl: "https://thegrio.com/2023/05/10/i-unintentionally-created-a-biased-
 webUrl: "https://thegrio.com/2023/05/10/i-unintentionally-created-a-biased-ai-algorithm-25-years-ago-tech-companies-are-still-making-the-same-mistake/"
 type: article
 quality: 1
-heat: -1
+heat: 1
 published: false
 
 provider:
@@ -20,22 +20,6 @@ topics:
   - AI Ethics
 
 related:
-  - title: "Viewpoint: I unintentionally created a biased AI algorithm 25 years ago—tech companies are still making the same mistake"
-    excerpt: "I unintentionally created a racially biased artificial intelligence algorithm. There are lessons in that story that resonate even more strongly today."
-    publishedDateTime: 2023-05-09T17:38:00Z
-    webUrl: "https://techxplore.com/news/2023-05-viewpoint-unintentionally-biased-ai-algorithm.html"
-    ampWebUrl: "https://techxplore.com/news/2023-05-viewpoint-unintentionally-biased-ai-algorithm.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-05-viewpoint-unintentionally-biased-ai-algorithm.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 34
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2023/i-unintentionally-crea.jpg"
-        width: 1000
-        height: 670
-        isCached: true
   - title: "I unintentionally created a biased AI algorithm 25 years ago, and tech companies haven’t learned from my mistake"
     excerpt: "How and why do well-educated, well-intentioned scientists produce biased AI systems? Sociological theories of privilege provide one useful lens."
     publishedDateTime: 2023-05-12T04:03:00Z

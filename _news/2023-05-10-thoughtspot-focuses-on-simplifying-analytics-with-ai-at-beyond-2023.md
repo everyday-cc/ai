@@ -101,15 +101,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 57
-  - title: "AI and advanced analytics drive sustainability and efficiency"
-    excerpt: "City of Istanbul and Wienerberger Group reduce emissions and optimize operations with SASORLANDO, Fla., May 9, 2023 /PRNewswire/ -- SAS INNOVATE"
-    publishedDateTime: 2023-05-09T18:26:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ai-and-advanced-analytics-drive-sustainability-and-efficiency-1032308266"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
   - title: "Boston’s Leading AI Image Analytics Startup Named to Leading 100 List of 2023"
     excerpt: "The Lead has announced The Leading 100 of 2023, the highly anticipated annual research list recognizing the innovative tech startups driving the future of brand-to-consumer, … Continue Reading →"
     publishedDateTime: 2023-05-11T13:10:00Z

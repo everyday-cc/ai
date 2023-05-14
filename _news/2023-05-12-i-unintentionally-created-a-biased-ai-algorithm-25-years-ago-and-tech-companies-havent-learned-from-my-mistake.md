@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Viewpoint: I unintentionally created a biased AI algorithm 25 years ago—tech companies are still making the same mistake"
-    excerpt: "I unintentionally created a racially biased artificial intelligence algorithm. There are lessons in that story that resonate even more strongly today."
-    publishedDateTime: 2023-05-09T17:38:00Z
-    webUrl: "https://techxplore.com/news/2023-05-viewpoint-unintentionally-biased-ai-algorithm.html"
-    ampWebUrl: "https://techxplore.com/news/2023-05-viewpoint-unintentionally-biased-ai-algorithm.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-05-viewpoint-unintentionally-biased-ai-algorithm.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 34
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2023/i-unintentionally-crea.jpg"
-        width: 1000
-        height: 670
-        isCached: true
   - title: "I unintentionally created a biased AI algorithm 25 years ago – tech companies are still making the same mistake"
     excerpt: "Biased AI systems can still be created unintentionally and easily. It’s also clear that the bias in these systems can be harmful, hard to detect and even harder to eliminate."
     publishedDateTime: 2023-05-10T12:47:00Z

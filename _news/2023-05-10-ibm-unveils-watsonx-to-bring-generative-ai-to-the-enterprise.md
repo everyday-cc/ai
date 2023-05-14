@@ -60,20 +60,6 @@ related:
         width: 1500
         height: 844
         isCached: true
-  - title: "IBM Unveils Watsonx Generative AI Platform"
-    excerpt: "Though long gone from the HPC systems business, IBM is asserting itself in the HPC-AI and generative AI markets with its announcement today of IBM watsonx, a genAI and data platform.  Announced at its annual Think conference in San Franciscolso,"
-    publishedDateTime: 2023-05-09T17:38:00Z
-    webUrl: "https://insidehpc.com/2023/05/ibm-unveils-watsonx-generative-ai-platform/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 56
-    images:
-      - url: "https://insidehpc.com/wp-content/uploads/2021/11/insideHPC_Guide_CDI_cover.png"
-        width: 300
-        height: 391
-        isCached: true
   - title: "Redefining AI with watsonx: Highlights from IBM Think 2023"
     excerpt: "Chairman and CEO Arvind Krishna address the attendees at the IBM Think event. (Source – IBM) At the annual Think conference, IBM presented watsonx, an AI platform set to boost AI use and scalability in any cloud setting."
     publishedDateTime: 2023-05-11T04:01:00Z
@@ -102,15 +88,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "IBM debuts Watsonx product suite to streamline enterprise AI projects"
-    excerpt: "Watsonx was previewed at the company’s annual Think conference alongside several other new offerings. For its cloud platform, IBM is rolling out new compute options that provide access to graphics cards."
-    publishedDateTime: 2023-05-09T18:01:00Z
-    webUrl: "https://siliconangle.com/2023/05/09/ibm-debuts-watsonx-product-suite-streamline-enterprise-ai-projects/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 34
 
 secured: "9H+bQZyAGMo2tAvN/9ViUQxamie0Ja7ebpWa/CPiabD+3Zigs6sqclMv9F/nWmpGJ+x143RdYnakBUO2VdDzTiTPrH5aF7/x/OwsgtTIpgCc4V/UoGVbQbzZT12f1BGqD7rzVAbh2wFyMMZsvMFiOORpjJ3n74FeXjpYMSE+fw+/BVVtPuR3aG73w6MObLGw2+d4B/fDcvyASpLv1Z79512rX+9RWHo1LqhxbvfSYfvxMnq/plHBYaq5zxOXmLWCGuHJS7LjO56yUhiiQQ/OrvRIFtEIlxm65RNxzkD+1h32AxuRC8vvTETEyBDeaMV5n7+ZGDZEbZ1qsDsDTcJqkk2hyMbN0yFJuRsuZzDLAeFaIY5sRjibpxxlrCV7FluE2mSv4nqswS4y5071sXiOvJWx8AZl8SIKSkPW8aJKQYeFR3xSQZtja+LQTSHALaei3tfn17vnMHuVr2tAb/c7K+wv/M1vZ4kyO4uPfFTPvUsy8eW9N0FnPNqp8toGtPn/quxW+cNLCeoqS1YgBDfnAQ==;qqD56WXzXe0xPUnF+f5QDw=="
 ---

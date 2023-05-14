@@ -10,7 +10,7 @@
       "originalUrl": "https://techcrunch.com/2023/05/12/chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 299,
+      "heat": 319,
       "tags": null,
       "images": [
         {
@@ -265,49 +265,6 @@
       ]
     },
     {
-      "path": "_news/2023-05-10-sas-commits-1bln-to-ai-powered-industry-solutions.md",
-      "title": "SAS commits $1bln to AI-powered industry solutions",
-      "excerpt": "All industry solutions will run on SAS® Viya®, SAS’ cloud-native, massively parallel AI and analytics platform. “Businesses face many challenges, from the threat of economic recession and stressed supply chains to workforce shortages and regulatory changes,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zawya.com/en/press-release/companies-news/sas-commits-1bln-to-ai-powered-industry-solutions-ru5q37hj",
-      "originalUrl": "https://www.zawya.com/en/press-release/companies-news/sas-commits-1bln-to-ai-powered-industry-solutions-ru5q37hj",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.zawya.com/view/acePublic/alias/contentid/YTk5NGRiNWYtZTMyMi00/0/tailoredsolutions-jpg.jpeg?f=3%3A2",
-          "width": 799,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zawya.com/en/press-release/companies-news/sas-commits-1bln-to-ai-powered-industry-solutions-ru5q37hj?amp=1",
-      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/sas-commits-1bln-to-ai-powered-industry-solutions-ru5q37hj?amp=1",
-      "publishedDateTime": "2023-05-10T00:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-05-10-microsoft-partners-gurugram-based-builderai-for-developing-ai-solutions-for-businesses.md",
       "title": "Microsoft partners Gurugram-based Builder.ai for developing AI solutions for businesses",
       "excerpt": "Microsoft has made an equity investment and entered into a strategic partnership with Gurugram-based composable software platform Builder.ai, to develop artificial intelligence (AI) powered solutions for businesses, emphasising the technology giant’s focus on building enterprise-level AI amidst increasing competition from Google.",
@@ -359,7 +316,7 @@
       "originalUrl": "https://www.forbes.com/sites/markcperna/2023/05/09/why-ai-will-open-up-new-career-opportunities-for-young-people/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -1479,6 +1436,49 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-03-aisera-collaborates-with-microsoft-to-provide-ai-enterprise-service-experiences-with-chatgpt-and-generative-ai.md",
+      "title": "Aisera Collaborates with Microsoft to Provide AI Enterprise Service Experiences with ChatGPT and Generative AI",
+      "excerpt": "Aisera Collaborates with Microsoft to Provide AI Enterprise Service Experiences with ChatGPT and Generative AI May 03, 2023 (PRNewswire via COMTEX) --",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/aisera-collaborates-with-microsoft-to-provide-ai-enterprise-service-experiences-with-chatgpt-and-generative-ai-2023-05-03",
+      "originalUrl": "https://www.marketwatch.com/press-release/aisera-collaborates-with-microsoft-to-provide-ai-enterprise-service-experiences-with-chatgpt-and-generative-ai-2023-05-03",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-03T05:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -9,7 +9,7 @@ ampWebUrl: "https://fortune.com/2023/05/10/artificial-intelligence-deepmind-co-f
 cdnAmpWebUrl: "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/2023/05/10/artificial-intelligence-deepmind-co-founder-mustafa-suleyman-ubi-governments-seriously-need-to-find-solution-for-people-that-lose-their-jobs/amp/"
 type: article
 quality: 70
-heat: 100
+heat: 110
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://static.ffx.io/images/$zoom_0.4089%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_129%2C$y_35/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/ceb2fe3e55af0b58698f81ab445d7badef475736"
         width: 1200
         height: 628
+        isCached: true
+  - title: "DeepMind Is Working on a Solution to Bias in AI"
+    excerpt: "In DeepMind's hypothetical college admissions example: qualifications (Q), gender (G), and choice of department (D), all factor into whether a candidate is admitted (A). A Causal Bayesian Network can identify causal and non casual relationships between ..."
+    publishedDateTime: 2023-05-10T00:00:00Z
+    webUrl: "https://www.designnews.com/design-hardware-software/deepmind-working-solution-bias-ai"
+    type: article
+    provider:
+      name: Design News
+      domain: designnews.com
+    quality: 54
+    images:
+      - url: "https://www.designnews.com/sites/designnews.com/files/Design%20News/DeepMind%20CBN%20example.png"
+        width: 1178
+        height: 1070
         isCached: true
   - title: "AI will create ‘a serious number of losers’, DeepMind co-founder warns"
     excerpt: "Advances in artificial intelligence will threaten white-collar workers and create “a serious number of losers” over the next decade, according to one of the co-founders of AI lab DeepMind who has pioneered the technology."

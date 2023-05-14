@@ -7,7 +7,7 @@ originalUrl: "https://www.nytimes.com/2023/05/12/podcasts/googles-ai-bonanza-and
 webUrl: "https://www.nytimes.com/2023/05/12/podcasts/googles-ai-bonanza-and-driverless-car-talk-with-cruise-ceo-kyle-vogt.html"
 type: article
 quality: 67
-heat: 167
+heat: 157
 published: true
 
 provider:
@@ -104,20 +104,6 @@ related:
       - url: "http://www.gulftoday.ae/-/media/gulf-today/images/articles/news/2023/5/12/driverless-buses.ashx?h=450&w=750&hash=DA420C0A40E730C30B1558286369EDC1"
         width: 750
         height: 450
-        isCached: true
-  - title: "SWOT Analysis of the Autonomous or Driverless Cars Market Include Top Manufacturers Analysis 2023-2030"
-    excerpt: "Pre and Post-Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and"
-    publishedDateTime: 2023-05-09T18:52:00Z
-    webUrl: "https://www.marketwatch.com/press-release/swot-analysis-of-the-autonomous-or-driverless-cars-market-include-top-manufacturers-analysis-2023-2030-2023-05-09"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 53
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Cruise CEO Kyle Vogt talks the future of self-driving cars with Jim Cramer"
     excerpt: "Cruise CEO Kyle Vogt joins 'Mad Money' host Jim Cramer to discuss where autonomous vehicle tech is being implemented right now and what the future of the industry could look like."

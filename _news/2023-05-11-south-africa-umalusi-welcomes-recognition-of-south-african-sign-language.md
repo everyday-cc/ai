@@ -24,17 +24,6 @@ images:
     height: 664
     isCached: true
 
-related:
-  - title: "Huawei Cloud – The best partner for South African fintech companies"
-    excerpt: "Huawei Cloud is a leading provider of cloud infrastructure that is stable, scalable, and reliable – making it the ideal partner for South African organizations building fintech solutions."
-    publishedDateTime: 2023-05-11T05:52:00Z
-    webUrl: "https://mybroadband.co.za/news/industrynews/490973-huawei-cloud-the-best-partner-for-south-african-fintech-companies.html"
-    type: article
-    provider:
-      name: MyBroadband
-      domain: mybroadband.co.za
-    quality: 4
-
 secured: "3oAGluSoLsDGnxPPSjdI20hisgpJ6I9PBKZw9ETCk+T0Vk1Gwv7oj03RloN38EVDfYcYal8HOGuEKebTifBNsRbP27bOuAUG41Id1oW0lOyvxR4SQRtiejUDXkPyqIpQroF8Ba9L8ytjtGkTlzomgDB4Z8Da9ZkgBbc7FYcb/zCmgSSoVc68jm0d+svsp0UVK0Kin2lt8Hs1hb1t5SxIyid+u6J9VxdqrrpdGX8zs6RYtSYtHKdSIsfAVh2m86ojGlB96vSQIAOndXdYL98nN/N0E0TN02ilmSQHJlVQjvnxMWffsZWtZ+IiOuOrXMbnhQdofINnwfzzefoErf/evVXcHWLXogpMNVqbXQxPDfI=;O2f2GKDBNYMRzjh2rduzgw=="
 ---
 
