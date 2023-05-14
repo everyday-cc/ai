@@ -21,6 +21,13 @@ provider:
 topics:
   - AI
   - AI in Education
+  - AWS AI
+
+images:
+  - url: "https://cdn.geekwire.com/wp-content/uploads/2023/05/TeachAI-Header.png"
+    width: 1600
+    height: 900
+    isCached: true
 
 related:
   - title: "Biden administration takes action to promote responsible AI innovation"
@@ -121,6 +128,6 @@ related:
       domain: slator.com
     quality: 4
 
-secured: "GZhYH0oFiUthFICnIXsHtb9MWZttgtZ0mocYZMZrZzLVaXhdIpeccWODjB770pacUM8T1uAk+0zFMMmBmkqiy/eJ4bEIhEtO9wRpqe1yGK3Nx4EgOtpO6ZRVF6VdxWg7RrW5VV155G9jbgfvez7PH4UvezCepvSpqEWUpRxe6Wv8NCgTICut3YMe/a6Y3DkIvFyy0nkB8q/8hxJfZItqKyzp2tlmpu8KPXlk6R9YK2v3yjCgcPmdBPFkDokLf9WSuMYxoMV///spwqBDHv5/o9bSgNh5/fgLyomHYa+SXj09ObyubkcHyuuoLLGSHJ5NEn7vPxObIHpIR7Yg13v1dW6NOEIymyJ6RwcjtlMPNfpmv+9J6u3ettmFX+RqE6yMj77VzbJtlvGZPTFwddylTx0Gxl+6GWQ5Tt0I979V4KTJ31YY0vrwVjY2NdQyS4IhRJZv/HlixQVvf8c55eeCTlcBRMFIKQzEDs5dOMT+IL+OuaHbvHi2g8BJxjwxseLR/ismACCLFIMBgsv/9YI8+g==;afbpl9wRIFoDba1Ggb3UDw=="
+secured: "eozTeiW0lVCykjdTqPsa5j7jBNE8BcpVmvXjjwgcioEbKGYkh5pQYHWb/o8zXrphTgt9QTw7F0vEKrH2wAMDaFXOaVVj4+tbtJ/ew5dwZVVPyBw4gys7j3RqN0ir96QdXXkT+nEV7J27lIbrhmVmQQVBgFh8018eOnBxuRnMgsRcc0MR34LPzEHHbTdyMW0DaTk8Bg6bt5vxTpe7cggMIqUfXS3gLIvr3YEuHR1rJgYIeRTW4YnEd3AkSIM75S1STUelXlnAxKfowqXYjDNAUgl5HNih6/QoHgA3pREwJW0sVrbTTnxTJjhnxpIToZTICLp7Dy+MSWK+aWeEsrpZi80WUgh6Gz0wqTm89SIkO1w=;U6g8jAy0IWespdLiOgSSbQ=="
 ---
 

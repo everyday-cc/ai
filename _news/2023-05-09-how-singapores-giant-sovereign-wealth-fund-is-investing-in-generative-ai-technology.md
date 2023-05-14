@@ -7,7 +7,7 @@ originalUrl: "https://www.businessinsider.com/singapore-sovereign-wealth-fund-in
 webUrl: "https://www.businessinsider.com/singapore-sovereign-wealth-fund-investing-in-generative-ai-gic-2023-5"
 type: article
 quality: 60
-heat: 90
+heat: 80
 published: true
 
 provider:
@@ -43,22 +43,6 @@ related:
       - url: "https://wraltechwire.com/wp-content/uploads/2019/11/jim-goodnight-sas-e1572962905728.jpg"
         width: 1866
         height: 1048
-        isCached: true
-  - title: "Singapore Wealth Fund sees more growth in fintech after downturn"
-    excerpt: "Chris Emanuel, head of GIC Pte’s technology investment group, said the fund is excited about innovation in financial product distribution that brings opportunities to scale across the world. It also sees opportunities in enterprise software as digital transformation efforts “increase across sectors in both momentum and urgency,"
-    publishedDateTime: 2023-05-09T05:15:00Z
-    webUrl: "https://www.moneycontrol.com/news/world/singapore-wealth-fund-sees-more-growth-in-fintech-after-downturn-10552041.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/world/singapore-wealth-fund-sees-more-growth-in-fintech-after-downturn-10552041.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/world/singapore-wealth-fund-sees-more-growth-in-fintech-after-downturn-10552041.html/amp"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 44
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2023/02/Growth-image.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Wisma Atria Bank is A Trusted and Innovative Financial Institution in Singapore"
     excerpt: "Wisma Atria Bank is a leading financial institution based in Singapore that provides a wide range of banking and financial services. Established in 1979, the bank has become one of the most respected and trusted banks in Asia."

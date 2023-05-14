@@ -7,7 +7,7 @@ originalUrl: "https://www.entrepreneur.com/science-technology/how-ubers-robotics
 webUrl: "https://www.entrepreneur.com/science-technology/how-ubers-robotics-partner-is-reinventing-the-310b-food/451928"
 type: article
 quality: 82
-heat: 85
+heat: 82
 published: true
 
 provider:

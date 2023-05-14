@@ -55,22 +55,6 @@ related:
         width: 1866
         height: 1048
         isCached: true
-  - title: "Singapore Wealth Fund sees more growth in fintech after downturn"
-    excerpt: "Chris Emanuel, head of GIC Pte’s technology investment group, said the fund is excited about innovation in financial product distribution that brings opportunities to scale across the world. It also sees opportunities in enterprise software as digital transformation efforts “increase across sectors in both momentum and urgency,"
-    publishedDateTime: 2023-05-09T05:15:00Z
-    webUrl: "https://www.moneycontrol.com/news/world/singapore-wealth-fund-sees-more-growth-in-fintech-after-downturn-10552041.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/world/singapore-wealth-fund-sees-more-growth-in-fintech-after-downturn-10552041.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/world/singapore-wealth-fund-sees-more-growth-in-fintech-after-downturn-10552041.html/amp"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 44
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2023/02/Growth-image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "pZJ0HEInIQe5sE+klQZhNxeayBenv1bVphr2BaHlmYkwlBhHkfOKDv/P+SgERggWwgS4B7X45bccj661LT4QBWPZK6t+tibkWoZCFXnu3mbHhnezJH8R0bIQwlnaxUwHzUHcGJ192sXpUHqeQl1hLynmYTM10i1t3nxcnBQPcO7jVEaTBX+rk0RFtam/oGr2+Iy/l8yRZ9yYzLQjsJruEsM3ROz7JrkbnMYAFt3eeRREG+2Te4Xo7M1uuPDsFZ4ueaZ5OwG/ieJfNCBvHenfkppnT2SfrTwd8ZuJirxiHjmS1WNzMLB7uJEfxyzyfeRmY2VvauT2eCFBizQyYQ8gyjoXVnpQuft6gZnZtqDrQH4=;d3D2PVh4CX8OrG8MOF/JNw=="
 ---

@@ -2,9 +2,9 @@
 category: news
 title: "AI Could Enable 10,000 Robot-Led Microbe Experiments Per Day"
 excerpt: "An artificial intelligence system enables robots to conduct autonomous scientific experiments ... two microbes associated with oral health—with no baseline information to start with. Bacteria consume some combination of the 20 amino acids needed ..."
-publishedDateTime: 2023-05-05T09:18:00Z
-originalUrl: "https://www.technologynetworks.com/tn/news/ai-could-enable-10000-robot-led-microbe-experiments-per-day-372973"
-webUrl: "https://www.technologynetworks.com/tn/news/ai-could-enable-10000-robot-led-microbe-experiments-per-day-372973"
+publishedDateTime: 2023-05-05T00:00:00Z
+originalUrl: "https://www.technologynetworks.com/immunology/news/ai-could-enable-10000-robot-led-microbe-experiments-per-day-372973"
+webUrl: "https://www.technologynetworks.com/immunology/news/ai-could-enable-10000-robot-led-microbe-experiments-per-day-372973"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 360
     isCached: true
 
-secured: "3DEFA469y6FxzHTg+vivYcsGLlqWb9gVYg0LBi6ZLog/tp3WGc8FZgyXFEQc4oLKSFzuUKz+bjpsLfA0X9P6+Kjg68BNKcFKKO0nP1WQFADMWCL1qmYFz4Fg1SofhwiMSQSuei4UIBFUQqLgewrrjbpuo/GTVrLhwfBvdc3QY+8Ryj/1EW5bfOXs83m2ELfmfPRDGkzQtqZIMxybHixgjPlGtT2MiM8O4OYwJTK9OcPTrBgIG11xC2tIA0tuZFJVRUTAoEwbVC+uvRNHJNbtlWAiiyMfAc32RCfU0H8O8gvvRD617bJ3AcivwH4OMmvEg5i5E2VeeYohbakzaxnwFuu1n1n/1UWHEsEQ+6/gZV8=;ldaXXvmh4EphD0iWac7FAg=="
+secured: "eaODmVe+ETvuzRo/a19kP/h2QjPlsKV+RLrmWoeYENlQAH0CeZJXTKNOoJm7TAJRKb0wDK5yTK+/azvVr1qiP/4Lfm53A+hIGq9111Bza5GP4MCDx/zCZpaSddEiKylRl1QsbOtOMig7WF2Ew/AQZPVhJfna7qxo0p/g8VxsWB9Kr3iURXZUwktrpF4sOo9uaU7A1kpZYk/m9iSWRR88TqY/0fARUs7zkRwcS8O9+lPU1rAulxcCDiQ509KMWwPYz76z+c2+neVT9TIeVRYTzypfNRLz05rsVcwFF0tvb6XgMqFqyvsbc1L33mhYlJjgFXoqFhc/oZVPnGgZUsY1hHsBe2XbbYvVYD4BXauW3Ec=;j0y57hkUDMrg20VTdRTH2w=="
 ---
 

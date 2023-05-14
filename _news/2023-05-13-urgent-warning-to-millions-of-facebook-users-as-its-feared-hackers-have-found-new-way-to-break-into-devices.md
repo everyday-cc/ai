@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facebook has 3 billion users. Many of them are old. – Associated Press"
-    excerpt: "TikTok — facing heightened government scrutiny amid growing tensions between the U.S. and China, Facebook could, perhaps, position itself as a viable, domestic-bred alternative. There’s just one problem: young adults like Devin Walsh have moved on."
-    publishedDateTime: 2023-05-09T07:00:00Z
-    webUrl: "https://prescottenews.com/index.php/2023/05/09/facebook-has-3-billion-users-many-of-them-are-old-associated-press/"
-    type: article
-    provider:
-      name: Prescott eNews
-      domain: prescottenews.com
-    quality: 24
-    images:
-      - url: "https://prescottenews.com/wp-content/uploads/2023/05/Facebook-logo2-768x512.jpg"
-        width: 768
-        height: 512
-        isCached: true
   - title: "Facebook says its evolving to meet the needs of Young adults"
     excerpt: "Facebook says it is not dead. The social media giant also wants you to know that it is not just for “old people”, as young people have been saying for years. Now, with the biggest thorn in its side – TikTok – facing heightened government scrutiny amid growing tensions between the United States and China,"
     publishedDateTime: 2023-05-09T12:13:00Z

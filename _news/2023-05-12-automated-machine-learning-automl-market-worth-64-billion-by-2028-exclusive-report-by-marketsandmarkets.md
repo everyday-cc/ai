@@ -19,16 +19,104 @@ topics:
   - AI
 
 related:
-  - title: "Machine Learning (ML) Platforms Market Size By 2030"
-    excerpt: "The report focuses on the volume and value of Machine Learning (ML) Platforms at the global, regional, and company levels. It analyzes historical data and future prospects to determine the overall Machine Learning (ML) Platforms market size."
-    publishedDateTime: 2023-05-09T06:20:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-ml-platforms-market-size-by-2030-2023-05-09"
+  - title: "Latest \"Deep Learning Chip Market\" Trends 2023-2030"
+    excerpt: "(The Expresswire) -- \"Deep Learning Chip Market\" Insights 2023 By Types ( Graphics Processing Units (GPUs), Central Processing Units"
+    publishedDateTime: 2023-05-10T08:45:00Z
+    webUrl: "https://www.marketwatch.com/press-release/latest-deep-learning-chip-market-trends-2023-2030-2023-05-10"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 64
+    quality: 86
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Natural Language Processing (NLP) in Healthcare and Life Sciences Market Forecast 2023-2030"
+    excerpt: "May 10, 2023 (The Expresswire) -- \"Natural Language Processing (NLP) in Healthcare and Life Sciences Market\" Insights 2023 By Types ( Machine"
+    publishedDateTime: 2023-05-10T06:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-in-healthcare-and-life-sciences-market-forecast-2023-2030-2023-05-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 71
+  - title: "Deep Learning System Market with Future Opportunities 2023-2031"
+    excerpt: "The \"Deep Learning System Market\" study delves into the evolution of the technology industry and the responses of major"
+    publishedDateTime: 2023-05-11T02:45:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-system-market-with-future-opportunities-2023-2031-2023-05-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Machine Learning 2023 Market Size, Historical Growth, Analysis up to 2030"
+    excerpt: "The key players in the Machine Learning market include global distribution system (GDS) providers, such as These companies are typically the largest or most prominent players in the industry, and they may have significant market share,"
+    publishedDateTime: 2023-05-10T13:14:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-2023-market-size-historical-growth-analysis-up-to-2030-2023-05-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 68
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Automated Machine Learning (AutoML) Market worth $6.4 billion by 2028 - Exclusive Report by MarketsandMarkets(TM)"
+    excerpt: "CHICAGO, /PRNewswire/ --The market for automated machine learning (AutoML) appears to have a bright future thanks to rising acceptance, technological breakthroughs, integration with other developing technologies,"
+    publishedDateTime: 2023-05-12T16:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automated-machine-learning-automl-market-worth-64-billion-by-2028---exclusive-report-by-marketsandmarketstm-2023-05-12"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 63
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Latest \"Self-driving Cars and Trucks Market\" Analysis 2023-2030"
+    excerpt: "May 10, 2023 (The Expresswire) -- \"Self-driving Cars and Trucks Market\" Insights 2023 By Types ( Cars, Trucks), Applications ( Transportation,"
+    publishedDateTime: 2023-05-10T08:48:00Z
+    webUrl: "https://www.marketwatch.com/press-release/latest-self-driving-cars-and-trucks-market-analysis-2023-2030-2023-05-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Current \"Artificial Intelligence Systems in Healthcare Market\" Trends 2023: Future Business Expansion and Improvements Forecast 2030"
+    excerpt: "A Comprehensive Growth Research 2023: “Artificial Intelligence Systems in Healthcare Market” | Survey with [113]"
+    publishedDateTime: 2023-05-09T12:03:00Z
+    webUrl: "https://www.marketwatch.com/press-release/current-artificial-intelligence-systems-in-healthcare-market-trends-2023-future-business-expansion-and-improvements-forecast-2030-2023-05-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 33
+  - title: "Automated Machine Learning (AutoML) Market worth $6.4 billion by 2028 - Exclusive Report by MarketsandMarkets™"
+    excerpt: "The market for automated machine learning (AutoML) appears to have a bright future thanks to rising acceptance, technological breakthroughs, integration with other developing technologies, and an emphasis on customisation and personalization."
+    publishedDateTime: 2023-05-12T17:25:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-automated-machine-learning-automl-market-worth-64-billion-/2023/05/12/9813555.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 14
 
-secured: "v+AE9DbcRahnXEu1BHXTIuuPdFnahMJ4FB50Qkd65MonO3cf5nlG0RWoJt6B8ppvjMB8qexfvtAVRaIzfEHT7O3wY6gWuwp/L5hKlqLtbMZ+bWKFpmWjtEfJ3QBcZdWgKw4YsBUlS/5ruKnW3EQ7EGqJC46xYKsW66uiJ38G4ePNlk2qnY0+h6JWo8+Bci62iMn3JjaNHvgGaNfMH8iByYSRLvMY/6v2BN7yB23PsjB7x3hUSXQl0EMxng01pVGamhMiqkFvBms3w9FIQjmoytzzcywen5QmQjk0G4q8NC33x0IT+QmKmVldqgw7ugZqry3MEGinpaMszossM0oYICVaMTh+S/48GpMENOFJ/I4=;5kqnUuqyVdMMrMR5eqI6uA=="
+secured: "EWmnm0IjxOxyxwacawRrW5hCBAqI+Jtzpo+AJ6k4hqGHaSy/0mdsThS8XR5o7WHbI2+iqKxbj95q92ejj0oNqS0QkDxqFeN9xL6rlfPyP29OCCABnS0jhsgTb0HizCYywXbve8qXRrI1+3EIcy9OMRI7eNt/fxOCyzvZyObgo/bmdy7Hd+vShsS/wFUsonOctawr2FhLXoLIHs9yDy/vJ5DwyWky854RRPmNCrlSTVidGfD9LbQtfWclvIuEpBE2W0lFtCqZ/KmYV21P6Slk95gp8O6Lfoa2sjpp5xHWiuF//g4KFDY+oMMhDyGEDAubTwq1RCy+C0GLu7ZRCQyIBJbiKrMEGBcdBmExyrqOI38=;avwklpIFaB44GZcxMxthBQ=="
 ---
 

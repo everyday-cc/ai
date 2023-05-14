@@ -35,20 +35,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Facial Recognition Technology Could Ease Voting Process In Future Elections"
-    excerpt: "The incorporation of facial recognition technology could make voting considerably simpler in the future.Deputy Joint CEO Surya Sen explained that by downloading the \"Chunavana\" mobile app"
-    publishedDateTime: 2023-05-09T06:30:00Z
-    webUrl: "https://www.thehansindia.com/karnataka/facial-recognition-technology-could-ease-voting-process-in-future-elections-796603"
-    type: article
-    provider:
-      name: The Hans India
-      domain: thehansindia.com
-    quality: 37
-    images:
-      - url: "https://assets.thehansindia.com/h-upload/2023/05/09/1350511-oo.jpg"
-        width: 1200
-        height: 720
-        isCached: true
 
 secured: "pOCL3wKOwdw0VM4zimxg4fBPgBOAiCGv6+A7UPbPAnnjBAKU6xAdONA2VShzQ6DdTciwnnhQhRRLCJqHN2ccjpgm1ZrpwG9T3gFK2ywXFAkI8D5TICrwWdBClqZ1w6vELNlW6XQYqYiRiJrPZGYW0lOZAXQrno+R7381Fx45IiE6Nv3C0PQV5Ftoi4JIydgdUKbo0CTZOAVT0LCCgAkBpk3Xi6BWSA/YzPzE2Ht7/ImYyyAIVIWTKMKxXtLOlaaZLl3O+/Mw44FubKltHA+ndKcuE0p5opD6nIiJkKuLc7JYmlDgbrhG4dRQuJDRvk1QeIU41Wl9SLIyxMW7bviJr6Si8zWxLG18/iPQpuOJwtZtYFai9FLZeWIviZJ9gv//M8oNkcc62ikkBPabaiSD79v6m77+9qOvlLPB4H5nBGDwNzp4PrID9ZPNLdmMBK6bR9bJlYVU4kN1zo0FicNLy8CYT2J7bJRmcQ0SvYTqvoo9YB96uGQUXuQ35nvhObVOwwmbj0ylm5Fqr2o1r82clg==;yvEJHpKNe9Hb5Er5mPOx1w=="
 ---

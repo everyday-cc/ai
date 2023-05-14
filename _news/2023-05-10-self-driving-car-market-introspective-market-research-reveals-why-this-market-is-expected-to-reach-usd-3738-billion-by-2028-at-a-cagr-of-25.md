@@ -29,15 +29,15 @@ images:
     isCached: true
 
 related:
-  - title: "Automated Machine Learning (AutoML) Market worth $6.4 billion by 2028 - Exclusive Report by MarketsandMarkets(TM)"
-    excerpt: "CHICAGO, /PRNewswire/ --The market for automated machine learning (AutoML) appears to have a bright future thanks to rising acceptance, technological breakthroughs, integration with other developing technologies,"
-    publishedDateTime: 2023-05-12T16:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automated-machine-learning-automl-market-worth-64-billion-by-2028---exclusive-report-by-marketsandmarketstm-2023-05-12"
+  - title: "Servo Motors and Drives Market – Global Industry Analysis and Forecast 2029- Report By Introspective Market Research"
+    excerpt: "It is servomechanism-controlled; therefore, it is controllable. Moreover, a rather complex controller is needed, often a module made expressly for servomotor use. Robotics ... is written with a specific goal in mind to give business insights and ..."
+    publishedDateTime: 2023-05-11T23:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/servo-motors-and-drives-market-global-industry-analysis-and-forecast-2029--report-by-introspective-market-research-2023-05-11"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 63
+    quality: 31
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

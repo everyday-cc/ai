@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AWS AI
 
 images:
   - url: "https://cdn.ttgtmedia.com/visuals/ComputerWeekly/HeroImages/AI-robot-creative-human-brain-WhoisDanny-adobe.jpg"

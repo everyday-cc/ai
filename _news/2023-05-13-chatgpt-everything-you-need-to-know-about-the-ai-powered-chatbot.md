@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/05/12/chatgpt-everything-you-need-to-kno
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/12/chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot/amp/"
 type: article
 quality: 89
-heat: 349
+heat: 350
 published: true
 
 provider:

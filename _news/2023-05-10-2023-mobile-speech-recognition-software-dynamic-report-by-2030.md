@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/2023-mobile-speech-recog
 webUrl: "https://www.marketwatch.com/press-release/2023-mobile-speech-recognition-software-dynamic-report-by-2030-2023-05-10"
 type: article
 quality: 69
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -33,6 +33,20 @@ related:
     excerpt: "The Global Facial Recognition Door Lock market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players,"
     publishedDateTime: 2023-05-09T21:58:00Z
     webUrl: "https://www.marketwatch.com/press-release/facial-recognition-door-lock-market-outlook-2023-2031-2023-05-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Mobile Speech Recognition Software Market | 2030"
+    excerpt: "The Global Mobile Speech Recognition Software market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players,"
+    publishedDateTime: 2023-05-12T02:53:00Z
+    webUrl: "https://www.marketwatch.com/press-release/mobile-speech-recognition-software-market-2030-2023-05-11"
     type: article
     provider:
       name: MarketWatch

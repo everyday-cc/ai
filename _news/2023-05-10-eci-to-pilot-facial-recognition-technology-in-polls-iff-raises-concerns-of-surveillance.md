@@ -9,7 +9,7 @@ ampWebUrl: "https://www.outlookindia.com/national/eci-to-pilot-facial-recognitio
 cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/national/eci-to-pilot-facial-recognition-technology-in-polls-iff-raises-concerns-of-surveillance-news-285131/amp"
 type: article
 quality: 65
-heat: 85
+heat: 75
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facial Recognition Technology Could Ease Voting Process In Future Elections"
-    excerpt: "The incorporation of facial recognition technology could make voting considerably simpler in the future.Deputy Joint CEO Surya Sen explained that by downloading the \"Chunavana\" mobile app"
-    publishedDateTime: 2023-05-09T06:30:00Z
-    webUrl: "https://www.thehansindia.com/karnataka/facial-recognition-technology-could-ease-voting-process-in-future-elections-796603"
-    type: article
-    provider:
-      name: The Hans India
-      domain: thehansindia.com
-    quality: 37
-    images:
-      - url: "https://assets.thehansindia.com/h-upload/2023/05/09/1350511-oo.jpg"
-        width: 1200
-        height: 720
-        isCached: true
   - title: "Facial Recognition Technology Could Improve Livestock Health"
     excerpt: "Facial recognition technology isn’t limited to humans. Livestock are now getting their mugs snapped in order to help farmers monitor animal health, increase efficiency and improve traceability.  Researchers from the US to Australia are using drones to handle health assessments of cattle from the air,"
     publishedDateTime: 2023-05-11T12:00:00Z
