@@ -117,6 +117,22 @@ related:
         width: 1280
         height: 670
         isCached: true
+  - title: "AI startup Anthropic unveils moral principles behind chatbot Claude"
+    excerpt: "Amid controversy about generative AI programs giving wrong, biased or potentially dangerous responses to queries, Anthropic reveals how it is training ChatGPT rival Claude to have safe, helpful values."
+    publishedDateTime: 2023-05-10T14:32:00Z
+    webUrl: "https://www.computerworld.com/article/3695952/ai-startup-anthropic-unveils-moral-principles-behind-chatbot-claude.html"
+    ampWebUrl: "https://www.computerworld.com/article/3695952/ai-startup-anthropic-unveils-moral-principles-behind-chatbot-claude.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3695952/ai-startup-anthropic-unveils-moral-principles-behind-chatbot-claude.amp.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 57
+    images:
+      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2022/09/16/10/ai_artificial_intelligence_ml_machine_learning_abstract_face_by_kentoh_gettyimages_1042827860-100817767-large-100932435-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Wendy’s to test AI chatbot that takes your drive-thru order"
     excerpt: "US fast-food chain says pilot program ‘seeks to take the complexity out of the ordering process’"
     publishedDateTime: 2023-05-10T14:59:00Z
@@ -132,22 +148,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/28569c93918527a910695ba29c5afd9ee54972a9/0_193_4744_2847/master/4744.jpg?width=620&quality=85&auto=format&fit=max&s=c7b2467c0c605f2c61cd36601b08e053"
         width: 620
         height: 372
-        isCached: true
-  - title: "Why are patients turning to artificial intelligence chatbots for medical advice?"
-    excerpt: "The future of medicine may have arrived sooner than expected, with patients turning to artificial intelligence (AI) chatbots for medical advice."
-    publishedDateTime: 2023-05-09T15:18:00Z
-    webUrl: "https://www.cbsnews.com/baltimore/news/patients-chatbots-johns-hopkins-medical-artificial-intelligence/"
-    ampWebUrl: "https://www.cbsnews.com/amp/baltimore/news/patients-chatbots-johns-hopkins-medical-artificial-intelligence/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/baltimore/news/patients-chatbots-johns-hopkins-medical-artificial-intelligence/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 54
-    images:
-      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/04/24/c4999830-60ba-4f2c-8a27-e425e120b9de/thumbnail/1200x630/3456dcd79d8e3d3aa1bf1afe24daefdd/gettyimages-1158779006.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Google’s Bard AI chatbot launches in Australia with vow to develop it ethically"
     excerpt: "Company says its AI programs will include watermarks and metadata saying content is AI-generated as ChatGPT rival rolls out in more than 180 countries"
@@ -233,20 +233,6 @@ related:
       - url: "https://techbullion.com/wp-content/uploads/2023/05/Chatgpt-full-form.png"
         width: 860
         height: 430
-        isCached: true
-  - title: "It’s Not Just About ChatGPT. Other AI Technologies Are Heading to Schools"
-    excerpt: "How can schools stay on top of this rapidly changing technology? And how can educators separate hype from substance? Education Week asked four experts in technology, education, and artificial intelligence to look into their crystal balls and share their thoughts on how AI will likely change teaching and learning."
-    publishedDateTime: 2023-05-09T15:33:00Z
-    webUrl: "https://www.edweek.org/technology/its-not-just-about-chatgpt-other-ai-technologies-are-heading-to-schools/2023/05"
-    type: article
-    provider:
-      name: Education Week
-      domain: edweek.org
-    quality: 38
-    images:
-      - url: "https://epe.brightspotcdn.com/dims4/default/9881dba/2147483647/strip/true/crop/1720x1150+0+0/resize/942x630!/quality/90/?url=https%3A%2F%2Fepe-brightspot.s3.amazonaws.com%2F41%2F85%2Fe0e49f244864a15de5d019ef2da6%2F050423-edtech-beyond-chat-gpt-fs-prothero.jpg"
-        width: 942
-        height: 630
         isCached: true
   - title: "Can ChatGPT teach you a language?"
     excerpt: "For those wondering if ChatGPT can be used to teach you a language, don’t worry ... a programme called Whisper which allows for the translation and transcription of audio."

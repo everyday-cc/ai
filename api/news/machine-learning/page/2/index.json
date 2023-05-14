@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-05-05-square-enix-fans-arent-pleased-with-machine-learning-test.md",
+      "title": "Square Enix fans aren’t pleased with machine learning test",
+      "excerpt": "Square Enix used machine learning and natural language processing in a visual novel, and fans found that it didn't understand them at all.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/games/square-enix-fans-arent-pleased-with-machine-learning-test/",
+      "originalUrl": "https://venturebeat.com/games/square-enix-fans-arent-pleased-with-machine-learning-test/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/05/Square-Enix-Portopia-Case.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/games/square-enix-fans-arent-pleased-with-machine-learning-test/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/square-enix-fans-arent-pleased-with-machine-learning-test/amp/",
+      "publishedDateTime": "2023-05-04T15:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-04-gpt-based-ai-neural-network-decodes-brain-activity-without-surgery.md",
       "title": "GPT-based AI Neural Network Decodes Brain Activity without Surgery",
       "excerpt": "This research can help patients with conditions such as locked-in syndrome, where patients are unable to communicate due to paralysis",
@@ -1324,49 +1376,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-04-28-deep-learning-system-explores-materials-interiors-from-the-outside.md",
-      "title": "Deep-learning system explores materials' interiors from the outside",
-      "excerpt": "The team used a type of machine learning known as deep learning to compare a large set of simulated data about materials' external force fields and the corresponding internal structure ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2023/04/230428130819.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2023/04/230428130819.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-27T16:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

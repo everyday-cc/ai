@@ -371,6 +371,59 @@
       ]
     },
     {
+      "path": "_news/2023-05-10-publish-predictive-dashboards-in-amazon-quicksight-using-ml-predictions-from-amazon-sagemaker-canvas.md",
+      "title": "Publish predictive dashboards in Amazon QuickSight using ML predictions from Amazon SageMaker Canvas",
+      "excerpt": "Understanding business trends, customer behavior, sales revenue, increase in demand, and buyer propensity all start with data. Exploring, analyzing, interpreting, and finding trends in data is essential for businesses to achieve successful outcomes. Business analysts play a pivotal role in facilitating",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/publish-predictive-dashboards-in-amazon-quicksight-using-ml-predictions-from-amazon-sagemaker-canvas/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/publish-predictive-dashboards-in-amazon-quicksight-using-ml-predictions-from-amazon-sagemaker-canvas/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/05/10/predictive-dashboards-quicksight-sagemaker-canvas.jpg",
+          "width": 1068,
+          "height": 537,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-10T07:17:43-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-05-10-announcing-new-jupyter-contributions-by-aws-to-democratize-generative-ai-and-scale-ml-workloads.md",
       "title": "Announcing new Jupyter contributions by AWS to democratize generative AI and scale ML workloads",
       "excerpt": "Project Jupyter is a multi-stakeholder, open-source project that builds applications, open standards, and tools for data science, machine learning (ML), and computational science. The Jupyter Notebook, first released in 2011, has become a de facto standard tool used by millions of users worldwide across",
@@ -1406,58 +1459,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-05-05-square-enix-fans-arent-pleased-with-machine-learning-test.md",
-      "title": "Square Enix fans aren’t pleased with machine learning test",
-      "excerpt": "Square Enix used machine learning and natural language processing in a visual novel, and fans found that it didn't understand them at all.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/games/square-enix-fans-arent-pleased-with-machine-learning-test/",
-      "originalUrl": "https://venturebeat.com/games/square-enix-fans-arent-pleased-with-machine-learning-test/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/05/Square-Enix-Portopia-Case.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/games/square-enix-fans-arent-pleased-with-machine-learning-test/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/square-enix-fans-arent-pleased-with-machine-learning-test/amp/",
-      "publishedDateTime": "2023-05-04T15:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

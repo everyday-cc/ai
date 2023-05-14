@@ -41,6 +41,20 @@ related:
         width: 840
         height: 560
         isCached: true
+  - title: "Artificial intelligence and the film and television writers’ strike"
+    excerpt: "Artificial intelligence is at the center of the strike by film and television writers against the studios and networks that are implementing the new tools to eliminate workers and cut hours to increase profitability."
+    publishedDateTime: 2023-05-11T02:57:00Z
+    webUrl: "https://www.wsws.org/en/articles/2023/05/11/cqji-m11.html"
+    type: article
+    provider:
+      name: World Socialist Web Site
+      domain: wsws.org
+    quality: 37
+    images:
+      - url: "https://www.wsws.org/asset/d543cdc6-4533-40e9-8547-cfbb93102bb5?rendition=1600x900"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Brian Merchant: The writers’ strike is only the beginning. A rebellion against AI is underway"
     excerpt: "So far, the story of the AI boom has been the one that the tech industry has wanted to tell: Silicon Valley companies creating AI services that can mimic human art and words and, according to them, replace millions of jobs and transform the economy."
     publishedDateTime: 2023-05-13T17:21:00Z

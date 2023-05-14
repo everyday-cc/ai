@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/05/10/why-ai-p
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/05/10/why-ai-powered-customer-service-and-support-are-crucial-in-2023/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -44,15 +44,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "3 AI Stocks That Are Poised to Explode in 2023"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial Intelligence (or AI) is the latest and greatest buzzword on Wall"
-    publishedDateTime: 2023-05-09T15:38:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/3-ai-stocks-that-are-poised-to-explode-in-2023-1032307806"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
   - title: "ServiceNow to Acquire Artificial Intelligence Powered Platform G2K to Transform Retail and Beyond"
     excerpt: "ServiceNow (NYSE: NOW), the leading digital workflow company making the world work better for everyone, today announced it has signed an agreement to acquire artificial intelligence (AI) powered platform G2K to transform retail and other industries."
     publishedDateTime: 2023-05-12T12:30:00Z

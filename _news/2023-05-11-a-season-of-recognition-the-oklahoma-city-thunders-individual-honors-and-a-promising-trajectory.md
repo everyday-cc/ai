@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/nicholascrain/2023/05/11/a-season-of-re
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nicholascrain/2023/05/11/a-season-of-recognition-the-oklahoma-city-thunders-individual-honors-and-a-promising-trajectory/amp/"
 type: article
 quality: 61
-heat: 91
+heat: 81
 published: true
 
 provider:
@@ -44,22 +44,6 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/chaffeecountytimes.com/content/tncms/assets/v3/editorial/d/2e/d2e40822-ef71-11ed-80d3-d7ba29657cbb/645bff9407d48.image.jpg?crop=985%2C517%2C107%2C0&resize=985%2C517&order=crop%2Cresize"
         width: 985
         height: 517
-        isCached: true
-  - title: "Marriage is entitled to constitutional protection, not just legal recognition: SC"
-    excerpt: "The Supreme Court said on Tuesday it has to be alive to the fact that the concept of marriage has evolved and must accept the basic proposition that marriage itself is entitled to constitutional protection as it is not just a matter of statutory recognition."
-    publishedDateTime: 2023-05-09T15:04:00Z
-    webUrl: "https://www.rediff.com/news/report/marriage-is-entitled-to-constitutional-protection-not-just-legal-recognition-sc/20230509.htm"
-    ampWebUrl: "https://m.rediff.com/amp/news/report/marriage-is-entitled-to-constitutional-protection-not-just-legal-recognition-sc/20230509.htm"
-    cdnAmpWebUrl: "https://m-rediff-com.cdn.ampproject.org/c/s/m.rediff.com/amp/news/report/marriage-is-entitled-to-constitutional-protection-not-just-legal-recognition-sc/20230509.htm"
-    type: article
-    provider:
-      name: rediff.com
-      domain: rediff.com
-    quality: 39
-    images:
-      - url: "https://im.rediff.com/345-230/news/2020/dec/27supreme-court.jpg"
-        width: 345
-        height: 230
         isCached: true
   - title: "Genocide Recognition: an Australian story"
     excerpt: "May it appears is the month of genocide recognition amongst the Australian parliaments, with Tasmania being the latest one to adopt a resolution of recognition of the Genocides of the Hellenes, Armenians and Assyrians on Thursday 11 May."

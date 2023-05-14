@@ -119,22 +119,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Microsoft’s Big AI Push Could Power Its Cloud Past AWS. Here’s Why."
-    excerpt: "Bernstein analyst Mark Moerdler thinks artificial intelligence could drive huge growth at Microsoft—more than most investors expect."
-    publishedDateTime: 2023-05-09T16:28:00Z
-    webUrl: "https://www.barrons.com/articles/microsoft-stock-aws-ai-bing-9b9143c0"
-    ampWebUrl: "https://www.barrons.com/amp/articles/microsoft-stock-aws-ai-bing-9b9143c0"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/microsoft-stock-aws-ai-bing-9b9143c0"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 91
-    images:
-      - url: "https://images.barrons.com/im-778497/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Microsoft ramps up A.I. game with bet on startup that helps coding novices build apps"
     excerpt: "The deal signifies a further bid by Microsoft to ramp up its efforts in AI, which has become a key focus for the company."
     publishedDateTime: 2023-05-10T04:25:00Z
@@ -370,15 +354,6 @@ related:
       name: Mena FN
       domain: menafn.com
     quality: 24
-  - title: "Informatica Expands its Collaboration with Microsoft, Announces Planned Intelligent Data Management Cloud as a Microsoft Azure Native ISV Service"
-    excerpt: "Informatica (NYSE: INFA), an enterprise cloud data management leader, expanded its collaboration with Microsoft with two key developments aimed at pro"
-    publishedDateTime: 2023-05-09T17:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20230509005517/en/Informatica-Expands-its-Collaboration-with-Microsoft-Announces-Planned-Intelligent-Data-Management-Cloud-as-a-Microsoft-Azure-Native-ISV-Service/"
-    type: article
-    provider:
-      name: newsroom.businesswire.com
-      domain: businesswire.com
-    quality: 0
 
 secured: "A8BDnLaofazTUhZOnlHL6aZkOI0T17GkWKmt/GxSpzrREbhJxtEXByx7yJJKnmYo1cbzJpjmipXAOjOd1tC3rWC1eEMeia/9lsVCzuRHzDt22UUTl9DHvasdyGOXs4U+IIoB79WmYmE4TQv092k938cYmcejteFa7xLGVEA1zqP/DHAoZfuYQ2chqjHEs2GUfpTuvi1a19sDYfaMxxGBwbfb55RieNUTuyyVA+NAbZfzyTa+KHTJIuAmQpZEuJJIeuiq7l4Z9/OrEQNE5YhHz8AR1Kkc0wiiOFFWhVFJNnb/Mf01dnjsP+hkqJoQlaRW3ozpa/XKvgC9TO1HkTnm4Fm03fXP8kGT3eqwakLGVjgMcTbcVq0wo/xqTAHjHEnDx4o27UQYQvt9WxIWdBujbuLATPnUlQ7mFjNKKJJ9g2hBKziAx5JZ1Z9Et3ZDvAm4t9h8le+XGWCSElDjVmlzNpZ0O6zebGoprut0hcW2uDEmuyASz8ZxEhzbCfCwQNn7Ra6YNWdT5rFaGXmbvA1G+w==;+vYtjRWQvG+wb4c9lLslnQ=="
 ---

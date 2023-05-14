@@ -9,7 +9,7 @@ ampWebUrl: "https://auto.hindustantimes.com/auto/electric-vehicles/tesla-shouldn
 cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/electric-vehicles/tesla-shouldnt-call-its-self-driving-system-autopilot-us-transport-secretary/amp-41683861027992.html"
 type: article
 quality: 55
-heat: 105
+heat: 115
 published: true
 
 provider:
@@ -90,6 +90,22 @@ related:
       - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/gettyimages-1177714952-645fa97026493.jpg?crop=1.00xw:0.817xh;0,0&resize=1200:*"
         width: 1024
         height: 578
+        isCached: true
+  - title: "Tesla shouldn't call driving system Autopilot because humans are still in control, Buttigieg says"
+    excerpt: "The top U.S. transportation official says Tesla shouldn’t call its partially automated driving system Autopilot because the cars can’t drive themselves. Transportation Secretary Pete Buttigieg says he"
+    publishedDateTime: 2023-05-14T07:45:00Z
+    webUrl: "https://www.normantranscript.com/news/tesla-shouldnt-call-driving-system-autopilot-because-humans-are-still-in-control-buttigieg-says/article_aeba988a-f011-11ed-b34e-d7fe014a9e6f.html"
+    ampWebUrl: "https://www.normantranscript.com/news/tesla-shouldnt-call-driving-system-autopilot-because-humans-are-still-in-control-buttigieg-says/article_aeba988a-f011-11ed-b34e-d7fe014a9e6f.amp.html"
+    cdnAmpWebUrl: "https://www-normantranscript-com.cdn.ampproject.org/c/s/www.normantranscript.com/news/tesla-shouldnt-call-driving-system-autopilot-because-humans-are-still-in-control-buttigieg-says/article_aeba988a-f011-11ed-b34e-d7fe014a9e6f.amp.html"
+    type: article
+    provider:
+      name: The Norman Transcript
+      domain: normantranscript.com
+    quality: 46
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/normantranscript.com/content/tncms/assets/v3/editorial/4/70/47085318-cab0-50bd-bd13-4d247b2a17ef/645d0b8fe607b.image.jpg?resize=1024%2C682"
+        width: 1024
+        height: 682
         isCached: true
   - title: "Tesla shouldn’t call driving system Autopilot, Buttigieg says"
     excerpt: "WASHINGTON >> Tesla shouldn’t be calling its partially automated driving system Autopilot because the cars can’t drive themselves, the top U.S. transportation official says."

@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-04-18-can-music-practice-avert-cognitive-decline.md",
+      "title": "Can Music Practice Avert Cognitive Decline?",
+      "excerpt": "A team from UNIGE, HES-SO Geneva and EPFL shows the positive impacts of musical activities to counteract brain ageing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologynetworks.com/neuroscience/news/can-music-practice-avert-cognitive-decline-372225",
+      "originalUrl": "https://www.technologynetworks.com/neuroscience/news/can-music-practice-avert-cognitive-decline-372225",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.technologynetworks.com/production/dynamic/images/content/372225/can-music-practice-avert-cognitive-decline-372225-640x360.jpg?cb=20230418",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-18T01:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "technologynetworks",
+        "domain": "technologynetworks.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-17-microsoft-and-epic-expand-strategic-collaboration-with-integration-of-azure-openai-service.md",
       "title": "Microsoft and Epic expand strategic collaboration with integration of Azure OpenAI Service",
       "excerpt": "April 17, 2023 /PRNewswire/ -- Microsoft Corp. and Epic on Monday announced they are expanding their long-standing strategic collaboration to develop and integrate generative AI into healthcare by combining the scale and power of Azure OpenAI Service 1 ...",
@@ -1320,49 +1363,6 @@
         "AI",
         "AI in Security",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-28-cognitive-data-management-market-newsest-research.md",
-      "title": "Cognitive Data Management Market | Newsest Research",
-      "excerpt": "Insights] Top “Cognitive Data Management Market” Size 2023 Key players Profiled in the Report are [, Attivio (US),",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/cognitive-data-management-market-newsest-research-2023-03-27",
-      "originalUrl": "https://www.marketwatch.com/press-release/cognitive-data-management-market-newsest-research-2023-03-27",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-27T19:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

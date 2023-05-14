@@ -7,7 +7,7 @@ originalUrl: "https://www.theguardian.com/news/gallery/2023/may/11/ai-robot-test
 webUrl: "https://www.theguardian.com/news/gallery/2023/may/11/ai-robot-testing-and-an-equestrian-performance-thursdays-best-photos"
 type: article
 quality: 54
-heat: -1
+heat: 54
 published: false
 
 provider:
@@ -27,38 +27,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "AI’s mixed investment performance"
-    excerpt: "Would I buy an AI ETF? Probably not. Frankly, if you want exposure to this space, why not just buy Nvidia and Microsoft? Both are highly profitable and heavily involved in the sector. In Nvidia’s case via their GPU chips and in Microsoft’s case via ..."
-    publishedDateTime: 2023-05-09T15:56:00Z
-    webUrl: "https://moneyweek.com/investments/605871/ai-investing"
-    ampWebUrl: "https://moneyweek.com/investments/605871/ai-investing?amp"
-    cdnAmpWebUrl: "https://moneyweek-com.cdn.ampproject.org/c/s/moneyweek.com/investments/605871/ai-investing?amp"
-    type: article
-    provider:
-      name: MoneyWeek
-      domain: moneyweek.com
-    quality: 59
-    images:
-      - url: "https://media.moneyweek.com/image/private/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1683647579/editorial/2023/GettyImages-1370479417.jpg"
-        width: 1260
-        height: 710
-        isCached: true
-  - title: "Exclusive: NEA and Pear VC just led a $4.5 million seed investment in Orby, the AI that has thoughts about your job performance"
-    excerpt: "Stealth AI startup Orby says its AI product will look over your shoulder as your work and find ways to make you better."
-    publishedDateTime: 2023-05-10T10:00:00Z
-    webUrl: "https://www.businessinsider.com/ai-powered-orby-has-thoughts-about-your-job-performance-2023-5"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 39
-    images:
-      - url: "https://i.insider.com/64599c8265a21600192fb596?width=1200&format=jpeg"
-        width: 1080
-        height: 540
-        isCached: true
 
 secured: "F351XX963usp3IeJsHkV1sZtFllIX47bBWLJsmIW+qs7nN1wuSvw9yn6UlLeVNezlrByXCHK9KFahvMBYQHWDAYVYIWXrA/9uyudC2r2a8PIKXApnyfFWRpUDjJt62KNateZ0Kx24XKnzn23Tox5ZdianLQSBkpOFF5tDKurVSYEdf0LCTBxnEyf8LphhRWmCU+h6w5+I0a9Ys8SJhKTKhUOMd6kIGIPqTlSt/C46owsIVNFRUahoTSe6H2gMECieMpUbMPq6SsTAY252jI/OSbv0Mqy51NiKAO8+ViNTcuwJQSMcP46SXvL7szTNPHBhr6DrjMShZlD8+edEgfsequWNdG/iF0RCGetdcdjTZw=;v7UtPNgmQd5ZNdsoYnzsGQ=="
 ---

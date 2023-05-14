@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-04-28-deep-learning-system-explores-materials-interiors-from-the-outside.md",
+      "title": "Deep-learning system explores materials' interiors from the outside",
+      "excerpt": "The team used a type of machine learning known as deep learning to compare a large set of simulated data about materials' external force fields and the corresponding internal structure ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2023/04/230428130819.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2023/04/230428130819.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-27T16:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-28-machine-learning-helps-scientists-identify-the-environmental-preferences-of-microbes.md",
       "title": "Machine learning helps scientists identify the environmental preferences of microbes",
       "excerpt": "A machine-learning approach can give scientists insight into the environmental preferences of microbes, based only on their genes. The approach has practical research implications: it could help researchers more efficiently grow bacteria in the laboratory.",
@@ -1326,49 +1369,6 @@
         "Computer Vision",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-04-20-drones-navigate-unseen-environments-with-liquid-neural-networks.md",
-      "title": "Drones Navigate Unseen Environments With Liquid Neural Networks",
-      "excerpt": "guided by liquid neural networks to navigate ever-changing and unseen environments with precision and ease. Inspired by the adaptable nature of organic brains, researchers from MIT’s Computer Science and Artificial Intelligence Laboratory (CSAIL ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologynetworks.com/informatics/news/drones-navigate-unseen-environments-with-liquid-neural-networks-372383",
-      "originalUrl": "https://www.technologynetworks.com/informatics/news/drones-navigate-unseen-environments-with-liquid-neural-networks-372383",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.technologynetworks.com/production/dynamic/images/content/372383/drones-navigate-unseen-environments-with-liquid-neural-networks-372383-640x360.jpg?cb=20230420",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-20T03:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "technologynetworks",
-        "domain": "technologynetworks.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

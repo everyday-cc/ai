@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/products/maps/google-maps-updates-io-2023/amp/"
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/maps/google-maps-updates-io-2023/amp/"
 type: article
 quality: 109
-heat: 149
+heat: 139
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
         width: 800
         height: 600
-        isCached: true
-  - title: "Tracking Generative AI: How Evolving AI Models Are Impacting Legal"
-    excerpt: "A running compilation of how the legal landscape continues to be shaped by generative AI tools, from GPT technologies to art generation tools and beyond."
-    publishedDateTime: 2023-05-09T16:30:00Z
-    webUrl: "https://www.law.com/legaltechnews/2023/05/09/tracking-generative-ai-how-evolving-ai-models-are-impacting-legal/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 41
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/01/Numbers-Artificial-Intelligence-767x633.jpg"
-        width: 767
-        height: 633
         isCached: true
   - title: "Tracking Generative AI: How Evolving AI Models Are Impacting Legal"
     excerpt: "A running compilation of how the legal landscape continues to be shaped by generative AI tools, from GPT technologies to art generation tools and beyond."

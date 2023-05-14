@@ -7,7 +7,7 @@ originalUrl: "https://analyticsindiamag.com/allen-institute-for-ai-unveils-ai2-o
 webUrl: "https://analyticsindiamag.com/allen-institute-for-ai-unveils-ai2-olmo-an-open-source-language-model/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,31 +23,6 @@ images:
     width: 768
     height: 334
     isCached: true
-
-related:
-  - title: "Booz Allen Invests In Credo AI to Deliver Responsible AI Solutions"
-    excerpt: "Through this partnership, Booz Allen will more seamlessly integrate responsible AI through Credo AI’s governance software platform."
-    publishedDateTime: 2023-05-09T15:07:00Z
-    webUrl: "https://www.hstoday.us/industry/industry-news/booz-allen-invests-in-credo-ai-to-deliver-responsible-ai-solutions/"
-    type: article
-    provider:
-      name: Homeland Security Today
-      domain: hstoday.us
-    quality: 39
-    images:
-      - url: "https://www.hstoday.us/wp-content/uploads/2018/12/artificial-intelligence-3382507_1920.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
-  - title: "Booz Allen's venture arm is making a pattern of investments in AI. An exec tells us why."
-    excerpt: "Booz Allen Ventures recently invested in a San Francisco AI company that reflects a growing investment focus for the massive government contractor. Here's why the company thinks more of its venture dollars may flow in that direction."
-    publishedDateTime: 2023-05-12T19:28:00Z
-    webUrl: "https://www.bizjournals.com/washington/inno/stories/news/2023/05/12/booz-allen-hamilton-ai-investment.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 8
 
 secured: "Sej9aDpls3Afke9VJDMfQs4PO/Yc3xRs6zRqRBIGuH5FHlt47oCcIZVx3aCzQzC/s44QWqcxfRY4sefs0aYUetzlFWt0U8wKiWOvK3+IkWTsdN0IHNAvXU1CHRicCfnpgofSwWARl8Wes6cD9X/XhtH+iqWgtYTMbv2ryFN1PLBhQPfLkiKEPCEInEV76/SMx+bDr8rEMy5x09F2mFhpHTSvkAxL53hS1ORin5w6tinSLNFBG/hm13AHoXdWHEZ40hINN6qHYqC5DLRIswVSqDMF8rrJFeT6/BbeElucoCPT+Pi3mE7SOqJgOE5uCkIjAZrYu59CdSy6yGO89/4K64Pr8sx12Ef/1+j1+fYmYco=;ukgtrFfotSG8KiTpyGU0Aw=="
 ---

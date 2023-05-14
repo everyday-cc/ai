@@ -25,36 +25,6 @@ topics:
   - AWS AI
 
 related:
-  - title: "IBM brings back Watson as AI heats up"
-    excerpt: "IBM has unveiled WatsonX, the next generation of the company's AI system. Matthias Balk/picture alliance via Getty Images Watson, the artificial intelligence created by IBM more than a decade ago, is ready for its encore as interest in artificial ..."
-    publishedDateTime: 2023-05-09T15:34:00Z
-    webUrl: "https://fortune.com/2023/05/09/ibm-brings-back-watson-ai/"
-    ampWebUrl: "https://fortune.com/2023/05/09/ibm-brings-back-watson-ai/amp/"
-    cdnAmpWebUrl: "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/2023/05/09/ibm-brings-back-watson-ai/amp/"
-    type: article
-    provider:
-      name: Fortune
-      domain: fortune.com
-    quality: 104
-    images:
-      - url: "https://content.fortune.com/wp-content/uploads/2023/05/GettyImages-1039870520-e1683644169196.jpg?w=840"
-        width: 840
-        height: 559
-        isCached: true
-  - title: "IBM unleashes new AI strategy with \"watsonx\""
-    excerpt: "Such is the case with IBM, the most recent entrant to the generative AI product and service world. At their annual Think conference in Orlando, they"
-    publishedDateTime: 2023-05-09T16:34:00Z
-    webUrl: "https://www.techspot.com/news/98621-ibm-unleashes-new-ai-strategy-watsonx.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 84
-    images:
-      - url: "https://www.techspot.com/images2/news/bigimage/2023/05/2023-05-09-image-7.jpg"
-        width: 2400
-        height: 1200
-        isCached: true
   - title: "IBM’s watsonx could be a generative AI game-changer"
     excerpt: "Generative AI has been much-hyped over the past few months, but still faces serious teething issues. IBM's watsonx could help solve some of those problems."
     publishedDateTime: 2023-05-12T06:45:00Z
@@ -115,20 +85,6 @@ related:
         width: 897
         height: 500
         isCached: true
-  - title: "IBM Launches Its Enterprise Service ‘WatsonX.ai’ as an Alternative to SageMaker Studio, Vertex AI, and Azure AI"
-    excerpt: "According to IBM, WatsonX is an “enterprise studio for AI builders,” motivated by the challenges businesses experience in deploying AI within the workplace. In the same category, Amazon provides SageMaker Studio;"
-    publishedDateTime: 2023-05-09T16:26:00Z
-    webUrl: "https://iblnews.org/ibm-launches-its-enterprise-service-watsonx-ai-as-an-alternative-to-sagemaker-studio-vertex-ai-and-azure-ai/"
-    type: article
-    provider:
-      name: IBL News
-      domain: iblnews.org
-    quality: 51
-    images:
-      - url: "https://iblnews.org/wp-content/uploads/2023/05/watsonxai.jpg"
-        width: 860
-        height: 469
-        isCached: true
   - title: "How IBM’s Watson X is Scripting the End of Business As We Know it"
     excerpt: "Banking on its strength as an enterprise-focused company, and with many organisations already using its Watson chatbot, the company is looking to revive its former glory with this next-generation technology."
     publishedDateTime: 2023-05-12T06:47:00Z
@@ -161,15 +117,6 @@ related:
       name: techzine
       domain: techzine.eu
     quality: 34
-  - title: "SAS to spend $1 billion on AI as global tech race heats up"
-    excerpt: "Cary-based SAS will pour huge sums into advancing its artificial intelligence platforms in order to keep up with other tech giants."
-    publishedDateTime: 2023-05-09T18:00:00Z
-    webUrl: "https://www.bizjournals.com/triangle/inno/stories/news/2023/05/09/sas-to-spend-one-billion-global-ai-race-heats-up.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 19
 
 secured: "aN9Dipc187DbzA/2yKKaKqWYrUDVf99bMVOybFmpDmL7nA9tStTiMGCm1aAUOCuTed8RkTaizJSuXtFlrxvtwxlX+jPvFREKXyrpE3pQ+HmrzNm/huA2DDqdDqHijifdtRbLG++tzbAv00uu+eEWKay6RoGEx5CgRUUfLD3fhQB+nNWTatWFSwpc91waCn37st5Gk9taIUTqySiE4doWz/+CRR6zZ/FCRSl+ECu7aR7YJQ9Cr9aXds190x4auq2JuTh17Ij3bqiGFXpE3TTh8nG/tf2OUTQcqEGW+4dNWvogDSVWTgrf/sdVYLeFMOIEB11+7wmlYMsQ2IUqel0aAAN8E4zqLUQ6U4S8mPdjITjvddYF6/sTFnunVYzvA2HuhQLbZ5+fiuDB/1CXj1kuGO0a2VGssBIkzJ6jwR/Uj3TWvVB+X4eyHzgbLMM0/S2vz/KWXlDhHdFWXoCjKUQEOd65lyn8UmF/iy6RmEkqYzyH5JG6cy8ajXXUQjteK4/C5YXv/G5VUImKhYDF/nCcSw==;2wd3vMIKVXoBiFfKOnNlSQ=="
 ---

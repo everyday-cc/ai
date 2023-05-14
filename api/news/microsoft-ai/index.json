@@ -10,7 +10,7 @@
       "originalUrl": "https://techcrunch.com/2023/05/12/chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 309,
+      "heat": 299,
       "tags": null,
       "images": [
         {
@@ -115,7 +115,7 @@
       "originalUrl": "https://techcrunch.com/2023/05/11/amp-robotics-attracts-investment-from-microsofts-climate-innovation-fund/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 380,
+      "heat": 360,
       "tags": null,
       "images": [
         {
@@ -273,7 +273,7 @@
       "originalUrl": "https://www.zawya.com/en/press-release/companies-news/sas-commits-1bln-to-ai-powered-industry-solutions-ru5q37hj",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -390,6 +390,40 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-09-symphonyai-announces-strategic-collaboration-with-microsoft-azure-ai-for-generative-ai.md",
+      "title": "SymphonyAI announces strategic collaboration with Microsoft Azure AI for generative AI",
+      "excerpt": "SymphonyAI introduces Sensa Copilot, a vertical application that integrates Microsoft Azure OpenAI Service and Azure Cognitive Search to drive value for customers in financial crime prevention and regulatory compliance PALO ALTO,",
+      "sourceUrl": null,
+      "webUrl": "https://it.tmcnet.com/news/2023/05/09/9809924.htm",
+      "originalUrl": "https://it.tmcnet.com/news/2023/05/09/9809924.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-09T09:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1445,49 +1479,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-03-aisera-collaborates-with-microsoft-to-provide-ai-enterprise-service-experiences-with-chatgpt-and-generative-ai.md",
-      "title": "Aisera Collaborates with Microsoft to Provide AI Enterprise Service Experiences with ChatGPT and Generative AI",
-      "excerpt": "Aisera Collaborates with Microsoft to Provide AI Enterprise Service Experiences with ChatGPT and Generative AI May 03, 2023 (PRNewswire via COMTEX) --",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/aisera-collaborates-with-microsoft-to-provide-ai-enterprise-service-experiences-with-chatgpt-and-generative-ai-2023-05-03",
-      "originalUrl": "https://www.marketwatch.com/press-release/aisera-collaborates-with-microsoft-to-provide-ai-enterprise-service-experiences-with-chatgpt-and-generative-ai-2023-05-03",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-03T05:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

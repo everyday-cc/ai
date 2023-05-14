@@ -9,7 +9,7 @@ ampWebUrl: "https://www.aol.com/amphtml/column-writers-strike-only-beginning-120
 cdnAmpWebUrl: "https://www-aol-com.cdn.ampproject.org/c/s/www.aol.com/amphtml/column-writers-strike-only-beginning-120051804.html"
 type: article
 quality: 52
-heat: 72
+heat: 82
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial intelligence and the film and television writers’ strike"
+    excerpt: "Artificial intelligence is at the center of the strike by film and television writers against the studios and networks that are implementing the new tools to eliminate workers and cut hours to increase profitability."
+    publishedDateTime: 2023-05-11T02:57:00Z
+    webUrl: "https://www.wsws.org/en/articles/2023/05/11/cqji-m11.html"
+    type: article
+    provider:
+      name: World Socialist Web Site
+      domain: wsws.org
+    quality: 37
+    images:
+      - url: "https://www.wsws.org/asset/d543cdc6-4533-40e9-8547-cfbb93102bb5?rendition=1600x900"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Column: Your boss wants AI to replace you. The writers’ strike shows how to fight back"
     excerpt: "Artists, journalists and screenwriters are leading the fight against employers who would seek to replace them with the products of ChatGPT and other generative AI software."
     publishedDateTime: 2023-05-11T12:00:00Z

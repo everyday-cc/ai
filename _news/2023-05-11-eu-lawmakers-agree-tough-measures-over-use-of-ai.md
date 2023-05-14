@@ -106,15 +106,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "The threat and promise of artificial intelligence"
-    excerpt: "Yet even if no such revolution threatens, recent advances in artificial intelligence are highly significant. According to Bill Gate s, they are the most important development since personal computers."
-    publishedDateTime: 2023-05-09T16:04:00Z
-    webUrl: "https://www.ft.com/content/41fd34b2-89ee-4b21-ac0a-9b15560ef37c?shareType=nongift"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 17
 
 secured: "hSoXk6DvWFzqGPKCyH5OJcwMQYsVgpCljRQDK70HXIucsixwAtS/r5gGnXxllS8G+pFeu8wkfn5xKiQdH9mrNOER49QuKP4iZWt8OHJnLugAePQw5s9u20QoCQCpSohAM2DugKZTWgVD56Mzp7D542JgvHyMoxQdOp42EusaHj81T+HF0A5PtrSN6PYhkZphbvlPf9eOYrM77VyXoy7s0VL9IS6dgN2B7EM7XMS48M38CdR69FZNMN3OEUb3WXWnvkAYd53GnYeDnrJJgn4N/vLa/oTQg9qa6h2CDcsSK1+dYZ7INeT65N/spbdBv7k3zD47SVZ+Wqy0e0zvh2TrLOmek9YZEhTO03qKDXQOAn5orJsao6D++gi46rN+usF4pNhkBSUl/gpsAgibOv4m+aQxgC2kKkQCKomXGtEwthAkTrYEHyhDxwPrcQSXwxiNafcsW6mzhqjcVsQOEZ9U1U2xJYx6UaK738sOGZLhkqrY9TufwJG5ARl+RV7SGl22chjEYAe0XkxjOfYKt9SUlg==;67VqrqEqcBWdksU458nBhg=="
 ---

@@ -99,6 +99,22 @@ related:
         width: 1024
         height: 578
         isCached: true
+  - title: "Tesla shouldn't call driving system Autopilot because humans are still in control, Buttigieg says"
+    excerpt: "The top U.S. transportation official says Tesla shouldn’t call its partially automated driving system Autopilot because the cars can’t drive themselves. Transportation Secretary Pete Buttigieg says he"
+    publishedDateTime: 2023-05-14T07:45:00Z
+    webUrl: "https://www.normantranscript.com/news/tesla-shouldnt-call-driving-system-autopilot-because-humans-are-still-in-control-buttigieg-says/article_aeba988a-f011-11ed-b34e-d7fe014a9e6f.html"
+    ampWebUrl: "https://www.normantranscript.com/news/tesla-shouldnt-call-driving-system-autopilot-because-humans-are-still-in-control-buttigieg-says/article_aeba988a-f011-11ed-b34e-d7fe014a9e6f.amp.html"
+    cdnAmpWebUrl: "https://www-normantranscript-com.cdn.ampproject.org/c/s/www.normantranscript.com/news/tesla-shouldnt-call-driving-system-autopilot-because-humans-are-still-in-control-buttigieg-says/article_aeba988a-f011-11ed-b34e-d7fe014a9e6f.amp.html"
+    type: article
+    provider:
+      name: The Norman Transcript
+      domain: normantranscript.com
+    quality: 46
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/normantranscript.com/content/tncms/assets/v3/editorial/4/70/47085318-cab0-50bd-bd13-4d247b2a17ef/645d0b8fe607b.image.jpg?resize=1024%2C682"
+        width: 1024
+        height: 682
+        isCached: true
 
 secured: "KqS6pYBGe7CHhbh+BSG/R9NF5u1LLoSKf7namu6NInT8ZqaEBsgrQvJP+y/OebWRJ4mZrrycmNFIplVnxfWGUg/4fJDRo8YkUwX+LFzDtEdGbvfa87dStH4y77De0S2jWWP9i4KpEy94PcPJzSbu3CM5PrpCcYE2HT0JkhV56jTOq0bylYOjjDayWdIKovzN+8wEuToDAAv8mRE58nMcks4DVMed8K2NV+2+u4dEHEDz+8Tws2KRcTBK75KBF8nit5RWPms1T//c9tHIsKwU0N4uy7RAVLDy3yolVOcNO9a+zyvOIcOsL/hO4p5YrZm89sDkYnQ2t6blQYqpeDSBodj5Xia0VCTiXTxHy0khJkS2nraQ1tL8xLLyn3LidgdSOU9OU23/DLa7MNt83pAVjGH7PIElgfrTGdOfwbuRl0wF5ISQIqZu0XzKnlwp9nXWZwpV2G5R/LnzM86KG0nXGiwyZekLnp+VOKIvJs43SOzqu0sYetDPiGkrZ7ruH7SX4PP39xactsNa8M+jW8xa3g==;LyeKZ+avVUEXCYw4fI/ESg=="
 ---

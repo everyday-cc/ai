@@ -261,6 +261,49 @@
       ]
     },
     {
+      "path": "_news/2023-05-12-ibms-watsonx-could-be-a-generative-ai-game-changer.md",
+      "title": "IBM’s watsonx could be a generative AI game-changer",
+      "excerpt": "Generative AI has been much-hyped over the past few months, but still faces serious teething issues. IBM's watsonx could help solve some of those problems.",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerworld.com/article/3696275/ibms-watsonx-could-be-a-generative-ai-game-changer.html",
+      "originalUrl": "https://www.computerworld.com/article/3696275/ibms-watsonx-could-be-a-generative-ai-game-changer.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2023/05/08/01/shutterstock_728178127-100940689-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.computerworld.com/article/3696275/ibms-watsonx-could-be-a-generative-ai-game-changer.amp.html",
+      "cdnAmpWebUrl": "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3696275/ibms-watsonx-could-be-a-generative-ai-game-changer.amp.html",
+      "publishedDateTime": "2023-05-11T23:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computerworld",
+        "domain": "computerworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-12-does-ai-need-a-un-expert-calls-for-global-governing-body-to-police-billions-of-pieces-of-misinformation.md",
       "title": "Does AI need a UN? Expert calls for global governing body to police 'billions of pieces of misinformation'",
       "excerpt": "Cognitive scientist and AI expert Gary Marcus advocates for the formation of an international body to govern emerging artificial intelligence technologies.",
@@ -320,7 +363,7 @@
       "originalUrl": "https://auto.hindustantimes.com/auto/electric-vehicles/tesla-shouldnt-call-its-self-driving-system-autopilot-us-transport-secretary-41683861027992.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 105,
+      "heat": 115,
       "tags": null,
       "images": [
         {
@@ -915,6 +958,50 @@
       ]
     },
     {
+      "path": "_news/2023-05-12-i-made-a-sexy-ai-robot-of-myself-you-can-date-me-for-1-a-minute.md",
+      "title": "I made a sexy AI robot of myself — you can date me for $1 a minute",
+      "excerpt": "He says they also might start training the AI to “slow down a little bit” given that the average use time is two hours — although he didn’t specify how. “I would just hope there’s robust conversations across a lot of different disciplines with ...",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2023/05/11/influencer-turns-herself-into-sexy-ai-robot-you-can-date-for-1/",
+      "originalUrl": "https://nypost.com/2023/05/11/influencer-turns-herself-into-sexy-ai-robot-you-can-date-for-1/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2023/05/NYPICHPDPICT000010943923.jpg?quality=75&strip=all&w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2023/05/11/influencer-turns-herself-into-sexy-ai-robot-you-can-date-for-1/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2023/05/11/influencer-turns-herself-into-sexy-ai-robot-you-can-date-for-1/amp/",
+      "publishedDateTime": "2023-05-11T11:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2023-05-12-ai-venturing-7-timeless-rules-for-success-from-6-decades-of-unicorn-entrepreneurship.md",
       "title": "AI Venturing: 7 Timeless Rules For Success From 6 Decades Of Unicorn-Entrepreneurship",
       "excerpt": "Over the past 60 years, the success of unicorn-entrepreneurs, from the likes of Walton to Chesky, offer insights that can be applied to the emerging AI industry. Whether you aim to dominate the industry or build your growth venture,",
@@ -1077,7 +1164,7 @@
       "originalUrl": "https://www.aol.com/news/column-writers-strike-only-beginning-120051804.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 72,
+      "heat": 82,
       "tags": null,
       "images": [
         {
@@ -1160,110 +1247,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-11-amp-robotics-attracts-investment-from-microsofts-climate-innovation-fund.md",
-      "title": "AMP Robotics attracts investment from Microsoft’s Climate Innovation Fund",
-      "excerpt": "AMP Robotics, a Denver, Colorado-based startup creating robotic systems that can automatically ... infrastructure and expanding new infrastructure based on our application of AI-powered automation,” founder and CEO Matanya Horowitz told TechCrunch ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/05/11/amp-robotics-attracts-investment-from-microsofts-climate-innovation-fund/",
-      "originalUrl": "https://techcrunch.com/2023/05/11/amp-robotics-attracts-investment-from-microsofts-climate-innovation-fund/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 380,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/01/GettyImages-172878844.jpg?w=1200",
-          "width": 1200,
-          "height": 803,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/05/11/amp-robotics-attracts-investment-from-microsofts-climate-innovation-fund/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/11/amp-robotics-attracts-investment-from-microsofts-climate-innovation-fund/amp/",
-      "publishedDateTime": "2023-05-11T08:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-11-spotify-has-an-ai-music-problembut-bots-love-it.md",
-      "title": "Spotify Has an AI Music Problem—but Bots Love It",
-      "excerpt": "Fake listeners are flocking to AI-made songs on streaming platforms, taking much needed money away from human artists.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/spotify-ai-music-robot-listeners/",
-      "originalUrl": "https://www.wired.com/story/spotify-ai-music-robot-listeners/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/645c19f20cbc15924e602a5c/master/pass/AI-Bot-Spotify-Listeners-Culture-1324648625.jpg",
-          "width": 2400,
-          "height": 1800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/spotify-ai-music-robot-listeners/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/spotify-ai-music-robot-listeners/amp",
-      "publishedDateTime": "2023-05-11T08:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

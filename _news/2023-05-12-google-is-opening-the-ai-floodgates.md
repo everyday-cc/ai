@@ -102,15 +102,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "The threat and promise of artificial intelligence"
-    excerpt: "Yet even if no such revolution threatens, recent advances in artificial intelligence are highly significant. According to Bill Gate s, they are the most important development since personal computers."
-    publishedDateTime: 2023-05-09T16:04:00Z
-    webUrl: "https://www.ft.com/content/41fd34b2-89ee-4b21-ac0a-9b15560ef37c?shareType=nongift"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 17
   - title: "EU lawmakers agree tough measures over use of AI"
     excerpt: "EU lawmakers have agreed a tough set of rules over the use of AI, including restrictions on chatbots such as ChatGPT, as Brussels pushes forward in enacting the world’s most restrictive regime on the development of the technology."
     publishedDateTime: 2023-05-11T11:24:00Z

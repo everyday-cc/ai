@@ -39,20 +39,6 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "West-Com Nurse Call Systems, Vitalchat Partner to Bring AI-Enabled Virtual Care Solutions to Healthcare Facilities Nationwide"
-    excerpt: "Two driving forces in the development of telehealth technologies, West-Com Nurse Call Systems and Vitalchat have partnered to provide hospital systems and other healthcare facilities nationwide with virtual care solutions using artificial intelligence to meet the needs and demands of patients,"
-    publishedDateTime: 2023-05-09T15:18:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/05/09/9810668.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 27
-    images:
-      - url: "https://marketplace.connectwise.com/content/images/thumbs/0000635_skykick_550.png"
-        width: 550
-        height: 353
-        isCached: true
 
 secured: "XEs7FMAbTeyjHTcsgKsQbpl8nKbzbE2m8bpWKzSNFBWEj0w4blIQAEy365pHjz/CLGxvsW4d+zFRMMUecw2th+grIfZdjK7t8H9kE+i1NoATYtKQpYonok/8IyzTGUpzH3hZEYfnVDjwp1js5zeMRxloVWQHlSFTd9xm0NCIHD0xrgvYiNRernGYXSM9GP7LEkgZhkSz2Eu4fXkehoBD0JEBxeBPCJVO26aw/813CG15EyJyYEuhmssFWfiyJZDwxOrm+smQxq86O0sZmhYjUl3SbziFdPJdkYv0AzqNxqXBYaFeWj8OhO55s2MMdt2di8JzttOXfK63Dbx6NT+8gUHtC87jKvupOBbD3KLOMwY=;sUPWc8SCYBnZijABDdVxoQ=="
 ---
