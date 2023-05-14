@@ -365,6 +365,15 @@ related:
       name: idw
       domain: idw-online.de
     quality: 34
+  - title: "G7 education ministers stress on mitigating risks related to generative artificial intelligence"
+    excerpt: "G7 Education Ministers agreed on the importance of continued understanding related to issues stemming from the fast-developing technology that has caught the attention of the public since the launch of ChatGPT by US firm OpenAI in November 2022."
+    publishedDateTime: 2023-05-14T17:56:00Z
+    webUrl: "https://www.devdiscourse.com/article/international/2451614-g7-education-ministers-stress-on-mitigating-risks-related-to-generative-artificial-intelligence"
+    type: article
+    provider:
+      name: devdiscourse
+      domain: devdiscourse.com
+    quality: 22
   - title: "The creative use of generative AI in post-production"
     excerpt: "Graham McGuinness at Jigsaw24 Media explains how AI is already helping post-production with creating technical grades and post-producing scripted content"
     publishedDateTime: 2023-05-12T12:08:00Z

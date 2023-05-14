@@ -7,7 +7,7 @@ originalUrl: "https://www.aol.com/news/ai-presents-political-peril-2024-14550333
 webUrl: "https://www.aol.com/news/ai-presents-political-peril-2024-145503335.html"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI presents political peril for 2024 with threat to mislead voters"
+    excerpt: "The threat posed by AI and so-called deepfakes always seemed a year or two away. No more. Sophisticated generative AI tools can now create cloned human voices and hyper-realistic images, videos and audio in seconds,"
+    publishedDateTime: 2023-05-14T21:46:00Z
+    webUrl: "https://www.twincities.com/2023/05/14/ai-presents-political-peril-for-2024-with-threat-to-mislead-voters/"
+    ampWebUrl: "https://www.twincities.com/2023/05/14/ai-presents-political-peril-for-2024-with-threat-to-mislead-voters/amp/"
+    cdnAmpWebUrl: "https://www-twincities-com.cdn.ampproject.org/c/s/www.twincities.com/2023/05/14/ai-presents-political-peril-for-2024-with-threat-to-mislead-voters/amp/"
+    type: article
+    provider:
+      name: TwinCities.com
+      domain: twincities.com
+    quality: 57
+    images:
+      - url: "https://www.twincities.com/wp-content/uploads/2023/05/Artificial_Intelligence_Election_Misinformation_83033.jpg?w=1024&h=683"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "AI presents political peril for 2024 with threat to mislead voters: 'We're not prepared for this'"
     excerpt: "The threat posed by AI and so-called deepfakes always seemed a year or two away. No more. Sophisticated generative AI tools can now create cloned human voices and hyper-realistic images, videos and audio in seconds,"
     publishedDateTime: 2023-05-14T16:45:00Z

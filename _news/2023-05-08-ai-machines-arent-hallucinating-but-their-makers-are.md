@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://i.guim.co.uk/img/media/3e2a29edcacc4a95e491f4320c27942e55e75eca/0_160_4800_2880/master/4800.jpg?width=620&quality=85&auto=format&fit=max&s=9f6ad8bcea835ac21959f33191c8c631"

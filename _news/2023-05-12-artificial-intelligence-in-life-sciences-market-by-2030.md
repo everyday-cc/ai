@@ -59,12 +59,7 @@ related:
     provider:
       name: TMCnet
       domain: tmcnet.com
-    quality: 34
-    images:
-      - url: "https://marketplace.connectwise.com/content/images/thumbs/0000635_skykick_550.png"
-        width: 550
-        height: 353
-        isCached: true
+    quality: 14
 
 secured: "UA+lNQtfMTM/Af3KOErPwU4eZj73ThgqhVfI18aGPGby1m9DetEhq04FNvSJLdP0Pv9483QaWYHjiuRKFpzEd/FmNc0R7vOL2NQGx5VnZ3Xadp2FAxtBJPQ7+nEbLTHZK0NQuHWeWCS4/WLqHNTYy2ycav/D934pmbSAWuKebsLR6DlJkl5FEC0B7BBkMZqm/fEaxSTXN6YygubA9zC0A2qD+9hLY5oq4zxSGzuyrAZbdZmTMmUOtIg4Gm92TLCHcFi6tt1QqcJXO6lhwBjGVe5ySGEQxZsSe7fW6/gUcaPTck+MQ1ppa+vJQIFG/lhS+OqUWkp3YzpVwU6wNBv0Rhbx1u0D09q8DsB+Fyt4AUs=;+WvUpcstAaxx+u9EW3zBJA=="
 ---

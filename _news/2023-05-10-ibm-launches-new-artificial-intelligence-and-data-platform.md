@@ -181,17 +181,6 @@ related:
         width: 640
         height: 427
         isCached: true
-  - title: "AI tools SMEs need to know about"
-    excerpt: "While AI may seem scary, it’s also incredibly useful, and not just to show you the best way around load shedding traffic jams."
-    publishedDateTime: 2023-05-10T04:54:00Z
-    webUrl: "https://mybroadband.co.za/news/industrynews/490791-ai-tools-smes-need-to-know-about.html"
-    ampWebUrl: "https://mybroadband.co.za/news/industrynews/490791-ai-tools-smes-need-to-know-about.html/amp"
-    cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/industrynews/490791-ai-tools-smes-need-to-know-about.html/amp"
-    type: article
-    provider:
-      name: MyBroadband
-      domain: mybroadband.co.za
-    quality: 39
   - title: "Google shows off latest AI tools: Updates from I/O event"
     excerpt: "Generative AI is coming to Google’s flagship product. The new search offering, which Google is calling “search generative experience,” or SGE for short, displays an AI-produced response at the top of results, which seeks to answer a user’s query while summarising key information and linking to website sources."
     publishedDateTime: 2023-05-10T22:30:00Z

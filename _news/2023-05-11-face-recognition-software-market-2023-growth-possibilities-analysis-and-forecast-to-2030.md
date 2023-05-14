@@ -88,20 +88,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Speech Recognition Software Market is Booming Worldwide Throughout 2023 to 2030 | Share, Size, Growth"
-    excerpt: "Global “ Speech Recognition Software Market ” (2023-2030) research report gives an outline of the business with orders, applications and industry chain structure. Speech Recognition Software Market report additionally gives information to the global markets including advancement patterns,"
-    publishedDateTime: 2023-05-10T03:35:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-recognition-software-market-is-booming-worldwide-throughout-2023-to-2030-share-size-growth-2023-05-09"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "sBOa09FuxJbaC6i2VFLAWetU8OJBhIQPIgxm0k6MitkaCP4b3+AITfyDozo7VaN+AwcgJivFmQxD2zRHmcVceZ+Jl/hSkYy9WBCfjgNLaERrfwnPo4PV4ddlImdOrVdnotwswnPN+9PvhLLinNgpqDrWQ10c5b7uw91zUzT2OepxhQXxH9R/ZVKuf1Ncd4BngTnKGIWlz6vsC9wivUnpmgr6pHgDv+UvAA96qYqilgUFKX9XUzuVxf7PAeMmI8BFCsJVz0bgtVGkvVEO5IQZ12K8sU+ae8hcsP+Ov6Dh9I2Zie+naccHqFKofAF0ozAt1V1vx8pAujdezWbBTYRBLtVRDiNVkFJqRf5q65cuWsk=;dTBprOoi8vMOVI9ZnuUuxQ=="
 ---

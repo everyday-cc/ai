@@ -245,7 +245,7 @@
       "originalUrl": "https://techcrunch.com/2023/05/11/amp-robotics-attracts-investment-from-microsofts-climate-innovation-fund/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 360,
+      "heat": 350,
       "tags": null,
       "images": [
         {
@@ -911,8 +911,8 @@
       "title": "Artificial intelligence and robotics: Great expectations and daunting existential risks",
       "excerpt": "The starting point is to understand the basic definitions of key concepts such as Robotics, AI, Machine Learning, Deep Learning, Single-Task AI, Artificial General Intelligence (AGI), Strong AI ...",
       "sourceUrl": null,
-      "webUrl": "https://www.newsday.co.zw/opinion-analysis/article/200011132/artificial-intelligence-and-robotics-great-expectations-and-daunting-existential-risks",
-      "originalUrl": "https://www.newsday.co.zw/opinion-analysis/article/200011132/artificial-intelligence-and-robotics-great-expectations-and-daunting-existential-risks",
+      "webUrl": "https://www.newsday.co.zw/thestandard/opinion-analysis/article/200011132/artificial-intelligence-and-robotics-great-expectations-and-daunting-existential-risks",
+      "originalUrl": "https://www.newsday.co.zw/thestandard/opinion-analysis/article/200011132/artificial-intelligence-and-robotics-great-expectations-and-daunting-existential-risks",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -929,9 +929,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.newsday.co.zw/opinion-analysis/article/200011132/artificial-intelligence-and-robotics-great-expectations-and-daunting-existential-risks",
-      "cdnAmpWebUrl": "https://www-newsday-co-zw.cdn.ampproject.org/c/s/www.newsday.co.zw/opinion-analysis/article/200011132/artificial-intelligence-and-robotics-great-expectations-and-daunting-existential-risks",
-      "publishedDateTime": "2023-05-05T21:27:00-07:00",
+      "ampWebUrl": "https://www.newsday.co.zw/thestandard/amp/opinion-analysis/article/200011132/artificial-intelligence-and-robotics-great-expectations-and-daunting-existential-risks",
+      "cdnAmpWebUrl": "https://www-newsday-co-zw.cdn.ampproject.org/c/s/www.newsday.co.zw/thestandard/amp/opinion-analysis/article/200011132/artificial-intelligence-and-robotics-great-expectations-and-daunting-existential-risks",
+      "publishedDateTime": "2023-05-05T21:33:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "News Day",

@@ -166,17 +166,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "AI tools SMEs need to know about"
-    excerpt: "While AI may seem scary, it’s also incredibly useful, and not just to show you the best way around load shedding traffic jams."
-    publishedDateTime: 2023-05-10T04:54:00Z
-    webUrl: "https://mybroadband.co.za/news/industrynews/490791-ai-tools-smes-need-to-know-about.html"
-    ampWebUrl: "https://mybroadband.co.za/news/industrynews/490791-ai-tools-smes-need-to-know-about.html/amp"
-    cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/industrynews/490791-ai-tools-smes-need-to-know-about.html/amp"
-    type: article
-    provider:
-      name: MyBroadband
-      domain: mybroadband.co.za
-    quality: 39
   - title: "IBM launches new artificial intelligence and data platform"
     excerpt: "Watsonx could bring AI to more businesses IBM on Tuesday launched watsonx, a new artificial intelligence and data platform to help companies integrate AI in their business. The new AI platform launch comes over a decade after IBM's software called Watson got attention for winning the game show"
     publishedDateTime: 2023-05-10T10:45:00Z

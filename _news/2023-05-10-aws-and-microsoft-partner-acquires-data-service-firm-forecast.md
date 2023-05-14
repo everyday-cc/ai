@@ -123,22 +123,6 @@ related:
       name: InfoWorld
       domain: infoworld.com
     quality: 83
-  - title: "Microsoft ramps up A.I. game with bet on startup that helps coding novices build apps"
-    excerpt: "The deal signifies a further bid by Microsoft to ramp up its efforts in AI, which has become a key focus for the company."
-    publishedDateTime: 2023-05-10T04:25:00Z
-    webUrl: "https://www.cnbc.com/2023/05/10/microsoft-ramps-up-ai-game-with-bet-on-no-code-startup-builderai.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2023/05/10/microsoft-ramps-up-ai-game-with-bet-on-no-code-startup-builderai.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/05/10/microsoft-ramps-up-ai-game-with-bet-on-no-code-startup-builderai.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 82
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/107228149-1681932222068-IMG_9456r.jpg?v=1683699593"
-        width: 3263
-        height: 2176
-        isCached: true
   - title: "Builder.ai Collaborates With Microsoft To Democratize Software Development"
     excerpt: "The collaboration will see the two companies collaborate on creating AI powered solutions that empower businesses to develop applications and become digitally native without the need for any technical"
     publishedDateTime: 2023-05-11T07:15:00Z

@@ -6,7 +6,7 @@ publishedDateTime: 2023-05-11T17:53:00Z
 originalUrl: "https://it.tmcnet.com/news/2023/05/11/9812870.htm"
 webUrl: "https://it.tmcnet.com/news/2023/05/11/9812870.htm"
 type: article
-quality: 34
+quality: 14
 heat: -1
 published: false
 
@@ -15,14 +15,8 @@ provider:
   domain: tmcnet.com
 
 topics:
-  - AI
   - AI in Healthcare
-
-images:
-  - url: "https://marketplace.connectwise.com/content/images/thumbs/0000635_skykick_550.png"
-    width: 550
-    height: 353
-    isCached: true
+  - AI
 
 related:
   - title: "Artificial Intelligence Consulting Service Market"
@@ -63,6 +57,6 @@ related:
       domain: marketwatch.com
     quality: 47
 
-secured: "MHs2HPPS04TBArb21be7V6jV5TW2P2pU8ASLe8eiG4WddGx7bAKit2xbbb9/tleFzAQiNrU8Ipgf5AekuzKOXpsyD2UpHbjYXld18qptAhWymu7P4I93te+P2DXMDWwqKPJCCsgMZEJ0dguqRmRq3K6Varn/wVqYmMjyI0Fz54bYbiCxTbJG00UnLlFfFqbZC/WvUNbtQ00pufIFjnM3yQJ0J6h/gMJ5XTl7L9Ix6wtdzgIPRa8hFYNvg5oL9pHQGfbfGtr45/ExZKL/mHwj9BxYWZu30iguAaQAOdugdF4kUIoIr5aZAuZbwAD1IqaJ9AQ4hTDc7hAXMs22qG49Qlln6EWe0zd0P1fAmQzqb5I9ls2SyOthFGSmCE6B51VM7tmIB3pHUGR7RDlvrTo+6X3p998mPAdxcCixyoyBcDlTLT80zFUnJhhkvWgM1htZWEqjlZLVihGU2t6/z/al6ijD4Ocw38RPDhci2bif/w0oAy/L2kyBg1WehhpQSj8C1Ba794tPAixAHuhqYNb8sA==;FlyfiX7aUfi6MKBfWGxGcA=="
+secured: "pc+F/3b63X5bXlXEoZMrd5VIFBgSPQEWkB5iskcRAUvQ0RdMMSop9ISuGH/YQIeFnk41EhM9rG/2am5Sf0nA4iJ9WJ4T30oS0Jdx6T8Z038N3QcsH+/9290w2WdMZSDp50r0N+rDj6d4G6E0C/GbmYNJ14h8G2av2RyKlw58bTAh2h4Es3SmgOJVMNYfy0VA9MBDKXt90mSNCUOFBJ+yJE5KDB1WF6Mv56YY8mZaTwTfRoRNJQZiWtE7DB/FJZCv5wBk9gWjWNdtawFSyofpWoS1BuedW7JAFAltHl81kt6zSKiViJy3kLnwSmRTgTkZj6C+JukVrEeUPpyWQItbdgvmNV5UlMVojMmWfdqm9+FU8B2/W++eKtQVVQHYJO5Gcu8BctgvbrOmpCyoHr4ScOZ7gRbDp/1cym3I4s8EutOyXIrZulAI15oIsUwkJ8PMEdFjIe4b3JcpruAEXJJ2gLg/HgEOtGAk1ZDgPAL7ngFuDUBphHnPerSKKIT0kxrsm4swQcjwqYLsddV4tK7yjw==;lk6p4y+QTKkly4HhXW1cPw=="
 ---
 
