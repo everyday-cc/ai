@@ -383,15 +383,6 @@ related:
       name: Broadcast
       domain: broadcastnow.co.uk
     quality: 19
-  - title: "Creating Business Content With Artificial Intelligence"
-    excerpt: "Sometimes all it takes is a word or concept to get a writer \"unstuck.\" ChatGPT is a great tool to spark the infamous light bulb moment. Ask it for ideas generally related to the concept you are writing about."
-    publishedDateTime: 2023-05-09T14:44:00Z
-    webUrl: "https://www.inc.com/inc-masters/creating-business-content-with-artificial-intelligence.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 17
   - title: "Scale AI unveils its full-stack generative AI platform"
     excerpt: "Scale's Enterprise AI Platform will allow customers to get the benefits of large language models without having to send data out to a third-party AI company."
     publishedDateTime: 2023-05-10T15:01:00Z

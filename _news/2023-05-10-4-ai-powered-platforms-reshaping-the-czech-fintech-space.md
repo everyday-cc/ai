@@ -39,15 +39,6 @@ related:
         width: 1080
         height: 720
         isCached: true
-  - title: "FinovateSpring Hosting 60+ Live Demos Showcasing Disruptive Fintech Solutions"
-    excerpt: "What Can We Learn from Innovators in The Space?\" FinovateSpring is well known for spotlighting new fintech innovations from seed-stage startups to global leaders. The event offers 60-plus short, punchy,"
-    publishedDateTime: 2023-05-09T13:35:00Z
-    webUrl: "https://www.marketwatch.com/press-release/finovatespring-hosting-60-live-demos-showcasing-disruptive-fintech-solutions-2023-05-09"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 31
   - title: "Fintech Benchmarks 2023 – presentation"
     excerpt: "This year the tension between new forms of digital money and who has the authority to issue it came to the fore of the Fintech Benchmarks 2023. The majority of central banks – 73% – said keeping up with regulating the use of new fintech products and services is their key challenge."
     publishedDateTime: 2023-05-11T10:32:00Z

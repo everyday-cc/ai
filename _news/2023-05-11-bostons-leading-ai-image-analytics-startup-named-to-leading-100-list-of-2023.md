@@ -115,15 +115,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 47
-  - title: "FuriosaAI Enhances Next-Generation AI Chips with proteanTecs’ Deep Data Analytics"
-    excerpt: "Tecs, a global leader of deep data analytics for advanced electronics, announced today that FuriosaAI has selected their deep data analytics so"
-    publishedDateTime: 2023-05-09T14:15:00Z
-    webUrl: "https://www.businesswire.com/news/home/20230509005005/en/FuriosaAI-Enhances-Next-Generation-AI-Chips-with-proteanTecs’-Deep-Data-Analytics/"
-    type: article
-    provider:
-      name: newsroom.businesswire.com
-      domain: businesswire.com
-    quality: 29
   - title: "New Survey Finds Financial Leaders Investing in Analytics, AI and ML Tools as They Navigate Economic Uncertainty in 2023"
     excerpt: "OneStream Software, a leader in corporate performance management (CPM) solutions for the world’s leading enterprises,"
     publishedDateTime: 2023-05-10T12:35:00Z

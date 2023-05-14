@@ -277,15 +277,6 @@ related:
         width: 900
         height: 600
         isCached: true
-  - title: "AI in Social Media Market to Witness Growth Acceleration | Google, Facebook, Microsoft"
-    excerpt: "The global AI in Social Media Market is expected to Expand at a significant CAGR of +28% during the Forecasting Period of 2023-2029. A2Z Market Research announces the release of AI in Social Media Market research report."
-    publishedDateTime: 2023-05-09T14:33:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-social-media-market-to-witness-growth-acceleration-google-facebook-microsoft-2023-05-09"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 58
   - title: "Microsoft confidence in UK less 'shaken' as it invests in AI startup"
     excerpt: "Days after slamming Britain as no country for tech businesses, Microsoft Corporation (NASDAQ:MSFT) has invested in a UK artificial intelligence"
     publishedDateTime: 2023-05-10T14:30:00Z
@@ -388,6 +379,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "TEPoxvgAU7hTXsK+DoLQyUw+D3CA0Bpy4Ras2529T5NC3K+pkvgBQoiGRmsT6ab1FwYPu4omPaZnuR9PFz4JXnK0D9HsOm0GOOg2V+0+QmTMMuDOEDy+R2aPsxtnnl4/eTkmx+ucJOH2WRcnHgLacYi9C9glNBe+8cdpO/WPwlQaQnzhhYDe493Xl/bvmHP/0sjbhiJo/NHktdmo1UTQBmQj7gdsYsKTmgVPdVgoqBnPT2lTrWLy0MgHmut2u+2fCS9IxCRrjJh5iEKgUiigGye8g0Kz/WyI92lYmx7JFOZoHirvTtxlh6sEmJRcvRx6Qw3YDkdYHxVnHK4J15t23oKDyoqT7zrHy+tTO0zWbaE=;l2qVq9MbYL/Hnh2XxSokzA=="
+secured: "4P2QmdyD/YdYKQ9Tm9PHwTuDw+/LOUAMlPDZLE8cIVpHXnMZ++R7lvF9kzXIf0akkXRPXzVzIgvloKtgkUnKe6Q+tTPDtMBEsWs95SepuLOQT0HoQSf9IyqstqlfWhugiUT5KqrGDjuK1o7ztip6iLlHVtoAppyMYf/a9qbi6V/OF0I326HIuoqm846oIQO1SMfhoqOeh1vI44j8uyWHGWqsnvQ+y5Rlj+FE/XikaZ4CfEulrrYyjZd6lYvfgdbZlszzX1c4+Vs0+0H/yZIKQbLA2kn4Qmtko8z3Pv8GFrgNft7SQVRPhXI1gIo1hQKkhai8gqfeL8fI5gJLEkvNEWSsHSnBlB+U1NakXJZAmYDo/eTaw3+m8lOsFuLummWkKRNkX/sqXyQ2igyOxo6jPhmSv4/jl2Vt2jHuHQ8/xFc8pdGOtVgWglXlXKULn7rIJT2+bjmBXsaQetvz8lJ0B9DBlfix+Nk1em89murxVFMH9D+yjGgtjqqGkbi6HJ/mPUsTmy08HtccMwKBAvlDaA==;DrIomiliazwziwiApQydpw=="
 ---
 

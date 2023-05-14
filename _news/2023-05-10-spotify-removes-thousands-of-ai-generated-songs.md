@@ -24,86 +24,31 @@ images:
     isCached: true
 
 related:
-  - title: "The Critical Need To Identify AI Generated Content"
-    excerpt: "A lot of concern about AI is raised by hundreds of tech and government leaders who now realize that AI released without serious guardrails could have significant consequences for all of us."
-    publishedDateTime: 2023-05-09T14:00:00Z
-    webUrl: "https://www.forbes.com/sites/timbajarin/2023/05/09/the-critical-need-to-identify-ai-generated-content/"
-    ampWebUrl: "https://www.forbes.com/sites/timbajarin/2023/05/09/the-critical-need-to-identify-ai-generated-content/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/timbajarin/2023/05/09/the-critical-need-to-identify-ai-generated-content/amp/"
+  - title: "Spotify Has an AI Music Problem—but Bots Love It"
+    excerpt: "Fake listeners are flocking to AI-made songs on streaming platforms, taking much needed money away from human artists."
+    publishedDateTime: 2023-05-11T15:08:00Z
+    webUrl: "https://www.wired.com/story/spotify-ai-music-robot-listeners/"
+    ampWebUrl: "https://www.wired.com/story/spotify-ai-music-robot-listeners/amp"
+    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/spotify-ai-music-robot-listeners/amp"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
+      name: Wired
+      domain: wired.com
     quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64594cd3534232d7f02796dd/0x0.jpg?format=jpg&width=1200"
-        width: 836
-        height: 425
+      - url: "https://media.wired.com/photos/645c19f20cbc15924e602a5c/master/pass/AI-Bot-Spotify-Listeners-Culture-1324648625.jpg"
+        width: 2400
+        height: 1800
         isCached: true
-  - title: "Shattering reality: Is AI-generated content already good enough to fool the average person?"
-    excerpt: "An AI expert said AI technology is already capable of producing content so realistic that some people might be convinced that it's genuine."
-    publishedDateTime: 2023-05-10T06:00:00Z
-    webUrl: "https://www.foxnews.com/tech/shattering-reality-ai-generated-content-already-good-enough-fool-average-person"
-    ampWebUrl: "https://www.foxnews.com/tech/shattering-reality-ai-generated-content-already-good-enough-fool-average-person.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/shattering-reality-ai-generated-content-already-good-enough-fool-average-person.amp"
+  - title: "Spotify deletes tens of thousands of songs made with Artificial Intelligence"
+    excerpt: "Spotify has deleted thousands of songs made with AI after fraud attempts and suspicious streaming activity on generative music startup Boomy's songs."
+    publishedDateTime: 2023-05-13T19:28:00Z
+    webUrl: "https://en.as.com/latest_news/spotify-deletes-tens-of-thousands-of-songs-made-with-artificial-intelligence-n/"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 77
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a8cc7ab0-e521-4d68-8592-696b85672d60/15404504-9108-4188-9765-0b413e9fab84/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Three questions business leaders need to ask to get the most out of generative AI"
-    excerpt: "How to bridge the gap between admiration and implementation of AI? Pedro Arellano has three priorities to guide you."
-    publishedDateTime: 2023-05-09T15:11:00Z
-    webUrl: "https://diginomica.com/three-questions-business-leaders-need-ask-get-most-out-generative-ai"
-    ampWebUrl: "https://diginomica.com/three-questions-business-leaders-need-ask-get-most-out-generative-ai?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/three-questions-business-leaders-need-ask-get-most-out-generative-ai?amp"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 54
-    images:
-      - url: "https://diginomica.com/sites/default/files/images/2023-05/Shutterstock_2285573277.png"
-        width: 740
-        height: 450
-        isCached: true
-  - title: "AI-generated letters to lawmakers may skew our politics"
-    excerpt: "Artificial intelligence technology continues to develop at a rapid pace, and with the emergence of AI-powered language models, such as ChatGPT, concerns are developing about the potential spread of misinformation."
-    publishedDateTime: 2023-05-12T11:27:00Z
-    webUrl: "https://www.cbsnews.com/newyork/video/ai-generated-letters-to-lawmakers-may-skew-our-politics/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 37
-    images:
-      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/05/12/d709d4fb-609a-41c6-868f-33658d02ee94/thumbnail/1200x630/49d642f4e4d7723351a160e9a9085e87/484d66c5803a5c1c595e9ba82230c900.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Should Governments Use ChatGPT And AI Generated Content? US Federal And State Government Leaders Share Thoughts"
-    excerpt: "Government agencies across all levels of government are exploring the potential of using AI-generated content and language models to improve their services, automate processes, and enhance decision-making."
-    publishedDateTime: 2023-05-09T18:30:00Z
-    webUrl: "https://www.forbes.com/sites/cognitiveworld/2023/05/09/should-governments-use-chatgpt-and-ai-generated-content-us-federal-and-state-government-leaders-share-thoughts/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 27
-  - title: "Icertis adds Generative AI to Intelligent Contracts platform"
-    excerpt: "Icertis has announced Icertis ExploreAI, introducing ChatGPT into the Icertis Contract Intelligence (ICI) platform. ExploreAI offers new capabilities for"
-    publishedDateTime: 2023-05-10T13:01:00Z
-    webUrl: "https://www.enterprisetimes.co.uk/2023/05/10/icertis-adds-generative-ai-to-intelligent-contracts-platform/"
-    type: article
-    provider:
-      name: enterprisetimes.co.uk
-      domain: enterprisetimes.co.uk
-    quality: 19
+      name: as.com
+      domain: as.com
+    quality: 14
 
 secured: "s3WvEMmDJy2Lxf7Wx7al7ISy2+hW2bazc+etu/uG9DzopzE5+BPdjpxLkElb7QjZrKNpc0w3gj7xCumwtKQwtdrgvMSM1vLxTUfnvH9+BF0zPNJcOezWCwBg1UEuZgoxGNnltVn/70nYc1iMLMGgrajCqDl1OEN5H/MkvhfwBYAai2FeJtTTBXUHJhypyQmy+ZvUf4tEuimAVr80dEaINxDdJzP+vaUIymSVeQQDKQdBtre4wfGHj4xO05zddbjgc+24cDWrZtvTcecDIQxMZ0M5/p0QVKyCJvqAAkwWOJY67Xu7RJWMCFzNhcDT8Bqd20dj3za172d9o0+gfjTF01VKGNZki0MABpwgZOsStQw=;DXvg7NhAvHok1euW54gOtQ=="
 ---

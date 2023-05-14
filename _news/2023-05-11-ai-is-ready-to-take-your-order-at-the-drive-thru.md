@@ -41,15 +41,6 @@ related:
         width: 2000
         height: 1125
         isCached: true
-  - title: "Wendy’s hired Google AI to take your drive-through order"
-    excerpt: "The next time you get a craving for a spicy chicken sandwich, you might have to ask an AI to ring it up for you. American fast food burger chain Wendy’s is teaming up with Google to make an AI-powered chatbot for taking drive-through food orders,"
-    publishedDateTime: 2023-05-09T13:53:00Z
-    webUrl: "https://www.pcworld.com/article/1814175/wendys-hired-google-ai-to-take-your-drive-through-order.html"
-    type: article
-    provider:
-      name: PC World
-      domain: pcworld.com
-    quality: 47
   - title: "Wendy's to test new artificial intelligence drive-thru tech"
     excerpt: "\"Google Cloud's generative AI technology creates a huge opportunity for us to deliver a truly differentiated, faster and frictionless experience for our customers,” CEO Todd Penegor said in a release."
     publishedDateTime: 2023-05-10T13:17:00Z

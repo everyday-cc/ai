@@ -90,29 +90,6 @@ related:
         width: 1500
         height: 844
         isCached: true
-  - title: "IBM: Remember Watson? It's Still Around, Ready to Give Your Business an AI Upgrade"
-    excerpt: "IBM has a new AI and data platform called Watsonx (Opens in a new window) aimed at making it easy for enterprises to take advantage of artificial intelligence. The name Watson fir"
-    publishedDateTime: 2023-05-09T13:03:00Z
-    webUrl: "https://www.pcmag.com/news/ibm-remember-watson-its-still-around-ready-to-give-your-business-an-ai"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 58
-  - title: "IBM Think 2023: Watsonx Promises Enterprise AI At Scale With Trust"
-    excerpt: "Branden Voegerl, the IBM solutions director at Carmel, Ind.-based partner CleanSlate Technology Group, told CRN that AI has been coming up more in conversations with customers, including by those asking for AI tools with more security guardrails than that offered by ChatGPT, a text-generator program that has helped popularize generative AI."
-    publishedDateTime: 2023-05-09T13:33:00Z
-    webUrl: "https://www.crn.com/news/cloud/ibm-think-2023-watsonx-promises-enterprise-ai-at-scale-with-trust"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 58
-    images:
-      - url: "https://www.crn.com/resources/0281-17f8b0808f94-b4ed03592f04-1000/watsonx.jpeg"
-        width: 611
-        height: 457
-        isCached: true
   - title: "IBM Unveils Watsonx Generative AI Platform"
     excerpt: "Though long gone from the HPC systems business, IBM is asserting itself in the HPC-AI and generative AI markets with its announcement today of IBM watsonx, a genAI and data platform.  Announced at its annual Think conference in San Franciscolso,"
     publishedDateTime: 2023-05-09T17:38:00Z
@@ -169,15 +146,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "“Big Blue” Takes Aim Once More at Watson"
-    excerpt: "It’s been a long time since IBM (NYSE:IBM) has actively touted Watson. Originally created to beat humans at the “Jeopardy!” game show, Watson marked IBM’s early splash in artificial intelligence, but it never amounted to a profitable offering."
-    publishedDateTime: 2023-05-09T13:49:00Z
-    webUrl: "https://www.baystreet.ca/articles/techinsider/87351/050923"
-    type: article
-    provider:
-      name: BayStreet
-      domain: baystreet.ca
-    quality: 34
   - title: "IBM unveils Watsonx to bring generative AI to the enterprise"
     excerpt: "The US tech giant is jumping into the generative AI market promising to \"power next generation foundation models\" for businesses. This week IBM announced"
     publishedDateTime: 2023-05-10T11:35:00Z
@@ -187,15 +155,6 @@ related:
       name: techzine
       domain: techzine.eu
     quality: 34
-  - title: "IBM joins the AI race with WatsonX; will 'multiply impact' of artificial intelligence across businesses"
-    excerpt: "IBM, on Tuesday, announced its new WatsonX platform, which is an all-in-one AI building and integration tool for businesses. The iconic American multinational corporation, International Business Machines Corps (IBM) dipped its toes into artificial intelligence more than 10 years ago."
-    publishedDateTime: 2023-05-09T13:18:00Z
-    webUrl: "https://tech.hindustantimes.com/tech/news/ibm-joins-the-ai-race-with-watsonx-will-multiply-impact-of-artificial-intelligence-across-businesses-71683637877347.html"
-    type: article
-    provider:
-      name: Hindustan Times Tech
-      domain: hindustantimes.com
-    quality: 33
   - title: "SAS to spend $1 billion on AI as global tech race heats up"
     excerpt: "Cary-based SAS will pour huge sums into advancing its artificial intelligence platforms in order to keep up with other tech giants."
     publishedDateTime: 2023-05-09T18:00:00Z

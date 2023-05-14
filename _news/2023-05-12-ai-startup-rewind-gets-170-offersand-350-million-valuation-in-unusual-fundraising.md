@@ -34,20 +34,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Startup UVeye raises $100 million for AI-powered car inspections"
-    excerpt: "UVeye, a company that uses artificial intelligence for vehicle inspections, has raised $100 million from investors including General Motors Co. and CarMax Inc."
-    publishedDateTime: 2023-05-09T13:03:00Z
-    webUrl: "https://www.autonews.com/fixed-ops-journal/startup-uveye-raises-100-million"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 37
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/UVEYE-MAIN_i_0.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "AI startup cofounder inundated with offers after Twitter pitch, rejects Unicorn valuation"
     excerpt: "Rewind cofounder Dan Siroker told prospective investors that venture capital firm NEA had committed $12 million and would lead the round at a $350 million valuation."
     publishedDateTime: 2023-05-12T07:57:00Z

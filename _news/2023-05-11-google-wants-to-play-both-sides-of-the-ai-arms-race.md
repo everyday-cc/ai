@@ -70,6 +70,20 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Hackers aim to find flaws in AI - with White House help"
+    excerpt: "But now its maker, OpenAI, and other major AI providers such as Google and Microsoft, are coordinating with the Biden administration to let thousands of hackers take a shot at testing the limits of their technology."
+    publishedDateTime: 2023-05-10T14:01:00Z
+    webUrl: "https://www.houstonchronicle.com/business/article/hackers-aim-to-find-flaws-in-ai-with-white-18090259.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 39
+    images:
+      - url: "https://s.hdnux.com/photos/01/32/64/15/23806829/6/rawImage.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
   - title: "Hospitality sector’s use of artificial intelligence could rise as owners look for ways around expensive apps"
     excerpt: "The idea of robots in hospitality may conjure visions of The Jetsons’ personal assistant Rosey, or robotic waiters at city restaurants, but experts say the sector’s adoption of AI will grow."
     publishedDateTime: 2023-05-12T08:09:00Z

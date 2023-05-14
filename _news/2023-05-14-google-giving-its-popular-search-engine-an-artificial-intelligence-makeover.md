@@ -3,22 +3,22 @@ category: news
 title: "Google giving its popular search engine an artificial-intelligence makeover"
 excerpt: "Google is ready to test the AI waters with its search engine and also unveiled the first foldable smartphone in its Pixel line-up at the I/O showcase."
 publishedDateTime: 2023-05-14T00:15:00Z
-originalUrl: "https://madison.com/business/google-giving-its-popular-search-engine-an-artificial-intelligence-makeover/article_07a06df7-1648-5cfd-b535-8f1678a9a602.html"
-webUrl: "https://madison.com/business/google-giving-its-popular-search-engine-an-artificial-intelligence-makeover/article_07a06df7-1648-5cfd-b535-8f1678a9a602.html"
+originalUrl: "https://richmond.com/news/google-giving-its-popular-search-engine-an-artificial-intelligence-makeover/article_394434cc-c106-561b-9c2a-01981e4d86b3.html"
+webUrl: "https://richmond.com/news/google-giving-its-popular-search-engine-an-artificial-intelligence-makeover/article_394434cc-c106-561b-9c2a-01981e4d86b3.html"
 type: article
 quality: 20
 heat: -1
 published: false
 
 provider:
-  name: Madison.com
-  domain: madison.com
+  name: Richmond
+  domain: richmond.com
 
 topics:
   - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/0/7a/07a06df7-1648-5cfd-b535-8f1678a9a602/645d7241ca788.preview.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+  - url: "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/editorial/3/94/394434cc-c106-561b-9c2a-01981e4d86b3/645d72471dfbf.preview.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
     width: 1200
     height: 630
     isCached: true
@@ -64,6 +64,6 @@ related:
       domain: avclub.com
     quality: 17
 
-secured: "XBkyOLXrKi+buRhipikOALrE7LqFPMtVa0t4Yi7t45tSq8MQQAlo740nHZ3NX7MtPKqjReZm1+vcmlM2hFxeNA+tc1zbOu+3IveYtnPZrCyaNheOYH13RKYzRs8Ml1YbxfPO58G4E4qEFtr0pSBfFFOJ1rxgN8Z9rWfASZrCKx++TPc9LYD6loqtu9d0YnmzDu4y+TiwCzL4tn9SRes/pUhAW3tIrPzIcQ07+Lftf7p1MQU6on8zhnAQA9fvS0m7KRGa+WNk3c2c62mL1CJTTo3PX+c0LWDwz61yohq7XOdMnsZPLpT/7jM77IEJs45lB6+LsaSyl4bCWaR9GzHPHt0IK0/owTWTDkg295Np4VQFklLFpNxq6mOzmJ1NL0OsSr96Dju4WVCysSwClN8V+AKV2eI+L3yuWMlVK8wGqJMmeL1TOg1PD6Cwnq9IMQjkDj1gRL9ESkILQJ1DOHG/bzg3t7R6XIUX7qDAfgEZzWHJsSe1ZdO2JiZi40/atpXBLXp0qawDatl5n3GrFYrHVw==;r2DyUdbJDz+wO5cERF7Cyg=="
+secured: "gJya8nrmcs1rLeJ4XaDpf2Z5NncKtwP3spVOJONNPb0kP4g29Fdpd8XTWmaMKkqmMUzOe1mAzPjv7PJRpfHXLYh4SmK3UdQPq66iB8LluQSIofccNcOEHUPyh2ZMQGOqq7RCEfFZnLy4SG6o64Dglvqkqldkt+i0Wm1/7djX10id2DpoY20bNbohrkxeIB8IqtXMDlfda5amlZyjvX8OJvZ2B9wxlBFaTmW+/nBCUSy/kniSZiyGfr6rGMnwbmr9FIoRBtIS5HNx2Jzmmord2nrLrxiHYccZxDubFXjI6XPEw36XdsYWRSv3p9Jw6r1jdIYCZSfh7pVHWqnWpu11Lq2RvTElfGchc6qk2Y2vgLw=;3/GekZ+50nJ1HBIJwKGBhg=="
 ---
 

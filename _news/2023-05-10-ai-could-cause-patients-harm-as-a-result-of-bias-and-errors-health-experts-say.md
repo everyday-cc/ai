@@ -9,8 +9,8 @@ ampWebUrl: "https://www.businessinsider.com/ai-harm-human-health-public-health-e
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-harm-human-health-public-health-experts-2023-5?amp"
 type: article
 quality: 83
-heat: -1
-published: false
+heat: 93
+published: true
 
 provider:
   name: Business Insider
@@ -30,61 +30,20 @@ images:
     isCached: true
 
 related:
-  - title: "White House addresses AI’s risks and rewards as security experts voice concerns about malicious use"
-    excerpt: "The Biden administration articulated aims to put guardrails around generative and other AI, while attackers get bolder using the technology."
-    publishedDateTime: 2023-05-09T14:23:00Z
-    webUrl: "https://www.techrepublic.com/article/white-house-harness-ai/"
-    ampWebUrl: "https://www.techrepublic.com/article/white-house-harness-ai/amp/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/white-house-harness-ai/amp/"
+  - title: "AI Poses Serious Threats to Health and Human Existence, Researchers Say"
+    excerpt: "Despite the potential for negative health outcomes with the use of artificial intelligence (AI), most research is biased toward its benefits, without sufficient consideration of effective regulations that would be needed to avoid those harms,"
+    publishedDateTime: 2023-05-09T22:57:00Z
+    webUrl: "https://www.medpagetoday.com/special-reports/features/104430"
     type: article
     provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 90
-    images:
-      - url: "https://www.techrepublic.com/wp-content/uploads/2023/05/hero-hite-House-Harness-AI.jpeg"
-        width: 1200
-        height: 750
-        isCached: true
-  - title: "4 Experts Wager Predictions About What's Next in AI, Ed Tech"
-    excerpt: "Experts in technology, education and artificial intelligence expect the next generation of tools will empower students, give them more autonomy over their education and generate more data as well as risks."
-    publishedDateTime: 2023-05-12T20:33:00Z
-    webUrl: "https://www.govtech.com/education/k-12/4-experts-wager-predictions-about-whats-next-in-ai-ed-tech"
-    ampWebUrl: "https://www.govtech.com/education/k-12/4-experts-wager-predictions-about-whats-next-in-ai-ed-tech?_amp=true"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/k-12/4-experts-wager-predictions-about-whats-next-in-ai-ed-tech?_amp=true"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 59
-    images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/bcf2836/2147483647/strip/true/crop/940x490+0+68/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F42%2Fa7%2F51531ad3d4e4ae15f9a84c8a2112%2Fshutterstock-1016367682.jpg"
-        width: 840
-        height: 438
-        isCached: true
-  - title: "Hackers aim to find flaws in AI - with White House help"
-    excerpt: "But now its maker, OpenAI, and other major AI providers such as Google and Microsoft, are coordinating with the Biden administration to let thousands of hackers take a shot at testing the limits of their technology."
-    publishedDateTime: 2023-05-10T14:01:00Z
-    webUrl: "https://www.houstonchronicle.com/business/article/hackers-aim-to-find-flaws-in-ai-with-white-18090259.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: houstonchronicle.com
+      name: MedPage Today
+      domain: medpagetoday.com
     quality: 39
     images:
-      - url: "https://s.hdnux.com/photos/01/32/64/15/23806829/6/rawImage.jpg"
-        width: 2048
-        height: 1365
+      - url: "https://assets.medpagetoday.net/media/images/104xxx/104430.jpg"
+        width: 1600
+        height: 900
         isCached: true
-  - title: "8 Questions About Using AI Responsibly, Answered"
-    excerpt: "Generative AI tools are poised to change the way every business operates. As your own organization begins strategizing which to use, and how, operational and ethical considerations are inevitable. This article delves into eight of them,"
-    publishedDateTime: 2023-05-09T17:01:00Z
-    webUrl: "https://hbr.org/2023/05/8-questions-about-using-ai-responsibly-answered"
-    type: article
-    provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 19
 
 secured: "/4w0AF3gLCtNCnx5D1QMucICsDpUJ2F/phMzQBa9/CtcugHZrDPlI1gvZT+M31oEYtaHoeWlufp5aE36qB302lQKEgTc1FzLNp50kRcRV3q7W35Dyn4rW/lrVQHTtJJ1jFAC/QVok2J7pgMtxnBkoI0S3INgE857EGqRhoGk+ZBm7PQrCo7AygVJ2jvTRMNmuaElNLCLWqzqRsdIL2nKfUYZPnqVdaRBFElh2gzU2b3DqSxFYnbP/kupiO2yY3lXRIEHhDBanG1KBzBAEz0HdYh45siZCtNfZVGpp8htrZziA7KIx5cWrf6xqOZfCaAoMZ0ySpnKXRwRhUlVSo6AHXwUIXo97uL3MTUnTyj+ZRI=;TLqRTiOyn0QiUncs+dIMlg=="
 ---

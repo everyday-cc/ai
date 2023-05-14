@@ -7,7 +7,7 @@ originalUrl: "https://www.thesun.co.uk/tech/22310762/chinese-scientists-brain-ch
 webUrl: "https://www.thesun.co.uk/tech/22310762/chinese-scientists-brain-chip-monkey-control-robotic-arm/"
 type: article
 quality: 33
-heat: -1
+heat: 33
 published: false
 
 provider:
@@ -18,45 +18,6 @@ topics:
   - AI in Robotics
   - AI
   - AI Hardware
-
-related:
-  - title: "Chinese firms to seek AI chips alternatives"
-    excerpt: "THE US government's intensifying chip sanctions against China have forced Chinese firms to search for alternatives to advanced chips used in cutting-edge artificial intelligence (AI) and could even offer a new opportunity for Chinese firms to take the lead in the emerging technology,"
-    publishedDateTime: 2023-05-09T14:06:00Z
-    webUrl: "https://www.manilatimes.net/2023/05/10/business/foreign-business/chinese-firms-to-seek-ai-chips-alternatives/1890644"
-    type: article
-    provider:
-      name: manilatimes
-      domain: manilatimes.net
-    quality: 54
-    images:
-      - url: "https://www.manilatimes.net/uploads/authors/468_1656384454.jpg"
-        width: 400
-        height: 400
-        isCached: true
-  - title: "Didi to mass produce self-driving EVs in partnership with Chinese carmaker GAC"
-    excerpt: "Didi has been preparing for a comeback with autonomous driving cars, a sector favoured by the government, after a 2021 crackdown."
-    publishedDateTime: 2023-05-10T22:00:00Z
-    webUrl: "https://www.scmp.com/tech/article/3220097/didi-mass-produce-self-driving-evs-partnership-chinese-carmaker-gac"
-    type: article
-    provider:
-      name: scmp.com
-      domain: scmp.com
-    quality: 50
-    images:
-      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2023/05/10/94ef84a8-7065-4d3b-aed6-30868f28d524_e01db933.jpg?itok=SYbroS_M&v=1683719752"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Leading Chinese AI company iFLYTEK showcases latest innovations at opening ceremony of BEYOND Expo 2023 in Macao"
-    excerpt: "PRNewswire/ -- iFLYTEK, a leader in AI technology, showcased its latest cutting-edge innovation at the opening ceremonies of"
-    publishedDateTime: 2023-05-11T16:36:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/leading-chinese-ai-company-iflytek-showcases-latest-innovations-at-opening-ceremony-of-beyond-expo-2023-in-macao-1032318837"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 28
 
 secured: "Hg6PR2WjZI9BeBUBr9YN7WwH2p5Ry8/5ithj5Lp6kFgMs0Nze6zxjStEoLDIUOmwZTwAPDB6JHb7tticxy2za1Bc/Z7obv0nmZQVi0uYpvNFyvTiuFedRUBsrCEfTCykxFjwXANRoZ7oT6sYPPhNdjsHA1vmLsNaJgqmXdy786vKPou4CSXHQiWZJ3YWfSFzYVSMOTWfFRX60qBNAIg8uJRG5rf74JE5nauwI2qOucvwMTs3VFao59Dh6Mb4GTgf0C2UFWrlSYm7BXv8q5FZXuj28UYgENkC9jKZESKsfiD7jC0/IuT/4cE0JDvC8lq+3UIsXkH45B7Badpllek8ZxCzf+fiu39qtlQHM2chQEW9gQHQBe0KEYl0NhL4S7TZ/oWrVgrJjHHkGatCdV+ci8Efeb2P6AxVaYyFajh8IsuMR/vjVmyGHtsWw5ieCmLmoQmjE1abNWmTkFnEKKMYs3mNdzDdNfKJbt3D+0eAQgoI4SKxX47iUsnLK3gtYfkAs9trTsaQlSJAIw63Z9/4ng==;EMPIi2/72P+idgjLcVZxuw=="
 ---

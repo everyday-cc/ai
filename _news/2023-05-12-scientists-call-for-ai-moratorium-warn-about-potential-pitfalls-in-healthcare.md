@@ -35,20 +35,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "AI Poses Serious Threats to Health and Human Existence, Researchers Say"
-    excerpt: "Despite the potential for negative health outcomes with the use of artificial intelligence (AI), most research is biased toward its benefits, without sufficient consideration of effective regulations that would be needed to avoid those harms,"
-    publishedDateTime: 2023-05-09T22:57:00Z
-    webUrl: "https://www.medpagetoday.com/special-reports/features/104430"
-    type: article
-    provider:
-      name: MedPage Today
-      domain: medpagetoday.com
-    quality: 39
-    images:
-      - url: "https://assets.medpagetoday.net/media/images/104xxx/104430.jpg"
-        width: 1600
-        height: 900
-        isCached: true
 
 secured: "z6L3kXZPTWo1XhpOeM8nLiPZT3kswCDQV+AyGZZnlx6L9gAJ8M6kanySrlvI8GvXU636Bt5/czsk8i8Nv3ukq5+N6dOk8cntC+zNCWwHjZqod0COH1LR8L/RDPgpmzeUvjXlKO/m99ysugWSDsVTxBGBlldw+nqQKexFQAltKXmIFi/s2LFzTh7J5Xv7UFSQUWjneXBGgQjUDcFCYjItcttzrcAT3OFraM6G4Jm3l7pfZT8GeODlKqqp9uFxk5COz6D9vDlAhMrc74kZ4hF4IO/qI/Yum/Kyj+sswYpto/8xQHAQgA0LQK5jIlcnYgD8VzgEews8zvKCJiZ05e/Fd2Gir4RSjgnsHd8t0UY8DZB1oBwrGc0cYE6kJc9uvquN7z2h7vAOXzQlUbPCWTBkH8jVnGUVPsa9M/jwOOWZ35OA6XZpuJHo+nHxddtWn0jdVgGh/1yT1l7g/WOOQAxwYtGOz8LnWn/8qrSiw2ngIDK9POo4O4M6PS6koU5VggmOxD1ImPTvn6+jm1YnO8gZXg==;l6lLvJfh2Hk4GfoRB/tFSQ=="
 ---

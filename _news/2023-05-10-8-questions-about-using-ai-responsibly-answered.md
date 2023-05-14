@@ -19,67 +19,21 @@ topics:
   - AI
 
 related:
-  - title: "White House addresses AI’s risks and rewards as security experts voice concerns about malicious use"
-    excerpt: "The Biden administration articulated aims to put guardrails around generative and other AI, while attackers get bolder using the technology."
-    publishedDateTime: 2023-05-09T14:23:00Z
-    webUrl: "https://www.techrepublic.com/article/white-house-harness-ai/"
-    ampWebUrl: "https://www.techrepublic.com/article/white-house-harness-ai/amp/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/white-house-harness-ai/amp/"
+  - title: "Stability AI releases an open source text-to-animation tool"
+    excerpt: "On Thursday, Stability AI, the AI company that created Stable Diffusion, unveiled a text-to-animation tool that allows developers and artists to use Stable Diffusion models to generate animations."
+    publishedDateTime: 2023-05-12T19:42:00Z
+    webUrl: "https://www.zdnet.com/article/stability-ai-releases-an-open-source-text-to-animation-tool/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/stability-ai-releases-an-open-source-text-to-animation-tool/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/stability-ai-releases-an-open-source-text-to-animation-tool/"
     type: article
     provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 90
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
     images:
-      - url: "https://www.techrepublic.com/wp-content/uploads/2023/05/hero-hite-House-Harness-AI.jpeg"
+      - url: "https://www.zdnet.com/a/img/resize/5306c86c79ca2fc8c3e8d31f1ae62eca9525c636/2023/05/12/78c1ed06-52e0-48b8-b957-c1308e847d66/screenshot-2023-05-12-at-12-58-49-pm.png?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
-        height: 750
-        isCached: true
-  - title: "AI could cause patients harm as a result of bias and errors, health experts say"
-    excerpt: "Health professionals said that while healthcare could benefit from AI, the technology \"also has the potential to produce negative health impacts.\""
-    publishedDateTime: 2023-05-10T11:15:00Z
-    webUrl: "https://www.businessinsider.com/ai-harm-human-health-public-health-experts-2023-5"
-    ampWebUrl: "https://www.businessinsider.com/ai-harm-human-health-public-health-experts-2023-5?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-harm-human-health-public-health-experts-2023-5?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 83
-    images:
-      - url: "https://i.insider.com/645b62bd65a21600192fe28a?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "4 Experts Wager Predictions About What's Next in AI, Ed Tech"
-    excerpt: "Experts in technology, education and artificial intelligence expect the next generation of tools will empower students, give them more autonomy over their education and generate more data as well as risks."
-    publishedDateTime: 2023-05-12T20:33:00Z
-    webUrl: "https://www.govtech.com/education/k-12/4-experts-wager-predictions-about-whats-next-in-ai-ed-tech"
-    ampWebUrl: "https://www.govtech.com/education/k-12/4-experts-wager-predictions-about-whats-next-in-ai-ed-tech?_amp=true"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/k-12/4-experts-wager-predictions-about-whats-next-in-ai-ed-tech?_amp=true"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 59
-    images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/bcf2836/2147483647/strip/true/crop/940x490+0+68/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F42%2Fa7%2F51531ad3d4e4ae15f9a84c8a2112%2Fshutterstock-1016367682.jpg"
-        width: 840
-        height: 438
-        isCached: true
-  - title: "Hackers aim to find flaws in AI - with White House help"
-    excerpt: "But now its maker, OpenAI, and other major AI providers such as Google and Microsoft, are coordinating with the Biden administration to let thousands of hackers take a shot at testing the limits of their technology."
-    publishedDateTime: 2023-05-10T14:01:00Z
-    webUrl: "https://www.houstonchronicle.com/business/article/hackers-aim-to-find-flaws-in-ai-with-white-18090259.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: houstonchronicle.com
-    quality: 39
-    images:
-      - url: "https://s.hdnux.com/photos/01/32/64/15/23806829/6/rawImage.jpg"
-        width: 2048
-        height: 1365
+        height: 675
         isCached: true
 
 secured: "ic/E1Z6cI9zzY7WvJoKqbbfS+gZNVORH6ZKYLl4Ej9DCefq7RTrLdSnNkL7+mISugGJBRCMXdi0hqZmDZSd6/5dggYc0yadFsSE66r7T9TdjzRbs1LXDpmmRznxV/ZHPUee4/ZVeR30miv1tahnz9I91jq18oUyjnijmKfrsRZAsTc1zOgG1fNW1+/4+cZst2F+lWHrPbUsmcgXb3+iG2M9BLADr15YNXu6GMu06OyCVmzh0Qi5GTr0kyMUIx3/QeND+cB4fGvSNKpxuy6/SSELHzB8aRqiRBVunzn6KyvJogaFwzlAcVWEl/sUpL4ekkwmfr4Kmk/xUpTDdL65uklo0Y56AP7WAFo469IYPeHsuChKFsAcjClsPy2+kzNk9pxS+Xi8O0XKcWpKS4Wwjrf3Tm9q97IuHPpyrEGP4Q2rA46ih2MgLValo5u+wXK8BGwGPWVqpEkUC636vj4NpD/5pDSjAsgqSXVlqnCVJgE/zKPCfds4fzHLvGCwDj74+pxD00R+3UehZln2rvaPqfw==;eO7tv+/DuYNrZLMeZA6Kbw=="

@@ -101,20 +101,6 @@ related:
         width: 912
         height: 306
         isCached: true
-  - title: "With Seed Funding Secured, AI Detection Tool GPTZero Launches New Browser Plugin"
-    excerpt: "CEO Edward Tian and his team of 10 machine learning engineers wants to “preserve what’s human” by giving people the ability to discern what’s machine generated."
-    publishedDateTime: 2023-05-09T14:33:00Z
-    webUrl: "https://www.forbes.com/sites/rashishrivastava/2023/05/09/with-seed-funding-secured-ai-detection-tool-gptzero-launches-new-browser-plugin/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 62
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/645a534875a3f83c6644914e/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 900
-        isCached: true
   - title: "Larry Magid: Google unveils new devices while focusing on AI"
     excerpt: "As I entered Shoreline Amphitheater on Wednesday, I thought I was attending Google IO – the company’s annual developers conference. But after listening to CEO Sundar Pichai and several other"
     publishedDateTime: 2023-05-11T01:49:00Z

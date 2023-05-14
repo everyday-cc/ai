@@ -7,7 +7,7 @@ originalUrl: "https://asia.nikkei.com/Spotlight/Caixin/China-s-tech-elite-lead-A
 webUrl: "https://asia.nikkei.com/Spotlight/Caixin/China-s-tech-elite-lead-AI-startup-frenzy"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,31 +22,6 @@ images:
     width: 1260
     height: 630
     isCached: true
-
-related:
-  - title: "Cedars-Sinai establishes center for AI, machine learning"
-    excerpt: "Los Angeles-based Cedars-Sinai has established a new center focused on advancing artificial intelligence and machine learning."
-    publishedDateTime: 2023-05-09T14:06:00Z
-    webUrl: "https://www.beckershospitalreview.com/innovation/cedars-sinai-establishes-center-for-ai-machine-learning.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 54
-    images:
-      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "How OpenAI may keep enterprises from building their own AI models"
-    excerpt: "Enterprise leaders balk at the idea of sending their proprietary data off to another company's models. With open source thriving, they may just build their own."
-    publishedDateTime: 2023-05-10T04:04:00Z
-    webUrl: "https://www.fastcompany.com/90893423/how-openai-may-keep-enterprises-from-building-their-own-ai-models"
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 17
 
 secured: "TtkfaIDK8hlLRxgGKPsyHUTRbV5GSFyW5vf9hS1c7sdBfG72veSpwMhpT2dXPuZbhFgCpWA0YXRZJUVzfSvhOFIx2f7szamqGIMjmJQoJ/aW0JS94MzlmRVsQ3NLHXHo+xhEfbaI7AvKDZ0nVt7ovkmi+P6Pw88rg/MOVvARNldo8pKvcMu7hj7a6gJaykg6UYU3Oa/YS4ElzE3+b7gunMfdesZbYC3A/DrHzdCp2X2qktTz3bmANTous+EuAL6T19IJAes6UkBqZUuv5s00jNQOWzMSk0B+GxHRtjtlDL4YYYv5DpCD9jDy4x27LjLs7xeI9ExbXM8CxgBb9zWy3ku4oMza6nJ6Ff0UfjrKfPk=;7Ll/dOmrTKxJKsC+mhvKVQ=="
 ---

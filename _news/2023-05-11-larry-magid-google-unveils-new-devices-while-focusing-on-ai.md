@@ -103,20 +103,6 @@ related:
         width: 912
         height: 306
         isCached: true
-  - title: "With Seed Funding Secured, AI Detection Tool GPTZero Launches New Browser Plugin"
-    excerpt: "CEO Edward Tian and his team of 10 machine learning engineers wants to “preserve what’s human” by giving people the ability to discern what’s machine generated."
-    publishedDateTime: 2023-05-09T14:33:00Z
-    webUrl: "https://www.forbes.com/sites/rashishrivastava/2023/05/09/with-seed-funding-secured-ai-detection-tool-gptzero-launches-new-browser-plugin/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 62
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/645a534875a3f83c6644914e/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 900
-        isCached: true
   - title: "Law firms are experimenting with artificial intelligence tools"
     excerpt: "Big law firms, known for their grueling hours and workloads, are experimenting with artificial intelligence tools that can handle the drudgery typically delegated to entry-level lawyers and simplify complex work that bogs down even top firm leaders,"
     publishedDateTime: 2023-05-12T14:49:00Z

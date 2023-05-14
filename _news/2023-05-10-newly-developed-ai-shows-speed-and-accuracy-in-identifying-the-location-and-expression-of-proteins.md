@@ -25,17 +25,6 @@ images:
     height: 1352
     isCached: true
 
-related:
-  - title: "PeSTo: A new AI tool for predicting protein interactions"
-    excerpt: "Scientists at EPFL have developed PeSTo, an AI model that can predict, with high confidence, the binding interfaces of proteins when they bind other proteins, nucleic acids, lipids, ions, and small molecules."
-    publishedDateTime: 2023-05-10T13:31:00Z
-    webUrl: "https://phys.org/news/2023-05-pesto-ai-tool-protein-interactions.html"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 17
-
 secured: "trzRahLJCjsuqVmvIosnOy713Lq45e8dLD19TFqxmM+iRqRVqc7F+R/R7P0Z66ls87A9to5jz9bGjAIjfbi//dFxltdErp+UKebyjfvaDDS4cPAF0eVg9XJuqwUsjxCShxE7Gg7FiC63sA2qjvq1k2IgzC0IUqtYqwuQ4Ss5CJfIAMAvvv5Vytc1gt78HJExkD/WZcqGxM4lgmp28eC1RnIj5W+/+wYuxdv3sdMaSloKXe0TlDd5oKpLOK1+WjM1l4akNKR1eVhLaIRZKzD91rhnUnv9ZttX+KYT4Csr6Beqx9M5QyYBvp2KnEn/ezwSPHODAQj7lZ9fzFpl3G899XGSQBgQbaCgWBvUNgn/yjo=;0RotsBGc398IJBs41x4MJQ=="
 ---
 

@@ -287,15 +287,6 @@ related:
         width: 900
         height: 600
         isCached: true
-  - title: "AI in Social Media Market to Witness Growth Acceleration | Google, Facebook, Microsoft"
-    excerpt: "The global AI in Social Media Market is expected to Expand at a significant CAGR of +28% during the Forecasting Period of 2023-2029. A2Z Market Research announces the release of AI in Social Media Market research report."
-    publishedDateTime: 2023-05-09T14:33:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-social-media-market-to-witness-growth-acceleration-google-facebook-microsoft-2023-05-09"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 58
   - title: "Microsoft Partners With Builder.AI to Expand its AI Network"
     excerpt: "Microsoft has announced that it is partnering with Gurugram-based software platform, Builder.ai, in a strategic collaboration that will see the two companies"
     publishedDateTime: 2023-05-10T15:09:00Z

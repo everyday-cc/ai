@@ -34,15 +34,6 @@ related:
         width: 2000
         height: 1125
         isCached: true
-  - title: "Wendy’s hired Google AI to take your drive-through order"
-    excerpt: "The next time you get a craving for a spicy chicken sandwich, you might have to ask an AI to ring it up for you. American fast food burger chain Wendy’s is teaming up with Google to make an AI-powered chatbot for taking drive-through food orders,"
-    publishedDateTime: 2023-05-09T13:53:00Z
-    webUrl: "https://www.pcworld.com/article/1814175/wendys-hired-google-ai-to-take-your-drive-through-order.html"
-    type: article
-    provider:
-      name: PC World
-      domain: pcworld.com
-    quality: 47
   - title: "AI is ready to take your order at the drive-thru"
     excerpt: "Soon, it might no longer be an employee, but a robot, or rather generative artificial intelligence, taking your order for a burger with fries and a soda."
     publishedDateTime: 2023-05-11T01:00:00Z

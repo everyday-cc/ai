@@ -7,7 +7,7 @@ originalUrl: "https://www.dailyprincetonian.com/article/2023/05/pgsu-seeks-volun
 webUrl: "https://www.dailyprincetonian.com/article/2023/05/pgsu-seeks-voluntary-university-recognition-instead-of-election"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -25,20 +25,17 @@ images:
     isCached: true
 
 related:
-  - title: "Outsourced Amazon cleaners set to win historic union recognition"
-    excerpt: "OUTSOURCED cleaners at an Amazon warehouse in Kent are set to become the first British workers at a site run by the US-owned online giant to win union recognition, the United Voices of the World (UVW) said today."
-    publishedDateTime: 2023-05-09T14:17:00Z
-    webUrl: "https://morningstaronline.co.uk/article/b/outsourced-amazon-cleaners-set-to-win-historic-union-recognition"
+  - title: "United States Rugby Players Association calls for Voluntary Recognition from Major League Rugby"
+    excerpt: "RugbyUnionNow.com campaign launched, with the aim to strengthen the league and evolve the sport in North America. The United States Rugby Players Association (USRPA) is calling for voluntary recogniti"
+    publishedDateTime: 2023-05-11T16:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/05/n32345940/united-states-rugby-players-association-calls-for-voluntary-recognition-from-major-league-rugby"
+    ampWebUrl: "https://www.benzinga.com/amp/content/32345940"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32345940"
     type: article
     provider:
-      name: Morning Star
-      domain: morningstaronline.co.uk
-    quality: 24
-    images:
-      - url: "https://morningstaronline.co.uk/sites/default/files/AP22322049579948_1.jpeg"
-        width: 1180
-        height: 585
-        isCached: true
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 12
   - title: "Chicago’s principals association plans to file for union recognition"
     excerpt: "The Chicago Principals & Administrators Association is submitting signatures with the Illinois Educational Labor Relations Board representing almost 80% of the district’s roughly 1,100 principals and assistant principals,"
     publishedDateTime: 2023-05-12T13:05:00Z

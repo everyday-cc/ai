@@ -25,63 +25,98 @@ images:
     isCached: true
 
 related:
-  - title: "White House addresses AI’s risks and rewards as security experts voice concerns about malicious use"
-    excerpt: "The Biden administration articulated aims to put guardrails around generative and other AI, while attackers get bolder using the technology."
-    publishedDateTime: 2023-05-09T14:23:00Z
-    webUrl: "https://www.techrepublic.com/article/white-house-harness-ai/"
-    ampWebUrl: "https://www.techrepublic.com/article/white-house-harness-ai/amp/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/white-house-harness-ai/amp/"
+  - title: "Rise Of The AI Whisperers"
+    excerpt: "I see the emerging profession of AI whisperer as holding the key to unlocking the full potential of AI systems."
+    publishedDateTime: 2023-05-11T11:15:00Z
+    webUrl: "https://www.forbes.com/sites/theyec/2023/05/11/rise-of-the-ai-whisperers/"
+    ampWebUrl: "https://www.forbes.com/sites/theyec/2023/05/11/rise-of-the-ai-whisperers/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2023/05/11/rise-of-the-ai-whisperers/amp/"
     type: article
     provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 90
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: "https://www.techrepublic.com/wp-content/uploads/2023/05/hero-hite-House-Harness-AI.jpeg"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/645ba88738407b978d2796dd/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 750
+        height: 800
         isCached: true
-  - title: "AI could cause patients harm as a result of bias and errors, health experts say"
-    excerpt: "Health professionals said that while healthcare could benefit from AI, the technology \"also has the potential to produce negative health impacts.\""
-    publishedDateTime: 2023-05-10T11:15:00Z
-    webUrl: "https://www.businessinsider.com/ai-harm-human-health-public-health-experts-2023-5"
-    ampWebUrl: "https://www.businessinsider.com/ai-harm-human-health-public-health-experts-2023-5?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-harm-human-health-public-health-experts-2023-5?amp"
+  - title: "Google Is Opening the AI Floodgates"
+    excerpt: "This week we recap all the news from Google I/O and discuss how the company is reshaping its core business with generative tools."
+    publishedDateTime: 2023-05-12T12:00:00Z
+    webUrl: "https://www.wired.com/story/gadget-lab-podcast-597/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 83
+      name: Wired
+      domain: wired.com
+    quality: 67
     images:
-      - url: "https://i.insider.com/645b62bd65a21600192fe28a?width=1200&format=jpeg"
+      - url: "https://media.wired.com/photos/645d18570b67c709cbcaa855/191:100/w_1280,c_limit/Google-IO-2023-Gadget-Lab-Gear-1488931959.jpg"
+        width: 1280
+        height: 670
+        isCached: true
+  - title: "As AI jobs loss fears spread, know these 10 jobs that will grow because of it"
+    excerpt: "World Economic Forum has informed about top 10 fastest growing jobs because of Artificial Intelligence. From Robotics Engineers to AI Machine Learning specialists, check the list here. Artificial Intelligence will claim a huge number of jobs causing fear to spread rapidly among workers."
+    publishedDateTime: 2023-05-10T21:42:00Z
+    webUrl: "https://tech.hindustantimes.com/tech/news/as-ai-jobs-loss-fears-spread-know-these-10-jobs-that-will-grow-because-of-it-71683713149141.html"
+    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/as-ai-jobs-loss-fears-spread-know-these-10-jobs-that-will-grow-because-of-it-71683713149141.html"
+    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/as-ai-jobs-loss-fears-spread-know-these-10-jobs-that-will-grow-because-of-it-71683713149141.html"
+    type: article
+    provider:
+      name: Hindustan Times Tech
+      domain: hindustantimes.com
+    quality: 56
+    images:
+      - url: "https://images.hindustantimes.com/tech/img/2023/05/10/cropped/16-9/USA-ARTIFICAL-INTELLIGENCE-BIDEN-0_1683713231312_1683713308449.JPG?impolicy=new-ht-20210112&width=1600"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "Google Wants to Play Both Sides of the AI Arms Race"
+    excerpt: "CEO Sundar Pichai and several top executives at Google’s parent company Alphabet took the stage to announce the infusion of AI into its suite of tools, as well as the launch of a new-and-improved AI model to power it all."
+    publishedDateTime: 2023-05-10T22:03:00Z
+    webUrl: "https://www.thedailybeast.com/googles-io-conference-reveals-the-internets-ai-generated-future"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 37
+    images:
+      - url: "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_675,w_1200,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1683752560/230509-Google-AI-sides-tease_dvcxia"
         width: 1200
-        height: 600
+        height: 675
         isCached: true
-  - title: "4 Experts Wager Predictions About What's Next in AI, Ed Tech"
-    excerpt: "Experts in technology, education and artificial intelligence expect the next generation of tools will empower students, give them more autonomy over their education and generate more data as well as risks."
-    publishedDateTime: 2023-05-12T20:33:00Z
-    webUrl: "https://www.govtech.com/education/k-12/4-experts-wager-predictions-about-whats-next-in-ai-ed-tech"
-    ampWebUrl: "https://www.govtech.com/education/k-12/4-experts-wager-predictions-about-whats-next-in-ai-ed-tech?_amp=true"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/k-12/4-experts-wager-predictions-about-whats-next-in-ai-ed-tech?_amp=true"
+  - title: "Hospitality sector’s use of artificial intelligence could rise as owners look for ways around expensive apps"
+    excerpt: "The idea of robots in hospitality may conjure visions of The Jetsons’ personal assistant Rosey, or robotic waiters at city restaurants, but experts say the sector’s adoption of AI will grow."
+    publishedDateTime: 2023-05-12T08:09:00Z
+    webUrl: "https://thewest.com.au/business/retail/hospitality-sectors-use-of-artificial-intelligence-could-rise-as-owners-look-for-ways-around-expensive-apps-c-10415544"
     type: article
     provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 59
+      name: The West Australian
+      domain: thewest.com.au
+    quality: 20
     images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/bcf2836/2147483647/strip/true/crop/940x490+0+68/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F42%2Fa7%2F51531ad3d4e4ae15f9a84c8a2112%2Fshutterstock-1016367682.jpg"
-        width: 840
-        height: 438
+      - url: "https://images.thewest.com.au/publication/C-10415544/57de6a51ee683fc8bed087633ae160bcc2fb5431-16x9-x0y287w2756h1550.jpg?imwidth=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "8 Questions About Using AI Responsibly, Answered"
-    excerpt: "Generative AI tools are poised to change the way every business operates. As your own organization begins strategizing which to use, and how, operational and ethical considerations are inevitable. This article delves into eight of them,"
-    publishedDateTime: 2023-05-09T17:01:00Z
-    webUrl: "https://hbr.org/2023/05/8-questions-about-using-ai-responsibly-answered"
+  - title: "The threat and promise of artificial intelligence"
+    excerpt: "Yet even if no such revolution threatens, recent advances in artificial intelligence are highly significant. According to Bill Gate s, they are the most important development since personal computers."
+    publishedDateTime: 2023-05-09T16:04:00Z
+    webUrl: "https://www.ft.com/content/41fd34b2-89ee-4b21-ac0a-9b15560ef37c?shareType=nongift"
     type: article
     provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 19
+      name: The Financial Times
+      domain: ft.com
+    quality: 17
+  - title: "EU lawmakers agree tough measures over use of AI"
+    excerpt: "EU lawmakers have agreed a tough set of rules over the use of AI, including restrictions on chatbots such as ChatGPT, as Brussels pushes forward in enacting the world’s most restrictive regime on the development of the technology."
+    publishedDateTime: 2023-05-11T11:24:00Z
+    webUrl: "https://www.ft.com/content/da597e19-4d63-4d4d-b7d1-c3405302a1e3"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 17
 
 secured: "5Z3Lv6NGSdjUhlD/5xMHz2AUc8WydrvdqceVqOP2cp9+jJoa9ks1YdJbZ7jSfWeBAjMeRdHZGBGQxPFAksGgbnqMqJR8IbVxK350vXZbfV23L5g8ndqWOMAsDlj2fJ+BdLiGy6G5x/KmMq4HkdXHk0iwnf9am9VjG74yLW5jbylYJq3v934oqbG9EudSxDcQ1JCFX/HAPP6BU8JDRRUmYg5LQLR4dcQirBuAEo4WXokfy6PwHWhf2dxAygpbaeR5k2AdAPp8Wn3YFwU02+fLyxY2uh/Ljcvx8nyYHvxPpdbyVL5u3HfCpKqSOZLl58hwTHMVlYojuB7dUPUvRnMhcoGIcb3C5Q3zu/qYeLUa84w=;4obrIRCMY/3WDITXJCdtow=="
 ---

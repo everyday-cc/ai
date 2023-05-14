@@ -53,15 +53,6 @@ related:
         width: 1080
         height: 720
         isCached: true
-  - title: "FinovateSpring Hosting 60+ Live Demos Showcasing Disruptive Fintech Solutions"
-    excerpt: "What Can We Learn from Innovators in The Space?\" FinovateSpring is well known for spotlighting new fintech innovations from seed-stage startups to global leaders. The event offers 60-plus short, punchy,"
-    publishedDateTime: 2023-05-09T13:35:00Z
-    webUrl: "https://www.marketwatch.com/press-release/finovatespring-hosting-60-live-demos-showcasing-disruptive-fintech-solutions-2023-05-09"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 31
   - title: "Tricolor Wins Fintech Nexus Award for Excellence in Financial Inclusion"
     excerpt: "Tricolor Holdings today announced that it has been named the Fintech Nexus Award winner for Excellence in Financial Inclusion. Given to the financial services company making the biggest difference in expanding access to financial services for the underserved population,"
     publishedDateTime: 2023-05-11T13:15:00Z

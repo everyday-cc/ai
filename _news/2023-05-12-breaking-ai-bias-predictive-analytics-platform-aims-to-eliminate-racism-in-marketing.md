@@ -111,15 +111,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 47
-  - title: "FuriosaAI Enhances Next-Generation AI Chips with proteanTecs’ Deep Data Analytics"
-    excerpt: "Tecs, a global leader of deep data analytics for advanced electronics, announced today that FuriosaAI has selected their deep data analytics so"
-    publishedDateTime: 2023-05-09T14:15:00Z
-    webUrl: "https://www.businesswire.com/news/home/20230509005005/en/FuriosaAI-Enhances-Next-Generation-AI-Chips-with-proteanTecs’-Deep-Data-Analytics/"
-    type: article
-    provider:
-      name: newsroom.businesswire.com
-      domain: businesswire.com
-    quality: 29
   - title: "Boston’s Leading AI Image Analytics Startup Named to Leading 100 List of 2023"
     excerpt: "The Lead has announced The Leading 100 of 2023, the highly anticipated annual research list recognizing the innovative tech startups driving the future of brand-to-consumer, … Continue Reading →"
     publishedDateTime: 2023-05-11T13:10:00Z

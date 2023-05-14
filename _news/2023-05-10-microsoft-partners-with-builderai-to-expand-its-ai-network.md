@@ -287,15 +287,6 @@ related:
         width: 900
         height: 600
         isCached: true
-  - title: "AI in Social Media Market to Witness Growth Acceleration | Google, Facebook, Microsoft"
-    excerpt: "The global AI in Social Media Market is expected to Expand at a significant CAGR of +28% during the Forecasting Period of 2023-2029. A2Z Market Research announces the release of AI in Social Media Market research report."
-    publishedDateTime: 2023-05-09T14:33:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-social-media-market-to-witness-growth-acceleration-google-facebook-microsoft-2023-05-09"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 58
   - title: "Microsoft confidence in UK less 'shaken' as it invests in AI startup"
     excerpt: "Days after slamming Britain as no country for tech businesses, Microsoft Corporation (NASDAQ:MSFT) has invested in a UK artificial intelligence"
     publishedDateTime: 2023-05-10T14:30:00Z

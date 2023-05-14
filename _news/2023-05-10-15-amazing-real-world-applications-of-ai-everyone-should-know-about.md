@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/05/10/15-amazing-real-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/05/10/15-amazing-real-world-applications-of-ai-everyone-should-know-about/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 1200
     height: 676
     isCached: true
-
-related:
-  - title: "A.I. Week: How artificial intelligence is revolutionizing the medical world"
-    excerpt: "Artificial intelligence is revolutionizing the international medical field, and in the near future, its role in our hospitals is expected to just keep growing."
-    publishedDateTime: 2023-05-09T14:02:00Z
-    webUrl: "https://www.wxyz.com/news/a-i-week-how-artificial-intelligence-is-revolutionizing-the-medical-world"
-    type: article
-    provider:
-      name: WXYZ
-      domain: wxyz.com
-    quality: 37
-    images:
-      - url: "https://ewscripps.brightspotcdn.com/dims4/default/983adc4/2147483647/strip/true/crop/1280x672+0+24/resize/1200x630!/quality/90/?url=https%3A%2F%2Fx-default-stgec.uplynk.com%2Fausw%2Fslices%2Fae6%2Fbe88c4e651db4a7dbe102614d7272948%2Fae6989154e2e4be3ae579d57a55711ef%2Fposter_8be10a2ad5c74533856a8bf2a479b3eb.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "LWIR1ilko9e03yEIutCgsXvcD/uaZIyrMFM3MvBe5lSOFyP2msJuixvfDm6lQs+uwClZakQePkyttTBP1lfr1mJboob9ISQigt2APTb7QuuUA3PgWZunGzHlbrr+exHymjc6XL86j6M8toE1mvlWy7Cpk5+nZvvxMNQ/1iUfkvjJWpw2gYlgSk3fIqAHxasS7HOetYLYMsbkXvQh95ritzLRzy+1oqM8KerHH7EjlfqJ20InozBabXfxLD4ZWHoNe04zu32HHAYIUGtgNzHbLvjfmPR0i6/ZjqqSMI7s54jX0H68yN92VcA6eiHFj6Ad/fzwIliunzjhtduXLlD3g6LxVrwAexEaUCjxVx8OvmP3XgirzhyyWZc6RRSKoEZnbPqLDGnwzUW1q1yKHZZUNC3QWjPHVMCR3HOaaEmxY8kw3X9t8PTZ7TkFlF4KG4jYtAMKcs2RdxDDOzjYsiThsoz3Vj9nx9VjfYJ3o/8RHeV9Cuv5Kn6lVgR8eV0Q4Wz9uw6HsaPYn2ebVw12na67ow==;MSy9XvrnYPKrpnicTUDzuQ=="
 ---

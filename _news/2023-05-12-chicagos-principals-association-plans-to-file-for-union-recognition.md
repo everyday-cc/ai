@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Outsourced Amazon cleaners set to win historic union recognition"
-    excerpt: "OUTSOURCED cleaners at an Amazon warehouse in Kent are set to become the first British workers at a site run by the US-owned online giant to win union recognition, the United Voices of the World (UVW) said today."
-    publishedDateTime: 2023-05-09T14:17:00Z
-    webUrl: "https://morningstaronline.co.uk/article/b/outsourced-amazon-cleaners-set-to-win-historic-union-recognition"
-    type: article
-    provider:
-      name: Morning Star
-      domain: morningstaronline.co.uk
-    quality: 24
-    images:
-      - url: "https://morningstaronline.co.uk/sites/default/files/AP22322049579948_1.jpeg"
-        width: 1180
-        height: 585
-        isCached: true
   - title: "Union election months away as PGSU seeks voluntary recognition"
     excerpt: "After a semester of organizing, Princeton Graduate Students United (PGSU) plans to seek voluntary recognition from the University ... We want to make sure every grad can make their voice heard if an election is scheduled,” he wrote, explaining why ..."
     publishedDateTime: 2023-05-12T03:32:00Z
@@ -47,6 +33,17 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "United States Rugby Players Association calls for Voluntary Recognition from Major League Rugby"
+    excerpt: "RugbyUnionNow.com campaign launched, with the aim to strengthen the league and evolve the sport in North America. The United States Rugby Players Association (USRPA) is calling for voluntary recogniti"
+    publishedDateTime: 2023-05-11T16:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/05/n32345940/united-states-rugby-players-association-calls-for-voluntary-recognition-from-major-league-rugby"
+    ampWebUrl: "https://www.benzinga.com/amp/content/32345940"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32345940"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 12
 
 secured: "/BXYUk0O8uA8L1JraEFNONXlFkUjM366weuxAcUgUWtObP75UXTI6qBVAsuuVb+0DAq+D/KTwx7oQoFyQsmXxxOJIXce7L/BY/fDHNmMs2ZDLgNnjIvv3wYewoJiXkj7clWY0IpKdtAfOjqOJ1cdLAxEVuJnDKE7nUfds8D3eGQ5E586r6GGw2gsnzVxfNzsB1+VACY+78qqojCWDJECP3U90KsxguebRsAL3RtmQFJ2JhEQYuS1mEsfww8o56IjX0Gs9gIgdj95xE/j8VKKGN3ka4OkTOKaaz1cDxDy66psCqGoFOFMeEKyq4AKJcGGMHray/q7Nl9yjkgcThCF3/Eu3+LkwqQJ2lMn1i1MjEe/iNqORCQeFyiRR+Cov8Hl0kD3koYsCzm3O01+/YArg0NhEXU1Dc6DRkxp9D6BibaA+NZJ7eD9H/wohUXMaF3aI4s4g8+nhvdvUtfmC1PhWu+ValvCOCKBCR2PP/l/IACcdv8lkte4K3Kk1reScfb4JF/qRnF/TB0c8k1o0O4cAQ==;d/h5U6SP5q6avfMhMx4wBw=="
 ---

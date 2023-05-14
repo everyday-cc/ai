@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.theguardian.com/technology/2023/may/10/ai-poses-existent
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/may/10/ai-poses-existential-threat-and-risk-to-health-of-millions-experts-warn"
 type: article
 quality: 56
-heat: 76
-published: true
+heat: 66
+published: false
 
 provider:
   name: The Guardian
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI Poses Serious Threats to Health and Human Existence, Researchers Say"
-    excerpt: "Despite the potential for negative health outcomes with the use of artificial intelligence (AI), most research is biased toward its benefits, without sufficient consideration of effective regulations that would be needed to avoid those harms,"
-    publishedDateTime: 2023-05-09T22:57:00Z
-    webUrl: "https://www.medpagetoday.com/special-reports/features/104430"
-    type: article
-    provider:
-      name: MedPage Today
-      domain: medpagetoday.com
-    quality: 39
-    images:
-      - url: "https://assets.medpagetoday.net/media/images/104xxx/104430.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Scientists call for AI moratorium, warn about potential pitfalls in healthcare"
     excerpt: "Although artificial intelligence is often touted as a game-changer in healthcare, an international team of scientists is warning that it also may pose threats to human health in terms of social, political,"
     publishedDateTime: 2023-05-12T04:16:00Z
