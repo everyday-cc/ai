@@ -27,22 +27,6 @@ images:
     height: 540
     isCached: true
 
-related:
-  - title: "Exclusive: Bill Gates on the future of nuclear energy, AI"
-    excerpt: "TerraPower, founded by billionaire and Microsoft co-founder Bill Gates in 2008, is opening a new nuclear power plant in Kemmerer, Wyoming."
-    publishedDateTime: 2023-05-09T19:16:00Z
-    webUrl: "https://abcnews.go.com/Technology/bill-gates-future-nuclear-energy-ai/story?id=99160110"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 37
-    images:
-      - url: "https://s.abcnews.com/images/GMA/gates-intv-abc-ps-230508_1683559898701_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-
 secured: "2hCeC5txLPg9JMw50YF0AX17ssAZIJqG8mAJX+WoOzwSXtHORLcxonM3JAS4m5eSCjW1H3xAzWJgdklKxMc9RUcEIgQesLyr7Va7ODw0XWqYRQcRgsstAWwmO52oj3pIX9jJMziIY7IMVxEXpWImitCjmQN/VDmk8/nWItlh672FPcckuagyuRqVog7slzGVowFet6N9CNJHarKi+WTwEbp17tQ+QlK5Gs1r4r78BhcK632c6Wu5CxYIeUQhp+xvDeyLRyikqBOFV6TG/9ldyH91VBZTku+YKrF5MpDGsFAd4/trCRewbjNnuG3fNEpZUW9eTb7697TxzyN+GOzRZDdgvZZGlSd8FAxYuPq/KN8=;NOxWiSp5mL9DWWJcP/KVtA=="
 ---
 

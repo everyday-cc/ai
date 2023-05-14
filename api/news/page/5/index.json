@@ -2,6 +2,103 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-05-10-publish-predictive-dashboards-in-amazon-quicksight-using-ml-predictions-from-amazon-sagemaker-canvas.md",
+      "title": "Publish predictive dashboards in Amazon QuickSight using ML predictions from Amazon SageMaker Canvas",
+      "excerpt": "Understanding business trends, customer behavior, sales revenue, increase in demand, and buyer propensity all start with data. Exploring, analyzing, interpreting, and finding trends in data is essential for businesses to achieve successful outcomes. Business analysts play a pivotal role in facilitating",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/publish-predictive-dashboards-in-amazon-quicksight-using-ml-predictions-from-amazon-sagemaker-canvas/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/publish-predictive-dashboards-in-amazon-quicksight-using-ml-predictions-from-amazon-sagemaker-canvas/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/05/10/predictive-dashboards-quicksight-sagemaker-canvas.jpg",
+          "width": 1068,
+          "height": 537,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-10T07:17:43-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-05-10-announcing-new-jupyter-contributions-by-aws-to-democratize-generative-ai-and-scale-ml-workloads.md",
+      "title": "Announcing new Jupyter contributions by AWS to democratize generative AI and scale ML workloads",
+      "excerpt": "Project Jupyter is a multi-stakeholder, open-source project that builds applications, open standards, and tools for data science, machine learning (ML), and computational science. The Jupyter Notebook, first released in 2011, has become a de facto standard tool used by millions of users worldwide across",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/announcing-new-jupyter-contributions-by-aws-to-democratize-generative-ai-and-scale-ml-workloads/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/announcing-new-jupyter-contributions-by-aws-to-democratize-generative-ai-and-scale-ml-workloads/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-10T05:01:04-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-05-10-seven-strategic-bets-to-capitalize-on-disruption-and-redefine-your-business.md",
       "title": "Seven strategic bets to capitalize on disruption and redefine your business",
       "excerpt": "The future belongs to those willing to transform their business with bold, informed bets. Based on today's top trends, here are seven business bets to make.\nThe post Seven strategic bets to capitalize on disruption and redefine your business appeared first on IBM Blog.\n",
@@ -61,7 +158,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-research-2023-2030-2023-05-10",
       "featuredContent": null,
       "highlight": null,
-      "heat": 469,
+      "heat": 439,
       "tags": null,
       "images": [
         {
@@ -165,7 +262,7 @@
       "originalUrl": "https://www.businessinsider.com/ai-harm-human-health-public-health-experts-2023-5",
       "featuredContent": null,
       "highlight": null,
-      "heat": 93,
+      "heat": 83,
       "tags": null,
       "images": [
         {
@@ -620,7 +717,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-robotics-market-2023-2030-understanding-the-impact-of-trend-and-technology-2023-05-10",
       "featuredContent": null,
       "highlight": null,
-      "heat": 192,
+      "heat": 202,
       "tags": null,
       "images": [
         {
@@ -724,7 +821,7 @@
       "originalUrl": "https://newatlas.com/medical/crank-ms-machine-learning-early-parkinsons-diagnosis/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -1152,100 +1249,6 @@
         "name": "NBC News",
         "domain": "nbcnews.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-10-specific-training-can-help-computer-vision-models-learn-like-humans-study.md",
-      "title": "Specific training can help computer vision models learn like humans: Study",
-      "excerpt": "MIT researchers have discovered that a specific training method can help computer vision models learn more perceptually straight representations, like humans do. Training involves showing a machine-learning model millions of examples so it can learn a task.",
-      "sourceUrl": null,
-      "webUrl": "https://www.devdiscourse.com/article/science-environment/2445976-specific-training-can-help-computer-vision-models-learn-like-humans-study",
-      "originalUrl": "https://www.devdiscourse.com/article/science-environment/2445976-specific-training-can-help-computer-vision-models-learn-like-humans-study",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/10_05_2023_00_57_45_5641496.jpg?width=1280",
-          "width": 1280,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.devdiscourse.com/article/science-environment/2445976-specific-training-can-help-computer-vision-models-learn-like-humans-study?amp",
-      "cdnAmpWebUrl": "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/science-environment/2445976-specific-training-can-help-computer-vision-models-learn-like-humans-study?amp",
-      "publishedDateTime": "2023-05-09T18:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "devdiscourse",
-        "domain": "devdiscourse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-10-google-chrome-brings-better-ai-brains-to-the-web.md",
-      "title": "Google Chrome Brings Better AI Brains to the Web",
-      "excerpt": "With a technology called WebGPU, AI software to monitor your health or generate images could run in your browser instead of the cloud.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/tech/computing/google-chrome-brings-better-ai-brains-to-the-web/",
-      "originalUrl": "https://www.cnet.com/tech/computing/google-chrome-brings-better-ai-brains-to-the-web/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/fccd854ab95eb0901bb9d795b1bd9e822ca897ad/hub/2019/05/09/9f2a88cf-2acc-4c04-b11e-03560e8d182f/20120314-google-chrome-lapel-pin-4sts-01.jpg?auto=webp",
-          "width": 4048,
-          "height": 2391,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/google-chrome-brings-better-ai-brains-to-the-web/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/google-chrome-brings-better-ai-brains-to-the-web/",
-      "publishedDateTime": "2023-05-09T16:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence Delivery Robot Market Detect New Industry Opportumities 2023-2030"
+    excerpt: "Global Artificial Intelligence Delivery Robot Market report provides valuable insights on the global market for the"
+    publishedDateTime: 2023-05-10T09:40:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-delivery-robot-market-detect-new-industry-opportumities-2023-2030-2023-05-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 75
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Face Recognition Systems Market | Worldwide Industry Trends 2023-2030"
     excerpt: "The report offers essential statistical information on the market status of Face Recognition Systems players, making it"
     publishedDateTime: 2023-05-11T10:41:00Z

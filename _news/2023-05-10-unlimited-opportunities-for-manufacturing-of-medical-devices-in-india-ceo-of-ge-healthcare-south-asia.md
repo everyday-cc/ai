@@ -1,18 +1,20 @@
 ---
 category: news
-title: "Unlimited opportunities for manufacturing of medical devices in India: CEO of GE HealthCare South Asia"
-excerpt: "Through this programme, we aim to nurture the start-up ecosystem, build strategic partnerships, and co-develop healthcare applications using AI and other technologies.GE HealthCare launched the Healthcare Innovation Lab with IISc Bengaluru-based Indian Institute of Science to aid clinicians in tackling real-time difficulties in care delivery by bringing to market new digital solutions that can be incorporated on the Edison platform."
-publishedDateTime: 2023-05-10T06:18:00Z
-originalUrl: "https://www.devdiscourse.com/article/technology/2446198-unlimited-opportunities-for-manufacturing-of-medical-devices-in-india-ceo-of-ge-healthcare-south-asia"
-webUrl: "https://www.devdiscourse.com/article/technology/2446198-unlimited-opportunities-for-manufacturing-of-medical-devices-in-india-ceo-of-ge-healthcare-south-asia"
+title: "Unlimited Opportunities For Manufacturing Of Medical Devices In India: CEO Of GE HealthCare South Asia"
+excerpt: "According to Sarawate, who is also managing director, Wipro GE Healthcare, new age technologies like artificial intelligence (AI) are significantly improving care quality and access to care."
+publishedDateTime: 2023-05-10T06:32:00Z
+originalUrl: "https://www.republicworld.com/india-news/general-news/unlimited-opportunities-for-manufacturing-of-medical-devices-in-india-ceo-of-ge-healthcare-south-asia-articleshow.html"
+webUrl: "https://www.republicworld.com/india-news/general-news/unlimited-opportunities-for-manufacturing-of-medical-devices-in-india-ceo-of-ge-healthcare-south-asia-articleshow.html"
+ampWebUrl: "https://www.republicworld.com/amp/india-news/general-news/unlimited-opportunities-for-manufacturing-of-medical-devices-in-india-ceo-of-ge-healthcare-south-asia-articleshow.html"
+cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/india-news/general-news/unlimited-opportunities-for-manufacturing-of-medical-devices-in-india-ceo-of-ge-healthcare-south-asia-articleshow.html"
 type: article
-quality: 25
-heat: -1
+quality: 45
+heat: 45
 published: false
 
 provider:
-  name: devdiscourse
-  domain: devdiscourse.com
+  name: RepublicWorld
+  domain: republicworld.com
 
 topics:
   - AWS AI
@@ -20,9 +22,9 @@ topics:
   - AI in Healthcare
 
 images:
-  - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/27_06_2019_18_33_35_2442501.png?width=920&format=jpeg"
-    width: 920
-    height: 520
+  - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/crvmfcrx07ak3tou_1683700251.jpeg"
+    width: 768
+    height: 438
     isCached: true
 
 related:
@@ -43,6 +45,6 @@ related:
         height: 338
         isCached: true
 
-secured: "Lx9FmDvdr7STFeIb584svZgsOtbCikxz3sCpG4bCcZwA9yU+Fx9xZS62jNnuY1+5iEoIcP7WsDs+yB5aD/dz8HPAIyjhsx7pTuNlKBesb16F3c4gUACu2zJW460i0WOu/gWFhWaTOMg2rnrzlt20yXpUWncLPKH8KhRzGnWw/s+VC2Adsmmq6NP81BYHaz71AKoQMHLPw74twDGiB3xrZ0CyYck8lUHjroF0gxQ/JG7SeJZBOHjp0dkEWgROKmihxTHKXq38dYYUVhSDhp49zbWrE1CjLdrRwDjaFNOI+1uXstiL6U+ru2s5C9oyo0Q+eKmv43ktVX6Y3/6oTXP6UeodCg25ZhaajzjabiV+dgw=;QFD9ZwbV+bNFk0e3SnI6wg=="
+secured: "N3yfOutCEpbsTncs0T2pfjdRGmFkP40x1qj7LDmQMBpUqrJjYPPJIA3BlizP7BBHzRd5mFSJ1Q9jp0ujYVc3TYcTXT7EfJu/JMjBVOEcTJTUnkyRAXNRx0hF9PRxuO1RlldbEpxPzdi9GuYa85WKYM4UqX1eUJQezuP8yTyyVgweIIiZ9+OVjgCBaaVMWXs3dIPFjxYxwggF69RVed41eNko7LNwbwsOdyvZmuVTiPl+9Hj6gNI7PmM77hiBiwanGlCHDwB5byo7ArG1PXOv65Y1yLDQQs9h/FVFW0i6QcmAPEkfnKT6Jixs+I3w02DrN8O0sj+6DMiyVqBcdeJverzejeOHlQScDOwHrEZTWuE=;h5QbTlk3MC8K1Ibn3eUyeQ=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/reduce-amazon-sagema
 webUrl: "https://aws.amazon.com/blogs/machine-learning/reduce-amazon-sagemaker-inference-cost-with-aws-graviton/"
 type: article
 quality: 104
-heat: 144
+heat: 134
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/05/12/featured-images-ml-14339.jpg"
         width: 1024
         height: 576
-        isCached: true
-  - title: "Announcing provisioned concurrency for Amazon SageMaker Serverless Inference"
-    excerpt: "Amazon SageMaker Serverless Inference allows you to serve model inference requests in real time without having to explicitly provision compute instances or configure scaling policies to handle traffic variations. You can let AWS handle the undifferentiated heavy lifting of managing the underlying infrastructure"
-    publishedDateTime: 2023-05-09T22:26:59Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/announcing-provisioned-concurrency-for-amazon-sagemaker-serverless-inference/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 86
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/05/09/provisioned-concurrency-1260x630.jpg"
-        width: 1260
-        height: 630
         isCached: true
   - title: "Schedule your notebooks from any JupyterLab environment using the Amazon SageMaker JupyterLab extension"
     excerpt: "Jupyter notebooks are highly favored by data scientists for their ability to interactively process data, build ML models, and test these models by making inferences on data. However, there are scenarios in which data scientists may prefer to transition from interactive development on notebooks to batch"

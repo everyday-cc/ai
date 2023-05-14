@@ -10,7 +10,7 @@
       "originalUrl": "https://techcrunch.com/2023/05/12/chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 319,
+      "heat": 309,
       "tags": null,
       "images": [
         {
@@ -360,40 +360,6 @@
       ]
     },
     {
-      "path": "_news/2023-05-09-symphonyai-announces-strategic-collaboration-with-microsoft-azure-ai-for-generative-ai.md",
-      "title": "SymphonyAI announces strategic collaboration with Microsoft Azure AI for generative AI",
-      "excerpt": "SymphonyAI introduces Sensa Copilot, a vertical application that integrates Microsoft Azure OpenAI Service and Azure Cognitive Search to drive value for customers in financial crime prevention and regulatory compliance PALO ALTO,",
-      "sourceUrl": null,
-      "webUrl": "https://it.tmcnet.com/news/2023/05/09/9809924.htm",
-      "originalUrl": "https://it.tmcnet.com/news/2023/05/09/9809924.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-09T09:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-05-09-ai-wrote-95-percent-of-this-murder-mystery.md",
       "title": "AI Wrote 95 Percent of This Murder Mystery",
       "excerpt": "Stephen Marche composed 'Death of an Author' using three AI tools, under the shared pen name Aidan Marchine. Here’s a look at the result.",
@@ -497,6 +463,40 @@
         "Microsoft AI",
         "AI",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2023-05-09-symphonyai-announces-strategic-collaboration-with-microsoft-azure-ai-for-generative-ai.md",
+      "title": "SymphonyAI announces strategic collaboration with Microsoft Azure AI for generative AI",
+      "excerpt": "SymphonyAI announced today its first generative AI software application that integrates Microsoft Azure OpenAI Service. Sensa Copilot provides sophisticated AI assistance to financial crime ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/05/n32282145/symphonyai-announces-strategic-collaboration-with-microsoft-azure-ai-for-generative-ai",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/05/n32282145/symphonyai-announces-strategic-collaboration-with-microsoft-azure-ai-for-generative-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/32282145",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32282145",
+      "publishedDateTime": "2023-05-09T03:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
       ]
     },
     {

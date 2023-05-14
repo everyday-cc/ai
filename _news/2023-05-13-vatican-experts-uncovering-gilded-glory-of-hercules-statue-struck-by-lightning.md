@@ -1,30 +1,22 @@
 ---
 category: news
 title: "Vatican experts uncovering gilded glory of Hercules statue struck by lightning"
-excerpt: "Vatican Museum restorers are working to remove centuries of grime from the largest known bronze statue of the ancient world: the gilded Hercules Mastai Righetti"
-publishedDateTime: 2023-05-13T06:32:00Z
-originalUrl: "https://abcnews.go.com/International/wireStory/vatican-experts-uncovering-gilded-glory-hercules-statue-struck-99300699"
-webUrl: "https://abcnews.go.com/International/wireStory/vatican-experts-uncovering-gilded-glory-hercules-statue-struck-99300699"
-ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/vatican-experts-uncovering-gilded-glory-hercules-statue-struck-99300699"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/vatican-experts-uncovering-gilded-glory-hercules-statue-struck-99300699"
+excerpt: "Scaffolding in a niche of the Vatican Museums’ Round Hall conceal from view the work of restorers who are removing centuries of grime from the largest known bronze statue of the ancient world: the gilded Hercules Mastai Righetti."
+publishedDateTime: 2023-05-13T09:32:00Z
+originalUrl: "https://www.aol.com/entertainment/vatican-experts-uncovering-gilded-glory-061941805.html"
+webUrl: "https://www.aol.com/entertainment/vatican-experts-uncovering-gilded-glory-061941805.html"
 type: article
-quality: 40
-heat: 40
+quality: 0
+heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: AOL
+  domain: aol.com
 
 topics:
   - Computer Vision
   - AI
-
-images:
-  - url: "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg"
-    width: 992
-    height: 558
-    isCached: true
 
 related:
   - title: "Vatican Experts Unveil Centuries-Old Hercules Statue After Decades of Restoration Work"
@@ -53,6 +45,6 @@ related:
       domain: lasvegassun.com
     quality: 4
 
-secured: "9FEaENo3F/w2jQLB0WNnz0KRrQrDhxqxQiIXOyg2GPuVDOn2nES5hw5dHD2O0UzWsS5NO9p2/2E/SEKuVOcW1M3HISocKODfF9zPRlUBQCt/TC1RhmtMPoeQvyUJUh0LZ4fdBs1PWJl7HUwyL4r5zh27JhDtm7FFJnD1pP7naBx3XwKrCins3GN17udK9xp4knuslGglsPDIOWWp/+BVeiiJldWemRK/DY4tNTK6vxH2YpN3PndVuARf4C2GBsADrut74CJ3yP6mVigcENXfgjxYnAyzF4uCo4Vb7HZpvhDzqsHE9/evpFtCttKtaa34nz93h8U46ml+fzM1mha67DCvxZPj8Ur6GL1rfAymcPnAhhwNPnFtc+Wl94rdYU5Ce+Q6p7O3UQDgHGOivZO99WnRbvd4gtdmHzYzWJlNJ4RFNhqhd/imwDE9j64gE8ab6vk/nS1aw5QGwbV6aaivBw82WRTz+09fKbbC0VqbqdaOHV0nip7edr1IiswufA5XNP/Ym9xf698do/x5do5FJg==;9vOVUOvwKa3/6Cx9hxqxCA=="
+secured: "j1PRhnLwrDXEhwVDYZa/4FdrIy/UHVkFs03etxapaHfmNqf8tJGbZugSy86BNrnLEZPOKAW/I5I2EHm8c8Wc3Fyd5buCKnS23FNJC9WZxsJQ+vNT8+8cdBM4O6PgZMll/Gc4tkv+umgxG3ZIxPsAvjc7b+2g9wlzRoR4N1JrGoq6G8nPkPAQzRDSzOHg5YULFb4zAP+GN9Hf0QbyuvrX7wLcvQrnJlAyYz7n+K7qDGFmO8C03MUGZVsF83lU5nTJeJ9sps7GilAXGCReC1SM9ae6FsRLBkrp6IuzJuuiWqRP42MwL/S0fQLg7t6WUT45HbMEd4SzE2Qvyg9D+OiMGDIWv6+dFzIsBPd6aAmZM9e/Jj/SpFZSq84Pzo8F0cjSLna/9MLHLJsglfPhue6SQkZUQlixLoPgUU/q0SzHOmJwEl656lSnG1V7S70bvsmOKBkwo94pGzE+1VwZxHw+Ut0DHAlEjnZbuQyI7LiXQB6pG11OHGrkJv/kVP4PQRbkHJ9ZBftvQfGBQrpFD50Cdw==;9rH6KEnS94dJ4JjpBqY29g=="
 ---
 

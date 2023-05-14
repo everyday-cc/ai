@@ -1,20 +1,22 @@
 ---
 category: news
 title: "SymphonyAI announces strategic collaboration with Microsoft Azure AI for generative AI"
-excerpt: "SymphonyAI introduces Sensa Copilot, a vertical application that integrates Microsoft Azure OpenAI Service and Azure Cognitive Search to drive value for customers in financial crime prevention and regulatory compliance PALO ALTO,"
-publishedDateTime: 2023-05-09T16:34:00Z
-originalUrl: "https://it.tmcnet.com/news/2023/05/09/9809924.htm"
-webUrl: "https://it.tmcnet.com/news/2023/05/09/9809924.htm"
+excerpt: "SymphonyAI announced today its first generative AI software application that integrates Microsoft Azure OpenAI Service. Sensa Copilot provides sophisticated AI assistance to financial crime ..."
+publishedDateTime: 2023-05-09T10:38:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/23/05/n32282145/symphonyai-announces-strategic-collaboration-with-microsoft-azure-ai-for-generative-ai"
+webUrl: "https://www.benzinga.com/pressreleases/23/05/n32282145/symphonyai-announces-strategic-collaboration-with-microsoft-azure-ai-for-generative-ai"
+ampWebUrl: "https://www.benzinga.com/amp/content/32282145"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32282145"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Microsoft AI
   - AI
 
-secured: "4d67hZ6RKl3xTnvzZZGDPw9UUH9JJ1PCa5IXJtEtLh0keQuoe9GENHMBHCeKQiZzX7L+jPHwrBkMou2nboFifaTyEw7xDtNDU7+iHLpz7t4pA/95E6VBMOSsL9Y8ut/J3v//HE2g9nd8xEyKXLskckrXRrZVw1nmL45xk5i9wtBYznlrHokefZjhxpiZFIcnoiXISyxbJKzua1CieCyf6z0v2dqYPra9/zHTY8kmNkxACDEfFLpHKQrxriHA7rBiW27hORABsWwcveNSpkSOK0v3UvPEJWs/+vQbps3hHVCDHEy7RrRp4482wYvnZxgY8EqhMe+CvNkrW/fzEHESlclbxjwhbw3VnOFNJ4+psyc=;I7semBYlHR/qDT++6p9aJw=="
+secured: "CYdybzdPfog/cM5dYQ5KNkLy2809s3vuhhBu/3lZ4gLJp65o//Y0nhneznryCz5ytf5RmJpJmnKe05yOJRIewbpahZG14uCmjR9I+RVlFS9ic4K7x+T4EKsXtfAbBAfIHw4B3YAJzR8AAevhTFCaqPyn48TknAwau80y/rFZ2raYbpXp+WvfBQPKBEJI1WgjoMSoIHZXiId65ajx1IdBeRnBtBW7/8Zi129WLdlMFLXWV6Zg3MzgXjiAw/c7bC4obe5VPlPpehHqBLFuhXC1y51la/IuMN58FuX88I3z6FMEVHP4DT3PKbTRnQPBKE+ogQwVDJXK9KxPF0jZ5Y8d2tFjWI7+ECqjljB/n5GC0/w=;eTGMIpskIt7CEWKoQhwjSQ=="
 ---
 

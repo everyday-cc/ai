@@ -38,20 +38,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Facial Recognition Door Lock Market Outlook | 2023-2031"
-    excerpt: "The Global Facial Recognition Door Lock market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players,"
-    publishedDateTime: 2023-05-09T21:58:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-door-lock-market-outlook-2023-2031-2023-05-09"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Mobile Speech Recognition Software Market | 2030"
     excerpt: "The Global Mobile Speech Recognition Software market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players,"
     publishedDateTime: 2023-05-12T02:53:00Z
@@ -108,6 +94,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Face Recognition Software Market 2023 Growth Possibilities, Analysis and Forecast To 2030"
+    excerpt: "The Face Recognition Software Market Report by Type (Holistic Matching Method, Feature-based Method, Skin Texture Analysis, Hybrid Types, Other) and by Application (Corporate and Residential Security,"
+    publishedDateTime: 2023-05-11T11:22:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-software-market-2023-growth-possibilities-analysis-and-forecast-to-2030-2023-05-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 40
 
 secured: "MPq0r9P3UnfAoNd6fmOL8qmEe9+HBt50+XooZFmZ5k7ZVwI86mD1gGNIMeI6Hzb7D0vEtn3IEJTJPsUuyZFDdUlMjPs2oNRdz3ZmKHe4egUVJX3kVYfDW3D5Co3YQgPLemnqYq7H+7FH8CMKlnx/gfsXl9yxpbBUUARmkf3DBoFRkE0vS2AQk6DkTWmFQcrjKq2bkFO7QlwtOq76lcBYSk+mM5h/5l2UEZBXw7z0cy20vo+q/5Am7DHEOtF6ae00ysu4aeHJBG0+DkBrNefqcMEkXFwdcFbjEZpH7+7cvJo1Vl9zvdNp6TYf57fqd1ZNT6vqc8+Il3hLp2EHEPsreNE+5FdVV3cmr49LK4ZFWGs=;DD9A2mmwUhDSRxXCcRHLoA=="
 ---

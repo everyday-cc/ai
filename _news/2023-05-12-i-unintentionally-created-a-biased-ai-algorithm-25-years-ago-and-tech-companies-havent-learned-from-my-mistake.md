@@ -19,6 +19,15 @@ topics:
   - AI
 
 related:
+  - title: "I Created a Biased AI Algorithm 25 Years Ago—Tech Companies Are Still Making the Same Mistake."
+    excerpt: "I unintentionally created a racially biased artificial intelligence algorithm. There are lessons in that story that resonate even more strongly today."
+    publishedDateTime: 2023-05-14T13:00:00Z
+    webUrl: "https://gizmodo.com/ai-chatgpt-google-bard-bing-facial-rec-racist-mistakes-1850433730"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 37
   - title: "I unintentionally created a biased AI algorithm 25 years ago – tech companies are still making the same mistake"
     excerpt: "Biased AI systems can still be created unintentionally and easily. It’s also clear that the bias in these systems can be harmful, hard to detect and even harder to eliminate."
     publishedDateTime: 2023-05-10T12:47:00Z

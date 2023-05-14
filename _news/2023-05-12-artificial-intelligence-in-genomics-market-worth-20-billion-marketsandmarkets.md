@@ -53,6 +53,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence in Oil and Gas Market by 2030"
+    excerpt: "Precision Reports has published a new report titled as \"Artificial Intelligence in Oil and Gas Market\" by End User"
+    publishedDateTime: 2023-05-13T05:16:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-oil-and-gas-market-by-2030-2023-05-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 47
 
 secured: "MHs2HPPS04TBArb21be7V6jV5TW2P2pU8ASLe8eiG4WddGx7bAKit2xbbb9/tleFzAQiNrU8Ipgf5AekuzKOXpsyD2UpHbjYXld18qptAhWymu7P4I93te+P2DXMDWwqKPJCCsgMZEJ0dguqRmRq3K6Varn/wVqYmMjyI0Fz54bYbiCxTbJG00UnLlFfFqbZC/WvUNbtQ00pufIFjnM3yQJ0J6h/gMJ5XTl7L9Ix6wtdzgIPRa8hFYNvg5oL9pHQGfbfGtr45/ExZKL/mHwj9BxYWZu30iguAaQAOdugdF4kUIoIr5aZAuZbwAD1IqaJ9AQ4hTDc7hAXMs22qG49Qlln6EWe0zd0P1fAmQzqb5I9ls2SyOthFGSmCE6B51VM7tmIB3pHUGR7RDlvrTo+6X3p998mPAdxcCixyoyBcDlTLT80zFUnJhhkvWgM1htZWEqjlZLVihGU2t6/z/al6ijD4Ocw38RPDhci2bif/w0oAy/L2kyBg1WehhpQSj8C1Ba794tPAixAHuhqYNb8sA==;FlyfiX7aUfi6MKBfWGxGcA=="
 ---

@@ -906,6 +906,57 @@
       ]
     },
     {
+      "path": "_news/2023-05-12-why-chatgpt-developer-openai-is-the-no-1-company-on-the-2023-cnbc-disruptor-50-list.md",
+      "title": "Why ChatGPT developer OpenAI is the No. 1 company on the 2023 CNBC Disruptor 50 list",
+      "excerpt": "ChatGPT developer OpenAI comes in at No. 1 on the 2023 CNBC Disruptor 50 list, with artificial intelligence the dominant theme in the annual ranking. \"I do think we are deep into a new ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/05/09/why-chatgpt-maker-openai-is-the-no-1-2023-cnbc-disruptor-50-company.html",
+      "originalUrl": "https://www.cnbc.com/2023/05/09/why-chatgpt-maker-openai-is-the-no-1-2023-cnbc-disruptor-50-company.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107191457-1675888570906-gettyimages-1246870629-AFP_338Q79Q.jpeg?v=1683731024",
+          "width": 3600,
+          "height": 2400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2023/05/09/why-chatgpt-maker-openai-is-the-no-1-2023-cnbc-disruptor-50-company.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/05/09/why-chatgpt-maker-openai-is-the-no-1-2023-cnbc-disruptor-50-company.html",
+      "publishedDateTime": "2023-05-11T12:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-12-can-ai-deliver-a-customer-experience-like-a-grandmother-would.md",
       "title": "Can AI Deliver A Customer Experience Like A Grandmother Would?",
       "excerpt": "ChatGPT is super smart. But can it deliver the customer experience that creates ardent advocates? The new customer metric is not, \"Would you recommend,\" but \"Did you recommend\"—action always trumps intent.",
@@ -1196,58 +1247,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-05-11-musk-would-compound-tesla-automated-driving-risk-with-free-trial.md",
-      "title": "Musk Would Compound Tesla Automated-Driving Risk With Free Trial",
-      "excerpt": "Regulators are already swirling, and some customers have paid $15,000 for features the CEO is prepared to give away for a month.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2023-05-11/musk-would-compound-tesla-automated-driving-risk-with-free-trial",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2023-05-11/musk-would-compound-tesla-automated-driving-risk-with-free-trial",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iRwyAU42Epw8/v1/1200x900.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-11T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg L.P.",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

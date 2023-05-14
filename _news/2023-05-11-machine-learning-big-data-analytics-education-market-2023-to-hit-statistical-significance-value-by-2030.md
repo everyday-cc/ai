@@ -96,15 +96,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 57
-  - title: "ThoughtSpot focuses on simplifying analytics with AI at Beyond 2023"
-    excerpt: "ThoughtSpot today announced new AI-driven features, including an AI assistant called Sage, to simplify data analytics for enterprises."
-    publishedDateTime: 2023-05-09T21:37:00Z
-    webUrl: "https://venturebeat.com/enterprise-analytics/thoughtspot-focuses-on-simplifying-analytics-with-ai-at-beyond-2023/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 47
   - title: "Boston’s Leading AI Image Analytics Startup Named to Leading 100 List of 2023"
     excerpt: "The Lead has announced The Leading 100 of 2023, the highly anticipated annual research list recognizing the innovative tech startups driving the future of brand-to-consumer, … Continue Reading →"
     publishedDateTime: 2023-05-11T13:10:00Z

@@ -2,6 +2,439 @@
   "page": 59,
   "value": [
     {
+      "path": "_news/2023-04-01-deepminds-ai-used-to-develop-tiny-syringe-for-injecting-gene-therapy-and-tumor-killing-drugs.md",
+      "title": "DeepMind’s AI used to develop tiny ‘syringe’ for injecting gene therapy and tumor-killing drugs",
+      "excerpt": "Scientists have developed a molecular “syringe” that can inject proteins, including cancer-killing drugs and gene therapies, directly into human cells. And the researchers did it using an artificial intelligence (AI) program made by Google’s DeepMind.",
+      "sourceUrl": null,
+      "webUrl": "https://en.protothema.gr/deepminds-ai-used-to-develop-tiny-syringe-for-injecting-gene-therapy-and-tumor-killing-drugs/",
+      "originalUrl": "https://en.protothema.gr/deepminds-ai-used-to-develop-tiny-syringe-for-injecting-gene-therapy-and-tumor-killing-drugs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://en.protothema.gr/wp-content/uploads/2023/04/mkhb-405x270.png",
+          "width": 405,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-31T14:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "protothema.gr",
+        "domain": "protothema.gr",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-01-chatgpts-intelligence-is-zero-but-its-a-revolution-in-usefulness-says-ai-expert.md",
+      "title": "ChatGPT's intelligence is zero, but it's a revolution in usefulness, says AI expert",
+      "excerpt": "Pascal Kaufmann says the way to measure true artificial intelligence is by its capability for dealing with previously unseen problems.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/chatgpts-intelligence-is-zero/",
+      "originalUrl": "https://www.zdnet.com/article/chatgpts-intelligence-is-zero/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/8d4db6a647f322a3dabd40e2338506263a3725fe/2023/03/30/3db7f282-548f-48e8-92ce-6d491015c3ee/pascal-kaufmann.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/chatgpts-intelligence-is-zero/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/chatgpts-intelligence-is-zero/",
+      "publishedDateTime": "2023-03-31T13:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-01-timekettle-ai-translator-earbuds-empower-international-medical-workers.md",
+      "title": "Timekettle AI Translator Earbuds Empower International Medical Workers",
+      "excerpt": "Established in 2016, Timekettle is an industry-leading translation solutions provider recognized by winning numerous international awards such as CES Innovation Award, iF Design Award, and TechCrunch. As the top-selling brand in the Translator Device industry, Timekettle now serves over 300,000 users worldwide.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/timekettle-ai-translator-earbuds-empower-international-medical-workers-1032209879",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/timekettle-ai-translator-earbuds-empower-international-medical-workers-1032209879",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-31T11:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-01-automation-does-not-mean-elimination-ais-role-in-job-security.md",
+      "title": "Automation does not mean elimination: AI’s role in job security",
+      "excerpt": "New research shows us that only 50% of employees see technology as a strong asset for efficiency. IT teams are currently drivers of technology innovation implementation for their organizations, and IT optimization is slated to be the third largest AI use ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/automation-does-not-mean-elimination-ais-role-in-job-security/",
+      "originalUrl": "https://venturebeat.com/ai/automation-does-not-mean-elimination-ais-role-in-job-security/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-31T11:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2023-04-01-ai-will-soon-become-impossible-for-humans-to-comprehendthe-story-of-neural-networks-tells-us-why.md",
+      "title": "AI will soon become impossible for humans to comprehend—the story of neural networks tells us why",
+      "excerpt": "In 1956, during a year-long trip to London and in his early 20s, the mathematician and theoretical biologist Jack D. Cowan visited Wilfred Taylor and his strange new \"learning machine\". On his arrival he was baffled by the \"huge bank of apparatus\" that confronted him.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2023-03-ai-impossible-humans-comprehendthe-story.html",
+      "originalUrl": "https://techxplore.com/news/2023-03-ai-impossible-humans-comprehendthe-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/ai-will-soon-become-im.jpg",
+          "width": 1356,
+          "height": 668,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2023-03-ai-impossible-humans-comprehendthe-story.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-03-ai-impossible-humans-comprehendthe-story.amp",
+      "publishedDateTime": "2023-03-31T10:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-31-build-end-to-end-document-processing-pipelines-with-amazon-textract-idp-cdk-constructs.md",
+      "title": "Build end-to-end document processing pipelines with Amazon Textract IDP CDK Constructs",
+      "excerpt": "Intelligent document processing (IDP) with AWS helps automate information extraction from documents of different types and formats, quickly and with high accuracy, without the need for machine learning (ML) skills. Faster information extraction with high accuracy can help you make quality business decisions",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-end-to-end-document-processing-pipelines-with-amazon-textract-idp-cdk-constructs/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-end-to-end-document-processing-pipelines-with-amazon-textract-idp-cdk-constructs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/03/31/build-end-to-end-document-processing.jpg",
+          "width": 1148,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-31T10:03:55-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2023-03-31-the-ai-tax-on-ai-enabled-applications-in-the-cloud.md",
+      "title": "The 'AI tax' on AI-enabled applications in the cloud",
+      "excerpt": "The 'container tax' means companies pay more to use containers in the cloud. Applications with artificial intelligence are no different. Make sure AI is worth it.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3691792/the-ai-tax-on-ai-enabled-applications-in-the-cloud.html",
+      "originalUrl": "https://www.infoworld.com/article/3691792/the-ai-tax-on-ai-enabled-applications-in-the-cloud.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.techhive.com/images/article/2014/03/139543667-100250308-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 738,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3691792/the-ai-tax-on-ai-enabled-applications-in-the-cloud.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3691792/the-ai-tax-on-ai-enabled-applications-in-the-cloud.amp.html",
+      "publishedDateTime": "2023-03-31T09:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-31-bill-gates-says-self-driving-cars-will-be-as-revolutionary-as-the-pc-after-riding-in-one.md",
+      "title": "Bill Gates says self-driving cars will be as revolutionary as the PC after riding in one",
+      "excerpt": "Those services, like GM's Cruise and Alphabet's Waymo, use detailed maps and programming to operate only in certain sections of cities. In contrast, Wayve (much like Tesla) wants to develop an artificial-intelligence-enabled vehicle that can learn to drive ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/bill-gates-ai-self-driving-cars-as-revolutionary-as-pc-2023-3",
+      "originalUrl": "https://www.businessinsider.com/bill-gates-ai-self-driving-cars-as-revolutionary-as-pc-2023-3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6426f238ed593e00183f6aa0?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/bill-gates-ai-self-driving-cars-as-revolutionary-as-pc-2023-3?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/bill-gates-ai-self-driving-cars-as-revolutionary-as-pc-2023-3?amp",
+      "publishedDateTime": "2023-03-31T08:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-31-2024-republican-presidential-contender-weighs-in-on-deep-concerns-over-ai-advancements.md",
+      "title": "2024 Republican presidential contender weighs in on deep concerns over AI advancements",
+      "excerpt": "GPT-4 is the latest deep learning model from OpenAI, which \"exhibits human-level performance on various professional and academic benchmarks,\" according to the lab. \"Powerful AI systems should be developed only once we are confident that their effects will ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/politics/2024-republican-presidential-contender-weigh-in-deep-concerns-ai-advancements",
+      "originalUrl": "https://www.foxnews.com/politics/2024-republican-presidential-contender-weigh-in-deep-concerns-ai-advancements",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/09/340/340/Kyle-Morris.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/2024-republican-presidential-contender-weigh-in-deep-concerns-ai-advancements.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/2024-republican-presidential-contender-weigh-in-deep-concerns-ai-advancements.amp",
+      "publishedDateTime": "2023-03-31T08:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-31-goldman-sachs-predicts-300-million-jobs-will-be-lost-or-degraded-by-artificial-intelligence.md",
       "title": "Goldman Sachs Predicts 300 Million Jobs Will Be Lost Or Degraded By Artificial Intelligence",
       "excerpt": "While the startup ecosystem has stalled due to adverse economic ... to wage declines among blue-collar workers replaced or degraded by automation. Artificial intelligence, robotics and new sophisticated technologies have caused a vast chasm in wealth ...",
@@ -800,427 +1233,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-31-the-view-co-host-sara-haines-warns-everyone-should-be-scared-about-artificial-intelligence.md",
-      "title": "'The View' co-host Sara Haines warns 'everyone should be scared' about artificial intelligence",
-      "excerpt": "\"The View\" co-host Sara Haines warned Thursday that \"everyone should be scared\" about artificial intelligence if the experts are calling on AI labs to pause development.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/video/6323663548112",
-      "originalUrl": "https://www.foxnews.com/video/6323663548112",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/06f6fa0b-bb1e-4a1e-bc72-2e2af8923d78/03ffc95f-d99a-4059-be18-faa7be888bca/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "width": 1024,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-30T15:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-31-ai-generated-video-of-will-smith-eating-spaghetti-astounds-with-terrible-beauty.md",
-      "title": "AI-generated video of Will Smith eating spaghetti astounds with terrible beauty",
-      "excerpt": "For a brief and shining moment, we can enjoy an absolutely ridiculous AI-generated video of Will Smith eating spaghetti that is now lighting up our lives with its terrible glory. On Monday, a Reddit user named \"chaindrop\" shared the AI-generated video on the r/StableDiffusion subreddit.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2023/03/yes-virginia-there-is-ai-joy-in-seeing-fake-will-smith-ravenously-eat-spaghetti/",
-      "originalUrl": "https://arstechnica.com/information-technology/2023/03/yes-virginia-there-is-ai-joy-in-seeing-fake-will-smith-ravenously-eat-spaghetti/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/03/will_smith_spaghetti_hero-800x450.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/information-technology/2023/03/yes-virginia-there-is-ai-joy-in-seeing-fake-will-smith-ravenously-eat-spaghetti/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/03/yes-virginia-there-is-ai-joy-in-seeing-fake-will-smith-ravenously-eat-spaghetti/amp/",
-      "publishedDateTime": "2023-03-30T14:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-31-while-on-road-driverless-slows-ag-tech-autonomy-players-are-plowing-ahead.md",
-      "title": "While On-Road Driverless Slows, Ag-Tech Autonomy Players Are Plowing Ahead",
-      "excerpt": "Enabling driverless operations by integrating sensors and software ... while GrAI Matter Labs is developing artificial intelligence via “brain-inspired chips that behave like humans do” to optimize devices assisting humans in the field.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/richardbishop1/2023/03/30/while-on-road-driverless-slows-ag-tech-autonomy-players-are-plowing-ahead/",
-      "originalUrl": "https://www.forbes.com/sites/richardbishop1/2023/03/30/while-on-road-driverless-slows-ag-tech-autonomy-players-are-plowing-ahead/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/richardbishop1/2023/03/30/while-on-road-driverless-slows-ag-tech-autonomy-players-are-plowing-ahead/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/richardbishop1/2023/03/30/while-on-road-driverless-slows-ag-tech-autonomy-players-are-plowing-ahead/amp/",
-      "publishedDateTime": "2023-03-30T13:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-31-datadome-raises-42m-to-leverage-machine-learning-for-confronting-bot-attacks.md",
-      "title": "DataDome raises $42M to leverage machine learning for confronting bot attacks",
-      "excerpt": "DataDome announces it has raised $42 million for a solution that uses machine learning to address online bot attacks.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/security/datadome-raises-42m-to-leverage-machine-learning-for-confronting-bot-attacks/",
-      "originalUrl": "https://venturebeat.com/security/datadome-raises-42m-to-leverage-machine-learning-for-confronting-bot-attacks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/security/datadome-raises-42m-to-leverage-machine-learning-for-confronting-bot-attacks/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/security/datadome-raises-42m-to-leverage-machine-learning-for-confronting-bot-attacks/amp/",
-      "publishedDateTime": "2023-03-30T13:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-31-midjourney-ends-free-trials-of-its-ai-image-generator-due-to-extraordinary-abuse.md",
-      "title": "Midjourney ends free trials of its AI image generator due to 'extraordinary' abuse",
-      "excerpt": "Midjourney has dropped free trials of its AI image generator after users created deepfakes of Trump, the Pope and others..",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/midjourney-ends-free-trials-of-its-ai-image-generator-due-to-extraordinary-abuse-153853905.html",
-      "originalUrl": "https://www.engadget.com/midjourney-ends-free-trials-of-its-ai-image-generator-due-to-extraordinary-abuse-153853905.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/uu/api/res/1.2/mhhXg2YrWdm.9C7q5FZKyw--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-03/237a16a0-cf15-11ed-bfff-5bba6503b35e.cf.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/midjourney-ends-free-trials-of-its-ai-image-generator-due-to-extraordinary-abuse-153853905.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/midjourney-ends-free-trials-of-its-ai-image-generator-due-to-extraordinary-abuse-153853905.html",
-      "publishedDateTime": "2023-03-30T12:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "YAHOO!News",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-30-bundesliga-match-fact-keeper-efficiency-comparing-keepers-performances-objectively-using-machine-learning-on-aws.md",
-      "title": "Bundesliga Match Fact Keeper Efficiency: Comparing keepers’ performances objectively using machine learning on AWS",
-      "excerpt": "The Bundesliga is renowned for its exceptional goalkeepers, making it potentially the most prominent among Europe’s top five leagues in this regard. Apart from the widely recognized Manuel Neuer, the Bundesliga has produced remarkable goalkeepers who have excelled in other leagues, including the likes",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/bundesliga-match-fact-keeper-efficiency-comparing-keepers-performances-objectively-using-machine-learning-on-aws/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/bundesliga-match-fact-keeper-efficiency-comparing-keepers-performances-objectively-using-machine-learning-on-aws/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-30T11:07:32-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-03-30-5-artificial-intelligence-etfs-for-investors-to-ride-the-ai-wave-plus-one-bonus-alternative.md",
-      "title": "5 Artificial Intelligence ETFs For Investors To Ride The AI Wave - Plus One Bonus Alternative",
-      "excerpt": "It invests in a diverse range of stocks in the robotics, automation and AI sectors. As well as investing in the tech more broadly, ROBO also has a focus on healthcare, where automation and artificial intelligence can help save lives, as well as drive ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/qai/2023/03/30/5-artificial-intelligence-etfs-for-investors-to-ride-the-ai-waveplus-one-bonus-alternative/",
-      "originalUrl": "https://www.forbes.com/sites/qai/2023/03/30/5-artificial-intelligence-etfs-for-investors-to-ride-the-ai-waveplus-one-bonus-alternative/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/qai/2023/03/30/5-artificial-intelligence-etfs-for-investors-to-ride-the-ai-waveplus-one-bonus-alternative/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/03/30/5-artificial-intelligence-etfs-for-investors-to-ride-the-ai-waveplus-one-bonus-alternative/amp/",
-      "publishedDateTime": "2023-03-30T09:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-03-30-let-the-ai-coding-wars-begin.md",
-      "title": "Let the AI Coding Wars Begin!",
-      "excerpt": "The way artificial intelligence can rewrite software will have huge implications for the tech industry—and everyone else, too.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/ai-coding-wars-openai-google-microsoft/",
-      "originalUrl": "https://www.wired.com/story/ai-coding-wars-openai-google-microsoft/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5f0fb43a92cb35f94cf6a0ed/master/w_450,h_400,c_limit/Carve_Fast%20Forward%20newsletter.jpg",
-          "width": 450,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/ai-coding-wars-openai-google-microsoft/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ai-coding-wars-openai-google-microsoft/amp",
-      "publishedDateTime": "2023-03-30T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-30-elon-musks-ai-warning-like-catholic-church-ban-on-printing-presses.md",
-      "title": "Elon Musk’s AI warning ‘like Catholic church ban on printing presses’",
-      "excerpt": "Yann LeCun, chief AI scientist at Facebook-owner Meta, has mocked Mr Musk’s plea to halt advanced AI research for six months. Mr LeCun posted on Twitter: “The year is 1440 and the Catholic ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.telegraph.co.uk/business/2023/03/30/elon-musks-ai-warning-meta-scientist/",
-      "originalUrl": "https://www.telegraph.co.uk/business/2023/03/30/elon-musks-ai-warning-meta-scientist/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.telegraph.co.uk/content/dam/business/2023/03/30/TELEMMGLPICT000329372467_trans_NvBQzQNjv4BqqiUuvBizZT2q34Osm0tNw9LO529jWexQu7u975-F90g.jpeg?impolicy=logo-overlay",
-          "width": 1024,
-          "height": 536,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-30T08:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Telegraph",
-        "domain": "telegraph.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

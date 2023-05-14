@@ -7,7 +7,7 @@ originalUrl: "https://thegrio.com/2023/05/10/i-unintentionally-created-a-biased-
 webUrl: "https://thegrio.com/2023/05/10/i-unintentionally-created-a-biased-ai-algorithm-25-years-ago-tech-companies-are-still-making-the-same-mistake/"
 type: article
 quality: 1
-heat: 1
+heat: -1
 published: false
 
 provider:
@@ -20,6 +20,15 @@ topics:
   - AI Ethics
 
 related:
+  - title: "I Created a Biased AI Algorithm 25 Years Ago—Tech Companies Are Still Making the Same Mistake."
+    excerpt: "I unintentionally created a racially biased artificial intelligence algorithm. There are lessons in that story that resonate even more strongly today."
+    publishedDateTime: 2023-05-14T13:00:00Z
+    webUrl: "https://gizmodo.com/ai-chatgpt-google-bard-bing-facial-rec-racist-mistakes-1850433730"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 37
   - title: "I unintentionally created a biased AI algorithm 25 years ago, and tech companies haven’t learned from my mistake"
     excerpt: "How and why do well-educated, well-intentioned scientists produce biased AI systems? Sociological theories of privilege provide one useful lens."
     publishedDateTime: 2023-05-12T04:03:00Z

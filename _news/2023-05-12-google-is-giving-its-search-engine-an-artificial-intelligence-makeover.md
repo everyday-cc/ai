@@ -40,6 +40,20 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Artificial general intelligence – What is the meaning of AGI?"
+    excerpt: "OpenAI, the company behind ChatGPT, has in its charter the aim to create artificial general intelligence that “benefits all of humanity”. This sounds like a pretty good deal to me, but what ..."
+    publishedDateTime: 2023-05-11T11:52:00Z
+    webUrl: "https://www.videogamer.com/tech/ai/artificial-general-intelligence/"
+    type: article
+    provider:
+      name: VideoGamer.com
+      domain: videogamer.com
+    quality: 24
+    images:
+      - url: "https://www.videogamer.com/wp-content/uploads/Artificial-General-Intelligence-What-is-the-meaning-of-AGI_.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Google giving its popular search engine an artificial-intelligence makeover"
     excerpt: "Google is ready to test the AI waters with its search engine and also unveiled the first foldable smartphone in its Pixel line-up at the I/O showcase."
     publishedDateTime: 2023-05-14T00:15:00Z

@@ -55,24 +55,6 @@ related:
         width: 1178
         height: 1070
         isCached: true
-  - title: "AI will create ‘a serious number of losers’, DeepMind co-founder warns"
-    excerpt: "Advances in artificial intelligence will threaten white-collar workers and create “a serious number of losers” over the next decade, according to one of the co-founders of AI lab DeepMind who has pioneered the technology."
-    publishedDateTime: 2023-05-09T21:05:00Z
-    webUrl: "https://www.ft.com/content/0c105d93-e017-470d-8653-a2a30fd720b2"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 34
-  - title: "AI will create ‘a serious number of losers’, warns DeepMind co-founder"
-    excerpt: "Advances in artificial intelligence will threaten white-collar workers and create “a serious number of losers” over the next decade, according to one of the co-founders of AI lab DeepMind who has pioneered the technology."
-    publishedDateTime: 2023-05-09T21:05:00Z
-    webUrl: "https://www.ft.com/content/0c105d93-e017-470d-8653-a2a30fd720b2"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 34
 
 secured: "WYDeX1PGUBQnNLO4ZWhIpgumNNBURc28NyAMhTUj5tHPKFIsRJGe3vJItdMoTZBlyzNg8hSA/QaS1cVIdIIQZBQAC0Ls8NLGW/uMxgXnlGB5s1aCHPe07J+jGbokiCDJYrgTo4ggODQO/YDCgqhCyjECnjX4HY/dVavGY4pZh6fvGzjMWKVflZCkNoN0pzFr2wtXSOucUS/YSUrIB2UIp98e4QVOeb6+OEfZ6HV4f7gKj3UvGBWr43a7n+mbo//oKj9H7t1g4kRiEuDTtVeArWG5Ukh2hezbSPuHQpgVHLYXHRB4fVxO740eQhM8wnrDCgWpKmVH1kBiofDSA4y3Kybic0pcgXRTtseq8hAZ71MwrmvnHmSeQipRbiiXNfQ7T2M7YZy/GuVqt4hHEH1i6tqgjexRvb0Q+TIaP8ySwITHdgY+GyfXLCzCLB0OwvHdFDMeLQ1FAilC8361jtpRR+KniOotZWHaecuW0KKGW69OSXoMwaAd+EbmEgojI3ip9UiVw1Nh5ys504a7neBGgw==;vmiRyG4OBHt5BE9UXYhYtg=="
 ---

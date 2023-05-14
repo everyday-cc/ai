@@ -9,7 +9,7 @@ ampWebUrl: "https://fortune.com/2023/05/10/artificial-intelligence-deepmind-co-f
 cdnAmpWebUrl: "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/2023/05/10/artificial-intelligence-deepmind-co-founder-mustafa-suleyman-ubi-governments-seriously-need-to-find-solution-for-people-that-lose-their-jobs/amp/"
 type: article
 quality: 70
-heat: 110
+heat: 90
 published: true
 
 provider:
@@ -59,24 +59,6 @@ related:
         width: 1178
         height: 1070
         isCached: true
-  - title: "AI will create ‘a serious number of losers’, DeepMind co-founder warns"
-    excerpt: "Advances in artificial intelligence will threaten white-collar workers and create “a serious number of losers” over the next decade, according to one of the co-founders of AI lab DeepMind who has pioneered the technology."
-    publishedDateTime: 2023-05-09T21:05:00Z
-    webUrl: "https://www.ft.com/content/0c105d93-e017-470d-8653-a2a30fd720b2"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 34
-  - title: "AI will create ‘a serious number of losers’, warns DeepMind co-founder"
-    excerpt: "Advances in artificial intelligence will threaten white-collar workers and create “a serious number of losers” over the next decade, according to one of the co-founders of AI lab DeepMind who has pioneered the technology."
-    publishedDateTime: 2023-05-09T21:05:00Z
-    webUrl: "https://www.ft.com/content/0c105d93-e017-470d-8653-a2a30fd720b2"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 34
 
 secured: "lVq6fAUwhhIytV6i6zLZ6t9XlGDjx8F3fVsd6Z09PmrdIs13qS4kbGY6PVG03MqUQF7SHO7z036EwbLgedGgfglKN8GrvN9hyx1tMhfkhPzZ+oUvbMdyeMtCrmxwkfWLI9ZcYKWICZxFOiZGGIClZ5f03zeg29T/Hv7hb8jI3CExpOP/WNmyyKzSdbVN6RoXAuvUz3I4dN9mkC3pNG5kFYCAR/Qd9YEV61UzcVo2yR8wyp2V8ivNB2zzHXD2EhxUCnMS7o0DzF0+KofNSog0tXySzRog7OVhXLAaN1PwxpQeQT1uQ+rjZnKOP6rtON8fAVliIwNmC990KproG+Ld3bvOC401uIDkfuDYy3ADjRc=;ddc7pd510VhCXYmJwObOdA=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://newatlas.com/medical/crank-ms-machine-learning-early-parki
 webUrl: "https://newatlas.com/medical/crank-ms-machine-learning-early-parkinsons-diagnosis/"
 type: article
 quality: 67
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "How Can an Artificial Intelligence Tool Help Predict Parkinson's Disease Onset?"
-    excerpt: "AI or machine learning approach identified chemical markers that are important in accurately predicting who will develop Parkinson's disease in the future."
-    publishedDateTime: 2023-05-09T22:02:00Z
-    webUrl: "https://www.medindia.net/news/how-can-an-artificial-intelligence-tool-help-predict-parkinsons-disease-onset-211705-1.htm"
-    ampWebUrl: "https://www.medindia.net/amp/news/how-can-an-artificial-intelligence-tool-help-predict-parkinsons-disease-onset-211705-1.htm"
-    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/how-can-an-artificial-intelligence-tool-help-predict-parkinsons-disease-onset-211705-1.htm"
-    type: article
-    provider:
-      name: Medindia
-      domain: medindia.net
-    quality: 55
-    images:
-      - url: "https://www.medindia.net/health-images/an-artificial-intelligence-accurately-predict.jpg"
-        width: 300
-        height: 250
-        isCached: true
   - title: "Machine Learning Tool Shows Early Promise in Detecting Parkinson's Disease"
     excerpt: "Scientists from UNSW Sydney with collaborators at Boston University have developed a tool that shows early promise in detecting Parkinson’s disease years before the first symptoms start appearing."
     publishedDateTime: 2023-05-10T07:41:00Z

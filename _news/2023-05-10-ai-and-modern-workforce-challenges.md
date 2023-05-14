@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/10/ai-and
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/05/10/ai-and-modern-workforce-challenges/amp/"
 type: article
 quality: 89
-heat: 129
+heat: 149
 published: true
 
 provider:
@@ -46,6 +46,36 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/645bf484b738ee39999c02fa/0x0.jpg?format=jpg&crop=2880,1350,x0,y405,safe&width=1200"
         width: 1200
         height: 563
+        isCached: true
+  - title: "How AI Will Change the Workplace"
+    excerpt: "We asked some top thinkers from different fields to weigh in on what’s ahead, as the AI explosion compels businesses to rethink, well, almost everything."
+    publishedDateTime: 2023-05-14T14:00:00Z
+    webUrl: "https://www.wsj.com/articles/how-ai-change-workplace-af2162ee"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
+    images:
+      - url: "https://images.wsj.net/im-779753/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Revolutionary changes by artificial intelligence"
+    excerpt: "Introduction to the AI World Giving equal competition to intelligence by humans, when machines produce results, making tasks easier and faster, then those are inculcated under AI (Artificial Intelligence). AI has brought rapid and huge changes in our world ..."
+    publishedDateTime: 2023-05-14T15:49:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/revolutionary-changes-by-artificial-intelligence/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/revolutionary-changes-by-artificial-intelligence/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/revolutionary-changes-by-artificial-intelligence/"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2023/03/Manish-Mohta.JPEG-1.jpeg"
+        width: 1280
+        height: 851
         isCached: true
   - title: "We need AI to help us face the challenges of the future"
     excerpt: "Letters: Readers respond to Naomi Klein’s article that argued it is delusional to believe AI machines will benefit humanity"

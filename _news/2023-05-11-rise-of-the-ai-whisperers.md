@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/theyec/2023/05/11/rise-of-the-ai-whispe
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2023/05/11/rise-of-the-ai-whisperers/amp/"
 type: article
 quality: 89
-heat: 149
+heat: 159
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Dangers of AI: What are the Artificial Intelligence threats and risks?"
+    excerpt: "Although AI has been hailed as revolutionary and a game-changer, it has drawbacks. In addition to planning for superintelligent computers, contemporary AI can bring problems. Let's take a look at some crucial AI-related risks."
+    publishedDateTime: 2023-05-14T15:08:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/dangers-of-ai-what-are-the-artificial-intelligence-threats-and-risks-10585221.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/technology/dangers-of-ai-what-are-the-artificial-intelligence-threats-and-risks-10585221.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/dangers-of-ai-what-are-the-artificial-intelligence-threats-and-risks-10585221.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 74
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2023/05/AI-2.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Google Is Opening the AI Floodgates"
     excerpt: "This week we recap all the news from Google I/O and discuss how the company is reshaping its core business with generative tools."
     publishedDateTime: 2023-05-12T12:00:00Z

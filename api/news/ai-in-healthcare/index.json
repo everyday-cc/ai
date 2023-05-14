@@ -388,6 +388,49 @@
       ]
     },
     {
+      "path": "_news/2023-05-06-artificial-intelligence-helping-detect-early-signs-of-breast-cancer-in-some-us-hospitals.md",
+      "title": "Artificial intelligence helping detect early signs of breast cancer in some US hospitals",
+      "excerpt": "Some doctors believe artificial intelligence is saving lives after ... less chemotherapy, less radiation therapy,\" she continued. \"I think we're entering into a whole new era in breast care.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.fox10phoenix.com/news/artificial-intelligence-helping-detect-early-signs-of-breast-cancer-in-some-us-hospitals",
+      "originalUrl": "https://www.fox10phoenix.com/news/artificial-intelligence-helping-detect-early-signs-of-breast-cancer-in-some-us-hospitals",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.foxtv.com/static.fox10phoenix.com/www.fox10phoenix.com/content/uploads/2023/05/932/470/breast-xray-GettyImages-1238822565.jpg?ve=1&tl=1",
+          "width": 932,
+          "height": 470,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fox10phoenix.com/news/artificial-intelligence-helping-detect-early-signs-of-breast-cancer-in-some-us-hospitals.amp",
+      "cdnAmpWebUrl": "https://www-fox10phoenix-com.cdn.ampproject.org/c/s/www.fox10phoenix.com/news/artificial-intelligence-helping-detect-early-signs-of-breast-cancer-in-some-us-hospitals.amp",
+      "publishedDateTime": "2023-05-05T13:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "FOX 10 Phoenix",
+        "domain": "fox10phoenix.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-05-idvv-announces-artificial-intelligence-ai-client-in-medical-sector.md",
       "title": "IDVV Announces Artificial Intelligence (AI) Client In Medical Sector",
       "excerpt": "LAS VEGAS, NV / ACCESSWIRE / May 5, 2023 / International Endeavors Corporation 'IEC' (OTC PINK:IDVV) announced that its AI division WITech has",
@@ -1371,59 +1414,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-28-artificial-intelligence-delivery-robot-market-growth-by-2031.md",
-      "title": "Artificial Intelligence Delivery Robot Market Growth by 2031",
-      "excerpt": "The latest market research report on the Global \"Artificial Intelligence Delivery Robot Market\" is segmented by",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-delivery-robot-market-growth-by-2031-2023-04-28",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-delivery-robot-market-growth-by-2031-2023-04-28",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-28T09:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

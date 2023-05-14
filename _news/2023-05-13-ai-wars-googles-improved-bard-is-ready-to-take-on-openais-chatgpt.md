@@ -177,9 +177,9 @@ related:
   - title: "ChatGPT: The game-changing AI-language model and its implications on enterprise automation"
     excerpt: "ChatGPT has gained global attention and recognition, yet its impact on enterprise automation remains an area not fully explored. Analyzing it from the standpoint of intelligent automation can reveal its potential impact on the"
     publishedDateTime: 2023-05-14T10:03:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/chatgpt-the-game-changing-ai-language-model-and-its-implications-on-enterprise-automation/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/chatgpt-the-game-changing-ai-language-model-and-its-implications-on-enterprise-automation/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/chatgpt-the-game-changing-ai-language-model-and-its-implications-on-enterprise-automation/"
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/chatgpt-the-game-changing-ai-language-model-and-its-implications-on-enterprise-automation/?source=app&frmapp=yes"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/chatgpt-the-game-changing-ai-language-model-and-its-implications-on-enterprise-automation/?source=app&frmapp=yes"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/chatgpt-the-game-changing-ai-language-model-and-its-implications-on-enterprise-automation/?source=app&frmapp=yes"
     type: article
     provider:
       name: Indiatimes
@@ -199,20 +199,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 45
-  - title: "UAE: New Chatgpt AI Assistant To Help Plan Visits To Yas Island"
-    excerpt: "Visitors to Abu Dhabi's Yas Island can now get personalised guidance and information about the latest offerings through an AI assistant. Miral, the leading creator of immersive destinations and experiences based in Abu Dhabi,"
-    publishedDateTime: 2023-05-09T19:34:00Z
-    webUrl: "https://menafn.com/1106210851/UAE-New-Chatgpt-AI-Assistant-To-Help-Plan-Visits-To-Yas-Island"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 39
-    images:
-      - url: "https://menafn.com/updates/pr/2023-05/09/KT_6610bimage_story.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "ChatGPT and Generative AI in Insurance: Reality, Hype, What's Next, and How to Prepare"
     excerpt: "ChatGPT is the most talked-about technology of 2023 and has piqued the interest of insurance industry leaders."
     publishedDateTime: 2023-05-12T18:00:00Z

@@ -45,15 +45,6 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 1
-  - title: "Indigenous voice to parliament is ‘divisive and breaches discrimination laws’, says Michaelia Cash"
-    excerpt: "The Indigenous voice to parliament will “destroy equality of citizenship” and “embed division based on race in the Constitution”, the Coalition’s new legal affairs spokeswoman, Michaelia Cash, says."
-    publishedDateTime: 2023-05-09T19:15:00Z
-    webUrl: "https://www.theaustralian.com.au/nation/politics/indigenous-voice-to-parliament-is-divisive-and-breaches-discrimination-laws-says-michaelia-cash/news-story/db65783cc0285d266b8910c8c5a54df1"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 0
 
 secured: "sTD8hzAGPl/qGDcp6Z8ZV6BNhGPrwHszFlcSm2CNiWUcfBvGKQ8c69zeuIQyrjeW3gOAzkC1Sc0NWIGQg/KO2qVnBQuYttgoZVgDsJ8m4hlk1cQd8kLhmjSn3d8skEGsi3U115IDRAG1HueTHHk0XsL5+VwBgdfGMAsqvDVDpU+GbAHAVY65I/jlWkphHT9BDmY+0N4q0h11SUz7JUQlC1uLouder+xcu/mTIn0uuqg7L5ekDOh8YGze8YVZy7gOV8Udmxyu9BPqmJKIy4H9trZgo7SP3L6mnJRCC2ujrC0il2E5ByLL5wr7KvIl5nB9I23DjnCLG8rgdM+XNxLpyAKkkAJGh+G4LB+8iJfdbeY=;qfYGXjHb6PRfAqnDLXJDCQ=="
 ---

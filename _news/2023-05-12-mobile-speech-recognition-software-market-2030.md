@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Facial Recognition Door Lock Market Outlook | 2023-2031"
-    excerpt: "The Global Facial Recognition Door Lock market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players,"
-    publishedDateTime: 2023-05-09T21:58:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-door-lock-market-outlook-2023-2031-2023-05-09"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Speech Recognition Software Market Till 2030"
     excerpt: "The Global Speech Recognition Software market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players,"
     publishedDateTime: 2023-05-12T13:19:00Z
@@ -108,6 +94,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Face Recognition Software Market 2023 Growth Possibilities, Analysis and Forecast To 2030"
+    excerpt: "The Face Recognition Software Market Report by Type (Holistic Matching Method, Feature-based Method, Skin Texture Analysis, Hybrid Types, Other) and by Application (Corporate and Residential Security,"
+    publishedDateTime: 2023-05-11T11:22:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-software-market-2023-growth-possibilities-analysis-and-forecast-to-2030-2023-05-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 40
 
 secured: "nFw8iLUKOruwc/iTItbW2PTbFkDmNnLjyy2CzezmvPuNtquyQtc4t6pdu01hFuURGrC9efUh4TLpx3Sie8nCLA23im1uleKuVrOt/PAGaF9MoPb0LNLRstMEJq16nvY8fdYGmgv5vfkBNe5ce6c+GiCOkHV+ZFIWjMda0Xr+0szTTNa7e4utTHlQimDV/sIx908O72TKpyjirm/BfXvRfLYBngmFgrfEBZYOeK5Evv56pB+oN+sEbJcr3l4UY2LGhU/W8N+lnVQA8gwul6cDpx97Z0Fn6fJo3c+Tjbkb6v/e61QUcC9xyiQGE2LQl0ef51Qu17K9BDMEdITqzFLAbFS3gwlnuxLHe/Eagec3cOg=;cYxGKB9I4po6x30jKk74Zg=="
 ---

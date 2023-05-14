@@ -97,15 +97,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 57
-  - title: "ThoughtSpot focuses on simplifying analytics with AI at Beyond 2023"
-    excerpt: "ThoughtSpot today announced new AI-driven features, including an AI assistant called Sage, to simplify data analytics for enterprises."
-    publishedDateTime: 2023-05-09T21:37:00Z
-    webUrl: "https://venturebeat.com/enterprise-analytics/thoughtspot-focuses-on-simplifying-analytics-with-ai-at-beyond-2023/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 47
   - title: "New Survey Finds Financial Leaders Investing in Analytics, AI and ML Tools as They Navigate Economic Uncertainty in 2023"
     excerpt: "OneStream Software, a leader in corporate performance management (CPM) solutions for the world’s leading enterprises,"
     publishedDateTime: 2023-05-10T12:35:00Z

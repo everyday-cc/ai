@@ -57,20 +57,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Announcing provisioned concurrency for Amazon SageMaker Serverless Inference"
-    excerpt: "Amazon SageMaker Serverless Inference allows you to serve model inference requests in real time without having to explicitly provision compute instances or configure scaling policies to handle traffic variations. You can let AWS handle the undifferentiated heavy lifting of managing the underlying infrastructure"
-    publishedDateTime: 2023-05-09T22:26:59Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/announcing-provisioned-concurrency-for-amazon-sagemaker-serverless-inference/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 86
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/05/09/provisioned-concurrency-1260x630.jpg"
-        width: 1260
-        height: 630
-        isCached: true
   - title: "Operationalize ML models built in Amazon SageMaker Canvas to production using the Amazon SageMaker Model Registry"
     excerpt: "You can now register machine learning (ML) models built in Amazon SageMaker Canvas with a single click to the Amazon SageMaker Model Registry, enabling you to operationalize ML models in production. Canvas is a visual interface that enables business analysts to generate accurate ML predictions on their"
     publishedDateTime: 2023-05-10T18:43:43Z

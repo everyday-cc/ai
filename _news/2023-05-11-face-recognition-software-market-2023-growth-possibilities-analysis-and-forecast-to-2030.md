@@ -23,57 +23,85 @@ topics:
   - AI
 
 related:
-  - title: "2030, AI in Computer Vision Market Growth | Future Prospects and Competitive Analysis"
-    excerpt: "The \"AI in Computer Vision Market\" is one of the sectors that is expanding the fastest, thus it is crucial for players"
-    publishedDateTime: 2023-05-09T21:48:00Z
-    webUrl: "https://www.marketwatch.com/press-release/2030-ai-in-computer-vision-market-growth-future-prospects-and-competitive-analysis-2023-05-09"
+  - title: "2023 Mobile Speech Recognition Software | Dynamic Report By 2030"
+    excerpt: "Mobile Speech Recognition Software Market | Outlook 2023-2028 | Pre and Post-COVID Research is Covered, Report"
+    publishedDateTime: 2023-05-10T11:23:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-mobile-speech-recognition-software-dynamic-report-by-2030-2023-05-10"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 77
+    quality: 69
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "2030, Artificial Intelligence in Construction Market Growth | Future Prospects and Competitive Analysis"
-    excerpt: "The \"Artificial Intelligence in Construction Market\" is one of the sectors that is expanding the fastest, thus it"
-    publishedDateTime: 2023-05-11T22:09:00Z
-    webUrl: "https://www.marketwatch.com/press-release/2030-artificial-intelligence-in-construction-market-growth-future-prospects-and-competitive-analysis-2023-05-11"
+  - title: "Mobile Speech Recognition Software Market | 2030"
+    excerpt: "The Global Mobile Speech Recognition Software market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players,"
+    publishedDateTime: 2023-05-12T02:53:00Z
+    webUrl: "https://www.marketwatch.com/press-release/mobile-speech-recognition-software-market-2030-2023-05-11"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 51
+    quality: 69
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Medication Management Market Report, Trends, Growth, Size, Share, and Forecast 2028"
-    excerpt: "Get a Sample of the Artificial Intelligence in Medication Management Market Report @  Artificial Intelligence in Medication Management Market is rapidly growing with a CAGR of 22.3% from 2022 to 2028."
-    publishedDateTime: 2023-05-11T12:09:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-medication-management-market-report-trends-growth-size-share-and-forecast-2028-2023-05-11"
+  - title: "Speech Recognition Software Market Till 2030"
+    excerpt: "The Global Speech Recognition Software market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players,"
+    publishedDateTime: 2023-05-12T13:19:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-recognition-software-market-till-2030-2023-05-12"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 49
+    quality: 69
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Oil and Gas Market by 2030"
-    excerpt: "Precision Reports has published a new report titled as \"Artificial Intelligence in Oil and Gas Market\" by End User"
-    publishedDateTime: 2023-05-13T05:16:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-oil-and-gas-market-by-2030-2023-05-13"
+  - title: "2023 Automated Machine Learning (AutoML) | Dynamic Report By 2030"
+    excerpt: "Automated Machine Learning (AutoML) Market | Outlook 2023-2028 | Pre and Post-COVID Research is Covered, Report"
+    publishedDateTime: 2023-05-10T11:23:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-automated-machine-learning-automl-dynamic-report-by-2030-2023-05-10"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 47
+    quality: 66
+  - title: "Computer Vision Software Market Share 2023|Bussiness Research And Forecast by 2029"
+    excerpt: "Computer Vision Software Market | Outlook 2023-2028 | Pre and Post-COVID Research is Covered, Report Information |"
+    publishedDateTime: 2023-05-11T14:19:00Z
+    webUrl: "https://www.marketwatch.com/press-release/computer-vision-software-market-share-2023bussiness-research-and-forecast-by-2029-2023-05-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 63
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Speech Recognition Software Market is Booming Worldwide Throughout 2023 to 2030 | Share, Size, Growth"
+    excerpt: "Global “ Speech Recognition Software Market ” (2023-2030) research report gives an outline of the business with orders, applications and industry chain structure. Speech Recognition Software Market report additionally gives information to the global markets including advancement patterns,"
+    publishedDateTime: 2023-05-10T03:35:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-recognition-software-market-is-booming-worldwide-throughout-2023-to-2030-share-size-growth-2023-05-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "sBOa09FuxJbaC6i2VFLAWetU8OJBhIQPIgxm0k6MitkaCP4b3+AITfyDozo7VaN+AwcgJivFmQxD2zRHmcVceZ+Jl/hSkYy9WBCfjgNLaERrfwnPo4PV4ddlImdOrVdnotwswnPN+9PvhLLinNgpqDrWQ10c5b7uw91zUzT2OepxhQXxH9R/ZVKuf1Ncd4BngTnKGIWlz6vsC9wivUnpmgr6pHgDv+UvAA96qYqilgUFKX9XUzuVxf7PAeMmI8BFCsJVz0bgtVGkvVEO5IQZ12K8sU+ae8hcsP+Ov6Dh9I2Zie+naccHqFKofAF0ozAt1V1vx8pAujdezWbBTYRBLtVRDiNVkFJqRf5q65cuWsk=;dTBprOoi8vMOVI9ZnuUuxQ=="
 ---

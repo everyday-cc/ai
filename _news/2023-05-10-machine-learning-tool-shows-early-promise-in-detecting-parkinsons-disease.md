@@ -39,22 +39,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "How Can an Artificial Intelligence Tool Help Predict Parkinson's Disease Onset?"
-    excerpt: "AI or machine learning approach identified chemical markers that are important in accurately predicting who will develop Parkinson's disease in the future."
-    publishedDateTime: 2023-05-09T22:02:00Z
-    webUrl: "https://www.medindia.net/news/how-can-an-artificial-intelligence-tool-help-predict-parkinsons-disease-onset-211705-1.htm"
-    ampWebUrl: "https://www.medindia.net/amp/news/how-can-an-artificial-intelligence-tool-help-predict-parkinsons-disease-onset-211705-1.htm"
-    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/how-can-an-artificial-intelligence-tool-help-predict-parkinsons-disease-onset-211705-1.htm"
-    type: article
-    provider:
-      name: Medindia
-      domain: medindia.net
-    quality: 55
-    images:
-      - url: "https://www.medindia.net/health-images/an-artificial-intelligence-accurately-predict.jpg"
-        width: 300
-        height: 250
-        isCached: true
   - title: "A machine-learning approach for the early diagnosis of Parkinson's disease"
     excerpt: "In a recent ACS Central Science study, scientists from the University of New South Wales (UNSW) discuss a machine learning (ML)-based tool that can detect PD years before the first onset of symptoms. At present, the overall diagnostic accuracy for PD based ..."
     publishedDateTime: 2023-05-11T00:00:00Z

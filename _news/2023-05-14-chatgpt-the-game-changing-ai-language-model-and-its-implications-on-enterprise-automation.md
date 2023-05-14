@@ -3,10 +3,10 @@ category: news
 title: "ChatGPT: The game-changing AI-language model and its implications on enterprise automation"
 excerpt: "ChatGPT has gained global attention and recognition, yet its impact on enterprise automation remains an area not fully explored. Analyzing it from the standpoint of intelligent automation can reveal its potential impact on the"
 publishedDateTime: 2023-05-14T10:03:00Z
-originalUrl: "https://timesofindia.indiatimes.com/blogs/voices/chatgpt-the-game-changing-ai-language-model-and-its-implications-on-enterprise-automation/"
-webUrl: "https://timesofindia.indiatimes.com/blogs/voices/chatgpt-the-game-changing-ai-language-model-and-its-implications-on-enterprise-automation/"
-ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/chatgpt-the-game-changing-ai-language-model-and-its-implications-on-enterprise-automation/"
-cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/chatgpt-the-game-changing-ai-language-model-and-its-implications-on-enterprise-automation/"
+originalUrl: "https://timesofindia.indiatimes.com/blogs/voices/chatgpt-the-game-changing-ai-language-model-and-its-implications-on-enterprise-automation/?source=app&frmapp=yes"
+webUrl: "https://timesofindia.indiatimes.com/blogs/voices/chatgpt-the-game-changing-ai-language-model-and-its-implications-on-enterprise-automation/?source=app&frmapp=yes"
+ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/chatgpt-the-game-changing-ai-language-model-and-its-implications-on-enterprise-automation/?source=app&frmapp=yes"
+cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/chatgpt-the-game-changing-ai-language-model-and-its-implications-on-enterprise-automation/?source=app&frmapp=yes"
 type: article
 quality: 49
 heat: -1
@@ -185,20 +185,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 45
-  - title: "UAE: New Chatgpt AI Assistant To Help Plan Visits To Yas Island"
-    excerpt: "Visitors to Abu Dhabi's Yas Island can now get personalised guidance and information about the latest offerings through an AI assistant. Miral, the leading creator of immersive destinations and experiences based in Abu Dhabi,"
-    publishedDateTime: 2023-05-09T19:34:00Z
-    webUrl: "https://menafn.com/1106210851/UAE-New-Chatgpt-AI-Assistant-To-Help-Plan-Visits-To-Yas-Island"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 39
-    images:
-      - url: "https://menafn.com/updates/pr/2023-05/09/KT_6610bimage_story.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "AI Wars: Google’s Improved Bard Is Ready to Take On OpenAI’s ChatGPT"
     excerpt: "When it comes to AI chatbots, we all love OpenAI's ChatGPT, but Google's Bard has everything that makes us drool—for free."
     publishedDateTime: 2023-05-12T22:34:00Z
@@ -324,6 +310,6 @@ related:
       domain: usatoday.com
     quality: 7
 
-secured: "j+P3Djt3x4N97iFpojcNjUGO4pQW0owGRgItC9Ts64/5/32GuoehDEozW+wbag1le2kr8Tjxnir6zA71i6aVZa6JtAPTYCQ6b2BzlqCdeQENazPJK9ug2MnLH43eMtnTnRV1/DE6wKoIXJBqFZq7gT077Qdxw2PFrjem/vO5IRWf2BbyUlgRF8sXdroHsxLOVG42XqbDOKMBS8KDpmK3PbC8rggToQrQEK/gq66WgaxzzeB4tSpu7mi7ONGKAK227iYZHNbafaRNhywWhm3xW1jAc4IVjI9NDl39sTqgWbhodzBCN3NuYt/XGAsWlqVqYGRwdEljGBRQ/FCP4ogo+5g6SSCAHSMobrwgtEjxuvg=;QOognozPqOn/bV4IzZoZXA=="
+secured: "MhO1fdG1d612+bMHGxKKDa3tpS+0uSLQOso785qw8tUEWL7KN4XQr6p0OVqVXKW4UuMXAmuYVh02XM62ghWYr7fVFxgWQKmoYpBJycHKyRHeeNMHCO9j2QpJaWc7ugeqotQjz8U02FxtJIxOz9d10CG9XFTzN3MkweOPQaZ3YvivEiqzLgD6Wgdd4eiQfH/7nxwXw5fq2Jl+e0/BNScAf7IJ6C8VB5hfTffM9CX/uM2xWEsKKhThAXh7fNAqPpoX6HwJvP+wpNjOu6eaWvntdEcDWO5/IaK4VUVsndtUUiWDZBSVIXZsc9DPBYDwKMbvnOaRvjg3nEkCMrtxIKqqQ2T82VVmt4f09N/7BZR/Nbk=;/NhR3sWP9+QFagG1RU3a9w=="
 ---
 

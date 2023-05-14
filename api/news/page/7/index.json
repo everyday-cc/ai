@@ -2,6 +2,211 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-05-09-accelerate-your-speed-of-business-with-ibm-event-automation.md",
+      "title": "Accelerate your speed of business with IBM Event Automation",
+      "excerpt": "IBM is announcing IBM Event Automation, a composable solution designed to help businesses put events to work.\nThe post Accelerate your speed of business with IBM Event Automation appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/accelerate-your-speed-of-business-with-ibm-event-automation/",
+      "originalUrl": "https://www.ibm.com/blog/accelerate-your-speed-of-business-with-ibm-event-automation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 132,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/05/amv-2021bcncloudbusiness20567.lr_-630x330.jpg",
+          "width": 630,
+          "height": 330,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-09T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-09-ibm-watson-orchestrate-unlocking-new-levels-productivity-for-every-employee.md",
+      "title": "IBM Watson Orchestrate: Unlocking new levels productivity for every employee",
+      "excerpt": "IBM Watson Orchestrate is a cloud-based platform that helps companies empower their people to completely change the nature of day-to-day work for good. \nThe post IBM Watson Orchestrate: Unlocking new levels productivity for every employee appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/ibm-watson-orchestrate-unlocking-new-levels-productivity-for-every-employee/",
+      "originalUrl": "https://www.ibm.com/blog/ibm-watson-orchestrate-unlocking-new-levels-productivity-for-every-employee/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/05/ux62.lr_-630x330.jpg",
+          "width": 630,
+          "height": 330,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-09T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-09-edge-ai-chips-market-witness-the-massive-growth-of-the-market-to-2029-nvidia-intel-xilinx-samsung-electronics.md",
+      "title": "Edge AI Chips Market Witness the massive growth of the market to 2029 |Nvidia, Intel, Xilinx, Samsung Electronics",
+      "excerpt": "Nvidia, Intel, Xilinx, Samsung Electronics, Micron Technology, Qualcomm Technologies, IBM, Google, Microsoft, Apple, Huawei  The region-wise coverage of the market is mentioned in the report, mainly focusing on the regions: North America (the USA,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/edge-ai-chips-market-witness-the-massive-growth-of-the-market-to-2029-nvidia-intel-xilinx-samsung-electronics-2023-05-09",
+      "originalUrl": "https://www.marketwatch.com/press-release/edge-ai-chips-market-witness-the-massive-growth-of-the-market-to-2029-nvidia-intel-xilinx-samsung-electronics-2023-05-09",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-09T04:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-09-ai-influx-alters-corporate-leadership-qualities-3-essential-strategic-approaches.md",
+      "title": "AI Influx Alters Corporate Leadership Qualities: 3 Essential Strategic Approaches",
+      "excerpt": "Here are three critical traits for leaders seeking to harness employees’ intrinsic motivation to learn and give them responsibility for leading the transformation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/05/09/ai-influx-alters-corporate-leadership-qualities-3-essential-strategic-approaches/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/05/09/ai-influx-alters-corporate-leadership-qualities-3-essential-strategic-approaches/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/5ef65f436cd39700069ce974/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/05/09/ai-influx-alters-corporate-leadership-qualities-3-essential-strategic-approaches/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/05/09/ai-influx-alters-corporate-leadership-qualities-3-essential-strategic-approaches/amp/",
+      "publishedDateTime": "2023-05-09T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-09-bring-light-to-the-black-box.md",
       "title": "Bring light to the black box",
       "excerpt": "Using AI can seem like a black box full of risks and challenges that keep businesses from adopting it. Here's how AI governance and trustworthy AI can help.\nThe post Bring light to the black box appeared first on IBM Blog.\n",
@@ -256,6 +461,40 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-09-symphonyai-announces-strategic-collaboration-with-microsoft-azure-ai-for-generative-ai.md",
+      "title": "SymphonyAI announces strategic collaboration with Microsoft Azure AI for generative AI",
+      "excerpt": "SymphonyAI announced today its first generative AI software application that integrates Microsoft Azure OpenAI Service. Sensa Copilot provides sophisticated AI assistance to financial crime ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/05/n32282145/symphonyai-announces-strategic-collaboration-with-microsoft-azure-ai-for-generative-ai",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/05/n32282145/symphonyai-announces-strategic-collaboration-with-microsoft-azure-ai-for-generative-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/32282145",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32282145",
+      "publishedDateTime": "2023-05-09T03:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
         "AI"
       ]
     },
@@ -996,237 +1235,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-09-what-manufacturers-need-to-know-about-optimizing-operations-with-computer-vision.md",
-      "title": "What manufacturers need to know about optimizing operations with computer vision",
-      "excerpt": "How computer vision is transforming manufacturing by increasing product quality, reducing waste and creating safer work environments.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/what-manufacturers-need-to-know-about-optimizing-operations-with-computer-vision/",
-      "originalUrl": "https://venturebeat.com/ai/what-manufacturers-need-to-know-about-optimizing-operations-with-computer-vision/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-08T20:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-09-ai-machine-learning-openlayer-finalizes-48m-seed-round.md",
-      "title": "AI, Machine Learning: Openlayer Finalizes $4.8M Seed Round",
-      "excerpt": "Openlayer, which claims to be the creator of the most comprehensive platform for testing AI, announced that it has closed a $4.8M seed round.",
-      "sourceUrl": null,
-      "webUrl": "https://www.crowdfundinsider.com/2023/05/206771-ai-machine-learning-openlayer-finalizes-4-8m-seed-round/",
-      "originalUrl": "https://www.crowdfundinsider.com/2023/05/206771-ai-machine-learning-openlayer-finalizes-4-8m-seed-round/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2018/12/US-Dollar-George-Washington-Money.jpg",
-          "width": 1280,
-          "height": 1047,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.crowdfundinsider.com/2023/05/206771-ai-machine-learning-openlayer-finalizes-4-8m-seed-round/amp/",
-      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/05/206771-ai-machine-learning-openlayer-finalizes-4-8m-seed-round/amp/",
-      "publishedDateTime": "2023-05-08T19:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crowdfund Insider",
-        "domain": "crowdfundinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-09-new-jersey-biotech-company-uses-artificial-intelligence-for-drug-development.md",
-      "title": "New Jersey biotech company uses artificial intelligence for drug development",
-      "excerpt": "PsychoGenics CEO Emer Leahy of Paramus, New Jersey, explains how the first potential AI-discovered treatment for schizophrenia was developed through machine learning. Fox News Digital spoke with her.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/video/6327063190112",
-      "originalUrl": "https://www.foxnews.com/video/6327063190112",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/44203693-1c85-4ea8-9deb-8fba074c2686/b1fd64fd-3b38-49fb-b878-65d240efae67/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "width": 1024,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-08T18:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-09-apple-co-founder-says-ai-may-make-scams-harder-to-spot.md",
-      "title": "Apple co-founder says AI may make scams harder to spot",
-      "excerpt": "Apple co-founder, Steve Wozniak, has warned that artificial intelligence (AI) could make scams and misinformation harder to spot. Mr Wozniak says he fears the technology will be harnessed by \"bad actors\". Speaking to the BBC, he said AI content should be clearly labelled, and regulation was needed for the sector.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/technology-65496150",
-      "originalUrl": "https://www.bbc.com/news/technology-65496150",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/5834/production/_129608522_gettyimages-1423387395.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/technology-65496150.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-65496150.amp",
-      "publishedDateTime": "2023-05-08T15:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-09-ai-hype-will-drive-datacenter-gpu-prices-sky-high.md",
-      "title": "AI Hype Will Drive Datacenter GPU Prices Sky High",
-      "excerpt": "Like many HPC and AI system builders, we are impatient to see what the “Antares” Instinct MI300A hybrid CPU-GPU system on chip from AMD might look like in",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextplatform.com/2023/05/08/ai-hype-will-drive-datacenter-gpu-prices-sky-high/",
-      "originalUrl": "https://www.nextplatform.com/2023/05/08/ai-hype-will-drive-datacenter-gpu-prices-sky-high/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://www.nextplatform.com/wp-content/uploads/2023/05/llnl-el-capitan-mountain-logo.jpg",
-          "width": 1905,
-          "height": 755,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nextplatform.com/2023/05/08/ai-hype-will-drive-datacenter-gpu-prices-sky-high/amp/",
-      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2023/05/08/ai-hype-will-drive-datacenter-gpu-prices-sky-high/amp/",
-      "publishedDateTime": "2023-05-08T15:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Platform",
-        "domain": "nextplatform.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

@@ -2,6 +2,431 @@
   "page": 37,
   "value": [
     {
+      "path": "_news/2023-04-21-2023-artificial-intelligence-and-robotics-in-aerospace-and-defense-market-dynamic-report-by-2030.md",
+      "title": "2023 Artificial Intelligence and Robotics in Aerospace and Defense Market | Dynamic Report By 2030",
+      "excerpt": "Artificial Intelligence and Robotics in Aerospace and Defense Market | Outlook 2023-2028 | Pre and Post-COVID Research",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/2023-artificial-intelligence-and-robotics-in-aerospace-and-defense-market-dynamic-report-by-2030-2023-04-20",
+      "originalUrl": "https://www.marketwatch.com/press-release/2023-artificial-intelligence-and-robotics-in-aerospace-and-defense-market-dynamic-report-by-2030-2023-04-20",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-20T20:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-21-the-best-coffee-and-espresso-makers-on-amazon.md",
+      "title": "The best coffee and espresso makers on Amazon",
+      "excerpt": "The experts at CBS Essentials have rounded up the best java makers at Amazon. These customer-loved kitchen devices all have a four-star rating or better and receive tons of positive reviews from ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/essentials/the-best-coffee-and-espresso-makers-on-amazon/",
+      "originalUrl": "https://www.cbsnews.com/essentials/the-best-coffee-and-espresso-makers-on-amazon/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/04/19/52f39ac5-6097-4b81-8cdc-981e243374b6/thumbnail/1200x630/98d1ca3487b4140fde55a86b2cfff3e6/coffee-espresso-amazon-hero.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/essentials/the-best-coffee-and-espresso-makers-on-amazon/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/the-best-coffee-and-espresso-makers-on-amazon/",
+      "publishedDateTime": "2023-04-20T19:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-21-google-merges-deepmind-brain-research-units-as-ai-race-intensifies.md",
+      "title": "Google merges DeepMind, Brain research units as AI race intensifies",
+      "excerpt": "Alphabet's Google has consolidated its artificial intelligence research groups into one unit, the company's latest move to keep from falling behind in the AI race.",
+      "sourceUrl": null,
+      "webUrl": "https://www.spokesman.com/stories/2023/apr/20/google-merges-deepmind-brain-research-units-as-ai-/",
+      "originalUrl": "https://www.spokesman.com/stories/2023/apr/20/google-merges-deepmind-brain-research-units-as-ai-/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumb.spokesman.com/t_depzN6zkvzsRU5yQuxuPPRMZI=/1200x630/smart/media.spokesman.com/photos/2023/04/20/6441c3f85adda.hires.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-20T17:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Spokesman-Review",
+        "domain": "spokesman.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-21-artificial-intelligence-examples-of-ethical-dilemmas.md",
+      "title": "Artificial Intelligence: examples of ethical dilemmas",
+      "excerpt": "To not replicate stereotypical representations of women in the digital realm, UNESCO addresses gender bias in AI in the UNESCO Recommendation on the Ethics of Artificial Intelligence, the very first global standard-setting instrument on the subject.",
+      "sourceUrl": null,
+      "webUrl": "https://www.unesco.org/en/artificial-intelligence/recommendation-ethics/cases",
+      "originalUrl": "https://www.unesco.org/en/artificial-intelligence/recommendation-ethics/cases",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.unesco.org/sites/default/files/styles/banner_mobile/public/2022-03/shutterstock_1803136597.jpeg?h=a4246cac&itok=-x8_-N4C",
+          "width": 400,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-20T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UNESCO",
+        "domain": "unesco.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-04-21-python-developer-computer-vision-machine-learning.md",
+      "title": "Python Developer – Computer Vision / Machine Learning",
+      "excerpt": "Vacancy available in the heart of Cape Town’s genteel Southern Suburb, for a full-time Python Developer with experience in Computer Vision and Machine Learning to join our client’s engineering team to help bring innovative products to the market.",
+      "sourceUrl": null,
+      "webUrl": "https://it-online.co.za/2023/04/21/python-developer-computer-vision-machine-learning/",
+      "originalUrl": "https://it-online.co.za/2023/04/21/python-developer-computer-vision-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-20T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT-Online",
+        "domain": "it-online.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-04-21-cxl-for-accelerated-ai-workloads.md",
+      "title": "CXL For Accelerated AI Workloads",
+      "excerpt": "This article will focus on two recent product announcements using CXL for accelerated artificial intelligence (AI) workloads. These include the TrainingCXL PCIe device from Korean-bawsed Panmesia and a high-performance CXL switch chip from Enfabrica that ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tomcoughlin/2023/04/20/cxl-for-accelerated-ai-workloads/",
+      "originalUrl": "https://www.forbes.com/sites/tomcoughlin/2023/04/20/cxl-for-accelerated-ai-workloads/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6441c2efe474ff3fce23907c/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tomcoughlin/2023/04/20/cxl-for-accelerated-ai-workloads/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomcoughlin/2023/04/20/cxl-for-accelerated-ai-workloads/amp/",
+      "publishedDateTime": "2023-04-20T16:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-21-how-prompt-injection-can-hijack-autonomous-ai-agents-like-auto-gpt.md",
+      "title": "How prompt injection can hijack autonomous AI agents like Auto-GPT",
+      "excerpt": "Attackers can link GPT-4 and other large language models to AI agents like Auto-GPT to conduct automated prompt injection attacks.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/security/how-prompt-injection-can-hijack-autonomous-ai-agents-like-auto-gpt/",
+      "originalUrl": "https://venturebeat.com/security/how-prompt-injection-can-hijack-autonomous-ai-agents-like-auto-gpt/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/04/VB_security_ai_breach_broken_bing_dalle_1200x800_042023.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/security/how-prompt-injection-can-hijack-autonomous-ai-agents-like-auto-gpt/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/security/how-prompt-injection-can-hijack-autonomous-ai-agents-like-auto-gpt/amp/",
+      "publishedDateTime": "2023-04-20T16:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-21-googlers-say-bard-ai-is-worse-than-useless-ethics-concerns-were-ignored.md",
+      "title": "Googlers say Bard AI is “worse than useless,” ethics concerns were ignored",
+      "excerpt": "From the outside, Google Bard looks like a rushed product to try to compete with ChatGPT, and some Google employees share those sentiments. A new report from Bloomberg interviews 18 current and former workers and came away with a pile of damning commentary and concerns about AI ethics teams that were \"disempowered and demoralized\" so Google could get Bard out the door.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/gadgets/2023/04/googlers-say-bard-ai-is-worse-than-useless-ethics-concerns-were-ignored/",
+      "originalUrl": "https://arstechnica.com/gadgets/2023/04/googlers-say-bard-ai-is-worse-than-useless-ethics-concerns-were-ignored/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2017/05/google-800x523.jpg",
+          "width": 760,
+          "height": 388,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/gadgets/2023/04/googlers-say-bard-ai-is-worse-than-useless-ethics-concerns-were-ignored/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/gadgets/2023/04/googlers-say-bard-ai-is-worse-than-useless-ethics-concerns-were-ignored/amp/",
+      "publishedDateTime": "2023-04-20T14:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-21-musk-counts-on-full-self-driving-as-next-tesla-profit-driver.md",
+      "title": "Musk counts on full self-driving as next Tesla profit driver",
+      "excerpt": "Elon Musk is counting on full-self driving and other new technologies and vehicles at Tesla Inc to provide the \"wow factor\" that will continue to drive the electric carmaker's value far beyond its automotive rivals.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/business/autos-transportation/elon-musk-pins-hopes-full-self-driving-teslas-next-profit-driver-2023-04-20/",
+      "originalUrl": "https://www.reuters.com/business/autos-transportation/elon-musk-pins-hopes-full-self-driving-teslas-next-profit-driver-2023-04-20/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/YcLD5fOES_sah71H1pVHfpyp58k=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WWQOUJAWSZJC7ISK6ZUWNWL2VI.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-20T13:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-21-ai-ml-digital-twins-and-computer-vision-whats-really-driving-digital-strategy-experts.md",
       "title": "AI, ML, Digital Twins and Computer Vision — What's Really Driving Digital Strategy? | Experts",
       "excerpt": "Business leaders for the last few years have rushed to deploy the latest technology to better meet fluid customer demand. Many are now taking a closer look and realizing the need for unification of systems or platforms to drive real growth.",
@@ -723,450 +1148,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-20-whats-agi-and-why-are-ai-experts-skeptical.md",
-      "title": "What’s AGI, and Why Are AI Experts Skeptical?",
-      "excerpt": "Advanced robots are far from capable of interacting ... that birthed ChatGPT is played out and future strides in artificial intelligence will require new ideas. WIRED is where tomorrow is realized.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/what-is-artificial-general-intelligence-agi-explained/",
-      "originalUrl": "https://www.wired.com/story/what-is-artificial-general-intelligence-agi-explained/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/644051ca78b1686b7e2ea1bf/191:100/w_1280,c_limit/Scientists-Are-Sketpical-Of-AGI-Business-499295092.jpg",
-          "width": 1280,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/what-is-artificial-general-intelligence-agi-explained/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/what-is-artificial-general-intelligence-agi-explained/amp",
-      "publishedDateTime": "2023-04-20T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-20-drones-navigate-unseen-environments-with-liquid-neural-networks.md",
-      "title": "Drones Navigate Unseen Environments With Liquid Neural Networks",
-      "excerpt": "guided by liquid neural networks to navigate ever-changing and unseen environments with precision and ease. Inspired by the adaptable nature of organic brains, researchers from MIT’s Computer Science and Artificial Intelligence Laboratory (CSAIL ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologynetworks.com/informatics/news/drones-navigate-unseen-environments-with-liquid-neural-networks-372383",
-      "originalUrl": "https://www.technologynetworks.com/informatics/news/drones-navigate-unseen-environments-with-liquid-neural-networks-372383",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.technologynetworks.com/production/dynamic/images/content/372383/drones-navigate-unseen-environments-with-liquid-neural-networks-372383-640x360.jpg?cb=20230420",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-20T03:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "technologynetworks",
-        "domain": "technologynetworks.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-20-driverless-tractors-market-is-touching-new-levels-a-comprehensive-study-segmented-agco-kubota-trimble.md",
-      "title": "Driverless Tractors Market Is Touching New Levels A Comprehensive Study Segmented: AGCO, Kubota, Trimble",
-      "excerpt": "The Latest Released Driverless Tractors Market Research ... These tractors use advanced technologies such as sensors, GPS, and artificial intelligence to navigate fields, plow, sow, fertilize ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1106053706/Driverless-Tractors-Market-Is-Touching-New-Levels-A-Comprehensive-Study-Segmented-AGCO-Kubota-Trimble",
-      "originalUrl": "https://menafn.com/1106053706/Driverless-Tractors-Market-Is-Touching-New-Levels-A-Comprehensive-Study-Segmented-AGCO-Kubota-Trimble",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/updates/pr/2023-04/20/EP_e146bimage_story.png",
-          "width": 600,
-          "height": 314,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-20T03:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mena FN",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-20-how-amazon-has-reorganized-around-artificial-intelligence-and-machine-learning.md",
-      "title": "How Amazon Has Reorganized Around Artificial Intelligence And Machine Learning",
-      "excerpt": "I am a Customer Experience Futurist, Author and Keynote Speaker. In honor of Amazon Prime Day, let’s take a look at the inner workings of this company that is pushing the bounds of innovation ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/blakemorgan/2018/07/16/how-amazon-has-re-organized-around-artificial-intelligence-and-machine-learning/",
-      "originalUrl": "https://www.forbes.com/sites/blakemorgan/2018/07/16/how-amazon-has-re-organized-around-artificial-intelligence-and-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/dam/imageserve/80be61df19f54b8e87e96066748b9882/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 870,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-20T02:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-04-20-a-remarkable-learning-journey-leads-to-asia-for-the-post-gpt-mba.md",
-      "title": "A Remarkable Learning Journey Leads To Asia For The Post-GPT MBA",
-      "excerpt": "Sanjay Sarma, the incoming President, CEO and Dean of Asia School of Business (ASB), based in Kuala Lumpur has what he describes as an unconventional background - professor, businessman, author, father.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/mattsymonds/2023/04/20/a-remarkable-learning-journey-leads-to-asia-for-the-post-gpt-mba/",
-      "originalUrl": "https://www.forbes.com/sites/mattsymonds/2023/04/20/a-remarkable-learning-journey-leads-to-asia-for-the-post-gpt-mba/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6441039958b48aa218bffcf4/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 878,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/mattsymonds/2023/04/20/a-remarkable-learning-journey-leads-to-asia-for-the-post-gpt-mba/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mattsymonds/2023/04/20/a-remarkable-learning-journey-leads-to-asia-for-the-post-gpt-mba/amp/",
-      "publishedDateTime": "2023-04-20T02:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-20-is-deep-learning-a-necessary-ingredient-for-artificial-intelligence.md",
-      "title": "Is deep learning a necessary ingredient for artificial intelligence?",
-      "excerpt": "The earliest artificial neural network, the Perceptron, was introduced approximately 65 years ago and consisted of just one layer. However, to address solutions for more complex classification tasks,",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2023-04-deep-ingredient-artificial-intelligence.html",
-      "originalUrl": "https://techxplore.com/news/2023-04-deep-ingredient-artificial-intelligence.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/is-deep-learning-a-nec.jpg",
-          "width": 2880,
-          "height": 1716,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2023-04-deep-ingredient-artificial-intelligence.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-04-deep-ingredient-artificial-intelligence.amp",
-      "publishedDateTime": "2023-04-20T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-04-20-artificial-intelligence-signs-of-acceleration-in-2023.md",
-      "title": "Artificial Intelligence: Signs of Acceleration in 2023",
-      "excerpt": "One final investment area that I’ll mention, that’s core to setting Amazon up to invent in every area of our business for many decades to come,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/artificial-intelligence-signs-of-acceleration-in-2023-1032247068",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/artificial-intelligence-signs-of-acceleration-in-2023-1032247068",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.wisdomtree.com/investments/-/media/us-media-files/blog/blog-images-2/2023/april/artificial-intelligence-signs-of-acceleration-in-2023/figure-1.jpg",
-          "width": 768,
-          "height": 462,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-20T01:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-04-20-data-explorer-processes-unlabeled-visual-data-boosting-creation-of-production-ready-ai-models.md",
-      "title": "Data Explorer processes unlabeled visual data, boosting creation of production-ready AI models",
-      "excerpt": "Akridata has launched Data Explorer for processing visual data, allowing data science teams to improve datasets and AI model training.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/data-explorer-processes-unlabeled-visual-data-boosting-creation-of-production-ready-ai-models/",
-      "originalUrl": "https://venturebeat.com/ai/data-explorer-processes-unlabeled-visual-data-boosting-creation-of-production-ready-ai-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/04/VB_akridata-logo_041923.jpg?w=1200&strip=all",
-          "width": 1117,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/data-explorer-processes-unlabeled-visual-data-boosting-creation-of-production-ready-ai-models/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/data-explorer-processes-unlabeled-visual-data-boosting-creation-of-production-ready-ai-models/amp/",
-      "publishedDateTime": "2023-04-20T00:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-20-aws-matterport-partnership-enhances-digital-twins-with-joint-dashboard.md",
-      "title": "AWS, Matterport partnership enhances digital twins with joint dashboard",
-      "excerpt": "New integrations expand on Matterport spatial data service for AWS IoT TwinMaker. Image: Funtap/Adobe Stock Organizations using Matterport for spatial data can now view it on the same dashboard as AWS IoT TwinMaker data with a new integration.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/matterport-aws-iot-twin-maker-dashboard/",
-      "originalUrl": "https://www.techrepublic.com/article/matterport-aws-iot-twin-maker-dashboard/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/wp-content/uploads/2023/04/tr41923-internetofthings.jpeg",
-          "width": 1400,
-          "height": 1044,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/article/matterport-aws-iot-twin-maker-dashboard/amp/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/matterport-aws-iot-twin-maker-dashboard/amp/",
-      "publishedDateTime": "2023-04-19T23:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

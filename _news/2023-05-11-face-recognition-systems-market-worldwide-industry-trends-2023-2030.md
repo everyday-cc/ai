@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence Delivery Robot Market Detect New Industry Opportumities 2023-2030"
+    excerpt: "Global Artificial Intelligence Delivery Robot Market report provides valuable insights on the global market for the"
+    publishedDateTime: 2023-05-10T09:40:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-delivery-robot-market-detect-new-industry-opportumities-2023-2030-2023-05-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 75
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Deep Learning in CT Scanners Market Analysis of New Report 2023-2030"
     excerpt: "A Promising Outlook for the Global Deep Learning in CT Scanners Market from 2023 to 2030 Why is Deep Learning in CT Scanners market 2023 Important? - Overall, the Deep Learning in CT Scanners market in 2023 is essential for businesses to understand the market landscape,"
     publishedDateTime: 2023-05-10T16:21:00Z
