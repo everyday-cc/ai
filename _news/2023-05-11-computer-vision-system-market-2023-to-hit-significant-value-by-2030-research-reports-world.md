@@ -85,6 +85,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence in Insurance Market | 2030"
+    excerpt: "Research Reports has published a new report titled as \" Artificial Intelligence in Insurance Market \" by End User ( Chatbots and Virtual Assistants, Fraud Detection, Customer Relationship Management,"
+    publishedDateTime: 2023-05-15T00:04:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-insurance-market-2030-2023-05-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 67
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "The Prospects of Image Recognition in Retail Market 2023: Industry Trends and Challenges till 2030"
     excerpt: "A recent study report named \" Image Recognition in Retail Market \" offers a thorough analysis of the market's development potential, potential for revenue generation, and current trends through 2028."
     publishedDateTime: 2023-05-11T08:51:00Z

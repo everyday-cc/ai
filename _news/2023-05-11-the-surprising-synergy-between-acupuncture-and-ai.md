@@ -7,8 +7,8 @@ originalUrl: "https://www.wired.com/story/machine-learning-chinese-medicine-acup
 webUrl: "https://www.wired.com/story/machine-learning-chinese-medicine-acupuncture-study-design/"
 type: article
 quality: 69
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Wired
@@ -27,6 +27,17 @@ images:
     width: 1280
     height: 670
     isCached: true
+
+related:
+  - title: "Generative AI’s future in the enterprise: To infinity and beyond"
+    excerpt: "Breathtaking generative AI models and applications like OpenAI’s GPT3 and ChatGPT are unleashing new possibilities across enterprises everywhere. But while wicked smart, they’re still learning and evolving — and causing an existential stir."
+    publishedDateTime: 2023-05-15T14:00:00Z
+    webUrl: "https://www.fastcompany.com/90896021/generative-ais-future-in-the-enterprise-to-infinity-and-beyond"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 17
 
 secured: "mHSaKNHil/TsGbyqnXoWDEuhucaF66lFoGk1aE2qlaTODPxYgxTSrbzSvRGR3u39rGHkvKQ3YssgxIvWeQCRl2LgdPoo5DhPEdRKeCib54rV+uGWkAOk+Oxr/jyFKf+aveLh38zx0hV9BspXceOe3oLOgSAyB8WrB2wRpFtpyvB3v0w3bfXmovkh4GoGwEYpomdTwGlkusmQvg1pcy0/Rik61H7mNWJKHCfrPdvxlGUcoECsRCsxzM4D7oVjb6quRW8L/liUdu/ZLw25mktwZdmJz6I+q1OGyb0BT4hpKW1m3QmYRqb3bqzhNhA5Cj5zI7ijeV3LTyGhZe+yVC/KtHJjzBznbmGRr9TB5Jocl2HK2pfEhHxk2wCkKSydu4ro72MABgjaq/jVfEEixoGnd/BqgAZCfYyrZXFyaOw4xbpIExY58IRVuIkupRet9wN7klTXNjevqjCBJMOCT8Fe8bbFBu41eD1O5j5dVJotZet14+rLUJYng/0XFLOvTbIzessafX1g1kd0WTmW43weZQ==;yB6crvZ5ORGh0Lawgc/HAQ=="
 ---

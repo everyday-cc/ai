@@ -24,6 +24,17 @@ images:
     height: 400
     isCached: true
 
+related:
+  - title: "Transformative impact of AI and quantum sets the tone for IBM Think"
+    excerpt: "In IBM Corp.’s view of the world, the tech industry is coming to a place where the intersection of cloud, artificial intelligence and quantum computing will trigger a significant transformation. “It’s a massive moment of technological advancement,"
+    publishedDateTime: 2023-05-11T19:47:00Z
+    webUrl: "https://siliconangle.com/2023/05/11/transformative-impact-ai-quantum-sets-tone-ibm-think/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 17
+
 secured: "uGxpwISpZ4vds9n64H2YJbq8sczY2H8rNYua2ytM0nILEEvfnnN33UVYEmX428io9CtldhnQDfUv0Ngel2egN8cbutQUU8ivsXX+8YTVXwOsHi2UIPlrH30WndSQu+Ym9uuWSDDENZfYgL6BsYoopusD58gKaiUY2iPbeyCQU/9AN+aGzGu0rtlzNg0KSmEn/ekKQb+XTK6Q9gdiAyaJKpdWMsH+HutOmporxAFLJhEaN4vXo/yxy+ADr2udKNGZDMfc25n3/uoRTjmzEu41Y/eH2Buw3hWOCMqvWSmpn3IzguSh3B4D+pz4ychZqzWomJAB3kmu8BKVEGmL42W6yLYkNiCKp6cTsQ8yFlqFzco=;Lcpem50jsjIEY55FYlbM0A=="
 ---
 

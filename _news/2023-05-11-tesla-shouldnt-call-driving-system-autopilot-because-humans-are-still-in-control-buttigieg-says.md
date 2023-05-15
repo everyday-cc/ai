@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/tesla-call-driving-system-au
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/tesla-call-driving-system-autopilot-humans-control-buttigieg-99255442"
 type: article
 quality: 46
-heat: -1
+heat: 46
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla shouldn't call its self-driving system Autopilot: US Transport Secretary"
-    excerpt: "The National Highway Traffic Safety Administration has probed more than 30 crashes since 2016 in which Tesla EVs were suspected of operating on Autopilot or its more sophisticated automated Full Self-Driving system."
-    publishedDateTime: 2023-05-12T03:16:00Z
-    webUrl: "https://auto.hindustantimes.com/auto/electric-vehicles/tesla-shouldnt-call-its-self-driving-system-autopilot-us-transport-secretary-41683861027992.html"
-    ampWebUrl: "https://auto.hindustantimes.com/auto/electric-vehicles/tesla-shouldnt-call-its-self-driving-system-autopilot-us-transport-secretary/amp-41683861027992.html"
-    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/electric-vehicles/tesla-shouldnt-call-its-self-driving-system-autopilot-us-transport-secretary/amp-41683861027992.html"
-    type: article
-    provider:
-      name: Auto News India
-      domain: hindustantimes.com
-    quality: 55
-    images:
-      - url: "https://images.hindustantimes.com/auto/img/2023/05/12/1600x900/Tesla_Autopilot_1667300797258_1683861371582.JPG"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Tesla shouldn’t call driving system Autopilot because humans are still in control, Buttigieg says"
     excerpt: "WASHINGTON — Tesla shouldn’t be calling its partially automated driving system Autopilot because the cars can’t drive themselves, the top U.S. transportation official says. Transportation Secretary Pete Buttigieg says he’s concerned about Tesla’s marketing of the system,"
     publishedDateTime: 2023-05-12T02:53:00Z

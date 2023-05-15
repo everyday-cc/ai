@@ -24,6 +24,36 @@ images:
     isCached: true
 
 related:
+  - title: "Unlock productivity with advanced generative AI"
+    excerpt: "Learn how we are unlocking new levels of productivity by introducing advanced generative AI into Watson Assistant use cases.\nThe post Unlock productivity with advanced generative AI appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-05-15T16:44:03Z
+    webUrl: "https://www.ibm.com/blog/unlock-productivity-with-advanced-generative-ai/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 119
+    images:
+      - url: "https://www.ibm.com/blog/wp-content/uploads/2023/05/watson-assistant-ai-for-customer-service-create.Original.jpg"
+        width: 1217
+        height: 685
+        isCached: true
+  - title: "WorkHack Targets Big Businesses As They Fumble With Generative AI"
+    excerpt: "WorkHack’s platform is aimed at large enterprises that are keen to develop new use cases for generative AI but nervous about how to do so safely and effectively. “We want to help them use this technology responsibly and thoughtfully,” explains Akshat Tyagi, the founder of the company."
+    publishedDateTime: 2023-05-15T06:30:00Z
+    webUrl: "https://www.forbes.com/sites/davidprosser/2023/05/15/workhack-targets-big-businesses-as-they-fumble-with-generative-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/davidprosser/2023/05/15/workhack-targets-big-businesses-as-they-fumble-with-generative-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidprosser/2023/05/15/workhack-targets-big-businesses-as-they-fumble-with-generative-ai/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/645e4c3f71fe50b2fd1853c6/0x0.jpg?format=jpg&crop=1284,723,x435,y153,safe&width=1200"
+        width: 1200
+        height: 676
+        isCached: true
   - title: "What enterprises need to know about adopting generative AI"
     excerpt: "Enterprises that embrace and master generative AI will gain a competitive edge and create new opportunities for growth and innovation."
     publishedDateTime: 2023-05-14T23:11:00Z
@@ -40,21 +70,35 @@ related:
         width: 1200
         height: 655
         isCached: true
-  - title: "17 AI and machine learning terms everyone needs to know"
-    excerpt: "With the ongoing Artificial Intelligence boom, it is very important to understand the terminology in use. Here are 17 AI and machine learning terms everyone needs to know."
-    publishedDateTime: 2023-05-14T10:25:00Z
-    webUrl: "https://www.indiatoday.in/education-today/grammar-vocabulary/story/17-ai-and-machine-learning-terms-everyone-needs-to-know-2379081-2023-05-14"
-    ampWebUrl: "https://www.indiatoday.in/amp/education-today/grammar-vocabulary/story/17-ai-and-machine-learning-terms-everyone-needs-to-know-2379081-2023-05-14"
-    cdnAmpWebUrl: "https://www-indiatoday-in.cdn.ampproject.org/c/s/www.indiatoday.in/amp/education-today/grammar-vocabulary/story/17-ai-and-machine-learning-terms-everyone-needs-to-know-2379081-2023-05-14"
+  - title: "The Boring Future of Generative AI"
+    excerpt: "ChatGPT’s chaotic streak can be charming. Google’s new chat-style search shows text-generation technology is headed in a much tamer direction."
+    publishedDateTime: 2023-05-11T16:00:00Z
+    webUrl: "https://www.wired.com/story/the-boring-future-of-generative-ai/"
     type: article
     provider:
-      name: India Today
-      domain: indiatoday.in
-    quality: 74
+      name: Wired
+      domain: wired.com
+    quality: 67
     images:
-      - url: "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202305/stockvault-digital-transformation-concept-virtual-hand-creating-network257818-sixteen_nine.jpg?VersionId=7bt_uMPGpWUZCkf7KELZEIZRX4kjQnWt"
+      - url: "https://media.wired.com/photos/645c399a7b25a434b1f3bd06/191:100/w_1280,c_limit/Google-IO-2023-Fast%20Forward-Sundar-IO-2023-23_0943.jpg"
+        width: 1280
+        height: 670
+        isCached: true
+  - title: "Prepare for generative AI with experimentation and clear guidelines"
+    excerpt: "Figure out your most probable use cases and get the tech into users’ hands, with guardrails. Expect to adapt your business processes as the technology matures."
+    publishedDateTime: 2023-05-15T07:01:00Z
+    webUrl: "https://www.computerworld.com/article/3695572/prepare-for-generative-ai-with-experimentation-and-clear-guidelines.html"
+    ampWebUrl: "https://www.computerworld.com/article/3695572/prepare-for-generative-ai-with-experimentation-and-clear-guidelines.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3695572/prepare-for-generative-ai-with-experimentation-and-clear-guidelines.amp.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 59
+    images:
+      - url: "https://images.idgesg.net/images/article/2023/05/chatbot-generative-ai-by-the-kong-via-shutterstock-100940897-large.jpg?auto=webp&quality=85,70"
         width: 1200
-        height: 675
+        height: 800
         isCached: true
   - title: "7 ways generative AI is being used in healthcare"
     excerpt: "Generative artificial intelligence is already being used in the healthcare industry to help lower costs and improve efficiency."
@@ -70,15 +114,88 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "G7 education ministers stress on mitigating risks related to generative artificial intelligence"
-    excerpt: "G7 Education Ministers agreed on the importance of continued understanding related to issues stemming from the fast-developing technology that has caught the attention of the public since the launch of ChatGPT by US firm OpenAI in November 2022."
-    publishedDateTime: 2023-05-14T17:56:00Z
-    webUrl: "https://www.devdiscourse.com/article/international/2451614-g7-education-ministers-stress-on-mitigating-risks-related-to-generative-artificial-intelligence"
+  - title: "DDN Empowers Breakthroughs in Generative AI with Unprecedented Sales Growth"
+    excerpt: "DDN, the global leader in artificial intelligence (AI) and multi-cloud data management solutions, today announced that"
+    publishedDateTime: 2023-05-11T20:06:00Z
+    webUrl: "https://www.datanami.com/this-just-in/ddn-empowers-breakthroughs-in-generative-ai-with-unprecedented-sales-growth/"
     type: article
     provider:
-      name: devdiscourse
-      domain: devdiscourse.com
-    quality: 22
+      name: datanami.com
+      domain: datanami.com
+    quality: 54
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2020/06/DDN-Logo-Portrait-RGB-1-300x300-1-300x300.png"
+        width: 300
+        height: 300
+        isCached: true
+  - title: "Meta Joins Generative AI Race, Will Begin Testing AI-Powered Ads Tools to Create Content"
+    excerpt: "A select group of advertisers will be invited to experiment with the tools in a \"testing playground\" that Meta is calling the AI Sandbox."
+    publishedDateTime: 2023-05-12T06:49:00Z
+    webUrl: "https://www.gadgets360.com/internet/news/facebook-meta-announces-generative-ai-ads-tool-testing-artificial-intelligence-4027738"
+    ampWebUrl: "https://www.gadgets360.com/internet/news/facebook-meta-announces-generative-ai-ads-tool-testing-artificial-intelligence-4027738/amp"
+    cdnAmpWebUrl: "https://www-gadgets360-com.cdn.ampproject.org/c/s/www.gadgets360.com/internet/news/facebook-meta-announces-generative-ai-ads-tool-testing-artificial-intelligence-4027738/amp"
+    type: article
+    provider:
+      name: gadgets360
+      domain: gadgets360.com
+    quality: 48
+    images:
+      - url: "https://i.gadgets360cdn.com/large/meta_image_reuters_1654769238524.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Google to revamp search with generative AI tools, but gradually"
+    excerpt: "The approach insulates Google from some of the ethical concerns surrounding generative AI. Read more at straitstimes.com."
+    publishedDateTime: 2023-05-11T01:52:00Z
+    webUrl: "https://www.straitstimes.com/world/united-states/google-to-revamp-search-with-generative-ai-tools-but-gradually"
+    type: article
+    provider:
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 39
+    images:
+      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2023/05/11/GOOGLEAI7.JPG?VersionId=reNH981AG40mKLjaJ4zZiHurml9tao66"
+        width: 860
+        height: 573
+        isCached: true
+  - title: "How AI ethics is coming to the fore with generative AI"
+    excerpt: "The hype around ChatGPT and other large language models is driving more interest in AI and putting ethical considerations surrounding their use to the fore"
+    publishedDateTime: 2023-05-15T07:44:00Z
+    webUrl: "https://www.computerweekly.com/feature/How-AI-ethics-is-coming-to-the-fore-with-generative-AI"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 34
+  - title: "First real-world study showed generative AI boosted worker productivity by 14%"
+    excerpt: "AI is transforming the way we work. But it's still too early to tell the full ramifications of this revolution."
+    publishedDateTime: 2023-05-12T13:01:00Z
+    webUrl: "https://www.seattletimes.com/explore/careers/first-real-world-study-showed-generative-ai-boosted-worker-productivity-by-14/"
+    ampWebUrl: "https://www.seattletimes.com/explore/careers/first-real-world-study-showed-generative-ai-boosted-worker-productivity-by-14/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/explore/careers/first-real-world-study-showed-generative-ai-boosted-worker-productivity-by-14/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 33
+  - title: "The creative use of generative AI in post-production"
+    excerpt: "Graham McGuinness at Jigsaw24 Media explains how AI is already helping post-production with creating technical grades and post-producing scripted content"
+    publishedDateTime: 2023-05-12T12:08:00Z
+    webUrl: "https://www.broadcastnow.co.uk/tech/the-creative-use-of-generative-ai-in-post-production/5181926.article"
+    type: article
+    provider:
+      name: Broadcast
+      domain: broadcastnow.co.uk
+    quality: 19
+  - title: "The likely winners of the generative AI gold rush"
+    excerpt: "Small, specialist models that are cheap to train and fast to run may win out over the broader Big Tech offerings"
+    publishedDateTime: 2023-05-11T13:10:00Z
+    webUrl: "https://www.ft.com/content/0cbe91ec-0971-4ba6-bdf1-87855aedd34c"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 17
   - title: "Educational Psychology Meets Generative AI"
     excerpt: "Post by Dr. Andrew J. Martin, School of Education, University of New South Wales, Australia"
     publishedDateTime: 2023-05-11T18:35:00Z
@@ -87,15 +204,6 @@ related:
     provider:
       name: Psychology Today
       domain: psychologytoday.com
-    quality: 17
-  - title: "Generative AI’s future in the enterprise: To infinity and beyond"
-    excerpt: "Breathtaking generative AI models and applications like OpenAI’s GPT3 and ChatGPT are unleashing new possibilities across enterprises everywhere. But while wicked smart, they’re still learning and evolving — and causing an existential stir."
-    publishedDateTime: 2023-05-15T14:00:00Z
-    webUrl: "https://www.fastcompany.com/90896021/generative-ais-future-in-the-enterprise-to-infinity-and-beyond"
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
     quality: 17
 
 secured: "ksi1UWfyM1pUII1FDXQJP6qwMaSqfDw9VoPM/zI5pX5QkfPQW8NCXbIBRU6n0yG71fVgT3D0FiPW0Ac9V2oZ9oPi/eMLLQx7aIDyM5ZAA6sv1AFPtP82/nGmuNaU4F1jwLfGQMj4+rQB2G7wPUUvAjR7/woE9NeOL8wJ0KYHMk11P9RXDQ9KEKLnTcEGH81fNk5ZsMV8d/iJKeVzndCz1LRoaiCHICnVKtsfw8+DKtR2tsa6AxUEcyQ/01WAmsSkC8JE1NOWnm8JRIE7jZSNbIstPBAzpw8CIlvKePC3di58tuZGHZNMD44Uu4gId+/bx0k1UpyGf5Zso1qWsxd/vNEHdh2i5/hkAQ0n8nvH3PuPqR/jkKU/wC7R7LcIFNBkvvs+E6AGI1BfLYqI1sXFQFhdq5HEdEOdsX3fSYa5tUOJKOVPeQ733Cue5p2qRDuqxXkzFUxFm+UPCVdYxcKAnIBMvyRDuP9XS8lXAqbaS6dnvXrUDSKnRPXxLhOd2Y4yhz69yhdD+ne4nnPyVy0bDQ==;A5Hqf4dujBJlDnms+Y7YhA=="

@@ -25,31 +25,22 @@ images:
     isCached: true
 
 related:
-  - title: "Google is transforming the cloud with AI — for both developers and regular users"
-    excerpt: "Google is integrating generative AI into its cloud via a new interface, Duet AI, that helps make cloud developers and users more productive."
-    publishedDateTime: 2023-05-10T23:05:00Z
-    webUrl: "https://venturebeat.com/ai/google-is-transforming-the-cloud-with-ai-for-both-developers-and-regular-users/"
-    ampWebUrl: "https://venturebeat.com/ai/google-is-transforming-the-cloud-with-ai-for-both-developers-and-regular-users/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/google-is-transforming-the-cloud-with-ai-for-both-developers-and-regular-users/amp/"
+  - title: "Law firms are experimenting with artificial intelligence tools"
+    excerpt: "Big law firms, known for their grueling hours and workloads, are experimenting with artificial intelligence tools that can handle the drudgery typically delegated to entry-level lawyers and simplify complex work that bogs down even top firm leaders,"
+    publishedDateTime: 2023-05-12T14:49:00Z
+    webUrl: "https://www.businessreport.com/business/law-firms-are-experimenting-with-artificial-intelligence-tools"
+    ampWebUrl: "https://www.businessreport.com/business/law-firms-are-experimenting-with-artificial-intelligence-tools?amp=1"
+    cdnAmpWebUrl: "https://www-businessreport-com.cdn.ampproject.org/c/s/www.businessreport.com/business/law-firms-are-experimenting-with-artificial-intelligence-tools?amp=1"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 82
+      name: Baton Rouge Business Report
+      domain: businessreport.com
+    quality: 59
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/05/Duet1-e1683757951578.jpg?w=1200&strip=all"
-        width: 1200
-        height: 905
+      - url: "https://s25562.pcdn.co/wp-content/uploads/2019/12/lawsuit-court-law.png"
+        width: 1734
+        height: 1122
         isCached: true
-  - title: "Transformative impact of AI and quantum sets the tone for IBM Think"
-    excerpt: "In IBM Corp.’s view of the world, the tech industry is coming to a place where the intersection of cloud, artificial intelligence and quantum computing will trigger a significant transformation. “It’s a massive moment of technological advancement,"
-    publishedDateTime: 2023-05-11T19:47:00Z
-    webUrl: "https://siliconangle.com/2023/05/11/transformative-impact-ai-quantum-sets-tone-ibm-think/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 17
 
 secured: "B2K+Q9V/7ky6B8838tiZ+k1Kmx2bgPEIhEjyHIJOti8ql/Yc8tTVG5po9jHga43AIfWPtFwvuaJCvodFGF+JsDKRmVUDvslmQATIm2UMjiE1FpFuZ1TNyMdahn2S9sbgLCZAIvRkcORRkSi4kM7P6LmTG+O114qp5s8xigxlko2ltNiFYlx8Lf4ET9tznjujMRAuo/ZR6HqNIk+1pFxtMSPoYKXmE5lFN1Ev1+zTvJARE5dv/5W2jKGuWBx+BavzKuKsQtmzU0lIZp+r2DSgTNZ/QUTWVVplEg6FibzITFx3TMn4HMOa3wYx3Msf2DRFkKn+/Lv7PldyN7sBwJ8bIRnYKpBu+0iSO2vF6ufz6JQ66okH+mw2kAs4KkQu5NBCrNzxuP82tV/cPlEOBJgMplvt8YNlGLwg93O/D06wBuskO4Vqa0byPtQZh+XiQJ8tJ+R2RspY3NdW/zxvJUbaLTavIWiQcYg6mCYdhqrHWxkb/LqfVsAjC1PBqgy4p6heJ1Im88v1NKCBV72D+/kCjg==;cs6bFPgullfwPlDTZF1fhQ=="
 ---

@@ -26,177 +26,109 @@ images:
     isCached: true
 
 related:
-  - title: "Google launches new AI tools"
-    excerpt: "As the race to dominate artificial intelligence escalates between tech giants, Google unveiled new AI software to build presentations, analyze and enter data, and write content. NBC News’ Jacob Ward has more details on growing concerns over the future of AI."
-    publishedDateTime: 2023-05-10T23:23:00Z
-    webUrl: "https://www.nbcnews.com/nightly-news/video/google-launches-new-ai-tools-173891653794"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo173891653794"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo173891653794"
+  - title: "Unlock productivity with advanced generative AI"
+    excerpt: "Learn how we are unlocking new levels of productivity by introducing advanced generative AI into Watson Assistant use cases.\nThe post Unlock productivity with advanced generative AI appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-05-15T16:44:03Z
+    webUrl: "https://www.ibm.com/blog/unlock-productivity-with-advanced-generative-ai/"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 87
+      name: IBM
+      domain: ibm.com
+    quality: 119
     images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_05/1683761014453_nn_jwa_googles_ai_launch_230510_1920x1080-r8qeop.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://www.ibm.com/blog/wp-content/uploads/2023/05/watson-assistant-ai-for-customer-service-create.Original.jpg"
+        width: 1217
+        height: 685
         isCached: true
-  - title: "How to Sign Up for Google's New AI-Driven Search Tools"
-    excerpt: "At Google I/O, the search giant's annual developer conference, artificial intelligence was the phrase on everybody's lips. Among the more notable announcements from the event yesterday was the news that Google is letting the public test out its latest generative AI experiments by signing up for Search Labs."
-    publishedDateTime: 2023-05-11T16:15:00Z
-    webUrl: "https://www.cnet.com/tech/computing/how-to-sign-up-for-googles-new-ai-driven-search-tools/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/how-to-sign-up-for-googles-new-ai-driven-search-tools/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/how-to-sign-up-for-googles-new-ai-driven-search-tools/"
+  - title: "WorkHack Targets Big Businesses As They Fumble With Generative AI"
+    excerpt: "WorkHack’s platform is aimed at large enterprises that are keen to develop new use cases for generative AI but nervous about how to do so safely and effectively. “We want to help them use this technology responsibly and thoughtfully,” explains Akshat Tyagi, the founder of the company."
+    publishedDateTime: 2023-05-15T06:30:00Z
+    webUrl: "https://www.forbes.com/sites/davidprosser/2023/05/15/workhack-targets-big-businesses-as-they-fumble-with-generative-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/davidprosser/2023/05/15/workhack-targets-big-businesses-as-they-fumble-with-generative-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidprosser/2023/05/15/workhack-targets-big-businesses-as-they-fumble-with-generative-ai/amp/"
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
-    quality: 87
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: "https://www.cnet.com/a/img/resize/45757153ae157d44b9bae8ae1e2ba6af86bac55a/hub/2023/05/11/3a878f9f-21cd-451b-ae9a-0d7ed8121e23/gettyimages-1230722138.jpg?auto=webp&fit=crop&height=630&width=1200"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/645e4c3f71fe50b2fd1853c6/0x0.jpg?format=jpg&crop=1284,723,x435,y153,safe&width=1200"
         width: 1200
-        height: 630
+        height: 676
         isCached: true
-  - title: "How to Sign Up for Google Search Labs And Access New AI-Driven Search Tools"
-    excerpt: "Among the more notable announcements from Google I/O, the search giant's annual developer conference, was the news that the public could now test out its new AI-driven search tools, which are being housed on Search Labs."
-    publishedDateTime: 2023-05-12T16:13:00Z
-    webUrl: "https://www.cnet.com/tech/computing/how-to-sign-up-for-google-search-labs-and-access-new-ai-driven-search-tools/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/how-to-sign-up-for-google-search-labs-and-access-new-ai-driven-search-tools/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/how-to-sign-up-for-google-search-labs-and-access-new-ai-driven-search-tools/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 85
-    images:
-      - url: "https://www.cnet.com/a/img/resize/45757153ae157d44b9bae8ae1e2ba6af86bac55a/hub/2023/05/11/3a878f9f-21cd-451b-ae9a-0d7ed8121e23/gettyimages-1230722138.jpg?auto=webp&fit=crop&height=630&width=1200"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "New Google search tool will distinguish real images from AI-generated phonies"
-    excerpt: "Rolling out in the coming months, the new 'About this Image' tool will help identify which images in a search are real and which are created by AI."
-    publishedDateTime: 2023-05-11T14:52:00Z
-    webUrl: "https://www.zdnet.com/article/new-google-search-tool-will-distinguish-real-images-from-ai-generated-phonies/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/new-google-search-tool-will-distinguish-real-images-from-ai-generated-phonies/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/new-google-search-tool-will-distinguish-real-images-from-ai-generated-phonies/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 84
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/e2abf1115d40e1fcee596f55c6be46a839a0d904/2023/05/11/1f3609ef-3fd4-45b9-9162-dc868eff6419/figure-top-new-google-search-tool-will-distinguish-real-images-from-ai-generated-phonies.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Google releases new generative AI products and features for Google Cloud and Vertex AI"
-    excerpt: "Google announced at its developer conference Google I/O 2023 new products and features that give customers access to new generative AI modalities and expanded ways to use and tune custom models."
-    publishedDateTime: 2023-05-11T01:06:00Z
-    webUrl: "https://venturebeat.com/ai/google-releases-new-generative-ai-products-and-features-for-google-cloud-and-vertex-ai/"
-    ampWebUrl: "https://venturebeat.com/ai/google-releases-new-generative-ai-products-and-features-for-google-cloud-and-vertex-ai/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/google-releases-new-generative-ai-products-and-features-for-google-cloud-and-vertex-ai/amp/"
+  - title: "What enterprises need to know about adopting generative AI"
+    excerpt: "Enterprises that embrace and master generative AI will gain a competitive edge and create new opportunities for growth and innovation."
+    publishedDateTime: 2023-05-14T23:11:00Z
+    webUrl: "https://venturebeat.com/ai/what-enterprises-need-to-know-about-adopting-generative-ai/"
+    ampWebUrl: "https://venturebeat.com/ai/what-enterprises-need-to-know-about-adopting-generative-ai/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/what-enterprises-need-to-know-about-adopting-generative-ai/amp/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 79
+    quality: 87
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/05/GenAI-Google.png?w=1200&strip=all"
+      - url: "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1133176856.jpg?w=1200&strip=all"
         width: 1200
-        height: 591
+        height: 655
         isCached: true
-  - title: "Cedars-Sinai Launches Center for Artificial Intelligence Research and Education"
-    excerpt: "The center’s efforts will focus on developing new AI and machine learning algorithms for personalized medicine, genomics, and other healthcare research."
-    publishedDateTime: 2023-05-11T17:30:00Z
-    webUrl: "https://healthitanalytics.com/news/cedars-sinai-launches-center-for-artificial-intelligence-research-and-education"
+  - title: "The Boring Future of Generative AI"
+    excerpt: "ChatGPT’s chaotic streak can be charming. Google’s new chat-style search shows text-generation technology is headed in a much tamer direction."
+    publishedDateTime: 2023-05-11T16:00:00Z
+    webUrl: "https://www.wired.com/story/the-boring-future-of-generative-ai/"
     type: article
     provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 69
-    images:
-      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/2022-03-14-GettyImages-1033717120.jpg"
-        width: 690
-        height: 400
-        isCached: true
-  - title: "Google Launching Tools to Identify Misleading and AI Images"
-    excerpt: "Google is adding two new features to its image search to reduce the spread of misinformation, especially now that artificial intelligence tools have made the creation of photorealistic fakes trivial."
-    publishedDateTime: 2023-05-15T05:42:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-05-15/google-launching-tools-to-identify-misleading-and-ai-images"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
+      name: Wired
+      domain: wired.com
     quality: 67
     images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/im1kpz2VrkVs/v0/1200x798.jpg"
-        width: 1200
-        height: 798
+      - url: "https://media.wired.com/photos/645c399a7b25a434b1f3bd06/191:100/w_1280,c_limit/Google-IO-2023-Fast%20Forward-Sundar-IO-2023-23_0943.jpg"
+        width: 1280
+        height: 670
         isCached: true
-  - title: "Larry Magid: Google unveils new devices while focusing on AI"
-    excerpt: "As I entered Shoreline Amphitheater on Wednesday, I thought I was attending Google IO – the company’s annual developers conference. But after listening to CEO Sundar Pichai and several other"
-    publishedDateTime: 2023-05-11T01:49:00Z
-    webUrl: "https://www.eastbaytimes.com/2023/05/10/larry-magid-google-unveils-new-devices-while-focusing-on-ai/"
-    ampWebUrl: "https://www.eastbaytimes.com/2023/05/10/larry-magid-google-unveils-new-devices-while-focusing-on-ai/amp/"
-    cdnAmpWebUrl: "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2023/05/10/larry-magid-google-unveils-new-devices-while-focusing-on-ai/amp/"
+  - title: "Prepare for generative AI with experimentation and clear guidelines"
+    excerpt: "Figure out your most probable use cases and get the tech into users’ hands, with guardrails. Expect to adapt your business processes as the technology matures."
+    publishedDateTime: 2023-05-15T07:01:00Z
+    webUrl: "https://www.computerworld.com/article/3695572/prepare-for-generative-ai-with-experimentation-and-clear-guidelines.html"
+    ampWebUrl: "https://www.computerworld.com/article/3695572/prepare-for-generative-ai-with-experimentation-and-clear-guidelines.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3695572/prepare-for-generative-ai-with-experimentation-and-clear-guidelines.amp.html"
     type: article
     provider:
-      name: East Bay Times
-      domain: eastbaytimes.com
+      name: Computerworld
+      domain: computerworld.com
     quality: 59
     images:
-      - url: "https://www.eastbaytimes.com/wp-content/uploads/2023/05/Larry-Headshot2-e1679598933929-3.jpg?w=1024&h=742"
-        width: 1024
-        height: 742
-        isCached: true
-  - title: "Law firms are experimenting with artificial intelligence tools"
-    excerpt: "Big law firms, known for their grueling hours and workloads, are experimenting with artificial intelligence tools that can handle the drudgery typically delegated to entry-level lawyers and simplify complex work that bogs down even top firm leaders,"
-    publishedDateTime: 2023-05-12T14:49:00Z
-    webUrl: "https://www.businessreport.com/business/law-firms-are-experimenting-with-artificial-intelligence-tools"
-    ampWebUrl: "https://www.businessreport.com/business/law-firms-are-experimenting-with-artificial-intelligence-tools?amp=1"
-    cdnAmpWebUrl: "https://www-businessreport-com.cdn.ampproject.org/c/s/www.businessreport.com/business/law-firms-are-experimenting-with-artificial-intelligence-tools?amp=1"
-    type: article
-    provider:
-      name: Baton Rouge Business Report
-      domain: businessreport.com
-    quality: 59
-    images:
-      - url: "https://s25562.pcdn.co/wp-content/uploads/2019/12/lawsuit-court-law.png"
-        width: 1734
-        height: 1122
-        isCached: true
-  - title: "Google Goes Big With a New Folding Phone and Better AI"
-    excerpt: "It’s been a big week for Google, which just announced three new Pixel products, including its first foldable phone, plus key enhancements to its ChatGPT rival Bard."
-    publishedDateTime: 2023-05-11T11:51:00Z
-    webUrl: "https://www.barrons.com/visual-stories/google-ai-chatgpt-pixel-phone-tablet-96a40590"
-    ampWebUrl: "https://www.barrons.com/visual-stories/google-ai-chatgpt-pixel-phone-tablet-96a40590"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/visual-stories/google-ai-chatgpt-pixel-phone-tablet-96a40590"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 57
-    images:
-      - url: "https://images.barrons.com/im-779960?size=1.5005861664712778&height=630&width=1200"
+      - url: "https://images.idgesg.net/images/article/2023/05/chatbot-generative-ai-by-the-kong-via-shutterstock-100940897-large.jpg?auto=webp&quality=85,70"
         width: 1200
-        height: 630
+        height: 800
         isCached: true
-  - title: "Google shows off AI advances, new Pixel devices at I/O developers conference"
-    excerpt: "Google introduced its latest advances in artificial intelligence, and unveiled new Pixel devices, during its I/O developers conference on Wednesday."
-    publishedDateTime: 2023-05-11T05:44:00Z
-    webUrl: "https://www.upi.com/Top_News/US/2023/05/11/Google-AI-I-O-developers-conference/5801683738669/"
-    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2023/05/10/Google-AI-I-O-developers-conference/5801683738669/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2023/05/10/Google-AI-I-O-developers-conference/5801683738669/"
+  - title: "7 ways generative AI is being used in healthcare"
+    excerpt: "Generative artificial intelligence is already being used in the healthcare industry to help lower costs and improve efficiency."
+    publishedDateTime: 2023-05-11T16:44:00Z
+    webUrl: "https://www.beckershospitalreview.com/innovation/7-ways-generative-ai-is-being-used-in-healthcare.html"
     type: article
     provider:
-      name: UPI
-      domain: upi.com
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
     quality: 54
     images:
-      - url: "https://cdnph.upi.com/sv/ph/og/i/5801683738669/2023/1/16837809808912/v1.5/Google-shows-off-AI-advances-new-Pixel-devices-at-IO-developers-conference.jpg"
-        width: 640
-        height: 427
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "DDN Empowers Breakthroughs in Generative AI with Unprecedented Sales Growth"
+    excerpt: "DDN, the global leader in artificial intelligence (AI) and multi-cloud data management solutions, today announced that"
+    publishedDateTime: 2023-05-11T20:06:00Z
+    webUrl: "https://www.datanami.com/this-just-in/ddn-empowers-breakthroughs-in-generative-ai-with-unprecedented-sales-growth/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 54
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2020/06/DDN-Logo-Portrait-RGB-1-300x300-1-300x300.png"
+        width: 300
+        height: 300
         isCached: true
   - title: "Google to revamp search with generative AI tools, but gradually"
     excerpt: "The approach insulates Google from some of the ethical concerns surrounding generative AI. Read more at straitstimes.com."
@@ -212,75 +144,67 @@ related:
         width: 860
         height: 573
         isCached: true
-  - title: "Google Is in Too Much of a Hurry on AI Search"
-    excerpt: "As AI answers fill our phone screens, what will become of the tech giant’s relationship with advertisers — or the truth?"
-    publishedDateTime: 2023-05-11T23:53:00Z
-    webUrl: "https://www.washingtonpost.com/business/2023/05/12/google-is-rolling-the-dice-with-ai-search/42a55c5a-f081-11ed-b67d-a219ec5dfd30_story.html"
+  - title: "Meta to start testing generative AI tools for advertisers"
+    excerpt: "The generative AI ad tool AI Sandbox is currently being released to a small group of advertisers and will see a bigger release in July."
+    publishedDateTime: 2023-05-13T07:57:00Z
+    webUrl: "https://www.afaqs.com/news/digital/meta-to-start-testing-generative-ai-tools-for-advertisers"
     type: article
     provider:
-      name: The Washington Post
-      domain: washingtonpost.com
-    quality: 39
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IH5Q43HQQEI63NT5UIM6YXP5GA.jpg&w=1440"
-        width: 1440
-        height: 958
-        isCached: true
-  - title: "Google Is Rolling the Dice With AI Search"
-    excerpt: "As AI answers fill our phone screens, what will become of the tech giant’s relationship with advertisers — or the truth?"
-    publishedDateTime: 2023-05-11T23:53:00Z
-    webUrl: "https://www.washingtonpost.com/business/2023/05/12/google-is-rolling-the-dice-with-ai-search/42a55c5a-f081-11ed-b67d-a219ec5dfd30_story.html"
-    type: article
-    provider:
-      name: The Washington Post
-      domain: washingtonpost.com
-    quality: 39
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IH5Q43HQQEI63NT5UIM6YXP5GA.jpg&w=1440"
-        width: 1440
-        height: 958
-        isCached: true
-  - title: "Google adding AI to popular apps, search"
-    excerpt: "AI-generated responses will top the results pages, and allow users to ask follow-up questions. Google also plans to add a \"help me write\" option in its GMail that will generate replies to emails within seconds."
-    publishedDateTime: 2023-05-11T14:18:00Z
-    webUrl: "https://www.cbsnews.com/newyork/video/google-adding-ai-to-popular-apps-search/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
+      name: AFAQS
+      domain: afaqs.com
     quality: 37
     images:
-      - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/05/11/76c64e6b-6549-4c21-8823-8f3d1bf8f87a/thumbnail/1200x630/24eb6d37a456e6c3f266e2d621d2d54e/5ce48051e6594736cf61c54a5327ef5c.jpg"
+      - url: "https://gumlet.assettype.com/afaqs%2F2023-05%2F32d75038-49eb-43cb-91fe-9da8b8d51f58%2Fmedia_mantra__3_.png?rect=0%2C20%2C1280%2C672&w=1200&auto=format%2Ccompress&ogImage=true"
         width: 1200
         height: 630
         isCached: true
-  - title: "Google’s Launches AI Supercomputer Powered by Tens of Thousands of NVIDIA H100 GPUs"
-    excerpt: "If a computer’s intelligence can be anthropomorphized, then an AI supercomputer that can scale to 26,000 GPUs is genius smart. That’s the case with Google’s new A3 GPU supercomputers for Google Cloud, introduced at the Google I/O 2023 conference."
-    publishedDateTime: 2023-05-11T22:11:00Z
-    webUrl: "https://insidehpc.com/2023/05/googles-launches-ai-supercomputer-powered-by-tens-of-thousands-of-nvidia-h100-gpus/"
+  - title: "How AI ethics is coming to the fore with generative AI"
+    excerpt: "The hype around ChatGPT and other large language models is driving more interest in AI and putting ethical considerations surrounding their use to the fore"
+    publishedDateTime: 2023-05-15T07:44:00Z
+    webUrl: "https://www.computerweekly.com/feature/How-AI-ethics-is-coming-to-the-fore-with-generative-AI"
     type: article
     provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 28
-  - title: "9 new Google AI features that will upgrade your life"
-    excerpt: "If you want a full breakdown of all the announcements from yesterday’s event as-it-happened, take a look at our Google I/O 2023 live blog here. Otherwise, let’s dive into nine of the best new AI features that Google hopes will make your online life a little easier to manage."
-    publishedDateTime: 2023-05-11T13:03:00Z
-    webUrl: "https://www.tomsguide.com/news/9-new-google-ai-features-that-will-upgrade-your-life"
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 34
+  - title: "First real-world study showed generative AI boosted worker productivity by 14%"
+    excerpt: "AI is transforming the way we work. But it's still too early to tell the full ramifications of this revolution."
+    publishedDateTime: 2023-05-12T13:01:00Z
+    webUrl: "https://www.seattletimes.com/explore/careers/first-real-world-study-showed-generative-ai-boosted-worker-productivity-by-14/"
+    ampWebUrl: "https://www.seattletimes.com/explore/careers/first-real-world-study-showed-generative-ai-boosted-worker-productivity-by-14/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/explore/careers/first-real-world-study-showed-generative-ai-boosted-worker-productivity-by-14/?amp=1"
     type: article
     provider:
-      name: Tom's Guide
-      domain: tomsguide.com
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 33
+  - title: "The creative use of generative AI in post-production"
+    excerpt: "Graham McGuinness at Jigsaw24 Media explains how AI is already helping post-production with creating technical grades and post-producing scripted content"
+    publishedDateTime: 2023-05-12T12:08:00Z
+    webUrl: "https://www.broadcastnow.co.uk/tech/the-creative-use-of-generative-ai-in-post-production/5181926.article"
+    type: article
+    provider:
+      name: Broadcast
+      domain: broadcastnow.co.uk
     quality: 19
-  - title: "Google says they’ll use powerful new AI tools responsibly"
-    excerpt: "At Google’s annual developer conference, the company promised to be bold with its use of AI but also responsible. Google I/O was held near the company’s headquarters in Mountain View,"
-    publishedDateTime: 2023-05-11T13:21:00Z
-    webUrl: "https://ktla.com/morning-news/google-says-theyll-use-powerful-new-ai-tools-responsibly/"
+  - title: "The likely winners of the generative AI gold rush"
+    excerpt: "Small, specialist models that are cheap to train and fast to run may win out over the broader Big Tech offerings"
+    publishedDateTime: 2023-05-11T13:10:00Z
+    webUrl: "https://www.ft.com/content/0cbe91ec-0971-4ba6-bdf1-87855aedd34c"
     type: article
     provider:
-      name: KTLA
-      domain: ktla.com
-    quality: 19
+      name: The Financial Times
+      domain: ft.com
+    quality: 17
+  - title: "Educational Psychology Meets Generative AI"
+    excerpt: "Post by Dr. Andrew J. Martin, School of Education, University of New South Wales, Australia"
+    publishedDateTime: 2023-05-11T18:35:00Z
+    webUrl: "https://www.psychologytoday.com/us/blog/psyched/202305/educational-psychology-meets-generative-ai"
+    type: article
+    provider:
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 17
 
 secured: "MHRlzwI19yDtyyv7cqwJEJsP8jWE/w6iTM0gWkNYWNNbParpT2VHjbrsMb16xpj+y7IxPDQlR+FySePjwlDV0kVzaQROUzVvx37FXTsDJEpBeIzYwJ2kg+hY9Y5QrDSt1EpcIzNUpK0P/43Yzk0yP+BsUpP9ZPLGeb0UezFZSsjDM0XRwgxUBdeNarmEhxuliVHNG/ApRI+yqhAJ8DqbSjcw+lyBbT6yLqsN7s1sqlDLnzdaPSw7veR5KDwiCT0nl6ZybQ24Etip60b2mSrh8I82UsWzYxVsaBspQgbeTRIDMdyM6K+PMB47IvbeQAn9Kgu0BV4fzlUQwF7mKY24InEndjSX+l53wSWPy7RB6vw=;Fyb+kyojR0hBJP2VO8mPBA=="
 ---

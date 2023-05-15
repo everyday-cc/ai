@@ -42,6 +42,20 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 24
+  - title: "6 Takeaways From Fintech Nexus: Networking, ChatGPT, Cybersecurity, and More"
+    excerpt: "At one of the largest U.S. fintech shows, getting information about the intricacies of the products and services offered by exhibitors was difficult."
+    publishedDateTime: 2023-05-15T16:04:00Z
+    webUrl: "https://www.cfo.com/technology/2023/05/fintech-nexus-new-york-company-culture-networking-chaptgpt-ai-crypto-blockchain-cybersecurity/"
+    type: article
+    provider:
+      name: CFO
+      domain: cfo.com
+    quality: 21
+    images:
+      - url: "https://assets.cfo.com/images/Zz0zMDhjNDkwMGYzMzAxMWVkODU1MDI2MzU0ZDc4NGZiZQ==?width=1200"
+        width: 1200
+        height: 813
+        isCached: true
 
 secured: "2Lkhl+heS1SiGoEPzbv6FpiCuaml2yBW8fE/+8oRpqxoFdSAGFayyFAg2tKiN38em0yYODQaI33zNu2YoLOojUELzM1KOsq4W43STwtjt89wHVBz1ZJH6sAvWMatqlvqZM9K7YJE3CV6VtrsKcbMNZHLxgE/QU3RNVTCoM605FS/YgxJkERAlNNr01aEl+EpksAbM7+6/ZxxN/u1UdsMjIu2fE4+3rZ86gUIR5pfLvArFzf7NjrIxVkJlHDBbzAYzano82tttTtujkQu13i780uPoTayWV/yCpQ/VCUPusFYQWLq6cKmWAK27x+eB8uogtwj8GSor80kjSpxPq881tQng0ZKm83tUKLD2KbV3iM=;bjIgdX/Z2Zbfc4kntQcgWQ=="
 ---

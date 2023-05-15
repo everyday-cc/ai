@@ -32,6 +32,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI and Hollywood: Why the WGA wants to keep robots out of the writers room"
+    excerpt: "AI can't write a quality screenplay today. But as the technology improves, Hollywood writers want to make sure AI isn't used as source material in the future."
+    publishedDateTime: 2023-05-15T13:45:00Z
+    webUrl: "https://www.bizjournals.com/losangeles/inno/stories/news/2023/05/15/hollywood-writers-strike-ai.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 32
   - title: "AI-Generated Designs Are Letting Architects Unlock New Forms of Creativity. How Should They Deploy It?"
     excerpt: "Architects are experimenting with AI-generated designs, and many are already seeing the creative potential that AI's \"imagination\" can bring to brainstorming and concept design."
     publishedDateTime: 2023-05-12T17:32:00Z

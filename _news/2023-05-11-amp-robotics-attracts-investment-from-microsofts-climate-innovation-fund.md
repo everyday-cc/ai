@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/05/11/amp-robotics-attracts-investment-f
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/11/amp-robotics-attracts-investment-from-microsofts-climate-innovation-fund/amp/"
 type: article
 quality: 120
-heat: 280
+heat: 290
 published: true
 
 provider:
@@ -193,6 +193,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 63
+  - title: "Microsoft Security highlights from RSA Conference 2023"
+    excerpt: "Read a recap of memorable moments from Microsoft Security's participation in RSAC 2023 and watch Vasu Jakkal's keynote address on-demand."
+    publishedDateTime: 2023-05-15T16:00:00Z
+    webUrl: "https://www.microsoft.com/en-us/security/blog/2023/05/15/microsoft-security-highlights-from-rsa-conference-2023/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 56
+    images:
+      - url: "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2023/05/Vasu-1_900_2_cropped.jpg"
+        width: 900
+        height: 394
+        isCached: true
   - title: "Microsoft freezes salaries to invest in AI"
     excerpt: "Microsoft has decided to freeze pay for all full-time workers this year as it invests in a \"major platform shift\"."
     publishedDateTime: 2023-05-11T07:04:00Z
@@ -249,7 +263,7 @@ related:
     provider:
       name: TMCnet
       domain: tmcnet.com
-    quality: 18
+    quality: 20
 
 secured: "YBQ+fUbt0OddtM9GO06iEiRNIvFWkTyDj+Gj1FgWLFZikKJO/0U3/2v79IDExQg+a+krdWG+ZTIuxyUUB6pDgAR3HS/faxl4DIol+AGSvPZ7Oqn5mXtAtJ472P5UU21xUNxmT030CWTPHRRAHgpJnml8JDX4yENT3oCwdlD5yzNalTg6Rf082UWYeJwSRMPYoDGb34mkUmKEkWkbUA1H7ubLasrZ/X4Uwz1mztYR0nzlwIMYmHwIIGQgvwuokqoKlzVOzJYiI1ReL9Ol0aqjd83m7T1HuNSaqZtHfNRRgM31zZLgQmN3p1DpPI45hkKtbOsIvevt0wuYKTZoMm/aGKvzFknz7DDMfXXWlJDRkJKK+LEnm5gDgD2YkPVYdstF9Cy0DqAvYOzufvFHvQg/KaUZeuywFsIUzIwqMLoAcnzY+ym8jN0MvoCjYGWdO9dWGut/WEbuV3B2CLiGg8RckAtsFez6/fhwkIZ6Ng9re4clHWwlSyeJy2jmkcdAUBRKOZ78clSUSiiGyl3ot4rAgg==;fljT+U3kC1n14Jd7i9BijA=="
 ---

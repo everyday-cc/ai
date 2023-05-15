@@ -23,6 +23,17 @@ images:
     height: 630
     isCached: true
 
+related:
+  - title: "G7 education ministers stress on mitigating risks related to generative artificial intelligence"
+    excerpt: "G7 Education Ministers agreed on the importance of continued understanding related to issues stemming from the fast-developing technology that has caught the attention of the public since the launch of ChatGPT by US firm OpenAI in November 2022."
+    publishedDateTime: 2023-05-14T17:56:00Z
+    webUrl: "https://www.devdiscourse.com/article/international/2451614-g7-education-ministers-stress-on-mitigating-risks-related-to-generative-artificial-intelligence"
+    type: article
+    provider:
+      name: devdiscourse
+      domain: devdiscourse.com
+    quality: 22
+
 secured: "Z4iXg6scFS/UE8K9m18W7HarT6y/3xeMXPtqa1SutTivFQch7Npy8AP4ldOREl+n8yKcQTM+hQv718nZReLiuKcU3mFeBX771HeUSPqDJtNZuHZX177WwjbqDnqGD3y+aE2w6/i3yYTQNVB7RXOvjWsxPLiL/uthQqBoWqCULquiKLJmj6BSqkqltTrIX4cCxe7xlQyxkETI6mPbn6O+j5CtIXYkGZ9F/WMW8M9tbwQmHWq2LCOFOYinmMzn6qP7m8UgONL4nkSHWwDkvtldiZsEu4X1gs7goQ6RCICtfbHWOGtb9Kze9eoVcWTGjju293zsPKkbPf9sJbtmr+2F3IkfQopEOPVE6oeCogBg/1lEfCa/g8y3HhpVAgSXjkSqchERBuTo31VNH4Fo+pS+6cTiuS48w/3dZCy1WhlsBIvj9bLCcqJuzCrMef4Bn+QxkTfHegRUg2F72CiKGFjIxDJwBQRfW3OW4pNOSoOq50gc22P/SZgzIPpEb5ZrywArn0jQA/5qxCJet0EG50ApKw==;CEzuNwqgsihVtuu9wK3Tzw=="
 ---
 

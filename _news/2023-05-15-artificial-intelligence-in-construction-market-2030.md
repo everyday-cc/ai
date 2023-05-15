@@ -70,6 +70,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence in Insurance Market | 2030"
+    excerpt: "Research Reports has published a new report titled as \" Artificial Intelligence in Insurance Market \" by End User ( Chatbots and Virtual Assistants, Fraud Detection, Customer Relationship Management,"
+    publishedDateTime: 2023-05-15T00:04:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-insurance-market-2030-2023-05-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 67
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Computer Vision System Market 2023 to Hit Significant Value by 2030| Research Reports World"
     excerpt: "The Computer Vision System Market Scope and Overview Report for 2023 presents a detailed analysis of the latest trends"
     publishedDateTime: 2023-05-11T08:32:00Z

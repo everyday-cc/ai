@@ -89,20 +89,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "The Boring Future of Generative AI"
-    excerpt: "ChatGPT’s chaotic streak can be charming. Google’s new chat-style search shows text-generation technology is headed in a much tamer direction."
-    publishedDateTime: 2023-05-11T16:00:00Z
-    webUrl: "https://www.wired.com/story/the-boring-future-of-generative-ai/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 67
-    images:
-      - url: "https://media.wired.com/photos/645c399a7b25a434b1f3bd06/191:100/w_1280,c_limit/Google-IO-2023-Fast%20Forward-Sundar-IO-2023-23_0943.jpg"
-        width: 1280
-        height: 670
-        isCached: true
   - title: "ChatGPT and Generative AI in Media and Advertising: With Use Cases Set, the Battle for Hearts and Minds Begins"
     excerpt: "Generative AI can already do much of the work and low-skilled labor that powers modern media and advertising."
     publishedDateTime: 2023-05-12T17:00:00Z
@@ -237,6 +223,6 @@ related:
       domain: usatoday.com
     quality: 7
 
-secured: "TqPmoGj3DVr5TKtcDFf3zZwFjVh7LyX1/U9VF8Dox/rXU0w2cREEDIp9BQdMC//6yAh/u2e5z6zWu7QL2t+nmXE4sc/bTK7W5HF0VLsI5vS98swWa+yBbjLyxAjuLZPqY0FzSWX3AG+NzQUXwSG5vObsNodGGVGFgaCudt6qz3Fz1Sm3+p0HKlzeoTWQLG9XVDbg3IbQUR8QDjUdfuDmU1ILZ/X+OkNnBlcawWHI/UsSgvcByvo52MW4PpC62Bx7BKJPVR2y29Fa+4xRhQ/mNhC1MxXtrANzqOpmAYeF8V5cIWm2iruvo7MbazkZVxN8xjnfdIBkSA3sT0Z/SP1aYf/EIdXtKuoRBtTXTJNJhX0=;eN+GQmV9ZBgkz2C6dhEoug=="
+secured: "Lmf8G9XTVS1hIxRZ3J8Dvp6jrzrxui6m4pDZw+mHTmYxjB1EsgdsUd5xDQMGh2uY61lvu7PvhusLMsrXEuH1jfWoMnXKpWCPzzTtrnHwyfiQQrdtbNlDIN+Pq52kHX5KyGbnFpxxO0rQiJ8mWLYwKGZRqWv0n4RiMTYyATDiZg6WXFGUsKx1+1ZnvkvTkcYjf0Pj/sNkuula4sQL8xU1W4C3GRwzJf8taG3FU09RTf4mr0WUOxvsY9fqDHm78N6rfCKCog5DJrW1CaGelpDJF2APCec8O1hHY1yQq3jJywYCcoyZnANsLqBScqJ0jaFpEltWohGOgEpJedbBl+QTQhxx9ySRgQ4YjWN8wA/lUM/hwHWFXM1oz3mEW998E5+y7sS5iiNK1j0Z67xggQTNkzixHRns9F1Y9ZlDjmcQbAV0MNpPtxthdgQ6jDTnk24nrtwR4DQRFhUugbh4i0tCL/A6YkGBQtu+7x7t3fNC/88CoFLqYQmoFu2CORiip24R/P+X9K6VQvPi2rTrJu5H0A==;hJpv+GqgRCnFqSU5ku3IKA=="
 ---
 

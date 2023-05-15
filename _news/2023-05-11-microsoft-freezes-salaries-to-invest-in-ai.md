@@ -202,6 +202,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 63
+  - title: "Microsoft Security highlights from RSA Conference 2023"
+    excerpt: "Read a recap of memorable moments from Microsoft Security's participation in RSAC 2023 and watch Vasu Jakkal's keynote address on-demand."
+    publishedDateTime: 2023-05-15T16:00:00Z
+    webUrl: "https://www.microsoft.com/en-us/security/blog/2023/05/15/microsoft-security-highlights-from-rsa-conference-2023/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 56
+    images:
+      - url: "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2023/05/Vasu-1_900_2_cropped.jpg"
+        width: 900
+        height: 394
+        isCached: true
   - title: "Start-Up Nation Central Collaborates with Microsoft to Promote Israeli AgriFood-Tech Startups"
     excerpt: "This collaboration aims to integrate innovative agricultural data companies with core technologies of AI, Cloud & Machine Learning with Microsoft's AI tools to develop models for optimal, sustainable"
     publishedDateTime: 2023-05-15T14:30:00Z
@@ -244,7 +258,7 @@ related:
     provider:
       name: TMCnet
       domain: tmcnet.com
-    quality: 18
+    quality: 20
 
 secured: "Nu++X4OxIgjLFbCbVbDhU2au9JcnDhw3diggy0tZO8sH/WBgSdfcUH0e6CoTgvvqQpKZ3dDtnvi0rfLnEKHIcfKWaGDfG72zXaBEGZeNAkYVcuXkOHH9il+B5bk7Ea2d3K975dnjMIvgLwhkMz2kLHKDCFTyTv969ffIPv94DeimQ/SMYHE3K4OVg4CEV3jMa8nHaZXt7I54rNYqraZM6hYddV5k1P87wRFDDI7FmMjA/Ti6HnR0qiYiYUSwWLpBL1xlMzPDI4ud4r/OP7kd635buiQqD+7N7nq73thZXgAX3bPw6aqMdkwS4zklQ0SVgXOzF2rGwQKLVqcd0Ii5n2prBGOkH1ItQSgWShLL2+0=;zyLNt9X4WxeSpm1u37hFHg=="
 ---

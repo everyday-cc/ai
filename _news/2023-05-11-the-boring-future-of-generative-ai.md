@@ -28,217 +28,187 @@ images:
     isCached: true
 
 related:
-  - title: "Combining Generative AI ChatGPT Into Handguns Triggers Fiery Response"
-    excerpt: "Would handguns be better with generative AI onboard, or is this a non-starter? Either way, it is a highly controversial topic. See what it is all about."
-    publishedDateTime: 2023-05-15T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/05/15/combining-generative-ai-chatgpt-into-handguns-triggers-fiery-response/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/05/15/combining-generative-ai-chatgpt-into-handguns-triggers-fiery-response/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/05/15/combining-generative-ai-chatgpt-into-handguns-triggers-fiery-response/amp/"
+  - title: "Unlock productivity with advanced generative AI"
+    excerpt: "Learn how we are unlocking new levels of productivity by introducing advanced generative AI into Watson Assistant use cases.\nThe post Unlock productivity with advanced generative AI appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-05-15T16:44:03Z
+    webUrl: "https://www.ibm.com/blog/unlock-productivity-with-advanced-generative-ai/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 119
+    images:
+      - url: "https://www.ibm.com/blog/wp-content/uploads/2023/05/watson-assistant-ai-for-customer-service-create.Original.jpg"
+        width: 1217
+        height: 685
+        isCached: true
+  - title: "WorkHack Targets Big Businesses As They Fumble With Generative AI"
+    excerpt: "WorkHack’s platform is aimed at large enterprises that are keen to develop new use cases for generative AI but nervous about how to do so safely and effectively. “We want to help them use this technology responsibly and thoughtfully,” explains Akshat Tyagi, the founder of the company."
+    publishedDateTime: 2023-05-15T06:30:00Z
+    webUrl: "https://www.forbes.com/sites/davidprosser/2023/05/15/workhack-targets-big-businesses-as-they-fumble-with-generative-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/davidprosser/2023/05/15/workhack-targets-big-businesses-as-they-fumble-with-generative-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidprosser/2023/05/15/workhack-targets-big-businesses-as-they-fumble-with-generative-ai/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 91
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/645bfa0c8aa4ed65ec653182/0x0.jpg?format=jpg&crop=3887,2914,x350,y0,safe&width=1200"
-        width: 1200
-        height: 900
-        isCached: true
-  - title: "ChatGPT: Everything you need to know about the AI-powered chatbot"
-    excerpt: "Here's a guide to help understand Open AI's viral text-generating system. We outline the most recent updates and answer the most common FAQs."
-    publishedDateTime: 2023-05-12T18:22:00Z
-    webUrl: "https://techcrunch.com/2023/05/12/chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot/"
-    ampWebUrl: "https://techcrunch.com/2023/05/12/chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/12/chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
     quality: 89
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1462188043.jpg?resize=1200,798"
-        width: 1200
-        height: 798
-        isCached: true
-  - title: "What AI-Generated Fingers AI Can Teach You About Training Your Own Models"
-    excerpt: "Generative AI is everywhere and has unlocked creativity for extraordinary creations, such as images of ecstatic Friedrich Nietzsche dancing or of Immanuel Kant with a sneaky grin. Rather than deciphering Kant's intricate ideas,"
-    publishedDateTime: 2023-05-11T11:44:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/11/what-ai-generated-fingers-ai-can-teach-you-about-training-your-own-models/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/11/what-ai-generated-fingers-ai-can-teach-you-about-training-your-own-models/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/05/11/what-ai-generated-fingers-ai-can-teach-you-about-training-your-own-models/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 88
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/645b9e989f952bd52c9c02fa/0x0.jpg?format=jpg&crop=3702,2084,x0,y499,safe&width=1200"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/645e4c3f71fe50b2fd1853c6/0x0.jpg?format=jpg&crop=1284,723,x435,y153,safe&width=1200"
         width: 1200
         height: 676
         isCached: true
-  - title: "Here is how Europe is pushing to regulate artificial intelligence as ChatGPT rapidly emerges"
-    excerpt: "The European Union voted to strengthen regulations around artificial intelligence. Here is a look into how chatbots such as ChatGPT could be regulated in the continent."
-    publishedDateTime: 2023-05-11T13:51:00Z
-    webUrl: "https://www.foxnews.com/world/europe-pushing-regulate-artificial-intelligence-chatgpt-rapidly-emerges"
-    ampWebUrl: "https://www.foxnews.com/world/europe-pushing-regulate-artificial-intelligence-chatgpt-rapidly-emerges.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/world/europe-pushing-regulate-artificial-intelligence-chatgpt-rapidly-emerges.amp"
+  - title: "What enterprises need to know about adopting generative AI"
+    excerpt: "Enterprises that embrace and master generative AI will gain a competitive edge and create new opportunities for growth and innovation."
+    publishedDateTime: 2023-05-14T23:11:00Z
+    webUrl: "https://venturebeat.com/ai/what-enterprises-need-to-know-about-adopting-generative-ai/"
+    ampWebUrl: "https://venturebeat.com/ai/what-enterprises-need-to-know-about-adopting-generative-ai/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/what-enterprises-need-to-know-about-adopting-generative-ai/amp/"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 76
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/937be039-5093-4a38-8920-5ec96c812149/b1154edd-fccf-4619-a5be-9436eb80ad9d/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
+      - url: "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1133176856.jpg?w=1200&strip=all"
         width: 1200
-        height: 675
+        height: 655
         isCached: true
-  - title: "ChatGPT and Generative AI in Media and Advertising: With Use Cases Set, the Battle for Hearts and Minds Begins"
-    excerpt: "Generative AI can already do much of the work and low-skilled labor that powers modern media and advertising."
-    publishedDateTime: 2023-05-12T17:00:00Z
-    webUrl: "https://www.businessinsider.com/generative-ai-media-and-advertising-battle-for-hearts-use-cases-2023-may"
-    ampWebUrl: "https://www.businessinsider.com/generative-ai-media-and-advertising-battle-for-hearts-use-cases-2023-may?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/generative-ai-media-and-advertising-battle-for-hearts-use-cases-2023-may?amp"
+  - title: "Prepare for generative AI with experimentation and clear guidelines"
+    excerpt: "Figure out your most probable use cases and get the tech into users’ hands, with guardrails. Expect to adapt your business processes as the technology matures."
+    publishedDateTime: 2023-05-15T07:01:00Z
+    webUrl: "https://www.computerworld.com/article/3695572/prepare-for-generative-ai-with-experimentation-and-clear-guidelines.html"
+    ampWebUrl: "https://www.computerworld.com/article/3695572/prepare-for-generative-ai-with-experimentation-and-clear-guidelines.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3695572/prepare-for-generative-ai-with-experimentation-and-clear-guidelines.amp.html"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 67
+      name: Computerworld
+      domain: computerworld.com
+    quality: 59
     images:
-      - url: "https://i.insider.com/64402b373f6f690018de8d48?width=1200&format=jpeg"
-        width: 470
-        height: 352
+      - url: "https://images.idgesg.net/images/article/2023/05/chatbot-generative-ai-by-the-kong-via-shutterstock-100940897-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Dr. ChatGPT: A guide to generative AI in healthcare"
-    excerpt: "ChatGPT is a public-facing generative AI text application from OpenAI. OpenAI has developed other generative AI applications available for paying customers and is working with Microsoft, which made a reported $100 billion investment in the company. Other big tech firms such as Google and Meta have launched their own generative AI tools."
-    publishedDateTime: 2023-05-15T10:00:00Z
-    webUrl: "https://www.modernhealthcare.com/digital-health/chatgpt-healthcare-everything-to-know-generative-ai-artificial-intelligence"
+  - title: "7 ways generative AI is being used in healthcare"
+    excerpt: "Generative artificial intelligence is already being used in the healthcare industry to help lower costs and improve efficiency."
+    publishedDateTime: 2023-05-11T16:44:00Z
+    webUrl: "https://www.beckershospitalreview.com/innovation/7-ways-generative-ai-is-being-used-in-healthcare.html"
     type: article
     provider:
-      name: Modern Healthcare
-      domain: modernhealthcare.com
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
     quality: 54
     images:
-      - url: "https://www.modernhealthcare.com/s3/files/styles/1200x630/public/Chat-GPT-healthcare-2%20%281%29.png"
-        width: 1200
-        height: 630
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
+        width: 800
+        height: 600
         isCached: true
-  - title: "edX Debuts Two AI-Powered Learning Assistants Built on ChatGPT"
-    excerpt: "X plugin launches in ChatGPT plugin store to give users access to content and course discovery edX Xpert delivers AI-powered learning and"
-    publishedDateTime: 2023-05-12T14:14:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/edx-debuts-two-ai-powered-learning-assistants-built-on-chatgpt-1032322930"
+  - title: "DDN Empowers Breakthroughs in Generative AI with Unprecedented Sales Growth"
+    excerpt: "DDN, the global leader in artificial intelligence (AI) and multi-cloud data management solutions, today announced that"
+    publishedDateTime: 2023-05-11T20:06:00Z
+    webUrl: "https://www.datanami.com/this-just-in/ddn-empowers-breakthroughs-in-generative-ai-with-unprecedented-sales-growth/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
-  - title: "ChatGPT: The game-changing AI-language model and its implications on enterprise automation"
-    excerpt: "ChatGPT has gained global attention and recognition, yet its impact on enterprise automation remains an area not fully explored. Analyzing it from the standpoint of intelligent automation can reveal its potential impact on the"
-    publishedDateTime: 2023-05-14T10:03:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/chatgpt-the-game-changing-ai-language-model-and-its-implications-on-enterprise-automation/?source=app&frmapp=yes"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/chatgpt-the-game-changing-ai-language-model-and-its-implications-on-enterprise-automation/?source=app&frmapp=yes"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/chatgpt-the-game-changing-ai-language-model-and-its-implications-on-enterprise-automation/?source=app&frmapp=yes"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 49
+      name: datanami.com
+      domain: datanami.com
+    quality: 54
     images:
-      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/08/Sanjeev-Menon.png"
-        width: 573
-        height: 413
+      - url: "https://www.datanami.com/wp-content/uploads/2020/06/DDN-Logo-Portrait-RGB-1-300x300-1-300x300.png"
+        width: 300
+        height: 300
         isCached: true
-  - title: "ChatGPT and Generative AI: Our Guide to 2023's Most Talked-About Technology"
-    excerpt: "ChatGPT brought generative AI into the limelight when it hit 1 million users in five days. But how valid is the buzz around ChatGPT?"
-    publishedDateTime: 2023-05-12T18:30:00Z
-    webUrl: "https://www.businessinsider.com/chatgpt-generative-ai-guide-to-2023-most-talked-about-technology-2023-may"
+  - title: "Meta Joins Generative AI Race, Will Begin Testing AI-Powered Ads Tools to Create Content"
+    excerpt: "A select group of advertisers will be invited to experiment with the tools in a \"testing playground\" that Meta is calling the AI Sandbox."
+    publishedDateTime: 2023-05-12T06:49:00Z
+    webUrl: "https://www.gadgets360.com/internet/news/facebook-meta-announces-generative-ai-ads-tool-testing-artificial-intelligence-4027738"
+    ampWebUrl: "https://www.gadgets360.com/internet/news/facebook-meta-announces-generative-ai-ads-tool-testing-artificial-intelligence-4027738/amp"
+    cdnAmpWebUrl: "https://www-gadgets360-com.cdn.ampproject.org/c/s/www.gadgets360.com/internet/news/facebook-meta-announces-generative-ai-ads-tool-testing-artificial-intelligence-4027738/amp"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 45
-  - title: "AI Wars: Google’s Improved Bard Is Ready to Take On OpenAI’s ChatGPT"
-    excerpt: "When it comes to AI chatbots, we all love OpenAI's ChatGPT, but Google's Bard has everything that makes us drool—for free."
-    publishedDateTime: 2023-05-12T22:34:00Z
-    webUrl: "https://decrypt.co/139953/google-bard-openai-chatgpt-ai-wars"
-    type: article
-    provider:
-      name: decrypt
-      domain: decrypt.co
-    quality: 39
+      name: gadgets360
+      domain: gadgets360.com
+    quality: 48
     images:
-      - url: "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/05/Leonardo_Diffusion_photorealistic_render_of_A_screen_depicting_1-1-gID_7.png@png"
-        width: 1024
-        height: 512
-        isCached: true
-  - title: "ChatGPT and Generative AI in Insurance: Reality, Hype, What's Next, and How to Prepare"
-    excerpt: "ChatGPT is the most talked-about technology of 2023 and has piqued the interest of insurance industry leaders."
-    publishedDateTime: 2023-05-12T18:00:00Z
-    webUrl: "https://www.businessinsider.com/generative-ai-in-insurance-reality-next-hype-how-to-prepare-2023-may"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 39
-  - title: "Kagan: What’s the next move for Meta with metaverse down, AI ChatGPT up?"
-    excerpt: "As interest and intrigue in ChatGPT overtakes that of the metaverse, one analyst asks: Should Meta change its vision?"
-    publishedDateTime: 2023-05-15T15:22:00Z
-    webUrl: "https://www.rcrwireless.com/20230515/metaverse/kagan-whats-the-next-move-for-meta-with-metaverse-down-ai-chatgpt-up"
-    type: article
-    provider:
-      name: RCR Wireless News
-      domain: rcrwireless.com
-    quality: 38
-    images:
-      - url: "https://www.rcrwireless.com/wp-content/uploads/2022/12/176512315_s.jpg"
-        width: 844
-        height: 567
-        isCached: true
-  - title: "ChatGPT on Mars: How AI can help scientists study the Red Planet"
-    excerpt: "Steve Ruff, associate research professor at Arizona State University's School of Earth and Space Exploration in Tempe, Arizona, is keenly tied to studying Mars."
-    publishedDateTime: 2023-05-14T10:00:00Z
-    webUrl: "https://www.space.com/artificial-intelligence-chatgpt-mars"
-    type: article
-    provider:
-      name: Space.com
-      domain: space.com
-    quality: 37
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/B6gVBJ4kwYSsESKTc9XXNK-1200-80.jpg"
+      - url: "https://i.gadgets360cdn.com/large/meta_image_reuters_1654769238524.jpg"
         width: 1200
         height: 675
         isCached: true
-  - title: "ChatGPT and Generative AI Around the World: Maturity, Opportunities, and Hurdles in Key Regions"
-    excerpt: "ChatGPT has received a lot of press since its November 2022 launch. But while interest in the tool is high, its use is not yet universal."
-    publishedDateTime: 2023-05-11T17:01:00Z
-    webUrl: "https://www.businessinsider.com/generative-ai-around-the-world-maturity-opportunities-hurdles-key-regions-2023-may"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 35
-  - title: "Japanese digital minister pushes for AI use, but ChatGPT does not know who he is"
-    excerpt: "I asked ChatGPT who Kono Taro is and he came back with the wrong answer,” Mr Kono said in an interview with Bloomberg Television broadcast on Monday. “So you need to be careful,” he added. Mr Kono asks that his name be written in Japanese style,"
-    publishedDateTime: 2023-05-15T00:53:00Z
-    webUrl: "https://www.straitstimes.com/asia/east-asia/japanese-digital-minister-pushes-for-ai-use-but-chatgpt-does-not-know-who-he-is"
+  - title: "Google to revamp search with generative AI tools, but gradually"
+    excerpt: "The approach insulates Google from some of the ethical concerns surrounding generative AI. Read more at straitstimes.com."
+    publishedDateTime: 2023-05-11T01:52:00Z
+    webUrl: "https://www.straitstimes.com/world/united-states/google-to-revamp-search-with-generative-ai-tools-but-gradually"
     type: article
     provider:
       name: The Straits Times
       domain: straitstimes.com
-    quality: 34
+    quality: 39
     images:
-      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2023/05/15/d5870040_0.jpg?VersionId=_hBCtc_r5VIlCWOxmn0yo9tYnSXsnUUW"
+      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2023/05/11/GOOGLEAI7.JPG?VersionId=reNH981AG40mKLjaJ4zZiHurml9tao66"
         width: 860
         height: 573
         isCached: true
-  - title: "Google ups the ante on AI to compete with ChatGPT. Here's how search and Gmail will change."
-    excerpt: "Here's how Google is introducing more AI into your everyday computing experience. Google unveiled a suite of new functions for both PCs and phones."
-    publishedDateTime: 2023-05-12T18:51:00Z
-    webUrl: "https://www.usatoday.com/story/tech/2023/05/12/google-ai-search-gmail-changes-chatgpt/70211454007/"
+  - title: "Meta to start testing generative AI tools for advertisers"
+    excerpt: "The generative AI ad tool AI Sandbox is currently being released to a small group of advertisers and will see a bigger release in July."
+    publishedDateTime: 2023-05-13T07:57:00Z
+    webUrl: "https://www.afaqs.com/news/digital/meta-to-start-testing-generative-ai-tools-for-advertisers"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 7
+      name: AFAQS
+      domain: afaqs.com
+    quality: 37
+    images:
+      - url: "https://gumlet.assettype.com/afaqs%2F2023-05%2F32d75038-49eb-43cb-91fe-9da8b8d51f58%2Fmedia_mantra__3_.png?rect=0%2C20%2C1280%2C672&w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "How AI ethics is coming to the fore with generative AI"
+    excerpt: "The hype around ChatGPT and other large language models is driving more interest in AI and putting ethical considerations surrounding their use to the fore"
+    publishedDateTime: 2023-05-15T07:44:00Z
+    webUrl: "https://www.computerweekly.com/feature/How-AI-ethics-is-coming-to-the-fore-with-generative-AI"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 34
+  - title: "First real-world study showed generative AI boosted worker productivity by 14%"
+    excerpt: "AI is transforming the way we work. But it's still too early to tell the full ramifications of this revolution."
+    publishedDateTime: 2023-05-12T13:01:00Z
+    webUrl: "https://www.seattletimes.com/explore/careers/first-real-world-study-showed-generative-ai-boosted-worker-productivity-by-14/"
+    ampWebUrl: "https://www.seattletimes.com/explore/careers/first-real-world-study-showed-generative-ai-boosted-worker-productivity-by-14/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/explore/careers/first-real-world-study-showed-generative-ai-boosted-worker-productivity-by-14/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 33
+  - title: "The creative use of generative AI in post-production"
+    excerpt: "Graham McGuinness at Jigsaw24 Media explains how AI is already helping post-production with creating technical grades and post-producing scripted content"
+    publishedDateTime: 2023-05-12T12:08:00Z
+    webUrl: "https://www.broadcastnow.co.uk/tech/the-creative-use-of-generative-ai-in-post-production/5181926.article"
+    type: article
+    provider:
+      name: Broadcast
+      domain: broadcastnow.co.uk
+    quality: 19
+  - title: "The likely winners of the generative AI gold rush"
+    excerpt: "Small, specialist models that are cheap to train and fast to run may win out over the broader Big Tech offerings"
+    publishedDateTime: 2023-05-11T13:10:00Z
+    webUrl: "https://www.ft.com/content/0cbe91ec-0971-4ba6-bdf1-87855aedd34c"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 17
+  - title: "Educational Psychology Meets Generative AI"
+    excerpt: "Post by Dr. Andrew J. Martin, School of Education, University of New South Wales, Australia"
+    publishedDateTime: 2023-05-11T18:35:00Z
+    webUrl: "https://www.psychologytoday.com/us/blog/psyched/202305/educational-psychology-meets-generative-ai"
+    type: article
+    provider:
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 17
 
 secured: "DV+6CTGtrzPyE0TMVNR5MW7ZWCjm64n4WtY0ALpsui1DhSzqSxgJi5RDf7VSTTUy7QZoi/DtX4Tz2Fu21mI0MaHnz1tHllvDL3OrCijNYp0PfEwQ++3OiOior3nneOauCE8wam59mxZ5PjpXaOGuSQDDIXMDT4g67E5xRdWi5yCtSpVVWmcHR5dD2QoFRy6KZkED9D05g4JSXoS5VnDLpfLFgtybm3YXnjEX2VbpxvbTVq2Su3xFsvTrsP3PrtQnggxU8pTso9lpp+uTl53uJqzcrq2+qOjMXFCwTXcNKdWLt1/KxCVjMN9ffTN0tijrSgOv5dgqu77vPZ7GiA/eyXUJ7zIKXlEkzRHvAYO3dxBjjkw0cNSnujQ3ZEfzBU7g9fFd3ybhvdw/lrN8cIRPj8O6Uumw5Tr3FHkYSTfw2WjolkrQb9EX2nTVhDlU+AaMWqs6bpy2iNykDqv6FgT24aMuW3nT0/RcHIM9rxZasZmKz4nAi4VuFN7KyF49qdvWIE4ICjp1Wt58DBloVGOPJg==;8tR8jwGzmECFG2WoSLtkqA=="
 ---

@@ -79,20 +79,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "The Boring Future of Generative AI"
-    excerpt: "ChatGPT’s chaotic streak can be charming. Google’s new chat-style search shows text-generation technology is headed in a much tamer direction."
-    publishedDateTime: 2023-05-11T16:00:00Z
-    webUrl: "https://www.wired.com/story/the-boring-future-of-generative-ai/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 67
-    images:
-      - url: "https://media.wired.com/photos/645c399a7b25a434b1f3bd06/191:100/w_1280,c_limit/Google-IO-2023-Fast%20Forward-Sundar-IO-2023-23_0943.jpg"
-        width: 1280
-        height: 670
-        isCached: true
   - title: "ChatGPT and Generative AI in Media and Advertising: With Use Cases Set, the Battle for Hearts and Minds Begins"
     excerpt: "Generative AI can already do much of the work and low-skilled labor that powers modern media and advertising."
     publishedDateTime: 2023-05-12T17:00:00Z

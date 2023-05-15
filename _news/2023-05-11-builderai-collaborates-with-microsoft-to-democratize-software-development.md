@@ -192,6 +192,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 63
+  - title: "Microsoft Security highlights from RSA Conference 2023"
+    excerpt: "Read a recap of memorable moments from Microsoft Security's participation in RSAC 2023 and watch Vasu Jakkal's keynote address on-demand."
+    publishedDateTime: 2023-05-15T16:00:00Z
+    webUrl: "https://www.microsoft.com/en-us/security/blog/2023/05/15/microsoft-security-highlights-from-rsa-conference-2023/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 56
+    images:
+      - url: "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2023/05/Vasu-1_900_2_cropped.jpg"
+        width: 900
+        height: 394
+        isCached: true
   - title: "Microsoft freezes salaries to invest in AI"
     excerpt: "Microsoft has decided to freeze pay for all full-time workers this year as it invests in a \"major platform shift\"."
     publishedDateTime: 2023-05-11T07:04:00Z
@@ -248,7 +262,7 @@ related:
     provider:
       name: TMCnet
       domain: tmcnet.com
-    quality: 18
+    quality: 20
 
 secured: "gaxQo2/VbL1BWWLqqLWovfAIqGnvw/0tjgk3M4DV2mpqaWJAo6HQbxWbgcvOB1CmKZflYF9lqluvfEMUzgS0olE1Ua7ap3JGr0Fd6u0Cyq0OgOx9m4u5TAXNr9yhDE3wTrdZ0Fwr1ALP1Hj0OF1uM2hq9KMK8swloCsMKt7X7Vo7QFuxZyTcRCOjD3g1pcEyBw3jikM/OjSpPNfuO+WBdarmpGQmFHS0L6s/2vAI7gpDcnrn37e4f0ScMP8V4UmrpTC8CUHmTfXMcj0jGSvPoIaLwSfGsG4xma3c8+mWjtYOBacE8IG7/W3ggITawdj9yguVfZ8Q7TdMK7OW5TARQvhw0btOkNkJq0wYQ3xiz6g=;1cw0hF3mAJ28lw7bKcCHxQ=="
 ---

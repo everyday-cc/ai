@@ -2,6 +2,40 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-04-04-ai-will-help-generate-commentary-for-masters-golf-tourney.md",
+      "title": "AI Will Help Generate Commentary for Masters Golf Tourney",
+      "excerpt": "IBM's modern tech will augment the historic event, using generative AI tech to add audio commentary to video highlights.",
+      "sourceUrl": null,
+      "webUrl": "https://decrypt.co/125317/historic-masters-golf-tournament-returns-ai-twist",
+      "originalUrl": "https://decrypt.co/125317/historic-masters-golf-tournament-returns-ai-twist",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-03T13:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "YAHOO!Finance",
+        "domain": "decrypt.co",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-03-ibm-and-masters-use-generative-ai-to-create-spoken-word-commentary.md",
       "title": "IBM and Masters use generative AI to create spoken word commentary",
       "excerpt": "IBM and Masters have worked together for more than 25 years Generative AI promises many use cases for the sports industry The Masters golf tournament will use generative artificial intelligence (AI) technology to create automated audio commentary for more than 20,",

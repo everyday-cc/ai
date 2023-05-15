@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Computer Vision in Artificial Intelligence (AI) Market"
-    excerpt: "Research Reports has published a new report titled as \"Computer Vision in Artificial Intelligence (AI) Market\" by"
-    publishedDateTime: 2023-05-11T00:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/computer-vision-in-artificial-intelligence-ai-market-2023-05-10"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 99
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence (AI) Robots Market Growth Status and Foresight till 2030"
     excerpt: "The Artificial Intelligence (AI) Robots Market has been comprehensively examined in a new research report published"
     publishedDateTime: 2023-05-11T05:13:00Z
@@ -99,10 +85,10 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Data and AI Ethics Market Research | 2023-2030"
-    excerpt: "Research Reports has published a new report titled as \"Data and AI Ethics Market\" by End User (BFSI, Government"
-    publishedDateTime: 2023-05-11T01:04:00Z
-    webUrl: "https://www.marketwatch.com/press-release/data-and-ai-ethics-market-research-2023-2030-2023-05-10"
+  - title: "Healthcare Artificial Intelligence Market [2023-2030] Business Report"
+    excerpt: "What is the Healthcare Artificial Intelligence market growth in 2023-2029 with TOPMajor Players? Major Players Covered in this Report: APIXIO, Inc. Cyrcadia Health Inc. Sense.ly Atomwise, Inc. Zebra Medical Vision Ltd."
+    publishedDateTime: 2023-05-14T14:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-2023-2030-business-report-2023-05-14"
     type: article
     provider:
       name: MarketWatch
@@ -113,10 +99,10 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Healthcare Artificial Intelligence Market [2023-2030] Business Report"
-    excerpt: "What is the Healthcare Artificial Intelligence market growth in 2023-2029 with TOPMajor Players? Major Players Covered in this Report: APIXIO, Inc. Cyrcadia Health Inc. Sense.ly Atomwise, Inc. Zebra Medical Vision Ltd."
-    publishedDateTime: 2023-05-14T14:15:00Z
-    webUrl: "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-2023-2030-business-report-2023-05-14"
+  - title: "Artificial Intelligence (AI) in Fintech Market Upto 2030"
+    excerpt: "The Global Artificial Intelligence (AI) in Fintech market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key ..."
+    publishedDateTime: 2023-05-15T16:54:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-upto-2030-2023-05-14"
     type: article
     provider:
       name: MarketWatch
@@ -439,20 +425,6 @@ related:
     excerpt: "A Image Recognition market new report, spanning multiple 116 pages, offers an extensive and in-depth analysis of the"
     publishedDateTime: 2023-05-11T15:06:00Z
     webUrl: "https://www.marketwatch.com/press-release/image-recognition-market-research-analysis-2023-2030-2023-05-11"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Voice Recognition Market Research | 2023-2030"
-    excerpt: "The Global Voice Recognition market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players,"
-    publishedDateTime: 2023-05-11T00:09:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-research-2023-2030-2023-05-10"
     type: article
     provider:
       name: MarketWatch

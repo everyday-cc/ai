@@ -7,7 +7,7 @@ originalUrl: "https://www.physiciansweekly.com/artificial-intelligence-improves-
 webUrl: "https://www.physiciansweekly.com/artificial-intelligence-improves-prediction-of-pancreatic-cancer/"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,24 @@ images:
     width: 800
     height: 600
     isCached: true
+
+related:
+  - title: "Can artificial intelligence predict the risk of pancreatic cancer?"
+    excerpt: "Dr. Kevin Most, Chief Medical Officer at Northwestern Medicine’s Central DuPage Hospital, joins Bob Sirott every Monday morning following the 6:30am newscast. Dr. Most discusses what we should"
+    publishedDateTime: 2023-05-15T16:17:00Z
+    webUrl: "https://wgnradio.com/health/can-artificial-intelligence-predict-the-risk-of-pancreatic-cancer/"
+    ampWebUrl: "https://wgnradio.com/health/can-artificial-intelligence-predict-the-risk-of-pancreatic-cancer/amp/"
+    cdnAmpWebUrl: "https://wgnradio-com.cdn.ampproject.org/c/s/wgnradio.com/health/can-artificial-intelligence-predict-the-risk-of-pancreatic-cancer/amp/"
+    type: article
+    provider:
+      name: WGN Radio
+      domain: wgnradio.com
+    quality: 57
+    images:
+      - url: "https://wgnradio.com/wp-content/uploads/sites/6/2023/03/64245e180a9177.89472886.jpeg?w=1280"
+        width: 1280
+        height: 853
+        isCached: true
 
 secured: "7K60Sm3Wbjx+7NcCmu261nFbEYv4JYIpqu7jul73eamNjFGC0fpbOiWyTgbRY3hpSjXi7CkcAslmv8ZLVmJqqASpqTmJQwmNnXnEFPaiG4n9tUJKm21yzNXuuypmF1V8F4weIZ9uS3kv9YQJ2qZPxGf/8AOyNCuwJIWtug5nVYgxiGMLRv2zapg452fTYv4UEedvt9KifKE9rmXhnPkSM7mjsJvFKIbgzHKH6GtTF5REXSLpF53TJnacyAQo2G00FB90tzMuFoaiTFqk8Hf9REkmodCuWWQfpe6DHAuBTNVafHVNpz2SOnw0Pec0i0eAiQTFPCSQUp09faXknJR+tXx14UfuL2/LOmuj4cUFhlkgeWkT/4C7ua2BbJv9Oh+oyw/wtppxDlLGsR9k5jAW7zlF5MFmzVgXL5q+NO6OwIW35o+mbUo8FW72auwkMhHNTMR9fxUsvtJd40DM9CxXvKUidAD2uLslMlG+M7rfAWmM0Ed3EOeS7mOceletbpCW08CRHDU+y8h2reP0RwHVJw==;SWPYV0HXXajCUILPA49oGw=="
 ---
