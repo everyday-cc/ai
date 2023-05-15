@@ -104,15 +104,15 @@ related:
   - title: "DEF CON to set thousands of hackers loose on AI"
     excerpt: "Thousands of hackers will get a shot at testing the limits of AI technology at a mass hacking event at the famed DEF CON hacker convention. Some of the things they’ll be looking to find: How can chatbots be manipulated to cause harm?"
     publishedDateTime: 2023-05-14T21:30:00Z
-    webUrl: "https://buffalonews.com/news/national/def-con-to-set-thousands-of-hackers-loose-on-ai/article_7afcfa33-877d-5cb1-a396-5f6748a6705b.html"
+    webUrl: "https://tucson.com/news/def-con-to-set-thousands-of-hackers-loose-on-ai/article_9285382f-aa37-56ac-9d75-59c7fad7fec3.html"
     type: article
     provider:
-      name: Buffalo News
-      domain: buffalonews.com
+      name: Arizona Daily Star
+      domain: tucson.com
     quality: 39
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/7/af/7afcfa33-877d-5cb1-a396-5f6748a6705b/645be2b67d6f3.preview.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
+      - url: "https://bloximages.chicago2.vip.townnews.com/tucson.com/content/tncms/assets/v3/editorial/9/28/9285382f-aa37-56ac-9d75-59c7fad7fec3/645be2c03cb68.preview.jpg?crop=1763%2C992%2C0%2C91&resize=1120%2C630&order=crop%2Cresize"
+        width: 1120
         height: 630
         isCached: true
   - title: "Google Wants to Play Both Sides of the AI Arms Race"
@@ -153,6 +153,6 @@ related:
       domain: ft.com
     quality: 17
 
-secured: "S2HFAkTia1yzEygyWvTRlvlCIADmqGASoXWHyEKtUYwJkNeuklhu78qi5qbdoO4tnWOPFJkZm30XgLLNyJp6cNKX0PoBmReW8hVo9mP3uQO0Xle3ko/vqezhVeU5nmgko/ypz68qDKfG9B/eP9tNc4Z8G3+5Dq50TSGPILM+EcjleTKKSruI5mqZxvceVivHxmKLuqAEOA3hAQgkBtCVfbohAh6PE3e/6+/cRbeDVMcaKkSKy/qpbcj+vC2MCLWqkE952Nm0CI66o/m74RBvcq7J/sIrZx7qDBuJ7IKmdXp7oyKwMBoQNHaYCfhXbG8t5ct5AMLFyRB9fro+owKTTN19cDoW3FfpraTWQ4cix0s=;8tNuf8RG7ejNaaMfb65ybA=="
+secured: "X02FzjaoqxxzweizXRyMzWdEjFV8QtcJcVGd0MM1HfNGyLb7JXcyBITPYUo4FmvpxTHT4eiQlapIRm5hO/repqcAV/+Vd0qnxZsZLfQq1L16dM68jfA6TfMTZ/3+6gKHOzyWe3ug3YP8+fHpk0MjyeAjntiWModJMNPEJJL1NRhhGA5XY0ZNLULn+auezbVZkyiHp0rnDvzBWbmr+Vtzseikef6XGI21t3RhBVss7Uk4L60LHqImVsL6vkxpOyadIOYx04awh5Lx7tM27zOb+Gyyrm61/6h3akw2sI0jetEZ4x4Vf7ITe0YiMJNIfR/g+MDe+C98X57zF12V+Ij5zwlE6xRc8lO5v9z5PJfbDbtFI0uYx59zbsGcgKZ9/prxoiZS89zfgBYS/IJs5ifXqrQMvmI066+d4eYV/i6rwcfi/xmnAB4ocmL/sD6OYasZqGDcoPDjgtLhKSxIqsVxXC2Rzt89afjdc27oOozXtUunc9GiFLcZ2karMRaJy1JI/rjmUTl/NFqKjSHlOFvTug==;u6ES4Xf7b1u73LFOwrOiRQ=="
 ---
 

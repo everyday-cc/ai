@@ -31,15 +31,6 @@ related:
       name: TheStreet.com
       domain: thestreet.com
     quality: 34
-  - title: "AI cannot be stopped, says Steve Wozniak; we must prepare for more convincing scams"
-    excerpt: "Steve Wozniak has been one of those to favor a more cautious approach, recently signing an open letter calling for AI development beyond GPT-4 to be paused. He does, though, appear to agree with both Hinton and Schmidhuber that AI’s progress cannot be stopped."
-    publishedDateTime: 2023-05-10T12:12:00Z
-    webUrl: "https://9to5mac.com/2023/05/10/ai-cannot-be-stopped/"
-    type: article
-    provider:
-      name: 9to5Mac
-      domain: 9to5mac.com
-    quality: 13
 
 secured: "S/bob7tUYvpBQAR1i/FrzmZxjRznceKV6cuvxR0LMHGUaLOmqaivdlHmSe0bfYS9JXk2hnYnoYg02vbl2xo9R4AkunnEpAOTheW7rUKNCntXvFZCLWE+zTQyin8Bdv7MsIQhv0uKl2WCHwc2hf0ciu6wuRRefJ/aWCYgLdYUlEqEBDU2m0wCjqKdUd6Ul0ASpo6L/R5bkUN2Tqb38iUZwTWf3mrYhbp8Ocl4Rf5Kc7p2o0VYqjNhAAiPmuXT41VKMGnt9RXRcO0xqIB5PUpG+KbiPQQ361dNn1wdkpd+1M54hn6T6h7hog6bfiwJ1tCCHsUaeuVzDnwfwos1i8W5c0l34SUP2ocvVnCBaHccv5k=;ZpY72aw1FJ7kYiV9xMjV2Q=="
 ---

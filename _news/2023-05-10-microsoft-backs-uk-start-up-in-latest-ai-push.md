@@ -283,15 +283,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 42
-  - title: "AWS and Microsoft partner acquires data service firm Forecast"
-    excerpt: "AWS and Microsoft partner Kin+Carta has acquired data service provider Forecast Data Services with the aim of strengthening its global enterprise data and AI services. Edinburgh-based Forecast, which also has a delivery hub in Poland,"
-    publishedDateTime: 2023-05-10T12:35:00Z
-    webUrl: "https://www.channelweb.co.uk/news/4114587/aws-microsoft-partner-acquires-service-firm-forecast"
-    type: article
-    provider:
-      name: CRN
-      domain: channelweb.co.uk
-    quality: 36
   - title: "Google unveils AI-powered search engine to rival Microsoft’s Bing"
     excerpt: "Google has been scrambling to catch up with Microsoft on consumer AI products. In February, Microsoft beat its rival to the punch by unveiling an AI-driven Bing search engine using OpenAI’s GPT technology. A month later, OpenAI revealed its language model, GPT-4, which users can access through a premium version of ChatGPT and via Bing."
     publishedDateTime: 2023-05-10T18:00:00Z

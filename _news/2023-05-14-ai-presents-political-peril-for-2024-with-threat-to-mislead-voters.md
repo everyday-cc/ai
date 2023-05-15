@@ -42,15 +42,17 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "AI presents political peril for 2024 with threat to mislead voters: 'We're not prepared for this'"
-    excerpt: "The threat posed by AI and so-called deepfakes always seemed a year or two away. No more. Sophisticated generative AI tools can now create cloned human voices and hyper-realistic images, videos and audio in seconds,"
-    publishedDateTime: 2023-05-14T16:45:00Z
-    webUrl: "https://www.mysanantonio.com/news/politics/article/ai-presents-political-peril-for-2024-with-threat-18098456.php"
+  - title: "AI presents political peril for 2024 with threat to mislead voters: ‘We’re not prepared for this’"
+    excerpt: "Thanks to recent advances in artificial intelligence, tools that can create lifelike photos, video and audio are now cheap and readily available."
+    publishedDateTime: 2023-05-14T11:45:00Z
+    webUrl: "https://www.seattletimes.com/business/ai-presents-political-peril-for-2024-with-threat-to-mislead-voters-were-not-prepared-for-this/"
+    ampWebUrl: "https://www.seattletimes.com/business/ai-presents-political-peril-for-2024-with-threat-to-mislead-voters-were-not-prepared-for-this/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/ai-presents-political-peril-for-2024-with-threat-to-mislead-voters-were-not-prepared-for-this/?amp=1"
     type: article
     provider:
-      name: San Antonio Express-News
-      domain: mysanantonio.com
-    quality: 4
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 24
 
 secured: "4fT06Zav1EiPRPYHn7IwkPPOfEo9TfO63TXF0vuwycoC1QzvIwCT9GcYv7sNxHxw3ojlWCAruAsmIzSBu+4H8UOSDcsOs3noaafhQcPtDA3CU1oGggvpkrAw+qPRVZx6eyo9Z0qAjB+evW3uNDBgByRq9sev+hYH95OPz0qNzbYwBhfs4IKqITqo1Ip1nmFQNsofxA1KPQfh3IdQfwEpTb/JHOu6fU0F9MSab9Vj3x819gpDJGaZkZFRH8nUDu6dyBYh3vKndKeQLbGkoSDRN7dxsIBm5LIwOn5/YkJos3tWis281Rtitb8ELweNPX6Y6vciuyWbUBEiVf/n2HiUPCTqLPfITu3IbENMxu1oed2gWOOyr9558CNVe4eUEOgPIdb1AHWuxRdxyNZajD2YWVkAk9L2WOuiszBP/ZQazTOYJuOo4ov2a8loXHLKpY0uMjwKgQWDMMRj+L+AsXJd/MVM2R++U2vCISjBbSZp5MjkUfJZegTPKoXAoOpmFAvpWCd8cnipgfHk9h42RkT3xQ==;k4eT1BIuRM0Ir8i/amVkXw=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.computerworld.com/article/3696275/ibms-watsonx-could-be-
 cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3696275/ibms-watsonx-could-be-a-generative-ai-game-changer.amp.html"
 type: article
 quality: 74
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -80,15 +80,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "IBM unveils Watsonx to bring generative AI to the enterprise"
-    excerpt: "The US tech giant is jumping into the generative AI market promising to \"power next generation foundation models\" for businesses. This week IBM announced"
-    publishedDateTime: 2023-05-10T11:35:00Z
-    webUrl: "https://www.techzine.eu/news/applications/105787/ibm-unveils-watsonx-to-bring-generative-ai-to-the-enterprise/"
-    type: article
-    provider:
-      name: techzine
-      domain: techzine.eu
-    quality: 34
 
 secured: "btiUsJIxQEd6bJWq74FioETXp5uqhQfqMe6lTigVjUYXAHqN5FyXRTGbMGdJ3H/0SSJyNGup9CldH29OsYdk/kcXhwsWAzOi8g9dHLxhbR66aRqTTuRCtA+SeiMk+Bz0LI4aegtOod10cK2E/jI3JlvqjF2+jNZd13587fxubJI7tCHR5zP06dK7jh8Z2mXG+qzwHFIMt+6QGjM3hDIYPat2MhM+k/8Odg3CplDt6L47RttAqdpxYzrghGXGosUUBxHizoVCqe0WDVdvDUZj6ZWWpkvaiHXMfFEsVuAiw2E4YwwNqkeGV4F8T3dtkhfI6OULY7cmSS8id1O7x76F9MmXPbeTOXCk5nC+8oEcwUwEkQBdEuYIDNJly7VS7mNidce1Gq9q6422oPiOYFeOYtkOBOVVxsrIcqOw5eMdHo+wH5tkF9Jrum41tWH/Q1KGM9JaV5jvH5Hn1JHl77f7S2bccySqLEMIYGUchH4D/bI9c2Elqy4hIjtNTvY1SPKOaymTTLlJjZj9v85nI5XCFA==;cRynF3J6IYTpJY4ohDPdlA=="
 ---

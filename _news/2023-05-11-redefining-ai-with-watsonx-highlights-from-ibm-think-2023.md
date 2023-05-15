@@ -81,15 +81,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "IBM unveils Watsonx to bring generative AI to the enterprise"
-    excerpt: "The US tech giant is jumping into the generative AI market promising to \"power next generation foundation models\" for businesses. This week IBM announced"
-    publishedDateTime: 2023-05-10T11:35:00Z
-    webUrl: "https://www.techzine.eu/news/applications/105787/ibm-unveils-watsonx-to-bring-generative-ai-to-the-enterprise/"
-    type: article
-    provider:
-      name: techzine
-      domain: techzine.eu
-    quality: 34
 
 secured: "QTSmIzw/AN8iT85Xf6woYIeAu9iajJzhMdKgJcCUIf8zIVVwPv8S0YPRb7jKF7LNOTR+XCnxaWETa8RA2hKl9uMoLkhCYU8EScp2f7qbMTrxC6fAfczBcx2VvN+EyvB3lZomlSIkpagywa/1gNbxerUp//fg6kHbZXyeRRiSZyyhoB3FArvv7xgIO1YQJEyNn0kEJSEA8fWL4OCi8Uke4jrTmUsVjUicSEfn82feUAJafc8l0JgE5rxb2JT2myYXTKJznKF5sZyfKwFXspmeXCBSoko42lIOzKk4i89vOXVAcctE/mElAC2NHo8ZOYo9U1BFs4V87xtBzbVmCg2IBcm2PN8/MT0kWYYVJj4O3NLHT2XIqd8S9kEO3QyehTng/xxjxiTuDjD8InpeVg3NZL124lAwfpk7tC5n80eNvnKuC+72wJRW+G25eQGH14kaahXVHgCPRQTPKgRpL/QkkBWcsZhjcwFGXtN3X01HQxm68B3WRHgxmd1bm5vrEmAs/i4oiZ2ep+jNxAhcA8hGkg==;MF81YZWoZoEKCjqoWpGjGw=="
 ---

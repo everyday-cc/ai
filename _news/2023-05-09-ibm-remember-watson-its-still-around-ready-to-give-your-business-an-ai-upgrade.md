@@ -1,10 +1,10 @@
 ---
 category: news
 title: "IBM: Remember Watson? It's Still Around, Ready to Give Your Business an AI Upgrade"
-excerpt: "With the near overnight success and popularity of ChatGPT, IBM decided to turn Watson into an AI platform any company can integrate into their existing workflows, as well as havin"
+excerpt: "IBM has a new AI and data platform called Watsonx (Opens in a new window) aimed at making it easy for enterprises to take advantage of artificial intelligence. The name Watson fir"
 publishedDateTime: 2023-05-09T13:03:00Z
-originalUrl: "https://uk.pcmag.com/news/146744/ibm-remember-watson-its-still-around-ready-to-give-your-business-an-ai-upgrade"
-webUrl: "https://uk.pcmag.com/news/146744/ibm-remember-watson-its-still-around-ready-to-give-your-business-an-ai-upgrade"
+originalUrl: "https://www.pcmag.com/news/ibm-remember-watson-its-still-around-ready-to-give-your-business-an-ai"
+webUrl: "https://www.pcmag.com/news/ibm-remember-watson-its-still-around-ready-to-give-your-business-an-ai"
 type: article
 
 provider:
@@ -20,11 +20,11 @@ topics:
   - AI
 
 images:
-  - url: "https://sm.pcmag.com/t/pcmag_uk/news/i/ibm-rememb/ibm-remember-watson-its-still-around-ready-to-give-your-busi_jzsu.1200.jpg"
-    width: 1200
-    height: 675
+  - url: "https://i.pcmag.com/imagery/articles/04mhwYeYHQqvpDeM7PqS7i0-1.fit_lim.size_1200x630.v1683633314.jpg"
+    width: 1120
+    height: 630
     isCached: true
 
-secured: "Kmv2EAWya8ZZPettHER4dOpgqVmjMR7q6a6V/WI+rXUGRP5lXGixy2zsUSdpfBcHPRICWpiTHPkHNkh9n1XsFGxgUON0er6z26LUZPxIJ2Q5mwbCldMqwLmTUObvQ2+BGQ7lOQLKeLspG+oSuMYpDk5dEUNpOWOlYRkSvk+vvuJgWLYStq9AhtKNH5kA8nxraPV//h46Tewn0zKVsgp15UKG5oGiIyL8RI8PE6fYVCUJ0zoOyGGagJUcQXWyf75T4G+JgTEW3t8lOUX4qgV3WXcb9NPdyJUBPHVe+svcEjP53LOQfDvCOe/p8UI+4634u3ZO/sHbTKnRokuqdYHc4n+46VGyHHYw+3IN3nw0vng=;gs8Ccumd6vJDsaf6yny4zw=="
+secured: "nBIYVbJgugyDYSSgeaoDSR9+c3cUUoQ9Hu3rcXLZmPwMc3uKfMn2IqtU8MrKSCJ43smU4YuFrHYYpgof2vorCRo876vD4MUJRgAoeev4kh+mMs4mWRh5+7o3wi6TiYoCY3axFroJNZslMEH0htrxqEVA7NT2tlSRGbqYaAtygHl02hdgzKgL0iy8SiH0L25cf2WugZcE/22mCoFwMlgZf7GLvLbAFAbIF+wdsIPIGJwN/lHuI+1bhpmwoxlmKrGB4PlMuZA7fGyqPwXs6kwSEkHXR34Pb+VpUTXr8t+JroNx8sMqoAT8jj9/DGzNOGr8eTOl4nutQ86ioQOvLzsnUgbnNKxfgV6SQ9drhwLOUd0=;XkUgAx/teC59KmyrnF2D7g=="
 ---
 

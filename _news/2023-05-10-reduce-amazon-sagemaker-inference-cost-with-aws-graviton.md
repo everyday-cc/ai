@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/reduce-amazon-sagema
 webUrl: "https://aws.amazon.com/blogs/machine-learning/reduce-amazon-sagemaker-inference-cost-with-aws-graviton/"
 type: article
 quality: 104
-heat: 134
+heat: 124
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/05/12/featured-images-ml-14339.jpg"
         width: 1024
         height: 576
-        isCached: true
-  - title: "Schedule your notebooks from any JupyterLab environment using the Amazon SageMaker JupyterLab extension"
-    excerpt: "Jupyter notebooks are highly favored by data scientists for their ability to interactively process data, build ML models, and test these models by making inferences on data. However, there are scenarios in which data scientists may prefer to transition from interactive development on notebooks to batch"
-    publishedDateTime: 2023-05-10T11:53:50Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/schedule-your-notebooks-from-any-jupyterlab-environment-using-the-amazon-sagemaker-jupyterlab-extension/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 73
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/05/09/jupyter-scheduling-1260x626.jpg"
-        width: 1260
-        height: 626
         isCached: true
   - title: "Operationalize ML models built in Amazon SageMaker Canvas to production using the Amazon SageMaker Model Registry"
     excerpt: "You can now register machine learning (ML) models built in Amazon SageMaker Canvas with a single click to the Amazon SageMaker Model Registry, enabling you to operationalize ML models in production. Canvas is a visual interface that enables business analysts to generate accurate ML predictions on their"

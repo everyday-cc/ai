@@ -33,20 +33,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Self-Driving Car Market: Introspective Market Research Reveals Why this Market is Expected to Reach USD 37.38 Billion by 2028 at a CAGR of 2.5%"
-    excerpt: "The global Self-Driving Car market was estimated at USD 31.45 billion in 2021 and is projected to reach 37.38 billion by the end of 2028, growing at a CAGR of 2.5% over the analysis period. A Self-Driving Car or an autonomous car is a vehicle equipped with sensors,"
-    publishedDateTime: 2023-05-10T12:40:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-car-market-introspective-market-research-reveals-why-this-market-is-expected-to-reach-usd-3738-billion-by-2028-at-a-cagr-of-25-2023-05-10"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 18
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Automated Machine Learning (AutoML) Market worth $6.4 billion by 2028 - Exclusive Report by MarketsandMarkets™"
     excerpt: "The market for automated machine learning (AutoML) appears to have a bright future thanks to rising acceptance, technological breakthroughs, integration with other developing technologies, and an emphasis on customisation and personalization."
     publishedDateTime: 2023-05-12T17:25:00Z
@@ -57,6 +43,6 @@ related:
       domain: tmcnet.com
     quality: 14
 
-secured: "P54rkNS599Zk/dyZDGLgfMhuiX22mK020jn0W382Vs9BRFbQUr3T9Ths1y67x+Q6jJGEUodZTeminxbfF1JkY3Uom5LrSGJjji1kZjqPRNArXl8/FmPNZWpXlFRTTWnMYlKWvTtMNciJjDMNBGZifhOuhuWvA/mc+zqYlY6D7Wf2morLx4a0Z3R86/bTaImm2IY1nqtuTbmC+9SiE6dZLmjIgKiHSahXdNTw5DvNGZNbWv53ReeVjPLnbFjnKmUcU6rdHojyM1biVzKoHPagUJsCs5h/+pvAK2Yt0yz+Pv7YMbJBOqSb2WLzK9CLk0GsO1ZkjVNXZp5bMpg34MhtG8mpDkESyvgwyGW8aHhyLHM=;sAGn2KVfMrVeHChcSFK1/A=="
+secured: "YBcV7emBMSqYiXjYOPUDGg4LGXK40hitJzzBERFsusvl0eotrAUDEQrWbGxh44sWlSHUN2PiZw2NIsoDx8wYGqfBUeW3H6tE+KaWNFQxmpVeTHUamqaPP4rlwU4wcaNJsQXAmhoRDGEOstcrVE7iKkw4609efuhnjHknpuR6eh38fzqSd6WaNZnrfpd3rOEdLc7UDIasQxaWn9+pqk7qfMM9kNtOWBKygzzoIAbz5nIYV7BfMDQUbGEKmiu1W4Y05qWH5yO+GNfHIvGd5sx8Hw/TJ1p7WtHvcjdBFR56pBFSSuprD/mOQZzLX4g/01lh6OvLvOWjSt87aEiHRxj5q+MG+9tUMYviY4ezvk/WorE=;4Rc+29ECQybVQtfTY9AiyA=="
 ---
 

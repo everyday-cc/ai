@@ -30,15 +30,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 37
-  - title: "AI cannot be stopped, says Steve Wozniak; we must prepare for more convincing scams"
-    excerpt: "Steve Wozniak has been one of those to favor a more cautious approach, recently signing an open letter calling for AI development beyond GPT-4 to be paused. He does, though, appear to agree with both Hinton and Schmidhuber that AI’s progress cannot be stopped."
-    publishedDateTime: 2023-05-10T12:12:00Z
-    webUrl: "https://9to5mac.com/2023/05/10/ai-cannot-be-stopped/"
-    type: article
-    provider:
-      name: 9to5Mac
-      domain: 9to5mac.com
-    quality: 13
 
 secured: "UVfUqdYcAPH/7kJfZyiY3OkEmJ6z93/mRRGVYcc1nkCOMDWReZXsdJKQQMBK6XNmguSIFsFlCZieOaQTX60BGDXOHLn6XiHb8u3yfcESCWq6AOzXly9/btgo0mK1VhuJhzY0d5cxiyELZucGBa4pyidQVabaPVfrVGLZDB3yCA55DidCvG7fB6bcomVa1tH0pyaWoIiiDAzkcQAnXLI/tWLU928QrF3ADjKLt1vscsBVVJ/yYq+/3RIbjNFNKCXQAeiWJJ/3o6NXcy5bhfIFUBBtenJGc3PFOw2TMRLsh3kIweZ+//KhLiXg4stfsrTlRbTM9pWBbqQ5bfGG++mDOQFxgH9eA2G56mvq6NBjMIpqIkqYG0788P97ET7htIBHBGnt1hmpON/84lWkDGAyZt3HWmFbMNAR1wcxqd9S9ipEDp3Qy7nlUozeScGbtd213ncNaBLIkaXNNML9FMKqlxJ+dZOH5AILZxf2zGu+YCMYs+rgD7+1690PbXpPWCos853b+/krKQ/cB9XmrsgQag==;HMcqrPXgQJHoPXMyY+BvAA=="
 ---

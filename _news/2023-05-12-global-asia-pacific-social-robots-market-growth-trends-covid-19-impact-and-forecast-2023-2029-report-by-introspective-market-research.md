@@ -29,29 +29,29 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence in Medication Management Market Report, Trends, Growth, Size, Share, and Forecast 2028"
-    excerpt: "Get a Sample of the Artificial Intelligence in Medication Management Market Report @  Artificial Intelligence in Medication Management Market is rapidly growing with a CAGR of 22.3% from 2022 to 2028."
-    publishedDateTime: 2023-05-11T12:09:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-medication-management-market-report-trends-growth-size-share-and-forecast-2028-2023-05-11"
+  - title: "Global Cooking Robot Market - Growth, Trends, Covid-19 Impact, and Forecast (2023 - 2029) - Report By Introspective Market Research"
+    excerpt: "Global Cooking Robot Market is expected to grow at a significant growth rate, and the analysis period is 2022-2028, considering the base year as 2021. Cooking is one of the most important activities that take place in the house,"
+    publishedDateTime: 2023-05-12T11:05:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-cooking-robot-market---growth-trends-covid-19-impact-and-forecast-2023---2029---report-by-introspective-market-research-2023-05-12"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 49
+    quality: 39
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "2023 Face Recognition Paper Picker Market Size and Trend Analysis in Machinery & Equipment Sector | with [91 Pages] and Forecast till 2031"
-    excerpt: "May 11, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" The size of the global “Face"
-    publishedDateTime: 2023-05-11T07:09:00Z
-    webUrl: "https://www.marketwatch.com/press-release/2023-face-recognition-paper-picker-market-size-and-trend-analysis-in-machinery-equipment-sector-with-91-pages-and-forecast-till-2031-2023-05-11"
+  - title: "Servo Motors and Drives Market – Global Industry Analysis and Forecast 2029- Report By Introspective Market Research"
+    excerpt: "It is servomechanism-controlled; therefore, it is controllable. Moreover, a rather complex controller is needed, often a module made expressly for servomotor use. Robotics ... is written with a specific goal in mind to give business insights and ..."
+    publishedDateTime: 2023-05-11T23:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/servo-motors-and-drives-market-global-industry-analysis-and-forecast-2029--report-by-introspective-market-research-2023-05-11"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 35
+    quality: 31
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

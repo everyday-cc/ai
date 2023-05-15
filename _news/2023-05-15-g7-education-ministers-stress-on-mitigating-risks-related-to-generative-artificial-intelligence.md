@@ -256,15 +256,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Google Expected To Shake Up Search With New AI Products"
-    excerpt: "Google is expected to announce a more conversational version of its flagship search engine, fueled by artificial intelligence. The efforts to overhaul its search business with AI, set to be unveiled Wednesday at the company’s I/O conference in Mountain View,"
-    publishedDateTime: 2023-05-10T12:00:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-05-10/google-expected-to-shake-up-search-with-new-ai-products"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 47
   - title: "Google Just Added Generative AI to Search"
     excerpt: "Challenged by ChatGPT, the king of search launches a feature that can answer queries with text summarizing information found online."
     publishedDateTime: 2023-05-10T17:59:00Z
@@ -344,15 +335,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Research Training Group is forging new paths in Artificial Intelligence"
-    excerpt: "A new Research Training Group (RTG) at Saarland University will develop approaches aimed at making Artificial Intelligence more trustworthy and comprehensible. The German Research Foundation will be funding the new RTG over the next five years with around €7."
-    publishedDateTime: 2023-05-10T11:46:00Z
-    webUrl: "https://idw-online.de/en/news814099"
-    type: article
-    provider:
-      name: idw
-      domain: idw-online.de
-    quality: 34
   - title: "Google is throwing generative AI at everything"
     excerpt: "But experts say that releasing these models into the wild before fixing their flaws could prove extremely risky for the company."
     publishedDateTime: 2023-05-10T19:00:00Z

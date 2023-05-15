@@ -3,10 +3,10 @@ category: news
 title: "ChatGPT: The game-changing AI-language model and its implications on enterprise automation"
 excerpt: "ChatGPT has gained global attention and recognition, yet its impact on enterprise automation remains an area not fully explored. Analyzing it from the standpoint of intelligent automation can reveal its potential impact on the"
 publishedDateTime: 2023-05-14T10:03:00Z
-originalUrl: "https://timesofindia.indiatimes.com/blogs/voices/chatgpt-the-game-changing-ai-language-model-and-its-implications-on-enterprise-automation/"
-webUrl: "https://timesofindia.indiatimes.com/blogs/voices/chatgpt-the-game-changing-ai-language-model-and-its-implications-on-enterprise-automation/"
-ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/chatgpt-the-game-changing-ai-language-model-and-its-implications-on-enterprise-automation/"
-cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/chatgpt-the-game-changing-ai-language-model-and-its-implications-on-enterprise-automation/"
+originalUrl: "https://timesofindia.indiatimes.com/blogs/voices/chatgpt-the-game-changing-ai-language-model-and-its-implications-on-enterprise-automation/?source=app&frmapp=yes"
+webUrl: "https://timesofindia.indiatimes.com/blogs/voices/chatgpt-the-game-changing-ai-language-model-and-its-implications-on-enterprise-automation/?source=app&frmapp=yes"
+ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/chatgpt-the-game-changing-ai-language-model-and-its-implications-on-enterprise-automation/?source=app&frmapp=yes"
+cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/chatgpt-the-game-changing-ai-language-model-and-its-implications-on-enterprise-automation/?source=app&frmapp=yes"
 type: article
 quality: 49
 heat: -1
@@ -294,6 +294,6 @@ related:
       domain: usatoday.com
     quality: 7
 
-secured: "LpXU3SkgLs7UmFELGo/dkPfUVq1oUaw4Ekd+fkvxHeaL/65TZv1E2628CH90o/f1mkH/04jdWRgQo7k3mIVVGV4D+9HRRDXadtfEB1Z6+R8QoNi7dpZT3Avjk1qj9trXJ530VCtLpK4Mk29d2Dn/3OKSyrY7clRPzeNiK4hlNMs7n5hxNFt5jgM5V/qdNwCLHsSMYQ+iJR2bUnH0TrpANRn4IVSWVPkkqHkdXm9YwsPA4YOEuIfVx+FXZDyxOFwWH57js3MZRgwgmI5lWEFQLALQATxxFKVRiv1AKTGnc2BfZgGCXw9N3JjUllF6Pxak31iNOenHnlmEsnNSzmQ9bK7BwJ6hRIszr3SMQg4GXLs=;M5Viud8aJE1cfYJ+aSxNjw=="
+secured: "ZWS5f/ozC1tQ9EyKlkzCnqmqfFheoH7OgXlI8Ik9pMnNn0EtX/PDqKrXixk5ARL4SBWN1flrp5avcvepMIZihRw0h6TWimUKMKqPia1wAS3U7+aiQCszG78DfOYysXYAzgKD7OleOabeL4hFtfTzk4j1t1Z5QDu4p1IpyeW6z47MJ7w9sR6wA2AcomgIdjXTU172nfVfhVCbdzRfkoLPkvt6sy/z7xweVeEPvnxa5YnQlo1pr+n7ggpnAOiJHAsEGC2ffHJSw0Qy9dZplAR4c803yxYSjVvg9o7QcjhGZpss5BAnBvh4cQBXLC0G2o9L23uuxiNye9RNT/5edwpdsRzuFzbYpaUoALPAI1yOLz8=;QmaQUjEDbxx/pjWfFjpX9A=="
 ---
 

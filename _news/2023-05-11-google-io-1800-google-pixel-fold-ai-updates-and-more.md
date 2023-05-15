@@ -124,15 +124,6 @@ related:
       name: CNET
       domain: cnet.com
     quality: 45
-  - title: "Google I/O 2023 Live Blog: Pixel, Nest and Bard AI Reveals Expected at May 10 Keynote"
-    excerpt: "Google's developer conference will feature plenty of new devices and likely new AI reveals, too."
-    publishedDateTime: 2023-05-10T12:30:00Z
-    webUrl: "https://www.cnet.com/news-live/google-io-2023-live-blog-pixel-nest-and-bard-ai-reveals-expected-at-may-10-keynote/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 40
   - title: "New AI Features, the Pixel Fold, and More Updates From This Year's Google I/O"
     excerpt: "Google I/O is the company’s big spring event, where it can show off new software and hardware customers and developers alike can look forward to. This year’s I/O was over two hours long, and was almost all about AI."
     publishedDateTime: 2023-05-10T21:30:00Z

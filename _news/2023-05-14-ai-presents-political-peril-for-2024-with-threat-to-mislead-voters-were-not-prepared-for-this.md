@@ -1,18 +1,20 @@
 ---
 category: news
-title: "AI presents political peril for 2024 with threat to mislead voters: 'We're not prepared for this'"
-excerpt: "The threat posed by AI and so-called deepfakes always seemed a year or two away. No more. Sophisticated generative AI tools can now create cloned human voices and hyper-realistic images, videos and audio in seconds,"
-publishedDateTime: 2023-05-14T16:45:00Z
-originalUrl: "https://www.mysanantonio.com/news/politics/article/ai-presents-political-peril-for-2024-with-threat-18098456.php"
-webUrl: "https://www.mysanantonio.com/news/politics/article/ai-presents-political-peril-for-2024-with-threat-18098456.php"
+title: "AI presents political peril for 2024 with threat to mislead voters: ‘We’re not prepared for this’"
+excerpt: "Thanks to recent advances in artificial intelligence, tools that can create lifelike photos, video and audio are now cheap and readily available."
+publishedDateTime: 2023-05-14T11:45:00Z
+originalUrl: "https://www.seattletimes.com/business/ai-presents-political-peril-for-2024-with-threat-to-mislead-voters-were-not-prepared-for-this/"
+webUrl: "https://www.seattletimes.com/business/ai-presents-political-peril-for-2024-with-threat-to-mislead-voters-were-not-prepared-for-this/"
+ampWebUrl: "https://www.seattletimes.com/business/ai-presents-political-peril-for-2024-with-threat-to-mislead-voters-were-not-prepared-for-this/?amp=1"
+cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/ai-presents-political-peril-for-2024-with-threat-to-mislead-voters-were-not-prepared-for-this/?amp=1"
 type: article
-quality: 4
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: San Antonio Express-News
-  domain: mysanantonio.com
+  name: Seattle Times
+  domain: seattletimes.com
 
 topics:
   - AI
@@ -51,6 +53,6 @@ related:
         height: 682
         isCached: true
 
-secured: "z5KSOMkST70WVzGdsUXSH7iJhqQed68n3ZWAHs0j7VqBjtZ1EYxYwB1kWWfVNkeXy7GUwmdPbMLKdUFHJaxsLjwXj62GE0rqJZcexpGCQnRhWmSzNkABVbDS9J5/L+L5Jgw5Mayq3FXl9aeGq+FUOina1Fsqigz791JNLIBxUs7rqCIhOcgkOnMiCN0zaCHavmE+ihaVpdxt22o8J3/tdifHCz/CM1rnf0W/db0x6OYCHnRmhVb0zwt88NNOm48sjBu5hjoFMBJzdj5nL07ij/2XrlzAaIWY9l/3IXXQnLd16DZQndQseWVYGXh47scNbfoq5nVMsEBaWoHes5mgU20LrMjP8trmm9wEDy/y8blqPFU2/lnnLnTbV1sPTpFiFJYd+vR8j5Ia/WEiBszBMFuCbuc4qI+cmuu35oyuKiQHXzDXim5y0LK1evWyVWrl06GuqGx18ht98303SUz9G7FB9GXWhERnbF+o8WdMsfo74ZqiPKRhN1acKkQHw8jbDD1V8kdxkJ7EtqVQ+IWBuA==;/HDtucs80XieE30RpyyzgQ=="
+secured: "ZnNuWl8onvv4cADkix/ESDUSr8Fw7sPscdIVp4BH2cyez2zNNuKItKTSV/AKZ0+zc7V07ppG7VvgQc5+yA0fj/mp1OEEi2ip6AmkaeoS9xqZIR0CMwXvy66oXIn+9acHWjgdzvO+pUVeNxrGs1OGaFT5KJ+QuIKFd3FIddbNbnJA04s9QjKLce0sJ9iD6e5Ga0cJTvAbYkh1AQgmc2QWpsvILONy5CdV7TkUZxSMGQami49cWI7aQpAxX5cvd2SlUKQuaTxQtVlQN1XURDKZu4IASton7viDX/tA3vgqPUoV4BtXeDiN8bogFXcnAy4wJpIxtAKPzto6vdq9PwJhwTsL9nocxZBNCx76hpnRRYx+R9mE0Z6N02MZNoxxij6H2tIYKssshocvqsLBNAOvV1wUW1WKm9UQRzxBbuk6ocyCQSo8Tn3KNfcNwF5smunBV1Ixb6B54zUa1+roJ3y2hvEM0hyhLQFVtrKmslK+J/qkCr3/AedapNIBcARnaJvUQEIQxBeTuATorcfJTv4Jpw==;tepJwnUCT9p9eZ6LMseGWg=="
 ---
 

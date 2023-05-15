@@ -29,34 +29,136 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence in Medication Management Market Report, Trends, Growth, Size, Share, and Forecast 2028"
-    excerpt: "Get a Sample of the Artificial Intelligence in Medication Management Market Report @  Artificial Intelligence in Medication Management Market is rapidly growing with a CAGR of 22.3% from 2022 to 2028."
-    publishedDateTime: 2023-05-11T12:09:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-medication-management-market-report-trends-growth-size-share-and-forecast-2028-2023-05-11"
+  - title: "Face Recognition Systems Market | Worldwide Industry Trends 2023-2030"
+    excerpt: "The report offers essential statistical information on the market status of Face Recognition Systems players, making it"
+    publishedDateTime: 2023-05-11T10:41:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-systems-market-worldwide-industry-trends-2023-2030-2023-05-11"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 49
+    quality: 69
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Asia Pacific Social Robots Market - Growth, Trends, Covid-19 Impact, and Forecast (2023 - 2029) - Report By Introspective Market Research"
-    excerpt: "The Asia Pacific Social Robots Market is expected to grow at a significant growth rate, and the forecast period is 2022-2028, considering the base year as 2021. Social robots are robots that have been physically personified as social creatures."
-    publishedDateTime: 2023-05-12T10:58:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-asia-pacific-social-robots-market---growth-trends-covid-19-impact-and-forecast-2023---2029---report-by-introspective-market-research-2023-05-12"
+  - title: "Mobile Speech Recognition Software Market | 2030"
+    excerpt: "The Global Mobile Speech Recognition Software market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players,"
+    publishedDateTime: 2023-05-12T02:53:00Z
+    webUrl: "https://www.marketwatch.com/press-release/mobile-speech-recognition-software-market-2030-2023-05-11"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 32
+    quality: 69
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
+  - title: "Speech Recognition Software Market Till 2030"
+    excerpt: "The Global Speech Recognition Software market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players,"
+    publishedDateTime: 2023-05-12T13:19:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-recognition-software-market-till-2030-2023-05-12"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Construction Market | 2030"
+    excerpt: "The Global Artificial Intelligence in Construction market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key ..."
+    publishedDateTime: 2023-05-15T01:09:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-construction-market-2030-2023-05-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 67
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Computer Vision System Market 2023 to Hit Significant Value by 2030| Research Reports World"
+    excerpt: "The Computer Vision System Market Scope and Overview Report for 2023 presents a detailed analysis of the latest trends"
+    publishedDateTime: 2023-05-11T08:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/computer-vision-system-market-2023-to-hit-significant-value-by-2030-research-reports-world-2023-05-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 59
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "The Prospects of Image Recognition in Retail Market 2023: Industry Trends and Challenges till 2030"
+    excerpt: "A recent study report named \" Image Recognition in Retail Market \" offers a thorough analysis of the market's development potential, potential for revenue generation, and current trends through 2028."
+    publishedDateTime: 2023-05-11T08:51:00Z
+    webUrl: "https://www.marketwatch.com/press-release/the-prospects-of-image-recognition-in-retail-market-2023-industry-trends-and-challenges-till-2030-2023-05-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 55
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Facial Recognition Access Control Solutions Market 2023-2030 with Emerging Trends and Technologies"
+    excerpt: "Additionally, the report [117 Pages] examines emerging technological developments and RandD spending by key vendors. It comprehensively covers critical elements such as global Facial Recognition Access Control Solutions market share,"
+    publishedDateTime: 2023-05-11T17:53:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-access-control-solutions-market-2023-2030-with-emerging-trends-and-technologies-2023-05-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 55
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Hybrid Voice Recognition System Market 2023 Thriving at a Tremendous Growth till 2030"
+    excerpt: "The Hybrid Voice Recognition System Market Report by Type (BEV, ICE, Others) and by Application (Economy Vehicles, Mid-Priced Vehicles, Luxury Vehicles) forecast is offered along with info related to key drivers,"
+    publishedDateTime: 2023-05-10T13:08:00Z
+    webUrl: "https://www.marketwatch.com/press-release/hybrid-voice-recognition-system-market-2023-thriving-at-a-tremendous-growth-till-2030-2023-05-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 47
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Face Recognition Software Market 2023 Growth Possibilities, Analysis and Forecast To 2030"
+    excerpt: "The Face Recognition Software Market Report by Type (Holistic Matching Method, Feature-based Method, Skin Texture Analysis, Hybrid Types, Other) and by Application (Corporate and Residential Security,"
+    publishedDateTime: 2023-05-11T11:22:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-software-market-2023-growth-possibilities-analysis-and-forecast-to-2030-2023-05-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 40
+  - title: "Analysis the CAGR growth on the Global Speech & Voice Recognition Systems Market and the Market size is growing at a CAGR of 13.9% from 2023 - 2030"
+    excerpt: "The global Speech & Voice Recognition Systems market has seen significant growth in recent years, driven by increasing demand from various industries. Technological advancements, increasing consumer awareness,"
+    publishedDateTime: 2023-05-13T13:25:00Z
+    webUrl: "https://www.marketwatch.com/press-release/analysis-the-cagr-growth-on-the-global-speech-voice-recognition-systems-market-and-the-market-size-is-growing-at-a-cagr-of-139-from-2023---2030-2023-05-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 0
 
 secured: "1gG157+xewqLCwNL5M0mKmYwkbKW9oNNyYEzO4o3TPVkubo5dk2iiNsH7SB0+hXCD2zlvn0chp6vnodju1+k2Tm8J7DIxPvz4mzmWPPCmtbfBRI1+OhUsoAoGBwfeNwQx6eGTQwij4HFWlWpCMRbreKp9gMB1513U4lz0uFb1JHXD4KERPqgUijKRQab0+ycWAWupm7aY6u865edHefibIzhwZZGKtShvFJ3mdS5OTZtla3vgwNBkAdm6C7GYUSoBgjp0Mapz4xfIzQa0gjgZGnfFKLcAjbpUYCMA/F5wSvn4WApHIEAGtQMpGn/uXzUvx2qWI46GEexqf6ZTMX6Le9Zh8XWrZppvLAqI9huYSE=;bwvMYyt/NCUUhUeN7rlzAQ=="
 ---

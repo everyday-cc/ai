@@ -75,20 +75,6 @@ related:
         width: 1200
         height: 591
         isCached: true
-  - title: "Will New AI Features Electrify GOOGL Stock?"
-    excerpt: "Alphabet’s (NASDAQ:GOOGL)(NASDAQ:GOOG) annual developer conference, or Google I/O, is scheduled for May 10, and news is rife in the market"
-    publishedDateTime: 2023-05-10T11:16:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/will-new-ai-features-electrify-googl-stock-1032311946"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 67
-    images:
-      - url: "https://blog.tipranks.com/wp-content/uploads/2023/05/GOOGL-1.jpg?utm_source=markets.businessinsider.com&utm_medium=referral"
-        width: 912
-        height: 306
-        isCached: true
   - title: "Larry Magid: Google unveils new devices while focusing on AI"
     excerpt: "As I entered Shoreline Amphitheater on Wednesday, I thought I was attending Google IO – the company’s annual developers conference. But after listening to CEO Sundar Pichai and several other"
     publishedDateTime: 2023-05-11T01:49:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202305/live-facial-recognition-com
 webUrl: "https://www.biometricupdate.com/202305/live-facial-recognition-coming-to-chandigarh-india-security-center"
 type: article
 quality: 56
-heat: 66
+heat: 56
 published: false
 
 provider:
@@ -24,17 +24,6 @@ images:
     width: 2048
     height: 1333
     isCached: true
-
-related:
-  - title: "Chennai-based Innovative AI start-up is the winner of TiECON Chandigarh Shark Soiree 2023"
-    excerpt: "TiECON Chandigarh 2023 which is the largest entrepreneurial conclave in North India, held a Startup Shark Soiree event to boost investments in Indian start-ups. Out of the 50+ startups that applied, 12 were shortlisted to pitch among selected investors."
-    publishedDateTime: 2023-05-10T11:06:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Business/20230510/4072031.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 8
 
 secured: "++XTpuQBCACT7VXIx7Mj2R4mI49pMh9SmKyh9SQEf1ylWyLOGguxydlxLVINvLNmT3nTlTTcx9pqQUUG4WsPb0WO7uy8dYhxVa45UBtAzL8lGYBAeliu84/vZekGXfANjvY7t0sQx4KtSEm9/hVpmM9GwK5ODEBy6P6w0U+A7+UyWT10a9IilfrVetAYa7zMidcrIOPaUccuWuZx6zUBXpwWyqmk5CdFKgRbbGEuKzIA30rokwMW5+aHcz5X6ylNjoeiK1Q3hhgqm3JjOLXmuT6cdlbYudw6t+0kuO5CJpfzJe1r1R8H4Dj51T5A8hiZ4jALh1cJ55I9Mq/BoBWKoy1QEXmVexHWge/W808Eqf5Dd4jG02/DGVzufjz4dgxVSm8F4lVLXZHkWG0eMpBynellJ+WHNoc0wNSdGzH5DwXjQv9iqb/oDSExk2A+FpClKMT0NYQPP+PusMEzQVwB/gvBjfwKpnyTioHV1sroJMA0D77Jne9PttT+oTkxnSZlzdDnAPfNTffwSRGIRkTz/A==;6oPAljqGvZv744MeEpLrFg=="
 ---

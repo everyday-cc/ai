@@ -9,7 +9,7 @@ ampWebUrl: "https://ampe.vnexpress.net/news/business/companies/education-startup
 cdnAmpWebUrl: "https://ampe-vnexpress-net.cdn.ampproject.org/c/s/ampe.vnexpress.net/news/business/companies/education-startup-teky-raises-5m-from-foreign-investors-4603427.html"
 type: article
 quality: 76
-heat: 76
+heat: 86
 published: true
 
 provider:
@@ -26,6 +26,17 @@ images:
     width: 1199
     height: 719
     isCached: true
+
+related:
+  - title: "AI-based eye disease detection startup raises $18 million from US investors"
+    excerpt: "Eyetelligence uses AI technology and retinal imaging to screen for eye and other diseases, and will launch in the US as Optain."
+    publishedDateTime: 2023-05-15T02:55:00Z
+    webUrl: "https://www.startupdaily.net/topic/funding/ai-based-eye-disease-detection-startup-raises-18-million-from-us-investors/"
+    type: article
+    provider:
+      name: Startup Daily
+      domain: startupdaily.net
+    quality: 15
 
 secured: "RRa6Dp62xlSRcBJzBI9kyogdowuDwrvgA5Qu6V3mb1UEAX5DeNHYbybs//WBoLuni07CNBiyT3ZVvwA4MigN74Wk0E5MBkNw6/UKZ69kqef/YvIL3rhFn+fiegadyzU/wVHbNYr+MwXE56uEDO5zHDUaGk6fsDm0/xfkmmEk/Vvn1RcihPZRU9mMmHg05A3vEaQqt+tSlwB7lE3ZAqVVjJHntx4EshyRvAm5vomOPsYNfzL34UqmV+2ROBQDl1LRVSx6QNzNhKQs6jcYLvkLaZGkSTsxAT5A/g48Rd9HIvXQBXC7A9BWbByW4tmLNZCwq6iMgmwQmUsDtW4S7dHZ+IbY4H3zeIu/oGBxE1+/2Ig=;4i29iFYMlPxgPef0dK3VjQ=="
 ---

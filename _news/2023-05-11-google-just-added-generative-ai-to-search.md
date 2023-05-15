@@ -259,15 +259,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Google Expected To Shake Up Search With New AI Products"
-    excerpt: "Google is expected to announce a more conversational version of its flagship search engine, fueled by artificial intelligence. The efforts to overhaul its search business with AI, set to be unveiled Wednesday at the company’s I/O conference in Mountain View,"
-    publishedDateTime: 2023-05-10T12:00:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-05-10/google-expected-to-shake-up-search-with-new-ai-products"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 47
   - title: "IBM pins hybrid cloud strategy to generative AI play"
     excerpt: "The machine learning pioneer joins AWS, Microsoft and Google in the race to deploy the latest iteration of large language model technology."
     publishedDateTime: 2023-05-10T16:15:00Z
@@ -338,15 +329,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Research Training Group is forging new paths in Artificial Intelligence"
-    excerpt: "A new Research Training Group (RTG) at Saarland University will develop approaches aimed at making Artificial Intelligence more trustworthy and comprehensible. The German Research Foundation will be funding the new RTG over the next five years with around €7."
-    publishedDateTime: 2023-05-10T11:46:00Z
-    webUrl: "https://idw-online.de/en/news814099"
-    type: article
-    provider:
-      name: idw
-      domain: idw-online.de
-    quality: 34
   - title: "G7 education ministers stress on mitigating risks related to generative artificial intelligence"
     excerpt: "G7 Education Ministers agreed on the importance of continued understanding related to issues stemming from the fast-developing technology that has caught the attention of the public since the launch of ChatGPT by US firm OpenAI in November 2022."
     publishedDateTime: 2023-05-14T17:56:00Z

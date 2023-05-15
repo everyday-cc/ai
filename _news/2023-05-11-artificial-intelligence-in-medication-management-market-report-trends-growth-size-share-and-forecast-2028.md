@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-medication-management-market-report-trends-growth-size-share-and-forecast-2028-2023-05-11"
 type: article
 quality: 49
-heat: 49
+heat: -1
 published: false
 
 provider:
@@ -29,34 +29,43 @@ images:
     isCached: true
 
 related:
-  - title: "2023 Face Recognition Paper Picker Market Size and Trend Analysis in Machinery & Equipment Sector | with [91 Pages] and Forecast till 2031"
-    excerpt: "May 11, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" The size of the global “Face"
-    publishedDateTime: 2023-05-11T07:09:00Z
-    webUrl: "https://www.marketwatch.com/press-release/2023-face-recognition-paper-picker-market-size-and-trend-analysis-in-machinery-equipment-sector-with-91-pages-and-forecast-till-2031-2023-05-11"
+  - title: "Edge AI Chips Market Future Scope and Growth Status 2028"
+    excerpt: "What is the Computer-aided Design (CAD) market growth? Computer-aided Design (CAD) Market Size is projected to Reach Multimillion USD by 2028, In comparison to 2023, at unexpected CAGR during the forecast Period 2023-2028."
+    publishedDateTime: 2023-05-11T19:05:00Z
+    webUrl: "https://www.marketwatch.com/press-release/edge-ai-chips-market-future-scope-and-growth-status-2028-2023-05-11"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 35
+    quality: 84
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Asia Pacific Social Robots Market - Growth, Trends, Covid-19 Impact, and Forecast (2023 - 2029) - Report By Introspective Market Research"
-    excerpt: "The Asia Pacific Social Robots Market is expected to grow at a significant growth rate, and the forecast period is 2022-2028, considering the base year as 2021. Social robots are robots that have been physically personified as social creatures."
-    publishedDateTime: 2023-05-12T10:58:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-asia-pacific-social-robots-market---growth-trends-covid-19-impact-and-forecast-2023---2029---report-by-introspective-market-research-2023-05-12"
+  - title: "2030, Artificial Intelligence in Construction Market Growth | Future Prospects and Competitive Analysis"
+    excerpt: "The \"Artificial Intelligence in Construction Market\" is one of the sectors that is expanding the fastest, thus it"
+    publishedDateTime: 2023-05-11T22:09:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2030-artificial-intelligence-in-construction-market-growth-future-prospects-and-competitive-analysis-2023-05-11"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 32
+    quality: 51
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence in Oil and Gas Market by 2030"
+    excerpt: "Precision Reports has published a new report titled as \"Artificial Intelligence in Oil and Gas Market\" by End User"
+    publishedDateTime: 2023-05-13T05:16:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-oil-and-gas-market-by-2030-2023-05-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 47
 
 secured: "7wEcWTTTWBRwvFck7lX/SnZkVXdBME1qd9jrPDMnXrHakkd0tCWNvoXuqZ2T8MLo08uXEHpHDXItG2T9bmIwAk/6RpSF78Vf2VlUVSq9BkOvQbibiMtahvaqSa3Vv4GQRjTk3PKx9343HWl9YPFM18aa5GsAweJNvdnxUvN4xDJtcx9urzvmK96O5EY/hV+/YTBqmO12JVPysp9cBBRz7E4UR7q+j7lPMqNOM8ql/S8sNG762zULuVTm+VKdvzt/P8/dsBy9oX0WGw9SaouVJAqBWVE5HaYYfGrQZc2Bo0VcCxT7PmYQPH0ajjhJ9fjiDjs5XKbSl9RXOckTXp0xAzztjfDUYe5DvzcR5faeVNA=;UG5wZYuIOahQE/1KM6GGjw=="
 ---

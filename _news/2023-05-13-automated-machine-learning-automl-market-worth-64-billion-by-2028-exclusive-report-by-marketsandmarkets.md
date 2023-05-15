@@ -33,20 +33,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Self-Driving Car Market: Introspective Market Research Reveals Why this Market is Expected to Reach USD 37.38 Billion by 2028 at a CAGR of 2.5%"
-    excerpt: "The global Self-Driving Car market was estimated at USD 31.45 billion in 2021 and is projected to reach 37.38 billion by the end of 2028, growing at a CAGR of 2.5% over the analysis period. A Self-Driving Car or an autonomous car is a vehicle equipped with sensors,"
-    publishedDateTime: 2023-05-10T12:40:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-car-market-introspective-market-research-reveals-why-this-market-is-expected-to-reach-usd-3738-billion-by-2028-at-a-cagr-of-25-2023-05-10"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 18
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Automated Machine Learning (AutoML) Market worth $6.4 billion by 2028 - Exclusive Report by MarketsandMarkets"
     excerpt: "The market for automated machine learning (AutoML) appears to have a bright future thanks to rising acceptance, technological breakthroughs, integration"
     publishedDateTime: 2023-05-12T16:10:00Z

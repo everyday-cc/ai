@@ -36,15 +36,6 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 24
-  - title: "NSW Coalition moves to allow MPs free vote on Indigenous voice to parliament"
-    excerpt: "NSW Liberal leader Mark Speakman says he still has concerns about the wording of the voice to parliament as his shadow cabinet moved to allow MPs to campaign for either the Yes or No vote."
-    publishedDateTime: 2023-05-10T11:27:00Z
-    webUrl: "https://www.theaustralian.com.au/nation/politics/nsw-coalition-moves-to-allow-mps-free-vote-on-indigenous-voice-to-parliament/news-story/00faf19d343a3e8680ba8cb9bf055e98"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 1
 
 secured: "sTD8hzAGPl/qGDcp6Z8ZV6BNhGPrwHszFlcSm2CNiWUcfBvGKQ8c69zeuIQyrjeW3gOAzkC1Sc0NWIGQg/KO2qVnBQuYttgoZVgDsJ8m4hlk1cQd8kLhmjSn3d8skEGsi3U115IDRAG1HueTHHk0XsL5+VwBgdfGMAsqvDVDpU+GbAHAVY65I/jlWkphHT9BDmY+0N4q0h11SUz7JUQlC1uLouder+xcu/mTIn0uuqg7L5ekDOh8YGze8YVZy7gOV8Udmxyu9BPqmJKIy4H9trZgo7SP3L6mnJRCC2ujrC0il2E5ByLL5wr7KvIl5nB9I23DjnCLG8rgdM+XNxLpyAKkkAJGh+G4LB+8iJfdbeY=;qfYGXjHb6PRfAqnDLXJDCQ=="
 ---

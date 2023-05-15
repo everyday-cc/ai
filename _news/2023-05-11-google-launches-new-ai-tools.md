@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo173891653794"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo173891653794"
 type: article
 quality: 87
-heat: 227
+heat: 217
 published: true
 
 provider:
@@ -71,20 +71,6 @@ related:
       - url: "https://healthitanalytics.com/images/site/article_headers/_normal/2022-03-14-GettyImages-1033717120.jpg"
         width: 690
         height: 400
-        isCached: true
-  - title: "Will New AI Features Electrify GOOGL Stock?"
-    excerpt: "Alphabet’s (NASDAQ:GOOGL)(NASDAQ:GOOG) annual developer conference, or Google I/O, is scheduled for May 10, and news is rife in the market"
-    publishedDateTime: 2023-05-10T11:16:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/will-new-ai-features-electrify-googl-stock-1032311946"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 67
-    images:
-      - url: "https://blog.tipranks.com/wp-content/uploads/2023/05/GOOGL-1.jpg?utm_source=markets.businessinsider.com&utm_medium=referral"
-        width: 912
-        height: 306
         isCached: true
   - title: "Larry Magid: Google unveils new devices while focusing on AI"
     excerpt: "As I entered Shoreline Amphitheater on Wednesday, I thought I was attending Google IO – the company’s annual developers conference. But after listening to CEO Sundar Pichai and several other"

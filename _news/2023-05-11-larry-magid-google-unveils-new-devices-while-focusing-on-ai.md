@@ -89,20 +89,6 @@ related:
         width: 690
         height: 400
         isCached: true
-  - title: "Will New AI Features Electrify GOOGL Stock?"
-    excerpt: "Alphabet’s (NASDAQ:GOOGL)(NASDAQ:GOOG) annual developer conference, or Google I/O, is scheduled for May 10, and news is rife in the market"
-    publishedDateTime: 2023-05-10T11:16:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/will-new-ai-features-electrify-googl-stock-1032311946"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 67
-    images:
-      - url: "https://blog.tipranks.com/wp-content/uploads/2023/05/GOOGL-1.jpg?utm_source=markets.businessinsider.com&utm_medium=referral"
-        width: 912
-        height: 306
-        isCached: true
   - title: "Law firms are experimenting with artificial intelligence tools"
     excerpt: "Big law firms, known for their grueling hours and workloads, are experimenting with artificial intelligence tools that can handle the drudgery typically delegated to entry-level lawyers and simplify complex work that bogs down even top firm leaders,"
     publishedDateTime: 2023-05-12T14:49:00Z

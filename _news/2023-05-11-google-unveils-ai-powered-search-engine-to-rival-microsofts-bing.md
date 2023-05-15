@@ -291,15 +291,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 42
-  - title: "AWS and Microsoft partner acquires data service firm Forecast"
-    excerpt: "AWS and Microsoft partner Kin+Carta has acquired data service provider Forecast Data Services with the aim of strengthening its global enterprise data and AI services. Edinburgh-based Forecast, which also has a delivery hub in Poland,"
-    publishedDateTime: 2023-05-10T12:35:00Z
-    webUrl: "https://www.channelweb.co.uk/news/4114587/aws-microsoft-partner-acquires-service-firm-forecast"
-    type: article
-    provider:
-      name: CRN
-      domain: channelweb.co.uk
-    quality: 36
   - title: "Palo Alto Networks Unveils Its Cloud Next-Generation Firewall For Microsoft Azure Customers"
     excerpt: "Cloud NGFW for Azure seamlessly integrates Palo Alto Networks AI and ML-powered security with the simplicity, scalability and global availability"
     publishedDateTime: 2023-05-11T19:42:00Z
