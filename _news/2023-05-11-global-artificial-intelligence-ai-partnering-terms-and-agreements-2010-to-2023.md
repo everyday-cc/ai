@@ -1,20 +1,18 @@
 ---
 category: news
 title: "Global Artificial Intelligence (AI) Partnering Terms and Agreements 2010 to 2023"
-excerpt: "Partnering Terms and Agreements 2010 to 2023\" report has been added to ResearchAndMarkets.com's offering. The Global Artificial"
-publishedDateTime: 2023-05-11T16:00:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/05/n32345938/global-artificial-intelligence-ai-partnering-terms-and-agreements-2010-to-2023"
-webUrl: "https://www.benzinga.com/pressreleases/23/05/n32345938/global-artificial-intelligence-ai-partnering-terms-and-agreements-2010-to-2023"
-ampWebUrl: "https://www.benzinga.com/amp/content/32345938"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32345938"
+excerpt: "Partnering Terms and Agreements 2010 to 2023\" report has been added to ResearchAndMarkets.com's offering. The Global Artificial Intelligence (AI) Partnering Terms and Agreements 2010 to 2023 report provides an understanding and access to the artificial intelligence partnering deals and agreements entered into by the worlds leading healthcare companies."
+publishedDateTime: 2023-05-11T16:08:00Z
+originalUrl: "https://technews.tmcnet.com/news/2023/05/11/9812873.htm"
+webUrl: "https://technews.tmcnet.com/news/2023/05/11/9812873.htm"
 type: article
-quality: 49
+quality: 29
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Healthcare
@@ -371,6 +369,34 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "2023, Computer Vision System Market Research Report Analysis by 2030"
+    excerpt: "Computer Vision System Market | Outlook 2023-2028 | Pre and Post-COVID Research is Covered, Report Information | Newest"
+    publishedDateTime: 2023-05-15T06:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-computer-vision-system-market-research-report-analysis-by-2030-2023-05-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence Voice Market Till 2030"
+    excerpt: "The Global Artificial Intelligence Voice market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players ..."
+    publishedDateTime: 2023-05-15T11:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-voice-market-till-2030-2023-05-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 67
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "2023, Artificial intelligence (AI) in Supply Chain and Logistics Market | Global Industry Analysis Till 2030"
     excerpt: "Artificial intelligence (AI) in Supply Chain and Logistics Market | Outlook 2023-2028 | Pre and Post-COVID Research"
     publishedDateTime: 2023-05-11T14:52:00Z
@@ -469,7 +495,21 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) Market Is Expected To Reach USD 1,581.70 Billion By 2030 With A Booming CAGR Of 38.0%"
+    excerpt: "Allied Market The report focuses on growth prospects, restraints, and analysis of the global artificial intelligence market trend. <"
+    publishedDateTime: 2023-05-15T10:51:00Z
+    webUrl: "https://menafn.com/1106243312/Artificial-Intelligence-AI-Market-Is-Expected-To-Reach-USD-158170-Billion-By-2030-With-A-Booming-CAGR-Of-380"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 32
+    images:
+      - url: "https://menafn.com/updates/pr/2023-05/15/EP_32692image_story.jpeg"
+        width: 632
+        height: 331
+        isCached: true
 
-secured: "S8+g2vB3dw6wktSIpPtaVkLRk5oQY7QHS/7A5nNX6dfVirUsEUkjEvV0dfn5cWJfsoLlT6JC+QdyuUlaa4wQaZSfLuPL1Nvm6jLJzwGNgrlU7yye8cuAbGZo0Xg15f6cgJxf/lvWNdkSA/Q0FPMoqBv/DAN66oaL+N8Qexkl4cuQkzB+sijuMYRYvPy0acC+7N0h4XVlwRtZmQpPymYBliVo2iHdDhIrxP8hRaWNmbFQcmkRvNHuiwaBlaN0Lty6qLDpOwFeDtWgtGE6DmCQtJXJAEHNO9Sry5AeU7ul95qcNNukRmxC1lqSUaNR5tixdgZi90VHGewnqmcSGOR4OYIbTJQ0Qt+QXUPASoQNn2k=;gWqxoOEPyeRNfyvvagwVrw=="
+secured: "PtbgECYXayZ5fA0euLpXwakgcHOs/yKV4BqAJr1x1NqU6es4fB5wK2RxL/0vN9+AMp0p2E+3y2y7aPYcWHP5gLAWURzzb5Ybv1cFCGI1lMth6vR1MFfHx+R07Ec+VqD9lMAOEHc+RwN4+2lbYooE3DsBCoEaIviMg1dB/ab8b054xJH8/ybwHok7RL1rtvsOXz7+NQj9EUGmjdsYuNGpAEJi7HBRIFYhIYahdfpE5UsGoJRc6d998mfsULTlrvODZ8+j0pqa8M51iIPCu+BUNh/acMiKZq3MFHBOORfZ29JkEsiSo8JEVf33mxKjb+3buUMLhd6CT8a4AFZ3gcmCZcvmygHaOBlPLwIqysgX/LM=;GmX+AISddCeitsjREIPCDw=="
 ---
 

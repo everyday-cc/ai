@@ -24,6 +24,22 @@ images:
     height: 285
     isCached: true
 
+related:
+  - title: "How conversational artificial intelligence can improve the member experience"
+    excerpt: "In the credit union world, artificial intelligence is often used for credit scoring and credit card fraud detection. More recently, conversational machine"
+    publishedDateTime: 2023-05-13T03:00:00Z
+    webUrl: "https://www.cuinsight.com/how-conversational-artificial-intelligence-can-improve-the-member-experience/"
+    type: article
+    provider:
+      name: CUInsight
+      domain: cuinsight.com
+    quality: 34
+    images:
+      - url: "https://www.cuinsight.com/wp-content/uploads/2022/06/bigstock-Artificial-Intelligence-Ai-Bu-443739650.jpg"
+        width: 1000
+        height: 500
+        isCached: true
+
 secured: "5Zq7z1v1/8hb135WKrqMxMeCnaeY+LMfDfvmm0OIe6+SRH60+20X6DBV2LviKQSMP99SwtSk+enJC1QIIMJ6S4hBf4J4JXw7scEeK+xsvW10oW3X4orZa799BleIHvFOntw34dfMySU2gcBm9ns7MhEzUFYu/k73LivabwSzMIF4BFDz5ufe76eJymtobbIU6san/drQyAc71UiL8NeUsvjjGKkIyTqV+rjrrMYIPWXogz+G57V2VlYp8aPcP7xpbNYxZHk1GmN39h9zSLizYnryzaJVyRqd0t/trKStild+PF8a9+QnVWfcr98GJos4w6yfeOuaiQD+hJ5KWOddrYeY2H1eUHE/DMy5TZ43qyM=;vWi+KikMbPwiOvHDBzYT6A=="
 ---
 

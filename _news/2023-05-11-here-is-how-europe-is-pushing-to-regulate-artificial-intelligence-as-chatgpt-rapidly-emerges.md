@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Combining Generative AI ChatGPT Into Handguns Triggers Fiery Response"
+    excerpt: "Would handguns be better with generative AI onboard, or is this a non-starter? Either way, it is a highly controversial topic. See what it is all about."
+    publishedDateTime: 2023-05-15T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/05/15/combining-generative-ai-chatgpt-into-handguns-triggers-fiery-response/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/05/15/combining-generative-ai-chatgpt-into-handguns-triggers-fiery-response/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/05/15/combining-generative-ai-chatgpt-into-handguns-triggers-fiery-response/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 91
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/645bfa0c8aa4ed65ec653182/0x0.jpg?format=jpg&crop=3887,2914,x350,y0,safe&width=1200"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "ChatGPT: Everything you need to know about the AI-powered chatbot"
     excerpt: "Here's a guide to help understand Open AI's viral text-generating system. We outline the most recent updates and answer the most common FAQs."
     publishedDateTime: 2023-05-12T18:22:00Z
@@ -46,81 +62,65 @@ related:
         width: 1200
         height: 798
         isCached: true
-  - title: "Snapchat Star Earns $70,000 With Sexy ChatGPT AI: Here’s How She Did It"
-    excerpt: "Meet CarynAI - the answer to loneliness by an enterprising social media influencer."
-    publishedDateTime: 2023-05-11T19:58:00Z
-    webUrl: "https://www.forbes.com/sites/martineparis/2023/05/11/carynai-virtual-date-earned-70000-with-sexy-chatgpt-ai-heres-how/"
-    ampWebUrl: "https://www.forbes.com/sites/martineparis/2023/05/11/carynai-virtual-date-earned-70000-with-sexy-chatgpt-ai-heres-how/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martineparis/2023/05/11/carynai-virtual-date-earned-70000-with-sexy-chatgpt-ai-heres-how/amp/"
+  - title: "What AI-Generated Fingers AI Can Teach You About Training Your Own Models"
+    excerpt: "Generative AI is everywhere and has unlocked creativity for extraordinary creations, such as images of ecstatic Friedrich Nietzsche dancing or of Immanuel Kant with a sneaky grin. Rather than deciphering Kant's intricate ideas,"
+    publishedDateTime: 2023-05-11T11:44:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/11/what-ai-generated-fingers-ai-can-teach-you-about-training-your-own-models/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/11/what-ai-generated-fingers-ai-can-teach-you-about-training-your-own-models/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/05/11/what-ai-generated-fingers-ai-can-teach-you-about-training-your-own-models/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 87
+    quality: 88
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/645d5d77a5a034c6f9e63673/0x0.jpg?format=jpg&width=1200"
-        width: 1066
-        height: 628
-        isCached: true
-  - title: "Snapchat's new AI chatbot is already raising alarms among teens and parents"
-    excerpt: "Less than a few hours after Snapchat rolled out its My AI chatbot to all users last week, Lyndsi Lee, a mother from East Prairie, Missouri, told her 13-year-old daughter to stay away from the feature."
-    publishedDateTime: 2023-05-15T09:51:00Z
-    webUrl: "https://edition.cnn.com/2023/04/27/tech/snapchat-my-ai-concerns-wellness/index.html@"
-    ampWebUrl: "https://amp.cnn.com/cnn/2023/04/27/tech/snapchat-my-ai-concerns-wellness/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/04/27/tech/snapchat-my-ai-concerns-wellness/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 85
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/230426123404-snapchat-app-restricted-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "How is the new Google AI search different from Bard chatbot?"
-    excerpt: "Google demonstrated an updated core search product that embeds more AI in its answers as the company looks to banish doubts that it is losing ground to Microsoft's OpenAI-powered Bing search."
-    publishedDateTime: 2023-05-11T04:49:00Z
-    webUrl: "https://www.reuters.com/technology/how-is-new-google-ai-search-different-bard-chatbot-2023-05-10/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 67
-    images:
-      - url: "https://www.reuters.com/resizer/KGaBkrQHj3qhm6l3Wtyw8nqhjss=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/5UQGXXHAMNPZHPVIMFFH3XDVPM.jpg"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/645b9e989f952bd52c9c02fa/0x0.jpg?format=jpg&crop=3702,2084,x0,y499,safe&width=1200"
         width: 1200
-        height: 628
+        height: 676
         isCached: true
-  - title: "You’re Probably Underestimating AI Chatbots"
-    excerpt: "Just as the first iPhone reviews mostly missed the device’s huge potential, it’s folly to draw conclusions from today’s unrefined technology."
-    publishedDateTime: 2023-05-12T13:01:00Z
-    webUrl: "https://www.wired.com/story/plaintext-youre-probably-underestimating-ai-chatbots/"
+  - title: "The Boring Future of Generative AI"
+    excerpt: "ChatGPT’s chaotic streak can be charming. Google’s new chat-style search shows text-generation technology is headed in a much tamer direction."
+    publishedDateTime: 2023-05-11T16:00:00Z
+    webUrl: "https://www.wired.com/story/the-boring-future-of-generative-ai/"
     type: article
     provider:
       name: Wired
       domain: wired.com
     quality: 67
     images:
-      - url: "https://media.wired.com/photos/645d37c10227ed23db8041a9/191:100/w_1280,c_limit/AI_biz_GettyImages-1372009287.jpg"
+      - url: "https://media.wired.com/photos/645c399a7b25a434b1f3bd06/191:100/w_1280,c_limit/Google-IO-2023-Fast%20Forward-Sundar-IO-2023-23_0943.jpg"
         width: 1280
         height: 670
         isCached: true
-  - title: "Google’s Bard AI chatbot launches in Australia with vow to develop it ethically"
-    excerpt: "Company says its AI programs will include watermarks and metadata saying content is AI-generated as ChatGPT rival rolls out in more than 180 countries"
-    publishedDateTime: 2023-05-11T02:03:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/may/11/bard-ai-google-artificial-intelligence-chatbot-palm-2-launches-australia-chatgpt-competitor"
-    ampWebUrl: "https://amp.theguardian.com/technology/2023/may/11/bard-ai-google-artificial-intelligence-chatbot-palm-2-launches-australia-chatgpt-competitor"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/may/11/bard-ai-google-artificial-intelligence-chatbot-palm-2-launches-australia-chatgpt-competitor"
+  - title: "ChatGPT and Generative AI in Media and Advertising: With Use Cases Set, the Battle for Hearts and Minds Begins"
+    excerpt: "Generative AI can already do much of the work and low-skilled labor that powers modern media and advertising."
+    publishedDateTime: 2023-05-12T17:00:00Z
+    webUrl: "https://www.businessinsider.com/generative-ai-media-and-advertising-battle-for-hearts-use-cases-2023-may"
+    ampWebUrl: "https://www.businessinsider.com/generative-ai-media-and-advertising-battle-for-hearts-use-cases-2023-may?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/generative-ai-media-and-advertising-battle-for-hearts-use-cases-2023-may?amp"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 53
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 67
     images:
-      - url: "https://i.guim.co.uk/img/media/7a59770144a805dedfc4fe4482458935dcbdf700/0_167_5000_3000/master/5000.jpg?width=620&quality=85&auto=format&fit=max&s=4ac865513b8bd74f729741d48cc72e06"
-        width: 620
-        height: 372
+      - url: "https://i.insider.com/64402b373f6f690018de8d48?width=1200&format=jpeg"
+        width: 470
+        height: 352
+        isCached: true
+  - title: "Dr. ChatGPT: A guide to generative AI in healthcare"
+    excerpt: "ChatGPT is a public-facing generative AI text application from OpenAI. OpenAI has developed other generative AI applications available for paying customers and is working with Microsoft, which made a reported $100 billion investment in the company. Other big tech firms such as Google and Meta have launched their own generative AI tools."
+    publishedDateTime: 2023-05-15T10:00:00Z
+    webUrl: "https://www.modernhealthcare.com/digital-health/chatgpt-healthcare-everything-to-know-generative-ai-artificial-intelligence"
+    type: article
+    provider:
+      name: Modern Healthcare
+      domain: modernhealthcare.com
+    quality: 54
+    images:
+      - url: "https://www.modernhealthcare.com/s3/files/styles/1200x630/public/Chat-GPT-healthcare-2%20%281%29.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "edX Debuts Two AI-Powered Learning Assistants Built on ChatGPT"
     excerpt: "X plugin launches in ChatGPT plugin store to give users access to content and course discovery edX Xpert delivers AI-powered learning and"
@@ -179,20 +179,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 39
-  - title: "Discovering Chat GPT: The Future of Conversational AI"
-    excerpt: "Conversational AI has come a long way since its early days. It all started with simple rule-based chatbots that could only understand and respond to predefined phrases. The technology evolved with machine learning and natural language processing,"
-    publishedDateTime: 2023-05-13T11:39:00Z
-    webUrl: "https://techbullion.com/discovering-chat-gpt-the-future-of-conversational-ai/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 39
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/05/Chatgpt-full-form.png"
-        width: 860
-        height: 430
-        isCached: true
   - title: "ChatGPT on Mars: How AI can help scientists study the Red Planet"
     excerpt: "Steve Ruff, associate research professor at Arizona State University's School of Earth and Space Exploration in Tempe, Arizona, is keenly tied to studying Mars."
     publishedDateTime: 2023-05-14T10:00:00Z
@@ -207,6 +193,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "ChatGPT and Generative AI Around the World: Maturity, Opportunities, and Hurdles in Key Regions"
+    excerpt: "ChatGPT has received a lot of press since its November 2022 launch. But while interest in the tool is high, its use is not yet universal."
+    publishedDateTime: 2023-05-11T17:01:00Z
+    webUrl: "https://www.businessinsider.com/generative-ai-around-the-world-maturity-opportunities-hurdles-key-regions-2023-may"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 35
   - title: "Japanese digital minister pushes for AI use, but ChatGPT does not know who he is"
     excerpt: "I asked ChatGPT who Kono Taro is and he came back with the wrong answer,” Mr Kono said in an interview with Bloomberg Television broadcast on Monday. “So you need to be careful,” he added. Mr Kono asks that his name be written in Japanese style,"
     publishedDateTime: 2023-05-15T00:53:00Z
@@ -221,56 +216,6 @@ related:
         width: 860
         height: 573
         isCached: true
-  - title: "Can ChatGPT teach you a language?"
-    excerpt: "For those wondering if ChatGPT can be used to teach you a language, don’t worry ... a programme called Whisper which allows for the translation and transcription of audio."
-    publishedDateTime: 2023-05-11T11:53:00Z
-    webUrl: "https://www.videogamer.com/tech/ai/can-chatgpt-teach-you-a-language/"
-    type: article
-    provider:
-      name: VideoGamer.com
-      domain: videogamer.com
-    quality: 24
-    images:
-      - url: "https://www.videogamer.com/wp-content/uploads/ChatGPT-language.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Wendy's testing AI chatbot that takes drive-thru orders"
-    excerpt: "Fast food chain Wendy's is partnering with Google Cloud on an AI chatbot to take orders at a drive-thru, the company announced. Wendy's FreshAI will be launched in June as a pilot in a Columbus, Ohio area restaurant."
-    publishedDateTime: 2023-05-10T19:43:00Z
-    webUrl: "https://www.cbsnews.com/news/wendys-testing-ai-chatbot-drive-thru-orders/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 17
-  - title: "Google-backed AI startup's chatbot can read novels in seconds"
-    excerpt: "In an announcement about the increased capability of Claude, Anthropic claimed that they have raised the context window from 9K to 100K tokens, which corresponds to around 75,000 words. Tokens are the basic units of text or code that a large language model (LLM) AI uses to process and generate language."
-    publishedDateTime: 2023-05-12T13:03:00Z
-    webUrl: "https://www.gadgetsnow.com/tech-news/google-backed-ai-startups-chatbot-can-read-novels-in-seconds/articleshow/100189431.cms"
-    type: article
-    provider:
-      name: Gadgets Now
-      domain: gadgetsnow.com
-    quality: 17
-  - title: "I asked ChatGPT where it'd put Brightline stop on Treasure Coast; here's what AI bot said"
-    excerpt: "A TCPalm columnist asked artificial intelligence application ChatGPT where it would put a Brightline train station. Its answer was intriguing."
-    publishedDateTime: 2023-05-12T10:01:00Z
-    webUrl: "https://www.tcpalm.com/story/opinion/columnists/laurence-reisman/2023/05/12/ai-chatgpt-says-where-brightline-should-put-station-on-treasure-coast/70180635007/"
-    type: article
-    provider:
-      name: Treasure Coast Newspapers
-      domain: tcpalm.com
-    quality: 10
-  - title: "Mo, an AI Chatbot Powered by Morningstar Intelligence Engine, Debuts in Morningstar Platforms"
-    excerpt: "(Nasdaq: MORN), a leading provider of independent investment insights, today launched a beta version of its generative artificial intelligence chatbot named \"Mo\" across Morningstar Investor, Research Portal,"
-    publishedDateTime: 2023-05-11T12:41:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/05/11/9812464.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 8
   - title: "Google ups the ante on AI to compete with ChatGPT. Here's how search and Gmail will change."
     excerpt: "Here's how Google is introducing more AI into your everyday computing experience. Google unveiled a suite of new functions for both PCs and phones."
     publishedDateTime: 2023-05-12T18:51:00Z

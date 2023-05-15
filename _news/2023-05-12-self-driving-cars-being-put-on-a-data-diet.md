@@ -55,20 +55,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "What self-driving cars may mean for traffic"
-    excerpt: "AI might be arriving with a bang, but autonomous cars are crawling closer at a snail’s pace. What’s the delay? And what can we expect to change on our roads in the next decade?"
-    publishedDateTime: 2023-05-15T07:01:00Z
-    webUrl: "https://www.thestar.com.my/lifestyle/living/2023/05/15/what-self-driving-cars-may-mean-for-traffic"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 24
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2023/05/15/2072912.jpg"
-        width: 800
-        height: 507
-        isCached: true
 
 secured: "HEfKJBlVW/BjHCGg5ht0UicwpOncsM5wEi8nbPWm0EZIghRUr2L8Ltq26epZbFiqE79mXN9j1FaiyygrJi20vkwYy2evJpI78v9yarTLeBT7v9VIoVgZXIiUpasYKAk0ToP10w81WZE4n4yv7gXG9bgPv2eWcGd1asOMXrZK/it6iQJTiYNJ4A3iyECWyFl05wxmvuKp0QCxq4eiF8XAj3/AyngUQrSVvpOB79QEhxi3njHCFLLusaqlqVdH+MWkSC5DXZdXzA3aItDMHRpyMHEC2h2/BtE1Xv+po8lbIGyerRnvRNrqifZ07s/ninpeLHpkQX2kpelIxMUdwKzot7f+hgz2+pLQ1rl0WwJyhIY=;ZsbifONh2RXZzID5TvsjQQ=="
 ---

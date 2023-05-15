@@ -45,6 +45,15 @@ related:
       name: Indiatimes
       domain: indiatimes.com
     quality: 28
+  - title: "AI-based eye disease detection startup raises $18 million from US investors"
+    excerpt: "Eyetelligence uses AI technology and retinal imaging to screen for eye and other diseases, and will launch in the US as Optain."
+    publishedDateTime: 2023-05-15T02:55:00Z
+    webUrl: "https://www.startupdaily.net/topic/funding/ai-based-eye-disease-detection-startup-raises-18-million-from-us-investors/"
+    type: article
+    provider:
+      name: Startup Daily
+      domain: startupdaily.net
+    quality: 15
 
 secured: "gqxJLq0cgwnp9fatjauX/7SvvYdPcnbKx2vEniWOjLIIHjE6bHIwbFkVed3gXS71o/hU+fefq75Gnlo9XtQwIfqt96AKnOYQiG7feJho2qWjK+5wbBaqslmbWu59XsunRdNOhqENwT7uh8cIePyyTu3accTABEBzjFG+JGNJtH/PaHPRUEHxaVXp2VhFhr45oARRCICRSjqg7F6S/KBdZYO1CStaxCyRH5pcSABCwO6RJhl8IOo1wSpOI3vDUiMAFPgi+rKJBAxXGhk26LQaY77iAAhWLQ6SZRqcOLLxoIAIuYZ67bI4CLS6GxYyJUiCFr6sgI3MTdeIXuEsQHBH7+ZLi5UORfEy9mgCAb1BB7uQWxJ0sv+2RyQdrvASK3xisM6bxcnoPym4uT7nRqD5g50f0ZvCeP1jfzHituhOsOeHQsFAvulj2tk7QFQl07mkskkNcyYm6OWaDlBX+BKZ1cg82ZPmOXEZ/KZ+O0XgDpNImfaD2dWPOJ0Wn/LDa5CLsCyk32qOFJf8s5Lyz5+Waw==;lGFblyel/4JQ7YTHrX8F7w=="
 ---

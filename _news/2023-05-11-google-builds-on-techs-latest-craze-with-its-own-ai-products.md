@@ -40,22 +40,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Google opens up about PaLM 2, its new generative AI LLM"
-    excerpt: "Google's new PaLM 2 LLM will power at least 25 Google products and services that are being detailed during sessions at today's Google I/O."
-    publishedDateTime: 2023-05-10T17:25:00Z
-    webUrl: "https://venturebeat.com/ai/google-opens-up-about-palm-2-its-new-generative-ai-llm/"
-    ampWebUrl: "https://venturebeat.com/ai/google-opens-up-about-palm-2-its-new-generative-ai-llm/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/google-opens-up-about-palm-2-its-new-generative-ai-llm/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/05/Palm-2.jpg?w=1200&strip=all"
-        width: 1200
-        height: 666
-        isCached: true
   - title: "Google rolls out tools for developers to build machine learning and AI into their products"
     excerpt: "Google LLC is rolling out a number of tools for developers to build machine learning and artificial intelligence into their applications using high-performance AI models and solutions. At Google I/O,"
     publishedDateTime: 2023-05-10T20:42:00Z

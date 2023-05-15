@@ -245,7 +245,7 @@
       "originalUrl": "https://techcrunch.com/2023/05/11/amp-robotics-attracts-investment-from-microsofts-climate-innovation-fund/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 270,
+      "heat": 250,
       "tags": null,
       "images": [
         {
@@ -769,6 +769,49 @@
       ]
     },
     {
+      "path": "_news/2023-05-09-businesses-in-south-jersey-and-around-the-country-utilize-robots-ai-to-help-customers.md",
+      "title": "Businesses in South Jersey and around the country utilize robots, AI to help customers",
+      "excerpt": "Robots and AI technology assist us in our every day lives. How about Siri, Apple’s virtual assistant, and Alexa, Amazon’s cloud-based voice service? Or AI assistants at stores that help you shop?",
+      "sourceUrl": null,
+      "webUrl": "https://www.courierpostonline.com/story/news/local/2023/05/09/artificial-intelligence-robots-help-customers-south-jersey/70075803007/",
+      "originalUrl": "https://www.courierpostonline.com/story/news/local/2023/05/09/artificial-intelligence-robots-help-customers-south-jersey/70075803007/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2023/04/28/PCHH/8457e6e3-ba72-4462-98e7-341ba35b7220-Robotsmashburger.jpg?auto=webp&crop=1511,850,x0,y403&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-09T05:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Courier-Post",
+        "domain": "courierpostonline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-09-artificial-intelligence-robotics-market-global-analysis-2023-2030.md",
       "title": "Artificial Intelligence Robotics Market Global Analysis 2023-2030",
       "excerpt": "Highlights with Short Brief of Artificial Intelligence Robotics Market: Artificial Intelligence Robotics Marketsize, segment (mainly coveringMajorType (, Service Robots, Industrial Robots, ,),End Users (, Military and Defense, Law Enforcement, Healthcare ...",
@@ -860,6 +903,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-08-start-ai-sai-is-now-available-for-trading-on-lbank-exchange.md",
+      "title": "Start AI (SAI) Is Now Available for Trading on LBank Exchange",
+      "excerpt": "robotics, biomedical AI, media, arts and entertainment. There're multiple features provided by Start AI for all kinds of businesses, these features include Distributed AI Space, which reduces the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/05/32258672/start-ai-sai-is-now-available-for-trading-on-lbank-exchange",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/05/32258672/start-ai-sai-is-now-available-for-trading-on-lbank-exchange",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.newsfilecorp.com/files/8831/165169_c2e150a184cf6869_001.jpg",
+          "width": 550,
+          "height": 309,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/32258672",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32258672",
+      "publishedDateTime": "2023-05-08T01:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1015,8 +1101,8 @@
       "title": "Artificial intelligence and robotics: Great expectations and daunting existential risks",
       "excerpt": "The starting point is to understand the basic definitions of key concepts such as Robotics, AI, Machine Learning, Deep Learning, Single-Task AI, Artificial General Intelligence (AGI), Strong AI ...",
       "sourceUrl": null,
-      "webUrl": "https://www.newsday.co.zw/opinion-analysis/article/200011132/artificial-intelligence-and-robotics-great-expectations-and-daunting-existential-risks",
-      "originalUrl": "https://www.newsday.co.zw/opinion-analysis/article/200011132/artificial-intelligence-and-robotics-great-expectations-and-daunting-existential-risks",
+      "webUrl": "https://www.newsday.co.zw/thestandard/opinion-analysis/article/200011132/artificial-intelligence-and-robotics-great-expectations-and-daunting-existential-risks",
+      "originalUrl": "https://www.newsday.co.zw/thestandard/opinion-analysis/article/200011132/artificial-intelligence-and-robotics-great-expectations-and-daunting-existential-risks",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1033,9 +1119,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.newsday.co.zw/opinion-analysis/article/200011132/artificial-intelligence-and-robotics-great-expectations-and-daunting-existential-risks",
-      "cdnAmpWebUrl": "https://www-newsday-co-zw.cdn.ampproject.org/c/s/www.newsday.co.zw/opinion-analysis/article/200011132/artificial-intelligence-and-robotics-great-expectations-and-daunting-existential-risks",
-      "publishedDateTime": "2023-05-05T21:27:00-07:00",
+      "ampWebUrl": "https://www.newsday.co.zw/thestandard/amp/opinion-analysis/article/200011132/artificial-intelligence-and-robotics-great-expectations-and-daunting-existential-risks",
+      "cdnAmpWebUrl": "https://www-newsday-co-zw.cdn.ampproject.org/c/s/www.newsday.co.zw/thestandard/amp/opinion-analysis/article/200011132/artificial-intelligence-and-robotics-great-expectations-and-daunting-existential-risks",
+      "publishedDateTime": "2023-05-05T21:33:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "News Day",
@@ -1338,110 +1424,6 @@
         "AI in Robotics",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-05-04-robot-control-program-market-and-forecast-2030.md",
-      "title": "Robot Control Program Market And Forecast 2030",
-      "excerpt": "May 04, 2023 (The Expresswire) -- The \"Robot Control Program Market\" Size, Trends and Forecasts (2023-2030)â , provides a comprehensive analysis of the Robot Control Program Market.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/robot-control-program-market-and-forecast-2030-2023-05-04",
-      "originalUrl": "https://www.marketwatch.com/press-release/robot-control-program-market-and-forecast-2030-2023-05-04",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-04T07:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-04-ai-powered-characters-changing-the-game.md",
-      "title": "AI-Powered Characters Changing The Game",
-      "excerpt": "Gamers have been clamoring for better non-player characters for years, and the arrival of conversational AI may finally provide the computing superpower to make it possible.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/charliefink/2023/05/04/ai-powered-characters-changing-the-game/",
-      "originalUrl": "https://www.forbes.com/sites/charliefink/2023/05/04/ai-powered-characters-changing-the-game/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64534a81ed2c825a139c02fa/0x0.jpg?format=jpg&width=1200",
-          "width": 961,
-          "height": 856,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/charliefink/2023/05/04/ai-powered-characters-changing-the-game/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charliefink/2023/05/04/ai-powered-characters-changing-the-game/amp/",
-      "publishedDateTime": "2023-05-04T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

@@ -113,6 +113,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Latest 2023 \"Automatic Speech Recognition(ASR) Software Market\" Survey & Forecast by 2030 | With 114+ Pages"
+    excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this “Automatic Speech Recognition(ASR) Software Industry”. Embracing Growth: A Promising Outlook for the Global Automatic Speech Recognition(ASR) Software Market from 2023 to 2030."
+    publishedDateTime: 2023-05-15T06:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/latest-2023-automatic-speech-recognitionasr-software-market-survey-forecast-by-2030-with-114-pages-2023-05-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Face Recognition Software Market 2023 Growth Possibilities, Analysis and Forecast To 2030"
     excerpt: "The Face Recognition Software Market Report by Type (Holistic Matching Method, Feature-based Method, Skin Texture Analysis, Hybrid Types, Other) and by Application (Corporate and Residential Security,"
     publishedDateTime: 2023-05-11T11:22:00Z

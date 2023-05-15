@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/05/11/amp-robotics-attracts-investment-f
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/11/amp-robotics-attracts-investment-from-microsofts-climate-innovation-fund/amp/"
 type: article
 quality: 120
-heat: 270
+heat: 250
 published: true
 
 provider:
@@ -124,20 +124,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "AMP Robotics Raises Additional Series C Investment From Microsoft Climate Innovation Fund"
-    excerpt: "AMP Robotics Corp. (“AMP”), a pioneer in artificial intelligence (AI), robotics, and infrastructure for the waste and recycling industry, has received financing from Microsoft’s Climate Innovation Fund."
-    publishedDateTime: 2023-05-10T17:39:00Z
-    webUrl: "https://www.waste360.com/business/amp-robotics-raises-additional-series-c-investment-microsoft-climate-innovation-fund"
-    type: article
-    provider:
-      name: Waste360
-      domain: waste360.com
-    quality: 77
-    images:
-      - url: "https://www.waste360.com/sites/waste360.com/files/amproboticsfeat.png"
-        width: 1540
-        height: 800
-        isCached: true
   - title: "Microsoft invests in Builder.ai for scaling up AI efforts"
     excerpt: "Microsoft has funded an undisclosed sum in Builder.ai, marking the company’s scaling up its efforts in Artificial Intelligence and competing with Google. Emphasising how Microsoft was committed to helping startups,"
     publishedDateTime: 2023-05-11T05:35:00Z
@@ -221,15 +207,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 42
-  - title: "Google unveils AI-powered search engine to rival Microsoft’s Bing"
-    excerpt: "Google has been scrambling to catch up with Microsoft on consumer AI products. In February, Microsoft beat its rival to the punch by unveiling an AI-driven Bing search engine using OpenAI’s GPT technology. A month later, OpenAI revealed its language model, GPT-4, which users can access through a premium version of ChatGPT and via Bing."
-    publishedDateTime: 2023-05-10T18:00:00Z
-    webUrl: "https://www.ft.com/content/97515324-b75a-4c2c-b3d7-fef1f6e51efe"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 34
   - title: "Palo Alto Networks Unveils Its Cloud Next-Generation Firewall For Microsoft Azure Customers"
     excerpt: "Cloud NGFW for Azure seamlessly integrates Palo Alto Networks AI and ML-powered security with the simplicity, scalability and global availability"
     publishedDateTime: 2023-05-11T19:42:00Z

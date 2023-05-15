@@ -7,7 +7,7 @@ originalUrl: "https://www.unite.ai/can-you-build-large-language-models-like-chat
 webUrl: "https://www.unite.ai/can-you-build-large-language-models-like-chatgpt-at-half-cost/"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 1000
     height: 600
     isCached: true
+
+related:
+  - title: "Can ChatGPT teach you a language?"
+    excerpt: "For those wondering if ChatGPT can be used to teach you a language, don’t worry ... a programme called Whisper which allows for the translation and transcription of audio."
+    publishedDateTime: 2023-05-11T11:53:00Z
+    webUrl: "https://www.videogamer.com/tech/ai/can-chatgpt-teach-you-a-language/"
+    type: article
+    provider:
+      name: VideoGamer.com
+      domain: videogamer.com
+    quality: 24
+    images:
+      - url: "https://www.videogamer.com/wp-content/uploads/ChatGPT-language.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "AUsInrrunEQlQUhcBtTMoJ9lQcWX9w2ridnSqwDWF3RYKCF1P8Y6Q2M95JHubSLoGiK1BsD+GrkzKPC21DQzwqaIQSpL5/WzAJvTMMsYQwQu1PqceTSk2l1gkstO+E3OeaD4PDD1rMuRvcsxuLxoSQVmucsSQL5AXIHN9JV8NIX3EyIV9F7f9mXRwUwzmjRmEV+CoyaXVZoWbhI5bfrPWCoDiQDIsejrVKXeKsohg1DeAU7B0v39PzVaXADXr+wpDxu+CpipSnMRZAlKOqCRNeFnUKlGAjUKFvm/RNxQBREoZ9KHB718EkAVgB/1111F2VhhOzUSBetwSZ/qe4o1EaVNnh1gPE72zWjjZyUZ8aoscyrwxZQy7vru+EdowdDcfWZkJ4raLafJ/G0Eci3FOhULfHz811VfJdHPbCl7k1ggUPRs2358DjG+vsxjSS8ZbYWQFikVuqZ6Anspr3WRJaD6XAHlVpmMPnijOCvCRksxxdMkey4gyGMt/xDaFiX75weFfugQxd7FAQXKs3suMg==;orZidLhQ27uPDsSvvaHiTw=="
 ---

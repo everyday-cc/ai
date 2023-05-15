@@ -366,6 +366,34 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "2023, Computer Vision System Market Research Report Analysis by 2030"
+    excerpt: "Computer Vision System Market | Outlook 2023-2028 | Pre and Post-COVID Research is Covered, Report Information | Newest"
+    publishedDateTime: 2023-05-15T06:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-computer-vision-system-market-research-report-analysis-by-2030-2023-05-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence Voice Market Till 2030"
+    excerpt: "The Global Artificial Intelligence Voice market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players ..."
+    publishedDateTime: 2023-05-15T11:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-voice-market-till-2030-2023-05-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 67
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "2023, Artificial intelligence (AI) in Supply Chain and Logistics Market | Global Industry Analysis Till 2030"
     excerpt: "Artificial intelligence (AI) in Supply Chain and Logistics Market | Outlook 2023-2028 | Pre and Post-COVID Research"
     publishedDateTime: 2023-05-11T14:52:00Z
@@ -450,17 +478,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Artificial Intelligence (AI) Partnering Terms and Agreements 2010 to 2023"
-    excerpt: "Partnering Terms and Agreements 2010 to 2023\" report has been added to ResearchAndMarkets.com's offering. The Global Artificial"
-    publishedDateTime: 2023-05-11T16:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/05/n32345938/global-artificial-intelligence-ai-partnering-terms-and-agreements-2010-to-2023"
-    ampWebUrl: "https://www.benzinga.com/amp/content/32345938"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32345938"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 49
   - title: "Enterprise Artificial Intelligence Market SWOT Analysis [2023-2030] Evaluating Your Business Strengths and Weaknesses"
     excerpt: "May 11, 2023 (The Expresswire) -- 2023-2030 According to our Latest CAGR Research, Enterprise Artificial Intelligence Market Size With The Global Market looks promising in the next 5 years. As of 2023, the global Enterprise Artificial Intelligence market ..."
     publishedDateTime: 2023-05-11T17:53:00Z
@@ -475,6 +492,29 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) Market Is Expected To Reach USD 1,581.70 Billion By 2030 With A Booming CAGR Of 38.0%"
+    excerpt: "Allied Market The report focuses on growth prospects, restraints, and analysis of the global artificial intelligence market trend. <"
+    publishedDateTime: 2023-05-15T10:51:00Z
+    webUrl: "https://menafn.com/1106243312/Artificial-Intelligence-AI-Market-Is-Expected-To-Reach-USD-158170-Billion-By-2030-With-A-Booming-CAGR-Of-380"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 32
+    images:
+      - url: "https://menafn.com/updates/pr/2023-05/15/EP_32692image_story.jpeg"
+        width: 632
+        height: 331
+        isCached: true
+  - title: "Global Artificial Intelligence (AI) Partnering Terms and Agreements 2010 to 2023"
+    excerpt: "Partnering Terms and Agreements 2010 to 2023\" report has been added to ResearchAndMarkets.com's offering. The Global Artificial Intelligence (AI) Partnering Terms and Agreements 2010 to 2023 report provides an understanding and access to the artificial intelligence partnering deals and agreements entered into by the worlds leading healthcare companies."
+    publishedDateTime: 2023-05-11T16:08:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/05/11/9812873.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 29
 
 secured: "iX9BpNg8TI1bfpkpjlgkuNy16F10IQOeeUNLgI1l6qpf1eSs6oaf0RB+3dsyowvuOFrrtcULa/0cWV24wxLeVBe29obk9oPQiPRYfKKcTLm/r8Iq/t7tsvkvBHQ9h+HRjjbDQ+g3nolXbpJBt25RiRX9X4+lr3Anbzs1DMDtd6ZstSNGHQBuBkdpAab9HkaREH0WN9xAA9qYoOKN0JMzorx9kukcbc/dNKfuBZd/n6PYSqBWi2de1EWfRwMP5QUy37aaFfDcuVtRUGf3u+W6anlKDKd1W25C7niWJbF7tMqwYB1P6IpZ2GprIx2dilUEwwNaDo8JB04fwqDDcscik2R/fA8cAM2Y5ehodid5eiw=;yX9Hup2l8quX3hnI50u9dQ=="
 ---

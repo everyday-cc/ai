@@ -2,6 +2,111 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-05-15-combining-generative-ai-chatgpt-into-handguns-triggers-fiery-response.md",
+      "title": "Combining Generative AI ChatGPT Into Handguns Triggers Fiery Response",
+      "excerpt": "Would handguns be better with generative AI onboard, or is this a non-starter? Either way, it is a highly controversial topic. See what it is all about.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2023/05/15/combining-generative-ai-chatgpt-into-handguns-triggers-fiery-response/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2023/05/15/combining-generative-ai-chatgpt-into-handguns-triggers-fiery-response/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 241,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/645bfa0c8aa4ed65ec653182/0x0.jpg?format=jpg&crop=3887,2914,x350,y0,safe&width=1200",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2023/05/15/combining-generative-ai-chatgpt-into-handguns-triggers-fiery-response/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/05/15/combining-generative-ai-chatgpt-into-handguns-triggers-fiery-response/amp/",
+      "publishedDateTime": "2023-05-15T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-05-15-workhack-targets-big-businesses-as-they-fumble-with-generative-ai.md",
+      "title": "WorkHack Targets Big Businesses As They Fumble With Generative AI",
+      "excerpt": "WorkHack’s platform is aimed at large enterprises that are keen to develop new use cases for generative AI but nervous about how to do so safely and effectively. “We want to help them use this technology responsibly and thoughtfully,” explains Akshat Tyagi, the founder of the company.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidprosser/2023/05/15/workhack-targets-big-businesses-as-they-fumble-with-generative-ai/",
+      "originalUrl": "https://www.forbes.com/sites/davidprosser/2023/05/15/workhack-targets-big-businesses-as-they-fumble-with-generative-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/645e4c3f71fe50b2fd1853c6/0x0.jpg?format=jpg&crop=1284,723,x435,y153,safe&width=1200",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidprosser/2023/05/15/workhack-targets-big-businesses-as-they-fumble-with-generative-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidprosser/2023/05/15/workhack-targets-big-businesses-as-they-fumble-with-generative-ai/amp/",
+      "publishedDateTime": "2023-05-14T23:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2023-05-14-eric-schmidt-on-synthetic-biology-ai-ethics-and-the-bioeconomys-seismic-shift.md",
       "title": "Eric Schmidt On Synthetic Biology, AI, Ethics And The Bioeconomy’s ‘Seismic Shift’",
       "excerpt": "Eric Schmidt at the SynBioBeta conference. You mentioned the Bioeconomy Moonshot as a way to drive progress in biotech. What recent developments or advancements in synthetic biology are you most excited about?",
@@ -51,58 +156,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-12-can-ai-deliver-a-customer-experience-like-a-grandmother-would.md",
-      "title": "Can AI Deliver A Customer Experience Like A Grandmother Would?",
-      "excerpt": "ChatGPT is super smart. But can it deliver the customer experience that creates ardent advocates? The new customer metric is not, \"Would you recommend,\" but \"Did you recommend\"—action always trumps intent.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/chipbell/2023/05/11/can-ai-deliver-a-customer-experience-like-a-grandmother-would/",
-      "originalUrl": "https://www.forbes.com/sites/chipbell/2023/05/11/can-ai-deliver-a-customer-experience-like-a-grandmother-would/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6457c256a0fc2b0c6ebf9d2d/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/chipbell/2023/05/11/can-ai-deliver-a-customer-experience-like-a-grandmother-would/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/chipbell/2023/05/11/can-ai-deliver-a-customer-experience-like-a-grandmother-would/amp/",
-      "publishedDateTime": "2023-05-11T12:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     },
     {
@@ -201,7 +254,7 @@
       "originalUrl": "https://www.forbes.com/sites/theyec/2023/05/11/rise-of-the-ai-whisperers/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 189,
+      "heat": 219,
       "tags": null,
       "images": [
         {
@@ -349,7 +402,7 @@
       "originalUrl": "https://www.techrepublic.com/article/google-unveils-advanced-ai-bard-search-maps/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 221,
+      "heat": 171,
       "tags": null,
       "images": [
         {
@@ -402,7 +455,7 @@
       "originalUrl": "https://www.cnet.com/news-live/google-io-2023-live-blog-pixel-7a-fold-tablet-and-bard-ai-reveals/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 171,
+      "heat": 141,
       "tags": null,
       "images": [
         {
@@ -1408,50 +1461,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-02-dont-pause-ai-development-prioritize-ethics-instead.md",
-      "title": "Don’t pause AI development, prioritize ethics instead",
-      "excerpt": "Some tech companies and lawmakers are getting it wrong when it comes to AI. Instead of pausing progress, they should be prioritizing AI ethics. Here's how.\nThe post Don’t pause AI development, prioritize ethics instead appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/dont-pause-ai-development-prioritize-ethics-instead/",
-      "originalUrl": "https://www.ibm.com/blog/dont-pause-ai-development-prioritize-ethics-instead/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-02T11:43:08-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

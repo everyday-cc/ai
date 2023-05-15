@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-04-06-artificial-intelligence-chatbots-market-forecast-2023-2030-google-nuance-communications-aws.md",
+      "title": "Artificial Intelligence Chatbots Market Forecast 2023-2030| Google, Nuance Communications, AWS",
+      "excerpt": "IBM, [24]7.ai, Google, Nuance Communications, AWS, LogMeIn, Inbenta, Kore.ai, Gupshup, AIVO, Yellow Messenger, CogniCor Technologies, Passage AI, Chatfuel, SmartBots.ai The comprehensive Artificial Intelligence Chatbots market report covers various important market-related aspects,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chatbots-market-forecast-2023-2030-google-nuance-communications-aws-2023-04-06",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chatbots-market-forecast-2023-2030-google-nuance-communications-aws-2023-04-06",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-05T22:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-05-aws-launches-generative-ai-accelerator-for-startups.md",
       "title": "AWS launches generative AI accelerator for startups",
       "excerpt": "The program aims to support startups in generative artificial intelligence. This week Amazon Web Services (AWS) announced the launch of a new",

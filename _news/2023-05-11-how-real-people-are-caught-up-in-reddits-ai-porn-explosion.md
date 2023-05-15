@@ -52,6 +52,15 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "Is Reddit's \"Am I the Asshole?\" Forum the AI Counterbalance We All Need?"
+    excerpt: "Reddit's chief technology officer says he approves of AI-created content in its forums--as long as the bots are forthright abou"
+    publishedDateTime: 2023-05-15T11:03:00Z
+    webUrl: "https://www.inc.com/stephanie-mehta/is-reddits-aita-forum-the-counterbalance-to-ai-we-all-need.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 16
 
 secured: "Vkf+FrndZmODeNI1YZGmX80L03Xek3EYtPr9gJZ0hjHacvp3RkUVYP7Ksad2O1SuxfvDNpwPtO2s4aBea+eFQog4QdRUy270b7RnzVJEu+2409WAfQLPiUYpxVliixML1htPcJ16liVRVxcMBMdADS364n18hheGGIWYTrGfMyXbTPcqUA/BtMoSxg0WAzo83cQXb+4ek3GZRyz1ppf9PTst/YfWOU9mdXlQAgDkm0zhOpUigJGME5L23B+c0KOIczcBZFqZit/pACAlq/lHdKIa1A4f3wubufBgq+UemJ5DnRx4C5EMd9T76lJPpIxyypjP9jI1sW3aaJdfzTikwYKOpAEWFqYdJOdcBnwpHDkXwxJlEGs0udPlBuDPW+/TwJQiNRlcd3dzwjo5u+ecxaG/krokcG17WT1n3wCJTX3n3zDC2w+IZmVqGlv/L2h+b7hkYycXBVFBk/xpA90APREpkvebfjgkEMNsCDGkvpb8hgb+3fXKyT7vTNiplD2LDuaFuDiAXHsmB+xQ4tj+EA==;kECLxpisKAtxRp26KwfiIw=="
 ---

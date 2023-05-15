@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/richardnieva/2023/05/10/google-io-202
 webUrl: "https://www.forbes.com/sites/richardnieva/2023/05/10/google-io-2023-ai/"
 type: article
 quality: 67
-heat: -1
+heat: 67
 published: false
 
 provider:
@@ -27,17 +27,6 @@ images:
     width: 1200
     height: 797
     isCached: true
-
-related:
-  - title: "Being bold on AI means being responsible from the start"
-    excerpt: "Google’s James Manyika discusses how Google responsibly applies AI to benefit people and society."
-    publishedDateTime: 2023-05-10T18:16:00Z
-    webUrl: "https://blog.google/technology/ai/google-responsible-ai-io-2023/"
-    type: article
-    provider:
-      name: Google
-      domain: blog.google
-    quality: 69
 
 secured: "pr8ZeUSwtKyTgSiZU46HYwMcGND0O5AtUi01QVfBQJVBxqRe+tejHMWQCsiBDMuyLjwvg4ceHzcWOidDFMS0ueQt+c1exPbPN9BBZHgNJMdA7zsXb8Z6iyIVFYts4xIz3rU34LQzsdY1OK4IwZfeYxeTrQwjhlpZO49P1JOKVZcDDsCvplB9nFWULO2grkvIrhGihk7GIxYPz//zYe8W1KkMRlTx+7obRj2PrXh8KwGg9iekz3ynl6LawrsZKmoTcLCQUZCCJn9yk6oJYS/lC0I+HCRc2YLYPw+/HMoTjGKFhpOBBCoc/jd6JkSj+jCAcQ4VTKSgBW9jxKeVjyRU9cf7pyKavoccKR8bJv2HIYI+vDScTTIf43idmUMWArMD1bQ/BoG9CWlprnBJ9283hbN4XJiJFw8U+1ITilLp22vpSPZIFArInel/kX8Ka5KmT0G5eoLXTde1UvqxAsz/ah42t5yruLrVXVJnZkHyUTbrx6rfxWjMSH7gehRQh7yVhAQVduKCf7Nby4q25aYxtQ==;oUn+oh3IF931MB5/ol2byA=="
 ---

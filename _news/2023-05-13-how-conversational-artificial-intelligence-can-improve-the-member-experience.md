@@ -24,21 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "Can AI Deliver A Customer Experience Like A Grandmother Would?"
-    excerpt: "ChatGPT is super smart. But can it deliver the customer experience that creates ardent advocates? The new customer metric is not, \"Would you recommend,\" but \"Did you recommend\"—action always trumps intent."
-    publishedDateTime: 2023-05-11T19:06:00Z
-    webUrl: "https://www.forbes.com/sites/chipbell/2023/05/11/can-ai-deliver-a-customer-experience-like-a-grandmother-would/"
-    ampWebUrl: "https://www.forbes.com/sites/chipbell/2023/05/11/can-ai-deliver-a-customer-experience-like-a-grandmother-would/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/chipbell/2023/05/11/can-ai-deliver-a-customer-experience-like-a-grandmother-would/amp/"
+  - title: "How can humans maintain control over AI — forever?"
+    excerpt: "but dozens of research groups are exploring ideas for overcoming this and other limitations. Just as with the impending arrival of a superior alien civilization, it is imperative that governments cooperate on the regulation of AI. It’s in no country’s ..."
+    publishedDateTime: 2023-05-15T07:18:00Z
+    webUrl: "https://www.bostonglobe.com/2023/05/15/opinion/how-can-humans-maintain-control-over-ai-forever/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
+      name: The Boston Globe
+      domain: bostonglobe.com
+    quality: 39
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6457c256a0fc2b0c6ebf9d2d/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 801
+      - url: "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/AL7KicIw45AkMSNAyQQ0bF_rjzw=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/SCSJHITU6VE2FKMOU5XYSLEBOA.jpeg"
+        width: 506
+        height: 285
         isCached: true
 
 secured: "oJZx3cn2hxKdTVAcr6zgpUFOy/mHFET38xq0ODjrGIhIxeb8gzi8aEq9RdvWWty0nIwULpFqfnX3HqGeJAbKCGP3d8NtHlxLjNbRAvhVYOfA42pA7N355JEbUpYdG5KDUO65M504Lfy0znFsq+lYeeytWwXEo4oUD42er+V+Bqw2dJb71p6yT9hdHaUzAULTJsYM5ULpoyWmlfAF6Rv5DAHbn6WYaGy+KalgNfrYgdx9cwR7CyIc3LG0vWU+YqbpCl+38fn0kYAklcyAHoRJXJNvEGqO4mkOD6FXeBUNVGKyih8lUQRdY+cWN16rzBm81FSGD3+Ko6dhseAFyKiT2SG4yRcLWSgZa9QN9os5Fvs=;dzra9ca4vrf+ZNV/kxtH+Q=="

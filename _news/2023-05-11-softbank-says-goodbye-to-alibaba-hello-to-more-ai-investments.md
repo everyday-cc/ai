@@ -7,8 +7,8 @@ originalUrl: "https://www.wsj.com/articles/softbank-trims-overall-loss-after-top
 webUrl: "https://www.wsj.com/articles/softbank-trims-overall-loss-after-topsy-turvy-fiscal-year-9a07237c?mod=hp_lead_pos1"
 type: article
 quality: 67
-heat: 87
-published: true
+heat: -1
+published: false
 
 provider:
   name: Wall Street Journal
@@ -28,6 +28,34 @@ images:
     isCached: true
 
 related:
+  - title: "AI Recognition Market SWOT Analysis by Leading Key Players Microsoft Azure, Google, Tencent, Alibaba"
+    excerpt: "Click Here to Get Free Sample PDF Copy of Latest Research on AI Recognition Market 2023 before Purchase:  The report will also include information on the top companies in the AI Recognition market shares,"
+    publishedDateTime: 2023-05-15T09:14:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-recognition-market-swot-analysis-by-leading-key-players-microsoft-azure-google-tencent-alibaba-2023-05-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 84
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence for Accounting Market Next Big Thing With Major Giants Microsoft, AWS, Xero, Intuit"
+    excerpt: "Click Here to Get Free Sample PDF Copy of Latest Research on Artificial Intelligence for Accounting Market 2023 Before Purchase:  The report will also include information on the top companies in the Artificial Intelligence for Accounting market shares,"
+    publishedDateTime: 2023-05-15T07:29:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-for-accounting-market-next-big-thing-with-major-giants-microsoft-aws-xero-intuit-2023-05-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 83
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "SoftBank Says Goodbye to Alibaba, Hello to More AI Investments"
     excerpt: "The Japanese tech investor said it was ready to go on the offensive again with its eye on artificial-intelligence companies."
     publishedDateTime: 2023-05-11T19:41:00Z
@@ -37,20 +65,6 @@ related:
       name: Wall Street Journal
       domain: wsj.com
     quality: 47
-  - title: "SoftBank’s Pursuit of AI-ness"
-    excerpt: "The Japan-based mobile unit of SoftBank Corporation has set up a new AI-focused entity, with a specific focus on building generative AI products. The firm is also increasing investments in generative AI startups."
-    publishedDateTime: 2023-05-12T11:00:00Z
-    webUrl: "https://analyticsindiamag.com/softbanks-pursuit-of-ai-ness/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/05/softbank.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "ddAz1/Q0A7kiDnSNIlAqIReEqi8xtGesFLe5MVtlnTT+YsKnRGl5FFVDfeuIUKG8fnRNHmnAhMhKpf2pcEHptjH16VTiqq/ATEJDKiKRr3315mT2Bj1o8A9XV/bbOsLaAk2ZWUxk0DYUL6uQ6iSZ3RK1GdKrunUdpP0pBRf2pLuox/alUl2eOlTBo46vhw6PQc5VZB6vm+CmP5CC6wbWjHDABg5IGUj/7ERjTMl3FDouOJ9sZ7YiXWgHQMU+ywwFMNV9y6isFerJsdYIKOPPexU6hTbWcNodu+0XR3E+684leBR2M5SsUemmN8bLYdZuWVPmZDMn+ohxI8A94HJNxwPmk2OAfULeQKYyjJBx81w=;YszT8566yIbY6uNoOYPoEA=="
 ---

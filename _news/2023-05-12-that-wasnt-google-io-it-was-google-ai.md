@@ -73,33 +73,6 @@ related:
         width: 2000
         height: 1125
         isCached: true
-  - title: "Google I/O 2023 Live Blog: Pixel 7A, Pixel Tablet and Bard AI Reveals"
-    excerpt: "Google I/O 2023, the company's annual developer conference is now underway and is already including reveals for Google's AI plans, the new Pixel 7A, Pixel Fold and Pixel Tablet."
-    publishedDateTime: 2023-05-10T18:52:00Z
-    webUrl: "https://www.cnet.com/news-live/google-io-2023-live-blog-pixel-7a-pixel-tablet-and-bard-ai-reveals/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 51
-  - title: "Every major AI feature announced at Google I/O 2023"
-    excerpt: "As Google tries to play catch-up with the likes of Microsoft and OpenAI, it unveiled a series of AI advancements to try and get ahead in the AI race."
-    publishedDateTime: 2023-05-10T18:04:00Z
-    webUrl: "https://www.zdnet.com/article/every-major-ai-feature-announced-at-google-io-2023/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 47
-  - title: "Google I/O 2023 Live Blog: Bard AI, Gmail and Docs Reveals Lead Conference"
-    excerpt: "Google I/O 2023, the company's annual developer conference is now underway and is already including reveals for Google's AI plans. The company is also expected to reveal new Pixel devices like the rumored Pixel 7A phone,"
-    publishedDateTime: 2023-05-10T17:47:00Z
-    webUrl: "https://www.cnet.com/news-live/google-io-2023-live-blog-bard-ai-gmail-and-docs-reveals-lead-conference/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 45
   - title: "New AI Features, the Pixel Fold, and More Updates From This Year's Google I/O"
     excerpt: "Google I/O is the company’s big spring event, where it can show off new software and hardware customers and developers alike can look forward to. This year’s I/O was over two hours long, and was almost all about AI."
     publishedDateTime: 2023-05-10T21:30:00Z

@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "The Top FinTech Disruptions: Shaping the Future of Finance"
+    excerpt: "How Digital Payments, Peer-to-Peer Lending, Robo-Advisors, Blockchain, InsurTech, Open Banking, RegTech, and More Are Shaping the Future of Finance, and the Importance of Collaboration, Regulation, and Balancing Innovation with Consumer Protection for a Secure and Inclusive Financial Ecosystem."
+    publishedDateTime: 2023-05-15T10:19:00Z
+    webUrl: "https://www.devdiscourse.com/article/technology/2452129-the-top-fintech-disruptions-shaping-the-future-of-finance"
+    ampWebUrl: "https://www.devdiscourse.com/article/technology/2452129-the-top-fintech-disruptions-shaping-the-future-of-finance?amp"
+    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2452129-the-top-fintech-disruptions-shaping-the-future-of-finance?amp"
+    type: article
+    provider:
+      name: devdiscourse
+      domain: devdiscourse.com
+    quality: 59
+    images:
+      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/15_05_2023_15_36_18_8718071.png?width=1280"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Fintech Benchmarks 2023 – presentation"
     excerpt: "This year the tension between new forms of digital money and who has the authority to issue it came to the fore of the Fintech Benchmarks 2023. The majority of central banks – 73% – said keeping up with regulating the use of new fintech products and services is their key challenge."
     publishedDateTime: 2023-05-11T10:32:00Z
@@ -39,15 +55,15 @@ related:
         width: 1200
         height: 743
         isCached: true
-  - title: "Huawei Cloud – The best partner for South African fintech companies"
-    excerpt: "Huawei Cloud is a leading provider of cloud infrastructure that is stable, scalable, and reliable – making it the ideal partner for South African organizations building fintech solutions."
-    publishedDateTime: 2023-05-11T05:52:00Z
-    webUrl: "https://mybroadband.co.za/news/industrynews/490973-huawei-cloud-the-best-partner-for-south-african-fintech-companies.html"
+  - title: "Fintech or TechFins: Two Sides of the same coin of Bank Digital Transformation Space"
+    excerpt: "TechFins support the end to end Digital Transformation of a process from Origination to Credit underwriting to disbursement and also servicing."
+    publishedDateTime: 2023-05-15T11:32:00Z
+    webUrl: "https://www.ciol.com/fintech-or-techfins-two-sides-of-the-same-coin-of-bank-digital-transformation-space/"
     type: article
     provider:
-      name: MyBroadband
-      domain: mybroadband.co.za
-    quality: 4
+      name: CIOL
+      domain: ciol.com
+    quality: 12
 
 secured: "rZZ6B8pf7WmN5fiAnNQ3RTUSjJSB7UEv7djY/d5TWe+4DXsChtBgztgXHkrEi0yOMPDEu8Pm0iXa62cgBsa9Mj0jV6bUQk5QxfdDk/o2pqPDok2WceTKeNCFtnm4kTeplyKeFStrGcmMzCZQ/aKVYPQc/qh8yTNJ0BHzB3XUexSzoVFmRGkFL7WcctWfZBFHKzh5dGN0OV9GbaqziYktTrZpFiI7HKch9ZzOnAml9Eao+4UhUtcXr43MUJLhTPO7HcqlCG1y3/Z9LhnqXNs7lgM5Zm4Dn/Lbx1W8lG97JbJyGrDc4Gu8e1ZQrC7qo92wY799brCf8Ollh0u2GBdFR44aT5t4cvU4R+ngF2zGk9g=;l57Ew79USK+bwCxEoVhatA=="
 ---

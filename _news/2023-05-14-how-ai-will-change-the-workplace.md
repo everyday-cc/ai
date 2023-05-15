@@ -74,6 +74,22 @@ related:
         width: 1280
         height: 670
         isCached: true
+  - title: "Catching bad content in the age of AI"
+    excerpt: "Why haven’t tech companies improved at content moderation? This article is from The Technocrat, MIT Technology Review's weekly tech policy newsletter about power, politics, and Silicon Valley. To receive it in your inbox every Friday,"
+    publishedDateTime: 2023-05-15T10:00:00Z
+    webUrl: "https://www.technologyreview.com/2023/05/15/1073019/catching-bad-content-in-the-age-of-ai/"
+    ampWebUrl: "https://www.technologyreview.com/2023/05/15/1073019/catching-bad-content-in-the-age-of-ai/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/05/15/1073019/catching-bad-content-in-the-age-of-ai/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 59
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/05/hi-wire-netA.jpeg?w=3000"
+        width: 3000
+        height: 1688
+        isCached: true
   - title: "As AI jobs loss fears spread, know these 10 jobs that will grow because of it"
     excerpt: "World Economic Forum has informed about top 10 fastest growing jobs because of Artificial Intelligence. From Robotics Engineers to AI Machine Learning specialists, check the list here. Artificial Intelligence will claim a huge number of jobs causing fear to spread rapidly among workers."
     publishedDateTime: 2023-05-10T21:42:00Z
@@ -146,6 +162,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "The creative use of generative AI in post-production"
+    excerpt: "Graham McGuinness at Jigsaw24 Media explains how AI is already helping post-production with creating technical grades and post-producing scripted content"
+    publishedDateTime: 2023-05-12T12:08:00Z
+    webUrl: "https://www.broadcastnow.co.uk/tech/the-creative-use-of-generative-ai-in-post-production/5181926.article"
+    type: article
+    provider:
+      name: Broadcast
+      domain: broadcastnow.co.uk
+    quality: 19
   - title: "All eyes on AI"
     excerpt: "\"Colorado has taken vague principles of AI ethics, such as accountability, fairness, transparency... and turned them into the concrete requirements for policies, governance, and technical controls,\" the practice leaders wrote."
     publishedDateTime: 2023-05-12T19:10:00Z
@@ -159,6 +184,15 @@ related:
     excerpt: "EU lawmakers have agreed a tough set of rules over the use of AI, including restrictions on chatbots such as ChatGPT, as Brussels pushes forward in enacting the world’s most restrictive regime on the development of the technology."
     publishedDateTime: 2023-05-11T11:24:00Z
     webUrl: "https://www.ft.com/content/da597e19-4d63-4d4d-b7d1-c3405302a1e3"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 17
+  - title: "The likely winners of the generative AI gold rush"
+    excerpt: "Small, specialist models that are cheap to train and fast to run may win out over the broader Big Tech offerings"
+    publishedDateTime: 2023-05-11T13:10:00Z
+    webUrl: "https://www.ft.com/content/0cbe91ec-0971-4ba6-bdf1-87855aedd34c"
     type: article
     provider:
       name: The Financial Times

@@ -7,7 +7,7 @@ originalUrl: "https://www.wired.com/story/self-driving-cars-are-being-put-on-a-d
 webUrl: "https://www.wired.com/story/self-driving-cars-are-being-put-on-a-data-diet/"
 type: article
 quality: 54
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -55,20 +55,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/9750c38b8398a3c158f98dfcf9648ca8e12f8174/102_0_3300_1980/master/3300.jpg?width=620&quality=85&auto=format&fit=max&s=e3d10e627bcf807b650606318f5e9b62"
         width: 620
         height: 372
-        isCached: true
-  - title: "What self-driving cars may mean for traffic"
-    excerpt: "AI might be arriving with a bang, but autonomous cars are crawling closer at a snail’s pace. What’s the delay? And what can we expect to change on our roads in the next decade?"
-    publishedDateTime: 2023-05-15T07:01:00Z
-    webUrl: "https://www.thestar.com.my/lifestyle/living/2023/05/15/what-self-driving-cars-may-mean-for-traffic"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 24
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2023/05/15/2072912.jpg"
-        width: 800
-        height: 507
         isCached: true
 
 secured: "39KiVVgVwR1XFDrui/jOwolSeUnYcg0FrNT/m+JqiGOnJy8yKZLWTmNGuppDCxE/mLlJQUNvq9XWFOgtyLS8cI5Xivl1MlACkefUpxZ/WmKY0LP7AaRkbtBl0DZnABxjPK5X/3Ua/s4QMH9olPxkF9CrQuW7AQKc0Eo+hfX3k9RSnH+IfQEysjNcJgH+Y/iww1Po5+Us6XsAUtSnXv7ggqv87h20dSzeq3Elge3XeT/lrtSV7HakmuqfTlUrDNnbky+aRK7a9vCdsIXy4DAaSFuq/RoHr8MjYtVUPM9UCk8LO5rZG7z5fcVojrJ+5OwLv2ZTq7CTOdoHtWFpEu31t+4zyL7EPZ6lgtf8vkATJkza25HTNCrKGjAI4MttsbTXG8DIpJzbjkpmjAqC2GlbJYRrrqqYMd+RNpgPw5SBZmFtUTLXP9UhIGqpOulX1RTphec3Xm+hWpzQNXxvpXoTWNeW6dot03XWIG7ywOTYF2u7m3HTAxOoqTUgk0wukoYgfCXdUI/fmYu9KEspPYTOpg==;elrzrwPf5oaScc/dPWOJuA=="

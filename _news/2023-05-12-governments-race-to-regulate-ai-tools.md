@@ -53,6 +53,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "Is Reddit's \"Am I the Asshole?\" Forum the AI Counterbalance We All Need?"
+    excerpt: "Reddit's chief technology officer says he approves of AI-created content in its forums--as long as the bots are forthright abou"
+    publishedDateTime: 2023-05-15T11:03:00Z
+    webUrl: "https://www.inc.com/stephanie-mehta/is-reddits-aita-forum-the-counterbalance-to-ai-we-all-need.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 16
 
 secured: "gLPA0YjHTQlFTRp5PUwPOacH8AUh79wC5QvqEjW3uiT2L9A7GL1z3oe01dePwtfECInLo3UVDH3OFgxJ55WSCKqW19KGOZ5KsIuAHoOMHtivg75zwR8rYIVxNtNzo93mUd2vY7Lk7LEJ/f9Fk31/oIrW7gssR7YO3rK669fwrlPJeAJ+WjeDfT2bgTGlm2NG2twShMRek3GpfOECGwMaj02mK4ydRj+cfBORkmGxXAaO6xpMVqMbDOlPwr2Km6zYgHRMm65MdrJR0ZYmHdUVwiolOFFFypHgvmxnm7rrUleivmtu55K86gI4cybK0YpaXjFeIGAEUj85420jnP+jVGq37kpfNdqlLkxpqbCgfiM=;jyHD3PUqGqsCEhQpGJA1nQ=="
 ---

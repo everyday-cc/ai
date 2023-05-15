@@ -127,20 +127,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "AMP Robotics Raises Additional Series C Investment From Microsoft Climate Innovation Fund"
-    excerpt: "AMP Robotics Corp. (“AMP”), a pioneer in artificial intelligence (AI), robotics, and infrastructure for the waste and recycling industry, has received financing from Microsoft’s Climate Innovation Fund."
-    publishedDateTime: 2023-05-10T17:39:00Z
-    webUrl: "https://www.waste360.com/business/amp-robotics-raises-additional-series-c-investment-microsoft-climate-innovation-fund"
-    type: article
-    provider:
-      name: Waste360
-      domain: waste360.com
-    quality: 77
-    images:
-      - url: "https://www.waste360.com/sites/waste360.com/files/amproboticsfeat.png"
-        width: 1540
-        height: 800
-        isCached: true
   - title: "Microsoft invests in Builder.ai for scaling up AI efforts"
     excerpt: "Microsoft has funded an undisclosed sum in Builder.ai, marking the company’s scaling up its efforts in Artificial Intelligence and competing with Google. Emphasising how Microsoft was committed to helping startups,"
     publishedDateTime: 2023-05-11T05:35:00Z
@@ -224,15 +210,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 42
-  - title: "Google unveils AI-powered search engine to rival Microsoft’s Bing"
-    excerpt: "Google has been scrambling to catch up with Microsoft on consumer AI products. In February, Microsoft beat its rival to the punch by unveiling an AI-driven Bing search engine using OpenAI’s GPT technology. A month later, OpenAI revealed its language model, GPT-4, which users can access through a premium version of ChatGPT and via Bing."
-    publishedDateTime: 2023-05-10T18:00:00Z
-    webUrl: "https://www.ft.com/content/97515324-b75a-4c2c-b3d7-fef1f6e51efe"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 34
 
 secured: "LYijvq7GeKpiZKwuUpifNudBpNThs3zhVxqbjP7IEwFHR4dT3F7BXYIk76VTOtZ7CjVaaCMa22s6GWk9BPa0wOpo2HnJBNjzgULi5PNrZTbxcbLmLRaQIt838GXoLunaWuIXW9jz2g2Nfe5lg+W8p90k4Up+NtpGLl/NPh8axZyRHwVWUvQAfR/b6TTY8c7iVSI9tATIwbT/7uRWAu15oijAsupw+xXWffcLu4cZ+v8X4a9YiLgDZydu9qRbCrKeGPTRmg4jmZiqSXHE4Qv3Ad35wkadk/wEcO4LBVsv/K7QBJUtJiotQtc1a1GKDNii0vBeoAPeEGSyZ56JpyC6XH/y41jx+ti/np2jcGIGUfHGGLckMsvQZ19v6VKbs76xEpd5tE+mn95M0blpb7GCfz77sxEx9FPZRvItLlmYOQMxLWvpycXGisTxfiQrn063UKBxVp14fSykwtslfC+bP4CpQPYW8QlY3xi174YMNHJ3Y36Af740+7rUZAuLGa7qsLa2T0lqp06DBmny5HuPHQ==;/5Dn+mg5Epnf1STYeVhC4g=="
 ---

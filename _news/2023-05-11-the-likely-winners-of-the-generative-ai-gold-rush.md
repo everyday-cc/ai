@@ -18,310 +18,154 @@ topics:
   - AI
 
 related:
-  - title: "Supercharging Search with generative AI"
-    excerpt: "We’re starting with an experiment in Search Labs called SGE, Search Generative Experience, which uses generative AI."
-    publishedDateTime: 2023-05-10T17:45:00Z
-    webUrl: "https://blog.google/products/search/generative-ai-search/"
-    ampWebUrl: "https://blog.google/products/search/generative-ai-search/amp/"
-    cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/search/generative-ai-search/amp/"
-    type: article
-    provider:
-      name: Google
-      domain: blog.google
-    quality: 109
-    images:
-      - url: "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/socialshare-test.width-1300.jpg"
-        width: 1300
-        height: 731
-        isCached: true
-  - title: "WorkHack Targets Big Businesses As They Fumble With Generative AI"
-    excerpt: "WorkHack’s platform is aimed at large enterprises that are keen to develop new use cases for generative AI but nervous about how to do so safely and effectively. “We want to help them use this technology responsibly and thoughtfully,” explains Akshat Tyagi, the founder of the company."
-    publishedDateTime: 2023-05-15T06:30:00Z
-    webUrl: "https://www.forbes.com/sites/davidprosser/2023/05/15/workhack-targets-big-businesses-as-they-fumble-with-generative-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/davidprosser/2023/05/15/workhack-targets-big-businesses-as-they-fumble-with-generative-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidprosser/2023/05/15/workhack-targets-big-businesses-as-they-fumble-with-generative-ai/amp/"
+  - title: "Rise Of The AI Whisperers"
+    excerpt: "I see the emerging profession of AI whisperer as holding the key to unlocking the full potential of AI systems."
+    publishedDateTime: 2023-05-11T11:15:00Z
+    webUrl: "https://www.forbes.com/sites/theyec/2023/05/11/rise-of-the-ai-whisperers/"
+    ampWebUrl: "https://www.forbes.com/sites/theyec/2023/05/11/rise-of-the-ai-whisperers/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2023/05/11/rise-of-the-ai-whisperers/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
     quality: 89
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/645e4c3f71fe50b2fd1853c6/0x0.jpg?format=jpg&crop=1284,723,x435,y153,safe&width=1200"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/645ba88738407b978d2796dd/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 676
+        height: 800
         isCached: true
-  - title: "What AI-Generated Fingers AI Can Teach You About Training Your Own Models"
-    excerpt: "Generative AI is everywhere and has unlocked creativity for extraordinary creations, such as images of ecstatic Friedrich Nietzsche dancing or of Immanuel Kant with a sneaky grin. Rather than deciphering Kant's intricate ideas,"
-    publishedDateTime: 2023-05-11T11:44:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/11/what-ai-generated-fingers-ai-can-teach-you-about-training-your-own-models/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/11/what-ai-generated-fingers-ai-can-teach-you-about-training-your-own-models/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/05/11/what-ai-generated-fingers-ai-can-teach-you-about-training-your-own-models/amp/"
+  - title: "Dangers of AI: What are the Artificial Intelligence threats and risks?"
+    excerpt: "Although AI has been hailed as revolutionary and a game-changer, it has drawbacks. In addition to planning for superintelligent computers, contemporary AI can bring problems. Let's take a look at some crucial AI-related risks."
+    publishedDateTime: 2023-05-14T15:08:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/dangers-of-ai-what-are-the-artificial-intelligence-threats-and-risks-10585221.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/technology/dangers-of-ai-what-are-the-artificial-intelligence-threats-and-risks-10585221.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/dangers-of-ai-what-are-the-artificial-intelligence-threats-and-risks-10585221.html/amp"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 88
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 74
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/645b9e989f952bd52c9c02fa/0x0.jpg?format=jpg&crop=3702,2084,x0,y499,safe&width=1200"
-        width: 1200
-        height: 676
+      - url: "https://images.moneycontrol.com/static-mcnews/2023/05/AI-2.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "What enterprises need to know about adopting generative AI"
-    excerpt: "Enterprises that embrace and master generative AI will gain a competitive edge and create new opportunities for growth and innovation."
-    publishedDateTime: 2023-05-14T23:11:00Z
-    webUrl: "https://venturebeat.com/ai/what-enterprises-need-to-know-about-adopting-generative-ai/"
-    ampWebUrl: "https://venturebeat.com/ai/what-enterprises-need-to-know-about-adopting-generative-ai/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/what-enterprises-need-to-know-about-adopting-generative-ai/amp/"
+  - title: "Google Is Opening the AI Floodgates"
+    excerpt: "This week we recap all the news from Google I/O and discuss how the company is reshaping its core business with generative tools."
+    publishedDateTime: 2023-05-12T12:00:00Z
+    webUrl: "https://www.wired.com/story/gadget-lab-podcast-597/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
+      name: Wired
+      domain: wired.com
+    quality: 67
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1133176856.jpg?w=1200&strip=all"
-        width: 1200
-        height: 655
+      - url: "https://media.wired.com/photos/645d18570b67c709cbcaa855/191:100/w_1280,c_limit/Google-IO-2023-Gadget-Lab-Gear-1488931959.jpg"
+        width: 1280
+        height: 670
         isCached: true
-  - title: "How Organizations Can Leverage Generative AI To Reinvent The Customer Experience"
-    excerpt: "Businesses of all sizes and industries are exploring and crafting their own generative AI use cases to change the way they—and their customers—interact with technology forever."
-    publishedDateTime: 2023-05-11T10:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/11/how-organizations-can-leverage-generative-ai-to-reinvent-the-customer-experience/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/11/how-organizations-can-leverage-generative-ai-to-reinvent-the-customer-experience/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/05/11/how-organizations-can-leverage-generative-ai-to-reinvent-the-customer-experience/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 84
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/645b96df2eac9fd38eb32fd0/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 798
-        isCached: true
-  - title: "New Google search tool will distinguish real images from AI-generated phonies"
-    excerpt: "Rolling out in the coming months, the new 'About this Image' tool will help identify which images in a search are real and which are created by AI."
-    publishedDateTime: 2023-05-11T14:52:00Z
-    webUrl: "https://www.zdnet.com/article/new-google-search-tool-will-distinguish-real-images-from-ai-generated-phonies/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/new-google-search-tool-will-distinguish-real-images-from-ai-generated-phonies/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/new-google-search-tool-will-distinguish-real-images-from-ai-generated-phonies/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 84
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/e2abf1115d40e1fcee596f55c6be46a839a0d904/2023/05/11/1f3609ef-3fd4-45b9-9162-dc868eff6419/figure-top-new-google-search-tool-will-distinguish-real-images-from-ai-generated-phonies.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Google’s Duet AI brings more generative features to Workspace apps"
-    excerpt: "After OpenAI’s ChatGPT caught the tech world off guard late last year, Google reportedly declared a “code red,” scrambling to plan a response to the new threat."
-    publishedDateTime: 2023-05-10T17:45:00Z
-    webUrl: "https://www.engadget.com/googles-duet-ai-brings-more-generative-features-to-workspace-apps-173944737.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 69
-    images:
-      - url: "https://s.yimg.com/uu/api/res/1.2/VEe7NhQRnwM.xJ36kN_Rfw--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-05/f93ba6b0-ef58-11ed-bffd-1d888782a206.cf.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "The AI takeover of Google Search starts now"
-    excerpt: "The future of Google Search is AI. But not in the way you think. The company synonymous with web search isn’t all in on chatbots (even though it’s building one, called Bard ), and it’s not redesigning its homepage to look more like a ChatGPT-style messaging system."
-    publishedDateTime: 2023-05-10T17:51:00Z
-    webUrl: "https://www.theverge.com/2023/5/10/23717120/google-search-ai-results-generated-experience-io"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 69
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/QQawoxSGsujkaqzq1e5nMDIBGdw=/0x0:2620x1500/1200x628/filters:focal(233x623:234x624)/cdn.vox-cdn.com/uploads/chorus_asset/file/24644238/SGE_Bluetooth_Speakers_v2.png"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Google Says Search Enters New Era With Conversational AI Features"
-    excerpt: "The company intends to use AI programs to provide lengthier replies to queries. The new features invite follow-up questions."
-    publishedDateTime: 2023-05-10T20:36:00Z
-    webUrl: "https://www.wsj.com/articles/google-says-search-enters-new-era-with-conversational-features-ca17f277"
+  - title: "How AI Will Change the Workplace"
+    excerpt: "We asked some top thinkers from different fields to weigh in on what’s ahead, as the AI explosion compels businesses to rethink, well, almost everything."
+    publishedDateTime: 2023-05-14T14:00:00Z
+    webUrl: "https://www.wsj.com/articles/how-ai-change-workplace-af2162ee"
     type: article
     provider:
       name: Wall Street Journal
       domain: wsj.com
     quality: 67
     images:
-      - url: "https://images.wsj.net/im-779547/social"
+      - url: "https://images.wsj.net/im-779753/social"
         width: 1280
         height: 640
         isCached: true
-  - title: "Meet the New Google Search: AI-Generated Results Get Top Billing"
-    excerpt: "At I/O, Google previews the new 'Search Generative Experience,' which places AI-powered results atop traditional search results."
-    publishedDateTime: 2023-05-10T21:15:00Z
-    webUrl: "https://www.pcmag.com/news/meet-the-new-google-search-ai-generated-results-get-top-billing"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 67
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/02wpEEUQXRc8sreSn73b1Q1-1.fit_lim.size_1200x630.v1683749201.jpg"
-        width: 1120
-        height: 630
-        isCached: true
-  - title: "The Boring Future of Generative AI"
-    excerpt: "ChatGPT’s chaotic streak can be charming. Google’s new chat-style search shows text-generation technology is headed in a much tamer direction."
-    publishedDateTime: 2023-05-11T16:00:00Z
-    webUrl: "https://www.wired.com/story/the-boring-future-of-generative-ai/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 67
-    images:
-      - url: "https://media.wired.com/photos/645c399a7b25a434b1f3bd06/191:100/w_1280,c_limit/Google-IO-2023-Fast%20Forward-Sundar-IO-2023-23_0943.jpg"
-        width: 1280
-        height: 670
-        isCached: true
-  - title: "ChatGPT and Generative AI in Media and Advertising: With Use Cases Set, the Battle for Hearts and Minds Begins"
-    excerpt: "Generative AI can already do much of the work and low-skilled labor that powers modern media and advertising."
-    publishedDateTime: 2023-05-12T17:00:00Z
-    webUrl: "https://www.businessinsider.com/generative-ai-media-and-advertising-battle-for-hearts-use-cases-2023-may"
-    ampWebUrl: "https://www.businessinsider.com/generative-ai-media-and-advertising-battle-for-hearts-use-cases-2023-may?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/generative-ai-media-and-advertising-battle-for-hearts-use-cases-2023-may?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 67
-    images:
-      - url: "https://i.insider.com/64402b373f6f690018de8d48?width=1200&format=jpeg"
-        width: 470
-        height: 352
-        isCached: true
-  - title: "Google’s Vertex AI machine learning platform gets generative AI tools"
-    excerpt: "The new updates to Google Cloud’s machine learning service will help the company square up against rivals such as Microsoft, AWS and IBM."
-    publishedDateTime: 2023-05-10T18:15:00Z
-    webUrl: "https://www.infoworld.com/article/3696208/google-s-vertex-ai-machine-learning-platform-gets-generative-ai-tools.html"
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 66
-  - title: "DDN Empowers Breakthroughs in Generative AI with Unprecedented Sales Growth"
-    excerpt: "DDN, the global leader in artificial intelligence (AI) and multi-cloud data management solutions, today announced that"
-    publishedDateTime: 2023-05-11T20:06:00Z
-    webUrl: "https://www.datanami.com/this-just-in/ddn-empowers-breakthroughs-in-generative-ai-with-unprecedented-sales-growth/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 54
-    images:
-      - url: "https://www.datanami.com/wp-content/uploads/2020/06/DDN-Logo-Portrait-RGB-1-300x300-1-300x300.png"
-        width: 300
-        height: 300
-        isCached: true
-  - title: "Meta Joins Generative AI Race, Will Begin Testing AI-Powered Ads Tools to Create Content"
-    excerpt: "A select group of advertisers will be invited to experiment with the tools in a \"testing playground\" that Meta is calling the AI Sandbox."
-    publishedDateTime: 2023-05-12T06:49:00Z
-    webUrl: "https://www.gadgets360.com/internet/news/facebook-meta-announces-generative-ai-ads-tool-testing-artificial-intelligence-4027738"
-    ampWebUrl: "https://www.gadgets360.com/internet/news/facebook-meta-announces-generative-ai-ads-tool-testing-artificial-intelligence-4027738/amp"
-    cdnAmpWebUrl: "https://www-gadgets360-com.cdn.ampproject.org/c/s/www.gadgets360.com/internet/news/facebook-meta-announces-generative-ai-ads-tool-testing-artificial-intelligence-4027738/amp"
-    type: article
-    provider:
-      name: gadgets360
-      domain: gadgets360.com
-    quality: 48
-    images:
-      - url: "https://i.gadgets360cdn.com/large/meta_image_reuters_1654769238524.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Google Just Added Generative AI to Search"
-    excerpt: "Challenged by ChatGPT, the king of search launches a feature that can answer queries with text summarizing information found online."
-    publishedDateTime: 2023-05-10T17:59:00Z
-    webUrl: "https://www.wired.com/story/google-io-just-added-generative-ai-to-search/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 47
-  - title: "Google to revamp search with generative AI tools, but gradually"
-    excerpt: "The approach insulates Google from some of the ethical concerns surrounding generative AI. Read more at straitstimes.com."
-    publishedDateTime: 2023-05-11T01:52:00Z
-    webUrl: "https://www.straitstimes.com/world/united-states/google-to-revamp-search-with-generative-ai-tools-but-gradually"
-    type: article
-    provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 39
-    images:
-      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2023/05/11/GOOGLEAI7.JPG?VersionId=reNH981AG40mKLjaJ4zZiHurml9tao66"
-        width: 860
-        height: 573
-        isCached: true
-  - title: "Google Is Rolling the Dice With AI Search"
-    excerpt: "As AI answers fill our phone screens, what will become of the tech giant’s relationship with advertisers — or the truth?"
-    publishedDateTime: 2023-05-11T23:53:00Z
-    webUrl: "https://www.washingtonpost.com/business/2023/05/12/google-is-rolling-the-dice-with-ai-search/42a55c5a-f081-11ed-b67d-a219ec5dfd30_story.html"
-    type: article
-    provider:
-      name: The Washington Post
-      domain: washingtonpost.com
-    quality: 39
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IH5Q43HQQEI63NT5UIM6YXP5GA.jpg&w=1440"
-        width: 1440
-        height: 958
-        isCached: true
-  - title: "Google adding AI to popular apps, search"
-    excerpt: "AI-generated responses will top the results pages, and allow users to ask follow-up questions. Google also plans to add a \"help me write\" option in its GMail that will generate replies to emails within seconds."
-    publishedDateTime: 2023-05-11T14:18:00Z
-    webUrl: "https://www.cbsnews.com/newyork/video/google-adding-ai-to-popular-apps-search/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 37
-    images:
-      - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/05/11/76c64e6b-6549-4c21-8823-8f3d1bf8f87a/thumbnail/1200x630/24eb6d37a456e6c3f266e2d621d2d54e/5ce48051e6594736cf61c54a5327ef5c.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Meta to start testing generative AI tools for advertisers"
-    excerpt: "The generative AI ad tool AI Sandbox is currently being released to a small group of advertisers and will see a bigger release in July."
-    publishedDateTime: 2023-05-13T07:57:00Z
-    webUrl: "https://www.afaqs.com/news/digital/meta-to-start-testing-generative-ai-tools-for-advertisers"
-    type: article
-    provider:
-      name: AFAQS
-      domain: afaqs.com
-    quality: 37
-    images:
-      - url: "https://gumlet.assettype.com/afaqs%2F2023-05%2F32d75038-49eb-43cb-91fe-9da8b8d51f58%2Fmedia_mantra__3_.png?rect=0%2C20%2C1280%2C672&w=1200&auto=format%2Ccompress&ogImage=true"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "G7 education ministers stress on mitigating risks related to generative artificial intelligence"
-    excerpt: "G7 Education Ministers agreed on the importance of continued understanding related to issues stemming from the fast-developing technology that has caught the attention of the public since the launch of ChatGPT by US firm OpenAI in November 2022."
-    publishedDateTime: 2023-05-14T17:56:00Z
-    webUrl: "https://www.devdiscourse.com/article/international/2451614-g7-education-ministers-stress-on-mitigating-risks-related-to-generative-artificial-intelligence"
-    type: article
-    provider:
-      name: devdiscourse
-      domain: devdiscourse.com
-    quality: 22
-  - title: "Google is throwing generative AI at everything"
-    excerpt: "But experts say that releasing these models into the wild before fixing their flaws could prove extremely risky for the company."
-    publishedDateTime: 2023-05-10T19:00:00Z
-    webUrl: "https://www.technologyreview.com/2023/05/10/1072880/google-is-throwing-generative-ai-at-everything/"
+  - title: "Catching bad content in the age of AI"
+    excerpt: "Why haven’t tech companies improved at content moderation? This article is from The Technocrat, MIT Technology Review's weekly tech policy newsletter about power, politics, and Silicon Valley. To receive it in your inbox every Friday,"
+    publishedDateTime: 2023-05-15T10:00:00Z
+    webUrl: "https://www.technologyreview.com/2023/05/15/1073019/catching-bad-content-in-the-age-of-ai/"
+    ampWebUrl: "https://www.technologyreview.com/2023/05/15/1073019/catching-bad-content-in-the-age-of-ai/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/05/15/1073019/catching-bad-content-in-the-age-of-ai/amp/"
     type: article
     provider:
       name: MIT Technology Review
       domain: technologyreview.com
-    quality: 19
+    quality: 59
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/05/hi-wire-netA.jpeg?w=3000"
+        width: 3000
+        height: 1688
+        isCached: true
+  - title: "As AI jobs loss fears spread, know these 10 jobs that will grow because of it"
+    excerpt: "World Economic Forum has informed about top 10 fastest growing jobs because of Artificial Intelligence. From Robotics Engineers to AI Machine Learning specialists, check the list here. Artificial Intelligence will claim a huge number of jobs causing fear to spread rapidly among workers."
+    publishedDateTime: 2023-05-10T21:42:00Z
+    webUrl: "https://tech.hindustantimes.com/tech/news/as-ai-jobs-loss-fears-spread-know-these-10-jobs-that-will-grow-because-of-it-71683713149141.html"
+    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/as-ai-jobs-loss-fears-spread-know-these-10-jobs-that-will-grow-because-of-it-71683713149141.html"
+    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/as-ai-jobs-loss-fears-spread-know-these-10-jobs-that-will-grow-because-of-it-71683713149141.html"
+    type: article
+    provider:
+      name: Hindustan Times Tech
+      domain: hindustantimes.com
+    quality: 56
+    images:
+      - url: "https://images.hindustantimes.com/tech/img/2023/05/10/cropped/16-9/USA-ARTIFICAL-INTELLIGENCE-BIDEN-0_1683713231312_1683713308449.JPG?impolicy=new-ht-20210112&width=1600"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "DEF CON to set thousands of hackers loose on AI"
+    excerpt: "Thousands of hackers will get a shot at testing the limits of AI technology at a mass hacking event at the famed DEF CON hacker convention. Some of the things they’ll be looking to find: How can chatbots be manipulated to cause harm?"
+    publishedDateTime: 2023-05-14T21:30:00Z
+    webUrl: "https://rapidcityjournal.com/news/def-con-to-set-thousands-of-hackers-loose-on-ai/article_52d189c1-a957-571c-abad-b949fccf5735.html"
+    type: article
+    provider:
+      name: Rapid City Journal
+      domain: rapidcityjournal.com
+    quality: 39
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/rapidcityjournal.com/content/tncms/assets/v3/editorial/5/2d/52d189c1-a957-571c-abad-b949fccf5735/645be190f1bd6.preview.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Taming AI to the benefit of humans"
+    excerpt: "Previous sci-fi movies featuring AI often portray evil-minded enemies set on destroying humanity, such as The Terminator, The Matrix and Blade Runner. Experts, including late British theoretical physicist Stephen Hawking and Tesla CEO Elon Musk,"
+    publishedDateTime: 2023-05-15T02:58:00Z
+    webUrl: "https://global.chinadaily.com.cn/a/202305/15/WS64619228a310b6054fad2f53.html"
+    type: article
+    provider:
+      name: 中国日报网
+      domain: chinadaily.com.cn
+    quality: 39
+    images:
+      - url: "https://img2.chinadaily.com.cn/images/202305/15/64619228a310b60580cce72b.jpeg"
+        width: 608
+        height: 405
+        isCached: true
+  - title: "Google Wants to Play Both Sides of the AI Arms Race"
+    excerpt: "CEO Sundar Pichai and several top executives at Google’s parent company Alphabet took the stage to announce the infusion of AI into its suite of tools, as well as the launch of a new-and-improved AI model to power it all."
+    publishedDateTime: 2023-05-10T22:03:00Z
+    webUrl: "https://www.thedailybeast.com/googles-io-conference-reveals-the-internets-ai-generated-future"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 37
+    images:
+      - url: "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_675,w_1200,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1683752560/230509-Google-AI-sides-tease_dvcxia"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Hospitality sector’s use of artificial intelligence could rise as owners look for ways around expensive apps"
+    excerpt: "The idea of robots in hospitality may conjure visions of The Jetsons’ personal assistant Rosey, or robotic waiters at city restaurants, but experts say the sector’s adoption of AI will grow."
+    publishedDateTime: 2023-05-12T08:09:00Z
+    webUrl: "https://thewest.com.au/business/retail/hospitality-sectors-use-of-artificial-intelligence-could-rise-as-owners-look-for-ways-around-expensive-apps-c-10415544"
+    type: article
+    provider:
+      name: The West Australian
+      domain: thewest.com.au
+    quality: 20
+    images:
+      - url: "https://images.thewest.com.au/publication/C-10415544/57de6a51ee683fc8bed087633ae160bcc2fb5431-16x9-x0y287w2756h1550.jpg?imwidth=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "The creative use of generative AI in post-production"
     excerpt: "Graham McGuinness at Jigsaw24 Media explains how AI is already helping post-production with creating technical grades and post-producing scripted content"
     publishedDateTime: 2023-05-12T12:08:00Z
@@ -331,23 +175,23 @@ related:
       name: Broadcast
       domain: broadcastnow.co.uk
     quality: 19
-  - title: "Google is giving its dominant search engine an AI makeover"
-    excerpt: "Google on Wednesday disclosed plans to infuse its dominant search engine with more advanced artificial-intelligence technology, a drive that's in response to one of the biggest threats to its long-established position as the internet's main gateway."
-    publishedDateTime: 2023-05-11T05:41:00Z
-    webUrl: "https://lasvegassun.com/news/2023/may/10/google-is-giving-its-dominant-search-engine-an-ai/"
+  - title: "All eyes on AI"
+    excerpt: "\"Colorado has taken vague principles of AI ethics, such as accountability, fairness, transparency... and turned them into the concrete requirements for policies, governance, and technical controls,\" the practice leaders wrote."
+    publishedDateTime: 2023-05-12T19:10:00Z
+    webUrl: "https://www.bizjournals.com/denver/news/2023/05/12/colorado-rules-artificial-intelligence-insurance.html"
     type: article
     provider:
-      name: Las Vegas Sun
-      domain: lasvegassun.com
-    quality: 17
-  - title: "Educational Psychology Meets Generative AI"
-    excerpt: "Post by Dr. Andrew J. Martin, School of Education, University of New South Wales, Australia"
-    publishedDateTime: 2023-05-11T18:35:00Z
-    webUrl: "https://www.psychologytoday.com/us/blog/psyched/202305/educational-psychology-meets-generative-ai"
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 19
+  - title: "EU lawmakers agree tough measures over use of AI"
+    excerpt: "EU lawmakers have agreed a tough set of rules over the use of AI, including restrictions on chatbots such as ChatGPT, as Brussels pushes forward in enacting the world’s most restrictive regime on the development of the technology."
+    publishedDateTime: 2023-05-11T11:24:00Z
+    webUrl: "https://www.ft.com/content/da597e19-4d63-4d4d-b7d1-c3405302a1e3"
     type: article
     provider:
-      name: Psychology Today
-      domain: psychologytoday.com
+      name: The Financial Times
+      domain: ft.com
     quality: 17
 
 secured: "p7ZEfOWFezWr5awJ1IH51PMecOr0dxI+dPmoHY8GsRzuBmFphACeLDHQHd0VQIIqJQUFl9+/qW5MEQ/FfS7faJQY4WkGmQJWZGhnQm3q8MsES6XcioAFE7miT1ZuAq59/z85upvXpD/EOooXeClfMCTZVtzaZrNoBn3ja0oFkEKxD8TxDdekVSZq8Vn+a4Ey3GvWvVfsFFUxeJG6rxahdlQjCjjomgHfDR2YkI0vvCGOngQYtX8OnkNiq+Qa76ga5Fx4bk96N+Zo1rib1cwBXF4Ux6O8nWySmegDfVHP8Fk7oqpcHenRCB4iv0AQVFEOiwr5/+zMHY9gsI3GiUT866sZ5c4lj5d5tbjSk9oXca1jFPjKsdp4aK4U1C6kzuSUqWbhmSW5pzObh1FhqDfftZKrAHN54ACzEHfPYQu9jZM3myvFef8EMptr2nJkfEmG4Igrofty/tGBf8u7I/0ollAl5wNk+gIxNhybRIzgy4vVIrZPyuDWVAK/cxcBMak6CjqsZoPDi1hvVtWmgGa87g==;Ke/c4nsrZcfb/5ieIijC9g=="

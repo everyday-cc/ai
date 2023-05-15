@@ -23,6 +23,22 @@ images:
     height: 359
     isCached: true
 
+related:
+  - title: "Irish Times apology over apparent artificial intelligence composed article"
+    excerpt: "Irish Times editor Ruadhan Mac Cormaic said the newspaper was 'genuinely sorry'and got it 'badly wrong'. | UTV News"
+    publishedDateTime: 2023-05-15T08:52:00Z
+    webUrl: "https://www.itv.com/news/utv/2023-05-15/newspaper-apology-over-fake-tan-ai-article"
+    type: article
+    provider:
+      name: ITV
+      domain: itv.com
+    quality: 37
+    images:
+      - url: "https://images.ctfassets.net/pjshm78m9jt4/1VUvGkvNNpsD6G6FCJg3Vt/2b48e0d5b7acb2e42b1aabb71f747208/Irish_Times.JPG"
+        width: 715
+        height: 574
+        isCached: true
+
 secured: "GH5yvNB/OhXQiq+bz254ihIfrvGlEX3SZ+qvjACgh0poMb6SBNq/AScgflaVaLdbi5hqXPY+3EK+oE4ki+VMYh3Stvf7kAQ9cl6xa7UE3tyvF9bVPjNW/LROfySBbF1/UO9vfLEcvEWEWNFP4/gKnoWmBRa8z7ooPFl8WxjhwXWN355FLZlT3k5SauDVJZytMC24sCjYaZNgSZuDaYQCYjMeoTEOHyRf/MvBekQrEd4aTBPiTdwRoiwYrA9TQa+BwFh5P8h34xzDTn+UGiKhVVMq1UrtgwsvxBpF+WFwSZ+NlG3D6v57bZGhkD7befok/eKxj5MCyD6Q4c3jSbeUYvJxe77TL32xshWY98x/HiUFulT+SAg6sp9V4VVvUBrs/JDGwVjW+wpEWRlwYQhklKP59Wz15txxAFcmjw2cddyCSHzQYeBi5YjSLxrx6wqpZxffPaXhpUvoUnEedzBskY7KZa67vPvACTIHSRbbl/AUXpsbicKg/vJm2LPXPFos3nEp6klFBtTdhAUqJHPpCA==;5pmlaHMUCb1i8zTGQFgSZg=="
 ---
 

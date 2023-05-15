@@ -44,21 +44,21 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Google makes its text-to-music AI public"
-    excerpt: "Google has launched a new tool that allows users to create music from text prompts. But the tech raises ethical and legal questions."
-    publishedDateTime: 2023-05-10T17:49:00Z
-    webUrl: "https://techcrunch.com/2023/05/10/google-makes-its-text-to-music-ai-public/"
-    ampWebUrl: "https://techcrunch.com/2023/05/10/google-makes-its-text-to-music-ai-public/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/10/google-makes-its-text-to-music-ai-public/amp/"
+  - title: "New Google search tool will distinguish real images from AI-generated phonies"
+    excerpt: "Rolling out in the coming months, the new 'About this Image' tool will help identify which images in a search are real and which are created by AI."
+    publishedDateTime: 2023-05-11T14:52:00Z
+    webUrl: "https://www.zdnet.com/article/new-google-search-tool-will-distinguish-real-images-from-ai-generated-phonies/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/new-google-search-tool-will-distinguish-real-images-from-ai-generated-phonies/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/new-google-search-tool-will-distinguish-real-images-from-ai-generated-phonies/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
+      name: ZDNet
+      domain: zdnet.com
+    quality: 84
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/05/Frame_26063334.width-1200.format-webp.webp?w=1200"
+      - url: "https://www.zdnet.com/a/img/resize/e2abf1115d40e1fcee596f55c6be46a839a0d904/2023/05/11/1f3609ef-3fd4-45b9-9162-dc868eff6419/figure-top-new-google-search-tool-will-distinguish-real-images-from-ai-generated-phonies.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
-        height: 500
+        height: 675
         isCached: true
   - title: "Google releases new generative AI products and features for Google Cloud and Vertex AI"
     excerpt: "Google announced at its developer conference Google I/O 2023 new products and features that give customers access to new generative AI modalities and expanded ways to use and tune custom models."
@@ -89,6 +89,20 @@ related:
       - url: "https://healthitanalytics.com/images/site/article_headers/_normal/2022-03-14-GettyImages-1033717120.jpg"
         width: 690
         height: 400
+        isCached: true
+  - title: "Google Says Search Enters New Era With Conversational AI Features"
+    excerpt: "The company intends to use AI programs to provide lengthier replies to queries. The new features invite follow-up questions."
+    publishedDateTime: 2023-05-10T20:36:00Z
+    webUrl: "https://www.wsj.com/articles/google-says-search-enters-new-era-with-conversational-features-ca17f277"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
+    images:
+      - url: "https://images.wsj.net/im-779547/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Larry Magid: Google unveils new devices while focusing on AI"
     excerpt: "As I entered Shoreline Amphitheater on Wednesday, I thought I was attending Google IO – the company’s annual developers conference. But after listening to CEO Sundar Pichai and several other"
@@ -154,6 +168,22 @@ related:
         width: 640
         height: 427
         isCached: true
+  - title: "Meta Joins Generative AI Race, Will Begin Testing AI-Powered Ads Tools to Create Content"
+    excerpt: "A select group of advertisers will be invited to experiment with the tools in a \"testing playground\" that Meta is calling the AI Sandbox."
+    publishedDateTime: 2023-05-12T06:49:00Z
+    webUrl: "https://www.gadgets360.com/internet/news/facebook-meta-announces-generative-ai-ads-tool-testing-artificial-intelligence-4027738"
+    ampWebUrl: "https://www.gadgets360.com/internet/news/facebook-meta-announces-generative-ai-ads-tool-testing-artificial-intelligence-4027738/amp"
+    cdnAmpWebUrl: "https://www-gadgets360-com.cdn.ampproject.org/c/s/www.gadgets360.com/internet/news/facebook-meta-announces-generative-ai-ads-tool-testing-artificial-intelligence-4027738/amp"
+    type: article
+    provider:
+      name: gadgets360
+      domain: gadgets360.com
+    quality: 48
+    images:
+      - url: "https://i.gadgets360cdn.com/large/meta_image_reuters_1654769238524.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Google shows off latest AI tools: Updates from I/O event"
     excerpt: "Generative AI is coming to Google’s flagship product. The new search offering, which Google is calling “search generative experience,” or SGE for short, displays an AI-produced response at the top of results, which seeks to answer a user’s query while summarising key information and linking to website sources."
     publishedDateTime: 2023-05-10T22:30:00Z
@@ -165,7 +195,35 @@ related:
       name: The Edge Singapore
       domain: theedgesingapore.com
     quality: 39
+  - title: "Google to revamp search with generative AI tools, but gradually"
+    excerpt: "The approach insulates Google from some of the ethical concerns surrounding generative AI. Read more at straitstimes.com."
+    publishedDateTime: 2023-05-11T01:52:00Z
+    webUrl: "https://www.straitstimes.com/world/united-states/google-to-revamp-search-with-generative-ai-tools-but-gradually"
+    type: article
+    provider:
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 39
+    images:
+      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2023/05/11/GOOGLEAI7.JPG?VersionId=reNH981AG40mKLjaJ4zZiHurml9tao66"
+        width: 860
+        height: 573
+        isCached: true
   - title: "Google Is in Too Much of a Hurry on AI Search"
+    excerpt: "As AI answers fill our phone screens, what will become of the tech giant’s relationship with advertisers — or the truth?"
+    publishedDateTime: 2023-05-11T23:53:00Z
+    webUrl: "https://www.washingtonpost.com/business/2023/05/12/google-is-rolling-the-dice-with-ai-search/42a55c5a-f081-11ed-b67d-a219ec5dfd30_story.html"
+    type: article
+    provider:
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 39
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IH5Q43HQQEI63NT5UIM6YXP5GA.jpg&w=1440"
+        width: 1440
+        height: 958
+        isCached: true
+  - title: "Google Is Rolling the Dice With AI Search"
     excerpt: "As AI answers fill our phone screens, what will become of the tech giant’s relationship with advertisers — or the truth?"
     publishedDateTime: 2023-05-11T23:53:00Z
     webUrl: "https://www.washingtonpost.com/business/2023/05/12/google-is-rolling-the-dice-with-ai-search/42a55c5a-f081-11ed-b67d-a219ec5dfd30_story.html"
@@ -207,6 +265,6 @@ related:
       domain: ktla.com
     quality: 19
 
-secured: "bkzFUvMffqe+8bZ8wUQZzynaiHHm05rHwEVqc8GYBA6Ke/UNV91QihxCw8LbAZHjvcvHWicsPX2R4ZCu7T0suM/1W6GizWHtEj4v+/byLYker1PUIqO3KMUpoUYdmn8TqBfnUOAHRkcdaA7aDDgYcyKow3OqSY4XRNdt3cV/0tps0Eu4upfAlqAL0BARH+RgzHHnkGZ2FgNiMDGYs/b0qYYdwDApPzFFwJDkm8Y2n6HMQ4+vkn9qEMPrYvAraTNk/pXzJTCmMDHEQmLfBR+KwGoRkhoxiy2YYYSZckEktOMz+zr/zsUPrddENi3v6HEYa76mJ6t7qoRMWJvMMB0CPAvxlkzLqyx1UDOBQKv6z24=;EpReQPNSBPY8FiCh+hptMQ=="
+secured: "Cveiffkvyz0nYyq3b4nD+HBlSKNYna+KL2qHp3YR8I1znRDWD8+YHKkBjRd9WHu8JhzYh1q7RGef53bTAVWzj02dsRMYL0YDKmFCKG1SdyottJgxTwQsen47EuQR/x6fS2vMlY64Zh46uM8Xy7ggU5Yk6g66+0pW3I2ianEgj9Q9JFc4DP3GjMThHoCxbpILOp1UazYarv4rM9Y5cD+3OezdpVsKK1Suc5f+vUjZaR+cUeCo3NrP+5e2ld8GI+uBq7DdkbwidtjjQY+qd/t9LwV2EnYjBqE46bDBKLTztV9h/BOhpYx8+SSDUtsscAwTv/t8moYVLFCSET2QGZuTsi6uV++nfidBxbsBr2dwIK8L2idANpcwhnW8Xo3WFVpqnliVRk5IKgZjEyKbOdLby2FOQ4Z9xGzT66sqZ+7ZJfjtoPYxVD0me9WAv4CrHSeVUo8hSijbOclrYetBx4kPacf9A0PsDbwyW93FNnLkV1fJS2KDo/KEb96r5f6jT2bgasytOq3+mvwCHk453i1aQg==;1FoF8sO6JTa/dJxv88sRmQ=="
 ---
 

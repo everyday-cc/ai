@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Self-Driving or Driverless Cars Market upto 2030"
+    excerpt: "The Global Self-Driving or Driverless Cars market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players,"
+    publishedDateTime: 2023-05-15T01:53:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-or-driverless-cars-market-upto-2030-2023-05-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Google’s A.I. Bonanza and Driverless Car Talk With Cruise C.E.O. Kyle Vogt"
     excerpt: "And as you might expect, most of what they showed off today had a lot to do with artificial intelligence and how they’re going ... So Casey and I hailed a ride in one to find out if the driverless car revolution we’ve all been talking about and waiting ..."
     publishedDateTime: 2023-05-12T13:41:00Z
@@ -101,19 +115,19 @@ related:
         width: 750
         height: 450
         isCached: true
-  - title: "Cruise CEO Kyle Vogt talks the future of self-driving cars with Jim Cramer"
-    excerpt: "Cruise CEO Kyle Vogt joins 'Mad Money' host Jim Cramer to discuss where autonomous vehicle tech is being implemented right now and what the future of the industry could look like."
-    publishedDateTime: 2023-05-10T21:21:00Z
-    webUrl: "https://www.cnbc.com/video/2023/05/10/cruise-ceo-kyle-vogt-talks-the-future-of-self-driving-cars-with-jim-cramer.html"
+  - title: "Self-driving Cars Market in 2023: Insights and Strategies | 2031"
+    excerpt: "New “Self-driving Cars Market” Report 2023 by Manufacturers and Forecast to 2031: Get the latest insights into"
+    publishedDateTime: 2023-05-15T04:45:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-cars-market-in-2023-insights-and-strategies-2031-2023-05-15"
     type: article
     provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 52
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
     images:
-      - url: "https://image.cnbcfm.com/api/v1/image/107239402-1683759325MM-Block-C-051023.jpg?v=1683760939&w=1920&h=1080"
-        width: 1920
-        height: 1080
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Driverless buses to start running next week"
     excerpt: "In a UK first, Stagecoach will begin using driverless buses on services across the Forth Road Bridge from 15 May. The route will be 14 miles long in total from the Ferrytoll Park and Ride in Fife"
@@ -128,6 +142,20 @@ related:
       - url: "https://i0.wp.com/theedinburghreporter.co.uk/wp-content/uploads/2023/04/MicrosoftTeams-image-10.jpeg?fit=1200%2C900&#038;ssl=1"
         width: 1200
         height: 900
+        isCached: true
+  - title: "UK’s first ‘driverless bus’ service launches on Forth Road Bridge"
+    excerpt: "Autonomous buses were demonstrated on the Forth Road Bridge on Thursday ahead of going into passenger service in what’s being billed as the most complex test of the technology anywhere in the world. The 14-mile route crosses the Forth Road Bridge and is made up of A-roads,"
+    publishedDateTime: 2023-05-11T13:33:00Z
+    webUrl: "https://www.techdigest.tv/2023/05/uks-first-driverless-bus-service-launches-on-forth-road-bridge.html"
+    type: article
+    provider:
+      name: Tech Digest
+      domain: techdigest.tv
+    quality: 39
+    images:
+      - url: "https://www.techdigest.tv/wp-content/uploads/2023/05/cavforth-alexander-dennis-enviro200av-on-forth-road-bridge-1024x723.jpg"
+        width: 1024
+        height: 723
         isCached: true
   - title: "UK To Roll Out Driverless Bus Service"
     excerpt: "The UK will roll out its first driverless bus network in Scotland next week with drivers on standby behind the steering wheel, ready to take control"
@@ -156,6 +184,34 @@ related:
       - url: "https://technology.inquirer.net/files/2023/05/Driver_Stuart_Doidge_monitors_an_autonomous_bus_as_it_drives_across_the_Forth_Road_Bridge_between_Edinburgh_and_Fife_during_a_press_preview_for_the_CAV_Forth_a_bvXSMR84YoEl-620x413.jpg"
         width: 620
         height: 413
+        isCached: true
+  - title: "How Google's Self-Driving Car Will Change Everything"
+    excerpt: "The hype around driverless cars has grown rapidly over ... computer-processing capabilities and sophisticated artificial intelligence systems are becoming more advanced and more affordable every ..."
+    publishedDateTime: 2023-05-14T23:44:00Z
+    webUrl: "https://www.investopedia.com/articles/investing/052014/how-googles-selfdriving-car-will-change-everything.asp"
+    type: article
+    provider:
+      name: Investopedia
+      domain: investopedia.com
+    quality: 24
+    images:
+      - url: "https://www.investopedia.com/thmb/7VBCRiddsGRnBOFFrpQfDTZJTuc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/google-car_ap353779913372-5bfc376146e0fb0051c0d8d7.jpg"
+        width: 680
+        height: 440
+        isCached: true
+  - title: "What self-driving cars may mean for traffic"
+    excerpt: "AI might be arriving with a bang, but autonomous cars are crawling closer at a snail’s pace. What’s the delay? And what can we expect to change on our roads in the next decade?"
+    publishedDateTime: 2023-05-15T07:01:00Z
+    webUrl: "https://www.thestar.com.my/lifestyle/living/2023/05/15/what-self-driving-cars-may-mean-for-traffic"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 24
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2023/05/15/2072912.jpg"
+        width: 800
+        height: 507
         isCached: true
 
 secured: "PKYDpfrKhi2DjLGsAFVGs67thvSqPBdovXUADK5OOP+4fNWL5BG8lyBjrbkffry6xtzNDTMfgfWbdUlnz7YJHpW7sj+R71LCcGZVbF7YDPB6fjeu7Suu+x+Cv15tApRGhN76SaTZ4rSWKCUM2TohfAM0fWKfGnLpYLEXmB5RyaFHE3wBNec6Ij6TgidOtoqyIfnhrDB5TU8ail1lq6Dz/PAXPpxs+q3AB5na8loUGoxw3+nOi8DY5bHYiims3yL5L0S2vJeZVLExaioSa/Vm9ci5RRNzE8FnskzG2JrdXn6drOOQ9Mj0q2DwWDAXjtfu2IU1OG2lu3CT3oTUvBbwTCz+pi9//MAM4me7EvhE+LvA0axHZkvT4GdmzcFR7VHgnwFnOFbtVfmm9gB1MQBqIfstAtRoIIwzF5Tlr7DdzscTK2gm8Zx44j6oLD3rnZjvcuI8XPuGP/4LJb5Mo97Y2U9/3sXd7LbmG7mezmlhXjg5DIp4VyBqmQU1YojPDdMweQPJh496VIDSz+XBgPxebA==;hbirdAwWSfPibWr8CrxtHg=="

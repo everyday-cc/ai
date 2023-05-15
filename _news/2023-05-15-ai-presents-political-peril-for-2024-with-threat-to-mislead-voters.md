@@ -1,26 +1,28 @@
 ---
 category: news
 title: "AI presents political peril for 2024 with threat to mislead voters"
-excerpt: "Sophisticated generative AI tools can now create cloned human voices and hyper-realistic images, videos and audio in seconds, at minimal cost."
-publishedDateTime: 2023-05-15T07:09:00Z
-originalUrl: "https://www.pressdemocrat.com/article/news/ai-presents-political-peril-for-2024-with-threat-to-mislead-voters/"
-webUrl: "https://www.pressdemocrat.com/article/news/ai-presents-political-peril-for-2024-with-threat-to-mislead-voters/"
+excerpt: "The threat posed to elections by AI and so-called deepfakes always seemed a year or two away — but now it's here."
+publishedDateTime: 2023-05-15T11:34:00Z
+originalUrl: "https://www.wusa9.com/article/news/nation-world/artificial-intelligence-election-misinformation-2024/507-654735bd-7651-4254-a54f-f85b96116755"
+webUrl: "https://www.wusa9.com/article/news/nation-world/artificial-intelligence-election-misinformation-2024/507-654735bd-7651-4254-a54f-f85b96116755"
+ampWebUrl: "https://www.wusa9.com/amp/article/news/nation-world/artificial-intelligence-election-misinformation-2024/507-654735bd-7651-4254-a54f-f85b96116755"
+cdnAmpWebUrl: "https://www-wusa9-com.cdn.ampproject.org/c/s/www.wusa9.com/amp/article/news/nation-world/artificial-intelligence-election-misinformation-2024/507-654735bd-7651-4254-a54f-f85b96116755"
 type: article
-quality: 37
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: Santa Rosa Press Democrat
-  domain: pressdemocrat.com
+  name: WUSA
+  domain: wusa9.com
 
 topics:
   - AI
 
 images:
-  - url: "https://imengine.prod.srp.navigacloud.com?uuid=748dfd91-7dfd-57dc-a086-87fce3fc9d71&type=primary&q=72&width=1200"
-    width: 1199
-    height: 815
+  - url: "https://media.wusa9.com/assets/CCT/images/ed6c0592-6d6a-43ec-82b2-46edc8e8ee3f/ed6c0592-6d6a-43ec-82b2-46edc8e8ee3f_1140x641.jpg"
+    width: 1140
+    height: 641
     isCached: true
 
 related:
@@ -52,6 +54,6 @@ related:
       domain: seattletimes.com
     quality: 24
 
-secured: "4wAA/dkqikPntrgbq7UMvidP5Iwu9XzkF4tlxs5eqijK7PtJ8pDSPrR4qVVgMFRPryXaDwSTkp26WeQJGtJcJpBq3riXVO0uD/S3/NQ/qQg7IaK7Lr5g4PcNiNm+k18JVxFyzGzSQk1Jhrxq7kZk2lb41ul3Pbiy/PjA+c8/7FC/V8HZOzyxGbKxrxvrB7uZw/MAaHe+T5fyBahCgUfjY25lM2dArqry9cBuSOYWx4DhjbzCB3YoWFaXle9UbYfMtuDLhLAf65d0yIqdJin3XCPwyFOQtcy8s4OK4X+h4EQOHMZFtDmujjB4gt76mmDYaNzL3FjLzmIdSel468FIctTgZ5DxSJGOL2skv/vsFlmln8eK0xJF8g2PQ6Z7eBsdwptyplYwrPabxpePIK3/M2qoJZDxF6oJjguuJfuqYzSm9GRkXF0VGM3mkUnStIC7PR/Ew5eA2r1nF+1pmdXXliXosDZ0vI2ctOW1ZUh7h4jDWOT3VDPlLp+OaCGKkfsC/SykyLVGX5w7bz016Z55HQ==;7Jpo4Oizjmhwl98lwVdffQ=="
+secured: "z7ThKtHOkKDERyiAlFZ8F+9f0O0ygdrxkchiS8kw732drYKUWZXIaEmjh6oyOCT6ygNtsE1zHm8D+rza5bHe3f6vfHFzCh4FhZz2t1szcUQk88wtl+Sjfn/sIOCTx0o2kxYkPy88GqoidqHzd83iWwFMBtpX3JtGRpntvHpNT7vi+9Pv7usKaa3LTzvyEZytrq8efIsQeBV73HwwIvH3CTGplYdE6Z8kAJbkdeAx1+2cC+YJAX06jkiXv3D7NpnOV8lQmDmQFH2sogeKAF0l1VGwV1GklDXoc2i74KyB2DsrnXU82+EvPMmxKVyvzJuADyzAYAftq0UKugHqgqsBNP6GD6VrRPF+mnqX4YDt56s=;hFNN7YavvBaQxqGcfSikIA=="
 ---
 

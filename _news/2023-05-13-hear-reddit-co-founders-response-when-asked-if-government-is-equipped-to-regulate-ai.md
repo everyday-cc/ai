@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/videos/business/2023/05/13/alexis-ohanian-ar
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/business/2023/05/13/alexis-ohanian-artificial-intelligence-government-regulation-ai-reddit-wallace-sot-contd-wtcw-vpx.cnn"
 type: article
 quality: 80
-heat: 100
+heat: 110
 published: true
 
 provider:
@@ -53,6 +53,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "Is Reddit's \"Am I the Asshole?\" Forum the AI Counterbalance We All Need?"
+    excerpt: "Reddit's chief technology officer says he approves of AI-created content in its forums--as long as the bots are forthright abou"
+    publishedDateTime: 2023-05-15T11:03:00Z
+    webUrl: "https://www.inc.com/stephanie-mehta/is-reddits-aita-forum-the-counterbalance-to-ai-we-all-need.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 16
 
 secured: "kIAc+NYI9xydMltFFM5UhkDp0wZkbsBGQDIZLIr488S4vT6M/Ef7nzIOB9GwvP87ByHsrsHelYi2nuypjd5xQ+FX0msDsdNMSYwGE3NvalyAI4cyD4nMJDPT8sp6My1jCJhLCx135IW5MFYAo4ZAAn4gQybYpMh7mryit2URM8C1YvEa8PyTAnQy2G++YTDStu6oMrb3ziZls5Es1Mk/gwAw06bDHp8eZlSOCOdGsD8EYEFaVVG58RqGhC2cjw4OlLcGN5WzSXytY1KsBA90u/XeGsiJSy/tG9/Zcwi0PvcsJEhzw4nAlxzshUZZIhXfyl+MKNtR4hAXF3Cv1lBH5818aQuLqnQgcPi5DPs06FyWMxh6xaOrb/FzAbmYy1kVuc0XYnC+08cSJWJZqGx7SIzLw1hAQeND2+g9GTUzyQFqU+FIj6yHkcZLKuoq/0LnjViHeRGL7rRgrV6XlzCXS92FsxGWSWmAAznPr/itGPQHKQBrFevWjr/JL+1sqbPxdWkbWTlx2OLq04dJEc24Eg==;cL4P79AS3gY41OcIU+DiLg=="
 ---

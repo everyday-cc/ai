@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/h2o-ai-launches-h2ogpt-llm-studio/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/h2o-ai-launches-h2ogpt-llm-studio/amp/"
 type: article
 quality: 83
-heat: 83
+heat: 93
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "You’re Probably Underestimating AI Chatbots"
+    excerpt: "Just as the first iPhone reviews mostly missed the device’s huge potential, it’s folly to draw conclusions from today’s unrefined technology."
+    publishedDateTime: 2023-05-12T13:01:00Z
+    webUrl: "https://www.wired.com/story/plaintext-youre-probably-underestimating-ai-chatbots/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 67
+    images:
+      - url: "https://media.wired.com/photos/645d37c10227ed23db8041a9/191:100/w_1280,c_limit/AI_biz_GettyImages-1372009287.jpg"
+        width: 1280
+        height: 670
+        isCached: true
 
 secured: "2rBridGIhIEpsfJAsaNr9jLI/szeLQ+gEJ/OGzd9HARNZI9LeIkvErGsq2K5KOMONzTpEGuewzbFZs931CeZ0EaVvUS3qPAI+0tO/a/QNOWPJZ8CoFz6tu/vePba9s1f3JsIlVqrQVGqfMpVjX6gZFcD00JkpyGxtsavWLIhESTG+XRVq/VNbub4t8UQQtjNrSxdAYbzyKzK4+AheAVIfiz1TouEmT266p/999yAGlBDl+JvxqXD1TvHS1IfV4s+lczOG/SMMOUJR2irsfkkkyuoJA+XuHn7eXcLCtbv65/zp7ueehmKi0kBpQcIRGOKrmo8ALtn1BMWBbq1M/LacUrKAdWx46bxXMFr45RMRhH9vFoMjqAyQsidBfo2YSRjds5CQ8Rc4ebXxBoexus7IZB7zMawuTVlWOhb6ljtGcCcmyvehl/RdSgxp9X7313Tg8haSGkEdHtZtG6K8i9ruJQ8f3whk46KZJ3oSdP9jXYiNnWFuLUmK6OX8i78rvyB0ePAbxK1dmfhFG4YukGbVQ==;ZWoT+vYUw5CA2K+yDl5qZw=="
 ---

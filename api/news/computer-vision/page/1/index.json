@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2023-05-15-are-you-who-you-say-you-are-tsa-tests-facial-recognition-technology-to-boost-airport-security.md",
-      "title": "Are you who you say you are? TSA tests facial recognition technology to boost airport security",
-      "excerpt": "The agency tasked with securing America's airports is testing the use of facial recognition technology at a number of airports across the country",
+      "path": "_news/2023-05-15-behemoths-of-the-retail-industry-are-redefining-customer-experience-with-computer-vision-and-ai.md",
+      "title": "Behemoths Of The Retail Industry Are Redefining Customer Experience With Computer Vision And AI",
+      "excerpt": "Computer vision and AI are revolutionizing the retail industry by optimizing inventory management, reducing stock-outs and enhancing shopper experiences. By understanding consumer behavior, retailers can offer personalized shopping experiences and increase sales.",
       "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Technology/wireStory/tsa-tests-facial-recognition-technology-boost-airport-security-99322644",
-      "originalUrl": "https://abcnews.go.com/Technology/wireStory/tsa-tests-facial-recognition-technology-boost-airport-security-99322644",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/15/behemoths-of-the-retail-industry-are-redefining-customer-experience-with-computer-vision-and-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/15/behemoths-of-the-retail-industry-are-redefining-customer-experience-with-computer-vision-and-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 132,
       "tags": null,
       "images": [
         {
-          "url": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
+          "url": "https://imageio.forbes.com/specials-images/imageserve/645e3c535fc52f1156679966/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,13 +24,65 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Technology/wireStory/tsa-tests-facial-recognition-technology-boost-airport-security-99322644",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/tsa-tests-facial-recognition-technology-boost-airport-security-99322644",
-      "publishedDateTime": "2023-05-15T01:19:00-07:00",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/15/behemoths-of-the-retail-industry-are-redefining-customer-experience-with-computer-vision-and-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/05/15/behemoths-of-the-retail-industry-are-redefining-customer-experience-with-computer-vision-and-ai/amp/",
+      "publishedDateTime": "2023-05-15T03:45:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-15-tsa-tests-facial-recognition-technology-to-boost-airport-security.md",
+      "title": "TSA tests facial recognition technology to boost airport security",
+      "excerpt": "BALTIMORE (AP) — A passenger walks up to an airport security checkpoint, slips an ID card into a slot and looks into a camera atop a small screen. The screen flashes “Photo Complete” and the person walks through — all without having to hand over their identification to the TSA officer sitting behind the screen.",
+      "sourceUrl": null,
+      "webUrl": "https://www.syracuse.com/us-news/2023/05/tsa-tests-facial-recognition-technology-to-boost-airport-security.html",
+      "originalUrl": "https://www.syracuse.com/us-news/2023/05/tsa-tests-facial-recognition-technology-to-boost-airport-security.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/AZBTIOAFSBHZXMRDRCK3ZLKOBU.jpg",
+          "width": 6768,
+          "height": 4514,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.syracuse.com/us-news/2023/05/tsa-tests-facial-recognition-technology-to-boost-airport-security.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-syracuse-com.cdn.ampproject.org/c/s/www.syracuse.com/us-news/2023/05/tsa-tests-facial-recognition-technology-to-boost-airport-security.html?outputType=amp",
+      "publishedDateTime": "2023-05-15T03:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "syracuse.com",
+        "domain": "syracuse.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -210,7 +262,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/face-recognition-systems-market-worldwide-industry-trends-2023-2030-2023-05-11",
       "featuredContent": null,
       "highlight": null,
-      "heat": 159,
+      "heat": 169,
       "tags": null,
       "images": [
         {
@@ -1338,49 +1390,6 @@
       "provider": {
         "name": "bbntimes",
         "domain": "bbntimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-02-landing-ai-announces-the-worlds-first-validation-ready-computer-vision-software-for-fda-regulated-manufacturers.md",
-      "title": "Landing AI Announces the World's First Validation-Ready Computer Vision Software for FDA-Regulated Manufacturers",
-      "excerpt": "\"AI, starting with computer vision, is a game-changing tool for medical device, pharmaceutical and life sciences industries, and we'll see rapid innovation in the coming years,\" said Andrew Ng ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.victoriaadvocate.com/landing-ai-announces-the-worlds-first-validation-ready-computer-vision-software-for-fda-regulated-manufacturers/article_1193883f-c73d-550c-b11e-e36827805b2c.html",
-      "originalUrl": "https://www.victoriaadvocate.com/landing-ai-announces-the-worlds-first-validation-ready-computer-vision-software-for-fda-regulated-manufacturers/article_1193883f-c73d-550c-b11e-e36827805b2c.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/victoriaadvocate.com/content/tncms/assets/v3/editorial/9/89/989f9cf4-43ac-5f44-8296-4db5b93b41bb/64510611dad8d.image.jpg?crop=1259%2C661%2C0%2C177&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-02T09:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Victoria Advocate",
-        "domain": "victoriaadvocate.com",
         "images": null,
         "publishers": null,
         "authors": null
