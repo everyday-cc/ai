@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/12/how-ar
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/05/12/how-artificial-intelligence-is-changing-business/amp/"
 type: article
 quality: 87
-heat: 157
+heat: 147
 published: true
 
 provider:
@@ -103,20 +103,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 49
-  - title: "This new AI technique may change how we see the world"
-    excerpt: "How researchers developed this computer vision technique from MIT and Rice University expands our perception of the world."
-    publishedDateTime: 2023-05-10T16:15:00Z
-    webUrl: "https://interestingengineering.com/innovation/ai-technique-may-change-how-we-see-world"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 39
-    images:
-      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/05/10/image/jpeg/ZjGeLpQURizkvgCNbw2kccq8UKn90IkF267OpyZs.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
   - title: "How technology is changing today's health care"
     excerpt: "Today, groundbreaking advancements are revolutionizing patient care and the health care industry. Many of these advances are driven by artificial intelligence (AI). Because the health care industry generates so much data every single day,"
     publishedDateTime: 2023-05-14T11:01:00Z

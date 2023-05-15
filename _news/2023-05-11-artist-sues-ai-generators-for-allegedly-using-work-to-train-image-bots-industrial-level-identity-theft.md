@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/tech/artist-sues-ai-generators-allegedly-usi
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/artist-sues-ai-generators-allegedly-using-work-train-image-bots-industrial-level-identity-theft.amp"
 type: article
 quality: 70
-heat: -1
-published: false
+heat: 70
+published: true
 
 provider:
   name: Fox News
@@ -28,24 +28,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "Early MIT research shows 'Industrial Revolution-level large' leap for workers using generative AI"
-    excerpt: "New MIT research shows ChatGPT creating gains at work that rival the Industrial Revolution and steam engine, says CEO of Google-linked AI startup Cohere."
-    publishedDateTime: 2023-05-10T15:20:00Z
-    webUrl: "https://www.cnbc.com/2023/05/10/mit-data-show-industrial-revolution-level-leap-for-workers-using-ai.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2023/05/10/mit-data-show-industrial-revolution-level-leap-for-workers-using-ai.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/05/10/mit-data-show-industrial-revolution-level-leap-for-workers-using-ai.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 74
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/107231241-1682508826021-gettyimages-1249028985-raa-googleba230321_npxvU.jpeg?v=1683739235"
-        width: 5872
-        height: 3306
-        isCached: true
 
 secured: "FPnrfqtz4MKy3ARVlUBaq/VoYNQQw/j+xVhD2S/KXsGHrUvya9t1wk4jExcxfM3FORu846Jjlo5NrE/ac7pn+ju2Abbl6Jo4s8i0mofUDz8TrQfOtvAzahGQGRNMXt+mvhOmFtdVXrVBLFrEksNbMdtm6EP0lHc+BuWIythbKdr4MFYWwwAt2OsmlPfxsv4VKrwEok3aJ8xuVToJHw991wxy1QV+0yRLq0nhP/OBnDCQkwW1Uo2yk2PzVGPEVgnTGMly+W2ROkZyi21DPc8A1djKq9bdZGNoZsLQDSabtdnOoBIUX5awYWUZvNa+Nyd1112yQBjYd2d3It2X9/Yf03dU/mjghRm+EbQZe2qrqfg=;3LxFeUEUGYnKhVYZtoeTXA=="
 ---

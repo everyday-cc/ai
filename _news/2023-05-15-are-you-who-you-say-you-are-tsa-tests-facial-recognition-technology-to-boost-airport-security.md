@@ -2,11 +2,11 @@
 category: news
 title: "Are you who you say you are? TSA tests facial recognition technology to boost airport security"
 excerpt: "The agency tasked with securing America's airports is testing the use of facial recognition technology at a number of airports across the country"
-publishedDateTime: 2023-05-15T04:33:00Z
-originalUrl: "https://abcnews.go.com/Business/wireStory/tsa-tests-facial-recognition-technology-boost-airport-security-99322639"
-webUrl: "https://abcnews.go.com/Business/wireStory/tsa-tests-facial-recognition-technology-boost-airport-security-99322639"
-ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/tsa-tests-facial-recognition-technology-boost-airport-security-99322639"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/tsa-tests-facial-recognition-technology-boost-airport-security-99322639"
+publishedDateTime: 2023-05-15T08:19:00Z
+originalUrl: "https://abcnews.go.com/Technology/wireStory/tsa-tests-facial-recognition-technology-boost-airport-security-99322644"
+webUrl: "https://abcnews.go.com/Technology/wireStory/tsa-tests-facial-recognition-technology-boost-airport-security-99322644"
+ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/tsa-tests-facial-recognition-technology-boost-airport-security-99322644"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/tsa-tests-facial-recognition-technology-boost-airport-security-99322644"
 type: article
 quality: 79
 heat: 89
@@ -38,6 +38,6 @@ related:
       domain: modernfarmer.com
     quality: 19
 
-secured: "8OEUei0R0mUMkY2y87+KYzUPIcIMif/s6F/kMFqELY4v5KJgoci+5SAOpVbNTxG/uXD9IvdvtUwRBQtTjuDt42S7qkD/wNasFqt9IPD84i2XlUphPnAPOiJna0BD2BR+eMWan2Lnn3YZ9CzjZ9ulU3iXNQt1Dw2zIYcmFgL8pWsFAAcac+SxUiBdI35iTEsRJjRJxyi2pk7BQIfQpsoIIqf7oTEdroZoDRxmc3/oLTgdMtpd/uQxkD2M8TnGJH6oNJ2gimskjturBWSULpgMx21exbymnZmn8BplCuDeIkdR1Uu7FHjCuxaDAf9HqbYT4ftbpAmD2P6e5TrdfPM6z3PeDtxoMbyDkqz7jFDrsyM=;GWKQDs8X59fSS/Qv+uy+vw=="
+secured: "1YGCJD5GcAZXxFNYM32xUNdHytgTkYhsi0aRFJLeHkc6H8tzEMfxnlM4BSgJcNZEiBlfuh7gWR1brZTs9jLams9AzFyu3qs7Vhv1Nao11iUujfdN1PV9zsM0/Ivamoeo/qzdhitvSHpx9dP2BEtyGHuV+iIjscsIasy+NgfPadi9onhBAuGzfJQI7YKTQnaUj83qE45KdJkKCAoQJkuk0QsV6JJxuk1rLaZQHdjal1Aa2/+4BYkhacJufmRPjNzAJgRyFEsLbkVXlNgVYDAldEfSLo6DJimhnS+HvQUsWdK0frVxkjSYGDul5G9tqwdUTYJGVBmzkT0iHSgOKxMbRAn03UbeQ3aSy2Ul9BZtcdo=;xIrytmePJ3qkzFlw24IxrQ=="
 ---
 

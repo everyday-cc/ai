@@ -3,8 +3,8 @@ category: news
 title: "DeepMind boss says human-level AI is just a few years away"
 excerpt: "The head of Google’s artificial intelligence division DeepMind has predicted that human-level AI may be just a few years away. The forecast from Demis Hassabis puts the date for the arrival ofAGI) – systems that can think in similar but superior ways to humans – much earlier than previous predictions."
 publishedDateTime: 2023-05-04T15:43:00Z
-originalUrl: "https://www.aol.com/news/deepmind-boss-says-human-level-115422614.html"
-webUrl: "https://www.aol.com/news/deepmind-boss-says-human-level-115422614.html"
+originalUrl: "https://www.aol.com/deepmind-boss-says-human-level-115422614.html"
+webUrl: "https://www.aol.com/deepmind-boss-says-human-level-115422614.html"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 900
     isCached: true
 
-secured: "uAZw7cZIzq0xTMW3/AlbKNYNGh3vrW9UwepOgsQgT5xmLr/AwikKmNW1mDkeRA70so86xv/rPYD8JOla8bkHJ8a2+BPOgA9QtxlFvfrPP1/ZqRxuolL5rCArP8n629wPevOPS/UW8SyC/b0vaVT4/+P1wqPshNhZDqODOTm8MgwYS/VKAIskfIxb2Umhare62zn4jshmSMuC5jsWC9tue16+be3SmR6Nl2SG2+FlRKbi5XdC0foFy762OKFE7GEAJRia0z0/QxpPDmV7kmBwTRq7XtZekQhJUh5MG9djAHmSUiwGm3bRhmxcTy/1hKm7g/Tzpr0f9UOQjJ61EON5AQlFO0XXSAxvTXADQabZCRE=;22hWU7F3sy57uCcnE5l9Yw=="
+secured: "K6SpFLX+91dStzEvURVpC3keJ+0gbPJ4XtBGHeelS2g8aFsw30hK3HOqsSdPKnMUMhR5YgusmIB7y0cs+qhu9w5gn82ZY5/TZIjyk3HpcZFR0n8yd7IARyFaFKCL7Tf0BOnO9CXRV2sOTtszJwNs+AimyAfYj53dkUnRAXFkmqERV/erMdC3gDnXmQHSqnoHU2bvMCIbiNTz2kR8qTuMDS3yePX23yZc+zj3eV7V3QMNjhl3/dek4Mo2yWvTVlbk/71PFd79PRGTq1wv2WwkRM3UZ47giT4mRD5KXvV7M/zz63Nk1gyE5lw03D2fAn57aj92Z0NcocylWFtuYTnDNYy/uYrm7pt83TIFNrJMx8U=;f8uagPhKKl5FWdlrIuo+bA=="
 ---
 

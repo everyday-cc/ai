@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/2023-artificial-intellig
 webUrl: "https://www.marketwatch.com/press-release/2023-artificial-intelligence-in-security-public-safety-national-security-market-with-latest-industry-updates-by-2030-2023-05-11"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -21,6 +21,22 @@ provider:
 topics:
   - AI
   - AI in Security
+
+related:
+  - title: "Self-driving Cars Market in 2023: Insights and Strategies | 2031"
+    excerpt: "New “Self-driving Cars Market” Report 2023 by Manufacturers and Forecast to 2031: Get the latest insights into"
+    publishedDateTime: 2023-05-15T04:45:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-cars-market-in-2023-insights-and-strategies-2031-2023-05-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "qvN0ue9AkbGJ/09T8oK+lOnXRtJYiLBimEITZLxrUzWAZPchPkj/vjEbuOOM7TtcuuGu2xAvp4VZwqoyay1cEaHN1rU5T6cgTiQ2LOso3yn0ScE26pNqwjT0EJIXWPF/V0gsAXTz8pDtWvONjlWZojAQhGiMxYItvQSWpDqfkpJHufxdd7nlJoHHnlqxIQU1SunXqW9nawgMZlFMxYqaD5czZ0G4U82PBMS0FiEdz+e1u+V3EHDByXhZNvoEV1lHaPKvPf9fpWC0WEBOdrvp9VBQgCRV2zMgk0tPpaMzM89C2ZxwQAXIZEqTHObDYUYY7yr8VDRTbKw/z0uC/jGg7pJhsIUZNS4a4J989YC7mls=;ztJVD/672yp3Cfx/W/E76A=="
 ---

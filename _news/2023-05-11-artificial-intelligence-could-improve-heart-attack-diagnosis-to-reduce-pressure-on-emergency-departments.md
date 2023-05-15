@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2023-05-artificial-intelligence-heart
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-05-artificial-intelligence-heart-diagnosis-pressure.amp"
 type: article
 quality: 40
-heat: 40
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     width: 2169
     height: 1101
     isCached: true
+
+related:
+  - title: "Machine learning algorithm a fast, accurate way of diagnosing heart attack"
+    excerpt: "Heart attack symptoms are sometimes similar to non-heart-related conditions, making diagnosis tricky. UK researchers have turned to machine learning to provide doctors with a fast and accurate way of diagnosing heart attacks that has the potential to shorten the time needed to make a diagnosis"
+    publishedDateTime: 2023-05-15T07:18:00Z
+    webUrl: "https://newatlas.com/health-wellbeing/code-acs-machine-learning-algorithm-accurate-heart-attack-diagnosis"
+    type: article
+    provider:
+      name: New Atlas
+      domain: newatlas.com
+    quality: 67
+    images:
+      - url: "https://assets.newatlas.com/dims4/default/3a3755c/2147483647/strip/true/crop/2000x1050+0+142/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F95%2F9e%2Fdecd17d448d1b1c2c9d013e33898%2Fdepositphotos-52093541-l.jpg&na.image_optimisation=0"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "6OaFWpqs7EBRLD+JwRhQIGgom6VoHkxMjYv1LNIcWn6I54wy9dUgPeQpKZ7860saUir3TeJpr4ULWbyLPUxvT+/bBbG8smBm1kK3sZdcRcCBVkC4fBPck5ZlDx2dPrQWHcQ4bJg7iYGFMhHKmeNZPf5LXofqL1Z2HuX0oJfMv+zdQzV18U7hF535npEwJeDzUS1agnXVwX04XkMf1eSqcRvWuR+DS031QyaoSIy9To91VBf21gC7HIN8DWfsmHBBGRk6vsTIgCazzBzlyD+d3VlAkfmKGomgqgUXx27eN8ZIY32csDVr2lcfQRdFtuY6CRoi2XbsAV95yzbOvbTga5hHbVs8wJBwm0OXA11ETs4=;hW/FsdtfgT2VE4hG4XUZAA=="
 ---

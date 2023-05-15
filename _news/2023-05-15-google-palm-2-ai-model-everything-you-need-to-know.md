@@ -148,20 +148,6 @@ related:
       name: PC Magazine
       domain: pcmag.com
     quality: 47
-  - title: "How AI is about to change your Google search results"
-    excerpt: "A guided tour of the new Google Search Generative Experience, or SGE, coming first to people who sign up — and eventually to everyone."
-    publishedDateTime: 2023-05-10T16:52:00Z
-    webUrl: "https://www.washingtonpost.com/technology/2023/05/10/google-search-ai-io-2023/"
-    type: article
-    provider:
-      name: The Washington Post
-      domain: washingtonpost.com
-    quality: 39
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3I52HAZKDVH2LO55VF2X6FBCNY.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
   - title: "Google’s Bard AI Launches in 180 Countries, Adds New Features"
     excerpt: "Google is now available in over 180 countries, and it's also being upgraded with Google's more capable PaLM 2 large language model."
     publishedDateTime: 2023-05-10T17:45:00Z
@@ -213,6 +199,6 @@ related:
       domain: siliconangle.com
     quality: 11
 
-secured: "QuGfwkWr9GKSAHzI5WcOdAB7ryr6yPp4RheL/+RuS1xgKES0clj3UjV2zD0k/kwHlVKQ0XWHUd3URmNOVcMtJtDpQDdgFdph5SjU48suoap2rMzsBSfuE59KVQEpotDDYhX/4PHz/75HBWWK7Bm623WIdERIiYcxjWvK8wbtkkgbP8miITq1zyoCOkAZX9Fs5KHQCezEOWw00rbeXIaulD/nR2SQ/uEMQ5bTMvL8LErAqgsK5Rthg0ghocnOXHeRgcgBT1SQT6zTGT5yZSDkfAPiVCx4ZAjML2mZnqLqYhrvqu+Gk0IERL2xZqFaEpGkYN6ziUAygKTxyhmZ1uYbbC4kpjqnlmXxiCQ3I5LG0NY=;d0qHXp5cz6Gx8EiZHQRrdw=="
+secured: "o9GZjVk5yloyqMTdkBSGYKc/FlHz0Mf4ekrVgEmUnqta4BjsMLOo81D+XeyHF3yC0y4KNXxb4xvuyDBKpbzuj/jFrjNF0thGJAK6LwPnJMILeBoozV6IhKNpZzwpY9DACT5a1gfPQOZ6AFnWJiyG7aJ8PT1DZWcxCH2Lr38X8UMmEVffnz3qSYvD0HznJG+OhLEpfTYiqec5wnQWgjzhsozG+t66xdFBVCWB9SgnMnrJa5AHoQVn5l/LBeeQIY8muAIC6NeiFd9lcvgKInGWYly1C8tvISfozhZxLzzg1a4sHlaALO/Ev8UeTwEq2USDDQEm+Vv+e7Fq0YyH0Ok/Rc1s507mID22t9nQj3yxZhkYj+2zYBtWbJC17+vM7tDsiur8f8BfOJLfRK5yASzeOvenex+P7TAZsYVB53eXCfFXXk33SGhcGEFASiQ5V37pv6RXrNjoY3bVgN4+7IbdO4A98fd06buPlwDzZkeAgSSt6kltA0lYJln8bRfAfkkL9pqgEXxeSljKdeVnN7mWdQ==;RhfCO+cMtAiJu2Oh56fYXQ=="
 ---
 

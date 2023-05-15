@@ -7,7 +7,7 @@ originalUrl: "https://www.thestar.com.my/tech/tech-news/2023/05/11/hackers-aim-t
 webUrl: "https://www.thestar.com.my/tech/tech-news/2023/05/11/hackers-aim-to-find-flaws-in-ai---with-white-house-help"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,35 +23,6 @@ images:
     width: 1240
     height: 826
     isCached: true
-
-related:
-  - title: "Hackers look for AI flaws under White House direction"
-    excerpt: "A mass hacking event will target models from OpenAI, Microsoft and more, looking for flaws in AI systems at the direction of the White House."
-    publishedDateTime: 2023-05-10T16:28:00Z
-    webUrl: "https://www.foxbusiness.com/technology/hackers-look-ai-flaws-white-house-direction"
-    ampWebUrl: "https://www.foxbusiness.com/technology/hackers-look-ai-flaws-white-house-direction.amp"
-    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/hackers-look-ai-flaws-white-house-direction.amp"
-    type: article
-    provider:
-      name: Fox Business
-      domain: foxbusiness.com
-    quality: 59
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/8413fe5c-9099-4c4d-88f4-ed26e5fe8c69/2fc9d027-6cf3-41fd-aa0c-dd12a69199d6/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "New artificial intelligence algorithm for more accurate plant disease detection"
-    excerpt: "Every year, plant diseases caused by bacteria, viruses, and fungi contribute to major economic losses. The prompt detection of these diseases is necessary to curb their spread and mitigate agricultural damage,"
-    publishedDateTime: 2023-05-12T17:30:00Z
-    webUrl: "https://phys.org/news/2023-05-artificial-intelligence-algorithm-accurate-disease.html"
-    ampWebUrl: "https://phys.org/news/2023-05-artificial-intelligence-algorithm-accurate-disease.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-05-artificial-intelligence-algorithm-accurate-disease.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 35
 
 secured: "uuuyUsnw1lXS0ZfgSZDANxZxZumODck6XFJnH7C3KYMveq9VAE5FQVSRZDG1Q91lpXN0otIVaNtOKyz3Pp2IHTy+au9rtMdRRpVafQWRBuLwP+NyNZaZm6RpYnnF4S/drUynSLsIZjwnkyMaE6cI8VEiqropFD0GbxvLmCrJ/V8PYwO42Bks8i8hyhyrKgducKF0++7zonBAcHK5gw4o6UxpS5Aay1eu+VYmIJ8duVmnycKA7NAsD8BHBiAfyujFhlj+D0m/lWlarUusFqwS69Cc7kQ+45IrHJMc53TnOD7RwyGkzjuJ5q0mz9w7o/t+MbErWKApBOQ1lrzTt2RQ9ZJ6qISjAPgoacjPygl5dCI=;7ZIYxX3boxuhht/nSX+JEA=="
 ---

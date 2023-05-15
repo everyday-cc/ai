@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/05/10/cruise-expands-supervised-self-dri
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/10/cruise-expands-supervised-self-driving-ride-hailing-to-houston-and-dallas/amp/"
 type: article
 quality: 88
-heat: 118
+heat: 108
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Global Self-Driving Car for AI Programming Market: Revenue, Size, and Trends from 2023 to 2031"
-    excerpt: "During the forecast period from 2023 to 2030, the global Self-Driving Car for AI Programming market is expected to experience significant growth. As of 2022, the market is growing at a steady pace, and with the increasing implementation of strategies by major players,"
-    publishedDateTime: 2023-05-10T16:32:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-self-driving-car-for-ai-programming-market-revenue-size-and-trends-from-2023-to-2031-2023-05-10"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 57
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "California self-driving technology company Cruise coming to Houston, Dallas"
     excerpt: "Cruise announced on Wednesday the San Francisco-based company will expand its operations to Dallas and Houston."
     publishedDateTime: 2023-05-10T18:38:00Z

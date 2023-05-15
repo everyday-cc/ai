@@ -88,6 +88,20 @@ related:
         width: 690
         height: 400
         isCached: true
+  - title: "Google Launching Tools to Identify Misleading and AI Images"
+    excerpt: "Google is adding two new features to its image search to reduce the spread of misinformation, especially now that artificial intelligence tools have made the creation of photorealistic fakes trivial."
+    publishedDateTime: 2023-05-15T05:42:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-05-15/google-launching-tools-to-identify-misleading-and-ai-images"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 67
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/im1kpz2VrkVs/v0/1200x798.jpg"
+        width: 1200
+        height: 798
+        isCached: true
   - title: "Larry Magid: Google unveils new devices while focusing on AI"
     excerpt: "As I entered Shoreline Amphitheater on Wednesday, I thought I was attending Google IO – the company’s annual developers conference. But after listening to CEO Sundar Pichai and several other"
     publishedDateTime: 2023-05-11T01:49:00Z
@@ -135,22 +149,6 @@ related:
       - url: "https://images.barrons.com/im-779960?size=1.5005861664712778&height=630&width=1200"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Google launches new AI PaLM 2 in attempt to regain leadership of the pack"
-    excerpt: "Company says ‘next generation language model’ will outperform other artificial intelligence systems on some tasks"
-    publishedDateTime: 2023-05-10T17:01:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/may/10/google-launches-new-ai-palm-2-in-attempt-to-regain-leadership-of-the-pack"
-    ampWebUrl: "https://amp.theguardian.com/technology/2023/may/10/google-launches-new-ai-palm-2-in-attempt-to-regain-leadership-of-the-pack"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/may/10/google-launches-new-ai-palm-2-in-attempt-to-regain-leadership-of-the-pack"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 56
-    images:
-      - url: "https://i.guim.co.uk/img/media/43a90d3f78ebe07deb3a86eb6bec4075fea8a237/0_502_8310_4986/master/8310.jpg?width=620&quality=85&auto=format&fit=max&s=daf5b0a5963f3a1c4ecaf2d4d3d383be"
-        width: 620
-        height: 372
         isCached: true
   - title: "Google shows off latest AI tools: Updates from I/O event"
     excerpt: "Generative AI is coming to Google’s flagship product. The new search offering, which Google is calling “search generative experience,” or SGE for short, displays an AI-produced response at the top of results, which seeks to answer a user’s query while summarising key information and linking to website sources."

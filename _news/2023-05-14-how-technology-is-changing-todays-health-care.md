@@ -108,20 +108,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 49
-  - title: "This new AI technique may change how we see the world"
-    excerpt: "How researchers developed this computer vision technique from MIT and Rice University expands our perception of the world."
-    publishedDateTime: 2023-05-10T16:15:00Z
-    webUrl: "https://interestingengineering.com/innovation/ai-technique-may-change-how-we-see-world"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 39
-    images:
-      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/05/10/image/jpeg/ZjGeLpQURizkvgCNbw2kccq8UKn90IkF267OpyZs.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
 
 secured: "DUy1LpzExWBL1mwL+H30ymxv9Im6ul69wVQolDavOqiDaFZd/zSBSvbYt7y/956bgnKZ3i9za9c4f32ZRYcK3oO8YlX2c7WAMPLX2i3VLjG5wpw55BRg9soXQO+p5lw11JvtiJImhKpWcccePNXgtn87w/hiF6AyazwV7hXw4QU510zTDOrMJOzjoMAuE2Bx3VWQVMchFJ+XS49TarHYEYj/BT61679aCYXtcCEBNZmB74ppeuRdjV+8u8+du4b5+xmVXNGjCTGazi0DqV41kJnGXGxVC/XThW4D16ewJW2QP7bKaZCEOGUUVMR0GUp4/6JeBhQv4Y3vFVtNzrVp7iR29gFUBAXAlMuMMlrCaQGi4XRR7hTMl1Z6qV4ylBXCITRq2nHJfSXDgTsr4/dicny7lHSMdL3TXjhxQU4ZHIUWa00dtLERoExY9/fd81+MNoMjBXbQ56uJOIr6hdUz88VJ6eqpfnCPbnazqFr0ggrlPqhBnEPyZrAvWyhHsJaxkJ07/9f5tjw5Rv0Mr/crFg==;sZIU9wemTskFR8MEwFC1hQ=="
 ---

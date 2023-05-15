@@ -65,20 +65,6 @@ related:
       name: NBC News
       domain: nbcnews.com
     quality: 49
-  - title: "Thousands of hackers will soon test the limits of AI technology"
-    excerpt: "No sooner did ChatGPT get unleashed than hackers started “jailbreaking” the artificial intelligence chatbot – trying to override its safeguards so it could blurt out something unhinged or obscene. But now its maker,"
-    publishedDateTime: 2023-05-10T15:23:00Z
-    webUrl: "https://www.dailypress.com/nation-world/vp-nw-chatgpt-ai-hackers-20230510-hdgshb52pnfvbdwr22jjcyjdmi-story.html"
-    type: article
-    provider:
-      name: Daily Press
-      domain: dailypress.com
-    quality: 39
-    images:
-      - url: "https://www.dailypress.com/resizer/BOaqPlMihMZc9VFw9XP_zlzSzdg=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/AOU5ZRXYBHSDZZIUXNBDMAUUNQ.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Mass event will let hackers test limits of AI technology"
     excerpt: "OpenAI and other major AI providers such as Google and Microsoft, are coordinating with the Biden administration to let thousands of hackers take a shot at testing the limits of their technology."
     publishedDateTime: 2023-05-13T14:13:00Z
@@ -93,15 +79,6 @@ related:
         width: 1228
         height: 690
         isCached: true
-  - title: "Las Vegas event will let hackers test limits of AI technology"
-    excerpt: "No sooner did ChatGPT get unleashed than hackers started “jailbreaking” the artificial intelligence chatbot — trying to override its safeguards so it could blurt out something"
-    publishedDateTime: 2023-05-10T16:26:00Z
-    webUrl: "https://lasvegassun.com/news/2023/may/10/las-vegas-event-will-let-hackers-test-limits-of-ai/"
-    type: article
-    provider:
-      name: Las Vegas Sun
-      domain: lasvegassun.com
-    quality: 19
 
 secured: "ap7S6Q4f+27zuKv6Cf2G9d28qHn0BP3SShxVn1mG80JCTtG0dNte/0Pbp/cQIxOChplyu62/d6zG6h7Y4MpFtEsc1uKRHSEZ9EQ1jMZnCYJi//aU8XHk63M4188qIVGRe1xf0XH9fD0ZBdstxgY9y7jD/GzdH6vHXE++5HPbdDeNRQkHIFjIpZ8QwIdHlqjoseowqfy8VABz3Q9Teg+MF+f9TLpb5PFj8wpzwLvYFQepp5fl5TFQI6EtmkidZDMzAS/cGqGRdH6k644ItIHwBheBXc8hr+GtkREHOeIZuxUdnLzITs3OU9Nh3Qkpzt+dU9QKKJKF2F3HbmE8mqFy7NClnB9FgaKn/WKkTLSjIh1aOXuw3gKNT9g9lQjjceUmobZfKcULzrMc6XTMVfMkLg8l+FKNFp/aj99f7wPbryW1Y4BgkcVtIXvl+1tw2Y41Ubw6JPUxJI5yMSqowF2ADTvji3zFoA8way+HoA78KmnV1JPGCBGFW9fV+BL+zQkXYk7oXz0cuO2+FKcCLn71og==;SPnaDLLUNgb5ltm4omadMQ=="
 ---

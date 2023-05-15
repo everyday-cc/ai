@@ -43,6 +43,22 @@ related:
         width: 1000
         height: 560
         isCached: true
+  - title: "First self-driving buses enter service on UK roads"
+    excerpt: "The UK’s first self-driving bus service has launched in Scotland, taking passengers across the famed road bridge over the Firth of Forth. Five full-size Alexander Dennis Enviro200AV buses will traverse the bridge using autonomous driving technology as they transport up to 10,"
+    publishedDateTime: 2023-05-15T09:47:00Z
+    webUrl: "https://www.autoexpress.co.uk/news/360203/first-self-driving-buses-enter-service-uk-roads"
+    ampWebUrl: "https://www.autoexpress.co.uk/news/360203/first-self-driving-buses-enter-service-uk-roads?amp"
+    cdnAmpWebUrl: "https://www-autoexpress-co-uk.cdn.ampproject.org/c/s/www.autoexpress.co.uk/news/360203/first-self-driving-buses-enter-service-uk-roads?amp"
+    type: article
+    provider:
+      name: AutoExpress
+      domain: autoexpress.co.uk
+    quality: 44
+    images:
+      - url: "https://media.autoexpress.co.uk/image/private/s--4gBK8ho3--/f_auto,t_primary-image-mobile@1/v1684143748/autoexpress/2023/05/Stagecoach%20autonomous%20bus%20-%20Alexander%20Dennis%20Enviro200AV.jpg"
+        width: 375
+        height: 210
+        isCached: true
   - title: "'World first' self-driving buses ready for roads in Scotland"
     excerpt: "A full size, self-driving bus service is ready to take to the roads of Scotland in what is believed to be a world first. The Stagecoach autonomous bus service, AB1, is launching for passengers over the Forth Road Bridge on 15 May. The 14-mile route runs between Ferrytoll park-and-ride in Fife and Edinburgh Park train and tram interchange."
     publishedDateTime: 2023-05-11T16:00:00Z

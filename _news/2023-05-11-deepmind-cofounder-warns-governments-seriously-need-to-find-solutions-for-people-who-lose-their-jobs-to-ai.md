@@ -9,7 +9,7 @@ ampWebUrl: "https://fortune.com/2023/05/10/artificial-intelligence-deepmind-co-f
 cdnAmpWebUrl: "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/2023/05/10/artificial-intelligence-deepmind-co-founder-mustafa-suleyman-ubi-governments-seriously-need-to-find-solution-for-people-that-lose-their-jobs/amp/"
 type: article
 quality: 70
-heat: 70
+heat: 80
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 840
     height: 604
     isCached: true
+
+related:
+  - title: "DeepMind cofounder says Google should be 'pretty worried' because old school search engines will be gone in a decade. 'That moment is done.'"
+    excerpt: "DeepMind cofounder Mustafa Suleyman compared Google's current search results to '1980s Yellow Pages.'"
+    publishedDateTime: 2023-05-15T09:00:00Z
+    webUrl: "https://www.businessinsider.com/deepmind-cofounder-old-school-google-search-gone-in-decade-2023-5"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 34
+    images:
+      - url: "https://i.insider.com/6461aca1d391de0019bdd44d?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "lVq6fAUwhhIytV6i6zLZ6t9XlGDjx8F3fVsd6Z09PmrdIs13qS4kbGY6PVG03MqUQF7SHO7z036EwbLgedGgfglKN8GrvN9hyx1tMhfkhPzZ+oUvbMdyeMtCrmxwkfWLI9ZcYKWICZxFOiZGGIClZ5f03zeg29T/Hv7hb8jI3CExpOP/WNmyyKzSdbVN6RoXAuvUz3I4dN9mkC3pNG5kFYCAR/Qd9YEV61UzcVo2yR8wyp2V8ivNB2zzHXD2EhxUCnMS7o0DzF0+KofNSog0tXySzRog7OVhXLAaN1PwxpQeQT1uQ+rjZnKOP6rtON8fAVliIwNmC990KproG+Ld3bvOC401uIDkfuDYy3ADjRc=;ddc7pd510VhCXYmJwObOdA=="
 ---

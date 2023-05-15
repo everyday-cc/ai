@@ -51,22 +51,6 @@ related:
       name: TechRepublic
       domain: techrepublic.com
     quality: 68
-  - title: "IBM Reveals New WatsonX"
-    excerpt: "International Business Machines Corp released Watsonx, a new AI and data tool to enable organizations to integrate AI into their business."
-    publishedDateTime: 2023-05-10T16:02:00Z
-    webUrl: "https://enterprisetalk.com/quick-bytes/ibm-reveals-new-watsonx/"
-    ampWebUrl: "https://enterprisetalk.com/quick-bytes/ibm-reveals-new-watsonx/amp/"
-    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/ibm-reveals-new-watsonx/amp/"
-    type: article
-    provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 59
-    images:
-      - url: "https://enterprisetalk.com/wp-content/uploads/2023/05/IBM-Reveals-New-WatsonX.jpg"
-        width: 1500
-        height: 844
-        isCached: true
   - title: "How IBM’s Watson X is Scripting the End of Business As We Know it"
     excerpt: "Banking on its strength as an enterprise-focused company, and with many organisations already using its Watson chatbot, the company is looking to revive its former glory with this next-generation technology."
     publishedDateTime: 2023-05-12T06:47:00Z

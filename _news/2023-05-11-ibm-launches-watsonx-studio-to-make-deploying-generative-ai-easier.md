@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "IBM Reveals New WatsonX"
-    excerpt: "International Business Machines Corp released Watsonx, a new AI and data tool to enable organizations to integrate AI into their business."
-    publishedDateTime: 2023-05-10T16:02:00Z
-    webUrl: "https://enterprisetalk.com/quick-bytes/ibm-reveals-new-watsonx/"
-    ampWebUrl: "https://enterprisetalk.com/quick-bytes/ibm-reveals-new-watsonx/amp/"
-    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/ibm-reveals-new-watsonx/amp/"
-    type: article
-    provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 59
-    images:
-      - url: "https://enterprisetalk.com/wp-content/uploads/2023/05/IBM-Reveals-New-WatsonX.jpg"
-        width: 1500
-        height: 844
-        isCached: true
   - title: "Redefining AI with watsonx: Highlights from IBM Think 2023"
     excerpt: "Chairman and CEO Arvind Krishna address the attendees at the IBM Think event. (Source – IBM) At the annual Think conference, IBM presented watsonx, an AI platform set to boost AI use and scalability in any cloud setting."
     publishedDateTime: 2023-05-11T04:01:00Z

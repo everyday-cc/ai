@@ -57,6 +57,22 @@ related:
         width: 1000
         height: 560
         isCached: true
+  - title: "First self-driving buses enter service on UK roads"
+    excerpt: "The UK’s first self-driving bus service has launched in Scotland, taking passengers across the famed road bridge over the Firth of Forth. Five full-size Alexander Dennis Enviro200AV buses will traverse the bridge using autonomous driving technology as they transport up to 10,"
+    publishedDateTime: 2023-05-15T09:47:00Z
+    webUrl: "https://www.autoexpress.co.uk/news/360203/first-self-driving-buses-enter-service-uk-roads"
+    ampWebUrl: "https://www.autoexpress.co.uk/news/360203/first-self-driving-buses-enter-service-uk-roads?amp"
+    cdnAmpWebUrl: "https://www-autoexpress-co-uk.cdn.ampproject.org/c/s/www.autoexpress.co.uk/news/360203/first-self-driving-buses-enter-service-uk-roads?amp"
+    type: article
+    provider:
+      name: AutoExpress
+      domain: autoexpress.co.uk
+    quality: 44
+    images:
+      - url: "https://media.autoexpress.co.uk/image/private/s--4gBK8ho3--/f_auto,t_primary-image-mobile@1/v1684143748/autoexpress/2023/05/Stagecoach%20autonomous%20bus%20-%20Alexander%20Dennis%20Enviro200AV.jpg"
+        width: 375
+        height: 210
+        isCached: true
   - title: "Britain’s first autonomous bus service launches in Scotland"
     excerpt: "The UK has celebrated the launch of its first driverless bus service, operated by Stagecoach. The start of the pilot programme was marked by a journey on the service between Ferry Toll near Inverkeithing,"
     publishedDateTime: 2023-05-12T13:16:00Z

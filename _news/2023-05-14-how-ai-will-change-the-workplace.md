@@ -93,15 +93,15 @@ related:
   - title: "DEF CON to set thousands of hackers loose on AI"
     excerpt: "Thousands of hackers will get a shot at testing the limits of AI technology at a mass hacking event at the famed DEF CON hacker convention. Some of the things they’ll be looking to find: How can chatbots be manipulated to cause harm?"
     publishedDateTime: 2023-05-14T21:30:00Z
-    webUrl: "https://tucson.com/news/def-con-to-set-thousands-of-hackers-loose-on-ai/article_9285382f-aa37-56ac-9d75-59c7fad7fec3.html"
+    webUrl: "https://rapidcityjournal.com/news/def-con-to-set-thousands-of-hackers-loose-on-ai/article_52d189c1-a957-571c-abad-b949fccf5735.html"
     type: article
     provider:
-      name: Arizona Daily Star
-      domain: tucson.com
+      name: Rapid City Journal
+      domain: rapidcityjournal.com
     quality: 39
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/tucson.com/content/tncms/assets/v3/editorial/9/28/9285382f-aa37-56ac-9d75-59c7fad7fec3/645be2c03cb68.preview.jpg?crop=1763%2C992%2C0%2C91&resize=1120%2C630&order=crop%2Cresize"
-        width: 1120
+      - url: "https://bloximages.chicago2.vip.townnews.com/rapidcityjournal.com/content/tncms/assets/v3/editorial/5/2d/52d189c1-a957-571c-abad-b949fccf5735/645be190f1bd6.preview.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
         height: 630
         isCached: true
   - title: "Taming AI to the benefit of humans"

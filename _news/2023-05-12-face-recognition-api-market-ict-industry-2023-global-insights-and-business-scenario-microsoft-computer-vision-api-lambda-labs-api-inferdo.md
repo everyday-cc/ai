@@ -152,22 +152,6 @@ related:
         width: 1540
         height: 800
         isCached: true
-  - title: "Microsoft backs UK start-up in latest AI push"
-    excerpt: "Microsoft splurged an undisclosed sum of equity investment in UK-based AI developer Builder.ai under a broader strategic partnership."
-    publishedDateTime: 2023-05-10T15:55:00Z
-    webUrl: "https://www.mobileworldlive.com/featured-content/top-three/microsoft-backs-uk-start-up-in-latest-ai-push/"
-    ampWebUrl: "https://www.mobileworldlive.com/featured-content/top-three/microsoft-backs-uk-start-up-in-latest-ai-push/amp/"
-    cdnAmpWebUrl: "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/featured-content/top-three/microsoft-backs-uk-start-up-in-latest-ai-push/amp/"
-    type: article
-    provider:
-      name: Mobile World Live
-      domain: mobileworldlive.com
-    quality: 74
-    images:
-      - url: "https://www.mobileworldlive.com/wp-content/uploads/2023/03/AI-threat.jpg"
-        width: 650
-        height: 400
-        isCached: true
   - title: "Microsoft invests in Builder.ai for scaling up AI efforts"
     excerpt: "Microsoft has funded an undisclosed sum in Builder.ai, marking the company’s scaling up its efforts in Artificial Intelligence and competing with Google. Emphasising how Microsoft was committed to helping startups,"
     publishedDateTime: 2023-05-11T05:35:00Z
@@ -213,20 +197,6 @@ related:
       - url: "https://static.zawya.com/view/acePublic/alias/contentid/N2JmYzQ0NDEtODJmYy00/1/oswal-jfif.jpeg?f=3%3A2"
         width: 900
         height: 600
-        isCached: true
-  - title: "Microsoft Partners With Builder.AI to Expand its AI Network"
-    excerpt: "Microsoft has announced that it is partnering with Gurugram-based software platform, Builder.ai, in a strategic collaboration that will see the two companies"
-    publishedDateTime: 2023-05-10T15:09:00Z
-    webUrl: "https://www.onmsft.com/news/microsoft-partners-with-builder-ai-to-expand-its-ai-network/"
-    type: article
-    provider:
-      name: On MSFT
-      domain: onmsft.com
-    quality: 54
-    images:
-      - url: "https://e24joaz2t6m.exactdn.com/wp-content/uploads/2023/03/edas-1.jpeg"
-        width: 1024
-        height: 768
         isCached: true
   - title: "Microsoft freezes salaries to invest in AI"
     excerpt: "Microsoft has decided to freeze pay for all full-time workers this year as it invests in a \"major platform shift\"."

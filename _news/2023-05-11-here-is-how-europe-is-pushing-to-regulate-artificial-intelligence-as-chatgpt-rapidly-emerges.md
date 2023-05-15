@@ -62,6 +62,22 @@ related:
         width: 1066
         height: 628
         isCached: true
+  - title: "Snapchat's new AI chatbot is already raising alarms among teens and parents"
+    excerpt: "Less than a few hours after Snapchat rolled out its My AI chatbot to all users last week, Lyndsi Lee, a mother from East Prairie, Missouri, told her 13-year-old daughter to stay away from the feature."
+    publishedDateTime: 2023-05-15T09:51:00Z
+    webUrl: "https://edition.cnn.com/2023/04/27/tech/snapchat-my-ai-concerns-wellness/index.html@"
+    ampWebUrl: "https://amp.cnn.com/cnn/2023/04/27/tech/snapchat-my-ai-concerns-wellness/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/04/27/tech/snapchat-my-ai-concerns-wellness/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 85
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/230426123404-snapchat-app-restricted-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "How is the new Google AI search different from Bard chatbot?"
     excerpt: "Google demonstrated an updated core search product that embeds more AI in its answers as the company looks to banish doubts that it is losing ground to Microsoft's OpenAI-powered Bing search."
     publishedDateTime: 2023-05-11T04:49:00Z

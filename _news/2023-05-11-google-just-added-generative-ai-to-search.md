@@ -243,20 +243,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "IBM pins hybrid cloud strategy to generative AI play"
-    excerpt: "The machine learning pioneer joins AWS, Microsoft and Google in the race to deploy the latest iteration of large language model technology."
-    publishedDateTime: 2023-05-10T16:15:00Z
-    webUrl: "https://www.ciodive.com/news/IBM-watsonx-generative-AI-enterprise-models/649901/"
-    type: article
-    provider:
-      name: CIO Dive
-      domain: ciodive.com
-    quality: 39
-    images:
-      - url: "https://www.ciodive.com/imgproxy/U3Ekh9vEfsuA9PC710cRMu4GRXivm7aVs3eLMP0H3FE/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTUxNDA1MTUzLmpwZw.jpg"
-        width: 770
-        height: 435
-        isCached: true
   - title: "Google to revamp search with generative AI tools, but gradually"
     excerpt: "The approach insulates Google from some of the ethical concerns surrounding generative AI. Read more at straitstimes.com."
     publishedDateTime: 2023-05-11T01:52:00Z

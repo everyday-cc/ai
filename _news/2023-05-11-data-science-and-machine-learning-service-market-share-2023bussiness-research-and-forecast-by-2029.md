@@ -99,20 +99,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Artificial Intelligence in Insurance Market by [2023-2029] with Revenue Outsourcing"
-    excerpt: "A Promising Outlook for the Global Artificial Intelligence in Insurance Market from 2023 to 2030 Why is Artificial Intelligence in Insurance market 2023 Important? - Overall, the Artificial Intelligence in Insurance market in 2023 is essential for businesses to understand the market landscape,"
-    publishedDateTime: 2023-05-10T16:17:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-insurance-market-by-2023-2029-with-revenue-outsourcing-2023-05-10"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 57
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "2023, The Latest Insights Report on The Healthcare Artificial Intelligence Market Provides Statistics And Forecasts Extending till 2030"
     excerpt: "May 11, 2023 (The Expresswire) -- 2023-2030 According to our Latest CAGR Research, Healthcare Artificial Intelligence Market Size With The Global Market looks promising in the next 5 years. As of 2023, the global Healthcare Artificial Intelligence market ..."
     publishedDateTime: 2023-05-11T07:34:00Z

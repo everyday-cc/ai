@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/05/12/chatgpt-everything-you-need-to-kno
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/12/chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot/amp/"
 type: article
 quality: 89
-heat: 279
+heat: 289
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/645d5d77a5a034c6f9e63673/0x0.jpg?format=jpg&width=1200"
         width: 1066
         height: 628
+        isCached: true
+  - title: "Snapchat's new AI chatbot is already raising alarms among teens and parents"
+    excerpt: "Less than a few hours after Snapchat rolled out its My AI chatbot to all users last week, Lyndsi Lee, a mother from East Prairie, Missouri, told her 13-year-old daughter to stay away from the feature."
+    publishedDateTime: 2023-05-15T09:51:00Z
+    webUrl: "https://edition.cnn.com/2023/04/27/tech/snapchat-my-ai-concerns-wellness/index.html@"
+    ampWebUrl: "https://amp.cnn.com/cnn/2023/04/27/tech/snapchat-my-ai-concerns-wellness/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/04/27/tech/snapchat-my-ai-concerns-wellness/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 85
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/230426123404-snapchat-app-restricted-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
   - title: "Here is how Europe is pushing to regulate artificial intelligence as ChatGPT rapidly emerges"
     excerpt: "The European Union voted to strengthen regulations around artificial intelligence. Here is a look into how chatbots such as ChatGPT could be regulated in the continent."

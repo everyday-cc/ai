@@ -152,20 +152,6 @@ related:
       name: PC Magazine
       domain: pcmag.com
     quality: 47
-  - title: "How AI is about to change your Google search results"
-    excerpt: "A guided tour of the new Google Search Generative Experience, or SGE, coming first to people who sign up — and eventually to everyone."
-    publishedDateTime: 2023-05-10T16:52:00Z
-    webUrl: "https://www.washingtonpost.com/technology/2023/05/10/google-search-ai-io-2023/"
-    type: article
-    provider:
-      name: The Washington Post
-      domain: washingtonpost.com
-    quality: 39
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3I52HAZKDVH2LO55VF2X6FBCNY.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
   - title: "Google’s Bard AI Launches in 180 Countries, Adds New Features"
     excerpt: "Google is now available in over 180 countries, and it's also being upgraded with Google's more capable PaLM 2 large language model."
     publishedDateTime: 2023-05-10T17:45:00Z

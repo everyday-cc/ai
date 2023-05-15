@@ -51,20 +51,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Thousands of hackers will soon test the limits of AI technology"
-    excerpt: "No sooner did ChatGPT get unleashed than hackers started “jailbreaking” the artificial intelligence chatbot – trying to override its safeguards so it could blurt out something unhinged or obscene. But now its maker,"
-    publishedDateTime: 2023-05-10T15:23:00Z
-    webUrl: "https://www.dailypress.com/nation-world/vp-nw-chatgpt-ai-hackers-20230510-hdgshb52pnfvbdwr22jjcyjdmi-story.html"
-    type: article
-    provider:
-      name: Daily Press
-      domain: dailypress.com
-    quality: 39
-    images:
-      - url: "https://www.dailypress.com/resizer/BOaqPlMihMZc9VFw9XP_zlzSzdg=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/AOU5ZRXYBHSDZZIUXNBDMAUUNQ.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Mass event will let hackers test limits of AI technology"
     excerpt: "OpenAI and other major AI providers such as Google and Microsoft, are coordinating with the Biden administration to let thousands of hackers take a shot at testing the limits of their technology."
     publishedDateTime: 2023-05-13T14:13:00Z
@@ -93,15 +79,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Las Vegas event will let hackers test limits of AI technology"
-    excerpt: "No sooner did ChatGPT get unleashed than hackers started “jailbreaking” the artificial intelligence chatbot — trying to override its safeguards so it could blurt out something"
-    publishedDateTime: 2023-05-10T16:26:00Z
-    webUrl: "https://lasvegassun.com/news/2023/may/10/las-vegas-event-will-let-hackers-test-limits-of-ai/"
-    type: article
-    provider:
-      name: Las Vegas Sun
-      domain: lasvegassun.com
-    quality: 19
 
 secured: "OrrO+32JWH7A5q+FKbaMmXVEs40k397qSqQB24h1k/cW+4Y1IJNFlBZCeA87ojpo2GeN8rA3QOlD2WhU7WiBWr59XmaRoszOLkQOFThexln9Cw+R5NqT3H8J0IvacBqMzuluXGylrsKLiL+17Rq4GyELIEtVkFuVOSdl8FRVZzBvVbv5zsmKl87ZM2J/7RS8mXOV6n/y5hLiowXekMejWUj3IRUs3zNsbkBUIy5cqrKRPKTz6MWOjTXILbg6YHW3syZ/6ENVAh1Hg29/5yYk+rz8r45c4qcsuj2HlksRGJFnKg2r5F3yqEdIMP5cJXzO4CRQg6bYFO8WGmMJRsbrKaUXcUwYGVzbmVxwkhGn0zDHrbgJoU8ynWLz3mWK9JkDakztXa6bqtjH1xSBrLebNdk9mtPbGZLQpa51qL4DFhjhXhy/S2AJpc3OfKgPlpGTgcpe8UTpPLx05fabeEBYEg4PfES2k3EvFBP8JRjNEq7UZ54sXi6LCQeJuOaKt4U4zHWc2nvvCOPULMPB9Po++w==;urRVF8lhZfEWcwugaszwBA=="
 ---
