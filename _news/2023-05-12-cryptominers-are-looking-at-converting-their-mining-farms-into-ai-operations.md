@@ -53,22 +53,6 @@ related:
         width: 2440
         height: 1627
         isCached: true
-  - title: "AI Needs Specialized Processors. Crypto Miners Say They Have Them"
-    excerpt: "When the Ethereum blockchain moved away from using a technique for verifying transactions known as proof of work last September, crypto market demand for the specialized processors that performed these calculations disappeared virtually overnight."
-    publishedDateTime: 2023-05-10T13:42:00Z
-    webUrl: "https://www.bnnbloomberg.ca/ai-needs-specialized-processors-crypto-miners-say-they-have-them-1.1918301"
-    ampWebUrl: "https://www.bnnbloomberg.ca/ai-needs-specialized-processors-crypto-miners-say-they-have-them-1.1918301.amp.html"
-    cdnAmpWebUrl: "https://www-bnnbloomberg-ca.cdn.ampproject.org/c/s/www.bnnbloomberg.ca/ai-needs-specialized-processors-crypto-miners-say-they-have-them-1.1918301.amp.html"
-    type: article
-    provider:
-      name: bnnbloomberg
-      domain: bnnbloomberg.ca
-    quality: 59
-    images:
-      - url: "http://www.bnnbloomberg.ca/polopoly_fs/1.1918302!/fileimage/httpImage/image.png_gen/derivatives/landscape_620/image.png"
-        width: 620
-        height: 349
-        isCached: true
   - title: "Your Crypto Mining Chips Are No Good for AI—Here’s Why"
     excerpt: "Proof-of-work coins and AI models have different tastes when it comes to GPUs, and cryptocurrency miners can’t satisfy them both."
     publishedDateTime: 2023-05-11T21:07:00Z
@@ -97,15 +81,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "AI Needs Special Processors. Crypto Miners Say They Have Them"
-    excerpt: "When the Ethereum blockchain moved away from using a technique for verifying transactions known as proof of work last September, crypto market demand for the specialized processors that performed these calculations disappeared virtually overnight."
-    publishedDateTime: 2023-05-10T13:09:00Z
-    webUrl: "https://news.bloomberglaw.com/business-and-practice/ai-needs-special-processors-crypto-miners-say-they-have-them"
-    type: article
-    provider:
-      name: news.bloomberglaw
-      domain: bloomberglaw.com
-    quality: 19
 
 secured: "XlBsIi3/O/IrQQXtHbS1cbyCaCtOCJn9+GuYXPCFoNypzbdiT9ZLGTRE+qTwZ9nkQXGOTy/b+y4E/c2BQb2bY1jHmOl779L02RYIaTGla0Qy6pclsMTJ6W3sYvfJXgLKksCYCm7HbWlzvDrqPiIbNA5Cq+ZPK1gDUOybO3fLf6cRvL5wshPNyaw3r2nptm464Cvc6WxiBKMqphgzT25EqUMe5k4eqx/D09ijgHA79NFnsl8cUL6gV3Q8mQi1i6YMlZ9Dzqb3frfkB3Z42hLJuvJcIoaoXRKPzCXntLfVK7tmFdRMGx81K5Yxr850qSUp8kXqc0WF3wiAyX5zHGlpnp76xJgUvHUkx1cK6e9xEcc5Ffjv+2q4ZDCyekynaRUui77qoo5xC7Y+xD5lVJ8k0XSkiNyytyWaCM5DxyBmjED2J09ny8ixYVn5NGGomd1zwR7DKtKdHsj/Q95XP4RAUWDS3KU/oXeDbfcZ2qBvC2FqKdDgYvNEXSsz1H+tsKbTY+XZptc9kXUTmAuXJppdtg==;oqErltQvRB19Oq1d8W+a2Q=="
 ---

@@ -38,17 +38,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "This company is paying language experts Rs 2000 per hour for training AI tools to write better responses"
-    excerpt: "Scale AI, a data-labeling company, is hiring writers to train their generative AI models. Here are the details!"
-    publishedDateTime: 2023-05-10T13:52:00Z
-    webUrl: "https://economictimes.indiatimes.com/news/new-updates/this-company-is-paying-language-experts-rs-2000-per-hour-for-training-ai-tools-to-write-better-responses/articleshow/100138449.cms"
-    ampWebUrl: "https://m.economictimes.com/news/new-updates/this-company-is-paying-language-experts-rs-2000-per-hour-for-training-ai-tools-to-write-better-responses/amp_articleshow/100138449.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/news/new-updates/this-company-is-paying-language-experts-rs-2000-per-hour-for-training-ai-tools-to-write-better-responses/amp_articleshow/100138449.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 22
   - title: "Artificial intelligence may be Hollywood’s ultimate strikebreaker"
     excerpt: "One wonders if the Hollywood writers’ strike, now in its third week, might inspire movie studios to rely on artificial intelligence to craft stories."
     publishedDateTime: 2023-05-14T23:30:00Z

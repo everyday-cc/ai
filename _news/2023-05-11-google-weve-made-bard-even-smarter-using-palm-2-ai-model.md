@@ -118,6 +118,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Google PaLM 2 AI Model: Everything You Need to Know"
+    excerpt: "Learn everything about Google PaLM 2 AI model and what new capabilities it brings. We have also compared GPT-4 and PaLM 2 in detail."
+    publishedDateTime: 2023-05-15T05:48:00Z
+    webUrl: "https://beebom.com/google-palm-2-ai-model/"
+    ampWebUrl: "https://beebom.com/google-palm-2-ai-model/amp/"
+    cdnAmpWebUrl: "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/google-palm-2-ai-model/amp/"
+    type: article
+    provider:
+      name: Beebom
+      domain: beebom.com
+    quality: 59
+    images:
+      - url: "https://beebom.com/wp-content/uploads/2023/05/Googles-PaLM-2-AI-Model-Everything-You-Need-to-Know.jpg"
+        width: 750
+        height: 500
+        isCached: true
   - title: "Researcher uses artificial intelligence to discover new materials for advanced computing"
     excerpt: "A team of researchers led by Rensselaer Polytechnic Institute's Trevor David Rhone, assistant professor in the Department of Physics, Applied Physics, and Astronomy, has identified novel van der Waals (vdW) magnets using cutting-edge tools in artificial intelligence (AI)."
     publishedDateTime: 2023-05-11T21:07:00Z

@@ -103,38 +103,6 @@ related:
         width: 1280
         height: 670
         isCached: true
-  - title: "AI startup Anthropic unveils moral principles behind chatbot Claude"
-    excerpt: "Amid controversy about generative AI programs giving wrong, biased or potentially dangerous responses to queries, Anthropic reveals how it is training ChatGPT rival Claude to have safe, helpful values."
-    publishedDateTime: 2023-05-10T14:32:00Z
-    webUrl: "https://www.computerworld.com/article/3695952/ai-startup-anthropic-unveils-moral-principles-behind-chatbot-claude.html"
-    ampWebUrl: "https://www.computerworld.com/article/3695952/ai-startup-anthropic-unveils-moral-principles-behind-chatbot-claude.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3695952/ai-startup-anthropic-unveils-moral-principles-behind-chatbot-claude.amp.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 57
-    images:
-      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2022/09/16/10/ai_artificial_intelligence_ml_machine_learning_abstract_face_by_kentoh_gettyimages_1042827860-100817767-large-100932435-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Wendy’s to test AI chatbot that takes your drive-thru order"
-    excerpt: "US fast-food chain says pilot program ‘seeks to take the complexity out of the ordering process’"
-    publishedDateTime: 2023-05-10T14:59:00Z
-    webUrl: "https://www.theguardian.com/us-news/2023/may/10/wendys-ai-chatbot-drive-thru"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2023/may/10/wendys-ai-chatbot-drive-thru"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2023/may/10/wendys-ai-chatbot-drive-thru"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 57
-    images:
-      - url: "https://i.guim.co.uk/img/media/28569c93918527a910695ba29c5afd9ee54972a9/0_193_4744_2847/master/4744.jpg?width=620&quality=85&auto=format&fit=max&s=c7b2467c0c605f2c61cd36601b08e053"
-        width: 620
-        height: 372
-        isCached: true
   - title: "Google’s Bard AI chatbot launches in Australia with vow to develop it ethically"
     excerpt: "Company says its AI programs will include watermarks and metadata saying content is AI-generated as ChatGPT rival rolls out in more than 180 countries"
     publishedDateTime: 2023-05-11T02:03:00Z
@@ -294,6 +262,6 @@ related:
       domain: usatoday.com
     quality: 7
 
-secured: "ZWS5f/ozC1tQ9EyKlkzCnqmqfFheoH7OgXlI8Ik9pMnNn0EtX/PDqKrXixk5ARL4SBWN1flrp5avcvepMIZihRw0h6TWimUKMKqPia1wAS3U7+aiQCszG78DfOYysXYAzgKD7OleOabeL4hFtfTzk4j1t1Z5QDu4p1IpyeW6z47MJ7w9sR6wA2AcomgIdjXTU172nfVfhVCbdzRfkoLPkvt6sy/z7xweVeEPvnxa5YnQlo1pr+n7ggpnAOiJHAsEGC2ffHJSw0Qy9dZplAR4c803yxYSjVvg9o7QcjhGZpss5BAnBvh4cQBXLC0G2o9L23uuxiNye9RNT/5edwpdsRzuFzbYpaUoALPAI1yOLz8=;QmaQUjEDbxx/pjWfFjpX9A=="
+secured: "Mj1H/5IrWADAMvp2JvwT43/g4Rudj0nKif62Jns77kpTinezbuvsGeBoml0qvCfuUDGvBNz3CvJwQPkvMMVbCjgV5ENHzbzX5RbBfy8fHWDrQPaqJtSw++nBYzuh+J7GeQ0nAburRnzR3KuCuDGjjY6UtMWjM/XVtJZBUf13bDwVaa98qnRqqCh1zJUxV8dGG8LOvWs+OvaB6qskuJT+fep6rcB8Yg/nlN90YLhuTHrA7uc78hyZjg1Twu85YvEjjRjWa2eQYqfgtrw7Mwp3CjpNGAq7VqjkhbmoV0GTRiyfU8YFtVT8RNSNpuaVwoxMNY2L8qWAbQYxZgnTGNy/mjMBLd73u+sCaez4/vO2RoZ6mxcgj327HuVzMzs7g9OUiHaURXIh1xiAaEATzcMJr4jY/O0v3Uo1MYEcmD1XQrlPn48gd0LmEVaGZCD8HldmMGrlVk4nMocGI9UJ/iUKzwTErtrNnd3DV5UdlADxAlkGboqlndB1Ob2Od2DaorVkEB9oQZAEF8YuuS2gtGmrNQ==;MzDknvElMNbZFvKCFVeekw=="
 ---
 

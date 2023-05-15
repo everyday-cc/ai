@@ -45,22 +45,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Google I/O 2023 Live Blog: Pixel, Nest and Bard AI Reveals Expected Today"
-    excerpt: "Google I/O 2023, the company's annual developer conference, kicks off Wednesday, and it's expected to include lots of reveals for the company's Pixel device line and the Bard AI experiment. The conference begins with a keynote at 10 a."
-    publishedDateTime: 2023-05-10T14:48:00Z
-    webUrl: "https://www.cnet.com/news-live/google-io-2023-live-blog-pixel-nest-and-bard-ai-reveals-expected-today/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news-live/google-io-2023-live-blog-pixel-nest-and-bard-ai-reveals-expected-today/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news-live/google-io-2023-live-blog-pixel-nest-and-bard-ai-reveals-expected-today/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 86
-    images:
-      - url: "https://www.cnet.com/a/img/resize/0ca7c8055796ec105c7002853ee5ae9fabf8ea1e/hub/2023/04/20/b51b4ccc-c533-42a5-bf98-62ba415a1b56/google-io-2023-5.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "That wasn’t Google I/O — it was Google AI"
     excerpt: "Three years ago, the company forced out Timnit Gebru, the co-lead of its ethical AI team, essentially over a paper that raised concerns about the dangers of large language models. Gebru’s concerns have since become mainstream. Her departure, and the ..."
     publishedDateTime: 2023-05-12T02:33:00Z

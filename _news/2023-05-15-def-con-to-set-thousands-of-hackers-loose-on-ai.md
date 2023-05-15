@@ -71,6 +71,20 @@ related:
         width: 1280
         height: 670
         isCached: true
+  - title: "How AI Will Change the Workplace"
+    excerpt: "We asked some top thinkers from different fields to weigh in on what’s ahead, as the AI explosion compels businesses to rethink, well, almost everything."
+    publishedDateTime: 2023-05-14T14:00:00Z
+    webUrl: "https://www.wsj.com/articles/how-ai-change-workplace-af2162ee"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
+    images:
+      - url: "https://images.wsj.net/im-779753/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "As AI jobs loss fears spread, know these 10 jobs that will grow because of it"
     excerpt: "World Economic Forum has informed about top 10 fastest growing jobs because of Artificial Intelligence. From Robotics Engineers to AI Machine Learning specialists, check the list here. Artificial Intelligence will claim a huge number of jobs causing fear to spread rapidly among workers."
     publishedDateTime: 2023-05-10T21:42:00Z
@@ -86,20 +100,6 @@ related:
       - url: "https://images.hindustantimes.com/tech/img/2023/05/10/cropped/16-9/USA-ARTIFICAL-INTELLIGENCE-BIDEN-0_1683713231312_1683713308449.JPG?impolicy=new-ht-20210112&width=1600"
         width: 1600
         height: 900
-        isCached: true
-  - title: "Hackers aim to find flaws in AI - with White House help"
-    excerpt: "But now its maker, OpenAI, and other major AI providers such as Google and Microsoft, are coordinating with the Biden administration to let thousands of hackers take a shot at testing the limits of their technology."
-    publishedDateTime: 2023-05-10T14:01:00Z
-    webUrl: "https://www.houstonchronicle.com/business/article/hackers-aim-to-find-flaws-in-ai-with-white-18090259.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: houstonchronicle.com
-    quality: 39
-    images:
-      - url: "https://s.hdnux.com/photos/01/32/64/15/23806829/6/rawImage.jpg"
-        width: 2048
-        height: 1365
         isCached: true
   - title: "Taming AI to the benefit of humans"
     excerpt: "Previous sci-fi movies featuring AI often portray evil-minded enemies set on destroying humanity, such as The Terminator, The Matrix and Blade Runner. Experts, including late British theoretical physicist Stephen Hawking and Tesla CEO Elon Musk,"
@@ -143,6 +143,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "All eyes on AI"
+    excerpt: "\"Colorado has taken vague principles of AI ethics, such as accountability, fairness, transparency... and turned them into the concrete requirements for policies, governance, and technical controls,\" the practice leaders wrote."
+    publishedDateTime: 2023-05-12T19:10:00Z
+    webUrl: "https://www.bizjournals.com/denver/news/2023/05/12/colorado-rules-artificial-intelligence-insurance.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 19
   - title: "EU lawmakers agree tough measures over use of AI"
     excerpt: "EU lawmakers have agreed a tough set of rules over the use of AI, including restrictions on chatbots such as ChatGPT, as Brussels pushes forward in enacting the world’s most restrictive regime on the development of the technology."
     publishedDateTime: 2023-05-11T11:24:00Z
@@ -153,6 +162,6 @@ related:
       domain: ft.com
     quality: 17
 
-secured: "hEUjIaKeHM/MvW+ZO3Y0vUAnvmuX55qtFZwNLyBrW6kZS1U+C4KM7X3XFnpjUe5//nqeDwIwqMzyBEWUqmcMA5dCUYlO93hu5MPYPR2v1Y9RzibTJDuLUFTXYEwLClrZh+ai0AvWBLGdf5slUfCcju6TIItVnuE7HGReVX2QbMLys902swueJe69UEnmECDv0V10ZpHOk297S+ks7KvS8khlzFDAl/9VpCsTdL0Ps4bjOyIDqR6fJQg674mTxGUTZPPDXxRf1kartRAyN42Rmzk5Jo07Nu9DDdWA0jiNkiN+ayxyh3Y0JUREIlxA6gzFg2lP1/2ySPPVkdJyCjCrMyMvDbV8pC+OI6sZPkc2BRQ=;g7r/xIAhzr7iqN17lU0Ntg=="
+secured: "eSooQVvjaJ6eE6rb8jC+uQHqDoSFCHnyN8PuMZTv+CkJaVP9lPGcM13y9uVq4L1ZZz02cxLJt9slUcV46VWNHKAYRNHmf7H7WNuyg3B5lWEnPziquAlqXYi86H2v8p8tvUmvFjrGCUxHIgmzNWArwysw1VUh/xsqQlGnwVyVgg4tq1Vtv8S4fUcV/pXwd9C4gX5Uf2K+GdfywYktvIKprIZy/WyvJvRXzqOCAso9p4+Rx3o//XDdoFxibqgR2Mn1x4SUFEfKFeF/EhYaCXlu9V9U9l9Qd5vgrDlpHmRqBswYqOvskp7FwHcg+gFqIiTxRj6fYN1ZDjMjlIXwAudIHM4ICcDjDLz0HDGX1JPTJDooaK25SDmVCvy/Cm5ddbPDgh6gxDilBeVT1ZhLoODFuoYcWAPU+uAvY8SmEOuh0wqps90YIXzeQDzA98cEtniTNLaR1AISnV7mMJi0s0ek4n7x5PidXJVJu34OfUbJqlQFjueYrbo6Wuel7DYl11C/qGerB1HVreYoT1QuOHrbsw==;aC8Xsq2IcOJGXyNrkNPIhg=="
 ---
 

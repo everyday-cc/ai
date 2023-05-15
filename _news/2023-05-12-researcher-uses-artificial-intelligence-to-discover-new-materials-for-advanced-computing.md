@@ -122,6 +122,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Google PaLM 2 AI Model: Everything You Need to Know"
+    excerpt: "Learn everything about Google PaLM 2 AI model and what new capabilities it brings. We have also compared GPT-4 and PaLM 2 in detail."
+    publishedDateTime: 2023-05-15T05:48:00Z
+    webUrl: "https://beebom.com/google-palm-2-ai-model/"
+    ampWebUrl: "https://beebom.com/google-palm-2-ai-model/amp/"
+    cdnAmpWebUrl: "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/google-palm-2-ai-model/amp/"
+    type: article
+    provider:
+      name: Beebom
+      domain: beebom.com
+    quality: 59
+    images:
+      - url: "https://beebom.com/wp-content/uploads/2023/05/Googles-PaLM-2-AI-Model-Everything-You-Need-to-Know.jpg"
+        width: 750
+        height: 500
+        isCached: true
   - title: "Google: We've Made Bard Even Smarter Using PaLM 2 AI Model"
     excerpt: "The new features could make Bard a stronger rival to ChatGPT. The company also plans on watermarking content created by AI in an effort to stamp out potential misuse."
     publishedDateTime: 2023-05-10T18:23:00Z

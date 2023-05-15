@@ -113,20 +113,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Hybrid Voice Recognition System Market 2023 Thriving at a Tremendous Growth till 2030"
-    excerpt: "The Hybrid Voice Recognition System Market Report by Type (BEV, ICE, Others) and by Application (Economy Vehicles, Mid-Priced Vehicles, Luxury Vehicles) forecast is offered along with info related to key drivers,"
-    publishedDateTime: 2023-05-10T13:08:00Z
-    webUrl: "https://www.marketwatch.com/press-release/hybrid-voice-recognition-system-market-2023-thriving-at-a-tremendous-growth-till-2030-2023-05-10"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 47
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Face Recognition Software Market 2023 Growth Possibilities, Analysis and Forecast To 2030"
     excerpt: "The Face Recognition Software Market Report by Type (Holistic Matching Method, Feature-based Method, Skin Texture Analysis, Hybrid Types, Other) and by Application (Corporate and Residential Security,"
     publishedDateTime: 2023-05-11T11:22:00Z

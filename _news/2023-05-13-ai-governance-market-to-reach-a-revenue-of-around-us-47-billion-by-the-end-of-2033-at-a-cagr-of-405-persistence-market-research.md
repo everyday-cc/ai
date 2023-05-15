@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/32376783"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32376783"
 type: article
 quality: 8
-heat: 8
+heat: -1
 published: false
 
 provider:
@@ -19,6 +19,17 @@ provider:
 topics:
   - AI Ethics
   - AI
+
+related:
+  - title: "Natural Language Processing NLP Market is Predicted to Register a CAGR of 23% from 2022 to 2032 | FMI"
+    excerpt: "The global Natural Language Processing (NLP) market stands at US$ 14 Billion as of now and is expected to reach US$ 45 Billion at a staggering CAGR of 23% between 2022 and 2032. With growing inclination towards digital technology-based software throughout,"
+    publishedDateTime: 2023-05-15T05:25:00Z
+    webUrl: "https://www.fmiblog.com/2023/05/15/natural-language-processing-nlp-market-is-predicted-to-register-a-cagr-of-23-from-2022-to-2032-fmi/"
+    type: article
+    provider:
+      name: Future Market Insights
+      domain: fmiblog.com
+    quality: 19
 
 secured: "sBSjuQT05kG9WV6gY+peRVDJTJ543SDt45VwEu84M+BICzAh/AfR1PbBTASIgavbkho1uRmMOQOob1IW+MpvszXfxKAM3BB+pXTVqEYUzhTTFtQQZY1tPh9/ScqYsE0jlJzZGsoCXHMz3VP3qC/HIfxA3Q6Pxv2omMMdP4fLsx1s4CUR3XP9ItuHxRPSy9HKZ9MT4NQsFwgKYN7piO5ao1XMkc9ET9eEXMrk9/4yOLC++NMrxcLhD+UuQpi8gAu1I69wxw9iH8PgKX5c9is4S3cI3wpCwreCNkltVBPGGDfl6j+h0Bz6KUipj6IcHXNfEC32/9/v4yuUW2KhuzTmiKw65wH3LF54Y8JN045T2vc=;3hjMuHjFZt3ARBM4I9WgLw=="
 ---

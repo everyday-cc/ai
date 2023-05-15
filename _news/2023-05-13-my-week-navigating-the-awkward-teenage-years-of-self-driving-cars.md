@@ -56,6 +56,20 @@ related:
       name: Ars Technica
       domain: arstechnica.com
     quality: 54
+  - title: "What self-driving cars may mean for traffic"
+    excerpt: "AI might be arriving with a bang, but autonomous cars are crawling closer at a snail’s pace. What’s the delay? And what can we expect to change on our roads in the next decade?"
+    publishedDateTime: 2023-05-15T07:01:00Z
+    webUrl: "https://www.thestar.com.my/lifestyle/living/2023/05/15/what-self-driving-cars-may-mean-for-traffic"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 24
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2023/05/15/2072912.jpg"
+        width: 800
+        height: 507
+        isCached: true
 
 secured: "R8j+OAImhrCDWwwPnGvrlTIS1x3ue0IxooKMVCGpNC6e2sChVfxy3rLouZA/XDDLCHYhStmPmnKjdXrxkgrPMPP3cLiei2mShdicQTmW7K6CPKAw+khx1bgtJM8igVl/jdDu1xaWfGN5Pu8JC7BZjaMZCV7nPuJ2fhi1LGu1hIIqFYfL9qcVamyr/fHaGWPIvLiUJAp0ak3XtODEFwTV9HkO5Z1TiNpDW5n/dACA6wXjxlqQi6ICw6ZJGNdQviVdMqX7rVokexXwhowVPbjRAjnejLFQZftc/hKwS24NPLiRGCagWRKWXPz+HptsJvLPg5JKhrIFO4SotThPgZZoEqG7XVC2qyN5Bw/WcxKSuyc/RWt4NFhxGXDe14/DzZZWKH1SCgTgbUFoLFdKy9PmfJ9LTyk8RutkfSe0CaRgOBCd3xnIjK1cBx9PbVhIdvelktvdluEdIZvHrpMmpuvlQjL5KPjfuTLbzRrjPzU6CMGMYlbzchtO9QUdaW5s/LhkGhZM2uM6xplJCTIdAdn7DA==;QBRlTQ/ZrYWiKmrONmYPMg=="
 ---

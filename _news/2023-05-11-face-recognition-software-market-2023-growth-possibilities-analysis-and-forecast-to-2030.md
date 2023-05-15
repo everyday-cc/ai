@@ -121,20 +121,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Hybrid Voice Recognition System Market 2023 Thriving at a Tremendous Growth till 2030"
-    excerpt: "The Hybrid Voice Recognition System Market Report by Type (BEV, ICE, Others) and by Application (Economy Vehicles, Mid-Priced Vehicles, Luxury Vehicles) forecast is offered along with info related to key drivers,"
-    publishedDateTime: 2023-05-10T13:08:00Z
-    webUrl: "https://www.marketwatch.com/press-release/hybrid-voice-recognition-system-market-2023-thriving-at-a-tremendous-growth-till-2030-2023-05-10"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 47
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "2023 Face Recognition Paper Picker Market Size and Trend Analysis in Machinery & Equipment Sector | with [91 Pages] and Forecast till 2031"
     excerpt: "May 11, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" The size of the global “Face"
     publishedDateTime: 2023-05-11T07:09:00Z

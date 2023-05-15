@@ -117,15 +117,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "IBM takes on AWS, Google, and Microsoft with Watsonx"
-    excerpt: "The generative AI platform comes with a suite of tools for tuning large language models, a data store built on lakehouse architecture, and an AI governance toolkit."
-    publishedDateTime: 2023-05-10T13:14:00Z
-    webUrl: "https://www.infoworld.com/article/3695951/ibm-takes-on-aws-google-and-microsoft-with-watsonx.html"
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 83
   - title: "Builder.ai Collaborates With Microsoft To Democratize Software Development"
     excerpt: "The collaboration will see the two companies collaborate on creating AI powered solutions that empower businesses to develop applications and become digitally native without the need for any technical"
     publishedDateTime: 2023-05-11T07:15:00Z
@@ -230,20 +221,6 @@ related:
         width: 900
         height: 600
         isCached: true
-  - title: "Microsoft confidence in UK less 'shaken' as it invests in AI startup"
-    excerpt: "Days after slamming Britain as no country for tech businesses, Microsoft Corporation (NASDAQ:MSFT) has invested in a UK artificial intelligence"
-    publishedDateTime: 2023-05-10T14:30:00Z
-    webUrl: "https://www.proactiveinvestors.com/companies/news/1014648/microsoft-confidence-in-uk-less-shaken-as-it-invests-in-ai-startup-1014648.html"
-    type: article
-    provider:
-      name: Proactiveinvestors
-      domain: proactiveinvestors.com
-    quality: 54
-    images:
-      - url: "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDIzXzA1XC8yMDIzLTA1LTEwLTE1LTI3LTIxLTFmYjVmZGUyMDJlMmRmNjkxNjZmNjY4NjY1NGNmNGMxLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0Ijo2MzAsImZpdCI6ImNvdmVyIn19fQ=="
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Microsoft Partners With Builder.AI to Expand its AI Network"
     excerpt: "Microsoft has announced that it is partnering with Gurugram-based software platform, Builder.ai, in a strategic collaboration that will see the two companies"
     publishedDateTime: 2023-05-10T15:09:00Z
@@ -271,20 +248,6 @@ related:
       - url: "https://techcentral.co.za/wp-content/uploads/2021/09/satya-nadella-2156-1120-2-5-1024x532.jpg"
         width: 1024
         height: 532
-        isCached: true
-  - title: "Builder.ai: Microsoft invests in no-code builder startup to boost AI game"
-    excerpt: "With Microsoft in the lead in AI, it is now looking to extend it by partnering beyond OpenAI for new and exciting products in the space."
-    publishedDateTime: 2023-05-10T15:02:00Z
-    webUrl: "https://interestingengineering.com/innovation/microsoft-builder-ai-partnership"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 53
-    images:
-      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/05/10/image/jpeg/QwOhaGHc0mAUOAQyOXsWARz9UnqOk3fCbp9h4hIr.jpg"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "Google unveils AI-powered search engine to rival Microsoft’s Bing"
     excerpt: "Google has been scrambling to catch up with Microsoft on consumer AI products. In February, Microsoft beat its rival to the punch by unveiling an AI-driven Bing search engine using OpenAI’s GPT technology. A month later, OpenAI revealed its language model, GPT-4, which users can access through a premium version of ChatGPT and via Bing."

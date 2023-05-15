@@ -27,20 +27,18 @@ images:
 
 related:
   - title: "AI presents political peril for 2024 with threat to mislead voters"
-    excerpt: "The threat posed by AI and so-called deepfakes always seemed a year or two away. No more. Sophisticated generative AI tools can now create cloned human voices and hyper-realistic images, videos and audio in seconds,"
-    publishedDateTime: 2023-05-14T21:46:00Z
-    webUrl: "https://www.twincities.com/2023/05/14/ai-presents-political-peril-for-2024-with-threat-to-mislead-voters/"
-    ampWebUrl: "https://www.twincities.com/2023/05/14/ai-presents-political-peril-for-2024-with-threat-to-mislead-voters/amp/"
-    cdnAmpWebUrl: "https://www-twincities-com.cdn.ampproject.org/c/s/www.twincities.com/2023/05/14/ai-presents-political-peril-for-2024-with-threat-to-mislead-voters/amp/"
+    excerpt: "Sophisticated generative AI tools can now create cloned human voices and hyper-realistic images, videos and audio in seconds, at minimal cost."
+    publishedDateTime: 2023-05-15T07:09:00Z
+    webUrl: "https://www.pressdemocrat.com/article/news/ai-presents-political-peril-for-2024-with-threat-to-mislead-voters/"
     type: article
     provider:
-      name: TwinCities.com
-      domain: twincities.com
-    quality: 57
+      name: Santa Rosa Press Democrat
+      domain: pressdemocrat.com
+    quality: 37
     images:
-      - url: "https://www.twincities.com/wp-content/uploads/2023/05/Artificial_Intelligence_Election_Misinformation_83033.jpg?w=1024&h=683"
-        width: 1024
-        height: 682
+      - url: "https://imengine.prod.srp.navigacloud.com?uuid=748dfd91-7dfd-57dc-a086-87fce3fc9d71&type=primary&q=72&width=1200"
+        width: 1199
+        height: 815
         isCached: true
   - title: "AI presents political peril for 2024 with threat to mislead voters: ‘We’re not prepared for this’"
     excerpt: "Thanks to recent advances in artificial intelligence, tools that can create lifelike photos, video and audio are now cheap and readily available."

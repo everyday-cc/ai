@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/opinion/columns/emerging-technologies-like-
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/opinion/columns/emerging-technologies-like-ai-can-revolutionize-privacy-rights/amp-11684083799239.html"
 type: article
 quality: 59
-heat: 69
+heat: -1
 published: false
 
 provider:
@@ -27,19 +27,37 @@ images:
     isCached: true
 
 related:
-  - title: "How Artificial Intelligence is Revolutionising the Fintech Landscape?"
-    excerpt: "According to surveys, 2/3 of FinTech companies currently use AI technology in their activities to a greater or lesser extent. Its influence will increase. Last year, the worldwide market for AI solutions in the FinTech industry was assessed at roughly 9 billion USD;"
-    publishedDateTime: 2023-05-10T14:04:00Z
-    webUrl: "https://www.lrytas.lt/english/feature/2023/05/10/news/how-artificial-intelligence-is-revolutionising-the-fintech-landscape--26994790"
+  - title: "Revolutionary changes by artificial intelligence"
+    excerpt: "The world is changing rapidly, and our technological advancement is changing similarly. Keeping in step with the advancing world, we have brought AI-based solutions for businesses. The accurate usage of data annotation and data"
+    publishedDateTime: 2023-05-14T15:49:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/revolutionary-changes-by-artificial-intelligence/?source=app&frmapp=yes"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/revolutionary-changes-by-artificial-intelligence/?source=app&frmapp=yes"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/revolutionary-changes-by-artificial-intelligence/?source=app&frmapp=yes"
     type: article
     provider:
-      name: lrytas
-      domain: lrytas.lt
-    quality: 39
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 59
     images:
-      - url: "https://media.lrytas.lt/images/2023/05/10/140405959-a47a9743-68ec-47fd-98d1-65e8ded98f3a.jpg"
-        width: 1080
-        height: 720
+      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2023/03/Manish-Mohta.JPEG-1.jpeg"
+        width: 1280
+        height: 851
+        isCached: true
+  - title: "Revolutionary changes by artificial intelligence"
+    excerpt: "The accurate usage of data annotation and data labelling services incorporating cases like Facial recognition, Self ... to intelligence by humans, when machines produce results, making tasks easier and faster, then those are inculcated under AI (Artificial ..."
+    publishedDateTime: 2023-05-14T21:19:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/revolutionary-changes-by-artificial-intelligence/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/revolutionary-changes-by-artificial-intelligence/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/revolutionary-changes-by-artificial-intelligence/"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2023/03/Manish-Mohta.JPEG-1.jpeg"
+        width: 1280
+        height: 851
         isCached: true
 
 secured: "6F6Ng4oiSDaBbn8ueE8TQ8UepURPFTamFkiJxH5/3+E7K7NvZAJPlPC5oOBandmgd/1eC90MZBEYhcXD34m4UXb79TdDvR29X+HvPYQXxVBbhjbb5uUkb0wgEIvQlszrfCVVzAVy7gapuR7mMppm+jpeX3NuJlaL94jpJM1iavjeZSNF+wOLPV++r/aBGaBBMbEVkNV0ApFMdE18DT7ebkv7BcuR/Utn6rpBwXHgGaBhjl1fY3Nwq6UJhSkaP2VFvUe0C785JCS4dKtnoC4vC1ZGjgj8dFLGIOjx+s47Yxl3D7BJQ4suHDVssRcTy0nwu2+UsyJG3gVIgu6qIRsgow+uqcxzJagXerJokAqHh7w=;8ysv5dYbFr4Sq5uh6x4sfw=="

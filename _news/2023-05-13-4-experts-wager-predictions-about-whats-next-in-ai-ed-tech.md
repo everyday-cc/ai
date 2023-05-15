@@ -9,7 +9,7 @@ ampWebUrl: "https://www.govtech.com/education/k-12/4-experts-wager-predictions-a
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/k-12/4-experts-wager-predictions-about-whats-next-in-ai-ed-tech?_amp=true"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,17 +25,6 @@ images:
     width: 840
     height: 438
     isCached: true
-
-related:
-  - title: "PeSTo: A new AI tool for predicting protein interactions"
-    excerpt: "Scientists at EPFL have developed PeSTo, an AI model that can predict, with high confidence, the binding interfaces of proteins when they bind other proteins, nucleic acids, lipids, ions, and small molecules."
-    publishedDateTime: 2023-05-10T13:31:00Z
-    webUrl: "https://phys.org/news/2023-05-pesto-ai-tool-protein-interactions.html"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 17
 
 secured: "6wBS/1yzQN0+KQBAX0Q4gYNRgTwvuT9EvjrtXJYJS8n2USzYoEn15e226XhKxkOw7QMvft1paZBKahO4c0GYHewzq4O/JlVWQrernvk4poxgjX0612xqdb6WuVll3DZeI7TWIg0voK35a/eeBGavexzuZFsFEfPIXZM0tXI1bz70aWB96qdO4QhgD0tPUa6xEMGEuvk6Z0MaunEerdGMYa3hZJ4Br3P/3m7NIVw3+ty6XLSLjPTHzh58WKE3Uz++9VBjOPWP+Esy0njXmWBxT1rTwvbB2ZqGN41VKg0PNIY9khqpOqBjhG4WL3556lokZ/1gmD61OQMGaUOUmdUKyvm1bjwvz0DLwLspuxfJ7vQ=;xDv6ox8EPSBVgl+TZMETTA=="
 ---

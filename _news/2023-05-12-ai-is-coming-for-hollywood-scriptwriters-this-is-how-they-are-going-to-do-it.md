@@ -28,17 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "This company is paying language experts Rs 2000 per hour for training AI tools to write better responses"
-    excerpt: "Scale AI, a data-labeling company, is hiring writers to train their generative AI models. Here are the details!"
-    publishedDateTime: 2023-05-10T13:52:00Z
-    webUrl: "https://economictimes.indiatimes.com/news/new-updates/this-company-is-paying-language-experts-rs-2000-per-hour-for-training-ai-tools-to-write-better-responses/articleshow/100138449.cms"
-    ampWebUrl: "https://m.economictimes.com/news/new-updates/this-company-is-paying-language-experts-rs-2000-per-hour-for-training-ai-tools-to-write-better-responses/amp_articleshow/100138449.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/news/new-updates/this-company-is-paying-language-experts-rs-2000-per-hour-for-training-ai-tools-to-write-better-responses/amp_articleshow/100138449.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 22
   - title: "AI-Generated Designs Are Letting Architects Unlock New Forms of Creativity. How Should They Deploy It?"
     excerpt: "Architects are experimenting with AI-generated designs, and many are already seeing the creative potential that AI's \"imagination\" can bring to brainstorming and concept design."
     publishedDateTime: 2023-05-12T17:32:00Z

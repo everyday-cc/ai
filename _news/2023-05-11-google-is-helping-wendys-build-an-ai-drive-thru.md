@@ -9,8 +9,8 @@ ampWebUrl: "https://www.popsci.com/technology/wendys-google-drive-thru-ai/?amp"
 cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/wendys-google-drive-thru-ai/?amp"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: Popular Science
@@ -40,15 +40,6 @@ related:
         width: 1240
         height: 826
         isCached: true
-  - title: "Wendy's to test new artificial intelligence drive-thru tech"
-    excerpt: "\"Google Cloud's generative AI technology creates a huge opportunity for us to deliver a truly differentiated, faster and frictionless experience for our customers,” CEO Todd Penegor said in a release."
-    publishedDateTime: 2023-05-10T13:17:00Z
-    webUrl: "https://www.bizjournals.com/bizwomen/news/latest-news/2023/05/wendys-to-test-ai-in-one-of-columbus-drive-thrus.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 17
 
 secured: "6AxylJfDdXkmD4NFKYLOF65Hf/R9bLQzNpY8y5ewAIcIvEsxvCW/CbH9CIkCoQ1lDtpbWGzLZnI5TaSqWDkrRse3V/tFj0HU/g8C4XuMsB5W+JPLYPTp0vMOqB2KV/XZpOKXLU0kRHeTPg2DSmA9R/k4nprLPOdGni94AAQvBb3nYtETcJfeub8l5d8AsjoHxb3X2/J4DlT315i3sFRHkeSaro3YzMVFtoExBgr+2HTT/8ZxnUn+rcO16n2XGu2edxs0NUdSQG+SRAStsEkqLSEPS1YJPU4x8G4T301don64Pue0Sgy6+I4P915mELkuKDSePXqaGgoX8TrokWa67I+m/9ZhVtRca4VtmzkfSxKGs4il5Ca/H52Ah0RHEy6hymXOJMpxRkL/h+ygYFZ6G+bMxgdfu4dKbzOfCV/my7T4Sb/giZ2voKzTt3KAVaDHi5a/T7wxV3RJbyl5FfizwbzF9zoj4juvuvPwmgJzSuSqBLu0vRZMxyfqPb7XtWwNRvepSlNjFPtmxfAV35UddA==;Hw58eEM8mZU1w6KtaMEptw=="
 ---

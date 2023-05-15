@@ -7,7 +7,7 @@ originalUrl: "https://time.com/6278841/microsoft-ceo-satya-nadella-on-artificial
 webUrl: "https://time.com/6278841/microsoft-ceo-satya-nadella-on-artificial-intelligence/"
 type: article
 quality: 84
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -56,20 +56,6 @@ related:
       - url: "https://www.crn.com/resources/0281-17fee2fdcd7a-2e9db2bde58c-1000/vic-raymond.jpeg"
         width: 611
         height: 458
-        isCached: true
-  - title: "Microsoft to assist novice app builders with yet another AI tool powered by Azure"
-    excerpt: "Determining how Builder.ai will operate within Microsoft Teams (opens in new tab) among the usual slew of corporate-speak within the announcement is tricky. Still, given its stanc"
-    publishedDateTime: 2023-05-10T13:51:00Z
-    webUrl: "https://www.windowscentral.com/software-apps/microsoft-to-assist-novice-app-builders-with-yet-another-ai-tool-powered-by-azure"
-    type: article
-    provider:
-      name: Windows Central
-      domain: windowscentral.com
-    quality: 66
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/E7KiskmuSSwuuxuJHEwSsD-1200-80.jpg"
-        width: 1024
-        height: 576
         isCached: true
 
 secured: "quamTEZSYQzJeKViwiuUNVpvhT4Dgohx/477/AnI0WHJwpyvmIakk3SRjzh4hbMXVld4V95dvXRK7ae08nu31X5ikS7ZlqlzI1UmyBOh42vOX6VFbMB4y0+RluuowCjwwcSz/gAr9qwyw0v7yZBs/HFwrFFnV05GQFSZS295QYj7B1Z2ZpfLgg5i8oFedubd/jiLFvXqjSQGk93uy2ghGfCHRu4pW6iwz7kQQSqHPCqxLHVQAPnHNY4cbkD1cD6f+MSvd9HDkdpnz9LAxnRAwpog8FdsrydGL5N9aNTSDkX7msU9cQSwXMOrwTF3TJy+Qma/kKrQuUJWoZsnxzKkbFOxMai736fWvWvDrP79KuY=;7ssKZDVajEMOLBzgNqtsPg=="

@@ -41,15 +41,6 @@ related:
         width: 2000
         height: 1125
         isCached: true
-  - title: "Wendy's to test new artificial intelligence drive-thru tech"
-    excerpt: "\"Google Cloud's generative AI technology creates a huge opportunity for us to deliver a truly differentiated, faster and frictionless experience for our customers,” CEO Todd Penegor said in a release."
-    publishedDateTime: 2023-05-10T13:17:00Z
-    webUrl: "https://www.bizjournals.com/bizwomen/news/latest-news/2023/05/wendys-to-test-ai-in-one-of-columbus-drive-thrus.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 17
 
 secured: "i0A/S0gZW+Y6+sHvuSGLvZdudrd+H98rzM/QDNLyA3erulvgNlRcUiK8HYEu1Eq3E/rWTW2WXk3rRyaNkZdFK/5ndMay8Do7vDzg3Grn86W8WJNKZXu7tkWjcGI4GRk3Am1UtaiU7K2PV73zRGqmf9pSbU5a8DV8kiOHEX55ZNhm0IZICRSNGRnTRjWHOEpR2FKZH88+jakUfx6LAQ8ERRIMa9EvGMYq7btnxAaJBCa3lkO9/fsyg+ePWFL00m4xcXGo7y7c/FnbmqpELfM+/qHU8KarP3oJmCXkaR52wZUvVuEk7+oZDSUyYZB7fxg5TaC8jG/xU1qww/dxswifC0uKU9EtaSH3zZujHPFU5DE=;NUhZp4bDTZoVEyUTC9PhlQ=="
 ---

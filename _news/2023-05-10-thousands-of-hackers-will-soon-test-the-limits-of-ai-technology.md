@@ -67,20 +67,6 @@ related:
       domain: nbcnews.com
     quality: 49
   - title: "Mass event will let hackers test limits of AI technology"
-    excerpt: "No sooner did ChatGPT get unleashed than hackers started “jailbreaking” the artificial intelligence chatbot – trying to override its safeguards so it could blurt out something unhinged or obscene"
-    publishedDateTime: 2023-05-10T15:02:00Z
-    webUrl: "https://abcnews.go.com/Technology/wireStory/hackers-aim-find-flaws-ai-white-house-99219240"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 39
-    images:
-      - url: "https://s.abcnews.com/images/US/wirestory_97b963db084800f11b26b8a023b1713f_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Mass event will let hackers test limits of AI technology"
     excerpt: "OpenAI and other major AI providers such as Google and Microsoft, are coordinating with the Biden administration to let thousands of hackers take a shot at testing the limits of their technology."
     publishedDateTime: 2023-05-13T14:13:00Z
     webUrl: "https://www.ksl.com/article/50641482/mass-event-will-let-hackers-test-limits-of-ai-technology"
@@ -117,24 +103,6 @@ related:
       name: Las Vegas Sun
       domain: lasvegassun.com
     quality: 19
-  - title: "Hackers to test limits of AI technology in mass event"
-    excerpt: "ChatGPT creator OpenAI and other major AI providers are coordinating with the Biden administration to let hackers test the limits of their technology."
-    publishedDateTime: 2023-05-10T19:14:00Z
-    webUrl: "https://thedailyrecord.com/2023/05/10/hackers-to-test-limits-of-ai-technology-in-mass-event/"
-    type: article
-    provider:
-      name: The Daily Record (Maryland)
-      domain: thedailyrecord.com
-    quality: 19
-  - title: "Artificial intelligence can be found in many places. How safe is the technology?"
-    excerpt: "NPR's A Martinez speaks with Jack Clark, co-founder of artificial intelligence company Anthropic, about AI safety concerns."
-    publishedDateTime: 2023-05-10T14:08:00Z
-    webUrl: "https://www.wuwm.com/health-science/health-science/2023-05-10/artificial-intelligence-can-be-found-in-many-places-how-safe-is-the-technology"
-    type: article
-    provider:
-      name: WUWM
-      domain: wuwm.com
-    quality: 14
 
 secured: "CVqIQgIPOlcq3mt1RM0Vzn4FKmGSSQww4MLZwlrMTX5D9hZFHUmr6DVcsfS/Q2LX/680ME97IxuAcxAq9xkuTFNxzYjZPtkAArP7U9rqaYfuwsAXjcA8xfnvEoSiTAJU0o3RE1XvmtyO2aNs6xftZtg7g9cN6+fDf7nddlRYz4WE4Af2Blt9vynyriRqddYPHLIu0VEBDZZBACO0GnGIg6A+x383zUHDQGf5h0vuoUOLl8G9mL/BmA6g6a9NtrmfCTGGAqgyMlMGB3VR/UfXv+4Q1KeHITTJl+n+P+/P/2bdOsmCu4E+mLzq+AEBFMA7L3Ez6UHCgJLa+D3VpuWtWKk4GAby/09ur7yE2/ZC5sE=;0kHm1f7YKW+JihVx5/nFXQ=="
 ---

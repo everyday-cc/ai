@@ -57,20 +57,6 @@ related:
         width: 611
         height: 458
         isCached: true
-  - title: "Microsoft to assist novice app builders with yet another AI tool powered by Azure"
-    excerpt: "Determining how Builder.ai will operate within Microsoft Teams (opens in new tab) among the usual slew of corporate-speak within the announcement is tricky. Still, given its stanc"
-    publishedDateTime: 2023-05-10T13:51:00Z
-    webUrl: "https://www.windowscentral.com/software-apps/microsoft-to-assist-novice-app-builders-with-yet-another-ai-tool-powered-by-azure"
-    type: article
-    provider:
-      name: Windows Central
-      domain: windowscentral.com
-    quality: 66
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/E7KiskmuSSwuuxuJHEwSsD-1200-80.jpg"
-        width: 1024
-        height: 576
-        isCached: true
 
 secured: "19IAe1aPVMzLlRoOlka5V7YiabuMHZEpN40oJjbD8ViG/7jo0k1hrabf/Uv6oLXCl24eGGSCnc0lbR8EKAE8dTtgT0sr57CXEKmQSLDchaGzHXtdeiYog1b7/6Z62mdOO3SZvXgvCPBAJhrhPlEqmlNi1LfXM87XCSUx5MtPwg0ZlVIst/AYZHP5Mg4NlLr6R+UG2aPiVjyxge4n+RI9FaDtkH4i/sFtOGIl2ctbfFWW9wVEeOoYI6h2TYOJhWioJO/kLOD7bQPa0eX6ArQfgWc1W9M9dS8vQLkzsIL5r88OdUJUlkAqZpn3aAk4gxy+Qt9IGDAH/tE2KCFmHO0x+D6I4mI4W+/icpM/klDNHBPVkx0ckBHSi7Rdf54y35SOqwadwmi1o1QyR/poSfRVuPpKpDEUNO9IzViI+t7XMofRqi13212yKqWLIAjHdNDioerpe3M+yHaYWBIZYJDf7Kpte45djuoJStGeslfXBhEfOcVs/QFSwY3c/tRcZ3XYItHAYUTol+uI5/2IXRXbZw==;klEOKzVzfGajcYZihlT7OA=="
 ---

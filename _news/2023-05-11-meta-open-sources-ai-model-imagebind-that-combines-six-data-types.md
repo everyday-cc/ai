@@ -20,22 +20,6 @@ topics:
   - Facebook AI
   - AI
 
-related:
-  - title: "ImageBind: Meta pushes AI boundaries, new tool may enable machines to sense like humans"
-    excerpt: "Meta has built an open-source AI model called ImageBind, the first AI model capable of binding information from six modalities."
-    publishedDateTime: 2023-05-10T14:28:00Z
-    webUrl: "https://interestingengineering.com/innovation/imagebind-meta-multisensory-ai-model"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 31
-    images:
-      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/05/10/image/jpeg/NiFaxW7GJykqF64BnQohK4BNxC2MStjLBHSe9XMT.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-
 secured: "hsIAEgC/ODabv7NLYjTeeeXUM0YvtlrfolSyyrKfM8/aQ+KGrZTfzLRa7zJaWT+CqCOdorvOvCuDFv1GapeVmuI1hG7ZS6eSf9bMvuB8Hv7cadb62xtMIubaKa3KHpF3qKnRNy5z5BjMTafj2FqPLupcUrsnBL/3KtxAsW+uTPLw7SipMJwvBx0DTOm2MzN/IRWdoMFlYkgvnB+GCaOAbpmjvk+bJNr0aZW5MC6Q1Anhau32mg93N55WWl4ikd4AfLXx43ZyN1pYH4Omd9MfFagPn3xeNGiWHGmpW+f6fzMI8UXwwK1bHhTlgt6ScZ4yS37e8ELB6udggiDlXEReTnXTPtYwbRPNgDkw06uOqio9PNB0V8QeMNXGpnSq5H2O1gA8T/zri3GSAdSNR6+TTIJ6eUzxD/XkTFwP9oCxzTd+3jKdiwflKFllsr+p+1bPs3K6N9T4LdVV3vrmBih34c7wiK8/VnLLAGlJTYM4nrerCuy6C4yu+2lteYw92tNXONfas+k/mtsGlP8ZWhtjmQ==;5M0G37Nh2nIfRr5q4KuxyA=="
 ---
 

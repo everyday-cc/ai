@@ -1,28 +1,26 @@
 ---
 category: news
 title: "AI presents political peril for 2024 with threat to mislead voters"
-excerpt: "The threat posed by AI and so-called deepfakes always seemed a year or two away. No more. Sophisticated generative AI tools can now create cloned human voices and hyper-realistic images, videos and audio in seconds,"
-publishedDateTime: 2023-05-14T21:46:00Z
-originalUrl: "https://www.twincities.com/2023/05/14/ai-presents-political-peril-for-2024-with-threat-to-mislead-voters/"
-webUrl: "https://www.twincities.com/2023/05/14/ai-presents-political-peril-for-2024-with-threat-to-mislead-voters/"
-ampWebUrl: "https://www.twincities.com/2023/05/14/ai-presents-political-peril-for-2024-with-threat-to-mislead-voters/amp/"
-cdnAmpWebUrl: "https://www-twincities-com.cdn.ampproject.org/c/s/www.twincities.com/2023/05/14/ai-presents-political-peril-for-2024-with-threat-to-mislead-voters/amp/"
+excerpt: "Sophisticated generative AI tools can now create cloned human voices and hyper-realistic images, videos and audio in seconds, at minimal cost."
+publishedDateTime: 2023-05-15T07:09:00Z
+originalUrl: "https://www.pressdemocrat.com/article/news/ai-presents-political-peril-for-2024-with-threat-to-mislead-voters/"
+webUrl: "https://www.pressdemocrat.com/article/news/ai-presents-political-peril-for-2024-with-threat-to-mislead-voters/"
 type: article
-quality: 57
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: TwinCities.com
-  domain: twincities.com
+  name: Santa Rosa Press Democrat
+  domain: pressdemocrat.com
 
 topics:
   - AI
 
 images:
-  - url: "https://www.twincities.com/wp-content/uploads/2023/05/Artificial_Intelligence_Election_Misinformation_83033.jpg?w=1024&h=683"
-    width: 1024
-    height: 682
+  - url: "https://imengine.prod.srp.navigacloud.com?uuid=748dfd91-7dfd-57dc-a086-87fce3fc9d71&type=primary&q=72&width=1200"
+    width: 1199
+    height: 815
     isCached: true
 
 related:
@@ -54,6 +52,6 @@ related:
       domain: seattletimes.com
     quality: 24
 
-secured: "z5IbBR36stHYL2/BWC4VXnq5l0Q/k/468fGZVhA8W8VHINNR7PTOAA/o5PWWiWD2NmF/hJKM+Hct8FDG6zR1R1SsTqjhd3iBot/YTLcrOIS/Js5wrgzzU1siLcEECqFG9f8+a6znJ6z714h27vj+Bii/Ti9P6P3Gjun0J/RYgUkLq80U+75OH0Pblkk9J5GIcf8xaUsbM3fcahCV2hgLejXOrm7EbAz+BRiDXCvfnwHtQqRzZBmS0DXgCh1YOlmXQG3ME59Fo0Z49NFWHv2z7HV79ItHvTTv4GFFR5JvdktQOfn3MA+M+h6nOmOM8AqULkB+ZulM22W28ddNIwKzyfid28DaXjL/M0bbUexOetU1cd3wWlcdkbcggIH+9tWczQEGZi/Ju5hU5S2XiqaV4ywmBIaL6QVwukNMiI7WH/4r/xSCa4orzp3I5LU3IUBbWGiSC487PrXHoSacl8rAM2YX3N85/ihtirnLvkWPZ6Zp7i0f3KTrWl34vF98HdKU7yvCWJ8n7A97gi3mv63c5w==;eGX3ELkeEmSaX1n+mNtnlQ=="
+secured: "sVHgXHiq1axcueC20V1fiP2I4/osICL8IjJNt+Xobm60H60+XVOswViJopHMQwX7PkwgtY0BM8PSR476aOpf3x9vQfEC4M/M5cWPFZ51cx5MhPqCVnHWAIDahBeKRE2cSN1sPnilKj5yjSoqcLMspWIZKCUiNBC8/17xgw/uAEbz7ovkxcei+PCY+bPU8y/FIzq4GyqGAeSQ1UWfglXLvxf5iFYqpKRKpi5gGvYjSViQr4SFLd1XMux53V3RRdylbMTkkckUBD3eDgFUPqx4/uQrzCusktjETx+roPONcUojA1Kb45sUL075odgrJR8cHdhmKs/YLtXqxnylorO6iSEIh7JJMc5CQrwVxWba0JI=;CxHuonj45tTRQ2D8iQAH5A=="
 ---
 

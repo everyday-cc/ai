@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/article/google-unveils-advanced-ai-bard
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/google-unveils-advanced-ai-bard-search-maps/amp/"
 type: article
 quality: 91
-heat: 221
+heat: 231
 published: true
 
 provider:
@@ -111,6 +111,22 @@ related:
       - url: "https://www.cnet.com/a/img/resize/45757153ae157d44b9bae8ae1e2ba6af86bac55a/hub/2023/05/11/3a878f9f-21cd-451b-ae9a-0d7ed8121e23/gettyimages-1230722138.jpg?auto=webp&fit=crop&height=630&width=1200"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Google PaLM 2 AI Model: Everything You Need to Know"
+    excerpt: "Learn everything about Google PaLM 2 AI model and what new capabilities it brings. We have also compared GPT-4 and PaLM 2 in detail."
+    publishedDateTime: 2023-05-15T05:48:00Z
+    webUrl: "https://beebom.com/google-palm-2-ai-model/"
+    ampWebUrl: "https://beebom.com/google-palm-2-ai-model/amp/"
+    cdnAmpWebUrl: "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/google-palm-2-ai-model/amp/"
+    type: article
+    provider:
+      name: Beebom
+      domain: beebom.com
+    quality: 59
+    images:
+      - url: "https://beebom.com/wp-content/uploads/2023/05/Googles-PaLM-2-AI-Model-Everything-You-Need-to-Know.jpg"
+        width: 750
+        height: 500
         isCached: true
   - title: "Researcher uses artificial intelligence to discover new materials for advanced computing"
     excerpt: "A team of researchers led by Rensselaer Polytechnic Institute's Trevor David Rhone, assistant professor in the Department of Physics, Applied Physics, and Astronomy, has identified novel van der Waals (vdW) magnets using cutting-edge tools in artificial intelligence (AI)."

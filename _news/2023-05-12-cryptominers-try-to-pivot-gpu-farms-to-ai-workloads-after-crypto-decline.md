@@ -7,7 +7,7 @@ originalUrl: "https://www.techspot.com/news/98661-cryptominers-try-pivot-gpu-far
 webUrl: "https://www.techspot.com/news/98661-cryptominers-try-pivot-gpu-farms-ai-after-ethereum.html"
 type: article
 quality: 85
-heat: 145
+heat: 125
 published: true
 
 provider:
@@ -43,22 +43,6 @@ related:
       - url: "https://www.techspot.com/images2/news/bigimage/2023/03/2023-03-21-image-40.jpg"
         width: 2440
         height: 1627
-        isCached: true
-  - title: "AI Needs Specialized Processors. Crypto Miners Say They Have Them"
-    excerpt: "When the Ethereum blockchain moved away from using a technique for verifying transactions known as proof of work last September, crypto market demand for the specialized processors that performed these calculations disappeared virtually overnight."
-    publishedDateTime: 2023-05-10T13:42:00Z
-    webUrl: "https://www.bnnbloomberg.ca/ai-needs-specialized-processors-crypto-miners-say-they-have-them-1.1918301"
-    ampWebUrl: "https://www.bnnbloomberg.ca/ai-needs-specialized-processors-crypto-miners-say-they-have-them-1.1918301.amp.html"
-    cdnAmpWebUrl: "https://www-bnnbloomberg-ca.cdn.ampproject.org/c/s/www.bnnbloomberg.ca/ai-needs-specialized-processors-crypto-miners-say-they-have-them-1.1918301.amp.html"
-    type: article
-    provider:
-      name: bnnbloomberg
-      domain: bnnbloomberg.ca
-    quality: 59
-    images:
-      - url: "http://www.bnnbloomberg.ca/polopoly_fs/1.1918302!/fileimage/httpImage/image.png_gen/derivatives/landscape_620/image.png"
-        width: 620
-        height: 349
         isCached: true
   - title: "Your Crypto Mining Chips Are No Good for AI—Here’s Why"
     excerpt: "Proof-of-work coins and AI models have different tastes when it comes to GPUs, and cryptocurrency miners can’t satisfy them both."
@@ -102,15 +86,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "AI Needs Special Processors. Crypto Miners Say They Have Them"
-    excerpt: "When the Ethereum blockchain moved away from using a technique for verifying transactions known as proof of work last September, crypto market demand for the specialized processors that performed these calculations disappeared virtually overnight."
-    publishedDateTime: 2023-05-10T13:09:00Z
-    webUrl: "https://news.bloomberglaw.com/business-and-practice/ai-needs-special-processors-crypto-miners-say-they-have-them"
-    type: article
-    provider:
-      name: news.bloomberglaw
-      domain: bloomberglaw.com
-    quality: 19
 
 secured: "ZlhFa7pqwuTVvQkM7Pe27ziIc7Hmul72XSXjSSDkp9xQbdeWJPSUD27DitTqkN9wOn70Oh0FMXrjuQ5mOVrlW9z+CGyGypICm5/Hbh3YAx1+BMGILZt+IyWw+i5m/q4jexuwHt1ce72HIZV9us+x0uWJp+prEC2O7R0qgebuQKBsFKoeZYq2MEdzzaeeUmTk8A9WoDYxiByHHcqotEU8Yc4xXSEJHWhHfsSd0YVrJ6aieDKkwiWb7UoBOAh7gcZkJIxFZF/x5t1Mi8t2c87V3RFuoCK9KJzezUzBYlrpWfK+eZo/abSkzAHiBjCIdN0m/fLnhhjezWdJhF3uoKQMYAQasOatYgJXEJyFhEBrXFBaFz5z/FgEqiKJckB0yzRsmXTjO2VShdqUQdrAg3916jyWEXf2LjBzR08psnHdpZ5AYt2jfQvpxp71F2y1PCcDFoLmdkqFBDVZ1cPM8+GJRFiUEmGTgr6gU01NyYBIW5qydy6azNgotLn8p0tfmlXD2CqvgMXOqV+nIUXDKaGVWg==;Rhm3DJZfiGsYJ6M2PEgJRA=="
 ---

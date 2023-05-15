@@ -38,20 +38,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 81
-  - title: "Tech Trends: AI - The Good, the Bad, and Perhaps the Ugly"
-    excerpt: "Consider Zeroeyes and Omnilert, whose AI technologies use standard video surveillance cameras to detect a person in possession of a gun, prompting the system to trigger an action or alert prior to the subject carrying the gun making entry to a facility or shooting the weapon."
-    publishedDateTime: 2023-05-10T14:45:00Z
-    webUrl: "https://www.securityinfowatch.com/video-surveillance/article/53058455/ai-the-good-the-bad-and-perhaps-the-ugly"
-    type: article
-    provider:
-      name: Security
-      domain: securityinfowatch.com
-    quality: 39
-    images:
-      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2023/04/1x1/Benne__Paul.6448003ac7fea.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "BsxmyflqdyLf86HcrdB4Z8yFaDc7ajBMU4DMlICUaeq4jkwv4j1XhwNMf3LMCeQhF/oIsNg8SKmLQywoXAS4OaNuRCJWpbwe7osTlZEpoU3NKmWCH7wx+TlX0Jr2cAW56Uk5ACi1PsOIRLIGmjvVuuKrOKmOvQSywhs30TjwA0xCmQeXur9KC5MFBORwYHMseIn4ZH+/hhMiScUlwErNQQpFssCDTXu1S0V82I9Dnbd79xUelP+bfldBJil/TBwKqsfuSUhy3UanexhI75kPhq2D0BfT2EXYvsxOgIJxT6IyUs2PT2SGG1Rdg1wU3nRbEgeqoKzsANTAX6IY0/GYR5C37s/ek7sWtPmSqX9AT7U3+g5y/R1ulP1P+rli/3nIz9Kb6eazkBM6huBxXYlFkJja3prsMkEkJlfNJc8KE6YFHS/h007W1dFDy4oNOSkDOK8h9yamEkMxdbGcM3N4ryLxULMxF6KlFOxoZ7ok/anGypI2hoMZaX5dEol6SwCw37NGHkJA6QH0NIJKFPixIg==;YomQX44CWIzYKj4zQvRnRg=="
 ---

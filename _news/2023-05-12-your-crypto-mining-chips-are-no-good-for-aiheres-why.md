@@ -53,22 +53,6 @@ related:
         width: 2440
         height: 1627
         isCached: true
-  - title: "AI Needs Specialized Processors. Crypto Miners Say They Have Them"
-    excerpt: "When the Ethereum blockchain moved away from using a technique for verifying transactions known as proof of work last September, crypto market demand for the specialized processors that performed these calculations disappeared virtually overnight."
-    publishedDateTime: 2023-05-10T13:42:00Z
-    webUrl: "https://www.bnnbloomberg.ca/ai-needs-specialized-processors-crypto-miners-say-they-have-them-1.1918301"
-    ampWebUrl: "https://www.bnnbloomberg.ca/ai-needs-specialized-processors-crypto-miners-say-they-have-them-1.1918301.amp.html"
-    cdnAmpWebUrl: "https://www-bnnbloomberg-ca.cdn.ampproject.org/c/s/www.bnnbloomberg.ca/ai-needs-specialized-processors-crypto-miners-say-they-have-them-1.1918301.amp.html"
-    type: article
-    provider:
-      name: bnnbloomberg
-      domain: bnnbloomberg.ca
-    quality: 59
-    images:
-      - url: "http://www.bnnbloomberg.ca/polopoly_fs/1.1918302!/fileimage/httpImage/image.png_gen/derivatives/landscape_620/image.png"
-        width: 620
-        height: 349
-        isCached: true
   - title: "Cryptominers are looking at converting their mining farms into AI operations"
     excerpt: "With the crypto-mining boom over, companies are looking to pivot to AI. But there's a catch, only the most powerful GPUs are capable."
     publishedDateTime: 2023-05-12T06:27:00Z
@@ -97,15 +81,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "AI Needs Special Processors. Crypto Miners Say They Have Them"
-    excerpt: "When the Ethereum blockchain moved away from using a technique for verifying transactions known as proof of work last September, crypto market demand for the specialized processors that performed these calculations disappeared virtually overnight."
-    publishedDateTime: 2023-05-10T13:09:00Z
-    webUrl: "https://news.bloomberglaw.com/business-and-practice/ai-needs-special-processors-crypto-miners-say-they-have-them"
-    type: article
-    provider:
-      name: news.bloomberglaw
-      domain: bloomberglaw.com
-    quality: 19
 
 secured: "qSpcbs+DZ+Io7q+12w4ARHO5mU5JH7PLIIuNS9qw4Sd2WCZ+ai6VqOHzKpe2ve53cOHboCFwOflwpLj+t8HUhY/FRNVbvhfJhRIIAByUNq8DejLw4qiM1QSW0RyWbylHCT7wcO1/tMhq5PpLuHRZwoL4WLX+/bHSJ3NbZWPRnyJAmV3S02u/vRpiO73tGjTuDU2NltSxptb8lE5lom9AxAD6XIUuIhBcvtpDvPjqDtmkIM9722WzB5lj/ipmBhIcbReQiUc5fOxWiXWexhRuE6Jmkapo2YSZ353SWStOWlgDUw+g+Os9FV96nubMv+0Wyfm85hLneBDSEDPdeS+JTcLcoWEnHXYL4n73V7vNi6DvrEBHdKVlkg3TTUGVbPnyetA84QhV543JhfKHS3W/pO+CEffxR+m954b8NXPezW9culWYyN10L+vr0839NA3z9eA2T5SWX9El3Ws3tvwT8SM66P+LDtqOzrELwIvTgNiiOug8GyIgMS5xikOtQm61C/L+5SmSIOMj9z3vEtfjXA==;6chiPDTT88Sz/Ve4OhohYA=="
 ---

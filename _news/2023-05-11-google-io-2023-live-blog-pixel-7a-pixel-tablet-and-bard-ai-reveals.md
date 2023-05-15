@@ -40,22 +40,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Google I/O 2023 Live Blog: Pixel, Nest and Bard AI Reveals Expected Today"
-    excerpt: "Google I/O 2023, the company's annual developer conference, kicks off Wednesday, and it's expected to include lots of reveals for the company's Pixel device line and the Bard AI experiment. The conference begins with a keynote at 10 a."
-    publishedDateTime: 2023-05-10T14:48:00Z
-    webUrl: "https://www.cnet.com/news-live/google-io-2023-live-blog-pixel-nest-and-bard-ai-reveals-expected-today/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news-live/google-io-2023-live-blog-pixel-nest-and-bard-ai-reveals-expected-today/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news-live/google-io-2023-live-blog-pixel-nest-and-bard-ai-reveals-expected-today/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 86
-    images:
-      - url: "https://www.cnet.com/a/img/resize/0ca7c8055796ec105c7002853ee5ae9fabf8ea1e/hub/2023/04/20/b51b4ccc-c533-42a5-bf98-62ba415a1b56/google-io-2023-5.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Google I/O 2023 live updates: Pixel Fold, Bard AI, Android 14 and more"
     excerpt: "Google is hosting its first full-on in-person I/O developer conference since the pandemic and we expect the company to announce a biblical amount of news at breakneck pace. Engadget is here at the show and will bring you a liveblog of what's happening at the keynote as it happens."
     publishedDateTime: 2023-05-11T02:25:00Z

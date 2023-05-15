@@ -7,7 +7,7 @@ originalUrl: "https://money.usnews.com/investing/articles/megatrends-ai-and-robo
 webUrl: "https://money.usnews.com/investing/articles/megatrends-ai-and-robotics"
 type: article
 quality: 81
-heat: 101
+heat: 91
 published: true
 
 provider:
@@ -37,20 +37,6 @@ related:
       - url: "https://www.eweek.com/wp-content/uploads/2023/04/top-generative-ai-companies.png"
         width: 1400
         height: 933
-        isCached: true
-  - title: "Tech Trends: AI - The Good, the Bad, and Perhaps the Ugly"
-    excerpt: "Consider Zeroeyes and Omnilert, whose AI technologies use standard video surveillance cameras to detect a person in possession of a gun, prompting the system to trigger an action or alert prior to the subject carrying the gun making entry to a facility or shooting the weapon."
-    publishedDateTime: 2023-05-10T14:45:00Z
-    webUrl: "https://www.securityinfowatch.com/video-surveillance/article/53058455/ai-the-good-the-bad-and-perhaps-the-ugly"
-    type: article
-    provider:
-      name: Security
-      domain: securityinfowatch.com
-    quality: 39
-    images:
-      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2023/04/1x1/Benne__Paul.6448003ac7fea.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "DDNas+BOSJOm+//Ps255yeyJ45O+reVrdBXp9nt0i20zp1yNl9C4uJFQdWRQi+dzp30V2EAQXH3ysqCblvLOOJ7H0KZMg+qBsApac/dnNUIiUI6MtwydA9oF2U/7LDPzURk+YvurQ3BmDfS9GlUs/ZPQMYt0BIHrjPwC4/he39tXmjwSOOCYtXbezVEd7SwkMoDy7/8x+l0q5uS5eIK+i3+11kvtWEJp/7X7y0+NlAV2BH5BE9upfAXVd7eGmbDvHL0y07rSd6ceQ7912NBsorpCqZnKhiiF7r+u9T6jAfTpPNXR9jg6P3RIL77+jCFNwhyYKn2BU+GR7Xok1u65INwGNIPKdd3VusV3B79hW3w=;P80uaci7CyOsI4rugnpUNw=="
