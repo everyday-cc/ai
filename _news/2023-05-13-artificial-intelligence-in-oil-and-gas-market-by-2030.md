@@ -52,8 +52,8 @@ related:
         isCached: true
   - title: "Artificial Intelligence In Genomics Market worth $2.0 billion | MarketsandMarkets"
     excerpt: "Artificial Intelligence In Genomics Market in terms of revenue was estimated to be worth $0.5 billion in 2023 and is poised to reach $2.0 billion by 2028, growing at a CAGR of 32.3% from 2023 to 2028 according to a new report by MarketsandMarkets™."
-    publishedDateTime: 2023-05-11T17:53:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/05/11/9812870.htm"
+    publishedDateTime: 2023-05-11T17:57:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-genomics-market-worth-20-billion-marketsandmarkets-/2023/05/11/9812870.htm"
     type: article
     provider:
       name: TMCnet

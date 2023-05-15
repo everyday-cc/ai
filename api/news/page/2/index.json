@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-05-12-unlock-insights-from-your-amazon-s3-data-with-intelligent-search.md",
+      "title": "Unlock Insights from your Amazon S3 data with intelligent search",
+      "excerpt": "Amazon Kendra is an intelligent search service powered by machine learning (ML). Amazon Kendra reimagines enterprise search for your websites and applications so your employees and customers can easily find the content they’re looking for, even when it’s scattered across multiple locations and content",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/unlock-insights-from-your-amazon-s3-data-with-intelligent-search/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/unlock-insights-from-your-amazon-s3-data-with-intelligent-search/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/05/12/featured-images-ML-14008.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-12T07:43:15-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-12-mttr-vs-mtbf-whats-the-difference.md",
       "title": "MTTR vs. MTBF: What’s the difference?",
       "excerpt": "Mean time to repair (MTTR) and mean time between failures (MTBF) are similar metrics with key distinctions for facilities maintenance.\nThe post MTTR vs. MTBF: What’s the difference? appeared first on IBM Blog.\n",
@@ -509,6 +561,58 @@
       ]
     },
     {
+      "path": "_news/2023-05-12-meet-the-guy-who-helped-google-beat-apples-siri.md",
+      "title": "Meet The Guy Who Helped Google Beat Apple's Siri",
+      "excerpt": "But the success of Google's mobile search stems at least as much from a big improvement over the past year in Google’s speech recognition efforts. That's the result of research by legendary ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/roberthof/2013/05/01/meet-the-guy-who-helped-google-beat-apples-siri/",
+      "originalUrl": "https://www.forbes.com/sites/roberthof/2013/05/01/meet-the-guy-who-helped-google-beat-apples-siri/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/06Xv9Sk0spbdy/960x960.jpg?height=400&width=400&fit=bounds",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/roberthof/2013/05/01/meet-the-guy-who-helped-google-beat-apples-siri/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/roberthof/2013/05/01/meet-the-guy-who-helped-google-beat-apples-siri/amp/",
+      "publishedDateTime": "2023-05-11T21:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-12-tesla-shouldnt-call-its-self-driving-system-autopilot-us-transport-secretary.md",
       "title": "Tesla shouldn't call its self-driving system Autopilot: US Transport Secretary",
       "excerpt": "The National Highway Traffic Safety Administration has probed more than 30 crashes since 2016 in which Tesla EVs were suspected of operating on Autopilot or its more sophisticated automated Full Self-Driving system.",
@@ -642,58 +746,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-12-2030-data-science-and-machine-learning-service-market-with-pestal-swot-analysis.md",
-      "title": "2030, Data Science and Machine Learning Service Market with PESTAL & SWOT Analysis",
-      "excerpt": "Global Data Science and Machine Learning Service Market Report 2023 is spread across130 pagesand provides exclusive vital statistics, data, information, trends and competitive landscape details in this niche sector. “Global Data Science and Machine ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/2030-data-science-and-machine-learning-service-market-with-pestal-swot-analysis-2023-05-11",
-      "originalUrl": "https://www.marketwatch.com/press-release/2030-data-science-and-machine-learning-service-market-with-pestal-swot-analysis-2023-05-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-11T15:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     },
@@ -1204,57 +1256,6 @@
         "AI in Robotics",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-05-12-ai-venturing-7-timeless-rules-for-success-from-6-decades-of-unicorn-entrepreneurship.md",
-      "title": "AI Venturing: 7 Timeless Rules For Success From 6 Decades Of Unicorn-Entrepreneurship",
-      "excerpt": "Over the past 60 years, the success of unicorn-entrepreneurs, from the likes of Walton to Chesky, offer insights that can be applied to the emerging AI industry. Whether you aim to dominate the industry or build your growth venture,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/dileeprao/2023/05/11/ai-venturing-7-timeless-rules-for-success-from-6-decades-of-unicorn-entrepreneurship/",
-      "originalUrl": "https://www.forbes.com/sites/dileeprao/2023/05/11/ai-venturing-7-timeless-rules-for-success-from-6-decades-of-unicorn-entrepreneurship/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/645d222b81f6ab451e4bd1e3/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 784,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/dileeprao/2023/05/11/ai-venturing-7-timeless-rules-for-success-from-6-decades-of-unicorn-entrepreneurship/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/dileeprao/2023/05/11/ai-venturing-7-timeless-rules-for-success-from-6-decades-of-unicorn-entrepreneurship/amp/",
-      "publishedDateTime": "2023-05-11T10:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

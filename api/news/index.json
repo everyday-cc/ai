@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2023-05-15-ai-presents-political-peril-for-2024-with-threat-to-mislead-voters.md",
+      "path": "_news/2023-05-14-ai-presents-political-peril-for-2024-with-threat-to-mislead-voters.md",
       "title": "AI presents political peril for 2024 with threat to mislead voters",
-      "excerpt": "The threat posed by AI and so-called deepfakes always seemed a year or two away. No more. Sophisticated generative AI tools can now create cloned human voices and hyper-realistic images, videos and audio in seconds,",
+      "excerpt": "Thanks to recent advances in artificial intelligence, tools that can create lifelike photos, video and audio are now cheap and readily available",
       "sourceUrl": null,
-      "webUrl": "https://www.twincities.com/2023/05/14/ai-presents-political-peril-for-2024-with-threat-to-mislead-voters/",
-      "originalUrl": "https://www.twincities.com/2023/05/14/ai-presents-political-peril-for-2024-with-threat-to-mislead-voters/",
+      "webUrl": "https://abcnews.go.com/Business/wireStory/ai-presents-political-peril-2024-threat-mislead-voters-99313712",
+      "originalUrl": "https://abcnews.go.com/Business/wireStory/ai-presents-political-peril-2024-threat-mislead-voters-99313712",
       "featuredContent": null,
       "highlight": null,
       "heat": 77,
       "tags": null,
       "images": [
         {
-          "url": "https://www.twincities.com/wp-content/uploads/2023/05/Artificial_Intelligence_Election_Misinformation_83033.jpg?w=1024&h=683",
-          "width": 1024,
-          "height": 682,
+          "url": "https://s.abcnews.com/images/US/wirestory_59fb51002661ac5290089060b3ae39a0_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,13 +24,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.twincities.com/2023/05/14/ai-presents-political-peril-for-2024-with-threat-to-mislead-voters/amp/",
-      "cdnAmpWebUrl": "https://www-twincities-com.cdn.ampproject.org/c/s/www.twincities.com/2023/05/14/ai-presents-political-peril-for-2024-with-threat-to-mislead-voters/amp/",
-      "publishedDateTime": "2023-05-14T14:46:00-07:00",
+      "ampWebUrl": "https://abcnews.go.com/amp/Business/wireStory/ai-presents-political-peril-2024-threat-mislead-voters-99313712",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/ai-presents-political-peril-2024-threat-mislead-voters-99313712",
+      "publishedDateTime": "2023-05-14T08:32:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TwinCities.com",
-        "domain": "twincities.com",
+        "name": "ABC",
+        "domain": "abcnews.go.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -44,6 +44,49 @@
       ]
     },
     {
+      "path": "_news/2023-05-14-17-ai-and-machine-learning-terms-everyone-needs-to-know.md",
+      "title": "17 AI and machine learning terms everyone needs to know",
+      "excerpt": "With the ongoing Artificial Intelligence boom, it is very important to understand the terminology in use. Here are 17 AI and machine learning terms everyone needs to know.",
+      "sourceUrl": null,
+      "webUrl": "https://www.indiatoday.in/education-today/grammar-vocabulary/story/17-ai-and-machine-learning-terms-everyone-needs-to-know-2379081-2023-05-14",
+      "originalUrl": "https://www.indiatoday.in/education-today/grammar-vocabulary/story/17-ai-and-machine-learning-terms-everyone-needs-to-know-2379081-2023-05-14",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202305/stockvault-digital-transformation-concept-virtual-hand-creating-network257818-sixteen_nine.jpg?VersionId=7bt_uMPGpWUZCkf7KELZEIZRX4kjQnWt",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.indiatoday.in/amp/education-today/grammar-vocabulary/story/17-ai-and-machine-learning-terms-everyone-needs-to-know-2379081-2023-05-14",
+      "cdnAmpWebUrl": "https://www-indiatoday-in.cdn.ampproject.org/c/s/www.indiatoday.in/amp/education-today/grammar-vocabulary/story/17-ai-and-machine-learning-terms-everyone-needs-to-know-2379081-2023-05-14",
+      "publishedDateTime": "2023-05-14T03:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Today",
+        "domain": "indiatoday.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-14-ai-risk-management-for-corporate-boards-5-areas-you-should-be-prioritizing.md",
       "title": "AI Risk Management For Corporate Boards: 5 Areas You Should Be Prioritizing",
       "excerpt": "Here are my suggestions for how you can begin to manage and mitigate the risks that your organization faces from the exponential growth of AI.",
@@ -52,7 +95,7 @@
       "originalUrl": "https://www.forbes.com/sites/glenngow/2023/05/14/ai-risk-management-for-corporate-boards-5-areas-you-should-be-prioritizing/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 85,
+      "heat": 86,
       "tags": null,
       "images": [
         {
@@ -606,7 +649,7 @@
       "originalUrl": "https://www.foxnews.com/tech/how-this-safe-browsing-feature-is-using-ai-stay-ahead-scammers",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -1198,58 +1241,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-12-unlock-insights-from-your-amazon-s3-data-with-intelligent-search.md",
-      "title": "Unlock Insights from your Amazon S3 data with intelligent search",
-      "excerpt": "Amazon Kendra is an intelligent search service powered by machine learning (ML). Amazon Kendra reimagines enterprise search for your websites and applications so your employees and customers can easily find the content they’re looking for, even when it’s scattered across multiple locations and content",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/unlock-insights-from-your-amazon-s3-data-with-intelligent-search/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/unlock-insights-from-your-amazon-s3-data-with-intelligent-search/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/05/12/featured-images-ML-14008.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-12T07:43:15-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

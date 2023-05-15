@@ -360,6 +360,50 @@
       ]
     },
     {
+      "path": "_news/2023-05-10-unlimited-opportunities-for-manufacturing-of-medical-devices-in-india-ceo-of-ge-healthcare-south-asia.md",
+      "title": "Unlimited opportunities for manufacturing of medical devices in India: CEO of GE HealthCare South Asia",
+      "excerpt": "Through this programme, we aim to nurture the start-up ecosystem, build strategic partnerships, and co-develop healthcare applications using AI and other technologies.GE HealthCare launched the Healthcare Innovation Lab with IISc Bengaluru-based Indian Institute of Science to aid clinicians in tackling real-time difficulties in care delivery by bringing to market new digital solutions that can be incorporated on the Edison platform.",
+      "sourceUrl": null,
+      "webUrl": "https://www.devdiscourse.com/article/technology/2446198-unlimited-opportunities-for-manufacturing-of-medical-devices-in-india-ceo-of-ge-healthcare-south-asia",
+      "originalUrl": "https://www.devdiscourse.com/article/technology/2446198-unlimited-opportunities-for-manufacturing-of-medical-devices-in-india-ceo-of-ge-healthcare-south-asia",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/27_06_2019_18_33_35_2442501.png?width=920&format=jpeg",
+          "width": 920,
+          "height": 520,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-09T23:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "devdiscourse",
+        "domain": "devdiscourse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-05-10-the-future-is-here-amazon-is-now-selling-astro-an-ai-driven-household-robot.md",
       "title": "The Future Is Here: Amazon Is Now Selling Astro, An AI Driven Household Robot",
       "excerpt": "Two years later, the vision for Astro is still strong, as the company has started selling the device as a part of its “Day 1 Editions” products—those which are accessible to buyers only through an exclusive invitation. Amazon typically reserves this category for its most cutting-edge technology, such as the Astro or the “Ring Always Home Cam.”",
@@ -1396,50 +1440,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-28-amazon-amzn-aws-q1-2023-segment-sales-grew-16-to-214-billion.md",
-      "title": "Amazon (AMZN) AWS Q1 2023 segment sales grew 16% to $21.4 billion",
-      "excerpt": "Amazon (AMZN) shared its Q1 2023 report which notes that AWS segment sales grew 16 percent with reasons cited including investments in generative AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.shacknews.com/article/135282/amazon-q1-2023-aws-grew-16-percent",
-      "originalUrl": "https://www.shacknews.com/article/135282/amazon-q1-2023-aws-grew-16-percent",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1lss44hh2trtw.cloudfront.net/assets/article/2023/04/27/amazon-q1-2023-aws-segment-sales-growth-news_feature.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.shacknews.com/article/135282/amazon-q1-2023-aws-grew-16-percent?amphtml=1",
-      "cdnAmpWebUrl": "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/135282/amazon-q1-2023-aws-grew-16-percent?amphtml=1",
-      "publishedDateTime": "2023-04-27T14:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Shacknews",
-        "domain": "shacknews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Sales"
       ]
     }
   ],

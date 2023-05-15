@@ -103,14 +103,14 @@ related:
   - title: "DEF CON to set thousands of hackers loose on AI"
     excerpt: "Thousands of hackers will get a shot at testing the limits of AI technology at a mass hacking event at the famed DEF CON hacker convention. Some of the things they’ll be looking to find: How can chatbots be manipulated to cause harm?"
     publishedDateTime: 2023-05-14T21:30:00Z
-    webUrl: "https://buffalonews.com/news/national/def-con-to-set-thousands-of-hackers-loose-on-ai/article_7afcfa33-877d-5cb1-a396-5f6748a6705b.html"
+    webUrl: "https://www.stltoday.com/news/def-con-to-set-thousands-of-hackers-loose-on-ai/article_a06fe9e9-6244-55d8-bf17-7c1037086449.html"
     type: article
     provider:
-      name: Buffalo News
-      domain: buffalonews.com
-    quality: 39
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 37
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/7/af/7afcfa33-877d-5cb1-a396-5f6748a6705b/645be2b67d6f3.preview.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/a/06/a06fe9e9-6244-55d8-bf17-7c1037086449/645be194d898f.preview.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
         width: 1200
         height: 630
         isCached: true

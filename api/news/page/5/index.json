@@ -2,6 +2,162 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-05-10-amazon-sagemaker-with-tensorboard-an-overview-of-a-hosted-tensorboard-experience.md",
+      "title": "Amazon SageMaker with TensorBoard: An overview of a hosted TensorBoard experience",
+      "excerpt": "Today, data scientists who are training deep learning models need to identify and remediate model training issues to meet accuracy targets for production deployment, and require a way to utilize standard tools for debugging model training. Among the data scientist community, TensorBoard is a popular",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-with-tensorboard-overview-of-a-hosted-tensorboard-experience/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-with-tensorboard-overview-of-a-hosted-tensorboard-experience/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/05/08/ml-14204-image010-1002x630.jpg",
+          "width": 1002,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-10T09:23:32-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-10-global-machine-learning-as-a-service-mlaas-market-analysis-of-new-report-2023-2030.md",
+      "title": "Global Machine Learning-as-a-Service (MLaaS) Market Analysis of New Report 2023-2030",
+      "excerpt": "A Promising Outlook for the Global Machine Learning-as-a-Service (MLaaS) Market from 2023 to 2030 Why is Machine Learning-as-a-Service (MLaaS) market 2023 Important? - Overall, the Machine Learning-as-a-Service (MLaaS) market in 2023 is essential for businesses to understand the market landscape,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-machine-learning-as-a-service-mlaas-market-analysis-of-new-report-2023-2030-2023-05-10",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-machine-learning-as-a-service-mlaas-market-analysis-of-new-report-2023-2030-2023-05-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-10T09:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-10-trayio-launches-merlin-ai-to-automate-complex-workflows-without-llm-training.md",
+      "title": "Tray.io launches Merlin AI to automate complex workflows without LLM training",
+      "excerpt": "The company claims that the Tray platform is the first iPaaS solution to provide generative AI capabilities accessible to all users.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/tray-io-launches-merlin-ai-to-automate-complex-workflows-without-llm-training/",
+      "originalUrl": "https://venturebeat.com/ai/tray-io-launches-merlin-ai-to-automate-complex-workflows-without-llm-training/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/05/Feature-3-1200-x-675.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/tray-io-launches-merlin-ai-to-automate-complex-workflows-without-llm-training/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/tray-io-launches-merlin-ai-to-automate-complex-workflows-without-llm-training/amp/",
+      "publishedDateTime": "2023-05-10T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-10-early-mit-research-shows-industrial-revolution-level-large-leap-for-workers-using-generative-ai.md",
       "title": "Early MIT research shows 'Industrial Revolution-level large' leap for workers using generative AI",
       "excerpt": "New MIT research shows ChatGPT creating gains at work that rival the Industrial Revolution and steam engine, says CEO of Google-linked AI startup Cohere.",
@@ -313,7 +469,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-research-2023-2030-2023-05-10",
       "featuredContent": null,
       "highlight": null,
-      "heat": 429,
+      "heat": 479,
       "tags": null,
       "images": [
         {
@@ -776,7 +932,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/latest-deep-learning-chip-market-trends-2023-2030-2023-05-10",
       "featuredContent": null,
       "highlight": null,
-      "heat": 156,
+      "heat": 146,
       "tags": null,
       "images": [
         {
@@ -872,7 +1028,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-robotics-market-2023-2030-understanding-the-impact-of-trend-and-technology-2023-05-10",
       "featuredContent": null,
       "highlight": null,
-      "heat": 202,
+      "heat": 232,
       "tags": null,
       "images": [
         {
@@ -1111,161 +1267,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-10-back-therapy-kit-market-share-size-financial-summaries-analysis-from-2023-to-2028.md",
-      "title": "Back Therapy Kit Market Share, Size, Financial Summaries Analysis from 2023 to 2028",
-      "excerpt": "Back Therapy Kit report provides a detailed analysis of regional and country-level market size, segmentation market growth, market share, competitive Landscape, sales analysis, impact of domestic. The Back Therapy Kit market is expected to witness significant growth in the coming years due to the increasing prevalence of back pain and the need for non-invasive treatment options.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/back-therapy-kit-market-share-size-financial-summaries-analysis-from-2023-to-2028-2023-05-10",
-      "originalUrl": "https://www.marketwatch.com/press-release/back-therapy-kit-market-share-size-financial-summaries-analysis-from-2023-to-2028-2023-05-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-09T23:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-10-ai-will-be-the-political-lefts-single-greatest-weapon-against-religious-faith-and-truth-says-expert.md",
-      "title": "AI will be the political left's 'single greatest weapon' against religious faith and truth, says expert",
-      "excerpt": "As AI technologies grow, experts and faith leaders share concerns over AI and worship. Faith leaders weigh in, saying AI can learn the gospel, but can't ever experience and share it as humans can.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/lifestyle/ai-political-left-single-greatest-weapon-religious-faith-truth-expert",
-      "originalUrl": "https://www.foxnews.com/lifestyle/ai-political-left-single-greatest-weapon-religious-faith-truth-expert",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d5c69365-fe8d-493b-bfed-036295311cf9/fa99226e-59e6-4ec3-a739-7a0c2ea9d800/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/lifestyle/ai-political-left-single-greatest-weapon-religious-faith-truth-expert.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/lifestyle/ai-political-left-single-greatest-weapon-religious-faith-truth-expert.amp",
-      "publishedDateTime": "2023-05-09T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-05-10-shattering-reality-is-ai-generated-content-already-good-enough-to-fool-the-average-person.md",
-      "title": "Shattering reality: Is AI-generated content already good enough to fool the average person?",
-      "excerpt": "An AI expert said AI technology is already capable of producing content so realistic that some people might be convinced that it's genuine.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/tech/shattering-reality-ai-generated-content-already-good-enough-fool-average-person",
-      "originalUrl": "https://www.foxnews.com/tech/shattering-reality-ai-generated-content-already-good-enough-fool-average-person",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a8cc7ab0-e521-4d68-8592-696b85672d60/15404504-9108-4188-9765-0b413e9fab84/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/tech/shattering-reality-ai-generated-content-already-good-enough-fool-average-person.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/shattering-reality-ai-generated-content-already-good-enough-fool-average-person.amp",
-      "publishedDateTime": "2023-05-09T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -1,14 +1,14 @@
 ---
 category: news
 title: "Revolutionary changes by artificial intelligence"
-excerpt: "Introduction to the AI World Giving equal competition to intelligence by humans, when machines produce results, making tasks easier and faster, then those are inculcated under AI (Artificial Intelligence). AI has brought rapid and huge changes in our world ..."
+excerpt: "The world is changing rapidly, and our technological advancement is changing similarly. Keeping in step with the advancing world, we have brought AI-based solutions for businesses. The accurate usage of data annotation and data"
 publishedDateTime: 2023-05-14T15:49:00Z
-originalUrl: "https://timesofindia.indiatimes.com/blogs/voices/revolutionary-changes-by-artificial-intelligence/"
-webUrl: "https://timesofindia.indiatimes.com/blogs/voices/revolutionary-changes-by-artificial-intelligence/"
-ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/revolutionary-changes-by-artificial-intelligence/"
-cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/revolutionary-changes-by-artificial-intelligence/"
+originalUrl: "https://timesofindia.indiatimes.com/blogs/voices/revolutionary-changes-by-artificial-intelligence/?source=app&frmapp=yes"
+webUrl: "https://timesofindia.indiatimes.com/blogs/voices/revolutionary-changes-by-artificial-intelligence/?source=app&frmapp=yes"
+ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/revolutionary-changes-by-artificial-intelligence/?source=app&frmapp=yes"
+cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/revolutionary-changes-by-artificial-intelligence/?source=app&frmapp=yes"
 type: article
-quality: 61
+quality: 59
 heat: -1
 published: false
 
@@ -17,9 +17,8 @@ provider:
   domain: indiatimes.com
 
 topics:
-  - AI
-  - AI in Healthcare
   - AI in Autos
+  - AI
 
 images:
   - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2023/03/Manish-Mohta.JPEG-1.jpeg"
@@ -114,6 +113,6 @@ related:
       domain: bizjournals.com
     quality: 19
 
-secured: "zgocLbfP8xJ9R4L8YvkKY0S8IXjKDWd2QNWeusKdPpHBuiwUH467Ad1V6Ki1sD0BRKu7JyjMz7b8TbdAWlNrg1gwTvD0hmkhddb2VuwPmK6Tuu8zTW9RkuntdpGVR3tT83x8+iy70V1bhs87yfzZbd0K+2Kpy39+ZTY7KNAUwG9UMOzdB7COsXBKrr1603LJ4KlFXfEO/bZRGnHfFyJS4kx6cOFUmVs/sVQ+Oq5+kNn6MouILKRoAysUD8LwSfQij3BrwQqyAi7KPtblBBTK0GuY/zPRCQBtGq3BLL3FbwRbe1JYX2BWWl15nMyeHqW67GWy0zBC1g0aYvTkM1twKQJtLHmuOtktjnFVRDUlRNYZj9MGVIOlWLDaBcbRXur9Wk6EjiTMHOwU/oFZ/vM0pHhQfH1DfhY8rTQsF5Uk9SX2VCL+x2N2uE2asT480L/Yjfq5u5F8Se85Jp8I+DZpgLX6jGI0HN0XGVcvGEVCr8Xfm9xh7JoFnqpILN77eK3o9Oflse5Hw2lmWodkndfNmQ==;nOzZF3PTedZpBNU0CRYDMg=="
+secured: "sPjpAYH6hxiXRLRKwyLCeLxsMDk5g0tPO7YpCjmpBnDjdP1SVXFyXVgs8cW8IbEwvxeqAHzy1Ho73S7w6wzoa+Ibi6qHJvi1y6UhicrTSdOlMpAC+X3IfjWOCrEPmiy5NXULj56C+sqIGR53TKxfLrx4qnvUKm2H0HyoBtVpxKIE5fUGYkBMyrQojIoj2EwTSb4d/t7OsrPi/NHKG6oRDMrUG18VzCP7c3Z4AmOIhGB1QNM7nl5Ay6g8wpSubQo7C8I8rRXa4mUpiE5KSYGOMiySpK3qWCvIjmAllYas8UlfXbp7jRWw4rJL0J7MsYoMtblhYrnfBile3rJUBIKE34xWhRj4NeIKfQ4Zamh7stQ=;9+A9bOSRxxwCpVy7PuZ4mA=="
 ---
 

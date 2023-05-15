@@ -9,8 +9,8 @@ ampWebUrl: "https://www.twincities.com/2023/05/14/ai-presents-political-peril-fo
 cdnAmpWebUrl: "https://www-twincities-com.cdn.ampproject.org/c/s/www.twincities.com/2023/05/14/ai-presents-political-peril-for-2024-with-threat-to-mislead-voters/amp/"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: -1
+published: false
 
 provider:
   name: TwinCities.com
@@ -27,18 +27,20 @@ images:
 
 related:
   - title: "AI presents political peril for 2024 with threat to mislead voters"
-    excerpt: "Computer engineers and tech-inclined political scientists have warned for years that cheap, powerful artificial intelligence tools would soon allow anyone to create fake images, video and audio that was realistic enough to fool voters and perhaps sway an election."
-    publishedDateTime: 2023-05-14T14:55:00Z
-    webUrl: "https://www.aol.com/news/ai-presents-political-peril-2024-145503335.html"
+    excerpt: "Thanks to recent advances in artificial intelligence, tools that can create lifelike photos, video and audio are now cheap and readily available"
+    publishedDateTime: 2023-05-14T15:32:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/ai-presents-political-peril-2024-threat-mislead-voters-99313712"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/ai-presents-political-peril-2024-threat-mislead-voters-99313712"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/ai-presents-political-peril-2024-threat-mislead-voters-99313712"
     type: article
     provider:
-      name: AOL
-      domain: aol.com
-    quality: 37
+      name: ABC
+      domain: abcnews.go.com
+    quality: 57
     images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/CAS161yt955HMLibM4dkIQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/ap.org/56c68582e1068c5627a046a7afaff39a"
-        width: 1200
-        height: 800
+      - url: "https://s.abcnews.com/images/US/wirestory_59fb51002661ac5290089060b3ae39a0_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "AI presents political peril for 2024 with threat to mislead voters: 'We're not prepared for this'"
     excerpt: "The threat posed by AI and so-called deepfakes always seemed a year or two away. No more. Sophisticated generative AI tools can now create cloned human voices and hyper-realistic images, videos and audio in seconds,"
@@ -50,6 +52,6 @@ related:
       domain: mysanantonio.com
     quality: 4
 
-secured: "F7wr+igkH3qeAc6qIReftgOWhK9ougSodgUOBGF7t2kCrTXSQnBDK0lYGewDTksnsbuAySrdlWCkaZn9JLoIbvmQXDOD2DY9VnD16eVsoY0/5ttGbVthmQdNzXYGWuOuPaTfITUUrv8xVfawje5MFB+3dsTHWiQfD/9p50f8D+0ngASF2Ha4XYMsHyLpqA96xf/rGkGUrvqVe/bQdXmJ5yEq6sefcPwL9XumNFajgoUM5VVH2UCncQUDA5OgwBXniiUc6D1uv9CaGxYfme+eCaNZTdNTVxtsjsSePZSigHK6rsiwHL9lgzqopPPE8aE8XkuifOLwpCA1kdZQmj1XLYh6XQcTFh7r48Ybg6BXjr0=;34yqh30o0z+y8GxTn8rUZg=="
+secured: "z5IbBR36stHYL2/BWC4VXnq5l0Q/k/468fGZVhA8W8VHINNR7PTOAA/o5PWWiWD2NmF/hJKM+Hct8FDG6zR1R1SsTqjhd3iBot/YTLcrOIS/Js5wrgzzU1siLcEECqFG9f8+a6znJ6z714h27vj+Bii/Ti9P6P3Gjun0J/RYgUkLq80U+75OH0Pblkk9J5GIcf8xaUsbM3fcahCV2hgLejXOrm7EbAz+BRiDXCvfnwHtQqRzZBmS0DXgCh1YOlmXQG3ME59Fo0Z49NFWHv2z7HV79ItHvTTv4GFFR5JvdktQOfn3MA+M+h6nOmOM8AqULkB+ZulM22W28ddNIwKzyfid28DaXjL/M0bbUexOetU1cd3wWlcdkbcggIH+9tWczQEGZi/Ju5hU5S2XiqaV4ywmBIaL6QVwukNMiI7WH/4r/xSCa4orzp3I5LU3IUBbWGiSC487PrXHoSacl8rAM2YX3N85/ihtirnLvkWPZ6Zp7i0f3KTrWl34vF98HdKU7yvCWJ8n7A97gi3mv63c5w==;eGX3ELkeEmSaX1n+mNtnlQ=="
 ---
 

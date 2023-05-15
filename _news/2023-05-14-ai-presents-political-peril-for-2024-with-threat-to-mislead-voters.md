@@ -1,26 +1,28 @@
 ---
 category: news
 title: "AI presents political peril for 2024 with threat to mislead voters"
-excerpt: "Computer engineers and tech-inclined political scientists have warned for years that cheap, powerful artificial intelligence tools would soon allow anyone to create fake images, video and audio that was realistic enough to fool voters and perhaps sway an election."
-publishedDateTime: 2023-05-14T14:55:00Z
-originalUrl: "https://www.aol.com/news/ai-presents-political-peril-2024-145503335.html"
-webUrl: "https://www.aol.com/news/ai-presents-political-peril-2024-145503335.html"
+excerpt: "Thanks to recent advances in artificial intelligence, tools that can create lifelike photos, video and audio are now cheap and readily available"
+publishedDateTime: 2023-05-14T15:32:00Z
+originalUrl: "https://abcnews.go.com/Business/wireStory/ai-presents-political-peril-2024-threat-mislead-voters-99313712"
+webUrl: "https://abcnews.go.com/Business/wireStory/ai-presents-political-peril-2024-threat-mislead-voters-99313712"
+ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/ai-presents-political-peril-2024-threat-mislead-voters-99313712"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/ai-presents-political-peril-2024-threat-mislead-voters-99313712"
 type: article
-quality: 37
-heat: -1
-published: false
+quality: 57
+heat: 77
+published: true
 
 provider:
-  name: AOL
-  domain: aol.com
+  name: ABC
+  domain: abcnews.go.com
 
 topics:
   - AI
 
 images:
-  - url: "https://s.yimg.com/ny/api/res/1.2/CAS161yt955HMLibM4dkIQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/ap.org/56c68582e1068c5627a046a7afaff39a"
-    width: 1200
-    height: 800
+  - url: "https://s.abcnews.com/images/US/wirestory_59fb51002661ac5290089060b3ae39a0_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -50,6 +52,6 @@ related:
       domain: mysanantonio.com
     quality: 4
 
-secured: "LSNw3kRYzOa6Ner/D2s6b4f4nzzyBdPbHucEUbyFo67NmIL7aGEZjL0c1flnn2l2Sx0MH2CQF93ZYxbXISz3KiZzWs5CD4E0SxpgpwFcfClWbRd9263wyTAIGtuj6RCWaX0pSfNB8dj6D2tU2oBk0xKxVP0HtYc0FfU15Wv5zwtauL1MU2f6ihunfAvagUigHAo9kolDMO81hRPOzb/9+Av1naq5zInN+0es/SF+FEcTDuyqaoumjTQ9yepjGj4YygIbfj5ZRiRFAYI52lo/NTDjO+afj1vWRvvSkzpgOdR2MEXFlCBMzh9dvGmICQdiMjQUp5TMVgmCWZjZfbe4OTPguur+ESFYPsXXsZ7qqJXRZg/eStqJ/5apVz/ZoSW0nuSQ2na1pv8S2tYXZbvpLycDPS39VNFTL6EU3Apuz1X+YjiPbcyYnvaEN4MniF6MF4zUbzjov+mR94+/LDRS9MYbmLMvi05p7A1i/FesoKQw2LDyUxBdCDMPTeqPLzLCUb347pEir01o5sJMX7Z3+Q==;+enxOLH1jZ+gbIXymWZQeA=="
+secured: "tIwKi6GIq3ybp6S1VhKulbFgsNrVtcOMEWNN9uHE3gFSYt7LHpv08BW5tvkB4tqHHk2VSeaYnTyEgFKbuPowXyygn/UNkBKRQQz1p2993Ama5rQV8SBaIO6p2Rkx2n+fBIecEMAPbbezZ+9SjF40f/gav9YfLxlJ166VCRwFxk0l+QYND5ilTrQrYHgaepRtmN8sT5gedEvhyXTeNk9oJhTaByhidaueh6DcEuxj3CGGYRmRaTq0NH67F5G0Y3a79tUjLbRxLRzwJWphd4RQxS0Q/tZ/6GNZpWQjpnKCkt3OpzIicqTh/ZMKwbuuNosIKbrq/2QKuE/9BSz7eH6cubg8sDA4f6DTYfG9VYXphKE=;YVDwVMIbHOD3YammuFyTHg=="
 ---
 

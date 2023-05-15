@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Voice Recognition and Medical Transcription"
+    excerpt: "It would be unfair to look at voice-recognition transcription options without mentioning one of the largest movements in the medical transcription industry -- outsourcing transcription offshore."
+    publishedDateTime: 2023-05-12T00:01:00Z
+    webUrl: "https://www.medscape.com/viewarticle/487524_5"
+    type: article
+    provider:
+      name: Medscape
+      domain: medscape.com
+    quality: 24
+    images:
+      - url: "https://img.medscape.com/thumbnail_library/Social_Facebook_806x806.jpg"
+        width: 640
+        height: 640
+        isCached: true
   - title: "Genocide Recognition: an Australian story"
     excerpt: "May it appears is the month of genocide recognition amongst the Australian parliaments, with Tasmania being the latest one to adopt a resolution of recognition of the Genocides of the Hellenes, Armenians and Assyrians on Thursday 11 May."
     publishedDateTime: 2023-05-13T23:06:00Z

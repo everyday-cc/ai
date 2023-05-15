@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-04-29-ai-in-healthcare-whats-to-be-done-about-data.md",
+      "title": "AI In Healthcare: What’s To Be Done About Data?",
+      "excerpt": "The widespread deployment of AI in U.S. healthcare will succeed only with the establishment of a national infrastructure for open health data.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/gilpress/2023/04/28/ai-in-healthcare-whats-to-be-done-about-data/",
+      "originalUrl": "https://www.forbes.com/sites/gilpress/2023/04/28/ai-in-healthcare-whats-to-be-done-about-data/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/644bf84647334126cd4c7b40/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/gilpress/2023/04/28/ai-in-healthcare-whats-to-be-done-about-data/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2023/04/28/ai-in-healthcare-whats-to-be-done-about-data/amp/",
+      "publishedDateTime": "2023-04-28T10:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-28-artificial-intelligence-delivery-robot-market-growth-by-2031.md",
       "title": "Artificial Intelligence Delivery Robot Market Growth by 2031",
       "excerpt": "The latest market research report on the Global \"Artificial Intelligence Delivery Robot Market\" is segmented by",
@@ -1408,49 +1460,6 @@
         "Natural Language Processing",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-04-18-artificial-intelligence-in-cancer-diagnosis-and-therapy-market-size-to-boost-us-5299-million-by-2030.md",
-      "title": "Artificial Intelligence In Cancer Diagnosis And Therapy Market Size To Boost US$ 5,299 Million By 2030",
-      "excerpt": "Increased approval of AI-based devices for cancer therapy by FDA is a key factor driving AI in cancer diagnosis & therapy market revenue growth Artificial Intelligence in Cancer Diagnosis and ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1106029984/Artificial-Intelligence-In-Cancer-Diagnosis-And-Therapy-Market-Size-To-Boost-US-5299-Million-By-2030",
-      "originalUrl": "https://menafn.com/1106029984/Artificial-Intelligence-In-Cancer-Diagnosis-And-Therapy-Market-Size-To-Boost-US-5299-Million-By-2030",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?880888",
-          "width": 400,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-18T00:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mena FN",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

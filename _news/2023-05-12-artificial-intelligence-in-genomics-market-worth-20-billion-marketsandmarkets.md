@@ -2,9 +2,9 @@
 category: news
 title: "Artificial Intelligence In Genomics Market worth $2.0 billion | MarketsandMarkets"
 excerpt: "Artificial Intelligence In Genomics Market in terms of revenue was estimated to be worth $0.5 billion in 2023 and is poised to reach $2.0 billion by 2028, growing at a CAGR of 32.3% from 2023 to 2028 according to a new report by MarketsandMarkets™."
-publishedDateTime: 2023-05-11T17:53:00Z
-originalUrl: "https://it.tmcnet.com/news/2023/05/11/9812870.htm"
-webUrl: "https://it.tmcnet.com/news/2023/05/11/9812870.htm"
+publishedDateTime: 2023-05-11T17:57:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-genomics-market-worth-20-billion-marketsandmarkets-/2023/05/11/9812870.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-genomics-market-worth-20-billion-marketsandmarkets-/2023/05/11/9812870.htm"
 type: article
 quality: 14
 heat: -1
@@ -57,6 +57,6 @@ related:
       domain: marketwatch.com
     quality: 47
 
-secured: "pc+F/3b63X5bXlXEoZMrd5VIFBgSPQEWkB5iskcRAUvQ0RdMMSop9ISuGH/YQIeFnk41EhM9rG/2am5Sf0nA4iJ9WJ4T30oS0Jdx6T8Z038N3QcsH+/9290w2WdMZSDp50r0N+rDj6d4G6E0C/GbmYNJ14h8G2av2RyKlw58bTAh2h4Es3SmgOJVMNYfy0VA9MBDKXt90mSNCUOFBJ+yJE5KDB1WF6Mv56YY8mZaTwTfRoRNJQZiWtE7DB/FJZCv5wBk9gWjWNdtawFSyofpWoS1BuedW7JAFAltHl81kt6zSKiViJy3kLnwSmRTgTkZj6C+JukVrEeUPpyWQItbdgvmNV5UlMVojMmWfdqm9+FU8B2/W++eKtQVVQHYJO5Gcu8BctgvbrOmpCyoHr4ScOZ7gRbDp/1cym3I4s8EutOyXIrZulAI15oIsUwkJ8PMEdFjIe4b3JcpruAEXJJ2gLg/HgEOtGAk1ZDgPAL7ngFuDUBphHnPerSKKIT0kxrsm4swQcjwqYLsddV4tK7yjw==;lk6p4y+QTKkly4HhXW1cPw=="
+secured: "Jb6n0pcmhckFhLsKz0OlbixLowimymz61dzIMyUjzvyQY4Bi/m2dwe4+6493VAI6SSIYSsOYTcvA21+QW1lfnSWUDHDi8yZIgo/GAmJmNrH0dop30kJzroNP91o6J/R7YWzIALeAc8T/SALclgxIOovfI0GrQ4PK2mf2DJx0+yJ11JxpyttrulX0oULHHDKjV2J1Mt2bikIRBRGR2C0VdlbjsAHDvF9LhADSV8aPEdmeGqCOB8n33F3T4qNHaA/cRCzeQYLiyNV8dtGNjbPzLCsoQdgdRdk9dYuBxufduepUcpMmRFIBECYJqOVm+6lKWdnxPl28AOuFfXsJr78iq7fKfUiniO3c7nRkTvgH2KVrO7XXxI03haDQ/MUnwquSWhDAFILmWgYfnkTsOZmgb46JcJJhMOiMPTYPTJP/2DcrCnNp89OEEYJ5Hrvxt3rwryMpsGskBBZHtSS5H7oRDq0NYJTIu4PHOrM/TxkCtmte0U/ye4RrnM823Xm5MibDjYmOhjbV1FTIATnnh+UeVg==;Klb4Qmy2jGQb+dBThypJ0g=="
 ---
 

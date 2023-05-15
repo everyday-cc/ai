@@ -97,6 +97,50 @@
       ]
     },
     {
+      "path": "_news/2023-05-10-unlimited-opportunities-for-manufacturing-of-medical-devices-in-india-ceo-of-ge-healthcare-south-asia.md",
+      "title": "Unlimited opportunities for manufacturing of medical devices in India: CEO of GE HealthCare South Asia",
+      "excerpt": "Through this programme, we aim to nurture the start-up ecosystem, build strategic partnerships, and co-develop healthcare applications using AI and other technologies.GE HealthCare launched the Healthcare Innovation Lab with IISc Bengaluru-based Indian Institute of Science to aid clinicians in tackling real-time difficulties in care delivery by bringing to market new digital solutions that can be incorporated on the Edison platform.",
+      "sourceUrl": null,
+      "webUrl": "https://www.devdiscourse.com/article/technology/2446198-unlimited-opportunities-for-manufacturing-of-medical-devices-in-india-ceo-of-ge-healthcare-south-asia",
+      "originalUrl": "https://www.devdiscourse.com/article/technology/2446198-unlimited-opportunities-for-manufacturing-of-medical-devices-in-india-ceo-of-ge-healthcare-south-asia",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/27_06_2019_18_33_35_2442501.png?width=920&format=jpeg",
+          "width": 920,
+          "height": 520,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-09T23:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "devdiscourse",
+        "domain": "devdiscourse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-05-09-transform-analyze-and-discover-insights-from-unstructured-healthcare-data-using-amazon-healthlake.md",
       "title": "Transform, analyze, and discover insights from unstructured healthcare data using Amazon HealthLake",
       "excerpt": "Healthcare data is complex and siloed, and exists in various formats. An estimated 80% of data within organizations is considered to be unstructured or “dark” data that is locked inside text, emails, PDFs, and scanned documents. This data is difficult to interpret or analyze programmatically and limits",
@@ -1362,58 +1406,6 @@
         "Natural Language Processing",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-04-29-ai-in-healthcare-whats-to-be-done-about-data.md",
-      "title": "AI In Healthcare: What’s To Be Done About Data?",
-      "excerpt": "The widespread deployment of AI in U.S. healthcare will succeed only with the establishment of a national infrastructure for open health data.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/gilpress/2023/04/28/ai-in-healthcare-whats-to-be-done-about-data/",
-      "originalUrl": "https://www.forbes.com/sites/gilpress/2023/04/28/ai-in-healthcare-whats-to-be-done-about-data/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/644bf84647334126cd4c7b40/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/gilpress/2023/04/28/ai-in-healthcare-whats-to-be-done-about-data/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2023/04/28/ai-in-healthcare-whats-to-be-done-about-data/amp/",
-      "publishedDateTime": "2023-04-28T10:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

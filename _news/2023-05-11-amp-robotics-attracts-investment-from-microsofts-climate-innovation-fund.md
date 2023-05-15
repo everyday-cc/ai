@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/05/11/amp-robotics-attracts-investment-f
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/11/amp-robotics-attracts-investment-from-microsofts-climate-innovation-fund/amp/"
 type: article
 quality: 120
-heat: 350
+heat: 340
 published: true
 
 provider:
@@ -132,20 +132,6 @@ related:
       - url: "https://assets.entrepreneur.com/content/3x2/2000/1683789345-Untitleddesign-2023-05-11T123845263.jpg"
         width: 2000
         height: 1333
-        isCached: true
-  - title: "Builder.ai announces collaboration with Microsoft to democratize software development"
-    excerpt: "Builder.ai, the AI powered next generation composable software development platform that's so simple and accessible, allowing every individual and business to turn their ideas into software, today announced a strategic collaboration with Microsoft,"
-    publishedDateTime: 2023-05-10T06:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/builderai-announces-collaboration-with-microsoft-to-democratize-software-development-2023-05-10"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 77
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
         isCached: true
   - title: "AMP Robotics Raises Additional Series C Investment From Microsoft Climate Innovation Fund"
     excerpt: "AMP Robotics Corp. (“AMP”), a pioneer in artificial intelligence (AI), robotics, and infrastructure for the waste and recycling industry, has received financing from Microsoft’s Climate Innovation Fund."

@@ -38,6 +38,15 @@ related:
       name: Mena FN
       domain: menafn.com
     quality: 16
+  - title: "Analysis the CAGR growth on the Global Speech & Voice Recognition Systems Market and the Market size is growing at a CAGR of 13.9% from 2023 - 2030"
+    excerpt: "The global Speech & Voice Recognition Systems market has seen significant growth in recent years, driven by increasing demand from various industries. Technological advancements, increasing consumer awareness,"
+    publishedDateTime: 2023-05-13T13:25:00Z
+    webUrl: "https://www.marketwatch.com/press-release/analysis-the-cagr-growth-on-the-global-speech-voice-recognition-systems-market-and-the-market-size-is-growing-at-a-cagr-of-139-from-2023---2030-2023-05-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 0
 
 secured: "Hcs08awdS6DqcwJEkLYZc8b3ZyGrHKY63+BMErVeOnwBVO2Er1Ae+pS+v4xVet06e311y/agAFv0S5y1mMUL4zW4xc2r8TZ1DEg2S/VaB6kDRDrUm4VCVbNCDA8Vsw/G14gAheBFNXyzZ/30Amgaz+a7kBLDcr+fQiICqOlKMwP2VQGwsn935/iaBxfzeM3PhLCQJlIjkG1n8NRGE9txmCPV59RqEjSVJclSXK2Lwf3dvbhOKQe7PVQ9j9+jiQWnkxkVuyeWoH7Z0bym6Npp1gzbTw1khbV4/YoOEDDjNLila25YJtMZhgrDeCOWvCisd7bYYlGA8yhyYWIxkBgAYSu56y2xDXldCc1HmzZDafI=;gzH2L7CzVh45rXmTsphg1Q=="
 ---

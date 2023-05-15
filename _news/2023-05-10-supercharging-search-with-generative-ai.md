@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/products/search/generative-ai-search/amp/"
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/search/generative-ai-search/amp/"
 type: article
 quality: 109
-heat: 419
+heat: 429
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/645bab625656905e0c4bd205/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "What enterprises need to know about adopting generative AI"
+    excerpt: "Enterprises that embrace and master generative AI will gain a competitive edge and create new opportunities for growth and innovation."
+    publishedDateTime: 2023-05-14T23:11:00Z
+    webUrl: "https://venturebeat.com/ai/what-enterprises-need-to-know-about-adopting-generative-ai/"
+    ampWebUrl: "https://venturebeat.com/ai/what-enterprises-need-to-know-about-adopting-generative-ai/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/what-enterprises-need-to-know-about-adopting-generative-ai/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1133176856.jpg?w=1200&strip=all"
+        width: 1200
+        height: 655
         isCached: true
   - title: "How Organizations Can Leverage Generative AI To Reinvent The Customer Experience"
     excerpt: "Businesses of all sizes and industries are exploring and crafting their own generative AI use cases to change the way they—and their customers—interact with technology forever."

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/nicholascrain/2023/05/11/a-season-of-re
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nicholascrain/2023/05/11/a-season-of-recognition-the-oklahoma-city-thunders-individual-honors-and-a-promising-trajectory/amp/"
 type: article
 quality: 61
-heat: 81
+heat: 91
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/chaffeecountytimes.com/content/tncms/assets/v3/editorial/d/2e/d2e40822-ef71-11ed-80d3-d7ba29657cbb/645bff9407d48.image.jpg?crop=985%2C517%2C107%2C0&resize=985%2C517&order=crop%2Cresize"
         width: 985
         height: 517
+        isCached: true
+  - title: "Voice Recognition and Medical Transcription"
+    excerpt: "It would be unfair to look at voice-recognition transcription options without mentioning one of the largest movements in the medical transcription industry -- outsourcing transcription offshore."
+    publishedDateTime: 2023-05-12T00:01:00Z
+    webUrl: "https://www.medscape.com/viewarticle/487524_5"
+    type: article
+    provider:
+      name: Medscape
+      domain: medscape.com
+    quality: 24
+    images:
+      - url: "https://img.medscape.com/thumbnail_library/Social_Facebook_806x806.jpg"
+        width: 640
+        height: 640
         isCached: true
   - title: "Genocide Recognition: an Australian story"
     excerpt: "May it appears is the month of genocide recognition amongst the Australian parliaments, with Tasmania being the latest one to adopt a resolution of recognition of the Genocides of the Hellenes, Armenians and Assyrians on Thursday 11 May."

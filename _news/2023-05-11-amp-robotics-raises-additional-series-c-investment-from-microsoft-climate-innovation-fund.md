@@ -143,20 +143,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "Builder.ai announces collaboration with Microsoft to democratize software development"
-    excerpt: "Builder.ai, the AI powered next generation composable software development platform that's so simple and accessible, allowing every individual and business to turn their ideas into software, today announced a strategic collaboration with Microsoft,"
-    publishedDateTime: 2023-05-10T06:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/builderai-announces-collaboration-with-microsoft-to-democratize-software-development-2023-05-10"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 77
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Microsoft backs UK start-up in latest AI push"
     excerpt: "Microsoft splurged an undisclosed sum of equity investment in UK-based AI developer Builder.ai under a broader strategic partnership."
     publishedDateTime: 2023-05-10T15:55:00Z

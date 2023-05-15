@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-05-14-17-ai-and-machine-learning-terms-everyone-needs-to-know.md",
+      "title": "17 AI and machine learning terms everyone needs to know",
+      "excerpt": "With the ongoing Artificial Intelligence boom, it is very important to understand the terminology in use. Here are 17 AI and machine learning terms everyone needs to know.",
+      "sourceUrl": null,
+      "webUrl": "https://www.indiatoday.in/education-today/grammar-vocabulary/story/17-ai-and-machine-learning-terms-everyone-needs-to-know-2379081-2023-05-14",
+      "originalUrl": "https://www.indiatoday.in/education-today/grammar-vocabulary/story/17-ai-and-machine-learning-terms-everyone-needs-to-know-2379081-2023-05-14",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202305/stockvault-digital-transformation-concept-virtual-hand-creating-network257818-sixteen_nine.jpg?VersionId=7bt_uMPGpWUZCkf7KELZEIZRX4kjQnWt",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.indiatoday.in/amp/education-today/grammar-vocabulary/story/17-ai-and-machine-learning-terms-everyone-needs-to-know-2379081-2023-05-14",
+      "cdnAmpWebUrl": "https://www-indiatoday-in.cdn.ampproject.org/c/s/www.indiatoday.in/amp/education-today/grammar-vocabulary/story/17-ai-and-machine-learning-terms-everyone-needs-to-know-2379081-2023-05-14",
+      "publishedDateTime": "2023-05-14T03:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Today",
+        "domain": "indiatoday.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-13-gxo-direct-to-rely-on-machine-learning-to-drive-labor-efficiencies.md",
       "title": "GXO Direct To Rely On Machine Learning To Drive Labor Efficiencies",
       "excerpt": "GXO Direct has invested in a machine learning labor management system from Blue Yonder to help drive labor productivity at their warehouses. Traditionally, industrial engineers were widely used to set fair labor standards.",
@@ -79,58 +122,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2023-05-12T11:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-12-2030-data-science-and-machine-learning-service-market-with-pestal-swot-analysis.md",
-      "title": "2030, Data Science and Machine Learning Service Market with PESTAL & SWOT Analysis",
-      "excerpt": "Global Data Science and Machine Learning Service Market Report 2023 is spread across130 pagesand provides exclusive vital statistics, data, information, trends and competitive landscape details in this niche sector. “Global Data Science and Machine ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/2030-data-science-and-machine-learning-service-market-with-pestal-swot-analysis-2023-05-11",
-      "originalUrl": "https://www.marketwatch.com/press-release/2030-data-science-and-machine-learning-service-market-with-pestal-swot-analysis-2023-05-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-11T15:38:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "MarketWatch",
@@ -264,6 +255,58 @@
       ]
     },
     {
+      "path": "_news/2023-05-11-machine-learning-market-size-growth-opportunities-key-players-and-forecast-outlook-2031.md",
+      "title": "Machine Learning Market Size, Growth, Opportunities, Key Players and Forecast Outlook 2031",
+      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. May 10, 2023 (Alliance News via COMTEX) -- MACHINE LEARNING MARKET SIZE, SHARE & TRENDS ANALYSIS – GLOBAL OPPORTUNITY ANALYSIS AND INDUSTRY FORECAST 2030 The global machine ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-market-size-growth-opportunities-key-players-and-forecast-outlook-2031-2023-05-10",
+      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-market-size-growth-opportunities-key-players-and-forecast-outlook-2031-2023-05-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-10T18:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-11-machine-learning-big-data-analytics-education-market.md",
       "title": "Machine Learning & Big Data Analytics Education Market",
       "excerpt": "Research Reports has published a new report titled as \"Machine Learning and Big Data Analytics Education Market\" by",
@@ -368,6 +411,58 @@
         "Google AI",
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-05-10-global-machine-learning-as-a-service-mlaas-market-analysis-of-new-report-2023-2030.md",
+      "title": "Global Machine Learning-as-a-Service (MLaaS) Market Analysis of New Report 2023-2030",
+      "excerpt": "A Promising Outlook for the Global Machine Learning-as-a-Service (MLaaS) Market from 2023 to 2030 Why is Machine Learning-as-a-Service (MLaaS) market 2023 Important? - Overall, the Machine Learning-as-a-Service (MLaaS) market in 2023 is essential for businesses to understand the market landscape,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-machine-learning-as-a-service-mlaas-market-analysis-of-new-report-2023-2030-2023-05-10",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-machine-learning-as-a-service-mlaas-market-analysis-of-new-report-2023-2030-2023-05-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-10T09:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     },
     {
@@ -476,7 +571,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/latest-deep-learning-chip-market-trends-2023-2030-2023-05-10",
       "featuredContent": null,
       "highlight": null,
-      "heat": 156,
+      "heat": 146,
       "tags": null,
       "images": [
         {
@@ -1356,92 +1451,6 @@
         "Facebook AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-05-05-this-intelligence-may-be-artificial-but-the-threat-is-very-real-as-ai-takes-over.md",
-      "title": "This ‘intelligence’ may be artificial, but the threat is very real as AI takes over",
-      "excerpt": "THE robots are coming and you’d better watch out – your jobs, prosperity and freedom are in their sights. Will Smith famously fought an army of Artificially Intelligent androids who had",
-      "sourceUrl": null,
-      "webUrl": "https://www.thesun.ie/news/10655250/artifical-intelligence-robots-take-over-threat/",
-      "originalUrl": "https://www.thesun.ie/news/10655250/artifical-intelligence-robots-take-over-threat/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thesun.ie/wp-content/uploads/sites/3/2023/05/NINTCHDBPICT000616991058.jpg?strip=all&quality=100&w=1920&h=1080&crop=1",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thesun.ie/news/10655250/artifical-intelligence-robots-take-over-threat/amp/",
-      "cdnAmpWebUrl": "https://www-thesun-ie.cdn.ampproject.org/c/s/www.thesun.ie/news/10655250/artifical-intelligence-robots-take-over-threat/amp/",
-      "publishedDateTime": "2023-05-04T22:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Irish Sun",
-        "domain": "thesun.ie",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-05-godfather-of-artificial-intelligence-has-spoken-up-about-the-dangers-of-ai-is-it-too-late.md",
-      "title": "Godfather of artificial intelligence has spoken up about the dangers of AI: Is it too late?",
-      "excerpt": "Hopefully, Google scientist Geoffrey Hinton’s warnings about the technology’s potential harms will persuade other researchers to come forward.",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/news/world/godfather-of-artificial-intelligence-geoffrey-hinton-has-spoken-up-about-the-dangers-of-ai-11683244206712.html",
-      "originalUrl": "https://www.livemint.com/news/world/godfather-of-artificial-intelligence-geoffrey-hinton-has-spoken-up-about-the-dangers-of-ai-11683244206712.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.livemint.com/lm-img/img/2023/05/05/600x338/AI_1683244895616_1683244900703.jpg",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/news/world/godfather-of-artificial-intelligence-geoffrey-hinton-has-spoken-up-about-the-dangers-of-ai/amp-11683244206712.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/world/godfather-of-artificial-intelligence-geoffrey-hinton-has-spoken-up-about-the-dangers-of-ai/amp-11683244206712.html",
-      "publishedDateTime": "2023-05-04T17:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

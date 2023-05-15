@@ -76,6 +76,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "What enterprises need to know about adopting generative AI"
+    excerpt: "Enterprises that embrace and master generative AI will gain a competitive edge and create new opportunities for growth and innovation."
+    publishedDateTime: 2023-05-14T23:11:00Z
+    webUrl: "https://venturebeat.com/ai/what-enterprises-need-to-know-about-adopting-generative-ai/"
+    ampWebUrl: "https://venturebeat.com/ai/what-enterprises-need-to-know-about-adopting-generative-ai/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/what-enterprises-need-to-know-about-adopting-generative-ai/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1133176856.jpg?w=1200&strip=all"
+        width: 1200
+        height: 655
+        isCached: true
   - title: "How Organizations Can Leverage Generative AI To Reinvent The Customer Experience"
     excerpt: "Businesses of all sizes and industries are exploring and crafting their own generative AI use cases to change the way they—and their customers—interact with technology forever."
     publishedDateTime: 2023-05-11T10:45:00Z

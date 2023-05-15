@@ -43,15 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Natural Language Processing (NLP) in Healthcare and Life Sciences Market Forecast 2023-2030"
-    excerpt: "May 10, 2023 (The Expresswire) -- \"Natural Language Processing (NLP) in Healthcare and Life Sciences Market\" Insights 2023 By Types ( Machine"
-    publishedDateTime: 2023-05-10T06:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-in-healthcare-and-life-sciences-market-forecast-2023-2030-2023-05-10"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 71
   - title: "Deep Learning System Market with Future Opportunities 2023-2031"
     excerpt: "The \"Deep Learning System Market\" study delves into the evolution of the technology industry and the responses of major"
     publishedDateTime: 2023-05-11T02:45:00Z

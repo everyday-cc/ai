@@ -2,6 +2,274 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2023-04-24-software-didnt-eat-the-world.md",
+      "title": "Software Didn’t Eat the World",
+      "excerpt": "This article was co-published with Understanding AI, a newsletter that explores how ... some of them to eventually be as big as Google or Facebook. After all, they thought, industries like ...",
+      "sourceUrl": null,
+      "webUrl": "https://slate.com/technology/2023/04/artificial-intelligence-jobs-software-eating-the-world-andreessen-economy.html",
+      "originalUrl": "https://slate.com/technology/2023/04/artificial-intelligence-jobs-software-eating-the-world-andreessen-economy.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://compote.slate.com/images/8a774cc3-3f71-4654-8687-e34438293495.gif?crop=1560%2C1040%2Cx0%2Cy0&width=1560",
+          "width": 1560,
+          "height": 1040,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-24T06:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Slate",
+        "domain": "slate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-24-deep-instinct-announces-strategic-partnership-with-esentire.md",
+      "title": "Deep Instinct Announces Strategic Partnership with eSentire",
+      "excerpt": "Deep Instinct, the first cybersecurity company that stops unknown malware pre-execution with a purpose-built, AI-based deep learning (DL) framework, today announced a new partnership with eSentire, a leader in Managed Detection and Response (MDR) cybersecurity services.",
+      "sourceUrl": null,
+      "webUrl": "https://www.joplinglobe.com/region/national_business/deep-instinct-announces-strategic-partnership-with-esentire/article_cde74693-495c-5406-8783-5513f943b639.html",
+      "originalUrl": "https://www.joplinglobe.com/region/national_business/deep-instinct-announces-strategic-partnership-with-esentire/article_cde74693-495c-5406-8783-5513f943b639.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.cnhionline.com/ksherman/images/575801-RTJ-Masters-Package-300x250.gif",
+          "width": 300,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-24T06:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Joplin Globe",
+        "domain": "joplinglobe.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-24-wallarooai-partners-with-vmware-on-machine-learning-at-the-edge.md",
+      "title": "Wallaroo.ai partners with VMware on machine learning at the edge",
+      "excerpt": "Machine learning startup Wallaroo Labs Inc., better known as Wallaroo.ai, said today it’s partnering with the virtualization software giant VMware Inc. to create a unified edge machine learning and artificial intelligence deployment and operations platform that’s aimed at communications service providers.",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2023/04/24/wallaroo-ai-partners-vmware-machine-learning-edge/",
+      "originalUrl": "https://siliconangle.com/2023/04/24/wallaroo-ai-partners-vmware-machine-learning-edge/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/04/Wallaroo.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-24T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-04-24-why-companies-need-to-accelerate-data-warehousing-solution-modernization.md",
+      "title": "Why companies need to accelerate data warehousing solution modernization",
+      "excerpt": "Legacy data warehousing solutions cannot manage growing workloads. Leading companies know survival depends on adopting modern data warehousing solutions.\nThe post Why companies need to accelerate data warehousing solution modernization appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/why-companies-need-to-accelerate-data-warehousing-solution-modernization/",
+      "originalUrl": "https://www.ibm.com/blog/why-companies-need-to-accelerate-data-warehousing-solution-modernization/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-24T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-24-how-scalable-uavs-and-mobile-robotics-can-do-good-in-the-world.md",
+      "title": "How Scalable UAVs And Mobile Robotics Can Do Good In The World",
+      "excerpt": "The potential for business use is significant, but even more interesting are the strategic ways modern UAVs can bring more good to our world. That can happen in a business context or across nonprofit and government sectors.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/24/how-scalable-uavs-and-mobile-robotics-can-do-good-in-the-world/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/24/how-scalable-uavs-and-mobile-robotics-can-do-good-in-the-world/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63ee2d7713ba05d84c171308/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/24/how-scalable-uavs-and-mobile-robotics-can-do-good-in-the-world/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/04/24/how-scalable-uavs-and-mobile-robotics-can-do-good-in-the-world/amp/",
+      "publishedDateTime": "2023-04-24T04:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-24-britain-sets-up-125-million-taskforce-to-drive-ai-in-healthcare-education.md",
+      "title": "Britain sets up $125 million taskforce to drive AI in healthcare, education",
+      "excerpt": "The taskforce will help develop foundation models - a type of artificial intelligence (AI) used by chatbots like ChatGPT - for use in fields like healthcare and education",
+      "sourceUrl": null,
+      "webUrl": "https://economictimes.indiatimes.com/tech/technology/britain-sets-up-125-million-taskforce-to-drive-ai-in-healthcare-education/articleshow/99732037.cms",
+      "originalUrl": "https://economictimes.indiatimes.com/tech/technology/britain-sets-up-125-million-taskforce-to-drive-ai-in-healthcare-education/articleshow/99732037.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.etimg.com/thumb/msid-99712095,imgsize-,width-600,height-450/.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.economictimes.com/tech/technology/britain-sets-up-125-million-taskforce-to-drive-ai-in-healthcare-education/amp_articleshow/99732037.cms",
+      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/britain-sets-up-125-million-taskforce-to-drive-ai-in-healthcare-education/amp_articleshow/99732037.cms",
+      "publishedDateTime": "2023-04-24T04:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
       "path": "_news/2023-04-24-5-crucial-components-of-an-ai-company.md",
       "title": "5 Crucial Components Of An AI Company",
       "excerpt": "In this article, I'll explore five crucial factors that should drive the decision making of VCs and investors when identifying investment opportunities and evaluating long-term potential in the competitive and oversaturated AI space.",
@@ -915,281 +1183,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-24-machine-learning-as-ai-tools-gain-heft-the-jobs-that-could-be-at-stake.md",
-      "title": "Machine learning: As AI tools gain heft, the jobs that could be at stake",
-      "excerpt": "The OpenAI study also said that around 19 per cent of US workers will see at least 50 per cent of their tasks impacted, with the qualifier that GPT exposure is likely greater for higher-income jobs, but spans across almost all industries.",
-      "sourceUrl": null,
-      "webUrl": "https://indianexpress.com/article/technology/artificial-intelligence/machine-learning-as-ai-tools-gain-heft-the-jobs-that-could-be-at-stake-8572182/",
-      "originalUrl": "https://indianexpress.com/article/technology/artificial-intelligence/machine-learning-as-ai-tools-gain-heft-the-jobs-that-could-be-at-stake-8572182/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.indianexpress.com/2023/04/ai_1200_gettyimages.jpg",
-          "width": 1200,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://indianexpress.com/article/technology/artificial-intelligence/machine-learning-as-ai-tools-gain-heft-the-jobs-that-could-be-at-stake-8572182/lite/",
-      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/artificial-intelligence/machine-learning-as-ai-tools-gain-heft-the-jobs-that-could-be-at-stake-8572182/lite/",
-      "publishedDateTime": "2023-04-23T16:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Indian Express",
-        "domain": "indianexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-24-3-ai-stocks-that-could-go-parabolic.md",
-      "title": "3 AI Stocks That Could Go Parabolic",
-      "excerpt": "For instance, a new AI program called Advantage+ is helping advertisers recover their returns on Facebook and Instagram ... has positions in Apple, Lam Research, Meta Platforms, Microsoft, and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/04/23/3-ai-stocks-that-could-go-parabolic/",
-      "originalUrl": "https://www.fool.com/investing/2023/04/23/3-ai-stocks-that-could-go-parabolic/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/729035/artificial-intelligence-ai-data-deep-processing.jpg",
-          "width": 5500,
-          "height": 4125,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-23T10:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-23-mps-condemn-frasers-groups-use-of-facial-recognition-cameras-in-stores.md",
-      "title": "MPs condemn Frasers Group’s use of facial recognition cameras in stores",
-      "excerpt": "Exclusive: Cross-party collection of parliamentarians write letter to Sports Direct owner",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/business/2023/apr/23/mps-condemn-frasers-groups-use-of-facial-recognition-cameras-in-stores?ref=biztoc.com",
-      "originalUrl": "https://www.theguardian.com/business/2023/apr/23/mps-condemn-frasers-groups-use-of-facial-recognition-cameras-in-stores?ref=biztoc.com",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/4c14124c6135d5ccc6e785003a21fefdb05ecc79/0_83_3000_1800/master/3000.jpg?width=620&quality=85&auto=format&fit=max&s=ee459190323236390d1ef2e99f46c882",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/business/2023/apr/23/mps-condemn-frasers-groups-use-of-facial-recognition-cameras-in-stores",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/business/2023/apr/23/mps-condemn-frasers-groups-use-of-facial-recognition-cameras-in-stores",
-      "publishedDateTime": "2023-04-23T09:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-23-german-magazine-editor-fired-after-fake-ai-interview-with-formula-one-racer.md",
-      "title": "German Magazine Editor Fired After Fake AI Interview With Formula One Racer",
-      "excerpt": "Die Aktuelle ran a headline promising the first interview with Michael Schumacher since a 2013 accident, but the quotes attributed to Schumacher were produced by AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/german-magazine-editor-fired-after-fake-michael-schumacher-ai-interview",
-      "originalUrl": "https://www.pcmag.com/news/german-magazine-editor-fired-after-fake-michael-schumacher-ai-interview",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/00AWAj8B566DggKwdiNsKlx-1.fit_lim.size_1200x630.v1682264705.png",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-23T09:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-23-meet-robin-umass-memorials-new-pediatric-robot.md",
-      "title": "Meet Robin, UMass Memorial’s new pediatric robot",
-      "excerpt": "UMass Memorial invited me to \"meet\" Robin, a new robot the hospital brought into the pediatric unit last October. Here what it was like.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bizjournals.com/boston/news/2023/04/23/meet-robin-umass-memorial-s-new-pediatric-robot.html",
-      "originalUrl": "https://www.bizjournals.com/boston/news/2023/04/23/meet-robin-umass-memorial-s-new-pediatric-robot.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-23T08:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Business Journals",
-        "domain": "bizjournals.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-23-self-driving-cars-autonomous-driving-levels-explained.md",
-      "title": "Self-driving cars: Autonomous driving levels explained",
-      "excerpt": "They have no autonomous or self-driving controls at all, with all aspects of driving needing to be taken care of by the driver, including reacting to hazards. Level 1: Level 1 autonomy is the most ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.pocket-lint.com/sae-autonomous-driving-levels-explained/",
-      "originalUrl": "https://www.pocket-lint.com/sae-autonomous-driving-levels-explained/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static1.pocketlintimages.com/wordpress/wp-content/uploads/143955-cars-feature-autonomous-vehicles-the-various-levels-of-autonomy-explained-image1-yfsj6ukbpj.jpg",
-          "width": 1280,
-          "height": 853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-23T08:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Pocket-lint",
-        "domain": "pocket-lint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

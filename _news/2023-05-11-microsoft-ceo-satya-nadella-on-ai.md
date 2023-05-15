@@ -7,7 +7,7 @@ originalUrl: "https://time.com/6278841/microsoft-ceo-satya-nadella-on-artificial
 webUrl: "https://time.com/6278841/microsoft-ceo-satya-nadella-on-artificial-intelligence/"
 type: article
 quality: 84
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -56,22 +56,6 @@ related:
       - url: "https://www.crn.com/resources/0281-17fee2fdcd7a-2e9db2bde58c-1000/vic-raymond.jpeg"
         width: 611
         height: 458
-        isCached: true
-  - title: "Microsoft, Oracle Reportedly Discussed Sharing AI Servers Amid Global Shortage"
-    excerpt: "Miracle and Oracle appear to be preparing for a potential shortage of their own servers, and an agreement to share servers may help ease the problem."
-    publishedDateTime: 2023-05-10T05:41:00Z
-    webUrl: "https://www.ibtimes.com/microsoft-oracle-reportedly-discussed-sharing-ai-servers-amid-global-shortage-3692198"
-    ampWebUrl: "https://www.ibtimes.com/microsoft-oracle-reportedly-discussed-sharing-ai-servers-amid-global-shortage-3692198?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/microsoft-oracle-reportedly-discussed-sharing-ai-servers-amid-global-shortage-3692198?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 70
-    images:
-      - url: "https://d.ibtimes.com/en/full/4450269/illustration-shows-microsoft-azure-cloud-service-logo.jpg"
-        width: 1200
-        height: 800
         isCached: true
 
 secured: "quamTEZSYQzJeKViwiuUNVpvhT4Dgohx/477/AnI0WHJwpyvmIakk3SRjzh4hbMXVld4V95dvXRK7ae08nu31X5ikS7ZlqlzI1UmyBOh42vOX6VFbMB4y0+RluuowCjwwcSz/gAr9qwyw0v7yZBs/HFwrFFnV05GQFSZS295QYj7B1Z2ZpfLgg5i8oFedubd/jiLFvXqjSQGk93uy2ghGfCHRu4pW6iwz7kQQSqHPCqxLHVQAPnHNY4cbkD1cD6f+MSvd9HDkdpnz9LAxnRAwpog8FdsrydGL5N9aNTSDkX7msU9cQSwXMOrwTF3TJy+Qma/kKrQuUJWoZsnxzKkbFOxMai736fWvWvDrP79KuY=;7ssKZDVajEMOLBzgNqtsPg=="

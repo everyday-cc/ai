@@ -56,10 +56,38 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence for Healthcare Applications Market [2023-2030] Business Report"
+    excerpt: "A Artificial Intelligence for Healthcare Applications market new report, spanning multiple 102 pages, offers an"
+    publishedDateTime: 2023-05-14T14:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-for-healthcare-applications-market-2023-2030-business-report-2023-05-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 76
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence Delivery Robot Market Detect New Industry Opportumities 2023-2030"
     excerpt: "Global Artificial Intelligence Delivery Robot Market report provides valuable insights on the global market for the"
     publishedDateTime: 2023-05-10T09:40:00Z
     webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-delivery-robot-market-detect-new-industry-opportumities-2023-2030-2023-05-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 75
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Healthcare Natural Language Processing Market by [2023-2029] with Revenue Outsourcing"
+    excerpt: "A Promising Outlook for the Global Healthcare Natural Language Processing Market from 2023 to 2030 Why is Healthcare Natural Language Processing market 2023 Important? - Overall, the Healthcare Natural Language Processing market in 2023 is essential for businesses to understand the market landscape,"
+    publishedDateTime: 2023-05-14T13:58:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-healthcare-natural-language-processing-market-by-2023-2029-with-revenue-outsourcing-2023-05-14"
     type: article
     provider:
       name: MarketWatch
@@ -107,6 +135,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 63
+  - title: "Artificial Intelligence-based Cybersecurity Market [2023-2030] Business Report"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. May 14, 2023 (The Expresswire) -- A Artificial Intelligence-based Cybersecurity market new report, spanning multiple 113 pages, offers an extensive and in-depth analysis of ..."
+    publishedDateTime: 2023-05-14T23:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-based-cybersecurity-market-2023-2030-business-report-2023-05-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 63
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Facial Recognition Access Control Solutions Market 2023-2030 with Emerging Trends and Technologies"
     excerpt: "Additionally, the report [117 Pages] examines emerging technological developments and RandD spending by key vendors. It comprehensively covers critical elements such as global Facial Recognition Access Control Solutions market share,"
     publishedDateTime: 2023-05-11T17:53:00Z

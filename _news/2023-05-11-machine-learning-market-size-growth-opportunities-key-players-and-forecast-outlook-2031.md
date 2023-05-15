@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/machine-learning-market-
 webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-size-growth-opportunities-key-players-and-forecast-outlook-2031-2023-05-10"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: MarketWatch
@@ -38,6 +38,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 49
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "2023 Face Recognition Paper Picker Market Size and Trend Analysis in Machinery & Equipment Sector | with [91 Pages] and Forecast till 2031"
+    excerpt: "May 11, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" The size of the global “Face"
+    publishedDateTime: 2023-05-11T07:09:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-face-recognition-paper-picker-market-size-and-trend-analysis-in-machinery-equipment-sector-with-91-pages-and-forecast-till-2031-2023-05-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 35
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

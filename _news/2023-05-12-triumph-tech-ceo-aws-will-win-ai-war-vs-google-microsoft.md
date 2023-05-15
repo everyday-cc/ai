@@ -54,22 +54,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Microsoft, Oracle Reportedly Discussed Sharing AI Servers Amid Global Shortage"
-    excerpt: "Miracle and Oracle appear to be preparing for a potential shortage of their own servers, and an agreement to share servers may help ease the problem."
-    publishedDateTime: 2023-05-10T05:41:00Z
-    webUrl: "https://www.ibtimes.com/microsoft-oracle-reportedly-discussed-sharing-ai-servers-amid-global-shortage-3692198"
-    ampWebUrl: "https://www.ibtimes.com/microsoft-oracle-reportedly-discussed-sharing-ai-servers-amid-global-shortage-3692198?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/microsoft-oracle-reportedly-discussed-sharing-ai-servers-amid-global-shortage-3692198?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 70
-    images:
-      - url: "https://d.ibtimes.com/en/full/4450269/illustration-shows-microsoft-azure-cloud-service-logo.jpg"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "xTd/HRv7OOnPTOfP76uhaTLHid9gS/BlDIxuqMxU5HJKThNKp1UkYIbKmYsN+ioBiAJPVRxf31D7IDqMtumlanO7HbXZIGzkVERMhsc8SeoT6qMKnmbuMpaW5vneOMbr4XYtGwfRXGmreHwQUupWJBDKWRF6hyNqc+P+Gsn2ezwXXS6TVYgWuJSjjq4f3RMITAPMK5Rd8sy7/KDaKty/2hlKGbdGLjA5z7zfx1/2ZI4SimG9cmosCydfeLxL17TXPfZfk5E5HS1yuFDIlRR7tqeytenKWMI/pnNt1jr45M57mZGaw4Dawaex7Y2ETS+NNbreePc7ztF8RgyjCc02QAiO79DZNFVKUy8qzOduvCQbqb2E/mzTP14ZE+L0UrG5KZbPoZhNaP2g5qWJNk0QB7+OJu/i2/i+Xs6BJiwXMfLvKGWx0MV6JisgpyUG+dQXqS3IJWLc82Q8yBzAKLnnPBC89M3tE3SFwqGCovv3IUIjvPG9Vh09cIENLqGGj3aqWzOot61m+Rt8mqT63BkvBQ==;OZ5qmShpIhwduE1M0kGlKw=="
 ---
