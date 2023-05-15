@@ -28,6 +28,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "5 ways AI-driven patch management is driving the future of cybersecurity"
+    excerpt: "Cybersecurity vendors are fast-tracking risk-based vulnerability management, AI and machine learning to keep patch management current."
+    publishedDateTime: 2023-05-15T19:07:00Z
+    webUrl: "https://venturebeat.com/security/5-ways-ai-driven-patch-management-is-driving-the-future-of-cybersecurity/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 46
   - title: "Cybersecurity faces a challenge from artificial intelligence’s rise"
     excerpt: "Many veteran security professionals deride what they call “security by obscurity,” where targets plan on surviving hacking attempts by hiding what programs they depend on or how those programs work. Such a defense is often arrived at not by design but as a convenient justification for not replacing older, specialized software."
     publishedDateTime: 2023-05-11T11:00:00Z

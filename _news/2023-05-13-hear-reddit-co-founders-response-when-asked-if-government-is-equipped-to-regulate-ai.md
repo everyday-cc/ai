@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/videos/business/2023/05/13/alexis-ohanian-ar
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/business/2023/05/13/alexis-ohanian-artificial-intelligence-government-regulation-ai-reddit-wallace-sot-contd-wtcw-vpx.cnn"
 type: article
 quality: 80
-heat: 110
+heat: 100
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Governments' race to regulate AI tools"
-    excerpt: "Rapid advances in artificial intelligence such as OpenAI's ChatGPT are complicating governments' efforts to agree to laws governing the use of the technology. Here are the latest steps national and international governing bodies are taking to regulate AI tools. Ilan Rubens reports."
-    publishedDateTime: 2023-05-12T07:59:00Z
-    webUrl: "https://www.reuters.com/video/watch/idOV167211052023RP1"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 67
-    images:
-      - url: "https://static.reuters.com/resources/r/?d=20230511&i=OV167211052023RP1&r=OV167211052023RP1&t=2"
-        width: 960
-        height: 540
-        isCached: true
   - title: "How Real People Are Caught Up In Reddit’s AI Porn Explosion"
     excerpt: "As text-to-image generators become easy to build, use and customize, AI-generated porn communities are burgeoning on Reddit. But these synthetic sexual photos are built on non-consensual images of real people,"
     publishedDateTime: 2023-05-11T10:30:00Z

@@ -64,6 +64,15 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "SAP taps Microsoft AI Copilot to streamline hiring and upskilling for enterprises"
+    excerpt: "SAP today announced a plan to integrate Microsoft AI Copilot and Azure OpenAI service with its SuccessFactors suite of solutions."
+    publishedDateTime: 2023-05-15T17:57:00Z
+    webUrl: "https://venturebeat.com/ai/sap-taps-microsoft-ai-copilot-to-streamline-hiring-and-upskilling/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 59
 
 secured: "C01eR7DAMDgWUZ9zMAwb+a3DEw9yqpGVVT4ml4ia/mUq74xsu3+lOZdz5A2rxbvHyXrTOJUpKrRwTv2afZZqagOc9P9SSPCKW5un2vOa3Q5xAyj+RR261ARKy58DbUWcshRAFHTnRGpEyZffRdCu0v4Q8qhnmNuIKjGFQnH35staxAgbsoUexz5yZ3RybqTN/CA/+k0kZlLxsvyqJaEkJ79wznjxtGuFZm38VVdPrpU4m+bHZjynv0+tlpgsipu33SoaL6UQcrs8J2IuZ3DFYs50320OU2zZ3dp4QnXo7P8iBgHdNeUph9DE2ZYo/j4wviYpgycr1jmgZJwcdz9ghlN0fD4yRrvFIcCDqioZFbChdecehH/4hgYOLDPChTr6fHCASOjYU5KtIf3u3Zc2GSqf/XAospdnTKrSunmmOn0elUFWlv3CLn2rOqviwdu5HqagsWyTyBJiakTtf72Hd3xaSmORJ10c8/yQFOoUKnryLOoNRlqAY+Lm7AKHdjZliTNAiMy/nvKAAR9fjC1a/g==;LcGDI7qoTvumN25dNbufqw=="
 ---

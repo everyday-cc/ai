@@ -190,6 +190,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "ChatGPT iPhone app Omni AI adds on-device voice recognition in latest update"
+    excerpt: "Omni AI, a ChatGPT-powered app for the iPhone, just added on-device voice recognition for its AI assistant in a recent update."
+    publishedDateTime: 2023-05-15T20:13:00Z
+    webUrl: "https://bgr.com/tech/chatgpt-iphone-app-omni-ai-adds-on-device-voice-recognition-in-latest-update/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 36
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2023/05/Omni-AI-iPhone-app.jpg?quality=82&strip=all"
+        width: 1401
+        height: 931
+        isCached: true
   - title: "ChatGPT and Generative AI Around the World: Maturity, Opportunities, and Hurdles in Key Regions"
     excerpt: "ChatGPT has received a lot of press since its November 2022 launch. But while interest in the tool is high, its use is not yet universal."
     publishedDateTime: 2023-05-11T17:01:00Z
@@ -213,6 +227,15 @@ related:
         width: 860
         height: 573
         isCached: true
+  - title: "ChatGPT is not ‘artificial intelligence.’ It’s theft."
+    excerpt: "Calling programs like ChatGPT “artificial intelligence” grants them a claim to authorship that is simply untrue."
+    publishedDateTime: 2023-05-15T17:11:00Z
+    webUrl: "https://www.americamagazine.org/faith/2023/05/15/chatgpt-artificial-intelligence-theft-245283"
+    type: article
+    provider:
+      name: America Magazine
+      domain: americamagazine.org
+    quality: 17
   - title: "Google ups the ante on AI to compete with ChatGPT. Here's how search and Gmail will change."
     excerpt: "Here's how Google is introducing more AI into your everyday computing experience. Google unveiled a suite of new functions for both PCs and phones."
     publishedDateTime: 2023-05-12T18:51:00Z

@@ -45,6 +45,24 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 24
+  - title: "AI presents political peril for 2024 with threat to mislead voters"
+    excerpt: "Thanks to recent advances in artificial intelligence, tools that can create lifelike photos, video and audio are now cheap and readily available."
+    publishedDateTime: 2023-05-15T18:56:00Z
+    webUrl: "https://www.ksl.com/article/50644551/ai-presents-political-peril-for-2024-with-threat-to-mislead-voters"
+    type: article
+    provider:
+      name: KSL
+      domain: ksl.com
+    quality: 17
+  - title: "AI tools present political peril in 2024 with threat to mislead voters: 'Not prepared for this'"
+    excerpt: "When combined with the powerful algorithms of social media, experts say political misinformation generated using AI has the potential to spread farther and faster than ever before."
+    publishedDateTime: 2023-05-15T19:06:00Z
+    webUrl: "https://www.fox5dc.com/news/ai-tools-present-political-peril-in-2024-with-threat-to-mislead-voters-not-prepared-for-this"
+    type: article
+    provider:
+      name: Fox 5
+      domain: fox5dc.com
+    quality: 5
 
 secured: "r8oN3OL77YToX8HMTPQ0ZXWR/RZafkXlhIock0b/PYqRmDPrlcBIavsCKro/miNnjcpb4mE1AVo7EnHUezvteT3tvhJ/1NURlySoV14pUp2CzktorCEDjwdU71mhn5D6Ewf+j3wDq7HBixuZR3CLkDKnVJQ30jQEJuAZtd7fhs1IxOYyIaxt2wkXtmzppL11xF7hx8AcTKFKDUokRX4kp1y6bjykZBf/fcGRS1NDJaolJ2XimH2EYZfAM5WcLjSF+MwAe4kEEQcf4h3IsNg9aoXw9tuAIy1DPI8WtrWczm2Fpie13THYNUKsXjjPri5D8+Ify20KqBRZOxq6xg49T+nSGr8/rpQoqDybc0tLkvXo3gjcZDOdo5ZLkUiflILixys0HtWEmOmXMzmHP/2WWA5amPqj3PxRLDecnHMnxL2Ni2QsxTnEQrSgmMQP41Cz8AV7+6ogf6ocG2XxYvo8VQccsrZxFnpjYslB7+P4bbPvpkG4XboViYtZ0ct6wAbPdibxMWisw32UbTaoZKwD1w==;sbOGoGHiT4z1bGkEbvuxQA=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/how-gmails-new-ai-feature-will-
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/how-gmails-new-ai-feature-will-write-your-emails-for-you/"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 97
+published: true
 
 provider:
   name: CNET
@@ -30,22 +30,15 @@ images:
     isCached: true
 
 related:
-  - title: "How Gmail Plans to Use AI to Write Your Emails For You"
-    excerpt: "At its I/O event, Google showed off new AI features called Help Me Write that promise to automate your emails and messages."
-    publishedDateTime: 2023-05-11T01:48:00Z
-    webUrl: "https://www.cnet.com/tech/services-and-software/how-gmail-plans-to-use-ai-to-write-your-emails-for-you/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/how-gmail-plans-to-use-ai-to-write-your-emails-for-you/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/how-gmail-plans-to-use-ai-to-write-your-emails-for-you/"
+  - title: "9 new Google AI features that will upgrade your life"
+    excerpt: "If you want a full breakdown of all the announcements from yesterday’s event as-it-happened, take a look at our Google I/O 2023 live blog here. Otherwise, let’s dive into nine of the best new AI features that Google hopes will make your online life a little easier to manage."
+    publishedDateTime: 2023-05-11T13:03:00Z
+    webUrl: "https://www.tomsguide.com/news/9-new-google-ai-features-that-will-upgrade-your-life"
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
-    quality: 87
-    images:
-      - url: "https://www.cnet.com/a/img/resize/8a26daad55df302a2217acdc25f6f0b12005ee2d/hub/2023/05/10/a8b74029-bbff-457e-a48e-7344fd0569c6/help-me-write.jpg?auto=webp&fit=crop&height=630&width=1200"
-        width: 1200
-        height: 630
-        isCached: true
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 19
 
 secured: "MaTnU6aXcfZOJalOnyZiszm5WRI6CQQi+Nw5+pfxwd5DAU6IITAEX4VoR29YQO9Osux2dsfeGGas7r9C99SpOvGjN253bIJsqjXsOFpEc4VHRaMGUz8uQ7oX17m4zJZ4CX01TLtRACRFhBs/3VxiMLzat+I2f5tb2gFVWDmfoHXkGwxYIW7ukSPQRvzoZvC4ElzUXNnLR9jh6WlKPER0aR9BCFCKsGdgX40HVmtrvSMlFHdYptqCd0pAsykU+N1QV0xfCKlLEePP77g+8gKSflC615lJylRmivTlrBHOplVFovbkHNnD+YLTJAxszxu9g++YDmDyepSl0OuXIymrFQ+4Y1y3tySYeQ1kJ9b3ZsVXFEyU1hZZwR4TFVUxy94WSbGXygcTyhIErtPn0FsNQBQMMKeITBRaY92t8xbUGWSrugRj9QI6JAHsqotbDXDG6jghMZ69wKN9Iu80UimNPt6z4PCMRSFXdl7BnuMR2/iG9j9NKiJdE4H/u/BOW4qO1RWhH7eNf4/IXf1ZJc/XKg==;uC4hVjKrkoT4nZh4MYI4lA=="
 ---

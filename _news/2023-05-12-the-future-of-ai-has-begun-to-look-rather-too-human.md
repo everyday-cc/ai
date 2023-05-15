@@ -9,8 +9,8 @@ ampWebUrl: "https://www.livemint.com/opinion/columns/the-future-of-ai-from-chatb
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/opinion/columns/the-future-of-ai-from-chatbots-to-digital-afterlife-what-lies-ahead-for-human-existence-and-society/amp-11683828995918.html"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Mint
@@ -43,6 +43,15 @@ related:
         width: 620
         height: 336
         isCached: true
+  - title: "The Future Of AI Training Demands Optical Interconnects"
+    excerpt: "Artificial intelligence has taken the datacenter by storm, and it is forcing companies to rethink the balance between compute, storage, and networking. Or"
+    publishedDateTime: 2023-05-15T17:21:00Z
+    webUrl: "https://www.nextplatform.com/2023/05/15/the-future-of-ai-training-demands-optical-interconnects/"
+    type: article
+    provider:
+      name: The Next Platform
+      domain: nextplatform.com
+    quality: 19
 
 secured: "d1p34WvKlP9VdLSCXSZbYHX4fd+G76fNHTq8hUD7QgntPjx9m/TyhCpy5WXcAVNPpaQfAua7nEUzfQi6EzBbqste7KFTemRu5bl7dEq5/UyDnaGsx7BE71lkfgURbHEJkxW8Ypn3U5M1toSHc4MrGsZyXJQRyW/yrB2n387ijmi6VOvSfS1SEOvPEcgD1bP5sje+mLvlpXAJfXGP7duWwyHys5HoB+tA28Th33AgWrlV3fjEiVt50/YuD9f6zeokADU9J9J+Qyrlsb95NuRqoMDW43S6076aN4zpbA301RJsKCdjwTQmtwX4CoIDhH4c5Z0m3YHzNl7q5s2UfDqzDkDvQpOO2TnvQVJQu0IMt9o=;Npqn6CBvrShDA/9OukDUcQ=="
 ---

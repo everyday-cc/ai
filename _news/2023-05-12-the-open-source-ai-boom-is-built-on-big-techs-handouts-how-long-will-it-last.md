@@ -9,8 +9,8 @@ ampWebUrl: "https://www.technologyreview.com/2023/05/12/1072950/open-source-ai-g
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/05/12/1072950/open-source-ai-google-openai-eleuther-meta/amp/"
 type: article
 quality: 55
-heat: 65
-published: false
+heat: 75
+published: true
 
 provider:
   name: MIT Technology Review
@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "Open source AI continues to celebrate as Big Tech mulls over moats"
+    excerpt: "With a raft of recent successes, the open source AI community is partying. A Google engineer's leaked memo, on the other hand, signals Big Tech worries."
+    publishedDateTime: 2023-05-15T18:38:00Z
+    webUrl: "https://venturebeat.com/ai/open-source-ai-continues-to-celebrate-as-big-tech-mulls-over-moats/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 47
   - title: "How Long Will the Open-Source AI Boom Last?"
     excerpt: "There are now smaller, cheaper versions of the best-in-class AI models created by the big firms that (almost) match them in performance — and they’re available to share for free."
     publishedDateTime: 2023-05-12T13:24:00Z

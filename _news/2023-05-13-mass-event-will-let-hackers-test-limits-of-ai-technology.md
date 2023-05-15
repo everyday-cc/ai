@@ -57,15 +57,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Hackers to test limits of AI technology at Las Vegas event"
-    excerpt: "OpenAI and other major AI providers are coordinating with the Biden administration to let thousands of hackers take shots at testing the limits of their technology."
-    publishedDateTime: 2023-05-11T03:56:00Z
-    webUrl: "https://www.nbcnews.com/tech/tech-news/mass-event-will-let-hackers-test-limits-ai-technology-rcna83708"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 49
 
 secured: "Q02aP2KmSnPN+1LC9gM0hSpw9QEGdPUtJaTTq1nzEahMxxCsG5/qVYfNIrG1zGWx0tv/jclJm5z2vcy3ZLsJ+H4opyz12FuyaRBxsjg89Fig8ppMB+Wo8OJ/NjJYdTIJqKEc4vGKoRYgEvsWLOCLNIvNmrfvHb9grEQTWBvSWaLv5pMymTlhL0ntw83VAu/roDOZdNfuVgfSXW8+QxA1U/uk0XpYAhk5KNsW6yvD8Y2Zp9QYJltMkQ/ER38P7PQFrWXEt3RjaCvnP0qMzL+F3K03zd1PQnlats5O7S0QlzScM3VYFGxl/3hQ1Ibgw0CiXPjTLqhxTy1oGbzc+V8UeMAdAPS4oXUyZEi4Fm7DlTn8XyXPo9z3rrgt0uPSBNcBXLcoYyVg0kWg2K5iMqpMpxA52UsO5OE9CagCLbn553wgHOkUwVU2KvaeslOImLPX+Y7o7IuPahsFX6rWclPIZoQh6hSMIeVQR0JFKMk1urAHzdkicj5F14xiYA+TGzm3RCCV3LSBcAzOSG+FB/AikA==;aGATf4t557ED3XzRK8WEeg=="
 ---

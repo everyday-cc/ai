@@ -33,6 +33,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "5 ways AI-driven patch management is driving the future of cybersecurity"
+    excerpt: "Cybersecurity vendors are fast-tracking risk-based vulnerability management, AI and machine learning to keep patch management current."
+    publishedDateTime: 2023-05-15T19:07:00Z
+    webUrl: "https://venturebeat.com/security/5-ways-ai-driven-patch-management-is-driving-the-future-of-cybersecurity/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 46
   - title: "Parablu to Deliver Microsoft Azure-Hosted Cybersecurity and Data Resiliency SaaS Solutions"
     excerpt: "PRNewswire/-- Parablu, a global provider of SaaS-based data protection and management solutions for endpoints, on-premises, and cloud environments, today announced a multi-year agreement with Microsoft that integrates engineering,"
     publishedDateTime: 2023-05-15T13:49:00Z

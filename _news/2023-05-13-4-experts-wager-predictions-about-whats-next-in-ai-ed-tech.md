@@ -9,7 +9,7 @@ ampWebUrl: "https://www.govtech.com/education/k-12/4-experts-wager-predictions-a
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/k-12/4-experts-wager-predictions-about-whats-next-in-ai-ed-tech?_amp=true"
 type: article
 quality: 59
-heat: 69
+heat: -1
 published: false
 
 provider:
@@ -27,15 +27,20 @@ images:
     isCached: true
 
 related:
-  - title: "AI-powered tech to aid Cooper team in Alzheimer’s detection"
-    excerpt: "Early detection is a key step in timely and accurate diagnosis so that patients can get emerging treatments and early-stage interventions,” said DigiCARE Realized CEO Brittany Cassin."
-    publishedDateTime: 2023-05-15T16:43:00Z
-    webUrl: "https://njbiz.com/ai-powered-tech-to-aid-cooper-team-in-alzheimers-detection/"
+  - title: "Vintage AI Predictions Show Our Hopes and Fears Aren’t New—Even If the Tech Is"
+    excerpt: "Men and women took a swan dive into neural nets and deep learning long before they had the computing power to make their imaginations a reality."
+    publishedDateTime: 2023-05-15T20:10:00Z
+    webUrl: "https://gizmodo.com/ai-chatbot-chatgpt-tech-1850433697"
     type: article
     provider:
-      name: NJBIZ
-      domain: njbiz.com
-    quality: 17
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 63
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/092b049c74d002ff2c9f1fd67e1f7baf.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "6wBS/1yzQN0+KQBAX0Q4gYNRgTwvuT9EvjrtXJYJS8n2USzYoEn15e226XhKxkOw7QMvft1paZBKahO4c0GYHewzq4O/JlVWQrernvk4poxgjX0612xqdb6WuVll3DZeI7TWIg0voK35a/eeBGavexzuZFsFEfPIXZM0tXI1bz70aWB96qdO4QhgD0tPUa6xEMGEuvk6Z0MaunEerdGMYa3hZJ4Br3P/3m7NIVw3+ty6XLSLjPTHzh58WKE3Uz++9VBjOPWP+Esy0njXmWBxT1rTwvbB2ZqGN41VKg0PNIY9khqpOqBjhG4WL3556lokZ/1gmD61OQMGaUOUmdUKyvm1bjwvz0DLwLspuxfJ7vQ=;xDv6ox8EPSBVgl+TZMETTA=="
 ---

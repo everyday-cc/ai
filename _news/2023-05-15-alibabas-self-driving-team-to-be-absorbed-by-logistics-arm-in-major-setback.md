@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "Alibaba’s autonomous driving lab to focus more on monetization"
+    excerpt: "Damo’s autonomous vehicle lab will merge into Cainiao, Alibaba’s global logistics network, and will no longer operate under the basic research institute. The news was first reported by the state-affiliated China Securities Journal."
+    publishedDateTime: 2023-05-15T18:18:00Z
+    webUrl: "https://techcrunch.com/2023/05/15/alibaba-autonomous-driving/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 34
   - title: "Alibaba's logistics division to absorb self-driving business"
     excerpt: "These vehicles have L4 self-driving capability and automatically calculate optimal routes and avoid obstacles when delivering parcels. L4 autonomy means the car can drive by itself in most conditions without a human backup driver. Alibaba received approval ..."
     publishedDateTime: 2023-05-15T09:38:00Z

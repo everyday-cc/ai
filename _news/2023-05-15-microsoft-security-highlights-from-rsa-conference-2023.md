@@ -60,22 +60,6 @@ related:
         width: 630
         height: 330
         isCached: true
-  - title: "Top 10 Google AI Products To Take On Amazon, ChatGPT And Microsoft"
-    excerpt: "It was all about AI as Google I/O 2023 kicked off at Google headquarters in Mountain View, California with a keynote by CEO Sundar Pichai. Here are the top ten AI products and features to watch for from the tech giant in the coming months and how to sign up to become a tester."
-    publishedDateTime: 2023-05-11T01:17:00Z
-    webUrl: "https://www.forbes.com/sites/martineparis/2023/05/10/top-10-google-ai-products-to-take-on-amazon-microsoft-and-chatgpt/"
-    ampWebUrl: "https://www.forbes.com/sites/martineparis/2023/05/10/top-10-google-ai-products-to-take-on-amazon-microsoft-and-chatgpt/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martineparis/2023/05/10/top-10-google-ai-products-to-take-on-amazon-microsoft-and-chatgpt/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 104
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/645c46a1baf555e1902796dd/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 805
-        isCached: true
   - title: "Google Fights Back Against Microsoft With New AI Search Capabilities"
     excerpt: "Google CEO Sundar Pichai has announced that the AI chatbot Bard is open to all, AI is coming to almost all Google products and new search experiences are on the way"
     publishedDateTime: 2023-05-12T12:35:00Z
@@ -265,6 +249,6 @@ related:
       domain: tmcnet.com
     quality: 20
 
-secured: "rwIKd5w6O7Gynkmzh6Q3Df4XwY1UV9pTn+IT7WNLu7f5ItSLNSXQNyT/HzpIf/l6VjpjzFeiPg5QpNjdfI9MQfy/5YHSCNpLM7r6+AqqVAxdJQpUMuEiAbslZVEWRCyJemALwqMjHAUjd1rzVKYtv1cWSUs/wGfo7md4j/F0q9QE1q7u2qhcdTdTgDw2n6ekSadG8+LaivRW0VnZBUXQN7+AmRKlc3S9YTTgufCF+u3souawWLPBpUzLKY5YmQOYYr4UomB4QL9B2qFCZ1G6NekSQrT4BrvxQc4vDO21WLrmSyYetKEi1sBuF/qBKCz+M8ZTOs4m4zy/vS+weedGaTGuJy1dsuF+PgrQxP1fPP0=;0Ie/D4ZsKZKxAUJNOeHi1Q=="
+secured: "GueKBvai+AHQCuhoLbP9nfTLlIKNLR/MO74PJL3n+BGf4TZxUiRs0tOIbfw+wO1nwVjsd81QjvbCcaKdvTbCD/RBqsNxSFwp94ahwqVM/yFHCc+8YMzi1a7b8pN97W9qr6oJRFAo+IlnzfN5iliOO6soQA3BNqbLYOBSS7TEyfJdCyFbxifl2SWGuuBfllNHWGdiRhmNYDToahdfbw3EjQdO1SmRkFR9yZyd83wAa+H74myjWZ2IGrddEWPrceT8dp5ttQdd4I//8C6PO6GfXQiAW82+xagIdKASyZWw01UnJ/Tmp+Q3UoKrULRvymYZYflv9P7jlahi3inD9mqhxqEsXejiiKxvd7yS7uEtsmT9q8tH2PQVRJQlaWc9mhkfIMK9k6TTVmZgwYsEnacOeFeRRQXoQmm7bwCO32ud4X3+WepqRX3zJO9eQ74MU+B+7W0G/96SkXE2zO5Sg0BjwXBUizGcU+ii/vVOuNbHX7a0EUxdi+CuYyIK6RjjrBariKhbuFaWK/YVC05m2LswsQ==;DQrRkK6SlDtPAVFU5rXtaA=="
 ---
 

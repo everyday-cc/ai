@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/ai-presents-political-
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/ai-presents-political-peril-2024-threat-mislead-voters-99313712"
 type: article
 quality: 57
-heat: 77
+heat: 97
 published: true
 
 provider:
@@ -46,6 +46,24 @@ related:
       name: The Maui News
       domain: mauinews.com
     quality: 17
+  - title: "AI presents political peril for 2024 with threat to mislead voters"
+    excerpt: "Thanks to recent advances in artificial intelligence, tools that can create lifelike photos, video and audio are now cheap and readily available."
+    publishedDateTime: 2023-05-15T18:56:00Z
+    webUrl: "https://www.ksl.com/article/50644551/ai-presents-political-peril-for-2024-with-threat-to-mislead-voters"
+    type: article
+    provider:
+      name: KSL
+      domain: ksl.com
+    quality: 17
+  - title: "AI tools present political peril in 2024 with threat to mislead voters: 'Not prepared for this'"
+    excerpt: "When combined with the powerful algorithms of social media, experts say political misinformation generated using AI has the potential to spread farther and faster than ever before."
+    publishedDateTime: 2023-05-15T19:06:00Z
+    webUrl: "https://www.fox5dc.com/news/ai-tools-present-political-peril-in-2024-with-threat-to-mislead-voters-not-prepared-for-this"
+    type: article
+    provider:
+      name: Fox 5
+      domain: fox5dc.com
+    quality: 5
 
 secured: "4fT06Zav1EiPRPYHn7IwkPPOfEo9TfO63TXF0vuwycoC1QzvIwCT9GcYv7sNxHxw3ojlWCAruAsmIzSBu+4H8UOSDcsOs3noaafhQcPtDA3CU1oGggvpkrAw+qPRVZx6eyo9Z0qAjB+evW3uNDBgByRq9sev+hYH95OPz0qNzbYwBhfs4IKqITqo1Ip1nmFQNsofxA1KPQfh3IdQfwEpTb/JHOu6fU0F9MSab9Vj3x819gpDJGaZkZFRH8nUDu6dyBYh3vKndKeQLbGkoSDRN7dxsIBm5LIwOn5/YkJos3tWis281Rtitb8ELweNPX6Y6vciuyWbUBEiVf/n2HiUPCTqLPfITu3IbENMxu1oed2gWOOyr9558CNVe4eUEOgPIdb1AHWuxRdxyNZajD2YWVkAk9L2WOuiszBP/ZQazTOYJuOo4ov2a8loXHLKpY0uMjwKgQWDMMRj+L+AsXJd/MVM2R++U2vCISjBbSZp5MjkUfJZegTPKoXAoOpmFAvpWCd8cnipgfHk9h42RkT3xQ==;k4eT1BIuRM0Ir8i/amVkXw=="
 ---

@@ -36,20 +36,15 @@ related:
       name: TechRepublic
       domain: techrepublic.com
     quality: 68
-  - title: "Redefining AI with watsonx: Highlights from IBM Think 2023"
-    excerpt: "Chairman and CEO Arvind Krishna address the attendees at the IBM Think event. (Source – IBM) At the annual Think conference, IBM presented watsonx, an AI platform set to boost AI use and scalability in any cloud setting."
-    publishedDateTime: 2023-05-11T04:01:00Z
-    webUrl: "https://techwireasia.com/2023/05/redefining-ai-with-watsonx-highlights-from-ibm-think-2023/"
+  - title: "IBM Launches watsonx: Paving A Path To Faster Enterprise AI Adoption"
+    excerpt: "Exploring the new IBM watsonx offering. A full tech stack for training, deploying, and supporting AI capabilities across any cloud environment, as well as a model library that includes foundation models vetted and curated by IBM."
+    publishedDateTime: 2023-05-15T18:22:00Z
+    webUrl: "https://www.forbes.com/sites/danielnewman/2023/05/15/ibm-launches-watsonx-paving-a-path-to-faster-enterprise-ai-adoption/"
     type: article
     provider:
-      name: techwireasia.com
-      domain: techwireasia.com
-    quality: 56
-    images:
-      - url: "https://cdn.techwireasia.com/wp-content/uploads/2023/05/arvind-897x500.jpg"
-        width: 897
-        height: 500
-        isCached: true
+      name: Forbes
+      domain: forbes.com
+    quality: 64
   - title: "How IBM’s Watson X is Scripting the End of Business As We Know it"
     excerpt: "Banking on its strength as an enterprise-focused company, and with many organisations already using its Watson chatbot, the company is looking to revive its former glory with this next-generation technology."
     publishedDateTime: 2023-05-12T06:47:00Z

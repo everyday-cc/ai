@@ -7,7 +7,7 @@ originalUrl: "https://www.marinetechnologynews.com/news/nauticus-robotics-millio
 webUrl: "https://www.marinetechnologynews.com/news/nauticus-robotics-million-contract-628103"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -23,6 +23,19 @@ images:
     width: 799
     height: 419
     isCached: true
+
+related:
+  - title: "Nauticus Robotics Reports First Quarter 2023 Results and Provides Business Update"
+    excerpt: "Nauticus Robotics, Inc. (\"Nauticus\" or the \"Company\") (NASDAQ:KITT), a developer of autonomous robots using artificial intelligence for data collection and intervention"
+    publishedDateTime: 2023-05-15T20:05:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/05/g32405015/nauticus-robotics-reports-first-quarter-2023-results-and-provides-business-update"
+    ampWebUrl: "https://www.benzinga.com/amp/content/32405015"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32405015"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 49
 
 secured: "4AO+0+PrH4DWVw7qL+27uRrY6EnsbVRgXDkjlFv++ybw/rk2fJleEq4aqsw/PWYBEnQg1aQB5xDXWTKiZuIqfYYaiTPNqZqt2MbtxJ/N4ZZ9AxJIWHNwi5qgfBvroNVbsMQF5hmZKnePqknGznDBDGhz6XNs8wUe9pezvqKt6JRCSQ7SHiEisVoltnSHtbTnxQ38tvRRJShri6ZRLTYfT2o+PZskEyi8KS3a9kf2s1iduzPoRBVdRMRzdlMdw+RF1RK3juS5REoWaoNXCJ1kxQXLLkjF48/ffjCwb2VSbEgP2sDBSQyZZtXvCe/fkN9k0nnNSB7PQd1Tbeqea/Ww8hoXhYodq0d5llS/3LoZaIB6TYV0SBIWLb3X3hVDy01IuOJCoNkGaraXbImqLxlyTOxGzS+V7r3AljU0xgO3p6G68WnQz/mguinkqez5DSn7UbJap/eaQEKS4BN8ZPEkkkfa7Ej5JnCQK5UeV/I+28UrFA379DyLGqO+V2hpQdfRYTpyRPus6mdq6YW+cqke4g==;wsFQOSvgbQTzUtpouxmhgg=="
 ---

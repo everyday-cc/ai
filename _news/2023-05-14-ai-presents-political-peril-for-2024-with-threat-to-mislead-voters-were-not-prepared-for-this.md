@@ -45,6 +45,24 @@ related:
       name: The Maui News
       domain: mauinews.com
     quality: 17
+  - title: "AI presents political peril for 2024 with threat to mislead voters"
+    excerpt: "Thanks to recent advances in artificial intelligence, tools that can create lifelike photos, video and audio are now cheap and readily available."
+    publishedDateTime: 2023-05-15T18:56:00Z
+    webUrl: "https://www.ksl.com/article/50644551/ai-presents-political-peril-for-2024-with-threat-to-mislead-voters"
+    type: article
+    provider:
+      name: KSL
+      domain: ksl.com
+    quality: 17
+  - title: "AI tools present political peril in 2024 with threat to mislead voters: 'Not prepared for this'"
+    excerpt: "When combined with the powerful algorithms of social media, experts say political misinformation generated using AI has the potential to spread farther and faster than ever before."
+    publishedDateTime: 2023-05-15T19:06:00Z
+    webUrl: "https://www.fox5dc.com/news/ai-tools-present-political-peril-in-2024-with-threat-to-mislead-voters-not-prepared-for-this"
+    type: article
+    provider:
+      name: Fox 5
+      domain: fox5dc.com
+    quality: 5
 
 secured: "ZnNuWl8onvv4cADkix/ESDUSr8Fw7sPscdIVp4BH2cyez2zNNuKItKTSV/AKZ0+zc7V07ppG7VvgQc5+yA0fj/mp1OEEi2ip6AmkaeoS9xqZIR0CMwXvy66oXIn+9acHWjgdzvO+pUVeNxrGs1OGaFT5KJ+QuIKFd3FIddbNbnJA04s9QjKLce0sJ9iD6e5Ga0cJTvAbYkh1AQgmc2QWpsvILONy5CdV7TkUZxSMGQami49cWI7aQpAxX5cvd2SlUKQuaTxQtVlQN1XURDKZu4IASton7viDX/tA3vgqPUoV4BtXeDiN8bogFXcnAy4wJpIxtAKPzto6vdq9PwJhwTsL9nocxZBNCx76hpnRRYx+R9mE0Z6N02MZNoxxij6H2tIYKssshocvqsLBNAOvV1wUW1WKm9UQRzxBbuk6ocyCQSo8Tn3KNfcNwF5smunBV1Ixb6B54zUa1+roJ3y2hvEM0hyhLQFVtrKmslK+J/qkCr3/AedapNIBcARnaJvUQEIQxBeTuATorcfJTv4Jpw==;tepJwnUCT9p9eZ6LMseGWg=="
 ---

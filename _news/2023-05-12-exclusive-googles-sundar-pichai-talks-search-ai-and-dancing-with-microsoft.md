@@ -7,8 +7,8 @@ originalUrl: "https://www.theverge.com/2023/5/12/23720731/google-io-2023-exclusi
 webUrl: "https://www.theverge.com/2023/5/12/23720731/google-io-2023-exclusive-sundar-pichai-search-generative-experience-ai-microsoft-bing-chatgpt"
 type: article
 quality: 80
-heat: 100
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Verge
@@ -29,35 +29,35 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft is the stock to buy as it leads the AI arms race while Alphabet continues to play catchup with Bard, according to Wedbush"
-    excerpt: "\"We continue to strongly believe that Microsoft's game changing early investment in ChatGPT got the key head start on the AI front,\" Wedbush said."
-    publishedDateTime: 2023-05-11T14:45:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/microsoft-stock-buy-leads-ai-arms-race-chatgpt-alphabet-bard-2023-5"
-    ampWebUrl: "https://markets.businessinsider.com/news/stocks/microsoft-stock-buy-leads-ai-arms-race-chatgpt-alphabet-bard-2023-5?amp"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/news/stocks/microsoft-stock-buy-leads-ai-arms-race-chatgpt-alphabet-bard-2023-5?amp"
+  - title: "Fmr. Google CEO says no one in government can get AI regulation 'right'"
+    excerpt: "OpenAI CEO Sam Altman is slated to testify before Congress as lawmakers seek to determine how to regulate the rapidly evolving technology. On Meet the Press Reports, former Google CEO Eric Schmidt says there's \"no one in the government\" who can get regulation right."
+    publishedDateTime: 2023-05-15T21:13:00Z
+    webUrl: "https://www.nbcnews.com/meet-the-press/video/fmr-google-ceo-says-no-one-in-government-can-get-ai-regulation-right-174442053869"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo174442053869"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo174442053869"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 76
+      name: NBC News
+      domain: nbcnews.com
+    quality: 87
     images:
-      - url: "https://i.insider.com/645cf5bf65275b0018b7fce3?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_05/1684184943076_now_mtp_clip_reports_230515_1920x1080-hqq020.jpg"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "Triumph Tech CEO: AWS Will Win ‘AI War’ Vs. Google, Microsoft"
-    excerpt: "Generative AI market of Amazon, Google and Microsoft’s OpenAI ChatGPT will be won by AWS due to the cloud company’s artificial intelligence customization and scalability, says Triumph Technology Solutions CEO."
-    publishedDateTime: 2023-05-12T15:29:00Z
-    webUrl: "https://www.crn.com/news/cloud/triumph-tech-ceo-aws-will-win-ai-war-vs-google-microsoft"
+  - title: "Governments' race to regulate AI tools"
+    excerpt: "Rapid advances in artificial intelligence such as OpenAI's ChatGPT are complicating governments' efforts to agree to laws governing the use of the technology. Here are the latest steps national and international governing bodies are taking to regulate AI tools. Ilan Rubens reports."
+    publishedDateTime: 2023-05-12T07:59:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOV167211052023RP1"
     type: article
     provider:
-      name: CRN
-      domain: crn.com
-    quality: 71
+      name: Reuters
+      domain: reuters.com
+    quality: 67
     images:
-      - url: "https://www.crn.com/resources/0281-17fee2fdcd7a-2e9db2bde58c-1000/vic-raymond.jpeg"
-        width: 611
-        height: 458
+      - url: "https://static.reuters.com/resources/r/?d=20230511&i=OV167211052023RP1&r=OV167211052023RP1&t=2"
+        width: 960
+        height: 540
         isCached: true
 
 secured: "19IAe1aPVMzLlRoOlka5V7YiabuMHZEpN40oJjbD8ViG/7jo0k1hrabf/Uv6oLXCl24eGGSCnc0lbR8EKAE8dTtgT0sr57CXEKmQSLDchaGzHXtdeiYog1b7/6Z62mdOO3SZvXgvCPBAJhrhPlEqmlNi1LfXM87XCSUx5MtPwg0ZlVIst/AYZHP5Mg4NlLr6R+UG2aPiVjyxge4n+RI9FaDtkH4i/sFtOGIl2ctbfFWW9wVEeOoYI6h2TYOJhWioJO/kLOD7bQPa0eX6ArQfgWc1W9M9dS8vQLkzsIL5r88OdUJUlkAqZpn3aAk4gxy+Qt9IGDAH/tE2KCFmHO0x+D6I4mI4W+/icpM/klDNHBPVkx0ckBHSi7Rdf54y35SOqwadwmi1o1QyR/poSfRVuPpKpDEUNO9IzViI+t7XMofRqi13212yKqWLIAjHdNDioerpe3M+yHaYWBIZYJDf7Kpte45djuoJStGeslfXBhEfOcVs/QFSwY3c/tRcZ3XYItHAYUTol+uI5/2IXRXbZw==;klEOKzVzfGajcYZihlT7OA=="

@@ -18,22 +18,40 @@ topics:
   - AI
 
 related:
-  - title: "4 Experts Wager Predictions About What's Next in AI, Ed Tech"
-    excerpt: "Experts in technology, education and artificial intelligence expect the next generation of tools will empower students, give them more autonomy over their education and generate more data as well as risks."
-    publishedDateTime: 2023-05-12T20:33:00Z
-    webUrl: "https://www.govtech.com/education/k-12/4-experts-wager-predictions-about-whats-next-in-ai-ed-tech"
-    ampWebUrl: "https://www.govtech.com/education/k-12/4-experts-wager-predictions-about-whats-next-in-ai-ed-tech?_amp=true"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/k-12/4-experts-wager-predictions-about-whats-next-in-ai-ed-tech?_amp=true"
+  - title: "A self-administered mobile app to detect Alzheimer's disease using speech data"
+    excerpt: "Alzheimer's disease (AD) is the most common form of dementia. It is important to start intervention from an early stage, e.g., the mild cognitive impairment (MCI) stage, to prevent or delay the progression of AD."
+    publishedDateTime: 2023-05-11T16:51:00Z
+    webUrl: "https://medicalxpress.com/news/2023-05-self-administered-mobile-app-alzheimer-disease.html"
+    ampWebUrl: "https://medicalxpress.com/news/2023-05-self-administered-mobile-app-alzheimer-disease.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-05-self-administered-mobile-app-alzheimer-disease.amp"
     type: article
     provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 59
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 40
     images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/bcf2836/2147483647/strip/true/crop/940x490+0+68/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F42%2Fa7%2F51531ad3d4e4ae15f9a84c8a2112%2Fshutterstock-1016367682.jpg"
-        width: 840
-        height: 438
+      - url: "https://scx2.b-cdn.net/gfx/news/2023/self-administered-mobi.jpg"
+        width: 1076
+        height: 674
         isCached: true
+  - title: "Machine learning model able to detect signs of Alzheimer's across languages"
+    excerpt: "Researchers are striving to make earlier diagnosis of Alzheimer's dementia possible with a machine learning (ML) model that could one day be turned into a simple screening tool anyone with a smartphone could use."
+    publishedDateTime: 2023-05-15T18:03:00Z
+    webUrl: "https://medicalxpress.com/news/2023-05-machine-alzheimer-languages.html"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 17
+  - title: "Fighting Alzheimer’s with AI: Raleigh company working with global giant to develop treatment plans"
+    excerpt: "Alzheimer's Disease and dementia have long been feared by many, especially those with first-hand experience. Raleigh-based uMETHOD is working with global giant Quest Diagnostics to help address those fears driven in part by the experiences of its company founder who says the issues are \"personal to me."
+    publishedDateTime: 2023-05-15T11:53:00Z
+    webUrl: "https://wraltechwire.com/2023/05/15/fighting-alzheimers-with-ai-raleigh-company-working-with-global-giant-to-develop-treatment-plans/"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 3
 
 secured: "IYQyzZAEABLuC7ePnUMVZZZodLUmht7adUQZ1XvsvbdmRvv4FZf0oZ67L9suA32GU1Ox46ZKpUryWxucdO1hT9dKZBDjgG6PdtY1cWTiu5NLQ+WAZ+3SCkJvmj6I0WpCL2yYrCRsj0cwZxbvlIyqPwZbkBUkZ8sWzm3sHZfYscGb74ZKd/WL7Gr8AxC5FT3CkHtubvW2X4J4XywbHaWcKy/XHbDZI90wqVW0x8FvjG+0zZl4N5O48RiWWS742bCNmf++OdiDXQjGGQN++o7h2a6gjMCL9sVvuSr05wexvuuqBc/GZNP68EfhHKkWkU4BtuYwCN5naFa1wkZnHF0MiEWCjSpheY4Qc26riE/C1lw1jm6NFuuSO8G2ZreDZDf6zKnH/4wzO9Ck5aQ+GcZvN32b3U4FiNPEgjzLwE0GFkxzahDlJ+RYfEQ8EO+rR1TN96pVABk55nbOVI7EwMjeg/KfjlMeYOaLx9er9x3fc23sNipIoKPXkOqrbK32pNmZKNl1WOs/w0snWQPpOv8w/A==;Y3N1tPzeO1ZFfcwnLKkfVg=="
 ---

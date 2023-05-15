@@ -45,22 +45,6 @@ related:
         width: 1200
         height: 803
         isCached: true
-  - title: "Top 10 Google AI Products To Take On Amazon, ChatGPT And Microsoft"
-    excerpt: "It was all about AI as Google I/O 2023 kicked off at Google headquarters in Mountain View, California with a keynote by CEO Sundar Pichai. Here are the top ten AI products and features to watch for from the tech giant in the coming months and how to sign up to become a tester."
-    publishedDateTime: 2023-05-11T01:17:00Z
-    webUrl: "https://www.forbes.com/sites/martineparis/2023/05/10/top-10-google-ai-products-to-take-on-amazon-microsoft-and-chatgpt/"
-    ampWebUrl: "https://www.forbes.com/sites/martineparis/2023/05/10/top-10-google-ai-products-to-take-on-amazon-microsoft-and-chatgpt/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martineparis/2023/05/10/top-10-google-ai-products-to-take-on-amazon-microsoft-and-chatgpt/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 104
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/645c46a1baf555e1902796dd/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 805
-        isCached: true
   - title: "Google Fights Back Against Microsoft With New AI Search Capabilities"
     excerpt: "Google CEO Sundar Pichai has announced that the AI chatbot Bard is open to all, AI is coming to almost all Google products and new search experiences are on the way"
     publishedDateTime: 2023-05-12T12:35:00Z

@@ -38,20 +38,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Governments' race to regulate AI tools"
-    excerpt: "Rapid advances in artificial intelligence such as OpenAI's ChatGPT are complicating governments' efforts to agree to laws governing the use of the technology. Here are the latest steps national and international governing bodies are taking to regulate AI tools. Ilan Rubens reports."
-    publishedDateTime: 2023-05-12T07:59:00Z
-    webUrl: "https://www.reuters.com/video/watch/idOV167211052023RP1"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 67
-    images:
-      - url: "https://static.reuters.com/resources/r/?d=20230511&i=OV167211052023RP1&r=OV167211052023RP1&t=2"
-        width: 960
-        height: 540
-        isCached: true
   - title: "Is Reddit's \"Am I the Asshole?\" Forum the AI Counterbalance We All Need?"
     excerpt: "Reddit's chief technology officer says he approves of AI-created content in its forums--as long as the bots are forthright abou"
     publishedDateTime: 2023-05-15T11:03:00Z

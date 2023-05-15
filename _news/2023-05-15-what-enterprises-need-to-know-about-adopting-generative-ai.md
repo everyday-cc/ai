@@ -90,6 +90,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Generative AI Empowers Users but Challenges Security"
+    excerpt: "With the introduction of generative AI, even more business users are going to create low-code/no-code applications. Prepare to protect them."
+    publishedDateTime: 2023-05-15T19:39:00Z
+    webUrl: "https://www.darkreading.com/edge-articles/generative-ai-empowers-users-but-challenges-security"
+    type: article
+    provider:
+      name: Dark Reading
+      domain: darkreading.com
+    quality: 56
+    images:
+      - url: "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt9e4903423b90ee49/64626bd3dc45a2b53749d78e/roadguardrails-Gartland-alamy.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "7 ways generative AI is being used in healthcare"
     excerpt: "Generative artificial intelligence is already being used in the healthcare industry to help lower costs and improve efficiency."
     publishedDateTime: 2023-05-11T16:44:00Z
@@ -133,20 +147,6 @@ related:
       - url: "https://i.gadgets360cdn.com/large/meta_image_reuters_1654769238524.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Google to revamp search with generative AI tools, but gradually"
-    excerpt: "The approach insulates Google from some of the ethical concerns surrounding generative AI. Read more at straitstimes.com."
-    publishedDateTime: 2023-05-11T01:52:00Z
-    webUrl: "https://www.straitstimes.com/world/united-states/google-to-revamp-search-with-generative-ai-tools-but-gradually"
-    type: article
-    provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 39
-    images:
-      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2023/05/11/GOOGLEAI7.JPG?VersionId=reNH981AG40mKLjaJ4zZiHurml9tao66"
-        width: 860
-        height: 573
         isCached: true
   - title: "Meta to start testing generative AI tools for advertisers"
     excerpt: "The generative AI ad tool AI Sandbox is currently being released to a small group of advertisers and will see a bigger release in July."

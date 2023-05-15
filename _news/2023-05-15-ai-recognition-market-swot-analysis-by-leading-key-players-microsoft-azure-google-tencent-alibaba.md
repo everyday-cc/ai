@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/ai-recognition-market-sw
 webUrl: "https://www.marketwatch.com/press-release/ai-recognition-market-swot-analysis-by-leading-key-players-microsoft-azure-google-tencent-alibaba-2023-05-15"
 type: article
 quality: 84
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -57,6 +57,15 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "SAP taps Microsoft AI Copilot to streamline hiring and upskilling for enterprises"
+    excerpt: "SAP today announced a plan to integrate Microsoft AI Copilot and Azure OpenAI service with its SuccessFactors suite of solutions."
+    publishedDateTime: 2023-05-15T17:57:00Z
+    webUrl: "https://venturebeat.com/ai/sap-taps-microsoft-ai-copilot-to-streamline-hiring-and-upskilling/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 59
   - title: "SoftBank Says Goodbye to Alibaba, Hello to More AI Investments"
     excerpt: "The Japanese tech investor said it was ready to go on the offensive again with its eye on artificial-intelligence companies."
     publishedDateTime: 2023-05-11T19:41:00Z

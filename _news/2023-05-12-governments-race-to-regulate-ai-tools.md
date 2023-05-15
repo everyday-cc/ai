@@ -28,40 +28,36 @@ images:
     isCached: true
 
 related:
-  - title: "Hear Reddit co-founder’s response when asked if Government is equipped to regulate AI"
-    excerpt: "Reddit co-founder Alexis Ohanian joins CNN's Chris Wallace to discuss artificial intelligence and if the Government is equipped to regulate it."
-    publishedDateTime: 2023-05-13T03:02:00Z
-    webUrl: "https://www.cnn.com/videos/business/2023/05/13/alexis-ohanian-artificial-intelligence-government-regulation-ai-reddit-wallace-sot-contd-wtcw-vpx.cnn"
-    ampWebUrl: "https://amp.cnn.com/cnn/videos/business/2023/05/13/alexis-ohanian-artificial-intelligence-government-regulation-ai-reddit-wallace-sot-contd-wtcw-vpx.cnn"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/business/2023/05/13/alexis-ohanian-artificial-intelligence-government-regulation-ai-reddit-wallace-sot-contd-wtcw-vpx.cnn"
+  - title: "Fmr. Google CEO says no one in government can get AI regulation 'right'"
+    excerpt: "OpenAI CEO Sam Altman is slated to testify before Congress as lawmakers seek to determine how to regulate the rapidly evolving technology. On Meet the Press Reports, former Google CEO Eric Schmidt says there's \"no one in the government\" who can get regulation right."
+    publishedDateTime: 2023-05-15T21:13:00Z
+    webUrl: "https://www.nbcnews.com/meet-the-press/video/fmr-google-ceo-says-no-one-in-government-can-get-ai-regulation-right-174442053869"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo174442053869"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo174442053869"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
+      name: NBC News
+      domain: nbcnews.com
+    quality: 87
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_05/1684184943076_now_mtp_clip_reports_230515_1920x1080-hqq020.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Exclusive: Google’s Sundar Pichai talks Search, AI, and dancing with Microsoft"
+    excerpt: "Sundar Pichai is the CEO of Google and Alphabet. We spoke the day after Google I/O, the company’s big developer conference, where Sundar introduced new generative AI features in virtually all of the company’s products."
+    publishedDateTime: 2023-05-12T09:00:00Z
+    webUrl: "https://www.theverge.com/2023/5/12/23720731/google-io-2023-exclusive-sundar-pichai-search-generative-experience-ai-microsoft-bing-chatgpt"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
     quality: 80
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/230512224047-alexis-ohanian-wtcw-vpx-super-tease.jpg"
-        width: 1100
-        height: 619
+      - url: "https://cdn.vox-cdn.com/thumbor/3VCetxdhkZhF8Ji6_iRD6u78BeM=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24652338/236655_Decoder_Sundar_Pichai_WJoel.jpg"
+        width: 1200
+        height: 628
         isCached: true
-  - title: "How Real People Are Caught Up In Reddit’s AI Porn Explosion"
-    excerpt: "As text-to-image generators become easy to build, use and customize, AI-generated porn communities are burgeoning on Reddit. But these synthetic sexual photos are built on non-consensual images of real people,"
-    publishedDateTime: 2023-05-11T10:30:00Z
-    webUrl: "https://www.forbes.com/sites/rashishrivastava/2023/05/11/reddit-ai-generated-porn/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
-  - title: "Is Reddit's \"Am I the Asshole?\" Forum the AI Counterbalance We All Need?"
-    excerpt: "Reddit's chief technology officer says he approves of AI-created content in its forums--as long as the bots are forthright abou"
-    publishedDateTime: 2023-05-15T11:03:00Z
-    webUrl: "https://www.inc.com/stephanie-mehta/is-reddits-aita-forum-the-counterbalance-to-ai-we-all-need.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 16
 
 secured: "gLPA0YjHTQlFTRp5PUwPOacH8AUh79wC5QvqEjW3uiT2L9A7GL1z3oe01dePwtfECInLo3UVDH3OFgxJ55WSCKqW19KGOZ5KsIuAHoOMHtivg75zwR8rYIVxNtNzo93mUd2vY7Lk7LEJ/f9Fk31/oIrW7gssR7YO3rK669fwrlPJeAJ+WjeDfT2bgTGlm2NG2twShMRek3GpfOECGwMaj02mK4ydRj+cfBORkmGxXAaO6xpMVqMbDOlPwr2Km6zYgHRMm65MdrJR0ZYmHdUVwiolOFFFypHgvmxnm7rrUleivmtu55K86gI4cybK0YpaXjFeIGAEUj85420jnP+jVGq37kpfNdqlLkxpqbCgfiM=;jyHD3PUqGqsCEhQpGJA1nQ=="
 ---

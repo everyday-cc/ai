@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/video-analytics-and-arti
 webUrl: "https://www.marketwatch.com/press-release/video-analytics-and-artificial-intelligence-market-2023-05-12"
 type: article
 quality: 67
-heat: -1
-published: false
+heat: 107
+published: true
 
 provider:
   name: MarketWatch
@@ -28,61 +28,21 @@ images:
     isCached: true
 
 related:
-  - title: "Machine Learning & Big Data Analytics Education Market"
-    excerpt: "Research Reports has published a new report titled as \"Machine Learning and Big Data Analytics Education Market\" by"
-    publishedDateTime: 2023-05-11T01:18:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-big-data-analytics-education-market-2023-05-10"
+  - title: "Forget Cambridge Analytica — Here’s how AI could threaten elections"
+    excerpt: "AI could contribute to the spread of disinformation globally, and to mitigate it, governments, social media companies and education will each have a big role to play."
+    publishedDateTime: 2023-05-12T12:00:00Z
+    webUrl: "https://cointelegraph.com/news/forget-cambridge-analytica-here-s-how-ai-could-threaten-elections"
+    ampWebUrl: "https://cointelegraph.com/news/forget-cambridge-analytica-here-s-how-ai-could-threaten-elections/amp"
+    cdnAmpWebUrl: "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/forget-cambridge-analytica-here-s-how-ai-could-threaten-elections/amp"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 86
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 59
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Machine Learning & Big Data Analytics Education Market 2023 to Hit Statistical Significance Value by 2030"
-    excerpt: "The Machine Learning and Big Data Analytics Education Market is Expected to Lead During the Forecast Period 2023-2030 in Information and Communication Technology, Information Technology Sector. Market Growth Report Has Segmented the Global Machine Learning and Big Data Analytics Education market report based on Type (Machine Learning,"
-    publishedDateTime: 2023-05-11T04:25:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-big-data-analytics-education-market-2023-to-hit-statistical-significance-value-by-2030-2023-05-11"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 71
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Deep Learning in CT Scanners Market | 2030"
-    excerpt: "Precision Reports has published a new report titled as \" Deep Learning in CT Scanners Market \" by End User ( Hospital, Diagnostic Center, Research, Veterinary Clinic ), Types ( Stationary, Portable ),"
-    publishedDateTime: 2023-05-13T05:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-in-ct-scanners-market-2030-2023-05-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Machine Learning Recommendation Algorithm Market"
-    excerpt: "Research Reports has published a new report titled as \"Machine Learning Recommendation Algorithm Market\" by End"
-    publishedDateTime: 2023-05-13T17:45:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-recommendation-algorithm-market-2023-05-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=740/https://s3.cointelegraph.com/uploads/2023-05/cf9b39a1-502f-48eb-a844-a2da40d94355.jpg"
+        width: 740
+        height: 492
         isCached: true
   - title: "Breaking AI bias: Predictive analytics platform aims to eliminate racism in marketing"
     excerpt: "AI-powered platform X_Stereotype uses predictive analytics to eliminate bias and racism by gauging the performance of marketing content across different races and cultures."
@@ -101,6 +61,15 @@ related:
     provider:
       name: Multichannel Merchant
       domain: multichannelmerchant.com
+    quality: 14
+  - title: "Artificial Intelligence In Genomics Market worth $2.0 billion | MarketsandMarkets"
+    excerpt: "Artificial Intelligence In Genomics Market in terms of revenue was estimated to be worth $0.5 billion in 2023 and is poised to reach $2.0 billion by 2028, growing at a CAGR of 32.3% from 2023 to 2028 according to a new report by MarketsandMarkets™."
+    publishedDateTime: 2023-05-11T17:53:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/05/11/9812870.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
     quality: 14
 
 secured: "indYug3z+p+FmP2yiYVtjJOTnXSUfZXLw59OlSIM9BiCV+2DCWs0fupDoSgiKbnmkeR6fuyFzG9LOw4RcP3SiAWUh3odmDEhrKY8QcUUEnvXRM1Ia9yxaI75ngd8KXRM+xaw1qKHAjjNxWczrS0y6UXLzFS3KHZxGKkBhE2nsRCyHwtHtIsHKpIIhoXqsEIdnEX/t8scMv32VWBpVu47tHquQMNxPFlCW2WhQkw1Xwdx6U5CgbJQnCwjq7KDaKQmi3ka24lzaFOUIVkxnX+hvquabbYsg7gy/6qJWkMi+5e/DBoOGObmZnRZEO4tR44SoLoNL9IIwr5beu9YBqb6r8srYX1B2B7bGabQCBGAnGk=;8+x2xMLRDop1S4SdFzMo+A=="

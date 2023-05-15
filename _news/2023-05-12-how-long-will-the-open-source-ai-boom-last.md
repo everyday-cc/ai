@@ -35,6 +35,15 @@ related:
         width: 3000
         height: 1688
         isCached: true
+  - title: "Open source AI continues to celebrate as Big Tech mulls over moats"
+    excerpt: "With a raft of recent successes, the open source AI community is partying. A Google engineer's leaked memo, on the other hand, signals Big Tech worries."
+    publishedDateTime: 2023-05-15T18:38:00Z
+    webUrl: "https://venturebeat.com/ai/open-source-ai-continues-to-celebrate-as-big-tech-mulls-over-moats/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 47
 
 secured: "zdjAJ/nC3FH0MzP8LPy/w6GSS4S56MfIoTJRH2X7KoLPs6gNGUMEFXXufZWvTL5SCkDbLpPsQIlsTQCHyLO68CCqNTUZHcEfxqtjMN7lcNzeAMDGepIcDet0yXNxz3ra2/pJYziFt+u1I5xSP4n9cypSjZz7o7+JPK7HZ96h2G3glFNKQ8GreRpqiJtB4sO7ENtaDkEcqQk/ONzZ0pp/FUPu7wjBUBLEdSxfhaLKQ016/ZIKb3V77zEw8mg2RWci+96tUMD7DKP8Ga/tLV38P7eV+SinagiDYRBGcFS0TI8hQ1W+E8oIXrOdFlrpEhWpWQ826K2ItEKW4MlhtHIiClq4c9xochVL/vH4x7cAwXI=;nbDY8ZfuMsAqi2BDSM2DhA=="
 ---

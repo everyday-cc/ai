@@ -73,20 +73,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "How is the new Google AI search different from Bard chatbot?"
-    excerpt: "Google demonstrated an updated core search product that embeds more AI in its answers as the company looks to banish doubts that it is losing ground to Microsoft's OpenAI-powered Bing search."
-    publishedDateTime: 2023-05-11T04:49:00Z
-    webUrl: "https://www.reuters.com/technology/how-is-new-google-ai-search-different-bard-chatbot-2023-05-10/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 67
-    images:
-      - url: "https://www.reuters.com/resizer/KGaBkrQHj3qhm6l3Wtyw8nqhjss=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/5UQGXXHAMNPZHPVIMFFH3XDVPM.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Google Launching Tools to Identify Misleading and AI Images"
     excerpt: "Google is adding two new features to its image search to reduce the spread of misinformation, especially now that artificial intelligence tools have made the creation of photorealistic fakes trivial."
     publishedDateTime: 2023-05-15T05:42:00Z

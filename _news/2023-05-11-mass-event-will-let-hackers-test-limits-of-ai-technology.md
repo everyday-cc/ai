@@ -9,7 +9,7 @@ ampWebUrl: "https://www.securityweek.com/mass-event-will-let-hackers-test-limits
 cdnAmpWebUrl: "https://www-securityweek-com.cdn.ampproject.org/c/s/www.securityweek.com/mass-event-will-let-hackers-test-limits-of-ai-technology/amp/"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -43,15 +43,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Hackers to test limits of AI technology at Las Vegas event"
-    excerpt: "OpenAI and other major AI providers are coordinating with the Biden administration to let thousands of hackers take shots at testing the limits of their technology."
-    publishedDateTime: 2023-05-11T03:56:00Z
-    webUrl: "https://www.nbcnews.com/tech/tech-news/mass-event-will-let-hackers-test-limits-ai-technology-rcna83708"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 49
   - title: "Mass event will let hackers test limits of AI technology"
     excerpt: "OpenAI and other major AI providers such as Google and Microsoft, are coordinating with the Biden administration to let thousands of hackers take a shot at testing the limits of their technology."
     publishedDateTime: 2023-05-13T14:13:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/edge-ai-chips-market-fut
 webUrl: "https://www.marketwatch.com/press-release/edge-ai-chips-market-future-scope-and-growth-status-2028-2023-05-11"
 type: article
 quality: 84
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -66,6 +66,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 47
+  - title: "2023-2030 AI in ICT (Information and Communications Technology) Market: Highlights with Growth Data"
+    excerpt: "Market ” Is Projected To Raise Significantly At A Maximum CAGR During The Forecast Period (2023-2030). The Market Is Expected to Witness the Highest Demand World Widely. Pre and Post-COVID Study of AI in ICT (Information and Communications Technology) Market Is Covered in The Most Recent Updated Report [ 2023-2030 ]."
+    publishedDateTime: 2023-05-15T17:18:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-2030-ai-in-ict-information-and-communications-technology-market-highlights-with-growth-data-2023-05-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 35
 
 secured: "XdxacXgGlPYF0W3G1p41SdUprKDquL9Fysl335F+AMDm8WGL60+BkglXGgK7cg/10po2VSPAfDbO3wzd0y2PROjmPpDqqAfj2wcFKOE1qAOgOtXthf1HPLa2fGe0mT1/CYd2F12DJy0R5xJTz9WWPiI6tn0va8kib4UE1w2a1qn0hSdjPGtefZb8/wrpv02Fj0pPpn6sg3rxCfdCOql9HmRlKNPKcl6WO40p5Fdyy/0HKnryyYSWadMs44WBdm0lKIO/7rH15umgdFKFus0BYXPVhgrINww+R8hHPaR+6iuCas1G111KI0f14ej9pVSoLY2cnAvOQUm5dFpSYK3nQnNT5UhczCQPP0d6ff6KEL4=;pMjyAqbj1LHeaKFMpMvrTA=="
 ---
