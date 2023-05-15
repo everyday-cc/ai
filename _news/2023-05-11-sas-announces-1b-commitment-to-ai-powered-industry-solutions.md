@@ -7,7 +7,7 @@ originalUrl: "https://www.datanami.com/this-just-in/sas-announces-1b-commitment-
 webUrl: "https://www.datanami.com/this-just-in/sas-announces-1b-commitment-to-ai-powered-industry-solutions/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 1664
     height: 674
     isCached: true
-
-related:
-  - title: "SAS commits $1bln to AI-powered industry solutions"
-    excerpt: "All industry solutions will run on SAS® Viya®, SAS’ cloud-native, massively parallel AI and analytics platform. “Businesses face many challenges, from the threat of economic recession and stressed supply chains to workforce shortages and regulatory changes,"
-    publishedDateTime: 2023-05-10T07:37:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/sas-commits-1bln-to-ai-powered-industry-solutions-ru5q37hj"
-    ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/sas-commits-1bln-to-ai-powered-industry-solutions-ru5q37hj?amp=1"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/sas-commits-1bln-to-ai-powered-industry-solutions-ru5q37hj?amp=1"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 59
-    images:
-      - url: "https://static.zawya.com/view/acePublic/alias/contentid/YTk5NGRiNWYtZTMyMi00/0/tailoredsolutions-jpg.jpeg?f=3%3A2"
-        width: 799
-        height: 533
-        isCached: true
 
 secured: "yGXcVLexhv4pLb3oJI+UUSprLbWNwU1gIo/KMASEsEGopnSh5w+dm1iX5Bueo7g2MnrFZ4MlF3/GQtwIRsLvpv2Mer0vFC31iOlnqk/PwFYhy5FX9FKz+KMRfmUmPB8I4cs/Nwb/cWzfJ+s4e5FQj6fHuVfIYOFwbQRkih63D/U79i7EHuEXtWXI2mSnrTta03KymDgpW2HVtDxIOwV/jwUNW0ijPyE4/ibLZ3xWrU6a9s9wuj0LmLizw2/377zZtVgbTmCWFK9oOCCRCADTi3FDhifxDq9351V49vVTT/G84oWX84iS6D2llr3PM8m8oX9lD3rgDnpyetwcPeT00bUkQJS5NWAZ2jSnOcZg5ZalOsT1tdMneEnSgy+27ZhjlozRmr77/S0iEovyjwY4d/BtMN+su93T06uJsX3UA488HNXHJYlrAvnRXEhQAcw8Wu02dyQo75Nqtr35anxFS8irKTB/+ORKcWhY4vzxXb3LUbtFs/gYTYkFgQRkLfasrNaywj2bj4zmJ1yP1K44VA==;EM7uGAS5sLjm1oqfPW0iqw=="
 ---

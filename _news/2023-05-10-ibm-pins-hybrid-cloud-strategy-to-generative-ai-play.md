@@ -280,34 +280,6 @@ related:
       name: Wired
       domain: wired.com
     quality: 47
-  - title: "Be careful with Artificial Intelligence"
-    excerpt: "However, how do we actually use the words Artificial Intelligence? Surely we mean systems that think, not just data collect like ChatGPT, which common parlance says produces thoughtful output and is AI,"
-    publishedDateTime: 2023-05-10T07:57:00Z
-    webUrl: "https://www.gazetteseries.co.uk/news/23511487.careful-artificial-intelligence/"
-    type: article
-    provider:
-      name: Gazette Series
-      domain: gazetteseries.co.uk
-    quality: 41
-    images:
-      - url: "https://www.gazetteseries.co.uk/resources/images/16762960/?type=og-image"
-        width: 788
-        height: 630
-        isCached: true
-  - title: "The Path Ahead for Generative AI"
-    excerpt: "The role of generative AI is rapidly evolving in education and in creating a vision of the society of the future."
-    publishedDateTime: 2023-05-10T07:37:00Z
-    webUrl: "https://www.insidehighered.com/opinion/blogs/online-trending-now/2023/05/10/path-ahead-generative-ai"
-    type: article
-    provider:
-      name: Inside Higher Ed
-      domain: insidehighered.com
-    quality: 39
-    images:
-      - url: "https://www.insidehighered.com/sites/default/files/2023-04/ihe-logo-web.png"
-        width: 600
-        height: 324
-        isCached: true
   - title: "Google to revamp search with generative AI tools, but gradually"
     excerpt: "The approach insulates Google from some of the ethical concerns surrounding generative AI. Read more at straitstimes.com."
     publishedDateTime: 2023-05-11T01:52:00Z

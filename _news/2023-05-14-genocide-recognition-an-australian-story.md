@@ -69,6 +69,20 @@ related:
         width: 640
         height: 640
         isCached: true
+  - title: "Writing Faculty United Requests Recognition of Unionization in Petition to Administration"
+    excerpt: "The letter calls for improved job security, pay, and benefits, as well as transparency, recognition, and a voice in how writing instruction is conceived and executed. “When it comes to the aims of the union, I tend to think of it as having two key ..."
+    publishedDateTime: 2023-05-15T01:07:00Z
+    webUrl: "https://chicagomaroon.com/39180/news/writing-faculty-united-requests-recognition-of-unionization-in-petition-to-administration/"
+    type: article
+    provider:
+      name: The Chicago Maroon
+      domain: chicagomaroon.com
+    quality: 15
+    images:
+      - url: "https://chicagomaroon.com/wp-content/uploads/2021/12/Harper_Library_South_Stock-900x753.jpeg"
+        width: 900
+        height: 753
+        isCached: true
 
 secured: "QWSFcNLu90iZeI5dApX6qHfnZM570zxd+GpzOaoLaHkz/XaFW+SocCR5E0lmnBUQA07TnnP+snFzbEQmvDHPJ++acJoJJAnaboFZnLM4EXaT2xJkfaq9fOci5OGmG2wSqfe2JqVjvxJECdwgt58ZaKtFttio+vPCKv6ImfCeEbOphY6BODQkI7sadhTWVLHJsSqAQt9OdOTmTpz7YHrLU2XYzwVNEpSyzk7r3ZZkEtXCYR7RSYFQKI1YcIfCAd/gXSjlvZ8fe26QzPRl4chtzvf1YsGbXHw8fbiawGRdRZnGvl80oEboDMLxpM4pmMzgte7jt9cgawt+L6I4L5fbXBp90yu8uNf0CX4nBKarip8=;Cknb/T+X21oJJzb3HEjxVA=="
 ---

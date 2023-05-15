@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Face Recognition Systems Market | Worldwide Industry Trends 2023-2030"
+    excerpt: "The report offers essential statistical information on the market status of Face Recognition Systems players, making it"
+    publishedDateTime: 2023-05-11T10:41:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-systems-market-worldwide-industry-trends-2023-2030-2023-05-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Speech Recognition Software Market Till 2030"
     excerpt: "The Global Speech Recognition Software market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players,"
     publishedDateTime: 2023-05-12T13:19:00Z
@@ -66,20 +80,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 66
-  - title: "Computer Vision Software Market Share 2023|Bussiness Research And Forecast by 2029"
-    excerpt: "Computer Vision Software Market | Outlook 2023-2028 | Pre and Post-COVID Research is Covered, Report Information |"
-    publishedDateTime: 2023-05-11T14:19:00Z
-    webUrl: "https://www.marketwatch.com/press-release/computer-vision-software-market-share-2023bussiness-research-and-forecast-by-2029-2023-05-11"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 63
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Face Recognition Software Market 2023 Growth Possibilities, Analysis and Forecast To 2030"
     excerpt: "The Face Recognition Software Market Report by Type (Holistic Matching Method, Feature-based Method, Skin Texture Analysis, Hybrid Types, Other) and by Application (Corporate and Residential Security,"
     publishedDateTime: 2023-05-11T11:22:00Z

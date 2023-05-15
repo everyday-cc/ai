@@ -6,7 +6,7 @@ publishedDateTime: 2023-05-14T21:30:00Z
 originalUrl: "https://www.stltoday.com/news/def-con-to-set-thousands-of-hackers-loose-on-ai/article_a06fe9e9-6244-55d8-bf17-7c1037086449.html"
 webUrl: "https://www.stltoday.com/news/def-con-to-set-thousands-of-hackers-loose-on-ai/article_a06fe9e9-6244-55d8-bf17-7c1037086449.html"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/a/06/a06fe9e9-6244-55d8-bf17-7c1037086449/645be194d898f.preview.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
@@ -138,6 +139,6 @@ related:
       domain: ft.com
     quality: 17
 
-secured: "44VgIsae5lgS8hp+0Yx2PBiYyGc4/8rckZZ57/stpprCuJmLSI2W7bJExUuYTr7R0j/e4b3pX7yu1vMa7Nv9Mw1CzENMggUq5juyBGBoDl1wyAPD72EFMTaakp/53VGd86qwuKdwOUkaXptZjSPXFt0jUpzGNz9Jm668TouzOwDqBmgaRxtBUVqOD3HLNfnW6E7SteTTnfiL54uLgpIaZi8T7L/bj8wIuS9bChNudgA8ISH9mbOgjcMgKud2SZAIyvZMTAHjYAD+eQVfsZ13NmYm5Jg8GsccHAKgn12+dR3dNGu2adlK9UoM7QjYb3wkVv2rlIvytE/uifegjrsrKOOjKCokg+zGBpoZgLxiF+k=;ySAhzMCFSlU68hMr4f+Wzg=="
+secured: "Xr1vA4tpQzA01dRNN42safLEo4S3NhcNpFTQoIpUuKaVV4ZQI7gdFVMBCX7efB+bUO5Gg1IhX4oyU0wJOdNM+mXk65lQxOaS8vQYM2U+INnDV5Bb1sxwFRDucdB/lSMHMZQ8oVLpWGp8whcbE5WSxyD0jkbnPb3feu3/MyVvyedZIMH36PWs+JK9GsyLddLCFG3SxN70AcelMT6Vejzfy9nzuJiahTsiKtELZhMWQoX5ao7wJq/jtShTCfLxSerm0OepXqeLqfbglOJqbwh5ObJhcwfhFDLQ04SViWyjJyjWwgmwx/+aFUXLcQDqe3XGeEOC416SFbYXVnbBaIb4SYjoTCMprlw+0feTY4vnJQ/nJ/vut7dZtEIAhiHdfphEy4Gs9NewMKX+qf3iXlLD6H5Y1RrSOgJsWiflS9N8oRAu2HVf+hxB7RiiJ7OUTmc2pv1J6+YJFiZodYWiEMnrh5uN3n+I16HGquAJFvfFsA3Plrc030GN7K7I3mjQb0CnxHu60EdyN/GGbvQ55QfN1A==;YkV48REMFtSeC3EV5efYQQ=="
 ---
 

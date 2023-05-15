@@ -108,7 +108,7 @@ related:
     provider:
       name: St. Louis Post-Dispatch
       domain: stltoday.com
-    quality: 37
+    quality: 39
     images:
       - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/a/06/a06fe9e9-6244-55d8-bf17-7c1037086449/645be194d898f.preview.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
         width: 1200

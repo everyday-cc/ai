@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-consulting-service-market-2023-05-10"
 type: article
 quality: 67
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -42,19 +42,10 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Oil and Gas Market by 2030"
-    excerpt: "Precision Reports has published a new report titled as \"Artificial Intelligence in Oil and Gas Market\" by End User"
-    publishedDateTime: 2023-05-13T05:16:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-oil-and-gas-market-by-2030-2023-05-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 47
   - title: "Artificial Intelligence In Genomics Market worth $2.0 billion | MarketsandMarkets"
     excerpt: "Artificial Intelligence In Genomics Market in terms of revenue was estimated to be worth $0.5 billion in 2023 and is poised to reach $2.0 billion by 2028, growing at a CAGR of 32.3% from 2023 to 2028 according to a new report by MarketsandMarkets™."
-    publishedDateTime: 2023-05-11T17:57:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-genomics-market-worth-20-billion-marketsandmarkets-/2023/05/11/9812870.htm"
+    publishedDateTime: 2023-05-11T17:53:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/05/11/9812870.htm"
     type: article
     provider:
       name: TMCnet

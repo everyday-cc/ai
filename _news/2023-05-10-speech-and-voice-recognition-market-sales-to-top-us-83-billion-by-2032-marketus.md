@@ -20,29 +20,20 @@ topics:
   - AI in Sales
 
 related:
-  - title: "Hybrid Voice Recognition System Market 2023 Thriving at a Tremendous Growth till 2030"
-    excerpt: "The Hybrid Voice Recognition System Market Report by Type (BEV, ICE, Others) and by Application (Economy Vehicles, Mid-Priced Vehicles, Luxury Vehicles) forecast is offered along with info related to key drivers,"
-    publishedDateTime: 2023-05-10T13:08:00Z
-    webUrl: "https://www.marketwatch.com/press-release/hybrid-voice-recognition-system-market-2023-thriving-at-a-tremendous-growth-till-2030-2023-05-10"
+  - title: "Face Recognition Attendance System Market is poised to grow a Robust CAGR of +16% by 2029 | Truein, Saral PayPack, Securtime"
+    excerpt: "Facial recognition is a biometric technology used for identification and authentication of the people by capturing"
+    publishedDateTime: 2023-05-11T04:03:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-attendance-system-market-is-poised-to-grow-a-robust-cagr-of-16-by-2029-truein-saral-paypack-securtime-2023-05-11"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 47
+    quality: 42
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Analysis the CAGR growth on the Global Speech & Voice Recognition Systems Market and the Market size is growing at a CAGR of 13.9% from 2023 - 2030"
-    excerpt: "The global Speech & Voice Recognition Systems market has seen significant growth in recent years, driven by increasing demand from various industries. Technological advancements, increasing consumer awareness,"
-    publishedDateTime: 2023-05-13T13:25:00Z
-    webUrl: "https://www.marketwatch.com/press-release/analysis-the-cagr-growth-on-the-global-speech-voice-recognition-systems-market-and-the-market-size-is-growing-at-a-cagr-of-139-from-2023---2030-2023-05-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 0
 
 secured: "++j/vCJOVVa3NTvDNwtzOgmqDlFJGTNu2C0tD2xVqFU3YmxgCwssX2noYDNL+X29hj58JUc/TsD09zC8FMndaOjUtof8G1qdX06TkNSAkSt2Kq+l2hUDNZPMc2jevxY4j9a0diT371BITRdmOFhYzf2r6pxcaKV2qRaRmKCiGtbbN1Iw27QkA0TGfo6KKOtMJkws1LwS4G4MITJ/CzQOKBjUjuly/Nq7hkLSZBNhRkDzoL6uJTOHLuQEXkDi1eRqUzJOCmIU7rmN7FxVibzGx4/qErsLuz1l12UmFE9AKnHyHU41V2vCnkgRbyOxJ37xmgMzqUuO01rOAFJ7zMLE9nWHfzpXx0hJrTCYmcZvM8Y/6TZjHSltDgYGSM6s00VgNjlyACHtb954zf9xKubsOsho4twxjQDf+OBymccZ545K1EalYYUthSg9sXddi6o11WBwajD8IP3vrT3ASFd6Sn0CpWwYmMeL6L72ryRJSmz56erbT6DJWhqlkXNRmXTjDCmKTGnY8+3tLZBs9KcMWg==;DCyJzM6ccFtXeFdLplI2kw=="
 ---

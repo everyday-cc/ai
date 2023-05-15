@@ -7,7 +7,7 @@ originalUrl: "https://www.ksl.com/article/50640579/artificial-intelligence-can-b
 webUrl: "https://www.ksl.com/article/50640579/artificial-intelligence-can-be-trained-to-spot-pancreatic-cancer-risk-3-years-before-diagnosis-study-says"
 type: article
 quality: 36
-heat: -1
+heat: 36
 published: false
 
 provider:
@@ -23,38 +23,6 @@ images:
     width: 1228
     height: 690
     isCached: true
-
-related:
-  - title: "Can artificial intelligence help predict the risk of pancreatic cancer using disease trajectories?"
-    excerpt: "Researchers designed surveillance programs for the early detection of patients at elevated risk of pancreatic cancer."
-    publishedDateTime: 2023-05-10T08:04:00Z
-    webUrl: "https://www.news-medical.net/news/20230510/Can-artificial-intelligence-help-predict-the-risk-of-pancreatic-cancer-using-disease-trajectories.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20230510/Can-artificial-intelligence-help-predict-the-risk-of-pancreatic-cancer-using-disease-trajectories.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20230510/Can-artificial-intelligence-help-predict-the-risk-of-pancreatic-cancer-using-disease-trajectories.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 45
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_747779_16837056146618825.jpg"
-        width: 2000
-        height: 1125
-        isCached: true
-  - title: "Artificial Intelligence Improves Prediction of Pancreatic Cancer"
-    excerpt: "Artificial intelligence (AI) can improve the design of surveillance programs for pancreatic cancer, according to a study published online May 8 in Nature Medicine. Davide Placido, from the University of Copenhagen in Denmark,"
-    publishedDateTime: 2023-05-12T23:59:00Z
-    webUrl: "https://www.physiciansweekly.com/artificial-intelligence-improves-prediction-of-pancreatic-cancer/"
-    type: article
-    provider:
-      name: Too Old to Operate
-      domain: physiciansweekly.com
-    quality: 37
-    images:
-      - url: "https://www.physiciansweekly.com/wp-content/uploads/2023/05/image1683935942.jpg"
-        width: 800
-        height: 600
-        isCached: true
 
 secured: "AVnyuzyir6MM8Rzd8iipVL1R7shkDvt9K00uOZZZnPEc9OgUs0uIigBvtzXs1fnTYt9usfG45Da7ilC34RE+gBDecEq2G/pzec+vuCyi4fGXkiC2Dkm97AGjfGB3K3bndqkLO4KfLfhs2rJAQ+TlXS49WsAZRC3gm7PBh20JuyY2T1p20m/D7UzLxJPiJOQyDkRc7HD9c2ls/PL649rRVlCdH4FFXQuxtLSVXJzU+aZUjOUdjW1h4ZEXAJYWFcvVuvvYmMqi1ihSHZygPAvV5o+FVAGvrUAO1xdpwKtv0P6PJPvm4PaYeAuoPLlEFyUPx2FVE6SQN09w1BXWEAS/uSn1Y127IGOFpsdxzAw6qrfve/saIU9rX7e/9sGQiSCbBl3CXeHO08LfQL3J/oGBuMKT+GBh3C5kFbO9+84oGHJtFWSjKlKX6AuLgE1ePDXKCI1zqazroe+Tm2QDbCT1YI3Up9B36nPHWieEUXoAqQWNSWHnHGaTRzgAdaB3HDC6KOHPkbWKB1CYeseSJKS6Nw==;HH3FYvl1WMO0UEW+m+gXnw=="
 ---

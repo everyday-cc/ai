@@ -92,6 +92,22 @@ related:
         width: 1280
         height: 851
         isCached: true
+  - title: "Revolutionary changes by artificial intelligence"
+    excerpt: "The accurate usage of data annotation and data labelling services incorporating cases like Facial recognition, Self ... to intelligence by humans, when machines produce results, making tasks easier and faster, then those are inculcated under AI (Artificial ..."
+    publishedDateTime: 2023-05-14T21:19:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/revolutionary-changes-by-artificial-intelligence/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/revolutionary-changes-by-artificial-intelligence/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/revolutionary-changes-by-artificial-intelligence/"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2023/03/Manish-Mohta.JPEG-1.jpeg"
+        width: 1280
+        height: 851
+        isCached: true
   - title: "AI Promises to Impact the Workforce in Unexpected Ways"
     excerpt: "Rise of the Machines Twice a year, Tom Loper participates in a Cybersecurity Advisory Council meeting. The last one was … different. “I would say there was a sense of concern that I hadn’t seen before at that council because of ChatGPT and the phishing potential,"
     publishedDateTime: 2023-05-11T09:59:00Z

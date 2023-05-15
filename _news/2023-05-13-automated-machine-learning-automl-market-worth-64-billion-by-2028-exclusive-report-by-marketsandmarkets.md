@@ -19,48 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Latest \"Deep Learning Chip Market\" Trends 2023-2030"
-    excerpt: "(The Expresswire) -- \"Deep Learning Chip Market\" Insights 2023 By Types ( Graphics Processing Units (GPUs), Central Processing Units"
-    publishedDateTime: 2023-05-10T08:45:00Z
-    webUrl: "https://www.marketwatch.com/press-release/latest-deep-learning-chip-market-trends-2023-2030-2023-05-10"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 86
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Deep Learning System Market with Future Opportunities 2023-2031"
-    excerpt: "The \"Deep Learning System Market\" study delves into the evolution of the technology industry and the responses of major"
-    publishedDateTime: 2023-05-11T02:45:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-system-market-with-future-opportunities-2023-2031-2023-05-10"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Machine Learning 2023 Market Size, Historical Growth, Analysis up to 2030"
-    excerpt: "The key players in the Machine Learning market include global distribution system (GDS) providers, such as These companies are typically the largest or most prominent players in the industry, and they may have significant market share,"
-    publishedDateTime: 2023-05-10T13:14:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-2023-market-size-historical-growth-analysis-up-to-2030-2023-05-10"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 68
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Automated Machine Learning (AutoML) Market worth $6.4 billion by 2028 - Exclusive Report by MarketsandMarkets(TM)"
     excerpt: "CHICAGO, /PRNewswire/ --The market for automated machine learning (AutoML) appears to have a bright future thanks to rising acceptance, technological breakthroughs, integration with other developing technologies,"
     publishedDateTime: 2023-05-12T16:00:00Z
@@ -75,15 +33,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Latest \"Self-driving Cars and Trucks Market\" Analysis 2023-2030"
-    excerpt: "May 10, 2023 (The Expresswire) -- \"Self-driving Cars and Trucks Market\" Insights 2023 By Types ( Cars, Trucks), Applications ( Transportation,"
-    publishedDateTime: 2023-05-10T08:48:00Z
-    webUrl: "https://www.marketwatch.com/press-release/latest-self-driving-cars-and-trucks-market-analysis-2023-2030-2023-05-10"
+  - title: "Self-Driving Car Market: Introspective Market Research Reveals Why this Market is Expected to Reach USD 37.38 Billion by 2028 at a CAGR of 2.5%"
+    excerpt: "The global Self-Driving Car market was estimated at USD 31.45 billion in 2021 and is projected to reach 37.38 billion by the end of 2028, growing at a CAGR of 2.5% over the analysis period. A Self-Driving Car or an autonomous car is a vehicle equipped with sensors,"
+    publishedDateTime: 2023-05-10T12:40:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-car-market-introspective-market-research-reveals-why-this-market-is-expected-to-reach-usd-3738-billion-by-2028-at-a-cagr-of-25-2023-05-10"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 54
+    quality: 18
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

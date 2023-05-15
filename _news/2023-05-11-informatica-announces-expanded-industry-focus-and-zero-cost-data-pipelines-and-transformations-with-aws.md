@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "AI-generated disinformation poses threat of misleading voters in 2024 election"
+    excerpt: "Computer engineers and political scientists have warned for years that cheap, powerful artificial intelligence tools would soon allow anyone to create fake images, video and audio that was realistic enough to fool voters and perhaps sway an election."
+    publishedDateTime: 2023-05-14T23:52:00Z
+    webUrl: "https://www.pbs.org/newshour/politics/ai-generated-disinformation-poses-threat-of-misleading-voters-in-2024-election"
+    ampWebUrl: "https://www.pbs.org/newshour/amp/politics/ai-generated-disinformation-poses-threat-of-misleading-voters-in-2024-election"
+    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/politics/ai-generated-disinformation-poses-threat-of-misleading-voters-in-2024-election"
+    type: article
+    provider:
+      name: PBS
+      domain: pbs.org
+    quality: 53
+    images:
+      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2023/05/GettyImages-1309763384-1024x683.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Informatica Unveils Expanded Industry Focus and Zero Cost Data Pipelines and Transformations with AWS"
     excerpt: "Informatica, an enterprise cloud data management leader, built upon their years-long relationship with Amazon Web Services (AWS)."
     publishedDateTime: 2023-05-11T10:26:00Z

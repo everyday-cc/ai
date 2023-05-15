@@ -2,9 +2,9 @@
 category: news
 title: "Artificial Intelligence In Genomics Market worth $2.0 billion | MarketsandMarkets"
 excerpt: "Artificial Intelligence In Genomics Market in terms of revenue was estimated to be worth $0.5 billion in 2023 and is poised to reach $2.0 billion by 2028, growing at a CAGR of 32.3% from 2023 to 2028 according to a new report by MarketsandMarkets™."
-publishedDateTime: 2023-05-11T17:57:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-genomics-market-worth-20-billion-marketsandmarkets-/2023/05/11/9812870.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-genomics-market-worth-20-billion-marketsandmarkets-/2023/05/11/9812870.htm"
+publishedDateTime: 2023-05-11T17:53:00Z
+originalUrl: "https://it.tmcnet.com/news/2023/05/11/9812870.htm"
+webUrl: "https://it.tmcnet.com/news/2023/05/11/9812870.htm"
 type: article
 quality: 14
 heat: -1
@@ -47,16 +47,7 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Oil and Gas Market by 2030"
-    excerpt: "Precision Reports has published a new report titled as \"Artificial Intelligence in Oil and Gas Market\" by End User"
-    publishedDateTime: 2023-05-13T05:16:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-oil-and-gas-market-by-2030-2023-05-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 47
 
-secured: "Jb6n0pcmhckFhLsKz0OlbixLowimymz61dzIMyUjzvyQY4Bi/m2dwe4+6493VAI6SSIYSsOYTcvA21+QW1lfnSWUDHDi8yZIgo/GAmJmNrH0dop30kJzroNP91o6J/R7YWzIALeAc8T/SALclgxIOovfI0GrQ4PK2mf2DJx0+yJ11JxpyttrulX0oULHHDKjV2J1Mt2bikIRBRGR2C0VdlbjsAHDvF9LhADSV8aPEdmeGqCOB8n33F3T4qNHaA/cRCzeQYLiyNV8dtGNjbPzLCsoQdgdRdk9dYuBxufduepUcpMmRFIBECYJqOVm+6lKWdnxPl28AOuFfXsJr78iq7fKfUiniO3c7nRkTvgH2KVrO7XXxI03haDQ/MUnwquSWhDAFILmWgYfnkTsOZmgb46JcJJhMOiMPTYPTJP/2DcrCnNp89OEEYJ5Hrvxt3rwryMpsGskBBZHtSS5H7oRDq0NYJTIu4PHOrM/TxkCtmte0U/ye4RrnM823Xm5MibDjYmOhjbV1FTIATnnh+UeVg==;Klb4Qmy2jGQb+dBThypJ0g=="
+secured: "PMfR0AKWpDARd5QOIxeq4pdlH3ZGh5pUog0OoI6H+AfhyEV5Z7jHdYiYatryspTq6TmQxuaPS8jUwjQKMsdCZUrIzK+3neidbscYi0mJQR193Rp2yYL1ib8m63SGJ4uY2+UULkoSCnlJIflBVO4LE2DDWsBCo/y/5EgXIdrwAMcCphhZUhY2uCsgibVXZhkEOYE/MLb2bICyxLyfYypi8I+WmpmS0CAVQ586SIbfD2Dd6tIg1YT2qYZjk7uYWROqCTCjjQWQD1IHJi1i22wgnFkhCD7D/t/GnhUwhia3GEkfXseCHU7Zpf6Gdx4Zknx7E2ri6AsoCoJZQIKWrYimLNNHHJsxQlkW12GMxRmOHG6Zdh+Sk8XkJHG07QdYgvLYdL6Imcn0ONny6E7wEYAjIiqUDjPh1LyI96J/Lg+hrrfhhodzgsCnZGA1++VlxblJb5ff6l3/CCP/K8T8NebeHHIitBrTf1UkLB7kIJ2fS2FMx4l4IjVluv7PQ3jAFb3iN5TAxMi6fOJgH0AwulWysw==;8Qiu3rG5XWCU/jZXwXMiNQ=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/nicholascrain/2023/05/11/a-season-of-re
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nicholascrain/2023/05/11/a-season-of-recognition-the-oklahoma-city-thunders-individual-honors-and-a-promising-trajectory/amp/"
 type: article
 quality: 61
-heat: 91
+heat: 101
 published: true
 
 provider:
@@ -72,6 +72,20 @@ related:
       - url: "https://cdn1.neoskosmos.com/uploads/sites/2/2023/05/genocideopinion2-PRI_15986-e1684022952308.jpg"
         width: 1900
         height: 1104
+        isCached: true
+  - title: "Writing Faculty United Requests Recognition of Unionization in Petition to Administration"
+    excerpt: "The letter calls for improved job security, pay, and benefits, as well as transparency, recognition, and a voice in how writing instruction is conceived and executed. “When it comes to the aims of the union, I tend to think of it as having two key ..."
+    publishedDateTime: 2023-05-15T01:07:00Z
+    webUrl: "https://chicagomaroon.com/39180/news/writing-faculty-united-requests-recognition-of-unionization-in-petition-to-administration/"
+    type: article
+    provider:
+      name: The Chicago Maroon
+      domain: chicagomaroon.com
+    quality: 15
+    images:
+      - url: "https://chicagomaroon.com/wp-content/uploads/2021/12/Harper_Library_South_Stock-900x753.jpeg"
+        width: 900
+        height: 753
         isCached: true
 
 secured: "lBaeTBAcs0jguZWbsjCzyBlq/VyuGwYZSKiMbEOxgAa+FJFJUkf0xQYYKmtErZePKWPGKtunGtjuZr0p+/1qqV2taQ+g5MRbLzeSzLjgXzU+TCQczV7zqhqNenP4rBUiN65UT84682UY5uIvx8CSWoavuPKu8Mp8Pryyvmcjh4GQpzvwlICP9fKtdK99cUDD1Zq2lYMGGmtlSD6Gb4+zsTePjgcEpZHLan1D9F2h+3UUUFsVRg/keisXFKE08VEKKfdV4bZXI83iaAFbzii1SFoOfFMF/PZC9d9hOBPLePBJGBLE4e4JpmFCanQhEmq3mYeyyuGmY6OFsssW6Df9WScW74wRmbI3dWeGdicTa1hhPEwmgPkcF3ZNZGaWU526oXNp6fyfC8kTJ05cjlKPqQP0qfQD7bJxzSQCYCDABDysOGuGX2CBYVbEqODKbsK9QC6i23oRBjx6lmXk9OUOueqOUZqNSm28AntsRv9NvTEJxMdiQy1dzNq61JNPcLX6Hde0ZbmOeSNbeA1WYXU5dA==;uI3VNAE/f7wMpb0dIUuY1Q=="

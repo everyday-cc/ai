@@ -3,10 +3,10 @@ category: news
 title: "ChatGPT: The game-changing AI-language model and its implications on enterprise automation"
 excerpt: "ChatGPT has gained global attention and recognition, yet its impact on enterprise automation remains an area not fully explored. Analyzing it from the standpoint of intelligent automation can reveal its potential impact on the"
 publishedDateTime: 2023-05-14T10:03:00Z
-originalUrl: "https://timesofindia.indiatimes.com/blogs/voices/chatgpt-the-game-changing-ai-language-model-and-its-implications-on-enterprise-automation/"
-webUrl: "https://timesofindia.indiatimes.com/blogs/voices/chatgpt-the-game-changing-ai-language-model-and-its-implications-on-enterprise-automation/"
-ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/chatgpt-the-game-changing-ai-language-model-and-its-implications-on-enterprise-automation/"
-cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/chatgpt-the-game-changing-ai-language-model-and-its-implications-on-enterprise-automation/"
+originalUrl: "https://timesofindia.indiatimes.com/blogs/voices/chatgpt-the-game-changing-ai-language-model-and-its-implications-on-enterprise-automation/?source=app&frmapp=yes"
+webUrl: "https://timesofindia.indiatimes.com/blogs/voices/chatgpt-the-game-changing-ai-language-model-and-its-implications-on-enterprise-automation/?source=app&frmapp=yes"
+ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/chatgpt-the-game-changing-ai-language-model-and-its-implications-on-enterprise-automation/?source=app&frmapp=yes"
+cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/chatgpt-the-game-changing-ai-language-model-and-its-implications-on-enterprise-automation/?source=app&frmapp=yes"
 type: article
 quality: 49
 heat: -1
@@ -236,6 +236,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Japanese digital minister pushes for AI use, but ChatGPT does not know who he is"
+    excerpt: "I asked ChatGPT who Kono Taro is and he came back with the wrong answer,” Mr Kono said in an interview with Bloomberg Television broadcast on Monday. “So you need to be careful,” he added. Mr Kono asks that his name be written in Japanese style,"
+    publishedDateTime: 2023-05-15T00:53:00Z
+    webUrl: "https://www.straitstimes.com/asia/east-asia/japanese-digital-minister-pushes-for-ai-use-but-chatgpt-does-not-know-who-he-is"
+    type: article
+    provider:
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 34
+    images:
+      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2023/05/15/d5870040_0.jpg?VersionId=_hBCtc_r5VIlCWOxmn0yo9tYnSXsnUUW"
+        width: 860
+        height: 573
+        isCached: true
   - title: "Can ChatGPT teach you a language?"
     excerpt: "For those wondering if ChatGPT can be used to teach you a language, don’t worry ... a programme called Whisper which allows for the translation and transcription of audio."
     publishedDateTime: 2023-05-11T11:53:00Z
@@ -296,6 +310,6 @@ related:
       domain: usatoday.com
     quality: 7
 
-secured: "urxyt4x8MUWO5JpjKqehFSi3w80a4fzUQql9f0D3lNt5ko4grORQ6WU0rUgOl+kVRb53bLUm/lFessHPomlIg15NoQ5I4qIpdPRedx7X2GVDun7OrXvKD0NXS5/t7AZJMT5pmtU+FwN+TMdzVuWhfbPDmgbO0bPzbuf3COu/SrspK4kbVpWh7lesLjRVWAOmrhYX6dMH+8Q9QlfIdbobBO95Q2gxvikW2ZLDW3IlQrAXjGm94ABhs0ZRMVFML+EQDPJf96eDhMxPl57afnalQN8NmJd1WaUj2mgI0sKtAtHfVF0VbJ14gE6eOH2b4tLyc6eI13tM8iV8v6Gw6gRyOr+oiQuoF8DORiMmx9obVWk=;1ikbGk0EYaw7TpNyoHGk8A=="
+secured: "4sTiU9p7CXB3F5uEpL2u1cjsnFcjaEKqBB6xn94VU0UOAfrrufmgOEfECob3g+yidJ69qKOANJVS41ThPfzDTPVU/cDClqwyTM/yNBrZ51iU8xZV5jOeeAkcT4m45lAhZi0Oq14X/83zrAJAUGQvOYRymZHw3eS9jv8/wQuwawT0p90/jJxxKjhWAj8VG9oxdDoGw/BEyWbElSX3xO/mwQweqSnpsl+uJ96x3La69rW3z5UGLGRKY8qpbOYLrq4vPmByjTjzqQELuyr8T9lza4xCeH8GUUJRpvjzlsrtfWrUU9M7WHBrY4+yicEQQ3rs1xYlQ/jKExnHTM1J4MYmx7CS2GS/sQqNYv9v1P7G4uI=;WSzbRufxP1OtMrraWAwo4w=="
 ---
 

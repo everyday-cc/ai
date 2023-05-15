@@ -500,15 +500,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Latest \"Artificial Intelligence (AI) in Education Market\" Size Forecast 2023-2031: New Challenges, Drivers, and Restraints"
-    excerpt: "Insightful Investigation 2023: “Artificial Intelligence (AI) in Education Market” Growth Projections and Key Dynamics"
-    publishedDateTime: 2023-05-10T07:07:00Z
-    webUrl: "https://www.marketwatch.com/press-release/latest-artificial-intelligence-ai-in-education-market-size-forecast-2023-2031-new-challenges-drivers-and-restraints-2023-05-10"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 55
   - title: "Voice Recognition Market Research | 2023-2030"
     excerpt: "The Global Voice Recognition market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players,"
     publishedDateTime: 2023-05-11T00:09:00Z

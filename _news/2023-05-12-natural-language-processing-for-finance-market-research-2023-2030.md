@@ -487,15 +487,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Latest \"Artificial Intelligence (AI) in Education Market\" Size Forecast 2023-2031: New Challenges, Drivers, and Restraints"
-    excerpt: "Insightful Investigation 2023: “Artificial Intelligence (AI) in Education Market” Growth Projections and Key Dynamics"
-    publishedDateTime: 2023-05-10T07:07:00Z
-    webUrl: "https://www.marketwatch.com/press-release/latest-artificial-intelligence-ai-in-education-market-size-forecast-2023-2031-new-challenges-drivers-and-restraints-2023-05-10"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 55
   - title: "Image Recognition Market Research Analysis, 2023-2030"
     excerpt: "A Image Recognition market new report, spanning multiple 116 pages, offers an extensive and in-depth analysis of the"
     publishedDateTime: 2023-05-11T15:06:00Z

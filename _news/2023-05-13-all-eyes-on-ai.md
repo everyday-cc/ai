@@ -81,6 +81,22 @@ related:
         width: 1280
         height: 851
         isCached: true
+  - title: "Revolutionary changes by artificial intelligence"
+    excerpt: "The accurate usage of data annotation and data labelling services incorporating cases like Facial recognition, Self ... to intelligence by humans, when machines produce results, making tasks easier and faster, then those are inculcated under AI (Artificial ..."
+    publishedDateTime: 2023-05-14T21:19:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/revolutionary-changes-by-artificial-intelligence/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/revolutionary-changes-by-artificial-intelligence/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/revolutionary-changes-by-artificial-intelligence/"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2023/03/Manish-Mohta.JPEG-1.jpeg"
+        width: 1280
+        height: 851
+        isCached: true
   - title: "We need AI to help us face the challenges of the future"
     excerpt: "Letters: Readers respond to Naomi Klein’s article that argued it is delusional to believe AI machines will benefit humanity"
     publishedDateTime: 2023-05-12T15:47:00Z

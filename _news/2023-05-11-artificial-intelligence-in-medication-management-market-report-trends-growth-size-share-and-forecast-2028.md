@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-medication-management-market-report-trends-growth-size-share-and-forecast-2028-2023-05-11"
 type: article
 quality: 49
-heat: -1
+heat: 49
 published: false
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Machine Learning Market Size, Growth, Opportunities, Key Players and Forecast Outlook 2031"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. May 10, 2023 (Alliance News via COMTEX) -- MACHINE LEARNING MARKET SIZE, SHARE & TRENDS ANALYSIS – GLOBAL OPPORTUNITY ANALYSIS AND INDUSTRY FORECAST 2030 The global machine ..."
-    publishedDateTime: 2023-05-11T01:23:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-size-growth-opportunities-key-players-and-forecast-outlook-2031-2023-05-10"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 59
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "2023 Face Recognition Paper Picker Market Size and Trend Analysis in Machinery & Equipment Sector | with [91 Pages] and Forecast till 2031"
     excerpt: "May 11, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" The size of the global “Face"
     publishedDateTime: 2023-05-11T07:09:00Z
@@ -52,6 +38,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 35
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Asia Pacific Social Robots Market - Growth, Trends, Covid-19 Impact, and Forecast (2023 - 2029) - Report By Introspective Market Research"
+    excerpt: "The Asia Pacific Social Robots Market is expected to grow at a significant growth rate, and the forecast period is 2022-2028, considering the base year as 2021. Social robots are robots that have been physically personified as social creatures."
+    publishedDateTime: 2023-05-12T10:58:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-asia-pacific-social-robots-market---growth-trends-covid-19-impact-and-forecast-2023---2029---report-by-introspective-market-research-2023-05-12"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 32
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

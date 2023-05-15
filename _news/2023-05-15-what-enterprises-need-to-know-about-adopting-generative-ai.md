@@ -269,20 +269,6 @@ related:
       name: Wired
       domain: wired.com
     quality: 47
-  - title: "Be careful with Artificial Intelligence"
-    excerpt: "However, how do we actually use the words Artificial Intelligence? Surely we mean systems that think, not just data collect like ChatGPT, which common parlance says produces thoughtful output and is AI,"
-    publishedDateTime: 2023-05-10T07:57:00Z
-    webUrl: "https://www.gazetteseries.co.uk/news/23511487.careful-artificial-intelligence/"
-    type: article
-    provider:
-      name: Gazette Series
-      domain: gazetteseries.co.uk
-    quality: 41
-    images:
-      - url: "https://www.gazetteseries.co.uk/resources/images/16762960/?type=og-image"
-        width: 788
-        height: 630
-        isCached: true
   - title: "IBM pins hybrid cloud strategy to generative AI play"
     excerpt: "The machine learning pioneer joins AWS, Microsoft and Google in the race to deploy the latest iteration of large language model technology."
     publishedDateTime: 2023-05-10T16:15:00Z
@@ -296,20 +282,6 @@ related:
       - url: "https://www.ciodive.com/imgproxy/U3Ekh9vEfsuA9PC710cRMu4GRXivm7aVs3eLMP0H3FE/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTUxNDA1MTUzLmpwZw.jpg"
         width: 770
         height: 435
-        isCached: true
-  - title: "The Path Ahead for Generative AI"
-    excerpt: "The role of generative AI is rapidly evolving in education and in creating a vision of the society of the future."
-    publishedDateTime: 2023-05-10T07:37:00Z
-    webUrl: "https://www.insidehighered.com/opinion/blogs/online-trending-now/2023/05/10/path-ahead-generative-ai"
-    type: article
-    provider:
-      name: Inside Higher Ed
-      domain: insidehighered.com
-    quality: 39
-    images:
-      - url: "https://www.insidehighered.com/sites/default/files/2023-04/ihe-logo-web.png"
-        width: 600
-        height: 324
         isCached: true
   - title: "Google to revamp search with generative AI tools, but gradually"
     excerpt: "The approach insulates Google from some of the ethical concerns surrounding generative AI. Read more at straitstimes.com."
@@ -440,6 +412,6 @@ related:
       domain: psychologytoday.com
     quality: 17
 
-secured: "wkXiWz+aDBA1lOjrLRG6jylrbkh1InXEBuKy39db3qttPodJ4p8jljBByHxSgbZzkR1vVoxyzyJD+s26RdP4GP+beYk2uob0hbqRx7LGpHM29f0DngflZ/Y5Y2/Aoa2w/muB7UlAgYPUbh+Lk0SyFPqJUNQ68wpIGVWJ+pyXqrkF1E4dbmgHpwsjYmRQf0G3YsNcg+WmqOTm6mk9SrotGDZywi1BaP921S19QnC46gJFdxocepHsl5h6krZlQ+AIoffXiKqwKy5kkiAlJOZ0A0C/GdWOtoyZswvQN3sSLru5HXwi3IG+URTobpalWK9DByXj4isb4JWHD5OhwNupHYS3PCHEtrlgknBuPzeA8sw=;BxBaW+qpYglk9KqrCMeBXA=="
+secured: "CrlyU9K4t8Oc+OjNfMZHgEi5AdkQ5iQX4Q5My8npSuEFj6iYR9zk7GBTQUASjR3ysgybEKXGZ9H7k2Q0K0uLkh+1t3HSiRvXvDDxLKoj9Yo+Q0GvpPUhXRXB1Rzi1YnqbWGaPRjSBinHCQDKgo5Im+yvG0IguvHQ+PgDW4lT2p5m/1HNA96dW+onoz6iql7SJaJdKDKA6Um2ujQ6frsyA0y03RfJotg3dVY9aOBYcGKoct6f4SAlUBUuBRcwOvm9cvr10aZRKXmSR2Yn86kUMFUkAhVFY21JxstcBGf+G3Q2ScwS7++yJT/BTo2y0/JMrb72GPwVjphWKiaDmfNXtnnEeyFnNd/sJgHgCAoYI4kyLYsxykrfmd+vKSuMfZU5FnvaDMT4viW6klnD7Hb1WuBR36+zJzc7FFNVUVkiZc0wtMARi5RtRvlh3hkG567vNfPqpLWpjMFJs5aXBGRNtq0ihFykrAO+2X9oIQpbY0d80gnHNHVvUNezpA/+gMWLYn1jdb6cXzK5bxC/25WNaA==;LQjQiNDjIsMfxIaz3/I4lw=="
 ---
 

@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Tesla To Roll Out Free One-Month Full Self-Driving Trial Once It’s “Super Smooth”"
+    excerpt: "Elon Musk tweeted that Tesla will offer free FSD trials for users in North America and, eventually, the rest of the world"
+    publishedDateTime: 2023-05-15T00:19:00Z
+    webUrl: "https://www.carscoops.com/2023/05/tesla-to-roll-out-free-one-month-full-self-driving-trial-once-its-super-smooth/"
+    ampWebUrl: "https://www.carscoops.com/2023/05/tesla-to-roll-out-free-one-month-full-self-driving-trial-once-its-super-smooth/amp/"
+    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2023/05/tesla-to-roll-out-free-one-month-full-self-driving-trial-once-its-super-smooth/amp/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
+    quality: 54
+    images:
+      - url: "https://www.carscoops.com/wp-content/uploads/2021/10/Tesla-Full-Self-Driving.jpg"
+        width: 1920
+        height: 1040
+        isCached: true
   - title: "Tesla Gears Up to Offer Free AI-Powered Self-Driving Trial: Time to Buy the Stock?"
     excerpt: "Tesla (NASDAQ: TSLA) already stands as the clear leader in the electric vehicle (EV) market, and the company is taking steps to ensure that it has a front position in autonomous-d"
     publishedDateTime: 2023-05-10T11:42:00Z
