@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/theyec/2023/05/11/rise-of-the-ai-whispe
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2023/05/11/rise-of-the-ai-whisperers/amp/"
 type: article
 quality: 89
-heat: 169
+heat: 179
 published: true
 
 provider:
@@ -94,16 +94,30 @@ related:
   - title: "DEF CON to set thousands of hackers loose on AI"
     excerpt: "Thousands of hackers will get a shot at testing the limits of AI technology at a mass hacking event at the famed DEF CON hacker convention. Some of the things they’ll be looking to find: How can chatbots be manipulated to cause harm?"
     publishedDateTime: 2023-05-14T21:30:00Z
-    webUrl: "https://www.stltoday.com/news/def-con-to-set-thousands-of-hackers-loose-on-ai/article_a06fe9e9-6244-55d8-bf17-7c1037086449.html"
+    webUrl: "https://buffalonews.com/news/national/def-con-to-set-thousands-of-hackers-loose-on-ai/article_7afcfa33-877d-5cb1-a396-5f6748a6705b.html"
     type: article
     provider:
-      name: St. Louis Post-Dispatch
-      domain: stltoday.com
+      name: Buffalo News
+      domain: buffalonews.com
     quality: 39
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/a/06/a06fe9e9-6244-55d8-bf17-7c1037086449/645be194d898f.preview.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+      - url: "https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/7/af/7afcfa33-877d-5cb1-a396-5f6748a6705b/645be2b67d6f3.preview.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Taming AI to the benefit of humans"
+    excerpt: "Previous sci-fi movies featuring AI often portray evil-minded enemies set on destroying humanity, such as The Terminator, The Matrix and Blade Runner. Experts, including late British theoretical physicist Stephen Hawking and Tesla CEO Elon Musk,"
+    publishedDateTime: 2023-05-15T02:58:00Z
+    webUrl: "https://global.chinadaily.com.cn/a/202305/15/WS64619228a310b6054fad2f53.html"
+    type: article
+    provider:
+      name: 中国日报网
+      domain: chinadaily.com.cn
+    quality: 39
+    images:
+      - url: "https://img2.chinadaily.com.cn/images/202305/15/64619228a310b60580cce72b.jpeg"
+        width: 608
+        height: 405
         isCached: true
   - title: "Google Wants to Play Both Sides of the AI Arms Race"
     excerpt: "CEO Sundar Pichai and several top executives at Google’s parent company Alphabet took the stage to announce the infusion of AI into its suite of tools, as well as the launch of a new-and-improved AI model to power it all."

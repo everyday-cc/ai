@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/05/11/amp-robotics-attracts-investment-f
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/11/amp-robotics-attracts-investment-from-microsofts-climate-innovation-fund/amp/"
 type: article
 quality: 120
-heat: 340
+heat: 330
 published: true
 
 provider:
@@ -178,20 +178,6 @@ related:
       - url: "https://www.exchange4media.com/news-photo/127271-builderma.jpg"
         width: 730
         height: 395
-        isCached: true
-  - title: "Microsoft and Oracle considered sharing AI servers amid GPU shortages"
-    excerpt: "That existing infrastructure could be used to share GPU server capacity, a person familiar with the matter told The Information. The publication previously reported that Microsoft has rationed access to AI servers for some of its internal teams ..."
-    publishedDateTime: 2023-05-10T09:58:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-and-oracle-considered-sharing-ai-servers-amid-gpu-shortages/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 71
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/Microsoft_Cloud.2e16d0ba.fill-1200x630.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "SymphonyAI announces generative AI collaboration with Microsoft Azure AI"
     excerpt: "SymphonyAI announced today its first generative AI software application that integrates Microsoft Azure OpenAI Service. Sensa Copilot provides sophisticated AI assistance to financial crime investigators by automatically collecting,"

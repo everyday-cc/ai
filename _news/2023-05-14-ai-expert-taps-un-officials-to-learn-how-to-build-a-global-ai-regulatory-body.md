@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/tech/ai-expert-taps-un-officials-learn-build
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/ai-expert-taps-un-officials-learn-build-global-ai-regulatory-body.amp"
 type: article
 quality: 84
-heat: 84
+heat: 85
 published: true
 
 provider:

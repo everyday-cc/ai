@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/tech/how-this-safe-browsing-feature-is-using
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/how-this-safe-browsing-feature-is-using-ai-stay-ahead-scammers.amp"
 type: article
 quality: 87
-heat: 107
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -30,6 +30,54 @@ images:
     isCached: true
 
 related:
+  - title: "How Artificial Intelligence Is Changing Business"
+    excerpt: "Artificial intelligence (AI) has been changing every type of business worldwide. The phrase derives from computer-based operating systems being able to imitate or replicate exact human-like activities. There are also many different types of artificial intelligence, but let’s go over some of the types relating to a business environment."
+    publishedDateTime: 2023-05-12T12:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/12/how-artificial-intelligence-is-changing-business/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/12/how-artificial-intelligence-is-changing-business/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/05/12/how-artificial-intelligence-is-changing-business/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/645907002b0d8e64282796dd/0x0.jpg?format=jpg&crop=6833,3840,x1162,y0,safe&width=1200"
+        width: 1200
+        height: 674
+        isCached: true
+  - title: "How Businesses Can Ethically Embrace Artificial Intelligence"
+    excerpt: "Though there are many benefits to using AI in marketing, we must be aware of the potential risks and ethical concerns that come along with it."
+    publishedDateTime: 2023-05-12T13:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/12/how-businesses-can-ethically-embrace-artificial-intelligence/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/12/how-businesses-can-ethically-embrace-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/05/12/how-businesses-can-ethically-embrace-artificial-intelligence/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/645d3d41cac5cbcb9fcb5cb6/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 650
+        isCached: true
+  - title: "How AI Knows Things No One Told It"
+    excerpt: "Researchers are still struggling to understand how AI models trained to parrot internet text can perform advanced tasks such as running code, playing games and trying to break up a marriage"
+    publishedDateTime: 2023-05-11T17:21:00Z
+    webUrl: "https://www.scientificamerican.com/article/how-ai-knows-things-no-one-told-it/"
+    ampWebUrl: "https://www.scientificamerican.com/article/how-ai-knows-things-no-one-told-it/?amp=true"
+    cdnAmpWebUrl: "https://www-scientificamerican-com.cdn.ampproject.org/c/s/www.scientificamerican.com/article/how-ai-knows-things-no-one-told-it/?amp=true"
+    type: article
+    provider:
+      name: Scientific American
+      domain: scientificamerican.com
+    quality: 57
+    images:
+      - url: "https://static.scientificamerican.com/sciam/cache/file/DA9DB64B-71CA-4563-B7C9D7E66DC6FCE3.jpg"
+        width: 791
+        height: 496
+        isCached: true
   - title: "Audio Book Narrators Say AI Is Already Taking Away Business"
     excerpt: "As people brace for the disruptive impact of artificial intelligence on jobs and everyday living, those in the world of audio books say their field is already being transformed."
     publishedDateTime: 2023-05-14T05:42:00Z
@@ -46,20 +94,38 @@ related:
         width: 768
         height: 396
         isCached: true
-  - title: "AI is coming for Hollywood scriptwriters – this is how they are going to do it"
-    excerpt: "Artificial intelligence mashups of Lord of the Rings, Pixar and Wes Anderson are amusing novelties, but how long before the robots are generating whole screenplays – and can we be sure they’re not already?"
-    publishedDateTime: 2023-05-12T14:46:00Z
-    webUrl: "https://www.theguardian.com/film/2023/may/12/ai-artificial-intelligence-generating-screenplays"
+  - title: "3 AI Stocks That Have Game-Changing Technologies"
+    excerpt: "Companies are leveraging AI to create new technologies that promise to reshape our world. Some AI applications will fail, while others will be game-changing. Thus, investing in th"
+    publishedDateTime: 2023-05-11T16:17:00Z
+    webUrl: "https://www.nasdaq.com/articles/3-ai-stocks-that-have-game-changing-technologies"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 33
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 49
+  - title: "This new AI technique may change how we see the world"
+    excerpt: "How researchers developed this computer vision technique from MIT and Rice University expands our perception of the world."
+    publishedDateTime: 2023-05-10T16:15:00Z
+    webUrl: "https://interestingengineering.com/innovation/ai-technique-may-change-how-we-see-world"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 39
     images:
-      - url: "https://i.guim.co.uk/img/media/5faeb2d2a06b9896f4b6067b8a33d2ba0853b144/0_188_5007_3005/master/5007.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fe2384fb22b167c863cc1e049ef71ecf"
-        width: 1200
-        height: 630
+      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/05/10/image/jpeg/ZjGeLpQURizkvgCNbw2kccq8UKn90IkF267OpyZs.jpg"
+        width: 1920
+        height: 1280
         isCached: true
+  - title: "How technology is changing today's health care"
+    excerpt: "Today, groundbreaking advancements are revolutionizing patient care and the health care industry. Many of these advances are driven by artificial intelligence (AI). Because the health care industry generates so much data every single day,"
+    publishedDateTime: 2023-05-14T11:01:00Z
+    webUrl: "https://www.dailyherald.com/entlife/20230514/how-technology-is-changing-todays-health-care/"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 4
 
 secured: "IG7CO57fjroBV66LUN2cbUAJ5bxYyBaJwHCgk9NVTUL0X8tJuU4JLhi9XjxgdDMsH6iXLCsC/3hjn3S9SbhcyFCLV07kl65yJoZzS/bKzSLX4ds371pWCty1NBf2Xx0lu0ESau8nG3GR9DDLEybYwcZVKHtWY5pGbeefwe33Go0piZlSGtlJEn1iXHDNVxv72A/ZwmbfwS0UZKaYzaKcDuU4mLxH/HMdko3+kHB8THA+tOvNEduyps2OBWtxpXJ92wPJuii7HV7pfZ8BKkmGPMiyjyoauHITBr3JkbK1QKh/ZXNajbWHwtd97xlv0SGVNk4CmaTAA9VmAlmKxOi7RaKhzrGA+dHDMgetAsgKZEKyViwTWOruu7+Er1UE7O5kBLUIvmigVfKqOfFe2HI542G2tcrbkxGJuekTwBDAWtn9sv71MTDqVgviwEoNZ9oRym3Y4XH4vIHxvysxYsUIqxyrNJn1REhTX7a37Gv5o8DWs+YekEIkCbNkwL1ljkWl2nxs6G/AxinVtqkBAevCYw==;h4KHnXGG1iXp+ET2jN0tkw=="
 ---

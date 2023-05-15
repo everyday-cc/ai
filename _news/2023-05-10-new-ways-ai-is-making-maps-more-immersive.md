@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/products/maps/google-maps-updates-io-2023/amp/"
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/maps/google-maps-updates-io-2023/amp/"
 type: article
 quality: 109
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -70,6 +70,20 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 39
+  - title: "Tracking Generative AI: How Evolving AI Models Are Impacting Legal"
+    excerpt: "A running compilation of how the legal landscape continues to be shaped by generative AI tools, from GPT technologies to art generation tools and beyond."
+    publishedDateTime: 2023-05-15T02:06:00Z
+    webUrl: "https://www.law.com/legaltechnews/2023/05/14/tracking-generative-ai-how-evolving-ai-models-are-impacting-legal/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 39
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/01/Numbers-Artificial-Intelligence-767x633.jpg"
+        width: 767
+        height: 633
+        isCached: true
 
 secured: "bBe/GTC69zi4Pmn899k+IgIp2L8FuB/jbI2ogY6Oot+bVrCSd0NyFwXCVBxJOFiHTLWijmlbrX47NlNPyrVsnq9c3AGBbc9GWnWqA7RSHHF9N6Oy0nNyR436Jbp7fYnfrq+2dcnfA84/TUaxx5VYe6z+9bpN1CNa3Z7cVc2OtKviwJk/tyGnn0QVSP4UFl9QK0bq5936UwL5F8OhX38p68hz28OEjED2IB2E+g9hEDkvwEpc7N4Rq1sZQWX2cIa4PphULar7pRpTdlONCgKpaEExSmpjN92YyjUX9XGa0G2UjZEQte/H22p0aVc6/wBFiRgpKp/QyCiRDlFbeUdjZaEBrDS5/nWIdlU5TTYjNHc=;C4EdnxNAbA05/XLUJ6nEDw=="
 ---

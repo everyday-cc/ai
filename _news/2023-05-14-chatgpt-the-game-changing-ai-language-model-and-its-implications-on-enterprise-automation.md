@@ -3,10 +3,10 @@ category: news
 title: "ChatGPT: The game-changing AI-language model and its implications on enterprise automation"
 excerpt: "ChatGPT has gained global attention and recognition, yet its impact on enterprise automation remains an area not fully explored. Analyzing it from the standpoint of intelligent automation can reveal its potential impact on the"
 publishedDateTime: 2023-05-14T10:03:00Z
-originalUrl: "https://timesofindia.indiatimes.com/blogs/voices/chatgpt-the-game-changing-ai-language-model-and-its-implications-on-enterprise-automation/?source=app&frmapp=yes"
-webUrl: "https://timesofindia.indiatimes.com/blogs/voices/chatgpt-the-game-changing-ai-language-model-and-its-implications-on-enterprise-automation/?source=app&frmapp=yes"
-ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/chatgpt-the-game-changing-ai-language-model-and-its-implications-on-enterprise-automation/?source=app&frmapp=yes"
-cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/chatgpt-the-game-changing-ai-language-model-and-its-implications-on-enterprise-automation/?source=app&frmapp=yes"
+originalUrl: "https://timesofindia.indiatimes.com/blogs/voices/chatgpt-the-game-changing-ai-language-model-and-its-implications-on-enterprise-automation/"
+webUrl: "https://timesofindia.indiatimes.com/blogs/voices/chatgpt-the-game-changing-ai-language-model-and-its-implications-on-enterprise-automation/"
+ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/chatgpt-the-game-changing-ai-language-model-and-its-implications-on-enterprise-automation/"
+cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/chatgpt-the-game-changing-ai-language-model-and-its-implications-on-enterprise-automation/"
 type: article
 quality: 49
 heat: -1
@@ -58,22 +58,6 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/645d5d77a5a034c6f9e63673/0x0.jpg?format=jpg&width=1200"
         width: 1066
         height: 628
-        isCached: true
-  - title: "The Crucial Ways That Religion And Generative AI ChatGPT Are Crossing Fateful Faithful Paths"
-    excerpt: "Religion and generative AI such as ChatGPT are crossing paths, here's a comprehensive look at this fateful faithful intertwining, including upsides and downsides."
-    publishedDateTime: 2023-05-10T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/05/10/the-crucial-ways-that-religion-and-generative-ai-chatgpt-are-crossing-fateful-faithful-paths/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/05/10/the-crucial-ways-that-religion-and-generative-ai-chatgpt-are-crossing-fateful-faithful-paths/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/05/10/the-crucial-ways-that-religion-and-generative-ai-chatgpt-are-crossing-fateful-faithful-paths/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 80
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64591690fd83c13dff9c02fa/0x0.jpg?format=jpg&crop=3240,2160,x432,y0,safe&width=1200"
-        width: 1200
-        height: 800
         isCached: true
   - title: "Here is how Europe is pushing to regulate artificial intelligence as ChatGPT rapidly emerges"
     excerpt: "The European Union voted to strengthen regulations around artificial intelligence. Here is a look into how chatbots such as ChatGPT could be regulated in the continent."
@@ -310,6 +294,6 @@ related:
       domain: usatoday.com
     quality: 7
 
-secured: "4sTiU9p7CXB3F5uEpL2u1cjsnFcjaEKqBB6xn94VU0UOAfrrufmgOEfECob3g+yidJ69qKOANJVS41ThPfzDTPVU/cDClqwyTM/yNBrZ51iU8xZV5jOeeAkcT4m45lAhZi0Oq14X/83zrAJAUGQvOYRymZHw3eS9jv8/wQuwawT0p90/jJxxKjhWAj8VG9oxdDoGw/BEyWbElSX3xO/mwQweqSnpsl+uJ96x3La69rW3z5UGLGRKY8qpbOYLrq4vPmByjTjzqQELuyr8T9lza4xCeH8GUUJRpvjzlsrtfWrUU9M7WHBrY4+yicEQQ3rs1xYlQ/jKExnHTM1J4MYmx7CS2GS/sQqNYv9v1P7G4uI=;WSzbRufxP1OtMrraWAwo4w=="
+secured: "LpXU3SkgLs7UmFELGo/dkPfUVq1oUaw4Ekd+fkvxHeaL/65TZv1E2628CH90o/f1mkH/04jdWRgQo7k3mIVVGV4D+9HRRDXadtfEB1Z6+R8QoNi7dpZT3Avjk1qj9trXJ530VCtLpK4Mk29d2Dn/3OKSyrY7clRPzeNiK4hlNMs7n5hxNFt5jgM5V/qdNwCLHsSMYQ+iJR2bUnH0TrpANRn4IVSWVPkkqHkdXm9YwsPA4YOEuIfVx+FXZDyxOFwWH57js3MZRgwgmI5lWEFQLALQATxxFKVRiv1AKTGnc2BfZgGCXw9N3JjUllF6Pxak31iNOenHnlmEsnNSzmQ9bK7BwJ6hRIszr3SMQg4GXLs=;M5Viud8aJE1cfYJ+aSxNjw=="
 ---
 

@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "How Small Businesses Can Integrate AI Tools And Empower Their Team"
-    excerpt: "As entrepreneurs, it's important to stay ahead of the curve and not ignore emerging technologies that can give us a competitive edge. At the same time, we must prioritize taking care of our people. Here are my thoughts on how to integrate AI into your small business in a responsible way."
-    publishedDateTime: 2023-05-10T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/theyec/2023/05/10/how-small-businesses-can-integrate-ai-tools-and-empower-their-team/"
-    ampWebUrl: "https://www.forbes.com/sites/theyec/2023/05/10/how-small-businesses-can-integrate-ai-tools-and-empower-their-team/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2023/05/10/how-small-businesses-can-integrate-ai-tools-and-empower-their-team/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64595406c962fe6795be84e9/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 484
-        isCached: true
   - title: "How Artificial Intelligence Is Changing Business"
     excerpt: "Artificial intelligence (AI) has been changing every type of business worldwide. The phrase derives from computer-based operating systems being able to imitate or replicate exact human-like activities. There are also many different types of artificial intelligence, but let’s go over some of the types relating to a business environment."
     publishedDateTime: 2023-05-12T12:00:00Z
@@ -62,6 +46,86 @@ related:
         width: 1200
         height: 674
         isCached: true
+  - title: "How this safe browsing feature is using AI to stay ahead of scammers"
+    excerpt: "Kurt \"The CyberGuy\" Knutsson shares steps on how to enable Android's Safe Browsing feature, so you can feel more secure when browsing the internet on your phone."
+    publishedDateTime: 2023-05-13T01:43:00Z
+    webUrl: "https://www.foxnews.com/tech/how-this-safe-browsing-feature-is-using-ai-stay-ahead-scammers"
+    ampWebUrl: "https://www.foxnews.com/tech/how-this-safe-browsing-feature-is-using-ai-stay-ahead-scammers.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/how-this-safe-browsing-feature-is-using-ai-stay-ahead-scammers.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 87
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/68f44d3f-4879-4357-aa2e-a9418b634a84/f9e8ca78-fc06-4391-ad1c-2a735f711145/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "How AI Knows Things No One Told It"
+    excerpt: "Researchers are still struggling to understand how AI models trained to parrot internet text can perform advanced tasks such as running code, playing games and trying to break up a marriage"
+    publishedDateTime: 2023-05-11T17:21:00Z
+    webUrl: "https://www.scientificamerican.com/article/how-ai-knows-things-no-one-told-it/"
+    ampWebUrl: "https://www.scientificamerican.com/article/how-ai-knows-things-no-one-told-it/?amp=true"
+    cdnAmpWebUrl: "https://www-scientificamerican-com.cdn.ampproject.org/c/s/www.scientificamerican.com/article/how-ai-knows-things-no-one-told-it/?amp=true"
+    type: article
+    provider:
+      name: Scientific American
+      domain: scientificamerican.com
+    quality: 57
+    images:
+      - url: "https://static.scientificamerican.com/sciam/cache/file/DA9DB64B-71CA-4563-B7C9D7E66DC6FCE3.jpg"
+        width: 791
+        height: 496
+        isCached: true
+  - title: "Audio Book Narrators Say AI Is Already Taking Away Business"
+    excerpt: "As people brace for the disruptive impact of artificial intelligence on jobs and everyday living, those in the world of audio books say their field is already being transformed."
+    publishedDateTime: 2023-05-14T05:42:00Z
+    webUrl: "https://www.barrons.com/news/audio-book-narrators-say-ai-is-already-taking-away-business-1837d837"
+    ampWebUrl: "https://www.barrons.com/amp/news/audio-book-narrators-say-ai-is-already-taking-away-business-1837d837"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/audio-book-narrators-say-ai-is-already-taking-away-business-1837d837"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 57
+    images:
+      - url: "https://www.barrons.com/asset/external-media/afp/AFP9260753792462234016572263585427134158643---1.jpg"
+        width: 768
+        height: 396
+        isCached: true
+  - title: "3 AI Stocks That Have Game-Changing Technologies"
+    excerpt: "Companies are leveraging AI to create new technologies that promise to reshape our world. Some AI applications will fail, while others will be game-changing. Thus, investing in th"
+    publishedDateTime: 2023-05-11T16:17:00Z
+    webUrl: "https://www.nasdaq.com/articles/3-ai-stocks-that-have-game-changing-technologies"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 49
+  - title: "This new AI technique may change how we see the world"
+    excerpt: "How researchers developed this computer vision technique from MIT and Rice University expands our perception of the world."
+    publishedDateTime: 2023-05-10T16:15:00Z
+    webUrl: "https://interestingengineering.com/innovation/ai-technique-may-change-how-we-see-world"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 39
+    images:
+      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/05/10/image/jpeg/ZjGeLpQURizkvgCNbw2kccq8UKn90IkF267OpyZs.jpg"
+        width: 1920
+        height: 1280
+        isCached: true
+  - title: "How technology is changing today's health care"
+    excerpt: "Today, groundbreaking advancements are revolutionizing patient care and the health care industry. Many of these advances are driven by artificial intelligence (AI). Because the health care industry generates so much data every single day,"
+    publishedDateTime: 2023-05-14T11:01:00Z
+    webUrl: "https://www.dailyherald.com/entlife/20230514/how-technology-is-changing-todays-health-care/"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 4
 
 secured: "zWMBxYf5cI5mlbhIm8lbADjRRefhwcRgd2R6FSsoC9EfjU4DixBemtAt0eZgb9jC83tvAWNVBT4apomyG1hR0+mVkcl2Hhe4IB1FFqvMXBWCOCcmnKNvEazn9lYZS2XFfZY1aWOLUUma7qwCRiXUGZdOYiR978W0uqJfAOiY24boyuzCQHLVDFVX1/2Oaxb3YZsLi1TzFGbJLViWecLwftxg3SSfjHSEHfNdinrnk9Ly97efHPnPd2uzEHF+usmDYviMMC4Yw0SW27jq36D353Y7PKeW1c7oyWFjhqgK2EI2bgbZAEJK71kTpJCGpAaYgnxDLuSYTeseyq1Np2Z/hQSZ88GbseY72OmkDc1cTEg=;9xnDGwFgtfkPlIdr79Bdfw=="
 ---

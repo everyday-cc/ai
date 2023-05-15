@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/ibm-it-automation-reflections-from-ibm-th
 webUrl: "https://www.ibm.com/blog/ibm-it-automation-reflections-from-ibm-think/"
 type: article
 quality: 102
-heat: 122
+heat: 112
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "How IBM is helping organizations accelerate their adoption of intelligent automation solutions"
-    excerpt: "IBM is committed to being the catalyst to help organizations accelerate their adoption of intelligent automation solutions.\nThe post How IBM is helping organizations accelerate their adoption of intelligent automation solutions appeared first on IBM Blog.\n"
-    publishedDateTime: 2023-05-10T11:00:00Z
-    webUrl: "https://www.ibm.com/blog/how-ibm-is-helping-organizations-accelerate-their-adoption-of-intelligent-automation-solutions/"
-    type: article
-    provider:
-      name: IBM
-      domain: ibm.com
-    quality: 90
-    images:
-      - url: "https://www.ibm.com/blog/wp-content/uploads/2023/05/wave-flowing-network2.lr_-630x330.jpg"
-        width: 630
-        height: 330
-        isCached: true
   - title: "Machine-learning innovation in RayStation: prioritizing speed, automation, efficiency"
     excerpt: "RaySearch Laboratories and its clinical customers are leveraging advances in machine learning to reimagine the radiotherapy workflow"
     publishedDateTime: 2023-05-11T16:11:00Z

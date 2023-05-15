@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-construction-market-2030-2023-05-14"
 type: article
 quality: 67
-heat: 77
+heat: 79
 published: true
 
 provider:
@@ -43,6 +43,6 @@ related:
         height: 630
         isCached: true
 
-secured: "ilb5S1SJ2E98EbpbbP5AYLChyklBCVXbH9LslXIMFU6r3Dle/yNeSkX2/jInJVKd+UjOexCAc+/bCEFIq94AqWfBoJDGJCU/d3lvLkiuGERHC9DmFlgcJ5rOTqz5CIM9ZYE8rsNPB8cHmavkUoaQgNqS+Gfn1OfdeIEhu+uiYm2PlNSXHo42e7YJ2iA7dzFo/VB2KBkCxLWixSQREoVkgiLfuZQtHYZ/cL3kOJ5tKKe7XQTMjNpR1SKEkXuxMT0MpJKrLMCyt099rjc4TBEScBGf0QxlSnz2nLq3F3tvnPJcpiqlKdBcBcM4wcgp6J2M6p+4Jlo6wC1GCtzJMuiEATtjPYSFeCESLY81Dci2YM0=;AauZFIEBfKW5CK9bWwdkqg=="
+secured: "yh19pSdzTljWPtmvfilkvrUxtEQEfIIuCSwgAZ9dsv1P9b8Uhkw5+VOq1Lb3wugaASIj/mhzIFIXySNgo1Kln7ph0I7dhSvhaXpU2oTDieWTiuc+ojYcC31ONkHzrJPGeG6huPDzMzlxs73YK/1+g6UtSe0qP0RImFq38tRqQAk1XR18/LQkgpOuHMdV5tlfN/JssvUXSP5QvmgI/3M0FN922XsOcLy/FDEFgtr0e7YWHvHiDNtw/6PsHUQMicpYvmsPbSmHCsJRYVt+1vJrHsxM5DN1JxJ5fiffZ3Yy7n4nzWTTyMv5b6EZ7PvRU5RbDsw6N08WR9umW+vfviDouh0cZOqM5w84vfwND2thtoE=;gIZXAmH5qrG4ZiAeFdP+jA=="
 ---
 

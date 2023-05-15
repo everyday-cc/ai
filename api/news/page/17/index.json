@@ -2,6 +2,101 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2023-05-03-trovata-launches-first-generative-ai-finance-treasury-tool.md",
+      "title": "Trovata Launches First Generative AI Finance & Treasury Tool",
+      "excerpt": "Trovata Launches First Generative AI Finance & Treasury Tool May 03, 2023 (PRNewswire via COMTEX) -- PR Newswire SAN DIEGO, May 3, 2023 Trovata",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/trovata-launches-first-generative-ai-finance-treasury-tool-2023-05-03",
+      "originalUrl": "https://www.marketwatch.com/press-release/trovata-launches-first-generative-ai-finance-treasury-tool-2023-05-03",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-03T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-03-3play-media-study-finds-artificial-intelligence-innovation-has-led-to-significant-improvements-in-automatic-speech-recognition-asr.md",
+      "title": "3Play Media Study Finds Artificial Intelligence Innovation Has Led to Significant Improvements in Automatic Speech Recognition (ASR)",
+      "excerpt": "ASR technology has never been as accurate as it is today thanks to advances in artificial intelligence (AI), according to a report from 3Play Media, the leading media accessibility provider, released today.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bakersfield.com/ap/news/3play-media-study-finds-artificial-intelligence-innovation-has-led-to-significant-improvements-in-automatic-speech/article_2bb5eaa0-827d-5bba-8c96-02349104c5a5.html",
+      "originalUrl": "https://www.bakersfield.com/ap/news/3play-media-study-finds-artificial-intelligence-innovation-has-led-to-significant-improvements-in-automatic-speech/article_2bb5eaa0-827d-5bba-8c96-02349104c5a5.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png?resize=600%2C315",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-03T05:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Bakersfield Californian",
+        "domain": "bakersfield.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-03-google-deepmind-boss-predicts-ai-as-powerful-as-the-human-brain-could-arrive-within-the-next-few-years-report-says.md",
       "title": "Google DeepMind boss predicts AI as powerful as the human brain could arrive within the next few years, report says",
       "excerpt": "An envelope. It indicates the ability to send an email. An curved arrow pointing right. AI that is as powerful as the human brain could arrive within the next few years, according to the boss of ...",
@@ -1115,100 +1210,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-03-the-ai-political-campaign-is-here.md",
-      "title": "The AI political campaign is here",
-      "excerpt": "President Barack Obama's 2008 election campaign has often been celebrated as the first to effectively use social media as a mobilization tool to capture the White House. In the 15 years since, the technology has gone from being a novel addition to a political campaign to transcending every aspect of one.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2023/05/02/politics/ai-election-ads-2024/index.html",
-      "originalUrl": "https://www.cnn.com/2023/05/02/politics/ai-election-ads-2024/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/230502181615-rnc-beat-biden-ai-ad-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2023/05/02/politics/ai-election-ads-2024/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/05/02/politics/ai-election-ads-2024/index.html",
-      "publishedDateTime": "2023-05-02T14:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-03-private-ai-says-its-new-offering-allows-firms-to-safely-leverage-chatgpt.md",
-      "title": "Private AI says its new offering allows firms to safely leverage ChatGPT",
-      "excerpt": "Toronto-based Private AI, a developer of data privacy software offerings, yesterday launched PrivateGPT, an artificial intelligence (AI)-powered tool it said can help organizations “safely ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.itworldcanada.com/article/private-ai-says-its-new-offering-allows-firms-to-safely-leverage-chatgpt/538064",
-      "originalUrl": "https://www.itworldcanada.com/article/private-ai-says-its-new-offering-allows-firms-to-safely-leverage-chatgpt/538064",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.itworldcanada.com/wp-content/uploads/2023/05/GettyImages-1483618422.jpg",
-          "width": 703,
-          "height": 497,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itworldcanada.com/article/private-ai-says-its-new-offering-allows-firms-to-safely-leverage-chatgpt/538064?amp=1",
-      "cdnAmpWebUrl": "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/private-ai-says-its-new-offering-allows-firms-to-safely-leverage-chatgpt/538064?amp=1",
-      "publishedDateTime": "2023-05-02T13:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT World Canada",
-        "domain": "itworldcanada.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

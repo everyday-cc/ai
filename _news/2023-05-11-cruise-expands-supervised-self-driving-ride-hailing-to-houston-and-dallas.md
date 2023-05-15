@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/05/10/cruise-expands-supervised-self-dri
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/10/cruise-expands-supervised-self-driving-ride-hailing-to-houston-and-dallas/amp/"
 type: article
 quality: 88
-heat: 128
+heat: 118
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "GM's Cruise bringing autonomous vehicles to Houston"
-    excerpt: "Cruise, a General Motors autonomous vehicle subsidiary, is bringing its self-driving cars to Houston with the goal of offering driverless rides. The cars will begin testing next week, said Megan Prichard,"
-    publishedDateTime: 2023-05-10T10:01:00Z
-    webUrl: "https://www.houstonchronicle.com/business/article/autonomous-vehicle-houston-general-motors-test-18088431.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: houstonchronicle.com
-    quality: 24
-    images:
-      - url: "https://s.hdnux.com/photos/01/13/17/54/19725083/6/rawImage.jpg"
-        width: 2048
-        height: 1367
         isCached: true
   - title: "California self-driving technology company Cruise coming to Houston, Dallas"
     excerpt: "Cruise announced on Wednesday the San Francisco-based company will expand its operations to Dallas and Houston."

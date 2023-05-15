@@ -19,130 +19,109 @@ topics:
   - Microsoft AI
 
 related:
-  - title: "Mass Event Will Let Hackers Test Limits of AI Technology"
-    excerpt: "Major AI providers such as OpenAI, Google, and Microsoft, are allowing hackers take a shot at testing the limits of their technology."
-    publishedDateTime: 2023-05-11T12:19:00Z
-    webUrl: "https://www.securityweek.com/mass-event-will-let-hackers-test-limits-of-ai-technology/"
-    ampWebUrl: "https://www.securityweek.com/mass-event-will-let-hackers-test-limits-of-ai-technology/amp/"
-    cdnAmpWebUrl: "https://www-securityweek-com.cdn.ampproject.org/c/s/www.securityweek.com/mass-event-will-let-hackers-test-limits-of-ai-technology/amp/"
+  - title: "How Artificial Intelligence Is Changing Business"
+    excerpt: "Artificial intelligence (AI) has been changing every type of business worldwide. The phrase derives from computer-based operating systems being able to imitate or replicate exact human-like activities. There are also many different types of artificial intelligence, but let’s go over some of the types relating to a business environment."
+    publishedDateTime: 2023-05-12T12:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/12/how-artificial-intelligence-is-changing-business/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/12/how-artificial-intelligence-is-changing-business/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/05/12/how-artificial-intelligence-is-changing-business/amp/"
     type: article
     provider:
-      name: SecurityWeek
-      domain: securityweek.com
-    quality: 59
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://www.securityweek.com/wp-content/uploads/2023/04/ChatGPT_Security-Ethics-AI.jpg"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/645907002b0d8e64282796dd/0x0.jpg?format=jpg&crop=6833,3840,x1162,y0,safe&width=1200"
+        width: 1200
+        height: 674
+        isCached: true
+  - title: "How Businesses Can Ethically Embrace Artificial Intelligence"
+    excerpt: "Though there are many benefits to using AI in marketing, we must be aware of the potential risks and ethical concerns that come along with it."
+    publishedDateTime: 2023-05-12T13:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/12/how-businesses-can-ethically-embrace-artificial-intelligence/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/12/how-businesses-can-ethically-embrace-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/05/12/how-businesses-can-ethically-embrace-artificial-intelligence/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/645d3d41cac5cbcb9fcb5cb6/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 650
+        isCached: true
+  - title: "How this safe browsing feature is using AI to stay ahead of scammers"
+    excerpt: "Kurt \"The CyberGuy\" Knutsson shares steps on how to enable Android's Safe Browsing feature, so you can feel more secure when browsing the internet on your phone."
+    publishedDateTime: 2023-05-13T01:43:00Z
+    webUrl: "https://www.foxnews.com/tech/how-this-safe-browsing-feature-is-using-ai-stay-ahead-scammers"
+    ampWebUrl: "https://www.foxnews.com/tech/how-this-safe-browsing-feature-is-using-ai-stay-ahead-scammers.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/how-this-safe-browsing-feature-is-using-ai-stay-ahead-scammers.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 87
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/68f44d3f-4879-4357-aa2e-a9418b634a84/f9e8ca78-fc06-4391-ad1c-2a735f711145/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
         width: 1200
         height: 675
         isCached: true
-  - title: "Hackers to test limits of AI at Las Vegas event this summer"
-    excerpt: "The Biden administration is joining forces with Microsoft, Google and other companies to get hackers to see if tools like ChatGPT can be used to cause harm."
-    publishedDateTime: 2023-05-11T17:09:00Z
-    webUrl: "https://www.reviewjournal.com/business/conventions/hackers-to-test-limits-of-ai-at-las-vegas-event-this-summer-2775790/"
-    ampWebUrl: "https://www.reviewjournal.com/business/conventions/hackers-to-test-limits-of-ai-at-las-vegas-event-this-summer-2775790/amp/"
-    cdnAmpWebUrl: "https://www-reviewjournal-com.cdn.ampproject.org/c/s/www.reviewjournal.com/business/conventions/hackers-to-test-limits-of-ai-at-las-vegas-event-this-summer-2775790/amp/"
+  - title: "How AI Knows Things No One Told It"
+    excerpt: "Researchers are still struggling to understand how AI models trained to parrot internet text can perform advanced tasks such as running code, playing games and trying to break up a marriage"
+    publishedDateTime: 2023-05-11T17:21:00Z
+    webUrl: "https://www.scientificamerican.com/article/how-ai-knows-things-no-one-told-it/"
+    ampWebUrl: "https://www.scientificamerican.com/article/how-ai-knows-things-no-one-told-it/?amp=true"
+    cdnAmpWebUrl: "https://www-scientificamerican-com.cdn.ampproject.org/c/s/www.scientificamerican.com/article/how-ai-knows-things-no-one-told-it/?amp=true"
     type: article
     provider:
-      name: Las Vegas Review-Journal
-      domain: reviewjournal.com
-    quality: 59
+      name: Scientific American
+      domain: scientificamerican.com
+    quality: 57
     images:
-      - url: "https://www.reviewjournal.com/wp-content/uploads/2023/05/17764760_web1_17764760-0f19e4ef3ff84811b06fbaa753ea19a6.jpg?w=1200"
-        width: 1200
-        height: 800
+      - url: "https://static.scientificamerican.com/sciam/cache/file/DA9DB64B-71CA-4563-B7C9D7E66DC6FCE3.jpg"
+        width: 791
+        height: 496
         isCached: true
-  - title: "Hackers to test limits of AI technology at Las Vegas event"
-    excerpt: "OpenAI and other major AI providers are coordinating with the Biden administration to let thousands of hackers take shots at testing the limits of their technology."
-    publishedDateTime: 2023-05-11T03:56:00Z
-    webUrl: "https://www.nbcnews.com/tech/tech-news/mass-event-will-let-hackers-test-limits-ai-technology-rcna83708"
+  - title: "Audio Book Narrators Say AI Is Already Taking Away Business"
+    excerpt: "As people brace for the disruptive impact of artificial intelligence on jobs and everyday living, those in the world of audio books say their field is already being transformed."
+    publishedDateTime: 2023-05-14T05:42:00Z
+    webUrl: "https://www.barrons.com/news/audio-book-narrators-say-ai-is-already-taking-away-business-1837d837"
+    ampWebUrl: "https://www.barrons.com/amp/news/audio-book-narrators-say-ai-is-already-taking-away-business-1837d837"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/audio-book-narrators-say-ai-is-already-taking-away-business-1837d837"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 49
-  - title: "Mass event will let hackers test limits of AI technology"
-    excerpt: "No sooner did ChatGPT get unleashed than hackers started “jailbreaking” the artificial intelligence chatbot – trying to override its safeguards so it could blurt out something unhinged or obscene"
-    publishedDateTime: 2023-05-10T15:02:00Z
-    webUrl: "https://abcnews.go.com/Technology/wireStory/hackers-aim-find-flaws-ai-white-house-99219240"
+      name: Barron's
+      domain: barrons.com
+    quality: 57
+    images:
+      - url: "https://www.barrons.com/asset/external-media/afp/AFP9260753792462234016572263585427134158643---1.jpg"
+        width: 768
+        height: 396
+        isCached: true
+  - title: "This new AI technique may change how we see the world"
+    excerpt: "How researchers developed this computer vision technique from MIT and Rice University expands our perception of the world."
+    publishedDateTime: 2023-05-10T16:15:00Z
+    webUrl: "https://interestingengineering.com/innovation/ai-technique-may-change-how-we-see-world"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: Interesting Engineering
+      domain: interestingengineering.com
     quality: 39
     images:
-      - url: "https://s.abcnews.com/images/US/wirestory_97b963db084800f11b26b8a023b1713f_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/05/10/image/jpeg/ZjGeLpQURizkvgCNbw2kccq8UKn90IkF267OpyZs.jpg"
+        width: 1920
+        height: 1280
         isCached: true
-  - title: "Thousands of hackers will soon test the limits of AI technology"
-    excerpt: "No sooner did ChatGPT get unleashed than hackers started “jailbreaking” the artificial intelligence chatbot – trying to override its safeguards so it could blurt out something unhinged or obscene. But now its maker,"
-    publishedDateTime: 2023-05-10T15:23:00Z
-    webUrl: "https://www.dailypress.com/nation-world/vp-nw-chatgpt-ai-hackers-20230510-hdgshb52pnfvbdwr22jjcyjdmi-story.html"
+  - title: "How technology is changing today's health care"
+    excerpt: "Today, groundbreaking advancements are revolutionizing patient care and the health care industry. Many of these advances are driven by artificial intelligence (AI). Because the health care industry generates so much data every single day,"
+    publishedDateTime: 2023-05-14T11:01:00Z
+    webUrl: "https://www.dailyherald.com/entlife/20230514/how-technology-is-changing-todays-health-care/"
     type: article
     provider:
-      name: Daily Press
-      domain: dailypress.com
-    quality: 39
-    images:
-      - url: "https://www.dailypress.com/resizer/BOaqPlMihMZc9VFw9XP_zlzSzdg=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/AOU5ZRXYBHSDZZIUXNBDMAUUNQ.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Mass event will let hackers test limits of AI technology"
-    excerpt: "OpenAI and other major AI providers such as Google and Microsoft, are coordinating with the Biden administration to let thousands of hackers take a shot at testing the limits of their technology."
-    publishedDateTime: 2023-05-13T14:13:00Z
-    webUrl: "https://www.ksl.com/article/50641482/mass-event-will-let-hackers-test-limits-of-ai-technology"
-    type: article
-    provider:
-      name: KSL
-      domain: ksl.com
-    quality: 39
-    images:
-      - url: "https://img.ksl.com/slc/2929/292917/29291734.jpg?filter=kslv2/responsive_story_lg"
-        width: 1228
-        height: 690
-        isCached: true
-  - title: "Vintra showcases its artificial intelligence technology in a demo"
-    excerpt: "Vintra, mentioned by former Boston police commissioner Ed Davis during a Senate hearing about the Boston marathon bombing, can learn \"from normal activity\" to notify operators of \"approaching threats and of anomalies."
-    publishedDateTime: 2023-05-10T22:30:00Z
-    webUrl: "https://www.foxbusiness.com/video/6327054767112"
-    type: article
-    provider:
-      name: Fox Business
-      domain: foxbusiness.com
-    quality: 37
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/134b7b90-1d04-409f-8702-f36e8b024f01/b15f0495-266a-4b82-a6b6-c61ff14fc4dc/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Las Vegas event will let hackers test limits of AI technology"
-    excerpt: "No sooner did ChatGPT get unleashed than hackers started “jailbreaking” the artificial intelligence chatbot — trying to override its safeguards so it could blurt out something"
-    publishedDateTime: 2023-05-10T16:26:00Z
-    webUrl: "https://lasvegassun.com/news/2023/may/10/las-vegas-event-will-let-hackers-test-limits-of-ai/"
-    type: article
-    provider:
-      name: Las Vegas Sun
-      domain: lasvegassun.com
-    quality: 19
-  - title: "Hackers to test limits of AI technology in mass event"
-    excerpt: "ChatGPT creator OpenAI and other major AI providers are coordinating with the Biden administration to let hackers test the limits of their technology."
-    publishedDateTime: 2023-05-10T19:14:00Z
-    webUrl: "https://thedailyrecord.com/2023/05/10/hackers-to-test-limits-of-ai-technology-in-mass-event/"
-    type: article
-    provider:
-      name: The Daily Record (Maryland)
-      domain: thedailyrecord.com
-    quality: 19
-  - title: "Artificial intelligence can be found in many places. How safe is the technology?"
-    excerpt: "NPR's A Martinez speaks with Jack Clark, co-founder of artificial intelligence company Anthropic, about AI safety concerns."
-    publishedDateTime: 2023-05-10T14:08:00Z
-    webUrl: "https://www.wuwm.com/health-science/health-science/2023-05-10/artificial-intelligence-can-be-found-in-many-places-how-safe-is-the-technology"
-    type: article
-    provider:
-      name: WUWM
-      domain: wuwm.com
-    quality: 14
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 4
 
 secured: "Zh+bu//M6mvf3Nuq9uN+pvoJ1CLyRoQ2yctkEmVU4wolh3eSHllsosmKsy9RrtjIA3DTkffna7kNuz5oKscLDb6AqhH2/AvAjq2xHVPCiIgfJbmj0f5S993SJuy1pGpOUMIE27H47RLVTAu0U5irsWie85FCHuIvijKvHvU61ydcPSLyX9KydHkl8e3Wcs5GbPUgVyO30NANWPefOq/K0Eu+2+PmDnaVl63Inpz5WV987L5kQtFMN1+Q5zDsoyMC2lLSxnLk4wHvNqBioXw9uhidVBOlneVKzP3pBF6Fk+3l27wOOLxyBF89zwTZtz/vr2PwGVquq1rCSSQGOaSodR+xLy8TIXC1y3DKupgCYAxzpY06Z2TACrbf01bg7+ssx5Fopm0qnHgfYlasPLfVBiOCI+txYyr6+wAatxacUVm8BHpa4sjswcm5qL9PLmpDhf6FpKOfx6Bti/22pJQh4e1g6UsWqflD+XNWmPn7IHrpBXN7AFIVo6iQNld0BPOxEBFpTdTWTxEhLuYbn5X23Q==;zpbIRh2r/u+ICBCEp8owUw=="
 ---

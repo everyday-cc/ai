@@ -51,15 +51,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "3 AI Stocks That Have Game-Changing Technologies"
-    excerpt: "Companies are leveraging AI to create new technologies that promise to reshape our world. Some AI applications will fail, while others will be game-changing. Thus, investing in th"
-    publishedDateTime: 2023-05-11T16:17:00Z
-    webUrl: "https://www.nasdaq.com/articles/3-ai-stocks-that-have-game-changing-technologies"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 49
   - title: "Mass event will let hackers test limits of AI technology"
     excerpt: "No sooner did ChatGPT get unleashed than hackers started “jailbreaking” the artificial intelligence chatbot – trying to override its safeguards so it could blurt out something unhinged or obscene"
     publishedDateTime: 2023-05-10T15:02:00Z

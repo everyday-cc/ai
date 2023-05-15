@@ -188,20 +188,6 @@ related:
         width: 730
         height: 395
         isCached: true
-  - title: "Microsoft and Oracle considered sharing AI servers amid GPU shortages"
-    excerpt: "That existing infrastructure could be used to share GPU server capacity, a person familiar with the matter told The Information. The publication previously reported that Microsoft has rationed access to AI servers for some of its internal teams ..."
-    publishedDateTime: 2023-05-10T09:58:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-and-oracle-considered-sharing-ai-servers-amid-gpu-shortages/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 71
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/Microsoft_Cloud.2e16d0ba.fill-1200x630.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Face Recognition API Market ICT Industry 2023 Global Insights and Business Scenario Microsoft Computer Vision API, Lambda Labs API, Inferdo"
     excerpt: "A full Sample Report of Face Recognition API Market is Available Free –  This research report provides a lucrative growth opportunity for the market players to generate better revenue streams by expanding their market presence in the emerging economies."
     publishedDateTime: 2023-05-12T08:45:00Z

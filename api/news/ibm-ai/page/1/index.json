@@ -10,7 +10,7 @@
       "originalUrl": "https://www.ibm.com/blog/mttr-vs-mtbf/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 102,
+      "heat": 103,
       "tags": null,
       "images": [
         {
@@ -156,7 +156,7 @@
       "originalUrl": "https://www.ibm.com/blog/ibm-it-automation-reflections-from-ibm-think/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 122,
+      "heat": 112,
       "tags": null,
       "images": [
         {
@@ -282,6 +282,58 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fortune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-09-ibm-remember-watson-its-still-around-ready-to-give-your-business-an-ai-upgrade.md",
+      "title": "IBM: Remember Watson? It's Still Around, Ready to Give Your Business an AI Upgrade",
+      "excerpt": "With the near overnight success and popularity of ChatGPT, IBM decided to turn Watson into an AI platform any company can integrate into their existing workflows, as well as havin",
+      "sourceUrl": null,
+      "webUrl": "https://uk.pcmag.com/news/146744/ibm-remember-watson-its-still-around-ready-to-give-your-business-an-ai-upgrade",
+      "originalUrl": "https://uk.pcmag.com/news/146744/ibm-remember-watson-its-still-around-ready-to-give-your-business-an-ai-upgrade",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sm.pcmag.com/t/pcmag_uk/news/i/ibm-rememb/ibm-remember-watson-its-still-around-ready-to-give-your-busi_jzsu.1200.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-09T06:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1378,48 +1430,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2023-04-24T12:28:42-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-24-why-companies-need-to-accelerate-data-warehousing-solution-modernization.md",
-      "title": "Why companies need to accelerate data warehousing solution modernization",
-      "excerpt": "Legacy data warehousing solutions cannot manage growing workloads. Leading companies know survival depends on adopting modern data warehousing solutions.\nThe post Why companies need to accelerate data warehousing solution modernization appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/why-companies-need-to-accelerate-data-warehousing-solution-modernization/",
-      "originalUrl": "https://www.ibm.com/blog/why-companies-need-to-accelerate-data-warehousing-solution-modernization/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-24T06:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "IBM",

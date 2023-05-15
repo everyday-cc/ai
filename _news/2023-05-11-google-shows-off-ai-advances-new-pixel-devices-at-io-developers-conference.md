@@ -166,20 +166,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "IBM launches new artificial intelligence and data platform"
-    excerpt: "Watsonx could bring AI to more businesses IBM on Tuesday launched watsonx, a new artificial intelligence and data platform to help companies integrate AI in their business. The new AI platform launch comes over a decade after IBM's software called Watson got attention for winning the game show"
-    publishedDateTime: 2023-05-10T10:45:00Z
-    webUrl: "https://www.fudzilla.com/news/ai/56864-ibm-launches-new-artificial-intelligence-and-data-platform"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 39
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/03b0c7c9f5df286e08481de191753cce_L.jpg"
-        width: 620
-        height: 465
-        isCached: true
   - title: "Google shows off latest AI tools: Updates from I/O event"
     excerpt: "Generative AI is coming to Google’s flagship product. The new search offering, which Google is calling “search generative experience,” or SGE for short, displays an AI-produced response at the top of results, which seeks to answer a user’s query while summarising key information and linking to website sources."
     publishedDateTime: 2023-05-10T22:30:00Z
@@ -204,20 +190,6 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IH5Q43HQQEI63NT5UIM6YXP5GA.jpg&w=1440"
         width: 1440
         height: 958
-        isCached: true
-  - title: "iFlytek demonstrates new AI writing tools based on its own language model"
-    excerpt: "this newly launched AI writing product focuses on providing AI writing, rewriting, smart summarization, language polishing and proofreading, multi-language translation of text, and keyword extraction. It can be used in various writing scenarios ..."
-    publishedDateTime: 2023-05-10T09:54:00Z
-    webUrl: "https://technode.com/2023/05/10/iflytek-demonstrates-new-ai-writing-tools-based-on-its-own-language-model/"
-    type: article
-    provider:
-      name: TechNode
-      domain: technode.com
-    quality: 38
-    images:
-      - url: "https://technode.com/wp-content/uploads/2023/05/25609037-scaled.jpg"
-        width: 2560
-        height: 1707
         isCached: true
   - title: "Google’s Launches AI Supercomputer Powered by Tens of Thousands of NVIDIA H100 GPUs"
     excerpt: "If a computer’s intelligence can be anthropomorphized, then an AI supercomputer that can scale to 26,000 GPUs is genius smart. That’s the case with Google’s new A3 GPU supercomputers for Google Cloud, introduced at the Google I/O 2023 conference."

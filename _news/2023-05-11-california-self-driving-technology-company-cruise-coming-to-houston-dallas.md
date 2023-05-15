@@ -55,20 +55,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "GM's Cruise bringing autonomous vehicles to Houston"
-    excerpt: "Cruise, a General Motors autonomous vehicle subsidiary, is bringing its self-driving cars to Houston with the goal of offering driverless rides. The cars will begin testing next week, said Megan Prichard,"
-    publishedDateTime: 2023-05-10T10:01:00Z
-    webUrl: "https://www.houstonchronicle.com/business/article/autonomous-vehicle-houston-general-motors-test-18088431.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: houstonchronicle.com
-    quality: 24
-    images:
-      - url: "https://s.hdnux.com/photos/01/13/17/54/19725083/6/rawImage.jpg"
-        width: 2048
-        height: 1367
-        isCached: true
   - title: "Self-driving rideshare company Cruise expands to Houston this month"
     excerpt: "Driver-less car company Cruise is expanding into Houston this month and will soon be offering autonomously driven rideshares to passengers in the city. picture alliance/dpa/pictur"
     publishedDateTime: 2023-05-11T12:02:00Z
