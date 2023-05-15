@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/15/behemoths-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/05/15/behemoths-of-the-retail-industry-are-redefining-customer-experience-with-computer-vision-and-ai/amp/"
 type: article
 quality: 92
-heat: 132
+heat: 122
 published: true
 
 provider:
@@ -63,20 +63,6 @@ related:
         width: 1200
         height: 798
         isCached: true
-  - title: "How Vision AI Will Shape the In-Store Shopping Experience"
-    excerpt: "Forward-looking retailers that install vision AI into their already existing network of cameras will be able to pull back the curtain on deeper behaviors and desires of their core shoppers, tailoring their stores to remain exciting shopping destinations for years to come."
-    publishedDateTime: 2023-05-10T20:24:00Z
-    webUrl: "https://www.mytotalretail.com/article/how-vision-ai-will-shape-the-in-store-shopping-experience/"
-    type: article
-    provider:
-      name: Total Retail
-      domain: mytotalretail.com
-    quality: 39
-    images:
-      - url: "https://www.mytotalretail.com/thumb/?src=/wp-content/uploads/sites/14/2023/05/GettyImages-1153620791.jpg&w=750&h=340"
-        width: 750
-        height: 340
-        isCached: true
   - title: "Schumer eyes regulation of burgeoning AI industry"
     excerpt: "Schumer been meeting for months with tech leaders like Tesla CEO Elon Musk to develop a regulatory framework to guide a burgeoning field that's big at the University at Buffalo and that has the potential to remake society."
     publishedDateTime: 2023-05-15T10:15:00Z
@@ -92,6 +78,6 @@ related:
         height: 630
         isCached: true
 
-secured: "N2Be6HCgctmNoFKcm062l7hXX/iCiGg3IwLtX1qhw9wGBKks9PYrdJp0juLj3pkrDoCYUa++utinMOgk1UlHe8+VnGvI/VOxXm8ATyOjvGJI5B1CJIxZs1aSHkCPxYFGfqrEz5oDZtzj63m3lKqqMzp5xHdwXtEcIN8FO2C6ehN6m4FFiWMENToscCnpfC3A/6OmL5HRKnWl3zPQa7guhNQgkAT8zoFomDKL3XPwXq3MrWOUDeRylKZqVSS/COyvJz8/p/v+L0sGiqQ6FP5guXGwLkd4PHfPxIAqkRoHcYqIyjwwL5tTbEo5OrR+J2Ps5pQpPTWyfH0okRG7lEmqzL/f3MT1IYDXJAZAxpEaWls=;EdPoXdsyrwR0+EXqpRRnKQ=="
+secured: "1eEsuDxKJ7D4aH9Dxxf+nEX/LEl8RHd+2zfw206iKchC90L3h4p0huYcXP6rrucN2a44VE5URJyAho9XvXMSqryGh5rmBk1+ZAvLwwOTSH2ok0rgPGJoCye8iNM/dXZUa8G3UIBQIw0TI4oFLJZ6NaHI5H0uM9sJhhCXuJnEZeY3jRpcPXEDu88X/5I/rcF1OwQZ8Zqh8ZSbdk0GyiapaGGX6EhL2aoYlY2zr9mMeqC0ofK+ivtR8ZsAiCmrj6D0OBsWk/Eu2EI822MKukYr26UQoxytii+m0TWa6Trm2BjJij6dTEYA73A2BFNejChYb5v+gP83WcA416fsciWgpfnOAiMS/fSDMlSoqqSHxGICXyoefk6Kdyl0wr2EuI2pgeUeRixyx98XN9SqWkf1yM6eTE4E7bZ4cw/VA5d5q8KFfrrLyrUKSGFlkNzsS4Lia+YAsEij64fRc2slFgTOpDDZAJEgsbFblOX6gRLVJ335hPFUL4MDVh0xfVW5frXGR+CRwEpKwLYVMja3E3WG4w==;x+dG1e1hnSy0Dp3LDJmxhQ=="
 ---
 

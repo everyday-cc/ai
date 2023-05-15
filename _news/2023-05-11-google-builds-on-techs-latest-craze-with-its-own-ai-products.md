@@ -7,7 +7,7 @@ originalUrl: "https://www.spokesman.com/stories/2023/may/10/google-builds-on-tec
 webUrl: "https://www.spokesman.com/stories/2023/may/10/google-builds-on-techs-latest-craze-with-its-own-a/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,38 +22,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "PaLM 2 Is a Major AI Update Built Into 25 Google Products"
-    excerpt: "Google on Wednesday unveiled a new AI system called PaLM 2, a major update to its most powerful language processing system. The artificial intelligence technology already is incorporated into 25 Google products, underscoring its importance as the company races to capitalize on a computing revolution."
-    publishedDateTime: 2023-05-10T19:45:00Z
-    webUrl: "https://www.cnet.com/tech/computing/palm-2-is-a-major-ai-update-built-into-25-google-products/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/palm-2-is-a-major-ai-update-built-into-25-google-products/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/palm-2-is-a-major-ai-update-built-into-25-google-products/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 91
-    images:
-      - url: "https://www.cnet.com/a/img/resize/fe3d1d07b739cc3244a8a9fcfe9874465549ff2c/hub/2023/05/10/cdb8cbe0-b31f-453b-a7be-880690b5828c/palm2.jpg?auto=webp&fit=crop&height=630&width=1200"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Google rolls out tools for developers to build machine learning and AI into their products"
-    excerpt: "Google LLC is rolling out a number of tools for developers to build machine learning and artificial intelligence into their applications using high-performance AI models and solutions. At Google I/O,"
-    publishedDateTime: 2023-05-10T20:42:00Z
-    webUrl: "https://siliconangle.com/2023/05/10/google-rolls-tools-developers-build-machine-learning-ai-products/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 46
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/12/network-g714c9891c_1280.jpg"
-        width: 1280
-        height: 853
-        isCached: true
 
 secured: "/8CNanFo/NYRpOXR7hsvGIFuNyloh9AiXOyH3wkHM+y96xOEiUR2BsELcg++AQZQWWIi4uy6P3X/AKsZKIZCRw5jZYVndLRpkiVd02M01+0onoWrQUmKqgj0JMqBXhXSg1SihYVfE7pwtsCqGoRid+Tsya/ONNs6AT52rXehdWLeSSazBFVeLn19cqya23HJLvt2zb/ZhPcH71MYJ32v8R7Q+gSk2COG/t5HkDGSn1f0GKNmLcUgtIicwt6FCcVXQOu6sZhZyWlQgtRCSaH7Wm354YlGbNRTSxrjq4I1X+vWt0PTi2nzerMlQ4im+Vw3v8CfGi7lSHmOZiI6azi4xL8izjPwJdxItDwbIgomrt/INp3PNykCDvoPHrikqf3TJ+DAJKpYBZLOIOxxZ6hSEIZ0NUJoCIbPfswGzLxoGg6ButT04Fedb8i697xZ4COrYgDeJy9ZkuKJatKb6MPMgUyNzL/P05LuIg3FOwvpquoeSaK7gTAt6mwv9/q0IUbtwWVBBxOw20ArCcvUeGqgvA==;Gzxos+dJIqf45DkrccV/Ww=="
 ---

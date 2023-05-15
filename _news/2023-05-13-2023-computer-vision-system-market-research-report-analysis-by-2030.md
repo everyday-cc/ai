@@ -323,20 +323,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Computer Vision Software Market Research, 2030"
-    excerpt: "Precision Reports has published a new report titled as \" Computer Vision Software Market \" by End User ( Automotive, Electronics and Semiconductor, Glass, Metals, Wood and Paper, Food and Packaging, Others ),"
-    publishedDateTime: 2023-05-10T21:21:00Z
-    webUrl: "https://www.marketwatch.com/press-release/computer-vision-software-market-research-2030-2023-05-10"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Cloud AI in Fintech Market 2023-2030 Business Report"
     excerpt: "A Promising Outlook for the Global Cloud AI in Fintech Market from 2023 to 2030 Why is Cloud AI in Fintech market 2023 Important? - Overall, the Cloud AI in Fintech market in 2023 is essential for businesses to understand the market landscape,"
     publishedDateTime: 2023-05-12T17:03:00Z

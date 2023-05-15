@@ -7,8 +7,8 @@ originalUrl: "https://www.theverge.com/2023/5/12/23720731/google-io-2023-exclusi
 webUrl: "https://www.theverge.com/2023/5/12/23720731/google-io-2023-exclusive-sundar-pichai-search-generative-experience-ai-microsoft-bing-chatgpt"
 type: article
 quality: 80
-heat: -1
-published: false
+heat: 100
+published: true
 
 provider:
   name: The Verge
@@ -29,19 +29,21 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft CEO Satya Nadella on AI"
-    excerpt: "TIME talks with Microsoft CEO Satya Nadella about Copilot and company's use of AI Write to Andrew D. Johnson at andrew.johnson@time.com."
-    publishedDateTime: 2023-05-10T21:10:00Z
-    webUrl: "https://time.com/6278841/microsoft-ceo-satya-nadella-on-artificial-intelligence/"
+  - title: "Microsoft is the stock to buy as it leads the AI arms race while Alphabet continues to play catchup with Bard, according to Wedbush"
+    excerpt: "\"We continue to strongly believe that Microsoft's game changing early investment in ChatGPT got the key head start on the AI front,\" Wedbush said."
+    publishedDateTime: 2023-05-11T14:45:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/microsoft-stock-buy-leads-ai-arms-race-chatgpt-alphabet-bard-2023-5"
+    ampWebUrl: "https://markets.businessinsider.com/news/stocks/microsoft-stock-buy-leads-ai-arms-race-chatgpt-alphabet-bard-2023-5?amp"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/news/stocks/microsoft-stock-buy-leads-ai-arms-race-chatgpt-alphabet-bard-2023-5?amp"
     type: article
     provider:
-      name: Time
-      domain: time.com
-    quality: 84
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 76
     images:
-      - url: "https://cdn.jwplayer.com/v2/media/N9qPsYLv/poster.jpg?width&#x3D;720"
-        width: 720
-        height: 406
+      - url: "https://i.insider.com/645cf5bf65275b0018b7fce3?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Triumph Tech CEO: AWS Will Win ‘AI War’ Vs. Google, Microsoft"
     excerpt: "Generative AI market of Amazon, Google and Microsoft’s OpenAI ChatGPT will be won by AWS due to the cloud company’s artificial intelligence customization and scalability, says Triumph Technology Solutions CEO."

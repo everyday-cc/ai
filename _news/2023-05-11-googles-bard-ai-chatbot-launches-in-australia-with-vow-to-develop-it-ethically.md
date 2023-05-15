@@ -46,22 +46,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "How to join the Google Search Labs waitlist to access its new AI search engine early"
-    excerpt: "Once you are on the homepage, you will want to click the \"Sign in\" blue button on the upper right hand corner. Log on using your personal Gmail account. After you sign in, you will be brought to a page where you can actually join the waitlist simply by clicking on the \"Join waitlist\" button. Once you do, you are all set."
-    publishedDateTime: 2023-05-10T20:55:00Z
-    webUrl: "https://www.zdnet.com/article/how-to-join-the-google-search-labs-waitlist-to-access-its-new-ai-search-engine-early/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/how-to-join-the-google-search-labs-waitlist-to-access-its-new-ai-search-engine-early/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-to-join-the-google-search-labs-waitlist-to-access-its-new-ai-search-engine-early/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 80
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/f4552f0d0f6335956bb54c280824a4533fab6ea4/2023/05/10/fd1095b6-4cb5-4f32-83ae-d88a430ad3e2/labs.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "BiCNQjHYeNGIeuZTG4JZuabSclEAn5XJ6XUee0aV6Om5zvc8PTBwq2n2fNNNTjklO5NOQXUB+utDepRga99+AOSmVOnyj4/T/IQ794+iqdlw3tJNgEaGJiYCfETSqDMXk7Nkm+oC3FOdqxVrlz13nd0W1DGCP0+3MpdKF4g8NCsgWH7aJvO/VE4JlsoUrC4olv8lvQvQoNcE79DHQor4o0JCC/b0C0Ot4PpNAAAZcdOHk1p69kyc0TF6ZOsFnic/LhBYk5IeBCDvaROQXORHgB0xfFj+DEVSZ+I5rGU7HC18U62mKG12/3TCXit4ebhbg+vfrsNmZ84uKCMNVaAGKr+WtkpKkjFgr+0HUaLKjeJXGZ6VNSRrHVt8BNmWG0FgtyStk4H9seb15yWrbVCyUu0vD/jcQqS5AbdMk4HA2lZnUArieVbIo19y8ZgM06kpQv8imf640liNY3Im+/0ItUoznxtMfDDVy7QJDSxNTvPjCGMd9pV0QGliU6yrvSzB362rgLrshR9BhLGIDVSsEA==;DeDVLqsFf3n7lhbseiv10Q=="
 ---

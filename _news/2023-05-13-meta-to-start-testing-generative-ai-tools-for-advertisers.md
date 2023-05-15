@@ -88,6 +88,15 @@ related:
       name: Psychology Today
       domain: psychologytoday.com
     quality: 17
+  - title: "Generative AI’s future in the enterprise: To infinity and beyond"
+    excerpt: "Breathtaking generative AI models and applications like OpenAI’s GPT3 and ChatGPT are unleashing new possibilities across enterprises everywhere. But while wicked smart, they’re still learning and evolving — and causing an existential stir."
+    publishedDateTime: 2023-05-15T14:00:00Z
+    webUrl: "https://www.fastcompany.com/90896021/generative-ais-future-in-the-enterprise-to-infinity-and-beyond"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 17
 
 secured: "ksi1UWfyM1pUII1FDXQJP6qwMaSqfDw9VoPM/zI5pX5QkfPQW8NCXbIBRU6n0yG71fVgT3D0FiPW0Ac9V2oZ9oPi/eMLLQx7aIDyM5ZAA6sv1AFPtP82/nGmuNaU4F1jwLfGQMj4+rQB2G7wPUUvAjR7/woE9NeOL8wJ0KYHMk11P9RXDQ9KEKLnTcEGH81fNk5ZsMV8d/iJKeVzndCz1LRoaiCHICnVKtsfw8+DKtR2tsa6AxUEcyQ/01WAmsSkC8JE1NOWnm8JRIE7jZSNbIstPBAzpw8CIlvKePC3di58tuZGHZNMD44Uu4gId+/bx0k1UpyGf5Zso1qWsxd/vNEHdh2i5/hkAQ0n8nvH3PuPqR/jkKU/wC7R7LcIFNBkvvs+E6AGI1BfLYqI1sXFQFhdq5HEdEOdsX3fSYa5tUOJKOVPeQ733Cue5p2qRDuqxXkzFUxFm+UPCVdYxcKAnIBMvyRDuP9XS8lXAqbaS6dnvXrUDSKnRPXxLhOd2Y4yhz69yhdD+ne4nnPyVy0bDQ==;A5Hqf4dujBJlDnms+Y7YhA=="
 ---

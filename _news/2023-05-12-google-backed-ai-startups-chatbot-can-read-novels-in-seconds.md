@@ -32,15 +32,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Wendy's testing AI chatbot that takes drive-thru orders"
-    excerpt: "Fast food chain Wendy's is partnering with Google Cloud on an AI chatbot to take orders at a drive-thru, the company announced. Wendy's FreshAI will be launched in June as a pilot in a Columbus, Ohio area restaurant."
-    publishedDateTime: 2023-05-10T19:43:00Z
-    webUrl: "https://www.cbsnews.com/news/wendys-testing-ai-chatbot-drive-thru-orders/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 17
 
 secured: "WhaglilAUlJmVkHP/HYo1peKFYtEYeSKM+bj1toyXRj0gWqzA8PlmiKh1HjmyGm6Otl0nA5aIQuAfbDJ85+YStTJ+fRNz5bNS+MY/dAqPp5QaCHULk7cgDdB0rx51BRV4RhRZ40swbqOYQgWvc+Wh+oI7V9gq8uPz7Jg7yGeerngtEu5NT/mrGpR1gw4DfQrmiDR1XSieTsJt11bVhBF8YPMLHuzZXhXOtx+e31j8IFZjWVjHc9tMYV8Ca9PK59sMWHBrhxslV9EWeWGrlWcUbtkYtAX+6P6bw9hNiTfH0BWWB0gc8tc9NSTFgC9i40TSKt0uvsGk5JFnBlRb0wctAimQ7PPOdjhDy4UfGNky6k=;0HGcb0ruNqfMvUp/AyEZiQ=="
 ---

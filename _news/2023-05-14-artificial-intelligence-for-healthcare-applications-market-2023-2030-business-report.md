@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence in Healthcare Market Size Report 2023 | USD 164.10 billion Industry"
+    excerpt: "The GlobalArtificial Intelligence in Healthcare Market2023-2030, published recently by Fortune Business Insights,"
+    publishedDateTime: 2023-05-15T05:53:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-size-report-2023-usd-16410-billion-industry-2023-05-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 74
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Computer Vision Software Market Share 2023|Bussiness Research And Forecast by 2029"
     excerpt: "Computer Vision Software Market | Outlook 2023-2028 | Pre and Post-COVID Research is Covered, Report Information |"
     publishedDateTime: 2023-05-11T14:19:00Z
@@ -94,6 +108,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 55
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "2023-2029 \"Artificial Intelligence in Agriculture Market\" New Research Report by Industryreport.co"
+    excerpt: "May 15, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" A market research report has"
+    publishedDateTime: 2023-05-15T07:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-2029-artificial-intelligence-in-agriculture-market-new-research-report-by-industryreportco-2023-05-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 53
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

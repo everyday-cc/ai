@@ -72,20 +72,6 @@ related:
         width: 1200
         height: 798
         isCached: true
-  - title: "How Vision AI Will Shape the In-Store Shopping Experience"
-    excerpt: "Forward-looking retailers that install vision AI into their already existing network of cameras will be able to pull back the curtain on deeper behaviors and desires of their core shoppers, tailoring their stores to remain exciting shopping destinations for years to come."
-    publishedDateTime: 2023-05-10T20:24:00Z
-    webUrl: "https://www.mytotalretail.com/article/how-vision-ai-will-shape-the-in-store-shopping-experience/"
-    type: article
-    provider:
-      name: Total Retail
-      domain: mytotalretail.com
-    quality: 39
-    images:
-      - url: "https://www.mytotalretail.com/thumb/?src=/wp-content/uploads/sites/14/2023/05/GettyImages-1153620791.jpg&w=750&h=340"
-        width: 750
-        height: 340
-        isCached: true
 
 secured: "JPvOSVxF3HoBGC+kZduVPOSKpohlcx+WCAAJfObIKKSLn1pPMI6d4ZY65VyVl0bOJSI2Gv2lwHSScPbb35T/HoCNfXV4I7k/w0ChwlvbYSZgyRQVVlcBRNDAoc88AOd4mtRCChFauookvZ9O3skKnrKYockZ9MVR7EuZZCqTzoTk10cNvYSqbrhlxqUXW/cLd8UPCS4j3/ERg/R5x74bBn08Mo/p8NO8Dz4gOT5cpQlW2GY1x5efEJrnkIcsUtWm5nA694LYqcvgqqaclm8uJKl6bAv9/lm4E2iaesYnMbtKF42ZlJnEKGpqSa62ijFw60Dn0ZwWrgeNv2UbSlDa4VB6LD2gbu9ZJ1j//CaJlz0=;LvV8/A5Sj58todNPO5S+mQ=="
 ---

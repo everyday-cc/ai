@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/05/15/combining-generat
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/05/15/combining-generative-ai-chatgpt-into-handguns-triggers-fiery-response/amp/"
 type: article
 quality: 91
-heat: 241
+heat: 251
 published: true
 
 provider:
@@ -181,6 +181,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 39
+  - title: "Kagan: What’s the next move for Meta with metaverse down, AI ChatGPT up?"
+    excerpt: "As interest and intrigue in ChatGPT overtakes that of the metaverse, one analyst asks: Should Meta change its vision?"
+    publishedDateTime: 2023-05-15T15:22:00Z
+    webUrl: "https://www.rcrwireless.com/20230515/metaverse/kagan-whats-the-next-move-for-meta-with-metaverse-down-ai-chatgpt-up"
+    type: article
+    provider:
+      name: RCR Wireless News
+      domain: rcrwireless.com
+    quality: 38
+    images:
+      - url: "https://www.rcrwireless.com/wp-content/uploads/2022/12/176512315_s.jpg"
+        width: 844
+        height: 567
+        isCached: true
   - title: "ChatGPT on Mars: How AI can help scientists study the Red Planet"
     excerpt: "Steve Ruff, associate research professor at Arizona State University's School of Earth and Space Exploration in Tempe, Arizona, is keenly tied to studying Mars."
     publishedDateTime: 2023-05-14T10:00:00Z
@@ -228,6 +242,6 @@ related:
       domain: usatoday.com
     quality: 7
 
-secured: "U1IBewpB4v4QVjoQJVutTIXvBSa9WW/1IW+nB7pMlalAX7FnFz7IBrANcMgKxUzoGOvlhyMg+H3rhpoFZbL4HLyJcjAUx8JCswuwNfRvXRu7sYMYse9cERFiviWI7NJmNsSua6YEhQomGaCzrmaxER8YJOK8v93O2WWAuComNDioX+EqAXC9m2Govkt/MdelYFMZS7k2oxl3+snCvNF6v5NSY4zgK+VbdU3eP/syHBXWtBeeX2roaTagq4WqcAXxJRKkAzvTgpysp2w8Ex1Nfi38mSgKQjRnbq4KqKekJOlMN335xuaNKMVyOTQbkZkvwl0glHxt3/7ahZxueMiOWJv1kEDbURkY1ZHqWH3NqGg=;45xpXinxsy2s5ETT99jenw=="
+secured: "5vasSwzsTffTx13nwRourPb6aIzQDH2C8JlXL+LJFGLnDCG/FWU9PfTM0awJ9CzXzOIvPKfhHrQwc5seLo1J3GBCR3YnqjBp234lUHsfFgD5BVEUdn53qnpIrwUEaN6mSEv1qnk2O0PkDxWVPCuJZEW+SUbigX9JEEm0pvehUV/gecLByG3E45X36YXfJELGeeN27XsS67q4ojxeFVHmD1Z4nUJctJOv6F7UVp/Vij2eY/WgYZ2juMci9nshvUBHjaZ4G7DJqyjximK7sNfTvX1FuOhTT6oRj7hCbda1nQXDEGfumcqYP1xZPV5izcBttum9u3AybA+dHd07HgWIRo5A0uo/WztcgO6djKbnBvhe3Z7TX7lqWdRtAyAWvW9PmHqDqtlouWv11ZehySyHPiUBxznR8tLUbisWNgFE56TKNAjacEBJxxQqjECD71TdvcREXioShIHIcv4q6mXj+lMZRm5bMVipxvyB/pqbW424KnqopUdQwXo6ZBgtmJ21u04M+iLHp/HylpCEvCIQZg==;Wtq83tEqbPu6nds7E2Ex6A=="
 ---
 

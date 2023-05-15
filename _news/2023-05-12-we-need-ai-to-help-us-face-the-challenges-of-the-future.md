@@ -30,31 +30,22 @@ images:
     isCached: true
 
 related:
-  - title: "US Federal Government CIOs Share Challenges And Insights Into Future Of AI And Technology"
-    excerpt: "At the GITEC 2023 Conference hosted in Annapolis, government CIOs shared some of their insights into where hot technologies like AI, but also less “sexy” technology priorities such as IT modernization and big data analytics,"
-    publishedDateTime: 2023-05-10T19:47:00Z
-    webUrl: "https://www.forbes.com/sites/cognitiveworld/2023/05/10/us-federal-government-cios-share-challenges-and-insights-into-future-of-ai-and-technology/"
-    ampWebUrl: "https://www.forbes.com/sites/cognitiveworld/2023/05/10/us-federal-government-cios-share-challenges-and-insights-into-future-of-ai-and-technology/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2023/05/10/us-federal-government-cios-share-challenges-and-insights-into-future-of-ai-and-technology/amp/"
+  - title: "Are Alternative Investment Firms Becoming Over-Reliant On AI To Solve Their Cyber Challenges?"
+    excerpt: "Organizations must strengthen their first line of defense by taking a more holistic approach to threat prevention."
+    publishedDateTime: 2023-05-12T10:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/12/are-alternative-investment-firms-becoming-over-reliant-on-ai-to-solve-their-cyber-challenges/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/12/are-alternative-investment-firms-becoming-over-reliant-on-ai-to-solve-their-cyber-challenges/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/05/12/are-alternative-investment-firms-becoming-over-reliant-on-ai-to-solve-their-cyber-challenges/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 78
+    quality: 76
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/645bf484b738ee39999c02fa/0x0.jpg?format=jpg&crop=2880,1350,x0,y405,safe&width=1200"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/645ce8924885ffd3982796e1/0x0.jpg?format=jpg&crop=2144,1206,x871,y0,safe&width=1200"
         width: 1200
-        height: 563
+        height: 675
         isCached: true
-  - title: "Hackers to test limits of AI technology in mass event"
-    excerpt: "ChatGPT creator OpenAI and other major AI providers are coordinating with the Biden administration to let hackers test the limits of their technology."
-    publishedDateTime: 2023-05-10T19:14:00Z
-    webUrl: "https://thedailyrecord.com/2023/05/10/hackers-to-test-limits-of-ai-technology-in-mass-event/"
-    type: article
-    provider:
-      name: The Daily Record (Maryland)
-      domain: thedailyrecord.com
-    quality: 19
 
 secured: "SXS5ZlG6hBFF0ziDmGFPAWuPhMzcxoT1+/yYWW1c6e737unK78DG2Hpt9PFyQTr68W4JjLB9a4Ju9IUrZIccOFJFclsQnkYcBFL0vCCGnslN/imt3yqemUWCpqCovI+AkjSeB1wAd1QXaXvRK/ZP3K3WVHKl6pPfayYPohoHmFlrBcxjejslgk9WiYv8UAvxlwArQRBZzYQNupBzDyz5RlImKmRkB7vprehb5Oy9wYqVDJ1GXFienk+vuq1/qLmDCOIE9UdsYvs7c/kr0dc2lLd3Uti5OkbRIZVqoSsdT5blfTHFc/NgFj06WYyl7Xs8Pibn/SRAnb3chtgyjOuYSo60hipFcFKkr+TN2vy8RhhTqlWaAEPtHUI8NrLBsmzGYT9l4jefJh/+Ipa4OUpyYljN3LWjuGM/sUNMeXREjix6uhWZu5kzCzIjWLsXvB7n5eTsULyQIgFuqozQgTKY+tDMzU53rYDoqufovOPijPQWL4KWks5p4tj6t1vLfj4hgWuN2qpG/oqZ4pFcbul+HQ==;7mBWNPM7WYn6pQuLbIZZtA=="
 ---

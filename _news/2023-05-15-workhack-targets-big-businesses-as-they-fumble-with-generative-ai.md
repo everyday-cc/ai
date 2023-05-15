@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/davidprosser/2023/05/15/workhack-target
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidprosser/2023/05/15/workhack-targets-big-businesses-as-they-fumble-with-generative-ai/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -29,6 +29,17 @@ images:
     width: 1200
     height: 676
     isCached: true
+
+related:
+  - title: "How AI ethics is coming to the fore with generative AI"
+    excerpt: "The hype around ChatGPT and other large language models is driving more interest in AI and putting ethical considerations surrounding their use to the fore"
+    publishedDateTime: 2023-05-15T07:44:00Z
+    webUrl: "https://www.computerweekly.com/feature/How-AI-ethics-is-coming-to-the-fore-with-generative-AI"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 34
 
 secured: "qkbsZde4RlaxU/r/DQLuHBWXUPUlTyhQrhuKHdSEjarz6V/7TMxwiy5tmAv4/o6G7huBZJGu5AN2ew2WciapcPBCvzAVpfWFXCiKBw1dRAEWj8YgJycwzLWYRZW2w5dvhld+mATbwt1lrkrEbmWB4nyzlnN/zQz/wlr+rR+w4Uf70LGHr824+bt66H9heEVnfYlGJpBkERv9jfIaaqcc5IRic7yj3YA/4TumJ38zC0mpCFnfSXKeXF2BHRTcBBBDDANTEBQlQcKt2Bmi4ouKtlVJPmAtLgmkiiq0EUEuia8IXekfOZUdnZKeT/Rq6lQEuDJY00gScP4FNctkGdJxPjjHxgA35PpslfIj5VNAdNLmF50Pxugj/6bRBUapP0WO0l8QvUO2rg3hRyWEM1UvxULyomhnusWKYX2Ay/FmY6HfrMC64PH/QBm4D+X/1KFFDE0SLiNm3Nsj+F1mQhiIeqLW5Cv7gg/u2CM0w+Ovn0MsYG84cAwIh1Ud6cX+RDjhy9dBGJ0AMSdz3biCxkjy2g==;imDekdVcjdIpbrp5uXCqKw=="
 ---

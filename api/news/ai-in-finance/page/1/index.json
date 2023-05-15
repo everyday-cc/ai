@@ -98,6 +98,40 @@
       ]
     },
     {
+      "path": "_news/2023-05-10-fiscalnote-announces-first-quarter-2023-financial-results-with-21-revenue-growth-year-over-year.md",
+      "title": "FiscalNote Announces First Quarter 2023 Financial Results with 21% Revenue Growth Year-over-Year",
+      "excerpt": "FiscalNote reiterates its revenue guidance for full year 2023 and its expectation to be Adjusted EBITDA positive in the fourth quarter of 2023 as the Company continues to grow revenue, maintains strong adjusted gross margins in the 80% range,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.buffalonews.com/buffnews/article/bizwire-2023-5-10-fiscalnote-announces-first-quarter-2023-financial-results-with-21-revenue-growth-year-over-year",
+      "originalUrl": "https://markets.buffalonews.com/buffnews/article/bizwire-2023-5-10-fiscalnote-announces-first-quarter-2023-financial-results-with-21-revenue-growth-year-over-year",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-10T04:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Buffalo News",
+        "domain": "buffalonews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-09-new-survey-finds-financial-leaders-investing-in-analytics-ai-and-machine-learning-tools-as-they-navigate-economic-uncertainty-in-2023.md",
       "title": "New Survey Finds Financial Leaders Investing in Analytics, AI and Machine Learning Tools as They Navigate Economic Uncertainty in 2023",
       "excerpt": "OneStream unleashes organizational value by unifying data management, financial close and consolidation, planning, reporting, analytics and machine learning. We empower Finance and Operations ...",
@@ -1298,49 +1332,6 @@
         "AI in Finance",
         "AI",
         "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2023-04-27-the-dangers-of-letting-ai-loose-on-finance.md",
-      "title": "The dangers of letting AI loose on finance",
-      "excerpt": "We must recognise the stability risks — whether over-concentration or digital herding — as well as the benefits",
-      "sourceUrl": null,
-      "webUrl": "https://www.ft.com/content/9bc5e530-ac72-4b4c-9eb1-f5e5c48f34c9",
-      "originalUrl": "https://www.ft.com/content/9bc5e530-ac72-4b4c-9eb1-f5e5c48f34c9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ft.com/__assets/creatives/product/dynamic-barriers/comment.jpg",
-          "width": 619,
-          "height": 377,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-27T09:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Times",
-        "domain": "ft.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

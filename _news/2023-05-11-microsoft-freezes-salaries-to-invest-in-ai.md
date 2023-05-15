@@ -193,6 +193,31 @@ related:
         width: 900
         height: 600
         isCached: true
+  - title: "SAP and Microsoft to Deepen Collaboration on Generative AI in Recruiting"
+    excerpt: "(Reuters) - SAP will deepen collaboration with Microsoft on joint generative AI projects in the field of personnel recruiting, the German software maker announced on Monday. SAP's SuccessFactors solutions will be integrated with Microsoft's 365 Copilot and Azure OpenAI Service to access language models and generate natural language, it added."
+    publishedDateTime: 2023-05-15T12:35:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2023-05-15/sap-and-microsoft-to-deepen-collaboration-on-generative-ai-in-recruiting"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 63
+  - title: "Start-Up Nation Central Collaborates with Microsoft to Promote Israeli AgriFood-Tech Startups"
+    excerpt: "This collaboration aims to integrate innovative agricultural data companies with core technologies of AI, Cloud & Machine Learning with Microsoft's AI tools to develop models for optimal, sustainable"
+    publishedDateTime: 2023-05-15T14:30:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/05/n32395743/start-up-nation-central-collaborates-with-microsoft-to-promote-israeli-agrifood-tech-startups"
+    ampWebUrl: "https://www.benzinga.com/amp/content/32395743"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32395743"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 48
+    images:
+      - url: "https://mma.prnewswire.com/media/2077182/Start_Up_Nation_Central.jpg"
+        width: 400
+        height: 279
+        isCached: true
   - title: "KPMG LLP AND MICROSOFT ESTABLISH INDUSTRY-LEADING INITIATIVE TO SCALE GENERATIVE AI ACROSS AUDIT, TAX AND ADVISORY"
     excerpt: "KPMG LLP AND MICROSOFT ESTABLISH INDUSTRY-LEADING INITIATIVE TO SCALE GENERATIVE AI ACROSS AUDIT, TAX AND ADVISORY May 11, 2023 (PRNewswire via COMTEX) --"
     publishedDateTime: 2023-05-11T18:50:00Z
@@ -211,6 +236,15 @@ related:
       name: Mena FN
       domain: menafn.com
     quality: 24
+  - title: "SAP and Microsoft Collaborate on Joint Generative AI Offerings to Help Customers Address the Talent Gap"
+    excerpt: "SAP® SuccessFactors® Solutions Integration with Microsoft 365 Copilot and Copilot in Viva Learning Will Bring the Power of AI to People Leaders, Helping Them Recruit and Develop Their Teams WALLDORF,"
+    publishedDateTime: 2023-05-15T14:29:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/05/15/9813979.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 18
 
 secured: "Nu++X4OxIgjLFbCbVbDhU2au9JcnDhw3diggy0tZO8sH/WBgSdfcUH0e6CoTgvvqQpKZ3dDtnvi0rfLnEKHIcfKWaGDfG72zXaBEGZeNAkYVcuXkOHH9il+B5bk7Ea2d3K975dnjMIvgLwhkMz2kLHKDCFTyTv969ffIPv94DeimQ/SMYHE3K4OVg4CEV3jMa8nHaZXt7I54rNYqraZM6hYddV5k1P87wRFDDI7FmMjA/Ti6HnR0qiYiYUSwWLpBL1xlMzPDI4ud4r/OP7kd635buiQqD+7N7nq73thZXgAX3bPw6aqMdkwS4zklQ0SVgXOzF2rGwQKLVqcd0Ii5n2prBGOkH1ItQSgWShLL2+0=;zyLNt9X4WxeSpm1u37hFHg=="
 ---

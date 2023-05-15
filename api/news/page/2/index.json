@@ -2,6 +2,356 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-05-14-ai-presents-political-peril-for-2024-with-threat-to-mislead-voters.md",
+      "title": "AI presents political peril for 2024 with threat to mislead voters",
+      "excerpt": "Thanks to recent advances in artificial intelligence, tools that can create lifelike photos, video and audio are now cheap and readily available",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Business/wireStory/ai-presents-political-peril-2024-threat-mislead-voters-99313712",
+      "originalUrl": "https://abcnews.go.com/Business/wireStory/ai-presents-political-peril-2024-threat-mislead-voters-99313712",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/US/wirestory_59fb51002661ac5290089060b3ae39a0_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Business/wireStory/ai-presents-political-peril-2024-threat-mislead-voters-99313712",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/ai-presents-political-peril-2024-threat-mislead-voters-99313712",
+      "publishedDateTime": "2023-05-14T08:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-14-artificial-intelligence-in-healthcare-market-2023-2030-business-report.md",
+      "title": "Artificial Intelligence in Healthcare Market [2023-2030] Business Report",
+      "excerpt": "A Artificial Intelligence in Healthcare market new report, spanning multiple 126 pages, offers an extensive and",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-2023-2030-business-report-2023-05-14",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-2023-2030-business-report-2023-05-14",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 173,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-14T07:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-14-ai-risk-management-for-corporate-boards-5-areas-you-should-be-prioritizing.md",
+      "title": "AI Risk Management For Corporate Boards: 5 Areas You Should Be Prioritizing",
+      "excerpt": "Here are my suggestions for how you can begin to manage and mitigate the risks that your organization faces from the exponential growth of AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/glenngow/2023/05/14/ai-risk-management-for-corporate-boards-5-areas-you-should-be-prioritizing/",
+      "originalUrl": "https://www.forbes.com/sites/glenngow/2023/05/14/ai-risk-management-for-corporate-boards-5-areas-you-should-be-prioritizing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/645ffb6c361f51900ae45c0e/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/glenngow/2023/05/14/ai-risk-management-for-corporate-boards-5-areas-you-should-be-prioritizing/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glenngow/2023/05/14/ai-risk-management-for-corporate-boards-5-areas-you-should-be-prioritizing/amp/",
+      "publishedDateTime": "2023-05-14T00:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-14-ai-expert-taps-un-officials-to-learn-how-to-build-a-global-ai-regulatory-body.md",
+      "title": "AI expert taps UN officials to learn how to build a global AI regulatory body",
+      "excerpt": "Gary Marcus, a cognitive scientist and expert on AI, said he's consulting with people in the UN and UNESCO about how to create a global AI regulatory agency.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/tech/ai-expert-taps-un-officials-learn-build-global-ai-regulatory-body",
+      "originalUrl": "https://www.foxnews.com/tech/ai-expert-taps-un-officials-learn-build-global-ai-regulatory-body",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6b5d6754-de7c-4d69-8d61-fc722622f23f/c6c2c621-611e-4146-b03b-76a2d24f7b50/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/tech/ai-expert-taps-un-officials-learn-build-global-ai-regulatory-body.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/ai-expert-taps-un-officials-learn-build-global-ai-regulatory-body.amp",
+      "publishedDateTime": "2023-05-13T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-14-eric-schmidt-on-synthetic-biology-ai-ethics-and-the-bioeconomys-seismic-shift.md",
+      "title": "Eric Schmidt On Synthetic Biology, AI, Ethics And The Bioeconomy’s ‘Seismic Shift’",
+      "excerpt": "Eric Schmidt at the SynBioBeta conference. You mentioned the Bioeconomy Moonshot as a way to drive progress in biotech. What recent developments or advancements in synthetic biology are you most excited about?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johncumbers/2023/05/13/eric-schmidt-on-synthetic-biology-ai-ethics-and-the-bioeconomys-seismic-shift/",
+      "originalUrl": "https://www.forbes.com/sites/johncumbers/2023/05/13/eric-schmidt-on-synthetic-biology-ai-ethics-and-the-bioeconomys-seismic-shift/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/645fe1c0741dcd08dba69868/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johncumbers/2023/05/13/eric-schmidt-on-synthetic-biology-ai-ethics-and-the-bioeconomys-seismic-shift/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johncumbers/2023/05/13/eric-schmidt-on-synthetic-biology-ai-ethics-and-the-bioeconomys-seismic-shift/amp/",
+      "publishedDateTime": "2023-05-13T12:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-13-playing-with-fire-how-to-adapt-to-the-new-realities-of-ai.md",
+      "title": "Playing with fire: How to adapt to the new realities of AI",
+      "excerpt": "AI is a disruptive force that will change the world. But for AI and humanity to thrive, we must be mindful of risks and properly manage them.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/playing-with-fire-how-to-adapt-to-the-new-realities-of-ai/",
+      "originalUrl": "https://venturebeat.com/ai/playing-with-fire-how-to-adapt-to-the-new-realities-of-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/05/annevb_artificial_intelligence_on_fire._Mischievous_playful_col_15e8e5da-3af6-41bc-9d8e-3578f3ae3bad.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/playing-with-fire-how-to-adapt-to-the-new-realities-of-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/playing-with-fire-how-to-adapt-to-the-new-realities-of-ai/amp/",
+      "publishedDateTime": "2023-05-13T08:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-13-google-told-me-bard-has-gotten-better-but-even-the-ai-doesnt-believe.md",
+      "title": "Google told me Bard has gotten better. But even the AI doesn't believe ...",
+      "excerpt": "Even after Google I/O, Bard seems to be holding on to some of its old quirks, even denying its upgrade to PaLM 2.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/google-told-me-bard-has-gotten-better-but-even-the-ai-doesnt-believe-it/",
+      "originalUrl": "https://www.zdnet.com/article/google-told-me-bard-has-gotten-better-but-even-the-ai-doesnt-believe-it/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/3002560b7b92127860a6d1747749f19b9714d7c1/2023/05/10/bb010820-3937-4ed0-8468-2d013125672d/google-bard-2.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-told-me-bard-has-gotten-better-but-even-the-ai-doesnt-believe-it/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-told-me-bard-has-gotten-better-but-even-the-ai-doesnt-believe-it/",
+      "publishedDateTime": "2023-05-13T04:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-13-to-my-fellow-gen-xers-worried-ai-is-going-to-take-your-job-take-a-chill-pill.md",
       "title": "To my fellow Gen Xers worried AI is going to take your job: Take a chill pill",
       "excerpt": "\"Will AI take my job\" is a question on many minds lately, especially for Gen X. Instead of panicking, boost your career by learning to adapt.",
@@ -902,367 +1252,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-12-unlock-insights-from-your-amazon-s3-data-with-intelligent-search.md",
-      "title": "Unlock Insights from your Amazon S3 data with intelligent search",
-      "excerpt": "Amazon Kendra is an intelligent search service powered by machine learning (ML). Amazon Kendra reimagines enterprise search for your websites and applications so your employees and customers can easily find the content they’re looking for, even when it’s scattered across multiple locations and content",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/unlock-insights-from-your-amazon-s3-data-with-intelligent-search/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/unlock-insights-from-your-amazon-s3-data-with-intelligent-search/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/05/12/featured-images-ML-14008.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-12T07:43:15-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-12-mttr-vs-mtbf-whats-the-difference.md",
-      "title": "MTTR vs. MTBF: What’s the difference?",
-      "excerpt": "Mean time to repair (MTTR) and mean time between failures (MTBF) are similar metrics with key distinctions for facilities maintenance.\nThe post MTTR vs. MTBF: What’s the difference? appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/mttr-vs-mtbf/",
-      "originalUrl": "https://www.ibm.com/blog/mttr-vs-mtbf/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/05/afe80791-1d4c-4eed-82bd06dc338af887.lr_-630x330.jpg",
-          "width": 630,
-          "height": 330,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-12T07:07:07-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-12-an-upcoming-dating-app-promises-to-create-an-ai-version-of-you-to-chat-with-potential-matches.md",
-      "title": "An upcoming dating app promises to create an AI version of you to chat with potential matches",
-      "excerpt": "Can AI put an end to ghosting on dating apps? The team behind Dispo is building a new dating app called Teaser AI to do just that.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/dispo-makers-building-dating-app-ai-teaser-without-david-dobrik-2023-5",
-      "originalUrl": "https://www.businessinsider.com/dispo-makers-building-dating-app-ai-teaser-without-david-dobrik-2023-5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/6452b825dcb78700180cc3a4?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/dispo-makers-building-dating-app-ai-teaser-without-david-dobrik-2023-5?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/dispo-makers-building-dating-app-ai-teaser-without-david-dobrik-2023-5?amp",
-      "publishedDateTime": "2023-05-12T05:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-12-how-artificial-intelligence-is-changing-business.md",
-      "title": "How Artificial Intelligence Is Changing Business",
-      "excerpt": "Artificial intelligence (AI) has been changing every type of business worldwide. The phrase derives from computer-based operating systems being able to imitate or replicate exact human-like activities. There are also many different types of artificial intelligence, but let’s go over some of the types relating to a business environment.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/12/how-artificial-intelligence-is-changing-business/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/12/how-artificial-intelligence-is-changing-business/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 177,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/645907002b0d8e64282796dd/0x0.jpg?format=jpg&crop=6833,3840,x1162,y0,safe&width=1200",
-          "width": 1200,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/12/how-artificial-intelligence-is-changing-business/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/05/12/how-artificial-intelligence-is-changing-business/amp/",
-      "publishedDateTime": "2023-05-12T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-12-managing-aws-s3-pricing-and-costs-with-ibm-turbonomic.md",
-      "title": "Managing AWS S3 pricing and costs with IBM Turbonomic",
-      "excerpt": "IBM Turbonomic can help organizations navigate the complexity of AWS storage options by providing guidance on how to select the right storage class. \nThe post Managing AWS S3 pricing and costs with IBM Turbonomic appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/managing-aws-s3-pricing-and-costs-with-ibm-turbonomic/",
-      "originalUrl": "https://www.ibm.com/blog/managing-aws-s3-pricing-and-costs-with-ibm-turbonomic/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/05/dji_0420-9b.lr_-630x330.jpg",
-          "width": 630,
-          "height": 330,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-12T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-12-googles-translation-glasses-were-actually-at-io-2023-and-right-in.md",
-      "title": "Google's 'translation glasses' were actually at I/O 2023, and right in ...",
-      "excerpt": "Google unveiled a pair of augmented reality (AR) glasses at its I/O developer conference. But unlike Google Glass, this new concept, which didn't have a name at the time (and still doesn't), demonstrated the practicality of digital overlays,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/googles-translation-glasses-were-actually-at-io-2023-and-right-in-front-of-our-eyes/",
-      "originalUrl": "https://www.zdnet.com/article/googles-translation-glasses-were-actually-at-io-2023-and-right-in-front-of-our-eyes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/183b38573ea4cabb8eb92ebc5bb135a502b0197a/2023/05/11/0b3f8170-2af0-4e35-8015-ef8757dd6950/google-translation-glasses.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/googles-translation-glasses-were-actually-at-io-2023-and-right-in-front-of-our-eyes/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/googles-translation-glasses-were-actually-at-io-2023-and-right-in-front-of-our-eyes/",
-      "publishedDateTime": "2023-05-12T04:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-12-how-ai-is-helping-to-improve-transportation-safety-on-a-global-scale.md",
-      "title": "How AI Is Helping To Improve Transportation Safety On A Global Scale",
-      "excerpt": "While the use of AI in vehicle inspection is a significant development, it is one of many other ways that AI is being used to improve transportation safety around the world.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/12/how-ai-is-helping-to-improve-transportation-safety-on-a-global-scale/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/12/how-ai-is-helping-to-improve-transportation-safety-on-a-global-scale/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/645ce929429d7626542796dd/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/12/how-ai-is-helping-to-improve-transportation-safety-on-a-global-scale/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/05/12/how-ai-is-helping-to-improve-transportation-safety-on-a-global-scale/amp/",
-      "publishedDateTime": "2023-05-12T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

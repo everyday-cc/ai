@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/h2o-ai-launches-h2ogpt-llm-studio/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/h2o-ai-launches-h2ogpt-llm-studio/amp/"
 type: article
 quality: 83
-heat: 93
+heat: 113
 published: true
 
 provider:
@@ -44,6 +44,29 @@ related:
         width: 1280
         height: 670
         isCached: true
+  - title: "What Higher Ed Gets Wrong About AI Chatbots — From the Student Perspective"
+    excerpt: "As a doctoral student at the University of California at Los Angeles, I was among those who got a recent campus-wide email with an urgent directive:"
+    publishedDateTime: 2023-05-15T13:37:00Z
+    webUrl: "https://www.edsurge.com/news/2023-05-15-what-higher-ed-gets-wrong-about-ai-chatbots-from-the-student-perspective"
+    type: article
+    provider:
+      name: EdSurge
+      domain: edsurge.com
+    quality: 37
+    images:
+      - url: "https://edsurge.imgix.net/uploads/post/image/15318/student_using_chatgpt-1683234053.png?auto=compress%2Cformat&w=1024&h=512&fit=crop"
+        width: 1024
+        height: 512
+        isCached: true
+  - title: "HealthGPT: AI chatbots enter hospitals"
+    excerpt: "Australian hospitals are trialling ChatGPT AI to help track performance metrics, such as how long high-risk patients are waiting before being screened."
+    publishedDateTime: 2023-05-15T12:00:00Z
+    webUrl: "https://www.theaustralian.com.au/nation/healthgpt-ai-chatbots-enter-hospitals/news-story/dfb7a7eff819830308bbe1635e007706"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 19
 
 secured: "2rBridGIhIEpsfJAsaNr9jLI/szeLQ+gEJ/OGzd9HARNZI9LeIkvErGsq2K5KOMONzTpEGuewzbFZs931CeZ0EaVvUS3qPAI+0tO/a/QNOWPJZ8CoFz6tu/vePba9s1f3JsIlVqrQVGqfMpVjX6gZFcD00JkpyGxtsavWLIhESTG+XRVq/VNbub4t8UQQtjNrSxdAYbzyKzK4+AheAVIfiz1TouEmT266p/999yAGlBDl+JvxqXD1TvHS1IfV4s+lczOG/SMMOUJR2irsfkkkyuoJA+XuHn7eXcLCtbv65/zp7ueehmKi0kBpQcIRGOKrmo8ALtn1BMWBbq1M/LacUrKAdWx46bxXMFr45RMRhH9vFoMjqAyQsidBfo2YSRjds5CQ8Rc4ebXxBoexus7IZB7zMawuTVlWOhb6ljtGcCcmyvehl/RdSgxp9X7313Tg8haSGkEdHtZtG6K8i9ruJQ8f3whk46KZJ3oSdP9jXYiNnWFuLUmK6OX8i78rvyB0ePAbxK1dmfhFG4YukGbVQ==;ZWoT+vYUw5CA2K+yDl5qZw=="
 ---

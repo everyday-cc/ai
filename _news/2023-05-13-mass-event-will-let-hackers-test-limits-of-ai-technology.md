@@ -66,20 +66,6 @@ related:
       name: NBC News
       domain: nbcnews.com
     quality: 49
-  - title: "Vintra showcases its artificial intelligence technology in a demo"
-    excerpt: "Vintra, mentioned by former Boston police commissioner Ed Davis during a Senate hearing about the Boston marathon bombing, can learn \"from normal activity\" to notify operators of \"approaching threats and of anomalies."
-    publishedDateTime: 2023-05-10T22:30:00Z
-    webUrl: "https://www.foxbusiness.com/video/6327054767112"
-    type: article
-    provider:
-      name: Fox Business
-      domain: foxbusiness.com
-    quality: 37
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/134b7b90-1d04-409f-8702-f36e8b024f01/b15f0495-266a-4b82-a6b6-c61ff14fc4dc/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "Q02aP2KmSnPN+1LC9gM0hSpw9QEGdPUtJaTTq1nzEahMxxCsG5/qVYfNIrG1zGWx0tv/jclJm5z2vcy3ZLsJ+H4opyz12FuyaRBxsjg89Fig8ppMB+Wo8OJ/NjJYdTIJqKEc4vGKoRYgEvsWLOCLNIvNmrfvHb9grEQTWBvSWaLv5pMymTlhL0ntw83VAu/roDOZdNfuVgfSXW8+QxA1U/uk0XpYAhk5KNsW6yvD8Y2Zp9QYJltMkQ/ER38P7PQFrWXEt3RjaCvnP0qMzL+F3K03zd1PQnlats5O7S0QlzScM3VYFGxl/3hQ1Ibgw0CiXPjTLqhxTy1oGbzc+V8UeMAdAPS4oXUyZEi4Fm7DlTn8XyXPo9z3rrgt0uPSBNcBXLcoYyVg0kWg2K5iMqpMpxA52UsO5OE9CagCLbn553wgHOkUwVU2KvaeslOImLPX+Y7o7IuPahsFX6rWclPIZoQh6hSMIeVQR0JFKMk1urAHzdkicj5F14xiYA+TGzm3RCCV3LSBcAzOSG+FB/AikA==;aGATf4t557ED3XzRK8WEeg=="
 ---

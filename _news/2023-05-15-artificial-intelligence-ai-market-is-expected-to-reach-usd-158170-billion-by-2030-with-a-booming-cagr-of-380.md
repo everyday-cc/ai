@@ -319,20 +319,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Computer Vision Software Market Research, 2030"
-    excerpt: "Precision Reports has published a new report titled as \" Computer Vision Software Market \" by End User ( Automotive, Electronics and Semiconductor, Glass, Metals, Wood and Paper, Food and Packaging, Others ),"
-    publishedDateTime: 2023-05-10T21:21:00Z
-    webUrl: "https://www.marketwatch.com/press-release/computer-vision-software-market-research-2030-2023-05-10"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "2023, Computer Vision System Market Research Report Analysis by 2030"
     excerpt: "Computer Vision System Market | Outlook 2023-2028 | Pre and Post-COVID Research is Covered, Report Information | Newest"
     publishedDateTime: 2023-05-12T17:10:00Z
@@ -511,6 +497,6 @@ related:
       domain: tmcnet.com
     quality: 29
 
-secured: "pI19pDcmWA5C6/ETO/gdbH9yRjXM6x4NgGEwCu/jhO7OGfHRJdRT/TjPKUP2ajy6+Y6kuGhvnpqCaY0lmiGCOBScI7oomTwLA2lHHYtpdrVO72Q87ychAXoS7dvmy553GUcx0jDAa8pRG89yQwi5zpVkNWt2g3MKAMQRdf6mgZqodp5HwufuPiZtUEVwK1LASbJ29/l4vB0HN2Yg1ExYL6xScf1kwWDMt3yGl7rPrX35KENupa4NRv/VS0yZOdFapenjm+nWzRRaYm3/1/YhWAS24MK2xnLcS77vlH2HAKishDgcJ7Etppk450hqL+rFte+T0fdYlahGFlT0nWIxxYqFn1meCtScFDYoQJyCnNI=;Cbi1OUT0iJ5joe/fQr4vZA=="
+secured: "AhieONKFWzitqm4h9OJ/Dk8RTZfkyZj1m86ds3DD6XcGYrwd3IFLlfk32TxvOywMRk9rr8d2r8oCEXOytwiHqo8bivUIWL6tMMKH4QGiQBhYBgn3j3qDbB2FIeodq7J75F0kDx9L6UJssEjeLJE6SoqOpyWCB5KCNOpNml6G+67EFjLcJtwRGUVN4Mchb+PRIAfv19YgQThhMPmcBnMXy99tsux44dhQoz/or5cEsZ5caia5KCbZslDD/oOQIPV/zShucMNTvGyWFaiKlGXGBjlznRDxR443HJm/Wn2MHJRqovUGLS2EpD18XtnV37XzZzaxoKqRBjoLOSuXg2HmNuMWWZrdbgJt1ighg6aZiZm+pJ933qglA36DoERWPtIJ3JXBE8kfASN3jZwXSbkL5GxM+R28uBuVk4UNHvK9hfpweW/pEaJZu5aXJ6MXzv8gDOezzzHl/B+VTNAsHrUH0cDrVMGrPXk5GGvkMn9WzYTIUgPhHfpHgiIZZyUY75gY9EbRS5LD4gHK3OSV0OPJtg==;wcpzCV4yBSYOYD7OYfRjrw=="
 ---
 

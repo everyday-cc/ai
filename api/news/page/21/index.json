@@ -2,6 +2,507 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2023-05-02-machine-learning-model-sheds-light-on-how-brains-recognize-communication-sounds.md",
+      "title": "Machine learning model sheds light on how brains recognize communication sounds",
+      "excerpt": "In a paper published today in Communications Biology, auditory neuroscientists at the University of Pittsburgh describe a machine learning model that helps explain how the brain recognizes the meaning of communication sounds,",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2023-05-machine-brains-communication.html",
+      "originalUrl": "https://phys.org/news/2023-05-machine-brains-communication.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2023/machine-learning-model-6.jpg",
+          "width": 1189,
+          "height": 559,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2023-05-machine-brains-communication.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-05-machine-brains-communication.amp",
+      "publishedDateTime": "2023-05-02T01:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-02-floki-co-founder-joins-new-ai-crypto-token-based-on-elons-robot.md",
+      "title": "Floki Co-Founder Joins New AI Crypto Token, based on Elon’s Robot",
+      "excerpt": "Floki co-founder joins an innovative AI-based crypto token project, inspired by Elon Musk's advanced robotics. The collaboration aims to",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/floki-co-founder-joins-new-ai-crypto-token-based-on-elon-s-robot-1032279763",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/floki-co-founder-joins-new-ai-crypto-token-based-on-elon-s-robot-1032279763",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/mmstudio-images/gallery/tfZqZ41Q6rZthU8sCylUKUm5RM13/1682908073837-0.jpg",
+          "width": 336,
+          "height": 334,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-02T00:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-05-02-ai-in-computer-vision-market-2023-2031-players-launches-revolutionary-product-line-in-coming-years.md",
+      "title": "AI in Computer Vision Market (2023-2031) Players Launches Revolutionary Product Line in Coming Years",
+      "excerpt": "Global AI in Computer Vision Market research report offers an In-depth analysis of valuable insight into the market",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-2023-2031-players-launches-revolutionary-product-line-in-coming-years-2023-05-02",
+      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-2023-2031-players-launches-revolutionary-product-line-in-coming-years-2023-05-02",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-01T23:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-02-5-amazing-ways-how-meta-facebook-is-using-generative-ai.md",
+      "title": "5 Amazing Ways How Meta (Facebook) Is Using Generative AI",
+      "excerpt": "Explore how Meta utilizes generative AI to revolutionize advertising, chat, image generation, and natural language processing while shaping the future of the metaverse with immersive and accessible content creation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2023/05/02/5-amazing-ways-how-meta-facebook-is-using-generative-ai/",
+      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2023/05/02/5-amazing-ways-how-meta-facebook-is-using-generative-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6450ac8062c3ef25fedc456e/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2023/05/02/5-amazing-ways-how-meta-facebook-is-using-generative-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/05/02/5-amazing-ways-how-meta-facebook-is-using-generative-ai/amp/",
+      "publishedDateTime": "2023-05-01T23:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-02-mind-reading-ai-translates-brain-activity-into-a-continuous-stream-of-text.md",
+      "title": "Mind-reading AI translates brain activity into a continuous stream of text",
+      "excerpt": "Researchers from the University of Texas at Austin have created a mind-reading AI system that can take images of a person’s brain activity and translate them into a continuous stream of text. Called a semantic decoder,",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/technology/mind-reading-ai-translates-brain-activity-into-text/",
+      "originalUrl": "https://newatlas.com/technology/mind-reading-ai-translates-brain-activity-into-text/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 222,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/a065e2e/2147483647/strip/true/crop/1200x800+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Ff7%2F0b%2Fcfdeedf546adb2f71c0371162e5a%2Fbrain-thoughts5x3-1200x800-c-default-copy.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://newatlas.com/technology/mind-reading-ai-translates-brain-activity-into-text/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/technology/mind-reading-ai-translates-brain-activity-into-text/?amp=true",
+      "publishedDateTime": "2023-05-01T22:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-02-godfather-of-ai-geoffrey-hinton-quits-google-and-warns-over-dangers-of-machine-learning.md",
+      "title": "‘Godfather of AI’ Geoffrey Hinton quits Google and warns over dangers of machine learning",
+      "excerpt": "The neural network pioneer says dangers of chatbots were ‘quite scary’ and warns they could be exploited by ‘bad actors’",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/technology/2023/may/02/geoffrey-hinton-godfather-of-ai-quits-google-warns-dangers-of-machine-learning?ref=upstract.com",
+      "originalUrl": "https://www.theguardian.com/technology/2023/may/02/geoffrey-hinton-godfather-of-ai-quits-google-warns-dangers-of-machine-learning?ref=upstract.com",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 225,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/9d2f544e797d7664901b646357c02b61e4121051/0_33_6222_3733/master/6222.jpg?width=620&quality=85&auto=format&fit=max&s=0fbd4a1fa9bba14ccfe9ed2804ba32fc",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/technology/2023/may/02/geoffrey-hinton-godfather-of-ai-quits-google-warns-dangers-of-machine-learning",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/may/02/geoffrey-hinton-godfather-of-ai-quits-google-warns-dangers-of-machine-learning",
+      "publishedDateTime": "2023-05-01T20:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-02-were-in-the-aol-phase-of-artificial-intelligence-tech-ceo-says-as-industry-raves-about-ai.md",
+      "title": "We're in the AOL phase of artificial intelligence, tech CEO says, as industry raves about A.I.",
+      "excerpt": "Sachin Dev Duggal, CEO of Builder.ai, said we've only just begun to see what's possible with AI and that the space is in need of a reality check.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/05/02/chatgpt-were-only-in-aol-phase-of-ai-ceo-says.html",
+      "originalUrl": "https://www.cnbc.com/2023/05/02/chatgpt-were-only-in-aol-phase-of-ai-ceo-says.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107231609-1682534718265-gettyimages-1252206786-AFP_33DW899.jpeg?v=1683004914",
+          "width": 7944,
+          "height": 5296,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2023/05/02/chatgpt-were-only-in-aol-phase-of-ai-ceo-says.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/05/02/chatgpt-were-only-in-aol-phase-of-ai-ceo-says.html",
+      "publishedDateTime": "2023-05-01T20:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-02-ai-pioneer-quits-google-to-warn-about-the-technologys-dangers.md",
+      "title": "AI pioneer quits Google to warn about the technology’s ‘dangers’",
+      "excerpt": "Hinton’s pioneering work on neural networks shaped artificial intelligence systems powering many of today’s products. He worked part-time at Google for a decade on the tech giant’s AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2023/05/01/tech/geoffrey-hinton-leaves-google-ai-fears/index.html",
+      "originalUrl": "https://www.cnn.com/2023/05/01/tech/geoffrey-hinton-leaves-google-ai-fears/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/230501094028-geoffrey-hinton-file-restricted-090519-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2023/05/01/tech/geoffrey-hinton-leaves-google-ai-fears/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/05/01/tech/geoffrey-hinton-leaves-google-ai-fears/index.html",
+      "publishedDateTime": "2023-05-01T19:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-02-samsung-reportedly-bans-use-of-generative-ai-tools.md",
+      "title": "Samsung Reportedly Bans Use of Generative AI Tools",
+      "excerpt": "Employees are prohibited from using the popular tools on company equipment after a data leak, Bloomberg reports",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/tech/samsung-reportedly-bans-use-of-generative-ai-tools/",
+      "originalUrl": "https://www.cnet.com/tech/samsung-reportedly-bans-use-of-generative-ai-tools/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/734ac9449cb8169694bff4472bec103682803272/hub/2021/12/16/e9b75d85-82f3-4925-ae9e-79b6728957b7/20211209-samsung-san-jose-california-headquarters-06.jpg?auto=webp&fit=crop&height=630&width=1200",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/samsung-reportedly-bans-use-of-generative-ai-tools/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/samsung-reportedly-bans-use-of-generative-ai-tools/",
+      "publishedDateTime": "2023-05-01T19:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-02-ai-chatbot-outperforms-human-doctors-in-responding-to-patient-questions.md",
+      "title": "AI chatbot outperforms human doctors in responding to patient questions",
+      "excerpt": "An artificial intelligence chatbot was able ... presented a team of licensed health care professionals with responses to 195 randomly drawn patient questions. The evaluators determined that ...",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/policy/technology/3982046-ai-chatbot-outperforms-human-doctors-in-responding-to-patient-questions/",
+      "originalUrl": "https://thehill.com/policy/technology/3982046-ai-chatbot-outperforms-human-doctors-in-responding-to-patient-questions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/wp-content/uploads/sites/2/2022/11/laptop-doctor_042822istock_cyber-health-care.jpg?w=1280",
+          "width": 1280,
+          "height": 719,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/policy/technology/3982046-ai-chatbot-outperforms-human-doctors-in-responding-to-patient-questions/amp/",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/3982046-ai-chatbot-outperforms-human-doctors-in-responding-to-patient-questions/amp/",
+      "publishedDateTime": "2023-05-01T19:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-02-ai-trailers-are-extremely-funny-abominations-for-now.md",
       "title": "AI Trailers Are Extremely Funny Abominations. For Now",
       "excerpt": "This hellish atrocity I've just described is an AI generated trailer, designed to show the capabilities of AI created content. It is, in no uncertain terms, an abomination. It's also extremely funny.",
@@ -716,507 +1217,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-02-best-early-amazon-prime-day-2023-furniture-deals.md",
-      "title": "Best early Amazon Prime Day 2023 furniture deals",
-      "excerpt": "If you've been thinking about redecorating, you're in luck -- there are tons of deals on top-rated, great-looking furniture right now on Amazon. And that's even ahead of Amazon Prime Day 2023 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/essentials/best-furniture-deals-at-amazon-2023-05-01/",
-      "originalUrl": "https://www.cbsnews.com/essentials/best-furniture-deals-at-amazon-2023-05-01/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/04/26/0ad6b0d8-0bbe-4ef7-ae5f-77cd418bc66b/thumbnail/1200x630/b6b1052b66f8fce2848975c1ada0f300/a1lil2l-jl-ac-sl1500.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/essentials/best-furniture-deals-at-amazon-2023-05-01/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/best-furniture-deals-at-amazon-2023-05-01/",
-      "publishedDateTime": "2023-05-01T10:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-02-geoffrey-hinton-a-pioneer-in-artificial-intelligence-resigns-from-google-over-ethical-fears.md",
-      "title": "Geoffrey Hinton, a pioneer in artificial intelligence, resigns from Google over ethical fears",
-      "excerpt": "Geoffrey Hinton, a pioneer in artificial intelligence and a longtime leader of Google’s AI research division, has resigned from his position at the tech giant, citing growing concerns about the ethical implications of the technology he helped create,",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/geoffrey-hinton-a-pioneer-in-artificial-intelligence-resigns-from-google-over-ethical-fears/",
-      "originalUrl": "https://venturebeat.com/ai/geoffrey-hinton-a-pioneer-in-artificial-intelligence-resigns-from-google-over-ethical-fears/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 377,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/05/deepmind.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/geoffrey-hinton-a-pioneer-in-artificial-intelligence-resigns-from-google-over-ethical-fears/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/geoffrey-hinton-a-pioneer-in-artificial-intelligence-resigns-from-google-over-ethical-fears/amp/",
-      "publishedDateTime": "2023-05-01T10:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Healthcare",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-05-02-godfather-of-ai-exits-google-concerned-about-multiple-ethical-problems.md",
-      "title": "'Godfather of AI' exits Google, concerned about multiple ethical problems",
-      "excerpt": "Hinton worries unregulated AI could lead to waves of misinformation, lost jobs, and problems with fully automated weapons. It’s no secret that Google has been ramping up AI development to put out products that can compete with the likes of ChatGPT,",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidauthority.com/google-ai-concerns-3319098/",
-      "originalUrl": "https://www.androidauthority.com/google-ai-concerns-3319098/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 213,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.androidauthority.com/wp-content/uploads/2022/10/Google-Logo-Lights.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-01T10:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Authority",
-        "domain": "androidauthority.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-05-02-chatgpt-and-generative-ai-around-the-world-maturity-opportunities-and-hurdles-in-key-regions.md",
-      "title": "ChatGPT and Generative AI Around the World: Maturity, Opportunities, and Hurdles in Key Regions",
-      "excerpt": "ChatGPT has received a lot of press since its November 2022 launch. But while interest in the tool is high, its use is not yet universal.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/chatgpt-and-generative-ai-around-the-world-maturity-2023-may",
-      "originalUrl": "https://www.businessinsider.com/chatgpt-and-generative-ai-around-the-world-maturity-2023-may",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/6441b16a3f6f690018debe44?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/chatgpt-and-generative-ai-around-the-world-maturity-2023-may?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-and-generative-ai-around-the-world-maturity-2023-may?amp",
-      "publishedDateTime": "2023-05-01T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-01-ai-platform-to-analyze-creative-advertising-raises-51m-from-investors-including-a16z.md",
-      "title": "AI platform to analyze creative advertising raises $5.1M from investors, including a16z",
-      "excerpt": "In this increasingly AI-driven era, creative and media teams will probably need to employ the technology to up their game on analyzing their creative assets and A/B testing — or someone else will simply beat them to the punch.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/05/01/ai-platform-to-analyze-creative-advertising-raises-5-1m-from-investors-including-a16z/",
-      "originalUrl": "https://techcrunch.com/2023/05/01/ai-platform-to-analyze-creative-advertising-raises-5-1m-from-investors-including-a16z/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/04/Screenshot-2023-04-30-at-22.44.09.png?resize=1200,824",
-          "width": 1199,
-          "height": 824,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/05/01/ai-platform-to-analyze-creative-advertising-raises-5-1m-from-investors-including-a16z/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/01/ai-platform-to-analyze-creative-advertising-raises-5-1m-from-investors-including-a16z/amp/",
-      "publishedDateTime": "2023-05-01T09:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-01-white-house-wants-to-know-how-ai-monitoring-is-impacting-your-work.md",
-      "title": "White House Wants to Know How AI Monitoring is Impacting Your Work",
-      "excerpt": "The Biden Administration is reportedly looking for feedback from workers to see how AI tools are being in the workplace.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/tech/white-house-wants-to-know-how-ai-monitoring-is-impacting-your-work/",
-      "originalUrl": "https://www.cnet.com/tech/white-house-wants-to-know-how-ai-monitoring-is-impacting-your-work/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/ad99f665f21072d2552b946239f97ecaa1d9884f/hub/2023/05/01/6becf316-2f12-4396-8126-21a0ba76ca41/gettyimages-1324245317.jpg?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/white-house-wants-to-know-how-ai-monitoring-is-impacting-your-work/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/white-house-wants-to-know-how-ai-monitoring-is-impacting-your-work/",
-      "publishedDateTime": "2023-05-01T09:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-01-godfather-of-ai-leaves-google-amid-ethical-concerns.md",
-      "title": "'Godfather of AI' leaves Google amid ethical concerns",
-      "excerpt": "Geoffrey Hinton, the 'godfather of AI,' has left Google so he can warn people of the risks involved with the technology..",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/godfather-of-ai-leaves-google-amid-ethical-concerns-152451800.html",
-      "originalUrl": "https://www.engadget.com/godfather-of-ai-leaves-google-amid-ethical-concerns-152451800.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 506,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/uu/api/res/1.2/va6aKpnLTH_HpTTrHhzsoQ--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-04/e30ed030-e82b-11ed-b4f7-aa573aa5f955.cf.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/godfather-of-ai-leaves-google-amid-ethical-concerns-152451800.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/godfather-of-ai-leaves-google-amid-ethical-concerns-152451800.html",
-      "publishedDateTime": "2023-05-01T08:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2023-05-01-meet-7-healthcare-robotics-startups-at-robotics-summit-expo.md",
-      "title": "Meet 7 healthcare robotics startups at Robotics Summit & Expo",
-      "excerpt": "During a session at the Robotics Summit & Expo, which is held at the Boston Convention Center from May 10-11, attendees will hear pitches from the following seven healthcare robotics startups currently in the catalyst program: Able Human Motion,",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/meet-7-healthcare-robotics-startups-at-robotics-summit-expo/",
-      "originalUrl": "https://www.therobotreport.com/meet-7-healthcare-robotics-startups-at-robotics-summit-expo/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2023/04/healthcare-robotics-featured.jpg",
-          "width": 770,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-01T08:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-05-01-taylor-swift-ai-and-the-copyright-conundrum.md",
-      "title": "Taylor Swift, AI and the copyright conundrum",
-      "excerpt": "Ashley Moore, Annelise Raymond Alam and Enrico Trevisani of Michelman & Robinson LLP examine some of the novel issues surrounding AI and copyright such as when works are created by machines in response to an individual's creative input.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/legal/legalindustry/taylor-swift-ai-copyright-conundrum-2023-05-01/",
-      "originalUrl": "https://www.reuters.com/legal/legalindustry/taylor-swift-ai-copyright-conundrum-2023-05-01/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/f2mseeVk8wb7sZxOq-hglzcWT7c=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/B3N7RTBJUNKBPNJOPMPEFW35G4.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-01T08:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-01-what-policymakers-need-to-know-about-foundation-models.md",
-      "title": "What policymakers need to know about foundation models",
-      "excerpt": "The newest wave of AI is attributable to what are called foundation models. The benefits are high, but so are the concerns. Here's what policymakers can do.\nThe post What policymakers need to know about foundation models appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/what-policymakers-need-to-know-about-foundation-models/",
-      "originalUrl": "https://www.ibm.com/blog/what-policymakers-need-to-know-about-foundation-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/05/IMG_5919.png",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-01T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
       ]
     }
   ],

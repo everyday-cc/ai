@@ -176,6 +176,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 39
+  - title: "Kagan: What’s the next move for Meta with metaverse down, AI ChatGPT up?"
+    excerpt: "As interest and intrigue in ChatGPT overtakes that of the metaverse, one analyst asks: Should Meta change its vision?"
+    publishedDateTime: 2023-05-15T15:22:00Z
+    webUrl: "https://www.rcrwireless.com/20230515/metaverse/kagan-whats-the-next-move-for-meta-with-metaverse-down-ai-chatgpt-up"
+    type: article
+    provider:
+      name: RCR Wireless News
+      domain: rcrwireless.com
+    quality: 38
+    images:
+      - url: "https://www.rcrwireless.com/wp-content/uploads/2022/12/176512315_s.jpg"
+        width: 844
+        height: 567
+        isCached: true
   - title: "ChatGPT on Mars: How AI can help scientists study the Red Planet"
     excerpt: "Steve Ruff, associate research professor at Arizona State University's School of Earth and Space Exploration in Tempe, Arizona, is keenly tied to studying Mars."
     publishedDateTime: 2023-05-14T10:00:00Z
@@ -223,6 +237,6 @@ related:
       domain: usatoday.com
     quality: 7
 
-secured: "ZhIk/mbUxBwn3xMoCy1Z18ykCkpFoU2ZD62yooyJ6m3s6DVsZrY6mrQwriy+cnEY0lrJryAN7+vA1BRh5+kEELXur/MHeRdZgbtMLd+OJulKrdNStBV5AY7yOVYHpBt1vK9No29JRDTgEyZEkJpykLypo6lufRWy/QXZJ0EXKAfYlGmMTQuP9/Wg6LqpGbjgFHUCi3ArHibx/nw/3Q/d+oij7q19y8VLJH/oCWCIL4a5HKK8iiPWiwd8ZBIGUzMrMgBxZgWeZh5amsBIASFr7FmwtyKy+n3DCSHYADSWU2pxMWM+gA/KY9wKLxL3CG4P/VJN1w+UGNEK5vPflPUwaQoxAm1o0crxRi8zJfFy0hs=;3poqQmWvZmvHaFYeSAx7MA=="
+secured: "g5L+oE6YMgRkkNnfDAcO12XFzNR8OBFcmwQy1p1WDX7jxrluPJzzPBWm9YU7ZgAFTKTPeizKyfGPy1RRXgG2NNJ3F7Rg6vnXyCWDvTokqT7G9Zy+//JFy+Uzib+qc5tAkIuQSxhJA2CM2dCebSoSPDt1kc29tJbMqO1QtaQQuMtnHVXfE7b5oBTGXmjv+6aH4IL65DCAKgK4jEl32ZL7jG/XBa2m2SIJxNDztB6Sm+UznOMvx1fU3WzCX0cF3h0k4b/L9dENHi6YFBzJrJSFGi0YSOWeiCE7kXanihYYLwho55OouX8w5OMXLGHgXNac3GV5uj4HheF88IwdTfkhYEM6eEGV+It0iKkBHPzaL9l5Z6kqPmDvWTYMIrbiMoEEOF6pBPeZS/08kg4PmM3S6wYpciU58B9fPya8ZXj40808v0T+PlSP7coNgfwgdLa6cwjdZKQ9SNG1HLlS+aWbZKBT5CR/vNwp1gGIp2lyLhZkkJOsckLqE84/LKkCVciDMNt7k3ZFLmVF153yCA4Aww==;TemtN4MSq5YIJdHkR5aDJQ=="
 ---
 

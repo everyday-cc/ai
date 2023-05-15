@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-05-15-is-that-really-you-tsa-tests-facial-recognition-tech-for-airport-security.md",
+      "title": "Is that really you? TSA tests facial recognition tech for airport security",
+      "excerpt": "A pilot project by the Transportation Security Administration is assessing the use of facial recognition technology at a number of airports across the country.",
+      "sourceUrl": null,
+      "webUrl": "https://www.kxan.com/news/national-news/is-that-really-you-tsa-tests-facial-recognition-tech-for-airport-security/",
+      "originalUrl": "https://www.kxan.com/news/national-news/is-that-really-you-tsa-tests-facial-recognition-tech-for-airport-security/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.kxan.com/wp-content/uploads/sites/40/2023/05/facial.jpg?w=1280",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.kxan.com/news/national-news/is-that-really-you-tsa-tests-facial-recognition-tech-for-airport-security/amp/",
+      "cdnAmpWebUrl": "https://www-kxan-com.cdn.ampproject.org/c/s/www.kxan.com/news/national-news/is-that-really-you-tsa-tests-facial-recognition-tech-for-airport-security/amp/",
+      "publishedDateTime": "2023-05-15T06:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KXAN",
+        "domain": "kxan.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2023-05-15-behemoths-of-the-retail-industry-are-redefining-customer-experience-with-computer-vision-and-ai.md",
       "title": "Behemoths Of The Retail Industry Are Redefining Customer Experience With Computer Vision And AI",
       "excerpt": "Computer vision and AI are revolutionizing the retail industry by optimizing inventory management, reducing stock-outs and enhancing shopper experiences. By understanding consumer behavior, retailers can offer personalized shopping experiences and increase sales.",
@@ -10,7 +54,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/15/behemoths-of-the-retail-industry-are-redefining-customer-experience-with-computer-vision-and-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 132,
+      "heat": 122,
       "tags": null,
       "images": [
         {
@@ -51,50 +95,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-15-tsa-tests-facial-recognition-technology-to-boost-airport-security.md",
-      "title": "TSA tests facial recognition technology to boost airport security",
-      "excerpt": "BALTIMORE (AP) — A passenger walks up to an airport security checkpoint, slips an ID card into a slot and looks into a camera atop a small screen. The screen flashes “Photo Complete” and the person walks through — all without having to hand over their identification to the TSA officer sitting behind the screen.",
-      "sourceUrl": null,
-      "webUrl": "https://www.syracuse.com/us-news/2023/05/tsa-tests-facial-recognition-technology-to-boost-airport-security.html",
-      "originalUrl": "https://www.syracuse.com/us-news/2023/05/tsa-tests-facial-recognition-technology-to-boost-airport-security.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/AZBTIOAFSBHZXMRDRCK3ZLKOBU.jpg",
-          "width": 6768,
-          "height": 4514,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.syracuse.com/us-news/2023/05/tsa-tests-facial-recognition-technology-to-boost-airport-security.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-syracuse-com.cdn.ampproject.org/c/s/www.syracuse.com/us-news/2023/05/tsa-tests-facial-recognition-technology-to-boost-airport-security.html?outputType=amp",
-      "publishedDateTime": "2023-05-15T03:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "syracuse.com",
-        "domain": "syracuse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Security"
       ]
     },
     {
@@ -158,7 +158,7 @@
       "originalUrl": "https://thenextweb.com/news/ai-act-vote-pushes-eu-ban-on-predictive-policing-facial-recognition",
       "featuredContent": null,
       "highlight": null,
-      "heat": 131,
+      "heat": 121,
       "tags": null,
       "images": [
         {
@@ -210,7 +210,7 @@
       "originalUrl": "https://www.forbes.com/sites/nicholascrain/2023/05/11/a-season-of-recognition-the-oklahoma-city-thunders-individual-honors-and-a-promising-trajectory/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 81,
       "tags": null,
       "images": [
         {
@@ -262,7 +262,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/face-recognition-systems-market-worldwide-industry-trends-2023-2030-2023-05-11",
       "featuredContent": null,
       "highlight": null,
-      "heat": 169,
+      "heat": 179,
       "tags": null,
       "images": [
         {

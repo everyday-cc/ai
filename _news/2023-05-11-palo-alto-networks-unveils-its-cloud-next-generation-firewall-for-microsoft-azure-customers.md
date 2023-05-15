@@ -179,6 +179,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "SAP and Microsoft to Deepen Collaboration on Generative AI in Recruiting"
+    excerpt: "(Reuters) - SAP will deepen collaboration with Microsoft on joint generative AI projects in the field of personnel recruiting, the German software maker announced on Monday. SAP's SuccessFactors solutions will be integrated with Microsoft's 365 Copilot and Azure OpenAI Service to access language models and generate natural language, it added."
+    publishedDateTime: 2023-05-15T12:35:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2023-05-15/sap-and-microsoft-to-deepen-collaboration-on-generative-ai-in-recruiting"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 63
   - title: "Microsoft freezes salaries to invest in AI"
     excerpt: "Microsoft has decided to freeze pay for all full-time workers this year as it invests in a \"major platform shift\"."
     publishedDateTime: 2023-05-11T07:04:00Z
@@ -192,6 +201,22 @@ related:
       - url: "https://techcentral.co.za/wp-content/uploads/2021/09/satya-nadella-2156-1120-2-5-1024x532.jpg"
         width: 1024
         height: 532
+        isCached: true
+  - title: "Start-Up Nation Central Collaborates with Microsoft to Promote Israeli AgriFood-Tech Startups"
+    excerpt: "This collaboration aims to integrate innovative agricultural data companies with core technologies of AI, Cloud & Machine Learning with Microsoft's AI tools to develop models for optimal, sustainable"
+    publishedDateTime: 2023-05-15T14:30:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/05/n32395743/start-up-nation-central-collaborates-with-microsoft-to-promote-israeli-agrifood-tech-startups"
+    ampWebUrl: "https://www.benzinga.com/amp/content/32395743"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32395743"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 48
+    images:
+      - url: "https://mma.prnewswire.com/media/2077182/Start_Up_Nation_Central.jpg"
+        width: 400
+        height: 279
         isCached: true
   - title: "KPMG LLP AND MICROSOFT ESTABLISH INDUSTRY-LEADING INITIATIVE TO SCALE GENERATIVE AI ACROSS AUDIT, TAX AND ADVISORY"
     excerpt: "KPMG LLP AND MICROSOFT ESTABLISH INDUSTRY-LEADING INITIATIVE TO SCALE GENERATIVE AI ACROSS AUDIT, TAX AND ADVISORY May 11, 2023 (PRNewswire via COMTEX) --"
@@ -211,6 +236,15 @@ related:
       name: Mena FN
       domain: menafn.com
     quality: 24
+  - title: "SAP and Microsoft Collaborate on Joint Generative AI Offerings to Help Customers Address the Talent Gap"
+    excerpt: "SAP® SuccessFactors® Solutions Integration with Microsoft 365 Copilot and Copilot in Viva Learning Will Bring the Power of AI to People Leaders, Helping Them Recruit and Develop Their Teams WALLDORF,"
+    publishedDateTime: 2023-05-15T14:29:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/05/15/9813979.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 18
 
 secured: "q/zmxEYEJt1jqu5wtSekrUGBE1pQIoa+GcFynmzygC68f5nw+GGx8SoGAnrtKQRmkZdFJM8slb/aafzGqdbKN7lyXrK4+wZNYMaHiyY3m0TMW7rsyOC07DrhvE417HRYvAvTOuUaqQPNNWTndOER0BxIpef7JMbpdW/NI9YNqWQ9w+Pth/1ugJFg1cVVdKqyfMk4QLp916zflN6/PrAm84SpmKw17uWQYyHg8fvSaT+e+FsPPCltFDA1BoDlpN7QjZLzXh5hgqITykZIsoCDnu2Xtgj5fSYBjiPnt5VRkPjHTClVqHV/pJVJuGNmX8/FLYGU/rLsi1c1BGjlswt/D+40AuNjaJPs9OtjgmpSzTk=;Roy79s0Xcds4ncMv7PlDJg=="
 ---

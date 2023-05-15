@@ -35,6 +35,38 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "How to Sign Up for Google's New AI-Driven Search Tools"
+    excerpt: "At Google I/O, the search giant's annual developer conference, artificial intelligence was the phrase on everybody's lips. Among the more notable announcements from the event yesterday was the news that Google is letting the public test out its latest generative AI experiments by signing up for Search Labs."
+    publishedDateTime: 2023-05-11T16:15:00Z
+    webUrl: "https://www.cnet.com/tech/computing/how-to-sign-up-for-googles-new-ai-driven-search-tools/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/how-to-sign-up-for-googles-new-ai-driven-search-tools/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/how-to-sign-up-for-googles-new-ai-driven-search-tools/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 87
+    images:
+      - url: "https://www.cnet.com/a/img/resize/45757153ae157d44b9bae8ae1e2ba6af86bac55a/hub/2023/05/11/3a878f9f-21cd-451b-ae9a-0d7ed8121e23/gettyimages-1230722138.jpg?auto=webp&fit=crop&height=630&width=1200"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "How to Sign Up for Google Search Labs And Access New AI-Driven Search Tools"
+    excerpt: "Among the more notable announcements from Google I/O, the search giant's annual developer conference, was the news that the public could now test out its new AI-driven search tools, which are being housed on Search Labs."
+    publishedDateTime: 2023-05-12T16:13:00Z
+    webUrl: "https://www.cnet.com/tech/computing/how-to-sign-up-for-google-search-labs-and-access-new-ai-driven-search-tools/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/how-to-sign-up-for-google-search-labs-and-access-new-ai-driven-search-tools/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/how-to-sign-up-for-google-search-labs-and-access-new-ai-driven-search-tools/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 85
+    images:
+      - url: "https://www.cnet.com/a/img/resize/45757153ae157d44b9bae8ae1e2ba6af86bac55a/hub/2023/05/11/3a878f9f-21cd-451b-ae9a-0d7ed8121e23/gettyimages-1230722138.jpg?auto=webp&fit=crop&height=630&width=1200"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "New Google search tool will distinguish real images from AI-generated phonies"
     excerpt: "Rolling out in the coming months, the new 'About this Image' tool will help identify which images in a search are real and which are created by AI."
     publishedDateTime: 2023-05-11T14:52:00Z
@@ -80,20 +112,6 @@ related:
       - url: "https://healthitanalytics.com/images/site/article_headers/_normal/2022-03-14-GettyImages-1033717120.jpg"
         width: 690
         height: 400
-        isCached: true
-  - title: "Google Says Search Enters New Era With Conversational AI Features"
-    excerpt: "The company intends to use AI programs to provide lengthier replies to queries. The new features invite follow-up questions."
-    publishedDateTime: 2023-05-10T20:36:00Z
-    webUrl: "https://www.wsj.com/articles/google-says-search-enters-new-era-with-conversational-features-ca17f277"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 67
-    images:
-      - url: "https://images.wsj.net/im-779547/social"
-        width: 1280
-        height: 640
         isCached: true
   - title: "Google Launching Tools to Identify Misleading and AI Images"
     excerpt: "Google is adding two new features to its image search to reduce the spread of misinformation, especially now that artificial intelligence tools have made the creation of photorealistic fakes trivial."
@@ -189,17 +207,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Google shows off latest AI tools: Updates from I/O event"
-    excerpt: "Generative AI is coming to Google’s flagship product. The new search offering, which Google is calling “search generative experience,” or SGE for short, displays an AI-produced response at the top of results, which seeks to answer a user’s query while summarising key information and linking to website sources."
-    publishedDateTime: 2023-05-10T22:30:00Z
-    webUrl: "https://www.theedgesingapore.com/digitaledge/news/google-shows-latest-ai-tools-updates-io-event"
-    ampWebUrl: "https://www.theedgesingapore.com/amp/digitaledge/news/google-shows-latest-ai-tools-updates-io-event"
-    cdnAmpWebUrl: "https://www-theedgesingapore-com.cdn.ampproject.org/c/s/www.theedgesingapore.com/amp/digitaledge/news/google-shows-latest-ai-tools-updates-io-event"
-    type: article
-    provider:
-      name: The Edge Singapore
-      domain: theedgesingapore.com
-    quality: 39
   - title: "Google to revamp search with generative AI tools, but gradually"
     excerpt: "The approach insulates Google from some of the ethical concerns surrounding generative AI. Read more at straitstimes.com."
     publishedDateTime: 2023-05-11T01:52:00Z
@@ -241,6 +248,20 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IH5Q43HQQEI63NT5UIM6YXP5GA.jpg&w=1440"
         width: 1440
         height: 958
+        isCached: true
+  - title: "Google adding AI to popular apps, search"
+    excerpt: "AI-generated responses will top the results pages, and allow users to ask follow-up questions. Google also plans to add a \"help me write\" option in its GMail that will generate replies to emails within seconds."
+    publishedDateTime: 2023-05-11T14:18:00Z
+    webUrl: "https://www.cbsnews.com/newyork/video/google-adding-ai-to-popular-apps-search/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 37
+    images:
+      - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/05/11/76c64e6b-6549-4c21-8823-8f3d1bf8f87a/thumbnail/1200x630/24eb6d37a456e6c3f266e2d621d2d54e/5ce48051e6594736cf61c54a5327ef5c.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Google’s Launches AI Supercomputer Powered by Tens of Thousands of NVIDIA H100 GPUs"
     excerpt: "If a computer’s intelligence can be anthropomorphized, then an AI supercomputer that can scale to 26,000 GPUs is genius smart. That’s the case with Google’s new A3 GPU supercomputers for Google Cloud, introduced at the Google I/O 2023 conference."

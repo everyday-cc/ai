@@ -101,22 +101,6 @@ related:
         width: 3000
         height: 1688
         isCached: true
-  - title: "As AI jobs loss fears spread, know these 10 jobs that will grow because of it"
-    excerpt: "World Economic Forum has informed about top 10 fastest growing jobs because of Artificial Intelligence. From Robotics Engineers to AI Machine Learning specialists, check the list here. Artificial Intelligence will claim a huge number of jobs causing fear to spread rapidly among workers."
-    publishedDateTime: 2023-05-10T21:42:00Z
-    webUrl: "https://tech.hindustantimes.com/tech/news/as-ai-jobs-loss-fears-spread-know-these-10-jobs-that-will-grow-because-of-it-71683713149141.html"
-    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/as-ai-jobs-loss-fears-spread-know-these-10-jobs-that-will-grow-because-of-it-71683713149141.html"
-    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/as-ai-jobs-loss-fears-spread-know-these-10-jobs-that-will-grow-because-of-it-71683713149141.html"
-    type: article
-    provider:
-      name: Hindustan Times Tech
-      domain: hindustantimes.com
-    quality: 56
-    images:
-      - url: "https://images.hindustantimes.com/tech/img/2023/05/10/cropped/16-9/USA-ARTIFICAL-INTELLIGENCE-BIDEN-0_1683713231312_1683713308449.JPG?impolicy=new-ht-20210112&width=1600"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Taming AI to the benefit of humans"
     excerpt: "Previous sci-fi movies featuring AI often portray evil-minded enemies set on destroying humanity, such as The Terminator, The Matrix and Blade Runner. Experts, including late British theoretical physicist Stephen Hawking and Tesla CEO Elon Musk,"
     publishedDateTime: 2023-05-15T02:58:00Z
@@ -130,20 +114,6 @@ related:
       - url: "https://img2.chinadaily.com.cn/images/202305/15/64619228a310b60580cce72b.jpeg"
         width: 608
         height: 405
-        isCached: true
-  - title: "Google Wants to Play Both Sides of the AI Arms Race"
-    excerpt: "CEO Sundar Pichai and several top executives at Google’s parent company Alphabet took the stage to announce the infusion of AI into its suite of tools, as well as the launch of a new-and-improved AI model to power it all."
-    publishedDateTime: 2023-05-10T22:03:00Z
-    webUrl: "https://www.thedailybeast.com/googles-io-conference-reveals-the-internets-ai-generated-future"
-    type: article
-    provider:
-      name: The Daily Beast
-      domain: thedailybeast.com
-    quality: 37
-    images:
-      - url: "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_675,w_1200,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1683752560/230509-Google-AI-sides-tease_dvcxia"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Hospitality sector’s use of artificial intelligence could rise as owners look for ways around expensive apps"
     excerpt: "The idea of robots in hospitality may conjure visions of The Jetsons’ personal assistant Rosey, or robotic waiters at city restaurants, but experts say the sector’s adoption of AI will grow."

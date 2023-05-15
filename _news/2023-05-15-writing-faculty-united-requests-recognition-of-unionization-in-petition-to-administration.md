@@ -25,63 +25,76 @@ images:
     isCached: true
 
 related:
-  - title: "A Season Of Recognition: The Oklahoma City Thunder’s Individual Honors And A Promising Trajectory"
-    excerpt: "Following an extremely successful 40-win season for the Oklahoma City Thunder, several individuals earned praise with the various awards and teams that are voted upon."
-    publishedDateTime: 2023-05-11T11:30:00Z
-    webUrl: "https://www.forbes.com/sites/nicholascrain/2023/05/11/a-season-of-recognition-the-oklahoma-city-thunders-individual-honors-and-a-promising-trajectory/"
-    ampWebUrl: "https://www.forbes.com/sites/nicholascrain/2023/05/11/a-season-of-recognition-the-oklahoma-city-thunders-individual-honors-and-a-promising-trajectory/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nicholascrain/2023/05/11/a-season-of-recognition-the-oklahoma-city-thunders-individual-honors-and-a-promising-trajectory/amp/"
+  - title: "Is that really you? TSA tests facial recognition tech for airport security"
+    excerpt: "A pilot project by the Transportation Security Administration is assessing the use of facial recognition technology at a number of airports across the country."
+    publishedDateTime: 2023-05-15T13:10:00Z
+    webUrl: "https://www.kxan.com/news/national-news/is-that-really-you-tsa-tests-facial-recognition-tech-for-airport-security/"
+    ampWebUrl: "https://www.kxan.com/news/national-news/is-that-really-you-tsa-tests-facial-recognition-tech-for-airport-security/amp/"
+    cdnAmpWebUrl: "https://www-kxan-com.cdn.ampproject.org/c/s/www.kxan.com/news/national-news/is-that-really-you-tsa-tests-facial-recognition-tech-for-airport-security/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 61
+      name: KXAN
+      domain: kxan.com
+    quality: 89
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/645c6fe7bc41d9b5e65a4511/0x0.jpg?format=jpg&width=1200"
+      - url: "https://www.kxan.com/wp-content/uploads/sites/40/2023/05/facial.jpg?w=1280"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "TSA tests facial recognition technology to boost airport security"
+    excerpt: "The technology is currently in 16 airports, but critics have have raised concerns about questions of bias in facial recognition technology."
+    publishedDateTime: 2023-05-15T13:01:00Z
+    webUrl: "https://www.nbcnews.com/tech/tech-news/tsa-tests-facial-recognition-technology-boost-airport-security-rcna84415"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 81
+  - title: "Are you who you say you are? TSA tests facial recognition technology to boost airport security"
+    excerpt: "It's part of a pilot project by the Transportation Security Administration to assess the use of facial recognition technology at several airports."
+    publishedDateTime: 2023-05-15T13:37:00Z
+    webUrl: "https://www.detroitnews.com/story/business/2023/05/15/tsa-tests-facial-recognition-technology-to-boost-airports-security/70218049007/"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 59
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2023/05/15/PDTN/59ed15da-9756-49be-bb4b-13d67ab99717-AP23116691095530.jpg?auto=webp&crop=5520,3105,x0,y281&format=pjpg&width=1200"
         width: 1200
-        height: 800
+        height: 675
         isCached: true
-  - title: "BV Education Assoc. petitions directors for official recognition"
-    excerpt: "The meeting room was full, with nearly two dozen district employees wearing red “Stronger Together” shirts in support of the petition."
-    publishedDateTime: 2023-05-10T20:30:00Z
-    webUrl: "https://www.chaffeecountytimes.com/free_content/bv-education-assoc-petitions-directors-for-official-recognition/article_70a6ab88-ef71-11ed-809c-e38820138822.html"
+  - title: "TSA tests facial recognition tech for airport security"
+    excerpt: "A pilot project by the Transportation Security Administration is assessing the use of facial recognition technology at a number of airports across the country."
+    publishedDateTime: 2023-05-15T12:04:00Z
+    webUrl: "https://myfox8.com/news/tsa-tests-facial-recognition-tech-for-airport-security/"
     type: article
     provider:
-      name: The Chaffee County Times
-      domain: chaffeecountytimes.com
-    quality: 41
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/chaffeecountytimes.com/content/tncms/assets/v3/editorial/d/2e/d2e40822-ef71-11ed-80d3-d7ba29657cbb/645bff9407d48.image.jpg?crop=985%2C517%2C107%2C0&resize=985%2C517&order=crop%2Cresize"
-        width: 985
-        height: 517
-        isCached: true
-  - title: "Voice Recognition and Medical Transcription"
-    excerpt: "It would be unfair to look at voice-recognition transcription options without mentioning one of the largest movements in the medical transcription industry -- outsourcing transcription offshore."
-    publishedDateTime: 2023-05-12T00:01:00Z
-    webUrl: "https://www.medscape.com/viewarticle/487524_5"
+      name: WGHP
+      domain: myfox8.com
+    quality: 51
+  - title: "Are you are who you say you are? TSA test facial recognition technology to boost airport security"
+    excerpt: "A passenger walks up to an airport security checkpoint, slips an ID card into a slot and looks into a camera atop a small screen. The screen flashes “Photo Complete” and the person walks through — all without having to hand over their identification to the TSA officer sitting behind the screen."
+    publishedDateTime: 2023-05-15T12:25:00Z
+    webUrl: "https://kvia.com/news/2023/05/15/are-you-are-who-you-say-you-are-tsa-test-facial-recognition-technology-to-boost-airport-security/"
     type: article
     provider:
-      name: Medscape
-      domain: medscape.com
-    quality: 24
-    images:
-      - url: "https://img.medscape.com/thumbnail_library/Social_Facebook_806x806.jpg"
-        width: 640
-        height: 640
-        isCached: true
-  - title: "Genocide Recognition: an Australian story"
-    excerpt: "May it appears is the month of genocide recognition amongst the Australian parliaments, with Tasmania being the latest one to adopt a resolution of recognition of the Genocides of the Hellenes, Armenians and Assyrians on Thursday 11 May."
-    publishedDateTime: 2023-05-13T23:06:00Z
-    webUrl: "https://neoskosmos.com/en/2023/05/14/dialogue/opinion/genocide-recognition-an-australian-story/"
+      name: KVIA
+      domain: kvia.com
+    quality: 38
+  - title: "Facial recognition tech lets TSA to verify your ID without an agent staring at you"
+    excerpt: "The Transportation Security Administration is introducing facial recognition at some airports in an effort to make security screening more efficient."
+    publishedDateTime: 2023-05-15T14:33:00Z
+    webUrl: "https://www.usatoday.com/story/travel/airline-news/2023/05/15/tsa-airport-screening-facial-recognition/70218060007/"
     type: article
     provider:
-      name: Neos Kosmos
-      domain: neoskosmos.com
-    quality: 24
+      name: USA Today
+      domain: usatoday.com
+    quality: 33
     images:
-      - url: "https://cdn1.neoskosmos.com/uploads/sites/2/2023/05/genocideopinion2-PRI_15986-e1684022952308.jpg"
-        width: 1900
-        height: 1104
+      - url: "https://www.gannett-cdn.com/presto/2023/01/01/USAT/3f44de1c-410f-4417-904c-173f8f370140-AP_Winter_Weather_Travel.jpg?auto=webp&crop=5615,3159,x0,y285&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "SGPxnfHfvU8gsqb55wLRm5CJmhL+NqnjTR3HGtKnq032JbGu1hl3P8F8N0iPA1InBgoRqjUWtMMj9G9nsqKY5z4tcB1q4LhQLCd+0KLGAlCLuT0ytZJtXSscdRnaHl7c9Cpzyeijf7jnCWOCJMFF0H0JX+xN5gbR/TqIunc5aw+YDG04w0lYkp8qepBL6FINUJ2R4uGotCLI/9lN5ZmYahSY322alap5m7rqBT78JDznqO8HpfuZqNN466uGFucMk2f7FQU5DMXF7UnYkPV0qQ+Y4peyQOcz+SZbH5IhwdaJeo18eFBeYvpuh4UQgQQnsH4fzVJCbbF8ghPLWeezewzi0zx3hhHAhnp1f6nbFOX0LUbthJkGLVHFkJzAXKH4xrRvGYQSmz5VGZc9eln31XsA3QQhocqaMp3e/07dQiTBLfDl0PFgNM51yYoHLbpqrS/RTixKPcECrNuglR3jep+0RMbTDv32jT1bPfo6cANEgs7mcbwq6n0qh/+HaJSZijXe9shvalemoSKckRFOog==;6hrHS4hAQOPsRadg8J/onw=="

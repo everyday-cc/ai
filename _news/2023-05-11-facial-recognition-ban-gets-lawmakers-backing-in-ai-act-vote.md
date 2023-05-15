@@ -57,22 +57,6 @@ related:
         width: 1000
         height: 581
         isCached: true
-  - title: "MEPs to vote on proposed ban on ‘Big Brother’ AI facial recognition on streets"
-    excerpt: "Thursday’s vote in EU parliament seen as key test in formation of world’s first artificial intelligence laws"
-    publishedDateTime: 2023-05-10T20:42:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/may/10/meps-to-vote-on-proposed-ban-on-big-brother-ai-facial-recognition-on-streets"
-    ampWebUrl: "https://amp.theguardian.com/technology/2023/may/10/meps-to-vote-on-proposed-ban-on-big-brother-ai-facial-recognition-on-streets"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/may/10/meps-to-vote-on-proposed-ban-on-big-brother-ai-facial-recognition-on-streets"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 70
-    images:
-      - url: "https://i.guim.co.uk/img/media/aa6324386e9fe52d51b229a9ab13f470938263ff/0_202_3500_2100/master/3500.jpg?width=620&quality=85&auto=format&fit=max&s=79dac11ea158833cc0f2edcd050e78c0"
-        width: 620
-        height: 372
-        isCached: true
   - title: "EU draft AI Act updated with public facial recognition ban"
     excerpt: "The additions to the AI act include banning the use of facial recognition in public spaces along with predictive policing tools."
     publishedDateTime: 2023-05-11T10:28:00Z

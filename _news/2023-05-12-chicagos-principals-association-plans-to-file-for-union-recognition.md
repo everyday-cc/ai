@@ -33,6 +33,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Chicago’s principals association plans to file for union recognition"
+    excerpt: "A group representing Chicago’s school leaders said it plans to file a petition today to form a union, several months after state lawmakers changed the law to allow that. The Chicago Principals & Administrators Association is submitting signatures with the Illinois Educational Labor Relations Board representing almost 80% of the district’s roughly 1,"
+    publishedDateTime: 2023-05-14T23:12:00Z
+    webUrl: "https://www.chicagobusiness.com/education/chicagos-principals-association-plans-file-union-recognition"
+    type: article
+    provider:
+      name: Crain's Chicago Business
+      domain: chicagobusiness.com
+    quality: 24
+    images:
+      - url: "https://s3-rd-prod.chicagobusiness.com/styles/1200x630/s3/Chicago%20Public%20Schools.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "United States Rugby Players Association calls for Voluntary Recognition from Major League Rugby"
     excerpt: "RugbyUnionNow.com campaign launched, with the aim to strengthen the league and evolve the sport in North America. The United States Rugby Players Association (USRPA) is calling for voluntary recogniti"
     publishedDateTime: 2023-05-11T16:00:00Z

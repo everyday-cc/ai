@@ -189,6 +189,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 39
+  - title: "Kagan: What’s the next move for Meta with metaverse down, AI ChatGPT up?"
+    excerpt: "As interest and intrigue in ChatGPT overtakes that of the metaverse, one analyst asks: Should Meta change its vision?"
+    publishedDateTime: 2023-05-15T15:22:00Z
+    webUrl: "https://www.rcrwireless.com/20230515/metaverse/kagan-whats-the-next-move-for-meta-with-metaverse-down-ai-chatgpt-up"
+    type: article
+    provider:
+      name: RCR Wireless News
+      domain: rcrwireless.com
+    quality: 38
+    images:
+      - url: "https://www.rcrwireless.com/wp-content/uploads/2022/12/176512315_s.jpg"
+        width: 844
+        height: 567
+        isCached: true
   - title: "ChatGPT and Generative AI Around the World: Maturity, Opportunities, and Hurdles in Key Regions"
     excerpt: "ChatGPT has received a lot of press since its November 2022 launch. But while interest in the tool is high, its use is not yet universal."
     publishedDateTime: 2023-05-11T17:01:00Z

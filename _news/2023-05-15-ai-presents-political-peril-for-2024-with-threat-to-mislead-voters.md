@@ -1,29 +1,21 @@
 ---
 category: news
 title: "AI presents political peril for 2024 with threat to mislead voters"
-excerpt: "The threat posed to elections by AI and so-called deepfakes always seemed a year or two away — but now it's here."
-publishedDateTime: 2023-05-15T11:34:00Z
-originalUrl: "https://www.wusa9.com/article/news/nation-world/artificial-intelligence-election-misinformation-2024/507-654735bd-7651-4254-a54f-f85b96116755"
-webUrl: "https://www.wusa9.com/article/news/nation-world/artificial-intelligence-election-misinformation-2024/507-654735bd-7651-4254-a54f-f85b96116755"
-ampWebUrl: "https://www.wusa9.com/amp/article/news/nation-world/artificial-intelligence-election-misinformation-2024/507-654735bd-7651-4254-a54f-f85b96116755"
-cdnAmpWebUrl: "https://www-wusa9-com.cdn.ampproject.org/c/s/www.wusa9.com/amp/article/news/nation-world/artificial-intelligence-election-misinformation-2024/507-654735bd-7651-4254-a54f-f85b96116755"
+excerpt: "Computer engineers and tech-inclined political scientists have warned for years that cheap, powerful artificial intelligence tools would soon allow anyone to create fake images, video and audio that was realistic enough to fool voters and perhaps sway an election."
+publishedDateTime: 2023-05-15T13:54:00Z
+originalUrl: "https://www.mauinews.com/wire/?category=5186&ID=291062"
+webUrl: "https://www.mauinews.com/wire/?category=5186&ID=291062"
 type: article
-quality: 57
+quality: 17
 heat: -1
 published: false
 
 provider:
-  name: WUSA
-  domain: wusa9.com
+  name: The Maui News
+  domain: mauinews.com
 
 topics:
   - AI
-
-images:
-  - url: "https://media.wusa9.com/assets/CCT/images/ed6c0592-6d6a-43ec-82b2-46edc8e8ee3f/ed6c0592-6d6a-43ec-82b2-46edc8e8ee3f_1140x641.jpg"
-    width: 1140
-    height: 641
-    isCached: true
 
 related:
   - title: "AI presents political peril for 2024 with threat to mislead voters"
@@ -54,6 +46,6 @@ related:
       domain: seattletimes.com
     quality: 24
 
-secured: "z7ThKtHOkKDERyiAlFZ8F+9f0O0ygdrxkchiS8kw732drYKUWZXIaEmjh6oyOCT6ygNtsE1zHm8D+rza5bHe3f6vfHFzCh4FhZz2t1szcUQk88wtl+Sjfn/sIOCTx0o2kxYkPy88GqoidqHzd83iWwFMBtpX3JtGRpntvHpNT7vi+9Pv7usKaa3LTzvyEZytrq8efIsQeBV73HwwIvH3CTGplYdE6Z8kAJbkdeAx1+2cC+YJAX06jkiXv3D7NpnOV8lQmDmQFH2sogeKAF0l1VGwV1GklDXoc2i74KyB2DsrnXU82+EvPMmxKVyvzJuADyzAYAftq0UKugHqgqsBNP6GD6VrRPF+mnqX4YDt56s=;hFNN7YavvBaQxqGcfSikIA=="
+secured: "r8oN3OL77YToX8HMTPQ0ZXWR/RZafkXlhIock0b/PYqRmDPrlcBIavsCKro/miNnjcpb4mE1AVo7EnHUezvteT3tvhJ/1NURlySoV14pUp2CzktorCEDjwdU71mhn5D6Ewf+j3wDq7HBixuZR3CLkDKnVJQ30jQEJuAZtd7fhs1IxOYyIaxt2wkXtmzppL11xF7hx8AcTKFKDUokRX4kp1y6bjykZBf/fcGRS1NDJaolJ2XimH2EYZfAM5WcLjSF+MwAe4kEEQcf4h3IsNg9aoXw9tuAIy1DPI8WtrWczm2Fpie13THYNUKsXjjPri5D8+Ify20KqBRZOxq6xg49T+nSGr8/rpQoqDybc0tLkvXo3gjcZDOdo5ZLkUiflILixys0HtWEmOmXMzmHP/2WWA5amPqj3PxRLDecnHMnxL2Ni2QsxTnEQrSgmMQP41Cz8AV7+6ogf6ocG2XxYvo8VQccsrZxFnpjYslB7+P4bbPvpkG4XboViYtZ0ct6wAbPdibxMWisw32UbTaoZKwD1w==;sbOGoGHiT4z1bGkEbvuxQA=="
 ---
 

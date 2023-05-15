@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "BV Education Assoc. petitions directors for official recognition"
-    excerpt: "The meeting room was full, with nearly two dozen district employees wearing red “Stronger Together” shirts in support of the petition."
-    publishedDateTime: 2023-05-10T20:30:00Z
-    webUrl: "https://www.chaffeecountytimes.com/free_content/bv-education-assoc-petitions-directors-for-official-recognition/article_70a6ab88-ef71-11ed-809c-e38820138822.html"
-    type: article
-    provider:
-      name: The Chaffee County Times
-      domain: chaffeecountytimes.com
-    quality: 41
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/chaffeecountytimes.com/content/tncms/assets/v3/editorial/d/2e/d2e40822-ef71-11ed-80d3-d7ba29657cbb/645bff9407d48.image.jpg?crop=985%2C517%2C107%2C0&resize=985%2C517&order=crop%2Cresize"
-        width: 985
-        height: 517
-        isCached: true
   - title: "Genocide Recognition: an Australian story"
     excerpt: "May it appears is the month of genocide recognition amongst the Australian parliaments, with Tasmania being the latest one to adopt a resolution of recognition of the Genocides of the Hellenes, Armenians and Assyrians on Thursday 11 May."
     publishedDateTime: 2023-05-13T23:06:00Z
@@ -68,20 +54,6 @@ related:
       - url: "https://cdn1.neoskosmos.com/uploads/sites/2/2023/05/genocideopinion2-PRI_15986-e1684022952308.jpg"
         width: 1900
         height: 1104
-        isCached: true
-  - title: "Writing Faculty United Requests Recognition of Unionization in Petition to Administration"
-    excerpt: "The letter calls for improved job security, pay, and benefits, as well as transparency, recognition, and a voice in how writing instruction is conceived and executed. “When it comes to the aims of the union, I tend to think of it as having two key ..."
-    publishedDateTime: 2023-05-15T01:07:00Z
-    webUrl: "https://chicagomaroon.com/39180/news/writing-faculty-united-requests-recognition-of-unionization-in-petition-to-administration/"
-    type: article
-    provider:
-      name: The Chicago Maroon
-      domain: chicagomaroon.com
-    quality: 15
-    images:
-      - url: "https://chicagomaroon.com/wp-content/uploads/2021/12/Harper_Library_South_Stock-900x753.jpeg"
-        width: 900
-        height: 753
         isCached: true
 
 secured: "KSjnk1/Q07IcelcdTg9QXPbV4dPOzILKuxmh2VgzmND/SXAmHyHpgqD1bwfNO21mzgzZzQchU58CSqi1dmJ9bhNvGqIw2dZHjLBGv7fdNT9Jf7XjowbIa5uYiUF24FM4P3kbWRuFv7iBuyeGzN6rUzQieO3F7woL8GKKcjpAZHEzsbE5rrez8QpOuMtIfH56G6K8KxJVzPpcUdlHseYs2mWvAdimEKUJN7UFLMrYAsA1GLkgUT/Hn6T7ulmnHPwTg51VbmMk+x+6eb93O+Nzf1srXrRPKxAcGZZcfGanZE3YpRHpZLV21H0MzQUK31zOM7ySYYKUvwZvZhiuVKsQ1CRPW5ry/ASr/Rv1JDGSflg=;B+s+/ivokGR+NsbOEZSWlQ=="

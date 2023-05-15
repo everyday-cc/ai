@@ -87,6 +87,15 @@ related:
       name: devdiscourse
       domain: devdiscourse.com
     quality: 22
+  - title: "Generative AI’s future in the enterprise: To infinity and beyond"
+    excerpt: "Breathtaking generative AI models and applications like OpenAI’s GPT3 and ChatGPT are unleashing new possibilities across enterprises everywhere. But while wicked smart, they’re still learning and evolving — and causing an existential stir."
+    publishedDateTime: 2023-05-15T14:00:00Z
+    webUrl: "https://www.fastcompany.com/90896021/generative-ais-future-in-the-enterprise-to-infinity-and-beyond"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 17
 
 secured: "CKIuGeMD3Wa4X29fkHMSmMbpGkjzTTccW0PDFFU6kB0Mr9UMKs3GZHgBa+FkYkomdIHVkRaSORhgee4022S0E2MiYREWqoOxyXj0wiE1+EsB4n7pkoJChJO4nT4k1JztCg2z6MptYaswOyDdqzMEA6cJgOgNnZIf2nY0LKWcP2vEJDJKZ7b1hDhQzX+W8E02k0+2pNOsqngpG74+OxFJ14fVinmwy0sM5GDoIoQF6Nsbj7uZWFp11WA/KCg+f57nCCDdaFKUGM50013jQFksVvoFvijuChZx97e8q8D1A/V9/PlMulHVsoUiEX1YpPkpnPQFZK9MvgYA9QMhPPSzCxaK1of4VqTDa3OqRmCN2385rEn+ckiOn2cto4MHuF5xP4Bqxjk4H03lImz/tXGxgRbIQMelsu6EIojCHSF3rgeumaSd29B0MCazTOI+IwEWX/I3YIMilHVQ7fg7QM69x4gwYPpLJywuBn10RqFmVssdvd1E/5pDhV/n76JFKhklBEan5vV7kFlh1YZXAZjJAA==;ATSJH3oE7tyoLTfLR+qDKg=="
 ---

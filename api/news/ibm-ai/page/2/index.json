@@ -2,6 +2,99 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-04-25-4-steps-to-improving-your-esg-risk-management-to-increase-financial-performance.md",
+      "title": "4 steps to improving your ESG risk management to increase financial performance",
+      "excerpt": "Environmental, Social, and Governance (ESG) risk management has emerged as a critical aspect of business strategy for companies worldwide. A 2023 IBM IBV study showed that organizations that are seen as ESG leaders are 43% more likely to outperform their peers on profitability. However, 57% of CEOs admit",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/4-steps-to-improving-your-esg-risk-management-to-increase-financial-performance/",
+      "originalUrl": "https://www.ibm.com/blog/4-steps-to-improving-your-esg-risk-management-to-increase-financial-performance/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/04/4-steps-to-improving-your-ESG-risk-management-to-increase-financial-performance-630x330.jpg",
+          "width": 630,
+          "height": 330,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-25T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-24-sharing-a-reliable-sustainability-podcast.md",
+      "title": "Sharing a reliable sustainability podcast",
+      "excerpt": "Follow Kevin Yu's podcast 'Making of the SRE Omelette' as he dives into how we can achieve our sustainability goals via Site Reliability Engineering.\nThe post Sharing a reliable sustainability podcast appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/sharing-a-reliable-sustainability-podcast/",
+      "originalUrl": "https://www.ibm.com/blog/sharing-a-reliable-sustainability-podcast/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-24T12:28:42-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-24-why-companies-need-to-accelerate-data-warehousing-solution-modernization.md",
       "title": "Why companies need to accelerate data warehousing solution modernization",
       "excerpt": "Legacy data warehousing solutions cannot manage growing workloads. Leading companies know survival depends on adopting modern data warehousing solutions.\nThe post Why companies need to accelerate data warehousing solution modernization appeared first on IBM Blog.\n",
@@ -1211,74 +1304,6 @@
       "provider": {
         "name": "YAHOO!Finance",
         "domain": "decrypt.co",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-03-ibm-and-masters-use-generative-ai-to-create-spoken-word-commentary.md",
-      "title": "IBM and Masters use generative AI to create spoken word commentary",
-      "excerpt": "IBM and Masters have worked together for more than 25 years Generative AI promises many use cases for the sports industry The Masters golf tournament will use generative artificial intelligence (AI) technology to create automated audio commentary for more than 20,",
-      "sourceUrl": null,
-      "webUrl": "https://www.sportspromedia.com/news/us-masters-gold-ibm-generative-ai-tech-apps/",
-      "originalUrl": "https://www.sportspromedia.com/news/us-masters-gold-ibm-generative-ai-tech-apps/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-03T03:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SportsPro",
-        "domain": "sportspromedia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-03-ibm-uses-ai-to-generate-commentary-for-golfs-masters.md",
-      "title": "IBM uses AI to generate commentary for golf’s Masters",
-      "excerpt": "worked with the Masters digital team to leverage multiple foundation models — including IBM Watson Text-to-Speech – to train the AI in the language of golf at the Masters, automating the process of adding spoken commentary to video clips, said IBM.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tvbeurope.com/audio/ibm-uses-ai-to-generate-commentary-for-golfs-masters",
-      "originalUrl": "https://www.tvbeurope.com/audio/ibm-uses-ai-to-generate-commentary-for-golfs-masters",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-03T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "tvbeurope.com",
-        "domain": "tvbeurope.com",
         "images": null,
         "publishers": null,
         "authors": null

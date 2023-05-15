@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chip-market-research-analysis-2023-2030-2023-05-11"
 type: article
 quality: 99
-heat: 449
+heat: 439
 published: true
 
 provider:
@@ -299,20 +299,6 @@ related:
     excerpt: "(The Expresswire) -- \"Automatic Speech Recognition Market\" is expected to grow at an unexpected CAGR during the forecast period, reaching"
     publishedDateTime: 2023-05-11T05:58:00Z
     webUrl: "https://www.marketwatch.com/press-release/automatic-speech-recognition-market-research-2023-2028-2023-05-11"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Computer Vision Software Market Research, 2030"
-    excerpt: "Precision Reports has published a new report titled as \" Computer Vision Software Market \" by End User ( Automotive, Electronics and Semiconductor, Glass, Metals, Wood and Paper, Food and Packaging, Others ),"
-    publishedDateTime: 2023-05-10T21:21:00Z
-    webUrl: "https://www.marketwatch.com/press-release/computer-vision-software-market-research-2030-2023-05-10"
     type: article
     provider:
       name: MarketWatch

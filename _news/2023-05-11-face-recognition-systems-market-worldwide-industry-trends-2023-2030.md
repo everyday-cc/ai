@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/face-recognition-systems
 webUrl: "https://www.marketwatch.com/press-release/face-recognition-systems-market-worldwide-industry-trends-2023-2030-2023-05-11"
 type: article
 quality: 69
-heat: 169
+heat: 179
 published: true
 
 provider:
@@ -150,6 +150,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "2023-2029 \"Facial Recognition Access Control Solutions Market\" volume sale, Trends and Market Overview | Report Reviewed by Experts"
+    excerpt: "May 15, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" A market research report has"
+    publishedDateTime: 2023-05-15T07:14:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-2029-facial-recognition-access-control-solutions-market-volume-sale-trends-and-market-overview-report-reviewed-by-experts-2023-05-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 19
   - title: "Analysis the CAGR growth on the Global Speech & Voice Recognition Systems Market and the Market size is growing at a CAGR of 13.9% from 2023 - 2030"
     excerpt: "The global Speech & Voice Recognition Systems market has seen significant growth in recent years, driven by increasing demand from various industries. Technological advancements, increasing consumer awareness,"
     publishedDateTime: 2023-05-13T13:25:00Z

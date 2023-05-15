@@ -68,6 +68,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Google is giving its dominant search engine an AI makeover"
+    excerpt: "Google on Wednesday disclosed plans to infuse its dominant search engine with more advanced artificial-intelligence technology, a drive that's in response to one of the biggest threats to its long-established position as the internet's main gateway."
+    publishedDateTime: 2023-05-11T05:41:00Z
+    webUrl: "https://lasvegassun.com/news/2023/may/10/google-is-giving-its-dominant-search-engine-an-ai/"
+    type: article
+    provider:
+      name: Las Vegas Sun
+      domain: lasvegassun.com
+    quality: 17
 
 secured: "owVSLNBwLAq+uP7n4dYDVdmuYWuXfQhiVjHpKgSFtlJPlFHfR7LEmm2QM8hrJXR+vpWYyIYyK9yKbJSTdQpSqT40e/j5VMHCi4q2KT/ntpeHGXtUfMPP+/9kcsiNsFpWBeOXiIoApYb4F6HY51OGwRDSTiF6QWXDfGR+CmD7xWCb2FktDrjraPznWS5fYQlz0ev1Wih02rMzLr2yphqlf3byEaI6SsN3m4H7Vq2TPRc46DGOKJO1l7+GCpdUP8UHsryFzuzPKGhxxl8e24XnXiaHbiTy4PzcmTgUmR7TwK6vGntTRdbzodtwzv6KYSzorkZFHXLlLmibpecC3H9JNrwh95g1ywgFPgMvwlsCrOk=;jHbluz9xkdfsTL0J5KXaGw=="
 ---

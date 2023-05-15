@@ -8,7 +8,7 @@ webUrl: "https://www.forbes.com/sites/theyec/2023/05/15/how-has-generative-ai-ch
 ampWebUrl: "https://www.forbes.com/sites/theyec/2023/05/15/how-has-generative-ai-changed-the-business-landscape-for-young-entrepreneurs/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2023/05/15/how-has-generative-ai-changed-the-business-landscape-for-young-entrepreneurs/amp/"
 type: article
-quality: 84
+quality: 86
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/645e4bcb5ad71bb98fa69866/0x0.jpg?format=jpg&width=1200"
@@ -157,6 +158,6 @@ related:
       domain: dailyherald.com
     quality: 4
 
-secured: "x0LA7qVdSR/wVe5+sE3XQAVKkgNh2t20++C6fdO6i07pzMpoa/lPf/IgySSdmRap4TrrxLa4zMh4WRr8+1lLfoNcITQOaHYfFGyw/5UO3bM7Wjjjk0JR3kPxsPa9kEbwALpLh2lQY2igSzh4s030YyOh/zejHhVH7CNNDhcvCtH1kMg/xnZzNlzGIqZV03f6111ceH5S5IwDrhO+Z3Ifw6UvqqzJ9WspVG6OmJfl1KwZv5hfxGdmyh17CYAHB7ZaWq0mfoSgkYuNUZYwKIzjx5JghDj72np3kuSfAg9sFCU0qCT9l0T7/LrGtiJyK+J4exoqlDc2aGAh9phJucE6trx1dGOO4OACadtNKjwNg9U=;T6f5bTTAHrnV+NlZFuJY9A=="
+secured: "qJPEMs2IYQJRMKlHMG1X6jj9fiGyQqZZGbVSNcwjgNEouo++7MyDHUjryvJKvih7v6G8xHakSphW4j6hrhn3fi7vNtBrykzygjznGCF+hslSGGgKzH+R+mqY9A83GffWfwRokBj0LOyeisS7BJvYknXIU5H3GLmeFmbHV3yZVJKUM2ZYjJpgkFQRlARsPmBmOqUqewg+bm8ylDiukbWtPFbZ2ZJhuT5TIbuLPkCMcJG5AzqG60WFPpJfC0tDUxGTIYGDckjOXXzDQIvkM1gsJO+AfYxzgQdedrKZMv+F+RU3aODo6HGPjG1MyFMNIIfq87/8TiPbvOTlQT6A7Mu000AAUTkc57aWQZRNruyxx1Hz7HYGtB0m+/OzTzTNbWRyoUhxc0chKekW9djHJSVIPPqRZJ0C7CgqclCWOZxh98RtXbKXcHnwgdn8WObUZzkCL1xHOYFZBxrITHbfqpFNPIHXnAv/Aav4Q8W7ZZmQ0m0e7d67yNC7rVuIKsoTBcZ0+v8E3qB3eilhqXNXNm22oA==;tjaq3GtKYTesSi0OymIDpQ=="
 ---
 

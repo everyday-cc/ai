@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 905
         isCached: true
-  - title: "AI is coming to the Play Store to help both users and devs"
-    excerpt: "Like so many of the announcements during this year’s Google I/O, AI has been the star of the show and it’s turning up in almost everything. The Play Store is taking part in the action with its own set of new features,"
-    publishedDateTime: 2023-05-10T19:32:00Z
-    webUrl: "https://www.androidpolice.com/ai-is-coming-to-the-play-store-to-help-both-users-and-devs/"
-    type: article
-    provider:
-      name: Android Police
-      domain: androidpolice.com
-    quality: 39
-    images:
-      - url: "https://static1.anpoimages.com/wordpress/wp-content/uploads/2023/05/google-io-play-console-ai-hero.jpg"
-        width: 2000
-        height: 1250
-        isCached: true
   - title: "Transformative impact of AI and quantum sets the tone for IBM Think"
     excerpt: "In IBM Corp.’s view of the world, the tech industry is coming to a place where the intersection of cloud, artificial intelligence and quantum computing will trigger a significant transformation. “It’s a massive moment of technological advancement,"
     publishedDateTime: 2023-05-11T19:47:00Z

@@ -63,20 +63,6 @@ related:
         width: 1200
         height: 801
         isCached: true
-  - title: "How Vision AI Will Shape the In-Store Shopping Experience"
-    excerpt: "Forward-looking retailers that install vision AI into their already existing network of cameras will be able to pull back the curtain on deeper behaviors and desires of their core shoppers, tailoring their stores to remain exciting shopping destinations for years to come."
-    publishedDateTime: 2023-05-10T20:24:00Z
-    webUrl: "https://www.mytotalretail.com/article/how-vision-ai-will-shape-the-in-store-shopping-experience/"
-    type: article
-    provider:
-      name: Total Retail
-      domain: mytotalretail.com
-    quality: 39
-    images:
-      - url: "https://www.mytotalretail.com/thumb/?src=/wp-content/uploads/sites/14/2023/05/GettyImages-1153620791.jpg&w=750&h=340"
-        width: 750
-        height: 340
-        isCached: true
   - title: "Schumer eyes regulation of burgeoning AI industry"
     excerpt: "Schumer been meeting for months with tech leaders like Tesla CEO Elon Musk to develop a regulatory framework to guide a burgeoning field that's big at the University at Buffalo and that has the potential to remake society."
     publishedDateTime: 2023-05-15T10:15:00Z

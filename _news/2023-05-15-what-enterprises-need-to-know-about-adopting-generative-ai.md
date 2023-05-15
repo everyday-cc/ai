@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/what-enterprises-need-to-know-about-adopt
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/what-enterprises-need-to-know-about-adopting-generative-ai/amp/"
 type: article
 quality: 87
-heat: 137
+heat: 147
 published: true
 
 provider:
@@ -91,6 +91,15 @@ related:
     provider:
       name: Psychology Today
       domain: psychologytoday.com
+    quality: 17
+  - title: "Generative AI’s future in the enterprise: To infinity and beyond"
+    excerpt: "Breathtaking generative AI models and applications like OpenAI’s GPT3 and ChatGPT are unleashing new possibilities across enterprises everywhere. But while wicked smart, they’re still learning and evolving — and causing an existential stir."
+    publishedDateTime: 2023-05-15T14:00:00Z
+    webUrl: "https://www.fastcompany.com/90896021/generative-ais-future-in-the-enterprise-to-infinity-and-beyond"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
     quality: 17
 
 secured: "CrlyU9K4t8Oc+OjNfMZHgEi5AdkQ5iQX4Q5My8npSuEFj6iYR9zk7GBTQUASjR3ysgybEKXGZ9H7k2Q0K0uLkh+1t3HSiRvXvDDxLKoj9Yo+Q0GvpPUhXRXB1Rzi1YnqbWGaPRjSBinHCQDKgo5Im+yvG0IguvHQ+PgDW4lT2p5m/1HNA96dW+onoz6iql7SJaJdKDKA6Um2ujQ6frsyA0y03RfJotg3dVY9aOBYcGKoct6f4SAlUBUuBRcwOvm9cvr10aZRKXmSR2Yn86kUMFUkAhVFY21JxstcBGf+G3Q2ScwS7++yJT/BTo2y0/JMrb72GPwVjphWKiaDmfNXtnnEeyFnNd/sJgHgCAoYI4kyLYsxykrfmd+vKSuMfZU5FnvaDMT4viW6klnD7Hb1WuBR36+zJzc7FFNVUVkiZc0wtMARi5RtRvlh3hkG567vNfPqpLWpjMFJs5aXBGRNtq0ihFykrAO+2X9oIQpbY0d80gnHNHVvUNezpA/+gMWLYn1jdb6cXzK5bxC/25WNaA==;LQjQiNDjIsMfxIaz3/I4lw=="

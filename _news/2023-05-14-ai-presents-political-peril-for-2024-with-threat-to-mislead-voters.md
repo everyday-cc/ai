@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI presents political peril for 2024 with threat to mislead voters"
-    excerpt: "The threat posed to elections by AI and so-called deepfakes always seemed a year or two away — but now it's here."
-    publishedDateTime: 2023-05-15T11:34:00Z
-    webUrl: "https://www.wusa9.com/article/news/nation-world/artificial-intelligence-election-misinformation-2024/507-654735bd-7651-4254-a54f-f85b96116755"
-    ampWebUrl: "https://www.wusa9.com/amp/article/news/nation-world/artificial-intelligence-election-misinformation-2024/507-654735bd-7651-4254-a54f-f85b96116755"
-    cdnAmpWebUrl: "https://www-wusa9-com.cdn.ampproject.org/c/s/www.wusa9.com/amp/article/news/nation-world/artificial-intelligence-election-misinformation-2024/507-654735bd-7651-4254-a54f-f85b96116755"
-    type: article
-    provider:
-      name: WUSA
-      domain: wusa9.com
-    quality: 57
-    images:
-      - url: "https://media.wusa9.com/assets/CCT/images/ed6c0592-6d6a-43ec-82b2-46edc8e8ee3f/ed6c0592-6d6a-43ec-82b2-46edc8e8ee3f_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
   - title: "AI presents political peril for 2024 with threat to mislead voters: ‘We’re not prepared for this’"
     excerpt: "Thanks to recent advances in artificial intelligence, tools that can create lifelike photos, video and audio are now cheap and readily available."
     publishedDateTime: 2023-05-14T11:45:00Z
@@ -53,6 +37,15 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 24
+  - title: "AI presents political peril for 2024 with threat to mislead voters"
+    excerpt: "Computer engineers and tech-inclined political scientists have warned for years that cheap, powerful artificial intelligence tools would soon allow anyone to create fake images, video and audio that was realistic enough to fool voters and perhaps sway an election."
+    publishedDateTime: 2023-05-15T13:54:00Z
+    webUrl: "https://www.mauinews.com/wire/?category=5186&ID=291062"
+    type: article
+    provider:
+      name: The Maui News
+      domain: mauinews.com
+    quality: 17
 
 secured: "4fT06Zav1EiPRPYHn7IwkPPOfEo9TfO63TXF0vuwycoC1QzvIwCT9GcYv7sNxHxw3ojlWCAruAsmIzSBu+4H8UOSDcsOs3noaafhQcPtDA3CU1oGggvpkrAw+qPRVZx6eyo9Z0qAjB+evW3uNDBgByRq9sev+hYH95OPz0qNzbYwBhfs4IKqITqo1Ip1nmFQNsofxA1KPQfh3IdQfwEpTb/JHOu6fU0F9MSab9Vj3x819gpDJGaZkZFRH8nUDu6dyBYh3vKndKeQLbGkoSDRN7dxsIBm5LIwOn5/YkJos3tWis281Rtitb8ELweNPX6Y6vciuyWbUBEiVf/n2HiUPCTqLPfITu3IbENMxu1oed2gWOOyr9558CNVe4eUEOgPIdb1AHWuxRdxyNZajD2YWVkAk9L2WOuiszBP/ZQazTOYJuOo4ov2a8loXHLKpY0uMjwKgQWDMMRj+L+AsXJd/MVM2R++U2vCISjBbSZp5MjkUfJZegTPKoXAoOpmFAvpWCd8cnipgfHk9h42RkT3xQ==;k4eT1BIuRM0Ir8i/amVkXw=="
 ---

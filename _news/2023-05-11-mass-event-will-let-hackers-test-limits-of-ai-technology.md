@@ -9,7 +9,7 @@ ampWebUrl: "https://www.securityweek.com/mass-event-will-let-hackers-test-limits
 cdnAmpWebUrl: "https://www-securityweek-com.cdn.ampproject.org/c/s/www.securityweek.com/mass-event-will-let-hackers-test-limits-of-ai-technology/amp/"
 type: article
 quality: 59
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -65,20 +65,6 @@ related:
       - url: "https://img.ksl.com/slc/2929/292917/29291734.jpg?filter=kslv2/responsive_story_lg"
         width: 1228
         height: 690
-        isCached: true
-  - title: "Vintra showcases its artificial intelligence technology in a demo"
-    excerpt: "Vintra, mentioned by former Boston police commissioner Ed Davis during a Senate hearing about the Boston marathon bombing, can learn \"from normal activity\" to notify operators of \"approaching threats and of anomalies."
-    publishedDateTime: 2023-05-10T22:30:00Z
-    webUrl: "https://www.foxbusiness.com/video/6327054767112"
-    type: article
-    provider:
-      name: Fox Business
-      domain: foxbusiness.com
-    quality: 37
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/134b7b90-1d04-409f-8702-f36e8b024f01/b15f0495-266a-4b82-a6b6-c61ff14fc4dc/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
         isCached: true
 
 secured: "4whHreLiy4HSTnini8gA9XVhF2CKPu5bwd/lJQ8XILZhuaqfItI9eTtncghxcivpigtax8qnEioRzgfmRIJkinnmbWrdCFxF5E0thHRkOrPVaniaROFU3o77i1A47z0y8nA9YeaMrTlrTZa4HYQw5hnyhBGsRjpqbVZPKHY0kvJdI0M3gnmuNd5rZvWsAvTxICOnj5IjNU6pg/5Dzq9TNPKLR5LgKXVQfiweoKsmWcOWKNG0VsmRcchbwZsjrpPouEAwfCGT1l1+1UpeUchlq36ncqcxNmIy0x+x9voigshBxJLUH7THVPMg8SMf5BlDFZmTUgEHGElRHrPU8xodvn2u2zvFHrvAs0CEvclijp9FURFM0mzcyKMxHmb+RT8lVdO9NGslQfUmivaOxSputUkzHWwWAtD9KD3gdMYVI5w41XbTPuX5qV8ooRFs72DcopwQmRiXz+z3ZYdbil2G2XnCTxmlRClvJ0NIZNmkjQCIhqN2YNSEKWojFPpHOD2wc0CMWSsH4JpqsSbgoLafgw==;Y0yG3sDoVjiIq9XEzYaFuA=="

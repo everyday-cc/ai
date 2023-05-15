@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/12/are-altern
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/05/12/are-alternative-investment-firms-becoming-over-reliant-on-ai-to-solve-their-cyber-challenges/amp/"
 type: article
 quality: 76
-heat: 76
+heat: 86
 published: true
 
 provider:
@@ -28,6 +28,24 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "We need AI to help us face the challenges of the future"
+    excerpt: "Letters: Readers respond to Naomi Klein’s article that argued it is delusional to believe AI machines will benefit humanity"
+    publishedDateTime: 2023-05-12T15:47:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/may/12/we-need-ai-to-help-us-face-the-challenges-of-the-future"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/may/12/we-need-ai-to-help-us-face-the-challenges-of-the-future"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/may/12/we-need-ai-to-help-us-face-the-challenges-of-the-future"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 57
+    images:
+      - url: "https://i.guim.co.uk/img/media/597d5f6734c16144721d0597b01c71b97101cb20/0_115_4000_2399/master/4000.jpg?width=620&quality=85&auto=format&fit=max&s=88eb72596b6f639a049b50d075ccd716"
+        width: 620
+        height: 372
+        isCached: true
 
 secured: "qnx8pzxHC2EtKFDQY1Mg4OYs4F7b+HuM/6BhiBjcl6iH6OnDtzSKV9t1t1axQs2/VOGUXugB8ZnEG9Hu10iQFY7yqzjaLxaik1xETzGz5K2rta7WsnOvGxvBMVpazsdhZknNOA91sXOtSF74LWdbEKy7o1vIuSk/b1Zk5JEyTYcWL4msIYLKd81MQo9WsDDUiEjSNr8OIUD6/rIeaLlnAHddD0JrcxxdPo/pdymUG9qF/CjWcpTju7atcamumVrnBV9FlwGGGWMa05dFasF9q6AlJpTsy2m5s71++ugdyx9/h33c+1fudQo/TOJWCE7j56lBuNPe0hhKP9wIxDVTWMN+HdwWjcK2zPiwIa1ImD4Swxpbl6wXRr3HYonT0JDAKeMmMwsiECpKYeUty3b+PergBaX3oZX1NsbXJbyg2WWBxVn7Te1rYWpTNRyNgl92tbUG0nbvcpH/Ht+u6jORqnvrIoC76N0sGdGW4xnILh4rsY8au+rqJ3vUpqEnnzsLtU/saLKrbEBGgSYODwkMYQ==;cGKR38+K6aFrganX0WY+9A=="
 ---

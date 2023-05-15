@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/ai-act-vote-pushes-eu-ban-on-predictiv
 webUrl: "https://thenextweb.com/news/ai-act-vote-pushes-eu-ban-on-predictive-policing-facial-recognition"
 type: article
 quality: 81
-heat: 131
+heat: 121
 published: true
 
 provider:
@@ -44,22 +44,6 @@ related:
       - url: "https://www.research-live.com/img/MRS_EM_RGB.jpg"
         width: 1000
         height: 581
-        isCached: true
-  - title: "MEPs to vote on proposed ban on ‘Big Brother’ AI facial recognition on streets"
-    excerpt: "Thursday’s vote in EU parliament seen as key test in formation of world’s first artificial intelligence laws"
-    publishedDateTime: 2023-05-10T20:42:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/may/10/meps-to-vote-on-proposed-ban-on-big-brother-ai-facial-recognition-on-streets"
-    ampWebUrl: "https://amp.theguardian.com/technology/2023/may/10/meps-to-vote-on-proposed-ban-on-big-brother-ai-facial-recognition-on-streets"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/may/10/meps-to-vote-on-proposed-ban-on-big-brother-ai-facial-recognition-on-streets"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 70
-    images:
-      - url: "https://i.guim.co.uk/img/media/aa6324386e9fe52d51b229a9ab13f470938263ff/0_202_3500_2100/master/3500.jpg?width=620&quality=85&auto=format&fit=max&s=79dac11ea158833cc0f2edcd050e78c0"
-        width: 620
-        height: 372
         isCached: true
   - title: "Facial-recognition ban gets lawmakers’ backing in AI Act vote"
     excerpt: "MEPs agreed on a blanket ban on remote biometric identification — AI-aided techniques, such as facial recognition, to recognize individuals from pictures or footage — in public venues, both in real-time and after the fact,"

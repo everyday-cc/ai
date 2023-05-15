@@ -1455,34 +1455,34 @@
     {
       "path": "_news/2023-05-03-kinetica-taps-chatgpt-for-natural-language-sql-database-queries.md",
       "title": "Kinetica taps ChatGPT for natural language SQL database queries",
-      "excerpt": "Kinetica, a relational database provider for online analytical processing (OLAP) and real-time analytics, is harnessing the power of OpenAI’s ChatGPT to let developers use natural language processing to do SQL queries. Kinetica, which offers its database ...",
+      "excerpt": "Kinetica, a relational database provider for online analytical processing (OLAP) and real-time analytics, is harnessing the power of OpenAI’s ChatGPT to let developers use natural language ...",
       "sourceUrl": null,
-      "webUrl": "https://www.reseller.co.nz/article/706950/kinetica-taps-chatgpt-natural-language-sql-database-queries/",
-      "originalUrl": "https://www.reseller.co.nz/article/706950/kinetica-taps-chatgpt-natural-language-sql-database-queries/",
+      "webUrl": "https://www.infoworld.com/article/3694877/kinetica-taps-chatgpt-for-natural-language-sql-database-queries.html",
+      "originalUrl": "https://www.infoworld.com/article/3694877/kinetica-taps-chatgpt-for-natural-language-sql-database-queries.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/promoted_content/promo/chatgpt-browser-erweiterungen_chuan-chuan-100937275-orig_4.jpgautowebp8570",
-          "width": 560,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-02T17:36:00-07:00",
+      "publishedDateTime": "2023-05-03T02:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Reseller News",
-        "domain": "reseller.co.nz",
-        "images": null,
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

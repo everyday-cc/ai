@@ -2,6 +2,103 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-05-15-microsofts-in-house-ai-chip-could-hasten-product-rollout-cut-costs.md",
+      "title": "Microsoft’s in-house AI chip could ‘hasten’ product rollout, cut costs",
+      "excerpt": "Microsoft is reportedly working on its own chips for training AI models, which could help expand its cloud AI offerings and tighten competition with rivals AWS and Google Cloud. The move could allow Microsoft to further expand its generative AI products,",
+      "sourceUrl": null,
+      "webUrl": "https://www.techcentral.ie/microsofts-in-house-ai-chip-could-hasten-product-rollout-cut-costs/",
+      "originalUrl": "https://www.techcentral.ie/microsofts-in-house-ai-chip-could-hasten-product-rollout-cut-costs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techcentral.ie/wp-content/uploads/2023/05/Windows_2023.jpg",
+          "width": 620,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-15T07:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mozilla",
+        "domain": "techcentral.ie",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-15-cloud-partnerships-and-multi-year-contracts-look-before-you-leap.md",
+      "title": "Cloud Partnerships And Multi-Year Contracts: Look Before You Leap",
+      "excerpt": "Before you consider entering into such a strategic partnership where the cloud provider will use your services if you agree to spend a certain amount with them per year, my recommendation is to look before you leap.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbooksauthors/2023/05/15/cloud-partnerships-and-multi-year-contracts-look-before-you-leap/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbooksauthors/2023/05/15/cloud-partnerships-and-multi-year-contracts-look-before-you-leap/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/646235c328bd309432c2ff1a/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbooksauthors/2023/05/15/cloud-partnerships-and-multi-year-contracts-look-before-you-leap/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbooksauthors/2023/05/15/cloud-partnerships-and-multi-year-contracts-look-before-you-leap/amp/",
+      "publishedDateTime": "2023-05-15T06:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-15-ai-recognition-market-swot-analysis-by-leading-key-players-microsoft-azure-google-tencent-alibaba.md",
       "title": "AI Recognition Market SWOT Analysis by Leading Key Players Microsoft Azure, Google, Tencent, Alibaba",
       "excerpt": "Click Here to Get Free Sample PDF Copy of Latest Research on AI Recognition Market 2023 before Purchase:  The report will also include information on the top companies in the AI Recognition market shares,",
@@ -108,6 +205,58 @@
       ]
     },
     {
+      "path": "_news/2023-05-12-exclusive-googles-sundar-pichai-talks-search-ai-and-dancing-with-microsoft.md",
+      "title": "Exclusive: Google’s Sundar Pichai talks Search, AI, and dancing with Microsoft",
+      "excerpt": "Sundar Pichai is the CEO of Google and Alphabet. We spoke the day after Google I/O, the company’s big developer conference, where Sundar introduced new generative AI features in virtually all of the company’s products.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2023/5/12/23720731/google-io-2023-exclusive-sundar-pichai-search-generative-experience-ai-microsoft-bing-chatgpt",
+      "originalUrl": "https://www.theverge.com/2023/5/12/23720731/google-io-2023-exclusive-sundar-pichai-search-generative-experience-ai-microsoft-bing-chatgpt",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/3VCetxdhkZhF8Ji6_iRD6u78BeM=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24652338/236655_Decoder_Sundar_Pichai_WJoel.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-12T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-12-cryptominers-try-to-pivot-gpu-farms-to-ai-workloads-after-crypto-decline.md",
       "title": "Cryptominers try to pivot GPU farms to AI workloads after crypto decline",
       "excerpt": "Two large cryptomining companies, Hut 8 and Hive Blockchain, have redirected their mining GPU infrastructure toward high-performance computing (HPC), which includes AI workloads. This move could",
@@ -169,7 +318,7 @@
       "originalUrl": "https://techcrunch.com/2023/05/11/amp-robotics-attracts-investment-from-microsofts-climate-innovation-fund/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 250,
+      "heat": 280,
       "tags": null,
       "images": [
         {
@@ -209,59 +358,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-11-microsoft-is-the-stock-to-buy-as-it-leads-the-ai-arms-race-while-alphabet-continues-to-play-catchup-with-bard-according-to-wedbush.md",
-      "title": "Microsoft is the stock to buy as it leads the AI arms race while Alphabet continues to play catchup with Bard, according to Wedbush",
-      "excerpt": "\"We continue to strongly believe that Microsoft's game changing early investment in ChatGPT got the key head start on the AI front,\" Wedbush said.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/microsoft-stock-buy-leads-ai-arms-race-chatgpt-alphabet-bard-2023-5",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/microsoft-stock-buy-leads-ai-arms-race-chatgpt-alphabet-bard-2023-5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/645cf5bf65275b0018b7fce3?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/news/stocks/microsoft-stock-buy-leads-ai-arms-race-chatgpt-alphabet-bard-2023-5?amp",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/news/stocks/microsoft-stock-buy-leads-ai-arms-race-chatgpt-alphabet-bard-2023-5?amp",
-      "publishedDateTime": "2023-05-11T07:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI",
         "Microsoft AI"
       ]
@@ -532,8 +628,8 @@
       "tags": null,
       "images": [
         {
-          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?384519",
-          "width": 257,
+          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?982348",
+          "width": 367,
           "height": 250,
           "title": null,
           "attribution": null,
@@ -1411,111 +1507,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-04-microsofts-premium-chatgpt-service-set-to-supercharge-azure-growth-analyst-predicts-even-wider-lead-over-aws.md",
-      "title": "Microsoft's Premium ChatGPT Service Set to Supercharge Azure Growth: Analyst Predicts Even Wider Lead Over AWS",
-      "excerpt": "Microsoft's reportedly upcoming release of premium private ChatGPT service for enterprises should have a positive upwards bias to Horan's already industry-leading FY24E Azure growth of constant currency 24% (+27% USD),",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/microsoft-s-premium-chatgpt-service-set-to-supercharge-azure-growth-analyst-predicts-even-wider-lead-over-aws-1032288927",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/microsoft-s-premium-chatgpt-service-set-to-supercharge-azure-growth-analyst-predicts-even-wider-lead-over-aws-1032288927",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/05/03/openai_0.png",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-03T13:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-03-chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot.md",
-      "title": "ChatGPT: Everything you need to know about the AI-powered chatbot",
-      "excerpt": "Here's a guide to help understand Open AI's viral text-generating system. We outline the most recent updates and answer the most common FAQs.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/05/03/chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot/",
-      "originalUrl": "https://techcrunch.com/2023/05/03/chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 309,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1462188043.jpg?resize=1200,798",
-          "width": 1200,
-          "height": 798,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/05/03/chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/03/chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot/amp/",
-      "publishedDateTime": "2023-05-03T09:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

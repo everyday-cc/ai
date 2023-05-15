@@ -7,7 +7,7 @@ originalUrl: "https://newrepublic.com/article/172701/congress-ai-regulation-tech
 webUrl: "https://newrepublic.com/article/172701/congress-ai-regulation-tech-policy"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,23 +24,16 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft is the stock to buy as it leads the AI arms race while Alphabet continues to play catchup with Bard, according to Wedbush"
-    excerpt: "\"We continue to strongly believe that Microsoft's game changing early investment in ChatGPT got the key head start on the AI front,\" Wedbush said."
-    publishedDateTime: 2023-05-11T14:45:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/microsoft-stock-buy-leads-ai-arms-race-chatgpt-alphabet-bard-2023-5"
-    ampWebUrl: "https://markets.businessinsider.com/news/stocks/microsoft-stock-buy-leads-ai-arms-race-chatgpt-alphabet-bard-2023-5?amp"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/news/stocks/microsoft-stock-buy-leads-ai-arms-race-chatgpt-alphabet-bard-2023-5?amp"
+  - title: "Congress wants to regulate AI, but it has a lot of catching up to do"
+    excerpt: "Senate Majority Leader Chuck Schumer is trying to lead an effort to craft groundbreaking legislation to install safeguards around artificial intelligence. But lawmakers have a lot to learn."
+    publishedDateTime: 2023-05-15T12:22:00Z
+    webUrl: "https://www.mprnews.org/story/2023/05/15/npr-congress-wants-regulate-ai-artificial-intelligence-lot-of-catching-up-to-do"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 76
-    images:
-      - url: "https://i.insider.com/645cf5bf65275b0018b7fce3?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
+      name: MPR News
+      domain: mprnews.org
+    quality: 19
 
-secured: "TrJ9kL6+c2ZWzMhdsk9yACQjuA63PBRLnsKhDWHU4ur2xUHO19uhqCbS47QB1Sy5AHoVFbKdg+8G8H+ybGvAx6S/s9o+08BEBOLWlojl7RtdYmrOdj7HjMSkrvnDsrpR6yXQYkG2+e3Gor9tpkctbLQ0m3WHD7LC49UfDDxfZacgUaUensxEIEFfLZegO+mqZL5S+Qunp4r2E8vlvIsLNgj/VzJ9SZrHAeCSgVwNiHKVKz3YlIxKatmrLphCyf9icWRR5CQA4eHKLcD4/n5reZvodSCXzJAZg0xrtnZjMJZnTbCPXKwzomM35e2tUy7NrxIMn9t7SwQzXRzq6tflpDG4KJRu+1eCuZQMy2hSPYE=;sfjkbCu6vjTzK/qYHNmVdA=="
+secured: "96JyiBZ2oyBnzV1Ujz4ylYKvUmy5+YEp1YWt2+cs/G+nq4vYd58ox83O9maqjjii5wRcoQYosWbdJOI5MVU3iojqp9DTVN67sn8fQq8Jcc8koD94tVMYaS21KhN9CpRUILgzQ5fYITp4fI22U8DtBovRfT/f+1W6I1dSJTM6pNjZgw4Dw6qNjptOr8PD5PIpgW7gCq8YXXH57mEEC9h5yRd3AnH5RTZq+8GG+Q1wAjbK/l6T3Je9IVZz6/08W+W5z15LGEog4IW13ttcc5xF42pPyyPGM+cBKX/HBQdj16L2VEFkgT8dfXUxpSTGIJZ39Ln4B+DsWaRS2J7/7xVrZdhWL6RN2cfBPfggpm3aOzVD6tdlzCu7vLYQmde0FfHpf2ymoFN51cLus4oS5oPG4s/eKx/WsW5KIfS0ICzS0H2H0C1W8b1e11LRPV0B21sKG822X76jFGOp4JmDhjswB+XqlFm+W6apmn637haOScelj+FfxmnVvm3388O6/ukRX6FV65TBP3dhafEFGX0s1w==;7uzR+zBwqRKGZqB6oF/fwg=="
 ---
 

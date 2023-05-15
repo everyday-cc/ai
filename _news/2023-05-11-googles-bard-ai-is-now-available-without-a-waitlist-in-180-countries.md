@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/google-bard-transitions-to-palm-2-and-e
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/google-bard-transitions-to-palm-2-and-expands-to-180-countries-172908926.html"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "How to join the Google Search Labs waitlist to access its new AI search engine early"
-    excerpt: "Once you are on the homepage, you will want to click the \"Sign in\" blue button on the upper right hand corner. Log on using your personal Gmail account. After you sign in, you will be brought to a page where you can actually join the waitlist simply by clicking on the \"Join waitlist\" button. Once you do, you are all set."
-    publishedDateTime: 2023-05-10T20:55:00Z
-    webUrl: "https://www.zdnet.com/article/how-to-join-the-google-search-labs-waitlist-to-access-its-new-ai-search-engine-early/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/how-to-join-the-google-search-labs-waitlist-to-access-its-new-ai-search-engine-early/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-to-join-the-google-search-labs-waitlist-to-access-its-new-ai-search-engine-early/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 80
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/f4552f0d0f6335956bb54c280824a4533fab6ea4/2023/05/10/fd1095b6-4cb5-4f32-83ae-d88a430ad3e2/labs.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Google’s Bard AI chatbot launches in Australia with vow to develop it ethically"
     excerpt: "Company says its AI programs will include watermarks and metadata saying content is AI-generated as ChatGPT rival rolls out in more than 180 countries"
     publishedDateTime: 2023-05-11T02:03:00Z

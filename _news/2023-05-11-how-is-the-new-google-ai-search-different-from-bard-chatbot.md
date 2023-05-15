@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/technology/how-is-new-google-ai-search-dif
 webUrl: "https://www.reuters.com/technology/how-is-new-google-ai-search-different-bard-chatbot-2023-05-10/"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -28,15 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Wendy's testing AI chatbot that takes drive-thru orders"
-    excerpt: "Fast food chain Wendy's is partnering with Google Cloud on an AI chatbot to take orders at a drive-thru, the company announced. Wendy's FreshAI will be launched in June as a pilot in a Columbus, Ohio area restaurant."
-    publishedDateTime: 2023-05-10T19:43:00Z
-    webUrl: "https://www.cbsnews.com/news/wendys-testing-ai-chatbot-drive-thru-orders/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 17
   - title: "Google-backed AI startup's chatbot can read novels in seconds"
     excerpt: "In an announcement about the increased capability of Claude, Anthropic claimed that they have raised the context window from 9K to 100K tokens, which corresponds to around 75,000 words. Tokens are the basic units of text or code that a large language model (LLM) AI uses to process and generate language."
     publishedDateTime: 2023-05-12T13:03:00Z

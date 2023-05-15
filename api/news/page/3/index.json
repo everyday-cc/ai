@@ -2,6 +2,367 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-05-12-unlock-insights-from-your-amazon-s3-data-with-intelligent-search.md",
+      "title": "Unlock Insights from your Amazon S3 data with intelligent search",
+      "excerpt": "Amazon Kendra is an intelligent search service powered by machine learning (ML). Amazon Kendra reimagines enterprise search for your websites and applications so your employees and customers can easily find the content they’re looking for, even when it’s scattered across multiple locations and content",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/unlock-insights-from-your-amazon-s3-data-with-intelligent-search/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/unlock-insights-from-your-amazon-s3-data-with-intelligent-search/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/05/12/featured-images-ML-14008.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-12T07:43:15-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-12-mttr-vs-mtbf-whats-the-difference.md",
+      "title": "MTTR vs. MTBF: What’s the difference?",
+      "excerpt": "Mean time to repair (MTTR) and mean time between failures (MTBF) are similar metrics with key distinctions for facilities maintenance.\nThe post MTTR vs. MTBF: What’s the difference? appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/mttr-vs-mtbf/",
+      "originalUrl": "https://www.ibm.com/blog/mttr-vs-mtbf/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/05/afe80791-1d4c-4eed-82bd06dc338af887.lr_-630x330.jpg",
+          "width": 630,
+          "height": 330,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-12T07:07:07-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-12-an-upcoming-dating-app-promises-to-create-an-ai-version-of-you-to-chat-with-potential-matches.md",
+      "title": "An upcoming dating app promises to create an AI version of you to chat with potential matches",
+      "excerpt": "Can AI put an end to ghosting on dating apps? The team behind Dispo is building a new dating app called Teaser AI to do just that.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/dispo-makers-building-dating-app-ai-teaser-without-david-dobrik-2023-5",
+      "originalUrl": "https://www.businessinsider.com/dispo-makers-building-dating-app-ai-teaser-without-david-dobrik-2023-5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6452b825dcb78700180cc3a4?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/dispo-makers-building-dating-app-ai-teaser-without-david-dobrik-2023-5?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/dispo-makers-building-dating-app-ai-teaser-without-david-dobrik-2023-5?amp",
+      "publishedDateTime": "2023-05-12T05:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-12-how-artificial-intelligence-is-changing-business.md",
+      "title": "How Artificial Intelligence Is Changing Business",
+      "excerpt": "Artificial intelligence (AI) has been changing every type of business worldwide. The phrase derives from computer-based operating systems being able to imitate or replicate exact human-like activities. There are also many different types of artificial intelligence, but let’s go over some of the types relating to a business environment.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/12/how-artificial-intelligence-is-changing-business/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/12/how-artificial-intelligence-is-changing-business/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 177,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/645907002b0d8e64282796dd/0x0.jpg?format=jpg&crop=6833,3840,x1162,y0,safe&width=1200",
+          "width": 1200,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/12/how-artificial-intelligence-is-changing-business/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/05/12/how-artificial-intelligence-is-changing-business/amp/",
+      "publishedDateTime": "2023-05-12T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-12-managing-aws-s3-pricing-and-costs-with-ibm-turbonomic.md",
+      "title": "Managing AWS S3 pricing and costs with IBM Turbonomic",
+      "excerpt": "IBM Turbonomic can help organizations navigate the complexity of AWS storage options by providing guidance on how to select the right storage class. \nThe post Managing AWS S3 pricing and costs with IBM Turbonomic appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/managing-aws-s3-pricing-and-costs-with-ibm-turbonomic/",
+      "originalUrl": "https://www.ibm.com/blog/managing-aws-s3-pricing-and-costs-with-ibm-turbonomic/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/05/dji_0420-9b.lr_-630x330.jpg",
+          "width": 630,
+          "height": 330,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-12T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-12-googles-translation-glasses-were-actually-at-io-2023-and-right-in.md",
+      "title": "Google's 'translation glasses' were actually at I/O 2023, and right in ...",
+      "excerpt": "Google unveiled a pair of augmented reality (AR) glasses at its I/O developer conference. But unlike Google Glass, this new concept, which didn't have a name at the time (and still doesn't), demonstrated the practicality of digital overlays,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/googles-translation-glasses-were-actually-at-io-2023-and-right-in-front-of-our-eyes/",
+      "originalUrl": "https://www.zdnet.com/article/googles-translation-glasses-were-actually-at-io-2023-and-right-in-front-of-our-eyes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/183b38573ea4cabb8eb92ebc5bb135a502b0197a/2023/05/11/0b3f8170-2af0-4e35-8015-ef8757dd6950/google-translation-glasses.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/googles-translation-glasses-were-actually-at-io-2023-and-right-in-front-of-our-eyes/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/googles-translation-glasses-were-actually-at-io-2023-and-right-in-front-of-our-eyes/",
+      "publishedDateTime": "2023-05-12T04:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-12-how-ai-is-helping-to-improve-transportation-safety-on-a-global-scale.md",
+      "title": "How AI Is Helping To Improve Transportation Safety On A Global Scale",
+      "excerpt": "While the use of AI in vehicle inspection is a significant development, it is one of many other ways that AI is being used to improve transportation safety around the world.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/12/how-ai-is-helping-to-improve-transportation-safety-on-a-global-scale/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/12/how-ai-is-helping-to-improve-transportation-safety-on-a-global-scale/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/645ce929429d7626542796dd/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/12/how-ai-is-helping-to-improve-transportation-safety-on-a-global-scale/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/05/12/how-ai-is-helping-to-improve-transportation-safety-on-a-global-scale/amp/",
+      "publishedDateTime": "2023-05-12T03:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2023-05-12-ai-frenzy-accounts-for-all-of-sp-500-gain-in-2023-socgen-says.md",
       "title": "AI Frenzy Accounts for All of S&P 500 Gain in 2023, SocGen Says",
       "excerpt": "The investing frenzy around artificial intelligence has been so strong that without it, US stocks would be down for the year, according to Societe Generale SA strategist Manish Kabra.",
@@ -62,7 +423,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/12/are-alternative-investment-firms-becoming-over-reliant-on-ai-to-solve-their-cyber-challenges/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": 86,
       "tags": null,
       "images": [
         {
@@ -102,6 +463,58 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-12-exclusive-googles-sundar-pichai-talks-search-ai-and-dancing-with-microsoft.md",
+      "title": "Exclusive: Google’s Sundar Pichai talks Search, AI, and dancing with Microsoft",
+      "excerpt": "Sundar Pichai is the CEO of Google and Alphabet. We spoke the day after Google I/O, the company’s big developer conference, where Sundar introduced new generative AI features in virtually all of the company’s products.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2023/5/12/23720731/google-io-2023-exclusive-sundar-pichai-search-generative-experience-ai-microsoft-bing-chatgpt",
+      "originalUrl": "https://www.theverge.com/2023/5/12/23720731/google-io-2023-exclusive-sundar-pichai-search-generative-experience-ai-microsoft-bing-chatgpt",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/3VCetxdhkZhF8Ji6_iRD6u78BeM=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24652338/236655_Decoder_Sundar_Pichai_WJoel.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-12T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
       ]
     },
     {
@@ -396,7 +809,7 @@
       "originalUrl": "https://venturebeat.com/ai/h2o-ai-launches-h2ogpt-llm-studio/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 93,
+      "heat": 113,
       "tags": null,
       "images": [
         {
@@ -848,405 +1261,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-12-edge-ai-chips-market-future-scope-and-growth-status-2028.md",
-      "title": "Edge AI Chips Market Future Scope and Growth Status 2028",
-      "excerpt": "What is the Computer-aided Design (CAD) market growth? Computer-aided Design (CAD) Market Size is projected to Reach Multimillion USD by 2028, In comparison to 2023, at unexpected CAGR during the forecast Period 2023-2028.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/edge-ai-chips-market-future-scope-and-growth-status-2028-2023-05-11",
-      "originalUrl": "https://www.marketwatch.com/press-release/edge-ai-chips-market-future-scope-and-growth-status-2028-2023-05-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-11T12:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-12-i-made-a-sexy-ai-robot-of-myself-you-can-date-me-for-1-a-minute.md",
-      "title": "I made a sexy AI robot of myself — you can date me for $1 a minute",
-      "excerpt": "He says they also might start training the AI to “slow down a little bit” given that the average use time is two hours — although he didn’t specify how. “I would just hope there’s robust conversations across a lot of different disciplines with ...",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2023/05/11/influencer-turns-herself-into-sexy-ai-robot-you-can-date-for-1/",
-      "originalUrl": "https://nypost.com/2023/05/11/influencer-turns-herself-into-sexy-ai-robot-you-can-date-for-1/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2023/05/NYPICHPDPICT000010943923.jpg?quality=75&strip=all&w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2023/05/11/influencer-turns-herself-into-sexy-ai-robot-you-can-date-for-1/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2023/05/11/influencer-turns-herself-into-sexy-ai-robot-you-can-date-for-1/amp/",
-      "publishedDateTime": "2023-05-11T11:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-05-12-ai-venturing-7-timeless-rules-for-success-from-6-decades-of-unicorn-entrepreneurship.md",
-      "title": "AI Venturing: 7 Timeless Rules For Success From 6 Decades Of Unicorn-Entrepreneurship",
-      "excerpt": "Over the past 60 years, the success of unicorn-entrepreneurs, from the likes of Walton to Chesky, offer insights that can be applied to the emerging AI industry. Whether you aim to dominate the industry or build your growth venture,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/dileeprao/2023/05/11/ai-venturing-7-timeless-rules-for-success-from-6-decades-of-unicorn-entrepreneurship/",
-      "originalUrl": "https://www.forbes.com/sites/dileeprao/2023/05/11/ai-venturing-7-timeless-rules-for-success-from-6-decades-of-unicorn-entrepreneurship/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/645d222b81f6ab451e4bd1e3/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 784,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/dileeprao/2023/05/11/ai-venturing-7-timeless-rules-for-success-from-6-decades-of-unicorn-entrepreneurship/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/dileeprao/2023/05/11/ai-venturing-7-timeless-rules-for-success-from-6-decades-of-unicorn-entrepreneurship/amp/",
-      "publishedDateTime": "2023-05-11T10:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-12-eu-nears-ban-on-predictive-policing-and-facial-recognition-after-ai-act-vote.md",
-      "title": "EU nears ban on predictive policing and facial recognition after AI Act vote",
-      "excerpt": "A crunch vote on the AI Act has moved the EU closer to a landmark ban on predictive policing and facial recognition.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/ai-act-vote-pushes-eu-ban-on-predictive-policing-facial-recognition",
-      "originalUrl": "https://thenextweb.com/news/ai-act-vote-pushes-eu-ban-on-predictive-policing-facial-recognition",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F05%2FUntitled-design-6.jpg&signature=1e7b4390a6a9afa5c53d7775598e0291",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-11T10:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-11-column-the-writers-strike-is-only-the-beginning-a-rebellion-against-ai-is-underway.md",
-      "title": "Column: The writers' strike is only the beginning. A rebellion against AI is underway",
-      "excerpt": "Artists, journalists and screenwriters are leading the fight against employers who would seek to replace them with the products of ChatGPT and other generative AI software.",
-      "sourceUrl": null,
-      "webUrl": "https://www.aol.com/news/column-writers-strike-only-beginning-120051804.html",
-      "originalUrl": "https://www.aol.com/news/column-writers-strike-only-beginning-120051804.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.zenfs.com/en/aol_la_times_articles_830/0e92ebc7d974fc7d04ec32eb62d17222",
-          "width": 840,
-          "height": 560,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.aol.com/amphtml/column-writers-strike-only-beginning-120051804.html",
-      "cdnAmpWebUrl": "https://www-aol-com.cdn.ampproject.org/c/s/www.aol.com/amphtml/column-writers-strike-only-beginning-120051804.html",
-      "publishedDateTime": "2023-05-11T08:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AOL",
-        "domain": "aol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-05-11-musk-would-compound-tesla-automated-driving-risk-with-free-trial.md",
-      "title": "Musk Would Compound Tesla Automated-Driving Risk With Free Trial",
-      "excerpt": "Regulators are already swirling, and some customers have paid $15,000 for features the CEO is prepared to give away for a month.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2023-05-11/musk-would-compound-tesla-automated-driving-risk-with-free-trial",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2023-05-11/musk-would-compound-tesla-automated-driving-risk-with-free-trial",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iRwyAU42Epw8/v1/1200x900.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-11T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg L.P.",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-11-amp-robotics-attracts-investment-from-microsofts-climate-innovation-fund.md",
-      "title": "AMP Robotics attracts investment from Microsoft’s Climate Innovation Fund",
-      "excerpt": "AMP Robotics, a Denver, Colorado-based startup creating robotic systems that can automatically ... infrastructure and expanding new infrastructure based on our application of AI-powered automation,” founder and CEO Matanya Horowitz told TechCrunch ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/05/11/amp-robotics-attracts-investment-from-microsofts-climate-innovation-fund/",
-      "originalUrl": "https://techcrunch.com/2023/05/11/amp-robotics-attracts-investment-from-microsofts-climate-innovation-fund/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 250,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/01/GettyImages-172878844.jpg?w=1200",
-          "width": 1200,
-          "height": 803,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/05/11/amp-robotics-attracts-investment-from-microsofts-climate-innovation-fund/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/11/amp-robotics-attracts-investment-from-microsofts-climate-innovation-fund/amp/",
-      "publishedDateTime": "2023-05-11T08:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-11-artificial-intelligence-ai-chip-market-research-analysis-2023-2030.md",
-      "title": "Artificial Intelligence (AI) Chip Market Research Analysis, 2023-2030",
-      "excerpt": "Chip market growth in 2023-2029 with TOPMajor Players? Major Players Covered in this Report: The global Artificial Intelligence (AI) Chip Market USD Million in 2022, with a change of Percent between 2022 and 2023.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chip-market-research-analysis-2023-2030-2023-05-11",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chip-market-research-analysis-2023-2030-2023-05-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 449,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-11T08:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

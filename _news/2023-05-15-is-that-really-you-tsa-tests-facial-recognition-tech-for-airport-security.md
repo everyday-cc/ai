@@ -2,19 +2,19 @@
 category: news
 title: "Is that really you? TSA tests facial recognition tech for airport security"
 excerpt: "A pilot project by the Transportation Security Administration is assessing the use of facial recognition technology at a number of airports across the country."
-publishedDateTime: 2023-05-15T11:36:00Z
-originalUrl: "https://thehill.com/regulation/transportation/4004432-is-that-really-you-tsa-tests-facial-recognition-tech-for-airport-security/"
-webUrl: "https://thehill.com/regulation/transportation/4004432-is-that-really-you-tsa-tests-facial-recognition-tech-for-airport-security/"
-ampWebUrl: "https://thehill.com/regulation/transportation/4004432-is-that-really-you-tsa-tests-facial-recognition-tech-for-airport-security/amp/"
-cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/regulation/transportation/4004432-is-that-really-you-tsa-tests-facial-recognition-tech-for-airport-security/amp/"
+publishedDateTime: 2023-05-15T13:10:00Z
+originalUrl: "https://www.kxan.com/news/national-news/is-that-really-you-tsa-tests-facial-recognition-tech-for-airport-security/"
+webUrl: "https://www.kxan.com/news/national-news/is-that-really-you-tsa-tests-facial-recognition-tech-for-airport-security/"
+ampWebUrl: "https://www.kxan.com/news/national-news/is-that-really-you-tsa-tests-facial-recognition-tech-for-airport-security/amp/"
+cdnAmpWebUrl: "https://www-kxan-com.cdn.ampproject.org/c/s/www.kxan.com/news/national-news/is-that-really-you-tsa-tests-facial-recognition-tech-for-airport-security/amp/"
 type: article
 quality: 89
-heat: -1
-published: false
+heat: 149
+published: true
 
 provider:
-  name: The Hill
-  domain: thehill.com
+  name: KXAN
+  domain: kxan.com
 
 topics:
   - Computer Vision
@@ -22,54 +22,82 @@ topics:
   - AI in Security
 
 images:
-  - url: "https://thehill.com/wp-content/uploads/sites/2/2023/05/facial.jpg?w=1280"
+  - url: "https://www.kxan.com/wp-content/uploads/sites/40/2023/05/facial.jpg?w=1280"
     width: 1280
     height: 720
     isCached: true
 
 related:
   - title: "TSA tests facial recognition technology to boost airport security"
-    excerpt: "BALTIMORE (AP) — A passenger walks up to an airport security checkpoint, slips an ID card into a slot and looks into a camera atop a small screen. The screen flashes “Photo Complete” and the person walks through — all without having to hand over their identification to the TSA officer sitting behind the screen."
-    publishedDateTime: 2023-05-15T10:32:00Z
-    webUrl: "https://www.syracuse.com/us-news/2023/05/tsa-tests-facial-recognition-technology-to-boost-airport-security.html"
-    ampWebUrl: "https://www.syracuse.com/us-news/2023/05/tsa-tests-facial-recognition-technology-to-boost-airport-security.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-syracuse-com.cdn.ampproject.org/c/s/www.syracuse.com/us-news/2023/05/tsa-tests-facial-recognition-technology-to-boost-airport-security.html?outputType=amp"
+    excerpt: "The technology is currently in 16 airports, but critics have have raised concerns about questions of bias in facial recognition technology."
+    publishedDateTime: 2023-05-15T13:01:00Z
+    webUrl: "https://www.nbcnews.com/tech/tech-news/tsa-tests-facial-recognition-technology-boost-airport-security-rcna84415"
     type: article
     provider:
-      name: syracuse.com
-      domain: syracuse.com
-    quality: 91
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/AZBTIOAFSBHZXMRDRCK3ZLKOBU.jpg"
-        width: 6768
-        height: 4514
-        isCached: true
+      name: NBC News
+      domain: nbcnews.com
+    quality: 81
   - title: "Are you who you say you are? TSA tests facial recognition technology to boost airport security"
-    excerpt: "TSA says the goal of the pilot is to improve the accuracy of the identity verification without slowing down the speed at which passengers pass through the checkpoints — a key issue for an agency that sees 2."
-    publishedDateTime: 2023-05-15T10:57:00Z
-    webUrl: "https://www.cbsnews.com/baltimore/news/are-you-who-you-say-you-are-tsa-tests-facial-recognition-technology-to-boost-airport-security/"
-    ampWebUrl: "https://www.cbsnews.com/amp/baltimore/news/are-you-who-you-say-you-are-tsa-tests-facial-recognition-technology-to-boost-airport-security/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/baltimore/news/are-you-who-you-say-you-are-tsa-tests-facial-recognition-technology-to-boost-airport-security/"
+    excerpt: "It's part of a pilot project by the Transportation Security Administration to assess the use of facial recognition technology at several airports."
+    publishedDateTime: 2023-05-15T13:37:00Z
+    webUrl: "https://www.detroitnews.com/story/business/2023/05/15/tsa-tests-facial-recognition-technology-to-boost-airports-security/70218049007/"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 79
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 59
     images:
-      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/05/15/02a907ec-29f8-43ac-baed-9704c4df6bc5/thumbnail/1200x630/e70ef45625a6b1fad873a85c97aab290/ap23116691460840.jpg"
+      - url: "https://www.gannett-cdn.com/presto/2023/05/15/PDTN/59ed15da-9756-49be-bb4b-13d67ab99717-AP23116691095530.jpg?auto=webp&crop=5520,3105,x0,y281&format=pjpg&width=1200"
         width: 1200
-        height: 630
+        height: 675
         isCached: true
-  - title: "Facial Recognition Technology Could Improve Livestock Health"
-    excerpt: "Facial recognition technology isn’t limited to humans. Livestock are now getting their mugs snapped in order to help farmers monitor animal health, increase efficiency and improve traceability.  Researchers from the US to Australia are using drones to handle health assessments of cattle from the air,"
-    publishedDateTime: 2023-05-11T12:00:00Z
-    webUrl: "https://modernfarmer.com/2023/05/facial-recognition/"
+  - title: "TSA tests facial recognition tech for airport security"
+    excerpt: "A pilot project by the Transportation Security Administration is assessing the use of facial recognition technology at a number of airports across the country."
+    publishedDateTime: 2023-05-15T12:04:00Z
+    webUrl: "https://myfox8.com/news/tsa-tests-facial-recognition-tech-for-airport-security/"
     type: article
     provider:
-      name: Modern Farmer
-      domain: modernfarmer.com
-    quality: 19
+      name: WGHP
+      domain: myfox8.com
+    quality: 51
+  - title: "Are you are who you say you are? TSA test facial recognition technology to boost airport security"
+    excerpt: "A passenger walks up to an airport security checkpoint, slips an ID card into a slot and looks into a camera atop a small screen. The screen flashes “Photo Complete” and the person walks through — all without having to hand over their identification to the TSA officer sitting behind the screen."
+    publishedDateTime: 2023-05-15T12:25:00Z
+    webUrl: "https://kvia.com/news/2023/05/15/are-you-are-who-you-say-you-are-tsa-test-facial-recognition-technology-to-boost-airport-security/"
+    type: article
+    provider:
+      name: KVIA
+      domain: kvia.com
+    quality: 38
+  - title: "Facial recognition tech lets TSA to verify your ID without an agent staring at you"
+    excerpt: "The Transportation Security Administration is introducing facial recognition at some airports in an effort to make security screening more efficient."
+    publishedDateTime: 2023-05-15T14:33:00Z
+    webUrl: "https://www.usatoday.com/story/travel/airline-news/2023/05/15/tsa-airport-screening-facial-recognition/70218060007/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 33
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2023/01/01/USAT/3f44de1c-410f-4417-904c-173f8f370140-AP_Winter_Weather_Travel.jpg?auto=webp&crop=5615,3159,x0,y285&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Writing Faculty United Requests Recognition of Unionization in Petition to Administration"
+    excerpt: "The letter calls for improved job security, pay, and benefits, as well as transparency, recognition, and a voice in how writing instruction is conceived and executed. “When it comes to the aims of the union, I tend to think of it as having two key ..."
+    publishedDateTime: 2023-05-15T01:07:00Z
+    webUrl: "https://chicagomaroon.com/39180/news/writing-faculty-united-requests-recognition-of-unionization-in-petition-to-administration/"
+    type: article
+    provider:
+      name: The Chicago Maroon
+      domain: chicagomaroon.com
+    quality: 15
+    images:
+      - url: "https://chicagomaroon.com/wp-content/uploads/2021/12/Harper_Library_South_Stock-900x753.jpeg"
+        width: 900
+        height: 753
+        isCached: true
 
-secured: "YAhjn6+e5CJUqC94AJGz9/cQVoWxsAAqLzgR2LCIQkufvhtMOPfLidM62vUF33zP4fAiql2eU8l0vdgMC9CP337YDPrR3P8HPVa9bRrhmPVN7LIw3EoXvkB21dhJPVuaoDRI5v6J+F+2cPwxO+2v8dfBTEQCJ4QUMfMsbfK9keMb0Uiy1GOwPvgUzy5EIftJTFPZ8V0g57D8oPwRYBPajxNDnRrROcv6dGtKvIQ9/qtSkohyZ0svceBGceW+mPk+MQIm67izbdGznXpqFBtwUtt+a7o1SV/cNBvc9ylUlfhwo7lXnHbhi51bke3HnpKT8OYyImGnmU7MJOLZQ7UDWK0+7oEQ458ugTBfbDF9fFw=;EW03B4tKy5qO5RXnaL1ltQ=="
+secured: "4fKrPIshjRIuZ0cOlXy2bnkm3VXXWCkB+6svsieI6EIZRtqEFTSJDrbF422gghBWXZU1egxuC18PtFkMTp8CYzQUjqYlKOWUK2l0ejvV3py+qak8sq9/Omltkdlm+P5IJRYufhDTMEIms3oWEvIwffbnNzysO8+OBvmSHs9O2fq5cP5MsZxHP9Vwyt+SaxzTIflrkHyUMP9f5kIlOWe5Mp587dWKgGWdXm0gvk0k1DRts4IjgJVv0YCXmbpfHg1p0Z9rD+opt7KEuswVEOr2NE3XUlJBvLatcyXcZ2HdJ8wGCAnuHUrNNWxH15HW1CU2oiEtchnPNPbpBrSPwo7vR69gL6uwGlLcsNI3uNuq41A=;r0ORLgTX7NgtEHpdRWaEdA=="
 ---
 
