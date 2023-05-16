@@ -2,6 +2,220 @@
   "page": 48,
   "value": [
     {
+      "path": "_news/2023-04-16-aws-launches-new-tools-for-building-with-generative-ai.md",
+      "title": "AWS launches new tools for building with generative AI",
+      "excerpt": "Amazon Web Services (AWS), an Amazon.com company, today (April 15) announced four innovations across its machine learning portfolio to make to make generative AI more accessible to customers. As an AI pioneer, AWS has helped more than 100,000 customers of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zawya.com/en/business/technology-and-telecom/aws-launches-new-tools-for-building-with-generative-ai-avvgue7d",
+      "originalUrl": "https://www.zawya.com/en/business/technology-and-telecom/aws-launches-new-tools-for-building-with-generative-ai-avvgue7d",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.zawya.com/view/acePublic/alias/contentid/NTM1NzQzZjktM2MxOC00/16/1297736239.jpeg?f=3%3A2",
+          "width": 900,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zawya.com/en/business/technology-and-telecom/aws-launches-new-tools-for-building-with-generative-ai-avvgue7d?amp=1",
+      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/business/technology-and-telecom/aws-launches-new-tools-for-building-with-generative-ai-avvgue7d?amp=1",
+      "publishedDateTime": "2023-04-15T23:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-16-financial-institutions-directed-to-adopt-facial-recognition-feature.md",
+      "title": "Financial institutions directed to adopt facial recognition feature",
+      "excerpt": "According to the central bank, the measures require commercial banks and microfinance banks (MFBs) to implement a combination of at least two controls, such as facial recognition, in-app live original identity document verification, in-app live picture verification, and call-back verification.",
+      "sourceUrl": null,
+      "webUrl": "https://tribune.com.pk/story/2412181/financial-institutions-directed-to-adopt-facial-recognition-feature",
+      "originalUrl": "https://tribune.com.pk/story/2412181/financial-institutions-directed-to-adopt-facial-recognition-feature",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 130,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.tribune.com.pk/media/images/biz1681621227-0/biz1681621227-0.jpg",
+          "width": 1588,
+          "height": 1664,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://tribune.com.pk/story/2412181/financial-institutions-directed-to-adopt-facial-recognition-feature?amp=1",
+      "cdnAmpWebUrl": "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2412181/financial-institutions-directed-to-adopt-facial-recognition-feature?amp=1",
+      "publishedDateTime": "2023-04-15T22:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Express Tribune",
+        "domain": "tribune.com.pk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-16-mit-physicist-max-tegmark-calls-for-a-halt-on-ai-development.md",
+      "title": "MIT physicist Max Tegmark calls for a halt on AI development",
+      "excerpt": "Physicist and MIT professor Max Tegmark tells 'Unfiltered' host Dan Bongino that we should be building technology we can 'trust and understand.'",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/video/6325184853112",
+      "originalUrl": "https://www.foxnews.com/video/6325184853112",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c4b5d133-0cef-4983-92c5-91ed27dd6887/8092b1a6-c899-4a2b-a195-1aa7249216e9/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "width": 1024,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-15T19:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-16-baidu-apollo-releases-major-product-updates-to-help-manufacturers-build-smarter-cars-for-tomorrow.md",
+      "title": "Baidu Apollo Releases Major Product Updates to Help Manufacturers Build Smarter Cars for Tomorrow",
+      "excerpt": "Baidu Apollo City Driving Max is upgraded with \"lightweight HD map\", which is 80% \"lighter\" compared to traditional HD maps. Baidu's Apollo Highway Driving Pro will be deployed on Black Sesame Semiconductor's Huashan II A1000 chip computing platform and will be officially released in Q3 this year.",
+      "sourceUrl": null,
+      "webUrl": "https://it.tmcnet.com/news/2023/04/16/9795077.htm",
+      "originalUrl": "https://it.tmcnet.com/news/2023/04/16/9795077.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-15T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-16-the-nvidia-dgx-2-is-the-worlds-largest-gpu-and-its-made-for-ai.md",
+      "title": "The Nvidia DGX-2 Is the World's Largest GPU, and It's Made for AI",
+      "excerpt": "Now the chipmaker, known traditionally as a graphics processor company, has made a definitive statement into pivoting itself into an AI and enterprise hardware manufacturer with the announcement of the DGX-2, the “largest GPU ever created.” Prior to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/electronics-test/nvidia-dgx-2-worlds-largest-gpu-and-its-made-ai",
+      "originalUrl": "https://www.designnews.com/electronics-test/nvidia-dgx-2-worlds-largest-gpu-and-its-made-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/NVIDIA_DGX-2_cropped_1522130618.jpg",
+          "width": 1314,
+          "height": 986,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-15T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-16-in-curious-move-elon-musk-quietly-preps-for-launch-of-openai-rival-shortly-after-calling-for-pause-in-ai-research.md",
       "title": "In Curious Move, Elon Musk Quietly Preps For Launch Of OpenAI Rival Shortly After Calling For Pause In AI Research",
       "excerpt": "Musk registered a company named X.AI in Nevada as a step to set up his own AI venture. The billionaire has secured thousands of high-powered GPU processors from Nvidia for the purpose, the ...",
@@ -933,237 +1147,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-15-ai-frenzy-puts-chips-back-onto-the-menu-buy-the-tech-behind-revolution.md",
-      "title": "AI frenzy puts chips back onto the menu: Buy the tech behind revolution",
-      "excerpt": "Slavishly following fashion when building a portfolio is not a good idea. But acknowledging trends makes sense - and ChatGPT is part of a mega trend.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thisismoney.co.uk/money/investing/article-11974189/AI-frenzy-puts-chips-menu-Buy-tech-revolution.html",
-      "originalUrl": "https://www.thisismoney.co.uk/money/investing/article-11974189/AI-frenzy-puts-chips-menu-Buy-tech-revolution.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.dailymail.co.uk/1s/2023/04/14/20/69846491-0-image-a-72_1681502145335.jpg",
-          "width": 636,
-          "height": 382,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thisismoney.co.uk/money/investing/article-11974189/amp/AI-frenzy-puts-chips-menu-Buy-tech-revolution.html",
-      "cdnAmpWebUrl": "https://www-thisismoney-co-uk.cdn.ampproject.org/c/s/www.thisismoney.co.uk/money/investing/article-11974189/amp/AI-frenzy-puts-chips-menu-Buy-tech-revolution.html",
-      "publishedDateTime": "2023-04-14T13:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "This is Money",
-        "domain": "thisismoney.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-15-dubai-sheikh-mohammed-issues-new-law-on-driverless-vehicles-up-to-dh50000-fine-announced-for-violators.md",
-      "title": "Dubai: Sheikh Mohammed issues new law on driverless vehicles; up to Dh50,000 fine announced for violators",
-      "excerpt": "A new law in Dubai is set to regulate the operations of driverless vehicles in the ... environment that facilitates the use of artificial intelligence (AI) in transportation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.khaleejtimes.com/uae/transport/dubai-sheikh-mohammed-issues-new-law-on-driverless-vehicles-up-to-dh50000-fine-announced-for-viol",
-      "originalUrl": "https://www.khaleejtimes.com/uae/transport/dubai-sheikh-mohammed-issues-new-law-on-driverless-vehicles-up-to-dh50000-fine-announced-for-viol",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.khaleejtimes.com?uuid=9264af9f-5ce7-4ad8-b30e-b3d6029f3619&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.82873&width=1200&height=675&x=1.0E-5&y=0.16022",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.khaleejtimes.com/uae/transport/dubai-sheikh-mohammed-issues-new-law-on-driverless-vehicles-up-to-dh50000-fine-announced-for-viol?amp=1",
-      "cdnAmpWebUrl": "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/uae/transport/dubai-sheikh-mohammed-issues-new-law-on-driverless-vehicles-up-to-dh50000-fine-announced-for-viol?amp=1",
-      "publishedDateTime": "2023-04-14T11:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Khaleej Times",
-        "domain": "khaleejtimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-15-generative-ai-music-platform-creates-forever-songs-with-artists-unique-sounds-melodies-and-beats.md",
-      "title": "Generative AI Music Platform Creates Forever Songs With Artists’ Unique Sounds, Melodies, And Beats",
-      "excerpt": "A generative AI startup named Aimi has launched a new music platform that fundamentally transforms music, artists, listeners, and monetization. It’s simultaneously a creation tool that works alongside artists to create tracks, a listening experience that ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johnkoetsier/2023/04/14/generative-ai-music-platform-creates-forever-songs-with-artists-unique-sounds-melodies-and-beats/",
-      "originalUrl": "https://www.forbes.com/sites/johnkoetsier/2023/04/14/generative-ai-music-platform-creates-forever-songs-with-artists-unique-sounds-melodies-and-beats/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64398a48797e9c71efa00872/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 843,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johnkoetsier/2023/04/14/generative-ai-music-platform-creates-forever-songs-with-artists-unique-sounds-melodies-and-beats/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2023/04/14/generative-ai-music-platform-creates-forever-songs-with-artists-unique-sounds-melodies-and-beats/amp/",
-      "publishedDateTime": "2023-04-14T10:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-15-a-chinese-company-is-reportedly-planning-to-replace-some-human-copywriters-and-graphic-designers-with-ai.md",
-      "title": "A Chinese company is reportedly planning to replace some human copywriters and graphic designers with AI",
-      "excerpt": "Some news sites have already experimented with using AI models to write articles and other types of media content, including BuzzFeed and CNET. Insider's global editor-in-chief recently announced its newsroom will start experimenting with ChatGPT.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/chinese-company-to-replace-some-copywriters-graphic-designers-ai-report-2023-4",
-      "originalUrl": "https://www.businessinsider.com/chinese-company-to-replace-some-copywriters-graphic-designers-ai-report-2023-4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/643965fb028f6800183d9a7a?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/chinese-company-to-replace-some-copywriters-graphic-designers-ai-report-2023-4?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chinese-company-to-replace-some-copywriters-graphic-designers-ai-report-2023-4?amp",
-      "publishedDateTime": "2023-04-14T10:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-15-bloomberg-plans-to-integrate-gpt-style-ai-into-its-terminal.md",
-      "title": "Bloomberg plans to integrate GPT-style AI into its terminal",
-      "excerpt": "“So when that came out, we were like, ‘OK, this is going to change the way that we do NLP here.’” NLP stands for natural language processing, the part of machine learning that focuses on deriving meaning from words. The move also shows how the AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/business/business-news/bloomberg-plans-integrate-gpt-style-terminal-rcna79507?icid=recommended",
-      "originalUrl": "https://www.nbcnews.com/business/business-news/bloomberg-plans-integrate-gpt-style-terminal-rcna79507?icid=recommended",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-04/230413-bloomberg-terminal-mn-0920-7e7f57.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna79507",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna79507",
-      "publishedDateTime": "2023-04-14T10:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

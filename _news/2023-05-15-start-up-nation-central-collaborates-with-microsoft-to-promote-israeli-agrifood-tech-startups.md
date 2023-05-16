@@ -105,20 +105,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Builder.ai Collaborates With Microsoft To Democratize Software Development"
-    excerpt: "The collaboration will see the two companies collaborate on creating AI powered solutions that empower businesses to develop applications and become digitally native without the need for any technical"
-    publishedDateTime: 2023-05-11T07:15:00Z
-    webUrl: "https://www.entrepreneur.com/en-in/news-and-trends/builderai-collaborates-with-microsoft-to-democratize/451949"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 82
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1683789345-Untitleddesign-2023-05-11T123845263.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
   - title: "SymphonyAI announces generative AI collaboration with Microsoft Azure AI"
     excerpt: "SymphonyAI announced today its first generative AI software application that integrates Microsoft Azure OpenAI Service. Sensa Copilot provides sophisticated AI assistance to financial crime investigators by automatically collecting,"
     publishedDateTime: 2023-05-11T16:46:00Z
@@ -185,20 +171,6 @@ related:
       - url: "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2023/05/Vasu-1_900_2_cropped.jpg"
         width: 900
         height: 394
-        isCached: true
-  - title: "Microsoft freezes salaries to invest in AI"
-    excerpt: "Microsoft has decided to freeze pay for all full-time workers this year as it invests in a \"major platform shift\"."
-    publishedDateTime: 2023-05-11T07:04:00Z
-    webUrl: "https://techcentral.co.za/microsoft-freezes-salaries-to-invest-in-ai/225473/"
-    type: article
-    provider:
-      name: TechCentral
-      domain: techcentral.co.za
-    quality: 54
-    images:
-      - url: "https://techcentral.co.za/wp-content/uploads/2021/09/satya-nadella-2156-1120-2-5-1024x532.jpg"
-        width: 1024
-        height: 532
         isCached: true
   - title: "KPMG LLP AND MICROSOFT ESTABLISH INDUSTRY-LEADING INITIATIVE TO SCALE GENERATIVE AI ACROSS AUDIT, TAX AND ADVISORY"
     excerpt: "KPMG LLP AND MICROSOFT ESTABLISH INDUSTRY-LEADING INITIATIVE TO SCALE GENERATIVE AI ACROSS AUDIT, TAX AND ADVISORY May 11, 2023 (PRNewswire via COMTEX) --"

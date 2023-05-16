@@ -95,6 +95,22 @@ related:
         width: 3000
         height: 1688
         isCached: true
+  - title: "Lawmakers work to regulate AI at the state level"
+    excerpt: "AI tools like Chat GPT can answer questions and summarize research. Now lawmakers are working to regulate how AI is used at the state level. “With the launch of Chat GPT and other generative forms of AI, it has really come to the forefront. And people ..."
+    publishedDateTime: 2023-05-16T00:19:00Z
+    webUrl: "https://www.wfsb.com/2023/05/15/lawmakers-work-regulate-ai-state-level/"
+    ampWebUrl: "https://www.wfsb.com/2023/05/15/lawmakers-work-regulate-ai-state-level/?outputType=amp"
+    cdnAmpWebUrl: "https://www-wfsb-com.cdn.ampproject.org/c/s/www.wfsb.com/2023/05/15/lawmakers-work-regulate-ai-state-level/?outputType=amp"
+    type: article
+    provider:
+      name: WFSB
+      domain: wfsb.com
+    quality: 59
+    images:
+      - url: "https://gray-wfsb-prod.cdn.arcpublishing.com/resizer/XvYP69UfJwT8rUmswVDgqIG9Zck=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/BXLAK2IJMFHQFJJUMPSRLJGVN4.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "DEF CON to set thousands of hackers loose on AI"
     excerpt: "Thousands of hackers will get a shot at testing the limits of AI technology at a mass hacking event at the famed DEF CON hacker convention. Some of the things they’ll be looking to find: How can chatbots be manipulated to cause harm?"
     publishedDateTime: 2023-05-14T21:30:00Z

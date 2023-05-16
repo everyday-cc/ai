@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Edge Artificial Intelligence (AI) Chip Market by 2030"
+    excerpt: "Chip market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players,"
+    publishedDateTime: 2023-05-12T00:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/edge-artificial-intelligence-ai-chip-market-by-2030-2023-05-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 99
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Natural Language Processing for Finance Market Research | 2023-2030"
     excerpt: "May 11, 2023 (The Expresswire) -- \"Natural Language Processing for Finance Market\" is expected to exhibit an unexpected CAGR during the forecast period,"
     publishedDateTime: 2023-05-11T18:43:00Z

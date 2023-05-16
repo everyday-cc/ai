@@ -105,20 +105,20 @@ related:
         height: 800
         isCached: true
   - title: "TSA is testing facial recognition at more airports, raising privacy concerns"
-    excerpt: "The agency tasked with securing America’s airports is testing the use of facial recognition technology at a number of airports across the country. The Transportation Safety Administration"
-    publishedDateTime: 2023-05-15T19:31:00Z
-    webUrl: "https://www.denverpost.com/2023/05/15/tsa-is-testing-facial-recognition-at-more-airports-raising-privacy-concerns/"
-    ampWebUrl: "https://www.denverpost.com/2023/05/15/tsa-is-testing-facial-recognition-at-more-airports-raising-privacy-concerns/amp/"
-    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2023/05/15/tsa-is-testing-facial-recognition-at-more-airports-raising-privacy-concerns/amp/"
+    excerpt: "The agency tasked with securing America's airports is testing the use of facial recognition technology at a number of airports across the country."
+    publishedDateTime: 2023-05-16T00:50:00Z
+    webUrl: "https://www.cbsnews.com/detroit/news/are-you-who-you-say-you-are-tsa-tests-facial-recognition-technology-to-boost-airport-security-3/"
+    ampWebUrl: "https://www.cbsnews.com/amp/detroit/news/are-you-who-you-say-you-are-tsa-tests-facial-recognition-technology-to-boost-airport-security-3/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/detroit/news/are-you-who-you-say-you-are-tsa-tests-facial-recognition-technology-to-boost-airport-security-3/"
     type: article
     provider:
-      name: The Denver Post
-      domain: denverpost.com
+      name: CBS News
+      domain: cbsnews.com
     quality: 71
     images:
-      - url: "https://www.denverpost.com/wp-content/uploads/2023/05/Facial_Recognition_Airports_95530.jpg?w=1024&h=682"
-        width: 1024
-        height: 682
+      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/05/16/dd4531ea-7d1e-49f6-b90d-b78e7f190eca/thumbnail/1200x630/7091c6ef48ade2bd9217b5f28d1ec03d/ap23116691095530.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "TSA is testing facial recognition technology at more airports, raising privacy concerns"
     excerpt: "The Transportation Safety Administration says the technology is an effort to more accurately identify the millions of passengers traveling through its airports every day and that passengers can opt out."
@@ -154,15 +154,15 @@ related:
         isCached: true
   - title: "TSA testing facial recognition at more airports, raising privacy concerns"
     excerpt: "Advocates are concerned about how the data is collected, who has access to it and what happens if it gets hacked."
-    publishedDateTime: 2023-05-15T20:34:00Z
-    webUrl: "https://www.pressherald.com/2023/05/15/tsa-testing-facial-recognition-at-more-airports-raising-privacy-concerns/"
+    publishedDateTime: 2023-05-16T01:05:00Z
+    webUrl: "https://www.centralmaine.com/2023/05/15/tsa-testing-facial-recognition-at-more-airports-raising-privacy-concerns/"
     type: article
     provider:
-      name: Portland Press Herald
-      domain: pressherald.com
+      name: Kennebec Journal
+      domain: centralmaine.com
     quality: 53
     images:
-      - url: "https://multifiles.pressherald.com/uploads/sites/4/2023/05/Facial_Recognition_Airports_95530-1-1684182783.jpg"
+      - url: "https://multifiles.pressherald.com/uploads/sites/2/2023/05/Facial_Recognition_Airports_95530-1-1684199078.jpg"
         width: 1000
         height: 667
         isCached: true
@@ -253,6 +253,6 @@ related:
       domain: thedailyrecord.com
     quality: 28
 
-secured: "99a3dCHJPVluitDLXqGqIGN3NT6qxewhREBkThPYVRpKi0/iYemj3Towd0sTPoumMqbwBPnPB23iDx9K/HSW8BlCgSii3YHcm0b3NRDde/oR8vPMHvBA8l90MHnbm/dMRFfQeYR2c/scoP1yJO52ds1A5Vm9BR1Tap4X2gCfQxiXLLIAkV/q/U0Hb+yshBFkzBoESEQAGGnBaxltTCsBHBLaPYzahJk0zvmjtsvS0XNqgNKe+vnVqjX8WIieExIraUiXQYL+t/W1y/j/DYZa7Tk9pmrmWVSGUqp6OLIUfi8sJQ6upL/C1wm9ELQpUQULNAWlT5Fu6yM+YEDRhmIbjA71fKhWUPyH5FQ6gkSuLuo=;MVCXCJvZjY7IuX8i9NC98A=="
+secured: "Bm5dSPP6LjprWJnb3jAsnJ4ziFZ98cdFBVgMJqJQzYMxvq7D+krctgnXiZREdkJU6Y9vZckljTEbw3jAl4kkLeBhKOAoPbn0JbFHpJXo1f9v2XJM8oFhHbuuZ3vnrC2C7Ug8e02udYiWby13+4lzrekT4ka7ZW7tXXaPwaCHRSAV6AIK3gOcwbURtiJkugxU31NTtuBW5M6y4EBcu4hrZkTWb6/Tlk++nap21EU2FaT8ex34Ri6PFd/dzECm5QOrWmJdeii2Z4Tew/ofMocUC/giE77oR6axw2PIQON5ZtCB6U+tImB6T9RV0mFT8AIfem1YcG3RjaZfAJnqFs4cVfo3+RXwyf+z92nhGxmWNvGr/YODIH2rzR+FYYjhttmlmVaMsWzd0tM9ymcpj/YzAHXEvlT52qXScpv8KpRdcRqS6TnqJvo23opyOhG2WkYjxYcnuFXBunqjdwBweBGvQOsOuZGBolJv5nUGXeFsajMmwjRe5VIDJXi6OkWBoLU0pVF0N/iu0wyBCz7viikKNQ==;ZgCT06kc6W0wpzhph8AFsw=="
 ---
 

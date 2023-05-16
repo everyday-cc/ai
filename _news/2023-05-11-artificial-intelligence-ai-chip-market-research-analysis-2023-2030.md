@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chip-market-research-analysis-2023-2030-2023-05-11"
 type: article
 quality: 99
-heat: 389
+heat: 399
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Edge Artificial Intelligence (AI) Chip Market by 2030"
+    excerpt: "Chip market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players,"
+    publishedDateTime: 2023-05-12T00:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/edge-artificial-intelligence-ai-chip-market-by-2030-2023-05-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 99
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Edge Artificial Intelligence (AI) Chip Market Research | 2023-2030"
     excerpt: "May 14, 2023 (The Expresswire) -- \"Edge Artificial Intelligence (AI) Chip Market\" is poised to witness an unexpected compound annual growth rate"
     publishedDateTime: 2023-05-14T12:02:00Z

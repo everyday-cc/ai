@@ -34,6 +34,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 42
+  - title: "Amazon’s conversational AI search plans sound like a nightmare"
+    excerpt: "Amazon said in a job listing that it wants to \"re-architect and reinvent the way we do search\" with AI, and we have concerns."
+    publishedDateTime: 2023-05-16T00:14:00Z
+    webUrl: "https://bgr.com/tech/amazons-conversational-ai-search-plans-sound-like-a-nightmare/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 39
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2023/05/Amazon-AI.jpg?quality=82&strip=all"
+        width: 2000
+        height: 1333
+        isCached: true
 
 secured: "DknZ2NbJtVXTWSRXxKWPyNNoqDdULK2mGnpXDiCI46lWB8tS319sIPSLmCTG8SRCrbn9Tduxvl5jYyW5PnduSCprYR/nk1VxgA6oXdDcOsbaVCPt3uO9JOvX4Q5xacdMkK4cNtbOmiwUDcL7kIMKGzRAqNXMf/9INn6ksR15Db+kCxcS0D8Etd7IsE8IdTbxgghR1VAvJ7Es/mGXIKGRhxwFjVk1HGNiBBSIb+/Jz1K4IQV7pNa4JGGIYq1dzQZsY9IdwoyGlOwD+ynxDuIrZLTnMcecYxm8eNrtbg3X+2qOFnoUX8QYhLn8asAMTwqd54Nn/JB78fweaXtjnG2YTlbBat6OygPZ6npOoOp24fPq3qT8sWYInVJWWA94pOq5ooKtCfxAMT7vUcVDzaPiCi4ydm0zjo1689wONFFKJoQ8aUUtM4t1qbMWaPPBHT0hZCnjrYOoF/HmxPWbLKIkcSB0wXSW090rsQepeN9LbFEcqn2rePfaxJjX+JON9Er9Afz+ZuOTKLpRyvClS0gfFw==;5WsEoCML6M/ehSJ6Kib/Jw=="
 ---

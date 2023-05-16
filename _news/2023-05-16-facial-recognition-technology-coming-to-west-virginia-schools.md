@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "West Virginia Lawmakers Hear Testimony About Risks, Benefits of AI"
+    excerpt: "Experts shared the benefits and risks posed by quickly emerging AI systems. In addition to the standard security concerns the technology brings, experts were quick to share some of the workforce efficiencies it provides as well."
+    publishedDateTime: 2023-05-16T00:35:00Z
+    webUrl: "https://www.govtech.com/artificial-intelligence/west-virginia-lawmakers-hear-testimony-about-risks-benefits-of-ai"
+    ampWebUrl: "https://www.govtech.com/artificial-intelligence/west-virginia-lawmakers-hear-testimony-about-risks-benefits-of-ai?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/artificial-intelligence/west-virginia-lawmakers-hear-testimony-about-risks-benefits-of-ai?_amp=true"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
+    images:
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/b3d4ac8/2147483647/strip/true/crop/940x490+0+68/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F4d%2F69%2F1ac3ed2fcbc1fcb278e86144eb01%2Fshutterstock-1301147023.jpg"
+        width: 840
+        height: 438
+        isCached: true
   - title: "Rank One facial recognition reaches 4 West Virginia school boards"
     excerpt: "Facial recognition deployment has been on the rise in the United States despite pushback from parents and rights organizations."
     publishedDateTime: 2023-05-12T17:54:00Z

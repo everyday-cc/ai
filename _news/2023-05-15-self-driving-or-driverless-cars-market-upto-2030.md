@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/self-driving-or-driverle
 webUrl: "https://www.marketwatch.com/press-release/self-driving-or-driverless-cars-market-upto-2030-2023-05-14"
 type: article
 quality: 69
-heat: 179
+heat: 169
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://static01.nyt.com/images/2023/06/05/multimedia/0512HF-googleai-lwfv/0512HF-googleai-lwfv-facebookJumbo.jpg"
         width: 1050
         height: 550
-        isCached: true
-  - title: "Autonomous or Driverless Cars Market Report Talks about Current Market Share 2023-2030"
-    excerpt: "May 11, 2023 (The Expresswire) -- \"Stay informed with the Latest New Insight Updates on Autonomous or Driverless Cars Market to remain Competitive"
-    publishedDateTime: 2023-05-11T08:58:00Z
-    webUrl: "https://www.marketwatch.com/press-release/autonomous-or-driverless-cars-market-report-talks-about-current-market-share-2023-2030-2023-05-11"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 61
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
         isCached: true
   - title: "UK To Roll Out First Driverless Bus Service"
     excerpt: "The UK will roll out its first driverless bus network in Scotland next week with drivers on standby behind the steering wheel, ready to take control should an emergency arise."

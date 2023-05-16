@@ -7,7 +7,7 @@ originalUrl: "https://decrypt.co/140202/ai-chatbot-anthropic-claude-good-evil"
 webUrl: "https://decrypt.co/140202/ai-chatbot-anthropic-claude-good-evil"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Amazon reportedly planning to bring artificial intelligence chatbot to its online storefront"
+    excerpt: "Based on some current job listings, Amazon is now planning to bring the artificial intelligence chatbot ‘ChatGPT’ to its online store."
+    publishedDateTime: 2023-05-16T00:51:00Z
+    webUrl: "https://www.wsbradio.com/news/national/amazon-reportedly-planning-bring-artificial-intelligence-chatbot-its-online-storefront/622LLNSVONGO7I2AIMBPNEYVVA/"
+    ampWebUrl: "https://www.wsbradio.com/news/national/amazon-reportedly-planning-bring-artificial-intelligence-chatbot-its-online-storefront/622LLNSVONGO7I2AIMBPNEYVVA/?outputType=amp"
+    cdnAmpWebUrl: "https://www-wsbradio-com.cdn.ampproject.org/c/s/www.wsbradio.com/news/national/amazon-reportedly-planning-bring-artificial-intelligence-chatbot-its-online-storefront/622LLNSVONGO7I2AIMBPNEYVVA/?outputType=amp"
+    type: article
+    provider:
+      name: WSB Radio
+      domain: wsbradio.com
+    quality: 46
+    images:
+      - url: "https://cmg-cmg-rd-20021-prod.cdn.arcpublishing.com/resizer/qq3l3qcqofAz0mAeMKgEap9_OC0=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/AL24HZ4BTFF7PJGBFTCWRBWTVQ.jpg"
+        width: 1440
+        height: 810
+        isCached: true
   - title: "Google-backed AI startup's chatbot can read novels in seconds"
     excerpt: "In an announcement about the increased capability of Claude, Anthropic claimed that they have raised the context window from 9K to 100K tokens, which corresponds to around 75,000 words. Tokens are the basic units of text or code that a large language model (LLM) AI uses to process and generate language."
     publishedDateTime: 2023-05-12T13:03:00Z
@@ -44,6 +60,6 @@ related:
       domain: tmcnet.com
     quality: 8
 
-secured: "3RM7+TPVzqidjmITY9woo2Nc9o1jh5tIBCXGyxQqHDYRz4UxzUvFbCk25QD5bybBjMne1fxVT6EN87GdxEvZGiU4N4n+Kb1yue4nDtYNeac+GgChIQB9T9LTIqKRoBLega32bP25XzAy5XSmxuqQrdxcwgsolDoeefIG/y6ZTM9ERAT5sJt0jXh2SKeR2tyZIsam8w/E7bvOn4sXBiq2T+WpBjYmSRWXKA63Ycy6yEm3huutyUuHmUDf8sRQyqJ0Z4LhJM98Xeh00oojOOoTrF68ZfN4djd0Tllr5YPFMLkV8O/P2fXkZ3HlhoAcK1ZJ3C7oh1aFdBuUZ7Y1aOK9OAUGxa/2Di3aO2zAbHYgc64=;uUJH74mL19GKW7ypinT8pg=="
+secured: "32fgrrnUptYqC0OFuloMqbV5IzFn+fex6s1pIlEDZewaKiKEn5+lAm5u9UapdAYISbM+KV9ZzKxLwwGOi2vF/BeO8/hgwzioCGhK5Tw3ipLuNXq6DOinkPSCay71oxrt8Vy6cEypbmYlqVh9GEQ7enat1ep0+zJSAxFmjrwlmI/sR9LIfZq3fvdMLchJqMW1n5Zl5H4Prtu4ew8hJ+cmD3USW7Ax5UDi1S3MysV9z8iOGyX/qvkbuMxobwcbpVXnqK+2OXzVT+TQy7qsVg7Lz+LfHD8E+gW0xroaOr8SFXGPM34ri6P3ca4CtYPOOZ7louJsElg+juUUKA2uaiV8HSf0zrXw70FNpUYolUrPIBiggv/zZpcJZ/gJhKy0pi2wRIQnTAnADDQDdkejNAELOp4A6AVDdM8KCmLZZPatX01+6he3VPxO5ruLGY/oY/191KGcKVSNR9Ad2F1wofcSTHOsVpjttAPuUmVeW0eCouLM8cEySPdBFif4s3zOC8GJcZGjfhfrYpcLEwNO4xyyng==;BuSlsXQcgKJn7jNIQ55z0A=="
 ---
 

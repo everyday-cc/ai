@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/ai-act-vote-pushes-eu-ban-on-predictiv
 webUrl: "https://thenextweb.com/news/ai-act-vote-pushes-eu-ban-on-predictive-policing-facial-recognition"
 type: article
 quality: 81
-heat: 121
+heat: 131
 published: true
 
 provider:
@@ -60,6 +60,20 @@ related:
       - url: "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2023/05/11/GettyImages-531573862-scaled.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "UK policing minister pushes for greater use of facial recognition"
+    excerpt: "Chris Philp expressed desire to expand use of controversial technology in closed door meetings, according to report"
+    publishedDateTime: 2023-05-15T23:01:00Z
+    webUrl: "https://www.ft.com/content/b8477e16-349d-442d-8e69-59b328ba9189"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 39
+    images:
+      - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/eu-politics.jpg"
+        width: 619
+        height: 377
         isCached: true
   - title: "EU draft AI Act updated with public facial recognition ban"
     excerpt: "The additions to the AI act include banning the use of facial recognition in public spaces along with predictive policing tools."

@@ -7,7 +7,7 @@ originalUrl: "https://www.techspot.com/news/98653-google-universal-translator-ca
 webUrl: "https://www.techspot.com/news/98653-google-universal-translator-can-change-speaker-language-their.html"
 type: article
 quality: 51
-heat: 61
+heat: 51
 published: false
 
 provider:
@@ -27,24 +27,6 @@ images:
     width: 2533
     height: 1383
     isCached: true
-
-related:
-  - title: "Universal Translator unveiled! Google pushes the boundaries of AI translation technology"
-    excerpt: "The Universal Translator is a testament to the recent advancements in artificial intelligence and machine learning. Leveraging Google's powerful algorithms and extensive language data, the system analyzes the visual and audio components of a video,"
-    publishedDateTime: 2023-05-11T07:09:00Z
-    webUrl: "https://tech.hindustantimes.com/tech/news/universal-translator-unveiled-google-pushes-the-boundaries-of-ai-translation-technology-71683787988893.html"
-    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/universal-translator-unveiled-google-pushes-the-boundaries-of-ai-translation-technology-71683787988893.html"
-    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/universal-translator-unveiled-google-pushes-the-boundaries-of-ai-translation-technology-71683787988893.html"
-    type: article
-    provider:
-      name: Hindustan Times Tech
-      domain: hindustantimes.com
-    quality: 50
-    images:
-      - url: "https://images.hindustantimes.com/tech/htmobile4/P38963/heroimage/156254-v1-google-pixel-6-pro-512gb-mobile-phone-large-1.jpg"
-        width: 300
-        height: 400
-        isCached: true
 
 secured: "H252LqzRdiMvpoeKEeN3smEvPph9UQechkGgibxx09EdRgK6fFuDgwhBy+N/s+pRd4sAnXD+N0DTD4s/AbiDLxiQCln1XDaJ1Rtk9MiDR5q203CBoWA8diOdCx1YrlYQibGHplLZhVGJCJz+tg49uNESzubgmU1kn3D2fyu2b+qfPfQfECrDnBhz+gXWuGJEutEOS4qYkOxqT1gFQs8TFTYjZBxof/fI7ZmlGYvw4SY4EgRlPy1CBVGRTj0KhAoENqACCxGN5tK/zRSNfb+Gsm+V3WLaGTwHJ4upKBkTQgUX2I2TNn7JOii8A4NEGyMuM1I+y1swXcWIPS1ufDNXMYzTN3Zkvvk3BV/K8aCNHTPa5SFEHHsPtQW6VNYGVBt47SnH1awPBZoPhR+4NcCdv9Kz7Viw+/PVbsf/jrpUJleot9C5cNcYJfZ05hD1Hs1TtgBk2MXIknqkQ3r6lacNeViKJlGY7lXH8I6UCiMGXlduOtaQ/z5x8VXFWEY29gpWz9bWxkrtqn2n8MPeKjBDUQ==;6QcAoGZPBHHmq1CLy7sZPA=="
 ---

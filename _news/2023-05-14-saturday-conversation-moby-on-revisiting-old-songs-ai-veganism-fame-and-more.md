@@ -36,6 +36,20 @@ related:
         width: 860
         height: 430
         isCached: true
+  - title: "Amazon’s conversational AI search plans sound like a nightmare"
+    excerpt: "Amazon said in a job listing that it wants to \"re-architect and reinvent the way we do search\" with AI, and we have concerns."
+    publishedDateTime: 2023-05-16T00:14:00Z
+    webUrl: "https://bgr.com/tech/amazons-conversational-ai-search-plans-sound-like-a-nightmare/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 39
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2023/05/Amazon-AI.jpg?quality=82&strip=all"
+        width: 2000
+        height: 1333
+        isCached: true
 
 secured: "MaatTk/aUaSLVAxSoj0pXLEnz8ArWf0DnhhF6xNEeucbDiChDTsrMJ4jmpQsFyhCmjvhKmcAuz+E7anNukGamF6Qct9Jr0hE3fignBYbXV9HP17h49yHGw6wu9KCoEkJGEifdeoO5tqaqMBWAwgLc0BYue1s/YLY2VWxyW4QOk0geDj07kS6s0zhHqEcb+Bo/ZqtX86fjhGSbtx1K7jQJsaMdLV7jM4E0VMEfS7PNc2CWViyYAMJfPslpQKf9G++wqxY61g6x3AsyK1S2pj3CvyDyOfdTcwWs7mtkqGzQP86lBxupLnZlbz9mh7ZRA2FPZ/aN5ljPkft+fTBmLVALXorXcu7PL0Ans803BmvNJOyZT1DJ4UlckiYdu9pnWaWCJXTPJbe2sk+OdSyas53tpCnclgGB9gQ4wI7Yjj5tQviLcg62S3textWk3ePRGP0ua0T2kzWqhC/d57g9+ScOrh0jeYZXJh4vb5E82L1SSUnmzH8goVM6Aw/PhBuaJcsSvBzLya4dQqp/cN8Y49GhA==;kBHZM89zYN03qFd9dVVIjQ=="
 ---

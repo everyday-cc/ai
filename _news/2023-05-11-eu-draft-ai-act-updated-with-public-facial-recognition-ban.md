@@ -65,6 +65,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "UK policing minister pushes for greater use of facial recognition"
+    excerpt: "Chris Philp expressed desire to expand use of controversial technology in closed door meetings, according to report"
+    publishedDateTime: 2023-05-15T23:01:00Z
+    webUrl: "https://www.ft.com/content/b8477e16-349d-442d-8e69-59b328ba9189"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 39
+    images:
+      - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/eu-politics.jpg"
+        width: 619
+        height: 377
+        isCached: true
   - title: "The EU's incoming AI Act is giving off some real I, Robot vibes"
     excerpt: "The AI Act makes a lot of sense considering the state of the artificial intelligence discourse right now, though the first prohibited practice in the original proposal (opens in n"
     publishedDateTime: 2023-05-11T11:37:00Z

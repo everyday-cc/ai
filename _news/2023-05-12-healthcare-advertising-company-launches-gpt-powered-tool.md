@@ -27,10 +27,10 @@ images:
 related:
   - title: "Wurl Launches machine learning-powered advertising platform"
     excerpt: "Looking to help streamers and content publishers attract, engage and retain viewers at massive scale, brings data-driven targeting and measurement to streaming advertising for the first time, Wurl has"
-    publishedDateTime: 2023-05-15T22:55:00Z
-    webUrl: "https://www.rapidtvnews.com/2023051563761/wurl-launches-machine-learning-powered-advertising-platform.html"
-    ampWebUrl: "https://www.rapidtvnews.com/2023051563761/wurl-launches-machine-learning-powered-advertising-platform.amp.html"
-    cdnAmpWebUrl: "https://www-rapidtvnews-com.cdn.ampproject.org/c/s/www.rapidtvnews.com/2023051563761/wurl-launches-machine-learning-powered-advertising-platform.amp.html"
+    publishedDateTime: 2023-05-15T22:58:00Z
+    webUrl: "https://www.rapidtvnews.com/2023051563762/wurl-launches-machine-learning-powered-advertising-platform-2.html"
+    ampWebUrl: "https://www.rapidtvnews.com/2023051563762/wurl-launches-machine-learning-powered-advertising-platform-2.amp.html"
+    cdnAmpWebUrl: "https://www-rapidtvnews-com.cdn.ampproject.org/c/s/www.rapidtvnews.com/2023051563762/wurl-launches-machine-learning-powered-advertising-platform-2.amp.html"
     type: article
     provider:
       name: Rapid TV

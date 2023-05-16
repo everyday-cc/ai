@@ -102,6 +102,22 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Online Search To Make Up Lost Time With AI"
+    excerpt: "Online search, dominated by Google for 25 years, has become as banal as making a phone call, but it could finally be getting a profound reset thanks to artificial intelligence."
+    publishedDateTime: 2023-05-16T01:14:00Z
+    webUrl: "https://www.barrons.com/news/online-search-to-make-up-lost-time-with-ai-8ef011d"
+    ampWebUrl: "https://www.barrons.com/amp/news/online-search-to-make-up-lost-time-with-ai-8ef011d"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/online-search-to-make-up-lost-time-with-ai-8ef011d"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 57
+    images:
+      - url: "https://www.barrons.com/asset/external-media/afp/AFP4218075234965310178666011516179357766924---1.jpg"
+        width: 768
+        height: 482
+        isCached: true
   - title: "Google Is in Too Much of a Hurry on AI Search"
     excerpt: "As AI answers fill our phone screens, what will become of the tech giant’s relationship with advertisers — or the truth?"
     publishedDateTime: 2023-05-11T23:53:00Z

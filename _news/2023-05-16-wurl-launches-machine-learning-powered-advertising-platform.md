@@ -2,11 +2,11 @@
 category: news
 title: "Wurl Launches machine learning-powered advertising platform"
 excerpt: "Looking to help streamers and content publishers attract, engage and retain viewers at massive scale, brings data-driven targeting and measurement to streaming advertising for the first time, Wurl has"
-publishedDateTime: 2023-05-15T22:55:00Z
-originalUrl: "https://www.rapidtvnews.com/2023051563761/wurl-launches-machine-learning-powered-advertising-platform.html"
-webUrl: "https://www.rapidtvnews.com/2023051563761/wurl-launches-machine-learning-powered-advertising-platform.html"
-ampWebUrl: "https://www.rapidtvnews.com/2023051563761/wurl-launches-machine-learning-powered-advertising-platform.amp.html"
-cdnAmpWebUrl: "https://www-rapidtvnews-com.cdn.ampproject.org/c/s/www.rapidtvnews.com/2023051563761/wurl-launches-machine-learning-powered-advertising-platform.amp.html"
+publishedDateTime: 2023-05-15T22:58:00Z
+originalUrl: "https://www.rapidtvnews.com/2023051563762/wurl-launches-machine-learning-powered-advertising-platform-2.html"
+webUrl: "https://www.rapidtvnews.com/2023051563762/wurl-launches-machine-learning-powered-advertising-platform-2.html"
+ampWebUrl: "https://www.rapidtvnews.com/2023051563762/wurl-launches-machine-learning-powered-advertising-platform-2.amp.html"
+cdnAmpWebUrl: "https://www-rapidtvnews-com.cdn.ampproject.org/c/s/www.rapidtvnews.com/2023051563762/wurl-launches-machine-learning-powered-advertising-platform-2.amp.html"
 type: article
 quality: 59
 heat: 69
@@ -42,6 +42,6 @@ related:
         height: 600
         isCached: true
 
-secured: "8wMSWw+HllZ0ogSdrFD969P95s+cn4PsqFAthYI8cFJw4KgdRM8ar5pTdzkqBOoakvgYHsZfvkq9XpQhFtzP6SD781AoYhTdTZwHrmzkALhl0+n4Po8WcwIEyoqnaQx52suMBUyhhWes4uzBTNyZC0dtTNC0KxWwxIWXiwvjzVCG18Sa1OkXHel1LvzmGnqbRh5D1ty9rgJVX4LCBtkb22TAlEphzsVwrkpc7uTRFXtHSozw7DdV3kLU1EiLnUHURB17Dygfs+N9lnKa3JWNA9LLveSWEkH8fQgZh1mzmtBf17M6RRCKg1yww6NZltwJdVDQDOnlWLAk1tcA33XuQfWOLAnsDKHU6YYsWUGsWdI=;LSt4DOBDnj5WnKGdUZgkqw=="
+secured: "2gk64CbZ4CPshc00+C4PlRvMR54l/gXwzG5qLx56hrIJXGLTZWT9rEaOTb6dj/82oeHR0rB3L0BUoNjXgtIbp8GaiyFvXYvFxFcGEiH+bnTHFwEm3Z/YG4aQ7k7Yna4bKNNtiBebMum2ZkxrG6ngI9Dc2cxz02l0dIfDD08UvfodMBY4YMO5gAvInpG2UkWGQjgGMNU1xBZUdzgJSo6Vj9O/ZSr2qe8EfSS7psRcDg95/TI+1XpHf2KHRY01yGMX1nCjIlwCErByH8sH9lgHKjpWJtYKoWwKFKZ7HxAs9H+iNvIgkQHWiNjC5s/9EGzaB4UuLIMRz9Kr3LCqy2zwGzLxe4ofJH62VYukdmA3Mkw=;vBN+2WI9bxVavC0IRMHOtw=="
 ---
 

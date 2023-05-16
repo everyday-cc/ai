@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-05-16-nigeria-election-the-mystery-of-the-altered-results-in-disputed-poll.md",
+      "title": "Nigeria election: The mystery of the altered results in disputed poll",
+      "excerpt": "On 25 February, Nigerians cast their votes at thousands of polling stations across the country. At each polling station, the votes for the party of each candidate were publicly announced and the results sheets taken for collation first at the ward level, then at local government (LGA) centres.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/65163713",
+      "originalUrl": "https://www.bbc.com/news/65163713",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/7854/production/_129440803_tinubu1.png",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/65163713.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/65163713.amp",
+      "publishedDateTime": "2023-05-15T17:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-15-demand-forecasting-at-getir-built-with-amazon-forecast.md",
       "title": "Demand forecasting at Getir built with Amazon Forecast",
       "excerpt": "This is a guest post co-authored by Nafi Ahmet Turgut, Mutlu Polatcan, Pınar Baki, Mehmet İkbal Özmen, Hasan Burak Yel, and Hamza Akyıldız from Getir. Getir is the pioneer of ultrafast grocery delivery. The tech company has revolutionized last-mile delivery with its “groceries in minutes” delivery proposition.",
@@ -1445,51 +1497,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-02-aws-deepracer-when-fun-meets-ml-autonomous-cars-and-upskilling.md",
-      "title": "AWS DeepRacer: When fun meets ML, autonomous cars and upskilling",
-      "excerpt": "There is no cost to join a DeepRacer league, but you pay for training, testing (US$3.50 per hour) and storing (US$0.023 per GB) your ML models on the AWS DeepRacer service.",
-      "sourceUrl": null,
-      "webUrl": "https://www.itworldcanada.com/article/aws-deepracer-when-fun-meets-ml-autonomous-cars-and-upskilling/537953",
-      "originalUrl": "https://www.itworldcanada.com/article/aws-deepracer-when-fun-meets-ml-autonomous-cars-and-upskilling/537953",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.itworldcanada.com/wp-content/uploads/2023/05/Deepracer2.jpg",
-          "width": 2016,
-          "height": 1512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itworldcanada.com/article/aws-deepracer-when-fun-meets-ml-autonomous-cars-and-upskilling/537953?amp=1",
-      "cdnAmpWebUrl": "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/aws-deepracer-when-fun-meets-ml-autonomous-cars-and-upskilling/537953?amp=1",
-      "publishedDateTime": "2023-05-02T07:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT World Canada",
-        "domain": "itworldcanada.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning",
-        "AI in Autos"
       ]
     }
   ],

@@ -101,20 +101,20 @@ related:
         height: 1708
         isCached: true
   - title: "TSA is testing facial recognition at more airports, raising privacy concerns"
-    excerpt: "The agency tasked with securing America’s airports is testing the use of facial recognition technology at a number of airports across the country. The Transportation Safety Administration"
-    publishedDateTime: 2023-05-15T19:31:00Z
-    webUrl: "https://www.denverpost.com/2023/05/15/tsa-is-testing-facial-recognition-at-more-airports-raising-privacy-concerns/"
-    ampWebUrl: "https://www.denverpost.com/2023/05/15/tsa-is-testing-facial-recognition-at-more-airports-raising-privacy-concerns/amp/"
-    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2023/05/15/tsa-is-testing-facial-recognition-at-more-airports-raising-privacy-concerns/amp/"
+    excerpt: "The agency tasked with securing America's airports is testing the use of facial recognition technology at a number of airports across the country."
+    publishedDateTime: 2023-05-16T00:50:00Z
+    webUrl: "https://www.cbsnews.com/detroit/news/are-you-who-you-say-you-are-tsa-tests-facial-recognition-technology-to-boost-airport-security-3/"
+    ampWebUrl: "https://www.cbsnews.com/amp/detroit/news/are-you-who-you-say-you-are-tsa-tests-facial-recognition-technology-to-boost-airport-security-3/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/detroit/news/are-you-who-you-say-you-are-tsa-tests-facial-recognition-technology-to-boost-airport-security-3/"
     type: article
     provider:
-      name: The Denver Post
-      domain: denverpost.com
+      name: CBS News
+      domain: cbsnews.com
     quality: 71
     images:
-      - url: "https://www.denverpost.com/wp-content/uploads/2023/05/Facial_Recognition_Airports_95530.jpg?w=1024&h=682"
-        width: 1024
-        height: 682
+      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/05/16/dd4531ea-7d1e-49f6-b90d-b78e7f190eca/thumbnail/1200x630/7091c6ef48ade2bd9217b5f28d1ec03d/ap23116691095530.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "TSA is testing facial recognition technology at more airports, raising privacy concerns"
     excerpt: "The Transportation Safety Administration says the technology is an effort to more accurately identify the millions of passengers traveling through its airports every day and that passengers can opt out."
@@ -150,15 +150,15 @@ related:
         isCached: true
   - title: "TSA testing facial recognition at more airports, raising privacy concerns"
     excerpt: "Advocates are concerned about how the data is collected, who has access to it and what happens if it gets hacked."
-    publishedDateTime: 2023-05-15T20:34:00Z
-    webUrl: "https://www.pressherald.com/2023/05/15/tsa-testing-facial-recognition-at-more-airports-raising-privacy-concerns/"
+    publishedDateTime: 2023-05-16T01:05:00Z
+    webUrl: "https://www.centralmaine.com/2023/05/15/tsa-testing-facial-recognition-at-more-airports-raising-privacy-concerns/"
     type: article
     provider:
-      name: Portland Press Herald
-      domain: pressherald.com
+      name: Kennebec Journal
+      domain: centralmaine.com
     quality: 53
     images:
-      - url: "https://multifiles.pressherald.com/uploads/sites/4/2023/05/Facial_Recognition_Airports_95530-1-1684182783.jpg"
+      - url: "https://multifiles.pressherald.com/uploads/sites/2/2023/05/Facial_Recognition_Airports_95530-1-1684199078.jpg"
         width: 1000
         height: 667
         isCached: true
@@ -249,6 +249,6 @@ related:
       domain: thedailyrecord.com
     quality: 28
 
-secured: "q2DysK2kOUISVJnIak7rUCP3BoN30Mm9IF87p/+f+LWZPRpedpr56SkamNOpeFwuNJXF0SYrki4NMRQ8t7RfyDu77clSt2wdwlnSlVVfSnVcMBeu3rerIgmdE5ZlKD81oRo91eAX3c4dL5IbN3ia6w9PryNkcXNRgvnC1GkY1/LOFAypL3v6ZWUWPfMrBHtkECHEFOjmB2FWRW2Ugesxd1X0F9m39KU/d5CjAmkIheFjofyMgfmNMM2NAsq6lxkL09PHQXMZ4sDxSNndEydXSKHTsLKJvhz+86admO2gLRJPk+BbQqkjuHTVG1w9G6WA8DDdiOdYBCCHUb2eAHBd2GYEWzalOg3X9/LMu5ofy/w=;85Ca3smjIED4qacX5Wq+7w=="
+secured: "1yhU71QH6pWL1esIPzC1qdKzpZztZKFozfRs4mpQPZq4Vvf3H4MRIIey/sHzxQvWsCePIn4lfheO9aDe9vgOU3Xs7BLMKok5pbcOXJJYRRFx0oYmgooQ/I0ihdlezkuY/SeiQHWKSovf1FIoB2WA4lc7v2hKsxdjRrT6gE4usCvwYCjvIt9ISwA5Vs0KBhomzrFHck+Uh+WQwDVDLqMII1Lc13LH4C1Iq16LwOUzc4qwE2f+YwLF2jKMJ62pAkKNfxxDbLK0gLYQeRB4jRWFxnE+QpVqEQf62TF46olvCWL9Js8X7dOa0Hx0ZO4CeoqSdGKosYnQ2GrbysVxWPIbna6JDfEZofBqRhmaJPNCdtfK4m3njPxyQqmLD9kWVK7GTiE+ROGvzjmuGPsICxJBEGXTitofGgYUrV0/1svktS2Qh8XXc60w9HKSOsRu0tzVIPU4DAWAVsNZaScOlBOrVJUloo8/ufxywH/UpzlOvnkq6GJbmrNJJk2K+92DdjoJxTA3x5Z97p1WzyXmeC5yWA==;d4wKT0oU1HODJ/nyQmWFsA=="
 ---
 

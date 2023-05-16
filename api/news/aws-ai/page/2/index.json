@@ -2,6 +2,51 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-05-02-aws-deepracer-when-fun-meets-ml-autonomous-cars-and-upskilling.md",
+      "title": "AWS DeepRacer: When fun meets ML, autonomous cars and upskilling",
+      "excerpt": "There is no cost to join a DeepRacer league, but you pay for training, testing (US$3.50 per hour) and storing (US$0.023 per GB) your ML models on the AWS DeepRacer service.",
+      "sourceUrl": null,
+      "webUrl": "https://www.itworldcanada.com/article/aws-deepracer-when-fun-meets-ml-autonomous-cars-and-upskilling/537953",
+      "originalUrl": "https://www.itworldcanada.com/article/aws-deepracer-when-fun-meets-ml-autonomous-cars-and-upskilling/537953",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.itworldcanada.com/wp-content/uploads/2023/05/Deepracer2.jpg",
+          "width": 2016,
+          "height": 1512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itworldcanada.com/article/aws-deepracer-when-fun-meets-ml-autonomous-cars-and-upskilling/537953?amp=1",
+      "cdnAmpWebUrl": "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/aws-deepracer-when-fun-meets-ml-autonomous-cars-and-upskilling/537953?amp=1",
+      "publishedDateTime": "2023-05-02T07:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT World Canada",
+        "domain": "itworldcanada.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2023-05-02-best-early-amazon-prime-day-2023-furniture-deals.md",
       "title": "Best early Amazon Prime Day 2023 furniture deals",
       "excerpt": "If you've been thinking about redecorating, you're in luck -- there are tons of deals on top-rated, great-looking furniture right now on Amazon. And that's even ahead of Amazon Prime Day 2023 ...",
@@ -1331,59 +1376,6 @@
         "AWS AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-04-20-artificial-intelligence-signs-of-acceleration-in-2023.md",
-      "title": "Artificial Intelligence: Signs of Acceleration in 2023",
-      "excerpt": "One final investment area that I’ll mention, that’s core to setting Amazon up to invent in every area of our business for many decades to come,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/artificial-intelligence-signs-of-acceleration-in-2023-1032247068",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/artificial-intelligence-signs-of-acceleration-in-2023-1032247068",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.wisdomtree.com/investments/-/media/us-media-files/blog/blog-images-2/2023/april/artificial-intelligence-signs-of-acceleration-in-2023/figure-1.jpg",
-          "width": 768,
-          "height": 462,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-20T01:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

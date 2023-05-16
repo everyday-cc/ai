@@ -101,6 +101,22 @@ related:
         width: 3000
         height: 1688
         isCached: true
+  - title: "Lawmakers work to regulate AI at the state level"
+    excerpt: "AI tools like Chat GPT can answer questions and summarize research. Now lawmakers are working to regulate how AI is used at the state level. “With the launch of Chat GPT and other generative forms of AI, it has really come to the forefront. And people ..."
+    publishedDateTime: 2023-05-16T00:19:00Z
+    webUrl: "https://www.wfsb.com/2023/05/15/lawmakers-work-regulate-ai-state-level/"
+    ampWebUrl: "https://www.wfsb.com/2023/05/15/lawmakers-work-regulate-ai-state-level/?outputType=amp"
+    cdnAmpWebUrl: "https://www-wfsb-com.cdn.ampproject.org/c/s/www.wfsb.com/2023/05/15/lawmakers-work-regulate-ai-state-level/?outputType=amp"
+    type: article
+    provider:
+      name: WFSB
+      domain: wfsb.com
+    quality: 59
+    images:
+      - url: "https://gray-wfsb-prod.cdn.arcpublishing.com/resizer/XvYP69UfJwT8rUmswVDgqIG9Zck=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/BXLAK2IJMFHQFJJUMPSRLJGVN4.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Taming AI to the benefit of humans"
     excerpt: "Previous sci-fi movies featuring AI often portray evil-minded enemies set on destroying humanity, such as The Terminator, The Matrix and Blade Runner. Experts, including late British theoretical physicist Stephen Hawking and Tesla CEO Elon Musk,"
     publishedDateTime: 2023-05-15T02:58:00Z
