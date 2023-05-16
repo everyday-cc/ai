@@ -78,22 +78,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Here is how Europe is pushing to regulate artificial intelligence as ChatGPT rapidly emerges"
-    excerpt: "The European Union voted to strengthen regulations around artificial intelligence. Here is a look into how chatbots such as ChatGPT could be regulated in the continent."
-    publishedDateTime: 2023-05-11T13:51:00Z
-    webUrl: "https://www.foxnews.com/world/europe-pushing-regulate-artificial-intelligence-chatgpt-rapidly-emerges"
-    ampWebUrl: "https://www.foxnews.com/world/europe-pushing-regulate-artificial-intelligence-chatgpt-rapidly-emerges.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/world/europe-pushing-regulate-artificial-intelligence-chatgpt-rapidly-emerges.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 76
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/937be039-5093-4a38-8920-5ec96c812149/b1154edd-fccf-4619-a5be-9436eb80ad9d/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Dr. ChatGPT: A guide to generative AI in healthcare"
     excerpt: "ChatGPT is a public-facing generative AI text application from OpenAI. OpenAI has developed other generative AI applications available for paying customers and is working with Microsoft, which made a reported $100 billion investment in the company. Other big tech firms such as Google and Meta have launched their own generative AI tools."
     publishedDateTime: 2023-05-15T10:00:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.devdiscourse.com/article/technology/2452129-the-top-fint
 cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2452129-the-top-fintech-disruptions-shaping-the-future-of-finance?amp"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: devdiscourse
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tricolor Wins Fintech Nexus Award for Excellence in Financial Inclusion"
-    excerpt: "Tricolor Holdings today announced that it has been named the Fintech Nexus Award winner for Excellence in Financial Inclusion. Given to the financial services company making the biggest difference in expanding access to financial services for the underserved population,"
-    publishedDateTime: 2023-05-11T13:15:00Z
-    webUrl: "https://financialit.net/news/treasury/tricolor-wins-fintech-nexus-award-excellence-financial-inclusion"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 24
-    images:
-      - url: "https://financialit.net/sites/default/files/tricolor_3.png"
-        width: 1366
-        height: 768
-        isCached: true
   - title: "Fintech or TechFins: Two Sides of the same coin of Bank Digital Transformation Space"
     excerpt: "TechFins support the end to end Digital Transformation of a process from Origination to Credit underwriting to disbursement and also servicing."
     publishedDateTime: 2023-05-15T11:32:00Z

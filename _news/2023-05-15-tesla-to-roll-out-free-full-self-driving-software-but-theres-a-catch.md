@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Tesla releases a new Full Self-Driving Beta update with performance improvements"
-    excerpt: "Tesla has started to release a new Full Self-Driving Beta update with some performance improvements – although it doesn’t"
-    publishedDateTime: 2023-05-11T14:08:00Z
-    webUrl: "https://electrek.co/2023/05/11/tesla-full-self-driving-beta-update-v114/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 64
-    images:
-      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2020/10/Tesla-Full-Self-Driving-Beta-Demo-e1603460621557.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Tesla To Roll Out Free One-Month Full Self-Driving Trial Once It’s “Super Smooth”"
     excerpt: "Elon Musk tweeted that Tesla will offer free FSD trials for users in North America and, eventually, the rest of the world"
     publishedDateTime: 2023-05-15T00:19:00Z

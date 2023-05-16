@@ -25,19 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Startup Competition Secures ML Systems, Vulnerabilities in Automation"
-    excerpt: "RSA's Innovation Sandbox 2023 focused on the software supply chain, as well as attack surfaces exposed by generative AI, ML systems, and APIs."
-    publishedDateTime: 2023-05-11T17:01:00Z
-    webUrl: "https://www.darkreading.com/vulnerabilities-threats/rsa-startup-competition-secures-ml-systems-vulnerabilities-in-new-automation"
+  - title: "Future Of Learning - Online Innovation For A Career In Tech"
+    excerpt: "Has Computer Science replaced Business as the ‘it’ school on campus? Both provide degrees offering great careerss, competitive salaries and transferable skills."
+    publishedDateTime: 2023-05-16T05:59:00Z
+    webUrl: "https://www.forbes.com/sites/mattsymonds/2023/05/16/future-of-learningonline-innovation-for-a-career-in-tech/"
+    ampWebUrl: "https://www.forbes.com/sites/mattsymonds/2023/05/16/future-of-learningonline-innovation-for-a-career-in-tech/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mattsymonds/2023/05/16/future-of-learningonline-innovation-for-a-career-in-tech/amp/"
     type: article
     provider:
-      name: Dark Reading
-      domain: darkreading.com
-    quality: 39
+      name: Forbes
+      domain: forbes.com
+    quality: 74
     images:
-      - url: "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt8a78cbef3e38cce0/645bb5bd5c33ab612807ed8d/Startup_rocket_Ink_Drop_Alamy.jpg"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6462a8bc2bb080df5bc2ff1a/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 800
+        height: 675
         isCached: true
 
 secured: "4BvcB+PIhALzOp9p9yIlZkWNSMkrf74TA6LoIobankj0HQexAJfByl8Zx6cEbyOZ/D64YRfsLM79MlFQBm8gDO6MkRjDg70pakQLevmwF85IFBO7/EAyOD2vx4tnF/XmNNS9aW3mJdbANQbMejldUQ8rhBbUNBwhnhVWQbAOhc2xp9L48CBVLlYL8hmZLMlUmc7bEQVYgp2hjNBP1pLM3SshHXaFtnmgU22w7ynlMFsUY8VpRTBTVnhC3vZcMBZRmMkoY7xzoo/botIF5R6Bm6LvDbx/eJ9bK0J5HuZSJIOJs/5XqIqkz26tV+tKyasVHGMrcNwIMFGCg70Jk6sjPvCRPiUbS4LTl5q0m+68AsM=;IWXCF6jqDHnfxw5PLr7PVA=="

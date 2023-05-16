@@ -7,7 +7,7 @@ originalUrl: "https://www.businesswire.com/news/home/20230511005717/en/ AWS-Ann
 webUrl: "https://www.businesswire.com/news/home/20230511005717/en/ AWS-Announces-Amazon-Aurora-IO-Optimized"
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -17,17 +17,6 @@ provider:
 topics:
   - AWS AI
   - AI
-
-related:
-  - title: "100 things we announced at I/O 2023"
-    excerpt: "Google I/O 2023 was filled with news and launches — here are 100 things announced at I/O."
-    publishedDateTime: 2023-05-11T14:00:00Z
-    webUrl: "https://blog.google/technology/developers/google-io-2023-100-announcements/"
-    type: article
-    provider:
-      name: Google
-      domain: blog.google
-    quality: 54
 
 secured: "9cq0qjrwYgXFJvt29eoIWZhtXwUc1842Jv9Z6JTU7DkTwTpFZJxthKCQdUvlX3AsPt07cJMImgwSEPHishV2m6K16sER/Kfa6SKBzJlO/+IGE3rLpM6R2kJmUwGIQ4Y2T/NFcrxcXpB//p0BNlOnojzlsTJK5K6Ukb4z2EyC41KhB5MByqkz9+/dTDUwgcMagtlgVuBjjGap+MFzJ+Ci7jAp3cc1hk9u0xJPlBPt8xDSMEFAsatj3zl8SX5LFPKsBJScgkFncg0ZT2llTdUEgbqJRZ44ZRL5hw6ZkNXKRK93XNiMJrSkBo2wZCJx26zNHZAjcoQVgV1Ls1jmjMW/UQXMbW69MG25h2gS2GzdkPE=;yzO6/QKo8SQvnDHHPnhkOQ=="
 ---

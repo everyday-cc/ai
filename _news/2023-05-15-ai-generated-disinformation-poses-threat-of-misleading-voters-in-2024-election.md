@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Informatica Announces Expanded Industry Focus and Zero Cost Data Pipelines and Transformations with AWS"
-    excerpt: "Informatica, an enterprise cloud data management leader, built upon their years-long relationship with Amazon Web"
-    publishedDateTime: 2023-05-11T14:59:00Z
-    webUrl: "https://www.datanami.com/this-just-in/informatica-announces-expanded-industry-focus-and-zero-cost-data-pipelines-and-transformations-with-aws/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 23
-    images:
-      - url: "https://www.datanami.com/wp-content/uploads/2023/02/AI-North-America23.png"
-        width: 1664
-        height: 674
-        isCached: true
 
 secured: "sKlZxXn8TFFoXtWZxD/TOgHeO7+N2xejYhQVIOwCRorQXW7ubhrTrrmOIj1rQ/yV/ovTUFbr+NK/i+gBXpOjeb43FZHNH2FzBjTeuRDd7TJJzXWLkGQLWhGrZDyKrSrUjK7QwxPC+63aeH6lGe3fdD+ikjiR+QJKr248E2I4I12n5nn44Ik2jVJyHZSCegLsRI/JzcBJ+j1SzyxIDtHBFTdlRWHVLo0dPoFkVigLorFyTlFOPAcjgTeF3ig7wAh9a+3Oizp9zsZfcr5CTBOP/zVGLteFTquQH4/uxOeZH1lj6cKFfHasjbb/n4UMUay2FcNZ85hQZimUqGVkmV1TM6a5Q0LPsvIe89WCyZyOcCN8n6hka/cWsBvTqckDG8PePWEFiaUZcLWopZK48CpbfcGHyaLCMiHrFh3ZkxKglq1aW8CpiYMoX5JRSLFl6jCJ9wyNtYfV9yuOh0iJSfbr/tkjuIgsuALmxYa/dVzY7aBZjH2xyKcWQCfLYUowCxA3GwNWc8A1m8JF4IRtdQ5V8w==;oeaTO9O0ts1pw2X3dDmJgA=="
 ---

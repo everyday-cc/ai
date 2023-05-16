@@ -25,64 +25,23 @@ images:
     isCached: true
 
 related:
-  - title: "Catching bad content in the age of AI"
-    excerpt: "Why haven’t tech companies improved at content moderation? This article is from The Technocrat, MIT Technology Review's weekly tech policy newsletter about power, politics, and Silicon Valley. To receive it in your inbox every Friday,"
-    publishedDateTime: 2023-05-15T10:00:00Z
-    webUrl: "https://www.technologyreview.com/2023/05/15/1073019/catching-bad-content-in-the-age-of-ai/"
-    ampWebUrl: "https://www.technologyreview.com/2023/05/15/1073019/catching-bad-content-in-the-age-of-ai/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/05/15/1073019/catching-bad-content-in-the-age-of-ai/amp/"
+  - title: "AI: A threat to humanity?"
+    excerpt: "Also important is to involve a diverse range of stakeholders in the development and deployment of AI, including experts in the field such as ethics, sociology, law, and other disciplines who may be disproportionately affected by the technology. Finally ..."
+    publishedDateTime: 2023-05-15T17:41:00Z
+    webUrl: "https://www.philstar.com/the-freeman/opinion/2023/05/16/2266670/ai-threat-humanity"
+    ampWebUrl: "https://www.philstar.com/the-freeman/opinion/2023/05/16/2266670/ai-threat-humanity/amp/"
+    cdnAmpWebUrl: "https://www-philstar-com.cdn.ampproject.org/c/s/www.philstar.com/the-freeman/opinion/2023/05/16/2266670/ai-threat-humanity/amp/"
     type: article
     provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
+      name: philstar.com
+      domain: philstar.com
     quality: 59
     images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/05/hi-wire-netA.jpeg?w=3000"
-        width: 3000
-        height: 1688
-        isCached: true
-  - title: "Proposed Regulatory Oversight on the Emerging Use of Artificial Intelligence in Digital Health"
-    excerpt: "Recent months have seen a heightened interest in artificial intelligence (“AI”)-based technology solutions. Although AI is derived from neural networks that date back to the 1940s, new tec"
-    publishedDateTime: 2023-05-14T14:43:00Z
-    webUrl: "https://www.natlawreview.com/article/proposed-regulatory-oversight-emerging-use-artificial-intelligence-digital-health"
-    ampWebUrl: "https://www.natlawreview.com/article/proposed-regulatory-oversight-emerging-use-artificial-intelligence-digital-health?amp"
-    cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/proposed-regulatory-oversight-emerging-use-artificial-intelligence-digital-health?amp"
-    type: article
-    provider:
-      name: The National Law Review
-      domain: natlawreview.com
-    quality: 49
-    images:
-      - url: "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png"
-        width: 1426
-        height: 808
-        isCached: true
-  - title: "The Artificial Intelligence Driving Travel Innovations"
-    excerpt: "AI news drove headlines this week, from Expedia, to Google, and even to Skift. Click through for a summary of the top stories."
-    publishedDateTime: 2023-05-13T16:00:00Z
-    webUrl: "https://skift.com/2023/05/13/the-artificial-intelligence-driving-travel-innovations/"
-    ampWebUrl: "https://skift.com/2023/05/13/the-artificial-intelligence-driving-travel-innovations/amp/"
-    cdnAmpWebUrl: "https://skift-com.cdn.ampproject.org/c/s/skift.com/2023/05/13/the-artificial-intelligence-driving-travel-innovations/amp/"
-    type: article
-    provider:
-      name: Skift
-      domain: skift.com
-    quality: 39
-  - title: "Approaching artificial intelligence: How Purdue is leading the research and advancement of AI technologies"
-    excerpt: "With the programs, research and expertise highlighted below, Purdue is guiding the advancement of artificial intelligence. If you have any questions about Purdue’s work in AI or would like to speak to a Purdue expert, contact Brian Huchel, bhuchel@purdue ..."
-    publishedDateTime: 2023-05-15T14:16:00Z
-    webUrl: "https://purdue.edu/newsroom/releases/2023/Q2/approaching-artificial-intelligence-how-purdue-is-leading-the-research-and-advancement-of-ai-technologies.html"
-    type: article
-    provider:
-      name: Purdue University
-      domain: purdue.edu
-    quality: 36
-    images:
-      - url: "https://www.purdue.edu/uns/images/2023/agriculture-aiOG.jpg"
-        width: 800
-        height: 450
+      - url: "https://media.philstar.com/photos/2023/05/11/sm-summer-deals-lead_2023-05-11_13-40-57263_thumbnail.jpg"
+        width: 685
+        height: 391
         isCached: true
 
-secured: "NJ7fe2lWUCdGiohQbJuT8s8fGuI2yvd4OZjRiC/bXnAcJnIoAKtcM0aoOH+sy7La5y6yRiCB4cR+4MFvbyWm1lEcJvywEoqupUR3dwqX9oQyQ2S4C2JAMLMG6vgodUbOKKgl4gYMZSZu9xfb+pJAZi6Z1b8eJlzFJ3VgtfFZbBx2Pn6pLMucslmGm1ij6OwxLtc3a9gVueMYA6zh0VQ/6naUCBqY/zWad9X94N75b2ZeyX+fLdiVwzsYWPnnTnhWAXCHpJtSJtxG48Wily6Un6HW8Hqw8JKD8ybSsm1pIVYsJFMN8nAWRP/Fw9FGzvfRyLTVL8UFbqt9kfZTdAaiP7wW1ho5r4eG0l8JZblGdtw=;vCB0bF6MVOl34Qr4JOZZKg=="
+secured: "TM0D/OXR+i/gSrJODQp/lVtiueQggypU7WmX4BsnuMoxdXo739jRwS7l79v4W/q2UmOJiPZ7eKBWFv7ZwcVHSAJXPEicOAjE+66RPFThExmUiUQiwQQP6Agc82FzrKms7PCUtznPKermMF9s1mEuNaHRIKip03xavHZHmoXbsKvKOo4uhtwmRAEdfYPiFZk9kZuLtUWZTzjl1OOQPPtR4DurtsYKYrI+uGKOqd23ZzLxoBBtfgfdqO0TyipDIwVKI46krBx2z3WDKNxYj5jzLAhB8J9Rd/JLArs7HcBcsIuioC7Gm3j8/PBl0JesxfVFEP1Qq1UCkZXzNmbMQc1TQFPY2M58jBRh0frkTnD88oYMm4wiKFRBX6FSsNxtMquoUq+Pc8cDYp7I4j9+r1D21v5v0Ck6Mjh8q86S3o3/m5luTGEYpnojKkGMPdqaqGH449dBgHKujSua5/PIPm3vfXm7I4Li0biEiWVrrlANInsbTp9OWffGjKIxzxRg0D1JaLmPS8X5OB+qyewbaXjDJw==;bKz82MmpLZA339UI2bXWAQ=="
 ---
 

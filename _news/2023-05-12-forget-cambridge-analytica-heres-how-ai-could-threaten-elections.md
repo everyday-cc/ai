@@ -50,15 +50,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 57
-  - title: "Boston’s Leading AI Image Analytics Startup Named to Leading 100 List of 2023"
-    excerpt: "The Lead has announced The Leading 100 of 2023, the highly anticipated annual research list recognizing the innovative tech startups driving the future of brand-to-consumer, … Continue Reading →"
-    publishedDateTime: 2023-05-11T13:10:00Z
-    webUrl: "https://multichannelmerchant.com/press-releases/bostons-leading-ai-image-analytics-startup-named-to-leading-100-list-of-2023/"
-    type: article
-    provider:
-      name: Multichannel Merchant
-      domain: multichannelmerchant.com
-    quality: 14
 
 secured: "izHwLQ6whWqCZL2cvhjpA6ughAcl//D5OdZ0GHIPlH5INaF37la1OfMeEC7/kxAI/rmTUT3EuTZMNN458PKB3+pb3QeAMvtOwTxEXYBCADXKx/frTo11nf4qwXVBl5enBgKmZDtBSxOs/sipIfKldqxWnaJMYxr2zaofIVvTIZtUhZY3llrsJvRMfrmHMvHy5tu+HP2iCsB6s4h1EBo/odbQ1TSEKPoE/JRFMF0J9DDoH1PrrwiZ7w4j+XP7q+RzOLRZYkaIDi1fCDpkXf5DvrQY5+FFBuD77n4dpy9CS78nPUezVEYYbpl+1Zss5dyDNQU6M7uFFA3+bNKo94Wd+6dhc9E0RtNxbwdX1/LqxvA=;9ZLXId7oEbZmnIj+VSnEcA=="
 ---

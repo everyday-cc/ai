@@ -6,8 +6,8 @@ publishedDateTime: 2023-05-16T05:44:00Z
 originalUrl: "https://www.ipsnews.net/2023/05/countries-ready-ai-can-ensure-ethical-responsible-adoption/"
 webUrl: "https://www.ipsnews.net/2023/05/countries-ready-ai-can-ensure-ethical-responsible-adoption/"
 type: article
-quality: 50
-heat: 60
+quality: 52
+heat: 62
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://www.ipsnews.net/Library/2023/05/Countries-Ready-for-AI_.jpg"
@@ -40,6 +41,6 @@ related:
         height: 929
         isCached: true
 
-secured: "1zKLkmHxYzHSW6WHvTO+tvaoL9QQPSmvBBObPFaZ5LgvBBBvdiFpbNdtVwuJY4jgbzGo+vNnRxtUSi8g1jSRewJ/Z1mhgFDI+HbEoMe0iQon+hUBB3tDThT/LFqD9h2AH/Vsy9cPdEl/tO+wZ1U/rjWxQ54AJAdA4crEkzQXT0HMMX3oBbDHuo8rjf9OwOQfayqIs5qHHuqVfsKlQvMdIHwtKIaiF8JgzabUrAGKVIyEAZTNGpwz3nYL5GQoDcWBtlNsojThCURXrxe7dloGoR5ic4CCphDeyx2DhSyUWQkh8dGGiySwiiHnm3PJgmI4R89ntsYewSauxkVOyJcpTPzq3y8m46KWuXIQt0NqTtQ=;4BnFh+0MWISq/R+a0SZIwQ=="
+secured: "QZenH2kw1tXyt7z6dWb3vAzKuBZ487WCZvmuLxPFK5VIQzNEhbxRP/XaT3vzeeThb+9/adgsGTbcTQBDSZLb3ycC4Fo71MBWaAqj6LMeyozKoM/ZJWyAr6ix8nUoj1c7y0bidPyOr3cnj/BdEv1quDgk382huRikbQDVHFE5f56Q/PnhpZuctqrv89pq1oVHAiwZWmA+yud0FO2dmdNZGUCxWSuuYqmCThrzBZ0OQpo7KtH7JXUQNiQ5MaiUTVe/NiK/doGVU0oRauEKh6y0VfaYmCqpYRBcuanQuN7LLe1c8CcKkibum0KNOqt5QhXt5KxZVF7TN328xcV6wAM8lHohx18L9gyHpu40Skk9dlyGpsLC9zMRkmSUV52W/S5T3LD2vsXXcZFAd9C7TORlEC0UI9InlPHgfcW99v6fCaEOeUwL9ziNGKw5pVzxbVMrnYO6R1PPIsHqoK/xgxhHdZ2VqA6VriEuxHvEVDZDuTxHjYXghDTFcqQMPuzxTSbpR6gL7ZxA3VN6YImuqLy3Bg==;3qx8BI6s0cVcoNWLpAIWxw=="
 ---
 

@@ -2,6 +2,212 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-05-15-congress-is-clearly-behind-on-ai-and-needs-bipartisan-effort-to-create-regulations-lawmakers-weigh-in.md",
+      "title": "'Congress is clearly behind on AI' and needs bipartisan effort to create regulations: Lawmakers weigh in",
+      "excerpt": "Foreign allies and adversaries alike have pushed AI regulations, but Congress has stalled. Lawmakers told Fox News bipartisan efforts are needed to regulate the space.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/politics/congress-clearly-behind-ai-needs-bipartisan-effort-create-regulations-lawmakers-weigh",
+      "originalUrl": "https://www.foxnews.com/politics/congress-clearly-behind-ai-needs-bipartisan-effort-create-regulations-lawmakers-weigh",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f97a7577-9354-4bc3-9bb7-afb87838f734/c9cc4df0-e932-48e8-8170-670b150180ac/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/congress-clearly-behind-ai-needs-bipartisan-effort-create-regulations-lawmakers-weigh.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/congress-clearly-behind-ai-needs-bipartisan-effort-create-regulations-lawmakers-weigh.amp",
+      "publishedDateTime": "2023-05-15T09:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-15-unlock-productivity-with-advanced-generative-ai.md",
+      "title": "Unlock productivity with advanced generative AI",
+      "excerpt": "Learn how we are unlocking new levels of productivity by introducing advanced generative AI into Watson Assistant use cases.\nThe post Unlock productivity with advanced generative AI appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/unlock-productivity-with-advanced-generative-ai/",
+      "originalUrl": "https://www.ibm.com/blog/unlock-productivity-with-advanced-generative-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 259,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/05/watson-assistant-ai-for-customer-service-create.Original.jpg",
+          "width": 1217,
+          "height": 685,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-15T09:44:03-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-15-2030-machine-learning-operations-mlops-market-growth-future-prospects-and-competitive-analysis.md",
+      "title": "2030, Machine Learning Operations (MLOps) Market Growth | Future Prospects and Competitive Analysis",
+      "excerpt": "The \"Machine Learning Operations (MLOps) Market\" is one of the sectors that is expanding the fastest, thus it is",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/2030-machine-learning-operations-mlops-market-growth-future-prospects-and-competitive-analysis-2023-05-15",
+      "originalUrl": "https://www.marketwatch.com/press-release/2030-machine-learning-operations-mlops-market-growth-future-prospects-and-competitive-analysis-2023-05-15",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-15T09:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-15-ai-startup-together-raises-funding-for-open-source-ai-and-cloud-platform.md",
+      "title": "AI startup Together raises funding for open-source AI and cloud platform",
+      "excerpt": "Together means to establish open source as the default way to incorporate AI and create models that outperform closed models in the cloud.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/ai-startup-together-raises-funding-for-open-source-ai-and-cloud-platform/",
+      "originalUrl": "https://venturebeat.com/ai/ai-startup-together-raises-funding-for-open-source-ai-and-cloud-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-478634946.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 864,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/ai-startup-together-raises-funding-for-open-source-ai-and-cloud-platform/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/ai-startup-together-raises-funding-for-open-source-ai-and-cloud-platform/amp/",
+      "publishedDateTime": "2023-05-15T09:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-15-leveraging-partnerships-technology-and-design-to-enhance-water-quality-through-the-inaugural-aquality-app.md",
       "title": "Leveraging partnerships, technology, and design to enhance water quality through the inaugural Aquality app",
       "excerpt": "Summary:&#160; Maintaining good water quality is crucial for the overall well-being of people and the environment. Yet, Our World in Data reports that one in four people do not have access to safe drinking water. The world is making progress on clean water and sanitation, but is still far behind its",
@@ -405,7 +611,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2023/05/15/combining-generative-ai-chatgpt-into-handguns-triggers-fiery-response/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 261,
+      "heat": 251,
       "tags": null,
       "images": [
         {
@@ -498,92 +704,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-15-the-top-fintech-disruptions-shaping-the-future-of-finance.md",
-      "title": "The Top FinTech Disruptions: Shaping the Future of Finance",
-      "excerpt": "How Digital Payments, Peer-to-Peer Lending, Robo-Advisors, Blockchain, InsurTech, Open Banking, RegTech, and More Are Shaping the Future of Finance, and the Importance of Collaboration, Regulation, and Balancing Innovation with Consumer Protection for a Secure and Inclusive Financial Ecosystem.",
-      "sourceUrl": null,
-      "webUrl": "https://www.devdiscourse.com/article/technology/2452129-the-top-fintech-disruptions-shaping-the-future-of-finance",
-      "originalUrl": "https://www.devdiscourse.com/article/technology/2452129-the-top-fintech-disruptions-shaping-the-future-of-finance",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/15_05_2023_15_36_18_8718071.png?width=1280",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.devdiscourse.com/article/technology/2452129-the-top-fintech-disruptions-shaping-the-future-of-finance?amp",
-      "cdnAmpWebUrl": "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2452129-the-top-fintech-disruptions-shaping-the-future-of-finance?amp",
-      "publishedDateTime": "2023-05-15T03:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "devdiscourse",
-        "domain": "devdiscourse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-15-catching-bad-content-in-the-age-of-ai.md",
-      "title": "Catching bad content in the age of AI",
-      "excerpt": "Why haven’t tech companies improved at content moderation? This article is from The Technocrat, MIT Technology Review's weekly tech policy newsletter about power, politics, and Silicon Valley. To receive it in your inbox every Friday,",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2023/05/15/1073019/catching-bad-content-in-the-age-of-ai/",
-      "originalUrl": "https://www.technologyreview.com/2023/05/15/1073019/catching-bad-content-in-the-age-of-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2023/05/hi-wire-netA.jpeg?w=3000",
-          "width": 3000,
-          "height": 1688,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2023/05/15/1073019/catching-bad-content-in-the-age-of-ai/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/05/15/1073019/catching-bad-content-in-the-age-of-ai/amp/",
-      "publishedDateTime": "2023-05-15T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     },
@@ -909,7 +1029,7 @@
       "originalUrl": "https://newatlas.com/health-wellbeing/code-acs-machine-learning-algorithm-accurate-heart-attack-diagnosis",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 78,
       "tags": null,
       "images": [
         {
@@ -1064,7 +1184,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/self-driving-or-driverless-cars-market-upto-2030-2023-05-14",
       "featuredContent": null,
       "highlight": null,
-      "heat": 169,
+      "heat": 159,
       "tags": null,
       "images": [
         {
@@ -1137,91 +1257,6 @@
       "provider": {
         "name": "NBC News",
         "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-14-revolutionary-changes-by-artificial-intelligence.md",
-      "title": "Revolutionary changes by artificial intelligence",
-      "excerpt": "The world is changing rapidly, and our technological advancement is changing similarly. Keeping in step with the advancing world, we have brought AI-based solutions for businesses. The accurate usage of data annotation and data",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/blogs/voices/revolutionary-changes-by-artificial-intelligence/?source=app&frmapp=yes",
-      "originalUrl": "https://timesofindia.indiatimes.com/blogs/voices/revolutionary-changes-by-artificial-intelligence/?source=app&frmapp=yes",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2023/03/Manish-Mohta.JPEG-1.jpeg",
-          "width": 1280,
-          "height": 851,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://timesofindia.indiatimes.com/blogs/voices/revolutionary-changes-by-artificial-intelligence/?source=app&frmapp=yes",
-      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/revolutionary-changes-by-artificial-intelligence/?source=app&frmapp=yes",
-      "publishedDateTime": "2023-05-14T08:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-14-ai-presents-political-peril-for-2024-with-threat-to-mislead-voters.md",
-      "title": "AI presents political peril for 2024 with threat to mislead voters",
-      "excerpt": "Thanks to recent advances in artificial intelligence, tools that can create lifelike photos, video and audio are now cheap and readily available",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Business/wireStory/ai-presents-political-peril-2024-threat-mislead-voters-99313712",
-      "originalUrl": "https://abcnews.go.com/Business/wireStory/ai-presents-political-peril-2024-threat-mislead-voters-99313712",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/US/wirestory_59fb51002661ac5290089060b3ae39a0_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Business/wireStory/ai-presents-political-peril-2024-threat-mislead-voters-99313712",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/ai-presents-political-peril-2024-threat-mislead-voters-99313712",
-      "publishedDateTime": "2023-05-14T08:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -1,29 +1,29 @@
 ---
 category: news
 title: "TSA is testing facial recognition at more airports, raising privacy concerns"
-excerpt: "The agency tasked with securing America's airports is testing the use of facial recognition technology at a number of airports across the country."
-publishedDateTime: 2023-05-16T00:50:00Z
-originalUrl: "https://www.cbsnews.com/detroit/news/are-you-who-you-say-you-are-tsa-tests-facial-recognition-technology-to-boost-airport-security-3/"
-webUrl: "https://www.cbsnews.com/detroit/news/are-you-who-you-say-you-are-tsa-tests-facial-recognition-technology-to-boost-airport-security-3/"
-ampWebUrl: "https://www.cbsnews.com/amp/detroit/news/are-you-who-you-say-you-are-tsa-tests-facial-recognition-technology-to-boost-airport-security-3/"
-cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/detroit/news/are-you-who-you-say-you-are-tsa-tests-facial-recognition-technology-to-boost-airport-security-3/"
+excerpt: "The agency tasked with securing America's airports is testing the use of facial recognition technology at a number of airports across the country"
+publishedDateTime: 2023-05-15T20:16:00Z
+originalUrl: "https://abcnews.go.com/Technology/wireStory/tsa-tests-facial-recognition-technology-boost-airport-security-99322644"
+webUrl: "https://abcnews.go.com/Technology/wireStory/tsa-tests-facial-recognition-technology-boost-airport-security-99322644"
+ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/tsa-tests-facial-recognition-technology-boost-airport-security-99322644"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/tsa-tests-facial-recognition-technology-boost-airport-security-99322644"
 type: article
 quality: 71
 heat: -1
 published: false
 
 provider:
-  name: CBS News
-  domain: cbsnews.com
+  name: ABC
+  domain: abcnews.go.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/05/16/dd4531ea-7d1e-49f6-b90d-b78e7f190eca/thumbnail/1200x630/7091c6ef48ade2bd9217b5f28d1ec03d/ap23116691095530.jpg"
-    width: 1200
-    height: 630
+  - url: "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -85,20 +85,20 @@ related:
       domain: nbcnews.com
     quality: 81
   - title: "Are you who you say you are? TSA tests facial recognition technology to boost airport security"
-    excerpt: "The agency tasked with securing America's airports is testing the use of facial recognition technology at a number of airports across the country"
-    publishedDateTime: 2023-05-15T06:17:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/tsa-tests-facial-recognition-technology-boost-airport-security-99322639"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/tsa-tests-facial-recognition-technology-boost-airport-security-99322639"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/tsa-tests-facial-recognition-technology-boost-airport-security-99322639"
+    excerpt: "TSA says the goal of the pilot is to improve the accuracy of the identity verification without slowing down the speed at which passengers pass through the checkpoints — a key issue for an agency that sees 2."
+    publishedDateTime: 2023-05-15T10:57:00Z
+    webUrl: "https://www.cbsnews.com/baltimore/news/are-you-who-you-say-you-are-tsa-tests-facial-recognition-technology-to-boost-airport-security/"
+    ampWebUrl: "https://www.cbsnews.com/amp/baltimore/news/are-you-who-you-say-you-are-tsa-tests-facial-recognition-technology-to-boost-airport-security/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/baltimore/news/are-you-who-you-say-you-are-tsa-tests-facial-recognition-technology-to-boost-airport-security/"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: CBS News
+      domain: cbsnews.com
     quality: 79
     images:
-      - url: "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/05/15/02a907ec-29f8-43ac-baed-9704c4df6bc5/thumbnail/1200x630/e70ef45625a6b1fad873a85c97aab290/ap23116691460840.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Are you who you say you are? TSA tests facial recognition technology to boost airport security"
     excerpt: "The Transportation Security Administration has started using facial recognition technology at a number of airports across the country."
@@ -284,6 +284,6 @@ related:
       domain: thedailyrecord.com
     quality: 28
 
-secured: "WjHsLmN1c9mRtFvH7ycEzSYBCzNhKMZJGVX3Ic109P9gGiPfn6sFMgA3JHgnLL1zIrGZhXd/iuYDHauD0s9ACxKWPyENPmbg90j8UKAM63UyvdtU0FzKfigAa3sLvKng8KaQ1nB2JQpJ+FCMBMI7MB/rGt0D9ZV/j/s9i34eZ36em+XkXalDUPIIPHLupPIqL477a9if0zIyBN7brp0jptWNZ3npiiJoZoY5IEtdiznj+5q1Qi1rIuCIwppOk2XANXlLG00vezeSuGLtKG8XbCyNNqSBxjK9rHwaRS0J1XRC1UOl6qil0Hd6XiyPJeFj9dUXgKJYe3bvL6D0MvbRBA0sa8GmE+7lme97a+WzbK6nEUok/EYNWoqsO5VITZqUjFwglYkzUL3MQ30v+/QpDjeRu+61zPI8oSr+zfzpVZmKYhUq2YLEOtuGWKyhUcc8Z7rJ05Nx4alkQBI/siixZE7c2Izs932+ZgmoTLkul7JkD3mqk/oVjHGC+YWab9T61j0fW9Tc+bm2I1DDpPvatg==;RrzSHL9vyJWLEIS/aE+Xmw=="
+secured: "RTDNdWFkGgxtozjYhhNQ+s7O1940YGsYjEpbJeQm3v5dW3k3KpEctJiitqmjXWfSd7vrmXHyKTbYg4FlFzBuNxpwN9nhhNE1oHxlz3A1S630SDaOPwBKlq/SvJBr8eARBenDZDy7YZ/bHzzzB82nl/xhuImHeuooHqvXWum05nwdGnO6ubQdmbPQrg03jbWD+4DnFZ5VQamtZd/WzjybqnAkxgmaswYqeY/qYJBtra9adDIA4+D6CGZh1eCi7qrlflc7vfnOTcsB7KZKdHOcOZS96f8j721t2sxVgQB++BTj4fZ/yjkpSlQKPFqFzBcdNAsX4QGvXZjKom7+ZWtztnwAcEpGMdcxz1BaNBbqgbc=;dav1Ek1NMbbQqowcCIAowA=="
 ---
 

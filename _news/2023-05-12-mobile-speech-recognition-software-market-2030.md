@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/mobile-speech-recognitio
 webUrl: "https://www.marketwatch.com/press-release/mobile-speech-recognition-software-market-2030-2023-05-11"
 type: article
 quality: 69
-heat: 179
+heat: 189
 published: true
 
 provider:
@@ -47,6 +47,20 @@ related:
     excerpt: "Precision Reports has published a new report titled as \" Deep Learning in CT Scanners Market \" by End User ( Hospital, Diagnostic Center, Research, Veterinary Clinic ), Types ( Stationary, Portable ),"
     publishedDateTime: 2023-05-13T05:13:00Z
     webUrl: "https://www.marketwatch.com/press-release/deep-learning-in-ct-scanners-market-2030-2023-05-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Facial Recognition Devices Market Expert Analysis By,2030"
+    excerpt: "(The Expresswire) -- \"Facial Recognition Devices Market\" Reports recently released an executive data report that focuses on the end"
+    publishedDateTime: 2023-05-15T18:44:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-devices-market-expert-analysis-by2030-2023-05-15"
     type: article
     provider:
       name: MarketWatch

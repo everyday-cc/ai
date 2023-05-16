@@ -6,8 +6,8 @@ publishedDateTime: 2023-05-16T04:15:00Z
 originalUrl: "https://www.finextra.com/pressarticle/96830/complyadvantage-takes-on-payment-fraud-using-machine-learning-algorithms"
 webUrl: "https://www.finextra.com/pressarticle/96830/complyadvantage-takes-on-payment-fraud-using-machine-learning-algorithms"
 type: article
-quality: 23
-heat: 23
+quality: 25
+heat: 25
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 images:
   - url: "https://www.finextra.com/about/finextra-logo.png"

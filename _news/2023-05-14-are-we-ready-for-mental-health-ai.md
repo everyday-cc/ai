@@ -33,7 +33,7 @@ related:
     provider:
       name: Inter Press Service
       domain: ipsnews.net
-    quality: 50
+    quality: 52
     images:
       - url: "https://www.ipsnews.net/Library/2023/05/Countries-Ready-for-AI_.jpg"
         width: 624

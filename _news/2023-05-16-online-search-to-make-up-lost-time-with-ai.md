@@ -58,22 +58,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "New Google search tool will distinguish real images from AI-generated phonies"
-    excerpt: "Rolling out in the coming months, the new 'About this Image' tool will help identify which images in a search are real and which are created by AI."
-    publishedDateTime: 2023-05-11T14:52:00Z
-    webUrl: "https://www.zdnet.com/article/new-google-search-tool-will-distinguish-real-images-from-ai-generated-phonies/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/new-google-search-tool-will-distinguish-real-images-from-ai-generated-phonies/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/new-google-search-tool-will-distinguish-real-images-from-ai-generated-phonies/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 84
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/e2abf1115d40e1fcee596f55c6be46a839a0d904/2023/05/11/1f3609ef-3fd4-45b9-9162-dc868eff6419/figure-top-new-google-search-tool-will-distinguish-real-images-from-ai-generated-phonies.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Google Launching Tools to Identify Misleading and AI Images"
     excerpt: "Google is adding two new features to its image search to reduce the spread of misinformation, especially now that artificial intelligence tools have made the creation of photorealistic fakes trivial."
     publishedDateTime: 2023-05-15T05:42:00Z
@@ -132,29 +116,6 @@ related:
         width: 1440
         height: 958
         isCached: true
-  - title: "Google adding AI to popular apps, search"
-    excerpt: "AI-generated responses will top the results pages, and allow users to ask follow-up questions. Google also plans to add a \"help me write\" option in its GMail that will generate replies to emails within seconds."
-    publishedDateTime: 2023-05-11T14:18:00Z
-    webUrl: "https://www.cbsnews.com/newyork/video/google-adding-ai-to-popular-apps-search/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 37
-    images:
-      - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/05/11/76c64e6b-6549-4c21-8823-8f3d1bf8f87a/thumbnail/1200x630/24eb6d37a456e6c3f266e2d621d2d54e/5ce48051e6594736cf61c54a5327ef5c.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Google says they’ll use powerful new AI tools responsibly"
-    excerpt: "At Google’s annual developer conference, the company promised to be bold with its use of AI but also responsible. Google I/O was held near the company’s headquarters in Mountain View,"
-    publishedDateTime: 2023-05-11T13:21:00Z
-    webUrl: "https://ktla.com/morning-news/google-says-theyll-use-powerful-new-ai-tools-responsibly/"
-    type: article
-    provider:
-      name: KTLA
-      domain: ktla.com
-    quality: 19
 
 secured: "N3AxCYPfMm9fHrCi6EyDyW+gzT/0qL9D8LTLd/uGfYwXfiX3aBZJ0hpNgg9aYRBw8cRm0hqbHFdp1FvZYsEFb4GXIL3FdcUjKS81EAKK4Kk3i8g55DuXaJcWzbbTWMd5JzEQY/sOajxNp3U87bx6ZPW08vT7bnkFU33gBTSLhciS/p2xN1/wQZAgshmknI+VUmj93DQWmnu8uqzvHbPY7Z4Slnt7FyFeBsG4D5ues2nN/CBqhp6wHB8MkVi7sJ9NrsUFVEzt2dieAAEF37n7UEU8ZXm67n96PLwdRO13Uu4JgGz+COlLVMbgydDy8RDH7q4X2BtWPePjkIMKizw/EMVh/2DWa91rjK9oJ2IaxJUiNe78btKmxtOW8pGiT00Vw1U7ZLHBMfxW9QX+GC9ldE0qRtEUYEcBpcaCWrnTqL3NdzNyLmdsA2pcfOekZipWLzOjaR4dxP2I4SkX7YCeKCHrOL6obrZ+QQGNmdVvA1XBnbjhiiZ2n2gBpaTkVw6iJJpP8mfOOIGy7urD7bkUiw==;oGIOynRJip5/WzQrlniSOQ=="
 ---

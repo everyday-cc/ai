@@ -189,15 +189,6 @@ related:
       name: Broadcast
       domain: broadcastnow.co.uk
     quality: 19
-  - title: "The likely winners of the generative AI gold rush"
-    excerpt: "Small, specialist models that are cheap to train and fast to run may win out over the broader Big Tech offerings"
-    publishedDateTime: 2023-05-11T13:10:00Z
-    webUrl: "https://www.ft.com/content/0cbe91ec-0971-4ba6-bdf1-87855aedd34c"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 17
   - title: "Educational Psychology Meets Generative AI"
     excerpt: "Post by Dr. Andrew J. Martin, School of Education, University of New South Wales, Australia"
     publishedDateTime: 2023-05-11T18:35:00Z
@@ -206,6 +197,15 @@ related:
     provider:
       name: Psychology Today
       domain: psychologytoday.com
+    quality: 17
+  - title: "The race to bring generative AI to mobile devices"
+    excerpt: "Tech companies like Google seek processing power in handsets to reduce computing costs and improve speed of AI chatbots"
+    publishedDateTime: 2023-05-16T04:00:00Z
+    webUrl: "https://www.ft.com/content/6579591d-4469-4b28-81a2-64d1196b44ab?shareType=nongift"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
     quality: 17
 
 secured: "QYdmJQJ82Ga+T/QvnRVd8L0igZuQCiINXX6q1FROLrOt3Q/+zU+aNHPIE/yhJLWtK2JwXE37xersPwxGEDA5MuvVVB+gosmEMugPl1THEeg6nQKx5cZUXUcCALYGGPBTQZWVea5U19t2xdSb9723ylt+qGYTm8ZUyLgcMXvvloGfnjJWeFwjdvqZj1W+7yhCurELR3SslcZ7OsHyd5s7GgVcrdwTaqq6SsvwGTRDUo3UI4brDdsHDVVaxhJNG342HTaVw2ETDFbNbJdJKSbLqoX91dqjxNVRQmPv7lJ/LCCj+9zsuPp02YwDQMkJ2xCWhCQy/xxdOHDFNAiEyhnq/0gTQhN2qNjMwi5u4n8SQXI=;xofA3yoFERiEHSPjXD+JBQ=="

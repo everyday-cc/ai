@@ -67,6 +67,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Facial Recognition Devices Market Expert Analysis By,2030"
+    excerpt: "(The Expresswire) -- \"Facial Recognition Devices Market\" Reports recently released an executive data report that focuses on the end"
+    publishedDateTime: 2023-05-15T18:44:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-devices-market-expert-analysis-by2030-2023-05-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence in Construction Market | 2030"
     excerpt: "The Global Artificial Intelligence in Construction market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key ..."
     publishedDateTime: 2023-05-15T01:09:00Z

@@ -113,20 +113,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "UK’s first ‘driverless bus’ service launches on Forth Road Bridge"
-    excerpt: "Autonomous buses were demonstrated on the Forth Road Bridge on Thursday ahead of going into passenger service in what’s being billed as the most complex test of the technology anywhere in the world. The 14-mile route crosses the Forth Road Bridge and is made up of A-roads,"
-    publishedDateTime: 2023-05-11T13:33:00Z
-    webUrl: "https://www.techdigest.tv/2023/05/uks-first-driverless-bus-service-launches-on-forth-road-bridge.html"
-    type: article
-    provider:
-      name: Tech Digest
-      domain: techdigest.tv
-    quality: 39
-    images:
-      - url: "https://www.techdigest.tv/wp-content/uploads/2023/05/cavforth-alexander-dennis-enviro200av-on-forth-road-bridge-1024x723.jpg"
-        width: 1024
-        height: 723
-        isCached: true
   - title: "UK to roll out first driverless bus service"
     excerpt: "The UK will roll out its first driverless bus network in Scotland next week with drivers on standby behind the steering wheel, ready to take control should an emergency arise. The service,"
     publishedDateTime: 2023-05-13T03:28:00Z

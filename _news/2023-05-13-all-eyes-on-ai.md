@@ -166,6 +166,20 @@ related:
         width: 767
         height: 633
         isCached: true
+  - title: "Tracking Generative AI: How Evolving AI Models Are Impacting Legal"
+    excerpt: "A running compilation of how the legal landscape continues to be shaped by generative AI tools, from GPT technologies to art generation tools and beyond."
+    publishedDateTime: 2023-05-16T01:23:00Z
+    webUrl: "https://www.law.com/dailyreportonline/2023/05/14/tracking-generative-ai-how-evolving-ai-models-are-impacting-legal/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 39
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/01/Numbers-Artificial-Intelligence-767x633.jpg"
+        width: 767
+        height: 633
+        isCached: true
   - title: "How technology is changing today's health care"
     excerpt: "Today, groundbreaking advancements are revolutionizing patient care and the health care industry. Many of these advances are driven by artificial intelligence (AI). Because the health care industry generates so much data every single day,"
     publishedDateTime: 2023-05-14T11:01:00Z

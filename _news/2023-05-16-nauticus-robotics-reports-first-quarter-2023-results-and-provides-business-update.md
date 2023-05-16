@@ -1,20 +1,18 @@
 ---
 category: news
 title: "Nauticus Robotics Reports First Quarter 2023 Results and Provides Business Update"
-excerpt: "Nauticus Robotics, Inc. (\"Nauticus\" or the \"Company\") (NASDAQ:KITT), a developer of autonomous robots using artificial intelligence for data collection and intervention"
-publishedDateTime: 2023-05-15T20:05:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/05/g32405015/nauticus-robotics-reports-first-quarter-2023-results-and-provides-business-update"
-webUrl: "https://www.benzinga.com/pressreleases/23/05/g32405015/nauticus-robotics-reports-first-quarter-2023-results-and-provides-business-update"
-ampWebUrl: "https://www.benzinga.com/amp/content/32405015"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32405015"
+excerpt: "Nauticus Robotics, Inc. (\"Nauticus\" or the \"Company\") (NASDAQ: KITT), a developer of autonomous robots using artificial intelligence for data collection and intervention"
+publishedDateTime: 2023-05-16T07:36:00Z
+originalUrl: "https://www.finanznachrichten.de/nachrichten-2023-05/59097943-nauticus-robotics-reports-first-quarter-2023-results-and-provides-business-update-399.htm"
+webUrl: "https://www.finanznachrichten.de/nachrichten-2023-05/59097943-nauticus-robotics-reports-first-quarter-2023-results-and-provides-business-update-399.htm"
 type: article
-quality: 49
+quality: 29
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Finanznachrichten
+  domain: finanznachrichten.de
 
 topics:
   - AI in Robotics
@@ -36,6 +34,6 @@ related:
         height: 419
         isCached: true
 
-secured: "VuUuXsqcsT1eiwmRJLDcGiyAALU7/ARaxZviysuMys/NGptfl06ycOdTv8vlxlPIbTvED33IysdrKyLG7nqyVt5+/+9CHzDPNAegbRo95JD91u/Q+iqgM5srOd7Q7AqsrG6fqsbRVTT+kTpGNFDdDvmNd3s9ttKn+r3C4nQOpKOLXzgokh7soELPH8x1bA1DVEd4M8HtiX9UteB4QOzSr48JseKQ9G3qhEHvkmMmoZlU4C90VQbskwUL1zyaiYBaHiZ9THwqPEloBJCH+P//WkKp6t87gRxmbS0jyos4CQmWHzgQ2xAcWI6rElQV963+mGbHo0t6d7pjHd/O9BLN70oyJnYWDx7JmOd3MxQ/riA=;cEqCI0PIK6hMQGP9i+Javw=="
+secured: "L6BaJZab+NNPukV3C7TIN7E2T4lef5/E+KOBhx+ZKcPMLGmWR29ZPuZwkAZMRIPltWY7nKa2gNNo7eCtlB7WlS/cjcYk8jWYpOIPOJ6y+HscSkyl2G4u3ZlxSKq0KIZz+O9DMx7TcV50CKX0nUxclHpVS1XvivIY38f8sR9TzXyvcX6X4raR5oq5YLHHPDEj6vlgkD4eMRz7m9Is3OPyzFYyHSFXdNb+GoYIH7EBqfEebxZXpE1g8AZg1xISBRlmIdzvW/ybQOLTSfOHfw6q0y2AO1x+AIlgM1ud9xDs9Sh8oM2RTbggXct9mB5JvK6igeisgSkFYBQQN2FET7Uvw+jJ2Kt106V9k0R3V4xFIQQ=;REIB2HY9UnfAmmCJTPfoDQ=="
 ---
 

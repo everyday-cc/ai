@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/stability-ai-releases-an-op
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/stability-ai-releases-an-open-source-text-to-animation-tool/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "OpenAI readies new open-source AI model - The Information"
+    excerpt: "has gained widespread attention in Silicon Valley as investors see generative AI as the next big growth area for tech companies. In January, Microsoft Corp (MSFT.O) announced a multi-billion dollar investment in OpenAI, deepening its ties with the startup ..."
+    publishedDateTime: 2023-05-16T04:00:00Z
+    webUrl: "https://www.reuters.com/technology/openai-readies-new-open-source-ai-model-information-2023-05-15/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 67
+    images:
+      - url: "https://www.reuters.com/resizer/iqo4WxdERy47YkN_PHWL63ghNJw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/OUXSPAPPUVK27H6RHKQWKLT4VI.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Together raises $20M to decentralize and open-source AI model creation"
     excerpt: "Together, a startup that’s building a decentralized ... The funding will be used to support Together’s mission of creating a decentralized alternative to the closed AI systems winning all the plaudits today, such as OpenAI LP’s ChatGPT."
     publishedDateTime: 2023-05-16T02:24:00Z

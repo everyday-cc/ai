@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/video-analytics-and-arti
 webUrl: "https://www.marketwatch.com/press-release/video-analytics-and-artificial-intelligence-market-2023-05-12"
 type: article
 quality: 67
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -53,15 +53,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 57
-  - title: "Boston’s Leading AI Image Analytics Startup Named to Leading 100 List of 2023"
-    excerpt: "The Lead has announced The Leading 100 of 2023, the highly anticipated annual research list recognizing the innovative tech startups driving the future of brand-to-consumer, … Continue Reading →"
-    publishedDateTime: 2023-05-11T13:10:00Z
-    webUrl: "https://multichannelmerchant.com/press-releases/bostons-leading-ai-image-analytics-startup-named-to-leading-100-list-of-2023/"
-    type: article
-    provider:
-      name: Multichannel Merchant
-      domain: multichannelmerchant.com
-    quality: 14
 
 secured: "indYug3z+p+FmP2yiYVtjJOTnXSUfZXLw59OlSIM9BiCV+2DCWs0fupDoSgiKbnmkeR6fuyFzG9LOw4RcP3SiAWUh3odmDEhrKY8QcUUEnvXRM1Ia9yxaI75ngd8KXRM+xaw1qKHAjjNxWczrS0y6UXLzFS3KHZxGKkBhE2nsRCyHwtHtIsHKpIIhoXqsEIdnEX/t8scMv32VWBpVu47tHquQMNxPFlCW2WhQkw1Xwdx6U5CgbJQnCwjq7KDaKQmi3ka24lzaFOUIVkxnX+hvquabbYsg7gy/6qJWkMi+5e/DBoOGObmZnRZEO4tR44SoLoNL9IIwr5beu9YBqb6r8srYX1B2B7bGabQCBGAnGk=;8+x2xMLRDop1S4SdFzMo+A=="
 ---

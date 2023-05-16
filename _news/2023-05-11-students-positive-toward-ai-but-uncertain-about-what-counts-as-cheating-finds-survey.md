@@ -25,17 +25,6 @@ images:
     height: 1080
     isCached: true
 
-related:
-  - title: "AI in Education: Students’ Views on Chatbots and Cheating"
-    excerpt: "The majority of the students surveyed expressed positive views towards AI tools like ChatGPT, with more than a third using them regularly."
-    publishedDateTime: 2023-05-11T14:46:00Z
-    webUrl: "https://neurosciencenews.com/chatbot-ai-education-23213/"
-    type: article
-    provider:
-      name: Neuroscience News
-      domain: neurosciencenews.com
-    quality: 36
-
 secured: "cIYXL6JEqjJva7GLaH1t6CWSmT32wezFwxc9NjTeYG5FQ6uDLjG3KOtLSiBbw/7QzGXEIG2qtUPvFVmFnSKF5GuBHbJPJVyw4l6TfKlctZR00+TjvbFvIkdIur4E8tqgQI+D2zyek32Fyi6zBYY4nGxUkTauEIotvXaxikF3WtT0VPz9eKOP/cr1HseOrC8bKMGeCcgPAjlFna+oxjhA9TAnfBIjcllu80+fzvmpSWRowvSJAMC5sSyCVu/SKFytPUcWbWTpEDglEqA1IKaiyR2FE4w0FNeWtuonfYiuByMddy1ZouRjhzqDJIlBVneKo6kT7K4zrBDo48KVdnNhqmp3uzl7elvBesWczJ4PJ/cplnPlPlDsTahhwHd6SxC23mmGKfJNfp5GmBigfT4ra+2P4C5pGdPW5Ecd4f+CqydNOEVWypSE6vxsOiPWIeaPQQt3Ck4USPFqz+PAQ5GQoRJ2ZR4Ax3OZEaXGlL5BpqktznHhl0PvitPyaXtBsfhRXXzGvT/HOkDH3XUU9YxMrw==;te+8POTFw3a+p8YhJrj1sA=="
 ---
 

@@ -53,15 +53,6 @@ related:
         width: 740
         height: 492
         isCached: true
-  - title: "Boston’s Leading AI Image Analytics Startup Named to Leading 100 List of 2023"
-    excerpt: "The Lead has announced The Leading 100 of 2023, the highly anticipated annual research list recognizing the innovative tech startups driving the future of brand-to-consumer, … Continue Reading →"
-    publishedDateTime: 2023-05-11T13:10:00Z
-    webUrl: "https://multichannelmerchant.com/press-releases/bostons-leading-ai-image-analytics-startup-named-to-leading-100-list-of-2023/"
-    type: article
-    provider:
-      name: Multichannel Merchant
-      domain: multichannelmerchant.com
-    quality: 14
 
 secured: "etGQaxHPHB6gXI0qVk1tIDmAwbyv9pcXLl4a8XoUxAhCphC42dOFp9aEAe9ncUUaSG7GJqGj03yM+6GYNGCO/qQNyUhRCspS6cQLrB6mwFL3iIw1qIXbUbbonBKQahuddgB5kw5z7K11jf6ss26FkhJxt8LYwA2adfAKJTMMWdiMA2V0e0Eg7VD9HJlRK2JLNETJDP5h/HAE8/0IFJ1NKIJKAeCCztkfntwYMHAIYqi60hppjDjTUuaoITcbA74WtQH1aIne5ZWJfHwH4AqBnjSzHSl6YynZ10b4SfGk6tQ98iTLX27LFsS/XT/9h8DJuVMa9gm9crj98TenG7EswUUpHeeQG2bNlot3mABwrUNJ+x5Iu0xNYVl7OpYuj/6A+qu6GO3nMuEdISS2W8y/2qbmT49BZhuKtgZZlctH3CyUMmFUYu+c0Qu4nWfZaorNmO29isBU5bYfjpYQbisokTiBQTQSPMRfkSkZ59l2LfWHe6PVvXWwTuNPuI+ra9Xh7L685iBAAEUlZiGOl7+RoA==;GnPlQ65fjLVyg8oUS9NQoQ=="
 ---

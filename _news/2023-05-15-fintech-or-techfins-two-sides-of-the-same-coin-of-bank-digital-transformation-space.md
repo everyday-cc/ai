@@ -35,20 +35,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Tricolor Wins Fintech Nexus Award for Excellence in Financial Inclusion"
-    excerpt: "Tricolor Holdings today announced that it has been named the Fintech Nexus Award winner for Excellence in Financial Inclusion. Given to the financial services company making the biggest difference in expanding access to financial services for the underserved population,"
-    publishedDateTime: 2023-05-11T13:15:00Z
-    webUrl: "https://financialit.net/news/treasury/tricolor-wins-fintech-nexus-award-excellence-financial-inclusion"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 24
-    images:
-      - url: "https://financialit.net/sites/default/files/tricolor_3.png"
-        width: 1366
-        height: 768
-        isCached: true
 
 secured: "Wd0S8jgQgGh0Q1nGblLPRm7re11AvtmaNQ7qDHLHUlxk8jJ7ni3NecoEQIgluyT95WlA+y++OdQcWhqvhLi6+Ye4sLLh9T3uVa23ohgkKpmrlB0XVttZUqw6rJgC6gDOR1iDVEhAyZtMftQhX7ZvSgcz0Mk/rFW1GpjcJa0yOhUZZHePDeoBroK5YwwTgnxqKS/0gMmI2DPT1SJepKLuU2TtL2c9Q8RWMg00gswv7x0xp3XJ0o9iqo/HunbFlVtRC+ZQUhTfEZDkmToYcbkfuwLvCnOqQfgWg5TbHLl9CY331OIngtfK6K7AF6uN3Nlw/QAnqpykqNTZ7Pa+vIGFCN6sagMhiCcw5BGfi0nhcQBYgeowVJAo4uXH/ZobvJsIzSdfE13RaYAanxSKwUwPOsrKUIDRuTg63JAFxv6JfX42trTyvOL6zzZvKD7pKNLgvjAMKbmqLOs5lODg3LOIhtsHjdKLyroBBAVix3ALDbQ3P9T7K5bIwCbAm6eEMbQmYkPGnSCApXGSdbHvS57VWw==;R41Rv1ZwCILUqR4M5Ln/xQ=="
 ---

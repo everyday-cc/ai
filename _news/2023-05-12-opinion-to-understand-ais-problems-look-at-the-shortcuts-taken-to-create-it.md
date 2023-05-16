@@ -9,8 +9,8 @@ ampWebUrl: "https://techxplore.com/news/2023-05-opinion-ai-problems-shortcuts.am
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-05-opinion-ai-problems-shortcuts.amp"
 type: article
 quality: 55
-heat: 65
-published: false
+heat: 75
+published: true
 
 provider:
   name: techxplore
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Opinion: We need to prepare for the public safety hazards posed by artificial intelligence"
+    excerpt: "For the most part, the focus of contemporary emergency management has been on natural, technological and human-made hazards such as flooding, earthquakes, tornadoes, industrial accidents, extreme weather events and cyber attacks."
+    publishedDateTime: 2023-05-15T16:01:00Z
+    webUrl: "https://techxplore.com/news/2023-05-opinion-safety-hazards-posed-artificial.html"
+    ampWebUrl: "https://techxplore.com/news/2023-05-opinion-safety-hazards-posed-artificial.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-05-opinion-safety-hazards-posed-artificial.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 49
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/we-need-to-prepare-for.jpg"
+        width: 1356
+        height: 668
+        isCached: true
   - title: "To understand AI’s problems look at the shortcuts taken to create it"
     excerpt: "If we want to understand how to handle AI, we can return to a crisis that hit the industry from the late 1980s, when many researchers were still trying to mimic what we thought humans do. For example, they were trying to understand the rules of language or human reasoning, to program them into machines."
     publishedDateTime: 2023-05-11T17:43:00Z

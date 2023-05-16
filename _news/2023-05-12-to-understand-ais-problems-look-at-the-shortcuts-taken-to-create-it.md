@@ -37,6 +37,22 @@ related:
         width: 1356
         height: 668
         isCached: true
+  - title: "Opinion: We need to prepare for the public safety hazards posed by artificial intelligence"
+    excerpt: "For the most part, the focus of contemporary emergency management has been on natural, technological and human-made hazards such as flooding, earthquakes, tornadoes, industrial accidents, extreme weather events and cyber attacks."
+    publishedDateTime: 2023-05-15T16:01:00Z
+    webUrl: "https://techxplore.com/news/2023-05-opinion-safety-hazards-posed-artificial.html"
+    ampWebUrl: "https://techxplore.com/news/2023-05-opinion-safety-hazards-posed-artificial.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-05-opinion-safety-hazards-posed-artificial.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 49
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/we-need-to-prepare-for.jpg"
+        width: 1356
+        height: 668
+        isCached: true
 
 secured: "8LUNYxtKdbUrZOpsp3vSBYsw98YffV7sEbVq8IFgyv4EjnsBFaibCk4Q7qSKtH0ps8oqZLkanf/HIc63AbAMUPyS1d49EmM4vatgQp8Zikmvf/KT+Yty89kRK5WIoFH85w04nvQ/VljzhvK0H32FBT1nnEJkuDlA0XIZYcS/kwX9dbYerhhZYlDf1Oh1HnyIrkn/wtL4oxj6BqJSHLlR1ynhdQCViaIA7ksWWwYo3WNnrZ2O5yYcErj46yQkZqNKU5t87FlY5ekxtbJvmgEhASdK7WFqDw50o9YsATmk5jozy8Ac2gdyC36+wktFvVCqvjhsRKg07Tlxz0JqPV57iIU09ifIuVsYSOyxpytOIpH1pboYtffZVw/M4sPY13cSwwdxctoAm3g2NH4CuBolkCiHL0X2djlTEdRYd9O4jGSW7P56WO2yyMTxMr7DqsEWFWPFswfUpxEwcjCtkmamn+06Dwnvd7iJAjdQoImcMLQEd4sMjaber1XiTbns+JRo/Vpw0+r1zjvUy/w5G3cpyw==;WCLxhyxPsdJ45Gd7DUnOaQ=="
 ---

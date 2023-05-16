@@ -195,10 +195,10 @@ related:
       name: Broadcast
       domain: broadcastnow.co.uk
     quality: 19
-  - title: "The likely winners of the generative AI gold rush"
-    excerpt: "Small, specialist models that are cheap to train and fast to run may win out over the broader Big Tech offerings"
-    publishedDateTime: 2023-05-11T13:10:00Z
-    webUrl: "https://www.ft.com/content/0cbe91ec-0971-4ba6-bdf1-87855aedd34c"
+  - title: "The race to bring generative AI to mobile devices"
+    excerpt: "Tech companies like Google seek processing power in handsets to reduce computing costs and improve speed of AI chatbots"
+    publishedDateTime: 2023-05-16T04:00:00Z
+    webUrl: "https://www.ft.com/content/6579591d-4469-4b28-81a2-64d1196b44ab?shareType=nongift"
     type: article
     provider:
       name: The Financial Times

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/05/15/combining-generat
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/05/15/combining-generative-ai-chatgpt-into-handguns-triggers-fiery-response/amp/"
 type: article
 quality: 91
-heat: 261
+heat: 251
 published: true
 
 provider:
@@ -61,22 +61,6 @@ related:
     quality: 85
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2023/05/AMZN-1.jpg?w=1200&strip=all"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Here is how Europe is pushing to regulate artificial intelligence as ChatGPT rapidly emerges"
-    excerpt: "The European Union voted to strengthen regulations around artificial intelligence. Here is a look into how chatbots such as ChatGPT could be regulated in the continent."
-    publishedDateTime: 2023-05-11T13:51:00Z
-    webUrl: "https://www.foxnews.com/world/europe-pushing-regulate-artificial-intelligence-chatgpt-rapidly-emerges"
-    ampWebUrl: "https://www.foxnews.com/world/europe-pushing-regulate-artificial-intelligence-chatgpt-rapidly-emerges.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/world/europe-pushing-regulate-artificial-intelligence-chatgpt-rapidly-emerges.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 76
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/937be039-5093-4a38-8920-5ec96c812149/b1154edd-fccf-4619-a5be-9436eb80ad9d/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
         width: 1200
         height: 675
         isCached: true

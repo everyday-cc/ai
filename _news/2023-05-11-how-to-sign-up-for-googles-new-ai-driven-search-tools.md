@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/how-to-sign-up-for-googles-new-
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/how-to-sign-up-for-googles-new-ai-driven-search-tools/"
 type: article
 quality: 87
-heat: 177
+heat: 147
 published: true
 
 provider:
@@ -45,22 +45,6 @@ related:
       - url: "https://www.cnet.com/a/img/resize/45757153ae157d44b9bae8ae1e2ba6af86bac55a/hub/2023/05/11/3a878f9f-21cd-451b-ae9a-0d7ed8121e23/gettyimages-1230722138.jpg?auto=webp&fit=crop&height=630&width=1200"
         width: 1200
         height: 630
-        isCached: true
-  - title: "New Google search tool will distinguish real images from AI-generated phonies"
-    excerpt: "Rolling out in the coming months, the new 'About this Image' tool will help identify which images in a search are real and which are created by AI."
-    publishedDateTime: 2023-05-11T14:52:00Z
-    webUrl: "https://www.zdnet.com/article/new-google-search-tool-will-distinguish-real-images-from-ai-generated-phonies/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/new-google-search-tool-will-distinguish-real-images-from-ai-generated-phonies/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/new-google-search-tool-will-distinguish-real-images-from-ai-generated-phonies/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 84
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/e2abf1115d40e1fcee596f55c6be46a839a0d904/2023/05/11/1f3609ef-3fd4-45b9-9162-dc868eff6419/figure-top-new-google-search-tool-will-distinguish-real-images-from-ai-generated-phonies.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Google Launching Tools to Identify Misleading and AI Images"
     excerpt: "Google is adding two new features to its image search to reduce the spread of misinformation, especially now that artificial intelligence tools have made the creation of photorealistic fakes trivial."
@@ -136,29 +120,6 @@ related:
         width: 1440
         height: 958
         isCached: true
-  - title: "Google adding AI to popular apps, search"
-    excerpt: "AI-generated responses will top the results pages, and allow users to ask follow-up questions. Google also plans to add a \"help me write\" option in its GMail that will generate replies to emails within seconds."
-    publishedDateTime: 2023-05-11T14:18:00Z
-    webUrl: "https://www.cbsnews.com/newyork/video/google-adding-ai-to-popular-apps-search/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 37
-    images:
-      - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/05/11/76c64e6b-6549-4c21-8823-8f3d1bf8f87a/thumbnail/1200x630/24eb6d37a456e6c3f266e2d621d2d54e/5ce48051e6594736cf61c54a5327ef5c.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Google says they’ll use powerful new AI tools responsibly"
-    excerpt: "At Google’s annual developer conference, the company promised to be bold with its use of AI but also responsible. Google I/O was held near the company’s headquarters in Mountain View,"
-    publishedDateTime: 2023-05-11T13:21:00Z
-    webUrl: "https://ktla.com/morning-news/google-says-theyll-use-powerful-new-ai-tools-responsibly/"
-    type: article
-    provider:
-      name: KTLA
-      domain: ktla.com
-    quality: 19
 
 secured: "q1pqKjoD4mFU/BK63H8vQuPVBLB/Z0fITT/K522f3uuobV/lMDZL4Bwhm5T4WmfkqmfJA+tjGwLDgell1smQyOJQu5rAR6hLkWgwYqaJEnCtq7I0FWy4jBSA5Xk+M86q36ni3jYxeFESU1qY+sV0QKRmuYgwx4ZT5aOlOVxrpn41Dh5oo/1MTlsiHLpyzJjllmmZ9fl2IhaJuLxXm2HNgjqgPLdrK4vpBcyZvyZSA0AP8FJTYoXiistqpNmL+W/59rQ2biK0vUIN+6EUCoxebl2kaMMzf7JmclSU4jwgCa5uNhRKpFotT30soRPOZ7qXRB+n146RR2XI55i7SXmG7Ls+oSp7ooB4VE94G4psl04=;DSwoHeuClpEixw7Oupl2yQ=="
 ---
