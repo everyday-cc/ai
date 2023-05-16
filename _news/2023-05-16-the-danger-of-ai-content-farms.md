@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/05/16/the-danger-of-ai
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/05/16/the-danger-of-ai-content-farms/amp/"
 type: article
 quality: 87
-heat: 128
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "What are the dangers of AI? Find out why people are afraid of artificial intelligence"
+    excerpt: "Many experts worry that the rapid development of artificial intelligence may have unforeseen disastrous consequences for humanity. Machine learning technology is designed to assist humans in their ..."
+    publishedDateTime: 2023-05-15T08:24:00Z
+    webUrl: "https://www.foxnews.com/tech/what-dangers-find-out-why-people-afraid-artificial-intelligence"
+    ampWebUrl: "https://www.foxnews.com/tech/what-dangers-find-out-why-people-afraid-artificial-intelligence.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/what-dangers-find-out-why-people-afraid-artificial-intelligence.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 99
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9173ff0e-731a-4938-8d98-838e96cab4aa/8c3c171d-0b0c-4650-a5c1-bb79bf268d11/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Dangers of AI: What are the Artificial Intelligence threats and risks?"
     excerpt: "Although AI has been hailed as revolutionary and a game-changer, it has drawbacks. In addition to planning for superintelligent computers, contemporary AI can bring problems. Let's take a look at some crucial AI-related risks."
     publishedDateTime: 2023-05-14T15:08:00Z
@@ -46,51 +62,19 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Catching bad content in the age of AI"
-    excerpt: "Why haven’t tech companies improved at content moderation? This article is from The Technocrat, MIT Technology Review's weekly tech policy newsletter about power, politics, and Silicon Valley. To receive it in your inbox every Friday,"
-    publishedDateTime: 2023-05-15T10:00:00Z
-    webUrl: "https://www.technologyreview.com/2023/05/15/1073019/catching-bad-content-in-the-age-of-ai/"
-    ampWebUrl: "https://www.technologyreview.com/2023/05/15/1073019/catching-bad-content-in-the-age-of-ai/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/05/15/1073019/catching-bad-content-in-the-age-of-ai/amp/"
+  - title: "Are we ready for mental health AI?"
+    excerpt: "I have encountered mental health chatbots and apps before and it was clear that technology still had a long way to go before it can provide the same nuanced benefit as a human therapist. ChatGPT and its other AI peers seem to hold potential to bridge that gap by providing a “human” experience to the conversation."
+    publishedDateTime: 2023-05-13T23:00:00Z
+    webUrl: "https://www.thestar.com.my/news/focus/2023/05/14/are-we-ready-for-mental-health-ai"
     type: article
     provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 59
+      name: The Star
+      domain: thestar.com.my
+    quality: 39
     images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/05/hi-wire-netA.jpeg?w=3000"
-        width: 3000
-        height: 1688
-        isCached: true
-  - title: "Enterprise hits and misses - the modern data stack is messy, content marketing needs to change, and developers put AI to the test"
-    excerpt: "This week - the modern data stack is trending, but data quality remains a sticking point. Developers put generative AI to the hands-on test, but IT pros still need to get out more. To reach today's buyer,"
-    publishedDateTime: 2023-05-15T17:47:00Z
-    webUrl: "https://diginomica.com/enterprise-hits-and-misses-modern-data-stack-messy-content-marketing-needs-change-and-developers"
-    ampWebUrl: "https://diginomica.com/enterprise-hits-and-misses-modern-data-stack-messy-content-marketing-needs-change-and-developers?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/enterprise-hits-and-misses-modern-data-stack-messy-content-marketing-needs-change-and-developers?amp"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 47
-    images:
-      - url: "https://diginomica.com/sites/default/files/images/2013-06/forkinroad.jpg"
-        width: 424
-        height: 283
-        isCached: true
-  - title: "Founder of artificial intelligence firm warns robots could end up controlling humanity"
-    excerpt: "Robots could end up controlling humanity, the founder of an artificial intelligence firm will warn. Emad Mostaque, 40, who founded Stability AI three years ago, will say this could happen in a “worst case scenario” and humans could be told “goodbye,"
-    publishedDateTime: 2023-05-14T10:39:00Z
-    webUrl: "https://www.limerickleader.ie/news/national-news/1169864/founder-of-artificial-intelligence-firm-warns-robots-could-end-up-controlling-humanity.html"
-    type: article
-    provider:
-      name: Limerick Leader
-      domain: limerickleader.ie
-    quality: 46
-    images:
-      - url: "https://www.limerickleader.ie/resizer/1200/700/true/pa/2023_05_13/1684002310604_0.jpg--founder_of_artificial_intelligence_firm_warns_robots_could_end_up_controlling_humanity.jpg?1684002310640"
-        width: 1200
-        height: 700
+      - url: "https://apicms.thestar.com.my/uploads/images/2023/05/14/2071234.jpg"
+        width: 1240
+        height: 929
         isCached: true
 
 secured: "YOcexW0TA5RkRY3EHpodeXUm6qxHGECm0kncc1wFJPUWhqrIRWO3cH+dY3PiKw6Nfv/nKB9PfDycQdWFC7FjAbCN3FpGLGc136nNlMmiR0PDvDtgRa1C660TTcgxgBd2NstuQH1rFwPMlMmUCry1OiuIKbWQxGEVh6wQ9kE/Cz6f3kJgbsw54tJ1YRrjpA4113m+SmcJEtXcqYL6tbQfZ0pMB37uhz1b2GZfRurn4ZJniqRpdyK0cOH2zzp6GrZAOtzGtvqy2evZHRJMMWHF6+TOz6ax7x6KRQrkWTQ1+y3o20MJwc8c5o1p+vNqHaPqU7OR++b+AIB5wZHK3d8x1yihkAr4XWdUPvuQmKZjQTRbiv25s7F1jnhiCa5P7e/9AOHnfoxQ0H7pDhNUgCqYobg6ngMIHlhBbVKXgvvQpliTol5AQG0D1x5NGngueZkcyVhzopX093beB9pbrvw+o8OLudZwo7kVtGB/1VHmfoaWsGA7gyUUVKSFX7dVbGbohsTQLQwKimgdoq4v0lyhJQ==;oLsVZxaZnNoqIT4C16WaaQ=="

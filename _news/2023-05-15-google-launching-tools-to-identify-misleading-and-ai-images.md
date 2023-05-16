@@ -7,8 +7,8 @@ originalUrl: "https://www.bloomberg.com/news/articles/2023-05-15/google-launchin
 webUrl: "https://www.bloomberg.com/news/articles/2023-05-15/google-launching-tools-to-identify-misleading-and-ai-images"
 type: article
 quality: 67
-heat: -1
-published: false
+heat: 97
+published: true
 
 provider:
   name: Bloomberg L.P.
@@ -28,61 +28,50 @@ images:
     isCached: true
 
 related:
-  - title: "How to Sign Up for Google Search Labs And Access New AI-Driven Search Tools"
-    excerpt: "Among the more notable announcements from Google I/O, the search giant's annual developer conference, was the news that the public could now test out its new AI-driven search tools, which are being housed on Search Labs."
-    publishedDateTime: 2023-05-12T16:13:00Z
-    webUrl: "https://www.cnet.com/tech/computing/how-to-sign-up-for-google-search-labs-and-access-new-ai-driven-search-tools/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/how-to-sign-up-for-google-search-labs-and-access-new-ai-driven-search-tools/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/how-to-sign-up-for-google-search-labs-and-access-new-ai-driven-search-tools/"
+  - title: "Law firms are experimenting with artificial intelligence tools"
+    excerpt: "Big law firms, known for their grueling hours and workloads, are experimenting with artificial intelligence tools that can handle the drudgery typically delegated to entry-level lawyers and simplify complex work that bogs down even top firm leaders,"
+    publishedDateTime: 2023-05-12T14:49:00Z
+    webUrl: "https://www.businessreport.com/business/law-firms-are-experimenting-with-artificial-intelligence-tools"
+    ampWebUrl: "https://www.businessreport.com/business/law-firms-are-experimenting-with-artificial-intelligence-tools?amp=1"
+    cdnAmpWebUrl: "https://www-businessreport-com.cdn.ampproject.org/c/s/www.businessreport.com/business/law-firms-are-experimenting-with-artificial-intelligence-tools?amp=1"
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
-    quality: 85
+      name: Baton Rouge Business Report
+      domain: businessreport.com
+    quality: 59
     images:
-      - url: "https://www.cnet.com/a/img/resize/45757153ae157d44b9bae8ae1e2ba6af86bac55a/hub/2023/05/11/3a878f9f-21cd-451b-ae9a-0d7ed8121e23/gettyimages-1230722138.jpg?auto=webp&fit=crop&height=630&width=1200"
-        width: 1200
-        height: 630
+      - url: "https://s25562.pcdn.co/wp-content/uploads/2019/12/lawsuit-court-law.png"
+        width: 1734
+        height: 1122
         isCached: true
-  - title: "Google is accelerating a little too fast into the AI unknown"
-    excerpt: "Google has announced that new tech for generating content will be added to Gmail, Google Docs, Google Maps and Google Photos, as well as its search engine. The search giant is aiming to enhance its core products with artificial intelligence (AI),"
-    publishedDateTime: 2023-05-15T17:57:00Z
-    webUrl: "https://www.livemint.com/opinion/columns/googles-ai-arms-race-rush-to-stuff-generative-ai-into-services-but-risk-eroding-trust-of-consumers-and-advertising-customers-11684173426813.html"
-    ampWebUrl: "https://www.livemint.com/opinion/columns/googles-ai-arms-race-rush-to-stuff-generative-ai-into-services-but-risk-eroding-trust-of-consumers-and-advertising-customers/amp-11684173426813.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/opinion/columns/googles-ai-arms-race-rush-to-stuff-generative-ai-into-services-but-risk-eroding-trust-of-consumers-and-advertising-customers/amp-11684173426813.html"
+  - title: "Google’s Vertex AI machine learning platform gets generative AI tools"
+    excerpt: "The new updates to Google Cloud’s machine learning service will help the company square up against rivals such as Microsoft, AWS and IBM."
+    publishedDateTime: 2023-05-16T05:37:00Z
+    webUrl: "https://www.arnnet.com.au/article/707102/google-vertex-ai-machine-learning-platform-gets-generative-ai-tools/"
     type: article
     provider:
-      name: Mint
-      domain: livemint.com
-    quality: 61
+      name: ARN
+      domain: arnnet.com.au
+    quality: 56
     images:
-      - url: "https://images.livemint.com/img/2018/12/28/600x338/Opinion_1545994499293.jpg"
-        width: 600
-        height: 337
+      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/dreamstime_s_125457497_2.jpg"
+        width: 473
+        height: 315
         isCached: true
-  - title: "Google Is in Too Much of a Hurry on AI Search"
-    excerpt: "As AI answers fill our phone screens, what will become of the tech giant’s relationship with advertisers — or the truth?"
-    publishedDateTime: 2023-05-11T23:53:00Z
-    webUrl: "https://www.washingtonpost.com/business/2023/05/12/google-is-rolling-the-dice-with-ai-search/42a55c5a-f081-11ed-b67d-a219ec5dfd30_story.html"
+  - title: "Approaching artificial intelligence: How Purdue is leading the research and advancement of AI technologies"
+    excerpt: "With the programs, research and expertise highlighted below, Purdue is guiding the advancement of artificial intelligence. If you have any questions about Purdue’s work in AI or would like to speak to a Purdue expert, contact Brian Huchel, bhuchel@purdue ..."
+    publishedDateTime: 2023-05-15T14:16:00Z
+    webUrl: "https://purdue.edu/newsroom/releases/2023/Q2/approaching-artificial-intelligence-how-purdue-is-leading-the-research-and-advancement-of-ai-technologies.html"
     type: article
     provider:
-      name: The Washington Post
-      domain: washingtonpost.com
-    quality: 39
+      name: Purdue University
+      domain: purdue.edu
+    quality: 36
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IH5Q43HQQEI63NT5UIM6YXP5GA.jpg&w=1440"
-        width: 1440
-        height: 958
+      - url: "https://www.purdue.edu/uns/images/2023/agriculture-aiOG.jpg"
+        width: 800
+        height: 450
         isCached: true
-  - title: "Clarivate Launches New Artificial Intelligence Tools to Enable Trademark Professionals to Assess Brand Risk from Every Angle"
-    excerpt: "Clarivate Plc (NYSE: CLVT), a global leader in connecting people and organizations to intelligence they can trust to transform their world, today announced the launch of the Clarivate Brand Landscape Analyzer and the development of the Clarivate Trademark Watch Analyzer."
-    publishedDateTime: 2023-05-16T07:16:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/05/16/9814660.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "Cveiffkvyz0nYyq3b4nD+HBlSKNYna+KL2qHp3YR8I1znRDWD8+YHKkBjRd9WHu8JhzYh1q7RGef53bTAVWzj02dsRMYL0YDKmFCKG1SdyottJgxTwQsen47EuQR/x6fS2vMlY64Zh46uM8Xy7ggU5Yk6g66+0pW3I2ianEgj9Q9JFc4DP3GjMThHoCxbpILOp1UazYarv4rM9Y5cD+3OezdpVsKK1Suc5f+vUjZaR+cUeCo3NrP+5e2ld8GI+uBq7DdkbwidtjjQY+qd/t9LwV2EnYjBqE46bDBKLTztV9h/BOhpYx8+SSDUtsscAwTv/t8moYVLFCSET2QGZuTsi6uV++nfidBxbsBr2dwIK8L2idANpcwhnW8Xo3WFVpqnliVRk5IKgZjEyKbOdLby2FOQ4Z9xGzT66sqZ+7ZJfjtoPYxVD0me9WAv4CrHSeVUo8hSijbOclrYetBx4kPacf9A0PsDbwyW93FNnLkV1fJS2KDo/KEb96r5f6jT2bgasytOq3+mvwCHk453i1aQg==;1FoF8sO6JTa/dJxv88sRmQ=="
 ---

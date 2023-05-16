@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/tiriasresearch/2023/05/12/generative-ai
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2023/05/12/generative-ai-breaks-the-data-center-data-center-infrastructure-and-operating-costs-projected-to-increase-to-over-76-billion-by-2028/amp/"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Forbes
@@ -40,6 +40,15 @@ related:
       name: Mena FN
       domain: menafn.com
     quality: 18
+  - title: "Generative AI’s future in the enterprise: To infinity and beyond"
+    excerpt: "Breathtaking generative AI models and applications like OpenAI’s GPT3 and ChatGPT are unleashing new possibilities across enterprises everywhere. But while wicked smart, they’re still learning and evolving — and causing an existential stir."
+    publishedDateTime: 2023-05-15T14:00:00Z
+    webUrl: "https://www.fastcompany.com/90896021/generative-ais-future-in-the-enterprise-to-infinity-and-beyond"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 17
 
 secured: "H9N3EvcgVJAKIpnN+mNjqKT6333msqejb+djIcbo+O2cO4dT2up9+1libxc/epfyJxR19ljW0uqs/PTJWRcX2M3YYf9IPXDCRQEwIn4lqUygZlEYYKgOhEj8ssPWWUioz/Zufc3aKGbpRED8Seu+C+L3pRAgUXEGcFGC/qqB9FUGHNaHg6wYY94oN8Tfi2QN3kKmMnLEc0/Akj3i7xKtKhJw0eBFVtpAKd7yzRjhKkfMJX1MrMlONSV4dOpirZI1Gc2HiUVNiWNDSS5g3IpRcxNXkhdzAInjWo/wE61VFAisI76SvRTydX4q9akZez3Qmk7tp5jJG2n1AvVsG/cz26n4o+M4uy4NaVn7ob1SsV/dAPU/3L+1g7FnCjxVVHA5PmAMojBcsDgMQh5GizM7LBuH08z8qKaCo7jF3d+UXa9D7+X/Ep0tpWtg1Zh8e2dFnlrf4lnjCjn35cnEZPJIczaiz9YHJBoIYHRM8K2KmiVlSIU5dc1IXsnN0ppXb6WQz0cwK31rso/beYFPTu5BqA==;0WbkVXK2vPKU4wxDfZrKjw=="
 ---

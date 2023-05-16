@@ -2,19 +2,19 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2023-05-16-nigeria-election-the-mystery-of-the-altered-results-in-disputed-poll.md",
-      "title": "Nigeria election: The mystery of the altered results in disputed poll",
-      "excerpt": "On 25 February, Nigerians cast their votes at thousands of polling stations across the country. At each polling station, the votes for the party of each candidate were publicly announced and the results sheets taken for collation first at the ward level, then at local government (LGA) centres.",
+      "path": "_news/2023-05-16-nigeria-election-asiri-awon-esi-idibo-ti-won-kowo-bo-loju-ree.md",
+      "title": "Nigeria election: Àṣírí àwọn èsì ìdìbò tí wọ́n kọwọ́ bọ̀ lójú rèé",
+      "excerpt": "Nigba ti a ṣe ayẹwo aworan to wa lori atẹ Facebook naa pẹlu aworan ti Ariaga nigba to wa ka esi ibo naa, ẹ̀rọ Amazon Rekognition jẹ ko ye wa pe eniyan kan naa ni awọn mejeeji. Dr Ariaga ko fun wa lesi si gbogbo awọn atẹjiṣẹ ta kọ ...",
       "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/65163713",
-      "originalUrl": "https://www.bbc.com/news/65163713",
+      "webUrl": "https://www.bbc.com/yoruba/afrika-65613862",
+      "originalUrl": "https://www.bbc.com/yoruba/afrika-65613862",
       "featuredContent": null,
       "highlight": null,
       "heat": 84,
       "tags": null,
       "images": [
         {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/7854/production/_129440803_tinubu1.png",
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_yoruba/7854/production/_129440803_tinubu1.png",
           "width": 1024,
           "height": 576,
           "title": null,
@@ -24,9 +24,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/65163713.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/65163713.amp",
-      "publishedDateTime": "2023-05-15T17:02:00-07:00",
+      "ampWebUrl": "https://www.bbc.com/yoruba/afrika-65613862.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/yoruba/afrika-65613862.amp",
+      "publishedDateTime": "2023-05-16T08:39:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "BBC",
@@ -212,6 +212,59 @@
       ]
     },
     {
+      "path": "_news/2023-05-15-artificial-intelligence-for-accounting-market-next-big-thing-with-major-giants-microsoft-aws-xero-intuit.md",
+      "title": "Artificial Intelligence for Accounting Market Next Big Thing With Major Giants Microsoft, AWS, Xero, Intuit",
+      "excerpt": "Click Here to Get Free Sample PDF Copy of Latest Research on Artificial Intelligence for Accounting Market 2023 Before Purchase:  The report will also include information on the top companies in the Artificial Intelligence for Accounting market shares,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-for-accounting-market-next-big-thing-with-major-giants-microsoft-aws-xero-intuit-2023-05-15",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-for-accounting-market-next-big-thing-with-major-giants-microsoft-aws-xero-intuit-2023-05-15",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-15T00:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-12-ai-powered-code-suggestions-and-security-scans-in-amazon-sagemaker-notebooks-using-amazon-codewhisperer-and-amazon-codeguru.md",
       "title": "AI-powered code suggestions and security scans in Amazon SageMaker notebooks using Amazon CodeWhisperer and Amazon CodeGuru",
       "excerpt": "Amazon SageMaker comes with two options to spin up fully managed notebooks for exploring data and building machine learning (ML) models. The first option is fast start, collaborative notebooks accessible within Amazon SageMaker Studio—a fully integrated development environment (IDE) for machine learning.",
@@ -262,50 +315,6 @@
         "AI",
         "AWS AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-05-12-triumph-tech-ceo-aws-will-win-ai-war-vs-google-microsoft.md",
-      "title": "Triumph Tech CEO: AWS Will Win ‘AI War’ Vs. Google, Microsoft",
-      "excerpt": "Generative AI market of Amazon, Google and Microsoft’s OpenAI ChatGPT will be won by AWS due to the cloud company’s artificial intelligence customization and scalability, says Triumph Technology Solutions CEO.",
-      "sourceUrl": null,
-      "webUrl": "https://www.crn.com/news/cloud/triumph-tech-ceo-aws-will-win-ai-war-vs-google-microsoft",
-      "originalUrl": "https://www.crn.com/news/cloud/triumph-tech-ceo-aws-will-win-ai-war-vs-google-microsoft",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crn.com/resources/0281-17fee2fdcd7a-2e9db2bde58c-1000/vic-raymond.jpeg",
-          "width": 611,
-          "height": 458,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-12T08:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CRN",
-        "domain": "crn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Microsoft AI"
       ]
     },
     {

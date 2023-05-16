@@ -10,7 +10,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/2023-deep-learning-market-price-news-with-size-forecast-2030-2023-05-15",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -114,7 +114,7 @@
       "originalUrl": "https://www.forbes.com/sites/mattsymonds/2023/05/16/future-of-learningonline-innovation-for-a-career-in-tech/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 76,
       "tags": null,
       "images": [
         {
@@ -197,49 +197,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-14-17-ai-and-machine-learning-terms-everyone-needs-to-know.md",
-      "title": "17 AI and machine learning terms everyone needs to know",
-      "excerpt": "With the ongoing Artificial Intelligence boom, it is very important to understand the terminology in use. Here are 17 AI and machine learning terms everyone needs to know.",
-      "sourceUrl": null,
-      "webUrl": "https://www.indiatoday.in/education-today/grammar-vocabulary/story/17-ai-and-machine-learning-terms-everyone-needs-to-know-2379081-2023-05-14",
-      "originalUrl": "https://www.indiatoday.in/education-today/grammar-vocabulary/story/17-ai-and-machine-learning-terms-everyone-needs-to-know-2379081-2023-05-14",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202305/stockvault-digital-transformation-concept-virtual-hand-creating-network257818-sixteen_nine.jpg?VersionId=7bt_uMPGpWUZCkf7KELZEIZRX4kjQnWt",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.indiatoday.in/amp/education-today/grammar-vocabulary/story/17-ai-and-machine-learning-terms-everyone-needs-to-know-2379081-2023-05-14",
-      "cdnAmpWebUrl": "https://www-indiatoday-in.cdn.ampproject.org/c/s/www.indiatoday.in/amp/education-today/grammar-vocabulary/story/17-ai-and-machine-learning-terms-everyone-needs-to-know-2379081-2023-05-14",
-      "publishedDateTime": "2023-05-14T03:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Today",
-        "domain": "indiatoday.in",
-        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -969,8 +926,8 @@
       "title": "New Survey Finds Financial Leaders Investing in Analytics, AI and Machine Learning Tools as They Navigate Economic Uncertainty in 2023",
       "excerpt": "OneStream unleashes organizational value by unifying data management, financial close and consolidation, planning, reporting, analytics and machine learning. We empower Finance and Operations ...",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/05/b32287670/new-survey-finds-financial-leaders-investing-in-analytics-ai-and-machine-learning-tools-as-they-na",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/05/b32287670/new-survey-finds-financial-leaders-investing-in-analytics-ai-and-machine-learning-tools-as-they-na",
+      "webUrl": "https://www.morningstar.com/news/business-wire/20230504005722/new-survey-finds-financial-leaders-investing-in-analytics-ai-and-machine-learning-tools-as-they-navigate-economic-uncertainty-in-2023",
+      "originalUrl": "https://www.morningstar.com/news/business-wire/20230504005722/new-survey-finds-financial-leaders-investing-in-analytics-ai-and-machine-learning-tools-as-they-navigate-economic-uncertainty-in-2023",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -978,13 +935,13 @@
       "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/32287670",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32287670",
-      "publishedDateTime": "2023-05-09T06:08:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-09T06:22:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
+        "name": "Morningstar",
+        "domain": "morningstar.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1468,6 +1425,59 @@
         "Machine Learning",
         "AI",
         "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2023-05-07-a-mayday-call-for-artificial-intelligence.md",
+      "title": "A mayday call for artificial intelligence",
+      "excerpt": "Was Geoffrey Hinton's (the \"godfather of AI\") resignation from Google on May Day a true mayday signal for where AI is headed?",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/a-mayday-call-for-artificial-intelligence/",
+      "originalUrl": "https://venturebeat.com/ai/a-mayday-call-for-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/05/annevb_yelling_into_the_darkness_for_help._Mayday._colorful_tec_0a36545d-071c-43e1-8b42-cc2ee04e5099.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/a-mayday-call-for-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/a-mayday-call-for-artificial-intelligence/amp/",
+      "publishedDateTime": "2023-05-07T08:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Autos"
       ]
     }
   ],

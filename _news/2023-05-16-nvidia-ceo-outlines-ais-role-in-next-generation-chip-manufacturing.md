@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2023/05/16/nvidia-ceo-outlines-ais-role-n
 webUrl: "https://siliconangle.com/2023/05/16/nvidia-ceo-outlines-ais-role-next-generation-chip-manufacturing/"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -24,6 +24,17 @@ images:
     height: 1080
     isCached: true
 
-secured: "nCSUXNnt/ObxrSfIyzJ2H4HyIZ4Z0zAa6j5IqLn+MVFGRCLF/srVJSL1Igf++FOdl0MaGJ7i8HUfEfxcvlMvWzXEOP0agld4X8zqyRhOeqWQeg5pR6Z0n2jh0mojRSxdpUp1GiDu8TDIhP7Hqu2LkBRt3GfX8MTsN3m7yd6bdDTGxoDyy7izr5sUCh92QBi+ygl3S4mGXI9ziANhzgqI727j3jAblMeNtNllVM+XE1BfIqh8TJuDmGnzhrJmfFQJm51rSST8OL2BECmLgifIEHx2dggu7GOHDN2D8hMpgbMS1HAPNLB2/AaCXqsnFOSJwCcwlzP/BxZYlN6F8LPOgMcp0J7bcCwM4D6HNoBLKFM=;Ae8/yjb2iS4fNo7IeiQHOA=="
+related:
+  - title: "Chip manufacturing ‘Ideal Application’ for AI"
+    excerpt: "NVIDIA CEO Jensen Huang outlines the role of accelerated computing and AI in address to semiconductor industry leaders at ITF World 2023."
+    publishedDateTime: 2023-05-16T12:12:00Z
+    webUrl: "https://www.newelectronics.co.uk/content/features/chip-manufacturing-ideal-application-for-ai"
+    type: article
+    provider:
+      name: New Electronics
+      domain: newelectronics.co.uk
+    quality: 34
+
+secured: "QzL7xOPzi7jxbintTPhzEn1AEl4UtZNadZ/0oUQZPy1Ob/i6eOlkG76IlZIsqzoKFMuVSJAz/g3rmURm/ZVqMZbDCL3f/PV+vjyZXsG/W+PUpbh8TbYBS4Ay1wnsbay3jvc4+UPNhh15w9WcqpEUfSS1D/kj8ZC6jBeo0vLQRXqLE/tAtmRx4PJg/fIaL8czogQfd7SJ20z4e0knkNLTD/YnIjBGLRltS2xE855oroeQx9zwEJZFfDJmfC4p+/ZTtVaZAX2AnV8sDONFZu7kxQbd+0P7uPbVqa4Egct6/jWZMijx9kGjIPbjoBC9Iuaff2u9vXO84+QW2piexLNafk2p0yrWEAW7F/Pdx+QJ8k4cHa/G/UcA7YEl9y97lDyzstDUeJqg6I3cq2It5wXNrQAJmmAwGc+20EkYUZTX1ujzAq1URmvIzl4Vt6jOTtxSDlNJ/xs9rpqKSWQTdeOUS1Rxd/woO6JOiCDENHjg2BdHKTqSqmJvPOZn49VocthxpnBGf8IPRaTJbQ67z+i+VA==;AvmZkH/B3OU7nR9G39G+XA=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.twincities.com/2023/05/11/tesla-shouldnt-call-driving-sy
 cdnAmpWebUrl: "https://www-twincities-com.cdn.ampproject.org/c/s/www.twincities.com/2023/05/11/tesla-shouldnt-call-driving-system-autopilot-because-humans-are-still-in-control-buttigieg-says/amp/"
 type: article
 quality: 46
-heat: -1
+heat: 46
 published: false
 
 provider:
@@ -27,38 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla to roll out free Full Self-Driving software, but there's a catch"
-    excerpt: "Tesla will initially roll out the FSD as a free trial version for one month before initiating a subscription for the users."
-    publishedDateTime: 2023-05-15T07:41:00Z
-    webUrl: "https://auto.hindustantimes.com/auto/electric-vehicles/tesla-to-roll-out-free-full-self-driving-software-but-theres-a-catch-know-here-41684132659743.html"
-    ampWebUrl: "https://auto.hindustantimes.com/auto/electric-vehicles/tesla-to-roll-out-free-full-self-driving-software-but-theres-a-catch-know-here/amp-41684132659743.html"
-    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/electric-vehicles/tesla-to-roll-out-free-full-self-driving-software-but-theres-a-catch-know-here/amp-41684132659743.html"
-    type: article
-    provider:
-      name: Auto News India
-      domain: hindustantimes.com
-    quality: 59
-    images:
-      - url: "https://images.hindustantimes.com/auto/img/2023/05/15/1600x900/model-y-social_1594536897997_1594536909822_1684136305607.png"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "Tesla To Roll Out Free One-Month Full Self-Driving Trial Once It’s “Super Smooth”"
-    excerpt: "Elon Musk tweeted that Tesla will offer free FSD trials for users in North America and, eventually, the rest of the world"
-    publishedDateTime: 2023-05-15T00:19:00Z
-    webUrl: "https://www.carscoops.com/2023/05/tesla-to-roll-out-free-one-month-full-self-driving-trial-once-its-super-smooth/"
-    ampWebUrl: "https://www.carscoops.com/2023/05/tesla-to-roll-out-free-one-month-full-self-driving-trial-once-its-super-smooth/amp/"
-    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2023/05/tesla-to-roll-out-free-one-month-full-self-driving-trial-once-its-super-smooth/amp/"
-    type: article
-    provider:
-      name: Carscoops
-      domain: carscoops.com
-    quality: 54
-    images:
-      - url: "https://www.carscoops.com/wp-content/uploads/2021/10/Tesla-Full-Self-Driving.jpg"
-        width: 1920
-        height: 1040
-        isCached: true
   - title: "Tesla shouldn't call driving system Autopilot because humans are still in control, Buttigieg says"
     excerpt: "Not everyone is thrilled by the idea of using *** self driving car amid *** string of headlines about Tesla's seemingly random car crashes while an autopilot triple *** conducted *** survey of nearly 1000 adults and found 68% said they are afraid of fully ..."
     publishedDateTime: 2023-05-13T15:49:00Z
@@ -99,15 +67,6 @@ related:
     provider:
       name: News Tribune
       domain: newstribune.com
-    quality: 19
-  - title: "Tesla shouldn’t call driving system Autopilot, Buttigieg says"
-    excerpt: "WASHINGTON >> Tesla shouldn’t be calling its partially automated driving system Autopilot because the cars can’t drive themselves, the top U.S. transportation official says."
-    publishedDateTime: 2023-05-11T19:30:00Z
-    webUrl: "https://www.staradvertiser.com/2023/05/11/breaking-news/tesla-shouldnt-call-driving-system-autopilot-buttigieg-says/"
-    type: article
-    provider:
-      name: Honolulu Star-Advertiser
-      domain: staradvertiser.com
     quality: 19
 
 secured: "bJvghwzSpVy18NeWDCg4hjblbUozpNS8VkKVSafndmsF4ojwZNEoH/aoGuKuR6Kuu9P8FjSaaZ1GNuLa1b1bXvbIrjvPDtFzB8GYIrpsv5VegGGdqLpdZjRO2akWFWTwH5pzyEW+jes0V5bCxmGzx+im6IvMashVmtQLFjuaRQQL1d02pAyBzTihGBuE4VATyUMq061PAYINPx8KGM7VS9JONNYRN4LnbNTfVO5Hs8RavO9Q2vFamQKHHDWgE4oAcWHG5jzRDxZHbzEM5d+Foh1Z/3FjVPVmjKVk7VhkEDIfvo5jzFPzR6bOUbyVy16UzLOaNyLxYa1V0aUeu9ogT9fZIO5/dqGxM0mYymccYMI=;Ds576SsZEr4hs9vSXLi1sQ=="

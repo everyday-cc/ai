@@ -67,6 +67,17 @@ related:
         width: 1280
         height: 851
         isCached: true
+  - title: "Retail revolution: new data reveals next generation of shoppers ready for AI, AR and Robots"
+    excerpt: "New research shows that next generation of shoppers will prefer real-life shopping over virtual reality but crave tech innovation to elevate their shopping experience, with 81% of Gen Z'ers & Millenni"
+    publishedDateTime: 2023-05-16T14:39:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/05/n32424333/retail-revolution-new-data-reveals-next-generation-of-shoppers-ready-for-ai-ar-and-robots"
+    ampWebUrl: "https://www.benzinga.com/amp/content/32424333"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32424333"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 44
 
 secured: "GVOH5gt1Z+Zqqu5kNn7H7/F1621eDup0Uqo3tVi+0xHENbtclS+m1p3SeT3gG5qIT2TwNfw4CdleXwm8g8YfTgZRQAU53YX6Gb3/NXWvqjGbChjKYNX5XVR8nrsOMf30iyrpdFipc7zQCX0QxB7SrvC6qBP/BmPzYSFjHSyNyXaDB+imT/n9WkBgmOk9v6PlOjITjGyac9mKzl8JWE5yJBhDAfyec1eHd3mtFqgX/JHgh4YbwQfaW6HwcJoAOp4mznPhtQdTXUj2tCLr1j+WiUovCR570n81kZlHP9A/cgb5fAe1xe78ZsExS/2xMh99DlPykfHMvH1mQx1d+mtcv8k9ZdHrDfjF2hn3suyBwR5AvTyMz1thfYdSIu1RNwO7cj+OLYAhD0iW3+v6VZvYYVFaV/yy/XgXB8s9TLkYlfTBhiEj5JB0IqvS+68ITqW3xHAMwilpiggJH2093B6IUHbcSbGF0ScnVW2QFYmdXfML9wYm0hbctZb9fuF6rIZanbeeSb0jDib1bnCmiU0B/Q==;EHw9ygcpnbHnSC0qD0scXQ=="
 ---

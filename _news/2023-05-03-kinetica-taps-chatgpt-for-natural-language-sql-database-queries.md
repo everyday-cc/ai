@@ -1,26 +1,24 @@
 ---
 category: news
 title: "Kinetica taps ChatGPT for natural language SQL database queries"
-excerpt: "Kinetica, a relational database provider for online analytical processing (OLAP) and real-time analytics, is harnessing the power of OpenAI’s ChatGPT to let developers use natural language processing to do SQL queries. Kinetica, which offers its database ..."
-publishedDateTime: 2023-05-03T00:36:00Z
-originalUrl: "https://www.reseller.co.nz/article/706950/kinetica-taps-chatgpt-natural-language-sql-database-queries/"
-webUrl: "https://www.reseller.co.nz/article/706950/kinetica-taps-chatgpt-natural-language-sql-database-queries/"
+excerpt: "Kinetica, a relational database provider for online analytical processing (OLAP) and real-time analytics, is harnessing the power of OpenAI’s ChatGPT to let developers use natural language ..."
+publishedDateTime: 2023-05-03T09:30:00Z
+originalUrl: "https://www.infoworld.com/article/3694877/kinetica-taps-chatgpt-for-natural-language-sql-database-queries.html"
+webUrl: "https://www.infoworld.com/article/3694877/kinetica-taps-chatgpt-for-natural-language-sql-database-queries.html"
 type: article
 
 provider:
-  name: Reseller News
-  domain: reseller.co.nz
+  name: InfoWorld
+  domain: infoworld.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Natural Language Processing
   - AI
 
-images:
-  - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/promoted_content/promo/chatgpt-browser-erweiterungen_chuan-chuan-100937275-orig_4.jpgautowebp8570"
-    width: 560
-    height: 315
-    isCached: true
-
-secured: "xZmNcwPy3u2+4QI/qltiuTakE3oqMhthC4csBfc5R5VK3PlPyIL9afjzZOtdddV7LpzifithiKMcihCmkLlHyL3YFquvDsgk/LhxWGyE3WsFBlhYXtobMVRqWbqS/emaVNSl8PCjXQs1d/WOomi3HxafvmrjQWHcGxRbbKLQ1bDECdBU8n0Fd+mIktT4MPT6dVgSTlaSzhCj1Pl1hb7oDWomBPF9lRAJhVKUOnpbFj8dkC1yu8KOWjm4nIx9nWayI5Xlkv2F1N+GEwDRIBIaIvX0JBLLwc1ALXStwA4G73TtWK7VF5GUlOoyMJRc9vind0qtdM3QeSaBPCAQqunX+60DeyvxQQOB40U51SWnt0c=;PKm9Kwy4KtJQB9HdJ30v+Q=="
+secured: "737GrG01NsulCp3eJBEKi9aHm5TZEf8mFDwLPWOpxgeb1MpGCImyla8S7fIYc9PjrfJgo6soJ+bFWLqa2G8nw6QndCGUIe3b5FM43vhBxj3a4vNi3cmc7xPcyPzNViQKthV3n9qYm+4GVS763fhVA7dWKyW5x6ul4IlHlgiTIJGGAoaAhNts4b6Obta5N9Z6jSFiLMqEnYS+p882rVj9+YbN7bihZxjaKc0nQ9Nf2UdTq77dU1vQyf5diT8VglWk0cjeyiRc2TBG8wAZktJPho9Ynmya7VjgoS30SxeY8wWcFMkG4BexqEYT5ZQHXTPXbBqhFE7wignbTEnxdGesWCFDX05FSDR1PN1Khg73X4Y=;zV3pUMEz29D1IWln3Bm5nw=="
 ---
 

@@ -7,8 +7,8 @@ originalUrl: "https://www.pcmag.com/news/claude-ai-can-digest-75000-words-in-und
 webUrl: "https://www.pcmag.com/news/claude-ai-can-digest-75000-words-in-under-a-minute"
 type: article
 quality: 67
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: PC Magazine
@@ -26,6 +26,17 @@ images:
     width: 1120
     height: 630
     isCached: true
+
+related:
+  - title: "Zoom adds its own AI assistant named Claude"
+    excerpt: "Zoom just announced a strategic partnership with Anthropic, an artificial intelligence company that conducts research into AI safety and develops tools based on that work. The collaboration will integrate Anthropic's AI assistant, Claude, into the Zoom platform, including the Zoom Contact Center."
+    publishedDateTime: 2023-05-16T13:00:00Z
+    webUrl: "https://www.zdnet.com/article/zoom-adds-its-own-ai-assistant-named-claude/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 47
 
 secured: "3iHZJf3xP2vfiZkGLTnFpPck+iW5fvhHKtFDnO6hFQ7UkmnbtI1YsNlIki78a1x99P5qtTGVtrNXYRkLcQHWdVyaddyhA2d3JAJjuHl4s2DxpdqU48O62eM7RRgpaZLWVruG5E7aW05aoZ+ZaYPa6NszZBPVrPA28gKSsvqnjXoFiA6z3lSSznB1S9o1sJSn/nd+MWYQBaNJGIh/e+qAbSKEAh1UAc+4p4/adhbRxAOpXLj9Glx76PeR8JIqgrP7eWFHXvMVlagIUFtK8Mqs2T/UICjqo668jEpyngddKwxEkXXB0ILQJr2ulH94DL+1c9ixHvSJWw0AalyIinI6LfiRcjGhciM/72GnTt2ye5amNTVSOIaLCbB2LPae5PzW5Z/xfHXLZ8NkaqaEoZybk8iWMDJgpqahgCzssCyjuAV1ysixAZ8HXhXjuuynKGNQ+7r51n069Jky6viHiRXjuxcQKuW1wYvqNuMZ7Q2edEdil2rvF4stJQB93gD2Ha0GSmMREdvlEQGHQVck352zbA==;sU1VwhIPE3QsMKL6yOiPDg=="
 ---

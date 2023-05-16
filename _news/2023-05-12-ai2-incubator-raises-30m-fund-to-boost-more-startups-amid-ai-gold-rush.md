@@ -7,8 +7,8 @@ originalUrl: "https://www.geekwire.com/2023/allen-institute-for-ai-raises-30m-fu
 webUrl: "https://www.geekwire.com/2023/allen-institute-for-ai-raises-30m-fund-for-incubator-to-boost-more-startups-amid-ai-gold-rush/"
 type: article
 quality: 67
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: GeekWire
@@ -26,6 +26,22 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "Restaurant tech startup Tre'dish raising $30M Series A"
+    excerpt: "Tre'dish, the Toronto-based restaurant tech provider, is raising a $30 million Series A round, CEO Peter Hwang tells Axios exclusively. Why it matters: Independent restaurant operators need software tools that help them manage costs, like the increase in the price of labor and ingredients."
+    publishedDateTime: 2023-05-16T15:32:00Z
+    webUrl: "https://www.axios.com/pro/retail-deals/2023/05/16/restaurant-tech-startup-tredish-raising-30m-series-a"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 37
+    images:
+      - url: "https://images.axios.com/V0JKuDEAKLPDHidnezSWhJExTQY=/0x0:1920x1080/1366x768/2023/05/16/1684246417868.jpg"
+        width: 1366
+        height: 768
+        isCached: true
 
 secured: "gdIEptBVOUvgFYFxTEVTqs/Xm9FcxAJTUmQoyf3WYIuPgWqyrygP6e/R7JCEeKOL3ruAzpbYyWL9akkwd9qvokziR8Uu/LIusDMtJRnCnCn54bM1yC2tfTxE3BJZUOPDW71Uagbtj/j79gGteQUx7t/l0qwlWY7O7RDKkweSNRHzLeqapDUUuinla06TOegSR+FvfZgvtYDC/7lI3FWZwCMjXIKF6kvpB2aUbAaVi19qS6qTy6LSMijcyMXxFE6LNo5wmzqFtXT1DLmodcKVaPzRwCRIAU27ETp6McLPeqLm0qmbXStkihFC5a6Mc5w90cYZaXO71Cfgek8nRWkOHEO9by/5RwNBPvuR1O4a37la3aXhoX7oflKWccUJVB33uHCGedPlYhqgb2CrwCRD72Zlu1QRLosOE+vK95QqdzX/ftYFdWzA6X5Zn+48KBEcQf3Igw0F11UoZ/jUyCtapQe7eGnw3NdcDihUpFn5HpARpFNdUtOLfKNRGZ8YkqFgd5toB2xgfbBTjD/mvnrnvw==;58EQp1KOZapZ3g1rhr83ZQ=="
 ---

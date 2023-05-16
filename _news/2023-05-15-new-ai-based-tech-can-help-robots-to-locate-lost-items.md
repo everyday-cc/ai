@@ -33,6 +33,15 @@ related:
         width: 1200
         height: 450
         isCached: true
+  - title: "Waterloo engineers task AI robot to help people with dementia"
+    excerpt: "Harnessing the power of Artificial Intelligence to help patients keep track of their medicines, glasses, and even their keys."
+    publishedDateTime: 2023-05-16T13:18:00Z
+    webUrl: "https://interestingengineering.com/innovation/waterloo-engineers-task-ai-robot-to-help-people-with-dementia"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 34
 
 secured: "8oJ+kz/BrLfgoT+QqoPjygqhHq1Uw2MqM8g0y0qmrhxwFX3XqqK6XH1mbpACvrsa+XAzCer7GCCKwp3SVqezEOc3pDv+Ps/HSc525EHdEtJgLZZjy+r0Ubm6YqjMS1/u0EzIJTgmbaHzFjlZ/8SN02tsHEFNUViD2w+di/YxkDh0sJv8Dh2qELuPyZn5zw+XHu8Ao9+zKFP/maepx2DOiIPd42JOupF4co0swlKqTU8fEzlVo4hITNYJ8Rm5C6C7oacj6jmy/bi+GkVjw+iba+Vz/laJ6hrLDj/mx0hiG4TAnRmAe1zLG72jeMM+Cbd0b2kB05BejqWYcXDxK5WpEzzt65neHOXm+Z3TQpSsmag=;TYxnqcNQ/qim3jUeMLl7pQ=="
 ---

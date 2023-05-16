@@ -43,22 +43,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Scotland set to debut UK's first self-driving bus next week"
-    excerpt: "Scotland is on the verge of a major transportation breakthrough as it prepares to launch the UK's first-ever driverless bus network. The driverless buses, equipped with cutting-edge technology,"
-    publishedDateTime: 2023-05-11T20:45:00Z
-    webUrl: "https://www.thenews.com.pk/latest/1069301-scotland-set-to-debut-uks-first-self-driving-bus-next-week"
-    ampWebUrl: "https://www.thenews.com.pk/amp/1069301-scotland-set-to-debut-uks-first-self-driving-bus-next-week"
-    cdnAmpWebUrl: "https://www-thenews-com-pk.cdn.ampproject.org/c/s/www.thenews.com.pk/amp/1069301-scotland-set-to-debut-uks-first-self-driving-bus-next-week"
-    type: article
-    provider:
-      name: The News International
-      domain: thenews.com.pk
-    quality: 44
-    images:
-      - url: "https://www.thenews.com.pk/assets/uploads/updates/2023-05-12/1069301_022208_updates.jpg"
-        width: 700
-        height: 400
-        isCached: true
   - title: "First self-driving buses enter service on UK roads"
     excerpt: "The UK’s first self-driving bus service has launched in Scotland, taking passengers across the famed road bridge over the Firth of Forth. Five full-size Alexander Dennis Enviro200AV buses will traverse the bridge using autonomous driving technology as they transport up to 10,"
     publishedDateTime: 2023-05-15T09:47:00Z

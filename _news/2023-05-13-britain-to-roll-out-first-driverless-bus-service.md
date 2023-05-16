@@ -53,22 +53,6 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "UK to roll out first driverless bus service"
-    excerpt: "The UK will roll out its first driverless bus network in Scotland next week with drivers on standby behind the steering wheel, ready to take control should an emergency arise."
-    publishedDateTime: 2023-05-11T20:13:00Z
-    webUrl: "https://techxplore.com/news/2023-05-uk-driverless-bus.html"
-    ampWebUrl: "https://techxplore.com/news/2023-05-uk-driverless-bus.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-05-uk-driverless-bus.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/edinburgh.jpg"
-        width: 2880
-        height: 2030
-        isCached: true
   - title: "Self-driving Cars Market in 2023: Insights and Strategies | 2031"
     excerpt: "New “Self-driving Cars Market” Report 2023 by Manufacturers and Forecast to 2031: Get the latest insights into"
     publishedDateTime: 2023-05-15T04:45:00Z
@@ -110,34 +94,6 @@ related:
       - url: "https://technology.inquirer.net/files/2023/05/Driver_Stuart_Doidge_monitors_an_autonomous_bus_as_it_drives_across_the_Forth_Road_Bridge_between_Edinburgh_and_Fife_during_a_press_preview_for_the_CAV_Forth_a_bvXSMR84YoEl-620x413.jpg"
         width: 620
         height: 413
-        isCached: true
-  - title: "How Google's Self-Driving Car Will Change Everything"
-    excerpt: "The hype around driverless cars has grown rapidly over ... computer-processing capabilities and sophisticated artificial intelligence systems are becoming more advanced and more affordable every ..."
-    publishedDateTime: 2023-05-14T23:44:00Z
-    webUrl: "https://www.investopedia.com/articles/investing/052014/how-googles-selfdriving-car-will-change-everything.asp"
-    type: article
-    provider:
-      name: Investopedia
-      domain: investopedia.com
-    quality: 24
-    images:
-      - url: "https://www.investopedia.com/thmb/7VBCRiddsGRnBOFFrpQfDTZJTuc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/google-car_ap353779913372-5bfc376146e0fb0051c0d8d7.jpg"
-        width: 680
-        height: 440
-        isCached: true
-  - title: "What self-driving cars may mean for traffic"
-    excerpt: "AI might be arriving with a bang, but autonomous cars are crawling closer at a snail’s pace. What’s the delay? And what can we expect to change on our roads in the next decade?"
-    publishedDateTime: 2023-05-15T07:01:00Z
-    webUrl: "https://www.thestar.com.my/lifestyle/living/2023/05/15/what-self-driving-cars-may-mean-for-traffic"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 24
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2023/05/15/2072912.jpg"
-        width: 800
-        height: 507
         isCached: true
 
 secured: "Beau6eK5qmjSlCr2Lf7ZoacqdYnJw2jMc8o7ykyOv4nndpMLNhZ0WQ7cZyOFH7CJ0IckhThchhYgadoeKfWBOpCkdJOa+Rebpjzo6CRFEj9Y2aQSgOlAdJqXM6CwRUpzR7Gco0JcYPV2DjCXDMqUTPw2o3zI5F8vaU3yxL8bChdzRxh8JCb1zX/P6fB8alW0TcY1o7w9eG28Eib+qSoNO9hb8kF05oWfxzQvN4j6DzI/AAG0NI5dkWZm5+8R5Ff7xr6eOw/QEnm5Ft5az6OgeK0XYfVNWKku1iHqexzsUNelQPCwkx6ClRo/Zc3OCcM0Lfsa/KecR5FGxDpU/+awPPEUzq+cAe0LuiM9Ue43rqo4RyXzE90Qb+7mCxqrvpkqz8Z7pVGHQSMYBOWkp61f1BetNnvc2/MPhs6rW5ZcKux2FYKd1wr4gsl/PSsbmpKM6oX2F7p5KlXa+AzfcSK+M/F16L0TV1LzrsgvTZn3+XfxmE17ffczcCabu4Qy2ynXfX3Y3riiyMCaJdgKxYhlRQ==;XHwtpjnuE5Cd4Q0LnbodsQ=="

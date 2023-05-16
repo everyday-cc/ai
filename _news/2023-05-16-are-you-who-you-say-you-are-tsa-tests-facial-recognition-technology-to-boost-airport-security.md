@@ -86,20 +86,20 @@ related:
       domain: nbcnews.com
     quality: 81
   - title: "Are you who you say you are? TSA tests facial recognition technology to boost airport security"
-    excerpt: "TSA says the goal of the pilot is to improve the accuracy of the identity verification without slowing down the speed at which passengers pass through the checkpoints — a key issue for an agency that sees 2."
-    publishedDateTime: 2023-05-15T10:57:00Z
-    webUrl: "https://www.cbsnews.com/baltimore/news/are-you-who-you-say-you-are-tsa-tests-facial-recognition-technology-to-boost-airport-security/"
-    ampWebUrl: "https://www.cbsnews.com/amp/baltimore/news/are-you-who-you-say-you-are-tsa-tests-facial-recognition-technology-to-boost-airport-security/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/baltimore/news/are-you-who-you-say-you-are-tsa-tests-facial-recognition-technology-to-boost-airport-security/"
+    excerpt: "The agency tasked with securing America's airports is testing the use of facial recognition technology at a number of airports across the country"
+    publishedDateTime: 2023-05-15T06:17:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/tsa-tests-facial-recognition-technology-boost-airport-security-99322639"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/tsa-tests-facial-recognition-technology-boost-airport-security-99322639"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/tsa-tests-facial-recognition-technology-boost-airport-security-99322639"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 79
     images:
-      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/05/15/02a907ec-29f8-43ac-baed-9704c4df6bc5/thumbnail/1200x630/e70ef45625a6b1fad873a85c97aab290/ap23116691460840.jpg"
-        width: 1200
-        height: 630
+      - url: "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Smile! Reid airport is testing ground for facial recognition project"
     excerpt: "The TSA says the pilot program is voluntary and accurate, but critics have raised concerns about questions of bias in facial recognition technology."
@@ -181,6 +181,20 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Facial Recognition Replaces Boarding Pass at Berlin Airport"
+    excerpt: "New biometric service for Lufthansa Group HON Circle Members and Senators at Berlin airport with “BER Traveller”"
+    publishedDateTime: 2023-05-16T14:37:00Z
+    webUrl: "https://eturbonews.com/facial-recognition-replaces-boarding-pass-at-berlin-airport/"
+    type: article
+    provider:
+      name: eturbonews
+      domain: eturbonews.com
+    quality: 54
+    images:
+      - url: "https://s9h7f8a7.rocketcdn.me/wp-content/uploads/2023/05/0-47-e1684247900334.jpg"
+        width: 600
+        height: 427
+        isCached: true
   - title: "TSA testing facial recognition at more airports, raising privacy concerns"
     excerpt: "Advocates are concerned about how the data is collected, who has access to it and what happens if it gets hacked."
     publishedDateTime: 2023-05-16T01:05:00Z
@@ -238,7 +252,7 @@ related:
         isCached: true
   - title: "TSA testing facial recognition technology, prompting privacy concerns"
     excerpt: "A new project by the Transportation Security Administration is using facial recognition software to verify identities."
-    publishedDateTime: 2023-05-16T03:57:00Z
+    publishedDateTime: 2023-05-16T06:19:00Z
     webUrl: "https://www.fox13now.com/tsa-testing-facial-recognition-technology-prompting-privacy-concerns"
     type: article
     provider:

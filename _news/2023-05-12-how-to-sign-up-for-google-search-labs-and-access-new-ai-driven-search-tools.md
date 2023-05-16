@@ -9,8 +9,8 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/how-to-sign-up-for-google-searc
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/how-to-sign-up-for-google-search-labs-and-access-new-ai-driven-search-tools/"
 type: article
 quality: 85
-heat: 125
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNET
@@ -30,59 +30,22 @@ images:
     isCached: true
 
 related:
-  - title: "Google Launching Tools to Identify Misleading and AI Images"
-    excerpt: "Google is adding two new features to its image search to reduce the spread of misinformation, especially now that artificial intelligence tools have made the creation of photorealistic fakes trivial."
-    publishedDateTime: 2023-05-15T05:42:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-05-15/google-launching-tools-to-identify-misleading-and-ai-images"
+  - title: "SAP Develops AI-Driven Skills For Workforce Processes"
+    excerpt: "Embedding generative AI and chatbots into SAP is all about increasing the productivity of all users and opening up new workplace innovations says SAP CEO Christian Klein."
+    publishedDateTime: 2023-05-16T15:43:00Z
+    webUrl: "https://www.forbes.com/sites/adrianbridgwater/2023/05/16/sap-develops-ai-driven-skills-for-workforce-processes/"
+    ampWebUrl: "https://www.forbes.com/sites/adrianbridgwater/2023/05/16/sap-develops-ai-driven-skills-for-workforce-processes/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2023/05/16/sap-develops-ai-driven-skills-for-workforce-processes/amp/"
     type: article
     provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 67
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/im1kpz2VrkVs/v0/1200x798.jpg"
-        width: 1200
-        height: 798
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6463a2c2725d839f05c2ff1c/0x0.jpg?format=jpg&width=1200"
+        width: 640
+        height: 403
         isCached: true
-  - title: "Google is accelerating a little too fast into the AI unknown"
-    excerpt: "Google has announced that new tech for generating content will be added to Gmail, Google Docs, Google Maps and Google Photos, as well as its search engine. The search giant is aiming to enhance its core products with artificial intelligence (AI),"
-    publishedDateTime: 2023-05-15T17:57:00Z
-    webUrl: "https://www.livemint.com/opinion/columns/googles-ai-arms-race-rush-to-stuff-generative-ai-into-services-but-risk-eroding-trust-of-consumers-and-advertising-customers-11684173426813.html"
-    ampWebUrl: "https://www.livemint.com/opinion/columns/googles-ai-arms-race-rush-to-stuff-generative-ai-into-services-but-risk-eroding-trust-of-consumers-and-advertising-customers/amp-11684173426813.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/opinion/columns/googles-ai-arms-race-rush-to-stuff-generative-ai-into-services-but-risk-eroding-trust-of-consumers-and-advertising-customers/amp-11684173426813.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 61
-    images:
-      - url: "https://images.livemint.com/img/2018/12/28/600x338/Opinion_1545994499293.jpg"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "Google Is in Too Much of a Hurry on AI Search"
-    excerpt: "As AI answers fill our phone screens, what will become of the tech giant’s relationship with advertisers — or the truth?"
-    publishedDateTime: 2023-05-11T23:53:00Z
-    webUrl: "https://www.washingtonpost.com/business/2023/05/12/google-is-rolling-the-dice-with-ai-search/42a55c5a-f081-11ed-b67d-a219ec5dfd30_story.html"
-    type: article
-    provider:
-      name: The Washington Post
-      domain: washingtonpost.com
-    quality: 39
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IH5Q43HQQEI63NT5UIM6YXP5GA.jpg&w=1440"
-        width: 1440
-        height: 958
-        isCached: true
-  - title: "Clarivate Launches New Artificial Intelligence Tools to Enable Trademark Professionals to Assess Brand Risk from Every Angle"
-    excerpt: "Clarivate Plc (NYSE: CLVT), a global leader in connecting people and organizations to intelligence they can trust to transform their world, today announced the launch of the Clarivate Brand Landscape Analyzer and the development of the Clarivate Trademark Watch Analyzer."
-    publishedDateTime: 2023-05-16T07:16:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/05/16/9814660.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "Y9pcw5VHr4AscaBaSgEG67g8eVwjAMCa8+CPrgz+gHCmoBw+d9GFf+wbC1BRzDs7E23HyeFIkxK3LL5FopSZdvYAR58a6yPAxNqClLqyZgkvJ61dMnobrY37ov4ITuOonB1+WlxcTonSFw8izcCGTUHUHPpitkh2BlxPwNSOfalSjZ2hkscYe0jCYtBjMUZbz6KiWO89x6fFi2KvNjprWCsBsa3KqggoFyjPIapjxKjeQHg8V6BL2qE+6hJbexoteQQgF+6OwjqpkTLq7D/E7SDMwCXf8PM2zP8ZJNaqiROQw8YtnISB7YYvwsuCVjRGKwTcej9yLdktkdgpQkHzufx21G5wfxXBQ6UyRd4MadC6JzZG3KnBsV8R54OLLKx9qczVI57e46LkCyHXZfbA3bPp5bgpHi8h4p63vTNC1Y+ufXc1TJ2tecvok14Z/5Om9s5nv4NeAxa1mGovC6YILfhbZ8Ie3e4uN4a3iI7270jqHDililBO+xZvfdMBIy8vLMup9ML7bE8TyZNTFlHUtw==;egg6fsVShyjJSlkAdLSQ6g=="
 ---

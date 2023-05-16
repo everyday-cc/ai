@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-05-16-teslas-full-self-driving-sees-pedestrian-chooses-not-to-slow-down.md",
+      "title": "Tesla’s “Full Self-Driving” sees pedestrian, chooses not to slow down",
+      "excerpt": "But alarmingly, a video posted to Twitter over the weekend shows that although the Tesla system can see pedestrians crossing the road, a Tesla can choose not to stop or even slow down as it drives past.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/cars/2023/05/teslas-full-self-driving-sees-pedestrian-chooses-not-to-slow-down/",
+      "originalUrl": "https://arstechnica.com/cars/2023/05/teslas-full-self-driving-sees-pedestrian-chooses-not-to-slow-down/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/FSD-screenshot-800x452.jpg",
+          "width": 800,
+          "height": 452,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/cars/2023/05/teslas-full-self-driving-sees-pedestrian-chooses-not-to-slow-down/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/cars/2023/05/teslas-full-self-driving-sees-pedestrian-chooses-not-to-slow-down/amp/",
+      "publishedDateTime": "2023-05-16T07:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-16-worlds-first-self-driving-bus-rolls-out-in-scotland.md",
       "title": "World’s first self-driving bus rolls out in Scotland",
       "excerpt": "The world’s first self-driving bus rolled out in Scotland carrying passengers on a regularly scheduled route. NBC News’ Matt Bradley reports on the future of public transport.",
@@ -10,7 +62,7 @@
       "originalUrl": "https://www.nbcnews.com/now/video/world-s-first-self-driving-bus-rolls-out-in-scotland-174465605630",
       "featuredContent": null,
       "highlight": null,
-      "heat": 125,
+      "heat": 115,
       "tags": null,
       "images": [
         {
@@ -141,21 +193,21 @@
       ]
     },
     {
-      "path": "_news/2023-05-15-tesla-to-roll-out-free-full-self-driving-software-but-theres-a-catch.md",
-      "title": "Tesla to roll out free Full Self-Driving software, but there's a catch",
-      "excerpt": "Tesla will initially roll out the FSD as a free trial version for one month before initiating a subscription for the users.",
+      "path": "_news/2023-05-15-what-are-the-dangers-of-ai-find-out-why-people-are-afraid-of-artificial-intelligence.md",
+      "title": "What are the dangers of AI? Find out why people are afraid of artificial intelligence",
+      "excerpt": "Many experts worry that the rapid development of artificial intelligence may have unforeseen disastrous consequences for humanity. Machine learning technology is designed to assist humans in their ...",
       "sourceUrl": null,
-      "webUrl": "https://auto.hindustantimes.com/auto/electric-vehicles/tesla-to-roll-out-free-full-self-driving-software-but-theres-a-catch-know-here-41684132659743.html",
-      "originalUrl": "https://auto.hindustantimes.com/auto/electric-vehicles/tesla-to-roll-out-free-full-self-driving-software-but-theres-a-catch-know-here-41684132659743.html",
+      "webUrl": "https://www.foxnews.com/tech/what-dangers-find-out-why-people-afraid-artificial-intelligence",
+      "originalUrl": "https://www.foxnews.com/tech/what-dangers-find-out-why-people-afraid-artificial-intelligence",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 129,
       "tags": null,
       "images": [
         {
-          "url": "https://images.hindustantimes.com/auto/img/2023/05/15/1600x900/model-y-social_1594536897997_1594536909822_1684136305607.png",
-          "width": 1600,
-          "height": 900,
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9173ff0e-731a-4938-8d98-838e96cab4aa/8c3c171d-0b0c-4650-a5c1-bb79bf268d11/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -163,14 +215,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://auto.hindustantimes.com/auto/electric-vehicles/tesla-to-roll-out-free-full-self-driving-software-but-theres-a-catch-know-here/amp-41684132659743.html",
-      "cdnAmpWebUrl": "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/electric-vehicles/tesla-to-roll-out-free-full-self-driving-software-but-theres-a-catch-know-here/amp-41684132659743.html",
-      "publishedDateTime": "2023-05-15T00:41:00-07:00",
+      "ampWebUrl": "https://www.foxnews.com/tech/what-dangers-find-out-why-people-afraid-artificial-intelligence.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/what-dangers-find-out-why-people-afraid-artificial-intelligence.amp",
+      "publishedDateTime": "2023-05-15T01:24:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Auto News India",
-        "domain": "hindustantimes.com",
-        "images": null,
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -180,7 +241,8 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
+        "AI",
+        "AI in Healthcare"
       ]
     },
     {
@@ -192,7 +254,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/self-driving-or-driverless-cars-market-upto-2030-2023-05-14",
       "featuredContent": null,
       "highlight": null,
-      "heat": 149,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -244,7 +306,7 @@
       "originalUrl": "https://timesofindia.indiatimes.com/blogs/voices/revolutionary-changes-by-artificial-intelligence/?source=app&frmapp=yes",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -375,6 +437,58 @@
       ]
     },
     {
+      "path": "_news/2023-05-12-self-driving-cars-are-being-put-on-a-data-diet.md",
+      "title": "Self-driving cars are being put on a data diet",
+      "excerpt": "We could take all the data the cars have seen over time, the hundreds of thousands of pedestrians, cyclists, and vehicles, [and] take from that a model of how we expect them to move,” said Chris Urmson,",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/cars/2023/05/self-driving-cars-being-put-on-a-data-diet/",
+      "originalUrl": "https://arstechnica.com/cars/2023/05/self-driving-cars-being-put-on-a-data-diet/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2014/01/Google-Lexus-car-640x362.jpg",
+          "width": 640,
+          "height": 362,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/cars/2023/05/self-driving-cars-being-put-on-a-data-diet/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/cars/2023/05/self-driving-cars-being-put-on-a-data-diet/amp/",
+      "publishedDateTime": "2023-05-12T06:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-12-how-ai-is-helping-to-improve-transportation-safety-on-a-global-scale.md",
       "title": "How AI Is Helping To Improve Transportation Safety On A Global Scale",
       "excerpt": "While the use of AI in vehicle inspection is a significant development, it is one of many other ways that AI is being used to improve transportation safety around the world.",
@@ -383,7 +497,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/12/how-ai-is-helping-to-improve-transportation-safety-on-a-global-scale/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -1348,94 +1462,6 @@
         "AI",
         "Machine Learning",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-05-02-aws-deepracer-when-fun-meets-ml-autonomous-cars-and-upskilling.md",
-      "title": "AWS DeepRacer: When fun meets ML, autonomous cars and upskilling",
-      "excerpt": "There is no cost to join a DeepRacer league, but you pay for training, testing (US$3.50 per hour) and storing (US$0.023 per GB) your ML models on the AWS DeepRacer service.",
-      "sourceUrl": null,
-      "webUrl": "https://www.itworldcanada.com/article/aws-deepracer-when-fun-meets-ml-autonomous-cars-and-upskilling/537953",
-      "originalUrl": "https://www.itworldcanada.com/article/aws-deepracer-when-fun-meets-ml-autonomous-cars-and-upskilling/537953",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.itworldcanada.com/wp-content/uploads/2023/05/Deepracer2.jpg",
-          "width": 2016,
-          "height": 1512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itworldcanada.com/article/aws-deepracer-when-fun-meets-ml-autonomous-cars-and-upskilling/537953?amp=1",
-      "cdnAmpWebUrl": "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/aws-deepracer-when-fun-meets-ml-autonomous-cars-and-upskilling/537953?amp=1",
-      "publishedDateTime": "2023-05-02T07:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT World Canada",
-        "domain": "itworldcanada.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-05-02-how-artificial-intelligence-is-already-powering-work-in-bc.md",
-      "title": "How artificial intelligence is already powering work in B.C.",
-      "excerpt": "These are some of the novel ways in which B.C. companies are using machine learning and artificial intelligence – and to the clear potential benefit of humanity. But like nuclear fission, machine super-intelligence is a Promethean power with the potential to be corrupted,",
-      "sourceUrl": null,
-      "webUrl": "https://www.prpeak.com/technology/how-artificial-intelligence-is-already-powering-work-in-bc-6938262",
-      "originalUrl": "https://www.prpeak.com/technology/how-artificial-intelligence-is-already-powering-work-in-bc-6938262",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.vmcdn.ca/f/files/biv/sanctuaryai-robotopensbag-small-sub.jpg;w=938;h=527;mode=crop",
-          "width": 938,
-          "height": 527,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-02T07:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Powell River Peak",
-        "domain": "prpeak.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

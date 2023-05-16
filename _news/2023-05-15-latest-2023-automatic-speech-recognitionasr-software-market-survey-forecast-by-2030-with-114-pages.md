@@ -99,6 +99,48 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "2023, Automatic Speech Recognition(ASR) Software Market Research Report Analysis by 2030"
+    excerpt: "The major players covered in the Automatic Speech Recognition (ASR) Software market report are: Get a sample copy of the Automatic Speech Recognition (ASR) Software Market report 2023 Short Summery About Automatic Speech Recognition (ASR) Software Market: The global Automatic Speech Recognition (ASR) Software market size was valued at USD 13410."
+    publishedDateTime: 2023-05-12T17:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-automatic-speech-recognitionasr-software-market-research-report-analysis-by-2030-2023-05-12"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 60
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "2023, Automatic Speech Recognition(ASR) Software Market Research Report Analysis by 2030"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. May 16, 2023 (The Expresswire) -- Automatic Speech Recognition(ASR) Software Market | Outlook 2023-2028 | Pre and Post-COVID Research is Covered, Report Information | Newest ..."
+    publishedDateTime: 2023-05-16T15:18:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-automatic-speech-recognitionasr-software-market-research-report-analysis-by-2030-2023-05-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 60
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Voice And Speech Recognition Software Market Value with Status and Global Analysis 2023 to 2031"
+    excerpt: "May 15, 2023 (Heraldkeepers) -- Our report on the Voice And Speech Recognition Software market provides comprehensive insights into the market size, trends, and opportunities in the industry. Our report provides a detailed analysis of the key drivers and ..."
+    publishedDateTime: 2023-05-16T15:18:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-and-speech-recognition-software-market-value-with-status-and-global-analysis-2023-to-2031-2023-05-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 57
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Speech & Voice Recognition Systems Market 2023-2030"
     excerpt: "May 16, 2023 (The Expresswire) -- Speech and Voice Recognition Systems Market | Outlook 2023-2028 | Pre and Post-COVID Research is Covered, Report Information | Newest 116 Pages Report The extent and overview of the various commercial opportunities ..."
     publishedDateTime: 2023-05-16T10:30:00Z

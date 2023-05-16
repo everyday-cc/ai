@@ -29,43 +29,43 @@ images:
     isCached: true
 
 related:
-  - title: "2023 Deep Learning Market Price & News with Size Forecast 2030"
-    excerpt: "Deep Learning Market Research Report 2023 is spread across 115 pages and provides Size, Share, Growth, and Forecast with exclusive vital statistics, data, information, trends, and competitive landscape details in this niche sector. The global Deep Learning ..."
-    publishedDateTime: 2023-05-16T10:31:00Z
-    webUrl: "https://www.marketwatch.com/press-release/2023-deep-learning-market-price-news-with-size-forecast-2030-2023-05-15"
+  - title: "Artificial Intelligence for Accounting Market Next Big Thing With Major Giants Microsoft, AWS, Xero, Intuit"
+    excerpt: "Click Here to Get Free Sample PDF Copy of Latest Research on Artificial Intelligence for Accounting Market 2023 Before Purchase:  The report will also include information on the top companies in the Artificial Intelligence for Accounting market shares,"
+    publishedDateTime: 2023-05-15T07:29:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-for-accounting-market-next-big-thing-with-major-giants-microsoft-aws-xero-intuit-2023-05-15"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 69
+    quality: 83
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "2030, Data Science and Machine Learning Service Market with PESTAL & SWOT Analysis"
-    excerpt: "Global Data Science and Machine Learning Service Market Report 2023 is spread across130 pagesand provides exclusive vital statistics, data, information, trends and competitive landscape details in this niche sector. “Global Data Science and Machine ..."
-    publishedDateTime: 2023-05-11T22:38:00Z
-    webUrl: "https://www.marketwatch.com/press-release/2030-data-science-and-machine-learning-service-market-with-pestal-swot-analysis-2023-05-11"
+  - title: "Triumph Tech CEO: AWS Will Win ‘AI War’ Vs. Google, Microsoft"
+    excerpt: "Generative AI market of Amazon, Google and Microsoft’s OpenAI ChatGPT will be won by AWS due to the cloud company’s artificial intelligence customization and scalability, says Triumph Technology Solutions CEO."
+    publishedDateTime: 2023-05-12T15:29:00Z
+    webUrl: "https://www.crn.com/news/cloud/triumph-tech-ceo-aws-will-win-ai-war-vs-google-microsoft"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 63
+      name: CRN
+      domain: crn.com
+    quality: 71
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://www.crn.com/resources/0281-17fee2fdcd7a-2e9db2bde58c-1000/vic-raymond.jpeg"
+        width: 611
+        height: 458
         isCached: true
-  - title: "Global Computer Vision System Market with a Forecast Predicting Continued Booming Performance from 2023 to 2030"
-    excerpt: "The Computer Vision System Market research report is formulated such that it offers a deep understating on the market drivers that are assimilating the growth of the market, the m"
-    publishedDateTime: 2023-05-15T13:59:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-computer-vision-system-market-with-a-forecast-predicting-continued-booming-performance-from-2023-to-2030-2023-05-15"
+  - title: "Face Recognition API Market ICT Industry 2023 Global Insights and Business Scenario Microsoft Computer Vision API, Lambda Labs API, Inferdo"
+    excerpt: "A full Sample Report of Face Recognition API Market is Available Free –  This research report provides a lucrative growth opportunity for the market players to generate better revenue streams by expanding their market presence in the emerging economies."
+    publishedDateTime: 2023-05-12T08:45:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-api-market-ict-industry-2023-global-insights-and-business-scenario-microsoft-computer-vision-api-lambda-labs-api-inferdo-2023-05-12"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 49
+    quality: 67
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

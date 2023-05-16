@@ -117,15 +117,15 @@ related:
         width: 400
         height: 279
         isCached: true
-  - title: "Palo Alto Networks Unveils Its Cloud Next-Generation Firewall For Microsoft Azure Customers"
-    excerpt: "Cloud NGFW for Azure seamlessly integrates Palo Alto Networks AI and ML-powered security with the simplicity, scalability and global availability"
-    publishedDateTime: 2023-05-11T19:42:00Z
-    webUrl: "https://menafn.com/1106229041/Palo-Alto-Networks-Unveils-Its-Cloud-Next-Generation-Firewall-For-Microsoft-Azure-Customers"
+  - title: "SAP and Microsoft to deepen collaboration on generative AI in recruiting"
+    excerpt: "SAP will deepen collaboration with Microsoft on joint generative AI projects. (REUTERS) SAP will deepen collaboration with Microsoft on joint generative AI projects in the field of personnel recruiting,"
+    publishedDateTime: 2023-05-16T13:47:00Z
+    webUrl: "https://tech.hindustantimes.com/tech/news/sap-and-microsoft-to-deepen-collaboration-on-generative-ai-in-recruiting-71684169729680.html"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 24
+      name: Hindustan Times Tech
+      domain: hindustantimes.com
+    quality: 33
   - title: "Parablu to Deliver Microsoft Azure-Hosted Cybersecurity and Data Resiliency SaaS Solutions"
     excerpt: "PRNewswire/-- Parablu, a global provider of SaaS-based data protection and management solutions for endpoints, on-premises, and cloud environments, today announced a multi-year agreement with Microsoft that integrates engineering,"
     publishedDateTime: 2023-05-15T13:49:00Z

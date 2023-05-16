@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/stability-ai-releases-an-op
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/stability-ai-releases-an-open-source-text-to-animation-tool/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -44,6 +44,15 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "OpenAI chief set to call for greater regulation of artificial intelligence"
+    excerpt: "OpenAI’s chief executive US lawmakers on Tuesday that regulation of artificial intelligence must allow companies to be flexible and a"
+    publishedDateTime: 2023-05-16T14:06:00Z
+    webUrl: "https://arstechnica.com/information-technology/2023/05/openai-chief-set-to-call-for-greater-regulation-of-artificial-intelligence/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 60
   - title: "Together raises $20M to decentralize and open-source AI model creation"
     excerpt: "Together, a startup that’s building a decentralized ... The funding will be used to support Together’s mission of creating a decentralized alternative to the closed AI systems winning all the plaudits today, such as OpenAI LP’s ChatGPT."
     publishedDateTime: 2023-05-16T02:24:00Z

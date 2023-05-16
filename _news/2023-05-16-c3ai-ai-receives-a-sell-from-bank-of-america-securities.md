@@ -7,8 +7,8 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/c3ai-ai-receives-a
 webUrl: "https://markets.businessinsider.com/news/stocks/c3ai-ai-receives-a-sell-from-bank-of-america-securities-1032328975"
 type: article
 quality: 66
-heat: 66
-published: false
+heat: 76
+published: true
 
 provider:
   name: Business Insider
@@ -22,6 +22,17 @@ topics:
   - Facebook AI
   - AI
   - AI in Finance
+
+related:
+  - title: "Canaccord Genuity Remains a Buy on C3ai (AI)"
+    excerpt: "Canaccord Genuity analyst Kingsley Crane reiterated a Buy rating on C3ai (AI – Research Report) yesterday and set a price target of $21.00. The company’s shares opened today at $23.50. According to TipRanks, Crane is an analyst with an average return ..."
+    publishedDateTime: 2023-05-16T15:43:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/canaccord-genuity-remains-a-buy-on-c3ai-ai-1032331957"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
 
 secured: "8az3JAv7KsDDj+4yu1KrBNwvgfiTmy4VARxlxO9SzSbzwIRDYo8RZKBR68+SXPIOgGx/+F8+80aUbbhNdmsWnr/T6WkXRx/CVxJEd4cL1PfCeiVNT/uLkvze7VORTcozeF3ke9FbYQ2WRrMgFrJ+DLkH4CZVkVrtdvSy0HsPFxLLojNjWgiRdaymtVgmI1j2GGxRfXQNqC/IX2wx2khi3CcD2VRH6Jgr6dAb2x1qL3jDZ9zxzuDpgwwsrxFbsULhnryLSsuJm6w8448PReoA9zUgfUThh5w8Ja1b24qtO+fnaikrwGFK0byyuheJBG+twPiCnORRMblKf42MuKmH0FaGmUIKPBtAMOCY7JKISFQ=;6yYZOrM+dcZmoHjsJ0wrsQ=="
 ---

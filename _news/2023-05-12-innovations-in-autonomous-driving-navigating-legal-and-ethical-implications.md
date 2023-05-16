@@ -7,7 +7,7 @@ originalUrl: "https://www.cbtnews.com/innovations-in-autonomous-driving-navigati
 webUrl: "https://www.cbtnews.com/innovations-in-autonomous-driving-navigating-legal-and-ethical-implications/"
 type: article
 quality: 38
-heat: -1
+heat: 38
 published: false
 
 provider:
@@ -24,19 +24,6 @@ images:
     width: 2560
     height: 1440
     isCached: true
-
-related:
-  - title: "The Artificial Intelligence Driving Travel Innovations"
-    excerpt: "AI news drove headlines this week, from Expedia, to Google, and even to Skift. Click through for a summary of the top stories."
-    publishedDateTime: 2023-05-13T16:00:00Z
-    webUrl: "https://skift.com/2023/05/13/the-artificial-intelligence-driving-travel-innovations/"
-    ampWebUrl: "https://skift.com/2023/05/13/the-artificial-intelligence-driving-travel-innovations/amp/"
-    cdnAmpWebUrl: "https://skift-com.cdn.ampproject.org/c/s/skift.com/2023/05/13/the-artificial-intelligence-driving-travel-innovations/amp/"
-    type: article
-    provider:
-      name: Skift
-      domain: skift.com
-    quality: 39
 
 secured: "5/NGe/v8rp/NXBveG3zo7BiacppcLtLxBWWAZ91CUjN4C5tqE0+dlz7lFeUTDkZ7x6cukWc3VAeZZ5Qq3KmcCYhTygx9FP2cRkc8kr8QGjhhuc+8O9aXewehPOlqz4gtvZnP7KLxFSdBaHx1TcNME423dhNJRt+TBH2au4yoJjH9tXbb4bLLS2Jpwqv3H46UExzOOd7CpiYz5pIOGy7Zr7XKasKBzzhELdkJqVO1c13nM4mu2hGuD1Sp6EOvUyHThDrmrlyCpC8b+MDvKCXfkaqG3o3QEA77UbZCqb1XTnUb9ajnzQyRY3dYsWIbthjUQNpSMc+e84rk9BPjWaf2nQQqzaXRAmnI3+Ap+TOyNGk8E44knRRT2ANbwqhOMnoq0M9ybo+oOB93+we7MTJ49UL3Y+96FioRO9DMwadHel0qn0utu0BZCM7OIR0Nc00eKg89l7mzmmRzfRCJRtpxV8kpV0Uh4KzrWt/KONTC06Fxb1V5q6yPZ+5nq0QL0q2WOVgQVF9BLK/z0TpwVtFqHg==;fsikYRrlncNgPTHqbvAGbw=="
 ---

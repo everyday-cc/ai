@@ -25,15 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "WHO calls for caution in using artificial intelligence for health"
-    excerpt: "The World Health Organisation has called for caution in using artificial intelligence-generated large language model tools to protect and promote human well-being, human safety, autonomy, and preserve public health."
-    publishedDateTime: 2023-05-16T08:28:00Z
-    webUrl: "https://punchng.com/who-calls-for-caution-in-using-artificial-intelligence-for-health/"
+  - title: "General Catalyst leads $50M investment in healthcare AI company"
+    excerpt: "Hippocratic AI, which is building a generative AI large language model designed for healthcare, launched Tuesday."
+    publishedDateTime: 2023-05-16T13:00:00Z
+    webUrl: "https://www.modernhealthcare.com/digital-health/andreessen-horowitz-general-catalyst-fund-hippocratic-ai"
     type: article
     provider:
-      name: The Punch Newspapers
-      domain: punchng.com
-    quality: 19
+      name: Modern Healthcare
+      domain: modernhealthcare.com
+    quality: 34
 
 secured: "fI5V5CndgXFHqQTXHFtgtAxxaZ56aqTcAK6Scb16fMGeR1xtIMM8I1SqyTB5RuJYjgjesXShPmVcM1D4gHqlgkqVROrWInzI6YlZUR/EoBtLAsPsO3eQjD5QyHWiWuIFHE44GGSVG7AFoIOjCOSJuzfBuO3itVziYLjlhxF6pqZT2Y5R41aufal39gqQ/0hqNYEBVQu/vt2aErhqng8n0IN1SYY0qsYMCS1kbUkjvQ3VJ/+3fkxR4BrsPcdMl8t4eyRzdShfC4DukcVmuLLm2/pxvSWY6pbg3rcmDM2oR7cmbHocH6l6IIEmfygVch4RKJJxIfT2Y02UjDv7mTcOKkpbe2Sk+cyddKdDk3ufCUfr7A0PDTEImHSukuBQYJXW6eT11DVugUY09AqGGyYop8+SXcsooSJPnApnXMRs3KNHNJuZM93yIakjbbL633AOKQqFKynCquT8L7F2ibg4v1j4UZHyoQY7Wk6Zv2+HKIVWp4aDE2QeBQAUNYpC/sETjfC07uI3dfBVxSRTDJ33wg==;YKlxjGztxB/7pXo52ZjzqQ=="
 ---

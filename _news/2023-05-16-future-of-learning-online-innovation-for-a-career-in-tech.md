@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/mattsymonds/2023/05/16/future-of-learni
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mattsymonds/2023/05/16/future-of-learningonline-innovation-for-a-career-in-tech/amp/"
 type: article
 quality: 74
-heat: 75
+heat: 76
 published: true
 
 provider:

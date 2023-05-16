@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/2023-2030-ai-in-ict-info
 webUrl: "https://www.marketwatch.com/press-release/2023-2030-ai-in-ict-information-and-communications-technology-market-highlights-with-growth-data-2023-05-15"
 type: article
 quality: 35
-heat: 35
+heat: -1
 published: false
 
 provider:
@@ -21,6 +21,81 @@ provider:
 topics:
   - Facebook AI
   - AI
+
+related:
+  - title: "Cheat Sheets For AI Information Overload"
+    excerpt: "There is now a firehose stream of AI-related information published each day, and it is getting harder to keep up with what's happening in AI."
+    publishedDateTime: 2023-05-16T14:00:00Z
+    webUrl: "https://www.forbes.com/sites/timbajarin/2023/05/16/cheat-sheets-for-ai-information-overload/"
+    ampWebUrl: "https://www.forbes.com/sites/timbajarin/2023/05/16/cheat-sheets-for-ai-information-overload/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/timbajarin/2023/05/16/cheat-sheets-for-ai-information-overload/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/646272cf4f56e282d1dd3ffb/0x0.jpg?format=jpg&width=1200"
+        width: 887
+        height: 600
+        isCached: true
+  - title: "Does AI need a UN? Expert calls for global governing body to police 'billions of pieces of misinformation'"
+    excerpt: "Cognitive scientist and AI expert Gary Marcus advocates for the formation of an international body to govern emerging artificial intelligence technologies."
+    publishedDateTime: 2023-05-12T05:59:00Z
+    webUrl: "https://www.foxnews.com/tech/ai-un-expert-calls-global-governing-body-police-billions-pieces-misinformation"
+    ampWebUrl: "https://www.foxnews.com/tech/ai-un-expert-calls-global-governing-body-police-billions-pieces-misinformation.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/ai-un-expert-calls-global-governing-body-police-billions-pieces-misinformation.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 69
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0f2e41cc-8d6e-4432-8aec-66607c5212e5/8ff15eca-b9ff-4599-8591-fd4605b24e52/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "UP RERA Floats Tender For Installation Of Artificial Intelligence"
+    excerpt: "AI will contribute to the development of three major categories of systems: supportive systems, function-based automation systems and autonomous systems."
+    publishedDateTime: 2023-05-16T11:09:00Z
+    webUrl: "https://www.republicworld.com/business-news/india-business/up-rera-floats-tender-for-installation-of-artificial-intelligence-articleshow.html"
+    ampWebUrl: "https://www.republicworld.com/amp/business-news/india-business/up-rera-floats-tender-for-installation-of-artificial-intelligence-articleshow.html"
+    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/business-news/india-business/up-rera-floats-tender-for-installation-of-artificial-intelligence-articleshow.html"
+    type: article
+    provider:
+      name: RepublicWorld
+      domain: republicworld.com
+    quality: 61
+    images:
+      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/e9geoifv1itnkiqg_1684234298.jpeg"
+        width: 768
+        height: 438
+        isCached: true
+  - title: "AI-generated disinformation poses threat of misleading voters in 2024 election"
+    excerpt: "Computer engineers and political scientists have warned for years that cheap, powerful artificial intelligence tools would soon allow anyone to create fake images, video and audio that was realistic enough to fool voters and perhaps sway an election."
+    publishedDateTime: 2023-05-14T23:52:00Z
+    webUrl: "https://www.pbs.org/newshour/politics/ai-generated-disinformation-poses-threat-of-misleading-voters-in-2024-election"
+    ampWebUrl: "https://www.pbs.org/newshour/amp/politics/ai-generated-disinformation-poses-threat-of-misleading-voters-in-2024-election"
+    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/politics/ai-generated-disinformation-poses-threat-of-misleading-voters-in-2024-election"
+    type: article
+    provider:
+      name: PBS
+      domain: pbs.org
+    quality: 53
+    images:
+      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2023/05/GettyImages-1309763384-1024x683.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "WHO calls for caution in using artificial intelligence for health"
+    excerpt: "The World Health Organisation has called for caution in using artificial intelligence-generated large language model tools to protect and promote human well-being, human safety, autonomy, and preserve public health."
+    publishedDateTime: 2023-05-16T08:28:00Z
+    webUrl: "https://punchng.com/who-calls-for-caution-in-using-artificial-intelligence-for-health/"
+    type: article
+    provider:
+      name: The Punch Newspapers
+      domain: punchng.com
+    quality: 19
 
 secured: "vdE/ID4AvieiGU4hNDSxfdJ1mc7tgyl6Zt/y4hxu7asFs/cnESaoxsZksfmKWduVmNQUB8FEb/U7f286ap2j3Xix4c+wameoh4uRtGH/ZHhAMfDnl6hj/SsWU6jeEFkgHzNLcd3ljExlnyrwQOCX10xJ6Gg1YkNHqjvdYpbr4ww8T52GBpTT/QWACw/at/AdXSwh/ZiTlhbC5Csj3njCfN9Tlof9f76cW0CGoUtLx3eaQ1ujb+p34nwYlhq/x9U635y8LJPLpWV+7C2uCyNiSnGrX57cF5QOP9N3jvLMDNgg8bLWIpXHoWJuYiYlBEYeWINRAnCmvBEV2LY+rL46Wqgcm6IAx18mH1GUEZgs/R4=;Qs5XXdsQZ35AW3qZUGp2xg=="
 ---

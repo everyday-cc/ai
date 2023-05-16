@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "AI has striking writers freaked out. Can Hollywood avoid nightmare scenarios?"
+    excerpt: "The AI nightmare scenario has loomed over the ongoing writers’ strike, producing some of the cleverest picket signs (“Wrote ChatGPT this”). There’s some concern among scribes that the technologies are just impressive enough to fool executives into thinking they’re more powerful than they actually are."
+    publishedDateTime: 2023-05-16T14:00:00Z
+    webUrl: "https://www.latimes.com/entertainment-arts/business/newsletter/2023-05-16/writers-strike-ai-has-writers-freaked-out-could-the-technology-work-for-studios-and-artists-the-wide-shot"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 36
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/dbed645/2147483647/strip/true/crop/1080x567+0+129/resize/1200x630!/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fb8%2F01%2Fb9b2d99944fd85558531df61b7f1%2F230516-wideshot-ainightmare.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AI is coming for Hollywood scriptwriters – this is how they are going to do it"
     excerpt: "Artificial intelligence mashups of Lord of the Rings, Pixar and Wes Anderson are amusing novelties, but how long before the robots are generating whole screenplays – and can we be sure they’re not already?"
     publishedDateTime: 2023-05-12T14:46:00Z
@@ -32,20 +46,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/5faeb2d2a06b9896f4b6067b8a33d2ba0853b144/0_188_5007_3005/master/5007.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fe2384fb22b167c863cc1e049ef71ecf"
         width: 1200
         height: 630
-        isCached: true
-  - title: "AI-Generated Designs Are Letting Architects Unlock New Forms of Creativity. How Should They Deploy It?"
-    excerpt: "Architects are experimenting with AI-generated designs, and many are already seeing the creative potential that AI's \"imagination\" can bring to brainstorming and concept design."
-    publishedDateTime: 2023-05-12T17:32:00Z
-    webUrl: "https://marketscale.com/industries/architecture-and-design/ai-generated-designs-architect-creativity/"
-    type: article
-    provider:
-      name: marketscale
-      domain: marketscale.com
-    quality: 21
-    images:
-      - url: "https://marketscale.com/wp-content/uploads/2023/05/DALL·E-2023-05-12-12.28.19-An-imaginative-building-fusing-traditional-Japanese-building-styles-with-the-clean-and-contemporary-detailing-of-Olson-Kundig-800x457.png"
-        width: 800
-        height: 457
         isCached: true
   - title: "Artificial intelligence may be Hollywood’s ultimate strikebreaker"
     excerpt: "One wonders if the Hollywood writers’ strike, now in its third week, might inspire movie studios to rely on artificial intelligence to craft stories."

@@ -29,80 +29,99 @@ images:
     isCached: true
 
 related:
-  - title: "AI Recognition Market SWOT Analysis by Leading Key Players Microsoft Azure, Google, Tencent, Alibaba"
-    excerpt: "Click Here to Get Free Sample PDF Copy of Latest Research on AI Recognition Market 2023 before Purchase:  The report will also include information on the top companies in the AI Recognition market shares,"
-    publishedDateTime: 2023-05-15T09:14:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-recognition-market-swot-analysis-by-leading-key-players-microsoft-azure-google-tencent-alibaba-2023-05-15"
+  - title: "2023, Computer Vision System Market Research Report Analysis by 2030"
+    excerpt: "Computer Vision System Market | Outlook 2023-2028 | Pre and Post-COVID Research is Covered, Report Information | Newest"
+    publishedDateTime: 2023-05-12T17:10:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-computer-vision-system-market-research-report-analysis-by-2030-2023-05-12"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 84
+    quality: 69
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence for Accounting Market Next Big Thing With Major Giants Microsoft, AWS, Xero, Intuit"
-    excerpt: "Click Here to Get Free Sample PDF Copy of Latest Research on Artificial Intelligence for Accounting Market 2023 Before Purchase:  The report will also include information on the top companies in the Artificial Intelligence for Accounting market shares,"
-    publishedDateTime: 2023-05-15T07:29:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-for-accounting-market-next-big-thing-with-major-giants-microsoft-aws-xero-intuit-2023-05-15"
+  - title: "Computer Vision Market Research Analysis, 2023-2030"
+    excerpt: "A Computer Vision market new report, spanning multiple 107 pages, offers an extensive and in-depth analysis of the"
+    publishedDateTime: 2023-05-14T14:33:00Z
+    webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-research-analysis-2023-2030-2023-05-14"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 83
+    quality: 69
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Face Recognition API Market ICT Industry 2023 Global Insights and Business Scenario Microsoft Computer Vision API, Lambda Labs API, Inferdo"
-    excerpt: "A full Sample Report of Face Recognition API Market is Available Free –  This research report provides a lucrative growth opportunity for the market players to generate better revenue streams by expanding their market presence in the emerging economies."
-    publishedDateTime: 2023-05-12T08:45:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-api-market-ict-industry-2023-global-insights-and-business-scenario-microsoft-computer-vision-api-lambda-labs-api-inferdo-2023-05-12"
+  - title: "2023, Computer Vision System Market Research Report Analysis by 2030"
+    excerpt: "Computer Vision System Market | Outlook 2023-2028 | Pre and Post-COVID Research is Covered, Report Information | Newest"
+    publishedDateTime: 2023-05-15T06:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-computer-vision-system-market-research-report-analysis-by-2030-2023-05-15"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 67
+    quality: 69
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "2023, Automatic Speech Recognition(ASR) Software Market Research Report Analysis by 2030"
-    excerpt: "The major players covered in the Automatic Speech Recognition (ASR) Software market report are: Get a sample copy of the Automatic Speech Recognition (ASR) Software Market report 2023 Short Summery About Automatic Speech Recognition (ASR) Software Market: The global Automatic Speech Recognition (ASR) Software market size was valued at USD 13410."
-    publishedDateTime: 2023-05-12T17:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/2023-automatic-speech-recognitionasr-software-market-research-report-analysis-by-2030-2023-05-12"
+  - title: "Deep Learning in CT Scanners Market 2023 Comprehensive Strategic Report till 2030"
+    excerpt: "The Deep Learning in CT Scanners Market Report 2023-2030 is spread across 121 pages and This niche sector is presented with essential statistical data, information on trends, competitive landscape details,"
+    publishedDateTime: 2023-05-15T14:58:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-in-ct-scanners-market-2023-comprehensive-strategic-report-till-2030-2023-05-15"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 60
+    quality: 64
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "SAP taps Microsoft AI Copilot to streamline hiring and upskilling for enterprises"
-    excerpt: "SAP today announced a plan to integrate Microsoft AI Copilot and Azure OpenAI service with its SuccessFactors suite of solutions."
-    publishedDateTime: 2023-05-15T17:57:00Z
-    webUrl: "https://venturebeat.com/ai/sap-taps-microsoft-ai-copilot-to-streamline-hiring-and-upskilling/"
+  - title: "2023, BFSI Artificial Intelligence Market | Global Industry Analysis Till 2030"
+    excerpt: "BFSI Artificial Intelligence Market | Outlook 2023-2028 | Pre and Post-COVID Research is Covered, Report Information"
+    publishedDateTime: 2023-05-16T06:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-bfsi-artificial-intelligence-market-global-industry-analysis-till-2030-2023-05-16"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 59
-  - title: "SoftBank Says Goodbye to Alibaba, Hello to More AI Investments"
-    excerpt: "The Japanese tech investor said it was ready to go on the offensive again with its eye on artificial-intelligence companies."
-    publishedDateTime: 2023-05-11T19:41:00Z
-    webUrl: "https://www.wsj.com/articles/softbank-trims-overall-loss-after-topsy-turvy-fiscal-year-9a07237c"
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 43
+  - title: "Global Cooking Robot Market - Growth, Trends, Covid-19 Impact, and Forecast (2023 - 2029) - Report By Introspective Market Research"
+    excerpt: "Global Cooking Robot Market is expected to grow at a significant growth rate, and the analysis period is 2022-2028, considering the base year as 2021. Cooking is one of the most important activities that take place in the house,"
+    publishedDateTime: 2023-05-12T11:05:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-cooking-robot-market---growth-trends-covid-19-impact-and-forecast-2023---2029---report-by-introspective-market-research-2023-05-12"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 47
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 39
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Servo Motors and Drives Market – Global Industry Analysis and Forecast 2029- Report By Introspective Market Research"
+    excerpt: "It is servomechanism-controlled; therefore, it is controllable. Moreover, a rather complex controller is needed, often a module made expressly for servomotor use. Robotics ... is written with a specific goal in mind to give business insights and ..."
+    publishedDateTime: 2023-05-11T23:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/servo-motors-and-drives-market-global-industry-analysis-and-forecast-2029--report-by-introspective-market-research-2023-05-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 31
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "FijeQdqxXGju+xnlouq/tPOIUsS2VlA2iYLsIwG8hjHKOxbIgbMywldllv7Nb/e0b0Fh8fSntc0HyfbZZnHP/IbOfAEQeeJcedWMtkmN7Hn37XOw30HmHcwFMImMGDhOWe52qOOgfCl2iSnZFdxQ8Msks0ReXk1QDp4mI/LtwTEI6Wp+yCfw6FfEfJT45ESJA29wWmei9Ir2GccAVuTTcjHXcU1MUGx+aNAkaC+ZcU5CkloKBrR/iqs/JTe4NG39MQNgZczTFBAY4qBI8T9E74le/93niS8pvQWX8eYiBRddc8jwCteCM4zQXjtcaB2BRRE1uRVNlU1tNZvvlluxWVJz0fycimbKfis7XkhfsNI=;RF9SpDe7f08lSfhwAVHLLw=="
 ---

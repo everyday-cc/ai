@@ -1,0 +1,84 @@
+---
+category: news
+title: "Retail revolution: new data reveals next generation of shoppers ready for AI, AR and Robots"
+excerpt: "New research shows that next generation of shoppers will prefer real-life shopping over virtual reality but crave tech innovation to elevate their shopping experience, with 81% of Gen Z'ers & Millenni"
+publishedDateTime: 2023-05-16T14:39:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/23/05/n32424333/retail-revolution-new-data-reveals-next-generation-of-shoppers-ready-for-ai-ar-and-robots"
+webUrl: "https://www.benzinga.com/pressreleases/23/05/n32424333/retail-revolution-new-data-reveals-next-generation-of-shoppers-ready-for-ai-ar-and-robots"
+ampWebUrl: "https://www.benzinga.com/amp/content/32424333"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32424333"
+type: article
+quality: 44
+heat: -1
+published: false
+
+provider:
+  name: Benzinga.com
+  domain: benzinga.com
+
+topics:
+  - AI in Robotics
+  - AI
+
+related:
+  - title: "Revolutionary changes by artificial intelligence"
+    excerpt: "The world is changing rapidly, and our technological advancement is changing similarly. Keeping in step with the advancing world, we have brought AI-based solutions for businesses. The accurate usage of data annotation and data"
+    publishedDateTime: 2023-05-14T15:49:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/revolutionary-changes-by-artificial-intelligence/?source=app&frmapp=yes"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/revolutionary-changes-by-artificial-intelligence/?source=app&frmapp=yes"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/revolutionary-changes-by-artificial-intelligence/?source=app&frmapp=yes"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2023/03/Manish-Mohta.JPEG-1.jpeg"
+        width: 1280
+        height: 851
+        isCached: true
+  - title: "Emerging technologies like AI can revolutionize privacy rights"
+    excerpt: "Can privacy policies be redesigned to correct this information asymmetry? Can they be made more easily accessible and digestible to those who want to be informed? Emerging technologies may have some answers."
+    publishedDateTime: 2023-05-14T17:06:00Z
+    webUrl: "https://www.livemint.com/opinion/columns/emerging-technologies-like-ai-can-revolutionize-privacy-rights-11684083799239.html"
+    ampWebUrl: "https://www.livemint.com/opinion/columns/emerging-technologies-like-ai-can-revolutionize-privacy-rights/amp-11684083799239.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/opinion/columns/emerging-technologies-like-ai-can-revolutionize-privacy-rights/amp-11684083799239.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 59
+    images:
+      - url: "https://www.livemint.com/lm-img/img/2023/05/14/600x338/AI_1684085045841_1684085046127.JPG"
+        width: 600
+        height: 338
+        isCached: true
+  - title: "Revolutionary changes by artificial intelligence"
+    excerpt: "The accurate usage of data annotation and data labelling services incorporating cases like Facial recognition, Self ... to intelligence by humans, when machines produce results, making tasks easier and faster, then those are inculcated under AI (Artificial ..."
+    publishedDateTime: 2023-05-14T21:19:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/revolutionary-changes-by-artificial-intelligence/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/revolutionary-changes-by-artificial-intelligence/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/revolutionary-changes-by-artificial-intelligence/"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2023/03/Manish-Mohta.JPEG-1.jpeg"
+        width: 1280
+        height: 851
+        isCached: true
+  - title: "Bitpanda invests $10m in AI to “revolutionise” wealth creation"
+    excerpt: "Austrian fintech Bitpanda is investing $10m into artificial intelligence to establish Bitpanda.ai. The investment marks the first move towards establishing a dedicated AI division for the company, which was founded by Eric Demuth,"
+    publishedDateTime: 2023-05-16T08:04:00Z
+    webUrl: "https://www.altfi.com/article/10693_bitpanda-invests-10m-in-ai-to-revolutionise-wealth-creation"
+    type: article
+    provider:
+      name: altfi
+      domain: altfi.com
+    quality: 19
+
+secured: "19hbisLjsxweP3wOfq99VTlFYASmydTHS91Y4dAnmcqfmn13r14i4W4R/a0C65yf227R17xdzkGxtkaWT0dXblj9vLM94XPrKxlrWsL6DN3ebbXA920+uxvwijJhrfsDofg0bCw8Nyd1eMP6suen7wLgB70OxIctM74ZnbOOSJAg9RDRqR+6q2IEFayya1s4hTp5ZZggq8FvWXDfPdzc7rQP1bsLmj6hHd9tynMLjbhQ8sMaJ8rE6EKIN9CteherbZZa6gI1X/H5e0Uo6WJuqj4pHjCJnKdfxtM1jAo+dJ4075+q/Lj4zkMEOzDeEUHe2/KfN56+1cn6nSov2M81wPpQgNEgcC5vVG157EpychU=;5l5uIPYc7goYMRzuGu9qgw=="
+---
+

@@ -30,19 +30,19 @@ images:
     isCached: true
 
 related:
-  - title: "Will AI Replace Your Job? What To Do If You’re Worried"
-    excerpt: "Artificial intelligence has long been both admired and feared. On the one hand, it offers the ability to crunch large amounts of data to help make forecasting storms and analyzing climate"
-    publishedDateTime: 2023-05-11T23:03:00Z
-    webUrl: "https://www.aol.com/finance/ai-replace-job-worried-200037612.html"
+  - title: "Will AI take your construction job? Only if you want it to."
+    excerpt: "Construction pros say given the shortage of workers, the tech will enhance more positions than it replaces, but employment law issues remain."
+    publishedDateTime: 2023-05-15T11:11:00Z
+    webUrl: "https://www.constructiondive.com/news/will-ai-take-my-construction-job-only-if-you-want-robots-automated/650255/"
     type: article
     provider:
-      name: AOL
-      domain: aol.com
-    quality: 37
+      name: Construction Dive
+      domain: constructiondive.com
+    quality: 39
     images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/UwmK5vvbaPTRS_TKfrQDow--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_gobankingrates_57/715aeb129643e051b5e888e1940bf00f"
-        width: 1200
-        height: 675
+      - url: "https://www.constructiondive.com/imgproxy/o2iHPFGBMTLs9jJ81debmzLQAMheJu6ePRPDm_J-mN8/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTEyNzc3NDk5NjIuanBn.jpg"
+        width: 770
+        height: 435
         isCached: true
 
 secured: "GpYWmWWreUznI0BFMvX80rFk0AIiPuGL/2xDZogNHN3d4FXNe7xroNATVRhkB5o18bPLOW/1je+ZutzKThp/vnK+4hUC6D4t1KSO7pEb0yFyvLfOcdJ0F1ZMlqhMkrEdMhrOvRzc9rBq8wj1J1Mm/6CwRGLhvCR+jBy6nZt2LubhVRbieE3QRs73MJZif1B1+4NwjAJd6TsAkMvWWlL1Hshd89NdERLjyWxnu8YwsiBKb/wfPbu7J345nmj4T2XZJwPVeDO90g2XkpxLoQDaYDnOhPUIcXv/Lars32FxTNUtq8UEigSWbtbe9kQevQlLE432P7W75ViB1ECdgU+unRPeqYoRmYxrREYhDDInYX2LfHP1tggqqXp0GgToSaEUOv5HDzUpHCUrgRyh+LytXdC2k5cg/A159msfzi9w8Pyy0eH702+NjSAycYuDPWluP45P90fIlQZsZ8fhlxSRep0Q/vRDSCFWnAnoT32yOvjOuBmgCnzJlRN0Kj8gujGzq1o9zF22c0IVyXqdBzY8JA==;6/lOeP9kvrEpCRBXe6TRSA=="

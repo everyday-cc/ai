@@ -40,22 +40,15 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Can AI Deliver A Customer Experience Like A Grandmother Would?"
-    excerpt: "ChatGPT is super smart. But can it deliver the customer experience that creates ardent advocates? The new customer metric is not, \"Would you recommend,\" but \"Did you recommend\"—action always trumps intent."
-    publishedDateTime: 2023-05-11T19:06:00Z
-    webUrl: "https://www.forbes.com/sites/chipbell/2023/05/11/can-ai-deliver-a-customer-experience-like-a-grandmother-would/"
-    ampWebUrl: "https://www.forbes.com/sites/chipbell/2023/05/11/can-ai-deliver-a-customer-experience-like-a-grandmother-would/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/chipbell/2023/05/11/can-ai-deliver-a-customer-experience-like-a-grandmother-would/amp/"
+  - title: "How AI Is Changing the Retail Industry"
+    excerpt: "The retail industry is always evolving according to customer demand and available technology. It's gone from brick-and-mortar to e-commerce to omnichannel, and artificial intelligence helps retailers improve their operations in a number of ways, including demand forecasting and recommendations, to use two more prominent examples."
+    publishedDateTime: 2023-05-16T13:18:00Z
+    webUrl: "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/ai-in-retail/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6457c256a0fc2b0c6ebf9d2d/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 801
-        isCached: true
+      name: The Motley Fool
+      domain: fool.com
+    quality: 47
 
 secured: "JPvOSVxF3HoBGC+kZduVPOSKpohlcx+WCAAJfObIKKSLn1pPMI6d4ZY65VyVl0bOJSI2Gv2lwHSScPbb35T/HoCNfXV4I7k/w0ChwlvbYSZgyRQVVlcBRNDAoc88AOd4mtRCChFauookvZ9O3skKnrKYockZ9MVR7EuZZCqTzoTk10cNvYSqbrhlxqUXW/cLd8UPCS4j3/ERg/R5x74bBn08Mo/p8NO8Dz4gOT5cpQlW2GY1x5efEJrnkIcsUtWm5nA694LYqcvgqqaclm8uJKl6bAv9/lm4E2iaesYnMbtKF42ZlJnEKGpqSa62ijFw60Dn0ZwWrgeNv2UbSlDa4VB6LD2gbu9ZJ1j//CaJlz0=;LvV8/A5Sj58todNPO5S+mQ=="
 ---

@@ -25,105 +25,48 @@ images:
     isCached: true
 
 related:
-  - title: "Self-Driving or Driverless Cars Market upto 2030"
-    excerpt: "The Global Self-Driving or Driverless Cars market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players,"
-    publishedDateTime: 2023-05-15T01:53:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-or-driverless-cars-market-upto-2030-2023-05-14"
+  - title: "Self-driving cars are being put on a data diet"
+    excerpt: "We could take all the data the cars have seen over time, the hundreds of thousands of pedestrians, cyclists, and vehicles, [and] take from that a model of how we expect them to move,” said Chris Urmson,"
+    publishedDateTime: 2023-05-12T13:23:00Z
+    webUrl: "https://arstechnica.com/cars/2023/05/self-driving-cars-being-put-on-a-data-diet/"
+    ampWebUrl: "https://arstechnica.com/cars/2023/05/self-driving-cars-being-put-on-a-data-diet/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/cars/2023/05/self-driving-cars-being-put-on-a-data-diet/amp/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 74
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2014/01/Google-Lexus-car-640x362.jpg"
+        width: 640
+        height: 362
         isCached: true
-  - title: "Google’s A.I. Bonanza and Driverless Car Talk With Cruise C.E.O. Kyle Vogt"
-    excerpt: "And as you might expect, most of what they showed off today had a lot to do with artificial intelligence and how they’re going ... So Casey and I hailed a ride in one to find out if the driverless car revolution we’ve all been talking about and waiting ..."
-    publishedDateTime: 2023-05-12T13:41:00Z
-    webUrl: "https://www.nytimes.com/2023/05/12/podcasts/googles-ai-bonanza-and-driverless-car-talk-with-cruise-ceo-kyle-vogt.html"
+  - title: "Self-driving cars being put on a data diet"
+    excerpt: "Data that had no clear use was deleted, like recordings of failed driverless maneuvers. “If we treated storage as infinite, the costs would be astronomical,” Chatham says. After Waymo became an independent company with significant outside investment,"
+    publishedDateTime: 2023-05-12T13:23:00Z
+    webUrl: "https://arstechnica.com/cars/2023/05/self-driving-cars-being-put-on-a-data-diet/2/"
+    ampWebUrl: "https://arstechnica.com/cars/2023/05/self-driving-cars-being-put-on-a-data-diet/2/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/cars/2023/05/self-driving-cars-being-put-on-a-data-diet/2/amp/"
     type: article
     provider:
-      name: The New York Times
-      domain: nytimes.com
-    quality: 67
-    images:
-      - url: "https://static01.nyt.com/images/2023/06/05/multimedia/0512HF-googleai-lwfv/0512HF-googleai-lwfv-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "UK to roll out first driverless bus service"
-    excerpt: "The UK will roll out its first driverless bus network in Scotland next week with drivers on standby behind the steering wheel, ready to take control should an emergency arise."
-    publishedDateTime: 2023-05-11T20:13:00Z
-    webUrl: "https://techxplore.com/news/2023-05-uk-driverless-bus.html"
-    ampWebUrl: "https://techxplore.com/news/2023-05-uk-driverless-bus.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-05-uk-driverless-bus.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/edinburgh.jpg"
-        width: 2880
-        height: 2030
-        isCached: true
-  - title: "Britain to roll out first driverless bus service"
-    excerpt: "The service, which aims to carry 10,000 passengers a week over a 22.5-kilometre route on five single-deck buses, will be the world's first automated local bus service, its operator said."
-    publishedDateTime: 2023-05-12T18:48:00Z
-    webUrl: "https://www.gulftoday.ae/news/2023/05/12/britain-to-roll-out-first-driverless-bus-service"
-    type: article
-    provider:
-      name: gulftoday
-      domain: gulftoday.ae
+      name: Ars Technica
+      domain: arstechnica.com
     quality: 54
-    images:
-      - url: "http://www.gulftoday.ae/-/media/gulf-today/images/articles/news/2023/5/12/driverless-buses.ashx?h=450&w=750&hash=DA420C0A40E730C30B1558286369EDC1"
-        width: 750
-        height: 450
-        isCached: true
-  - title: "Self-driving Cars Market in 2023: Insights and Strategies | 2031"
-    excerpt: "New “Self-driving Cars Market” Report 2023 by Manufacturers and Forecast to 2031: Get the latest insights into"
-    publishedDateTime: 2023-05-15T04:45:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-cars-market-in-2023-insights-and-strategies-2031-2023-05-15"
+  - title: "My week navigating the awkward teenage years of self-driving cars"
+    excerpt: "Pedestrians and human motorists in San Francisco are learning to interact with ‘robot drivers’. Here’s how my experience went"
+    publishedDateTime: 2023-05-13T09:01:00Z
+    webUrl: "https://www.theguardian.com/us-news/2023/may/13/self-driving-cars-waymo-cruise-san-francisco"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2023/may/13/self-driving-cars-waymo-cruise-san-francisco"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2023/may/13/self-driving-cars-waymo-cruise-san-francisco"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
+      name: The Guardian
+      domain: theguardian.com
+    quality: 44
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "UK To Roll Out Driverless Bus Service"
-    excerpt: "The UK will roll out its first driverless bus network in Scotland next week with drivers on standby behind the steering wheel, ready to take control"
-    publishedDateTime: 2023-05-12T03:40:00Z
-    webUrl: "https://menafn.com/1106231030/UK-To-Roll-Out-Driverless-Bus-Service"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 39
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?106671"
-        width: 444
-        height: 250
-        isCached: true
-  - title: "UK to roll out first driverless bus service"
-    excerpt: "The UK will roll out its first driverless bus network in Scotland next week with drivers on standby behind the steering wheel, ready to take control should an emergency arise. The service,"
-    publishedDateTime: 2023-05-13T03:28:00Z
-    webUrl: "https://technology.inquirer.net/124026/uk-to-roll-out-first-driverless-bus-service"
-    type: article
-    provider:
-      name: Philippine Daily Inquirer
-      domain: inquirer.net
-    quality: 39
-    images:
-      - url: "https://technology.inquirer.net/files/2023/05/Driver_Stuart_Doidge_monitors_an_autonomous_bus_as_it_drives_across_the_Forth_Road_Bridge_between_Edinburgh_and_Fife_during_a_press_preview_for_the_CAV_Forth_a_bvXSMR84YoEl-620x413.jpg"
+      - url: "https://i.guim.co.uk/img/media/9750c38b8398a3c158f98dfcf9648ca8e12f8174/102_0_3300_1980/master/3300.jpg?width=620&quality=85&auto=format&fit=max&s=e3d10e627bcf807b650606318f5e9b62"
         width: 620
-        height: 413
+        height: 372
         isCached: true
   - title: "What self-driving cars may mean for traffic"
     excerpt: "AI might be arriving with a bang, but autonomous cars are crawling closer at a snail’s pace. What’s the delay? And what can we expect to change on our roads in the next decade?"

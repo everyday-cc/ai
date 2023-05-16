@@ -78,6 +78,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "2023, Big Data & Machine Learning in Telecom Market Research Report Analysis by 2030"
+    excerpt: "The major players covered in the Big Data and Machine Learning in Telecom market report are: Get a sample copy of the Big Data and Machine Learning in Telecom Market report 2023 Short Summery About Big Data and Machine Learning in Telecom Market: Market Overview of Global Big Data and Machine Learning in Telecom market: According to our latest research,"
+    publishedDateTime: 2023-05-16T06:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-big-data-machine-learning-in-telecom-market-research-report-analysis-by-2030-2023-05-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 62
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Cooking Robot Market - Growth, Trends, Covid-19 Impact, and Forecast (2023 - 2029) - Report By Introspective Market Research"
     excerpt: "Global Cooking Robot Market is expected to grow at a significant growth rate, and the analysis period is 2022-2028, considering the base year as 2021. Cooking is one of the most important activities that take place in the house,"
     publishedDateTime: 2023-05-12T11:05:00Z

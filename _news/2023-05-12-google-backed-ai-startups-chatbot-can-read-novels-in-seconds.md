@@ -18,6 +18,36 @@ topics:
   - AI
 
 related:
+  - title: "Snapchat's new AI chatbot is already raising alarms among teens and parents"
+    excerpt: "Less than a few hours after Snapchat rolled out its My AI chatbot to all users last week, Lyndsi Lee, a mother from East Prairie, Missouri, told her 13-year-old daughter to stay away from the feature."
+    publishedDateTime: 2023-05-15T09:51:00Z
+    webUrl: "https://edition.cnn.com/2023/04/27/tech/snapchat-my-ai-concerns-wellness/index.html@"
+    ampWebUrl: "https://amp.cnn.com/cnn/2023/04/27/tech/snapchat-my-ai-concerns-wellness/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/04/27/tech/snapchat-my-ai-concerns-wellness/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 85
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/230426123404-snapchat-app-restricted-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "You’re Probably Underestimating AI Chatbots"
+    excerpt: "Just as the first iPhone reviews mostly missed the device’s huge potential, it’s folly to draw conclusions from today’s unrefined technology."
+    publishedDateTime: 2023-05-12T13:01:00Z
+    webUrl: "https://www.wired.com/story/plaintext-youre-probably-underestimating-ai-chatbots/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 67
+    images:
+      - url: "https://media.wired.com/photos/645d37c10227ed23db8041a9/191:100/w_1280,c_limit/AI_biz_GettyImages-1372009287.jpg"
+        width: 1280
+        height: 670
+        isCached: true
   - title: "Amazon reportedly planning to bring artificial intelligence chatbot to its online storefront"
     excerpt: "Based on some current job listings, Amazon is now planning to bring the artificial intelligence chatbot ‘ChatGPT’ to its online store."
     publishedDateTime: 2023-05-16T00:51:00Z
@@ -48,6 +78,29 @@ related:
         width: 1024
         height: 512
         isCached: true
+  - title: "What Higher Ed Gets Wrong About AI Chatbots — From the Student Perspective"
+    excerpt: "As a doctoral student at the University of California at Los Angeles, I was among those who got a recent campus-wide email with an urgent directive:"
+    publishedDateTime: 2023-05-15T13:37:00Z
+    webUrl: "https://www.edsurge.com/news/2023-05-15-what-higher-ed-gets-wrong-about-ai-chatbots-from-the-student-perspective"
+    type: article
+    provider:
+      name: EdSurge
+      domain: edsurge.com
+    quality: 37
+    images:
+      - url: "https://edsurge.imgix.net/uploads/post/image/15318/student_using_chatgpt-1683234053.png?auto=compress%2Cformat&w=1024&h=512&fit=crop"
+        width: 1024
+        height: 512
+        isCached: true
+  - title: "HealthGPT: AI chatbots enter hospitals"
+    excerpt: "Australian hospitals are trialling ChatGPT AI to help track performance metrics, such as how long high-risk patients are waiting before being screened."
+    publishedDateTime: 2023-05-15T12:00:00Z
+    webUrl: "https://www.theaustralian.com.au/nation/healthgpt-ai-chatbots-enter-hospitals/news-story/dfb7a7eff819830308bbe1635e007706"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 19
 
 secured: "WhaglilAUlJmVkHP/HYo1peKFYtEYeSKM+bj1toyXRj0gWqzA8PlmiKh1HjmyGm6Otl0nA5aIQuAfbDJ85+YStTJ+fRNz5bNS+MY/dAqPp5QaCHULk7cgDdB0rx51BRV4RhRZ40swbqOYQgWvc+Wh+oI7V9gq8uPz7Jg7yGeerngtEu5NT/mrGpR1gw4DfQrmiDR1XSieTsJt11bVhBF8YPMLHuzZXhXOtx+e31j8IFZjWVjHc9tMYV8Ca9PK59sMWHBrhxslV9EWeWGrlWcUbtkYtAX+6P6bw9hNiTfH0BWWB0gc8tc9NSTFgC9i40TSKt0uvsGk5JFnBlRb0wctAimQ7PPOdjhDy4UfGNky6k=;0HGcb0ruNqfMvUp/AyEZiQ=="
 ---

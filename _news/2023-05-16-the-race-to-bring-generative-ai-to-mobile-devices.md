@@ -64,6 +64,22 @@ related:
         width: 1200
         height: 655
         isCached: true
+  - title: "New paper introduces ethics framework for use of generative AI in health care"
+    excerpt: "A new paper published by leading Australian AI ethicist Stefan Harrer Ph.D. proposes for the first time a comprehensive ethical framework for the responsible use, design, and governance of Generative AI applications in health care and medicine."
+    publishedDateTime: 2023-05-16T13:49:00Z
+    webUrl: "https://medicalxpress.com/news/2023-05-paper-ethics-framework-generative-ai.html"
+    ampWebUrl: "https://medicalxpress.com/news/2023-05-paper-ethics-framework-generative-ai.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-05-paper-ethics-framework-generative-ai.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 71
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/ai-health.jpg"
+        width: 1920
+        height: 1633
+        isCached: true
   - title: "ActiveCampaign Introduces Content Generation Powered by AI"
     excerpt: "The marketing automation provider invests in generative AI, helping customers improve engagement, conversion rates, and the overall customer"
     publishedDateTime: 2023-05-16T11:14:00Z
@@ -108,20 +124,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "DDN Empowers Breakthroughs in Generative AI with Unprecedented Sales Growth"
-    excerpt: "DDN, the global leader in artificial intelligence (AI) and multi-cloud data management solutions, today announced that"
-    publishedDateTime: 2023-05-11T20:06:00Z
-    webUrl: "https://www.datanami.com/this-just-in/ddn-empowers-breakthroughs-in-generative-ai-with-unprecedented-sales-growth/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 54
-    images:
-      - url: "https://www.datanami.com/wp-content/uploads/2020/06/DDN-Logo-Portrait-RGB-1-300x300-1-300x300.png"
-        width: 300
-        height: 300
-        isCached: true
   - title: "Meta Joins Generative AI Race, Will Begin Testing AI-Powered Ads Tools to Create Content"
     excerpt: "A select group of advertisers will be invited to experiment with the tools in a \"testing playground\" that Meta is calling the AI Sandbox."
     publishedDateTime: 2023-05-12T06:49:00Z
@@ -137,6 +139,20 @@ related:
       - url: "https://i.gadgets360cdn.com/large/meta_image_reuters_1654769238524.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "KPMG makes generative AI available to partners and staff"
+    excerpt: "KPMG announced a new initiative to deploy a series of generative AI partnerships and investments to reinvent how the firm operates."
+    publishedDateTime: 2023-05-16T14:05:00Z
+    webUrl: "https://www.accountingtoday.com/news/kpmg-makes-generative-ai-available-to-partners-and-staff"
+    type: article
+    provider:
+      name: Accounting Today
+      domain: accountingtoday.com
+    quality: 39
+    images:
+      - url: "https://arizent.brightspotcdn.com/dims4/default/4cdc59a/2147483647/strip/true/crop/2000x1050+0+30/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F6b%2F8f%2F72919e654bc18c3900fa3e4087d1%2F375176087.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Meta to start testing generative AI tools for advertisers"
     excerpt: "The generative AI ad tool AI Sandbox is currently being released to a small group of advertisers and will see a bigger release in July."

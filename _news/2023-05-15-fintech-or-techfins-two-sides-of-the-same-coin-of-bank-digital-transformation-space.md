@@ -35,6 +35,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Partnerships Play A Key Role In Fintech's Future"
+    excerpt: "Partnerships Play a Key Role in Fintech's Future Vancouver, Kelowna, and Delta, British Columbia--(Newsfile Corp. - May 16, 2023) - investorideas"
+    publishedDateTime: 2023-05-16T12:43:00Z
+    webUrl: "https://menafn.com/1106252789/Partnerships-Play-A-Key-Role-In-Fintechs-Future"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 4
 
 secured: "Wd0S8jgQgGh0Q1nGblLPRm7re11AvtmaNQ7qDHLHUlxk8jJ7ni3NecoEQIgluyT95WlA+y++OdQcWhqvhLi6+Ye4sLLh9T3uVa23ohgkKpmrlB0XVttZUqw6rJgC6gDOR1iDVEhAyZtMftQhX7ZvSgcz0Mk/rFW1GpjcJa0yOhUZZHePDeoBroK5YwwTgnxqKS/0gMmI2DPT1SJepKLuU2TtL2c9Q8RWMg00gswv7x0xp3XJ0o9iqo/HunbFlVtRC+ZQUhTfEZDkmToYcbkfuwLvCnOqQfgWg5TbHLl9CY331OIngtfK6K7AF6uN3Nlw/QAnqpykqNTZ7Pa+vIGFCN6sagMhiCcw5BGfi0nhcQBYgeowVJAo4uXH/ZobvJsIzSdfE13RaYAanxSKwUwPOsrKUIDRuTg63JAFxv6JfX42trTyvOL6zzZvKD7pKNLgvjAMKbmqLOs5lODg3LOIhtsHjdKLyroBBAVix3ALDbQ3P9T7K5bIwCbAm6eEMbQmYkPGnSCApXGSdbHvS57VWw==;R41Rv1ZwCILUqR4M5Ln/xQ=="
 ---

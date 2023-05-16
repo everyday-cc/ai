@@ -9,8 +9,8 @@ ampWebUrl: "https://www.technologyreview.com/2023/05/15/1073019/catching-bad-con
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/05/15/1073019/catching-bad-content-in-the-age-of-ai/amp/"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 89
+published: true
 
 provider:
   name: MIT Technology Review
@@ -27,68 +27,47 @@ images:
     isCached: true
 
 related:
-  - title: "The Danger Of AI Content Farms"
-    excerpt: "In this article, we explore the risks of AI-generated articles, including disinformation, copyright infringement, clickbait, and biased data."
-    publishedDateTime: 2023-05-16T06:27:00Z
-    webUrl: "https://www.forbes.com/sites/bernardmarr/2023/05/16/the-danger-of-ai-content-farms/"
-    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/05/16/the-danger-of-ai-content-farms/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/05/16/the-danger-of-ai-content-farms/amp/"
+  - title: "The Age of AI: Keeping the Human Touch in Healthcare"
+    excerpt: "Artificial intelligence (AI) and emerging chatbot technologies are revolutionizing the way healthcare is being delivered. Designed to mimic human intelligence to improve upon and perform standard operational tasks,"
+    publishedDateTime: 2023-05-12T13:38:00Z
+    webUrl: "https://www.healthleadersmedia.com/innovation/age-ai-keeping-human-touch-healthcare"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: HealthLeaders Media
+      domain: healthleadersmedia.com
+    quality: 54
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/646321ba6bb60b67d3dd3ffd/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 820
+      - url: "https://www.healthleadersmedia.com/sites/hlmp/files/files/shutterstock_1219327084.jpg"
+        width: 2732
+        height: 1200
         isCached: true
-  - title: "Dangers of AI: What are the Artificial Intelligence threats and risks?"
-    excerpt: "Although AI has been hailed as revolutionary and a game-changer, it has drawbacks. In addition to planning for superintelligent computers, contemporary AI can bring problems. Let's take a look at some crucial AI-related risks."
-    publishedDateTime: 2023-05-14T15:08:00Z
-    webUrl: "https://www.moneycontrol.com/news/technology/dangers-of-ai-what-are-the-artificial-intelligence-threats-and-risks-10585221.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/technology/dangers-of-ai-what-are-the-artificial-intelligence-threats-and-risks-10585221.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/dangers-of-ai-what-are-the-artificial-intelligence-threats-and-risks-10585221.html/amp"
+  - title: "Proposed Regulatory Oversight on the Emerging Use of Artificial Intelligence in Digital Health"
+    excerpt: "Recent months have seen a heightened interest in artificial intelligence (“AI”)-based technology solutions. Although AI is derived from neural networks that date back to the 1940s, new tec"
+    publishedDateTime: 2023-05-14T14:43:00Z
+    webUrl: "https://www.natlawreview.com/article/proposed-regulatory-oversight-emerging-use-artificial-intelligence-digital-health"
+    ampWebUrl: "https://www.natlawreview.com/article/proposed-regulatory-oversight-emerging-use-artificial-intelligence-digital-health?amp"
+    cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/proposed-regulatory-oversight-emerging-use-artificial-intelligence-digital-health?amp"
     type: article
     provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 74
+      name: The National Law Review
+      domain: natlawreview.com
+    quality: 49
     images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2023/05/AI-2.jpg"
-        width: 1280
-        height: 720
+      - url: "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png"
+        width: 1426
+        height: 808
         isCached: true
-  - title: "Enterprise hits and misses - the modern data stack is messy, content marketing needs to change, and developers put AI to the test"
-    excerpt: "This week - the modern data stack is trending, but data quality remains a sticking point. Developers put generative AI to the hands-on test, but IT pros still need to get out more. To reach today's buyer,"
-    publishedDateTime: 2023-05-15T17:47:00Z
-    webUrl: "https://diginomica.com/enterprise-hits-and-misses-modern-data-stack-messy-content-marketing-needs-change-and-developers"
-    ampWebUrl: "https://diginomica.com/enterprise-hits-and-misses-modern-data-stack-messy-content-marketing-needs-change-and-developers?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/enterprise-hits-and-misses-modern-data-stack-messy-content-marketing-needs-change-and-developers?amp"
+  - title: "The Artificial Intelligence Driving Travel Innovations"
+    excerpt: "AI news drove headlines this week, from Expedia, to Google, and even to Skift. Click through for a summary of the top stories."
+    publishedDateTime: 2023-05-13T16:00:00Z
+    webUrl: "https://skift.com/2023/05/13/the-artificial-intelligence-driving-travel-innovations/"
+    ampWebUrl: "https://skift.com/2023/05/13/the-artificial-intelligence-driving-travel-innovations/amp/"
+    cdnAmpWebUrl: "https://skift-com.cdn.ampproject.org/c/s/skift.com/2023/05/13/the-artificial-intelligence-driving-travel-innovations/amp/"
     type: article
     provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 47
-    images:
-      - url: "https://diginomica.com/sites/default/files/images/2013-06/forkinroad.jpg"
-        width: 424
-        height: 283
-        isCached: true
-  - title: "Founder of artificial intelligence firm warns robots could end up controlling humanity"
-    excerpt: "Robots could end up controlling humanity, the founder of an artificial intelligence firm will warn. Emad Mostaque, 40, who founded Stability AI three years ago, will say this could happen in a “worst case scenario” and humans could be told “goodbye,"
-    publishedDateTime: 2023-05-14T10:39:00Z
-    webUrl: "https://www.limerickleader.ie/news/national-news/1169864/founder-of-artificial-intelligence-firm-warns-robots-could-end-up-controlling-humanity.html"
-    type: article
-    provider:
-      name: Limerick Leader
-      domain: limerickleader.ie
-    quality: 46
-    images:
-      - url: "https://www.limerickleader.ie/resizer/1200/700/true/pa/2023_05_13/1684002310604_0.jpg--founder_of_artificial_intelligence_firm_warns_robots_could_end_up_controlling_humanity.jpg?1684002310640"
-        width: 1200
-        height: 700
-        isCached: true
+      name: Skift
+      domain: skift.com
+    quality: 39
 
 secured: "HQ9xS2kjMyyT9bDoncCpQ/iLHgQm00t73mZC8LwGmraQnxR0ddSUrLgIQDFYh8c+7Pv1jpHUigtNgEggDFDlcXqGU5xSDrnc5PIx+A3OJUdvHX9oHx7YEY3bjkri9PrJnKDBEOp6FicOPtrCcqsmUWezl4fkiedStZGrI8itrkNrC18s6HxrMpW3wP9mxtp70CEb17O7nl6u2uFy4r4XzB93/MLpo1yiVPwIRJpkXzTK9UmrOn3bD5OvRbZMiobYBF7pLFcY3Py9WSAICU4OXgWwDd+Q2PCLW5AJWlLNc++0At9+hDn5RyE2ZP/wXfJobmo6TrSE4pEBuW6DmK3oiaDzL4NAYBRnea4ws1NZEV/qnwkaDgbrYxUdh5RqoMN8RHGUf+tiAwG7NWiHEnAKb8GTlOzG+v2TZuh/I7Iapmf0e17hT+QqrecC9tQPzKiNtTgqK7WQDibjm9FuQNfc4khxcecu6pZzDEdzoeVRKiVx/OqXGvWZHc3uJj1seklybVyhUT902SS4eQZIFrdf+g==;Uqv3IRBWw2NVMNiPN4u7NA=="
 ---

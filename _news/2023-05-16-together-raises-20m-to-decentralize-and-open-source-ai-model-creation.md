@@ -55,6 +55,15 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "OpenAI chief set to call for greater regulation of artificial intelligence"
+    excerpt: "OpenAI’s chief executive US lawmakers on Tuesday that regulation of artificial intelligence must allow companies to be flexible and a"
+    publishedDateTime: 2023-05-16T14:06:00Z
+    webUrl: "https://arstechnica.com/information-technology/2023/05/openai-chief-set-to-call-for-greater-regulation-of-artificial-intelligence/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 60
 
 secured: "UA45WjmNYUSPra0gTX6rBZ2+i6YhvekKZGkeJbjeapHJ+sBnjYtPiMdVLyK+bx4+86WL0HSxC+iwnOZUGVKRc+CuG8rw+Cs5ofwsNDIygfiBi0kzHLIKFmmJEhFL+JeRoYu9dWTFi5qafr6ff0bsMqyovQL5TwcOXuRRkzyPP/3cBOxwUyC663stVneE7fiOtX+w+a8BEuqA9AMRSXVXjIfOHWfhlLZ3bXL7RkqABzexHw89HvQgiJxqm2FTwiyqMJ3aXFyNK/gFVA+g0CzNB/yhqtQOP08Pb4ZqGQ0hAXhiNQrOzUoDmMZCYbQB4cj8HTW8HwBnEEyCpRDa5QLBQ/PIon7OV9sw8E7WpFNgZliFZ+G6i70MK9H+kA3OQ78AFzYV25xCJSmhyK/2L93E/AqRNl4XBaTtqhYdmTxmtQLNnhdw9DQ+mwr6VwH9ReSiepWTOpbBjA/xPoU9ydLvvc/JQSuJgvbgor549vnh8bc6Gtcu0G5seeg22FKq0mcnhZxSQh0Lz4UXPejPLygwaw==;jBQkdrz+bmrehoS+yEh+hA=="
 ---

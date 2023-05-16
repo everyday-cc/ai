@@ -9,7 +9,7 @@ ampWebUrl: "https://www.barrons.com/amp/news/online-search-to-make-up-lost-time-
 cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/online-search-to-make-up-lost-time-with-ai-8ef011d"
 type: article
 quality: 57
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google Is Rolling the Dice With AI Search"
-    excerpt: "As AI answers fill our phone screens, what will become of the tech giant’s relationship with advertisers — or the truth?"
-    publishedDateTime: 2023-05-11T23:53:00Z
-    webUrl: "https://www.washingtonpost.com/business/2023/05/12/google-is-rolling-the-dice-with-ai-search/42a55c5a-f081-11ed-b67d-a219ec5dfd30_story.html"
-    type: article
-    provider:
-      name: The Washington Post
-      domain: washingtonpost.com
-    quality: 39
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IH5Q43HQQEI63NT5UIM6YXP5GA.jpg&w=1440"
-        width: 1440
-        height: 958
-        isCached: true
   - title: "Congress Is Racing to Catch Up With Artificial Intelligence"
     excerpt: "Lawmakers agree that the rapid evolution of this technology needs to be addressed—but they’re still getting up to speed on the details."
     publishedDateTime: 2023-05-15T10:09:00Z

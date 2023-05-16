@@ -45,15 +45,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 8
-  - title: "Industrial Machine Vision Market is Anticipated to Develop at a CAGR of 6.9% from 2022 to 2032 | Report by FMI"
-    excerpt: "The market for industrial machine vision worldwide is anticipated to reach $8.45 billion in 2022. During the projected period (2022-2032), the market is expected to grow at a CAGR of 6.9% and reach a value of US$ 16."
-    publishedDateTime: 2023-05-16T01:37:00Z
-    webUrl: "https://www.fmiblog.com/2023/05/16/industrial-machine-vision-market-is-anticipated-to-develop-at-a-cagr-of-6-9-from-2022-to-2032-report-by-fmi/"
-    type: article
-    provider:
-      name: Future Market Insights
-      domain: fmiblog.com
-    quality: 0
 
 secured: "aKOwIMDyu82P4LdqJ6VNC+uDa10rNmLNts58cdzQhAyqEz1iTm/M14Qlv+e37lF9Qd1ESiJ825topqA4YtiVQhLhS0jl3wa8HXJ26gcX4OXU6B9kHFae5hs9JC2XzjwyxTtBuKIkritOo3GdZgGjp5+y4ZQkFSkR6J/dZn60QhDrDgczdOGPmeCy5nOwzw/luloXwyVj+czGMeu6ahuf82CFgkCvYQFa91gD/xrUCaX6IsTHLBj2trWqw936Eq+21MtmZaw04IXE9pd7+hhOVXrIE/jOVJiVDAX43ivFmwUbNNGALvcjxstqpp+M9d1OOJNUOe89z3Jzm+cE0DcvOFxZ8uoAdNut/Crwct3gsB8=;ZA/bow4X/PJkuOQFTYvP1w=="
 ---

@@ -46,15 +46,6 @@ related:
       name: Startup Daily
       domain: startupdaily.net
     quality: 15
-  - title: "AI Startup Rewind Gets 170 Offers—and $350 Million Valuation in Unusual Fundraising"
-    excerpt: "Hungry venture capitalists inundated Rewind AI co-founder and CEO Dan Siroker the moment they caught wind of his artificial intelligence startup’s Series A plans, he wrote on Twitter last month. So he skipped the traditional fundraising process and tried something unorthodox."
-    publishedDateTime: 2023-05-11T19:37:00Z
-    webUrl: "https://www.theinformation.com/articles/ai-startup-rewind-gets-170-offers-and-350-million-valuation-in-unusual-fundraising"
-    type: article
-    provider:
-      name: The Information
-      domain: theinformation.com
-    quality: 11
 
 secured: "TL7I26G75LRKm3T1D4DDvm8ZMxfAGaM8ZxC9YZIVMYNXbeG+zyIO5gbR+L6cyMbAEk26altOZbmZPMqa4AVriLUOaKqrsvdf18YcC0757gaRGELmaybxRKWFa4AdT1OTtFFQvLF3O4N2Zm+kforBLwr1HbOwVAvQ/NamglF+/ykEJb8iFU5kdr/advFebYWSugUGTLxtbXaZfKUVebU8rK2zg34IX8InjTBNXMJkgz/5FwdaGl1pE4vi1JtUX4qaQMtKJZjTIRpxYYFSCEWwJ7+1BVJslrrCGmhBIMTpIiQbKx74pBCauXofvem9TPK13rb54QEky4gnRmk3qod55oLLmBEMEausDsc4iWkPa5g=;iudUx/oLKMf413w2bhA+/Q=="
 ---

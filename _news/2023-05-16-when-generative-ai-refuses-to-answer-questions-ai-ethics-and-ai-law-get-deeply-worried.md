@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/05/16/when-generative-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/05/16/when-generative-ai-refuses-to-answer-questions-ai-ethics-and-ai-law-get-deeply-worried/amp/"
 type: article
 quality: 96
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -30,6 +30,17 @@ images:
     height: 799
     isCached: true
 
-secured: "NijgpxreXQYWaCn+yoUko8XZZaQsHn68x2Dw14Uku8xGh+aCmVoW6Vt60RuYreLVRd8NRigBra6qyW03gf3GbmYMtPGJfSQJ56zgVNUx9VQd1tl204NiorR5FjlKVcJziCihgsjRM/3f5QodD4O6mzefsm0Gzd4mBIKasiLjpf+pkJMy1JNXbufwF4NpUWNMOM1igRQVaqMrxLLZFPk7hLiVBc5maKXqTpet5+a2XXkVOQas8xociUh0zeaKELWOMS+n1iZKDCioXttf42sYgwz6M7QjlpAi3WwJsuA/lHHJBFpnzOzCa8tYRF24PmCQUZDQttI3T8tBZYkXpOSveMCW4deCovHDG3eLJhMfPY8=;0TQu44VIwebl4XbX4YXx/A=="
+related:
+  - title: "DeepBrain AI uses virtual humans and generative AI to automate job interviews"
+    excerpt: "The new offering combines DeepBrain AI’s generative AI video technology with OpenAI LP’s large language model GPT-4 to create an AI-powered interviewer that can engage job applicants in question and answer sessions to weed out candidates for face-to-face interviews with real humans."
+    publishedDateTime: 2023-05-16T12:00:00Z
+    webUrl: "https://siliconangle.com/2023/05/16/deepbrain-ai-uses-virtual-humans-generative-ai-automate-job-interviews/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 14
+
+secured: "VJ/GAuN8nKOYUx9ufPmJ9bGvJxtajp2us/mDrgx5OMmkTZAEnQnH+X/ehOGJF/zKZCiIVQz0gfcSFd6YyITkPBGivIbJLhR25tEb1vK1m4PniZyl7XDh8l5nu2+NYJyikq5CtKO5nv3OhFnpyp+wddTAe2QoQnBl3oF2soTQ6g6SPDYiLTbuLGhHkFrDF0pu4z0VWUROlxC4hulRYGeN7BL1nBvyGIE2AjeXRKaaHNFJR1JFDaRzF143dPUaIj3CYOQb1zv2dTjx+3raYZ9TZtNbneQB6To97tOD0BWnKvQjCtdN2c6jTgHQqxuXZ8IH1Yik8YHBtG11u5xKfFk3LoZDUofPftp6NTcINyqSyyaD+E2BM7tzjIr76UZHYjGakWeitkZwsVV3uVNsvMpHb83MliOU7JYk2Zh5myBoIWxpKI8suRQA8BCxQzrkH5BqJD+faYXt/D5s2eRoeIBji2YtchBa5XN7qE+5ZP1nxFVCPAT0QFNwXTpJmDREAa9C+xYRTVGlQWfNBGDG7xmRLw==;uIVL10UqmDECVNMtQ9dtUg=="
 ---
 

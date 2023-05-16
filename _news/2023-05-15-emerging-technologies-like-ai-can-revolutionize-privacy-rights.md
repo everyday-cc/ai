@@ -59,6 +59,17 @@ related:
         width: 1280
         height: 851
         isCached: true
+  - title: "Retail revolution: new data reveals next generation of shoppers ready for AI, AR and Robots"
+    excerpt: "New research shows that next generation of shoppers will prefer real-life shopping over virtual reality but crave tech innovation to elevate their shopping experience, with 81% of Gen Z'ers & Millenni"
+    publishedDateTime: 2023-05-16T14:39:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/05/n32424333/retail-revolution-new-data-reveals-next-generation-of-shoppers-ready-for-ai-ar-and-robots"
+    ampWebUrl: "https://www.benzinga.com/amp/content/32424333"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32424333"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 44
   - title: "Bitpanda invests $10m in AI to “revolutionise” wealth creation"
     excerpt: "Austrian fintech Bitpanda is investing $10m into artificial intelligence to establish Bitpanda.ai. The investment marks the first move towards establishing a dedicated AI division for the company, which was founded by Eric Demuth,"
     publishedDateTime: 2023-05-16T08:04:00Z

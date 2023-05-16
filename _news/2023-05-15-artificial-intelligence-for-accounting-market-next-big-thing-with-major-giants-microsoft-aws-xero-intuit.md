@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-for-accounting-market-next-big-thing-with-major-giants-microsoft-aws-xero-intuit-2023-05-15"
 type: article
 quality: 83
-heat: -1
-published: false
+heat: 113
+published: true
 
 provider:
   name: MarketWatch
@@ -30,15 +30,29 @@ images:
     isCached: true
 
 related:
-  - title: "AI Recognition Market SWOT Analysis by Leading Key Players Microsoft Azure, Google, Tencent, Alibaba"
-    excerpt: "Click Here to Get Free Sample PDF Copy of Latest Research on AI Recognition Market 2023 before Purchase:  The report will also include information on the top companies in the AI Recognition market shares,"
-    publishedDateTime: 2023-05-15T09:14:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-recognition-market-swot-analysis-by-leading-key-players-microsoft-azure-google-tencent-alibaba-2023-05-15"
+  - title: "Triumph Tech CEO: AWS Will Win ‘AI War’ Vs. Google, Microsoft"
+    excerpt: "Generative AI market of Amazon, Google and Microsoft’s OpenAI ChatGPT will be won by AWS due to the cloud company’s artificial intelligence customization and scalability, says Triumph Technology Solutions CEO."
+    publishedDateTime: 2023-05-12T15:29:00Z
+    webUrl: "https://www.crn.com/news/cloud/triumph-tech-ceo-aws-will-win-ai-war-vs-google-microsoft"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 71
+    images:
+      - url: "https://www.crn.com/resources/0281-17fee2fdcd7a-2e9db2bde58c-1000/vic-raymond.jpeg"
+        width: 611
+        height: 458
+        isCached: true
+  - title: "Deep Learning in Manufacturing Market 2023-2030"
+    excerpt: "The major players covered in the Deep Learning in Manufacturing market report are: Get a sample copy of the Deep Learning in Manufacturing Market report 2023 Market Overview of Global Deep Learning in Manufacturing market: According to our latest research,"
+    publishedDateTime: 2023-05-16T06:22:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-in-manufacturing-market-2023-2030-2023-05-16"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 84
+    quality: 69
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -58,52 +72,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "2023, Big Data & Machine Learning in Telecom Market Research Report Analysis by 2030"
-    excerpt: "The major players covered in the Big Data and Machine Learning in Telecom market report are: Get a sample copy of the Big Data and Machine Learning in Telecom Market report 2023 Short Summery About Big Data and Machine Learning in Telecom Market: Market Overview of Global Big Data and Machine Learning in Telecom market: According to our latest research,"
-    publishedDateTime: 2023-05-16T06:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/2023-big-data-machine-learning-in-telecom-market-research-report-analysis-by-2030-2023-05-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 62
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "2023, Automatic Speech Recognition(ASR) Software Market Research Report Analysis by 2030"
-    excerpt: "The major players covered in the Automatic Speech Recognition (ASR) Software market report are: Get a sample copy of the Automatic Speech Recognition (ASR) Software Market report 2023 Short Summery About Automatic Speech Recognition (ASR) Software Market: The global Automatic Speech Recognition (ASR) Software market size was valued at USD 13410."
-    publishedDateTime: 2023-05-12T17:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/2023-automatic-speech-recognitionasr-software-market-research-report-analysis-by-2030-2023-05-12"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 60
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "SAP taps Microsoft AI Copilot to streamline hiring and upskilling for enterprises"
-    excerpt: "SAP today announced a plan to integrate Microsoft AI Copilot and Azure OpenAI service with its SuccessFactors suite of solutions."
-    publishedDateTime: 2023-05-15T17:57:00Z
-    webUrl: "https://venturebeat.com/ai/sap-taps-microsoft-ai-copilot-to-streamline-hiring-and-upskilling/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 59
-  - title: "SoftBank Says Goodbye to Alibaba, Hello to More AI Investments"
-    excerpt: "The Japanese tech investor said it was ready to go on the offensive again with its eye on artificial-intelligence companies."
-    publishedDateTime: 2023-05-11T19:41:00Z
-    webUrl: "https://www.wsj.com/articles/softbank-trims-overall-loss-after-topsy-turvy-fiscal-year-9a07237c"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 47
 
 secured: "iTIqYkmffuSK3MtKqanZzaHS7a5eo/w+oHspP6qzsBSTza+TgNGoOtsdomfWAUcJMZhEChXLl/KzmeKKp+akTWAbfgi85pn+B7bIzUy4fWQP2651W4G5hu2Ao6Q6sfb4DEhrWazo3g7Ep8CVOujbxJj/5QyoxQUBgwYxw2ROAg+j3S/bz9U0NuYJxvrZL8fDkV1PXZGHV1Ns8Cn3o+Hs7is4/h+aLe7B1Fjx5gYjKYVZjWxJLb05NoOvzwIbQRaeXAUyKtijN0vDH/qXIhAX0fneJbBMrvDd1ndyd5fSu9o3aUPtzZSHvQsyiiIQOnXlNBfanRhiHcH9b3ozu8RjrbsITUjWaVOou0TfjZtEgdU=;8QnAR+i6rbJfPhIFjxL2kA=="
 ---

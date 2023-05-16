@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/12/how-ai-is-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/05/12/how-ai-is-helping-to-improve-transportation-safety-on-a-global-scale/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -29,6 +29,17 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "How Artificial Intelligence Is Used in Education"
+    excerpt: "Generative AI is setting off a transformation in education. Here's a primer on AI and how its role in education will take shape in the future."
+    publishedDateTime: 2023-05-16T13:12:00Z
+    webUrl: "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/ai-in-education/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 68
 
 secured: "klHFi7mdmB+E40UEa5h0vGgfSfJVPBPii1OH3cVTJGIs/Eo3fZimI3CFGtlUMthbgQKrdDKgZRrkTP7tXt1ZO/htQKFPWfFeCy5tm8X5VWWSaGojlSE9vXvV1AoBDalWq2/IW+/SIoFRNPgipZ/a6qzTIhBlWazK81j7x/+ZPsFvqLicdsGP8eGKFX9gYxHDjROWQz5leaermrxedfTHuv4OjOSGws49oX19//RAGqae+FhPR6WX2lqtFnoqlOcJFMRCLWGEZuPLaX8r6gay9YMuamPvy7doNB8wDLgGKO4btQlxWN2x6e4tCXGCTIhgh3LM9By/U1JdfYOMhYAB4RtrNGGi+NLtdQed6G9FrnOhf975IgHM04U8WU4gznW87mkMbBXcoAu7FWsmoyAiCBWP4wtSkSHmQQZLR8cPbzx1uVdYshPefvFwPHiGPzRxCpIWwxpB5i2giUoLq2p9dXGTKaBlf/yRvR8s4CM0GbuxLjCm0M1Oi2cysvI5lRIi6OA/r1wKKvA6/pW+yygYtA==;Jd7N0xCoTo+s9Wss+mhwLw=="
 ---

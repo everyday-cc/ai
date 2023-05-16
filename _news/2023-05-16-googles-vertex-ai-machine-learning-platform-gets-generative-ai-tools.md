@@ -7,7 +7,7 @@ originalUrl: "https://www.arnnet.com.au/article/707102/google-vertex-ai-machine-
 webUrl: "https://www.arnnet.com.au/article/707102/google-vertex-ai-machine-learning-platform-gets-generative-ai-tools/"
 type: article
 quality: 56
-heat: 66
+heat: -1
 published: false
 
 provider:
@@ -26,15 +26,50 @@ images:
     isCached: true
 
 related:
-  - title: "Google’s top AI model, PaLM 2, hopes to upstage GPT-4 in generative mastery"
-    excerpt: "Google introduced PaLM 2, a family of foundational language models comparable to OpenAI's GPT-4. At its Google I/O event in Mountain View, Google revealed that it is already using PaLM 2 to power 25 different products,"
-    publishedDateTime: 2023-05-11T19:20:00Z
-    webUrl: "https://arstechnica.com/information-technology/2023/05/googles-top-ai-model-palm-2-hopes-to-upstage-gpt-4-in-generative-mastery/"
+  - title: "Google Launching Tools to Identify Misleading and AI Images"
+    excerpt: "Google is adding two new features to its image search to reduce the spread of misinformation, especially now that artificial intelligence tools have made the creation of photorealistic fakes trivial."
+    publishedDateTime: 2023-05-15T05:42:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-05-15/google-launching-tools-to-identify-misleading-and-ai-images"
     type: article
     provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 47
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 67
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/im1kpz2VrkVs/v0/1200x798.jpg"
+        width: 1200
+        height: 798
+        isCached: true
+  - title: "Law firms are experimenting with artificial intelligence tools"
+    excerpt: "Big law firms, known for their grueling hours and workloads, are experimenting with artificial intelligence tools that can handle the drudgery typically delegated to entry-level lawyers and simplify complex work that bogs down even top firm leaders,"
+    publishedDateTime: 2023-05-12T14:49:00Z
+    webUrl: "https://www.businessreport.com/business/law-firms-are-experimenting-with-artificial-intelligence-tools"
+    ampWebUrl: "https://www.businessreport.com/business/law-firms-are-experimenting-with-artificial-intelligence-tools?amp=1"
+    cdnAmpWebUrl: "https://www-businessreport-com.cdn.ampproject.org/c/s/www.businessreport.com/business/law-firms-are-experimenting-with-artificial-intelligence-tools?amp=1"
+    type: article
+    provider:
+      name: Baton Rouge Business Report
+      domain: businessreport.com
+    quality: 59
+    images:
+      - url: "https://s25562.pcdn.co/wp-content/uploads/2019/12/lawsuit-court-law.png"
+        width: 1734
+        height: 1122
+        isCached: true
+  - title: "Approaching artificial intelligence: How Purdue is leading the research and advancement of AI technologies"
+    excerpt: "With the programs, research and expertise highlighted below, Purdue is guiding the advancement of artificial intelligence. If you have any questions about Purdue’s work in AI or would like to speak to a Purdue expert, contact Brian Huchel, bhuchel@purdue ..."
+    publishedDateTime: 2023-05-15T14:16:00Z
+    webUrl: "https://purdue.edu/newsroom/releases/2023/Q2/approaching-artificial-intelligence-how-purdue-is-leading-the-research-and-advancement-of-ai-technologies.html"
+    type: article
+    provider:
+      name: Purdue University
+      domain: purdue.edu
+    quality: 36
+    images:
+      - url: "https://www.purdue.edu/uns/images/2023/agriculture-aiOG.jpg"
+        width: 800
+        height: 450
+        isCached: true
 
 secured: "aFC0333ehnDZSF01WkrRT8sxYYW9taZrHnvFmQfAFVCnZJZXxYQ5hlJ9LUpShpNPsi5A1M6gaDMBGlhwoPj6JZGb2wjHdq3WidpaUSSd2MjnVoCLyCL1TWJdHkhwFNde+mFEZKSmKQ91Db7wVE66uMhlq47cQPv0V0biE0IGPy5z+UZwTEsHIBwv4gdZG5/6celBQEpczeAyuBhc0BiwDo2rw4spTpbRrHOQXy8fqWEMbwU0n2pGasngVNCkk7+IocM3tw/B/LIE2LiurjfkZk/b6LKJvIfgIPq5Jr6JTPXSdFpQdFVSuaylh+e1RA9aoW8CnMLDNbRtCHBgZny45W45seH1E9hOpy72C4sEzBcHa4tyUk/1awB+IkuBw5w5Z0awrz3Dup82DosmYP8ZD/yP0fbP6W1Rdlhdg2gg6AOBM0R3cbwHcRfnhy3l3XkWk4N2Q2cFP6FR79yyokFU9V4VEK+RFn8vVIcSY5pogrPDmViEsgnLAY14AgnVT3gMci08BR4L13z2Cd3GTP1THA==;EqrJ3Hdf0FdNhEo5Mc2tng=="
 ---

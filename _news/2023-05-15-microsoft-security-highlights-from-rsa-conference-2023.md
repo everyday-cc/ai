@@ -7,7 +7,7 @@ originalUrl: "https://www.microsoft.com/en-us/security/blog/2023/05/15/microsoft
 webUrl: "https://www.microsoft.com/en-us/security/blog/2023/05/15/microsoft-security-highlights-from-rsa-conference-2023/"
 type: article
 quality: 56
-heat: 56
+heat: -1
 published: false
 
 provider:
@@ -28,6 +28,45 @@ images:
     width: 900
     height: 394
     isCached: true
+
+related:
+  - title: "Microsoft's Azure OpenAI can collect, analyze healthcare data"
+    excerpt: "Microsoft's Azure OpenAI platform is being used to collect and analyze healthcare data. For instance, Opus 5K, a health IT software company based in Australia, deployed the technology for its MARS (Measurement, Analysis and Reporting System) platform."
+    publishedDateTime: 2023-05-16T14:59:00Z
+    webUrl: "https://www.beckershospitalreview.com/disruptors/microsofts-azure-openai-can-collect-analyze-healthcare-data.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 86
+    images:
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "AI Recognition Market SWOT Analysis by Leading Key Players Microsoft Azure, Google, Tencent, Alibaba"
+    excerpt: "Click Here to Get Free Sample PDF Copy of Latest Research on AI Recognition Market 2023 before Purchase:  The report will also include information on the top companies in the AI Recognition market shares,"
+    publishedDateTime: 2023-05-15T09:14:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-recognition-market-swot-analysis-by-leading-key-players-microsoft-azure-google-tencent-alibaba-2023-05-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 84
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "SAP taps Microsoft AI Copilot to streamline hiring and upskilling for enterprises"
+    excerpt: "SAP today announced a plan to integrate Microsoft AI Copilot and Azure OpenAI service with its SuccessFactors suite of solutions."
+    publishedDateTime: 2023-05-15T17:57:00Z
+    webUrl: "https://venturebeat.com/ai/sap-taps-microsoft-ai-copilot-to-streamline-hiring-and-upskilling/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 59
 
 secured: "GueKBvai+AHQCuhoLbP9nfTLlIKNLR/MO74PJL3n+BGf4TZxUiRs0tOIbfw+wO1nwVjsd81QjvbCcaKdvTbCD/RBqsNxSFwp94ahwqVM/yFHCc+8YMzi1a7b8pN97W9qr6oJRFAo+IlnzfN5iliOO6soQA3BNqbLYOBSS7TEyfJdCyFbxifl2SWGuuBfllNHWGdiRhmNYDToahdfbw3EjQdO1SmRkFR9yZyd83wAa+H74myjWZ2IGrddEWPrceT8dp5ttQdd4I//8C6PO6GfXQiAW82+xagIdKASyZWw01UnJ/Tmp+Q3UoKrULRvymYZYflv9P7jlahi3inD9mqhxqEsXejiiKxvd7yS7uEtsmT9q8tH2PQVRJQlaWc9mhkfIMK9k6TTVmZgwYsEnacOeFeRRQXoQmm7bwCO32ud4X3+WepqRX3zJO9eQ74MU+B+7W0G/96SkXE2zO5Sg0BjwXBUizGcU+ii/vVOuNbHX7a0EUxdi+CuYyIK6RjjrBariKhbuFaWK/YVC05m2LswsQ==;DQrRkK6SlDtPAVFU5rXtaA=="
 ---

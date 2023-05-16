@@ -45,15 +45,6 @@ related:
       name: Indiatimes
       domain: indiatimes.com
     quality: 28
-  - title: "AI Startup Rewind Gets 170 Offers—and $350 Million Valuation in Unusual Fundraising"
-    excerpt: "Hungry venture capitalists inundated Rewind AI co-founder and CEO Dan Siroker the moment they caught wind of his artificial intelligence startup’s Series A plans, he wrote on Twitter last month. So he skipped the traditional fundraising process and tried something unorthodox."
-    publishedDateTime: 2023-05-11T19:37:00Z
-    webUrl: "https://www.theinformation.com/articles/ai-startup-rewind-gets-170-offers-and-350-million-valuation-in-unusual-fundraising"
-    type: article
-    provider:
-      name: The Information
-      domain: theinformation.com
-    quality: 11
 
 secured: "IiuK513CkqdmlRtlDA5uCBasZyH7mEtdG6ixqRm3ATikG3s8GoquAF7dUCGRUvtjH8mEA4PivqVqY0D82VOXAcNIDaAoshzvzg1Z9me6ZCG+g2ymZYMndhx1epsvAC5/2x3qUlWmXUn/VkrImYPCUJil8PlwHGRM9g5vu2J2o+cdPs+5CKxFMBxdxkuhiaufOMX/qit+mRra6bkeIPBSi5dDn4Dyid67SkeFpMRHNAWEnqD1Swv8sddf352oklheTsop2p4eUXv9qu4SsdcubPU8BZEeDtY5GUPD2sVSlt3eW/vWMyG7uB6odDOOwKxEbXfSQuxFZ8BiSS9wKe5viUHPBtJCAiptXv1NcPCJ3T27pk34m8RoiC7fNLcfPUDeWDSo0jf26NAnwebtiMHEvIeSnvjv4v33S7bS0Kf0VXA1WxQos/dIkF/uMDnGvxwLAYYE3Hz7/OkkOP5ovFmCas976NRv1+KvIDaKECo6j5sRpos4A+EA4V1UobaiIkkiomg1VC8MNxk77eJ+7QlLUg==;12PRfmpLA+XeF+DqFnFYEw=="
 ---

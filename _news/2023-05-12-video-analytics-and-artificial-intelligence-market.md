@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/video-analytics-and-arti
 webUrl: "https://www.marketwatch.com/press-release/video-analytics-and-artificial-intelligence-market-2023-05-12"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -28,6 +28,15 @@ images:
     isCached: true
 
 related:
+  - title: "HPE Ezmeral Software streamlines data, analytics and AI/ML initiatives"
+    excerpt: "Hewlett Packard Enterprise is overhauling its Ezmeral software portfolio and simplifying data organization, management and analytics for organizations advancing their artificial intelligence (AI) and machine learning (ML) workflows."
+    publishedDateTime: 2023-05-16T13:00:00Z
+    webUrl: "https://venturebeat.com/ai/hpe-ezmeral-software-streamlines-data-analytics-and-ai-ml-initiatives/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 64
   - title: "Forget Cambridge Analytica — Here’s how AI could threaten elections"
     excerpt: "AI could contribute to the spread of disinformation globally, and to mitigate it, governments, social media companies and education will each have a big role to play."
     publishedDateTime: 2023-05-12T12:00:00Z

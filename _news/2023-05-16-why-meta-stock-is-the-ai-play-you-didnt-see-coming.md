@@ -6,8 +6,8 @@ publishedDateTime: 2023-05-16T10:00:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/meta-stock-is-the-ai-play-you-didnt-see-coming-1032330569"
 webUrl: "https://markets.businessinsider.com/news/stocks/meta-stock-is-the-ai-play-you-didnt-see-coming-1032330569"
 type: article
-quality: 49
-heat: -1
+quality: 51
+heat: 61
 published: false
 
 provider:
@@ -21,12 +21,13 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Facebook AI
 
 related:
-  - title: "Investing in AI? Consider These 3 Semiconductor Stocks"
-    excerpt: "Stock Market News, Stock Advice & Trading Tips With Artificial Intelligence (AI) gaining prominence in our lives, it is hard"
-    publishedDateTime: 2023-05-11T20:13:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/investing-in-ai-consider-these-3-semiconductor-stocks-1032319612"
+  - title: "AI Stock Short Squeeze Coming? Why C3.ai Is a Buy Regardless"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Since the height of mania over artificial intelligence stocks during March,"
+    publishedDateTime: 2023-05-16T10:15:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ai-stock-short-squeeze-coming-why-c3-ai-is-a-buy-regardless-1032330592"
     type: article
     provider:
       name: Business Insider
