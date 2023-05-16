@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Learn Sign Language Using Machine Vision"
+    excerpt: "This project allows users to learn the ASL alphabet with the help of computer vision and some machine learning algorithms. The build uses a computer vision model in MobileNetV2 which is trained ..."
+    publishedDateTime: 2023-05-14T00:00:00Z
+    webUrl: "https://hackaday.com/2022/04/30/learn-sign-language-using-machine-vision/"
+    type: article
+    provider:
+      name: Hackaday
+      domain: hackaday.com
+    quality: 24
+    images:
+      - url: "https://hackaday.com/wp-content/uploads/2022/04/computer-vision-asl-main.png"
+        width: 1091
+        height: 800
+        isCached: true
   - title: "Era of conventional teaching is over, way forward is practical-based learning: PM Modi"
     excerpt: "Prime Minister Narendra Modi on Friday stated that the era of teaching is over, now the way forward in education is only through learning"
     publishedDateTime: 2023-05-12T10:55:00Z

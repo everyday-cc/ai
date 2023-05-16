@@ -25,15 +25,22 @@ images:
     isCached: true
 
 related:
-  - title: "AI Auto Blogs Launches Groundbreaking Content Creation Platform Powered by GPT-4"
-    excerpt: "Ljubljana, Slovenia - AI Auto Blogs, a cutting-edge content creation company, is excited to announce the launch"
-    publishedDateTime: 2023-05-11T17:34:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-auto-blogs-launches-groundbreaking-content-creation-platform-powered-by-gpt-4-2023-05-11"
+  - title: "Wurl Launches machine learning-powered advertising platform"
+    excerpt: "Looking to help streamers and content publishers attract, engage and retain viewers at massive scale, brings data-driven targeting and measurement to streaming advertising for the first time, Wurl has"
+    publishedDateTime: 2023-05-15T22:55:00Z
+    webUrl: "https://www.rapidtvnews.com/2023051563761/wurl-launches-machine-learning-powered-advertising-platform.html"
+    ampWebUrl: "https://www.rapidtvnews.com/2023051563761/wurl-launches-machine-learning-powered-advertising-platform.amp.html"
+    cdnAmpWebUrl: "https://www-rapidtvnews-com.cdn.ampproject.org/c/s/www.rapidtvnews.com/2023051563761/wurl-launches-machine-learning-powered-advertising-platform.amp.html"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 44
+      name: Rapid TV
+      domain: rapidtvnews.com
+    quality: 59
+    images:
+      - url: "https://www.rapidtvnews.com/images/2023/May_2023/wurl_16May2023.jpg"
+        width: 2167
+        height: 977
+        isCached: true
 
 secured: "u3Rb2KfWXhqiQt0YHHGAeG8lBEINTS+9SirAJvfHN+0xpEMc25zF4vahkz060aGOluxesi1cGrodBtoLusIg4JOyxvHS2VR3cl3bAbyJ6d67V5lX2l5fGzAm1dfM4o0kH5d1d6L7uztriBdA0HET4bgnptnJVgO/4UWhLMf3/VnuNeeV5Pjo3B1e5YmOJpFkz0T7jjXHDxuqShonlRn9RYmcCvX1ZpP4ZqgsSBEQr4jgH5kNPfoc2abNgter/AYt9GOMZJragq9FHvQs1MnNFGJUqzuW2oJwvCithP/g6VmzP62NEHRMMfAhy2DBFiGAfaQDdthSXmU71cEjcdAxS3my3Fn0Cslh/F+p2zEDTwk=;e80HbDtcCc6UPZ8iuRlpPQ=="
 ---

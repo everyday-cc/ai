@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "This AI Chatbot Has Learned the Difference Between Good and Evil"
+    excerpt: "Anthropic’s Claude AI has developed a set of ethical principles through a “constitution”—and can handle prompts the size of a book."
+    publishedDateTime: 2023-05-15T21:22:00Z
+    webUrl: "https://decrypt.co/140202/ai-chatbot-anthropic-claude-good-evil"
+    type: article
+    provider:
+      name: decrypt
+      domain: decrypt.co
+    quality: 39
+    images:
+      - url: "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/05/Leonardo_Diffusion_an_AI_robot_philosphy_reflecting_on_good_vs_0-1-gID_7.jpg@png"
+        width: 1024
+        height: 512
+        isCached: true
   - title: "Google-backed AI startup's chatbot can read novels in seconds"
     excerpt: "In an announcement about the increased capability of Claude, Anthropic claimed that they have raised the context window from 9K to 100K tokens, which corresponds to around 75,000 words. Tokens are the basic units of text or code that a large language model (LLM) AI uses to process and generate language."
     publishedDateTime: 2023-05-12T13:03:00Z

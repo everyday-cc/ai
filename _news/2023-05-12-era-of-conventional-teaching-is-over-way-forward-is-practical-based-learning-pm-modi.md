@@ -35,6 +35,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Learn Sign Language Using Machine Vision"
+    excerpt: "This project allows users to learn the ASL alphabet with the help of computer vision and some machine learning algorithms. The build uses a computer vision model in MobileNetV2 which is trained ..."
+    publishedDateTime: 2023-05-14T00:00:00Z
+    webUrl: "https://hackaday.com/2022/04/30/learn-sign-language-using-machine-vision/"
+    type: article
+    provider:
+      name: Hackaday
+      domain: hackaday.com
+    quality: 24
+    images:
+      - url: "https://hackaday.com/wp-content/uploads/2022/04/computer-vision-asl-main.png"
+        width: 1091
+        height: 800
+        isCached: true
 
 secured: "7/UuxuLuaRbqSPs0wYqrcc6PPtCTNjZ6zKquCnFiBEJZjsAiS3REwFIHRGQtOL6QHUzpSmKN6wfh4Ukeh8yglL3MwTitST4QyAC/cWpwyCAc0MpvsEHC/rcu4+ZVGbtSOfd4v3Cs17/+vFXHJrvzRkspHFlBJmID768B9W2BH1G9roxksMhDqXyWYQ69J4BlnivH/OhlGdR+MsU3vkWg2fY+G4uJ6TS57SVw6Cl1jeQuJ27nW1vg8P6EhFqhZdEcsadrAvR3K2XhYnzXS+RvPQtv92FvId/fX1SGn3uCjYeeVbP42vqezlvyjRaK3ZWXLHUgrXLqVVUDhbDfL4MPQbXPJwD9Uinc86Xz7iOBvuxAIiUWObufTFLOELfThqCTcFRt0sigsAuRYNAU7U6Bj2M26k68m+aAlBuRlyKGBnD7XhRsIS6D9LVRrH+3jYhgkVHeD6oMKxE2mVp65vPqiPkXIW5DwHZ/Z+z2q65QETsJh0WKCwELjLwGRJCLSTqx+lT7nf/rM6ufp4RltJlm7g==;EsrGHg8Hb9oFSo1YTo4sgg=="
 ---

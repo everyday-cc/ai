@@ -1,0 +1,74 @@
+---
+category: news
+title: "AI Breakthrough Detects Alzheimer’s Early With Smartphones"
+excerpt: "This model, potentially accessible via smartphones, can distinguish between Alzheimer's patients and healthy individuals with 70-75% accuracy."
+publishedDateTime: 2023-05-15T22:51:00Z
+originalUrl: "https://neurosciencenews.com/ai-smartphone-alzheimers-23251/"
+webUrl: "https://neurosciencenews.com/ai-smartphone-alzheimers-23251/"
+type: article
+quality: 39
+heat: -1
+published: false
+
+provider:
+  name: Neuroscience News
+  domain: neurosciencenews.com
+
+topics:
+  - Natural Language Processing
+  - AI
+
+images:
+  - url: "https://neurosciencenews.com/files/2023/05/ai-smartphone-alzheimers-voice-neurosciences.jpg"
+    width: 1200
+    height: 800
+    isCached: true
+
+related:
+  - title: "A self-administered mobile app to detect Alzheimer's disease using speech data"
+    excerpt: "Alzheimer's disease (AD) is the most common form of dementia. It is important to start intervention from an early stage, e.g., the mild cognitive impairment (MCI) stage, to prevent or delay the progression of AD."
+    publishedDateTime: 2023-05-11T16:51:00Z
+    webUrl: "https://medicalxpress.com/news/2023-05-self-administered-mobile-app-alzheimer-disease.html"
+    ampWebUrl: "https://medicalxpress.com/news/2023-05-self-administered-mobile-app-alzheimer-disease.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-05-self-administered-mobile-app-alzheimer-disease.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 40
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2023/self-administered-mobi.jpg"
+        width: 1076
+        height: 674
+        isCached: true
+  - title: "AI-powered tech to aid Cooper team in Alzheimer’s detection"
+    excerpt: "Early detection is a key step in timely and accurate diagnosis so that patients can get emerging treatments and early-stage interventions,” said DigiCARE Realized CEO Brittany Cassin."
+    publishedDateTime: 2023-05-15T16:43:00Z
+    webUrl: "https://njbiz.com/ai-powered-tech-to-aid-cooper-team-in-alzheimers-detection/"
+    type: article
+    provider:
+      name: NJBIZ
+      domain: njbiz.com
+    quality: 17
+  - title: "Machine learning model able to detect signs of Alzheimer's across languages"
+    excerpt: "Researchers are striving to make earlier diagnosis of Alzheimer's dementia possible with a machine learning (ML) model that could one day be turned into a simple screening tool anyone with a smartphone could use."
+    publishedDateTime: 2023-05-15T18:03:00Z
+    webUrl: "https://medicalxpress.com/news/2023-05-machine-alzheimer-languages.html"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 17
+  - title: "Fighting Alzheimer’s with AI: Raleigh company working with global giant to develop treatment plans"
+    excerpt: "Alzheimer's Disease and dementia have long been feared by many, especially those with first-hand experience. Raleigh-based uMETHOD is working with global giant Quest Diagnostics to help address those fears driven in part by the experiences of its company founder who says the issues are \"personal to me."
+    publishedDateTime: 2023-05-15T11:53:00Z
+    webUrl: "https://wraltechwire.com/2023/05/15/fighting-alzheimers-with-ai-raleigh-company-working-with-global-giant-to-develop-treatment-plans/"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 3
+
+secured: "uuCqoUrFkd8LZjYpLndt0404B2+LtV7cV93KazbUGfNodPSlvEZaZs0A3PD4v80yMHL5Mok+S16BBW09EHnqyfUsHMs4yEAIfAomsOX6fmohkk66Kv6+aHV/Ll+8sZcuLiCTEvHF6TBeXsClRjbw+FUrSQk8ZuqRycRkdMgWBM7pX9rhZ4UMj+lQI972UDp+eYeVWJ7yAt76mHBz4Re9vOdya0Bhpcy1K8PPFyKKC+ARQQG6tMzKSNXeArErGBc2awTLLuqc9lL/xKp3mknUBHV6N4oxEYQEkTi1o72EWbBpl6C4i3VdbJ5yUDj87Ynw5j7M1sxWWyMxOpGE22WqSJ2txOUwhZBmeixKKCtgG5E=;tudfx1cmQEXcu261Wr88Hg=="
+---
+

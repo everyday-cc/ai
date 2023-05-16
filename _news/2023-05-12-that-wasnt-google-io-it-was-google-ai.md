@@ -9,8 +9,8 @@ ampWebUrl: "https://www.technologyreview.com/2023/05/11/1072885/google-io-google
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/05/11/1072885/google-io-google-ai/amp/"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: MIT Technology Review
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google shows off AI advances, new Pixel devices at I/O developers conference"
-    excerpt: "Google introduced its latest advances in artificial intelligence, and unveiled new Pixel devices, during its I/O developers conference on Wednesday."
-    publishedDateTime: 2023-05-11T05:44:00Z
-    webUrl: "https://www.upi.com/Top_News/US/2023/05/11/Google-AI-I-O-developers-conference/5801683738669/"
-    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2023/05/10/Google-AI-I-O-developers-conference/5801683738669/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2023/05/10/Google-AI-I-O-developers-conference/5801683738669/"
-    type: article
-    provider:
-      name: UPI
-      domain: upi.com
-    quality: 54
-    images:
-      - url: "https://cdnph.upi.com/sv/ph/og/i/5801683738669/2023/1/16837809808912/v1.5/Google-shows-off-AI-advances-new-Pixel-devices-at-IO-developers-conference.jpg"
-        width: 640
-        height: 427
-        isCached: true
   - title: "Google Gets Its Mojo Back With AI and New Gadgets at Google I/O"
     excerpt: "The company that pioneered a lot of today's AI technology is bringing it out of its labs and into its top products. The Pixel phones look good, too."
     publishedDateTime: 2023-05-13T12:00:00Z

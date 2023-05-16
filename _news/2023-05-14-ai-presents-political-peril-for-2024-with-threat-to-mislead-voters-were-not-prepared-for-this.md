@@ -38,21 +38,26 @@ related:
         isCached: true
   - title: "AI presents political peril for 2024 with threat to mislead voters"
     excerpt: "Computer engineers and tech-inclined political scientists have warned for years that cheap, powerful artificial intelligence tools would soon allow anyone to create fake images, video and audio that was realistic enough to fool voters and perhaps sway an election."
+    publishedDateTime: 2023-05-15T22:10:00Z
+    webUrl: "https://www.aol.com/news/ai-presents-political-peril-2024-114347345.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 37
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/CELCE5emnPdpQch9P5caVA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_associated_press_484/8de5374f81544bd1492a888c329380a5"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "AI presents political peril for 2024 with threat to mislead voters"
+    excerpt: "Computer engineers and tech-inclined political scientists have warned for years that cheap, powerful artificial intelligence tools would soon allow anyone to create fake images, video and audio that was realistic enough to fool voters and perhaps sway an election."
     publishedDateTime: 2023-05-15T13:54:00Z
     webUrl: "https://www.mauinews.com/wire/?category=5186&ID=291062"
     type: article
     provider:
       name: The Maui News
       domain: mauinews.com
-    quality: 17
-  - title: "AI presents political peril for 2024 with threat to mislead voters"
-    excerpt: "Thanks to recent advances in artificial intelligence, tools that can create lifelike photos, video and audio are now cheap and readily available."
-    publishedDateTime: 2023-05-15T18:56:00Z
-    webUrl: "https://www.ksl.com/article/50644551/ai-presents-political-peril-for-2024-with-threat-to-mislead-voters"
-    type: article
-    provider:
-      name: KSL
-      domain: ksl.com
     quality: 17
   - title: "AI tools present political peril in 2024 with threat to mislead voters: 'Not prepared for this'"
     excerpt: "When combined with the powerful algorithms of social media, experts say political misinformation generated using AI has the potential to spread farther and faster than ever before."

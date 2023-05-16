@@ -9,7 +9,7 @@ ampWebUrl: "https://kdvr.com/news/technology/how-europe-is-building-artificial-i
 cdnAmpWebUrl: "https://kdvr-com.cdn.ampproject.org/c/s/kdvr.com/news/technology/how-europe-is-building-artificial-intelligence-guardrails/amp/"
 type: article
 quality: 69
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -58,17 +58,6 @@ related:
         width: 834
         height: 308
         isCached: true
-  - title: "How Europe is building artificial intelligence guardrails"
-    excerpt: "Authorities around the world are racing to draw up rules for artificial intelligence, including in the European Union, where draft legislation faces a pivotal moment."
-    publishedDateTime: 2023-05-11T06:38:00Z
-    webUrl: "https://www.seattletimes.com/business/how-europe-is-building-artificial-intelligence-guardrails/"
-    ampWebUrl: "https://www.seattletimes.com/business/how-europe-is-building-artificial-intelligence-guardrails/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/how-europe-is-building-artificial-intelligence-guardrails/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 52
   - title: "Europe acts against the threat of a social credit system with new AI rulebook"
     excerpt: "The European Parliament has voted in favour of document that it describes as the world’s first ever rules for artificial intelligence."
     publishedDateTime: 2023-05-12T11:18:00Z

@@ -38,22 +38,6 @@ related:
         width: 3000
         height: 1688
         isCached: true
-  - title: "Google shows off AI advances, new Pixel devices at I/O developers conference"
-    excerpt: "Google introduced its latest advances in artificial intelligence, and unveiled new Pixel devices, during its I/O developers conference on Wednesday."
-    publishedDateTime: 2023-05-11T05:44:00Z
-    webUrl: "https://www.upi.com/Top_News/US/2023/05/11/Google-AI-I-O-developers-conference/5801683738669/"
-    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2023/05/10/Google-AI-I-O-developers-conference/5801683738669/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2023/05/10/Google-AI-I-O-developers-conference/5801683738669/"
-    type: article
-    provider:
-      name: UPI
-      domain: upi.com
-    quality: 54
-    images:
-      - url: "https://cdnph.upi.com/sv/ph/og/i/5801683738669/2023/1/16837809808912/v1.5/Google-shows-off-AI-advances-new-Pixel-devices-at-IO-developers-conference.jpg"
-        width: 640
-        height: 427
-        isCached: true
 
 secured: "zvFOJ1rmE4LZ5BCI2qI+KxMw6eH1y3O4bT7R5D//YbQQFVPkpvF4GzVN90aaOWnY50IZSaMa8RlsZrRCPP06LrW/S8Zmas0pp+judf/eXtrjj0hFd3L9BIEJiBom7rdyjt1rx66NaK5glaU60qN6Hr+MzU7z28zdA/5UtIcrJdaPkE+reypxrh9rrl2m65cLRF6TwgmzSleCLuHAW0ciM2Hlmq8eBFW3XDhHUug60h8PowdO4ex84JQJk154OTeJizd3AhP3ThbcxFwU+B+VIe2+FNjl1R98x59WRO39XeP1xst5guEenXQ44pNJU3OSYy7dOGYC2DIMWkVA77Zj2Z1fc38A6P731r7996wX4ywdys3WJ/d3v3S4b1NtEwb6boL9rR/PB6anQjtjQXZNKdZSGoTkkF9LIbYrtm5XQ/uNiJ53ocrafn7pzKCf9z0j+rQTR+YGncqlMT2pZ73qalHCdDP4uE8cdVw96cgEmKZC0l2tDDYTfXHc5EpN2b2mxeMMpIIVBrSGcXihAKsHgg==;j9qGt8C9oultiDtwet4hJA=="
 ---

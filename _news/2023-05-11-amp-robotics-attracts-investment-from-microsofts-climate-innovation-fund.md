@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/05/11/amp-robotics-attracts-investment-f
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/11/amp-robotics-attracts-investment-from-microsofts-climate-innovation-fund/amp/"
 type: article
 quality: 120
-heat: 280
+heat: 270
 published: true
 
 provider:
@@ -107,22 +107,6 @@ related:
       - url: "https://assets.entrepreneur.com/content/3x2/2000/1683789345-Untitleddesign-2023-05-11T123845263.jpg"
         width: 2000
         height: 1333
-        isCached: true
-  - title: "Microsoft invests in Builder.ai for scaling up AI efforts"
-    excerpt: "Microsoft has funded an undisclosed sum in Builder.ai, marking the company’s scaling up its efforts in Artificial Intelligence and competing with Google. Emphasising how Microsoft was committed to helping startups,"
-    publishedDateTime: 2023-05-11T05:35:00Z
-    webUrl: "https://www.exchange4media.com/digital-news/microsoft-invests-in-builderai-for-scaling-up-ai-efforts-127271.html"
-    ampWebUrl: "https://www.exchange4media.com/amp/digital-news/microsoft-invests-in-builderai-for-scaling-up-ai-efforts-127271.html"
-    cdnAmpWebUrl: "https://www-exchange4media-com.cdn.ampproject.org/c/s/www.exchange4media.com/amp/digital-news/microsoft-invests-in-builderai-for-scaling-up-ai-efforts-127271.html"
-    type: article
-    provider:
-      name: Exchange 4 Media
-      domain: exchange4media.com
-    quality: 74
-    images:
-      - url: "https://www.exchange4media.com/news-photo/127271-builderma.jpg"
-        width: 730
-        height: 395
         isCached: true
   - title: "SymphonyAI announces generative AI collaboration with Microsoft Azure AI"
     excerpt: "SymphonyAI announced today its first generative AI software application that integrates Microsoft Azure OpenAI Service. Sensa Copilot provides sophisticated AI assistance to financial crime investigators by automatically collecting,"

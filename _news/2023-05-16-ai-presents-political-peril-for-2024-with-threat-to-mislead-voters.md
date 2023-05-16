@@ -1,21 +1,27 @@
 ---
 category: news
 title: "AI presents political peril for 2024 with threat to mislead voters"
-excerpt: "Thanks to recent advances in artificial intelligence, tools that can create lifelike photos, video and audio are now cheap and readily available."
-publishedDateTime: 2023-05-15T18:56:00Z
-originalUrl: "https://www.ksl.com/article/50644551/ai-presents-political-peril-for-2024-with-threat-to-mislead-voters"
-webUrl: "https://www.ksl.com/article/50644551/ai-presents-political-peril-for-2024-with-threat-to-mislead-voters"
+excerpt: "Computer engineers and tech-inclined political scientists have warned for years that cheap, powerful artificial intelligence tools would soon allow anyone to create fake images, video and audio that was realistic enough to fool voters and perhaps sway an election."
+publishedDateTime: 2023-05-15T22:10:00Z
+originalUrl: "https://www.aol.com/news/ai-presents-political-peril-2024-114347345.html"
+webUrl: "https://www.aol.com/news/ai-presents-political-peril-2024-114347345.html"
 type: article
-quality: 17
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: KSL
-  domain: ksl.com
+  name: AOL
+  domain: aol.com
 
 topics:
   - AI
+
+images:
+  - url: "https://s.yimg.com/ny/api/res/1.2/CELCE5emnPdpQch9P5caVA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_associated_press_484/8de5374f81544bd1492a888c329380a5"
+    width: 1200
+    height: 800
+    isCached: true
 
 related:
   - title: "AI presents political peril for 2024 with threat to mislead voters"
@@ -64,6 +70,6 @@ related:
       domain: fox5dc.com
     quality: 5
 
-secured: "LB4EmyN3pco4Z+M618lxqTFiNBart7ipKcHb0Gms2Lm+lxGG7u6Ub4CQ80QRhoC6F6YPE/5/yrf7YJqVS8PDvHnegoiX0VvbTkVcNx+9mGl5Z0wU0FBX/8jkTClliW5+uPTyRT5zv0sSjc+MszbxEWQadCWFERd3GyqFkVNLlZ+aBd7T8ovL/kK+jC9s3hGeFl7Sdsy6/5npiCM/KpUbU4U5+g/i6zQpxPkIEKU3aRqc3OUlINnB2tXrkbF/ScTeVWsuz2alDaa9UqfI4VOI9XCOy8pJd1t9JQXk+DuVI0wAHRGmRBdYHahk6XlW9HbBIdh93OOhpo6Uwk4eO4GTCDyI1Iq6DccugDGQ+MvcI5qonfth57Y+OwanoTb+mPt1R/HErHA/EaIkO++yEBo5mwazlrHVmpZYjR7sXfw5snp9w2XL60uHKWX8poTNKKa2l248B/6TFpxz9HKg1QtM/AzhpYEGKzlu6yUEmsFqLeDWbuXPsNXW8ZsrO8+5Q/unrwl0EpgFzzlkUpNH8VKRzQ==;ect8o/3C58dKkc2HTt9HcQ=="
+secured: "dCqoJjasVxA7FwbwBv+5eBrxttlM9pK5k6TvyQPcheMg3uxW6eZ+yYpwAfc+PgcC58ukMvVM4a+9Ofk5Ibl7YKbv4jE6rH435coPBWXccnE2XeugGIkskg+vKa7Y2FH+a0cKEhH5gcP+1+95kAAZvLAjQJMLpz7oUU8ffi7h2qrrNRU9fV/VSmSJJgEyCT/Bn43/uUZWGS76DMdpO8oK7ksaRp5RZhw15BLZaR3XPeGMYZifsHwBgq5MirVb9cnw6AiEoSyr0LwJ9bei6iOMSxhfYGELehd1Liw+9TpOFLKNtXT4DMAdvIhsHBkzxQtoGycOsEKRksxGYYXgiVHsOx+9Q2ldjyI/2geeNnTAMjs=;e2TxpQPBoFvPFZ5xS/x9Fw=="
 ---
 

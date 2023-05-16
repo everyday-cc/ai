@@ -22,22 +22,6 @@ topics:
   - Natural Language Processing
   - AI
 
-related:
-  - title: "Healthcare advertising company launches GPT-powered tool"
-    excerpt: "Healthcare advertising company Talking Medicines is launching Drug-GPT, an artificial intelligence-powered tool that analyzes social data for healthcare marketing companies. The tool is now available on the company's PatientMetRx platform."
-    publishedDateTime: 2023-05-11T19:58:00Z
-    webUrl: "https://www.beckershospitalreview.com/digital-marketing/healthcare-advertising-company-launches-gpt-powered-tool.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 39
-    images:
-      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
-        width: 800
-        height: 600
-        isCached: true
-
 secured: "CJQS9XXneUP9enlrTT7pulyOB7QSvWRU9gdYHrf3MV8nH+DhpLKZG42FxIj/WdeU36L7HogLV1urZF5O+/vfaYYUygaEWvvuSJAMXQ2vzIh0DD2szQi9EMlt/k1YJ2hKkNsRTAiZczNoxORV5JCNgJa9Z+GoyDNsn/LYCDW7FptGbfXaaUSRax9uO+ygkTGu1LS8RK11xpsur9+k2YsrMrauVGEkdTcRLd0jetiJ95goSFU5rM1dfDsNwaP4i6CT8qEAJDIRNIwBnprZCcVeDy8d49JK78W12zuj6lnhn8/OKRKcRIhNpgsBFAJuSIDLT0moxid1LDLErVMbU88gYKBySOXlgXu3Ivue0V3gCgE=;S1BVqAbIj8iD+X/Bk26nrg=="
 ---
 

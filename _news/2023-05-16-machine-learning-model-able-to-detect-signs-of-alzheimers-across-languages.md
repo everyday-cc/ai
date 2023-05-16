@@ -35,6 +35,20 @@ related:
         width: 1076
         height: 674
         isCached: true
+  - title: "AI Breakthrough Detects Alzheimer’s Early With Smartphones"
+    excerpt: "This model, potentially accessible via smartphones, can distinguish between Alzheimer's patients and healthy individuals with 70-75% accuracy."
+    publishedDateTime: 2023-05-15T22:51:00Z
+    webUrl: "https://neurosciencenews.com/ai-smartphone-alzheimers-23251/"
+    type: article
+    provider:
+      name: Neuroscience News
+      domain: neurosciencenews.com
+    quality: 39
+    images:
+      - url: "https://neurosciencenews.com/files/2023/05/ai-smartphone-alzheimers-voice-neurosciences.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "AI-powered tech to aid Cooper team in Alzheimer’s detection"
     excerpt: "Early detection is a key step in timely and accurate diagnosis so that patients can get emerging treatments and early-stage interventions,” said DigiCARE Realized CEO Brittany Cassin."
     publishedDateTime: 2023-05-15T16:43:00Z

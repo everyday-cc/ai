@@ -34,6 +34,20 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "AI presents political peril for 2024 with threat to mislead voters"
+    excerpt: "Computer engineers and tech-inclined political scientists have warned for years that cheap, powerful artificial intelligence tools would soon allow anyone to create fake images, video and audio that was realistic enough to fool voters and perhaps sway an election."
+    publishedDateTime: 2023-05-15T22:10:00Z
+    webUrl: "https://www.aol.com/news/ai-presents-political-peril-2024-114347345.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 37
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/CELCE5emnPdpQch9P5caVA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_associated_press_484/8de5374f81544bd1492a888c329380a5"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "AI presents political peril for 2024 with threat to mislead voters: ‘We’re not prepared for this’"
     excerpt: "Thanks to recent advances in artificial intelligence, tools that can create lifelike photos, video and audio are now cheap and readily available."
     publishedDateTime: 2023-05-14T11:45:00Z
@@ -53,15 +67,6 @@ related:
     provider:
       name: The Maui News
       domain: mauinews.com
-    quality: 17
-  - title: "AI presents political peril for 2024 with threat to mislead voters"
-    excerpt: "Thanks to recent advances in artificial intelligence, tools that can create lifelike photos, video and audio are now cheap and readily available."
-    publishedDateTime: 2023-05-15T18:56:00Z
-    webUrl: "https://www.ksl.com/article/50644551/ai-presents-political-peril-for-2024-with-threat-to-mislead-voters"
-    type: article
-    provider:
-      name: KSL
-      domain: ksl.com
     quality: 17
 
 secured: "HApcFyf/bcZjLm/CKNIsx+edQpVf/Uga8se6Rg1Fn7OiPmnNNZ/GlHQUdMK7K6DLyEjH9DhOZaCDGlglcoBuk0/NZkekNyMmtEJLBX0zN5nsj3CWWxfQDLl/KSUSJp3Qi+K9DQR9l6Gn9h2lSlhp/aWlbZJiVzOdtCvwDxtup1R47e27XsVQMKkvIyGhMd1EywwkL6VEWcGcynQTYsycHmw15CMQ522bTVSInfGo/x+RUaGp+q8NaJl0HWxYj/syt7BN5QmC+udWLlQeQ4Hue+kgpTLDtTZBTzCiY2Ca3aRclUPlG5fLgjA6pD7l+nfuZyLXBuYnq488pnax+nwAc76NwWedeZ61D42/egHQRCYiU7kxQmHF/LFqM8klDlJL7JZIJDwVqMJB4W9HwKGncqCB93fhQss9/Um9l1SXeLfuKzYJSDWaImtZTBbHJFm/wb1feeHz5SrLgp3iIh8DDfYvtAO1TLVKugo09Ngt3sdotcdecG4g2usHLQ3M2D41mu9VltA1RvyOnR0ukKI+vQ==;4JsR0u+u0jvaH0Zxlabupw=="

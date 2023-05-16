@@ -20,6 +20,22 @@ topics:
   - AI in Security
 
 related:
+  - title: "TSA is testing facial recognition at U.S. airports. Here's what that means for you"
+    excerpt: "The TSA hopes new technology can reduce wait times at U.S. airports while keeping passengers safe. Meanwhile, lawmakers worry about privacy."
+    publishedDateTime: 2023-05-15T22:08:00Z
+    webUrl: "https://www.zdnet.com/article/tsa-is-testing-facial-recognition-at-u-s-airports-heres-what-that-means-for-you/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/tsa-is-testing-facial-recognition-at-u-s-airports-heres-what-that-means-for-you/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/tsa-is-testing-facial-recognition-at-u-s-airports-heres-what-that-means-for-you/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 98
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/837b0af64e0550442a464f17155d73195b7adc7e/2023/05/15/8c20a0c0-55f8-429b-b325-50833ef08105/gettyimages-1252211190.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "TSA Tests Facial Recognition Technology at Airports to Boost Security"
     excerpt: "It's all part of a pilot project by the Transportation Security Administration to assess the use of facial recognition technology at a number of airports across the country. “What we are trying to do with this is aid the officers to actually determine that you are who you say who you are,"
     publishedDateTime: 2023-05-15T16:39:00Z
@@ -77,6 +93,38 @@ related:
         width: 2560
         height: 1708
         isCached: true
+  - title: "Smile! Reid airport is testing ground for facial recognition project"
+    excerpt: "The TSA says the pilot program is voluntary and accurate, but critics have raised concerns about questions of bias in facial recognition technology."
+    publishedDateTime: 2023-05-15T23:24:00Z
+    webUrl: "https://www.reviewjournal.com/business/smile-reid-airport-is-testing-ground-for-facial-recognition-project-2777726/"
+    ampWebUrl: "https://www.reviewjournal.com/business/smile-reid-airport-is-testing-ground-for-facial-recognition-project-2777726/amp/"
+    cdnAmpWebUrl: "https://www-reviewjournal-com.cdn.ampproject.org/c/s/www.reviewjournal.com/business/smile-reid-airport-is-testing-ground-for-facial-recognition-project-2777726/amp/"
+    type: article
+    provider:
+      name: Las Vegas Review-Journal
+      domain: reviewjournal.com
+    quality: 74
+    images:
+      - url: "https://www.reviewjournal.com/wp-content/uploads/2023/05/17778613_web1_AP23116691165190.jpg?w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "TSA is testing facial recognition at more airports, raising privacy concerns"
+    excerpt: "The agency tasked with securing America’s airports is testing the use of facial recognition technology at a number of airports across the country. The Transportation Safety Administration"
+    publishedDateTime: 2023-05-15T19:31:00Z
+    webUrl: "https://www.denverpost.com/2023/05/15/tsa-is-testing-facial-recognition-at-more-airports-raising-privacy-concerns/"
+    ampWebUrl: "https://www.denverpost.com/2023/05/15/tsa-is-testing-facial-recognition-at-more-airports-raising-privacy-concerns/amp/"
+    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2023/05/15/tsa-is-testing-facial-recognition-at-more-airports-raising-privacy-concerns/amp/"
+    type: article
+    provider:
+      name: The Denver Post
+      domain: denverpost.com
+    quality: 71
+    images:
+      - url: "https://www.denverpost.com/wp-content/uploads/2023/05/Facial_Recognition_Airports_95530.jpg?w=1024&h=682"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "TSA is testing facial recognition technology at more airports, raising privacy concerns"
     excerpt: "The Transportation Safety Administration says the technology is an effort to more accurately identify the millions of passengers traveling through its airports every day and that passengers can opt out."
     publishedDateTime: 2023-05-15T20:23:00Z
@@ -111,15 +159,15 @@ related:
         isCached: true
   - title: "TSA testing facial recognition at more airports, raising privacy concerns"
     excerpt: "Advocates are concerned about how the data is collected, who has access to it and what happens if it gets hacked."
-    publishedDateTime: 2023-05-15T21:22:00Z
-    webUrl: "https://www.sunjournal.com/2023/05/15/tsa-testing-facial-recognition-at-more-airports-raising-privacy-concerns/"
+    publishedDateTime: 2023-05-15T20:34:00Z
+    webUrl: "https://www.pressherald.com/2023/05/15/tsa-testing-facial-recognition-at-more-airports-raising-privacy-concerns/"
     type: article
     provider:
-      name: Sun Journal
-      domain: sunjournal.com
+      name: Portland Press Herald
+      domain: pressherald.com
     quality: 53
     images:
-      - url: "https://multifiles.pressherald.com/uploads/sites/11/2023/05/Facial_Recognition_Airports_95530-1-1684185733.jpg"
+      - url: "https://multifiles.pressherald.com/uploads/sites/4/2023/05/Facial_Recognition_Airports_95530-1-1684182783.jpg"
         width: 1000
         height: 667
         isCached: true
@@ -132,20 +180,6 @@ related:
       name: WGHP
       domain: myfox8.com
     quality: 51
-  - title: "TSA is testing facial recognition at more airports, raising privacy concerns"
-    excerpt: "It’s currently at 16 airports. Critics have raised concerns about questions of bias in facial recognition technology and possible repercussions for passengers who want to opt out."
-    publishedDateTime: 2023-05-15T19:31:00Z
-    webUrl: "https://www.sun-sentinel.com/2023/05/15/tsa-is-testing-facial-recognition-at-more-airports-raising-privacy-concerns/"
-    type: article
-    provider:
-      name: Sun Sentinel
-      domain: sun-sentinel.com
-    quality: 51
-    images:
-      - url: "https://www.sun-sentinel.com/wp-content/uploads/2023/05/Facial_Recognition_Airports_95530.jpg?w=1024&#038;h=682"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "TSA tests facial recognition technology to boost airport security"
     excerpt: "BALTIMORE (AP) — A passenger walks up to an airport security checkpoint, slips an ID card into a slot and looks into a camera atop a small screen. The screen flashes “Photo Complete” and the person walks through — all without having to hand over their identification to the TSA officer sitting behind the screen."
     publishedDateTime: 2023-05-15T18:44:00Z
@@ -155,20 +189,6 @@ related:
       name: Hawaii News Now
       domain: hawaiinewsnow.com
     quality: 51
-  - title: "Facial Recognition Takes Flight: Is San Jose Airport Ready for the Privacy Debate?"
-    excerpt: "As facial recognition technology continues to be implemented in airports across the country, including San Jose's, debate over the technology's implications for privacy, data collection, and bias issues grows."
-    publishedDateTime: 2023-05-15T20:51:00Z
-    webUrl: "https://hoodline.com/2023/05/facial-recognition-technology-to-be-implemented-at-san-jose-international-airport/"
-    type: article
-    provider:
-      name: Hoodline
-      domain: hoodline.com
-    quality: 48
-    images:
-      - url: "https://img.hoodline.com/2023/5/marco-lopez-qK6HAkB91Yc-unsplash-1.webp"
-        width: 5412
-        height: 3608
-        isCached: true
   - title: "Are you who you say you are? TSA tests facial recognition technology to boost airport security"
     excerpt: "The agency tasked with securing America's airports is testing the use of facial recognition technology at a number of airports across the country"
     publishedDateTime: 2023-05-15T08:19:00Z
@@ -178,20 +198,6 @@ related:
       name: ABC
       domain: abcnews.go.com
     quality: 39
-  - title: "Facial recognition technology coming to West Virginia schools"
-    excerpt: "Four West Virginia county school districts have installed or are in the process of installing new facial recognition technology. Jonah Adkins. Jonah Adkins,"
-    publishedDateTime: 2023-05-15T17:24:00Z
-    webUrl: "https://wvmetronews.com/2023/05/15/facial-recognition-technology-coming-to-west-virginia-schools/"
-    type: article
-    provider:
-      name: West Virginia MetroNews
-      domain: wvmetronews.com
-    quality: 39
-    images:
-      - url: "https://wvmetronews.com/wp-content/uploads/2022/10/classroom-2093743_640-490x350-1.jpg"
-        width: 490
-        height: 350
-        isCached: true
   - title: "Are you are who you say you are? TSA test facial recognition technology to boost airport security"
     excerpt: "A passenger walks up to an airport security checkpoint, slips an ID card into a slot and looks into a camera atop a small screen. The screen flashes “Photo Complete” and the person walks through — all without having to hand over their identification to the TSA officer sitting behind the screen."
     publishedDateTime: 2023-05-15T12:25:00Z
@@ -242,29 +248,6 @@ related:
       name: The Daily Record (Maryland)
       domain: thedailyrecord.com
     quality: 28
-  - title: "Facial Recognition Technology Could Improve Livestock Health"
-    excerpt: "Facial recognition technology isn’t limited to humans. Livestock are now getting their mugs snapped in order to help farmers monitor animal health, increase efficiency and improve traceability.  Researchers from the US to Australia are using drones to handle health assessments of cattle from the air,"
-    publishedDateTime: 2023-05-11T12:00:00Z
-    webUrl: "https://modernfarmer.com/2023/05/facial-recognition/"
-    type: article
-    provider:
-      name: Modern Farmer
-      domain: modernfarmer.com
-    quality: 19
-  - title: "Writing Faculty United Requests Recognition of Unionization in Petition to Administration"
-    excerpt: "The letter calls for improved job security, pay, and benefits, as well as transparency, recognition, and a voice in how writing instruction is conceived and executed. “When it comes to the aims of the union, I tend to think of it as having two key ..."
-    publishedDateTime: 2023-05-15T01:07:00Z
-    webUrl: "https://chicagomaroon.com/39180/news/writing-faculty-united-requests-recognition-of-unionization-in-petition-to-administration/"
-    type: article
-    provider:
-      name: The Chicago Maroon
-      domain: chicagomaroon.com
-    quality: 15
-    images:
-      - url: "https://chicagomaroon.com/wp-content/uploads/2021/12/Harper_Library_South_Stock-900x753.jpeg"
-        width: 900
-        height: 753
-        isCached: true
 
 secured: "j0prmoYmkuJgPe67vhz8XbVmh0+jS8fuTtzU8Pm5KWYjqZz9bj9vr2Vm+0+1gCRGmhqfCE0v64ZjGXMZX5kDXrsz8KRT3zF60fCRM13ircHy4rMWe+mL9ETBXUjqch1XjM22JnAn1IL+MLPFYwgGeZO8LwPiWPebIzqwerTpqKpY6ULE2F1S8TSH5+rsiJRxHpOZ7PJ44wZY7j3QcKEVMZTm1MIaEXVmViMjEdviwFGM32xLZQnToYH8i+zu1pdepEMpSOnlXBT5xy5kE+nOA6pW3mXEUcHcsgygdUunCEOBXuDV4UXHd7bjY+Pe8uH/lX7vImXy2tqDe5+SdI1W12UcLU3YZQUX9ee/4CqP49T0Mg/qlW7yObatFl6P0D5TZcqemEC2njMPaThlMr05qdLtkUvglFn4+Qmnax9YqI1SyaQPmE9P1QCrMDyF6sjNyC5Jgs9KUoMbqnJshOQEnT9GXjbvyaQK48BBnpiAvIK+VKlC5tmpE5MLRicXtiWuCzJCe+G7nJMUo6H5I6xa1w==;Y3DaOSNOsrQM/nWEp90IIQ=="
 ---
