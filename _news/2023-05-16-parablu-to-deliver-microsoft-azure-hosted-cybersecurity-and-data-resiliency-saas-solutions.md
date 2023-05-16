@@ -43,6 +43,22 @@ related:
         width: 630
         height: 330
         isCached: true
+  - title: "These 4 popular Microsoft apps are getting a big AI boost"
+    excerpt: "Swiftkey, Microsoft's virtual keyboard app that allows you to access Bing Chat across different apps, is getting a monumental boost."
+    publishedDateTime: 2023-05-16T15:17:00Z
+    webUrl: "https://www.zdnet.com/article/these-4-popular-microsoft-apps-are-getting-a-big-ai-boost/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/these-4-popular-microsoft-apps-are-getting-a-big-ai-boost/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/these-4-popular-microsoft-apps-are-getting-a-big-ai-boost/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 106
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/b2cb30563f660d5191369ced51bf355a07f5bcaf/2023/05/16/f302e472-37a2-411d-8228-8b582e4c1d81/image-11.png?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Google Fights Back Against Microsoft With New AI Search Capabilities"
     excerpt: "Google CEO Sundar Pichai has announced that the AI chatbot Bard is open to all, AI is coming to almost all Google products and new search experiences are on the way"
     publishedDateTime: 2023-05-12T12:35:00Z
@@ -72,6 +88,34 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "KPI Partners achieves Microsoft Azure Solutions Partner Designation for Data & AI"
+    excerpt: "KPI Partners, a global trusted strategic partner for Analytics and Digital Transformation solutions, announced today that it has achieved Microsoft Azure Solution Partner status in Data & AI. This recognition showcases the company's extensive ability to support customers in managing and governing their data across various systems."
+    publishedDateTime: 2023-05-16T17:06:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/kpi-partners-achieves-microsoft-azure-solutions-partner-designation-for-data-ai-1032332063"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 94
+    images:
+      - url: "https://mma.prnewswire.com/media/2030241/KPI_Partners_Logo.jpg"
+        width: 400
+        height: 283
+        isCached: true
+  - title: "ServiceNow Joins AI Wave in Partnership With Microsoft, OpenAI"
+    excerpt: "ServiceNow Inc. unveiled new generative artificial intelligence features for its business applications in a partnership with Microsoft Corp., becoming the latest company to try to meet the rising demand for the emerging technology."
+    publishedDateTime: 2023-05-16T14:59:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-05-16/servicenow-joins-ai-wave-in-partnership-with-microsoft-openai"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 84
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i7H2hT69hYGQ/v1/1200x800.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "SAP and Microsoft to Deepen Collaboration on Generative AI in Recruiting"
     excerpt: "(Reuters) - SAP will deepen collaboration with Microsoft on joint generative AI projects in the field of personnel recruiting, the German software maker announced on Monday. SAP's SuccessFactors solutions will be integrated with Microsoft's 365 Copilot and Azure OpenAI Service to access language models and generate natural language, it added."

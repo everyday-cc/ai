@@ -39,20 +39,6 @@ related:
         width: 600
         height: 400
         isCached: true
-  - title: "How Artificial Intelligence Is Used in Manufacturing"
-    excerpt: "neural networks; and robotics, which may be the most commonly used AI application in manufacturing. Altogether, artificial intelligence capabilities allow manufacturers to redeploy human labor to jobs that machines can't yet do and to make production more ..."
-    publishedDateTime: 2023-05-16T13:46:00Z
-    webUrl: "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/ai-in-manufacturing/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 71
-    images:
-      - url: "https://m.foolcdn.com/media/dubs/images/Robot-AI-image-Getty-Images.width-600.jpg"
-        width: 600
-        height: 450
-        isCached: true
 
 secured: "aWg4HnjDoToFwkj+19QI9cgOn75OtA53urTq4ZjFH101c7Pf7bFAFYxIfhWuCNXJnCONwVLcNQbqiIvPapNV9fzKNGbjCZKtnTEM/Hlu0+lCjAcFHqhbVObzw8PdHl1BpWTlm3UAVdKaDgkzIGezQzm9/00huhZSoYV7lV9q5j4H4FzIA0W4MWlE1fS6YTtnyJcejddIDDdZmpzIdaWnbHZ9Or29OVgWJbOvpdAuU+dDdHzpygLijeLvKN7kQ4KqZrJM9HQjwiaa3P4Pi4NPI9jpf5ui6nMJAktE6B0z5zt1dfJh1oYAp/wyyh4qDb1dFBIltnipHUTGeehkFq2iH27R4Aw5bcb2aWWFfUUZONwzBJjg92GhHQ5vDuGpUjaglZvKv4cI3DFSWAnG4UoCXY7IlI18bsCXNqCl8KNPWOoPFwMgD5Ntt03Ljtw8GsC7Ea8MF/drunvxiHlFcAeVEkdnHQ43r1aTX2RK+bT79R3xO7b2oX4+mJJvv1c+RBQdRZBisLvLJZ4jKxZvIasaXw==;aj6tqzQyHJnw66rjjcs2sA=="
 ---

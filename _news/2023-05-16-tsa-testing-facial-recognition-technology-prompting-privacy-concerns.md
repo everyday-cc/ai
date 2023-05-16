@@ -99,20 +99,20 @@ related:
         height: 558
         isCached: true
   - title: "Are you who you say you are? TSA tests facial recognition technology to boost airport security"
-    excerpt: "The Transportation Security Administration has started using facial recognition technology at a number of airports across the country."
-    publishedDateTime: 2023-05-15T17:49:00Z
-    webUrl: "https://www.boston.com/travel/technology/2023/05/15/are-you-who-you-say-you-are-tsa-tests-facial-recognition-technology-to-boost-airport-security/"
-    ampWebUrl: "https://www.boston.com/travel/technology/2023/05/15/are-you-who-you-say-you-are-tsa-tests-facial-recognition-technology-to-boost-airport-security/?amp=1"
-    cdnAmpWebUrl: "https://www-boston-com.cdn.ampproject.org/c/s/www.boston.com/travel/technology/2023/05/15/are-you-who-you-say-you-are-tsa-tests-facial-recognition-technology-to-boost-airport-security/?amp=1"
+    excerpt: "A pilot project by the Transportation Security Administration assesses the use of facial recognition technology at a number of airports."
+    publishedDateTime: 2023-05-16T16:18:00Z
+    webUrl: "https://abc13.com/tsa-facial-recognition-airport-security-transportation-administration/13250231/"
+    ampWebUrl: "https://abc13.com/amp/tsa-facial-recognition-airport-security-transportation-administration/13250231/"
+    cdnAmpWebUrl: "https://abc13-com.cdn.ampproject.org/c/s/abc13.com/amp/tsa-facial-recognition-airport-security-transportation-administration/13250231/"
     type: article
     provider:
-      name: Boston.com
-      domain: boston.com
+      name: abc13
+      domain: abc13.com
     quality: 79
     images:
-      - url: "https://www.boston.com/wp-content/uploads/2023/05/Facial_Recognition_Airports_79172-6461bb4fb69eb-scaled.jpg"
-        width: 2560
-        height: 1708
+      - url: "https://cdn.abcotvs.com/dip/images/10994202_090221-cc-ap-tsa-generic-img.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Smile! Reid airport is testing ground for facial recognition project"
     excerpt: "The TSA says the pilot program is voluntary and accurate, but critics have raised concerns about questions of bias in facial recognition technology."
@@ -263,6 +263,20 @@ related:
         width: 986
         height: 555
         isCached: true
+  - title: "Las Vegas airport among sites testing TSA facial recognition technology, raising privacy concerns"
+    excerpt: "TSA says the pilot is voluntary and accurate, but critics have raised concerns about questions of bias in facial recognition technology and possible repercussions for passengers who want to opt out."
+    publishedDateTime: 2023-05-16T15:46:00Z
+    webUrl: "https://www.rgj.com/story/news/2023/05/16/las-vegas-airport-among-ttsa-is-testing-facial-recognition-at-more-airports-raising-privacy-concerns/70223093007/"
+    type: article
+    provider:
+      name: Reno Gazette-Journal
+      domain: rgj.com
+    quality: 41
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2023/05/16/PREN/08c5e615-7904-4d40-8684-d11579b6c89f-AP23116691290041.jpg?auto=webp&crop=7421,4175,x0,y378&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Are you are who you say you are? TSA test facial recognition technology to boost airport security"
     excerpt: "A passenger walks up to an airport security checkpoint, slips an ID card into a slot and looks into a camera atop a small screen. The screen flashes “Photo Complete” and the person walks through — all without having to hand over their identification to the TSA officer sitting behind the screen."
     publishedDateTime: 2023-05-15T12:25:00Z
@@ -314,6 +328,6 @@ related:
       domain: thedailyrecord.com
     quality: 28
 
-secured: "TnRNdclbk7ODgecmJOSx/BwzBffBKDKjmcUGBQEr5jgWA4brGaxq1X6BQVrPqrt75NNgU0qQwaGz80NjRC0aGfScf1Kfv0NLMVg+j6vQEugwBEXZW+x+yid/DO5zSSYvfqAMdMFgWEswu60ML7/CqMxKlq8XLAl6lImJi71rMQxj3187ci5QYf8E2s3lBoYz3/nbhNBFcsPaQ2JqFsBYsA+L2e2MHqEU9SONi9n6kQtm5De2Tlljn7P5Wex0cW22In/4IlDSTX49HjOYTP4/f1I5zuruOfx0BPnyZJoH4eQj7Y86cw29XfYxC1GlPcLQGi8mTiL2Vo1dl6Z2YyobWvCkQrPGbyhI23bR7M9pzsU=;rwHXUjBlCEJ9h4vZT3so8g=="
+secured: "ZG2JN1c71ii7IoyB3rBorx1n82pBU2Og4/2dsB/FE+mpJfofTA9JbhEQ77nZtrl5TOyRZomaw8ATOrOwAT5knj9j/erA5rVA2OSnrJp7sYEhiKVpkwAaQoVx2xk+WLODRowm8ve2SAYrxbfa+fsQjuy9j01ns482vLlarv+M97OaGJVfW1S1ab8PDgecWKfxpJDZyRBktpHEtbuh6aJKhyE7n8ONlmMCTF+RfIW5O3PaBgc+/dDcm4EsP9UcuYsWZrpgyFdHyxLoDx5QCy0R7mnxND9GEKKlGfbUVb1gzs5it+TknfnKFGeSxY4c7S2LVL702MnuxuKjv5iKpegQ/pED6CIeMOxTjp4CISO8j+4dNGxxnDSoFXM/2uInBU65lS2eSgmnoBsJ9wte9l9SbhhMM2QiCSOVV0V30aFxrWWPsPy4nDXcQKc/foiqCpJI5GD/D0g/q8OdRx4L9gSWJmizS/mivSBpVTWRdQi0XSTCj4uo/mQZxDnVVWL5hi05XFRgOM5R3G9E6mIIoX2eqg==;Ge+6R/QMZ5DbI5L7oppOIA=="
 ---
 

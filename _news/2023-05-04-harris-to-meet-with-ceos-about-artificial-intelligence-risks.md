@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Harris to meet with CEOs about artificial intelligence risks"
-excerpt: "Vice President Kamala Harris speaks, along side Jill Scarbo, who won National Small Business of the Year in 2022 and is the CEO of Bright Futures Learning Services (BFLS), a provider of Applied Behavior Analysis (ABA) therapy services for children ..."
-publishedDateTime: 2023-05-04T12:03:00Z
-originalUrl: "https://omaha.com/news/science/harris-to-meet-with-ceos-about-artificial-intelligence-risks/article_2be5fceb-7e7e-5b20-93a6-2fc9680f8df6.html"
-webUrl: "https://omaha.com/news/science/harris-to-meet-with-ceos-about-artificial-intelligence-risks/article_2be5fceb-7e7e-5b20-93a6-2fc9680f8df6.html"
+excerpt: "Vice President Kamala Harris will meet with the CEOs of four major companies developing artificial intelligence. The Biden administration is rolling out initiatives meant to ensure the rapidly evolvin"
+publishedDateTime: 2023-05-04T11:22:00Z
+originalUrl: "https://omaha.com/news/science/article_2be5fceb-7e7e-5b20-93a6-2fc9680f8df6.html"
+webUrl: "https://omaha.com/news/science/article_2be5fceb-7e7e-5b20-93a6-2fc9680f8df6.html"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 630
     isCached: true
 
-secured: "4IvLvfPyzPwGbLGYQhGDiB+EzJV/MfO6apGrjy/LgOvGc0uyNkx2DOTr5zLdx4o5tmN4F5u1VvLbSVQs49Ff+eqhWeeL8RPjtw7kiO5HSjFADtrJLOcHd1jGE6K85IaaIaYx/P/x2zIPnjfeml02z03SXgnptplB4sf9HPXNV0JDdCwHJICog98ElOVFvKphKnTXrP3J7+yrzCkdydBk2a8TxIbd7YPii7wMyVAXuKZmg0AodXYKRLQhtA/G22pYl3kokPcejWiKYxY68HcIvRi2n9Ndie8lDEY17wX2r2wyP7qt8znDViAIKBDxzCCge9Ca9DYn9yBtmCSCds0RGvX+zCmfmqCyyK/jFsKp8ag=;6eT8KcSWHMFa58TToo/Ozg=="
+secured: "zRbZPsYDv+UU9GiE1ZxGg3ccbcmRW4t7YfPJk7Ka/Y3SLIxgvdDIPkxWvnbI9nqJs304T38SCTy69K7y7ynlKUejPpE1poJtoTlZT0NgQjGu8NnFt9fF7jFaiCp9wJd9YqaiHPZLayvr/jdFv2oH5Vpg8mOm2Let+12qw79w9lMeNvgopYTrvYKqB+5fprb2RRJ1KQ2jIs5jDlA2s0twAc6pQcBkdjoedmlaeFIA9nYO+7jzWsAlvY0aree9K9gNvnb47wZYqQ5eV+m2XOCx4lThEqjq5Y3D99r0YjXaqb8qOfhcINn5Pr09H5MCGnz0w/XbFTCeIgcW56WHvIHVi4DBmQ9hpuzeTPM22pQD9q8=;E8G66/PsVwuKFvpTwEhd1Q=="
 ---
 

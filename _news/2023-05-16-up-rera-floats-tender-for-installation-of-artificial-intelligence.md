@@ -44,6 +44,22 @@ related:
         width: 887
         height: 600
         isCached: true
+  - title: "Get Ready For AI Climate Action"
+    excerpt: "AI can help predict climate risk zones, allocate resources efficiently, and develop impactful climate-related infrastructure projects."
+    publishedDateTime: 2023-05-16T17:06:00Z
+    webUrl: "https://www.forbes.com/sites/sylvainduranton/2023/05/16/get-ready-for-ai-climate-action/"
+    ampWebUrl: "https://www.forbes.com/sites/sylvainduranton/2023/05/16/get-ready-for-ai-climate-action/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sylvainduranton/2023/05/16/get-ready-for-ai-climate-action/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6463b713b18d7efeca795103/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 830
+        isCached: true
   - title: "Does AI need a UN? Expert calls for global governing body to police 'billions of pieces of misinformation'"
     excerpt: "Cognitive scientist and AI expert Gary Marcus advocates for the formation of an international body to govern emerging artificial intelligence technologies."
     publishedDateTime: 2023-05-12T05:59:00Z
@@ -75,6 +91,20 @@ related:
       - url: "https://d3i6fh83elv35t.cloudfront.net/static/2023/05/GettyImages-1309763384-1024x683.jpg"
         width: 1024
         height: 683
+        isCached: true
+  - title: "AI in ICT (Information and Communications Technology) Market Future Investments and Forecast Till 2030"
+    excerpt: "The detailed analysis of the AI in ICT (Information and Communications Technology) Market report provides information"
+    publishedDateTime: 2023-05-16T07:35:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-ict-information-and-communications-technology-market-future-investments-and-forecast-till-2030-2023-05-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 53
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "2023-2030 AI in ICT (Information and Communications Technology) Market: Highlights with Growth Data"
     excerpt: "Market ” Is Projected To Raise Significantly At A Maximum CAGR During The Forecast Period (2023-2030). The Market Is Expected to Witness the Highest Demand World Widely. Pre and Post-COVID Study of AI in ICT (Information and Communications Technology) Market Is Covered in The Most Recent Updated Report [ 2023-2030 ]."

@@ -45,6 +45,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "OpenAI CEO testifies at Senate hearing on AI regulation"
+    excerpt: "OpenAI CEO Sam Altman testified at a Senate Judiciary Subcommittee hearing and seemed open to the idea of the government helping license and regulate the development of artificial intelligence systems."
+    publishedDateTime: 2023-05-16T16:55:00Z
+    webUrl: "https://www.nbcnews.com/now/video/openai-ceo-testifies-at-senate-hearing-on-ai-regulation-174511173819"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo174511173819"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo174511173819"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 87
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_05/1684255782233_now_daily_a_kovack_openAI_senate_230516_1920x1080-lej9ho.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Governments' race to regulate AI tools"
     excerpt: "Rapid advances in artificial intelligence such as OpenAI's ChatGPT are complicating governments' efforts to agree to laws governing the use of the technology. Here are the latest steps national and international governing bodies are taking to regulate AI tools. Ilan Rubens reports."
     publishedDateTime: 2023-05-12T07:59:00Z

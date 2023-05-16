@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "MediaTek looking to build a chipset with an Nvidia GPU next year"
+    excerpt: "This chip will target Windows on ARM laptops, according to insiders. Besides graphics, Nvidia tech will also bring AI acceleration."
+    publishedDateTime: 2023-05-16T16:55:00Z
+    webUrl: "https://www.gsmarena.com/report_claims_that_mediatek_will_build_a_chipset_with_an_nvidia_gpu_as_early_as_next_year-news-58575.php"
+    type: article
+    provider:
+      name: GSM Arena
+      domain: gsmarena.com
+    quality: 54
+    images:
+      - url: "https://fdn.gsmarena.com/imgroot/news/23/05/mediatek-nvidia-chipset/-952x498w6/gsmarena_000.jpg"
+        width: 952
+        height: 498
+        isCached: true
   - title: "MediaTek to adopt Nvidia GPU in flagship mobile chip"
     excerpt: "MediaTek is expected to integrate an Nvidia GPU into its next-generation flagship mobile processor as early as 2024, according to industry sources."
     publishedDateTime: 2023-05-16T01:52:00Z

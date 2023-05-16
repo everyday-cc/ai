@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/stock-market/market-sectors/informa
 webUrl: "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/ai-in-finance/"
 type: article
 quality: 86
-heat: 106
+heat: 96
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "How Artificial Intelligence Is Used in Manufacturing"
-    excerpt: "neural networks; and robotics, which may be the most commonly used AI application in manufacturing. Altogether, artificial intelligence capabilities allow manufacturers to redeploy human labor to jobs that machines can't yet do and to make production more ..."
-    publishedDateTime: 2023-05-16T13:46:00Z
-    webUrl: "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/ai-in-manufacturing/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 71
-    images:
-      - url: "https://m.foolcdn.com/media/dubs/images/Robot-AI-image-Getty-Images.width-600.jpg"
-        width: 600
-        height: 450
-        isCached: true
   - title: "How AI might let us finally talk to animals"
     excerpt: "AI could finally let humans talk to animals thanks to large language models that are now working to decode animal languages."
     publishedDateTime: 2023-05-15T00:18:00Z
@@ -59,6 +45,6 @@ related:
         height: 772
         isCached: true
 
-secured: "L2QOEC6sf2hxmv4i0+Rc1DR3Jh9oS9CMac6PUIl6Z/yJIFINghlRHlouaVOXaDKGT25vlEkBK/leM33YjN6Z+Rz/xNfZsIwpH+obS3FQATNEdAFkDB7sZ7Tn0MuQroQwkNAmLJeWcRqYRyblyKBSsq39AQ/iyTpYcJ9/iF9eHFaHUC6bdpQoEYPjrPAsmKQNSs/ZZegfcts75M6u1GG9QcXIawPG0rXMalg4b2RxLjbMk/yN2vP/aKIEASNF64scZ7Evt8dxBOGmnAL0dfivKpbaOXZqIB38ZK78Z/16VIoyrZVPE9WteQ/tUl3HmtRvqQBc61n+rF0Nbqq7AtdBZ76fUY/+dCvnv5U4jrGOVn4=;6iAV7t0MgOow0fSQK1+oXg=="
+secured: "z7g6Dk9fOZnkjGC+JiYDtBYJPYnf8e7qEfJD25lvtvnBi2kztoKLsKnkmewqScl2wma4XttnJ4J4EpR+xeEyumeddiBk/iCLozYXHCvQ6QQLU/R9+il67Npu37QEXuHOKEGipJYwzst6sEM1LabWu8IHsdLUbqjfPRLtHOBtkamYxU66VqjZnqUh5JXLn6yPUwJMOeQEDJBYfbLCZDRFBPCNCo1r6KQrucpG97sjX/+/9jut8Ko0yhmutWWA6arlMW39CumrBoArrfMUANXGtaJWY9o/ZkSGPVBbFB3WQJXfaylbbPNod3Dq11ch4oaJZDSUofKRhj4k1W01/01KeFNImAiksiOzR/7LaQl+zXouRlwkXwfPUJVClUmr0zBNB80pq/k4Umm+bj3EPXsX8W5UGpQa4BJ1trYKzjFfVPUAHm8MBIbRWa68+76PDz/0fevP/5sWMzxYatX3OTpEA8MBqMrkxQ5qtk8LtwTt5fO1EwhTkyCjWuU3TO1gCodFm11JVj7PvlFjopnAQsoOKA==;Lez2o/R6Zu8swbsS9HzhgA=="
 ---
 

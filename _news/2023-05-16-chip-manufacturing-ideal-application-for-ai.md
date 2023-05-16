@@ -19,6 +19,36 @@ topics:
   - AI
 
 related:
+  - title: "Nvidia CEO highlights accelerated computing and AI’s role in chip manufacturing at ITF World 2023"
+    excerpt: "Huang stressed the need for a new approach to meet the rising demand for computing power while addressing concerns regarding net-zero goals."
+    publishedDateTime: 2023-05-16T17:06:00Z
+    webUrl: "https://venturebeat.com/ai/nvidia-ceo-highlights-accelerated-computing-and-ais-role-in-chip-manufacturing-at-itf-world-2023/"
+    ampWebUrl: "https://venturebeat.com/ai/nvidia-ceo-highlights-accelerated-computing-and-ais-role-in-chip-manufacturing-at-itf-world-2023/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/nvidia-ceo-highlights-accelerated-computing-and-ais-role-in-chip-manufacturing-at-itf-world-2023/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 91
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/02/nvidia-ceo-jensen-huang-at-gtc-fall-2022-1.jpg?w=1200&strip=all"
+        width: 1200
+        height: 637
+        isCached: true
+  - title: "How Artificial Intelligence Is Used in Manufacturing"
+    excerpt: "neural networks; and robotics, which may be the most commonly used AI application in manufacturing. Altogether, artificial intelligence capabilities allow manufacturers to redeploy human labor to jobs that machines can't yet do and to make production more ..."
+    publishedDateTime: 2023-05-16T13:46:00Z
+    webUrl: "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/ai-in-manufacturing/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 71
+    images:
+      - url: "https://m.foolcdn.com/media/dubs/images/Robot-AI-image-Getty-Images.width-600.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "Nvidia CEO outlines AI’s role in next-generation chip manufacturing"
     excerpt: "To meet this demand, Nvidia has emerged at the forefront of a new approach that involves coupling the parallel processing capabilities of graphics processing units with CPUs. It’s this new approach that sparked the AI revolution,"
     publishedDateTime: 2023-05-16T09:01:00Z
@@ -33,6 +63,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Nvidia turns to AI to speed up manufacturing"
+    excerpt: "More for less to put this widget in that thing, Nvidia founder Jensen Huang said that artificial intelligence was being used to accelerate computer chip manufacturing and create advanced microprocessors."
+    publishedDateTime: 2023-05-16T09:54:00Z
+    webUrl: "https://www.fudzilla.com/news/ai/56897-nvidia-turns-to-ai-to-speed-up-manufacturing"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 19
 
 secured: "20Ky/0TW0bjT+IQgeEiMxMuVXo5lj0U0aZC+h+x9qCCP9UF289gYcBI85L875pPBQzz7ZZIdpSWPdpXA9W/PvgEh2wOsMxErq00LJDzvJz++zKpUCfv9uDPvOH4JMp9mAs6StoQhA8W9oxmeDvEak/QcFqTWbbzdf6JZtR6HWEfnEmbSNmlK1qWNwirHFaLuH5z4Bc4umebJq1sxpVQ/bpuFiCfRcZwkXUSYZT14v0KnOpkJNnmOKqWT9YMU4p56qOjHn6nq9uLQJw/mZXdj7zSFwAVxk5aarBNlisynUyTcUqAA7A96W7dYNXYgnuqIEX7nTOD/iHkPxntDPz7y9BetRXp/kcrIQGeCWjrcIas=;gm7awleYydEVcQnmbwQByg=="
 ---

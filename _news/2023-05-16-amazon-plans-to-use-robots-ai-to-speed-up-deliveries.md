@@ -7,8 +7,8 @@ originalUrl: "https://www.itp.net/emergent-tech/amazon-plans-to-use-robots-ai-to
 webUrl: "https://www.itp.net/emergent-tech/amazon-plans-to-use-robots-ai-to-speed-up-deliveries"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: GDPR fines
@@ -34,15 +34,6 @@ related:
       name: Logistics Middle East
       domain: logisticsmiddleeast.com
     quality: 34
-  - title: "Nvidia turns to AI to speed up manufacturing"
-    excerpt: "More for less to put this widget in that thing, Nvidia founder Jensen Huang said that artificial intelligence was being used to accelerate computer chip manufacturing and create advanced microprocessors."
-    publishedDateTime: 2023-05-16T09:54:00Z
-    webUrl: "https://www.fudzilla.com/news/ai/56897-nvidia-turns-to-ai-to-speed-up-manufacturing"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 19
 
 secured: "THkd175m46EmJIIrKQ9hx/HOSg7ftJZQIvvS9Y4NljKqUceXrQEzrKTLEdraADPzq9ljephttbEQK9xqVHLo7S8WWIhfeq3+N80HtLYfK2zMxtIk4J+OrkN7ltwQ5mtWn5lDC4e/c7Dtusd5OpvF85pSyXyCxB26QDx/PeKHRU3R0tbQJHL0EoDeWNLIdB8Yq1qVvHv2UPiNu7Fz2j2v1S54t/w06s761V7pQVI74HCC3JyBQAy/DGglMHG3poyJ+NmSVZVFGcUNTK/WPZ/67U53/ONi07nHqe+XOaBjcqSXM8SYu3DDl8ADXmfgEM5tnP4kUUyzSpHmSQgpE3gieflT1sd3IiiyzURqKBqTi1W1cuRE3mf3w4A/UXYsNzO7bGm+WIFKnFPF29L4t4FujwLucMmTbABFeX0MSElk5NjzYQkLmUKQw+j6ATs/YLE34iegvlFuiRIOrSnD092sI3mumsWTD+qZ6UbZcWNzTx5Fynhum70+J/Y/uusXZHmWOcrX/m8dG3Oao4A6jz2+5A==;b0d671q0aSWtMC5mWjdpAA=="
 ---

@@ -65,6 +65,34 @@ related:
         width: 900
         height: 394
         isCached: true
+  - title: "Microsoft’s Bing AI adds contextual chat, widget on Android and iOS"
+    excerpt: "Microsoft has just delivered a bunch of updates to Bing AI, including contextual chat and a new widget on Android and iOS."
+    publishedDateTime: 2023-05-16T16:19:00Z
+    webUrl: "https://9to5google.com/2023/05/16/microsoft-bing-ai-widget-android-ios/"
+    type: article
+    provider:
+      name: 9to5google
+      domain: 9to5google.com
+    quality: 56
+    images:
+      - url: "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/03/bing-logo-circle-5.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "CockroachDB Dedicated for Microsoft Azure Realizes Company's Vision for a Single Distributed Database that Runs Everywhere and Anywhere, Effortlessly"
+    excerpt: "In addition, CockroachDB's serverless, on-consumption data platform now allows users to read and write data across multiple geographically distributed regions. Paying only for the exact amount of data stored and usage of that data on the CockroachDB serverless platform dramatically reduces the cost of operating a global business and makes data-intensive,"
+    publishedDateTime: 2023-05-16T17:04:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/05/16/9815152.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 15
+    images:
+      - url: "https://mma.prnewswire.com/media/1663429/CockroachLabs_Full_Logo_v2.jpg"
+        width: 400
+        height: 311
+        isCached: true
 
 secured: "s1gYj2Zf1UkOdXtn5YlUizXeRwGNxaTmLsG0Plhap+bXFncn1QxnG6foNl/0as2e2uhtRU+8/gC6R4l/oED5pUIu4WOlQFc/oS/FMH8xt+m7CrCdZDee93pw/f/pcDXKnDVee5w8z1TxJqBK16jLrK6Tv6ubUcLrzvZHcDR7rb05Ytq8sx/an0slPmM3t3ZG/HHq8Zibm7KWtkIi5Ibzes5Vy0lFP1MUsWTt+HnVzaQQamLISOFU0PrwpR8lPbr9nUgxVhYcKSRfRttgQqiL5qzmcBF7/RqL1tgZFlxqnjtRxFXygwfo3V5IXQWFUIV296Nvu61ccSnwltMZLzoIhjj6IOwXozQ1CV/x7DjO6ME2i7HIpPn9xz1NziotP++mIrQ7Kubj+H9n2eJT3R7NocOZ0Qn6kafBaZ5UxXp1WmmmOaELlz9FAoN/YRC+lpqCYpk9ib53XFwq4KSG2nm9otC/QEj6v09P8QzQvEip1OrUcBPFK6p0nCsFLpagAqLod/QSbmx03lD4s5hUcK9B+w==;wZmJOO4csudmv+zO7keL3w=="
 ---

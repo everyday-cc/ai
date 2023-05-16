@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/05/15/combining-generat
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/05/15/combining-generative-ai-chatgpt-into-handguns-triggers-fiery-response/amp/"
 type: article
 quality: 91
-heat: 331
+heat: 391
 published: true
 
 provider:
@@ -110,6 +110,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "ChatGPT boss calls on Congress for new agency to regulate artificial intelligence"
+    excerpt: "As this technology advances, we understand that people are anxious about how it could change the way we live. We are too,” OpenAI CEO Sam Altman testified."
+    publishedDateTime: 2023-05-16T16:58:00Z
+    webUrl: "https://www.syracuse.com/us-news/2023/05/chatgpt-boss-calls-on-congress-for-new-agency-to-regulate-artificial-intelligence.html"
+    ampWebUrl: "https://www.syracuse.com/us-news/2023/05/chatgpt-boss-calls-on-congress-for-new-agency-to-regulate-artificial-intelligence.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-syracuse-com.cdn.ampproject.org/c/s/www.syracuse.com/us-news/2023/05/chatgpt-boss-calls-on-congress-for-new-agency-to-regulate-artificial-intelligence.html?outputType=amp"
+    type: article
+    provider:
+      name: syracuse.com
+      domain: syracuse.com
+    quality: 52
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/24T6KPDC2BETDF6QUSNKH63WCM.jpg"
+        width: 4338
+        height: 2892
+        isCached: true
   - title: "edX Debuts Two AI-Powered Learning Assistants Built on ChatGPT"
     excerpt: "X plugin launches in ChatGPT plugin store to give users access to content and course discovery edX Xpert delivers AI-powered learning and"
     publishedDateTime: 2023-05-12T14:14:00Z
@@ -135,6 +151,22 @@ related:
         width: 573
         height: 413
         isCached: true
+  - title: "ChatGPT’s chief testifies before Congress as concerns grow about artificial intelligence risks"
+    excerpt: "The head of the artificial intelligence company that makes ChatGPT told Congress on Tuesday that government intervention “will be critical to mitigate the risks of increasingly powerful” AI systems."
+    publishedDateTime: 2023-05-16T15:12:00Z
+    webUrl: "https://www.ky3.com/2023/05/16/chatgpts-chief-testifies-before-congress-concerns-grow-about-artificial-intelligence-risks/"
+    ampWebUrl: "https://www.ky3.com/2023/05/16/chatgpts-chief-testifies-before-congress-concerns-grow-about-artificial-intelligence-risks/?outputType=amp"
+    cdnAmpWebUrl: "https://www-ky3-com.cdn.ampproject.org/c/s/www.ky3.com/2023/05/16/chatgpts-chief-testifies-before-congress-concerns-grow-about-artificial-intelligence-risks/?outputType=amp"
+    type: article
+    provider:
+      name: KY3
+      domain: ky3.com
+    quality: 47
+    images:
+      - url: "https://gray-ky3-prod.cdn.arcpublishing.com/resizer/BR31D5Zu8TF1TlABWCjwhE39c8U=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/GBASQ5AZXVEKZN6MWEJOUX5FSE.png"
+        width: 800
+        height: 450
+        isCached: true
   - title: "ChatGPT’s Sam Altman Faces Senate Panel Examining Artificial Intelligence"
     excerpt: "Photo illustration: Elena Scotti WASHINGTON—The chief executive of ChatGPT creator OpenAI is set to testify before a Senate panel Tuesday as lawmakers begin a bipartisan push toward regulating the powerful new artificial-intelligence tools available to ..."
     publishedDateTime: 2023-05-16T09:30:00Z
@@ -153,6 +185,38 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 45
+  - title: "ChatGPT's chief testifies before Congress, calls for new agency to regulate artificial intelligence"
+    excerpt: "The head of the artificial intelligence company that makes ChatGPT told Congress on Tuesday that government intervention “will be critical to mitigate the risks of increasingly powerful” AI systems. O"
+    publishedDateTime: 2023-05-16T16:36:00Z
+    webUrl: "https://www.postregister.com/businessreport/healthcare/chatgpts-chief-testifies-before-congress-calls-for-new-agency-to-regulate-artificial-intelligence/article_5ae12cde-4d8e-5722-905f-80bc921bdbf2.html"
+    ampWebUrl: "https://www.postregister.com/businessreport/healthcare/chatgpts-chief-testifies-before-congress-calls-for-new-agency-to-regulate-artificial-intelligence/article_5ae12cde-4d8e-5722-905f-80bc921bdbf2.amp.html"
+    cdnAmpWebUrl: "https://www-postregister-com.cdn.ampproject.org/c/s/www.postregister.com/businessreport/healthcare/chatgpts-chief-testifies-before-congress-calls-for-new-agency-to-regulate-artificial-intelligence/article_5ae12cde-4d8e-5722-905f-80bc921bdbf2.amp.html"
+    type: article
+    provider:
+      name: Post Register
+      domain: postregister.com
+    quality: 45
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/postregister.com/content/tncms/assets/v3/editorial/e/c4/ec4644a6-b018-5378-91d3-183bbd39eab1/6462bc5b5dc5a.image.jpg?resize=1024%2C682"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "ChatGPT’s chief testifies before Congress, calls for new agency to regulate artificial intelligence"
+    excerpt: "The head of the artificial intelligence company that makes ChatGPT told Congress on Tuesday that government intervention “will be critical to mitigate the risks of increasingly powerful” AI systems."
+    publishedDateTime: 2023-05-16T17:47:00Z
+    webUrl: "https://www.inquirer.com/business/technology/chatgpt-artificial-intelligence-regulation-20230516.html"
+    ampWebUrl: "https://www.inquirer.com/business/technology/chatgpt-artificial-intelligence-regulation-20230516.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-inquirer-com.cdn.ampproject.org/c/s/www.inquirer.com/business/technology/chatgpt-artificial-intelligence-regulation-20230516.html?outputType=amp"
+    type: article
+    provider:
+      name: Philadelphia Inquirer
+      domain: inquirer.com
+    quality: 45
+    images:
+      - url: "https://www.inquirer.com/resizer/c8oKuR3HuMkmniNMYZAmsZrZUP0=/760x507/smart/filters:format(webp)/cloudfront-us-east-1.images.arcpublishing.com/pmn/XFGBGJUSOD73NDTHQNOKAJLTVU.jpg"
+        width: 760
+        height: 507
+        isCached: true
   - title: "ChatGPT's chief to testify before Congress as concerns grow about artificial intelligence's risks"
     excerpt: "The head of the artificial intelligence company that makes ChatGPT is set to testify before Congress as lawmakers call for new rules to guide the rapid development of AI technology"
     publishedDateTime: 2023-05-16T11:11:00Z
@@ -192,6 +256,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 39
+  - title: "AI Triumph: ChatGPT Passes Radiology Exams"
+    excerpt: "ChatGPT has successfully passed a radiology board-style exam, demonstrating the potential of large language models in medical contexts."
+    publishedDateTime: 2023-05-16T16:31:00Z
+    webUrl: "https://neurosciencenews.com/ai-radiology-chatgpt-23252/"
+    type: article
+    provider:
+      name: Neuroscience News
+      domain: neurosciencenews.com
+    quality: 39
+    images:
+      - url: "https://neurosciencenews.com/files/2023/05/chatgpt-radiology-exam-neurosinces.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Kagan: What’s the next move for Meta with metaverse down, AI ChatGPT up?"
     excerpt: "As interest and intrigue in ChatGPT overtakes that of the metaverse, one analyst asks: Should Meta change its vision?"
     publishedDateTime: 2023-05-15T15:22:00Z
@@ -233,6 +311,20 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2023/05/16/PDTN/f3f9d9f4-7be7-4295-8e3c-c3a5f0bb873a-AP23124580482542.jpg?auto=webp&crop=509,287,x501,y51&format=pjpg&width=1200"
         width: 1200
         height: 677
+        isCached: true
+  - title: "ChatGPT’s chief calls for new federal agency to regulate AI"
+    excerpt: "And while there’s no immediate sign that Congress will craft sweeping new AI rules, as European lawmakers are doing, the societal concerns brought Altman and other tech CEOs to"
+    publishedDateTime: 2023-05-16T16:43:00Z
+    webUrl: "https://www.c4isrnet.com/federal-oversight/congress/2023/05/16/chatgpts-chief-calls-for-new-federal-agency-to-regulate-ai/"
+    type: article
+    provider:
+      name: C4ISRNET
+      domain: c4isrnet.com
+    quality: 37
+    images:
+      - url: "https://www.c4isrnet.com/resizer/mXwHQ7VIhta78WsJT7efTcguf28=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/archetype/WBTSLREOY5ER7KEUW5BJIK46PY.jpg"
+        width: 1024
+        height: 683
         isCached: true
   - title: "ChatGPT iPhone app Omni AI adds on-device voice recognition in latest update"
     excerpt: "Omni AI, a ChatGPT-powered app for the iPhone, just added on-device voice recognition for its AI assistant in a recent update."

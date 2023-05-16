@@ -21,6 +21,20 @@ topics:
   - AI
 
 related:
+  - title: "Artificial Intelligence (AI) Market Is Expected To Reach USD 1,581.70 Billion By 2030 With A Booming CAGR Of 38.0%"
+    excerpt: "Allied Market The report focuses on growth prospects, restraints, and analysis of the global artificial intelligence market trend. <"
+    publishedDateTime: 2023-05-15T10:51:00Z
+    webUrl: "https://menafn.com/1106243312/Artificial-Intelligence-AI-Market-Is-Expected-To-Reach-USD-158170-Billion-By-2030-With-A-Booming-CAGR-Of-380"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 32
+    images:
+      - url: "https://menafn.com/updates/pr/2023-05/15/EP_32692image_story.jpeg"
+        width: 632
+        height: 331
+        isCached: true
   - title: "Natural Language Processing NLP Market is Predicted to Register a CAGR of 23% from 2022 to 2032 | FMI"
     excerpt: "The global Natural Language Processing (NLP) market stands at US$ 14 Billion as of now and is expected to reach US$ 45 Billion at a staggering CAGR of 23% between 2022 and 2032. With growing inclination towards digital technology-based software throughout,"
     publishedDateTime: 2023-05-15T05:25:00Z

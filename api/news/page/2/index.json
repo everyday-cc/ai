@@ -2,6 +2,340 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-05-16-this-web3-ready-beauty-brand-is-co-created-by-its-community-and-produced-using-ai-tech.md",
+      "title": "This Web3 Ready Beauty Brand Is Co-Created By Its Community And Produced Using AI Tech",
+      "excerpt": "Web3 ready beauty brand KIKI is co-created by its community who can vote on the products that go to market and is also made using AI tech",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/stephaniehirschmiller/2023/05/16/this-web3-ready-beauty-brand-is-co-created-by-its-community-and-produced-using-ai-tech/",
+      "originalUrl": "https://www.forbes.com/sites/stephaniehirschmiller/2023/05/16/this-web3-ready-beauty-brand-is-co-created-by-its-community-and-produced-using-ai-tech/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/646234f2e8052ab0dec2ff1a/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/stephaniehirschmiller/2023/05/16/this-web3-ready-beauty-brand-is-co-created-by-its-community-and-produced-using-ai-tech/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stephaniehirschmiller/2023/05/16/this-web3-ready-beauty-brand-is-co-created-by-its-community-and-produced-using-ai-tech/amp/",
+      "publishedDateTime": "2023-05-15T22:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-16-bluesky-digital-assets-corp-announces-intent-to-repurpose-its-gpu-assets-based-on-ai-demand.md",
+      "title": "Bluesky Digital Assets Corp., Announces Intent to Repurpose its GPU Assets Based on AI Demand",
+      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Toronto, Ontario, May 15, 2023 (Newsfile Corp via COMTEX) -- Toronto, Ontario--(Newsfile Corp. - May 15, 2023) - Bluesky Digital Assets Corp., (CSE: BTC) (OTCQB: BTCWF ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/bluesky-digital-assets-corp-announces-intent-to-repurpose-its-gpu-assets-based-on-ai-demand-2023-05-15",
+      "originalUrl": "https://www.marketwatch.com/press-release/bluesky-digital-assets-corp-announces-intent-to-repurpose-its-gpu-assets-based-on-ai-demand-2023-05-15",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-15T19:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-16-worlds-first-self-driving-bus-rolls-out-in-scotland.md",
+      "title": "World’s first self-driving bus rolls out in Scotland",
+      "excerpt": "The world’s first self-driving bus rolled out in Scotland carrying passengers on a regularly scheduled route. NBC News’ Matt Bradley reports on the future of public transport.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/now/video/world-s-first-self-driving-bus-rolls-out-in-scotland-174465605630",
+      "originalUrl": "https://www.nbcnews.com/now/video/world-s-first-self-driving-bus-rolls-out-in-scotland-174465605630",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_05/1684202953745_now_staytuned_scotland_230515_1920x1080-uvfure.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo174465605630",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo174465605630",
+      "publishedDateTime": "2023-05-15T19:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-16-online-search-to-make-up-lost-time-with-ai.md",
+      "title": "Online Search To Make Up Lost Time With AI",
+      "excerpt": "Online search, dominated by Google for 25 years, has become as banal as making a phone call, but it could finally be getting a profound reset thanks to artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.barrons.com/news/online-search-to-make-up-lost-time-with-ai-8ef011d",
+      "originalUrl": "https://www.barrons.com/news/online-search-to-make-up-lost-time-with-ai-8ef011d",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.barrons.com/asset/external-media/afp/AFP4218075234965310178666011516179357766924---1.jpg",
+          "width": 768,
+          "height": 482,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.barrons.com/amp/news/online-search-to-make-up-lost-time-with-ai-8ef011d",
+      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/online-search-to-make-up-lost-time-with-ai-8ef011d",
+      "publishedDateTime": "2023-05-15T18:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Barron's",
+        "domain": "barrons.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-16-friend-or-foe-defining-industry-responsibility-for-ai-based-technology.md",
+      "title": "Friend or foe: Defining industry responsibility for AI-based technology",
+      "excerpt": "AI holds the power to dramatically change the world. Why enterprises must continually evaluate their stance on the purpose and use of AI.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/friend-or-foe-defining-industry-responsibility-for-ai-based-technology/",
+      "originalUrl": "https://venturebeat.com/ai/friend-or-foe-defining-industry-responsibility-for-ai-based-technology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1171820924.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 624,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/friend-or-foe-defining-industry-responsibility-for-ai-based-technology/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/friend-or-foe-defining-industry-responsibility-for-ai-based-technology/amp/",
+      "publishedDateTime": "2023-05-15T18:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-16-ai-biotechnology-show-its-time-to-think-past-bicycles-for-the-mind.md",
+      "title": "AI & Biotechnology Show It’s Time To Think Past Bicycles For The Mind",
+      "excerpt": "As we enter a new era of artificial intelligence and biotechnology, Jobs's framing of computer technology takes on new significance, but also shows its limitations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/ebenbayer/2023/05/15/ai--biotechnology-show-its-time-to-think-past-bicycles-for-the-mind/",
+      "originalUrl": "https://www.forbes.com/sites/ebenbayer/2023/05/15/ai--biotechnology-show-its-time-to-think-past-bicycles-for-the-mind/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6462d37eadb409b3cadd3ff9/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/ebenbayer/2023/05/15/ai--biotechnology-show-its-time-to-think-past-bicycles-for-the-mind/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ebenbayer/2023/05/15/ai--biotechnology-show-its-time-to-think-past-bicycles-for-the-mind/amp/",
+      "publishedDateTime": "2023-05-15T17:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-16-west-virginia-lawmakers-hear-testimony-about-risks-benefits-of-ai.md",
+      "title": "West Virginia Lawmakers Hear Testimony About Risks, Benefits of AI",
+      "excerpt": "Experts shared the benefits and risks posed by quickly emerging AI systems. In addition to the standard security concerns the technology brings, experts were quick to share some of the workforce efficiencies it provides as well.",
+      "sourceUrl": null,
+      "webUrl": "https://www.govtech.com/artificial-intelligence/west-virginia-lawmakers-hear-testimony-about-risks-benefits-of-ai",
+      "originalUrl": "https://www.govtech.com/artificial-intelligence/west-virginia-lawmakers-hear-testimony-about-risks-benefits-of-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://erepublic.brightspotcdn.com/dims4/default/b3d4ac8/2147483647/strip/true/crop/940x490+0+68/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F4d%2F69%2F1ac3ed2fcbc1fcb278e86144eb01%2Fshutterstock-1301147023.jpg",
+          "width": 840,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.govtech.com/artificial-intelligence/west-virginia-lawmakers-hear-testimony-about-risks-benefits-of-ai?_amp=true",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/artificial-intelligence/west-virginia-lawmakers-hear-testimony-about-risks-benefits-of-ai?_amp=true",
+      "publishedDateTime": "2023-05-15T17:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-16-alphabets-intrinsic-launches-flowstate-a-robotic-app-development-platform.md",
       "title": "Alphabet’s Intrinsic launches Flowstate, a robotic app development platform",
       "excerpt": "This morning, the company announced its first product, Flowstate, a development platform designed to help non-roboticists.",
@@ -106,7 +440,7 @@
       "originalUrl": "https://www.zdnet.com/article/tsa-is-testing-facial-recognition-at-u-s-airports-heres-what-that-means-for-you/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 318,
+      "heat": 328,
       "tags": null,
       "images": [
         {
@@ -158,7 +492,7 @@
       "originalUrl": "https://www.nbcnews.com/meet-the-press/video/fmr-google-ceo-says-no-one-in-government-can-get-ai-regulation-right-174442053869",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -445,50 +779,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-16-google-is-accelerating-a-little-too-fast-into-the-ai-unknown.md",
-      "title": "Google is accelerating a little too fast into the AI unknown",
-      "excerpt": "Google has announced that new tech for generating content will be added to Gmail, Google Docs, Google Maps and Google Photos, as well as its search engine. The search giant is aiming to enhance its core products with artificial intelligence (AI),",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/opinion/columns/googles-ai-arms-race-rush-to-stuff-generative-ai-into-services-but-risk-eroding-trust-of-consumers-and-advertising-customers-11684173426813.html",
-      "originalUrl": "https://www.livemint.com/opinion/columns/googles-ai-arms-race-rush-to-stuff-generative-ai-into-services-but-risk-eroding-trust-of-consumers-and-advertising-customers-11684173426813.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.livemint.com/img/2018/12/28/600x338/Opinion_1545994499293.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/opinion/columns/googles-ai-arms-race-rush-to-stuff-generative-ai-into-services-but-risk-eroding-trust-of-consumers-and-advertising-customers/amp-11684173426813.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/opinion/columns/googles-ai-arms-race-rush-to-stuff-generative-ai-into-services-but-risk-eroding-trust-of-consumers-and-advertising-customers/amp-11684173426813.html",
-      "publishedDateTime": "2023-05-15T10:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI Hardware"
       ]
     },
     {
@@ -938,309 +1228,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-15-leveraging-partnerships-technology-and-design-to-enhance-water-quality-through-the-inaugural-aquality-app.md",
-      "title": "Leveraging partnerships, technology, and design to enhance water quality through the inaugural Aquality app",
-      "excerpt": "Summary:&#160; Maintaining good water quality is crucial for the overall well-being of people and the environment. Yet, Our World in Data reports that one in four people do not have access to safe drinking water. The world is making progress on clean water and sanitation, but is still far behind its",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/leveraging-partnerships-technology-and-design-to-enhance-water-quality-through-the-inaugural-aquality-app/",
-      "originalUrl": "https://www.ibm.com/blog/leveraging-partnerships-technology-and-design-to-enhance-water-quality-through-the-inaugural-aquality-app/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/05/Leveraging-partnerships-technology-and-design-to-enhance-water-quality-through-the-inaugural-Aquality-app-630x330.jpg",
-          "width": 630,
-          "height": 330,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-15T08:57:17-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-15-self-driving-wheelchair-market-size-investigation-report-2023-2030-by-absolute-reports-in-healthcare-medical-devices-industry-with-104-pages.md",
-      "title": "Self Driving Wheelchair Market Size Investigation Report 2023-2030 by Absolute Reports in Healthcare , Medical Devices Industry | with [104 Pages]",
-      "excerpt": "May 15, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry. The Global \"Self Driving Wheelchair",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/self-driving-wheelchair-market-size-investigation-report-2023-2030-by-absolute-reports-in-healthcare-medical-devices-industry-with-104-pages-2023-05-15",
-      "originalUrl": "https://www.marketwatch.com/press-release/self-driving-wheelchair-market-size-investigation-report-2023-2030-by-absolute-reports-in-healthcare-medical-devices-industry-with-104-pages-2023-05-15",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-15T07:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-05-15-ai-isnt-coming-for-your-job-but-spotlights-outdated-learning-development-practices.md",
-      "title": "AI Isn’t Coming For Your Job, But Spotlights Outdated Learning & Development Practices",
-      "excerpt": "Given the rapid advancement in what technology can do for businesses, companies must approach learning & development more innovatively to equip their people to maintain relevant skills.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lindsaykohler/2023/05/15/ai-isnt-coming-for-your-job-but-spotlights-outdated-learning--development-practices/",
-      "originalUrl": "https://www.forbes.com/sites/lindsaykohler/2023/05/15/ai-isnt-coming-for-your-job-but-spotlights-outdated-learning--development-practices/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64623f34728c3728e4dd3ff9/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 673,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lindsaykohler/2023/05/15/ai-isnt-coming-for-your-job-but-spotlights-outdated-learning--development-practices/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lindsaykohler/2023/05/15/ai-isnt-coming-for-your-job-but-spotlights-outdated-learning--development-practices/amp/",
-      "publishedDateTime": "2023-05-15T07:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-15-microsofts-in-house-ai-chip-could-hasten-product-rollout-cut-costs.md",
-      "title": "Microsoft’s in-house AI chip could ‘hasten’ product rollout, cut costs",
-      "excerpt": "Microsoft is reportedly working on its own chips for training AI models, which could help expand its cloud AI offerings and tighten competition with rivals AWS and Google Cloud. The move could allow Microsoft to further expand its generative AI products,",
-      "sourceUrl": null,
-      "webUrl": "https://www.techcentral.ie/microsofts-in-house-ai-chip-could-hasten-product-rollout-cut-costs/",
-      "originalUrl": "https://www.techcentral.ie/microsofts-in-house-ai-chip-could-hasten-product-rollout-cut-costs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techcentral.ie/wp-content/uploads/2023/05/Windows_2023.jpg",
-          "width": 620,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-15T07:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mozilla",
-        "domain": "techcentral.ie",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-15-artificial-intelligence-market-2023-to-experience-significant-growth-by-2030.md",
-      "title": "Artificial Intelligence Market 2023 to Experience Significant Growth by 2030",
-      "excerpt": "Global “Artificial Intelligence Market” 2023 | New Report | New Technology Global Industry | (94 Pages Report) With",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-2023-to-experience-significant-growth-by-2030-2023-05-15",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-2023-to-experience-significant-growth-by-2030-2023-05-15",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-15T06:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-15-cloud-partnerships-and-multi-year-contracts-look-before-you-leap.md",
-      "title": "Cloud Partnerships And Multi-Year Contracts: Look Before You Leap",
-      "excerpt": "Before you consider entering into such a strategic partnership where the cloud provider will use your services if you agree to spend a certain amount with them per year, my recommendation is to look before you leap.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbooksauthors/2023/05/15/cloud-partnerships-and-multi-year-contracts-look-before-you-leap/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbooksauthors/2023/05/15/cloud-partnerships-and-multi-year-contracts-look-before-you-leap/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/646235c328bd309432c2ff1a/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbooksauthors/2023/05/15/cloud-partnerships-and-multi-year-contracts-look-before-you-leap/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbooksauthors/2023/05/15/cloud-partnerships-and-multi-year-contracts-look-before-you-leap/amp/",
-      "publishedDateTime": "2023-05-15T06:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

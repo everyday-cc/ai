@@ -43,20 +43,6 @@ related:
         width: 1000
         height: 581
         isCached: true
-  - title: "Facial Recognition Devices Market Research, 2030"
-    excerpt: "Research Reports has published a new report titled as \"Facial Recognition Devices Market\" by End User (Security"
-    publishedDateTime: 2023-05-15T13:23:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-devices-market-research-2030-2023-05-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Facial Recognition Market Share, Size, Segmentation Analysis, Key segments and Forecast 2031"
     excerpt: "Global Facial Recognition Market – Drivers’ Restraints’ Opportunities’ Trends’ and Forecast up to 2025. Facial Recognition Market is approximately USD 5 billion market that is expected to double by 2025."
     publishedDateTime: 2023-05-15T15:10:00Z
@@ -82,20 +68,6 @@ related:
       name: Dataquest
       domain: dqindia.com
     quality: 55
-  - title: "Voice Recognition and Medical Transcription"
-    excerpt: "It would be unfair to look at voice-recognition transcription options without mentioning one of the largest movements in the medical transcription industry -- outsourcing transcription offshore."
-    publishedDateTime: 2023-05-12T00:01:00Z
-    webUrl: "https://www.medscape.com/viewarticle/487524_5"
-    type: article
-    provider:
-      name: Medscape
-      domain: medscape.com
-    quality: 24
-    images:
-      - url: "https://img.medscape.com/thumbnail_library/Social_Facebook_806x806.jpg"
-        width: 640
-        height: 640
-        isCached: true
   - title: "Genocide Recognition: an Australian story"
     excerpt: "May it appears is the month of genocide recognition amongst the Australian parliaments, with Tasmania being the latest one to adopt a resolution of recognition of the Genocides of the Hellenes, Armenians and Assyrians on Thursday 11 May."
     publishedDateTime: 2023-05-13T23:06:00Z

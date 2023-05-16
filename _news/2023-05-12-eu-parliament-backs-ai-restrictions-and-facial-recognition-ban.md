@@ -9,7 +9,7 @@ ampWebUrl: "https://www.research-live.com/amp-page.html?id=5112292&name=eu-parli
 cdnAmpWebUrl: "https://www-research--live-com.cdn.ampproject.org/c/s/www.research-live.com/amp-page.html?id=5112292&name=eu-parliament-backs-ai-restrictions-and-facial-recognition-ban"
 type: article
 quality: 74
-heat: 144
+heat: 124
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facial Recognition Devices Market Research, 2030"
-    excerpt: "Research Reports has published a new report titled as \"Facial Recognition Devices Market\" by End User (Security"
-    publishedDateTime: 2023-05-15T13:23:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-devices-market-research-2030-2023-05-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Europe eyes strict rules for artificial intelligence"
     excerpt: "No HAL 9000s or Ultrons on this continent, thank you very much. The European Union wants to avoid the worst of what artificial intelligence can do — think creepy facial recognition tech and many, many Black Mirror episodes — while still trying to boost ..."
     publishedDateTime: 2023-05-13T14:33:00Z
@@ -82,20 +68,6 @@ related:
       name: Dataquest
       domain: dqindia.com
     quality: 55
-  - title: "Voice Recognition and Medical Transcription"
-    excerpt: "It would be unfair to look at voice-recognition transcription options without mentioning one of the largest movements in the medical transcription industry -- outsourcing transcription offshore."
-    publishedDateTime: 2023-05-12T00:01:00Z
-    webUrl: "https://www.medscape.com/viewarticle/487524_5"
-    type: article
-    provider:
-      name: Medscape
-      domain: medscape.com
-    quality: 24
-    images:
-      - url: "https://img.medscape.com/thumbnail_library/Social_Facebook_806x806.jpg"
-        width: 640
-        height: 640
-        isCached: true
   - title: "Genocide Recognition: an Australian story"
     excerpt: "May it appears is the month of genocide recognition amongst the Australian parliaments, with Tasmania being the latest one to adopt a resolution of recognition of the Genocides of the Hellenes, Armenians and Assyrians on Thursday 11 May."
     publishedDateTime: 2023-05-13T23:06:00Z

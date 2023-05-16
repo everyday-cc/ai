@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/stability-ai-releases-an-op
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/stability-ai-releases-an-open-source-text-to-animation-tool/"
 type: article
 quality: 87
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -44,15 +44,20 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "OpenAI chief set to call for greater regulation of artificial intelligence"
-    excerpt: "OpenAI’s chief executive US lawmakers on Tuesday that regulation of artificial intelligence must allow companies to be flexible and a"
-    publishedDateTime: 2023-05-16T14:06:00Z
-    webUrl: "https://arstechnica.com/information-technology/2023/05/openai-chief-set-to-call-for-greater-regulation-of-artificial-intelligence/"
+  - title: "OpenAI, IBM Urge Senate to Act on AI Regulation After Past Tech Failures"
+    excerpt: "Executives from two major AI companies asked senators on Tuesday to pass regulations for the ground-breaking but nascent technology as rapid innovation raises ethical, legal and national security questions."
+    publishedDateTime: 2023-05-16T16:04:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-05-16/openai-ibm-urge-senate-to-act-on-ai-after-past-tech-failures"
     type: article
     provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 60
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 66
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i5znHSCG3Bh8/v2/1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Together raises $20M to decentralize and open-source AI model creation"
     excerpt: "Together, a startup that’s building a decentralized ... The funding will be used to support Together’s mission of creating a decentralized alternative to the closed AI systems winning all the plaudits today, such as OpenAI LP’s ChatGPT."
     publishedDateTime: 2023-05-16T02:24:00Z
@@ -67,6 +72,15 @@ related:
         width: 599
         height: 402
         isCached: true
+  - title: "OpenAI chief set to call for greater regulation of artificial intelligence"
+    excerpt: "OpenAI’s chief executive Sam Altman will tell US lawmakers on Tuesday that regulation of artificial intelligence must allow companies to be flexible and adapt to new technological developments, as the industry faces growing scrutiny by regulators around the world."
+    publishedDateTime: 2023-05-16T10:44:00Z
+    webUrl: "https://www.ft.com/content/aa3598f7-1470-45e4-a296-bd26953c176f"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 30
 
 secured: "UgNf6KnmRHoq5IPSGjazGLLJlUb84NtKOJ8Zm6d2mWkOpVRw6IrBGkSN4pFiVawC9rc3NcZfXA+ijSf6QRftcVsWEj4CB0vujwnrwiNXklc2v6AzjbfKQYZPgpxBYJvUw3iagEQsNKG0bEnXCvtszSnqIEFyZvZH2qPB1uFnnuz0gQnUczh0ig52R4lX51nJAyfGRZhjMX0blpKRDV3FBAO6edGPhNWICiz1d9NNY4uc5+Uo4X8CUCwpsNo92RUPEhG9oUDN3er53d6tN6L2ufmPEkFljvWYMCmisSJWx20z8vlUTHrOZ+0AHGM6gCuvh8O52dyC3tWBA7BkNl2zdPQk4S4fA27EBofnyeMAZNJOfz52tfOZfkpNkppl50ChIPP9NR+knKGyAtRYQpjmD6Q+8ORcdAncTid9J3ej0IV4ZVP7snt+TTgkjOSAZH8RzF73wz+iGywDjhur9/OOyYo/g1nOw8fIj/5w18+XGGcoO3sv+vIE5DXL20Pv++SzqQmZ7uc4+VGF4ImLnPNuvg==;5AWqcNlvGuyop+UjnOlUQw=="
 ---

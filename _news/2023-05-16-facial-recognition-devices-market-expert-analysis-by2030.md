@@ -43,10 +43,10 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Deep Learning in CT Scanners Market | 2030"
-    excerpt: "Precision Reports has published a new report titled as \" Deep Learning in CT Scanners Market \" by End User ( Hospital, Diagnostic Center, Research, Veterinary Clinic ), Types ( Stationary, Portable ),"
-    publishedDateTime: 2023-05-13T05:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-in-ct-scanners-market-2030-2023-05-13"
+  - title: "Speech Recognition Software Market Till 2030"
+    excerpt: "The Global Speech Recognition Software market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players,"
+    publishedDateTime: 2023-05-12T13:19:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-recognition-software-market-till-2030-2023-05-12"
     type: article
     provider:
       name: MarketWatch
@@ -57,15 +57,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Insurance Market | 2030"
-    excerpt: "Research Reports has published a new report titled as \" Artificial Intelligence in Insurance Market \" by End User ( Chatbots and Virtual Assistants, Fraud Detection, Customer Relationship Management,"
-    publishedDateTime: 2023-05-15T00:04:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-insurance-market-2030-2023-05-14"
+  - title: "Deep Learning in CT Scanners Market | 2030"
+    excerpt: "Precision Reports has published a new report titled as \" Deep Learning in CT Scanners Market \" by End User ( Hospital, Diagnostic Center, Research, Veterinary Clinic ), Types ( Stationary, Portable ),"
+    publishedDateTime: 2023-05-13T05:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-in-ct-scanners-market-2030-2023-05-13"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 67
+    quality: 69
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

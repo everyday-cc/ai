@@ -9,7 +9,7 @@ ampWebUrl: "https://www.devdiscourse.com/article/technology/2452129-the-top-fint
 cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2452129-the-top-fintech-disruptions-shaping-the-future-of-finance?amp"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "United Insurance among financials gainers; UP Fintech, LM Funding America in losers"
+    excerpt: "Gainers: Applied Digital (APLD) +47% on first AI customer news. United Insurance Holdings (UIHC ... Stronghold Digital Mining (SDIG) -11% on reverse stock split. UP Fintech Holding (TIGR) -9%. To ensure this doesn’t happen in the future, please ..."
+    publishedDateTime: 2023-05-16T16:11:00Z
+    webUrl: "https://seekingalpha.com/news/3972203-united-insurance-among-financials-gainers-up-fintech-lm-funding-america-in-losers"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 33
+    images:
+      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/487831223/image_487831223.jpg?io=getty-c-w750"
+        width: 750
+        height: 499
+        isCached: true
   - title: "Fintech or TechFins: Two Sides of the same coin of Bank Digital Transformation Space"
     excerpt: "TechFins support the end to end Digital Transformation of a process from Origination to Credit underwriting to disbursement and also servicing."
     publishedDateTime: 2023-05-15T11:32:00Z

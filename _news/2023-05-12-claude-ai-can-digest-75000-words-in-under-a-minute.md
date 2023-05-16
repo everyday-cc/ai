@@ -7,8 +7,8 @@ originalUrl: "https://www.pcmag.com/news/claude-ai-can-digest-75000-words-in-und
 webUrl: "https://www.pcmag.com/news/claude-ai-can-digest-75000-words-in-under-a-minute"
 type: article
 quality: 67
-heat: 77
-published: true
+heat: -1
+published: false
 
 provider:
   name: PC Magazine
@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "Zoom adds an AI assistant named Claude"
+    excerpt: "Zoom just announced a strategic partnership with Anthropic, an artificial intelligence company that conducts research into AI safety and develops tools based on that work. The collaboration will integrate Anthropic's AI assistant, Claude, into the Zoom platform, including the Zoom Contact Center."
+    publishedDateTime: 2023-05-16T15:57:00Z
+    webUrl: "https://www.zdnet.com/article/zoom-adds-an-ai-assistant-named-claude/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/zoom-adds-an-ai-assistant-named-claude/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/zoom-adds-an-ai-assistant-named-claude/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/4f754c9459ab8f8dc50dc11d25722250ef2b3b58/2023/05/15/511372b9-5860-453d-8962-a298f453f18c/zoom-robot.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Zoom adds its own AI assistant named Claude"
     excerpt: "Zoom just announced a strategic partnership with Anthropic, an artificial intelligence company that conducts research into AI safety and develops tools based on that work. The collaboration will integrate Anthropic's AI assistant, Claude, into the Zoom platform, including the Zoom Contact Center."
     publishedDateTime: 2023-05-16T13:00:00Z

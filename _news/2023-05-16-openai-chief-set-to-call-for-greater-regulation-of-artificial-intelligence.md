@@ -1,22 +1,18 @@
 ---
 category: news
 title: "OpenAI chief set to call for greater regulation of artificial intelligence"
-excerpt: "OpenAI’s chief executive US lawmakers on Tuesday that regulation of artificial intelligence must allow companies to be flexible and a"
-publishedDateTime: 2023-05-16T14:06:00Z
-originalUrl: "https://arstechnica.com/information-technology/2023/05/openai-chief-set-to-call-for-greater-regulation-of-artificial-intelligence/"
-webUrl: "https://arstechnica.com/information-technology/2023/05/openai-chief-set-to-call-for-greater-regulation-of-artificial-intelligence/"
+excerpt: "OpenAI’s chief executive Sam Altman will tell US lawmakers on Tuesday that regulation of artificial intelligence must allow companies to be flexible and adapt to new technological developments, as the industry faces growing scrutiny by regulators around the world."
+publishedDateTime: 2023-05-16T10:44:00Z
+originalUrl: "https://www.ft.com/content/aa3598f7-1470-45e4-a296-bd26953c176f"
+webUrl: "https://www.ft.com/content/aa3598f7-1470-45e4-a296-bd26953c176f"
 type: article
-quality: 60
+quality: 30
 heat: -1
 published: false
 
 provider:
-  name: Ars Technica
-  domain: arstechnica.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Financial Times
+  domain: ft.com
 
 topics:
   - AI
@@ -52,6 +48,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "OpenAI, IBM Urge Senate to Act on AI Regulation After Past Tech Failures"
+    excerpt: "Executives from two major AI companies asked senators on Tuesday to pass regulations for the ground-breaking but nascent technology as rapid innovation raises ethical, legal and national security questions."
+    publishedDateTime: 2023-05-16T16:04:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-05-16/openai-ibm-urge-senate-to-act-on-ai-after-past-tech-failures"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 66
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i5znHSCG3Bh8/v2/1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Together raises $20M to decentralize and open-source AI model creation"
     excerpt: "Together, a startup that’s building a decentralized ... The funding will be used to support Together’s mission of creating a decentralized alternative to the closed AI systems winning all the plaudits today, such as OpenAI LP’s ChatGPT."
     publishedDateTime: 2023-05-16T02:24:00Z
@@ -67,6 +77,6 @@ related:
         height: 402
         isCached: true
 
-secured: "0d7gwr6b8tcRpZ+rYfFOCM7ITOkpgt9d8LQCcq8cNxfPvJ5ANEiPwHkmrqBKo5lfRtK0hVe4eB2pcgJU2cXEd3ZA7QFp32wPwj1ojSDakz400N6zNWayi/snTvn6sqE1ieu56l5XAlP5aEZs6/JPLeiNX7+U4Yfpo3jPAyMm/FInsCsJ8NOdg5X5oK5lAUIrVwMY6P+BCYMOTghQxhpSH9C755bMQrrX/KFHKmprJ24259cnp6C0xK1GKHWwR3Ip0huSIfLQ4g7J65VyGrwF90cLZr3y7XlegjwpEWje8da3+wXNRinp2N6NA2ykDPg56FNYHzdhHP4qPY/za35E5yP47Q802I7iHshgjC+K5h+qWcMVj1IAq2our8gCRUbAKm3xriUZDwy/RgkF1J1iAXyv1tYRZ22FO3VZH5GTtZFbyQYDBmtGqLozg+hjYY34if1Pt3LJym16mJu2J+KJ61uvDDll1YlV7OtCSxY9sF2l8PaUggUSRADkJYB+nEck2vJkTreejowuMQKD7gIgHw==;ugpxxwnyHFY2EbLGQEsSkg=="
+secured: "cTeWTMHtUOPhu0N6O6Bb5SJZUEn0Jl0ovtbZRanSnZO5rmaQ3OpLzKBmKFWdY2pvW0N28gWmHjnIo61GHbu2lxZfRw5xfmSPfG/98oOsI3aSE5Gx+JxazuuFnN+7fvE9YwtDwhdoH6+6lyTMJW0ViaZ8Z0z9wbOLsEKahA5X0iIQPkqwkjnmjv3UweJhKAX0ifZupEL5cNsCQAO/T6mbsXBPH5koW9b0U1f/xK2otcRbCYPvQd8QYbwJC2yw1b0ZWpoZBcGXLr8WfMK/zs0SFLUTVEX1Mf/ShDRI9WRlFJ5rLh1bMjLxCoUv+2+Pex414HuuwXVnMLOziLlejDvZtBUS9oMOfr+i3kDwIHWoVwZe0UInq3tes6SOfVOoHwGSslTx5U59JGaZuPhrUQw3Y/EZR2pMRYMddkgaMuse/Zqa+vpWJ4+77KMCdKNk1suaqrvVIQpLGVZKqESDHW3hISVg0zIRpZ6dWlHxjClSCvLKOgDNaeUMv1+MBVl3h/lDjzbhyVM3/LG1xoj3NbZ7nQ==;R5X0FodPnrC0WJNtao79MA=="
 ---
 

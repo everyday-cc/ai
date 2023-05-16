@@ -23,20 +23,43 @@ topics:
   - AI
 
 related:
-  - title: "Natural Language Processing (NLP) Market To See Huge Growth By 2030 | Dolbey Systems, Google LLC"
-    excerpt: "Coherent Market Insights recently published a research titled \"natural language processing (nlp) market 2023\" that offers details for both the regional and worldwide markets and forecasts trends between 2023 and 2030."
-    publishedDateTime: 2023-05-12T13:24:00Z
-    webUrl: "https://menafn.com/1106233138/Natural-Language-Processing-NLP-Market-To-See-Huge-Growth-By-2030-Dolbey-Systems-Google-LLC"
+  - title: "Artificial Intelligence in Life Sciences Market by 2030"
+    excerpt: "Precision Reports has published a new report titled as \"Artificial Intelligence in Life Sciences Market\" by End User"
+    publishedDateTime: 2023-05-12T05:06:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-life-sciences-market-by-2030-2023-05-12"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 41
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 67
     images:
-      - url: "https://menafn.com/updates/pr/2023-05/12/EP_55327image_story.jpeg"
-        width: 600
-        height: 314
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
+  - title: "Artificial Intelligence Market 2023 to Experience Significant Growth by 2030"
+    excerpt: "Global “Artificial Intelligence Market” 2023 | New Report | New Technology Global Industry | (94 Pages Report) With"
+    publishedDateTime: 2023-05-15T13:48:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-2023-to-experience-significant-growth-by-2030-2023-05-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 64
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Oil and Gas Market by 2030"
+    excerpt: "Precision Reports has published a new report titled as \"Artificial Intelligence in Oil and Gas Market\" by End User"
+    publishedDateTime: 2023-05-13T05:16:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-oil-and-gas-market-by-2030-2023-05-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 47
 
 secured: "60lKpoyBIJKz68JgB1xQEBBJ7CAoNHq1ZjSFX6tNWxaCly3fDDBdza02fZUhfjglp29HcAIqkdjhTfKZxDVByW6z6hEszWMU6b/JrDDj8aJc8Rg6BJBPx4KCfJm1Elc8ejscEKd4HuRky3Vt2DqDWdobqF76gEdzLiJxLJgiBKEEdSuIE+r0g3cT3hnc6YhNu/rovJliaoC9xHx53ioJNUr8GIusm29Xa6BtULksTVFU91bOCJElYoVtDbT7ctDB+uUueYmgiynSl2kobvG3Gsg893DS1rIcI4mVWC9OhOzjqFSMXDRi+Ph0znku343u1n9YMG9WAlGHM/fVvqfwHwVA/GKzi9mKUyQOwgdUuDg=;BrPNYIicyHnvDf7IA8E6TQ=="
 ---

@@ -44,15 +44,20 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "OpenAI chief set to call for greater regulation of artificial intelligence"
-    excerpt: "OpenAI’s chief executive US lawmakers on Tuesday that regulation of artificial intelligence must allow companies to be flexible and a"
-    publishedDateTime: 2023-05-16T14:06:00Z
-    webUrl: "https://arstechnica.com/information-technology/2023/05/openai-chief-set-to-call-for-greater-regulation-of-artificial-intelligence/"
+  - title: "OpenAI, IBM Urge Senate to Act on AI Regulation After Past Tech Failures"
+    excerpt: "Executives from two major AI companies asked senators on Tuesday to pass regulations for the ground-breaking but nascent technology as rapid innovation raises ethical, legal and national security questions."
+    publishedDateTime: 2023-05-16T16:04:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-05-16/openai-ibm-urge-senate-to-act-on-ai-after-past-tech-failures"
     type: article
     provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 60
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 66
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i5znHSCG3Bh8/v2/1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Together raises $20M to decentralize and open-source AI model creation"
     excerpt: "Together, a startup that’s building a decentralized ... The funding will be used to support Together’s mission of creating a decentralized alternative to the closed AI systems winning all the plaudits today, such as OpenAI LP’s ChatGPT."
     publishedDateTime: 2023-05-16T02:24:00Z
@@ -67,6 +72,15 @@ related:
         width: 599
         height: 402
         isCached: true
+  - title: "OpenAI chief set to call for greater regulation of artificial intelligence"
+    excerpt: "OpenAI’s chief executive Sam Altman will tell US lawmakers on Tuesday that regulation of artificial intelligence must allow companies to be flexible and adapt to new technological developments, as the industry faces growing scrutiny by regulators around the world."
+    publishedDateTime: 2023-05-16T10:44:00Z
+    webUrl: "https://www.ft.com/content/aa3598f7-1470-45e4-a296-bd26953c176f"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 30
 
 secured: "EoLpJBcu2EX6SlXqTLK5R7+ZWYnkwPFwZyG4tN15VAa0Sjv7/lLLKlRhcR2Dm50JMpSeI8JWZvqkaRsnTeDHJD7Pg4AKAChTqc81IGZd6Gc6UwDuKBNbdHViy9xkuda1BtWONJv/RklapkV0hQW6pUqz1aQ6EuPPqFQ1WtFjmM5wxnuQ6VrZC6uy5w5aFlcWxqJ8U5ZsyLcCCF633gVdYFKCST75k1GweF/eZKP5Y+ASqRootcTPdu/nL8IuHQ0mrfjX0Bag5LCH2KduS92x/9QyqJME1rXH7zNyw1UEgEYWgcLr3ljZ6e3tFr4s4YBpYlwrmeffOTX/nPddSFLoCI64TYvEEYrqbca9RCIui0c=;YRJU2XlhXddd7WuC97C9JQ=="
 ---

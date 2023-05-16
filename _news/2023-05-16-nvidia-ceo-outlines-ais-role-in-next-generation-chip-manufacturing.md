@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2023/05/16/nvidia-ceo-outlines-ais-role-n
 webUrl: "https://siliconangle.com/2023/05/16/nvidia-ceo-outlines-ais-role-next-generation-chip-manufacturing/"
 type: article
 quality: 54
-heat: 64
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,36 @@ images:
     isCached: true
 
 related:
+  - title: "Nvidia CEO highlights accelerated computing and AI’s role in chip manufacturing at ITF World 2023"
+    excerpt: "Huang stressed the need for a new approach to meet the rising demand for computing power while addressing concerns regarding net-zero goals."
+    publishedDateTime: 2023-05-16T17:06:00Z
+    webUrl: "https://venturebeat.com/ai/nvidia-ceo-highlights-accelerated-computing-and-ais-role-in-chip-manufacturing-at-itf-world-2023/"
+    ampWebUrl: "https://venturebeat.com/ai/nvidia-ceo-highlights-accelerated-computing-and-ais-role-in-chip-manufacturing-at-itf-world-2023/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/nvidia-ceo-highlights-accelerated-computing-and-ais-role-in-chip-manufacturing-at-itf-world-2023/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 91
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/02/nvidia-ceo-jensen-huang-at-gtc-fall-2022-1.jpg?w=1200&strip=all"
+        width: 1200
+        height: 637
+        isCached: true
+  - title: "How Artificial Intelligence Is Used in Manufacturing"
+    excerpt: "neural networks; and robotics, which may be the most commonly used AI application in manufacturing. Altogether, artificial intelligence capabilities allow manufacturers to redeploy human labor to jobs that machines can't yet do and to make production more ..."
+    publishedDateTime: 2023-05-16T13:46:00Z
+    webUrl: "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/ai-in-manufacturing/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 71
+    images:
+      - url: "https://m.foolcdn.com/media/dubs/images/Robot-AI-image-Getty-Images.width-600.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "Chip manufacturing ‘Ideal Application’ for AI"
     excerpt: "NVIDIA CEO Jensen Huang outlines the role of accelerated computing and AI in address to semiconductor industry leaders at ITF World 2023."
     publishedDateTime: 2023-05-16T12:12:00Z
@@ -34,6 +64,15 @@ related:
       name: New Electronics
       domain: newelectronics.co.uk
     quality: 34
+  - title: "Nvidia turns to AI to speed up manufacturing"
+    excerpt: "More for less to put this widget in that thing, Nvidia founder Jensen Huang said that artificial intelligence was being used to accelerate computer chip manufacturing and create advanced microprocessors."
+    publishedDateTime: 2023-05-16T09:54:00Z
+    webUrl: "https://www.fudzilla.com/news/ai/56897-nvidia-turns-to-ai-to-speed-up-manufacturing"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 19
 
 secured: "QzL7xOPzi7jxbintTPhzEn1AEl4UtZNadZ/0oUQZPy1Ob/i6eOlkG76IlZIsqzoKFMuVSJAz/g3rmURm/ZVqMZbDCL3f/PV+vjyZXsG/W+PUpbh8TbYBS4Ay1wnsbay3jvc4+UPNhh15w9WcqpEUfSS1D/kj8ZC6jBeo0vLQRXqLE/tAtmRx4PJg/fIaL8czogQfd7SJ20z4e0knkNLTD/YnIjBGLRltS2xE855oroeQx9zwEJZFfDJmfC4p+/ZTtVaZAX2AnV8sDONFZu7kxQbd+0P7uPbVqa4Egct6/jWZMijx9kGjIPbjoBC9Iuaff2u9vXO84+QW2piexLNafk2p0yrWEAW7F/Pdx+QJ8k4cHa/G/UcA7YEl9y97lDyzstDUeJqg6I3cq2It5wXNrQAJmmAwGc+20EkYUZTX1ujzAq1URmvIzl4Vt6jOTtxSDlNJ/xs9rpqKSWQTdeOUS1Rxd/woO6JOiCDENHjg2BdHKTqSqmJvPOZn49VocthxpnBGf8IPRaTJbQ67z+i+VA==;AvmZkH/B3OU7nR9G39G+XA=="
 ---

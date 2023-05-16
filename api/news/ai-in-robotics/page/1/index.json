@@ -2,49 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2023-05-16-amazon-plans-to-use-robots-ai-to-speed-up-deliveries.md",
-      "title": "Amazon plans to use robots, AI to speed up deliveries",
-      "excerpt": "Approximately 75 percent of Amazon customer orders involve the use of robotics to some extent.. Amazon plans to use robots, AI to speed up deliveries. AI, Amazon, delivery, logistics, robotics, Robots.",
-      "sourceUrl": null,
-      "webUrl": "https://www.itp.net/emergent-tech/amazon-plans-to-use-robots-ai-to-speed-up-deliveries",
-      "originalUrl": "https://www.itp.net/emergent-tech/amazon-plans-to-use-robots-ai-to-speed-up-deliveries",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.itp.net/cloud/2023/01/05/Amazon.jpeg",
-          "width": 1726,
-          "height": 1214,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-16T00:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GDPR fines",
-        "domain": "itp.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-05-16-alphabets-intrinsic-launches-flowstate-a-robotic-app-development-platform.md",
       "title": "Alphabet’s Intrinsic launches Flowstate, a robotic app development platform",
       "excerpt": "This morning, the company announced its first product, Flowstate, a development platform designed to help non-roboticists.",
@@ -157,7 +114,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-and-robotics-in-aerospace-and-defense-market-outlook-and-forecast-to-2030-airbus-se-general-electric-the-boeing-company-2023-05-15",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": 86,
       "tags": null,
       "images": [
         {
@@ -879,6 +836,49 @@
         "AI in Robotics",
         "AI",
         "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-10-are-there-robot-proof-jobs.md",
+      "title": "Are There Robot-proof Jobs?",
+      "excerpt": "Robots work well in perfectly controlled environments, such as factories and warehouses, and not in ad hoc environments like your aunt Sue’s attic. Forest rangers and electricians are a couple of jobs like this that come to mind, but there are many more.",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/automation-motion-control/are-there-robot-proof-jobs",
+      "originalUrl": "https://www.designnews.com/automation-motion-control/are-there-robot-proof-jobs",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/FourthAgeCover.jpg",
+          "width": 1400,
+          "height": 2113,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-09T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
       ]
     },
     {

@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/mttr-vs-mtbf/"
 webUrl: "https://www.ibm.com/blog/mttr-vs-mtbf/"
 type: article
 quality: 102
-heat: 103
+heat: 102
 published: true
 
 provider:

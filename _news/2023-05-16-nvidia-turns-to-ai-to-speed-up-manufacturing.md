@@ -19,28 +19,58 @@ topics:
   - AI
 
 related:
-  - title: "Amazon plans to use robots, AI to speed up deliveries"
-    excerpt: "Approximately 75 percent of Amazon customer orders involve the use of robotics to some extent.. Amazon plans to use robots, AI to speed up deliveries. AI, Amazon, delivery, logistics, robotics, Robots."
-    publishedDateTime: 2023-05-16T07:20:00Z
-    webUrl: "https://www.itp.net/emergent-tech/amazon-plans-to-use-robots-ai-to-speed-up-deliveries"
+  - title: "Nvidia CEO highlights accelerated computing and AI’s role in chip manufacturing at ITF World 2023"
+    excerpt: "Huang stressed the need for a new approach to meet the rising demand for computing power while addressing concerns regarding net-zero goals."
+    publishedDateTime: 2023-05-16T17:06:00Z
+    webUrl: "https://venturebeat.com/ai/nvidia-ceo-highlights-accelerated-computing-and-ais-role-in-chip-manufacturing-at-itf-world-2023/"
+    ampWebUrl: "https://venturebeat.com/ai/nvidia-ceo-highlights-accelerated-computing-and-ais-role-in-chip-manufacturing-at-itf-world-2023/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/nvidia-ceo-highlights-accelerated-computing-and-ais-role-in-chip-manufacturing-at-itf-world-2023/amp/"
     type: article
     provider:
-      name: GDPR fines
-      domain: itp.net
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 91
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/02/nvidia-ceo-jensen-huang-at-gtc-fall-2022-1.jpg?w=1200&strip=all"
+        width: 1200
+        height: 637
+        isCached: true
+  - title: "How Artificial Intelligence Is Used in Manufacturing"
+    excerpt: "neural networks; and robotics, which may be the most commonly used AI application in manufacturing. Altogether, artificial intelligence capabilities allow manufacturers to redeploy human labor to jobs that machines can't yet do and to make production more ..."
+    publishedDateTime: 2023-05-16T13:46:00Z
+    webUrl: "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/ai-in-manufacturing/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 71
+    images:
+      - url: "https://m.foolcdn.com/media/dubs/images/Robot-AI-image-Getty-Images.width-600.jpg"
+        width: 600
+        height: 450
+        isCached: true
+  - title: "Nvidia CEO outlines AI’s role in next-generation chip manufacturing"
+    excerpt: "To meet this demand, Nvidia has emerged at the forefront of a new approach that involves coupling the parallel processing capabilities of graphics processing units with CPUs. It’s this new approach that sparked the AI revolution,"
+    publishedDateTime: 2023-05-16T09:01:00Z
+    webUrl: "https://siliconangle.com/2023/05/16/nvidia-ceo-outlines-ais-role-next-generation-chip-manufacturing/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
     quality: 54
     images:
-      - url: "https://www.itp.net/cloud/2023/01/05/Amazon.jpeg"
-        width: 1726
-        height: 1214
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/05/manufacturing-press-imec-keynote-blog-1920x1080.jpg"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "How Amazon uses robots, AI to speed up deliveries?"
-    excerpt: "Nearly 75% of all Amazon's customer orders involve the use of robotics to some extent.. How Amazon uses robots, AI to speed up deliveries?. amazon, ecommerce, logistics, NEWS. Logistics."
-    publishedDateTime: 2023-05-16T08:20:00Z
-    webUrl: "https://www.logisticsmiddleeast.com/logistics/amazon-robots-ai"
+  - title: "Chip manufacturing ‘Ideal Application’ for AI"
+    excerpt: "NVIDIA CEO Jensen Huang outlines the role of accelerated computing and AI in address to semiconductor industry leaders at ITF World 2023."
+    publishedDateTime: 2023-05-16T12:12:00Z
+    webUrl: "https://www.newelectronics.co.uk/content/features/chip-manufacturing-ideal-application-for-ai"
     type: article
     provider:
-      name: Logistics Middle East
-      domain: logisticsmiddleeast.com
+      name: New Electronics
+      domain: newelectronics.co.uk
     quality: 34
 
 secured: "ykursETV+9jbqOziGdViB9jpyxa+d0pge9LVyVu72iAnL/nTDnCyKZydixWLrTzm/sPQu5d2CBBv71avRAvD0EGt5vdaELbTaVEDMmPrai84ZVMkW9fRPZWmDdMUT2JPxDIAZ7oRbBtqkVb+3kVpJiklHrMGpEIesOerYXusGKaJR3tJkkv7IIzlb+9SLAsD7ZAlcBfsBSj4RKR6lxlczbluJdqDasWF2HqL5ywhce7V/SpFWY3LxSCEDEX97zHo46xdCS7r9Xect1liQIFZItzrEzWKwPYw8AZuvFakUDZoug48ENstK0iynSGZqlV7XIzvQnroFJWfnynigy5NtRr5J+zM/zTkZJTs4TM3Yn4=;aV9Xhr1ODZF/Sj4SXdM5bQ=="
