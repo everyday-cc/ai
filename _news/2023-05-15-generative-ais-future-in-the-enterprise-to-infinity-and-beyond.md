@@ -18,19 +18,19 @@ topics:
   - AI
 
 related:
-  - title: "The Surprising Synergy Between Acupuncture and AI"
-    excerpt: "Now that I work in machine learning, I’m often struck by the parallels between this cutting-edge technology and traditional Chinese medicine."
-    publishedDateTime: 2023-05-11T11:00:00Z
-    webUrl: "https://www.wired.com/story/machine-learning-chinese-medicine-acupuncture-study-design/"
+  - title: "Generative AI Landscape: Current and Future Trends"
+    excerpt: "The generative AI landscape is expanding rapidly, and offers great benefits even as it presents enormous challenges."
+    publishedDateTime: 2023-05-11T20:27:00Z
+    webUrl: "https://www.eweek.com/artificial-intelligence/generative-ai-landscape/"
     type: article
     provider:
-      name: Wired
-      domain: wired.com
+      name: eWeek
+      domain: eweek.com
     quality: 69
     images:
-      - url: "https://media.wired.com/photos/645c1ec952bb92d7ad7c3041/191:100/w_1280,c_limit/ideas_acupuncture_medicine_ai_machine.jpg"
-        width: 1280
-        height: 670
+      - url: "https://www.eweek.com/wp-content/uploads/2023/04/top-generative-ai-companies.png"
+        width: 1400
+        height: 933
         isCached: true
 
 secured: "p2rfIPCEFovN54kLxrbU/n/YNf/D1/kvbiyt1p8psMQTX5Q1hOWaGk6QuGY056NyKuyMWZr+dpBcGr/XtOCc8zZk3/rUVMWmFVxTswj0+ZiriSBC5Ilf6FiARVWhYHdm9n5zbT5knr9CvBkLrOyMILyzRIUXXaozf/kfbJvV0KA2EfZtCkgdHHHYNv+qUD985YwKwp4koKPcjvbuidaX6nOeVMSJMdf2oyYHD6HMkCXjrfl/v1b721P9NQe4XDm8jzwBusagkS5IrzpKL3RVnd+gUO5C3SSJIvXM6ZY5e5ykwwKLsOci8/+a8G+sWC5E5lmDPYwRKwP4B70YZW6gqLCnZq3mavPwst/wQQm9MtXiHdftjiBMEBUVVc++flemZwfcEIygp1/J/SlN2RwUQcTc1mBeavKGv+7gYudxj08OVcbwhhgdtvcr07mUBsXc20k+/qAeIvBPfwqO/cfQlMfGzUo2c2pxVqeZif82zTkAQzk3CWwemZLGwOw6RchSMsSimbbpaIdfPK44CI8OkA==;z93ovnuU7THAVKjxksCvWg=="

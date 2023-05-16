@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "How Europe is at the forefront of building artificial intelligence guardrails"
-    excerpt: "Authorities around the world are racing to draw up rules for artificial intelligence, including in the European Union, where draft legislation faced a pivotal moment on Thursday. A"
-    publishedDateTime: 2023-05-11T09:44:00Z
-    webUrl: "https://kdvr.com/news/technology/how-europe-is-building-artificial-intelligence-guardrails/"
-    ampWebUrl: "https://kdvr.com/news/technology/how-europe-is-building-artificial-intelligence-guardrails/amp/"
-    cdnAmpWebUrl: "https://kdvr-com.cdn.ampproject.org/c/s/kdvr.com/news/technology/how-europe-is-building-artificial-intelligence-guardrails/amp/"
-    type: article
-    provider:
-      name: FOX31 Denver
-      domain: kdvr.com
-    quality: 69
-    images:
-      - url: "https://kdvr.com/wp-content/uploads/sites/11/2023/05/645cb94a2eb286.56802250.jpeg?w=1280"
-        width: 1280
-        height: 853
-        isCached: true
   - title: "Europe eyes strict rules for artificial intelligence"
     excerpt: "No HAL 9000s or Ultrons on this continent, thank you very much. The European Union wants to avoid the worst of what artificial intelligence can do — think creepy facial recognition tech and many, many Black Mirror episodes — while still trying to boost ..."
     publishedDateTime: 2023-05-13T14:33:00Z

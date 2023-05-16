@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "Parablu to Deliver Microsoft Azure-Hosted Cybersecurity and Data Resiliency SaaS Solutions"
+    excerpt: "Parablu will leverage Microsoft Cloud infrastructure and services –– Microsoft Azure and Microsoft 365 to deliver scalable ... making it easier for customers as well as AI tools to find and use this data effectively. \"With more knowledge workers ..."
+    publishedDateTime: 2023-05-16T03:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/parablu-to-deliver-microsoft-azure-hosted-cybersecurity-and-data-resiliency-saas-solutions-2023-05-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 74
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence And Cybersecurity: For Good Or Evil?"
     excerpt: "AI has been used by cybercriminals for years to hone and improve their malicious efforts, and it’s highly unlikely they’ll retreat to previous methods. As such, it’s critical to maintain and develop AI in cybersecurity to counter existing and emergent threats."
     publishedDateTime: 2023-05-15T13:45:00Z
@@ -37,34 +51,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 46
-  - title: "Cybersecurity faces a challenge from artificial intelligence’s rise"
-    excerpt: "Many veteran security professionals deride what they call “security by obscurity,” where targets plan on surviving hacking attempts by hiding what programs they depend on or how those programs work. Such a defense is often arrived at not by design but as a convenient justification for not replacing older, specialized software."
-    publishedDateTime: 2023-05-11T11:00:00Z
-    webUrl: "https://www.washingtonpost.com/technology/2023/05/11/hacking-ai-cybersecurity-future/"
-    type: article
-    provider:
-      name: The Washington Post
-      domain: washingtonpost.com
-    quality: 37
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/G7R756IPWQ5AV6I2OVSD6FZ65Q.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "6 Takeaways From Fintech Nexus: Networking, ChatGPT, Cybersecurity, and More"
-    excerpt: "At one of the largest U.S. fintech shows, getting information about the intricacies of the products and services offered by exhibitors was difficult."
-    publishedDateTime: 2023-05-15T16:04:00Z
-    webUrl: "https://www.cfo.com/technology/2023/05/fintech-nexus-new-york-company-culture-networking-chaptgpt-ai-crypto-blockchain-cybersecurity/"
-    type: article
-    provider:
-      name: CFO
-      domain: cfo.com
-    quality: 21
-    images:
-      - url: "https://assets.cfo.com/images/Zz0zMDhjNDkwMGYzMzAxMWVkODU1MDI2MzU0ZDc4NGZiZQ==?width=1200"
-        width: 1200
-        height: 813
-        isCached: true
 
 secured: "X80jOCwSyv6l+r+T4KfAk6NIhAvdM9fhtiW53G6gsD8kw9UaHujVUzGhebYRdpg8z/PU637JZ7FkSO8yLmiBd2J0eHdvGTk4rF0vC32LSWYGZXUgL41iUW5BQ/iNNPKq+Fmb8g5OoDJnl1R0cqDzo7w7ZryqubxU3xhruB/jvOrFU96n4Y+Bmt47YqhcW4WX+jjZlb8ha26mwM4nqS/s8gBLUQZI1nuwbADYaVJ9SWePkt3Mw1vbtmNUCgkBaHsUTn4slQs9rRJ719RLjJvNK5aNEaI4CpolSkePDkgsMjcLi8Lu3ev6YZpKqntGUK+9dnl4zZEzeMNAvCh6xnJ9dPdrYd+CU6RKZOFId9gMPzg=;aN/v3HL5/A8J0nbKX8nyfA=="
 ---

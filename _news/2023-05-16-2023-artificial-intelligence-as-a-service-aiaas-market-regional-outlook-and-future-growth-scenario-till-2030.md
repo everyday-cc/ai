@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence Market 2023 to Experience Significant Growth by 2030"
+    excerpt: "Global “Artificial Intelligence Market” 2023 | New Report | New Technology Global Industry | (94 Pages Report) With"
+    publishedDateTime: 2023-05-15T13:48:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-2023-to-experience-significant-growth-by-2030-2023-05-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 64
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "2030, Artificial Intelligence in Construction Market Growth | Future Prospects and Competitive Analysis"
     excerpt: "The \"Artificial Intelligence in Construction Market\" is one of the sectors that is expanding the fastest, thus it"
     publishedDateTime: 2023-05-11T22:09:00Z
@@ -51,6 +65,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 51
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Voice Recognition Market: Future Demands and Projected Industry Growths to 2028"
+    excerpt: "The voice recognition market is expected to exhibit substantial growth by 2028, owing to notable technological advancements in the sector. Additionally, prevalent incorporation of the technology in diverse applications is likely to further drive market expansion through the forecast period."
+    publishedDateTime: 2023-05-15T14:54:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-future-demands-and-projected-industry-growths-to-2028-2023-05-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

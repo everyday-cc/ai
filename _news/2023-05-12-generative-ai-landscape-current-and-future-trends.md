@@ -7,8 +7,8 @@ originalUrl: "https://www.eweek.com/artificial-intelligence/generative-ai-landsc
 webUrl: "https://www.eweek.com/artificial-intelligence/generative-ai-landscape/"
 type: article
 quality: 69
-heat: -1
-published: false
+heat: 79
+published: true
 
 provider:
   name: eWeek
@@ -29,15 +29,15 @@ images:
     isCached: true
 
 related:
-  - title: "Megatrends: AI and Robotics"
-    excerpt: "Exhibit A in the global megatrends arena is technological innovation, particularly artificial intelligence, or AI, and its impact on critical technology sectors like robotics, machine learning and ..."
-    publishedDateTime: 2023-05-11T09:44:00Z
-    webUrl: "https://money.usnews.com/investing/articles/megatrends-ai-and-robotics"
+  - title: "Generative AI’s future in the enterprise: To infinity and beyond"
+    excerpt: "Breathtaking generative AI models and applications like OpenAI’s GPT3 and ChatGPT are unleashing new possibilities across enterprises everywhere. But while wicked smart, they’re still learning and evolving — and causing an existential stir."
+    publishedDateTime: 2023-05-15T14:00:00Z
+    webUrl: "https://www.fastcompany.com/90896021/generative-ais-future-in-the-enterprise-to-infinity-and-beyond"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 81
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 17
 
 secured: "BsxmyflqdyLf86HcrdB4Z8yFaDc7ajBMU4DMlICUaeq4jkwv4j1XhwNMf3LMCeQhF/oIsNg8SKmLQywoXAS4OaNuRCJWpbwe7osTlZEpoU3NKmWCH7wx+TlX0Jr2cAW56Uk5ACi1PsOIRLIGmjvVuuKrOKmOvQSywhs30TjwA0xCmQeXur9KC5MFBORwYHMseIn4ZH+/hhMiScUlwErNQQpFssCDTXu1S0V82I9Dnbd79xUelP+bfldBJil/TBwKqsfuSUhy3UanexhI75kPhq2D0BfT2EXYvsxOgIJxT6IyUs2PT2SGG1Rdg1wU3nRbEgeqoKzsANTAX6IY0/GYR5C37s/ek7sWtPmSqX9AT7U3+g5y/R1ulP1P+rli/3nIz9Kb6eazkBM6huBxXYlFkJja3prsMkEkJlfNJc8KE6YFHS/h007W1dFDy4oNOSkDOK8h9yamEkMxdbGcM3N4ryLxULMxF6KlFOxoZ7ok/anGypI2hoMZaX5dEol6SwCw37NGHkJA6QH0NIJKFPixIg==;YomQX44CWIzYKj4zQvRnRg=="
 ---

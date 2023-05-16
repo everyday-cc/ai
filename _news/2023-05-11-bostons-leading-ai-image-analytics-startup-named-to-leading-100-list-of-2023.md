@@ -57,15 +57,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 57
-  - title: "Artificial Intelligence In Genomics Market worth $2.0 billion | MarketsandMarkets"
-    excerpt: "Artificial Intelligence In Genomics Market in terms of revenue was estimated to be worth $0.5 billion in 2023 and is poised to reach $2.0 billion by 2028, growing at a CAGR of 32.3% from 2023 to 2028 according to a new report by MarketsandMarkets™."
-    publishedDateTime: 2023-05-11T17:53:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/05/11/9812870.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 14
 
 secured: "4ysnEHvKDbXs3YCoYfxWJ0ByO6m0gYiSbQ56uB2mke9QHuNjjSXlzDpsmP0Ckh2miBdqlKfxSN7bMN/49Jwi8ogmY+Nb0vTDkFw7i0HuYLJcQis2ZzH/VLiIXmBedBLtqcqLkTMh9ludqbXZOAOcZYzfY5L4Puffs3i1eVkAC1fdso21Lx/DpTTX3nQAVIrvzVIy0ZA11TCghHbiGtF9iNBLQF9zINgTiNnCD3WK5UM2bvfj+kTCRPrHDDgdlcspd72KrsLYCOqNGjdrrrHDJvVvHGfbysrO0U/EuOsnugWzmXgldXw1fuErlW/v5hbt61o2Icxr3OD5xLgi7JF5O0tQpQzu6lxyONQqs2JVLDg=;hLw/Bz/TUqqeHqAKn5Rd0Q=="
 ---

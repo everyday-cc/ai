@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Harris to meet with CEOs about artificial intelligence risks"
-excerpt: "Vice President Kamala Harris will meet with the CEOs of four major companies developing artificial intelligence. The Biden administration is rolling out initiatives meant to ensure the rapidly evolvin"
-publishedDateTime: 2023-05-04T11:22:00Z
-originalUrl: "https://omaha.com/news/science/article_2be5fceb-7e7e-5b20-93a6-2fc9680f8df6.html"
-webUrl: "https://omaha.com/news/science/article_2be5fceb-7e7e-5b20-93a6-2fc9680f8df6.html"
+excerpt: "Vice President Kamala Harris speaks, along side Jill Scarbo, who won National Small Business of the Year in 2022 and is the CEO of Bright Futures Learning Services (BFLS), a provider of Applied Behavior Analysis (ABA) therapy services for children ..."
+publishedDateTime: 2023-05-04T12:03:00Z
+originalUrl: "https://omaha.com/news/science/harris-to-meet-with-ceos-about-artificial-intelligence-risks/article_2be5fceb-7e7e-5b20-93a6-2fc9680f8df6.html"
+webUrl: "https://omaha.com/news/science/harris-to-meet-with-ceos-about-artificial-intelligence-risks/article_2be5fceb-7e7e-5b20-93a6-2fc9680f8df6.html"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 630
     isCached: true
 
-secured: "z6Vnyrhu07jVvV9mT3tasJDHiscZHGrh35p0q0j4FRVSnXoLY9eLlxxDIBTV47ZcDStd40q9iy+NCLxG+rByzbdrUD9GVj6zE8eWBV6MNKOlGYbETqMY2SkFpaCyoK/g9+LsA3PLlZ550WxjjXuSMVfNhraQ5u+NYKMDoXL6cKkLaCEXfutgJTylVTHT0kFJgPcc/axV+aFYRHRCJ3icmiO7pFesbKiOneIehe8DTC6y3crpZaKEsWQJI2vig3SH571wzY4h44a6dRr4fUjHHUEQWFTibR5XkW/OP3vyet5NrTu37w9mUpaPiMd7FfQE33NANJOe20tDCHSlGY1F78jcyDRRQ7/IYyMifqTcLfUdgwmxv8UGx2xW1q4/8PLexbcX6v4mnDWUYFcav5J44aSi6rKLIg2tGx1Tuh6AbA+EAJiHXtkAmt6XMybY9YHJFKIlg80AFsmBnLE7Z9jLk3hDEwZCwQoRbVc/5dWpWcNkOY9HOL6DNluQcLrIf9mxB428r8Av/5JZEbMVv9uWyw==;zc1VAaNB0PjLNtXyK1mSWg=="
+secured: "oMoYAudoqfTBeiYRnzAMpKF+miUERAMV0cINfINesl5md6KKBSzoAhMXWi7+j996/qUpTVP/8ceOAKS9za/AbJFzONkBtihyVG/IkADof/1k4/9ngSxSW607r426Udjl88PQoiU6VXHpfcaY3AGJty94F58341pdQ79joC+DASPi8vWOjL8blOtb+fgq9djHG98pAE1zrGLo24wLbXSBY8Wmh/Gw2ehA52WBgzPKnxfKxxmeZmtQey+ZX8XUZkFo0FanAO8XgTx8cp1xA9JiCq4BQi7WaLEDgib9QdU4gJrNyYXUH+2O2MH19k5sE/TZlt2TeFCVDmB+S3mqW30D3HeRGJG7XydxM5+i+1lBOPE=;WPxZTsPwTk1XDgBcQ6dHig=="
 ---
 

@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-05-16-bluesky-digital-assets-corp-announces-intent-to-repurpose-its-gpu-assets-based-on-ai-demand.md",
+      "title": "Bluesky Digital Assets Corp., Announces Intent to Repurpose its GPU Assets Based on AI Demand",
+      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Toronto, Ontario, May 15, 2023 (Newsfile Corp via COMTEX) -- Toronto, Ontario--(Newsfile Corp. - May 15, 2023) - Bluesky Digital Assets Corp., (CSE: BTC) (OTCQB: BTCWF ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/bluesky-digital-assets-corp-announces-intent-to-repurpose-its-gpu-assets-based-on-ai-demand-2023-05-15",
+      "originalUrl": "https://www.marketwatch.com/press-release/bluesky-digital-assets-corp-announces-intent-to-repurpose-its-gpu-assets-based-on-ai-demand-2023-05-15",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-15T19:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-15-microsofts-in-house-ai-chip-could-hasten-product-rollout-cut-costs.md",
       "title": "Microsoft’s in-house AI chip could ‘hasten’ product rollout, cut costs",
       "excerpt": "Microsoft is reportedly working on its own chips for training AI models, which could help expand its cloud AI offerings and tighten competition with rivals AWS and Google Cloud. The move could allow Microsoft to further expand its generative AI products,",
@@ -463,7 +515,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/edge-ai-chips-market-future-scope-and-growth-status-2028-2023-05-11",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 154,
       "tags": null,
       "images": [
         {
@@ -515,7 +567,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chip-market-research-analysis-2023-2030-2023-05-11",
       "featuredContent": null,
       "highlight": null,
-      "heat": 399,
+      "heat": 419,
       "tags": null,
       "images": [
         {
@@ -1436,49 +1488,6 @@
         "Microsoft AI",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-05-05-meta-hires-ai-team-of-uk-chip-unicorn-graphcore.md",
-      "title": "Meta hires AI team of UK chip unicorn Graphcore",
-      "excerpt": "Meta has hired UK chip unicorn Graphcore's Oslo-based team that was working on AI networking technology till late last year. The chip startup shuttered its Oslo office as part of its restructuring plans announced in October 2022,",
-      "sourceUrl": null,
-      "webUrl": "https://inshorts.com/en/news/meta-hires-ai-team-of-uk-chip-unicorn-graphcore-1683303868650",
-      "originalUrl": "https://inshorts.com/en/news/meta-hires-ai-team-of-uk-chip-unicorn-graphcore-1683303868650",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2023/05_may/5_fri/img_1683298262597_763.jpg?",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://inshorts.com/m/en/amp_news/meta-hires-ai-team-of-uk-chip-unicorn-graphcore-1683303868650",
-      "cdnAmpWebUrl": "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/meta-hires-ai-team-of-uk-chip-unicorn-graphcore-1683303868650",
-      "publishedDateTime": "2023-05-05T09:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Inshorts",
-        "domain": "inshorts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

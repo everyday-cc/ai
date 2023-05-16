@@ -189,6 +189,20 @@ related:
       name: KARK
       domain: kark.com
     quality: 49
+  - title: "TSA tests facial recognition software at airports, drawing concerns about privacy"
+    excerpt: "The effort comes at a time when the use of various forms of technology to enhance security and streamline procedures is only increasing."
+    publishedDateTime: 2023-05-15T22:00:00Z
+    webUrl: "https://ktul.com/news/nation-world/tsa-tests-facial-recognition-software-at-airports-drawing-concerns-about-privacy-surveillance-state-technology-transportation-security-administration-screening-real-id-biometrics-civil-liberties-private-sector-data-collection-algorithms"
+    type: article
+    provider:
+      name: ktul
+      domain: ktul.com
+    quality: 49
+    images:
+      - url: "https://ktul.com/resources/media/5b711ed1-4a37-4d9f-a68d-0781028ccec7-large16x9_AP23116691163494.jpg?1684201598275"
+        width: 986
+        height: 555
+        isCached: true
   - title: "Are you who you say you are? TSA tests facial recognition technology to boost airport security"
     excerpt: "The agency tasked with securing America's airports is testing the use of facial recognition technology at a number of airports across the country"
     publishedDateTime: 2023-05-15T08:19:00Z
@@ -198,6 +212,20 @@ related:
       name: ABC
       domain: abcnews.go.com
     quality: 39
+  - title: "TSA testing facial recognition technology, prompting privacy concerns"
+    excerpt: "A new project by the Transportation Security Administration is using facial recognition software to verify identities."
+    publishedDateTime: 2023-05-16T03:57:00Z
+    webUrl: "https://www.fox17online.com/tsa-testing-facial-recognition-technology-prompting-privacy-concerns"
+    type: article
+    provider:
+      name: fox17online
+      domain: fox17online.com
+    quality: 39
+    images:
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/34a37e7/2147483647/strip/true/crop/960x504+0+108/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcdn.scrippsnews.com%2Fimages%2Fvideos%2Fz%2F1684195627_h09L7Q.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Are you are who you say you are? TSA test facial recognition technology to boost airport security"
     excerpt: "A passenger walks up to an airport security checkpoint, slips an ID card into a slot and looks into a camera atop a small screen. The screen flashes “Photo Complete” and the person walks through — all without having to hand over their identification to the TSA officer sitting behind the screen."
     publishedDateTime: 2023-05-15T12:25:00Z
@@ -249,6 +277,6 @@ related:
       domain: thedailyrecord.com
     quality: 28
 
-secured: "+sjzFb9m7eMVIYxPIsdFTlxeYdwxMHWEtfN4XduMA9I8MySVophGjVQGX4GPYtOTtZuyMTnTC1eTgS8w81iAWy75yOejrQFSpKkibciAzaC0Z9tJZlc9XB0/LMHdCfL1PytBLlP/YyqFICgzYNPiBEA53AqQ2xTyluiC4n++J14L/SeA/QGU2/4eQopbQ+iBTcMqVVDH84VnaNNAkR6rcmmCfHflCDV7nAiKWXlq3YAw2vNhjj9GJLTXAtwWYfks2w5VTDgs8yoOQs5hq8iG6wr7iwwloFSxnVzqBHQKyfShjdeL/cmo2QGngzXMeos1davC+KPdoMBdzlJd81WVFpyIm/Yw5Ps5gkmxrjtg4rw=;Df7qKi+Y8T5d9lZeNf1sMQ=="
+secured: "dOXcjQa7yMNnI/gg+P73jaJEe0xAq1AOcmnbSlDO6B28EQR8B/LVW0hv4vx+sc8C6X2hGrWUQhMjtfW30K5iI8BBvaBP1WuEHbuoiUmvvCW6UuPQbOZZEjduYS7pV6nDnXkcquWlYkJLsXUYMwyGUJMeicyVXMegzsdtWAWQm6X6eFIbOS29xcfI+KBoOCfYmOF13rKodvIsTmMUxw5XtyHT4C8OqoW+bk+tvylBf7RHtt+oTzYT3n6IuYFR60uNykkZiRQ5FhrUf0VV/erQaILtLSaGFhqz6UwWtx6Es47sBGtxj6TINpu9yBf9zB1TXQa/cSAumbwMtWmGW11uyEIfm43KpB+M3ogAiEtGTGQ=;A17KA/VLyBoLeE7Nve2gcw=="
 ---
 

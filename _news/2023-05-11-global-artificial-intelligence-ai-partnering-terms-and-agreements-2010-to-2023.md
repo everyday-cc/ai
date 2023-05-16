@@ -327,6 +327,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Facial Recognition Devices Market Research, 2030"
+    excerpt: "Research Reports has published a new report titled as \"Facial Recognition Devices Market\" by End User (Security"
+    publishedDateTime: 2023-05-15T13:23:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-devices-market-research-2030-2023-05-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence Voice Market Till 2030"
     excerpt: "The Global Artificial Intelligence Voice market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players ..."
     publishedDateTime: 2023-05-15T11:02:00Z
@@ -350,6 +364,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 65
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence (AI) in Agriculture Market Size in 2023-2030: Competitive landscape and Leading Country"
+    excerpt: "Additionally, the research report provides comprehensive data on the key factors driving the growth of the Artificial Intelligence (AI) in Agriculture market at both the national and local levels. The report includes market size forecasts in terms of value,"
+    publishedDateTime: 2023-05-15T14:22:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-agriculture-market-size-in-2023-2030-competitive-landscape-and-leading-country-2023-05-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 64
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

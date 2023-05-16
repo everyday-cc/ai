@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-05-16-top-apps-ai-releases-a-report-on-benefits-of-autonomous-artificial-intelligence.md",
+      "title": "Top Apps AI Releases A Report On Benefits Of Autonomous Artificial Intelligence",
+      "excerpt": "Top Apps AI new report - '3 Research-Backed Use Cases Of Autonomous Artificial Intelligence' - offers readers an in-depth look at how AI is infiltrating multiple sectors and seeks to mitigate the mounting concern over the technology's ability to operate without human intervention.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/top-apps-ai-releases-a-report-on-benefits-of-autonomous-artificial-intelligence-2023-05-15",
+      "originalUrl": "https://www.marketwatch.com/press-release/top-apps-ai-releases-a-report-on-benefits-of-autonomous-artificial-intelligence-2023-05-15",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-15T10:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-15-the-race-intensfies-google-announces-bold-progress-in-ai-advancing-med-palm-2-for-healthcare.md",
       "title": "The Race Intensfies: Google Announces Bold Progress In AI, Advancing Med-PaLM 2 For Healthcare",
       "excerpt": "AI has been all the buzz in both Silicon Valley and around the world for the last few months, especially after the release of Chat-GPT and advanced generative AI systems. This has triggered somewhat of a frantic rat-race amongst tech giants: everyone wants a piece of the AI pie, and the race to the top is intense.",
@@ -247,20 +299,20 @@
     },
     {
       "path": "_news/2023-05-10-unlimited-opportunities-for-manufacturing-of-medical-devices-in-india-ceo-of-ge-healthcare-south-asia.md",
-      "title": "Unlimited Opportunities For Manufacturing Of Medical Devices In India: CEO Of GE HealthCare South Asia",
-      "excerpt": "According to Sarawate, who is also managing director, Wipro GE Healthcare, new age technologies like artificial intelligence (AI) are significantly improving care quality and access to care.",
+      "title": "Unlimited opportunities for manufacturing of medical devices in India: CEO of GE HealthCare South Asia",
+      "excerpt": "Through this programme, we aim to nurture the start-up ecosystem, build strategic partnerships, and co-develop healthcare applications using AI and other technologies.GE HealthCare launched the Healthcare Innovation Lab with IISc Bengaluru-based Indian Institute of Science to aid clinicians in tackling real-time difficulties in care delivery by bringing to market new digital solutions that can be incorporated on the Edison platform.",
       "sourceUrl": null,
-      "webUrl": "https://www.republicworld.com/india-news/general-news/unlimited-opportunities-for-manufacturing-of-medical-devices-in-india-ceo-of-ge-healthcare-south-asia-articleshow.html",
-      "originalUrl": "https://www.republicworld.com/india-news/general-news/unlimited-opportunities-for-manufacturing-of-medical-devices-in-india-ceo-of-ge-healthcare-south-asia-articleshow.html",
+      "webUrl": "https://www.devdiscourse.com/article/technology/2446198-unlimited-opportunities-for-manufacturing-of-medical-devices-in-india-ceo-of-ge-healthcare-south-asia",
+      "originalUrl": "https://www.devdiscourse.com/article/technology/2446198-unlimited-opportunities-for-manufacturing-of-medical-devices-in-india-ceo-of-ge-healthcare-south-asia",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/crvmfcrx07ak3tou_1683700251.jpeg",
-          "width": 768,
-          "height": 438,
+          "url": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/27_06_2019_18_33_35_2442501.png?width=920&format=jpeg",
+          "width": 920,
+          "height": 520,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -268,13 +320,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.republicworld.com/amp/india-news/general-news/unlimited-opportunities-for-manufacturing-of-medical-devices-in-india-ceo-of-ge-healthcare-south-asia-articleshow.html",
-      "cdnAmpWebUrl": "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/india-news/general-news/unlimited-opportunities-for-manufacturing-of-medical-devices-in-india-ceo-of-ge-healthcare-south-asia-articleshow.html",
-      "publishedDateTime": "2023-05-09T23:32:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-09T23:18:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "RepublicWorld",
-        "domain": "republicworld.com",
+        "name": "devdiscourse",
+        "domain": "devdiscourse.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -981,10 +1033,10 @@
     {
       "path": "_news/2023-05-04-harris-to-meet-with-ceos-about-artificial-intelligence-risks.md",
       "title": "Harris to meet with CEOs about artificial intelligence risks",
-      "excerpt": "Vice President Kamala Harris will meet with the CEOs of four major companies developing artificial intelligence. The Biden administration is rolling out initiatives meant to ensure the rapidly evolvin",
+      "excerpt": "Vice President Kamala Harris speaks, along side Jill Scarbo, who won National Small Business of the Year in 2022 and is the CEO of Bright Futures Learning Services (BFLS), a provider of Applied Behavior Analysis (ABA) therapy services for children ...",
       "sourceUrl": null,
-      "webUrl": "https://omaha.com/news/science/article_2be5fceb-7e7e-5b20-93a6-2fc9680f8df6.html",
-      "originalUrl": "https://omaha.com/news/science/article_2be5fceb-7e7e-5b20-93a6-2fc9680f8df6.html",
+      "webUrl": "https://omaha.com/news/science/harris-to-meet-with-ceos-about-artificial-intelligence-risks/article_2be5fceb-7e7e-5b20-93a6-2fc9680f8df6.html",
+      "originalUrl": "https://omaha.com/news/science/harris-to-meet-with-ceos-about-artificial-intelligence-risks/article_2be5fceb-7e7e-5b20-93a6-2fc9680f8df6.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1003,7 +1055,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-04T04:22:00-07:00",
+      "publishedDateTime": "2023-05-04T05:03:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Omaha.com",
@@ -1323,60 +1375,6 @@
         "AI",
         "Machine Learning",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-05-02-geoffrey-hinton-a-pioneer-in-artificial-intelligence-resigns-from-google-over-ethical-fears.md",
-      "title": "Geoffrey Hinton, a pioneer in artificial intelligence, resigns from Google over ethical fears",
-      "excerpt": "Geoffrey Hinton, a pioneer in artificial intelligence and a longtime leader of Google’s AI research division, has resigned from his position at the tech giant, citing growing concerns about the ethical implications of the technology he helped create,",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/geoffrey-hinton-a-pioneer-in-artificial-intelligence-resigns-from-google-over-ethical-fears/",
-      "originalUrl": "https://venturebeat.com/ai/geoffrey-hinton-a-pioneer-in-artificial-intelligence-resigns-from-google-over-ethical-fears/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 377,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/05/deepmind.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/geoffrey-hinton-a-pioneer-in-artificial-intelligence-resigns-from-google-over-ethical-fears/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/geoffrey-hinton-a-pioneer-in-artificial-intelligence-resigns-from-google-over-ethical-fears/amp/",
-      "publishedDateTime": "2023-05-01T10:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Healthcare",
-        "Machine Learning"
       ]
     }
   ],

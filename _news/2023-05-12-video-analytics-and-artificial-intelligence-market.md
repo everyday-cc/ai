@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/video-analytics-and-arti
 webUrl: "https://www.marketwatch.com/press-release/video-analytics-and-artificial-intelligence-market-2023-05-12"
 type: article
 quality: 67
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -61,15 +61,6 @@ related:
     provider:
       name: Multichannel Merchant
       domain: multichannelmerchant.com
-    quality: 14
-  - title: "Artificial Intelligence In Genomics Market worth $2.0 billion | MarketsandMarkets"
-    excerpt: "Artificial Intelligence In Genomics Market in terms of revenue was estimated to be worth $0.5 billion in 2023 and is poised to reach $2.0 billion by 2028, growing at a CAGR of 32.3% from 2023 to 2028 according to a new report by MarketsandMarkets™."
-    publishedDateTime: 2023-05-11T17:53:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/05/11/9812870.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
     quality: 14
 
 secured: "indYug3z+p+FmP2yiYVtjJOTnXSUfZXLw59OlSIM9BiCV+2DCWs0fupDoSgiKbnmkeR6fuyFzG9LOw4RcP3SiAWUh3odmDEhrKY8QcUUEnvXRM1Ia9yxaI75ngd8KXRM+xaw1qKHAjjNxWczrS0y6UXLzFS3KHZxGKkBhE2nsRCyHwtHtIsHKpIIhoXqsEIdnEX/t8scMv32VWBpVu47tHquQMNxPFlCW2WhQkw1Xwdx6U5CgbJQnCwjq7KDaKQmi3ka24lzaFOUIVkxnX+hvquabbYsg7gy/6qJWkMi+5e/DBoOGObmZnRZEO4tR44SoLoNL9IIwr5beu9YBqb6r8srYX1B2B7bGabQCBGAnGk=;8+x2xMLRDop1S4SdFzMo+A=="

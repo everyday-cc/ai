@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/ai-act-vote-pushes-eu-ban-on-predictiv
 webUrl: "https://thenextweb.com/news/ai-act-vote-pushes-eu-ban-on-predictive-policing-facial-recognition"
 type: article
 quality: 81
-heat: 131
+heat: 121
 published: true
 
 provider:
@@ -75,15 +75,6 @@ related:
         width: 619
         height: 377
         isCached: true
-  - title: "EU draft AI Act updated with public facial recognition ban"
-    excerpt: "The additions to the AI act include banning the use of facial recognition in public spaces along with predictive policing tools."
-    publishedDateTime: 2023-05-11T10:28:00Z
-    webUrl: "https://cointelegraph.com/news/eu-ai-act-updated-with-public-facial-recognition-ban"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 34
   - title: "The EU's incoming AI Act is giving off some real I, Robot vibes"
     excerpt: "The AI Act makes a lot of sense considering the state of the artificial intelligence discourse right now, though the first prohibited practice in the original proposal (opens in n"
     publishedDateTime: 2023-05-11T11:37:00Z

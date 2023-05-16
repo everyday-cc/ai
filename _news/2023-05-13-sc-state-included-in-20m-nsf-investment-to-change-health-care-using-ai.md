@@ -7,7 +7,7 @@ originalUrl: "https://thetandd.com/news/local/sc-state-included-in-20m-nsf-inves
 webUrl: "https://thetandd.com/news/local/sc-state-included-in-20m-nsf-investment-to-change-health-care-using-ai/article_85acc86e-ee86-11ed-ab64-d7077876a609.html"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,33 +23,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Mayo Clinic invests in NC artificial intelligence healthcare startup"
-    excerpt: "Lucem Health, a startup that says it is utilizing artificial intelligence to deliver solutions for physicians and healthcare providers, has a big believer: Mayo Clinic. It's now an investor."
-    publishedDateTime: 2023-05-11T10:54:00Z
-    webUrl: "https://wraltechwire.com/2023/05/11/mayo-clinic-invests-in-nc-artificial-intelligence-healthcare-startup/"
-    ampWebUrl: "https://wraltechwire.com/2023/05/11/mayo-clinic-invests-in-nc-artificial-intelligence-healthcare-startup/?amp=1"
-    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/05/11/mayo-clinic-invests-in-nc-artificial-intelligence-healthcare-startup/?amp=1"
-    type: article
-    provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 74
-    images:
-      - url: "https://wraltechwire.com/wp-content/uploads/2023/05/AI-51123-e1683802381829.jpg"
-        width: 912
-        height: 513
-        isCached: true
-  - title: "Mayo Clinic a leading investor in Davidson startup Lucem Health's $7.7M funding round"
-    excerpt: "A health-care giant was among the leading investors in Davidson-based Lucem Health's latest funding round. The health-tech startup, a provider of clinical AI technology and solutions, closed on $7.7 million in Series A funding."
-    publishedDateTime: 2023-05-11T18:47:00Z
-    webUrl: "https://www.bizjournals.com/charlotte/inno/stories/fundings/2023/05/11/lucem-health-funding-round-mayo-clinic-startups.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 0
 
 secured: "fI5V5CndgXFHqQTXHFtgtAxxaZ56aqTcAK6Scb16fMGeR1xtIMM8I1SqyTB5RuJYjgjesXShPmVcM1D4gHqlgkqVROrWInzI6YlZUR/EoBtLAsPsO3eQjD5QyHWiWuIFHE44GGSVG7AFoIOjCOSJuzfBuO3itVziYLjlhxF6pqZT2Y5R41aufal39gqQ/0hqNYEBVQu/vt2aErhqng8n0IN1SYY0qsYMCS1kbUkjvQ3VJ/+3fkxR4BrsPcdMl8t4eyRzdShfC4DukcVmuLLm2/pxvSWY6pbg3rcmDM2oR7cmbHocH6l6IIEmfygVch4RKJJxIfT2Y02UjDv7mTcOKkpbe2Sk+cyddKdDk3ufCUfr7A0PDTEImHSukuBQYJXW6eT11DVugUY09AqGGyYop8+SXcsooSJPnApnXMRs3KNHNJuZM93yIakjbbL633AOKQqFKynCquT8L7F2ibg4v1j4UZHyoQY7Wk6Zv2+HKIVWp4aDE2QeBQAUNYpC/sETjfC07uI3dfBVxSRTDJ33wg==;YKlxjGztxB/7pXo52ZjzqQ=="
 ---

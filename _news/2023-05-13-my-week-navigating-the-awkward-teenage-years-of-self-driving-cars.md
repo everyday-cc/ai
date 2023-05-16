@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Self-Driving Cars Are Being Put on a Data Diet"
-    excerpt: "Growing fleets, fancier sensors, and tighter budgets are forcing autonomous vehicle developers to get pickier about what stays on their servers."
-    publishedDateTime: 2023-05-11T11:00:00Z
-    webUrl: "https://www.wired.com/story/self-driving-cars-are-being-put-on-a-data-diet/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 54
-    images:
-      - url: "https://media.wired.com/photos/645c372a88479249e0cc28b6/191:100/w_1280,c_limit/Driverless-Cars-Data-Diet-Business-1247366812.jpg"
-        width: 1280
-        height: 670
-        isCached: true
   - title: "Self-driving cars being put on a data diet"
     excerpt: "Data that had no clear use was deleted, like recordings of failed driverless maneuvers. “If we treated storage as infinite, the costs would be astronomical,” Chatham says. After Waymo became an independent company with significant outside investment,"
     publishedDateTime: 2023-05-12T13:23:00Z

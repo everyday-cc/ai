@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/videos/business/2023/05/13/alexis-ohanian-ar
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/business/2023/05/13/alexis-ohanian-artificial-intelligence-government-regulation-ai-reddit-wallace-sot-contd-wtcw-vpx.cnn"
 type: article
 quality: 80
-heat: 100
+heat: 90
 published: true
 
 provider:
@@ -30,15 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "How Real People Are Caught Up In Reddit’s AI Porn Explosion"
-    excerpt: "As text-to-image generators become easy to build, use and customize, AI-generated porn communities are burgeoning on Reddit. But these synthetic sexual photos are built on non-consensual images of real people,"
-    publishedDateTime: 2023-05-11T10:30:00Z
-    webUrl: "https://www.forbes.com/sites/rashishrivastava/2023/05/11/reddit-ai-generated-porn/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "Is Reddit's \"Am I the Asshole?\" Forum the AI Counterbalance We All Need?"
     excerpt: "Reddit's chief technology officer says he approves of AI-created content in its forums--as long as the bots are forthright abou"
     publishedDateTime: 2023-05-15T11:03:00Z

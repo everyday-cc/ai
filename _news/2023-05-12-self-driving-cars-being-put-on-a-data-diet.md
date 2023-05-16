@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/cars/2023/05/self-driving-cars-being-put-on-
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/cars/2023/05/self-driving-cars-being-put-on-a-data-diet/2/amp/"
 type: article
 quality: 54
-heat: -1
+heat: 64
 published: false
 
 provider:
@@ -25,20 +25,6 @@ topics:
   - AI
 
 related:
-  - title: "Self-Driving Cars Are Being Put on a Data Diet"
-    excerpt: "Growing fleets, fancier sensors, and tighter budgets are forcing autonomous vehicle developers to get pickier about what stays on their servers."
-    publishedDateTime: 2023-05-11T11:00:00Z
-    webUrl: "https://www.wired.com/story/self-driving-cars-are-being-put-on-a-data-diet/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 54
-    images:
-      - url: "https://media.wired.com/photos/645c372a88479249e0cc28b6/191:100/w_1280,c_limit/Driverless-Cars-Data-Diet-Business-1247366812.jpg"
-        width: 1280
-        height: 670
-        isCached: true
   - title: "My week navigating the awkward teenage years of self-driving cars"
     excerpt: "Pedestrians and human motorists in San Francisco are learning to interact with ‘robot drivers’. Here’s how my experience went"
     publishedDateTime: 2023-05-13T09:01:00Z

@@ -27,150 +27,125 @@ images:
     isCached: true
 
 related:
-  - title: "Self-Driving or Driverless Cars Market upto 2030"
-    excerpt: "The Global Self-Driving or Driverless Cars market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players,"
-    publishedDateTime: 2023-05-15T01:53:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-or-driverless-cars-market-upto-2030-2023-05-14"
+  - title: "World’s first self-driving bus rolls out in Scotland"
+    excerpt: "The world’s first self-driving bus rolled out in Scotland carrying passengers on a regularly scheduled route. NBC News’ Matt Bradley reports on the future of public transport."
+    publishedDateTime: 2023-05-16T02:10:00Z
+    webUrl: "https://www.nbcnews.com/now/video/world-s-first-self-driving-bus-rolls-out-in-scotland-174465605630"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo174465605630"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo174465605630"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
+      name: NBC News
+      domain: nbcnews.com
+    quality: 74
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_05/1684202953745_now_staytuned_scotland_230515_1920x1080-uvfure.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Scotland set to debut UK's first self-driving bus next week"
+    excerpt: "Scotland is on the verge of a major transportation breakthrough as it prepares to launch the UK's first-ever driverless bus network. The driverless buses, equipped with cutting-edge technology,"
+    publishedDateTime: 2023-05-11T20:45:00Z
+    webUrl: "https://www.thenews.com.pk/latest/1069301-scotland-set-to-debut-uks-first-self-driving-bus-next-week"
+    ampWebUrl: "https://www.thenews.com.pk/amp/1069301-scotland-set-to-debut-uks-first-self-driving-bus-next-week"
+    cdnAmpWebUrl: "https://www-thenews-com-pk.cdn.ampproject.org/c/s/www.thenews.com.pk/amp/1069301-scotland-set-to-debut-uks-first-self-driving-bus-next-week"
+    type: article
+    provider:
+      name: The News International
+      domain: thenews.com.pk
+    quality: 44
+    images:
+      - url: "https://www.thenews.com.pk/assets/uploads/updates/2023-05-12/1069301_022208_updates.jpg"
+        width: 700
+        height: 400
+        isCached: true
+  - title: "UK Launches its First Self-Driving Bus Service"
+    excerpt: "Scotland will launch its first driverless bus network. According to the details, the buses will run without any input from the drivers."
+    publishedDateTime: 2023-05-12T13:55:00Z
+    webUrl: "https://propakistani.pk/2023/05/12/uk-launches-its-first-self-driving-bus-service/"
+    ampWebUrl: "https://propakistani.pk/2023/05/12/uk-launches-its-first-self-driving-bus-service/amp/"
+    cdnAmpWebUrl: "https://propakistani-pk.cdn.ampproject.org/c/s/propakistani.pk/2023/05/12/uk-launches-its-first-self-driving-bus-service/amp/"
+    type: article
+    provider:
+      name: ProPakistani
+      domain: propakistani.pk
+    quality: 44
+    images:
+      - url: "https://propakistani.pk/wp-content/uploads/2023/05/Autonomous-Bus-e1683895957688.jpg"
+        width: 1000
+        height: 560
+        isCached: true
+  - title: "First self-driving buses enter service on UK roads"
+    excerpt: "The UK’s first self-driving bus service has launched in Scotland, taking passengers across the famed road bridge over the Firth of Forth. Five full-size Alexander Dennis Enviro200AV buses will traverse the bridge using autonomous driving technology as they transport up to 10,"
+    publishedDateTime: 2023-05-15T09:47:00Z
+    webUrl: "https://www.autoexpress.co.uk/news/360203/first-self-driving-buses-enter-service-uk-roads"
+    ampWebUrl: "https://www.autoexpress.co.uk/news/360203/first-self-driving-buses-enter-service-uk-roads?amp"
+    cdnAmpWebUrl: "https://www-autoexpress-co-uk.cdn.ampproject.org/c/s/www.autoexpress.co.uk/news/360203/first-self-driving-buses-enter-service-uk-roads?amp"
+    type: article
+    provider:
+      name: AutoExpress
+      domain: autoexpress.co.uk
+    quality: 44
+    images:
+      - url: "https://media.autoexpress.co.uk/image/private/s--4gBK8ho3--/f_auto,t_primary-image-mobile@1/v1684143748/autoexpress/2023/05/Stagecoach%20autonomous%20bus%20-%20Alexander%20Dennis%20Enviro200AV.jpg"
+        width: 375
+        height: 210
+        isCached: true
+  - title: "All aboard Britain’s first self-driving bus"
+    excerpt: "The UK’s first autonomous bus service has begun taking paying passengers across the Forth Road Bridge. The vehicles have two staff: a safety driver who can take"
+    publishedDateTime: 2023-05-15T23:01:00Z
+    webUrl: "https://www.thetimes.co.uk/article/all-aboard-britains-first-self-driving-bus-f7xz0cfhr"
+    type: article
+    provider:
+      name: The Times
+      domain: thetimes.co.uk
+    quality: 39
+    images:
+      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2Fb0724a06-f359-11ed-9b4c-f23623b5e8cf.jpg?crop=3994%2C2247%2C0%2C208&resize=1200"
         width: 1200
-        height: 630
+        height: 675
         isCached: true
-  - title: "Google’s A.I. Bonanza and Driverless Car Talk With Cruise C.E.O. Kyle Vogt"
-    excerpt: "And as you might expect, most of what they showed off today had a lot to do with artificial intelligence and how they’re going ... So Casey and I hailed a ride in one to find out if the driverless car revolution we’ve all been talking about and waiting ..."
-    publishedDateTime: 2023-05-12T13:41:00Z
-    webUrl: "https://www.nytimes.com/2023/05/12/podcasts/googles-ai-bonanza-and-driverless-car-talk-with-cruise-ceo-kyle-vogt.html"
+  - title: "'World first' self-driving buses ready for roads in Scotland"
+    excerpt: "A full size, self-driving bus service is ready to take to the roads of Scotland in what is believed to be a world first. The Stagecoach autonomous bus service, AB1, is launching for passengers over the Forth Road Bridge on 15 May. The 14-mile route runs between Ferrytoll park-and-ride in Fife and Edinburgh Park train and tram interchange."
+    publishedDateTime: 2023-05-11T16:00:00Z
+    webUrl: "https://www.bbc.co.uk/news/av/uk-scotland-65564022"
     type: article
     provider:
-      name: The New York Times
-      domain: nytimes.com
-    quality: 67
+      name: BBC
+      domain: bbc.co.uk
+    quality: 24
     images:
-      - url: "https://static01.nyt.com/images/2023/06/05/multimedia/0512HF-googleai-lwfv/0512HF-googleai-lwfv-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "UK To Roll Out First Driverless Bus Service"
-    excerpt: "The UK will roll out its first driverless bus network in Scotland next week with drivers on standby behind the steering wheel, ready to take control should an emergency arise."
-    publishedDateTime: 2023-05-11T15:12:00Z
-    webUrl: "https://www.ibtimes.com/uk-roll-out-first-driverless-bus-service-3692647"
-    ampWebUrl: "https://www.ibtimes.com/uk-roll-out-first-driverless-bus-service-3692647?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/uk-roll-out-first-driverless-bus-service-3692647?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 59
-    images:
-      - url: "https://d.ibtimes.com/en/full/4455931/driverless-bus-service-will-go-service-near-edinburgh-next-week.jpg"
-        width: 768
-        height: 511
-        isCached: true
-  - title: "UK to roll out first driverless bus service"
-    excerpt: "The UK will roll out its first driverless bus network in Scotland next week with drivers on standby behind the steering wheel, ready to take control should an emergency arise."
-    publishedDateTime: 2023-05-11T20:13:00Z
-    webUrl: "https://techxplore.com/news/2023-05-uk-driverless-bus.html"
-    ampWebUrl: "https://techxplore.com/news/2023-05-uk-driverless-bus.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-05-uk-driverless-bus.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/edinburgh.jpg"
-        width: 2880
-        height: 2030
-        isCached: true
-  - title: "Britain to roll out first driverless bus service"
-    excerpt: "The service, which aims to carry 10,000 passengers a week over a 22.5-kilometre route on five single-deck buses, will be the world's first automated local bus service, its operator said."
-    publishedDateTime: 2023-05-12T18:48:00Z
-    webUrl: "https://www.gulftoday.ae/news/2023/05/12/britain-to-roll-out-first-driverless-bus-service"
-    type: article
-    provider:
-      name: gulftoday
-      domain: gulftoday.ae
-    quality: 54
-    images:
-      - url: "http://www.gulftoday.ae/-/media/gulf-today/images/articles/news/2023/5/12/driverless-buses.ashx?h=450&w=750&hash=DA420C0A40E730C30B1558286369EDC1"
-        width: 750
-        height: 450
-        isCached: true
-  - title: "UK’s first ‘driverless bus’ service launches on Forth Road Bridge"
-    excerpt: "Autonomous buses were demonstrated on the Forth Road Bridge on Thursday ahead of going into passenger service in what’s being billed as the most complex test of the technology anywhere in the world. The 14-mile route crosses the Forth Road Bridge and is made up of A-roads,"
-    publishedDateTime: 2023-05-11T13:33:00Z
-    webUrl: "https://www.techdigest.tv/2023/05/uks-first-driverless-bus-service-launches-on-forth-road-bridge.html"
-    type: article
-    provider:
-      name: Tech Digest
-      domain: techdigest.tv
-    quality: 39
-    images:
-      - url: "https://www.techdigest.tv/wp-content/uploads/2023/05/cavforth-alexander-dennis-enviro200av-on-forth-road-bridge-1024x723.jpg"
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/0833/production/_129699020_p0fms21t.jpg"
         width: 1024
-        height: 723
+        height: 576
         isCached: true
-  - title: "UK To Roll Out Driverless Bus Service"
-    excerpt: "The UK will roll out its first driverless bus network in Scotland next week with drivers on standby behind the steering wheel, ready to take control"
-    publishedDateTime: 2023-05-12T03:40:00Z
-    webUrl: "https://menafn.com/1106231030/UK-To-Roll-Out-Driverless-Bus-Service"
+  - title: "Britain’s first autonomous bus service launches in Scotland"
+    excerpt: "The UK has celebrated the launch of its first driverless bus service, operated by Stagecoach. The start of the pilot programme was marked by a journey on the service between Ferry Toll near Inverkeithing,"
+    publishedDateTime: 2023-05-12T13:16:00Z
+    webUrl: "https://eandt.theiet.org/content/articles/2023/05/britain-s-first-autonomous-bus-service-launches-in-scotland/"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 39
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?106671"
-        width: 444
-        height: 250
-        isCached: true
-  - title: "UK to roll out first driverless bus service"
-    excerpt: "The UK will roll out its first driverless bus network in Scotland next week with drivers on standby behind the steering wheel, ready to take control should an emergency arise. The service,"
-    publishedDateTime: 2023-05-13T03:28:00Z
-    webUrl: "https://technology.inquirer.net/124026/uk-to-roll-out-first-driverless-bus-service"
+      name: IET
+      domain: theiet.org
+    quality: 19
+  - title: "'World's first' self-driving bus being trialed in Scotland"
+    excerpt: "In a world first, a trial is underway in Edinburgh with an autonomous bus taking passengers across the Forth Road Bridge in a viable service route. | ITV National News"
+    publishedDateTime: 2023-05-11T18:27:00Z
+    webUrl: "https://www.itv.com/news/2023-05-11/worlds-first-self-driving-bus-being-trialed-in-scotland"
     type: article
     provider:
-      name: Philippine Daily Inquirer
-      domain: inquirer.net
-    quality: 39
-    images:
-      - url: "https://technology.inquirer.net/files/2023/05/Driver_Stuart_Doidge_monitors_an_autonomous_bus_as_it_drives_across_the_Forth_Road_Bridge_between_Edinburgh_and_Fife_during_a_press_preview_for_the_CAV_Forth_a_bvXSMR84YoEl-620x413.jpg"
-        width: 620
-        height: 413
-        isCached: true
-  - title: "How Google's Self-Driving Car Will Change Everything"
-    excerpt: "The hype around driverless cars has grown rapidly over ... computer-processing capabilities and sophisticated artificial intelligence systems are becoming more advanced and more affordable every ..."
-    publishedDateTime: 2023-05-14T23:44:00Z
-    webUrl: "https://www.investopedia.com/articles/investing/052014/how-googles-selfdriving-car-will-change-everything.asp"
+      name: ITV
+      domain: itv.com
+    quality: 4
+  - title: "World's first self-driving bus tested on roads of Scotland"
+    excerpt: "Watch the latest from ITV News - The world's first autonomous bus will become operational on Monday. It'll take passengers between Fife and Edinburgh."
+    publishedDateTime: 2023-05-11T18:30:00Z
+    webUrl: "https://www.itv.com/watch/news/worlds-first-self-driving-bus-tested-on-roads-of-scotland/k7wwgbj"
     type: article
     provider:
-      name: Investopedia
-      domain: investopedia.com
-    quality: 24
-    images:
-      - url: "https://www.investopedia.com/thmb/7VBCRiddsGRnBOFFrpQfDTZJTuc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/google-car_ap353779913372-5bfc376146e0fb0051c0d8d7.jpg"
-        width: 680
-        height: 440
-        isCached: true
-  - title: "What self-driving cars may mean for traffic"
-    excerpt: "AI might be arriving with a bang, but autonomous cars are crawling closer at a snail’s pace. What’s the delay? And what can we expect to change on our roads in the next decade?"
-    publishedDateTime: 2023-05-15T07:01:00Z
-    webUrl: "https://www.thestar.com.my/lifestyle/living/2023/05/15/what-self-driving-cars-may-mean-for-traffic"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 24
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2023/05/15/2072912.jpg"
-        width: 800
-        height: 507
-        isCached: true
+      name: ITV
+      domain: itv.com
+    quality: 4
 
 secured: "PKYDpfrKhi2DjLGsAFVGs67thvSqPBdovXUADK5OOP+4fNWL5BG8lyBjrbkffry6xtzNDTMfgfWbdUlnz7YJHpW7sj+R71LCcGZVbF7YDPB6fjeu7Suu+x+Cv15tApRGhN76SaTZ4rSWKCUM2TohfAM0fWKfGnLpYLEXmB5RyaFHE3wBNec6Ij6TgidOtoqyIfnhrDB5TU8ail1lq6Dz/PAXPpxs+q3AB5na8loUGoxw3+nOi8DY5bHYiims3yL5L0S2vJeZVLExaioSa/Vm9ci5RRNzE8FnskzG2JrdXn6drOOQ9Mj0q2DwWDAXjtfu2IU1OG2lu3CT3oTUvBbwTCz+pi9//MAM4me7EvhE+LvA0axHZkvT4GdmzcFR7VHgnwFnOFbtVfmm9gB1MQBqIfstAtRoIIwzF5Tlr7DdzscTK2gm8Zx44j6oLD3rnZjvcuI8XPuGP/4LJb5Mo97Y2U9/3sXd7LbmG7mezmlhXjg5DIp4VyBqmQU1YojPDdMweQPJh496VIDSz+XBgPxebA==;hbirdAwWSfPibWr8CrxtHg=="
 ---

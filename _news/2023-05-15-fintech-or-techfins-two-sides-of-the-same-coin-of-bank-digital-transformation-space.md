@@ -35,20 +35,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Fintech Benchmarks 2023 – presentation"
-    excerpt: "This year the tension between new forms of digital money and who has the authority to issue it came to the fore of the Fintech Benchmarks 2023. The majority of central banks – 73% – said keeping up with regulating the use of new fintech products and services is their key challenge."
-    publishedDateTime: 2023-05-11T10:32:00Z
-    webUrl: "https://www.centralbanking.com/benchmarking/fintech/7958702/fintech-benchmarks-2023-presentation"
-    type: article
-    provider:
-      name: Central Banking
-      domain: centralbanking.com
-    quality: 24
-    images:
-      - url: "https://www.centralbanking.com/sites/default/files/styles/metatag_image_large/public/2023-05/Fintech-Benchmarks-2023-GMP-banner.jpg?h=96b01c87&itok=xTnnpaDF"
-        width: 1200
-        height: 743
-        isCached: true
   - title: "Tricolor Wins Fintech Nexus Award for Excellence in Financial Inclusion"
     excerpt: "Tricolor Holdings today announced that it has been named the Fintech Nexus Award winner for Excellence in Financial Inclusion. Given to the financial services company making the biggest difference in expanding access to financial services for the underserved population,"
     publishedDateTime: 2023-05-11T13:15:00Z

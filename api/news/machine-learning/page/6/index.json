@@ -2,6 +2,49 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-04-05-fujitsu-ltd-fujitsu-launches-ai-platform-fujitsu-kozuchi-streamlining-access-to-ai-and-ml-solutions-to-contribute-to-a-sustainable-society.md",
+      "title": "Fujitsu Ltd: Fujitsu launches AI platform \"Fujitsu Kozuchi,\" streamlining access to AI and ML solutions to contribute to a sustainable society",
+      "excerpt": "At its Fujitsu Activate Now Technology Summit in Madrid, Fujitsu unveiled a new platform, \"Fujitsu Kozuchi (code name) - Fujitsu AI Platform,\" delivering access to",
+      "sourceUrl": null,
+      "webUrl": "https://www.finanznachrichten.de/nachrichten-2023-04/58860724-fujitsu-ltd-fujitsu-launches-ai-platform-fujitsu-kozuchi-streamlining-access-to-ai-and-ml-solutions-to-contribute-to-a-sustainable-society-011.htm",
+      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2023-04/58860724-fujitsu-ltd-fujitsu-launches-ai-platform-fujitsu-kozuchi-streamlining-access-to-ai-and-ml-solutions-to-contribute-to-a-sustainable-society-011.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://photos.acnnewswire.com/tr:n-650/FujitsuKozuchiFig1.jpg",
+          "width": 650,
+          "height": 247,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-04T15:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finanznachrichten",
+        "domain": "finanznachrichten.de",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-05-students-use-machine-learning-in-lesson-designed-to-reveal-issues-promise-of-ai.md",
       "title": "Students use machine learning in lesson designed to reveal issues, promise of AI",
       "excerpt": "In a new study, North Carolina State University researchers had 28 high school students create their own machine learning artificial intelligence (AI) models for analyzing data. The goals of the project were to help students explore the challenges,",
@@ -1238,59 +1281,7 @@
         "Machine Learning",
         "AI"
       ]
-    },
-    {
-      "path": "_news/2023-03-25-neural-network-software-market-size-2023-trends-and-opportunities-cagr-and-value-chain-study-to-2031.md",
-      "title": "Neural Network Software Market Size, 2023 Trends and Opportunities, CAGR and Value Chain Study to 2031",
-      "excerpt": "The neural network software is a tool used for ANN research and development, stimulation, and application (artificial neural network). The program refers to devices that resemble brains in certain ways and may have science fiction implications. Some of the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/neural-network-software-market-size-2023-trends-and-opportunities-cagr-and-value-chain-study-to-2031-2023-03-24",
-      "originalUrl": "https://www.marketwatch.com/press-release/neural-network-software-market-size-2023-trends-and-opportunities-cagr-and-value-chain-study-to-2031-2023-03-24",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-25T00:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
     }
   ],
-  "nextPage": null
+  "nextPage": 7
 }

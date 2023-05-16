@@ -85,22 +85,6 @@ related:
         width: 2880
         height: 2030
         isCached: true
-  - title: "UK's First Driverless Bus Service To Begin In Scotland Next Week"
-    excerpt: "The UK will roll out its first driverless bus network in Scotland next week with drivers on standby behind the steering wheel, ready to take control should an emergency arise."
-    publishedDateTime: 2023-05-11T17:07:00Z
-    webUrl: "https://www.ndtv.com/world-news/uks-first-driverless-bus-service-to-begin-in-scotland-next-week-4026830"
-    ampWebUrl: "https://www.ndtv.com/world-news/uks-first-driverless-bus-service-to-begin-in-scotland-next-week-4026830/amp/1"
-    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/uks-first-driverless-bus-service-to-begin-in-scotland-next-week-4026830/amp/1"
-    type: article
-    provider:
-      name: NDTV
-      domain: ndtv.com
-    quality: 59
-    images:
-      - url: "https://c.ndtvimg.com/2023-02/lc9brad_e-bus-generic-_625x300_17_February_23.jpg"
-        width: 650
-        height: 400
-        isCached: true
   - title: "Britain to roll out first driverless bus service"
     excerpt: "The service, which aims to carry 10,000 passengers a week over a 22.5-kilometre route on five single-deck buses, will be the world's first automated local bus service, its operator said."
     publishedDateTime: 2023-05-12T18:48:00Z
@@ -114,6 +98,20 @@ related:
       - url: "http://www.gulftoday.ae/-/media/gulf-today/images/articles/news/2023/5/12/driverless-buses.ashx?h=450&w=750&hash=DA420C0A40E730C30B1558286369EDC1"
         width: 750
         height: 450
+        isCached: true
+  - title: "Self-driving Cars Market in 2023: Insights and Strategies | 2031"
+    excerpt: "New “Self-driving Cars Market” Report 2023 by Manufacturers and Forecast to 2031: Get the latest insights into"
+    publishedDateTime: 2023-05-15T04:45:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-cars-market-in-2023-insights-and-strategies-2031-2023-05-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "UK To Roll Out Driverless Bus Service"
     excerpt: "The UK will roll out its first driverless bus network in Scotland next week with drivers on standby behind the steering wheel, ready to take control"

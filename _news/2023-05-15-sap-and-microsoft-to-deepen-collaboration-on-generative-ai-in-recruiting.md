@@ -129,22 +129,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Palo Alto Networks unveils its cloud next-generation firewall for Microsoft Azure customers"
-    excerpt: "Cloud NGFW for Azure seamlessly integrates Palo Alto Networks AI and ML-powered security with the simplicity, scalability and global availability of Azure"
-    publishedDateTime: 2023-05-11T10:48:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/palo-alto-networks-unveils-its-cloud-next-generation-firewall-for-microsoft-azure-customers-d75sdsry"
-    ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/palo-alto-networks-unveils-its-cloud-next-generation-firewall-for-microsoft-azure-customers-d75sdsry?amp=1"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/palo-alto-networks-unveils-its-cloud-next-generation-firewall-for-microsoft-azure-customers-d75sdsry?amp=1"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 64
-    images:
-      - url: "https://static.zawya.com/view/acePublic/alias/contentid/N2JmYzQ0NDEtODJmYy00/1/oswal-jfif.jpeg?f=3%3A2"
-        width: 900
-        height: 600
-        isCached: true
   - title: "Microsoft Security highlights from RSA Conference 2023"
     excerpt: "Read a recap of memorable moments from Microsoft Security's participation in RSAC 2023 and watch Vasu Jakkal's keynote address on-demand."
     publishedDateTime: 2023-05-15T16:00:00Z

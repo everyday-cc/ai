@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thenews.com.pk/amp/1069301-scotland-set-to-debut-uks-fir
 cdnAmpWebUrl: "https://www-thenews-com-pk.cdn.ampproject.org/c/s/www.thenews.com.pk/amp/1069301-scotland-set-to-debut-uks-first-self-driving-bus-next-week"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,38 @@ images:
     isCached: true
 
 related:
+  - title: "World’s first self-driving bus rolls out in Scotland"
+    excerpt: "The world’s first self-driving bus rolled out in Scotland carrying passengers on a regularly scheduled route. NBC News’ Matt Bradley reports on the future of public transport."
+    publishedDateTime: 2023-05-16T02:10:00Z
+    webUrl: "https://www.nbcnews.com/now/video/world-s-first-self-driving-bus-rolls-out-in-scotland-174465605630"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo174465605630"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo174465605630"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 74
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_05/1684202953745_now_staytuned_scotland_230515_1920x1080-uvfure.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "UK's First Driverless Bus Service To Begin In Scotland Next Week"
+    excerpt: "The UK will roll out its first driverless bus network in Scotland next week with drivers on standby behind the steering wheel, ready to take control should an emergency arise."
+    publishedDateTime: 2023-05-11T17:07:00Z
+    webUrl: "https://www.ndtv.com/world-news/uks-first-driverless-bus-service-to-begin-in-scotland-next-week-4026830"
+    ampWebUrl: "https://www.ndtv.com/world-news/uks-first-driverless-bus-service-to-begin-in-scotland-next-week-4026830/amp/1"
+    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/uks-first-driverless-bus-service-to-begin-in-scotland-next-week-4026830/amp/1"
+    type: article
+    provider:
+      name: NDTV
+      domain: ndtv.com
+    quality: 59
+    images:
+      - url: "https://c.ndtvimg.com/2023-02/lc9brad_e-bus-generic-_625x300_17_February_23.jpg"
+        width: 650
+        height: 400
+        isCached: true
   - title: "UK Launches its First Self-Driving Bus Service"
     excerpt: "Scotland will launch its first driverless bus network. According to the details, the buses will run without any input from the drivers."
     publishedDateTime: 2023-05-12T13:55:00Z
@@ -58,6 +90,20 @@ related:
       - url: "https://media.autoexpress.co.uk/image/private/s--4gBK8ho3--/f_auto,t_primary-image-mobile@1/v1684143748/autoexpress/2023/05/Stagecoach%20autonomous%20bus%20-%20Alexander%20Dennis%20Enviro200AV.jpg"
         width: 375
         height: 210
+        isCached: true
+  - title: "All aboard Britain’s first self-driving bus"
+    excerpt: "The UK’s first autonomous bus service has begun taking paying passengers across the Forth Road Bridge. The vehicles have two staff: a safety driver who can take"
+    publishedDateTime: 2023-05-15T23:01:00Z
+    webUrl: "https://www.thetimes.co.uk/article/all-aboard-britains-first-self-driving-bus-f7xz0cfhr"
+    type: article
+    provider:
+      name: The Times
+      domain: thetimes.co.uk
+    quality: 39
+    images:
+      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2Fb0724a06-f359-11ed-9b4c-f23623b5e8cf.jpg?crop=3994%2C2247%2C0%2C208&resize=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "'World first' self-driving buses ready for roads in Scotland"
     excerpt: "A full size, self-driving bus service is ready to take to the roads of Scotland in what is believed to be a world first. The Stagecoach autonomous bus service, AB1, is launching for passengers over the Forth Road Bridge on 15 May. The 14-mile route runs between Ferrytoll park-and-ride in Fife and Edinburgh Park train and tram interchange."

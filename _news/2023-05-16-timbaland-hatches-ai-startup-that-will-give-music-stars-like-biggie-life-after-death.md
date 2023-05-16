@@ -6,8 +6,8 @@ publishedDateTime: 2023-05-15T18:16:00Z
 originalUrl: "https://www.forbes.com/sites/jaredcouncil/2023/05/15/timbaland-hatches-ai-startup-that-will-give-music-stars-like-biggie-life-after-death/"
 webUrl: "https://www.forbes.com/sites/jaredcouncil/2023/05/15/timbaland-hatches-ai-startup-that-will-give-music-stars-like-biggie-life-after-death/"
 type: article
-quality: 40
-heat: 40
+quality: 62
+heat: 62
 published: false
 
 provider:
@@ -20,7 +20,14 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
-secured: "oY2cMm7MEn5hefwgRIP3nvAjbBHiR7GSVrKubwEw+qax/BWZjUQLUEmVI/lapGnsbPLjXWAZkPxrVw9+oYZiHprm83bp2grZibrj0sYXLm5w/YvUf3JnF6OhMSLVK2rydN+jlI+GAkk0SJnA4dOffa6JV+8wS9gFxcQrUN/IieQ3hUDHAspRujOYdywYyOTpiwVDMDuTO+bz/MG95HS6DjXeUb/D45nx9pm8oI59Y62Bs6AwlW+ZSrRZKmBkcJ9ek5XKwG2ycybrsUQRRBT8XcXhl8hkCe9af7Mwc2k0j1mdZdz19zgniyGYW9THuo1s/QnebwRGagK2C9OuNm9hjBnOaIXcKsZ5G7it1/uyOygjM7tO3hwh0oPl67xA70Yasus06uoDiYf7cRPF0mlS/wKiiw0ehZQ3XhHJITMjoGNXXQS9O2UxTccE3fo0Suac9BLq4G1ugZlNPwwztHmnjZOvWvjlRNlsSERYyiP0geVXyPa69WNcahhu5zTLYEOqrtytvvDpgAVpMVQbyDKRZg==;rTijWfMzso2iXaswLkdO2g=="
+images:
+  - url: "https://specials-images.forbesimg.com/imageserve/61d342aa1796ff555ece8de4/400x0.jpg?cropX1=488&cropX2=1512&cropY1=102&cropY2=1126"
+    width: 400
+    height: 400
+    isCached: true
+
+secured: "fhZUYr6HMDcPgje4GOKSiZeY2L49zj3QH0uyTD29vEI6OHVCToUxk6LjFuJCHzi2XXkK8pZiRy6QHF39c4B3hw3LimTKfemQVb1/YfOfrpruSNCaqwXQx+5Tze25MtwIX76554YNPGbrMg82PUBVRo+Uq/rLuisIAIRaye3Y41RUsKuDNe4+ogTjvBqf9EhA0j+V8Iwu9SDP7AvoXtS10seqt9QXqy6Cb/5bnRnp06HtdRURUIacuECDgBbw+GTMooPXJN9CIttEhHhHQ7xk6i0fqv0jTTaWC2QoVNzlHF5zd5gyHgZ19RlBmcZeX64auLdwBkfbbYfwPNSP9EkhExdTNGCkN1rD0SjiVo4zW1w=;q2S06uAw1fmYT+JqRM++iA=="
 ---
 

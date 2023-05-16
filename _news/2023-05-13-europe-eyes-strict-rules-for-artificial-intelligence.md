@@ -9,8 +9,8 @@ ampWebUrl: "https://www.politico.eu/article/europe-strict-rules-artificial-intel
 cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/europe-strict-rules-artificial-intelligence/amp/"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 79
+published: true
 
 provider:
   name: Politico Europe
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "How Europe is at the forefront of building artificial intelligence guardrails"
-    excerpt: "Authorities around the world are racing to draw up rules for artificial intelligence, including in the European Union, where draft legislation faced a pivotal moment on Thursday. A"
-    publishedDateTime: 2023-05-11T09:44:00Z
-    webUrl: "https://kdvr.com/news/technology/how-europe-is-building-artificial-intelligence-guardrails/"
-    ampWebUrl: "https://kdvr.com/news/technology/how-europe-is-building-artificial-intelligence-guardrails/amp/"
-    cdnAmpWebUrl: "https://kdvr-com.cdn.ampproject.org/c/s/kdvr.com/news/technology/how-europe-is-building-artificial-intelligence-guardrails/amp/"
-    type: article
-    provider:
-      name: FOX31 Denver
-      domain: kdvr.com
-    quality: 69
-    images:
-      - url: "https://kdvr.com/wp-content/uploads/sites/11/2023/05/645cb94a2eb286.56802250.jpeg?w=1280"
-        width: 1280
-        height: 853
-        isCached: true
   - title: "How Europe is leading the world in building guardrails around AI"
     excerpt: "Authorities around the world are racing to draw up rules for artificial intelligence, including in the European Union, where draft legislation faced a pivotal moment"
     publishedDateTime: 2023-05-11T11:32:00Z

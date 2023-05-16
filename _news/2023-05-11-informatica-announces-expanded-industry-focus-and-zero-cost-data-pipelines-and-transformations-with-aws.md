@@ -57,22 +57,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Informatica Unveils Expanded Industry Focus and Zero Cost Data Pipelines and Transformations with AWS"
-    excerpt: "Informatica, an enterprise cloud data management leader, built upon their years-long relationship with Amazon Web Services (AWS)."
-    publishedDateTime: 2023-05-11T10:26:00Z
-    webUrl: "https://enterprisetalk.com/news/informatica-unveils-expanded-industry-focus-and-zero-cost-data-pipelines-and-transformations-with-aws/"
-    ampWebUrl: "https://enterprisetalk.com/news/informatica-unveils-expanded-industry-focus-and-zero-cost-data-pipelines-and-transformations-with-aws/amp/"
-    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/informatica-unveils-expanded-industry-focus-and-zero-cost-data-pipelines-and-transformations-with-aws/amp/"
-    type: article
-    provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 44
-    images:
-      - url: "https://enterprisetalk.com/wp-content/uploads/2023/05/Informatica-Unveils-Expanded-Industry-Focus-and-Zero-Cost-Data-Pipelines-and-Transformations-with-AWS.jpg"
-        width: 1500
-        height: 844
-        isCached: true
 
 secured: "H9A37dvNoMVZPihlWjAKer0LxFRhtpD/w+qYNfMyNdjfes6E30129DkXXp2XFvqsuaOPXyM2dqbNzDNU8Y6UR+w96CYZowuSkSltZX0tdz3hy0KCUD8nDSF3BEDYBz7f7c3Xa9H2aJ+XlwEDnTjB5QN9Pe7LviSoIg9OYh3f2p8zx2CzGyc/NrHK75Y1JcQD8sad+XvQxFLSNrFO4/Ckl1vQZCXLeQ/6TFdaKUFGldZai6e1PMwoXLxouqg9e6xzW2bmrQcFVQHm0q3Z0gg9qqhBiT0Xvyx5GEeEVWeLxQCPLVtuOig0VwXCQ3MxUFXG0ZAxGAydn5zI76jJZB9FJKJiL1OPiB1mDSfoVD2kZhLXUI6rMJxRKtR9kxu53C4HXucyQMPlyzrprGSgkcanlsDtSTvzADDslxp+4yQhv4kQdFdG+GIO6J0w0OthIbwON3OYtoXQ6PAM3T+1GYE0sx5Ooa/rLC5NSSnmSg0DuldfHH+/x3hTW5LoLwjdiw7DuLf2n8ERfsth+IAx7sktTg==;pUd10cqg5YwsW0nA6bIdbw=="
 ---

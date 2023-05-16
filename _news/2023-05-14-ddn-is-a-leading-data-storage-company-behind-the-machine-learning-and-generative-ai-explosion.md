@@ -19,20 +19,15 @@ topics:
   - AI
 
 related:
-  - title: "DDN is the Leading Data Storage Company Behind the Machine Learning and Generative AI Explosion"
-    excerpt: "With More AI Data Capacity Deployed Than any Other Storage Company in the World, DDN is Fueling Breakthrough Applications in Medicine, Finance, Research, Autonomous Driving, and Space Exploration CHATSWORTH,"
-    publishedDateTime: 2023-05-11T10:28:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/05/11/9812285.htm"
+  - title: "Leading Chinese AI company iFLYTEK showcases latest innovations at opening ceremony of BEYOND Expo 2023 in Macao"
+    excerpt: "PRNewswire/ -- iFLYTEK, a leader in AI technology, showcased its latest cutting-edge innovation at the opening ceremonies of"
+    publishedDateTime: 2023-05-11T16:36:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/leading-chinese-ai-company-iflytek-showcases-latest-innovations-at-opening-ceremony-of-beyond-expo-2023-in-macao-1032318837"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 44
-    images:
-      - url: "https://mma.prnewswire.com/media/1191324/DDN_Logo.jpg"
-        width: 283
-        height: 400
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 28
 
 secured: "EQwU8/fwJKvl9ui0m8vk+k4uzDCGsEw04S0jGX8to494DHQVmCTsnom5l10NJdPnD66XPLg2YOJc0FSRUtt3JmBWLdFnG4zzhuzEcFhXbOflK8q4wvDVzSHsc2eXLHo9dBhLNvQS0jOcbYIX+rOcJk0/q4EC144lGH4lAFG3YSBdw0jVcNEK+0QvHgZqWkGu348+W7xv9m4539LW9tt9ylYRUCJcyx0y96HvRmgW5/LpeJXkW+DHfNeubytcFcdznNNXNS33u324skhsNTcbp+l0DUKpyGNF9buRrRFjreglxchL8eAgyACClXV08WrEEyHDvlmVu/q2AYzdeEYVdZiYrtiNGPnHXlKoH5tMGD7llEwzsG0ayqCTbaX6cktrPCA83uaZCwYg/sK0z0WciHKXMroDBddfNl59EkgyuXFD9R9rMpRmVPqL/L8+3VIQaY6HoTo1NyMm1O3zgnc97VGqGd6e3aA5xVnWpD1ux/UT9+IniIviYTpo8xLyGJsxUU90XCDIPqs7IXasXX/qoQ==;kQbiU7HoNWCorR0cQO4Yjw=="
 ---

@@ -79,15 +79,6 @@ related:
         width: 619
         height: 377
         isCached: true
-  - title: "EU draft AI Act updated with public facial recognition ban"
-    excerpt: "The additions to the AI act include banning the use of facial recognition in public spaces along with predictive policing tools."
-    publishedDateTime: 2023-05-11T10:28:00Z
-    webUrl: "https://cointelegraph.com/news/eu-ai-act-updated-with-public-facial-recognition-ban"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 34
 
 secured: "WZAxKrh/M3lEJ3awK666JOIyguFd7CEtzEA5L/Zlnobl4UhAWC+f3aGlDwO3kEIFR98yohPU1vDTZaTHEeI5kKrKFb6lIZQGtWjz+g/I/o7GvNcvFcErdEXRR4UEj8qtUBQY6sr0gh0UP0IncWMkvEgmqY10PUWmcmCKohyBs+/OipsTXVp1Dpb+RY30TU2x37Y5Y8eUlS+hI55mRHH+GnafZhvJO3X4C1Dg18LhOiY2RT3TXxhPsskpa9skhgYreN/L6d6vFBXoeGCkxWzl+23NRZwYdQ9p0vpVZjdjoIWrDnoWNTq1X8FggWxfXIKGXmKO0E9Bu3yk8dNCVTlozVtk5bE6qnpOMlOZb4NYN+jccy+hG+wVH7l0SrRLqEczkLNRwPv+oMD0EW11/LCbRSs9RZQEQ2i/pFchZlcd22fR70OdZ1JSr66a8KWOG7uh4BjxZf6CCejCeVfLQ3WoRZ331l84O5dCfU/YjVCI/qtf1/Sq60Z0V20sIsp78zNmfKzDoSkgeAfR5QfYd2xvGg==;hAFni8RkVXFmMKiKsCBt+g=="
 ---

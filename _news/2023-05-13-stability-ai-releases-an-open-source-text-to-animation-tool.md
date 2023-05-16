@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/stability-ai-releases-an-op
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/stability-ai-releases-an-open-source-text-to-animation-tool/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Together raises $20M to decentralize and open-source AI model creation"
+    excerpt: "Together, a startup that’s building a decentralized ... The funding will be used to support Together’s mission of creating a decentralized alternative to the closed AI systems winning all the plaudits today, such as OpenAI LP’s ChatGPT."
+    publishedDateTime: 2023-05-16T02:24:00Z
+    webUrl: "https://siliconangle.com/2023/05/15/together-raises-20m-decentralize-open-source-ai-model-creation/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/05/image_2023-05-16_091657940.png"
+        width: 599
+        height: 402
+        isCached: true
 
 secured: "UgNf6KnmRHoq5IPSGjazGLLJlUb84NtKOJ8Zm6d2mWkOpVRw6IrBGkSN4pFiVawC9rc3NcZfXA+ijSf6QRftcVsWEj4CB0vujwnrwiNXklc2v6AzjbfKQYZPgpxBYJvUw3iagEQsNKG0bEnXCvtszSnqIEFyZvZH2qPB1uFnnuz0gQnUczh0ig52R4lX51nJAyfGRZhjMX0blpKRDV3FBAO6edGPhNWICiz1d9NNY4uc5+Uo4X8CUCwpsNo92RUPEhG9oUDN3er53d6tN6L2ufmPEkFljvWYMCmisSJWx20z8vlUTHrOZ+0AHGM6gCuvh8O52dyC3tWBA7BkNl2zdPQk4S4fA27EBofnyeMAZNJOfz52tfOZfkpNkppl50ChIPP9NR+knKGyAtRYQpjmD6Q+8ORcdAncTid9J3ej0IV4ZVP7snt+TTgkjOSAZH8RzF73wz+iGywDjhur9/OOyYo/g1nOw8fIj/5w18+XGGcoO3sv+vIE5DXL20Pv++SzqQmZ7uc4+VGF4ImLnPNuvg==;5AWqcNlvGuyop+UjnOlUQw=="
 ---

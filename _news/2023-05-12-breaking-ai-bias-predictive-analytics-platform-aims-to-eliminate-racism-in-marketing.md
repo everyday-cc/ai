@@ -62,15 +62,6 @@ related:
       name: Multichannel Merchant
       domain: multichannelmerchant.com
     quality: 14
-  - title: "Artificial Intelligence In Genomics Market worth $2.0 billion | MarketsandMarkets"
-    excerpt: "Artificial Intelligence In Genomics Market in terms of revenue was estimated to be worth $0.5 billion in 2023 and is poised to reach $2.0 billion by 2028, growing at a CAGR of 32.3% from 2023 to 2028 according to a new report by MarketsandMarkets™."
-    publishedDateTime: 2023-05-11T17:53:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/05/11/9812870.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 14
 
 secured: "etGQaxHPHB6gXI0qVk1tIDmAwbyv9pcXLl4a8XoUxAhCphC42dOFp9aEAe9ncUUaSG7GJqGj03yM+6GYNGCO/qQNyUhRCspS6cQLrB6mwFL3iIw1qIXbUbbonBKQahuddgB5kw5z7K11jf6ss26FkhJxt8LYwA2adfAKJTMMWdiMA2V0e0Eg7VD9HJlRK2JLNETJDP5h/HAE8/0IFJ1NKIJKAeCCztkfntwYMHAIYqi60hppjDjTUuaoITcbA74WtQH1aIne5ZWJfHwH4AqBnjSzHSl6YynZ10b4SfGk6tQ98iTLX27LFsS/XT/9h8DJuVMa9gm9crj98TenG7EswUUpHeeQG2bNlot3mABwrUNJ+x5Iu0xNYVl7OpYuj/6A+qu6GO3nMuEdISS2W8y/2qbmT49BZhuKtgZZlctH3CyUMmFUYu+c0Qu4nWfZaorNmO29isBU5bYfjpYQbisokTiBQTQSPMRfkSkZ59l2LfWHe6PVvXWwTuNPuI+ra9Xh7L685iBAAEUlZiGOl7+RoA==;GnPlQ65fjLVyg8oUS9NQoQ=="
 ---

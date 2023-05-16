@@ -2,6 +2,60 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-05-02-geoffrey-hinton-a-pioneer-in-artificial-intelligence-resigns-from-google-over-ethical-fears.md",
+      "title": "Geoffrey Hinton, a pioneer in artificial intelligence, resigns from Google over ethical fears",
+      "excerpt": "Geoffrey Hinton, a pioneer in artificial intelligence and a longtime leader of Google’s AI research division, has resigned from his position at the tech giant, citing growing concerns about the ethical implications of the technology he helped create,",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/geoffrey-hinton-a-pioneer-in-artificial-intelligence-resigns-from-google-over-ethical-fears/",
+      "originalUrl": "https://venturebeat.com/ai/geoffrey-hinton-a-pioneer-in-artificial-intelligence-resigns-from-google-over-ethical-fears/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 377,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/05/deepmind.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/geoffrey-hinton-a-pioneer-in-artificial-intelligence-resigns-from-google-over-ethical-fears/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/geoffrey-hinton-a-pioneer-in-artificial-intelligence-resigns-from-google-over-ethical-fears/amp/",
+      "publishedDateTime": "2023-05-01T10:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Healthcare",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-05-01-meet-7-healthcare-robotics-startups-at-robotics-summit-expo.md",
       "title": "Meet 7 healthcare robotics startups at Robotics Summit & Expo",
       "excerpt": "During a session at the Robotics Summit & Expo, which is held at the Boston Convention Center from May 10-11, attendees will hear pitches from the following seven healthcare robotics startups currently in the catalyst program: Able Human Motion,",
@@ -1415,50 +1469,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-04-20-microsoft-and-epic-partner-to-bring-gpt-4-and-generative-ai-to-healthcare-providers.md",
-      "title": "Microsoft and Epic partner to bring GPT-4 and generative AI to healthcare providers",
-      "excerpt": "Healthcare software giant Epic Systems Corp. said Monday it’s partnering with Microsoft Corp. to embrace generative artificial intelligence through its Azure AI platform. Under the partnership ...",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2023/04/18/microsoft-epic-partner-bring-gpt-4-generative-ai-healthcare-providers/",
-      "originalUrl": "https://siliconangle.com/2023/04/18/microsoft-epic-partner-bring-gpt-4-generative-ai-healthcare-providers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/04/neuroscience-doctor-holding-clipboard-showing-treatment-against-brain-disease-patient-with-eeg-headset-woman-sitting-neurological-scientific-laboratory-treating-nervous-system-dysfunctions-1.jpg",
-          "width": 1500,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-19T22:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI",
         "AI in Healthcare"
       ]

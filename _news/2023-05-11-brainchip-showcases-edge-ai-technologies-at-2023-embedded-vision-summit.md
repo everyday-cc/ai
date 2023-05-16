@@ -19,6 +19,17 @@ topics:
   - AI
   - Computer Vision
 
+related:
+  - title: "Join Mouser Electronics at Embedded Vision Summit 2023"
+    excerpt: "Mouser Electronics, Inc., the New Product Introduction (NPI) leader™ empowering innovation, invites design engineers to visit its exhibit at Embedded"
+    publishedDateTime: 2023-05-16T02:23:00Z
+    webUrl: "https://www.businesswire.com/news/home/20230515005045/en/Join-Mouser-Electronics-at-Embedded-Vision-Summit-2023"
+    type: article
+    provider:
+      name: newsroom.businesswire.com
+      domain: businesswire.com
+    quality: 4
+
 secured: "oog30PsXdlLlebFF0r4NccIfBrBEdsHyNbICJzflkY2ZQG6PKXH9BxFnK6wo+Sq0np4kbmQTZLXusoGe1noliqsLqfkzkcF4+0FO2sy6vXv/6uFmhmCgu9sCfDgeXcOXYWWkDFdMKTJdMuqwmT5QaAnBVA/7iqe+H4L37Qlnp9OqRDCQdCY3RM3fBE2TL4aRj9BXA9NpZJ470LjZ1YHqLSlQh3ffekCiT2EeUVqXkCU8ORJIAqGiFtblpDYfWQkxTSFFqHV4obuUQAc8ZFzCDDSZaJGIvTg6mbsJyXHWRsxdGKW0hQNst2CteLnZcYjL6kUKWUCpaQIUd9gSxPAB54bpd7bYIdnJOjQJwf8rlfk=;KS6Ds2qPlzHK3OCfY1Fi9w=="
 ---
 
