@@ -53,34 +53,6 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "Self-driving Cars Market in 2023: Insights and Strategies | 2031"
-    excerpt: "New “Self-driving Cars Market” Report 2023 by Manufacturers and Forecast to 2031: Get the latest insights into"
-    publishedDateTime: 2023-05-15T04:45:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-cars-market-in-2023-insights-and-strategies-2031-2023-05-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "UK To Roll Out Driverless Bus Service"
-    excerpt: "The UK will roll out its first driverless bus network in Scotland next week with drivers on standby behind the steering wheel, ready to take control"
-    publishedDateTime: 2023-05-12T03:40:00Z
-    webUrl: "https://menafn.com/1106231030/UK-To-Roll-Out-Driverless-Bus-Service"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 39
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?106671"
-        width: 444
-        height: 250
-        isCached: true
   - title: "UK to roll out first driverless bus service"
     excerpt: "The UK will roll out its first driverless bus network in Scotland next week with drivers on standby behind the steering wheel, ready to take control should an emergency arise. The service,"
     publishedDateTime: 2023-05-13T03:28:00Z
@@ -95,6 +67,15 @@ related:
         width: 620
         height: 413
         isCached: true
+  - title: "Fugitive ex-Apple engineer charged for trying to steal self-driving car tech"
+    excerpt: "The Justice Department said Tuesday it has charged a former Apple engineer with attempting to steal the firm’s technology related to autonomous systems, including self-driving cars, and then fleeing to China. The case was among five announced on Tuesday ..."
+    publishedDateTime: 2023-05-16T18:36:00Z
+    webUrl: "https://nypost.com/2023/05/16/fugitive-ex-apple-engineer-charged-for-trying-to-steal-self-driving-car-tech/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 1
 
 secured: "Beau6eK5qmjSlCr2Lf7ZoacqdYnJw2jMc8o7ykyOv4nndpMLNhZ0WQ7cZyOFH7CJ0IckhThchhYgadoeKfWBOpCkdJOa+Rebpjzo6CRFEj9Y2aQSgOlAdJqXM6CwRUpzR7Gco0JcYPV2DjCXDMqUTPw2o3zI5F8vaU3yxL8bChdzRxh8JCb1zX/P6fB8alW0TcY1o7w9eG28Eib+qSoNO9hb8kF05oWfxzQvN4j6DzI/AAG0NI5dkWZm5+8R5Ff7xr6eOw/QEnm5Ft5az6OgeK0XYfVNWKku1iHqexzsUNelQPCwkx6ClRo/Zc3OCcM0Lfsa/KecR5FGxDpU/+awPPEUzq+cAe0LuiM9Ue43rqo4RyXzE90Qb+7mCxqrvpkqz8Z7pVGHQSMYBOWkp61f1BetNnvc2/MPhs6rW5ZcKux2FYKd1wr4gsl/PSsbmpKM6oX2F7p5KlXa+AzfcSK+M/F16L0TV1LzrsgvTZn3+XfxmE17ffczcCabu4Qy2ynXfX3Y3riiyMCaJdgKxYhlRQ==;XHwtpjnuE5Cd4Q0LnbodsQ=="
 ---

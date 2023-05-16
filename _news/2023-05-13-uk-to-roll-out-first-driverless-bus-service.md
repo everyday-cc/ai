@@ -67,34 +67,15 @@ related:
         width: 750
         height: 450
         isCached: true
-  - title: "Self-driving Cars Market in 2023: Insights and Strategies | 2031"
-    excerpt: "New “Self-driving Cars Market” Report 2023 by Manufacturers and Forecast to 2031: Get the latest insights into"
-    publishedDateTime: 2023-05-15T04:45:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-cars-market-in-2023-insights-and-strategies-2031-2023-05-15"
+  - title: "Fugitive ex-Apple engineer charged for trying to steal self-driving car tech"
+    excerpt: "The Justice Department said Tuesday it has charged a former Apple engineer with attempting to steal the firm’s technology related to autonomous systems, including self-driving cars, and then fleeing to China. The case was among five announced on Tuesday ..."
+    publishedDateTime: 2023-05-16T18:36:00Z
+    webUrl: "https://nypost.com/2023/05/16/fugitive-ex-apple-engineer-charged-for-trying-to-steal-self-driving-car-tech/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "UK To Roll Out Driverless Bus Service"
-    excerpt: "The UK will roll out its first driverless bus network in Scotland next week with drivers on standby behind the steering wheel, ready to take control"
-    publishedDateTime: 2023-05-12T03:40:00Z
-    webUrl: "https://menafn.com/1106231030/UK-To-Roll-Out-Driverless-Bus-Service"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 39
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?106671"
-        width: 444
-        height: 250
-        isCached: true
+      name: New York Post
+      domain: nypost.com
+    quality: 1
 
 secured: "HWvcsp/Igtl+2ODcAU9sISPN9IpDx33xeXoWuTwmgtWMmZsb7Lbz37/JFEQqImLmzU2td8i2dMLAnMjF5qccDXX4V94dsgrjDyUoxL53NA94140PnfcToz7c31JXTNeVUfjhBo2J0tKgrxu9dHFG5g3aK1niQydyfg/WOPggmRVbswNQQCjlMKASh4l0p+H3TmcGoQpRRv312euyIJLBRuniicCupcRO27Xqyln6WG0CivM/JC1GmPr+RG9JSv1IaRxMX8zf+jGixjclZ6UQ+Vux+F71CevlRuvIH7MKqGB8IWK5r7fBCwq42RZ05Mmhc9sr0yVPAWT1DwrSSpWSbyM0C3f9C3Reu5L02G9NErzFsoPT5SdVbjq811PXEXhrQfpPvVFMZiuEVboqxhYoYWoDqvyy4Jsfva8olRvdg6nSzFUH5S3IUZRxcMDv1TwdaYWTbDmgRcJ/p80ywbHcuVKF5XY+PudLaueUxmPOIgP33SJlHCDWh0dLGrEI/5708xCSrN7yf87YV2WbCPrczw==;71hJmvCBXEMyOAs9BvPeyA=="
 ---

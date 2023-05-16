@@ -35,6 +35,17 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "The Ethical Dilemmas of Fintech Breed Distrust; Top 3 Challenges"
+    excerpt: "Financial technology is yet another digital convenience streamlining everyday financial transactions that used to require standing in line at a bank, writing checks, or navigating between several websites."
+    publishedDateTime: 2023-05-16T21:15:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/05/n32435011/the-ethical-dilemmas-of-fintech-breed-distrust-top-3-challenges"
+    ampWebUrl: "https://www.benzinga.com/amp/content/32435011"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32435011"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 41
   - title: "United Insurance among financials gainers; UP Fintech, LM Funding America in losers"
     excerpt: "Gainers: Applied Digital (APLD) +47% on first AI customer news. United Insurance Holdings (UIHC ... Stronghold Digital Mining (SDIG) -11% on reverse stock split. UP Fintech Holding (TIGR) -9%. To ensure this doesn’t happen in the future, please ..."
     publishedDateTime: 2023-05-16T16:11:00Z

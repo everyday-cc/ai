@@ -1,0 +1,141 @@
+---
+category: news
+title: "Sam Altman: CEO of OpenAI calls for US to regulate artificial intelligence"
+excerpt: "The creator of advanced chatbot ChatGPT has called on US lawmakers to regulate artificial intelligence (AI). Sam Altman, the CEO of OpenAI, the company behind ChatGPT, testified before a US Senate committee on Tuesday about the possibilities - and pitfalls - of the new technology."
+publishedDateTime: 2023-05-16T18:34:00Z
+originalUrl: "https://www.bbc.co.uk/news/world-us-canada-65616866"
+webUrl: "https://www.bbc.co.uk/news/world-us-canada-65616866"
+type: article
+quality: 30
+heat: -1
+published: false
+
+provider:
+  name: BBC
+  domain: bbc.co.uk
+
+topics:
+  - AI
+
+related:
+  - title: "AI technology “can go quite wrong,” OpenAI CEO tells Senate"
+    excerpt: "OpenAI CEO Sam Altman testified in the US Senate today about the potential dangers of artificial intelligence technology made by his company and others, and urged lawmakers to impose licensing requirements and other regulations on organizations that make advanced AI systems such as OpenAI's GPT-4."
+    publishedDateTime: 2023-05-16T21:02:00Z
+    webUrl: "https://arstechnica.com/tech-policy/2023/05/ai-technology-can-go-quite-wrong-openai-ceo-tells-senate/"
+    ampWebUrl: "https://arstechnica.com/tech-policy/2023/05/ai-technology-can-go-quite-wrong-openai-ceo-tells-senate/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/tech-policy/2023/05/ai-technology-can-go-quite-wrong-openai-ceo-tells-senate/amp/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 87
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/05/getty-sam-altman-800x534.jpg"
+        width: 800
+        height: 534
+        isCached: true
+  - title: "Here's what happened during OpenAI CEO Sam Altman's first congressional hearing on artificial intelligence"
+    excerpt: "Several lawmakers brought up Section 230 of the Communications Decency Act, the law that has served as the tech industry's legal liability shield for decades."
+    publishedDateTime: 2023-05-16T19:05:00Z
+    webUrl: "https://www.cnbc.com/2023/05/16/openai-ceo-hearing-senators-aim-to-avoid-redo-of-social-media-harms.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2023/05/16/openai-ceo-hearing-senators-aim-to-avoid-redo-of-social-media-harms.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/05/16/openai-ceo-hearing-senators-aim-to-avoid-redo-of-social-media-harms.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 84
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/107241834-1684249882415-sam.jpg?v=1684261588"
+        width: 2755
+        height: 1837
+        isCached: true
+  - title: "OpenAI chief concerned about AI being used to compromise elections"
+    excerpt: "The CEO of OpenAI, the startup behind ChatGPT, told a Senate panel on Tuesday ... \"I am nervous about it,\" CEO Sam Altman said about elections and AI, adding rules and guidelines are needed. For all latest news, follow The Daily Star's Google News channel."
+    publishedDateTime: 2023-05-16T20:28:00Z
+    webUrl: "https://www.thedailystar.net/tech-startup/science-gadgets-and-tech/tech-news/news/openai-chief-concerned-about-ai-being-used-compromise-elections-3322221"
+    ampWebUrl: "https://www.thedailystar.net/tech-startup/science-gadgets-and-tech/tech-news/news/openai-chief-concerned-about-ai-being-used-compromise-elections-3322221?amp"
+    cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/tech-startup/science-gadgets-and-tech/tech-news/news/openai-chief-concerned-about-ai-being-used-compromise-elections-3322221?amp"
+    type: article
+    provider:
+      name: The Daily Star
+      domain: thedailystar.net
+    quality: 57
+    images:
+      - url: "https://tds-images.thedailystar.net/sites/default/files/styles/social_share/public/images/2023/05/17/chatgpt-web.jpg"
+        width: 750
+        height: 393
+        isCached: true
+  - title: "CEO of OpenAI and creator of ChatGPT says ‘regulation of AI is essential’"
+    excerpt: "Sam Altman says before Senate judiciary committee that he supports guardrails for technology to minimize harms"
+    publishedDateTime: 2023-05-16T14:48:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/may/16/ceo-openai-chatgpt-ai-tech-regulations"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/may/16/ceo-openai-chatgpt-ai-tech-regulations"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/may/16/ceo-openai-chatgpt-ai-tech-regulations"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 56
+    images:
+      - url: "https://i.guim.co.uk/img/media/bd83bf5b1e8f0123175a43a4ba20d501c27a30a6/0_166_3936_2362/master/3936.jpg?width=620&quality=85&auto=format&fit=max&s=bb8b305d10e17ef960294c2fd08d1456"
+        width: 620
+        height: 372
+        isCached: true
+  - title: "OpenAI CEO calls for laws to mitigate ‘risks of increasingly powerful’ AI"
+    excerpt: "Sam Altman says before Senate judiciary committee that he supports guardrails for technology to minimize harms"
+    publishedDateTime: 2023-05-16T15:35:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/may/16/ceo-openai-chatgpt-ai-tech-regulations?ref=biztoc.com"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/may/16/ceo-openai-chatgpt-ai-tech-regulations"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/may/16/ceo-openai-chatgpt-ai-tech-regulations"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 56
+    images:
+      - url: "https://i.guim.co.uk/img/media/bd83bf5b1e8f0123175a43a4ba20d501c27a30a6/0_166_3936_2362/master/3936.jpg?width=620&quality=85&auto=format&fit=max&s=bb8b305d10e17ef960294c2fd08d1456"
+        width: 620
+        height: 372
+        isCached: true
+  - title: "Mass event will let hackers test limits of AI technology"
+    excerpt: "OpenAI and other major AI providers such as Google and Microsoft, are coordinating with the Biden administration to let thousands of hackers take a shot at testing the limits of their technology."
+    publishedDateTime: 2023-05-13T14:13:00Z
+    webUrl: "https://www.ksl.com/article/50641482/mass-event-will-let-hackers-test-limits-of-ai-technology"
+    type: article
+    provider:
+      name: KSL
+      domain: ksl.com
+    quality: 39
+    images:
+      - url: "https://img.ksl.com/slc/2929/292917/29291734.jpg?filter=kslv2/responsive_story_lg"
+        width: 1228
+        height: 690
+        isCached: true
+  - title: "In Senate testimony, OpenAI CEO Sam Altman agrees with calls for an AI regulatory agency"
+    excerpt: "In his In his testimony today before a bipartisan U.S. Senate panel, OpenAI CEO Sam Altman was not grilled, probed or interrogated."
+    publishedDateTime: 2023-05-16T18:56:00Z
+    webUrl: "https://venturebeat.com/ai/in-senate-testimony-openai-ceo-sam-altman-agrees-with-calls-for-an-ai-regulatory-agency/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 38
+  - title: "OpenAI CEO Sam Altman calls for increased AI regulation in Senate hearing"
+    excerpt: "OpenAI LP Chief Executive Sam Altman has told lawmakers that the U.S. should consider implementing new rules to ensure the safety of artificial intelligence systems. Altman (pictured) made the remarks this morning during a hearing before a Senate Judiciary subcommittee."
+    publishedDateTime: 2023-05-16T20:02:00Z
+    webUrl: "https://siliconangle.com/2023/05/16/openai-ceo-sam-altman-calls-increased-ai-regulation-senate-hearing/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 36
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/05/21470472099_8e78d53ecf_k.jpg"
+        width: 2048
+        height: 1363
+        isCached: true
+
+secured: "vLhNpZPVHZSpHw8BOeb4BTUagszjl0DJPX9mY6RnVE308+pken5S4dYaBHCWt7XayfG/S4wAtDHoFiL8QfkLFpzD/SNoZFhnGnsB5EoWGsR2NjTpvKaFBFXWsmUBLuY9cA5BtEV87Ajk3NQaAX5fk/p+oUOrOH2kRp6e4qaTKjvb3RpQqeDp6l1RddaA5ta/EwpjIZ4LqMEFNtTGAvIm62/PTJg4idnkg0uJEk3lrxeAIKzjz6/ygflTdbbpZHLHfFiAqmIOJ7CHxo/MpB0cuIbVtM2zkP379wVQitvv9zY2/mWesIe6g/GJ7YTQZbhq2fzS4qI1cywwIbSymcQ6WTdOVqapDxuKJQo+IUSfB7toGSMNsvJ6pMpDhoLEyhpSYOyXqsaR1PkQSnnv/B/YnWvumFsOJvn2YPdn99e1PQ1tVGrR20iDU5Q3S/6F9J5DXKcDXu4vxcUG9zKtb/j6z46o6vMj0RJTwdnx5R0M4E4tl2YMsV5TgYFSDQDzw/iiLWA84DQoZse3AZCDCt/GHg==;ka9deQzqKJ5rAtBqLwqgoQ=="
+---
+

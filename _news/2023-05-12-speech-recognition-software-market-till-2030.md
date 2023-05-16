@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/speech-recognition-softw
 webUrl: "https://www.marketwatch.com/press-release/speech-recognition-software-market-till-2030-2023-05-12"
 type: article
 quality: 69
-heat: -1
-published: false
+heat: 169
+published: true
 
 provider:
   name: MarketWatch
@@ -29,34 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Mobile Speech Recognition Software Market | 2030"
-    excerpt: "The Global Mobile Speech Recognition Software market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players,"
-    publishedDateTime: 2023-05-12T02:53:00Z
-    webUrl: "https://www.marketwatch.com/press-release/mobile-speech-recognition-software-market-2030-2023-05-11"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Deep Learning in CT Scanners Market | 2030"
-    excerpt: "Precision Reports has published a new report titled as \" Deep Learning in CT Scanners Market \" by End User ( Hospital, Diagnostic Center, Research, Veterinary Clinic ), Types ( Stationary, Portable ),"
-    publishedDateTime: 2023-05-13T05:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-in-ct-scanners-market-2030-2023-05-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Facial Recognition Devices Market Expert Analysis By,2030"
     excerpt: "(The Expresswire) -- \"Facial Recognition Devices Market\" Reports recently released an executive data report that focuses on the end"
     publishedDateTime: 2023-05-15T18:44:00Z
@@ -183,15 +155,6 @@ related:
         width: 960
         height: 504
         isCached: true
-  - title: "2023-2029 \"Facial Recognition Access Control Solutions Market\" volume sale, Trends and Market Overview | Report Reviewed by Experts"
-    excerpt: "May 15, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" A market research report has"
-    publishedDateTime: 2023-05-15T07:14:00Z
-    webUrl: "https://www.marketwatch.com/press-release/2023-2029-facial-recognition-access-control-solutions-market-volume-sale-trends-and-market-overview-report-reviewed-by-experts-2023-05-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 19
   - title: "Analysis the CAGR growth on the Global Speech & Voice Recognition Systems Market and the Market size is growing at a CAGR of 13.9% from 2023 - 2030"
     excerpt: "The global Speech & Voice Recognition Systems market has seen significant growth in recent years, driven by increasing demand from various industries. Technological advancements, increasing consumer awareness,"
     publishedDateTime: 2023-05-13T13:25:00Z

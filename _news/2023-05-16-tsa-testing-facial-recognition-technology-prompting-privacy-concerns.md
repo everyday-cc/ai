@@ -3,16 +3,16 @@ category: news
 title: "TSA testing facial recognition technology, prompting privacy concerns"
 excerpt: "A new project by the Transportation Security Administration is using facial recognition software to verify identities."
 publishedDateTime: 2023-05-16T06:19:00Z
-originalUrl: "https://www.fox13now.com/tsa-testing-facial-recognition-technology-prompting-privacy-concerns"
-webUrl: "https://www.fox13now.com/tsa-testing-facial-recognition-technology-prompting-privacy-concerns"
+originalUrl: "https://www.10news.com/tsa-testing-facial-recognition-technology-prompting-privacy-concerns"
+webUrl: "https://www.10news.com/tsa-testing-facial-recognition-technology-prompting-privacy-concerns"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: fox13now
-  domain: fox13now.com
+  name: ABC 10 News
+  domain: 10news.com
 
 topics:
   - Computer Vision
@@ -100,14 +100,14 @@ related:
         isCached: true
   - title: "Are you who you say you are? TSA tests facial recognition technology to boost airport security"
     excerpt: "A pilot project by the Transportation Security Administration assesses the use of facial recognition technology at a number of airports."
-    publishedDateTime: 2023-05-16T16:18:00Z
-    webUrl: "https://abc13.com/tsa-facial-recognition-airport-security-transportation-administration/13250231/"
-    ampWebUrl: "https://abc13.com/amp/tsa-facial-recognition-airport-security-transportation-administration/13250231/"
-    cdnAmpWebUrl: "https://abc13-com.cdn.ampproject.org/c/s/abc13.com/amp/tsa-facial-recognition-airport-security-transportation-administration/13250231/"
+    publishedDateTime: 2023-05-16T21:17:00Z
+    webUrl: "https://abc7chicago.com/tsa-facial-recognition-airport-security-transportation-administration/13250231/"
+    ampWebUrl: "https://abc7chicago.com/amp/tsa-facial-recognition-airport-security-transportation-administration/13250231/"
+    cdnAmpWebUrl: "https://abc7chicago-com.cdn.ampproject.org/c/s/abc7chicago.com/amp/tsa-facial-recognition-airport-security-transportation-administration/13250231/"
     type: article
     provider:
-      name: abc13
-      domain: abc13.com
+      name: ABC 7 Chicago
+      domain: abc7chicago.com
     quality: 79
     images:
       - url: "https://cdn.abcotvs.com/dip/images/10994202_090221-cc-ap-tsa-generic-img.jpg"
@@ -277,6 +277,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Are you who you say you are? TSA tests facial recognition technology to boost airport security"
+    excerpt: "The Transportation Security Administration has started using facial recognition technology at a number of airports across the country."
+    publishedDateTime: 2023-05-15T21:49:00Z
+    webUrl: "https://www.boston.com/travel/technology/2023/05/15/are-you-who-you-say-you-are-tsa-tests-facial-recognition-technology-to-boost-airport-security/"
+    type: article
+    provider:
+      name: Boston.com
+      domain: boston.com
+    quality: 39
   - title: "Are you are who you say you are? TSA test facial recognition technology to boost airport security"
     excerpt: "A passenger walks up to an airport security checkpoint, slips an ID card into a slot and looks into a camera atop a small screen. The screen flashes “Photo Complete” and the person walks through — all without having to hand over their identification to the TSA officer sitting behind the screen."
     publishedDateTime: 2023-05-15T12:25:00Z
@@ -328,6 +337,6 @@ related:
       domain: thedailyrecord.com
     quality: 28
 
-secured: "ZG2JN1c71ii7IoyB3rBorx1n82pBU2Og4/2dsB/FE+mpJfofTA9JbhEQ77nZtrl5TOyRZomaw8ATOrOwAT5knj9j/erA5rVA2OSnrJp7sYEhiKVpkwAaQoVx2xk+WLODRowm8ve2SAYrxbfa+fsQjuy9j01ns482vLlarv+M97OaGJVfW1S1ab8PDgecWKfxpJDZyRBktpHEtbuh6aJKhyE7n8ONlmMCTF+RfIW5O3PaBgc+/dDcm4EsP9UcuYsWZrpgyFdHyxLoDx5QCy0R7mnxND9GEKKlGfbUVb1gzs5it+TknfnKFGeSxY4c7S2LVL702MnuxuKjv5iKpegQ/pED6CIeMOxTjp4CISO8j+4dNGxxnDSoFXM/2uInBU65lS2eSgmnoBsJ9wte9l9SbhhMM2QiCSOVV0V30aFxrWWPsPy4nDXcQKc/foiqCpJI5GD/D0g/q8OdRx4L9gSWJmizS/mivSBpVTWRdQi0XSTCj4uo/mQZxDnVVWL5hi05XFRgOM5R3G9E6mIIoX2eqg==;Ge+6R/QMZ5DbI5L7oppOIA=="
+secured: "KRRld6nLjjumeudeX9hiJVgc34bETsIYDnPgFD7GHS7KXL4eAqvYB/MBPKTN8XfUeBHbHJqDSqlYxODpWSiF2RT3qanW2b4IlR4/8wq2076SIFTrzfi3wgPOKOWaAGTESIxLgdF1+iQsMMk/RGCsit6zPQwIfeabbuMLu0vczoYeUa59j1cjgHkzyNQYOizNv5HE5P9PpdtW+DaqDfDFjeTNmuTt5jANtvZldOyc/vYVzmBA6A3i1Q4/QyZyDIPTyRIjoLMBs3dHfdlcJ0UFkmV2kq6XNHUWvpp7n/7U4+qyEvvOdAokXq9NFUdJdXt8joJ2JeVziE3x6+wuQZh/NT+EcoWoWLlOhoeC4dZOeMs=;N5i4muuKR12DmJHdZpBAiA=="
 ---
 

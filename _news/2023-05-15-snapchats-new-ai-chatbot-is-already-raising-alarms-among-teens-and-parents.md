@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2023/04/27/tech/snapchat-my-ai-concerns-well
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/04/27/tech/snapchat-my-ai-concerns-wellness/index.html"
 type: article
 quality: 85
-heat: 145
+heat: 165
 published: true
 
 provider:
@@ -97,6 +97,15 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 19
+  - title: "Amazon Plans AI Chatbot to Replace Shopping Search"
+    excerpt: "A recent job posting reveals Amazon's intention to design a generative AI that would replace the search bar on its site, potentially upending the way sellers have used Amazon thus far. The posting seeks a senior software developer to spearhead the company's AI project."
+    publishedDateTime: 2023-05-16T18:15:00Z
+    webUrl: "https://www.extremetech.com/internet/amazon-plans-ai-chatbot-to-replace-shopping-search"
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 19
   - title: "Google-backed AI startup's chatbot can read novels in seconds"
     excerpt: "In an announcement about the increased capability of Claude, Anthropic claimed that they have raised the context window from 9K to 100K tokens, which corresponds to around 75,000 words. Tokens are the basic units of text or code that a large language model (LLM) AI uses to process and generate language."
     publishedDateTime: 2023-05-12T13:03:00Z
@@ -106,6 +115,15 @@ related:
       name: Gadgets Now
       domain: gadgetsnow.com
     quality: 17
+  - title: "Zoom To Inject Anthropic’s AI Chatbot Into Video, Collaboration Products"
+    excerpt: "Zoom integrates AI into video collaboration meeting and chat products with new Anthropic partnership after partnering with Microsoft-backed OpenAI."
+    publishedDateTime: 2023-05-16T18:58:00Z
+    webUrl: "https://www.crn.com/news/software/zoom-to-inject-anthropic-s-ai-chatbot-into-video-collaboration-products"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 16
 
 secured: "ye6owJmWHDqrGmjR978y76uDqpOS1SAi4YXA4c5Ci1kxnh+SCTGt3F12ff2FkAVa36qSTitsKSPG0hBY8WVtOtsJqMbqfZHQgNHsRlIqJJB2HqozbE9utql5C/k2zLFtI6wV5e0App1ImFPuR+FJBN058hfogxsmmSdDuZiY3baW5pMIokliLRn57pJPrHf0OIRkF1LURT5oo070W97jLiZaGnv5WfxjpzJhWHAS+9t+eU5Xpz1RrdGVLGHAUaB8Q4DxI6InRoskX6xtC+qWeLc1FGP9MZVfvAEH3XkoMlvwSUAr3euAPgLeyuE3lPGCA7jO7gFJjNWqzXkVL82g72Rbp1rcn3D9EebZdmtHBBI=;8jfIR3xBGQ6j0YLV0zTGLw=="
 ---

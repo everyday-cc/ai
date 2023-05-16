@@ -7,7 +7,7 @@ originalUrl: "https://www.mcknightsseniorliving.com/home/news/tech-daily-news/40
 webUrl: "https://www.mcknightsseniorliving.com/home/news/tech-daily-news/40-percent-of-healthcare-working-hours-can-be-augmented-by-ai-study-finds/"
 type: article
 quality: 32
-heat: 32
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,22 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+
+related:
+  - title: "WHO warns about healthcare AI bias"
+    excerpt: "WHO warns healthcare organizations about the potential bias and inaccuracy of AI-based models, and calls for clinical oversight to ensure safe, effective."
+    publishedDateTime: 2023-05-16T20:19:00Z
+    webUrl: "https://www.beckershospitalreview.com/innovation/who-warns-about-healthcare-ai-bias.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 54
+    images:
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "rqq8/K/HwizxXZnHwVNo45uAMyTbVNWAoxJJUk5ehAE3RYkZ22eXBs5BjHuqH5nQZiuqrKHXTeIUdGTs6h6na+YxhgbaKOUfQCPLL6kucW/QrKq6e6jOEPohzjcumZYNY2l1P8JWbftdcM+X4sXJ0LSPO7d2QhsS7g7+O34aP6jJMheUQWlLLjwBSwCQ3b9LeKLMKTfMwG/bjtlsqCX7BxzxPQ+Nhx70cSM84sSaArStsLCFcevFnetliZCiTQGvIG5kFURQgvN4gU8r/vEpaARfLDHhrAheGbAZlsh3RlIdP7W8QDgdXwA1tOjcvzn4QieD6tblay8SjoPlkRCocYOWQ1PRFZL9LH1uJMcrupZQDXfkEmMsaTYA2SGfg4w8dKl0MTmJAK51SQI1gyKMM3XQ1v5DFnrEF5VA2zGpiYYmYLSvi3DIbtacvbwonHra3K/U+fulpGklJlJ+8aQ99VFRAte/TvRfpqb2Hoz/P7aQM6N4Dppoq0go4duZD6dMllGsLoshrov3G4WeHA58Yw==;AFONt7tWeoFPkMdktbMn5g=="
 ---

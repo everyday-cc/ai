@@ -7,8 +7,8 @@ originalUrl: "https://www.bloomberg.com/news/newsletters/2023-05-15/openai-s-alt
 webUrl: "https://www.bloomberg.com/news/newsletters/2023-05-15/openai-s-altman-makes-capitol-debut-at-artificial-intelligence-hearing"
 type: article
 quality: 67
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Bloomberg L.P.
@@ -26,6 +26,17 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "Senators use hearings to explore regulation on artificial intelligence"
+    excerpt: "The chairman of a Senate Judiciary panel said Tuesday that Congress should act soon to regulate artificial intelligence."
+    publishedDateTime: 2023-05-16T17:59:00Z
+    webUrl: "https://rollcall.com/2023/05/16/senators-use-hearings-to-explore-regulation-on-artificial-intelligence/"
+    type: article
+    provider:
+      name: Roll Call
+      domain: rollcall.com
+    quality: 17
 
 secured: "kBVdUsgd9NB20UWJWu1rWBA3IkGWNycmvAE8rF8AF1xxx1bBd6vSJuLISkTuq5buObMdByLU+q32WdG0EbLW7x99+rR/r0Yo/GjYH1PBOBDfiGYadIM5Q0BQaC73V0DgXbNAHHuJLt/Zk8KgADNANk9hluRyXYobSGliC6Np48yelLl2oM4ZGYeh4ULoAZYGoublaoHTpxGmX4q3J1cA2Y7Tm+UEQ0eqqCvq9DuB7lW3TYrnDx98QlZpD46DnnyIUYnjI2tkhYvnZvlsOvx58LCqXiZ6NQns9t96NqkKYaz3m/YwV+f/Y1YO8J5vviY2hQv5T/O9CZP3Ma87tMG54545DUK7CpE3a8L9gV++EOdGJ8Uya6SMGIURd2HoqgBI4R1y1CGcNPh0serzQSumDd/wnW+x+XgcMvMDRlidX6i37EIkqHlorUuVoc6lpPHY6ZNyCpBq9X2ukGf63fTCUVuBhkkNS2lgRVcawtKmQVQHcVm+ArwpapeJvu90msZLIp+zIMSag9CMhlXkAaf2IQ==;WmW5m9tYnGF3YMwAqqEJPA=="
 ---

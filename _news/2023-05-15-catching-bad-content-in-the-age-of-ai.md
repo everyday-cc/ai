@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologyreview.com/2023/05/15/1073019/catching-bad-con
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/05/15/1073019/catching-bad-content-in-the-age-of-ai/amp/"
 type: article
 quality: 59
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -57,6 +57,15 @@ related:
         width: 1426
         height: 808
         isCached: true
+  - title: "The First Year of AI College Ends in Ruin"
+    excerpt: "The problem breaks down into more problems: whether it’s possible to know for certain that a student used AI, what it even means to “use” AI for writing papers, and when that use amounts to cheating."
+    publishedDateTime: 2023-05-16T19:19:00Z
+    webUrl: "https://www.theatlantic.com/technology/archive/2023/05/chatbot-cheating-college-campuses/674073/"
+    type: article
+    provider:
+      name: The Atlantic
+      domain: theatlantic.com
+    quality: 47
   - title: "The Artificial Intelligence Driving Travel Innovations"
     excerpt: "AI news drove headlines this week, from Expedia, to Google, and even to Skift. Click through for a summary of the top stories."
     publishedDateTime: 2023-05-13T16:00:00Z

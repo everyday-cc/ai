@@ -52,6 +52,15 @@ related:
         width: 885
         height: 465
         isCached: true
+  - title: "AI may be on its way to your doctor's office, but it's not ready to see patients"
+    excerpt: "What use could health care have for someone who makes things up, can't keep a secret, doesn't really know anything, and, when speaking, simply fills in the next word based on what's come before? Lots,"
+    publishedDateTime: 2023-05-16T19:10:00Z
+    webUrl: "https://medicalxpress.com/news/2023-05-ai-doctor-office-ready-patients.html"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 12
 
 secured: "FnTVY80C+h/7w5abxQt34CdWaULej8zEKEPuJMXW+dr4IStQI2d++RUOy/Q9FvxOHwuRLSbRt5Q+boi50HqvEDxKjkTZcdzAMHqVYuQx/FV+2MAQscjPV/sfqRH7R89DhYi5EJdXG59h8YrDQIk3YjjFBhKmv9AmtOPQLuW1LQu6SRAHF5o6ZsUiiG6dv5LZAUCNBTfzB1rq7+R2S9ClD+nrjXiyJETu6ZNdpWvbMu1VrwrknvGxADN8+Pksp+rsGISpT7D848+cw8bpDQyzUuqdLNKP/hThApUaS19uXGgLHaB6ElGO5WILlJIDiIt00E/1or9pEsMG9MyINBWL69aVLiV89P9UUfg8bqwNmKw=;KulxtJkKh/IvIW5EgMgV4Q=="
 ---

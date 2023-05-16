@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/zoom-adds-an-ai-assistant-n
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/zoom-adds-an-ai-assistant-named-claude/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -52,6 +52,15 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
+    quality: 47
+  - title: "Zoom makes a big bet on AI with investment in Anthropic"
+    excerpt: "Zoom today announced a partnership with Anthropic to integrate its Claude AI assistant across its platform offerings."
+    publishedDateTime: 2023-05-16T18:07:00Z
+    webUrl: "https://venturebeat.com/ai/zoom-makes-a-big-bet-on-ai-with-investment-in-anthropic/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
     quality: 47
 
 secured: "2dX6dn/8Jm3gqQ55lJtO4wDm6h58+MwSDU9SPURETBraUGt6gxpXGeVhcvzQVrRMZYByUOJXWUFvHC/WULVsm2HqRthjyJj/bJTxFbvaE8pAXb+qBCmN9eQ8zWxqDr/jluhnXaQ1JGrJjcvsf3oKQAT3lwtb1fvu0mcR1WQXKA1s+ZR+nU/dTqMcvnSiBnlfjrjH9av1oVuLtDYsNuYHmyCk3+qDYgu61L/ZZVH2XuvCuZCHYhBilxpl4BfslY0wCPX3INnUz6zBu+/aJwMyRcYD5k2QOslikJix3TfW7+q0vYxRj0v4XjJX9GBOuPneArpTe4J/6A5D5853T1dYqqaYuS0t1/gBipT4T4eUUgM=;jDryQLfhZQw0ogfRGboJTA=="

@@ -64,6 +64,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Machine Learning in Communication Market 2023 | Regional Majority Market by 2030"
+    excerpt: "The Machine Learning in Communication Market Scope and Overview Report for 2023 presents a detailed analysis of the"
+    publishedDateTime: 2023-05-16T09:37:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-in-communication-market-2023-regional-majority-market-by-2030-2023-05-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 64
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "2023, Big Data & Machine Learning in Telecom Market Research Report Analysis by 2030"
     excerpt: "The major players covered in the Big Data and Machine Learning in Telecom market report are: Get a sample copy of the Big Data and Machine Learning in Telecom Market report 2023 Short Summery About Big Data and Machine Learning in Telecom Market: Market Overview of Global Big Data and Machine Learning in Telecom market: According to our latest research,"
     publishedDateTime: 2023-05-16T06:13:00Z
@@ -92,6 +106,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "2023-2029 \"Facial Recognition Access Control Solutions Market\" volume sale, Trends and Market Overview | Report Reviewed by Experts"
+    excerpt: "May 15, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" A market research report has"
+    publishedDateTime: 2023-05-15T07:14:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-2029-facial-recognition-access-control-solutions-market-volume-sale-trends-and-market-overview-report-reviewed-by-experts-2023-05-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 19
 
 secured: "WbvwJoFQeM/3ReLG7HolXak0nJleHL4T6m2CoNVSaOy6FJZ3RqanivMmBFl4kM1Kl/Ew8Pw5VuYZvfTm4IwlsHMsUSICeh5bDH8oppNNf1pjJGyPdMyM7zwZIQ+voS/n43gQrDssDIk05jhjl0G15PXQgahCAdTjFucHKrO2WDPs0YlzaOH30VZ9T9Af4zY6dFj01iMVz7hnhDV7kD8tTkphAUcAPo/Yup0eMmUkMqRwzV0f4qdpl2+NJBxUb1u3CilI3Ab+XgYj+abY/AYD3MXo8CQQXEqvYLyZ5N2qZR5gnNnhL7413ieHbBRXX/GGYLlfS1WnuBVBRbhZWvWQBpcKsLFl0D0XYYW/k7hK43U=;R1bz6gWdUi4vvBvaysBwPg=="
 ---

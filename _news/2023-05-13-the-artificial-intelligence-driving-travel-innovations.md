@@ -67,6 +67,15 @@ related:
         width: 1426
         height: 808
         isCached: true
+  - title: "The First Year of AI College Ends in Ruin"
+    excerpt: "The problem breaks down into more problems: whether it’s possible to know for certain that a student used AI, what it even means to “use” AI for writing papers, and when that use amounts to cheating."
+    publishedDateTime: 2023-05-16T19:19:00Z
+    webUrl: "https://www.theatlantic.com/technology/archive/2023/05/chatbot-cheating-college-campuses/674073/"
+    type: article
+    provider:
+      name: The Atlantic
+      domain: theatlantic.com
+    quality: 47
 
 secured: "50HoccDrtHl/kj/LFUwuEHpyG5c2GG/mGoblyRJTA2MD6UqfAKnpymieQ8kqcebb8SVZs1TRHz1muW/S+OzYlxIwTVZMVPDNNGFKk7ndNzCViOpg348Jai+6pnagio5RIU293YFduvM5haFEUWF1J3KEN1EKyXzWgp5mqEiuj7z9+oh/KrhmBjTxhHmk05CD3E0mWjc8GIdWRJoe6TcxYvS600tqMrjS6SGOnyv5XIEXyzgjRzYkBu/vRN1R53H/F5M8I7Xf8vPLBIfFPdrpPtPIEnocaism4fazR7SvgwmTjWClx7U9chiLKf1r5SjKW+nb1ej9Ts7FMfCoyfeAFUaPM3hNf0c2f3np6bvzZ08CkzkEl90058Pri9qbgcCYO1x9ApEQHh9sH664lbXfyQRmhnKkw9zQtE/R5VnGtv9QTEoHrf4xLdmAM9+mMCUCh8qQ4V8GSpm2wepMDOx2OnkY8uyV5hqbWmI3u0PmZgadIx2Z9Ow/9+pCbO3wKL92r633pCk9lgxmGCqorX8VdA==;Oa9QiI7pIKQ88la8jq97eA=="
 ---

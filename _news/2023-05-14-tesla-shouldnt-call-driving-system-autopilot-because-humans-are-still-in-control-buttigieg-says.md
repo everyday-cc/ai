@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla shouldn’t call driving system Autopilot because humans are still in control, Buttigieg says"
-    excerpt: "WASHINGTON — Tesla shouldn’t be calling its partially automated driving system Autopilot because the cars can’t drive themselves, the top U.S. transportation official says. Transportation Secretary Pete Buttigieg says he’s concerned about Tesla’s marketing of the system,"
-    publishedDateTime: 2023-05-12T02:53:00Z
-    webUrl: "https://www.twincities.com/2023/05/11/tesla-shouldnt-call-driving-system-autopilot-because-humans-are-still-in-control-buttigieg-says/"
-    ampWebUrl: "https://www.twincities.com/2023/05/11/tesla-shouldnt-call-driving-system-autopilot-because-humans-are-still-in-control-buttigieg-says/amp/"
-    cdnAmpWebUrl: "https://www-twincities-com.cdn.ampproject.org/c/s/www.twincities.com/2023/05/11/tesla-shouldnt-call-driving-system-autopilot-because-humans-are-still-in-control-buttigieg-says/amp/"
-    type: article
-    provider:
-      name: TwinCities.com
-      domain: twincities.com
-    quality: 46
-    images:
-      - url: "https://www.twincities.com/wp-content/uploads/2023/05/AP21179015976166.jpg?w=1024&h=576"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Tesla shouldn't call driving system Autopilot because humans are still in control, Buttigieg says"
     excerpt: "Not everyone is thrilled by the idea of using *** self driving car amid *** string of headlines about Tesla's seemingly random car crashes while an autopilot triple *** conducted *** survey of nearly 1000 adults and found 68% said they are afraid of fully ..."
     publishedDateTime: 2023-05-13T15:49:00Z

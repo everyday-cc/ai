@@ -1,31 +1,23 @@
 ---
 category: news
 title: "Are you who you say you are? TSA tests facial recognition technology to boost airport security"
-excerpt: "A pilot project by the Transportation Security Administration assesses the use of facial recognition technology at a number of airports."
-publishedDateTime: 2023-05-16T16:18:00Z
-originalUrl: "https://abc13.com/tsa-facial-recognition-airport-security-transportation-administration/13250231/"
-webUrl: "https://abc13.com/tsa-facial-recognition-airport-security-transportation-administration/13250231/"
-ampWebUrl: "https://abc13.com/amp/tsa-facial-recognition-airport-security-transportation-administration/13250231/"
-cdnAmpWebUrl: "https://abc13-com.cdn.ampproject.org/c/s/abc13.com/amp/tsa-facial-recognition-airport-security-transportation-administration/13250231/"
+excerpt: "The Transportation Security Administration has started using facial recognition technology at a number of airports across the country."
+publishedDateTime: 2023-05-15T21:49:00Z
+originalUrl: "https://www.boston.com/travel/technology/2023/05/15/are-you-who-you-say-you-are-tsa-tests-facial-recognition-technology-to-boost-airport-security/"
+webUrl: "https://www.boston.com/travel/technology/2023/05/15/are-you-who-you-say-you-are-tsa-tests-facial-recognition-technology-to-boost-airport-security/"
 type: article
-quality: 79
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: abc13
-  domain: abc13.com
+  name: Boston.com
+  domain: boston.com
 
 topics:
   - Computer Vision
   - AI
   - AI in Security
-
-images:
-  - url: "https://cdn.abcotvs.com/dip/images/10994202_090221-cc-ap-tsa-generic-img.jpg"
-    width: 1280
-    height: 720
-    isCached: true
 
 related:
   - title: "TSA is testing facial recognition at U.S. airports. Here's what that means for you"
@@ -100,6 +92,22 @@ related:
       - url: "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Are you who you say you are? TSA tests facial recognition technology to boost airport security"
+    excerpt: "A pilot project by the Transportation Security Administration assesses the use of facial recognition technology at a number of airports."
+    publishedDateTime: 2023-05-16T21:17:00Z
+    webUrl: "https://abc7chicago.com/tsa-facial-recognition-airport-security-transportation-administration/13250231/"
+    ampWebUrl: "https://abc7chicago.com/amp/tsa-facial-recognition-airport-security-transportation-administration/13250231/"
+    cdnAmpWebUrl: "https://abc7chicago-com.cdn.ampproject.org/c/s/abc7chicago.com/amp/tsa-facial-recognition-airport-security-transportation-administration/13250231/"
+    type: article
+    provider:
+      name: ABC 7 Chicago
+      domain: abc7chicago.com
+    quality: 79
+    images:
+      - url: "https://cdn.abcotvs.com/dip/images/10994202_090221-cc-ap-tsa-generic-img.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Smile! Reid airport is testing ground for facial recognition project"
     excerpt: "The TSA says the pilot program is voluntary and accurate, but critics have raised concerns about questions of bias in facial recognition technology."
@@ -267,11 +275,11 @@ related:
   - title: "TSA testing facial recognition technology, prompting privacy concerns"
     excerpt: "A new project by the Transportation Security Administration is using facial recognition software to verify identities."
     publishedDateTime: 2023-05-16T06:19:00Z
-    webUrl: "https://www.fox13now.com/tsa-testing-facial-recognition-technology-prompting-privacy-concerns"
+    webUrl: "https://www.10news.com/tsa-testing-facial-recognition-technology-prompting-privacy-concerns"
     type: article
     provider:
-      name: fox13now
-      domain: fox13now.com
+      name: ABC 10 News
+      domain: 10news.com
     quality: 39
     images:
       - url: "https://ewscripps.brightspotcdn.com/dims4/default/34a37e7/2147483647/strip/true/crop/960x504+0+108/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcdn.scrippsnews.com%2Fimages%2Fvideos%2Fz%2F1684195627_h09L7Q.jpg"
@@ -329,6 +337,6 @@ related:
       domain: thedailyrecord.com
     quality: 28
 
-secured: "e24GYg7n8ce68Sn5i8tbFcG+i7BTik7sgK2o05j1D/3Ln8euGECl594xUYaBD5bBJzzQTQxfDQf8EJPsPB+Vy63NLuOvIUrHZPPdnfzcx7ESkXDLcPiQDUiEbfUqNQ+DCbjVIobuFD4cHLuoQ4z/0q5ezjue16Sm/jbTfy49CUs1phmw4rvmzs27gvVcDpq7OjBccu6Z23AG25lFLvLmLuUBNNyxkp7HxHwZM4dJllzQgUu1ARyma4+f3kmzy7P4PgAc6DqsH3cv7Smkq/CPIulH4DpmbkQmdfikcIilnSe4VIy2wlXOfean926Caqwt4NPANpYir0FfWnxpDwl/iPaRHs6Xcj/QOPoxIK5X10E=;Dku61HZCxweMc+GJDrZu0w=="
+secured: "KUwmW3rPq3NMRt1xusoZbbq1a+M6sU+NprbwdEiFViF1CqXDZtRr7cqAHP92XQu92kUgqj/0xU3e0+rLBZU1RH2+wfg1SDjjIZTNuxSLvyIdvDsCBe+xqKfHuluuOzS/wxOgzU2T+oudbMf6Aqzfie5vlt8iOAWjbv70PokVzmcuNF688HwEsMZYTs3FCqCggZm9MWbq71/e6u2pJitdkZj89dj+3RTXrmADdcElgPNxlL+swvLifoe/i4M8nnChuOiHYEWRppFalBB3XP0mNduHKrR5omfumDco5mqpj9NhRcYCklMINEows6usy3YjI8m+g9Cjxaz9Ky1GC7Y3Pq2bJA8jwjbS26uJXD9v5SbiGHTwTJ5t/1hmOoW1MFum6m+hgz7gMCH12jEZL4CKntADrDMCSX/dg+xzFgtKJd8O9T6V7dC88EPVu3TjuW5rO7gq/Aom7XMrNZS9O0I7iyb15QgdBRdDjXh23j5FnE01FlzRByFzSImVb8g7htOqCQXMM5n7jf7A3CpBPktbkg==;O0W+Qnp+SjEtfRfQ5N3bZA=="
 ---
 

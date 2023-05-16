@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/2023-computer-vision-sys
 webUrl: "https://www.marketwatch.com/press-release/2023-computer-vision-system-market-research-report-analysis-by-2030-2023-05-12"
 type: article
 quality: 69
-heat: 119
+heat: 139
 published: true
 
 provider:
@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Machine Learning in Communication Market 2023 | Regional Majority Market by 2030"
+    excerpt: "The Machine Learning in Communication Market Scope and Overview Report for 2023 presents a detailed analysis of the"
+    publishedDateTime: 2023-05-16T09:37:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-in-communication-market-2023-regional-majority-market-by-2030-2023-05-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 64
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "2023, Big Data & Machine Learning in Telecom Market Research Report Analysis by 2030"
     excerpt: "The major players covered in the Big Data and Machine Learning in Telecom market report are: Get a sample copy of the Big Data and Machine Learning in Telecom Market report 2023 Short Summery About Big Data and Machine Learning in Telecom Market: Market Overview of Global Big Data and Machine Learning in Telecom market: According to our latest research,"
     publishedDateTime: 2023-05-16T06:13:00Z
@@ -94,6 +108,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "2023-2029 \"Facial Recognition Access Control Solutions Market\" volume sale, Trends and Market Overview | Report Reviewed by Experts"
+    excerpt: "May 15, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" A market research report has"
+    publishedDateTime: 2023-05-15T07:14:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-2029-facial-recognition-access-control-solutions-market-volume-sale-trends-and-market-overview-report-reviewed-by-experts-2023-05-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 19
 
 secured: "Zmv1ocUoSavNvc0sbR6UUyhhcf5lqdaXiVEUQcEYKL8jAedTzHGfYfX40u3Dm51BoGnZlr4fcAk0CEp4ey8I16vg0woJ9QB6J7eihooD0x2oebTA11SKx8BMy+WRQUUCoCVCwUmmSqkIs8Tz29KtDyuN9lL+AX0UAdvcKjYxzqI+66LXpiDMZVvPzHp6KCzNG14lJrE7nKht4IK5So10kH4TOLOznYI7iRCxyliUbRR6ISkhsRCtfOLiFUuxqT7INhHUIo9CoPcCxDCaIK6duiUFVx4E3yaSGTMHmuHIY1jjQEA4jm4/jc5nQmOADvgniU51MnjOxHsSEhj1a0nP1CLsLOjTBO38nU3r5V68o4M=;kHDkrYWfxEFUWWUL+X+iXw=="
 ---

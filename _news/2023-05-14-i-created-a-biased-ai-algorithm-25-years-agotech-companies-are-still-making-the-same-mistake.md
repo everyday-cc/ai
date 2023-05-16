@@ -22,17 +22,6 @@ topics:
   - AI Ethics
   - AI
 
-related:
-  - title: "I unintentionally created a biased AI algorithm 25 years ago, and tech companies haven’t learned from my mistake"
-    excerpt: "How and why do well-educated, well-intentioned scientists produce biased AI systems? Sociological theories of privilege provide one useful lens."
-    publishedDateTime: 2023-05-12T04:03:00Z
-    webUrl: "https://www.fastcompany.com/90895218/i-unintentionally-created-a-biased-ai-algorithm-25-years-ago-and-tech-companies-havent-learned-from-my-mistake"
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 0
-
 secured: "cFffF1QE+5gTlBKzRRDTNyDK5dmtYa30a2K6F4osyq1D8tG8NGyjuJW9uqjh66tVwRr/BejhNtf4WCCoYJYS5hpLumL1iuHYZ40ct+lKVkCkH5rN5IysZ+g/pqYiAT1CmEXbb2d4dmDIlSMjj1TTg7jofy4UHQjYmdevStrh/aGg+Jpwn7lsjz5hQzS1EyuU10sV9poOclTXJ1oeWTsRAXS6/cqbM1tpLcMS0QpA81wxTAuIZbYRpm5Cu6j2SJ+d3oAkTGlldh2be1W9ev/8pgZczfgHc1GGCxaIP94IZfoI1eS10nkDV8Z/flMBz45X+8aqsRj6krjq1in6GVKMcSU5qfQ6yI0YLWBgKNVVjWiAx5BLbFSr1l4iti+m3WIOo/msEfLY5rq92sZeLeeyKHwSO9nl/ntSKh/qdnpnPIiLIg53OJctrzcHLQoeG9u+DgdRMlJsXhLbD8E2kcMwHldH5YFSks83fLHbiCxsFWBBKO6Vl9XU56KPPbksBEWu6N8xma7lMifaaCgKKLQjWg==;d1U4owLNuiLlDDZoCW5exQ=="
 ---
 

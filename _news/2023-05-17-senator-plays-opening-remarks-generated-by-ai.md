@@ -7,7 +7,7 @@ originalUrl: "https://www.bbc.com/news/av/world-us-canada-65613936"
 webUrl: "https://www.bbc.com/news/av/world-us-canada-65613936"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -42,6 +42,15 @@ related:
         width: 1350
         height: 900
         isCached: true
+  - title: "Newspaper Apologizes for Accidentally Running Deranged AI-Generated Article"
+    excerpt: "The anonymous person behind the AI-generated article in question ... The piece — which discussed cultural appropriation and the ethics of fake tanning through the purported lens of a fictional Latinx immigrant who grew up in Guayaquil, Ecuador ..."
+    publishedDateTime: 2023-05-16T18:47:00Z
+    webUrl: "https://futurism.com/the-byte/newspaper-apologizes-running-ai-generated-article"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 17
 
 secured: "1tsGw9Lp0T1qU1qH2RlG7lGD2eAUQasFgRn5ZPirqiOgnrpbXcpi8EPG5Q5uBoWILxKRPwGpJBSCmaRI/vaXYk3YfbTGUJoMXpBsWizBOIbpP1Psr4+61sdViWXqOXIMKx/MYxFSNY31mWINaN77MXH+j88zZ8ZyjROpMtzHSAhepiW1kH+xMUUUvFSmUJHbRBslfVFUdzuoJ3qxqxvZsPVAnjG2mmkpA7Vkt26mobiYY0h0iHb/SJxpLvRE6DpeB5QfJZn5cDVXU/77UB3iVKdQX0eANOCzX6H0ZBPKkLXVsmfxsKjp0vLAoKcQEwhEB1VkS5aFGMGrWhiFob9kJxzIRfnTSvn/WPcZDjG8Ygk=;wJ5ZUPebvvMElPRZhn3lLA=="
 ---

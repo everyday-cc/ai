@@ -38,6 +38,15 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Newspaper Apologizes for Accidentally Running Deranged AI-Generated Article"
+    excerpt: "The anonymous person behind the AI-generated article in question ... The piece — which discussed cultural appropriation and the ethics of fake tanning through the purported lens of a fictional Latinx immigrant who grew up in Guayaquil, Ecuador ..."
+    publishedDateTime: 2023-05-16T18:47:00Z
+    webUrl: "https://futurism.com/the-byte/newspaper-apologizes-running-ai-generated-article"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 17
 
 secured: "ajPc4PV/Ly6J7K3KE02qHqiFoVdUvGvwieeEnazJFzxm/SzZ0RmR8MJLKpQHzlj7DdXsbS6P0lyGWjaJOYo17eA/q46fWxx7908hypxtUHWMt1mmqSZ7K8Eezht0rE6bNLYwzRDUXdU+buPUE2Vzck/H+aWQBu/dmxIWpuv3t/3fFEmeRYfJ2K7buy2fV6Y107CHYE+GhwBINXUxYoM4y3CaGNzlkJbOrRo6FkHB1otcdhvKoU+KFNVxqS9ByHyt3yR3gtMUHA0DMv48zs4r9PynvOeQmWC43drhpJ1IxYg/gjiAErUOpLr/Cc4zsrtpSpbvYyuITcc65xc9hYwOf5Ts8HJab6hInfdXJkVnyfbbimEqXYHFXvV+avp0V9Tod7kOXNb9It9+1rnCCHJgslcnRYgacmdC9cIBe0HKmmMmfpaqkeFW+NZ1QTUvvmVR42thuTFcQi00pWfe3vSq2G05kyKPhTjuJvd6tcn5QwZ5WSY6aqdJwxsO3pAqqt2+SSgWzh8iSnnS3muvTT6GIg==;ML8PEdHpzHc39dT9rfHr6w=="
 ---

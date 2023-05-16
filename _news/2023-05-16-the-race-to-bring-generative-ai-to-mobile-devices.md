@@ -197,6 +197,15 @@ related:
       name: Broadcast
       domain: broadcastnow.co.uk
     quality: 19
+  - title: "Why boardrooms can’t ignore generative AI"
+    excerpt: "Companies, large and small, are adapting to the threats and opportunities that come with generative AI. Here’s how.Prominent tech leaders have warned against the potential misuse of generative AI. The"
+    publishedDateTime: 2023-05-16T18:51:00Z
+    webUrl: "https://www.livemint.com/news/india/generative-ai-s-rise-raises-security-concerns-for-enterprises-as-samsung-electronics-recently-discovered-a-security-risk-with-chatgpt-despite-concerns-mid-sized-and-large-companies-are-exploring-its-potential-use-cases-in-areas-such-as-hr-fintech-and-e-commerce-however-companies-must-continuously-monitor-re-train-and-fine-tune-to-ensure-accurate-output-and-stay-up-to-date-tech-leaders-have-called-for-a-six-month-moratorium-on-training-systems-that-are-more-powerful-than-gpt-4-until-the-risks-can-be-contained-11684262415529.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 19
 
 secured: "aG5yzIvdwE31tbaIVt8cC6eRf1gWjERhn/FUSgXLo3S/8EgIPBk34gZTJOtGtbbS0n4B3EOMUT/PmtYCdQwUYARTw2oXqRnVJTIi6vei/kddIVXKLaWWc+RC3fgryu23Hs5pmiknidYahvHo1gnytGpcNUMjE/SHIq4o4/1EeXU1nCDtfcDStkNiH7NfoPt6WG4sVkpdWU+Z6sl0eFgyeEkCWwy/rawxl0O9k3Qd4Vqd5v4Oi5nm20BXEPE2eVw2SRgVg35A+EVD9lcXmQULNeCvr6z9GDQxyyouSAahFLeowwMpBnysv8hwGzBo4GNUI3wySbJ5BVyNc2sBZnBjoAY9uQv1xeomRrBM7Pzsx5O7k26lXNZQfZG+4HybFwCkMZw3UA6sJpnFgFpU2PsderOXbezEcGQ0ceQD3MI4bRLwa9z0ANwKXJ6Gb7uiZlnCuz3uh/fIIM9Nt/z3qBjK7g8266v088+R63gL9QO/p/pRc/vxrRn4EduPbds+E36jnA5QK1HU3mvqJzkLaW+sWg==;zrFSdQ9Qh/kBcbpESnc/nQ=="
 ---

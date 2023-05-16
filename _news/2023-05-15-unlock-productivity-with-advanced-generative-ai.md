@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/unlock-productivity-with-advanced-generat
 webUrl: "https://www.ibm.com/blog/unlock-productivity-with-advanced-generative-ai/"
 type: article
 quality: 119
-heat: 249
+heat: 259
 published: true
 
 provider:
@@ -193,6 +193,15 @@ related:
     provider:
       name: Broadcast
       domain: broadcastnow.co.uk
+    quality: 19
+  - title: "Why boardrooms can’t ignore generative AI"
+    excerpt: "Companies, large and small, are adapting to the threats and opportunities that come with generative AI. Here’s how.Prominent tech leaders have warned against the potential misuse of generative AI. The"
+    publishedDateTime: 2023-05-16T18:51:00Z
+    webUrl: "https://www.livemint.com/news/india/generative-ai-s-rise-raises-security-concerns-for-enterprises-as-samsung-electronics-recently-discovered-a-security-risk-with-chatgpt-despite-concerns-mid-sized-and-large-companies-are-exploring-its-potential-use-cases-in-areas-such-as-hr-fintech-and-e-commerce-however-companies-must-continuously-monitor-re-train-and-fine-tune-to-ensure-accurate-output-and-stay-up-to-date-tech-leaders-have-called-for-a-six-month-moratorium-on-training-systems-that-are-more-powerful-than-gpt-4-until-the-risks-can-be-contained-11684262415529.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
     quality: 19
   - title: "The race to bring generative AI to mobile devices"
     excerpt: "Tech companies like Google seek processing power in handsets to reduce computing costs and improve speed of AI chatbots"

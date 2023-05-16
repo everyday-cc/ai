@@ -93,6 +93,15 @@ related:
         width: 1024
         height: 512
         isCached: true
+  - title: "Amazon Plans AI Chatbot to Replace Shopping Search"
+    excerpt: "A recent job posting reveals Amazon's intention to design a generative AI that would replace the search bar on its site, potentially upending the way sellers have used Amazon thus far. The posting seeks a senior software developer to spearhead the company's AI project."
+    publishedDateTime: 2023-05-16T18:15:00Z
+    webUrl: "https://www.extremetech.com/internet/amazon-plans-ai-chatbot-to-replace-shopping-search"
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 19
   - title: "Google-backed AI startup's chatbot can read novels in seconds"
     excerpt: "In an announcement about the increased capability of Claude, Anthropic claimed that they have raised the context window from 9K to 100K tokens, which corresponds to around 75,000 words. Tokens are the basic units of text or code that a large language model (LLM) AI uses to process and generate language."
     publishedDateTime: 2023-05-12T13:03:00Z
@@ -102,6 +111,15 @@ related:
       name: Gadgets Now
       domain: gadgetsnow.com
     quality: 17
+  - title: "Zoom To Inject Anthropic’s AI Chatbot Into Video, Collaboration Products"
+    excerpt: "Zoom integrates AI into video collaboration meeting and chat products with new Anthropic partnership after partnering with Microsoft-backed OpenAI."
+    publishedDateTime: 2023-05-16T18:58:00Z
+    webUrl: "https://www.crn.com/news/software/zoom-to-inject-anthropic-s-ai-chatbot-into-video-collaboration-products"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 16
 
 secured: "56aMbL3r9tWzVDhPPCM9Mc6vXlbawuFwPpsFpNTzY55stVcp+GCNqPcMRAIDHi13uY7gpLwHqP32Xf9ICYij9HJGKxx0CGGPZbj6G3GWgDp4R3jc7RqtK9OWKuHQUnomsqXjjObVKu+J5ueAs1RQHrGBxInG0kSHzXdb6urp5ya/ACepUMuJWFnr9cm23uFLS0tbuYa18+QyVR1BnmX/3H2z2P36oPaGKAEiPqoAD7XxBpamFA4D7isDmy1etBDOi7/J6ySKD8y0tUDcWgSEqOyo7NWvF/ElwKKdNVWK/oztX0oa/yQ7r2ydMBvKDddxargO95J998mb5bSv+NX2A7lHoGhK4//5TmmVghDFjbb6YFo/gE3bpaOmFeZKTmxw7rJjFlVhNld3vsh5lwQWZ7zNXfCR+GnVlwpIBXF8kKq5BbRepwFKr82p4JhO8YAQGH97XOSkjritgnv7RsWIzdE69fSQ3ITkwhJh+DuLLmGnycoXR9VUu+8d+/CsP19MBckTU1rjs5CmkSCy44yATA==;drf5rsSNhh+RF9Hiom/PNg=="
 ---

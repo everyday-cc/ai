@@ -102,14 +102,14 @@ related:
         isCached: true
   - title: "Are you who you say you are? TSA tests facial recognition technology to boost airport security"
     excerpt: "A pilot project by the Transportation Security Administration assesses the use of facial recognition technology at a number of airports."
-    publishedDateTime: 2023-05-16T16:18:00Z
-    webUrl: "https://abc13.com/tsa-facial-recognition-airport-security-transportation-administration/13250231/"
-    ampWebUrl: "https://abc13.com/amp/tsa-facial-recognition-airport-security-transportation-administration/13250231/"
-    cdnAmpWebUrl: "https://abc13-com.cdn.ampproject.org/c/s/abc13.com/amp/tsa-facial-recognition-airport-security-transportation-administration/13250231/"
+    publishedDateTime: 2023-05-16T21:17:00Z
+    webUrl: "https://abc7chicago.com/tsa-facial-recognition-airport-security-transportation-administration/13250231/"
+    ampWebUrl: "https://abc7chicago.com/amp/tsa-facial-recognition-airport-security-transportation-administration/13250231/"
+    cdnAmpWebUrl: "https://abc7chicago-com.cdn.ampproject.org/c/s/abc7chicago.com/amp/tsa-facial-recognition-airport-security-transportation-administration/13250231/"
     type: article
     provider:
-      name: abc13
-      domain: abc13.com
+      name: ABC 7 Chicago
+      domain: abc7chicago.com
     quality: 79
     images:
       - url: "https://cdn.abcotvs.com/dip/images/10994202_090221-cc-ap-tsa-generic-img.jpg"
@@ -263,14 +263,23 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Are you who you say you are? TSA tests facial recognition technology to boost airport security"
+    excerpt: "The Transportation Security Administration has started using facial recognition technology at a number of airports across the country."
+    publishedDateTime: 2023-05-15T21:49:00Z
+    webUrl: "https://www.boston.com/travel/technology/2023/05/15/are-you-who-you-say-you-are-tsa-tests-facial-recognition-technology-to-boost-airport-security/"
+    type: article
+    provider:
+      name: Boston.com
+      domain: boston.com
+    quality: 39
   - title: "TSA testing facial recognition technology, prompting privacy concerns"
     excerpt: "A new project by the Transportation Security Administration is using facial recognition software to verify identities."
     publishedDateTime: 2023-05-16T06:19:00Z
-    webUrl: "https://www.fox13now.com/tsa-testing-facial-recognition-technology-prompting-privacy-concerns"
+    webUrl: "https://www.10news.com/tsa-testing-facial-recognition-technology-prompting-privacy-concerns"
     type: article
     provider:
-      name: fox13now
-      domain: fox13now.com
+      name: ABC 10 News
+      domain: 10news.com
     quality: 39
     images:
       - url: "https://ewscripps.brightspotcdn.com/dims4/default/34a37e7/2147483647/strip/true/crop/960x504+0+108/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcdn.scrippsnews.com%2Fimages%2Fvideos%2Fz%2F1684195627_h09L7Q.jpg"
@@ -328,6 +337,6 @@ related:
       domain: thedailyrecord.com
     quality: 28
 
-secured: "s+j2l26Phz5lyu0sWmCsp+NtwEaKw/un5l1B27Oa4nxo7eFlvVYd+8wyMLLjgP3LTllx6/vTNSWptBrzztSWqYn98W6rt1I6BQS+ik70Xr5nMqLQaTW2WojoCOrBSF+HUvE7H92J6ZoIWWwzqE0/bw9tUWc7RmMAe3jdJSBJel1K5Hof7irz9i2N9jrWTNE6iDBGSkjbj1KID6PEmx2QS4jwrLxbPdReBmODD4mYB0TelRzqdWrYALv/fpaJ5bfTUCMOiLPhfC9S8WKXLsAB0reXDr8FWqyZTgz3eejKIkwGfD4EWB8WCTR+G5iAXpHPlzcUHUgrFOb82jOlvaoo5IjAmVOkXUiTW1nt8aM18qgKhsND49ADYUA4VUsX0O9h+f9xBzeJutrEDg3UyqvUCF8dvaRIcFclQRME3l9UR8/4fZSJsdnRkizKzkGmX6+xkOwHt8CR1DyOdOwrYeScv17iwqH/BrPeFAKyN+O+sogUdP73tax3UkcC2hlM9k1VHPtJ8/kcTr/987yS4XR9TQ==;yJFWiRrLlLU1VoS0S1F9sQ=="
+secured: "OgCwmv2tZ0JcCDrsjdUdxnDtvviQ3Yicv/HP6hvnSGrYQyQHceAwEE4ewBwe23YSqUuf6xDuldSqpaaI/S//RhZC3Yl6pw5ODxkOINPoPibXGsEpG4faanteLVIXpZNuR1FjxSqI1uUqulQDdA3ECx61ifKVEar/bIeeJOI5ISyP/dN0F/J6K9y6JIIX72nPb6JcCitelRgLYl1x8DODgECndoVXVBT4TjzhCZuRYb2VLJmKj+cPRmSIS12dJfubqczfPGnOlSAJKyVv8SECdbfgOrYx7WeauVTNC8SlVVk9fQMkDyqIV/eKWQhNdo78eM69/xt7wZCLcKm2F64U09/0V6E2HUgNOx5mZ7lfV/o=;wccm+qw55u5DaFhbdB7F5w=="
 ---
 

@@ -17,6 +17,8 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Healthcare
+  - Facebook AI
 
 images:
   - url: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20230506_WBP002.jpg"

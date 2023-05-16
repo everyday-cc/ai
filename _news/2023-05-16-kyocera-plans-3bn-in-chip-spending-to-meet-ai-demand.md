@@ -7,7 +7,7 @@ originalUrl: "https://asia.nikkei.com/Business/Tech/Semiconductors/Kyocera-plans
 webUrl: "https://asia.nikkei.com/Business/Tech/Semiconductors/Kyocera-plans-3bn-in-chip-spending-to-meet-AI-demand"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -24,6 +24,17 @@ images:
     height: 630
     isCached: true
 
-secured: "ZW5QaDEitfu6D/tKmMohU+8MA+vyCDgFRUlQoHCdfrvKuoM5DlyWeFnzpxhTSeP3NM7JpftSn73fS9xV4gRvfXeI9cp6lRPrpimZKUADwSnz1C798sCUyEN+/JGxxGq8XGbO1mmgW0XnJ1GEzrgg4OAnBAr3s9ewidnk2FBFxc+yLo7tNmNQXRDh3arpQQrG19C8qBrpI+630WPrlxdf0nvn+9p13VR9fhfzFg8/ngwo2WVxmvQ1gR7hcpumVteH0APsPY687wIzrhPLriNAgsTFpUw2AkvPSpx0I+4uSbih4xTHvg6hKsO4jtB2H1UI2IqyEn/82Pukk5dXtpkrdohmKFjcDJTAFh8De089SNU=;Jf24ZIe6lkTmn/VUKQo+Jw=="
+related:
+  - title: "Kyocera plans $3bn in chip spending to meet AI demand"
+    excerpt: "KYOTO, Japan -- Kyocera will invest 400 billion yen ($2.9 billion) in semiconductor-related production facilities through March 2026, betting big on cutting-edge chips for artificial intelligence and other fields under plans announced Tuesday. The ..."
+    publishedDateTime: 2023-05-16T18:50:00Z
+    webUrl: "https://asia.nikkei.com/cms/Business/Tech/Semiconductors/Kyocera-plans-3bn-in-chip-spending-to-meet-AI-demand"
+    type: article
+    provider:
+      name: Nikkei Asia
+      domain: nikkei.com
+    quality: 34
+
+secured: "0nmTB4d7+5teB/I+YPh2MKuhUGjkfC1qZNi5dgZRbrl+g0UHMxecs821xPnTo5SGp0B0+vEOcwACs7uHfHMLAWEwjg5uwRB1eeeQ5UNOg+2+BwU1FcZhYi/ofMlVnFZrdy+sAK0vq/gTTXROQEm79FtTNHpppb3a63/wbAylh8SNcsVE9jG9mAIxivR0ttBHwcSkydKa55s0Y1slPz3HsttG5PYDNxuzFzTMTwg1Zc7muVq7uwC6dkmcaOmsWMlRj48BQzw0ah4dySZqvAPAetUU7/oydJbioMrhz2UWxeCcQ5YSJLxkdpuDM3sUSWQEiRJAqccUUONt50b4ipXJmO9/qg7XTHP4KxXB1WWegZMJSckU18q5adE95IeZmijpajiFyKPd4zmLvo10GCGoto7IvHSweSNkDOYl3VI9ecferNYHWh0Or4sde7xi9ExbOgGHAgjL5g8Pn6St1ncOO+FmjPuwX1ZoEO5O7iwCGtGfLkO43xfpPXjWvA58lgO3zrOrsSZPNzTLYhEMJQK2cQ==;AZsRaKkCKdD74U4ohynJ3w=="
 ---
 

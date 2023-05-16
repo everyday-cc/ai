@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/edge-artificial-intellig
 webUrl: "https://www.marketwatch.com/press-release/edge-artificial-intelligence-ai-chip-market-research-2023-2030-2023-05-14"
 type: article
 quality: 99
-heat: 309
+heat: 299
 published: true
 
 provider:
@@ -80,34 +80,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 84
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence (AI) in Fintech Market Business Report 2023-2030"
-    excerpt: "Newest Report will contain the Competitional Analysis of Top 5 Key Plyers (The, Autodesk, IBM, Microsoft, Oracle)"
-    publishedDateTime: 2023-05-12T04:40:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-business-report-2023-2030-2023-05-12"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 83
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence (AI) in the Freight Transportation Market"
-    excerpt: "Precision Reports has published a new report titled as \"Artificial Intelligence (AI) in the Freight Transportation"
-    publishedDateTime: 2023-05-12T04:38:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-the-freight-transportation-market-2023-05-12"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 82
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -304,6 +276,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 63
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Natural Language Processing and Recognition Market with Future Opportunities 2023-2030"
+    excerpt: "May 16, 2023 (The Expresswire) -- \"Natural Language Processing and Recognition Market\" Size 2023-2030 |Research Report| 116 Pages | extensively"
+    publishedDateTime: 2023-05-16T08:04:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-and-recognition-market-with-future-opportunities-2023-2030-2023-05-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 61
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

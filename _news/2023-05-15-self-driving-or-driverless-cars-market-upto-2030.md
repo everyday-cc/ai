@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/self-driving-or-driverle
 webUrl: "https://www.marketwatch.com/press-release/self-driving-or-driverless-cars-market-upto-2030-2023-05-14"
 type: article
 quality: 69
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -57,34 +57,6 @@ related:
         width: 750
         height: 450
         isCached: true
-  - title: "Self-driving Cars Market in 2023: Insights and Strategies | 2031"
-    excerpt: "New “Self-driving Cars Market” Report 2023 by Manufacturers and Forecast to 2031: Get the latest insights into"
-    publishedDateTime: 2023-05-15T04:45:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-cars-market-in-2023-insights-and-strategies-2031-2023-05-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "UK To Roll Out Driverless Bus Service"
-    excerpt: "The UK will roll out its first driverless bus network in Scotland next week with drivers on standby behind the steering wheel, ready to take control"
-    publishedDateTime: 2023-05-12T03:40:00Z
-    webUrl: "https://menafn.com/1106231030/UK-To-Roll-Out-Driverless-Bus-Service"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 39
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?106671"
-        width: 444
-        height: 250
-        isCached: true
   - title: "UK to roll out first driverless bus service"
     excerpt: "The UK will roll out its first driverless bus network in Scotland next week with drivers on standby behind the steering wheel, ready to take control should an emergency arise. The service,"
     publishedDateTime: 2023-05-13T03:28:00Z
@@ -99,6 +71,15 @@ related:
         width: 620
         height: 413
         isCached: true
+  - title: "Fugitive ex-Apple engineer charged for trying to steal self-driving car tech"
+    excerpt: "The Justice Department said Tuesday it has charged a former Apple engineer with attempting to steal the firm’s technology related to autonomous systems, including self-driving cars, and then fleeing to China. The case was among five announced on Tuesday ..."
+    publishedDateTime: 2023-05-16T18:36:00Z
+    webUrl: "https://nypost.com/2023/05/16/fugitive-ex-apple-engineer-charged-for-trying-to-steal-self-driving-car-tech/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 1
 
 secured: "TLvrpzOPUmeuRVBl5dCH51YvJWXuzQl7Kr0F/Ps0Bd9XOddKqrDt9gc3PqE1Pl6R5lbzkdYkaxWyhDzpebTN9pzK/83Igp3KkTuznz/Zvz4sZiP4MCCeH6cV5Kw9QXdpngH/pIPnI9yzdFQZ8GvHMKiYJI9RZAfRr+9ahvK7b6OY4BAyGK8b4H1+qHensvZS0wSGKwQd5Bsqlq/9yEfML7euOViZ08M1DwEeWvfMNjPACqGs0OtyTfDMmffdT5/C7Zbv50Zv3/z2+iHMGf+n8wGx1gP84qipCIrMDodk63AdNgqLM0TEVxGtjhD2UzeXU92FxV+Qcun5UfjZIgknppgUJ7DgxG6qKgHrWtLcAnA=;rk8brcXBzokjtfefmlwPRg=="
 ---

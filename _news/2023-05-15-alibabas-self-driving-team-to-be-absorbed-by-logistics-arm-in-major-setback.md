@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Alibaba Transfers Self-Driving Research Team to Cainiao"
+    excerpt: "Alibaba Group transferred its autonomous driving research team under the DAMO Academy to its logistics arm Cainiao Network Technology as part of a sweeping business revamp kicked off earlier this year,"
+    publishedDateTime: 2023-05-16T20:49:00Z
+    webUrl: "https://www.caixinglobal.com/2023-05-17/alibaba-transfers-self-driving-research-team-to-cainiao-102056221.html"
+    type: article
+    provider:
+      name: Caixin Global
+      domain: caixinglobal.com
+    quality: 39
+    images:
+      - url: "https://img.caixin.com/2023-05-17/168426884480994_560_373.jpg"
+        width: 560
+        height: 372
+        isCached: true
   - title: "Alibaba’s autonomous driving lab to focus more on monetization"
     excerpt: "Damo’s autonomous vehicle lab will merge into Cainiao, Alibaba’s global logistics network, and will no longer operate under the basic research institute. The news was first reported by the state-affiliated China Securities Journal."
     publishedDateTime: 2023-05-15T18:18:00Z

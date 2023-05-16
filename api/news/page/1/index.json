@@ -2,6 +2,203 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-05-17-ai-hearing-fills-technical-knowledge-that-lawmakers-sometimes-lack-democratic-congressman.md",
+      "title": "AI hearing fills ‘technical knowledge’ that lawmakers sometimes ‘lack’: Democratic congressman",
+      "excerpt": "Rep. Jay Obernolte (R-Calif.) joins Meet the Press NOW to discuss the potential and dangers of AI, as well as Congress’ road to regulation for the rapidly developing technology following Tuesday’s AI hearing on Capitol Hill.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/video/ai-hearing-fills-technical-knowledge-that-lawmakers-sometimes-lack-democratic-congressman-174544453566",
+      "originalUrl": "https://www.nbcnews.com/video/ai-hearing-fills-technical-knowledge-that-lawmakers-sometimes-lack-democratic-congressman-174544453566",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_05/1684273276825_now_mtp_full_obernolte_230518_1920x1080-81fq9s.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo174544453566",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo174544453566",
+      "publishedDateTime": "2023-05-16T14:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-17-nigeria-election-di-unexplained-nigeria-election-votes-wey-political-parties-dey-contest.md",
+      "title": "Nigeria election: Di unexplained Nigeria election votes wey political parties dey contest",
+      "excerpt": "Wen we compare di profile image for dis account to di television pictures of Dr Ariaga using Amazon Rekognition software, we achieve a match of 97.2%, wey indicate a very high probability say dem be di same man. Dr Ariaga no respond to messages wey we send ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/pidgin/tori-65564971?at_link_origin=bbcnewspidgin&at_campaign_type=owned&at_format=link&at_link_id=7E3B4882-F3B1-11ED-9926-EF73AD7C7D13&at_ptr_name=twitter&at_link_type=web_link&at_bbc_team=editorial",
+      "originalUrl": "https://www.bbc.com/pidgin/tori-65564971?at_link_origin=bbcnewspidgin&at_campaign_type=owned&at_format=link&at_link_id=7E3B4882-F3B1-11ED-9926-EF73AD7C7D13&at_ptr_name=twitter&at_link_type=web_link&at_bbc_team=editorial",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_pidgin/7854/production/_129440803_tinubu1.png",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/pidgin/tori-65564971.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/pidgin/tori-65564971.amp",
+      "publishedDateTime": "2023-05-16T14:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-17-tech-up-as-sector-seen-less-vulnerable-to-default-fallout-tech-roundup.md",
+      "title": "Tech Up as Sector Seen Less Vulnerable to Default Fallout -- Tech Roundup",
+      "excerpt": "Chinese search engine Baidu posted a sharp increase in first-quarter revenue. A former Apple engineer was charged with trying to steal the company's self-driving-car technology. Write to Rob Curran at rob.curran@dowjones.com Back to Top",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/tech-up-as-sector-seen-less-vulnerable-to-default-fallout-tech-roundup-2410f456",
+      "originalUrl": "https://www.marketwatch.com/story/tech-up-as-sector-seen-less-vulnerable-to-default-fallout-tech-roundup-2410f456",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/tech-up-as-sector-seen-less-vulnerable-to-default-fallout-tech-roundup-2410f456",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/tech-up-as-sector-seen-less-vulnerable-to-default-fallout-tech-roundup-2410f456",
+      "publishedDateTime": "2023-05-16T14:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-17-ai-technology-can-go-quite-wrong-openai-ceo-tells-senate.md",
+      "title": "AI technology “can go quite wrong,” OpenAI CEO tells Senate",
+      "excerpt": "OpenAI CEO Sam Altman testified in the US Senate today about the potential dangers of artificial intelligence technology made by his company and others, and urged lawmakers to impose licensing requirements and other regulations on organizations that make advanced AI systems such as OpenAI's GPT-4.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/tech-policy/2023/05/ai-technology-can-go-quite-wrong-openai-ceo-tells-senate/",
+      "originalUrl": "https://arstechnica.com/tech-policy/2023/05/ai-technology-can-go-quite-wrong-openai-ceo-tells-senate/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 167,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/getty-sam-altman-800x534.jpg",
+          "width": 800,
+          "height": 534,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/tech-policy/2023/05/ai-technology-can-go-quite-wrong-openai-ceo-tells-senate/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/tech-policy/2023/05/ai-technology-can-go-quite-wrong-openai-ceo-tells-senate/amp/",
+      "publishedDateTime": "2023-05-16T14:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-17-to-make-ai-work-for-national-security-invest-in-humans-too.md",
       "title": "To make AI work for national security, invest in humans too",
       "excerpt": "Artificial intelligence is rapidly developing across the globe. The United States needs human-centered artificial intelligence for national security. However, it also needs AI-centered humans.",
@@ -43,6 +240,40 @@
         "Machine Learning",
         "AI",
         "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2023-05-17-sanctuary-ai-unveiles-general-purpose-humanoid-robot.md",
+      "title": "Sanctuary AI unveiles general purpose humanoid robot",
+      "excerpt": "Sanctuary AI announces the launch of its first human-scale, bipedal robot called Pheonix, powered by Carbon AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/sanctuary-ai-unveiles-general-purpose-humanoid-robot/",
+      "originalUrl": "https://www.therobotreport.com/sanctuary-ai-unveiles-general-purpose-humanoid-robot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-16T10:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
       ]
     },
     {
@@ -106,7 +337,7 @@
       "originalUrl": "https://www.bbc.com/news/av/world-us-canada-65613936",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -244,6 +475,58 @@
       ]
     },
     {
+      "path": "_news/2023-05-16-ministers-looking-at-putting-facial-recognition-technology-in-police-bodycams.md",
+      "title": "Ministers looking at putting facial recognition technology in police bodycams",
+      "excerpt": "Government’s intentions revealed in document produced for surveillance camera commissioner",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/uk-news/2023/may/16/ministers-calling-for-facial-recognition-technology-in-police-bodycams",
+      "originalUrl": "https://www.theguardian.com/uk-news/2023/may/16/ministers-calling-for-facial-recognition-technology-in-police-bodycams",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/973bd12a9c69e4d93f70f9900a8300f9e302bb63/0_93_5312_3187/master/5312.jpg?width=620&quality=85&auto=format&fit=max&s=cea2774a8b212916ecedeb4e5451b693",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/uk-news/2023/may/16/ministers-calling-for-facial-recognition-technology-in-police-bodycams",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/uk-news/2023/may/16/ministers-calling-for-facial-recognition-technology-in-police-bodycams",
+      "publishedDateTime": "2023-05-16T09:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-16-7-ai-stocks-that-could-make-you-a-millionaire-by-2025.md",
       "title": "7 AI Stocks That Could Make You a Millionaire by 2025",
       "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial intelligence is no longer just a buzzword, shaking up",
@@ -296,7 +579,7 @@
       "originalUrl": "https://www.zdnet.com/article/zoom-adds-an-ai-assistant-named-claude/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -387,58 +670,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-16-nigeria-election-asiri-awon-esi-idibo-ti-won-kowo-bo-loju-ree.md",
-      "title": "Nigeria election: Àṣírí àwọn èsì ìdìbò tí wọ́n kọwọ́ bọ̀ lójú rèé",
-      "excerpt": "Nigba ti a ṣe ayẹwo aworan to wa lori atẹ Facebook naa pẹlu aworan ti Ariaga nigba to wa ka esi ibo naa, ẹ̀rọ Amazon Rekognition jẹ ko ye wa pe eniyan kan naa ni awọn mejeeji. Dr Ariaga ko fun wa lesi si gbogbo awọn atẹjiṣẹ ta kọ ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/yoruba/afrika-65613862",
-      "originalUrl": "https://www.bbc.com/yoruba/afrika-65613862",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_yoruba/7854/production/_129440803_tinubu1.png",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/yoruba/afrika-65613862.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/yoruba/afrika-65613862.amp",
-      "publishedDateTime": "2023-05-16T08:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     },
@@ -547,7 +778,7 @@
       "originalUrl": "https://www.forbes.com/sites/timbajarin/2023/05/16/cheat-sheets-for-ai-information-overload/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 157,
+      "heat": 167,
       "tags": null,
       "images": [
         {
@@ -686,6 +917,49 @@
       ]
     },
     {
+      "path": "_news/2023-05-16-hpe-ezmeral-software-streamlines-data-analytics-and-aiml-initiatives.md",
+      "title": "HPE Ezmeral Software streamlines data, analytics and AI/ML initiatives",
+      "excerpt": "Hewlett Packard Enterprise is overhauling its Ezmeral software portfolio and simplifying data organization, management and analytics for organizations advancing their artificial intelligence (AI) and machine learning (ML) workflows.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/hpe-ezmeral-software-streamlines-data-analytics-and-ai-ml-initiatives/",
+      "originalUrl": "https://venturebeat.com/ai/hpe-ezmeral-software-streamlines-data-analytics-and-ai-ml-initiatives/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-16T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-05-16-hippocratic-ai-raises-50-mln-seed-funding-to-build-models-for-healthcare.md",
       "title": "Hippocratic AI raises $50 mln seed funding to build models for healthcare",
       "excerpt": "Hippocratic AI, a startup building artificial intelligence models for the healthcare industry, has raised $50 million in a larger-than-usual seed funding round, signaling strong investor interest in betting on AI models for specific industries.",
@@ -694,7 +968,7 @@
       "originalUrl": "https://www.reuters.com/business/healthcare-pharmaceuticals/hippocratic-health-raises-50-mln-seed-funding-build-ai-model-2023-05-16/?taid=646381de5571eb000186b80a",
       "featuredContent": null,
       "highlight": null,
-      "heat": 123,
+      "heat": 133,
       "tags": null,
       "images": [
         {
@@ -798,7 +1072,7 @@
       "originalUrl": "https://www.forbes.com/sites/theyec/2023/05/16/ai-wont-separate-you-from-your-competitors-but-your-content-strategy-could/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 85,
       "tags": null,
       "images": [
         {
@@ -941,317 +1215,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-16-when-generative-ai-refuses-to-answer-questions-ai-ethics-and-ai-law-get-deeply-worried.md",
-      "title": "When Generative AI Refuses To Answer Questions, AI Ethics And AI Law Get Deeply Worried",
-      "excerpt": "Generative AI such as ChatGPT and GPT-4 make use of refusals as a form of answering user prompts. There is a tricky line to be followed about the use of refusals. We closely explore the refusal conundrum.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2023/05/16/when-generative-ai-refuses-to-answer-questions-ai-ethics-and-ai-law-get-deeply-worried/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2023/05/16/when-generative-ai-refuses-to-answer-questions-ai-ethics-and-ai-law-get-deeply-worried/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/642f13c3d7bd6767a2eb4796/0x0.jpg?format=jpg&crop=2285,1522,x0,y0,safe&width=1200",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2023/05/16/when-generative-ai-refuses-to-answer-questions-ai-ethics-and-ai-law-get-deeply-worried/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/05/16/when-generative-ai-refuses-to-answer-questions-ai-ethics-and-ai-law-get-deeply-worried/amp/",
-      "publishedDateTime": "2023-05-16T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-16-2023-deep-learning-market-price-news-with-size-forecast-2030.md",
-      "title": "2023 Deep Learning Market Price & News with Size Forecast 2030",
-      "excerpt": "Deep Learning Market Research Report 2023 is spread across 115 pages and provides Size, Share, Growth, and Forecast with exclusive vital statistics, data, information, trends, and competitive landscape details in this niche sector. The global Deep Learning ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/2023-deep-learning-market-price-news-with-size-forecast-2030-2023-05-15",
-      "originalUrl": "https://www.marketwatch.com/press-release/2023-deep-learning-market-price-news-with-size-forecast-2030-2023-05-15",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-16T03:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-16-startup-etched-closes-seed-round-promises-more-cost-effective-ai-chip.md",
-      "title": "Startup Etched Closes Seed Round, Promises More Cost-Effective AI Chip",
-      "excerpt": "Etched, a startup that has designed a more specialized, less power-intensive chip for running generative AI models, is expected to announce that it raised $5.36 million in a seed round led by Primary Venture Partners.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/startup-etched-closes-seed-round-promises-more-cost-effective-ai-chip-f5fd79aa",
-      "originalUrl": "https://www.wsj.com/articles/startup-etched-closes-seed-round-promises-more-cost-effective-ai-chip-f5fd79aa",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-781926/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-16T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-05-16-infineon-acquires-swedish-machine-learning-startup.md",
-      "title": "Infineon Acquires Swedish Machine Learning Startup",
-      "excerpt": "By Mauro Orru Infineon Technologies said it acquired Stockholm-based startup Imagimob AB in a deal that bolsters the German chip maker's standing in",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/infineon-acquires-swedish-machine-learning-startup-42dfdb65",
-      "originalUrl": "https://www.marketwatch.com/story/infineon-acquires-swedish-machine-learning-startup-42dfdb65",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/infineon-acquires-swedish-machine-learning-startup-42dfdb65",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/infineon-acquires-swedish-machine-learning-startup-42dfdb65",
-      "publishedDateTime": "2023-05-16T00:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-16-would-you-trust-an-ai-business-coach-entrepreneurs-share-their-hopes-and-concerns.md",
-      "title": "Would You Trust An AI Business Coach? Entrepreneurs Share Their Hopes And Concerns",
-      "excerpt": "Which roles are robots about to replace in our lives? Some entrepreneurs are ready to give AI business coaching a go, others are simply not convinced.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jodiecook/2023/05/16/would-you-trust-an-ai-business-coach-entrepreneurs-share-their-hopes-and-concerns/",
-      "originalUrl": "https://www.forbes.com/sites/jodiecook/2023/05/16/would-you-trust-an-ai-business-coach-entrepreneurs-share-their-hopes-and-concerns/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6460f1b44d52fccdb358caf8/0x0.jpg?format=jpg&crop=3692,2075,x514,y881,safe&width=1200",
-          "width": 1200,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jodiecook/2023/05/16/would-you-trust-an-ai-business-coach-entrepreneurs-share-their-hopes-and-concerns/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jodiecook/2023/05/16/would-you-trust-an-ai-business-coach-entrepreneurs-share-their-hopes-and-concerns/amp/",
-      "publishedDateTime": "2023-05-16T00:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-16-future-of-learning-online-innovation-for-a-career-in-tech.md",
-      "title": "Future Of Learning - Online Innovation For A Career In Tech",
-      "excerpt": "Has Computer Science replaced Business as the ‘it’ school on campus? Both provide degrees offering great careerss, competitive salaries and transferable skills.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/mattsymonds/2023/05/16/future-of-learningonline-innovation-for-a-career-in-tech/",
-      "originalUrl": "https://www.forbes.com/sites/mattsymonds/2023/05/16/future-of-learningonline-innovation-for-a-career-in-tech/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6462a8bc2bb080df5bc2ff1a/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/mattsymonds/2023/05/16/future-of-learningonline-innovation-for-a-career-in-tech/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mattsymonds/2023/05/16/future-of-learningonline-innovation-for-a-career-in-tech/amp/",
-      "publishedDateTime": "2023-05-15T22:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

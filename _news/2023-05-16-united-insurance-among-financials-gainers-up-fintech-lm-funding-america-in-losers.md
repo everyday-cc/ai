@@ -41,6 +41,17 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "The Ethical Dilemmas of Fintech Breed Distrust; Top 3 Challenges"
+    excerpt: "Financial technology is yet another digital convenience streamlining everyday financial transactions that used to require standing in line at a bank, writing checks, or navigating between several websites."
+    publishedDateTime: 2023-05-16T21:15:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/05/n32435011/the-ethical-dilemmas-of-fintech-breed-distrust-top-3-challenges"
+    ampWebUrl: "https://www.benzinga.com/amp/content/32435011"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32435011"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 41
   - title: "Fintech or TechFins: Two Sides of the same coin of Bank Digital Transformation Space"
     excerpt: "TechFins support the end to end Digital Transformation of a process from Origination to Credit underwriting to disbursement and also servicing."
     publishedDateTime: 2023-05-15T11:32:00Z

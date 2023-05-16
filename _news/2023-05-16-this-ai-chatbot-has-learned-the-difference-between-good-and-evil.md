@@ -94,6 +94,15 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 19
+  - title: "Amazon Plans AI Chatbot to Replace Shopping Search"
+    excerpt: "A recent job posting reveals Amazon's intention to design a generative AI that would replace the search bar on its site, potentially upending the way sellers have used Amazon thus far. The posting seeks a senior software developer to spearhead the company's AI project."
+    publishedDateTime: 2023-05-16T18:15:00Z
+    webUrl: "https://www.extremetech.com/internet/amazon-plans-ai-chatbot-to-replace-shopping-search"
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 19
   - title: "Google-backed AI startup's chatbot can read novels in seconds"
     excerpt: "In an announcement about the increased capability of Claude, Anthropic claimed that they have raised the context window from 9K to 100K tokens, which corresponds to around 75,000 words. Tokens are the basic units of text or code that a large language model (LLM) AI uses to process and generate language."
     publishedDateTime: 2023-05-12T13:03:00Z
@@ -103,6 +112,15 @@ related:
       name: Gadgets Now
       domain: gadgetsnow.com
     quality: 17
+  - title: "Zoom To Inject Anthropic’s AI Chatbot Into Video, Collaboration Products"
+    excerpt: "Zoom integrates AI into video collaboration meeting and chat products with new Anthropic partnership after partnering with Microsoft-backed OpenAI."
+    publishedDateTime: 2023-05-16T18:58:00Z
+    webUrl: "https://www.crn.com/news/software/zoom-to-inject-anthropic-s-ai-chatbot-into-video-collaboration-products"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 16
 
 secured: "32fgrrnUptYqC0OFuloMqbV5IzFn+fex6s1pIlEDZewaKiKEn5+lAm5u9UapdAYISbM+KV9ZzKxLwwGOi2vF/BeO8/hgwzioCGhK5Tw3ipLuNXq6DOinkPSCay71oxrt8Vy6cEypbmYlqVh9GEQ7enat1ep0+zJSAxFmjrwlmI/sR9LIfZq3fvdMLchJqMW1n5Zl5H4Prtu4ew8hJ+cmD3USW7Ax5UDi1S3MysV9z8iOGyX/qvkbuMxobwcbpVXnqK+2OXzVT+TQy7qsVg7Lz+LfHD8E+gW0xroaOr8SFXGPM34ri6P3ca4CtYPOOZ7louJsElg+juUUKA2uaiV8HSf0zrXw70FNpUYolUrPIBiggv/zZpcJZ/gJhKy0pi2wRIQnTAnADDQDdkejNAELOp4A6AVDdM8KCmLZZPatX01+6he3VPxO5ruLGY/oY/191KGcKVSNR9Ad2F1wofcSTHOsVpjttAPuUmVeW0eCouLM8cEySPdBFif4s3zOC8GJcZGjfhfrYpcLEwNO4xyyng==;BuSlsXQcgKJn7jNIQ55z0A=="
 ---

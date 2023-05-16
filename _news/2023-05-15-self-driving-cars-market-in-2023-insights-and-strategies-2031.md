@@ -29,10 +29,10 @@ images:
     isCached: true
 
 related:
-  - title: "Self-Driving or Driverless Cars Market upto 2030"
-    excerpt: "The Global Self-Driving or Driverless Cars market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players,"
-    publishedDateTime: 2023-05-15T01:53:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-or-driverless-cars-market-upto-2030-2023-05-14"
+  - title: "Deep Learning in CT Scanners Market | 2030"
+    excerpt: "Precision Reports has published a new report titled as \" Deep Learning in CT Scanners Market \" by End User ( Hospital, Diagnostic Center, Research, Veterinary Clinic ), Types ( Stationary, Portable ),"
+    publishedDateTime: 2023-05-13T05:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-in-ct-scanners-market-2030-2023-05-13"
     type: article
     provider:
       name: MarketWatch
@@ -43,62 +43,29 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Google’s A.I. Bonanza and Driverless Car Talk With Cruise C.E.O. Kyle Vogt"
-    excerpt: "And as you might expect, most of what they showed off today had a lot to do with artificial intelligence and how they’re going ... So Casey and I hailed a ride in one to find out if the driverless car revolution we’ve all been talking about and waiting ..."
-    publishedDateTime: 2023-05-12T13:41:00Z
-    webUrl: "https://www.nytimes.com/2023/05/12/podcasts/googles-ai-bonanza-and-driverless-car-talk-with-cruise-ceo-kyle-vogt.html"
+  - title: "Machine Learning Recommendation Algorithm Market"
+    excerpt: "Research Reports has published a new report titled as \"Machine Learning Recommendation Algorithm Market\" by End"
+    publishedDateTime: 2023-05-13T17:45:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-recommendation-algorithm-market-2023-05-13"
     type: article
     provider:
-      name: The New York Times
-      domain: nytimes.com
-    quality: 67
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
     images:
-      - url: "https://static01.nyt.com/images/2023/06/05/multimedia/0512HF-googleai-lwfv/0512HF-googleai-lwfv-facebookJumbo.jpg"
-        width: 1050
-        height: 550
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Britain to roll out first driverless bus service"
-    excerpt: "The service, which aims to carry 10,000 passengers a week over a 22.5-kilometre route on five single-deck buses, will be the world's first automated local bus service, its operator said."
-    publishedDateTime: 2023-05-12T18:48:00Z
-    webUrl: "https://www.gulftoday.ae/news/2023/05/12/britain-to-roll-out-first-driverless-bus-service"
+  - title: "Artificial Intelligence in Oil and Gas Market by 2030"
+    excerpt: "Precision Reports has published a new report titled as \"Artificial Intelligence in Oil and Gas Market\" by End User"
+    publishedDateTime: 2023-05-13T05:16:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-oil-and-gas-market-by-2030-2023-05-13"
     type: article
     provider:
-      name: gulftoday
-      domain: gulftoday.ae
-    quality: 54
-    images:
-      - url: "http://www.gulftoday.ae/-/media/gulf-today/images/articles/news/2023/5/12/driverless-buses.ashx?h=450&w=750&hash=DA420C0A40E730C30B1558286369EDC1"
-        width: 750
-        height: 450
-        isCached: true
-  - title: "UK To Roll Out Driverless Bus Service"
-    excerpt: "The UK will roll out its first driverless bus network in Scotland next week with drivers on standby behind the steering wheel, ready to take control"
-    publishedDateTime: 2023-05-12T03:40:00Z
-    webUrl: "https://menafn.com/1106231030/UK-To-Roll-Out-Driverless-Bus-Service"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 39
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?106671"
-        width: 444
-        height: 250
-        isCached: true
-  - title: "UK to roll out first driverless bus service"
-    excerpt: "The UK will roll out its first driverless bus network in Scotland next week with drivers on standby behind the steering wheel, ready to take control should an emergency arise. The service,"
-    publishedDateTime: 2023-05-13T03:28:00Z
-    webUrl: "https://technology.inquirer.net/124026/uk-to-roll-out-first-driverless-bus-service"
-    type: article
-    provider:
-      name: Philippine Daily Inquirer
-      domain: inquirer.net
-    quality: 39
-    images:
-      - url: "https://technology.inquirer.net/files/2023/05/Driver_Stuart_Doidge_monitors_an_autonomous_bus_as_it_drives_across_the_Forth_Road_Bridge_between_Edinburgh_and_Fife_during_a_press_preview_for_the_CAV_Forth_a_bvXSMR84YoEl-620x413.jpg"
-        width: 620
-        height: 413
-        isCached: true
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 47
 
 secured: "5x2PuQmxBuP/OSyQRj3VZK2D+h7qItZk6/Yr+SI/7T9Ov9HI/W8snZY3Ghr+PqLuhlCwPpKdoADlni9h1DvyhfzxhT7q6bhcJFFiBccdoOEqIpz8Ye1VAs5ColGlI4mschkfJMyU0WM9kb8I9alb6glKog44URSlUmZpZIqVgfK8AkgxQcJeS/V0jFrMGH76/Lvl29J/DuIOL5WyFuUSXswMQWbSG4agFwADFBWeNa3cx1dQlOjseVGCBT1PjyA3NbPAZ13bDL5ta5PVSgQXS+M/IK9vFLETzHzdRS74tIf9PLelZks3Gshpm9ENwAg5n5P+DNLbL9zCfmfbnmrzypJsXPAtCB4arV1AikMBGZ8=;pyVRXeCROl5TTKAPVWII5A=="
 ---

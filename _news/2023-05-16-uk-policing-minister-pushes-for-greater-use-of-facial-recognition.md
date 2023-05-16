@@ -35,6 +35,15 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Facial Recognition Tech: Are Total Bans the Best Move? (Podcast)"
+    excerpt: "New York City is considering a total ban on facial recognition technology. The technology, which uses surveillance cameras and face scans to identify people in public, has been garnering headlines for years,"
+    publishedDateTime: 2023-05-16T18:53:00Z
+    webUrl: "https://news.bloomberglaw.com/us-law-week/facial-recognition-tech-are-total-bans-the-best-move-podcast"
+    type: article
+    provider:
+      name: news.bloomberglaw
+      domain: bloomberglaw.com
+    quality: 19
 
 secured: "q0L47/cq0VPwN+pTLrFexkUd8BnlS88x+EhbrP+EP63LH2F5P/8DmKjFM9P2OXA9LCKAtpdnrTLrUeZK1/SAemenjgkRScU6eOzV793aiWBSvZ7YcYyc6TVZt4BGD9x0ac/NTMOgpP1VgH4+BsV15DAbgCEZA5SNS9O/ccRpq7j6P0gauwGalTGBadnV2igl621gLfq7foEPe7JBVmMgaAZ/ha5vgve8TaJyIXN87wOobwcsGl7Q3o5VfjjUcAu9Z+W1cel0S/wACpbeo/Rfaffb8EK/f8b+s4eiZVj1WUtdzv49iJ1zcSdTWSzLDnRJxMK29DVVVGLSZuiGyKH4cDx6f3K870j2dc1Ket1jxZ8jBu4FmS4Y0EQk2uLvRFVezGsDWdhq4KS8MtJq34HPQOGVavBG5jv0L4S4t4IDNyDKQbTS1PwsopbDarNQa5Ltz4M//bwJVasJJEc/L6fUHGQ/SNrMwlrarauyTEYt9YWDADqVGkdoDkxK5ldo+iB04WciGM/kb5LQ6VOT5e1RMQ==;wX/41BLefGtYIaUr2J4AWw=="
 ---

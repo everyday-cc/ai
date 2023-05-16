@@ -101,6 +101,24 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 19
+  - title: "Amazon Plans AI Chatbot to Replace Shopping Search"
+    excerpt: "A recent job posting reveals Amazon's intention to design a generative AI that would replace the search bar on its site, potentially upending the way sellers have used Amazon thus far. The posting seeks a senior software developer to spearhead the company's AI project."
+    publishedDateTime: 2023-05-16T18:15:00Z
+    webUrl: "https://www.extremetech.com/internet/amazon-plans-ai-chatbot-to-replace-shopping-search"
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 19
+  - title: "Zoom To Inject Anthropic’s AI Chatbot Into Video, Collaboration Products"
+    excerpt: "Zoom integrates AI into video collaboration meeting and chat products with new Anthropic partnership after partnering with Microsoft-backed OpenAI."
+    publishedDateTime: 2023-05-16T18:58:00Z
+    webUrl: "https://www.crn.com/news/software/zoom-to-inject-anthropic-s-ai-chatbot-into-video-collaboration-products"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 16
 
 secured: "WhaglilAUlJmVkHP/HYo1peKFYtEYeSKM+bj1toyXRj0gWqzA8PlmiKh1HjmyGm6Otl0nA5aIQuAfbDJ85+YStTJ+fRNz5bNS+MY/dAqPp5QaCHULk7cgDdB0rx51BRV4RhRZ40swbqOYQgWvc+Wh+oI7V9gq8uPz7Jg7yGeerngtEu5NT/mrGpR1gw4DfQrmiDR1XSieTsJt11bVhBF8YPMLHuzZXhXOtx+e31j8IFZjWVjHc9tMYV8Ca9PK59sMWHBrhxslV9EWeWGrlWcUbtkYtAX+6P6bw9hNiTfH0BWWB0gc8tc9NSTFgC9i40TSKt0uvsGk5JFnBlRb0wctAimQ7PPOdjhDy4UfGNky6k=;0HGcb0ruNqfMvUp/AyEZiQ=="
 ---

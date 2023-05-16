@@ -71,6 +71,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Machine Learning in Communication Market 2023 | Regional Majority Market by 2030"
+    excerpt: "The Machine Learning in Communication Market Scope and Overview Report for 2023 presents a detailed analysis of the"
+    publishedDateTime: 2023-05-16T09:37:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-in-communication-market-2023-regional-majority-market-by-2030-2023-05-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 64
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "2023, BFSI Artificial Intelligence Market | Global Industry Analysis Till 2030"
     excerpt: "BFSI Artificial Intelligence Market | Outlook 2023-2028 | Pre and Post-COVID Research is Covered, Report Information"
     publishedDateTime: 2023-05-16T06:13:00Z
@@ -94,6 +108,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "2023-2029 \"Facial Recognition Access Control Solutions Market\" volume sale, Trends and Market Overview | Report Reviewed by Experts"
+    excerpt: "May 15, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" A market research report has"
+    publishedDateTime: 2023-05-15T07:14:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-2029-facial-recognition-access-control-solutions-market-volume-sale-trends-and-market-overview-report-reviewed-by-experts-2023-05-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 19
 
 secured: "FijeQdqxXGju+xnlouq/tPOIUsS2VlA2iYLsIwG8hjHKOxbIgbMywldllv7Nb/e0b0Fh8fSntc0HyfbZZnHP/IbOfAEQeeJcedWMtkmN7Hn37XOw30HmHcwFMImMGDhOWe52qOOgfCl2iSnZFdxQ8Msks0ReXk1QDp4mI/LtwTEI6Wp+yCfw6FfEfJT45ESJA29wWmei9Ir2GccAVuTTcjHXcU1MUGx+aNAkaC+ZcU5CkloKBrR/iqs/JTe4NG39MQNgZczTFBAY4qBI8T9E74le/93niS8pvQWX8eYiBRddc8jwCteCM4zQXjtcaB2BRRE1uRVNlU1tNZvvlluxWVJz0fycimbKfis7XkhfsNI=;RF9SpDe7f08lSfhwAVHLLw=="
 ---

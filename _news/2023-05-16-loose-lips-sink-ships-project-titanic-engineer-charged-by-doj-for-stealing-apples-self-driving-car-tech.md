@@ -24,6 +24,26 @@ images:
     height: 628
     isCached: true
 
-secured: "Kfj5rfWiJX3Xl25HtRrSZGLJKSiBdHq0FbZ42Jl9jpOoGNrT16BIgBm+qqXbrLsAgqL8b/eswHOAaQVs8CXu2GQ8GWJ9yJ5pP05wtsbocVX7HSdoujVJoDRrRhFeMhh9jOw1aC1B8cHudGmXAI+jZyiHZozU13oBQfZNApyeiwm9PfNO+W2gtc1fr9yxQdyW3UpM6+rBzRflV0s+2TqETeG/1OizfTvf90GxkspqUWeXWaY92dhEjR0iynnDNYk58xswTU0HXs0FTJ2bFFa3xF7d7/x/VpnbkTCP1qGQ03LX+jyhKvpSp/IgjtVJ/C/0mrEpyYE7RPK7Qf3TK44++ePM5hLyTBk/RVvLUsgQ4+Y=;G3NTzPzgkQ9hJrDozrdPTA=="
+related:
+  - title: "Former Apple employee charged in theft of self-driving car trade secrets"
+    excerpt: "Wang signed a letter accepting an offer of full-time employment as a staff engineer with the U.S.-based subsidiary of another company that was headquartered in the People's Republic of China and was working to develop self-driving cars,\" the Justice ..."
+    publishedDateTime: 2023-05-16T19:44:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2023/05/16/former-apple-employee-charged-stealing-trade-secrets-china/6861684260937/"
+    type: article
+    provider:
+      name: UPI
+      domain: upi.com
+    quality: 3
+  - title: "Former Apple engineer charged with stealing autonomous car tech trade secrets"
+    excerpt: "The U.S. Justice Department said on Tuesday it has charged a former Apple Inc. engineer with attempting to steal the firm's technology related to autonomous systems, including self-driving cars, and then fleeing to China."
+    publishedDateTime: 2023-05-16T17:09:00Z
+    webUrl: "https://www.cbc.ca/news/world/former-apple-engineer-china-1.6845041"
+    type: article
+    provider:
+      name: CBC.ca
+      domain: www.cbc.ca
+    quality: 1
+
+secured: "rkUspXnWvXyNuYJ73dyRqtJbkSH2FqlZRpxpzGUp29/GFuEzoks+DaJcW0BW0XxVWJS+ci7r2RgpedIsHvq0vcUdn067NqzzQKqQDPwKbF20Ht4CjCxGcyRXEDLmZzsGDVR5zvx+VJpTM4FZa8Rrnq40pN5SrSexN2+C7wiWpkQDpcsY1de2WgA/09mSXVDn/CR5ymzlmXTepuCMgm18Br+Rbbt0/bulPfmaue72whFkKHdSl9pOe2w/d+BTHr9eJJx1Ht8YTpk+VdvpQXGok9EkSZ1EIxjj2cL97vboR22rMfHTeCkRkz517d3NnCZYqg/sMTKFeH3XAT25xWR2au+ILE03q7DHsHCfOC+dDiiAy4q0RaH6jlxmcAxVGUczoQT2rQZKKvh/lmeNXHq3RPVa/W5B/823IBc2wxCku2828GNV/FSylQANnswgv+OTHD1/exYOnRwKSb6BEZQhKwfVOziYAfQaJ243AbARZqmeUntyBR5Udl6OVRIzcUPaIZpgZnnScFjwunK/layfiA==;2MMy9ghz99ICJrBfmFvsXw=="
 ---
 

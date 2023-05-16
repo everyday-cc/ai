@@ -117,6 +117,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 35
+  - title: "OpenAI Founder Calls for the Global Regulation of Artificial Intelligence"
+    excerpt: "As senators raise concerns about the risks of ChatGPT, Sam Altman says his worst fear is his industry causing \"significant harm to the world.\""
+    publishedDateTime: 2023-05-16T18:59:00Z
+    webUrl: "https://www.inc.com/christine-lagorio-chafkin/openai-founder-calls-for-global-regulation-of-artificial-intelligence.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 33
   - title: "WHO calls for caution in using artificial intelligence for health"
     excerpt: "The World Health Organisation has called for caution in using artificial intelligence-generated large language model tools to protect and promote human well-being, human safety, autonomy, and preserve public health."
     publishedDateTime: 2023-05-16T08:28:00Z
@@ -127,6 +136,6 @@ related:
       domain: punchng.com
     quality: 19
 
-secured: "7paTfpXASrzg7ncwf+v5MyO8sFraginnq9K05k8ad6vB30mojss2wDPmAuU9lQ1r9qIOCzgxhkPTLxmvPRgbq1DvROPjKGqkc0sDnRoi795Iz0Cqolz9Cs3j3AMERRtVTuLepZQ2Iais9m5aYDnsX86Bn5Odb+6HN69JKVjeIMIC8div2T4B3jgEJOCUa10gbahbkEPnRtFrsZJkxSH8XCi+777vjwQVI08vPhk7AUikEHAvs8VsMzV/j3BykR5yD8r4zvq/2ao1prDkyV/hoRtNGMCFAnp82EkAViSaZ3FGRw/LiLMhLKdvHRSoG7ssO+FMxut555ANWU2G4vODjWzn0cTfMPDXkUngy2aatAk=;qyD3fonnvc7JbpUMqHWEUg=="
+secured: "LQVLQnGUtMr7jn9LxyYYeUY5FfehnDT8kcpbyVb2UFBJ0ooEiX5ncEjfSuM0w4HSlcsCLIycpp2/6aIeFkhYWeIwxbWZb1348x14tnjxthPnzFs2lhHMsi0XacTWICL9LVM3WRa1ET0YXoEz1t0ruHNtxXjk01r2WzkRvirs6QYyQHfoFpxg36nSMQxw+aF7HL7zuhS67zQDEc6PtT5e9/vkeLRK8t+mRXyxbQ9gu1iryaJCpf95kRUjDwQdxAJ1wgRpjHat84Oka9gWwPKDjjhvAKOI8BYkNrHVDEYHyOeL7y4t+Trksxjr2uA/S9D1wdPiy+DgmzgNLexrogl3jhnZu4gqtTpz6ZSVUIJtU/fpS6uuSBSPz0r12JzTC1qZ7IkNFWHLmjmWF46+ttf513ABstm8YtZF4mWF8lUtg9BE1QVdd/imgA2RAUtfwE+coBcHLlLKcY5g3jqNLWDWtXKDL3L40w678ohXgMO2Hj73zoFnKLFbZbGXWVfUtxkpL3ySxtuia5k+H9DDyWMRKA==;wTLaUFqvfXQCobRA5m1T3A=="
 ---
 

@@ -52,6 +52,15 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "Zoom makes a big bet on AI with investment in Anthropic"
+    excerpt: "Zoom today announced a partnership with Anthropic to integrate its Claude AI assistant across its platform offerings."
+    publishedDateTime: 2023-05-16T18:07:00Z
+    webUrl: "https://venturebeat.com/ai/zoom-makes-a-big-bet-on-ai-with-investment-in-anthropic/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 47
 
 secured: "AFFhENxpRSMt+4s9Cc2hA3b80GbFyey4E/s4cdYL0cfsL/VOgQIcmrJVDT4ADt+iLfxwcvvN0nAkFIXP0bXN8zS+ha9nW/q7IAp63MfIxMpFPYgnCcdgBuwUbiusPISdjDab8ACQwINf+6qUbg4KmdHjQKMhe7KpsYzZ0EAdk91B//mHezHiYvMACYjH/rfpgOZpXu18naYTZdR9ZGM8wifC9qLz+TDEYS3CdkSdIO26+++9syadsWsod5Jyn0HVU3r0WnFiQflcTjMMBU9rclj3nHZ6AvWCiXoAkrJ0/WTU9yrYA55+bPzelwFonPaxQrdRp7uMZY5T2mkFvggqy0I4HIxWp5zK+EwrGXzBE730BlvDbstobbhWD/zN78dtEgd41YFuy3o5e+8zmafHXwZO5hBw6UCmmO0dz1zZUywD5k5jKYFV7XcZqksJZJVgY8SQA/sH/KEuDAa5Pu7L0vU67HvKF3MJ2aLhUErHq9zcwYAs/86ncOezMrFq6xijMZrer2x8BrMye1AtHqafPw==;5jMKBQTXMOVLNr2f+KJ1QA=="
 ---

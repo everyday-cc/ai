@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/theyec/2023/05/16/ai-wont-separate-you-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2023/05/16/ai-wont-separate-you-from-your-competitors-but-your-content-strategy-could/amp/"
 type: article
 quality: 84
-heat: 84
+heat: 85
 published: true
 
 provider:

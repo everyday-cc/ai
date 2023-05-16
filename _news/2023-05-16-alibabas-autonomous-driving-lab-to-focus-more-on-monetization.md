@@ -7,7 +7,7 @@ originalUrl: "https://techcrunch.com/2023/05/15/alibaba-autonomous-driving/"
 webUrl: "https://techcrunch.com/2023/05/15/alibaba-autonomous-driving/"
 type: article
 quality: 34
-heat: 34
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,20 @@ topics:
   - AI
 
 related:
+  - title: "Alibaba Transfers Self-Driving Research Team to Cainiao"
+    excerpt: "Alibaba Group transferred its autonomous driving research team under the DAMO Academy to its logistics arm Cainiao Network Technology as part of a sweeping business revamp kicked off earlier this year,"
+    publishedDateTime: 2023-05-16T20:49:00Z
+    webUrl: "https://www.caixinglobal.com/2023-05-17/alibaba-transfers-self-driving-research-team-to-cainiao-102056221.html"
+    type: article
+    provider:
+      name: Caixin Global
+      domain: caixinglobal.com
+    quality: 39
+    images:
+      - url: "https://img.caixin.com/2023-05-17/168426884480994_560_373.jpg"
+        width: 560
+        height: 372
+        isCached: true
   - title: "Alibaba Self-Driving Said to Cut 70% of Jobs as a DAMO Lab Merged into Logistic Unit"
     excerpt: "Alibaba Self-Driving Said to Cut 70% of Jobs as a DAMO Lab Merged into Logistic Unit. BEIJING, May 15 (TiPost)— Alibaba Group is scaling back its scientific research"
     publishedDateTime: 2023-05-16T01:17:00Z

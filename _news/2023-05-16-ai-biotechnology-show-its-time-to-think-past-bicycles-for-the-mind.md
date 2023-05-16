@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/ebenbayer/2023/05/15/ai--biotechnology-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ebenbayer/2023/05/15/ai--biotechnology-show-its-time-to-think-past-bicycles-for-the-mind/amp/"
 type: article
 quality: 87
-heat: 88
+heat: 87
 published: true
 
 provider:

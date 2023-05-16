@@ -48,6 +48,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 64
+  - title: "Hippocratic AI launches with $50M to build a chatbot for healthcare"
+    excerpt: "There’s a newcomer artificial intelligence company on the block that wants to introduce the power of a conversational chatbot for the healthcare industry: Hippocratic AI Inc., which just launched with $50 million in funding co-led by General Catalyst and Andreessen Horowitz."
+    publishedDateTime: 2023-05-16T18:54:00Z
+    webUrl: "https://siliconangle.com/2023/05/16/hippocratic-ai-launches-50m-build-chatbot-healthcare/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 54
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/03/stethoscope-2617701_1280.jpg"
+        width: 1280
+        height: 816
+        isCached: true
   - title: "Hippocratic Health raises $50 mln seed funding to build AI model"
     excerpt: "Hippocratic Health, a startup building artificial intelligence models for the healthcare industry, has raised $50 million in a larger-than-usual seed funding round, signaling strong investor interest in betting on AI models for specific industries."
     publishedDateTime: 2023-05-16T12:02:00Z
@@ -67,6 +81,6 @@ related:
       domain: businessinsider.com
     quality: 28
 
-secured: "a1+5kudohKuDi3rQFQI3AT9k8d7gqnrDijzPst9zBDnJSKC0zSCqC36QiQ7yMlBdgLKY6zwgazYL79BAQ3kpFAaBu8uqT+Ey2LLVGR/BIBSHWc9fuHjmXd6xkMaW7Ja+fQaqI1Yqngy1lIdya3odmQXXezaMW86sihf0MwuS07ZCr7rjcaQR6mr0kH+JtDrCh6tpVn8XREo+2tyQtv/I8sgXgGYNEqcaJoIOXlmBCn2dB0YcakvcSG0Oxth+tbeiUOoNbm1h/3W5FmLT1/ZdYAbdDLySRd3JjFn80dSe3YgekRycL57MLS4BGyUy7LSxhlgwDKGjBU+mWAAA1+82YaBSC0O82hYGhO7nsLuEWaI=;ww6xJRLv5eKNpYew6JvRhQ=="
+secured: "0HVQjqSWAKZfhvVqXYi1GtFTjj1qgHLTMehkKbPtwJbYewGVL5ZkVI6mJnZP8wWzsHPPm8+0fYvl48N1/cIGUX50L7D6wl2jYq4CmNYMCHD3JgHNDGBLfA/CDq5q++DKPkPNmhbxM5emsw4UDppKsOHr3KiaXhWFLA4CaPvZlGtbVGhnm1oZ4FEBYre/oFb6CejzPKtZzqQr8ECvmZI06jUxKohwii3QToKbXX40bK3C0dwpGJxN5UUp8aWLWHnzzSpLl8AU8BDhZ0umdMv3TDvds5XLR27XN9/NnLWPuaYeVHcYvDExLEAkXqug/RSYYfFvXYgCbNdv4jljcY5dDJre+37yswwiYMyIEYdZ8j+k82rVmWYX9ky3jjOKj3eu2CvlQ+ZrHBEEy8v3pPdzpqArrH/6aWLl5Gqs5W+EC0mrr6KUPaDU2atUUY5qOseHFIq4ZJ/VX2jlVdoVyz7sGmvOyg85v3dzfRdvhSI7jkVxhDdiJs4E48jjvUUpWkkgaZ50GajafqO19rcseTsd0w==;+QbTUrHXW/2KeQ+7C0huTA=="
 ---
 
