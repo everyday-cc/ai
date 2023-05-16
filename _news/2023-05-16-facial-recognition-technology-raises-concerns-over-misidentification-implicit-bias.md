@@ -9,7 +9,7 @@ ampWebUrl: "https://nbc-2.com/features/tech/2023/05/15/facial-recognition-techno
 cdnAmpWebUrl: "https://nbc--2-com.cdn.ampproject.org/c/s/nbc-2.com/features/tech/2023/05/15/facial-recognition-technology-raises-concerns-over-misidentification-implicit-bias/amp/"
 type: article
 quality: 68
-heat: 88
+heat: 78
 published: true
 
 provider:
@@ -27,15 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facial Recognition Technology Could Improve Livestock Health"
-    excerpt: "Facial recognition technology isn’t limited to humans. Livestock are now getting their mugs snapped in order to help farmers monitor animal health, increase efficiency and improve traceability.  Researchers from the US to Australia are using drones to handle health assessments of cattle from the air,"
-    publishedDateTime: 2023-05-11T12:00:00Z
-    webUrl: "https://modernfarmer.com/2023/05/facial-recognition/"
-    type: article
-    provider:
-      name: Modern Farmer
-      domain: modernfarmer.com
-    quality: 19
   - title: "Writing Faculty United Requests Recognition of Unionization in Petition to Administration"
     excerpt: "The letter calls for improved job security, pay, and benefits, as well as transparency, recognition, and a voice in how writing instruction is conceived and executed. “When it comes to the aims of the union, I tend to think of it as having two key ..."
     publishedDateTime: 2023-05-15T01:07:00Z

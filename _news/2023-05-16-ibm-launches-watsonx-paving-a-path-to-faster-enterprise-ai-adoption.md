@@ -39,15 +39,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "IBM launches watsonx studio to make deploying generative AI easier"
-    excerpt: "The watsonx platform announcement also marks IBM's plan to add generative AI to other services, incorporating code writing and more."
-    publishedDateTime: 2023-05-11T12:43:00Z
-    webUrl: "https://www.techrepublic.com/article/ibm-watsonx-studio-generative-ai/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 68
   - title: "How IBM’s Watson X is Scripting the End of Business As We Know it"
     excerpt: "Banking on its strength as an enterprise-focused company, and with many organisations already using its Watson chatbot, the company is looking to revive its former glory with this next-generation technology."
     publishedDateTime: 2023-05-12T06:47:00Z

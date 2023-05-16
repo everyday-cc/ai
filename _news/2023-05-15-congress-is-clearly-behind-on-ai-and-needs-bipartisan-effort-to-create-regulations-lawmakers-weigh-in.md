@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/congress-clearly-behind-ai-needs-bi
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/congress-clearly-behind-ai-needs-bipartisan-effort-create-regulations-lawmakers-weigh.amp"
 type: article
 quality: 70
-heat: 80
+heat: 90
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Lawmakers work to regulate AI at the state level"
+    excerpt: "AI tools like Chat GPT can answer questions and summarize research. Now lawmakers are working to regulate how AI is used at the state level. “With the launch of Chat GPT and other generative forms of AI, it has really come to the forefront. And people ..."
+    publishedDateTime: 2023-05-16T00:19:00Z
+    webUrl: "https://www.wfsb.com/2023/05/15/lawmakers-work-regulate-ai-state-level/"
+    ampWebUrl: "https://www.wfsb.com/2023/05/15/lawmakers-work-regulate-ai-state-level/?outputType=amp"
+    cdnAmpWebUrl: "https://www-wfsb-com.cdn.ampproject.org/c/s/www.wfsb.com/2023/05/15/lawmakers-work-regulate-ai-state-level/?outputType=amp"
+    type: article
+    provider:
+      name: WFSB
+      domain: wfsb.com
+    quality: 59
+    images:
+      - url: "https://gray-wfsb-prod.cdn.arcpublishing.com/resizer/XvYP69UfJwT8rUmswVDgqIG9Zck=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/BXLAK2IJMFHQFJJUMPSRLJGVN4.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Congress wants to regulate AI, but it has a lot of catching up to do"
     excerpt: "Senate Majority Leader Chuck Schumer is trying to lead an effort to craft groundbreaking legislation to install safeguards around artificial intelligence. But lawmakers have a lot to learn."
     publishedDateTime: 2023-05-15T12:22:00Z

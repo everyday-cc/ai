@@ -126,15 +126,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Face Recognition Software Market 2023 Growth Possibilities, Analysis and Forecast To 2030"
-    excerpt: "The Face Recognition Software Market Report by Type (Holistic Matching Method, Feature-based Method, Skin Texture Analysis, Hybrid Types, Other) and by Application (Corporate and Residential Security,"
-    publishedDateTime: 2023-05-11T11:22:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-software-market-2023-growth-possibilities-analysis-and-forecast-to-2030-2023-05-11"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 40
   - title: "Top 7 Use Cases For Facial Recognition In 2023"
     excerpt: "The demand for AI face recognition technology is rising quickly on a global scale. By 2028, the market is expected to have grown from $5 billion to over $13 billion. Business executives must consider several variables before starting any projects when employing facial recognition technology,"
     publishedDateTime: 2023-05-11T16:17:00Z

@@ -27,17 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Machine learning increases accuracy in workplace"
-    excerpt: "New research from ESMT Berlin shows that utilizing machine-learning in the workplace always improves the accuracy of human decision-making, however, often it"
-    publishedDateTime: 2023-05-11T12:54:00Z
-    webUrl: "https://www.hrzone.com/community/blogs/peter-remon/machine-learning-increases-accuracy-in-workplace"
-    ampWebUrl: "https://www.hrzone.com/community/blogs/peter-remon/machine-learning-increases-accuracy-in-workplace?amp"
-    cdnAmpWebUrl: "https://www-hrzone-com.cdn.ampproject.org/c/s/www.hrzone.com/community/blogs/peter-remon/machine-learning-increases-accuracy-in-workplace?amp"
-    type: article
-    provider:
-      name: HRZone
-      domain: hrzone.com
-    quality: 39
   - title: "Machine learning improves accuracy, but increases human workload too"
     excerpt: "New research from ESMT Berlin shows that utilizing machine-learning in the workplace always improves the accuracy of human decision-making, however, often it can also cause humans to exert more cognitive efforts when making decisions."
     publishedDateTime: 2023-05-14T05:21:00Z

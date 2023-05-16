@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chip-market-research-analysis-2023-2030-2023-05-11"
 type: article
 quality: 99
-heat: 419
+heat: 429
 published: true
 
 provider:
@@ -434,6 +434,20 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Artificial Intelligence (AI) Chip Market Intelligence Report 2031: Profit-Oriented Business Decisions For Major Players"
+    excerpt: "Artificial Intelligence Chip Market Opportunity Analysis  The global artificial intelligence chip market was valued at $11.2 billion in 2"
+    publishedDateTime: 2023-05-16T05:53:00Z
+    webUrl: "https://menafn.com/1106249515/Artificial-Intelligence-AI-Chip-Market-Intelligence-Report-2031-Profit-Oriented-Business-Decisions-For-Major-Players"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 45
+    images:
+      - url: "https://menafn.com/updates/pr/2023-05/16/EP_862b6image_story.png"
+        width: 898
+        height: 470
         isCached: true
   - title: "Enterprise Artificial Intelligence Market SWOT Analysis [2023-2030] Evaluating Your Business Strengths and Weaknesses"
     excerpt: "May 11, 2023 (The Expresswire) -- 2023-2030 According to our Latest CAGR Research, Enterprise Artificial Intelligence Market Size With The Global Market looks promising in the next 5 years. As of 2023, the global Enterprise Artificial Intelligence market ..."

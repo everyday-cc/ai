@@ -9,8 +9,8 @@ ampWebUrl: "https://www.dqindia.com/robotics-and-artificial-intelligence-buildin
 cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/robotics-and-artificial-intelligence-building-blocks-of-fourth-industrial-revolution-introduction/amp/"
 type: article
 quality: 55
-heat: 65
-published: false
+heat: 75
+published: true
 
 provider:
   name: Dataquest
@@ -21,6 +21,20 @@ topics:
   - AI
 
 related:
+  - title: "Voice Recognition and Medical Transcription"
+    excerpt: "It would be unfair to look at voice-recognition transcription options without mentioning one of the largest movements in the medical transcription industry -- outsourcing transcription offshore."
+    publishedDateTime: 2023-05-12T00:01:00Z
+    webUrl: "https://www.medscape.com/viewarticle/487524_5"
+    type: article
+    provider:
+      name: Medscape
+      domain: medscape.com
+    quality: 24
+    images:
+      - url: "https://img.medscape.com/thumbnail_library/Social_Facebook_806x806.jpg"
+        width: 640
+        height: 640
+        isCached: true
   - title: "The Intersection of AI Across 6 Major Industries: Exploring Latest AI Applications From Business Perspective"
     excerpt: "The increasing prevalence of AI applications in various industries, including finance, healthcare, legal, technology, marketing, and sales, demonstrates a promising future for the business landscape."
     publishedDateTime: 2023-05-15T20:20:00Z

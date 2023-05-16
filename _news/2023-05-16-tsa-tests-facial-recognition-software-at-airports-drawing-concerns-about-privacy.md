@@ -83,6 +83,22 @@ related:
       domain: nbcnews.com
     quality: 81
   - title: "Are you who you say you are? TSA tests facial recognition technology to boost airport security"
+    excerpt: "The agency tasked with securing America's airports is testing the use of facial recognition technology at a number of airports across the country"
+    publishedDateTime: 2023-05-15T06:17:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/tsa-tests-facial-recognition-technology-boost-airport-security-99322639"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/tsa-tests-facial-recognition-technology-boost-airport-security-99322639"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/tsa-tests-facial-recognition-technology-boost-airport-security-99322639"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 79
+    images:
+      - url: "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Are you who you say you are? TSA tests facial recognition technology to boost airport security"
     excerpt: "The Transportation Security Administration has started using facial recognition technology at a number of airports across the country."
     publishedDateTime: 2023-05-15T17:49:00Z
     webUrl: "https://www.boston.com/travel/technology/2023/05/15/are-you-who-you-say-you-are-tsa-tests-facial-recognition-technology-to-boost-airport-security/"
@@ -203,23 +219,14 @@ related:
       name: KARK
       domain: kark.com
     quality: 49
-  - title: "Are you who you say you are? TSA tests facial recognition technology to boost airport security"
-    excerpt: "The agency tasked with securing America's airports is testing the use of facial recognition technology at a number of airports across the country"
-    publishedDateTime: 2023-05-15T08:19:00Z
-    webUrl: "https://abcnews.go.com/Technology/wireStory/tsa-tests-facial-recognition-technology-boost-airport-security-99322644"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 39
   - title: "TSA testing facial recognition technology, prompting privacy concerns"
     excerpt: "A new project by the Transportation Security Administration is using facial recognition software to verify identities."
     publishedDateTime: 2023-05-16T03:57:00Z
-    webUrl: "https://www.fox17online.com/tsa-testing-facial-recognition-technology-prompting-privacy-concerns"
+    webUrl: "https://www.fox13now.com/tsa-testing-facial-recognition-technology-prompting-privacy-concerns"
     type: article
     provider:
-      name: fox17online
-      domain: fox17online.com
+      name: fox13now
+      domain: fox13now.com
     quality: 39
     images:
       - url: "https://ewscripps.brightspotcdn.com/dims4/default/34a37e7/2147483647/strip/true/crop/960x504+0+108/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcdn.scrippsnews.com%2Fimages%2Fvideos%2Fz%2F1684195627_h09L7Q.jpg"
@@ -277,6 +284,6 @@ related:
       domain: thedailyrecord.com
     quality: 28
 
-secured: "JG4ZFcGqGfqW9X2kkdyH4qpwL2kvVP74XKT08cB2QmrWGF8pZGb2nKUMsz31d1tBobqoPAcwl2eeOc+8GBXTZSWRLOyYDbSO8GBcHIrHzxCmDZ/aOUysqUrUC/tVFXN+V3zPGuOQ04A9YW9BtOHmxZAzYgLenS/wioz0Qdvcf4s+2yeyn2rmDicj0XqOy9ZlfCcJjXXck6Wp/TL2rFSH05upLPbDpgatVRFfgFszPrA5tYuCBOtn/qs2Ma5YUCEZRq+qVwIH7w6RVJ4yDK/JtQNeuLRrKWgykP+W+AoM0FIr3k+lG7U7h1jRwTpGOVDta2bkeB/SoViBGvKqvdUfp6KpMceJPS+bNqPoIvEkdhE=;vxlY2D2sTiWKWcVGfRIgHw=="
+secured: "1GI5HHni1DoaKx8ZD60dyk+IGV8QVqBVHWD9SuplRagexbA8MkBLv1mE4N+7chnx7MXVI/xvwkyQQmBHtM8m6B5wfrbnRChSMCSsQaBqjFcDRFk0bOZ4kpEFu9O/wi+71P6ndouq/fe8ivv+uKc2M2+UvIHMycW01AARc6CSwlP/A96xUmszGneHb3hytP/94NfU+t1tztVon9WJFgJ5jlz0Fj4f1UdWP4q5GRo/xo2A6SMGi21Z1r5a5v0UBRkDZCY+cgc3XWFmn8hb8gncE1BoLdtSPdsmdlB8boYnWj3o+F55yFIu0yxpIDL0sqdP7SiYsPcnlhcpQoDGSEi+bUhChECtAzu1KYejuPKFAoET7YgXmwuEBkJbnURPE8ygkJAsshUFu9qCgfhOJ8UfT7mB5UPe1geqwIZWIY2BxhesRcAvi34jRG6drpKOpLUcXFWPFzXj2pTgVbMSIQSPgPirGsYEdi9ghy51ZMQbNZXkYRovi0HMYjSl5z6wlKUvGuDPgWpL3huq+8t1QCwegw==;s13U8hupd4YjNWmXS6VbDw=="
 ---
 

@@ -83,6 +83,34 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Google Is Opening the AI Floodgates"
+    excerpt: "This week we recap all the news from Google I/O and discuss how the company is reshaping its core business with generative tools."
+    publishedDateTime: 2023-05-12T12:00:00Z
+    webUrl: "https://www.wired.com/story/gadget-lab-podcast-597/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 67
+    images:
+      - url: "https://media.wired.com/photos/645d18570b67c709cbcaa855/191:100/w_1280,c_limit/Google-IO-2023-Gadget-Lab-Gear-1488931959.jpg"
+        width: 1280
+        height: 670
+        isCached: true
+  - title: "How AI Will Change the Workplace"
+    excerpt: "We asked some top thinkers from different fields to weigh in on what’s ahead, as the AI explosion compels businesses to rethink, well, almost everything."
+    publishedDateTime: 2023-05-14T14:00:00Z
+    webUrl: "https://www.wsj.com/articles/how-ai-change-workplace-af2162ee"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
+    images:
+      - url: "https://images.wsj.net/im-779753/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "How AI Knows Things No One Told It"
     excerpt: "Researchers are still struggling to understand how AI models trained to parrot internet text can perform advanced tasks such as running code, playing games and trying to break up a marriage"
     publishedDateTime: 2023-05-11T17:21:00Z
@@ -138,6 +166,15 @@ related:
         width: 767
         height: 633
         isCached: true
+  - title: "All eyes on AI"
+    excerpt: "\"Colorado has taken vague principles of AI ethics, such as accountability, fairness, transparency... and turned them into the concrete requirements for policies, governance, and technical controls,\" the practice leaders wrote."
+    publishedDateTime: 2023-05-12T19:10:00Z
+    webUrl: "https://www.bizjournals.com/denver/news/2023/05/12/colorado-rules-artificial-intelligence-insurance.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 19
 
 secured: "DUy1LpzExWBL1mwL+H30ymxv9Im6ul69wVQolDavOqiDaFZd/zSBSvbYt7y/956bgnKZ3i9za9c4f32ZRYcK3oO8YlX2c7WAMPLX2i3VLjG5wpw55BRg9soXQO+p5lw11JvtiJImhKpWcccePNXgtn87w/hiF6AyazwV7hXw4QU510zTDOrMJOzjoMAuE2Bx3VWQVMchFJ+XS49TarHYEYj/BT61679aCYXtcCEBNZmB74ppeuRdjV+8u8+du4b5+xmVXNGjCTGazi0DqV41kJnGXGxVC/XThW4D16ewJW2QP7bKaZCEOGUUVMR0GUp4/6JeBhQv4Y3vFVtNzrVp7iR29gFUBAXAlMuMMlrCaQGi4XRR7hTMl1Z6qV4ylBXCITRq2nHJfSXDgTsr4/dicny7lHSMdL3TXjhxQU4ZHIUWa00dtLERoExY9/fd81+MNoMjBXbQ56uJOIr6hdUz88VJ6eqpfnCPbnazqFr0ggrlPqhBnEPyZrAvWyhHsJaxkJ07/9f5tjw5Rv0Mr/crFg==;sZIU9wemTskFR8MEwFC1hQ=="
 ---

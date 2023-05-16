@@ -35,6 +35,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Lawmakers work to regulate AI at the state level"
+    excerpt: "AI tools like Chat GPT can answer questions and summarize research. Now lawmakers are working to regulate how AI is used at the state level. “With the launch of Chat GPT and other generative forms of AI, it has really come to the forefront. And people ..."
+    publishedDateTime: 2023-05-16T00:19:00Z
+    webUrl: "https://www.wfsb.com/2023/05/15/lawmakers-work-regulate-ai-state-level/"
+    ampWebUrl: "https://www.wfsb.com/2023/05/15/lawmakers-work-regulate-ai-state-level/?outputType=amp"
+    cdnAmpWebUrl: "https://www-wfsb-com.cdn.ampproject.org/c/s/www.wfsb.com/2023/05/15/lawmakers-work-regulate-ai-state-level/?outputType=amp"
+    type: article
+    provider:
+      name: WFSB
+      domain: wfsb.com
+    quality: 59
+    images:
+      - url: "https://gray-wfsb-prod.cdn.arcpublishing.com/resizer/XvYP69UfJwT8rUmswVDgqIG9Zck=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/BXLAK2IJMFHQFJJUMPSRLJGVN4.jpg"
+        width: 800
+        height: 450
+        isCached: true
 
 secured: "XdvKm4kDZEQmfs9dEnRdso58G5yWf/yCzUpErFCIVzVWDf7tgQySCjk0X3NxCF7bIZB3/5vkBoJ+jqeOaM7CBV7o7bDyy3P66kGmi5eyPe+VvIbBqDM79mH7W1tysOcsTzgU8hQCQDGVTEO8TO01kwjyjvnr6VkhsMYCCV9Bn+B/HIrW/86xAAWhqXIIr01pz1xJdb3hcV2C+dy8s2lvhcAE543QdgIj5cNTyYUJvOqgEPZf+mHmYmNrec1JbjGVFTkiiGJ13PoxcddBTmEjnxW8ocd/TBbmci1w2EFFn/8iAEmCx38xAYgRA5LqaI96fczMH14LGfUbHMCdnZaFSv6NK4lss4BL8eY9Hb3P3YDE6ZPD4cauHRLlN7ISUofgJTUnkPc11X/7FiStvOPY0bsAtnQ5uiOxp/cs2hd2ubn500d3AJTLhyf4r4Ta9MTdI+vaxrQKmgZ2I6oJ1kydFyiD5UmAdauEDZFwFWdfut8iQmqoIIvaE8czsk+GMmwD57ORNSqndW0HcCExH2XU0g==;HhBeqapU6b1W4VEsIeqVrg=="
 ---

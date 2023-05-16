@@ -9,8 +9,8 @@ ampWebUrl: "https://www.politico.eu/article/europe-strict-rules-artificial-intel
 cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/europe-strict-rules-artificial-intelligence/amp/"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Politico Europe
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "How Europe is leading the world in building guardrails around AI"
-    excerpt: "Authorities around the world are racing to draw up rules for artificial intelligence, including in the European Union, where draft legislation faced a pivotal moment"
-    publishedDateTime: 2023-05-11T11:32:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/europe-building-artificial-intelligence-guardrails-99247610"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/europe-building-artificial-intelligence-guardrails-99247610"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/europe-building-artificial-intelligence-guardrails-99247610"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 57
-    images:
-      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-        width: 834
-        height: 308
-        isCached: true
   - title: "Europe acts against the threat of a social credit system with new AI rulebook"
     excerpt: "The European Parliament has voted in favour of document that it describes as the world’s first ever rules for artificial intelligence."
     publishedDateTime: 2023-05-12T11:18:00Z

@@ -55,31 +55,6 @@ related:
         width: 1000
         height: 581
         isCached: true
-  - title: "Facial-recognition ban gets lawmakers’ backing in AI Act vote"
-    excerpt: "MEPs agreed on a blanket ban on remote biometric identification — AI-aided techniques, such as facial recognition, to recognize individuals from pictures or footage — in public venues, both in real-time and after the fact,"
-    publishedDateTime: 2023-05-11T11:16:00Z
-    webUrl: "https://www.politico.eu/article/meps-adopt-ai-act-text-in-committees/"
-    ampWebUrl: "https://www.politico.eu/article/meps-adopt-ai-act-text-in-committees/amp/"
-    cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/meps-adopt-ai-act-text-in-committees/amp/"
-    type: article
-    provider:
-      name: Politico Europe
-      domain: politico.eu
-    quality: 59
-    images:
-      - url: "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2023/05/11/GettyImages-531573862-scaled.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "The EU's incoming AI Act is giving off some real I, Robot vibes"
-    excerpt: "The AI Act makes a lot of sense considering the state of the artificial intelligence discourse right now, though the first prohibited practice in the original proposal (opens in n"
-    publishedDateTime: 2023-05-11T11:37:00Z
-    webUrl: "https://www.pcgamer.com/the-eus-incoming-ai-act-is-giving-off-some-real-i-robot-vibes/"
-    type: article
-    provider:
-      name: PC Gamer
-      domain: pcgamer.com
-    quality: 34
 
 secured: "BmqrlmmWdw3tk1dhJUkEWsOo0EymzYTQwzk+DYHV+XVO2GLH6O6v2xK9ubTv+sYq30TMwg/gaXdb5e5BXggAoyVsd07IDvKwlgzu4BDs2SWkSa0PwXGvlYQ+rzU/+p5xuj3ny0IXxe47oFy9+nX6XuZmEAB995tu00aqUJKr12egd6HJr2FwbEftJkb3/AhH+BhU/5bBtJJ+ntZyrn/Qbm/uLSv3Yv0zRl9Ssb0zFUvpuvPTFhxZmSbEayv8HKJnC3YrZyYK/tHZFtiJm7RcJ4d17Vvo1u5FI6LzFeG7nETouLaOa7Ui11tCpALpFFCk/EOsfB3YGQ9KE/exvgpUzM/Q5TWtaJgyxH6+O3Nkk4s=;QTUcVK5soqXJUHGr/8a9+g=="
 ---

@@ -6,7 +6,7 @@ publishedDateTime: 2023-05-16T02:24:00Z
 originalUrl: "https://siliconangle.com/2023/05/15/together-raises-20m-decentralize-open-source-ai-model-creation/"
 webUrl: "https://siliconangle.com/2023/05/15/together-raises-20m-decentralize-open-source-ai-model-creation/"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/05/image_2023-05-16_091657940.png"
@@ -41,6 +42,6 @@ related:
         height: 675
         isCached: true
 
-secured: "1qPpfGR0eM1nxlUbob8t9XzmNTJhkyQJhFuI/rh5fgVj85G7l38Afdj8gvaDeKc2OGDkmCEQNF4jZlnAcgMRq9cubAnh1rH/hjeeKEl6ZkQUWEROCp5d+EaNiefFGkO3iCa+q0qgJEB0Rja3n6D6TUTA2K1s/MSZwEfsGqhSGqxbOCLiJCZd38nE5DeA7KdFv5vCvsUUCo6Noqdez1c4dkENKT5GNa2ZlDzqDnHNdG14FQpwx/ZoLDB1oS32IpG0vWf6GIq46eLf5L18vZZJUD/TDoqdbqFXISxQYCYuHY0mFpthsCoc9xT7OqVjkmlb/WWHvvGjspO5ERrIoXHraEaTmMtx/dn02EhSj3UcGfA=;xpSmDfr2vAhcTO6C4u2zcA=="
+secured: "UA45WjmNYUSPra0gTX6rBZ2+i6YhvekKZGkeJbjeapHJ+sBnjYtPiMdVLyK+bx4+86WL0HSxC+iwnOZUGVKRc+CuG8rw+Cs5ofwsNDIygfiBi0kzHLIKFmmJEhFL+JeRoYu9dWTFi5qafr6ff0bsMqyovQL5TwcOXuRRkzyPP/3cBOxwUyC663stVneE7fiOtX+w+a8BEuqA9AMRSXVXjIfOHWfhlLZ3bXL7RkqABzexHw89HvQgiJxqm2FTwiyqMJ3aXFyNK/gFVA+g0CzNB/yhqtQOP08Pb4ZqGQ0hAXhiNQrOzUoDmMZCYbQB4cj8HTW8HwBnEEyCpRDa5QLBQ/PIon7OV9sw8E7WpFNgZliFZ+G6i70MK9H+kA3OQ78AFzYV25xCJSmhyK/2L93E/AqRNl4XBaTtqhYdmTxmtQLNnhdw9DQ+mwr6VwH9ReSiepWTOpbBjA/xPoU9ydLvvc/JQSuJgvbgor549vnh8bc6Gtcu0G5seeg22FKq0mcnhZxSQh0Lz4UXPejPLygwaw==;jBQkdrz+bmrehoS+yEh+hA=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.computerworld.com/article/3696275/ibms-watsonx-could-be-
 cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3696275/ibms-watsonx-could-be-a-generative-ai-game-changer.amp.html"
 type: article
 quality: 74
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -27,15 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "IBM launches watsonx studio to make deploying generative AI easier"
-    excerpt: "The watsonx platform announcement also marks IBM's plan to add generative AI to other services, incorporating code writing and more."
-    publishedDateTime: 2023-05-11T12:43:00Z
-    webUrl: "https://www.techrepublic.com/article/ibm-watsonx-studio-generative-ai/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 68
   - title: "IBM Launches watsonx: Paving A Path To Faster Enterprise AI Adoption"
     excerpt: "Exploring the new IBM watsonx offering. A full tech stack for training, deploying, and supporting AI capabilities across any cloud environment, as well as a model library that includes foundation models vetted and curated by IBM."
     publishedDateTime: 2023-05-15T18:22:00Z

@@ -41,15 +41,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Facial Recognition Technology Could Improve Livestock Health"
-    excerpt: "Facial recognition technology isn’t limited to humans. Livestock are now getting their mugs snapped in order to help farmers monitor animal health, increase efficiency and improve traceability.  Researchers from the US to Australia are using drones to handle health assessments of cattle from the air,"
-    publishedDateTime: 2023-05-11T12:00:00Z
-    webUrl: "https://modernfarmer.com/2023/05/facial-recognition/"
-    type: article
-    provider:
-      name: Modern Farmer
-      domain: modernfarmer.com
-    quality: 19
 
 secured: "SGPxnfHfvU8gsqb55wLRm5CJmhL+NqnjTR3HGtKnq032JbGu1hl3P8F8N0iPA1InBgoRqjUWtMMj9G9nsqKY5z4tcB1q4LhQLCd+0KLGAlCLuT0ytZJtXSscdRnaHl7c9Cpzyeijf7jnCWOCJMFF0H0JX+xN5gbR/TqIunc5aw+YDG04w0lYkp8qepBL6FINUJ2R4uGotCLI/9lN5ZmYahSY322alap5m7rqBT78JDznqO8HpfuZqNN466uGFucMk2f7FQU5DMXF7UnYkPV0qQ+Y4peyQOcz+SZbH5IhwdaJeo18eFBeYvpuh4UQgQQnsH4fzVJCbbF8ghPLWeezewzi0zx3hhHAhnp1f6nbFOX0LUbthJkGLVHFkJzAXKH4xrRvGYQSmz5VGZc9eln31XsA3QQhocqaMp3e/07dQiTBLfDl0PFgNM51yYoHLbpqrS/RTixKPcECrNuglR3jep+0RMbTDv32jT1bPfo6cANEgs7mcbwq6n0qh/+HaJSZijXe9shvalemoSKckRFOog==;6hrHS4hAQOPsRadg8J/onw=="
 ---

@@ -3,16 +3,16 @@ category: news
 title: "TSA testing facial recognition technology, prompting privacy concerns"
 excerpt: "A new project by the Transportation Security Administration is using facial recognition software to verify identities."
 publishedDateTime: 2023-05-16T03:57:00Z
-originalUrl: "https://www.fox17online.com/tsa-testing-facial-recognition-technology-prompting-privacy-concerns"
-webUrl: "https://www.fox17online.com/tsa-testing-facial-recognition-technology-prompting-privacy-concerns"
+originalUrl: "https://www.fox13now.com/tsa-testing-facial-recognition-technology-prompting-privacy-concerns"
+webUrl: "https://www.fox13now.com/tsa-testing-facial-recognition-technology-prompting-privacy-concerns"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: fox17online
-  domain: fox17online.com
+  name: fox13now
+  domain: fox13now.com
 
 topics:
   - Computer Vision
@@ -82,6 +82,22 @@ related:
       name: NBC News
       domain: nbcnews.com
     quality: 81
+  - title: "Are you who you say you are? TSA tests facial recognition technology to boost airport security"
+    excerpt: "The agency tasked with securing America's airports is testing the use of facial recognition technology at a number of airports across the country"
+    publishedDateTime: 2023-05-15T06:17:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/tsa-tests-facial-recognition-technology-boost-airport-security-99322639"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/tsa-tests-facial-recognition-technology-boost-airport-security-99322639"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/tsa-tests-facial-recognition-technology-boost-airport-security-99322639"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 79
+    images:
+      - url: "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Are you who you say you are? TSA tests facial recognition technology to boost airport security"
     excerpt: "The Transportation Security Administration has started using facial recognition technology at a number of airports across the country."
     publishedDateTime: 2023-05-15T17:49:00Z
@@ -217,15 +233,6 @@ related:
         width: 986
         height: 555
         isCached: true
-  - title: "Are you who you say you are? TSA tests facial recognition technology to boost airport security"
-    excerpt: "The agency tasked with securing America's airports is testing the use of facial recognition technology at a number of airports across the country"
-    publishedDateTime: 2023-05-15T08:19:00Z
-    webUrl: "https://abcnews.go.com/Technology/wireStory/tsa-tests-facial-recognition-technology-boost-airport-security-99322644"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 39
   - title: "Are you are who you say you are? TSA test facial recognition technology to boost airport security"
     excerpt: "A passenger walks up to an airport security checkpoint, slips an ID card into a slot and looks into a camera atop a small screen. The screen flashes “Photo Complete” and the person walks through — all without having to hand over their identification to the TSA officer sitting behind the screen."
     publishedDateTime: 2023-05-15T12:25:00Z
@@ -277,6 +284,6 @@ related:
       domain: thedailyrecord.com
     quality: 28
 
-secured: "uIl+kGLGCj6JmC3IUyIHH4VKgsbFP48Xp6BYcAGHPcQUp0lUJvHpWJV63JTGV8A0BJ63hhQgDV0jJBgzpRIaK+VDAQvSEGaB0OQrS5irrZxXP4OODa918mjHzruklatovgMMUKx9BlFgk2XXuJUBCTDOMYQ5PVnQFMB5FyEYlnCIeY6J6l1M5x24QdffrYRFWRc2lLB9ek6nYxUNwV4v8mVVeIj7Ulr3vgifHfZCybJNKg4iyrvNrZ2dDNmfdB/0vNVIjRa/lKfSfMv54mL2OeGHULWZGKVzU/4W/sQpWr122eASE0vE6Bar9u9LvcxxnSaP4fsO8UgT99fddEgpGb25GvNCroP9f7jYtAZJwkI=;+uhqc6Pk59wTo3mMmi1MgA=="
+secured: "o+em5tCYdpmmwKpjOOJolSXnEP0JMUYX65I9aTeY8z70EYHBwPq0ffl7qdwjIiptPCTRK7s/69z78Xk0Td5WfYWcgIdREbgExEjDyt7amKux4+EPivg7jl7wUI8lCjOx/+O44B8ZbiBMKwdEjKPZvHf7uHtKwqHLdhxGM9a3fxml554IoXCZRsPxaJaNAnKMJOjCnwqtF0Z7QiT7L6kpjFJlIJoUO24ZNurUDJ+/zaYZ7ZUbRMIyPdWakwYg7HVFvGYgF70EHEc/I7To4qcTCd+L+ORq+QCrGynB0aI0pGWjhfwrqi/kFlbu0Q5TwpdvYNeCtNbOmeASuRvbK+4QuGujzMo8GNFAByU6Rhi0Zs8=;BdZXhUjUjBa0k+qwYY8q0Q=="
 ---
 

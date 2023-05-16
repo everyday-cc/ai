@@ -137,15 +137,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Face Recognition Software Market 2023 Growth Possibilities, Analysis and Forecast To 2030"
-    excerpt: "The Face Recognition Software Market Report by Type (Holistic Matching Method, Feature-based Method, Skin Texture Analysis, Hybrid Types, Other) and by Application (Corporate and Residential Security,"
-    publishedDateTime: 2023-05-11T11:22:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-software-market-2023-growth-possibilities-analysis-and-forecast-to-2030-2023-05-11"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 40
   - title: "Mayor presents proclamation in recognition of rare speech disorder"
     excerpt: "Greenwood Mayor Brandon Smith signed a proclamation on Friday morning recognizing May 14 as Childhood Apraxia of Speech Day."
     publishedDateTime: 2023-05-13T07:00:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.thestar.com.my/news/focus/2023/05/14/are-we-ready-for-
 webUrl: "https://www.thestar.com.my/news/focus/2023/05/14/are-we-ready-for-mental-health-ai"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Is AI the Solution to Company-Provided Mental Health Care?"
-    excerpt: "Woebot, a CBT-based chatbot created in 2017 by a team of Stanford psychologists and AI experts, fits the criteria. The app uses a form of AI called “natural language processing” to guide users through sequences of responses meant to mimic a clinician’s reasoning."
-    publishedDateTime: 2023-05-15T16:20:00Z
-    webUrl: "https://www.psychologytoday.com/intl/blog/connect-first/202305/is-ai-the-solution-to-company-provided-mental-health-care"
+  - title: "Are Countries Ready for AI? How they can Ensure Ethical & Responsible Adoption"
+    excerpt: "From ChatGPT to deepfakes, the topic of artificial intelligence (AI) has recently been making headlines. But beyond the buzz, there are real benefits it holds for advancing development priorities. Assessing countries’ AI readiness as one of the first steps towards adoption can help mitigate potential risks."
+    publishedDateTime: 2023-05-16T05:44:00Z
+    webUrl: "https://www.ipsnews.net/2023/05/countries-ready-ai-can-ensure-ethical-responsible-adoption/"
     type: article
     provider:
-      name: Psychology Today
-      domain: psychologytoday.com
-    quality: 39
+      name: Inter Press Service
+      domain: ipsnews.net
+    quality: 50
     images:
-      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_images/2023-05/Woebot%20Art.png.jpg?itok=5UOZhh-v"
-        width: 1528
-        height: 800
+      - url: "https://www.ipsnews.net/Library/2023/05/Countries-Ready-for-AI_.jpg"
+        width: 624
+        height: 339
         isCached: true
 
 secured: "neVGpgnYrNn8zub3KZvdWOR78R9nIGFejhWkcWgLD/jX7wB9VXbr+zGSe6VVOG4lXDTsyD0zxA3tphwIL0dkHgYa9/Zdl7yD3CAt5BT03dvDaXyo9pZHH9e/GyGLxb86t9X25EH/gVsS4e7HsHRSyl7rVwZ4qSyoV5ymFRot0TocmDVfOJuGCNabz6kFIx+Ct4QrDIMuCaxX2kcdiIuBUhukZulJQRKb/s4YM1qdyY7Eb/4K14j/MHmLDRryAPg2dtsA8elwI16Veudodsk+id5JpApprQppp/KqN9kpNVBSergnF+6zT9FXoaK1uDO5os8zU89qRGi1ygSQsQEbH6297/NkXICXW31Q0BJsIts=;hj5Lhenijh8aDBAEn8vRoQ=="

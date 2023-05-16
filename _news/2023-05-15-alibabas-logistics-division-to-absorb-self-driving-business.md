@@ -34,6 +34,20 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 34
+  - title: "Alibaba Self-Driving Said to Cut 70% of Jobs as a DAMO Lab Merged into Logistic Unit"
+    excerpt: "Alibaba Self-Driving Said to Cut 70% of Jobs as a DAMO Lab Merged into Logistic Unit. BEIJING, May 15 (TiPost)— Alibaba Group is scaling back its scientific research"
+    publishedDateTime: 2023-05-16T01:17:00Z
+    webUrl: "https://www.sohu.com/a/675952198_116132"
+    type: article
+    provider:
+      name: 搜狐
+      domain: sohu.com
+    quality: 32
+    images:
+      - url: "https://p9.itc.cn/q_70/images03/20230516/a840e8a33525477b8198c590dbc0772f.jpeg"
+        width: 1398
+        height: 625
+        isCached: true
   - title: "Alibaba’s self-driving team to be absorbed by logistics arm in major setback"
     excerpt: "Alibaba is embarking on a reorganization that will bring its autonomous driving research team under the purview of Cainiao, the logistics arm of the"
     publishedDateTime: 2023-05-15T10:51:00Z

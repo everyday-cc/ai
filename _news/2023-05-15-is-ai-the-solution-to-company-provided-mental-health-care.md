@@ -7,7 +7,7 @@ originalUrl: "https://www.psychologytoday.com/intl/blog/connect-first/202305/is-
 webUrl: "https://www.psychologytoday.com/intl/blog/connect-first/202305/is-ai-the-solution-to-company-provided-mental-health-care"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1528
     height: 800
     isCached: true
-
-related:
-  - title: "Are we ready for mental health AI?"
-    excerpt: "I have encountered mental health chatbots and apps before and it was clear that technology still had a long way to go before it can provide the same nuanced benefit as a human therapist. ChatGPT and its other AI peers seem to hold potential to bridge that gap by providing a “human” experience to the conversation."
-    publishedDateTime: 2023-05-13T23:00:00Z
-    webUrl: "https://www.thestar.com.my/news/focus/2023/05/14/are-we-ready-for-mental-health-ai"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 39
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2023/05/14/2071234.jpg"
-        width: 1240
-        height: 929
-        isCached: true
 
 secured: "JHSMoHIxutF8xLqvjxaJFuUSt4N7aRLCilg54j0o/m4x3JJDsoP2iPCf8HApHalw5HxVZADIZqfwUWEa3Ur7iiT1dzTRQAj+yb5X9givM1MDifvsyHI6dmc6Y7SEGbXOxbBoTcarXS2NSzJI2RYYmAEXSCnL4BEhH1ym1RXP61FZJ7NKzntGLldUh7XimCsuuv7lFs7ClF0X5FisECUkR+P29Y6CHRD40gXqmRGZL4n4z+vtkOmbJf7PRyTgrIKIvOVpFLF+6H2Fkr3XGfZdgZuOJ4tJzc4uHJjrw6B8aKL8zTBIflPxyWApbd7qYsLoiPlkL2bGx/rdjMo/clt3S74KwX6Ems0evIHTmSgq+KoyAkpOZa4Kd1WWEgnFMRYHmy7kXnSTmxtArQ6UbzxY82ACcMGIDC11jQLY5g1mi7WzORJ1anOP3DwsgMBE/x4HiZ2LwfEiEHyHk4ROX+eqsgQhrh0BK0HGqMalKdf7NH5PQzxtgLAL7OsZXf2DVFOQhMJZ4wtrAObD4D2qjnMatQ==;LJdDsLOoJhcQpwOI4a7PWQ=="
 ---

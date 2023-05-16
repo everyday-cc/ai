@@ -62,22 +62,6 @@ related:
         width: 1200
         height: 798
         isCached: true
-  - title: "What AI-Generated Fingers AI Can Teach You About Training Your Own Models"
-    excerpt: "Generative AI is everywhere and has unlocked creativity for extraordinary creations, such as images of ecstatic Friedrich Nietzsche dancing or of Immanuel Kant with a sneaky grin. Rather than deciphering Kant's intricate ideas,"
-    publishedDateTime: 2023-05-11T11:44:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/11/what-ai-generated-fingers-ai-can-teach-you-about-training-your-own-models/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/11/what-ai-generated-fingers-ai-can-teach-you-about-training-your-own-models/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/05/11/what-ai-generated-fingers-ai-can-teach-you-about-training-your-own-models/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 88
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/645b9e989f952bd52c9c02fa/0x0.jpg?format=jpg&crop=3702,2084,x0,y499,safe&width=1200"
-        width: 1200
-        height: 676
-        isCached: true
   - title: "Here is how Europe is pushing to regulate artificial intelligence as ChatGPT rapidly emerges"
     excerpt: "The European Union voted to strengthen regulations around artificial intelligence. Here is a look into how chatbots such as ChatGPT could be regulated in the continent."
     publishedDateTime: 2023-05-11T13:51:00Z
@@ -265,6 +249,6 @@ related:
       domain: usatoday.com
     quality: 7
 
-secured: "+SwUm1omzWmuDibmlJJ9h/zucyB45rl+MVwBJYG5jZgroR+IXHJ3P+Yhvssv2taL2YR5f9sbr6FqT5Ah8NQi5On07Zr3Vhge6BS1ufmpa1bhgjD3DdtD1EDuvW7Lcfmo8p/gAGtUXb1QCkjAJWTP+vQ0+7LMN6zsr1JC90jx5RqbCgUfja9NcvtxZUgwnpvMrmnNsoTvl7C74TL4s2A7G0/CJCpfmvZTFX+PJ/Wh3Jfjos0xZtLNeSMiMsAGlTDZc/uo+DMVfW0QKzbcpmVvNKoUZdXCZEjqjPy8p4nZPUhNds5aB/LvVgh1EwQ4UPxqtX7UAsTPS1lO8Lh8KCgJu8j5ICwF/AehFk4wdGN5CH0=;IqoVBgLPQjWCZ1ygLO+m/Q=="
+secured: "Mmw6ZwFEUl6CDkARUqXbNjGR415e1Rw3HFBaLQ167xVQjuGjXuBuKRtFmwIuym96xxQG3ARyTbKIPe6VAgzk5oC46oMxtLZxb+ToS2x3PlmAtMoYd+c3c7Ev2TFyuWwCo7IJze/v1tRcsBwGWS69NdXM5QzGvLriY9G10HeR5THblA4z8IVXiMnuIdtdb8epz8J2ZjcDVXQeGeIkxH+T/k7RfvoIR/i5F8hSffFN7wUwvIMqrXaibf90q8tmeEZYqCh/yWfd386TEAHv5frLR9uxE/83JFsVuBq7Oq+o1VW52nrUf5k4LPBMVCn/qrDajj0pVuc1NKBfnbrry8v1+n05GUt7STommKy5X0zLjzxiR7lnaNbEk7SePAW2sAOGZ5u7Y8tZigHLk0Pdynrag3qAfWMKaYRxSee6KJsD/j+ESUhrr4spvAfYPvACkSPdnuov/Be39xz3psqqKtseF+zTZrMy7wO4Yy2m0kch3vcbhqjd3uMMFxsQNvj2o3pjZ3URrGrDatPtgHWb44qMfA==;a74iqmjZm/OM/2EMCNdUYw=="
 ---
 

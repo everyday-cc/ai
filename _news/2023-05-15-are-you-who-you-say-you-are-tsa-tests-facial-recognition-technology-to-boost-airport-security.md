@@ -2,11 +2,13 @@
 category: news
 title: "Are you who you say you are? TSA tests facial recognition technology to boost airport security"
 excerpt: "The agency tasked with securing America's airports is testing the use of facial recognition technology at a number of airports across the country"
-publishedDateTime: 2023-05-15T08:19:00Z
-originalUrl: "https://abcnews.go.com/Technology/wireStory/tsa-tests-facial-recognition-technology-boost-airport-security-99322644"
-webUrl: "https://abcnews.go.com/Technology/wireStory/tsa-tests-facial-recognition-technology-boost-airport-security-99322644"
+publishedDateTime: 2023-05-15T06:17:00Z
+originalUrl: "https://abcnews.go.com/Business/wireStory/tsa-tests-facial-recognition-technology-boost-airport-security-99322639"
+webUrl: "https://abcnews.go.com/Business/wireStory/tsa-tests-facial-recognition-technology-boost-airport-security-99322639"
+ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/tsa-tests-facial-recognition-technology-boost-airport-security-99322639"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/tsa-tests-facial-recognition-technology-boost-airport-security-99322639"
 type: article
-quality: 39
+quality: 79
 heat: -1
 published: false
 
@@ -18,6 +20,12 @@ topics:
   - Computer Vision
   - AI
   - AI in Security
+
+images:
+  - url: "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg"
+    width: 992
+    height: 558
+    isCached: true
 
 related:
   - title: "TSA is testing facial recognition at U.S. airports. Here's what that means for you"
@@ -215,11 +223,11 @@ related:
   - title: "TSA testing facial recognition technology, prompting privacy concerns"
     excerpt: "A new project by the Transportation Security Administration is using facial recognition software to verify identities."
     publishedDateTime: 2023-05-16T03:57:00Z
-    webUrl: "https://www.fox17online.com/tsa-testing-facial-recognition-technology-prompting-privacy-concerns"
+    webUrl: "https://www.fox13now.com/tsa-testing-facial-recognition-technology-prompting-privacy-concerns"
     type: article
     provider:
-      name: fox17online
-      domain: fox17online.com
+      name: fox13now
+      domain: fox13now.com
     quality: 39
     images:
       - url: "https://ewscripps.brightspotcdn.com/dims4/default/34a37e7/2147483647/strip/true/crop/960x504+0+108/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcdn.scrippsnews.com%2Fimages%2Fvideos%2Fz%2F1684195627_h09L7Q.jpg"
@@ -277,6 +285,6 @@ related:
       domain: thedailyrecord.com
     quality: 28
 
-secured: "UUGDq9P9fI3zDJMmkdLDvHmz0qKXqjkkCE2PN5iXKvQtJ+cqWV+5U7z3m345C5gtBx9pgWCYDH8AghxLG83nddWMrOUzkpuCgWL9UuBbeouSn6I5PPZcY6PZkt/sMFbrQr8pQsUXCcFCtSJcPN9XosTg7vFop4DHxPUwmQq8tqOWn/M8S8hQWx7eOQbsyDGs9WQFeF3WcMlh5Ct4Hjwmcl/dJpO0vphyIhefMsiRFaXYLp1L5+8G6Tye21jExOA1slze2ohplfkY+GFE0BKURr4dwqoo8hN77P6mGDBSpncHCtXeNvdNTZFB2pX8K/3vXDfqiDH0rqlJRjfOzHdzZR/JyNd8FEPQIKLEeZ0aRKY3pm1F+bRLWjz3/Osrpz2zT2SSAlGb3OYJ4z/Fs2pUGaSn52XbGzclN+WgD00TGstls+MH6XvoUwQv4E3eAx9ZvXTl4nG7TQLqHQZ9wifTyXq+4DKe39KFMrgTzefuSWqFtqbWDaB+7VNJJtJJocc+zae3NadPLjqs6RToMFylDw==;jXhamf1rePE4XKQd4BoQ9w=="
+secured: "OgP5xQ0pXxkykFwIYprX74K4HSQftL1VT6vTTaBLK72Gvf8UaWfeSd+2gKFlIurIOp9Je3d6gJ36mm6/svXnP5zNVlcCS9w8jaXIJQOMjHGkqA5sb9L1DBgY5/GsO7j5QAsR1net90oQWdTb/HOSo0IkJsfWdmsHIJWudUVmC+QN2Md4AjqVqbLXQ5srRz4TSwKYB3aWFO3pcZT3S7MLf0YQeGqOFZhgIWhjf/pmbRgZIhpFuZRtdkW6UsMuUGUaEPEfJaoqaY7C0F8LxN3ImY9zjkrYH52LmOMMrBtWc3oxJD0xjjUtmYAJJE6hjnUDJw0OM/goYrA/esb1mFBXKwfubHExQGPM7TpEQj+MZfw=;VGxp6bE+zMyqmdaHeRm/zw=="
 ---
 

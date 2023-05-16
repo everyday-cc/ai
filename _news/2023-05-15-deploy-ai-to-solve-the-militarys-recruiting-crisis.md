@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/opinion/deploy-ai-solve-military-recruiting-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/deploy-ai-solve-military-recruiting-crisis.amp"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Taming AI to the benefit of humans"
+    excerpt: "Previous sci-fi movies featuring AI often portray evil-minded enemies set on destroying humanity, such as The Terminator, The Matrix and Blade Runner. Experts, including late British theoretical physicist Stephen Hawking and Tesla CEO Elon Musk,"
+    publishedDateTime: 2023-05-15T02:58:00Z
+    webUrl: "https://global.chinadaily.com.cn/a/202305/15/WS64619228a310b6054fad2f53.html"
+    type: article
+    provider:
+      name: 中国日报网
+      domain: chinadaily.com.cn
+    quality: 39
+    images:
+      - url: "https://img2.chinadaily.com.cn/images/202305/15/64619228a310b60580cce72b.jpeg"
+        width: 608
+        height: 405
+        isCached: true
 
 secured: "UOhB7qV77MAhJ6VqH7GelyHKOuIkKNZgar0XmIDBMG9Ec61VzOT0E8MK0lSTeB+qCEZodZPYUxqIycRDzzek25nlNvnmItGsk+nv8oe33kPvBjjE0z/twJSYX3CTPNCoc12lBRWkGq49EwLvhDGtF0O7IYPBkaAEiyGHK2XmqiGqrAgES4Az/E/mlOYocdl/MJfvkyvvqiAwPqV6v+4r6lfAFguC9mMnBAMtf2fjlSuuqgqaDFgtQNe+F7kA1IgoMZG+NFtyEEnnh7jBRn7CKX9NSSkiBlnwelsZcgP+rzZ0kWGDVu4EGDW8iQFVDcr6sg6zjgGgOdOIw+8ez6qDZwdDrJJ+QVMTJHIZMc9NKMY=;JpSmRQ2HfUY3AhlnN/MgzQ=="
 ---

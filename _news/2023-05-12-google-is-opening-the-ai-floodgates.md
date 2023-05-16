@@ -28,37 +28,69 @@ images:
     isCached: true
 
 related:
-  - title: "Rise Of The AI Whisperers"
-    excerpt: "I see the emerging profession of AI whisperer as holding the key to unlocking the full potential of AI systems."
-    publishedDateTime: 2023-05-11T11:15:00Z
-    webUrl: "https://www.forbes.com/sites/theyec/2023/05/11/rise-of-the-ai-whisperers/"
-    ampWebUrl: "https://www.forbes.com/sites/theyec/2023/05/11/rise-of-the-ai-whisperers/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2023/05/11/rise-of-the-ai-whisperers/amp/"
+  - title: "How Artificial Intelligence Is Changing Business"
+    excerpt: "Artificial intelligence (AI) has been changing every type of business worldwide. The phrase derives from computer-based operating systems being able to imitate or replicate exact human-like activities. There are also many different types of artificial intelligence, but let’s go over some of the types relating to a business environment."
+    publishedDateTime: 2023-05-12T12:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/12/how-artificial-intelligence-is-changing-business/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/12/how-artificial-intelligence-is-changing-business/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/05/12/how-artificial-intelligence-is-changing-business/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 89
+    quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/645ba88738407b978d2796dd/0x0.jpg?format=jpg&width=1200"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/645907002b0d8e64282796dd/0x0.jpg?format=jpg&crop=6833,3840,x1162,y0,safe&width=1200"
         width: 1200
-        height: 800
+        height: 674
         isCached: true
-  - title: "Dangers of AI: What are the Artificial Intelligence threats and risks?"
-    excerpt: "Although AI has been hailed as revolutionary and a game-changer, it has drawbacks. In addition to planning for superintelligent computers, contemporary AI can bring problems. Let's take a look at some crucial AI-related risks."
-    publishedDateTime: 2023-05-14T15:08:00Z
-    webUrl: "https://www.moneycontrol.com/news/technology/dangers-of-ai-what-are-the-artificial-intelligence-threats-and-risks-10585221.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/technology/dangers-of-ai-what-are-the-artificial-intelligence-threats-and-risks-10585221.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/dangers-of-ai-what-are-the-artificial-intelligence-threats-and-risks-10585221.html/amp"
+  - title: "How Businesses Can Ethically Embrace Artificial Intelligence"
+    excerpt: "Though there are many benefits to using AI in marketing, we must be aware of the potential risks and ethical concerns that come along with it."
+    publishedDateTime: 2023-05-12T13:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/12/how-businesses-can-ethically-embrace-artificial-intelligence/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/12/how-businesses-can-ethically-embrace-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/05/12/how-businesses-can-ethically-embrace-artificial-intelligence/amp/"
     type: article
     provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 74
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2023/05/AI-2.jpg"
-        width: 1280
-        height: 720
+      - url: "https://imageio.forbes.com/specials-images/imageserve/645d3d41cac5cbcb9fcb5cb6/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 650
+        isCached: true
+  - title: "How this safe browsing feature is using AI to stay ahead of scammers"
+    excerpt: "Kurt \"The CyberGuy\" Knutsson shares steps on how to enable Android's Safe Browsing feature, so you can feel more secure when browsing the internet on your phone."
+    publishedDateTime: 2023-05-13T01:43:00Z
+    webUrl: "https://www.foxnews.com/tech/how-this-safe-browsing-feature-is-using-ai-stay-ahead-scammers"
+    ampWebUrl: "https://www.foxnews.com/tech/how-this-safe-browsing-feature-is-using-ai-stay-ahead-scammers.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/how-this-safe-browsing-feature-is-using-ai-stay-ahead-scammers.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 87
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/68f44d3f-4879-4357-aa2e-a9418b634a84/f9e8ca78-fc06-4391-ad1c-2a735f711145/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "How Has Generative AI Changed The Business Landscape For Young Entrepreneurs?"
+    excerpt: "The current hype and potential opportunities surrounding AI mean many entrepreneurs are eager to get involved."
+    publishedDateTime: 2023-05-15T11:14:00Z
+    webUrl: "https://www.forbes.com/sites/theyec/2023/05/15/how-has-generative-ai-changed-the-business-landscape-for-young-entrepreneurs/"
+    ampWebUrl: "https://www.forbes.com/sites/theyec/2023/05/15/how-has-generative-ai-changed-the-business-landscape-for-young-entrepreneurs/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2023/05/15/how-has-generative-ai-changed-the-business-landscape-for-young-entrepreneurs/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 86
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/645e4bcb5ad71bb98fa69866/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "How AI Will Change the Workplace"
     excerpt: "We asked some top thinkers from different fields to weigh in on what’s ahead, as the AI explosion compels businesses to rethink, well, almost everything."
@@ -74,79 +106,60 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Catching bad content in the age of AI"
-    excerpt: "Why haven’t tech companies improved at content moderation? This article is from The Technocrat, MIT Technology Review's weekly tech policy newsletter about power, politics, and Silicon Valley. To receive it in your inbox every Friday,"
-    publishedDateTime: 2023-05-15T10:00:00Z
-    webUrl: "https://www.technologyreview.com/2023/05/15/1073019/catching-bad-content-in-the-age-of-ai/"
-    ampWebUrl: "https://www.technologyreview.com/2023/05/15/1073019/catching-bad-content-in-the-age-of-ai/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/05/15/1073019/catching-bad-content-in-the-age-of-ai/amp/"
+  - title: "How AI Knows Things No One Told It"
+    excerpt: "Researchers are still struggling to understand how AI models trained to parrot internet text can perform advanced tasks such as running code, playing games and trying to break up a marriage"
+    publishedDateTime: 2023-05-11T17:21:00Z
+    webUrl: "https://www.scientificamerican.com/article/how-ai-knows-things-no-one-told-it/"
+    ampWebUrl: "https://www.scientificamerican.com/article/how-ai-knows-things-no-one-told-it/?amp=true"
+    cdnAmpWebUrl: "https://www-scientificamerican-com.cdn.ampproject.org/c/s/www.scientificamerican.com/article/how-ai-knows-things-no-one-told-it/?amp=true"
     type: article
     provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 59
+      name: Scientific American
+      domain: scientificamerican.com
+    quality: 57
     images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/05/hi-wire-netA.jpeg?w=3000"
-        width: 3000
-        height: 1688
+      - url: "https://static.scientificamerican.com/sciam/cache/file/DA9DB64B-71CA-4563-B7C9D7E66DC6FCE3.jpg"
+        width: 791
+        height: 496
         isCached: true
-  - title: "Lawmakers work to regulate AI at the state level"
-    excerpt: "AI tools like Chat GPT can answer questions and summarize research. Now lawmakers are working to regulate how AI is used at the state level. “With the launch of Chat GPT and other generative forms of AI, it has really come to the forefront. And people ..."
-    publishedDateTime: 2023-05-16T00:19:00Z
-    webUrl: "https://www.wfsb.com/2023/05/15/lawmakers-work-regulate-ai-state-level/"
-    ampWebUrl: "https://www.wfsb.com/2023/05/15/lawmakers-work-regulate-ai-state-level/?outputType=amp"
-    cdnAmpWebUrl: "https://www-wfsb-com.cdn.ampproject.org/c/s/www.wfsb.com/2023/05/15/lawmakers-work-regulate-ai-state-level/?outputType=amp"
+  - title: "Audio Book Narrators Say AI Is Already Taking Away Business"
+    excerpt: "As people brace for the disruptive impact of artificial intelligence on jobs and everyday living, those in the world of audio books say their field is already being transformed."
+    publishedDateTime: 2023-05-14T05:42:00Z
+    webUrl: "https://www.barrons.com/news/audio-book-narrators-say-ai-is-already-taking-away-business-1837d837"
+    ampWebUrl: "https://www.barrons.com/amp/news/audio-book-narrators-say-ai-is-already-taking-away-business-1837d837"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/audio-book-narrators-say-ai-is-already-taking-away-business-1837d837"
     type: article
     provider:
-      name: WFSB
-      domain: wfsb.com
-    quality: 59
+      name: Barron's
+      domain: barrons.com
+    quality: 57
     images:
-      - url: "https://gray-wfsb-prod.cdn.arcpublishing.com/resizer/XvYP69UfJwT8rUmswVDgqIG9Zck=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/BXLAK2IJMFHQFJJUMPSRLJGVN4.jpg"
-        width: 800
-        height: 450
+      - url: "https://www.barrons.com/asset/external-media/afp/AFP9260753792462234016572263585427134158643---1.jpg"
+        width: 768
+        height: 396
         isCached: true
-  - title: "DEF CON to set thousands of hackers loose on AI"
-    excerpt: "Thousands of hackers will get a shot at testing the limits of AI technology at a mass hacking event at the famed DEF CON hacker convention. Some of the things they’ll be looking to find: How can chatbots be manipulated to cause harm?"
-    publishedDateTime: 2023-05-14T21:30:00Z
-    webUrl: "https://rapidcityjournal.com/news/def-con-to-set-thousands-of-hackers-loose-on-ai/article_52d189c1-a957-571c-abad-b949fccf5735.html"
+  - title: "3 AI Stocks That Have Game-Changing Technologies"
+    excerpt: "Companies are leveraging AI to create new technologies that promise to reshape our world. Some AI applications will fail, while others will be game-changing. Thus, investing in th"
+    publishedDateTime: 2023-05-11T16:17:00Z
+    webUrl: "https://www.nasdaq.com/articles/3-ai-stocks-that-have-game-changing-technologies"
     type: article
     provider:
-      name: Rapid City Journal
-      domain: rapidcityjournal.com
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 49
+  - title: "Tracking Generative AI: How Evolving AI Models Are Impacting Legal"
+    excerpt: "A running compilation of how the legal landscape continues to be shaped by generative AI tools, from GPT technologies to art generation tools and beyond."
+    publishedDateTime: 2023-05-15T02:06:00Z
+    webUrl: "https://www.law.com/legaltechnews/2023/05/14/tracking-generative-ai-how-evolving-ai-models-are-impacting-legal/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
     quality: 39
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/rapidcityjournal.com/content/tncms/assets/v3/editorial/5/2d/52d189c1-a957-571c-abad-b949fccf5735/645be190f1bd6.preview.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Taming AI to the benefit of humans"
-    excerpt: "Previous sci-fi movies featuring AI often portray evil-minded enemies set on destroying humanity, such as The Terminator, The Matrix and Blade Runner. Experts, including late British theoretical physicist Stephen Hawking and Tesla CEO Elon Musk,"
-    publishedDateTime: 2023-05-15T02:58:00Z
-    webUrl: "https://global.chinadaily.com.cn/a/202305/15/WS64619228a310b6054fad2f53.html"
-    type: article
-    provider:
-      name: 中国日报网
-      domain: chinadaily.com.cn
-    quality: 39
-    images:
-      - url: "https://img2.chinadaily.com.cn/images/202305/15/64619228a310b60580cce72b.jpeg"
-        width: 608
-        height: 405
-        isCached: true
-  - title: "Hospitality sector’s use of artificial intelligence could rise as owners look for ways around expensive apps"
-    excerpt: "The idea of robots in hospitality may conjure visions of The Jetsons’ personal assistant Rosey, or robotic waiters at city restaurants, but experts say the sector’s adoption of AI will grow."
-    publishedDateTime: 2023-05-12T08:09:00Z
-    webUrl: "https://thewest.com.au/business/retail/hospitality-sectors-use-of-artificial-intelligence-could-rise-as-owners-look-for-ways-around-expensive-apps-c-10415544"
-    type: article
-    provider:
-      name: The West Australian
-      domain: thewest.com.au
-    quality: 20
-    images:
-      - url: "https://images.thewest.com.au/publication/C-10415544/57de6a51ee683fc8bed087633ae160bcc2fb5431-16x9-x0y287w2756h1550.jpg?imwidth=1200"
-        width: 1200
-        height: 675
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/01/Numbers-Artificial-Intelligence-767x633.jpg"
+        width: 767
+        height: 633
         isCached: true
   - title: "All eyes on AI"
     excerpt: "\"Colorado has taken vague principles of AI ethics, such as accountability, fairness, transparency... and turned them into the concrete requirements for policies, governance, and technical controls,\" the practice leaders wrote."
@@ -157,15 +170,15 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 19
-  - title: "EU lawmakers agree tough measures over use of AI"
-    excerpt: "EU lawmakers have agreed a tough set of rules over the use of AI, including restrictions on chatbots such as ChatGPT, as Brussels pushes forward in enacting the world’s most restrictive regime on the development of the technology."
-    publishedDateTime: 2023-05-11T11:24:00Z
-    webUrl: "https://www.ft.com/content/da597e19-4d63-4d4d-b7d1-c3405302a1e3"
+  - title: "How technology is changing today's health care"
+    excerpt: "Today, groundbreaking advancements are revolutionizing patient care and the health care industry. Many of these advances are driven by artificial intelligence (AI). Because the health care industry generates so much data every single day,"
+    publishedDateTime: 2023-05-14T11:01:00Z
+    webUrl: "https://www.dailyherald.com/entlife/20230514/how-technology-is-changing-todays-health-care/"
     type: article
     provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 17
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 4
 
 secured: "h5fWiPJ1aaXCAqgudt8ChFB1bQH/NEB7QS0/oHFfMy6nbVVyoeMdXofZRqs0QWAfLEx9wSmOReJdZN/RNMK4Ex6yYXaXUR5qlyiGZPoZ3rhl6AOBiJkuctr5DUD+3cvvohVVvZPKLFU6EFlURwGLUOwQ95K+6iZ9jdL+Z4DdiAdKKSBhC0km7zqZGP/CPAqdnkKdePNDK0q4TWzKiz/vai4I2yn9GL23Lc6oK3LEN4RT36aqulRFlg8ZmE1EiOpryeXW0luoqE4g4HVaMTrkuQpF7xGvmQPpCYGHTilxBplqOtgj1bMvDWQvCVD/GFPK+fRRzeJX9BCcjUowWTgCP5nnTnrZhhE0Sx0pkOQjfRD3LWqrDXvIq/Yi/nfxFFM0fnysBUakoQTgFannOyDbKlWZvdJ8AKS5HObFXTN3reWcqu7fZpEE+JJvjnc4bdftplrKoXmxpsDZ27WLylRTZO2kSVqUN6U7UiAUD3xQaf9fUQaYmjehUZgLgqrWX8NhRD6G+kqHqK1LKaO9Fgcb2Q==;zSKEbSGJTI1BuwkarkY96g=="
 ---

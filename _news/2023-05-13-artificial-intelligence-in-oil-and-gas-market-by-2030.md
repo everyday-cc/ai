@@ -64,6 +64,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "2030, Artificial Intelligence as a Service Market Growth | Future Prospects and Competitive Analysis"
+    excerpt: "The \"Artificial Intelligence as a Service Market\" is one of the sectors that is expanding the fastest, thus it is"
+    publishedDateTime: 2023-05-15T15:58:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2030-artificial-intelligence-as-a-service-market-growth-future-prospects-and-competitive-analysis-2023-05-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 52
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "2030, Artificial Intelligence in Construction Market Growth | Future Prospects and Competitive Analysis"
     excerpt: "The \"Artificial Intelligence in Construction Market\" is one of the sectors that is expanding the fastest, thus it"
     publishedDateTime: 2023-05-11T22:09:00Z
@@ -87,20 +101,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 50
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence in Medication Management Market Report, Trends, Growth, Size, Share, and Forecast 2028"
-    excerpt: "Get a Sample of the Artificial Intelligence in Medication Management Market Report @  Artificial Intelligence in Medication Management Market is rapidly growing with a CAGR of 22.3% from 2022 to 2028."
-    publishedDateTime: 2023-05-11T12:09:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-medication-management-market-report-trends-growth-size-share-and-forecast-2028-2023-05-11"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

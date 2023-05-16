@@ -24,6 +24,22 @@ images:
     height: 800
     isCached: true
 
+related:
+  - title: "Machine-learning innovation in RayStation: prioritizing speed, automation, efficiency"
+    excerpt: "RaySearch Laboratories and its clinical customers are leveraging advances in machine learning to reimagine the radiotherapy workflow"
+    publishedDateTime: 2023-05-11T16:11:00Z
+    webUrl: "https://physicsworld.com/a/machine-learning-innovation-in-raystation-prioritizing-speed-automation-efficiency/"
+    type: article
+    provider:
+      name: Physics World
+      domain: physicsworld.com
+    quality: 17
+    images:
+      - url: "https://physicsworld.com/wp-content/uploads/2023/05/RayStation-Deep-Learning-segmentation-models.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+
 secured: "w/bUcQnjY3Rv8fmbeD7VYuXsql3h12Bvj5sF7vDjskCa9bmFUfCEzxEtoKDXsSOnaYByPqc4/dmNBCiiyl7KtN2JklWiyQlsaI26DmAP5hh6L7/0+T4hxF3nggN03AxGUecFVrnlmXPq4EmzQs+69Z0yxYWVSbvbINSTdupMbhwbCkWjoYvFskauaFJzVzHP2ai1gaK1iLu4uAb4t7Q1omhoGCOAhZJBTnQMHXnaoChIyWZZA1sKNGFv8ukl5SLNL6yEzUS9wvyEx1mugCcnGD0NFigQ4gA/7aoTfenKI7+RhQBCr4+Oaz1QXEFA7exLsoNDGawJu1NsLyWu91G5vurfUK1MyprRBG69abbUsrs=;hvxYq0Mx9NqW1hUXrMaoDg=="
 ---
 

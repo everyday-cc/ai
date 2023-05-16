@@ -24,36 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google is giving its dominant search engine an artificial-intelligence makeover"
-    excerpt: "Google has disclosed plans to infuse its dominant search engine with more advanced artificial-intelligence technology"
-    publishedDateTime: 2023-05-11T12:47:00Z
-    webUrl: "https://abcnews.go.com/US/wireStory/google-giving-dominant-search-engine-artificial-intelligence-makeover-99233593"
-    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/google-giving-dominant-search-engine-artificial-intelligence-makeover-99233593"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/google-giving-dominant-search-engine-artificial-intelligence-makeover-99233593"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 38
-    images:
-      - url: "https://s.abcnews.com/images/US/wirestory_fd0538018df958388991772ced6e693d_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Artificial general intelligence – What is the meaning of AGI?"
-    excerpt: "OpenAI, the company behind ChatGPT, has in its charter the aim to create artificial general intelligence that “benefits all of humanity”. This sounds like a pretty good deal to me, but what ..."
-    publishedDateTime: 2023-05-11T11:52:00Z
-    webUrl: "https://www.videogamer.com/tech/ai/artificial-general-intelligence/"
-    type: article
-    provider:
-      name: VideoGamer.com
-      domain: videogamer.com
-    quality: 24
-    images:
-      - url: "https://www.videogamer.com/wp-content/uploads/Artificial-General-Intelligence-What-is-the-meaning-of-AGI_.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Google is giving its search engine an artificial-intelligence makeover"
     excerpt: "The gradual shift in how Google's search engine runs is rolling out three months after Microsoft's Bing search engine started to tap into technology similar to that which powers the artificially intelligent chatbot ChatGPT."
     publishedDateTime: 2023-05-11T20:00:00Z
