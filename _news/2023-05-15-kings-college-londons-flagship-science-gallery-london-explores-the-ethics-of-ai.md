@@ -20,6 +20,17 @@ topics:
   - AI Ethics
   - AI
 
+related:
+  - title: "Relativity Champions Purpose-Driven AI at Relativity Fest London"
+    excerpt: "The company shares plans for generative AI innovation, product advancements and celebrates its EMEA community LONDON, May 16, 2023 /PRNewswire/ -- Relativity, a global legal technology"
+    publishedDateTime: 2023-05-16T09:38:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-05/59099935-relativity-champions-purpose-driven-ai-at-relativity-fest-london-008.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 19
+
 secured: "mo8GZngRy+wsi0RtONJNp4Si7x8qxWg7B+pOI+rC5TznQKccv+muJafwKXZLiV18mSHuKzqHq4YutMTuVKo/A952MdZtaT2kVw7bnIpuueGaG21DbEyN3MnY9o50vl+e3Xdq/s9nAcFa9gE6cDN6r38WRp+RV64zfzL9WUHKXRFHlR7odEoZ1oWl3sIQLUkJZYqe4kC+hBMe/7pSlIlvEfIEjghkiLdSwhJ8BNPdU1ZNRTHZ16qsP0UF7k8JmkmwV4cA+JbaqbJS3Kib1a5yvzJ0eCta8+AIhy1tY+u7uFwwrXGp5z8LbyEjvBSMzQhb9D0rAXPdAZRknnvC9GIVoyxUI9udsr3NPVndELNx4oY=;PLnFoJMc0JVDeVqsroIRfw=="
 ---
 

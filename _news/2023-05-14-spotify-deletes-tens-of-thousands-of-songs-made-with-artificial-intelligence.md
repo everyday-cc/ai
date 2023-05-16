@@ -7,7 +7,7 @@ originalUrl: "https://en.as.com/latest_news/spotify-deletes-tens-of-thousands-of
 webUrl: "https://en.as.com/latest_news/spotify-deletes-tens-of-thousands-of-songs-made-with-artificial-intelligence-n/"
 type: article
 quality: 14
-heat: -1
+heat: 14
 published: false
 
 provider:
@@ -16,24 +16,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "Spotify Has an AI Music Problem—but Bots Love It"
-    excerpt: "Fake listeners are flocking to AI-made songs on streaming platforms, taking much needed money away from human artists."
-    publishedDateTime: 2023-05-11T15:08:00Z
-    webUrl: "https://www.wired.com/story/spotify-ai-music-robot-listeners/"
-    ampWebUrl: "https://www.wired.com/story/spotify-ai-music-robot-listeners/amp"
-    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/spotify-ai-music-robot-listeners/amp"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 87
-    images:
-      - url: "https://media.wired.com/photos/645c19f20cbc15924e602a5c/master/pass/AI-Bot-Spotify-Listeners-Culture-1324648625.jpg"
-        width: 2400
-        height: 1800
-        isCached: true
 
 secured: "6+sosfitopL+XmwMsO+EaxkTHyfxbvAKnAG2i5ANMRpiSnXBjQLJmC9FIH4benUPzzNfBaeIyRfpsP26Df5tPHXsyn7dtMn9u819+ZcRj6Uv+b2XNoXenNtcPSy7DRcctKdW+Ys83ARYF+wvF2hpgdUSk3mM/lLv3Fpjyj3GDJmaSl7q1MPHV7OMRs1+WjWdJSmxpwLMlON9tXlJ9BTABrU7M2xLXmk1SVLRJm63d+PUYX7Wck6vG2CsgIOwstBKcKAX6HbD2fDU+Pdn0AHDepwnmY/Jjj1qmij6gzms4ds2GPGpmdoWxEx+SWhhhzQpYBzKI7U2FYLZN6iYT8fLOWelG44qYlHvv46hQzTzj6Civ7UgsiOsniyPNDadnEXEQ1Gi9j9+WQkEoVg607pyQwIaKU+dCZKUuvCU+yWTFWJo3s21prLP7qug6xm2mHOgfOXrCES/hSHBSwWGXDtOxf04yEMMBXtmgEK291a9EIytBw5L2T4pnAj5KujR3qOnlrAwojjTXLVVbUq1yfnm9Q==;Q1W0Hprdrk/5p5i63o/MKQ=="
 ---

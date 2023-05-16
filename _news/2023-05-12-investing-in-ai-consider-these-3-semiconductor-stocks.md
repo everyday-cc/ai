@@ -22,6 +22,17 @@ topics:
   - AI Hardware
   - AI
 
+related:
+  - title: "Why META Stock Is the AI Play You Didn’t See Coming"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips There are a number of ways to invest in artificial intelligence, but have you"
+    publishedDateTime: 2023-05-16T10:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/meta-stock-is-the-ai-play-you-didnt-see-coming-1032330569"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
+
 secured: "vMgPBXn4EUTKcp/e/1yhnSbkhLVQ+RW+PAeI37IIC1+CnVYP30yzGnKqj26cAhvfzWC1zeoNaj099gN1S2mTrTIpeCB3DnQGPrQUf1W5PuyD2h4ZxSXAdls9pHqbpzyvgS2uSTS7tWuDnBuFmpPHuAUVP0sKIWdn94vvz4Ozdju6mtJPC1oS6Pp2XD8x5Kz45Zxfi3E4ASl5P87knRaC76igvfxuW+LZsCsZY5k/4c1O/R1vccMsRJpqlb6OGIsTNgkd08WIAfPP28OyJCgdKYizGpTLlgZmiVwQo6OYdA3gCEfP3dWnion6+H+8mKM6wtdbegWcM+/jUOhSNowanyqiWZibPAzDyvW/lp2va+58ESUOoLdhuxQhzMaZAg5CL28D0x06J3N4el1D58n9MK4okatkoHpHa9Sx+xAJ9P5UnmTOBLAUkcqXpYn4346EyGZC57Rf702RC94LxKMx7TOOU5pUcMV2zFlINsjcrMaU+fiIlZLRIWHhiSld/Av0UfejxBacxUguobApdYTvtQ==;f3IJIzqkVhRm8bjce9DYAg=="
 ---
 

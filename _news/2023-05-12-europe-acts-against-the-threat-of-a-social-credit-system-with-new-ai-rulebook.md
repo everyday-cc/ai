@@ -7,7 +7,7 @@ originalUrl: "https://telecoms.com/521652/europe-acts-against-the-threat-of-a-so
 webUrl: "https://telecoms.com/521652/europe-acts-against-the-threat-of-a-social-credit-system-with-new-ai-rulebook/"
 type: article
 quality: 16
-heat: -1
+heat: 16
 published: false
 
 provider:
@@ -17,24 +17,6 @@ provider:
 topics:
   - AI Ethics
   - AI
-
-related:
-  - title: "Europe eyes strict rules for artificial intelligence"
-    excerpt: "No HAL 9000s or Ultrons on this continent, thank you very much. The European Union wants to avoid the worst of what artificial intelligence can do — think creepy facial recognition tech and many, many Black Mirror episodes — while still trying to boost ..."
-    publishedDateTime: 2023-05-13T14:33:00Z
-    webUrl: "https://www.politico.eu/article/europe-strict-rules-artificial-intelligence/"
-    ampWebUrl: "https://www.politico.eu/article/europe-strict-rules-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/europe-strict-rules-artificial-intelligence/amp/"
-    type: article
-    provider:
-      name: Politico Europe
-      domain: politico.eu
-    quality: 59
-    images:
-      - url: "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2021/04/14/iStock-1058701042-scaled.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "XwKpiX9/IAeZN7ZH9So8/TSVWvQERYvDS9GlpxTyJ7QjM6GuA8mn0vt36981NXoBbBYV819waleqaDGtOn4BOEtG7ltX46SysDoZfROH+sVC8Xf/YKkuh+vxpPPotIAIQX3UHSTrmyIvBKXU0i54QJA+Okq0xk7PNBwZpK0VB6/aHVibq7f98XfEr0w0uL6+b2esL+dm9Y91v1gRA1V8iysiHPSNzH+jUggRMrp777o1AFrTYoYaeISY+JUqVel78vvYp1q5ZHyfWoXfe6pANiHo78u059+I+E8y8laCXL/l0BPVYiCerLxUt5eNV1hpO6oBldAbNEC8fPNysB7leF5LJuNR/cm1qyRekmAobNe06Wx1SKBJ2ezA5P8erZmSS6HOokRa9OhmNJRpg2W+BeS5Ish4yYrQY4eaAsP/jvedP84U2Y4IBW5+ITcTWCsd+Dkf3AdbDqJJO2/9ZAwmACdMmHCMeo2Ydzq2RPMDtyHnMDS3QO7L9GeMinLQ3FnlBdRbrD0Iz3LPjwukBcQnnA==;BVwADe9giDcugVna5tc9Ug=="
 ---

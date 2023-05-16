@@ -43,6 +43,34 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "2030, Artificial Intelligence as a Service Market Growth | Future Prospects and Competitive Analysis"
+    excerpt: "The \"Artificial Intelligence as a Service Market\" is one of the sectors that is expanding the fastest, thus it is"
+    publishedDateTime: 2023-05-15T15:58:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2030-artificial-intelligence-as-a-service-market-growth-future-prospects-and-competitive-analysis-2023-05-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 52
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "2030, Artificial Intelligence in Construction Market Growth | Future Prospects and Competitive Analysis"
+    excerpt: "The \"Artificial Intelligence in Construction Market\" is one of the sectors that is expanding the fastest, thus it"
+    publishedDateTime: 2023-05-11T22:09:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2030-artificial-intelligence-in-construction-market-growth-future-prospects-and-competitive-analysis-2023-05-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "7eo1kY6pYyCoTg2oBtNxeGaSFRXzTtAjLy0Y2zXcCtWKyP7O5AHBWrRT0DKcXyZcjJauBlqb9nGfaOZkfRVGvoj1poySSWtVk2IsO6astabSJKEOWg8sOkbYbDSy1weN6WEsvW3ukzY3cjiPdmGCFpdDvrZjEJ38baa00nXxy8mGlggNoMjEXv9LwHUwzwcJbvE0q+XToJLA8IAEzKwGdhi2yhqgcocnnI+miLYyxUHZ3xWu3U3yTSr/P+KrTunnADPdk+c2xj1rAypfyIGCoMl/nxd6sCCT7HDI14YD4+dBfDAYEoXhIKMtkeHRWWYIjzcuoY3DYeHjW7rpkBitkpYmovsrE040+e2gRFQlzuQ=;mORkyQQOTta1yygBWoaMmg=="
 ---

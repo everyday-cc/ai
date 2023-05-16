@@ -9,8 +9,8 @@ ampWebUrl: "https://www.barrons.com/amp/news/online-search-to-make-up-lost-time-
 cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/online-search-to-make-up-lost-time-with-ai-8ef011d"
 type: article
 quality: 57
-heat: -1
-published: false
+heat: 97
+published: true
 
 provider:
   name: Barron's
@@ -26,82 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "How to Sign Up for Google's New AI-Driven Search Tools"
-    excerpt: "At Google I/O, the search giant's annual developer conference, artificial intelligence was the phrase on everybody's lips. Among the more notable announcements from the event yesterday was the news that Google is letting the public test out its latest generative AI experiments by signing up for Search Labs."
-    publishedDateTime: 2023-05-11T16:15:00Z
-    webUrl: "https://www.cnet.com/tech/computing/how-to-sign-up-for-googles-new-ai-driven-search-tools/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/how-to-sign-up-for-googles-new-ai-driven-search-tools/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/how-to-sign-up-for-googles-new-ai-driven-search-tools/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 87
-    images:
-      - url: "https://www.cnet.com/a/img/resize/45757153ae157d44b9bae8ae1e2ba6af86bac55a/hub/2023/05/11/3a878f9f-21cd-451b-ae9a-0d7ed8121e23/gettyimages-1230722138.jpg?auto=webp&fit=crop&height=630&width=1200"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "How to Sign Up for Google Search Labs And Access New AI-Driven Search Tools"
-    excerpt: "Among the more notable announcements from Google I/O, the search giant's annual developer conference, was the news that the public could now test out its new AI-driven search tools, which are being housed on Search Labs."
-    publishedDateTime: 2023-05-12T16:13:00Z
-    webUrl: "https://www.cnet.com/tech/computing/how-to-sign-up-for-google-search-labs-and-access-new-ai-driven-search-tools/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/how-to-sign-up-for-google-search-labs-and-access-new-ai-driven-search-tools/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/how-to-sign-up-for-google-search-labs-and-access-new-ai-driven-search-tools/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 85
-    images:
-      - url: "https://www.cnet.com/a/img/resize/45757153ae157d44b9bae8ae1e2ba6af86bac55a/hub/2023/05/11/3a878f9f-21cd-451b-ae9a-0d7ed8121e23/gettyimages-1230722138.jpg?auto=webp&fit=crop&height=630&width=1200"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Google Launching Tools to Identify Misleading and AI Images"
-    excerpt: "Google is adding two new features to its image search to reduce the spread of misinformation, especially now that artificial intelligence tools have made the creation of photorealistic fakes trivial."
-    publishedDateTime: 2023-05-15T05:42:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-05-15/google-launching-tools-to-identify-misleading-and-ai-images"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 67
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/im1kpz2VrkVs/v0/1200x798.jpg"
-        width: 1200
-        height: 798
-        isCached: true
-  - title: "Google is accelerating a little too fast into the AI unknown"
-    excerpt: "Google has announced that new tech for generating content will be added to Gmail, Google Docs, Google Maps and Google Photos, as well as its search engine. The search giant is aiming to enhance its core products with artificial intelligence (AI),"
-    publishedDateTime: 2023-05-15T17:57:00Z
-    webUrl: "https://www.livemint.com/opinion/columns/googles-ai-arms-race-rush-to-stuff-generative-ai-into-services-but-risk-eroding-trust-of-consumers-and-advertising-customers-11684173426813.html"
-    ampWebUrl: "https://www.livemint.com/opinion/columns/googles-ai-arms-race-rush-to-stuff-generative-ai-into-services-but-risk-eroding-trust-of-consumers-and-advertising-customers/amp-11684173426813.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/opinion/columns/googles-ai-arms-race-rush-to-stuff-generative-ai-into-services-but-risk-eroding-trust-of-consumers-and-advertising-customers/amp-11684173426813.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 61
-    images:
-      - url: "https://images.livemint.com/img/2018/12/28/600x338/Opinion_1545994499293.jpg"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "Google Is in Too Much of a Hurry on AI Search"
-    excerpt: "As AI answers fill our phone screens, what will become of the tech giant’s relationship with advertisers — or the truth?"
-    publishedDateTime: 2023-05-11T23:53:00Z
-    webUrl: "https://www.washingtonpost.com/business/2023/05/12/google-is-rolling-the-dice-with-ai-search/42a55c5a-f081-11ed-b67d-a219ec5dfd30_story.html"
-    type: article
-    provider:
-      name: The Washington Post
-      domain: washingtonpost.com
-    quality: 39
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IH5Q43HQQEI63NT5UIM6YXP5GA.jpg&w=1440"
-        width: 1440
-        height: 958
-        isCached: true
   - title: "Google Is Rolling the Dice With AI Search"
     excerpt: "As AI answers fill our phone screens, what will become of the tech giant’s relationship with advertisers — or the truth?"
     publishedDateTime: 2023-05-11T23:53:00Z
@@ -115,6 +39,45 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IH5Q43HQQEI63NT5UIM6YXP5GA.jpg&w=1440"
         width: 1440
         height: 958
+        isCached: true
+  - title: "Congress Is Racing to Catch Up With Artificial Intelligence"
+    excerpt: "Lawmakers agree that the rapid evolution of this technology needs to be addressed—but they’re still getting up to speed on the details."
+    publishedDateTime: 2023-05-15T10:09:00Z
+    webUrl: "https://newrepublic.com/article/172701/congress-ai-regulation-tech-policy"
+    type: article
+    provider:
+      name: New Republic
+      domain: newrepublic.com
+    quality: 37
+    images:
+      - url: "https://images.newrepublic.com/7537b8cad1e2b12adba52eeb3c54704d05a89eaf.jpeg?w=1109&h=577&crop=faces&fit=crop&fm=jpg"
+        width: 1109
+        height: 577
+        isCached: true
+  - title: "Google 'Bard': Company enhances search engine with Artificial Intelligence"
+    excerpt: "Google now offers their artificial intelligence called 'Bard' to conduct searches, write emails, and edit photos."
+    publishedDateTime: 2023-05-12T22:39:00Z
+    webUrl: "https://www.fox26houston.com/news/google-bard-search-engine-artificial-intelligence"
+    ampWebUrl: "https://www.fox26houston.com/news/google-bard-search-engine-artificial-intelligence.amp"
+    cdnAmpWebUrl: "https://www-fox26houston-com.cdn.ampproject.org/c/s/www.fox26houston.com/news/google-bard-search-engine-artificial-intelligence.amp"
+    type: article
+    provider:
+      name: KRIV
+      domain: fox26houston.com
+    quality: 35
+  - title: "Sinequa accelerates drug development and clinical research with AI-powered scientific search"
+    excerpt: "Sinequa presents generative AI and neural search capabilities for accelerating clinical research and drug development"
+    publishedDateTime: 2023-05-15T15:00:00Z
+    webUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=158648"
+    type: article
+    provider:
+      name: KMWorld Magazine
+      domain: kmworld.com
+    quality: 28
+    images:
+      - url: "https://dzceab466r34n.cloudfront.net/Images/OtherImages/151196-2023-Cover-Images-ORG.png"
+        width: 772
+        height: 594
         isCached: true
 
 secured: "N3AxCYPfMm9fHrCi6EyDyW+gzT/0qL9D8LTLd/uGfYwXfiX3aBZJ0hpNgg9aYRBw8cRm0hqbHFdp1FvZYsEFb4GXIL3FdcUjKS81EAKK4Kk3i8g55DuXaJcWzbbTWMd5JzEQY/sOajxNp3U87bx6ZPW08vT7bnkFU33gBTSLhciS/p2xN1/wQZAgshmknI+VUmj93DQWmnu8uqzvHbPY7Z4Slnt7FyFeBsG4D5ues2nN/CBqhp6wHB8MkVi7sJ9NrsUFVEzt2dieAAEF37n7UEU8ZXm67n96PLwdRO13Uu4JgGz+COlLVMbgydDy8RDH7q4X2BtWPePjkIMKizw/EMVh/2DWa91rjK9oJ2IaxJUiNe78btKmxtOW8pGiT00Vw1U7ZLHBMfxW9QX+GC9ldE0qRtEUYEcBpcaCWrnTqL3NdzNyLmdsA2pcfOekZipWLzOjaR4dxP2I4SkX7YCeKCHrOL6obrZ+QQGNmdVvA1XBnbjhiiZ2n2gBpaTkVw6iJJpP8mfOOIGy7urD7bkUiw==;oGIOynRJip5/WzQrlniSOQ=="

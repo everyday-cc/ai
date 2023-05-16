@@ -78,6 +78,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Navigating The AI Revolution: How To Successfully Implement AI In Business"
+    excerpt: "The next step is to test the new processes powered by AI, make the final tweaks and eventually establish service-level agreements (SLAs) for their use. 1. Start small. Begin by implementing AI in a specific area or department and gradually expand to other ..."
+    publishedDateTime: 2023-05-16T11:16:00Z
+    webUrl: "https://www.forbes.com/sites/theyec/2023/05/16/navigating-the-ai-revolution-how-to-successfully-implement-ai-in-business/"
+    ampWebUrl: "https://www.forbes.com/sites/theyec/2023/05/16/navigating-the-ai-revolution-how-to-successfully-implement-ai-in-business/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2023/05/16/navigating-the-ai-revolution-how-to-successfully-implement-ai-in-business/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 85
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/646253945a385db669dd3ff9/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 674
+        isCached: true
   - title: "Google Is Opening the AI Floodgates"
     excerpt: "This week we recap all the news from Google I/O and discuss how the company is reshaping its core business with generative tools."
     publishedDateTime: 2023-05-12T12:00:00Z
@@ -106,22 +122,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "How AI Knows Things No One Told It"
-    excerpt: "Researchers are still struggling to understand how AI models trained to parrot internet text can perform advanced tasks such as running code, playing games and trying to break up a marriage"
-    publishedDateTime: 2023-05-11T17:21:00Z
-    webUrl: "https://www.scientificamerican.com/article/how-ai-knows-things-no-one-told-it/"
-    ampWebUrl: "https://www.scientificamerican.com/article/how-ai-knows-things-no-one-told-it/?amp=true"
-    cdnAmpWebUrl: "https://www-scientificamerican-com.cdn.ampproject.org/c/s/www.scientificamerican.com/article/how-ai-knows-things-no-one-told-it/?amp=true"
-    type: article
-    provider:
-      name: Scientific American
-      domain: scientificamerican.com
-    quality: 57
-    images:
-      - url: "https://static.scientificamerican.com/sciam/cache/file/DA9DB64B-71CA-4563-B7C9D7E66DC6FCE3.jpg"
-        width: 791
-        height: 496
-        isCached: true
   - title: "Audio Book Narrators Say AI Is Already Taking Away Business"
     excerpt: "As people brace for the disruptive impact of artificial intelligence on jobs and everyday living, those in the world of audio books say their field is already being transformed."
     publishedDateTime: 2023-05-14T05:42:00Z
@@ -138,15 +138,6 @@ related:
         width: 768
         height: 396
         isCached: true
-  - title: "3 AI Stocks That Have Game-Changing Technologies"
-    excerpt: "Companies are leveraging AI to create new technologies that promise to reshape our world. Some AI applications will fail, while others will be game-changing. Thus, investing in th"
-    publishedDateTime: 2023-05-11T16:17:00Z
-    webUrl: "https://www.nasdaq.com/articles/3-ai-stocks-that-have-game-changing-technologies"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 49
   - title: "Tracking Generative AI: How Evolving AI Models Are Impacting Legal"
     excerpt: "A running compilation of how the legal landscape continues to be shaped by generative AI tools, from GPT technologies to art generation tools and beyond."
     publishedDateTime: 2023-05-15T02:06:00Z
@@ -184,6 +175,15 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 19
+  - title: "Amazon is working on infusing generative AI into its shopping app"
+    excerpt: "Rivals adding generative AI features and consumer demand may be the two reasons behind Amazon’s push in revamping the search engine of its retail application. In the US, about 56% of product searches start on Amazon, higher than the 42% share of search ..."
+    publishedDateTime: 2023-05-16T09:52:00Z
+    webUrl: "https://www.computerworld.com/article/3696691/amazon-is-working-on-infusing-generative-ai-into-its-shopping-app.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 17
   - title: "How technology is changing today's health care"
     excerpt: "Today, groundbreaking advancements are revolutionizing patient care and the health care industry. Many of these advances are driven by artificial intelligence (AI). Because the health care industry generates so much data every single day,"
     publishedDateTime: 2023-05-14T11:01:00Z

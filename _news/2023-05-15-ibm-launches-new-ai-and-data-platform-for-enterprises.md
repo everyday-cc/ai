@@ -45,6 +45,15 @@ related:
         width: 1200
         height: 864
         isCached: true
+  - title: "Together raises $20m seed funding to build open-source AI models"
+    excerpt: "On a mission to take on existing big players in generative AI, Together wants to ensure an accessible future for the technology."
+    publishedDateTime: 2023-05-16T07:56:00Z
+    webUrl: "https://www.siliconrepublic.com/start-ups/together-ai-models-generative-cloud-seed-funding-vipul-ved-prakash"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 19
 
 secured: "YJ+mhLR1Urx41W6CU58OvJs/nR2Bndo3CKlp3G+5ejAkG/FFLtyqcdYwhsShomOTXZRfzqozT0E3gCFvDwXG2YPMitMoHWHljtyPclV/+7uWhsXot4DpKAoo9ZGtvq97jmLlLf1EU2ietI6tOKViL2yxCEO/AQj1/RaKNUhyeSX+FupCXkrNvyV7AN78tkCZyTJc8jqhmlmQOncM4E2MEsm0EPFXyOhNgL+sTGiF9MkbejkugeNrwQsgpLGNMDT0r/RqisYv0fRF2o+/WdgZPr4xPVFBhkRKN6nBvt1DeeltgCLBmZfs3OV4IA3rQuZDL7Db9b6R/lkF9Ucv+CGpU7EJf8ogSLi2cd+1EaIBK9g=;tcNdPlIU3f+dqOjW1wQjTA=="
 ---

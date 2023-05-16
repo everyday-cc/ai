@@ -7,7 +7,7 @@ originalUrl: "https://omaha.com/lifestyles/health-med-fit/ai-may-be-on-its-way-t
 webUrl: "https://omaha.com/lifestyles/health-med-fit/ai-may-be-on-its-way-to-your-doctor-s-office-but-it-s-not/article_ecd47e7f-7eb4-5bbc-be15-ea2e4c24bdec.html"
 type: article
 quality: 32
-heat: -1
+heat: 32
 published: false
 
 provider:
@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI may be on its way to your doctor's office, but it's not ready to see patients"
-    excerpt: "Giant corporations like Microsoft and Google, plus many startups, are eyeing healthcare profits from programs based on artificial intelligence."
-    publishedDateTime: 2023-05-11T15:55:00Z
-    webUrl: "https://www.aol.com/news/ai-may-way-doctors-office-120037954.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 32
-    images:
-      - url: "https://s.yimg.com/cv/apiv2/aolfp/metadata/og-image.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "AI May Be on Its Way to Your Doctor's Office, But It's Not Ready to See Patients"
     excerpt: "Few in healthcare believe this latest form of AI is about to take their jobs. The article was published on Friday, May 12, 2023 in. By Darius Tahir. What use co"
     publishedDateTime: 2023-05-12T17:54:00Z

@@ -47,17 +47,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "United States Rugby Players Association calls for Voluntary Recognition from Major League Rugby"
-    excerpt: "RugbyUnionNow.com campaign launched, with the aim to strengthen the league and evolve the sport in North America. The United States Rugby Players Association (USRPA) is calling for voluntary recogniti"
-    publishedDateTime: 2023-05-11T16:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/05/n32345940/united-states-rugby-players-association-calls-for-voluntary-recognition-from-major-league-rugby"
-    ampWebUrl: "https://www.benzinga.com/amp/content/32345940"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32345940"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 12
 
 secured: "/BXYUk0O8uA8L1JraEFNONXlFkUjM366weuxAcUgUWtObP75UXTI6qBVAsuuVb+0DAq+D/KTwx7oQoFyQsmXxxOJIXce7L/BY/fDHNmMs2ZDLgNnjIvv3wYewoJiXkj7clWY0IpKdtAfOjqOJ1cdLAxEVuJnDKE7nUfds8D3eGQ5E586r6GGw2gsnzVxfNzsB1+VACY+78qqojCWDJECP3U90KsxguebRsAL3RtmQFJ2JhEQYuS1mEsfww8o56IjX0Gs9gIgdj95xE/j8VKKGN3ka4OkTOKaaz1cDxDy66psCqGoFOFMeEKyq4AKJcGGMHray/q7Nl9yjkgcThCF3/Eu3+LkwqQJ2lMn1i1MjEe/iNqORCQeFyiRR+Cov8Hl0kD3koYsCzm3O01+/YArg0NhEXU1Dc6DRkxp9D6BibaA+NZJ7eD9H/wohUXMaF3aI4s4g8+nhvdvUtfmC1PhWu+ValvCOCKBCR2PP/l/IACcdv8lkte4K3Kk1reScfb4JF/qRnF/TB0c8k1o0O4cAQ==;d/h5U6SP5q6avfMhMx4wBw=="
 ---

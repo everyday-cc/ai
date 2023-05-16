@@ -39,17 +39,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "United States Rugby Players Association calls for Voluntary Recognition from Major League Rugby"
-    excerpt: "RugbyUnionNow.com campaign launched, with the aim to strengthen the league and evolve the sport in North America. The United States Rugby Players Association (USRPA) is calling for voluntary recogniti"
-    publishedDateTime: 2023-05-11T16:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/05/n32345940/united-states-rugby-players-association-calls-for-voluntary-recognition-from-major-league-rugby"
-    ampWebUrl: "https://www.benzinga.com/amp/content/32345940"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32345940"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 12
   - title: "Chicago’s principals association plans to file for union recognition"
     excerpt: "The Chicago Principals & Administrators Association is submitting signatures with the Illinois Educational Labor Relations Board representing almost 80% of the district’s roughly 1,100 principals and assistant principals,"
     publishedDateTime: 2023-05-12T13:05:00Z

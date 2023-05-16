@@ -130,6 +130,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Despite bias concerns, TSA tests facial recognition software at more airports"
+    excerpt: "BALTIMORE (AP) — A passenger walks up to an airport security checkpoint, slips an ID card into a slot and looks into a camera atop a small screen. The screen flashes “Photo Complete” and the person walks through — all without having to hand over ..."
+    publishedDateTime: 2023-05-16T10:00:00Z
+    webUrl: "https://thegrio.com/2023/05/16/despite-bias-concerns-tsa-tests-facial-recognition-software-at-more-airports/"
+    ampWebUrl: "https://thegrio.com/2023/05/16/despite-bias-concerns-tsa-tests-facial-recognition-software-at-more-airports/amp/"
+    cdnAmpWebUrl: "https://thegrio-com.cdn.ampproject.org/c/s/thegrio.com/2023/05/16/despite-bias-concerns-tsa-tests-facial-recognition-software-at-more-airports/amp/"
+    type: article
+    provider:
+      name: The Grio
+      domain: thegrio.com
+    quality: 71
+    images:
+      - url: "https://thegrio.com/wp-content/uploads/2023/05/AP23116691315221-scaled.jpg"
+        width: 2560
+        height: 1707
+        isCached: true
   - title: "TSA is testing facial recognition at more airports, raising privacy concerns"
     excerpt: "The agency tasked with securing America's airports is testing the use of facial recognition technology at a number of airports across the country"
     publishedDateTime: 2023-05-15T20:16:00Z
@@ -284,6 +300,6 @@ related:
       domain: thedailyrecord.com
     quality: 28
 
-secured: "8Q4sdEkq/3Ky43DLn53jnI6xtiMbyOxftQ+wBYjnBQD/gjPHGw60DcJZYhC/cstvlvAQmgEs+YO/1AdBiKydPGGO7ftT9wn217Npzgw4+6cgIDXhgZ+rA50ZIZque/qwCo45ovTAvjj4bQuvl+oTrB4Vo6eWvy0yYPFewF19fkCFBeRM+ENSGNPkLW9JoEpSbhuOIvtu7fbDj/IlQJ9A/wAklGsFvG4ewhMJsFvucYq4RpR60ZNALm9RPqfB5+Du5S0k9zPYxYkqjTlND6NdRqhlZj35lzZR/yKOg/8v6ig2smug4EaTc5rohDyRLJTRdY8NkR2hxHA+fupnHcDcerKJjD15KvmF+LH0seKC38g=;MhScKARQloZT9Z4Ps5KVZA=="
+secured: "+3DYErbMAW+jBYleDujPoWLvo3L7pLKjPrtrbufQ5Xhy0//1vNGAcb1qhFgIEYj4vPzFAZ9BNb7dgMZ522pN+qDpdthNypMg/rsmOP2DfWZnYtY5jlqKXqkPVSJSsa/vk+HfDFS7WknBdu6wn8SfhzFwwi6xUygqZqv3gL6b4wKhryhYuTJDoUagk1ldxJW0Q3zHg1GuA9qlZy/5h+Q4m17U4w4Uw6J0HLM0rRt6c+3xHDIwqmzjMFGVfSlHSFcaLOaWeTRrQ+VZrCoM4/zOFiShfTWnH+BcF3hc4A/i4/56zkejXOgeMdNY+ZoNJeFPzKOXaA9VVzq+m8+Kdb/boKP/+/TeJXyLBX0i4Z0u4WA2SOKgI1egiiiW2GZ/pRdIdQJ/q/msbImI7zP84jh8a/iulpH26jPZFjDQrIAmf7q2TVmVba+k1f0fcUhCPtxFyh8jwi9dPqxbdxN3afl85xpf2pNuLQYn3I+8aFMSUIlpbbvz4mZoZfCeZbW1vwDoD8bwOrJuclyDPSW81JCA/Q==;J2CpCU7q4b6jpOV2sq3IYA=="
 ---
 

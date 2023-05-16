@@ -21,15 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "The Nakba at 75 – Palestinians' struggle to get recognition for their 'catastrophe'"
-    excerpt: "On May 15, 2023, the United Nations will stage a high-level special meeting to commemorate the 75th anniversary of the Nakba – the mass displacement of around 750,000 Palestinians from their homeland in 1948."
-    publishedDateTime: 2023-05-11T17:05:00Z
-    webUrl: "https://www.chron.com/news/article/the-nakba-at-75-palestinians-struggle-to-get-18093593.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 0
   - title: "In UNGA speech, President Abbas urges colonial states to redress historical injustice inflicted on Palestinian people"
     excerpt: "President Mahmoud Abbas today urged the colonial states to redress the historical injustice inflicted on the Palestinian people. Speaking before the United Nations General Assembly (UNGA) at the UN Headquarters in New York in high-level meeting dedicated for the first time in UN history to mark the 75th anniversary of the Nakba,"
     publishedDateTime: 2023-05-15T16:13:00Z

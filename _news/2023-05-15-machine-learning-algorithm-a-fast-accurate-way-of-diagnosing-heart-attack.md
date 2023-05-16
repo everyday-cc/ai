@@ -7,8 +7,8 @@ originalUrl: "https://newatlas.com/health-wellbeing/code-acs-machine-learning-al
 webUrl: "https://newatlas.com/health-wellbeing/code-acs-machine-learning-algorithm-accurate-heart-attack-diagnosis"
 type: article
 quality: 67
-heat: 78
-published: true
+heat: 68
+published: false
 
 provider:
   name: New Atlas
@@ -27,24 +27,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Artificial intelligence could improve heart attack diagnosis to reduce pressure on emergency departments"
-    excerpt: "An algorithm developed using artificial intelligence could soon be used by doctors to diagnose heart attacks with better speed and accuracy than ever before, according to new research from the University of Edinburgh published in Nature Medicine."
-    publishedDateTime: 2023-05-11T15:41:00Z
-    webUrl: "https://medicalxpress.com/news/2023-05-artificial-intelligence-heart-diagnosis-pressure.html"
-    ampWebUrl: "https://medicalxpress.com/news/2023-05-artificial-intelligence-heart-diagnosis-pressure.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-05-artificial-intelligence-heart-diagnosis-pressure.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 40
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/artificial-intelligenc-42.jpg"
-        width: 2169
-        height: 1101
-        isCached: true
 
 secured: "usgc6eNKoc4fuYEKtfSJJDDMFP9wi9CC/aGNJV7HyXoCh3D1AvLr6pp+USTnOjXzL0n7/GggwJe1MQRgPlHB32TR3XcWYhzgP06kpO6yFjhtO2G4elj5GnYg/ci8/CgRVLsp7mJYuY4IKrjV/xpVXhsSn/6Yp7nH4KlaJEhaTx842l59eF/uCc5yWJ4lU9uAHNtMhPO4goCb8wiBbMzmasZVYY5HbLOcpy+4M3kXIPZzbfdAg2xVrRCZTJ/CZ4U6w9mw3tn74uscEPp3H+PF4fHEP/AO7VK/E9xa6WARvTKlColhzJLszSVCgyGlnDk/4g3maJKzj75I6Elvh7oDL9yKaBNtOv5zHgq3jkuHZ2bQs0HTV1bJr9nCZZDSXXYXuUqVaw4myDLQU74StdBNw1Bd0A/YA1e37KOidF4huaWyJebrFEqtxE3dUmyZqsmamskSiPLE2Vwk9pcgXvkeXhDc4UjJO8hW/bV18z1U8Aq9zQ7ucKu7k0IQTvq0tWAPWG19P0IQU3vspCIRJ4hDPA==;GpkBK3sKp1Ha7OeKL0G0Cg=="
 ---

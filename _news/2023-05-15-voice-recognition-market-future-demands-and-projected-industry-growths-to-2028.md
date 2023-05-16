@@ -29,66 +29,94 @@ images:
     isCached: true
 
 related:
-  - title: "Edge AI Chips Market Future Scope and Growth Status 2028"
-    excerpt: "What is the Computer-aided Design (CAD) market growth? Computer-aided Design (CAD) Market Size is projected to Reach Multimillion USD by 2028, In comparison to 2023, at unexpected CAGR during the forecast Period 2023-2028."
-    publishedDateTime: 2023-05-11T19:05:00Z
-    webUrl: "https://www.marketwatch.com/press-release/edge-ai-chips-market-future-scope-and-growth-status-2028-2023-05-11"
+  - title: "Mobile Speech Recognition Software Market | 2030"
+    excerpt: "The Global Mobile Speech Recognition Software market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players,"
+    publishedDateTime: 2023-05-12T02:53:00Z
+    webUrl: "https://www.marketwatch.com/press-release/mobile-speech-recognition-software-market-2030-2023-05-11"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 84
+    quality: 69
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Market 2023 to Experience Significant Growth by 2030"
-    excerpt: "Global “Artificial Intelligence Market” 2023 | New Report | New Technology Global Industry | (94 Pages Report) With"
-    publishedDateTime: 2023-05-15T13:48:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-2023-to-experience-significant-growth-by-2030-2023-05-15"
+  - title: "Deep Learning in CT Scanners Market | 2030"
+    excerpt: "Precision Reports has published a new report titled as \" Deep Learning in CT Scanners Market \" by End User ( Hospital, Diagnostic Center, Research, Veterinary Clinic ), Types ( Stationary, Portable ),"
+    publishedDateTime: 2023-05-13T05:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-in-ct-scanners-market-2030-2023-05-13"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 64
+    quality: 69
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "2023 Artificial Intelligence-as-a-Service (AIaaS) Market Regional Outlook and Future Growth Scenario till 2030"
-    excerpt: "Market 2023 research is a key process that helps businesses gather and analyze information about their target Artificial Intelligence-as-a-Service (AIaaS) market, customers, competitors, and industry trends."
-    publishedDateTime: 2023-05-15T18:16:00Z
-    webUrl: "https://www.marketwatch.com/press-release/2023-artificial-intelligence-as-a-service-aiaas-market-regional-outlook-and-future-growth-scenario-till-2030-2023-05-15"
+  - title: "Facial Recognition Devices Market Expert Analysis By,2030"
+    excerpt: "(The Expresswire) -- \"Facial Recognition Devices Market\" Reports recently released an executive data report that focuses on the end"
+    publishedDateTime: 2023-05-15T18:44:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-devices-market-expert-analysis-by2030-2023-05-15"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 62
+    quality: 69
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "2030, Artificial Intelligence as a Service Market Growth | Future Prospects and Competitive Analysis"
-    excerpt: "The \"Artificial Intelligence as a Service Market\" is one of the sectors that is expanding the fastest, thus it is"
-    publishedDateTime: 2023-05-15T15:58:00Z
-    webUrl: "https://www.marketwatch.com/press-release/2030-artificial-intelligence-as-a-service-market-growth-future-prospects-and-competitive-analysis-2023-05-15"
+  - title: "Artificial Intelligence in Insurance Market | 2030"
+    excerpt: "Research Reports has published a new report titled as \" Artificial Intelligence in Insurance Market \" by End User ( Chatbots and Virtual Assistants, Fraud Detection, Customer Relationship Management,"
+    publishedDateTime: 2023-05-15T00:04:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-insurance-market-2030-2023-05-14"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 52
+    quality: 67
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "2030, Artificial Intelligence in Construction Market Growth | Future Prospects and Competitive Analysis"
-    excerpt: "The \"Artificial Intelligence in Construction Market\" is one of the sectors that is expanding the fastest, thus it"
-    publishedDateTime: 2023-05-11T22:09:00Z
-    webUrl: "https://www.marketwatch.com/press-release/2030-artificial-intelligence-in-construction-market-growth-future-prospects-and-competitive-analysis-2023-05-11"
+  - title: "2023, Face Recognition Systems Market | Global Industry Analysis Till 2030"
+    excerpt: "Face Recognition Systems Market | Outlook 2023-2028 | Pre and Post-COVID Research is Covered, Report Information |"
+    publishedDateTime: 2023-05-16T06:17:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-face-recognition-systems-market-global-industry-analysis-till-2030-2023-05-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 67
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Speech & Voice Recognition Systems Market 2023-2030"
+    excerpt: "May 16, 2023 (The Expresswire) -- Speech and Voice Recognition Systems Market | Outlook 2023-2028 | Pre and Post-COVID Research is Covered, Report Information | Newest 116 Pages Report The extent and overview of the various commercial opportunities ..."
+    publishedDateTime: 2023-05-16T10:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-voice-recognition-systems-market-2023-2030-2023-05-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Latest 2023 \"Automatic Speech Recognition(ASR) Software Market\" Survey & Forecast by 2030 | With 114+ Pages"
+    excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this “Automatic Speech Recognition(ASR) Software Industry”. Embracing Growth: A Promising Outlook for the Global Automatic Speech Recognition(ASR) Software Market from 2023 to 2030."
+    publishedDateTime: 2023-05-15T06:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/latest-2023-automatic-speech-recognitionasr-software-market-survey-forecast-by-2030-with-114-pages-2023-05-15"
     type: article
     provider:
       name: MarketWatch
@@ -99,24 +127,38 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Oil and Gas Market by 2030"
-    excerpt: "Precision Reports has published a new report titled as \"Artificial Intelligence in Oil and Gas Market\" by End User"
-    publishedDateTime: 2023-05-13T05:16:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-oil-and-gas-market-by-2030-2023-05-13"
+  - title: "Mayor presents proclamation in recognition of rare speech disorder"
+    excerpt: "Greenwood Mayor Brandon Smith signed a proclamation on Friday morning recognizing May 14 as Childhood Apraxia of Speech Day."
+    publishedDateTime: 2023-05-13T07:00:00Z
+    webUrl: "https://www.indexjournal.com/news/mayor-presents-proclamation-in-recognition-of-rare-speech-disorder/article_93b1c8b0-ccc7-59d6-bfd5-8d7caebea70b.html"
+    type: article
+    provider:
+      name: Index-Journal
+      domain: indexjournal.com
+    quality: 24
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/indexjournal.com/content/tncms/assets/v3/editorial/3/f4/3f4bea12-bb1c-5710-9faf-5bbafab5cb37/645ea6b6c1300.image.png?crop=960%2C504%2C0%2C388&resize=960%2C504&order=crop%2Cresize"
+        width: 960
+        height: 504
+        isCached: true
+  - title: "2023-2029 \"Facial Recognition Access Control Solutions Market\" volume sale, Trends and Market Overview | Report Reviewed by Experts"
+    excerpt: "May 15, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" A market research report has"
+    publishedDateTime: 2023-05-15T07:14:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-2029-facial-recognition-access-control-solutions-market-volume-sale-trends-and-market-overview-report-reviewed-by-experts-2023-05-15"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 47
-  - title: "2023-2030 AI in ICT (Information and Communications Technology) Market: Highlights with Growth Data"
-    excerpt: "Market ” Is Projected To Raise Significantly At A Maximum CAGR During The Forecast Period (2023-2030). The Market Is Expected to Witness the Highest Demand World Widely. Pre and Post-COVID Study of AI in ICT (Information and Communications Technology) Market Is Covered in The Most Recent Updated Report [ 2023-2030 ]."
-    publishedDateTime: 2023-05-15T17:18:00Z
-    webUrl: "https://www.marketwatch.com/press-release/2023-2030-ai-in-ict-information-and-communications-technology-market-highlights-with-growth-data-2023-05-15"
+    quality: 19
+  - title: "Analysis the CAGR growth on the Global Speech & Voice Recognition Systems Market and the Market size is growing at a CAGR of 13.9% from 2023 - 2030"
+    excerpt: "The global Speech & Voice Recognition Systems market has seen significant growth in recent years, driven by increasing demand from various industries. Technological advancements, increasing consumer awareness,"
+    publishedDateTime: 2023-05-13T13:25:00Z
+    webUrl: "https://www.marketwatch.com/press-release/analysis-the-cagr-growth-on-the-global-speech-voice-recognition-systems-market-and-the-market-size-is-growing-at-a-cagr-of-139-from-2023---2030-2023-05-13"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 35
+    quality: 0
 
 secured: "/tt0ukAZfPlIsWtymbHIwPnfUOxz/Rd4qO5hYbJUtqj33TqB8Z3Km6rmIPfHNZGYzZ8syzoVS7G5sgAYV+ct9DYlHmy5hwKdenyqqC388j8taB9WkBeyKroRv34bzLAf+PiCW/EecW2zJYsxBYZL7VOlLEjmj2bOp2LnCtA0WPKzkSBALKqFV5c2LkCF36kgBQzrZOYiCogfuSeSp/9lu3VEiqbc5ugrlvkkm0eX+R6PDvLkYGNYDmkVlUdU1nJ8oO0eyIuNdSSfb9ORErzck2LcaARnGGOeWE4q7ng+NkL+J6TfP4BsRVwZvTgGq5+onl8PQhe2GHKGwAdlxF53P91uEsTF1fvUyGpFpC93hxQ=;n3+Kx/oBEhqAqWYnWzzphA=="
 ---

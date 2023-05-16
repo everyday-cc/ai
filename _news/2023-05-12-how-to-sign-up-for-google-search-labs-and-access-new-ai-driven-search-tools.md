@@ -9,8 +9,8 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/how-to-sign-up-for-google-searc
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/how-to-sign-up-for-google-search-labs-and-access-new-ai-driven-search-tools/"
 type: article
 quality: 85
-heat: -1
-published: false
+heat: 125
+published: true
 
 provider:
   name: CNET
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "How to Sign Up for Google's New AI-Driven Search Tools"
-    excerpt: "At Google I/O, the search giant's annual developer conference, artificial intelligence was the phrase on everybody's lips. Among the more notable announcements from the event yesterday was the news that Google is letting the public test out its latest generative AI experiments by signing up for Search Labs."
-    publishedDateTime: 2023-05-11T16:15:00Z
-    webUrl: "https://www.cnet.com/tech/computing/how-to-sign-up-for-googles-new-ai-driven-search-tools/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/how-to-sign-up-for-googles-new-ai-driven-search-tools/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/how-to-sign-up-for-googles-new-ai-driven-search-tools/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 87
-    images:
-      - url: "https://www.cnet.com/a/img/resize/45757153ae157d44b9bae8ae1e2ba6af86bac55a/hub/2023/05/11/3a878f9f-21cd-451b-ae9a-0d7ed8121e23/gettyimages-1230722138.jpg?auto=webp&fit=crop&height=630&width=1200"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Google Launching Tools to Identify Misleading and AI Images"
     excerpt: "Google is adding two new features to its image search to reduce the spread of misinformation, especially now that artificial intelligence tools have made the creation of photorealistic fakes trivial."
     publishedDateTime: 2023-05-15T05:42:00Z
@@ -76,22 +60,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Online Search To Make Up Lost Time With AI"
-    excerpt: "Online search, dominated by Google for 25 years, has become as banal as making a phone call, but it could finally be getting a profound reset thanks to artificial intelligence."
-    publishedDateTime: 2023-05-16T01:14:00Z
-    webUrl: "https://www.barrons.com/news/online-search-to-make-up-lost-time-with-ai-8ef011d"
-    ampWebUrl: "https://www.barrons.com/amp/news/online-search-to-make-up-lost-time-with-ai-8ef011d"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/online-search-to-make-up-lost-time-with-ai-8ef011d"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 57
-    images:
-      - url: "https://www.barrons.com/asset/external-media/afp/AFP4218075234965310178666011516179357766924---1.jpg"
-        width: 768
-        height: 482
-        isCached: true
   - title: "Google Is in Too Much of a Hurry on AI Search"
     excerpt: "As AI answers fill our phone screens, what will become of the tech giant’s relationship with advertisers — or the truth?"
     publishedDateTime: 2023-05-11T23:53:00Z
@@ -106,20 +74,15 @@ related:
         width: 1440
         height: 958
         isCached: true
-  - title: "Google Is Rolling the Dice With AI Search"
-    excerpt: "As AI answers fill our phone screens, what will become of the tech giant’s relationship with advertisers — or the truth?"
-    publishedDateTime: 2023-05-11T23:53:00Z
-    webUrl: "https://www.washingtonpost.com/business/2023/05/12/google-is-rolling-the-dice-with-ai-search/42a55c5a-f081-11ed-b67d-a219ec5dfd30_story.html"
+  - title: "Clarivate Launches New Artificial Intelligence Tools to Enable Trademark Professionals to Assess Brand Risk from Every Angle"
+    excerpt: "Clarivate Plc (NYSE: CLVT), a global leader in connecting people and organizations to intelligence they can trust to transform their world, today announced the launch of the Clarivate Brand Landscape Analyzer and the development of the Clarivate Trademark Watch Analyzer."
+    publishedDateTime: 2023-05-16T07:16:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/05/16/9814660.htm"
     type: article
     provider:
-      name: The Washington Post
-      domain: washingtonpost.com
-    quality: 39
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IH5Q43HQQEI63NT5UIM6YXP5GA.jpg&w=1440"
-        width: 1440
-        height: 958
-        isCached: true
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "Y9pcw5VHr4AscaBaSgEG67g8eVwjAMCa8+CPrgz+gHCmoBw+d9GFf+wbC1BRzDs7E23HyeFIkxK3LL5FopSZdvYAR58a6yPAxNqClLqyZgkvJ61dMnobrY37ov4ITuOonB1+WlxcTonSFw8izcCGTUHUHPpitkh2BlxPwNSOfalSjZ2hkscYe0jCYtBjMUZbz6KiWO89x6fFi2KvNjprWCsBsa3KqggoFyjPIapjxKjeQHg8V6BL2qE+6hJbexoteQQgF+6OwjqpkTLq7D/E7SDMwCXf8PM2zP8ZJNaqiROQw8YtnISB7YYvwsuCVjRGKwTcej9yLdktkdgpQkHzufx21G5wfxXBQ6UyRd4MadC6JzZG3KnBsV8R54OLLKx9qczVI57e46LkCyHXZfbA3bPp5bgpHi8h4p63vTNC1Y+ufXc1TJ2tecvok14Z/5Om9s5nv4NeAxa1mGovC6YILfhbZ8Ie3e4uN4a3iI7270jqHDililBO+xZvfdMBIy8vLMup9ML7bE8TyZNTFlHUtw==;egg6fsVShyjJSlkAdLSQ6g=="
 ---

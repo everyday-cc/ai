@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "AMP Robotics attracts investment from Microsoft’s Climate Innovation Fund"
-    excerpt: "AMP Robotics, a Denver, Colorado-based startup creating robotic systems that can automatically ... infrastructure and expanding new infrastructure based on our application of AI-powered automation,” founder and CEO Matanya Horowitz told TechCrunch ..."
-    publishedDateTime: 2023-05-11T15:29:00Z
-    webUrl: "https://techcrunch.com/2023/05/11/amp-robotics-attracts-investment-from-microsofts-climate-innovation-fund/"
-    ampWebUrl: "https://techcrunch.com/2023/05/11/amp-robotics-attracts-investment-from-microsofts-climate-innovation-fund/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/11/amp-robotics-attracts-investment-from-microsofts-climate-innovation-fund/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 120
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/01/GettyImages-172878844.jpg?w=1200"
-        width: 1200
-        height: 803
-        isCached: true
   - title: "IBM and Microsoft partnership accelerates sustainable cloud modernization"
     excerpt: "A global fast-moving consumer goods (FMCG) enterprise needed to modernize its product portfolio, focusing on high-growth categories like pet care, coffee and consumer health. Its aggressive sustainability goals included achieving net zero emissions by 2050, making all packaging reusable or recyclable"
     publishedDateTime: 2023-05-12T12:00:00Z
@@ -65,61 +49,29 @@ related:
         width: 1200
         height: 793
         isCached: true
-  - title: "“Meaningful harm” from AI necessary before regulation, says Microsoft exec"
-    excerpt: "As lawmakers worldwide attempt to understand how to regulate rapidly advancing AI technologies, Microsoft chief economist Michael Schwarz told attendees of the World Economic Forum Growth Summit today that \"we shouldn't regulate AI until we see some meaningful harm that is actually happening,"
-    publishedDateTime: 2023-05-11T19:48:00Z
-    webUrl: "https://arstechnica.com/tech-policy/2023/05/meaningful-harm-from-ai-necessary-before-regulation-says-microsoft-exec/"
-    ampWebUrl: "https://arstechnica.com/tech-policy/2023/05/meaningful-harm-from-ai-necessary-before-regulation-says-microsoft-exec/amp/"
-    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/tech-policy/2023/05/meaningful-harm-from-ai-necessary-before-regulation-says-microsoft-exec/amp/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 102
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/05/GettyImages-1289079656-800x450.jpg"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "Microsoft makes strategic investment into Builder.ai, integrates its services into Teams"
-    excerpt: "It’s now landed a strategic collaboration with Microsoft, which includes an undisclosed equity investment in the startup. TechCrunch’s source’s indicate the investment was “significant,” though we couldn’t get anything more than that."
-    publishedDateTime: 2023-05-11T18:57:00Z
-    webUrl: "https://techcrunch.com/2023/05/11/microsoft-makes-strategic-investment-into-builder-ai-integrates-its-services-into-teams/"
-    ampWebUrl: "https://techcrunch.com/2023/05/11/microsoft-makes-strategic-investment-into-builder-ai-integrates-its-services-into-teams/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/11/microsoft-makes-strategic-investment-into-builder-ai-integrates-its-services-into-teams/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 95
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/02/GettyImages-1265041897.jpg?resize=1200,800"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "SymphonyAI announces generative AI collaboration with Microsoft Azure AI"
-    excerpt: "SymphonyAI announced today its first generative AI software application that integrates Microsoft Azure OpenAI Service. Sensa Copilot provides sophisticated AI assistance to financial crime investigators by automatically collecting,"
-    publishedDateTime: 2023-05-11T16:46:00Z
-    webUrl: "https://www.securityinfowatch.com/cybersecurity/information-security/document-and-data-controls-destruction/press-release/53060240/symphony-ai-symphonyai-announces-generative-ai-collaboration-with-microsoft-azure-ai"
-    type: article
-    provider:
-      name: Security
-      domain: securityinfowatch.com
-    quality: 68
-    images:
-      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2023/05/16x9/Screenshot_1.compress.gd.645d18ebd7b9a.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Face Recognition API Market ICT Industry 2023 Global Insights and Business Scenario Microsoft Computer Vision API, Lambda Labs API, Inferdo"
-    excerpt: "A full Sample Report of Face Recognition API Market is Available Free –  This research report provides a lucrative growth opportunity for the market players to generate better revenue streams by expanding their market presence in the emerging economies."
-    publishedDateTime: 2023-05-12T08:45:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-api-market-ict-industry-2023-global-insights-and-business-scenario-microsoft-computer-vision-api-lambda-labs-api-inferdo-2023-05-12"
+  - title: "Natural Language Processing (NLP) Market 2023-2029 Enormous Growth, Detailed Perspective, and Top Players – Microsoft, IBM, 3M, Amazon AWS"
+    excerpt: "Latest released the research study on Global Natural Language Processing (NLP) Market, offers a detailed overview of the factors influencing the global business scope. The Natural Language Processing (NLP) Market report is a valuable source of insightful data for business strategists."
+    publishedDateTime: 2023-05-15T07:41:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-2023-2029-enormous-growth-detailed-perspective-and-top-players-microsoft-ibm-3m-amazon-aws-2023-05-15"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 67
+    quality: 99
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Parablu to Deliver Microsoft Azure-Hosted Cybersecurity and Data Resiliency SaaS Solutions"
+    excerpt: "Parablu will leverage Microsoft Cloud infrastructure and services –– Microsoft Azure and Microsoft 365 to deliver scalable ... making it easier for customers as well as AI tools to find and use this data effectively. \"With more knowledge workers ..."
+    publishedDateTime: 2023-05-16T03:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/parablu-to-deliver-microsoft-azure-hosted-cybersecurity-and-data-resiliency-saas-solutions-2023-05-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 74
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -134,19 +86,19 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 63
-  - title: "Microsoft Security highlights from RSA Conference 2023"
-    excerpt: "Read a recap of memorable moments from Microsoft Security's participation in RSAC 2023 and watch Vasu Jakkal's keynote address on-demand."
-    publishedDateTime: 2023-05-15T16:00:00Z
-    webUrl: "https://www.microsoft.com/en-us/security/blog/2023/05/15/microsoft-security-highlights-from-rsa-conference-2023/"
+  - title: "Cognitive Media Market Analysis and Industry Research Report 2022-2030 with Top Players like IBM, Google, AWS, Microsoft"
+    excerpt: "May 16, 2023 (Concur Wire via Comtex) -- New Jersey, United State: A new intelligence report released by Infinity Business Insights with title Cognitive Media Market ... We are specialized in offering the services in various industry verticals to recognize ..."
+    publishedDateTime: 2023-05-16T10:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cognitive-media-market-analysis-and-industry-research-report-2022-2030-with-top-players-like-ibm-google-aws-microsoft-2023-05-16"
     type: article
     provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 56
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 61
     images:
-      - url: "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2023/05/Vasu-1_900_2_cropped.jpg"
-        width: 900
-        height: 394
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Start-Up Nation Central Collaborates with Microsoft to Promote Israeli AgriFood-Tech Startups"
     excerpt: "This collaboration aims to integrate innovative agricultural data companies with core technologies of AI, Cloud & Machine Learning with Microsoft's AI tools to develop models for optimal, sustainable"
@@ -164,15 +116,15 @@ related:
         width: 400
         height: 279
         isCached: true
-  - title: "KPMG LLP AND MICROSOFT ESTABLISH INDUSTRY-LEADING INITIATIVE TO SCALE GENERATIVE AI ACROSS AUDIT, TAX AND ADVISORY"
-    excerpt: "KPMG LLP AND MICROSOFT ESTABLISH INDUSTRY-LEADING INITIATIVE TO SCALE GENERATIVE AI ACROSS AUDIT, TAX AND ADVISORY May 11, 2023 (PRNewswire via COMTEX) --"
-    publishedDateTime: 2023-05-11T18:50:00Z
-    webUrl: "https://www.marketwatch.com/press-release/kpmg-llp-and-microsoft-establish-industry-leading-initiative-to-scale-generative-ai-across-audit-tax-and-advisory-2023-05-11"
+  - title: "Parablu to Deliver Microsoft Azure-Hosted Cybersecurity and Data Resiliency SaaS Solutions"
+    excerpt: "PRNewswire/-- Parablu, a global provider of SaaS-based data protection and management solutions for endpoints, on-premises, and cloud environments, today announced a multi-year agreement with Microsoft that integrates engineering,"
+    publishedDateTime: 2023-05-15T13:49:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/05/15/9814024.htm"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 42
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 24
   - title: "SAP and Microsoft Collaborate on Joint Generative AI Offerings to Help Customers Address the Talent Gap"
     excerpt: "SAP® SuccessFactors® Solutions Integration with Microsoft 365 Copilot and Copilot in Viva Learning Will Bring the Power of AI to People Leaders, Helping Them Recruit and Develop Their Teams WALLDORF,"
     publishedDateTime: 2023-05-15T14:29:00Z

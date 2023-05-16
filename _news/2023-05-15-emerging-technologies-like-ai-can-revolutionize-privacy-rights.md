@@ -59,6 +59,15 @@ related:
         width: 1280
         height: 851
         isCached: true
+  - title: "Bitpanda invests $10m in AI to “revolutionise” wealth creation"
+    excerpt: "Austrian fintech Bitpanda is investing $10m into artificial intelligence to establish Bitpanda.ai. The investment marks the first move towards establishing a dedicated AI division for the company, which was founded by Eric Demuth,"
+    publishedDateTime: 2023-05-16T08:04:00Z
+    webUrl: "https://www.altfi.com/article/10693_bitpanda-invests-10m-in-ai-to-revolutionise-wealth-creation"
+    type: article
+    provider:
+      name: altfi
+      domain: altfi.com
+    quality: 19
 
 secured: "6F6Ng4oiSDaBbn8ueE8TQ8UepURPFTamFkiJxH5/3+E7K7NvZAJPlPC5oOBandmgd/1eC90MZBEYhcXD34m4UXb79TdDvR29X+HvPYQXxVBbhjbb5uUkb0wgEIvQlszrfCVVzAVy7gapuR7mMppm+jpeX3NuJlaL94jpJM1iavjeZSNF+wOLPV++r/aBGaBBMbEVkNV0ApFMdE18DT7ebkv7BcuR/Utn6rpBwXHgGaBhjl1fY3Nwq6UJhSkaP2VFvUe0C785JCS4dKtnoC4vC1ZGjgj8dFLGIOjx+s47Yxl3D7BJQ4suHDVssRcTy0nwu2+UsyJG3gVIgu6qIRsgow+uqcxzJagXerJokAqHh7w=;8ysv5dYbFr4Sq5uh6x4sfw=="
 ---

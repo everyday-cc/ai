@@ -29,164 +29,105 @@ images:
     isCached: true
 
 related:
-  - title: "Mobile Speech Recognition Software Market | 2030"
-    excerpt: "The Global Mobile Speech Recognition Software market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players,"
-    publishedDateTime: 2023-05-12T02:53:00Z
-    webUrl: "https://www.marketwatch.com/press-release/mobile-speech-recognition-software-market-2030-2023-05-11"
+  - title: "EU parliament backs AI restrictions and facial recognition ban"
+    excerpt: "The European parliament has voted in favour of a ban on biometric surveillance and restrictions on generative AI and foundation models such as ChatGPT."
+    publishedDateTime: 2023-05-12T11:20:00Z
+    webUrl: "https://www.research-live.com/article/news/eu-parliament-backs-ai-restrictions-and-facial-recognition-ban/id/5112292"
+    ampWebUrl: "https://www.research-live.com/amp-page.html?id=5112292&name=eu-parliament-backs-ai-restrictions-and-facial-recognition-ban"
+    cdnAmpWebUrl: "https://www-research--live-com.cdn.ampproject.org/c/s/www.research-live.com/amp-page.html?id=5112292&name=eu-parliament-backs-ai-restrictions-and-facial-recognition-ban"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
+      name: research
+      domain: research-live.com
+    quality: 74
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Speech Recognition Software Market Till 2030"
-    excerpt: "The Global Speech Recognition Software market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players,"
-    publishedDateTime: 2023-05-12T13:19:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-recognition-software-market-till-2030-2023-05-12"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Deep Learning in CT Scanners Market | 2030"
-    excerpt: "Precision Reports has published a new report titled as \" Deep Learning in CT Scanners Market \" by End User ( Hospital, Diagnostic Center, Research, Veterinary Clinic ), Types ( Stationary, Portable ),"
-    publishedDateTime: 2023-05-13T05:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-in-ct-scanners-market-2030-2023-05-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Facial Recognition Devices Market Expert Analysis By,2030"
-    excerpt: "(The Expresswire) -- \"Facial Recognition Devices Market\" Reports recently released an executive data report that focuses on the end"
-    publishedDateTime: 2023-05-15T18:44:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-devices-market-expert-analysis-by2030-2023-05-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence in Construction Market | 2030"
-    excerpt: "The Global Artificial Intelligence in Construction market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key ..."
-    publishedDateTime: 2023-05-15T01:09:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-construction-market-2030-2023-05-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 67
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence in Insurance Market | 2030"
-    excerpt: "Research Reports has published a new report titled as \" Artificial Intelligence in Insurance Market \" by End User ( Chatbots and Virtual Assistants, Fraud Detection, Customer Relationship Management,"
-    publishedDateTime: 2023-05-15T00:04:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-insurance-market-2030-2023-05-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 67
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Facial Recognition Access Control Solutions Market 2023-2030 with Emerging Trends and Technologies"
-    excerpt: "Additionally, the report [117 Pages] examines emerging technological developments and RandD spending by key vendors. It comprehensively covers critical elements such as global Facial Recognition Access Control Solutions market share,"
-    publishedDateTime: 2023-05-11T17:53:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-access-control-solutions-market-2023-2030-with-emerging-trends-and-technologies-2023-05-11"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 55
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Latest 2023 \"Automatic Speech Recognition(ASR) Software Market\" Survey & Forecast by 2030 | With 114+ Pages"
-    excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this “Automatic Speech Recognition(ASR) Software Industry”. Embracing Growth: A Promising Outlook for the Global Automatic Speech Recognition(ASR) Software Market from 2023 to 2030."
-    publishedDateTime: 2023-05-15T06:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/latest-2023-automatic-speech-recognitionasr-software-market-survey-forecast-by-2030-with-114-pages-2023-05-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 51
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Top 7 Use Cases For Facial Recognition In 2023"
-    excerpt: "The demand for AI face recognition technology is rising quickly on a global scale. By 2028, the market is expected to have grown from $5 billion to over $13 billion. Business executives must consider several variables before starting any projects when employing facial recognition technology,"
-    publishedDateTime: 2023-05-11T16:17:00Z
-    webUrl: "https://techbullion.com/top-7-use-cases-for-facial-recognition-in-2023/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 39
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/05/20210201002126713_img-1000x600.jpg"
+      - url: "https://www.research-live.com/img/MRS_EM_RGB.jpg"
         width: 1000
-        height: 600
+        height: 581
         isCached: true
-  - title: "Mayor presents proclamation in recognition of rare speech disorder"
-    excerpt: "Greenwood Mayor Brandon Smith signed a proclamation on Friday morning recognizing May 14 as Childhood Apraxia of Speech Day."
-    publishedDateTime: 2023-05-13T07:00:00Z
-    webUrl: "https://www.indexjournal.com/news/mayor-presents-proclamation-in-recognition-of-rare-speech-disorder/article_93b1c8b0-ccc7-59d6-bfd5-8d7caebea70b.html"
+  - title: "Facial Recognition Devices Market Research, 2030"
+    excerpt: "Research Reports has published a new report titled as \"Facial Recognition Devices Market\" by End User (Security"
+    publishedDateTime: 2023-05-15T13:23:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-devices-market-research-2030-2023-05-15"
     type: article
     provider:
-      name: Index-Journal
-      domain: indexjournal.com
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Europe eyes strict rules for artificial intelligence"
+    excerpt: "No HAL 9000s or Ultrons on this continent, thank you very much. The European Union wants to avoid the worst of what artificial intelligence can do — think creepy facial recognition tech and many, many Black Mirror episodes — while still trying to boost ..."
+    publishedDateTime: 2023-05-13T14:33:00Z
+    webUrl: "https://www.politico.eu/article/europe-strict-rules-artificial-intelligence/"
+    ampWebUrl: "https://www.politico.eu/article/europe-strict-rules-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/europe-strict-rules-artificial-intelligence/amp/"
+    type: article
+    provider:
+      name: Politico Europe
+      domain: politico.eu
+    quality: 59
+    images:
+      - url: "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2021/04/14/iStock-1058701042-scaled.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Robotics and artificial intelligence: Building blocks of fourth industrial revolution introduction"
+    excerpt: "While the integration of robotics and AI in education presents exciting opportunities, several challenges must be overcome for their adoption"
+    publishedDateTime: 2023-05-12T06:38:00Z
+    webUrl: "https://www.dqindia.com/robotics-and-artificial-intelligence-building-blocks-of-fourth-industrial-revolution-introduction/"
+    ampWebUrl: "https://www.dqindia.com/robotics-and-artificial-intelligence-building-blocks-of-fourth-industrial-revolution-introduction/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/robotics-and-artificial-intelligence-building-blocks-of-fourth-industrial-revolution-introduction/amp/"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 55
+  - title: "Voice Recognition and Medical Transcription"
+    excerpt: "It would be unfair to look at voice-recognition transcription options without mentioning one of the largest movements in the medical transcription industry -- outsourcing transcription offshore."
+    publishedDateTime: 2023-05-12T00:01:00Z
+    webUrl: "https://www.medscape.com/viewarticle/487524_5"
+    type: article
+    provider:
+      name: Medscape
+      domain: medscape.com
     quality: 24
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/indexjournal.com/content/tncms/assets/v3/editorial/3/f4/3f4bea12-bb1c-5710-9faf-5bbafab5cb37/645ea6b6c1300.image.png?crop=960%2C504%2C0%2C388&resize=960%2C504&order=crop%2Cresize"
-        width: 960
-        height: 504
+      - url: "https://img.medscape.com/thumbnail_library/Social_Facebook_806x806.jpg"
+        width: 640
+        height: 640
         isCached: true
-  - title: "2023-2029 \"Facial Recognition Access Control Solutions Market\" volume sale, Trends and Market Overview | Report Reviewed by Experts"
-    excerpt: "May 15, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" A market research report has"
-    publishedDateTime: 2023-05-15T07:14:00Z
-    webUrl: "https://www.marketwatch.com/press-release/2023-2029-facial-recognition-access-control-solutions-market-volume-sale-trends-and-market-overview-report-reviewed-by-experts-2023-05-15"
+  - title: "Genocide Recognition: an Australian story"
+    excerpt: "May it appears is the month of genocide recognition amongst the Australian parliaments, with Tasmania being the latest one to adopt a resolution of recognition of the Genocides of the Hellenes, Armenians and Assyrians on Thursday 11 May."
+    publishedDateTime: 2023-05-13T23:06:00Z
+    webUrl: "https://neoskosmos.com/en/2023/05/14/dialogue/opinion/genocide-recognition-an-australian-story/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 19
-  - title: "Analysis the CAGR growth on the Global Speech & Voice Recognition Systems Market and the Market size is growing at a CAGR of 13.9% from 2023 - 2030"
-    excerpt: "The global Speech & Voice Recognition Systems market has seen significant growth in recent years, driven by increasing demand from various industries. Technological advancements, increasing consumer awareness,"
-    publishedDateTime: 2023-05-13T13:25:00Z
-    webUrl: "https://www.marketwatch.com/press-release/analysis-the-cagr-growth-on-the-global-speech-voice-recognition-systems-market-and-the-market-size-is-growing-at-a-cagr-of-139-from-2023---2030-2023-05-13"
+      name: Neos Kosmos
+      domain: neoskosmos.com
+    quality: 24
+    images:
+      - url: "https://cdn1.neoskosmos.com/uploads/sites/2/2023/05/genocideopinion2-PRI_15986-e1684022952308.jpg"
+        width: 1900
+        height: 1104
+        isCached: true
+  - title: "Writing Faculty United Requests Recognition of Unionization in Petition to Administration"
+    excerpt: "The letter calls for improved job security, pay, and benefits, as well as transparency, recognition, and a voice in how writing instruction is conceived and executed. “When it comes to the aims of the union, I tend to think of it as having two key ..."
+    publishedDateTime: 2023-05-15T01:07:00Z
+    webUrl: "https://chicagomaroon.com/39180/news/writing-faculty-united-requests-recognition-of-unionization-in-petition-to-administration/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 0
+      name: The Chicago Maroon
+      domain: chicagomaroon.com
+    quality: 15
+    images:
+      - url: "https://chicagomaroon.com/wp-content/uploads/2021/12/Harper_Library_South_Stock-900x753.jpeg"
+        width: 900
+        height: 753
+        isCached: true
 
 secured: "ViJYP3csU9iglDPG8UGHTFIUfw4A8vPMVqK5KRw1NqpO+I5LUFVGwdVX6Jv1xEMrFTlsMnoy2DrbZDqA59hAIKLbnsUN55P3HKExx9wADo/CZGPUCffq81v8N2F7BFqJTca73SKREkPVyylM3xK/BTb+qNS6r2Vm6xSHUCHfsGLMkp9n7j5eosdCczD9Kt+C36IxULy/vC82CkQ+F2kMIwNOZWCjRFu80QFTJdbGv7mCA3XseFfoWMn2+9WVpQ7hC6KoLu5YCaoUX2DxdmHr2xzijzOXr52dPvCiNAP4kf3Wfl2oHh6fdPau/c7xNz5CWKM/StHzTeExD00GYJkF46mVDWNqJplVNgE5UdObQWk=;QbyZTtYV5td60oaz9I4KtA=="
 ---

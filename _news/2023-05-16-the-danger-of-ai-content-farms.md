@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/05/16/the-danger-of-ai
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/05/16/the-danger-of-ai-content-farms/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 128
 published: true
 
 provider:
@@ -93,6 +93,6 @@ related:
         height: 700
         isCached: true
 
-secured: "z5wGqrHfGS4m1n0Heh/F0+70dkbZAIOOEkOrRiVuqc9dxG7rxSvQcNARnq3CEJYGPf4DnQa7qeZ6AgmfPvvfCVZRw8tT/5zEgrFyEZIqUSclVtbA+Cws685rejmwT8ZLaHIGs+Q5JbnzJh90BxmBplPXpiyq7E+btxH1qkJwDgOlltiNuYiR58QXho3kbFL7gQhWFZEPY2SHElpVZOJDzl+gMNA2SIogOSXeQlNlPj3mjx5rIKFNR2uKvNnIsHl9TvVWte1pS0+cFLaExcgIlVNItG2vRyAsbK9wxSoJMJW39/4lZsfmPdlI0y7vdT3NypQJjTeRCBEK7RO2usutYNOQ44MdoZO/oeAh4fEMHD8=;WqNJIfRWWuKSFwFyWD0TQQ=="
+secured: "YOcexW0TA5RkRY3EHpodeXUm6qxHGECm0kncc1wFJPUWhqrIRWO3cH+dY3PiKw6Nfv/nKB9PfDycQdWFC7FjAbCN3FpGLGc136nNlMmiR0PDvDtgRa1C660TTcgxgBd2NstuQH1rFwPMlMmUCry1OiuIKbWQxGEVh6wQ9kE/Cz6f3kJgbsw54tJ1YRrjpA4113m+SmcJEtXcqYL6tbQfZ0pMB37uhz1b2GZfRurn4ZJniqRpdyK0cOH2zzp6GrZAOtzGtvqy2evZHRJMMWHF6+TOz6ax7x6KRQrkWTQ1+y3o20MJwc8c5o1p+vNqHaPqU7OR++b+AIB5wZHK3d8x1yihkAr4XWdUPvuQmKZjQTRbiv25s7F1jnhiCa5P7e/9AOHnfoxQ0H7pDhNUgCqYobg6ngMIHlhBbVKXgvvQpliTol5AQG0D1x5NGngueZkcyVhzopX093beB9pbrvw+o8OLudZwo7kVtGB/1VHmfoaWsGA7gyUUVKSFX7dVbGbohsTQLQwKimgdoq4v0lyhJQ==;oLsVZxaZnNoqIT4C16WaaQ=="
 ---
 

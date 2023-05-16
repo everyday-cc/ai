@@ -30,164 +30,80 @@ images:
     isCached: true
 
 related:
-  - title: "AMP Robotics attracts investment from Microsoft’s Climate Innovation Fund"
-    excerpt: "AMP Robotics, a Denver, Colorado-based startup creating robotic systems that can automatically ... infrastructure and expanding new infrastructure based on our application of AI-powered automation,” founder and CEO Matanya Horowitz told TechCrunch ..."
-    publishedDateTime: 2023-05-11T15:29:00Z
-    webUrl: "https://techcrunch.com/2023/05/11/amp-robotics-attracts-investment-from-microsofts-climate-innovation-fund/"
-    ampWebUrl: "https://techcrunch.com/2023/05/11/amp-robotics-attracts-investment-from-microsofts-climate-innovation-fund/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/11/amp-robotics-attracts-investment-from-microsofts-climate-innovation-fund/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 120
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/01/GettyImages-172878844.jpg?w=1200"
-        width: 1200
-        height: 803
-        isCached: true
-  - title: "IBM and Microsoft partnership accelerates sustainable cloud modernization"
-    excerpt: "A global fast-moving consumer goods (FMCG) enterprise needed to modernize its product portfolio, focusing on high-growth categories like pet care, coffee and consumer health. Its aggressive sustainability goals included achieving net zero emissions by 2050, making all packaging reusable or recyclable"
-    publishedDateTime: 2023-05-12T12:00:00Z
-    webUrl: "https://www.ibm.com/blog/ibm-and-microsoft-partnership-accelerates-sustainable-cloud-modernization/"
-    type: article
-    provider:
-      name: IBM
-      domain: ibm.com
-    quality: 118
-    images:
-      - url: "https://www.ibm.com/blog/wp-content/uploads/2023/05/IBM-and-Microsoft-partnership-accelerates-sustainable-cloud-modernization-630x330.jpg"
-        width: 630
-        height: 330
-        isCached: true
-  - title: "Google Fights Back Against Microsoft With New AI Search Capabilities"
-    excerpt: "Google CEO Sundar Pichai has announced that the AI chatbot Bard is open to all, AI is coming to almost all Google products and new search experiences are on the way"
-    publishedDateTime: 2023-05-12T12:35:00Z
-    webUrl: "https://www.forbes.com/sites/qai/2023/05/12/google-fights-back-against-microsoft-with-new-ai-search-capabilities/"
-    ampWebUrl: "https://www.forbes.com/sites/qai/2023/05/12/google-fights-back-against-microsoft-with-new-ai-search-capabilities/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/05/12/google-fights-back-against-microsoft-with-new-ai-search-capabilities/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 104
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/645e322c80f608b0fb76b706/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 793
-        isCached: true
-  - title: "“Meaningful harm” from AI necessary before regulation, says Microsoft exec"
-    excerpt: "As lawmakers worldwide attempt to understand how to regulate rapidly advancing AI technologies, Microsoft chief economist Michael Schwarz told attendees of the World Economic Forum Growth Summit today that \"we shouldn't regulate AI until we see some meaningful harm that is actually happening,"
-    publishedDateTime: 2023-05-11T19:48:00Z
-    webUrl: "https://arstechnica.com/tech-policy/2023/05/meaningful-harm-from-ai-necessary-before-regulation-says-microsoft-exec/"
-    ampWebUrl: "https://arstechnica.com/tech-policy/2023/05/meaningful-harm-from-ai-necessary-before-regulation-says-microsoft-exec/amp/"
-    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/tech-policy/2023/05/meaningful-harm-from-ai-necessary-before-regulation-says-microsoft-exec/amp/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 102
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/05/GettyImages-1289079656-800x450.jpg"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "Microsoft makes strategic investment into Builder.ai, integrates its services into Teams"
-    excerpt: "It’s now landed a strategic collaboration with Microsoft, which includes an undisclosed equity investment in the startup. TechCrunch’s source’s indicate the investment was “significant,” though we couldn’t get anything more than that."
-    publishedDateTime: 2023-05-11T18:57:00Z
-    webUrl: "https://techcrunch.com/2023/05/11/microsoft-makes-strategic-investment-into-builder-ai-integrates-its-services-into-teams/"
-    ampWebUrl: "https://techcrunch.com/2023/05/11/microsoft-makes-strategic-investment-into-builder-ai-integrates-its-services-into-teams/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/11/microsoft-makes-strategic-investment-into-builder-ai-integrates-its-services-into-teams/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 95
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/02/GettyImages-1265041897.jpg?resize=1200,800"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "SymphonyAI announces generative AI collaboration with Microsoft Azure AI"
-    excerpt: "SymphonyAI announced today its first generative AI software application that integrates Microsoft Azure OpenAI Service. Sensa Copilot provides sophisticated AI assistance to financial crime investigators by automatically collecting,"
-    publishedDateTime: 2023-05-11T16:46:00Z
-    webUrl: "https://www.securityinfowatch.com/cybersecurity/information-security/document-and-data-controls-destruction/press-release/53060240/symphony-ai-symphonyai-announces-generative-ai-collaboration-with-microsoft-azure-ai"
-    type: article
-    provider:
-      name: Security
-      domain: securityinfowatch.com
-    quality: 68
-    images:
-      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2023/05/16x9/Screenshot_1.compress.gd.645d18ebd7b9a.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "SAP and Microsoft to Deepen Collaboration on Generative AI in Recruiting"
-    excerpt: "(Reuters) - SAP will deepen collaboration with Microsoft on joint generative AI projects in the field of personnel recruiting, the German software maker announced on Monday. SAP's SuccessFactors solutions will be integrated with Microsoft's 365 Copilot and Azure OpenAI Service to access language models and generate natural language, it added."
-    publishedDateTime: 2023-05-15T12:35:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2023-05-15/sap-and-microsoft-to-deepen-collaboration-on-generative-ai-in-recruiting"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 63
-  - title: "Microsoft Security highlights from RSA Conference 2023"
-    excerpt: "Read a recap of memorable moments from Microsoft Security's participation in RSAC 2023 and watch Vasu Jakkal's keynote address on-demand."
-    publishedDateTime: 2023-05-15T16:00:00Z
-    webUrl: "https://www.microsoft.com/en-us/security/blog/2023/05/15/microsoft-security-highlights-from-rsa-conference-2023/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 56
-    images:
-      - url: "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2023/05/Vasu-1_900_2_cropped.jpg"
-        width: 900
-        height: 394
-        isCached: true
-  - title: "Start-Up Nation Central Collaborates with Microsoft to Promote Israeli AgriFood-Tech Startups"
-    excerpt: "This collaboration aims to integrate innovative agricultural data companies with core technologies of AI, Cloud & Machine Learning with Microsoft's AI tools to develop models for optimal, sustainable"
-    publishedDateTime: 2023-05-15T14:30:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/05/n32395743/start-up-nation-central-collaborates-with-microsoft-to-promote-israeli-agrifood-tech-startups"
-    ampWebUrl: "https://www.benzinga.com/amp/content/32395743"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32395743"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 48
-    images:
-      - url: "https://mma.prnewswire.com/media/2077182/Start_Up_Nation_Central.jpg"
-        width: 400
-        height: 279
-        isCached: true
-  - title: "KPMG LLP AND MICROSOFT ESTABLISH INDUSTRY-LEADING INITIATIVE TO SCALE GENERATIVE AI ACROSS AUDIT, TAX AND ADVISORY"
-    excerpt: "KPMG LLP AND MICROSOFT ESTABLISH INDUSTRY-LEADING INITIATIVE TO SCALE GENERATIVE AI ACROSS AUDIT, TAX AND ADVISORY May 11, 2023 (PRNewswire via COMTEX) --"
-    publishedDateTime: 2023-05-11T18:50:00Z
-    webUrl: "https://www.marketwatch.com/press-release/kpmg-llp-and-microsoft-establish-industry-leading-initiative-to-scale-generative-ai-across-audit-tax-and-advisory-2023-05-11"
+  - title: "AI Recognition Market SWOT Analysis by Leading Key Players Microsoft Azure, Google, Tencent, Alibaba"
+    excerpt: "Click Here to Get Free Sample PDF Copy of Latest Research on AI Recognition Market 2023 before Purchase:  The report will also include information on the top companies in the AI Recognition market shares,"
+    publishedDateTime: 2023-05-15T09:14:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-recognition-market-swot-analysis-by-leading-key-players-microsoft-azure-google-tencent-alibaba-2023-05-15"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 42
-  - title: "Palo Alto Networks Unveils Its Cloud Next-Generation Firewall For Microsoft Azure Customers"
-    excerpt: "Cloud NGFW for Azure seamlessly integrates Palo Alto Networks AI and ML-powered security with the simplicity, scalability and global availability"
-    publishedDateTime: 2023-05-11T19:42:00Z
-    webUrl: "https://menafn.com/1106229041/Palo-Alto-Networks-Unveils-Its-Cloud-Next-Generation-Firewall-For-Microsoft-Azure-Customers"
+    quality: 84
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence for Accounting Market Next Big Thing With Major Giants Microsoft, AWS, Xero, Intuit"
+    excerpt: "Click Here to Get Free Sample PDF Copy of Latest Research on Artificial Intelligence for Accounting Market 2023 Before Purchase:  The report will also include information on the top companies in the Artificial Intelligence for Accounting market shares,"
+    publishedDateTime: 2023-05-15T07:29:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-for-accounting-market-next-big-thing-with-major-giants-microsoft-aws-xero-intuit-2023-05-15"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 24
-  - title: "SAP and Microsoft Collaborate on Joint Generative AI Offerings to Help Customers Address the Talent Gap"
-    excerpt: "SAP® SuccessFactors® Solutions Integration with Microsoft 365 Copilot and Copilot in Viva Learning Will Bring the Power of AI to People Leaders, Helping Them Recruit and Develop Their Teams WALLDORF,"
-    publishedDateTime: 2023-05-15T14:29:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/05/15/9813979.htm"
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 83
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "2023, Big Data & Machine Learning in Telecom Market Research Report Analysis by 2030"
+    excerpt: "The major players covered in the Big Data and Machine Learning in Telecom market report are: Get a sample copy of the Big Data and Machine Learning in Telecom Market report 2023 Short Summery About Big Data and Machine Learning in Telecom Market: Market Overview of Global Big Data and Machine Learning in Telecom market: According to our latest research,"
+    publishedDateTime: 2023-05-16T06:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-big-data-machine-learning-in-telecom-market-research-report-analysis-by-2030-2023-05-16"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 20
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 62
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "2023, Automatic Speech Recognition(ASR) Software Market Research Report Analysis by 2030"
+    excerpt: "The major players covered in the Automatic Speech Recognition (ASR) Software market report are: Get a sample copy of the Automatic Speech Recognition (ASR) Software Market report 2023 Short Summery About Automatic Speech Recognition (ASR) Software Market: The global Automatic Speech Recognition (ASR) Software market size was valued at USD 13410."
+    publishedDateTime: 2023-05-12T17:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-automatic-speech-recognitionasr-software-market-research-report-analysis-by-2030-2023-05-12"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 60
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "SAP taps Microsoft AI Copilot to streamline hiring and upskilling for enterprises"
+    excerpt: "SAP today announced a plan to integrate Microsoft AI Copilot and Azure OpenAI service with its SuccessFactors suite of solutions."
+    publishedDateTime: 2023-05-15T17:57:00Z
+    webUrl: "https://venturebeat.com/ai/sap-taps-microsoft-ai-copilot-to-streamline-hiring-and-upskilling/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 59
+  - title: "SoftBank Says Goodbye to Alibaba, Hello to More AI Investments"
+    excerpt: "The Japanese tech investor said it was ready to go on the offensive again with its eye on artificial-intelligence companies."
+    publishedDateTime: 2023-05-11T19:41:00Z
+    webUrl: "https://www.wsj.com/articles/softbank-trims-overall-loss-after-topsy-turvy-fiscal-year-9a07237c"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 47
 
 secured: "BX7o+nbr/vkAK2vujEMfOF6U4aje06H6tlFc1bBehegu7obgh1BTstgMeU8GnvCRrhP1iGzdTxWWNyymooR8j9ZAwdKb1SSAqzJ1ejTzOBqXlPyjexF5wt49loEiaP+ZRNJ4PAFmN6/c748A26IkuR/5cTPtABTWbSvnPdblFC5TQcJ0td3lRzfo97H4Kd/f40zkv0HI0+S4fhQyqHpJck8UFmdkE6qPDZT+pmCow/0wJJ9iRK6c1dKe37zkP77d1kUsmv7SzNQyutrdn5idFSH+vdi2JaRhqOlt2BwlBqmrGH26jaHWwgzZArwuXRJ0HI0jw5W2+sbEuUmbtKonT7eLDPMt7k20srEyh8p0i+s=;IHYZorjnsfgdSuQX8auGaw=="
 ---

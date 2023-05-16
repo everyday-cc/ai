@@ -29,43 +29,211 @@ images:
     isCached: true
 
 related:
-  - title: "Mobile Speech Recognition Software Market | 2030"
-    excerpt: "The Global Mobile Speech Recognition Software market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players,"
-    publishedDateTime: 2023-05-12T02:53:00Z
-    webUrl: "https://www.marketwatch.com/press-release/mobile-speech-recognition-software-market-2030-2023-05-11"
+  - title: "Edge Artificial Intelligence (AI) Chip Market by 2030"
+    excerpt: "Chip market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players,"
+    publishedDateTime: 2023-05-12T00:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/edge-artificial-intelligence-ai-chip-market-by-2030-2023-05-11"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 69
+    quality: 99
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Deep Learning in CT Scanners Market | 2030"
-    excerpt: "Precision Reports has published a new report titled as \" Deep Learning in CT Scanners Market \" by End User ( Hospital, Diagnostic Center, Research, Veterinary Clinic ), Types ( Stationary, Portable ),"
-    publishedDateTime: 2023-05-13T05:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-in-ct-scanners-market-2030-2023-05-13"
+  - title: "Edge Artificial Intelligence (AI) Chip Market Research | 2023-2030"
+    excerpt: "May 14, 2023 (The Expresswire) -- \"Edge Artificial Intelligence (AI) Chip Market\" is poised to witness an unexpected compound annual growth rate"
+    publishedDateTime: 2023-05-14T12:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/edge-artificial-intelligence-ai-chip-market-research-2023-2030-2023-05-14"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 69
+    quality: 99
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Facial Recognition Devices Market Expert Analysis By,2030"
-    excerpt: "(The Expresswire) -- \"Facial Recognition Devices Market\" Reports recently released an executive data report that focuses on the end"
-    publishedDateTime: 2023-05-15T18:44:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-devices-market-expert-analysis-by2030-2023-05-15"
+  - title: "Computer Vision in Artificial Intelligence (AI) Market 2023-Analysis, Trends and Forecasts to 2030"
+    excerpt: "The Global “Computer Vision in Artificial Intelligence (AI) Market”Report offers an In-depth analysis of the market's"
+    publishedDateTime: 2023-05-15T15:26:00Z
+    webUrl: "https://www.marketwatch.com/press-release/computer-vision-in-artificial-intelligence-ai-market-2023-analysis-trends-and-forecasts-to-2030-2023-05-15"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 69
+    quality: 85
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Edge AI Chips Market Future Scope and Growth Status 2028"
+    excerpt: "What is the Computer-aided Design (CAD) market growth? Computer-aided Design (CAD) Market Size is projected to Reach Multimillion USD by 2028, In comparison to 2023, at unexpected CAGR during the forecast Period 2023-2028."
+    publishedDateTime: 2023-05-11T19:05:00Z
+    webUrl: "https://www.marketwatch.com/press-release/edge-ai-chips-market-future-scope-and-growth-status-2028-2023-05-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 84
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence (AI) in Fintech Market Upto 2030"
+    excerpt: "The Global Artificial Intelligence (AI) in Fintech market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key ..."
+    publishedDateTime: 2023-05-15T16:54:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-upto-2030-2023-05-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 84
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence (AI) in Fintech Market Business Report 2023-2030"
+    excerpt: "Newest Report will contain the Competitional Analysis of Top 5 Key Plyers (The, Autodesk, IBM, Microsoft, Oracle)"
+    publishedDateTime: 2023-05-12T04:40:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-business-report-2023-2030-2023-05-12"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 83
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence (AI) in the Freight Transportation Market"
+    excerpt: "Precision Reports has published a new report titled as \"Artificial Intelligence (AI) in the Freight Transportation"
+    publishedDateTime: 2023-05-12T04:38:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-the-freight-transportation-market-2023-05-12"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 82
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Automotive Artificial Intelligence(AI) Market Till 2030"
+    excerpt: "The Global Automotive Artificial Intelligence(AI) market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players,"
+    publishedDateTime: 2023-05-13T05:16:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligenceai-market-till-2030-2023-05-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 82
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence (AI) Chipset Market Trends 2023-2030"
+    excerpt: "Chipset market was valued at USD 8451.7 million in 2022 and is anticipated to reach USD 22360 million by 2029, witnessing a CAGR of 17.6Percentage during the forecast period 2023-2029. The influence of COVID-19 and the Russia-Ukraine War were considered while estimating market sizes."
+    publishedDateTime: 2023-05-16T04:23:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipset-market-trends-2023-2030-2023-05-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 82
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "2023 Artificial Intelligence (AI) Market: Regional Growth Drivers till 2031"
+    excerpt: "Insightful Investigation 2023: “Artificial Intelligence (AI) Market” Growth Projections and Key Dynamics | Survey with"
+    publishedDateTime: 2023-05-12T17:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-artificial-intelligence-ai-market-regional-growth-drivers-till-2031-2023-05-12"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 80
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence (AI) Accelerator Market Research Analysis, 2023-2030"
+    excerpt: "Accelerator market growth in 2023-2030 with TOPMajor Players? Major Players Covered in this Report: The global Artificial Intelligence (AI) Accelerator Market USD Million in 2022, with a change of Percent between 2022 and 2023."
+    publishedDateTime: 2023-05-12T17:03:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-accelerator-market-research-analysis-2023-2030-2023-05-12"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 79
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence (AI) in Food and Beverage Market: Growth & Revenue by 2030"
+    excerpt: "Artificial Intelligence (AI) in Food and Beverage Market Size 2023 - 2030 Report Consisting of 83 Pages Offers"
+    publishedDateTime: 2023-05-13T16:58:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-food-and-beverage-market-growth-revenue-by-2030-2023-05-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 76
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Artificial Intelligence (AI) in Fintech Market Analysis of New Report 2023-2030"
+    excerpt: "A Promising Outlook for the Global Artificial Intelligence (AI) in Fintech Market from 2023 to 2030 Why is Artificial Intelligence (AI) in Fintech market 2023 Important? - Overall, the Artificial Intelligence (AI) in Fintech market in 2023 is essential for businesses to understand the market landscape,"
+    publishedDateTime: 2023-05-14T13:56:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-fintech-market-analysis-of-new-report-2023-2030-2023-05-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 76
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global 2023, Artificial Intelligence (AI) Software Market Analysis of New Report 2030"
+    excerpt: "Software market report are: Get a sample copy of the Artificial Intelligence (AI) Software Market report 2023 Artificial Intelligence (AI) Software Marketsize, segment (mainly coveringMajorType (, On-Premise,"
+    publishedDateTime: 2023-05-15T06:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-2023-artificial-intelligence-ai-software-market-analysis-of-new-report-2030-2023-05-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 75
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Life Sciences Market by 2030"
+    excerpt: "Precision Reports has published a new report titled as \"Artificial Intelligence in Life Sciences Market\" by End User"
+    publishedDateTime: 2023-05-12T05:06:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-life-sciences-market-by-2030-2023-05-12"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 67
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -85,10 +253,10 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Insurance Market | 2030"
-    excerpt: "Research Reports has published a new report titled as \" Artificial Intelligence in Insurance Market \" by End User ( Chatbots and Virtual Assistants, Fraud Detection, Customer Relationship Management,"
-    publishedDateTime: 2023-05-15T00:04:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-insurance-market-2030-2023-05-14"
+  - title: "Artificial Intelligence Voice Market Till 2030"
+    excerpt: "The Global Artificial Intelligence Voice market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players ..."
+    publishedDateTime: 2023-05-15T11:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-voice-market-till-2030-2023-05-14"
     type: article
     provider:
       name: MarketWatch
@@ -99,94 +267,57 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Facial Recognition Market Share, Size, Segmentation Analysis, Key segments and Forecast 2031"
-    excerpt: "Global Facial Recognition Market – Drivers’ Restraints’ Opportunities’ Trends’ and Forecast up to 2025. Facial Recognition Market is approximately USD 5 billion market that is expected to double by 2025."
-    publishedDateTime: 2023-05-15T15:10:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-share-size-segmentation-analysis-key-segments-and-forecast-2031-2023-05-15"
+  - title: "Artificial Intelligence (AI) in Agriculture Market Size in 2023-2030: Competitive landscape and Leading Country"
+    excerpt: "Additionally, the research report provides comprehensive data on the key factors driving the growth of the Artificial Intelligence (AI) in Agriculture market at both the national and local levels. The report includes market size forecasts in terms of value,"
+    publishedDateTime: 2023-05-15T14:22:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-agriculture-market-size-in-2023-2030-competitive-landscape-and-leading-country-2023-05-15"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 58
+    quality: 64
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Facial Recognition Access Control Solutions Market 2023-2030 with Emerging Trends and Technologies"
-    excerpt: "Additionally, the report [117 Pages] examines emerging technological developments and RandD spending by key vendors. It comprehensively covers critical elements such as global Facial Recognition Access Control Solutions market share,"
-    publishedDateTime: 2023-05-11T17:53:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-access-control-solutions-market-2023-2030-with-emerging-trends-and-technologies-2023-05-11"
+  - title: "Artificial Intelligence in Oil and Gas Market by 2030"
+    excerpt: "Precision Reports has published a new report titled as \"Artificial Intelligence in Oil and Gas Market\" by End User"
+    publishedDateTime: 2023-05-13T05:16:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-oil-and-gas-market-by-2030-2023-05-13"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 55
+    quality: 47
+  - title: "Artificial Intelligence (AI) Chip Market Intelligence Report 2031: Profit-Oriented Business Decisions For Major Players"
+    excerpt: "Artificial Intelligence Chip Market Opportunity Analysis  The global artificial intelligence chip market was valued at $11.2 billion in 2"
+    publishedDateTime: 2023-05-16T05:53:00Z
+    webUrl: "https://menafn.com/1106249515/Artificial-Intelligence-AI-Chip-Market-Intelligence-Report-2031-Profit-Oriented-Business-Decisions-For-Major-Players"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 45
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://menafn.com/updates/pr/2023-05/16/EP_862b6image_story.png"
+        width: 898
+        height: 470
         isCached: true
-  - title: "Latest 2023 \"Automatic Speech Recognition(ASR) Software Market\" Survey & Forecast by 2030 | With 114+ Pages"
-    excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this “Automatic Speech Recognition(ASR) Software Industry”. Embracing Growth: A Promising Outlook for the Global Automatic Speech Recognition(ASR) Software Market from 2023 to 2030."
-    publishedDateTime: 2023-05-15T06:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/latest-2023-automatic-speech-recognitionasr-software-market-survey-forecast-by-2030-with-114-pages-2023-05-15"
+  - title: "Artificial Intelligence (AI) Market Is Expected To Reach USD 1,581.70 Billion By 2030 With A Booming CAGR Of 38.0%"
+    excerpt: "Allied Market The report focuses on growth prospects, restraints, and analysis of the global artificial intelligence market trend. <"
+    publishedDateTime: 2023-05-15T10:51:00Z
+    webUrl: "https://menafn.com/1106243312/Artificial-Intelligence-AI-Market-Is-Expected-To-Reach-USD-158170-Billion-By-2030-With-A-Booming-CAGR-Of-380"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 51
+      name: Mena FN
+      domain: menafn.com
+    quality: 32
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://menafn.com/updates/pr/2023-05/15/EP_32692image_story.jpeg"
+        width: 632
+        height: 331
         isCached: true
-  - title: "Top 7 Use Cases For Facial Recognition In 2023"
-    excerpt: "The demand for AI face recognition technology is rising quickly on a global scale. By 2028, the market is expected to have grown from $5 billion to over $13 billion. Business executives must consider several variables before starting any projects when employing facial recognition technology,"
-    publishedDateTime: 2023-05-11T16:17:00Z
-    webUrl: "https://techbullion.com/top-7-use-cases-for-facial-recognition-in-2023/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 39
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/05/20210201002126713_img-1000x600.jpg"
-        width: 1000
-        height: 600
-        isCached: true
-  - title: "Mayor presents proclamation in recognition of rare speech disorder"
-    excerpt: "Greenwood Mayor Brandon Smith signed a proclamation on Friday morning recognizing May 14 as Childhood Apraxia of Speech Day."
-    publishedDateTime: 2023-05-13T07:00:00Z
-    webUrl: "https://www.indexjournal.com/news/mayor-presents-proclamation-in-recognition-of-rare-speech-disorder/article_93b1c8b0-ccc7-59d6-bfd5-8d7caebea70b.html"
-    type: article
-    provider:
-      name: Index-Journal
-      domain: indexjournal.com
-    quality: 24
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/indexjournal.com/content/tncms/assets/v3/editorial/3/f4/3f4bea12-bb1c-5710-9faf-5bbafab5cb37/645ea6b6c1300.image.png?crop=960%2C504%2C0%2C388&resize=960%2C504&order=crop%2Cresize"
-        width: 960
-        height: 504
-        isCached: true
-  - title: "2023-2029 \"Facial Recognition Access Control Solutions Market\" volume sale, Trends and Market Overview | Report Reviewed by Experts"
-    excerpt: "May 15, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" A market research report has"
-    publishedDateTime: 2023-05-15T07:14:00Z
-    webUrl: "https://www.marketwatch.com/press-release/2023-2029-facial-recognition-access-control-solutions-market-volume-sale-trends-and-market-overview-report-reviewed-by-experts-2023-05-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 19
-  - title: "Analysis the CAGR growth on the Global Speech & Voice Recognition Systems Market and the Market size is growing at a CAGR of 13.9% from 2023 - 2030"
-    excerpt: "The global Speech & Voice Recognition Systems market has seen significant growth in recent years, driven by increasing demand from various industries. Technological advancements, increasing consumer awareness,"
-    publishedDateTime: 2023-05-13T13:25:00Z
-    webUrl: "https://www.marketwatch.com/press-release/analysis-the-cagr-growth-on-the-global-speech-voice-recognition-systems-market-and-the-market-size-is-growing-at-a-cagr-of-139-from-2023---2030-2023-05-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 0
 
 secured: "vO8/S+68oZPlp8kZG1NPx8AZqpyZEz+rLmrfBefse03cfSKwevs/+Y2Zcgx0n325qp1iVOj0ZBVmB486x7EBUGYcIR8ZsFszNdVq79SaOmo3yPtA2jd5Oedw2G8GTZCac8eCk8k8FAu3LDTjkG140EWx852fMuw+eDY68rA+VB3MxpyNMjHXLZ4mM7iDFBL2c8D0Rk83K4tuEh/9UnTNzL/FFOW+9MYjP61ClfEeR9KV+nm6eE4lXRRGouUWIFAhOIG6lKGfEpeg8tfggDdyukEH2xf2M0N4Tu3ufsyfi6Nm3GjU5+95eOIGsxhdm6J+5EPjenXlWcErMwRrqWTsoEKHSBabMofC9Bfw0agfLQg=;v1riBiNovP6BgsjDNLtC4A=="
 ---

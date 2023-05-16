@@ -9,7 +9,7 @@ ampWebUrl: "https://www.fox26houston.com/news/google-bard-search-engine-artifici
 cdnAmpWebUrl: "https://www-fox26houston-com.cdn.ampproject.org/c/s/www.fox26houston.com/news/google-bard-search-engine-artificial-intelligence.amp"
 type: article
 quality: 35
-heat: 35
+heat: -1
 published: false
 
 provider:
@@ -18,6 +18,66 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "Online Search To Make Up Lost Time With AI"
+    excerpt: "Online search, dominated by Google for 25 years, has become as banal as making a phone call, but it could finally be getting a profound reset thanks to artificial intelligence."
+    publishedDateTime: 2023-05-16T01:14:00Z
+    webUrl: "https://www.barrons.com/news/online-search-to-make-up-lost-time-with-ai-8ef011d"
+    ampWebUrl: "https://www.barrons.com/amp/news/online-search-to-make-up-lost-time-with-ai-8ef011d"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/online-search-to-make-up-lost-time-with-ai-8ef011d"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 57
+    images:
+      - url: "https://www.barrons.com/asset/external-media/afp/AFP4218075234965310178666011516179357766924---1.jpg"
+        width: 768
+        height: 482
+        isCached: true
+  - title: "Google Is Rolling the Dice With AI Search"
+    excerpt: "As AI answers fill our phone screens, what will become of the tech giant’s relationship with advertisers — or the truth?"
+    publishedDateTime: 2023-05-11T23:53:00Z
+    webUrl: "https://www.washingtonpost.com/business/2023/05/12/google-is-rolling-the-dice-with-ai-search/42a55c5a-f081-11ed-b67d-a219ec5dfd30_story.html"
+    type: article
+    provider:
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 39
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IH5Q43HQQEI63NT5UIM6YXP5GA.jpg&w=1440"
+        width: 1440
+        height: 958
+        isCached: true
+  - title: "Congress Is Racing to Catch Up With Artificial Intelligence"
+    excerpt: "Lawmakers agree that the rapid evolution of this technology needs to be addressed—but they’re still getting up to speed on the details."
+    publishedDateTime: 2023-05-15T10:09:00Z
+    webUrl: "https://newrepublic.com/article/172701/congress-ai-regulation-tech-policy"
+    type: article
+    provider:
+      name: New Republic
+      domain: newrepublic.com
+    quality: 37
+    images:
+      - url: "https://images.newrepublic.com/7537b8cad1e2b12adba52eeb3c54704d05a89eaf.jpeg?w=1109&h=577&crop=faces&fit=crop&fm=jpg"
+        width: 1109
+        height: 577
+        isCached: true
+  - title: "Sinequa accelerates drug development and clinical research with AI-powered scientific search"
+    excerpt: "Sinequa presents generative AI and neural search capabilities for accelerating clinical research and drug development"
+    publishedDateTime: 2023-05-15T15:00:00Z
+    webUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=158648"
+    type: article
+    provider:
+      name: KMWorld Magazine
+      domain: kmworld.com
+    quality: 28
+    images:
+      - url: "https://dzceab466r34n.cloudfront.net/Images/OtherImages/151196-2023-Cover-Images-ORG.png"
+        width: 772
+        height: 594
+        isCached: true
 
 secured: "XaQwRtLQYrpFtXgLfYT9xGjFz1Agr+ibqaLJ3xMkWAAfwa7s9IhbDdyR/92qaFGMhgIt4998vdnda3nxWKC68h7rCwTYWGnVY2EzWYhHlQSbsUD7jb5NJ9g4dTqbjwxxdgJ/W+rNvP6dtLg16P/aquaTPxXA0PAs+FE00JhDDkH2d3peb/hFy3hbIYIglowK1mc76aOvTDYPPWx9y3XjsvOdcD4OHdQAkSerJ9s3sfWl1aXwLHXUMWoqSyA9716OWkxhGoADheOF7fwOVbeyBB6Dgm4ljSy/2Npj1/n5yO5B844hKTb6KLkMdynrwIUdh0GRQ8QyhnOnuzP7a2MlDoxLnqZ5DnJubRW9sApUtXD3IfOurzqwGdDWf4aNGEZO8eMR9vTFYSE/PDtD1iY/SMRPZR2Pna5uGn1EJr+ZH6/MN2E5FuGNYJ53vjcuLA8gXMqtqOC++hK+ma19O+kXPGwnYiR9uLcLgaoBGagMDjgBILq5h3SIf2mI7R4KWhjCzewMjaFNayYGYZdY7EZqKg==;Uafll+nDe6bqSiWWE4sMZg=="
 ---

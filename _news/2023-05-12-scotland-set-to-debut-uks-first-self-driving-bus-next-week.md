@@ -43,22 +43,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "UK's First Driverless Bus Service To Begin In Scotland Next Week"
-    excerpt: "The UK will roll out its first driverless bus network in Scotland next week with drivers on standby behind the steering wheel, ready to take control should an emergency arise."
-    publishedDateTime: 2023-05-11T17:07:00Z
-    webUrl: "https://www.ndtv.com/world-news/uks-first-driverless-bus-service-to-begin-in-scotland-next-week-4026830"
-    ampWebUrl: "https://www.ndtv.com/world-news/uks-first-driverless-bus-service-to-begin-in-scotland-next-week-4026830/amp/1"
-    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/uks-first-driverless-bus-service-to-begin-in-scotland-next-week-4026830/amp/1"
-    type: article
-    provider:
-      name: NDTV
-      domain: ndtv.com
-    quality: 59
-    images:
-      - url: "https://c.ndtvimg.com/2023-02/lc9brad_e-bus-generic-_625x300_17_February_23.jpg"
-        width: 650
-        height: 400
-        isCached: true
   - title: "UK Launches its First Self-Driving Bus Service"
     excerpt: "Scotland will launch its first driverless bus network. According to the details, the buses will run without any input from the drivers."
     publishedDateTime: 2023-05-12T13:55:00Z
@@ -105,20 +89,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "'World first' self-driving buses ready for roads in Scotland"
-    excerpt: "A full size, self-driving bus service is ready to take to the roads of Scotland in what is believed to be a world first. The Stagecoach autonomous bus service, AB1, is launching for passengers over the Forth Road Bridge on 15 May. The 14-mile route runs between Ferrytoll park-and-ride in Fife and Edinburgh Park train and tram interchange."
-    publishedDateTime: 2023-05-11T16:00:00Z
-    webUrl: "https://www.bbc.co.uk/news/av/uk-scotland-65564022"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 24
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/0833/production/_129699020_p0fms21t.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Britain’s first autonomous bus service launches in Scotland"
     excerpt: "The UK has celebrated the launch of its first driverless bus service, operated by Stagecoach. The start of the pilot programme was marked by a journey on the service between Ferry Toll near Inverkeithing,"
     publishedDateTime: 2023-05-12T13:16:00Z
@@ -128,24 +98,6 @@ related:
       name: IET
       domain: theiet.org
     quality: 19
-  - title: "'World's first' self-driving bus being trialed in Scotland"
-    excerpt: "In a world first, a trial is underway in Edinburgh with an autonomous bus taking passengers across the Forth Road Bridge in a viable service route. | ITV National News"
-    publishedDateTime: 2023-05-11T18:27:00Z
-    webUrl: "https://www.itv.com/news/2023-05-11/worlds-first-self-driving-bus-being-trialed-in-scotland"
-    type: article
-    provider:
-      name: ITV
-      domain: itv.com
-    quality: 4
-  - title: "World's first self-driving bus tested on roads of Scotland"
-    excerpt: "Watch the latest from ITV News - The world's first autonomous bus will become operational on Monday. It'll take passengers between Fife and Edinburgh."
-    publishedDateTime: 2023-05-11T18:30:00Z
-    webUrl: "https://www.itv.com/watch/news/worlds-first-self-driving-bus-tested-on-roads-of-scotland/k7wwgbj"
-    type: article
-    provider:
-      name: ITV
-      domain: itv.com
-    quality: 4
 
 secured: "HWDbK7fWPkr4M9I5JOQyGkVVM0FmcxYx0Gc/qGYaGj3kaiA3yA90ivEuvID5mCVDNpDzm8BP2GKMVkDIFgUDO++yX8NNm7xTtN8ZP4dDZRkJta2b5fMZJCS2C2GPuwP22JNbaYvKIoAI2WDC+IuwwZoZiHQTtORVtf8L+O7zX/pox54GO1GC9F0B4oQ9eX5UOSdukIhwzgv3cVE9EjTyX8LAErdIlPDQumo8hHRFSTHqGZX9gF2+mR6PKectDX+aKNMKGPYFKCO6BWwlwXg7B8EUS1VQasiW9G3NlgsojGyC4AREyXfML7pV9aEqBp6dp/iBCK6QOfrbQTy+potqmLpsHGTMJwbPyzmiXFubxWLyWSCdWXvHpDVcBcvlDBie7YroOfdVONJxVyt9C7HXkQ/mgCnpzMbr4Pd7pSqnyqPRYCX4XXvglBQ8KpQkesDkEQp9Oj9nMKPSlQzyxwQdTx0YFLHDLVsPYm47sZEWDo/rhnH9caasjfnmCF4Adt2+4YdiNUnnVfx2SHruRL5xow==;obfCsFKl4UdiMaWctZjmKg=="
 ---

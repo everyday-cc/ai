@@ -72,19 +72,19 @@ related:
         width: 1200
         height: 655
         isCached: true
-  - title: "The Boring Future of Generative AI"
-    excerpt: "ChatGPT’s chaotic streak can be charming. Google’s new chat-style search shows text-generation technology is headed in a much tamer direction."
-    publishedDateTime: 2023-05-11T16:00:00Z
-    webUrl: "https://www.wired.com/story/the-boring-future-of-generative-ai/"
+  - title: "ActiveCampaign Introduces Content Generation Powered by AI"
+    excerpt: "The marketing automation provider invests in generative AI, helping customers improve engagement, conversion rates, and the overall customer"
+    publishedDateTime: 2023-05-16T11:14:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/activecampaign-introduces-content-generation-powered-by-ai-1032330723"
     type: article
     provider:
-      name: Wired
-      domain: wired.com
+      name: Business Insider
+      domain: businessinsider.com
     quality: 67
     images:
-      - url: "https://media.wired.com/photos/645c399a7b25a434b1f3bd06/191:100/w_1280,c_limit/Google-IO-2023-Fast%20Forward-Sundar-IO-2023-23_0943.jpg"
-        width: 1280
-        height: 670
+      - url: "https://mma.prnewswire.com/media/2077354/Chat_GPT_AI_Assistant___Opengraph_Twitter_Linkedin.jpg"
+        width: 400
+        height: 210
         isCached: true
   - title: "Prepare for generative AI with experimentation and clear guidelines"
     excerpt: "Figure out your most probable use cases and get the tech into users’ hands, with guardrails. Expect to adapt your business processes as the technology matures."
@@ -115,20 +115,6 @@ related:
       - url: "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt9e4903423b90ee49/64626bd3dc45a2b53749d78e/roadguardrails-Gartland-alamy.jpg"
         width: 1200
         height: 800
-        isCached: true
-  - title: "7 ways generative AI is being used in healthcare"
-    excerpt: "Generative artificial intelligence is already being used in the healthcare industry to help lower costs and improve efficiency."
-    publishedDateTime: 2023-05-11T16:44:00Z
-    webUrl: "https://www.beckershospitalreview.com/innovation/7-ways-generative-ai-is-being-used-in-healthcare.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 54
-    images:
-      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
-        width: 800
-        height: 600
         isCached: true
   - title: "DDN Empowers Breakthroughs in Generative AI with Unprecedented Sales Growth"
     excerpt: "DDN, the global leader in artificial intelligence (AI) and multi-cloud data management solutions, today announced that"
@@ -187,15 +173,6 @@ related:
       name: Broadcast
       domain: broadcastnow.co.uk
     quality: 19
-  - title: "Educational Psychology Meets Generative AI"
-    excerpt: "Post by Dr. Andrew J. Martin, School of Education, University of New South Wales, Australia"
-    publishedDateTime: 2023-05-11T18:35:00Z
-    webUrl: "https://www.psychologytoday.com/us/blog/psyched/202305/educational-psychology-meets-generative-ai"
-    type: article
-    provider:
-      name: Psychology Today
-      domain: psychologytoday.com
-    quality: 17
   - title: "The race to bring generative AI to mobile devices"
     excerpt: "Tech companies like Google seek processing power in handsets to reduce computing costs and improve speed of AI chatbots"
     publishedDateTime: 2023-05-16T04:00:00Z

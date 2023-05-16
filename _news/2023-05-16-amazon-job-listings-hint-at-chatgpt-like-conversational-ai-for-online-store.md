@@ -117,6 +117,15 @@ related:
         width: 573
         height: 413
         isCached: true
+  - title: "ChatGPT’s Sam Altman Faces Senate Panel Examining Artificial Intelligence"
+    excerpt: "Photo illustration: Elena Scotti WASHINGTON—The chief executive of ChatGPT creator OpenAI is set to testify before a Senate panel Tuesday as lawmakers begin a bipartisan push toward regulating the powerful new artificial-intelligence tools available to ..."
+    publishedDateTime: 2023-05-16T09:30:00Z
+    webUrl: "https://www.wsj.com/articles/chatgpts-sam-altman-faces-senate-panel-examining-artificial-intelligence-4bb6942a"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 46
   - title: "ChatGPT and Generative AI: Our Guide to 2023's Most Talked-About Technology"
     excerpt: "ChatGPT brought generative AI into the limelight when it hit 1 million users in five days. But how valid is the buzz around ChatGPT?"
     publishedDateTime: 2023-05-12T18:30:00Z
@@ -191,15 +200,6 @@ related:
         width: 1401
         height: 931
         isCached: true
-  - title: "ChatGPT and Generative AI Around the World: Maturity, Opportunities, and Hurdles in Key Regions"
-    excerpt: "ChatGPT has received a lot of press since its November 2022 launch. But while interest in the tool is high, its use is not yet universal."
-    publishedDateTime: 2023-05-11T17:01:00Z
-    webUrl: "https://www.businessinsider.com/generative-ai-around-the-world-maturity-opportunities-hurdles-key-regions-2023-may"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 35
   - title: "Japanese digital minister pushes for AI use, but ChatGPT does not know who he is"
     excerpt: "I asked ChatGPT who Kono Taro is and he came back with the wrong answer,” Mr Kono said in an interview with Bloomberg Television broadcast on Monday. “So you need to be careful,” he added. Mr Kono asks that his name be written in Japanese style,"
     publishedDateTime: 2023-05-15T00:53:00Z
@@ -223,6 +223,15 @@ related:
       name: America Magazine
       domain: americamagazine.org
     quality: 17
+  - title: "Qualcomm bets big on Hybrid artificial intelligence in ChatGPT, Bard era"
+    excerpt: "AI models with more than 1 billion parameters are already running on phones with performance and accuracy levels similar to those of the cloud"
+    publishedDateTime: 2023-05-16T09:49:00Z
+    webUrl: "https://www.business-standard.com/technology/tech-news/qualcomm-bets-big-on-hybrid-artificial-intelligence-in-chatgpt-bard-era-123051600345_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 16
   - title: "Google ups the ante on AI to compete with ChatGPT. Here's how search and Gmail will change."
     excerpt: "Here's how Google is introducing more AI into your everyday computing experience. Google unveiled a suite of new functions for both PCs and phones."
     publishedDateTime: 2023-05-12T18:51:00Z

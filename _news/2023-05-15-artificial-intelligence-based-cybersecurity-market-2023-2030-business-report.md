@@ -28,6 +28,34 @@ images:
     isCached: true
 
 related:
+  - title: "Healthcare Artificial Intelligence Market [2023-2030] Business Report"
+    excerpt: "What is the Healthcare Artificial Intelligence market growth in 2023-2029 with TOPMajor Players? Major Players Covered in this Report: APIXIO, Inc. Cyrcadia Health Inc. Sense.ly Atomwise, Inc. Zebra Medical Vision Ltd."
+    publishedDateTime: 2023-05-14T14:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-2023-2030-business-report-2023-05-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 84
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Data and AI Ethics Market with Future Opportunities 2023-2031"
+    excerpt: "The Global \"Data and AI Ethics Market\" report with 124 pages provides essential insights into the growth prospects"
+    publishedDateTime: 2023-05-15T06:14:00Z
+    webUrl: "https://www.marketwatch.com/press-release/data-and-ai-ethics-market-with-future-opportunities-2023-2031-2023-05-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 84
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence in Healthcare Market [2023-2030] Business Report"
     excerpt: "A Artificial Intelligence in Healthcare market new report, spanning multiple 126 pages, offers an extensive and"
     publishedDateTime: 2023-05-14T14:37:00Z
@@ -37,6 +65,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 83
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence and Machine Learning Market [2023-2030] Business Report"
+    excerpt: "A Artificial Intelligence and Machine Learning market new report, spanning multiple 119 pages, offers an extensive"
+    publishedDateTime: 2023-05-14T13:51:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-and-machine-learning-market-2023-2030-business-report-2023-05-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 80
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -84,15 +126,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Self Driving Wheelchair Market Size Investigation Report 2023-2030 by Absolute Reports in Healthcare , Medical Devices Industry | with [104 Pages]"
-    excerpt: "May 15, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry. The Global \"Self Driving Wheelchair"
-    publishedDateTime: 2023-05-15T14:50:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-wheelchair-market-size-investigation-report-2023-2030-by-absolute-reports-in-healthcare-medical-devices-industry-with-104-pages-2023-05-15"
+  - title: "Cloud AI in Fintech Market 2023-2030 Business Report"
+    excerpt: "A Promising Outlook for the Global Cloud AI in Fintech Market from 2023 to 2030 Why is Cloud AI in Fintech market 2023 Important? - Overall, the Cloud AI in Fintech market in 2023 is essential for businesses to understand the market landscape,"
+    publishedDateTime: 2023-05-12T17:03:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cloud-ai-in-fintech-market-2023-2030-business-report-2023-05-12"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 63
+    quality: 69
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -107,6 +149,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 53
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Latest Report: Global “Natural Language Processing (NLP) Market” Trends [2023-2030]| Examining Future Advancements and Regional Insights"
+    excerpt: "[91 Pages Updated Report] The most recent \"Natural Language Processing (NLP) Market\" research report provides a comprehensive analysis of the main growth drivers, market size estimations, and forecasts. The report examines the current market scenarios ..."
+    publishedDateTime: 2023-05-16T10:31:00Z
+    webUrl: "https://www.marketwatch.com/press-release/latest-report-global-natural-language-processing-nlp-market-trends-2023-2030-examining-future-advancements-and-regional-insights-2023-05-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

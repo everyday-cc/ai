@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/video-analytics-and-arti
 webUrl: "https://www.marketwatch.com/press-release/video-analytics-and-artificial-intelligence-market-2023-05-12"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -44,15 +44,6 @@ related:
         width: 740
         height: 492
         isCached: true
-  - title: "Breaking AI bias: Predictive analytics platform aims to eliminate racism in marketing"
-    excerpt: "AI-powered platform X_Stereotype uses predictive analytics to eliminate bias and racism by gauging the performance of marketing content across different races and cultures."
-    publishedDateTime: 2023-05-11T19:03:00Z
-    webUrl: "https://venturebeat.com/ai/breaking-ai-bias-predictive-analytics-platform-eliminate-racism-marketing/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 57
 
 secured: "indYug3z+p+FmP2yiYVtjJOTnXSUfZXLw59OlSIM9BiCV+2DCWs0fupDoSgiKbnmkeR6fuyFzG9LOw4RcP3SiAWUh3odmDEhrKY8QcUUEnvXRM1Ia9yxaI75ngd8KXRM+xaw1qKHAjjNxWczrS0y6UXLzFS3KHZxGKkBhE2nsRCyHwtHtIsHKpIIhoXqsEIdnEX/t8scMv32VWBpVu47tHquQMNxPFlCW2WhQkw1Xwdx6U5CgbJQnCwjq7KDaKQmi3ka24lzaFOUIVkxnX+hvquabbYsg7gy/6qJWkMi+5e/DBoOGObmZnRZEO4tR44SoLoNL9IIwr5beu9YBqb6r8srYX1B2B7bGabQCBGAnGk=;8+x2xMLRDop1S4SdFzMo+A=="
 ---

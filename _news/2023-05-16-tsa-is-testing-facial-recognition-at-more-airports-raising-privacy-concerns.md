@@ -132,6 +132,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Despite bias concerns, TSA tests facial recognition software at more airports"
+    excerpt: "BALTIMORE (AP) — A passenger walks up to an airport security checkpoint, slips an ID card into a slot and looks into a camera atop a small screen. The screen flashes “Photo Complete” and the person walks through — all without having to hand over ..."
+    publishedDateTime: 2023-05-16T10:00:00Z
+    webUrl: "https://thegrio.com/2023/05/16/despite-bias-concerns-tsa-tests-facial-recognition-software-at-more-airports/"
+    ampWebUrl: "https://thegrio.com/2023/05/16/despite-bias-concerns-tsa-tests-facial-recognition-software-at-more-airports/amp/"
+    cdnAmpWebUrl: "https://thegrio-com.cdn.ampproject.org/c/s/thegrio.com/2023/05/16/despite-bias-concerns-tsa-tests-facial-recognition-software-at-more-airports/amp/"
+    type: article
+    provider:
+      name: The Grio
+      domain: thegrio.com
+    quality: 71
+    images:
+      - url: "https://thegrio.com/wp-content/uploads/2023/05/AP23116691315221-scaled.jpg"
+        width: 2560
+        height: 1707
+        isCached: true
   - title: "TSA is testing facial recognition technology at more airports, raising privacy concerns"
     excerpt: "The Transportation Safety Administration says the technology is an effort to more accurately identify the millions of passengers traveling through its airports every day and that passengers can opt out."
     publishedDateTime: 2023-05-15T20:23:00Z
@@ -284,6 +300,6 @@ related:
       domain: thedailyrecord.com
     quality: 28
 
-secured: "RTDNdWFkGgxtozjYhhNQ+s7O1940YGsYjEpbJeQm3v5dW3k3KpEctJiitqmjXWfSd7vrmXHyKTbYg4FlFzBuNxpwN9nhhNE1oHxlz3A1S630SDaOPwBKlq/SvJBr8eARBenDZDy7YZ/bHzzzB82nl/xhuImHeuooHqvXWum05nwdGnO6ubQdmbPQrg03jbWD+4DnFZ5VQamtZd/WzjybqnAkxgmaswYqeY/qYJBtra9adDIA4+D6CGZh1eCi7qrlflc7vfnOTcsB7KZKdHOcOZS96f8j721t2sxVgQB++BTj4fZ/yjkpSlQKPFqFzBcdNAsX4QGvXZjKom7+ZWtztnwAcEpGMdcxz1BaNBbqgbc=;dav1Ek1NMbbQqowcCIAowA=="
+secured: "OphymiMdIzViOS3gwQxEgZzi6KEQRJiaQm2l60TmLhCwacHaZ+Ktxjql4sXjU0b2oRlO/5ZIfarO8Sg8AJ7OIgi1tGVcgvYSL8yLp8MtE0i5Ikm6F7YMK7Ngy+ivHJJlSM99x3QrMjFouJ3KGPT7F0hpmW/JU/sut4oXl0ZX2C0H37VJxN8lY/2L/CPZXfsCjJvrGxZ1kiLYCp1PhQ8CP7WeDEUhzw8J65a+B28dlkR4kkpA8jdGlHpc1dtynVkQapRzVDp3Cne6tm9QczITOUX7tJfupaz/rgDjwx856xwDJfsp32SoVVaIhngBjJaiOveSMzApesSY07488XB1AmM//akoqdnl+EMB2jwNO2k=;2LZHmq4peYr39mtFJfBGCA=="
 ---
 

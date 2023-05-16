@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/self-driving-or-driverle
 webUrl: "https://www.marketwatch.com/press-release/self-driving-or-driverless-cars-market-upto-2030-2023-05-14"
 type: article
 quality: 69
-heat: 159
+heat: 149
 published: true
 
 provider:
@@ -42,22 +42,6 @@ related:
       - url: "https://static01.nyt.com/images/2023/06/05/multimedia/0512HF-googleai-lwfv/0512HF-googleai-lwfv-facebookJumbo.jpg"
         width: 1050
         height: 550
-        isCached: true
-  - title: "UK To Roll Out First Driverless Bus Service"
-    excerpt: "The UK will roll out its first driverless bus network in Scotland next week with drivers on standby behind the steering wheel, ready to take control should an emergency arise."
-    publishedDateTime: 2023-05-11T15:12:00Z
-    webUrl: "https://www.ibtimes.com/uk-roll-out-first-driverless-bus-service-3692647"
-    ampWebUrl: "https://www.ibtimes.com/uk-roll-out-first-driverless-bus-service-3692647?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/uk-roll-out-first-driverless-bus-service-3692647?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 59
-    images:
-      - url: "https://d.ibtimes.com/en/full/4455931/driverless-bus-service-will-go-service-near-edinburgh-next-week.jpg"
-        width: 768
-        height: 511
         isCached: true
   - title: "UK to roll out first driverless bus service"
     excerpt: "The UK will roll out its first driverless bus network in Scotland next week with drivers on standby behind the steering wheel, ready to take control should an emergency arise."

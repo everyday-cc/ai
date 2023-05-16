@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI may be on its way to your doctor's office, but it's not ready to see patients"
-    excerpt: "Giant corporations like Microsoft and Google, plus many startups, are eyeing healthcare profits from programs based on artificial intelligence."
-    publishedDateTime: 2023-05-11T15:55:00Z
-    webUrl: "https://www.aol.com/news/ai-may-way-doctors-office-120037954.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 32
-    images:
-      - url: "https://s.yimg.com/cv/apiv2/aolfp/metadata/og-image.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "AI May Be on Its Way to Your Doctor’s Office, But It’s Not Ready to See Patients"
     excerpt: "Companies pushing the latest AI technology — known as “generative AI” — are ... Joshua Tamayo-Sarver, a clinician and executive with the startup Inflect Health, fed fictionalized patient scenarios based on his own practice in an emergency ..."
     publishedDateTime: 2023-05-12T09:46:00Z

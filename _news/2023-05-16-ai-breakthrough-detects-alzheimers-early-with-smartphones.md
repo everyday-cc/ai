@@ -7,7 +7,7 @@ originalUrl: "https://neurosciencenews.com/ai-smartphone-alzheimers-23251/"
 webUrl: "https://neurosciencenews.com/ai-smartphone-alzheimers-23251/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "A self-administered mobile app to detect Alzheimer's disease using speech data"
-    excerpt: "Alzheimer's disease (AD) is the most common form of dementia. It is important to start intervention from an early stage, e.g., the mild cognitive impairment (MCI) stage, to prevent or delay the progression of AD."
-    publishedDateTime: 2023-05-11T16:51:00Z
-    webUrl: "https://medicalxpress.com/news/2023-05-self-administered-mobile-app-alzheimer-disease.html"
-    ampWebUrl: "https://medicalxpress.com/news/2023-05-self-administered-mobile-app-alzheimer-disease.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-05-self-administered-mobile-app-alzheimer-disease.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 40
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2023/self-administered-mobi.jpg"
-        width: 1076
-        height: 674
-        isCached: true
   - title: "AI-powered tech to aid Cooper team in Alzheimer’s detection"
     excerpt: "Early detection is a key step in timely and accurate diagnosis so that patients can get emerging treatments and early-stage interventions,” said DigiCARE Realized CEO Brittany Cassin."
     publishedDateTime: 2023-05-15T16:43:00Z

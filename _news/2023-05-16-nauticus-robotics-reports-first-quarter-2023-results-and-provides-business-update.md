@@ -1,39 +1,34 @@
 ---
 category: news
 title: "Nauticus Robotics Reports First Quarter 2023 Results and Provides Business Update"
-excerpt: "Nauticus Robotics, Inc. (\"Nauticus\" or the \"Company\") (NASDAQ: KITT), a developer of autonomous robots using artificial intelligence for data collection and intervention"
-publishedDateTime: 2023-05-16T07:36:00Z
-originalUrl: "https://www.finanznachrichten.de/nachrichten-2023-05/59097943-nauticus-robotics-reports-first-quarter-2023-results-and-provides-business-update-399.htm"
-webUrl: "https://www.finanznachrichten.de/nachrichten-2023-05/59097943-nauticus-robotics-reports-first-quarter-2023-results-and-provides-business-update-399.htm"
+excerpt: "Nauticus Robotics, Inc. (\"Nauticus\" or the \"Company\") (NASDAQ:KITT), a developer of autonomous robots using artificial intelligence for data collection and intervention"
+publishedDateTime: 2023-05-15T20:05:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/23/05/g32405015/nauticus-robotics-reports-first-quarter-2023-results-and-provides-business-update"
+webUrl: "https://www.benzinga.com/pressreleases/23/05/g32405015/nauticus-robotics-reports-first-quarter-2023-results-and-provides-business-update"
 type: article
 quality: 29
 heat: -1
 published: false
 
 provider:
-  name: Finanznachrichten
-  domain: finanznachrichten.de
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Robotics
   - AI
 
 related:
-  - title: "Nauticus Robotics Bags $2.7 Million Contract Extension from Leidos"
-    excerpt: "Nauticus Robotics announced it has been awarded an additional $2.7 million under its current contract with Leidos for the"
-    publishedDateTime: 2023-05-11T16:50:00Z
-    webUrl: "https://www.marinetechnologynews.com/news/nauticus-robotics-million-contract-628103"
+  - title: "Quantum Computing Inc Announces First Quarter 2023 Financial Results"
+    excerpt: "Quantum Computing Inc. initiates commercialization of its technology during first quarter of 2023 and commenced multiple product launches to"
+    publishedDateTime: 2023-05-11T21:13:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/quantum-computing-inc-announces-first-quarter-2023-financial-results-1032319519"
     type: article
     provider:
-      name: marinetechnologynews.com
-      domain: marinetechnologynews.com
-    quality: 54
-    images:
-      - url: "https://images.marinetechnologynews.com/images/maritime/w800/photo-nauticus-robotics-140953.jpg"
-        width: 799
-        height: 419
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 34
 
-secured: "L6BaJZab+NNPukV3C7TIN7E2T4lef5/E+KOBhx+ZKcPMLGmWR29ZPuZwkAZMRIPltWY7nKa2gNNo7eCtlB7WlS/cjcYk8jWYpOIPOJ6y+HscSkyl2G4u3ZlxSKq0KIZz+O9DMx7TcV50CKX0nUxclHpVS1XvivIY38f8sR9TzXyvcX6X4raR5oq5YLHHPDEj6vlgkD4eMRz7m9Is3OPyzFYyHSFXdNb+GoYIH7EBqfEebxZXpE1g8AZg1xISBRlmIdzvW/ybQOLTSfOHfw6q0y2AO1x+AIlgM1ud9xDs9Sh8oM2RTbggXct9mB5JvK6igeisgSkFYBQQN2FET7Uvw+jJ2Kt106V9k0R3V4xFIQQ=;REIB2HY9UnfAmmCJTPfoDQ=="
+secured: "//P3YyOAraFD0o5Rb/94oXu9glgQfrCqxz1ZgOxNbQZus6lIMfBU9ZAtFCusNiE+f40U6mEU3urj1NyG1dnJnzZi2Q0VkSB/INtlqqIFicnj1CUrlfUoqUZPYoFUEmiH2v4ijRhCNvbAjFKDjvaQgkHzRNR0T3kZ2sNrl7Xv2kjwplUtvb/gud0k0yO1WcVi+fGqvLJU2ccYcZSr90id7chnW6iNW/iQuDh69e0YFaK74Jo5JC4KEUHmlVpss09qnUsOfN1vARrqqn/oRDMkAhpjDIsCyRrg+sJmrJn7xx08v9jQedUP06uYoyZPFRdHFOr8r8+RNBXIWzvFm123HJCBInaFscUhDjyGQSxrPPw=;aMsf/kjfafX2YybRJ5zkGA=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/revolutionary-chang
 cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/revolutionary-changes-by-artificial-intelligence/?source=app&frmapp=yes"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -59,6 +59,15 @@ related:
         width: 1280
         height: 851
         isCached: true
+  - title: "Bitpanda invests $10m in AI to “revolutionise” wealth creation"
+    excerpt: "Austrian fintech Bitpanda is investing $10m into artificial intelligence to establish Bitpanda.ai. The investment marks the first move towards establishing a dedicated AI division for the company, which was founded by Eric Demuth,"
+    publishedDateTime: 2023-05-16T08:04:00Z
+    webUrl: "https://www.altfi.com/article/10693_bitpanda-invests-10m-in-ai-to-revolutionise-wealth-creation"
+    type: article
+    provider:
+      name: altfi
+      domain: altfi.com
+    quality: 19
 
 secured: "sPjpAYH6hxiXRLRKwyLCeLxsMDk5g0tPO7YpCjmpBnDjdP1SVXFyXVgs8cW8IbEwvxeqAHzy1Ho73S7w6wzoa+Ibi6qHJvi1y6UhicrTSdOlMpAC+X3IfjWOCrEPmiy5NXULj56C+sqIGR53TKxfLrx4qnvUKm2H0HyoBtVpxKIE5fUGYkBMyrQojIoj2EwTSb4d/t7OsrPi/NHKG6oRDMrUG18VzCP7c3Z4AmOIhGB1QNM7nl5Ay6g8wpSubQo7C8I8rRXa4mUpiE5KSYGOMiySpK3qWCvIjmAllYas8UlfXbp7jRWw4rJL0J7MsYoMtblhYrnfBile3rJUBIKE34xWhRj4NeIKfQ4Zamh7stQ=;9+A9bOSRxxwCpVy7PuZ4mA=="
 ---

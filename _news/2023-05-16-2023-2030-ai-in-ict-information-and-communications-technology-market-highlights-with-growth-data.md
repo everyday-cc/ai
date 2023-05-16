@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/2023-2030-ai-in-ict-info
 webUrl: "https://www.marketwatch.com/press-release/2023-2030-ai-in-ict-information-and-communications-technology-market-highlights-with-growth-data-2023-05-15"
 type: article
 quality: 35
-heat: -1
+heat: 35
 published: false
 
 provider:
@@ -21,101 +21,6 @@ provider:
 topics:
   - Facebook AI
   - AI
-
-related:
-  - title: "Edge AI Chips Market Future Scope and Growth Status 2028"
-    excerpt: "What is the Computer-aided Design (CAD) market growth? Computer-aided Design (CAD) Market Size is projected to Reach Multimillion USD by 2028, In comparison to 2023, at unexpected CAGR during the forecast Period 2023-2028."
-    publishedDateTime: 2023-05-11T19:05:00Z
-    webUrl: "https://www.marketwatch.com/press-release/edge-ai-chips-market-future-scope-and-growth-status-2028-2023-05-11"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 84
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence Market 2023 to Experience Significant Growth by 2030"
-    excerpt: "Global “Artificial Intelligence Market” 2023 | New Report | New Technology Global Industry | (94 Pages Report) With"
-    publishedDateTime: 2023-05-15T13:48:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-2023-to-experience-significant-growth-by-2030-2023-05-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 64
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "2023 Artificial Intelligence-as-a-Service (AIaaS) Market Regional Outlook and Future Growth Scenario till 2030"
-    excerpt: "Market 2023 research is a key process that helps businesses gather and analyze information about their target Artificial Intelligence-as-a-Service (AIaaS) market, customers, competitors, and industry trends."
-    publishedDateTime: 2023-05-15T18:16:00Z
-    webUrl: "https://www.marketwatch.com/press-release/2023-artificial-intelligence-as-a-service-aiaas-market-regional-outlook-and-future-growth-scenario-till-2030-2023-05-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 62
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "2030, Artificial Intelligence as a Service Market Growth | Future Prospects and Competitive Analysis"
-    excerpt: "The \"Artificial Intelligence as a Service Market\" is one of the sectors that is expanding the fastest, thus it is"
-    publishedDateTime: 2023-05-15T15:58:00Z
-    webUrl: "https://www.marketwatch.com/press-release/2030-artificial-intelligence-as-a-service-market-growth-future-prospects-and-competitive-analysis-2023-05-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 52
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "2030, Artificial Intelligence in Construction Market Growth | Future Prospects and Competitive Analysis"
-    excerpt: "The \"Artificial Intelligence in Construction Market\" is one of the sectors that is expanding the fastest, thus it"
-    publishedDateTime: 2023-05-11T22:09:00Z
-    webUrl: "https://www.marketwatch.com/press-release/2030-artificial-intelligence-in-construction-market-growth-future-prospects-and-competitive-analysis-2023-05-11"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 51
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Voice Recognition Market: Future Demands and Projected Industry Growths to 2028"
-    excerpt: "The voice recognition market is expected to exhibit substantial growth by 2028, owing to notable technological advancements in the sector. Additionally, prevalent incorporation of the technology in diverse applications is likely to further drive market expansion through the forecast period."
-    publishedDateTime: 2023-05-15T14:54:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-future-demands-and-projected-industry-growths-to-2028-2023-05-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 50
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence in Oil and Gas Market by 2030"
-    excerpt: "Precision Reports has published a new report titled as \"Artificial Intelligence in Oil and Gas Market\" by End User"
-    publishedDateTime: 2023-05-13T05:16:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-oil-and-gas-market-by-2030-2023-05-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 47
 
 secured: "vdE/ID4AvieiGU4hNDSxfdJ1mc7tgyl6Zt/y4hxu7asFs/cnESaoxsZksfmKWduVmNQUB8FEb/U7f286ap2j3Xix4c+wameoh4uRtGH/ZHhAMfDnl6hj/SsWU6jeEFkgHzNLcd3ljExlnyrwQOCX10xJ6Gg1YkNHqjvdYpbr4ww8T52GBpTT/QWACw/at/AdXSwh/ZiTlhbC5Csj3njCfN9Tlof9f76cW0CGoUtLx3eaQ1ujb+p34nwYlhq/x9U635y8LJPLpWV+7C2uCyNiSnGrX57cF5QOP9N3jvLMDNgg8bLWIpXHoWJuYiYlBEYeWINRAnCmvBEV2LY+rL46Wqgcm6IAx18mH1GUEZgs/R4=;Qs5XXdsQZ35AW3qZUGp2xg=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://insidehpc.com/2023/05/googles-launches-ai-supercomputer-po
 webUrl: "https://insidehpc.com/2023/05/googles-launches-ai-supercomputer-powered-by-tens-of-thousands-of-nvidia-h100-gpus/"
 type: article
 quality: 28
-heat: -1
+heat: 28
 published: false
 
 provider:
@@ -17,17 +17,6 @@ provider:
 topics:
   - AI Hardware
   - AI
-
-related:
-  - title: "PC with Nvidia L4 GPU for industrial edge AI"
-    excerpt: "Advantech is aiming at industrial AI with a computer that combines a 12th Gen Intel Core (i9, i7, i5 or i3) CPU with Nvidia's L4 GPU. Two slim doors"
-    publishedDateTime: 2023-05-12T12:12:00Z
-    webUrl: "https://www.electronicsweekly.com/news/products/bus-systems-sbcs/pc-with-nvidia-l4-gpu-for-industrial-edge-ai-2023-05/"
-    type: article
-    provider:
-      name: Electronics Weekly
-      domain: electronicsweekly.com
-    quality: 34
 
 secured: "vD8AmTdOpLCpPpljgekArKpFpoF4T3sQz0y+ogTLoNSkFtKQ2N63+c/d4VpECppFYYbVCPkPjQK0tx6ON6kT51XrAv4+/GuCulbYdkSiqOwCWDye4Xm8VTJJrivtHN+0W+nDUOx5kp4/QA1gaqrrQ+b85ukrgIoo+2bRxurmqIpP6t6Cq4AqMnqpn2cDNgCbwTuQX5k5e2pviZDzfz1teZv41CW8Ca47f17iCMIbtGWBWodJNkb2zC9j2GAAOVLIDzR2cf94AfLRFlrfRroJKhvD+PTwJh52kwFHO66MU5vnPmfR0NdzNsQOZYqSAk6juzShHciqeT5FVu7IjEIpt+s0O07ZZPiAoRfLs/003xM=;7o4bNzMal2ih3SLFCy8nLA=="
 ---

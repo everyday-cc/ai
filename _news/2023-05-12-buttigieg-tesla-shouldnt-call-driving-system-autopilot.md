@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Musk Would Compound Tesla Automated-Driving Risk With Free Trial"
-    excerpt: "Regulators are already swirling, and some customers have paid $15,000 for features the CEO is prepared to give away for a month."
-    publishedDateTime: 2023-05-11T15:30:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-05-11/musk-would-compound-tesla-automated-driving-risk-with-free-trial"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 69
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iRwyAU42Epw8/v1/1200x900.jpg"
-        width: 1200
-        height: 900
-        isCached: true
   - title: "Tesla to roll out free Full Self-Driving software, but there's a catch"
     excerpt: "Tesla will initially roll out the FSD as a free trial version for one month before initiating a subscription for the users."
     publishedDateTime: 2023-05-15T07:41:00Z
@@ -65,6 +51,63 @@ related:
         width: 1920
         height: 1040
         isCached: true
+  - title: "Tesla shouldn’t call driving system Autopilot because humans are still in control, Buttigieg says"
+    excerpt: "WASHINGTON — Tesla shouldn’t be calling its partially automated driving system Autopilot because the cars can’t drive themselves, the top U.S. transportation official says. Transportation Secretary Pete Buttigieg says he’s concerned about Tesla’s marketing of the system,"
+    publishedDateTime: 2023-05-12T02:53:00Z
+    webUrl: "https://www.twincities.com/2023/05/11/tesla-shouldnt-call-driving-system-autopilot-because-humans-are-still-in-control-buttigieg-says/"
+    ampWebUrl: "https://www.twincities.com/2023/05/11/tesla-shouldnt-call-driving-system-autopilot-because-humans-are-still-in-control-buttigieg-says/amp/"
+    cdnAmpWebUrl: "https://www-twincities-com.cdn.ampproject.org/c/s/www.twincities.com/2023/05/11/tesla-shouldnt-call-driving-system-autopilot-because-humans-are-still-in-control-buttigieg-says/amp/"
+    type: article
+    provider:
+      name: TwinCities.com
+      domain: twincities.com
+    quality: 46
+    images:
+      - url: "https://www.twincities.com/wp-content/uploads/2023/05/AP21179015976166.jpg?w=1024&h=576"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Tesla shouldn't call driving system Autopilot because humans are still in control, Buttigieg says"
+    excerpt: "Not everyone is thrilled by the idea of using *** self driving car amid *** string of headlines about Tesla's seemingly random car crashes while an autopilot triple *** conducted *** survey of nearly 1000 adults and found 68% said they are afraid of fully ..."
+    publishedDateTime: 2023-05-13T15:49:00Z
+    webUrl: "https://www.wtae.com/article/buttigieg-says-tesla-shouldnt-call-driving-system-autopilot/43882392"
+    ampWebUrl: "https://www.wtae.com/amp/article/buttigieg-says-tesla-shouldnt-call-driving-system-autopilot/43882392"
+    cdnAmpWebUrl: "https://www-wtae-com.cdn.ampproject.org/c/s/www.wtae.com/amp/article/buttigieg-says-tesla-shouldnt-call-driving-system-autopilot/43882392"
+    type: article
+    provider:
+      name: WTAE-TV
+      domain: wtae.com
+    quality: 46
+    images:
+      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/gettyimages-1177714952-645fa97026493.jpg?crop=1.00xw:0.817xh;0,0&resize=1200:*"
+        width: 1024
+        height: 578
+        isCached: true
+  - title: "Tesla shouldn't call driving system Autopilot because humans are still in control, Buttigieg says"
+    excerpt: "The top U.S. transportation official says Tesla shouldn’t call its partially automated driving system Autopilot because the cars can’t drive themselves. Transportation Secretary Pete Buttigieg says he"
+    publishedDateTime: 2023-05-14T07:45:00Z
+    webUrl: "https://www.normantranscript.com/news/tesla-shouldnt-call-driving-system-autopilot-because-humans-are-still-in-control-buttigieg-says/article_aeba988a-f011-11ed-b34e-d7fe014a9e6f.html"
+    ampWebUrl: "https://www.normantranscript.com/news/tesla-shouldnt-call-driving-system-autopilot-because-humans-are-still-in-control-buttigieg-says/article_aeba988a-f011-11ed-b34e-d7fe014a9e6f.amp.html"
+    cdnAmpWebUrl: "https://www-normantranscript-com.cdn.ampproject.org/c/s/www.normantranscript.com/news/tesla-shouldnt-call-driving-system-autopilot-because-humans-are-still-in-control-buttigieg-says/article_aeba988a-f011-11ed-b34e-d7fe014a9e6f.amp.html"
+    type: article
+    provider:
+      name: The Norman Transcript
+      domain: normantranscript.com
+    quality: 46
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/normantranscript.com/content/tncms/assets/v3/editorial/4/70/47085318-cab0-50bd-bd13-4d247b2a17ef/645d0b8fe607b.image.jpg?resize=1024%2C682"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "Tesla shouldn’t call driving system Autopilot, Buttigieg says"
+    excerpt: "WASHINGTON >> Tesla shouldn’t be calling its partially automated driving system Autopilot because the cars can’t drive themselves, the top U.S. transportation official says."
+    publishedDateTime: 2023-05-11T19:30:00Z
+    webUrl: "https://www.staradvertiser.com/2023/05/11/breaking-news/tesla-shouldnt-call-driving-system-autopilot-buttigieg-says/"
+    type: article
+    provider:
+      name: Honolulu Star-Advertiser
+      domain: staradvertiser.com
+    quality: 19
 
 secured: "trvXQGZi6Q+hEnRwJ0Hias2jprhiijgvKeRg+ToH4FQ9XCpkAkzk+L+RfX4dP34l+PR40wKL4G+ZJmEcGt3obcuBarguINb/9PZrC0mvSgQjwEqTu8FGLG8hUZdH6DtLDfjIPXtTXS2gf7Wjtt9GxoTj61WZMNpjQlCGJX5ODp1Y2CsOnvOxTa4EvKAVFjrY1tjenPI7vXySARUpqxST+wS/0IVguJcON+gVa8BaJRn7AtciAAW+c/Q9TKAhEYSuvuhNOkWM7rAuw0Tidbly0DL0X4GQLH2R/jmgbDX00nWMF/nzZud+R2JZj/p8bdatG6ScvlypSzaZ8eNALcgOGhJVGT5muRmx0/aFLF/ktio=;fimbTEqpPGtayIAxBuZO5w=="
 ---

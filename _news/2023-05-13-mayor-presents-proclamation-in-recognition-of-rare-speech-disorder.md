@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Speech Recognition Software Market Till 2030"
-    excerpt: "The Global Speech Recognition Software market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players,"
-    publishedDateTime: 2023-05-12T13:19:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-recognition-software-market-till-2030-2023-05-12"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Deep Learning in CT Scanners Market | 2030"
     excerpt: "Precision Reports has published a new report titled as \" Deep Learning in CT Scanners Market \" by End User ( Hospital, Diagnostic Center, Research, Veterinary Clinic ), Types ( Stationary, Portable ),"
     publishedDateTime: 2023-05-13T05:13:00Z
@@ -81,20 +67,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Construction Market | 2030"
-    excerpt: "The Global Artificial Intelligence in Construction market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key ..."
-    publishedDateTime: 2023-05-15T01:09:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-construction-market-2030-2023-05-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 67
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence in Insurance Market | 2030"
     excerpt: "Research Reports has published a new report titled as \" Artificial Intelligence in Insurance Market \" by End User ( Chatbots and Virtual Assistants, Fraud Detection, Customer Relationship Management,"
     publishedDateTime: 2023-05-15T00:04:00Z
@@ -109,29 +81,29 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Facial Recognition Market Share, Size, Segmentation Analysis, Key segments and Forecast 2031"
-    excerpt: "Global Facial Recognition Market – Drivers’ Restraints’ Opportunities’ Trends’ and Forecast up to 2025. Facial Recognition Market is approximately USD 5 billion market that is expected to double by 2025."
-    publishedDateTime: 2023-05-15T15:10:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-share-size-segmentation-analysis-key-segments-and-forecast-2031-2023-05-15"
+  - title: "2023, Face Recognition Systems Market | Global Industry Analysis Till 2030"
+    excerpt: "Face Recognition Systems Market | Outlook 2023-2028 | Pre and Post-COVID Research is Covered, Report Information |"
+    publishedDateTime: 2023-05-16T06:17:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-face-recognition-systems-market-global-industry-analysis-till-2030-2023-05-16"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 58
+    quality: 67
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Facial Recognition Access Control Solutions Market 2023-2030 with Emerging Trends and Technologies"
-    excerpt: "Additionally, the report [117 Pages] examines emerging technological developments and RandD spending by key vendors. It comprehensively covers critical elements such as global Facial Recognition Access Control Solutions market share,"
-    publishedDateTime: 2023-05-11T17:53:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-access-control-solutions-market-2023-2030-with-emerging-trends-and-technologies-2023-05-11"
+  - title: "Speech & Voice Recognition Systems Market 2023-2030"
+    excerpt: "May 16, 2023 (The Expresswire) -- Speech and Voice Recognition Systems Market | Outlook 2023-2028 | Pre and Post-COVID Research is Covered, Report Information | Newest 116 Pages Report The extent and overview of the various commercial opportunities ..."
+    publishedDateTime: 2023-05-16T10:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-voice-recognition-systems-market-2023-2030-2023-05-16"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 55
+    quality: 54
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -151,19 +123,19 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Top 7 Use Cases For Facial Recognition In 2023"
-    excerpt: "The demand for AI face recognition technology is rising quickly on a global scale. By 2028, the market is expected to have grown from $5 billion to over $13 billion. Business executives must consider several variables before starting any projects when employing facial recognition technology,"
-    publishedDateTime: 2023-05-11T16:17:00Z
-    webUrl: "https://techbullion.com/top-7-use-cases-for-facial-recognition-in-2023/"
+  - title: "Voice Recognition Market: Future Demands and Projected Industry Growths to 2028"
+    excerpt: "The voice recognition market is expected to exhibit substantial growth by 2028, owing to notable technological advancements in the sector. Additionally, prevalent incorporation of the technology in diverse applications is likely to further drive market expansion through the forecast period."
+    publishedDateTime: 2023-05-15T14:54:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-future-demands-and-projected-industry-growths-to-2028-2023-05-15"
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 39
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
     images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/05/20210201002126713_img-1000x600.jpg"
-        width: 1000
-        height: 600
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "2023-2029 \"Facial Recognition Access Control Solutions Market\" volume sale, Trends and Market Overview | Report Reviewed by Experts"
     excerpt: "May 15, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" A market research report has"

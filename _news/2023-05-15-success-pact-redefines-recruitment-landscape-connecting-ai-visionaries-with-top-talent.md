@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "The Intersection of AI Across 6 Major Industries: Exploring Latest AI Applications From Business Perspective"
+    excerpt: "The increasing prevalence of AI applications in various industries, including finance, healthcare, legal, technology, marketing, and sales, demonstrates a promising future for the business landscape."
+    publishedDateTime: 2023-05-15T20:20:00Z
+    webUrl: "https://www.unite.ai/the-intersection-of-ai-across-6-major-industries-exploring-latest-ai-applications-from-business-perspective/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 20
+    images:
+      - url: "https://www.unite.ai/wp-content/uploads/2023/05/image1-1000x600.jpg"
+        width: 1000
+        height: 600
+        isCached: true
   - title: "Success Pact redefines Recruitment Landscape, Connecting AI Visionaries with Top Talent"
     excerpt: "Success Pact, a major recruitment firm, has established new standards in sourcing talent for AI-driven startups. The agency which specializes in sourcing high-quality professionals in various industries has set a new milestone by helping a fintech startup,"
     publishedDateTime: 2023-05-16T02:08:00Z

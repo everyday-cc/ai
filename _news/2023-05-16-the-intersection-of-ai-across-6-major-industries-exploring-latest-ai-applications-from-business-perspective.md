@@ -25,31 +25,29 @@ images:
     isCached: true
 
 related:
-  - title: "Robotics and artificial intelligence: Building blocks of fourth industrial revolution introduction"
-    excerpt: "While the integration of robotics and AI in education presents exciting opportunities, several challenges must be overcome for their adoption"
-    publishedDateTime: 2023-05-12T06:38:00Z
-    webUrl: "https://www.dqindia.com/robotics-and-artificial-intelligence-building-blocks-of-fourth-industrial-revolution-introduction/"
-    ampWebUrl: "https://www.dqindia.com/robotics-and-artificial-intelligence-building-blocks-of-fourth-industrial-revolution-introduction/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/robotics-and-artificial-intelligence-building-blocks-of-fourth-industrial-revolution-introduction/amp/"
+  - title: "Success Pact redefines Recruitment Landscape, Connecting AI Visionaries with Top Talent"
+    excerpt: "Success Pact, a major recruitment firm, has established new standards in sourcing talent for AI-driven startups. The agency which specializes in sourcing high-quality professionals in various industries has set a new milestone by helping a fintech startup,"
+    publishedDateTime: 2023-05-15T14:30:00Z
+    webUrl: "https://www.business-standard.com/content/press-releases-ani/success-pact-redefines-recruitment-landscape-connecting-ai-visionaries-with-top-talent-123051500993_1.html"
     type: article
     provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 55
-  - title: "Voice Recognition and Medical Transcription"
-    excerpt: "It would be unfair to look at voice-recognition transcription options without mentioning one of the largest movements in the medical transcription industry -- outsourcing transcription offshore."
-    publishedDateTime: 2023-05-12T00:01:00Z
-    webUrl: "https://www.medscape.com/viewarticle/487524_5"
-    type: article
-    provider:
-      name: Medscape
-      domain: medscape.com
-    quality: 24
+      name: Business Standard
+      domain: business-standard.com
+    quality: 31
     images:
-      - url: "https://img.medscape.com/thumbnail_library/Social_Facebook_806x806.jpg"
-        width: 640
-        height: 640
+      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2023-05/15/full/20230515184655.jpg"
+        width: 600
+        height: 450
         isCached: true
+  - title: "Success Pact redefines Recruitment Landscape, Connecting AI Visionaries with Top Talent"
+    excerpt: "Success Pact, a major recruitment firm, has established new standards in sourcing talent for AI-driven startups. The agency which specializes in sourcing high-quality professionals in various industries has set a new milestone by helping a fintech startup,"
+    publishedDateTime: 2023-05-16T02:08:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Business/20230515/4074090.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 11
 
 secured: "jk6l+SnPxihGI7Jal0JeTo4vfJ73aInM9LH7PCyvkzbdmr3e/zv/MV1AdqrujUvFdnS6aHiA3yE7jk/0AbGT+/ik9V5EPD8R8xm4tm/Jw/OD+7Pfyijp0P4679h+2rrNXnouhZInUtmIM7DHbfi1WfKqBxZEZGXwi5adcld8x35NyZtPw7xczjlssEQK56Jx8gIabfCSkQOdMjGW3GFiyGRT5d33wCX6dFTLHLIf5Rj6JnQ0RihxaPDTLbAR2X+xLDgWh8hyPMqLNJos/hdEs824uHN6a2dGhsUWfXbfhf5dPwHYNanDD6FftcSynZ3JO4pxhP5HRR4h3Iqamd4O0iltEHkKjHBP1HSB/0BpQiyE9YbH/aRrZaIrq+5MiBDnRGywvHpJ944yw5LWsmLG9qg8MFxkoba8B4tXtGDA3NbZd2jOiA9oWBmVfArDObrFwcF83Khv8iMhsp5NJLADvSR7Ypii/DYrh/okiKQw+rh1iCb0GGFU36suA507dc7zCUyLEg7oZiWJR/XkjBCH4Q==;1PY8VLaCx24VER7W8StGdw=="
 ---

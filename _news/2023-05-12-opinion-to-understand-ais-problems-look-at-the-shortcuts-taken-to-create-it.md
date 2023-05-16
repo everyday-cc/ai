@@ -9,8 +9,8 @@ ampWebUrl: "https://techxplore.com/news/2023-05-opinion-ai-problems-shortcuts.am
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-05-opinion-ai-problems-shortcuts.amp"
 type: article
 quality: 55
-heat: 75
-published: true
+heat: 65
+published: false
 
 provider:
   name: techxplore
@@ -43,17 +43,6 @@ related:
         width: 1356
         height: 668
         isCached: true
-  - title: "To understand AI’s problems look at the shortcuts taken to create it"
-    excerpt: "If we want to understand how to handle AI, we can return to a crisis that hit the industry from the late 1980s, when many researchers were still trying to mimic what we thought humans do. For example, they were trying to understand the rules of language or human reasoning, to program them into machines."
-    publishedDateTime: 2023-05-11T17:43:00Z
-    webUrl: "https://theconversation.com/to-understand-ais-problems-look-at-the-shortcuts-taken-to-create-it-204882"
-    ampWebUrl: "https://theconversation.com/amp/to-understand-ais-problems-look-at-the-shortcuts-taken-to-create-it-204882"
-    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/to-understand-ais-problems-look-at-the-shortcuts-taken-to-create-it-204882"
-    type: article
-    provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 39
 
 secured: "Hz2Imc1RryCDvsVRZ9ITAXiXjubn29xFGH28RSCLsyn5ZWoow+KO6PW7sW0PvdlNoLryn4YvXp7kIZPi2+rIaYCizcp56+e67sfjdYt0QhI2Yf0bOIZscVIy3ODVXYdBGRjVCiKLTElNJyb6qHAccV0G53ha0y2KU1UADqxfDsAFhdK+pndgw8U+G7P+FALmymzJox244vH0cblaRjLFVKeiA50OG80FJIMhNtMbWLQCrq5mjDHQYs5nC0zUl0zBMbUXMLuJiL6PvZz44lk019vZTGDU4LIXLtQ6aUgOkOm2CWqx1y8raxmvg6ryLNq6VVrMLzQEULEv2NX7B3S5DL7w/xhU452u+XtSkj+w8lI=;0bKliARw+OxkcPgDlaNZ1w=="
 ---

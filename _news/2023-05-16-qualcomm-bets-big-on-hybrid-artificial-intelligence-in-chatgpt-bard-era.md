@@ -1,0 +1,242 @@
+---
+category: news
+title: "Qualcomm bets big on Hybrid artificial intelligence in ChatGPT, Bard era"
+excerpt: "AI models with more than 1 billion parameters are already running on phones with performance and accuracy levels similar to those of the cloud"
+publishedDateTime: 2023-05-16T09:49:00Z
+originalUrl: "https://www.business-standard.com/technology/tech-news/qualcomm-bets-big-on-hybrid-artificial-intelligence-in-chatgpt-bard-era-123051600345_1.html"
+webUrl: "https://www.business-standard.com/technology/tech-news/qualcomm-bets-big-on-hybrid-artificial-intelligence-in-chatgpt-bard-era-123051600345_1.html"
+type: article
+quality: 16
+heat: -1
+published: false
+
+provider:
+  name: Business Standard
+  domain: business-standard.com
+
+topics:
+  - AI
+
+related:
+  - title: "Combining Generative AI ChatGPT Into Handguns Triggers Fiery Response"
+    excerpt: "Would handguns be better with generative AI onboard, or is this a non-starter? Either way, it is a highly controversial topic. See what it is all about."
+    publishedDateTime: 2023-05-15T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/05/15/combining-generative-ai-chatgpt-into-handguns-triggers-fiery-response/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/05/15/combining-generative-ai-chatgpt-into-handguns-triggers-fiery-response/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/05/15/combining-generative-ai-chatgpt-into-handguns-triggers-fiery-response/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 91
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/645bfa0c8aa4ed65ec653182/0x0.jpg?format=jpg&crop=3887,2914,x350,y0,safe&width=1200"
+        width: 1200
+        height: 900
+        isCached: true
+  - title: "ChatGPT: Everything you need to know about the AI-powered chatbot"
+    excerpt: "Here's a guide to help understand Open AI's viral text-generating system. We outline the most recent updates and answer the most common FAQs."
+    publishedDateTime: 2023-05-12T18:22:00Z
+    webUrl: "https://techcrunch.com/2023/05/12/chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot/"
+    ampWebUrl: "https://techcrunch.com/2023/05/12/chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/12/chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 89
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1462188043.jpg?resize=1200,798"
+        width: 1200
+        height: 798
+        isCached: true
+  - title: "Amazon job listings hint at ChatGPT-like conversational AI for online store"
+    excerpt: "A pair of job listings suggest that Amazon is looking for engineers who could help create “an interactive conversational experience.\""
+    publishedDateTime: 2023-05-15T22:34:00Z
+    webUrl: "https://venturebeat.com/ai/amazon-job-listings-hint-at-chatgpt-like-conversational-ai-for-online-store/"
+    ampWebUrl: "https://venturebeat.com/ai/amazon-job-listings-hint-at-chatgpt-like-conversational-ai-for-online-store/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/amazon-job-listings-hint-at-chatgpt-like-conversational-ai-for-online-store/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 85
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/05/AMZN-1.jpg?w=1200&strip=all"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "ChatGPT and Generative AI in Media and Advertising: With Use Cases Set, the Battle for Hearts and Minds Begins"
+    excerpt: "Generative AI can already do much of the work and low-skilled labor that powers modern media and advertising."
+    publishedDateTime: 2023-05-12T17:00:00Z
+    webUrl: "https://www.businessinsider.com/generative-ai-media-and-advertising-battle-for-hearts-use-cases-2023-may"
+    ampWebUrl: "https://www.businessinsider.com/generative-ai-media-and-advertising-battle-for-hearts-use-cases-2023-may?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/generative-ai-media-and-advertising-battle-for-hearts-use-cases-2023-may?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 67
+    images:
+      - url: "https://i.insider.com/64402b373f6f690018de8d48?width=1200&format=jpeg"
+        width: 470
+        height: 352
+        isCached: true
+  - title: "Dr. ChatGPT: A guide to generative AI in healthcare"
+    excerpt: "ChatGPT is a public-facing generative AI text application from OpenAI. OpenAI has developed other generative AI applications available for paying customers and is working with Microsoft, which made a reported $100 billion investment in the company. Other big tech firms such as Google and Meta have launched their own generative AI tools."
+    publishedDateTime: 2023-05-15T10:00:00Z
+    webUrl: "https://www.modernhealthcare.com/digital-health/chatgpt-healthcare-everything-to-know-generative-ai-artificial-intelligence"
+    type: article
+    provider:
+      name: Modern Healthcare
+      domain: modernhealthcare.com
+    quality: 54
+    images:
+      - url: "https://www.modernhealthcare.com/s3/files/styles/1200x630/public/Chat-GPT-healthcare-2%20%281%29.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "edX Debuts Two AI-Powered Learning Assistants Built on ChatGPT"
+    excerpt: "X plugin launches in ChatGPT plugin store to give users access to content and course discovery edX Xpert delivers AI-powered learning and"
+    publishedDateTime: 2023-05-12T14:14:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/edx-debuts-two-ai-powered-learning-assistants-built-on-chatgpt-1032322930"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
+  - title: "ChatGPT: The game-changing AI-language model and its implications on enterprise automation"
+    excerpt: "ChatGPT has gained global attention and recognition, yet its impact on enterprise automation remains an area not fully explored. Analyzing it from the standpoint of intelligent automation can reveal its potential impact on the"
+    publishedDateTime: 2023-05-14T10:03:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/chatgpt-the-game-changing-ai-language-model-and-its-implications-on-enterprise-automation/?source=app&frmapp=yes"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/chatgpt-the-game-changing-ai-language-model-and-its-implications-on-enterprise-automation/?source=app&frmapp=yes"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/chatgpt-the-game-changing-ai-language-model-and-its-implications-on-enterprise-automation/?source=app&frmapp=yes"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 49
+    images:
+      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/08/Sanjeev-Menon.png"
+        width: 573
+        height: 413
+        isCached: true
+  - title: "ChatGPT’s Sam Altman Faces Senate Panel Examining Artificial Intelligence"
+    excerpt: "Photo illustration: Elena Scotti WASHINGTON—The chief executive of ChatGPT creator OpenAI is set to testify before a Senate panel Tuesday as lawmakers begin a bipartisan push toward regulating the powerful new artificial-intelligence tools available to ..."
+    publishedDateTime: 2023-05-16T09:30:00Z
+    webUrl: "https://www.wsj.com/articles/chatgpts-sam-altman-faces-senate-panel-examining-artificial-intelligence-4bb6942a"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 46
+  - title: "ChatGPT and Generative AI: Our Guide to 2023's Most Talked-About Technology"
+    excerpt: "ChatGPT brought generative AI into the limelight when it hit 1 million users in five days. But how valid is the buzz around ChatGPT?"
+    publishedDateTime: 2023-05-12T18:30:00Z
+    webUrl: "https://www.businessinsider.com/chatgpt-generative-ai-guide-to-2023-most-talked-about-technology-2023-may"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 45
+  - title: "AI Wars: Google’s Improved Bard Is Ready to Take On OpenAI’s ChatGPT"
+    excerpt: "When it comes to AI chatbots, we all love OpenAI's ChatGPT, but Google's Bard has everything that makes us drool—for free."
+    publishedDateTime: 2023-05-12T22:34:00Z
+    webUrl: "https://decrypt.co/139953/google-bard-openai-chatgpt-ai-wars"
+    type: article
+    provider:
+      name: decrypt
+      domain: decrypt.co
+    quality: 39
+    images:
+      - url: "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/05/Leonardo_Diffusion_photorealistic_render_of_A_screen_depicting_1-1-gID_7.png@png"
+        width: 1024
+        height: 512
+        isCached: true
+  - title: "ChatGPT and Generative AI in Insurance: Reality, Hype, What's Next, and How to Prepare"
+    excerpt: "ChatGPT is the most talked-about technology of 2023 and has piqued the interest of insurance industry leaders."
+    publishedDateTime: 2023-05-12T18:00:00Z
+    webUrl: "https://www.businessinsider.com/generative-ai-in-insurance-reality-next-hype-how-to-prepare-2023-may"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 39
+  - title: "Kagan: What’s the next move for Meta with metaverse down, AI ChatGPT up?"
+    excerpt: "As interest and intrigue in ChatGPT overtakes that of the metaverse, one analyst asks: Should Meta change its vision?"
+    publishedDateTime: 2023-05-15T15:22:00Z
+    webUrl: "https://www.rcrwireless.com/20230515/metaverse/kagan-whats-the-next-move-for-meta-with-metaverse-down-ai-chatgpt-up"
+    type: article
+    provider:
+      name: RCR Wireless News
+      domain: rcrwireless.com
+    quality: 38
+    images:
+      - url: "https://www.rcrwireless.com/wp-content/uploads/2022/12/176512315_s.jpg"
+        width: 844
+        height: 567
+        isCached: true
+  - title: "ChatGPT on Mars: How AI can help scientists study the Red Planet"
+    excerpt: "Steve Ruff, associate research professor at Arizona State University's School of Earth and Space Exploration in Tempe, Arizona, is keenly tied to studying Mars."
+    publishedDateTime: 2023-05-14T10:00:00Z
+    webUrl: "https://www.space.com/artificial-intelligence-chatgpt-mars"
+    type: article
+    provider:
+      name: Space.com
+      domain: space.com
+    quality: 37
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/B6gVBJ4kwYSsESKTc9XXNK-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "ChatGPT iPhone app Omni AI adds on-device voice recognition in latest update"
+    excerpt: "Omni AI, a ChatGPT-powered app for the iPhone, just added on-device voice recognition for its AI assistant in a recent update."
+    publishedDateTime: 2023-05-15T20:13:00Z
+    webUrl: "https://bgr.com/tech/chatgpt-iphone-app-omni-ai-adds-on-device-voice-recognition-in-latest-update/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 36
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2023/05/Omni-AI-iPhone-app.jpg?quality=82&strip=all"
+        width: 1401
+        height: 931
+        isCached: true
+  - title: "Japanese digital minister pushes for AI use, but ChatGPT does not know who he is"
+    excerpt: "I asked ChatGPT who Kono Taro is and he came back with the wrong answer,” Mr Kono said in an interview with Bloomberg Television broadcast on Monday. “So you need to be careful,” he added. Mr Kono asks that his name be written in Japanese style,"
+    publishedDateTime: 2023-05-15T00:53:00Z
+    webUrl: "https://www.straitstimes.com/asia/east-asia/japanese-digital-minister-pushes-for-ai-use-but-chatgpt-does-not-know-who-he-is"
+    type: article
+    provider:
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 34
+    images:
+      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2023/05/15/d5870040_0.jpg?VersionId=_hBCtc_r5VIlCWOxmn0yo9tYnSXsnUUW"
+        width: 860
+        height: 573
+        isCached: true
+  - title: "ChatGPT is not ‘artificial intelligence.’ It’s theft."
+    excerpt: "Calling programs like ChatGPT “artificial intelligence” grants them a claim to authorship that is simply untrue."
+    publishedDateTime: 2023-05-15T17:11:00Z
+    webUrl: "https://www.americamagazine.org/faith/2023/05/15/chatgpt-artificial-intelligence-theft-245283"
+    type: article
+    provider:
+      name: America Magazine
+      domain: americamagazine.org
+    quality: 17
+  - title: "Google ups the ante on AI to compete with ChatGPT. Here's how search and Gmail will change."
+    excerpt: "Here's how Google is introducing more AI into your everyday computing experience. Google unveiled a suite of new functions for both PCs and phones."
+    publishedDateTime: 2023-05-12T18:51:00Z
+    webUrl: "https://www.usatoday.com/story/tech/2023/05/12/google-ai-search-gmail-changes-chatgpt/70211454007/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 7
+
+secured: "XK7jLQ8DNwWK7Bm20le7oSlneJZsnf07ZsdYx2lfcxoIoJtmBEWUaA/KayD0KbtIsKm3dp1b2BEbsnZWINmMt2iNSZjeC3GFqRPp6BMZpOYsXe+Ewc3mGlbfYVmcuaL4u99zOiC/1WgWC/kTaD5EKeFP7lvrwgkB8jbV9BLu/7qYvX1nqb8mE1Hobcqqdxm+wmGD/TKtXOyu3AhjVUTiz0rWF3espo9+ZqCMSFJ8fnAWkf3uP9Nexb6UPo265EQYp1m6e6EvkeOpaHFoKv/1AWc/alvGIUoQuQC/xcxBB2E6/D0PD4pnh9/qfiQwPBiMkgWUh3ufa24R9REBPO26aU0uebkcBL7LU+aC9b3yv3vFtE23K1LZNpWpPampj1anWgSCd1ihi7H3cnGpVFkoBlCHyqPBJV//sA8P+dEN2wBsAx/9MBqgrkPvLJuC6Oq7xQ4rgMF3/eDGoF8Ym1uRfaQ74C+bLhaVkf3Rhguj6dcUeKcexYyXZvArWQaHs3LE8fW5PmYAmnbHa8CB3a0yhA==;DkCL//EGk/21vYEw/GuBHw=="
+---
+

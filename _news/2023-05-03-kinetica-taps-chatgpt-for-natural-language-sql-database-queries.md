@@ -1,32 +1,26 @@
 ---
 category: news
 title: "Kinetica taps ChatGPT for natural language SQL database queries"
-excerpt: "Kinetica, a relational database provider for online analytical processing (OLAP) and real-time analytics, is harnessing the power of OpenAI’s ChatGPT to let developers use natural language ..."
-publishedDateTime: 2023-05-03T09:30:00Z
-originalUrl: "https://www.infoworld.com/article/3694877/kinetica-taps-chatgpt-for-natural-language-sql-database-queries.html"
-webUrl: "https://www.infoworld.com/article/3694877/kinetica-taps-chatgpt-for-natural-language-sql-database-queries.html"
-ampWebUrl: "https://www.infoworld.com/article/3694877/kinetica-taps-chatgpt-for-natural-language-sql-database-queries.amp.html"
-cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3694877/kinetica-taps-chatgpt-for-natural-language-sql-database-queries.amp.html"
+excerpt: "Kinetica, a relational database provider for online analytical processing (OLAP) and real-time analytics, is harnessing the power of OpenAI’s ChatGPT to let developers use natural language processing to do SQL queries. Kinetica, which offers its database ..."
+publishedDateTime: 2023-05-03T00:36:00Z
+originalUrl: "https://www.reseller.co.nz/article/706950/kinetica-taps-chatgpt-natural-language-sql-database-queries/"
+webUrl: "https://www.reseller.co.nz/article/706950/kinetica-taps-chatgpt-natural-language-sql-database-queries/"
 type: article
 
 provider:
-  name: InfoWorld
-  domain: infoworld.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Reseller News
+  domain: reseller.co.nz
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://images.idgesg.net/images/article/2019/11/ai_artificial_intelligence_neural_networks_technology_brain_by_4x-image_gettyimages_997524096-100817778-large.jpg?auto=webp&quality=85,70"
-    width: 1200
-    height: 800
+  - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/promoted_content/promo/chatgpt-browser-erweiterungen_chuan-chuan-100937275-orig_4.jpgautowebp8570"
+    width: 560
+    height: 315
     isCached: true
 
-secured: "TvZEghNMZEj8hENm+XmRn4ixLpUVtXqVsEkrTsmEmBNaysvGsEnxyP+hvrV9F0u9g23OdHKXgtU6cUzwnNl1m4XMyx856gnZIwZDKmC1EsjpSTgOdISDiSPhXYbYkOROWHHHDMVw4lWKghMC5TCy+QcdM/OWWiwNI1VzCU8GyuXG0U+fy/3A1cvV7pWVc0db5lAhC16Rw33ODTgSJpUKiYP/1N61N2PCy1Q9GyKuXQkFbjtfK9gYpiXOtCza0hvMov81waZ1cNBgUe7ZKIEKmHFoQ+FkufFnm0BwS7VrfJwwahs9CUOK4om9SDV6WASSvuvVTlr2KrAC9H5JK2h7+CONMhbPn0Kp/oYP25VXJWI=;9elNDK9MBVQKkahWB9Qb1g=="
+secured: "xZmNcwPy3u2+4QI/qltiuTakE3oqMhthC4csBfc5R5VK3PlPyIL9afjzZOtdddV7LpzifithiKMcihCmkLlHyL3YFquvDsgk/LhxWGyE3WsFBlhYXtobMVRqWbqS/emaVNSl8PCjXQs1d/WOomi3HxafvmrjQWHcGxRbbKLQ1bDECdBU8n0Fd+mIktT4MPT6dVgSTlaSzhCj1Pl1hb7oDWomBPF9lRAJhVKUOnpbFj8dkC1yu8KOWjm4nIx9nWayI5Xlkv2F1N+GEwDRIBIaIvX0JBLLwc1ALXStwA4G73TtWK7VF5GUlOoyMJRc9vind0qtdM3QeSaBPCAQqunX+60DeyvxQQOB40U51SWnt0c=;PKm9Kwy4KtJQB9HdJ30v+Q=="
 ---
 

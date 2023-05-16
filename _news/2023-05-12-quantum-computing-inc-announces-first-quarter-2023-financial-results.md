@@ -22,6 +22,17 @@ topics:
   - AI in Finance
   - AI
 
+related:
+  - title: "Nauticus Robotics Reports First Quarter 2023 Results and Provides Business Update"
+    excerpt: "Nauticus Robotics, Inc. (\"Nauticus\" or the \"Company\") (NASDAQ:KITT), a developer of autonomous robots using artificial intelligence for data collection and intervention"
+    publishedDateTime: 2023-05-15T20:05:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/05/g32405015/nauticus-robotics-reports-first-quarter-2023-results-and-provides-business-update"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 29
+
 secured: "NaoFdphkVgn173NljfVbcZISGRUfUtvg2jw9hgstGO4/Aid//xX11M8g33wDyNNO/BcM8aVe6ZiPb1dlPrNDLkw8kUeQJLszpUyp8TEuQtsxnnRg/0Pp2VaKz6mphmsTiTiDMIdOu3GTl58ai836OO0gimm5gIbe0ut5azW/iYmnkUL5aTWCSG9Z9oR/MK9w8lV6fkBAl80RPwB05W4F39RgVRwBRQohu35pEP1/3Ok+PBn3sZb0jr5EuCmB5OSz7KNSJGJrwbCwpMuqL7ZHeJIarCwgVFPmkFS65oLaTRyU9b3Y2/fmTx7RjIq78Cm61NAwYq1eoxwHnnV3Zc4+Xu52JmiZRIkB4XSR7volLGA=;97rwkFJV/MfExE5TOyySlQ=="
 ---
 

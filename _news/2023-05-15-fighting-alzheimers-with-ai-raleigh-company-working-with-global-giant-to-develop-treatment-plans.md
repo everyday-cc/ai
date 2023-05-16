@@ -18,22 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "A self-administered mobile app to detect Alzheimer's disease using speech data"
-    excerpt: "Alzheimer's disease (AD) is the most common form of dementia. It is important to start intervention from an early stage, e.g., the mild cognitive impairment (MCI) stage, to prevent or delay the progression of AD."
-    publishedDateTime: 2023-05-11T16:51:00Z
-    webUrl: "https://medicalxpress.com/news/2023-05-self-administered-mobile-app-alzheimer-disease.html"
-    ampWebUrl: "https://medicalxpress.com/news/2023-05-self-administered-mobile-app-alzheimer-disease.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-05-self-administered-mobile-app-alzheimer-disease.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 40
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2023/self-administered-mobi.jpg"
-        width: 1076
-        height: 674
-        isCached: true
   - title: "AI Breakthrough Detects Alzheimer’s Early With Smartphones"
     excerpt: "This model, potentially accessible via smartphones, can distinguish between Alzheimer's patients and healthy individuals with 70-75% accuracy."
     publishedDateTime: 2023-05-15T22:51:00Z
