@@ -3,26 +3,20 @@ category: news
 title: "TSA testing facial recognition technology, prompting privacy concerns"
 excerpt: "A new project by the Transportation Security Administration is using facial recognition software to verify identities."
 publishedDateTime: 2023-05-16T06:19:00Z
-originalUrl: "https://www.fox13now.com/tsa-testing-facial-recognition-technology-prompting-privacy-concerns"
-webUrl: "https://www.fox13now.com/tsa-testing-facial-recognition-technology-prompting-privacy-concerns"
+originalUrl: "https://www.kshb.com/tsa-testing-facial-recognition-technology-prompting-privacy-concerns"
+webUrl: "https://www.kshb.com/tsa-testing-facial-recognition-technology-prompting-privacy-concerns"
 type: article
-quality: 39
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: fox13now
-  domain: fox13now.com
+  name: KSHB Kansas City
+  domain: kshb.com
 
 topics:
   - Computer Vision
   - AI
-
-images:
-  - url: "https://ewscripps.brightspotcdn.com/dims4/default/34a37e7/2147483647/strip/true/crop/960x504+0+108/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcdn.scrippsnews.com%2Fimages%2Fvideos%2Fz%2F1684195627_h09L7Q.jpg"
-    width: 1200
-    height: 630
-    isCached: true
 
 related:
   - title: "TSA tests facial recognition technology to boost airport security"
@@ -404,6 +398,6 @@ related:
       domain: thedailyrecord.com
     quality: 28
 
-secured: "qGpRrBuoqRBr4NvLrxEfc4tj1t4tehdMXGCi6n1tf8SWnuTEy7iTnW0vVilSeYsI/7BStxr6Y83vCixoHtJ26fXN8rBa6f5vLovREwxuqCqLNCsiXAWD08EBU+2pISq7qXs3uJnjh+TZhyUNxOs0uyAJ8mL8ly6CMKDs+dverE3YLK+bATFyVh70cJrqlDIH1tsHTNSv6NHsCOG72sHXnOwx/G/v9099q5vjBKWFGm6SP4CLBXi5iH/oLZH/LBmm8O+L8S3tLt0QGqVDHjzvQx8C8BmEtxbpaAxNKDHdEwT3dv0c2SIFoRpDIryESg2GWhlt0Rht09iWAKoxwdrmG/Pjs+1PaAMmy6wxWMP60Lc=;RximRcbGVOCXd+yVbHo0Jg=="
+secured: "mK1x1KwUZ1vXwkTMQMhHz1X90r0bkDTtwHwxxJ22mGUiwf2SQllXXkCqU0cmxr9JfKCWgmAj+sMOtlw/j1rnQHTYAsXNpYchAaSEl9a8DYhLynsjkn8uX05Y1SK1NI0QIwLEzoHbVqFlk+bat6T0IxtOUSZ3jw7slUmxQqK57zfVVv3nBHV1lBcrBIKD3d1nYo3KsF8nzorcl6Nv2e+nXaGMJDBAmdUfTvOEHtSh5NXWFPsuDT0vcTrOjkl+fiSiO5WjpT7mT7j8TDdu/pyRh13HrQGHoVBcbXikmtFJ6GgmxzRFwF66acbHamaqm6rvJrd2RfgPXfSjE1qP3rbMrf2QmvvDVtgy2dKCBiIZsrfU8TS1X/KqySynjwS7RvtZ1l6yHcL6NbW/e5xjb2jPIuW2f55c/kuWHmaw4ki93J/TRS2I/xbhr1VePa3S+gt6sjLesqxsumqJu2fKtjx57+sfMhMZX67uL9kUNBgqgwurHHhlf1qT0Xx0zr1YMYVM2q5sqAAar4l9UtG/JqHsBQ==;2wEfEYZDivOJRnUuAFlarw=="
 ---
 

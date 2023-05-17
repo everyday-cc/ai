@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/uae-company-la
 cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/uae-company-launches-first-of-a-kind-locally-made-robot-to-fight-fires-in-the-region-eogbvyqp?amp=1"
 type: article
 quality: 52
-heat: 52
+heat: 62
 published: false
 
 provider:
@@ -25,6 +25,17 @@ images:
     width: 697
     height: 464
     isCached: true
+
+related:
+  - title: "Innovation Pioneer RobotLAB Launches World's First Robot Franchising Initiative of Its Kind"
+    excerpt: "\"As the incorporation of robots becomes increasingly ubiquitous, franchising allows RobotLAB to better serve our growing customer base with passionate, well-trained and skilled franchisees who are experts in the communities where they operate and will provide the highes level of customer service,"
+    publishedDateTime: 2023-05-17T14:46:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/05/17/9816367.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 9
 
 secured: "L9ozJLfAsAJM+fK2Sa78/dLwMf83I9oE5EpDFpzR5ApvLw+XfzwYqupD5aNp/9lGYpbi0ZOLIEiH/tlj8jOYhLJSfzISH2jS5nq8k2r2jKGf/P2RmKIx4iwUL2LxPBrU6Kd1cRoIVdJOBb+6SfHmWG0cWKgTTDzN9CZb2f8m+WrU0046mF6gMYztAGbe9DAVAuHM1cE3+KspdpKr6mHFoqkFiiF7kAVzIqXXkDVMD35txMcbnI3Bx33cWVHA19TS+zxdP7qV0oetI6sK1deNpBu//c1CPuARLnZ0zDMCvsrRkbDvyTrV5IHOb7nFBd3Uxn8Jr3p1k9AwpFsVlMfB8McVA8xkxQWfsilnnSVpMA0=;sz+uAhfmiJX2THcxMzKkVw=="
 ---

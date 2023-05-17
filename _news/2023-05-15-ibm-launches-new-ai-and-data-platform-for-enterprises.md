@@ -45,6 +45,20 @@ related:
         width: 1200
         height: 864
         isCached: true
+  - title: "Together raises $20M to decentralize and open-source AI model creation"
+    excerpt: "Together, a startup that’s building a decentralized ... The funding will be used to support Together’s mission of creating a decentralized alternative to the closed AI systems winning all the plaudits today, such as OpenAI LP’s ChatGPT."
+    publishedDateTime: 2023-05-16T02:24:00Z
+    webUrl: "https://siliconangle.com/2023/05/15/together-raises-20m-decentralize-open-source-ai-model-creation/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/05/image_2023-05-16_091657940.png"
+        width: 599
+        height: 402
+        isCached: true
   - title: "Together raises $20m seed funding to build open-source AI models"
     excerpt: "On a mission to take on existing big players in generative AI, Together wants to ensure an accessible future for the technology."
     publishedDateTime: 2023-05-16T07:56:00Z

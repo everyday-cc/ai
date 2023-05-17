@@ -98,6 +98,15 @@ related:
       name: UPI
       domain: upi.com
     quality: 3
+  - title: "Ex-Apple Engineer Charged With Stealing Self-Driving Tech For Chinese Company"
+    excerpt: "After authorities searched his home for allegedly stealing Apple's autonomous tech in 2018, Weibao Wang boarded a flight to China, where he remains"
+    publishedDateTime: 2023-05-17T02:34:00Z
+    webUrl: "https://www.carscoops.com/2023/05/ex-apple-engineer-charged-with-stealing-self-driving-tech-for-chinese-company/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
+    quality: 1
   - title: "Former Apple engineer charged with stealing autonomous car tech trade secrets"
     excerpt: "The U.S. Justice Department said on Tuesday it has charged a former Apple Inc. engineer with attempting to steal the firm's technology related to autonomous systems, including self-driving cars, and then fleeing to China."
     publishedDateTime: 2023-05-16T17:09:00Z
@@ -107,6 +116,15 @@ related:
       name: CBC.ca
       domain: www.cbc.ca
     quality: 1
+  - title: "DOJ charges former Apple engineer with stealing self-driving car technology for China"
+    excerpt: "The Department of Justice today charged a former Apple Inc. engineer with stealing autonomous technology and giving it to a Chinese self-driving car company. The indictment, filed at federal court in the Northern District of California, alleges that Weibao ..."
+    publishedDateTime: 2023-05-17T01:02:00Z
+    webUrl: "https://siliconangle.com/2023/05/16/doj-charges-former-apple-engineer-stealing-self-driving-car-technology-china/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 0
 
 secured: "4W0aXMQh086/HtZodiNY3cen8MZI+6u4HLfmgmknpgXV66VbPVwBriiREqvQdTsyRbZkybxapPG52/XWkII7dLOGhYRGQw433tdPJR6d3GiZBopv0qBBVqY0cd9C43e2sV4OmyMaUch/Swtm5pwSK9jN9j6+/umSlrTA+Hb8p2cpfdcTVwQaU6vzTwSVFFh74CzMF6j89JvJjgL7GsMqU+cpAtbhKEGZlvF04KnXkZeCQlIm9WDAng2T3+yEXt/sR4CyZDqhebDDsFnVC+VTxdJ76Q6eJBGHtqgeglITiHnnm32wcpyof5oSofJgdaMYvIE1vtdfC1v7P7GzDdpsSzdBmrGtwjkz3c38qtD/YfQ=;cn2bYBp6bu6eNtT5SaY4rA=="
 ---

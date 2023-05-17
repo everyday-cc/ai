@@ -51,34 +51,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "2023, Face Recognition Systems Market | Global Industry Analysis Till 2030"
-    excerpt: "Face Recognition Systems Market | Outlook 2023-2028 | Pre and Post-COVID Research is Covered, Report Information |"
-    publishedDateTime: 2023-05-16T06:17:00Z
-    webUrl: "https://www.marketwatch.com/press-release/2023-face-recognition-systems-market-global-industry-analysis-till-2030-2023-05-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 67
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "2023, Big Data & Machine Learning in Telecom Market Research Report Analysis by 2030"
-    excerpt: "The major players covered in the Big Data and Machine Learning in Telecom market report are: Get a sample copy of the Big Data and Machine Learning in Telecom Market report 2023 Short Summery About Big Data and Machine Learning in Telecom Market: Market Overview of Global Big Data and Machine Learning in Telecom market: According to our latest research,"
-    publishedDateTime: 2023-05-16T06:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/2023-big-data-machine-learning-in-telecom-market-research-report-analysis-by-2030-2023-05-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 62
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "2023, Automatic Speech Recognition(ASR) Software Market Research Report Analysis by 2030"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. May 16, 2023 (The Expresswire) -- Automatic Speech Recognition(ASR) Software Market | Outlook 2023-2028 | Pre and Post-COVID Research is Covered, Report Information | Newest ..."
     publishedDateTime: 2023-05-16T15:18:00Z
@@ -121,15 +93,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "2023-2029 \"Facial Recognition Access Control Solutions Market\" volume sale, Trends and Market Overview | Report Reviewed by Experts"
-    excerpt: "May 15, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" A market research report has"
-    publishedDateTime: 2023-05-15T07:14:00Z
-    webUrl: "https://www.marketwatch.com/press-release/2023-2029-facial-recognition-access-control-solutions-market-volume-sale-trends-and-market-overview-report-reviewed-by-experts-2023-05-15"
+  - title: "AI Speech Recognition Technology Market 2023 Regional Trade, Company Profile Analysis, Business Strategies and PESTEL Analysis by 2029"
+    excerpt: "Global AI Speech Recognition Technology Market report by MarketsandResearch.biz provides the Covid-19 impact on"
+    publishedDateTime: 2023-05-16T18:49:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-speech-recognition-technology-market-2023-regional-trade-company-profile-analysis-business-strategies-and-pestel-analysis-by-2029-2023-05-16"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 19
+    quality: 32
 
 secured: "Y54+zc5bv4+tsWaEM3rANWNMhQShPQi0pNIAjqpdDH8lMSWwXBj6mcdT/yMM3wLww2xDtZs2NPlT1TFERBSRDGC1CB2Lmx6KH86GPO8d/aNTW6dNu6Ig8i92H/rlV9VqhqS+/N+6D+Ac2UZynaK6sMEioyuD7SDWEb+zchcgjR0SsNmRgNrZ5qRb9c2r2elJ+1skYX5oolBQNPyK1uLs7eTrTd2T+aI6Wz4VrPIZP6IC3d4KTJyOQ/Cj/SOEgKEdJD/TKPxQrw49rfYMBO9Co7nJnpyKzn4ru7UjSMMc0/PjOdsB/F6LEVQQ2rTStagMCJCwIqewrdgTi2QGY3spNjQU8SklctazyKui/G/jKyw=;Bz6EJQSj+k9wrdLei8Yt8g=="
 ---

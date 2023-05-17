@@ -55,17 +55,6 @@ related:
         width: 1109
         height: 577
         isCached: true
-  - title: "Google 'Bard': Company enhances search engine with Artificial Intelligence"
-    excerpt: "Google now offers their artificial intelligence called 'Bard' to conduct searches, write emails, and edit photos."
-    publishedDateTime: 2023-05-12T22:39:00Z
-    webUrl: "https://www.fox26houston.com/news/google-bard-search-engine-artificial-intelligence"
-    ampWebUrl: "https://www.fox26houston.com/news/google-bard-search-engine-artificial-intelligence.amp"
-    cdnAmpWebUrl: "https://www-fox26houston-com.cdn.ampproject.org/c/s/www.fox26houston.com/news/google-bard-search-engine-artificial-intelligence.amp"
-    type: article
-    provider:
-      name: KRIV
-      domain: fox26houston.com
-    quality: 35
 
 secured: "xfGewOpPOaxX56xXp80QpjoVLZDifOoex5wPnVSxplPLWxxRI9u6ymaLiG2sbRlxbO5lGNZwLxXA2scrcJ3Q5EJrsRY+faQol5f9aaREBc0Kmv2ufs4R4pYQ9dTJf9vYRMLYaCJed9nkBkMioSEkRc6EUpLwT/ll3pz8B/ZKzddwTSozKYjX/yop7syjKaYW4Kk5Mt+fO1LebXy5UtwexXUcjzcztWdrSkjeeXQaioR2yPRFDUgcnPu4O578D0S1r7qCgeAx0ya8kPvgX1tylR9zfY+yDYJBLiSs1rxf3FuSxfsBdm4HxXX+qe7uTbKNXmbcU4MqVkx+MCqrsItztlmB5fnmNO90I/Z4pygCq3g=;ZLimDlNo/Mv+jrd/QimLlA=="
 ---

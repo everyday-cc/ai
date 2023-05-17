@@ -339,20 +339,6 @@ related:
         width: 490
         height: 350
         isCached: true
-  - title: "TSA testing facial recognition technology, prompting privacy concerns"
-    excerpt: "A new project by the Transportation Security Administration is using facial recognition software to verify identities."
-    publishedDateTime: 2023-05-16T06:19:00Z
-    webUrl: "https://www.fox13now.com/tsa-testing-facial-recognition-technology-prompting-privacy-concerns"
-    type: article
-    provider:
-      name: fox13now
-      domain: fox13now.com
-    quality: 39
-    images:
-      - url: "https://ewscripps.brightspotcdn.com/dims4/default/34a37e7/2147483647/strip/true/crop/960x504+0+108/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcdn.scrippsnews.com%2Fimages%2Fvideos%2Fz%2F1684195627_h09L7Q.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Are you are who you say you are? TSA test facial recognition technology to boost airport security"
     excerpt: "A passenger walks up to an airport security checkpoint, slips an ID card into a slot and looks into a camera atop a small screen. The screen flashes “Photo Complete” and the person walks through — all without having to hand over their identification to the TSA officer sitting behind the screen."
     publishedDateTime: 2023-05-15T12:25:00Z
@@ -403,6 +389,15 @@ related:
       name: The Daily Record (Maryland)
       domain: thedailyrecord.com
     quality: 28
+  - title: "TSA testing facial recognition technology, prompting privacy concerns"
+    excerpt: "A new project by the Transportation Security Administration is using facial recognition software to verify identities."
+    publishedDateTime: 2023-05-16T06:19:00Z
+    webUrl: "https://www.kshb.com/tsa-testing-facial-recognition-technology-prompting-privacy-concerns"
+    type: article
+    provider:
+      name: KSHB Kansas City
+      domain: kshb.com
+    quality: 19
 
 secured: "2b+FP0oa5bO2SheREurnlSWKZDeUvnoewwPHmSaaCo41te5r8/NFWM1H3Y49vqm49R7IaKfNP5d5mn1zfhri7tlWGiuQVpS4inHzngz+QuVoP25nhDtaKCsaSNmpuF1BboKCh21Cz1lvSuPJGLorFi1v70WWohrlgRqoiGeh686kWI6ka6ZqdMaKp0zwWdD+xDoP7pM7EHyLBndXftOGUHHizQGaO7OkTsHrH1RmgRFqfF2XBCGDQJKMxUa70rMY5Vexnm77iFBCvFkVpxfpV5ZznF8/JCLXGcaLeL509A8/ziKC52tjC+4B0kBcDmGtaxEyY83oV1VDGDrQ66gxHB7wyspZsTEyUztPyTfijaDG6qEOaV4WZbdb1PCm0GqjHFH5BGxUCI8cKygXkrAq0QNB35tndAzP6PblmRW/aw89ZVA4O+pkTCgonmXbwYrT5LadmghYka7ZHbMcma+JQoFqtLMYZLPjRCjsuNN2NN+Y1ZrvlQ12FS/0SM/lgPTvhdN522xIXyTE+XJc5+WVuA==;1p/s+v+d1O98uwbJKcUp7w=="
 ---

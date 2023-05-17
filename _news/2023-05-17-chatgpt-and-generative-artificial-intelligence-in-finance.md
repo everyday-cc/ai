@@ -137,6 +137,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Going Beyond Generative AI To Truly Solve Productivity"
+    excerpt: "With generative AI output, it’s important to note that the information provided is usually of a descriptive or informative nature."
+    publishedDateTime: 2023-05-17T13:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/17/going-beyond-generative-ai-to-truly-solve-productivity/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "Meet the Startup Promising to Deliver the 1st Healthcare-focused Generative AI Model"
     excerpt: "Hippocratic AI emerged from stealth, as well as announced $50 million in seed funding through a round co-led by General Catalyst and Andreessen Horowitz. The Palo Alto-based startup bills itself as the first large language model designed specifically for healthcare."
     publishedDateTime: 2023-05-16T22:34:00Z
@@ -206,7 +215,16 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 17
+  - title: "How 4 Colorado companies are innovating with generative AI"
+    excerpt: "In Colorado, companies across a range of industries are working at the forefront of innovation with generative AI."
+    publishedDateTime: 2023-05-17T13:48:00Z
+    webUrl: "https://www.bizjournals.com/denver/news/2023/05/17/colorado-companies-innovate-generative-ai.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 17
 
-secured: "YunUX7EV8bDtGtwviffoBTl93zWxsS9dhHf4uyiJmIvvYLOnuRzM89QUk5C8KRGejKDBImJV44zwHObLy7UyKWxHYkWXi0pThZ//t8fl5vqcq6aoevVRyoYU9jOLRoZLkpHZq//NfH85R/WitC/KGj/tzCmAnnru5vdxiI+bDaLb5vr8srUNwM2AVCFAw8BJ50iClrhcS6IbBS6Z9GlrKLsykvfbrgw92h+DgO039NyddMgrXyNHZctjc5nZmfkjAPvwErZdSO/aWJXRbffki4N9qg415cPWy3TxhfRH/ofxx9FEdBIorgN7Puo1g0MxmQWFRO349MkyZ7DyHuCW/bd186QRxkZke53qWyUdNks=;hGBSwGEsBqv73VjP55bSOQ=="
+secured: "GXKVMk28JdYS5lMKEs8eSIMqIgC9yI6RbUzUQ38b2XQ249BswHKfxHRXH+D72cHldwbAOOVNMD82uWKLMq/+qs4Rf8nYZP+SonhhLkVspMZ36suIvjKuA2/6r/LV5/q8BCHTTwWSyN3q1nlbBW25xnP9pyXHP2i03/3UvgzIks67EOPkpVvhxdiC23EkxWxvI+XeLGUUaiHOi/95ExMopjIkwT6Al0c9TX8y2HBVuTfj+WXdMRtpCxvIMGQ4IF5KPCrhkbGJJutlXYlhiqIcZZZ14MYNdroNn7wzEb7ZyqBtaFupnCpUTex+22J2x5LH39Ib97Co5y3xoqt6hECaBviSL+DQDkwEjdn5A8/JeX8ypZCNTnUAMo1vZ58p1EktoJwlznXp+KsejSw1gOqQY4felKBJvQfSpmxm8+ukCT12JILWFfn/EfwLi+z1f30l4MzjYjcgPJvzvfG3NOA1InaFdMkeRylqSelEGbELEnuB4KKqoTKWTPOcpa1pBLrQdz6jcWCauWJAE2AYZlVt1g==;dMdsDbjBZoo8jB7j49rr3A=="
 ---
 

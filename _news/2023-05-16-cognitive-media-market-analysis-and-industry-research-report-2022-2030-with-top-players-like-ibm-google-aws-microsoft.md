@@ -58,6 +58,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Automotive Speech Recognition System Market Business Strategies, Industry Share, Size 2023 to 2030 | Nuance, Microsoft, Alphabet"
+    excerpt: "A detailed study accumulated to offer current insights about important features of the Automotive Speech Recognition"
+    publishedDateTime: 2023-05-17T07:23:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automotive-speech-recognition-system-market-business-strategies-industry-share-size-2023-to-2030-nuance-microsoft-alphabet-2023-05-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 37
 
 secured: "S2ABopRFZY6FY55OEjn9ojww9WwRIkpV+UIvHra28+g2CsLNv/LA3dlb2NZP5KzV+Ca62Ry1ZEKyzOVQ3UgvULG2N0dWrgxn78LvGVbJKwpisx8CuwOVYDNs2fkiI+TPGRQhr9sPuSRIFDZeTsOcvUSPNJMBM0ootnWK/kOheQ/g1vu+0yPUHtJv0qOVxvunDTSrIwHSe8IJe2v+KgkG3exw0+p2tv7G48m5HlVOTCCIxAIEAi/GV6abN09tO2j6CfkAHrvr1qQhfm2XjdgoJ1sISvLt01aD9va0GxD1i+DJB5utihwT3mFcuM18P34i28rZqaJVkas/QJMhXMD98WMhXNcJYGJdCn5qsl5fhko=;/b2lPmQmnz0t/ZVnC+QyNw=="
 ---

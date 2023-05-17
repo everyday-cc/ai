@@ -53,6 +53,15 @@ related:
         width: 473
         height: 315
         isCached: true
+  - title: "Bringing AI tools to the workplace requires a delicate balance"
+    excerpt: "AI is altering work for most knowledge workers. Businesses will need to figure out how to best navigate this workplace revolution."
+    publishedDateTime: 2023-05-17T13:00:00Z
+    webUrl: "https://www.seattletimes.com/explore/careers/bringing-ai-tools-to-the-workplace-requires-a-delicate-balance/"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 17
 
 secured: "fyIgr4ihQMOcU6UWKm3nklGt+DpLjG9J2653/mjLmGqPEm/KP7yxOnOBxw5UK6WjpWt3C44k7FiSUV9Mji+z2RX9w+VAD3FbSKXD+otLFrXLvpjq75Pb3UREb2IWbCKr5pQkDwRg5iH+V7rE6MNMqB7XZPqzLvVSWlKyG3zzQIsySdT0+oa5saBfhQgfk03SLt0AO+uK4lLP9XZzmKqzIWkPv5wYjq+By8DfZehHYriTm02NrhBbtEggi1XT7w2KeDvU1EvAr2WZwImGj4oSsCEprXJRe5W0tjPMdQY8Gq+01wVbAAOLw0iZgqBHNSTN57/+m/N2zml8zX8fZa8IL7QGixVuv81n+VpiTK8GcTscW+XziU6dsFw7z25voeSaAA/1j1wnvv58HQeY+0yXD0S/OdsBfmRRz9/fFakzcBi8y5vxsKXNEh1mSyBIZsIy6x8LvQCWZSTlaAkNcL11Tfsyk2QEHsei7zwz5U4gFSlQsY4mJAC8USpIXy7RKJaGeQkrIDMZBL7QTU9DrYrQiQ==;W92FDfntLnY+T7roIF/VOg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/tech/how-this-safe-browsing-feature-is-using
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/how-this-safe-browsing-feature-is-using-ai-stay-ahead-scammers.amp"
 type: article
 quality: 87
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -45,6 +45,22 @@ related:
       - url: "https://www.barrons.com/asset/external-media/afp/AFP9260753792462234016572263585427134158643---1.jpg"
         width: 768
         height: 396
+        isCached: true
+  - title: "How job-seekers are using AI to supercharge their job hunt"
+    excerpt: "The startup raised $2.3 million last year ... \"I think in a few years, everyone will have their own personal recruiter — their own AI recruiter,\" he said. To be sure, there are potential downsides to robo-applying. There's the possibility that too ..."
+    publishedDateTime: 2023-05-17T15:30:00Z
+    webUrl: "https://www.cbsnews.com/news/ai-job-applications-mass-apply-autofill-job-search/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/ai-job-applications-mass-apply-autofill-job-search/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/ai-job-applications-mass-apply-autofill-job-search/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 57
+    images:
+      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/05/14/03736f5c-c142-4ec7-bc92-ec942ec01152/thumbnail/1200x630/a6a67b308a63607fdfd13f8320a224f9/job-gettyimages-475352876.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Taming AI to the benefit of humans"
     excerpt: "Previous sci-fi movies featuring AI often portray evil-minded enemies set on destroying humanity, such as The Terminator, The Matrix and Blade Runner. Experts, including late British theoretical physicist Stephen Hawking and Tesla CEO Elon Musk,"

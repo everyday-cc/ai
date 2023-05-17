@@ -3,27 +3,19 @@ category: news
 title: "Chinese scientists reveal shocking brain chip that allows monkeys to control a robotic arm with their mind"
 excerpt: "SCIENTISTS in China have made a breakthrough in ‘Frankenstein’ brain chip technology, with the aim of letting people control machines with their mind. For now though, the technology"
 publishedDateTime: 2023-05-10T12:26:00Z
-originalUrl: "https://www.thesun.co.uk/tech/22310762/chinese-scientists-brain-chip-monkey-control-robotic-arm/"
-webUrl: "https://www.thesun.co.uk/tech/22310762/chinese-scientists-brain-chip-monkey-control-robotic-arm/"
-ampWebUrl: "https://www.thesun.co.uk/tech/22310762/chinese-scientists-brain-chip-monkey-control-robotic-arm/amp/"
-cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/tech/22310762/chinese-scientists-brain-chip-monkey-control-robotic-arm/amp/"
+originalUrl: "https://www.thesun.ie/tech/10687685/chinese-scientists-brain-chip-monkey-control-robotic-arm/"
+webUrl: "https://www.thesun.ie/tech/10687685/chinese-scientists-brain-chip-monkey-control-robotic-arm/"
 type: article
 
 provider:
-  name: The Sun
-  domain: thesun.co.uk
+  name: Irish Sun
+  domain: thesun.ie
 
 topics:
   - AI in Robotics
   - AI
   - AI Hardware
 
-images:
-  - url: "https://www.thesun.co.uk/wp-content/uploads/2023/05/OP_LY_NANKAI-UNIVERSITY.jpg?strip=all&quality=100&w=1920&h=1080&crop=1"
-    width: 1920
-    height: 1080
-    isCached: true
-
-secured: "kso+Yg+G/tCDeL6U+oHtH+BsUy0GlKEXPpmGB+j63XA+VGAYXcIBeEDKHNHstC7Cojnl3OZl6C370u9YvcFF6WZvv/oABORYwD2TAbcWvF0WQAt6D0ijw2TjlJEzkwTMVgPzHkjos9E7jBKU8C+iIjnpvRWeLNSzFe3sUUnXHR+tB3qRYmAlQFjhZ783+JwRBA6P2Inz0UDVvuXddURgyF0R/Td5QhrIfYckxIOds/YTbHDlQRbknIQwT7l7DZv57JbS635fGheq81WJRmHXgeBQlb5yITE436oZjSBvjUqwpakGDL6P0EgsQ/XxjonJwWB+jJfjRZLy7X1OKY7hbLT8kRzNh9Qy5n4zj5WobFw=;s6qvjorFXOVJpg5h2N0ySQ=="
+secured: "NTsKtKgYlXIOmbnVEagbHwrWZOgwSg4AFfO2yKeKtRMqH4ZUMfWEA7YiHzNXymPEbFu/R6KcVb5PbE4PyK9QvEmDr5NkRDLCvzo1zg9TVmpU0t3e/YIEF+T2Slxz/QvORDs7dWivAjNzdrLHvwwfs2TlV5pZu3Q7zwY04TYq8kuM/nlq3hj97M1WEAEB439shXFRSAT7a7U2R1nINCpZLBusIdj9s93ueeGi8lr3LwwuHC4r16oXFuG07evHgJ67n0IJ1YMFlqyW8DIcLmdS/SLzHD6p9xzuJ5A+GmWWp+jJtgFeWJ3aky8N7HNkbgYhqDiuBz3szDfUsXY6WA6R3+AA64Gbc/PSfxMwemQ79NfbQrz1Pq6GpIk5FTzEVNTgIhgd2Ec4YB5meXC9AcP/wl7Ogy+327e7k4ssEI8GmU7csKhktO3qh/OoKqegv3beffNCPh8/e/EMbq9fwfAedW79KCcO/mp5miwXjupWymjV0a5wJl+z1EW6oS0e5Qz9cVXJRflStoxMLnkbQPZI8g==;CF8XYs1trKXSlQG6FzWyOQ=="
 ---
 

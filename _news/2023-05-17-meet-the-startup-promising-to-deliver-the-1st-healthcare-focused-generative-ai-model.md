@@ -147,6 +147,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Going Beyond Generative AI To Truly Solve Productivity"
+    excerpt: "With generative AI output, it’s important to note that the information provided is usually of a descriptive or informative nature."
+    publishedDateTime: 2023-05-17T13:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/17/going-beyond-generative-ai-to-truly-solve-productivity/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "KPMG makes generative AI available to partners and staff"
     excerpt: "KPMG announced a new initiative to deploy a series of generative AI partnerships and investments to reinvent how the firm operates."
     publishedDateTime: 2023-05-16T14:05:00Z
@@ -201,6 +210,15 @@ related:
     provider:
       name: The Financial Times
       domain: ft.com
+    quality: 17
+  - title: "How 4 Colorado companies are innovating with generative AI"
+    excerpt: "In Colorado, companies across a range of industries are working at the forefront of innovation with generative AI."
+    publishedDateTime: 2023-05-17T13:48:00Z
+    webUrl: "https://www.bizjournals.com/denver/news/2023/05/17/colorado-companies-innovate-generative-ai.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
     quality: 17
 
 secured: "uwGtWY4M/c0ypCwO+/PAQTcZv/yTTa0Id4ek5Z9x5LQO4Fd0gJB5afNOCeEMaqgK5ixE04Gp/l80FQQEd/u1S7MRVF2o+Y+2boA3BD+zshMJr2e3KJXv6TvYXQNcoZI7vCbszxg/1tRxUj5OKdqlMG0WaK+f7gh6BmxMO4TCWYCj4GJkr/5OmY65CYJVp1H7i0eulYRZLsESaHpE4HIAlgptqiQiXuyVu6FSgfII69/bGyi9qiJNKpoGEuDZMj+vwBhuoU0WyoMCJlJle1buntTl1mvwVTlHMGB0wvsq41MOcnb52S2wEKdBtB/bvDI18ro31ISpoFUv7G1blGlA4q/X7gQBum7UIdCytR1Lqetc8KooSk4rEcW+AiLgB4JWtGPNlzwiL9QliNP0/jzIW3akzJgwpg7cHI9AgWL6ZKW+ILCzx8HTsV6ljwfFgsfc0DVbayc1BE8/78ik0KuZ39q08IXAn/v6gCo65d1nkmu5nF4UDGD4NCZSu26Bo9PYVxVq6AW8PMJb8WsX6VS8oQ==;VKMUAd13n0OPqW+giCAKmQ=="

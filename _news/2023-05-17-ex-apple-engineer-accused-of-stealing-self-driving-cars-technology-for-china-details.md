@@ -98,6 +98,15 @@ related:
       name: UPI
       domain: upi.com
     quality: 3
+  - title: "Ex-Apple Engineer Charged With Stealing Self-Driving Tech For Chinese Company"
+    excerpt: "After authorities searched his home for allegedly stealing Apple's autonomous tech in 2018, Weibao Wang boarded a flight to China, where he remains"
+    publishedDateTime: 2023-05-17T02:34:00Z
+    webUrl: "https://www.carscoops.com/2023/05/ex-apple-engineer-charged-with-stealing-self-driving-tech-for-chinese-company/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
+    quality: 1
   - title: "Former Apple engineer charged with stealing autonomous car tech trade secrets"
     excerpt: "The U.S. Justice Department said on Tuesday it has charged a former Apple Inc. engineer with attempting to steal the firm's technology related to autonomous systems, including self-driving cars, and then fleeing to China."
     publishedDateTime: 2023-05-16T17:09:00Z
@@ -107,6 +116,15 @@ related:
       name: CBC.ca
       domain: www.cbc.ca
     quality: 1
+  - title: "DOJ charges former Apple engineer with stealing self-driving car technology for China"
+    excerpt: "The Department of Justice today charged a former Apple Inc. engineer with stealing autonomous technology and giving it to a Chinese self-driving car company. The indictment, filed at federal court in the Northern District of California, alleges that Weibao ..."
+    publishedDateTime: 2023-05-17T01:02:00Z
+    webUrl: "https://siliconangle.com/2023/05/16/doj-charges-former-apple-engineer-stealing-self-driving-car-technology-china/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 0
 
 secured: "B9dFW9wsNOY7vDCZA1lmO0uLKyC8d5gQ1pgG13Dtqrt6k2QqP/I14aGn0xz4pYZhFX1IH/mqVB8Eb+GE6I/iaMLyZwBExiMqPDxjKUtG6ETT1/IhdAe5l5kcBON2zVFxgi/IwkN3lPL9pLDLfnrLxsdGAaOCi/E6rfCNMzUzUAJDXlZlenGxbg1BORtxpCg250aPJRPQPTjZxVudc/cpMkkFFwnOrQykYj4om5MOcUzUDmiQN4Rpr+z3CtCIlfvNtVNpSgznOdZ6goserxBkVEEI/wO/HnpD14cGnW4tH+G4KjDS+7YxsKR8CsItwADrsYbSqxQH290L+Dh30h2yOCFcKY0lnq7DpdK3hbp1+WckiTzFv/Abepm/+3aJte1EG8ghIRUaoO7wcn0hwzqdjWuQevomUOoCySQLdO0E8Q+0fMQnhWzFBpsazTB/qxtOZeBpzyF9VWRARtZAKASmiYqQNeUMZ4X2lkBGvlbzuKORn1QU2bF2cvtVOtqmwzoKDpJkVc8l5vhbusWYI4JfMg==;OYYPfSttZZPA5WFX08fE6w=="
 ---

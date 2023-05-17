@@ -57,6 +57,22 @@ related:
         width: 768
         height: 396
         isCached: true
+  - title: "How job-seekers are using AI to supercharge their job hunt"
+    excerpt: "The startup raised $2.3 million last year ... \"I think in a few years, everyone will have their own personal recruiter — their own AI recruiter,\" he said. To be sure, there are potential downsides to robo-applying. There's the possibility that too ..."
+    publishedDateTime: 2023-05-17T15:30:00Z
+    webUrl: "https://www.cbsnews.com/news/ai-job-applications-mass-apply-autofill-job-search/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/ai-job-applications-mass-apply-autofill-job-search/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/ai-job-applications-mass-apply-autofill-job-search/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 57
+    images:
+      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/05/14/03736f5c-c142-4ec7-bc92-ec942ec01152/thumbnail/1200x630/a6a67b308a63607fdfd13f8320a224f9/job-gettyimages-475352876.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Amazon is working on infusing generative AI into its shopping app"
     excerpt: "Rivals adding generative AI features and consumer demand may be the two reasons behind Amazon’s push in revamping the search engine of its retail application. In the US, about 56% of product searches start on Amazon, higher than the 42% share of search ..."
     publishedDateTime: 2023-05-16T09:52:00Z

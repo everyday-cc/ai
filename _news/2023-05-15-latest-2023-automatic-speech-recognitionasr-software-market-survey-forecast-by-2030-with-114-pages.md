@@ -43,48 +43,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Artificial Intelligence Microscopy Market 2023-2030 by Size|Precisionreports.co"
-    excerpt: "May 16, 2023 (The Expresswire) -- \"Artificial Intelligence Microscopy Market\" Reports recently released an executive data report that focuses on the end"
-    publishedDateTime: 2023-05-16T18:49:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-microscopy-market-2023-2030-by-sizeprecisionreportsco-2023-05-16"
+  - title: "Global Face Recognition API Market Size 2023-2031 Business Strategies by Absolute Reports | with [103 Pages]"
+    excerpt: "Global “Face Recognition API Market” forecasts for 2023 to 2031, broken down by region, types [Accuracy Rate > 95 percentage, Accuracy Rate 80 percentage-95 percentage, Accuracy Rateâ ¤80 percentage], and application [Financial, Security ..."
+    publishedDateTime: 2023-05-17T13:09:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-face-recognition-api-market-size-2023-2031-business-strategies-by-absolute-reports-with-103-pages-2023-05-17"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 59
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Artificial Intelligence In Insurtech Market 2023-2030 by Size|Precisionreports.co"
-    excerpt: "May 16, 2023 (The Expresswire) -- \"Artificial Intelligence In Insurtech Market\" Reports recently released an executive data report that focuses on the"
-    publishedDateTime: 2023-05-16T18:51:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-insurtech-market-2023-2030-by-sizeprecisionreportsco-2023-05-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 58
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Cloud AI in Fintech Market Size 2023-2031 Competitive Landscape by Absolute Reports | with [87 Pages]"
-    excerpt: "May 16, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “Cloud AI in Fintech"
-    publishedDateTime: 2023-05-16T06:29:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-cloud-ai-in-fintech-market-size-2023-2031-competitive-landscape-by-absolute-reports-with-87-pages-2023-05-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 50
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
+    quality: 30
 
 secured: "HKYQAIdBLVrUmFupM0h/5S/uH+EYjFlZCIvUHvis9G5f6XIXcyCvwZ5DhNIpZmepPHUfRnkSYJN1oNuXYmQZjoGdJ6afk+7gGEJivv+VbKKhBe1h/IvZr0DBMtt8x6vq9ARSNDbMj0UdJkWIDMuUU2A2c1WSFksJj8udNvxxf3BOBIh29liig6/qyffDDYSnATQjQf3Hz280nWYAM7ZtpkTtIu9t3JS2PiXZM9liisZrJlWXsQXbtmrMieD7fM7HQwL5/WAy6qTv9ke5WK2uVSw9MvMRu9L52CtgViy4YY3hEdgYV2wQUoglHMTRf09zTAOYZsEYCuQnGffFvb1xEbrLhO00b7PGyC3OmTLqeqg=;M+kcU9SoFN1+kEXWbrTOVw=="
 ---

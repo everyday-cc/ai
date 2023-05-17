@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/anafaguy/2023/05/16/ex-apple-employee-s
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anafaguy/2023/05/16/ex-apple-employee-stole-self-driving-car-tech-for-chinese-competitor-doj-alleges/amp/"
 type: article
 quality: 69
-heat: 129
+heat: 149
 published: true
 
 provider:
@@ -102,6 +102,15 @@ related:
       name: UPI
       domain: upi.com
     quality: 3
+  - title: "Ex-Apple Engineer Charged With Stealing Self-Driving Tech For Chinese Company"
+    excerpt: "After authorities searched his home for allegedly stealing Apple's autonomous tech in 2018, Weibao Wang boarded a flight to China, where he remains"
+    publishedDateTime: 2023-05-17T02:34:00Z
+    webUrl: "https://www.carscoops.com/2023/05/ex-apple-engineer-charged-with-stealing-self-driving-tech-for-chinese-company/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
+    quality: 1
   - title: "Former Apple engineer charged with stealing autonomous car tech trade secrets"
     excerpt: "The U.S. Justice Department said on Tuesday it has charged a former Apple Inc. engineer with attempting to steal the firm's technology related to autonomous systems, including self-driving cars, and then fleeing to China."
     publishedDateTime: 2023-05-16T17:09:00Z
@@ -111,6 +120,15 @@ related:
       name: CBC.ca
       domain: www.cbc.ca
     quality: 1
+  - title: "DOJ charges former Apple engineer with stealing self-driving car technology for China"
+    excerpt: "The Department of Justice today charged a former Apple Inc. engineer with stealing autonomous technology and giving it to a Chinese self-driving car company. The indictment, filed at federal court in the Northern District of California, alleges that Weibao ..."
+    publishedDateTime: 2023-05-17T01:02:00Z
+    webUrl: "https://siliconangle.com/2023/05/16/doj-charges-former-apple-engineer-stealing-self-driving-car-technology-china/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 0
 
 secured: "tSu3o1D8+mwWYkZjxmPfwCfwEa5+sNQ4Ehb96IGNCv4SKcEqh5lEC1U1kiN9tzLPMQOtNZ8ihuPVo1I/ehP2ON8NZXnKhRz7Y+9XGjeXe89fPfPL6GjUXxt73ldAWW5Yy1PWZUuicri35sXaJNd4gZ74VfyctBNIyG4qYL831Z/bxv81/IKRU1lJVKIHWT/u+aeinrqKg6Mrkp/nzJipSGCr391ZHa0uaHA1c6E3S2RL3/1viBn1MEkXgq5kN5WihINqTPuMikZhTMb1PEpl1dNMkdRALf+kG//LoPskQBzy1eeyrMDy6yZPU7T6W7Jw4jSNugA+tZ6ulKFOCv9fG8fHYG/3BcaFuJjeZApjVoOpoFLoFtlyxQFWOWadjUVjoYFPCezIfyxBv8z230oaI9CxqTcROVy4J1YxWnegbgCXjoDWJL7vMsoJnd7aQl8lxPiy+1MmAtiT+H4kmVCXHGlsiMgZ1nChgmR6oi0oQ4k1204sIxNZ3Xm3frRnmUwdXw8ZUHA14MeoYOTXjlh8nA==;SYT0ckDAyRzXlKgi4829AQ=="
 ---

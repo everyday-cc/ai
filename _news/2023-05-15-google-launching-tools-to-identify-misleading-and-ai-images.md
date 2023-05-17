@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2023-05-15/google-launchin
 webUrl: "https://www.bloomberg.com/news/articles/2023-05-15/google-launching-tools-to-identify-misleading-and-ai-images"
 type: article
 quality: 67
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -56,6 +56,15 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Bringing AI tools to the workplace requires a delicate balance"
+    excerpt: "AI is altering work for most knowledge workers. Businesses will need to figure out how to best navigate this workplace revolution."
+    publishedDateTime: 2023-05-17T13:00:00Z
+    webUrl: "https://www.seattletimes.com/explore/careers/bringing-ai-tools-to-the-workplace-requires-a-delicate-balance/"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 17
 
 secured: "Cveiffkvyz0nYyq3b4nD+HBlSKNYna+KL2qHp3YR8I1znRDWD8+YHKkBjRd9WHu8JhzYh1q7RGef53bTAVWzj02dsRMYL0YDKmFCKG1SdyottJgxTwQsen47EuQR/x6fS2vMlY64Zh46uM8Xy7ggU5Yk6g66+0pW3I2ianEgj9Q9JFc4DP3GjMThHoCxbpILOp1UazYarv4rM9Y5cD+3OezdpVsKK1Suc5f+vUjZaR+cUeCo3NrP+5e2ld8GI+uBq7DdkbwidtjjQY+qd/t9LwV2EnYjBqE46bDBKLTztV9h/BOhpYx8+SSDUtsscAwTv/t8moYVLFCSET2QGZuTsi6uV++nfidBxbsBr2dwIK8L2idANpcwhnW8Xo3WFVpqnliVRk5IKgZjEyKbOdLby2FOQ4Z9xGzT66sqZ+7ZJfjtoPYxVD0me9WAv4CrHSeVUo8hSijbOclrYetBx4kPacf9A0PsDbwyW93FNnLkV1fJS2KDo/KEb96r5f6jT2bgasytOq3+mvwCHk453i1aQg==;1FoF8sO6JTa/dJxv88sRmQ=="
 ---

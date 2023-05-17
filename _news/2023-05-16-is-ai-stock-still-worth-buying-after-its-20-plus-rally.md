@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/is-ai-stock-still-
 webUrl: "https://markets.businessinsider.com/news/stocks/is-ai-stock-still-worth-buying-after-its-20--plus-rally-1032332011"
 type: article
 quality: 47
-heat: -1
+heat: 47
 published: false
 
 provider:
@@ -20,22 +20,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "A Big Driver of This Year's Stock Rally: Artificial Intelligence"
-    excerpt: "Investors can’t get enough of stocks tied to artificial intelligence right now. Hype around ChatGPT has fueled a jump in mentions of AI on earnings calls, and AI-related stocks have skyrocketed. Take Microsoft,"
-    publishedDateTime: 2023-05-12T20:09:00Z
-    webUrl: "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-05-12-2023/card/a-big-driver-of-this-year-s-stock-rally-artificial-intelligence-Td2SlIlZnaOasbkJWtLn?siteid=yhoof2"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 67
-    images:
-      - url: "https://images.wsj.net/im-780730?width=600"
-        width: 600
-        height: 800
-        isCached: true
 
 secured: "6+waL08cu+7ue2zizIFiNxqfl+ziIt7EFqvuEFIIslaHUva10vCPwfGmAfYOIxfVbxwCKpuCUpVP82hCjFjZHf7d0Y62BpEifxB1UUactUZw+4QzxH1wjw5QWq9sRMF1cRTs9m0f8e8QOXUZDGnadwmKUBM58vVFcfpjvnPR6JA+sB/KZ8iI1dzf3gCYOu41njMklCU8MWn0/kq7lrPTUAt6j1DR7Ar20T3ABAX3BpsgRfD+egONwxcsJeML6wLsBmZ9sKoPfpAAJqiiHdKYvWdgNhlQP3FOf4AQduxBC4y5pl93aoyjXQAoaRZjUgpeXOvowMAod9eTQDB8fGfn2DE36Ud/pG3ze6h1p+38lE2zUROaLOg8AqVXIE49QOVb5sYro4WNq2nos7OKgrotwtTC29QxiD9mIt51D7fq4Ou4ALQUiIoSb/luXP0h1uo3KaGs/UNwZUo3DWm2gM5D5TGbtxnL76lkXvcXJrLmeAECGHGzETFbFYs/ODJcRWZQZbGoUR/S8lSrsmtQCA6d8w==;3NlDTWVFRWzpGJvLYLYPpQ=="
 ---

@@ -65,6 +65,15 @@ related:
       name: T-Net
       domain: bctechnology.com
     quality: 29
+  - title: "Meet Phoenix: The new humanoid robot built for general-purpose tasks"
+    excerpt: "While companies focus on specific-use robots, Sanctuary believes that the future will have general-purpose robots that can do multiple tasks."
+    publishedDateTime: 2023-05-17T12:52:00Z
+    webUrl: "https://interestingengineering.com/innovation/phoenix-general-purpose-task-robot"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 19
 
 secured: "dLiUlfOZO1ALwcysHunGpfhLGE2m1LYmG0sTALIfD9EVYAjHsZk3NcgsXf4HBgRd9YnD6SaElsmF/m2mOzrMN3akeDGepBlksB5KumC6RQwkYnwAL+yQHwwOKevUqVmcoLt/dl9NuOehNMGuvO9MmqQt1RCzei6asiGsfA7NyISJpBxohwEfCPLA0VGadTvTdrsaFOaWR3OCiGaLzVcz2gspJ2x7fdYEHseCZX6DuMuA4yqhwvviA/Ry2E4l5qALMd/C7HauZTJwh26aEDvJfluTp6h/yhxqy9Y60X4qWEl8FHJvbDayjtQ4GBaitduAwAp0dQwgazGoNi7jGRzH06wxqIOx/OJzVoIHbS0xsHMQjZ7rXk+qgItPT6JCOcpPqHJ4mB2TEl8YnaGeOCR7x+YNQc78PQO2pnLli3bFF7Cc3KhrdIE/v5yDYyyAPKvLPNaUVC9q++koGUiuF8AV14OPHY5CD7dLpQsvpPWsjbDw7SsbaM14tjH/TXdL9dNq2bf/XfJlHZzTOaTb4VHctA==;hgzZPG9AxyNLpu9EFOEHpg=="
 ---

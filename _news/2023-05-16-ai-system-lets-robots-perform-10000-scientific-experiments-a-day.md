@@ -7,7 +7,7 @@ originalUrl: "https://insights.globalspec.com/article/20469/ai-system-lets-robot
 webUrl: "https://insights.globalspec.com/article/20469/ai-system-lets-robots-perform-10-000-scientific-experiments-a-day"
 type: article
 quality: 34
-heat: -1
+heat: 34
 published: false
 
 provider:
@@ -17,22 +17,6 @@ provider:
 topics:
   - AI in Robotics
   - AI
-
-related:
-  - title: "U-M: AI Could Run Million Microbial Experiments Per Year"
-    excerpt: "The University of Michigan is developing an artificial intelligence system that enables robots to conduct autonomous scientific experiments."
-    publishedDateTime: 2023-05-12T19:12:00Z
-    webUrl: "https://www.dbusiness.com/hustle-muscle/u-m-ai-could-run-million-microbial-experiments-per-year/"
-    type: article
-    provider:
-      name: DBusiness Magazine
-      domain: dbusiness.com
-    quality: 39
-    images:
-      - url: "https://cdn.dbusiness.com/wp-content/uploads/sites/33/2023/05/HM-U-M-AI800.jpg"
-        width: 800
-        height: 534
-        isCached: true
 
 secured: "Z3f13ezCcT/P3e+mnRC6JVazOmloqQL8fgQ44fviZnmack6wVUxcbSU0RRvz6MsVNDRUJsRsrXS+FVrVJbL2TFSp7nBjZ6YsDCzfHlnXXx588Yq4BLHtd36n5RhvhBQvU5lmV4hWnl+8ouulrfBziBp4br7om+UmX5kk7i5lyhJ2agmslegxheiPbMa9zxu7jfmGe9Fc9cjkobgblapK92UBnysksdDCxzHOILcJrx53BLCPX6CDSkcSGThcI1dttd5oAzwuxeYuIQ1b3eTtr7y9bf6HsjZeRXHxNsVg5keojHfr5puLBPi6ceAXgwTj5BJLSfXrrdHrpeFK8LpcMov0syG/l8XmVEnh0WAFVuAROfdF31uu+3bbAc801te3G2UTgla4AqJjCXI9eXVPkT8cWFsKYeB8jDJCsO0sMv6KgrM70pOgd1GcYjreRa6glS0527UoxY6YBSZOE/fkyl+ZndtvKj7DCetn6mHomv6jBc+e0xxdvkl4OG1UMc2GXrkYyAcihMg52t7k8PSf6Q==;GrL7+fxfzPWlOkGTx0F4KQ=="
 ---

@@ -38,6 +38,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Zoom Funds in AI Startup Anthropic"
+    excerpt: "Zoom Video Communications Inc., had funded Anthropic with an undisclosed sum and will integrate the AI startup's technology into its video-conferencing tool."
+    publishedDateTime: 2023-05-17T14:42:00Z
+    webUrl: "https://enterprisetalk.com/quick-bytes/zoom-funds-in-ai-startup-anthropic/"
+    ampWebUrl: "https://enterprisetalk.com/quick-bytes/zoom-funds-in-ai-startup-anthropic/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/zoom-funds-in-ai-startup-anthropic/amp/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 57
+    images:
+      - url: "https://enterprisetalk.com/wp-content/uploads/2023/05/Zoom-Funds-in-AI-Startup-Anthropic.jpg"
+        width: 1500
+        height: 844
+        isCached: true
   - title: "Zoom makes a big bet on AI with investment in Anthropic"
     excerpt: "Zoom today announced a partnership with Anthropic to integrate its Claude AI assistant across its platform offerings."
     publishedDateTime: 2023-05-16T18:07:00Z

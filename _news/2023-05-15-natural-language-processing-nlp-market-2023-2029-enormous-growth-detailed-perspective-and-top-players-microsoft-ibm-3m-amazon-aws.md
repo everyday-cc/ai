@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/natural-language-process
 webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-2023-2029-enormous-growth-detailed-perspective-and-top-players-microsoft-ibm-3m-amazon-aws-2023-05-15"
 type: article
 quality: 99
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -59,6 +59,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Automotive Speech Recognition System Market Business Strategies, Industry Share, Size 2023 to 2030 | Nuance, Microsoft, Alphabet"
+    excerpt: "A detailed study accumulated to offer current insights about important features of the Automotive Speech Recognition"
+    publishedDateTime: 2023-05-17T07:23:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automotive-speech-recognition-system-market-business-strategies-industry-share-size-2023-to-2030-nuance-microsoft-alphabet-2023-05-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 37
 
 secured: "jjJ5Dq4+x7C3jxjhrpBbvSnUva5e8okQUIdKSVS+iYa8RmWSBhZLlwF5GqddFtQFyGRO3pV6V+/2yiSXwvWzrqlwk7zyuspeZU3hR72M18O/Yuh1cxycYw6GsSDcvyDFQAhb4sbjDdEzedBnGQRpv3u5FZ/HbHUVawnt/AWqSnX0AzIIHhJ3EaDLtllw+6j+mDXFldoSb2lY6g+5Iog562yMtiP0GMmdOYAH+ayxW+0+bcdo+K3Pi683b8P+WGOc/oIZhS3/H3Z9YbRT5IxvIC2zadVje5PtHPWKxOZtp3/EIf+PgoyYopX1xGDXDQM1Jw4wT3pJ7ypqER2unGRAeMfid6gGIHHJU27163gRPnc=;/vgGXHRK+zDl9HurH0UXJA=="
 ---

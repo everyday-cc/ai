@@ -7,7 +7,7 @@ originalUrl: "https://www.bostonglobe.com/2023/05/15/opinion/how-can-humans-main
 webUrl: "https://www.bostonglobe.com/2023/05/15/opinion/how-can-humans-maintain-control-over-ai-forever/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,20 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "How conversational artificial intelligence can improve the member experience"
-    excerpt: "In the credit union world, artificial intelligence is often used for credit scoring and credit card fraud detection. More recently, conversational machine"
-    publishedDateTime: 2023-05-13T03:00:00Z
-    webUrl: "https://www.cuinsight.com/how-conversational-artificial-intelligence-can-improve-the-member-experience/"
+  - title: "How Humanity Can Avoid an AI Takeover"
+    excerpt: "We talk to MIT professor Daron Acemoglu about his book Power and Progress and unpack why making direct human-to-AI comparisons isn't necessarily helpful in determining our relationship with technology."
+    publishedDateTime: 2023-05-17T10:59:00Z
+    webUrl: "https://www.wired.com/story/have-a-nice-future-podcast-6/"
     type: article
     provider:
-      name: CUInsight
-      domain: cuinsight.com
-    quality: 34
-    images:
-      - url: "https://www.cuinsight.com/wp-content/uploads/2022/06/bigstock-Artificial-Intelligence-Ai-Bu-443739650.jpg"
-        width: 1000
-        height: 500
-        isCached: true
+      name: Wired
+      domain: wired.com
+    quality: 47
 
 secured: "5Zq7z1v1/8hb135WKrqMxMeCnaeY+LMfDfvmm0OIe6+SRH60+20X6DBV2LviKQSMP99SwtSk+enJC1QIIMJ6S4hBf4J4JXw7scEeK+xsvW10oW3X4orZa799BleIHvFOntw34dfMySU2gcBm9ns7MhEzUFYu/k73LivabwSzMIF4BFDz5ufe76eJymtobbIU6san/drQyAc71UiL8NeUsvjjGKkIyTqV+rjrrMYIPWXogz+G57V2VlYp8aPcP7xpbNYxZHk1GmN39h9zSLizYnryzaJVyRqd0t/trKStild+PF8a9+QnVWfcr98GJos4w6yfeOuaiQD+hJ5KWOddrYeY2H1eUHE/DMy5TZ43qyM=;vWi+KikMbPwiOvHDBzYT6A=="
 ---

@@ -136,6 +136,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Going Beyond Generative AI To Truly Solve Productivity"
+    excerpt: "With generative AI output, it’s important to note that the information provided is usually of a descriptive or informative nature."
+    publishedDateTime: 2023-05-17T13:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/17/going-beyond-generative-ai-to-truly-solve-productivity/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "Meet the Startup Promising to Deliver the 1st Healthcare-focused Generative AI Model"
     excerpt: "Hippocratic AI emerged from stealth, as well as announced $50 million in seed funding through a round co-led by General Catalyst and Andreessen Horowitz. The Palo Alto-based startup bills itself as the first large language model designed specifically for healthcare."
     publishedDateTime: 2023-05-16T22:34:00Z
@@ -204,6 +213,15 @@ related:
     provider:
       name: The Financial Times
       domain: ft.com
+    quality: 17
+  - title: "How 4 Colorado companies are innovating with generative AI"
+    excerpt: "In Colorado, companies across a range of industries are working at the forefront of innovation with generative AI."
+    publishedDateTime: 2023-05-17T13:48:00Z
+    webUrl: "https://www.bizjournals.com/denver/news/2023/05/17/colorado-companies-innovate-generative-ai.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
     quality: 17
 
 secured: "CrlyU9K4t8Oc+OjNfMZHgEi5AdkQ5iQX4Q5My8npSuEFj6iYR9zk7GBTQUASjR3ysgybEKXGZ9H7k2Q0K0uLkh+1t3HSiRvXvDDxLKoj9Yo+Q0GvpPUhXRXB1Rzi1YnqbWGaPRjSBinHCQDKgo5Im+yvG0IguvHQ+PgDW4lT2p5m/1HNA96dW+onoz6iql7SJaJdKDKA6Um2ujQ6frsyA0y03RfJotg3dVY9aOBYcGKoct6f4SAlUBUuBRcwOvm9cvr10aZRKXmSR2Yn86kUMFUkAhVFY21JxstcBGf+G3Q2ScwS7++yJT/BTo2y0/JMrb72GPwVjphWKiaDmfNXtnnEeyFnNd/sJgHgCAoYI4kyLYsxykrfmd+vKSuMfZU5FnvaDMT4viW6klnD7Hb1WuBR36+zJzc7FFNVUVkiZc0wtMARi5RtRvlh3hkG567vNfPqpLWpjMFJs5aXBGRNtq0ihFykrAO+2X9oIQpbY0d80gnHNHVvUNezpA/+gMWLYn1jdb6cXzK5bxC/25WNaA==;LQjQiNDjIsMfxIaz3/I4lw=="

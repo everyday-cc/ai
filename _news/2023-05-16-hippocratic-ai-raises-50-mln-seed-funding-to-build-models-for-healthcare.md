@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/business/healthcare-pharmaceuticals/hippoc
 webUrl: "https://www.reuters.com/business/healthcare-pharmaceuticals/hippocratic-health-raises-50-mln-seed-funding-build-ai-model-2023-05-16/?taid=646381de5571eb000186b80a"
 type: article
 quality: 83
-heat: 143
+heat: 153
 published: true
 
 provider:
@@ -42,6 +42,22 @@ related:
       - url: "https://www.reuters.com/resizer/9Ff0pYw8o_htWZ9gDHe_OETrgDY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WU6RQETI5NJZJAZFZU4DLOQALE.jpg"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Hippocratic AI Rakes USD 50 Million in Seed Funding to Develop Models for Healthcare"
+    excerpt: "According to a report, a startup developing AI models for the healthcare sector, Hippocratic AI, has raked in USD 50 million in a seed funding round."
+    publishedDateTime: 2023-05-17T14:43:00Z
+    webUrl: "https://enterprisetalk.com/quick-bytes/hippocratic-ai-rakes-usd-50-million-in-seed-funding-to-develop-models-for-healthcare/"
+    ampWebUrl: "https://enterprisetalk.com/quick-bytes/hippocratic-ai-rakes-usd-50-million-in-seed-funding-to-develop-models-for-healthcare/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/hippocratic-ai-rakes-usd-50-million-in-seed-funding-to-develop-models-for-healthcare/amp/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 67
+    images:
+      - url: "https://enterprisetalk.com/wp-content/uploads/2023/05/Hippocratic-AI-Rakes-USD-50-Million-in-Seed-Funding-to-Develop.jpg"
+        width: 1500
+        height: 844
         isCached: true
   - title: "Hippocratic AI Raises $50 Million To Power The Healthcare Bot Workforce"
     excerpt: "Backed by General Catalyst and Andreessen Horowitz, the startup says its healthcare specific large language model outperforms GPT-4 on over 100 benchmarks."

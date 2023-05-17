@@ -6,8 +6,8 @@ publishedDateTime: 2023-05-17T10:59:00Z
 originalUrl: "https://news.crunchbase.com/semiconductors-and-5g/us-startup-funding-ai-charts/"
 webUrl: "https://news.crunchbase.com/semiconductors-and-5g/us-startup-funding-ai-charts/"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://news.crunchbase.com/wp-content/uploads/AI_robotics_Shadow.jpg"
@@ -23,6 +24,6 @@ images:
     height: 506
     isCached: true
 
-secured: "SrO7VrJN9+G/mN/g0WoDHkDjuSVC2EpHgBDSZrv9TCwc0LsuNpJk9tC4+1f4d/L4LoO/i8ia34qNKzHvh9cwYfYv1DL5bbyLr6BfchsaUG31e0ZRUQ93fqNPVWexjUQCKbBGH+qdODMKGgWhrcZGsIOtZOP5MLw3mfwskb0I+itH5z1VJznnLIVtossg0h+q0aSFkTT7e0/bsOJ5z4LWJ1tv6fyhyLQyIl+PnqPgyDJST+I2r4hTKivFD7sNboLzMeQqmlPTvbPDoGMGXUQILb46h3r1a9lHDRPcw898p7TlD9i3pt7cGAFdYVzX0adUMJ+jT9QWjKBRACAcz8NVN4Mst2+kuuo0SWgQgr3i2+0=;k4yubZl8QTB2MtP5r9mB4w=="
+secured: "omxmp+5kUprzT1AO6Bu4ycbpMI5Wvs2syk8ddV3tCDk1bBKxrraRHyVFLZHCU868zUmXR6E4br5pFYy563DdKNK/n/bCuavhGYVdBxaC7ePa9bt5gsTveOqzSd00GeburfJwn+Me9FI/Ndcl3YC9sWZFzNuIYYBc4OaEspMWOZUmEaylbhkG983a/Rh22yK29N9yy58DVYPURAUCNpF9HdvERQUUUnRmy6pq3ioGSCcmiWR2laMwdUdFlBhjctCnSg+kDs2jqn9LIZ/61ZyehSElcKZm77cT977CmyNPbt3mr00H63ez0mw9CnYtTHR0Xpvnd0Zd6WYIXwcseZ1jYTkvnx1z7mMz0M7bZqYRsvfLTRfxdLEH93XAvnIQCUWTh2L8b4YrB4Ofkcv7smGQjrfFVQ0VWDA8qWSZTCjXra565jhZci4ml4OGZJKWRCNh5rF8BLgXJNjNasgwa8Pf8sUerOol06mZoxC3fltOndvO8Bg+L4qYBzQEStap3kPtjOJhc61O2JT2tOhERE8vKw==;LSbLPvPpvefKHtEPe8WOHQ=="
 ---
 

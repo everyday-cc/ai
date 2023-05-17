@@ -334,20 +334,6 @@ related:
         width: 490
         height: 350
         isCached: true
-  - title: "TSA testing facial recognition technology, prompting privacy concerns"
-    excerpt: "A new project by the Transportation Security Administration is using facial recognition software to verify identities."
-    publishedDateTime: 2023-05-16T06:19:00Z
-    webUrl: "https://www.fox13now.com/tsa-testing-facial-recognition-technology-prompting-privacy-concerns"
-    type: article
-    provider:
-      name: fox13now
-      domain: fox13now.com
-    quality: 39
-    images:
-      - url: "https://ewscripps.brightspotcdn.com/dims4/default/34a37e7/2147483647/strip/true/crop/960x504+0+108/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcdn.scrippsnews.com%2Fimages%2Fvideos%2Fz%2F1684195627_h09L7Q.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Is that really you? TSA tests airport face recognition"
     excerpt: "A pilot project by the Transportation Security Administration is assessing the use of facial recognition technology at a number of airports across the country."
     publishedDateTime: 2023-05-15T17:58:00Z
@@ -403,6 +389,15 @@ related:
       name: The Daily Record (Maryland)
       domain: thedailyrecord.com
     quality: 28
+  - title: "TSA testing facial recognition technology, prompting privacy concerns"
+    excerpt: "A new project by the Transportation Security Administration is using facial recognition software to verify identities."
+    publishedDateTime: 2023-05-16T06:19:00Z
+    webUrl: "https://www.kshb.com/tsa-testing-facial-recognition-technology-prompting-privacy-concerns"
+    type: article
+    provider:
+      name: KSHB Kansas City
+      domain: kshb.com
+    quality: 19
 
 secured: "qME8WW9z3rheA9QD+l2ujwBTi1fzSEX+E9v+RySpVbozFxTHLHZmbgKqOrX7J5nPCZXs7Nqd7uorNk6mo6eInOspKxXMAgUrCzMQsJq/kC4oDkgc1M9kLyGIpnCbYt7QMOIcF3qNgoJ9fZ0pDz0pdi89MMai7ViMebKT0jrkm74FDJrDb/mFQPIqBMWKoVroLH7vG7sKMHZ+8CPZEt/veqbr6g7PbnR7iC+gqQt5Jyg+rZotqrlYecuzX4HWTw2jj8clTm3ArZABl+5WbU5+YvwNTV0WeHOGiV3Bf5bufFMKRLJ+vES88nMZ85XE8a/dipCVklXUxfcyMiwNYmCQYAg+8vxPV4VtE7q1/xAjKKwECehpbGAzKG627hhSMlfwpe5o/w+vKXVyRsbYiqlyZBPON4NOkZAcLVTLqWYEui7sWV+HOw9mNZ24SFdZRrZAtgqySbQ3pDYrWAEQroTtPOGm3VJEMJXTn9Mf2r4/H5EXCMBo4td8TC5wefTda6Dpo79AKjGfaHSCVGeqOP5B+A==;YMjV4KAFF+0XMvddq34vnQ=="
 ---

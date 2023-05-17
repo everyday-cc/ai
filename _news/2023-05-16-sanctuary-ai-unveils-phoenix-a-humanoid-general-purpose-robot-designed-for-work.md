@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/sanctuary-ai-unveils-pho
 webUrl: "https://www.marketwatch.com/press-release/sanctuary-ai-unveils-phoenixtm---a-humanoid-general-purpose-robot-designed-for-work-2023-05-16"
 type: article
 quality: 78
-heat: 118
+heat: 128
 published: true
 
 provider:
@@ -70,6 +70,15 @@ related:
       name: T-Net
       domain: bctechnology.com
     quality: 29
+  - title: "Meet Phoenix: The new humanoid robot built for general-purpose tasks"
+    excerpt: "While companies focus on specific-use robots, Sanctuary believes that the future will have general-purpose robots that can do multiple tasks."
+    publishedDateTime: 2023-05-17T12:52:00Z
+    webUrl: "https://interestingengineering.com/innovation/phoenix-general-purpose-task-robot"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 19
 
 secured: "sGC6XoNdVquAKH/FT6s6c3NpFfjTHuVaDLAbxPBlcHG5qh9E6nJuGpnzpWnDjnsxRcFYYC7M++uyoSYubEFltq4nKdmMYMWEutSOYBwilDlWWuhj4rDhuxe+IJVjvHvG/rnnXblATQkVtl7qBnc9E5z2pQTvUF5tHrK0zvsy8ApEua4zJr5ovjRpq0ge8M+GjNvRGtN4FIWXex48i3JlCkEr99eE/iG7wCon4SSWdwNUHka/ifLi/4q5ryam27O9fI+W8XcpgImgUHpEEskRGoPy8EgajSysCSR7XOlROsLuRwlvIbv7968yAMXmGkqSZk7an4bipznKrxOZqghG73/GZcG9I/58u2g97irnIMo=;zMw8DT3qJYwDH/ur8y3uAQ=="
 ---

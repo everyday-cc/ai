@@ -43,20 +43,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Medicine Market Size and Updated Report, Segments Analysis and Opportunities 2023-2031 | CAGR of 39.8%"
-    excerpt: "Artificial intelligence is viewed as the science and designing of ... foster unexpected issues that should be tended to by readmissions or restart of the therapy cycle. Such remote checking for patients released from medical services offices can ..."
-    publishedDateTime: 2023-05-16T15:18:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-medicine-market-size-and-updated-report-segments-analysis-and-opportunities-2023-2031-cagr-of-398-2023-05-16"
+  - title: "Home Office pushes for more police facial-recognition deployments"
+    excerpt: "UK policing minister Chris Philp is pressing for facial-recognition technology to be rolled out by police forces across England and Wales, and will likely push to integrate the tech with police body-worn video cameras. According to a report co-authored by ..."
+    publishedDateTime: 2023-05-17T13:21:00Z
+    webUrl: "https://www.computerweekly.com/news/366537695/Home-Office-pushes-for-more-police-facial-recognition-deployments"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 40
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 4
 
 secured: "/tt0ukAZfPlIsWtymbHIwPnfUOxz/Rd4qO5hYbJUtqj33TqB8Z3Km6rmIPfHNZGYzZ8syzoVS7G5sgAYV+ct9DYlHmy5hwKdenyqqC388j8taB9WkBeyKroRv34bzLAf+PiCW/EecW2zJYsxBYZL7VOlLEjmj2bOp2LnCtA0WPKzkSBALKqFV5c2LkCF36kgBQzrZOYiCogfuSeSp/9lu3VEiqbc5ugrlvkkm0eX+R6PDvLkYGNYDmkVlUdU1nJ8oO0eyIuNdSSfb9ORErzck2LcaARnGGOeWE4q7ng+NkL+J6TfP4BsRVwZvTgGq5+onl8PQhe2GHKGwAdlxF53P91uEsTF1fvUyGpFpC93hxQ=;n3+Kx/oBEhqAqWYnWzzphA=="
 ---

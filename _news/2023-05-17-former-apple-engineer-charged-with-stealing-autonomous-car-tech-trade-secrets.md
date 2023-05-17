@@ -106,6 +106,24 @@ related:
       name: UPI
       domain: upi.com
     quality: 3
+  - title: "Ex-Apple Engineer Charged With Stealing Self-Driving Tech For Chinese Company"
+    excerpt: "After authorities searched his home for allegedly stealing Apple's autonomous tech in 2018, Weibao Wang boarded a flight to China, where he remains"
+    publishedDateTime: 2023-05-17T02:34:00Z
+    webUrl: "https://www.carscoops.com/2023/05/ex-apple-engineer-charged-with-stealing-self-driving-tech-for-chinese-company/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
+    quality: 1
+  - title: "DOJ charges former Apple engineer with stealing self-driving car technology for China"
+    excerpt: "The Department of Justice today charged a former Apple Inc. engineer with stealing autonomous technology and giving it to a Chinese self-driving car company. The indictment, filed at federal court in the Northern District of California, alleges that Weibao ..."
+    publishedDateTime: 2023-05-17T01:02:00Z
+    webUrl: "https://siliconangle.com/2023/05/16/doj-charges-former-apple-engineer-stealing-self-driving-car-technology-china/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 0
 
 secured: "ZfvCqMXQ7/QzX988T8QmE2RXjwqJIGhz7tnEcqlnCYvCxuYxBPf1vohVF7zLy+L8//bw1L7xL2QjZdmTv8pVJOAU4RWVYBTFQLOlEfcofDs01LS8fToZ+f6/aPWIawo6gU1/9OGzaHi6JV4e+r2aYqjy3eX0o3q9XE/Y8hf4fVatWddLPNyMbMUQeaeaIuLLKincjaOU2+2QKs9hXdI4t7LPIkIiK7IkQ65mEz3nAnyqGcu2pfpA7oP1OjW6Dn0khTstl/supy5HmvuqgGOy2GcFK2KK8AkqT32mspN77BJXvvF+VLr5BOb/QpqpHfGB7H4WODVItfsIXzsRVR03h4MMkbPkjLqVfyYdtiKFMpK79VOtTmvZkeWPt1XxofR5P0wA9rxN1NcODNeO3bStDcibeX63Y1YhCzaj2frcZHf2gRtebRZx+2oc6TsOnZbin0iZGjNYIhq3XQ9kFLnknCJ20LZgPPGtG44sA11aL7H3F+7GlEInHWVYsW5vgfc9pAuZtNuQoakdIyNYPwsISA==;T8xdfKvv9j9JmPNhhNI+fQ=="
 ---

@@ -136,6 +136,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Going Beyond Generative AI To Truly Solve Productivity"
+    excerpt: "With generative AI output, it’s important to note that the information provided is usually of a descriptive or informative nature."
+    publishedDateTime: 2023-05-17T13:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/17/going-beyond-generative-ai-to-truly-solve-productivity/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "Meet the Startup Promising to Deliver the 1st Healthcare-focused Generative AI Model"
     excerpt: "Hippocratic AI emerged from stealth, as well as announced $50 million in seed funding through a round co-led by General Catalyst and Andreessen Horowitz. The Palo Alto-based startup bills itself as the first large language model designed specifically for healthcare."
     publishedDateTime: 2023-05-16T22:34:00Z
@@ -204,6 +213,15 @@ related:
     provider:
       name: The Financial Times
       domain: ft.com
+    quality: 17
+  - title: "How 4 Colorado companies are innovating with generative AI"
+    excerpt: "In Colorado, companies across a range of industries are working at the forefront of innovation with generative AI."
+    publishedDateTime: 2023-05-17T13:48:00Z
+    webUrl: "https://www.bizjournals.com/denver/news/2023/05/17/colorado-companies-innovate-generative-ai.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
     quality: 17
 
 secured: "qlc9Ui0iXdBgcTzNF5K35lPpqyOlagscG8nmZ/DHepBmoF53v+JuE1N1F1WdRtElpEzp7zmXdU04t5KmhZOaGvkwDSN9oI6aVAptCi1USKRGtI0uxSY7U9BMWwgOoT59vtJOmmJuf0l3vQPbb4BgRWdKVAzDE+QP4Wu1/JtW0ZppM7WyIaRDXkUG+/CKwjFKggcNPkkSrLY4aH2eOb+V+AtC9/vXbPGYTZ8UjOHUd+Jkcf7E7JST9eMWsD8/wUkLQvgszUGOryUksORoSHRB4wQ/4Ban46mHlFENsWgPAswBymUJjZGU0mBaija9EkTyHbx4dFnaf4tCaTuy2aVcltnBAcksYCI6W6p+1JQmxBc=;LFtvOIGhQSI7vJ0McXThLg=="

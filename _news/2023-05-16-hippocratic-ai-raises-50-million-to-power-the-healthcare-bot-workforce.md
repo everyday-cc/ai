@@ -51,6 +51,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Hippocratic AI Rakes USD 50 Million in Seed Funding to Develop Models for Healthcare"
+    excerpt: "According to a report, a startup developing AI models for the healthcare sector, Hippocratic AI, has raked in USD 50 million in a seed funding round."
+    publishedDateTime: 2023-05-17T14:43:00Z
+    webUrl: "https://enterprisetalk.com/quick-bytes/hippocratic-ai-rakes-usd-50-million-in-seed-funding-to-develop-models-for-healthcare/"
+    ampWebUrl: "https://enterprisetalk.com/quick-bytes/hippocratic-ai-rakes-usd-50-million-in-seed-funding-to-develop-models-for-healthcare/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/hippocratic-ai-rakes-usd-50-million-in-seed-funding-to-develop-models-for-healthcare/amp/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 67
+    images:
+      - url: "https://enterprisetalk.com/wp-content/uploads/2023/05/Hippocratic-AI-Rakes-USD-50-Million-in-Seed-Funding-to-Develop.jpg"
+        width: 1500
+        height: 844
+        isCached: true
   - title: "Hippocratic AI launches with $50M to build a chatbot for healthcare"
     excerpt: "There’s a newcomer artificial intelligence company on the block that wants to introduce the power of a conversational chatbot for the healthcare industry: Hippocratic AI Inc., which just launched with $50 million in funding co-led by General Catalyst and Andreessen Horowitz."
     publishedDateTime: 2023-05-16T18:54:00Z

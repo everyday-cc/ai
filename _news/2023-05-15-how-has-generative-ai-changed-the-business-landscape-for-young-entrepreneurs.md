@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/theyec/2023/05/15/how-has-generative-ai
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2023/05/15/how-has-generative-ai-changed-the-business-landscape-for-young-entrepreneurs/amp/"
 type: article
 quality: 86
-heat: 106
+heat: 116
 published: true
 
 provider:
@@ -47,6 +47,15 @@ related:
         width: 1200
         height: 674
         isCached: true
+  - title: "What OpenAI CEO Sam Altman's Congress Testimony Means For Entrepreneurs: 5 Key Takeaways"
+    excerpt: "Sam Altman testified before a Senate Judiciary subcommittee yesterday, following the resounding success of ChatGPT. Here are the 5 key takeaways for entrepreneurs."
+    publishedDateTime: 2023-05-17T12:15:00Z
+    webUrl: "https://www.forbes.com/sites/jodiecook/2023/05/17/what-openai-ceo-sam-altmans-congress-testimony-means-for-entrepreneurs-5-key-takeaways/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 40
   - title: "How Entrepreneurs Are Transforming Patient Care With AI"
     excerpt: "According to Markets and Markets, global AI in the healthcare market is projected to grow from $4.9 billion in 2020 to $45.2 billion by 2026, registering a compound annual growth rate (CAGR) of 44.9% during the forecast period."
     publishedDateTime: 2023-05-13T14:04:00Z

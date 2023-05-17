@@ -56,6 +56,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Healthcare BI Market Size, Share & Trends Analysis Report 2029| AIMR"
+    excerpt: "Moreover, the emergence of big data analytics, artificial intelligence, and machine learning technologies in healthcare is expected to drive the growth of this market in the future. Opportunities and Threats in Healthcare BI Market The Healthcare BI Market ..."
+    publishedDateTime: 2023-05-17T15:52:00Z
+    webUrl: "https://www.marketwatch.com/press-release/healthcare-bi-market-size-share-trends-analysis-report-2029-aimr-2023-05-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 84
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence in Healthcare Market [2023-2030] Business Report"
     excerpt: "A Artificial Intelligence in Healthcare market new report, spanning multiple 126 pages, offers an extensive and"
     publishedDateTime: 2023-05-14T14:37:00Z

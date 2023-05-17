@@ -33,20 +33,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "The Intersection of AI Across 6 Major Industries: Exploring Latest AI Applications From Business Perspective"
-    excerpt: "The increasing prevalence of AI applications in various industries, including finance, healthcare, legal, technology, marketing, and sales, demonstrates a promising future for the business landscape."
-    publishedDateTime: 2023-05-15T20:20:00Z
-    webUrl: "https://www.unite.ai/the-intersection-of-ai-across-6-major-industries-exploring-latest-ai-applications-from-business-perspective/"
-    type: article
-    provider:
-      name: unite
-      domain: unite.ai
-    quality: 20
-    images:
-      - url: "https://www.unite.ai/wp-content/uploads/2023/05/image1-1000x600.jpg"
-        width: 1000
-        height: 600
-        isCached: true
 
 secured: "ChHjtg86dmoRm02SskKG94tHwjrWo5PtexyFwshBJMSN4alEW6jE01XwKtgX0OfTvfLuPMfMuqK3e5RG8OOE9S1CY+Hz3pbo6k4HKJGSSnNXEfQgFkfrV5fZLEK5YQK0vLndfX9ma+5y6Ef4PYIFFtuuo7t8Ib02ew/M/K/KK3mKgIz4Uotwpekiow6I+LbhDSDd9cUvKgFQ3oUI2NFm4u2MTLBo++BQ16cZBUYZ0g4cBua4PeQ/412/VvWup4xJE0ATMvszwD03XElLW/dPp/hQRfXcY2FuHACDbBdzPxxGPNpxgLJY4B+3jN7fsdmtbUDNOoiOQX3WcF+43ThkOKjlKFA5pobMGTWrDA/4kCE=;h61UTZ15Z0lqnFXfYz88KQ=="
 ---

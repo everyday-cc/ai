@@ -40,17 +40,6 @@ related:
         width: 768
         height: 482
         isCached: true
-  - title: "Google 'Bard': Company enhances search engine with Artificial Intelligence"
-    excerpt: "Google now offers their artificial intelligence called 'Bard' to conduct searches, write emails, and edit photos."
-    publishedDateTime: 2023-05-12T22:39:00Z
-    webUrl: "https://www.fox26houston.com/news/google-bard-search-engine-artificial-intelligence"
-    ampWebUrl: "https://www.fox26houston.com/news/google-bard-search-engine-artificial-intelligence.amp"
-    cdnAmpWebUrl: "https://www-fox26houston-com.cdn.ampproject.org/c/s/www.fox26houston.com/news/google-bard-search-engine-artificial-intelligence.amp"
-    type: article
-    provider:
-      name: KRIV
-      domain: fox26houston.com
-    quality: 35
   - title: "Sinequa accelerates drug development and clinical research with AI-powered scientific search"
     excerpt: "Sinequa presents generative AI and neural search capabilities for accelerating clinical research and drug development"
     publishedDateTime: 2023-05-15T15:00:00Z

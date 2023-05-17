@@ -7,8 +7,8 @@ originalUrl: "https://www.forbes.com/advisor/in/personal-finance/what-does-ai-me
 webUrl: "https://www.forbes.com/advisor/in/personal-finance/what-does-ai-mean-for-your-money/"
 type: article
 quality: 67
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Forbes
@@ -26,6 +26,22 @@ images:
     width: 960
     height: 540
     isCached: true
+
+related:
+  - title: "Before AI Takes Over, Make Plans to Give Everyone Money"
+    excerpt: "Here in the United States, an AI jobs revolution need not be anything for average wage-earning families to fear. If AI does not enslave the human race or destroy humanity outright, this generative technology can and should be a very,"
+    publishedDateTime: 2023-05-17T14:53:00Z
+    webUrl: "https://www.theatlantic.com/ideas/archive/2023/05/ai-job-losses-policy-support-universal-basic-income/674071/"
+    type: article
+    provider:
+      name: The Atlantic
+      domain: theatlantic.com
+    quality: 67
+    images:
+      - url: "https://cdn.theatlantic.com/thumbor/VCHLO5tj8BoZvOSAmITi2py2Mqw=/0x102:4792x2598/1200x625/media/img/mt/2023/05/AI_UBI_2/original.jpg"
+        width: 1200
+        height: 625
+        isCached: true
 
 secured: "hHHkDfB9cwvqLys3mr0NxdHFcO8sZWvAtzsOAOOgKbKkYp3G/6VgHy+3isXpKMrd75ifyv7+x1TsvyQ1oOyc5mqnKwB+hfXl7c1L0V4EVFvuOLOKp/hYOqfXe9hDVvCnlcgLPnNLkOAZ38Tur+cckVnoQ6NGy2wjPN0bWlJ3VxM0qBIkJWe/liaERxw6riCo1l2/D2OpZaorglah/JuGPL31Y/LCkOaMo1asRxkbWEGAs9TrokuP+tqgDBnh0n9NDIMK7mmhvFiVzW5yoGz/s3mqao/yGd0gSjH4hc2jPWvO1MFfVFvPwhfw5jiBDPBKVZO8oG6oo8GhugsZE18LgXR36Ldr5umZ4ZCBVU7pYcCVkgKu1LOkAXnci3w4q9In7w+a6Y7Qq0E2/k55xvCP0Q5y0wBzgQTqblj+C0GU3maY+tEbgSWS9XCssvbCWB++23XQri24LhySGRZznv9JwO1blwie87fnP0C8mKJd5drCh8YCuEzPy3oPENMdRjxLx95wwUMfBPQ+TktJylDgTw==;LFRNIpi4qn6f96NFGP01QA=="
 ---

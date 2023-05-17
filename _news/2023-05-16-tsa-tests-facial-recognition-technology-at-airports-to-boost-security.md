@@ -326,20 +326,6 @@ related:
         width: 490
         height: 350
         isCached: true
-  - title: "TSA testing facial recognition technology, prompting privacy concerns"
-    excerpt: "A new project by the Transportation Security Administration is using facial recognition software to verify identities."
-    publishedDateTime: 2023-05-16T06:19:00Z
-    webUrl: "https://www.fox13now.com/tsa-testing-facial-recognition-technology-prompting-privacy-concerns"
-    type: article
-    provider:
-      name: fox13now
-      domain: fox13now.com
-    quality: 39
-    images:
-      - url: "https://ewscripps.brightspotcdn.com/dims4/default/34a37e7/2147483647/strip/true/crop/960x504+0+108/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcdn.scrippsnews.com%2Fimages%2Fvideos%2Fz%2F1684195627_h09L7Q.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Are you are who you say you are? TSA test facial recognition technology to boost airport security"
     excerpt: "A passenger walks up to an airport security checkpoint, slips an ID card into a slot and looks into a camera atop a small screen. The screen flashes “Photo Complete” and the person walks through — all without having to hand over their identification to the TSA officer sitting behind the screen."
     publishedDateTime: 2023-05-15T12:25:00Z
@@ -404,6 +390,15 @@ related:
       name: The Daily Record (Maryland)
       domain: thedailyrecord.com
     quality: 28
+  - title: "TSA testing facial recognition technology, prompting privacy concerns"
+    excerpt: "A new project by the Transportation Security Administration is using facial recognition software to verify identities."
+    publishedDateTime: 2023-05-16T06:19:00Z
+    webUrl: "https://www.kshb.com/tsa-testing-facial-recognition-technology-prompting-privacy-concerns"
+    type: article
+    provider:
+      name: KSHB Kansas City
+      domain: kshb.com
+    quality: 19
 
 secured: "aoW4vUQGXSf6mVsCx4pOQynNXhij5WVakv7XhRskEIdJeFEOgmiCWJ60hOByrcSMIUmQaaEHlvYiVQHk3KlJczuoTYjUjmkKkz4aKifs/7LxkYjBj8dqtC/FaFpPr8S4bop2fdd3XdfuGKDJi2ziYDKH05UFhH9uHv8YCYbwFC5Akf8/PP9xYl0GqBfWLgD16KwJ51XTpO/4Ievh+4RLeR/AiysdPeS1BoLgAb/QyDke6MzvDMR0FoVC76N9PcaFMLoomFUL0MxY7+h5HrPIghYfRiF/SHj2VNn1wmNAOtBuBPr9X/V7sVKTBuFKYGVOjULpR03GWY1EcfQlgL/7zGMX3yMTQK8BiHj66HXLJWQ=;dkHyeTKijj6iBvsNohx9dQ=="
 ---

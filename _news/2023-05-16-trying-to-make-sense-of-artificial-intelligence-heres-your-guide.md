@@ -8,8 +8,8 @@ webUrl: "https://www.nbcnews.com/tech/innovation/ai-explain-openai-chatgpt-how-t
 ampWebUrl: "https://www.nbcnews.com/news/amp/rcna77889"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna77889"
 type: article
-quality: 89
-heat: 99
+quality: 93
+heat: 103
 published: true
 
 provider:
@@ -19,6 +19,8 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Autos
+  - AI in Healthcare
 
 images:
   - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-04/230428-ai-explainer-lr-5c8005.jpg"

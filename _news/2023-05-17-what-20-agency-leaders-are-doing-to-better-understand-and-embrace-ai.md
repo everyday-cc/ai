@@ -7,8 +7,8 @@ originalUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/05/16/what-2
 webUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/05/16/what-20-agency-leaders-are-doing-to-better-understand-and-embrace-ai/"
 type: article
 quality: 69
-heat: -1
-published: false
+heat: 89
+published: true
 
 provider:
   name: Forbes
@@ -29,19 +29,31 @@ images:
     isCached: true
 
 related:
-  - title: "Wes Anderson’s Harry Potter? All the AI Wes Anderson parodies, ranked"
-    excerpt: "Wes Anderson's Star Wars? The rise of AI-generated images has triggered many mash-ups of the director's style with popular franchises. We rank them all."
-    publishedDateTime: 2023-05-12T22:31:00Z
-    webUrl: "https://www.digitaltrends.com/movies/all-the-wes-anderson-artificial-intelligent-parodies-ranked/"
-    ampWebUrl: "https://www.digitaltrends.com/movies/all-the-wes-anderson-artificial-intelligent-parodies-ranked/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/movies/all-the-wes-anderson-artificial-intelligent-parodies-ranked/?amp"
+  - title: "When artificial intelligence can understand and translate (almost) any language"
+    excerpt: "Finally, during the Google I/O conference, the demonstration of a new, still experimental, technology called \"Universal Translator ... to integrate AI into its search engine, Gmail, Photos and Maps to help make them even better in any language."
+    publishedDateTime: 2023-05-17T02:05:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2023/05/17/when-artificial-intelligence-can-understand-and-translate-almost-any-language"
     type: article
     provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 87
+      name: The Star
+      domain: thestar.com.my
+    quality: 50
     images:
-      - url: "https://www.digitaltrends.com/wp-content/uploads/2023/05/wes-anderson-harry-potter.jpg?resize=1200%2C630&p=1"
+      - url: "https://apicms.thestar.com.my/uploads/images/2023/05/16/2075773.jpg"
+        width: 1240
+        height: 697
+        isCached: true
+  - title: "72-year-old congressman pursuing master's degree to better understand AI"
+    excerpt: "At age 72, U.S. Rep. Don Beyer of Virginia is back in school and pursuing a master's degree. He hopes to gain a better understanding of AI to help craft better laws surrounding the emerging technology."
+    publishedDateTime: 2023-05-14T23:59:00Z
+    webUrl: "https://www.cbsnews.com/sanfrancisco/video/72-year-old-congressman-pursuing-masters-degree-to-better-understand-ai/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 36
+    images:
+      - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2023/05/14/41b1d16d-0a1a-4a53-ba4a-5ab2c9fbb2ec/thumbnail/1200x630/6c6e814066c8d1359aab9bb42eac29b9/0514-wn-strassmann-1967927-640x360.jpg"
         width: 1200
         height: 630
         isCached: true

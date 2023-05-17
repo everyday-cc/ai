@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/qai/2023/05/15/goldman-sachs-is-a-surpr
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/05/15/goldman-sachs-is-a-surprising-new-entrant-in-the-ai-race-with-new-ai-social-media-platform/amp/"
 type: article
 quality: 77
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -30,6 +30,15 @@ images:
     isCached: true
 
 related:
+  - title: "AI will make workers 'superhuman': Goldman Sachs CIO Marco Argenti"
+    excerpt: "The New York bank is hoping for 30% to 40% productivity improvements from the use of AI in areas like software development and knowledge extraction."
+    publishedDateTime: 2023-05-16T21:44:00Z
+    webUrl: "https://www.americanbanker.com/news/ai-will-make-workers-become-superhuman-goldman-sachs-cio-marco-argenti"
+    type: article
+    provider:
+      name: American Banker
+      domain: americanbanker.com
+    quality: 19
   - title: "AI will make workers become 'superhuman': Goldman Sachs CIO Marco Argenti"
     excerpt: "The New York bank is hoping for 30% to 40% productivity improvements from the use of AI in areas like software development and knowledge extraction."
     publishedDateTime: 2023-05-16T17:44:00Z

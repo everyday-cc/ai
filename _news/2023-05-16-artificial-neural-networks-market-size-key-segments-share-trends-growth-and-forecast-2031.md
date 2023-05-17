@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "2023 Self-Driving Street Sweeper Market Size and Insight Report in Machinery & Equipment Sector | with [106 Pages] and Forecast till 2031"
+    excerpt: "May 17, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" The Global \"Self-Driving Street Sweeper Market\" report [106 Pages] is a useful tool, for companies trying to keep ahead of the competition in ..."
+    publishedDateTime: 2023-05-17T13:09:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-self-driving-street-sweeper-market-size-and-insight-report-in-machinery-equipment-sector-with-106-pages-and-forecast-till-2031-2023-05-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 21
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "UvpRn4sAoXPcYVQTGfnuNve1PojKWkDSo/VrPbI0PjLfMb9A0gTt89RVMUV0gibKpzndEE3eQQtKzgQwzAArEi03sCmUY34zpxlZXwAgNBe3qOb5yZaq5SMlbZjPkhXnnD3oN0hokr+c7C2ZSK3qZe3POKovXfTgbuB1QsJ9q6G1dv08cwHF3IX+m/cUPQcjtCO24k9fYvAfAjP7K2OpSJ+SNL2wcZh0cFyJ8oNYGv93cLRQYgey+Ib2lyyqj2zucxHGvSFGIIezSuIwprsJWCdfurJ0JEmoxwpji+G9KjYzma78cYh/jGcQf4LOl6KmbvBdU3EkZQnFSczDEVIhTQRigTd0yh6RMhS6aCisGNQ=;GaleIm+sVZ9qSwh/tEnc2w=="
 ---
