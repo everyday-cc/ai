@@ -76,20 +76,6 @@ related:
         width: 900
         height: 394
         isCached: true
-  - title: "Microsoft’s Bing AI adds contextual chat, widget on Android and iOS"
-    excerpt: "Microsoft has just delivered a bunch of updates to Bing AI, including contextual chat and a new widget on Android and iOS."
-    publishedDateTime: 2023-05-16T16:19:00Z
-    webUrl: "https://9to5google.com/2023/05/16/microsoft-bing-ai-widget-android-ios/"
-    type: article
-    provider:
-      name: 9to5google
-      domain: 9to5google.com
-    quality: 56
-    images:
-      - url: "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/03/bing-logo-circle-5.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
 
 secured: "3MRAkmvx5jh3Fcqmw9Z4Gazj852ixgxkxKcP9BQgXsJdUm9rYmnLFptU6z8LB4ApotfYZ3DXZGE0geZ6zTCJdE6Qhtq+oN5ZyAiHkcSYCX9v3BQVghPmo0wjb2Kl6ctHo59ZEp83Xm2y4YLgaOYwMTjq7bsZ4KLyH1YDr1wglR/C60GadAhWzZlPaNRlyown4feb111DlEUQFwbFnel9ES59HU8KScT8nPsz8Skr3fcxTkciYOsPFoQzsbIAL8QvJqbvmvU2eZYR+Yc2DS8LsZ+TLuhqkrnGjzrC2LwtIiv1NRgRN7BE/SsBRJ0ejFwd648WwTfKhllKBMSDEpP1dx3fXKTbcAZzEctWgwAPhNBbPnJFubfDtFYyDyOrUrbgU1QRwZgHdbKs/HR/waeVd4uCn+Fw1MR8glnVYIvOVflElw0g4q9Nl09uifWSY68tcrzDkj+tmztkSpdr/3dCwcyfiaAtmjwdeLzcgFPGbOce+VZrPocy7fq1kmnDt9CH+YAP2UoAZwwAHy18x/A1jA==;4GtXTKmGb5gz8HMe+srVQw=="
 ---

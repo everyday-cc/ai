@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologyreview.com/2023/05/15/1073019/catching-bad-con
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/05/15/1073019/catching-bad-content-in-the-age-of-ai/amp/"
 type: article
 quality: 59
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -77,6 +77,15 @@ related:
       name: Skift
       domain: skift.com
     quality: 39
+  - title: "The Future Of AI Training Demands Optical Interconnects"
+    excerpt: "Artificial intelligence has taken the datacenter by storm, and it is forcing companies to rethink the balance between compute, storage, and networking. Or"
+    publishedDateTime: 2023-05-15T17:21:00Z
+    webUrl: "https://www.nextplatform.com/2023/05/15/the-future-of-ai-training-demands-optical-interconnects/"
+    type: article
+    provider:
+      name: The Next Platform
+      domain: nextplatform.com
+    quality: 19
 
 secured: "HQ9xS2kjMyyT9bDoncCpQ/iLHgQm00t73mZC8LwGmraQnxR0ddSUrLgIQDFYh8c+7Pv1jpHUigtNgEggDFDlcXqGU5xSDrnc5PIx+A3OJUdvHX9oHx7YEY3bjkri9PrJnKDBEOp6FicOPtrCcqsmUWezl4fkiedStZGrI8itrkNrC18s6HxrMpW3wP9mxtp70CEb17O7nl6u2uFy4r4XzB93/MLpo1yiVPwIRJpkXzTK9UmrOn3bD5OvRbZMiobYBF7pLFcY3Py9WSAICU4OXgWwDd+Q2PCLW5AJWlLNc++0At9+hDn5RyE2ZP/wXfJobmo6TrSE4pEBuW6DmK3oiaDzL4NAYBRnea4ws1NZEV/qnwkaDgbrYxUdh5RqoMN8RHGUf+tiAwG7NWiHEnAKb8GTlOzG+v2TZuh/I7Iapmf0e17hT+QqrecC9tQPzKiNtTgqK7WQDibjm9FuQNfc4khxcecu6pZzDEdzoeVRKiVx/OqXGvWZHc3uJj1seklybVyhUT902SS4eQZIFrdf+g==;Uqv3IRBWw2NVMNiPN4u7NA=="
 ---

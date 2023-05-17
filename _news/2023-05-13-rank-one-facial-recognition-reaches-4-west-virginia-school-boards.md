@@ -41,6 +41,22 @@ related:
         width: 840
         height: 438
         isCached: true
+  - title: "Virginia company using AI to help identify veterans at risk of suicide early"
+    excerpt: "CHARLOTTESVILLE, Va. (WVIR) - A Virginia-based company is using artificial intelligence as a suicide prevention tool for veterans. Mike Hudson is a veteran and the vice president of ClearForce."
+    publishedDateTime: 2023-05-16T21:46:00Z
+    webUrl: "https://www.nbc29.com/2023/05/16/virginia-company-using-ai-help-identify-veterans-risk-suicide-early/"
+    ampWebUrl: "https://www.nbc29.com/2023/05/16/virginia-company-using-ai-help-identify-veterans-risk-suicide-early/?outputType=amp"
+    cdnAmpWebUrl: "https://www-nbc29-com.cdn.ampproject.org/c/s/www.nbc29.com/2023/05/16/virginia-company-using-ai-help-identify-veterans-risk-suicide-early/?outputType=amp"
+    type: article
+    provider:
+      name: NBC29
+      domain: nbc29.com
+    quality: 56
+    images:
+      - url: "https://gray-wvir-prod.cdn.arcpublishing.com/resizer/VnCQZjpfmfkmjtoaGx_KoPyd1wk=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/ZIONHAI7GFAKBLW55ZKDKNNJHM.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Facial recognition technology coming to West Virginia schools"
     excerpt: "Four West Virginia county school districts have installed or are in the process of installing new facial recognition technology. Jonah Adkins. Jonah Adkins,"
     publishedDateTime: 2023-05-15T17:24:00Z

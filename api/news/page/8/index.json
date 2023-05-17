@@ -2,6 +2,196 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2023-05-11-face-recognition-systems-market-worldwide-industry-trends-2023-2030.md",
+      "title": "Face Recognition Systems Market | Worldwide Industry Trends 2023-2030",
+      "excerpt": "The report offers essential statistical information on the market status of Face Recognition Systems players, making it",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/face-recognition-systems-market-worldwide-industry-trends-2023-2030-2023-05-11",
+      "originalUrl": "https://www.marketwatch.com/press-release/face-recognition-systems-market-worldwide-industry-trends-2023-2030-2023-05-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-11T03:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-11-how-europe-is-at-the-forefront-of-building-artificial-intelligence-guardrails.md",
+      "title": "How Europe is at the forefront of building artificial intelligence guardrails",
+      "excerpt": "Authorities around the world are racing to draw up rules for artificial intelligence, including in the European Union, where draft legislation faced a pivotal moment on Thursday. A",
+      "sourceUrl": null,
+      "webUrl": "https://kdvr.com/news/technology/how-europe-is-building-artificial-intelligence-guardrails/",
+      "originalUrl": "https://kdvr.com/news/technology/how-europe-is-building-artificial-intelligence-guardrails/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://kdvr.com/wp-content/uploads/sites/11/2023/05/645cb94a2eb286.56802250.jpeg?w=1280",
+          "width": 1280,
+          "height": 853,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://kdvr.com/news/technology/how-europe-is-building-artificial-intelligence-guardrails/amp/",
+      "cdnAmpWebUrl": "https://kdvr-com.cdn.ampproject.org/c/s/kdvr.com/news/technology/how-europe-is-building-artificial-intelligence-guardrails/amp/",
+      "publishedDateTime": "2023-05-11T02:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "FOX31 Denver",
+        "domain": "kdvr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-11-megatrends-ai-and-robotics.md",
+      "title": "Megatrends: AI and Robotics",
+      "excerpt": "Exhibit A in the global megatrends arena is technological innovation, particularly artificial intelligence, or AI, and its impact on critical technology sectors like robotics, machine learning and ...",
+      "sourceUrl": null,
+      "webUrl": "https://money.usnews.com/investing/articles/megatrends-ai-and-robotics",
+      "originalUrl": "https://money.usnews.com/investing/articles/megatrends-ai-and-robotics",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-11T02:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-05-11-2023-to-2030-data-and-ai-ethics-market-size-with-the-rising-need-to-broaden-viewpoint.md",
+      "title": "2023 To 2030, Data and AI Ethics Market Size With The Rising Need To Broaden Viewpoint",
+      "excerpt": "This Data and AI Ethics Market report researches the key producers of Data and AI Ethics, also provides the sales of main regions and countries. Highlights of the upcoming market",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/2023-to-2030-data-and-ai-ethics-market-size-with-the-rising-need-to-broaden-viewpoint-2023-05-11",
+      "originalUrl": "https://www.marketwatch.com/press-release/2023-to-2030-data-and-ai-ethics-market-size-with-the-rising-need-to-broaden-viewpoint-2023-05-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-10T23:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-11-the-hot-new-job-that-pays-six-figures-ai-prompt-engineering.md",
       "title": "The Hot New Job That Pays Six Figures: AI Prompt Engineering",
       "excerpt": "The emerging field of prompt engineering involves using generative AI tools and natural language processing to create more effective outputs. But what are the skills required? Which companies are hiring for this role?",
@@ -1039,203 +1229,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2023-05-10T12:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-11-film-and-tv-writers-should-not-fear-ai-the-chairman-of-uclas-screenwriting-program-says.md",
-      "title": "Film and TV writers 'should not fear' AI, the chairman of UCLA's screenwriting program says",
-      "excerpt": "Richard Walter, a screenwriter for half a century, says AI tools like ChatGPT can be a useful tool for writers and exhibit flaws just like humans do.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/film-tv-writers-should-not-fear-ai-amid-strike-screenwriting-2023-5",
-      "originalUrl": "https://www.businessinsider.com/film-tv-writers-should-not-fear-ai-amid-strike-screenwriting-2023-5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/645ba2cac726bc00196ab5d5?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/film-tv-writers-should-not-fear-ai-amid-strike-screenwriting-2023-5?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/film-tv-writers-should-not-fear-ai-amid-strike-screenwriting-2023-5?amp",
-      "publishedDateTime": "2023-05-10T11:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-11-ai2-incubators-new-30m-fund-triples-down-on-early-stage-ai-startups.md",
-      "title": "AI2 Incubator’s new $30M fund triples down on early-stage AI startups",
-      "excerpt": "There's a difference between \"startups that use AI\" and \"AI startups,\" and AI2 just raised a $30M fund to back a bunch more of the latter.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/05/10/ai2-incubators-new-30m-fund-triples-down-on-early-stage-ai-startups/",
-      "originalUrl": "https://techcrunch.com/2023/05/10/ai2-incubators-new-30m-fund-triples-down-on-early-stage-ai-startups/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/05/ai2-wb.jpg?resize=1200,731",
-          "width": 1200,
-          "height": 731,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/05/10/ai2-incubators-new-30m-fund-triples-down-on-early-stage-ai-startups/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/10/ai2-incubators-new-30m-fund-triples-down-on-early-stage-ai-startups/amp/",
-      "publishedDateTime": "2023-05-10T11:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-10-being-bold-on-ai-means-being-responsible-from-the-start.md",
-      "title": "Being bold on AI means being responsible from the start",
-      "excerpt": "Google’s James Manyika discusses how Google responsibly applies AI to benefit people and society.",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/technology/ai/google-responsible-ai-io-2023/",
-      "originalUrl": "https://blog.google/technology/ai/google-responsible-ai-io-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-10T11:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-10-supercharging-search-with-generative-ai.md",
-      "title": "Supercharging Search with generative AI",
-      "excerpt": "We’re starting with an experiment in Search Labs called SGE, Search Generative Experience, which uses generative AI.",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/products/search/generative-ai-search/",
-      "originalUrl": "https://blog.google/products/search/generative-ai-search/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 359,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/socialshare-test.width-1300.jpg",
-          "width": 1300,
-          "height": 731,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/products/search/generative-ai-search/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/search/generative-ai-search/amp/",
-      "publishedDateTime": "2023-05-10T10:45:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Google",

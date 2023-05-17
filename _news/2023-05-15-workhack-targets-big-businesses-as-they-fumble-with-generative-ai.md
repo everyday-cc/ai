@@ -121,21 +121,19 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Meta Joins Generative AI Race, Will Begin Testing AI-Powered Ads Tools to Create Content"
-    excerpt: "A select group of advertisers will be invited to experiment with the tools in a \"testing playground\" that Meta is calling the AI Sandbox."
-    publishedDateTime: 2023-05-12T06:49:00Z
-    webUrl: "https://www.gadgets360.com/internet/news/facebook-meta-announces-generative-ai-ads-tool-testing-artificial-intelligence-4027738"
-    ampWebUrl: "https://www.gadgets360.com/internet/news/facebook-meta-announces-generative-ai-ads-tool-testing-artificial-intelligence-4027738/amp"
-    cdnAmpWebUrl: "https://www-gadgets360-com.cdn.ampproject.org/c/s/www.gadgets360.com/internet/news/facebook-meta-announces-generative-ai-ads-tool-testing-artificial-intelligence-4027738/amp"
+  - title: "Meet the Startup Promising to Deliver the 1st Healthcare-focused Generative AI Model"
+    excerpt: "Hippocratic AI emerged from stealth, as well as announced $50 million in seed funding through a round co-led by General Catalyst and Andreessen Horowitz. The Palo Alto-based startup bills itself as the first large language model designed specifically for healthcare."
+    publishedDateTime: 2023-05-16T22:34:00Z
+    webUrl: "https://medcitynews.com/2023/05/chatgpt-gpt4-burnout-generative-ai-healthcare-workforce-general-catalyst-andreessen-horowitz/"
     type: article
     provider:
-      name: gadgets360
-      domain: gadgets360.com
-    quality: 48
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 47
     images:
-      - url: "https://i.gadgets360cdn.com/large/meta_image_reuters_1654769238524.jpg"
-        width: 1200
-        height: 675
+      - url: "https://medcitynews.com/uploads/2023/03/GettyImages-1465456623.jpg"
+        width: 724
+        height: 483
         isCached: true
   - title: "KPMG makes generative AI available to partners and staff"
     excerpt: "KPMG announced a new initiative to deploy a series of generative AI partnerships and investments to reinvent how the firm operates."

@@ -2,6 +2,100 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-05-17-dataai-mobile-game-app-revenue-split-evenly-between-ads-iap.md",
+      "title": "Data.ai: Mobile game app revenue split evenly between ads, IAP",
+      "excerpt": "Data.ai's total app revenue metric shows monetization trends for games and other apps. Mobile game spend is split between ad spend and IAP.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/games/dataai-total-app-revenue-mobile-games-in-app-ad-spend/",
+      "originalUrl": "https://venturebeat.com/games/dataai-total-app-revenue-mobile-games-in-app-ad-spend/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/05/Data-AI-Ad-revenue-in-app-puchase-trends-2022.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 611,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/games/dataai-total-app-revenue-mobile-games-in-app-ad-spend/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/dataai-total-app-revenue-mobile-games-in-app-ad-spend/amp/",
+      "publishedDateTime": "2023-05-16T16:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-17-microsoft-ceo-speaks-on-the-future-of-artificial-intelligence.md",
+      "title": "Microsoft CEO speaks on the future of artificial intelligence",
+      "excerpt": "The CEO of OpenAI, the company responsible for ChatGPT, called on Congress today to regulate artificial intelligence. CNBC’s Andrew Ross Sorkin sat down with Microsoft’s CEO Satya Nadella to talk about both the concerns and benefits after his company invested billions in OpenAI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/nightly-news/video/microsoft-ceo-speaks-on-the-future-of-artificial-intelligence-174560325527",
+      "originalUrl": "https://www.nbcnews.com/nightly-news/video/microsoft-ceo-speaks-on-the-future-of-artificial-intelligence-174560325527",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_05/1684278439038_nn_aso_hill_hearings_satya_nadella_exclusive_230516_1920x1080-e9hhf5.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo174560325527",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo174560325527",
+      "publishedDateTime": "2023-05-16T16:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-17-ai-hearing-fills-technical-knowledge-that-lawmakers-sometimes-lack-democratic-congressman.md",
       "title": "AI hearing fills ‘technical knowledge’ that lawmakers sometimes ‘lack’: Democratic congressman",
       "excerpt": "Rep. Jay Obernolte (R-Calif.) joins Meet the Press NOW to discuss the potential and dangers of AI, as well as Congress’ road to regulation for the rapidly developing technology following Tuesday’s AI hearing on Capitol Hill.",
@@ -156,7 +250,7 @@
       "originalUrl": "https://arstechnica.com/tech-policy/2023/05/ai-technology-can-go-quite-wrong-openai-ceo-tells-senate/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 167,
+      "heat": 187,
       "tags": null,
       "images": [
         {
@@ -483,7 +577,7 @@
       "originalUrl": "https://www.theguardian.com/uk-news/2023/may/16/ministers-calling-for-facial-recognition-technology-in-police-bodycams",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": 86,
       "tags": null,
       "images": [
         {
@@ -579,7 +673,7 @@
       "originalUrl": "https://www.zdnet.com/article/zoom-adds-an-ai-assistant-named-claude/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 118,
       "tags": null,
       "images": [
         {
@@ -674,6 +768,49 @@
       ]
     },
     {
+      "path": "_news/2023-05-16-trying-to-make-sense-of-artificial-intelligence-heres-your-guide.md",
+      "title": "Trying to make sense of artificial intelligence? Here’s your guide",
+      "excerpt": "ChatGPT came on the scene as something different. Not only could it answer a seemingly unlimited number of questions, but it could also write screenplays, summarize huge amounts of information and imitate a human in conversation somewhat convincingly. It immediately seemed, at a minimum, that it could one day make everyday life more efficient.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/tech/innovation/ai-explain-openai-chatgpt-how-to-rcna77889",
+      "originalUrl": "https://www.nbcnews.com/tech/innovation/ai-explain-openai-chatgpt-how-to-rcna77889",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-04/230428-ai-explainer-lr-5c8005.jpg",
+          "width": 2500,
+          "height": 1250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna77889",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna77889",
+      "publishedDateTime": "2023-05-16T08:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-16-microsofts-azure-openai-can-collect-analyze-healthcare-data.md",
       "title": "Microsoft's Azure OpenAI can collect, analyze healthcare data",
       "excerpt": "Microsoft's Azure OpenAI platform is being used to collect and analyze healthcare data. For instance, Opus 5K, a health IT software company based in Australia, deployed the technology for its MARS (Measurement, Analysis and Reporting System) platform.",
@@ -682,7 +819,7 @@
       "originalUrl": "https://www.beckershospitalreview.com/disruptors/microsofts-azure-openai-can-collect-analyze-healthcare-data.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 136,
+      "heat": 126,
       "tags": null,
       "images": [
         {
@@ -778,7 +915,7 @@
       "originalUrl": "https://www.forbes.com/sites/timbajarin/2023/05/16/cheat-sheets-for-ai-information-overload/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 167,
+      "heat": 157,
       "tags": null,
       "images": [
         {
@@ -1061,161 +1198,6 @@
       "topics": [
         "IBM AI",
         "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2023-05-16-ai-wont-separate-you-from-your-competitors-but-your-content-strategy-could.md",
-      "title": "AI Won’t Separate You From Your Competitors, But Your Content Strategy Could",
-      "excerpt": "Artificial intelligence is a tool and is only as good as the content you feed it, the people who manage it and the structures you have in place to support it.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/theyec/2023/05/16/ai-wont-separate-you-from-your-competitors-but-your-content-strategy-could/",
-      "originalUrl": "https://www.forbes.com/sites/theyec/2023/05/16/ai-wont-separate-you-from-your-competitors-but-your-content-strategy-could/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64595406c962fe6795be84e9/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 484,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/theyec/2023/05/16/ai-wont-separate-you-from-your-competitors-but-your-content-strategy-could/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2023/05/16/ai-wont-separate-you-from-your-competitors-but-your-content-strategy-could/amp/",
-      "publishedDateTime": "2023-05-16T04:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-16-ai-in-computer-vision-market-outlook-of-key-countries-a-comprehensive-analysis-of-growth-factors-2023-2030.md",
-      "title": "AI in Computer Vision Market Outlook of Key Countries: A Comprehensive Analysis of Growth Factors 2023-2030",
-      "excerpt": "May 16, 2023 (The Expresswire) -- \"Stay informed with the Latest New Insight Updates on AI in Computer Vision Market to remain Competitive and",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-outlook-of-key-countries-a-comprehensive-analysis-of-growth-factors-2023-2030-2023-05-16",
-      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-outlook-of-key-countries-a-comprehensive-analysis-of-growth-factors-2023-2030-2023-05-16",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-16T04:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-16-where-healthcare-meets-tech-three-crucial-areas-of-discussion.md",
-      "title": "Where Healthcare Meets Tech: Three Crucial Areas Of Discussion",
-      "excerpt": "The first has to do with artificial intelligence, particularly in terms of improving the patient experience, lowering costs, and speeding up patient selection and triage. A lot can be said about the potential of AI when applied to healthcare. According to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/16/where-healthcare-meets-tech-three-crucial-areas-of-discussion/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/16/where-healthcare-meets-tech-three-crucial-areas-of-discussion/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/646235bedaef4a82dbbcd1ea/0x0.jpg?format=jpg&crop=2366,1330,x0,y217,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/16/where-healthcare-meets-tech-three-crucial-areas-of-discussion/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/05/16/where-healthcare-meets-tech-three-crucial-areas-of-discussion/amp/",
-      "publishedDateTime": "2023-05-16T04:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

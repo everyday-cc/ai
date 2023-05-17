@@ -593,58 +593,6 @@
       ]
     },
     {
-      "path": "_news/2023-05-13-generative-ai-breaks-the-data-center-data-center-infrastructure-and-operating-costs-projected-to-increase-to-over-76-billion-by-2028.md",
-      "title": "Generative AI Breaks The Data Center: Data Center Infrastructure And Operating Costs Projected To Increase To Over $76 Billion By 2028",
-      "excerpt": "For perspective, this cost is more than twice the estimated annual operating cost of Amazon’s cloud service AWS, which today holds one third of the cloud infrastructure services market according to Tirias Research estimates.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tiriasresearch/2023/05/12/generative-ai-breaks-the-data-center-data-center-infrastructure-and-operating-costs-projected-to-increase-to-over-76-billion-by-2028/",
-      "originalUrl": "https://www.forbes.com/sites/tiriasresearch/2023/05/12/generative-ai-breaks-the-data-center-data-center-infrastructure-and-operating-costs-projected-to-increase-to-over-76-billion-by-2028/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/645e9ce710eaa0e7d2a69866/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 514,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tiriasresearch/2023/05/12/generative-ai-breaks-the-data-center-data-center-infrastructure-and-operating-costs-projected-to-increase-to-over-76-billion-by-2028/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2023/05/12/generative-ai-breaks-the-data-center-data-center-infrastructure-and-operating-costs-projected-to-increase-to-over-76-billion-by-2028/amp/",
-      "publishedDateTime": "2023-05-12T13:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-05-12-ai-run-etf-dumps-apple-in-favor-of-this-chip-stock-and-hints-at-new-opportunity-brewing-in-market.md",
       "title": "AI-Run ETF Dumps Apple In Favor Of This Chip Stock And Hints At New Opportunity Brewing In Market",
       "excerpt": "QRAFT AI-Enhanced U.S. Large Cap Momentum ETF (NYSE:AMOM) had a 7.96% of its portfolio’s weight in Apple in April but sold the entire stake in May. Incidentally, Apple was the fund's top holding in April.",
@@ -1014,22 +962,31 @@
       "title": "Chinese scientists reveal shocking brain chip that allows monkeys to control a robotic arm with their mind",
       "excerpt": "SCIENTISTS in China have made a breakthrough in ‘Frankenstein’ brain chip technology, with the aim of letting people control machines with their mind. For now though, the technology",
       "sourceUrl": null,
-      "webUrl": "https://www.thesun.ie/tech/10687685/chinese-scientists-brain-chip-monkey-control-robotic-arm/",
-      "originalUrl": "https://www.thesun.ie/tech/10687685/chinese-scientists-brain-chip-monkey-control-robotic-arm/",
+      "webUrl": "https://www.thesun.co.uk/tech/22310762/chinese-scientists-brain-chip-monkey-control-robotic-arm/",
+      "originalUrl": "https://www.thesun.co.uk/tech/22310762/chinese-scientists-brain-chip-monkey-control-robotic-arm/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://www.thesun.co.uk/wp-content/uploads/2023/05/OP_LY_NANKAI-UNIVERSITY.jpg?strip=all&quality=100&w=1920&h=1080&crop=1",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
+      "ampWebUrl": "https://www.thesun.co.uk/tech/22310762/chinese-scientists-brain-chip-monkey-control-robotic-arm/amp/",
+      "cdnAmpWebUrl": "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/tech/22310762/chinese-scientists-brain-chip-monkey-control-robotic-arm/amp/",
       "publishedDateTime": "2023-05-10T05:26:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Irish Sun",
-        "domain": "thesun.ie",
+        "name": "The Sun",
+        "domain": "thesun.co.uk",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1486,6 +1443,50 @@
         "Facebook AI",
         "AI",
         "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-05-08-microsoft-rebuts-allegations-of-ai-chip-collaboration-with-amd-should-nvidia-worry.md",
+      "title": "Microsoft Rebuts Allegations Of AI Chip Collaboration With AMD, Should NVIDIA Worry?",
+      "excerpt": "People who are supposedly knowledgeable about the situation say Microsoft and AMD have teamed up to design AI chips to rival NVIDIA's product offerings.",
+      "sourceUrl": null,
+      "webUrl": "https://hothardware.com/news/microsoft-rebuts-allegations-ai-chip-collaboration-amd",
+      "originalUrl": "https://hothardware.com/news/microsoft-rebuts-allegations-ai-chip-collaboration-amd",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hothardware.com/contentimages/newsitem/61562/content/Microsoft_Processor_Hero.jpg",
+          "width": 708,
+          "height": 398,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-08T08:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HotHardware",
+        "domain": "hothardware.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
       ]
     }
   ],

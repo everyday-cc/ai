@@ -65,20 +65,6 @@ related:
         width: 900
         height: 394
         isCached: true
-  - title: "Microsoft’s Bing AI adds contextual chat, widget on Android and iOS"
-    excerpt: "Microsoft has just delivered a bunch of updates to Bing AI, including contextual chat and a new widget on Android and iOS."
-    publishedDateTime: 2023-05-16T16:19:00Z
-    webUrl: "https://9to5google.com/2023/05/16/microsoft-bing-ai-widget-android-ios/"
-    type: article
-    provider:
-      name: 9to5google
-      domain: 9to5google.com
-    quality: 56
-    images:
-      - url: "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/03/bing-logo-circle-5.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "CockroachDB Dedicated for Microsoft Azure Realizes Company's Vision for a Single Distributed Database that Runs Everywhere and Anywhere, Effortlessly"
     excerpt: "In addition, CockroachDB's serverless, on-consumption data platform now allows users to read and write data across multiple geographically distributed regions. Paying only for the exact amount of data stored and usage of that data on the CockroachDB serverless platform dramatically reduces the cost of operating a global business and makes data-intensive,"
     publishedDateTime: 2023-05-16T17:04:00Z

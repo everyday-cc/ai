@@ -107,6 +107,49 @@
       ]
     },
     {
+      "path": "_news/2023-05-16-ibm-launches-watsonx-paving-a-path-to-faster-enterprise-ai-adoption.md",
+      "title": "IBM Launches watsonx: Paving A Path To Faster Enterprise AI Adoption",
+      "excerpt": "Exploring the new IBM watsonx offering. A full tech stack for training, deploying, and supporting AI capabilities across any cloud environment, as well as a model library that includes foundation models vetted and curated by IBM.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/danielnewman/2023/05/15/ibm-launches-watsonx-paving-a-path-to-faster-enterprise-ai-adoption/",
+      "originalUrl": "https://www.forbes.com/sites/danielnewman/2023/05/15/ibm-launches-watsonx-paving-a-path-to-faster-enterprise-ai-adoption/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-15T11:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-15-unlock-productivity-with-advanced-generative-ai.md",
       "title": "Unlock productivity with advanced generative AI",
       "excerpt": "Learn how we are unlocking new levels of productivity by introducing advanced generative AI into Watson Assistant use cases.\nThe post Unlock productivity with advanced generative AI appeared first on IBM Blog.\n",
@@ -260,7 +303,7 @@
       "originalUrl": "https://www.ibm.com/blog/mttr-vs-mtbf/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 103,
+      "heat": 102,
       "tags": null,
       "images": [
         {
@@ -1420,48 +1463,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2023-05-01T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-01-how-to-optimize-google-cloud-platform-cloud-costs-with-ibm-turbonomic.md",
-      "title": "How to optimize Google Cloud Platform cloud costs with IBM Turbonomic",
-      "excerpt": "A close look at how IBM Turbonomic helps customers optimize their GCP cloud costs.\nThe post How to optimize Google Cloud Platform cloud costs with IBM Turbonomic appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/how-to-optimize-google-cloud-platform-cloud-costs-with-ibm-turbonomic/",
-      "originalUrl": "https://www.ibm.com/blog/how-to-optimize-google-cloud-platform-cloud-costs-with-ibm-turbonomic/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-01T06:49:18-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "IBM",

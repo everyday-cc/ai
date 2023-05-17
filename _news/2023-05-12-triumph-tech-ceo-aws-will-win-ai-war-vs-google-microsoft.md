@@ -26,45 +26,77 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence for Accounting Market Next Big Thing With Major Giants Microsoft, AWS, Xero, Intuit"
-    excerpt: "Click Here to Get Free Sample PDF Copy of Latest Research on Artificial Intelligence for Accounting Market 2023 Before Purchase:  The report will also include information on the top companies in the Artificial Intelligence for Accounting market shares,"
-    publishedDateTime: 2023-05-15T07:29:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-for-accounting-market-next-big-thing-with-major-giants-microsoft-aws-xero-intuit-2023-05-15"
+  - title: "Microsoft CEO speaks on the future of artificial intelligence"
+    excerpt: "The CEO of OpenAI, the company responsible for ChatGPT, called on Congress today to regulate artificial intelligence. CNBC’s Andrew Ross Sorkin sat down with Microsoft’s CEO Satya Nadella to talk about both the concerns and benefits after his company invested billions in OpenAI."
+    publishedDateTime: 2023-05-16T23:08:00Z
+    webUrl: "https://www.nbcnews.com/nightly-news/video/microsoft-ceo-speaks-on-the-future-of-artificial-intelligence-174560325527"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo174560325527"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo174560325527"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 83
+      name: NBC News
+      domain: nbcnews.com
+    quality: 104
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_05/1684278439038_nn_aso_hill_hearings_satya_nadella_exclusive_230516_1920x1080-e9hhf5.jpg"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "Deep Learning in Manufacturing Market 2023-2030"
-    excerpt: "The major players covered in the Deep Learning in Manufacturing market report are: Get a sample copy of the Deep Learning in Manufacturing Market report 2023 Market Overview of Global Deep Learning in Manufacturing market: According to our latest research,"
-    publishedDateTime: 2023-05-16T06:22:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-in-manufacturing-market-2023-2030-2023-05-16"
+  - title: "Microsoft CEO wants to 'mitigate unintended consequences' involving artificial intelligence"
+    excerpt: "NBC's Andrew Ross Sorkin sat down with Microsoft CEO Satya Nadella to discuss his concerns on where artificial intelligence is heading. Nadella says that he wants to \"mitigate unintended consequences\" involving A."
+    publishedDateTime: 2023-05-16T23:44:00Z
+    webUrl: "https://www.nbcnews.com/now/video/microsoft-ceo-speaks-out-on-future-of-artificial-intelligence-174563909885"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo174563909885"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo174563909885"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
+      name: NBC News
+      domain: nbcnews.com
+    quality: 94
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_05/1684280605884_now_hallie_microsoft_interview_230516_1920x1080-svh6io.jpg"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "Face Recognition API Market ICT Industry 2023 Global Insights and Business Scenario Microsoft Computer Vision API, Lambda Labs API, Inferdo"
-    excerpt: "A full Sample Report of Face Recognition API Market is Available Free –  This research report provides a lucrative growth opportunity for the market players to generate better revenue streams by expanding their market presence in the emerging economies."
-    publishedDateTime: 2023-05-12T08:45:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-api-market-ict-industry-2023-global-insights-and-business-scenario-microsoft-computer-vision-api-lambda-labs-api-inferdo-2023-05-12"
+  - title: "Exclusive: Google’s Sundar Pichai talks Search, AI, and dancing with Microsoft"
+    excerpt: "Sundar Pichai is the CEO of Google and Alphabet. We spoke the day after Google I/O, the company’s big developer conference, where Sundar introduced new generative AI features in virtually all of the company’s products."
+    publishedDateTime: 2023-05-12T09:00:00Z
+    webUrl: "https://www.theverge.com/2023/5/12/23720731/google-io-2023-exclusive-sundar-pichai-search-generative-experience-ai-microsoft-bing-chatgpt"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 67
+      name: The Verge
+      domain: theverge.com
+    quality: 80
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://cdn.vox-cdn.com/thumbor/3VCetxdhkZhF8Ji6_iRD6u78BeM=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24652338/236655_Decoder_Sundar_Pichai_WJoel.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Microsoft’s Bing AI adds contextual chat, widget on Android and iOS"
+    excerpt: "Microsoft has just delivered a bunch of updates to Bing AI, including contextual chat and a new widget on Android and iOS."
+    publishedDateTime: 2023-05-16T16:19:00Z
+    webUrl: "https://9to5google.com/2023/05/16/microsoft-bing-ai-widget-android-ios/"
+    type: article
+    provider:
+      name: 9to5google
+      domain: 9to5google.com
+    quality: 56
+    images:
+      - url: "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/03/bing-logo-circle-5.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "ChatGPT CEO shares concern over AI being used to interfere with elections – video"
+    excerpt: "Top technology CEOs testified before congress on the future of artificial intelligence, calling on lawmakers to introduce new regulations to limit its misuse"
+    publishedDateTime: 2023-05-16T19:48:00Z
+    webUrl: "https://www.theguardian.com/technology/video/2023/may/16/chatgpt-ceo-shares-concern-over-ai-being-used-to-interfere-with-elections-video"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 32
+    images:
+      - url: "https://i.guim.co.uk/img/media/701745531457a41714f0dd727c5b74477e1c0ff5/0_27_5472_3283/master/5472.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1e0c5ca33b9e2a47876c8156c9dd79c0"
         width: 1200
         height: 630
         isCached: true

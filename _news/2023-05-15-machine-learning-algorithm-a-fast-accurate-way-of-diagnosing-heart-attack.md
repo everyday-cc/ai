@@ -7,7 +7,7 @@ originalUrl: "https://newatlas.com/health-wellbeing/code-acs-machine-learning-al
 webUrl: "https://newatlas.com/health-wellbeing/code-acs-machine-learning-algorithm-accurate-heart-attack-diagnosis"
 type: article
 quality: 67
-heat: 67
+heat: 68
 published: false
 
 provider:

@@ -2,6 +2,249 @@
   "page": 44,
   "value": [
     {
+      "path": "_news/2023-04-20-rtx-4070-review-an-ideal-gpu-for-anyone-who-skipped-the-graphics-card-shortage.md",
+      "title": "RTX 4070 review: An ideal GPU for anyone who skipped the graphics card shortage",
+      "excerpt": "Nvidia's GeForce RTX 4070 is here. It's the company's first launch in over a year of a graphics card that could charitably be described as \"mainstream,\" both in performance and in price. It costs $600.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/gadgets/2023/04/rtx-4070-review-an-ideal-gpu-for-anyone-who-skipped-the-graphics-card-shortage/",
+      "originalUrl": "https://arstechnica.com/gadgets/2023/04/rtx-4070-review-an-ideal-gpu-for-anyone-who-skipped-the-graphics-card-shortage/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/04/IMG_0984-800x533.jpeg",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/gadgets/2023/04/rtx-4070-review-an-ideal-gpu-for-anyone-who-skipped-the-graphics-card-shortage/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/gadgets/2023/04/rtx-4070-review-an-ideal-gpu-for-anyone-who-skipped-the-graphics-card-shortage/amp/",
+      "publishedDateTime": "2023-04-20T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-20-whats-agi-and-why-are-ai-experts-skeptical.md",
+      "title": "What’s AGI, and Why Are AI Experts Skeptical?",
+      "excerpt": "Advanced robots are far from capable of interacting ... that birthed ChatGPT is played out and future strides in artificial intelligence will require new ideas. WIRED is where tomorrow is realized.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/what-is-artificial-general-intelligence-agi-explained/",
+      "originalUrl": "https://www.wired.com/story/what-is-artificial-general-intelligence-agi-explained/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/644051ca78b1686b7e2ea1bf/191:100/w_1280,c_limit/Scientists-Are-Sketpical-Of-AGI-Business-499295092.jpg",
+          "width": 1280,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/what-is-artificial-general-intelligence-agi-explained/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/what-is-artificial-general-intelligence-agi-explained/amp",
+      "publishedDateTime": "2023-04-20T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-20-drones-navigate-unseen-environments-with-liquid-neural-networks.md",
+      "title": "Drones Navigate Unseen Environments With Liquid Neural Networks",
+      "excerpt": "guided by liquid neural networks to navigate ever-changing and unseen environments with precision and ease. Inspired by the adaptable nature of organic brains, researchers from MIT’s Computer Science and Artificial Intelligence Laboratory (CSAIL ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologynetworks.com/informatics/news/drones-navigate-unseen-environments-with-liquid-neural-networks-372383",
+      "originalUrl": "https://www.technologynetworks.com/informatics/news/drones-navigate-unseen-environments-with-liquid-neural-networks-372383",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.technologynetworks.com/production/dynamic/images/content/372383/drones-navigate-unseen-environments-with-liquid-neural-networks-372383-640x360.jpg?cb=20230420",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-20T03:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "technologynetworks",
+        "domain": "technologynetworks.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-20-driverless-tractors-market-is-touching-new-levels-a-comprehensive-study-segmented-agco-kubota-trimble.md",
+      "title": "Driverless Tractors Market Is Touching New Levels A Comprehensive Study Segmented: AGCO, Kubota, Trimble",
+      "excerpt": "The Latest Released Driverless Tractors Market Research ... These tractors use advanced technologies such as sensors, GPS, and artificial intelligence to navigate fields, plow, sow, fertilize ...",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1106053706/Driverless-Tractors-Market-Is-Touching-New-Levels-A-Comprehensive-Study-Segmented-AGCO-Kubota-Trimble",
+      "originalUrl": "https://menafn.com/1106053706/Driverless-Tractors-Market-Is-Touching-New-Levels-A-Comprehensive-Study-Segmented-AGCO-Kubota-Trimble",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/updates/pr/2023-04/20/EP_e146bimage_story.png",
+          "width": 600,
+          "height": 314,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-20T03:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mena FN",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-20-how-amazon-has-reorganized-around-artificial-intelligence-and-machine-learning.md",
+      "title": "How Amazon Has Reorganized Around Artificial Intelligence And Machine Learning",
+      "excerpt": "I am a Customer Experience Futurist, Author and Keynote Speaker. In honor of Amazon Prime Day, let’s take a look at the inner workings of this company that is pushing the bounds of innovation ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/blakemorgan/2018/07/16/how-amazon-has-re-organized-around-artificial-intelligence-and-machine-learning/",
+      "originalUrl": "https://www.forbes.com/sites/blakemorgan/2018/07/16/how-amazon-has-re-organized-around-artificial-intelligence-and-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/dam/imageserve/80be61df19f54b8e87e96066748b9882/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 870,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-20T02:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-04-20-a-remarkable-learning-journey-leads-to-asia-for-the-post-gpt-mba.md",
       "title": "A Remarkable Learning Journey Leads To Asia For The Post-GPT MBA",
       "excerpt": "Sanjay Sarma, the incoming President, CEO and Dean of Asia School of Business (ASB), based in Kuala Lumpur has what he describes as an unconventional background - professor, businessman, author, father.",
@@ -936,230 +1179,6 @@
         "Natural Language Processing",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-04-20-reddit-will-start-charging-some-users-for-api-access-bad-news-for-ai-companies.md",
-      "title": "Reddit will start charging some users for API access -- bad news for AI companies",
-      "excerpt": "Reddit is now putting a halt to that, announcing on Tuesday that it will begin to charge big businesses for Reddit API data access. The social networking platform added a new \"premium access point\" for third party users who require \"additional capabilities, higher usage limits, and broader usage rights,\" according to the announcement .",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/reddit-will-start-charging-some-users-for-api-access-bad-news-for-ai-companies/",
-      "originalUrl": "https://www.zdnet.com/article/reddit-will-start-charging-some-users-for-api-access-bad-news-for-ai-companies/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/52aff004391e33410e3a1b98a157bd0bb2d02fec/2023/04/19/813b1d72-00fb-445f-91f7-30e993dd8ee1/gettyimages-1244227518.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/reddit-will-start-charging-some-users-for-api-access-bad-news-for-ai-companies/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/reddit-will-start-charging-some-users-for-api-access-bad-news-for-ai-companies/",
-      "publishedDateTime": "2023-04-19T13:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-20-teslas-mind-blowing-tech-is-supercharging-robots-and-paving-the-way-for-smarter-ai.md",
-      "title": "Tesla's Mind-Blowing Tech is Supercharging Robots and Paving The Way For Smarter AI",
-      "excerpt": "sign up for Benzinga’s Startup Investing & Equity Crowdfunding Newsletter As robots become more autonomous and take over tasks previously performed by humans, their ability to collect and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/startups/23/04/31898752/teslas-mind-blowing-tech-is-supercharging-robots-and-paving-the-way-for-smarter-ai",
-      "originalUrl": "https://www.benzinga.com/startups/23/04/31898752/teslas-mind-blowing-tech-is-supercharging-robots-and-paving-the-way-for-smarter-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/images/story/2023/04/19/shutterstock_2209397693.jpg?width=1200&height=800&fit=crop",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/31898752",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31898752",
-      "publishedDateTime": "2023-04-19T12:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-04-20-ai-can-kill-us-but-some-in-congress-dont-even-know-how-to-log-in-to-facebook-lawmakers-say.md",
-      "title": "AI can 'kill us,' but some in Congress don’t even know how to log in to Facebook, lawmakers say",
-      "excerpt": "WASHINGTON – AI has the potential to both benefit and harm the U.S. in unknown and unimagined ways but Congress has hardly any experts on the rapidly developing technology, lawmakers told Fox News.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/politics/ai-kill-us-some-congress-dont-even-know-log-facebook-lawmakers-say",
-      "originalUrl": "https://www.foxnews.com/politics/ai-kill-us-some-congress-dont-even-know-log-facebook-lawmakers-say",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2022/09/340/340/IMG_0550.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/ai-kill-us-some-congress-dont-even-know-log-facebook-lawmakers-say.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ai-kill-us-some-congress-dont-even-know-log-facebook-lawmakers-say.amp",
-      "publishedDateTime": "2023-04-19T12:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-20-microsoft-azure-marketplace-integrates-space-and-times-web3-tools.md",
-      "title": "Microsoft Azure Marketplace Integrates Space and Time’s Web3 Tools",
-      "excerpt": "Space and Time’s Web3 “data warehouse” has been integrated into the Microsoft (NASDAQ:MSFT) Azure Marketplace, an “app store” for developers using the cloud computing platform. Enterprise builders can now make a one-click deployment of Space and Time's data product,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/microsoft-azure-marketplace-integrates-space-and-times-web3-tools",
-      "originalUrl": "https://www.nasdaq.com/articles/microsoft-azure-marketplace-integrates-space-and-times-web3-tools",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-19T12:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-20-2023-vision-tank-start-up-competition-finalists-announced-by-the-edge-ai-and-vision-alliance.md",
-      "title": "2023 Vision Tank Start-Up Competition Finalists Announced by the Edge AI and Vision Alliance",
-      "excerpt": "Lemur Imaging—Lemur Imaging, a UK-based start-up, was founded to address the growing problem of reducing system cost and power consumption while increasing computer vision detection accuracy. Their perceptually lossless compression core allows computer ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/04/n31899247/2023-vision-tank-start-up-competition-finalists-announced-by-the-edge-ai-and-vision-alliance",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/04/n31899247/2023-vision-tank-start-up-competition-finalists-announced-by-the-edge-ai-and-vision-alliance",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-19T11:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

@@ -35,6 +35,20 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Policing Minister pushes for facial recognition in all UK police forces despite criticism"
+    excerpt: "The Home Office briefed the biometrics and surveillance commissioner on the minsters desire for law enforcement to expand their use of these systems."
+    publishedDateTime: 2023-05-16T22:27:00Z
+    webUrl: "https://www.biometricupdate.com/202305/policing-minister-pushes-for-facial-recognition-in-all-uk-police-forces-despite-criticism"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 30
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/07/25124143/facial-recognition-crowd-scaled.jpg"
+        width: 2048
+        height: 1333
+        isCached: true
   - title: "UK policing minister pushes for greater use of facial recognition"
     excerpt: "Chris Philp expressed desire to expand use of controversial technology in closed door meetings, according to report"
     publishedDateTime: 2023-05-15T23:01:00Z

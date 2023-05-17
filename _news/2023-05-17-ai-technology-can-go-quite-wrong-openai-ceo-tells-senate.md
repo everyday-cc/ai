@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/tech-policy/2023/05/ai-technology-can-go-qui
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/tech-policy/2023/05/ai-technology-can-go-quite-wrong-openai-ceo-tells-senate/amp/"
 type: article
 quality: 87
-heat: 167
+heat: 187
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Google follows OpenAI in saying almost nothing about its new PaLM 2 AI program"
+    excerpt: "When Google artificial intelligence scientists revealed a significant new program -- the Pathways Language Model (PaLM) -- a year ago, they spent several hundred words in a technical paper describing the significant new AI techniques used to achieve the program's results."
+    publishedDateTime: 2023-05-16T21:42:00Z
+    webUrl: "https://www.zdnet.com/article/google-follows-openai-in-saying-almost-nothing-about-its-new-palm-2-ai-program/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/google-follows-openai-in-saying-almost-nothing-about-its-new-palm-2-ai-program/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-follows-openai-in-saying-almost-nothing-about-its-new-palm-2-ai-program/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 85
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/7a81d87b5825f36b755507a1a1ab14e8fdec5dc1/2023/05/16/966da46b-19b4-42e8-ab6d-300f61c09302/google-palm-2-graphic.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Here's what happened during OpenAI CEO Sam Altman's first congressional hearing on artificial intelligence"
     excerpt: "Several lawmakers brought up Section 230 of the Communications Decency Act, the law that has served as the tech industry's legal liability shield for decades."
     publishedDateTime: 2023-05-16T19:05:00Z
@@ -117,6 +133,17 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 38
+  - title: "OpenAI’s Sam Altman urges AI regulation in Senate hearing"
+    excerpt: "Altman implored lawmakers to regulate artificial intelligence as members of the committee displayed a budding understanding of the technology."
+    publishedDateTime: 2023-05-16T22:21:00Z
+    webUrl: "https://www.seattletimes.com/business/openais-sam-altman-urges-ai-regulation-in-senate-hearing/"
+    ampWebUrl: "https://www.seattletimes.com/business/openais-sam-altman-urges-ai-regulation-in-senate-hearing/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/openais-sam-altman-urges-ai-regulation-in-senate-hearing/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 37
   - title: "OpenAI CEO Sam Altman calls for increased AI regulation in Senate hearing"
     excerpt: "OpenAI LP Chief Executive Sam Altman has told lawmakers that the U.S. should consider implementing new rules to ensure the safety of artificial intelligence systems. Altman (pictured) made the remarks this morning during a hearing before a Senate Judiciary subcommittee."
     publishedDateTime: 2023-05-16T20:02:00Z
@@ -141,6 +168,6 @@ related:
       domain: bbc.co.uk
     quality: 30
 
-secured: "KvwnC/GiqKN8fX/LBlAOzxz7DExzWg0pZBHK3vrFcda6y4XzCKbc2iZAbUm4c11L/LqOqn4KytEyGwwhZmE1mAthmFebFc/HuRPFb5M4b20c3PSOY5HD6INF8DyiOtF2uPerGmXzapBoXxBErkwlUhSb7L3HBpycU7xzlpNLmF9KZZjuWubbVyAdiXwYt6ZaH1x+uD509lyggkFFOnKvIMvhvc/4yce8TDSQrYfIFdiW2VYJjKWEmeW2w1N4810g0wC/V1rq88VUphS1ZP76svPInQ2OeZTwc+JxRfAYVCbDvNwmVYR1f/xH/IaTg24QrMSAChJDI7JLN+RW+REv5UDhHPLSG90Of4kVhzTuOXo=;a1+TXkHGIek8pUwBk+PK6Q=="
+secured: "egnd6V+8rSr/ELrgsieoBxdnXDEXsS+o99ZZCZd6v+yGaVN9WUe5VWtnQDYRlzKMqKEgw1JCmJwoeUD+3B3BtyB/gOpbdQk8rA5LdTL4XCinxoyEhB9cm8LmNMVzHHDSwijJM/Gpngy/0L5XSRSZEusWGAnNkEu+vOqrE8ReuJ0yhDSnMopdOrT02necxUPEo4fm3xyUYQm/jF10DCnUr96qAoGAlcAO00tGzrDBsQVh1PzBXNsfC9bBP+Q5AHBvnqqYJyBUfsjQy5QPpq19ipTs+bN2Xw+l21eoOZ6SGWeLcYp7eAe+UucS+B2poPBfpRK6YfVrRbQBMieYQQdOTmGrQC7C+E3S9QYruizoZdMhaMEVIUubm10Q0zxlNybh/y84K++R2iLZ9CVo2IpEugO/iaMXabzlLFbaAzyjvhP4GbuqaFLStotmoZ3RljN1xLPxU3BzLMlUsJi7PI9h3yXgOaollFG48blUZ1XJHd6Wq41RO50BTEz7wVyb8XQsJ3ySIA5u7uW46yas3lCS/w==;NfQAKY3UkgCyXjQt4Wg5IA=="
 ---
 

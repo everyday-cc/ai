@@ -61,22 +61,6 @@ related:
         width: 1200
         height: 830
         isCached: true
-  - title: "Does AI need a UN? Expert calls for global governing body to police 'billions of pieces of misinformation'"
-    excerpt: "Cognitive scientist and AI expert Gary Marcus advocates for the formation of an international body to govern emerging artificial intelligence technologies."
-    publishedDateTime: 2023-05-12T05:59:00Z
-    webUrl: "https://www.foxnews.com/tech/ai-un-expert-calls-global-governing-body-police-billions-pieces-misinformation"
-    ampWebUrl: "https://www.foxnews.com/tech/ai-un-expert-calls-global-governing-body-police-billions-pieces-misinformation.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/ai-un-expert-calls-global-governing-body-police-billions-pieces-misinformation.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 69
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0f2e41cc-8d6e-4432-8aec-66607c5212e5/8ff15eca-b9ff-4599-8591-fd4605b24e52/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "UP RERA Floats Tender For Installation Of Artificial Intelligence"
     excerpt: "AI will contribute to the development of three major categories of systems: supportive systems, function-based automation systems and autonomous systems."
     publishedDateTime: 2023-05-16T11:09:00Z

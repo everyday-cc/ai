@@ -6,7 +6,7 @@ publishedDateTime: 2023-05-16T12:02:00Z
 originalUrl: "https://www.reuters.com/business/healthcare-pharmaceuticals/hippocratic-health-raises-50-mln-seed-funding-build-ai-model-2023-05-16/"
 webUrl: "https://www.reuters.com/business/healthcare-pharmaceuticals/hippocratic-health-raises-50-mln-seed-funding-build-ai-model-2023-05-16/"
 type: article
-quality: 47
+quality: 69
 heat: -1
 published: false
 
@@ -20,6 +20,13 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
+
+images:
+  - url: "https://www.reuters.com/resizer/9Ff0pYw8o_htWZ9gDHe_OETrgDY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WU6RQETI5NJZJAZFZU4DLOQALE.jpg"
+    width: 1200
+    height: 628
+    isCached: true
 
 related:
   - title: "Hippocratic AI raises $50 mln seed funding to build models for healthcare"
@@ -83,6 +90,6 @@ related:
       domain: businessinsider.com
     quality: 28
 
-secured: "/eK+pgF/F+U/tML7MlmR5sOXd8aQe0Ug5gfDowBZ1QNJZlCHTXoQiKnlgFEuZxkB44H2y8tpPOF2u2NetxrrejOX4+zoV4YT6uZ/m8UTDhrCPm5psCFuH2sxAu7TvCWS0uTlmcKDrHagQWGkr6ICGn4Tvc2pS4TNkUAazDIW+aCb3pRhJgNETMOH538axawz+Vq7n3WFSlUc4Xkfa6/2Glhlbmg33Q4z4/nGm1l0LCcrFuw5dm4x0zrMTfBz0fieQyBR7U1DEhrZyhlNdXf+zqKn/PmNpdvYXGNJl/XEnzWQ6dD/deL2XISTxXpgxqNRwHrRiisZrwk1tq40Q5JR5CrMxVYJlMrhIvx/m1h9KKZQaSjhwuBPTG4h/YWiOKAIJwkt4VUJUaERv4Qv9qUD5i/BiY1nGPdlVlQ9v5zYqH+PpG5PCDQksYyxlBv+bo95Xn4TAocgR2KQJFLh2HQAShR+HiVkeem5KzXeSc9o2j+gZhR0OlOuxfTmu3ByaqHVlJZhPjLy96fpgbUsfb3KIw==;TPO2QgEP6GbD3O57i+8tdA=="
+secured: "/4u6fL/SWTcrFkSQs60t9+sW+T3jYhRyQHodkFOVwWg4qwGdGTt3L2Y8QOJpkjLgREMgtZ2kw61eI1rjHPWklyEKQHMGKVekQnzD2Tuln94YXfsBTcwMtP+b4KmuhFhKLCuCuH3mtcsivb0PuG8ZjuTwBS6jn+CIczud2DE5wwkecr07Sza3QOqe9m212tUOvung6VRTx0CG3AoepLxReRYqPRPgw6pUF8EOluu1dUU9fFf+1QulP5aQXz3aDxVylZd5dusS9MoDontmogGCTAOP9jvKYD5uf01UWO8ILR+x3Z0ghiX9SABf2aApDax1ZRXp1iZ2L0qn37IRjOjIySN7giv4ox8Oky7KFiEziDg=;91ncO5RjhwSL6AwIB1+CwA=="
 ---
 

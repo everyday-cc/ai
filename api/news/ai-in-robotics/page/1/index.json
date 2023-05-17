@@ -36,6 +36,49 @@
       ]
     },
     {
+      "path": "_news/2023-05-16-trying-to-make-sense-of-artificial-intelligence-heres-your-guide.md",
+      "title": "Trying to make sense of artificial intelligence? Here’s your guide",
+      "excerpt": "ChatGPT came on the scene as something different. Not only could it answer a seemingly unlimited number of questions, but it could also write screenplays, summarize huge amounts of information and imitate a human in conversation somewhat convincingly. It immediately seemed, at a minimum, that it could one day make everyday life more efficient.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/tech/innovation/ai-explain-openai-chatgpt-how-to-rcna77889",
+      "originalUrl": "https://www.nbcnews.com/tech/innovation/ai-explain-openai-chatgpt-how-to-rcna77889",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-04/230428-ai-explainer-lr-5c8005.jpg",
+          "width": 2500,
+          "height": 1250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna77889",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna77889",
+      "publishedDateTime": "2023-05-16T08:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-16-alphabets-intrinsic-launches-flowstate-a-robotic-app-development-platform.md",
       "title": "Alphabet’s Intrinsic launches Flowstate, a robotic app development platform",
       "excerpt": "This morning, the company announced its first product, Flowstate, a development platform designed to help non-roboticists.",
@@ -667,22 +710,31 @@
       "title": "Chinese scientists reveal shocking brain chip that allows monkeys to control a robotic arm with their mind",
       "excerpt": "SCIENTISTS in China have made a breakthrough in ‘Frankenstein’ brain chip technology, with the aim of letting people control machines with their mind. For now though, the technology",
       "sourceUrl": null,
-      "webUrl": "https://www.thesun.ie/tech/10687685/chinese-scientists-brain-chip-monkey-control-robotic-arm/",
-      "originalUrl": "https://www.thesun.ie/tech/10687685/chinese-scientists-brain-chip-monkey-control-robotic-arm/",
+      "webUrl": "https://www.thesun.co.uk/tech/22310762/chinese-scientists-brain-chip-monkey-control-robotic-arm/",
+      "originalUrl": "https://www.thesun.co.uk/tech/22310762/chinese-scientists-brain-chip-monkey-control-robotic-arm/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://www.thesun.co.uk/wp-content/uploads/2023/05/OP_LY_NANKAI-UNIVERSITY.jpg?strip=all&quality=100&w=1920&h=1080&crop=1",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
+      "ampWebUrl": "https://www.thesun.co.uk/tech/22310762/chinese-scientists-brain-chip-monkey-control-robotic-arm/amp/",
+      "cdnAmpWebUrl": "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/tech/22310762/chinese-scientists-brain-chip-monkey-control-robotic-arm/amp/",
       "publishedDateTime": "2023-05-10T05:26:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Irish Sun",
-        "domain": "thesun.ie",
+        "name": "The Sun",
+        "domain": "thesun.co.uk",
         "images": null,
         "publishers": null,
         "authors": null
@@ -951,6 +1003,49 @@
       ]
     },
     {
+      "path": "_news/2023-05-10-why-dont-we-have-robot-surgeons-yet.md",
+      "title": "Why Don't We Have Robot Surgeons Yet?",
+      "excerpt": "Most surgical robots operate in one of two ways, or a combination of the two. Either they are remote-controlled by the surgeon, or they follow a predetermined plan set by a surgeon – not unlike how collaborative robots (cobots) in factories can be guided ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/automation-motion-control/why-dont-we-have-robot-surgeons-yet",
+      "originalUrl": "https://www.designnews.com/automation-motion-control/why-dont-we-have-robot-surgeons-yet",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/Robotic%20Surgery.jpg",
+          "width": 1806,
+          "height": 1023,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-09T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-10-valley-health-system-hospital-innovations-include-robots-at-nursing-stations.md",
       "title": "Valley Health System hospital innovations include robots at nursing stations",
       "excerpt": "Artificial intelligence may be intimidating to some, but robotic support is about to be making an innovative debut on your hospital floor as a way to improve",
@@ -1132,6 +1227,49 @@
       ]
     },
     {
+      "path": "_news/2023-05-08-start-ai-sai-is-now-available-for-trading-on-lbank-exchange.md",
+      "title": "Start AI (SAI) Is Now Available For Trading On Lbank Exchange",
+      "excerpt": "robotics, biomedical AI, media, arts and entertainment. There're multiple features provided by Start AI for all kinds of businesses, these features include Distributed AI Space, which reduces the ...",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1106196679/Start-AI-SAI-Is-Now-Available-For-Trading-On-Lbank-Exchange",
+      "originalUrl": "https://menafn.com/1106196679/Start-AI-SAI-Is-Now-Available-For-Trading-On-Lbank-Exchange",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/updates/pr/2023-05/08/NC_861d15e6-8_Image_In_Body.jpg",
+          "width": 550,
+          "height": 309,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-08T02:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mena FN",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-08-warehouse-robotics-market-share-size-financial-summaries-analysis-from-2023-to-2028.md",
       "title": "Warehouse Robotics Market Share, Size, Financial Summaries Analysis from 2023 to 2028",
       "excerpt": "Warehouse Robotics report provides a detailed analysis of regional and country-level market size, segmentation market growth, market share, competitive Landscape, sales analysis, impact of domestic. The warehouse robotics market has been witnessing significant growth in recent years.",
@@ -1171,49 +1309,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-08-start-ai-sai-is-now-available-for-trading-on-lbank-exchange.md",
-      "title": "Start AI (SAI) Is Now Available for Trading on LBank Exchange",
-      "excerpt": "robotics, biomedical AI, media, arts and entertainment. There're multiple features provided by Start AI for all kinds of businesses, these features include Distributed AI Space, which reduces the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/05/32258672/start-ai-sai-is-now-available-for-trading-on-lbank-exchange",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/05/32258672/start-ai-sai-is-now-available-for-trading-on-lbank-exchange",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.newsfilecorp.com/files/8831/165169_c2e150a184cf6869_001.jpg",
-          "width": 550,
-          "height": 309,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/32258672",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32258672",
-      "publishedDateTime": "2023-05-08T01:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1309,92 +1404,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-06-caytu-robotics-deploys-delivery-robots-at-byu.md",
-      "title": "CAYTU Robotics deploys delivery robots at BYU",
-      "excerpt": "CAYTU Robotics, a startup based in Dakar, Senegal, has partnered with BYU to roll out its robotic delivery service on the campus.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/caytu-robotics-deploys-delivery-robots-at-byu/",
-      "originalUrl": "https://www.therobotreport.com/caytu-robotics-deploys-delivery-robots-at-byu/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2023/05/CAYTU-featured.jpg",
-          "width": 770,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-06T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-06-artificial-intelligence-and-robotics-great-expectations-and-daunting-existential-risks.md",
-      "title": "Artificial intelligence and robotics: Great expectations and daunting existential risks",
-      "excerpt": "The starting point is to understand the basic definitions of key concepts such as Robotics, AI, Machine Learning, Deep Learning, Single-Task AI, Artificial General Intelligence (AGI), Strong AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsday.co.zw/thestandard/opinion-analysis/article/200011132/artificial-intelligence-and-robotics-great-expectations-and-daunting-existential-risks",
-      "originalUrl": "https://www.newsday.co.zw/thestandard/opinion-analysis/article/200011132/artificial-intelligence-and-robotics-great-expectations-and-daunting-existential-risks",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.thestandard.co.zw/images/newsday/uploads/2023/05/hZodp8Um0oaPzRpA9UAYDI6JrJKwBk2WaQ4D4xOw.jpg",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsday.co.zw/thestandard/amp/opinion-analysis/article/200011132/artificial-intelligence-and-robotics-great-expectations-and-daunting-existential-risks",
-      "cdnAmpWebUrl": "https://www-newsday-co-zw.cdn.ampproject.org/c/s/www.newsday.co.zw/thestandard/amp/opinion-analysis/article/200011132/artificial-intelligence-and-robotics-great-expectations-and-daunting-existential-risks",
-      "publishedDateTime": "2023-05-05T21:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Day",
-        "domain": "newsday.co.zw",
-        "images": null,
         "publishers": null,
         "authors": null
       },

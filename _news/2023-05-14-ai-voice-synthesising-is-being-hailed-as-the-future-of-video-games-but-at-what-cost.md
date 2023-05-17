@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/technology/2023/may/14/ai-voice-synthesi
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/may/14/ai-voice-synthesising-is-being-hailed-as-the-future-of-video-games-but-at-what-cost"
 type: article
 quality: 49
-heat: -1
+heat: 49
 published: false
 
 provider:
@@ -28,33 +28,6 @@ images:
     width: 620
     height: 336
     isCached: true
-
-related:
-  - title: "The future of AI has begun to look rather too human"
-    excerpt: "The advancements in Large Language Models (LLMs) have led to the creation of AI chatbots that can provide personalized fitness plans and even answer questions as historical figures. However, this raises questions about the potential for AI to become indistinguishable from humans,"
-    publishedDateTime: 2023-05-12T05:46:00Z
-    webUrl: "https://www.livemint.com/opinion/columns/the-future-of-ai-from-chatbots-to-digital-afterlife-what-lies-ahead-for-human-existence-and-society-11683828995918.html"
-    ampWebUrl: "https://www.livemint.com/opinion/columns/the-future-of-ai-from-chatbots-to-digital-afterlife-what-lies-ahead-for-human-existence-and-society/amp-11683828995918.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/opinion/columns/the-future-of-ai-from-chatbots-to-digital-afterlife-what-lies-ahead-for-human-existence-and-society/amp-11683828995918.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 59
-    images:
-      - url: "https://www.livemint.com/lm-img/img/2023/05/11/600x338/AI_1683829938873_1683829939068.JPG"
-        width: 600
-        height: 338
-        isCached: true
-  - title: "The Future Of AI Training Demands Optical Interconnects"
-    excerpt: "Artificial intelligence has taken the datacenter by storm, and it is forcing companies to rethink the balance between compute, storage, and networking. Or"
-    publishedDateTime: 2023-05-15T17:21:00Z
-    webUrl: "https://www.nextplatform.com/2023/05/15/the-future-of-ai-training-demands-optical-interconnects/"
-    type: article
-    provider:
-      name: The Next Platform
-      domain: nextplatform.com
-    quality: 19
 
 secured: "yBs6oVHmDVaJdcV/hg7XGSPBpgZHledQnec6jYqwqr0bzKfI+N4EGlJwxAAXDHUvE3X0HoOgJMFwhqbwJzGkhvRCcdawu5Xd+C7C4a8DnNqoyA2FraB/RY+66t3OBJf49lC1NwyLIv2tWzn1cscGcSRdHx1WZ/xcObg1EslC2KcCrW/fZrIYCv5zHZLJzh9dHNgcStTdCRemEFvK3wrjieHW3Ydr/luNcDHr2oJ2N9dAfIQN7T7fauHatp2Z8Z/+EJcSlSj0taz2mdZaw7kyzzpVGr5f2/Oxw1Ya53XYyS9xSVuX6WsfwU2dm3wZ7BaGknzTSlGy4foj8HLwH0li/96KWEoh3yW+qpgpFt/LJ7uzh7LjMMXhQ9GRKwkDR+dNuNDhESUVDXvrCmD3peOsOL35x4caiye1t+Yyag2GbUtX1VSjb/mx/ItVr642Z3tXQXVAR1mUCBOOyLcZsGztsxkNw1ET22bwZScAenuemMw5RwfbpLSw7WeCEYalRT7ORKmYq6kRFfB5L7Sf/8hsvw==;VOd9CAwPzuinnFJ0F1TcBg=="
 ---

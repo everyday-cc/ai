@@ -19,38 +19,72 @@ topics:
   - AI
 
 related:
-  - title: "The future of AI has begun to look rather too human"
-    excerpt: "The advancements in Large Language Models (LLMs) have led to the creation of AI chatbots that can provide personalized fitness plans and even answer questions as historical figures. However, this raises questions about the potential for AI to become indistinguishable from humans,"
-    publishedDateTime: 2023-05-12T05:46:00Z
-    webUrl: "https://www.livemint.com/opinion/columns/the-future-of-ai-from-chatbots-to-digital-afterlife-what-lies-ahead-for-human-existence-and-society-11683828995918.html"
-    ampWebUrl: "https://www.livemint.com/opinion/columns/the-future-of-ai-from-chatbots-to-digital-afterlife-what-lies-ahead-for-human-existence-and-society/amp-11683828995918.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/opinion/columns/the-future-of-ai-from-chatbots-to-digital-afterlife-what-lies-ahead-for-human-existence-and-society/amp-11683828995918.html"
+  - title: "Catching bad content in the age of AI"
+    excerpt: "Why haven’t tech companies improved at content moderation? This article is from The Technocrat, MIT Technology Review's weekly tech policy newsletter about power, politics, and Silicon Valley. To receive it in your inbox every Friday,"
+    publishedDateTime: 2023-05-15T10:00:00Z
+    webUrl: "https://www.technologyreview.com/2023/05/15/1073019/catching-bad-content-in-the-age-of-ai/"
+    ampWebUrl: "https://www.technologyreview.com/2023/05/15/1073019/catching-bad-content-in-the-age-of-ai/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/05/15/1073019/catching-bad-content-in-the-age-of-ai/amp/"
     type: article
     provider:
-      name: Mint
-      domain: livemint.com
+      name: MIT Technology Review
+      domain: technologyreview.com
     quality: 59
     images:
-      - url: "https://www.livemint.com/lm-img/img/2023/05/11/600x338/AI_1683829938873_1683829939068.JPG"
-        width: 600
-        height: 338
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/05/hi-wire-netA.jpeg?w=3000"
+        width: 3000
+        height: 1688
         isCached: true
-  - title: "AI voice synthesising is being hailed as the future of video games – but at what cost?"
-    excerpt: "Tech advances that make it easier to recreate human voices also raise ethical questions about the rights of actors and musicians"
-    publishedDateTime: 2023-05-13T19:52:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/may/14/ai-voice-synthesising-is-being-hailed-as-the-future-of-video-games-but-at-what-cost"
-    ampWebUrl: "https://amp.theguardian.com/technology/2023/may/14/ai-voice-synthesising-is-being-hailed-as-the-future-of-video-games-but-at-what-cost"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/may/14/ai-voice-synthesising-is-being-hailed-as-the-future-of-video-games-but-at-what-cost"
+  - title: "The Age of AI: Keeping the Human Touch in Healthcare"
+    excerpt: "Artificial intelligence (AI) and emerging chatbot technologies are revolutionizing the way healthcare is being delivered. Designed to mimic human intelligence to improve upon and perform standard operational tasks,"
+    publishedDateTime: 2023-05-12T13:38:00Z
+    webUrl: "https://www.healthleadersmedia.com/innovation/age-ai-keeping-human-touch-healthcare"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
+      name: HealthLeaders Media
+      domain: healthleadersmedia.com
+    quality: 54
+    images:
+      - url: "https://www.healthleadersmedia.com/sites/hlmp/files/files/shutterstock_1219327084.jpg"
+        width: 2732
+        height: 1200
+        isCached: true
+  - title: "Proposed Regulatory Oversight on the Emerging Use of Artificial Intelligence in Digital Health"
+    excerpt: "Recent months have seen a heightened interest in artificial intelligence (“AI”)-based technology solutions. Although AI is derived from neural networks that date back to the 1940s, new tec"
+    publishedDateTime: 2023-05-14T14:43:00Z
+    webUrl: "https://www.natlawreview.com/article/proposed-regulatory-oversight-emerging-use-artificial-intelligence-digital-health"
+    ampWebUrl: "https://www.natlawreview.com/article/proposed-regulatory-oversight-emerging-use-artificial-intelligence-digital-health?amp"
+    cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/proposed-regulatory-oversight-emerging-use-artificial-intelligence-digital-health?amp"
+    type: article
+    provider:
+      name: The National Law Review
+      domain: natlawreview.com
     quality: 49
     images:
-      - url: "https://i.guim.co.uk/img/media/0c2300f159bd34821e1c33a534861f1f1dc005f0/0_0_2860_1552/master/2860.jpg?width=620&quality=85&auto=format&fit=max&s=7359881931d227f2de5b3659f85a899f"
-        width: 620
-        height: 336
+      - url: "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png"
+        width: 1426
+        height: 808
         isCached: true
+  - title: "The First Year of AI College Ends in Ruin"
+    excerpt: "The problem breaks down into more problems: whether it’s possible to know for certain that a student used AI, what it even means to “use” AI for writing papers, and when that use amounts to cheating."
+    publishedDateTime: 2023-05-16T19:19:00Z
+    webUrl: "https://www.theatlantic.com/technology/archive/2023/05/chatbot-cheating-college-campuses/674073/"
+    type: article
+    provider:
+      name: The Atlantic
+      domain: theatlantic.com
+    quality: 47
+  - title: "The Artificial Intelligence Driving Travel Innovations"
+    excerpt: "AI news drove headlines this week, from Expedia, to Google, and even to Skift. Click through for a summary of the top stories."
+    publishedDateTime: 2023-05-13T16:00:00Z
+    webUrl: "https://skift.com/2023/05/13/the-artificial-intelligence-driving-travel-innovations/"
+    ampWebUrl: "https://skift.com/2023/05/13/the-artificial-intelligence-driving-travel-innovations/amp/"
+    cdnAmpWebUrl: "https://skift-com.cdn.ampproject.org/c/s/skift.com/2023/05/13/the-artificial-intelligence-driving-travel-innovations/amp/"
+    type: article
+    provider:
+      name: Skift
+      domain: skift.com
+    quality: 39
 
 secured: "2e7K2mWtD5pjhKKo5SDs90yGsQe1iF+BqoZPv8Sfcl8mSm5IrEltl4vpIIDJOPW4iwPgXDx3Nr4OFYp5LYywIZj3S92Og8qTnuW2fWMv1gU12F42moVcgkFbwgdt2mOq4birsgRDVfzlOKHYskDy8KLHumFdbP+ZRW/8WFVOs6S8hLn+AFKNbA7iRMk5o9f7tyLW2EaUeREoFxs6ovLQF6/8OI5+v4luNFEIE1NMyvdiliDc0HIWBBwpWepC/lRPlqW2oDuZoXUgfdnjNr1O1t7AKLbcNxBd+jWfGf/9HVG3hnCZOpVidiYz1vq9QZ6soJP1hHwYrVtQopkzEe3s/qvCM1bKNVs2rYx66Jpn5OHIG/0D+nDG2gNNdTNIbsohA+pBZW6IGKtdwNBWMlLbEc0rJIfwJuCJfkQuySwDafiQhYL5exFoc1Oxf3afEUCIH8QjjBi4QZuoPqwmZQt2WxxZe8/+aOGiJpbtw9wVIGWo9XtF8OS9nISnvwPxKl11P9K0XgmrkHPj4vcKMVr+oA==;vtm2H6xUTG/Y3lhDtS4XJQ=="
 ---

@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-05-17-microsoft-ceo-speaks-on-the-future-of-artificial-intelligence.md",
+      "title": "Microsoft CEO speaks on the future of artificial intelligence",
+      "excerpt": "The CEO of OpenAI, the company responsible for ChatGPT, called on Congress today to regulate artificial intelligence. CNBC’s Andrew Ross Sorkin sat down with Microsoft’s CEO Satya Nadella to talk about both the concerns and benefits after his company invested billions in OpenAI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/nightly-news/video/microsoft-ceo-speaks-on-the-future-of-artificial-intelligence-174560325527",
+      "originalUrl": "https://www.nbcnews.com/nightly-news/video/microsoft-ceo-speaks-on-the-future-of-artificial-intelligence-174560325527",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_05/1684278439038_nn_aso_hill_hearings_satya_nadella_exclusive_230516_1920x1080-e9hhf5.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo174560325527",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo174560325527",
+      "publishedDateTime": "2023-05-16T16:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-16-sap-develops-ai-driven-skills-for-workforce-processes.md",
       "title": "SAP Develops AI-Driven Skills For Workforce Processes",
       "excerpt": "Embedding generative AI and chatbots into SAP is all about increasing the productivity of all users and opening up new workplace innovations says SAP CEO Christian Klein.",
@@ -62,7 +105,7 @@
       "originalUrl": "https://www.beckershospitalreview.com/disruptors/microsofts-azure-openai-can-collect-analyze-healthcare-data.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 136,
+      "heat": 126,
       "tags": null,
       "images": [
         {
@@ -203,7 +246,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-for-accounting-market-next-big-thing-with-major-giants-microsoft-aws-xero-intuit-2023-05-15",
       "featuredContent": null,
       "highlight": null,
-      "heat": 113,
+      "heat": 103,
       "tags": null,
       "images": [
         {
@@ -1444,60 +1487,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-05-microsoft-helping-finance-amds-expansion-into-ai-chips-bloomberg.md",
-      "title": "Microsoft helping finance AMD's expansion into AI chips- Bloomberg",
-      "excerpt": "Microsoft Corp is working with Advanced Micro Devices Inc on the chipmaker's expansion into artificial intelligence processors, Bloomberg News reported on Thursday, citing people with knowledge of the matter.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/amd-ai-microsoft/update-1-microsoft-helping-finance-amds-expansion-into-ai-chips-bloomberg-idUSL4N3714JL",
-      "originalUrl": "https://www.reuters.com/article/amd-ai-microsoft/update-1-microsoft-helping-finance-amds-expansion-into-ai-chips-bloomberg-idUSL4N3714JL",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 408,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/xOORmMGGhmHxjWnnPlcl8EiZ6VY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/IYT3OK5U4BOMFPVKOXIRRT4YYM.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-04T10:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Finance",
-        "Microsoft AI"
       ]
     }
   ],

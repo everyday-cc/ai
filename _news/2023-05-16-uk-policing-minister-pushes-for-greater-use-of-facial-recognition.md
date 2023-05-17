@@ -35,6 +35,20 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Policing Minister pushes for facial recognition in all UK police forces despite criticism"
+    excerpt: "The Home Office briefed the biometrics and surveillance commissioner on the minsters desire for law enforcement to expand their use of these systems."
+    publishedDateTime: 2023-05-16T22:27:00Z
+    webUrl: "https://www.biometricupdate.com/202305/policing-minister-pushes-for-facial-recognition-in-all-uk-police-forces-despite-criticism"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 30
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/07/25124143/facial-recognition-crowd-scaled.jpg"
+        width: 2048
+        height: 1333
+        isCached: true
   - title: "Facial Recognition Tech: Are Total Bans the Best Move? (Podcast)"
     excerpt: "New York City is considering a total ban on facial recognition technology. The technology, which uses surveillance cameras and face scans to identify people in public, has been garnering headlines for years,"
     publishedDateTime: 2023-05-16T18:53:00Z

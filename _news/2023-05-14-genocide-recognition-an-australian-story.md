@@ -71,17 +71,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Robotics and artificial intelligence: Building blocks of fourth industrial revolution introduction"
-    excerpt: "While the integration of robotics and AI in education presents exciting opportunities, several challenges must be overcome for their adoption"
-    publishedDateTime: 2023-05-12T06:38:00Z
-    webUrl: "https://www.dqindia.com/robotics-and-artificial-intelligence-building-blocks-of-fourth-industrial-revolution-introduction/"
-    ampWebUrl: "https://www.dqindia.com/robotics-and-artificial-intelligence-building-blocks-of-fourth-industrial-revolution-introduction/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/robotics-and-artificial-intelligence-building-blocks-of-fourth-industrial-revolution-introduction/amp/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 55
   - title: "Writing Faculty United Requests Recognition of Unionization in Petition to Administration"
     excerpt: "The letter calls for improved job security, pay, and benefits, as well as transparency, recognition, and a voice in how writing instruction is conceived and executed. “When it comes to the aims of the union, I tend to think of it as having two key ..."
     publishedDateTime: 2023-05-15T01:07:00Z

@@ -78,6 +78,15 @@ related:
       name: Skift
       domain: skift.com
     quality: 39
+  - title: "The Future Of AI Training Demands Optical Interconnects"
+    excerpt: "Artificial intelligence has taken the datacenter by storm, and it is forcing companies to rethink the balance between compute, storage, and networking. Or"
+    publishedDateTime: 2023-05-15T17:21:00Z
+    webUrl: "https://www.nextplatform.com/2023/05/15/the-future-of-ai-training-demands-optical-interconnects/"
+    type: article
+    provider:
+      name: The Next Platform
+      domain: nextplatform.com
+    quality: 19
 
 secured: "64eBXSaXRVnRb1UUQzlJEvFP8A5rzAvtrfZCZYsR40HtslSs8S6OngvEEusCsyc0YdtO2kYDuFDeCB5M85M9ysC4hcsqGEz+uvtB8ipNkB0PPwCytzKOVJItRB+G2O5u8uK0RF0jSG4w1oIn/BBAOywEyUf7ZlMugIvUDukfWb8dcgtu/XpN5za0LNcwR7e1+kU+da5Uh6yf7dGjnarTnfj5n0YswyoxRj/Jn586hSzp0aBo/LvLukL5efhacWELUnoLeh9KVhlaOeeSlWVgaCaLTDeVKSmdxvD9cR5dqNkp0kv2z0b3cLAEy2FoCpwbcOGhHkOGF/dztrqGqZ+LbBYZeWGWFZL86CmthZBaTdbPKyt50YWDhSRI8YwcDqUhr4saS0KPW/u42W9jwlzqD8VPuOXUh9sSDts7iILCKYRXq4mugzVbWeUSZ0ILONqboyfScudfzNQZU/ENSgf0378nk+5Pd3RijU2xZ5Uvyr/jlT0zAEc5rNFV4j3Q1TW+oLHTvB39d3QHS83ypDhI1w==;PMIw1h4J3Vw6woyxde6inA=="
 ---

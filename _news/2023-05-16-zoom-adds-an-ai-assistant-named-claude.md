@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/zoom-adds-an-ai-assistant-n
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/zoom-adds-an-ai-assistant-named-claude/"
 type: article
 quality: 87
-heat: 117
+heat: 118
 published: true
 
 provider:

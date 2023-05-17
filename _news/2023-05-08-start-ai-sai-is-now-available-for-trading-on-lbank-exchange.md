@@ -1,28 +1,26 @@
 ---
 category: news
-title: "Start AI (SAI) Is Now Available for Trading on LBank Exchange"
+title: "Start AI (SAI) Is Now Available For Trading On Lbank Exchange"
 excerpt: "robotics, biomedical AI, media, arts and entertainment. There're multiple features provided by Start AI for all kinds of businesses, these features include Distributed AI Space, which reduces the ..."
-publishedDateTime: 2023-05-08T08:28:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/05/32258672/start-ai-sai-is-now-available-for-trading-on-lbank-exchange"
-webUrl: "https://www.benzinga.com/pressreleases/23/05/32258672/start-ai-sai-is-now-available-for-trading-on-lbank-exchange"
-ampWebUrl: "https://www.benzinga.com/amp/content/32258672"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32258672"
+publishedDateTime: 2023-05-08T09:41:00Z
+originalUrl: "https://menafn.com/1106196679/Start-AI-SAI-Is-Now-Available-For-Trading-On-Lbank-Exchange"
+webUrl: "https://menafn.com/1106196679/Start-AI-SAI-Is-Now-Available-For-Trading-On-Lbank-Exchange"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Mena FN
+  domain: menafn.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://images.newsfilecorp.com/files/8831/165169_c2e150a184cf6869_001.jpg"
+  - url: "https://menafn.com/updates/pr/2023-05/08/NC_861d15e6-8_Image_In_Body.jpg"
     width: 550
     height: 309
     isCached: true
 
-secured: "SY+Zb1duc/92aU9ow/tu2dbo30H8XeIcGsQfUYLi7p98tBBZpQDPrFSNVFznJoD94s0DiMa9zZJ8q2vy6Gyl8ikhZqeWSLr/8gmQK+/jnzV6u2SPtzuEupUWlkTgZGYJEw2QzytwxLGSClbUyYZ7Y5Jn0GLrkJ8q3lVqTf5lQEk9SQ84MymcrMQ4N9oV+NS6Qv7IAaj4tnbNE55DnC5iK3zqBD5kZLUXFBS3L8zrRklCMNaHZeSCXxOo5loYoYBW3BG2RP17ojuaPmhcMFnbHtG3gSsEYeGftqrSs22ghaQsatmxXa4Rb1IByxgkFjyidz7QiOyc8QGX4arejkQVT9sPcphNnggM/0VCJDYiNl8=;Nbo3unsrBtSH108blsJn6Q=="
+secured: "7szBwlmOxK481qvSIPD+9ZfyN8b2VM9+rm9aZ1DcEmww59YOFILBRf6+ro7OHY6LhZkBGlLWunPb7vqRAaETs3C5pEtbiL5W3kdPLwNx8QAlR/6QV+s2eK90Bc76Oe9XmURhlQaeC3JhzvYcsRh/I4oYFotzBWneACDXlC1GTb/+cZ42rxSGXR0ybL+822eBWrW+xpey/9CBcAvOhIbTrAaS9kE8khHrtLUovb70d7/bZurM4MOrii9dZM0SsOoZ/hiqYneBVqboAa6m1clf3lSIoqpTybeDw0850UCA5o5xUoBGDe0MdWfPWQIadwvqIuuZBrGjxyoU5jKBQgGzIzP8xMBUHkzPhJq3HXJHKUs=;sOs9to9OJ5rcA3HWowgX2g=="
 ---
 

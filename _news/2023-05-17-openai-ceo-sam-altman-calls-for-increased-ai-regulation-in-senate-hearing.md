@@ -40,6 +40,22 @@ related:
         width: 800
         height: 534
         isCached: true
+  - title: "Google follows OpenAI in saying almost nothing about its new PaLM 2 AI program"
+    excerpt: "When Google artificial intelligence scientists revealed a significant new program -- the Pathways Language Model (PaLM) -- a year ago, they spent several hundred words in a technical paper describing the significant new AI techniques used to achieve the program's results."
+    publishedDateTime: 2023-05-16T21:42:00Z
+    webUrl: "https://www.zdnet.com/article/google-follows-openai-in-saying-almost-nothing-about-its-new-palm-2-ai-program/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/google-follows-openai-in-saying-almost-nothing-about-its-new-palm-2-ai-program/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-follows-openai-in-saying-almost-nothing-about-its-new-palm-2-ai-program/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 85
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/7a81d87b5825f36b755507a1a1ab14e8fdec5dc1/2023/05/16/966da46b-19b4-42e8-ab6d-300f61c09302/google-palm-2-graphic.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Here's what happened during OpenAI CEO Sam Altman's first congressional hearing on artificial intelligence"
     excerpt: "Several lawmakers brought up Section 230 of the Communications Decency Act, the law that has served as the tech industry's legal liability shield for decades."
     publishedDateTime: 2023-05-16T19:05:00Z
@@ -127,6 +143,17 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 38
+  - title: "OpenAI’s Sam Altman urges AI regulation in Senate hearing"
+    excerpt: "Altman implored lawmakers to regulate artificial intelligence as members of the committee displayed a budding understanding of the technology."
+    publishedDateTime: 2023-05-16T22:21:00Z
+    webUrl: "https://www.seattletimes.com/business/openais-sam-altman-urges-ai-regulation-in-senate-hearing/"
+    ampWebUrl: "https://www.seattletimes.com/business/openais-sam-altman-urges-ai-regulation-in-senate-hearing/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/openais-sam-altman-urges-ai-regulation-in-senate-hearing/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 37
   - title: "Sam Altman: CEO of OpenAI calls for US to regulate artificial intelligence"
     excerpt: "The creator of advanced chatbot ChatGPT has called on US lawmakers to regulate artificial intelligence (AI). Sam Altman, the CEO of OpenAI, the company behind ChatGPT, testified before a US Senate committee on Tuesday about the possibilities - and pitfalls - of the new technology."
     publishedDateTime: 2023-05-16T18:34:00Z
@@ -137,6 +164,6 @@ related:
       domain: bbc.co.uk
     quality: 30
 
-secured: "YOvhXTli6zuFFVoQ6WDa7Pgdq62oe0figlVgUMZ9r8BuLSxnfk0KsuAswQbD/v65PPRxULWzUec+ALHVh3o9Kyf7Wa+DqFUOQfbyA/YDAwRhn/ljP5HhSGtSyDHZKEvoBzkKa9/DRUtEZ38r1z8t3sO/7ZC5TPhm1x1vY4dYdGhSFyVfGpTXPqNuPMiPp9KcR7WrsgbdBcE4idYljVYlwdsRyDDYL10YpJKmyAQZ+bwOqJyrV3epraz8bdbGwNwmp30nACnJbWIyouNmSXB9z1PejeVzOkS6GCFJlUk+uGaweaLJj/SMCT0fqL3LwfOeQ8p08Fxb4CfgJFgx5r9/FmCknKBjT8kCLEy0wtyB5mg=;Uy0TH1L8MSmkw3fUOrg6mQ=="
+secured: "BwvCbrYMOoyEhJBwSZyMeo/PpGEnE9EVp+kJal2qXCufRzmy2EVp1LkAT4vLf2LvixO16vwXuCVWo5PUG12YmLBPTzaGJ/7Dm6D2RY0c+ZFj05yFIc2XMxtEGs1JUo5E9HFSpZj9BrLvp2Pv/Ym8Dp6ZjxB4/QDV8O8cvm6kdi5yXPH/MU9IG9CXbXDaQKgeKW0lGR9+HJ+3DqDCAq5uaQKIS9o1TLFmWhoHqlonU7+hjrCwPhhfvTPpFuNz56GmtiTSQbf5kKkGqPTsKxKHVaY/ourZseY7YoNVwdGOX5wXAto55NkaXfmvQr1uMHQOqK8Rx46soRc13glLzZHxoo3d2e3XwIx+tGZPa4ME078wQlghZKB7tze3a0IgmOyOpJLim4H97GbpIRMD55oW9kZ5b24IzPxmYb9VDqFiznRQr+bNRh3lYNve4DT2GvO9pS6wIl0qSU0EbRZmsQKNJGMGMLqUIPJ4iQs700SktY/nNKq6hqF7YuwBP+3ZpCGdaEsc2F50KhMbeNKgHzDhsw==;gEHPd8AkwJQp8yLiSP06IQ=="
 ---
 

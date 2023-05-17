@@ -2,6 +2,92 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-04-04-a-sensor-that-might-someday-enable-mind-controlled-robots.md",
+      "title": "A Sensor That Might Someday Enable Mind-Controlled Robots",
+      "excerpt": "A newly designed dry sensor that can measure brain activity may someday enable mind control of robotic systems.",
+      "sourceUrl": null,
+      "webUrl": "https://neurosciencenews.com/mind-controlled-robots-22931/",
+      "originalUrl": "https://neurosciencenews.com/mind-controlled-robots-22931/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-03T14:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neuroscience News",
+        "domain": "neurosciencenews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-04-next-gen-dry-electrodes-used-to-control-a-robot-via-brain-waves.md",
+      "title": "Next-gen \"dry\" electrodes used to control a robot via brain waves",
+      "excerpt": "Now, however, scientists have developed a new-and-improved type of \"dry\" electrode – and it's been used to mind-control a robot. One of the obvious problems with conductive gel is the fact that ...",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/science/dry-electrodes-mind-control-robot",
+      "originalUrl": "https://newatlas.com/science/dry-electrodes-mind-control-robot",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/2310ccb/2147483647/strip/true/crop/1170x614+0+83/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F34%2F5f%2F39264ef6410188da95ee4dce1538%2F041223brain-machineinterfacehr.jpeg&na.image_optimisation=0",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-03T11:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-04-the-worlds-largest-ai-fund-has-surged-23-this-year-beating-even-the-red-hot-nasdaq-index.md",
       "title": "The world's largest AI fund has surged 23% this year, beating even the red-hot Nasdaq index",
       "excerpt": "The rise of ChatGPT has spurred a renewed spike in investor interest in the artificial intelligence sector. That's led the world's largest AI fund, the Global X Robotics & Artificial Intelligence ...",

@@ -2,6 +2,92 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-05-06-caytu-robotics-deploys-delivery-robots-at-byu.md",
+      "title": "CAYTU Robotics deploys delivery robots at BYU",
+      "excerpt": "CAYTU Robotics, a startup based in Dakar, Senegal, has partnered with BYU to roll out its robotic delivery service on the campus.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/caytu-robotics-deploys-delivery-robots-at-byu/",
+      "originalUrl": "https://www.therobotreport.com/caytu-robotics-deploys-delivery-robots-at-byu/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2023/05/CAYTU-featured.jpg",
+          "width": 770,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-06T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-06-artificial-intelligence-and-robotics-great-expectations-and-daunting-existential-risks.md",
+      "title": "Artificial intelligence and robotics: Great expectations and daunting existential risks",
+      "excerpt": "The starting point is to understand the basic definitions of key concepts such as Robotics, AI, Machine Learning, Deep Learning, Single-Task AI, Artificial General Intelligence (AGI), Strong AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsday.co.zw/thestandard/opinion-analysis/article/200011132/artificial-intelligence-and-robotics-great-expectations-and-daunting-existential-risks",
+      "originalUrl": "https://www.newsday.co.zw/thestandard/opinion-analysis/article/200011132/artificial-intelligence-and-robotics-great-expectations-and-daunting-existential-risks",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.thestandard.co.zw/images/newsday/uploads/2023/05/hZodp8Um0oaPzRpA9UAYDI6JrJKwBk2WaQ4D4xOw.jpg",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsday.co.zw/thestandard/amp/opinion-analysis/article/200011132/artificial-intelligence-and-robotics-great-expectations-and-daunting-existential-risks",
+      "cdnAmpWebUrl": "https://www-newsday-co-zw.cdn.ampproject.org/c/s/www.newsday.co.zw/thestandard/amp/opinion-analysis/article/200011132/artificial-intelligence-and-robotics-great-expectations-and-daunting-existential-risks",
+      "publishedDateTime": "2023-05-05T21:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Day",
+        "domain": "newsday.co.zw",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-05-elon-musk-stirs-debate-on-claims-that-ai-will-enable-you-to-live-forever-an-immortal-question-for-ai-ethics.md",
       "title": "Elon Musk Stirs Debate On Claims That AI Will Enable You To Live Forever, An Immortal Question For AI Ethics",
       "excerpt": "Elon Musk commented to Bill Maher about the ongoing controversy of whether advances in AI will lead to human longevity and the possibility of being able to live forever. Here is the insider analysis on that emerging hot topic.",
@@ -1281,83 +1367,6 @@
         "AI in Robotics",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-04-28-can-artificial-intelligence-ai-grow-your-money-yes-in-theory-but-know-the-risks.md",
-      "title": "Can Artificial Intelligence (AI) grow your money? Yes, in theory, but know the risks",
-      "excerpt": "What are artificial intelligence ETFs? AI ETFs (exchange-tracked funds) mirrors growth of companies involved in the development and production of robots or AI. The world’s largest ETF is the ...",
-      "sourceUrl": null,
-      "webUrl": "https://gulfnews.com/your-money/saving-investment/can-artificial-intelligence-ai-grow-your-money-yes-in-theory-but-know-the-risks-1.1682689976742",
-      "originalUrl": "https://gulfnews.com/your-money/saving-investment/can-artificial-intelligence-ai-grow-your-money-yes-in-theory-but-know-the-risks-1.1682689976742",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imagevars.gulfnews.com/2023/04/28/AI-money-investment_187c8226c79_medium.jpg",
-          "width": 540,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gulfnews.com/amp/your-money/saving-investment/can-artificial-intelligence-ai-grow-your-money-yes-in-theory-but-know-the-risks-1.1682689976742",
-      "cdnAmpWebUrl": "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/your-money/saving-investment/can-artificial-intelligence-ai-grow-your-money-yes-in-theory-but-know-the-risks-1.1682689976742",
-      "publishedDateTime": "2023-04-28T06:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gulf News",
-        "domain": "gulfnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-28-robots-and-ai-could-soon-have-feelings-hopes-and-rights.md",
-      "title": "Robots and AI could soon have feelings, hopes and rights",
-      "excerpt": "This is a start, but nothing more than that ... such as the formation of a European agency for AI and robotics, a legal definition of “smart autonomous robots”, a registration system for ...",
-      "sourceUrl": null,
-      "webUrl": "https://businesstech.co.za/news/trending/160315/robots-and-ai-could-soon-have-feelings-hopes-and-rights/amp/",
-      "originalUrl": "https://businesstech.co.za/news/trending/160315/robots-and-ai-could-soon-have-feelings-hopes-and-rights/amp/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://businesstech.co.za/news/trending/160315/robots-and-ai-could-soon-have-feelings-hopes-and-rights/amp/",
-      "cdnAmpWebUrl": "https://businesstech-co-za.cdn.ampproject.org/c/s/businesstech.co.za/news/trending/160315/robots-and-ai-could-soon-have-feelings-hopes-and-rights/amp/",
-      "publishedDateTime": "2023-04-28T06:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "businesstech.co.za",
-        "domain": "businesstech.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

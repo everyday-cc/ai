@@ -381,6 +381,20 @@ related:
         width: 1080
         height: 538
         isCached: true
+  - title: "ChatGPT’s Altman pleads US Senate for AI rules"
+    excerpt: "Sam Altman, the chief executive of ChatGPT’s OpenAI, told US lawmakers yesterday that regulating artificial intelligence was essential, after"
+    publishedDateTime: 2023-05-16T23:22:00Z
+    webUrl: "https://www.malaymail.com/news/world/2023/05/17/chatgpts-altman-pleads-us-senate-for-ai-rules/69556"
+    type: article
+    provider:
+      name: malaymail
+      domain: malaymail.com
+    quality: 39
+    images:
+      - url: "https://www.malaymail.com/malaymail/uploads/images/2023/05/17/thumbs/400x400/114445.jpg"
+        width: 400
+        height: 264
+        isCached: true
   - title: "Kagan: What’s the next move for Meta with metaverse down, AI ChatGPT up?"
     excerpt: "As interest and intrigue in ChatGPT overtakes that of the metaverse, one analyst asks: Should Meta change its vision?"
     publishedDateTime: 2023-05-15T15:22:00Z
@@ -464,20 +478,6 @@ related:
       - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2023/05/15/d5870040_0.jpg?VersionId=_hBCtc_r5VIlCWOxmn0yo9tYnSXsnUUW"
         width: 860
         height: 573
-        isCached: true
-  - title: "ChatGPT CEO shares concern over AI being used to interfere with elections – video"
-    excerpt: "Top technology CEOs testified before congress on the future of artificial intelligence, calling on lawmakers to introduce new regulations to limit its misuse"
-    publishedDateTime: 2023-05-16T19:48:00Z
-    webUrl: "https://www.theguardian.com/technology/video/2023/may/16/chatgpt-ceo-shares-concern-over-ai-being-used-to-interfere-with-elections-video"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 32
-    images:
-      - url: "https://i.guim.co.uk/img/media/701745531457a41714f0dd727c5b74477e1c0ff5/0_27_5472_3283/master/5472.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1e0c5ca33b9e2a47876c8156c9dd79c0"
-        width: 1200
-        height: 630
         isCached: true
   - title: "ChatGPT’s chief to testify before Congress as concerns grow about artificial intelligence"
     excerpt: "The head of the company that makes ChatGPT is set to testify before Congress as lawmakers call for new rules to guide the rapid development of AI technology."
@@ -568,6 +568,6 @@ related:
       domain: usatoday.com
     quality: 7
 
-secured: "8g3GM067De+KVS2PhSWil5p8Kt7SeIUh9aRojaEl0VAzc9KUWdzQG5OHTLdPr24ge2jTAQT+8QSJZdF0vdTRTIL+iSbTZSLIHeMCveC5myV7TpwmfsWVQkEOhB7+aKD4URKA8LCjlcY21mQaV+k3rGqWhR69sQmQTFxckubShtCZuG62KEgT5ylx5HJ0We+J5CxZYsY9Ccrk1i9KZL90WF/azH8/PhQkhax0g+s2/NsmC7uWw5twt75XreW/20+prjYFEqaA0tTdGcFCMde1fH/GHtLyOuPSZAzb583gQ2NnSK/wF8j8C80SXkZUssrA00PV2gcMJoIdIPrIYEbt+50qfl3MDTVshLskTjA2pMw=;joPvo/4hTRYsS1iLrXz8MA=="
+secured: "N4eY8CYrKg6q5FYR8funRSrK2hr/SfWLRgYnuVZ6HZgVIwO8tYXIi3vajotjhamHiykzyWmTZOQMmNLaxUWhPJIgwkKltgxV3QmFTFXD5Y2OYTVfie0KzX7L5YYlQP2ec5RAE/3r/VUpbM/FKwgg7iNv7cSrCclnaVzGme7j8TDmr3Qf6/4i/y87m2Vjmj6VISZPGIllMoIL6exqRqgqFHPrPvTRwwc38jhzcKP8B7nXbkvpyuRCHiQzhf/cMm49ixrb5HAEaWLWh6x/kxsF2RLqCGpqsnXRKkXk5y8f7SUBGQmjFlNGvXVxz+BroQWBXhoFXc0qrKX00bGQ/fzp8iTjA0Y+1yTjuxVivae6+M2oWdN9qzUKJfk3qghKybsKk21lnjqzLcctSbULw+FSQ6jdTyLn3cJ970rRFOU0J5tfquO91Stmj6lB0vD0wXOzcr6q/XzZj5+6lh/P7OiIn5ZoIwBysqenM7OXfg+lUXA3xgc3CPjK+gqmqIm+o7IrQBgvv0ATxW+kDyGBLBQklQ==;d2n3dDz3ivDK9EzmMH0OdQ=="
 ---
 

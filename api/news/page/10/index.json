@@ -2,6 +2,211 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2023-05-10-how-small-businesses-can-integrate-ai-tools-and-empower-their-team.md",
+      "title": "How Small Businesses Can Integrate AI Tools And Empower Their Team",
+      "excerpt": "As entrepreneurs, it's important to stay ahead of the curve and not ignore emerging technologies that can give us a competitive edge. At the same time, we must prioritize taking care of our people. Here are my thoughts on how to integrate AI into your small business in a responsible way.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/theyec/2023/05/10/how-small-businesses-can-integrate-ai-tools-and-empower-their-team/",
+      "originalUrl": "https://www.forbes.com/sites/theyec/2023/05/10/how-small-businesses-can-integrate-ai-tools-and-empower-their-team/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64595406c962fe6795be84e9/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 484,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/theyec/2023/05/10/how-small-businesses-can-integrate-ai-tools-and-empower-their-team/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2023/05/10/how-small-businesses-can-integrate-ai-tools-and-empower-their-team/amp/",
+      "publishedDateTime": "2023-05-10T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-10-why-ai-powered-customer-service-and-support-are-crucial-in-2023.md",
+      "title": "Why AI-Powered Customer Service And Support Are Crucial In 2023",
+      "excerpt": "The main goal of AI customer service is to automate processes to improve efficiencies and lower overhead costs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/05/10/why-ai-powered-customer-service-and-support-are-crucial-in-2023/",
+      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/05/10/why-ai-powered-customer-service-and-support-are-crucial-in-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6419b0105b9a2d1bc30aff98/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/05/10/why-ai-powered-customer-service-and-support-are-crucial-in-2023/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/05/10/why-ai-powered-customer-service-and-support-are-crucial-in-2023/amp/",
+      "publishedDateTime": "2023-05-10T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-10-three-reasons-generative-ai-will-be-the-next-disruption-for-e-grocery-stores.md",
+      "title": "Three Reasons Generative AI Will Be The Next Disruption For E-Grocery Stores",
+      "excerpt": "Generative artificial intelligence (AI) has taken the world by storm since OpenAI's ChatGPT launched in November 2022. In response to questions or \"prompts,\" the AI system can generate authentic text, images and even code if you ask it to.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/10/three-reasons-generative-ai-will-be-the-next-disruption-for-e-grocery-stores/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/10/three-reasons-generative-ai-will-be-the-next-disruption-for-e-grocery-stores/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/645a4cf1b8e18d309144914e/0x0.jpg?format=jpg&crop=1251,703,x0,y40,safe&width=1200",
+          "width": 1200,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/10/three-reasons-generative-ai-will-be-the-next-disruption-for-e-grocery-stores/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/05/10/three-reasons-generative-ai-will-be-the-next-disruption-for-e-grocery-stores/amp/",
+      "publishedDateTime": "2023-05-10T03:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-10-in-turkey-a-modern-city-sits-alongside-a-mythical-site.md",
+      "title": "In Turkey, a modern city sits alongside a mythical site",
+      "excerpt": "Turkey, sits near the site of Truva, or ancient Troy. The archaeological site is said to have been where the mythical Trojan War took place. But historians say there is real history between Homer's epic poem,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/travel/article/canakkale-troy-turkey/index.html",
+      "originalUrl": "https://www.cnn.com/travel/article/canakkale-troy-turkey/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.cnn.com/api/v1/images/stellar/prod/230510110102-trojan-horse-tz.jpg?c=16x9&q=w_800,c_fill",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/travel/article/canakkale-troy-turkey/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/travel/article/canakkale-troy-turkey/index.html",
+      "publishedDateTime": "2023-05-10T03:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-10-learn-how-to-build-ai-powered-software-with-this-40-bundle.md",
       "title": "Learn how to build AI-powered software with this $40 bundle",
       "excerpt": "Discover how to code your own chatbots, run data analysis and even create games. This bundle includes Python and ChatGPT video courses.",
@@ -978,21 +1183,21 @@
       ]
     },
     {
-      "path": "_news/2023-05-10-google-chrome-brings-better-ai-brains-to-the-web.md",
-      "title": "Google Chrome Brings Better AI Brains to the Web",
-      "excerpt": "With a technology called WebGPU, AI software to monitor your health or generate images could run in your browser instead of the cloud.",
+      "path": "_news/2023-05-10-why-dont-we-have-robot-surgeons-yet.md",
+      "title": "Why Don't We Have Robot Surgeons Yet?",
+      "excerpt": "Most surgical robots operate in one of two ways, or a combination of the two. Either they are remote-controlled by the surgeon, or they follow a predetermined plan set by a surgeon – not unlike how collaborative robots (cobots) in factories can be guided ...",
       "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/tech/computing/google-chrome-brings-better-ai-brains-to-the-web/",
-      "originalUrl": "https://www.cnet.com/tech/computing/google-chrome-brings-better-ai-brains-to-the-web/",
+      "webUrl": "https://www.designnews.com/automation-motion-control/why-dont-we-have-robot-surgeons-yet",
+      "originalUrl": "https://www.designnews.com/automation-motion-control/why-dont-we-have-robot-surgeons-yet",
       "featuredContent": null,
       "highlight": null,
-      "heat": 127,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.cnet.com/a/img/resize/fccd854ab95eb0901bb9d795b1bd9e822ca897ad/hub/2019/05/09/9f2a88cf-2acc-4c04-b11e-03560e8d182f/20120314-google-chrome-lapel-pin-4sts-01.jpg?auto=webp",
-          "width": 4048,
-          "height": 2391,
+          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/Robotic%20Surgery.jpg",
+          "width": 1806,
+          "height": 1023,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1000,64 +1205,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/google-chrome-brings-better-ai-brains-to-the-web/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/google-chrome-brings-better-ai-brains-to-the-web/",
-      "publishedDateTime": "2023-05-09T16:11:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-09T17:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-10-valley-health-system-hospital-innovations-include-robots-at-nursing-stations.md",
-      "title": "Valley Health System hospital innovations include robots at nursing stations",
-      "excerpt": "Artificial intelligence may be intimidating to some, but robotic support is about to be making an innovative debut on your hospital floor as a way to improve",
-      "sourceUrl": null,
-      "webUrl": "https://www.dcnewsnow.com/news/local-news/virginia/shenandoah-county/valley-health-system-hospital-innovations-include-robots-at-nursing-stations/",
-      "originalUrl": "https://www.dcnewsnow.com/news/local-news/virginia/shenandoah-county/valley-health-system-hospital-innovations-include-robots-at-nursing-stations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dcnewsnow.com/wp-content/uploads/sites/14/2023/02/GettyImages-1386596147.jpg?w=1280",
-          "width": 1280,
-          "height": 713,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dcnewsnow.com/news/local-news/virginia/shenandoah-county/valley-health-system-hospital-innovations-include-robots-at-nursing-stations/amp/",
-      "cdnAmpWebUrl": "https://www-dcnewsnow-com.cdn.ampproject.org/c/s/www.dcnewsnow.com/news/local-news/virginia/shenandoah-county/valley-health-system-hospital-innovations-include-robots-at-nursing-stations/amp/",
-      "publishedDateTime": "2023-05-09T15:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "dcnewsnow",
-        "domain": "dcnewsnow.com",
+        "name": "Design News",
+        "domain": "designnews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1068,161 +1222,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-10-why-ai-will-open-up-new-career-opportunities-for-young-people.md",
-      "title": "Why AI Will Open Up New Career Opportunities For Young People",
-      "excerpt": "Between the aging labor force and new technology like ChatGPT, the future looks bright for young people just launching their careers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/markcperna/2023/05/09/why-ai-will-open-up-new-career-opportunities-for-young-people/",
-      "originalUrl": "https://www.forbes.com/sites/markcperna/2023/05/09/why-ai-will-open-up-new-career-opportunities-for-young-people/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/644d8f7506c6135340824e83/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 749,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/markcperna/2023/05/09/why-ai-will-open-up-new-career-opportunities-for-young-people/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markcperna/2023/05/09/why-ai-will-open-up-new-career-opportunities-for-young-people/amp/",
-      "publishedDateTime": "2023-05-09T15:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-10-2030-ai-in-computer-vision-market-growth-future-prospects-and-competitive-analysis.md",
-      "title": "2030, AI in Computer Vision Market Growth | Future Prospects and Competitive Analysis",
-      "excerpt": "The \"AI in Computer Vision Market\" is one of the sectors that is expanding the fastest, thus it is crucial for players",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/2030-ai-in-computer-vision-market-growth-future-prospects-and-competitive-analysis-2023-05-09",
-      "originalUrl": "https://www.marketwatch.com/press-release/2030-ai-in-computer-vision-market-growth-future-prospects-and-competitive-analysis-2023-05-09",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-09T14:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-10-ai-gains-values-with-anthropics-new-constitutional-ai-chatbot-approach.md",
-      "title": "AI gains “values” with Anthropic’s new Constitutional AI chatbot approach",
-      "excerpt": "AI startup Anthropic detailed the specific principles of its \"Constitutional AI\" training approach that provides its Claude chatbot with explicit \"values.\" It aims to address concerns about transparency,",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2023/05/ai-with-a-moral-compass-anthropic-outlines-constitutional-ai-in-its-claude-chatbot/?ref=upstract.com",
-      "originalUrl": "https://arstechnica.com/information-technology/2023/05/ai-with-a-moral-compass-anthropic-outlines-constitutional-ai-in-its-claude-chatbot/?ref=upstract.com",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/anthropic_constitution_2-800x450.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/information-technology/2023/05/ai-with-a-moral-compass-anthropic-outlines-constitutional-ai-in-its-claude-chatbot/?ref=upstract.com&amp",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/05/ai-with-a-moral-compass-anthropic-outlines-constitutional-ai-in-its-claude-chatbot/?ref=upstract.com&amp",
-      "publishedDateTime": "2023-05-09T14:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

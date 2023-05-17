@@ -2,6 +2,204 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-05-12-a-big-driver-of-this-years-stock-rally-artificial-intelligence.md",
+      "title": "A Big Driver of This Year's Stock Rally: Artificial Intelligence",
+      "excerpt": "Investors can’t get enough of stocks tied to artificial intelligence right now. Hype around ChatGPT has fueled a jump in mentions of AI on earnings calls, and AI-related stocks have skyrocketed. Take Microsoft,",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-05-12-2023/card/a-big-driver-of-this-year-s-stock-rally-artificial-intelligence-Td2SlIlZnaOasbkJWtLn?siteid=yhoof2&yptr=yahoo",
+      "originalUrl": "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-05-12-2023/card/a-big-driver-of-this-year-s-stock-rally-artificial-intelligence-Td2SlIlZnaOasbkJWtLn?siteid=yhoof2&yptr=yahoo",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-780730?width=600",
+          "width": 600,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-12T04:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-12-eu-parliament-backs-ai-restrictions-and-facial-recognition-ban.md",
+      "title": "EU parliament backs AI restrictions and facial recognition ban",
+      "excerpt": "The European parliament has voted in favour of a ban on biometric surveillance and restrictions on generative AI and foundation models such as ChatGPT.",
+      "sourceUrl": null,
+      "webUrl": "https://www.research-live.com/article/news/eu-parliament-backs-ai-restrictions-and-facial-recognition-ban/id/5112292",
+      "originalUrl": "https://www.research-live.com/article/news/eu-parliament-backs-ai-restrictions-and-facial-recognition-ban/id/5112292",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.research-live.com/img/MRS_EM_RGB.jpg",
+          "width": 1000,
+          "height": 581,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.research-live.com/amp-page.html?id=5112292&name=eu-parliament-backs-ai-restrictions-and-facial-recognition-ban",
+      "cdnAmpWebUrl": "https://www-research--live-com.cdn.ampproject.org/c/s/www.research-live.com/amp-page.html?id=5112292&name=eu-parliament-backs-ai-restrictions-and-facial-recognition-ban",
+      "publishedDateTime": "2023-05-12T04:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "research",
+        "domain": "research-live.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-12-googles-translation-glasses-were-actually-at-io-2023-and-right-in.md",
+      "title": "Google's 'translation glasses' were actually at I/O 2023, and right in ...",
+      "excerpt": "Google unveiled a pair of augmented reality (AR) glasses at its I/O developer conference. But unlike Google Glass, this new concept, which didn't have a name at the time (and still doesn't), demonstrated the practicality of digital overlays,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/googles-translation-glasses-were-actually-at-io-2023-and-right-in-front-of-our-eyes/",
+      "originalUrl": "https://www.zdnet.com/article/googles-translation-glasses-were-actually-at-io-2023-and-right-in-front-of-our-eyes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/183b38573ea4cabb8eb92ebc5bb135a502b0197a/2023/05/11/0b3f8170-2af0-4e35-8015-ef8757dd6950/google-translation-glasses.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/googles-translation-glasses-were-actually-at-io-2023-and-right-in-front-of-our-eyes/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/googles-translation-glasses-were-actually-at-io-2023-and-right-in-front-of-our-eyes/",
+      "publishedDateTime": "2023-05-12T04:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-12-how-ai-is-helping-to-improve-transportation-safety-on-a-global-scale.md",
+      "title": "How AI Is Helping To Improve Transportation Safety On A Global Scale",
+      "excerpt": "While the use of AI in vehicle inspection is a significant development, it is one of many other ways that AI is being used to improve transportation safety around the world.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/12/how-ai-is-helping-to-improve-transportation-safety-on-a-global-scale/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/12/how-ai-is-helping-to-improve-transportation-safety-on-a-global-scale/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/645ce929429d7626542796dd/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/12/how-ai-is-helping-to-improve-transportation-safety-on-a-global-scale/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/05/12/how-ai-is-helping-to-improve-transportation-safety-on-a-global-scale/amp/",
+      "publishedDateTime": "2023-05-12T03:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2023-05-12-ai-frenzy-accounts-for-all-of-sp-500-gain-in-2023-socgen-says.md",
       "title": "AI Frenzy Accounts for All of S&P 500 Gain in 2023, SocGen Says",
       "excerpt": "The investing frenzy around artificial intelligence has been so strong that without it, US stocks would be down for the year, according to Societe Generale SA strategist Manish Kabra.",
@@ -1048,204 +1246,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-12-snapchat-star-earns-70000-with-sexy-chatgpt-ai-heres-how-she-did-it.md",
-      "title": "Snapchat Star Earns $70,000 With Sexy ChatGPT AI: Here’s How She Did It",
-      "excerpt": "Meet CarynAI - the answer to loneliness by an enterprising social media influencer.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/martineparis/2023/05/11/carynai-virtual-date-earned-70000-with-sexy-chatgpt-ai-heres-how/",
-      "originalUrl": "https://www.forbes.com/sites/martineparis/2023/05/11/carynai-virtual-date-earned-70000-with-sexy-chatgpt-ai-heres-how/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/645d5d77a5a034c6f9e63673/0x0.jpg?format=jpg&width=1200",
-          "width": 1066,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/martineparis/2023/05/11/carynai-virtual-date-earned-70000-with-sexy-chatgpt-ai-heres-how/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martineparis/2023/05/11/carynai-virtual-date-earned-70000-with-sexy-chatgpt-ai-heres-how/amp/",
-      "publishedDateTime": "2023-05-11T12:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-12-meaningful-harm-from-ai-necessary-before-regulation-says-microsoft-exec.md",
-      "title": "“Meaningful harm” from AI necessary before regulation, says Microsoft exec",
-      "excerpt": "As lawmakers worldwide attempt to understand how to regulate rapidly advancing AI technologies, Microsoft chief economist Michael Schwarz told attendees of the World Economic Forum Growth Summit today that \"we shouldn't regulate AI until we see some meaningful harm that is actually happening,",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/tech-policy/2023/05/meaningful-harm-from-ai-necessary-before-regulation-says-microsoft-exec/",
-      "originalUrl": "https://arstechnica.com/tech-policy/2023/05/meaningful-harm-from-ai-necessary-before-regulation-says-microsoft-exec/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/GettyImages-1289079656-800x450.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/tech-policy/2023/05/meaningful-harm-from-ai-necessary-before-regulation-says-microsoft-exec/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/tech-policy/2023/05/meaningful-harm-from-ai-necessary-before-regulation-says-microsoft-exec/amp/",
-      "publishedDateTime": "2023-05-11T12:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-12-why-chatgpt-developer-openai-is-the-no-1-company-on-the-2023-cnbc-disruptor-50-list.md",
-      "title": "Why ChatGPT developer OpenAI is the No. 1 company on the 2023 CNBC Disruptor 50 list",
-      "excerpt": "ChatGPT developer OpenAI comes in at No. 1 on the 2023 CNBC Disruptor 50 list, with artificial intelligence the dominant theme in the annual ranking. \"I do think we are deep into a new ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/05/09/why-chatgpt-maker-openai-is-the-no-1-2023-cnbc-disruptor-50-company.html",
-      "originalUrl": "https://www.cnbc.com/2023/05/09/why-chatgpt-maker-openai-is-the-no-1-2023-cnbc-disruptor-50-company.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107191457-1675888570906-gettyimages-1246870629-AFP_338Q79Q.jpeg?v=1683731024",
-          "width": 3600,
-          "height": 2400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2023/05/09/why-chatgpt-maker-openai-is-the-no-1-2023-cnbc-disruptor-50-company.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/05/09/why-chatgpt-maker-openai-is-the-no-1-2023-cnbc-disruptor-50-company.html",
-      "publishedDateTime": "2023-05-11T12:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-12-i-made-a-sexy-ai-robot-of-myself-you-can-date-me-for-1-a-minute.md",
-      "title": "I made a sexy AI robot of myself — you can date me for $1 a minute",
-      "excerpt": "He says they also might start training the AI to “slow down a little bit” given that the average use time is two hours — although he didn’t specify how. “I would just hope there’s robust conversations across a lot of different disciplines with ...",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2023/05/11/influencer-turns-herself-into-sexy-ai-robot-you-can-date-for-1/",
-      "originalUrl": "https://nypost.com/2023/05/11/influencer-turns-herself-into-sexy-ai-robot-you-can-date-for-1/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2023/05/NYPICHPDPICT000010943923.jpg?quality=75&strip=all&w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2023/05/11/influencer-turns-herself-into-sexy-ai-robot-you-can-date-for-1/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2023/05/11/influencer-turns-herself-into-sexy-ai-robot-you-can-date-for-1/amp/",
-      "publishedDateTime": "2023-05-11T11:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

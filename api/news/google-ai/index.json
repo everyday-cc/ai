@@ -748,49 +748,6 @@
       ]
     },
     {
-      "path": "_news/2023-05-04-deepmind-boss-says-human-level-ai-is-just-a-few-years-away.md",
-      "title": "DeepMind boss says human-level AI is just a few years away",
-      "excerpt": "The head of Google’s artificial intelligence division DeepMind has predicted that human-level AI may be just a few years away. The forecast from Demis Hassabis puts the date for the arrival ofAGI) – systems that can think in similar but superior ways to humans – much earlier than previous predictions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.aol.com/deepmind-boss-says-human-level-115422614.html",
-      "originalUrl": "https://www.aol.com/deepmind-boss-says-human-level-115422614.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.zenfs.com/en/aol_the_independent_us_877/383722a72aee24b2f4a7b7a17d5aeb64",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-04T08:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AOL",
-        "domain": "aol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-05-04-current-language-models-lightyears-away-from-human-like-ai-early-deepmind-investor.md",
       "title": "Current language models lightyears away from human-like AI: Early DeepMind investor",
       "excerpt": "We took a big jump, but we’re not at the moon yet,” Sheikh added. He also noted that the large language models (LLM) developed by Microsoft-backed firm OpenAI are lightyears away from artificial general intelligence,",
@@ -832,6 +789,49 @@
         "Natural Language Processing",
         "AI",
         "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-04-deepmind-boss-says-human-level-ai-is-just-a-few-years-away.md",
+      "title": "DeepMind boss says human-level AI is just a few years away",
+      "excerpt": "The head of Google’s artificial intelligence division DeepMind has predicted that human-level AI may be just a few years away. The forecast from Demis Hassabis puts the date for the arrival of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.aol.com/news/deepmind-boss-says-human-level-115422614.html",
+      "originalUrl": "https://www.aol.com/news/deepmind-boss-says-human-level-115422614.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.zenfs.com/en/aol_the_independent_us_877/383722a72aee24b2f4a7b7a17d5aeb64",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-04T05:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AOL",
+        "domain": "aol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
       ]
     },
     {

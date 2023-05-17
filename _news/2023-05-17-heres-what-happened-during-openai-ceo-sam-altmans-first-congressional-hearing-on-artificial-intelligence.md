@@ -46,6 +46,22 @@ related:
         width: 800
         height: 534
         isCached: true
+  - title: "Google follows OpenAI in saying almost nothing about its new PaLM 2 AI program"
+    excerpt: "When Google artificial intelligence scientists revealed a significant new program -- the Pathways Language Model (PaLM) -- a year ago, they spent several hundred words in a technical paper describing the significant new AI techniques used to achieve the program's results."
+    publishedDateTime: 2023-05-16T21:42:00Z
+    webUrl: "https://www.zdnet.com/article/google-follows-openai-in-saying-almost-nothing-about-its-new-palm-2-ai-program/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/google-follows-openai-in-saying-almost-nothing-about-its-new-palm-2-ai-program/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-follows-openai-in-saying-almost-nothing-about-its-new-palm-2-ai-program/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 85
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/7a81d87b5825f36b755507a1a1ab14e8fdec5dc1/2023/05/16/966da46b-19b4-42e8-ab6d-300f61c09302/google-palm-2-graphic.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "OpenAI chief concerned about AI being used to compromise elections"
     excerpt: "The CEO of OpenAI, the startup behind ChatGPT, told a Senate panel on Tuesday ... \"I am nervous about it,\" CEO Sam Altman said about elections and AI, adding rules and guidelines are needed. For all latest news, follow The Daily Star's Google News channel."
     publishedDateTime: 2023-05-16T20:28:00Z
@@ -117,6 +133,17 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 38
+  - title: "OpenAI’s Sam Altman urges AI regulation in Senate hearing"
+    excerpt: "Altman implored lawmakers to regulate artificial intelligence as members of the committee displayed a budding understanding of the technology."
+    publishedDateTime: 2023-05-16T22:21:00Z
+    webUrl: "https://www.seattletimes.com/business/openais-sam-altman-urges-ai-regulation-in-senate-hearing/"
+    ampWebUrl: "https://www.seattletimes.com/business/openais-sam-altman-urges-ai-regulation-in-senate-hearing/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/openais-sam-altman-urges-ai-regulation-in-senate-hearing/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 37
   - title: "OpenAI CEO Sam Altman calls for increased AI regulation in Senate hearing"
     excerpt: "OpenAI LP Chief Executive Sam Altman has told lawmakers that the U.S. should consider implementing new rules to ensure the safety of artificial intelligence systems. Altman (pictured) made the remarks this morning during a hearing before a Senate Judiciary subcommittee."
     publishedDateTime: 2023-05-16T20:02:00Z
@@ -141,6 +168,6 @@ related:
       domain: bbc.co.uk
     quality: 30
 
-secured: "JWgYpV7+V+4+t+a3duJJRXwb+R318+2o7rJXRnLbyEPUsbxKKNksDPCEY+E+FOlLL+Dchk94dt2sv+UUaxHLD0hwgVJAOLWloVwohtV/KiRmLY7ekO8c5V4EKYg4lLZ7BcFx+y+KFhAGNU6l3KjOWuimKsmh3ZIrAVrLi28KJoB8RdHxbBzBeQRygsjMQ1MAAiXaNklIx4O1cSbX78gsQEoE2QyFV8IoJIfN8NpYn/K4U3J0ph/qiRNCqJzz7yRZ2LYL71B+z7UBNBBN99oC7C/jOh5ODiADk86E/YaRqucrTk9I4gOan5j1gQgHR5sp3xLB403vukpYaOOaWA7QeOb6TsMTidVEs0BWy2olbQo=;dvHibNuT+nGWIyIrkV9OlA=="
+secured: "i8dCkCuJ4xJrwCW5bZXwLkimUMCslPcYGty1mwTJM4tKAt3B6MU0d08N0snpZpJgchomb8mMPfVuB7Mt4t39jLStvAedI4UGxXLt/b8K1+YVzxecfSdJKVUR90PDsCaS5h7GY63Dsiy/4r2O2lIApBVLiIGm3kuLVzHcYx87u/knl8nIpe9xikN5362gdEe6z9PsjvedlxTtIC+rwxHGD5A164boGEiHWVAmUkLaLPnfSyLqQAy7AB2MX255jClQ1ZbsjwWkR4VMKdfQFq9ccbrMWWG5TWDiQYjixzelPGAkcYag84Uge2E6q05Rj5JyFnpyVbf5frqoavfC2gEn8E8MiPeT2lEb/dA+VQVo2v2KXuJ4mNkNQ+oQsgAsM29e7EjUp+TCti6xn2SjZGXYOz1xv0MsV3PW1h/3Th2ElehJ5ABuEb+WeSMLU/I/9uNVsNKijyuKbTeZn1gR4qrUr0wF6Pl0vLNvn75WY4KPQugqwiLXObYeNdY/+Atk1vDMYiXW5wncWerr/gB1AqeOeQ==;KKYXxUzKd+Hfjkjb/oHUJQ=="
 ---
 

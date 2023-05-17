@@ -9,7 +9,7 @@ ampWebUrl: "https://www.research-live.com/amp-page.html?id=5112292&name=eu-parli
 cdnAmpWebUrl: "https://www-research--live-com.cdn.ampproject.org/c/s/www.research-live.com/amp-page.html?id=5112292&name=eu-parliament-backs-ai-restrictions-and-facial-recognition-ban"
 type: article
 quality: 74
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -57,17 +57,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Robotics and artificial intelligence: Building blocks of fourth industrial revolution introduction"
-    excerpt: "While the integration of robotics and AI in education presents exciting opportunities, several challenges must be overcome for their adoption"
-    publishedDateTime: 2023-05-12T06:38:00Z
-    webUrl: "https://www.dqindia.com/robotics-and-artificial-intelligence-building-blocks-of-fourth-industrial-revolution-introduction/"
-    ampWebUrl: "https://www.dqindia.com/robotics-and-artificial-intelligence-building-blocks-of-fourth-industrial-revolution-introduction/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/robotics-and-artificial-intelligence-building-blocks-of-fourth-industrial-revolution-introduction/amp/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 55
   - title: "Genocide Recognition: an Australian story"
     excerpt: "May it appears is the month of genocide recognition amongst the Australian parliaments, with Tasmania being the latest one to adopt a resolution of recognition of the Genocides of the Hellenes, Armenians and Assyrians on Thursday 11 May."
     publishedDateTime: 2023-05-13T23:06:00Z

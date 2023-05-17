@@ -42,20 +42,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Exclusive: Google’s Sundar Pichai talks Search, AI, and dancing with Microsoft"
-    excerpt: "Sundar Pichai is the CEO of Google and Alphabet. We spoke the day after Google I/O, the company’s big developer conference, where Sundar introduced new generative AI features in virtually all of the company’s products."
-    publishedDateTime: 2023-05-12T09:00:00Z
-    webUrl: "https://www.theverge.com/2023/5/12/23720731/google-io-2023-exclusive-sundar-pichai-search-generative-experience-ai-microsoft-bing-chatgpt"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 80
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/3VCetxdhkZhF8Ji6_iRD6u78BeM=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24652338/236655_Decoder_Sundar_Pichai_WJoel.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Governments' race to regulate AI tools"
     excerpt: "Rapid advances in artificial intelligence such as OpenAI's ChatGPT are complicating governments' efforts to agree to laws governing the use of the technology. Here are the latest steps national and international governing bodies are taking to regulate AI tools. Ilan Rubens reports."
     publishedDateTime: 2023-05-12T07:59:00Z

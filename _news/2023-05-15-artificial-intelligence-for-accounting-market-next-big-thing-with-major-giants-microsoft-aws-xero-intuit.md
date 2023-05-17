@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-for-accounting-market-next-big-thing-with-major-giants-microsoft-aws-xero-intuit-2023-05-15"
 type: article
 quality: 83
-heat: 113
+heat: 103
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Triumph Tech CEO: AWS Will Win ‘AI War’ Vs. Google, Microsoft"
-    excerpt: "Generative AI market of Amazon, Google and Microsoft’s OpenAI ChatGPT will be won by AWS due to the cloud company’s artificial intelligence customization and scalability, says Triumph Technology Solutions CEO."
-    publishedDateTime: 2023-05-12T15:29:00Z
-    webUrl: "https://www.crn.com/news/cloud/triumph-tech-ceo-aws-will-win-ai-war-vs-google-microsoft"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 71
-    images:
-      - url: "https://www.crn.com/resources/0281-17fee2fdcd7a-2e9db2bde58c-1000/vic-raymond.jpeg"
-        width: 611
-        height: 458
-        isCached: true
   - title: "Deep Learning in Manufacturing Market 2023-2030"
     excerpt: "The major players covered in the Deep Learning in Manufacturing market report are: Get a sample copy of the Deep Learning in Manufacturing Market report 2023 Market Overview of Global Deep Learning in Manufacturing market: According to our latest research,"
     publishedDateTime: 2023-05-16T06:22:00Z

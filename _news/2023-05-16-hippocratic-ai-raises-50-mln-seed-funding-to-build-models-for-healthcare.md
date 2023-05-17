@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Hippocratic Health raises $50 mln seed funding to build AI model"
+    excerpt: "Hippocratic Health, a startup building artificial intelligence models for the healthcare industry, has raised $50 million in a larger-than-usual seed funding round, signaling strong investor interest in betting on AI models for specific industries."
+    publishedDateTime: 2023-05-16T12:02:00Z
+    webUrl: "https://www.reuters.com/business/healthcare-pharmaceuticals/hippocratic-health-raises-50-mln-seed-funding-build-ai-model-2023-05-16/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 69
+    images:
+      - url: "https://www.reuters.com/resizer/9Ff0pYw8o_htWZ9gDHe_OETrgDY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WU6RQETI5NJZJAZFZU4DLOQALE.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Hippocratic AI Raises $50 Million To Power The Healthcare Bot Workforce"
     excerpt: "Backed by General Catalyst and Andreessen Horowitz, the startup says its healthcare specific large language model outperforms GPT-4 on over 100 benchmarks."
     publishedDateTime: 2023-05-16T13:00:00Z
@@ -52,15 +66,6 @@ related:
         width: 1280
         height: 816
         isCached: true
-  - title: "Hippocratic Health raises $50 mln seed funding to build AI model"
-    excerpt: "Hippocratic Health, a startup building artificial intelligence models for the healthcare industry, has raised $50 million in a larger-than-usual seed funding round, signaling strong investor interest in betting on AI models for specific industries."
-    publishedDateTime: 2023-05-16T12:02:00Z
-    webUrl: "https://www.reuters.com/business/healthcare-pharmaceuticals/hippocratic-health-raises-50-mln-seed-funding-build-ai-model-2023-05-16/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 47
   - title: "Hippocratic AI launches with $50M seed"
     excerpt: "Hippocratic AI launched with a $50 million seed round from General Catalyst and Andreessen Horowitz for its large language model (LLM) in health care. Why it matters: This is one of the largest seed checks a16z has written for a health care company, signaling its strong desire to get in on the ground floor of AI."
     publishedDateTime: 2023-05-16T16:57:00Z

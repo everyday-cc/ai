@@ -2,6 +2,264 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-05-13-deep-learning-in-ct-scanners-market-2030.md",
+      "title": "Deep Learning in CT Scanners Market | 2030",
+      "excerpt": "Precision Reports has published a new report titled as \" Deep Learning in CT Scanners Market \" by End User ( Hospital, Diagnostic Center, Research, Veterinary Clinic ), Types ( Stationary, Portable ),",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-in-ct-scanners-market-2030-2023-05-13",
+      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-in-ct-scanners-market-2030-2023-05-13",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-12T22:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-13-ai-verification-and-impacts-on-commercial-due-diligence.md",
+      "title": "AI, verification and impacts on commercial due diligence",
+      "excerpt": "AI has loudly announced itself, offering enterprises exciting potential. Why due diligence, verification and vetting are essential.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/ai-verification-and-impacts-on-commercial-due-diligence/",
+      "originalUrl": "https://venturebeat.com/ai/ai-verification-and-impacts-on-commercial-due-diligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1216705894-e1644616451773.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/ai-verification-and-impacts-on-commercial-due-diligence/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/ai-verification-and-impacts-on-commercial-due-diligence/amp/",
+      "publishedDateTime": "2023-05-12T20:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-13-hear-reddit-co-founders-response-when-asked-if-government-is-equipped-to-regulate-ai.md",
+      "title": "Hear Reddit co-founder’s response when asked if Government is equipped to regulate AI",
+      "excerpt": "Reddit co-founder Alexis Ohanian joins CNN's Chris Wallace to discuss artificial intelligence and if the Government is equipped to regulate it.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/videos/business/2023/05/13/alexis-ohanian-artificial-intelligence-government-regulation-ai-reddit-wallace-sot-contd-wtcw-vpx.cnn",
+      "originalUrl": "https://www.cnn.com/videos/business/2023/05/13/alexis-ohanian-artificial-intelligence-government-regulation-ai-reddit-wallace-sot-contd-wtcw-vpx.cnn",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/230512224047-alexis-ohanian-wtcw-vpx-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/videos/business/2023/05/13/alexis-ohanian-artificial-intelligence-government-regulation-ai-reddit-wallace-sot-contd-wtcw-vpx.cnn",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/business/2023/05/13/alexis-ohanian-artificial-intelligence-government-regulation-ai-reddit-wallace-sot-contd-wtcw-vpx.cnn",
+      "publishedDateTime": "2023-05-12T20:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-13-forbes-magazines-new-majority-owner-is-a-28-year-old-billionaire-who-made-his-money-in-self-driving-car-tech.md",
+      "title": "Forbes magazine’s new majority owner is a 28-year-old billionaire who made his money in self-driving car tech",
+      "excerpt": "The Forbes family will not, though Steve Forbes will remain involved. Russell is the chief executive officer of Luminar Technologies Inc., which provides antonymous driving technology to the automotive industry. The company, which has a $2.1 billion market ...",
+      "sourceUrl": null,
+      "webUrl": "https://fortune.com/2023/05/12/forbes-austin-russell-acquisition-majority-stake/",
+      "originalUrl": "https://fortune.com/2023/05/12/forbes-austin-russell-acquisition-majority-stake/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://content.fortune.com/wp-content/uploads/2023/05/GettyImages-1248342207-e1683937269697.jpg?w=840",
+          "width": 840,
+          "height": 560,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://fortune.com/2023/05/12/forbes-austin-russell-acquisition-majority-stake/amp/",
+      "cdnAmpWebUrl": "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/2023/05/12/forbes-austin-russell-acquisition-majority-stake/amp/",
+      "publishedDateTime": "2023-05-12T18:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fortune",
+        "domain": "fortune.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fortune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-13-gxo-direct-to-rely-on-machine-learning-to-drive-labor-efficiencies.md",
+      "title": "GXO Direct To Rely On Machine Learning To Drive Labor Efficiencies",
+      "excerpt": "GXO Direct has invested in a machine learning labor management system from Blue Yonder to help drive labor productivity at their warehouses. Traditionally, industrial engineers were widely used to set fair labor standards.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/stevebanker/2023/05/12/gxo-direct-to-rely-on-machine-learning-to-drive-labor-efficiencies/",
+      "originalUrl": "https://www.forbes.com/sites/stevebanker/2023/05/12/gxo-direct-to-rely-on-machine-learning-to-drive-labor-efficiencies/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/645ec3f67b23e04dc34bd1d5/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/stevebanker/2023/05/12/gxo-direct-to-rely-on-machine-learning-to-drive-labor-efficiencies/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevebanker/2023/05/12/gxo-direct-to-rely-on-machine-learning-to-drive-labor-efficiencies/amp/",
+      "publishedDateTime": "2023-05-12T15:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-13-snapchat-influencer-launches-an-ai-powered-virtual-girlfriend-to-help-cure-loneliness.md",
       "title": "Snapchat influencer launches an AI-powered 'virtual girlfriend' to help 'cure loneliness'",
       "excerpt": "Called CarynAI, the chatbot is described on its website as a \"virtual girlfriend.\" It allows Marjorie's fans to \"enjoy private, personalized conversations\" with an AI version of the influencer, the chatbot's website states.",
@@ -91,58 +349,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-13-generative-ai-breaks-the-data-center-data-center-infrastructure-and-operating-costs-projected-to-increase-to-over-76-billion-by-2028.md",
-      "title": "Generative AI Breaks The Data Center: Data Center Infrastructure And Operating Costs Projected To Increase To Over $76 Billion By 2028",
-      "excerpt": "For perspective, this cost is more than twice the estimated annual operating cost of Amazon’s cloud service AWS, which today holds one third of the cloud infrastructure services market according to Tirias Research estimates.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tiriasresearch/2023/05/12/generative-ai-breaks-the-data-center-data-center-infrastructure-and-operating-costs-projected-to-increase-to-over-76-billion-by-2028/",
-      "originalUrl": "https://www.forbes.com/sites/tiriasresearch/2023/05/12/generative-ai-breaks-the-data-center-data-center-infrastructure-and-operating-costs-projected-to-increase-to-over-76-billion-by-2028/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/645e9ce710eaa0e7d2a69866/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 514,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tiriasresearch/2023/05/12/generative-ai-breaks-the-data-center-data-center-infrastructure-and-operating-costs-projected-to-increase-to-over-76-billion-by-2028/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2023/05/12/generative-ai-breaks-the-data-center-data-center-infrastructure-and-operating-costs-projected-to-increase-to-over-76-billion-by-2028/amp/",
-      "publishedDateTime": "2023-05-12T13:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     },
@@ -718,7 +924,7 @@
       "originalUrl": "https://www.ibm.com/blog/mttr-vs-mtbf/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 103,
+      "heat": 102,
       "tags": null,
       "images": [
         {
@@ -1068,204 +1274,6 @@
       "topics": [
         "IBM AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-12-a-big-driver-of-this-years-stock-rally-artificial-intelligence.md",
-      "title": "A Big Driver of This Year's Stock Rally: Artificial Intelligence",
-      "excerpt": "Investors can’t get enough of stocks tied to artificial intelligence right now. Hype around ChatGPT has fueled a jump in mentions of AI on earnings calls, and AI-related stocks have skyrocketed. Take Microsoft,",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-05-12-2023/card/a-big-driver-of-this-year-s-stock-rally-artificial-intelligence-Td2SlIlZnaOasbkJWtLn?siteid=yhoof2&yptr=yahoo",
-      "originalUrl": "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-05-12-2023/card/a-big-driver-of-this-year-s-stock-rally-artificial-intelligence-Td2SlIlZnaOasbkJWtLn?siteid=yhoof2&yptr=yahoo",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-780730?width=600",
-          "width": 600,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-12T04:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-12-eu-parliament-backs-ai-restrictions-and-facial-recognition-ban.md",
-      "title": "EU parliament backs AI restrictions and facial recognition ban",
-      "excerpt": "The European parliament has voted in favour of a ban on biometric surveillance and restrictions on generative AI and foundation models such as ChatGPT.",
-      "sourceUrl": null,
-      "webUrl": "https://www.research-live.com/article/news/eu-parliament-backs-ai-restrictions-and-facial-recognition-ban/id/5112292",
-      "originalUrl": "https://www.research-live.com/article/news/eu-parliament-backs-ai-restrictions-and-facial-recognition-ban/id/5112292",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.research-live.com/img/MRS_EM_RGB.jpg",
-          "width": 1000,
-          "height": 581,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.research-live.com/amp-page.html?id=5112292&name=eu-parliament-backs-ai-restrictions-and-facial-recognition-ban",
-      "cdnAmpWebUrl": "https://www-research--live-com.cdn.ampproject.org/c/s/www.research-live.com/amp-page.html?id=5112292&name=eu-parliament-backs-ai-restrictions-and-facial-recognition-ban",
-      "publishedDateTime": "2023-05-12T04:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "research",
-        "domain": "research-live.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-12-googles-translation-glasses-were-actually-at-io-2023-and-right-in.md",
-      "title": "Google's 'translation glasses' were actually at I/O 2023, and right in ...",
-      "excerpt": "Google unveiled a pair of augmented reality (AR) glasses at its I/O developer conference. But unlike Google Glass, this new concept, which didn't have a name at the time (and still doesn't), demonstrated the practicality of digital overlays,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/googles-translation-glasses-were-actually-at-io-2023-and-right-in-front-of-our-eyes/",
-      "originalUrl": "https://www.zdnet.com/article/googles-translation-glasses-were-actually-at-io-2023-and-right-in-front-of-our-eyes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/183b38573ea4cabb8eb92ebc5bb135a502b0197a/2023/05/11/0b3f8170-2af0-4e35-8015-ef8757dd6950/google-translation-glasses.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/googles-translation-glasses-were-actually-at-io-2023-and-right-in-front-of-our-eyes/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/googles-translation-glasses-were-actually-at-io-2023-and-right-in-front-of-our-eyes/",
-      "publishedDateTime": "2023-05-12T04:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-12-how-ai-is-helping-to-improve-transportation-safety-on-a-global-scale.md",
-      "title": "How AI Is Helping To Improve Transportation Safety On A Global Scale",
-      "excerpt": "While the use of AI in vehicle inspection is a significant development, it is one of many other ways that AI is being used to improve transportation safety around the world.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/12/how-ai-is-helping-to-improve-transportation-safety-on-a-global-scale/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/12/how-ai-is-helping-to-improve-transportation-safety-on-a-global-scale/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/645ce929429d7626542796dd/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/12/how-ai-is-helping-to-improve-transportation-safety-on-a-global-scale/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/05/12/how-ai-is-helping-to-improve-transportation-safety-on-a-global-scale/amp/",
-      "publishedDateTime": "2023-05-12T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],
