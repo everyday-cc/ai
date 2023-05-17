@@ -101,15 +101,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "OpenAI Founder Calls for the Global Regulation of Artificial Intelligence"
-    excerpt: "As senators raise concerns about the risks of ChatGPT, Sam Altman says his worst fear is his industry causing \"significant harm to the world.\""
-    publishedDateTime: 2023-05-16T18:59:00Z
-    webUrl: "https://www.inc.com/christine-lagorio-chafkin/openai-founder-calls-for-global-regulation-of-artificial-intelligence.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 33
   - title: "WHO calls for caution in using artificial intelligence for health"
     excerpt: "The World Health Organisation has called for caution in using artificial intelligence-generated large language model tools to protect and promote human well-being, human safety, autonomy, and preserve public health."
     publishedDateTime: 2023-05-16T08:28:00Z

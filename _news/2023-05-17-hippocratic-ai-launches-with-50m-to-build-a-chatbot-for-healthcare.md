@@ -76,6 +76,20 @@ related:
         width: 1366
         height: 768
         isCached: true
+  - title: "Visual Layer raises $7M to clean up image datasets for AI training"
+    excerpt: "Data quality startup Visual Layer Inc. announced today it has closed on a $7 million seed funding round led by Madrona Venture Group and Insight Partners and will use the money to build out its managed service for curating large-scale image sets used to train computer vision models."
+    publishedDateTime: 2023-05-16T23:59:00Z
+    webUrl: "https://siliconangle.com/2023/05/16/visual-layer-raises-7m-clean-image-datasets-ai-training/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/05/Visual-Layer-Graphic.png"
+        width: 1000
+        height: 500
+        isCached: true
   - title: "Andreessen Horowitz and General Catalyst lead $50 million seed round in Hippocratic AI to deliver large language models to healthcare providers"
     excerpt: "The pre-product artificial intelligence startup plans to focus on non-diagnostic, patient-facing use cases, its CEO told Insider."
     publishedDateTime: 2023-05-16T13:00:00Z

@@ -3,10 +3,10 @@ category: news
 title: "UK policing minister pushes for greater use of facial recognition"
 excerpt: "Chris Philp expressed desire to expand use of controversial technology in closed door meetings, according to report"
 publishedDateTime: 2023-05-15T23:01:00Z
-originalUrl: "https://www.ft.com/content/b8477e16-349d-442d-8e69-59b328ba9189"
-webUrl: "https://www.ft.com/content/b8477e16-349d-442d-8e69-59b328ba9189"
+originalUrl: "https://www.ft.com/content/b8477e16-349d-442d-8e69-59b328ba9189?shareType=nongift"
+webUrl: "https://www.ft.com/content/b8477e16-349d-442d-8e69-59b328ba9189?shareType=nongift"
 type: article
-quality: 19
+quality: 39
 heat: -1
 published: false
 
@@ -17,6 +17,12 @@ provider:
 topics:
   - Computer Vision
   - AI
+
+images:
+  - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/eu-politics.jpg"
+    width: 619
+    height: 377
+    isCached: true
 
 related:
   - title: "Ministers looking at putting facial recognition technology in police bodycams"
@@ -59,6 +65,6 @@ related:
       domain: bloomberglaw.com
     quality: 19
 
-secured: "q0L47/cq0VPwN+pTLrFexkUd8BnlS88x+EhbrP+EP63LH2F5P/8DmKjFM9P2OXA9LCKAtpdnrTLrUeZK1/SAemenjgkRScU6eOzV793aiWBSvZ7YcYyc6TVZt4BGD9x0ac/NTMOgpP1VgH4+BsV15DAbgCEZA5SNS9O/ccRpq7j6P0gauwGalTGBadnV2igl621gLfq7foEPe7JBVmMgaAZ/ha5vgve8TaJyIXN87wOobwcsGl7Q3o5VfjjUcAu9Z+W1cel0S/wACpbeo/Rfaffb8EK/f8b+s4eiZVj1WUtdzv49iJ1zcSdTWSzLDnRJxMK29DVVVGLSZuiGyKH4cDx6f3K870j2dc1Ket1jxZ8jBu4FmS4Y0EQk2uLvRFVezGsDWdhq4KS8MtJq34HPQOGVavBG5jv0L4S4t4IDNyDKQbTS1PwsopbDarNQa5Ltz4M//bwJVasJJEc/L6fUHGQ/SNrMwlrarauyTEYt9YWDADqVGkdoDkxK5ldo+iB04WciGM/kb5LQ6VOT5e1RMQ==;wX/41BLefGtYIaUr2J4AWw=="
+secured: "iwdy3n3EMuNSGOvlR4EXHldKe6C5y/2l8o3GXXu7oe9jczDO2xfFmmBKqsO9ihj9mrALh1U+wG1LPTI0zGiR8y0K8/UaHdMUNvdpwmTdcJdsmWoHAoVAfhdemVpLCg8DxXoPA3MabeA/AUQlANGhnPz6USBOVRZ0jRTT7E09ygxRt+uyL/WFm7WHGZ38djN5+0IT0UCPcx/GJID+FQpfiYn1a9UDWhspSWrPznNV6QjiKuzxsysrNNj/KUey09kGe+ptkK3JR0bnpQEviSF9xnNT2q/m+eTvRD21Y0P6J6VH7j8jsBGuz/OQExxjCT1YY2FrE5779OvhGAt+sTcZUgOHeH/eaFA21/vDgM+v2dA=;/aysIlxUnIhs5ev5BnJL+A=="
 ---
 

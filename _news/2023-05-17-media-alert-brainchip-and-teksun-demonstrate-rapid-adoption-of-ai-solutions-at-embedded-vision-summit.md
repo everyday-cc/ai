@@ -1,29 +1,34 @@
 ---
 category: news
 title: "Media Alert: BrainChip and Teksun Demonstrate Rapid Adoption of AI Solutions at Embedded Vision Summit"
-excerpt: "BrainChip Holdings Ltd ((ASX: BRN, OTCQX:BRCHF, OTC:BCHPY), the world's first commercial producer of ultra-low power, fully digital, event-based, neuromorphic AI IP, will demonstrate an accelerated pr"
-publishedDateTime: 2023-05-16T21:30:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/05/b32435298/media-alert-brainchip-and-teksun-demonstrate-rapid-adoption-of-ai-solutions-at-embedded-vision-sum"
-webUrl: "https://www.benzinga.com/pressreleases/23/05/b32435298/media-alert-brainchip-and-teksun-demonstrate-rapid-adoption-of-ai-solutions-at-embedded-vision-sum"
+excerpt: "Teksun Inc focuses on end-to-end IoT, AI/ML product design and development, enabling differentiated intelligent solutions like driver monitoring applications, object detection with occupancy detection and gesture gamification,"
+publishedDateTime: 2023-05-16T23:05:00Z
+originalUrl: "https://it.tmcnet.com/news/2023/05/16/9815691.htm"
+webUrl: "https://it.tmcnet.com/news/2023/05/16/9815691.htm"
 type: article
-quality: 38
-heat: 38
+quality: 3
+heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
-  - AI Hardware
+  - Computer Vision
   - AI
 
-images:
-  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-    width: 1043
-    height: 1043
-    isCached: true
+related:
+  - title: "Join Mouser Electronics at Embedded Vision Summit 2023"
+    excerpt: "Mouser Electronics, Inc., the New Product Introduction (NPI) leader™ empowering innovation, invites design engineers to visit its exhibit at Embedded"
+    publishedDateTime: 2023-05-16T02:23:00Z
+    webUrl: "https://www.businesswire.com/news/home/20230515005045/en/Join-Mouser-Electronics-at-Embedded-Vision-Summit-2023"
+    type: article
+    provider:
+      name: newsroom.businesswire.com
+      domain: businesswire.com
+    quality: 4
 
-secured: "BtQagomo73JB5wpT6LtMqZQi3XVgU0U4TG5w9ofFIRTTAzQt5ET9RWbqfNa8hsGda+cOlGpHEzfbSsVzOi8x6atMrRQERldOBlKLPKTo5BdvEA7b9FE+FWe55v8CTW8P8WD0VKWzqSUyoR2q7VuLZKGLqtRRq2V0hoIS9/2JMRciEXkxfB1IG1EVrCusns7NB9Ab3F+/2GB1ppb6jFv+rZMyv5oYUcwzI847/i1xCuq6yvUDyKJ3GOt047I5R50Z51drulK6N8FKcPxnUg8U5B2hoA7uyOVI74T8afqYj8cSspyUzoCvEA3ZsMyQw+QD2bk4GoXeQap2pJfvG2cb9vRLo00jxPXXUQDON7qz32M=;3ZAckgG8jNKwdhOHp/a8tQ=="
+secured: "u5182dxmVQDZBerD8lQ0EZytFvrj53MX4+yhZGB95biVwep1XPBmqvdoVJRwpHecs/XRMVZGp1AaTXD8Yz1kF2q/KcvYlvgi8Mi9O34/mDxM/S4h3K9iAffuHWMFDxgrkTorpvV/MyHhRgUQPQVn3UZVfpGRw7Y1frRo1eA1VDABd+Jy7I/nn2VtaDEMcuHDyb+1Yn5Cd55AohDDQT4/XOQbC02xlTc2295uKjkn1kV87MA7inAWB1RQ5X5coYZAH8+CFUn29I9Pj0d0xlfMpTCrwmlHd8+EueGCsQBU53GxqVcIKCe2y+COBKr7/8BvJ4UB5olqQme/oob/496V0TZBHhlaw3tiOedJlj1DlgU=;oXP/x3mwzOi77KIL+81/3g=="
 ---
 

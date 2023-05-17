@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Machine Learning Chip Market Research | 2023-2030"
+    excerpt: "Research Reports has published a new report titled as \" Machine Learning Chip Market \" by End User ( Media and Advertising, BFSI, IT and Telecom, Retail, Healthcare, Automotive and Transportation, Others ),"
+    publishedDateTime: 2023-05-13T23:46:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-chip-market-research-2023-2030-2023-05-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 86
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence (AI) in Fintech Market Upto 2030"
     excerpt: "The Global Artificial Intelligence (AI) in Fintech market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key ..."
     publishedDateTime: 2023-05-15T16:54:00Z

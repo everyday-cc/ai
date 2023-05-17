@@ -2,23 +2,21 @@
 category: news
 title: "SymphonyAI announces strategic collaboration with Microsoft Azure AI for generative AI"
 excerpt: "SymphonyAI announced today its first generative AI software application that integrates Microsoft Azure OpenAI Service. Sensa Copilot provides sophisticated AI assistance to financial crime ..."
-publishedDateTime: 2023-05-09T12:39:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/symphonyai-announces-strategic-collaboration-with-microsoft-azure-ai-for-generative-ai-1032305943"
-webUrl: "https://markets.businessinsider.com/news/stocks/symphonyai-announces-strategic-collaboration-with-microsoft-azure-ai-for-generative-ai-1032305943"
+publishedDateTime: 2023-05-09T10:38:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/23/05/n32282145/symphonyai-announces-strategic-collaboration-with-microsoft-azure-ai-for-generative-ai"
+webUrl: "https://www.benzinga.com/pressreleases/23/05/n32282145/symphonyai-announces-strategic-collaboration-with-microsoft-azure-ai-for-generative-ai"
+ampWebUrl: "https://www.benzinga.com/amp/content/32282145"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32282145"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Microsoft AI
   - AI
 
-secured: "0FNaC0iV+Cq0iBs80z+JTMA3ZJq4zrBEcZt+NgyyarRftbbXt0PTAfG+4Y9BazQMK+7YOAiRabvtC96fW5NiInUMrhaFgS3jEUqpVQp5s5jUVD0mWYqwFdLIJ5OtPq7YzGy/MCxF8ntPkXKSZp9WgB4uwiivyTe6ga1ivPcggvVqiohM5F0oAjXZZ+rXKt/585NAtBHYyVZssPBIwMyOdPw8nJA1p6TabsTNhZuw1BIkroXxP9cvsCdybpWDuK52d3F3ZE5TUS3+A58F6KTpCiZMnWKeN7gXiUrd7IeXi066K0GbP+gHdL+GscACMv8nW1qE7BIzS4Db/8f+XXM0/BFe4l95sxiMQEQS48qzdKw=;1PyL/3VXhE1xYnNMWDt7wQ=="
+secured: "fUHxfuEKr2MH8JkydkTCODFoFd/ffKXRWJpWRa6wl7D9oG72xtjcEsdmGMaRVcenJQmt0OlgQb8oz5iVs2osWPulYbbb8LwHLJCFFvCNwMwFAVOcQu0guDpbZ78GPJn8FvyKys7Se3J6jYYE0eVxJnSoWHkkNRrLjxpd+9fkIgVhtfKZI7Hxe+pU8ECaKavgagYtY73A4vHk0qb49hc9rkTjQHcx1m1w6MDvhVwBGmk3uyGvnaEUazYO9KCU1tTGY/FTLOz/ytRUHeL1w0VL4dWL7+QvepIlhw3ahLq4gKvXdmXefzVnjWD4sL8QFYqxl6WXGIQeq4U+88LpdeiLTJrQHBeDwM1RlIVrrRwYZu8=;qtYg9eDaoAR4dcUEy7udyQ=="
 ---
 

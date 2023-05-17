@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/timbajarin/2023/05/16/cheat-sheets-for-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/timbajarin/2023/05/16/cheat-sheets-for-ai-information-overload/amp/"
 type: article
 quality: 87
-heat: 157
+heat: 147
 published: true
 
 provider:
@@ -101,15 +101,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 35
-  - title: "OpenAI Founder Calls for the Global Regulation of Artificial Intelligence"
-    excerpt: "As senators raise concerns about the risks of ChatGPT, Sam Altman says his worst fear is his industry causing \"significant harm to the world.\""
-    publishedDateTime: 2023-05-16T18:59:00Z
-    webUrl: "https://www.inc.com/christine-lagorio-chafkin/openai-founder-calls-for-global-regulation-of-artificial-intelligence.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 33
   - title: "WHO calls for caution in using artificial intelligence for health"
     excerpt: "The World Health Organisation has called for caution in using artificial intelligence-generated large language model tools to protect and promote human well-being, human safety, autonomy, and preserve public health."
     publishedDateTime: 2023-05-16T08:28:00Z

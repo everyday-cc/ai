@@ -80,6 +80,20 @@ related:
         width: 1366
         height: 768
         isCached: true
+  - title: "Visual Layer raises $7M to clean up image datasets for AI training"
+    excerpt: "Data quality startup Visual Layer Inc. announced today it has closed on a $7 million seed funding round led by Madrona Venture Group and Insight Partners and will use the money to build out its managed service for curating large-scale image sets used to train computer vision models."
+    publishedDateTime: 2023-05-16T23:59:00Z
+    webUrl: "https://siliconangle.com/2023/05/16/visual-layer-raises-7m-clean-image-datasets-ai-training/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/05/Visual-Layer-Graphic.png"
+        width: 1000
+        height: 500
+        isCached: true
   - title: "Andreessen Horowitz and General Catalyst lead $50 million seed round in Hippocratic AI to deliver large language models to healthcare providers"
     excerpt: "The pre-product artificial intelligence startup plans to focus on non-diagnostic, patient-facing use cases, its CEO told Insider."
     publishedDateTime: 2023-05-16T13:00:00Z
@@ -90,6 +104,6 @@ related:
       domain: businessinsider.com
     quality: 28
 
-secured: "/4u6fL/SWTcrFkSQs60t9+sW+T3jYhRyQHodkFOVwWg4qwGdGTt3L2Y8QOJpkjLgREMgtZ2kw61eI1rjHPWklyEKQHMGKVekQnzD2Tuln94YXfsBTcwMtP+b4KmuhFhKLCuCuH3mtcsivb0PuG8ZjuTwBS6jn+CIczud2DE5wwkecr07Sza3QOqe9m212tUOvung6VRTx0CG3AoepLxReRYqPRPgw6pUF8EOluu1dUU9fFf+1QulP5aQXz3aDxVylZd5dusS9MoDontmogGCTAOP9jvKYD5uf01UWO8ILR+x3Z0ghiX9SABf2aApDax1ZRXp1iZ2L0qn37IRjOjIySN7giv4ox8Oky7KFiEziDg=;91ncO5RjhwSL6AwIB1+CwA=="
+secured: "0AI1uk4BWvk1FyWTYBcFl68wgHV4DmBvnKjNrrgPqUDqbSbIRUWf+/+MsuXJr33OcpMU/LqLqbwo4HnRXj64tZjdD/XoJXpX9rd6TV5wUZp6w7w5/SdJNRa+s5OwIUOCtEkCuow/Clh5HnD1GDHClPg+kEdbc0y863Ey+hYDF/aZaMNdPHcaW0Mx/do1IiP9Z40g/4HqZ0Nd2cwUEV+n+4TnJPBwZvlAzuKIXQVbKU1YxRPWYBKDTAWO64x6Y8AcPFL4kkGjTLr/GxIAELMXDHCnC5wlBr8XWoLFOma6hD518WEgNAFeJZ4znoB6PrnqcASeuBWukINHNPVw1BYXt8e1FM4CDTM3yIHT91Bhzm2Lmezb9BJqRyaZo5VKRZP7mNGr64D7g5i0RdZktvQ/Evxv6AUyIdZc2zqAzyHZr4jd01wFCUCfXVbyFUmzLiMZJjn3sqPYEHdXPLRQch+o3FLN3dLUnZI+1vEmy8Fc4KaZh+gCSw0So/afxKMz+Dvl/XM80qXW5mMM+2fjBBgovA==;Et9Vr8/ifwSLbro/0JlX0A=="
 ---
 

@@ -60,20 +60,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Exclusive: Google’s Sundar Pichai talks Search, AI, and dancing with Microsoft"
-    excerpt: "Sundar Pichai is the CEO of Google and Alphabet. We spoke the day after Google I/O, the company’s big developer conference, where Sundar introduced new generative AI features in virtually all of the company’s products."
-    publishedDateTime: 2023-05-12T09:00:00Z
-    webUrl: "https://www.theverge.com/2023/5/12/23720731/google-io-2023-exclusive-sundar-pichai-search-generative-experience-ai-microsoft-bing-chatgpt"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 80
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/3VCetxdhkZhF8Ji6_iRD6u78BeM=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24652338/236655_Decoder_Sundar_Pichai_WJoel.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Triumph Tech CEO: AWS Will Win ‘AI War’ Vs. Google, Microsoft"
     excerpt: "Generative AI market of Amazon, Google and Microsoft’s OpenAI ChatGPT will be won by AWS due to the cloud company’s artificial intelligence customization and scalability, says Triumph Technology Solutions CEO."
     publishedDateTime: 2023-05-12T15:29:00Z
@@ -103,6 +89,6 @@ related:
         height: 628
         isCached: true
 
-secured: "AaNoleylhCZsbRhH/TeI4wX9ZxXU36RmKlNDRITJHBtIUF0804+pzZ6POqVMy4K+pT1ZwGILdDDmLx9kNHcKJq0APHrJIIQdIMnnYPbXS5ciYNB9OQ7vj7qOMaKUhYGX2nSY4aEzQjIC9W+ldzJB3FwCOWn6J+o8Zj1T4LHjtGzQZ41HfgztFFVx53m4aOt880NAETwFPMSw5nWqIvjd/KXvvfSSt3xQawrp4PjDDM5AfaNp9NUcTNGOBR3bFHFPKH04cgMkzgYtCtlwpXUq5/CA6xmwgtaSW2BlIGLRWaqb5Yfe9YogqM/ybYC79cx/YpPpgAwj41htoX8KxwYLU3qHDIp0npl1so5J95sEHsc=;ru6+/P4r3/4d19ygQEAWIw=="
+secured: "qaktnuxERq02E36Tpah89/eafa/4XyVAhc+YGHf6UKges93YwTWE1obRrEHPqyWYiEIOV7qufgqZC/1bhYHAXEhloxTjtSjDvhAcYl03Pag183rlznRV/nbgRLOMb1iMRFBciT0ru6Qi3RXrAYR7iR0aAG2w+5nG9QIxs1Xdme3BHKzs/ITccJNscPRl+JEF4mYd+Vg0eJJ3aAXvqljdeVip+UGG+w+f4UagcorjJxzpBLuEWw3hnnNsHNhB/GaER9dugZZHnRx5TUPdyQB/rluBKqD3QB/ac5pkRmf3sSDsFhwSyS6BcB6oJoEUpBMO/11mptN0WTmXAdjZCuQ4S/SDM04EJnQf0Ut4ZiOIpWilhf+buiPeq9BIyvBI7+99RXdV1UElThWMBAdcqLjJnr6FlybBJEFhO7UX6UlYfCret/X61RIjjQIdDdFmSQB32JO1krHZtNOMF8eGHL6DMLGQAS4ukg0NyfrvEUu0wt+FkWg6ta1VhweOyzHs6Mv31j/1LtAwr4R7EjLEtZJ0lA==;5Ns0cR0ZmP001sN80lsVsQ=="
 ---
 

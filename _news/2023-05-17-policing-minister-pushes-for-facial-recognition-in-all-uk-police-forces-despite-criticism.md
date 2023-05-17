@@ -44,12 +44,17 @@ related:
   - title: "UK policing minister pushes for greater use of facial recognition"
     excerpt: "Chris Philp expressed desire to expand use of controversial technology in closed door meetings, according to report"
     publishedDateTime: 2023-05-15T23:01:00Z
-    webUrl: "https://www.ft.com/content/b8477e16-349d-442d-8e69-59b328ba9189"
+    webUrl: "https://www.ft.com/content/b8477e16-349d-442d-8e69-59b328ba9189?shareType=nongift"
     type: article
     provider:
       name: The Financial Times
       domain: ft.com
-    quality: 19
+    quality: 39
+    images:
+      - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/eu-politics.jpg"
+        width: 619
+        height: 377
+        isCached: true
   - title: "Facial Recognition Tech: Are Total Bans the Best Move? (Podcast)"
     excerpt: "New York City is considering a total ban on facial recognition technology. The technology, which uses surveillance cameras and face scans to identify people in public, has been garnering headlines for years,"
     publishedDateTime: 2023-05-16T18:53:00Z
@@ -60,6 +65,6 @@ related:
       domain: bloomberglaw.com
     quality: 19
 
-secured: "gOYyl2viTUNS5rVSY/GzSIe6kW/oSREYLTJVBAewSJKcE4R+OS5Bn6qg8sUQxS4rpZWcY6nQWd4NIh+AIXfMMu0e531KUJhR0sSQAE81G0ZjSur91cpj2acmW6CCad/v1sZKSjR9jypyeJTl2FF2xOOEIjojtlxUHnQp2hLuem5l96fj4jU9d1x2uu0hmYeQwM5pwbqj3yJ5/Q0l6SqD/yTqMJj6SNo5Etd7LpfI4xrFwK7xpyKjPlIs3184NRBq6z4MVZKtm5D+gt5t7TrFLX32YjEt6kNgRS/VvmW6Sd179FLGTRCe0gq4TgxYXWgzsbwPB21oC98hOTEymRSrX0kDW6oqpc0VcDjNBisR0y0=;R4FUp9DVUx1RUdkwVfFOBg=="
+secured: "QjpdY3BsEjhsdcQ38rsxiTMpi3rKvZEtVwVQqTdNM4EaAJgZGt//p62GN0L0Ir+jr5YiAb/bQuyCATQr3h1gVBXVd+RqgX5QupLPbGwzfcQ+3uSxvFcIFlZxi0cwk21wSPA3JwKK785g+cG81J9zz77KM4acnJhu3583iwJoqLPNYDB3l31yXOuEIff+ba58B7iSkC3uNyrsr4RM6ejXJOyhB0hzhCvAIJ2vAgXihtpaKOLDbKBIX7bs392w6Q7H7CQDNMrL/TuTOmGb/sFaVGjBJsG4bdTNkiiDCixIqk/q/vZRjO7mikmY6CDCDMJkl4ssc3XLclK+jFYF5cfHRKCHNXtY2LCbHJJ6IHgDgCEiF7LcNgqp7C5WqGdnfU3Cv854ZFNXRn8aWhQH8LS+omybzJJXfGdNy66owOYM0c8aCIdWJFRwhgCXJzz7eLJtC1d4zRuYM3JdOASyVulAN2c+gRHhJ+YlZCH3tihl/bfmZlzyjVnw/hf1NcxvAXmJT44ujtqhowqt8dTbUAez8g==;XKevw0cf5Z1vYqdFjfnOsQ=="
 ---
 

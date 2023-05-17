@@ -58,20 +58,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Exclusive: Google’s Sundar Pichai talks Search, AI, and dancing with Microsoft"
-    excerpt: "Sundar Pichai is the CEO of Google and Alphabet. We spoke the day after Google I/O, the company’s big developer conference, where Sundar introduced new generative AI features in virtually all of the company’s products."
-    publishedDateTime: 2023-05-12T09:00:00Z
-    webUrl: "https://www.theverge.com/2023/5/12/23720731/google-io-2023-exclusive-sundar-pichai-search-generative-experience-ai-microsoft-bing-chatgpt"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 80
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/3VCetxdhkZhF8Ji6_iRD6u78BeM=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24652338/236655_Decoder_Sundar_Pichai_WJoel.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Microsoft’s Bing AI adds contextual chat, widget on Android and iOS"
     excerpt: "Microsoft has just delivered a bunch of updates to Bing AI, including contextual chat and a new widget on Android and iOS."
     publishedDateTime: 2023-05-16T16:19:00Z

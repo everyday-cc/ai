@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo174560325527"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo174560325527"
 type: article
 quality: 104
-heat: 154
+heat: 144
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_05/1684280605884_now_hallie_microsoft_interview_230516_1920x1080-svh6io.jpg"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "Exclusive: Google’s Sundar Pichai talks Search, AI, and dancing with Microsoft"
-    excerpt: "Sundar Pichai is the CEO of Google and Alphabet. We spoke the day after Google I/O, the company’s big developer conference, where Sundar introduced new generative AI features in virtually all of the company’s products."
-    publishedDateTime: 2023-05-12T09:00:00Z
-    webUrl: "https://www.theverge.com/2023/5/12/23720731/google-io-2023-exclusive-sundar-pichai-search-generative-experience-ai-microsoft-bing-chatgpt"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 80
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/3VCetxdhkZhF8Ji6_iRD6u78BeM=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24652338/236655_Decoder_Sundar_Pichai_WJoel.jpg"
-        width: 1200
-        height: 628
         isCached: true
   - title: "Triumph Tech CEO: AWS Will Win ‘AI War’ Vs. Google, Microsoft"
     excerpt: "Generative AI market of Amazon, Google and Microsoft’s OpenAI ChatGPT will be won by AWS due to the cloud company’s artificial intelligence customization and scalability, says Triumph Technology Solutions CEO."
@@ -100,6 +86,6 @@ related:
         height: 630
         isCached: true
 
-secured: "kFQrB7tWpYpWTn7BzMppvffONZf3fwPuXKRy2jMSilh0i7b3bDCI5V74WV8wU5SXgR9mekotJyYO6TOlXAzXOdlAUmidAC94rjOL/ki0Tjg5Winf91kj8vnZldOplgaQaRoEIXa9oX9AURiYeOmY+jxAaBU2JeiLi04vf2m8fC1xs3ry2mJchxIkIv/gEACOH1a0tMbwggMHrhCtN38rUvdLEbyT9AeUi66Hm81v1jVmDT8PEqOJa9N1iVNSEFAQkrYH9ZyXOgl0nV5hFWszOJeYPpgC1ufBBHCDAaf95g2ARksXf+mm4DSONLPPomXUJ5iCOH7v2hO9QDh+RKP5WcQASB1gOGG83K9/tFOGY3Q=;1FWOKys+NoeGnPTo0dMUOw=="
+secured: "GPYaOr5D49bP72deBVvfWrNJtKvZqYX0gdZeaw4XPwQaUyMOXFRmg1CDjbH4I6YjNw9wf84cuI+Xq35A8SAB7vf7Pm1+ezUVKnKvGMCFiFvho+a71fHa+lLF+oHJoe1Jy7f6Wm1LIrmwdG5U5yCYVEu2UMaCVYF6X6GZzUCDa8OOs6MnGTssU9flbw7xhO8oP7xBRlOP1TCCvb9pUbVWF51Oc5J4szbj3tL1wMWprd/MmRV1KAJvJf/Z9ev9GvOSMS8dIGc3vsvGPyAythSrlsZzKtIolml7g0/UiFwxvXtbTGBYwOhWxDvY9pdGtEKZ9MlFtYvzu4f1MiDPQEtTUxDHeKSi7K8KG0qfGL1VhPLFO3vsMoaYSPn7LYSsrcojFibYK7NfI0XqHOp3HJUY+2rQQL2KJ2RIz2oi1Uh8qOO/nAo3AmHQvQ9WSFeR0J0UM2SNRdgW5/Kw/+BzcYVtNBbEwQY+hscjZMr54ceNxlj0lwSgG1H98Nq1pUq2r9ujvVURt4veJ5zoZ5iXXTa1RA==;Uh6TN09z8AC/UwdrMIUl6A=="
 ---
 

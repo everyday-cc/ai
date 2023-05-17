@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-for-accounting-market-next-big-thing-with-major-giants-microsoft-aws-xero-intuit-2023-05-15"
 type: article
 quality: 83
-heat: 103
+heat: 93
 published: true
 
 provider:
@@ -39,20 +39,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Face Recognition API Market ICT Industry 2023 Global Insights and Business Scenario Microsoft Computer Vision API, Lambda Labs API, Inferdo"
-    excerpt: "A full Sample Report of Face Recognition API Market is Available Free –  This research report provides a lucrative growth opportunity for the market players to generate better revenue streams by expanding their market presence in the emerging economies."
-    publishedDateTime: 2023-05-12T08:45:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-api-market-ict-industry-2023-global-insights-and-business-scenario-microsoft-computer-vision-api-lambda-labs-api-inferdo-2023-05-12"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 67
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

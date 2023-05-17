@@ -33,6 +33,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Machine learning reveals sex-specific Alzheimer's risk genes"
+    excerpt: "Research explores sex-specific gene associations in Alzheimer's disease using a machine-learning approach. It reveals immune response pathways in both sexes and stress-response pathways in males, highlighting potential biomarkers and therapeutic targets for personalized treatments."
+    publishedDateTime: 2023-05-17T01:15:00Z
+    webUrl: "https://www.news-medical.net/news/20230516/Machine-learning-reveals-sex-specific-Alzheimers-risk-genes.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 39
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_748322_16842465029685889.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
   - title: "AI-powered tech to aid Cooper team in Alzheimer’s detection"
     excerpt: "Early detection is a key step in timely and accurate diagnosis so that patients can get emerging treatments and early-stage interventions,” said DigiCARE Realized CEO Brittany Cassin."
     publishedDateTime: 2023-05-15T16:43:00Z

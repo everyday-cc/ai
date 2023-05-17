@@ -26,17 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI startup cofounder inundated with offers after Twitter pitch, rejects Unicorn valuation"
-    excerpt: "Rewind cofounder Dan Siroker told prospective investors that venture capital firm NEA had committed $12 million and would lead the round at a $350 million valuation."
-    publishedDateTime: 2023-05-12T07:57:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/funding/ai-startup-cofounder-inundated-with-offers-after-twitter-pitch-rejects-unicorn-valuation/articleshow/100181005.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/funding/ai-startup-cofounder-inundated-with-offers-after-twitter-pitch-rejects-unicorn-valuation/amp_articleshow/100181005.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/funding/ai-startup-cofounder-inundated-with-offers-after-twitter-pitch-rejects-unicorn-valuation/amp_articleshow/100181005.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 28
   - title: "AI-based eye disease detection startup raises $18 million from US investors"
     excerpt: "Eyetelligence uses AI technology and retinal imaging to screen for eye and other diseases, and will launch in the US as Optain."
     publishedDateTime: 2023-05-15T02:55:00Z

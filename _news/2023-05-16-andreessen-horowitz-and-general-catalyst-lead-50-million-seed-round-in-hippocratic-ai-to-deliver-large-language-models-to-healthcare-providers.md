@@ -88,6 +88,20 @@ related:
         width: 1366
         height: 768
         isCached: true
+  - title: "Visual Layer raises $7M to clean up image datasets for AI training"
+    excerpt: "Data quality startup Visual Layer Inc. announced today it has closed on a $7 million seed funding round led by Madrona Venture Group and Insight Partners and will use the money to build out its managed service for curating large-scale image sets used to train computer vision models."
+    publishedDateTime: 2023-05-16T23:59:00Z
+    webUrl: "https://siliconangle.com/2023/05/16/visual-layer-raises-7m-clean-image-datasets-ai-training/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/05/Visual-Layer-Graphic.png"
+        width: 1000
+        height: 500
+        isCached: true
 
 secured: "Z/Ovv3WAdCeOHW9iV4FV3A8IdVRcYiyNHOllbmBiszMPqBoKCrDzXxgmts8DYuHgsTTTmR82wP/gjDQzBwS5NdaGqS4SD+uJwxXZIpXIof1lP08UXvxjBAVLY64xr97/vs3DPJ3aqoqVLethuUdqOZgyp0+Lc38HZ+VcggqZpZhloT2mScJaEc80FIL052c2SNizEgsYBr4cYYv5JGJ0RG1kLcGHeDMw/L5t1waD7v5tGRAbPoxJLVPDPUOtp4Mo/X2qNLmXysI3Jdftv9LpTsxDY4HxJ0li52xkfDtePcG1Hs2jCF7+G3Kbu/K34ZOmFVAih719zh4ml/+v166Z+ULs9xNgkJ3rOMcwZ0W3kIKiMKI0QSI9iSgrAQyxa+0nXrpRvfwU9sru4CMSiN0Sci8ANlPfM0HpI4EaLfZWQ5CfuZTQOwJ4LlbGoABrptMgIGcq1tEEjAIs3uxW9j2irEIAo2W1+Y1Vkf8BakGdr1DdGbzRxf/6IYnfX6wMZevARXLa/1ua8cCFlP55y8LAyA==;llIMH+RQQQCiBzr4w86cMA=="
 ---

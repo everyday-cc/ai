@@ -3,25 +3,27 @@ category: news
 title: "TSA testing facial recognition technology, prompting privacy concerns"
 excerpt: "A new project by the Transportation Security Administration is using facial recognition software to verify identities."
 publishedDateTime: 2023-05-16T06:19:00Z
-originalUrl: "https://www.fox13now.com/tsa-testing-facial-recognition-technology-prompting-privacy-concerns"
-webUrl: "https://www.fox13now.com/tsa-testing-facial-recognition-technology-prompting-privacy-concerns"
+originalUrl: "https://www.tmj4.com/tsa-testing-facial-recognition-technology-prompting-privacy-concerns"
+webUrl: "https://www.tmj4.com/tsa-testing-facial-recognition-technology-prompting-privacy-concerns"
+ampWebUrl: "https://www.tmj4.com/tsa-testing-facial-recognition-technology-prompting-privacy-concerns?_amp=true"
+cdnAmpWebUrl: "https://www-tmj4-com.cdn.ampproject.org/c/s/www.tmj4.com/tsa-testing-facial-recognition-technology-prompting-privacy-concerns?_amp=true"
 type: article
-quality: 39
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: fox13now
-  domain: fox13now.com
+  name: TMJ4
+  domain: tmj4.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://ewscripps.brightspotcdn.com/dims4/default/34a37e7/2147483647/strip/true/crop/960x504+0+108/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcdn.scrippsnews.com%2Fimages%2Fvideos%2Fz%2F1684195627_h09L7Q.jpg"
-    width: 1200
-    height: 630
+  - url: "https://cdn.scrippsnews.com/images/videos/m/1684195627_h09L7Q.jpg"
+    width: 640
+    height: 360
     isCached: true
 
 related:
@@ -152,20 +154,20 @@ related:
         height: 1707
         isCached: true
   - title: "TSA is testing facial recognition at more airports, raising privacy concerns"
-    excerpt: "The agency tasked with securing America's airports is testing the use of facial recognition technology at a number of airports across the country."
-    publishedDateTime: 2023-05-16T00:50:00Z
-    webUrl: "https://www.cbsnews.com/detroit/news/are-you-who-you-say-you-are-tsa-tests-facial-recognition-technology-to-boost-airport-security-3/"
-    ampWebUrl: "https://www.cbsnews.com/amp/detroit/news/are-you-who-you-say-you-are-tsa-tests-facial-recognition-technology-to-boost-airport-security-3/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/detroit/news/are-you-who-you-say-you-are-tsa-tests-facial-recognition-technology-to-boost-airport-security-3/"
+    excerpt: "The agency tasked with securing America's airports is testing the use of facial recognition technology at a number of airports across the country"
+    publishedDateTime: 2023-05-15T20:16:00Z
+    webUrl: "https://abcnews.go.com/US/wireStory/tsa-tests-facial-recognition-technology-boost-airport-security-99322460"
+    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/tsa-tests-facial-recognition-technology-boost-airport-security-99322460"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/tsa-tests-facial-recognition-technology-boost-airport-security-99322460"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 71
     images:
-      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/05/16/dd4531ea-7d1e-49f6-b90d-b78e7f190eca/thumbnail/1200x630/7091c6ef48ade2bd9217b5f28d1ec03d/ap23116691095530.jpg"
-        width: 1200
-        height: 630
+      - url: "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "TSA is testing facial recognition technology at more airports, raising privacy concerns"
     excerpt: "The Transportation Safety Administration says the technology is an effort to more accurately identify the millions of passengers traveling through its airports every day and that passengers can opt out."
@@ -342,6 +344,6 @@ related:
       domain: thedailyrecord.com
     quality: 28
 
-secured: "t7LRz4lhracLzrfDTPjbs2mzMzzCJGsh+NLgUZistqLCpZ5s7H966muCFp8S0GLm1IfKDeUca8NLCZ5gFB27AQxUN4JyBg9RVCJ1bGHXMYhF742DvogBDwYM3zwbQqwod6M+Fvp7kOJmqZV/y/s9UzjGdctlmZjNvuHv0oa+XaaTV/qrVLL4F/OsTbeN5UB/zY6YeLGXvgQjrvxLgamQPtqLY+tDbGzgbmhe8l/2lO93l0JKN4lIlmd8TAvnn9EMKy6OZuwdIJEWX23xwI41BZujqsldjfsGu8RL6cFAHcB6+i8TJN0XtkuKses7xHBd/FduOTPPd4jRps+I/1uO8LHMuXvuzrAMWTh1UIzzVpc=;5yL/+TIOf/wpVWPoiWwfcg=="
+secured: "RL1peS9y7kdLYY2E46btxNC1tWgv0yBVl49PkAEDGI8gzgRmjvToUswuy0cLTcELIt1ie6BOzKBY+2wmvT4VunXFTeOXPr6e75Bk88u6JsssrXIdikIYlhr4ZDZ1CquJBumJGaByyf+nlxkl0vKDeHRzus606a4JYP4cj3k8j9VVkZ5OTyPaNGM8Xx0uwsPgsLQFIvx4KBSvT2pqVhaKtBzpWpYmkq7jSL6vytLNW6q/9tYMX4ki8ihWGqB9qKF448ASY8oXAuwOpLyUynmDJg5OJAIu+KLMG3OmxHFTiy/Fn3NUwFfgfcxdVFQe2Dt2SXOrqGRydmKyaH0W99yyaJ8uBiYY/kll89KBKUDy4+U=;FKsQHOlvzS+bb9JycCIngg=="
 ---
 

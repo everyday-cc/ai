@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Face Recognition API Market ICT Industry 2023 Global Insights and Business Scenario Microsoft Computer Vision API, Lambda Labs API, Inferdo"
-    excerpt: "A full Sample Report of Face Recognition API Market is Available Free –  This research report provides a lucrative growth opportunity for the market players to generate better revenue streams by expanding their market presence in the emerging economies."
-    publishedDateTime: 2023-05-12T08:45:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-api-market-ict-industry-2023-global-insights-and-business-scenario-microsoft-computer-vision-api-lambda-labs-api-inferdo-2023-05-12"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 67
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "2LCTWshPMjqflTbWFhw17p11qfto5BXbIugfRil3Jzlp2rjgr9Wtsx89/qvxtuvKRyAVJEEHBAC0nVG7liYMnolWWs4atQhy04jLKY2TUlNgEFKe15m8BByi6oJDmkuOvoki+HjCnzGYoGLsR0klBxCpFHS0HuqMDPzHZk38DWlM06LF8xPl/jYzCWupNphaiqh1JUukgz7+ajp9HAGic3xZ4bEk0Tyb35Qwvn34Oy520T2tCjpkVjKaR9ssBAh8Ybh+5VcGPEID70Ny9SQLWKLR4ybR/G811IGacptt2tgP88yVv6oYY1vBpvY2fCdu0y4BNe4coqkvO0xbs/FeXy6uOEE5f9DiS3A+UBtDF/0=;MCFxWyryMDcbn2jDr/iRwg=="
 ---

@@ -35,6 +35,20 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "UK policing minister pushes for greater use of facial recognition"
+    excerpt: "Chris Philp expressed desire to expand use of controversial technology in closed door meetings, according to report"
+    publishedDateTime: 2023-05-15T23:01:00Z
+    webUrl: "https://www.ft.com/content/b8477e16-349d-442d-8e69-59b328ba9189?shareType=nongift"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 39
+    images:
+      - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/eu-politics.jpg"
+        width: 619
+        height: 377
+        isCached: true
   - title: "Policing Minister pushes for facial recognition in all UK police forces despite criticism"
     excerpt: "The Home Office briefed the biometrics and surveillance commissioner on the minsters desire for law enforcement to expand their use of these systems."
     publishedDateTime: 2023-05-16T22:27:00Z
@@ -49,15 +63,6 @@ related:
         width: 2048
         height: 1333
         isCached: true
-  - title: "UK policing minister pushes for greater use of facial recognition"
-    excerpt: "Chris Philp expressed desire to expand use of controversial technology in closed door meetings, according to report"
-    publishedDateTime: 2023-05-15T23:01:00Z
-    webUrl: "https://www.ft.com/content/b8477e16-349d-442d-8e69-59b328ba9189"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 19
 
 secured: "LUjZHML0xDGoTjxTtnBKrTDiuK7G/KI5gsG/G3dMLnM253WVJ4wcDGCXYY7zY1R9MVU+FmB3p7AxVtc+TLlivjXZMz9XdjwhDbaXY7I3e9LXcHLv8iaVg/oqFM7Ga012p1guuFzWJvqEVN2pLXlcAUYDldE1USk3pKbMzQ/qKIw26xXZ66VPuknN8GqTXP13MT+teaPlV2yQL6RTzB+WEu0Nyb3G9KxUHWTbVnjr3dYbBOungudJ/vVDqyky95VvvHSOrB6yxZ5zgAWzQK2F/v3KVM+/VuH/7fVIRB2h89wMwvZA1t2Uw/FGKsQcEwYfjyBaevpH86tMvJilZSBhgS8ZNmHbHFxFEoGA/j7jfM+R2QCa8uIGesuN1H+Kg8Ie/NjlPQxMqzciZtmQumU0oVuiv/TjKPc3au/Sz9J+dK5XAvF2JEXd6XMfpqQZa3HiwOSZ0XlTvKg623GaycUvphrFcrMlWpuhLa4SHXT3VYE8ukbe+HukdIVKW2yVyKafJlniMT0aGTp22fQSe0auFQ==;2ZROhIROsLFD12/8eQFoXQ=="
 ---
