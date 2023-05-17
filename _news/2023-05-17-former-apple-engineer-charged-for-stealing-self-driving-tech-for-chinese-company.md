@@ -125,7 +125,16 @@ related:
       name: SiliconANGLE
       domain: siliconangle.com
     quality: 0
+  - title: "U.S. charges ex-Apple engineer with stealing self-driving car secrets for China"
+    excerpt: "The U.S. Justice Department has charged a former Apple engineer with stealing the firm's technology on autonomous systems, including self-driving cars."
+    publishedDateTime: 2023-05-16T18:00:00Z
+    webUrl: "https://www.autoblog.com/2023/05/16/u-s-charges-ex-apple-engineer-with-stealing-self-driving-car-secrets-for-china/"
+    type: article
+    provider:
+      name: Autoblog
+      domain: autoblog.com
+    quality: 0
 
-secured: "4W0aXMQh086/HtZodiNY3cen8MZI+6u4HLfmgmknpgXV66VbPVwBriiREqvQdTsyRbZkybxapPG52/XWkII7dLOGhYRGQw433tdPJR6d3GiZBopv0qBBVqY0cd9C43e2sV4OmyMaUch/Swtm5pwSK9jN9j6+/umSlrTA+Hb8p2cpfdcTVwQaU6vzTwSVFFh74CzMF6j89JvJjgL7GsMqU+cpAtbhKEGZlvF04KnXkZeCQlIm9WDAng2T3+yEXt/sR4CyZDqhebDDsFnVC+VTxdJ76Q6eJBGHtqgeglITiHnnm32wcpyof5oSofJgdaMYvIE1vtdfC1v7P7GzDdpsSzdBmrGtwjkz3c38qtD/YfQ=;cn2bYBp6bu6eNtT5SaY4rA=="
+secured: "wcByVPQDdcuhWf0oGA50SyrPj2IvJs9FNYVQRpkX361w+VAPojhw6Q8zKjXpH4lfbL8c/lwCcvIKUt9Bx9K7ocrAy9+8FSWXJzKDpyG1dO4FKZgoj2JsXrsso9+Zod+kWujIrMWq+LAA/Oi75QTpgaWYhiD5Wt/cwBtz8SDDdsDc+1EKP87cV3AQ/ul/Q6ung+DpH5pT1ZpOvaBP0EVPbewOBFiT1yHXZYx40HvnZzTGQkbHrPmmrsgCBjny6djRTPDT9b6KmleIm9t3yIAJIIhdENeEvd9AcZsxPGk0p0MSDnIuhtCuGJsnwj4pILWpTLcfdx8qupnnKRX6ZFEeJoC98b2dTy2po/N23PrbrOsABsqqi3bhMLNb4SfSgcI0cUCpkZAylPuIiEHQswKuPMeU+jboVQdQnCduW3GQVRSYKJYKoCol45mN9DWaDnN1nWm7RZPYSC7SgEMWatjjc7ur+xQxeqprPfw7bzbE9VZSCMPn+Q31nyNQ/lO9NEfQtfpfAdaJateMw5oufuhwDA==;wCQJlYNmH9TGlIEVLi5jhg=="
 ---
 

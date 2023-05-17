@@ -105,7 +105,7 @@
       "originalUrl": "https://cointelegraph.com/news/tesla-robot-army-takes-a-walk",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 102,
       "tags": null,
       "images": [
         {
@@ -149,7 +149,7 @@
       "originalUrl": "https://newatlas.com/computers/case-code-of-conduct-ai-healthcare/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 236,
+      "heat": 246,
       "tags": null,
       "images": [
         {
@@ -672,6 +672,40 @@
       ]
     },
     {
+      "path": "_news/2023-05-12-the-role-of-motion-control-in-medical-robotics.md",
+      "title": "The Role of Motion Control in Medical Robotics",
+      "excerpt": "Motion control is a critical component of almost all of today’s robotic applications, explains Aleksandar Nacev, PhD, chief technology officer for Promaxo. Nacev is an engineering professional with expertise in magnetic systems engineering. Promaxo’s ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.mddionline.com/webinars/role-motion-control-medical-robotics",
+      "originalUrl": "https://www.mddionline.com/webinars/role-motion-control-medical-robotics",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-11T17:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MD&M East",
+        "domain": "mddionline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-12-ai-powered-vc-firm-vela-emerges-from-stealth-with-25m-under-management.md",
       "title": "‘AI-powered’ VC firm Vela emerges from stealth with $25M under management",
       "excerpt": "Vela, an early-stage-focused VC firm that its founder describes as 'product-led,' has emerged from stealth with $25 million under management.",
@@ -1101,17 +1135,17 @@
     {
       "path": "_news/2023-05-10-chinese-scientists-reveal-shocking-brain-chip-that-allows-monkeys-to-control-a-robotic-arm-with-their-mind.md",
       "title": "Chinese scientists reveal shocking brain chip that allows monkeys to control a robotic arm with their mind",
-      "excerpt": "SCIENTISTS in China have made a breakthrough in ‘Frankenstein’ brain chip technology, with the aim of letting people control machines with their mind. For now though, the technology",
+      "excerpt": "SCIENTISTS in China have made a breakthrough in 'Frankenstein' brain chip technology, with the aim of letting people control machines ... it to move a robotic arm with its mind.",
       "sourceUrl": null,
-      "webUrl": "https://www.thesun.co.uk/tech/22310762/chinese-scientists-brain-chip-monkey-control-robotic-arm/",
-      "originalUrl": "https://www.thesun.co.uk/tech/22310762/chinese-scientists-brain-chip-monkey-control-robotic-arm/",
+      "webUrl": "https://www.thesun.ie/tech/10687685/chinese-scientists-brain-chip-monkey-control-robotic-arm/",
+      "originalUrl": "https://www.thesun.ie/tech/10687685/chinese-scientists-brain-chip-monkey-control-robotic-arm/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.thesun.co.uk/wp-content/uploads/2023/05/OP_LY_NANKAI-UNIVERSITY.jpg?strip=all&quality=100&w=1920&h=1080&crop=1",
+          "url": "https://www.thesun.ie/wp-content/uploads/sites/3/2023/05/OP_LY_NANKAI-UNIVERSITY.jpg?strip=all&quality=100&w=1920&h=1080&crop=1",
           "width": 1920,
           "height": 1080,
           "title": null,
@@ -1121,13 +1155,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.thesun.co.uk/tech/22310762/chinese-scientists-brain-chip-monkey-control-robotic-arm/amp/",
-      "cdnAmpWebUrl": "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/tech/22310762/chinese-scientists-brain-chip-monkey-control-robotic-arm/amp/",
-      "publishedDateTime": "2023-05-10T05:26:00-07:00",
+      "ampWebUrl": "https://www.thesun.ie/tech/10687685/chinese-scientists-brain-chip-monkey-control-robotic-arm/amp/",
+      "cdnAmpWebUrl": "https://www-thesun-ie.cdn.ampproject.org/c/s/www.thesun.ie/tech/10687685/chinese-scientists-brain-chip-monkey-control-robotic-arm/amp/",
+      "publishedDateTime": "2023-05-10T06:29:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Sun",
-        "domain": "thesun.co.uk",
+        "name": "Irish Sun",
+        "domain": "thesun.ie",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1368,49 +1402,6 @@
           "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/FourthAgeCover.jpg",
           "width": 1400,
           "height": 2113,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-09T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-10-why-dont-we-have-robot-surgeons-yet.md",
-      "title": "Why Don't We Have Robot Surgeons Yet?",
-      "excerpt": "Most surgical robots operate in one of two ways, or a combination of the two. Either they are remote-controlled by the surgeon, or they follow a predetermined plan set by a surgeon – not unlike how collaborative robots (cobots) in factories can be guided ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/automation-motion-control/why-dont-we-have-robot-surgeons-yet",
-      "originalUrl": "https://www.designnews.com/automation-motion-control/why-dont-we-have-robot-surgeons-yet",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/Robotic%20Surgery.jpg",
-          "width": 1806,
-          "height": 1023,
           "title": null,
           "attribution": null,
           "isCached": true

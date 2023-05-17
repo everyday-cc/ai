@@ -2,6 +2,144 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-05-05-how-driverless-trucks-got-drivers-licenses-in-kansas-commentary.md",
+      "title": "How driverless trucks got drivers’ licenses in Kansas | Commentary",
+      "excerpt": "If you blinked, you probably missed it. Driverless vehicles, like artificial intelligence, are both promising and scary at the same time. They have the potential both to improve our world and to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.kansas.com/opinion/guest-commentary/article274749491.html",
+      "originalUrl": "https://www.kansas.com/opinion/guest-commentary/article274749491.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.kansas.com/opinion/guest-commentary/article274749491.html",
+      "cdnAmpWebUrl": "https://amp-kansas-com.cdn.ampproject.org/c/s/amp.kansas.com/opinion/guest-commentary/article274749491.html",
+      "publishedDateTime": "2023-05-05T05:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wichita Eagle",
+        "domain": "kansas.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-05-self-driving-driverless-cars-market-2023-analysis-by-2029-tesla-bmw-daimler.md",
+      "title": "Self-Driving & Driverless Cars Market 2023 Analysis by 2029 – Tesla, BMW, Daimler",
+      "excerpt": "A new market research report added to source of Market Intelligence Data is an in-depth analysis of Self-Driving & Driverless Cars Market. This research reports provides insights on current and future industry trends,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/self-driving-driverless-cars-market-2023-analysis-by-2029-tesla-bmw-daimler-2023-05-05",
+      "originalUrl": "https://www.marketwatch.com/press-release/self-driving-driverless-cars-market-2023-analysis-by-2029-tesla-bmw-daimler-2023-05-05",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-04T22:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-05-top-10-artificial-intelligence-ai-cryptocurrencies.md",
+      "title": "Top 10 Artificial Intelligence (AI) Cryptocurrencies",
+      "excerpt": "Editorial Note: Forbes Advisor may earn a commission on sales made from partner links on this page, but that doesn't affect our editors' opinions or evaluations. It’s hard to imagine two ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/advisor/in/investing/cryptocurrency/top-10-artificial-intelligence-ai-cryptocurrencies/",
+      "originalUrl": "https://www.forbes.com/advisor/in/investing/cryptocurrency/top-10-artificial-intelligence-ai-cryptocurrencies/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/x/https://www.forbes.com/advisor/in/wp-content/uploads/2023/03/pexels-tara-winstead-8386440-1-scaled.jpg",
+          "width": 2560,
+          "height": 1440,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-04T10:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-05-insider-qa-aurora-ceo-chris-urmson-on-self-driving-trucks.md",
       "title": "Insider Q&A: Aurora CEO Chris Urmson on self-driving trucks",
       "excerpt": "Sometime next year, semis with no human in the cab will start carrying freight down Interstate 45 between Dallas and Houston. The trucks will run on an autonomous driving system called the Aurora Driver,",
@@ -457,59 +595,6 @@
       ]
     },
     {
-      "path": "_news/2023-04-30-artificial-intelligence-will-change-the-world-here-are-the-3-stocks-with-the-most-to-gain.md",
-      "title": "Artificial Intelligence Will Change the World. Here Are the 3 Stocks With the Most to Gain.",
-      "excerpt": "Nvidia's products are particularly adept at powering artificial intelligence applications. Upstart hopes its AI will upend an industry ripe for disruption. Bing opens up a virtually untapped ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/04/30/artificial-intelligence-will-change-the-world-here/",
-      "originalUrl": "https://www.fool.com/investing/2023/04/30/artificial-intelligence-will-change-the-world-here/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/729808/artificial-intelligence-ai-stock-invesment-msft-nvda.jpg",
-          "width": 8578,
-          "height": 4802,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-30T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
       "path": "_news/2023-04-29-the-rise-of-artificial-intelligence-explained.md",
       "title": "The rise of artificial intelligence, explained",
       "excerpt": "Artificial intelligence is suddenly everywhere — or at least, that’s what it seems like to us at Vox. Even in its current form and with its limitations, the tech is already shaping everything ...",
@@ -863,6 +948,58 @@
       ]
     },
     {
+      "path": "_news/2023-04-29-forget-ai-organoid-intelligence-may-soon-power-our-computers.md",
+      "title": "Forget AI; Organoid Intelligence May Soon Power Our Computers",
+      "excerpt": "While the world has been captivated by artificial intelligence, researchers at Johns Hopkins University have identified a new form of intelligence: organoid intelligence. A future where computers are powered by lab-grown brain cells may be closer than we could ever have imagined.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/williamhaseltine/2023/04/28/forget-ai-organoid-intelligence-may-soon-power-our-computers/",
+      "originalUrl": "https://www.forbes.com/sites/williamhaseltine/2023/04/28/forget-ai-organoid-intelligence-may-soon-power-our-computers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/644c371289d9c9fdb20d157b/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/williamhaseltine/2023/04/28/forget-ai-organoid-intelligence-may-soon-power-our-computers/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/williamhaseltine/2023/04/28/forget-ai-organoid-intelligence-may-soon-power-our-computers/amp/",
+      "publishedDateTime": "2023-04-28T14:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2023-04-29-carmakers-emphasize-practicality-in-new-goals-for-autonomous-driving.md",
       "title": "Carmakers Emphasize Practicality In New Goals For Autonomous Driving",
       "excerpt": "In Pittsburgh and in auto-industry development centers in Detroit, Tokyo, Frankfurt and Silicon Valley, automakers’ expectations for and demands on self-driving technology have gotten a lot more modest in one sense — and stronger in another.",
@@ -1166,126 +1303,6 @@
       "provider": {
         "name": "Benzinga.com",
         "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-28-self-driving-ai-lab-awarded-200m-grant-to-pursue-new-drugs-materials.md",
-      "title": "‘Self-driving’ AI lab awarded $200M grant to pursue new drugs, materials",
-      "excerpt": "A “self-driving lab” that’s using artificial intelligence (AI) to reverse engineer how to make things like new medicines, sustainable plastic alternatives and anti-corrosive building ...",
-      "sourceUrl": null,
-      "webUrl": "https://globalnews.ca/news/9657567/ai-canada-university-of-toronto-self-driving-lab-research-grant-acceleration-consortium/",
-      "originalUrl": "https://globalnews.ca/news/9657567/ai-canada-university-of-toronto-self-driving-lab-research-grant-acceleration-consortium/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://globalnews.ca/wp-content/uploads/2023/04/Untitled-design-38.png",
-          "width": 1024,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://globalnews.ca/news/9657567/ai-canada-university-of-toronto-self-driving-lab-research-grant-acceleration-consortium/amp/",
-      "cdnAmpWebUrl": "https://globalnews-ca.cdn.ampproject.org/c/s/globalnews.ca/news/9657567/ai-canada-university-of-toronto-self-driving-lab-research-grant-acceleration-consortium/amp/",
-      "publishedDateTime": "2023-04-28T09:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Global News",
-        "domain": "globalnews.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-28-chinas-baidu-races-waymo-gm-to-develop-self-driving-cars.md",
-      "title": "China’s Baidu Races Waymo, GM to Develop Self-driving Cars",
-      "excerpt": "With no one at the wheel, a self-driving taxi developed by tech giant Baidu Inc. is rolling down a Beijing street when its sensors spot the corner of a delivery cart jutting into its lane.",
-      "sourceUrl": null,
-      "webUrl": "https://thediplomat.com/2022/06/chinas-baidu-races-waymo-gm-to-develop-self-driving-cars/",
-      "originalUrl": "https://thediplomat.com/2022/06/chinas-baidu-races-waymo-gm-to-develop-self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-27T16:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Diplomat",
-        "domain": "thediplomat.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-28-aurora-self-driving-truck-service-to-launch-in-2024.md",
-      "title": "Aurora self-driving truck service to launch in 2024",
-      "excerpt": "Aurora Innovation, the self-driving technology startup founded by Chris Urmson, one of the original engineers of the Google Self-Driving Car Project that eventually became Waymo, plans to launch a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.motorauthority.com/news/1139487_aurora-self-driving-truck-service-to-launch-in-2024",
-      "originalUrl": "https://www.motorauthority.com/news/1139487_aurora-self-driving-truck-service-to-launch-in-2024",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hgmsites.net/hug/aurora-self-driving-truck-prototype_100883024_h.jpg",
-          "width": 1920,
-          "height": 1281,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-27T10:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Motor Authority",
-        "domain": "motorauthority.com",
         "images": null,
         "publishers": null,
         "authors": null

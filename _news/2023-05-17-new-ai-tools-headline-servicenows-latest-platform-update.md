@@ -51,6 +51,20 @@ related:
         width: 4000
         height: 3000
         isCached: true
+  - title: "CLM Provider Evisort Announces Generative AI Integration, Partners With ServiceNow"
+    excerpt: "After joining the lineup of CLM companies leveraging generative AI solutions, Evisort also announced that it would be partnering with ServiceNow to offer its contracting capabilities to the organization's customer base."
+    publishedDateTime: 2023-05-17T21:07:00Z
+    webUrl: "https://www.law.com/legaltechnews/2023/05/17/clm-provider-evisort-announces-generative-ai-integration-partners-with-servicenow/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 33
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/01/Evisort-767x633.jpg"
+        width: 767
+        height: 633
+        isCached: true
 
 secured: "/60RW19b6+GU6STWOMevNjSDD9hwjzQCCcOCffqdvyJRG+styRfqm6p/Ca4UjIwH0p7YfuJYVQ5zkhCsGKw4H5YbHp5Eksfuuyw8PXtGNLhkQUUgWtbC3iqzEPGhz/MDKB2rRMO2yz94JNACGnJcfrEO7CdkzjpD7uDrNOyjPwBeYJplZJEVkntzbelWxnXPplxwCChG8TzqOFAENtUJhUOsTv90BCKUdXVg+Qr9m+fT0yAdXSobjNRtc1Jenttg79oO932HvzWAxQK4RqMe0ds30+MfOXyZgxEco7DoO2pgzEHylFWZ0m4rfGmDu+cNhQXd2Jj94h4y4DTURhLzksBdMFqywdcZRdeIiQMguuvKof2ZXvznPHxbG0kaQNxa4OxyZBPN1sn3MIj2qrZ3s5eiDXqEAtE9jQAh4VWXUlqgm9TDvbqb0e0kaEcwHFLLj8PoUnsIYD26aGCFVbM9AqH3XyB6AuzCtA1WYkaUc5LmnV4XicoKTsQcCoDE4XId60OfeUgYPkfhcAR5Eu8zRg==;XJuvagHt2yN1pud0BfE0fw=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/zoom-adds-an-ai-assistant-n
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/zoom-adds-an-ai-assistant-named-claude/"
 type: article
 quality: 87
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -64,6 +64,20 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 47
+  - title: "Zoom Introduces Claude AI Integration"
+    excerpt: "The new integration will launch for Zoom Contact Center first, but the plan is to roll it out to other services soon."
+    publishedDateTime: 2023-05-17T20:36:00Z
+    webUrl: "https://tech.co/news/zoom-claude-ai-assistant-integration"
+    type: article
+    provider:
+      name: Tech.co
+      domain: tech.co
+    quality: 37
+    images:
+      - url: "https://images.tech.co/wp-content/uploads/2022/02/16131910/zoom-mobile-headphones-e1645035611260.jpeg"
+        width: 1920
+        height: 960
+        isCached: true
 
 secured: "2dX6dn/8Jm3gqQ55lJtO4wDm6h58+MwSDU9SPURETBraUGt6gxpXGeVhcvzQVrRMZYByUOJXWUFvHC/WULVsm2HqRthjyJj/bJTxFbvaE8pAXb+qBCmN9eQ8zWxqDr/jluhnXaQ1JGrJjcvsf3oKQAT3lwtb1fvu0mcR1WQXKA1s+ZR+nU/dTqMcvnSiBnlfjrjH9av1oVuLtDYsNuYHmyCk3+qDYgu61L/ZZVH2XuvCuZCHYhBilxpl4BfslY0wCPX3INnUz6zBu+/aJwMyRcYD5k2QOslikJix3TfW7+q0vYxRj0v4XjJX9GBOuPneArpTe4J/6A5D5853T1dYqqaYuS0t1/gBipT4T4eUUgM=;jDryQLfhZQw0ogfRGboJTA=="
 ---

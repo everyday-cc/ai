@@ -21,6 +21,17 @@ topics:
 
 related:
   - title: "Weights & Biases and Lambda Announce Strategic Partnership to Accelerate Deep Learning and AI"
+    excerpt: "Weights & Biases and Lambda today announced a strategic partnership to bring the infrastructure and MLOps tools required for AI and deep learning workloads to enterprises"
+    publishedDateTime: 2023-05-17T16:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/05/n32449135/weights-biases-and-lambda-announce-strategic-partnership-to-accelerate-deep-learning-and-ai"
+    ampWebUrl: "https://www.benzinga.com/amp/content/32449135"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32449135"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 43
+  - title: "Weights & Biases and Lambda Announce Strategic Partnership to Accelerate Deep Learning and AI"
     excerpt: "Weights & Biases and Lambda today announced a strategic partnership to bring the infrastructure and MLOps tools required for AI and deep learning workloads to enterprises of all sizes. The Weights & Biases MLOps platform integrates with NVIDIA-accelerated systems provided by Lambda,"
     publishedDateTime: 2023-05-17T17:25:00Z
     webUrl: "https://www.tmcnet.com/usubmit/-weights-biases-lambda-announce-strategic-partnership-accelerate-deep-/2023/05/17/9816460.htm"
@@ -28,7 +39,7 @@ related:
     provider:
       name: TMCnet
       domain: tmcnet.com
-    quality: 23
+    quality: 25
 
 secured: "HQxDe1dg50vCHfW/Pv/Uvk/cRoPiV8uNjX6eo+yiUrha1aahJijg8KrxQ3Tk+ofC8wgz/fVVtVjxI3C1cA0/p2nTPVQMgId29oq2i646U6RyNJW5Tad8jil4vVmYuy+4DmhwWxydUwsRvQhhjs/koiNrXxDHq0LMzyaxOoiAQtmR1dMaLfbbeBzPYdFYqZ21bQk/paBq/1LC5bsquvEe6dFwxdZ9yG5O21iEJ9L1dLXFT0DyO6TtD0snsNyN7FbE1ASCdISrJiLN4QoQvTnldS4OzM4yNz5rMF9A3lkszq+5oIk+1kfSowxODXmYjR9swLsY7Gqt2lbHcTEdENd23H6HEGy2dylVI6ixQhFZOiA=;EvNnn17wA06XSSCizQTz1A=="
 ---

@@ -1,0 +1,45 @@
+---
+category: news
+title: "Weights & Biases and Lambda Announce Strategic Partnership to Accelerate Deep Learning and AI"
+excerpt: "Weights & Biases and Lambda today announced a strategic partnership to bring the infrastructure and MLOps tools required for AI and deep learning workloads to enterprises"
+publishedDateTime: 2023-05-17T16:00:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/23/05/n32449135/weights-biases-and-lambda-announce-strategic-partnership-to-accelerate-deep-learning-and-ai"
+webUrl: "https://www.benzinga.com/pressreleases/23/05/n32449135/weights-biases-and-lambda-announce-strategic-partnership-to-accelerate-deep-learning-and-ai"
+ampWebUrl: "https://www.benzinga.com/amp/content/32449135"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32449135"
+type: article
+quality: 43
+heat: 43
+published: false
+
+provider:
+  name: Benzinga.com
+  domain: benzinga.com
+
+topics:
+  - Machine Learning
+  - AI
+
+related:
+  - title: "Weights & Biases and Lambda Announce Strategic Partnership to Accelerate Deep Learning and AI"
+    excerpt: "Weights & Biases and Lambda today announced a strategic partnership to bring the infrastructure and MLOps tools required for AI and deep learning workloads to enterprises of all sizes. The Weights & Biases MLOps platform integrates with NVIDIA-accelerated systems provided by Lambda,"
+    publishedDateTime: 2023-05-17T17:25:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-weights-biases-lambda-announce-strategic-partnership-accelerate-deep-/2023/05/17/9816460.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 25
+  - title: "BeeKeeperAI Announces Commercial Release of its Patented, Zero-Trust Collaboration Platform to Accelerate Healthcare AI Development on Protected"
+    excerpt: "BeeKeeperAI, Inc., a pioneer in zero-trust, real-world data collaboration software, today announced the general availability of EscrowAI TM, a patent-protected i zero-trust collaboration platform. EscrowAI leverages Azure confidential computing to resolve the challenges of data sovereignty,"
+    publishedDateTime: 2023-05-17T15:48:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/05/17/9816347.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
+
+secured: "Yb/1vOUqho5NVXabdFlqrHDhOdoh5SBienPgmLd7DY7Hlu8oE1xNP5mLd2CrFtklYQg6stmnt+9kjwDcx32iC0ioombOnEsZVYBiT9jIhVoH6/NGN37aDVc4fHDqPJH+7wzraXkfeX84liOu4OPY3LrUvybjDfI6HMnl3AnoBmhl47FVIWaZPQZNuSnn0L+gpuuIOGH9PJQo7XHZ53oTEd57eMzhyaYPyR75qGsHD1JnVNb7rIECKN0nU9znBoEhKz08WhGFmSYxVrRC47ufRPQDF1NZv7cLeqGVM2TikQU82xz/vmdsvkQ/dcXk7Fl2ZjcTmGzGAKHwk2q0g9wm4mxwSP8+1tObnJ8IvKXrHNA=;WxcZ/lfktZZIHYzSVvQofw=="
+---
+

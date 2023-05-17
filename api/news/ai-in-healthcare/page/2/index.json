@@ -699,59 +699,6 @@
       ]
     },
     {
-      "path": "_news/2023-04-30-artificial-intelligence-will-change-the-world-here-are-the-3-stocks-with-the-most-to-gain.md",
-      "title": "Artificial Intelligence Will Change the World. Here Are the 3 Stocks With the Most to Gain.",
-      "excerpt": "Nvidia's products are particularly adept at powering artificial intelligence applications. Upstart hopes its AI will upend an industry ripe for disruption. Bing opens up a virtually untapped ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/04/30/artificial-intelligence-will-change-the-world-here/",
-      "originalUrl": "https://www.fool.com/investing/2023/04/30/artificial-intelligence-will-change-the-world-here/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/729808/artificial-intelligence-ai-stock-invesment-msft-nvda.jpg",
-          "width": 8578,
-          "height": 4802,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-30T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
       "path": "_news/2023-04-29-latest-healthcare-natural-language-processing-market-share-2023-2029-with-new-trend.md",
       "title": "Latest \"Healthcare Natural Language Processing Market\" Share 2023-2029, With New Trend",
       "excerpt": "The Readers in the section will understand how the Healthcare Natural Language Processing market scenario changed",
@@ -1442,6 +1389,59 @@
         "AI in Healthcare",
         "AI",
         "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2023-04-24-natural-language-processing-nlp-in-healthcare-market-growth-by-2031.md",
+      "title": "Natural Language Processing (NLP) in Healthcare Market Growth by 2031",
+      "excerpt": "The latest market research report on the Global \"Natural Language Processing (NLP) in Healthcare Market\" is segmented",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-in-healthcare-market-growth-by-2031-2023-04-24",
+      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-in-healthcare-market-growth-by-2031-2023-04-24",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 291,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-24T00:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Healthcare"
       ]
     }
   ],

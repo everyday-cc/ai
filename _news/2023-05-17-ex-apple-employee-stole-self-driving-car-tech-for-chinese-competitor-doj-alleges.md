@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/anafaguy/2023/05/16/ex-apple-employee-s
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anafaguy/2023/05/16/ex-apple-employee-stole-self-driving-car-tech-for-chinese-competitor-doj-alleges/amp/"
 type: article
 quality: 69
-heat: 149
+heat: 159
 published: true
 
 provider:
@@ -128,6 +128,15 @@ related:
     provider:
       name: SiliconANGLE
       domain: siliconangle.com
+    quality: 0
+  - title: "U.S. charges ex-Apple engineer with stealing self-driving car secrets for China"
+    excerpt: "The U.S. Justice Department has charged a former Apple engineer with stealing the firm's technology on autonomous systems, including self-driving cars."
+    publishedDateTime: 2023-05-16T18:00:00Z
+    webUrl: "https://www.autoblog.com/2023/05/16/u-s-charges-ex-apple-engineer-with-stealing-self-driving-car-secrets-for-china/"
+    type: article
+    provider:
+      name: Autoblog
+      domain: autoblog.com
     quality: 0
 
 secured: "tSu3o1D8+mwWYkZjxmPfwCfwEa5+sNQ4Ehb96IGNCv4SKcEqh5lEC1U1kiN9tzLPMQOtNZ8ihuPVo1I/ehP2ON8NZXnKhRz7Y+9XGjeXe89fPfPL6GjUXxt73ldAWW5Yy1PWZUuicri35sXaJNd4gZ74VfyctBNIyG4qYL831Z/bxv81/IKRU1lJVKIHWT/u+aeinrqKg6Mrkp/nzJipSGCr391ZHa0uaHA1c6E3S2RL3/1viBn1MEkXgq5kN5WihINqTPuMikZhTMb1PEpl1dNMkdRALf+kG//LoPskQBzy1eeyrMDy6yZPU7T6W7Jw4jSNugA+tZ6ulKFOCv9fG8fHYG/3BcaFuJjeZApjVoOpoFLoFtlyxQFWOWadjUVjoYFPCezIfyxBv8z230oaI9CxqTcROVy4J1YxWnegbgCXjoDWJL7vMsoJnd7aQl8lxPiy+1MmAtiT+H4kmVCXHGlsiMgZ1nChgmR6oi0oQ4k1204sIxNZ3Xm3frRnmUwdXw8ZUHA14MeoYOTXjlh8nA==;SYT0ckDAyRzXlKgi4829AQ=="

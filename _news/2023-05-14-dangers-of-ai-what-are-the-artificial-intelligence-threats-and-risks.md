@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Hiding Behind the AI Apocalypse"
+    excerpt: "Damon: There was not really any talk at the hearing about the impacts of AI on labor. There were broad allusions to the idea of job loss. But there are so many specific ways that jobs are already threatened by automation today."
+    publishedDateTime: 2023-05-17T21:51:00Z
+    webUrl: "https://www.theatlantic.com/newsletters/archive/2023/05/altman-hearing-ai-existential-risk/674096/"
+    type: article
+    provider:
+      name: The Atlantic
+      domain: theatlantic.com
+    quality: 67
+    images:
+      - url: "https://cdn.theatlantic.com/thumbor/Pmsh2bl4fBptpEm7XQ-8qcgKkmE=/0x401:5463x3246/1200x625/media/img/mt/2023/05/GettyImages_1255306219/original.jpg"
+        width: 1200
+        height: 625
+        isCached: true
   - title: "Are we ready for mental health AI?"
     excerpt: "I have encountered mental health chatbots and apps before and it was clear that technology still had a long way to go before it can provide the same nuanced benefit as a human therapist. ChatGPT and its other AI peers seem to hold potential to bridge that gap by providing a “human” experience to the conversation."
     publishedDateTime: 2023-05-13T23:00:00Z
@@ -71,6 +85,24 @@ related:
         width: 867
         height: 400
         isCached: true
+  - title: "Finance expert explains why people are turning to AI for investment advice"
+    excerpt: "With ChatGPT and other artificial intelligence systems making waves, some people are turning to AI for financial planning, according to one West Virginia University researcher."
+    publishedDateTime: 2023-05-17T19:22:00Z
+    webUrl: "https://phys.org/news/2023-05-expert-people-ai-investment-advice.html"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 32
+  - title: "Using AI to find rare minerals"
+    excerpt: "A machine learning model can predict the locations of minerals on Earth—and potentially other planets—by taking advantage of patterns in mineral associations. Science and industry seek mineral deposits to both better understand the history of our planet and to extract for use in technologies like rechargeable batteries."
+    publishedDateTime: 2023-05-17T18:07:00Z
+    webUrl: "https://phys.org/news/2023-05-ai-rare-minerals.html"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 17
 
 secured: "GEWiDUM/9QucOQqreaY2gz2P8XSH7DcEXgucxrpHiCVIR39F2EtfH0W1Uv8Rqfbpu6K5OPU+Dm1BUecnsazTiILLN4Tr5QFNgHB1VlU7tWisC3JR9gKlEB13xC+OQoqxJSWIJ7cC/eB9I6xa7Ljd80Uv0bzTVSthVp6WWDWf8e/62I3e2Xs+97Da3wompVdO4eD1ksQ5U6ZypTYnNtKjbhoLNoW4cdkPRzIWqP/llVqV5ZmroVAxYe379cwJ7ykgnJpvO8P/o5d+FLjqEpJb7jYOzCFhy1tKbO3V5QsSfZg3qLrUNv54llh2+TdL+b3UUIXRrqHc8sQHLC17Ke7vB1mYJhvX4Ob0OXLIyZw2fgO0Fa4xD2x/LYQBcwpzdNjkC8ehpQmukG5Q0b9cgXU/v6GoG3ZKnQcr2u/qSEKP3UUztsY8Gwh8GVY8GPHoI0lkkSfBj328qS8NMLPjrN+KcRMXgDWK7Q/gpX/c7ReVEm5A9CZlVwMGQqw6pM86ZvAJpz+R0mJ4DSkpKzGrKS8b/w==;HALygKELuwtQlR5N/6v/ZQ=="
 ---

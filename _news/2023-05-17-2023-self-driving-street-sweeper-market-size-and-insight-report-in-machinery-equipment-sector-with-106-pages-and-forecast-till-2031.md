@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Deep Learning in Manufacturing Market 2023-2030"
+    excerpt: "The major players covered in the Deep Learning in Manufacturing market report are: Get a sample copy of the Deep Learning in Manufacturing Market report 2023 Market Overview of Global Deep Learning in Manufacturing market: According to our latest research,"
+    publishedDateTime: 2023-05-16T06:22:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-in-manufacturing-market-2023-2030-2023-05-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Neural Networks Market Size, Key Segments, Share, Trends, Growth, and Forecast 2031"
     excerpt: "The global Artificial Neural Networks industry report provides top-notch qualitative and quantitative information including: Market size (2017-2021 value and 2022 forecast). The report also contains descriptions of key players,"
     publishedDateTime: 2023-05-16T11:33:00Z

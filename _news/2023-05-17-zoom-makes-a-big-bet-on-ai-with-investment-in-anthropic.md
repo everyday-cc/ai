@@ -63,6 +63,20 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 47
+  - title: "Zoom Introduces Claude AI Integration"
+    excerpt: "The new integration will launch for Zoom Contact Center first, but the plan is to roll it out to other services soon."
+    publishedDateTime: 2023-05-17T20:36:00Z
+    webUrl: "https://tech.co/news/zoom-claude-ai-assistant-integration"
+    type: article
+    provider:
+      name: Tech.co
+      domain: tech.co
+    quality: 37
+    images:
+      - url: "https://images.tech.co/wp-content/uploads/2022/02/16131910/zoom-mobile-headphones-e1645035611260.jpeg"
+        width: 1920
+        height: 960
+        isCached: true
 
 secured: "h5xfmy9dL9zV8lDgAE/qImDrIwKcPLLl78S9QLMbE9xI+wxNu7klkZUuaDUb1bc6lVhVGCSy1t22tLoJqhuOYCGGdO6BFwrQH165bxJNX4DcoQ7YIrCuY16xPE/SXlBDtrSP3yhGIXtwKM0ftDO81/ds0QSwNJFQiG7xTUqnBFHj/2iuYdUeu0tBoV1LIhiZbFRQ5CWGLnRNdJXzNV2RbFlpy5cnUpGtYn10VUSaIfJp+gA/0nlukzmtqMsvvVrIQHomIbc6f0cnbz+gsFvnw58kKA4w0zHSPRPGIGksI4fGk6l6m1KN1/vj2gyGilSii5TU+j4DtbBei1zAWhGYO8tc7/ELQiSkmzCV4jJSMnk=;J2aBrPbwaCowWNPGbskdFA=="
 ---

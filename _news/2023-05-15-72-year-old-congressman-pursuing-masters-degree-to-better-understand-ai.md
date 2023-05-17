@@ -38,6 +38,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Trump shares AI-altered fake clip of Anderson Cooper"
+    excerpt: "[Related: “This fictitious news show is entirely produced by AI and deepfakes” ] “Manipulating reality ... a professor of philosophy and director of California Polytechnic State University’s Ethics and Emerging Sciences Group, told PopSci."
+    publishedDateTime: 2023-05-17T20:00:00Z
+    webUrl: "https://www.popsci.com/technology/trump-ai-cnn/"
+    ampWebUrl: "https://www.popsci.com/technology/trump-ai-cnn/?amp"
+    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/trump-ai-cnn/?amp"
+    type: article
+    provider:
+      name: Popular Science
+      domain: popsci.com
+    quality: 59
+    images:
+      - url: "https://www.popsci.com/uploads/2023/05/17/anderson-cooper-outside.jpeg?auto=webp"
+        width: 2000
+        height: 1125
+        isCached: true
   - title: "When artificial intelligence can understand and translate (almost) any language"
     excerpt: "Finally, during the Google I/O conference, the demonstration of a new, still experimental, technology called \"Universal Translator ... to integrate AI into its search engine, Gmail, Photos and Maps to help make them even better in any language."
     publishedDateTime: 2023-05-17T02:05:00Z

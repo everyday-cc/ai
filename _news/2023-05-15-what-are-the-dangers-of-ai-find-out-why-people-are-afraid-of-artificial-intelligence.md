@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/tech/what-dangers-find-out-why-people-afraid
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/what-dangers-find-out-why-people-afraid-artificial-intelligence.amp"
 type: article
 quality: 99
-heat: 129
+heat: 159
 published: true
 
 provider:
@@ -48,6 +48,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Hiding Behind the AI Apocalypse"
+    excerpt: "Damon: There was not really any talk at the hearing about the impacts of AI on labor. There were broad allusions to the idea of job loss. But there are so many specific ways that jobs are already threatened by automation today."
+    publishedDateTime: 2023-05-17T21:51:00Z
+    webUrl: "https://www.theatlantic.com/newsletters/archive/2023/05/altman-hearing-ai-existential-risk/674096/"
+    type: article
+    provider:
+      name: The Atlantic
+      domain: theatlantic.com
+    quality: 67
+    images:
+      - url: "https://cdn.theatlantic.com/thumbor/Pmsh2bl4fBptpEm7XQ-8qcgKkmE=/0x401:5463x3246/1200x625/media/img/mt/2023/05/GettyImages_1255306219/original.jpg"
+        width: 1200
+        height: 625
+        isCached: true
   - title: "Are we ready for mental health AI?"
     excerpt: "I have encountered mental health chatbots and apps before and it was clear that technology still had a long way to go before it can provide the same nuanced benefit as a human therapist. ChatGPT and its other AI peers seem to hold potential to bridge that gap by providing a “human” experience to the conversation."
     publishedDateTime: 2023-05-13T23:00:00Z
@@ -76,6 +90,24 @@ related:
         width: 867
         height: 400
         isCached: true
+  - title: "Finance expert explains why people are turning to AI for investment advice"
+    excerpt: "With ChatGPT and other artificial intelligence systems making waves, some people are turning to AI for financial planning, according to one West Virginia University researcher."
+    publishedDateTime: 2023-05-17T19:22:00Z
+    webUrl: "https://phys.org/news/2023-05-expert-people-ai-investment-advice.html"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 32
+  - title: "Using AI to find rare minerals"
+    excerpt: "A machine learning model can predict the locations of minerals on Earth—and potentially other planets—by taking advantage of patterns in mineral associations. Science and industry seek mineral deposits to both better understand the history of our planet and to extract for use in technologies like rechargeable batteries."
+    publishedDateTime: 2023-05-17T18:07:00Z
+    webUrl: "https://phys.org/news/2023-05-ai-rare-minerals.html"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 17
 
 secured: "13vgGex/PR5YAJXD8aTyfr0j2hYuIxfF3BPUVgsPI9Ctqivn21xAadC96scg9A2O7CfTAZruEVm3AK5q22XIvLw2m6i4gn+oRVMMbuIRIyPCJjZ8RP5Us10i7f7XAiWiiFqycvRz8KIGmwVtN8zpUB/VGTqll3Khh3La5KvkEeVv9nLI8IS1TdqkDjQipbKiiPN7k5avM1ljQfpqdCaJNrv7vBjrGw+GKCLW4ktjEfhp75cp1lCIs42bjg3achoJNn4CdcSQAVH9zxFmANEKA9n9kmUA/OVw6xdkRV+h3WjwvYGO1qwOZA6AU3tfzWQvPxepFhJQqviFWVVwyA4dqS4VbOOnwygWZxcxXyWr1WE=;65g0FndLJ5qCU9h+1BCMSQ=="
 ---

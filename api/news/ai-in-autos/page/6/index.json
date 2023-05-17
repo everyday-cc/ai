@@ -2,6 +2,144 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-04-08-was-the-self-driving-car-invented-in-the-1980s.md",
+      "title": "Was The Self Driving Car Invented In The 1980s?",
+      "excerpt": "The news is full of self-driving cars and while there is some bad news, most of it is pretty positive. It seems a foregone conclusion that it is just a matter of time before calling for an Uber ...",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2018/07/25/was-the-self-driving-car-invented-in-the-1980s/",
+      "originalUrl": "https://hackaday.com/2018/07/25/was-the-self-driving-car-invented-in-the-1980s/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2018/07/car.png",
+          "width": 800,
+          "height": 375,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-07T17:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-07-why-ai-might-not-take-your-job-or-supercharge-the-economy.md",
+      "title": "Why A.I. Might Not Take Your Job or Supercharge the Economy",
+      "excerpt": "We also discuss my mixed feelings about the calls to “pause” A.I. development, why I’m less worried about rogue A.I. systems than the incentives of the companies and countries developing A.I., the need for a “public vision” for A.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2023/04/07/opinion/ezra-klein-podcast-ama-april2023.html",
+      "originalUrl": "https://www.nytimes.com/2023/04/07/opinion/ezra-klein-podcast-ama-april2023.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-07T08:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-07-the-worlds-first-self-driving-bus-fleet-will-soon-hit-scotlands-streets.md",
+      "title": "The world’s first self-driving bus fleet will soon hit Scotland’s streets",
+      "excerpt": "The UK government said the project, named CAVForth, would be the world’s first full-size, self-driving public bus service. CAV stands for “connected and autonomous vehicles.”",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/the-worlds-first-self-driving-bus-fleet-will-soon-hit-scotlands-streets",
+      "originalUrl": "https://thenextweb.com/news/the-worlds-first-self-driving-bus-fleet-will-soon-hit-scotlands-streets",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F04%2Fself-driving-scotland-bus-autonomous.jpg&signature=848ecfdba9f8101314effb674005c47e",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-07T08:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-07-is-elon-musk-at-odds-with-cathie-wood-over-this-artificial-intelligence-issue.md",
       "title": "Is Elon Musk At Odds With Cathie Wood Over This Artificial Intelligence Issue?",
       "excerpt": "Artificial intelligence is incredibly exciting ... any human input because they'll be powered by fully autonomous self-driving software -- which, of course, relies on AI. If Tesla stock does ...",
@@ -1044,164 +1182,6 @@
         "AI in Autos",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-04-01-waymo-brings-its-fleet-of-new-self-driving-suvs-to-austin.md",
-      "title": "Waymo brings its fleet of new self-driving SUVs to Austin",
-      "excerpt": "Waymo is bringing a fleet of driverless cars to Austin, Texas as a test of its new fifth-generation automated driving system. The vehicles will be tested all over the city, including downtown, the Capitol,",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/waymo-brings-its-fleet-of-new-self-driving-suvs-to-austin-165720284.html",
-      "originalUrl": "https://www.engadget.com/waymo-brings-its-fleet-of-new-self-driving-suvs-to-austin-165720284.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/uu/api/res/1.2/cUida6ySiXDpooXP.oUt0g--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-03/9fc6ae30-cfe2-11ed-bec7-e751884bbf3d.cf.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-31T20:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "YAHOO!News",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-31-bill-gates-says-self-driving-cars-will-be-as-revolutionary-as-the-pc-after-riding-in-one.md",
-      "title": "Bill Gates says self-driving cars will be as revolutionary as the PC after riding in one",
-      "excerpt": "Those services, like GM's Cruise and Alphabet's Waymo, use detailed maps and programming to operate only in certain sections of cities. In contrast, Wayve (much like Tesla) wants to develop an artificial-intelligence-enabled vehicle that can learn to drive ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/bill-gates-ai-self-driving-cars-as-revolutionary-as-pc-2023-3",
-      "originalUrl": "https://www.businessinsider.com/bill-gates-ai-self-driving-cars-as-revolutionary-as-pc-2023-3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/6426f238ed593e00183f6aa0?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/bill-gates-ai-self-driving-cars-as-revolutionary-as-pc-2023-3?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/bill-gates-ai-self-driving-cars-as-revolutionary-as-pc-2023-3?amp",
-      "publishedDateTime": "2023-03-31T08:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-31-goldman-sachs-predicts-300-million-jobs-will-be-lost-or-degraded-by-artificial-intelligence.md",
-      "title": "Goldman Sachs Predicts 300 Million Jobs Will Be Lost Or Degraded By Artificial Intelligence",
-      "excerpt": "While the startup ecosystem has stalled due to adverse economic ... to wage declines among blue-collar workers replaced or degraded by automation. Artificial intelligence, robotics and new sophisticated technologies have caused a vast chasm in wealth ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jackkelly/2023/03/31/goldman-sachs-predicts-300-million-jobs-will-be-lost-or-degraded-by-artificial-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/jackkelly/2023/03/31/goldman-sachs-predicts-300-million-jobs-will-be-lost-or-degraded-by-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/615077097475eceab8f6ae3e/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 796,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jackkelly/2023/03/31/goldman-sachs-predicts-300-million-jobs-will-be-lost-or-degraded-by-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jackkelly/2023/03/31/goldman-sachs-predicts-300-million-jobs-will-be-lost-or-degraded-by-artificial-intelligence/amp/",
-      "publishedDateTime": "2023-03-31T08:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos",
-        "AI in Healthcare"
       ]
     }
   ],

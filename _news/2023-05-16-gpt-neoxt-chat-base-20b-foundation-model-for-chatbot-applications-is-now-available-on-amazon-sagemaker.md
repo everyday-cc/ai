@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/gpt-neoxt-chat-base-
 webUrl: "https://aws.amazon.com/blogs/machine-learning/gpt-neoxt-chat-base-20b-foundation-model-for-chatbot-applications-is-now-available-on-amazon-sagemaker/"
 type: article
 quality: 88
-heat: 88
+heat: 108
 published: true
 
 provider:
@@ -27,6 +27,26 @@ images:
     width: 1260
     height: 627
     isCached: true
+
+related:
+  - title: "Prepare training and validation dataset for facies classification using Snowflake integration and train using Amazon SageMaker Canvas"
+    excerpt: "This post is co-written with Thatcher Thornberry from bpx energy.&nbsp; Facies classification is the process of segmenting lithologic formations from geologic data at the wellbore location. During drilling, wireline logs are obtained, which have depth-dependent geologic information. Geologists are deployed"
+    publishedDateTime: 2023-05-17T18:57:32Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/prepare-training-and-validation-dataset-for-facies-classification-using-snowflake-integration-and-train-using-amazon-sagemaker-canvas/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 53
+  - title: "Build a serverless meeting summarization backend with large language models on Amazon SageMaker JumpStart"
+    excerpt: "AWS delivers services that meet customers’ artificial intelligence (AI) and machine learning (ML) needs with services ranging from custom hardware like AWS Trainium and AWS Inferentia to generative AI foundation models (FMs) on Amazon Bedrock. In February 2022, AWS and Hugging Face announced a collaboration"
+    publishedDateTime: 2023-05-17T19:04:06Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/build-a-serverless-meeting-summarization-backend-with-large-language-models-on-amazon-sagemaker-jumpstart/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 52
 
 secured: "0l0oo3ZtCbZefUTLrcYxGUIysGG2MDt8vQEj1c7vq1K3/ligCKNVuK2QJC6KylznUCWwRYp1gIZue5L3zT+MPWpNZmBz8/XDKeGG0EDb7194WvsG9S+MMOngM6GDIhetJV8K5bA39lwSXMjvsIihypIS9OsSShuJ0m+TMJQNBLvBTyWP5usYAM90z2tklujubi+KVPdDcs4edF4fewjvVqTg86XFbp0UkP2eTVKnp55EfOHbP8gQylOGL71/x0slRD74m1EJ+z8JCG44+W3Kpf54rFXHMSenSCKYJW+8//3rOx2uuqqv57YrniPhwkH8NxoWp1L5neUA1Pju40RcecQJlCJpFWPRrB8IhTJQ3MA=;2JvwfTBjbMlliQAjdoSBsg=="
 ---

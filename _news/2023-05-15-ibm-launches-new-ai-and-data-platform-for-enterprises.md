@@ -29,54 +29,40 @@ images:
     isCached: true
 
 related:
-  - title: "AI startup Together raises funding for open-source AI and cloud platform"
-    excerpt: "Together means to establish open source as the default way to incorporate AI and create models that outperform closed models in the cloud."
-    publishedDateTime: 2023-05-15T16:07:00Z
-    webUrl: "https://venturebeat.com/ai/ai-startup-together-raises-funding-for-open-source-ai-and-cloud-platform/"
-    ampWebUrl: "https://venturebeat.com/ai/ai-startup-together-raises-funding-for-open-source-ai-and-cloud-platform/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/ai-startup-together-raises-funding-for-open-source-ai-and-cloud-platform/amp/"
+  - title: "Build Better AI For Enterprise And Hybrid Cloud With IBM’s WatsonX"
+    excerpt: "Another example is SAP, which will incorporate the Watson service processing to power its digital assistant in SAP Start. New AI capabilities in SAP Start will help boost user productivity with both natural language capabilities and predictive insights ..."
+    publishedDateTime: 2023-05-17T21:48:00Z
+    webUrl: "https://www.forbes.com/sites/tiriasresearch/2023/05/17/build-better-ai-for-enterprise-and-hybrid-cloud-with-ibms-watsonx/"
+    ampWebUrl: "https://www.forbes.com/sites/tiriasresearch/2023/05/17/build-better-ai-for-enterprise-and-hybrid-cloud-with-ibms-watsonx/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2023/05/17/build-better-ai-for-enterprise-and-hybrid-cloud-with-ibms-watsonx/amp/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 86
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-478634946.jpg?w=1200&strip=all"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6465480551131fd5b9b1abc6/0x0.jpg?format=jpg&crop=2560,1330,x0,y0,safe&width=1200"
         width: 1200
-        height: 864
+        height: 623
         isCached: true
-  - title: "Together raises $20M to decentralize and open-source AI model creation"
-    excerpt: "Together, a startup that’s building a decentralized ... The funding will be used to support Together’s mission of creating a decentralized alternative to the closed AI systems winning all the plaudits today, such as OpenAI LP’s ChatGPT."
-    publishedDateTime: 2023-05-16T02:24:00Z
-    webUrl: "https://siliconangle.com/2023/05/15/together-raises-20m-decentralize-open-source-ai-model-creation/"
+  - title: "IBM Launches watsonx: Paving A Path To Faster Enterprise AI Adoption"
+    excerpt: "Exploring the new IBM watsonx offering. A full tech stack for training, deploying, and supporting AI capabilities across any cloud environment, as well as a model library that includes foundation models vetted and curated by IBM."
+    publishedDateTime: 2023-05-15T18:22:00Z
+    webUrl: "https://www.forbes.com/sites/danielnewman/2023/05/15/ibm-launches-watsonx-paving-a-path-to-faster-enterprise-ai-adoption/"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 39
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/05/image_2023-05-16_091657940.png"
-        width: 599
-        height: 402
-        isCached: true
-  - title: "Together raises $20m seed funding to build open-source AI models"
-    excerpt: "On a mission to take on existing big players in generative AI, Together wants to ensure an accessible future for the technology."
-    publishedDateTime: 2023-05-16T07:56:00Z
-    webUrl: "https://www.siliconrepublic.com/start-ups/together-ai-models-generative-cloud-seed-funding-vipul-ved-prakash"
+      name: Forbes
+      domain: forbes.com
+    quality: 64
+  - title: "Generative AI’s future in the enterprise: To infinity and beyond"
+    excerpt: "Breathtaking generative AI models and applications like OpenAI’s GPT3 and ChatGPT are unleashing new possibilities across enterprises everywhere. But while wicked smart, they’re still learning and evolving — and causing an existential stir."
+    publishedDateTime: 2023-05-15T14:00:00Z
+    webUrl: "https://www.fastcompany.com/90896021/generative-ais-future-in-the-enterprise-to-infinity-and-beyond"
     type: article
     provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 19
-  - title: "Pecan AI Opens Platform and Fast Predictive Modeling for All Data Professionals"
-    excerpt: "Pecan AI, the leader in AI-based predictive analytics for BI analysts and business teams, today announced that it has opened its predictive analytics platform to all users. Free trials let anyone try the platform's intuitive SQL-based editor for building predictive models focused on real business challenges."
-    publishedDateTime: 2023-05-17T17:46:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/05/17/9816519.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 15
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 17
 
 secured: "YJ+mhLR1Urx41W6CU58OvJs/nR2Bndo3CKlp3G+5ejAkG/FFLtyqcdYwhsShomOTXZRfzqozT0E3gCFvDwXG2YPMitMoHWHljtyPclV/+7uWhsXot4DpKAoo9ZGtvq97jmLlLf1EU2ietI6tOKViL2yxCEO/AQj1/RaKNUhyeSX+FupCXkrNvyV7AN78tkCZyTJc8jqhmlmQOncM4E2MEsm0EPFXyOhNgL+sTGiF9MkbejkugeNrwQsgpLGNMDT0r/RqisYv0fRF2o+/WdgZPr4xPVFBhkRKN6nBvt1DeeltgCLBmZfs3OV4IA3rQuZDL7Db9b6R/lkF9Ucv+CGpU7EJf8ogSLi2cd+1EaIBK9g=;tcNdPlIU3f+dqOjW1wQjTA=="
 ---

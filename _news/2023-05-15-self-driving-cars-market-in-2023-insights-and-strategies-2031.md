@@ -29,10 +29,10 @@ images:
     isCached: true
 
 related:
-  - title: "Deep Learning in CT Scanners Market | 2030"
-    excerpt: "Precision Reports has published a new report titled as \" Deep Learning in CT Scanners Market \" by End User ( Hospital, Diagnostic Center, Research, Veterinary Clinic ), Types ( Stationary, Portable ),"
-    publishedDateTime: 2023-05-13T05:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-in-ct-scanners-market-2030-2023-05-13"
+  - title: "Self-Driving or Driverless Cars Market upto 2030"
+    excerpt: "The Global Self-Driving or Driverless Cars market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players,"
+    publishedDateTime: 2023-05-15T01:53:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-or-driverless-cars-market-upto-2030-2023-05-14"
     type: article
     provider:
       name: MarketWatch
@@ -43,48 +43,71 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Machine Learning Recommendation Algorithm Market"
-    excerpt: "Research Reports has published a new report titled as \"Machine Learning Recommendation Algorithm Market\" by End"
-    publishedDateTime: 2023-05-13T17:45:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-recommendation-algorithm-market-2023-05-13"
+  - title: "Automotive Self-driving Chip Market Share, Size, Financial Summaries Analysis from 2023 to 2028"
+    excerpt: "Automotive Self-driving Chip report is a comprehensive analysis of the market, covering various components such"
+    publishedDateTime: 2023-05-17T03:59:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automotive-self-driving-chip-market-share-size-financial-summaries-analysis-from-2023-to-2028-2023-05-16"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 69
+    quality: 59
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Deep Learning in Manufacturing Market 2023-2030"
-    excerpt: "The major players covered in the Deep Learning in Manufacturing market report are: Get a sample copy of the Deep Learning in Manufacturing Market report 2023 Market Overview of Global Deep Learning in Manufacturing market: According to our latest research,"
-    publishedDateTime: 2023-05-16T06:22:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-in-manufacturing-market-2023-2030-2023-05-16"
+  - title: "Self Driving Bus Market Size 2023, Latest Trends, Growth Drivers, Industry Analysis by Top Companies and Forecast 2028"
+    excerpt: "Self Driving Bus Market Size, Share, and Covid-19 Impact Analysis, By Type (Advanced Metering Infrastructure and Auto"
+    publishedDateTime: 2023-05-17T05:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-bus-market-size-2023-latest-trends-growth-drivers-industry-analysis-by-top-companies-and-forecast-2028-2023-05-17"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 69
+    quality: 45
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Speech & Voice Recognition Systems Market by 2030"
-    excerpt: "Research Reports has published a new report titled as \" Speech and Voice Recognition Systems Market \" by End User ( Consumer Entertainment, Telematics, Home Applications, Enterprise Applications ), Types ( Hardware,"
-    publishedDateTime: 2023-05-17T02:44:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-voice-recognition-systems-market-by-2030-2023-05-16"
+  - title: "How Google's Self-Driving Car Will Change Everything"
+    excerpt: "The hype around driverless cars has grown rapidly over ... computer-processing capabilities and sophisticated artificial intelligence systems are becoming more advanced and more affordable every ..."
+    publishedDateTime: 2023-05-14T23:44:00Z
+    webUrl: "https://www.investopedia.com/articles/investing/052014/how-googles-selfdriving-car-will-change-everything.asp"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
+      name: Investopedia
+      domain: investopedia.com
+    quality: 24
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://www.investopedia.com/thmb/7VBCRiddsGRnBOFFrpQfDTZJTuc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/google-car_ap353779913372-5bfc376146e0fb0051c0d8d7.jpg"
+        width: 680
+        height: 440
         isCached: true
+  - title: "What self-driving cars may mean for traffic"
+    excerpt: "AI might be arriving with a bang, but autonomous cars are crawling closer at a snail’s pace. What’s the delay? And what can we expect to change on our roads in the next decade?"
+    publishedDateTime: 2023-05-15T07:01:00Z
+    webUrl: "https://www.thestar.com.my/lifestyle/living/2023/05/15/what-self-driving-cars-may-mean-for-traffic"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 24
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2023/05/15/2072912.jpg"
+        width: 800
+        height: 507
+        isCached: true
+  - title: "Fugitive ex-Apple engineer charged for trying to steal self-driving car tech"
+    excerpt: "The Justice Department said Tuesday it has charged a former Apple engineer with attempting to steal the firm’s technology related to autonomous systems, including self-driving cars, and then fleeing to China. The case was among five announced on Tuesday ..."
+    publishedDateTime: 2023-05-16T18:36:00Z
+    webUrl: "https://nypost.com/2023/05/16/fugitive-ex-apple-engineer-charged-for-trying-to-steal-self-driving-car-tech/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 1
 
 secured: "5x2PuQmxBuP/OSyQRj3VZK2D+h7qItZk6/Yr+SI/7T9Ov9HI/W8snZY3Ghr+PqLuhlCwPpKdoADlni9h1DvyhfzxhT7q6bhcJFFiBccdoOEqIpz8Ye1VAs5ColGlI4mschkfJMyU0WM9kb8I9alb6glKog44URSlUmZpZIqVgfK8AkgxQcJeS/V0jFrMGH76/Lvl29J/DuIOL5WyFuUSXswMQWbSG4agFwADFBWeNa3cx1dQlOjseVGCBT1PjyA3NbPAZ13bDL5ta5PVSgQXS+M/IK9vFLETzHzdRS74tIf9PLelZks3Gshpm9ENwAg5n5P+DNLbL9zCfmfbnmrzypJsXPAtCB4arV1AikMBGZ8=;pyVRXeCROl5TTKAPVWII5A=="
 ---

@@ -262,7 +262,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2023/05/15/combining-generative-ai-chatgpt-into-handguns-triggers-fiery-response/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 511,
+      "heat": 461,
       "tags": null,
       "images": [
         {
@@ -419,7 +419,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/edge-artificial-intelligence-ai-chip-market-research-2023-2030-2023-05-14",
       "featuredContent": null,
       "highlight": null,
-      "heat": 359,
+      "heat": 349,
       "tags": null,
       "images": [
         {
@@ -873,17 +873,17 @@
     {
       "path": "_news/2023-05-10-chinese-scientists-reveal-shocking-brain-chip-that-allows-monkeys-to-control-a-robotic-arm-with-their-mind.md",
       "title": "Chinese scientists reveal shocking brain chip that allows monkeys to control a robotic arm with their mind",
-      "excerpt": "SCIENTISTS in China have made a breakthrough in ‘Frankenstein’ brain chip technology, with the aim of letting people control machines with their mind. For now though, the technology",
+      "excerpt": "SCIENTISTS in China have made a breakthrough in 'Frankenstein' brain chip technology, with the aim of letting people control machines ... it to move a robotic arm with its mind.",
       "sourceUrl": null,
-      "webUrl": "https://www.thesun.co.uk/tech/22310762/chinese-scientists-brain-chip-monkey-control-robotic-arm/",
-      "originalUrl": "https://www.thesun.co.uk/tech/22310762/chinese-scientists-brain-chip-monkey-control-robotic-arm/",
+      "webUrl": "https://www.thesun.ie/tech/10687685/chinese-scientists-brain-chip-monkey-control-robotic-arm/",
+      "originalUrl": "https://www.thesun.ie/tech/10687685/chinese-scientists-brain-chip-monkey-control-robotic-arm/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.thesun.co.uk/wp-content/uploads/2023/05/OP_LY_NANKAI-UNIVERSITY.jpg?strip=all&quality=100&w=1920&h=1080&crop=1",
+          "url": "https://www.thesun.ie/wp-content/uploads/sites/3/2023/05/OP_LY_NANKAI-UNIVERSITY.jpg?strip=all&quality=100&w=1920&h=1080&crop=1",
           "width": 1920,
           "height": 1080,
           "title": null,
@@ -893,13 +893,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.thesun.co.uk/tech/22310762/chinese-scientists-brain-chip-monkey-control-robotic-arm/amp/",
-      "cdnAmpWebUrl": "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/tech/22310762/chinese-scientists-brain-chip-monkey-control-robotic-arm/amp/",
-      "publishedDateTime": "2023-05-10T05:26:00-07:00",
+      "ampWebUrl": "https://www.thesun.ie/tech/10687685/chinese-scientists-brain-chip-monkey-control-robotic-arm/amp/",
+      "cdnAmpWebUrl": "https://www-thesun-ie.cdn.ampproject.org/c/s/www.thesun.ie/tech/10687685/chinese-scientists-brain-chip-monkey-control-robotic-arm/amp/",
+      "publishedDateTime": "2023-05-10T06:29:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Sun",
-        "domain": "thesun.co.uk",
+        "name": "Irish Sun",
+        "domain": "thesun.ie",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1067,6 +1067,41 @@
       ],
       "topics": [
         "Machine Learning",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-05-09-china-develops-brain-chip-that-lets-monkeys-control-robotic-arm-with-their-minds.md",
+      "title": "China develops brain chip that lets monkeys control robotic arm with their MINDS",
+      "excerpt": "Chinese scientists claim to have designed a brain implant that allows a monkey to control a robotic arm using just its mind. Researchers at Nankai University shared the announcement on May 5 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-12063811/China-develops-brain-chip-lets-monkeys-control-robotic-arm-MINDS.html",
+      "originalUrl": "https://www.dailymail.co.uk/sciencetech/article-12063811/China-develops-brain-chip-lets-monkeys-control-robotic-arm-MINDS.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-09T09:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Mail",
+        "domain": "dailymail.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI",
         "AI Hardware"
       ]
@@ -1432,49 +1467,6 @@
       "provider": {
         "name": "The Nation",
         "domain": "thenation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-08-china-is-developing-ai-without-us-chips-heres-how.md",
-      "title": "China is developing AI without US chips: Here's how",
-      "excerpt": "The report revealed that local Chinese companies are working on ways to develop AI with weaker semiconductors along with combinations of chips to stop the reliance on one type of hardware.",
-      "sourceUrl": null,
-      "webUrl": "https://cointelegraph.com/news/china-is-developing-ai-without-us-chips-here-s-how",
-      "originalUrl": "https://cointelegraph.com/news/china-is-developing-ai-without-us-chips-here-s-how",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=740/https://s3.cointelegraph.com/uploads/2023-05/945d6562-7cc8-4c63-9ad5-3bc1eacd921a.jpg",
-          "width": 740,
-          "height": 492,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://cointelegraph.com/news/china-is-developing-ai-without-us-chips-here-s-how/amp",
-      "cdnAmpWebUrl": "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/china-is-developing-ai-without-us-chips-here-s-how/amp",
-      "publishedDateTime": "2023-05-08T01:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CoinTelegraph",
-        "domain": "cointelegraph.com",
         "images": null,
         "publishers": null,
         "authors": null

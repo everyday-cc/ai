@@ -89,6 +89,22 @@ related:
         width: 1200
         height: 655
         isCached: true
+  - title: "Parallel Domain unveils Reactor, a generative AI-based synthetic data generation engine"
+    excerpt: "New tool from Parallel Domain enhances AI performance in industries such as autonomous vehicles and drones by hgeneratingigh-quality images."
+    publishedDateTime: 2023-05-17T21:15:00Z
+    webUrl: "https://venturebeat.com/ai/parallel-domain-unveils-reactor-a-generative-ai-based-synthetic-data-generation-engine/"
+    ampWebUrl: "https://venturebeat.com/ai/parallel-domain-unveils-reactor-a-generative-ai-based-synthetic-data-generation-engine/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/parallel-domain-unveils-reactor-a-generative-ai-based-synthetic-data-generation-engine/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 79
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/05/1-highly-preferred-option-reflects-the-diversity-of-what-Gen-AI-can-generate.jpg?w=1200&strip=all"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "ActiveCampaign Introduces Content Generation Powered by AI"
     excerpt: "The marketing automation provider invests in generative AI, helping customers improve engagement, conversion rates, and the overall customer"
     publishedDateTime: 2023-05-16T11:14:00Z

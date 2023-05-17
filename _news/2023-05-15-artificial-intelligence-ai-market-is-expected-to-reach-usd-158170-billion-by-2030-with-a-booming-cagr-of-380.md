@@ -50,8 +50,8 @@ related:
         isCached: true
   - title: "With a CAGR of 28.4%, Artificial Intelligence in Breast Imaging Market to Grow Exponentially by 2029 - Brandessence Market Research"
     excerpt: "The business intelligence report on Global Artificial Intelligence in Breast Imaging Market by Brandessence Market Research provides a comprehensive analysis of the current state of the market and its future prospects."
-    publishedDateTime: 2023-05-17T11:46:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/05/17/9815871.htm"
+    publishedDateTime: 2023-05-17T10:18:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/05/17/9815871.htm"
     type: article
     provider:
       name: TMCnet

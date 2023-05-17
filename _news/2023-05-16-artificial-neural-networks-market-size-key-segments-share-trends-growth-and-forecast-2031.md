@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Deep Learning in Manufacturing Market 2023-2030"
+    excerpt: "The major players covered in the Deep Learning in Manufacturing market report are: Get a sample copy of the Deep Learning in Manufacturing Market report 2023 Market Overview of Global Deep Learning in Manufacturing market: According to our latest research,"
+    publishedDateTime: 2023-05-16T06:22:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-in-manufacturing-market-2023-2030-2023-05-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Computer Vision System Market with a Forecast Predicting Continued Booming Performance from 2023 to 2030"
     excerpt: "The Computer Vision System Market research report is formulated such that it offers a deep understating on the market drivers that are assimilating the growth of the market, the m"
     publishedDateTime: 2023-05-15T13:59:00Z

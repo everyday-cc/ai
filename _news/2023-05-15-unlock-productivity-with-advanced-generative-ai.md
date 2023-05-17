@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/unlock-productivity-with-advanced-generat
 webUrl: "https://www.ibm.com/blog/unlock-productivity-with-advanced-generative-ai/"
 type: article
 quality: 119
-heat: 279
+heat: 289
 published: true
 
 provider:
@@ -76,6 +76,22 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1133176856.jpg?w=1200&strip=all"
         width: 1200
         height: 655
+        isCached: true
+  - title: "Parallel Domain unveils Reactor, a generative AI-based synthetic data generation engine"
+    excerpt: "New tool from Parallel Domain enhances AI performance in industries such as autonomous vehicles and drones by hgeneratingigh-quality images."
+    publishedDateTime: 2023-05-17T21:15:00Z
+    webUrl: "https://venturebeat.com/ai/parallel-domain-unveils-reactor-a-generative-ai-based-synthetic-data-generation-engine/"
+    ampWebUrl: "https://venturebeat.com/ai/parallel-domain-unveils-reactor-a-generative-ai-based-synthetic-data-generation-engine/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/parallel-domain-unveils-reactor-a-generative-ai-based-synthetic-data-generation-engine/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 79
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/05/1-highly-preferred-option-reflects-the-diversity-of-what-Gen-AI-can-generate.jpg?w=1200&strip=all"
+        width: 1200
+        height: 675
         isCached: true
   - title: "New paper introduces ethics framework for use of generative AI in health care"
     excerpt: "A new paper published by leading Australian AI ethicist Stefan Harrer Ph.D. proposes for the first time a comprehensive ethical framework for the responsible use, design, and governance of Generative AI applications in health care and medicine."

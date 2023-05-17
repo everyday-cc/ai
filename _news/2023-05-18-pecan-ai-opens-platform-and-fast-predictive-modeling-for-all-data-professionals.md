@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Pecan AI Opens Platform and Fast Predictive Modeling for All Data Professionals"
-excerpt: "Pecan AI, the leader in AI-based predictive analytics for BI analysts and business teams, today announced that it has opened its predictive analytics platform to all users. Free trials let anyone try the platform's intuitive SQL-based editor for building predictive models focused on real business challenges."
-publishedDateTime: 2023-05-17T17:46:00Z
-originalUrl: "https://technews.tmcnet.com/news/2023/05/17/9816519.htm"
-webUrl: "https://technews.tmcnet.com/news/2023/05/17/9816519.htm"
+excerpt: "Platform now open to all users for free trials of fast, easy-to-use predictive modeling, accessible to all business teams Pecan AI, the leader in AI-based predictive analytics for BI analysts and business teams,"
+publishedDateTime: 2023-05-17T17:35:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/23/05/b32451257/pecan-ai-opens-platform-and-fast-predictive-modeling-for-all-data-professionals"
+webUrl: "https://www.benzinga.com/pressreleases/23/05/b32451257/pecan-ai-opens-platform-and-fast-predictive-modeling-for-all-data-professionals"
 type: article
 quality: 15
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Machine Learning
@@ -34,20 +34,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-478634946.jpg?w=1200&strip=all"
         width: 1200
         height: 864
-        isCached: true
-  - title: "IBM launches new AI and data platform for enterprises"
-    excerpt: "US technology giant IBM has announced the launch of Watsonx, an artificial intelligence (AI) and data platform"
-    publishedDateTime: 2023-05-15T14:27:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ibm-launches-new-ai-and-data-platform-for-enterprises-2023-05-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Together raises $20M to decentralize and open-source AI model creation"
     excerpt: "Together, a startup that’s building a decentralized ... The funding will be used to support Together’s mission of creating a decentralized alternative to the closed AI systems winning all the plaudits today, such as OpenAI LP’s ChatGPT."
@@ -73,6 +59,6 @@ related:
       domain: siliconrepublic.com
     quality: 19
 
-secured: "jmcSNMZlKNmbmNic7l9uDR1bcDxqFZZ6HHSDfK4dzBRJwc5cSzXwqR5ow/KzPmI9OqRSTh02924jTa4J5HcSVWXVeA7v4Y4928TNFdrdU67wx9H/WCycao0qSNM0tLBOo7wzuOhdGBIDr+0jaVNZWQTB+UlIimtUN/NVa8DXf3+wIk2BlNyNetdMSRVwUoCkWZblZ2zn41ht5UAyH/5LKCpIb9E0CKvMosx12RDFqEVf3C//e1gHXQExemnVdd71E8X7S2Gq5QZ/5tsIyvbw0AAhTH+7GWJNkZP9tDldDodq7sCGYmYi7PDNbrmOLHuZc/GbQmhbkvw9j9aBeuMl9kRQoXFbg2UywbqkrZhiJz4=;XotWrR39Ozteqf5xrPshSw=="
+secured: "X6iGS5d4Sv04PJURztujlbFyi1zNMxrwMGbZtmV4GEMLUqg2YaC0Odqs3iJO4lPqvnIbR6GMrOCHHXtA/eZXEke6waV6xXzfnnREceCNKAOwq4I2qmNy3b0Fj3WkRLH+hjvTWKtQQ6ysPWwNuDfIvDoaFhkKaV4XB8qu09bDjOo6dfplvBZVJx2cmXflUy980YlVMrrElpqdmL8DvOwXIRc/tfWsw8d0I1g2kSWfq+Ld16mTj19yTJFzvUanJI7/cMkmdinHLWVRhCTegtwIYhDhaED7UKGaXO7Qowl4Uy+sDbzoDr5wklBmhiVQDOaKHTdjGRPWs6yKh6uTrPFuNpsr3D+Ja0u8tvi3+RD7YbA=;HAKjNCC4S+dIPbNCR9vMrA=="
 ---
 

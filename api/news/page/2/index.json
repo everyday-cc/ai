@@ -2,6 +2,151 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-05-17-calling-all-generative-ai-disruptors-of-the-enterprise-apply-now-to-present-at-vb-transform-2023.md",
+      "title": "Calling all Generative AI disruptors of the enterprise! Apply now to present at VB Transform 2023",
+      "excerpt": "We’re on the hunt for the 10 generative AI products most likely to disrupt the enterprise right now, and if you have such a product we’d like to invite you to present the impact of this technology on the main stage.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/calling-all-generative-ai-disruptors-of-the-enterprise-apply-now-to-present-at-transform-2023/",
+      "originalUrl": "https://venturebeat.com/ai/calling-all-generative-ai-disruptors-of-the-enterprise-apply-now-to-present-at-transform-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/05/2VB_9896.jpg?fit=800%2C533&strip=all",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/calling-all-generative-ai-disruptors-of-the-enterprise-apply-now-to-present-at-transform-2023/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/calling-all-generative-ai-disruptors-of-the-enterprise-apply-now-to-present-at-transform-2023/amp/",
+      "publishedDateTime": "2023-05-16T19:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-17-special-edition-with-andrew-ross-sorkin-ai-and-microsoft-ceo-satya-nadella.md",
+      "title": "Special Edition with Andrew Ross Sorkin: AI and Microsoft CEO Satya Nadella",
+      "excerpt": "Artificial Intelligence is a profound new technology that will have implications – good and bad – on all our lives. In this latest episode of “Special Edition,” host Andrew Ross Sorkin sits down with Microsoft CEO Satya Nadella.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/now/video/special-edition-with-andrew-ross-sorkin-ai-and-microsoft-ceo-satya-nadella-174543941895",
+      "originalUrl": "https://www.nbcnews.com/now/video/special-edition-with-andrew-ross-sorkin-ai-and-microsoft-ceo-satya-nadella-174543941895",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_05/101422_NBC_NEWS_NOW_GFX_SORKIN_FS_copy_3-esrvh7.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo174543941895",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo174543941895",
+      "publishedDateTime": "2023-05-16T18:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-17-dataai-mobile-game-app-revenue-split-evenly-between-ads-iap.md",
+      "title": "Data.ai: Mobile game app revenue split evenly between ads, IAP",
+      "excerpt": "Data.ai's total app revenue metric shows monetization trends for games and other apps. Mobile game spend is split between ad spend and IAP.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/games/dataai-total-app-revenue-mobile-games-in-app-ad-spend/",
+      "originalUrl": "https://venturebeat.com/games/dataai-total-app-revenue-mobile-games-in-app-ad-spend/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/05/Data-AI-Ad-revenue-in-app-puchase-trends-2022.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 611,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/games/dataai-total-app-revenue-mobile-games-in-app-ad-spend/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/dataai-total-app-revenue-mobile-games-in-app-ad-spend/amp/",
+      "publishedDateTime": "2023-05-16T16:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-17-kustomer-the-crm-startup-acquired-by-meta-last-year-for-1b-spins-out-on-a-250m-valuation.md",
       "title": "Kustomer, the CRM startup acquired by Meta last year for $1B, spins out on a $250M valuation",
       "excerpt": "Meta's intention to divest itself of Kustomer was first reported in March, amid a bigger cost-cutting and restructuring effort at the company.",
@@ -252,57 +397,6 @@
       ]
     },
     {
-      "path": "_news/2023-05-17-ai-technology-can-go-quite-wrong-openai-ceo-tells-senate.md",
-      "title": "AI technology “can go quite wrong,” OpenAI CEO tells Senate",
-      "excerpt": "OpenAI CEO Sam Altman testified in the US Senate today about the potential dangers of artificial intelligence technology made by his company and others, and urged lawmakers to impose licensing requirements and other regulations on organizations that make advanced AI systems such as OpenAI's GPT-4.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/tech-policy/2023/05/ai-technology-can-go-quite-wrong-openai-ceo-tells-senate/",
-      "originalUrl": "https://arstechnica.com/tech-policy/2023/05/ai-technology-can-go-quite-wrong-openai-ceo-tells-senate/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 197,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/getty-sam-altman-800x534.jpg",
-          "width": 800,
-          "height": 534,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/tech-policy/2023/05/ai-technology-can-go-quite-wrong-openai-ceo-tells-senate/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/tech-policy/2023/05/ai-technology-can-go-quite-wrong-openai-ceo-tells-senate/amp/",
-      "publishedDateTime": "2023-05-16T14:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-05-17-ex-apple-employee-stole-self-driving-car-tech-for-chinese-competitor-doj-alleges.md",
       "title": "Ex-Apple Employee Stole Self-Driving Car Tech For Chinese Competitor, DOJ Alleges",
       "excerpt": "The former Apple engineer, 35-year-old Weibao Wang, allegedly overlapped his time at Apple with a stint working a U.S. based job with a Chinese company, and after his last day with Apple, the company discovered he had accessed large amounts of “sensitive proprietary and confidential information,” the Justice Department said.",
@@ -311,7 +405,7 @@
       "originalUrl": "https://www.forbes.com/sites/anafaguy/2023/05/16/ex-apple-employee-stole-self-driving-car-tech-for-chinese-competitor-doj-alleges/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 149,
+      "heat": 159,
       "tags": null,
       "images": [
         {
@@ -363,7 +457,7 @@
       "originalUrl": "https://thebulletin.org/2023/05/to-make-ai-work-for-national-security-invest-in-humans-too/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 96,
       "tags": null,
       "images": [
         {
@@ -407,7 +501,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/05/16/what-20-agency-leaders-are-doing-to-better-understand-and-embrace-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -562,7 +656,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/gpt-neoxt-chat-base-20b-foundation-model-for-chatbot-applications-is-now-available-on-amazon-sagemaker/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 108,
       "tags": null,
       "images": [
         {
@@ -658,7 +752,7 @@
       "originalUrl": "https://www.zdnet.com/article/zoom-adds-an-ai-assistant-named-claude/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 127,
       "tags": null,
       "images": [
         {
@@ -954,7 +1048,7 @@
       "originalUrl": "https://www.forbes.com/sites/timbajarin/2023/05/16/cheat-sheets-for-ai-information-overload/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 177,
+      "heat": 147,
       "tags": null,
       "images": [
         {
@@ -1005,7 +1099,7 @@
       "originalUrl": "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/ai-in-finance/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 116,
       "tags": null,
       "images": [
         {
@@ -1142,101 +1236,6 @@
       "topics": [
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-05-16-hpe-ezmeral-software-streamlines-data-analytics-and-aiml-initiatives.md",
-      "title": "HPE Ezmeral Software streamlines data, analytics and AI/ML initiatives",
-      "excerpt": "Hewlett Packard Enterprise is overhauling its Ezmeral software portfolio and simplifying data organization, management and analytics for organizations advancing their artificial intelligence (AI) and machine learning (ML) workflows.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/hpe-ezmeral-software-streamlines-data-analytics-and-ai-ml-initiatives/",
-      "originalUrl": "https://venturebeat.com/ai/hpe-ezmeral-software-streamlines-data-analytics-and-ai-ml-initiatives/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-16T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-05-16-sanctuary-ai-unveils-phoenix-a-humanoid-general-purpose-robot-designed-for-work.md",
-      "title": "Sanctuary AI Unveils Phoenix™ - A Humanoid General-Purpose Robot Designed for Work",
-      "excerpt": "Sanctuary AI Unveils Phoenix™ - A Humanoid General-Purpose Robot Designed for Work May 16, 2023 (PRNewswire via COMTEX) -- PR Newswire VANCOUVER, BC, May",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/sanctuary-ai-unveils-phoenixtm---a-humanoid-general-purpose-robot-designed-for-work-2023-05-16",
-      "originalUrl": "https://www.marketwatch.com/press-release/sanctuary-ai-unveils-phoenixtm---a-humanoid-general-purpose-robot-designed-for-work-2023-05-16",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 128,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-16T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

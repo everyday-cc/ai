@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/opinion/meet-my-new-co-pilot-doctor-office-a
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/meet-my-new-co-pilot-doctor-office-artificial-intelligence.amp"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -29,6 +29,17 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "AI Is Coming In The Front Door To Get The Back Office"
+    excerpt: "Large language models can be fun, as shown by the wild popularity of ChatGPT since OpenAI tossed the generative AI chatbot into the public sphere in late"
+    publishedDateTime: 2023-05-17T18:25:00Z
+    webUrl: "https://www.nextplatform.com/2023/05/17/ai-is-coming-in-the-front-door-to-get-the-back-office/"
+    type: article
+    provider:
+      name: The Next Platform
+      domain: nextplatform.com
+    quality: 19
 
 secured: "A6kvphNYtOqI5DYYBqgaKafb5YjrWrNVmBhcIKkM2NGcGOOazkvb24/wRRMz7zfVphyksr4FXLz+w4/flvpzxM4nT4Zm2ZT08g78tbM+ieNE/aKBynfyJsaBVDgM1wAw6oEGSnv/o5tixCNDDb2IOwVk4xxYyvZxM1dmFHqQH7VGVigBsdUCd1YGHqVzceu31WvMR+l9bfz8OeavEs9Lg7yGdYIcFxkLeeMMfejmdbETJJj1tH89gXObvpXI3upWyldLI+tZMwH9w0kMKdfFYfcLSXxyt9IcctKAncfpd52VakTGqVWnMYAofh0wnbev7WnmtY0DWMyCPpNF6JKgcUnfPNB5SXCirN8BgBDUkciYqORsTTF1Yssr2dTMddvAHnSZ7dCVq4tnykvgj18ICyxkRcIFkV9097pR62hmFnlFhYvLFOfsJVWX18fJAu86qzh15++hHKWe7I4nW5hMjnckRMZVTsPPUrU223HXP6wzGDk3OS68zucbg1Mb4wkcMbhYZCS9EQBVYKifJ+rSWg==;djUtY7W5H15b9uYjbI/WWA=="
 ---

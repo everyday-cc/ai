@@ -54,6 +54,15 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Amazon is working on infusing generative AI into its shopping app"
+    excerpt: "Rivals adding generative AI features and consumer demand may be the two reasons behind Amazon’s push in revamping the search engine of its retail application. In the US, about 56% of product searches start on Amazon, higher than the 42% share of search ..."
+    publishedDateTime: 2023-05-16T09:52:00Z
+    webUrl: "https://www.computerworld.com/article/3696691/amazon-is-working-on-infusing-generative-ai-into-its-shopping-app.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 17
   - title: "Bringing AI tools to the workplace requires a delicate balance"
     excerpt: "AI is altering work for most knowledge workers. Businesses will need to figure out how to best navigate this workplace revolution."
     publishedDateTime: 2023-05-17T13:00:00Z

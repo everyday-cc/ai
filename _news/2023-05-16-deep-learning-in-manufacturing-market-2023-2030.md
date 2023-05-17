@@ -29,10 +29,10 @@ images:
     isCached: true
 
 related:
-  - title: "Deep Learning in CT Scanners Market | 2030"
-    excerpt: "Precision Reports has published a new report titled as \" Deep Learning in CT Scanners Market \" by End User ( Hospital, Diagnostic Center, Research, Veterinary Clinic ), Types ( Stationary, Portable ),"
-    publishedDateTime: 2023-05-13T05:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-in-ct-scanners-market-2030-2023-05-13"
+  - title: "2023 Deep Learning Market Price & News with Size Forecast 2030"
+    excerpt: "Deep Learning Market Research Report 2023 is spread across 115 pages and provides Size, Share, Growth, and Forecast with exclusive vital statistics, data, information, trends, and competitive landscape details in this niche sector. The global Deep Learning ..."
+    publishedDateTime: 2023-05-16T10:31:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-deep-learning-market-price-news-with-size-forecast-2030-2023-05-15"
     type: article
     provider:
       name: MarketWatch
@@ -43,43 +43,43 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Machine Learning Recommendation Algorithm Market"
-    excerpt: "Research Reports has published a new report titled as \"Machine Learning Recommendation Algorithm Market\" by End"
-    publishedDateTime: 2023-05-13T17:45:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-recommendation-algorithm-market-2023-05-13"
+  - title: "Artificial Neural Networks Market Size, Key Segments, Share, Trends, Growth, and Forecast 2031"
+    excerpt: "The global Artificial Neural Networks industry report provides top-notch qualitative and quantitative information including: Market size (2017-2021 value and 2022 forecast). The report also contains descriptions of key players,"
+    publishedDateTime: 2023-05-16T11:33:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-neural-networks-market-size-key-segments-share-trends-growth-and-forecast-2031-2023-05-16"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 69
+    quality: 57
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Self-driving Cars Market in 2023: Insights and Strategies | 2031"
-    excerpt: "New “Self-driving Cars Market” Report 2023 by Manufacturers and Forecast to 2031: Get the latest insights into"
-    publishedDateTime: 2023-05-15T04:45:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-cars-market-in-2023-insights-and-strategies-2031-2023-05-15"
+  - title: "Global Computer Vision System Market with a Forecast Predicting Continued Booming Performance from 2023 to 2030"
+    excerpt: "The Computer Vision System Market research report is formulated such that it offers a deep understating on the market drivers that are assimilating the growth of the market, the m"
+    publishedDateTime: 2023-05-15T13:59:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-computer-vision-system-market-with-a-forecast-predicting-continued-booming-performance-from-2023-to-2030-2023-05-15"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 54
+    quality: 49
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Speech & Voice Recognition Systems Market by 2030"
-    excerpt: "Research Reports has published a new report titled as \" Speech and Voice Recognition Systems Market \" by End User ( Consumer Entertainment, Telematics, Home Applications, Enterprise Applications ), Types ( Hardware,"
-    publishedDateTime: 2023-05-17T02:44:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-voice-recognition-systems-market-by-2030-2023-05-16"
+  - title: "2023 Self-Driving Street Sweeper Market Size and Insight Report in Machinery & Equipment Sector | with [106 Pages] and Forecast till 2031"
+    excerpt: "May 17, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" The Global \"Self-Driving Street Sweeper Market\" report [106 Pages] is a useful tool, for companies trying to keep ahead of the competition in ..."
+    publishedDateTime: 2023-05-17T13:09:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-self-driving-street-sweeper-market-size-and-insight-report-in-machinery-equipment-sector-with-106-pages-and-forecast-till-2031-2023-05-17"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 54
+    quality: 21
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

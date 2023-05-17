@@ -2,6 +2,795 @@
   "page": 62,
   "value": [
     {
+      "path": "_news/2023-04-06-artificial-intelligence-chatbots-market-forecast-2023-2030-google-nuance-communications-aws.md",
+      "title": "Artificial Intelligence Chatbots Market Forecast 2023-2030| Google, Nuance Communications, AWS",
+      "excerpt": "IBM, [24]7.ai, Google, Nuance Communications, AWS, LogMeIn, Inbenta, Kore.ai, Gupshup, AIVO, Yellow Messenger, CogniCor Technologies, Passage AI, Chatfuel, SmartBots.ai The comprehensive Artificial Intelligence Chatbots market report covers various important market-related aspects,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chatbots-market-forecast-2023-2030-google-nuance-communications-aws-2023-04-06",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chatbots-market-forecast-2023-2030-google-nuance-communications-aws-2023-04-06",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-05T22:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-06-facebook-parent-meta-releases-ai-model-sam-that-can-identify-images-within-photos.md",
+      "title": "Facebook parent Meta releases AI model ‘SAM’ that can identify images within photos",
+      "excerpt": "Facebook parent Meta on Wednesday released a paper detailing its latest AI model that can \"segment\" different items within photographs. The company’s research division said it released the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxbusiness.com/technology/facebook-parent-meta-releases-ai-model-sam-can-identify-objects-photos",
+      "originalUrl": "https://www.foxbusiness.com/technology/facebook-parent-meta-releases-ai-model-sam-can-identify-objects-photos",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/6eab9f5c-a22d-4be0-867c-18ce09c171eb/54e80223-4135-408c-a36c-a96162e10bee/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxbusiness.com/technology/facebook-parent-meta-releases-ai-model-sam-can-identify-objects-photos.amp",
+      "cdnAmpWebUrl": "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/facebook-parent-meta-releases-ai-model-sam-can-identify-objects-photos.amp",
+      "publishedDateTime": "2023-04-05T21:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox Business",
+        "domain": "foxbusiness.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-06-dubais-jumeirah-first-to-have-driverless-taxis-for-public-use-by-end-of-2023.md",
+      "title": "Dubai’s Jumeirah first to have driverless taxis for public use by end of 2023",
+      "excerpt": "The work being done will ensure Cruise’s advanced generalisable AI (artificial intelligence) and autonomous driving ... meaning commuters will enjoy riding a driverless taxi when they go to La Mer Beach, Mercato Mall, Coca Cola Arena, City Walk, Galleria ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zawya.com/en/business/transport-and-logistics/dubais-jumeirah-first-to-have-driverless-taxis-for-public-use-by-end-of-2023-hi3b50z6",
+      "originalUrl": "https://www.zawya.com/en/business/transport-and-logistics/dubais-jumeirah-first-to-have-driverless-taxis-for-public-use-by-end-of-2023-hi3b50z6",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-05T20:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-06-meta-to-launch-generative-ai-for-creating-ads-this-year-report.md",
+      "title": "Meta to Launch Generative AI for Creating Ads This Year: Report",
+      "excerpt": "In a recent interview, Meta’s chief technology officer Andrew Bosworth claimed the company is a generative AI research and development leader. Meta began studying AI in 2013 and has reportedly published dozens of studies in the field,",
+      "sourceUrl": null,
+      "webUrl": "https://247wallst.com/technology-3/2023/04/05/meta-to-launch-generative-ai-for-creating-ads-this-year-report/",
+      "originalUrl": "https://247wallst.com/technology-3/2023/04/05/meta-to-launch-generative-ai-for-creating-ads-this-year-report/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://247wallst.com/wp-content/uploads/2022/10/imageForEntry34-p12.jpg?w=400",
+          "width": 400,
+          "height": 224,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://247wallst.com/technology-3/2023/04/05/meta-to-launch-generative-ai-for-creating-ads-this-year-report/amp/",
+      "cdnAmpWebUrl": "https://247wallst-com.cdn.ampproject.org/c/s/247wallst.com/technology-3/2023/04/05/meta-to-launch-generative-ai-for-creating-ads-this-year-report/amp/",
+      "publishedDateTime": "2023-04-05T19:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "24/7 Wall St",
+        "domain": "247wallst.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-06-application-development-software-market-size-to-reach-around-usd-11592-billion-by-2031-cagr-of-235.md",
+      "title": "Application Development Software Market Size To Reach Around USD 1159.2 Billion By 2031, CAGR Of 23.5%",
+      "excerpt": "Application Development Software Market Size Big Data Security positively impacts the growth of the application development software mark",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1105953633/Application-Development-Software-Market-Size-To-Reach-Around-USD-11592-Billion-By-2031-CAGR-Of-235",
+      "originalUrl": "https://menafn.com/1105953633/Application-Development-Software-Market-Size-To-Reach-Around-USD-11592-Billion-By-2031-CAGR-Of-235",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-05T19:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mena FN",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-06-ai-vision-leader-chooch-launches-imagechat.md",
+      "title": "AI Vision Leader Chooch Launches ImageChat™",
+      "excerpt": "By leveraging both AI Vision and large language models, ImageChat significantly improves data reliability and accuracy, making it particularly useful for use cases that require object detection and detailed reasoning.",
+      "sourceUrl": null,
+      "webUrl": "https://it.tmcnet.com/news/2023/04/06/9790646.htm",
+      "originalUrl": "https://it.tmcnet.com/news/2023/04/06/9790646.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-05T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-06-march-2023-riskalyze-fintech-five.md",
+      "title": "March 2023 Riskalyze Fintech Five",
+      "excerpt": "The Advent of ChatGPT has advisors buzzing, with 33% saying in a recent survey that AI is the \"most disruptive technology trend\" facing our industry today. Fintech providers are rushing to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wealthmanagement.com/technology/march-2023-riskalyze-fintech-five",
+      "originalUrl": "https://www.wealthmanagement.com/technology/march-2023-riskalyze-fintech-five",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-05T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WealthManagement.com",
+        "domain": "wealthmanagement.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-06-qualcomms-cloud-ai-100-bests-nvidias-artificial-intelligence-chip-in-some-test-data.md",
+      "title": "Qualcomm’s ‘Cloud AI 100’ Bests Nvidia’s Artificial Intelligence Chip in Some Test Data",
+      "excerpt": "Cards with Cloud AI 100 chips in a data center server. Image from Qualcomm video Artificial intelligence chips from San Diego’s Qualcomm beat those from Nvidia in two out of three measures of ...",
+      "sourceUrl": null,
+      "webUrl": "https://timesofsandiego.com/tech/2023/04/05/qualcomms-cloud-ai-100-beats-nvidias-best-artificial-intelligence-chip-in-new-test-data/",
+      "originalUrl": "https://timesofsandiego.com/tech/2023/04/05/qualcomms-cloud-ai-100-beats-nvidias-best-artificial-intelligence-chip-in-new-test-data/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://timesofsandiego.com/wp-content/uploads/2023/04/Cloud-AI-100-Server.jpg",
+          "width": 1125,
+          "height": 633,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://timesofsandiego.com/tech/2023/04/05/qualcomms-cloud-ai-100-beats-nvidias-best-artificial-intelligence-chip-in-new-test-data/",
+      "cdnAmpWebUrl": "https://timesofsandiego-com.cdn.ampproject.org/c/s/timesofsandiego.com/tech/2023/04/05/qualcomms-cloud-ai-100-beats-nvidias-best-artificial-intelligence-chip-in-new-test-data/",
+      "publishedDateTime": "2023-04-05T16:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Times of San Diego",
+        "domain": "timesofsandiego.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-06-google-says-its-ai-supercomputer-uses-less-juice-than-one-powered-by-nvidia-chips.md",
+      "title": "Google says its AI supercomputer uses less juice than one powered by Nvidia chips",
+      "excerpt": "In a new report, Google touted the performance of its self-designed chips and a supercomputer it built with them.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bizjournals.com/sanjose/news/2023/04/05/google-supercomputer-uses-less-energy-than-nvidia.html",
+      "originalUrl": "https://www.bizjournals.com/sanjose/news/2023/04/05/google-supercomputer-uses-less-energy-than-nvidia.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-05T16:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Business Journals",
+        "domain": "bizjournals.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-06-embracing-the-financial-services-innovation-opportunity-of-2023.md",
+      "title": "Embracing the Financial Services Innovation Opportunity of 2023",
+      "excerpt": "As we face economic uncertainty, innovative technology such as AI and machine learning for real-time, data-driven risk decisioning can aid the financial services industry in delivering the right products and services to support customers in their time of  need – and experience growth as a result.",
+      "sourceUrl": null,
+      "webUrl": "https://www.finextra.com/blogposting/24021/embracing-the-financial-services-innovation-opportunity-of-2023",
+      "originalUrl": "https://www.finextra.com/blogposting/24021/embracing-the-financial-services-innovation-opportunity-of-2023",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-05T15:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finextra",
+        "domain": "finextra.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-06-cutting-a-path-to-success-dallas-startup-launches-eco-friendly-robot-mower-to-tackle-landscaper-labor-shortage.md",
+      "title": "Cutting a Path to Success: Dallas Startup Launches Eco-Friendly Robot Mower to Tackle Landscaper Labor Shortage",
+      "excerpt": "Sensori Robotics has emerged from stealth after three years of R&D pursuing a \"robotic revolution in lawn care.\" Founded by two brothers who grew up tinkering with things in the U.K.—and now live in Texas—Sensori aims to disrupt the landscaping market with its AI-based location methodologies and location-aware robot.",
+      "sourceUrl": null,
+      "webUrl": "https://dallasinnovates.com/cutting-a-path-to-success-dallas-startup-launches-eco-friendly-robot-mower-to-tackle-landscaper-labor-shortage/",
+      "originalUrl": "https://dallasinnovates.com/cutting-a-path-to-success-dallas-startup-launches-eco-friendly-robot-mower-to-tackle-landscaper-labor-shortage/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-05T14:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dallas Innovates",
+        "domain": "dallasinnovates.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-06-ginkgo-grows-its-gene-therapy-offerings-with-stridebio-deal.md",
+      "title": "Ginkgo grows its gene therapy offerings with StrideBio deal",
+      "excerpt": "The deal hands Ginkgo technology for discovering and engineering capsids — the outer shell that protects the helpful genetic material in gene therapies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.biopharmadive.com/news/ginkgo-stridebio-gene-therapy-deal-capsids/646903/",
+      "originalUrl": "https://www.biopharmadive.com/news/ginkgo-stridebio-gene-therapy-deal-capsids/646903/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.biopharmadive.com/imgproxy/syYbn9Dn5aK7i7mZ72A2aEcd-HCza6UKUNK6FcIvjaI/crop:1696:958/g:nowe:0:79/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL1NjcmVlbnNob3RfMjAyMS0wNS0xMV8xMC4xNi40MF9BTS5wbmc.png",
+          "width": 770,
+          "height": 435,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-05T14:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BioPharma Dive",
+        "domain": "biopharmadive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-06-artificial-intelligence-beware-the-tech-imperative.md",
+      "title": "Artificial intelligence: Beware the tech imperative",
+      "excerpt": "that mystery captures the growing concern about artificial intelligence (AI). The bot, which can write research papers, fiction and much else, is the latest example of the technological imperative ...",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/opinion/technology/3935557-artificial-intelligence-beware-the-tech-imperative/",
+      "originalUrl": "https://thehill.com/opinion/technology/3935557-artificial-intelligence-beware-the-tech-imperative/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/wp-content/uploads/sites/2/2023/01/Open-AI-GettyImages-1246494152-e1675263430704.jpg?w=1280",
+          "width": 1280,
+          "height": 719,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/opinion/technology/3935557-artificial-intelligence-beware-the-tech-imperative/amp/",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/technology/3935557-artificial-intelligence-beware-the-tech-imperative/amp/",
+      "publishedDateTime": "2023-04-05T14:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-06-how-ai-machine-learning-are-being-used-by-financial-lenders-in-2023.md",
+      "title": "How AI & Machine Learning Are Being Used By Financial Lenders in 2023",
+      "excerpt": "Artificial Intelligence (AI) and Machine Learning (ML) technologies continue to expand in their applications, uses and benefits for lenders and financial institutions. Because of this maturity and expanded adoption rate,",
+      "sourceUrl": null,
+      "webUrl": "https://www.unite.ai/how-ai-machine-learning-are-being-used-by-financial-lenders-in-2023/",
+      "originalUrl": "https://www.unite.ai/how-ai-machine-learning-are-being-used-by-financial-lenders-in-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-05T13:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "unite",
+        "domain": "unite.ai",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-04-06-students-use-machine-learning-in-lesson-designed-to-reveal-issues-promise-of-ai.md",
+      "title": "Students use machine learning in lesson designed to reveal issues, promise of A.I.",
+      "excerpt": "In a new study, researchers had 28 high school students create their own machine-learning artificial intelligence (AI) models for analyzing data. The goals of the project were to help students explore the challenges,",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2023/04/230404161706.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2023/04/230404161706.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-05T13:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-06-ibm-watsons-golf-commentary-sucks.md",
+      "title": "IBM Watson's Golf Commentary Sucks",
+      "excerpt": "IBM Watson will be providing commentary for the Masters' app and Masters.com. According to the official press release, \"the AI commentary solution will produce detailed golf narration for more ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thebiglead.com/posts/ibm-watson-golf-commentary-sucks-01gx97c6jc06",
+      "originalUrl": "https://www.thebiglead.com/posts/ibm-watson-golf-commentary-sucks-01gx97c6jc06",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-05T11:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Big Lead",
+        "domain": "thebiglead.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-06-google-reveals-its-newest-ai-supercomputer-says-it-beats-nvidia.md",
+      "title": "Google reveals its newest A.I. supercomputer, says it beats Nvidia",
+      "excerpt": "While Nvidia dominates the market for AI model training and deployment, with over 90%, Google has been designing and deploying a chip, called Tensor Processing Unit, for artificial intelligence ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/04/05/google-reveals-its-newest-ai-supercomputer-claims-it-beats-nvidia-.html",
+      "originalUrl": "https://www.cnbc.com/2023/04/05/google-reveals-its-newest-ai-supercomputer-claims-it-beats-nvidia-.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107174527-1672936231120-gettyimages-1243527327-AA_26092022_878851.jpeg?v=1680714745",
+          "width": 5472,
+          "height": 3648,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2023/04/05/google-reveals-its-newest-ai-supercomputer-claims-it-beats-nvidia-.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/04/05/google-reveals-its-newest-ai-supercomputer-claims-it-beats-nvidia-.html",
+      "publishedDateTime": "2023-04-05T11:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-06-generative-ais-drawbacks-ip-to-ethics.md",
+      "title": "Generative AI’s Drawbacks: IP to Ethics",
+      "excerpt": "Generative AI is generating deafening hype yet there are considerable downsides to using these emerging AI platforms, from ethics to IP issues.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eweek.com/artificial-intelligence/drawbacks-of-generative-ai/",
+      "originalUrl": "https://www.eweek.com/artificial-intelligence/drawbacks-of-generative-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eweek.com/wp-content/uploads/2023/02/data-analytics-concept.jpg",
+          "width": 1400,
+          "height": 788,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-05T11:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eWeek",
+        "domain": "eweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-06-meta-reveals-ai-tool-to-help-brands-target-facebook-instagram-users.md",
+      "title": "Meta Reveals AI Tool to Help Brands Target Facebook, Instagram Users",
+      "excerpt": "Meta’s recent embrace of AI is only growing, with new plans for generative ads—and Meta’s CTO thinks AI will help power the metaverse, too.",
+      "sourceUrl": null,
+      "webUrl": "https://decrypt.co/125512/meta-reveals-ai-tool-help-brands-target-facebook-instagram-users",
+      "originalUrl": "https://decrypt.co/125512/meta-reveals-ai-tool-help-brands-target-facebook-instagram-users",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-05T11:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "YAHOO!Finance",
+        "domain": "decrypt.co",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-06-masters-app-website-rolling-out-generative-ai-commentary.md",
+      "title": "Masters app, website rolling out generative AI commentary",
+      "excerpt": "The Masters, in a joint activation with IBM, will not only stream every shot from every round once players tee off tomorrow but will also include generative AI commentary based on Augusta National -specific machine learning,",
+      "sourceUrl": null,
+      "webUrl": "https://www.sportsbusinessjournal.com/SB-Blogs/SBJ-Power-Up/2023/04/05/Masters.aspx",
+      "originalUrl": "https://www.sportsbusinessjournal.com/SB-Blogs/SBJ-Power-Up/2023/04/05/Masters.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-05T10:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Sports Business Journal",
+        "domain": "sportsbusinessjournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-06-global-medical-electronics-market-to-2030-increased-use-of-medical-electronics-in-imaging-screening-therapy-and-intervention-is-boosting-growth.md",
       "title": "Global Medical Electronics Market to 2030: Increased Use of Medical Electronics in Imaging, Screening, Therapy and Intervention is Boosting Growth",
       "excerpt": "The \"Medical Electronics Market, By Type, By Component, By Application, By End-use, and By Region Forecast to 2030\" report has been added to ResearchAndMarkets.com's",
@@ -195,733 +984,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-05-aws-launches-generative-ai-accelerator-for-startups.md",
-      "title": "AWS launches generative AI accelerator for startups",
-      "excerpt": "The program aims to support startups in generative artificial intelligence. This week Amazon Web Services (AWS) announced the launch of a new",
-      "sourceUrl": null,
-      "webUrl": "https://www.techzine.eu/news/applications/104210/aws-launches-generative-ai-accelerator-for-startups/",
-      "originalUrl": "https://www.techzine.eu/news/applications/104210/aws-launches-generative-ai-accelerator-for-startups/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-05T05:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techzine",
-        "domain": "techzine.eu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-05-creepy-robot-dogs-being-deployed-to-patrol-neighborhoods.md",
-      "title": "Creepy robot dogs being deployed to patrol neighborhoods",
-      "excerpt": "Orwellian nightmare or useful Australian hardware? The Australian military is rolling out robodogs on patrol. Kurt \"CyberGuy\" Knutsson explains the details.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/tech/creepy-robot-dogs-deployed-patrol-neighborhoods",
-      "originalUrl": "https://www.foxnews.com/tech/creepy-robot-dogs-deployed-patrol-neighborhoods",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-05T05:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-05-ways-to-leverage-ai-in-financial-services-marketing.md",
-      "title": "Ways to Leverage AI in Financial Services Marketing",
-      "excerpt": "AI-enabled technologies have not taken over, but they are starting to move into client-facing, front-of-the-house roles.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wealthmanagement.com/technology/ways-leverage-ai-financial-services-marketing",
-      "originalUrl": "https://www.wealthmanagement.com/technology/ways-leverage-ai-financial-services-marketing",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-05T05:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WealthManagement.com",
-        "domain": "wealthmanagement.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2023-04-05-atradius-wins-fintech-innovation-award-with-temenos-ai.md",
-      "title": "Atradius Wins Fintech Innovation Award with Temenos AI",
-      "excerpt": "Temenos announced today that Atradius, a Temenos client and one of the largest trade credit insurance providers in the world, has won the IBS Intelligence Global Fintech Innovation award for Best Risk Management Implementation - Best Adoption of Tools & Best Practices.",
-      "sourceUrl": null,
-      "webUrl": "https://financialit.net/news/regtech/atradius-wins-fintech-innovation-award-temenos-ai",
-      "originalUrl": "https://financialit.net/news/regtech/atradius-wins-fintech-innovation-award-temenos-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-05T04:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Financial IT",
-        "domain": "financialit.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-05-rise-of-the-commentator-bot-the-masters-leans-into-generative-ai.md",
-      "title": "Rise Of The Commentator Bot: The Masters Leans Into Generative AI",
-      "excerpt": "IBM upgrades the Masters digital experience every year, often using their sponsorship of golf’s most popular event to showcase technology available to their enterprise customers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/mikedojc/2023/04/05/rise-of-the-commentator-bot-the-masters-leans-into-generative-ai/",
-      "originalUrl": "https://www.forbes.com/sites/mikedojc/2023/04/05/rise-of-the-commentator-bot-the-masters-leans-into-generative-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-05T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-05-scott-reeder-artificial-intelligence-daunting-but-has-a-ways-to-go.md",
-      "title": "Scott Reeder | Artificial intelligence daunting but has a ways to go",
-      "excerpt": "Truck drivers may soon face a similar threat as artificial intelligence is perfected and self-driving vehicles become commonplace. I was reading a Wall Street Journal article that said the future of truck stops is imperiled.",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-gazette.com/opinion/columns/scott-reeder-artificial-intelligence-daunting-but-has-a-ways-to-go/article_46570be0-2f50-5820-9ca2-19f08d4e46fa.html",
-      "originalUrl": "https://www.news-gazette.com/opinion/columns/scott-reeder-artificial-intelligence-daunting-but-has-a-ways-to-go/article_46570be0-2f50-5820-9ca2-19f08d4e46fa.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-05T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The News-Gazette",
-        "domain": "news-gazette.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-05-ai-chip-race-google-says-its-tensor-chips-compute-faster-than-nvidias-a100.md",
-      "title": "AI chip race: Google says its Tensor chips compute faster than Nvidia's A100",
-      "excerpt": "Google says its fourth generation Tensor chip is better than Nvidia's A100 at computing and is twice as energy efficient",
-      "sourceUrl": null,
-      "webUrl": "https://interestingengineering.com/innovation/google-faster-greener-supercomputer",
-      "originalUrl": "https://interestingengineering.com/innovation/google-faster-greener-supercomputer",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-05T03:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Interesting Engineering",
-        "domain": "interestingengineering.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-05-artificial-intelligence-in-accounting-market-business-overview-2023-and-forecast-to-2030-microsoft-aws-xero-intuit.md",
-      "title": "Artificial Intelligence in Accounting Market Business Overview 2023, and Forecast to 2030 | Microsoft, AWS, Xero, Intuit",
-      "excerpt": "Artificial Intelligence in Accounting Market is growing at a High CAGR during the forecast period 2023-2030. The increasing interest of the individuals in this industry is the major reason for the expansion of this market.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-accounting-market-business-overview-2023-and-forecast-to-2030-microsoft-aws-xero-intuit-2023-04-05",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-accounting-market-business-overview-2023-and-forecast-to-2030-microsoft-aws-xero-intuit-2023-04-05",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-05T02:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-05-ai-could-have-a-7-trillion-impact-in-10-years-here-are-4-top-stocks-to-buy-now.md",
-      "title": "AI Could Have a $7 Trillion Impact in 10 Years: Here Are 4 Top Stocks to Buy Now",
-      "excerpt": "It estimates that AI could drive a 7% increase in annual global gross domestic product (GDP) over the next 10 years. This translates to an economic impact of close to $7 trillion. As you might expect,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/ai-could-have-a-$7-trillion-impact-in-10-years:-here-are-4-top-stocks-to-buy-now",
-      "originalUrl": "https://www.nasdaq.com/articles/ai-could-have-a-$7-trillion-impact-in-10-years:-here-are-4-top-stocks-to-buy-now",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-05T02:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-05-meta-to-debut-ad-creating-generative-ai-this-year-cto-says.md",
-      "title": "Meta to debut ad-creating generative AI this year, CTO says",
-      "excerpt": "TOKYO -- Facebook owner Meta intends to commercialize ... The company, which began full-scale AI research in 2013, stands out along with Google in the number of studies published.",
-      "sourceUrl": null,
-      "webUrl": "https://asia.nikkei.com/Business/Technology/Meta-to-debut-ad-creating-generative-AI-this-year-CTO-says",
-      "originalUrl": "https://asia.nikkei.com/Business/Technology/Meta-to-debut-ad-creating-generative-AI-this-year-CTO-says",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-05T02:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nikkei Asia",
-        "domain": "nikkei.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-05-cognitive-services-market-size-key-players-latest-trends-regional-insights-and-global-industry-dynamics-by-2023-2033.md",
-      "title": "Cognitive Services Market Size, Key Players, Latest Trends, Regional Insights, And Global Industry Dynamics By 2023-2033",
-      "excerpt": "Cognitive Services Market Research SAS, Baidu, Apple, AWS, Google, IBM, TCS, Microsoft and other key market players. CRIFAX added a new market research report on ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1105947538/Cognitive-Services-Market-Size-Key-Players-Latest-Trends-Regional-Insights-And-Global-Industry-Dynamics-By-2023-2033",
-      "originalUrl": "https://menafn.com/1105947538/Cognitive-Services-Market-Size-Key-Players-Latest-Trends-Regional-Insights-And-Global-Industry-Dynamics-By-2023-2033",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?60230",
-          "width": 507,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-05T02:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mena FN",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-05-neural-network-market-research-report-industry-trends-size-usd-15261-billion-by-2030.md",
-      "title": "Neural Network Market Research Report | Industry Trends & Size USD 152.61 Billion By 2030",
-      "excerpt": "Neural network market is expanding as a result of developments in artificial intelligence (AI) industry & the growing cloud disruption in contemporary business. PORTLAND, PORTLAND, OR, UNITED STATES, April 5, 2023 /einpresswire.com / -- The global neural ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1105948164/Neural-Network-Market-Research-Report-Industry-Trends-Size-USD-15261-Billion-By-2030",
-      "originalUrl": "https://menafn.com/1105948164/Neural-Network-Market-Research-Report-Industry-Trends-Size-USD-15261-Billion-By-2030",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-05T02:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mena FN",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-05-san-diego-state-university-launches-new-era-of-artificial-intelligence-research.md",
-      "title": "San Diego State University Launches New Era of Artificial Intelligence Research",
-      "excerpt": "Jim Brown’s spirit filled the lobby at the Gateway Center. Family and friends shared remembrances of the late Aztec’s fondness of all things at San Diego State University. They told stories of his relentless ambition,",
-      "sourceUrl": null,
-      "webUrl": "https://indiaeducationdiary.in/san-diego-state-university-launches-new-era-of-artificial-intelligence-research/",
-      "originalUrl": "https://indiaeducationdiary.in/san-diego-state-university-launches-new-era-of-artificial-intelligence-research/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-05T01:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Education Diary",
-        "domain": "indiaeducationdiary.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-05-allen-lane-signs-deepmind-professors-book-on-being-human-in-the-coming-ai-age.md",
-      "title": "Allen Lane signs DeepMind professor’s book on being human in the 'coming AI age'",
-      "excerpt": "Allen Lane has snapped up The Atomic Human by Neil Lawrence, the inaugural DeepMind professor of machine learning at the University of Cambridge. Keith Mansfield, commissioning editor at Penguin ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thebookseller.com/rights/allen-lane-signs-deepmind-professors-book-on-being-human-in-the-coming-ai-age",
-      "originalUrl": "https://www.thebookseller.com/rights/allen-lane-signs-deepmind-professors-book-on-being-human-in-the-coming-ai-age",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-05T01:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Bookseller",
-        "domain": "thebookseller.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-05-researchers-develop-new-sensors-that-can-control-robots-through-brain.md",
-      "title": "Researchers Develop New Sensors that Can Control Robots Through Brain",
-      "excerpt": "A recent study contributed to the idea that machines can be directly controlled by the human brain via new sensors.",
-      "sourceUrl": null,
-      "webUrl": "https://www.phoneworld.com.pk/researchers-develop-new-sensors-that-can-control-robots-through-brain/",
-      "originalUrl": "https://www.phoneworld.com.pk/researchers-develop-new-sensors-that-can-control-robots-through-brain/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-05T00:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "phoneworld.com.pk",
-        "domain": "phoneworld.com.pk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-05-european-ai-start-ups-race-to-improve-chatbots-language-skills.md",
-      "title": "European AI start-ups race to improve chatbots’ language skills",
-      "excerpt": "Companies aim to improve response quality after criticism of reliance on small group of mostly US participants",
-      "sourceUrl": null,
-      "webUrl": "https://www.ft.com/content/563256d4-67b2-465e-b219-52d0f91684ef?shareType=nongift",
-      "originalUrl": "https://www.ft.com/content/563256d4-67b2-465e-b219-52d0f91684ef?shareType=nongift",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-04T22:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Times",
-        "domain": "ft.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-05-from-science-fiction-to-reality-autonomous-vehicles-powered-by-ai-and-government-investment.md",
-      "title": "From Science Fiction To Reality: Autonomous Vehicles Powered By AI And Government Investment",
-      "excerpt": "The growth is attributed to advancements in artificial intelligence and machine learning ... as well as developments in the field of autonomous vehicles by major players like Waymo, General Motors, and Ford. General Motors' recent announcement of its ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1105946611/From-Science-Fiction-To-Reality-Autonomous-Vehicles-Powered-By-AI-And-Government-Investment",
-      "originalUrl": "https://menafn.com/1105946611/From-Science-Fiction-To-Reality-Autonomous-Vehicles-Powered-By-AI-And-Government-Investment",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-04T22:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mena FN",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-05-ai-in-computer-vision-market-scope-on-going-trends-industry-revenue-future-prospect-and-regional-outlook-2023-2033.md",
-      "title": "AI In Computer Vision Market Scope- On-Going Trends, Industry Revenue, Future Prospect, And Regional Outlook 2023-2033",
-      "excerpt": "Key Companies Covered in the<br />AI in Computer Vision Market Research  NVIDIA Corporation (U.S.), Intel Corporation (U.S.), Microsoft Corp",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1105948411/AI-In-Computer-Vision-Market-Scope-On-Going-Trends-Industry-Revenue-Future-Prospect-And-Regional-Outlook-2023-2033",
-      "originalUrl": "https://menafn.com/1105948411/AI-In-Computer-Vision-Market-Scope-On-Going-Trends-Industry-Revenue-Future-Prospect-And-Regional-Outlook-2023-2033",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-04T22:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mena FN",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-05-san-francisco-set-to-become-1st-us-city-with-two-robotaxis.md",
-      "title": "San Francisco set to become 1st US city with two robotaxis?",
-      "excerpt": "The effort to unleash dueling driverless services throughout San Francisco is shaping up to be the first step in an ambitious expansion centered in California.",
-      "sourceUrl": null,
-      "webUrl": "https://www.hindustantimes.com/car-bike/san-francisco-set-to-become-1st-us-city-with-two-robotaxis-101680670522451.html",
-      "originalUrl": "https://www.hindustantimes.com/car-bike/san-francisco-set-to-become-1st-us-city-with-two-robotaxis-101680670522451.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-04T22:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hindustan Times",
-        "domain": "hindustantimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-05-qlik-automl-augments-human-instinct-with-precise-machine-intelligence.md",
-      "title": "Qlik AutoML augments human instinct with precise machine intelligence",
-      "excerpt": "Qlik’s AutoML functionality democratises the use of advanced analytics by simplifying the process of building and deploying machine-learning models.",
-      "sourceUrl": null,
-      "webUrl": "https://techcentral.co.za/qlik-automl-augments-human-instinct-with-precise-machine-intelligence-insprom/224128/",
-      "originalUrl": "https://techcentral.co.za/qlik-automl-augments-human-instinct-with-precise-machine-intelligence-insprom/224128/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-04T21:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCentral",
-        "domain": "techcentral.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

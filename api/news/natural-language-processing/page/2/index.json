@@ -2,6 +2,199 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-05-05-qatar-adopts-speech-recognition-ai-to-boost-prosecution-efficiency.md",
+      "title": "Qatar adopts speech recognition AI to boost prosecution efficiency",
+      "excerpt": "Qatar has started to use AI speech-to-text technology in public prosecution to boost efficiency, local media reported Thursday. The system will be used in criminal investigations and editing legal documents in addition to manual input.",
+      "sourceUrl": null,
+      "webUrl": "https://www.poandpo.com/news/qatar-adopts-speech-recognition-ai-to-boost-prosecution-efficiency/",
+      "originalUrl": "https://www.poandpo.com/news/qatar-adopts-speech-recognition-ai-to-boost-prosecution-efficiency/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://res.cloudinary.com/scotfiles/image/fetch/https://www.histerius.com/hs0223/doha.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.poandpo.com/news/qatar-adopts-speech-recognition-ai-to-boost-prosecution-efficiency.amp",
+      "cdnAmpWebUrl": "https://www-poandpo-com.cdn.ampproject.org/c/s/www.poandpo.com/news/qatar-adopts-speech-recognition-ai-to-boost-prosecution-efficiency.amp",
+      "publishedDateTime": "2023-05-05T01:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "poandpo.com",
+        "domain": "poandpo.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-05-healthcare-natural-language-processing-market-2023-insight-and-global-trends.md",
+      "title": "Healthcare Natural Language Processing Market 2023 Insight and Global Trends",
+      "excerpt": "The Healthcare Natural Language Processing Market Scope and Overview Report for 2023 presents a detailed analysis of",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/healthcare-natural-language-processing-market-2023-insight-and-global-trends-2023-05-05",
+      "originalUrl": "https://www.marketwatch.com/press-release/healthcare-natural-language-processing-market-2023-insight-and-global-trends-2023-05-05",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 153,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-05T00:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-05-04-current-language-models-lightyears-away-from-human-like-ai-early-deepmind-investor.md",
+      "title": "Current language models lightyears away from human-like AI: Early DeepMind investor",
+      "excerpt": "We took a big jump, but we’re not at the moon yet,” Sheikh added. He also noted that the large language models (LLM) developed by Microsoft-backed firm OpenAI are lightyears away from artificial general intelligence,",
+      "sourceUrl": null,
+      "webUrl": "https://www.gadgetsnow.com/tech-news/current-language-models-lightyears-away-from-human-like-ai-early-deepmind-investor/articleshow/99993262.cms",
+      "originalUrl": "https://www.gadgetsnow.com/tech-news/current-language-models-lightyears-away-from-human-like-ai-early-deepmind-investor/articleshow/99993262.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/thumb/resizemode-4,msid-99993262,imgsize-64058,width-800/99993262.jpg",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gadgetsnow.com/tech-news/current-language-models-lightyears-away-from-human-like-ai-early-deepmind-investor/amp_articleshow/99993262.cms",
+      "cdnAmpWebUrl": "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/current-language-models-lightyears-away-from-human-like-ai-early-deepmind-investor/amp_articleshow/99993262.cms",
+      "publishedDateTime": "2023-05-04T08:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gadgets Now",
+        "domain": "gadgetsnow.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-04-microsoft-confirms-speech-recognition-issues-in-windows-11-22h20-0.md",
+      "title": "Microsoft confirms speech recognition issues in Windows 11 22H20 0",
+      "excerpt": "According to the company, Windows 11 version 22H2 users might experience problems with speech recognition, expressive input, and handwriting after installing KB5022913 (and subsequent releases).",
+      "sourceUrl": null,
+      "webUrl": "https://www.neowin.net/news/microsoft-confirms-speech-recognition-issues-in-windows-11-22h2/",
+      "originalUrl": "https://www.neowin.net/news/microsoft-confirms-speech-recognition-issues-in-windows-11-22h2/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 136,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neowin.com/news/images/uploaded/2022/06/1654151911_windows_vulnerability_story.jpg",
+          "width": 760,
+          "height": 451,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-04T02:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-04-axl-edtech-launches-ai-language-and-marketing-innovations.md",
       "title": "AXL EdTech Launches AI Language and Marketing Innovations",
       "excerpt": "AXL EdTech's team shares that its language software is an AI avatar that automatically translates videos with a unique voice simulator that actually replicates the original speaker's voice timbre and lip movements,",
@@ -1241,198 +1434,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-25-yes-ai-increases-productivity-study-suggests.md",
-      "title": "Yes, AI Increases Productivity, Study Suggests",
-      "excerpt": "Everyone is excited about generative artificial intelligence, but hype doesn't necessarily translate into solid productivity or revenue gains. Now, a study suggests that even in these early, hyped-up days of generative AI, there are gains being scene,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/joemckendrick/2023/04/25/yes-ai-increases-productivity-study-suggests/",
-      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2023/04/25/yes-ai-increases-productivity-study-suggests/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/5fe0e38e220093c48951892b/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2023/04/25/yes-ai-increases-productivity-study-suggests/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/04/25/yes-ai-increases-productivity-study-suggests/amp/",
-      "publishedDateTime": "2023-04-24T21:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-25-how-the-ai-revolution-is-liberating-workers-from-the-office.md",
-      "title": "How The AI Revolution Is Liberating Workers from the Office",
-      "excerpt": "With the advent of generative AI like ChatGPT, we are on the cusp of realizing the full potential of remote and hybrid work by reducing — while not eliminating — the benefits of office visits.",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/growing-a-business/how-the-ai-revolution-is-liberating-workers-from-the-office/450169",
-      "originalUrl": "https://www.entrepreneur.com/growing-a-business/how-the-ai-revolution-is-liberating-workers-from-the-office/450169",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1682348563-GettyImages-1369567912.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-24T14:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-24-identify-objections-in-customer-conversations-using-amazon-comprehend-to-enhance-customer-experience-without-ml-expertise.md",
-      "title": "Identify objections in customer conversations using Amazon Comprehend to enhance customer experience without ML expertise",
-      "excerpt": "According to a PWC report, 32% of retail customers churn after one negative experience, and 73% of customers say that customer experience influences their purchase decisions. In the global retail industry, pre- and post-sales support are both important aspects of customer care. Numerous methods, including",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/identify-objections-in-customer-conversations-using-amazon-comprehend-to-enhance-customer-experience-without-ml-expertise/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/identify-objections-in-customer-conversations-using-amazon-comprehend-to-enhance-customer-experience-without-ml-expertise/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-24T11:07:18-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-04-25-how-students-use-ai-to-design-solutions-for-their-community.md",
-      "title": "How Students Use AI to Design Solutions for Their Community",
-      "excerpt": "Youth voice is vital in the development and implementation of artificial intelligence (AI) tools. Youth today are significant users of technology and",
-      "sourceUrl": null,
-      "webUrl": "https://www.edsurge.com/news/2023-04-24-how-students-use-ai-to-design-solutions-for-their-community",
-      "originalUrl": "https://www.edsurge.com/news/2023-04-24-how-students-use-ai-to-design-solutions-for-their-community",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://edsurge.imgix.net/uploads/post/image/15302/16smallcropped-1682083494.jpg?auto=compress%2Cformat&w=640&h=259&fit=crop",
-          "width": 640,
-          "height": 259,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.edsurge.com/amp/news/2023-04-24-how-students-use-ai-to-design-solutions-for-their-community",
-      "cdnAmpWebUrl": "https://www-edsurge-com.cdn.ampproject.org/c/s/www.edsurge.com/amp/news/2023-04-24-how-students-use-ai-to-design-solutions-for-their-community",
-      "publishedDateTime": "2023-04-24T10:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EdSurge",
-        "domain": "edsurge.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

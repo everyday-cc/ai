@@ -3,10 +3,10 @@ category: news
 title: "TSA is testing facial recognition at more airports, raising privacy concerns"
 excerpt: "The agency tasked with securing America's airports is testing the use of facial recognition technology at a number of airports across the country"
 publishedDateTime: 2023-05-15T20:16:00Z
-originalUrl: "https://abcnews.go.com/Technology/wireStory/tsa-tests-facial-recognition-technology-boost-airport-security-99322644"
-webUrl: "https://abcnews.go.com/Technology/wireStory/tsa-tests-facial-recognition-technology-boost-airport-security-99322644"
-ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/tsa-tests-facial-recognition-technology-boost-airport-security-99322644"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/tsa-tests-facial-recognition-technology-boost-airport-security-99322644"
+originalUrl: "https://abcnews.go.com/US/wireStory/tsa-tests-facial-recognition-technology-boost-airport-security-99322460"
+webUrl: "https://abcnews.go.com/US/wireStory/tsa-tests-facial-recognition-technology-boost-airport-security-99322460"
+ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/tsa-tests-facial-recognition-technology-boost-airport-security-99322460"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/tsa-tests-facial-recognition-technology-boost-airport-security-99322460"
 type: article
 quality: 71
 heat: -1
@@ -419,6 +419,15 @@ related:
       name: The Daily Record (Maryland)
       domain: thedailyrecord.com
     quality: 28
+  - title: "TSA now wants to scan your face at security. Here are your rights."
+    excerpt: "Next time you’re at airport security, get ready to look straight into a camera. The TSA wants to analyze your face. The Transportation Security Administration has been quietly testing ..."
+    publishedDateTime: 2023-05-16T00:00:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2022/12/02/tsa-security-face-recognition/"
+    type: article
+    provider:
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 21
   - title: "TSA testing facial recognition technology, prompting privacy concerns"
     excerpt: "A new project by the Transportation Security Administration is using facial recognition software to verify identities."
     publishedDateTime: 2023-05-16T06:19:00Z
@@ -428,7 +437,16 @@ related:
       name: KSHB Kansas City
       domain: kshb.com
     quality: 19
+  - title: "TSA Ramps Up Facial Recognition Pilot"
+    excerpt: "Next time you’re trying to catch a flight, you might spot a new initiative from the Transportation Security Administration (TSA) with a controversial component: facial recognition. The TSA has ramped up its biometric identity verification pilot by installing facial recognition systems in more airports."
+    publishedDateTime: 2023-05-17T19:20:00Z
+    webUrl: "https://www.extremetech.com/internet/tsa-ramps-up-facial-recognition-pilot"
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 19
 
-secured: "XefVY6RfZpKRC62Q6fG4w+yJB8N6N+pWR8vQ1gNeGqaKaX6UNVpvx1rA+SgW6wm5lwALsGhj19betnoouE9XI/l8406nM68nV8zcCnJGfFheeTJozYd012NKhwO/ZQuvqycLnhAXlERIrr0vaF6JerQA7fvQo5DwNIHIfFZIuIKHdaCwCcULAL33ECESuc7tv2xF29LVFP8qtuAS0S1+BUhaIMcu+4CC9E0QklqIkx+poF4kCwl9r2j6T5PyIjBVUyL7Laz2RIAMgUjzRyGAlMBEjqlzzSIuwj+1dPkv12rndAcuqMmX4/q9hjxSfpvZASi12pIGogZg8F69mu33GisEmSDsoDSl69tt+/FiX0U=;BWNmFfAxj9Xqiz6jj0CLQw=="
+secured: "qg19Pmui+GPzAOWe7lgh2de++wLIxGYAydH58gUnVYKVllvbabxzgPaHQl8QxTuk488LIIm0HKTlg9bajopkXyqixm0ax/kc6sO6CsVoblpbTelX8o8B7fg1Oma5sWvCCapk+XztdQzdEgAbVbsxQL6Ul5jaEXSSt6uHo3Es8Y7AwYZ8W+3G7OUgJ5et7V/9S2vW19011enTeR8aJVidvHoqnYP9OemUTcOCCD1Rdwd88NInfXDqbXpz/PAnyVxgdv6jgk1I+kjeooaUhYERJuApB4LWdiezql9bEdRkj7Xq33MxbhBtBXNsH5XFcc1iuVrigsl12q43+jzti5M8QxfnxU8G3Jyj6NGVT2c8z/4=;cplnlofVs3om3SGnY1UB9g=="
 ---
 

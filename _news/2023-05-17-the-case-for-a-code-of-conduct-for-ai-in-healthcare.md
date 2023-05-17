@@ -9,7 +9,7 @@ ampWebUrl: "https://newatlas.com/computers/case-code-of-conduct-ai-healthcare/?a
 cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/computers/case-code-of-conduct-ai-healthcare/?amp=true"
 type: article
 quality: 106
-heat: 236
+heat: 246
 published: true
 
 provider:
@@ -128,6 +128,20 @@ related:
       - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_images/2023-05/Woebot%20Art.png.jpg?itok=5UOZhh-v"
         width: 1528
         height: 800
+        isCached: true
+  - title: "Maximizing the Value of AI in Cancer Care"
+    excerpt: "Cancer treatment has come a long way in recent years and is now evolving more rapidly through the integration of artificial intelligence (AI ... treatments, and healthcare providers, collected from outside a controlled clinical trial setting."
+    publishedDateTime: 2023-05-15T00:01:00Z
+    webUrl: "https://www.mddionline.com/artificial-intelligence/maximizing-value-ai-cancer-care"
+    type: article
+    provider:
+      name: MD&M East
+      domain: mddionline.com
+    quality: 39
+    images:
+      - url: "https://www.mddionline.com/sites/mddionline.com/files/Untitled%20design%2019_0.png"
+        width: 770
+        height: 400
         isCached: true
   - title: "General Catalyst leads $50M investment in healthcare AI company"
     excerpt: "Hippocratic AI, which is building a generative AI large language model designed for healthcare, launched Tuesday."

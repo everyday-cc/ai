@@ -124,6 +124,15 @@ related:
       name: CBC.ca
       domain: www.cbc.ca
     quality: 1
+  - title: "U.S. charges ex-Apple engineer with stealing self-driving car secrets for China"
+    excerpt: "The U.S. Justice Department has charged a former Apple engineer with stealing the firm's technology on autonomous systems, including self-driving cars."
+    publishedDateTime: 2023-05-16T18:00:00Z
+    webUrl: "https://www.autoblog.com/2023/05/16/u-s-charges-ex-apple-engineer-with-stealing-self-driving-car-secrets-for-china/"
+    type: article
+    provider:
+      name: Autoblog
+      domain: autoblog.com
+    quality: 0
 
 secured: "hFBq4nx1by/Oo7OMFwjOlMgAkxQ3HgUZ+Y7qTwVO28w9RljOiiF4oKcbat0VS3hPqcayIJLLl03TCQHs2Ki8yIlEn0o/ZRawdRRs3eJ87VVjIk+nF+ubAfnH26mtVcxOH9nrgLawFF5KbQpuyTLBmi3qQVGTAG6XfbsLVPGUQPFn2rJalbvgjNTlalPy7quXa7mBA0U3kCDdpmsdGBo6tF8Woz1xBuL5HdVkndCMaA3Z3O66pl2/Tox+X82R62P5gX1FvGjAuy0l+ctxEvTlUxNxXPTf+t+DYCWVXsEUTTXw1cxfvuKLsxXeIDGTKC3d92bYV66TUtHd+Z5cFZJKpx2S7bVnWc++tEA1lePOKhZhpeKI/noBusheotBBhgsuSQ1EZTDP5pk/O2Vp8hoAr7UEuoyF0fFLUhV7T2KaF8ZTHqChA0N7f/OjN5bBh9LP2nxqvt2NPmJOk9afTJQnPwn06SV9BfHZ0sC7r8QYYrFikQQEtbUjgbu0OG3G8BbLshgy4/9bPFBTyRLxEyWISA==;309/eeBGzRtwKXyy6cfKfA=="
 ---

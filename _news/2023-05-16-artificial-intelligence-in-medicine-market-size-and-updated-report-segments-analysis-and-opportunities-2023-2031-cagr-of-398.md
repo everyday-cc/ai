@@ -183,15 +183,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Oil and Gas Market by 2030"
-    excerpt: "Precision Reports has published a new report titled as \"Artificial Intelligence in Oil and Gas Market\" by End User"
-    publishedDateTime: 2023-05-13T05:16:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-oil-and-gas-market-by-2030-2023-05-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 47
   - title: "2030, Facial Recognition Door Lock Market Growth | Expansion Plan and Latest Updates"
     excerpt: "The \"Facial Recognition Door Lock Market\" research report for the period 2023-2030 offers a comprehensive analysis of"
     publishedDateTime: 2023-05-16T12:42:00Z

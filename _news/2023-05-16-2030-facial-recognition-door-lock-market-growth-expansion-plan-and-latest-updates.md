@@ -177,15 +177,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Oil and Gas Market by 2030"
-    excerpt: "Precision Reports has published a new report titled as \"Artificial Intelligence in Oil and Gas Market\" by End User"
-    publishedDateTime: 2023-05-13T05:16:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-oil-and-gas-market-by-2030-2023-05-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 47
   - title: "Artificial Intelligence in Medicine Market Size and Updated Report, Segments Analysis and Opportunities 2023-2031 | CAGR of 39.8%"
     excerpt: "Artificial intelligence is viewed as the science and designing of ... foster unexpected issues that should be tended to by readmissions or restart of the therapy cycle. Such remote checking for patients released from medical services offices can ..."
     publishedDateTime: 2023-05-16T15:18:00Z

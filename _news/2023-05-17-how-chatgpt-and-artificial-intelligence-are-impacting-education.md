@@ -125,6 +125,20 @@ related:
         width: 1528
         height: 800
         isCached: true
+  - title: "Maximizing the Value of AI in Cancer Care"
+    excerpt: "Cancer treatment has come a long way in recent years and is now evolving more rapidly through the integration of artificial intelligence (AI ... treatments, and healthcare providers, collected from outside a controlled clinical trial setting."
+    publishedDateTime: 2023-05-15T00:01:00Z
+    webUrl: "https://www.mddionline.com/artificial-intelligence/maximizing-value-ai-cancer-care"
+    type: article
+    provider:
+      name: MD&M East
+      domain: mddionline.com
+    quality: 39
+    images:
+      - url: "https://www.mddionline.com/sites/mddionline.com/files/Untitled%20design%2019_0.png"
+        width: 770
+        height: 400
+        isCached: true
   - title: "General Catalyst leads $50M investment in healthcare AI company"
     excerpt: "Hippocratic AI, which is building a generative AI large language model designed for healthcare, launched Tuesday."
     publishedDateTime: 2023-05-16T13:00:00Z
@@ -180,6 +194,6 @@ related:
       domain: devdiscourse.com
     quality: 12
 
-secured: "2xj88no/txLeDXeYe2sbvQatqqnSlf0GNegdKYlzbg7ReZBVBpkRijCY+tQeUWEtr9uYltQnV4nd3oHtg52hiB5tl7/Nz+LzXSqWh6Qi3CI/XhoWvcx8WdJsMxzdoV+sFrdUB0/yuSdlSPsCKhPsQ2JRuKeqWHD03jN+dVe0Ya9dYR+/YvfW0XyMaPWfFOl5SUKOljWEff/x2eYnGQjcOciRyKlQpPDYW2/6dHauYS90UeHwT2pND2BptcoZ31Vl0AaJc4vlbAMup93R7tsn6Q5cJEFDBtf1RZfL3RF2RcG5wFs28g35a5SxcwIbnePqcqEeEtoNKd6MiBG4fRN1gOP6uLae5yEOidGORsDiSNE=;j1HUbYU+Z1CX6WURSCf1Sg=="
+secured: "IjxVji3yd5PE4uAMTYX//4X9X6gx0IueOrz0hrn4Yp8nszxhXRANvKXsIEtqtEwn65r6iUELI/1BAakJECK0V9zw7ETVvXjr78kKHC2Ar8obVHBjsHreS5iqpww/qzbEZsci6GdzRb9zzTdJwuJjAXvP/r8Iy/Ule1awpyN74XNPUL6SfX9Ermn8A81XdwYJwa79K6aSHQ2Tgqg4N6iDN9XlKb5BFcqWauF3iU9x8qXBspY5QHriHn1uMiJd5NcVPrsVsSyLMv9138Y6TWAby1i4XAu9AFctOkmAsaEvb2D+Jf2hg4vbGtqvRxLbPnKQFx6Tjxh9Fl4hYqw36cMOq8xpUKi6fsHSszcjVzf9cLqmNoyLIFIwjm20xqm9zp6lf/dcP+MUMyutVFRoe9Ub1I7+wmy1c26UJ11G1i5L50VHplG6EwH3FU7g0g5mH/vRYq057mg6TVrbcOGoZxvs6Mwic1M1gnGBdrC0AxPBcT130S6SDY6DpEuVSNTwXcrfdsZHKQ67TR+oNoDIWltzjQ==;J/kMCiAJaFx+cbFX+Dadzg=="
 ---
 

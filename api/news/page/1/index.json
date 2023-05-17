@@ -2,6 +2,100 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-05-18-build-better-ai-for-enterprise-and-hybrid-cloud-with-ibms-watsonx.md",
+      "title": "Build Better AI For Enterprise And Hybrid Cloud With IBM’s WatsonX",
+      "excerpt": "Another example is SAP, which will incorporate the Watson service processing to power its digital assistant in SAP Start. New AI capabilities in SAP Start will help boost user productivity with both natural language capabilities and predictive insights ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tiriasresearch/2023/05/17/build-better-ai-for-enterprise-and-hybrid-cloud-with-ibms-watsonx/",
+      "originalUrl": "https://www.forbes.com/sites/tiriasresearch/2023/05/17/build-better-ai-for-enterprise-and-hybrid-cloud-with-ibms-watsonx/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6465480551131fd5b9b1abc6/0x0.jpg?format=jpg&crop=2560,1330,x0,y0,safe&width=1200",
+          "width": 1200,
+          "height": 623,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tiriasresearch/2023/05/17/build-better-ai-for-enterprise-and-hybrid-cloud-with-ibms-watsonx/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2023/05/17/build-better-ai-for-enterprise-and-hybrid-cloud-with-ibms-watsonx/amp/",
+      "publishedDateTime": "2023-05-17T14:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-18-the-senate-hearing-on-ai-shows-lawmakers-still-dont-get-it.md",
+      "title": "The Senate hearing on AI shows lawmakers still don’t get it",
+      "excerpt": "While the hearing on powerful artificial intelligence tools didn’t feature as many face-plants as previous tech hearings, it missed the mark in key ways.",
+      "sourceUrl": null,
+      "webUrl": "https://www.msnbc.com/the-reidout/reidout-blog/ai-artfificial-intelligence-chatgpt-sam-altman-senate-rcna84931",
+      "originalUrl": "https://www.msnbc.com/the-reidout/reidout-blog/ai-artfificial-intelligence-chatgpt-sam-altman-senate-rcna84931",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-05/230517-sam-altman-jm-1431-6150ed.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.msnbc.com/msnbc/amp/shows/reidout/blog/rcna84931",
+      "cdnAmpWebUrl": "https://www-msnbc-com.cdn.ampproject.org/c/s/www.msnbc.com/msnbc/amp/shows/reidout/blog/rcna84931",
+      "publishedDateTime": "2023-05-17T13:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MSNBC",
+        "domain": "msnbc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-18-soft-robotics-demonstrates-mgripai-at-automate-2023.md",
       "title": "Soft Robotics Demonstrates mGripAI™ at Automate 2023",
       "excerpt": "About Soft Robotics Soft Robotics is an industry-leading technology company that designs and builds automated high-speed picking solutions using 3D machine vision, artificial intelligence software, and proprietary soft robotic grippers. The company's ...",
@@ -62,7 +156,7 @@
       "originalUrl": "https://venturebeat.com/ai/servicenow-partners-with-nvidia-to-develop-super-specialized-generative-ai-for-enterprises/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": 106,
       "tags": null,
       "images": [
         {
@@ -600,6 +694,57 @@
       ]
     },
     {
+      "path": "_news/2023-05-17-sam-altman-ceo-of-openai-calls-for-us-to-regulate-artificial-intelligence.md",
+      "title": "Sam Altman: CEO of OpenAI calls for US to regulate artificial intelligence",
+      "excerpt": "The creator of advanced chatbot ChatGPT has called on US lawmakers to regulate artificial intelligence (AI). Sam Altman, the CEO of OpenAI, the company behind ChatGPT, testified before a US Senate committee on Tuesday about the possibilities - and pitfalls - of the new technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/world-us-canada-65616866.amp",
+      "originalUrl": "https://www.bbc.com/news/world-us-canada-65616866.amp",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 370,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/2715/production/_129750001_1dd1b383d243c38a83f27d131f562f525931fc1f.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/world-us-canada-65616866.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-65616866.amp",
+      "publishedDateTime": "2023-05-17T04:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-17-unmasking-the-hype-how-ai-can-empower-small-e-commerce-businesses.md",
       "title": "Unmasking The Hype: How AI Can Empower Small E-Commerce Businesses",
       "excerpt": "It’s an inquisitive mind that can help us separate the hype from the genuine opportunities and evaluate AI’s true potential in the ever-evolving world of e-commerce.",
@@ -711,7 +856,7 @@
       "originalUrl": "https://cointelegraph.com/news/tesla-robot-army-takes-a-walk",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 102,
       "tags": null,
       "images": [
         {
@@ -849,7 +994,7 @@
       "originalUrl": "https://newatlas.com/computers/case-code-of-conduct-ai-healthcare/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 236,
+      "heat": 246,
       "tags": null,
       "images": [
         {
@@ -937,7 +1082,7 @@
       "originalUrl": "https://www.foxnews.com/opinion/meet-my-new-co-pilot-doctor-office-artificial-intelligence",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -1032,7 +1177,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/global-data-and-ai-ethics-market-to-expand-through-2023-and-beyond-till-2030-113-pages-report-2023-05-17",
       "featuredContent": null,
       "highlight": null,
-      "heat": 221,
+      "heat": 211,
       "tags": null,
       "images": [
         {
@@ -1072,151 +1217,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-17-calling-all-generative-ai-disruptors-of-the-enterprise-apply-now-to-present-at-vb-transform-2023.md",
-      "title": "Calling all Generative AI disruptors of the enterprise! Apply now to present at VB Transform 2023",
-      "excerpt": "We’re on the hunt for the 10 generative AI products most likely to disrupt the enterprise right now, and if you have such a product we’d like to invite you to present the impact of this technology on the main stage.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/calling-all-generative-ai-disruptors-of-the-enterprise-apply-now-to-present-at-transform-2023/",
-      "originalUrl": "https://venturebeat.com/ai/calling-all-generative-ai-disruptors-of-the-enterprise-apply-now-to-present-at-transform-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/05/2VB_9896.jpg?fit=800%2C533&strip=all",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/calling-all-generative-ai-disruptors-of-the-enterprise-apply-now-to-present-at-transform-2023/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/calling-all-generative-ai-disruptors-of-the-enterprise-apply-now-to-present-at-transform-2023/amp/",
-      "publishedDateTime": "2023-05-16T19:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-17-special-edition-with-andrew-ross-sorkin-ai-and-microsoft-ceo-satya-nadella.md",
-      "title": "Special Edition with Andrew Ross Sorkin: AI and Microsoft CEO Satya Nadella",
-      "excerpt": "Artificial Intelligence is a profound new technology that will have implications – good and bad – on all our lives. In this latest episode of “Special Edition,” host Andrew Ross Sorkin sits down with Microsoft CEO Satya Nadella.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/now/video/special-edition-with-andrew-ross-sorkin-ai-and-microsoft-ceo-satya-nadella-174543941895",
-      "originalUrl": "https://www.nbcnews.com/now/video/special-edition-with-andrew-ross-sorkin-ai-and-microsoft-ceo-satya-nadella-174543941895",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_05/101422_NBC_NEWS_NOW_GFX_SORKIN_FS_copy_3-esrvh7.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo174543941895",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo174543941895",
-      "publishedDateTime": "2023-05-16T18:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-17-dataai-mobile-game-app-revenue-split-evenly-between-ads-iap.md",
-      "title": "Data.ai: Mobile game app revenue split evenly between ads, IAP",
-      "excerpt": "Data.ai's total app revenue metric shows monetization trends for games and other apps. Mobile game spend is split between ad spend and IAP.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/games/dataai-total-app-revenue-mobile-games-in-app-ad-spend/",
-      "originalUrl": "https://venturebeat.com/games/dataai-total-app-revenue-mobile-games-in-app-ad-spend/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/05/Data-AI-Ad-revenue-in-app-puchase-trends-2022.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 611,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/games/dataai-total-app-revenue-mobile-games-in-app-ad-spend/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/dataai-total-app-revenue-mobile-games-in-app-ad-spend/amp/",
-      "publishedDateTime": "2023-05-16T16:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

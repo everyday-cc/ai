@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/calling-all-generative-ai-disruptors-of-t
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/calling-all-generative-ai-disruptors-of-the-enterprise-apply-now-to-present-at-transform-2023/amp/"
 type: article
 quality: 74
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -28,17 +28,6 @@ images:
     width: 800
     height: 533
     isCached: true
-
-related:
-  - title: "Generative AI’s future in the enterprise: To infinity and beyond"
-    excerpt: "Breathtaking generative AI models and applications like OpenAI’s GPT3 and ChatGPT are unleashing new possibilities across enterprises everywhere. But while wicked smart, they’re still learning and evolving — and causing an existential stir."
-    publishedDateTime: 2023-05-15T14:00:00Z
-    webUrl: "https://www.fastcompany.com/90896021/generative-ais-future-in-the-enterprise-to-infinity-and-beyond"
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 17
 
 secured: "d5i0AXxpdDyggXNy0F94ydXWd+RLUQqUdXL1f5Zuz1fhXSzB2KZAAIPTpx3jT9+O19YME/M/pHjOMuOQ3Wd3pIzRoSmEktZydcv2DyClNuqCUKcjwGtY0sEZBrgo/TrcwtB6lalWlbBr1B9m28OtzuZ3CFEIEZV6WVhK5eeGlm8uJ8IUCdv3wgRvVRMfFasGiUzCYAG/2qDTe2zm7z9njpm3RNkldsktJIy7tk9qicDZKyaYzd/bp+++po8+4kyaRn2JQATcdVXU0e1wG8iJ4lKEkTWWHCvj2wn/Rv6FREhAIJvKdfH5wBKIdbBUzw2OeiZI/+NljgbjR6btcLuqOXD9J9arg7/UTLRaONLewHvQ1Eqdtrnw6XdlcPzTLR6ALYg9r7nUHItXuVBSZJm3o7YTBRPEoLAneyXshF2HsCLqyaBxzZfMqJ+y/Vb3TqpAignHBlvQXIHDqQz1MACYOrPT2BvoriJp++a34w81iUHFDLs2kjKFmvg2CwzW1w76vlCAJewT0vZQprmvyceEYw==;UHMQPUAI2dVNPJj9AY3aRQ=="
 ---

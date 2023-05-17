@@ -9,7 +9,7 @@ ampWebUrl: "https://cointelegraph.com/news/tesla-robot-army-takes-a-walk/amp"
 cdnAmpWebUrl: "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/tesla-robot-army-takes-a-walk/amp"
 type: article
 quality: 91
-heat: 101
+heat: 102
 published: true
 
 provider:

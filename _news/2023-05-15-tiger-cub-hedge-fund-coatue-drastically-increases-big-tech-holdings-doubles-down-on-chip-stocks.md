@@ -7,7 +7,7 @@ originalUrl: "https://www.cnbc.com/2023/05/15/tiger-cub-hedge-fund-coatue-drasti
 webUrl: "https://www.cnbc.com/2023/05/15/tiger-cub-hedge-fund-coatue-drastically-increases-big-tech-holdings-doubles-down-on-chip-stocks.html"
 type: article
 quality: 56
-heat: 56
+heat: 66
 published: false
 
 provider:
@@ -27,6 +27,17 @@ images:
     width: 1920
     height: 1080
     isCached: true
+
+related:
+  - title: "Hedge Funds Are Doubling Down on Chip Stocks Like NVDA, AMD"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Source: Shutterstock If institutional investment is any indication, the boom"
+    publishedDateTime: 2023-05-17T18:34:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/hedge-funds-are-doubling-down-on-chip-stocks-like-nvda-amd-1032335889"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
 
 secured: "EqKq9E15vBwah2JUz3R41qkOGyWmH0uVZzr2ZtN2Nd6/+vyO84szWaRL3BQMUpQI+wxUxXTtWhmlsxVEs7PA4FMruxzwSwxdxxXqQGxhxsv4vNmTh7M672OoaikWQoxYWqfFpJ3qasX5SDgsEoefYr/ASm4zrreiHVf4tqpbeX1eBbnO8v3Q8kuoBTLZgD7dbHUgl4X6V6aaDfHg0yxnyVfVAeB9R/xeGVVwRXAI1hmSz7v1tGk8x0xAcy/XqZyu9gbPSLl14AMNUgk7BlH1Y0/J4IBi4kvdoE8/sbF1rbCYGfc1QuRvFCO9p5EvUXH4nF5Q2lOo8qnbwTILDrer7pIJ13CQv3I6Xy9l54xZfnKaGNpoSwMbTdHGtk/uJ+302iVmLTT2mrc1eMTM15S0kXSsRMb6wLCb7yS96See7TSP0i7ji/V2I26/inijnwEd+e9VkY79FFa9GNgY40qa9DOf8NkqGuNYU0TpwVB6ntDotIeu040gmj2odK+4byL0kxt491oOelGFtOESHscC8Q==;mK1H+tsT5Sdq/6u5CYzhQA=="
 ---

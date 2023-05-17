@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/644c371289d9c9fdb20d157b/0x0.jpg?format=jpg&width=1200"

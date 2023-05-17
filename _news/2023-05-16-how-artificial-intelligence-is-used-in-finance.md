@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/stock-market/market-sectors/informa
 webUrl: "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/ai-in-finance/"
 type: article
 quality: 86
-heat: 106
+heat: 116
 published: true
 
 provider:
@@ -30,6 +30,17 @@ images:
     isCached: true
 
 related:
+  - title: "How Common is Common Sense in AI, and Why Should We Care?"
+    excerpt: "Even JPMorgan CEO Jamie Dimon recently acknowledged the benefits of AI, calling the technology \"extraordinary and groundbreaking.” JPMorgan is now working on more than 300 AI use cases, and Dimon revealed that the bank has spent over $2 billion building cloud-based data centers and is working to modernize a significant portion of its applications to run in both their public and private cloud environments."
+    publishedDateTime: 2023-05-17T17:50:00Z
+    webUrl: "https://www.nasdaq.com/articles/how-common-is-common-sense-in-ai-and-why-should-we-care"
+    ampWebUrl: "https://www.nasdaq.com/articles/how-common-is-common-sense-in-ai-and-why-should-we-care?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/how-common-is-common-sense-in-ai-and-why-should-we-care?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 69
   - title: "How AI Will Change the Workplace"
     excerpt: "We asked some top thinkers from different fields to weigh in on what’s ahead, as the AI explosion compels businesses to rethink, well, almost everything."
     publishedDateTime: 2023-05-14T14:00:00Z

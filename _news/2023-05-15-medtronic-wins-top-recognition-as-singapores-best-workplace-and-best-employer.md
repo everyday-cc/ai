@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Singapore hopes artificial intelligence will help boost its tourism industry"
+    excerpt: "As the city-state looks to salvage its battered tourism industry — which contributes around 4% to its economy — it's hoped that artificial intelligence can help the sector bring back visitors ..."
+    publishedDateTime: 2023-05-15T17:06:00Z
+    webUrl: "https://www.cnbc.com/2020/09/24/singapore-looks-to-artificial-intelligence-ai-to-boost-tourism.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2020/09/24/singapore-looks-to-artificial-intelligence-ai-to-boost-tourism.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/09/24/singapore-looks-to-artificial-intelligence-ai-to-boost-tourism.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 86
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106706240-1600338869741-gettyimages-1136947347-nik_1761-----gi--19mar19.jpeg?v=1600339088"
+        width: 5568
+        height: 3712
+        isCached: true
   - title: "Wisma Atria Bank is A Trusted and Innovative Financial Institution in Singapore"
     excerpt: "Wisma Atria Bank is a leading financial institution based in Singapore that provides a wide range of banking and financial services. Established in 1979, the bank has become one of the most respected and trusted banks in Asia."
     publishedDateTime: 2023-05-13T09:10:00Z

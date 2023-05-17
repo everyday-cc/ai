@@ -2,6 +2,103 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-05-02-ai-pioneer-quits-google-to-warn-about-the-technologys-dangers.md",
+      "title": "AI pioneer quits Google to warn about the technology’s ‘dangers’",
+      "excerpt": "Hinton’s pioneering work on neural networks shaped artificial intelligence systems powering many of today’s products. He worked part-time at Google for a decade on the tech giant’s AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2023/05/01/tech/geoffrey-hinton-leaves-google-ai-fears/index.html",
+      "originalUrl": "https://www.cnn.com/2023/05/01/tech/geoffrey-hinton-leaves-google-ai-fears/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/230501094028-geoffrey-hinton-file-restricted-090519-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2023/05/01/tech/geoffrey-hinton-leaves-google-ai-fears/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/05/01/tech/geoffrey-hinton-leaves-google-ai-fears/index.html",
+      "publishedDateTime": "2023-05-01T19:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-02-artificial-intelligence-pioneer-leaves-google-and-warns-about-technologys-future.md",
+      "title": "Artificial intelligence pioneer leaves Google and warns about technology's future",
+      "excerpt": "Geoffrey Hinton, a trailblazer in AI, has joined the growing list of experts sharing their concerns about its rapid advancement.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/tech/tech-news/artificial-intelligence-pioneer-leaves-google-warns-technologys-future-rcna82242",
+      "originalUrl": "https://www.nbcnews.com/tech/tech-news/artificial-intelligence-pioneer-leaves-google-warns-technologys-future-rcna82242",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 208,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-05/230501-Geoffrey-Hinton-al-1228-2c82cf.jpg",
+          "width": 2500,
+          "height": 1664,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna82242",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna82242",
+      "publishedDateTime": "2023-05-01T17:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Machine Learning",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2023-05-02-deep-neural-network-provides-robust-detection-of-disease-biomarkers-in-real-time.md",
       "title": "Deep neural network provides robust detection of disease biomarkers in real time",
       "excerpt": "The deep neural network he developed classifies particle ... a relatively cheap edge device for accelerated execution of artificial intelligence algorithms. This means the system also requires ...",
@@ -146,8 +243,8 @@
       "title": "Mosaic Data Science has been named the Top AI & Machine Learning Services Company of 2023 By CIO Review",
       "excerpt": "Mosaic is thrilled to be recognized as a leader in the Artificial Intelligence & Machine Learning space ... such as professional and financial services, retail, manufacturing, CPG, and oil ...",
       "sourceUrl": null,
-      "webUrl": "https://www.miamiherald.com/press-releases/article274911516.html",
-      "originalUrl": "https://www.miamiherald.com/press-releases/article274911516.html",
+      "webUrl": "https://www.sacbee.com/press-releases/article274911516.html",
+      "originalUrl": "https://www.sacbee.com/press-releases/article274911516.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -157,11 +254,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-01T06:50:00-07:00",
+      "publishedDateTime": "2023-05-01T06:32:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Miami Herald",
-        "domain": "miamiherald.com",
+        "name": "Sacramento Bee",
+        "domain": "sacbee.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -831,33 +928,24 @@
     {
       "path": "_news/2023-04-27-benchmarking-deep-learning-methods-for-more-accurate-plant-phenotyping.md",
       "title": "Benchmarking deep-learning methods for more accurate plant-phenotyping",
-      "excerpt": "Among these are imaging-based techniques which capture photographs, extract features using machine learning tools, and compare the results with available databases, performing phenotyping tasks in ...",
+      "excerpt": "This imposes a certain bottleneck on crop-breeding programs. Currently, most machine learning approaches adhere to the supervised learning framework with labeled datasets, which can be costly and ...",
       "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/987061",
-      "originalUrl": "https://www.eurekalert.org/news-releases/987061",
+      "webUrl": "https://phys.org/news/2023-04-benchmarking-deep-learning-methods-accurate-plant-phenotyping.html",
+      "originalUrl": "https://phys.org/news/2023-04-benchmarking-deep-learning-methods-accurate-plant-phenotyping.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/4d340a3c-652c-47e7-8b8f-cb784d0abe9f/Rendition/thumbnail/Content/Public",
-          "width": 300,
-          "height": 259,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-26T13:51:00-07:00",
+      "publishedDateTime": "2023-04-26T11:54:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
+        "name": "Phys.org",
+        "domain": "phys.org",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1309,93 +1397,6 @@
         "Machine Learning",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-04-24-deep-instinct-announces-strategic-partnership-with-esentire.md",
-      "title": "Deep Instinct Announces Strategic Partnership with eSentire",
-      "excerpt": "Deep Instinct, the first cybersecurity company that stops unknown malware pre-execution with a purpose-built, AI-based deep learning (DL) framework, today announced a new partnership with eSentire, a leader in Managed Detection and Response (MDR) cybersecurity services.",
-      "sourceUrl": null,
-      "webUrl": "https://www.joplinglobe.com/region/national_business/deep-instinct-announces-strategic-partnership-with-esentire/article_cde74693-495c-5406-8783-5513f943b639.html",
-      "originalUrl": "https://www.joplinglobe.com/region/national_business/deep-instinct-announces-strategic-partnership-with-esentire/article_cde74693-495c-5406-8783-5513f943b639.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.cnhionline.com/ksherman/images/575801-RTJ-Masters-Package-300x250.gif",
-          "width": 300,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-24T06:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Joplin Globe",
-        "domain": "joplinglobe.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-24-wallarooai-partners-with-vmware-on-machine-learning-at-the-edge.md",
-      "title": "Wallaroo.ai partners with VMware on machine learning at the edge",
-      "excerpt": "Machine learning startup Wallaroo Labs Inc., better known as Wallaroo.ai, said today it’s partnering with the virtualization software giant VMware Inc. to create a unified edge machine learning and artificial intelligence deployment and operations platform that’s aimed at communications service providers.",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2023/04/24/wallaroo-ai-partners-vmware-machine-learning-edge/",
-      "originalUrl": "https://siliconangle.com/2023/04/24/wallaroo-ai-partners-vmware-machine-learning-edge/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/04/Wallaroo.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-24T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

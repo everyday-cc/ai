@@ -7,7 +7,7 @@ originalUrl: "https://www.bignewsnetwork.com/news/273830201/wisma-atria-bank-is-
 webUrl: "https://www.bignewsnetwork.com/news/273830201/wisma-atria-bank-is-a-trusted-and-innovative-financial-institution-in-singapore"
 type: article
 quality: 35
-heat: 35
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Singapore hopes artificial intelligence will help boost its tourism industry"
+    excerpt: "As the city-state looks to salvage its battered tourism industry — which contributes around 4% to its economy — it's hoped that artificial intelligence can help the sector bring back visitors ..."
+    publishedDateTime: 2023-05-15T17:06:00Z
+    webUrl: "https://www.cnbc.com/2020/09/24/singapore-looks-to-artificial-intelligence-ai-to-boost-tourism.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2020/09/24/singapore-looks-to-artificial-intelligence-ai-to-boost-tourism.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/09/24/singapore-looks-to-artificial-intelligence-ai-to-boost-tourism.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 86
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106706240-1600338869741-gettyimages-1136947347-nik_1761-----gi--19mar19.jpeg?v=1600339088"
+        width: 5568
+        height: 3712
+        isCached: true
   - title: "Medtronic Wins Top Recognition as Singapore’s Best Workplace and Best Employer"
     excerpt: "SINGAPORE - Media OutReach - 15 May 2023 - Medtronic has received the top accolades recognizing the best workplace culture and people practices: Ranked first in the Singapore's Best Workplaces™ in"
     publishedDateTime: 2023-05-15T02:00:00Z

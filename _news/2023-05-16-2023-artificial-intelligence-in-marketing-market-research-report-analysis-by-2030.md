@@ -127,20 +127,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Automotive Artificial Intelligence(AI) Market Till 2030"
-    excerpt: "The Global Automotive Artificial Intelligence(AI) market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players,"
-    publishedDateTime: 2023-05-13T05:16:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligenceai-market-till-2030-2023-05-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 82
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "AI Accelerator Chip Market Inputs Increasing Market Growth for Coming Years 2023-2030"
     excerpt: "Latest Report of AI Accelerator Chip Market 2023 Market Analysis and Insights:Global AI Accelerator Chip Market Market Analysis and Insights: Global and United States AI Accelerator Chip Market This report focuses on global and United States AI Accelerator Chip market,"
     publishedDateTime: 2023-05-16T11:49:00Z

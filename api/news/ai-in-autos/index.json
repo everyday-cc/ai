@@ -10,7 +10,7 @@
       "originalUrl": "https://cointelegraph.com/news/tesla-robot-army-takes-a-walk",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 102,
       "tags": null,
       "images": [
         {
@@ -106,7 +106,7 @@
       "originalUrl": "https://www.forbes.com/sites/anafaguy/2023/05/16/ex-apple-employee-stole-self-driving-car-tech-for-chinese-competitor-doj-alleges/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 149,
+      "heat": 159,
       "tags": null,
       "images": [
         {
@@ -255,7 +255,7 @@
       "originalUrl": "https://www.nbcnews.com/now/video/world-s-first-self-driving-bus-rolls-out-in-scotland-174465605630",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -333,6 +333,58 @@
       ]
     },
     {
+      "path": "_news/2023-05-16-singapore-hopes-artificial-intelligence-will-help-boost-its-tourism-industry.md",
+      "title": "Singapore hopes artificial intelligence will help boost its tourism industry",
+      "excerpt": "As the city-state looks to salvage its battered tourism industry — which contributes around 4% to its economy — it's hoped that artificial intelligence can help the sector bring back visitors ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2020/09/24/singapore-looks-to-artificial-intelligence-ai-to-boost-tourism.html",
+      "originalUrl": "https://www.cnbc.com/2020/09/24/singapore-looks-to-artificial-intelligence-ai-to-boost-tourism.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106706240-1600338869741-gettyimages-1136947347-nik_1761-----gi--19mar19.jpeg?v=1600339088",
+          "width": 5568,
+          "height": 3712,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/09/24/singapore-looks-to-artificial-intelligence-ai-to-boost-tourism.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/09/24/singapore-looks-to-artificial-intelligence-ai-to-boost-tourism.html",
+      "publishedDateTime": "2023-05-15T10:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-15-self-driving-wheelchair-market-size-investigation-report-2023-2030-by-absolute-reports-in-healthcare-medical-devices-industry-with-104-pages.md",
       "title": "Self Driving Wheelchair Market Size Investigation Report 2023-2030 by Absolute Reports in Healthcare , Medical Devices Industry | with [104 Pages]",
       "excerpt": "May 15, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry. The Global \"Self Driving Wheelchair",
@@ -394,7 +446,7 @@
       "originalUrl": "https://www.foxnews.com/tech/what-dangers-find-out-why-people-afraid-artificial-intelligence",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 159,
       "tags": null,
       "images": [
         {
@@ -447,7 +499,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/self-driving-or-driverless-cars-market-upto-2030-2023-05-14",
       "featuredContent": null,
       "highlight": null,
-      "heat": 139,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -987,6 +1039,40 @@
       ]
     },
     {
+      "path": "_news/2023-05-10-tesla-gears-up-to-offer-free-ai-powered-self-driving-trial-time-to-buy-the-stock.md",
+      "title": "Tesla Gears Up to Offer Free AI-Powered Self-Driving Trial: Time to Buy the Stock?",
+      "excerpt": "stating that his electric vehicle company would be offering a free trial of its full-self-driving (FSD) service powered by artificial intelligence (AI) for all of its automobiles in North America.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/tesla-gears-up-to-offer-free-ai-powered-self-driving-trial:-time-to-buy-the-stock",
+      "originalUrl": "https://www.nasdaq.com/articles/tesla-gears-up-to-offer-free-ai-powered-self-driving-trial:-time-to-buy-the-stock",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-10T03:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-10-global-artificial-intelligence-robotics-market-2023-2030-understanding-the-impact-of-trend-and-technology.md",
       "title": "Global Artificial Intelligence Robotics Market [2023-2030] | Understanding the Impact of Trend and Technology",
       "excerpt": "Global “Artificial Intelligence Robotics Market” (2023-2030) research report provides key analysis on the market status",
@@ -1386,110 +1472,6 @@
         "AI",
         "AI in Autos",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-05-05-self-driving-driverless-cars-market-2023-analysis-by-2029-tesla-bmw-daimler.md",
-      "title": "Self-Driving & Driverless Cars Market 2023 Analysis by 2029 – Tesla, BMW, Daimler",
-      "excerpt": "A new market research report added to source of Market Intelligence Data is an in-depth analysis of Self-Driving & Driverless Cars Market. This research reports provides insights on current and future industry trends,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/self-driving-driverless-cars-market-2023-analysis-by-2029-tesla-bmw-daimler-2023-05-05",
-      "originalUrl": "https://www.marketwatch.com/press-release/self-driving-driverless-cars-market-2023-analysis-by-2029-tesla-bmw-daimler-2023-05-05",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-04T22:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-05-top-10-artificial-intelligence-ai-cryptocurrencies.md",
-      "title": "Top 10 Artificial Intelligence (AI) Cryptocurrencies",
-      "excerpt": "Editorial Note: Forbes Advisor may earn a commission on sales made from partner links on this page, but that doesn't affect our editors' opinions or evaluations. It’s hard to imagine two ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/advisor/in/investing/cryptocurrency/top-10-artificial-intelligence-ai-cryptocurrencies/",
-      "originalUrl": "https://www.forbes.com/advisor/in/investing/cryptocurrency/top-10-artificial-intelligence-ai-cryptocurrencies/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/x/https://www.forbes.com/advisor/in/wp-content/uploads/2023/03/pexels-tara-winstead-8386440-1-scaled.jpg",
-          "width": 2560,
-          "height": 1440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-04T10:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

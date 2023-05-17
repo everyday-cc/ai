@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/self-driving-or-driverle
 webUrl: "https://www.marketwatch.com/press-release/self-driving-or-driverless-cars-market-upto-2030-2023-05-14"
 type: article
 quality: 69
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facial Recognition Access Control Solutions Market Upto 2030"
-    excerpt: "Research Reports has published a new report titled as \"Facial Recognition Access Control Solutions Market\" by End"
-    publishedDateTime: 2023-05-17T02:33:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-access-control-solutions-market-upto-2030-2023-05-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Automotive Self-driving Chip Market Share, Size, Financial Summaries Analysis from 2023 to 2028"
     excerpt: "Automotive Self-driving Chip report is a comprehensive analysis of the market, covering various components such"
     publishedDateTime: 2023-05-17T03:59:00Z
@@ -52,6 +38,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 59
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Self-driving Cars Market in 2023: Insights and Strategies | 2031"
+    excerpt: "New “Self-driving Cars Market” Report 2023 by Manufacturers and Forecast to 2031: Get the latest insights into"
+    publishedDateTime: 2023-05-15T04:45:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-cars-market-in-2023-insights-and-strategies-2031-2023-05-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -70,20 +70,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "UK to roll out first driverless bus service"
-    excerpt: "The UK will roll out its first driverless bus network in Scotland next week with drivers on standby behind the steering wheel, ready to take control should an emergency arise. The service,"
-    publishedDateTime: 2023-05-13T03:28:00Z
-    webUrl: "https://technology.inquirer.net/124026/uk-to-roll-out-first-driverless-bus-service"
-    type: article
-    provider:
-      name: Philippine Daily Inquirer
-      domain: inquirer.net
-    quality: 39
-    images:
-      - url: "https://technology.inquirer.net/files/2023/05/Driver_Stuart_Doidge_monitors_an_autonomous_bus_as_it_drives_across_the_Forth_Road_Bridge_between_Edinburgh_and_Fife_during_a_press_preview_for_the_CAV_Forth_a_bvXSMR84YoEl-620x413.jpg"
-        width: 620
-        height: 413
         isCached: true
   - title: "How Google's Self-Driving Car Will Change Everything"
     excerpt: "The hype around driverless cars has grown rapidly over ... computer-processing capabilities and sophisticated artificial intelligence systems are becoming more advanced and more affordable every ..."

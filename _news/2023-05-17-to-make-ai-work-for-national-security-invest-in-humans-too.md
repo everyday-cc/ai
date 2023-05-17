@@ -9,7 +9,7 @@ ampWebUrl: "https://thebulletin.org/2023/05/to-make-ai-work-for-national-securit
 cdnAmpWebUrl: "https://thebulletin-org.cdn.ampproject.org/c/s/thebulletin.org/2023/05/to-make-ai-work-for-national-security-invest-in-humans-too/amp/"
 type: article
 quality: 76
-heat: 86
+heat: 96
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "How to invest in artificial intelligence"
+    excerpt: "But there is one area in which the firm, run by Son Masayoshi, its charismatic founder, wants to peek above the parapet: investments in artificial intelligence (ai). Investors face two questions. The first is which frontier technologies will make market leaders a fortune."
+    publishedDateTime: 2023-05-17T16:30:00Z
+    webUrl: "https://www.economist.com/finance-and-economics/2023/05/17/how-to-invest-in-artificial-intelligence"
+    type: article
+    provider:
+      name: The Economist
+      domain: economist.com
+    quality: 37
+    images:
+      - url: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20230520_FNP502.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Lawmakers look for ways to regulate artificial intelligence"
     excerpt: "CNBC’s Andrew Ross Sorkin joins TODAY and talks about what the future of AI could look like in the United States and how it could impact lives. “The train is leaving the station and the question is what kind of guardrails can you put around it,"
     publishedDateTime: 2023-05-16T12:27:00Z

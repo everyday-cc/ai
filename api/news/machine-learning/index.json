@@ -45,7 +45,7 @@
       "originalUrl": "https://thebulletin.org/2023/05/to-make-ai-work-for-national-security-invest-in-humans-too/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 96,
       "tags": null,
       "images": [
         {
@@ -186,7 +186,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/2023-deep-learning-market-price-news-with-size-forecast-2030-2023-05-15",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -386,6 +386,58 @@
       ]
     },
     {
+      "path": "_news/2023-05-14-machine-learning-recommendation-algorithm-market.md",
+      "title": "Machine Learning Recommendation Algorithm Market",
+      "excerpt": "Research Reports has published a new report titled as \"Machine Learning Recommendation Algorithm Market\" by End",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-recommendation-algorithm-market-2023-05-13",
+      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-recommendation-algorithm-market-2023-05-13",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-13T10:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-13-deep-learning-in-ct-scanners-market-2030.md",
       "title": "Deep Learning in CT Scanners Market | 2030",
       "excerpt": "Precision Reports has published a new report titled as \" Deep Learning in CT Scanners Market \" by End User ( Hospital, Diagnostic Center, Research, Veterinary Clinic ), Types ( Stationary, Portable ),",
@@ -542,9 +594,9 @@
       ]
     },
     {
-      "path": "_news/2023-05-12-automated-machine-learning-automl-market-worth-64-billion-by-2028-exclusive-report-by-marketsandmarkets.md",
+      "path": "_news/2023-05-13-automated-machine-learning-automl-market-worth-64-billion-by-2028-exclusive-report-by-marketsandmarkets.md",
       "title": "Automated Machine Learning (AutoML) Market worth $6.4 billion by 2028 - Exclusive Report by MarketsandMarkets",
-      "excerpt": "The market for automated machine learning (AutoML) appears to have a bright future thanks to rising acceptance, technological breakthroughs, integration",
+      "excerpt": "CHICAGO, May 12, 2023 /PRNewswire/ -- The market for automated machine learning (AutoML) appears to have a bright future thanks to rising acceptance, technological breakthroughs, integration with ...",
       "sourceUrl": null,
       "webUrl": "https://www.finanznachrichten.de/nachrichten-2023-05/59077549-automated-machine-learning-automl-market-worth-dollar-6-4-billion-by-2028-exclusive-report-by-marketsandmarkets-008.htm",
       "originalUrl": "https://www.finanznachrichten.de/nachrichten-2023-05/59077549-automated-machine-learning-automl-market-worth-dollar-6-4-billion-by-2028-exclusive-report-by-marketsandmarkets-008.htm",
@@ -557,11 +609,45 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-12T09:10:00-07:00",
+      "publishedDateTime": "2023-05-12T11:06:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Finanznachrichten",
         "domain": "finanznachrichten.de",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-12-automated-machine-learning-automl-market-worth-64-billion-by-2028-exclusive-report-by-marketsandmarkets.md",
+      "title": "Automated Machine Learning (AutoML) Market worth $6.4 billion by 2028 - Exclusive Report by MarketsandMarkets™",
+      "excerpt": "CHICAGO, May 12, 2023 /PRNewswire/ -- The market for automated machine learning (AutoML) appears to have a bright future thanks to rising acceptance, technological breakthroughs, integration with ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/05/n32367832/automated-machine-learning-automl-market-worth-6-4-billion-by-2028-exclusive-report-by-marketsandm",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/05/n32367832/automated-machine-learning-automl-market-worth-6-4-billion-by-2028-exclusive-report-by-marketsandm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/32367832",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32367832",
+      "publishedDateTime": "2023-05-12T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1343,92 +1429,6 @@
       "provider": {
         "name": "Automation World",
         "domain": "automationworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-09-ai-machine-learning-openlayer-finalizes-48m-seed-round.md",
-      "title": "AI, Machine Learning: Openlayer Finalizes $4.8M Seed Round",
-      "excerpt": "Openlayer, which claims to be the creator of the most comprehensive platform for testing AI, announced that it has closed a $4.8M seed round.",
-      "sourceUrl": null,
-      "webUrl": "https://www.crowdfundinsider.com/2023/05/206771-ai-machine-learning-openlayer-finalizes-4-8m-seed-round/",
-      "originalUrl": "https://www.crowdfundinsider.com/2023/05/206771-ai-machine-learning-openlayer-finalizes-4-8m-seed-round/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2018/12/US-Dollar-George-Washington-Money.jpg",
-          "width": 1280,
-          "height": 1047,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.crowdfundinsider.com/2023/05/206771-ai-machine-learning-openlayer-finalizes-4-8m-seed-round/amp/",
-      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/05/206771-ai-machine-learning-openlayer-finalizes-4-8m-seed-round/amp/",
-      "publishedDateTime": "2023-05-08T19:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crowdfund Insider",
-        "domain": "crowdfundinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-09-study-presents-large-brain-like-neural-networks-for-ai.md",
-      "title": "Study presents large brain-like neural networks for AI",
-      "excerpt": "In a new study in Nature Machine Intelligence, researchers Bojian Yin and Sander Bohté from the HBP partner Dutch National Research Institute for Mathematics and Computer Science (CWI) demonstrate a significant step towards artificial intelligence that can be used in local devices like smartphones and in VR-like applications,",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2023-05-large-brain-like-neural-networks-ai.html",
-      "originalUrl": "https://techxplore.com/news/2023-05-large-brain-like-neural-networks-ai.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/human-brain-project-st.jpg",
-          "width": 1345,
-          "height": 1105,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2023-05-large-brain-like-neural-networks-ai.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-05-large-brain-like-neural-networks-ai.amp",
-      "publishedDateTime": "2023-05-08T13:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
         "images": null,
         "publishers": null,
         "authors": null

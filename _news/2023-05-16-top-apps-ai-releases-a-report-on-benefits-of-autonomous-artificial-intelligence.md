@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/top-apps-ai-releases-a-r
 webUrl: "https://www.marketwatch.com/press-release/top-apps-ai-releases-a-report-on-benefits-of-autonomous-artificial-intelligence-2023-05-15"
 type: article
 quality: 80
-heat: 90
+heat: 100
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Taming AI to the benefit of humans"
+    excerpt: "Previous sci-fi movies featuring AI often portray evil-minded enemies set on destroying humanity, such as The Terminator, The Matrix and Blade Runner. Experts, including late British theoretical physicist Stephen Hawking and Tesla CEO Elon Musk,"
+    publishedDateTime: 2023-05-15T02:58:00Z
+    webUrl: "https://global.chinadaily.com.cn/a/202305/15/WS64619228a310b6054fad2f53.html"
+    type: article
+    provider:
+      name: 中国日报网
+      domain: chinadaily.com.cn
+    quality: 39
+    images:
+      - url: "https://img2.chinadaily.com.cn/images/202305/15/64619228a310b60580cce72b.jpeg"
+        width: 608
+        height: 405
         isCached: true
 
 secured: "kmVyB3VJriceb3+0gbkLxsA9qQr1Rgm8+2fAVeB8No7vSPxWq2qdPggiN6bjLaAx5bH5053M4K9+C+gq37sfq/DvUC9WccO010iJ4cVf0d+DfJCwgQR0/3FtRt8ekzn0DXSyYDYrwtdkUr7+BjvfZrj/oxud6y+fYCmVgSavJ7CXj5MCLfl1GIg7FLH3BmZMUJcUVqtZ1jqxZX5gQpFHOwebSNZOjmGlq1N2k9F+seNE7bdjhR5yzm/MpEFGrKY8ITmbMWmGtMGEMkKMmw/Sn4Gk2BYE2PwRyKRZTMKi/ZzLUMVGH/Vscq2DtTTQBNHAPyyBh0pwyUwaTXA+TAMdhQQLyiNcoTAmC8ce4Vyc06BD8VgXztNfJTBzUUEonhLMm83TaEIRttAA1vjnJjOsKCJcQz25nRM24971mfzmy2EuXagSCSi/YlRPOArQPoXs41EQ8SRWdA8OWXbKmJhMAbRbWPgdTjuiw9vNQjTTZixKThdThxzMe8+XKPTegv8GcObeTZNOdUVRrg5TFjoM+A==;CLadh4xJi0WperQg8doImQ=="

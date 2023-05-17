@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/servicenow-partners-with-nvidia-to-develo
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/servicenow-partners-with-nvidia-to-develop-super-specialized-generative-ai-for-enterprises/amp/"
 type: article
 quality: 76
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
         width: 4000
         height: 3000
         isCached: true
+  - title: "CLM Provider Evisort Announces Generative AI Integration, Partners With ServiceNow"
+    excerpt: "After joining the lineup of CLM companies leveraging generative AI solutions, Evisort also announced that it would be partnering with ServiceNow to offer its contracting capabilities to the organization's customer base."
+    publishedDateTime: 2023-05-17T21:07:00Z
+    webUrl: "https://www.law.com/legaltechnews/2023/05/17/clm-provider-evisort-announces-generative-ai-integration-partners-with-servicenow/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 33
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/01/Evisort-767x633.jpg"
+        width: 767
+        height: 633
+        isCached: true
   - title: "New AI tools headline ServiceNow’s latest platform update"
     excerpt: "They’re rolling out for ServiceNow’s namesake cloud platform, which helps companies manage the parts of their business that involve delivering a service. The platform streamlines tasks such as fielding technical support requests and onboarding new employees."
     publishedDateTime: 2023-05-16T18:11:00Z
@@ -56,6 +70,6 @@ related:
       domain: siliconangle.com
     quality: 19
 
-secured: "3Td8cGe2tNVI4zz3JQjyeU8Zsb2cb+6o7k6j0ysHFqUiWwMC0Ni9HvkErxqBUyDHMdwdRGz+MCwggYlH49oaqdIdznraxFO9QYmL8TIo2AxfkKx/DPEurJrb6fGpdgfgg5BL/cYAXIfPIfLWB1QpuRP7lRjhS/zXHARDUyNENM/dAXkof9d6Ls5ZcrJJMOPm9N9c0vQpQP/ACszzTrjSWEdXMxa2k1ZAMNe2Qq1eAbR1xxRsrmOrZlhLBfRNsVW8z2pVgQ9ABczIVgDGK4I4zeHA7267rKdEpBWsQMY24wpxlQqeDRiMLWOoc3ExV9PsJADHEUog5WH6YtOYSRSi/340XtRUV6yzNaDlfCG2kcI=;r1r9OkFqu52ixlNVpDTWpQ=="
+secured: "l20pN2zkP+rupwsuQLeMJCl6VVf3v8KBroLvMrf41j706bPefGlGdr58xDBbeiKxrnNuEGmerjYOmh2LBcKFhMCJmH1BVhKTOhA9fheyYir3nTVKXOSQQSlSaCw7jYJoA1PsrClzu08bdqfawAmLCBqUPr4DYC5u/8TwWOMi0V2767YAhjpr2cZI4dw16s9ZRFKX28ixSLKvQu1V2ke2vBLJGyOCLWIHZgF8q37HTFO7mJXeeiLWsA1lRWShNoYX9o+bL7ukrxgmWJslJb+YmJ7rR2ePN9z3c84+HL+xE42aabwPi+Q06aWgtx0ZZyNb0FvjKTFSP2Jl3upO5Oi1aQ7n01cP4xyMx7/O0IIXROIXNK3ocvnAUmDU61l+EeHqCCjPWRTmRZURnbfcpN3J/vM6aUlD/XOgH5u8D9W0WUyRwI/w4JMVyd8EK/2IDYCRr9Jw2u9/Jd+Xx8OqU/LMN4hNJutJk4Yh0FNNBu9ioCzYaEbujYmHSwKRpCgWCSDxO7Rs0c/4HQf22TTLh9cMJw==;hwL0PniwrK6Hbt7Bfhq68A=="
 ---
 

@@ -42,6 +42,17 @@ related:
         width: 600
         height: 400
         isCached: true
+  - title: "How Common is Common Sense in AI, and Why Should We Care?"
+    excerpt: "Even JPMorgan CEO Jamie Dimon recently acknowledged the benefits of AI, calling the technology \"extraordinary and groundbreaking.” JPMorgan is now working on more than 300 AI use cases, and Dimon revealed that the bank has spent over $2 billion building cloud-based data centers and is working to modernize a significant portion of its applications to run in both their public and private cloud environments."
+    publishedDateTime: 2023-05-17T17:50:00Z
+    webUrl: "https://www.nasdaq.com/articles/how-common-is-common-sense-in-ai-and-why-should-we-care"
+    ampWebUrl: "https://www.nasdaq.com/articles/how-common-is-common-sense-in-ai-and-why-should-we-care?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/how-common-is-common-sense-in-ai-and-why-should-we-care?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 69
   - title: "How AI might let us finally talk to animals"
     excerpt: "AI could finally let humans talk to animals thanks to large language models that are now working to decode animal languages."
     publishedDateTime: 2023-05-15T00:18:00Z
