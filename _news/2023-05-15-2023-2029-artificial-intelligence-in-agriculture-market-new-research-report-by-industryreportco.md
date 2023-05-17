@@ -126,6 +126,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Artificial Intelligence In Healthcare Service Market 2023-2030 by Size|Precisionreports.co"
+    excerpt: "May 16, 2023 (The Expresswire) -- \"Artificial Intelligence In Healthcare Service Market\" Reports recently released an executive data report that focuses"
+    publishedDateTime: 2023-05-16T18:49:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-healthcare-service-market-2023-2030-by-sizeprecisionreportsco-2023-05-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 71
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Latest Report: Global “Natural Language Processing (NLP) Market” Trends [2023-2030]| Examining Future Advancements and Regional Insights"
     excerpt: "[91 Pages Updated Report] The most recent \"Natural Language Processing (NLP) Market\" research report provides a comprehensive analysis of the main growth drivers, market size estimations, and forecasts. The report examines the current market scenarios ..."
     publishedDateTime: 2023-05-16T10:31:00Z

@@ -30,52 +30,116 @@ images:
     isCached: true
 
 related:
-  - title: "What are the dangers of AI? Find out why people are afraid of artificial intelligence"
-    excerpt: "Many experts worry that the rapid development of artificial intelligence may have unforeseen disastrous consequences for humanity. Machine learning technology is designed to assist humans in their ..."
-    publishedDateTime: 2023-05-15T08:24:00Z
-    webUrl: "https://www.foxnews.com/tech/what-dangers-find-out-why-people-afraid-artificial-intelligence"
-    ampWebUrl: "https://www.foxnews.com/tech/what-dangers-find-out-why-people-afraid-artificial-intelligence.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/what-dangers-find-out-why-people-afraid-artificial-intelligence.amp"
+  - title: "The case for a code of conduct for AI in healthcare"
+    excerpt: "The rise of generative AI has prompted an AI ethicist to propose a framework to mitigate the risks of using the ever-developing tech in the healthcare space. This coincides with the chief executive of ChatGPT’s OpenAI urging US legislators to start regulating AI for the safety of humanity."
+    publishedDateTime: 2023-05-17T07:07:00Z
+    webUrl: "https://newatlas.com/computers/case-code-of-conduct-ai-healthcare/"
+    ampWebUrl: "https://newatlas.com/computers/case-code-of-conduct-ai-healthcare/?amp=true"
+    cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/computers/case-code-of-conduct-ai-healthcare/?amp=true"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 99
+      name: New Atlas
+      domain: newatlas.com
+    quality: 106
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9173ff0e-731a-4938-8d98-838e96cab4aa/8c3c171d-0b0c-4650-a5c1-bb79bf268d11/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
+      - url: "https://assets.newatlas.com/dims4/default/4f3d9da/2147483647/strip/true/crop/2000x1333+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F14%2Fd0%2F9be4e9844471ab60db09eb3130d5%2Fdepositphotos-198133002-l.jpg"
         width: 1200
-        height: 675
+        height: 800
         isCached: true
-  - title: "Dangers of AI: What are the Artificial Intelligence threats and risks?"
-    excerpt: "Although AI has been hailed as revolutionary and a game-changer, it has drawbacks. In addition to planning for superintelligent computers, contemporary AI can bring problems. Let's take a look at some crucial AI-related risks."
-    publishedDateTime: 2023-05-14T15:08:00Z
-    webUrl: "https://www.moneycontrol.com/news/technology/dangers-of-ai-what-are-the-artificial-intelligence-threats-and-risks-10585221.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/technology/dangers-of-ai-what-are-the-artificial-intelligence-threats-and-risks-10585221.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/dangers-of-ai-what-are-the-artificial-intelligence-threats-and-risks-10585221.html/amp"
+  - title: "Catching bad content in the age of AI"
+    excerpt: "Why haven’t tech companies improved at content moderation? This article is from The Technocrat, MIT Technology Review's weekly tech policy newsletter about power, politics, and Silicon Valley. To receive it in your inbox every Friday,"
+    publishedDateTime: 2023-05-15T10:00:00Z
+    webUrl: "https://www.technologyreview.com/2023/05/15/1073019/catching-bad-content-in-the-age-of-ai/"
+    ampWebUrl: "https://www.technologyreview.com/2023/05/15/1073019/catching-bad-content-in-the-age-of-ai/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/05/15/1073019/catching-bad-content-in-the-age-of-ai/amp/"
     type: article
     provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 74
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 59
     images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2023/05/AI-2.jpg"
-        width: 1280
-        height: 720
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/05/hi-wire-netA.jpeg?w=3000"
+        width: 3000
+        height: 1688
         isCached: true
-  - title: "Are we ready for mental health AI?"
-    excerpt: "I have encountered mental health chatbots and apps before and it was clear that technology still had a long way to go before it can provide the same nuanced benefit as a human therapist. ChatGPT and its other AI peers seem to hold potential to bridge that gap by providing a “human” experience to the conversation."
-    publishedDateTime: 2023-05-13T23:00:00Z
-    webUrl: "https://www.thestar.com.my/news/focus/2023/05/14/are-we-ready-for-mental-health-ai"
+  - title: "Dr. ChatGPT: A guide to generative AI in healthcare"
+    excerpt: "ChatGPT is a public-facing generative AI text application from OpenAI. OpenAI has developed other generative AI applications available for paying customers and is working with Microsoft, which made a reported $100 billion investment in the company. Other big tech firms such as Google and Meta have launched their own generative AI tools."
+    publishedDateTime: 2023-05-15T10:00:00Z
+    webUrl: "https://www.modernhealthcare.com/digital-health/chatgpt-healthcare-everything-to-know-generative-ai-artificial-intelligence"
     type: article
     provider:
-      name: The Star
-      domain: thestar.com.my
+      name: Modern Healthcare
+      domain: modernhealthcare.com
+    quality: 54
+    images:
+      - url: "https://www.modernhealthcare.com/s3/files/styles/1200x630/public/Chat-GPT-healthcare-2%20%281%29.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "WHO warns about healthcare AI bias"
+    excerpt: "WHO warns healthcare organizations about the potential bias and inaccuracy of AI-based models, and calls for clinical oversight to ensure safe, effective."
+    publishedDateTime: 2023-05-16T20:19:00Z
+    webUrl: "https://www.beckershospitalreview.com/innovation/who-warns-about-healthcare-ai-bias.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 54
+    images:
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "The First Year of AI College Ends in Ruin"
+    excerpt: "The problem breaks down into more problems: whether it’s possible to know for certain that a student used AI, what it even means to “use” AI for writing papers, and when that use amounts to cheating."
+    publishedDateTime: 2023-05-16T19:19:00Z
+    webUrl: "https://www.theatlantic.com/technology/archive/2023/05/chatbot-cheating-college-campuses/674073/"
+    type: article
+    provider:
+      name: The Atlantic
+      domain: theatlantic.com
+    quality: 47
+  - title: "Is AI the Solution to Company-Provided Mental Health Care?"
+    excerpt: "Woebot, a CBT-based chatbot created in 2017 by a team of Stanford psychologists and AI experts, fits the criteria. The app uses a form of AI called “natural language processing” to guide users through sequences of responses meant to mimic a clinician’s reasoning."
+    publishedDateTime: 2023-05-15T16:20:00Z
+    webUrl: "https://www.psychologytoday.com/intl/blog/connect-first/202305/is-ai-the-solution-to-company-provided-mental-health-care"
+    type: article
+    provider:
+      name: Psychology Today
+      domain: psychologytoday.com
     quality: 39
     images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2023/05/14/2071234.jpg"
-        width: 1240
-        height: 929
+      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_images/2023-05/Woebot%20Art.png.jpg?itok=5UOZhh-v"
+        width: 1528
+        height: 800
         isCached: true
+  - title: "General Catalyst leads $50M investment in healthcare AI company"
+    excerpt: "Hippocratic AI, which is building a generative AI large language model designed for healthcare, launched Tuesday."
+    publishedDateTime: 2023-05-16T13:00:00Z
+    webUrl: "https://www.modernhealthcare.com/digital-health/andreessen-horowitz-general-catalyst-fund-hippocratic-ai"
+    type: article
+    provider:
+      name: Modern Healthcare
+      domain: modernhealthcare.com
+    quality: 34
+  - title: "WHO calls for caution in using artificial intelligence for health"
+    excerpt: "The World Health Organisation has called for caution in using artificial intelligence-generated large language model tools to protect and promote human well-being, human safety, autonomy, and preserve public health."
+    publishedDateTime: 2023-05-16T08:28:00Z
+    webUrl: "https://punchng.com/who-calls-for-caution-in-using-artificial-intelligence-for-health/"
+    type: article
+    provider:
+      name: The Punch Newspapers
+      domain: punchng.com
+    quality: 19
+  - title: "UP RERA to use artificial intelligence for faster resolution of cases in e-Courts"
+    excerpt: "Read more about UP RERA to use artificial intelligence for faster resolution of cases in e-Courts on Devdiscourse"
+    publishedDateTime: 2023-05-16T12:46:00Z
+    webUrl: "https://www.devdiscourse.com/article/technology/2453755-up-rera-to-use-artificial-intelligence-for-faster-resolution-of-cases-in-e-courts"
+    type: article
+    provider:
+      name: devdiscourse
+      domain: devdiscourse.com
+    quality: 12
 
 secured: "YOcexW0TA5RkRY3EHpodeXUm6qxHGECm0kncc1wFJPUWhqrIRWO3cH+dY3PiKw6Nfv/nKB9PfDycQdWFC7FjAbCN3FpGLGc136nNlMmiR0PDvDtgRa1C660TTcgxgBd2NstuQH1rFwPMlMmUCry1OiuIKbWQxGEVh6wQ9kE/Cz6f3kJgbsw54tJ1YRrjpA4113m+SmcJEtXcqYL6tbQfZ0pMB37uhz1b2GZfRurn4ZJniqRpdyK0cOH2zzp6GrZAOtzGtvqy2evZHRJMMWHF6+TOz6ax7x6KRQrkWTQ1+y3o20MJwc8c5o1p+vNqHaPqU7OR++b+AIB5wZHK3d8x1yihkAr4XWdUPvuQmKZjQTRbiv25s7F1jnhiCa5P7e/9AOHnfoxQ0H7pDhNUgCqYobg6ngMIHlhBbVKXgvvQpliTol5AQG0D1x5NGngueZkcyVhzopX093beB9pbrvw+o8OLudZwo7kVtGB/1VHmfoaWsGA7gyUUVKSFX7dVbGbohsTQLQwKimgdoq4v0lyhJQ==;oLsVZxaZnNoqIT4C16WaaQ=="
 ---

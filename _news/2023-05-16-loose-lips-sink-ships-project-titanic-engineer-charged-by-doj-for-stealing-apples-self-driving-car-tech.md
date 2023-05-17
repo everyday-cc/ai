@@ -57,6 +57,22 @@ related:
         width: 1068
         height: 580
         isCached: true
+  - title: "Former Apple engineer charged for stealing self-driving tech for Chinese company"
+    excerpt: "Weibao Wang was a software engineer at Apple between 2016 and 2018 and served on the Annotation Team, granting him access to exclusive databases, which were restricted to a select few employees."
+    publishedDateTime: 2023-05-17T07:47:00Z
+    webUrl: "https://auto.hindustantimes.com/auto/cars/former-apple-engineer-charged-for-stealing-self-driving-tech-for-chinese-company-41684308954496.html"
+    ampWebUrl: "https://auto.hindustantimes.com/auto/cars/former-apple-engineer-charged-for-stealing-self-driving-tech-for-chinese-company/amp-41684308954496.html"
+    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/cars/former-apple-engineer-charged-for-stealing-self-driving-tech-for-chinese-company/amp-41684308954496.html"
+    type: article
+    provider:
+      name: Auto News India
+      domain: hindustantimes.com
+    quality: 39
+    images:
+      - url: "https://images.hindustantimes.com/auto/img/2023/05/17/1600x900/Apple_Logo_1684309462976_1684309465807.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Former Apple employee charged in theft of self-driving car trade secrets"
     excerpt: "Wang signed a letter accepting an offer of full-time employment as a staff engineer with the U.S.-based subsidiary of another company that was headquartered in the People's Republic of China and was working to develop self-driving cars,\" the Justice ..."
     publishedDateTime: 2023-05-16T19:44:00Z

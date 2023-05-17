@@ -25,48 +25,47 @@ images:
     isCached: true
 
 related:
-  - title: "Self-driving cars are being put on a data diet"
-    excerpt: "We could take all the data the cars have seen over time, the hundreds of thousands of pedestrians, cyclists, and vehicles, [and] take from that a model of how we expect them to move,” said Chris Urmson,"
-    publishedDateTime: 2023-05-12T13:23:00Z
-    webUrl: "https://arstechnica.com/cars/2023/05/self-driving-cars-being-put-on-a-data-diet/"
-    ampWebUrl: "https://arstechnica.com/cars/2023/05/self-driving-cars-being-put-on-a-data-diet/amp/"
-    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/cars/2023/05/self-driving-cars-being-put-on-a-data-diet/amp/"
+  - title: "Self-Driving or Driverless Cars Market upto 2030"
+    excerpt: "The Global Self-Driving or Driverless Cars market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players,"
+    publishedDateTime: 2023-05-15T01:53:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-or-driverless-cars-market-upto-2030-2023-05-14"
     type: article
     provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 74
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
     images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2014/01/Google-Lexus-car-640x362.jpg"
-        width: 640
-        height: 362
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Self-driving cars being put on a data diet"
-    excerpt: "Data that had no clear use was deleted, like recordings of failed driverless maneuvers. “If we treated storage as infinite, the costs would be astronomical,” Chatham says. After Waymo became an independent company with significant outside investment,"
-    publishedDateTime: 2023-05-12T13:23:00Z
-    webUrl: "https://arstechnica.com/cars/2023/05/self-driving-cars-being-put-on-a-data-diet/2/"
-    ampWebUrl: "https://arstechnica.com/cars/2023/05/self-driving-cars-being-put-on-a-data-diet/2/amp/"
-    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/cars/2023/05/self-driving-cars-being-put-on-a-data-diet/2/amp/"
+  - title: "Britain to roll out first driverless bus service"
+    excerpt: "The service, which aims to carry 10,000 passengers a week over a 22.5-kilometre route on five single-deck buses, will be the world's first automated local bus service, its operator said."
+    publishedDateTime: 2023-05-12T18:48:00Z
+    webUrl: "https://www.gulftoday.ae/news/2023/05/12/britain-to-roll-out-first-driverless-bus-service"
     type: article
     provider:
-      name: Ars Technica
-      domain: arstechnica.com
+      name: gulftoday
+      domain: gulftoday.ae
     quality: 54
-  - title: "My week navigating the awkward teenage years of self-driving cars"
-    excerpt: "Pedestrians and human motorists in San Francisco are learning to interact with ‘robot drivers’. Here’s how my experience went"
-    publishedDateTime: 2023-05-13T09:01:00Z
-    webUrl: "https://www.theguardian.com/us-news/2023/may/13/self-driving-cars-waymo-cruise-san-francisco"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2023/may/13/self-driving-cars-waymo-cruise-san-francisco"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2023/may/13/self-driving-cars-waymo-cruise-san-francisco"
+    images:
+      - url: "http://www.gulftoday.ae/-/media/gulf-today/images/articles/news/2023/5/12/driverless-buses.ashx?h=450&w=750&hash=DA420C0A40E730C30B1558286369EDC1"
+        width: 750
+        height: 450
+        isCached: true
+  - title: "UK to roll out first driverless bus service"
+    excerpt: "The UK will roll out its first driverless bus network in Scotland next week with drivers on standby behind the steering wheel, ready to take control should an emergency arise. The service,"
+    publishedDateTime: 2023-05-13T03:28:00Z
+    webUrl: "https://technology.inquirer.net/124026/uk-to-roll-out-first-driverless-bus-service"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 44
+      name: Philippine Daily Inquirer
+      domain: inquirer.net
+    quality: 39
     images:
-      - url: "https://i.guim.co.uk/img/media/9750c38b8398a3c158f98dfcf9648ca8e12f8174/102_0_3300_1980/master/3300.jpg?width=620&quality=85&auto=format&fit=max&s=e3d10e627bcf807b650606318f5e9b62"
+      - url: "https://technology.inquirer.net/files/2023/05/Driver_Stuart_Doidge_monitors_an_autonomous_bus_as_it_drives_across_the_Forth_Road_Bridge_between_Edinburgh_and_Fife_during_a_press_preview_for_the_CAV_Forth_a_bvXSMR84YoEl-620x413.jpg"
         width: 620
-        height: 372
+        height: 413
         isCached: true
   - title: "How Google's Self-Driving Car Will Change Everything"
     excerpt: "The hype around driverless cars has grown rapidly over ... computer-processing capabilities and sophisticated artificial intelligence systems are becoming more advanced and more affordable every ..."
@@ -82,6 +81,15 @@ related:
         width: 680
         height: 440
         isCached: true
+  - title: "Fugitive ex-Apple engineer charged for trying to steal self-driving car tech"
+    excerpt: "The Justice Department said Tuesday it has charged a former Apple engineer with attempting to steal the firm’s technology related to autonomous systems, including self-driving cars, and then fleeing to China. The case was among five announced on Tuesday ..."
+    publishedDateTime: 2023-05-16T18:36:00Z
+    webUrl: "https://nypost.com/2023/05/16/fugitive-ex-apple-engineer-charged-for-trying-to-steal-self-driving-car-tech/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 1
 
 secured: "Q6YWbAC4Y4TNK5xc40rIXOqMi6+DDog6uZmt+zA5pK5D/XofbsWhZS0P/qZUpyQfRHJp02fNsQ4Ox8G+mpEZ9AfCYGqZlYE5AE2eoh4F+GdO/eJtMveuTKEuAxv+bckbsdGTyyiQQevrA7yTICYqrFFv/LOIqdRE8/uVviPPjO/mSpl8c5HtgBaPWH92PlrAtw/RKgpxNYH9Z/UBt+QQoOZRLtznAV11AQViYw0eTZGIOT8uSpOcUcn2G2SX3UvAQWL2FA6yaJRd+Gk13Lt4P+pd6T3qTei8f7Xqf2/yYNJupwC6xpNICi8IfLweYmg1uubtnVtdHceLYu+omhvv+8AR7tmY+8loKbuVnaGAuE2hPdhWzXdELwNCBuulFP2LH1OkL3bRu9bg9/yVXoZwCNsq3nNKd8sfOrAP/JEeAh+ir4gx3xUm2nTu193m7qKkzlPWYfd6EmKrUebXXqSJpJhQ8Rz72jmLlkS9hSw7MiZ97AG2wRP8FnvRhFa80LuCCdq62gRg1La008+BHc82Wg==;ZXRHEIK4aoTu4XJHVOxPvQ=="
 ---

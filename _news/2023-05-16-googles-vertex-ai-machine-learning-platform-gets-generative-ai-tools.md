@@ -40,22 +40,6 @@ related:
         width: 1200
         height: 798
         isCached: true
-  - title: "Law firms are experimenting with artificial intelligence tools"
-    excerpt: "Big law firms, known for their grueling hours and workloads, are experimenting with artificial intelligence tools that can handle the drudgery typically delegated to entry-level lawyers and simplify complex work that bogs down even top firm leaders,"
-    publishedDateTime: 2023-05-12T14:49:00Z
-    webUrl: "https://www.businessreport.com/business/law-firms-are-experimenting-with-artificial-intelligence-tools"
-    ampWebUrl: "https://www.businessreport.com/business/law-firms-are-experimenting-with-artificial-intelligence-tools?amp=1"
-    cdnAmpWebUrl: "https://www-businessreport-com.cdn.ampproject.org/c/s/www.businessreport.com/business/law-firms-are-experimenting-with-artificial-intelligence-tools?amp=1"
-    type: article
-    provider:
-      name: Baton Rouge Business Report
-      domain: businessreport.com
-    quality: 59
-    images:
-      - url: "https://s25562.pcdn.co/wp-content/uploads/2019/12/lawsuit-court-law.png"
-        width: 1734
-        height: 1122
-        isCached: true
   - title: "Approaching artificial intelligence: How Purdue is leading the research and advancement of AI technologies"
     excerpt: "With the programs, research and expertise highlighted below, Purdue is guiding the advancement of artificial intelligence. If you have any questions about Purdue’s work in AI or would like to speak to a Purdue expert, contact Brian Huchel, bhuchel@purdue ..."
     publishedDateTime: 2023-05-15T14:16:00Z

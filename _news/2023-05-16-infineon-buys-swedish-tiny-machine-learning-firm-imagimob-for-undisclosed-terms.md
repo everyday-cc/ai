@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Infineon acquires Tiny Machine Learning"
+    excerpt: "Infineon Technologies has acquired the Stockholm-based startup Imagimob, a platform provider for Machine Learning solutions for edge devices."
+    publishedDateTime: 2023-05-17T07:55:00Z
+    webUrl: "https://www.newelectronics.co.uk/content/news/infineon-acquires-tiny-machine-learning"
+    type: article
+    provider:
+      name: New Electronics
+      domain: newelectronics.co.uk
+    quality: 39
+    images:
+      - url: "https://www.newelectronics.co.uk/media/5rib3u4n/imagimob.jpg?width=1200&height=630&mode=crop"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Infineon Acquires Tiny Machine Learning Leader Imagimob To Strengthen Its Offering In Embedded AI Solutions"
     excerpt: "With this acquisition Infineon advances its position to offer a world-class Machine Learning (ML) solution and significantly complements its AI offerings. Imagimob provides an end-to-end machine learning toolchain that is highly flexible and easy to use with a strong focus on delivering production-grade ML-models."
     publishedDateTime: 2023-05-16T11:20:00Z

@@ -1,18 +1,22 @@
 ---
 category: news
 title: "AI-Integration In Language Apps For ESL Learning: Tops Apps AI Releases Report"
-excerpt: "New report by established AI-integration App company Top Apps AI explains the impact of AI integration in educational technologies geared toward English as a Second Language (ESL) students.Vancouver,"
-publishedDateTime: 2023-05-17T05:01:00Z
-originalUrl: "https://www.asiaone.com/business/ai-integration-language-apps-esl-learning-tops-apps-ai-releases-report"
-webUrl: "https://www.asiaone.com/business/ai-integration-language-apps-esl-learning-tops-apps-ai-releases-report"
+excerpt: "New report by established AI-integration App company Top Apps AI explains the impact of AI integration in educational technologies geared"
+publishedDateTime: 2023-05-17T02:54:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/ai-integration-in-language-apps-for-esl-learning-tops-apps-ai-releases-report-1032333074"
+webUrl: "https://markets.businessinsider.com/news/stocks/ai-integration-in-language-apps-for-esl-learning-tops-apps-ai-releases-report-1032333074"
 type: article
-quality: 35
+quality: 65
 heat: -1
 published: false
 
 provider:
-  name: Asia One
-  domain: asiaone.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Natural Language Processing
@@ -40,6 +44,6 @@ related:
         height: 630
         isCached: true
 
-secured: "8oqfu6hxwcHJf45NMPJYN22DVJdESGKcebO9ETzvOFW7xzUASpiFMB8BZTWx7VqX2xeSBytOTn4Up0kS7DrQs9NDPIETiZ1PadFYANTOrmlkJmE0aqNorCXpcQF+NuHu6bpYuxPeXtHrVo2ad5dCIhJbSeli625AkSYwkyVf3zFFlyK6WVQxq0Vsm/OxzC919dc+Yn0CZURon+SXJTP842BzZup26s3AFm6tiWROor9PI42DH4oBPJpWgV+kBHJdd4Q7A2/6BZCWIec6jr+FN2u9ibNgnYC0zvwI4x8RITOyP4l3gwZo61Z6lalrLT7aoiucqXX6mmvrnLYAVgHoxPu9/yhgtyEQkunAz4YOffc=;GHxRItbqpFGwkzeZzzmhug=="
+secured: "0hzJlwfL8WN7MGbCk5GXAkye/BttLBl8jzTD4H3l8MbTHV+370dfOjRXkEAbRT88+k8NulYetZ8cNjbJREEoxf04Zv5sOGuPfD6T5gn+Hm0CKkK2O9U8T4TFrv/pn6pOUOGZy6wRjBgj6y5GDTAvh1F5GAmVTQQtbVnYrVO6LxqUrDFZSPPSKLvF0nKdAEghfnBwmcx8w20x8hOtAfF1obTOFDJW38K4tC5o0WlY9WJHXtaGNPQoosYaBAhLiP9SzMy+EWkXJ7gCVAaCYzKGDb4kcGN2X5HRpC6EkkdWNGRWms8oc0nWPjl43Mcj+cwsNJc8E4KZNGr6nFKMaEWvjDL0l+TdAxH4M56e/x+rSxc=;katLpf+k/fZ2rwKKJZTZWA=="
 ---
 

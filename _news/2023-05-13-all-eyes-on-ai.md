@@ -19,35 +19,47 @@ topics:
   - AI
 
 related:
-  - title: "How Businesses Can Ethically Embrace Artificial Intelligence"
-    excerpt: "Though there are many benefits to using AI in marketing, we must be aware of the potential risks and ethical concerns that come along with it."
-    publishedDateTime: 2023-05-12T13:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/12/how-businesses-can-ethically-embrace-artificial-intelligence/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/12/how-businesses-can-ethically-embrace-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/05/12/how-businesses-can-ethically-embrace-artificial-intelligence/amp/"
+  - title: "How Artificial Intelligence Is Used in Finance"
+    excerpt: "One of the most common applications of artificial intelligence in finance is in lending. Machine learning algorithms and pattern recognition allow businesses to go beyond the typical examination of credit scores and credit histories to rate borrowers' creditworthiness when applying for credit cards and other loans."
+    publishedDateTime: 2023-05-16T13:25:00Z
+    webUrl: "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/ai-in-finance/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: The Motley Fool
+      domain: fool.com
+    quality: 86
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/645d3d41cac5cbcb9fcb5cb6/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 650
+      - url: "https://m.foolcdn.com/media/dubs/images/GettyImages-1285914519.width-600.jpg"
+        width: 600
+        height: 400
         isCached: true
-  - title: "Are Countries Ready for AI? How they can Ensure Ethical & Responsible Adoption"
-    excerpt: "From ChatGPT to deepfakes, the topic of artificial intelligence (AI) has recently been making headlines. But beyond the buzz, there are real benefits it holds for advancing development priorities. Assessing countries’ AI readiness as one of the first steps towards adoption can help mitigate potential risks."
-    publishedDateTime: 2023-05-16T05:44:00Z
-    webUrl: "https://www.ipsnews.net/2023/05/countries-ready-ai-can-ensure-ethical-responsible-adoption/"
+  - title: "How AI Will Change the Workplace"
+    excerpt: "We asked some top thinkers from different fields to weigh in on what’s ahead, as the AI explosion compels businesses to rethink, well, almost everything."
+    publishedDateTime: 2023-05-14T14:00:00Z
+    webUrl: "https://www.wsj.com/articles/how-ai-change-workplace-af2162ee"
     type: article
     provider:
-      name: Inter Press Service
-      domain: ipsnews.net
-    quality: 52
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
     images:
-      - url: "https://www.ipsnews.net/Library/2023/05/Countries-Ready-for-AI_.jpg"
-        width: 624
-        height: 339
+      - url: "https://images.wsj.net/im-779753/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "How AI might let us finally talk to animals"
+    excerpt: "AI could finally let humans talk to animals thanks to large language models that are now working to decode animal languages."
+    publishedDateTime: 2023-05-15T00:18:00Z
+    webUrl: "https://bgr.com/science/how-ai-might-let-us-finally-talk-to-animals/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 39
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2019/07/greenies-e1623872379523.jpg?quality=82&strip=all"
+        width: 1500
+        height: 772
         isCached: true
 
 secured: "keU03gQQrGe1wwDR1GrSvH1RdMkkyT0AQbnXk/Td7jrpWk4NEwwN7N/M42rtMYCn9maOpoG7yktbtztUYapdohIt2tMpvpZogMCJALPQwrjzfBEUB00HWrFpzOprBiY8NFg62H1uuNm0rLdCa2FqnMcBwDofV3mDv/mZVHWGxZsppd5LJAk3LBbfDGAPR6iJz0YUwE836CBnFawxeRyovI+axld/tfMm3TegHRxuCwGYY7i588szxihTfbEH9XgKO4B3y1bADBfS1xSNoPtuCbGcumSk25bNSHlAJGbn1AvnQAu6hVfEJ3wsQxW55Wb8HSRs1u4+fQ6oO/I8QzlezLz6sqF/cRJGu20Fx1Lqfm0=;uptH1rWIgPFvD7wovHiuEw=="

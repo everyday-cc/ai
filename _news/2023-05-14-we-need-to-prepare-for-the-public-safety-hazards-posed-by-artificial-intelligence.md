@@ -52,6 +52,15 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 49
+  - title: "The Future Of AI Training Demands Optical Interconnects"
+    excerpt: "Artificial intelligence has taken the datacenter by storm, and it is forcing companies to rethink the balance between compute, storage, and networking. Or"
+    publishedDateTime: 2023-05-15T17:21:00Z
+    webUrl: "https://www.nextplatform.com/2023/05/15/the-future-of-ai-training-demands-optical-interconnects/"
+    type: article
+    provider:
+      name: The Next Platform
+      domain: nextplatform.com
+    quality: 19
 
 secured: "fIGt4t+UrSB79wG/SdFVtEfXyDACeGCYYqlxZJ/4BwoFgsqYs8nS+7CxdEb07Jg8oVshjLK7H6ZOhsvX19C2W+SN4PzEF0CbZWpemU8vKIWQVg4aHx1EQiBrhiuWFu2UPBcXqI6Lf4CPfjrK7F5utXBSLMFkAWpupFtTkPmsU/RaIq1x34PUuktgL7C8ScLXty17/Y5CRSlDb1e5g97o5XI1ahdbDQes41kLCz80StMkZTwWnp7lqR8V01Cg56dQXDgPBveSgKDIhCIAzhnyFRR4kgUFCvU113ZOSy6FJ20PD88DcwQkfd2LebxK0fmin3NquMJD+BQWBOOopYIaVq0lEey7UCyzae6M8/X9DCM=;aDb1voTMH4wfJZMONXpZJQ=="
 ---

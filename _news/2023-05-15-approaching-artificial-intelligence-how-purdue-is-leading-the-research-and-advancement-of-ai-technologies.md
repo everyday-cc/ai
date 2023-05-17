@@ -39,22 +39,6 @@ related:
         width: 1200
         height: 798
         isCached: true
-  - title: "Law firms are experimenting with artificial intelligence tools"
-    excerpt: "Big law firms, known for their grueling hours and workloads, are experimenting with artificial intelligence tools that can handle the drudgery typically delegated to entry-level lawyers and simplify complex work that bogs down even top firm leaders,"
-    publishedDateTime: 2023-05-12T14:49:00Z
-    webUrl: "https://www.businessreport.com/business/law-firms-are-experimenting-with-artificial-intelligence-tools"
-    ampWebUrl: "https://www.businessreport.com/business/law-firms-are-experimenting-with-artificial-intelligence-tools?amp=1"
-    cdnAmpWebUrl: "https://www-businessreport-com.cdn.ampproject.org/c/s/www.businessreport.com/business/law-firms-are-experimenting-with-artificial-intelligence-tools?amp=1"
-    type: article
-    provider:
-      name: Baton Rouge Business Report
-      domain: businessreport.com
-    quality: 59
-    images:
-      - url: "https://s25562.pcdn.co/wp-content/uploads/2019/12/lawsuit-court-law.png"
-        width: 1734
-        height: 1122
-        isCached: true
   - title: "Google’s Vertex AI machine learning platform gets generative AI tools"
     excerpt: "The new updates to Google Cloud’s machine learning service will help the company square up against rivals such as Microsoft, AWS and IBM."
     publishedDateTime: 2023-05-16T05:37:00Z

@@ -57,6 +57,34 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Facial Recognition Devices Market Expert Analysis By,2030"
+    excerpt: "(The Expresswire) -- \"Facial Recognition Devices Market\" Reports recently released an executive data report that focuses on the end"
+    publishedDateTime: 2023-05-15T18:44:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-devices-market-expert-analysis-by2030-2023-05-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "2023, Face Recognition Systems Market | Global Industry Analysis Till 2030"
+    excerpt: "Face Recognition Systems Market | Outlook 2023-2028 | Pre and Post-COVID Research is Covered, Report Information |"
+    publishedDateTime: 2023-05-16T06:17:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-face-recognition-systems-market-global-industry-analysis-till-2030-2023-05-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 67
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Deep Learning in CT Scanners Market 2023 Comprehensive Strategic Report till 2030"
     excerpt: "The Deep Learning in CT Scanners Market Report 2023-2030 is spread across 121 pages and This niche sector is presented with essential statistical data, information on trends, competitive landscape details,"
     publishedDateTime: 2023-05-15T14:58:00Z
@@ -85,15 +113,62 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "2023, BFSI Artificial Intelligence Market | Global Industry Analysis Till 2030"
-    excerpt: "BFSI Artificial Intelligence Market | Outlook 2023-2028 | Pre and Post-COVID Research is Covered, Report Information"
-    publishedDateTime: 2023-05-16T06:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/2023-bfsi-artificial-intelligence-market-global-industry-analysis-till-2030-2023-05-16"
+  - title: "2023, Automatic Speech Recognition(ASR) Software Market Research Report Analysis by 2030"
+    excerpt: "The major players covered in the Automatic Speech Recognition (ASR) Software market report are: Get a sample copy of the Automatic Speech Recognition (ASR) Software Market report 2023 Short Summery About Automatic Speech Recognition (ASR) Software Market: The global Automatic Speech Recognition (ASR) Software market size was valued at USD 13410."
+    publishedDateTime: 2023-05-12T17:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-automatic-speech-recognitionasr-software-market-research-report-analysis-by-2030-2023-05-12"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 43
+    quality: 60
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "2023, Automatic Speech Recognition(ASR) Software Market Research Report Analysis by 2030"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. May 16, 2023 (The Expresswire) -- Automatic Speech Recognition(ASR) Software Market | Outlook 2023-2028 | Pre and Post-COVID Research is Covered, Report Information | Newest ..."
+    publishedDateTime: 2023-05-16T15:18:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-automatic-speech-recognitionasr-software-market-research-report-analysis-by-2030-2023-05-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 60
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Voice And Speech Recognition Software Market Value with Status and Global Analysis 2023 to 2031"
+    excerpt: "May 15, 2023 (Heraldkeepers) -- Our report on the Voice And Speech Recognition Software market provides comprehensive insights into the market size, trends, and opportunities in the industry. Our report provides a detailed analysis of the key drivers and ..."
+    publishedDateTime: 2023-05-16T15:18:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-and-speech-recognition-software-market-value-with-status-and-global-analysis-2023-to-2031-2023-05-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 57
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Speech & Voice Recognition Systems Market 2023-2030"
+    excerpt: "May 16, 2023 (The Expresswire) -- Speech and Voice Recognition Systems Market | Outlook 2023-2028 | Pre and Post-COVID Research is Covered, Report Information | Newest 116 Pages Report The extent and overview of the various commercial opportunities ..."
+    publishedDateTime: 2023-05-16T10:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-voice-recognition-systems-market-2023-2030-2023-05-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "2023-2029 \"Facial Recognition Access Control Solutions Market\" volume sale, Trends and Market Overview | Report Reviewed by Experts"
     excerpt: "May 15, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" A market research report has"
     publishedDateTime: 2023-05-15T07:14:00Z
@@ -103,6 +178,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 19
+  - title: "Analysis the CAGR growth on the Global Speech & Voice Recognition Systems Market and the Market size is growing at a CAGR of 13.9% from 2023 - 2030"
+    excerpt: "The global Speech & Voice Recognition Systems market has seen significant growth in recent years, driven by increasing demand from various industries. Technological advancements, increasing consumer awareness,"
+    publishedDateTime: 2023-05-13T13:25:00Z
+    webUrl: "https://www.marketwatch.com/press-release/analysis-the-cagr-growth-on-the-global-speech-voice-recognition-systems-market-and-the-market-size-is-growing-at-a-cagr-of-139-from-2023---2030-2023-05-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 0
 
 secured: "0vKuEqSJZKRt8C6CgFChl/tzEQaoBb83TBfxpiCkdSFLj9bLoYOj620uGREL0v8UJspnkcz4sQ73gBIMQPnfS46fLkgqwyUlcPevBzcR4BFHei9MLI2cWIG5nny3gS6BGIBL8YedCqLvGzLgWne3mNythiFiQ9dhYBNdN8dRKkDYAKMA/XyS4zu8oLUcgH1jmvhldT+1+1aFr88+DPDdm9szRGGjbQ5ejGz+uhIgc7u98eeY1lJ3IwcoEmdxHZquZczoisT3d+2DC+MzEWPwieFW6cp/US20/fMA902c+Xzs2pmlDbU+H1QJWtsQC4So8sHr+3wFT3ORDEVL+WS6jQNewBwM934vAxoPdRBb9CI=;OofYsU1EZ5Tenmd6ZBlKiA=="
 ---

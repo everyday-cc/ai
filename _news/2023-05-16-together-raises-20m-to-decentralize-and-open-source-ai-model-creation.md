@@ -41,6 +41,43 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "OpenAI readies new open-source AI model - The Information"
+    excerpt: "has gained widespread attention in Silicon Valley as investors see generative AI as the next big growth area for tech companies. In January, Microsoft Corp (MSFT.O) announced a multi-billion dollar investment in OpenAI, deepening its ties with the startup ..."
+    publishedDateTime: 2023-05-16T04:00:00Z
+    webUrl: "https://www.reuters.com/technology/openai-readies-new-open-source-ai-model-information-2023-05-15/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 67
+    images:
+      - url: "https://www.reuters.com/resizer/iqo4WxdERy47YkN_PHWL63ghNJw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/OUXSPAPPUVK27H6RHKQWKLT4VI.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "OpenAI, IBM Urge Senate to Act on AI Regulation After Past Tech Failures"
+    excerpt: "Executives from two major AI companies asked senators on Tuesday to pass regulations for the ground-breaking but nascent technology as rapid innovation raises ethical, legal and national security questions."
+    publishedDateTime: 2023-05-16T16:04:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-05-16/openai-ibm-urge-senate-to-act-on-ai-after-past-tech-failures"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 66
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i5znHSCG3Bh8/v2/1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "OpenAI chief set to call for greater regulation of artificial intelligence"
+    excerpt: "OpenAI’s chief executive Sam Altman will tell US lawmakers on Tuesday that regulation of artificial intelligence must allow companies to be flexible and adapt to new technological developments, as the industry faces growing scrutiny by regulators around the world."
+    publishedDateTime: 2023-05-16T10:44:00Z
+    webUrl: "https://www.ft.com/content/aa3598f7-1470-45e4-a296-bd26953c176f"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 30
 
 secured: "UA45WjmNYUSPra0gTX6rBZ2+i6YhvekKZGkeJbjeapHJ+sBnjYtPiMdVLyK+bx4+86WL0HSxC+iwnOZUGVKRc+CuG8rw+Cs5ofwsNDIygfiBi0kzHLIKFmmJEhFL+JeRoYu9dWTFi5qafr6ff0bsMqyovQL5TwcOXuRRkzyPP/3cBOxwUyC663stVneE7fiOtX+w+a8BEuqA9AMRSXVXjIfOHWfhlLZ3bXL7RkqABzexHw89HvQgiJxqm2FTwiyqMJ3aXFyNK/gFVA+g0CzNB/yhqtQOP08Pb4ZqGQ0hAXhiNQrOzUoDmMZCYbQB4cj8HTW8HwBnEEyCpRDa5QLBQ/PIon7OV9sw8E7WpFNgZliFZ+G6i70MK9H+kA3OQ78AFzYV25xCJSmhyK/2L93E/AqRNl4XBaTtqhYdmTxmtQLNnhdw9DQ+mwr6VwH9ReSiepWTOpbBjA/xPoU9ydLvvc/JQSuJgvbgor549vnh8bc6Gtcu0G5seeg22FKq0mcnhZxSQh0Lz4UXPejPLygwaw==;jBQkdrz+bmrehoS+yEh+hA=="
 ---

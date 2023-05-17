@@ -39,15 +39,6 @@ related:
         width: 1461
         height: 834
         isCached: true
-  - title: "Chicago’s principals association plans to file for union recognition"
-    excerpt: "The Chicago Principals & Administrators Association is submitting signatures with the Illinois Educational Labor Relations Board representing almost 80% of the district’s roughly 1,100 principals and assistant principals,"
-    publishedDateTime: 2023-05-12T13:05:00Z
-    webUrl: "https://chicago.chalkbeat.org/2023/5/12/23720406/chicago-public-schools-principals-union"
-    type: article
-    provider:
-      name: chicago.chalkbeat
-      domain: chalkbeat.org
-    quality: 4
   - title: "States lead way on Indigenous treaty, voice and reconciliation"
     excerpt: "While the voice referendum is capturing national attention ... The alternative, as in Australia, was to leave differences over land, political recognition and reparations unresolved. In North America, treaties extend as far back as the 1600s, while ..."
     publishedDateTime: 2023-05-14T14:02:00Z

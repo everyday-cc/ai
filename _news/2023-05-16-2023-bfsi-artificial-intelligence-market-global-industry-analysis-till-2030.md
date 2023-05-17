@@ -22,52 +22,38 @@ topics:
   - AI
 
 related:
-  - title: "2023, Computer Vision System Market Research Report Analysis by 2030"
-    excerpt: "Computer Vision System Market | Outlook 2023-2028 | Pre and Post-COVID Research is Covered, Report Information | Newest"
-    publishedDateTime: 2023-05-12T17:10:00Z
-    webUrl: "https://www.marketwatch.com/press-release/2023-computer-vision-system-market-research-report-analysis-by-2030-2023-05-12"
+  - title: "AI-based Surgical Robots Market 2023 Thriving at a Tremendous Growth till 2030"
+    excerpt: "The AI-based Surgical Robots Market Report by Type (Services, Instrument and Accessories) and by Application (General Surgery, Urology, Orthopedic, Gynecology, Others) forecast is offered along with info related to key drivers,"
+    publishedDateTime: 2023-05-16T13:14:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-based-surgical-robots-market-2023-thriving-at-a-tremendous-growth-till-2030-2023-05-16"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 69
+    quality: 80
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "2023, Computer Vision System Market Research Report Analysis by 2030"
-    excerpt: "Computer Vision System Market | Outlook 2023-2028 | Pre and Post-COVID Research is Covered, Report Information | Newest"
-    publishedDateTime: 2023-05-15T06:32:00Z
-    webUrl: "https://www.marketwatch.com/press-release/2023-computer-vision-system-market-research-report-analysis-by-2030-2023-05-15"
+  - title: "Artificial Intelligence Voice Market Till 2030"
+    excerpt: "The Global Artificial Intelligence Voice market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players ..."
+    publishedDateTime: 2023-05-15T11:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-voice-market-till-2030-2023-05-14"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 69
+    quality: 67
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Deep Learning in CT Scanners Market 2023 Comprehensive Strategic Report till 2030"
-    excerpt: "The Deep Learning in CT Scanners Market Report 2023-2030 is spread across 121 pages and This niche sector is presented with essential statistical data, information on trends, competitive landscape details,"
-    publishedDateTime: 2023-05-15T14:58:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-in-ct-scanners-market-2023-comprehensive-strategic-report-till-2030-2023-05-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 64
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Machine Learning in Communication Market 2023 | Regional Majority Market by 2030"
-    excerpt: "The Machine Learning in Communication Market Scope and Overview Report for 2023 presents a detailed analysis of the"
-    publishedDateTime: 2023-05-16T09:37:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-in-communication-market-2023-regional-majority-market-by-2030-2023-05-16"
+  - title: "Artificial Intelligence Market 2023 to Experience Significant Growth by 2030"
+    excerpt: "Global “Artificial Intelligence Market” 2023 | New Report | New Technology Global Industry | (94 Pages Report) With"
+    publishedDateTime: 2023-05-15T13:48:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-2023-to-experience-significant-growth-by-2030-2023-05-15"
     type: article
     provider:
       name: MarketWatch
@@ -78,10 +64,24 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "2023, Big Data & Machine Learning in Telecom Market Research Report Analysis by 2030"
-    excerpt: "The major players covered in the Big Data and Machine Learning in Telecom market report are: Get a sample copy of the Big Data and Machine Learning in Telecom Market report 2023 Short Summery About Big Data and Machine Learning in Telecom Market: Market Overview of Global Big Data and Machine Learning in Telecom market: According to our latest research,"
-    publishedDateTime: 2023-05-16T06:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/2023-big-data-machine-learning-in-telecom-market-research-report-analysis-by-2030-2023-05-16"
+  - title: "2023-2030 LegalTech Artificial Intelligence Market: Highlights with Growth Rate"
+    excerpt: "The LegalTech Artificial Intelligence Market is Expected to Lead During the Forecast Period 2023-2030 in ICT Sector. Market Growth Report Has Segmented the Global LegalTech Artificial Intelligence market report based on Type ( Document Management System,"
+    publishedDateTime: 2023-05-17T03:49:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-2030-legaltech-artificial-intelligence-market-highlights-with-growth-rate-2023-05-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 63
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "2023 Artificial Intelligence-as-a-Service (AIaaS) Market Regional Outlook and Future Growth Scenario till 2030"
+    excerpt: "Market 2023 research is a key process that helps businesses gather and analyze information about their target Artificial Intelligence-as-a-Service (AIaaS) market, customers, competitors, and industry trends."
+    publishedDateTime: 2023-05-15T18:16:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-artificial-intelligence-as-a-service-aiaas-market-regional-outlook-and-future-growth-scenario-till-2030-2023-05-15"
     type: article
     provider:
       name: MarketWatch
@@ -92,15 +92,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "2023-2029 \"Facial Recognition Access Control Solutions Market\" volume sale, Trends and Market Overview | Report Reviewed by Experts"
-    excerpt: "May 15, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" A market research report has"
-    publishedDateTime: 2023-05-15T07:14:00Z
-    webUrl: "https://www.marketwatch.com/press-release/2023-2029-facial-recognition-access-control-solutions-market-volume-sale-trends-and-market-overview-report-reviewed-by-experts-2023-05-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 19
 
 secured: "WbvwJoFQeM/3ReLG7HolXak0nJleHL4T6m2CoNVSaOy6FJZ3RqanivMmBFl4kM1Kl/Ew8Pw5VuYZvfTm4IwlsHMsUSICeh5bDH8oppNNf1pjJGyPdMyM7zwZIQ+voS/n43gQrDssDIk05jhjl0G15PXQgahCAdTjFucHKrO2WDPs0YlzaOH30VZ9T9Af4zY6dFj01iMVz7hnhDV7kD8tTkphAUcAPo/Yup0eMmUkMqRwzV0f4qdpl2+NJBxUb1u3CilI3Ab+XgYj+abY/AYD3MXo8CQQXEqvYLyZ5N2qZR5gnNnhL7413ieHbBRXX/GGYLlfS1WnuBVBRbhZWvWQBpcKsLFl0D0XYYW/k7hK43U=;R1bz6gWdUi4vvBvaysBwPg=="
 ---

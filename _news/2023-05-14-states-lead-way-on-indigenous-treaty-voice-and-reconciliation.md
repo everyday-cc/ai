@@ -47,15 +47,6 @@ related:
         width: 1461
         height: 834
         isCached: true
-  - title: "Chicago’s principals association plans to file for union recognition"
-    excerpt: "The Chicago Principals & Administrators Association is submitting signatures with the Illinois Educational Labor Relations Board representing almost 80% of the district’s roughly 1,100 principals and assistant principals,"
-    publishedDateTime: 2023-05-12T13:05:00Z
-    webUrl: "https://chicago.chalkbeat.org/2023/5/12/23720406/chicago-public-schools-principals-union"
-    type: article
-    provider:
-      name: chicago.chalkbeat
-      domain: chalkbeat.org
-    quality: 4
 
 secured: "dxxLNR88Ueof0uTZWYJD+WtBPrWWVI8j5tlDmhw5wVJv0qKIUmMr8jcDQ9uY9IBcj5qQzyAfAiOiV6Z93UXImQdXyZsgEmjNUwuqmyuZwOfN70JduRe1p2nSV/jjBY0KTQYg2dQR2N3M0YnRnoVAeYtrsoVoDjZ2QNMScWdGtj8Xke4SAplag3tJTnjrQPrjRwwe29QT2D/ZYmca/XwxzkuKtmWf/JzxMdjW+VSJOpS4GSHNyssAFsWVfYh3XARFpeRJ4LZhy4ZIf+mYjiE3+PLHzyUgoPkY6fR3CeRXJzYaUL5ECw+oyVDcWvtj/DaG2OUjP3WlsMsUbfaziRpfKCTS+8lzxEJ3E4edpPRadQovwOlzx360oHpv2zOaYHwz7vcTRbGanYaNnLsN40FGW6FHxOX96gVYdoZpJ6yINz8RbBtH0XySlcbW6Rpng6LQC0DtE+doHVk/Dq8TLQbD7Vs6bBa5avx4MCPjQ1xrvDx5CbF+SvCMWoySySyPQtDckm+clRJdfh30djWyvOjRuA==;0ebI25lOCn80h2ghp3KE+A=="
 ---

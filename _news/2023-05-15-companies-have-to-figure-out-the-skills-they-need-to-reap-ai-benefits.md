@@ -55,6 +55,15 @@ related:
         width: 320
         height: 213
         isCached: true
+  - title: "The Future Of AI Training Demands Optical Interconnects"
+    excerpt: "Artificial intelligence has taken the datacenter by storm, and it is forcing companies to rethink the balance between compute, storage, and networking. Or"
+    publishedDateTime: 2023-05-15T17:21:00Z
+    webUrl: "https://www.nextplatform.com/2023/05/15/the-future-of-ai-training-demands-optical-interconnects/"
+    type: article
+    provider:
+      name: The Next Platform
+      domain: nextplatform.com
+    quality: 19
 
 secured: "G6FWVbsgzM8EGmATwH6gfhBHu6zR8U9O8W6hsst1tNZNW+ocXmI3/Zv24Otg9D3Hn65I8gYmTEK1sBUpGbCty+d7RSL+/DuULTd9Yqn6pF98w0lSoVmG9osdp4Gn5OWhCvPawtbhkQFG9lxgdpsoKTO/MKyRLfkhNZ8ebfP/zK5kDPwXkJArUGqUUHeae+uziSx9fcMEHFWVMksI/G5NSNNU+HyShf7icqsM7rEKFSHYl+JwV7T/Ym6406RSKft7NINifuXGhZ69o5P2xCLAUEZMGYP7RbNTodZ9ISNHyb/B2LxVqZ/VfHhFzMkVLx9W/Km0UXlkzrBrxokd+P3f9e4ZyNWtfa4RxJ8OqJ6hinUPyjA53fx7IQ9g1XvU6UjKzkyHE8UWA1o9aGE5pfFP7Kv5wzxweNy+zrg5FSXVnWYm8loz19E2YkUoCpwypdcQRmLCRikgohW4fKvOkTKhLPkG5NPqgZ70zyjvj5E+YLeoVBsbtxxysccLph91sA8xONKoSKuzzxXZgs1Cv3MskQ==;2Sgb6tdsUnVPs6tJvwUdbw=="
 ---

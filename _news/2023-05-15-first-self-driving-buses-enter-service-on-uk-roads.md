@@ -43,22 +43,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "UK Launches its First Self-Driving Bus Service"
-    excerpt: "Scotland will launch its first driverless bus network. According to the details, the buses will run without any input from the drivers."
-    publishedDateTime: 2023-05-12T13:55:00Z
-    webUrl: "https://propakistani.pk/2023/05/12/uk-launches-its-first-self-driving-bus-service/"
-    ampWebUrl: "https://propakistani.pk/2023/05/12/uk-launches-its-first-self-driving-bus-service/amp/"
-    cdnAmpWebUrl: "https://propakistani-pk.cdn.ampproject.org/c/s/propakistani.pk/2023/05/12/uk-launches-its-first-self-driving-bus-service/amp/"
-    type: article
-    provider:
-      name: ProPakistani
-      domain: propakistani.pk
-    quality: 44
-    images:
-      - url: "https://propakistani.pk/wp-content/uploads/2023/05/Autonomous-Bus-e1683895957688.jpg"
-        width: 1000
-        height: 560
-        isCached: true
   - title: "All aboard Britain’s first self-driving bus"
     excerpt: "The UK’s first autonomous bus service has begun taking paying passengers across the Forth Road Bridge. The vehicles have two staff: a safety driver who can take"
     publishedDateTime: 2023-05-15T23:01:00Z
@@ -73,15 +57,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Britain’s first autonomous bus service launches in Scotland"
-    excerpt: "The UK has celebrated the launch of its first driverless bus service, operated by Stagecoach. The start of the pilot programme was marked by a journey on the service between Ferry Toll near Inverkeithing,"
-    publishedDateTime: 2023-05-12T13:16:00Z
-    webUrl: "https://eandt.theiet.org/content/articles/2023/05/britain-s-first-autonomous-bus-service-launches-in-scotland/"
-    type: article
-    provider:
-      name: IET
-      domain: theiet.org
-    quality: 19
 
 secured: "CESMBxinY4Wa+W4ppY99Cjhn+47imr4tzDOxiLKuLb8rpso6MXprZJfnZzLksyDD7L4tVXl6wSs537CvRyVlgHZJBCtzgwOWYYpBCrKw3Nl+riFMNHBDSMMiH1/YOtvah5yZIi29jJhIJ5NBzuzVOlhCu4Gu0KXP7eg3IjiIf4dvzkLHn3+xFnXrge12ZRqQqllBG/uo3kmQRghnW1VU+gfQxYfIXW2uHjVNMB0hVM9DmsvkvojjZEhmHmJGZbCWJuGIuKLdpm4NFlJ9vMyojrgXf+boSxpsLbPn/kskjhNd/QynbSQYUJh5lCSo5t29u+2+/6ILVmXUQGlD24Hhz5tBcbDbp8Jf+PpZ+vd/M8JmpRMAEysWJOmW/lBUqkD+XpPbHAYcsUQLQoTVFKlTCI29sH3Ejb5IMftylivo3hsoSRkLdIsvmVeJE4L8g1x6j3qE589afartE70/jvSkRHAhacwwj5d9UKOMbSLU9IdAPXoMQxuptPLs47JEJjFRWNOfe/+Pycmi7/wdE+5f4Q==;6w9kn6o98ke4PEN/CGP4bA=="
 ---

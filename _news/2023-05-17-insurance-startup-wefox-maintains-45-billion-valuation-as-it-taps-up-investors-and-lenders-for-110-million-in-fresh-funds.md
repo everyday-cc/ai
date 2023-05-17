@@ -27,6 +27,17 @@ images:
     height: 600
     isCached: true
 
-secured: "dTR2nXVfTOg17wyMV6WCnNBEyPsngNwilHtmSTdMaU6jisdQuvLqtx/thqaGNzR7kL/i42iLvv8axEQ4ItFvWlN2ktX/ufluSioWh04k8RCQ9e0i5yQEuk6MPmDpsTL54ptE6Ok/A1DluO60KVXElmh0qwlY1mttN+TgE4XixfMKnet844mooKb+rVwQwgfZm1OCKcahGfp2slANzD2xVLhSQHk9wI2HdKdNrDQOt2BftZjLrtilvvnN+f4zG3YsD6mkthZCSe1UhecJqZrEVwhgbyNwPEzMqar/KW325WupsiTTn9b+SVsBOLblrrJXo212su0pdBmo1P5tyjyhg2i7I6przvfGY8a/bHxLT+Q=;2BGvmln+AwEZYl6HuBZkBw=="
+related:
+  - title: "AI-based eye disease detection startup raises $18 million from US investors"
+    excerpt: "Eyetelligence uses AI technology and retinal imaging to screen for eye and other diseases, and will launch in the US as Optain."
+    publishedDateTime: 2023-05-15T02:55:00Z
+    webUrl: "https://www.startupdaily.net/topic/funding/ai-based-eye-disease-detection-startup-raises-18-million-from-us-investors/"
+    type: article
+    provider:
+      name: Startup Daily
+      domain: startupdaily.net
+    quality: 15
+
+secured: "uH6Qi9jAc+nClwDDDcvBOckvG6NAWWVgq80UjZwJT6fWeBKhamWHaxwAZHNfi1SV4eagE6Ljgo/EPVShjBz1Zdwl7lcmv90dbyZ2DVRyqolK5g5rwWPLrcVa+KU14xm+ndo3ozRTiT1zX/CBYPMzJJCC919T31IHjCJy2POH1GM/kOTY4sT0S33DuQXfN0hRyixVsp3wVyfZgNYJOYRnhoPzRjdJbNGP/FJIfSGWHkvxEpwELA/Sb62KTZi+hAOwcF8ttssB0ZG2CC0aR1Zkr70z5c5D6+ZzbGy6uhw1RyAGwR41Bni8gg3TLRJBKCuj1OthCgX3lBwpDUxE6Y6aVw666U7G/NPkSLY5d1GrfiQFdQsB+hsmu/y9mvPbmKuq8Ow+mzxrtQVYu6h09/OiC+7pmYA8+OvxnMOxoSrkIEBh4LKfcwNRCTsZxf1P0PAwFlAZWmkvV5VVRIA5GM41zmtzs9Se78IYJi/b9KTe+ngYRj6ACCsK3qy2oKFwAKBvyS2BXzxUJnzcdz5+nZjh0w==;n06h8IhNovrmCXlRci37Zg=="
 ---
 

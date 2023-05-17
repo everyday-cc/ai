@@ -41,22 +41,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "UK Launches its First Self-Driving Bus Service"
-    excerpt: "Scotland will launch its first driverless bus network. According to the details, the buses will run without any input from the drivers."
-    publishedDateTime: 2023-05-12T13:55:00Z
-    webUrl: "https://propakistani.pk/2023/05/12/uk-launches-its-first-self-driving-bus-service/"
-    ampWebUrl: "https://propakistani.pk/2023/05/12/uk-launches-its-first-self-driving-bus-service/amp/"
-    cdnAmpWebUrl: "https://propakistani-pk.cdn.ampproject.org/c/s/propakistani.pk/2023/05/12/uk-launches-its-first-self-driving-bus-service/amp/"
-    type: article
-    provider:
-      name: ProPakistani
-      domain: propakistani.pk
-    quality: 44
-    images:
-      - url: "https://propakistani.pk/wp-content/uploads/2023/05/Autonomous-Bus-e1683895957688.jpg"
-        width: 1000
-        height: 560
-        isCached: true
   - title: "First self-driving buses enter service on UK roads"
     excerpt: "The UK’s first self-driving bus service has launched in Scotland, taking passengers across the famed road bridge over the Firth of Forth. Five full-size Alexander Dennis Enviro200AV buses will traverse the bridge using autonomous driving technology as they transport up to 10,"
     publishedDateTime: 2023-05-15T09:47:00Z
@@ -73,15 +57,6 @@ related:
         width: 375
         height: 210
         isCached: true
-  - title: "Britain’s first autonomous bus service launches in Scotland"
-    excerpt: "The UK has celebrated the launch of its first driverless bus service, operated by Stagecoach. The start of the pilot programme was marked by a journey on the service between Ferry Toll near Inverkeithing,"
-    publishedDateTime: 2023-05-12T13:16:00Z
-    webUrl: "https://eandt.theiet.org/content/articles/2023/05/britain-s-first-autonomous-bus-service-launches-in-scotland/"
-    type: article
-    provider:
-      name: IET
-      domain: theiet.org
-    quality: 19
 
 secured: "kvqbcRlnnhlQDTP13JkuTIeVDTf0mWqzpY7kClJ00G3p97LSb7Ovx1qegbrVzh8DxzeqOvDjf7oGTcFL0AjWmRf864ycqA+lDusFb/bSyafFWyJIUbowQJ6x2q5o6hMzOx95x/Gvb5tOwEP/Cfuqnbh9be9peCixjijeTrNblMFjwUh+A3qlSnL3phYx0fPXRxqsQtXb6+GOCckvo0U0WhQEo5C9JT+UV5hJlFToRf7unze3z1fKDkYgh/JHJ1GJhL1RSamV50X9JdODklYUlgZdXcCrvSna+swfM2v/9vKsJ/2DdIhf0OQUo/ydMbRJ/fh5wMyLp7zdOFZlGjvwmT1UJrSpvuOxpFuBnWyAuK4H/MG/XJjFnzMtJkkxkyWbibFJYe4Rhax+34Ma3XRMMmIWXHPXZTHKYN5+3dszsv7Uz3cpIb8C78mVXU/UeyIoyifC/nHa+3XuaCJAsQY7LShmrsAD2ly0oKsLWFNHPXQKcmypVX92NvVvqxHAF1NWybmGkpalGsSJ75tC1amucQ==;HiEFUQUNgrJzCFjGjgGKdw=="
 ---

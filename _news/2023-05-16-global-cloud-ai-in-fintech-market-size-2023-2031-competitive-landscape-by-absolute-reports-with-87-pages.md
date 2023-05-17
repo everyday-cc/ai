@@ -43,6 +43,34 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Artificial Intelligence Microscopy Market 2023-2030 by Size|Precisionreports.co"
+    excerpt: "May 16, 2023 (The Expresswire) -- \"Artificial Intelligence Microscopy Market\" Reports recently released an executive data report that focuses on the end"
+    publishedDateTime: 2023-05-16T18:49:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-microscopy-market-2023-2030-by-sizeprecisionreportsco-2023-05-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 59
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Latest 2023 \"Automatic Speech Recognition(ASR) Software Market\" Survey & Forecast by 2030 | With 114+ Pages"
+    excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this “Automatic Speech Recognition(ASR) Software Industry”. Embracing Growth: A Promising Outlook for the Global Automatic Speech Recognition(ASR) Software Market from 2023 to 2030."
+    publishedDateTime: 2023-05-15T06:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/latest-2023-automatic-speech-recognitionasr-software-market-survey-forecast-by-2030-with-114-pages-2023-05-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "4oGUe1BF9Jv3HPjgoQbUeK2EckI8oVI8ztYYrMR6jXByjv6ey5gsfndc1wnozExhJO0w04H2DiYpzJek0H/3TaoJuCiibxDrPHUWXQPMyTJDJIRAc23UVH5+LO0yJ8cRUrAYlE4Up3rZ097JU5HgIxNaqNgNxU9qFtrmU0cearIbdbKhYTUVd8eTcKykAsoPOtPA8zFn9tO66+Z6usgcFnWDBJJj7KBAJ4kx2HxLMGj8VnIsxC2xXjW01qJJUMjBVlrDztjDiho9lkKRDmZl9XhMJxHqJRRGSWB4pTRApPI9K0ZLqjtNxVmhIzuiCHTyNBL/Eyjy6CcE5v+OWjk7egPVVZhvZqy26w3O9dSYTFc=;nkNzqvDR0tmm6EALdd8Hww=="
 ---

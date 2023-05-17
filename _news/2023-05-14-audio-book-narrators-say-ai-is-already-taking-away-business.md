@@ -56,20 +56,6 @@ related:
         width: 608
         height: 405
         isCached: true
-  - title: "AI is coming for Hollywood scriptwriters – this is how they are going to do it"
-    excerpt: "Artificial intelligence mashups of Lord of the Rings, Pixar and Wes Anderson are amusing novelties, but how long before the robots are generating whole screenplays – and can we be sure they’re not already?"
-    publishedDateTime: 2023-05-12T14:46:00Z
-    webUrl: "https://www.theguardian.com/film/2023/may/12/ai-artificial-intelligence-generating-screenplays"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 33
-    images:
-      - url: "https://i.guim.co.uk/img/media/5faeb2d2a06b9896f4b6067b8a33d2ba0853b144/0_188_5007_3005/master/5007.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fe2384fb22b167c863cc1e049ef71ecf"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Amazon is working on infusing generative AI into its shopping app"
     excerpt: "Rivals adding generative AI features and consumer demand may be the two reasons behind Amazon’s push in revamping the search engine of its retail application. In the US, about 56% of product searches start on Amazon, higher than the 42% share of search ..."
     publishedDateTime: 2023-05-16T09:52:00Z

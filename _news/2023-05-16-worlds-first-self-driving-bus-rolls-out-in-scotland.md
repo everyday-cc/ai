@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo174465605630"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo174465605630"
 type: article
 quality: 74
-heat: 115
+heat: 95
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "UK Launches its First Self-Driving Bus Service"
-    excerpt: "Scotland will launch its first driverless bus network. According to the details, the buses will run without any input from the drivers."
-    publishedDateTime: 2023-05-12T13:55:00Z
-    webUrl: "https://propakistani.pk/2023/05/12/uk-launches-its-first-self-driving-bus-service/"
-    ampWebUrl: "https://propakistani.pk/2023/05/12/uk-launches-its-first-self-driving-bus-service/amp/"
-    cdnAmpWebUrl: "https://propakistani-pk.cdn.ampproject.org/c/s/propakistani.pk/2023/05/12/uk-launches-its-first-self-driving-bus-service/amp/"
-    type: article
-    provider:
-      name: ProPakistani
-      domain: propakistani.pk
-    quality: 44
-    images:
-      - url: "https://propakistani.pk/wp-content/uploads/2023/05/Autonomous-Bus-e1683895957688.jpg"
-        width: 1000
-        height: 560
-        isCached: true
   - title: "First self-driving buses enter service on UK roads"
     excerpt: "The UK’s first self-driving bus service has launched in Scotland, taking passengers across the famed road bridge over the Firth of Forth. Five full-size Alexander Dennis Enviro200AV buses will traverse the bridge using autonomous driving technology as they transport up to 10,"
     publishedDateTime: 2023-05-15T09:47:00Z
@@ -73,15 +57,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Britain’s first autonomous bus service launches in Scotland"
-    excerpt: "The UK has celebrated the launch of its first driverless bus service, operated by Stagecoach. The start of the pilot programme was marked by a journey on the service between Ferry Toll near Inverkeithing,"
-    publishedDateTime: 2023-05-12T13:16:00Z
-    webUrl: "https://eandt.theiet.org/content/articles/2023/05/britain-s-first-autonomous-bus-service-launches-in-scotland/"
-    type: article
-    provider:
-      name: IET
-      domain: theiet.org
-    quality: 19
 
 secured: "Hf5h/t0NODqHmwdoNlF6o/JT5Yugs9i+tpZVHyLK1soNgzsmfVk5NQ35voH0D09x44rC3iuScRryT61ob5eeeifrhBBzrTgPHcUVR9+53io+llaEAdtb+LSqYE0vW4UGBJiZpNTY3nVAUXNBM19uMYyt4rjHLqhSShRxaf3VrWTWl2JEfhXqkgdOAuztnSLzUz//xKw3eFCuUNkuWU/sjoLTvt3DpaIDgtwqayvu3JqStHh92bU53YZcXZdhg20YNSZ8FKPoCO+4wu31zdKZTONrwh2na3/gexM3W3Jga0e+CmO0YhWmcMOSKCoHIrWta5G8R1kUBYH71fOLvukqQGetRrmlcU8AKgPQOIDwyaLjbdOPFJ9ysYpMWtqiAzFYPLpbNOBiXEkcaj0UzbPXUCCshTJq7Kut/4OVgE5ODOYptCKIhETA1UBecOD8cA9BnGKpC0FWdXx+EBnw4Ze86yKosO0AEVSMrR9r63CbUJpvoFaUW+9IoogWzWnQ8UYu4szc7kvAwzaK9WLQqY/TEg==;Dz+pbsO5XvBuxIyBf+eESA=="
 ---

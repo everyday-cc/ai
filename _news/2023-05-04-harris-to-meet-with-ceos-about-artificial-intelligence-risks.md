@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Harris to meet with CEOs about artificial intelligence risks"
-excerpt: "Vice President Kamala Harris will meet with the CEOs of four major companies developing artificial intelligence. The Biden administration is rolling out initiatives meant to ensure the rapidly evolvin"
-publishedDateTime: 2023-05-04T11:22:00Z
-originalUrl: "https://omaha.com/news/science/article_2be5fceb-7e7e-5b20-93a6-2fc9680f8df6.html"
-webUrl: "https://omaha.com/news/science/article_2be5fceb-7e7e-5b20-93a6-2fc9680f8df6.html"
+excerpt: "Vice President Kamala Harris speaks, along side Jill Scarbo, who won National Small Business of the Year in 2022 and is the CEO of Bright Futures Learning Services (BFLS), a provider of Applied Behavior Analysis (ABA) therapy services for children ..."
+publishedDateTime: 2023-05-04T12:03:00Z
+originalUrl: "https://omaha.com/news/science/harris-to-meet-with-ceos-about-artificial-intelligence-risks/article_2be5fceb-7e7e-5b20-93a6-2fc9680f8df6.html"
+webUrl: "https://omaha.com/news/science/harris-to-meet-with-ceos-about-artificial-intelligence-risks/article_2be5fceb-7e7e-5b20-93a6-2fc9680f8df6.html"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 630
     isCached: true
 
-secured: "M6BlZuXhhqpa89CONSqnH1nBFYMMPLtbfVk6DQpaRf+POnewDTEsuywxgNndrpJKvvNZ3jS5LkX2aR4TGh6eFLSGkRjifxr1YcA9gfavfH5wuEAiNQJamO5jT11yjF/ZFvefgKQIUOrkLaK6aheFfuHdbMZz7/rb4NSCZh5cSrI3TGyfPalY1aHwxNMRvtRZ0FwhfL9BR5DDDEHV7LmvtW3tIuP2Oi8IpnBZ0VOeufLP8tE62xnMgxLA60bhpkhpDOz8qDXvGrQiCky/yGMnSHKmBQVQ+3lIz2+duazrpXLG/STJ8FU9yk+yybOKOY2qJF1RUspYemDuERt32lpvv+7lvuXPNY6dEx0x/Hug9cE=;wgBLIVOHmuYs2V6vhso9bw=="
+secured: "0xRFNko9XyPsEhkBJIewZiiNgrjm4yFLT6Y7ti87Ux7qzf1wsDFZSAhx34Kg5O3CGvG6nVCQmzxzECvFqv2KosG//XXJ6333fAL6BtOpTMPJ+4NVLwWGuy90bJdOukQG7LNsVkVb+rMrZk3Sz5LbgW/DUbn7/XqVGVwt0IQGbCFPjgloLiMi70ce10HUvmdnyGbUoSIJ3ZDIvGTWKr95xs4CHzqIHoNiLnl5UHG+uxAlnmAUe11bKyUp4yTxdSE9g33sCXzxlMo2qiSJlvX+mQum78ZefPu8vnik8XDj2u+PF/7WunARb1OEoL1oPmPtkf2rPDgPI/IOsDMoFSs9Y3wEDp7hcgYDUKAP3N2EzUw=;IqN+VYgVBTnSdtPmSH4uaw=="
 ---
 

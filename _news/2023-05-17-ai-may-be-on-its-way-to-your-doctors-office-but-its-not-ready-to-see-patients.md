@@ -20,20 +20,6 @@ topics:
   - AI
 
 related:
-  - title: "AI May Be on Its Way to Your Doctor's Office, But It's Not Ready to See Patients"
-    excerpt: "Few in healthcare believe this latest form of AI is about to take their jobs. The article was published on Friday, May 12, 2023 in. By Darius Tahir. What use co"
-    publishedDateTime: 2023-05-12T17:54:00Z
-    webUrl: "https://www.healthleadersmedia.com/technology/ai-may-be-its-way-your-doctors-office-its-not-ready-see-patients"
-    type: article
-    provider:
-      name: HealthLeaders Media
-      domain: healthleadersmedia.com
-    quality: 32
-    images:
-      - url: "https://www.healthleadersmedia.com/sites/hlmp/files/files/ehr_0.jpg"
-        width: 2732
-        height: 1200
-        isCached: true
   - title: "AI may be on its way to your doctor’s office, but it’s not ready to see patients"
     excerpt: "The companies want their AI to take notes for physicians and give them second opinions — assuming they can keep the intelligence from “hallucinating” or divulging patients’ private information."
     publishedDateTime: 2023-05-14T22:00:00Z

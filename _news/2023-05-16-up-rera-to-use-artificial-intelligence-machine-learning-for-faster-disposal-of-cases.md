@@ -20,17 +20,6 @@ topics:
   - Machine Learning
   - AI
 
-related:
-  - title: "UP RERA to use artificial intelligence for faster resolution of cases in e-Courts"
-    excerpt: "Read more about UP RERA to use artificial intelligence for faster resolution of cases in e-Courts on Devdiscourse"
-    publishedDateTime: 2023-05-16T12:46:00Z
-    webUrl: "https://www.devdiscourse.com/article/technology/2453755-up-rera-to-use-artificial-intelligence-for-faster-resolution-of-cases-in-e-courts"
-    type: article
-    provider:
-      name: devdiscourse
-      domain: devdiscourse.com
-    quality: 12
-
 secured: "20CoQ6pua4JmfGvODlfHf6BbM3Amim8UKVUhMHWsfVXldxtJxRmtLIEcF1lYfqyY/dVlEee9DhHthO7B3wcY/A+7yGmYaybJy3HGl49zO1HQjQIq2P/WTxQ+Q9j3MDHHDAWfJR0PPZn7emjQJumsNPIkau+Hil/62F54eZqHaFif33HrQLDOev5ZWDLH9SpDi54wi/btTcA5e+9aJEDFsdR4RYdrivIAEOmPDGpUd8SAOeL/amu0ypEieeTvHFVO4vmz2PdiYghonY4LrGUmZwH3QuK/hxPf8M9JJGF2eirQm9Fr7IBSTA3u2YK6raZ9JW/RujRZi/eNeubT+/gbqNSjQc03iQimGwPzEaTWRwr1yK//wecm0wam88d4Vy8JB2L50mK6292ElUcrs58rV/hRq9X3B4ReKy5qSYh75wEwxpOBteyNE3BLrLEf+KyNe915rRYc/a7eYlckemKELb8ov2vx90QRlQg9QnDUEqFpspltpOU83nOGA+VXBY4qiiEXIAHpnqopvKe6Bg+4ww==;PNnhr971C1kEFcyXi8MxrA=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/edge-artificial-intellig
 webUrl: "https://www.marketwatch.com/press-release/edge-artificial-intelligence-ai-chip-market-research-2023-2030-2023-05-14"
 type: article
 quality: 99
-heat: 339
+heat: 349
 published: true
 
 provider:
@@ -257,6 +257,20 @@ related:
     excerpt: "Research Reports has published a new report titled as \"Computer Vision System Market\" by End User (Automotive,"
     publishedDateTime: 2023-05-16T00:43:00Z
     webUrl: "https://www.marketwatch.com/press-release/computer-vision-system-market-research-2023-2030-2023-05-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Robot Firefighter Market Research | 2023-2030"
+    excerpt: "The Global Robot Firefighter market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players,"
+    publishedDateTime: 2023-05-16T10:46:00Z
+    webUrl: "https://www.marketwatch.com/press-release/robot-firefighter-market-research-2023-2030-2023-05-16"
     type: article
     provider:
       name: MarketWatch

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/technology/2023/may/12/we-need-ai-to-hel
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/may/12/we-need-ai-to-help-us-face-the-challenges-of-the-future"
 type: article
 quality: 57
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -55,6 +55,15 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 49
+  - title: "The Future Of AI Training Demands Optical Interconnects"
+    excerpt: "Artificial intelligence has taken the datacenter by storm, and it is forcing companies to rethink the balance between compute, storage, and networking. Or"
+    publishedDateTime: 2023-05-15T17:21:00Z
+    webUrl: "https://www.nextplatform.com/2023/05/15/the-future-of-ai-training-demands-optical-interconnects/"
+    type: article
+    provider:
+      name: The Next Platform
+      domain: nextplatform.com
+    quality: 19
 
 secured: "SXS5ZlG6hBFF0ziDmGFPAWuPhMzcxoT1+/yYWW1c6e737unK78DG2Hpt9PFyQTr68W4JjLB9a4Ju9IUrZIccOFJFclsQnkYcBFL0vCCGnslN/imt3yqemUWCpqCovI+AkjSeB1wAd1QXaXvRK/ZP3K3WVHKl6pPfayYPohoHmFlrBcxjejslgk9WiYv8UAvxlwArQRBZzYQNupBzDyz5RlImKmRkB7vprehb5Oy9wYqVDJ1GXFienk+vuq1/qLmDCOIE9UdsYvs7c/kr0dc2lLd3Uti5OkbRIZVqoSsdT5blfTHFc/NgFj06WYyl7Xs8Pibn/SRAnb3chtgyjOuYSo60hipFcFKkr+TN2vy8RhhTqlWaAEPtHUI8NrLBsmzGYT9l4jefJh/+Ipa4OUpyYljN3LWjuGM/sUNMeXREjix6uhWZu5kzCzIjWLsXvB7n5eTsULyQIgFuqozQgTKY+tDMzU53rYDoqufovOPijPQWL4KWks5p4tj6t1vLfj4hgWuN2qpG/oqZ4pFcbul+HQ==;7mBWNPM7WYn6pQuLbIZZtA=="
 ---

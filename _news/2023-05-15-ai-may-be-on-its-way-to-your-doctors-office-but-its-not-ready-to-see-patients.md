@@ -7,7 +7,7 @@ originalUrl: "https://billingsgazette.com/lifestyles/health-med-fit/ai-may-be-on
 webUrl: "https://billingsgazette.com/lifestyles/health-med-fit/ai-may-be-on-its-way-to-your-doctor-s-office-but-it-s-not/article_be201194-f109-11ed-b5f6-677a11e67178.html"
 type: article
 quality: 32
-heat: -1
+heat: 32
 published: false
 
 provider:
@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI May Be on Its Way to Your Doctor's Office, But It's Not Ready to See Patients"
-    excerpt: "Few in healthcare believe this latest form of AI is about to take their jobs. The article was published on Friday, May 12, 2023 in. By Darius Tahir. What use co"
-    publishedDateTime: 2023-05-12T17:54:00Z
-    webUrl: "https://www.healthleadersmedia.com/technology/ai-may-be-its-way-your-doctors-office-its-not-ready-see-patients"
-    type: article
-    provider:
-      name: HealthLeaders Media
-      domain: healthleadersmedia.com
-    quality: 32
-    images:
-      - url: "https://www.healthleadersmedia.com/sites/hlmp/files/files/ehr_0.jpg"
-        width: 2732
-        height: 1200
-        isCached: true
   - title: "AI may be on its way to your doctor’s office, but it’s not ready to see patients"
     excerpt: "Companies pushing the latest AI technology — known as “generative AI” — are piling on: Google and Microsoft want to bring types of so-called large language models to health care. Big firms that are familiar to folks in white coats — but maybe less so to your average Joe and Jane — are equally enthusiastic: Electronic medical records giants Epic and Oracle Cerner aren’t far behind."
     publishedDateTime: 2023-05-17T04:19:00Z

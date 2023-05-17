@@ -7,7 +7,7 @@ originalUrl: "https://koreatimes.co.kr/www/tech/2023/05/133_351073.html"
 webUrl: "https://koreatimes.co.kr/www/tech/2023/05/133_351073.html"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,47 +24,24 @@ images:
     isCached: true
 
 related:
-  - title: "Sanctuary AI unveiles general purpose humanoid robot"
-    excerpt: "Sanctuary AI announces the launch of its first human-scale, bipedal robot called Pheonix, powered by Carbon AI."
-    publishedDateTime: 2023-05-16T17:47:00Z
-    webUrl: "https://www.therobotreport.com/sanctuary-ai-unveiles-general-purpose-humanoid-robot/"
-    type: article
-    provider:
-      name: The Robot Report
-      domain: therobotreport.com
-    quality: 64
-  - title: "Sanctuary AI unveils general purpose humanoid robot"
-    excerpt: "Sanctuary AI announces the launch of its first human-scale, bipedal robot called Pheonix, powered by Carbon AI."
-    publishedDateTime: 2023-05-16T17:56:00Z
-    webUrl: "https://www.therobotreport.com/sanctuary-ai-unveils-general-purpose-humanoid-robot/"
-    type: article
-    provider:
-      name: The Robot Report
-      domain: therobotreport.com
-    quality: 64
-  - title: "Sanctuary AI unveils a humanoid robot called Phoenix that’s ready to offer its ‘labor-as-a-service’"
-    excerpt: "Sanctuary AI unveils a humanoid robot called Phoenix that's ready to offer its 'labor-as-a-service' - SiliconANGLE"
-    publishedDateTime: 2023-05-17T00:50:00Z
-    webUrl: "https://siliconangle.com/2023/05/16/sanctuary-ai-unveils-humanoid-robot-called-phoenix-thats-ready-offer-labor-service/"
+  - title: "New AI tools headline ServiceNow’s latest platform update"
+    excerpt: "They’re rolling out for ServiceNow’s namesake cloud platform, which helps companies manage the parts of their business that involve delivering a service. The platform streamlines tasks such as fielding technical support requests and onboarding new employees."
+    publishedDateTime: 2023-05-16T18:11:00Z
+    webUrl: "https://siliconangle.com/2023/05/16/new-ai-tools-headline-servicenows-latest-platform-update/"
     type: article
     provider:
       name: SiliconANGLE
       domain: siliconangle.com
-    quality: 40
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/05/Sanctuary-AI-rolls-out-the-first-general-purpose-robot-e1684275899483.jpg"
-        width: 1000
-        height: 586
-        isCached: true
-  - title: "Sanctuary AI Unveils Phoenix - A Humanoid General-Purpose Robot Designed for Work"
-    excerpt: "Sanctuary AI, a company on a mission to create the world's-first human-like intelligence in general-purpose robots, announced a major step forward with the unveiling of its sixth-generation general-purpose robot named Phoenix."
-    publishedDateTime: 2023-05-16T19:35:00Z
-    webUrl: "https://www.bctechnology.com/news/2023/5/16/Sanctuary-AI-Unveils-Phoenix---A-Humanoid-General-Purpose-Robot-Designed-for-Work.cfm"
+    quality: 19
+  - title: "Artificial Intelligence: Boost.ai Unveils Large Language Model Enhancements to Conversational AI Platform"
+    excerpt: "Boost.ai, a conversational AI solution provider, today announced Version 12 of its platform, the first of a series of planned updates by the company."
+    publishedDateTime: 2023-05-14T17:28:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/05/207054-artificial-intelligence-boost-ai-unveils-large-language-model-enhancements-to-conversational-ai-platform/"
     type: article
     provider:
-      name: T-Net
-      domain: bctechnology.com
-    quality: 29
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 15
 
 secured: "V7iVqxx0h6NuYT3ZWGH0Dju9T3ONyZwFEFGBIqXqo/fRM0083F7kW4VGgH7v2Mm0hJu/2b77/hgDG4CkQqUr8duKKukHuSlkQD3VMHdjWzK5rDam+Bv/OXMJz6XP+Hvb4BB69eU5E9S9OuECnoZd8gm9HicnGHvGqxtM0MeZ+tFh8xL9MlgZwOfryqopQOyE6Uu+AXunGUDzgdwgLEjvetdkYzJKmGM58/GMPEWmZxeWDyKKyX6MxLajni3dWt4xYdi0zFKfj80IoBPP0PQZ7IFtxi+WlucBDd7TB4+UD37KR1A3JVy6oXTR/r2YJhUeKRKLpEjQIngBdZzh80etLSBh8BiZJOpm8EXeNG2kkVA=;paSDhTSnnJLFLL6EWBIosQ=="
 ---

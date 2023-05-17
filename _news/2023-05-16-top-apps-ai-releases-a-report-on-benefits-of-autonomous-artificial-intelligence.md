@@ -30,14 +30,14 @@ images:
 
 related:
   - title: "AI-Integration In Language Apps For ESL Learning: Tops Apps AI Releases Report"
-    excerpt: "New report by established AI-integration App company Top Apps AI explains the impact of AI integration in educational technologies geared toward English as a Second Language (ESL) students.Vancouver,"
-    publishedDateTime: 2023-05-17T05:01:00Z
-    webUrl: "https://www.asiaone.com/business/ai-integration-language-apps-esl-learning-tops-apps-ai-releases-report"
+    excerpt: "New report by established AI-integration App company Top Apps AI explains the impact of AI integration in educational technologies geared"
+    publishedDateTime: 2023-05-17T02:54:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ai-integration-in-language-apps-for-esl-learning-tops-apps-ai-releases-report-1032333074"
     type: article
     provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 35
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 65
     images:
       - url: "https://storage.googleapis.com/mmstudio-images/gallery/featured/pr-ai-integration-in-la-1684270470.jpg"
         width: 600

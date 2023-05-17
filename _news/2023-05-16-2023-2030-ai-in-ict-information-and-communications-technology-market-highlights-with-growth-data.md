@@ -110,15 +110,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "WHO calls for caution in using artificial intelligence for health"
-    excerpt: "The World Health Organisation has called for caution in using artificial intelligence-generated large language model tools to protect and promote human well-being, human safety, autonomy, and preserve public health."
-    publishedDateTime: 2023-05-16T08:28:00Z
-    webUrl: "https://punchng.com/who-calls-for-caution-in-using-artificial-intelligence-for-health/"
+  - title: "OpenAI Founder Calls for the Global Regulation of Artificial Intelligence"
+    excerpt: "As senators raise concerns about the risks of ChatGPT, Sam Altman says his worst fear is his industry causing \"significant harm to the world.\""
+    publishedDateTime: 2023-05-16T18:59:00Z
+    webUrl: "https://www.inc.com/christine-lagorio-chafkin/openai-founder-calls-for-global-regulation-of-artificial-intelligence.html"
     type: article
     provider:
-      name: The Punch Newspapers
-      domain: punchng.com
-    quality: 19
+      name: Inc
+      domain: inc.com
+    quality: 33
 
 secured: "vdE/ID4AvieiGU4hNDSxfdJ1mc7tgyl6Zt/y4hxu7asFs/cnESaoxsZksfmKWduVmNQUB8FEb/U7f286ap2j3Xix4c+wameoh4uRtGH/ZHhAMfDnl6hj/SsWU6jeEFkgHzNLcd3ljExlnyrwQOCX10xJ6Gg1YkNHqjvdYpbr4ww8T52GBpTT/QWACw/at/AdXSwh/ZiTlhbC5Csj3njCfN9Tlof9f76cW0CGoUtLx3eaQ1ujb+p34nwYlhq/x9U635y8LJPLpWV+7C2uCyNiSnGrX57cF5QOP9N3jvLMDNgg8bLWIpXHoWJuYiYlBEYeWINRAnCmvBEV2LY+rL46Wqgcm6IAx18mH1GUEZgs/R4=;Qs5XXdsQZ35AW3qZUGp2xg=="
 ---

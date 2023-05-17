@@ -112,15 +112,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 35
-  - title: "WHO calls for caution in using artificial intelligence for health"
-    excerpt: "The World Health Organisation has called for caution in using artificial intelligence-generated large language model tools to protect and promote human well-being, human safety, autonomy, and preserve public health."
-    publishedDateTime: 2023-05-16T08:28:00Z
-    webUrl: "https://punchng.com/who-calls-for-caution-in-using-artificial-intelligence-for-health/"
+  - title: "OpenAI Founder Calls for the Global Regulation of Artificial Intelligence"
+    excerpt: "As senators raise concerns about the risks of ChatGPT, Sam Altman says his worst fear is his industry causing \"significant harm to the world.\""
+    publishedDateTime: 2023-05-16T18:59:00Z
+    webUrl: "https://www.inc.com/christine-lagorio-chafkin/openai-founder-calls-for-global-regulation-of-artificial-intelligence.html"
     type: article
     provider:
-      name: The Punch Newspapers
-      domain: punchng.com
-    quality: 19
+      name: Inc
+      domain: inc.com
+    quality: 33
 
 secured: "fB1ptU0MQjqBh8IOIHWSeLqd3JmOYdMWbjnnUysd7/o/EugEmR523vKx+vfrb9NogRWZ6b0JZRIEOs9bV1K9p3pppFPvsztQYz1GUjvfaIEldkOiK0y+Bh/qSLVdwKy4g8YOc3SoFV3DzO8pIfjdPOG+1p8/okdob2osGilufz5VlKoO3yJtyyIviyKg/ZvfBRFop7bTlICT2rR45fSer+jZ60odaPNn2sfaMEs3znSHG3jeRoGEFruJbMOXJA0Sd85ApXurSBaxkyCXdL7VYnuf2tOthcSvWfISMKdsnLmttlhWpavJI97nbxHY+an/n0xs0nVK+9yjKxRyX5nmh3X70kzeOgxJCOm4D1zIuJ9eRmwbZvGOkbue3Mufk1oFw8xqE6UuG8OeO23zdovoIz3/jt9x4luxhLixLEfME/oyVEpDX9pxe7lmjai7dVs+Nh1p2Q6F7E8zjO8g3ClK88Ab+q/5x5+6gnlnEfb6WSVoqfsjW4N5MihmQ1MJM7G7idnpt+duHIztPdHbKKfQFw==;go8UQfpZBFAHC0c5wl1H/g=="
 ---

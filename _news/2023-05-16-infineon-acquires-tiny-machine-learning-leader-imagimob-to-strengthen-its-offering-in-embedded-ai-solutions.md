@@ -50,6 +50,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 45
+  - title: "Infineon acquires Tiny Machine Learning"
+    excerpt: "Infineon Technologies has acquired the Stockholm-based startup Imagimob, a platform provider for Machine Learning solutions for edge devices."
+    publishedDateTime: 2023-05-17T07:55:00Z
+    webUrl: "https://www.newelectronics.co.uk/content/news/infineon-acquires-tiny-machine-learning"
+    type: article
+    provider:
+      name: New Electronics
+      domain: newelectronics.co.uk
+    quality: 39
+    images:
+      - url: "https://www.newelectronics.co.uk/media/5rib3u4n/imagimob.jpg?width=1200&height=630&mode=crop"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "5hz50H0EGraIZx2CfstS1/5OZuYf8g+WWF76QcV2juhWPei8ml3dy1d3IJ6KdciyBOOcUVERg26Xt18IEg1lwUoYRbXh4dZ/FJpJX1WCoS9Y9Xin85JTYIda7vSn5Zvo4I2uzDoTprQTgtYYzOnqjnR1+rgQschBbUhFI6op4kZoYl1M16/69X9qASGKNHkK7xAJODMTk+BAmYRnYFfXdbrLQ+KFREdNIDIA/syv4avZvEsw8PO2UVo59ABN51Zu015UPJM0wYMiJS41oIQM8NIwebdc+oyTRJtpqMAkX1NuK1BetG0XcacYNmANSb1YlyH7EMJebO3uBbwFlDuKeBJ1690ItwMzQOdUai2VODtACsL+FSURc3paO3/fxA56n1/Jx1mW1fH90HX5dfvn+uCrnBidc9nCjXG50Q/HXEvktNkDv3ISjQsnLJyl//OAR14itKCEwaLDyFeDnFAtLpCl6sezFa3pTBIibWksTBOWeeFwqXPsPo+L9BIO44eP7CY6HV04rN/Lt9cnK+2Y2Q==;gv1Ac5ZKhpI9i1uy1Wb/CQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/tech/what-dangers-find-out-why-people-afraid
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/what-dangers-find-out-why-people-afraid-artificial-intelligence.amp"
 type: article
 quality: 99
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -32,22 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "The Danger Of AI Content Farms"
-    excerpt: "In this article, we explore the risks of AI-generated articles, including disinformation, copyright infringement, clickbait, and biased data."
-    publishedDateTime: 2023-05-16T06:27:00Z
-    webUrl: "https://www.forbes.com/sites/bernardmarr/2023/05/16/the-danger-of-ai-content-farms/"
-    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/05/16/the-danger-of-ai-content-farms/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/05/16/the-danger-of-ai-content-farms/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/646321ba6bb60b67d3dd3ffd/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 820
-        isCached: true
   - title: "Dangers of AI: What are the Artificial Intelligence threats and risks?"
     excerpt: "Although AI has been hailed as revolutionary and a game-changer, it has drawbacks. In addition to planning for superintelligent computers, contemporary AI can bring problems. Let's take a look at some crucial AI-related risks."
     publishedDateTime: 2023-05-14T15:08:00Z

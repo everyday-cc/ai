@@ -18,20 +18,29 @@ topics:
   - AI
 
 related:
-  - title: "TCLE (01070.HK) Deepens AIGC Layout, Debuting Industry's First AI Large Language Model Story Collection"
-    excerpt: "TCL Electronics Holdings Limited (\"TCL Electronics\" or the \"Company\", 01070.HK) is pleased to announce that its subsidiary, Falcon"
-    publishedDateTime: 2023-05-16T02:10:00Z
-    webUrl: "https://www.asiaone.com/business/tcle-01070hk-deepens-aigc-layout-debuting-industrys-first-ai-large-language-model-story"
+  - title: "Upstage unveils new AI services"
+    excerpt: "Upstage, a local artificial intelligence (AI) technology startup, has unveiled two AI services according to the company, Tuesday. The services are Document AI Pack, an optical character recognition (OCR) technology-based document processor; and AskUp ..."
+    publishedDateTime: 2023-05-16T07:57:00Z
+    webUrl: "https://koreatimes.co.kr/www/tech/2023/05/133_351073.html"
     type: article
     provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 23
+      name: The Korea Times
+      domain: koreatimes.co.kr
+    quality: 37
     images:
-      - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/May2023/pr-newswire_500_4_890.jpg?h=7de12b8a&itok=vpT198Jq"
-        width: 600
-        height: 316
+      - url: "https://koreatimes-bucket.s3.ap-northeast-2.amazonaws.com/IMAGE/upload/newsV2/images/202305/8851d866df8148e0a793b0c9fe05f8fa.jpg"
+        width: 980
+        height: 653
         isCached: true
+  - title: "New AI tools headline ServiceNow’s latest platform update"
+    excerpt: "They’re rolling out for ServiceNow’s namesake cloud platform, which helps companies manage the parts of their business that involve delivering a service. The platform streamlines tasks such as fielding technical support requests and onboarding new employees."
+    publishedDateTime: 2023-05-16T18:11:00Z
+    webUrl: "https://siliconangle.com/2023/05/16/new-ai-tools-headline-servicenows-latest-platform-update/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 19
 
 secured: "qW+2cKO7YjGw788ewXdpQEOJEKwsX/yhXnoNcmwHrcNRjCkCLMsIRhu1pVc5tepH1w/zIMllk2upTc90cBd8Y07hwiliE6bfgVnSJyPingVlzlQsGZMF0ZXud0xvf1iSTgEZ3Qm14cyYxZbuIvQ1vkkX9njlu0DlVnfNn23M7SS/TUYoNvYia1zQnEsO17EpwiMNQmOxyP8JwdE1sYfDFeK41Kcpk9M0naqoXUFhnak3eqi5ZGNUNdyMS5fvM1hxnaGEHtIQE0CaDnPf9eAqtoQJuuR3bwG3lobTfZIwMlzrL7tovso1Su0fxgjFAdBU3vGpK7/vIPZSbvrnbCeHGXPSrEHn/0ljMTL1ffECDEssQG8w0eO1J7n5jB2Z/dqQypnWBKEV7kVphGeOpXA1q1GPMnNfzJhyT+moJHH2wknDv6O0ZIEz4WFWwJ/kASBr63Rk9KuLnqQPP+a/PCgvptpsMFkLolGSkxqlVlYh/EXFSaZiRfqnBYdyoFlruGyZaBap3Y/PvC4J0N2e5DJI3w==;2qhT7oYo25DgrbFX4tATHw=="
 ---

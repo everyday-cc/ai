@@ -9,7 +9,7 @@ ampWebUrl: "https://www.natlawreview.com/article/proposed-regulatory-oversight-e
 cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/proposed-regulatory-oversight-emerging-use-artificial-intelligence-digital-health?amp"
 type: article
 quality: 49
-heat: -1
+heat: 49
 published: false
 
 provider:
@@ -26,67 +26,6 @@ images:
     width: 1426
     height: 808
     isCached: true
-
-related:
-  - title: "Catching bad content in the age of AI"
-    excerpt: "Why haven’t tech companies improved at content moderation? This article is from The Technocrat, MIT Technology Review's weekly tech policy newsletter about power, politics, and Silicon Valley. To receive it in your inbox every Friday,"
-    publishedDateTime: 2023-05-15T10:00:00Z
-    webUrl: "https://www.technologyreview.com/2023/05/15/1073019/catching-bad-content-in-the-age-of-ai/"
-    ampWebUrl: "https://www.technologyreview.com/2023/05/15/1073019/catching-bad-content-in-the-age-of-ai/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/05/15/1073019/catching-bad-content-in-the-age-of-ai/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 59
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/05/hi-wire-netA.jpeg?w=3000"
-        width: 3000
-        height: 1688
-        isCached: true
-  - title: "The Age of AI: Keeping the Human Touch in Healthcare"
-    excerpt: "Artificial intelligence (AI) and emerging chatbot technologies are revolutionizing the way healthcare is being delivered. Designed to mimic human intelligence to improve upon and perform standard operational tasks,"
-    publishedDateTime: 2023-05-12T13:38:00Z
-    webUrl: "https://www.healthleadersmedia.com/innovation/age-ai-keeping-human-touch-healthcare"
-    type: article
-    provider:
-      name: HealthLeaders Media
-      domain: healthleadersmedia.com
-    quality: 54
-    images:
-      - url: "https://www.healthleadersmedia.com/sites/hlmp/files/files/shutterstock_1219327084.jpg"
-        width: 2732
-        height: 1200
-        isCached: true
-  - title: "The First Year of AI College Ends in Ruin"
-    excerpt: "The problem breaks down into more problems: whether it’s possible to know for certain that a student used AI, what it even means to “use” AI for writing papers, and when that use amounts to cheating."
-    publishedDateTime: 2023-05-16T19:19:00Z
-    webUrl: "https://www.theatlantic.com/technology/archive/2023/05/chatbot-cheating-college-campuses/674073/"
-    type: article
-    provider:
-      name: The Atlantic
-      domain: theatlantic.com
-    quality: 47
-  - title: "The Artificial Intelligence Driving Travel Innovations"
-    excerpt: "AI news drove headlines this week, from Expedia, to Google, and even to Skift. Click through for a summary of the top stories."
-    publishedDateTime: 2023-05-13T16:00:00Z
-    webUrl: "https://skift.com/2023/05/13/the-artificial-intelligence-driving-travel-innovations/"
-    ampWebUrl: "https://skift.com/2023/05/13/the-artificial-intelligence-driving-travel-innovations/amp/"
-    cdnAmpWebUrl: "https://skift-com.cdn.ampproject.org/c/s/skift.com/2023/05/13/the-artificial-intelligence-driving-travel-innovations/amp/"
-    type: article
-    provider:
-      name: Skift
-      domain: skift.com
-    quality: 39
-  - title: "The Future Of AI Training Demands Optical Interconnects"
-    excerpt: "Artificial intelligence has taken the datacenter by storm, and it is forcing companies to rethink the balance between compute, storage, and networking. Or"
-    publishedDateTime: 2023-05-15T17:21:00Z
-    webUrl: "https://www.nextplatform.com/2023/05/15/the-future-of-ai-training-demands-optical-interconnects/"
-    type: article
-    provider:
-      name: The Next Platform
-      domain: nextplatform.com
-    quality: 19
 
 secured: "64eBXSaXRVnRb1UUQzlJEvFP8A5rzAvtrfZCZYsR40HtslSs8S6OngvEEusCsyc0YdtO2kYDuFDeCB5M85M9ysC4hcsqGEz+uvtB8ipNkB0PPwCytzKOVJItRB+G2O5u8uK0RF0jSG4w1oIn/BBAOywEyUf7ZlMugIvUDukfWb8dcgtu/XpN5za0LNcwR7e1+kU+da5Uh6yf7dGjnarTnfj5n0YswyoxRj/Jn586hSzp0aBo/LvLukL5efhacWELUnoLeh9KVhlaOeeSlWVgaCaLTDeVKSmdxvD9cR5dqNkp0kv2z0b3cLAEy2FoCpwbcOGhHkOGF/dztrqGqZ+LbBYZeWGWFZL86CmthZBaTdbPKyt50YWDhSRI8YwcDqUhr4saS0KPW/u42W9jwlzqD8VPuOXUh9sSDts7iILCKYRXq4mugzVbWeUSZ0ILONqboyfScudfzNQZU/ENSgf0378nk+5Pd3RijU2xZ5Uvyr/jlT0zAEc5rNFV4j3Q1TW+oLHTvB39d3QHS83ypDhI1w==;PMIw1h4J3Vw6woyxde6inA=="
 ---

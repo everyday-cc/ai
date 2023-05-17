@@ -19,102 +19,123 @@ topics:
   - AI
 
 related:
-  - title: "Cheat Sheets For AI Information Overload"
-    excerpt: "There is now a firehose stream of AI-related information published each day, and it is getting harder to keep up with what's happening in AI."
-    publishedDateTime: 2023-05-16T14:00:00Z
-    webUrl: "https://www.forbes.com/sites/timbajarin/2023/05/16/cheat-sheets-for-ai-information-overload/"
-    ampWebUrl: "https://www.forbes.com/sites/timbajarin/2023/05/16/cheat-sheets-for-ai-information-overload/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/timbajarin/2023/05/16/cheat-sheets-for-ai-information-overload/amp/"
+  - title: "The case for a code of conduct for AI in healthcare"
+    excerpt: "The rise of generative AI has prompted an AI ethicist to propose a framework to mitigate the risks of using the ever-developing tech in the healthcare space. This coincides with the chief executive of ChatGPT’s OpenAI urging US legislators to start regulating AI for the safety of humanity."
+    publishedDateTime: 2023-05-17T07:07:00Z
+    webUrl: "https://newatlas.com/computers/case-code-of-conduct-ai-healthcare/"
+    ampWebUrl: "https://newatlas.com/computers/case-code-of-conduct-ai-healthcare/?amp=true"
+    cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/computers/case-code-of-conduct-ai-healthcare/?amp=true"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: New Atlas
+      domain: newatlas.com
+    quality: 106
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/646272cf4f56e282d1dd3ffb/0x0.jpg?format=jpg&width=1200"
-        width: 887
-        height: 600
-        isCached: true
-  - title: "Get Ready For AI Climate Action"
-    excerpt: "AI can help predict climate risk zones, allocate resources efficiently, and develop impactful climate-related infrastructure projects."
-    publishedDateTime: 2023-05-16T17:06:00Z
-    webUrl: "https://www.forbes.com/sites/sylvainduranton/2023/05/16/get-ready-for-ai-climate-action/"
-    ampWebUrl: "https://www.forbes.com/sites/sylvainduranton/2023/05/16/get-ready-for-ai-climate-action/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sylvainduranton/2023/05/16/get-ready-for-ai-climate-action/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6463b713b18d7efeca795103/0x0.jpg?format=jpg&width=1200"
+      - url: "https://assets.newatlas.com/dims4/default/4f3d9da/2147483647/strip/true/crop/2000x1333+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F14%2Fd0%2F9be4e9844471ab60db09eb3130d5%2Fdepositphotos-198133002-l.jpg"
         width: 1200
-        height: 830
+        height: 800
         isCached: true
-  - title: "How Artificial Intelligence Is Used in Education"
-    excerpt: "Generative AI is setting off a transformation in education. Here's a primer on AI and how its role in education will take shape in the future."
-    publishedDateTime: 2023-05-16T13:12:00Z
-    webUrl: "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/ai-in-education/"
+  - title: "The Danger Of AI Content Farms"
+    excerpt: "In this article, we explore the risks of AI-generated articles, including disinformation, copyright infringement, clickbait, and biased data."
+    publishedDateTime: 2023-05-16T06:27:00Z
+    webUrl: "https://www.forbes.com/sites/bernardmarr/2023/05/16/the-danger-of-ai-content-farms/"
+    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/05/16/the-danger-of-ai-content-farms/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/05/16/the-danger-of-ai-content-farms/amp/"
     type: article
     provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 68
-  - title: "UP RERA Floats Tender For Installation Of Artificial Intelligence"
-    excerpt: "AI will contribute to the development of three major categories of systems: supportive systems, function-based automation systems and autonomous systems."
-    publishedDateTime: 2023-05-16T11:09:00Z
-    webUrl: "https://www.republicworld.com/business-news/india-business/up-rera-floats-tender-for-installation-of-artificial-intelligence-articleshow.html"
-    ampWebUrl: "https://www.republicworld.com/amp/business-news/india-business/up-rera-floats-tender-for-installation-of-artificial-intelligence-articleshow.html"
-    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/business-news/india-business/up-rera-floats-tender-for-installation-of-artificial-intelligence-articleshow.html"
-    type: article
-    provider:
-      name: RepublicWorld
-      domain: republicworld.com
-    quality: 61
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/e9geoifv1itnkiqg_1684234298.jpeg"
-        width: 768
-        height: 438
+      - url: "https://imageio.forbes.com/specials-images/imageserve/646321ba6bb60b67d3dd3ffd/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 820
         isCached: true
-  - title: "AI-generated disinformation poses threat of misleading voters in 2024 election"
-    excerpt: "Computer engineers and political scientists have warned for years that cheap, powerful artificial intelligence tools would soon allow anyone to create fake images, video and audio that was realistic enough to fool voters and perhaps sway an election."
-    publishedDateTime: 2023-05-14T23:52:00Z
-    webUrl: "https://www.pbs.org/newshour/politics/ai-generated-disinformation-poses-threat-of-misleading-voters-in-2024-election"
-    ampWebUrl: "https://www.pbs.org/newshour/amp/politics/ai-generated-disinformation-poses-threat-of-misleading-voters-in-2024-election"
-    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/politics/ai-generated-disinformation-poses-threat-of-misleading-voters-in-2024-election"
+  - title: "Catching bad content in the age of AI"
+    excerpt: "Why haven’t tech companies improved at content moderation? This article is from The Technocrat, MIT Technology Review's weekly tech policy newsletter about power, politics, and Silicon Valley. To receive it in your inbox every Friday,"
+    publishedDateTime: 2023-05-15T10:00:00Z
+    webUrl: "https://www.technologyreview.com/2023/05/15/1073019/catching-bad-content-in-the-age-of-ai/"
+    ampWebUrl: "https://www.technologyreview.com/2023/05/15/1073019/catching-bad-content-in-the-age-of-ai/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/05/15/1073019/catching-bad-content-in-the-age-of-ai/amp/"
     type: article
     provider:
-      name: PBS
-      domain: pbs.org
-    quality: 53
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 59
     images:
-      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2023/05/GettyImages-1309763384-1024x683.jpg"
-        width: 1024
-        height: 683
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/05/hi-wire-netA.jpeg?w=3000"
+        width: 3000
+        height: 1688
         isCached: true
-  - title: "AI in ICT (Information and Communications Technology) Market Future Investments and Forecast Till 2030"
-    excerpt: "The detailed analysis of the AI in ICT (Information and Communications Technology) Market report provides information"
-    publishedDateTime: 2023-05-16T07:35:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-ict-information-and-communications-technology-market-future-investments-and-forecast-till-2030-2023-05-16"
+  - title: "Dr. ChatGPT: A guide to generative AI in healthcare"
+    excerpt: "ChatGPT is a public-facing generative AI text application from OpenAI. OpenAI has developed other generative AI applications available for paying customers and is working with Microsoft, which made a reported $100 billion investment in the company. Other big tech firms such as Google and Meta have launched their own generative AI tools."
+    publishedDateTime: 2023-05-15T10:00:00Z
+    webUrl: "https://www.modernhealthcare.com/digital-health/chatgpt-healthcare-everything-to-know-generative-ai-artificial-intelligence"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 53
+      name: Modern Healthcare
+      domain: modernhealthcare.com
+    quality: 54
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://www.modernhealthcare.com/s3/files/styles/1200x630/public/Chat-GPT-healthcare-2%20%281%29.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "2023-2030 AI in ICT (Information and Communications Technology) Market: Highlights with Growth Data"
-    excerpt: "Market ” Is Projected To Raise Significantly At A Maximum CAGR During The Forecast Period (2023-2030). The Market Is Expected to Witness the Highest Demand World Widely. Pre and Post-COVID Study of AI in ICT (Information and Communications Technology) Market Is Covered in The Most Recent Updated Report [ 2023-2030 ]."
-    publishedDateTime: 2023-05-15T17:18:00Z
-    webUrl: "https://www.marketwatch.com/press-release/2023-2030-ai-in-ict-information-and-communications-technology-market-highlights-with-growth-data-2023-05-15"
+  - title: "WHO warns about healthcare AI bias"
+    excerpt: "WHO warns healthcare organizations about the potential bias and inaccuracy of AI-based models, and calls for clinical oversight to ensure safe, effective."
+    publishedDateTime: 2023-05-16T20:19:00Z
+    webUrl: "https://www.beckershospitalreview.com/innovation/who-warns-about-healthcare-ai-bias.html"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 35
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 54
+    images:
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "The First Year of AI College Ends in Ruin"
+    excerpt: "The problem breaks down into more problems: whether it’s possible to know for certain that a student used AI, what it even means to “use” AI for writing papers, and when that use amounts to cheating."
+    publishedDateTime: 2023-05-16T19:19:00Z
+    webUrl: "https://www.theatlantic.com/technology/archive/2023/05/chatbot-cheating-college-campuses/674073/"
+    type: article
+    provider:
+      name: The Atlantic
+      domain: theatlantic.com
+    quality: 47
+  - title: "Is AI the Solution to Company-Provided Mental Health Care?"
+    excerpt: "Woebot, a CBT-based chatbot created in 2017 by a team of Stanford psychologists and AI experts, fits the criteria. The app uses a form of AI called “natural language processing” to guide users through sequences of responses meant to mimic a clinician’s reasoning."
+    publishedDateTime: 2023-05-15T16:20:00Z
+    webUrl: "https://www.psychologytoday.com/intl/blog/connect-first/202305/is-ai-the-solution-to-company-provided-mental-health-care"
+    type: article
+    provider:
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 39
+    images:
+      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_images/2023-05/Woebot%20Art.png.jpg?itok=5UOZhh-v"
+        width: 1528
+        height: 800
+        isCached: true
+  - title: "General Catalyst leads $50M investment in healthcare AI company"
+    excerpt: "Hippocratic AI, which is building a generative AI large language model designed for healthcare, launched Tuesday."
+    publishedDateTime: 2023-05-16T13:00:00Z
+    webUrl: "https://www.modernhealthcare.com/digital-health/andreessen-horowitz-general-catalyst-fund-hippocratic-ai"
+    type: article
+    provider:
+      name: Modern Healthcare
+      domain: modernhealthcare.com
+    quality: 34
+  - title: "UP RERA to use artificial intelligence for faster resolution of cases in e-Courts"
+    excerpt: "Read more about UP RERA to use artificial intelligence for faster resolution of cases in e-Courts on Devdiscourse"
+    publishedDateTime: 2023-05-16T12:46:00Z
+    webUrl: "https://www.devdiscourse.com/article/technology/2453755-up-rera-to-use-artificial-intelligence-for-faster-resolution-of-cases-in-e-courts"
+    type: article
+    provider:
+      name: devdiscourse
+      domain: devdiscourse.com
+    quality: 12
 
 secured: "LVVbv0XNHW2rKyLZ07JkHvTMTxyVjjaCx6MkMQeLlnlSRgqx1461Dz9YIbrqDMwa7lnTWYokUSQU/I8AtNKpyLPvidTMC1uOU4tw5C8wxTIQEUPUt4L4YinngN9DFddPOGEx38Z8fwcloyj1pim+8GLXuxnQSpR9HWI5RkOuRYUC8O595RLmardI7LcEm0pE/2JHSkieReJuSweq8qSBQt4XukRjBIJoHNLgo1LxMkp/Nbb8VlEtWVXuPD3NICj6SxF1PP+NvBxmHkdbNtg6ntR5CGMVbHmNRe2Bu6RYMS4geEvkASE8OSFkPIDUAWVj0zxKBEm1hIMtpDDswugP+H1oSG8a+iZeKglaAd6CZQg=;MWacv+TXBnFKDxIImHUssQ=="
 ---

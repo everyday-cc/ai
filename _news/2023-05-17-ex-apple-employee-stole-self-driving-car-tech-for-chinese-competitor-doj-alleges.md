@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/anafaguy/2023/05/16/ex-apple-employee-s
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anafaguy/2023/05/16/ex-apple-employee-stole-self-driving-car-tech-for-chinese-competitor-doj-alleges/amp/"
 type: article
 quality: 69
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -47,6 +47,22 @@ related:
         width: 1068
         height: 580
         isCached: true
+  - title: "Former Apple engineer charged for stealing self-driving tech for Chinese company"
+    excerpt: "Weibao Wang was a software engineer at Apple between 2016 and 2018 and served on the Annotation Team, granting him access to exclusive databases, which were restricted to a select few employees."
+    publishedDateTime: 2023-05-17T07:47:00Z
+    webUrl: "https://auto.hindustantimes.com/auto/cars/former-apple-engineer-charged-for-stealing-self-driving-tech-for-chinese-company-41684308954496.html"
+    ampWebUrl: "https://auto.hindustantimes.com/auto/cars/former-apple-engineer-charged-for-stealing-self-driving-tech-for-chinese-company/amp-41684308954496.html"
+    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/cars/former-apple-engineer-charged-for-stealing-self-driving-tech-for-chinese-company/amp-41684308954496.html"
+    type: article
+    provider:
+      name: Auto News India
+      domain: hindustantimes.com
+    quality: 39
+    images:
+      - url: "https://images.hindustantimes.com/auto/img/2023/05/17/1600x900/Apple_Logo_1684309462976_1684309465807.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Loose lips sink ships: Project Titan(ic) engineer charged by DOJ for stealing Apple’s self-driving car tech"
     excerpt: "The United States Department of Justice has announced formal charges against a former Apple engineer. As reported by CNBC,"
     publishedDateTime: 2023-05-16T16:14:00Z
@@ -80,6 +96,6 @@ related:
       domain: www.cbc.ca
     quality: 1
 
-secured: "RKcniqaAEiG1ANG2bCwHcxyns/Zxe0hEsS7yX3hDtPY4llcvm0rt761L0yOIbVPvk6OYLEbkWFutwz+CUpu/9H6aOyYZdGkmi8o7DLTuhnEpFqpz9TjrZoVfQ+pofpHSqdHZITim6yOmEFc7L1DJQALi90St/qA7+Y5KPaa6eL+1Pfn2O7BfJ8n2qXvKTEBf/HyvpEjRig2zb0BoSEG0ZkR2YrWm99GIzgM/BYltDB/zq/mWPzYLM4H1HKqqRNhGegiYdjk1eVya4va0Wzus+R11FKTJGOZoFTCP7Y4chTpOm4z7o54vF2hCYguMilW65yt6kthLD0wcQhzPGCxHXLp9KLsdJz6ZOiX1HPDTqGM=;FY7kcTy+DwXaueCYPZzOKw=="
+secured: "tSu3o1D8+mwWYkZjxmPfwCfwEa5+sNQ4Ehb96IGNCv4SKcEqh5lEC1U1kiN9tzLPMQOtNZ8ihuPVo1I/ehP2ON8NZXnKhRz7Y+9XGjeXe89fPfPL6GjUXxt73ldAWW5Yy1PWZUuicri35sXaJNd4gZ74VfyctBNIyG4qYL831Z/bxv81/IKRU1lJVKIHWT/u+aeinrqKg6Mrkp/nzJipSGCr391ZHa0uaHA1c6E3S2RL3/1viBn1MEkXgq5kN5WihINqTPuMikZhTMb1PEpl1dNMkdRALf+kG//LoPskQBzy1eeyrMDy6yZPU7T6W7Jw4jSNugA+tZ6ulKFOCv9fG8fHYG/3BcaFuJjeZApjVoOpoFLoFtlyxQFWOWadjUVjoYFPCezIfyxBv8z230oaI9CxqTcROVy4J1YxWnegbgCXjoDWJL7vMsoJnd7aQl8lxPiy+1MmAtiT+H4kmVCXHGlsiMgZ1nChgmR6oi0oQ4k1204sIxNZ3Xm3frRnmUwdXw8ZUHA14MeoYOTXjlh8nA==;SYT0ckDAyRzXlKgi4829AQ=="
 ---
 
