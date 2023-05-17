@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/theyec/2023/05/16/navigating-the-ai-rev
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2023/05/16/navigating-the-ai-revolution-how-to-successfully-implement-ai-in-business/amp/"
 type: article
 quality: 85
-heat: 175
+heat: 185
 published: true
 
 provider:
@@ -136,6 +136,20 @@ related:
       - url: "https://financialit.net/sites/default/files/klarna_14.png"
         width: 1366
         height: 768
+        isCached: true
+  - title: "For chemists, the AI revolution has yet to happen"
+    excerpt: "Machine-learning systems in chemistry need accurate and accessible training data. Until they get it, they won’t achieve their potential."
+    publishedDateTime: 2023-05-17T10:41:00Z
+    webUrl: "https://www.nature.com/articles/d41586-023-01612-x"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 37
+    images:
+      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-023-01612-x/d41586-023-01612-x_25360562.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "Bitpanda invests $10m in AI to “revolutionise” wealth creation"
     excerpt: "Austrian fintech Bitpanda is investing $10m into artificial intelligence to establish Bitpanda.ai. The investment marks the first move towards establishing a dedicated AI division for the company, which was founded by Eric Demuth,"

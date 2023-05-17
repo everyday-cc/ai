@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/opinion/meet-my-new-co-pilot-doctor-office-a
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/meet-my-new-co-pilot-doctor-office-artificial-intelligence.amp"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "AI May Be on Its Way to Your Doctor's Office, But It's Not Ready to See Patients"
-    excerpt: "Few in healthcare believe this latest form of AI is about to take their jobs. The article was published on Friday, May 12, 2023 in. By Darius Tahir. What use co"
-    publishedDateTime: 2023-05-12T17:54:00Z
-    webUrl: "https://www.healthleadersmedia.com/technology/ai-may-be-its-way-your-doctors-office-its-not-ready-see-patients"
-    type: article
-    provider:
-      name: HealthLeaders Media
-      domain: healthleadersmedia.com
-    quality: 32
-    images:
-      - url: "https://www.healthleadersmedia.com/sites/hlmp/files/files/ehr_0.jpg"
-        width: 2732
-        height: 1200
-        isCached: true
 
 secured: "A6kvphNYtOqI5DYYBqgaKafb5YjrWrNVmBhcIKkM2NGcGOOazkvb24/wRRMz7zfVphyksr4FXLz+w4/flvpzxM4nT4Zm2ZT08g78tbM+ieNE/aKBynfyJsaBVDgM1wAw6oEGSnv/o5tixCNDDb2IOwVk4xxYyvZxM1dmFHqQH7VGVigBsdUCd1YGHqVzceu31WvMR+l9bfz8OeavEs9Lg7yGdYIcFxkLeeMMfejmdbETJJj1tH89gXObvpXI3upWyldLI+tZMwH9w0kMKdfFYfcLSXxyt9IcctKAncfpd52VakTGqVWnMYAofh0wnbev7WnmtY0DWMyCPpNF6JKgcUnfPNB5SXCirN8BgBDUkciYqORsTTF1Yssr2dTMddvAHnSZ7dCVq4tnykvgj18ICyxkRcIFkV9097pR62hmFnlFhYvLFOfsJVWX18fJAu86qzh15++hHKWe7I4nW5hMjnckRMZVTsPPUrU223HXP6wzGDk3OS68zucbg1Mb4wkcMbhYZCS9EQBVYKifJ+rSWg==;djUtY7W5H15b9uYjbI/WWA=="
 ---

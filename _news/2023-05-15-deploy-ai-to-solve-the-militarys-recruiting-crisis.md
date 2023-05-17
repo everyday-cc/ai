@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/opinion/deploy-ai-solve-military-recruiting-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/deploy-ai-solve-military-recruiting-crisis.amp"
 type: article
 quality: 87
-heat: 87
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -28,6 +28,24 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Can Artificial Intelligence Solve The Growing Mental Health Crisis?"
+    excerpt: "One such novel concept is the use of artificial intelligence in the mental health space. A couple seeks therapy with a mental health professional. With the advent of generative AI, conversational AI, and natural language processing, the thought of using ..."
+    publishedDateTime: 2023-05-17T10:03:00Z
+    webUrl: "https://www.forbes.com/sites/saibala/2023/05/17/can-artificial-intelligence-solve-the-growing-mental-health-crisis/"
+    ampWebUrl: "https://www.forbes.com/sites/saibala/2023/05/17/can-artificial-intelligence-solve-the-growing-mental-health-crisis/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/saibala/2023/05/17/can-artificial-intelligence-solve-the-growing-mental-health-crisis/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/646462ac9c9f76912ae63699/0x0.jpg?format=jpg&crop=6000,3375,x0,y61,safe&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "UOhB7qV77MAhJ6VqH7GelyHKOuIkKNZgar0XmIDBMG9Ec61VzOT0E8MK0lSTeB+qCEZodZPYUxqIycRDzzek25nlNvnmItGsk+nv8oe33kPvBjjE0z/twJSYX3CTPNCoc12lBRWkGq49EwLvhDGtF0O7IYPBkaAEiyGHK2XmqiGqrAgES4Az/E/mlOYocdl/MJfvkyvvqiAwPqV6v+4r6lfAFguC9mMnBAMtf2fjlSuuqgqaDFgtQNe+F7kA1IgoMZG+NFtyEEnnh7jBRn7CKX9NSSkiBlnwelsZcgP+rzZ0kWGDVu4EGDW8iQFVDcr6sg6zjgGgOdOIw+8ez6qDZwdDrJJ+QVMTJHIZMc9NKMY=;JpSmRQ2HfUY3AhlnN/MgzQ=="
 ---

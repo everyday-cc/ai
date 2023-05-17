@@ -76,6 +76,20 @@ related:
         width: 750
         height: 499
         isCached: true
+  - title: "BOOSTBILLS RECOGNISED AS A MARKET-LEADING FINTECH INNOVATION THAT SIMPLIFIES BILL PAYMENTS"
+    excerpt: "Boost, the fintech arm of Axiata, recently received market validation for its game-changing BoostBills feature. Having bagged the Digital – Financial Technology trophy at the Malaysia Technology Excellence Awards 2023,"
+    publishedDateTime: 2023-05-17T11:45:00Z
+    webUrl: "https://www.bernama.com/en/press/news.php?id=2189840"
+    type: article
+    provider:
+      name: bernama
+      domain: bernama.com
+    quality: 14
+    images:
+      - url: "https://www.bernama.com/storage/photos/69808354cde835c8879a423c8cd5f7616464956c6fb69"
+        width: 1110
+        height: 694
+        isCached: true
   - title: "Partnerships Play A Key Role In Fintech's Future"
     excerpt: "Partnerships Play a Key Role in Fintech's Future Vancouver, Kelowna, and Delta, British Columbia--(Newsfile Corp. - May 16, 2023) - investorideas"
     publishedDateTime: 2023-05-16T12:43:00Z

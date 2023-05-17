@@ -34,22 +34,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "ChatGPT: Everything you need to know about the AI-powered chatbot"
-    excerpt: "Here's a guide to help understand Open AI's viral text-generating system. We outline the most recent updates and answer the most common FAQs."
-    publishedDateTime: 2023-05-12T18:22:00Z
-    webUrl: "https://techcrunch.com/2023/05/12/chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot/"
-    ampWebUrl: "https://techcrunch.com/2023/05/12/chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/12/chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 89
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1462188043.jpg?resize=1200,798"
-        width: 1200
-        height: 798
-        isCached: true
   - title: "ChatGPT Creator Is Worried About AI"
     excerpt: "Last month, Google and Alphabet CEO Sundar Pichai told 60 Minutes that \"every product of every company\" will be impacted by AI's rapid development. He, like Altman and Hinton, has trepidation about the possible repercussions. Google has its own chatbot called Bard."
     publishedDateTime: 2023-05-16T21:22:00Z
@@ -92,7 +76,7 @@ related:
     provider:
       name: Indiatimes
       domain: indiatimes.com
-    quality: 69
+    quality: 67
     images:
       - url: "https://static.toiimg.com/photo/75433510.cms"
         width: 330
@@ -208,15 +192,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "ChatGPT and Generative AI: Our Guide to 2023's Most Talked-About Technology"
-    excerpt: "ChatGPT brought generative AI into the limelight when it hit 1 million users in five days. But how valid is the buzz around ChatGPT?"
-    publishedDateTime: 2023-05-12T18:30:00Z
-    webUrl: "https://www.businessinsider.com/chatgpt-generative-ai-guide-to-2023-most-talked-about-technology-2023-may"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 45
   - title: "ChatGPT's chief to testify before Congress as concerns grow about artificial intelligence's risks"
     excerpt: "The head of the artificial intelligence company that makes ChatGPT is set to testify before Congress as lawmakers call for new rules to guide the rapid development of AI technology"
     publishedDateTime: 2023-05-16T11:11:00Z
@@ -247,15 +222,6 @@ related:
         width: 1024
         height: 512
         isCached: true
-  - title: "ChatGPT and Generative AI in Insurance: Reality, Hype, What's Next, and How to Prepare"
-    excerpt: "ChatGPT is the most talked-about technology of 2023 and has piqued the interest of insurance industry leaders."
-    publishedDateTime: 2023-05-12T18:00:00Z
-    webUrl: "https://www.businessinsider.com/generative-ai-in-insurance-reality-next-hype-how-to-prepare-2023-may"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 39
   - title: "AI Triumph: ChatGPT Passes Radiology Exams"
     excerpt: "ChatGPT has successfully passed a radiology board-style exam, demonstrating the potential of large language models in medical contexts."
     publishedDateTime: 2023-05-16T16:31:00Z
@@ -336,6 +302,20 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2023/05/16/PDTN/f3f9d9f4-7be7-4295-8e3c-c3a5f0bb873a-AP23124580482542.jpg?auto=webp&crop=509,287,x501,y51&format=pjpg&width=1200"
         width: 1200
         height: 677
+        isCached: true
+  - title: "ChatGPT chief calls for AI rules"
+    excerpt: "The head of the artificial intelligence company that makes ChatGPT told Congress on Tuesday that government intervention will be critical to mitigating the risks of increasingly powerful AI systems."
+    publishedDateTime: 2023-05-17T10:39:00Z
+    webUrl: "https://www.arkansasonline.com/news/2023/may/17/chatgpt-chief-calls-for-ai-rules/"
+    type: article
+    provider:
+      name: Arkansas Democrat-Gazette
+      domain: arkansasonline.com
+    quality: 37
+    images:
+      - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/204367744_204366670-2cc0af30a282477d9c56034321601b55_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
+        width: 600
+        height: 399
         isCached: true
   - title: "ChatGPT chief says AI should be regulated"
     excerpt: "The head of the artificial intelligence company that makes ChatGPT told Congress on Tuesday that government intervention will be critical to mitigating the risks of increasingly powerful AI systems."
@@ -477,15 +457,6 @@ related:
       name: Daily Press
       domain: dailypress.com
     quality: 16
-  - title: "Google ups the ante on AI to compete with ChatGPT. Here's how search and Gmail will change."
-    excerpt: "Here's how Google is introducing more AI into your everyday computing experience. Google unveiled a suite of new functions for both PCs and phones."
-    publishedDateTime: 2023-05-12T18:51:00Z
-    webUrl: "https://www.usatoday.com/story/tech/2023/05/12/google-ai-search-gmail-changes-chatgpt/70211454007/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 7
 
 secured: "qmpJ0YTju0H8zi7tYgFuHpMSOhH7ndn4vl9O2I4og4jOqWlK25jo2qauUz5peLrVQCXCTLWxZltQl1UIP3VyevY+Bl6KRjNAzd1Sj8OE/3uMG4NR4y999P6IAVjPLCyY6Q4ZKAYyyXEvahqYH/WkgfhTwI235oXzWBsmD5cfpwHC5qd6hpjlSfL9aKc6GzfuI5sMatjKOWH7oCkhzVGrP2kyO9WLaqjt2++L/bL98DNf9qVZui03FWbcuemrCE4Ko/uShcouEY4KpEJElQmrcnyyJiATeu4Y5iVR4cHrxjPrs4gB27NjGpo1OxuGuQpq8iY81iHwOd86miMd5yrTeRoRy2A3BiE8jKhUtIez3U4=;To0n6NPuB/LPEOOYukwUAg=="
 ---

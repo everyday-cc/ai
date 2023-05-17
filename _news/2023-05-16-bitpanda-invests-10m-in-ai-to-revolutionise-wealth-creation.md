@@ -142,6 +142,20 @@ related:
         width: 1366
         height: 768
         isCached: true
+  - title: "For chemists, the AI revolution has yet to happen"
+    excerpt: "Machine-learning systems in chemistry need accurate and accessible training data. Until they get it, they won’t achieve their potential."
+    publishedDateTime: 2023-05-17T10:41:00Z
+    webUrl: "https://www.nature.com/articles/d41586-023-01612-x"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 37
+    images:
+      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-023-01612-x/d41586-023-01612-x_25360562.jpg"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "GVOH5gt1Z+Zqqu5kNn7H7/F1621eDup0Uqo3tVi+0xHENbtclS+m1p3SeT3gG5qIT2TwNfw4CdleXwm8g8YfTgZRQAU53YX6Gb3/NXWvqjGbChjKYNX5XVR8nrsOMf30iyrpdFipc7zQCX0QxB7SrvC6qBP/BmPzYSFjHSyNyXaDB+imT/n9WkBgmOk9v6PlOjITjGyac9mKzl8JWE5yJBhDAfyec1eHd3mtFqgX/JHgh4YbwQfaW6HwcJoAOp4mznPhtQdTXUj2tCLr1j+WiUovCR570n81kZlHP9A/cgb5fAe1xe78ZsExS/2xMh99DlPykfHMvH1mQx1d+mtcv8k9ZdHrDfjF2hn3suyBwR5AvTyMz1thfYdSIu1RNwO7cj+OLYAhD0iW3+v6VZvYYVFaV/yy/XgXB8s9TLkYlfTBhiEj5JB0IqvS+68ITqW3xHAMwilpiggJH2093B6IUHbcSbGF0ScnVW2QFYmdXfML9wYm0hbctZb9fuF6rIZanbeeSb0jDib1bnCmiU0B/Q==;EHw9ygcpnbHnSC0qD0scXQ=="
 ---

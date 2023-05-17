@@ -58,6 +58,20 @@ related:
         width: 420
         height: 300
         isCached: true
+  - title: "With a CAGR of 28.4%, Artificial Intelligence in Breast Imaging Market to Grow Exponentially by 2029 - Brandessence Market Research"
+    excerpt: "The business intelligence report on Global Artificial Intelligence in Breast Imaging Market by Brandessence Market Research provides a comprehensive analysis of the current state of the market and its future prospects."
+    publishedDateTime: 2023-05-17T11:46:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/05/17/9815871.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 9
+    images:
+      - url: "https://mma.prnewswire.com/media/1392316/BEMR_Logo.jpg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "Industrial Machine Vision Market is Anticipated to Develop at a CAGR of 6.9% from 2022 to 2032 | Report by FMI"
     excerpt: "The market for industrial machine vision worldwide is anticipated to reach $8.45 billion in 2022. During the projected period (2022-2032), the market is expected to grow at a CAGR of 6.9% and reach a value of US$ 16."
     publishedDateTime: 2023-05-16T01:37:00Z

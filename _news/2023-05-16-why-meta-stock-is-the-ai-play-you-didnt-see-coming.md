@@ -33,15 +33,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 51
-  - title: "AI Stock Short Squeeze Coming? Why C3.ai Is a Buy Regardless"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Since the height of mania over artificial intelligence stocks during March,"
-    publishedDateTime: 2023-05-16T10:15:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ai-stock-short-squeeze-coming-why-c3-ai-is-a-buy-regardless-1032330592"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
   - title: "Hero or Zero? 3 High-Risk AI Stocks That Could Make You Rich … or Broke."
     excerpt: "Although Alphabet encountered a bumpy start in the AI search engine competition, investors should not underestimate the company’s potential. In the years ahead, Alphabet’s strategic advancements in AI could potentially yield substantial returns for ..."
     publishedDateTime: 2023-05-16T13:19:00Z

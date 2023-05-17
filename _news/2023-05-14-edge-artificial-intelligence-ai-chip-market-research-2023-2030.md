@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/edge-artificial-intellig
 webUrl: "https://www.marketwatch.com/press-release/edge-artificial-intelligence-ai-chip-market-research-2023-2030-2023-05-14"
 type: article
 quality: 99
-heat: 339
+heat: 329
 published: true
 
 provider:
@@ -108,20 +108,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 82
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "2023 Artificial Intelligence (AI) Market: Regional Growth Drivers till 2031"
-    excerpt: "Insightful Investigation 2023: “Artificial Intelligence (AI) Market” Growth Projections and Key Dynamics | Survey with"
-    publishedDateTime: 2023-05-12T17:47:00Z
-    webUrl: "https://www.marketwatch.com/press-release/2023-artificial-intelligence-ai-market-regional-growth-drivers-till-2031-2023-05-12"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 80
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

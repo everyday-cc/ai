@@ -28,7 +28,7 @@ related:
   - title: "UK policing minister pushes for greater use of facial recognition"
     excerpt: "Chris Philp expressed desire to expand use of controversial technology in closed door meetings, according to report"
     publishedDateTime: 2023-05-15T23:01:00Z
-    webUrl: "https://www.ft.com/content/b8477e16-349d-442d-8e69-59b328ba9189"
+    webUrl: "https://www.ft.com/content/b8477e16-349d-442d-8e69-59b328ba9189?shareType=nongift"
     type: article
     provider:
       name: The Financial Times

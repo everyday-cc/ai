@@ -9,7 +9,7 @@ ampWebUrl: "https://www.devdiscourse.com/article/technology/2452129-the-top-fint
 cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2452129-the-top-fintech-disruptions-shaping-the-future-of-finance?amp"
 type: article
 quality: 59
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -67,6 +67,20 @@ related:
       - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/487831223/image_487831223.jpg?io=getty-c-w750"
         width: 750
         height: 499
+        isCached: true
+  - title: "BOOSTBILLS RECOGNISED AS A MARKET-LEADING FINTECH INNOVATION THAT SIMPLIFIES BILL PAYMENTS"
+    excerpt: "Boost, the fintech arm of Axiata, recently received market validation for its game-changing BoostBills feature. Having bagged the Digital – Financial Technology trophy at the Malaysia Technology Excellence Awards 2023,"
+    publishedDateTime: 2023-05-17T11:45:00Z
+    webUrl: "https://www.bernama.com/en/press/news.php?id=2189840"
+    type: article
+    provider:
+      name: bernama
+      domain: bernama.com
+    quality: 14
+    images:
+      - url: "https://www.bernama.com/storage/photos/69808354cde835c8879a423c8cd5f7616464956c6fb69"
+        width: 1110
+        height: 694
         isCached: true
   - title: "Fintech or TechFins: Two Sides of the same coin of Bank Digital Transformation Space"
     excerpt: "TechFins support the end to end Digital Transformation of a process from Origination to Credit underwriting to disbursement and also servicing."

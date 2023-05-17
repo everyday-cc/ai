@@ -3,10 +3,10 @@ category: news
 title: "TSA is testing facial recognition at more airports, raising privacy concerns"
 excerpt: "The agency tasked with securing America's airports is testing the use of facial recognition technology at a number of airports across the country"
 publishedDateTime: 2023-05-15T20:16:00Z
-originalUrl: "https://abcnews.go.com/Technology/wireStory/tsa-tests-facial-recognition-technology-boost-airport-security-99322644"
-webUrl: "https://abcnews.go.com/Technology/wireStory/tsa-tests-facial-recognition-technology-boost-airport-security-99322644"
-ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/tsa-tests-facial-recognition-technology-boost-airport-security-99322644"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/tsa-tests-facial-recognition-technology-boost-airport-security-99322644"
+originalUrl: "https://abcnews.go.com/US/wireStory/tsa-tests-facial-recognition-technology-boost-airport-security-99322460"
+webUrl: "https://abcnews.go.com/US/wireStory/tsa-tests-facial-recognition-technology-boost-airport-security-99322460"
+ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/tsa-tests-facial-recognition-technology-boost-airport-security-99322460"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/tsa-tests-facial-recognition-technology-boost-airport-security-99322460"
 type: article
 quality: 71
 heat: -1
@@ -203,6 +203,22 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Police to use facial recognition technology in Cardiff during Beyoncé concert"
+    excerpt: "Police will deploy technology in city centre to identify wanted individuals, leading to warning use of invasive surveillance becoming normalised"
+    publishedDateTime: 2023-05-17T10:39:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/may/17/police-to-use-facial-recognition-technology-in-cardiff-during-beyonce-concert"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/may/17/police-to-use-facial-recognition-technology-in-cardiff-during-beyonce-concert"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/may/17/police-to-use-facial-recognition-technology-in-cardiff-during-beyonce-concert"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 56
+    images:
+      - url: "https://i.guim.co.uk/img/media/3a12bb2b66919a0de7aa6de18f9b59fce630ecd3/0_146_4788_2873/master/4788.jpg?width=620&quality=85&auto=format&fit=max&s=3e2a733ed8b2a6363654cfbb017ed40e"
+        width: 620
+        height: 372
+        isCached: true
   - title: "TSA testing facial recognition at more airports, raising privacy concerns"
     excerpt: "Advocates are concerned about how the data is collected, who has access to it and what happens if it gets hacked."
     publishedDateTime: 2023-05-16T01:05:00Z
@@ -388,6 +404,6 @@ related:
       domain: thedailyrecord.com
     quality: 28
 
-secured: "02th6cEeG1VPHIO/J2BjiGNvi8ypmPlaxz/mTyHwCizUgsWvOMeEudmSrC51snWOg9TflZgDQQS6Q2MAJN6zX/01tq60RvVlLGwyXlEXoh94O0Ub3QcM6KfQrvfl02xXwpoY6XpzPHhTeQY/+g8oAXb9Pi7sv5Jt9V0/pmrDj1NDp60T+F1xRZML66nQCzx8AOl/1XUD1tyRBmV7aaIpvzvUNOymkJDK9N0Wgh2OQRKvYjwO1tv8xAHNsIhU7Qw7RwMcx8vTho05ecywqQJiG1X1pXIo5d+pvliatxuBBxb/pB9MTTZU8TmS8FJ0k3gTm0rYIScabR3V5eqtzbOaTjJ+gusBl7bPRyv90jMgCc8=;4VzKBstRlCcQB46R4RyUyQ=="
+secured: "P7eN8kc3JTl0feqVx1tpN/Vfq+o6+nZnuMV7kxBS5j/hTe6oqCYrVjUTA2gPk28Hb72Clu/DMxt0Ol7YRJViZJdLQB1dSWdOs3Dsh4SJmtR4XAt2hpYBOTFdflTrOT4Nd5IUTU7mHg3KYcfELYy55trcv+4TPi39aD29EFnHbdC7GqFiBwV6bLcWEYodhZ3NJB8N2r7ANuxflqSvPmwclKhz0gH/81SLq+UIO9AfD798FLMTlPnWrLqIsxY36gkdh1XvGFICXlt9oAaE5jVtqO1EmVdca3awrkqbfQn1uYjgxLe9Ck1/Z+4+dD2t+OIE3SLiWFjXGHPpukOnOyyEtgCrmIIgkT+5/mnYesr8+x4=;aRsq5gPMGLYc2mBm+AwXlA=="
 ---
 

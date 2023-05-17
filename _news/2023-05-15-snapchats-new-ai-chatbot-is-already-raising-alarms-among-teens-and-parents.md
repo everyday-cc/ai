@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2023/04/27/tech/snapchat-my-ai-concerns-well
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/04/27/tech/snapchat-my-ai-concerns-wellness/index.html"
 type: article
 quality: 85
-heat: 145
+heat: 155
 published: true
 
 provider:
@@ -101,6 +101,15 @@ related:
       name: CRN
       domain: crn.com
     quality: 16
+  - title: "The frightening truth about AI chatbots: Nobody knows exactly how they work"
+    excerpt: "Nobody really knows how chatbots work. The AI community is divided on whether that fact could come to haunt us as the technology improves and proliferates."
+    publishedDateTime: 2023-05-17T03:59:00Z
+    webUrl: "https://www.fastcompany.com/90896928/the-frightening-truth-about-ai-chatbots-nobody-knows-exactly-how-they-work"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 15
 
 secured: "ye6owJmWHDqrGmjR978y76uDqpOS1SAi4YXA4c5Ci1kxnh+SCTGt3F12ff2FkAVa36qSTitsKSPG0hBY8WVtOtsJqMbqfZHQgNHsRlIqJJB2HqozbE9utql5C/k2zLFtI6wV5e0App1ImFPuR+FJBN058hfogxsmmSdDuZiY3baW5pMIokliLRn57pJPrHf0OIRkF1LURT5oo070W97jLiZaGnv5WfxjpzJhWHAS+9t+eU5Xpz1RrdGVLGHAUaB8Q4DxI6InRoskX6xtC+qWeLc1FGP9MZVfvAEH3XkoMlvwSUAr3euAPgLeyuE3lPGCA7jO7gFJjNWqzXkVL82g72Rbp1rcn3D9EebZdmtHBBI=;8jfIR3xBGQ6j0YLV0zTGLw=="
 ---

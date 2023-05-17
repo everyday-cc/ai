@@ -56,6 +56,20 @@ related:
         width: 420
         height: 300
         isCached: true
+  - title: "With a CAGR of 28.4%, Artificial Intelligence in Breast Imaging Market to Grow Exponentially by 2029 - Brandessence Market Research"
+    excerpt: "The business intelligence report on Global Artificial Intelligence in Breast Imaging Market by Brandessence Market Research provides a comprehensive analysis of the current state of the market and its future prospects."
+    publishedDateTime: 2023-05-17T11:46:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/05/17/9815871.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 9
+    images:
+      - url: "https://mma.prnewswire.com/media/1392316/BEMR_Logo.jpg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "AI Governance Market to Reach a Revenue of Around US$ 4.7 billion by the End of 2033 at a CAGR of 40.5% | Persistence Market Research"
     excerpt: "According to Persistence Market Research, the global artificial intelligence (AI) governance market solutions is predicted to skyrocket at a CAGR of 40.5% from 2023 to 2033."
     publishedDateTime: 2023-05-13T00:45:00Z

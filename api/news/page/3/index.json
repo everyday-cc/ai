@@ -2,6 +2,153 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-05-16-parablu-to-deliver-microsoft-azure-hosted-cybersecurity-and-data-resiliency-saas-solutions.md",
+      "title": "Parablu to Deliver Microsoft Azure-Hosted Cybersecurity and Data Resiliency SaaS Solutions",
+      "excerpt": "Parablu will leverage Microsoft Cloud infrastructure and services –– Microsoft Azure and Microsoft 365 to deliver scalable ... making it easier for customers as well as AI tools to find and use this data effectively. \"With more knowledge workers ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/parablu-to-deliver-microsoft-azure-hosted-cybersecurity-and-data-resiliency-saas-solutions-2023-05-15",
+      "originalUrl": "https://www.marketwatch.com/press-release/parablu-to-deliver-microsoft-azure-hosted-cybersecurity-and-data-resiliency-saas-solutions-2023-05-15",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-15T20:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-16-bluesky-digital-assets-corp-announces-intent-to-repurpose-its-gpu-assets-based-on-ai-demand.md",
+      "title": "Bluesky Digital Assets Corp., Announces Intent to Repurpose its GPU Assets Based on AI Demand",
+      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Toronto, Ontario, May 15, 2023 (Newsfile Corp via COMTEX) -- Toronto, Ontario--(Newsfile Corp. - May 15, 2023) - Bluesky Digital Assets Corp., (CSE: BTC) (OTCQB: BTCWF ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/bluesky-digital-assets-corp-announces-intent-to-repurpose-its-gpu-assets-based-on-ai-demand-2023-05-15",
+      "originalUrl": "https://www.marketwatch.com/press-release/bluesky-digital-assets-corp-announces-intent-to-repurpose-its-gpu-assets-based-on-ai-demand-2023-05-15",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-15T19:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-16-worlds-first-self-driving-bus-rolls-out-in-scotland.md",
+      "title": "World’s first self-driving bus rolls out in Scotland",
+      "excerpt": "The world’s first self-driving bus rolled out in Scotland carrying passengers on a regularly scheduled route. NBC News’ Matt Bradley reports on the future of public transport.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/now/video/world-s-first-self-driving-bus-rolls-out-in-scotland-174465605630",
+      "originalUrl": "https://www.nbcnews.com/now/video/world-s-first-self-driving-bus-rolls-out-in-scotland-174465605630",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_05/1684202953745_now_staytuned_scotland_230515_1920x1080-uvfure.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo174465605630",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo174465605630",
+      "publishedDateTime": "2023-05-15T19:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-16-online-search-to-make-up-lost-time-with-ai.md",
       "title": "Online Search To Make Up Lost Time With AI",
       "excerpt": "Online search, dominated by Google for 25 years, has become as banal as making a phone call, but it could finally be getting a profound reset thanks to artificial intelligence.",
@@ -52,7 +199,7 @@
       "originalUrl": "https://venturebeat.com/ai/friend-or-foe-defining-industry-responsibility-for-ai-based-technology/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -103,7 +250,7 @@
       "originalUrl": "https://www.forbes.com/sites/ebenbayer/2023/05/15/ai--biotechnology-show-its-time-to-think-past-bicycles-for-the-mind/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -142,49 +289,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-16-west-virginia-lawmakers-hear-testimony-about-risks-benefits-of-ai.md",
-      "title": "West Virginia Lawmakers Hear Testimony About Risks, Benefits of AI",
-      "excerpt": "Experts shared the benefits and risks posed by quickly emerging AI systems. In addition to the standard security concerns the technology brings, experts were quick to share some of the workforce efficiencies it provides as well.",
-      "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/artificial-intelligence/west-virginia-lawmakers-hear-testimony-about-risks-benefits-of-ai",
-      "originalUrl": "https://www.govtech.com/artificial-intelligence/west-virginia-lawmakers-hear-testimony-about-risks-benefits-of-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://erepublic.brightspotcdn.com/dims4/default/b3d4ac8/2147483647/strip/true/crop/940x490+0+68/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F4d%2F69%2F1ac3ed2fcbc1fcb278e86144eb01%2Fshutterstock-1301147023.jpg",
-          "width": 840,
-          "height": 438,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.govtech.com/artificial-intelligence/west-virginia-lawmakers-hear-testimony-about-risks-benefits-of-ai?_amp=true",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/artificial-intelligence/west-virginia-lawmakers-hear-testimony-about-risks-benefits-of-ai?_amp=true",
-      "publishedDateTime": "2023-05-15T17:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     },
@@ -877,7 +981,7 @@
       "originalUrl": "https://www.ibm.com/blog/unlock-productivity-with-advanced-generative-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 239,
+      "heat": 249,
       "tags": null,
       "images": [
         {
@@ -1123,110 +1227,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-15-self-driving-wheelchair-market-size-investigation-report-2023-2030-by-absolute-reports-in-healthcare-medical-devices-industry-with-104-pages.md",
-      "title": "Self Driving Wheelchair Market Size Investigation Report 2023-2030 by Absolute Reports in Healthcare , Medical Devices Industry | with [104 Pages]",
-      "excerpt": "May 15, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry. The Global \"Self Driving Wheelchair",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/self-driving-wheelchair-market-size-investigation-report-2023-2030-by-absolute-reports-in-healthcare-medical-devices-industry-with-104-pages-2023-05-15",
-      "originalUrl": "https://www.marketwatch.com/press-release/self-driving-wheelchair-market-size-investigation-report-2023-2030-by-absolute-reports-in-healthcare-medical-devices-industry-with-104-pages-2023-05-15",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-15T07:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-05-15-ai-isnt-coming-for-your-job-but-spotlights-outdated-learning-development-practices.md",
-      "title": "AI Isn’t Coming For Your Job, But Spotlights Outdated Learning & Development Practices",
-      "excerpt": "Given the rapid advancement in what technology can do for businesses, companies must approach learning & development more innovatively to equip their people to maintain relevant skills.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lindsaykohler/2023/05/15/ai-isnt-coming-for-your-job-but-spotlights-outdated-learning--development-practices/",
-      "originalUrl": "https://www.forbes.com/sites/lindsaykohler/2023/05/15/ai-isnt-coming-for-your-job-but-spotlights-outdated-learning--development-practices/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64623f34728c3728e4dd3ff9/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 673,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lindsaykohler/2023/05/15/ai-isnt-coming-for-your-job-but-spotlights-outdated-learning--development-practices/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lindsaykohler/2023/05/15/ai-isnt-coming-for-your-job-but-spotlights-outdated-learning--development-practices/amp/",
-      "publishedDateTime": "2023-05-15T07:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

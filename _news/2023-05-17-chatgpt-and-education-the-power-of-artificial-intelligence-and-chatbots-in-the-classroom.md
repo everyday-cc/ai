@@ -8,7 +8,7 @@ webUrl: "https://timesofindia.indiatimes.com/blogs/voices/chatgpt-and-education-
 ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/chatgpt-and-education-the-power-of-artificial-intelligence-and-chatbots-in-the-classroom/"
 cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/chatgpt-and-education-the-power-of-artificial-intelligence-and-chatbots-in-the-classroom/"
 type: article
-quality: 69
+quality: 67
 heat: -1
 published: false
 
@@ -17,10 +17,9 @@ provider:
   domain: indiatimes.com
 
 topics:
-  - AI in Autos
+  - AI in Healthcare
   - AI
   - AI in Education
-  - AI in Healthcare
 
 images:
   - url: "https://static.toiimg.com/photo/75433510.cms"
@@ -44,22 +43,6 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/645bfa0c8aa4ed65ec653182/0x0.jpg?format=jpg&crop=3887,2914,x350,y0,safe&width=1200"
         width: 1200
         height: 900
-        isCached: true
-  - title: "ChatGPT: Everything you need to know about the AI-powered chatbot"
-    excerpt: "Here's a guide to help understand Open AI's viral text-generating system. We outline the most recent updates and answer the most common FAQs."
-    publishedDateTime: 2023-05-12T18:22:00Z
-    webUrl: "https://techcrunch.com/2023/05/12/chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot/"
-    ampWebUrl: "https://techcrunch.com/2023/05/12/chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/12/chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 89
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1462188043.jpg?resize=1200,798"
-        width: 1200
-        height: 798
         isCached: true
   - title: "ChatGPT Creator Is Worried About AI"
     excerpt: "Last month, Google and Alphabet CEO Sundar Pichai told 60 Minutes that \"every product of every company\" will be impacted by AI's rapid development. He, like Altman and Hinton, has trepidation about the possible repercussions. Google has its own chatbot called Bard."
@@ -203,15 +186,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "ChatGPT and Generative AI: Our Guide to 2023's Most Talked-About Technology"
-    excerpt: "ChatGPT brought generative AI into the limelight when it hit 1 million users in five days. But how valid is the buzz around ChatGPT?"
-    publishedDateTime: 2023-05-12T18:30:00Z
-    webUrl: "https://www.businessinsider.com/chatgpt-generative-ai-guide-to-2023-most-talked-about-technology-2023-may"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 45
   - title: "ChatGPT's chief to testify before Congress as concerns grow about artificial intelligence's risks"
     excerpt: "The head of the artificial intelligence company that makes ChatGPT is set to testify before Congress as lawmakers call for new rules to guide the rapid development of AI technology"
     publishedDateTime: 2023-05-16T11:11:00Z
@@ -242,15 +216,6 @@ related:
         width: 1024
         height: 512
         isCached: true
-  - title: "ChatGPT and Generative AI in Insurance: Reality, Hype, What's Next, and How to Prepare"
-    excerpt: "ChatGPT is the most talked-about technology of 2023 and has piqued the interest of insurance industry leaders."
-    publishedDateTime: 2023-05-12T18:00:00Z
-    webUrl: "https://www.businessinsider.com/generative-ai-in-insurance-reality-next-hype-how-to-prepare-2023-may"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 39
   - title: "AI Triumph: ChatGPT Passes Radiology Exams"
     excerpt: "ChatGPT has successfully passed a radiology board-style exam, demonstrating the potential of large language models in medical contexts."
     publishedDateTime: 2023-05-16T16:31:00Z
@@ -331,6 +296,20 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2023/05/16/PDTN/f3f9d9f4-7be7-4295-8e3c-c3a5f0bb873a-AP23124580482542.jpg?auto=webp&crop=509,287,x501,y51&format=pjpg&width=1200"
         width: 1200
         height: 677
+        isCached: true
+  - title: "ChatGPT chief calls for AI rules"
+    excerpt: "The head of the artificial intelligence company that makes ChatGPT told Congress on Tuesday that government intervention will be critical to mitigating the risks of increasingly powerful AI systems."
+    publishedDateTime: 2023-05-17T10:39:00Z
+    webUrl: "https://www.arkansasonline.com/news/2023/may/17/chatgpt-chief-calls-for-ai-rules/"
+    type: article
+    provider:
+      name: Arkansas Democrat-Gazette
+      domain: arkansasonline.com
+    quality: 37
+    images:
+      - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/204367744_204366670-2cc0af30a282477d9c56034321601b55_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
+        width: 600
+        height: 399
         isCached: true
   - title: "ChatGPT chief says AI should be regulated"
     excerpt: "The head of the artificial intelligence company that makes ChatGPT told Congress on Tuesday that government intervention will be critical to mitigating the risks of increasingly powerful AI systems."
@@ -481,16 +460,7 @@ related:
       name: Daily Press
       domain: dailypress.com
     quality: 16
-  - title: "Google ups the ante on AI to compete with ChatGPT. Here's how search and Gmail will change."
-    excerpt: "Here's how Google is introducing more AI into your everyday computing experience. Google unveiled a suite of new functions for both PCs and phones."
-    publishedDateTime: 2023-05-12T18:51:00Z
-    webUrl: "https://www.usatoday.com/story/tech/2023/05/12/google-ai-search-gmail-changes-chatgpt/70211454007/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 7
 
-secured: "MvWncCHQBjGIuFCnwYN1uO3sV1Ux9dOFH3OwvGqLLuhYLE6lXTpH80QSwIXoQWF+igxeiVFH0DETZJOybfbps8+YBXM37Iq18/pHQ3TtcMv9zKDkB90XVClDHSJ9tdzMWxgFerWEKuM9NCVHF78534N4454dNd+ZSp+iMEGKFHHYuVYNApjpyGS+ccKYNPUbBp4Nl991573PHfvEpCd9ut6vRa+SWFx+uMLaCzkJK62q3xwWh/Idm8ILjozI3DrtZZsP1+2dA4Ot6LEOGA2Iv807EuQ3y5YeXONP1ehj57X5xL7VZuL1e5umRq6Yb/4D2Xd/byVEbivxosM1c14AQ3/ezc72XIV9DZHlgc+4ySs=;JzSwm++iYvHZq2X8zytObQ=="
+secured: "eqyiv9lnSjIr+fTVSvwkyaAop2ennr5zI5jhvw3yslmy4pCvPfPOxu8GkhAvZ9+88oPzCc56hLVGw9hzjqUUa41GTpqVAKwa4K+6R6xzjutCThwxqpNx/K3OAg8p0wU8BaONpbsFCUoxah236O1xa4g6BPRtRtMl0VsMFY26RLwFMCxcq9+lnLIR1ZMNDlkwOizkTXXT91bsiyTumC/7GQVGHmE1dybDthnt//A1MDz/BJVwccbZc0kfWZUmcPtRoQ+wxTLafqvNY/o0SPmWOipI658TvlR0dfbx+QOzK7BqSQI3Uas2/oF+0ZP9jEh9PtFjbDiHftu4YOtumh00Cu1z5Lfb+tLHEkN6Al0bbxk=;UrgHEzXSoQt99wjejAJzmg=="
 ---
 

@@ -97,6 +97,15 @@ related:
       name: CRN
       domain: crn.com
     quality: 16
+  - title: "The frightening truth about AI chatbots: Nobody knows exactly how they work"
+    excerpt: "Nobody really knows how chatbots work. The AI community is divided on whether that fact could come to haunt us as the technology improves and proliferates."
+    publishedDateTime: 2023-05-17T03:59:00Z
+    webUrl: "https://www.fastcompany.com/90896928/the-frightening-truth-about-ai-chatbots-nobody-knows-exactly-how-they-work"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 15
 
 secured: "Qwz2/iBnWndKzVidJX4+qfY0vX4JdMijYAHXc1eEwK2zElc71SLbC6YhH83E7i2Xc59Uuue10dtX/MPqS7ATpy7vsxeDRJEnNUtg1hvqiqUAdDTPOfHGojBa12yicUctG0THn8H/FT7pYljzl0rG6kGBmIDlbDZucij0As6JK1eqCwfQUVITr08X5EldI2EyVCQE0fGW6UpMjQy4aPLoVgEJBIGebkQaPfueSFY8qX3QP3YY2qqCmOad7Qy4DfvExCyI/Yq6Q4k3wlrRP0PEwCMMs2PwlAJn1JWoKWU0AYa67rsyuLyXtoQ1TeYGv5XMYXIiyJ83rUdUc6tVYV3FJBLqPnPNJt66gJBe01M6JHMdvExE6zxP8qTctgOaOj+0/ZQ5bXZkw5Fi94o1Hs9PQwT8NRcvt+91esnzIfyUkN2jBrZd1ycxMytC549fFCt32Nh3flVyqfTWyqS7JQ7E3Q8cEG+/3KIjKTWTRICM4A7qe7pCDgUkJs/B0ZqutyXOfqIhjfSyQ2s95or6ExIKeQ==;Hi26prhhtuvJWdx+Du2jqg=="
 ---

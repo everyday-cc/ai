@@ -41,6 +41,22 @@ related:
         width: 1217
         height: 685
         isCached: true
+  - title: "ChatGPT And Generative Artificial Intelligence In Finance"
+    excerpt: "Drew Spaventa is the founder and CEO of The Spaventa Group, a leading investment company."
+    publishedDateTime: 2023-05-17T10:59:00Z
+    webUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2023/05/17/chatgpt-and-generative-artificial-intelligence-in-finance/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2023/05/17/chatgpt-and-generative-artificial-intelligence-in-finance/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2023/05/17/chatgpt-and-generative-artificial-intelligence-in-finance/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 104
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6463b7dd624c546c1fc2ff1a/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 801
+        isCached: true
   - title: "WorkHack Targets Big Businesses As They Fumble With Generative AI"
     excerpt: "WorkHack’s platform is aimed at large enterprises that are keen to develop new use cases for generative AI but nervous about how to do so safely and effectively. “We want to help them use this technology responsibly and thoughtfully,” explains Akshat Tyagi, the founder of the company."
     publishedDateTime: 2023-05-15T06:30:00Z

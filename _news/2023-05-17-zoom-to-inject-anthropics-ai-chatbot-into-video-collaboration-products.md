@@ -96,6 +96,15 @@ related:
       name: ExtremeTech
       domain: extremetech.com
     quality: 19
+  - title: "The frightening truth about AI chatbots: Nobody knows exactly how they work"
+    excerpt: "Nobody really knows how chatbots work. The AI community is divided on whether that fact could come to haunt us as the technology improves and proliferates."
+    publishedDateTime: 2023-05-17T03:59:00Z
+    webUrl: "https://www.fastcompany.com/90896928/the-frightening-truth-about-ai-chatbots-nobody-knows-exactly-how-they-work"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 15
 
 secured: "YbzLDXp9vPp1xrlNoATfLp5xGOzh8NUufp0iB5PPFg/u/DWgNbjY9xw7zmV+qtxvk4eR36O8+eHingZ8+9rjCMA4foep1ziwPKMgIQ+bnLn5dcS6Gn1llzqYXW2c9WYk1+An75DEQfK9vmz6wXTbOccrWhmeeI8uFY0PQmxC14i8cavPlO7OJRT1Pse9Bf52CpBs09HIHjtQKIQvsOHwKB6hhAuCF8BVROCUBbd4LZBdLEpbNlcPOpd8ruv/Zt8DVUnf/toBNUqrxXdBxxZDksjp8Yh6Kc36C69eLclvZKUA4vwcO3PCH8jYSlZpWbMG5WBMUvxibwy6SHhmBr9IsAD6bHHhyKFRhDre6LiHsDvyE+88vW8lxc2wXcwdWnHZJbRj6kt8DqO3ZttCo0SuI0CP5fjVRsK4e3VMf7xaLUGZLArkqOGOddgLY+B+OIy0OQeVDujiz2rER7hRd8yuEjkgAN7kszJm0fBYpRUfrN+FUX7FdC9YiOj9yAWt/CKbUvtJqLo83CMj0G2MlXzqcQ==;ZxcsZXiK08VHgQWInRaEBg=="
 ---

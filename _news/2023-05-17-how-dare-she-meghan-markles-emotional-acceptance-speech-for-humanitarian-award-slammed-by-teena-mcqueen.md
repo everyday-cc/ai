@@ -1,0 +1,31 @@
+---
+category: news
+title: "‘How dare she’: Meghan Markle’s emotional acceptance speech for humanitarian award slammed by Teena McQueen"
+excerpt: "According to the Ms Foundation, the Women of Vision award was presented in recognition of the Duchess’ “global ... still so much work to be done,” Meghan said in her acceptance speech. \"You can charter a path in which what you repeat in your daily ..."
+publishedDateTime: 2023-05-17T11:25:00Z
+originalUrl: "https://www.skynews.com.au/world-news/how-dare-she-meghan-markles-emotional-acceptance-speech-for-humanitarian-award-slammed-by-teena-mcqueen/news-story/c85655daf4feee525b89a43d82a862c9"
+webUrl: "https://www.skynews.com.au/world-news/how-dare-she-meghan-markles-emotional-acceptance-speech-for-humanitarian-award-slammed-by-teena-mcqueen/news-story/c85655daf4feee525b89a43d82a862c9"
+ampWebUrl: "https://www.skynews.com.au/world-news/how-dare-she-meghan-markles-emotional-acceptance-speech-for-humanitarian-award-slammed-by-teena-mcqueen/news-story/c85655daf4feee525b89a43d82a862c9?amp"
+cdnAmpWebUrl: "https://www-skynews-com-au.cdn.ampproject.org/c/s/www.skynews.com.au/world-news/how-dare-she-meghan-markles-emotional-acceptance-speech-for-humanitarian-award-slammed-by-teena-mcqueen/news-story/c85655daf4feee525b89a43d82a862c9?amp"
+type: article
+quality: 26
+heat: 26
+published: false
+
+provider:
+  name: Sky News Australia
+  domain: skynews.com.au
+
+topics:
+  - Natural Language Processing
+  - AI
+
+images:
+  - url: "https://content.api.news/v3/images/bin/cac1c0c88a701d245ecd75d1c4e7fd1b"
+    width: 1280
+    height: 720
+    isCached: true
+
+secured: "gWjqh+8spbAFDoW2fHOA84y8pQMJ74UY88SvE9WppDDLUz+atKNJlnKuTSAb6m/RZOURLVTkMXXxKTRduxbJNBw8TAmbCgCDlzvg7t8cAfN4yyqvZEHnjXxkdP2tHyaXk53ARjnz4Se0JgLthwkEITRSBoOmGd3THKTVlYgsFY/43uirYYNfDoKsE7EFKbZouFWD6OUICck2s+4LoVflIAhKKuGa4KnjSgzdS/ZZVicnPyP1aKj9XCli9vrur6M3VyGr4GZRAE+F19Kbq+aIRIqZlcN0nCJnp+2iTTS0pxkTlvmzv642FcHX0/rURj6nIcTon9xogTm361Gkmpekj/B+viiq8uqRffcrJfiFUv8=;T/be2PzhA97k+56BgjebAw=="
+---
+

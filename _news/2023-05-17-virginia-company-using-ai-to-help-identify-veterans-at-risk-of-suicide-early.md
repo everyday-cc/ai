@@ -43,20 +43,6 @@ related:
         width: 840
         height: 438
         isCached: true
-  - title: "Rank One facial recognition reaches 4 West Virginia school boards"
-    excerpt: "Facial recognition deployment has been on the rise in the United States despite pushback from parents and rights organizations."
-    publishedDateTime: 2023-05-12T17:54:00Z
-    webUrl: "https://www.biometricupdate.com/202305/rank-one-facial-recognition-reaches-4-west-virginia-school-boards"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 39
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/04/02114722/3025CDA7-1DB4-4909-AEBF-E13BC58EA9D8.jpeg"
-        width: 1021
-        height: 729
-        isCached: true
 
 secured: "/yPc8886vRhvoKzpf1x2Q/8fezspPx3Q+w+01pIcp7WOj9zVR0r7dgUDtQ1OYBnrqjIKgkIvooW4iMQVVssgTAWhQgPrJNC6SfG0jmFjN/lyZ0QSRLwVb4oVU1Pe/bNbUgVk0fCLJ/RS+knfjbgbstyBQ8IrELb4xPeiMapBthX4kLeKm98OuAtF5i2hrYVMTNJf3Uzi5CMIEc+Dy0ML6/jcwsiO7KT50lQcH1PSfL8hCqkLdbLaNriI8hr653Piz1aFGklfAxOPrlAaRYVVgLyN4yLVwrZnt4s4NIyCWpWCwFuod9C64QWEB317wT9QwLs7BDwxQzRxQJ2lr2Ok/6H2KZQCw1CZa054aFVC9a90DJzz2WSBfWrjoH/sAH9PqMfeDyL7Leat2Q9DgNhuymdEeGotUwOtIXaG8Z+DSeQWfue0nADzSNDxydil69BCjFaohQX5j2LxgR9z7HC+HbWTBmo5v20TQEaCcGV91SokZOp8RjLZxXcf3Z/46Fc41MEF6sqZrWpejy3DbztSJg==;PxG0RQ2VDS0qWLkj6L1j7w=="
 ---

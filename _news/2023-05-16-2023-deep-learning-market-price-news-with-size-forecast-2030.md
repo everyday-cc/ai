@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/2023-deep-learning-marke
 webUrl: "https://www.marketwatch.com/press-release/2023-deep-learning-market-price-news-with-size-forecast-2030-2023-05-15"
 type: article
 quality: 69
-heat: 90
+heat: 89
 published: true
 
 provider:
