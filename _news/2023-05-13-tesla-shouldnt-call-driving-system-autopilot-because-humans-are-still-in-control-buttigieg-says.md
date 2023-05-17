@@ -43,15 +43,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Buttigieg: Tesla shouldn’t call driving system Autopilot"
-    excerpt: "Tesla shouldn't be calling its partially automated driving system Autopilot because the cars can't drive themselves, the top U.S. transportation official says."
-    publishedDateTime: 2023-05-12T09:39:00Z
-    webUrl: "https://www.newstribune.com/news/2023/may/12/buttigieg-tesla-shouldnt-call-driving-system/"
-    type: article
-    provider:
-      name: News Tribune
-      domain: newstribune.com
-    quality: 19
 
 secured: "VljRVlL5yQMElV5K/TPiHErzuG4flCkEIXgU3M7qHXYHYb64d4KokC2U4lexnrPN6YqUT2/wrRBnvSsGOs0gUV3QzzuzMxOoODZMoZb/n1bEqcjOf6kZwXBI2CYtxfCq1ipjokTTdrt+IvXJ+WYTJoYwc8O+cJBPjJVzGpvv4GHk3DO5maIvbJuPxzSgDTJ5BsfFNktcfHPeGH1qM3b+jFrKlYEGme8VmYfuUAG8T1MEeHyibfvEmBBL8ZhHywyoAXSI7x6JEdN9dC8DEOwFS23zFY0WqTRcZtQdW/qQPZlRJgBCuRiPw0eVv/u0bfbZyNpZAaXs/l+4RkqA0ZzjOSYR0Mdn7vTZXJ1EQlKAJuPuzWC2uaVQVPdigsfMsi+9ZBYgUJDXk7s4QPjYcGJ+E30lsnIyGXu+mAirJWq3lhfNj9WtfkMF2i7bBmZ3f1JAsqgcYte2r7CrYO1cC4oI5TJv+XhlvQ4wzhJFp45kMRMrA/7TiFPhr43jakxk93KDplRnN1t980zMoEEfTg4QdQ==;+xWLhAbqNXDeEasfVEoJdA=="
 ---

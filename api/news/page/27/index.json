@@ -2,6 +2,109 @@
   "page": 27,
   "value": [
     {
+      "path": "_news/2023-05-01-scientist-noted-dangers-of-ai-in-book-published-shortly-after-his-death.md",
+      "title": "Scientist noted dangers of AI in book published shortly after his death",
+      "excerpt": "British theoretical physicist Stephen Hawking warned of the dangers associated with artificial intelligence before his death in 2018, arguing it could end the human race.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/tech/flashback-stephen-hawking-warned-ai-end-human-race-years-leading-death",
+      "originalUrl": "https://www.foxnews.com/tech/flashback-stephen-hawking-warned-ai-end-human-race-years-leading-death",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/85de4b00-0416-472d-91f9-ffcfce5d8d54/0105d7a6-9949-4445-8855-e8e997bbb454/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/tech/flashback-stephen-hawking-warned-ai-end-human-race-years-leading-death.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/flashback-stephen-hawking-warned-ai-end-human-race-years-leading-death.amp",
+      "publishedDateTime": "2023-04-30T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-01-students-use-ai-technology-to-find-new-brain-tumor-therapy-targets-with-a-goal-of-fighting-disease-faster.md",
+      "title": "Students use AI technology to find new brain tumor therapy targets — with a goal of fighting disease faster",
+      "excerpt": "Two high-school students partnered with Insilico Medicine, a Hong Kong-based medical tech company, to identify new target genes linked to glioblastoma and aging. Fox News Digital spoke to them.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/health/students-use-ai-technology-find-brain-tumor-therapy-targets-goal-fighting-disease-faster",
+      "originalUrl": "https://www.foxnews.com/health/students-use-ai-technology-find-brain-tumor-therapy-targets-goal-fighting-disease-faster",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/81ed2050-d425-4054-9746-8b8f6b6b3cd5/5bc734cb-7e3e-4509-b8f9-fc93215ffd49/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/health/students-use-ai-technology-find-brain-tumor-therapy-targets-goal-fighting-disease-faster.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/health/students-use-ai-technology-find-brain-tumor-therapy-targets-goal-fighting-disease-faster.amp",
+      "publishedDateTime": "2023-04-30T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-01-indian-job-market-to-grow-22-pc-in-5-yrs-ai-machine-learning-among-top-roles-wef.md",
       "title": "Indian job market to grow 22 pc in 5 yrs; AI, machine learning among top roles: WEF",
       "excerpt": "Top roles for industry transformation in India would be AI (artificial intelligence) and machine learning specialists, and data analysts and scientists, the report added.",
@@ -1116,92 +1219,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-29-8-emerging-entrepreneurs-you-need-to-know-about-in-2023.md",
-      "title": "8 emerging entrepreneurs you need to know about in 2023",
-      "excerpt": "New Delhi [India] April 29 ANIPNN From innovative startups to game-changing enterprises these 8 emerging entrepreneurs have carved their own paths to success Their journeys as leaders offer valuable i",
-      "sourceUrl": null,
-      "webUrl": "https://www.bignewsnetwork.com/news/273795464/8-emerging-entrepreneurs-you-need-to-know-about-in-2023",
-      "originalUrl": "https://www.bignewsnetwork.com/news/273795464/8-emerging-entrepreneurs-you-need-to-know-about-in-2023",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.bignewsnetwork.com/NzBmYTU1ZTMtZTN.jpg",
-          "width": 630,
-          "height": 473,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-29T03:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Big News Network.com",
-        "domain": "bignewsnetwork.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-29-why-google-deepmind-may-be-bad-news-for-the-company.md",
-      "title": "Why Google DeepMind may be 'bad news' for the company",
-      "excerpt": "According to a report by The Financial Times, Google is risking internal turmoil by bringing DeepMind onboard. Citing people familiar with the matter,",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/gadgets-news/why-google-deepmind-may-be-bad-news-for-the-company/articleshow/99868387.cms",
-      "originalUrl": "https://timesofindia.indiatimes.com/gadgets-news/why-google-deepmind-may-be-bad-news-for-the-company/articleshow/99868387.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/thumb/msid-99868418,width-1070,height-580,imgsize-1272816,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-          "width": 1069,
-          "height": 580,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.timesofindia.com/gadgets-news/why-google-deepmind-may-be-bad-news-for-the-company/amp_articleshow/99868387.cms",
-      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/gadgets-news/why-google-deepmind-may-be-bad-news-for-the-company/amp_articleshow/99868387.cms",
-      "publishedDateTime": "2023-04-29T03:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.theguardian.com/technology/2023/may/12/we-need-ai-to-hel
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/may/12/we-need-ai-to-help-us-face-the-challenges-of-the-future"
 type: article
 quality: 57
-heat: -1
-published: false
+heat: 77
+published: true
 
 provider:
   name: The Guardian
@@ -30,22 +30,31 @@ images:
     isCached: true
 
 related:
-  - title: "Are Alternative Investment Firms Becoming Over-Reliant On AI To Solve Their Cyber Challenges?"
-    excerpt: "Organizations must strengthen their first line of defense by taking a more holistic approach to threat prevention."
-    publishedDateTime: 2023-05-12T10:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/12/are-alternative-investment-firms-becoming-over-reliant-on-ai-to-solve-their-cyber-challenges/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/12/are-alternative-investment-firms-becoming-over-reliant-on-ai-to-solve-their-cyber-challenges/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/05/12/are-alternative-investment-firms-becoming-over-reliant-on-ai-to-solve-their-cyber-challenges/amp/"
+  - title: "We need to prepare for the public safety hazards posed by artificial intelligence"
+    excerpt: "Emergency management plans need to address the growing risks emerging from increasing applications of artificial intelligence."
+    publishedDateTime: 2023-05-14T11:18:00Z
+    webUrl: "https://theconversation.com/we-need-to-prepare-for-the-public-safety-hazards-posed-by-artificial-intelligence-199846"
+    ampWebUrl: "https://theconversation.com/amp/we-need-to-prepare-for-the-public-safety-hazards-posed-by-artificial-intelligence-199846"
+    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/we-need-to-prepare-for-the-public-safety-hazards-posed-by-artificial-intelligence-199846"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 76
+      name: The Conversation
+      domain: theconversation.com
+    quality: 54
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/645ce8924885ffd3982796e1/0x0.jpg?format=jpg&crop=2144,1206,x871,y0,safe&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://images.theconversation.com/files/525641/original/file-20230511-18-3z6quf.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop"
+        width: 320
+        height: 213
         isCached: true
+  - title: "Companies have to figure out the skills they need to reap AI benefits"
+    excerpt: "Seems obvious enough, but organizations need to move past the hype and determine how they can benefit from artificial intelligence, so they can identify skillsets they need to bring the benefits to fruition."
+    publishedDateTime: 2023-05-15T13:23:00Z
+    webUrl: "https://www.zdnet.com/article/companies-have-to-figure-out-the-skills-they-need-to-reap-ai-benefits/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 49
 
 secured: "SXS5ZlG6hBFF0ziDmGFPAWuPhMzcxoT1+/yYWW1c6e737unK78DG2Hpt9PFyQTr68W4JjLB9a4Ju9IUrZIccOFJFclsQnkYcBFL0vCCGnslN/imt3yqemUWCpqCovI+AkjSeB1wAd1QXaXvRK/ZP3K3WVHKl6pPfayYPohoHmFlrBcxjejslgk9WiYv8UAvxlwArQRBZzYQNupBzDyz5RlImKmRkB7vprehb5Oy9wYqVDJ1GXFienk+vuq1/qLmDCOIE9UdsYvs7c/kr0dc2lLd3Uti5OkbRIZVqoSsdT5blfTHFc/NgFj06WYyl7Xs8Pibn/SRAnb3chtgyjOuYSo60hipFcFKkr+TN2vy8RhhTqlWaAEPtHUI8NrLBsmzGYT9l4jefJh/+Ipa4OUpyYljN3LWjuGM/sUNMeXREjix6uhWZu5kzCzIjWLsXvB7n5eTsULyQIgFuqozQgTKY+tDMzU53rYDoqufovOPijPQWL4KWks5p4tj6t1vLfj4hgWuN2qpG/oqZ4pFcbul+HQ==;7mBWNPM7WYn6pQuLbIZZtA=="
 ---

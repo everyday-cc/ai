@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo174560325527"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo174560325527"
 type: article
 quality: 104
-heat: 144
+heat: 154
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Special Edition with Andrew Ross Sorkin: AI and Microsoft CEO Satya Nadella"
+    excerpt: "Artificial Intelligence is a profound new technology that will have implications – good and bad – on all our lives. In this latest episode of “Special Edition,” host Andrew Ross Sorkin sits down with Microsoft CEO Satya Nadella."
+    publishedDateTime: 2023-05-17T01:48:00Z
+    webUrl: "https://www.nbcnews.com/now/video/special-edition-with-andrew-ross-sorkin-ai-and-microsoft-ceo-satya-nadella-174543941895"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo174543941895"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo174543941895"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 102
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_05/101422_NBC_NEWS_NOW_GFX_SORKIN_FS_copy_3-esrvh7.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Microsoft CEO wants to 'mitigate unintended consequences' involving artificial intelligence"
     excerpt: "NBC's Andrew Ross Sorkin sat down with Microsoft CEO Satya Nadella to discuss his concerns on where artificial intelligence is heading. Nadella says that he wants to \"mitigate unintended consequences\" involving A."
     publishedDateTime: 2023-05-16T23:44:00Z

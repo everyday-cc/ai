@@ -2,58 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2023-05-15-the-fanfic-sex-trope-that-caught-a-plundering-ai-red-handed.md",
-      "title": "The Fanfic Sex Trope That Caught a Plundering AI Red-Handed",
-      "excerpt": "Sudowrite, a tool that uses OpenAI’s GPT-3, was found to have understood a sexual act known only to a specific online community of Omegaverse writers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/fanfiction-omegaverse-sex-trope-artificial-intelligence-knotting/",
-      "originalUrl": "https://www.wired.com/story/fanfiction-omegaverse-sex-trope-artificial-intelligence-knotting/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/645ecbe29e47b5e53e89cd43/master/pass/Omegaverse.jpg",
-          "width": 2500,
-          "height": 1350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/fanfiction-omegaverse-sex-trope-artificial-intelligence-knotting/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/fanfiction-omegaverse-sex-trope-artificial-intelligence-knotting/amp",
-      "publishedDateTime": "2023-05-15T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
       "path": "_news/2023-05-15-snapchats-new-ai-chatbot-is-already-raising-alarms-among-teens-and-parents.md",
       "title": "Snapchat's new AI chatbot is already raising alarms among teens and parents",
       "excerpt": "Less than a few hours after Snapchat rolled out its My AI chatbot to all users last week, Lyndsi Lee, a mother from East Prairie, Missouri, told her 13-year-old daughter to stay away from the feature.",
@@ -759,7 +707,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/edge-artificial-intelligence-ai-chip-market-research-2023-2030-2023-05-14",
       "featuredContent": null,
       "highlight": null,
-      "heat": 309,
+      "heat": 329,
       "tags": null,
       "images": [
         {
@@ -1251,6 +1199,58 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-13-deep-learning-in-ct-scanners-market-2030.md",
+      "title": "Deep Learning in CT Scanners Market | 2030",
+      "excerpt": "Precision Reports has published a new report titled as \" Deep Learning in CT Scanners Market \" by End User ( Hospital, Diagnostic Center, Research, Veterinary Clinic ), Types ( Stationary, Portable ),",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-in-ct-scanners-market-2030-2023-05-13",
+      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-in-ct-scanners-market-2030-2023-05-13",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-12T22:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
         "AI"
       ]
     }

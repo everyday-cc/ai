@@ -10,7 +10,7 @@
       "originalUrl": "https://www.therobotreport.com/sanctuary-ai-unveiles-general-purpose-humanoid-robot/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 104,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1227,49 +1227,6 @@
       ]
     },
     {
-      "path": "_news/2023-05-08-start-ai-sai-is-now-available-for-trading-on-lbank-exchange.md",
-      "title": "Start AI (SAI) Is Now Available For Trading On Lbank Exchange",
-      "excerpt": "robotics, biomedical AI, media, arts and entertainment. There're multiple features provided by Start AI for all kinds of businesses, these features include Distributed AI Space, which reduces the ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1106196679/Start-AI-SAI-Is-Now-Available-For-Trading-On-Lbank-Exchange",
-      "originalUrl": "https://menafn.com/1106196679/Start-AI-SAI-Is-Now-Available-For-Trading-On-Lbank-Exchange",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/updates/pr/2023-05/08/NC_861d15e6-8_Image_In_Body.jpg",
-          "width": 550,
-          "height": 309,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-08T02:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mena FN",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-05-08-warehouse-robotics-market-share-size-financial-summaries-analysis-from-2023-to-2028.md",
       "title": "Warehouse Robotics Market Share, Size, Financial Summaries Analysis from 2023 to 2028",
       "excerpt": "Warehouse Robotics report provides a detailed analysis of regional and country-level market size, segmentation market growth, market share, competitive Landscape, sales analysis, impact of domestic. The warehouse robotics market has been witnessing significant growth in recent years.",
@@ -1309,6 +1266,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-08-start-ai-sai-is-now-available-for-trading-on-lbank-exchange.md",
+      "title": "Start AI (SAI) Is Now Available for Trading on LBank Exchange",
+      "excerpt": "robotics, biomedical AI, media, arts and entertainment. There're multiple features provided by Start AI for all kinds of businesses, these features include Distributed AI Space, which reduces the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/05/32258672/start-ai-sai-is-now-available-for-trading-on-lbank-exchange",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/05/32258672/start-ai-sai-is-now-available-for-trading-on-lbank-exchange",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.newsfilecorp.com/files/8831/165169_c2e150a184cf6869_001.jpg",
+          "width": 550,
+          "height": 309,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/32258672",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32258672",
+      "publishedDateTime": "2023-05-08T01:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

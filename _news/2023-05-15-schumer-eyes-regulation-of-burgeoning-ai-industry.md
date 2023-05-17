@@ -49,6 +49,15 @@ related:
       name: The Motley Fool
       domain: fool.com
     quality: 47
+  - title: "GIGABYTE to Introduce Leading-Edge AI Solutions and Computers at COMPUTEX 2023, Unveiling “Future of COMPUTING”"
+    excerpt: "Take the Lead in the AI Era with GIGABYTE’s Trailblazing GPU/HPC Servers The emergence of ChatGPT and various generative AI applications are making huge waves of industry evolution, driving all-time demand for AI computing servers. At COMPUTEX ..."
+    publishedDateTime: 2023-05-17T03:16:00Z
+    webUrl: "https://www.businesswire.com/news/home/20230516005112/en/GIGABYTE-to-Introduce-Leading-Edge-AI-Solutions-and-Computers-at-COMPUTEX-2023-Unveiling-“Future-of-COMPUTING”"
+    type: article
+    provider:
+      name: newsroom.businesswire.com
+      domain: businesswire.com
+    quality: 0
 
 secured: "JPvOSVxF3HoBGC+kZduVPOSKpohlcx+WCAAJfObIKKSLn1pPMI6d4ZY65VyVl0bOJSI2Gv2lwHSScPbb35T/HoCNfXV4I7k/w0ChwlvbYSZgyRQVVlcBRNDAoc88AOd4mtRCChFauookvZ9O3skKnrKYockZ9MVR7EuZZCqTzoTk10cNvYSqbrhlxqUXW/cLd8UPCS4j3/ERg/R5x74bBn08Mo/p8NO8Dz4gOT5cpQlW2GY1x5efEJrnkIcsUtWm5nA694LYqcvgqqaclm8uJKl6bAv9/lm4E2iaesYnMbtKF42ZlJnEKGpqSa62ijFw60Dn0ZwWrgeNv2UbSlDa4VB6LD2gbu9ZJ1j//CaJlz0=;LvV8/A5Sj58todNPO5S+mQ=="
 ---

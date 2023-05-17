@@ -2,6 +2,74 @@
   "page": 64,
   "value": [
     {
+      "path": "_news/2023-04-03-metasurfaces-designed-by-a-bidirectional-deep-neural-network-for-generating-quantitative-field-distributions.md",
+      "title": "Metasurfaces designed by a bidirectional deep neural network for generating quantitative field distributions",
+      "excerpt": "a, Sketch of a metasurface design based on the tandem neural network and iterative algorithm. b, Tandem neural network for predicting the structural parameters of metasurface devices. c, The ...",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2023-03-metasurfaces-bidirectional-deep-neural-network.html",
+      "originalUrl": "https://phys.org/news/2023-03-metasurfaces-bidirectional-deep-neural-network.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-03T03:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-03-ibm-and-masters-use-generative-ai-to-create-spoken-word-commentary.md",
+      "title": "IBM and Masters use generative AI to create spoken word commentary",
+      "excerpt": "IBM and Masters have worked together for more than 25 years Generative AI promises many use cases for the sports industry The Masters golf tournament will use generative artificial intelligence (AI) technology to create automated audio commentary for more than 20,",
+      "sourceUrl": null,
+      "webUrl": "https://www.sportspromedia.com/news/us-masters-gold-ibm-generative-ai-tech-apps/",
+      "originalUrl": "https://www.sportspromedia.com/news/us-masters-gold-ibm-generative-ai-tech-apps/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-03T03:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SportsPro",
+        "domain": "sportspromedia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-03-ibm-uses-ai-to-generate-commentary-for-golfs-masters.md",
       "title": "IBM uses AI to generate commentary for golf’s Masters",
       "excerpt": "worked with the Masters digital team to leverage multiple foundation models — including IBM Watson Text-to-Speech – to train the AI in the language of golf at the Masters, automating the process of adding spoken commentary to video clips, said IBM.",
@@ -940,91 +1008,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2023-03-31T19:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-01-breakthrough-google-ai-based-tiny-syringe-to-inject-gene-therapy-tumour-killing-drugs.md",
-      "title": "Breakthrough! Google AI-based tiny syringe to inject gene therapy, tumour-killing drugs",
-      "excerpt": "A team of researchers has harnessed Google’s AI venture DeepMind to develop a bacterial injection system which can inject proteins, including cancer-killing drugs and gene therapies, directly into human cells.",
-      "sourceUrl": null,
-      "webUrl": "https://www.orissapost.com/breakthrough-google-ai-based-tiny-syringe-to-inject-gene-therapy-tumour-killing-drugs/",
-      "originalUrl": "https://www.orissapost.com/breakthrough-google-ai-based-tiny-syringe-to-inject-gene-therapy-tumour-killing-drugs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-31T18:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "orissapost",
-        "domain": "orissapost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-01-ai-advocates-say-theres-a-place-for-apps-like-chat-gpt-google-bard-in-classrooms.md",
-      "title": "AI advocates say there’s a place for apps like Chat GPT, Google Bard in classrooms",
-      "excerpt": "Advocates for artificial intelligence say there have been no widespread reports of cheating or harmful content in classrooms that have implemented AI learning for kids.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/video/6323718971112",
-      "originalUrl": "https://www.foxnews.com/video/6323718971112",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/23c944fa-10c9-4c29-9a94-7aa08ed6c99a/a92416f3-8ea9-45c6-8fd8-9ad16d08a3fa/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "width": 1024,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-31T18:43:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

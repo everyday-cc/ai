@@ -24,20 +24,29 @@ images:
     isCached: true
 
 related:
-  - title: "How Entrepreneurs Are Transforming Patient Care With AI"
-    excerpt: "According to Markets and Markets, global AI in the healthcare market is projected to grow from $4.9 billion in 2020 to $45.2 billion by 2026, registering a compound annual growth rate (CAGR) of 44.9% during the forecast period."
-    publishedDateTime: 2023-05-13T14:04:00Z
-    webUrl: "https://www.medpagetoday.com/opinion/kevinmd/104478"
+  - title: "When artificial intelligence can understand and translate (almost) any language"
+    excerpt: "Finally, during the Google I/O conference, the demonstration of a new, still experimental, technology called \"Universal Translator ... to integrate AI into its search engine, Gmail, Photos and Maps to help make them even better in any language."
+    publishedDateTime: 2023-05-17T02:05:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2023/05/17/when-artificial-intelligence-can-understand-and-translate-almost-any-language"
     type: article
     provider:
-      name: MedPage Today
-      domain: medpagetoday.com
-    quality: 39
+      name: The Star
+      domain: thestar.com.my
+    quality: 50
     images:
-      - url: "https://assets.medpagetoday.net/media/images/104xxx/104478.jpg"
-        width: 1600
-        height: 900
+      - url: "https://apicms.thestar.com.my/uploads/images/2023/05/16/2075773.jpg"
+        width: 1240
+        height: 697
         isCached: true
+  - title: "New AI translator can make you seem multilingual in an instant"
+    excerpt: "Tech developed by Canadian telecom firm Fibernetics dubs speech into different languages on video calls. The firm’s co-founder, John Stix, tells us how it works."
+    publishedDateTime: 2023-05-12T19:41:00Z
+    webUrl: "https://www.thestar.com/business/mars/2023/05/12/new-ai-translator-can-make-you-seem-multilingual-in-an-instant.html"
+    type: article
+    provider:
+      name: Toronto Star
+      domain: thestar.com
+    quality: 19
 
 secured: "r2o7Gsm1XEywnvvFc5vpPz3VHDqRqpIKDsRnWqJ6WpNEjl2d2d8vj8KzbHWqoY5oZYBXjSjCb6J0LbYVdKOmVP4zLyqmso2e+8Z8TKDObg3SWHeZzeJW894oolqiCnPaNs6ao0TIh6fUyymh9mNbpT+sYBywY5a2UHCWhkAZ7GUh8pf5A1X4rUJofAY77ZTCZdbKdp1jvQwYerh1MOuP/FMm+jEkh4FkWGoDqwCuMmbsaujD8yGA2rZ8cRYTiNBFlXwyDvCPVdRckmZuGzFpZwTuaDtiwogCYhgCXdt+so7G78lA+likG9/ciY4JQAJdjkKqd+ZrYkTQltw+tIu6g9Ji8l4ceZz/0HMXiQf6jsuHvKjUMhvZ7oseoP2RiAvvrYvgfmFvdUbJxYqGinA3jVvRL1YErhOOnxv9oW0j1d7BYDnemm64kknj7WCgsdWh0PpzXkkmYkyI5huUXmKoTfoQOKUjtgaT1m6IpLCRLq4Tlcnd5OfMgGfZViZM/zf9MtqFUZebCRyv0IIh38pHRg==;h8QEmGJ0I4Za0Az19waWJw=="
 ---

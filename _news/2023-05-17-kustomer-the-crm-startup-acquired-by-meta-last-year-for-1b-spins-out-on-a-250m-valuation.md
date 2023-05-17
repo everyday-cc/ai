@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/05/16/kustomer-meta-spin-out/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/16/kustomer-meta-spin-out/amp/"
 type: article
 quality: 78
-heat: 78
+heat: 81
 published: true
 
 provider:

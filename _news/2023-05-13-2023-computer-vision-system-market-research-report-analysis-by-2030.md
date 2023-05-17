@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/2023-computer-vision-sys
 webUrl: "https://www.marketwatch.com/press-release/2023-computer-vision-system-market-research-report-analysis-by-2030-2023-05-12"
 type: article
 quality: 69
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -94,20 +94,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 43
-  - title: "Global Cooking Robot Market - Growth, Trends, Covid-19 Impact, and Forecast (2023 - 2029) - Report By Introspective Market Research"
-    excerpt: "Global Cooking Robot Market is expected to grow at a significant growth rate, and the analysis period is 2022-2028, considering the base year as 2021. Cooking is one of the most important activities that take place in the house,"
-    publishedDateTime: 2023-05-12T11:05:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-cooking-robot-market---growth-trends-covid-19-impact-and-forecast-2023---2029---report-by-introspective-market-research-2023-05-12"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 39
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "2023-2029 \"Facial Recognition Access Control Solutions Market\" volume sale, Trends and Market Overview | Report Reviewed by Experts"
     excerpt: "May 15, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" A market research report has"
     publishedDateTime: 2023-05-15T07:14:00Z

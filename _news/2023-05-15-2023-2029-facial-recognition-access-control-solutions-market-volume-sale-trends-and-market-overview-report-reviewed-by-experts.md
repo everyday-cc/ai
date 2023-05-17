@@ -102,20 +102,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 43
-  - title: "Global Cooking Robot Market - Growth, Trends, Covid-19 Impact, and Forecast (2023 - 2029) - Report By Introspective Market Research"
-    excerpt: "Global Cooking Robot Market is expected to grow at a significant growth rate, and the analysis period is 2022-2028, considering the base year as 2021. Cooking is one of the most important activities that take place in the house,"
-    publishedDateTime: 2023-05-12T11:05:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-cooking-robot-market---growth-trends-covid-19-impact-and-forecast-2023---2029---report-by-introspective-market-research-2023-05-12"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 39
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "nPNNNNswtQ+n/NlBio9/SB5dyPKE21R0BhuBYeS8qLCAWcccpHVZeHwK5G3QSPRdBxKrNrEJ80kSP0C+s60wq8c825tqYyzElZcLIgCi1rgM1UacRWGY2zVEGVPS8cK3FZiWMJbYSrIblr+wwIWYtW33K4zHV+HptkUk6HpYyLd2WgLw2RrDIbYMXYSqAKTDZIAgHPdK7PruNeDSAhc8COb7jHcHvMIUa67JGJoeHoL3XNfgaK25dfCmAA/SsdvB2wgyDsbbMt2HpDdok7TIn2D2DT4IJJ8aUgWwcIeoBGr/i94dFlKvItzBXsjemTNqI+8gTkc2DV6VBUFh61mH2PmQRMRrLTiVVKB6wrQSIzk=;PeQjBTry4OhkQQKl00BsPQ=="
 ---

@@ -1,29 +1,27 @@
 ---
 category: news
 title: "ChatGPT chief says artificial intelligence should be regulated by a US or global agency"
-excerpt: "The head of the artificial intelligence company that makes ChatGPT has told Congress that government intervention will be critical to mitigating the risks of increasingly powerful AI systems. OpenAI C"
-publishedDateTime: 2023-05-16T20:55:00Z
-originalUrl: "https://www.postregister.com/businessreport/healthcare/chatgpt-chief-says-artificial-intelligence-should-be-regulated-by-a-us-or-global-agency/article_5ae12cde-4d8e-5722-905f-80bc921bdbf2.html"
-webUrl: "https://www.postregister.com/businessreport/healthcare/chatgpt-chief-says-artificial-intelligence-should-be-regulated-by-a-us-or-global-agency/article_5ae12cde-4d8e-5722-905f-80bc921bdbf2.html"
-ampWebUrl: "https://www.postregister.com/businessreport/business/chatgpt-chief-says-artificial-intelligence-should-be-regulated-by-a-us-or-global-agency/article_5ae12cde-4d8e-5722-905f-80bc921bdbf2.amp.html"
-cdnAmpWebUrl: "https://www-postregister-com.cdn.ampproject.org/c/s/www.postregister.com/businessreport/business/chatgpt-chief-says-artificial-intelligence-should-be-regulated-by-a-us-or-global-agency/article_5ae12cde-4d8e-5722-905f-80bc921bdbf2.amp.html"
+excerpt: "The head of the artificial intelligence company that makes ChatGPT is set to testify before Congress as lawmakers call for new rules to guide the rapid development of AI technology."
+publishedDateTime: 2023-05-17T01:53:00Z
+originalUrl: "https://www.clickondetroit.com/business/2023/05/15/chatgpts-chief-to-testify-before-congress-as-concerns-grow-about-artificial-intelligences-risks/"
+webUrl: "https://www.clickondetroit.com/business/2023/05/15/chatgpts-chief-to-testify-before-congress-as-concerns-grow-about-artificial-intelligences-risks/"
 type: article
-quality: 51
+quality: 31
 heat: -1
 published: false
 
 provider:
-  name: Post Register
-  domain: postregister.com
+  name: clickondetroit.com
+  domain: clickondetroit.com
 
 topics:
-  - AI in Healthcare
+  - Facebook AI
   - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/postregister.com/content/tncms/assets/v3/editorial/e/c4/ec4644a6-b018-5378-91d3-183bbd39eab1/6462bc5b5dc5a.image.jpg?resize=1024%2C682"
-    width: 1024
-    height: 682
+  - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/G63ST5D67BCLTMAVJCQUALCPV4.jpg?_a=ATCqVhC0"
+    width: 700
+    height: 467
     isCached: true
 
 related:
@@ -461,6 +459,6 @@ related:
       domain: usatoday.com
     quality: 7
 
-secured: "aMSHit1ELR0SRikTQrex++x8om1zeSxQ45vCj7z7YhiFKsDx+vGEcaju6/mZREQux5/+fhVg55CldZOTL+6uz/JkYB5M/3OTy5y+DUyvdg0xpERg9DbYkzpYrWwQg1H0oYF2/mlbl2Dm2cnx1SxvDqmaDvO9GUMWMq0jC9JxDGBRKD4hFgn2A1kngJn35k2iWbV0pLsL69y6sus9vFm+kZYaaW7hxbh5NLjnQuwCn3NhlfAWnpucpmwrGXjIvLHweiiolK2Y4owo2iAw6XbPNmzwPGafOkw1t3WkCzKFA0XtdXd3URbozDJYb7OlqCbPtjx50VMhWss2jZlJXcTUirLsLxxekGdOmMAleKuvplQ=;4snqXEMwLWlcM1KUbAf4dg=="
+secured: "CfwnRu4ZYytOl2pL32W2sYf8P/9o+RfAoBDU1yIosiLbQJKKjMma5rBt4E7L8TfJ0dgETCRpfpNoEnitL6RRKnJ5TYp9M0bubHGtcnR8u7buDFCHiSMfym06r1o6bBJW4hfX6JscKiGJaxR8PHqTtGRGlbWXOFXZzksqBUijHe/0CgpVk7iBCKgOjWQDuEWK0Fa7IVuqsOmSJlYp2lggYG0qzN2IKQifm3DDVPDTwBdfjGl/uoHXkdNpcVkO0L0DKKWKcqJjTKE0OB+qdZXDN723cmm0OZOkFUC5PB/aycSgsjVQfbYV1Dj3bYNsBuHTDNVU4LkRUR+DksvtfV609GXu2RWv+lOsNJ4xsDX8ldA=;Xi2Bb0NgdTNFz2DASv9Kxg=="
 ---
 

@@ -167,22 +167,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "ChatGPT chief says artificial intelligence should be regulated by a US or global agency"
-    excerpt: "The head of the artificial intelligence company that makes ChatGPT has told Congress that government intervention will be critical to mitigating the risks of increasingly powerful AI systems. OpenAI C"
-    publishedDateTime: 2023-05-16T20:55:00Z
-    webUrl: "https://www.postregister.com/businessreport/healthcare/chatgpt-chief-says-artificial-intelligence-should-be-regulated-by-a-us-or-global-agency/article_5ae12cde-4d8e-5722-905f-80bc921bdbf2.html"
-    ampWebUrl: "https://www.postregister.com/businessreport/business/chatgpt-chief-says-artificial-intelligence-should-be-regulated-by-a-us-or-global-agency/article_5ae12cde-4d8e-5722-905f-80bc921bdbf2.amp.html"
-    cdnAmpWebUrl: "https://www-postregister-com.cdn.ampproject.org/c/s/www.postregister.com/businessreport/business/chatgpt-chief-says-artificial-intelligence-should-be-regulated-by-a-us-or-global-agency/article_5ae12cde-4d8e-5722-905f-80bc921bdbf2.amp.html"
-    type: article
-    provider:
-      name: Post Register
-      domain: postregister.com
-    quality: 51
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/postregister.com/content/tncms/assets/v3/editorial/e/c4/ec4644a6-b018-5378-91d3-183bbd39eab1/6462bc5b5dc5a.image.jpg?resize=1024%2C682"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "edX Debuts Two AI-Powered Learning Assistants Built on ChatGPT"
     excerpt: "X plugin launches in ChatGPT plugin store to give users access to content and course discovery edX Xpert delivers AI-powered learning and"
     publishedDateTime: 2023-05-12T14:14:00Z
@@ -380,6 +364,20 @@ related:
       - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2023/05/15/d5870040_0.jpg?VersionId=_hBCtc_r5VIlCWOxmn0yo9tYnSXsnUUW"
         width: 860
         height: 573
+        isCached: true
+  - title: "ChatGPT chief says artificial intelligence should be regulated by a US or global agency"
+    excerpt: "The head of the artificial intelligence company that makes ChatGPT is set to testify before Congress as lawmakers call for new rules to guide the rapid development of AI technology."
+    publishedDateTime: 2023-05-17T01:53:00Z
+    webUrl: "https://www.clickondetroit.com/business/2023/05/15/chatgpts-chief-to-testify-before-congress-as-concerns-grow-about-artificial-intelligences-risks/"
+    type: article
+    provider:
+      name: clickondetroit.com
+      domain: clickondetroit.com
+    quality: 31
+    images:
+      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/G63ST5D67BCLTMAVJCQUALCPV4.jpg?_a=ATCqVhC0"
+        width: 700
+        height: 467
         isCached: true
   - title: "ChatGPT’s chief to testify before Congress as concerns grow about artificial intelligence"
     excerpt: "The head of the company that makes ChatGPT is set to testify before Congress as lawmakers call for new rules to guide the rapid development of AI technology."

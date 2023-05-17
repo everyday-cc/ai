@@ -155,6 +155,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "2023, Artificial Intelligence in Marketing Market Research Report Analysis by 2030"
+    excerpt: "The major players covered in the Artificial Intelligence in Marketing market report are: Get a sample copy of the Artificial Intelligence in Marketing Market report 2023 The global Artificial Intelligence in Marketing market size was valued at USD 36391."
+    publishedDateTime: 2023-05-16T06:05:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-artificial-intelligence-in-marketing-market-research-report-analysis-by-2030-2023-05-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 78
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence (AI) in Food and Beverage Market: Growth & Revenue by 2030"
     excerpt: "Artificial Intelligence (AI) in Food and Beverage Market Size 2023 - 2030 Report Consisting of 83 Pages Offers"
     publishedDateTime: 2023-05-13T16:58:00Z
@@ -229,6 +243,20 @@ related:
     excerpt: "A Computer Vision market new report, spanning multiple 107 pages, offers an extensive and in-depth analysis of the"
     publishedDateTime: 2023-05-14T14:33:00Z
     webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-research-analysis-2023-2030-2023-05-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Computer Vision System Market Research | 2023-2030"
+    excerpt: "Research Reports has published a new report titled as \"Computer Vision System Market\" by End User (Automotive,"
+    publishedDateTime: 2023-05-16T00:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/computer-vision-system-market-research-2023-2030-2023-05-15"
     type: article
     provider:
       name: MarketWatch

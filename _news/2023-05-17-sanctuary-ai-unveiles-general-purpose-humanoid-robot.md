@@ -7,7 +7,7 @@ originalUrl: "https://www.therobotreport.com/sanctuary-ai-unveiles-general-purpo
 webUrl: "https://www.therobotreport.com/sanctuary-ai-unveiles-general-purpose-humanoid-robot/"
 type: article
 quality: 64
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -28,6 +28,20 @@ related:
       name: The Robot Report
       domain: therobotreport.com
     quality: 64
+  - title: "Sanctuary AI unveils a humanoid robot called Phoenix that’s ready to offer its ‘labor-as-a-service’"
+    excerpt: "Sanctuary AI unveils a humanoid robot called Phoenix that's ready to offer its 'labor-as-a-service' - SiliconANGLE"
+    publishedDateTime: 2023-05-17T00:50:00Z
+    webUrl: "https://siliconangle.com/2023/05/16/sanctuary-ai-unveils-humanoid-robot-called-phoenix-thats-ready-offer-labor-service/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 40
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/05/Sanctuary-AI-rolls-out-the-first-general-purpose-robot-e1684275899483.jpg"
+        width: 1000
+        height: 586
+        isCached: true
   - title: "Upstage unveils new AI services"
     excerpt: "Upstage, a local artificial intelligence (AI) technology startup, has unveiled two AI services according to the company, Tuesday. The services are Document AI Pack, an optical character recognition (OCR) technology-based document processor; and AskUp ..."
     publishedDateTime: 2023-05-16T07:57:00Z

@@ -43,6 +43,22 @@ related:
         width: 1000
         height: 581
         isCached: true
+  - title: "Facial Recognition Replaces Boarding Pass at Berlin Airport"
+    excerpt: "TurboNews: New biometric service for Lufthansa Group HON Circle Members and Senators at Berlin airport with “BER Traveller” Read more: Facial Recognition Replaces Boarding Pass at Berlin Airport Copyr"
+    publishedDateTime: 2023-05-16T14:37:00Z
+    webUrl: "https://www.traveldailymedia.com/facial-recognition-replaces-boarding-pass-at-berlin-airport/"
+    ampWebUrl: "https://www.traveldailymedia.com/facial-recognition-replaces-boarding-pass-at-berlin-airport/amp/"
+    cdnAmpWebUrl: "https://www-traveldailymedia-com.cdn.ampproject.org/c/s/www.traveldailymedia.com/facial-recognition-replaces-boarding-pass-at-berlin-airport/amp/"
+    type: article
+    provider:
+      name: Travel Daily Media
+      domain: traveldailymedia.com
+    quality: 74
+    images:
+      - url: "https://eturbonews.com/wp-content/uploads/2023/05/0-47-e1684247900334-300x214.jpg"
+        width: 300
+        height: 214
+        isCached: true
   - title: "Facial Recognition Market Share, Size, Segmentation Analysis, Key segments and Forecast 2031"
     excerpt: "Global Facial Recognition Market – Drivers’ Restraints’ Opportunities’ Trends’ and Forecast up to 2025. Facial Recognition Market is approximately USD 5 billion market that is expected to double by 2025."
     publishedDateTime: 2023-05-15T15:10:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://9to5mac.com/2023/05/16/apple-self-driving-car-engineer-the
 webUrl: "https://9to5mac.com/2023/05/16/apple-self-driving-car-engineer-theft-doj/"
 type: article
 quality: 6
-heat: 6
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Ex-Apple employee charged with stealing car tech for China; is now exec at Baidu’s self-driving car JV"
+    excerpt: "Apple has been rumoured to be working on a self-driving car for years. It is said to be one of the biggest projects that the iPhone maker is working o"
+    publishedDateTime: 2023-05-17T03:06:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/ex-apple-employee-charged-with-stealing-car-tech-for-china-is-now-exec-at-baidus-self-driving-car-jv/articleshow/100291514.cms"
+    ampWebUrl: "https://m.timesofindia.com/gadgets-news/ex-apple-employee-charged-with-stealing-car-tech-for-china-is-now-exec-at-baidus-self-driving-car-jv/amp_articleshow/100291514.cms"
+    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/gadgets-news/ex-apple-employee-charged-with-stealing-car-tech-for-china-is-now-exec-at-baidus-self-driving-car-jv/amp_articleshow/100291514.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 43
+    images:
+      - url: "https://static.toiimg.com/thumb/msid-100291502,width-1070,height-580,imgsize-8852,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        width: 1068
+        height: 580
+        isCached: true
   - title: "Former Apple employee charged in theft of self-driving car trade secrets"
     excerpt: "Wang signed a letter accepting an offer of full-time employment as a staff engineer with the U.S.-based subsidiary of another company that was headquartered in the People's Republic of China and was working to develop self-driving cars,\" the Justice ..."
     publishedDateTime: 2023-05-16T19:44:00Z

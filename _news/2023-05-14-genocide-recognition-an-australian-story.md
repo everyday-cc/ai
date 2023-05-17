@@ -41,6 +41,22 @@ related:
         width: 1000
         height: 581
         isCached: true
+  - title: "Facial Recognition Replaces Boarding Pass at Berlin Airport"
+    excerpt: "TurboNews: New biometric service for Lufthansa Group HON Circle Members and Senators at Berlin airport with “BER Traveller” Read more: Facial Recognition Replaces Boarding Pass at Berlin Airport Copyr"
+    publishedDateTime: 2023-05-16T14:37:00Z
+    webUrl: "https://www.traveldailymedia.com/facial-recognition-replaces-boarding-pass-at-berlin-airport/"
+    ampWebUrl: "https://www.traveldailymedia.com/facial-recognition-replaces-boarding-pass-at-berlin-airport/amp/"
+    cdnAmpWebUrl: "https://www-traveldailymedia-com.cdn.ampproject.org/c/s/www.traveldailymedia.com/facial-recognition-replaces-boarding-pass-at-berlin-airport/amp/"
+    type: article
+    provider:
+      name: Travel Daily Media
+      domain: traveldailymedia.com
+    quality: 74
+    images:
+      - url: "https://eturbonews.com/wp-content/uploads/2023/05/0-47-e1684247900334-300x214.jpg"
+        width: 300
+        height: 214
+        isCached: true
   - title: "Europe eyes strict rules for artificial intelligence"
     excerpt: "No HAL 9000s or Ultrons on this continent, thank you very much. The European Union wants to avoid the worst of what artificial intelligence can do — think creepy facial recognition tech and many, many Black Mirror episodes — while still trying to boost ..."
     publishedDateTime: 2023-05-13T14:33:00Z

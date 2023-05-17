@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-05-17-when-artificial-intelligence-can-understand-and-translate-almost-any-language.md",
+      "title": "When artificial intelligence can understand and translate (almost) any language",
+      "excerpt": "Finally, during the Google I/O conference, the demonstration of a new, still experimental, technology called \"Universal Translator ... to integrate AI into its search engine, Gmail, Photos and Maps to help make them even better in any language.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestar.com.my/tech/tech-news/2023/05/17/when-artificial-intelligence-can-understand-and-translate-almost-any-language",
+      "originalUrl": "https://www.thestar.com.my/tech/tech-news/2023/05/17/when-artificial-intelligence-can-understand-and-translate-almost-any-language",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apicms.thestar.com.my/uploads/images/2023/05/16/2075773.jpg",
+          "width": 1240,
+          "height": 697,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-16T19:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Star",
+        "domain": "thestar.com.my",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-17-dataai-mobile-game-app-revenue-split-evenly-between-ads-iap.md",
       "title": "Data.ai: Mobile game app revenue split evenly between ads, IAP",
       "excerpt": "Data.ai's total app revenue metric shows monetization trends for games and other apps. Mobile game spend is split between ad spend and IAP.",
@@ -10,7 +53,7 @@
       "originalUrl": "https://venturebeat.com/games/dataai-total-app-revenue-mobile-games-in-app-ad-spend/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -61,7 +104,7 @@
       "originalUrl": "https://techcrunch.com/2023/05/16/kustomer-meta-spin-out/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 78,
+      "heat": 81,
       "tags": null,
       "images": [
         {
@@ -113,7 +156,7 @@
       "originalUrl": "https://www.nbcnews.com/nightly-news/video/microsoft-ceo-speaks-on-the-future-of-artificial-intelligence-174560325527",
       "featuredContent": null,
       "highlight": null,
-      "heat": 144,
+      "heat": 154,
       "tags": null,
       "images": [
         {
@@ -397,7 +440,7 @@
       "originalUrl": "https://www.therobotreport.com/sanctuary-ai-unveiles-general-purpose-humanoid-robot/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 104,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -621,58 +664,6 @@
       ]
     },
     {
-      "path": "_news/2023-05-16-ministers-looking-at-putting-facial-recognition-technology-in-police-bodycams.md",
-      "title": "Ministers looking at putting facial recognition technology in police bodycams",
-      "excerpt": "Government’s intentions revealed in document produced for surveillance camera commissioner",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/uk-news/2023/may/16/ministers-calling-for-facial-recognition-technology-in-police-bodycams",
-      "originalUrl": "https://www.theguardian.com/uk-news/2023/may/16/ministers-calling-for-facial-recognition-technology-in-police-bodycams",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/973bd12a9c69e4d93f70f9900a8300f9e302bb63/0_93_5312_3187/master/5312.jpg?width=620&quality=85&auto=format&fit=max&s=cea2774a8b212916ecedeb4e5451b693",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/uk-news/2023/may/16/ministers-calling-for-facial-recognition-technology-in-police-bodycams",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/uk-news/2023/may/16/ministers-calling-for-facial-recognition-technology-in-police-bodycams",
-      "publishedDateTime": "2023-05-16T09:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-05-16-7-ai-stocks-that-could-make-you-a-millionaire-by-2025.md",
       "title": "7 AI Stocks That Could Make You a Millionaire by 2025",
       "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial intelligence is no longer just a buzzword, shaking up",
@@ -725,7 +716,7 @@
       "originalUrl": "https://www.zdnet.com/article/zoom-adds-an-ai-assistant-named-claude/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 118,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -967,7 +958,7 @@
       "originalUrl": "https://www.forbes.com/sites/timbajarin/2023/05/16/cheat-sheets-for-ai-information-overload/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 147,
+      "heat": 157,
       "tags": null,
       "images": [
         {

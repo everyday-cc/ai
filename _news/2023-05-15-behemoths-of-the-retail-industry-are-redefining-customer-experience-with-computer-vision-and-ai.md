@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/15/behemoths-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/05/15/behemoths-of-the-retail-industry-are-redefining-customer-experience-with-computer-vision-and-ai/amp/"
 type: article
 quality: 92
-heat: 112
+heat: 122
 published: true
 
 provider:
@@ -54,6 +54,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "GIGABYTE to Introduce Leading-Edge AI Solutions and Computers at COMPUTEX 2023, Unveiling “Future of COMPUTING”"
+    excerpt: "Take the Lead in the AI Era with GIGABYTE’s Trailblazing GPU/HPC Servers The emergence of ChatGPT and various generative AI applications are making huge waves of industry evolution, driving all-time demand for AI computing servers. At COMPUTEX ..."
+    publishedDateTime: 2023-05-17T03:16:00Z
+    webUrl: "https://www.businesswire.com/news/home/20230516005112/en/GIGABYTE-to-Introduce-Leading-Edge-AI-Solutions-and-Computers-at-COMPUTEX-2023-Unveiling-“Future-of-COMPUTING”"
+    type: article
+    provider:
+      name: newsroom.businesswire.com
+      domain: businesswire.com
+    quality: 0
 
 secured: "1eEsuDxKJ7D4aH9Dxxf+nEX/LEl8RHd+2zfw206iKchC90L3h4p0huYcXP6rrucN2a44VE5URJyAho9XvXMSqryGh5rmBk1+ZAvLwwOTSH2ok0rgPGJoCye8iNM/dXZUa8G3UIBQIw0TI4oFLJZ6NaHI5H0uM9sJhhCXuJnEZeY3jRpcPXEDu88X/5I/rcF1OwQZ8Zqh8ZSbdk0GyiapaGGX6EhL2aoYlY2zr9mMeqC0ofK+ivtR8ZsAiCmrj6D0OBsWk/Eu2EI822MKukYr26UQoxytii+m0TWa6Trm2BjJij6dTEYA73A2BFNejChYb5v+gP83WcA416fsciWgpfnOAiMS/fSDMlSoqqSHxGICXyoefk6Kdyl0wr2EuI2pgeUeRixyx98XN9SqWkf1yM6eTE4E7bZ4cw/VA5d5q8KFfrrLyrUKSGFlkNzsS4Lia+YAsEij64fRc2slFgTOpDDZAJEgsbFblOX6gRLVJ335hPFUL4MDVh0xfVW5frXGR+CRwEpKwLYVMja3E3WG4w==;x+dG1e1hnSy0Dp3LDJmxhQ=="
 ---

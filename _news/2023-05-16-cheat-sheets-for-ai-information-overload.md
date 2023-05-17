@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/timbajarin/2023/05/16/cheat-sheets-for-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/timbajarin/2023/05/16/cheat-sheets-for-ai-information-overload/amp/"
 type: article
 quality: 87
-heat: 147
+heat: 157
 published: true
 
 provider:
@@ -46,6 +46,15 @@ related:
         width: 1200
         height: 830
         isCached: true
+  - title: "How Artificial Intelligence Is Used in Education"
+    excerpt: "Generative AI is setting off a transformation in education. Here's a primer on AI and how its role in education will take shape in the future."
+    publishedDateTime: 2023-05-16T13:12:00Z
+    webUrl: "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/ai-in-education/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 68
   - title: "UP RERA Floats Tender For Installation Of Artificial Intelligence"
     excerpt: "AI will contribute to the development of three major categories of systems: supportive systems, function-based automation systems and autonomous systems."
     publishedDateTime: 2023-05-16T11:09:00Z

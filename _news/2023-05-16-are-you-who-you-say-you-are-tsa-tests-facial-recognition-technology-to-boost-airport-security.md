@@ -20,6 +20,22 @@ topics:
   - AI in Security
 
 related:
+  - title: "TSA tests facial recognition technology to boost airport security"
+    excerpt: "The technology is currently in 16 airports, but critics have have raised concerns about questions of bias in facial recognition technology."
+    publishedDateTime: 2023-05-15T13:16:00Z
+    webUrl: "https://www.nbcnews.com/tech/tech-news/tsa-tests-facial-recognition-technology-boost-airport-security-rcna84415"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna84415"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna84415"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 121
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-05/230515-tsa-mb-1355-87a95a.jpg"
+        width: 6768
+        height: 4514
+        isCached: true
   - title: "TSA is testing facial recognition at U.S. airports. Here's what that means for you"
     excerpt: "The TSA hopes new technology can reduce wait times at U.S. airports while keeping passengers safe. Meanwhile, lawmakers worry about privacy."
     publishedDateTime: 2023-05-15T22:08:00Z
@@ -116,20 +132,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "TSA tests facial recognition technology to boost airport security"
-    excerpt: "The agency tasked with securing America's airports is testing the use of facial recognition technology at a number of airports across the country."
-    publishedDateTime: 2023-05-15T12:47:00Z
-    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-tsa-facial-recognition-20230515-yqtvqh3kpjdhbgdmz4siepreq4-story.html"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 71
-    images:
-      - url: "https://www.chicagotribune.com/resizer/eJdiopAYmUOa_WbdSZnEJcRxnQQ=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/WPLDSAITEUGGFTJRY7WCY7ZVDY.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Despite bias concerns, TSA tests facial recognition software at more airports"
     excerpt: "BALTIMORE (AP) — A passenger walks up to an airport security checkpoint, slips an ID card into a slot and looks into a camera atop a small screen. The screen flashes “Photo Complete” and the person walks through — all without having to hand over ..."
     publishedDateTime: 2023-05-16T10:00:00Z
@@ -194,35 +196,21 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "TSA testing facial recognition technology, prompting privacy concerns"
-    excerpt: "A new project by the Transportation Security Administration is using facial recognition software to verify identities."
-    publishedDateTime: 2023-05-16T06:19:00Z
-    webUrl: "https://www.tmj4.com/tsa-testing-facial-recognition-technology-prompting-privacy-concerns"
-    ampWebUrl: "https://www.tmj4.com/tsa-testing-facial-recognition-technology-prompting-privacy-concerns?_amp=true"
-    cdnAmpWebUrl: "https://www-tmj4-com.cdn.ampproject.org/c/s/www.tmj4.com/tsa-testing-facial-recognition-technology-prompting-privacy-concerns?_amp=true"
+  - title: "Ministers looking at putting facial recognition technology in police bodycams"
+    excerpt: "Government’s intentions revealed in document produced for surveillance camera commissioner"
+    publishedDateTime: 2023-05-16T16:30:00Z
+    webUrl: "https://www.theguardian.com/uk-news/2023/may/16/ministers-calling-for-facial-recognition-technology-in-police-bodycams"
+    ampWebUrl: "https://amp.theguardian.com/uk-news/2023/may/16/ministers-calling-for-facial-recognition-technology-in-police-bodycams"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/uk-news/2023/may/16/ministers-calling-for-facial-recognition-technology-in-police-bodycams"
     type: article
     provider:
-      name: TMJ4
-      domain: tmj4.com
-    quality: 59
+      name: The Guardian
+      domain: theguardian.com
+    quality: 56
     images:
-      - url: "https://cdn.scrippsnews.com/images/videos/m/1684195627_h09L7Q.jpg"
-        width: 640
-        height: 360
-        isCached: true
-  - title: "Facial Recognition Replaces Boarding Pass at Berlin Airport"
-    excerpt: "New biometric service for Lufthansa Group HON Circle Members and Senators at Berlin airport with “BER Traveller”"
-    publishedDateTime: 2023-05-16T14:37:00Z
-    webUrl: "https://eturbonews.com/facial-recognition-replaces-boarding-pass-at-berlin-airport/"
-    type: article
-    provider:
-      name: eturbonews
-      domain: eturbonews.com
-    quality: 54
-    images:
-      - url: "https://s9h7f8a7.rocketcdn.me/wp-content/uploads/2023/05/0-47-e1684247900334.jpg"
-        width: 600
-        height: 427
+      - url: "https://i.guim.co.uk/img/media/973bd12a9c69e4d93f70f9900a8300f9e302bb63/0_93_5312_3187/master/5312.jpg?width=620&quality=85&auto=format&fit=max&s=cea2774a8b212916ecedeb4e5451b693"
+        width: 620
+        height: 372
         isCached: true
   - title: "TSA testing facial recognition at more airports, raising privacy concerns"
     excerpt: "Advocates are concerned about how the data is collected, who has access to it and what happens if it gets hacked."
@@ -279,6 +267,20 @@ related:
         width: 986
         height: 555
         isCached: true
+  - title: "Facial Recognition Takes Flight: Is San Jose Airport Ready for the Privacy Debate?"
+    excerpt: "As facial recognition technology continues to be implemented in airports across the country, including San Jose's, debate over the technology's implications for privacy, data collection, and bias issues grows."
+    publishedDateTime: 2023-05-15T20:51:00Z
+    webUrl: "https://hoodline.com/2023/05/facial-recognition-technology-to-be-implemented-at-san-jose-international-airport/"
+    type: article
+    provider:
+      name: Hoodline
+      domain: hoodline.com
+    quality: 48
+    images:
+      - url: "https://img.hoodline.com/2023/5/marco-lopez-qK6HAkB91Yc-unsplash-1.webp"
+        width: 5412
+        height: 3608
+        isCached: true
   - title: "Las Vegas airport among sites testing TSA facial recognition technology, raising privacy concerns"
     excerpt: "TSA says the pilot is voluntary and accurate, but critics have raised concerns about questions of bias in facial recognition technology and possible repercussions for passengers who want to opt out."
     publishedDateTime: 2023-05-16T15:46:00Z
@@ -292,6 +294,34 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2023/05/16/PREN/08c5e615-7904-4d40-8684-d11579b6c89f-AP23116691290041.jpg?auto=webp&crop=7421,4175,x0,y378&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Facial recognition technology coming to West Virginia schools"
+    excerpt: "Four West Virginia county school districts have installed or are in the process of installing new facial recognition technology. Jonah Adkins. Jonah Adkins,"
+    publishedDateTime: 2023-05-15T17:24:00Z
+    webUrl: "https://wvmetronews.com/2023/05/15/facial-recognition-technology-coming-to-west-virginia-schools/"
+    type: article
+    provider:
+      name: West Virginia MetroNews
+      domain: wvmetronews.com
+    quality: 39
+    images:
+      - url: "https://wvmetronews.com/wp-content/uploads/2022/10/classroom-2093743_640-490x350-1.jpg"
+        width: 490
+        height: 350
+        isCached: true
+  - title: "TSA testing facial recognition technology, prompting privacy concerns"
+    excerpt: "A new project by the Transportation Security Administration is using facial recognition software to verify identities."
+    publishedDateTime: 2023-05-16T06:19:00Z
+    webUrl: "https://www.fox13now.com/tsa-testing-facial-recognition-technology-prompting-privacy-concerns"
+    type: article
+    provider:
+      name: fox13now
+      domain: fox13now.com
+    quality: 39
+    images:
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/34a37e7/2147483647/strip/true/crop/960x504+0+108/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcdn.scrippsnews.com%2Fimages%2Fvideos%2Fz%2F1684195627_h09L7Q.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Are you are who you say you are? TSA test facial recognition technology to boost airport security"
     excerpt: "A passenger walks up to an airport security checkpoint, slips an ID card into a slot and looks into a camera atop a small screen. The screen flashes “Photo Complete” and the person walks through — all without having to hand over their identification to the TSA officer sitting behind the screen."
@@ -320,6 +350,20 @@ related:
       name: Jalopnik
       domain: jalopnik.com
     quality: 34
+  - title: "Police to use controversial facial recognition technology at Beyonce UK tour stop"
+    excerpt: "Controversial security protocols will be in gear when Beyoncé kicks off the United Kingdom leg of her highly anticipated Renaissance World Tour this week."
+    publishedDateTime: 2023-05-16T22:51:00Z
+    webUrl: "https://www.nydailynews.com/snyde/ny-beyonce-uk-tour-facial-recognition-technology-20230516-w7al2mfmazas3ah3qttftxqede-story.html"
+    type: article
+    provider:
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 34
+    images:
+      - url: "https://www.nydailynews.com/resizer/wrGxK_VWI08YlQOE2xYd91vrqoI=/1200x630/filters:format(jpg):quality(70):focal(1660x595:1670x605)/cloudfront-us-east-1.images.arcpublishing.com/tronc/O37PFHSBJFHTXKSYRL3KSTLOHE.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Facial recognition tech lets TSA to verify your ID without an agent staring at you"
     excerpt: "The Transportation Security Administration is introducing facial recognition at some airports in an effort to make security screening more efficient."
     publishedDateTime: 2023-05-15T14:33:00Z

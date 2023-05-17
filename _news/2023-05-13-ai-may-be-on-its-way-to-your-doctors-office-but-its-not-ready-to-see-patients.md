@@ -7,7 +7,7 @@ originalUrl: "https://www.healthleadersmedia.com/technology/ai-may-be-its-way-yo
 webUrl: "https://www.healthleadersmedia.com/technology/ai-may-be-its-way-your-doctors-office-its-not-ready-see-patients"
 type: article
 quality: 32
-heat: -1
+heat: 32
 published: false
 
 provider:
@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI May Be on Its Way to Your Doctor’s Office, But It’s Not Ready to See Patients"
-    excerpt: "Companies pushing the latest AI technology — known as “generative AI” — are ... Joshua Tamayo-Sarver, a clinician and executive with the startup Inflect Health, fed fictionalized patient scenarios based on his own practice in an emergency ..."
-    publishedDateTime: 2023-05-12T09:46:00Z
-    webUrl: "https://omaha.com/lifestyles/health-med-fit/ai-may-be-on-its-way-to-your-doctor-s-office-but-it-s-not/article_ecd47e7f-7eb4-5bbc-be15-ea2e4c24bdec.html"
-    type: article
-    provider:
-      name: Omaha.com
-      domain: omaha.com
-    quality: 32
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/custom/image/9595a7a2-2379-11e7-b3c5-13eacc36a918.jpg?resize=600%2C315"
-        width: 600
-        height: 315
-        isCached: true
   - title: "AI may be on its way to your doctor’s office, but it’s not ready to see patients"
     excerpt: "The companies want their AI to take notes for physicians and give them second opinions — assuming they can keep the intelligence from “hallucinating” or divulging patients’ private information."
     publishedDateTime: 2023-05-14T22:00:00Z

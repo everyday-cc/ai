@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/games/dataai-total-app-revenue-mobile-games-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/dataai-total-app-revenue-mobile-games-in-app-ad-spend/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 89
 published: true
 
 provider:

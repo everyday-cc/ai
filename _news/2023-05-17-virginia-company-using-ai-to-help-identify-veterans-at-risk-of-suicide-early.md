@@ -57,20 +57,6 @@ related:
         width: 1021
         height: 729
         isCached: true
-  - title: "Facial recognition technology coming to West Virginia schools"
-    excerpt: "Four West Virginia county school districts have installed or are in the process of installing new facial recognition technology. Jonah Adkins. Jonah Adkins,"
-    publishedDateTime: 2023-05-15T17:24:00Z
-    webUrl: "https://wvmetronews.com/2023/05/15/facial-recognition-technology-coming-to-west-virginia-schools/"
-    type: article
-    provider:
-      name: West Virginia MetroNews
-      domain: wvmetronews.com
-    quality: 39
-    images:
-      - url: "https://wvmetronews.com/wp-content/uploads/2022/10/classroom-2093743_640-490x350-1.jpg"
-        width: 490
-        height: 350
-        isCached: true
 
 secured: "/yPc8886vRhvoKzpf1x2Q/8fezspPx3Q+w+01pIcp7WOj9zVR0r7dgUDtQ1OYBnrqjIKgkIvooW4iMQVVssgTAWhQgPrJNC6SfG0jmFjN/lyZ0QSRLwVb4oVU1Pe/bNbUgVk0fCLJ/RS+knfjbgbstyBQ8IrELb4xPeiMapBthX4kLeKm98OuAtF5i2hrYVMTNJf3Uzi5CMIEc+Dy0ML6/jcwsiO7KT50lQcH1PSfL8hCqkLdbLaNriI8hr653Piz1aFGklfAxOPrlAaRYVVgLyN4yLVwrZnt4s4NIyCWpWCwFuod9C64QWEB317wT9QwLs7BDwxQzRxQJ2lr2Ok/6H2KZQCw1CZa054aFVC9a90DJzz2WSBfWrjoH/sAH9PqMfeDyL7Leat2Q9DgNhuymdEeGotUwOtIXaG8Z+DSeQWfue0nADzSNDxydil69BCjFaohQX5j2LxgR9z7HC+HbWTBmo5v20TQEaCcGV91SokZOp8RjLZxXcf3Z/46Fc41MEF6sqZrWpejy3DbztSJg==;PxG0RQ2VDS0qWLkj6L1j7w=="
 ---
