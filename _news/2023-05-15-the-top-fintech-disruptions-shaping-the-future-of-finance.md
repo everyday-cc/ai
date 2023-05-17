@@ -9,7 +9,7 @@ ampWebUrl: "https://www.devdiscourse.com/article/technology/2452129-the-top-fint
 cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2452129-the-top-fintech-disruptions-shaping-the-future-of-finance?amp"
 type: article
 quality: 59
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Top trends in the fintech space"
+    excerpt: "May 17, marks the annually observed World Telecommunications and Information Society Day (WTISD). Now in its 17th year, WTISD has helped to raise awareness of the possibilities that"
+    publishedDateTime: 2023-05-17T05:43:00Z
+    webUrl: "https://www.jamaicaobserver.com/business/top-trends-in-the-fintech-space/"
+    ampWebUrl: "https://www.jamaicaobserver.com/business/top-trends-in-the-fintech-space/amp/"
+    cdnAmpWebUrl: "https://www-jamaicaobserver-com.cdn.ampproject.org/c/s/www.jamaicaobserver.com/business/top-trends-in-the-fintech-space/amp/"
+    type: article
+    provider:
+      name: The Jamaica Observer
+      domain: jamaicaobserver.com
+    quality: 44
+    images:
+      - url: "https://imengine.public.prod.jam.navigacloud.com/?uuid=972d3ff5-35e6-59fa-9452-6b64552945ae&function=fit&type=preview"
+        width: 500
+        height: 223
+        isCached: true
   - title: "The Ethical Dilemmas of Fintech Breed Distrust; Top 3 Challenges"
     excerpt: "Financial technology is yet another digital convenience streamlining everyday financial transactions that used to require standing in line at a bank, writing checks, or navigating between several websites."
     publishedDateTime: 2023-05-16T21:15:00Z

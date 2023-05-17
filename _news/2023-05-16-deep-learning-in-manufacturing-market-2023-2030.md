@@ -29,20 +29,57 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence for Accounting Market Next Big Thing With Major Giants Microsoft, AWS, Xero, Intuit"
-    excerpt: "Click Here to Get Free Sample PDF Copy of Latest Research on Artificial Intelligence for Accounting Market 2023 Before Purchase:  The report will also include information on the top companies in the Artificial Intelligence for Accounting market shares,"
-    publishedDateTime: 2023-05-15T07:29:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-for-accounting-market-next-big-thing-with-major-giants-microsoft-aws-xero-intuit-2023-05-15"
+  - title: "Deep Learning in CT Scanners Market | 2030"
+    excerpt: "Precision Reports has published a new report titled as \" Deep Learning in CT Scanners Market \" by End User ( Hospital, Diagnostic Center, Research, Veterinary Clinic ), Types ( Stationary, Portable ),"
+    publishedDateTime: 2023-05-13T05:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-in-ct-scanners-market-2030-2023-05-13"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 83
+    quality: 69
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
+  - title: "Machine Learning Recommendation Algorithm Market"
+    excerpt: "Research Reports has published a new report titled as \"Machine Learning Recommendation Algorithm Market\" by End"
+    publishedDateTime: 2023-05-13T17:45:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-recommendation-algorithm-market-2023-05-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Self-driving Cars Market in 2023: Insights and Strategies | 2031"
+    excerpt: "New “Self-driving Cars Market” Report 2023 by Manufacturers and Forecast to 2031: Get the latest insights into"
+    publishedDateTime: 2023-05-15T04:45:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-cars-market-in-2023-insights-and-strategies-2031-2023-05-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Oil and Gas Market by 2030"
+    excerpt: "Precision Reports has published a new report titled as \"Artificial Intelligence in Oil and Gas Market\" by End User"
+    publishedDateTime: 2023-05-13T05:16:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-oil-and-gas-market-by-2030-2023-05-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 47
 
 secured: "2LCTWshPMjqflTbWFhw17p11qfto5BXbIugfRil3Jzlp2rjgr9Wtsx89/qvxtuvKRyAVJEEHBAC0nVG7liYMnolWWs4atQhy04jLKY2TUlNgEFKe15m8BByi6oJDmkuOvoki+HjCnzGYoGLsR0klBxCpFHS0HuqMDPzHZk38DWlM06LF8xPl/jYzCWupNphaiqh1JUukgz7+ajp9HAGic3xZ4bEk0Tyb35Qwvn34Oy520T2tCjpkVjKaR9ssBAh8Ybh+5VcGPEID70Ny9SQLWKLR4ybR/G811IGacptt2tgP88yVv6oYY1vBpvY2fCdu0y4BNe4coqkvO0xbs/FeXy6uOEE5f9DiS3A+UBtDF/0=;MCFxWyryMDcbn2jDr/iRwg=="
 ---

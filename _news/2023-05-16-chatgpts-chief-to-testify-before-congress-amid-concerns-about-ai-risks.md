@@ -107,18 +107,18 @@ related:
         height: 352
         isCached: true
   - title: "ChatGPT chief says AI should be regulated by US, global agency"
-    excerpt: "What started out as a panic among educators about ChatGPT’s use to cheat on homework assignments has expanded to broader concerns about the ability of the latest crop of “generative"
-    publishedDateTime: 2023-05-16T21:26:00Z
-    webUrl: "https://www.eastbaytimes.com/2023/05/16/chatgpt-chief-says-ai-should-be-regulated-by-us-global-agency/"
-    ampWebUrl: "https://www.eastbaytimes.com/2023/05/16/chatgpt-chief-says-ai-should-be-regulated-by-us-global-agency/amp/"
-    cdnAmpWebUrl: "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2023/05/16/chatgpt-chief-says-ai-should-be-regulated-by-us-global-agency/amp/"
+    excerpt: "While Congress isn’t poised to act, U.S. agencies are promising to crack down on harmful AI products that break existing civil rights and consumer protection laws."
+    publishedDateTime: 2023-05-17T04:39:00Z
+    webUrl: "https://www.dailynews.com/2023/05/16/chatgpt-chief-says-ai-should-be-regulated-by-us-global-agency/"
+    ampWebUrl: "https://www.dailynews.com/2023/05/16/chatgpt-chief-says-ai-should-be-regulated-by-us-global-agency/amp/"
+    cdnAmpWebUrl: "https://www-dailynews-com.cdn.ampproject.org/c/s/www.dailynews.com/2023/05/16/chatgpt-chief-says-ai-should-be-regulated-by-us-global-agency/amp/"
     type: article
     provider:
-      name: East Bay Times
-      domain: eastbaytimes.com
+      name: Los Angeles Daily News
+      domain: dailynews.com
     quality: 57
     images:
-      - url: "https://www.eastbaytimes.com/wp-content/uploads/2023/05/sjm-542619-1.jpg?w=1024&h=683"
+      - url: "https://www.dailynews.com/wp-content/uploads/2023/05/sjm-542619.jpg?w=1024&h=683"
         width: 1024
         height: 683
         isCached: true
@@ -165,6 +165,22 @@ related:
       - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
         width: 800
         height: 600
+        isCached: true
+  - title: "ChatGPT chief says artificial intelligence should be regulated by a US or global agency"
+    excerpt: "The head of the artificial intelligence company that makes ChatGPT told Congress on Tuesday that government intervention “will be critical to mitigate the risks of increasingly powerful” AI systems."
+    publishedDateTime: 2023-05-16T15:12:00Z
+    webUrl: "https://www.wdbj7.com/2023/05/16/chatgpts-chief-testifies-before-congress-concerns-grow-about-artificial-intelligence-risks/"
+    ampWebUrl: "https://www.wdbj7.com/2023/05/16/chatgpts-chief-testifies-before-congress-concerns-grow-about-artificial-intelligence-risks/?outputType=amp"
+    cdnAmpWebUrl: "https://www-wdbj7-com.cdn.ampproject.org/c/s/www.wdbj7.com/2023/05/16/chatgpts-chief-testifies-before-congress-concerns-grow-about-artificial-intelligence-risks/?outputType=amp"
+    type: article
+    provider:
+      name: WDBJ
+      domain: wdbj7.com
+    quality: 51
+    images:
+      - url: "https://gray-wdbj-prod.cdn.arcpublishing.com/resizer/Mw0Zl0A1m1GcWOF1J-XI3NFPyNY=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/PHH3LE4TOZHSFHJ4IVE2CQWMY4.png"
+        width: 800
+        height: 450
         isCached: true
   - title: "edX Debuts Two AI-Powered Learning Assistants Built on ChatGPT"
     excerpt: "X plugin launches in ChatGPT plugin store to give users access to content and course discovery edX Xpert delivers AI-powered learning and"
@@ -363,6 +379,20 @@ related:
       - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2023/05/15/d5870040_0.jpg?VersionId=_hBCtc_r5VIlCWOxmn0yo9tYnSXsnUUW"
         width: 860
         height: 573
+        isCached: true
+  - title: "ChatGPT CEO shares concern over AI being used to interfere with elections – video"
+    excerpt: "Top technology CEOs testified before congress on the future of artificial intelligence, calling on lawmakers to introduce new regulations to limit its misuse"
+    publishedDateTime: 2023-05-16T19:48:00Z
+    webUrl: "https://www.theguardian.com/technology/video/2023/may/16/chatgpt-ceo-shares-concern-over-ai-being-used-to-interfere-with-elections-video"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 32
+    images:
+      - url: "https://i.guim.co.uk/img/media/701745531457a41714f0dd727c5b74477e1c0ff5/0_27_5472_3283/master/5472.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1e0c5ca33b9e2a47876c8156c9dd79c0"
+        width: 1200
+        height: 630
         isCached: true
   - title: "ChatGPT chief says artificial intelligence should be regulated by a US or global agency"
     excerpt: "The head of the artificial intelligence company that makes ChatGPT is set to testify before Congress as lawmakers call for new rules to guide the rapid development of AI technology."

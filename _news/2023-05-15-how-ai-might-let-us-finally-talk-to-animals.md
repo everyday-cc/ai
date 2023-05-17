@@ -39,6 +39,20 @@ related:
         width: 600
         height: 400
         isCached: true
+  - title: "How AI Will Change the Workplace"
+    excerpt: "We asked some top thinkers from different fields to weigh in on what’s ahead, as the AI explosion compels businesses to rethink, well, almost everything."
+    publishedDateTime: 2023-05-14T14:00:00Z
+    webUrl: "https://www.wsj.com/articles/how-ai-change-workplace-af2162ee"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
+    images:
+      - url: "https://images.wsj.net/im-779753/social"
+        width: 1280
+        height: 640
+        isCached: true
 
 secured: "aWg4HnjDoToFwkj+19QI9cgOn75OtA53urTq4ZjFH101c7Pf7bFAFYxIfhWuCNXJnCONwVLcNQbqiIvPapNV9fzKNGbjCZKtnTEM/Hlu0+lCjAcFHqhbVObzw8PdHl1BpWTlm3UAVdKaDgkzIGezQzm9/00huhZSoYV7lV9q5j4H4FzIA0W4MWlE1fS6YTtnyJcejddIDDdZmpzIdaWnbHZ9Or29OVgWJbOvpdAuU+dDdHzpygLijeLvKN7kQ4KqZrJM9HQjwiaa3P4Pi4NPI9jpf5ui6nMJAktE6B0z5zt1dfJh1oYAp/wyyh4qDb1dFBIltnipHUTGeehkFq2iH27R4Aw5bcb2aWWFfUUZONwzBJjg92GhHQ5vDuGpUjaglZvKv4cI3DFSWAnG4UoCXY7IlI18bsCXNqCl8KNPWOoPFwMgD5Ntt03Ljtw8GsC7Ea8MF/drunvxiHlFcAeVEkdnHQ43r1aTX2RK+bT79R3xO7b2oX4+mJJvv1c+RBQdRZBisLvLJZ4jKxZvIasaXw==;aj6tqzQyHJnw66rjjcs2sA=="
 ---

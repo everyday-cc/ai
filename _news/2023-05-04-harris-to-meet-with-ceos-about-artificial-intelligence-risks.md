@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Harris to meet with CEOs about artificial intelligence risks"
-excerpt: "Vice President Kamala Harris speaks, along side Jill Scarbo, who won National Small Business of the Year in 2022 and is the CEO of Bright Futures Learning Services (BFLS), a provider of Applied Behavior Analysis (ABA) therapy services for children ..."
-publishedDateTime: 2023-05-04T12:03:00Z
-originalUrl: "https://omaha.com/news/science/harris-to-meet-with-ceos-about-artificial-intelligence-risks/article_2be5fceb-7e7e-5b20-93a6-2fc9680f8df6.html"
-webUrl: "https://omaha.com/news/science/harris-to-meet-with-ceos-about-artificial-intelligence-risks/article_2be5fceb-7e7e-5b20-93a6-2fc9680f8df6.html"
+excerpt: "Vice President Kamala Harris will meet with the CEOs of four major companies developing artificial intelligence. The Biden administration is rolling out initiatives meant to ensure the rapidly evolvin"
+publishedDateTime: 2023-05-04T11:22:00Z
+originalUrl: "https://omaha.com/news/science/article_2be5fceb-7e7e-5b20-93a6-2fc9680f8df6.html"
+webUrl: "https://omaha.com/news/science/article_2be5fceb-7e7e-5b20-93a6-2fc9680f8df6.html"
 type: article
 
 provider:
@@ -15,6 +15,12 @@ topics:
   - AI in Healthcare
   - AI
 
-secured: "s9WA9QYakxhw2plHPdWEOIX5+GpRIb+x28AT2Upma2pX7Kh9UHl3EvEf764sDGXpAQuQABY362eSpbx6GIoH0XXtrC4Il031l2AsfqfRR9g+qxAba0Aa725oIiN7eBqGBvaIj77W6Bevux+DapDLvfSURcFacyb+IvfqB/W0kx0ab9pXWhm2DZKy7fLa/Q4Yu9i0s0AaF7X2TTdvSoxlNP/nN68TNVvua7g4vbO4rhTipStlRMYjbFYI4wiXgk/E7yThZN2ZzJjrjNynYJhIC4B1BodXK96IrGONuimdspDTGAIKATbySXi+AimXuhAldFY5OlLaJE7ddTTu1uwLoQJBMIVf6x1RrgvMNX59XlIdkh8B1Mw8eDqBC7WveaKYo0PXTFcug2Iv/H1UTEFjkpK3cFzyP8bSdnjNKoKSeq1boKJlS9N+IoVziRjFxx+vO+6YPnivsJ/kpvi0nYU0nGhK38hmNATgZjF5w7hzNCs9medVftVaPi1jl7FnoIi5lQlp+MOcwE7snw7cwZZsSw==;6uWetg+Ygk8OwOTY5KXaow=="
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/d/da/dda7c97f-af2f-5ee4-a06d-19e464a12917/6453895152383.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "M6BlZuXhhqpa89CONSqnH1nBFYMMPLtbfVk6DQpaRf+POnewDTEsuywxgNndrpJKvvNZ3jS5LkX2aR4TGh6eFLSGkRjifxr1YcA9gfavfH5wuEAiNQJamO5jT11yjF/ZFvefgKQIUOrkLaK6aheFfuHdbMZz7/rb4NSCZh5cSrI3TGyfPalY1aHwxNMRvtRZ0FwhfL9BR5DDDEHV7LmvtW3tIuP2Oi8IpnBZ0VOeufLP8tE62xnMgxLA60bhpkhpDOz8qDXvGrQiCky/yGMnSHKmBQVQ+3lIz2+duazrpXLG/STJ8FU9yk+yybOKOY2qJF1RUspYemDuERt32lpvv+7lvuXPNY6dEx0x/Hug9cE=;wgBLIVOHmuYs2V6vhso9bw=="
 ---
 

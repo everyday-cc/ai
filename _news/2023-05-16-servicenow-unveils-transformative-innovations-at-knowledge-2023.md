@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Knowledge 2023 - ServiceNow pitches the ‘exponential enterprise’ as it announces ERP workflows and generative AI tools"
-    excerpt: "ServiceNow pitches the ‘exponential enterprise’ as it announces ERP workflows and generative AI tools Some 15,000 attendees descended on Las Vegas this week for ServiceNow’s annual user event, Knowledge,"
-    publishedDateTime: 2023-05-16T20:44:00Z
-    webUrl: "https://diginomica.com/knowledge-2023-servicenow-pitches-exponential-enterprise-it-announces-erp-workflows-and-generative"
-    ampWebUrl: "https://diginomica.com/knowledge-2023-servicenow-pitches-exponential-enterprise-it-announces-erp-workflows-and-generative?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/knowledge-2023-servicenow-pitches-exponential-enterprise-it-announces-erp-workflows-and-generative?amp"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 35
-    images:
-      - url: "https://diginomica.com/sites/default/files/images/2023-05/928E053D-C767-4B3F-9A73-B48F5CE5CC5B.jpeg"
-        width: 4000
-        height: 3000
-        isCached: true
   - title: "New AI tools headline ServiceNow’s latest platform update"
     excerpt: "They’re rolling out for ServiceNow’s namesake cloud platform, which helps companies manage the parts of their business that involve delivering a service. The platform streamlines tasks such as fielding technical support requests and onboarding new employees."
     publishedDateTime: 2023-05-16T18:11:00Z

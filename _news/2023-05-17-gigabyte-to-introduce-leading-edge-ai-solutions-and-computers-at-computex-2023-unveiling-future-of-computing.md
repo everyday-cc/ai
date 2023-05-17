@@ -44,6 +44,20 @@ related:
       name: The Motley Fool
       domain: fool.com
     quality: 47
+  - title: "GIGABYTE Unveils Revolutionary AI Computing Servers at COMPUTEX 2023"
+    excerpt: "GIGABYTE, announces its unprecedented exhibits at COMPUTEX 2023. Resonating its theme “Future of COMPUTING”, GIGABYTE is unveiling its all-around technical achievements, including industry-leading AI/HPC servers, green computing solutions, gaming and creator products, industrial PC, AI smart securities, and autonomous vehicle technology."
+    publishedDateTime: 2023-05-17T04:47:00Z
+    webUrl: "https://www.phoneworld.com.pk/gigabyte-unveils-revolutionary-ai-computing-servers-at-computex-2023/"
+    type: article
+    provider:
+      name: phoneworld.com.pk
+      domain: phoneworld.com.pk
+    quality: 39
+    images:
+      - url: "https://www.phoneworld.com.pk/wp-content/uploads/2023/05/GIGABYTE-1-EN.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Schumer eyes regulation of burgeoning AI industry"
     excerpt: "Schumer been meeting for months with tech leaders like Tesla CEO Elon Musk to develop a regulatory framework to guide a burgeoning field that's big at the University at Buffalo and that has the potential to remake society."
     publishedDateTime: 2023-05-15T10:15:00Z

@@ -28,37 +28,60 @@ images:
     isCached: true
 
 related:
-  - title: "AI has striking writers freaked out. Can Hollywood avoid nightmare scenarios?"
-    excerpt: "The AI nightmare scenario has loomed over the ongoing writers’ strike, producing some of the cleverest picket signs (“Wrote ChatGPT this”). There’s some concern among scribes that the technologies are just impressive enough to fool executives into thinking they’re more powerful than they actually are."
-    publishedDateTime: 2023-05-16T14:00:00Z
-    webUrl: "https://www.latimes.com/entertainment-arts/business/newsletter/2023-05-16/writers-strike-ai-has-writers-freaked-out-could-the-technology-work-for-studios-and-artists-the-wide-shot"
+  - title: "How this safe browsing feature is using AI to stay ahead of scammers"
+    excerpt: "Kurt \"The CyberGuy\" Knutsson shares steps on how to enable Android's Safe Browsing feature, so you can feel more secure when browsing the internet on your phone."
+    publishedDateTime: 2023-05-13T01:43:00Z
+    webUrl: "https://www.foxnews.com/tech/how-this-safe-browsing-feature-is-using-ai-stay-ahead-scammers"
+    ampWebUrl: "https://www.foxnews.com/tech/how-this-safe-browsing-feature-is-using-ai-stay-ahead-scammers.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/how-this-safe-browsing-feature-is-using-ai-stay-ahead-scammers.amp"
     type: article
     provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 36
+      name: Fox News
+      domain: foxnews.com
+    quality: 87
     images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/dbed645/2147483647/strip/true/crop/1080x567+0+129/resize/1200x630!/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fb8%2F01%2Fb9b2d99944fd85558531df61b7f1%2F230516-wideshot-ainightmare.jpg"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/68f44d3f-4879-4357-aa2e-a9418b634a84/f9e8ca78-fc06-4391-ad1c-2a735f711145/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
         width: 1200
-        height: 630
+        height: 675
         isCached: true
-  - title: "AI and Hollywood: Why the WGA wants to keep robots out of the writers room"
-    excerpt: "AI can't write a quality screenplay today. But as the technology improves, Hollywood writers want to make sure AI isn't used as source material in the future."
-    publishedDateTime: 2023-05-15T13:45:00Z
-    webUrl: "https://www.bizjournals.com/losangeles/inno/stories/news/2023/05/15/hollywood-writers-strike-ai.html"
+  - title: "Audio Book Narrators Say AI Is Already Taking Away Business"
+    excerpt: "As people brace for the disruptive impact of artificial intelligence on jobs and everyday living, those in the world of audio books say their field is already being transformed."
+    publishedDateTime: 2023-05-14T05:42:00Z
+    webUrl: "https://www.barrons.com/news/audio-book-narrators-say-ai-is-already-taking-away-business-1837d837"
+    ampWebUrl: "https://www.barrons.com/amp/news/audio-book-narrators-say-ai-is-already-taking-away-business-1837d837"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/audio-book-narrators-say-ai-is-already-taking-away-business-1837d837"
     type: article
     provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 32
-  - title: "Artificial intelligence may be Hollywood’s ultimate strikebreaker"
-    excerpt: "One wonders if the Hollywood writers’ strike, now in its third week, might inspire movie studios to rely on artificial intelligence to craft stories."
-    publishedDateTime: 2023-05-14T23:30:00Z
-    webUrl: "https://www.theaustralian.com.au/inquirer/artificial-intelligence-may-be-hollywoods-ultimate-strikebreaker/news-story/6dbaec37d1e788e6604df8229fb6b368"
+      name: Barron's
+      domain: barrons.com
+    quality: 57
+    images:
+      - url: "https://www.barrons.com/asset/external-media/afp/AFP9260753792462234016572263585427134158643---1.jpg"
+        width: 768
+        height: 396
+        isCached: true
+  - title: "Taming AI to the benefit of humans"
+    excerpt: "Previous sci-fi movies featuring AI often portray evil-minded enemies set on destroying humanity, such as The Terminator, The Matrix and Blade Runner. Experts, including late British theoretical physicist Stephen Hawking and Tesla CEO Elon Musk,"
+    publishedDateTime: 2023-05-15T02:58:00Z
+    webUrl: "https://global.chinadaily.com.cn/a/202305/15/WS64619228a310b6054fad2f53.html"
     type: article
     provider:
-      name: The Australian
-      domain: theaustralian.com.au
+      name: 中国日报网
+      domain: chinadaily.com.cn
+    quality: 39
+    images:
+      - url: "https://img2.chinadaily.com.cn/images/202305/15/64619228a310b60580cce72b.jpeg"
+        width: 608
+        height: 405
+        isCached: true
+  - title: "Amazon is working on infusing generative AI into its shopping app"
+    excerpt: "Rivals adding generative AI features and consumer demand may be the two reasons behind Amazon’s push in revamping the search engine of its retail application. In the US, about 56% of product searches start on Amazon, higher than the 42% share of search ..."
+    publishedDateTime: 2023-05-16T09:52:00Z
+    webUrl: "https://www.computerworld.com/article/3696691/amazon-is-working-on-infusing-generative-ai-into-its-shopping-app.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
     quality: 17
 
 secured: "t/NBFdgyfBkc8lnUX7Um2FXPs2cDphcDenEWrmb9la+nRn3ASpgjVNkqQVzKjisjeQGZKryS1TkUnLo7Sz5WGDG3D8B/1zKjnwfJqEzyZRtLi0iUQ6aEAApVEV/OOVqKsmNVdohGwevAtvys1imcWCSYLjow6Hg3Nkb4pa+zeRiVEV2PwjXo4QtOBBZwdpbOtEfJDiQ/155SOFXwcsmQ7maEDSzZ6ybd97P7D1iRuHUuGsraw3E/KsyqP0vIkjGRXYp2nPaI9X0WMQEbWtl59mLGqS0bDQuNmzx9NA5lB51M4zaN38bhRqwLOpuqqtSWFKeFP927nQMo65d1G02TxOEpvwmbqGsU1m5p4Pgtbz0WAs2xqMikFF2qIXqiyFliKfUF67fO75hM7q+N6wmTOq2WQ0sPNgbkO8cgFZbyPB8p9/3NAE3Q7dbIC/X0e7TDbzWmmiO+VeE3jT3FvyFj0GurbTOamyFNFXuXEjKrBqGlaVrPfZ5dUXZ6lxWcKpK+Dz9Ppjk+Ophlg8oWAKZYMA==;j8CCxfRV9FjBoeLNjiNJ+g=="

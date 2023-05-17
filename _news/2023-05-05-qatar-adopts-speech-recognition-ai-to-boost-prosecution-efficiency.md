@@ -1,26 +1,28 @@
 ---
 category: news
-title: "Qatar Adopts Speech Recognition AI To Boost Prosecution Efficiency"
-excerpt: "Qatar has started to use AI speech-to-text technology in public prosecution to boost efficiency, local media reported Thursday, Azernews reports cit"
-publishedDateTime: 2023-05-04T23:54:00Z
-originalUrl: "https://menafn.com/1106188424/Qatar-Adopts-Speech-Recognition-AI-To-Boost-Prosecution-Efficiency"
-webUrl: "https://menafn.com/1106188424/Qatar-Adopts-Speech-Recognition-AI-To-Boost-Prosecution-Efficiency"
+title: "Qatar adopts speech recognition AI to boost prosecution efficiency"
+excerpt: "Qatar has started to use AI speech-to-text technology in public prosecution to boost efficiency, local media reported Thursday. The system will be used in criminal investigations and editing legal documents in addition to manual input."
+publishedDateTime: 2023-05-05T08:27:00Z
+originalUrl: "https://www.poandpo.com/news/qatar-adopts-speech-recognition-ai-to-boost-prosecution-efficiency/"
+webUrl: "https://www.poandpo.com/news/qatar-adopts-speech-recognition-ai-to-boost-prosecution-efficiency/"
+ampWebUrl: "https://www.poandpo.com/news/qatar-adopts-speech-recognition-ai-to-boost-prosecution-efficiency.amp"
+cdnAmpWebUrl: "https://www-poandpo-com.cdn.ampproject.org/c/s/www.poandpo.com/news/qatar-adopts-speech-recognition-ai-to-boost-prosecution-efficiency.amp"
 type: article
 
 provider:
-  name: Mena FN
-  domain: menafn.com
+  name: poandpo.com
+  domain: poandpo.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://menafn.com/updates/pr/2023-05/05/A_401ceimage_story.jpg"
-    width: 941
-    height: 647
+  - url: "https://res.cloudinary.com/scotfiles/image/fetch/https://www.histerius.com/hs0223/doha.jpg"
+    width: 1200
+    height: 675
     isCached: true
 
-secured: "O3sZ8xn+o5Yo8hO8M7s/te0fnhYeYVd3JRU7PG4IsIfM1yP499fXPNL9gXdUuYA/iMpYn+/VEgBSGpIh7OdNyF3qSP1fonUXAPHgwDGwxNGZJUHEOKEr5ca1wZQvc4gJCcLiLg3pKyX2xv2Xewau9M49GlU1zIbx30Vnk1GTzvtNZT5Gu33PQYpUVdCoDPqob5WoMlEO4UaTCYwIwY1DhtCjIS5DIUpeG23T2FBRAH1vlRBq7SOjqmEHiK0jCVRzE7ITEaPWLBN8f6TgBKnWvxmuwWPtEqoBnYiMdrBtow1MUZLsgYIwezOYZ+NxZ/ebtVRFUHTwnkhVir9vhIj8iqlDjJKfjrk0SCW3oF58Te5/51b+RpYCkND1gKjd81QoCuu5oDcAXh9TlIW+ajsgLd1zyqEUQd4zr4i1ww4RMAsdXLLZeP8eH6+Kx0IsObRLC9M4ZN6yEvBAjvXIFIsqPi9AN7IrrgJt8yyBylon4B1vT1qnA2rTYGt+aV4lrfwOKIH4UKMQgLQK+2Ej6f9zmg==;CltZ0AJkFTZDAfV9NCed+A=="
+secured: "QttLRZs5bkNS02/v4Ow7ajlLgaAu6H1/58RRagEGnRy5pCikRmrS1PWsBso5SPckdF5crFhR8xXidIrTFqk1oUEE60OCiIJ87WWrrl4z/mdU1YhBYeqiAPzkuoe9T6J4k1cpgYAU8CbK+Q4SczfMNOfryEk2gsgmpnPfeAxNQ4n/aQHOoq4PVhbGDcctL9lzuHOV+6zMqSu2YxUP5btM9KtPaoYGUFOQ5Erbqfll+xj27dRfggjy4MVUakk23WyKcORFX8bbZ93XWRK7xtvkmOmXLVN1olbpS5Cvl+Z2hEBBirrW8QFvc+zXvQdQ7s9tTvQ9wL/C0x1F2PlsnrRKbhKn3XEb4B0RATsY86LUG8Q=;Va/eBZEKW26Yg8fbuQ2vsQ=="
 ---
 

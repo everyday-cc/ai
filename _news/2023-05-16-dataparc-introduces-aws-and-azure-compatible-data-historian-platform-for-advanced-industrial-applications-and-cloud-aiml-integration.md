@@ -35,6 +35,20 @@ related:
         width: 512
         height: 512
         isCached: true
+  - title: "CockroachDB Dedicated for Microsoft Azure Realizes Company's Vision for a Single Distributed Database that Runs Everywhere and Anywhere, Effortlessly"
+    excerpt: "In addition, CockroachDB's serverless, on-consumption data platform now allows users to read and write data across multiple geographically distributed regions. Paying only for the exact amount of data stored and usage of that data on the CockroachDB serverless platform dramatically reduces the cost of operating a global business and makes data-intensive,"
+    publishedDateTime: 2023-05-16T17:04:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/05/16/9815152.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 15
+    images:
+      - url: "https://mma.prnewswire.com/media/1663429/CockroachLabs_Full_Logo_v2.jpg"
+        width: 400
+        height: 311
+        isCached: true
 
 secured: "6c7fAeUBoKZ00BRbTSXf7ioPv+eLa3ej5iYBqYzkFxxkA+R301/Fi66jZHVc/96tp2a2nEdIzCZIA9pgAkOufQlPM57GSui/L12Gzg6CTy/rWYDUC9OnlxQ6CX5wr+sQvN/w0GHA+Dr6HGFTUVhNeYn1MUlBrWNNHGwBuPAplmIKF7di65Br8iPeKLl+KFdhT1wFpDHBByZBGmWze18KLNw3s7aPDdFrO4AkoDj5GZa4UdmhYR0124pXkkCrMVreuzpOFHYPyfwZ2HMyXpZHV5jYjq2/nOXOoji9s+WJTrVaREAYsc34COptkyilwuZ/mpC6rYPuC2mQPhyFxtbe5eS2oWX5VrIh0na1V7t/s1Y=;vZrVXmhYRJCSIJIj9eo2GA=="
 ---

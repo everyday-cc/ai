@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/edge-artificial-intellig
 webUrl: "https://www.marketwatch.com/press-release/edge-artificial-intelligence-ai-chip-market-research-2023-2030-2023-05-14"
 type: article
 quality: 99
-heat: 329
+heat: 339
 published: true
 
 provider:
@@ -332,6 +332,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 61
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Manufacturing Market Research [2023-2030] | Top Countries Data"
+    excerpt: "The \"Artificial Intelligence in Manufacturing Market\" A recently published research report by Precision Reports conducted"
+    publishedDateTime: 2023-05-16T18:27:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-manufacturing-market-research-2023-2030-top-countries-data-2023-05-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 58
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

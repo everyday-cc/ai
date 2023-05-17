@@ -38,6 +38,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Top trends in the fintech space"
+    excerpt: "May 17, marks the annually observed World Telecommunications and Information Society Day (WTISD). Now in its 17th year, WTISD has helped to raise awareness of the possibilities that"
+    publishedDateTime: 2023-05-17T05:43:00Z
+    webUrl: "https://www.jamaicaobserver.com/business/top-trends-in-the-fintech-space/"
+    ampWebUrl: "https://www.jamaicaobserver.com/business/top-trends-in-the-fintech-space/amp/"
+    cdnAmpWebUrl: "https://www-jamaicaobserver-com.cdn.ampproject.org/c/s/www.jamaicaobserver.com/business/top-trends-in-the-fintech-space/amp/"
+    type: article
+    provider:
+      name: The Jamaica Observer
+      domain: jamaicaobserver.com
+    quality: 44
+    images:
+      - url: "https://imengine.public.prod.jam.navigacloud.com/?uuid=972d3ff5-35e6-59fa-9452-6b64552945ae&function=fit&type=preview"
+        width: 500
+        height: 223
+        isCached: true
   - title: "United Insurance among financials gainers; UP Fintech, LM Funding America in losers"
     excerpt: "Gainers: Applied Digital (APLD) +47% on first AI customer news. United Insurance Holdings (UIHC ... Stronghold Digital Mining (SDIG) -11% on reverse stock split. UP Fintech Holding (TIGR) -9%. To ensure this doesn’t happen in the future, please ..."
     publishedDateTime: 2023-05-16T16:11:00Z

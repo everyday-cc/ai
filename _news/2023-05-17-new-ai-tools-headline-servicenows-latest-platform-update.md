@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2023/05/16/new-ai-tools-headline-servicen
 webUrl: "https://siliconangle.com/2023/05/16/new-ai-tools-headline-servicenows-latest-platform-update/"
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Knowledge 2023 - ServiceNow pitches the ‘exponential enterprise’ as it announces ERP workflows and generative AI tools"
-    excerpt: "ServiceNow pitches the ‘exponential enterprise’ as it announces ERP workflows and generative AI tools Some 15,000 attendees descended on Las Vegas this week for ServiceNow’s annual user event, Knowledge,"
-    publishedDateTime: 2023-05-16T20:44:00Z
-    webUrl: "https://diginomica.com/knowledge-2023-servicenow-pitches-exponential-enterprise-it-announces-erp-workflows-and-generative"
-    ampWebUrl: "https://diginomica.com/knowledge-2023-servicenow-pitches-exponential-enterprise-it-announces-erp-workflows-and-generative?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/knowledge-2023-servicenow-pitches-exponential-enterprise-it-announces-erp-workflows-and-generative?amp"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 35
-    images:
-      - url: "https://diginomica.com/sites/default/files/images/2023-05/928E053D-C767-4B3F-9A73-B48F5CE5CC5B.jpeg"
-        width: 4000
-        height: 3000
-        isCached: true
   - title: "ServiceNow unveils transformative innovations at Knowledge 2023"
     excerpt: "ServiceNow (NYSE: NOW), the leading digital workflow company making the world work better for everyone, today announced significant expansions to the Now Platform’s capabilities, offering businesses new,"
     publishedDateTime: 2023-05-16T15:06:00Z

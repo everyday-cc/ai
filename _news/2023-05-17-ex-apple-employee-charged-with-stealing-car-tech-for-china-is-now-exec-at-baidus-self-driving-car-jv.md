@@ -9,7 +9,7 @@ ampWebUrl: "https://m.timesofindia.com/gadgets-news/ex-apple-employee-charged-wi
 cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/gadgets-news/ex-apple-employee-charged-with-stealing-car-tech-for-china-is-now-exec-at-baidus-self-driving-car-jv/amp_articleshow/100291514.cms"
 type: article
 quality: 43
-heat: 43
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Ex-Apple Employee Stole Self-Driving Car Tech For Chinese Competitor, DOJ Alleges"
+    excerpt: "The former Apple engineer, 35-year-old Weibao Wang, allegedly overlapped his time at Apple with a stint working a U.S. based job with a Chinese company, and after his last day with Apple, the company discovered he had accessed large amounts of “sensitive proprietary and confidential information,” the Justice Department said."
+    publishedDateTime: 2023-05-16T20:38:00Z
+    webUrl: "https://www.forbes.com/sites/anafaguy/2023/05/16/ex-apple-employee-stole-self-driving-car-tech-for-chinese-competitor-doj-alleges/"
+    ampWebUrl: "https://www.forbes.com/sites/anafaguy/2023/05/16/ex-apple-employee-stole-self-driving-car-tech-for-chinese-competitor-doj-alleges/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anafaguy/2023/05/16/ex-apple-employee-stole-self-driving-car-tech-for-chinese-competitor-doj-alleges/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 69
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6463c7e6c7a4deb718c2ff1a/0x0.jpg?format=jpg&crop=2149,1618,x278,y0,safe&width=1200"
+        width: 1200
+        height: 903
+        isCached: true
   - title: "Loose lips sink ships: Project Titan(ic) engineer charged by DOJ for stealing Apple’s self-driving car tech"
     excerpt: "The United States Department of Justice has announced formal charges against a former Apple engineer. As reported by CNBC,"
     publishedDateTime: 2023-05-16T16:14:00Z
@@ -60,6 +76,6 @@ related:
       domain: www.cbc.ca
     quality: 1
 
-secured: "+MKAY8jKFX+IHobvaS7jQf5WljEBJ3fenU6lIa1zsydcW890UU/vVR5zJ+mfVhbCkxLPlv+474h6e5QtnlIKwv7Dkqunl2MfHTRkpn0YS7pLwuhnmw58XRLWEWUa9QJqtWSYriPnBGqUvSfYflYzYz467kzKA1IKax2l3DWC14hWbxsdrNVRLcKeXLWxzSypg/zBiZJi7/9F9cMJFotjUkBGf/vY9/BwdZ/oKLc5H2yjdbC5N8TltluXoDMOfwb0cje5l8MlFOHrDlBUCWkP0tEJNup91Wje6jyEb1NGzSTKRKL3uw5aSehioXcuSIe3a/rMd/OzuKSGwbrEcCgae6QvdxxuYMBMeZfjwLivL5k=;/JXDJtljEkVhJdq3r09uDQ=="
+secured: "q/rHW5bmXE9cBr6XFeS8sPpJY/q7DOPVnCVohEOSBpiG/SKbfbBaEGYuWyMhKTMll5+Og3hy+zpWmcSJD2vEV8i0Mvj8gglS5HOObjyUgOG1ZEcO4QGSN7IYiZ8HUggBp0PG07tCNMUplCONip8yLdtljp3s6NPmYZuB4L59Pxwdc1uUhIlFrBvp3kilgzrarA3diy6VwjA21b8DVdWZr60lF9VujCDV08z8tU+5zxj72PqPWDTNLxnXjbJgny3Y+FEmcfL9DaLiEF0ldDYTXzzw2Zje0LxzpGrVeFUQY1KI4XlqHVUqFTr9prbwdz80/NVfuKkko3KkaXgDkMypR9OcA99NVJ3bGg+dkx2rF14ivw+5GvpC1y5N7tNs31MqEXefBiZMXV2P7fElsPDaW8j0fUESFwek2zKmL96nw20enUWC6cvsHt6z6zZ1Do7Ph9znr6wHUKqkgbNlJAuNAs1T5DF78U8g03cG+Li4AY3S0Mmz6ajysu6KLmFTXAGDs8/3il7uyfrpw+sYB0NzJg==;Zrff3v6y/X25Ra2Kj1+OVQ=="
 ---
 

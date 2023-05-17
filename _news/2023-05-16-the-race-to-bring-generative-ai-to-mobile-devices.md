@@ -175,26 +175,6 @@ related:
       name: Computer Weekly
       domain: computerweekly.com
     quality: 34
-  - title: "First real-world study showed generative AI boosted worker productivity by 14%"
-    excerpt: "AI is transforming the way we work. But it's still too early to tell the full ramifications of this revolution."
-    publishedDateTime: 2023-05-12T13:01:00Z
-    webUrl: "https://www.seattletimes.com/explore/careers/first-real-world-study-showed-generative-ai-boosted-worker-productivity-by-14/"
-    ampWebUrl: "https://www.seattletimes.com/explore/careers/first-real-world-study-showed-generative-ai-boosted-worker-productivity-by-14/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/explore/careers/first-real-world-study-showed-generative-ai-boosted-worker-productivity-by-14/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 33
-  - title: "The creative use of generative AI in post-production"
-    excerpt: "Graham McGuinness at Jigsaw24 Media explains how AI is already helping post-production with creating technical grades and post-producing scripted content"
-    publishedDateTime: 2023-05-12T12:08:00Z
-    webUrl: "https://www.broadcastnow.co.uk/tech/the-creative-use-of-generative-ai-in-post-production/5181926.article"
-    type: article
-    provider:
-      name: Broadcast
-      domain: broadcastnow.co.uk
-    quality: 19
   - title: "Why boardrooms can’t ignore generative AI"
     excerpt: "Companies, large and small, are adapting to the threats and opportunities that come with generative AI. Here’s how.Prominent tech leaders have warned against the potential misuse of generative AI. The"
     publishedDateTime: 2023-05-16T18:51:00Z

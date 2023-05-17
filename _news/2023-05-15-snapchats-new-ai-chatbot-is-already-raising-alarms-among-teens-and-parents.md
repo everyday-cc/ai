@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2023/04/27/tech/snapchat-my-ai-concerns-well
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/04/27/tech/snapchat-my-ai-concerns-wellness/index.html"
 type: article
 quality: 85
-heat: 165
+heat: 145
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "You’re Probably Underestimating AI Chatbots"
-    excerpt: "Just as the first iPhone reviews mostly missed the device’s huge potential, it’s folly to draw conclusions from today’s unrefined technology."
-    publishedDateTime: 2023-05-12T13:01:00Z
-    webUrl: "https://www.wired.com/story/plaintext-youre-probably-underestimating-ai-chatbots/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 67
-    images:
-      - url: "https://media.wired.com/photos/645d37c10227ed23db8041a9/191:100/w_1280,c_limit/AI_biz_GettyImages-1372009287.jpg"
-        width: 1280
-        height: 670
-        isCached: true
   - title: "Amazon reportedly planning to bring artificial intelligence chatbot to its online storefront"
     excerpt: "Based on some current job listings, Amazon is now planning to bring the artificial intelligence chatbot ‘ChatGPT’ to its online store."
     publishedDateTime: 2023-05-16T00:51:00Z
@@ -106,15 +92,6 @@ related:
       name: ExtremeTech
       domain: extremetech.com
     quality: 19
-  - title: "Google-backed AI startup's chatbot can read novels in seconds"
-    excerpt: "In an announcement about the increased capability of Claude, Anthropic claimed that they have raised the context window from 9K to 100K tokens, which corresponds to around 75,000 words. Tokens are the basic units of text or code that a large language model (LLM) AI uses to process and generate language."
-    publishedDateTime: 2023-05-12T13:03:00Z
-    webUrl: "https://www.gadgetsnow.com/tech-news/google-backed-ai-startups-chatbot-can-read-novels-in-seconds/articleshow/100189431.cms"
-    type: article
-    provider:
-      name: Gadgets Now
-      domain: gadgetsnow.com
-    quality: 17
   - title: "Zoom To Inject Anthropic’s AI Chatbot Into Video, Collaboration Products"
     excerpt: "Zoom integrates AI into video collaboration meeting and chat products with new Anthropic partnership after partnering with Microsoft-backed OpenAI."
     publishedDateTime: 2023-05-16T18:58:00Z

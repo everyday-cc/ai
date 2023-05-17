@@ -9,8 +9,8 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/these-4-popular-microsoft-a
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/these-4-popular-microsoft-apps-are-getting-a-big-ai-boost/"
 type: article
 quality: 106
-heat: -1
-published: false
+heat: 256
+published: true
 
 provider:
   name: ZDNet
@@ -32,49 +32,21 @@ images:
     isCached: true
 
 related:
-  - title: "IBM and Microsoft partnership accelerates sustainable cloud modernization"
-    excerpt: "A global fast-moving consumer goods (FMCG) enterprise needed to modernize its product portfolio, focusing on high-growth categories like pet care, coffee and consumer health. Its aggressive sustainability goals included achieving net zero emissions by 2050, making all packaging reusable or recyclable"
-    publishedDateTime: 2023-05-12T12:00:00Z
-    webUrl: "https://www.ibm.com/blog/ibm-and-microsoft-partnership-accelerates-sustainable-cloud-modernization/"
+  - title: "Microsoft CEO speaks on the future of artificial intelligence"
+    excerpt: "The CEO of OpenAI, the company responsible for ChatGPT, called on Congress today to regulate artificial intelligence. CNBC’s Andrew Ross Sorkin sat down with Microsoft’s CEO Satya Nadella to talk about both the concerns and benefits after his company invested billions in OpenAI."
+    publishedDateTime: 2023-05-16T23:08:00Z
+    webUrl: "https://www.nbcnews.com/nightly-news/video/microsoft-ceo-speaks-on-the-future-of-artificial-intelligence-174560325527"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo174560325527"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo174560325527"
     type: article
     provider:
-      name: IBM
-      domain: ibm.com
-    quality: 118
-    images:
-      - url: "https://www.ibm.com/blog/wp-content/uploads/2023/05/IBM-and-Microsoft-partnership-accelerates-sustainable-cloud-modernization-630x330.jpg"
-        width: 630
-        height: 330
-        isCached: true
-  - title: "Google Fights Back Against Microsoft With New AI Search Capabilities"
-    excerpt: "Google CEO Sundar Pichai has announced that the AI chatbot Bard is open to all, AI is coming to almost all Google products and new search experiences are on the way"
-    publishedDateTime: 2023-05-12T12:35:00Z
-    webUrl: "https://www.forbes.com/sites/qai/2023/05/12/google-fights-back-against-microsoft-with-new-ai-search-capabilities/"
-    ampWebUrl: "https://www.forbes.com/sites/qai/2023/05/12/google-fights-back-against-microsoft-with-new-ai-search-capabilities/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/05/12/google-fights-back-against-microsoft-with-new-ai-search-capabilities/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
+      name: NBC News
+      domain: nbcnews.com
     quality: 104
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/645e322c80f608b0fb76b706/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 793
-        isCached: true
-  - title: "Natural Language Processing (NLP) Market 2023-2029 Enormous Growth, Detailed Perspective, and Top Players – Microsoft, IBM, 3M, Amazon AWS"
-    excerpt: "Latest released the research study on Global Natural Language Processing (NLP) Market, offers a detailed overview of the factors influencing the global business scope. The Natural Language Processing (NLP) Market report is a valuable source of insightful data for business strategists."
-    publishedDateTime: 2023-05-15T07:41:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-2023-2029-enormous-growth-detailed-perspective-and-top-players-microsoft-ibm-3m-amazon-aws-2023-05-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 99
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_05/1684278439038_nn_aso_hill_hearings_satya_nadella_exclusive_230516_1920x1080-e9hhf5.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "KPI Partners achieves Microsoft Azure Solutions Partner Designation for Data & AI"
     excerpt: "KPI Partners, a global trusted strategic partner for Analytics and Digital Transformation solutions, announced today that it has achieved Microsoft Azure Solution Partner status in Data & AI. This recognition showcases the company's extensive ability to support customers in managing and governing their data across various systems."
@@ -90,6 +62,34 @@ related:
         width: 400
         height: 283
         isCached: true
+  - title: "Microsoft's Azure OpenAI can collect, analyze healthcare data"
+    excerpt: "Microsoft's Azure OpenAI platform is being used to collect and analyze healthcare data. For instance, Opus 5K, a health IT software company based in Australia, deployed the technology for its MARS (Measurement, Analysis and Reporting System) platform."
+    publishedDateTime: 2023-05-16T14:59:00Z
+    webUrl: "https://www.beckershospitalreview.com/disruptors/microsofts-azure-openai-can-collect-analyze-healthcare-data.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 86
+    images:
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "AI Recognition Market SWOT Analysis by Leading Key Players Microsoft Azure, Google, Tencent, Alibaba"
+    excerpt: "Click Here to Get Free Sample PDF Copy of Latest Research on AI Recognition Market 2023 before Purchase:  The report will also include information on the top companies in the AI Recognition market shares,"
+    publishedDateTime: 2023-05-15T09:14:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-recognition-market-swot-analysis-by-leading-key-players-microsoft-azure-google-tencent-alibaba-2023-05-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 84
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "ServiceNow Joins AI Wave in Partnership With Microsoft, OpenAI"
     excerpt: "ServiceNow Inc. unveiled new generative artificial intelligence features for its business applications in a partnership with Microsoft Corp., becoming the latest company to try to meet the rising demand for the emerging technology."
     publishedDateTime: 2023-05-16T14:59:00Z
@@ -104,19 +104,47 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Parablu to Deliver Microsoft Azure-Hosted Cybersecurity and Data Resiliency SaaS Solutions"
-    excerpt: "Parablu will leverage Microsoft Cloud infrastructure and services –– Microsoft Azure and Microsoft 365 to deliver scalable ... making it easier for customers as well as AI tools to find and use this data effectively. \"With more knowledge workers ..."
-    publishedDateTime: 2023-05-16T03:15:00Z
-    webUrl: "https://www.marketwatch.com/press-release/parablu-to-deliver-microsoft-azure-hosted-cybersecurity-and-data-resiliency-saas-solutions-2023-05-15"
+  - title: "Artificial Intelligence for Accounting Market Next Big Thing With Major Giants Microsoft, AWS, Xero, Intuit"
+    excerpt: "Click Here to Get Free Sample PDF Copy of Latest Research on Artificial Intelligence for Accounting Market 2023 Before Purchase:  The report will also include information on the top companies in the Artificial Intelligence for Accounting market shares,"
+    publishedDateTime: 2023-05-15T07:29:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-for-accounting-market-next-big-thing-with-major-giants-microsoft-aws-xero-intuit-2023-05-15"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 74
+    quality: 83
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Triumph Tech CEO: AWS Will Win ‘AI War’ Vs. Google, Microsoft"
+    excerpt: "Generative AI market of Amazon, Google and Microsoft’s OpenAI ChatGPT will be won by AWS due to the cloud company’s artificial intelligence customization and scalability, says Triumph Technology Solutions CEO."
+    publishedDateTime: 2023-05-12T15:29:00Z
+    webUrl: "https://www.crn.com/news/cloud/triumph-tech-ceo-aws-will-win-ai-war-vs-google-microsoft"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 71
+    images:
+      - url: "https://www.crn.com/resources/0281-17fee2fdcd7a-2e9db2bde58c-1000/vic-raymond.jpeg"
+        width: 611
+        height: 458
+        isCached: true
+  - title: "Microsoft’s in-house AI chip could ‘hasten’ product rollout, cut costs"
+    excerpt: "Microsoft is reportedly working on its own chips for training AI models, which could help expand its cloud AI offerings and tighten competition with rivals AWS and Google Cloud. The move could allow Microsoft to further expand its generative AI products,"
+    publishedDateTime: 2023-05-15T14:11:00Z
+    webUrl: "https://www.techcentral.ie/microsofts-in-house-ai-chip-could-hasten-product-rollout-cut-costs/"
+    type: article
+    provider:
+      name: Mozilla
+      domain: techcentral.ie
+    quality: 71
+    images:
+      - url: "https://www.techcentral.ie/wp-content/uploads/2023/05/Windows_2023.jpg"
+        width: 620
+        height: 350
         isCached: true
   - title: "SAP and Microsoft to Deepen Collaboration on Generative AI in Recruiting"
     excerpt: "(Reuters) - SAP will deepen collaboration with Microsoft on joint generative AI projects in the field of personnel recruiting, the German software maker announced on Monday. SAP's SuccessFactors solutions will be integrated with Microsoft's 365 Copilot and Azure OpenAI Service to access language models and generate natural language, it added."
@@ -127,35 +155,56 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 63
-  - title: "Cognitive Media Market Analysis and Industry Research Report 2022-2030 with Top Players like IBM, Google, AWS, Microsoft"
-    excerpt: "May 16, 2023 (Concur Wire via Comtex) -- New Jersey, United State: A new intelligence report released by Infinity Business Insights with title Cognitive Media Market ... We are specialized in offering the services in various industry verticals to recognize ..."
-    publishedDateTime: 2023-05-16T10:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cognitive-media-market-analysis-and-industry-research-report-2022-2030-with-top-players-like-ibm-google-aws-microsoft-2023-05-16"
+  - title: "SAP taps Microsoft AI Copilot to streamline hiring and upskilling for enterprises"
+    excerpt: "SAP today announced a plan to integrate Microsoft AI Copilot and Azure OpenAI service with its SuccessFactors suite of solutions."
+    publishedDateTime: 2023-05-15T17:57:00Z
+    webUrl: "https://venturebeat.com/ai/sap-taps-microsoft-ai-copilot-to-streamline-hiring-and-upskilling/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 61
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 59
+  - title: "Microsoft Security highlights from RSA Conference 2023"
+    excerpt: "Read a recap of memorable moments from Microsoft Security's participation in RSAC 2023 and watch Vasu Jakkal's keynote address on-demand."
+    publishedDateTime: 2023-05-15T16:00:00Z
+    webUrl: "https://www.microsoft.com/en-us/security/blog/2023/05/15/microsoft-security-highlights-from-rsa-conference-2023/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 56
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2023/05/Vasu-1_900_2_cropped.jpg"
+        width: 900
+        height: 394
         isCached: true
-  - title: "Start-Up Nation Central Collaborates with Microsoft to Promote Israeli AgriFood-Tech Startups"
-    excerpt: "This collaboration aims to integrate innovative agricultural data companies with core technologies of AI, Cloud & Machine Learning with Microsoft's AI tools to develop models for optimal, sustainable"
-    publishedDateTime: 2023-05-15T14:30:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/05/n32395743/start-up-nation-central-collaborates-with-microsoft-to-promote-israeli-agrifood-tech-startups"
-    ampWebUrl: "https://www.benzinga.com/amp/content/32395743"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32395743"
+  - title: "Microsoft’s Bing AI adds contextual chat, widget on Android and iOS"
+    excerpt: "Microsoft has just delivered a bunch of updates to Bing AI, including contextual chat and a new widget on Android and iOS."
+    publishedDateTime: 2023-05-16T16:19:00Z
+    webUrl: "https://9to5google.com/2023/05/16/microsoft-bing-ai-widget-android-ios/"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 48
+      name: 9to5google
+      domain: 9to5google.com
+    quality: 56
     images:
-      - url: "https://mma.prnewswire.com/media/2077182/Start_Up_Nation_Central.jpg"
-        width: 400
-        height: 279
+      - url: "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/03/bing-logo-circle-5.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "'Fusion in five years' | AI and Facebook billionaire-backed pioneer signs Microsoft up for 'star power'"
+    excerpt: "Helion Energy, whose investors include Sam Altman, Reid Hoffman and Dustin Moskovitz, aims to get first plant online by 2028 and claims deal with software giant"
+    publishedDateTime: 2023-05-14T09:23:00Z
+    webUrl: "https://www.rechargenews.com/energy-transition/fusion-in-five-years-ai-and-facebook-billionaire-backed-pioneer-signs-microsoft-up-for-star-power/2-1-1450880"
+    type: article
+    provider:
+      name: Recharge
+      domain: rechargenews.com
+    quality: 40
+    images:
+      - url: "https://images-global.nhst.tech/image/STIrOFRTRzBOdEovQVlUSkxUUHkzUVVja2FvQ1hTU3dlcVZadmlGSm9BMD0=/nhst/binary/1b60017ce3a4c7c66b945a33627e8eb7?image_version=720"
+        width: 720
+        height: 357
         isCached: true
   - title: "SAP and Microsoft to deepen collaboration on generative AI in recruiting"
     excerpt: "SAP will deepen collaboration with Microsoft on joint generative AI projects. (REUTERS) SAP will deepen collaboration with Microsoft on joint generative AI projects in the field of personnel recruiting,"
@@ -166,15 +215,6 @@ related:
       name: Hindustan Times Tech
       domain: hindustantimes.com
     quality: 33
-  - title: "Parablu to Deliver Microsoft Azure-Hosted Cybersecurity and Data Resiliency SaaS Solutions"
-    excerpt: "PRNewswire/-- Parablu, a global provider of SaaS-based data protection and management solutions for endpoints, on-premises, and cloud environments, today announced a multi-year agreement with Microsoft that integrates engineering,"
-    publishedDateTime: 2023-05-15T13:49:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/05/15/9814024.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 24
   - title: "SAP and Microsoft Collaborate on Joint Generative AI Offerings to Help Customers Address the Talent Gap"
     excerpt: "SAP® SuccessFactors® Solutions Integration with Microsoft 365 Copilot and Copilot in Viva Learning Will Bring the Power of AI to People Leaders, Helping Them Recruit and Develop Their Teams WALLDORF,"
     publishedDateTime: 2023-05-15T14:29:00Z

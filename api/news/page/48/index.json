@@ -2,6 +2,307 @@
   "page": 48,
   "value": [
     {
+      "path": "_news/2023-04-18-aws-wants-to-help-you-build-generative-ai-tools.md",
+      "title": "AWS wants to help you build generative AI tools",
+      "excerpt": "AWS announced several innovations last week that will make it easy and practical for its customers to use generative AI in their businesses.",
+      "sourceUrl": null,
+      "webUrl": "https://techwireasia.com/2023/04/now-aws-wants-to-help-you-build-generative-ai-tools-as-well/",
+      "originalUrl": "https://techwireasia.com/2023/04/now-aws-wants-to-help-you-build-generative-ai-tools-as-well/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techwireasia.com/wp-content/uploads/2023/04/000_33896B8-scaled.jpg",
+          "width": 2560,
+          "height": 1706,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-18T01:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techwireasia.com",
+        "domain": "techwireasia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-18-singapore-headquartered-finbotsai-secures-first-client-in-australia.md",
+      "title": "Singapore-headquartered finbots.ai secures first client in Australia",
+      "excerpt": "Accel-backed finbots.ai, a Singapore headquartered B2B SaaS FinTech today announced signing Argenic - a growth stage Australian FinTech providing a suite of financial solutions for SMEs - as their latest client.",
+      "sourceUrl": null,
+      "webUrl": "https://www.finextra.com/pressarticle/96483/singapore-headquartered-finbotsai-secures-first-client-in-australia",
+      "originalUrl": "https://www.finextra.com/pressarticle/96483/singapore-headquartered-finbotsai-secures-first-client-in-australia",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.finextra.com/about/finextra-logo.png",
+          "width": 512,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-18T01:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finextra",
+        "domain": "finextra.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-18-using-machine-learning-to-find-reliable-and-low-cost-solar-cells.md",
+      "title": "Using machine learning to find reliable and low-cost solar cells",
+      "excerpt": "Researchers at the University of California, Davis College of Engineering are using machine learning to identify new materials for high-efficiency solar cells. Using high-throughput experiments and machine learning-based algorithms,",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2023-04-machine-reliable-low-cost-solar-cells.html",
+      "originalUrl": "https://techxplore.com/news/2023-04-machine-reliable-low-cost-solar-cells.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-18T01:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-18-baidu-rises-as-it-unveils-new-advanced-driving-updates.md",
+      "title": "Baidu rises as it unveils new advanced driving updates",
+      "excerpt": "Never miss a trade again with the fastest news alerts in the world! This headline only article is a sample of real-time intelligence Benzinga Pro traders use to win in the markets everyday. Want ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/content/seekingalpha-com/23/04/31835666/baidu-rises-as-it-unveils-new-advanced-driving-updates",
+      "originalUrl": "https://www.benzinga.com/content/seekingalpha-com/23/04/31835666/baidu-rises-as-it-unveils-new-advanced-driving-updates",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-18T01:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-18-seeing-is-believing-emergen-research-predicts-bright-future-for-machine-vision-market.md",
+      "title": "Seeing is Believing: Emergen Research Predicts Bright Future for Machine Vision Market",
+      "excerpt": "Witness the revolution of the Machine Vision market, with a 7.1% CAGR projected by Emergen Research. Find out what's driving this growth",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/seeing-is-believing-emergen-research-predicts-bright-future-for-machine-vision-market-1032237842",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/seeing-is-believing-emergen-research-predicts-bright-future-for-machine-vision-market-1032237842",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-18T01:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-18-hsbc-says-this-chip-makers-incredible-ai-pricing-power-is-not-fully-priced-into-the-stock.md",
+      "title": "HSBC says this chip maker's 'incredible AI pricing power' is not fully priced into the stock",
+      "excerpt": "Nvidia shares can extend their 2023 rally once the chip maker's growing artificial intelligence business is fully appreciated by Wall Street, according to HSBC. Frank Lee, the firm's head of technology research in Asia,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/04/18/hsbc-says-this-chip-makers-incredible-ai-pricing-power-is-not-fully-priced-into-the-stock.html",
+      "originalUrl": "https://www.cnbc.com/2023/04/18/hsbc-says-this-chip-makers-incredible-ai-pricing-power-is-not-fully-priced-into-the-stock.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107067261-1653514547587-gettyimages-1234001062-RAFAPRESS_15072021-9654.jpeg?v=1681811866&w=1920&h=1080",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-18T00:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-18-artificial-intelligence-in-cancer-diagnosis-and-therapy-market-size-to-boost-us-5299-million-by-2030.md",
+      "title": "Artificial Intelligence In Cancer Diagnosis And Therapy Market Size To Boost US$ 5,299 Million By 2030",
+      "excerpt": "Increased approval of AI-based devices for cancer therapy by FDA is a key factor driving AI in cancer diagnosis & therapy market revenue growth Artificial Intelligence in Cancer Diagnosis and ...",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1106029984/Artificial-Intelligence-In-Cancer-Diagnosis-And-Therapy-Market-Size-To-Boost-US-5299-Million-By-2030",
+      "originalUrl": "https://menafn.com/1106029984/Artificial-Intelligence-In-Cancer-Diagnosis-And-Therapy-Market-Size-To-Boost-US-5299-Million-By-2030",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?880888",
+          "width": 400,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-18T00:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mena FN",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-18-spiking-neural-networks-hardware-algorithm-developments.md",
       "title": "Spiking Neural Networks: Hardware & Algorithm Developments",
       "excerpt": "A new technical paper titled “Exploring Neuromorphic Computing Based on Spiking Neural Networks: Algorithms to Hardware” was published by researchers at Purdue University, Pennsylvania State University, and Yale University. Excerpt from Abstract ...",
@@ -846,335 +1147,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-17-best-deals-at-amazon-this-week.md",
-      "title": "Best deals at Amazon this week",
-      "excerpt": "After a long period of being out of stock, the Sony PlayStation 5 is available at Amazon -- at a nice discount. Normally priced at $560, Amazon is offering the God of War PS5 bundle for just $510 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/essentials/best-deals-at-amazon-in-april-2023-04-17/",
-      "originalUrl": "https://www.cbsnews.com/essentials/best-deals-at-amazon-in-april-2023-04-17/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/04/06/14b22de6-0846-496b-b54b-3e4448f63c19/thumbnail/1200x630/c9f1e029eed34ff4c2762d162c5f6742/apple-airpods-pro-2-hero.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/essentials/best-deals-at-amazon-in-april-2023-04-17/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/best-deals-at-amazon-in-april-2023-04-17/",
-      "publishedDateTime": "2023-04-17T09:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-17-asda-will-start-delivering-food-to-customers-across-london-using-driverless-cars.md",
-      "title": "Asda will start delivering food to customers across London using driverless cars",
-      "excerpt": "In partnership with Wayve, a developer of artificial intelligence for driverless vehicles, the year-long trial will enable Asda to autonomously deliver orders to a catchment area of more than ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thisismoney.co.uk/money/cars/article-11981683/amp/Asda-start-delivering-food-customers-London-using-driverless-cars.html",
-      "originalUrl": "https://www.thisismoney.co.uk/money/cars/article-11981683/amp/Asda-start-delivering-food-customers-London-using-driverless-cars.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.dailymail.co.uk/1s/2023/04/17/15/69917209-0-image-a-2_1681740960641.jpg",
-          "width": 636,
-          "height": 382,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thisismoney.co.uk/money/cars/article-11981683/amp/Asda-start-delivering-food-customers-London-using-driverless-cars.html",
-      "cdnAmpWebUrl": "https://www-thisismoney-co-uk.cdn.ampproject.org/c/s/www.thisismoney.co.uk/money/cars/article-11981683/amp/Asda-start-delivering-food-customers-London-using-driverless-cars.html",
-      "publishedDateTime": "2023-04-17T09:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "This is Money",
-        "domain": "thisismoney.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-17-microsoft-and-epic-expand-strategic-collaboration-with-integration-of-azure-openai-service.md",
-      "title": "Microsoft and Epic expand strategic collaboration with integration of Azure OpenAI Service",
-      "excerpt": "April 17, 2023 /PRNewswire/ -- Microsoft Corp. and Epic on Monday announced they are expanding their long-standing strategic collaboration to develop and integrate generative AI into healthcare by combining the scale and power of Azure OpenAI Service 1 ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/microsoft-and-epic-expand-strategic-collaboration-with-integration-of-azure-openai-service-1032236844",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/microsoft-and-epic-expand-strategic-collaboration-with-integration-of-azure-openai-service-1032236844",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1795836/Epic_NEW_Logo.jpg",
-          "width": 400,
-          "height": 222,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-17T08:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-17-nvidia-stock-excellent-ai-growth-play.md",
-      "title": "Nvidia Stock: Excellent AI Growth Play",
-      "excerpt": "For those following market trends, it has been impossible to ignore the buzz around generative AI (artificial intelligence) in recent months.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/nvidia-stock-excellent-ai-growth-play-1032236971",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/nvidia-stock-excellent-ai-growth-play-1032236971",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://blog.tipranks.com/wp-content/uploads/2023/04/image-321-1024x518.png?utm_source=markets.businessinsider.com&utm_medium=referral",
-          "width": 1024,
-          "height": 518,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-17T08:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-17-artificial-intelligence-in-healthcare-market-size-to-hit-us-1222-billion-growing-at-a-519-cagr-by-2030.md",
-      "title": "Artificial Intelligence In Healthcare Market Size To Hit US$ 12.22 Billion Growing At A 51.9% CAGR By 2030",
-      "excerpt": "Artificial Intelligence in Healthcare Market Research Report Information By Component, Application, Technology, End User- Global Forecast till 2030 NEW YORK CITY, NEW YORK, USA, April 17 ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1106029227/Artificial-Intelligence-In-Healthcare-Market-Size-To-Hit-US-1222-Billion-Growing-At-A-519-CAGR-By-2030",
-      "originalUrl": "https://menafn.com/1106029227/Artificial-Intelligence-In-Healthcare-Market-Size-To-Hit-US-1222-Billion-Growing-At-A-519-CAGR-By-2030",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?880888",
-          "width": 400,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-17T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mena FN",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-17-cpi-hits-two-year-low-and-bank-earnings-smash-wall-street-estimates-forbes-ai-newsletter-april-15th.md",
-      "title": "CPI Hits Two-Year Low And Bank Earnings Smash Wall Street Estimates - Forbes AI Newsletter April 15th",
-      "excerpt": "Subscribe to the Forbes AI newsletter to stay in the loop and get AI-backed investing insights, the latest news and more delivered directly to your inbox every weekend.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/qai/2023/04/17/cpi-hits-two-year-low-and-bank-earnings-smash-wall-street-estimatesforbes-ai-newsletter-april-15th/",
-      "originalUrl": "https://www.forbes.com/sites/qai/2023/04/17/cpi-hits-two-year-low-and-bank-earnings-smash-wall-street-estimatesforbes-ai-newsletter-april-15th/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/643d64d6f54f1ea9b53bf6fd/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 848,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/qai/2023/04/17/cpi-hits-two-year-low-and-bank-earnings-smash-wall-street-estimatesforbes-ai-newsletter-april-15th/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/04/17/cpi-hits-two-year-low-and-bank-earnings-smash-wall-street-estimatesforbes-ai-newsletter-april-15th/amp/",
-      "publishedDateTime": "2023-04-17T08:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2023-04-17-infor-continues-to-grow-its-healthcare-relationship-with-aws.md",
-      "title": "Infor Continues to Grow its Healthcare Relationship with AWS",
-      "excerpt": "Infor ®, the industry cloud company, today announced that it has been selected by Amazon Web Services (AWS) as an Amazon HealthLake Partner. This underscores Infor's commitment to strengthening its relationship with AWS and its dedication to providing industry-specific solutions powered by high-performing,",
-      "sourceUrl": null,
-      "webUrl": "https://technews.tmcnet.com/news/2023/04/17/9795611.htm",
-      "originalUrl": "https://technews.tmcnet.com/news/2023/04/17/9795611.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/526907/Infor_new_Logo.jpg",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-17T07:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

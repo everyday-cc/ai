@@ -338,6 +338,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence in Manufacturing Market Research [2023-2030] | Top Countries Data"
+    excerpt: "The \"Artificial Intelligence in Manufacturing Market\" A recently published research report by Precision Reports conducted"
+    publishedDateTime: 2023-05-16T18:27:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-manufacturing-market-research-2023-2030-top-countries-data-2023-05-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 58
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence (AI) Chip Market Intelligence Report 2031: Profit-Oriented Business Decisions For Major Players"
     excerpt: "Artificial Intelligence Chip Market Opportunity Analysis  The global artificial intelligence chip market was valued at $11.2 billion in 2"
     publishedDateTime: 2023-05-16T05:53:00Z

@@ -34,20 +34,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "You’re Probably Underestimating AI Chatbots"
-    excerpt: "Just as the first iPhone reviews mostly missed the device’s huge potential, it’s folly to draw conclusions from today’s unrefined technology."
-    publishedDateTime: 2023-05-12T13:01:00Z
-    webUrl: "https://www.wired.com/story/plaintext-youre-probably-underestimating-ai-chatbots/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 67
-    images:
-      - url: "https://media.wired.com/photos/645d37c10227ed23db8041a9/191:100/w_1280,c_limit/AI_biz_GettyImages-1372009287.jpg"
-        width: 1280
-        height: 670
-        isCached: true
   - title: "Amazon reportedly planning to bring artificial intelligence chatbot to its online storefront"
     excerpt: "Based on some current job listings, Amazon is now planning to bring the artificial intelligence chatbot ‘ChatGPT’ to its online store."
     publishedDateTime: 2023-05-16T00:51:00Z
@@ -110,15 +96,6 @@ related:
       name: ExtremeTech
       domain: extremetech.com
     quality: 19
-  - title: "Google-backed AI startup's chatbot can read novels in seconds"
-    excerpt: "In an announcement about the increased capability of Claude, Anthropic claimed that they have raised the context window from 9K to 100K tokens, which corresponds to around 75,000 words. Tokens are the basic units of text or code that a large language model (LLM) AI uses to process and generate language."
-    publishedDateTime: 2023-05-12T13:03:00Z
-    webUrl: "https://www.gadgetsnow.com/tech-news/google-backed-ai-startups-chatbot-can-read-novels-in-seconds/articleshow/100189431.cms"
-    type: article
-    provider:
-      name: Gadgets Now
-      domain: gadgetsnow.com
-    quality: 17
 
 secured: "YbzLDXp9vPp1xrlNoATfLp5xGOzh8NUufp0iB5PPFg/u/DWgNbjY9xw7zmV+qtxvk4eR36O8+eHingZ8+9rjCMA4foep1ziwPKMgIQ+bnLn5dcS6Gn1llzqYXW2c9WYk1+An75DEQfK9vmz6wXTbOccrWhmeeI8uFY0PQmxC14i8cavPlO7OJRT1Pse9Bf52CpBs09HIHjtQKIQvsOHwKB6hhAuCF8BVROCUBbd4LZBdLEpbNlcPOpd8ruv/Zt8DVUnf/toBNUqrxXdBxxZDksjp8Yh6Kc36C69eLclvZKUA4vwcO3PCH8jYSlZpWbMG5WBMUvxibwy6SHhmBr9IsAD6bHHhyKFRhDre6LiHsDvyE+88vW8lxc2wXcwdWnHZJbRj6kt8DqO3ZttCo0SuI0CP5fjVRsK4e3VMf7xaLUGZLArkqOGOddgLY+B+OIy0OQeVDujiz2rER7hRd8yuEjkgAN7kszJm0fBYpRUfrN+FUX7FdC9YiOj9yAWt/CKbUvtJqLo83CMj0G2MlXzqcQ==;ZxcsZXiK08VHgQWInRaEBg=="
 ---

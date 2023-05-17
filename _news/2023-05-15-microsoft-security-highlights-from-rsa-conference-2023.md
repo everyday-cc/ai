@@ -30,6 +30,52 @@ images:
     isCached: true
 
 related:
+  - title: "These 4 popular Microsoft apps are getting a big AI boost"
+    excerpt: "Swiftkey, Microsoft's virtual keyboard app that allows you to access Bing Chat across different apps, is getting a monumental boost."
+    publishedDateTime: 2023-05-16T15:17:00Z
+    webUrl: "https://www.zdnet.com/article/these-4-popular-microsoft-apps-are-getting-a-big-ai-boost/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/these-4-popular-microsoft-apps-are-getting-a-big-ai-boost/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/these-4-popular-microsoft-apps-are-getting-a-big-ai-boost/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 106
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/b2cb30563f660d5191369ced51bf355a07f5bcaf/2023/05/16/f302e472-37a2-411d-8228-8b582e4c1d81/image-11.png?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Microsoft CEO speaks on the future of artificial intelligence"
+    excerpt: "The CEO of OpenAI, the company responsible for ChatGPT, called on Congress today to regulate artificial intelligence. CNBC’s Andrew Ross Sorkin sat down with Microsoft’s CEO Satya Nadella to talk about both the concerns and benefits after his company invested billions in OpenAI."
+    publishedDateTime: 2023-05-16T23:08:00Z
+    webUrl: "https://www.nbcnews.com/nightly-news/video/microsoft-ceo-speaks-on-the-future-of-artificial-intelligence-174560325527"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo174560325527"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo174560325527"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 104
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_05/1684278439038_nn_aso_hill_hearings_satya_nadella_exclusive_230516_1920x1080-e9hhf5.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "KPI Partners achieves Microsoft Azure Solutions Partner Designation for Data & AI"
+    excerpt: "KPI Partners, a global trusted strategic partner for Analytics and Digital Transformation solutions, announced today that it has achieved Microsoft Azure Solution Partner status in Data & AI. This recognition showcases the company's extensive ability to support customers in managing and governing their data across various systems."
+    publishedDateTime: 2023-05-16T17:06:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/kpi-partners-achieves-microsoft-azure-solutions-partner-designation-for-data-ai-1032332063"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 94
+    images:
+      - url: "https://mma.prnewswire.com/media/2030241/KPI_Partners_Logo.jpg"
+        width: 400
+        height: 283
+        isCached: true
   - title: "Microsoft's Azure OpenAI can collect, analyze healthcare data"
     excerpt: "Microsoft's Azure OpenAI platform is being used to collect and analyze healthcare data. For instance, Opus 5K, a health IT software company based in Australia, deployed the technology for its MARS (Measurement, Analysis and Reporting System) platform."
     publishedDateTime: 2023-05-16T14:59:00Z
@@ -58,6 +104,71 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "ServiceNow Joins AI Wave in Partnership With Microsoft, OpenAI"
+    excerpt: "ServiceNow Inc. unveiled new generative artificial intelligence features for its business applications in a partnership with Microsoft Corp., becoming the latest company to try to meet the rising demand for the emerging technology."
+    publishedDateTime: 2023-05-16T14:59:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-05-16/servicenow-joins-ai-wave-in-partnership-with-microsoft-openai"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 84
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i7H2hT69hYGQ/v1/1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Artificial Intelligence for Accounting Market Next Big Thing With Major Giants Microsoft, AWS, Xero, Intuit"
+    excerpt: "Click Here to Get Free Sample PDF Copy of Latest Research on Artificial Intelligence for Accounting Market 2023 Before Purchase:  The report will also include information on the top companies in the Artificial Intelligence for Accounting market shares,"
+    publishedDateTime: 2023-05-15T07:29:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-for-accounting-market-next-big-thing-with-major-giants-microsoft-aws-xero-intuit-2023-05-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 83
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Triumph Tech CEO: AWS Will Win ‘AI War’ Vs. Google, Microsoft"
+    excerpt: "Generative AI market of Amazon, Google and Microsoft’s OpenAI ChatGPT will be won by AWS due to the cloud company’s artificial intelligence customization and scalability, says Triumph Technology Solutions CEO."
+    publishedDateTime: 2023-05-12T15:29:00Z
+    webUrl: "https://www.crn.com/news/cloud/triumph-tech-ceo-aws-will-win-ai-war-vs-google-microsoft"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 71
+    images:
+      - url: "https://www.crn.com/resources/0281-17fee2fdcd7a-2e9db2bde58c-1000/vic-raymond.jpeg"
+        width: 611
+        height: 458
+        isCached: true
+  - title: "Microsoft’s in-house AI chip could ‘hasten’ product rollout, cut costs"
+    excerpt: "Microsoft is reportedly working on its own chips for training AI models, which could help expand its cloud AI offerings and tighten competition with rivals AWS and Google Cloud. The move could allow Microsoft to further expand its generative AI products,"
+    publishedDateTime: 2023-05-15T14:11:00Z
+    webUrl: "https://www.techcentral.ie/microsofts-in-house-ai-chip-could-hasten-product-rollout-cut-costs/"
+    type: article
+    provider:
+      name: Mozilla
+      domain: techcentral.ie
+    quality: 71
+    images:
+      - url: "https://www.techcentral.ie/wp-content/uploads/2023/05/Windows_2023.jpg"
+        width: 620
+        height: 350
+        isCached: true
+  - title: "SAP and Microsoft to Deepen Collaboration on Generative AI in Recruiting"
+    excerpt: "(Reuters) - SAP will deepen collaboration with Microsoft on joint generative AI projects in the field of personnel recruiting, the German software maker announced on Monday. SAP's SuccessFactors solutions will be integrated with Microsoft's 365 Copilot and Azure OpenAI Service to access language models and generate natural language, it added."
+    publishedDateTime: 2023-05-15T12:35:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2023-05-15/sap-and-microsoft-to-deepen-collaboration-on-generative-ai-in-recruiting"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 63
   - title: "SAP taps Microsoft AI Copilot to streamline hiring and upskilling for enterprises"
     excerpt: "SAP today announced a plan to integrate Microsoft AI Copilot and Azure OpenAI service with its SuccessFactors suite of solutions."
     publishedDateTime: 2023-05-15T17:57:00Z
@@ -67,20 +178,52 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 59
-  - title: "CockroachDB Dedicated for Microsoft Azure Realizes Company's Vision for a Single Distributed Database that Runs Everywhere and Anywhere, Effortlessly"
-    excerpt: "In addition, CockroachDB's serverless, on-consumption data platform now allows users to read and write data across multiple geographically distributed regions. Paying only for the exact amount of data stored and usage of that data on the CockroachDB serverless platform dramatically reduces the cost of operating a global business and makes data-intensive,"
-    publishedDateTime: 2023-05-16T17:04:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/05/16/9815152.htm"
+  - title: "Microsoft’s Bing AI adds contextual chat, widget on Android and iOS"
+    excerpt: "Microsoft has just delivered a bunch of updates to Bing AI, including contextual chat and a new widget on Android and iOS."
+    publishedDateTime: 2023-05-16T16:19:00Z
+    webUrl: "https://9to5google.com/2023/05/16/microsoft-bing-ai-widget-android-ios/"
+    type: article
+    provider:
+      name: 9to5google
+      domain: 9to5google.com
+    quality: 56
+    images:
+      - url: "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/03/bing-logo-circle-5.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "'Fusion in five years' | AI and Facebook billionaire-backed pioneer signs Microsoft up for 'star power'"
+    excerpt: "Helion Energy, whose investors include Sam Altman, Reid Hoffman and Dustin Moskovitz, aims to get first plant online by 2028 and claims deal with software giant"
+    publishedDateTime: 2023-05-14T09:23:00Z
+    webUrl: "https://www.rechargenews.com/energy-transition/fusion-in-five-years-ai-and-facebook-billionaire-backed-pioneer-signs-microsoft-up-for-star-power/2-1-1450880"
+    type: article
+    provider:
+      name: Recharge
+      domain: rechargenews.com
+    quality: 40
+    images:
+      - url: "https://images-global.nhst.tech/image/STIrOFRTRzBOdEovQVlUSkxUUHkzUVVja2FvQ1hTU3dlcVZadmlGSm9BMD0=/nhst/binary/1b60017ce3a4c7c66b945a33627e8eb7?image_version=720"
+        width: 720
+        height: 357
+        isCached: true
+  - title: "SAP and Microsoft to deepen collaboration on generative AI in recruiting"
+    excerpt: "SAP will deepen collaboration with Microsoft on joint generative AI projects. (REUTERS) SAP will deepen collaboration with Microsoft on joint generative AI projects in the field of personnel recruiting,"
+    publishedDateTime: 2023-05-16T13:47:00Z
+    webUrl: "https://tech.hindustantimes.com/tech/news/sap-and-microsoft-to-deepen-collaboration-on-generative-ai-in-recruiting-71684169729680.html"
+    type: article
+    provider:
+      name: Hindustan Times Tech
+      domain: hindustantimes.com
+    quality: 33
+  - title: "SAP and Microsoft Collaborate on Joint Generative AI Offerings to Help Customers Address the Talent Gap"
+    excerpt: "SAP® SuccessFactors® Solutions Integration with Microsoft 365 Copilot and Copilot in Viva Learning Will Bring the Power of AI to People Leaders, Helping Them Recruit and Develop Their Teams WALLDORF,"
+    publishedDateTime: 2023-05-15T14:29:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/05/15/9813979.htm"
     type: article
     provider:
       name: TMCnet
       domain: tmcnet.com
-    quality: 15
-    images:
-      - url: "https://mma.prnewswire.com/media/1663429/CockroachLabs_Full_Logo_v2.jpg"
-        width: 400
-        height: 311
-        isCached: true
+    quality: 20
 
 secured: "GueKBvai+AHQCuhoLbP9nfTLlIKNLR/MO74PJL3n+BGf4TZxUiRs0tOIbfw+wO1nwVjsd81QjvbCcaKdvTbCD/RBqsNxSFwp94ahwqVM/yFHCc+8YMzi1a7b8pN97W9qr6oJRFAo+IlnzfN5iliOO6soQA3BNqbLYOBSS7TEyfJdCyFbxifl2SWGuuBfllNHWGdiRhmNYDToahdfbw3EjQdO1SmRkFR9yZyd83wAa+H74myjWZ2IGrddEWPrceT8dp5ttQdd4I//8C6PO6GfXQiAW82+xagIdKASyZWw01UnJ/Tmp+Q3UoKrULRvymYZYflv9P7jlahi3inD9mqhxqEsXejiiKxvd7yS7uEtsmT9q8tH2PQVRJQlaWc9mhkfIMK9k6TTVmZgwYsEnacOeFeRRQXoQmm7bwCO32ud4X3+WepqRX3zJO9eQ74MU+B+7W0G/96SkXE2zO5Sg0BjwXBUizGcU+ii/vVOuNbHX7a0EUxdi+CuYyIK6RjjrBariKhbuFaWK/YVC05m2LswsQ==;DQrRkK6SlDtPAVFU5rXtaA=="
 ---

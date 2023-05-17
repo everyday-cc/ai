@@ -33,20 +33,6 @@ related:
         width: 1240
         height: 697
         isCached: true
-  - title: "AI Can Be Both Accurate and Transparent"
-    excerpt: "Historically, tech leaders have assumed that the better a human can understand an algorithm, the less accurate it will be. But is there always a tradeoff between accuracy and explainability? The authors tested a wide array of AI models on nearly 100 representative datasets,"
-    publishedDateTime: 2023-05-12T12:15:00Z
-    webUrl: "https://hbr.org/2023/05/ai-can-be-both-accurate-and-transparent"
-    type: article
-    provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 37
-    images:
-      - url: "https://hbr.org/resources/images/article_assets/2023/05/May23_12_460688633.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "VhPwIjRT8nrj6bL7PEub7vqvDGjN+1Cnei85M0er54CK/1g2cI1CgP+gEcX8Jv/9gFz41/lZkGO+HBLY6VX3pJ/odtuRkCB6bMJYRqgvHgTHaHLx5QX+3vobMnsZO+KxdHOCy8SpOkQ/ZnqFhJaUeV8CDFvCY/ZkkegVEeleDDQ5B+5suCu8gQa16VuK9r3OOLJJ0Ulg5uCYAVe+AygC3TM+xELORKJkxDz9CKax8VftJ3WE00ctWuvgrNzxKziVbuevYLB7GA7PPNnmjYEcc9azFYHxXkX6pHNTRRDkw29gJSxvQ0xBGIchnu2qO+QnOTjaNuk41xb9WMtHQTBR1Qm5kea5UtV/2vqw87CCTIg=;22Ytz03oTKeQqAMmavC2PQ=="
 ---

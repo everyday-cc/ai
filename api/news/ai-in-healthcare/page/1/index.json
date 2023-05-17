@@ -2,50 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2023-05-16-microsofts-azure-openai-can-collect-analyze-healthcare-data.md",
-      "title": "Microsoft's Azure OpenAI can collect, analyze healthcare data",
-      "excerpt": "Microsoft's Azure OpenAI platform is being used to collect and analyze healthcare data. For instance, Opus 5K, a health IT software company based in Australia, deployed the technology for its MARS (Measurement, Analysis and Reporting System) platform.",
-      "sourceUrl": null,
-      "webUrl": "https://www.beckershospitalreview.com/disruptors/microsofts-azure-openai-can-collect-analyze-healthcare-data.html",
-      "originalUrl": "https://www.beckershospitalreview.com/disruptors/microsofts-azure-openai-can-collect-analyze-healthcare-data.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-16T07:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Becker's Hospital Review",
-        "domain": "beckershospitalreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
       "path": "_news/2023-05-16-hippocratic-ai-raises-50-mln-seed-funding-to-build-models-for-healthcare.md",
       "title": "Hippocratic AI raises $50 mln seed funding to build models for healthcare",
       "excerpt": "Hippocratic AI, a startup building artificial intelligence models for the healthcare industry, has raised $50 million in a larger-than-usual seed funding round, signaling strong investor interest in betting on AI models for specific industries.",
@@ -158,7 +114,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/top-apps-ai-releases-a-report-on-benefits-of-autonomous-artificial-intelligence-2023-05-15",
       "featuredContent": null,
       "highlight": null,
-      "heat": 80,
+      "heat": 90,
       "tags": null,
       "images": [
         {
@@ -1330,20 +1286,29 @@
     {
       "path": "_news/2023-05-04-harris-to-meet-with-ceos-about-artificial-intelligence-risks.md",
       "title": "Harris to meet with CEOs about artificial intelligence risks",
-      "excerpt": "Vice President Kamala Harris speaks, along side Jill Scarbo, who won National Small Business of the Year in 2022 and is the CEO of Bright Futures Learning Services (BFLS), a provider of Applied Behavior Analysis (ABA) therapy services for children ...",
+      "excerpt": "Vice President Kamala Harris will meet with the CEOs of four major companies developing artificial intelligence. The Biden administration is rolling out initiatives meant to ensure the rapidly evolvin",
       "sourceUrl": null,
-      "webUrl": "https://omaha.com/news/science/harris-to-meet-with-ceos-about-artificial-intelligence-risks/article_2be5fceb-7e7e-5b20-93a6-2fc9680f8df6.html",
-      "originalUrl": "https://omaha.com/news/science/harris-to-meet-with-ceos-about-artificial-intelligence-risks/article_2be5fceb-7e7e-5b20-93a6-2fc9680f8df6.html",
+      "webUrl": "https://omaha.com/news/science/article_2be5fceb-7e7e-5b20-93a6-2fc9680f8df6.html",
+      "originalUrl": "https://omaha.com/news/science/article_2be5fceb-7e7e-5b20-93a6-2fc9680f8df6.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/d/da/dda7c97f-af2f-5ee4-a06d-19e464a12917/6453895152383.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-04T05:03:00-07:00",
+      "publishedDateTime": "2023-05-04T04:22:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Omaha.com",
@@ -1391,6 +1356,49 @@
       "provider": {
         "name": "Zawya",
         "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-04-explained-what-is-the-eus-artificial-intelligence-act-and-how-does-it-plan-to-rein-in-tech-like-chatgpt.md",
+      "title": "Explained | What is the EU’s Artificial Intelligence Act and how does it plan to rein in tech like ChatGPT?",
+      "excerpt": "As artificial intelligence technologies become omnipresent and their algorithms more advanced—capable of performing a wide variety of tasks including voice assistance, recommending music, driving cars, detecting cancer, and even deciding whether you get shortlisted for a job— the risks and uncertainties associated with them have also ballooned.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindu.com/sci-tech/technology/explained-what-is-the-eus-artificial-intelligence-act-and-how-does-it-plan-to-rein-in-tech-like-chatgpt/article66794478.ece",
+      "originalUrl": "https://www.thehindu.com/sci-tech/technology/explained-what-is-the-eus-artificial-intelligence-act-and-how-does-it-plan-to-rein-in-tech-like-chatgpt/article66794478.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://th-i.thgim.com/public/incoming/n82nfe/article66809441.ece/alternates/FREE_1200/iStock-1474442258.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehindu.com/sci-tech/technology/explained-what-is-the-eus-artificial-intelligence-act-and-how-does-it-plan-to-rein-in-tech-like-chatgpt/article66794478.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/explained-what-is-the-eus-artificial-intelligence-act-and-how-does-it-plan-to-rein-in-tech-like-chatgpt/article66794478.ece/amp/",
+      "publishedDateTime": "2023-05-03T10:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hindu",
+        "domain": "thehindu.com",
         "images": null,
         "publishers": null,
         "authors": null

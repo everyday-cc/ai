@@ -9,8 +9,8 @@ ampWebUrl: "https://nbc-2.com/features/tech/2023/05/15/facial-recognition-techno
 cdnAmpWebUrl: "https://nbc--2-com.cdn.ampproject.org/c/s/nbc-2.com/features/tech/2023/05/15/facial-recognition-technology-raises-concerns-over-misidentification-implicit-bias/amp/"
 type: article
 quality: 68
-heat: 68
-published: false
+heat: 78
+published: true
 
 provider:
   name: NBC2
@@ -25,6 +25,22 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "Writing Faculty United Requests Recognition of Unionization in Petition to Administration"
+    excerpt: "The letter calls for improved job security, pay, and benefits, as well as transparency, recognition, and a voice in how writing instruction is conceived and executed. “When it comes to the aims of the union, I tend to think of it as having two key ..."
+    publishedDateTime: 2023-05-15T01:07:00Z
+    webUrl: "https://chicagomaroon.com/39180/news/writing-faculty-united-requests-recognition-of-unionization-in-petition-to-administration/"
+    type: article
+    provider:
+      name: The Chicago Maroon
+      domain: chicagomaroon.com
+    quality: 15
+    images:
+      - url: "https://chicagomaroon.com/wp-content/uploads/2021/12/Harper_Library_South_Stock-900x753.jpeg"
+        width: 900
+        height: 753
+        isCached: true
 
 secured: "fQo+qO43/rV/d1ivWMhsQ/C7UsqOWiCYH4GQy84/1GDdlOYzWK5Jyks2d+j8EHE8csIhnZ5umyoT1v/+dVvuALOLMfV3nkgLTUCe+/fKRZeMLJE3TpePkCyouNebA9XjlB0ryvk57v1p58C6734qs6lcja2ZSV4O1B2RYpHaGsTiwclqW01Cqve2r2+u8dJtSbLkm1S4UUZhQgCt4wjf8yKlZ9sX/VpjOCYdz8z19+6RAw6POGP9gWlLTmNMaiJSVGgG++Vl4ei8J6p6P7cDbLo3GmGoF1s2tp9M4GyAens+cZjG07zXufhDNJrOxcA2cTb+i/sa5wyvF4XkQ4jZ52RJ5IvbopyQtx+ECZdcub4x4ieUB2OorxtKVdjR5km8tm/dvAEKMAl0TCWVbMtF/1m1p4Sbvf5o1aAz6SYm/2r1llDDVAQQQ9pdKNxeSl3O48M4ibrNorghX4cKyAOwlARuRc4w11eZhbW4q3LHvXUtVxUOp7Sx3Krt0bk3oJLNT/LXPX7rIL7ijAyittXIDQ==;6P6l1fsIYfVU5BHkHodRCw=="
 ---

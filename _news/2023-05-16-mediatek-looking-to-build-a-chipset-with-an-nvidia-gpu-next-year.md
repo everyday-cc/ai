@@ -7,8 +7,8 @@ originalUrl: "https://www.gsmarena.com/report_claims_that_mediatek_will_build_a_
 webUrl: "https://www.gsmarena.com/report_claims_that_mediatek_will_build_a_chipset_with_an_nvidia_gpu_as_early_as_next_year-news-58575.php"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: GSM Arena
@@ -39,15 +39,6 @@ related:
         width: 336
         height: 224
         isCached: true
-  - title: "PC with Nvidia L4 GPU for industrial edge AI"
-    excerpt: "Advantech is aiming at industrial AI with a computer that combines a 12th Gen Intel Core (i9, i7, i5 or i3) CPU with Nvidia's L4 GPU. Two slim doors"
-    publishedDateTime: 2023-05-12T12:12:00Z
-    webUrl: "https://www.electronicsweekly.com/news/products/bus-systems-sbcs/pc-with-nvidia-l4-gpu-for-industrial-edge-ai-2023-05/"
-    type: article
-    provider:
-      name: Electronics Weekly
-      domain: electronicsweekly.com
-    quality: 34
 
 secured: "0Ci5FBoSeagDib5Xy+6BQM2pFBmDQfv+jQud7tCDZ9zbS1Qr3LkTwZ6zt5hotFyIa+qtYgSBh3ye1jYbTmQUALX0tOHAkSJad7N5mRNK9hAyFExnE5isBO0yLMBejApoLAV8TiybyGuV7wG+SetVC/PcXUsEN8K9dSA3N7Xx5GhA0mSYrtKN+qOSIN38J5ercJZSvUZuYVeAA8fBOzvD4zhdnmRL8kSYpFYIyckbAW0HkMa3SU9RWW95ar1P7NUr4Uaw9CDPHa1ASJXMz6qs9GMPag+m4iJ0S7pW49h6Ve+KJYqSwPCdkE36vFz0akvgsMxEow1ErjHYCTcCVjIBRZLYu64OKznEiwAip08+kwSKsePC/n4ZB3J4v0HEFr10jj53vBXHm+XJx39+sK96HcmdiXKU5sn7X+phiRMy8eTyPwKM8cIJuXKwe3kz9ljqBuWYzjnfdGa+3vsy4H3uaK9lZgorR/XgaAmSoCL351pqRNlVAkv9Z/yvSy+wLCorT3UY04WawDgJwGarFLoykA==;kOXNmDveF1F1ToOahai+6A=="
 ---

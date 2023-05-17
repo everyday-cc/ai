@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-05-03-google-is-testing-alternatives-to-third-party-cookies-heres-how-its-going.md",
+      "title": "Google is testing alternatives to third party cookies: Here’s how it’s going",
+      "excerpt": "As Google’s deadline for eliminating third party cookies in Chrome approaches, the company has been running experiments to determine how alternative, more privacy-friendly technologies can serve both its users and its advertisers. It first said it would ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.itbusiness.ca/news/google-is-testing-alternatives-to-third-party-cookies-heres-how-its-going/124920",
+      "originalUrl": "https://www.itbusiness.ca/news/google-is-testing-alternatives-to-third-party-cookies-heres-how-its-going/124920",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.itbusiness.ca/wp-content/uploads/2017/07/Digital-marketing-header.jpg",
+          "width": 620,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itbusiness.ca/news/google-is-testing-alternatives-to-third-party-cookies-heres-how-its-going/124920?amp=1",
+      "cdnAmpWebUrl": "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/google-is-testing-alternatives-to-third-party-cookies-heres-how-its-going/124920?amp=1",
+      "publishedDateTime": "2023-05-02T13:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Business",
+        "domain": "itbusiness.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-03-aws-deepracer-when-fun-meets-ml-autonomous-cars-and-upskilling.md",
       "title": "AWS DeepRacer: When fun meets ML, autonomous cars and upskilling",
       "excerpt": "The AWS DeepRacer event, hosted last Friday by simulation technology provider Computer Modeling Group (CMG) in Calgary, showed how access to the right resources, a good old showdown and attractive ...",
@@ -1305,49 +1348,6 @@
       "provider": {
         "name": "CBS News",
         "domain": "cbsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-21-amazon-announces-general-availability-of-codecatalyst-aws-developer-tools.md",
-      "title": "Amazon announces general availability of CodeCatalyst AWS developer tools",
-      "excerpt": "Invent 2022, where it was described by Amazon as a tool for professional developers to jumpstart applications on AWS using DevOps best practices. It gives them all the tools they need to provision cloud instances and infrastructure,",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2023/04/20/amazon-announces-general-availability-codecatalyst-aws-developer-tools/",
-      "originalUrl": "https://siliconangle.com/2023/04/20/amazon-announces-general-availability-codecatalyst-aws-developer-tools/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/08/keyboard-gafbae8400_1280.jpg",
-          "width": 1280,
-          "height": 721,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-20T10:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
         "images": null,
         "publishers": null,
         "authors": null

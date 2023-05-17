@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/stock-market/market-sectors/informa
 webUrl: "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/ai-in-finance/"
 type: article
 quality: 86
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "How AI Will Change the Workplace"
+    excerpt: "We asked some top thinkers from different fields to weigh in on what’s ahead, as the AI explosion compels businesses to rethink, well, almost everything."
+    publishedDateTime: 2023-05-14T14:00:00Z
+    webUrl: "https://www.wsj.com/articles/how-ai-change-workplace-af2162ee"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
+    images:
+      - url: "https://images.wsj.net/im-779753/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "How AI might let us finally talk to animals"
     excerpt: "AI could finally let humans talk to animals thanks to large language models that are now working to decode animal languages."
     publishedDateTime: 2023-05-15T00:18:00Z

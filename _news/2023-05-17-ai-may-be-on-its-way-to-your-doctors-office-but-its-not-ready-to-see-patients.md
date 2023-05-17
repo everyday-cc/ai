@@ -1,18 +1,20 @@
 ---
 category: news
-title: "AI may be on its way to your doctor's office, but it's not ready to see patients"
-excerpt: "What use could health care have for someone who makes things up, can't keep a secret, doesn't really know anything, and, when speaking, simply fills in the next word based on what's come before? Lots,"
-publishedDateTime: 2023-05-16T19:10:00Z
-originalUrl: "https://medicalxpress.com/news/2023-05-ai-doctor-office-ready-patients.html"
-webUrl: "https://medicalxpress.com/news/2023-05-ai-doctor-office-ready-patients.html"
+title: "AI may be on its way to your doctor’s office, but it’s not ready to see patients"
+excerpt: "Companies pushing the latest AI technology — known as “generative AI” — are piling on: Google and Microsoft want to bring types of so-called large language models to health care. Big firms that are familiar to folks in white coats — but maybe less so to your average Joe and Jane — are equally enthusiastic: Electronic medical records giants Epic and Oracle Cerner aren’t far behind."
+publishedDateTime: 2023-05-17T04:19:00Z
+originalUrl: "https://www.seattletimes.com/life/ai-may-be-on-its-way-to-your-doctors-office-but-its-not-ready-to-see-patients/"
+webUrl: "https://www.seattletimes.com/life/ai-may-be-on-its-way-to-your-doctors-office-but-its-not-ready-to-see-patients/"
+ampWebUrl: "https://www.seattletimes.com/life/ai-may-be-on-its-way-to-your-doctors-office-but-its-not-ready-to-see-patients/?amp=1"
+cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/life/ai-may-be-on-its-way-to-your-doctors-office-but-its-not-ready-to-see-patients/?amp=1"
 type: article
-quality: 12
+quality: 32
 heat: -1
 published: false
 
 provider:
-  name: Medical Xpress
-  domain: medicalxpress.com
+  name: Seattle Times
+  domain: seattletimes.com
 
 topics:
   - AI
@@ -47,6 +49,6 @@ related:
         height: 465
         isCached: true
 
-secured: "+Q5PHKgKHEdXgHeV8YEucnkPYGVLNZdaIAP5zKM58dYg0Xkk6MbXpUtZ7oVYh5dClNSZFIDA7WmLtnF1vNIDgoLp+VPcodZAzKWR3ibyW6mIdNeIc4WeP4p4g5kG+8b+PI74QGMWLK5tI4ngyXM6U4i4kPQtGB6X1w5eVojOiAWyd1WFxq4/ZitmWt9a19Oxjdvq6d4/Eha0cIh5S7k87kl8ImUT9tlItuRaMqc2VSAWU5FhNi3IazJShW/JG/IcYYF51p5tEdrgiSpwjKLRswCrcTfCUIEW7SzANtC1KBSP20cWaNcJ3RW4cU5BQNtaaukbGF2mLawdM0lhc4UeYSGqiicBFEUnjjXPMFIy4pkqxHI9+vbcxmGXFtrSNkt06GHfMKCa2IIRq6Hxd6u52xbtrLNvhUJ6sY1jN+MXWuTl4oIwFOHIW4txbBKHJcLe9C0TreydRTm9kAw8uXZV4elaQJU/sCzz7t98ktC4ysHT3x/dzrmvWlQrprCC3THPmburDj5El2YDMo5sIaihlw==;wW1v8KpqsenkwNvokVLU3A=="
+secured: "2IEYLg7Xbg2NrLgMTqag9drUsh7JGA3spCXbfVTSnNldo6xQVoHD4GFbFs7TxpQhjJbEvLUM81gcQhKZxE32kHbQDllIfaZQsu7cRIZrLZcvxF3SppI505P35xsshmb0A8Twqp+hxV4JEuZdxN7byTLTsGQ4UAAoGRzj2kdhwALD8R+YhBZsJL1PyLuKKa+31Np5z0lWWFzrNTWznHZ+w71khRs4vuPRC8NlVVtibaHO2IzE0EdcZa1yrEJBqugO3Qo9j87AjiLT556rTanOmr00Dgzpy/oXrC1iyL4anWxrYHfLW4fj3KryxnjB1WMawivz0zESOF8HdHcvTeyyqyMt8ioBM9bsd35Z/qipn1erNTZ0Ywon0Hrpq8Stl3brjZ9yaeQk/LqoBcCVyxqJHndSQi2WYn5T30kDmMYUEIxpX2cY5VVERUxVdBaius/qUVvruZ85L9yr8DARCJYYJgE7geKUak5T9iUqe3zRz2rkhX08Gu6xTG5Xb20hdDLGHTJiF6/sC6foQAizO+XO2g==;7jbH3QJV6P9pvgSTbg9Hkw=="
 ---
 

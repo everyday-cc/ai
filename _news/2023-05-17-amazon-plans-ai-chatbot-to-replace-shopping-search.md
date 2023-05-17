@@ -35,20 +35,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "You’re Probably Underestimating AI Chatbots"
-    excerpt: "Just as the first iPhone reviews mostly missed the device’s huge potential, it’s folly to draw conclusions from today’s unrefined technology."
-    publishedDateTime: 2023-05-12T13:01:00Z
-    webUrl: "https://www.wired.com/story/plaintext-youre-probably-underestimating-ai-chatbots/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 67
-    images:
-      - url: "https://media.wired.com/photos/645d37c10227ed23db8041a9/191:100/w_1280,c_limit/AI_biz_GettyImages-1372009287.jpg"
-        width: 1280
-        height: 670
-        isCached: true
   - title: "Amazon reportedly planning to bring artificial intelligence chatbot to its online storefront"
     excerpt: "Based on some current job listings, Amazon is now planning to bring the artificial intelligence chatbot ‘ChatGPT’ to its online store."
     publishedDateTime: 2023-05-16T00:51:00Z
@@ -102,15 +88,6 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 19
-  - title: "Google-backed AI startup's chatbot can read novels in seconds"
-    excerpt: "In an announcement about the increased capability of Claude, Anthropic claimed that they have raised the context window from 9K to 100K tokens, which corresponds to around 75,000 words. Tokens are the basic units of text or code that a large language model (LLM) AI uses to process and generate language."
-    publishedDateTime: 2023-05-12T13:03:00Z
-    webUrl: "https://www.gadgetsnow.com/tech-news/google-backed-ai-startups-chatbot-can-read-novels-in-seconds/articleshow/100189431.cms"
-    type: article
-    provider:
-      name: Gadgets Now
-      domain: gadgetsnow.com
-    quality: 17
   - title: "Zoom To Inject Anthropic’s AI Chatbot Into Video, Collaboration Products"
     excerpt: "Zoom integrates AI into video collaboration meeting and chat products with new Anthropic partnership after partnering with Microsoft-backed OpenAI."
     publishedDateTime: 2023-05-16T18:58:00Z
@@ -121,6 +98,6 @@ related:
       domain: crn.com
     quality: 16
 
-secured: "ofTKnU1/q5RxeLbL0qXQR1bMCbkTuXb60XkP3i3mBl7ZAjH65+dq7YzSf4kI9vsTZB+jhzfoj9YpRzodVge5ThInjQ13Z91Rf5ONWsKHciBeiseOic1gEaSPaJxSqgvjq470jzUECXIMo1bCWezptPPUgoIbeQkab+SrI1K03YmC6wgVGpffbjwPqkx5nr2MWWQAstsgGtVxAIN4cPJkv9MJT9p/nxsoimZIfjos5+7awmjkZgfS3nujtKAAnYpe4ChM5me4WC+p8pPS0C72xr1B5SWUhHQfqGDP+K0YXGkupwUvaeIQUUnia6cS+JjkeNFgfRZd4lNsn2/QMihBfbymVb2o6xsj1lcDYrTVXmc=;FVmkRcMBLPjqwWZM7DyLiA=="
+secured: "Qwz2/iBnWndKzVidJX4+qfY0vX4JdMijYAHXc1eEwK2zElc71SLbC6YhH83E7i2Xc59Uuue10dtX/MPqS7ATpy7vsxeDRJEnNUtg1hvqiqUAdDTPOfHGojBa12yicUctG0THn8H/FT7pYljzl0rG6kGBmIDlbDZucij0As6JK1eqCwfQUVITr08X5EldI2EyVCQE0fGW6UpMjQy4aPLoVgEJBIGebkQaPfueSFY8qX3QP3YY2qqCmOad7Qy4DfvExCyI/Yq6Q4k3wlrRP0PEwCMMs2PwlAJn1JWoKWU0AYa67rsyuLyXtoQ1TeYGv5XMYXIiyJ83rUdUc6tVYV3FJBLqPnPNJt66gJBe01M6JHMdvExE6zxP8qTctgOaOj+0/ZQ5bXZkw5Fi94o1Hs9PQwT8NRcvt+91esnzIfyUkN2jBrZd1ycxMytC549fFCt32Nh3flVyqfTWyqS7JQ7E3Q8cEG+/3KIjKTWTRICM4A7qe7pCDgUkJs/B0ZqutyXOfqIhjfSyQ2s95or6ExIKeQ==;Hi26prhhtuvJWdx+Du2jqg=="
 ---
 

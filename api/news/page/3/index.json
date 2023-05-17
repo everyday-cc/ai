@@ -2,6 +2,159 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-05-16-vintage-ai-predictions-show-our-hopes-and-fears-arent-neweven-if-the-tech-is.md",
+      "title": "Vintage AI Predictions Show Our Hopes and Fears Aren’t New—Even If the Tech Is",
+      "excerpt": "Men and women took a swan dive into neural nets and deep learning long before they had the computing power to make their imaginations a reality.",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/ai-chatbot-chatgpt-tech-1850433697",
+      "originalUrl": "https://gizmodo.com/ai-chatbot-chatgpt-tech-1850433697",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/092b049c74d002ff2c9f1fd67e1f7baf.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-15T13:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-16-cloudflare-unveils-cloudflare-one-for-ai-to-enable-safe-use-of-generative-ai-tools.md",
+      "title": "Cloudflare unveils Cloudflare One for AI to enable safe use of generative AI tools",
+      "excerpt": "Cloudflare One for AI will enable organizations to adopt the latest generative AI technologies without compromising performance or security.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/security/cloudflare-unveils-cloudflare-one-for-ai-to-enable-safe-use-of-generative-ai-tools/",
+      "originalUrl": "https://venturebeat.com/security/cloudflare-unveils-cloudflare-one-for-ai-to-enable-safe-use-of-generative-ai-tools/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/03/cloudflare-mobile.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/security/cloudflare-unveils-cloudflare-one-for-ai-to-enable-safe-use-of-generative-ai-tools/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/security/cloudflare-unveils-cloudflare-one-for-ai-to-enable-safe-use-of-generative-ai-tools/amp/",
+      "publishedDateTime": "2023-05-15T13:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-16-c3ai-stock-soars-as-company-expects-to-beat-revenue-target.md",
+      "title": "C3.ai stock soars as company expects to beat revenue target",
+      "excerpt": "Shares of C3.ai were surging in Monday afternoon trading after the software company said it expects that it exceeded its revenue target for last quarter.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/c3-ai-stock-rises-as-company-expects-to-beat-revenue-target-25cade37?mod=hp_minor_pos25",
+      "originalUrl": "https://www.marketwatch.com/story/c3-ai-stock-rises-as-company-expects-to-beat-revenue-target-25cade37?mod=hp_minor_pos25",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-735665/horizontal",
+          "width": 1320,
+          "height": 742,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/c3-ai-stock-rises-as-company-expects-to-beat-revenue-target-25cade37",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/c3-ai-stock-rises-as-company-expects-to-beat-revenue-target-25cade37",
+      "publishedDateTime": "2023-05-15T12:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-16-2023-artificial-intelligence-as-a-service-aiaas-market-regional-outlook-and-future-growth-scenario-till-2030.md",
       "title": "2023 Artificial Intelligence-as-a-Service (AIaaS) Market Regional Outlook and Future Growth Scenario till 2030",
       "excerpt": "Market 2023 research is a key process that helps businesses gather and analyze information about their target Artificial Intelligence-as-a-Service (AIaaS) market, customers, competitors, and industry trends.",
@@ -252,7 +405,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/top-apps-ai-releases-a-report-on-benefits-of-autonomous-artificial-intelligence-2023-05-15",
       "featuredContent": null,
       "highlight": null,
-      "heat": 80,
+      "heat": 90,
       "tags": null,
       "images": [
         {
@@ -355,7 +508,7 @@
       "originalUrl": "https://www.ibm.com/blog/unlock-productivity-with-advanced-generative-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 259,
+      "heat": 239,
       "tags": null,
       "images": [
         {
@@ -657,50 +810,6 @@
       ]
     },
     {
-      "path": "_news/2023-05-15-microsofts-in-house-ai-chip-could-hasten-product-rollout-cut-costs.md",
-      "title": "Microsoft’s in-house AI chip could ‘hasten’ product rollout, cut costs",
-      "excerpt": "Microsoft is reportedly working on its own chips for training AI models, which could help expand its cloud AI offerings and tighten competition with rivals AWS and Google Cloud. The move could allow Microsoft to further expand its generative AI products,",
-      "sourceUrl": null,
-      "webUrl": "https://www.techcentral.ie/microsofts-in-house-ai-chip-could-hasten-product-rollout-cut-costs/",
-      "originalUrl": "https://www.techcentral.ie/microsofts-in-house-ai-chip-could-hasten-product-rollout-cut-costs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techcentral.ie/wp-content/uploads/2023/05/Windows_2023.jpg",
-          "width": 620,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-15T07:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mozilla",
-        "domain": "techcentral.ie",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
       "path": "_news/2023-05-15-artificial-intelligence-market-2023-to-experience-significant-growth-by-2030.md",
       "title": "Artificial Intelligence Market 2023 to Experience Significant Growth by 2030",
       "excerpt": "Global “Artificial Intelligence Market” 2023 | New Report | New Technology Global Industry | (94 Pages Report) With",
@@ -942,6 +1051,58 @@
       ]
     },
     {
+      "path": "_news/2023-05-15-how-has-generative-ai-changed-the-business-landscape-for-young-entrepreneurs.md",
+      "title": "How Has Generative AI Changed The Business Landscape For Young Entrepreneurs?",
+      "excerpt": "The current hype and potential opportunities surrounding AI mean many entrepreneurs are eager to get involved.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/theyec/2023/05/15/how-has-generative-ai-changed-the-business-landscape-for-young-entrepreneurs/",
+      "originalUrl": "https://www.forbes.com/sites/theyec/2023/05/15/how-has-generative-ai-changed-the-business-landscape-for-young-entrepreneurs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/645e4bcb5ad71bb98fa69866/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/theyec/2023/05/15/how-has-generative-ai-changed-the-business-landscape-for-young-entrepreneurs/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2023/05/15/how-has-generative-ai-changed-the-business-landscape-for-young-entrepreneurs/amp/",
+      "publishedDateTime": "2023-05-15T04:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2023-05-15-goldman-sachs-is-a-surprising-new-entrant-in-the-ai-race-with-new-ai-social-media-platform.md",
       "title": "Goldman Sachs Is A Surprising New Entrant In The AI Race With New AI Social Media Platform",
       "excerpt": "The move isn’t completely out of nowhere, given Goldman Sachs recently released a report on the future of work alongside AI. The study predicted AI could increase the global GDP by $7 trillion and increase productivity by 1.5 percentage points in just ten years.",
@@ -1001,7 +1162,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2023/05/15/combining-generative-ai-chatgpt-into-handguns-triggers-fiery-response/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 421,
+      "heat": 441,
       "tags": null,
       "images": [
         {
@@ -1054,7 +1215,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/15/behemoths-of-the-retail-industry-are-redefining-customer-experience-with-computer-vision-and-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 122,
+      "heat": 132,
       "tags": null,
       "images": [
         {
@@ -1095,144 +1256,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-15-the-top-fintech-disruptions-shaping-the-future-of-finance.md",
-      "title": "The Top FinTech Disruptions: Shaping the Future of Finance",
-      "excerpt": "How Digital Payments, Peer-to-Peer Lending, Robo-Advisors, Blockchain, InsurTech, Open Banking, RegTech, and More Are Shaping the Future of Finance, and the Importance of Collaboration, Regulation, and Balancing Innovation with Consumer Protection for a Secure and Inclusive Financial Ecosystem.",
-      "sourceUrl": null,
-      "webUrl": "https://www.devdiscourse.com/article/technology/2452129-the-top-fintech-disruptions-shaping-the-future-of-finance",
-      "originalUrl": "https://www.devdiscourse.com/article/technology/2452129-the-top-fintech-disruptions-shaping-the-future-of-finance",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/15_05_2023_15_36_18_8718071.png?width=1280",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.devdiscourse.com/article/technology/2452129-the-top-fintech-disruptions-shaping-the-future-of-finance?amp",
-      "cdnAmpWebUrl": "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2452129-the-top-fintech-disruptions-shaping-the-future-of-finance?amp",
-      "publishedDateTime": "2023-05-15T03:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "devdiscourse",
-        "domain": "devdiscourse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-15-catching-bad-content-in-the-age-of-ai.md",
-      "title": "Catching bad content in the age of AI",
-      "excerpt": "Why haven’t tech companies improved at content moderation? This article is from The Technocrat, MIT Technology Review's weekly tech policy newsletter about power, politics, and Silicon Valley. To receive it in your inbox every Friday,",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2023/05/15/1073019/catching-bad-content-in-the-age-of-ai/",
-      "originalUrl": "https://www.technologyreview.com/2023/05/15/1073019/catching-bad-content-in-the-age-of-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2023/05/hi-wire-netA.jpeg?w=3000",
-          "width": 3000,
-          "height": 1688,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2023/05/15/1073019/catching-bad-content-in-the-age-of-ai/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/05/15/1073019/catching-bad-content-in-the-age-of-ai/amp/",
-      "publishedDateTime": "2023-05-15T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-15-the-fanfic-sex-trope-that-caught-a-plundering-ai-red-handed.md",
-      "title": "The Fanfic Sex Trope That Caught a Plundering AI Red-Handed",
-      "excerpt": "Sudowrite, a tool that uses OpenAI’s GPT-3, was found to have understood a sexual act known only to a specific online community of Omegaverse writers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/fanfiction-omegaverse-sex-trope-artificial-intelligence-knotting/",
-      "originalUrl": "https://www.wired.com/story/fanfiction-omegaverse-sex-trope-artificial-intelligence-knotting/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/645ecbe29e47b5e53e89cd43/master/pass/Omegaverse.jpg",
-          "width": 2500,
-          "height": 1350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/fanfiction-omegaverse-sex-trope-artificial-intelligence-knotting/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/fanfiction-omegaverse-sex-trope-artificial-intelligence-knotting/amp",
-      "publishedDateTime": "2023-05-15T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

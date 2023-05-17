@@ -2,6 +2,101 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-04-22-groundlight-raises-10m-for-natural-language-powered-computer-vision.md",
+      "title": "Groundlight raises $10M for natural language powered computer vision",
+      "excerpt": "Groundlight's $10 million funding round included participation from Madrone, Greycroft Partners and Founders Co-op.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/groundlight-raises-10m-for-natural-language-powered-computer-vision/",
+      "originalUrl": "https://www.therobotreport.com/groundlight-raises-10m-for-natural-language-powered-computer-vision/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2023/04/groundlight-featured.jpg",
+          "width": 770,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-22T06:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-22-smart-gun-operating-on-facial-recognition-goes-on-sale-in-us.md",
+      "title": "Smart gun operating on facial recognition goes on sale in US",
+      "excerpt": "BROOMFIELD, Colorado, April 21 (Reuters) - Colorado-based Biofire Tech is taking orders for a smart gun enabled by facial-recognition technology, the latest development in personalized weapons ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/smart-gun-operating-facial-recognition-goes-sale-us-2023-04-21/",
+      "originalUrl": "https://www.reuters.com/technology/smart-gun-operating-facial-recognition-goes-sale-us-2023-04-21/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/3QESb8uRDuLZlEpJhhYMYXjAAJQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/LSI4GLAGWROZ7A6B7VSEVRGZVA.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-21T14:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-21-businesses-turn-to-facial-recognition-technology-to-avert-shoplifting-and-robbery.md",
       "title": "Businesses turn to facial recognition technology to avert shoplifting and robbery",
       "excerpt": "Fox News’ Douglas Kennedy reports that shoplifting and robbery crimes are up 22% from last year, prompting business owners to use facial recognition technology to stop repeat offenders.",
@@ -1227,92 +1322,6 @@
         "name": "Hackaday",
         "domain": "hackaday.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-08-new-side-effect-of-covid-19-discovered-face-blindness.md",
-      "title": "New Side Effect of COVID-19 Discovered: “Face Blindness”",
-      "excerpt": "A Dartmouth College study discovered impairments in both face recognition and navigational abilities. A recent Dartmouth study published in the journal Cortex has revealed that COVID-19 can lead to difficulties in face recognition and navigation.",
-      "sourceUrl": null,
-      "webUrl": "https://scitechdaily.com/new-side-effect-of-covid-19-discovered-face-blindness/",
-      "originalUrl": "https://scitechdaily.com/new-side-effect-of-covid-19-discovered-face-blindness/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-08T00:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SciTech Daily",
-        "domain": "scitechdaily.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-08-how-to-unlock-your-phone-with-facial-recognition-even-when-you-have-your-glasses-on.md",
-      "title": "How to unlock your phone with facial recognition even when you have your glasses on",
-      "excerpt": "Face ID utilizes facial recognition technology to scan your face and verify your identity. When activated, the feature uses the front-facing camera, or selfie cam, to securely authenticate you are ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/tech/how-unlock-your-phone-facial-recognition-you-have-your-glasses-on",
-      "originalUrl": "https://www.foxnews.com/tech/how-unlock-your-phone-facial-recognition-you-have-your-glasses-on",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3e1606f4-9dc7-4a77-a1f7-d0820d9415aa/bed61823-673c-4543-b5d7-0629195fdbbe/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/tech/how-unlock-your-phone-facial-recognition-you-have-your-glasses-on.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/how-unlock-your-phone-facial-recognition-you-have-your-glasses-on.amp",
-      "publishedDateTime": "2023-04-07T15:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

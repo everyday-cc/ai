@@ -25,56 +25,28 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft's Azure OpenAI can collect, analyze healthcare data"
-    excerpt: "Microsoft's Azure OpenAI platform is being used to collect and analyze healthcare data. For instance, Opus 5K, a health IT software company based in Australia, deployed the technology for its MARS (Measurement, Analysis and Reporting System) platform."
-    publishedDateTime: 2023-05-16T14:59:00Z
-    webUrl: "https://www.beckershospitalreview.com/disruptors/microsofts-azure-openai-can-collect-analyze-healthcare-data.html"
+  - title: "dataPARC Introduces AWS and Azure-Compatible Data Historian Platform for Advanced Industrial Applications and Cloud AI/ML Integration"
+    excerpt: "PRNewswire/ -- dataPARC, innovators in industrial analytics and manufacturing decision support, today announced the release of its next-generation data historian platform, aimed at delivering federated plant operations data to engineering,"
+    publishedDateTime: 2023-05-16T14:16:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/05/16/9815052.htm"
     type: article
     provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 86
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 37
+  - title: "Saifr introduces risk interpretation and suggested language AI models for compliant content creation"
+    excerpt: "Saifr, an AI-focused regulatory technology (RegTech) provider that assists financial institutions with the creation, review, and approval of communications to help mitigate brand, regulatory, and reputational risk,"
+    publishedDateTime: 2023-05-16T14:53:00Z
+    webUrl: "https://www.finextra.com/pressarticle/96868/saifr-introduces-risk-interpretation-and-suggested-language-ai-models-for-compliant-content-creation"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 24
     images:
-      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "AI Recognition Market SWOT Analysis by Leading Key Players Microsoft Azure, Google, Tencent, Alibaba"
-    excerpt: "Click Here to Get Free Sample PDF Copy of Latest Research on AI Recognition Market 2023 before Purchase:  The report will also include information on the top companies in the AI Recognition market shares,"
-    publishedDateTime: 2023-05-15T09:14:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-recognition-market-swot-analysis-by-leading-key-players-microsoft-azure-google-tencent-alibaba-2023-05-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 84
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "SAP taps Microsoft AI Copilot to streamline hiring and upskilling for enterprises"
-    excerpt: "SAP today announced a plan to integrate Microsoft AI Copilot and Azure OpenAI service with its SuccessFactors suite of solutions."
-    publishedDateTime: 2023-05-15T17:57:00Z
-    webUrl: "https://venturebeat.com/ai/sap-taps-microsoft-ai-copilot-to-streamline-hiring-and-upskilling/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 59
-  - title: "Microsoft Security highlights from RSA Conference 2023"
-    excerpt: "Read a recap of memorable moments from Microsoft Security's participation in RSAC 2023 and watch Vasu Jakkal's keynote address on-demand."
-    publishedDateTime: 2023-05-15T16:00:00Z
-    webUrl: "https://www.microsoft.com/en-us/security/blog/2023/05/15/microsoft-security-highlights-from-rsa-conference-2023/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 56
-    images:
-      - url: "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2023/05/Vasu-1_900_2_cropped.jpg"
-        width: 900
-        height: 394
+      - url: "https://www.finextra.com/about/finextra-logo.png"
+        width: 512
+        height: 512
         isCached: true
 
 secured: "3MRAkmvx5jh3Fcqmw9Z4Gazj852ixgxkxKcP9BQgXsJdUm9rYmnLFptU6z8LB4ApotfYZ3DXZGE0geZ6zTCJdE6Qhtq+oN5ZyAiHkcSYCX9v3BQVghPmo0wjb2Kl6ctHo59ZEp83Xm2y4YLgaOYwMTjq7bsZ4KLyH1YDr1wglR/C60GadAhWzZlPaNRlyown4feb111DlEUQFwbFnel9ES59HU8KScT8nPsz8Skr3fcxTkciYOsPFoQzsbIAL8QvJqbvmvU2eZYR+Yc2DS8LsZ+TLuhqkrnGjzrC2LwtIiv1NRgRN7BE/SsBRJ0ejFwd648WwTfKhllKBMSDEpP1dx3fXKTbcAZzEctWgwAPhNBbPnJFubfDtFYyDyOrUrbgU1QRwZgHdbKs/HR/waeVd4uCn+Fw1MR8glnVYIvOVflElw0g4q9Nl09uifWSY68tcrzDkj+tmztkSpdr/3dCwcyfiaAtmjwdeLzcgFPGbOce+VZrPocy7fq1kmnDt9CH+YAP2UoAZwwAHy18x/A1jA==;4GtXTKmGb5gz8HMe+srVQw=="

@@ -39,15 +39,6 @@ related:
         width: 952
         height: 498
         isCached: true
-  - title: "PC with Nvidia L4 GPU for industrial edge AI"
-    excerpt: "Advantech is aiming at industrial AI with a computer that combines a 12th Gen Intel Core (i9, i7, i5 or i3) CPU with Nvidia's L4 GPU. Two slim doors"
-    publishedDateTime: 2023-05-12T12:12:00Z
-    webUrl: "https://www.electronicsweekly.com/news/products/bus-systems-sbcs/pc-with-nvidia-l4-gpu-for-industrial-edge-ai-2023-05/"
-    type: article
-    provider:
-      name: Electronics Weekly
-      domain: electronicsweekly.com
-    quality: 34
 
 secured: "UvZXQABV1C2JiZRNLriqNFIaSinVPdVr50Vm2Tb37bFmQVgECCKTNAijIROt7zuXRSLXQh3MBrMct1bwoRls9SrUy64kjihFm7VN3ClJ0V3WJwBM6kK3GSW8q+PgAXXwMqrL0AkSUXfge6g18Snp6INcXPkKzubH5V4UlpW/1+6qQ53d6ndvyPookXGqIf4nvflMEW6DiuntTxAhaUyRI8YaoDXDpAeEXbsJsX5QiJ1vrHqk9TZMGZq4Ucouk6x7TwLQEzfcO63ZPnzLABf/NwMRUkNd6aIcf0R4TqWNWGT0XrnA1g575AdFjMAyyqzTmYUlcxbNoZBeTGQ+eqOfOsUsplvLQuSO9hghOXzEe49uxTQ3vWwNQ2FK/j5rt1DN0KrXYrWV0K+H8f8Yq2JuKceaxzPANWsmrR/WGkfqPll+9h+QssSOB+sJZhytSbhDDOajrNMBLp6r6abU+/nHmNp/4SEA6IfjlATuarn+oZp2Ixvg5ZvIY/b375ZGQcfFQmQfGAWcvP9TYqBwFdjYmA==;ENPuN+xzL9T7aDGRvdAivw=="
 ---

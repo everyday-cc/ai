@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Ex-Apple Employee Stole Self-Driving Car Tech For Chinese Competitor, DOJ Alleges"
+    excerpt: "The former Apple engineer, 35-year-old Weibao Wang, allegedly overlapped his time at Apple with a stint working a U.S. based job with a Chinese company, and after his last day with Apple, the company discovered he had accessed large amounts of “sensitive proprietary and confidential information,” the Justice Department said."
+    publishedDateTime: 2023-05-16T20:38:00Z
+    webUrl: "https://www.forbes.com/sites/anafaguy/2023/05/16/ex-apple-employee-stole-self-driving-car-tech-for-chinese-competitor-doj-alleges/"
+    ampWebUrl: "https://www.forbes.com/sites/anafaguy/2023/05/16/ex-apple-employee-stole-self-driving-car-tech-for-chinese-competitor-doj-alleges/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anafaguy/2023/05/16/ex-apple-employee-stole-self-driving-car-tech-for-chinese-competitor-doj-alleges/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 69
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6463c7e6c7a4deb718c2ff1a/0x0.jpg?format=jpg&crop=2149,1618,x278,y0,safe&width=1200"
+        width: 1200
+        height: 903
+        isCached: true
   - title: "Ex-Apple employee charged with stealing car tech for China; is now exec at Baidu’s self-driving car JV"
     excerpt: "Apple has been rumoured to be working on a self-driving car for years. It is said to be one of the biggest projects that the iPhone maker is working o"
     publishedDateTime: 2023-05-17T03:06:00Z

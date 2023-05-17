@@ -2,49 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2023-05-04-explained-what-is-the-eus-artificial-intelligence-act-and-how-does-it-plan-to-rein-in-tech-like-chatgpt.md",
-      "title": "Explained | What is the EU’s Artificial Intelligence Act and how does it plan to rein in tech like ChatGPT?",
-      "excerpt": "As artificial intelligence technologies become omnipresent and their algorithms more advanced—capable of performing a wide variety of tasks including voice assistance, recommending music, driving cars, detecting cancer, and even deciding whether you get shortlisted for a job— the risks and uncertainties associated with them have also ballooned.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindu.com/sci-tech/technology/explained-what-is-the-eus-artificial-intelligence-act-and-how-does-it-plan-to-rein-in-tech-like-chatgpt/article66794478.ece",
-      "originalUrl": "https://www.thehindu.com/sci-tech/technology/explained-what-is-the-eus-artificial-intelligence-act-and-how-does-it-plan-to-rein-in-tech-like-chatgpt/article66794478.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://th-i.thgim.com/public/incoming/n82nfe/article66809441.ece/alternates/FREE_1200/iStock-1474442258.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehindu.com/sci-tech/technology/explained-what-is-the-eus-artificial-intelligence-act-and-how-does-it-plan-to-rein-in-tech-like-chatgpt/article66794478.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/explained-what-is-the-eus-artificial-intelligence-act-and-how-does-it-plan-to-rein-in-tech-like-chatgpt/article66794478.ece/amp/",
-      "publishedDateTime": "2023-05-03T10:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hindu",
-        "domain": "thehindu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-05-03-new-artificial-intelligence-tool-can-diagnose-colon-cancer.md",
       "title": "New Artificial Intelligence Tool Can Diagnose Colon Cancer",
       "excerpt": "A new artificial intelligence (AI) model developed by Harvard Medical School and Taiwan’s National Cheng Kung University could provide much-needed clarity to clinicians presenting prognoses and deciding on therapies for patients with colon cancer.",
@@ -865,6 +822,59 @@
         "AI in Healthcare",
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-04-27-artificial-intelligence-frequently-asked-questions-about-ai.md",
+      "title": "Artificial intelligence: Frequently asked questions about AI",
+      "excerpt": "The advancement of artificial intelligence is progressing at a breakneck pace. While the technology is changing rapidly, the basic principles behind AI aren't new. Artificial intelligence has been ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/tech/frequently-asked-artificial-intelligence-questions-answered",
+      "originalUrl": "https://www.foxnews.com/tech/frequently-asked-artificial-intelligence-questions-answered",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/99c2d3f0-ca52-4098-9181-5c055a78fc88/280113b3-7fc9-4279-a467-a3ad7e69045b/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/tech/frequently-asked-artificial-intelligence-questions-answered.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/frequently-asked-artificial-intelligence-questions-answered.amp",
+      "publishedDateTime": "2023-04-27T06:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Healthcare"
       ]
     },
     {

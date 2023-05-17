@@ -143,9 +143,9 @@ related:
   - title: "TSA is testing facial recognition at more airports, raising privacy concerns"
     excerpt: "The agency tasked with securing America's airports is testing the use of facial recognition technology at a number of airports across the country"
     publishedDateTime: 2023-05-15T20:16:00Z
-    webUrl: "https://abcnews.go.com/US/wireStory/tsa-tests-facial-recognition-technology-boost-airport-security-99322460"
-    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/tsa-tests-facial-recognition-technology-boost-airport-security-99322460"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/tsa-tests-facial-recognition-technology-boost-airport-security-99322460"
+    webUrl: "https://abcnews.go.com/Technology/wireStory/tsa-tests-facial-recognition-technology-boost-airport-security-99322644"
+    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/tsa-tests-facial-recognition-technology-boost-airport-security-99322644"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/tsa-tests-facial-recognition-technology-boost-airport-security-99322644"
     type: article
     provider:
       name: ABC
@@ -389,6 +389,6 @@ related:
       domain: thedailyrecord.com
     quality: 28
 
-secured: "SUM3AC+hObAWJ5pnsRaT5mpnSDr1+Ath7ZIQ53fJMTkbXN6MhVqMeatrfmiZOFiTLuD+M/QxxxB8xJCkQwj7e4w5zB3hzl//B4WMRPuQhzf43Yuu42DajdKyR4kzIWNfPYDtXZnTecrgPa1l5xU7GjMO4W/e0E/TK03K+KBNU5xlYtA/2j0cW3M13xrHeUMYCamSKdtS6UUqMH/71wW5nMqpqJi+qr/iWKp+zFaPhZZ3NkghApBmDDYRwYZ1FYAgnEtF3w8smtd9SD5bjTxN5cUwuhl+XRrQdnkVvZW1cOatUzNvcR3dlRjLv7WHSbDWR6n2GQKSyDfsxreJgIxDWkFyeHRWSGIThdoJdPtqSR4=;h2AYHhVNu1EwaGuDHW6rDA=="
+secured: "T5Y5fl5SroTMpj/eSYtGDti0ULuyE5b0a6LzHPdwewUFdVlN0Ar/xadLofqr3mLbzpqa3ggcCkKvmAeehNccvfBeQ+g2hZUBHsD44xjrD6Tq1fMy/A1vOZVVRQISpA7FdnV5fHgGEs5PfsITS2DTQ87GpzJwDLeqL0SBKhpp3pq74zR5WMNTmf3xmdKHnZpYUzNglLBmCWUGVSQR0+kJtIHEQciubapwVJoZqBdYyXF3ynKFu/P9ZoMSMV0S3FcEDAx1lY8SRMZ5RNE2dCRdNmKaU7L1QVBFB7oqbqV4PgeKXVOf+Nkm5ljrEGhoE3Le8VrcSNxLTmTNaXEfKoLWpvSTST2J66MUoBP+tv3jpyJT4NdD1C6rxlLSq/t8wp9HUUCJ5LllSFmWgscZpH6OULm6OfKdDyh76zxUK7X976PERHgKvNPomnK3XqWSlHaU4JMEtaf9o7eVFUu4RPUJwEvrH7opYF+b7+updQKYUgiGLrb5ir/VuT3vTOvNVRh53kSMRYyDsB1amL78MWtXKQ==;0wynsHSgzR5fLajU5FhHrg=="
 ---
 

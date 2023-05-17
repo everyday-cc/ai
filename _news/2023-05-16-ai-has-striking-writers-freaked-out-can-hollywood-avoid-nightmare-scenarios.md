@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI is coming for Hollywood scriptwriters – this is how they are going to do it"
-    excerpt: "Artificial intelligence mashups of Lord of the Rings, Pixar and Wes Anderson are amusing novelties, but how long before the robots are generating whole screenplays – and can we be sure they’re not already?"
-    publishedDateTime: 2023-05-12T14:46:00Z
-    webUrl: "https://www.theguardian.com/film/2023/may/12/ai-artificial-intelligence-generating-screenplays"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 33
-    images:
-      - url: "https://i.guim.co.uk/img/media/5faeb2d2a06b9896f4b6067b8a33d2ba0853b144/0_188_5007_3005/master/5007.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fe2384fb22b167c863cc1e049ef71ecf"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "AI and Hollywood: Why the WGA wants to keep robots out of the writers room"
     excerpt: "AI can't write a quality screenplay today. But as the technology improves, Hollywood writers want to make sure AI isn't used as source material in the future."
     publishedDateTime: 2023-05-15T13:45:00Z

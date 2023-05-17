@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2023-05-17-when-artificial-intelligence-can-understand-and-translate-almost-any-language.md",
-      "title": "When artificial intelligence can understand and translate (almost) any language",
-      "excerpt": "Finally, during the Google I/O conference, the demonstration of a new, still experimental, technology called \"Universal Translator ... to integrate AI into its search engine, Gmail, Photos and Maps to help make them even better in any language.",
+      "path": "_news/2023-05-17-calling-all-generative-ai-disruptors-of-the-enterprise-apply-now-to-present-at-vb-transform-2023.md",
+      "title": "Calling all Generative AI disruptors of the enterprise! Apply now to present at VB Transform 2023",
+      "excerpt": "We’re on the hunt for the 10 generative AI products most likely to disrupt the enterprise right now, and if you have such a product we’d like to invite you to present the impact of this technology on the main stage.",
       "sourceUrl": null,
-      "webUrl": "https://www.thestar.com.my/tech/tech-news/2023/05/17/when-artificial-intelligence-can-understand-and-translate-almost-any-language",
-      "originalUrl": "https://www.thestar.com.my/tech/tech-news/2023/05/17/when-artificial-intelligence-can-understand-and-translate-almost-any-language",
+      "webUrl": "https://venturebeat.com/ai/calling-all-generative-ai-disruptors-of-the-enterprise-apply-now-to-present-at-transform-2023/",
+      "originalUrl": "https://venturebeat.com/ai/calling-all-generative-ai-disruptors-of-the-enterprise-apply-now-to-present-at-transform-2023/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 70,
+      "heat": 94,
       "tags": null,
       "images": [
         {
-          "url": "https://apicms.thestar.com.my/uploads/images/2023/05/16/2075773.jpg",
-          "width": 1240,
-          "height": 697,
+          "url": "https://venturebeat.com/wp-content/uploads/2023/05/2VB_9896.jpg?fit=800%2C533&strip=all",
+          "width": 800,
+          "height": 533,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,13 +24,64 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-16T19:05:00-07:00",
+      "ampWebUrl": "https://venturebeat.com/ai/calling-all-generative-ai-disruptors-of-the-enterprise-apply-now-to-present-at-transform-2023/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/calling-all-generative-ai-disruptors-of-the-enterprise-apply-now-to-present-at-transform-2023/amp/",
+      "publishedDateTime": "2023-05-16T19:56:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Star",
-        "domain": "thestar.com.my",
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-17-special-edition-with-andrew-ross-sorkin-ai-and-microsoft-ceo-satya-nadella.md",
+      "title": "Special Edition with Andrew Ross Sorkin: AI and Microsoft CEO Satya Nadella",
+      "excerpt": "Artificial Intelligence is a profound new technology that will have implications – good and bad – on all our lives. In this latest episode of “Special Edition,” host Andrew Ross Sorkin sits down with Microsoft CEO Satya Nadella.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/now/video/special-edition-with-andrew-ross-sorkin-ai-and-microsoft-ceo-satya-nadella-174543941895",
+      "originalUrl": "https://www.nbcnews.com/now/video/special-edition-with-andrew-ross-sorkin-ai-and-microsoft-ceo-satya-nadella-174543941895",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_05/101422_NBC_NEWS_NOW_GFX_SORKIN_FS_copy_3-esrvh7.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo174543941895",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo174543941895",
+      "publishedDateTime": "2023-05-16T18:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -40,8 +91,8 @@
         "news"
       ],
       "topics": [
-        "Natural Language Processing",
-        "AI"
+        "AI",
+        "Microsoft AI"
       ]
     },
     {
@@ -148,21 +199,21 @@
       ]
     },
     {
-      "path": "_news/2023-05-17-microsoft-ceo-speaks-on-the-future-of-artificial-intelligence.md",
-      "title": "Microsoft CEO speaks on the future of artificial intelligence",
-      "excerpt": "The CEO of OpenAI, the company responsible for ChatGPT, called on Congress today to regulate artificial intelligence. CNBC’s Andrew Ross Sorkin sat down with Microsoft’s CEO Satya Nadella to talk about both the concerns and benefits after his company invested billions in OpenAI.",
+      "path": "_news/2023-05-17-personal-crm-app-clay-adds-an-ai-helper-to-help-you-navigate-your-relationships.md",
+      "title": "Personal CRM app Clay adds an AI helper to help you navigate your relationships",
+      "excerpt": "The app is popular among many industries, ranging from MBA students to those who have expansive networks, like VCs.",
       "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/nightly-news/video/microsoft-ceo-speaks-on-the-future-of-artificial-intelligence-174560325527",
-      "originalUrl": "https://www.nbcnews.com/nightly-news/video/microsoft-ceo-speaks-on-the-future-of-artificial-intelligence-174560325527",
+      "webUrl": "https://techcrunch.com/2023/05/16/personal-crm-app-clay-introduces-an-ai-helper-to-help-you-navigate-your-relationships/",
+      "originalUrl": "https://techcrunch.com/2023/05/16/personal-crm-app-clay-introduces-an-ai-helper-to-help-you-navigate-your-relationships/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 154,
+      "heat": 100,
       "tags": null,
       "images": [
         {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_05/1684278439038_nn_aso_hill_hearings_satya_nadella_exclusive_230516_1920x1080-e9hhf5.jpg",
-          "width": 1920,
-          "height": 1080,
+          "url": "https://techcrunch.com/wp-content/uploads/2021/08/clay_header.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -170,14 +221,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo174560325527",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo174560325527",
-      "publishedDateTime": "2023-05-16T16:08:00-07:00",
+      "ampWebUrl": "https://techcrunch.com/2023/05/16/personal-crm-app-clay-introduces-an-ai-helper-to-help-you-navigate-your-relationships/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/16/personal-crm-app-clay-introduces-an-ai-helper-to-help-you-navigate-your-relationships/amp/",
+      "publishedDateTime": "2023-05-16T16:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -187,7 +247,7 @@
       ],
       "topics": [
         "AI",
-        "Microsoft AI"
+        "AI in Sales"
       ]
     },
     {
@@ -317,6 +377,58 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-17-ex-apple-employee-stole-self-driving-car-tech-for-chinese-competitor-doj-alleges.md",
+      "title": "Ex-Apple Employee Stole Self-Driving Car Tech For Chinese Competitor, DOJ Alleges",
+      "excerpt": "The former Apple engineer, 35-year-old Weibao Wang, allegedly overlapped his time at Apple with a stint working a U.S. based job with a Chinese company, and after his last day with Apple, the company discovered he had accessed large amounts of “sensitive proprietary and confidential information,” the Justice Department said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/anafaguy/2023/05/16/ex-apple-employee-stole-self-driving-car-tech-for-chinese-competitor-doj-alleges/",
+      "originalUrl": "https://www.forbes.com/sites/anafaguy/2023/05/16/ex-apple-employee-stole-self-driving-car-tech-for-chinese-competitor-doj-alleges/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6463c7e6c7a4deb718c2ff1a/0x0.jpg?format=jpg&crop=2149,1618,x278,y0,safe&width=1200",
+          "width": 1200,
+          "height": 903,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/anafaguy/2023/05/16/ex-apple-employee-stole-self-driving-car-tech-for-chinese-competitor-doj-alleges/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anafaguy/2023/05/16/ex-apple-employee-stole-self-driving-car-tech-for-chinese-competitor-doj-alleges/amp/",
+      "publishedDateTime": "2023-05-16T13:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -569,49 +681,6 @@
       ]
     },
     {
-      "path": "_news/2023-05-16-mediatek-looking-to-build-a-chipset-with-an-nvidia-gpu-next-year.md",
-      "title": "MediaTek looking to build a chipset with an Nvidia GPU next year",
-      "excerpt": "This chip will target Windows on ARM laptops, according to insiders. Besides graphics, Nvidia tech will also bring AI acceleration.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gsmarena.com/report_claims_that_mediatek_will_build_a_chipset_with_an_nvidia_gpu_as_early_as_next_year-news-58575.php",
-      "originalUrl": "https://www.gsmarena.com/report_claims_that_mediatek_will_build_a_chipset_with_an_nvidia_gpu_as_early_as_next_year-news-58575.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://fdn.gsmarena.com/imgroot/news/23/05/mediatek-nvidia-chipset/-952x498w6/gsmarena_000.jpg",
-          "width": 952,
-          "height": 498,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-16T09:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GSM Arena",
-        "domain": "gsmarena.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-05-16-gpt-neoxt-chat-base-20b-foundation-model-for-chatbot-applications-is-now-available-on-amazon-sagemaker.md",
       "title": "GPT-NeoXT-Chat-Base-20B foundation model for chatbot applications is now available on Amazon SageMaker",
       "excerpt": "Today we are excited to announce that Together Computer’s GPT-NeoXT-Chat-Base-20B language foundation model is available for customers using Amazon SageMaker JumpStart. GPT-NeoXT-Chat-Base-20B is an open-source model to build conversational bots. You can easily try out this model and use it with JumpStart.",
@@ -854,21 +923,21 @@
       ]
     },
     {
-      "path": "_news/2023-05-16-microsofts-azure-openai-can-collect-analyze-healthcare-data.md",
-      "title": "Microsoft's Azure OpenAI can collect, analyze healthcare data",
-      "excerpt": "Microsoft's Azure OpenAI platform is being used to collect and analyze healthcare data. For instance, Opus 5K, a health IT software company based in Australia, deployed the technology for its MARS (Measurement, Analysis and Reporting System) platform.",
+      "path": "_news/2023-05-16-these-4-popular-microsoft-apps-are-getting-a-big-ai-boost.md",
+      "title": "These 4 popular Microsoft apps are getting a big AI boost",
+      "excerpt": "Swiftkey, Microsoft's virtual keyboard app that allows you to access Bing Chat across different apps, is getting a monumental boost.",
       "sourceUrl": null,
-      "webUrl": "https://www.beckershospitalreview.com/disruptors/microsofts-azure-openai-can-collect-analyze-healthcare-data.html",
-      "originalUrl": "https://www.beckershospitalreview.com/disruptors/microsofts-azure-openai-can-collect-analyze-healthcare-data.html",
+      "webUrl": "https://www.zdnet.com/article/these-4-popular-microsoft-apps-are-getting-a-big-ai-boost/",
+      "originalUrl": "https://www.zdnet.com/article/these-4-popular-microsoft-apps-are-getting-a-big-ai-boost/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 126,
+      "heat": 256,
       "tags": null,
       "images": [
         {
-          "url": "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png",
-          "width": 800,
-          "height": 600,
+          "url": "https://www.zdnet.com/a/img/resize/b2cb30563f660d5191369ced51bf355a07f5bcaf/2023/05/16/f302e472-37a2-411d-8228-8b582e4c1d81/image-11.png?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -876,13 +945,66 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-16T07:59:00-07:00",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/these-4-popular-microsoft-apps-are-getting-a-big-ai-boost/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/these-4-popular-microsoft-apps-are-getting-a-big-ai-boost/",
+      "publishedDateTime": "2023-05-16T08:17:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Becker's Hospital Review",
-        "domain": "beckershospitalreview.com",
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-16-facial-recognition-replaces-boarding-pass-at-berlin-airport.md",
+      "title": "Facial Recognition Replaces Boarding Pass at Berlin Airport",
+      "excerpt": "TurboNews: New biometric service for Lufthansa Group HON Circle Members and Senators at Berlin airport with “BER Traveller” Read more: Facial Recognition Replaces Boarding Pass at Berlin Airport Copyr",
+      "sourceUrl": null,
+      "webUrl": "https://www.traveldailymedia.com/facial-recognition-replaces-boarding-pass-at-berlin-airport/",
+      "originalUrl": "https://www.traveldailymedia.com/facial-recognition-replaces-boarding-pass-at-berlin-airport/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://eturbonews.com/wp-content/uploads/2023/05/0-47-e1684247900334-300x214.jpg",
+          "width": 300,
+          "height": 214,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.traveldailymedia.com/facial-recognition-replaces-boarding-pass-at-berlin-airport/amp/",
+      "cdnAmpWebUrl": "https://www-traveldailymedia-com.cdn.ampproject.org/c/s/www.traveldailymedia.com/facial-recognition-replaces-boarding-pass-at-berlin-airport/amp/",
+      "publishedDateTime": "2023-05-16T07:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Travel Daily Media",
+        "domain": "traveldailymedia.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -892,9 +1014,8 @@
         "news"
       ],
       "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Healthcare"
+        "Computer Vision",
+        "AI"
       ]
     },
     {
@@ -1009,7 +1130,7 @@
       "originalUrl": "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/ai-in-finance/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": 106,
       "tags": null,
       "images": [
         {
@@ -1094,101 +1215,6 @@
       "topics": [
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-05-16-hpe-ezmeral-software-streamlines-data-analytics-and-aiml-initiatives.md",
-      "title": "HPE Ezmeral Software streamlines data, analytics and AI/ML initiatives",
-      "excerpt": "Hewlett Packard Enterprise is overhauling its Ezmeral software portfolio and simplifying data organization, management and analytics for organizations advancing their artificial intelligence (AI) and machine learning (ML) workflows.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/hpe-ezmeral-software-streamlines-data-analytics-and-ai-ml-initiatives/",
-      "originalUrl": "https://venturebeat.com/ai/hpe-ezmeral-software-streamlines-data-analytics-and-ai-ml-initiatives/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-16T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-05-16-hippocratic-ai-raises-50-mln-seed-funding-to-build-models-for-healthcare.md",
-      "title": "Hippocratic AI raises $50 mln seed funding to build models for healthcare",
-      "excerpt": "Hippocratic AI, a startup building artificial intelligence models for the healthcare industry, has raised $50 million in a larger-than-usual seed funding round, signaling strong investor interest in betting on AI models for specific industries.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/business/healthcare-pharmaceuticals/hippocratic-health-raises-50-mln-seed-funding-build-ai-model-2023-05-16/?taid=646381de5571eb000186b80a",
-      "originalUrl": "https://www.reuters.com/business/healthcare-pharmaceuticals/hippocratic-health-raises-50-mln-seed-funding-build-ai-model-2023-05-16/?taid=646381de5571eb000186b80a",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 143,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/9Ff0pYw8o_htWZ9gDHe_OETrgDY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WU6RQETI5NJZJAZFZU4DLOQALE.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-16T05:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

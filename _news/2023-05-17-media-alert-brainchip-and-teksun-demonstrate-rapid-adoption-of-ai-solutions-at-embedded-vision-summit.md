@@ -1,34 +1,29 @@
 ---
 category: news
 title: "Media Alert: BrainChip and Teksun Demonstrate Rapid Adoption of AI Solutions at Embedded Vision Summit"
-excerpt: "Teksun Inc focuses on end-to-end IoT, AI/ML product design and development, enabling differentiated intelligent solutions like driver monitoring applications, object detection with occupancy detection and gesture gamification,"
-publishedDateTime: 2023-05-16T23:05:00Z
-originalUrl: "https://it.tmcnet.com/news/2023/05/16/9815691.htm"
-webUrl: "https://it.tmcnet.com/news/2023/05/16/9815691.htm"
+excerpt: "BrainChip Holdings Ltd ((ASX: BRN, OTCQX:BRCHF, OTC:BCHPY), the world's first commercial producer of ultra-low power, fully digital, event-based, neuromorphic AI IP, will demonstrate an accelerated pr"
+publishedDateTime: 2023-05-16T21:30:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/23/05/b32435298/media-alert-brainchip-and-teksun-demonstrate-rapid-adoption-of-ai-solutions-at-embedded-vision-sum"
+webUrl: "https://www.benzinga.com/pressreleases/23/05/b32435298/media-alert-brainchip-and-teksun-demonstrate-rapid-adoption-of-ai-solutions-at-embedded-vision-sum"
 type: article
-quality: 3
-heat: -1
+quality: 23
+heat: 23
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Computer Vision
   - AI
 
-related:
-  - title: "Join Mouser Electronics at Embedded Vision Summit 2023"
-    excerpt: "Mouser Electronics, Inc., the New Product Introduction (NPI) leader™ empowering innovation, invites design engineers to visit its exhibit at Embedded"
-    publishedDateTime: 2023-05-16T02:23:00Z
-    webUrl: "https://www.businesswire.com/news/home/20230515005045/en/Join-Mouser-Electronics-at-Embedded-Vision-Summit-2023"
-    type: article
-    provider:
-      name: newsroom.businesswire.com
-      domain: businesswire.com
-    quality: 4
+images:
+  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+    width: 1043
+    height: 1043
+    isCached: true
 
-secured: "03dFxYDOt/RAXAp7wT30SHmS5FYgUEvBOaWp9MTCtH070w4oB5+ky7WvNKL8DGr2hWj+WfVeDdz276MuZTNsWBrdRlWpAbmMUziiMZW8VxBSEW9RhD2O/u2g37Va45ls/+hDJfOBcj9XNTvb/vjNzNYu83fsnI27uPzVFU9KjF4e9NHqtXOeutg1QrjFwOa/h9PzLrXv8MC2K8c19glLEAD+BwLYkyfEgCVL0OJZeUSNfr7PZO8Y8T3yZ3E9anPBnkhC2QhwCcbEOXpmiffkH9hiptaDaeWJNbejgKXcqP1fWpB5CcObS2AK4UbF5jEafgHK/7hqfvfDlWhf+SoDEg1M8y/7TH9XdGsjxgkhWG0=;WXmo9DVM77m+Ns6Asmvlqg=="
+secured: "ar0q8QrQV3afR4d3nyeIWWl60G4KkwT2qEFi6pE0YYCN3Niq5CoiWcT8Oa7554UUUletKpVLjvO+qH3d0KUYKWDWXqj1ZZnh1FEYEiC+O2po/sgpqOXGWSDiJMbK14Rq2Ezkc3gM73bZTiZ3/jtPka4UYdz0jbBAJBT4MVQKHvipan4Jz5rCv6n4G0lePhXblW1SPdRpEvUywUDv5adjb+Vyq/ifJgLMu64vlDrfwjIJsn/FvlD7p/yi8IFf8NKoDCNi2YKyr9Qid5NcRAHITDuaVzymPvS+Wg7Sxw7uVd7jLJE5qhDUhJ2eZlAeVtZ7ffEEhuoe/72p+qdyaefE2LOlIojS3lTch+oD9/nZC/E=;elItDzI3LtezEW2EjLvPxg=="
 ---
 
