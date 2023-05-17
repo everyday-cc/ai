@@ -25,15 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "How Humanity Can Avoid an AI Takeover"
-    excerpt: "We talk to MIT professor Daron Acemoglu about his book Power and Progress and unpack why making direct human-to-AI comparisons isn't necessarily helpful in determining our relationship with technology."
-    publishedDateTime: 2023-05-17T10:59:00Z
-    webUrl: "https://www.wired.com/story/have-a-nice-future-podcast-6/"
+  - title: "Before AI Takes Over, Make Plans to Give Everyone Money"
+    excerpt: "Here in the United States, an AI jobs revolution need not be anything for average wage-earning families to fear. If AI does not enslave the human race or destroy humanity outright, this generative technology can and should be a very,"
+    publishedDateTime: 2023-05-17T14:53:00Z
+    webUrl: "https://www.theatlantic.com/ideas/archive/2023/05/ai-job-losses-policy-support-universal-basic-income/674071/"
     type: article
     provider:
-      name: Wired
-      domain: wired.com
-    quality: 47
+      name: The Atlantic
+      domain: theatlantic.com
+    quality: 67
+    images:
+      - url: "https://cdn.theatlantic.com/thumbor/VCHLO5tj8BoZvOSAmITi2py2Mqw=/0x102:4792x2598/1200x625/media/img/mt/2023/05/AI_UBI_2/original.jpg"
+        width: 1200
+        height: 625
+        isCached: true
 
 secured: "5Zq7z1v1/8hb135WKrqMxMeCnaeY+LMfDfvmm0OIe6+SRH60+20X6DBV2LviKQSMP99SwtSk+enJC1QIIMJ6S4hBf4J4JXw7scEeK+xsvW10oW3X4orZa799BleIHvFOntw34dfMySU2gcBm9ns7MhEzUFYu/k73LivabwSzMIF4BFDz5ufe76eJymtobbIU6san/drQyAc71UiL8NeUsvjjGKkIyTqV+rjrrMYIPWXogz+G57V2VlYp8aPcP7xpbNYxZHk1GmN39h9zSLizYnryzaJVyRqd0t/trKStild+PF8a9+QnVWfcr98GJos4w6yfeOuaiQD+hJ5KWOddrYeY2H1eUHE/DMy5TZ43qyM=;vWi+KikMbPwiOvHDBzYT6A=="
 ---

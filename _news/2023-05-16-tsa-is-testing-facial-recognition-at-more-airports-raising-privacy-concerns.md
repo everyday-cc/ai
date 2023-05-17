@@ -3,10 +3,10 @@ category: news
 title: "TSA is testing facial recognition at more airports, raising privacy concerns"
 excerpt: "The agency tasked with securing America's airports is testing the use of facial recognition technology at a number of airports across the country"
 publishedDateTime: 2023-05-15T20:16:00Z
-originalUrl: "https://abcnews.go.com/US/wireStory/tsa-tests-facial-recognition-technology-boost-airport-security-99322460"
-webUrl: "https://abcnews.go.com/US/wireStory/tsa-tests-facial-recognition-technology-boost-airport-security-99322460"
-ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/tsa-tests-facial-recognition-technology-boost-airport-security-99322460"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/tsa-tests-facial-recognition-technology-boost-airport-security-99322460"
+originalUrl: "https://abcnews.go.com/Technology/wireStory/tsa-tests-facial-recognition-technology-boost-airport-security-99322644"
+webUrl: "https://abcnews.go.com/Technology/wireStory/tsa-tests-facial-recognition-technology-boost-airport-security-99322644"
+ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/tsa-tests-facial-recognition-technology-boost-airport-security-99322644"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/tsa-tests-facial-recognition-technology-boost-airport-security-99322644"
 type: article
 quality: 71
 heat: -1
@@ -129,6 +129,22 @@ related:
     webUrl: "https://www.reviewjournal.com/business/smile-reid-airport-is-testing-ground-for-facial-recognition-project-2777726/"
     ampWebUrl: "https://www.reviewjournal.com/business/smile-reid-airport-is-testing-ground-for-facial-recognition-project-2777726/amp/"
     cdnAmpWebUrl: "https://www-reviewjournal-com.cdn.ampproject.org/c/s/www.reviewjournal.com/business/smile-reid-airport-is-testing-ground-for-facial-recognition-project-2777726/amp/"
+    type: article
+    provider:
+      name: Las Vegas Review-Journal
+      domain: reviewjournal.com
+    quality: 74
+    images:
+      - url: "https://www.reviewjournal.com/wp-content/uploads/2023/05/17778613_web1_AP23116691165190.jpg?w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Las Vegas airport testing facial recognition to screen passengers"
+    excerpt: "The TSA says the security program is voluntary and accurate, but critics have raised concerns about bias in facial recognition technology."
+    publishedDateTime: 2023-05-17T16:14:00Z
+    webUrl: "https://www.reviewjournal.com/business/las-vegas-airport-testing-facial-recognition-to-screen-passengers-2777726/"
+    ampWebUrl: "https://www.reviewjournal.com/business/las-vegas-airport-testing-facial-recognition-to-screen-passengers-2777726/amp/"
+    cdnAmpWebUrl: "https://www-reviewjournal-com.cdn.ampproject.org/c/s/www.reviewjournal.com/business/las-vegas-airport-testing-facial-recognition-to-screen-passengers-2777726/amp/"
     type: article
     provider:
       name: Las Vegas Review-Journal
@@ -288,6 +304,20 @@ related:
         width: 5412
         height: 3608
         isCached: true
+  - title: "Harry Reid International Airport in Las Vegas testing TSA facial recognition technology"
+    excerpt: "Harry Reid International Airport in Las Vegas is part of a pilot project by the TSA to assess the use of facial recognition technology."
+    publishedDateTime: 2023-05-17T16:42:00Z
+    webUrl: "https://www.thespectrum.com/story/news/2023/05/17/las-vegas-airport-among-ttsa-is-testing-facial-recognition-at-more-airports-raising-privacy-concerns/70227099007/"
+    type: article
+    provider:
+      name: The Spectrum
+      domain: thespectrum.com
+    quality: 46
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2023/05/16/PREN/08c5e615-7904-4d40-8684-d11579b6c89f-AP23116691290041.jpg?auto=webp&crop=7421,4175,x0,y378&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Las Vegas airport among sites testing TSA facial recognition technology, raising privacy concerns"
     excerpt: "TSA says the pilot is voluntary and accurate, but critics have raised concerns about questions of bias in facial recognition technology and possible repercussions for passengers who want to opt out."
     publishedDateTime: 2023-05-16T15:46:00Z
@@ -399,6 +429,6 @@ related:
       domain: kshb.com
     quality: 19
 
-secured: "yLverdxVVZqlkHx4/8kj40wmgMym9PCHUEci/dH3O2hMBBBZiQGRvjTX65iSjRi5WHnDWkbUPeO3H2IQ4LBkwholxurW7KvufKrhCmL8V1ODHDDdP1GryjkxygKutDq7qxdsFmvSktUA3IqLJJ3QKr536Hbf1aLVX+bDPNcAM48SU0QRv+3smHdthV1xK5a3nrWo42WgyQPgdRd7j9b52yQ9c2UnDvEgbaAghgO3abAfzsce883MyuoWjv/IZUTTAjhcKxlRwrPxkiMI01vydfYBU8pzUyGuomtNRrIHBkq114rKQyx43589U0gsM2uDoc8nXYhtF6fV1vUZyyj6nxKjuhcWx0fNRpTZDbBQbZI=;3vl/izUqBXlYZ8tLrbnBbA=="
+secured: "XefVY6RfZpKRC62Q6fG4w+yJB8N6N+pWR8vQ1gNeGqaKaX6UNVpvx1rA+SgW6wm5lwALsGhj19betnoouE9XI/l8406nM68nV8zcCnJGfFheeTJozYd012NKhwO/ZQuvqycLnhAXlERIrr0vaF6JerQA7fvQo5DwNIHIfFZIuIKHdaCwCcULAL33ECESuc7tv2xF29LVFP8qtuAS0S1+BUhaIMcu+4CC9E0QklqIkx+poF4kCwl9r2j6T5PyIjBVUyL7Laz2RIAMgUjzRyGAlMBEjqlzzSIuwj+1dPkv12rndAcuqMmX4/q9hjxSfpvZASi12pIGogZg8F69mu33GisEmSDsoDSl69tt+/FiX0U=;BWNmFfAxj9Xqiz6jj0CLQw=="
 ---
 

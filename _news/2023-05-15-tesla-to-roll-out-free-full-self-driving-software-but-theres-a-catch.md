@@ -43,6 +43,20 @@ related:
         width: 800
         height: 452
         isCached: true
+  - title: "Self-driving Tesla doesn’t yield for pedestrian. Tesla fan cheers."
+    excerpt: "A seven-second self-driving Tesla video posted to Twitter this past weekend shows a likely illegal driving event in San Francisco that, unfortunately, happens all the time in ordinary situations. It’s the poster’s reaction that has left many online unsettled."
+    publishedDateTime: 2023-05-17T17:53:00Z
+    webUrl: "https://mashable.com/article/tesla-fsd-update-not-stopping-for-pedestrian"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 69
+    images:
+      - url: "https://helios-i.mashable.com/imagery/articles/03VEJGPAmbDu0nZlRKkPora/hero-image.fill.size_1200x675.v1684343324.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Tesla To Roll Out Free One-Month Full Self-Driving Trial Once It’s “Super Smooth”"
     excerpt: "Elon Musk tweeted that Tesla will offer free FSD trials for users in North America and, eventually, the rest of the world"
     publishedDateTime: 2023-05-15T00:19:00Z

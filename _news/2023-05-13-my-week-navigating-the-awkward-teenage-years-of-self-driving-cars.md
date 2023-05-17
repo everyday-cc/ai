@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2023/may/13/self-driving-cars-wa
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2023/may/13/self-driving-cars-waymo-cruise-san-francisco"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -31,21 +31,19 @@ images:
     isCached: true
 
 related:
-  - title: "Why the CEO of Ferrari doesn’t care about self-driving cars"
-    excerpt: "During a discussion at the Financial Times Future of the Car Summit, Ferrari CEO Benedetto Vigna, did not mince words."
-    publishedDateTime: 2023-05-15T01:00:00Z
-    webUrl: "https://www.popsci.com/technology/ferrari-self-driving-car/"
-    ampWebUrl: "https://www.popsci.com/technology/ferrari-self-driving-car/?amp"
-    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/ferrari-self-driving-car/?amp"
+  - title: "Self-driving cars are taking ages to become a reality, but they won’t take forever"
+    excerpt: "That’s a lot of autonomous driving. Baidu’s update follows other progress reports from self-driving car outfits: Cruise a couple of months ago said it had completed “one million fully driverless miles” in the 15 months since it started offering ..."
+    publishedDateTime: 2023-05-16T18:56:00Z
+    webUrl: "https://techcrunch.com/2023/05/16/self-driving-tech-predictions/"
     type: article
     provider:
-      name: Popular Science
-      domain: popsci.com
-    quality: 44
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 48
     images:
-      - url: "https://www.thedrive.com/uploads/2023/05/09/ferrari-no-AV-inline-A-1.jpg?auto=webp&optimize=high&quality=70&width=1440"
-        width: 1440
-        height: 810
+      - url: "https://techcrunch.com/wp-content/uploads/2023/05/IMG_5632.jpeg?resize=1200,900"
+        width: 1200
+        height: 900
         isCached: true
 
 secured: "R8j+OAImhrCDWwwPnGvrlTIS1x3ue0IxooKMVCGpNC6e2sChVfxy3rLouZA/XDDLCHYhStmPmnKjdXrxkgrPMPP3cLiei2mShdicQTmW7K6CPKAw+khx1bgtJM8igVl/jdDu1xaWfGN5Pu8JC7BZjaMZCV7nPuJ2fhi1LGu1hIIqFYfL9qcVamyr/fHaGWPIvLiUJAp0ak3XtODEFwTV9HkO5Z1TiNpDW5n/dACA6wXjxlqQi6ICw6ZJGNdQviVdMqX7rVokexXwhowVPbjRAjnejLFQZftc/hKwS24NPLiRGCagWRKWXPz+HptsJvLPg5JKhrIFO4SotThPgZZoEqG7XVC2qyN5Bw/WcxKSuyc/RWt4NFhxGXDe14/DzZZWKH1SCgTgbUFoLFdKy9PmfJ9LTyk8RutkfSe0CaRgOBCd3xnIjK1cBx9PbVhIdvelktvdluEdIZvHrpMmpuvlQjL5KPjfuTLbzRrjPzU6CMGMYlbzchtO9QUdaW5s/LhkGhZM2uM6xplJCTIdAdn7DA==;QBRlTQ/ZrYWiKmrONmYPMg=="

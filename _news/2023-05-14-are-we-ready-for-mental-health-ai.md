@@ -57,6 +57,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Afraid of AI? Start with ad optimization"
+    excerpt: "There is perhaps no greater trend in the tech world right now than artificial intelligence (AI). Specifically, generative AI, which can produce content based on prompts, is garnering a"
+    publishedDateTime: 2023-05-17T16:50:00Z
+    webUrl: "https://digitalcontentnext.org/blog/2023/05/15/afraid-of-ai-start-with-ad-optimization/"
+    type: article
+    provider:
+      name: Digital Content Next
+      domain: digitalcontentnext.org
+    quality: 37
+    images:
+      - url: "https://digitalcontentnext.org/wp-content/uploads/2023/05/vector-of-human-head-with-transparent-overlay-of-earth-and-data.jpg"
+        width: 867
+        height: 400
+        isCached: true
 
 secured: "neVGpgnYrNn8zub3KZvdWOR78R9nIGFejhWkcWgLD/jX7wB9VXbr+zGSe6VVOG4lXDTsyD0zxA3tphwIL0dkHgYa9/Zdl7yD3CAt5BT03dvDaXyo9pZHH9e/GyGLxb86t9X25EH/gVsS4e7HsHRSyl7rVwZ4qSyoV5ymFRot0TocmDVfOJuGCNabz6kFIx+Ct4QrDIMuCaxX2kcdiIuBUhukZulJQRKb/s4YM1qdyY7Eb/4K14j/MHmLDRryAPg2dtsA8elwI16Veudodsk+id5JpApprQppp/KqN9kpNVBSergnF+6zT9FXoaK1uDO5os8zU89qRGi1ygSQsQEbH6297/NkXICXW31Q0BJsIts=;hj5Lhenijh8aDBAEn8vRoQ=="
 ---

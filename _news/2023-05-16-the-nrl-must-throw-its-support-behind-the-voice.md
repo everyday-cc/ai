@@ -7,7 +7,7 @@ originalUrl: "https://www.theroar.com.au/2023/05/16/the-nrl-must-throw-its-suppo
 webUrl: "https://www.theroar.com.au/2023/05/16/the-nrl-must-throw-its-support-behind-the-voice/"
 type: article
 quality: 4
-heat: -1
+heat: 4
 published: false
 
 provider:
@@ -17,19 +17,6 @@ provider:
 topics:
   - Natural Language Processing
   - AI
-
-related:
-  - title: "Rugby Australia adds its voice to other sports codes supporting yes vote"
-    excerpt: "Rugby Australia is the latest major sporting code to back the Indigenous voice to parliament, joining a growing list of elite sports pushing for a yes vote in this year’s referendum."
-    publishedDateTime: 2023-05-17T14:04:00Z
-    webUrl: "https://www.theaustralian.com.au/sport/rugby-union/rugby-australia-adds-its-voice-to-other-sports-codes-supporting-yes-vote/news-story/6a74bff0cec4070f704964fe30d2852e"
-    ampWebUrl: "https://www.theaustralian.com.au/sport/rugby-union/rugby-australia-adds-its-voice-to-other-sports-codes-supporting-yes-vote/news-story/6a74bff0cec4070f704964fe30d2852e?amp"
-    cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/sport/rugby-union/rugby-australia-adds-its-voice-to-other-sports-codes-supporting-yes-vote/news-story/6a74bff0cec4070f704964fe30d2852e?amp"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 23
 
 secured: "J3eyrAftvePEuuNOw4DvVZFKhNejPAd5+uzbRuP6ZGcFSA0xlJRRFlZIc7JT1XmErasrs9vD3a70AHmR2DIQGCNmZGsBM7hVxDZxBxyUq9+CC3rKKUPcIZO5QqCyitmc75X/UmlYsrz/LxvFLeH3++pSsNlQ0IJtG0TCjrFJz5JI0n87BlFojztfUTeKHzTmJPhg0OL58sORTbdvQeE0SlTj9g+nXyO+vivc3JkJtjW1+lGFhgIGO9S7SLq6ko6RBTA9hPCrR3WkzqLPgbSwetx+Tffrs2+L+rcSwO38bwkdyzlJDqgSW+61n7DWftmB1qrcqR+Syj5jWftLdsOIQZDN3ZCk9K5FVlzxiIWV34COweDr7yCU/adjkPVh1ptkTcrhJN2TanrXCIsXmJ+lP9JAn+WYyKev4/Pk4+FrmNgyAkcMSliqjPJXERtrKWqzahFY6lID6QzvcU80IlJCPF7kVMr5RQOd6NrXzm1ILNj5SrEYHtfQsb1ErxZZTVyULp603p4yMoDGjua/5oGOJw==;9Pbm3lbjABr+2CdDM3qeyg=="
 ---

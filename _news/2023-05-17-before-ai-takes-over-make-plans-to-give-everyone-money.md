@@ -7,8 +7,8 @@ originalUrl: "https://www.theatlantic.com/ideas/archive/2023/05/ai-job-losses-po
 webUrl: "https://www.theatlantic.com/ideas/archive/2023/05/ai-job-losses-policy-support-universal-basic-income/674071/"
 type: article
 quality: 67
-heat: -1
-published: false
+heat: 77
+published: true
 
 provider:
   name: The Atlantic
@@ -28,21 +28,21 @@ images:
     isCached: true
 
 related:
-  - title: "What Does AI Mean For Your Money?"
-    excerpt: "AI – is grabbing headlines at the moment, with some commentators assessing its likely impact on daily life as being on the same scale as the Industrial Revolution or the development of the internet. Still in its relative infancy,"
-    publishedDateTime: 2023-05-12T23:17:00Z
-    webUrl: "https://www.forbes.com/advisor/in/personal-finance/what-does-ai-mean-for-your-money/"
+  - title: "How can humans maintain control over AI — forever?"
+    excerpt: "but dozens of research groups are exploring ideas for overcoming this and other limitations. Just as with the impending arrival of a superior alien civilization, it is imperative that governments cooperate on the regulation of AI. It’s in no country’s ..."
+    publishedDateTime: 2023-05-15T07:18:00Z
+    webUrl: "https://www.bostonglobe.com/2023/05/15/opinion/how-can-humans-maintain-control-over-ai-forever/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 67
+      name: The Boston Globe
+      domain: bostonglobe.com
+    quality: 39
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/x/https://www.forbes.com/advisor/in/wp-content/uploads/2023/05/rsz_pexels-thisisengineering-3861969.jpg"
-        width: 960
-        height: 540
+      - url: "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/AL7KicIw45AkMSNAyQQ0bF_rjzw=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/SCSJHITU6VE2FKMOU5XYSLEBOA.jpeg"
+        width: 506
+        height: 285
         isCached: true
 
-secured: "QxY81FJm84K8TJjwgvh0o7bT47rkVh7mU0oXQy4/0FR5TVhIXkIgO4eYTIe0F7dLM3j3TQTfWsV7iFf1Zs9fvXKEWyD6Z/NFz76sfuK1HREnmgzm3LHD96adkutblYSpDzbcp7WQvjdL1dKnZP8AafWRnixiFEGm00UPHF82qde2QDmIGW3cFahFqCEWFAWeM9gg0tV/iDTXuc9+LcviXKGKwEsZGLAt+NCRA61Nf2zPgULiv4/nkoP6P8qgV11bA2xn4T9a4OcR+3Ceg5k52EB23TqeoErvCyixndomJ4oC4reKL0nFJ2e0/+lZiLuz9hEYCUt46WmT5IecGGyzjjW8xpYprktdUq8pgMH6jO8=;tmUV+hENGPXGkilU73lYRQ=="
+secured: "um0xW2TyrMtzn5zihlX+MB7D/ock7AuwSKlb155/P9FNSmEsMl8rUb1YKrABvgwYtwib6l6SueBAS1Jz7AlgfdFGlNTYVZb1h8CsLtzR4QVe9W0t9VeuLmk/2ZSaVkOCCvWPJkZQ1N3r/P259vMrsn0IaliSgm8T1W2THFB9QhzHPYDXpueuJ1/NJPoR/OyKfasz8KL+NDwTZqMGTFA3uTaZ6lqMaHP+A7V0u2VDKlSAtZgZMdSmTz6APoEqzUHjzzuxi8NN2wjr5TvyfBYKdH2P0d4yB1cr/B+uR50ZAj4s/RhTkYA1wL3N46j8ep8HT9qixRv4jj/YnnOpucggI2ZM6YuXcyIaq1PwfAGpAquLt9gzEq+ueEeMpGcKnLy8FwXj6Mkez9YMk8SjASc1iCGoHcWL7yLIxSKnEvZY5viTtkFipXgNkjAVBKFeIn/G9sULcV+G0RznFUtFjALaX2CBtFy7EnJW0+qZCXiGOE8BZoTPWEZjB1Wgs+ZDsC7fJhhfDiU2PpcGsHWbatvRDw==;usCR+kJ4kBIA0mmegTQl9w=="
 ---
 

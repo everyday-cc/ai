@@ -39,6 +39,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Institution-specific machine learning model can predict cardiac patient's mortality risk prior to surgery"
+    excerpt: "A machine learning-based model that enables medical institutions to predict the mortality risk for individual cardiac surgery patients has been developed by a Mount Sinai research team, providing a significant performance advantage over current population-derived models."
+    publishedDateTime: 2023-05-17T16:55:00Z
+    webUrl: "https://www.news-medical.net/news/20230517/Institution-specific-machine-learning-model-can-predict-cardiac-patients-mortality-risk-prior-to-surgery.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 22
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/Electronic_Health_Record-620x480.jpg"
+        width: 620
+        height: 480
+        isCached: true
   - title: "Machine Learning Makes Waves: A Better Way To Study Ocean Currents"
     excerpt: "A new machine-learning model makes more accurate predictions about ocean currents, which could help with tracking plastic pollution and oil spills, and aid in search and rescue. To study ocean currents,"
     publishedDateTime: 2023-05-17T07:44:00Z

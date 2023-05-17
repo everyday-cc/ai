@@ -22,6 +22,17 @@ topics:
   - Natural Language Processing
   - AI
 
+related:
+  - title: "Growth Opportunities in Wearables, Artificial Intelligence, Quantum Computing"
+    excerpt: "The \"Growth Opportunities in Wearables, Artificial Intelligence, Quantum Computing and 5G Communication\" report has been added to ResearchAndMarkets.com's offering. The Microelectronics Technology Opportunity Engine focuses on innovations related to hardware modules for space shuttles,"
+    publishedDateTime: 2023-05-17T17:54:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-growth-opportunities-wearables-artificial-intelligence-quantum-computing-5g-/2023/05/17/9816480.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 16
+
 secured: "DhzVQztKo0b15jA1KxZjFUeIj+OSskVU2tkngPHguKlKBJsf+4vxBRKKDKIsmaaoLIIJoL+8qvUlvmj3qB0wpbvupRH+fLWUZwduOujGeVXq7Ju9VC5X40TUWYdzfHLNOpjLvXeta7Xdf6TFgD2vuHMSFUMqznoAoIAoqHRXIphEwJDRdmU8yf3wqhaWbUHAdcnCJ9V7Plie/wQlqOF3dmEJHqojJEGjUs87K77KMuCddQlS76/BFjFLewu1YpVmX8xloNdecMQYxBdmYBbcr/2Q/oAgNILEp3G0m3AOwvRBoo+U2haH7RsXkiIxY6OyuZuzyp1CPpEmePxoA+IN5fBs9VUkwY3HmdHWcgdEBiQ=;RF9vBuffeMgn7F9XYTmbfg=="
 ---
 

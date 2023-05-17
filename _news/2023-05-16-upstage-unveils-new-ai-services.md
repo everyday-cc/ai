@@ -24,15 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "New AI tools headline ServiceNow’s latest platform update"
-    excerpt: "They’re rolling out for ServiceNow’s namesake cloud platform, which helps companies manage the parts of their business that involve delivering a service. The platform streamlines tasks such as fielding technical support requests and onboarding new employees."
-    publishedDateTime: 2023-05-16T18:11:00Z
-    webUrl: "https://siliconangle.com/2023/05/16/new-ai-tools-headline-servicenows-latest-platform-update/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 19
   - title: "Artificial Intelligence: Boost.ai Unveils Large Language Model Enhancements to Conversational AI Platform"
     excerpt: "Boost.ai, a conversational AI solution provider, today announced Version 12 of its platform, the first of a series of planned updates by the company."
     publishedDateTime: 2023-05-14T17:28:00Z

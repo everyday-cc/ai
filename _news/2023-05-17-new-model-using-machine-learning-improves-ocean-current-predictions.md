@@ -39,6 +39,20 @@ related:
         width: 1091
         height: 800
         isCached: true
+  - title: "Institution-specific machine learning model can predict cardiac patient's mortality risk prior to surgery"
+    excerpt: "A machine learning-based model that enables medical institutions to predict the mortality risk for individual cardiac surgery patients has been developed by a Mount Sinai research team, providing a significant performance advantage over current population-derived models."
+    publishedDateTime: 2023-05-17T16:55:00Z
+    webUrl: "https://www.news-medical.net/news/20230517/Institution-specific-machine-learning-model-can-predict-cardiac-patients-mortality-risk-prior-to-surgery.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 22
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/Electronic_Health_Record-620x480.jpg"
+        width: 620
+        height: 480
+        isCached: true
   - title: "Machine Learning Makes Waves: A Better Way To Study Ocean Currents"
     excerpt: "A new machine-learning model makes more accurate predictions about ocean currents, which could help with tracking plastic pollution and oil spills, and aid in search and rescue. To study ocean currents,"
     publishedDateTime: 2023-05-17T07:44:00Z
@@ -49,6 +63,6 @@ related:
       domain: scitechdaily.com
     quality: 19
 
-secured: "5iq0o8HmIKJfwyheP0HpqOZi+iCXPyzP/b1LWnwSMYtFNiar40f6zdG7dH0kH30Iy0f/Gk1WYf2U9alLIEdzV8OQWPKllJHtHy0dIIsx79q61Wn5Jyl3CK4RDiH3fIyTRHnhLVg1jab0WVNHHao/RTx/QIEz8k2a7SXUFJfSafSQLF8W/Nq4TFauZHPpWzMJUnhd2ui9jz7whzBWCiK+6JcHQ/PAux8D51IRZ0uZh4de3UuaqRgeS5RKLPPkvqRuyL3u8BcQ3SRmjzF/cvPbhQrpbL20Q3ptSbLk/uu0JlUZHjtQ7noOiWk4Bsn1NrDSM/je5OzLRhBiI+d/VvoL+g9nhpQmN9MPxL/GFe+u3gg=;r/drtU/iS5g7d4mEojb5Xg=="
+secured: "QRIokGVdTaMxvH3GRHEz/gRH2LKdtf6bSsKOGg0no+iQqBAK9NMWyADD7QPkF4g/EUGZ8vONBz/6yyD6jwv1tWKXYjN+pW9py99G3ynhh+zfdtcNovAy6OO/QaqpcXort3A4IQR/K3u+CrSKsdDv9dAsXoPyy+dGGBaj4TQpgJJIBBpY6mos4m9ngv5uodst3fwuQe2qE5qRAIE7vvWOOl4VDRMpM6pZG8C3EbiVljS38dzXBfp+1X6JOE67eHl6Z92byE1RxxE7q96xvF3md+qcVa4/I7o8d10eHOn4IS31YO9yw+DcToXAYNe6KuC+z/5bHOoHts9ZsPTt+6e0o1zM8Oexg194DuFHAilBQVg16mf8/J5KkaxD4Wb8ZC+CJzH2dAAAUIKEoSK9QPJfTZ+Lo3Q4nAFmnt4BglMdmHxSrrhgZgc4VwDEu0DZgabve4OmTKNHi/EQ/FRBTUvixUEfN+G7NX6t22895mMDKCxNO8itWLZX9Tm7sTc9ZYAZxgx+47rxGmnnu24yN4SI0g==;uu5wLSbfYzXbH/cwHPuyjw=="
 ---
 

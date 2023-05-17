@@ -30,18 +30,18 @@ images:
 
 related:
   - title: "AI-Integration In Language Apps For ESL Learning: Tops Apps AI Releases Report"
-    excerpt: "New report by established AI-integration App company Top Apps AI explains the impact of AI integration in educational technologies geared"
-    publishedDateTime: 2023-05-17T02:54:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ai-integration-in-language-apps-for-esl-learning-tops-apps-ai-releases-report-1032333074"
+    excerpt: "Top Apps AI is announcing a comprehensive report on the potential of integrating AI technology into educational"
+    publishedDateTime: 2023-05-17T03:05:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-integration-in-language-apps-for-esl-learning-tops-apps-ai-releases-report-2023-05-16"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
+      name: MarketWatch
+      domain: marketwatch.com
     quality: 65
     images:
-      - url: "https://storage.googleapis.com/mmstudio-images/gallery/featured/pr-ai-integration-in-la-1684270470.jpg"
-        width: 600
-        height: 337
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "kmVyB3VJriceb3+0gbkLxsA9qQr1Rgm8+2fAVeB8No7vSPxWq2qdPggiN6bjLaAx5bH5053M4K9+C+gq37sfq/DvUC9WccO010iJ4cVf0d+DfJCwgQR0/3FtRt8ekzn0DXSyYDYrwtdkUr7+BjvfZrj/oxud6y+fYCmVgSavJ7CXj5MCLfl1GIg7FLH3BmZMUJcUVqtZ1jqxZX5gQpFHOwebSNZOjmGlq1N2k9F+seNE7bdjhR5yzm/MpEFGrKY8ITmbMWmGtMGEMkKMmw/Sn4Gk2BYE2PwRyKRZTMKi/ZzLUMVGH/Vscq2DtTTQBNHAPyyBh0pwyUwaTXA+TAMdhQQLyiNcoTAmC8ce4Vyc06BD8VgXztNfJTBzUUEonhLMm83TaEIRttAA1vjnJjOsKCJcQz25nRM24971mfzmy2EuXagSCSi/YlRPOArQPoXs41EQ8SRWdA8OWXbKmJhMAbRbWPgdTjuiw9vNQjTTZixKThdThxzMe8+XKPTegv8GcObeTZNOdUVRrg5TFjoM+A==;CLadh4xJi0WperQg8doImQ=="

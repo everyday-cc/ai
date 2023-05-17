@@ -47,6 +47,20 @@ related:
         width: 1091
         height: 800
         isCached: true
+  - title: "Institution-specific machine learning model can predict cardiac patient's mortality risk prior to surgery"
+    excerpt: "A machine learning-based model that enables medical institutions to predict the mortality risk for individual cardiac surgery patients has been developed by a Mount Sinai research team, providing a significant performance advantage over current population-derived models."
+    publishedDateTime: 2023-05-17T16:55:00Z
+    webUrl: "https://www.news-medical.net/news/20230517/Institution-specific-machine-learning-model-can-predict-cardiac-patients-mortality-risk-prior-to-surgery.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 22
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/Electronic_Health_Record-620x480.jpg"
+        width: 620
+        height: 480
+        isCached: true
 
 secured: "un4eC8vHQpl5KsmVLwpCnSUobE9ZaGJG/VS9Jt/bfzVQz0IcaNWMxoh9V0NLkD8/j4Hcc9lzuMc6EP7ywREaOukwUBWH2T4GtCvzcK2IKvToG443vqDqkYUnmxaonl1z58BPiD2pyDJJP4QjJKzxpYgYhnVASKXZiruXaMt25Wu5iC2Ds8Lzas7otTi4anVXON68DDlX4d9U1P7A/tahP3lbXZzqmgPe7GVGF9d+7gjrRktBHRSNBGL8FWRvQOzReZokH5XfRruPDSILvNz503qavyKxpZPCgoPurYdGjX1NlS8vmOE41GDP733Vmjz7QgGYC0N6xH/F+4hfmZhVU7WqlyQhTAcq+OVbkA1gKzpWjxvRxj5lWpePUI0K6HctVeyQUA1MuYN/hjwb2gD5dLmUWvrRdK2t9Q+hwXZKqPYu5NK0uZJ81UanukbsKzRQPhEkcEPMOMEuzVT37xXFr3OEq1+eKFw3JUPkhesz5r9dVfMgxkL7wkRAOfToWGEaL1RWSbcG3N5Ybenb5BIsyQ==;XQIc6X6s/10mMyaQJH6RVg=="
 ---

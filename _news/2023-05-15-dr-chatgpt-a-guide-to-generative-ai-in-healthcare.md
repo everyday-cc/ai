@@ -73,6 +73,20 @@ related:
         width: 3000
         height: 1688
         isCached: true
+  - title: "How ChatGPT and artificial Intelligence are impacting education"
+    excerpt: "From finance to health care to policing, artificial intelligence is becoming more commonplace by the day. It’s also becoming harder to avoid in our schools. ChatGPT is a chatbot that generates startlingly human-like text in response to brief prompts."
+    publishedDateTime: 2023-05-17T15:30:00Z
+    webUrl: "https://www.wfae.org/show/charlotte-talks-with-mike-collins/2023-05-17/how-chatgpt-and-artificial-intelligence-are-impacting-education"
+    type: article
+    provider:
+      name: WFAE
+      domain: wfae.org
+    quality: 56
+    images:
+      - url: "https://npr.brightspotcdn.com/dims4/default/f084be8/2147483647/strip/true/crop/5321x2794+0+598/resize/1200x630!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2023%2F01%2F25%2Fgettyimages-488893054-9cacac05ea39cc2170c1f9af7703fe3338985f17.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "WHO warns about healthcare AI bias"
     excerpt: "WHO warns healthcare organizations about the potential bias and inaccuracy of AI-based models, and calls for clinical oversight to ensure safe, effective."
     publishedDateTime: 2023-05-16T20:19:00Z

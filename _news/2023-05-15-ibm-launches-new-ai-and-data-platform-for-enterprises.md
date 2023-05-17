@@ -68,6 +68,15 @@ related:
       name: SiliconRepublic
       domain: siliconrepublic.com
     quality: 19
+  - title: "Pecan AI Opens Platform and Fast Predictive Modeling for All Data Professionals"
+    excerpt: "Pecan AI, the leader in AI-based predictive analytics for BI analysts and business teams, today announced that it has opened its predictive analytics platform to all users. Free trials let anyone try the platform's intuitive SQL-based editor for building predictive models focused on real business challenges."
+    publishedDateTime: 2023-05-17T17:46:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/05/17/9816519.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 15
 
 secured: "YJ+mhLR1Urx41W6CU58OvJs/nR2Bndo3CKlp3G+5ejAkG/FFLtyqcdYwhsShomOTXZRfzqozT0E3gCFvDwXG2YPMitMoHWHljtyPclV/+7uWhsXot4DpKAoo9ZGtvq97jmLlLf1EU2ietI6tOKViL2yxCEO/AQj1/RaKNUhyeSX+FupCXkrNvyV7AN78tkCZyTJc8jqhmlmQOncM4E2MEsm0EPFXyOhNgL+sTGiF9MkbejkugeNrwQsgpLGNMDT0r/RqisYv0fRF2o+/WdgZPr4xPVFBhkRKN6nBvt1DeeltgCLBmZfs3OV4IA3rQuZDL7Db9b6R/lkF9Ucv+CGpU7EJf8ogSLi2cd+1EaIBK9g=;tcNdPlIU3f+dqOjW1wQjTA=="
 ---

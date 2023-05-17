@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/tech/what-dangers-find-out-why-people-afraid
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/what-dangers-find-out-why-people-afraid-artificial-intelligence.amp"
 type: article
 quality: 99
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -61,6 +61,20 @@ related:
       - url: "https://apicms.thestar.com.my/uploads/images/2023/05/14/2071234.jpg"
         width: 1240
         height: 929
+        isCached: true
+  - title: "Afraid of AI? Start with ad optimization"
+    excerpt: "There is perhaps no greater trend in the tech world right now than artificial intelligence (AI). Specifically, generative AI, which can produce content based on prompts, is garnering a"
+    publishedDateTime: 2023-05-17T16:50:00Z
+    webUrl: "https://digitalcontentnext.org/blog/2023/05/15/afraid-of-ai-start-with-ad-optimization/"
+    type: article
+    provider:
+      name: Digital Content Next
+      domain: digitalcontentnext.org
+    quality: 37
+    images:
+      - url: "https://digitalcontentnext.org/wp-content/uploads/2023/05/vector-of-human-head-with-transparent-overlay-of-earth-and-data.jpg"
+        width: 867
+        height: 400
         isCached: true
 
 secured: "13vgGex/PR5YAJXD8aTyfr0j2hYuIxfF3BPUVgsPI9Ctqivn21xAadC96scg9A2O7CfTAZruEVm3AK5q22XIvLw2m6i4gn+oRVMMbuIRIyPCJjZ8RP5Us10i7f7XAiWiiFqycvRz8KIGmwVtN8zpUB/VGTqll3Khh3La5KvkEeVv9nLI8IS1TdqkDjQipbKiiPN7k5avM1ljQfpqdCaJNrv7vBjrGw+GKCLW4ktjEfhp75cp1lCIs42bjg3achoJNn4CdcSQAVH9zxFmANEKA9n9kmUA/OVw6xdkRV+h3WjwvYGO1qwOZA6AU3tfzWQvPxepFhJQqviFWVVwyA4dqS4VbOOnwygWZxcxXyWr1WE=;65g0FndLJ5qCU9h+1BCMSQ=="

@@ -128,6 +128,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Microsoft Rolls out Bing AI Chat Widget on Mobiles & Other Cool Features"
+    excerpt: "In addition to existing features, Microsoft Bing has received new ones, including a Bing AI widget for mobiles. Check out the details."
+    publishedDateTime: 2023-05-17T06:35:00Z
+    webUrl: "https://beebom.com/microsoft-bing-ai-chat-widget-mobile-new-features/"
+    ampWebUrl: "https://beebom.com/microsoft-bing-ai-chat-widget-mobile-new-features/amp/"
+    cdnAmpWebUrl: "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/microsoft-bing-ai-chat-widget-mobile-new-features/amp/"
+    type: article
+    provider:
+      name: Beebom
+      domain: beebom.com
+    quality: 75
+    images:
+      - url: "https://beebom.com/wp-content/uploads/2023/05/MS-Bing-New-Features-.jpg"
+        width: 750
+        height: 500
+        isCached: true
   - title: "SAP and Microsoft to Deepen Collaboration on Generative AI in Recruiting"
     excerpt: "(Reuters) - SAP will deepen collaboration with Microsoft on joint generative AI projects in the field of personnel recruiting, the German software maker announced on Monday. SAP's SuccessFactors solutions will be integrated with Microsoft's 365 Copilot and Azure OpenAI Service to access language models and generate natural language, it added."
     publishedDateTime: 2023-05-15T12:35:00Z
@@ -173,6 +189,20 @@ related:
       - url: "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/03/bing-logo-circle-5.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         width: 1200
         height: 628
+        isCached: true
+  - title: "SAP, Microsoft Collaborate on Joint Generative AI Offerings to Address Talent Gap"
+    excerpt: "SAP SE and Microsoft announced their use of the latest in enterprise-ready generative AI innovation to help solve customers’ most fundamental business challenges. The companies will collaborate on integrating SAP SuccessFactors solutions with Microsoft 365 Copilot and Copilot in Viva Learning,"
+    publishedDateTime: 2023-05-17T15:30:00Z
+    webUrl: "https://www.manufacturing.net/iot/news/22862143/sap-microsoft-collaborate-on-joint-generative-ai-offerings-to-address-talent-gap"
+    type: article
+    provider:
+      name: Manufacturing
+      domain: manufacturing.net
+    quality: 51
+    images:
+      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2023/05/SAP_Employees_2022_001__1_.6464f29dcc5be.png?auto=format%2Ccompress&fit=max&q=70&rect=0%2C174%2C1920%2C1080&w=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "'Fusion in five years' | AI and Facebook billionaire-backed pioneer signs Microsoft up for 'star power'"
     excerpt: "Helion Energy, whose investors include Sam Altman, Reid Hoffman and Dustin Moskovitz, aims to get first plant online by 2028 and claims deal with software giant"

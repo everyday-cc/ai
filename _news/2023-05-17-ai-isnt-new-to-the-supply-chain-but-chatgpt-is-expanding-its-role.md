@@ -177,6 +177,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "ChatGPT chief says artificial intelligence should be regulated by a U.S. or global agency"
+    excerpt: "The head of the artificial intelligence company that makes ChatGPT told Congress on Tuesday that government intervention will be critical to mitigating the risks of increasingly powerful AI systems."
+    publishedDateTime: 2023-05-16T17:27:00Z
+    webUrl: "https://www.ctvnews.ca/sci-tech/chatgpt-chief-says-artificial-intelligence-should-be-regulated-by-a-u-s-or-global-agency-1.6391175"
+    ampWebUrl: "https://beta.ctvnews.ca/national/sci-tech/2023/5/16/1_6391175.amp.html"
+    cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/national/sci-tech/2023/5/16/1_6391175.amp.html"
+    type: article
+    provider:
+      name: CTV News
+      domain: ctvnews.ca
+    quality: 50
+    images:
+      - url: "https://beta.ctvnews.ca/content/dam/ctvnews/images/2023/2/17/1_6215439.jpg"
+        width: 1020
+        height: 574
+        isCached: true
   - title: "ChatGPT: The game-changing AI-language model and its implications on enterprise automation"
     excerpt: "ChatGPT has gained global attention and recognition, yet its impact on enterprise automation remains an area not fully explored. Analyzing it from the standpoint of intelligent automation can reveal its potential impact on the"
     publishedDateTime: 2023-05-14T10:03:00Z
@@ -533,15 +549,6 @@ related:
       name: Daily Press
       domain: dailypress.com
     quality: 16
-  - title: "ChatGPT chief says artificial intelligence should be regulated by a US or global agency"
-    excerpt: "The head of the artificial intelligence company that makes ChatGPT has told Congress that government intervention will be critical to mitigating the risks of increasingly powerful AI systems. OpenAI CEO Sam Altman testified at a Senate hearing Tuesday that he supports the formation of a U."
-    publishedDateTime: 2023-05-16T21:53:00Z
-    webUrl: "https://apnews.com/article/technology-science-united-states-us-news-artificial-intelligence-73ff96c6571f38ad5fd68b3072722790"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 9
   - title: "ChatGPT’s chief to testify before Congress as concerns grow about artificial intelligence’s risks"
     excerpt: "The head of the artificial intelligence company that makes ChatGPT is set to testify before Congress as lawmakers call for new rules to guide the rapid development of AI technology. OpenAI CEO Sam"
     publishedDateTime: 2023-05-16T11:00:00Z

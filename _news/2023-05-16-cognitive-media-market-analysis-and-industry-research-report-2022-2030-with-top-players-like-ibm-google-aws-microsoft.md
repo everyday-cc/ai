@@ -44,6 +44,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Natural Language Processing (NLP) in Healthcare Market Size, Share, Demand, Growth Analysis 2023 to 2030 | 3M, Linguamatics, Amazon AWS"
+    excerpt: "Download Free Sample Natural Language Processing (NLP) in Healthcare Market report  The Key companies profiled in the Natural Language Processing (NLP) in Healthcare Market: The study examines the Natural Language Processing (NLP) in Healthcare Market's competitive landscape and includes data on 3M,"
+    publishedDateTime: 2023-05-17T05:35:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-in-healthcare-market-size-share-demand-growth-analysis-2023-to-2030-3m-linguamatics-amazon-aws-2023-05-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 86
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Natural Language Processing Technology Market 2023 Top Key Players, Industry Demand, Future Estimations and Key Tactics to 2029"
     excerpt: "The research study also includes key data of the Natural Language Processing Technology market, such as market size, revenue, growth rate, CAGR, and product price. The report also has the strategies to recover from the impacts of Covid-19 and strategies used by prominent market players to drive the growth of the Natural Language Processing Technology market."
     publishedDateTime: 2023-05-16T18:49:00Z

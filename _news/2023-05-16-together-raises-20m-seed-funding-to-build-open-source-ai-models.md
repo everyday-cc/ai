@@ -63,6 +63,15 @@ related:
         width: 599
         height: 402
         isCached: true
+  - title: "Pecan AI Opens Platform and Fast Predictive Modeling for All Data Professionals"
+    excerpt: "Pecan AI, the leader in AI-based predictive analytics for BI analysts and business teams, today announced that it has opened its predictive analytics platform to all users. Free trials let anyone try the platform's intuitive SQL-based editor for building predictive models focused on real business challenges."
+    publishedDateTime: 2023-05-17T17:46:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/05/17/9816519.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 15
 
 secured: "pUK8MYI34QIzdpioIP37ObiiT8UI4SyUiRli20ZRxO02llC9U+cmPH0P05S/WyxfeFZGGkQKiXYDaLDqJHSNnxyIDhUhaNcVA1XmSUwhYzxB/RxaAEOYlMCOwdN2Jq+HLloTuzR7ZzR7KVCrGsji82OTun5stR+kMHIRrrx+4xitmy0YixjOJXP/DSusrlhbo5tKYjPP0AsEuZIa/Dcvd8vSb7AXyZ2BaYwyP7nBRmDO8p9Uh9bkFOQsGOnqlFHDlAwcAtdNiwRbKHhtZqZ7GwQczf3iaiEUEyONO+56cwTOZWMuAXNPeJCl4pEIUmcsIEUAXzRQzyoqlar9cywi2HiDMwKBm7CuDL9O0wEF+rpBCSeujpTiIbWrb+aKWBcjsP8MFA/PqUiecG5XzU2iSXUxw1+pAqz3LbA41RtZkGLVNq0uydi0UK0jfLGOT81hvIvVJhxWShH6JdNkX9bQTBr+1abaZH3CReuiLh4o+DPmAF7O9F8fhTlYAJaATJwoYJgom+MXPVu9bF1D3/FOlA==;V1rzZCTZjW6vawTmrwsMyw=="
 ---

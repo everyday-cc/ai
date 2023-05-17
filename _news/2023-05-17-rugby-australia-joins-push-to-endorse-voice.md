@@ -7,7 +7,7 @@ originalUrl: "https://www.afr.com/companies/sport/rugby-australia-joins-push-to-
 webUrl: "https://www.afr.com/companies/sport/rugby-australia-joins-push-to-endorse-voice-20230517-p5d94q"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -25,20 +25,26 @@ images:
     isCached: true
 
 related:
-  - title: "Genocide Recognition: an Australian story"
-    excerpt: "May it appears is the month of genocide recognition amongst the Australian parliaments, with Tasmania being the latest one to adopt a resolution of recognition of the Genocides of the Hellenes, Armenians and Assyrians on Thursday 11 May."
-    publishedDateTime: 2023-05-13T23:06:00Z
-    webUrl: "https://neoskosmos.com/en/2023/05/14/dialogue/opinion/genocide-recognition-an-australian-story/"
+  - title: "Rugby Australia adds its voice to other sports codes supporting yes vote"
+    excerpt: "Rugby Australia is the latest major sporting code to back the Indigenous voice to parliament, joining a growing list of elite sports pushing for a yes vote in this year’s referendum."
+    publishedDateTime: 2023-05-17T14:04:00Z
+    webUrl: "https://www.theaustralian.com.au/sport/rugby-union/rugby-australia-adds-its-voice-to-other-sports-codes-supporting-yes-vote/news-story/6a74bff0cec4070f704964fe30d2852e"
+    ampWebUrl: "https://www.theaustralian.com.au/sport/rugby-union/rugby-australia-adds-its-voice-to-other-sports-codes-supporting-yes-vote/news-story/6a74bff0cec4070f704964fe30d2852e?amp"
+    cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/sport/rugby-union/rugby-australia-adds-its-voice-to-other-sports-codes-supporting-yes-vote/news-story/6a74bff0cec4070f704964fe30d2852e?amp"
     type: article
     provider:
-      name: Neos Kosmos
-      domain: neoskosmos.com
-    quality: 24
-    images:
-      - url: "https://cdn1.neoskosmos.com/uploads/sites/2/2023/05/genocideopinion2-PRI_15986-e1684022952308.jpg"
-        width: 1900
-        height: 1104
-        isCached: true
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 23
+  - title: "AI Car Damage Scanner Wins Over Australia‘s Top Insurance Firm"
+    excerpt: "Many large insurance providers have issues with consistently assessing vehicles and generating claim estimates. Ravin AI says it improves the accuracy of vehicle assessments, redu"
+    publishedDateTime: 2023-05-16T08:29:00Z
+    webUrl: "https://nocamels.com/2023/05/ai-car-damage-scanner-wins-over-australias-top-insurance-firm/"
+    type: article
+    provider:
+      name: NoCamels - Israeli Innovation News
+      domain: nocamels.com
+    quality: 17
 
 secured: "4UYWnjCpl1JRP84dgMJ3R4Ve/MJ+gKvv5o255tLau9PsIeFgPnaO150o0hPN6FbDqnPVnGqeOhtpUmQ/M7CisolzvYFYzpuR1VH/zJYcqraInPKfCrfceMWE4pBYvwwn9OHfl21YCGCXMq26jmweZt/Z+soZMECDKQx0WOOe8DlRVCS+l7vxQ2p5zBm3IV/J9WFgJh871uhjT/yHtzhlXiyiXec98jHgTcPjbgLWpiWD8IJ71bLJEui35SBzsfridgtffNl3+7B8M357fPo2h/dkj0UznriItR2K+8Z5dVfAFNMs8Dl93T69NxCWzOIIMrDB3U7T626qcRSMO6sR5KpRGChkKtXERbVkaDpfZnQ=;dAXVfSoAuyDCzlsTQjTwew=="
 ---

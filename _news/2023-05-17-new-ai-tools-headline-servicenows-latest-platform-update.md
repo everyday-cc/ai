@@ -19,29 +19,38 @@ topics:
   - AI
 
 related:
-  - title: "Upstage unveils new AI services"
-    excerpt: "Upstage, a local artificial intelligence (AI) technology startup, has unveiled two AI services according to the company, Tuesday. The services are Document AI Pack, an optical character recognition (OCR) technology-based document processor; and AskUp ..."
-    publishedDateTime: 2023-05-16T07:57:00Z
-    webUrl: "https://koreatimes.co.kr/www/tech/2023/05/133_351073.html"
+  - title: "ServiceNow partners with Nvidia to develop ‘super-specialized’ generative AI for enterprises"
+    excerpt: "Workflow automation vendor ServiceNow today partnered with Nvidia to build custom generative AI models for enterprise IT workflows."
+    publishedDateTime: 2023-05-17T17:00:00Z
+    webUrl: "https://venturebeat.com/ai/servicenow-partners-with-nvidia-to-develop-super-specialized-generative-ai-for-enterprises/"
+    ampWebUrl: "https://venturebeat.com/ai/servicenow-partners-with-nvidia-to-develop-super-specialized-generative-ai-for-enterprises/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/servicenow-partners-with-nvidia-to-develop-super-specialized-generative-ai-for-enterprises/amp/"
     type: article
     provider:
-      name: The Korea Times
-      domain: koreatimes.co.kr
-    quality: 37
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 76
     images:
-      - url: "https://koreatimes-bucket.s3.ap-northeast-2.amazonaws.com/IMAGE/upload/newsV2/images/202305/8851d866df8148e0a793b0c9fe05f8fa.jpg"
-        width: 980
-        height: 653
+      - url: "https://venturebeat.com/wp-content/uploads/2019/11/enterprise-e1627412579683.jpg?w=1200&strip=all"
+        width: 1200
+        height: 599
         isCached: true
-  - title: "Artificial Intelligence: Boost.ai Unveils Large Language Model Enhancements to Conversational AI Platform"
-    excerpt: "Boost.ai, a conversational AI solution provider, today announced Version 12 of its platform, the first of a series of planned updates by the company."
-    publishedDateTime: 2023-05-14T17:28:00Z
-    webUrl: "https://www.crowdfundinsider.com/2023/05/207054-artificial-intelligence-boost-ai-unveils-large-language-model-enhancements-to-conversational-ai-platform/"
+  - title: "Knowledge 2023 - ServiceNow pitches the ‘exponential enterprise’ as it announces ERP workflows and generative AI tools"
+    excerpt: "ServiceNow pitches the ‘exponential enterprise’ as it announces ERP workflows and generative AI tools Some 15,000 attendees descended on Las Vegas this week for ServiceNow’s annual user event, Knowledge,"
+    publishedDateTime: 2023-05-16T20:44:00Z
+    webUrl: "https://diginomica.com/knowledge-2023-servicenow-pitches-exponential-enterprise-it-announces-erp-workflows-and-generative"
+    ampWebUrl: "https://diginomica.com/knowledge-2023-servicenow-pitches-exponential-enterprise-it-announces-erp-workflows-and-generative?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/knowledge-2023-servicenow-pitches-exponential-enterprise-it-announces-erp-workflows-and-generative?amp"
     type: article
     provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 15
+      name: Diginomica
+      domain: diginomica.com
+    quality: 35
+    images:
+      - url: "https://diginomica.com/sites/default/files/images/2023-05/928E053D-C767-4B3F-9A73-B48F5CE5CC5B.jpeg"
+        width: 4000
+        height: 3000
+        isCached: true
 
 secured: "/60RW19b6+GU6STWOMevNjSDD9hwjzQCCcOCffqdvyJRG+styRfqm6p/Ca4UjIwH0p7YfuJYVQ5zkhCsGKw4H5YbHp5Eksfuuyw8PXtGNLhkQUUgWtbC3iqzEPGhz/MDKB2rRMO2yz94JNACGnJcfrEO7CdkzjpD7uDrNOyjPwBeYJplZJEVkntzbelWxnXPplxwCChG8TzqOFAENtUJhUOsTv90BCKUdXVg+Qr9m+fT0yAdXSobjNRtc1Jenttg79oO932HvzWAxQK4RqMe0ds30+MfOXyZgxEco7DoO2pgzEHylFWZ0m4rfGmDu+cNhQXd2Jj94h4y4DTURhLzksBdMFqywdcZRdeIiQMguuvKof2ZXvznPHxbG0kaQNxa4OxyZBPN1sn3MIj2qrZ3s5eiDXqEAtE9jQAh4VWXUlqgm9TDvbqb0e0kaEcwHFLLj8PoUnsIYD26aGCFVbM9AqH3XyB6AuzCtA1WYkaUc5LmnV4XicoKTsQcCoDE4XId60OfeUgYPkfhcAR5Eu8zRg==;XJuvagHt2yN1pud0BfE0fw=="
 ---

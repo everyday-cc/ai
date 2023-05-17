@@ -62,17 +62,6 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "AI Governance Market to Reach a Revenue of Around US$ 4.7 billion by the End of 2033 at a CAGR of 40.5% | Persistence Market Research"
-    excerpt: "According to Persistence Market Research, the global artificial intelligence (AI) governance market solutions is predicted to skyrocket at a CAGR of 40.5% from 2023 to 2033."
-    publishedDateTime: 2023-05-13T00:45:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/05/g32376783/ai-governance-market-to-reach-a-revenue-of-around-us-4-7-billion-by-the-end-of-2033-at-a-cagr-of-4"
-    ampWebUrl: "https://www.benzinga.com/amp/content/32376783"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32376783"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 8
   - title: "Industrial Machine Vision Market is Anticipated to Develop at a CAGR of 6.9% from 2022 to 2032 | Report by FMI"
     excerpt: "The market for industrial machine vision worldwide is anticipated to reach $8.45 billion in 2022. During the projected period (2022-2032), the market is expected to grow at a CAGR of 6.9% and reach a value of US$ 16."
     publishedDateTime: 2023-05-16T01:37:00Z

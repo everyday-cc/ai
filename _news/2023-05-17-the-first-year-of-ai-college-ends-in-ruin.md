@@ -70,6 +70,20 @@ related:
         width: 3000
         height: 1688
         isCached: true
+  - title: "How ChatGPT and artificial Intelligence are impacting education"
+    excerpt: "From finance to health care to policing, artificial intelligence is becoming more commonplace by the day. It’s also becoming harder to avoid in our schools. ChatGPT is a chatbot that generates startlingly human-like text in response to brief prompts."
+    publishedDateTime: 2023-05-17T15:30:00Z
+    webUrl: "https://www.wfae.org/show/charlotte-talks-with-mike-collins/2023-05-17/how-chatgpt-and-artificial-intelligence-are-impacting-education"
+    type: article
+    provider:
+      name: WFAE
+      domain: wfae.org
+    quality: 56
+    images:
+      - url: "https://npr.brightspotcdn.com/dims4/default/f084be8/2147483647/strip/true/crop/5321x2794+0+598/resize/1200x630!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2023%2F01%2F25%2Fgettyimages-488893054-9cacac05ea39cc2170c1f9af7703fe3338985f17.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Dr. ChatGPT: A guide to generative AI in healthcare"
     excerpt: "ChatGPT is a public-facing generative AI text application from OpenAI. OpenAI has developed other generative AI applications available for paying customers and is working with Microsoft, which made a reported $100 billion investment in the company. Other big tech firms such as Google and Meta have launched their own generative AI tools."
     publishedDateTime: 2023-05-15T10:00:00Z

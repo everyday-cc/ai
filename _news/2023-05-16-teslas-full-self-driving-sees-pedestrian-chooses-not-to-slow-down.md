@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/cars/2023/05/teslas-full-self-driving-sees-p
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/cars/2023/05/teslas-full-self-driving-sees-pedestrian-chooses-not-to-slow-down/amp/"
 type: article
 quality: 89
-heat: 110
+heat: 120
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Self-driving Tesla doesn’t yield for pedestrian. Tesla fan cheers."
+    excerpt: "A seven-second self-driving Tesla video posted to Twitter this past weekend shows a likely illegal driving event in San Francisco that, unfortunately, happens all the time in ordinary situations. It’s the poster’s reaction that has left many online unsettled."
+    publishedDateTime: 2023-05-17T17:53:00Z
+    webUrl: "https://mashable.com/article/tesla-fsd-update-not-stopping-for-pedestrian"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 69
+    images:
+      - url: "https://helios-i.mashable.com/imagery/articles/03VEJGPAmbDu0nZlRKkPora/hero-image.fill.size_1200x675.v1684343324.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Tesla to roll out free Full Self-Driving software, but there's a catch"
     excerpt: "Tesla will initially roll out the FSD as a free trial version for one month before initiating a subscription for the users."
     publishedDateTime: 2023-05-15T07:41:00Z

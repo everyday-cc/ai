@@ -1,21 +1,30 @@
 ---
 category: news
-title: "ChatGPT chief says artificial intelligence should be regulated by a US or global agency"
-excerpt: "The head of the artificial intelligence company that makes ChatGPT has told Congress that government intervention will be critical to mitigating the risks of increasingly powerful AI systems. OpenAI CEO Sam Altman testified at a Senate hearing Tuesday that he supports the formation of a U."
-publishedDateTime: 2023-05-16T21:53:00Z
-originalUrl: "https://apnews.com/article/technology-science-united-states-us-news-artificial-intelligence-73ff96c6571f38ad5fd68b3072722790"
-webUrl: "https://apnews.com/article/technology-science-united-states-us-news-artificial-intelligence-73ff96c6571f38ad5fd68b3072722790"
+title: "ChatGPT chief says artificial intelligence should be regulated by a U.S. or global agency"
+excerpt: "The head of the artificial intelligence company that makes ChatGPT told Congress on Tuesday that government intervention will be critical to mitigating the risks of increasingly powerful AI systems."
+publishedDateTime: 2023-05-16T17:27:00Z
+originalUrl: "https://www.ctvnews.ca/sci-tech/chatgpt-chief-says-artificial-intelligence-should-be-regulated-by-a-u-s-or-global-agency-1.6391175"
+webUrl: "https://www.ctvnews.ca/sci-tech/chatgpt-chief-says-artificial-intelligence-should-be-regulated-by-a-u-s-or-global-agency-1.6391175"
+ampWebUrl: "https://beta.ctvnews.ca/national/sci-tech/2023/5/16/1_6391175.amp.html"
+cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/national/sci-tech/2023/5/16/1_6391175.amp.html"
 type: article
-quality: 9
+quality: 50
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: CTV News
+  domain: ctvnews.ca
 
 topics:
+  - AI in Autos
   - AI
+
+images:
+  - url: "https://beta.ctvnews.ca/content/dam/ctvnews/images/2023/2/17/1_6215439.jpg"
+    width: 1020
+    height: 574
+    isCached: true
 
 related:
   - title: "Combining Generative AI ChatGPT Into Handguns Triggers Fiery Response"
@@ -560,6 +569,6 @@ related:
       domain: yourstory.com
     quality: 1
 
-secured: "BmlBmcAWn5jYd9rIQbX20nTYaR+tabNKKNZvQFjSKAntOMMnCNWIOFFp8HLo0WP8oO4Bp30dOViM+PhEDuxa980b5BTUnb5Dx/AbYD+KSO5N0uhaYCVxwUGmS8jZ+W3l/3OJp72w81Ieks1Q+olOUcoIRSs87Qf60NJyewGgAHG+SzVvJcFYxyzqRMFXGPDqz5Ks2GDTzhJgyjFAPMp40CLf2EdJF3vAfAkU56N+HXGdGHXBUcAXgihkz616sjm+7fnA0j8MHC1n/AaO9K4PPFXG+mjl1rJaY8z/a5fhOojHMZoDwvGGY3E6s71zC46lDMsDyc3T257zPk/1InlYipB8QTNVTsHOvIVORErny9HHt+9mQjTJ6dZjjP2xPGV6G8khZN7DBBRdSTgGkI5i3BcNIkS71U7iTVfSJmCJ/+0RliwyNVwW4QObLcpccNmubEfZxqn0Z47ZSLEN8x7RUmdLfw4OdUIlgTg0RwpxRfv76ieI2J27xmCqsr8IzjxDbgv5gTqHIEvzbFWP8BCxhg==;uGTPt/YKVbgil2zZkA1GJw=="
+secured: "aOQ9gLCXURFNwSgrPA7hVnmrKxbtx1Ah5fQgPCUNLuQEK5wjMaqzAEXK1AeGFzKKOOvr72hhlywpiJ4/xdqZ+5yKCbrTRhms1Q4eB4jwZfVuPpj1E49+wap3nR9iIhwBj+c68d4IM2GvUAPAhZcO71TCpuXh0IlinwYZHNrrEygvghODi5EgvRA++ufAylsUHMzhRZyuIHhwK8c24S5C4NjthpfJWnY8XJKgxo4HjoDNTDj0xzIkFCtj2IQ8NS4FuceXljW6TNCOvsotk7hCDiKfv5gFinXFJp+0V2ZwY5FkCRaZHn9tKNt+CsyaimRbLqa8s4tNr8+E59tYPa4wRJf6S8OcEjl11iwHbsm1bJw=;gvDhKa9Lwdpd/87Wo1B/BA=="
 ---
 
