@@ -2,6 +2,58 @@
   "page": 48,
   "value": [
     {
+      "path": "_news/2023-04-18-elon-musk-plans-truthgpt-ai-to-rival-openai-deepmind.md",
+      "title": "Elon Musk plans 'TruthGPT' A.I. to rival OpenAI, DeepMind",
+      "excerpt": "Tesla, SpaceX and Twitter CEO Elon Musk called for regulation of AI during a taped interview that aired on Fox News Channel's \"Tucker Carlson Tonight.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/04/18/musk-calls-plans-truthgpt-ai-to-rival-openai-deepmind.html",
+      "originalUrl": "https://www.cnbc.com/2023/04/18/musk-calls-plans-truthgpt-ai-to-rival-openai-deepmind.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107183730-1674656520668-gettyimages-1246506636-TESLA_MUSK_COURT.jpeg?v=1681820167",
+          "width": 4000,
+          "height": 2667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2023/04/18/musk-calls-plans-truthgpt-ai-to-rival-openai-deepmind.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/04/18/musk-calls-plans-truthgpt-ai-to-rival-openai-deepmind.html",
+      "publishedDateTime": "2023-04-18T05:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-18-19-ways-ai-may-soon-revolutionize-the-healthcare-industry.md",
       "title": "19 Ways AI May Soon Revolutionize The Healthcare Industry",
       "excerpt": "From managing administrative tasks to analyzing big data to help diagnose disease, AI may soon be enhancing and accelerating cutting-edge patient care.",
@@ -1067,57 +1119,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-18-google-may-add-new-ai-features-to-search-the-new-york-times-reports.md",
-      "title": "Google may add new AI features to search, The New York Times reports",
-      "excerpt": "Internal Google messages reveal changes in response to the rapidly-moving field of artificial intelligence in search engines.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/google-search-artificial-intelligence-samsung/",
-      "originalUrl": "https://www.techrepublic.com/article/google-search-artificial-intelligence-samsung/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/wp-content/uploads/2023/03/tr32223-google-logo-googleplex-770x513.jpeg",
-          "width": 770,
-          "height": 513,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/article/google-search-artificial-intelligence-samsung/amp/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/google-search-artificial-intelligence-samsung/amp/",
-      "publishedDateTime": "2023-04-17T13:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

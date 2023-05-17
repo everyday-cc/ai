@@ -25,28 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "dataPARC Introduces AWS and Azure-Compatible Data Historian Platform for Advanced Industrial Applications and Cloud AI/ML Integration"
-    excerpt: "PRNewswire/ -- dataPARC, innovators in industrial analytics and manufacturing decision support, today announced the release of its next-generation data historian platform, aimed at delivering federated plant operations data to engineering,"
-    publishedDateTime: 2023-05-16T14:16:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/05/16/9815052.htm"
+  - title: "Cockroach Labs Unveils CockroachDB-as-a-Service on Azure and Multi-Region Serverless Platform"
+    excerpt: "Cockroach Labs, the company behind the leading independent cloud-native distributed SQL database CockroachDB, today announced"
+    publishedDateTime: 2023-05-16T16:18:00Z
+    webUrl: "https://www.datanami.com/this-just-in/cockroach-labs-unveils-cockroachdb-as-a-service-on-azure-and-multi-region-serverless-platform/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 37
-  - title: "Saifr introduces risk interpretation and suggested language AI models for compliant content creation"
-    excerpt: "Saifr, an AI-focused regulatory technology (RegTech) provider that assists financial institutions with the creation, review, and approval of communications to help mitigate brand, regulatory, and reputational risk,"
-    publishedDateTime: 2023-05-16T14:53:00Z
-    webUrl: "https://www.finextra.com/pressarticle/96868/saifr-introduces-risk-interpretation-and-suggested-language-ai-models-for-compliant-content-creation"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 24
+      name: datanami.com
+      domain: datanami.com
+    quality: 28
     images:
-      - url: "https://www.finextra.com/about/finextra-logo.png"
-        width: 512
-        height: 512
+      - url: "https://www.datanami.com/wp-content/uploads/2023/02/AI-North-America23.png"
+        width: 1664
+        height: 674
         isCached: true
 
 secured: "3MRAkmvx5jh3Fcqmw9Z4Gazj852ixgxkxKcP9BQgXsJdUm9rYmnLFptU6z8LB4ApotfYZ3DXZGE0geZ6zTCJdE6Qhtq+oN5ZyAiHkcSYCX9v3BQVghPmo0wjb2Kl6ctHo59ZEp83Xm2y4YLgaOYwMTjq7bsZ4KLyH1YDr1wglR/C60GadAhWzZlPaNRlyown4feb111DlEUQFwbFnel9ES59HU8KScT8nPsz8Skr3fcxTkciYOsPFoQzsbIAL8QvJqbvmvU2eZYR+Yc2DS8LsZ+TLuhqkrnGjzrC2LwtIiv1NRgRN7BE/SsBRJ0ejFwd648WwTfKhllKBMSDEpP1dx3fXKTbcAZzEctWgwAPhNBbPnJFubfDtFYyDyOrUrbgU1QRwZgHdbKs/HR/waeVd4uCn+Fw1MR8glnVYIvOVflElw0g4q9Nl09uifWSY68tcrzDkj+tmztkSpdr/3dCwcyfiaAtmjwdeLzcgFPGbOce+VZrPocy7fq1kmnDt9CH+YAP2UoAZwwAHy18x/A1jA==;4GtXTKmGb5gz8HMe+srVQw=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dqindia.com/future-of-ai-in-e-commerce-transforming-data
 cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/future-of-ai-in-e-commerce-transforming-data-with-ml-and-computer-vision/amp/"
 type: article
 quality: 70
-heat: 70
+heat: 80
 published: true
 
 provider:
@@ -20,6 +20,22 @@ topics:
   - Computer Vision
   - AI
   - Machine Learning
+
+related:
+  - title: "GIGABYTE To Introduce Leading-Edge AI Solutions And Computers At COMPUTEX 2023, Unveiling“Future Of COMPUTING” - AETOSW..."
+    excerpt: "GIGABYTE, a leading innovator of computer hardware and server solutions, announces its unprecedented exhibits at COMPUTEX 2023. R"
+    publishedDateTime: 2023-05-17T08:49:00Z
+    webUrl: "https://menafn.com/1106260387/GIGABYTE-To-Introduce-Leading-Edge-AI-Solutions-And-Computers-At-COMPUTEX-2023-UnveilingFuture-Of-COMPUTING-AETOSW"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 13
+    images:
+      - url: "https://menafn.com/updates/pr/2023-05/17/A_03834image_story.jpg"
+        width: 480
+        height: 270
+        isCached: true
 
 secured: "b3HaeRpDdA4lF9EStCsM189gLzHhPBzYLGgOLBmYLzwF/DjPLGs1f32ZI4GkPeMcO9wK3Xx72CQxFuinJ+qmWaHLoiAemVk/tNChT6uAM+LB9nXUyULy0iPt+6gQ02wHwGifI88uBvytrcYcGqE9o7EVoUCUv0LN1//2Mw9Q76n5qc7iLx56O4XttB6puGYLVlvRHgpGw7KdOoQxTDqLecj0qp58lUbrRfBM/Upi0Eufb9kYT1cW7YL2Z6RiYAt3fm/6YQAZc4e/MF6fiU5qUycm01Fa1fGoUKiQ4Smp470AdAPiwnQtn8UZBbMNsm22u/4Z0zkbfkUu3F+smrERGjqOt0XjcGYRNaAPsXnSAi5QXjegKsOQqA/MviXdmZFpwqlMPopLC3tfTJPiUkJ5GIEe+i6b91yrRxV8ExUdeSxaAckVFZZnilNjUgUqNqLPgFAr6XfMh3SxZ7v2MRLP7/9YogjkcWxBedkQfYG3hcD4miNXMRyl7BBYjqHbpYwGx0OMQHyWvzivEUKfG0mC4g==;dmwxpClicNTMmrKHQDL/dQ=="
 ---

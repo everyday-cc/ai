@@ -2,6 +2,49 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2023-04-28-self-driving-ai-lab-awarded-200m-grant-to-pursue-new-drugs-materials.md",
+      "title": "‘Self-driving’ AI lab awarded $200M grant to pursue new drugs, materials",
+      "excerpt": "A “self-driving lab” that’s using artificial intelligence (AI) to reverse engineer how to make things like new medicines, sustainable plastic alternatives and anti-corrosive building ...",
+      "sourceUrl": null,
+      "webUrl": "https://globalnews.ca/news/9657567/ai-canada-university-of-toronto-self-driving-lab-research-grant-acceleration-consortium/",
+      "originalUrl": "https://globalnews.ca/news/9657567/ai-canada-university-of-toronto-self-driving-lab-research-grant-acceleration-consortium/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://globalnews.ca/wp-content/uploads/2023/04/Untitled-design-38.png",
+          "width": 1024,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://globalnews.ca/news/9657567/ai-canada-university-of-toronto-self-driving-lab-research-grant-acceleration-consortium/amp/",
+      "cdnAmpWebUrl": "https://globalnews-ca.cdn.ampproject.org/c/s/globalnews.ca/news/9657567/ai-canada-university-of-toronto-self-driving-lab-research-grant-acceleration-consortium/amp/",
+      "publishedDateTime": "2023-04-28T09:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Global News",
+        "domain": "globalnews.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-28-aimachine-learning-market-size-trends-and-forecast-2030.md",
       "title": "AI/Machine Learning Market Size, Trends and Forecast 2030",
       "excerpt": "The latest independent research report on AI/Machine Learning Market 2023 explore investment in Market. It classify",
@@ -1105,57 +1148,6 @@
         "AI in Finance",
         "AI",
         "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2023-04-28-big-apartment-landlords-lean-in-to-ai-and-proptechs-as-profit-squeezes-loom.md",
-      "title": "Big apartment landlords lean in to AI and proptechs as profit squeezes loom",
-      "excerpt": "Rising interest rates have turned multifamily buildings from surefire income into an accounting problem. Proptechs are stepping up.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/apartment-landlords-tap-money-saving-proptech-profit-squeeze-2023-4",
-      "originalUrl": "https://www.businessinsider.com/apartment-landlords-tap-money-saving-proptech-profit-squeeze-2023-4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/644acb53edc7ea00183318cf?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-28T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

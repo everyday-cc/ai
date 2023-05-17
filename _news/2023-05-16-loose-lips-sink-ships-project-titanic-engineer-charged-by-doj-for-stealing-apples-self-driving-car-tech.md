@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 903
         isCached: true
+  - title: "Ex-Apple engineer accused of stealing self-driving cars technology for China. Details"
+    excerpt: "The DoJ indictment alleges a total of six separate counts that include theft of entire autonomy source code, tracking for an autonomous system, behavior planner for an autonomous system, among others."
+    publishedDateTime: 2023-05-17T08:59:00Z
+    webUrl: "https://www.livemint.com/auto-news/exapple-engineer-accused-of-stealing-self-driving-cars-technology-for-china-details-11684313681829.html"
+    ampWebUrl: "https://www.livemint.com/auto-news/exapple-engineer-accused-of-stealing-self-driving-cars-technology-for-china-details/amp-11684313681829.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/auto-news/exapple-engineer-accused-of-stealing-self-driving-cars-technology-for-china-details/amp-11684313681829.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 52
+    images:
+      - url: "https://www.livemint.com/lm-img/img/2023/05/17/600x338/AFP_1KE7TM_1568889762699_1684313857494.jpg"
+        width: 600
+        height: 338
+        isCached: true
   - title: "Ex-Apple employee charged with stealing car tech for China; is now exec at Baidu’s self-driving car JV"
     excerpt: "Apple has been rumoured to be working on a self-driving car for years. It is said to be one of the biggest projects that the iPhone maker is working o"
     publishedDateTime: 2023-05-17T03:06:00Z

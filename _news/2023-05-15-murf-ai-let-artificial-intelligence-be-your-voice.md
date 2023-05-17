@@ -7,8 +7,8 @@ originalUrl: "https://technology.inquirer.net/124071/murf-ai-generates-quality-v
 webUrl: "https://technology.inquirer.net/124071/murf-ai-generates-quality-voiceovers"
 type: article
 quality: 52
-heat: 72
-published: true
+heat: 62
+published: false
 
 provider:
   name: Philippine Daily Inquirer
@@ -24,17 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "9 Ways AI Can Make Your Life Easier"
-    excerpt: "Artificial intelligence (AI) isn’t just a buzzword or a futuristic concept anymore. It's a complex technology that's already transforming our daily lives, making them easier, and more efficient. Here"
-    publishedDateTime: 2023-05-12T15:09:00Z
-    webUrl: "https://www.benzinga.com/general/23/05/32366652/9-ways-ai-can-make-your-life-easier"
-    ampWebUrl: "https://www.benzinga.com/amp/content/32366652"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32366652"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 39
   - title: "Tracking Generative AI: How Evolving AI Models Are Impacting Legal"
     excerpt: "A running compilation of how the legal landscape continues to be shaped by generative AI tools, from GPT technologies to art generation tools and beyond."
     publishedDateTime: 2023-05-16T01:23:00Z

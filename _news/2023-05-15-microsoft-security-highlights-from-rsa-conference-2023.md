@@ -132,20 +132,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Triumph Tech CEO: AWS Will Win ‘AI War’ Vs. Google, Microsoft"
-    excerpt: "Generative AI market of Amazon, Google and Microsoft’s OpenAI ChatGPT will be won by AWS due to the cloud company’s artificial intelligence customization and scalability, says Triumph Technology Solutions CEO."
-    publishedDateTime: 2023-05-12T15:29:00Z
-    webUrl: "https://www.crn.com/news/cloud/triumph-tech-ceo-aws-will-win-ai-war-vs-google-microsoft"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 71
-    images:
-      - url: "https://www.crn.com/resources/0281-17fee2fdcd7a-2e9db2bde58c-1000/vic-raymond.jpeg"
-        width: 611
-        height: 458
-        isCached: true
   - title: "Microsoft’s in-house AI chip could ‘hasten’ product rollout, cut costs"
     excerpt: "Microsoft is reportedly working on its own chips for training AI models, which could help expand its cloud AI offerings and tighten competition with rivals AWS and Google Cloud. The move could allow Microsoft to further expand its generative AI products,"
     publishedDateTime: 2023-05-15T14:11:00Z

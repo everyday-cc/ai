@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2023-05-17-tesla-bot-ai-humanoid-robots-learn-new-tricks.md",
-      "title": "Tesla Bot AI humanoid robots learn new tricks",
-      "excerpt": "Tesla AI have released a new demonstration video providing a glimpse at what the companies new artificial intelligent humanoid robots are",
+      "path": "_news/2023-05-17-tesla-updates-ai-trained-robot-army-takes-new-bots-for-a-walk.md",
+      "title": "Tesla updates AI-trained robot army, takes new bots for a walk",
+      "excerpt": "When it was first revealed at the Tesla AI Day 2022, the humanoid robot needed assistance from staff and could barely stand.",
       "sourceUrl": null,
-      "webUrl": "https://www.geeky-gadgets.com/tesla-bot-ai-humanoid-robots-17-05-2023/",
-      "originalUrl": "https://www.geeky-gadgets.com/tesla-bot-ai-humanoid-robots-17-05-2023/",
+      "webUrl": "https://cointelegraph.com/news/tesla-robot-army-takes-a-walk",
+      "originalUrl": "https://cointelegraph.com/news/tesla-robot-army-takes-a-walk",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 101,
       "tags": null,
       "images": [
         {
-          "url": "https://www.geeky-gadgets.com/wp-content/uploads/2023/05/Tesla-Bot-AI-humanoid-robots.jpg",
-          "width": 700,
-          "height": 458,
+          "url": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=740/https://s3.cointelegraph.com/uploads/2023-05/48bbada3-10a1-4d54-813d-2764c5b0ce1c.jpg",
+          "width": 740,
+          "height": 492,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,13 +24,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-17T00:18:00-07:00",
+      "ampWebUrl": "https://cointelegraph.com/news/tesla-robot-army-takes-a-walk/amp",
+      "cdnAmpWebUrl": "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/tesla-robot-army-takes-a-walk/amp",
+      "publishedDateTime": "2023-05-17T01:40:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Geeky Gadgets",
-        "domain": "geeky-gadgets.com",
+        "name": "CoinTelegraph",
+        "domain": "cointelegraph.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -106,7 +106,7 @@
       "originalUrl": "https://www.forbes.com/sites/anafaguy/2023/05/16/ex-apple-employee-stole-self-driving-car-tech-for-chinese-competitor-doj-alleges/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -296,7 +296,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/self-driving-wheelchair-market-size-investigation-report-2023-2030-by-absolute-reports-in-healthcare-medical-devices-industry-with-104-pages-2023-05-15",
       "featuredContent": null,
       "highlight": null,
-      "heat": 93,
+      "heat": 103,
       "tags": null,
       "images": [
         {

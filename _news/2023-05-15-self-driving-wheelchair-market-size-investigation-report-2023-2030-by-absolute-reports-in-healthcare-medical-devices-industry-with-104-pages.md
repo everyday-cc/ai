@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/self-driving-wheelchair-
 webUrl: "https://www.marketwatch.com/press-release/self-driving-wheelchair-market-size-investigation-report-2023-2030-by-absolute-reports-in-healthcare-medical-devices-industry-with-104-pages-2023-05-15"
 type: article
 quality: 63
-heat: 93
+heat: 103
 published: true
 
 provider:
@@ -39,6 +39,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 59
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Artificial Intelligence In Insurtech Market 2023-2030 by Size|Precisionreports.co"
+    excerpt: "May 16, 2023 (The Expresswire) -- \"Artificial Intelligence In Insurtech Market\" Reports recently released an executive data report that focuses on the"
+    publishedDateTime: 2023-05-16T18:51:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-insurtech-market-2023-2030-by-sizeprecisionreportsco-2023-05-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 58
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

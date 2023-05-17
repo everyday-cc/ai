@@ -10,7 +10,7 @@
       "originalUrl": "https://www.zdnet.com/article/these-4-popular-microsoft-apps-are-getting-a-big-ai-boost/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 256,
+      "heat": 246,
       "tags": null,
       "images": [
         {
@@ -158,7 +158,7 @@
       "originalUrl": "https://www.forbes.com/sites/timbajarin/2023/05/16/cheat-sheets-for-ai-information-overload/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 157,
+      "heat": 147,
       "tags": null,
       "images": [
         {
@@ -496,6 +496,60 @@
       ]
     },
     {
+      "path": "_news/2023-05-16-dataparc-introduces-aws-and-azure-compatible-data-historian-platform-for-advanced-industrial-applications-and-cloud-aiml-integration.md",
+      "title": "dataPARC Introduces AWS and Azure-Compatible Data Historian Platform for Advanced Industrial Applications and Cloud AI/ML Integration",
+      "excerpt": "PARC Introduces AWS and Azure-Compatible Data Historian Platform for Advanced Industrial Applications and Cloud AI/ML Integration May 16,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/dataparc-introduces-aws-and-azure-compatible-data-historian-platform-for-advanced-industrial-applications-and-cloud-aiml-integration-2023-05-16",
+      "originalUrl": "https://www.marketwatch.com/press-release/dataparc-introduces-aws-and-azure-compatible-data-historian-platform-for-advanced-industrial-applications-and-cloud-aiml-integration-2023-05-16",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-16T05:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-16-how-to-achieve-high-impact-personalization-at-scale-with-managed-marketing-services.md",
       "title": "How to achieve high-impact personalization at scale with managed marketing services",
       "excerpt": "To help companies better deliver on their marketing vision and scale their marketing business processes, managed marketing services (MMS) offshore has become a fast growing trend. According to an Everest Group&#174; study, offshore MMS centers increased over 50% from 2019 to 2022. What&#8217;s more,",
@@ -814,7 +868,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/2023-deep-learning-market-price-news-with-size-forecast-2030-2023-05-15",
       "featuredContent": null,
       "highlight": null,
-      "heat": 80,
+      "heat": 90,
       "tags": null,
       "images": [
         {
@@ -1209,48 +1263,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-16-online-search-to-make-up-lost-time-with-ai.md",
-      "title": "Online Search To Make Up Lost Time With AI",
-      "excerpt": "Online search, dominated by Google for 25 years, has become as banal as making a phone call, but it could finally be getting a profound reset thanks to artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/news/online-search-to-make-up-lost-time-with-ai-8ef011d",
-      "originalUrl": "https://www.barrons.com/news/online-search-to-make-up-lost-time-with-ai-8ef011d",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.barrons.com/asset/external-media/afp/AFP4218075234965310178666011516179357766924---1.jpg",
-          "width": 768,
-          "height": 482,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.barrons.com/amp/news/online-search-to-make-up-lost-time-with-ai-8ef011d",
-      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/online-search-to-make-up-lost-time-with-ai-8ef011d",
-      "publishedDateTime": "2023-05-15T18:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

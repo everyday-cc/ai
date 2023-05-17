@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Neural Networks Market Size, Key Segments, Share, Trends, Growth, and Forecast 2031"
+    excerpt: "The global Artificial Neural Networks industry report provides top-notch qualitative and quantitative information including: Market size (2017-2021 value and 2022 forecast). The report also contains descriptions of key players,"
+    publishedDateTime: 2023-05-16T11:33:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-neural-networks-market-size-key-segments-share-trends-growth-and-forecast-2031-2023-05-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 57
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "LerCWPo0gog6yenQBhBS9GxQst3yJXkrvS21x121JE4LJJJF6W2h90MbYkNJFkY9AEvdkuvWbskXhFsGcXTtBviefJ/gsUS9avqHiY6aOUjLWd5OdDsfbFCBuHm959o6ndOngSsqoSQzc1p4qNeQuE4g/HFJgR44LOUzYTJkabj4ae7Ww6BxHs+acsIuJ9IzVmrIbuoVuLGhQ/4c5fkbwcAiXIVkL+/L0AuXgWwfOyFXSFv21rHu0lspHN9+Eu1TrKI8LQlBAU2IrQPbvU/X/DLCUi1ys8CoRcoMPAP7mEZKyoo9YCsYalmEKg9AUU7X1Voe6unMQO4iUgLMBoOEmZzcjAiLht+83AtSfKXpugs=;qKFHveXYKtbgomg6d6rzQA=="
 ---

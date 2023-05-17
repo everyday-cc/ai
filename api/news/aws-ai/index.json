@@ -106,6 +106,60 @@
       ]
     },
     {
+      "path": "_news/2023-05-16-dataparc-introduces-aws-and-azure-compatible-data-historian-platform-for-advanced-industrial-applications-and-cloud-aiml-integration.md",
+      "title": "dataPARC Introduces AWS and Azure-Compatible Data Historian Platform for Advanced Industrial Applications and Cloud AI/ML Integration",
+      "excerpt": "PARC Introduces AWS and Azure-Compatible Data Historian Platform for Advanced Industrial Applications and Cloud AI/ML Integration May 16,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/dataparc-introduces-aws-and-azure-compatible-data-historian-platform-for-advanced-industrial-applications-and-cloud-aiml-integration-2023-05-16",
+      "originalUrl": "https://www.marketwatch.com/press-release/dataparc-introduces-aws-and-azure-compatible-data-historian-platform-for-advanced-industrial-applications-and-cloud-aiml-integration-2023-05-16",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-16T05:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-15-demand-forecasting-at-getir-built-with-amazon-forecast.md",
       "title": "Demand forecasting at Getir built with Amazon Forecast",
       "excerpt": "This is a guest post co-authored by Nafi Ahmet Turgut, Mutlu Polatcan, Pınar Baki, Mehmet İkbal Özmen, Hasan Burak Yel, and Hamza Akyıldız from Getir. Getir is the pioneer of ultrafast grocery delivery. The tech company has revolutionized last-mile delivery with its “groceries in minutes” delivery proposition.",
@@ -1460,49 +1514,6 @@
         "AI",
         "AWS AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-03-private-ai-says-its-new-offering-allows-firms-to-safely-leverage-chatgpt.md",
-      "title": "Private AI says its new offering allows firms to safely leverage ChatGPT",
-      "excerpt": "Toronto-based Private AI, a developer of data privacy software offerings, yesterday launched PrivateGPT, an artificial intelligence (AI)-powered tool it said can help organizations “safely ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.itworldcanada.com/article/private-ai-says-its-new-offering-allows-firms-to-safely-leverage-chatgpt/538064",
-      "originalUrl": "https://www.itworldcanada.com/article/private-ai-says-its-new-offering-allows-firms-to-safely-leverage-chatgpt/538064",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.itworldcanada.com/wp-content/uploads/2023/05/GettyImages-1483618422.jpg",
-          "width": 703,
-          "height": 497,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itworldcanada.com/article/private-ai-says-its-new-offering-allows-firms-to-safely-leverage-chatgpt/538064?amp=1",
-      "cdnAmpWebUrl": "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/private-ai-says-its-new-offering-allows-firms-to-safely-leverage-chatgpt/538064?amp=1",
-      "publishedDateTime": "2023-05-02T13:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT World Canada",
-        "domain": "itworldcanada.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

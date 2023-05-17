@@ -71,6 +71,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Overview of Machine Learning Market Dynamics and Trends for 2023-2030"
+    excerpt: "The research report on the Machine Learning Market presents an efficient industry perspective, future patterns,"
+    publishedDateTime: 2023-05-17T07:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/overview-of-machine-learning-market-dynamics-and-trends-for-2023-2030-2023-05-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence in Oil and Gas Market by 2030"
     excerpt: "Precision Reports has published a new report titled as \"Artificial Intelligence in Oil and Gas Market\" by End User"
     publishedDateTime: 2023-05-13T05:16:00Z

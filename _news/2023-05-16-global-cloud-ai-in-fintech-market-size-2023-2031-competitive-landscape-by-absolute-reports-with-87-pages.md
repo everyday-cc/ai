@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Artificial Intelligence In Insurtech Market 2023-2030 by Size|Precisionreports.co"
+    excerpt: "May 16, 2023 (The Expresswire) -- \"Artificial Intelligence In Insurtech Market\" Reports recently released an executive data report that focuses on the"
+    publishedDateTime: 2023-05-16T18:51:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-insurtech-market-2023-2030-by-sizeprecisionreportsco-2023-05-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 58
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Latest 2023 \"Automatic Speech Recognition(ASR) Software Market\" Survey & Forecast by 2030 | With 114+ Pages"
     excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this “Automatic Speech Recognition(ASR) Software Industry”. Embracing Growth: A Promising Outlook for the Global Automatic Speech Recognition(ASR) Software Market from 2023 to 2030."
     publishedDateTime: 2023-05-15T06:01:00Z

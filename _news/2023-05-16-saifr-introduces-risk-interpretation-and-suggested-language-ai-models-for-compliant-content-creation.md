@@ -25,28 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "dataPARC Introduces AWS and Azure-Compatible Data Historian Platform for Advanced Industrial Applications and Cloud AI/ML Integration"
-    excerpt: "PRNewswire/ -- dataPARC, innovators in industrial analytics and manufacturing decision support, today announced the release of its next-generation data historian platform, aimed at delivering federated plant operations data to engineering,"
-    publishedDateTime: 2023-05-16T14:16:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/05/16/9815052.htm"
+  - title: "Ontra Launches Ontra Synapse, an AI-Powered Contract Negotiation and Management Solution"
+    excerpt: "Ontra Synapse is powered by Ontra’s proprietary large language models, which were trained on more than 800,000 agreements, Troy Pospisil, Ontra's founder and CEO, told Legaltech News."
+    publishedDateTime: 2023-05-15T14:41:00Z
+    webUrl: "https://www.law.com/legaltechnews/2023/05/15/clm-provider-ontra-launches-ontra-synapse-ai-powered-contract-negotiation-and-management-solution/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 37
-  - title: "CockroachDB Dedicated for Microsoft Azure Realizes Company's Vision for a Single Distributed Database that Runs Everywhere and Anywhere, Effortlessly"
-    excerpt: "In addition, CockroachDB's serverless, on-consumption data platform now allows users to read and write data across multiple geographically distributed regions. Paying only for the exact amount of data stored and usage of that data on the CockroachDB serverless platform dramatically reduces the cost of operating a global business and makes data-intensive,"
-    publishedDateTime: 2023-05-16T17:04:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/05/16/9815152.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 15
+      name: Law
+      domain: law.com
+    quality: 30
     images:
-      - url: "https://mma.prnewswire.com/media/1663429/CockroachLabs_Full_Logo_v2.jpg"
-        width: 400
-        height: 311
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/05/Ontra-Synapse-Logo-767x633.jpg"
+        width: 767
+        height: 633
         isCached: true
 
 secured: "fm5V6XYQl0NQH7+v+XSXm1EbiiFBWnUVqruIIMIo1Gh3adUiGjuNCGEoEKpa4NDkScviuM0ociba8K7ppitlIlnP4NzwEwqtxBC43u/cYnjJoYY0DMDyoFPvGSQM+sX32xAGm/Z5nnGrV0jqOLLUW1512ezxw2927wlmHgBwSH2rZAj3HLy6aL8cIre0vwVZBgjAGAjfnJkxg+DD8LOtQSbW+hOZTDaVrY92+7Fzhc3J0L6YfGjJroehiinV2pRfegWrCc4qg8c7Cl2ZjORFybaolYKZ2g1rXw4JH3LBljyfZ6aDxZlAhgNGv0tixIlvQoAMSyH3vn0x1Kv4pH9VmG3aghspvgY9+EQeaOnVCLs=;9YaN0s65Fz63DeXQBA1gXw=="

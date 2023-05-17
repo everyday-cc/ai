@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Voice Recognition Market: Future Demands and Projected Industry Growths to 2028"
+    excerpt: "The voice recognition market is expected to exhibit substantial growth by 2028, owing to notable technological advancements in the sector. Additionally, prevalent incorporation of the technology in diverse applications is likely to further drive market expansion through the forecast period."
+    publishedDateTime: 2023-05-15T14:54:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-future-demands-and-projected-industry-growths-to-2028-2023-05-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "6GHPUmtOu+mz9/Dbx9dtiHlb2Vr8c1nQSLuomKYPmUf3eXYs5kEnimGfO5QTKe2guwtFAzaJEmZ6Qfxaq6Zrz3j+e0iJ56vdrZkPqdCu9tTJlyP4qw2JtKHnI0iGecRPqgSlnwmcRDyHu3Eb8xAtjaY9PUZg6tLJBgGSM68UkPGeUTgv3r5oIfRdFWMBp9xVOfryhl7AX00iHpBB8B98j1DyaizF26SMSJkv/+BiSx5xbOv8vEo+CdEZOIbKdjQ8r1F2XyL68FGWfU6QkIb9WVCUIskRwlMBqMBpSOTl70cPcIGzFJ95oAy1THqFXhR41QMJC3qt4yhdJTmUHrCjLtNEmoSErKl4iJxS0rM1aXY=;ttC5LHWw0kgyAE/3vJUmHQ=="
 ---

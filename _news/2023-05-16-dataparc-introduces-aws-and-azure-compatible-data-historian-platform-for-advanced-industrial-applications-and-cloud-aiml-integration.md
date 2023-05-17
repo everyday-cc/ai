@@ -1,18 +1,22 @@
 ---
 category: news
 title: "dataPARC Introduces AWS and Azure-Compatible Data Historian Platform for Advanced Industrial Applications and Cloud AI/ML Integration"
-excerpt: "PRNewswire/ -- dataPARC, innovators in industrial analytics and manufacturing decision support, today announced the release of its next-generation data historian platform, aimed at delivering federated plant operations data to engineering,"
-publishedDateTime: 2023-05-16T14:16:00Z
-originalUrl: "https://it.tmcnet.com/news/2023/05/16/9815052.htm"
-webUrl: "https://it.tmcnet.com/news/2023/05/16/9815052.htm"
+excerpt: "PARC Introduces AWS and Azure-Compatible Data Historian Platform for Advanced Industrial Applications and Cloud AI/ML Integration May 16,"
+publishedDateTime: 2023-05-16T12:42:00Z
+originalUrl: "https://www.marketwatch.com/press-release/dataparc-introduces-aws-and-azure-compatible-data-historian-platform-for-advanced-industrial-applications-and-cloud-aiml-integration-2023-05-16"
+webUrl: "https://www.marketwatch.com/press-release/dataparc-introduces-aws-and-azure-compatible-data-historian-platform-for-advanced-industrial-applications-and-cloud-aiml-integration-2023-05-16"
 type: article
-quality: 37
-heat: 37
-published: false
+quality: 87
+heat: 87
+published: true
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Microsoft AI
@@ -20,36 +24,12 @@ topics:
   - Machine Learning
   - AWS AI
 
-related:
-  - title: "Saifr introduces risk interpretation and suggested language AI models for compliant content creation"
-    excerpt: "Saifr, an AI-focused regulatory technology (RegTech) provider that assists financial institutions with the creation, review, and approval of communications to help mitigate brand, regulatory, and reputational risk,"
-    publishedDateTime: 2023-05-16T14:53:00Z
-    webUrl: "https://www.finextra.com/pressarticle/96868/saifr-introduces-risk-interpretation-and-suggested-language-ai-models-for-compliant-content-creation"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 24
-    images:
-      - url: "https://www.finextra.com/about/finextra-logo.png"
-        width: 512
-        height: 512
-        isCached: true
-  - title: "CockroachDB Dedicated for Microsoft Azure Realizes Company's Vision for a Single Distributed Database that Runs Everywhere and Anywhere, Effortlessly"
-    excerpt: "In addition, CockroachDB's serverless, on-consumption data platform now allows users to read and write data across multiple geographically distributed regions. Paying only for the exact amount of data stored and usage of that data on the CockroachDB serverless platform dramatically reduces the cost of operating a global business and makes data-intensive,"
-    publishedDateTime: 2023-05-16T17:04:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/05/16/9815152.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 15
-    images:
-      - url: "https://mma.prnewswire.com/media/1663429/CockroachLabs_Full_Logo_v2.jpg"
-        width: 400
-        height: 311
-        isCached: true
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
 
-secured: "6c7fAeUBoKZ00BRbTSXf7ioPv+eLa3ej5iYBqYzkFxxkA+R301/Fi66jZHVc/96tp2a2nEdIzCZIA9pgAkOufQlPM57GSui/L12Gzg6CTy/rWYDUC9OnlxQ6CX5wr+sQvN/w0GHA+Dr6HGFTUVhNeYn1MUlBrWNNHGwBuPAplmIKF7di65Br8iPeKLl+KFdhT1wFpDHBByZBGmWze18KLNw3s7aPDdFrO4AkoDj5GZa4UdmhYR0124pXkkCrMVreuzpOFHYPyfwZ2HMyXpZHV5jYjq2/nOXOoji9s+WJTrVaREAYsc34COptkyilwuZ/mpC6rYPuC2mQPhyFxtbe5eS2oWX5VrIh0na1V7t/s1Y=;vZrVXmhYRJCSIJIj9eo2GA=="
+secured: "fot1hrFieTaG9qjYh3H8pLPe3Fju1KswWdvMmdnkNp5TLvR46YgAzx+g4l5dEhUJb9V2FDjm0F7hRR4snIVp39LbAfsXR3HTd0qpNDJSmkEkSqB7gN6zWiTv/G85kAQhadThMpwFjXMOSdlGl6d42amFxuOcOu2d3VzHhXrCzMUbSU8+ERWo9z49lyw1efuQl/jEn4nV5RvTGmHd4WAuRH+M5gtllfSZ62kmM3IblQqEFPkLxdx46FiU9plN1mzovmiLjV1xfGrdSs0OdfyE82U3UU07VRh0PF0ttzlDQBzSnfO5koJ4uuYCelgeTOC1RjXkkzqWPnxSz8jc/A3Tkn7q1S9LTDy1lPyBiAPq59Y=;CVLnI2CzkleVA2T+og4zSA=="
 ---
 

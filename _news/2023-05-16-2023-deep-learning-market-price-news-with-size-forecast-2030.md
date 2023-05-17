@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/2023-deep-learning-marke
 webUrl: "https://www.marketwatch.com/press-release/2023-deep-learning-market-price-news-with-size-forecast-2030-2023-05-15"
 type: article
 quality: 69
-heat: 80
+heat: 90
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Neural Networks Market Size, Key Segments, Share, Trends, Growth, and Forecast 2031"
+    excerpt: "The global Artificial Neural Networks industry report provides top-notch qualitative and quantitative information including: Market size (2017-2021 value and 2022 forecast). The report also contains descriptions of key players,"
+    publishedDateTime: 2023-05-16T11:33:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-neural-networks-market-size-key-segments-share-trends-growth-and-forecast-2031-2023-05-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 57
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Computer Vision System Market with a Forecast Predicting Continued Booming Performance from 2023 to 2030"
     excerpt: "The Computer Vision System Market research report is formulated such that it offers a deep understating on the market drivers that are assimilating the growth of the market, the m"
     publishedDateTime: 2023-05-15T13:59:00Z

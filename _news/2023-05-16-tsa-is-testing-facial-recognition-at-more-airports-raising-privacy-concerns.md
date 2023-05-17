@@ -3,10 +3,10 @@ category: news
 title: "TSA is testing facial recognition at more airports, raising privacy concerns"
 excerpt: "The agency tasked with securing America's airports is testing the use of facial recognition technology at a number of airports across the country"
 publishedDateTime: 2023-05-15T20:16:00Z
-originalUrl: "https://abcnews.go.com/US/wireStory/tsa-tests-facial-recognition-technology-boost-airport-security-99322460"
-webUrl: "https://abcnews.go.com/US/wireStory/tsa-tests-facial-recognition-technology-boost-airport-security-99322460"
-ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/tsa-tests-facial-recognition-technology-boost-airport-security-99322460"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/tsa-tests-facial-recognition-technology-boost-airport-security-99322460"
+originalUrl: "https://abcnews.go.com/Technology/wireStory/tsa-tests-facial-recognition-technology-boost-airport-security-99322644"
+webUrl: "https://abcnews.go.com/Technology/wireStory/tsa-tests-facial-recognition-technology-boost-airport-security-99322644"
+ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/tsa-tests-facial-recognition-technology-boost-airport-security-99322644"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/tsa-tests-facial-recognition-technology-boost-airport-security-99322644"
 type: article
 quality: 71
 heat: -1
@@ -388,6 +388,6 @@ related:
       domain: thedailyrecord.com
     quality: 28
 
-secured: "ygseZAplbpv0ZQuP7s8NR1N6FIv/gocOM27vlNLD8z9ptCbtLbHYIYjVc7V3klYJCW+p47jGmvpjp4CLkTNJHB+OeZsixW6jxi4Z3ZN/jb1lBYd0YvvC+FVdK+MI+zd5yirTZS22+QbIRMGrBP7DxqlGOja7bALMp99K/TsanpSAPgFTbP4yBi4aoR/2nM2LbiKFgmIciDkW4tG3SFBj/8zxRyqMPniXA2HKNTd0e39WYLDZiLdhjpKR1FQFTwObsZqKbJcPVAQtSFFgu5H+9LS/DkgTNF0QC4wM0Rka2ZVKL5gyPeEa7SoRYf8lQc+xnqZrQmppgEDwRhKXds7zujCXpJdOorcrSFL0rEm7Ufw=;E/ne2w/JNd91tNqhQD7O0g=="
+secured: "02th6cEeG1VPHIO/J2BjiGNvi8ypmPlaxz/mTyHwCizUgsWvOMeEudmSrC51snWOg9TflZgDQQS6Q2MAJN6zX/01tq60RvVlLGwyXlEXoh94O0Ub3QcM6KfQrvfl02xXwpoY6XpzPHhTeQY/+g8oAXb9Pi7sv5Jt9V0/pmrDj1NDp60T+F1xRZML66nQCzx8AOl/1XUD1tyRBmV7aaIpvzvUNOymkJDK9N0Wgh2OQRKvYjwO1tv8xAHNsIhU7Qw7RwMcx8vTho05ecywqQJiG1X1pXIo5d+pvliatxuBBxb/pB9MTTZU8TmS8FJ0k3gTm0rYIScabR3V5eqtzbOaTjJ+gusBl7bPRyv90jMgCc8=;4VzKBstRlCcQB46R4RyUyQ=="
 ---
 
