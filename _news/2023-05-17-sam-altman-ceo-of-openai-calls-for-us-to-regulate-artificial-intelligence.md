@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/world-us-canada-65616866.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-65616866.amp"
 type: article
 quality: 100
-heat: 370
+heat: 390
 published: true
 
 provider:
@@ -329,6 +329,20 @@ related:
         width: 2048
         height: 1363
         isCached: true
+  - title: "Tech reporter breaks down OpenAI CEO's testimony, potential regulatory challenges"
+    excerpt: "OpenAI CEO Sam Altman, whose company developed the widely used AI conversation program ChatGPT, warned federal lawmakers Tuesday that artificial intelligence could pose significant risks to the world if the technology goes wrong."
+    publishedDateTime: 2023-05-17T23:00:00Z
+    webUrl: "https://abc7news.com/tech-reporter-breaks-down-openai-ceos-testimony-potential-regulat/13261680/"
+    type: article
+    provider:
+      name: ABC7 San Francisco
+      domain: abc7news.com
+    quality: 34
+    images:
+      - url: "https://s.abcnews.com/images/US/sam-altman-ap-jef-230517_1684338504336_hpMain_16x9_608.jpg?w=1600"
+        width: 608
+        height: 342
+        isCached: true
   - title: "OpenAI Founder Calls for the Global Regulation of Artificial Intelligence"
     excerpt: "As senators raise concerns about the risks of ChatGPT, Sam Altman says his worst fear is his industry causing \"significant harm to the world.\""
     publishedDateTime: 2023-05-16T18:59:00Z
@@ -347,6 +361,20 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 30
+  - title: "Sam Altman said all the right things to Congress, but the government won’t save you from AI"
+    excerpt: "Opinion: The federal government is not going to come up with a framework or guardrails to protect us from AI anytime soon."
+    publishedDateTime: 2023-05-17T22:03:00Z
+    webUrl: "https://bgr.com/tech/sam-altman-said-all-the-right-things-to-congress-but-the-government-wont-save-you-from-ai/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 29
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2023/05/rsz_gettyimages-1490690042.jpg?quality=82&strip=all"
+        width: 2000
+        height: 1333
+        isCached: true
   - title: "Senate panel begins AI examination; ChatGPT CEO Sam Altman testifies"
     excerpt: "\"It is essential that powerful AI is developed with democratic values in mind, and this means that US leadership is critical,\" said ChatGPT CEO Sam Altman."
     publishedDateTime: 2023-05-16T14:42:00Z
@@ -375,6 +403,6 @@ related:
       domain: siliconangle.com
     quality: 11
 
-secured: "j6FdWkmR5v2O/qZ18UX53nibQdmiktHhma1HmTtnCM+NC0iVvPNjZQW5rhg+7Q/lNEL6tOtBwRJbBzJ4anb3LMmwds1frfWmCNrvTlAetQudkW/i9prPV1YFoyS6gO3bR4bYttPpm7iXPNqAVkeT/YplmodKJHn4lXOSpzIdAWmga7w2uWajLI7kXBab4NG/rkFxCuqdZTzs5m7Ms9xE2nXqrVigYvhqEBne1EzPj1e36kGhf3MwBV/+7GlM/pYLhPHx9tSptIXhFlyFO9AnN+r9DjrZwAXVf1+93pff2x30gsYqcZvX0FwvzkR1FuGHRM4xqDi64O4PHNcYiup4ykKK0Ui9/KpElUVDI8HpKKE=;KXjW/+1qXFB8pozSr/EqhA=="
+secured: "wf0ni9Qanq0BRzEIal5+JknmLqeTGn08DC05a28mW5x86MEQLzpzy+kFNIP6lSktlqln99+YYv3Bq0TlXp47L0ujQCbs74yjPOaN9Zsjd4F6A6K3VS4F7TvTrSIADxJM/g9w1v0dQmDr3hjPR/f14Bt3phCwswaXIWdcH7oyN8V9buDc4ks+MF83FAk1VPMBXcsHEVsNzGjjRo3LQwuW4mYaJ51WSoEXOKXkZT+MRxwh39/sjmDTx7t4b8XvG5ZjbvwIMm9rngPWKbbUo7y7i9fE0xG5O9RX+JoFzKiaiSb7BdLGf+WhaJUDO3XBtJyZLCj7SwWliKJYMHyI8SkpNOiLnbGBEAEFfAZIJDpqUz0tX2e0zGOLru4fuitPB/WWhnKcxheQDX4XSK5Vdu4lpT67M+CS4/6u5jPYqfJUqoyWctpR3PjH0Y9MCyj2jP/SahduImmwIEUl3mxi15mZZKPn1GCwuCSwEbEN5SegFiPbx6pr+1LqmnRbl+Ozv9dEnl6HJ6iV7GqVLRghR8n5eQ==;UjP5Md5SN1WnjxqmI/fTKw=="
 ---
 

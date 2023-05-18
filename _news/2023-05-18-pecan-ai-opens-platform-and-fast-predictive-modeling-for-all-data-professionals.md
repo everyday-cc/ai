@@ -49,6 +49,20 @@ related:
         width: 599
         height: 402
         isCached: true
+  - title: "Mayo Clinic-born Startup Scores $7.7M for Its Clinical AI Deployment Platform"
+    excerpt: "Lucem Health recently closed a $7.7 million Series A funding round. The startup's platform takes in the data required to fuel AI algorithms that give clinicians insights to improve patient care."
+    publishedDateTime: 2023-05-17T22:21:00Z
+    webUrl: "https://medcitynews.com/2023/05/mayo-clinic-ai-artificial-intelligence-healthcare/"
+    type: article
+    provider:
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 34
+    images:
+      - url: "https://medcitynews.com/uploads/2020/12/GettyImages-1185128095.jpg"
+        width: 788
+        height: 443
+        isCached: true
   - title: "Together raises $20m seed funding to build open-source AI models"
     excerpt: "On a mission to take on existing big players in generative AI, Together wants to ensure an accessible future for the technology."
     publishedDateTime: 2023-05-16T07:56:00Z

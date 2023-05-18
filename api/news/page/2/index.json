@@ -2,6 +2,153 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-05-17-meet-my-new-co-pilot-in-the-doctors-office-artificial-intelligence.md",
+      "title": "Meet my new co-pilot in the doctor's office: Artificial Intelligence",
+      "excerpt": "The more I learn about the growing uses of Artificial intelligence in health care, the more convinced I become about its essential place in not just the lab or radiology suite but also in the doctor’s office. It can help usher in a world where tests and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/opinion/meet-my-new-co-pilot-doctor-office-artificial-intelligence",
+      "originalUrl": "https://www.foxnews.com/opinion/meet-my-new-co-pilot-doctor-office-artificial-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/64a7bf5e-cbc4-4589-b30a-252fdbf7d8bf/ce181432-e4f7-4d55-a2a1-64d01842ee04/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/opinion/meet-my-new-co-pilot-doctor-office-artificial-intelligence.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/meet-my-new-co-pilot-doctor-office-artificial-intelligence.amp",
+      "publishedDateTime": "2023-05-16T23:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-17-robot-lawyer-with-a-64-success-rate-you-can-now-hire-ai-lawyers-in-the-us.md",
+      "title": "Robot Lawyer With A 64% Success Rate, You Can Now Hire AI Lawyers In The U.S.",
+      "excerpt": "In this report, we take a closer look at how AI is already disrupting the legal sector. Is this a start of an era where we could witness robot lawyers? Watch as Business Today TV’s Rachna Dhanrajani explores.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesstoday.in/bt-tv/video/robot-lawyer-with-a-64-success-rate-you-can-now-hire-ai-lawyers-in-the-us-381617-2023-05-17",
+      "originalUrl": "https://www.businesstoday.in/bt-tv/video/robot-lawyer-with-a-64-success-rate-you-can-now-hire-ai-lawyers-in-the-us-381617-2023-05-17",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://akm-img-a-in.tosshub.com/businesstoday/images/video/202305/thumb_web_46-sixteen_nine.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businesstoday.in/amp/bt-tv/video/robot-lawyer-with-a-64-success-rate-you-can-now-hire-ai-lawyers-in-the-us-381617-2023-05-17",
+      "cdnAmpWebUrl": "https://www-businesstoday-in.cdn.ampproject.org/c/s/www.businesstoday.in/amp/bt-tv/video/robot-lawyer-with-a-64-success-rate-you-can-now-hire-ai-lawyers-in-the-us-381617-2023-05-17",
+      "publishedDateTime": "2023-05-16T22:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Today",
+        "domain": "businesstoday.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-17-global-data-and-ai-ethics-market-to-expand-through-2023-and-beyond-till-2030-113-pages-report.md",
+      "title": "Global \"Data and AI Ethics Market\" to Expand Through 2023 and Beyond till 2030 | 113 Pages Report",
+      "excerpt": "The Data and AI Ethics Market Scope and Overview Report for 2023 presents a detailed analysis of the latest trends in",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-data-and-ai-ethics-market-to-expand-through-2023-and-beyond-till-2030-113-pages-report-2023-05-17",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-data-and-ai-ethics-market-to-expand-through-2023-and-beyond-till-2030-113-pages-report-2023-05-17",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 211,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-16T22:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-17-calling-all-generative-ai-disruptors-of-the-enterprise-apply-now-to-present-at-vb-transform-2023.md",
       "title": "Calling all Generative AI disruptors of the enterprise! Apply now to present at VB Transform 2023",
       "excerpt": "We’re on the hunt for the 10 generative AI products most likely to disrupt the enterprise right now, and if you have such a product we’d like to invite you to present the impact of this technology on the main stage.",
@@ -996,7 +1143,7 @@
       "originalUrl": "https://arstechnica.com/cars/2023/05/teslas-full-self-driving-sees-pedestrian-chooses-not-to-slow-down/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 120,
+      "heat": 130,
       "tags": null,
       "images": [
         {
@@ -1088,154 +1235,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-16-how-artificial-intelligence-is-used-in-finance.md",
-      "title": "How Artificial Intelligence Is Used in Finance",
-      "excerpt": "One of the most common applications of artificial intelligence in finance is in lending. Machine learning algorithms and pattern recognition allow businesses to go beyond the typical examination of credit scores and credit histories to rate borrowers' creditworthiness when applying for credit cards and other loans.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/ai-in-finance/",
-      "originalUrl": "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/ai-in-finance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.foolcdn.com/media/dubs/images/GettyImages-1285914519.width-600.jpg",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-16T06:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2023-05-16-ai-based-surgical-robots-market-2023-thriving-at-a-tremendous-growth-till-2030.md",
-      "title": "AI-based Surgical Robots Market 2023 Thriving at a Tremendous Growth till 2030",
-      "excerpt": "The AI-based Surgical Robots Market Report by Type (Services, Instrument and Accessories) and by Application (General Surgery, Urology, Orthopedic, Gynecology, Others) forecast is offered along with info related to key drivers,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-based-surgical-robots-market-2023-thriving-at-a-tremendous-growth-till-2030-2023-05-16",
-      "originalUrl": "https://www.marketwatch.com/press-release/ai-based-surgical-robots-market-2023-thriving-at-a-tremendous-growth-till-2030-2023-05-16",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 140,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-16T06:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-16-an-ai-glossary-the-words-and-terms-to-know-about-the-booming-industry.md",
-      "title": "An AI glossary: the words and terms to know about the booming industry",
-      "excerpt": "The quickly growing field of AI has created a long list of technical terms that you should know before endeavouring on your learning journey.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/tech/innovation/ai-glossary-openai-chatgpt-words-terms-know-booming-industry-rcna81793",
-      "originalUrl": "https://www.nbcnews.com/tech/innovation/ai-glossary-openai-chatgpt-words-terms-know-booming-industry-rcna81793",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-04/230428-AI-Glossary-jg-4a0d9e.jpg",
-          "width": 2500,
-          "height": 1250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna81793",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna81793",
-      "publishedDateTime": "2023-05-16T06:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

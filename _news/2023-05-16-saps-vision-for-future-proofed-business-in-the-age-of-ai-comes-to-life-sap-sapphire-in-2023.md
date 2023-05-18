@@ -22,6 +22,22 @@ topics:
   - Microsoft AI
   - AI
 
+related:
+  - title: "SAP's Vision For Future-Proofed Business In The Age Of AI Comes To Life: SAP Sapphire In 2023"
+    excerpt: "SAP Business AI, the Green Ledger and Business-Ready Innovations Across the Portfolio Underscore SAP's Ability to Help Customers Solve T"
+    publishedDateTime: 2023-05-17T23:34:00Z
+    webUrl: "https://menafn.com/1106265649/SAPs-Vision-For-Future-Proofed-Business-In-The-Age-Of-AI-Comes-To-Life-SAP-Sapphire-In-2023"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 28
+    images:
+      - url: "https://menafn.com/updates/pr/2023-05/17/M_cf767image_story.jpg"
+        width: 635
+        height: 414
+        isCached: true
+
 secured: "7rgNvahfXffF85l0lc1PMkDhNKWVSfnlZJ1DoCduQgAiiK8VxnnkiuvrOu71fkzE9d+7v1P54dootvfc0f+WYNfEeZzZpMBz5lr5/3n4YMWEq2J0PD6hvxwtVWCePD0loyQbMsGz4hO3ZduBKwVYtXADHWDdgi3HHU4xbemJ+4SoZQ7fd/Ij8+iwt6aZf1iRHI39LZh6mARufDOp4jebKGnmTQHmtrbDDoO6pmb0DYjosg0DVVCaKO4HZf/G1u/P2AtRl1gZrG3MAInmPQH6rCI5ofzd50FatN4p3NmKTRXFdHhUDCAYhUqd/gP2NSbfJPHI6oBZ79udefjT9EMoIYODcFT13kIbTOgRFYfM4snG6P6phQIwFO2Zwn4yJTesqqjgobOBUy74XWee3UbkXeIXfh2SZ4AmgQk/cHCsRJLiDjS/Ul2NPG2t89TCCQGH60OiUxkk1oVoZU3CVzUz751sWCY7fTNPgqGGBLGaR2jFC1GEIzr/PeYB0zz3x111lAEpsdZ7Hot/6Xu2Qen4sw==;gYoKnyBANgK9RX95BOC2zg=="
 ---
 

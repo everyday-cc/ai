@@ -7,7 +7,7 @@ originalUrl: "https://www.thetimes.co.uk/article/self-driving-cars-will-cause-mo
 webUrl: "https://www.thetimes.co.uk/article/self-driving-cars-will-cause-moral-panic-in-the-uk-minister-predicts-dqkbckvg6"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Transport minister warns there will be 'moral panic' as self-driving vehicles are rolled out"
+    excerpt: "A 'moral panic' will be caused by the use of self-driving vehicles on public roads, a transport minister has warned. Jesse Norman told MPs that a 'horrendous' part of the development of the technology will be 'scare stories, particularly in the early stages'."
+    publishedDateTime: 2023-05-17T23:17:00Z
+    webUrl: "https://www.dailymail.co.uk/news/article-12096421/Transport-minister-warns-moral-panic-self-driving-vehicles-rolled-out.html"
+    ampWebUrl: "https://www.dailymail.co.uk/news/article-12096421/amp/Transport-minister-warns-moral-panic-self-driving-vehicles-rolled-out.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-12096421/amp/Transport-minister-warns-moral-panic-self-driving-vehicles-rolled-out.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 33
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2023/05/18/00/71112879-0-image-a-100_1684365222223.jpg"
+        width: 636
+        height: 382
+        isCached: true
   - title: "Self-driving cars will cause ‘moral panic’, says transport minister"
     excerpt: "A “moral panic” will be caused by the use of self-driving vehicles on public roads, a transport minister has warned. Jesse Norman told MPs that a “horrendous” part of the development of the technology will be “scare stories, particularly in the ..."
     publishedDateTime: 2023-05-17T12:55:00Z

@@ -49,6 +49,20 @@ related:
         width: 599
         height: 402
         isCached: true
+  - title: "Mayo Clinic-born Startup Scores $7.7M for Its Clinical AI Deployment Platform"
+    excerpt: "Lucem Health recently closed a $7.7 million Series A funding round. The startup's platform takes in the data required to fuel AI algorithms that give clinicians insights to improve patient care."
+    publishedDateTime: 2023-05-17T22:21:00Z
+    webUrl: "https://medcitynews.com/2023/05/mayo-clinic-ai-artificial-intelligence-healthcare/"
+    type: article
+    provider:
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 34
+    images:
+      - url: "https://medcitynews.com/uploads/2020/12/GettyImages-1185128095.jpg"
+        width: 788
+        height: 443
+        isCached: true
   - title: "Pecan AI Opens Platform and Fast Predictive Modeling for All Data Professionals"
     excerpt: "Platform now open to all users for free trials of fast, easy-to-use predictive modeling, accessible to all business teams Pecan AI, the leader in AI-based predictive analytics for BI analysts and business teams,"
     publishedDateTime: 2023-05-17T17:35:00Z

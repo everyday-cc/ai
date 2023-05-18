@@ -27,15 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Vatican experts uncovering gilded glory of Hercules statue"
-    excerpt: "Scaffolding in a niche of the Vatican Museums’ Round Hall conceal from view the work of restorers who are removing centuries of grime from the largest known bronze statue of the ancient world: the gilded Hercules Mastai Righetti."
-    publishedDateTime: 2023-05-13T06:44:00Z
-    webUrl: "https://lasvegassun.com/news/2023/may/12/vatican-experts-uncovering-gilded-glory-of-hercule/"
-    type: article
-    provider:
-      name: Las Vegas Sun
-      domain: lasvegassun.com
-    quality: 4
   - title: "Vatican experts uncovering gilded glory of Hercules statue struck by lightning"
     excerpt: "Scaffolding in a niche of the Vatican Museums’ Round Hall conceal from view the work of restorers who are removing centuries of grime from the largest known bronze statue of the ancient world: the gilded Hercules Mastai Righetti."
     publishedDateTime: 2023-05-13T09:32:00Z

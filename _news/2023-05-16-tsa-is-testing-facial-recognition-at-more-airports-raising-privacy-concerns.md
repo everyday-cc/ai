@@ -237,15 +237,15 @@ related:
         isCached: true
   - title: "TSA testing facial recognition at more airports, raising privacy concerns"
     excerpt: "Advocates are concerned about how the data is collected, who has access to it and what happens if it gets hacked."
-    publishedDateTime: 2023-05-16T01:05:00Z
-    webUrl: "https://www.centralmaine.com/2023/05/15/tsa-testing-facial-recognition-at-more-airports-raising-privacy-concerns/"
+    publishedDateTime: 2023-05-16T03:48:00Z
+    webUrl: "https://www.pressherald.com/2023/05/15/tsa-testing-facial-recognition-at-more-airports-raising-privacy-concerns/"
     type: article
     provider:
-      name: Kennebec Journal
-      domain: centralmaine.com
+      name: Portland Press Herald
+      domain: pressherald.com
     quality: 53
     images:
-      - url: "https://multifiles.pressherald.com/uploads/sites/2/2023/05/Facial_Recognition_Airports_95530-1-1684199078.jpg"
+      - url: "https://multifiles.pressherald.com/uploads/sites/4/2023/05/Facial_Recognition_Airports_95530-1-1684182783.jpg"
         width: 1000
         height: 667
         isCached: true
@@ -355,6 +355,20 @@ related:
         width: 490
         height: 350
         isCached: true
+  - title: "Police officers on patrol to deploy facial recognition technology"
+    excerpt: "Facial-recognition technology is to be used in body-worn cameras by officers on patrol as part of government plans to “embed” it in everyday policing.The poli"
+    publishedDateTime: 2023-05-17T23:01:00Z
+    webUrl: "https://www.thetimes.co.uk/article/police-officers-on-patrol-to-deploy-facial-recognition-technology-nkcgxh2f5"
+    type: article
+    provider:
+      name: The Times
+      domain: thetimes.co.uk
+    quality: 39
+    images:
+      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F69d79e6a-f4db-11ed-97af-27f55025e763.jpg?crop=3576%2C2012%2C376%2C656&resize=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Are you are who you say you are? TSA test facial recognition technology to boost airport security"
     excerpt: "A passenger walks up to an airport security checkpoint, slips an ID card into a slot and looks into a camera atop a small screen. The screen flashes “Photo Complete” and the person walks through — all without having to hand over their identification to the TSA officer sitting behind the screen."
     publishedDateTime: 2023-05-15T12:25:00Z
@@ -447,6 +461,6 @@ related:
       domain: extremetech.com
     quality: 19
 
-secured: "qg19Pmui+GPzAOWe7lgh2de++wLIxGYAydH58gUnVYKVllvbabxzgPaHQl8QxTuk488LIIm0HKTlg9bajopkXyqixm0ax/kc6sO6CsVoblpbTelX8o8B7fg1Oma5sWvCCapk+XztdQzdEgAbVbsxQL6Ul5jaEXSSt6uHo3Es8Y7AwYZ8W+3G7OUgJ5et7V/9S2vW19011enTeR8aJVidvHoqnYP9OemUTcOCCD1Rdwd88NInfXDqbXpz/PAnyVxgdv6jgk1I+kjeooaUhYERJuApB4LWdiezql9bEdRkj7Xq33MxbhBtBXNsH5XFcc1iuVrigsl12q43+jzti5M8QxfnxU8G3Jyj6NGVT2c8z/4=;cplnlofVs3om3SGnY1UB9g=="
+secured: "USY1lekqI0zSO1OoTt+lpKJvClusG+6Qw3MaDuBm7OmxPpSPr7/rtT1QfzHRsFedOf1Mrwx7dhMMRp+o8xCc2zNvMOyDLhnjeZT20dst4DboySU5VSf5vdSwZPsQiYJNQyv6pBddDVX7GVuB9rJgIZ3qzHFGdoqAaFWDtMJVIUUAE1OxFvRBm3kG0TS6cK++B8sdtm9qgawg1ANC5fj5nEud1cy5d3/e2b1Tq8L+ilyDFP2pwTHDxjfdwx+yKEu/z1BxAYujKZmdfa0wG6UyP747icwMIsWTXoE7yX64XD0r/TPfmt1Km2Xa1TEvfvcSr3BGbcE1/odeSmIdMFdwehaJD826kPtP4Ljg64d0QGk=;ZsVNS6MxDa8nQ7pgNDTCZA=="
 ---
 

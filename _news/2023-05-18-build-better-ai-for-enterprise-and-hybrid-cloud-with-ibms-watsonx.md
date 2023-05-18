@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/tiriasresearch/2023/05/17/build-better-ai-
 ampWebUrl: "https://www.forbes.com/sites/tiriasresearch/2023/05/17/build-better-ai-for-enterprise-and-hybrid-cloud-with-ibms-watsonx/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2023/05/17/build-better-ai-for-enterprise-and-hybrid-cloud-with-ibms-watsonx/amp/"
 type: article
-quality: 87
-heat: 117
+quality: 104
+heat: 134
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - IBM AI
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/6465480551131fd5b9b1abc6/0x0.jpg?format=jpg&crop=2560,1330,x0,y0,safe&width=1200"
@@ -63,6 +64,6 @@ related:
       domain: fastcompany.com
     quality: 17
 
-secured: "K7onJEHuSYr4INAzHqK90sZcaLr8q+McmahRZqUFclQ1J7x3bmWsB6o6qCNNB1fJw3GzTgvxnhISj4vLtlYzvF6GkB8j+iMN1q+nm1v49jiRxKdX/D2BnTbFeyLEoJ8RvoPO8EzSDCzhHieBT9kiRfERElqv7Q0MSNEvtRxD8Ypaxp5rhcPybSXyYjdcbhLGYX841n4OlNNo+yu1vtbP45LaG/hIrutXp0NhrbqK+9ppknYGnJV08K7jWJ6BcQUfJ3q2UbLg7M1Uyhsxl85lz7PcTxVfI025V6RtLeYLQyjts6EqREApy2yKkFwFw5dWpqngJ9/jC8Ex8flSo3E/wrhbuHU1BeIZMtx+qQHObpg=;wshKJGJssUnQTOUU/4gqAA=="
+secured: "zFVVmQ2/K656OBjqvlR6csArQJii2DASe+1rHC/EF/JO1u9RFAey01XcL6qFwmB6NzfYZ/dXa7rS2WbGwi5ijr23SiNhJq433MoOk33py89cVwE20TEsKVlwDnWjorvCepflbSq+VOz6N3C2xonn0C4UqJ1JMk6QTImw/7e+mC29q/bOaPHal4Ky/mT6Y7FRNgiRlaKEUVpEoVDnbR9YOZ43PeNdfFQB4Ad9F/vS2PFv1DZqutBtzoPF40A+HtxIT95TinxyvSXdIgwxmu/f3vOyYJRohT0zbu3FXirV8qRQ1tF3ln5RukZSnRmK3WFLCXOEe10Glhj1j/5NQljcYV4BTW+e7b3AtvIFV3B1qfM2ioUIUQW9jNSsmwPjXawNvs7/TrwzpP69bTex21M9K7tHkmh5wzdn5qeWetrp3pYOQPKXgSdxdMzsQ2x7uTXXusbg8WWV/8J9DXfEXwqatnDPCAsicBxTdDa3g3uJDtHKnmbkEJ6YQBqnX7DzsTfF7+pae/wkXTC8sJjKOUin7w==;00C4STeOLr918Hwp7OpyPA=="
 ---
 

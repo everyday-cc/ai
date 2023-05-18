@@ -153,22 +153,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "ChatGPT chief says artificial intelligence should be regulated by a U.S. or global agency"
-    excerpt: "The head of the artificial intelligence company that makes ChatGPT told Congress on Tuesday that government intervention will be critical to mitigating the risks of increasingly powerful AI systems."
-    publishedDateTime: 2023-05-16T17:27:00Z
-    webUrl: "https://www.ctvnews.ca/sci-tech/chatgpt-chief-says-artificial-intelligence-should-be-regulated-by-a-u-s-or-global-agency-1.6391175"
-    ampWebUrl: "https://beta.ctvnews.ca/national/sci-tech/2023/5/16/1_6391175.amp.html"
-    cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/national/sci-tech/2023/5/16/1_6391175.amp.html"
-    type: article
-    provider:
-      name: CTV News
-      domain: ctvnews.ca
-    quality: 50
-    images:
-      - url: "https://beta.ctvnews.ca/content/dam/ctvnews/images/2023/2/17/1_6215439.jpg"
-        width: 1020
-        height: 574
-        isCached: true
   - title: "ChatGPT: The game-changing AI-language model and its implications on enterprise automation"
     excerpt: "ChatGPT has gained global attention and recognition, yet its impact on enterprise automation remains an area not fully explored. Analyzing it from the standpoint of intelligent automation can reveal its potential impact on the"
     publishedDateTime: 2023-05-14T10:03:00Z
@@ -184,6 +168,22 @@ related:
       - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/08/Sanjeev-Menon.png"
         width: 573
         height: 413
+        isCached: true
+  - title: "ChatGPT chief says artificial intelligence should be regulated by a US or global agency"
+    excerpt: "The head of the artificial intelligence company that makes ChatGPT has told Congress that government intervention will be critical to mitigating the risks of increasingly powerful AI systems"
+    publishedDateTime: 2023-05-16T19:48:00Z
+    webUrl: "https://abcnews.go.com/Technology/wireStory/chatgpts-chief-testify-congress-concerns-grow-artificial-intelligences-99354581"
+    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/chatgpts-chief-testify-congress-concerns-grow-artificial-intelligences-99354581"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/chatgpts-chief-testify-congress-concerns-grow-artificial-intelligences-99354581"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 49
+    images:
+      - url: "https://s.abcnews.com/images/US/wirestory_73ff96c6571f38ad5fd68b3072722790_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "ChatGPT’s chief testifies before Congress as concerns grow about artificial intelligence risks"
     excerpt: "The head of the artificial intelligence company that makes ChatGPT told Congress on Tuesday that government intervention “will be critical to mitigate the risks of increasingly powerful” AI systems."

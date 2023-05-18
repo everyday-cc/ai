@@ -2,6 +2,50 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-04-21-microsoft-azure-may-have-lead-in-generative-ai-but-aws-not-far-behind-baird.md",
+      "title": "Microsoft Azure may have lead in generative AI, but AWS not far behind: Baird",
+      "excerpt": "\"While Azure may have the initial upper hand ... Last week, Amazon (AMZN) unveiled a new suite of tools for generative AI, known as Bedrock, which are designed to give customers the ability ...",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/news/3958778-microsoft-azure-lead-in-generative-ai-aws-not-far-behind-baird",
+      "originalUrl": "https://seekingalpha.com/news/3958778-microsoft-azure-lead-in-generative-ai-aws-not-far-behind-baird",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/471179856/image_471179856.jpg?io=getty-c-w750",
+          "width": 750,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-21T07:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-21-artificial-intelligence-for-accounting-market-global-trends-and-prospects-2023.md",
       "title": "Artificial Intelligence for Accounting Market: Global Trends and Prospects 2023",
       "excerpt": "Pre and Post-Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and",
@@ -1356,49 +1400,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-14-aws-bedrock-offers-foundation-models-to-build-generative-ai-apps.md",
-      "title": "AWS' Bedrock offers foundation models to build generative AI apps",
-      "excerpt": "Amazon Web Services (AWS) has released a new service, dubbed Amazon Bedrock, that provides multiple foundation models designed to allow companies to customize and create their own generative AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3693468/aws-bedrock-offers-foundation-models-to-build-generative-ai-apps.html",
-      "originalUrl": "https://www.infoworld.com/article/3693468/aws-bedrock-offers-foundation-models-to-build-generative-ai-apps.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-13T10:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

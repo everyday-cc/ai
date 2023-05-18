@@ -73,6 +73,15 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Elon Musk says Tesla’s self-driving tech is better than humans"
+    excerpt: "“It will actually get to the point where it is not merely safer than a person but actually way smoother than manual driving,” he says. It’s not the first time Musk has predicted the dawn of self-driving cars. In 2019 he said people would be able to ..."
+    publishedDateTime: 2023-05-17T23:15:00Z
+    webUrl: "https://www.heraldsun.com.au/motoring/hitech/elon-musk-says-teslas-selfdriving-tech-is-better-than-humans/news-story/fa1f9b8174b46422a7c85f87533a90f6"
+    type: article
+    provider:
+      name: heraldsun.com.au
+      domain: heraldsun.com.au
+    quality: 19
 
 secured: "V/SFTU1aHfRWU4LQ858LJLw1TMj4HJjRklA+6iRYruztR7aTjNkd7BcbPaEWqSVMcKoLCYRCjDAC1ftAS5WatqWMH3myY6SzIt07SxJ/6BbUavVar+Irxe86uu7yZ3YVUt81IcZJVV4Fw5fKfjOF1yhpNGYfqAEjG2LZCa4yCYNaqz37qU5di0RzzK7rybTaK2D00/GJw0fu/GHackacUc9+1Woc2pzDvekpVxNVZD2qsRjQpcwdZ1p5qc4WC/BA4RdYZX9oNZYMrfRFklGzuTr80blBGRsYEH6dDs515r2p0h3B007d5SvRb1Z8McAJrdvJmP5xzOHa8BfkPoKEgAKE8k8YvVP7gxzg4PzNAr6YbeJoJ7yz8rnuhWyE50Ur37V2KecMfBBz/hUhQg6YYWKtcBzpyzCB8DPFfy2FOK+38DNu3t0vat5SaHT7FLLEKfTGkweBE0B8uCOPE0MatP1km6PR1o/2jb3XQyA9L8d2GAqWNJYkzUFNsYMjpwIkiEJZoGC5VeJUsmv0Zl7+BQ==;wZZLRzMZWDZHyWACk9wVSQ=="
 ---

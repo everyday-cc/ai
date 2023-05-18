@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/cars/2023/05/teslas-full-self-driving-sees-p
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/cars/2023/05/teslas-full-self-driving-sees-pedestrian-chooses-not-to-slow-down/amp/"
 type: article
 quality: 89
-heat: 120
+heat: 130
 published: true
 
 provider:
@@ -77,6 +77,15 @@ related:
         width: 1920
         height: 1040
         isCached: true
+  - title: "Elon Musk says Tesla’s self-driving tech is better than humans"
+    excerpt: "“It will actually get to the point where it is not merely safer than a person but actually way smoother than manual driving,” he says. It’s not the first time Musk has predicted the dawn of self-driving cars. In 2019 he said people would be able to ..."
+    publishedDateTime: 2023-05-17T23:15:00Z
+    webUrl: "https://www.heraldsun.com.au/motoring/hitech/elon-musk-says-teslas-selfdriving-tech-is-better-than-humans/news-story/fa1f9b8174b46422a7c85f87533a90f6"
+    type: article
+    provider:
+      name: heraldsun.com.au
+      domain: heraldsun.com.au
+    quality: 19
 
 secured: "hsSQhOPjAuBT4/pNAed1Bar6Vh5egNZG0sSQ7xIVCHqHpm6OdhGuXMmojKtriXrU1TRC3Uk5eERMJFm2MJXvHRZeEsJJNDecu7lpXWZ1hY/VUp/szdsiEaQbJiLRktHrndM72R6pHuEl6EuHI2M4U5TJKdm5hDR0zA2iJKb3Sb1JEv/0wg+7UGNfX040bclbkwJxSzPxE8iN5oVMXP3U6YkIowGJ2g58UkdxqWK/u+NpThAbgnZk7rfoIQJg4F8ffiJ7pNS7LW16ZavRPMZWVNFAOkwDna32kZUuMDYXsT7kZ44Qh41WqYQ+iyrQ64gtGSsEUFv0iFT/+XG02SixpnW4HQzx+ebwfYMfSDJcF9Iz5IrTXXju9I1gfOJK+dicwDipTkOuGo7/2PNHWjk/JoVU3Yhcw0Y9J6vmcaybUXOiDOMAR7ZS/CnpUvFA+Ps4vQbYmElnsx7ycoln3IBUH/GZFOh1qhjO87x4XXvnKu8TakfdLXQIc7vXb/zRhsLK1rZ6HfdWjrQQKVBozvJ86Q==;sumO1vy23kNtXaQiRYCOjQ=="
 ---

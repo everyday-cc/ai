@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/ai-startup-together-raises-funding-for-op
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/ai-startup-together-raises-funding-for-open-source-ai-and-cloud-platform/amp/"
 type: article
 quality: 86
-heat: 116
+heat: 126
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/05/image_2023-05-16_091657940.png"
         width: 599
         height: 402
+        isCached: true
+  - title: "Mayo Clinic-born Startup Scores $7.7M for Its Clinical AI Deployment Platform"
+    excerpt: "Lucem Health recently closed a $7.7 million Series A funding round. The startup's platform takes in the data required to fuel AI algorithms that give clinicians insights to improve patient care."
+    publishedDateTime: 2023-05-17T22:21:00Z
+    webUrl: "https://medcitynews.com/2023/05/mayo-clinic-ai-artificial-intelligence-healthcare/"
+    type: article
+    provider:
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 34
+    images:
+      - url: "https://medcitynews.com/uploads/2020/12/GettyImages-1185128095.jpg"
+        width: 788
+        height: 443
         isCached: true
   - title: "Together raises $20m seed funding to build open-source AI models"
     excerpt: "On a mission to take on existing big players in generative AI, Together wants to ensure an accessible future for the technology."
