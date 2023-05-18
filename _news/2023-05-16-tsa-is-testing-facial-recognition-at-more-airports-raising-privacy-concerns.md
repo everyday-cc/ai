@@ -362,6 +362,20 @@ related:
         width: 490
         height: 350
         isCached: true
+  - title: "Police Facial Recognition Technology Can’t Tell Black People Apart"
+    excerpt: "This happened three years ago to Robert Williams, a Black father in suburban Detroit. Sadly Williams’ story is not a one-off. In a recent case of mistaken identity, facial recognition technology led to the wrongful arrest of a Black Georgian for purse thefts in Louisiana."
+    publishedDateTime: 2023-05-18T14:38:00Z
+    webUrl: "https://www.scientificamerican.com/article/police-facial-recognition-technology-cant-tell-black-people-apart/"
+    type: article
+    provider:
+      name: Scientific American
+      domain: scientificamerican.com
+    quality: 39
+    images:
+      - url: "https://static.scientificamerican.com/sciam/cache/file/3A8C75EC-F138-434F-A822F5103920B5AB.jpg"
+        width: 790
+        height: 497
+        isCached: true
   - title: "Police officers on patrol to deploy facial recognition technology"
     excerpt: "Facial-recognition technology is to be used in body-worn cameras by officers on patrol as part of government plans to “embed” it in everyday policing.The poli"
     publishedDateTime: 2023-05-17T23:01:00Z
@@ -468,6 +482,6 @@ related:
       domain: extremetech.com
     quality: 19
 
-secured: "eBjfLg6GcNGK2FRhMoOEgGwmcYRS5KwXkqfO5Wxsm+6DQrp287BSFpMhU1h4yx4/yePrj6a02phxIlZD9lc2mPiGNtx4tWE58Clh15F19AIStBjH/KHdfmwSFRYqUwwSUHWFYScnePniuduwu2luDOkIfX58PZ08ok9SGLHG2A8jQhFm53YvF8zq5BpA0EBbmv3ZwKi0t4wvCiZ8vmlGbFCW0VY4sX7IDHDayIeBdqE2kohVr2hxJXISub2MvS2AvhMX09QUtJr6NTaUkBopfRPhZuUZjZUTPUWk0RHiXIJSCUT6hrB1fUxdO3ipn3mnbYmtacXyKQmzRANq5tf0NsC+8FwmBTya+8mpMe05wE8=;605yHpcQiE4q1IxHzRzErg=="
+secured: "TfbRJWTn9YVEYFuGaoAn/xzulSjoQJ6zUIQJLDe4zgy1P8b4lSX+QMFIL/EylO30eC0yl3PqXLA7efnPk4WmTifwT6siKgVqsK3WHVfI/o2G/qdC9Qfk1Vd3sVioHKhreuyeK7aoQxzHNfzdS3yayMKwzGOT+b2O/D0gqeFi8pzSy9SeZ5yBoe8O0PHJgsDdUGcQept7MvStR2CYk1hZ2ccYH3o0uqvjK60aVfCN1t/rp0kHU0gCJZqxhAqaS69dB1TyoWVHkS6OULTWm2zC4kcgbj2ZE4N2p1Ts5eLLlXL26ducC+mRf11g1m4+CAu14iUeN0IcKiehN5bFFyd9m/kqQFcvbaJH9ZexZKDwlBs=;0hciDYmzgfIhJZ5kDDIWwg=="
 ---
 

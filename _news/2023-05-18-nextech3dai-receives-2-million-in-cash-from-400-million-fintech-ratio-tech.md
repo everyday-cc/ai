@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Nextech3D.ai Receives $2 Million in Cash From $400 million FinTech Ratio Tech"
-excerpt: "With access to a $400 million credit facility, Ratio is able to fund Nextech3D.ai Accounts Receivables With Zero dilution For The Foreseeable FutureTORONTO, ON / ACCESSWIRE / May 18, 2023 / Nextech3D."
-publishedDateTime: 2023-05-18T11:39:00Z
-originalUrl: "https://www.finanznachrichten.de/nachrichten-2023-05/59123742-nextech3d-ai-receives-dollar-2-million-in-cash-from-dollar-400-million-fintech-ratio-tech-200.htm"
-webUrl: "https://www.finanznachrichten.de/nachrichten-2023-05/59123742-nextech3d-ai-receives-dollar-2-million-in-cash-from-dollar-400-million-fintech-ratio-tech-200.htm"
+excerpt: "With access to a $400 million credit facility, Ratio is able to fund Nextech3D.ai Accounts Receivables With Zero dilution For The Foreseeable Future"
+publishedDateTime: 2023-05-18T11:45:00Z
+originalUrl: "https://tulsaworld.com/ap/state/nextech3d-ai-receives-2-million-in-cash-from-400-million-fintech-ratio-tech/article_3eefe327-531a-522e-b87b-da964e5c6b12.html"
+webUrl: "https://tulsaworld.com/ap/state/nextech3d-ai-receives-2-million-in-cash-from-400-million-fintech-ratio-tech/article_3eefe327-531a-522e-b87b-da964e5c6b12.html"
 type: article
 quality: 16
 heat: -1
 published: false
 
 provider:
-  name: Finanznachrichten
-  domain: finanznachrichten.de
+  name: Tulsa World
+  domain: tulsaworld.com
 
 topics:
   - AI in Finance
@@ -78,6 +78,20 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 41
+  - title: "Nextech3D.AI adds 2 million in growth capital cash from FinTech Ratio Tech"
+    excerpt: "CEO Evan Gappelberg joined Steve Darling from Proactive to share news the company the company has added 2 million dollars in cash to the bottom line without share dilution by doing a deal with FinTech Ratio Tech and its 400 million dollar credit fund."
+    publishedDateTime: 2023-05-18T13:57:00Z
+    webUrl: "https://www.proactiveinvestors.com/companies/news/1015471/nextech3d-ai-adds-2-million-in-growth-capital-cash-from-fintech-ratio-tech-1015471.html"
+    type: article
+    provider:
+      name: Proactiveinvestors
+      domain: proactiveinvestors.com
+    quality: 37
+    images:
+      - url: "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDIzXzA1XC9TY3JlZW5zaG90LTIwMjMtMDEtMTctYXQtNi0wMS0zNi1BTV82NDY2M2QwM2ViZjUzLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0Ijo2MzAsImZpdCI6ImNvdmVyIn19fQ=="
+        width: 1200
+        height: 630
+        isCached: true
   - title: "United Insurance among financials gainers; UP Fintech, LM Funding America in losers"
     excerpt: "Gainers: Applied Digital (APLD) +47% on first AI customer news. United Insurance Holdings (UIHC ... Stronghold Digital Mining (SDIG) -11% on reverse stock split. UP Fintech Holding (TIGR) -9%. To ensure this doesn’t happen in the future, please ..."
     publishedDateTime: 2023-05-16T16:11:00Z
@@ -92,6 +106,15 @@ related:
         width: 750
         height: 499
         isCached: true
+  - title: "Data security issues Fintech firms are facing"
+    excerpt: "The covid crisis represented a big concern in the fintech sector. First, more people are remotely managing their money with technology. Second, that’s led to new data security challenges. Hackers are"
+    publishedDateTime: 2023-05-18T11:06:00Z
+    webUrl: "https://techround.co.uk/cybersecurity/data-security-issues-fintech-firms-are-facing/"
+    type: article
+    provider:
+      name: TechRound
+      domain: techround.co.uk
+    quality: 21
   - title: "BOOSTBILLS RECOGNISED AS A MARKET-LEADING FINTECH INNOVATION THAT SIMPLIFIES BILL PAYMENTS"
     excerpt: "Boost, the fintech arm of Axiata, recently received market validation for its game-changing BoostBills feature. Having bagged the Digital – Financial Technology trophy at the Malaysia Technology Excellence Awards 2023,"
     publishedDateTime: 2023-05-17T11:45:00Z
@@ -106,6 +129,15 @@ related:
         width: 1110
         height: 694
         isCached: true
+  - title: "Nextech3D.AI receives initial $2M cash infusion from fintech firm Ratio Technology"
+    excerpt: "Nextech3D.AI (CSE:NTAR, OTCQX:NEXCF) said it has received an initial $2 million cash infusion from fintech firm Ratio Technology. The funding represents a zero-dilutive capital source for the company as the cash was paid against future invoices for ..."
+    publishedDateTime: 2023-05-18T12:06:00Z
+    webUrl: "https://www.proactiveinvestors.com/companies/news/1015405/nextech3d-ai-receives-initial-2m-cash-infusion-from-fintech-firm-ratio-technology-1015405.html"
+    type: article
+    provider:
+      name: Proactiveinvestors
+      domain: proactiveinvestors.com
+    quality: 13
   - title: "Fintech or TechFins: Two Sides of the same coin of Bank Digital Transformation Space"
     excerpt: "TechFins support the end to end Digital Transformation of a process from Origination to Credit underwriting to disbursement and also servicing."
     publishedDateTime: 2023-05-15T11:32:00Z
@@ -125,6 +157,6 @@ related:
       domain: menafn.com
     quality: 4
 
-secured: "HKVBiYr+HKFfIyusWQMyRNnHJvSNJJ3llfP1b0HRhD82CCACCGtdWDeeScE3OLFQ2cZrIyeVZkBjU4W68FiD27NfoQkAA6oWlG4k1UGNCDoP8NOBqZ6yeweCS4Gznoh7URVF527MHoZxuSI6xE9kJScAvzIRepNRsUoidmyNH1l3wD8dNY2GHMkqxk+iOYWiQsETo8u5YvvhMwQ6AGHR3adEYBzSPG7QF5HPGV83zritMKvOOyrf7rToi25egvVh76uJIf2BgXYs8fzjxV2dTLoBa3MoQzcokaIUxEfqOrTHdLpHD2PDOhbeR5nQWp7O8uf/xsFtY3aw+9l8caKtqXCe4ZT2zaCc9K8oFPrKCUQ=;DRa8o+/iImIso257BnGkag=="
+secured: "2Azny0UEz3LcJM4jXMJuLKRglSYH44JRnLrVVn2DZ+7QAS5BcEfjBL4bBs1dScb8q+lAi6wvUXOMFoV+55eM7SpF42fFXwBx6847QugYZ0FNPkC0R3MRsYVy0/LRrabuf0ccPrcN9rRV4wH9dOPCjXtFNxHdIKChYZb/H8qPZvT7jFt51N4nip9FSgbg1FcaDwH78BPe6kIgFb7HNwOASQ3KYHHfxgG6nxirw/Q+ENXwS4c2WrFV9NeQecssOic+iI/IHtL+pwKukClJBqPyazfffep3B3Pv68yHkXFbKD5XwcMWmBjHUXshNw7vXeQ0vhKhnOVW4K0N7CenL47pw1XllnGYXrffsReI30ctx7A=;xW8b73YN6iw3NkNvoNp2GA=="
 ---
 

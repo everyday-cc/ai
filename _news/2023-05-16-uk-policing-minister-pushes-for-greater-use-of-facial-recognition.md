@@ -39,6 +39,20 @@ related:
         width: 3174
         height: 2115
         isCached: true
+  - title: "Walter R. Sundling School receives national recognition for music education program"
+    excerpt: "District 15's Walter R. Sundling Junior High School has been honored with the SupportMusic Merit Award from The NAMM Foundation for its outstanding commitment to music education."
+    publishedDateTime: 2023-05-18T13:42:00Z
+    webUrl: "https://www.dailyherald.com/submitted/20230517/walter-r-sundling-school-receives-national-recognition-for-music-education-program"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 35
+    images:
+      - url: "https://www.dailyherald.com/storyimage/DA/20230517/SUBMITTED/230519391/AR/0/AR-230519391.jpg&updated=202305180942&imageversion=Facebook&exactH=630&exactW=1200&exactfit=crop&noborder"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Policing Minister pushes for facial recognition in all UK police forces despite criticism"
     excerpt: "The Home Office briefed the biometrics and surveillance commissioner on the minsters desire for law enforcement to expand their use of these systems."
     publishedDateTime: 2023-05-16T22:27:00Z

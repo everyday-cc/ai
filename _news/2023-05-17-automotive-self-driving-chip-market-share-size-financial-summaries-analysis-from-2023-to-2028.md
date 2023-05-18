@@ -114,6 +114,15 @@ related:
         width: 800
         height: 507
         isCached: true
+  - title: "9 in 10 drivers not keen on buying a self-driving car, survey claims"
+    excerpt: "Motoring experts asked 1000 car insurance customers whether they would be keen to buy a self-driving car and 87% said they wouldn’t."
+    publishedDateTime: 2023-05-18T13:21:00Z
+    webUrl: "https://www.techdigest.tv/2023/05/9-in-10-drivers-not-keen-on-buying-a-self-driving-car-survey-claims.html"
+    type: article
+    provider:
+      name: Tech Digest
+      domain: techdigest.tv
+    quality: 19
   - title: "Fugitive ex-Apple engineer charged for trying to steal self-driving car tech"
     excerpt: "The Justice Department said Tuesday it has charged a former Apple engineer with attempting to steal the firm’s technology related to autonomous systems, including self-driving cars, and then fleeing to China. The case was among five announced on Tuesday ..."
     publishedDateTime: 2023-05-16T18:36:00Z

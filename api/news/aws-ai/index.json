@@ -2,58 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2023-05-18-amazons-cloud-unit-to-invest-13-bln-in-india-by-2030.md",
-      "title": "Amazon's cloud unit to invest $13 bln in India by 2030",
-      "excerpt": "3D printed clouds and figurines are seen in front of the AWS (Amazon Web Service ... including storage, networking and artificial intelligence. Amazon's move comes as India steps up efforts to attract more big-ticket investments in the digital space ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/amazons-cloud-unit-invest-127-billion-india-by-2030-2023-05-18/?taid=6465dd645dda1f000194ea34",
-      "originalUrl": "https://www.reuters.com/technology/amazons-cloud-unit-invest-127-billion-india-by-2030-2023-05-18/?taid=6465dd645dda1f000194ea34",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/nWZSe2P3Om0Un7Bi8E5JHgWUfC8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/TWXHX3IURVLRHNQZCCZEUATM4I.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-18T01:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-05-17-amazon-unveils-echo-pop-new-echo-buds-reports-500m-alexa-device-sales-as-ai-upends-market.md",
       "title": "Amazon unveils Echo Pop, new Echo Buds; reports >500M Alexa device sales as AI upends market",
       "excerpt": "In-depth Amazon coverage from the tech giant’s hometown, including e-commerce, AWS, Amazon Prime ... broader market is focused on the rapid development in generative artificial intelligence, where sophisticated interactions with new language models ...",
@@ -1504,6 +1452,49 @@
       "topics": [
         "AWS AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-04-automate-the-deployment-of-an-amazon-forecast-time-series-forecasting-model.md",
+      "title": "Automate the deployment of an Amazon Forecast time-series forecasting model",
+      "excerpt": "Time series forecasting refers to the process of predicting future values of time series data (data that is collected at regular intervals over time). Simple methods for time series forecasting use historical values of the same variable whose future values need to be predicted, whereas more complex,",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/automate-the-deployment-of-an-amazon-forecast-time-series-forecasting-model/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/automate-the-deployment-of-an-amazon-forecast-time-series-forecasting-model/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-04T11:15:10-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
       ]
     }
   ],

@@ -2,9 +2,9 @@
 category: news
 title: "Sam Altman: CEO of OpenAI calls for US to regulate artificial intelligence"
 excerpt: "The creator of advanced chatbot ChatGPT has called on US lawmakers to regulate artificial intelligence (AI). Sam Altman, the CEO of OpenAI, the company behind ChatGPT, testified before a US Senate committee on Tuesday about the possibilities - and pitfalls - of the new technology."
-publishedDateTime: 2023-05-17T11:26:00Z
-originalUrl: "https://www.bbc.co.uk/news/world-us-canada-65616866?at_medium=RSS&at_campaign=KARANGA'"
-webUrl: "https://www.bbc.co.uk/news/world-us-canada-65616866?at_medium=RSS&at_campaign=KARANGA'"
+publishedDateTime: 2023-05-16T18:34:00Z
+originalUrl: "https://www.bbc.co.uk/news/world-us-canada-65616866"
+webUrl: "https://www.bbc.co.uk/news/world-us-canada-65616866"
 ampWebUrl: "https://www.bbc.co.uk/news/world-us-canada-65616866.amp"
 cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/world-us-canada-65616866.amp"
 type: article
@@ -73,6 +73,20 @@ related:
       - url: "https://image.cnbcfm.com/api/v1/image/107241834-1684249882415-sam.jpg?v=1684261588"
         width: 2755
         height: 1837
+        isCached: true
+  - title: "UK Plans Meeting on AI Risks With OpenAI, DeepMind Bosses"
+    excerpt: "The UK government has invited bosses from some of the world’s biggest artificial intelligence firms to a meeting, people familiar with the matter said, as Prime Minister Rishi Sunak crafts a policy to manage the risks and benefits of the technology."
+    publishedDateTime: 2023-05-18T14:31:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-05-18/uk-plans-meeting-on-ai-risks-with-openai-deepmind-bosses"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 84
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ilIvhpd0_UuM/v1/1200x802.jpg"
+        width: 1200
+        height: 802
         isCached: true
   - title: "OpenAI, IBM Urge Senate to Act on AI Regulation After Past Tech Failures"
     excerpt: "Executives from two major AI companies asked senators on Tuesday to pass regulations for the ground-breaking but nascent technology as rapid innovation raises ethical, legal and national security questions."
@@ -197,6 +211,6 @@ related:
         height: 342
         isCached: true
 
-secured: "W3/ya9dmHAk74sQZdgBjTK5BHLRD7fKOmtgjSk6KqAHY2j2PyaACi4JWFjKSKEDmkQ7Yuq00SsH+ZBqmGUJLquE5Vizt5MriveoAGJTwUMZO5lcvQ+M/GP/TaLFyTNTxk/sh9FZ/eZGC3gC9MhT8Vf1c4gsZ/9oNadyJv9/Hxm7EVHv8rLdMSv2gmvxOMsrk8w3hC5SGAoVwClsV7BssdhRWuBpmUC89yPm3HVDzi53TfStRRc3jH9dfzsRS1Q1aPZnksp5QkkPlNwf6/0kFkq0gfxL4860nq+zp1Qnl+qoT6GeMEfEhE7ZOGAJ3r8zn4JOsb9bwBtHZRniYswV4swUkvEjjHDK/ViPcg7rNok8=;UZDLM3mCeabKOS//0Qaitg=="
+secured: "K8svGMASeaX0SVgLpt4lN+2pg40Gr7xjtFj2VnppRKDREdW/oJlDG2sx4DrZLQbRcZL42ZJxZ2QXhoG5XCQxL4e8WZOMT6GsOdhYSMLFBb+8EicPrCpfvCHFy26l/SnN5zN6pnTr4cvlDyJqoQKO+Jn0bUhTvjaTlZv2QlKMHc05ma4S6eyv9RuGuytNDtXWKJNhGsO3tWYduAvtCSzCJqPt7e+pTc/Cj3ZSlcqlbOI2ee+wDgjDowdbi6wXWNL4VtFxTPnmxivQDuPAd4u44er/tu5kUcRfofve8tR9++OxDnS6d5dxQdVOMX1dS1cRHB6ESjD4SDtFuP9cczre7DBGurCNe8gOraWkd73CU3E=;HOqqujc+uw1vkxswREMwvg=="
 ---
 

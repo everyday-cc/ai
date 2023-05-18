@@ -7,7 +7,7 @@ originalUrl: "https://www.psychologytoday.com/us/blog/the-pacific-heart/202305/a
 webUrl: "https://www.psychologytoday.com/us/blog/the-pacific-heart/202305/artificial-intelligence-existential-threat-and-litmus-test"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,24 @@ images:
     width: 1528
     height: 800
     isCached: true
+
+related:
+  - title: "Trump supporters and Christians are the most worried that AI is an existential threat to humanity, poll says"
+    excerpt: "Respondents who voted for Donald Trump for the 2020 presidency and identify as Evangelical Christians were most concerned about AI's potential risks."
+    publishedDateTime: 2023-05-18T15:09:00Z
+    webUrl: "https://www.businessinsider.com/trump-supporters-christians-most-concerned-ai-threat-humanity-poll-2023-5"
+    ampWebUrl: "https://www.businessinsider.com/trump-supporters-christians-most-concerned-ai-threat-humanity-poll-2023-5?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-supporters-christians-most-concerned-ai-threat-humanity-poll-2023-5?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 68
+    images:
+      - url: "https://i.insider.com/6466409b7224930019f364bc?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "yCFTg5N8Dfk9hvcmMsxQwRpskDp7hAYm94oTC7CJ+tsSvnO1leLFQ+kHGIPT4SJ951BukV/YHf7R3MDvzx5CExgwuNDDCICimMmqnP88Wh1WzL5L5YWp2pUN9l9T0bZNM7EayGhQDabBJdTjo5jXYf0iVE6qwmaYW6BJxihjZy/vXNLX8/1fN0AkxADtFBiLlLvJSeN7bsNPe91AapnAs/V9SDTwZ0yNG+899xw+8qe2Gt6foy45fYDzDz8+gRHSmz17HH0wO7t20YiAu+vCHnR2wXo8yUgQ0rX+EaXW63xJTY2zNzt1NL7thGtLtVDqyVzlyyNgVsnUVX8sOrxz5VGuXXAXbmIEvyECw7RorK6cFrSRh5wPjHLG17NySvxCbPDzJmCBXlmfgzH9XisCC1i04xDTFD9lTa41QvvvAEIGMU8q2YTjzYghz11qS8bcno4njSjEscysEsxdfBG64WpOXuAC2kOSFY024ogdVLb8UvpXdIdTv4twe6RzRGI2dAlxPZSWspSPnQDjfOBbXQ==;nbsR46JlE1yZQ+xYK83uxA=="
 ---

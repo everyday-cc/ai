@@ -2,9 +2,9 @@
 category: news
 title: "Microsoft CEO wants to 'mitigate unintended consequences' involving artificial intelligence"
 excerpt: "NBC's Andrew Ross Sorkin sat down with Microsoft CEO Satya Nadella to discuss his concerns on where artificial intelligence is heading. Nadella says that he wants to \"mitigate unintended consequences\" involving A."
-publishedDateTime: 2023-05-16T23:44:00Z
-originalUrl: "https://www.nbcnews.com/now/video/microsoft-ceo-speaks-out-on-future-of-artificial-intelligence-174563909885"
-webUrl: "https://www.nbcnews.com/now/video/microsoft-ceo-speaks-out-on-future-of-artificial-intelligence-174563909885"
+publishedDateTime: 2023-05-16T23:43:00Z
+originalUrl: "https://www.nbcnews.com/news/amp-video/mmvo174563909885"
+webUrl: "https://www.nbcnews.com/news/amp-video/mmvo174563909885"
 ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo174563909885"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo174563909885"
 type: article
@@ -43,7 +43,21 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Fintech Ramp Launches Money Saving AI Tools For Businesses—Announces Microsoft CEO, More As Investors"
+    excerpt: "The four-year-old corporate credit card startup is using OpenAI's GPT-4 and billions of dollars of transaction data to tell businesses whether quoted software prices are a good deal—or not."
+    publishedDateTime: 2023-05-18T14:01:00Z
+    webUrl: "https://www.forbes.com/sites/jonathanponciano/2023/05/18/fintech-ramp-launches-money-saving-ai-tools-for-businesses-announces-microsoft-ceo-more-as-investors/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 71
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/635744bdc68efe4cf2c46738/0x0.jpg?format=jpg&crop=1851,1042,x0,y124,safe&width=1200"
+        width: 1200
+        height: 676
+        isCached: true
 
-secured: "QsdE0UiuN7+9MtHrRAzsKBzr1NI0KpEp+X2IK7PdZtvM44mtfUDyLNXa4SwMwzb1GG27pC1UwnC7XznM/h7UlrZ34GVznR4zKYgGBfJgp3xwQnW4Z4Pfx6Gv9KcMQCtLHm8Qbg/IB5lEqtI2A198nRILq5ptYKd6jqgduwZkTKSRcaokdBUwWmN/IMeeHpUy/S471FGjKlxxD/BMwdK5AgwQ2FwP3EsEz+Hei8fub8MkTrfQcYPV5lk4EDsD9nAIQHjSc9mOUyZV4RsuCK6mBr0/k2aLkByUdAw+FZPrX5UQbt2aQH7CYp75OphzBWUeaYjf6e+GrX2sogHtM47FTTxhoV+PsiYsdqRtaxDxQQFvDbWqROLrklnW1Z7lhF/QSODE1rKpAEl3SD3RE2KWOp63WKjXGRdO/IdeNHRTkVAxx5FGhqKVZOCFE30hBlVALhl88c05MSFEeKNq0m1bJiw01xpj0AQjJn6r/ENcG4rFh52ro2uYbzueSVq3sr7bvjG3v9wj3UwbvocTXmfXKg==;NExFLHqGLX9WDMJXx9scmw=="
+secured: "9BLFp3i+AVhjV/zGrI+y/xZr/+0jeYz3Xj8wtxGyS7p2k+tyJAtQLj5L/jrjhdOuHahn934TVeHYux4YgelxEQMGJ0olZQ5uVfG4zz2Ei1gMlSgjlVa0VJk4GJHBVm9OhztJS30+TUxMubNxEgwSF2123Y8xhg5VSsVsBj1D0xh4eKLw3ez0awBq/dcBk4MKSbT7FhtTY+SZbBxbsuE8DWJPxV44dW0KCJ53v5b5h2MLvYG0w8+Wmsg0Pi1v1WZByhIiZzYxftp9jKb84gUAHzqNkEdmiX8pKHuqUGdoqXLg2Jbxvxd7MQReoTyGqfqDmFBUMIUB3grpNSR5sjDUe1wMa8vesNEr7+VXDAZ8YI8=;ObHseIDBRIBQ53zIQUCMXQ=="
 ---
 

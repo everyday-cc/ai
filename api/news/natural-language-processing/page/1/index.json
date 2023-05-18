@@ -54,58 +54,6 @@
       ]
     },
     {
-      "path": "_news/2023-05-18-fast-food-drive-thru-eateries-such-as-wendys-are-aiming-to-use-generative-ai-to-take-your-order-but-we-might-not-relish-having-ai-do-so.md",
-      "title": "Fast-Food Drive-Thru Eateries Such As Wendy’s Are Aiming To Use Generative AI To Take Your Order, But We Might Not Relish Having AI Do So",
-      "excerpt": "Fast-Food Drive-Thru Eateries Such As Wendy’s Are Aiming To Use Generative AI To Take Your Order, But We Might Not Relish Having AI Do So",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2023/05/18/fast-food-drive-thru-eateries-such-as-wendys-are-aiming-to-use-generative-ai-to-take-your-order-but-we-might-not-relish-having-ai-do-so/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2023/05/18/fast-food-drive-thru-eateries-such-as-wendys-are-aiming-to-use-generative-ai-to-take-your-order-but-we-might-not-relish-having-ai-do-so/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/646524a5cef85bb5c4b1abc6/0x0.jpg?format=jpg&crop=2794,1572,x0,y112,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2023/05/18/fast-food-drive-thru-eateries-such-as-wendys-are-aiming-to-use-generative-ai-to-take-your-order-but-we-might-not-relish-having-ai-do-so/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/05/18/fast-food-drive-thru-eateries-such-as-wendys-are-aiming-to-use-generative-ai-to-take-your-order-but-we-might-not-relish-having-ai-do-so/amp/",
-      "publishedDateTime": "2023-05-18T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-05-18-are-alexa-and-siri-ai.md",
       "title": "Are Alexa and Siri AI?",
       "excerpt": "Conversational AI is a type of artificial intelligence that ... They have extensive amounts of data that allow them to recognize speech and text to then translate these inputs into meaning. Natural Language Processing in Alexa and Siri Natural language ...",
@@ -166,7 +114,7 @@
       "originalUrl": "https://www.zdnet.com/article/these-4-popular-microsoft-apps-are-getting-a-big-ai-boost/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 286,
+      "heat": 306,
       "tags": null,
       "images": [
         {
@@ -1496,6 +1444,58 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-09-you-can-earn-up-to-25-an-hour-training-ai-to-write-better-in-other-languages.md",
+      "title": "You can earn up to $25 an hour training AI to write better in other languages",
+      "excerpt": "If you're a writer with an interest in AI and other languages, there's a job available for you. Scale AI, a data-labeling company, has job listings for writers to train generative AI models to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/ai-training-jobs-data-labeling-language-improvement-pay-25-hour-2023-5",
+      "originalUrl": "https://www.businessinsider.com/ai-training-jobs-data-labeling-language-improvement-pay-25-hour-2023-5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/645a535ec726bc00196a8d95?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/ai-training-jobs-data-labeling-language-improvement-pay-25-hour-2023-5?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-training-jobs-data-labeling-language-improvement-pay-25-hour-2023-5?amp",
+      "publishedDateTime": "2023-05-08T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

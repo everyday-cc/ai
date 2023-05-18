@@ -234,6 +234,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "KPI Partners Attains Microsoft Azure Solution Partner Status in Data & AI"
+    excerpt: "KPI Partners, a leading global provider of Analytics and Digital Transformation solutions, announced today its achievement of Microsoft Azure Solution Partner status in Data & AI."
+    publishedDateTime: 2023-05-18T12:38:00Z
+    webUrl: "https://analyticsindiamag.com/kpi-partners-attains-microsoft-azure-solution-partner-status-in-data-ai/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 48
   - title: "'Fusion in five years' | AI and Facebook billionaire-backed pioneer signs Microsoft up for 'star power'"
     excerpt: "Helion Energy, whose investors include Sam Altman, Reid Hoffman and Dustin Moskovitz, aims to get first plant online by 2028 and claims deal with software giant"
     publishedDateTime: 2023-05-14T09:23:00Z
@@ -266,6 +275,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 20
+  - title: "Microsoft Translator app get support for these three Indian languages"
+    excerpt: "Microsoft has announced the addition of three new Indian languages in Micorosft Translator. The company has revealed that it has added Konkani, Maithi"
+    publishedDateTime: 2023-05-18T12:18:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/microsoft-translator-app-get-support-for-these-three-indian-languages/articleshow/100332128.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 19
 
 secured: "vGkeCkPZht9TGQzAVHAIrMDtpyEhsmg//agJk0nnM68IuTtVy9AT9umm8ZBVQh382K4ZclkT6uVquxwb0Y1e0q4Zgrsh0b2EKG38QdMFm8zC4hMWmGY/9GtSZYIvVn6s6OJjOlsLhfvm9iyoHzvX7GE0/72huiVBvKsZ1Riw2Ywof8lqNdRl8lvKC+WPzY7WpkhkpH00kIvfakCRy6wUxybB/j3iDk/j1iQm91w8fd20xXQKVz/sIwiccpE3Dzkyc1OsqofKZOWpphoeI7YLV+jtvqvil68msXyaL6UKU2gA3e7I4g8I9AmIykM08ZNKuVQFnE2X3g+sBMY9ifU84oKEmGl7njiBdD68bhnl3EQ=;tksx1fpUEeT2cl2pg0C2gg=="
 ---

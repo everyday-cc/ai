@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Fast-Food Drive-Thru Eateries Such As Wendy’s Are Aiming To Use Generative AI To Take Your Order, But We Might Not Relish Having AI Do So"
-    excerpt: "Fast-Food Drive-Thru Eateries Such As Wendy’s Are Aiming To Use Generative AI To Take Your Order, But We Might Not Relish Having AI Do So"
-    publishedDateTime: 2023-05-18T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/05/18/fast-food-drive-thru-eateries-such-as-wendys-are-aiming-to-use-generative-ai-to-take-your-order-but-we-might-not-relish-having-ai-do-so/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/05/18/fast-food-drive-thru-eateries-such-as-wendys-are-aiming-to-use-generative-ai-to-take-your-order-but-we-might-not-relish-having-ai-do-so/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/05/18/fast-food-drive-thru-eateries-such-as-wendys-are-aiming-to-use-generative-ai-to-take-your-order-but-we-might-not-relish-having-ai-do-so/amp/"
+  - title: "Five tips to navigate the evolving AI landscape"
+    excerpt: "Advanced artificial intelligence, such as ChatGPT, is said to be the most disruptive technology since the advent of electricity. The technology, known as generative AI, can produce content, including text,"
+    publishedDateTime: 2023-05-18T15:52:00Z
+    webUrl: "https://www.itworldcanada.com/sponsored/five-tips-to-navigate-the-evolving-ai-landscape"
+    ampWebUrl: "https://www.itworldcanada.com/sponsored/five-tips-to-navigate-the-evolving-ai-landscape?amp=1"
+    cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/sponsored/five-tips-to-navigate-the-evolving-ai-landscape?amp=1"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 56
+      name: IT World Canada
+      domain: itworldcanada.com
+    quality: 59
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/646524a5cef85bb5c4b1abc6/0x0.jpg?format=jpg&crop=2794,1572,x0,y112,safe&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://i.itworldcanada.com/wp-content/uploads/2023/05/192849ijfw.jpg"
+        width: 1920
+        height: 1438
         isCached: true
   - title: "Tracking Generative AI: How Evolving AI Models Are Impacting Legal"
     excerpt: "A running compilation of how the legal landscape continues to be shaped by generative AI tools, from GPT technologies to art generation tools and beyond."

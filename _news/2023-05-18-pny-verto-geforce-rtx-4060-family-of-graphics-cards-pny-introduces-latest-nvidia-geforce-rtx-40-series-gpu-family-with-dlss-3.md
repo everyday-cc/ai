@@ -1,0 +1,56 @@
+---
+category: news
+title: "PNY VERTO™ GeForce RTX™ 4060 Family of Graphics Cards; PNY Introduces Latest NVIDIA® GeForce RTX™ 40 Series GPU Family with DLSS 3"
+excerpt: "PNY announced today the expansion of its revolutionary NVIDIA GeForce® RTX™ 40 Series PNY and XLR8 Gaming family of GPUs with the addition of the new GeForce RTX 4060 family. PNY GeForce RTX 4060 Ti 8GB will be available May 24th at top retail partners,"
+publishedDateTime: 2023-05-18T14:44:00Z
+originalUrl: "https://it.tmcnet.com/news/2023/05/18/9817111.htm"
+webUrl: "https://it.tmcnet.com/news/2023/05/18/9817111.htm"
+type: article
+quality: 9
+heat: -1
+published: false
+
+provider:
+  name: TMCnet
+  domain: tmcnet.com
+
+topics:
+  - AI Hardware
+  - AI
+
+images:
+  - url: "https://mma.prnewswire.com/media/2079789/PNY_NVIDIA_GeForce_RTX_40_Series_GPU_Family_with_DLSS_3.jpg"
+    width: 400
+    height: 225
+    isCached: true
+
+related:
+  - title: "Save More Than $100 On The ASUS Dual NVIDIA GeForce RTX 3070 V2 OC Edition GPU"
+    excerpt: "Picking up a new GPU just got cheaper, with the ASUS Dual NVIDIA GeForce RTX 3070 V2 OC Edition GPU now selling for just $469.99."
+    publishedDateTime: 2023-05-16T12:57:00Z
+    webUrl: "https://www.redmondpie.com/save-more-than-100-on-the-asus-dual-nvidia-geforce-rtx-3070-v2-oc-edition-gpu/"
+    ampWebUrl: "https://www.redmondpie.com/save-more-than-100-on-the-asus-dual-nvidia-geforce-rtx-3070-v2-oc-edition-gpu/amp/"
+    cdnAmpWebUrl: "https://www-redmondpie-com.cdn.ampproject.org/c/s/www.redmondpie.com/save-more-than-100-on-the-asus-dual-nvidia-geforce-rtx-3070-v2-oc-edition-gpu/amp/"
+    type: article
+    provider:
+      name: Redmond Pie
+      domain: redmondpie.com
+    quality: 55
+    images:
+      - url: "https://cdn.redmondpie.com/wp-content/uploads/2023/05/asus-dual-3070-1.jpeg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "PNY Introduces Latest NVIDIA GeForce RTX 40 Series GPU Family"
+    excerpt: "PNY announced today the expansion of its revolutionary NVIDIA GeForce RTX 40 Series PNY and XLR8 Gaming family of GPUs with the addition of the new GeForce RTX 4060 family."
+    publishedDateTime: 2023-05-18T12:59:00Z
+    webUrl: "https://worthplaying.com/article/2023/5/18/news/137276-pny-introduces-latest-nvidia-geforce-rtx-40-series-gpu-family/"
+    type: article
+    provider:
+      name: Worth Playing
+      domain: worthplaying.com
+    quality: 19
+
+secured: "eByL4k4xThExMamerXy403MPVBSen3tBaZNtgVrITzvqcrOyZzMLpfrYqSxfB524QvWTMfYZ1bgdKB+zCeXw2nn1Hmo0HIb7Tmvk8RNItP96fQdgyG2fPNK1j+ZgrgtPv5aRhuK/1dd16jfAcxwq07DjydU4KSoESSF7HK7P6n+UW8FRE12qXLi3NiP5feGjk2RZFQW/883KGbDGKJz/lfedb6O2WJzVyQLjoNFlFfP4IxgY+23Cg58v1ypRvOWnB+b1oRld05tR8tIfxO7pvd7jpEUDfvHBSwfGHjJTLmxQsVls1+G5L5uS4DV2jC0k9k9eNzH8uNgXWBX59V2mmRHPOPGgp9ZlggBlV7eMjpM=;ksRaXsyccVNE//nld4snQg=="
+---
+

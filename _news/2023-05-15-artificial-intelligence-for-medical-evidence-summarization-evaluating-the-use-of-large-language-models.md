@@ -7,7 +7,7 @@ originalUrl: "https://www.news-medical.net/news/20230515/Artificial-intelligence
 webUrl: "https://www.news-medical.net/news/20230515/Artificial-intelligence-for-medical-evidence-summarization-evaluating-the-use-of-large-language-models.aspx"
 type: article
 quality: 3
-heat: 3
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,17 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+
+related:
+  - title: "How to scale the use of large language models in marketing"
+    excerpt: "Learn ways to scale the use of large language models, the value of prompt engineering and how marketers can prepare for what's ahead."
+    publishedDateTime: 2023-05-18T12:00:00Z
+    webUrl: "https://searchengineland.com/scale-use-large-language-models-marketing-415621"
+    type: article
+    provider:
+      name: Search Engine Land
+      domain: searchengineland.com
+    quality: 21
 
 secured: "jgT1NwE0iga+qdmpClxBCbYt3M2Ydnszkfk8paC7FoyN7emFdVSFTKPl0Bcve8Dhk7eO1Krc08+b0V7muJRhSVuSN3wY3Y4vYYQEocASONq8rPwT/j7eeNbD18hYiU2ICorc/XKibecnDbsHKA3A7mza9DOk7StYwaPjV2HLPswKIqmHBs7egDjcuLAvHSTX4xyoQLcCT9CYhtxq5KCZ/Dm5izhG3AWEvw1st/PJHRmMTYXx09TczNSp1cSygTkvzSnymkcnbbIFMcDeuRx54x+Apfdg994uu+gySdjQ5GYQzF1rByfO8EXRociYzUZjejYz4xpe0FwrnD4xKwzJ+ZjICY7VVzXXvnc4Q/rTN63K6YYWJJk3x0WSuA5vHkZDxl0lwBt7gdUibBtYGiUwOW1wWTsnMNYf3wAAfC/eYGifIJTJ1HIbVTQsKtv1EJRQZV/Pm77AmP3fupW3X9UQxTTGrudQfCwkmS9mTwZoVup+I5F5vihhEs5HVHsH5cKvVQwDcI74f6kVN8WR6dL3Hw==;8jkaKID2/+tUWjrpH6b9Zg=="
 ---

@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "AI Risks: The Need to Define AI Ethics and Rules"
+    excerpt: "While tech industry veterans are concerned about AI and its potential risk, it raises the question of whether to ban AI or enforce ethical restrictions."
+    publishedDateTime: 2023-05-18T14:02:00Z
+    webUrl: "https://enterprisetalk.com/featured/ai-risks-the-need-to-define-ai-ethics-and-rules/"
+    ampWebUrl: "https://enterprisetalk.com/featured/ai-risks-the-need-to-define-ai-ethics-and-rules/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/featured/ai-risks-the-need-to-define-ai-ethics-and-rules/amp/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 74
+    images:
+      - url: "https://enterprisetalk.com/wp-content/uploads/2023/05/AI-Risks-The-Need-to-Define-AI-Ethics-and-Rules.jpg"
+        width: 1500
+        height: 844
+        isCached: true
   - title: "‘Cyber-Heartbreak’ and Privacy Risks: The Perils of Dating an AI"
     excerpt: "There’s a growing business for virtual romance, but it’s not without the familiar hazards of human relationships"
     publishedDateTime: 2023-05-17T14:00:00Z

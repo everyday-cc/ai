@@ -2,6 +2,153 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2023-05-11-revolve-and-maison-meta-bring-ai-fashion-week-to-physical-runways.md",
+      "title": "Revolve And Maison Meta Bring AI Fashion Week To Physical Runways",
+      "excerpt": "AI Fashion Week by Maison Meta and Revolve hopes to bridge the gap between AI-generated designs and IRL fashion, and launch the careers of new designers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jennywang/2023/05/11/revolve-and-maison-meta-bring-ai-fashion-week-to-physical-runways/",
+      "originalUrl": "https://www.forbes.com/sites/jennywang/2023/05/11/revolve-and-maison-meta-bring-ai-fashion-week-to-physical-runways/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/645cf94b82db4d2d30cb5cb8/0x0.jpg?format=jpg&crop=1586,891,x0,y18,safe&width=1200",
+          "width": 1200,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jennywang/2023/05/11/revolve-and-maison-meta-bring-ai-fashion-week-to-physical-runways/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jennywang/2023/05/11/revolve-and-maison-meta-bring-ai-fashion-week-to-physical-runways/amp/",
+      "publishedDateTime": "2023-05-11T07:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-11-machine-learning-security-principles-ebook-worth-3799-free-download.md",
+      "title": "Machine Learning Security Principles eBook (worth $37.99) - free download",
+      "excerpt": "The first part of this book will explore these processes in more depth, which will help you in understanding the role security plays in machine learning. As you progress to the second part, you’ll learn more about the environments where ML is commonly ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.neowin.net/sponsored/machine-learning-security-principles-ebook-worth-3799---free-download/",
+      "originalUrl": "https://www.neowin.net/sponsored/machine-learning-security-principles-ebook-worth-3799---free-download/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neowin.com/news/images/uploaded/2019/11/1574762211_1481879523_efa151423bca1f29bdb0870f620e57a112ee9c7b_main_hero_image_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.neowin.net/amp/machine-learning-security-principles-ebook-worth-3799---free-download/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/machine-learning-security-principles-ebook-worth-3799---free-download/",
+      "publishedDateTime": "2023-05-11T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2023-05-11-nextira-selected-by-ansys-technology-partner-program-to-support-customers-implementing-ansys-gateway-powered-by-aws.md",
+      "title": "Nextira Selected by Ansys Technology Partner Program to Support Customers Implementing Ansys Gateway Powered by AWS",
+      "excerpt": "seamless transition to Ansys Gateway powered by AWS.” Nextira’s core services include Predictive Enterprise, focused on integrating artificial intelligence (AI), machine learning (ML) and data analytics to design, build, launch and optimize HPC ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bakersfield.com/ap/news/nextira-selected-by-ansys-technology-partner-program-to-support-customers-implementing-ansys-gateway-powered-by/article_afe43156-20ec-5e56-8fe4-069dd906a21e.html",
+      "originalUrl": "https://www.bakersfield.com/ap/news/nextira-selected-by-ansys-technology-partner-program-to-support-customers-implementing-ansys-gateway-powered-by/article_afe43156-20ec-5e56-8fe4-069dd906a21e.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png?resize=600%2C315",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-11T06:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Bakersfield Californian",
+        "domain": "bakersfield.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-11-mass-event-will-let-hackers-test-limits-of-ai-technology.md",
       "title": "Mass Event Will Let Hackers Test Limits of AI Technology",
       "excerpt": "Major AI providers such as OpenAI, Google, and Microsoft, are allowing hackers take a shot at testing the limits of their technology.",
@@ -1075,143 +1222,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-11-ethics-of-artificial-intelligence-ai-in-brazil.md",
-      "title": "Ethics of Artificial Intelligence (AI) in Brazil",
-      "excerpt": "Artificial intelligence (AI) has enormous potential for benefiting humanity and promoting sustainable development, but only if it develops in a way that benefits humanity, respects global norms and standards, and is anchored in peace and sustainable ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.unesco.org/en/fieldoffice/brasilia/expertise/artificial-intelligence-brazil",
-      "originalUrl": "https://www.unesco.org/en/fieldoffice/brasilia/expertise/artificial-intelligence-brazil",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.unesco.org/sites/default/files/styles/banner_mobile/public/2022-11/brz_brasilia_Itamarati_palace_UNESCO-EdsonFogaca.jpg?h=3d3477a3&itok=vyJlWReC",
-          "width": 400,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-10T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "UNESCO",
-        "domain": "unesco.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-05-11-google-launches-new-ai-tools.md",
-      "title": "Google launches new AI tools",
-      "excerpt": "As the race to dominate artificial intelligence escalates between tech giants, Google unveiled new AI software to build presentations, analyze and enter data, and write content. NBC News’ Jacob Ward has more details on growing concerns over the future of AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/nightly-news/video/google-launches-new-ai-tools-173891653794",
-      "originalUrl": "https://www.nbcnews.com/nightly-news/video/google-launches-new-ai-tools-173891653794",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 267,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_05/1683761014453_nn_jwa_googles_ai_launch_230510_1920x1080-r8qeop.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo173891653794",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo173891653794",
-      "publishedDateTime": "2023-05-10T16:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-11-google-is-transforming-the-cloud-with-ai-for-both-developers-and-regular-users.md",
-      "title": "Google is transforming the cloud with AI — for both developers and regular users",
-      "excerpt": "Google is integrating generative AI into its cloud via a new interface, Duet AI, that helps make cloud developers and users more productive.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/google-is-transforming-the-cloud-with-ai-for-both-developers-and-regular-users/",
-      "originalUrl": "https://venturebeat.com/ai/google-is-transforming-the-cloud-with-ai-for-both-developers-and-regular-users/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/05/Duet1-e1683757951578.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 905,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/google-is-transforming-the-cloud-with-ai-for-both-developers-and-regular-users/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/google-is-transforming-the-cloud-with-ai-for-both-developers-and-regular-users/amp/",
-      "publishedDateTime": "2023-05-10T16:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

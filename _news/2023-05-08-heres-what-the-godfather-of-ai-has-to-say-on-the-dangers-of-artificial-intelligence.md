@@ -1,30 +1,20 @@
 ---
 category: news
 title: "Here's what the 'Godfather of AI' has to say on the dangers of artificial intelligence"
-excerpt: "Hinton mentioned that there's a recommendation on what people should do but when it comes to AI, there are no recommendations as of now. \"With climate"
-publishedDateTime: 2023-05-08T10:14:00Z
-originalUrl: "https://timesofindia.indiatimes.com/gadgets-news/heres-what-the-godfather-of-ai-has-to-say-on-the-dangers-of-artificial-intelligence/articleshow/100072438.cms"
-webUrl: "https://timesofindia.indiatimes.com/gadgets-news/heres-what-the-godfather-of-ai-has-to-say-on-the-dangers-of-artificial-intelligence/articleshow/100072438.cms"
-ampWebUrl: "https://m.timesofindia.com/gadgets-news/heres-what-the-godfather-of-ai-has-to-say-on-the-dangers-of-artificial-intelligence/amp_articleshow/100072438.cms"
-cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/gadgets-news/heres-what-the-godfather-of-ai-has-to-say-on-the-dangers-of-artificial-intelligence/amp_articleshow/100072438.cms"
+excerpt: "Hinton mentioned that there's a recommendation on what people should do but when it comes to AI, there are no recommendations as of now."
+publishedDateTime: 2023-05-08T10:37:00Z
+originalUrl: "https://www.headlinestoday.in/technology/heres-what-the-godfather-of-ai-has-to-say-on-the-dangers-of-artificial-intelligence-544949246.html"
+webUrl: "https://www.headlinestoday.in/technology/heres-what-the-godfather-of-ai-has-to-say-on-the-dangers-of-artificial-intelligence-544949246.html"
 type: article
-quality: 64
-heat: 64
-published: false
 
 provider:
-  name: Indiatimes
-  domain: indiatimes.com
+  name: headlinestoday
+  domain: headlinestoday.in
 
 topics:
+  - AI in Autos
   - AI
 
-images:
-  - url: "https://static.toiimg.com/thumb/msid-100072587,width-1070,height-580,imgsize-84784,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
-    width: 1068
-    height: 580
-    isCached: true
-
-secured: "FE7ZzJPgSbVQdw9/0d7+JSIQu2UgNV61Xwpk/ySj2clVOwJtylNwXaNbJwPqfTkJxxZIlRU3LOAkaU2YGvYaGLf8nM8ejacncd/Sr24y85hdBe7Knt0IvKPHcX5sYf0Xgpme3jC8sZ5Yn2kGZYPNAa/h6ThdnrwnK5XvTP8dTRzJAwYCTYI+ITbDc7ArEa04a2mwuCGGqchB7+4kPN2H6MXgLePA8Mdey+Lh8mUbqFj/hnxD6GMpCYuzIvUTWg/9D/1ifGGBJR2zCBy+49li20I7ad9C5OMeuNW23YCwpJNNauXNKttsjbAYwBCEAB9fmXaoWylOR7LVlEomje80IF5BZ1QWGYYwGxCkyWnm2Uw=;ri9uYNl2hhIpMTzenW7IOw=="
+secured: "bZ78Rs1qR0tNX8dMXZsjIfyyxbyklrT2S48cYw/tgSoNQzHVE+w45dzFOZ73824Mlgblctw2pYDtMSBZKMuwvEdjZLH7lWNBGQ3aLJCbcSUdLT6yBokI/owj5pkO8i2ts55kwbnIm4u5bkHrUANDeGEAfsRctSRz18rQOxue+LDZbVzJgXe1L6/N+lZnXGsqk1latW+wjCKy0Ntj4RiNd272dCfcXQ50e0pA3+M4PqFxWCBa3fORMByaKVEZ3G59rVSRewJ7mlBcEhMtoHje9xC9Hh4HvvnplkQ+Wr7CjtHl1KJc43myqC5rLtxuJLOsjJVjTzDL5GTN8Hn7Dqi7udM7VQpkJg/CVZbeqnhG47c=;yEWC4A6mw/9hvGkbFQe7Fg=="
 ---
 

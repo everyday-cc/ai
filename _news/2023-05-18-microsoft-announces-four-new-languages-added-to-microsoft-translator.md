@@ -219,6 +219,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "KPI Partners Attains Microsoft Azure Solution Partner Status in Data & AI"
+    excerpt: "KPI Partners, a leading global provider of Analytics and Digital Transformation solutions, announced today its achievement of Microsoft Azure Solution Partner status in Data & AI."
+    publishedDateTime: 2023-05-18T12:38:00Z
+    webUrl: "https://analyticsindiamag.com/kpi-partners-attains-microsoft-azure-solution-partner-status-in-data-ai/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 48
   - title: "Microsoft India Adds 4 New Languages To Translator"
     excerpt: "Microsoft India on Thursday announced the addition of three new Indian languages -- Konkani, Maithili, and Sindhi, in Transl"
     publishedDateTime: 2023-05-18T11:38:00Z
@@ -265,7 +274,16 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 20
+  - title: "Microsoft Translator app get support for these three Indian languages"
+    excerpt: "Microsoft has announced the addition of three new Indian languages in Micorosft Translator. The company has revealed that it has added Konkani, Maithi"
+    publishedDateTime: 2023-05-18T12:18:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/microsoft-translator-app-get-support-for-these-three-indian-languages/articleshow/100332128.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 19
 
-secured: "Ava+V4mRpi768BMmKMi/5DhTpK0JX08NWLabgXOWIaMIRDb3VWBDwpli5o28lN2Wq3EYfmuiRvkegYlvYclXUNKHv2z/9Ul2inU+dP4fPOssqYscrY0dEPk1v4RRB+/9GwFRC02NyhZuWH6TOueONQQJ+zr6vf4IRt5K0Pq0tNOFuI1K2++A38mlfJRvFIBdnWl/VrFLHAPcnAcsyu3YSKLrZ5WEhwdv1wG/P54wZwtXUX9si8YBkjsr8d0p4p5YTxLNR1RXx4M9njiqjZXeLf4TAxiAaP3DxUTq6OrW7rxEUPNQPH7Iy2AIsT1JBUedGdJQ1eRUaiHIfo5TEw5x8OkrTaLdElZVP88WhagS7qo=;f4ck+jtaYZWEwu0KMSBcCQ=="
+secured: "H3HuoILC+tK0nX37j7ATZSf4GegTaPMuY/XrR5Wws44FKpLDF320V0Y7H8e0g2FmNQJ54bBPSC+M435JTmBxvOa3BVCCKRw4XRWYLwEy3tSbfBbmm8bCj80klV5ei+fo6B8KPqud7xplC0qbIX27oB7RArMjdBtIjEPMNpYO8stisaIDKMcClbEzqQnso7NUzEErt9MJtWsAQE3TFsWAZw62Tq+SOw0iqTNoZmWoMZIUnRVWJm96FkA8+cptWHzbJvBmAEYm4RyldwAex48NJA9E/s5qGQcQ9EKPGFRWRweJ4PHP58GBthxQ4UBrNNWAbRiKcL/rS3oGdC0M9q5KMAl7evWOcS4qaAayqQw8U3oGLIo0P1nbfV+KS19SrxK5yo69jGgf+BPNDFoO7zPUR+S15UioVcrJIKoacqNArsOADWtad5la74zikHhrAFu/dVMdio+Jsh1UsgmqYKUijhCmfyY1zOXF9SI6XWorVFEDmCw+IKM/T2Motx6RuFWGFOUu/cvPHp2eBbnH3QWoOw==;Dx1+BH/M8WLKT8ZSYoSu0g=="
 ---
 

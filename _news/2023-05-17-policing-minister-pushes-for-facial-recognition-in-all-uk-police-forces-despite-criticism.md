@@ -53,6 +53,20 @@ related:
         width: 3174
         height: 2115
         isCached: true
+  - title: "Walter R. Sundling School receives national recognition for music education program"
+    excerpt: "District 15's Walter R. Sundling Junior High School has been honored with the SupportMusic Merit Award from The NAMM Foundation for its outstanding commitment to music education."
+    publishedDateTime: 2023-05-18T13:42:00Z
+    webUrl: "https://www.dailyherald.com/submitted/20230517/walter-r-sundling-school-receives-national-recognition-for-music-education-program"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 35
+    images:
+      - url: "https://www.dailyherald.com/storyimage/DA/20230517/SUBMITTED/230519391/AR/0/AR-230519391.jpg&updated=202305180942&imageversion=Facebook&exactH=630&exactW=1200&exactfit=crop&noborder"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "QjpdY3BsEjhsdcQ38rsxiTMpi3rKvZEtVwVQqTdNM4EaAJgZGt//p62GN0L0Ir+jr5YiAb/bQuyCATQr3h1gVBXVd+RqgX5QupLPbGwzfcQ+3uSxvFcIFlZxi0cwk21wSPA3JwKK785g+cG81J9zz77KM4acnJhu3583iwJoqLPNYDB3l31yXOuEIff+ba58B7iSkC3uNyrsr4RM6ejXJOyhB0hzhCvAIJ2vAgXihtpaKOLDbKBIX7bs392w6Q7H7CQDNMrL/TuTOmGb/sFaVGjBJsG4bdTNkiiDCixIqk/q/vZRjO7mikmY6CDCDMJkl4ssc3XLclK+jFYF5cfHRKCHNXtY2LCbHJJ6IHgDgCEiF7LcNgqp7C5WqGdnfU3Cv854ZFNXRn8aWhQH8LS+omybzJJXfGdNy66owOYM0c8aCIdWJFRwhgCXJzz7eLJtC1d4zRuYM3JdOASyVulAN2c+gRHhJ+YlZCH3tihl/bfmZlzyjVnw/hf1NcxvAXmJT44ujtqhowqt8dTbUAez8g==;XKevw0cf5Z1vYqdFjfnOsQ=="
 ---

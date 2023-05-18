@@ -27,21 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "We need to prepare for the public safety hazards posed by artificial intelligence"
-    excerpt: "Emergency management plans need to address the growing risks emerging from increasing applications of artificial intelligence."
-    publishedDateTime: 2023-05-14T11:18:00Z
-    webUrl: "https://theconversation.com/we-need-to-prepare-for-the-public-safety-hazards-posed-by-artificial-intelligence-199846"
-    ampWebUrl: "https://theconversation.com/amp/we-need-to-prepare-for-the-public-safety-hazards-posed-by-artificial-intelligence-199846"
-    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/we-need-to-prepare-for-the-public-safety-hazards-posed-by-artificial-intelligence-199846"
+  - title: "Opinion: When it comes to AI, Congress can’t afford to wait"
+    excerpt: "Lawmakers can’t afford to wait to better understand artificial intelligence before they regulate it, writes Kara Alaimo."
+    publishedDateTime: 2023-05-18T14:02:00Z
+    webUrl: "https://www.cnn.com/2023/05/18/opinions/sam-altman-artificial-intelligence-alaimo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2023/05/18/opinions/sam-altman-artificial-intelligence-alaimo/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/05/18/opinions/sam-altman-artificial-intelligence-alaimo/index.html"
     type: article
     provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 54
+      name: CNN
+      domain: cnn.com
+    quality: 87
     images:
-      - url: "https://images.theconversation.com/files/525641/original/file-20230511-18-3z6quf.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop"
-        width: 320
-        height: 213
+      - url: "https://media.cnn.com/api/v1/images/stellar/prod/230517132837-sam-altman-hearing-230516.jpg?c=16x9&q=w_800,c_fill"
+        width: 800
+        height: 450
         isCached: true
 
 secured: "fTK5KyJQ2FCPyknVLglXTqbqIDEHrDJcWRcaHU5DoXM+HOpraH9yYScQ60Z3Vo8jGYzspm2MLAi8wpxNsdu2qLwKaoVQQ4xpQnlhwqVdIwghISGOPrgLTOWZzo4DTb5nWk+quU+3pv2thSnwh8d96yhnCWL+2WbGUzsPouBvNif79kOuDnP1hZbrhxQfev25I/M6xyc/SFvtacv7j9ZrCowTe6EiRdelvvY++uEhF6Kr4mKBpOm1x3Z8oBxGZ5WqdOJxlfpODN5RnZf5a9TOtEuws1XfRRZ0SIYJu+S82kM6z6Ewqh57JJMXEGX9foNhHzCC6fASgHwovTY0xwCgxAgJIGSWZNN+v1QAxwjOBMWnrgStzqlZ31KLo1rQPI9Zq5eKkBgJtKh/YBO2tvn1dFde0y5AeHrzNcgIGceK5cStxEOku2N5SpOfg3lTNYcWHgpQBKTeJ6TTHguu0vGCQfUspuWL3bPF6UcotoUDjaRQpn8wYWRFs3qq4JYqHMOv1+NzIwdS3fQ+tl4/+9RcqA==;yUx4s/FBWlSHdMV2jKnPvA=="

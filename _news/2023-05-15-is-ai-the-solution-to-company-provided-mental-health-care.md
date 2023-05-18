@@ -147,6 +147,15 @@ related:
       name: The Atlantic
       domain: theatlantic.com
     quality: 47
+  - title: "Risks Posed by AI Technology Spur Calls for New Regulatory Agency"
+    excerpt: "It could be charged with granting licenses for AI platforms, setting operating standards and enforcing compliance with the rules, according to proponents including Sam Altman, chief executive of ChatGPT creator OpenAI."
+    publishedDateTime: 2023-05-18T12:59:00Z
+    webUrl: "https://www.wsj.com/articles/risks-posed-by-ai-technology-spur-calls-for-new-regulatory-agency-8cc2dd76"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 47
   - title: "Maximizing the Value of AI in Cancer Care"
     excerpt: "Cancer treatment has come a long way in recent years and is now evolving more rapidly through the integration of artificial intelligence (AI ... treatments, and healthcare providers, collected from outside a controlled clinical trial setting."
     publishedDateTime: 2023-05-15T00:01:00Z

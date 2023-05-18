@@ -49,20 +49,6 @@ related:
         width: 1200
         height: 625
         isCached: true
-  - title: "Are we ready for mental health AI?"
-    excerpt: "I have encountered mental health chatbots and apps before and it was clear that technology still had a long way to go before it can provide the same nuanced benefit as a human therapist. ChatGPT and its other AI peers seem to hold potential to bridge that gap by providing a “human” experience to the conversation."
-    publishedDateTime: 2023-05-13T23:00:00Z
-    webUrl: "https://www.thestar.com.my/news/focus/2023/05/14/are-we-ready-for-mental-health-ai"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 39
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2023/05/14/2071234.jpg"
-        width: 1240
-        height: 929
-        isCached: true
   - title: "Afraid of AI? Start with ad optimization"
     excerpt: "There is perhaps no greater trend in the tech world right now than artificial intelligence (AI). Specifically, generative AI, which can produce content based on prompts, is garnering a"
     publishedDateTime: 2023-05-17T16:50:00Z

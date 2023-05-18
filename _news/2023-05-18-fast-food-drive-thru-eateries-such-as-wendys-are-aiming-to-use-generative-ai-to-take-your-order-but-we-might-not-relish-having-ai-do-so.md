@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/05/18/fast-food-drive-t
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/05/18/fast-food-drive-thru-eateries-such-as-wendys-are-aiming-to-use-generative-ai-to-take-your-order-but-we-might-not-relish-having-ai-do-so/amp/"
 type: article
 quality: 56
-heat: 76
-published: true
+heat: 56
+published: false
 
 provider:
   name: Forbes
@@ -30,36 +30,6 @@ images:
     height: 675
     isCached: true
 
-related:
-  - title: "Tracking Generative AI: How Evolving AI Models Are Impacting Legal"
-    excerpt: "A running compilation of how the legal landscape continues to be shaped by generative AI tools, from GPT technologies to art generation tools and beyond."
-    publishedDateTime: 2023-05-15T02:06:00Z
-    webUrl: "https://www.law.com/legaltechnews/2023/05/14/tracking-generative-ai-how-evolving-ai-models-are-impacting-legal/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 39
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/01/Numbers-Artificial-Intelligence-767x633.jpg"
-        width: 767
-        height: 633
-        isCached: true
-  - title: "Tracking Generative AI: How Evolving AI Models Are Impacting Legal"
-    excerpt: "A running compilation of how the legal landscape continues to be shaped by generative AI tools, from GPT technologies to art generation tools and beyond."
-    publishedDateTime: 2023-05-16T01:23:00Z
-    webUrl: "https://www.law.com/dailyreportonline/2023/05/14/tracking-generative-ai-how-evolving-ai-models-are-impacting-legal/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 39
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/01/Numbers-Artificial-Intelligence-767x633.jpg"
-        width: 767
-        height: 633
-        isCached: true
-
-secured: "EUFQ3k9+fdiOaLnhUIe6pFu/Jvx3C2ohRqbTRDq3Fp9jegOablYRM1Zh/Lvv/34YZ47jSCCfPcU/ZH/Vl1RCDzRHJc/DjkGZ0V4vL1uvLCJr2cN+DUlgDhekVlzcOoudnmrt8Kg32OI9iNaPavY/oqLMu+zkfKgqWKzplswNGwM+x/H+nKmr+qS+8d9M10NGkYcIynXmeuyDcRZ+AJ+hf9Dnwbvf+/DeBSvn7QsTnT1SPGXXTQ6scTYr+PWiL7LuhcVEK0lZr7jX7MAPYT0nAGrvqFPdl2vF0iBqR6qx2mMDY7aajmAudvts6/GFEJUt8eZxh7phrbemTBHKSXu/NjFJbm//2EKLaElS8IQV+kE=;5TUzUnrqvvT/gHvv7gb96w=="
+secured: "bCmPCvaPNSxL4aaB/YsRlX6omb2o2wkl6sYa4zcC1JogCi0D6AQsmFPiXTBpJSQKmgx5EyMR6P/ltsOEXWpyof7ANcMWjqBNxxKLU+4s43TM3RU0h1O2wJCNzXpKeDOEE9w2CY9nd6KYaUJOCjzlBnkbQSEoVLWaK0DvHceFUkUBd6aYabnXHx5vqob/7aMWoSh4becqrsNIwGnpmMuD1+PDRffcC7zay5e5HTzcGr5FFRcwgNFHFHbXekrytz+kuTIXxU4aBh+vpTVJsq71K2sg4/aiw1AUqtDgJqYwvG3wQDQWFZnCLY/ynUPobBX8F/mg5q0b8hKZ70FBxOgcu67XzqNTdISD32Fo1GHvjQvqsjzJwH4++QyycP0MZpt8JjW53OFDhCtSnk+wpr2VgsDFSNx+/+MMtgdCz9g7Pzo22QL88zDFGuR/6ZYaY1Eh4rXvT1VAO8zaeji882slOcvZ1LAb3NT+3/pIrIzeyWGLf4n5yc563zZqY4k9xWnU2n4bRvv7YDpydW4sbfE26w==;SLS/wEPsu4rIDKea5++iEg=="
 ---
 

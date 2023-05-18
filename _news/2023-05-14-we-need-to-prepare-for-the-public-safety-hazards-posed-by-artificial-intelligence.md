@@ -9,7 +9,7 @@ ampWebUrl: "https://theconversation.com/amp/we-need-to-prepare-for-the-public-sa
 cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/we-need-to-prepare-for-the-public-safety-hazards-posed-by-artificial-intelligence-199846"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 320
     height: 213
     isCached: true
-
-related:
-  - title: "Opinion: We need to prepare for the public safety hazards posed by artificial intelligence"
-    excerpt: "For the most part, the focus of contemporary emergency management has been on natural, technological and human-made hazards such as flooding, earthquakes, tornadoes, industrial accidents, extreme weather events and cyber attacks."
-    publishedDateTime: 2023-05-15T16:01:00Z
-    webUrl: "https://techxplore.com/news/2023-05-opinion-safety-hazards-posed-artificial.html"
-    ampWebUrl: "https://techxplore.com/news/2023-05-opinion-safety-hazards-posed-artificial.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-05-opinion-safety-hazards-posed-artificial.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 49
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/we-need-to-prepare-for.jpg"
-        width: 1356
-        height: 668
-        isCached: true
 
 secured: "fIGt4t+UrSB79wG/SdFVtEfXyDACeGCYYqlxZJ/4BwoFgsqYs8nS+7CxdEb07Jg8oVshjLK7H6ZOhsvX19C2W+SN4PzEF0CbZWpemU8vKIWQVg4aHx1EQiBrhiuWFu2UPBcXqI6Lf4CPfjrK7F5utXBSLMFkAWpupFtTkPmsU/RaIq1x34PUuktgL7C8ScLXty17/Y5CRSlDb1e5g97o5XI1ahdbDQes41kLCz80StMkZTwWnp7lqR8V01Cg56dQXDgPBveSgKDIhCIAzhnyFRR4kgUFCvU113ZOSy6FJ20PD88DcwQkfd2LebxK0fmin3NquMJD+BQWBOOopYIaVq0lEey7UCyzae6M8/X9DCM=;aDb1voTMH4wfJZMONXpZJQ=="
 ---

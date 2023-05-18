@@ -227,6 +227,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "KPI Partners Attains Microsoft Azure Solution Partner Status in Data & AI"
+    excerpt: "KPI Partners, a leading global provider of Analytics and Digital Transformation solutions, announced today its achievement of Microsoft Azure Solution Partner status in Data & AI."
+    publishedDateTime: 2023-05-18T12:38:00Z
+    webUrl: "https://analyticsindiamag.com/kpi-partners-attains-microsoft-azure-solution-partner-status-in-data-ai/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 48
   - title: "Microsoft India Adds 4 New Languages To Translator"
     excerpt: "Microsoft India on Thursday announced the addition of three new Indian languages -- Konkani, Maithili, and Sindhi, in Transl"
     publishedDateTime: 2023-05-18T11:38:00Z
@@ -264,6 +273,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 20
+  - title: "Microsoft Translator app get support for these three Indian languages"
+    excerpt: "Microsoft has announced the addition of three new Indian languages in Micorosft Translator. The company has revealed that it has added Konkani, Maithi"
+    publishedDateTime: 2023-05-18T12:18:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/microsoft-translator-app-get-support-for-these-three-indian-languages/articleshow/100332128.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 19
 
 secured: "dDWDG2ZW5ZGDzXgjpwi/gHEJxMOB7l2WFafdfx8G6U8pr6cmg2IEYzmUSpvTWZLlBR8i1cmlKWOI4qC5RqIuK/7eZsoQ63yiAJTsL29r5gv0cjxafmIRq4OJSH6yr6xt1LTkxux0wZlS5u+//UDjaQGjGZ51RUYIfx/Yp7dR5Ivu/8jSw41ZRlIIF64AO/9NglgrvNjNgbTVht27LT9oTc/Ds50k1FHYvxGb66AiyXJT/zgDGG6nv7hXjTwfM37//OyYQwvhj3s/PgV5mpRBnx5AYI5HJ/2bd9hHZGG724naNsz7bWKT6RFd1X5abnpM9RplLbkJblUxUYgxyt8o4YeIAPC80N6x6Uob3d8yDDGXM6ppQG8PDqJllk+PT+jsMjDJiLOSvq9Z0ZRjSGO+rxSvMkctbWdm+wIvIB9EtBFPixYur62N5yHfv0KnV7vPRArnqHswwON5KxZtrAM0OpFH4KvfjfBlm2P7/6zJtnFuKK8/xyzFL2IZsqxeBryQUqi6GYP2/u7QykuyfzWUBQ==;PlW+IXnC7pUnRLbC7LAO8w=="
 ---

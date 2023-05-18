@@ -133,6 +133,15 @@ related:
       name: The Atlantic
       domain: theatlantic.com
     quality: 47
+  - title: "Risks Posed by AI Technology Spur Calls for New Regulatory Agency"
+    excerpt: "It could be charged with granting licenses for AI platforms, setting operating standards and enforcing compliance with the rules, according to proponents including Sam Altman, chief executive of ChatGPT creator OpenAI."
+    publishedDateTime: 2023-05-18T12:59:00Z
+    webUrl: "https://www.wsj.com/articles/risks-posed-by-ai-technology-spur-calls-for-new-regulatory-agency-8cc2dd76"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 47
   - title: "Is AI the Solution to Company-Provided Mental Health Care?"
     excerpt: "Woebot, a CBT-based chatbot created in 2017 by a team of Stanford psychologists and AI experts, fits the criteria. The app uses a form of AI called “natural language processing” to guide users through sequences of responses meant to mimic a clinician’s reasoning."
     publishedDateTime: 2023-05-15T16:20:00Z
@@ -216,6 +225,6 @@ related:
       domain: devdiscourse.com
     quality: 12
 
-secured: "8vaTOvG08GREnMzsGgSvLTD4ja+S+kKX0y4JKHowPYTZaOSEJkjAJUYT6xTxNXvEFZoaFsG7dzU20U1BBxoW9p3lwTMWVp3RN/oqHnXBvYfzA+Yn3JdHbQ9szKGH7VTLjfHDJBkUHs9PZGazaN29sXJoxkp01SuIBZnxvm64HeUoX44YkzkfO3lqArcBCYJYQPCcOetKPCcJU9yN+m6doKWnt4UQJXu3cTUvI63jlF/6qc2it6HvbuKawwIbEHpVzwxza12QNmtM+JJM4NAPgJ9VJWSD2ZlYHn1yU6GcA4Yn9TkwIG1kO7R3ES+tz+yWp7OL5N3UMWNot9WyUv02SX2S/n7dNd8xSIzFJcH09ow=;YsHC8vI/6LQyyGsxJLLZWA=="
+secured: "ruP9xLqrAr1Jxnu3oGcsqyY6+F34jbqTxMNycPPTzMV38AGclx8WUSOMu/9oVnNPaOHncAIf6pCTa+s2eUprfgP8s9DiAxFteoVzzpZ9qRlfQQg3aqaFE8jKfQgzKJ1HaBeKOUggZGU7hNTC7sCKFXxy8lg+Pb1ooiSCQlaM3HYTpGdJfyJ8QNuZyOG/p1FMYEpTebEz+gW/kn5SxmwGczLVK8IHvRy1HoCt2As35UPAzHOmqUGaqA9QMgw4tclXyj6q3EsS+3THIkuad27xjWAIg3r9/hACgU4rvnKoh+6oynFNqh1F+wU/wDOetBIq7G94+p4UhuCjBB+v9M4AOigPPeYJs+sguLfTmdf7YzvVk9bA1mErCAJwt6qV3s80do6/u15t0CCDcvDXwk6sdjOlPBqu7dSeLr0oih4sp+ABGjYSZP0suOQkKdIXDoYdQd8gKMC0eNnxgJ5VaHu/lNnz4lvjnnOUSAwfVGBbSUNcHVeIQ8JS/YvYM0UP/rP9FQ1bPrWy4AHcyUOrSY8frQ==;cMiamCB9BY8ohgjjPSeCAA=="
 ---
 

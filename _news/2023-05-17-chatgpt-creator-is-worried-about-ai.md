@@ -78,6 +78,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "ChatGPT outperforms money managers, as Americans flock to AI for investing advice"
+    excerpt: "Considering AI's existing ability to best the most blue-chip of money managers out there, the days of paying mutual funds management fees for middling returns, at least in the current structure, may be winding to a close. All of this sounds like investing ..."
+    publishedDateTime: 2023-05-18T14:02:00Z
+    webUrl: "https://www.zdnet.com/article/chatgpt-is-trouncing-money-managers-and-is-destined-to-turn-the-investing-world-upside-down/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/chatgpt-is-trouncing-money-managers-and-is-destined-to-turn-the-investing-world-upside-down/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/chatgpt-is-trouncing-money-managers-and-is-destined-to-turn-the-investing-world-upside-down/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 84
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/27a45630c4d84e49412c328fdfea7c6343d52b9b/2023/05/17/88b1d561-a90d-4972-a16e-17274145535e/gettyimages-1472335476.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "ChatGPT and Generative AI Around the World: Maturity, Opportunities, and Hurdles in Key Regions"
     excerpt: "ChatGPT has received a lot of press since its November 2022 launch. But while interest in the tool is high, its use is not yet universal."
     publishedDateTime: 2023-05-17T19:30:00Z
@@ -482,6 +498,15 @@ related:
         width: 3000
         height: 2000
         isCached: true
+  - title: "Ampere Computing rides the AI, ChatGPT wave, calls for more power-conscious chips"
+    excerpt: "As we develop more products we need more engineers and designers and architects. Portland is a great place to hire. And it’s a good opportunity to hire now and take advantage of current conditions,' said Ampere Computing CPO Jeff Wittich."
+    publishedDateTime: 2023-05-18T12:00:00Z
+    webUrl: "https://www.bizjournals.com/portland/inno/stories/news/2023/05/18/ampere-computing-ai-power-performance.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 29
   - title: "ChatGPT’s chief to testify before Congress as concerns grow about artificial intelligence"
     excerpt: "The head of the company that makes ChatGPT is set to testify before Congress as lawmakers call for new rules to guide the rapid development of AI technology."
     publishedDateTime: 2023-05-16T11:01:00Z
@@ -492,6 +517,15 @@ related:
     provider:
       name: Seattle Times
       domain: seattletimes.com
+    quality: 28
+  - title: "EXCLUSIVE: Roundhill Investments Launches Generative AI ETF In Wake Of ChatGPT Growth - Here Are The Key Holdings"
+    excerpt: "Roundhill Investments has launched a new exchange-traded fund, offering investors the opportunity to secure a diversified portfolio of stocks within the burgeoning generative artificial intelligence space."
+    publishedDateTime: 2023-05-18T13:28:00Z
+    webUrl: "https://markets.businessinsider.com/news/etf/exclusive-roundhill-investments-launches-generative-ai-etf-in-wake-of-chatgpt-growth---here-are-the-key-holdings-1032337597"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
     quality: 28
   - title: "ChatGPT and Education: The power of artificial intelligence and chatbots in the classroom"
     excerpt: "Let’s talk AI. It’s no secret that artificial intelligence (AI) is quickly becoming one of the most powerful tools in today’s world. We’re talking self-driving cars, virtual assistants, and a whole lot more."

@@ -9,7 +9,7 @@ ampWebUrl: "https://newatlas.com/computers/case-code-of-conduct-ai-healthcare/?a
 cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/computers/case-code-of-conduct-ai-healthcare/?amp=true"
 type: article
 quality: 106
-heat: 266
+heat: 276
 published: true
 
 provider:
@@ -137,6 +137,15 @@ related:
     provider:
       name: The Atlantic
       domain: theatlantic.com
+    quality: 47
+  - title: "Risks Posed by AI Technology Spur Calls for New Regulatory Agency"
+    excerpt: "It could be charged with granting licenses for AI platforms, setting operating standards and enforcing compliance with the rules, according to proponents including Sam Altman, chief executive of ChatGPT creator OpenAI."
+    publishedDateTime: 2023-05-18T12:59:00Z
+    webUrl: "https://www.wsj.com/articles/risks-posed-by-ai-technology-spur-calls-for-new-regulatory-agency-8cc2dd76"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
     quality: 47
   - title: "Is AI the Solution to Company-Provided Mental Health Care?"
     excerpt: "Woebot, a CBT-based chatbot created in 2017 by a team of Stanford psychologists and AI experts, fits the criteria. The app uses a form of AI called “natural language processing” to guide users through sequences of responses meant to mimic a clinician’s reasoning."

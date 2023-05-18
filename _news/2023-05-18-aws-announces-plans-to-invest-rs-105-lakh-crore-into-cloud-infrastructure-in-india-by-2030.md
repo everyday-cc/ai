@@ -26,19 +26,14 @@ images:
 
 related:
   - title: "Amazon's cloud unit to invest $13 bln in India by 2030"
-    excerpt: "3D printed clouds and figurines are seen in front of the AWS (Amazon Web Service ... including storage, networking and artificial intelligence. Amazon's move comes as India steps up efforts to attract more big-ticket investments in the digital space ..."
-    publishedDateTime: 2023-05-18T08:52:00Z
-    webUrl: "https://www.reuters.com/technology/amazons-cloud-unit-invest-127-billion-india-by-2030-2023-05-18/?taid=6465dd645dda1f000194ea34"
+    excerpt: "Amazon.com Inc's cloud computing unit will invest 1.06 trillion rupees ($13 billion) in India by the end of this decade, doubling down on its past investments to cater to the growing demand for such services in one of Asia's fastest-growing economies."
+    publishedDateTime: 2023-05-18T10:24:00Z
+    webUrl: "https://www.reuters.com/technology/amazons-cloud-unit-invest-127-billion-india-by-2030-2023-05-18/"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 54
-    images:
-      - url: "https://www.reuters.com/resizer/nWZSe2P3Om0Un7Bi8E5JHgWUfC8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/TWXHX3IURVLRHNQZCCZEUATM4I.jpg"
-        width: 1200
-        height: 628
-        isCached: true
+    quality: 34
   - title: "Amazon’s AWS to invest US$13bil in India by 2030"
     excerpt: "AWS’ total planned investment in India adds up to about US$16.4 billion by 2030, the company said in a statement. The cloud platform offers more than 200 services, including storage, robotics and artificial intelligence. The proposed investment comes as ..."
     publishedDateTime: 2023-05-18T05:33:00Z

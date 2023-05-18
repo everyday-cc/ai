@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/ebenbayer/2023/05/15/ai--biotechnology-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ebenbayer/2023/05/15/ai--biotechnology-show-its-time-to-think-past-bicycles-for-the-mind/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,17 @@ images:
     width: 1200
     height: 801
     isCached: true
+
+related:
+  - title: "Risks & Opportunities For The Human-AI Age"
+    excerpt: "That said, these platforms wouldn’t even exist if we hadn’t been quite narcissistic to begin with, but the AI age has normalized digital narcissism by making it rather adaptive. In the real world, if you go around the office telling everybody how great you are,"
+    publishedDateTime: 2023-05-18T13:36:00Z
+    webUrl: "https://www.forbes.com/sites/tomaspremuzic/2023/05/18/risks--opportunities-for-the-human-ai-age/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 49
 
 secured: "TRv41FJNhqTlQX0NsVM83JgQnoQc68hutips40/usBH6GtladC9UT4NZF9qvhZk0XBrfBB2+SGKTYtgvBlNakXCqhbnMMFlkrhELyMtu/cY8SyDyQeS5w1b15bly8Y/+hCf5VKhZ16hYyilD5o4pDe9EKucCLGAWrbfHzHg7J+9Vj8hg3Rc9Ha+IxxRFQuGy4m4XmpLYcHwvp0fwqXOq8dtH3sb9RZ4BDU/Pvw5B5wu7nrir+JgXlhAxAbzhejWz+kzVRq40Te4W0e3ZKQN/5l/RmJgoyllvX0hOPVmNOoSUdhH8HOstE4pHuQq/d2sg/mdKcapFDy+abHoiL+i8+eVgDUo9NVmUwgq+F45GKKGoPa+AiozLUWcUg+1MTbr10Y+w25gCNpSlDejaWYrMRmTetcsnDyIb+8k9xuJ/o2vkrY20qR6pvgNjNzOvsXuybU92ERYHvUfygOlTyXNkXqmyaSWpFbl5R6rRMuBs/U2KkdYPNvFlf5HACGtkwSAAMbI9NzUjk2teJUQj05qdpQ==;f64Du+q3/vT+Rx5Z3DClHw=="
 ---

@@ -551,7 +551,7 @@
       "originalUrl": "https://www.foxnews.com/tech/what-dangers-find-out-why-people-afraid-artificial-intelligence",
       "featuredContent": null,
       "highlight": null,
-      "heat": 149,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -604,7 +604,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/self-driving-or-driverless-cars-market-upto-2030-2023-05-14",
       "featuredContent": null,
       "highlight": null,
-      "heat": 139,
+      "heat": 149,
       "tags": null,
       "images": [
         {
@@ -1430,35 +1430,26 @@
       ]
     },
     {
-      "path": "_news/2023-05-08-5g-mobile-subscriptions-to-rise-to-55-billion-in-2027.md",
-      "title": "5G mobile subscriptions to rise to 5.5 billion in 2027",
-      "excerpt": "G mobile subscriptions is expected to rise from 1.7 billion at the end of 2022 to 5.5 billion in 2027 occupying a total share of 48%, according to data and analytics company GlobalData. GlobalData’s 5G - Thematic Report reveals 5G penetration will rise from 53% at the end of 2022 to 162% in the",
+      "path": "_news/2023-05-08-heres-what-the-godfather-of-ai-has-to-say-on-the-dangers-of-artificial-intelligence.md",
+      "title": "Here's what the 'Godfather of AI' has to say on the dangers of artificial intelligence",
+      "excerpt": "Hinton mentioned that there's a recommendation on what people should do but when it comes to AI, there are no recommendations as of now.",
       "sourceUrl": null,
-      "webUrl": "https://itwire.com/your-it-news/5g/5g-mobile-subscriptions-to-rise-to-5-5-billion-in-2027.html",
-      "originalUrl": "https://itwire.com/your-it-news/5g/5g-mobile-subscriptions-to-rise-to-5-5-billion-in-2027.html",
+      "webUrl": "https://www.headlinestoday.in/technology/heres-what-the-godfather-of-ai-has-to-say-on-the-dangers-of-artificial-intelligence-544949246.html",
+      "originalUrl": "https://www.headlinestoday.in/technology/heres-what-the-godfather-of-ai-has-to-say-on-the-dangers-of-artificial-intelligence-544949246.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://itwire.com/media/k2/items/cache/550ff7c44167a7738f6e2181f116ebe2_L.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-07T15:43:00-07:00",
+      "publishedDateTime": "2023-05-08T03:37:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "ITWire",
-        "domain": "itwire.com",
+        "name": "headlinestoday",
+        "domain": "headlinestoday.in",
         "images": null,
         "publishers": null,
         "authors": null

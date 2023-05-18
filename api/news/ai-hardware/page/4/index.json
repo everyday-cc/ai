@@ -2,6 +2,112 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-04-19-microsoft-reportedly-working-on-its-own-ai-chips-that-may-rival-nvidias.md",
+      "title": "Microsoft reportedly working on its own AI chips that may rival Nvidia’s",
+      "excerpt": "Microsoft is reportedly working on its own AI chips that can be used to train large language models and avoid a costly reliance on Nvidia. The Information reports that Microsoft has been ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2023/4/18/23687912/microsoft-athena-ai-chips-nvidia?ref=biztoc.com",
+      "originalUrl": "https://www.theverge.com/2023/4/18/23687912/microsoft-athena-ai-chips-nvidia?ref=biztoc.com",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/zD7YbqnU4W_XAaEW-O3cKSa4dGc=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/19249962/akrales_190930_3682_0006.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-18T17:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-19-new-microsoft-ai-chip-no-threat-to-nvidia-but-growing-llm-needs-drive-custom-silicon.md",
+      "title": "New Microsoft AI chip no threat to Nvidia, but growing LLM needs drive custom silicon",
+      "excerpt": "Experts say Nvidia won't be threatened by Microsoft's Athena AI chip, but growing LLM needs are driving hyperscalers to develop custom silicon.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/new-microsoft-ai-chip-no-threat-to-nvidia-but-growing-llm-needs-drive-custom-silicon/",
+      "originalUrl": "https://venturebeat.com/ai/new-microsoft-ai-chip-no-threat-to-nvidia-but-growing-llm-needs-drive-custom-silicon/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/04/Untitled-design-50.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/new-microsoft-ai-chip-no-threat-to-nvidia-but-growing-llm-needs-drive-custom-silicon/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/new-microsoft-ai-chip-no-threat-to-nvidia-but-growing-llm-needs-drive-custom-silicon/amp/",
+      "publishedDateTime": "2023-04-18T17:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-19-artificial-intelligence-ai-chips-market-to-grow-at-a-cagr-of-6151-from-2022-to-2027-growth-from-asics-segment-will-be-significant-technavio.md",
       "title": "Artificial intelligence (AI) chips market to grow at a CAGR of 61.51% from 2022 to 2027: Growth from ASICs segment will be significant - Technavio",
       "excerpt": "The artificial intelligence (AI) chips market size is estimated to grow by USD 210,506.47 million during 2022-2027. Moreover, the growth momentum will progress at a CAGR of 61.51% during the forecast period.",
@@ -1283,92 +1389,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-07-down-45-this-beaten-down-nasdaq-stock-could-see-a-long-term-boost-from-ai.md",
-      "title": "Down 45%, This Beaten-Down Nasdaq Stock Could See a Long-Term Boost from AI",
-      "excerpt": "It's already witnessing strong demand for its AI chips, a trend that could drive long-term growth. The chipmaker, which supplies networking, storage, and computer chips to multiple industries such ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/04/07/down-45-beaten-down-stock-could-see-a-boost/",
-      "originalUrl": "https://www.fool.com/investing/2023/04/07/down-45-beaten-down-stock-could-see-a-boost/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-06T19:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-07-google-owner-alphabet-says-its-chips-can-beat-nvidias-what-this-means-for-ai.md",
-      "title": "Google-Owner Alphabet Says Its Chips Can Beat Nvidia’s. What This Means for AI.",
-      "excerpt": "Scientists at Google say their supercomputer is up to 1.7 times faster than a system based on the A100 chip produced by Nvidia.",
-      "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/articles/google-alphabet-nvidia-microsoft-ai-chip-stock-price-3c47069f",
-      "originalUrl": "https://www.barrons.com/articles/google-alphabet-nvidia-microsoft-ai-chip-stock-price-3c47069f",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.barrons.com/im-259987/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.barrons.com/amp/articles/google-alphabet-nvidia-microsoft-ai-chip-stock-price-3c47069f",
-      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/google-alphabet-nvidia-microsoft-ai-chip-stock-price-3c47069f",
-      "publishedDateTime": "2023-04-06T11:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

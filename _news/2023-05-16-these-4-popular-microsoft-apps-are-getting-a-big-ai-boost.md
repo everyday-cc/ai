@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/these-4-popular-microsoft-a
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/these-4-popular-microsoft-apps-are-getting-a-big-ai-boost/"
 type: article
 quality: 106
-heat: 286
+heat: 306
 published: true
 
 provider:
@@ -224,6 +224,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "KPI Partners Attains Microsoft Azure Solution Partner Status in Data & AI"
+    excerpt: "KPI Partners, a leading global provider of Analytics and Digital Transformation solutions, announced today its achievement of Microsoft Azure Solution Partner status in Data & AI."
+    publishedDateTime: 2023-05-18T12:38:00Z
+    webUrl: "https://analyticsindiamag.com/kpi-partners-attains-microsoft-azure-solution-partner-status-in-data-ai/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 48
   - title: "Microsoft India Adds 4 New Languages To Translator"
     excerpt: "Microsoft India on Thursday announced the addition of three new Indian languages -- Konkani, Maithili, and Sindhi, in Transl"
     publishedDateTime: 2023-05-18T11:38:00Z
@@ -270,6 +279,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 20
+  - title: "Microsoft Translator app get support for these three Indian languages"
+    excerpt: "Microsoft has announced the addition of three new Indian languages in Micorosft Translator. The company has revealed that it has added Konkani, Maithi"
+    publishedDateTime: 2023-05-18T12:18:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/microsoft-translator-app-get-support-for-these-three-indian-languages/articleshow/100332128.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 19
 
 secured: "Bv4q0450ilUa9yOTQv7KV46BBDcgfxhMF4QTHBq52opMUWosGtZbBiF++DJfESa2aHZrWE1oYAckw0gI226i7tnzjOMhGeZaLoYL1yb/VKzFhxwOb4t5FAZV5x/6ma0ws64D/KhnuwshIfHM6dUg2vZFAI7oBhHavjiiha40qcbqDRCDu4tgs0cSif0e8Z7muXczN/N1jasA7h71V04LtIUI2lWdgREQwti+zrCpR00ki0/k7Ta7QyLkLi1VwXehfjMGzvxSB5aFaOOsFn03IlXdXToIlaKMiDbu0Y5pYFr5+S20gLXmQKWwpWWkig8Js7iSUTkgwOsfTyyecP6AdwgMspr3BE0pXaRmUwWDA5kg7Rag5UxDLgl0gJNP4ykynQq9wrC+mU65mIvoQOJ2HWU2QQn0dSfNJ8AliiUL7xQfA42TWyUBkW8VnWlSjY6Qlj7BSL4JSb323H136+RBylScnGtnFTgRiqdVbuF8aAvK8ShJyAMCec9qq58D8yRf5QTCNjiX6bYVLUtIMHi/GQ==;vBZErKxQ3n0svMC7UbKJzw=="
 ---

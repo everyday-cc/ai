@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/advisor/business/employee-recognition-ideas
 webUrl: "https://www.forbes.com/advisor/business/employee-recognition-ideas/"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     width: 958
     height: 539
     isCached: true
-
-related:
-  - title: "Genocide Recognition: an Australian story"
-    excerpt: "May it appears is the month of genocide recognition amongst the Australian parliaments, with Tasmania being the latest one to adopt a resolution of recognition of the Genocides of the Hellenes, Armenians and Assyrians on Thursday 11 May."
-    publishedDateTime: 2023-05-13T23:06:00Z
-    webUrl: "https://neoskosmos.com/en/2023/05/14/dialogue/opinion/genocide-recognition-an-australian-story/"
-    type: article
-    provider:
-      name: Neos Kosmos
-      domain: neoskosmos.com
-    quality: 24
-    images:
-      - url: "https://cdn1.neoskosmos.com/uploads/sites/2/2023/05/genocideopinion2-PRI_15986-e1684022952308.jpg"
-        width: 1900
-        height: 1104
-        isCached: true
 
 secured: "j9Q3mlEvgH+u61CN/hMBDg93RaEs7cxdjVoU2ruT2pBZnd8eDVDkTVewR8rURRZ1hpupvTD7xRsBDUe09WX5ZGSTaczsbYFBmjTxcAtTzBLc3krNZ3l4Mom+TEmu4kGAOlcKs3jalZ14lQ9fJYCkLkF+7DXpzZmT8TYbltUQqs9N69gjpXpeErTHu//7qa+V+DqpgnU3cM0QyzhEtJLOgfy1qiS44h70hx+HDHMMNEQ9zrUXMYo6ghT7NDdhxg0uLNpHksvtrDbX0AETDR526dooiaqdvcQI5RBJmWB8D1AND5Jq2qUHHHmoRHOJ2jiXtT2XA/iYJL6e197b1f8aOnRZ8oTXkZEwUHR2g9V3yrqhJ3oSqhaOS5JEkdW6AzsRHBlhqSgKC5FxxenyNi/eGJDALHTCVpN/TYe2+WwtD4+SZ9lVBru0CxoLcLp7aGiW2vryU2MO3w/rGIPL2/3Q6W/R7JwPJTWP+g1K1QJBfDDG39SbKNuoBUPDDQhuzRr3YrBnhEHNTHtO4yyFQ+AyiQ==;3vUod6skybmVz/O1pEr0pA=="
 ---

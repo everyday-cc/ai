@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp/rcna84415"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna84415"
 type: article
 quality: 121
-heat: 451
+heat: 461
 published: true
 
 provider:
@@ -362,6 +362,20 @@ related:
       - url: "https://wvmetronews.com/wp-content/uploads/2022/10/classroom-2093743_640-490x350-1.jpg"
         width: 490
         height: 350
+        isCached: true
+  - title: "Police Facial Recognition Technology Can’t Tell Black People Apart"
+    excerpt: "This happened three years ago to Robert Williams, a Black father in suburban Detroit. Sadly Williams’ story is not a one-off. In a recent case of mistaken identity, facial recognition technology led to the wrongful arrest of a Black Georgian for purse thefts in Louisiana."
+    publishedDateTime: 2023-05-18T14:38:00Z
+    webUrl: "https://www.scientificamerican.com/article/police-facial-recognition-technology-cant-tell-black-people-apart/"
+    type: article
+    provider:
+      name: Scientific American
+      domain: scientificamerican.com
+    quality: 39
+    images:
+      - url: "https://static.scientificamerican.com/sciam/cache/file/3A8C75EC-F138-434F-A822F5103920B5AB.jpg"
+        width: 790
+        height: 497
         isCached: true
   - title: "Police officers on patrol to deploy facial recognition technology"
     excerpt: "Facial-recognition technology is to be used in body-worn cameras by officers on patrol as part of government plans to “embed” it in everyday policing.The poli"

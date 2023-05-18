@@ -18,6 +18,17 @@ topics:
   - AI in Robotics
   - AI
 
+related:
+  - title: "Wendy's to test underground robot delivery for mobile orders"
+    excerpt: "Instead of requiring employees to bring out mobile food orders, the robotic system is designed to transport the orders underground \"in seconds,\" the fast food chain said."
+    publishedDateTime: 2023-05-18T12:28:00Z
+    webUrl: "https://www.fox29.com/news/wendys-to-test-underground-robot-delivery-for-mobile-orders"
+    type: article
+    provider:
+      name: FOX 29
+      domain: fox29.com
+    quality: 19
+
 secured: "kLInG05tLa/CN8CGStwvf6JrCbKS3oy6dRU/Prt9z3BSTGf5xUibKtz1lj6vHZc03qxv3OQWc3Cq7CYQ8oAKeUKxX0qKb4XDyLCZdosDr0JAS+yAwU5GRlQY+EkqjidjTcBhQlmbc0Uol+tnmdfUVcCcHV71s6GIXjH81O3dB4Jdd/00SPg7KWmdpPPv/46gWDJ3MkqmkgMCd8mOU/rwb8cZ+yqspYl7EUb7RTXUxCOBrAg/sU7uAht6ssL3nJNyqc9b1bAoIUiNB0kHgYP15/uDatndECqURW7ijnq06TCo7T9MaKr54MHp82gqsLiYQ6HRzAa67ZAzPj5fST7jU8Th+AXASePbOOgwJNu7ioN5r10xxMrCZYODfEvi60Cc96qvcnIRcAeydBP2POaxSEfeio718ORkSwezO5WXNjmAQdPepVlr6T73i4YSMafgZ0Sw1y/cobMBAeDrtX3G9DaVjQXCNqg+LhJUn7Pk7aMBNA/v4uiCn5u/wRKKF1iBMhqJS3D4w/EYAE4ScjUdoQ==;+pRnDq2wRlZPHOymp0wBMQ=="
 ---
 

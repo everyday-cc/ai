@@ -222,6 +222,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "KPI Partners Attains Microsoft Azure Solution Partner Status in Data & AI"
+    excerpt: "KPI Partners, a leading global provider of Analytics and Digital Transformation solutions, announced today its achievement of Microsoft Azure Solution Partner status in Data & AI."
+    publishedDateTime: 2023-05-18T12:38:00Z
+    webUrl: "https://analyticsindiamag.com/kpi-partners-attains-microsoft-azure-solution-partner-status-in-data-ai/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 48
   - title: "Microsoft India Adds 4 New Languages To Translator"
     excerpt: "Microsoft India on Thursday announced the addition of three new Indian languages -- Konkani, Maithili, and Sindhi, in Transl"
     publishedDateTime: 2023-05-18T11:38:00Z
@@ -268,6 +277,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 20
+  - title: "Microsoft Translator app get support for these three Indian languages"
+    excerpt: "Microsoft has announced the addition of three new Indian languages in Micorosft Translator. The company has revealed that it has added Konkani, Maithi"
+    publishedDateTime: 2023-05-18T12:18:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/microsoft-translator-app-get-support-for-these-three-indian-languages/articleshow/100332128.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 19
 
 secured: "s1gYj2Zf1UkOdXtn5YlUizXeRwGNxaTmLsG0Plhap+bXFncn1QxnG6foNl/0as2e2uhtRU+8/gC6R4l/oED5pUIu4WOlQFc/oS/FMH8xt+m7CrCdZDee93pw/f/pcDXKnDVee5w8z1TxJqBK16jLrK6Tv6ubUcLrzvZHcDR7rb05Ytq8sx/an0slPmM3t3ZG/HHq8Zibm7KWtkIi5Ibzes5Vy0lFP1MUsWTt+HnVzaQQamLISOFU0PrwpR8lPbr9nUgxVhYcKSRfRttgQqiL5qzmcBF7/RqL1tgZFlxqnjtRxFXygwfo3V5IXQWFUIV296Nvu61ccSnwltMZLzoIhjj6IOwXozQ1CV/x7DjO6ME2i7HIpPn9xz1NziotP++mIrQ7Kubj+H9n2eJT3R7NocOZ0Qn6kafBaZ5UxXp1WmmmOaELlz9FAoN/YRC+lpqCYpk9ib53XFwq4KSG2nm9otC/QEj6v09P8QzQvEip1OrUcBPFK6p0nCsFLpagAqLod/QSbmx03lD4s5hUcK9B+w==;wZmJOO4csudmv+zO7keL3w=="
 ---

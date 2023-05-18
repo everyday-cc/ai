@@ -189,6 +189,15 @@ related:
         width: 724
         height: 483
         isCached: true
+  - title: "Stop Serving Dogfood, Invest In Generative Artificial Intelligence With Purpose"
+    excerpt: "Don't fall prey to the trends, make sure your generative artificial intelligence investments are meaningful to your customers before launching dogfood to your users."
+    publishedDateTime: 2023-05-18T13:29:00Z
+    webUrl: "https://www.forbes.com/sites/joetoscano1/2023/05/18/stop-serving-dogfood-invest-in-generative-artificial-intelligence-with-purpose/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 43
   - title: "KPMG makes generative AI available to partners and staff"
     excerpt: "KPMG announced a new initiative to deploy a series of generative AI partnerships and investments to reinvent how the firm operates."
     publishedDateTime: 2023-05-16T14:05:00Z

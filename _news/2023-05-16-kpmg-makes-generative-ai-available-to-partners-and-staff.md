@@ -202,6 +202,15 @@ related:
         width: 724
         height: 483
         isCached: true
+  - title: "Stop Serving Dogfood, Invest In Generative Artificial Intelligence With Purpose"
+    excerpt: "Don't fall prey to the trends, make sure your generative artificial intelligence investments are meaningful to your customers before launching dogfood to your users."
+    publishedDateTime: 2023-05-18T13:29:00Z
+    webUrl: "https://www.forbes.com/sites/joetoscano1/2023/05/18/stop-serving-dogfood-invest-in-generative-artificial-intelligence-with-purpose/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 43
   - title: "How AI ethics is coming to the fore with generative AI"
     excerpt: "The hype around ChatGPT and other large language models is driving more interest in AI and putting ethical considerations surrounding their use to the fore"
     publishedDateTime: 2023-05-15T07:44:00Z

@@ -1,0 +1,34 @@
+---
+category: news
+title: "Wendy's to test underground robot delivery for mobile orders"
+excerpt: "Instead of requiring employees to bring out mobile food orders, the robotic system is designed to transport the orders underground \"in seconds,\" the fast food chain said."
+publishedDateTime: 2023-05-18T12:28:00Z
+originalUrl: "https://www.fox29.com/news/wendys-to-test-underground-robot-delivery-for-mobile-orders"
+webUrl: "https://www.fox29.com/news/wendys-to-test-underground-robot-delivery-for-mobile-orders"
+type: article
+quality: 19
+heat: -1
+published: false
+
+provider:
+  name: FOX 29
+  domain: fox29.com
+
+topics:
+  - AI in Robotics
+  - AI
+
+related:
+  - title: "Wendy's next tech test is an underground robot delivery system"
+    excerpt: "Wendy's Co. is testing new technology not just for taking orders, but also for delivering them. The Dublin-based restaurant chain Wednesday announced a partnership with Austin-based Pipedream, which will install an underground autonomous robot system to deliver food to customers in the parking lot of a Wendy’s restaurant."
+    publishedDateTime: 2023-05-17T15:48:00Z
+    webUrl: "https://www.bizjournals.com/columbus/news/2023/05/17/wendys-next-tech-test-is-an-underground-robot-del.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 19
+
+secured: "+w5/FmuAT2idebgmXinTjdvheof4pLgNOs2gQCGmle/tXiXXWPypheSX2bHBlSPyaWMxGpmvFJo4/HAKzaq++YTP1CQ0f85NK8TNi1AvQItNgYDj0U3TV3yUlRRoo1du9niewrNHDgi8CCNm7hqTCh9qH8LnfEzoAYgLSkC8/oZQStAojMnsr7QYhqMPN0HwZ+GK+1Wkguzo9x6wwK7MfOc19KYhCbDd/bNVgVahiEyrXY3loElAm4TE068SISClUzWK8AB1NM7zJwdUrXkcurfblPlv594BCFQkend8bOTBfqeVCaRHlK8YotKQgWLiuB2cXOU6TwI8fWKuKg6JAylF2OdLMmJFG8oozIZoxXYhoy3HnH3k+bFNAE2XtcWmWZibhVTA69LgvODo610KPsiQMpGOSVE6FbNW5DKb73FEljXorv/cJs4JiMnyucUSIlCXxOXhtJO8qh0ih5S4J4mT8m2eUglDAo3BQr05uvRcx2b+/CQUps+Qzfx6XTXW/KcX5fTh0B/Ip2ZB6/EnAQ==;Whz6/elxG/W9cjWkU9wPTg=="
+---
+

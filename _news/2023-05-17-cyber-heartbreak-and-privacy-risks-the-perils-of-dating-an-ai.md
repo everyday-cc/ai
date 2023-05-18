@@ -59,6 +59,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "AI Risks: The Need to Define AI Ethics and Rules"
+    excerpt: "While tech industry veterans are concerned about AI and its potential risk, it raises the question of whether to ban AI or enforce ethical restrictions."
+    publishedDateTime: 2023-05-18T14:02:00Z
+    webUrl: "https://enterprisetalk.com/featured/ai-risks-the-need-to-define-ai-ethics-and-rules/"
+    ampWebUrl: "https://enterprisetalk.com/featured/ai-risks-the-need-to-define-ai-ethics-and-rules/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/featured/ai-risks-the-need-to-define-ai-ethics-and-rules/amp/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 74
+    images:
+      - url: "https://enterprisetalk.com/wp-content/uploads/2023/05/AI-Risks-The-Need-to-Define-AI-Ethics-and-Rules.jpg"
+        width: 1500
+        height: 844
+        isCached: true
 
 secured: "zL//8VVuV8XnX/Ut80kA8JyUWLrKLStpATzoj65nBqSrGVpo8AXA9RLEWnC7yQJcHBzgfrnlS5h0MUnXwA9URASSeHVjd/tt2BHdaab98eH4C32I3t1qFvsfLYJw5WJWe0nNLHHjDkqUoWTYB3IYbzggQiFlg3SwipXxS4Lm3Hx1sJV9B1vyDq3QPjFBcWjpAr8BWNK1LGXsLLEUXZawugSZteJ1o+EXp6PTDD+jDpV8lXNijFvJK+KGPf4BW2SllayEWvZtx592LoTvGaz6uGQqgDF7o48UbNCa2phMrMMAZ/bLbo5jxnr/FG7oF89mbyzYGVMSQ9kvqcZzo6gX2uW0tY/JXC27JQ47OWEXIk+v2KoQWnptIeU8jViu+43/bA78vtsS8zu8aCfkslMR7ZzeEv9swf2JdDhQK8kCNqo6/PMrXs+NNLy1FfgCwqbX3V+AtepWS9SLZPEyzTmYVtDWp0PGAmfRYVi3MokZQCKekH5PKFB0g3q2KG98ed/UUl6bONQY2UdIKyWvOFYKJg==;PmMCbvsH/+/jdTWXuf3GlQ=="
 ---

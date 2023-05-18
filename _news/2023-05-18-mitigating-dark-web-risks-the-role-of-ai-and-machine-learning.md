@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/18/mitigating
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/05/18/mitigating-dark-web-risks-the-role-of-ai-and-machine-learning/amp/"
 type: article
 quality: 104
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -47,6 +47,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "AI Risks: The Need to Define AI Ethics and Rules"
+    excerpt: "While tech industry veterans are concerned about AI and its potential risk, it raises the question of whether to ban AI or enforce ethical restrictions."
+    publishedDateTime: 2023-05-18T14:02:00Z
+    webUrl: "https://enterprisetalk.com/featured/ai-risks-the-need-to-define-ai-ethics-and-rules/"
+    ampWebUrl: "https://enterprisetalk.com/featured/ai-risks-the-need-to-define-ai-ethics-and-rules/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/featured/ai-risks-the-need-to-define-ai-ethics-and-rules/amp/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 74
+    images:
+      - url: "https://enterprisetalk.com/wp-content/uploads/2023/05/AI-Risks-The-Need-to-Define-AI-Ethics-and-Rules.jpg"
+        width: 1500
+        height: 844
+        isCached: true
   - title: "‘Cyber-Heartbreak’ and Privacy Risks: The Perils of Dating an AI"
     excerpt: "There’s a growing business for virtual romance, but it’s not without the familiar hazards of human relationships"
     publishedDateTime: 2023-05-17T14:00:00Z
@@ -64,6 +80,6 @@ related:
         height: 900
         isCached: true
 
-secured: "jBlkDoBeVC/r6kpeBYOxL+STWjEbeJxZ4SALq9eNoW2vPLgyi/XncN8KyHVUlB7p0gS6GThgU96f+P0ePwoufvNSz+I9ES69HJQ5E3nhW6MsQkwAZww5ckSjQdK9qMtURvyd024xjwm9norAKzDZWS0siXTZo9RLQ+JL91UbyulXr6uIG1Y240XnGgTqoyVBMVYVls/dc7I/eMqOuT0JuOhhnxrpm/ZTn7cqKEapGpPpzbHwop4XFUXMGKuyKP/i1xsC2G1aRwc7M9qFYiEovC9rxjjS9bnTN30z7ccaPr0xiUorMZt3PRaPNTkWAWu7uaZ2VxCpfYz49rIVkP2EFlh7FGlh7mbA6tLHGV9EWJQ=;Su5UrSn1M8eTYfcNQ285xQ=="
+secured: "aCD9K5V6b8WO2dkrz4tVavBC0wntH2yrGH9pS9p0PA62y0JdZWLgFJvfbsZxnc7lD9eyocP/beHPxO42h8Lp1kBwZwx263zNGVQDCptEW9mQQ4rCX7u+NEJOrKg3b9o1Atp4PG6QvE63maePjOxTdQjWoR3SyCFg/u7ZnOs54VrkhctXVap5HkN1v6cLsasUa6NyoNmykEbt0AHkGG8FmzJn+jpW1gDwGpIpF1A+zxddIa+4jeuEaVzh+l9C2jemWla9uDXBf00n8hFfKVlCm2kwutxhumLQ197WfL71r1GRQjZvKvX5TyBQI1Dg/UPcX032UZhYyRwYuijIi82dHH0Y6wBJHHfa+2Xy9WJj5LB+FN06QDzMph+KnERNMenNNYUyApAkIGhU43iUJhD4SOfz7JHs+EvTziklYFaOFjIKpqYbyZvO9TJQ56XRUedQmVmcDoDlx44vV+gNc4lyxbLg+cb4jhV3hGVtLpHnH/6/5FAwfBuoMDyexvmWDQwLjd9dPDQ+H4LJDquRWm0OSQ==;nWf8RDXde7v5jXeC+/yLlw=="
 ---
 

@@ -68,10 +68,24 @@ related:
         width: 2755
         height: 1837
         isCached: true
+  - title: "UK Plans Meeting on AI Risks With OpenAI, DeepMind Bosses"
+    excerpt: "The UK government has invited bosses from some of the world’s biggest artificial intelligence firms to a meeting, people familiar with the matter said, as Prime Minister Rishi Sunak crafts a policy to manage the risks and benefits of the technology."
+    publishedDateTime: 2023-05-18T14:31:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-05-18/uk-plans-meeting-on-ai-risks-with-openai-deepmind-bosses"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 84
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ilIvhpd0_UuM/v1/1200x802.jpg"
+        width: 1200
+        height: 802
+        isCached: true
   - title: "Sam Altman: CEO of OpenAI calls for US to regulate artificial intelligence"
     excerpt: "The creator of advanced chatbot ChatGPT has called on US lawmakers to regulate artificial intelligence (AI). Sam Altman, the CEO of OpenAI, the company behind ChatGPT, testified before a US Senate committee on Tuesday about the possibilities - and pitfalls - of the new technology."
-    publishedDateTime: 2023-05-17T11:26:00Z
-    webUrl: "https://www.bbc.co.uk/news/world-us-canada-65616866?at_medium=RSS&at_campaign=KARANGA'"
+    publishedDateTime: 2023-05-16T18:34:00Z
+    webUrl: "https://www.bbc.co.uk/news/world-us-canada-65616866"
     ampWebUrl: "https://www.bbc.co.uk/news/world-us-canada-65616866.amp"
     cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/world-us-canada-65616866.amp"
     type: article

@@ -223,6 +223,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "KPI Partners Attains Microsoft Azure Solution Partner Status in Data & AI"
+    excerpt: "KPI Partners, a leading global provider of Analytics and Digital Transformation solutions, announced today its achievement of Microsoft Azure Solution Partner status in Data & AI."
+    publishedDateTime: 2023-05-18T12:38:00Z
+    webUrl: "https://analyticsindiamag.com/kpi-partners-attains-microsoft-azure-solution-partner-status-in-data-ai/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 48
   - title: "Microsoft India Adds 4 New Languages To Translator"
     excerpt: "Microsoft India on Thursday announced the addition of three new Indian languages -- Konkani, Maithili, and Sindhi, in Transl"
     publishedDateTime: 2023-05-18T11:38:00Z
@@ -269,6 +278,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 20
+  - title: "Microsoft Translator app get support for these three Indian languages"
+    excerpt: "Microsoft has announced the addition of three new Indian languages in Micorosft Translator. The company has revealed that it has added Konkani, Maithi"
+    publishedDateTime: 2023-05-18T12:18:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/microsoft-translator-app-get-support-for-these-three-indian-languages/articleshow/100332128.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 19
 
 secured: "d9x7Q2MpJ4epiPt3G0RlBCgK998Q4SPuI884yeyM4NG7c+H+lh8gAIeIAlE/yI9QPbAHWcSVEYuRDWA1bIYvf9CwVu3CAdujgE0HJTsRXM4dvIPAp1Uqteur/Ub9io8aNvgfIBEeUTIaS0TQsVm1jCwrQdjg8z4I8eVxI7D4qAmcHxLiemkmIkwYWRJYorB9pu1wxWdgNnB/OmTeF3zBd39Ow2DS3tbz2cCqbskSgw69scvhn0SJTFytaLk/V7MfoZnw+ai6H9VDczzlSUMrQPcMk7lQSAj/KxYigFGa/NKG2DxoBLYawqrrksHZpkEcoCJgzaW6ExFkxPb6tb2LWFGYtJbKIROjrC7l5ON1BYE=;6rhzwtNdZJTFt31doqtGcA=="
 ---
