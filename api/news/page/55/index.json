@@ -2,58 +2,6 @@
   "page": 55,
   "value": [
     {
-      "path": "_news/2023-04-14-amazon-introduces-bedrock-a-cloud-service-for-ai-generated-text-and-images.md",
-      "title": "Amazon introduces Bedrock, a cloud service for AI-generated text and images",
-      "excerpt": "Amazon is joining the generative AI fray. Bedrock is the company’s new API for Amazon Web Services (AWS) that lets developers use and customize AI tools that generate text or images. Think of it as a cloud-based and configurable alternative to OpenAI’s ChatGPT and DALL-E 2 aimed at businesses and developers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/amazon-introduces-bedrock-a-cloud-service-for-ai-generated-text-and-images-204556563.html",
-      "originalUrl": "https://www.engadget.com/amazon-introduces-bedrock-a-cloud-service-for-ai-generated-text-and-images-204556563.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/uu/api/res/1.2/EOU96UWN4zutN7fV3FBsYA--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-03/dcabbaf0-da34-11ed-b7ff-e9fadbbbae08.cf.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/amazon-introduces-bedrock-a-cloud-service-for-ai-generated-text-and-images-204556563.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/amazon-introduces-bedrock-a-cloud-service-for-ai-generated-text-and-images-204556563.html",
-      "publishedDateTime": "2023-04-13T21:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "YAHOO!Finance",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-04-14-exploring-ai-ethics-and-accountability.md",
       "title": "Exploring AI ethics and accountability",
       "excerpt": "Do you pull the lever? What if the other person is elderly? A schoolchild? The dilemma and its variants are often cited as the type of problems artificial intelligence will have to grapple with as it becomes ever more prevalent in our lives. Driverless ...",
@@ -1133,6 +1081,49 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-13-analysis-the-era-of-deep-learning-is-coming-to-an-end.md",
+      "title": "Analysis: \"The Era of Deep Learning Is Coming to an End\"",
+      "excerpt": "Deep learning has dominated the field for several years — but may be on its way out. The field of AI has shifted focus roughly every decade since it began in the 1950s. Now, a new analysis ...",
+      "sourceUrl": null,
+      "webUrl": "https://futurism.com/deep-learning-end",
+      "originalUrl": "https://futurism.com/deep-learning-end",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp-assets.futurism.com/2019/01/deep-learning-end.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-13T04:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Futurism",
+        "domain": "futurism.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
         "AI"
       ]
     }

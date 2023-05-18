@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/tiriasresearch/2023/05/17/build-better-ai-
 ampWebUrl: "https://www.forbes.com/sites/tiriasresearch/2023/05/17/build-better-ai-for-enterprise-and-hybrid-cloud-with-ibms-watsonx/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2023/05/17/build-better-ai-for-enterprise-and-hybrid-cloud-with-ibms-watsonx/amp/"
 type: article
-quality: 104
-heat: 134
+quality: 106
+heat: 136
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI
   - IBM AI
+  - Microsoft AI
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/6465480551131fd5b9b1abc6/0x0.jpg?format=jpg&crop=2560,1330,x0,y0,safe&width=1200"

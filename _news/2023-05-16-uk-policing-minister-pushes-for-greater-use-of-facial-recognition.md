@@ -3,8 +3,8 @@ category: news
 title: "UK policing minister pushes for greater use of facial recognition"
 excerpt: "Chris Philp expressed desire to expand use of controversial technology in closed door meetings, according to report"
 publishedDateTime: 2023-05-15T23:01:00Z
-originalUrl: "https://www.ft.com/content/b8477e16-349d-442d-8e69-59b328ba9189?shareType=nongift"
-webUrl: "https://www.ft.com/content/b8477e16-349d-442d-8e69-59b328ba9189?shareType=nongift"
+originalUrl: "https://www.ft.com/content/b8477e16-349d-442d-8e69-59b328ba9189"
+webUrl: "https://www.ft.com/content/b8477e16-349d-442d-8e69-59b328ba9189"
 type: article
 quality: 39
 heat: 39
@@ -54,6 +54,6 @@ related:
         height: 1333
         isCached: true
 
-secured: "bGsC6DwN7fjOk5oeYC3nhRYW2qEWIdHFHrBEXh4is0gTMmtaadrNWH0/4GpGFXJDf4p84QMmUWd1bzuWJg8iAU/hdzGX1aqXpVJwx5c9x3UuJXSqpAxamGZ1v4YVTMM7z5VhxrToorl9Cno5x0VJFDoVBNvXv/mrYSgEIF67DiExnrVydkR7WD6fDv3PSs/Vhc1AfyzI6GKs7PDnUCJMMW+hbcxexh+8KkoKHBq+Vsj4UXDS6QWohD03cWcw8XmGy4vHzhKK18o5atcQvZLxaERZrz1g48rycdovWgJ10I3q2auESwOz/UlINkiUxvD804hOwxBmrotUnsaWBYNTGE39pvZ7CWtKNAwmCwOAbf9VLE9YEZ1PS+qEdG4Ne9uOuzq4inq25t/whyv287IKJbKKrAz5XQBVY+r1MaYxgaqrTacWD5T/qXNLGAXVIxr7su1iVCLSAfJj7rC3+UGq8JTUZURwht+XTMcBfg4TXOprt4Mvc0/50XhikoiUuZWnIYUcoG2hdSzfQYF/A+HYgQ==;2H8Qgk9fxigbfWizi1+e0A=="
+secured: "bBKrXM08yWntUgGA9OPzRc3hXUVP1oMxd9XNbVWq3vNZu9hiWivXTyBtzl1lCXAo4hOjlhrMlM5WuW1gxrwpWUI+/HvT3F0DT8ZH8o8COmk2vj5YNgO9pW1PCgoRSmusqmbKn9A3z4dm8UEVLZ2M6buUYiqKtM7kOf8EHR9Hqe0YcnuehoDZ4JkRYa6pIokZ5YraOvExZll9lmSYGLFXP1WI41LT+pxQ3HX6ovt54vUjvA0RHRfZMtI142eRgNsxDNlqnWKJ1lQTPinKjVHL/LiHzOdvCWwIKsFHEKb2Rx30eG0LbOMKypqlv4pv2Z1vzh8AOC1prwPncKs8DH/iUJ2oWrrGsf306c6u5F7kInA=;ja3KeKR4qnEFBSKAGIUNuQ=="
 ---
 

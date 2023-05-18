@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2020/09/24/singapore-looks-to-artificial-in
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/09/24/singapore-looks-to-artificial-intelligence-ai-to-boost-tourism.html"
 type: article
 quality: 86
-heat: 106
+heat: 96
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Wisma Atria Bank is A Trusted and Innovative Financial Institution in Singapore"
-    excerpt: "Wisma Atria Bank is a leading financial institution based in Singapore that provides a wide range of banking and financial services. Established in 1979, the bank has become one of the most respected and trusted banks in Asia."
-    publishedDateTime: 2023-05-13T09:10:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/273830201/wisma-atria-bank-is-a-trusted-and-innovative-financial-institution-in-singapore"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 35
-    images:
-      - url: "https://cdn.bignewsnetwork.com/cus1683777921815.jpg"
-        width: 630
-        height: 420
-        isCached: true
   - title: "Medtronic Wins Top Recognition as Singapore’s Best Workplace and Best Employer"
     excerpt: "SINGAPORE - Media OutReach - 15 May 2023 - Medtronic has received the top accolades recognizing the best workplace culture and people practices: Ranked first in the Singapore's Best Workplaces™ in"
     publishedDateTime: 2023-05-15T02:00:00Z

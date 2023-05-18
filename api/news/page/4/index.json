@@ -2,58 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2023-05-16-alphabets-intrinsic-launches-flowstate-a-robotic-app-development-platform.md",
-      "title": "Alphabet’s Intrinsic launches Flowstate, a robotic app development platform",
-      "excerpt": "This morning, the company announced its first product, Flowstate, a development platform designed to help non-roboticists.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/05/15/alphabets-intrinsic-launches-flowstate-a-robotic-app-development-platform/",
-      "originalUrl": "https://techcrunch.com/2023/05/15/alphabets-intrinsic-launches-flowstate-a-robotic-app-development-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/05/Wendy-Tan-White-CEO-of-Intrinsic.jpg?resize=1200,675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/05/15/alphabets-intrinsic-launches-flowstate-a-robotic-app-development-platform/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/15/alphabets-intrinsic-launches-flowstate-a-robotic-app-development-platform/amp/",
-      "publishedDateTime": "2023-05-15T16:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-05-16-c3ai-ai-receives-a-sell-from-bank-of-america-securities.md",
       "title": "C3ai (AI) Receives a Sell from Bank of America Securities",
       "excerpt": "Bank of America Securities analyst Bradley Sills maintained a Sell rating on C3ai (AI – Research Report) today and set a price target of",
@@ -588,7 +536,7 @@
       "originalUrl": "https://www.cnbc.com/2020/09/24/singapore-looks-to-artificial-intelligence-ai-to-boost-tourism.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 96,
       "tags": null,
       "images": [
         {
@@ -691,7 +639,7 @@
       "originalUrl": "https://www.ibm.com/blog/unlock-productivity-with-advanced-generative-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 289,
+      "heat": 279,
       "tags": null,
       "images": [
         {
@@ -1232,6 +1180,58 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-15-how-has-generative-ai-changed-the-business-landscape-for-young-entrepreneurs.md",
+      "title": "How Has Generative AI Changed The Business Landscape For Young Entrepreneurs?",
+      "excerpt": "The current hype and potential opportunities surrounding AI mean many entrepreneurs are eager to get involved.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/theyec/2023/05/15/how-has-generative-ai-changed-the-business-landscape-for-young-entrepreneurs/",
+      "originalUrl": "https://www.forbes.com/sites/theyec/2023/05/15/how-has-generative-ai-changed-the-business-landscape-for-young-entrepreneurs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/645e4bcb5ad71bb98fa69866/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/theyec/2023/05/15/how-has-generative-ai-changed-the-business-landscape-for-young-entrepreneurs/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2023/05/15/how-has-generative-ai-changed-the-business-landscape-for-young-entrepreneurs/amp/",
+      "publishedDateTime": "2023-05-15T04:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
       ]
     }
   ],

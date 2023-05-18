@@ -264,6 +264,20 @@ related:
         width: 700
         height: 467
         isCached: true
+  - title: "ChatGPT: Did the CEO of OpenAI voluntarily call for AI to be regulated?"
+    excerpt: "Sam Altman, the CEO of OpenAI, testified for the first time since ChatGPT exploded in popularity. Senators appeared to accept Altman’s warnings that AI could “cause significant harm to the world” and his suggestion that a new agency could set rules."
+    publishedDateTime: 2023-05-18T00:30:00Z
+    webUrl: "https://techwireasia.com/2023/05/chatgpt-did-the-ceo-of-openai-voluntarily-call-for-ai-to-be-regulated/"
+    type: article
+    provider:
+      name: techwireasia.com
+      domain: techwireasia.com
+    quality: 39
+    images:
+      - url: "https://cdn.techwireasia.com/wp-content/uploads/2023/05/063_1490690312-scaled-e1684321191850-897x500.jpg"
+        width: 897
+        height: 500
+        isCached: true
   - title: "In Senate testimony, OpenAI CEO Sam Altman agrees with calls for an AI regulatory agency"
     excerpt: "In his In his testimony today before a bipartisan U.S. Senate panel, OpenAI CEO Sam Altman was not grilled, probed or interrogated."
     publishedDateTime: 2023-05-16T18:56:00Z

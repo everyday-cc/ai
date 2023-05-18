@@ -64,15 +64,15 @@ related:
       domain: siliconrepublic.com
     quality: 19
   - title: "Pecan AI Opens Platform and Fast Predictive Modeling for All Data Professionals"
-    excerpt: "Platform now open to all users for free trials of fast, easy-to-use predictive modeling, accessible to all business teams Pecan AI, the leader in AI-based predictive analytics for BI analysts and business teams,"
-    publishedDateTime: 2023-05-17T17:35:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/05/b32451257/pecan-ai-opens-platform-and-fast-predictive-modeling-for-all-data-professionals"
+    excerpt: "Pecan AI, the leader in AI-based predictive analytics for BI analysts and business teams, today announced that it has opened its predictive analytics platform to all users. Free trials let anyone try the platform's intuitive SQL-based editor for building predictive models focused on real business challenges."
+    publishedDateTime: 2023-05-17T17:46:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/05/17/9816519.htm"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
+      name: TMCnet
+      domain: tmcnet.com
     quality: 15
 
-secured: "tX1u+32PXlxAoKh032xr+0W+CWReQQzDypnWKyFldoVCGMg76/6JOsecNJFhFbjh0+svITVltF1N/dTCJXS35DqooSA1yeuuskpl/qjQC+DF8H1pgq1ME9f+WqCCo/bc08kOZnAssq298cz2JfTJw78nPHDf9mb2mlRMYF8S+a75x81sr3q/DSHLlpQqwjBDQudNztjQUA+qJwZnYa5q4Uulwlx6OF7iOLAHCEdePHpo6HaukjXh28xO8/QR/e1oCEHy1vFTpDZcoObDLFhBHHBvhe03j/WUR6AhqqeopGxsXzcd+gtdrQafHC/eWTQt13ytmgdRRHjAKKESxOXR/AyyBtF1fS/Q5sXWcIApgZw=;O3eKRgu0jGp/Sf/uTOp4jA=="
+secured: "LlUK5E9V+J8uPnsPveZskmKTEFkuKxeXjSti8KOfiTiOWlZadnFrMZrELVMXwtiJJQ3m8lIOvN7QZfe6iJBq/i+3PM0Jc1RKYAMceEc/J/EFgUxM+zchyOTDZkeuYwb36aIMqHe2oC77+Tj5D+NcByBOrP3VJtyFuuoWCsf8ynv/43P4t2vGdavN1a5Ze/wWDv6ej8peFsFapBPSGCE+/bAz2pIWL8xaHGBBpjbmnX+oSxhF2G6q8/hlAQDHeUe11dIV4jruc8fOkhqBMC2ZDm+Fk/vKP/wA7bhsAi07hkaKHwQyLKmTiCwy9DGpZXkMXHV05ncUr5mzCU+TYzZapa5jEtmOliM/oNouybgVnS7NUFkgtZtjs6c8PHDjQ+f4C4iQa8/Gn9EYTrlkadJydXMgIJor5of+3N8qlqjfexrb1Ag1idPSCbsQyBlHlvCh68Wz9WP69cRy3df1B0VOGRD+sV6lt8EamWKpBuLftf/JHqkFWWhUSQoUuXxSE2UfnDIM9xLPG1aBx7JI3t3y5A==;Ih3aoxrEMDIGyB4JQYrN+g=="
 ---
 

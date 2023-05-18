@@ -1,23 +1,31 @@
 ---
 category: news
 title: "Are you who you say you are? TSA tests facial recognition technology to boost airport security"
-excerpt: "The Transportation Security Administration has started using facial recognition technology at a number of airports across the country."
-publishedDateTime: 2023-05-15T21:49:00Z
-originalUrl: "https://www.boston.com/travel/technology/2023/05/15/are-you-who-you-say-you-are-tsa-tests-facial-recognition-technology-to-boost-airport-security/"
-webUrl: "https://www.boston.com/travel/technology/2023/05/15/are-you-who-you-say-you-are-tsa-tests-facial-recognition-technology-to-boost-airport-security/"
+excerpt: "The agency tasked with securing America's airports is testing the use of facial recognition technology at a number of airports across the country."
+publishedDateTime: 2023-05-16T13:29:00Z
+originalUrl: "https://www.wesh.com/article/tsa-tests-facial-recognition-tech-airport-security/43888744"
+webUrl: "https://www.wesh.com/article/tsa-tests-facial-recognition-tech-airport-security/43888744"
+ampWebUrl: "https://www.wesh.com/amp/article/tsa-tests-facial-recognition-tech-airport-security/43888744"
+cdnAmpWebUrl: "https://www-wesh-com.cdn.ampproject.org/c/s/www.wesh.com/amp/article/tsa-tests-facial-recognition-tech-airport-security/43888744"
 type: article
-quality: 39
+quality: 79
 heat: -1
 published: false
 
 provider:
-  name: Boston.com
-  domain: boston.com
+  name: WESH
+  domain: wesh.com
 
 topics:
   - Computer Vision
   - AI
   - AI in Security
+
+images:
+  - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/ap26461ed234b522.jpg?crop=1.00xw:0.847xh;0,0.0216xh&resize=1200:*"
+    width: 1024
+    height: 579
+    isCached: true
 
 related:
   - title: "TSA tests facial recognition technology to boost airport security"
@@ -461,6 +469,6 @@ related:
       domain: extremetech.com
     quality: 19
 
-secured: "KUwmW3rPq3NMRt1xusoZbbq1a+M6sU+NprbwdEiFViF1CqXDZtRr7cqAHP92XQu92kUgqj/0xU3e0+rLBZU1RH2+wfg1SDjjIZTNuxSLvyIdvDsCBe+xqKfHuluuOzS/wxOgzU2T+oudbMf6Aqzfie5vlt8iOAWjbv70PokVzmcuNF688HwEsMZYTs3FCqCggZm9MWbq71/e6u2pJitdkZj89dj+3RTXrmADdcElgPNxlL+swvLifoe/i4M8nnChuOiHYEWRppFalBB3XP0mNduHKrR5omfumDco5mqpj9NhRcYCklMINEows6usy3YjI8m+g9Cjxaz9Ky1GC7Y3Pq2bJA8jwjbS26uJXD9v5SbiGHTwTJ5t/1hmOoW1MFum6m+hgz7gMCH12jEZL4CKntADrDMCSX/dg+xzFgtKJd8O9T6V7dC88EPVu3TjuW5rO7gq/Aom7XMrNZS9O0I7iyb15QgdBRdDjXh23j5FnE01FlzRByFzSImVb8g7htOqCQXMM5n7jf7A3CpBPktbkg==;O0W+Qnp+SjEtfRfQ5N3bZA=="
+secured: "xUXFk9cwjDDYtNAdGPpjpsBndIi9LbvYclvrdxOguR21oEGoN20Emas/oe4cqHM3vnzhxkj5b5O54opcc3gc/9xA9HAU9wLONM9Zc7cZ5zlzu3NESyUpJ9mhtzCqKflpLP8SPl71SN9H+JV9V1tC55d3K8poK3Hm9yl9/XkSaLp4bKNd81vJZv5cFvTg8sy3gCamZg/s8uGLZvgNN21prKW9pZOPHkIM/GKRXB6E7SjlBq9+NtcIoEgIqE+3mjzf0zp1rx27o3lROBxYX66ZPCmGKvZo4Y3UvS4JLQVdejgIQcQImTi/7rI/xFr04SZ5gwU9lrjcQ0OlLsiDJ2HeCu/avb3hZG/IoxB62HXoVMM=;uPhkgJp4xnL67Q+h1RjIFg=="
 ---
 

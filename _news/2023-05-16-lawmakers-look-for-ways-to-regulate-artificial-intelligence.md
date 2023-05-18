@@ -18,35 +18,21 @@ topics:
   - AI
 
 related:
-  - title: "To make AI work for national security, invest in humans too"
-    excerpt: "Artificial intelligence is rapidly developing across the globe. The United States needs human-centered artificial intelligence for national security. However, it also needs AI-centered humans."
-    publishedDateTime: 2023-05-16T17:54:00Z
-    webUrl: "https://thebulletin.org/2023/05/to-make-ai-work-for-national-security-invest-in-humans-too/"
-    ampWebUrl: "https://thebulletin.org/2023/05/to-make-ai-work-for-national-security-invest-in-humans-too/amp/"
-    cdnAmpWebUrl: "https://thebulletin-org.cdn.ampproject.org/c/s/thebulletin.org/2023/05/to-make-ai-work-for-national-security-invest-in-humans-too/amp/"
+  - title: "Elon Musk Is Right: We Need to Regulate AI Now"
+    excerpt: "We need to do something about artificial intelligence before it's too late. You probably heard some variation of that statement dozens of times in the years before ChatGPT. You've"
+    publishedDateTime: 2023-05-18T00:17:00Z
+    webUrl: "https://www.cnet.com/tech/elon-musk-is-right-we-need-to-regulate-ai-now/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/elon-musk-is-right-we-need-to-regulate-ai-now/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/elon-musk-is-right-we-need-to-regulate-ai-now/"
     type: article
     provider:
-      name: Bulletin of the Atomic Scientists
-      domain: thebulletin.org
-    quality: 76
+      name: CNET
+      domain: cnet.com
+    quality: 87
     images:
-      - url: "https://thebulletin.org/wp-content/uploads/2023/05/artificial-intelligence-brain-think-illustration.jpeg"
-        width: 1920
-        height: 640
-        isCached: true
-  - title: "How to invest in artificial intelligence"
-    excerpt: "But there is one area in which the firm, run by Son Masayoshi, its charismatic founder, wants to peek above the parapet: investments in artificial intelligence (ai). Investors face two questions. The first is which frontier technologies will make market leaders a fortune."
-    publishedDateTime: 2023-05-17T16:30:00Z
-    webUrl: "https://www.economist.com/finance-and-economics/2023/05/17/how-to-invest-in-artificial-intelligence"
-    type: article
-    provider:
-      name: The Economist
-      domain: economist.com
-    quality: 37
-    images:
-      - url: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20230520_FNP502.jpg"
-        width: 1280
-        height: 720
+      - url: "https://www.cnet.com/a/img/resize/7881e2d7b68e0b07bd4dcf534260ca3af4f6cd1b/hub/2023/05/02/6a359d50-1e7a-4710-b994-d6b1ce857695/230501-yt-vs-chatgpt-bard-bing-v04.jpg?auto=webp&fit=crop&height=630&width=1200"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "AIXKCdNtvdYrnVNZwfYyTgu1QlNrJ48XhlB06SLjLSIremQysk7tYE+lsDn/Xa+Rww6G6wi88m3tGxWIANLBXKKW18CIUFE4t4Ryp/rmwE2eC4ODW4v4n4pdIR98P9Bp76Y6ArsbPn4UpEBYf7Y6eNhlmqhnZmVr+ToOecJ7XuT2UY4FEyKOxCmIDJn2414gkbWPgPtSb/sqpTOZHjMCp7nOaspW5cs+/A+IDUgfWqwC5VToKaqywV/s4XT0xJNTgdd2GkDDBrenzfb1l9jfgGO/sTY9QB3TKWlElmqw/KVSH1gv/jhRje1Bbg5aY5cAbLPckGl6cKSKcEdikV7I4j7I1OPd2GV6M4ZjBX/o7AnBCPBv+Yo9cYYgHRWjC5143Xf0KXA8qkPsXvCJCAeJPeyqT+dlgsJY5cj1MwggK3qn9oTwutpHud4s1tGd+GOdzftyxFqo66r8EdOR/IKlCxiUctUN8uWAmBEcOO3XsyvZvCPRCXTclf6rHuizwmqwIFAhgdJWryssQWv2WWeGig==;5tiGh35BwjRWIBqlJcJnlw=="

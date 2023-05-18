@@ -2,59 +2,6 @@
   "page": 20,
   "value": [
     {
-      "path": "_news/2023-05-05-elon-musk-stirs-debate-on-claims-that-ai-will-enable-you-to-live-forever-an-immortal-question-for-ai-ethics.md",
-      "title": "Elon Musk Stirs Debate On Claims That AI Will Enable You To Live Forever, An Immortal Question For AI Ethics",
-      "excerpt": "Elon Musk commented to Bill Maher about the ongoing controversy of whether advances in AI will lead to human longevity and the possibility of being able to live forever. Here is the insider analysis on that emerging hot topic.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2023/05/05/elon-musk-stirs-debate-on-claims-that-ai-will-enable-you-to-live-forever-an-immortal-question-for-ai-ethics/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2023/05/05/elon-musk-stirs-debate-on-claims-that-ai-will-enable-you-to-live-forever-an-immortal-question-for-ai-ethics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6452a5233fe6b06e18eabd27/0x0.jpg?format=jpg&crop=4000,2999,x333,y0,safe&width=1200",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2023/05/05/elon-musk-stirs-debate-on-claims-that-ai-will-enable-you-to-live-forever-an-immortal-question-for-ai-ethics/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/05/05/elon-musk-stirs-debate-on-claims-that-ai-will-enable-you-to-live-forever-an-immortal-question-for-ai-ethics/amp/",
-      "publishedDateTime": "2023-05-05T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics",
-        "AI in Robotics"
-      ]
-    },
-    {
       "path": "_news/2023-05-05-generative-ai-brings-new-risks-to-everyone-heres-how-you-can-stay-safe.md",
       "title": "Generative AI brings new risks to everyone. Here's how you can stay safe",
       "excerpt": "Organizations have to figure out the potential implications of tapping generative artificial intelligence tools, such as ChatGPT, while consumers should consider how they establish digital engagement.",
@@ -1212,6 +1159,58 @@
       "topics": [
         "AI Hardware",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-05-hugging-face-and-servicenow-open-up-generative-ai-for-coding-with-starcoder.md",
+      "title": "Hugging Face and ServiceNow open up generative AI for coding with StarCoder",
+      "excerpt": "ServiceNow and Hugging Face have launched StarCoder, a large language model enabling generative AI for code generation.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/hugging-face-and-servicenow-open-up-generative-ai-for-coding-with-starcoder/",
+      "originalUrl": "https://venturebeat.com/ai/hugging-face-and-servicenow-open-up-generative-ai-for-coding-with-starcoder/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/05/image1-1.png?w=1200&strip=all",
+          "width": 1199,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/hugging-face-and-servicenow-open-up-generative-ai-for-coding-with-starcoder/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/hugging-face-and-servicenow-open-up-generative-ai-for-coding-with-starcoder/amp/",
+      "publishedDateTime": "2023-05-04T14:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
       ]
     }
   ],

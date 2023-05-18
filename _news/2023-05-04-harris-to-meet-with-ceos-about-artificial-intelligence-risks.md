@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Harris to meet with CEOs about artificial intelligence risks"
-excerpt: "Vice President Kamala Harris will meet with the CEOs of four major companies developing artificial intelligence. The Biden administration is rolling out initiatives meant to ensure the rapidly evolvin"
-publishedDateTime: 2023-05-04T11:22:00Z
-originalUrl: "https://omaha.com/news/science/article_2be5fceb-7e7e-5b20-93a6-2fc9680f8df6.html"
-webUrl: "https://omaha.com/news/science/article_2be5fceb-7e7e-5b20-93a6-2fc9680f8df6.html"
+excerpt: "Vice President Kamala Harris speaks, along side Jill Scarbo, who won National Small Business of the Year in 2022 and is the CEO of Bright Futures Learning Services (BFLS), a provider of Applied Behavior Analysis (ABA) therapy services for children ..."
+publishedDateTime: 2023-05-04T12:03:00Z
+originalUrl: "https://omaha.com/news/science/harris-to-meet-with-ceos-about-artificial-intelligence-risks/article_2be5fceb-7e7e-5b20-93a6-2fc9680f8df6.html"
+webUrl: "https://omaha.com/news/science/harris-to-meet-with-ceos-about-artificial-intelligence-risks/article_2be5fceb-7e7e-5b20-93a6-2fc9680f8df6.html"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 630
     isCached: true
 
-secured: "mJVY0guk5Cwsbu6JS1xFPwzIMy5XsVCiR/QP2a9M1vXeIgmstNy0+dilpg8BNLiPmuiKGe3jIWIezgYdtVxd9VhmBXmiOHc/t9OrLNitKtEifJPbrILqf8/OgDBDLSueZk6zwaucB0ofYVzbhcphtWp0Lj+FTNL3zhnKKNrBbkrkzWZmimSlNK/uQt9pkF5CK3Pa2MVAr/LgF4n+HB3hfDwz78ZOdfUarwgqFBRSiEOS2430Il4w2OrFDuWPP7eH9r1BAlzxJV0pygiO72GJLZTf/QTuBCwgSsbH4Z41VcJhz+V7kEw6b82iyjsIpXC5KpXtBOgiCH3LmEABe0hsBhOXWdsE67/R+Vbf0DAOOSE=;O7ZllVwxgQafMHv83hgF1A=="
+secured: "oTjCCBquC3HSW/BzUY4vaI5/QSGP3Y8GnnaIgrt06NoW5vq6tJl9yL8aPtbaF83bNjLxcP5mJif3Hlg719v9Kk9px6jcGTNwguzKeitUuKYv13ftIlqwatI0jBUpeCEcOMUG6QmtZDw07PHAwPTM/4++1glpjHoyQEAxmtkv369Fdm1VP3RYaIoCuHDRpuCQdQeVYJxQ2SSVHyIw+hw8DMIsl3bWm37kFqBnf+AKe2S19jMCMz0Q8M2nlYd0TPXvYp9q30YxhQoj3ualnnzrQ4CynRWUw1d7BmMvfkQQQIy0j9snrPmO1XEPccreZWYp5tl3brVg1nr/mLJ4Y2f53utwsSjodBV7QIkdV8Q/Q44=;AqrOmNHkt77cec8unZ/X/A=="
 ---
 

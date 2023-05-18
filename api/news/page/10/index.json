@@ -2,57 +2,6 @@
   "page": 10,
   "value": [
     {
-      "path": "_news/2023-05-11-googles-bard-ai-is-now-available-without-a-waitlist-in-180-countries.md",
-      "title": "Google's Bard AI is now available without a waitlist in 180 countries",
-      "excerpt": "For the past two months, anybody wanting to try out Google's new chatbot AI, Bard, had to first register their interest and join a waitlist before being granted access. On Wednesday, the company announced that those days are over.",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/google-bard-transitions-to-palm-2-and-expands-to-180-countries-172908926.html",
-      "originalUrl": "https://www.engadget.com/google-bard-transitions-to-palm-2-and-expands-to-180-countries-172908926.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/uu/api/res/1.2/QgGeMi5XRFg81OgsGkChCg--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-05/c1297630-eeb3-11ed-beee-4b6903d78cd9.cf.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/google-bard-transitions-to-palm-2-and-expands-to-180-countries-172908926.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/google-bard-transitions-to-palm-2-and-expands-to-180-countries-172908926.html",
-      "publishedDateTime": "2023-05-10T19:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-05-11-google-io-2023-live-updates-pixel-fold-bard-ai-android-14-and-more.md",
       "title": "Google I/O 2023 live updates: Pixel Fold, Bard AI, Android 14 and more",
       "excerpt": "Google is hosting its first full-on in-person I/O developer conference since the pandemic and we expect the company to announce a biblical amount of news at breakneck pace. Engadget is here at the show and will bring you a liveblog of what's happening at the keynote as it happens.",
@@ -1243,6 +1192,58 @@
       "topics": [
         "AI",
         "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-11-cruise-expands-supervised-self-driving-ride-hailing-to-houston-and-dallas.md",
+      "title": "Cruise expands supervised self-driving ride-hailing to Houston and Dallas",
+      "excerpt": "Cruise is rolling out its self-driving cars to more cities — specifically, to Houston and Dallas as it expands its Texas-based presence. Cruise already started testing its vehicles in Austin at the end of last year,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/05/10/cruise-expands-supervised-self-driving-ride-hailing-to-houston-and-dallas/",
+      "originalUrl": "https://techcrunch.com/2023/05/10/cruise-expands-supervised-self-driving-ride-hailing-to-houston-and-dallas/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/04/Ridehail-Rider-Entry.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/05/10/cruise-expands-supervised-self-driving-ride-hailing-to-houston-and-dallas/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/10/cruise-expands-supervised-self-driving-ride-hailing-to-houston-and-dallas/amp/",
+      "publishedDateTime": "2023-05-10T10:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     }
   ],

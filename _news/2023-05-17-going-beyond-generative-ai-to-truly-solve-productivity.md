@@ -204,20 +204,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Meta to start testing generative AI tools for advertisers"
-    excerpt: "The generative AI ad tool AI Sandbox is currently being released to a small group of advertisers and will see a bigger release in July."
-    publishedDateTime: 2023-05-13T07:57:00Z
-    webUrl: "https://www.afaqs.com/news/digital/meta-to-start-testing-generative-ai-tools-for-advertisers"
-    type: article
-    provider:
-      name: AFAQS
-      domain: afaqs.com
-    quality: 37
-    images:
-      - url: "https://gumlet.assettype.com/afaqs%2F2023-05%2F32d75038-49eb-43cb-91fe-9da8b8d51f58%2Fmedia_mantra__3_.png?rect=0%2C20%2C1280%2C672&w=1200&auto=format%2Ccompress&ogImage=true"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "How AI ethics is coming to the fore with generative AI"
     excerpt: "The hype around ChatGPT and other large language models is driving more interest in AI and putting ethical considerations surrounding their use to the fore"
     publishedDateTime: 2023-05-15T07:44:00Z

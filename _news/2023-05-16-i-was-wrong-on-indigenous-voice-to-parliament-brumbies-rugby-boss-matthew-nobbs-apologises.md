@@ -18,17 +18,6 @@ topics:
   - Natural Language Processing
   - AI
 
-related:
-  - title: "I was wrong on Indigenous voice to parliament: Brumbies rugby boss Matthew Nobbs apologises"
-    excerpt: "The National Rugby League last week publicly supported the voice, joining Football Australia, Tennis Australia and the Australian Olympic Committee in pushing for constitutional recognition for Indigenous Australians. Outgoing AFL chief executive Gillon ..."
-    publishedDateTime: 2023-05-17T07:20:00Z
-    webUrl: "https://www.theaustralian.com.au/nation/indigenous/i-was-wrong-on-indigenous-voice-to-parliament-brumbies-rugby-boss-matthew-nobbs-apologises/news-story/fb00f966b8ffed02f425901fcd41aded"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 0
-
 secured: "zdjpFp0SDcB0hN9nb2sppov4dP8EpKX0Y0Si6HaDT3o+eWTGHo7BDedrq9HyB920RYvHayQ9gQvHbQeCmYNRkxrnxEESg+BwgXNtAzU5ua9H4o9R7n23zF+mmBlTiqzrXRQNO7Of7kJkQlcTcVpk33aQ+ZdDdhib/5YeTMJib0DfjAf/UUL+8DZCZZi4/9EcrXJJ7wybj7mEC2/KAuOWzrZbxmSd3CqgqPadqiBlEgPk0sgbkvNDJLZ17ClLIVV9P/hbhscYt8YWPpJS4D3ws1jIz3z2pk8eqEy16j9vCMOCWEeJQis4llj0GiijU85Vk/IGZyu/DKTSbbMaryW1SUH6UDbxtBQ9GMGjxfFqI6optZyEj4WeWeeZKXq3iXqI5jhYVu9wzaxMKgRP6TyVRSIMDG7JrdlsGMLiNCYu46OIzmsgsvT6twcB36oizPeP8sesBRS109HUQzl9Elagt3xHOYEQWXxyo0aVC1gORSAPDMB3bR5VA+N1glPFaNGP424PBuSPp4csehMmHggf7w==;VRWNBqrX5fUgqBGQva8NqA=="
 ---
 

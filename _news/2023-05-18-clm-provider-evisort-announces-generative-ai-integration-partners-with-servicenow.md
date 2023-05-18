@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 599
         isCached: true
+  - title: "Knowledge 2023 - ServiceNow looks beyond general purpose generative AI to domain-specific use cases"
+    excerpt: "ServiceNow has this week revealed how it is planning to capitalize on the recent rapid advancements seen in the field of generative AI, using large language models (LLMs) - showcasing some of the potential use cases live on stage during its second Knowledge 2023 keynote in Las Vegas this week."
+    publishedDateTime: 2023-05-18T00:32:00Z
+    webUrl: "https://diginomica.com/knowledge-2023-servicenow-looks-beyond-general-purpose-generative-ai-domain-specific-use-cases"
+    ampWebUrl: "https://diginomica.com/knowledge-2023-servicenow-looks-beyond-general-purpose-generative-ai-domain-specific-use-cases?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/knowledge-2023-servicenow-looks-beyond-general-purpose-generative-ai-domain-specific-use-cases?amp"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 45
+    images:
+      - url: "https://diginomica.com/sites/default/files/images/2023-05/0301FB54-D1AC-402C-9D31-23525EA21F1A.jpeg"
+        width: 8256
+        height: 5504
+        isCached: true
   - title: "Knowledge 2023 - ServiceNow pitches the ‘exponential enterprise’ as it announces ERP workflows and generative AI tools"
     excerpt: "ServiceNow pitches the ‘exponential enterprise’ as it announces ERP workflows and generative AI tools Some 15,000 attendees descended on Las Vegas this week for ServiceNow’s annual user event, Knowledge,"
     publishedDateTime: 2023-05-16T20:44:00Z

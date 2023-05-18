@@ -64,6 +64,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Preparing for AI in the Employee Experience"
+    excerpt: "AI is the next big evolution in how we work. Most employees will need to incorporate it into their work. AI can be an effective tool for reducing repetitive tasks and minimizing bias in decision-making. Willingness to learn, emotional intelligence, and creative problem-solving are critical skills to hone."
+    publishedDateTime: 2023-05-17T22:07:00Z
+    webUrl: "https://www.psychologytoday.com/za/blog/the-new-employee-experience/202305/preparing-for-ai-in-the-employee-experience"
+    type: article
+    provider:
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 37
+    images:
+      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-05/GettyImages-1469706462.jpg?itok=gnSj0JMx"
+        width: 1528
+        height: 800
+        isCached: true
   - title: "GIGABYTE to Introduce Leading-Edge AI Solutions and Computers at COMPUTEX 2023, Unveiling “Future of COMPUTING”"
     excerpt: "Take the Lead in the AI Era with GIGABYTE’s Trailblazing GPU/HPC Servers The emergence of ChatGPT and various generative AI applications are making huge waves of industry evolution, driving all-time demand for AI computing servers. At COMPUTEX ..."
     publishedDateTime: 2023-05-17T03:16:00Z

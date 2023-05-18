@@ -264,6 +264,20 @@ related:
         width: 700
         height: 467
         isCached: true
+  - title: "ChatGPT: Did the CEO of OpenAI voluntarily call for AI to be regulated?"
+    excerpt: "Sam Altman, the CEO of OpenAI, testified for the first time since ChatGPT exploded in popularity. Senators appeared to accept Altman’s warnings that AI could “cause significant harm to the world” and his suggestion that a new agency could set rules."
+    publishedDateTime: 2023-05-18T00:30:00Z
+    webUrl: "https://techwireasia.com/2023/05/chatgpt-did-the-ceo-of-openai-voluntarily-call-for-ai-to-be-regulated/"
+    type: article
+    provider:
+      name: techwireasia.com
+      domain: techwireasia.com
+    quality: 39
+    images:
+      - url: "https://cdn.techwireasia.com/wp-content/uploads/2023/05/063_1490690312-scaled-e1684321191850-897x500.jpg"
+        width: 897
+        height: 500
+        isCached: true
   - title: "In Senate testimony, OpenAI CEO Sam Altman agrees with calls for an AI regulatory agency"
     excerpt: "In his In his testimony today before a bipartisan U.S. Senate panel, OpenAI CEO Sam Altman was not grilled, probed or interrogated."
     publishedDateTime: 2023-05-16T18:56:00Z
@@ -400,6 +414,6 @@ related:
       domain: siliconangle.com
     quality: 11
 
-secured: "YSkdZX31pso0KY8jYwI0FfJzVWkJBg7V2h7rXGGBycpQgrb6zzXwEBG3dJj06sY58aWwaiREt23vrOriyGPG52RMSKfT8ntHPDXbf+eOmm1VJdG9x3aM6IRCi7HS+rfFL7tZcBuMmGMDJb/KyKK9Hqj3+AbB5Jd1pf5mSr5MnP2fqAGoblo1Ez12FMXQFO7Ng255P+4sLfeXxPzXTA3IsaHcli93XMRS1wAtvasysTDvyRE5SvQ1ErV1FaL8kJUvx1Qg5CnpwOhxzgXCphNOcUgEOXZxMSatb7QeRZDiozQkicZGNxyvEDqlqlOoDhsq2sRpRjzeqcZfTCZHs5XN/zbfizdpac2QE+y4aOd7LhE=;VACAhQA3xX4N5eIM9KzycQ=="
+secured: "Daqy6WMgGefkwaAIWyQY2ctba9saum0tz8w1PSJqQqTWJUtGmwVMOXNTu2o+fmIBTxDS7jQZSdupElafFxy43Oz5DkC7gDffRLBwUmPeWYNPagp8/E92kE2nu2Sx5OX2WXUiAuLjFI+cQQt01dpH8OdXl1lXKDcnR9lelKKGxrPRJUZNMeeJDBVYyzkbsgcN97/6K5mQZW+s69BYCR/TyLEXTx3WY20or7/ERmbfrrVtXJv3rzZr2hzin4O/PIGWAe/vP/7aPd2Os+wrFeum+CkhV3aH1WDLJHOu2IohW+2kdZS2AkpmCpkwbXqGfgj0X3xOXhHu8WnQWmQklGCxTnotmRMMlNOxovlFk9yf0C6RegcKVQmzXVOFDb5bqkwzwaEDoqZjeXYd+63k94+59jZw34OVEOPU9G1K+b1Xpmrq8HowMqCv19N7tYxeajfHLRN7OAWzcphvAsLvPGVirZUQ8bXXsXZgoYbO/TP5+IuOj4WlHALG3dqvlfTYG2DLMAK24806ybmadp3bnsYOsQ==;xOMoaS+ednKAnn/qKdYl0w=="
 ---
 

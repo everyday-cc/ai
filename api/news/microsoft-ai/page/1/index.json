@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-05-18-build-better-ai-for-enterprise-and-hybrid-cloud-with-ibms-watsonx.md",
+      "title": "Build Better AI For Enterprise And Hybrid Cloud With IBM’s WatsonX",
+      "excerpt": "Another example is SAP, which will incorporate the Watson service processing to power its digital assistant in SAP Start. New AI capabilities in SAP Start will help boost user productivity with both natural language capabilities and predictive insights ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tiriasresearch/2023/05/17/build-better-ai-for-enterprise-and-hybrid-cloud-with-ibms-watsonx/",
+      "originalUrl": "https://www.forbes.com/sites/tiriasresearch/2023/05/17/build-better-ai-for-enterprise-and-hybrid-cloud-with-ibms-watsonx/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 136,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6465480551131fd5b9b1abc6/0x0.jpg?format=jpg&crop=2560,1330,x0,y0,safe&width=1200",
+          "width": 1200,
+          "height": 623,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tiriasresearch/2023/05/17/build-better-ai-for-enterprise-and-hybrid-cloud-with-ibms-watsonx/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2023/05/17/build-better-ai-for-enterprise-and-hybrid-cloud-with-ibms-watsonx/amp/",
+      "publishedDateTime": "2023-05-17T14:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "IBM AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-17-special-edition-with-andrew-ross-sorkin-ai-and-microsoft-ceo-satya-nadella.md",
       "title": "Special Edition with Andrew Ross Sorkin: AI and Microsoft CEO Satya Nadella",
       "excerpt": "Artificial Intelligence is a profound new technology that will have implications – good and bad – on all our lives. In this latest episode of “Special Edition,” host Andrew Ross Sorkin sits down with Microsoft CEO Satya Nadella.",
@@ -1453,59 +1506,6 @@
         "AI Hardware",
         "AI",
         "AI in Finance",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-05-meta-platforms-scoops-up-ai-networking-chip-team-from-graphcore.md",
-      "title": "Meta Platforms scoops up AI networking chip team from Graphcore",
-      "excerpt": "Meta Platforms Inc has hired an Oslo-based team that until late last year was building artificial-intelligence networking technology at British chip unicorn Graphcore.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/meta-platforms-scoops-up-ai-networking-chip-team-graphcore-2023-05-05/",
-      "originalUrl": "https://www.reuters.com/technology/meta-platforms-scoops-up-ai-networking-chip-team-graphcore-2023-05-05/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 136,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/8g5tZ20Sbn0AThhkzgz3v_o1wMA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WBUVTOEJBFKNFAXZSYE544RLH4.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-05T06:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
         "Microsoft AI"
       ]
     }

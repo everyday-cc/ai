@@ -2,58 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2023-05-18-soft-robotics-demonstrates-mgripai-at-automate-2023.md",
-      "title": "Soft Robotics Demonstrates mGripAI™ at Automate 2023",
-      "excerpt": "About Soft Robotics Soft Robotics is an industry-leading technology company that designs and builds automated high-speed picking solutions using 3D machine vision, artificial intelligence software, and proprietary soft robotic grippers. The company's ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/soft-robotics-demonstrates-mgripai-at-automate-2023-1032335691",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/soft-robotics-demonstrates-mgripai-at-automate-2023-1032335691",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/2079465/Soft_Robotics__AI_enabled_mGripAI_tray_Packing_Chicken_Drumsticks_Directly_from_Bulk.jpg",
-          "width": 400,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-17T10:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-05-17-abb-predicts-top-us-robotics-trends.md",
       "title": "ABB Predicts Top U.S. Robotics Trends",
       "excerpt": "The impact of U.S. labor shortages is increasingly being felt by many businesses as they struggle to keep pace with customer demands, even with the potential for some softening",
@@ -1402,6 +1350,49 @@
           "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/FourthAgeCover.jpg",
           "width": 1400,
           "height": 2113,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-09T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-10-why-dont-we-have-robot-surgeons-yet.md",
+      "title": "Why Don't We Have Robot Surgeons Yet?",
+      "excerpt": "Most surgical robots operate in one of two ways, or a combination of the two. Either they are remote-controlled by the surgeon, or they follow a predetermined plan set by a surgeon – not unlike how collaborative robots (cobots) in factories can be guided ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/automation-motion-control/why-dont-we-have-robot-surgeons-yet",
+      "originalUrl": "https://www.designnews.com/automation-motion-control/why-dont-we-have-robot-surgeons-yet",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/Robotic%20Surgery.jpg",
+          "width": 1806,
+          "height": 1023,
           "title": null,
           "attribution": null,
           "isCached": true

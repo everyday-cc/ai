@@ -2,50 +2,6 @@
   "page": 18,
   "value": [
     {
-      "path": "_news/2023-05-07-the-rise-of-the-machines-assessing-the-ethical-risks-of-machine-learning-and-ai.md",
-      "title": "The Rise of the Machines: Assessing The Ethical Risks of Machine Learning And AI",
-      "excerpt": "As the world progresses towards digitalization, more people are adopting Artificial Intelligence (AI). The pandemic has accelerated this adoption. There are predictions that computers and robots will become more",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/readersblog/anawrites98/the-rise-of-the-machines-assessing-the-ethical-risks-of-machine-learning-and-ai-2-53549/",
-      "originalUrl": "https://timesofindia.indiatimes.com/readersblog/anawrites98/the-rise-of-the-machines-assessing-the-ethical-risks-of-machine-learning-and-ai-2-53549/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/photo/75476733.cms",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-07T08:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
       "path": "_news/2023-05-07-a-mayday-call-for-artificial-intelligence.md",
       "title": "A mayday call for artificial intelligence",
       "excerpt": "Was Geoffrey Hinton's (the \"godfather of AI\") resignation from Google on May Day a true mayday signal for where AI is headed?",
@@ -1173,6 +1129,57 @@
       ],
       "topics": [
         "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-06-amazons-latest-ai-acquisition-is-for-podcasts-on-amazon-music.md",
+      "title": "Amazon's Latest AI Acquisition Is for Podcasts on Amazon Music",
+      "excerpt": "Amazon's latest AI push could be geared toward making it easier to find information and highlights in podcasts.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/tech/amazons-latest-ai-acquisition-is-for-podcasts-on-amazon-music/",
+      "originalUrl": "https://www.cnet.com/tech/amazons-latest-ai-acquisition-is-for-podcasts-on-amazon-music/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/0333df1565ee87dfebf36024b2a3e8b2ad5aa917/hub/2022/04/28/6d9834c6-9c0b-449a-a555-ea81f04c9fc3/amazon-music.jpg?auto=webp&fit=crop&height=630&width=1200",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/amazons-latest-ai-acquisition-is-for-podcasts-on-amazon-music/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/amazons-latest-ai-acquisition-is-for-podcasts-on-amazon-music/",
+      "publishedDateTime": "2023-05-05T17:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     }

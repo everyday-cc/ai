@@ -68,13 +68,13 @@ related:
       domain: siliconrepublic.com
     quality: 19
   - title: "Pecan AI Opens Platform and Fast Predictive Modeling for All Data Professionals"
-    excerpt: "Platform now open to all users for free trials of fast, easy-to-use predictive modeling, accessible to all business teams Pecan AI, the leader in AI-based predictive analytics for BI analysts and business teams,"
-    publishedDateTime: 2023-05-17T17:35:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/05/b32451257/pecan-ai-opens-platform-and-fast-predictive-modeling-for-all-data-professionals"
+    excerpt: "Pecan AI, the leader in AI-based predictive analytics for BI analysts and business teams, today announced that it has opened its predictive analytics platform to all users. Free trials let anyone try the platform's intuitive SQL-based editor for building predictive models focused on real business challenges."
+    publishedDateTime: 2023-05-17T17:46:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/05/17/9816519.htm"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
+      name: TMCnet
+      domain: tmcnet.com
     quality: 15
 
 secured: "jggsHxty2SIXbcgCIWdCyQjjbURMcyd18mLL3uZDtYLfh4ijNp5zTJoeImiT++tzKEO8FxbKeGJLxeZsHwQKnVnxvdgmqZcIRc1+srIWKuqqP3Mup2owcf7HlmucXyT1VHfs1z9UkDOYj4rbZROKvm/BtZ2iZOYV+tPCgz2r2dBBS9Z7nqoF06KnSbMJ71s2vJX5wqU8pYziaBsg/hLBo7Nz5Y4CHNKMelOAfGnZnBYzMKbj2DZ+QnaW69fWrus+wkEH+mvFVm400aBHRgKGhmsKKoEPH4W83sf/XISIhrwfLNdUlL/Cos6npJAqF4t7ReMrq5dGF4m3xRzfMr1LWBcWSatKDZk7xtQSRz3N1s2SnIWRlL7vkBptu1BnJV20Cl00Pfb+LGGp7wCkDj6Ir+Qu8VsM8eLt7Zq6fQJdgHYeOzsxsjz/7oCBcTVEAzPtO9x0bfzgAWl32VCS4kw4YVjidPrQkho9oKGTp7sZ2Ubzv4G9G4b7C+okFdfGNCfBKs2ECxizKMDdkKZsHOqdcQ==;uPPPR0vIz3XCR+uckioXag=="

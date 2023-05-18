@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/unlock-productivity-with-advanced-generat
 webUrl: "https://www.ibm.com/blog/unlock-productivity-with-advanced-generative-ai/"
 type: article
 quality: 119
-heat: 289
+heat: 279
 published: true
 
 provider:
@@ -203,20 +203,6 @@ related:
     quality: 39
     images:
       - url: "https://arizent.brightspotcdn.com/dims4/default/4cdc59a/2147483647/strip/true/crop/2000x1050+0+30/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F6b%2F8f%2F72919e654bc18c3900fa3e4087d1%2F375176087.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Meta to start testing generative AI tools for advertisers"
-    excerpt: "The generative AI ad tool AI Sandbox is currently being released to a small group of advertisers and will see a bigger release in July."
-    publishedDateTime: 2023-05-13T07:57:00Z
-    webUrl: "https://www.afaqs.com/news/digital/meta-to-start-testing-generative-ai-tools-for-advertisers"
-    type: article
-    provider:
-      name: AFAQS
-      domain: afaqs.com
-    quality: 37
-    images:
-      - url: "https://gumlet.assettype.com/afaqs%2F2023-05%2F32d75038-49eb-43cb-91fe-9da8b8d51f58%2Fmedia_mantra__3_.png?rect=0%2C20%2C1280%2C672&w=1200&auto=format%2Ccompress&ogImage=true"
         width: 1200
         height: 630
         isCached: true

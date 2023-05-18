@@ -1,33 +1,23 @@
 ---
 category: news
 title: "Soft Robotics Demonstrates mGripAI™ at Automate 2023"
-excerpt: "About Soft Robotics Soft Robotics is an industry-leading technology company that designs and builds automated high-speed picking solutions using 3D machine vision, artificial intelligence software, and proprietary soft robotic grippers. The company's ..."
-publishedDateTime: 2023-05-17T17:54:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/soft-robotics-demonstrates-mgripai-at-automate-2023-1032335691"
-webUrl: "https://markets.businessinsider.com/news/stocks/soft-robotics-demonstrates-mgripai-at-automate-2023-1032335691"
+excerpt: "At this event, Soft Robotics will demonstrate two mGripAI-powered applications in its booth: Tray Packing Chicken Drumsticks Directly from Bulk - Picking, orienting, and packaging"
+publishedDateTime: 2023-05-17T18:38:00Z
+originalUrl: "https://it.tmcnet.com/news/2023/05/17/9816489.htm"
+webUrl: "https://it.tmcnet.com/news/2023/05/17/9816489.htm"
 type: article
-quality: 99
-heat: 99
-published: true
+quality: 49
+heat: 49
+published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Robotics
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/2079465/Soft_Robotics__AI_enabled_mGripAI_tray_Packing_Chicken_Drumsticks_Directly_from_Bulk.jpg"
-    width: 400
-    height: 300
-    isCached: true
-
-secured: "153dya4OOpG8ibSKK0RPeZ0kFjGYP2XwZzlG+QrSmuNC6MHI8ncxE6YKzqn1mxdkxTpXbTgfb6lSwEtgspnHcUfIVIW0wcY7gKFoYfAHGPuxMtuJB+2gvyjm7Q4nkyyRK94dmRqCQol9mb6GKYkjw+0OOTT4I3JpV4YIFTmzLIqneQZ+JpajPvbvzT3xgxb25VpvHVKLLH9OdO3VCIa5wHKU2zuEU45fVn6ZpZFiVnC8bylVjZettt5NympDfrFlA8Wfpq8SQLrOuQdrLi9/HiT721WSSR9f2W/0nsULhQRHZJVmjuTSqAVK9dUwgYibMxiYdVP+5RewkPiySC4KG6EH8DE5Q14jfVLyOpxuIylrXMt9juszr6993z5hI/ttDs+Rc7TxkZBv5SONFiCM6s1H57ZY9a1WvY0bwxGNuxHY0gWCEBrZnnmUPrKOzwk/7FmV43mfidYkSqQDougLRLhqbAfoMvj/3eCvcIqwZXv6FjEG7RJfq8XaFIVNw+Ba3GyCPZrob/TcK6q9cB8Y4w==;mCbzAX5+O0ixe/d7uLh7BQ=="
+secured: "c4L/TTYODYeV6Z28EmH2Uskjh3KxgHNe+s3zbeCKIxNL6RNgR8z+KWIshmEsnueGYljePbkk3tdSJ8PLeO75Dzw9kfArjitOwlcEZKa1W1BN1iOqm0RYy5X0zHoOiimwuR+5ffAG0nLWZ9Odsa94ytQoi5jy/+6l3p5B2qcyGdv7AtR+iE8zKuXknonB/giY0RrpYO+/wRLcah0AKg6JtI4bV3QS0w6qyKwhnsSJ/SjHk2+hxWBFSWlEbudk0g2PuNIxyI4VevxC+KuGm/u4nVnkvBzzjfzS4pDNN+6aYKY3J6A0ugXouppX3TW5mn4hMjYs6Zhrc9xMi4/6f9+7rkCK1dmT1IUZZi++QNTUgiQ=;ISMh2ruP4TH3ybuptsebsg=="
 ---
 

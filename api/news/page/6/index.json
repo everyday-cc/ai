@@ -2,57 +2,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_news/2023-05-13-google-told-me-bard-has-gotten-better-but-even-the-ai-doesnt-believe.md",
-      "title": "Google told me Bard has gotten better. But even the AI doesn't believe ...",
-      "excerpt": "Even after Google I/O, Bard seems to be holding on to some of its old quirks, even denying its upgrade to PaLM 2.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/google-told-me-bard-has-gotten-better-but-even-the-ai-doesnt-believe-it/",
-      "originalUrl": "https://www.zdnet.com/article/google-told-me-bard-has-gotten-better-but-even-the-ai-doesnt-believe-it/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/3002560b7b92127860a6d1747749f19b9714d7c1/2023/05/10/bb010820-3937-4ed0-8468-2d013125672d/google-bard-2.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-told-me-bard-has-gotten-better-but-even-the-ai-doesnt-believe-it/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-told-me-bard-has-gotten-better-but-even-the-ai-doesnt-believe-it/",
-      "publishedDateTime": "2023-05-13T04:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-05-13-to-my-fellow-gen-xers-worried-ai-is-going-to-take-your-job-take-a-chill-pill.md",
       "title": "To my fellow Gen Xers worried AI is going to take your job: Take a chill pill",
       "excerpt": "\"Will AI take my job\" is a question on many minds lately, especially for Gen X. Instead of panicking, boost your career by learning to adapt.",
@@ -1224,6 +1173,58 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-12-ai-run-etf-dumps-apple-in-favor-of-this-chip-stock-and-hints-at-new-opportunity-brewing-in-market.md",
+      "title": "AI-Run ETF Dumps Apple In Favor Of This Chip Stock And Hints At New Opportunity Brewing In Market",
+      "excerpt": "QRAFT AI-Enhanced U.S. Large Cap Momentum ETF (NYSE:AMOM) had a 7.96% of its portfolio’s weight in Apple in April but sold the entire stake in May. Incidentally, Apple was the fund's top holding in April.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/etf/ai-run-etf-dumps-apple-in-favor-of-this-chip-stock-and-hints-at-new-opportunity-brewing-in-market-1032323317",
+      "originalUrl": "https://markets.businessinsider.com/news/etf/ai-run-etf-dumps-apple-in-favor-of-this-chip-stock-and-hints-at-new-opportunity-brewing-in-market-1032323317",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/artificial_intelligence_as_stock_picker.png",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-12T08:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
         "AI"
       ]
     }

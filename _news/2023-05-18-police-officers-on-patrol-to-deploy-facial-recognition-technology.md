@@ -106,6 +106,22 @@ related:
         height: 558
         isCached: true
   - title: "Are you who you say you are? TSA tests facial recognition technology to boost airport security"
+    excerpt: "The agency tasked with securing America's airports is testing the use of facial recognition technology at a number of airports across the country."
+    publishedDateTime: 2023-05-16T13:29:00Z
+    webUrl: "https://www.wesh.com/article/tsa-tests-facial-recognition-tech-airport-security/43888744"
+    ampWebUrl: "https://www.wesh.com/amp/article/tsa-tests-facial-recognition-tech-airport-security/43888744"
+    cdnAmpWebUrl: "https://www-wesh-com.cdn.ampproject.org/c/s/www.wesh.com/amp/article/tsa-tests-facial-recognition-tech-airport-security/43888744"
+    type: article
+    provider:
+      name: WESH
+      domain: wesh.com
+    quality: 79
+    images:
+      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/ap26461ed234b522.jpg?crop=1.00xw:0.847xh;0,0.0216xh&resize=1200:*"
+        width: 1024
+        height: 579
+        isCached: true
+  - title: "Are you who you say you are? TSA tests facial recognition technology to boost airport security"
     excerpt: "A pilot project by the Transportation Security Administration assesses the use of facial recognition technology at a number of airports."
     publishedDateTime: 2023-05-16T21:17:00Z
     webUrl: "https://abc7chicago.com/tsa-facial-recognition-airport-security-transportation-administration/13250231/"
@@ -346,15 +362,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Are you who you say you are? TSA tests facial recognition technology to boost airport security"
-    excerpt: "The Transportation Security Administration has started using facial recognition technology at a number of airports across the country."
-    publishedDateTime: 2023-05-15T21:49:00Z
-    webUrl: "https://www.boston.com/travel/technology/2023/05/15/are-you-who-you-say-you-are-tsa-tests-facial-recognition-technology-to-boost-airport-security/"
-    type: article
-    provider:
-      name: Boston.com
-      domain: boston.com
-    quality: 39
   - title: "Facial recognition technology coming to West Virginia schools"
     excerpt: "Four West Virginia county school districts have installed or are in the process of installing new facial recognition technology. Jonah Adkins. Jonah Adkins,"
     publishedDateTime: 2023-05-15T17:24:00Z

@@ -2,58 +2,6 @@
   "page": 12,
   "value": [
     {
-      "path": "_news/2023-05-10-how-small-businesses-can-integrate-ai-tools-and-empower-their-team.md",
-      "title": "How Small Businesses Can Integrate AI Tools And Empower Their Team",
-      "excerpt": "As entrepreneurs, it's important to stay ahead of the curve and not ignore emerging technologies that can give us a competitive edge. At the same time, we must prioritize taking care of our people. Here are my thoughts on how to integrate AI into your small business in a responsible way.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/theyec/2023/05/10/how-small-businesses-can-integrate-ai-tools-and-empower-their-team/",
-      "originalUrl": "https://www.forbes.com/sites/theyec/2023/05/10/how-small-businesses-can-integrate-ai-tools-and-empower-their-team/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64595406c962fe6795be84e9/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 484,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/theyec/2023/05/10/how-small-businesses-can-integrate-ai-tools-and-empower-their-team/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2023/05/10/how-small-businesses-can-integrate-ai-tools-and-empower-their-team/amp/",
-      "publishedDateTime": "2023-05-10T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-05-10-why-ai-powered-customer-service-and-support-are-crucial-in-2023.md",
       "title": "Why AI-Powered Customer Service And Support Are Crucial In 2023",
       "excerpt": "The main goal of AI customer service is to automate processes to improve efficiencies and lower overhead costs.",
@@ -1213,6 +1161,49 @@
       ],
       "topics": [
         "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-10-are-there-robot-proof-jobs.md",
+      "title": "Are There Robot-proof Jobs?",
+      "excerpt": "Robots work well in perfectly controlled environments, such as factories and warehouses, and not in ad hoc environments like your aunt Sue’s attic. Forest rangers and electricians are a couple of jobs like this that come to mind, but there are many more.",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/automation-motion-control/are-there-robot-proof-jobs",
+      "originalUrl": "https://www.designnews.com/automation-motion-control/are-there-robot-proof-jobs",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/FourthAgeCover.jpg",
+          "width": 1400,
+          "height": 2113,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-09T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     }

@@ -16,6 +16,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Autos
 
 images:
   - url: "https://wp.technologyreview.com/wp-content/uploads/2023/04/med-paternalism.jpeg?w=2932"

@@ -2,49 +2,6 @@
   "page": 13,
   "value": [
     {
-      "path": "_news/2023-05-10-are-there-robot-proof-jobs.md",
-      "title": "Are There Robot-proof Jobs?",
-      "excerpt": "Robots work well in perfectly controlled environments, such as factories and warehouses, and not in ad hoc environments like your aunt Sue’s attic. Forest rangers and electricians are a couple of jobs like this that come to mind, but there are many more.",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/automation-motion-control/are-there-robot-proof-jobs",
-      "originalUrl": "https://www.designnews.com/automation-motion-control/are-there-robot-proof-jobs",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/FourthAgeCover.jpg",
-          "width": 1400,
-          "height": 2113,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-09T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-05-10-heres-why-ge-healthcare-has-ma-making-fever-in-2023.md",
       "title": "Here’s Why GE HealthCare Has M&A-Making Fever in 2023",
       "excerpt": "On Thursday, GE HealthCare announced it has signed an agreement to acquire Caption Health, a private company that specializes in using artificial intelligence to assist in conducting ultrasound scans. GE HealthCare did not disclose financial terms of the ...",
@@ -1213,6 +1170,49 @@
       "topics": [
         "AI",
         "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2023-05-09-cedars-sinai-establishes-center-for-ai-machine-learning.md",
+      "title": "Cedars-Sinai establishes center for AI, machine learning",
+      "excerpt": "Los Angeles-based Cedars-Sinai has established a new center focused on advancing artificial intelligence and machine learning.",
+      "sourceUrl": null,
+      "webUrl": "https://www.beckershospitalreview.com/innovation/cedars-sinai-establishes-center-for-ai-machine-learning.html",
+      "originalUrl": "https://www.beckershospitalreview.com/innovation/cedars-sinai-establishes-center-for-ai-machine-learning.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-09T07:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Becker's Hospital Review",
+        "domain": "beckershospitalreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     }
   ],
