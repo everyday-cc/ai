@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/mattsymonds/2023/05/16/future-of-learni
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mattsymonds/2023/05/16/future-of-learningonline-innovation-for-a-career-in-tech/amp/"
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-05/230515-autonomous-bus-mb-1417-a68ffd.jpg"
         width: 3994
         height: 2663
+        isCached: true
+  - title: "Robotics innovation: Leading companies in obstacle detectors for the automotive industry"
+    excerpt: "According to GlobalData’s Technology Foresights, which uses over 619,000 patents to analyse innovation intensity for the automotive industry, there are 290+ innovation areas that will shape the future of the industry."
+    publishedDateTime: 2023-05-18T08:50:00Z
+    webUrl: "https://www.just-auto.com/data-insights/innovators-robotics-obstacle-detectors-automotive/"
+    type: article
+    provider:
+      name: Just Auto
+      domain: just-auto.com
+    quality: 45
+    images:
+      - url: "https://www.just-auto.com/wp-content/uploads/sites/30/2023/05/Robotics_Obstacle-detectors.jpg"
+        width: 1440
+        height: 810
         isCached: true
   - title: "Robotics innovation: Leading companies in smart factory systems for the automotive industry"
     excerpt: "The smart factory is a cyber-physical system that analyses data, powers automated processes, and continuously learns using cutting-edge technologies like artificial intelligence (AI) and machine learning. It is a network of devices, communication systems, and computing power."

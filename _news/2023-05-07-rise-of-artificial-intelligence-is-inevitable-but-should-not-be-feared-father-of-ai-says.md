@@ -1,16 +1,13 @@
 ---
 category: news
 title: "Rise of artificial intelligence is inevitable but should not be feared, ‘father of AI’ says"
-excerpt: "Jürgen Schmidhuber believes AI will progress to the point where it surpasses human intelligence and will pay no attention to people"
-publishedDateTime: 2023-05-06T23:21:00Z
-originalUrl: "https://www.theguardian.com/technology/2023/may/07/rise-of-artificial-intelligence-is-inevitable-but-should-not-be-feared-father-of-ai-says?ref=biztoc.com"
-webUrl: "https://www.theguardian.com/technology/2023/may/07/rise-of-artificial-intelligence-is-inevitable-but-should-not-be-feared-father-of-ai-says?ref=biztoc.com"
-ampWebUrl: "https://amp.theguardian.com/technology/2023/may/07/rise-of-artificial-intelligence-is-inevitable-but-should-not-be-feared-father-of-ai-says"
-cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/may/07/rise-of-artificial-intelligence-is-inevitable-but-should-not-be-feared-father-of-ai-says"
+excerpt: "Jürgen Schmidhuber believes AI will progress to the point where it surpasses human intelligence and will pay no attention to people The man once described as the father of artificial intelligence ..."
+publishedDateTime: 2023-05-07T00:23:00Z
+originalUrl: "https://www.theguardian.com/technology/2023/may/07/rise-of-artificial-intelligence-is-inevitable-but-should-not-be-feared-father-of-ai-says"
+webUrl: "https://www.theguardian.com/technology/2023/may/07/rise-of-artificial-intelligence-is-inevitable-but-should-not-be-feared-father-of-ai-says"
+ampWebUrl: "https://www.theguardian.com/technology/2023/may/07/rise-of-artificial-intelligence-is-inevitable-but-should-not-be-feared-father-of-ai-says"
+cdnAmpWebUrl: "https://www-theguardian-com.cdn.ampproject.org/c/s/www.theguardian.com/technology/2023/may/07/rise-of-artificial-intelligence-is-inevitable-but-should-not-be-feared-father-of-ai-says"
 type: article
-quality: 62
-heat: -1
-published: false
 
 provider:
   name: The Guardian
@@ -21,57 +18,15 @@ provider:
       height: 50
 
 topics:
+  - Machine Learning
   - AI
 
 images:
-  - url: "https://i.guim.co.uk/img/media/f2a30653e070396966e3a4e43f03d1a7986757d2/1341_236_5335_3201/master/5335.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=1170583493e429e9fd50edf6fe85387e"
-    width: 600
-    height: 360
+  - url: "https://i.guim.co.uk/img/media/213110e9510e4e2a0c357fc5094fa61865dbe98c/0_1661_3264_1958/master/3264.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7d3544cedad1dfae3b122d6abbc3dc6e"
+    width: 1200
+    height: 630
     isCached: true
 
-related:
-  - title: "Should We Be Worried About AI? I Thought Not, Until I Asked An AI"
-    excerpt: "With the introduction of ChatGPT last November, millions of people suddenly discovered that AI was far, far more than just a research activity. The range and sophistication of ChatGPT’s answers to questions across a wide range of disciplines is,"
-    publishedDateTime: 2023-05-08T11:30:00Z
-    webUrl: "https://www.forbes.com/sites/stevensalzberg/2023/05/08/should-we-be-worried-about-ai-i-thought-not-until-i-asked-an-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/stevensalzberg/2023/05/08/should-we-be-worried-about-ai-i-thought-not-until-i-asked-an-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevensalzberg/2023/05/08/should-we-be-worried-about-ai-i-thought-not-until-i-asked-an-ai/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6457a40845ad46981d9c02fc/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "‘A race it might be impossible to stop’: how worried should we be about AI?"
-    excerpt: "Scientists are warning machine learning will soon outsmart humans – maybe it’s time for us to take note"
-    publishedDateTime: 2023-05-07T04:00:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/may/07/a-race-it-might-be-impossible-to-stop-how-worried-should-we-be-about-ai"
-    ampWebUrl: "https://amp.theguardian.com/technology/2023/may/07/a-race-it-might-be-impossible-to-stop-how-worried-should-we-be-about-ai"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/may/07/a-race-it-might-be-impossible-to-stop-how-worried-should-we-be-about-ai"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 55
-    images:
-      - url: "https://i.guim.co.uk/img/media/d5a58004d2e175efe10d9d9423f8701fe876fa02/278_0_7279_4370/master/7279.jpg?width=620&quality=85&auto=format&fit=max&s=acba5c66020ee46b97d0bdb6cfa9663f"
-        width: 620
-        height: 372
-        isCached: true
-  - title: "I asked ChatGPT, Bing, and Bard what worries them. Google's AI went Terminator on me"
-    excerpt: "Just to be clear: this is not science fiction. Chatbots might have some worries that might, in turn, worry us just a bit."
-    publishedDateTime: 2023-05-08T17:14:00Z
-    webUrl: "https://www.zdnet.com/article/i-asked-chatgpt-bing-and-bard-what-worries-them-googles-ai-went-terminator-on-me/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 40
-
-secured: "TLgS7YIw4n+MVGXIEJtpaMV7gI4oyQ3epFoREJeiwoHcn99bCdzzC7jD+S521tJ0xmHAHoRrekPIa4jRsqVYEUpWV+G3g6/X4HyJwli+pbFWgS1YQWdrKRJM92f0yONp6lIhIlt7f9tN50nNFjmv2gtk1b3Ll5+YOemDEBhsctlQo3Q1OeSYoNo8EDv/x0rliCPynr8guxx18GX6WwLR87xG17LyoV/+VmBgvzu0cFBLixRj2H/MGl6tmFAJGWeUY6WpxfTN6O31TskkvpFFUthaTtqrrdUzkLKThkhlUxZqIkG7KZGYWdXnm80/WVZaHAbQBe4LJ9xjKaN66sDipXHwhBVYJGNhsMAr5xMCwukzNoKCJn8DMhrM4AJQaJSXW/06OJgQrkfw8M5U8GayDrflPdtZfKJVviGGSnq1h9odJOddCpoPy7rMi0QIlz/tNI6Ky/Fieq842u4YvOucJTZVFvT+hLV9ozlJJH1I15BSl/dSPtTY9SzZAy2aQd6k4NG0UDnBjPk21QW4+pg9fw==;+uJCTxXhf+fslyRteUDQ+A=="
+secured: "akSaI997L9wXiihbncSq/Eex+uea5SC7eIcejH5F3qVk/zWKBKn20aOt4HHBDWJ/b+mv4/qrfmbzbpxA1WheuncpVolRH8vum9fjILmZIJf4+pTfHcFxE6uSp89A2Uk3A/xdmcmVzL6fatxBF7OA0PKP6L54Q5jvqwUarNTP1QmV88BowD1eIf/LjHsDRaBP9aV95pg+G06AQful6dK+Apk/ySnEJ326eZrqKKNdfrIkPzmqPFlIL+bGcZIVB2K6qA3Fq88+zHEsy75Tb3D7tH2gphhG2LVXs0XHC79Ml5rRcoOTcLLOIO6WLIHeDRj+r07qxDPL9oSnDh1dlEq6B1PDOXt2b66g+hqCwKQlPeI=;waoBshJ6q/QizpW4rGHKAw=="
 ---
 

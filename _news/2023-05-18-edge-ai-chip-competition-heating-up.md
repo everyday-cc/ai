@@ -7,7 +7,7 @@ originalUrl: "https://www.digitimes.com/news/a20230517PD212/ai-edge-ai.html"
 webUrl: "https://www.digitimes.com/news/a20230517PD212/ai-edge-ai.html"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -23,19 +23,6 @@ images:
     width: 640
     height: 427
     isCached: true
-
-related:
-  - title: "The Artificial Intelligence Driving Travel Innovations"
-    excerpt: "AI news drove headlines this week, from Expedia, to Google, and even to Skift. Click through for a summary of the top stories."
-    publishedDateTime: 2023-05-13T16:00:00Z
-    webUrl: "https://skift.com/2023/05/13/the-artificial-intelligence-driving-travel-innovations/"
-    ampWebUrl: "https://skift.com/2023/05/13/the-artificial-intelligence-driving-travel-innovations/amp/"
-    cdnAmpWebUrl: "https://skift-com.cdn.ampproject.org/c/s/skift.com/2023/05/13/the-artificial-intelligence-driving-travel-innovations/amp/"
-    type: article
-    provider:
-      name: Skift
-      domain: skift.com
-    quality: 39
 
 secured: "WjjG+1gBrcYZ0Xs7TdXAzrxJTrRmQ3S8qe9jO1jvmBmgl+YLGtLofBbmcxnecKFvSisdqPXfFV+7Jr7aqnbcKOCgBC6/ZSUMw/EqWkfUOpLnih1ocOgbEmZYLUTLcNzEPTffU9HN5bDEI9xEJzjPDLMif+fGH+GFXPnZ3dTS4fLYmrpdACAOw/m5IS1wuZqGFALk36+Hs36vQ5qORUFOT8oWCUYFYnZpRjLdI0audZ3ZvSyoz3Qi1tC2Qy71RCPymg9KMNWTO0pVcsyeSXshh+qTF2n5mTau4Tom3aIChc4dK83Jd3dglZfcy7+TWzoPJme7GT/ZK/5lcb/LqSOnEydnrtuTUJks0xv77zrsL/ukPf6ON+ptlTMmpHOeaLuaewj8Ad2GBA5XomX4Mp/oBXFPI3OuUUbiOVdwSsMuObAJx12/dIHsFRuTFBxF4qPGflU5PQeRsIOoP2X/o15ZqfWBd3KA0cxwPsJl0oTDPauoGZIt9GIKoMPnDfXGyFAPwixUXm5jtbL9ooS2BuZeTw==;xiAnHw5BQbfS+TiFm04Shw=="
 ---

@@ -57,7 +57,21 @@ related:
         width: 3994
         height: 2663
         isCached: true
+  - title: "Robotics innovation: Leading companies in obstacle detectors for the automotive industry"
+    excerpt: "According to GlobalData’s Technology Foresights, which uses over 619,000 patents to analyse innovation intensity for the automotive industry, there are 290+ innovation areas that will shape the future of the industry."
+    publishedDateTime: 2023-05-18T08:50:00Z
+    webUrl: "https://www.just-auto.com/data-insights/innovators-robotics-obstacle-detectors-automotive/"
+    type: article
+    provider:
+      name: Just Auto
+      domain: just-auto.com
+    quality: 45
+    images:
+      - url: "https://www.just-auto.com/wp-content/uploads/sites/30/2023/05/Robotics_Obstacle-detectors.jpg"
+        width: 1440
+        height: 810
+        isCached: true
 
-secured: "Ta98mabMbnSUowiGqIt98bR4B1JtVEfSasCroOH+whtSl8M5ZUnxmP15QKQIybp8+LWjLirrFaS9wXl6VAcKosptc2c9VyVGv0HcMPjqkUnQiiTiGTVYG3Hx4cRRzPZ+apBICHfyUeA3U3ledELfb87oJvrlLiryLkOH/RV7GE/099Q7W0Lcz9oj1iuF+FuJ7uP7CjbRCB9vf3NCmySw5juQyrQXEQUVnGTsA8dM7ObbVVgTPL63B8Kca8EfK136a2eVBIOdwZsoWXHfXLQna2fnDiEx6bSezqSsptWqI3yZaj9VV/vZ0EHl0rJ4PJbj8ArlsFpiwslKaOdGeIJOzHea2IXbp8zvvIPK2AUmTeE=;u0hmV4H0xlOIC95n4u6Y+A=="
+secured: "ydto7AlWqTdx9RGnoldkKhOGFbl0UTbIuifF+Rf+X+Dln1jSuMNVqKuY2koIkn380QU06+Slm/0NfNNsg4Fl1rEBHh7X91x/0kPJ9j6jgnbWQLHOX30hK5z/tpcHFn6GCIWWQo+XuXJhmB6EID53i0J7fV2YnXrmJv/ynM5+wnsSfubjv0TdZyacLnHiCWc1IsDykcfAvCC2xY+rPNYhY9dzAyg/2RJ4kAj7DRiK4ybKsHtid4MhPNMu4WJ0mR4nkfRUOSzGgaTGSJpqN66HorQW1/aknQo78egC4HvDwdOZT4F+a0F+jtNzt9iCFQmTlUvzVnS2ThHBnqNA0Y8z6bFVA5w2Rm1YosrU+KlupDASFvUiGMYuZi6YRXyGAgTkndbL2TfLQJ3HCqWrc4r9ZpR+mVVK4sWBxSQYdDm3Xc2bVSoaJDa8g0GHbKXOA+tkFfIaM7W29GG/l5bz8xMKu1HS+G5yZKfaxADewBoD8f77AO+WF0X8Octgpbwlji/S+JbZvR2p3N5i1Y5k+Tb4sw==;NJI0v3tbnKermxVLGXMPJw=="
 ---
 

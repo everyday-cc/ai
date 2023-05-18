@@ -7,7 +7,7 @@ originalUrl: "https://www.outlookindia.com/business/aws-announces-plans-to-inves
 webUrl: "https://www.outlookindia.com/business/aws-announces-plans-to-invest-rs-1-05-lakh-crore-into-cloud-infrastructure-in-india-by-2030-news-287216"
 type: article
 quality: 29
-heat: 29
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Amazon's cloud unit to invest $13 bln in India by 2030"
+    excerpt: "3D printed clouds and figurines are seen in front of the AWS (Amazon Web Service ... including storage, networking and artificial intelligence. Amazon's move comes as India steps up efforts to attract more big-ticket investments in the digital space ..."
+    publishedDateTime: 2023-05-18T08:52:00Z
+    webUrl: "https://www.reuters.com/technology/amazons-cloud-unit-invest-127-billion-india-by-2030-2023-05-18/?taid=6465dd645dda1f000194ea34"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 54
+    images:
+      - url: "https://www.reuters.com/resizer/nWZSe2P3Om0Un7Bi8E5JHgWUfC8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/TWXHX3IURVLRHNQZCCZEUATM4I.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Amazon's cloud unit to invest $13 billion in India by 2030"
     excerpt: "Amazon Web Services (AWS), the cloud computing division of Amazon.com Inc, said on Thursday it plans to invest 1.06 trillion rupees ($13 billion) in India by 2030, doubling down on its past investments to cater to an ever-growing demand."
     publishedDateTime: 2023-05-18T03:49:00Z

@@ -41,6 +41,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Bahrain set to host top fintech summit"
+    excerpt: "Under the patronage of the Central Bank of Bahrain (CBB), the three-day event will be held in a strategic partnership with the Bahrain Economic Development Board (EDB), and powered by Bahrain FinTech"
+    publishedDateTime: 2023-05-18T08:53:00Z
+    webUrl: "https://www.zawya.com/en/world/middle-east/bahrain-set-to-host-top-fintech-summit-hoiy388r"
+    ampWebUrl: "https://www.zawya.com/en/world/middle-east/bahrain-set-to-host-top-fintech-summit-hoiy388r?amp=1"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/world/middle-east/bahrain-set-to-host-top-fintech-summit-hoiy388r?amp=1"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 59
+    images:
+      - url: "https://static.zawya.com/view/acePublic/alias/contentid/MTljZGQxZGYtZTZjNC00/2/180308083038dsae-jpg.jpeg?f=3%3A2"
+        width: 723
+        height: 482
+        isCached: true
   - title: "Top trends in the fintech space"
     excerpt: "May 17, marks the annually observed World Telecommunications and Information Society Day (WTISD). Now in its 17th year, WTISD has helped to raise awareness of the possibilities that"
     publishedDateTime: 2023-05-17T05:43:00Z
