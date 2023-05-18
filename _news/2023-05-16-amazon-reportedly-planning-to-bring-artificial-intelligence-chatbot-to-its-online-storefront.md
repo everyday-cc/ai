@@ -42,6 +42,20 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Meet the AI humanoid robot that is already stacking shelves"
+    excerpt: "Depending on your perspective you will either be delighted or terrified to meet Phoenix, the humanoid robot, who his creators say, is here to help."
+    publishedDateTime: 2023-05-18T21:31:00Z
+    webUrl: "https://www.afr.com/technology/meet-the-ai-humanoid-robot-that-is-already-stacking-shelves-20230518-p5d9du"
+    type: article
+    provider:
+      name: The Australian Financial Review
+      domain: afr.com
+    quality: 54
+    images:
+      - url: "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_auto%2Cq_88%2Cf_jpg/t_afr_analysis_no_age_social_wm/d36a0574b47a18c9f37f6a40beac1153200e77d2"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "This AI Chatbot Has Learned the Difference Between Good and Evil"
     excerpt: "Anthropic’s Claude AI has developed a set of ethical principles through a “constitution”—and can handle prompts the size of a book."
     publishedDateTime: 2023-05-15T21:22:00Z

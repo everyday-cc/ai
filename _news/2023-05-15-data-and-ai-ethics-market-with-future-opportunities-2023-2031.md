@@ -29,145 +29,184 @@ images:
     isCached: true
 
 related:
-  - title: "Healthcare Artificial Intelligence Market [2023-2030] Business Report"
-    excerpt: "What is the Healthcare Artificial Intelligence market growth in 2023-2029 with TOPMajor Players? Major Players Covered in this Report: APIXIO, Inc. Cyrcadia Health Inc. Sense.ly Atomwise, Inc. Zebra Medical Vision Ltd."
-    publishedDateTime: 2023-05-14T14:15:00Z
-    webUrl: "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-2023-2030-business-report-2023-05-14"
+  - title: "Meta unveils new AI data centers and supercomputer to power AI-first future"
+    excerpt: "Meta announced today a series of new hardware and software projects that aim to support the next generation of AI applications."
+    publishedDateTime: 2023-05-18T21:04:00Z
+    webUrl: "https://venturebeat.com/ai/meta-unveils-new-ai-data-centers-and-supercomputer-to-power-ai-first-future/"
+    ampWebUrl: "https://venturebeat.com/ai/meta-unveils-new-ai-data-centers-and-supercomputer-to-power-ai-first-future/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/meta-unveils-new-ai-data-centers-and-supercomputer-to-power-ai-first-future/amp/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 84
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://venturebeat.com/wp-content/uploads/2023/05/META.jpg?w=1200&strip=all"
         width: 1200
-        height: 630
+        height: 674
         isCached: true
-  - title: "Healthcare BI Market Size, Share & Trends Analysis Report 2029| AIMR"
-    excerpt: "Moreover, the emergence of big data analytics, artificial intelligence, and machine learning technologies in healthcare is expected to drive the growth of this market in the future. Opportunities and Threats in Healthcare BI Market The Healthcare BI Market ..."
-    publishedDateTime: 2023-05-17T15:52:00Z
-    webUrl: "https://www.marketwatch.com/press-release/healthcare-bi-market-size-share-trends-analysis-report-2029-aimr-2023-05-17"
+  - title: "Meta and Google news adds fuel to the open-source AI fire"
+    excerpt: "The open-source AI debate is getting even hotter in Big Tech, thanks to recent headlines from Google and Meta's Yann LeCun."
+    publishedDateTime: 2023-05-18T16:54:00Z
+    webUrl: "https://venturebeat.com/ai/meta-and-google-news-adds-fuel-to-the-open-source-ai-fire/"
+    ampWebUrl: "https://venturebeat.com/ai/meta-and-google-news-adds-fuel-to-the-open-source-ai-fire/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/meta-and-google-news-adds-fuel-to-the-open-source-ai-fire/amp/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 84
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://venturebeat.com/wp-content/uploads/2023/05/Untitled-design-70.png?w=1200&strip=all"
         width: 1200
-        height: 630
+        height: 750
         isCached: true
-  - title: "Artificial Intelligence in Healthcare Market [2023-2030] Business Report"
-    excerpt: "A Artificial Intelligence in Healthcare market new report, spanning multiple 126 pages, offers an extensive and"
-    publishedDateTime: 2023-05-14T14:37:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-2023-2030-business-report-2023-05-14"
+  - title: "Future of AI in e-commerce: Transforming data with ML and computer vision"
+    excerpt: "While a lot has been discussedin areas of face recognition, graphical capabilities, some of the following use cases in e-Commerce can greatly benefit from computer vision, image processing. As a customer you want to know the best offers on your favourite ..."
+    publishedDateTime: 2023-05-17T06:54:00Z
+    webUrl: "https://www.dqindia.com/future-of-ai-in-e-commerce-transforming-data-with-ml-and-computer-vision/"
+    ampWebUrl: "https://www.dqindia.com/future-of-ai-in-e-commerce-transforming-data-with-ml-and-computer-vision/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/future-of-ai-in-e-commerce-transforming-data-with-ml-and-computer-vision/amp/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 83
+      name: Dataquest
+      domain: dqindia.com
+    quality: 70
+  - title: "What 20 Agency Leaders Are Doing To Better Understand And Embrace AI"
+    excerpt: "The pervasive influence of AI continues to reshape industries across the globe, compelling professionals to deepen their understanding of its impact."
+    publishedDateTime: 2023-05-16T17:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/05/16/what-20-agency-leaders-are-doing-to-better-understand-and-embrace-ai/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 69
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/645a69b21317ce4dc82796dd/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 630
+        height: 800
         isCached: true
-  - title: "Artificial Intelligence and Machine Learning Market [2023-2030] Business Report"
-    excerpt: "A Artificial Intelligence and Machine Learning market new report, spanning multiple 119 pages, offers an extensive"
-    publishedDateTime: 2023-05-14T13:51:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-and-machine-learning-market-2023-2030-business-report-2023-05-14"
+  - title: "Meta’s pricey bet on AI comes with new custom chips, coder tools"
+    excerpt: "There's one area at Meta that's seeing record spending: an update of the social media giant's infrastructure to keep pace in the artificial intelligence arms race."
+    publishedDateTime: 2023-05-18T18:10:00Z
+    webUrl: "https://www.seattletimes.com/business/metas-pricey-bet-on-ai-comes-with-new-custom-chips-coder-tools/?n=%5CL"
+    ampWebUrl: "https://www.seattletimes.com/business/metas-pricey-bet-on-ai-comes-with-new-custom-chips-coder-tools/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/metas-pricey-bet-on-ai-comes-with-new-custom-chips-coder-tools/?amp=1"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 80
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 56
+  - title: "Meta’s pricey AI bet comes new technology, data centers revamp"
+    excerpt: "In Meta Platforms Inc. s year of cost cutting and layoffs, there s one area that s seeing record spending: an update of the social media giant s"
+    publishedDateTime: 2023-05-18T16:47:00Z
+    webUrl: "https://thepeninsulaqatar.com/article/18/05/2023/metas-pricey-ai-bet-comes-new-technology-data-centers-revamp"
+    type: article
+    provider:
+      name: The Peninsula
+      domain: thepeninsulaqatar.com
+    quality: 39
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://thepeninsulaqatar.com/get/maximage/20230101_1672556854-332.jpg?1672556854"
+        width: 960
+        height: 609
         isCached: true
-  - title: "Artificial Intelligence for Healthcare Applications Market [2023-2030] Business Report"
-    excerpt: "A Artificial Intelligence for Healthcare Applications market new report, spanning multiple 102 pages, offers an"
-    publishedDateTime: 2023-05-14T14:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-for-healthcare-applications-market-2023-2030-business-report-2023-05-14"
+  - title: "Meta Platforms unveils next-generation AI infrastructure and data center designs"
+    excerpt: "Facebook parent company Meta Platforms Inc. has lifted the lid on what its next-generation artificial intelligence infrastructure will look like, showcasing its newest training and inference accelerator and various other bits of futuristic hardware at its AI Infra @Scale event today."
+    publishedDateTime: 2023-05-18T16:06:00Z
+    webUrl: "https://siliconangle.com/2023/05/18/meta-platforms-unveils-next-gen-ai-infrastructure-data-center-designs/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 76
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 38
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/05/Screenshot-from-2023-05-17-08-26-19.png"
+        width: 884
+        height: 442
         isCached: true
-  - title: "Global Healthcare Natural Language Processing Market by [2023-2029] with Revenue Outsourcing"
-    excerpt: "A Promising Outlook for the Global Healthcare Natural Language Processing Market from 2023 to 2030 Why is Healthcare Natural Language Processing market 2023 Important? - Overall, the Healthcare Natural Language Processing market in 2023 is essential for businesses to understand the market landscape,"
-    publishedDateTime: 2023-05-14T13:58:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-healthcare-natural-language-processing-market-by-2023-2029-with-revenue-outsourcing-2023-05-14"
+  - title: "Upstage unveils new AI services"
+    excerpt: "Upstage, a local artificial intelligence (AI) technology startup, has unveiled two AI services according to the company, Tuesday. The services are Document AI Pack, an optical character recognition (OCR) technology-based document processor; and AskUp ..."
+    publishedDateTime: 2023-05-16T07:57:00Z
+    webUrl: "https://koreatimes.co.kr/www/tech/2023/05/133_351073.html"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 75
+      name: The Korea Times
+      domain: koreatimes.co.kr
+    quality: 37
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://koreatimes-bucket.s3.ap-northeast-2.amazonaws.com/IMAGE/upload/newsV2/images/202305/8851d866df8148e0a793b0c9fe05f8fa.jpg"
+        width: 980
+        height: 653
         isCached: true
-  - title: "Artificial Intelligence in Healthcare Market Size Report 2023 | USD 164.10 billion Industry"
-    excerpt: "The GlobalArtificial Intelligence in Healthcare Market2023-2030, published recently by Fortune Business Insights,"
-    publishedDateTime: 2023-05-15T05:53:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-size-report-2023-usd-16410-billion-industry-2023-05-15"
+  - title: "Watch 44 million atoms simulated using AI and a supercomputer"
+    excerpt: "The most accurate simulation of objects made from tens of millions of atoms has been run on one the world’s top supercomputers with the help of artificial intelligence. Existing simulations that describe in detail how atoms behave,"
+    publishedDateTime: 2023-05-18T09:20:00Z
+    webUrl: "https://www.newscientist.com/article/2373022-watch-44-million-atoms-simulated-using-ai-and-a-supercomputer/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 74
+      name: New Scientist
+      domain: newscientist.com
+    quality: 37
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://images.newscientist.com/wp-content/uploads/2023/05/10134949/SEI_154564255.jpg"
+        width: 1350
+        height: 899
         isCached: true
-  - title: "Global Artificial Intelligence In Healthcare Service Market 2023-2030 by Size|Precisionreports.co"
-    excerpt: "May 16, 2023 (The Expresswire) -- \"Artificial Intelligence In Healthcare Service Market\" Reports recently released an executive data report that focuses"
-    publishedDateTime: 2023-05-16T18:49:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-healthcare-service-market-2023-2030-by-sizeprecisionreportsco-2023-05-16"
+  - title: "AI startup occupies former Air Force data center in Maine to host quantum computers"
+    excerpt: "An AI & quantum computing startup has launched a data center to host quantum computers in Maine. Eternal Mind, Inc this week held an opening ceremony for the facility at the former Loring Air Force Base in Limestone."
+    publishedDateTime: 2023-05-17T15:32:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/ai-startup-occupies-former-air-force-data-center-in-maine-to-host-quantum-computers/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 71
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 31
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://media.datacenterdynamics.com/media/images/loring_airbase_main_DC.2e16d0ba.fill-1200x630.png"
+        width: 624
+        height: 327
         isCached: true
-  - title: "2023-2029 \"Artificial Intelligence in Agriculture Market\" New Research Report by Industryreport.co"
-    excerpt: "May 15, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" A market research report has"
-    publishedDateTime: 2023-05-15T07:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/2023-2029-artificial-intelligence-in-agriculture-market-new-research-report-by-industryreportco-2023-05-15"
+  - title: "The Future Of AI Training Demands Optical Interconnects"
+    excerpt: "Artificial intelligence has taken the datacenter by storm, and it is forcing companies to rethink the balance between compute, storage, and networking. Or"
+    publishedDateTime: 2023-05-15T17:21:00Z
+    webUrl: "https://www.nextplatform.com/2023/05/15/the-future-of-ai-training-demands-optical-interconnects/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 53
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Latest Report: Global “Natural Language Processing (NLP) Market” Trends [2023-2030]| Examining Future Advancements and Regional Insights"
-    excerpt: "[91 Pages Updated Report] The most recent \"Natural Language Processing (NLP) Market\" research report provides a comprehensive analysis of the main growth drivers, market size estimations, and forecasts. The report examines the current market scenarios ..."
-    publishedDateTime: 2023-05-16T10:31:00Z
-    webUrl: "https://www.marketwatch.com/press-release/latest-report-global-natural-language-processing-nlp-market-trends-2023-2030-examining-future-advancements-and-regional-insights-2023-05-15"
+      name: The Next Platform
+      domain: nextplatform.com
+    quality: 19
+  - title: "Regulation of Artificial Intelligence"
+    excerpt: "The introduction to the House of Commons of a Bill under the ten minute rule, by Labour MP Mick Whitley, on the regulation of artificial intelligence and workers' rights, from Wednesday 17 May."
+    publishedDateTime: 2023-05-17T18:08:00Z
+    webUrl: "https://www.bbc.co.uk/programmes/m001mh3k"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 51
+      name: BBC
+      domain: bbc.co.uk
+    quality: 17
+  - title: "Artificial Intelligence: Boost.ai Unveils Large Language Model Enhancements to Conversational AI Platform"
+    excerpt: "Boost.ai, a conversational AI solution provider, today announced Version 12 of its platform, the first of a series of planned updates by the company."
+    publishedDateTime: 2023-05-14T17:28:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/05/207054-artificial-intelligence-boost-ai-unveils-large-language-model-enhancements-to-conversational-ai-platform/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 15
+  - title: "GIGABYTE To Introduce Leading-Edge AI Solutions And Computers At COMPUTEX 2023, Unveiling“Future Of COMPUTING” - AETOSW..."
+    excerpt: "GIGABYTE, a leading innovator of computer hardware and server solutions, announces its unprecedented exhibits at COMPUTEX 2023. R"
+    publishedDateTime: 2023-05-17T08:49:00Z
+    webUrl: "https://menafn.com/1106260387/GIGABYTE-To-Introduce-Leading-Edge-AI-Solutions-And-Computers-At-COMPUTEX-2023-UnveilingFuture-Of-COMPUTING-AETOSW"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 13
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://menafn.com/updates/pr/2023-05/17/A_03834image_story.jpg"
+        width: 480
+        height: 270
         isCached: true
 
 secured: "FmVaWY2Ep2YHifiwFkF1aV8xdmTqDEfMEfgJe7VoeZyM1+NRUSXCXcvyomzKTfjgvB9dNOB7d/pmegm0U+C7cSBHh0KjlkZ013GxcgbdcCo5KGZySapMKCJ5ZQBRmbFPcnfwnOm7c3H078bb4aORWPn4RsEiPx/x6FOcsqsVUKZASbHPmxKf/mX1ud21G8D9UP3jQr/xGT0CX7uc9/zn2btaETU+hjD4yeoox0uBIzmusD9+Tir9dtcJWNMcZFWjzDEjzsfNPHlySI3n1KJSMEuorxVtSxsYTBEX8zR+fCzmVnS8/YW4zdnUUno3R9q818V3JfS4umpKmx1gtfgErWFy5gHJBCrxZCTFYuxZVLo=;Bfms+qm74iiR7fd2MvIp0g=="

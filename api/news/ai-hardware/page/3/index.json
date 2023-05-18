@@ -2,6 +2,135 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-04-29-3-stocks-to-buy-for-exposure-to-the-growing-ai-chip-market.md",
+      "title": "3 Stocks to Buy for Exposure to the Growing AI Chip Market",
+      "excerpt": "Illustrating the extent to which chip makers’ financial results can be lifted by the tremendous growth of AI, Nvidia’s (NASDAQ: NVDA) top AI chips are selling for a huge $40,000 apiece on eBay, CNBC recently reported.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/3-stocks-to-buy-for-exposure-to-the-growing-ai-chip-market",
+      "originalUrl": "https://www.nasdaq.com/articles/3-stocks-to-buy-for-exposure-to-the-growing-ai-chip-market",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-29T05:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-28-making-the-most-out-of-generative-ai-in-your-enterprise.md",
+      "title": "Making The Most Out Of Generative AI In Your Enterprise",
+      "excerpt": "Generative artificial intelligence (AI) has come to the forefront of business leaders' minds with the ongoing stories and innovative capabilities of ChatGPT and the waitlist for its rival, Google Bard.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/28/making-the-most-out-of-generative-ai-in-your-enterprise/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/28/making-the-most-out-of-generative-ai-in-your-enterprise/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 239,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/644a7a52c586aa5faa0d1575/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 781,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/28/making-the-most-out-of-generative-ai-in-your-enterprise/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/04/28/making-the-most-out-of-generative-ai-in-your-enterprise/amp/",
+      "publishedDateTime": "2023-04-28T04:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-04-28-top-taiwan-chip-designer-mediatek-rapidly-shifts-focus-to-autos-ai.md",
+      "title": "Top Taiwan Chip Designer MediaTek 'Rapidly' Shifts Focus to Autos, AI",
+      "excerpt": "Top Taiwan Chip Designer MediaTek 'Rapidly' Shifts Focus to Autos, AI By Sarah Wu TAIPEI (Reuters) - Taiwan's top chip design company MediaTek is focusing more resources on chips for cars and AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.usnews.com/news/technology/articles/2023-04-28/top-taiwan-chip-designer-mediatek-rapidly-shifts-focus-to-autos-ai",
+      "originalUrl": "https://www.usnews.com/news/technology/articles/2023-04-28/top-taiwan-chip-designer-mediatek-rapidly-shifts-focus-to-autos-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-28T03:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-28-navy-dod-supercomputing-resource-center-adds-nautilus-penguin-hpc-system.md",
       "title": "Navy DoD Supercomputing Resource Center Adds ‘Nautilus’ Penguin HPC System",
       "excerpt": "The Nautilus HPC system configuration includes 1,352 compute nodes with up to 128 AMD EPYC Milan compute cores per node, 256 GB of memory per node, 16 NVIDIA A40 visualization nodes, 32 NVIDIA A100 Quad GPU AI/ML nodes, 26 petabytes of DDN storage ...",
@@ -1315,119 +1444,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-19-microsoft-reportedly-developing-its-own-ai-chip-named-athena.md",
-      "title": "Microsoft reportedly developing its own AI chip named ‘Athena’",
-      "excerpt": "Microsoft Corp. is reportedly forging ahead with efforts to develop its own chips optimized for artificial intelligence in a bid to reduce costs for training generative AI models such as those powering OpenAI LP’s ChatGPT chatbot.",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2023/04/18/microsoft-reportedly-developing-ai-chip-named-athena/",
-      "originalUrl": "https://siliconangle.com/2023/04/18/microsoft-reportedly-developing-ai-chip-named-athena/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/10/microsoft.png",
-          "width": 1152,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-19T06:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-19-salience-labs-appoints-former-imagination-technologies-cpo-to-lead-productization-of-multi-chip-photonics-processor-for-ai.md",
-      "title": "Salience Labs appoints former Imagination Technologies CPO to lead productization of multi-chip photonics processor for AI",
-      "excerpt": "At Imagination Technologies, Chris delivered the annual 5-year strategy and business plan and the roadmap of GPU, AI and CPU products licensed to mobile, consumer, data centre and automotive ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/business-wire/20230419005519/salience-labs-appoints-former-imagination-technologies-cpo-to-lead-productization-of-multi-chip-photonics-processor-for-ai",
-      "originalUrl": "https://www.morningstar.com/news/business-wire/20230419005519/salience-labs-appoints-former-imagination-technologies-cpo-to-lead-productization-of-multi-chip-photonics-processor-for-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-19T05:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar",
-        "domain": "morningstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-19-microsoft-could-be-secretly-working-on-own-ai-chip-heres-everything-you-need-to-know.md",
-      "title": "Microsoft could be secretly working on own AI chip, here's everything you need to know",
-      "excerpt": "Microsoft is reportedly working on its in-house custom AI processors to minimise its dependency on other chip makers. To those unaware, Microsoft invested $1 billion in OpenAI, the company behind ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.co.uk/microsoft-could-secretly-working-its-own-ai-chip-heres-everything-you-need-know-1715235",
-      "originalUrl": "https://www.ibtimes.co.uk/microsoft-could-secretly-working-its-own-ai-chip-heres-everything-you-need-know-1715235",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-18T23:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBTimes UK",
-        "domain": "ibtimes.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

@@ -234,6 +234,22 @@ related:
         width: 4338
         height: 2892
         isCached: true
+  - title: "Are you using AI tools like ChatGPT in your day-to-day life? We want to hear from you"
+    excerpt: "Artificial intelligence-powered tools such as ChatGPT have exploded online over the last several months. If you're using AI in your day-to-day life, CTVNews.ca wants to hear from you."
+    publishedDateTime: 2023-05-18T21:07:00Z
+    webUrl: "https://www.ctvnews.ca/sci-tech/are-you-using-ai-tools-like-chatgpt-in-your-day-to-day-life-we-want-to-hear-from-you-1.6404909"
+    ampWebUrl: "https://beta.ctvnews.ca/national/sci-tech/2023/5/18/1_6404909.amp.html"
+    cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/national/sci-tech/2023/5/18/1_6404909.amp.html"
+    type: article
+    provider:
+      name: CTV News
+      domain: ctvnews.ca
+    quality: 52
+    images:
+      - url: "https://beta.ctvnews.ca/content/dam/ctvnews/images/2023/4/25/1_6370398.jpg"
+        width: 1020
+        height: 572
+        isCached: true
   - title: "ChatGPT chief says artificial intelligence should be regulated by a US or global agency"
     excerpt: "The head of the artificial intelligence company that makes ChatGPT told Congress on Tuesday that government intervention “will be critical to mitigate the risks of increasingly powerful” AI systems."
     publishedDateTime: 2023-05-16T15:12:00Z
@@ -282,6 +298,24 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "AI in your pocket: ChatGPT officially comes to iPhone with new app"
+    excerpt: "OpenAI released a free ChatGPT app for iPhone that includes voice input support through its Whisper AI speech recognition model and can synchronize chat history with the web version of the AI assistant."
+    publishedDateTime: 2023-05-18T17:48:00Z
+    webUrl: "https://arstechnica.com/information-technology/2023/05/ai-in-your-pocket-chatgpt-officially-comes-to-iphone-with-new-app/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 47
+  - title: "ChatGPT and Generative AI: Our Guide to 2023's Most Talked-About Technology"
+    excerpt: "ChatGPT brought generative AI into the limelight when it hit 1 million users in five days. But how valid is the buzz around ChatGPT?"
+    publishedDateTime: 2023-05-18T18:30:00Z
+    webUrl: "https://www.businessinsider.com/chatgpt-ai-guide-to-2023-most-talked-about-technology-2023-may"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
   - title: "ChatGPT’s Sam Altman Faces Senate Panel Examining Artificial Intelligence"
     excerpt: "Photo illustration: Elena Scotti WASHINGTON—The chief executive of ChatGPT creator OpenAI is set to testify before a Senate panel Tuesday as lawmakers begin a bipartisan push toward regulating the powerful new artificial-intelligence tools available to ..."
     publishedDateTime: 2023-05-16T09:30:00Z
@@ -488,6 +522,15 @@ related:
         width: 1401
         height: 931
         isCached: true
+  - title: "ChatGPT and Generative AI in Financial Services: Reality, Hype, What's Next, and How to Prepare"
+    excerpt: "Payments, banking, and insurance players are eager to understand generative AI's potential and put it to work."
+    publishedDateTime: 2023-05-18T17:30:00Z
+    webUrl: "https://www.businessinsider.com/chaptgt-financial-services-reality-hype-whats-next-prepare-2023-may"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 35
   - title: "Japanese digital minister pushes for AI use, but ChatGPT does not know who he is"
     excerpt: "I asked ChatGPT who Kono Taro is and he came back with the wrong answer,” Mr Kono said in an interview with Bloomberg Television broadcast on Monday. “So you need to be careful,” he added. Mr Kono asks that his name be written in Japanese style,"
     publishedDateTime: 2023-05-15T00:53:00Z
@@ -672,6 +715,15 @@ related:
       name: Daily Press
       domain: dailypress.com
     quality: 16
+  - title: "NYC public schools opening the door to greater use of AI, loosening reins on ChatGPT"
+    excerpt: "Schools Chancellor David Banks unveiled plans Thursday to offer a toolkit for teachers about artificial intelligence in their classrooms, as well as create a repository for schools to share their findings across the city."
+    publishedDateTime: 2023-05-18T19:50:00Z
+    webUrl: "https://www.nydailynews.com/new-york/education/ny-new-york-city-public-schools-ease-chatgpt-ai-20230518-5qinogsuwzekzh7aai73aevr2m-story.html"
+    type: article
+    provider:
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 12
   - title: "ChatGPT’s chief to testify before Congress as concerns grow about artificial intelligence’s risks"
     excerpt: "The head of the artificial intelligence company that makes ChatGPT is set to testify before Congress as lawmakers call for new rules to guide the rapid development of AI technology. OpenAI CEO Sam"
     publishedDateTime: 2023-05-16T11:00:00Z
@@ -691,6 +743,6 @@ related:
       domain: yourstory.com
     quality: 1
 
-secured: "XnXHmFldFEk5rGZovPNRvkZXX69qYmHCDknX5TXE4f0BfQ09C6wSp2uEq9LTzAVQnoDS6cA7H52+jpLNUOW0amz0sG9sxssPI/cP67uAQhqRO3iAPLWw0TrUiUBpvj1ydCtSNu9J7og1Yl3LjszIyoEnPP0759uuovyQcGl7HW9s+csXiz90AYdV64Ry/DVxiSfEmVNvxhkI/1G4MNCWE3IY6ZjTKOQ9MV80MNfyasbMofvFhkeQjiSoWEoAAGbj9cgfLe7G7romeUcPJtN8GJGaA0EgcWNLrOuOAOHKMTGtEyNaGs9rCZ/79l2aI/X/DR2iWB9EyHQhHxA5SQbT/Zj0FvLHYQgUCt5vnZuTIoE=;6mEQB2YF50HhJjbtTJGGIg=="
+secured: "CgkFjCPwGkYkHDXatSfBk5nRmIq0p6UDVFMXlYMstlh0ZX0EqRqr/o1Ufof7FLOTladvtTG15H1OeT1CueSZBQ1f2zSKNTn3BR1L9EQprBZPdnYeuMKxlJHGeIreieReKjTXp1uqZevZwnlOQfHRFnnCRKnLHXe6vTBTc6vXBvg1SAENZxreBvH/HBmI/RMvGYiRR8BXULZhNiZLszuIX3cHQuMDdrvmvwKjni6KKujq9MtaPMNmzn0z8YdL4Y4lcL+qS15q7WUwksT5LunFoc2RBdAvvQqL1Mf0DCmtWdPAdI7/jqqN1hpQqITBvj7rPYTo1QD0g/L2MxbC0WqSVNtn92w8UQeLDWkcDVPVVhf+N5qQWznDPxR+010dA0OdAxk8Ym8JBbKx2BiOwigm0mER+kjkVr/x6kbfF0bAAhFrI7JJJu0Rd1DolwKmPgWqO7w5yAM8CxAob8AwbnsCHkPbNq6YSD0SK5YTAuATlu7/oyYbQVmsG0hUbyZKBAm7VCExESfU4ArvCVueQHEvUw==;g2l/I7s76oy/Ew9ydzx+8g=="
 ---
 

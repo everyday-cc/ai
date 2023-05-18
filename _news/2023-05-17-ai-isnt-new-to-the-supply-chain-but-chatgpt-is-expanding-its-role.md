@@ -241,6 +241,22 @@ related:
         width: 4338
         height: 2892
         isCached: true
+  - title: "Are you using AI tools like ChatGPT in your day-to-day life? We want to hear from you"
+    excerpt: "Artificial intelligence-powered tools such as ChatGPT have exploded online over the last several months. If you're using AI in your day-to-day life, CTVNews.ca wants to hear from you."
+    publishedDateTime: 2023-05-18T21:07:00Z
+    webUrl: "https://www.ctvnews.ca/sci-tech/are-you-using-ai-tools-like-chatgpt-in-your-day-to-day-life-we-want-to-hear-from-you-1.6404909"
+    ampWebUrl: "https://beta.ctvnews.ca/national/sci-tech/2023/5/18/1_6404909.amp.html"
+    cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/national/sci-tech/2023/5/18/1_6404909.amp.html"
+    type: article
+    provider:
+      name: CTV News
+      domain: ctvnews.ca
+    quality: 52
+    images:
+      - url: "https://beta.ctvnews.ca/content/dam/ctvnews/images/2023/4/25/1_6370398.jpg"
+        width: 1020
+        height: 572
+        isCached: true
   - title: "ChatGPT chief says artificial intelligence should be regulated by a US or global agency"
     excerpt: "The head of the artificial intelligence company that makes ChatGPT told Congress on Tuesday that government intervention “will be critical to mitigate the risks of increasingly powerful” AI systems."
     publishedDateTime: 2023-05-16T15:12:00Z
@@ -289,6 +305,24 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "AI in your pocket: ChatGPT officially comes to iPhone with new app"
+    excerpt: "OpenAI released a free ChatGPT app for iPhone that includes voice input support through its Whisper AI speech recognition model and can synchronize chat history with the web version of the AI assistant."
+    publishedDateTime: 2023-05-18T17:48:00Z
+    webUrl: "https://arstechnica.com/information-technology/2023/05/ai-in-your-pocket-chatgpt-officially-comes-to-iphone-with-new-app/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 47
+  - title: "ChatGPT and Generative AI: Our Guide to 2023's Most Talked-About Technology"
+    excerpt: "ChatGPT brought generative AI into the limelight when it hit 1 million users in five days. But how valid is the buzz around ChatGPT?"
+    publishedDateTime: 2023-05-18T18:30:00Z
+    webUrl: "https://www.businessinsider.com/chatgpt-ai-guide-to-2023-most-talked-about-technology-2023-may"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
   - title: "ChatGPT’s Sam Altman Faces Senate Panel Examining Artificial Intelligence"
     excerpt: "Photo illustration: Elena Scotti WASHINGTON—The chief executive of ChatGPT creator OpenAI is set to testify before a Senate panel Tuesday as lawmakers begin a bipartisan push toward regulating the powerful new artificial-intelligence tools available to ..."
     publishedDateTime: 2023-05-16T09:30:00Z
@@ -484,6 +518,15 @@ related:
         width: 1401
         height: 931
         isCached: true
+  - title: "ChatGPT and Generative AI in Financial Services: Reality, Hype, What's Next, and How to Prepare"
+    excerpt: "Payments, banking, and insurance players are eager to understand generative AI's potential and put it to work."
+    publishedDateTime: 2023-05-18T17:30:00Z
+    webUrl: "https://www.businessinsider.com/chaptgt-financial-services-reality-hype-whats-next-prepare-2023-may"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 35
   - title: "Japanese digital minister pushes for AI use, but ChatGPT does not know who he is"
     excerpt: "I asked ChatGPT who Kono Taro is and he came back with the wrong answer,” Mr Kono said in an interview with Bloomberg Television broadcast on Monday. “So you need to be careful,” he added. Mr Kono asks that his name be written in Japanese style,"
     publishedDateTime: 2023-05-15T00:53:00Z
@@ -668,6 +711,15 @@ related:
       name: Daily Press
       domain: dailypress.com
     quality: 16
+  - title: "NYC public schools opening the door to greater use of AI, loosening reins on ChatGPT"
+    excerpt: "Schools Chancellor David Banks unveiled plans Thursday to offer a toolkit for teachers about artificial intelligence in their classrooms, as well as create a repository for schools to share their findings across the city."
+    publishedDateTime: 2023-05-18T19:50:00Z
+    webUrl: "https://www.nydailynews.com/new-york/education/ny-new-york-city-public-schools-ease-chatgpt-ai-20230518-5qinogsuwzekzh7aai73aevr2m-story.html"
+    type: article
+    provider:
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 12
   - title: "ChatGPT’s chief to testify before Congress as concerns grow about artificial intelligence’s risks"
     excerpt: "The head of the artificial intelligence company that makes ChatGPT is set to testify before Congress as lawmakers call for new rules to guide the rapid development of AI technology. OpenAI CEO Sam"
     publishedDateTime: 2023-05-16T11:00:00Z

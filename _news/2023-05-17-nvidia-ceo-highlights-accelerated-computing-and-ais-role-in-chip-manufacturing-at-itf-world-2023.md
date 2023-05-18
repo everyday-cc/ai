@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/nvidia-ceo-highlights-accelerated-computi
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/nvidia-ceo-highlights-accelerated-computing-and-ais-role-in-chip-manufacturing-at-itf-world-2023/amp/"
 type: article
 quality: 91
-heat: 131
+heat: 141
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Nvidia, AMD, Micron lead chip sector higher with AI, Japan in focus"
+    excerpt: "Shares in chip design software company Synopsys shares ended up 8.7% after it forecast better-than-expected third-quarter profit estimates, saying increased use of AI and automation boosted its business. Nvidia shares were up 5.0%, while the Philadelphia ..."
+    publishedDateTime: 2023-05-18T21:55:00Z
+    webUrl: "https://www.reuters.com/article/usa-stocks-chips-idUSL1N37F2MO"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 84
+    images:
+      - url: "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "How Artificial Intelligence Is Used in Manufacturing"
     excerpt: "neural networks; and robotics, which may be the most commonly used AI application in manufacturing. Altogether, artificial intelligence capabilities allow manufacturers to redeploy human labor to jobs that machines can't yet do and to make production more ..."
     publishedDateTime: 2023-05-16T13:46:00Z

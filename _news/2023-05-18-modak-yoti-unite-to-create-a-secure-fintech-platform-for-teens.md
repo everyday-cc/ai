@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "Teen-focussed fintech signs with Yoti to enhance security, verify age"
+    excerpt: "The tool also enhances the platform's current Know Your Customer (KYC) and Anti-Money Laundering (AML) processes, the companies say."
+    publishedDateTime: 2023-05-18T19:20:00Z
+    webUrl: "https://www.biometricupdate.com/202305/teen-focussed-fintech-signs-with-yoti-to-enhance-security-verify-age"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 21
   - title: "Modak partners with Yoti to create the safest fintech platform for teens"
     excerpt: "Modak, a fintech company for teens and families in the US, has partnered with digital identity company Yoti to enhance safety features for teens on its platform. Since launching in December 2022, 25,000 teens have signed up for Modak using Yoti's facial age estimation technology."
     publishedDateTime: 2023-05-17T21:59:00Z

@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Data and AI Ethics Market with Future Opportunities 2023-2031"
-    excerpt: "The Global \"Data and AI Ethics Market\" report with 124 pages provides essential insights into the growth prospects"
-    publishedDateTime: 2023-05-15T06:14:00Z
-    webUrl: "https://www.marketwatch.com/press-release/data-and-ai-ethics-market-with-future-opportunities-2023-2031-2023-05-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 84
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence in Healthcare Market [2023-2030] Business Report"
     excerpt: "A Artificial Intelligence in Healthcare market new report, spanning multiple 126 pages, offers an extensive and"
     publishedDateTime: 2023-05-14T14:37:00Z

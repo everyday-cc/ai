@@ -40,6 +40,15 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Why The Existential Threat Of AI May Be Overblown"
+    excerpt: "OpenAI CEO Sam Altmans's recent Congressional testimony has led to a national conversation about the potential existential risks stemming from artificial intelligence."
+    publishedDateTime: 2023-05-18T19:22:00Z
+    webUrl: "https://www.forbes.com/sites/jamesbroughel/2023/05/18/why-the-existential-threat-of-ai-may-be-overblown/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
 
 secured: "yCFTg5N8Dfk9hvcmMsxQwRpskDp7hAYm94oTC7CJ+tsSvnO1leLFQ+kHGIPT4SJ951BukV/YHf7R3MDvzx5CExgwuNDDCICimMmqnP88Wh1WzL5L5YWp2pUN9l9T0bZNM7EayGhQDabBJdTjo5jXYf0iVE6qwmaYW6BJxihjZy/vXNLX8/1fN0AkxADtFBiLlLvJSeN7bsNPe91AapnAs/V9SDTwZ0yNG+899xw+8qe2Gt6foy45fYDzDz8+gRHSmz17HH0wO7t20YiAu+vCHnR2wXo8yUgQ0rX+EaXW63xJTY2zNzt1NL7thGtLtVDqyVzlyyNgVsnUVX8sOrxz5VGuXXAXbmIEvyECw7RorK6cFrSRh5wPjHLG17NySvxCbPDzJmCBXlmfgzH9XisCC1i04xDTFD9lTa41QvvvAEIGMU8q2YTjzYghz11qS8bcno4njSjEscysEsxdfBG64WpOXuAC2kOSFY024ogdVLb8UvpXdIdTv4twe6RzRGI2dAlxPZSWspSPnQDjfOBbXQ==;nbsR46JlE1yZQ+xYK83uxA=="
 ---

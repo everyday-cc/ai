@@ -99,6 +99,51 @@
       ]
     },
     {
+      "path": "_news/2023-05-18-cast-ai-slashes-cloud-costs-for-organizations-that-build-train-and-run-artificial-intelligence-ai-applications.md",
+      "title": "CAST AI Slashes Cloud Costs for Organizations that Build, Train and Run Artificial Intelligence (AI) Applications",
+      "excerpt": "CAST AI introduced a series of new features into its platform, designed to dramatically reduce cloud costs for organizations.",
+      "sourceUrl": null,
+      "webUrl": "https://enterprisetalk.com/news/cast-ai-slashes-cloud-costs-for-organizations-that-build-train-and-run-artificial-intelligence-ai-applications/",
+      "originalUrl": "https://enterprisetalk.com/news/cast-ai-slashes-cloud-costs-for-organizations-that-build-train-and-run-artificial-intelligence-ai-applications/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://enterprisetalk.com/wp-content/uploads/2023/05/CAST-AI-Slashes-Cloud-Costs-for-Organizations-that-Build-Train-and-Run-Artificial-Intelligence-AI-Applications.jpg",
+          "width": 700,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://enterprisetalk.com/news/cast-ai-slashes-cloud-costs-for-organizations-that-build-train-and-run-artificial-intelligence-ai-applications/amp/",
+      "cdnAmpWebUrl": "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/cast-ai-slashes-cloud-costs-for-organizations-that-build-train-and-run-artificial-intelligence-ai-applications/amp/",
+      "publishedDateTime": "2023-05-18T05:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "enterprisetalk",
+        "domain": "enterprisetalk.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI Hardware",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-18-build-better-ai-for-enterprise-and-hybrid-cloud-with-ibms-watsonx.md",
       "title": "Build Better AI For Enterprise And Hybrid Cloud With IBM’s WatsonX",
       "excerpt": "Another example is SAP, which will incorporate the Watson service processing to power its digital assistant in SAP Start. New AI capabilities in SAP Start will help boost user productivity with both natural language capabilities and predictive insights ...",
@@ -107,7 +152,7 @@
       "originalUrl": "https://www.forbes.com/sites/tiriasresearch/2023/05/17/build-better-ai-for-enterprise-and-hybrid-cloud-with-ibms-watsonx/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 136,
+      "heat": 146,
       "tags": null,
       "images": [
         {
@@ -255,7 +300,7 @@
       "originalUrl": "https://www.zdnet.com/article/these-4-popular-microsoft-apps-are-getting-a-big-ai-boost/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 326,
+      "heat": 346,
       "tags": null,
       "images": [
         {
@@ -1454,59 +1499,6 @@
         "Microsoft AI",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-05-06-how-microsoft-might-turn-bing-chat-into-your-ai-personal-assistant.md",
-      "title": "How Microsoft might turn Bing Chat into your AI personal assistant",
-      "excerpt": "Commentary: After analyzing recent Microsoft developer content, expert Simon Bisson says there is a big clue into how Bing Chat will work.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/microsoft-bing-chat-ai-personal-assistant/",
-      "originalUrl": "https://www.techrepublic.com/article/microsoft-bing-chat-ai-personal-assistant/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 446,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/wp-content/uploads/2023/02/microsoft-bing-openai-gguy.jpeg",
-          "width": 1400,
-          "height": 934,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/article/microsoft-bing-chat-ai-personal-assistant/amp/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/microsoft-bing-chat-ai-personal-assistant/amp/",
-      "publishedDateTime": "2023-05-05T12:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

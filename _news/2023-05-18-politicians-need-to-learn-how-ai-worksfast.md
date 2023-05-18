@@ -7,8 +7,8 @@ originalUrl: "https://www.wired.com/story/fast-forward-politicians-need-to-learn
 webUrl: "https://www.wired.com/story/fast-forward-politicians-need-to-learn-how-ai-works-fast/"
 type: article
 quality: 69
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Wired
@@ -28,6 +28,17 @@ images:
     height: 670
     isCached: true
 
-secured: "UaWNi56t4CkoKUJT08wlgdzsfDfcCfkHTTpPnyxJCYzjEcQchA2Ea62+SOfvivWGMxX3pbDYTudyi2iP75NKfsSNlOF+rVKq8e/zhloMZv/mBZqTFbkq+UXECJ+GivVkeFkm+3bkLkQDZoLZHQWDAdQvTflwTuiYcmiVGspq8flZNcDAEy7nmJsDc6xbdluYudeob+dOqSIkmOaI5f3QpM5EWhweeBbIJ1e4Cnph0XDxMoOm1quAIQSXDhGxEQUVt4zGtFziJMvN7513VnHa1Sk4SaoHhLVZjefw69CWQ0GXXs9aPZkui6ySw5FXtb1mENDu5UlHbL4hgJK5CCwLPyX4IsQwsLtU15FIUhbUU7M=;FzmEuT5cSkGPtQX9n6/eMQ=="
+related:
+  - title: "Workplace AI: How artificial intelligence will transform the workday"
+    excerpt: "As AI becomes a more core part of the workday, Frey says this push into fluency means workers will be better equipped to utilize it as a supplement to their current skill set. Familiarity with this technology also set them up to grow and develop those skills quickly."
+    publishedDateTime: 2023-05-18T14:49:00Z
+    webUrl: "https://www.bbc.com/worklife/article/20230515-workplace-ai-how-artificial-intelligence-will-transform-the-workday"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 62
+
+secured: "66cvQ6Gbg/k8VWvjKNWWBpbaB3cBZWFX7O3cKhzcH18Lm7e9B6mFH/Z9IVDtnq7AXYbn8RJu6xIuckjGGsPNfUMJv0avSBbu0i/kSdo5eTYjD/ygZn3XKBOR56CT6L7x8w3DYy9RG4AKEmxUrmkW9ZN+87yYINbtwR73FDHDoYmOK8S0/h1nOWQ/fueXKxDvjDDlb1G78auJ0+3zgwsD4wsqCB2aSCAIpS83a127lOq88+/sdkTuoJ5xthKNqLWSocfsg914Ujs1VI7eFDwTCVy2sRvB9MJY6ovb2cIZ4QErsLmWZAELhSC40t84J37wjH89NOJFMnlvV6W+5N7yOaNL+nu4HyKnFrf2asC1JrXA2Krruvs+Uk/TRQ4nWVZLHeQO4TrMGIGdkkewsEQB81vT1hN/xlj7zmnzJQMEdJj0PFV/Q5XeSNdCFFYKFC3MgQzZ+Q/yTWo9+a/EU+a5WNxLd5MGY9VrLpLnmGm5XDvyBjruuV78AiVzstquDSc+DxA9oXTkrRsfS2xS1Gp2qg==;eZkPJksOpvbvM5uNMHD65A=="
 ---
 

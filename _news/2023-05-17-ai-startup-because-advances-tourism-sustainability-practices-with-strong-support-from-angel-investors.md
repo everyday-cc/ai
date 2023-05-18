@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/ai-startup-because-advan
 webUrl: "https://www.marketwatch.com/press-release/ai-startup-because-advances-tourism-sustainability-practices-with-strong-support-from-angel-investors-2023-05-17"
 type: article
 quality: 52
-heat: 52
+heat: 62
 published: false
 
 provider:
@@ -26,6 +26,17 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "AI Startup BeCause Advances Tourism Sustainability Practices with Strong Support from Angel Investors"
+    excerpt: "BeCause, the trailblazing startup transforming how the hospitality, travel, and tourism industries manage their sustainability data, has announced a significant early investment from renowned Danish entrepreneurs-turned-investors Carsten Mahler and Daniel Heskia."
+    publishedDateTime: 2023-05-18T19:48:00Z
+    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1323318&cat=PR News Wire"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 2
 
 secured: "TlBLm47jZTDruISSHI11J34cFxzuhoDP5RimZXWZEWozh0B7kbLodV4gYAIdeCkqu4qNDM+roWzwQtWIoUPhN89xd1o7iirJa9RUN4wd2LXd0BBbE8uk0p79aCh7xwWu22Cr0VqeGoTTs97EN/a+F/PP/+RWaV1vm6MQy9VrvQFrUDyQvPTaHU8OYN3RMqN+zwhNSmnpkHHPtZa8RbMNhk30OjRtZJ+iBdHeKbn8KyI+UIRIjfIhJh3Q783ypNv9GCg/xTuXT+5VgZYsFQ4ub3grYEyA0gR3SCaGqabuSuUJJ8qAy0Uke8t8lqlmBDxGRguiv2YKbNrlAj+AShD2ZPqNF+gfg0wSs6v5NPhudGI=;Lwo+BkWYVf6l67Ieo5mrKw=="
 ---

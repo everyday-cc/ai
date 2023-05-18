@@ -158,6 +158,15 @@ related:
       name: Wall Street Journal
       domain: wsj.com
     quality: 47
+  - title: "Rebooting Tech Talent In The Race For AI"
+    excerpt: "Developers using AI tools like CodeGPT, Bugasura, GitHub, Repli - while designers use PiggyAI, Galileo, Viesus to upskill and be a growth accelerator in their next gig."
+    publishedDateTime: 2023-05-18T18:28:00Z
+    webUrl: "https://www.forbes.com/sites/deandebiase/2023/05/18/rebooting-tech-talent-in-the-race-for-ai/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "Is AI the Solution to Company-Provided Mental Health Care?"
     excerpt: "Woebot, a CBT-based chatbot created in 2017 by a team of Stanford psychologists and AI experts, fits the criteria. The app uses a form of AI called “natural language processing” to guide users through sequences of responses meant to mimic a clinician’s reasoning."
     publishedDateTime: 2023-05-15T16:20:00Z
@@ -185,6 +194,20 @@ related:
       - url: "https://www.mddionline.com/sites/mddionline.com/files/Untitled%20design%2019_0.png"
         width: 770
         height: 400
+        isCached: true
+  - title: "WHO says using AI in health care carries a multitude of risks"
+    excerpt: "More industries are investing in AI, including health care. But the World Health Organization says the industry needs to look beyond its exciting potential and look into the risks."
+    publishedDateTime: 2023-05-18T21:54:00Z
+    webUrl: "https://scrippsnews.com/stories/who-says-using-ai-in-health-care-carries-a-multitude-of-risks/"
+    type: article
+    provider:
+      name: scrippsnews
+      domain: scrippsnews.com
+    quality: 39
+    images:
+      - url: "https://cdn.scrippsnews.com/images/videos/m/1684445050_OQqRsh.jpg"
+        width: 640
+        height: 360
         isCached: true
   - title: "General Catalyst leads $50M investment in healthcare AI company"
     excerpt: "Hippocratic AI, which is building a generative AI large language model designed for healthcare, launched Tuesday."
@@ -241,6 +264,6 @@ related:
       domain: devdiscourse.com
     quality: 12
 
-secured: "9n7FhCVKNqbIDX+O+3TaDi8tfJqWKPhXwwjtWoZpdGUHZIZT9PTNw6PUvyK4Ov4TiZSiGqqYPjerdL558tiOiHKWd5QqJMBcDJ0VoEwR39QpM5fANgIz2TZfIcehgXGxwsGIue0zxlpz0I5w7NOu6mbAjn/sTu6XkdlqMW54rKQULwU38/yPNob5Ex0tJYswuK+LgWOA8WM2LHJbmC0wbeXprVuaFHqUFZHCH49DHkOgqOSvGetfxdCnMEnYEV4bSTe2w5U4B2L3zJ5ES1vTkPVCm9ZyrXSUux+02KYttA9/5I2LEbatV1PBLB9Bkk3XYtqaa54GJ2fG8VHt8J55/IbkN3QMcYw1qQfZ8Wo6hn4=;DzEgjSS2EGvjDbpChz4RIQ=="
+secured: "TfroK/mpnpgP5X+87GFXK+DV+TmLcCS2NltaoQMwnmy/sjjhg7LFzh07b/FVKrQlV2xZwP+LxnxmkBlY6udj8bkFBnOwUEO6Y9seW+Rcn910KSAardag+HqeXFGnoCK1ArpueZOW67YgcDF2sNSn+aXFPXBvx+K+5OxDKUzeRYNnVXqgad42RpvDmndd6p8asHXm6vb+s4NmSIHPOoUTnBlN/6Oe5OMHFfJLtr5tV34pzvLomBQYCIYYT+RF3Qp1BJ3YnnxILbyDL1ApqZp+Kp6JHA0S9djP1rwy2jXZulemqwpWBMfAXhEbFt23CquP2lfxB7Z32r5/4j5DwxT5dVYA84Ybn99Bh5vybAOLAAINrtjv8uDRXtz+9/vLOhwMravFtF62cBPPXv3pq6bJFOlHAZ6XXxQnDKkw3F1SDUiBQLGmvTOKE+Ubr8UCqSoF6Z9cZn3oGWVQA/3jGW9Ip4OQ0IQSDS5/15IToI956GfVMFXhqCbDiqRWA4KIXLamSPJqAvfK4mQC8HwrcRdNKQ==;GCP1Z+5p7+y3h9gkGwh6qA=="
 ---
 

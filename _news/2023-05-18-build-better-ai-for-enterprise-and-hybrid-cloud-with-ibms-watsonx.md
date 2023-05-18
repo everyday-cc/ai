@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/tiriasresearch/2023/05/17/build-better-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2023/05/17/build-better-ai-for-enterprise-and-hybrid-cloud-with-ibms-watsonx/amp/"
 type: article
 quality: 106
-heat: 136
+heat: 146
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "5 Takeaways from IBM Think 2023: Generative AI to Hybrid Cloud"
+    excerpt: "Contact centers are low-hanging fruit for AI Where to start with AI? I get asked that a lot by business and IT executives. I always recommend an area that currently has accurate KPIs and also where a small improvement can have a big payback. This points to ..."
+    publishedDateTime: 2023-05-18T21:50:00Z
+    webUrl: "https://www.eweek.com/artificial-intelligence/ibm-think-2023-generative-ai-to-hybrid-cloud/"
+    type: article
+    provider:
+      name: eWeek
+      domain: eweek.com
+    quality: 67
+    images:
+      - url: "https://www.eweek.com/wp-content/uploads/2023/04/generative-ai-examples.png"
+        width: 1400
+        height: 933
         isCached: true
   - title: "IBM Launches watsonx: Paving A Path To Faster Enterprise AI Adoption"
     excerpt: "Exploring the new IBM watsonx offering. A full tech stack for training, deploying, and supporting AI capabilities across any cloud environment, as well as a model library that includes foundation models vetted and curated by IBM."

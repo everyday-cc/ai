@@ -32,7 +32,7 @@ related:
     provider:
       name: The Information
       domain: theinformation.com
-    quality: 37
+    quality: 39
     images:
       - url: "https://tii.imgix.net/production/articles/10515/f90b0f18-4366-468c-b583-288dc4052721.png?fm=jpg&auto=compress&w=1200&frame=0"
         width: 1200

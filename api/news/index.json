@@ -2,6 +2,341 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-05-19-yellow-ai-launches-yellowg-a-generative-ai-platform-for-automation-workflows.md",
+      "title": "Yellow AI launches YellowG, a generative AI platform for automation workflows",
+      "excerpt": "Conversational AI platform Yellow AI announced the release of YellowG, a next-gen conversational artificial intelligence (AI) platform designed specifically for automation technology. Leveraging the capabilities of generative AI and enterprise GPT,",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/yellow-ai-launches-yellowg-a-generative-ai-platform-for-automation-workflows/",
+      "originalUrl": "https://venturebeat.com/ai/yellow-ai-launches-yellowg-a-generative-ai-platform-for-automation-workflows/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/03/6-Applying-AI-at-scale-–-Insurance-company-story.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 598,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/yellow-ai-launches-yellowg-a-generative-ai-platform-for-automation-workflows/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/yellow-ai-launches-yellowg-a-generative-ai-platform-for-automation-workflows/amp/",
+      "publishedDateTime": "2023-05-18T14:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-19-tech-up-on-ai-optimism-tech-roundup.md",
+      "title": "Tech Up on AI Optimism -- Tech Roundup",
+      "excerpt": "Shares of technology companies rose amid optimism about artificial-intelligence products. Storage software maker Snowflake rallied after reports it was",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/tech-up-on-ai-optimism-tech-roundup-77d7ab6c",
+      "originalUrl": "https://www.marketwatch.com/story/tech-up-on-ai-optimism-tech-roundup-77d7ab6c",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/tech-up-on-ai-optimism-tech-roundup-77d7ab6c",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/tech-up-on-ai-optimism-tech-roundup-77d7ab6c",
+      "publishedDateTime": "2023-05-18T14:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-19-meta-unveils-new-ai-data-centers-and-supercomputer-to-power-ai-first-future.md",
+      "title": "Meta unveils new AI data centers and supercomputer to power AI-first future",
+      "excerpt": "Meta announced today a series of new hardware and software projects that aim to support the next generation of AI applications.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/meta-unveils-new-ai-data-centers-and-supercomputer-to-power-ai-first-future/",
+      "originalUrl": "https://venturebeat.com/ai/meta-unveils-new-ai-data-centers-and-supercomputer-to-power-ai-first-future/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 229,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/05/META.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/meta-unveils-new-ai-data-centers-and-supercomputer-to-power-ai-first-future/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/meta-unveils-new-ai-data-centers-and-supercomputer-to-power-ai-first-future/amp/",
+      "publishedDateTime": "2023-05-18T14:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-05-19-ai-error-leads-college-instructor-to-wrongly-accuse-students-of-cheating.md",
+      "title": "AI error leads college instructor to wrongly accuse students of cheating",
+      "excerpt": "A professor at Texas A&M University-Commerce accused students of cheating in their final paper by using ChatGPT, but it turns out he was incorrect. NBC News’ Jacob Ward reports.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/now/video/ai-error-leads-college-instructor-to-wrongly-accuse-students-of-cheating-174842437808",
+      "originalUrl": "https://www.nbcnews.com/now/video/ai-error-leads-college-instructor-to-wrongly-accuse-students-of-cheating-174842437808",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_05/1684440924174_now_daily_b_ward_texasam_230518_1920x1080-opfxt9.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo174842437808",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo174842437808",
+      "publishedDateTime": "2023-05-18T13:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-19-meta-platforms-crafts-homegrown-ai-inference-chip-ai-training-next.md",
+      "title": "Meta Platforms Crafts Homegrown AI Inference Chip, AI Training Next",
+      "excerpt": "As we pointed out a year ago when some key silicon experts were hired from Intel and Broadcom to come work for Meta Platforms, the company formerly known",
+      "sourceUrl": null,
+      "webUrl": "https://www.nextplatform.com/2023/05/18/meta-platforms-crafts-homegrown-ai-inference-chip-ai-training-next/",
+      "originalUrl": "https://www.nextplatform.com/2023/05/18/meta-platforms-crafts-homegrown-ai-inference-chip-ai-training-next/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://www.nextplatform.com/wp-content/uploads/2023/05/meta-platforms-mtia-die-shot.jpg",
+          "width": 1125,
+          "height": 711,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nextplatform.com/2023/05/18/meta-platforms-crafts-homegrown-ai-inference-chip-ai-training-next/amp/",
+      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2023/05/18/meta-platforms-crafts-homegrown-ai-inference-chip-ai-training-next/amp/",
+      "publishedDateTime": "2023-05-18T13:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Platform",
+        "domain": "nextplatform.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-19-is-tom-hanks-doomed-to-be-digitally-resurrected-by-ai.md",
+      "title": "Is Tom Hanks Doomed To Be Digitally Resurrected By AI?",
+      "excerpt": "James Dean, who died in 1955, was set to be digitally resurrected for the war film Finding Jack, which was reportedly canceled, but not before sparking uproar from movie-lovers and actors. Chris Evans ( Captain America) and Elijah Wood, ( The Lord of the Rings) both tweeted their distaste for the proposed project.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/danidiplacido/2023/05/18/is-tom-hanks-doomed-to-be-digitally-resurrected-by-ai/",
+      "originalUrl": "https://www.forbes.com/sites/danidiplacido/2023/05/18/is-tom-hanks-doomed-to-be-digitally-resurrected-by-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6466780977fe545ec0b1abca/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/danidiplacido/2023/05/18/is-tom-hanks-doomed-to-be-digitally-resurrected-by-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danidiplacido/2023/05/18/is-tom-hanks-doomed-to-be-digitally-resurrected-by-ai/amp/",
+      "publishedDateTime": "2023-05-18T12:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-18-ibm-named-a-leader-in-the-latest-forrester-wave-report-for-ai-decisioning.md",
+      "title": "IBM named a Leader in the latest Forrester Wave™ report for AI Decisioning",
+      "excerpt": "Forrester Research just released the latest Forrester Wave™ report, and IBM is proud to be recognized as a Leader. \nThe post IBM named a Leader in the latest Forrester Wave™ report for AI Decisioning appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/ibm-named-a-leader-in-the-latest-forrester-wave-report-for-ai-decisioning/",
+      "originalUrl": "https://www.ibm.com/blog/ibm-named-a-leader-in-the-latest-forrester-wave-report-for-ai-decisioning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-18T11:25:13-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-19-worlds-first-100-ai-controlled-and-executed-house-purchase-processed-by-morgan.md",
       "title": "World's First 100% AI-Controlled and Executed House Purchase Processed by MORGAN",
       "excerpt": "From home finding to mortgage application to ownership, the homeowner's personal AI assistant is making home buying easier using Celligence",
@@ -62,7 +397,7 @@
       "originalUrl": "https://www.bloomberg.com/news/articles/2023-05-18/reino-unido-planea-reunion-con-openai-deepmind-sobre-riesgos-ia",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -156,57 +491,6 @@
         "AI",
         "AWS AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-18-meta-and-google-news-adds-fuel-to-the-open-source-ai-fire.md",
-      "title": "Meta and Google news adds fuel to the open-source AI fire",
-      "excerpt": "The open-source AI debate is getting even hotter in Big Tech, thanks to recent headlines from Google and Meta's Yann LeCun.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/meta-and-google-news-adds-fuel-to-the-open-source-ai-fire/",
-      "originalUrl": "https://venturebeat.com/ai/meta-and-google-news-adds-fuel-to-the-open-source-ai-fire/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/05/Untitled-design-70.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/meta-and-google-news-adds-fuel-to-the-open-source-ai-fire/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/meta-and-google-news-adds-fuel-to-the-open-source-ai-fire/amp/",
-      "publishedDateTime": "2023-05-18T09:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     },
     {
@@ -358,6 +642,58 @@
       ]
     },
     {
+      "path": "_news/2023-05-18-politicians-need-to-learn-how-ai-worksfast.md",
+      "title": "Politicians Need to Learn How AI Works—Fast",
+      "excerpt": "Tech regulation has often disappointed. Automation expert Missy Cummings hopes a course to teach policymakers about artificial intelligence can help.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/fast-forward-politicians-need-to-learn-how-ai-works-fast/",
+      "originalUrl": "https://www.wired.com/story/fast-forward-politicians-need-to-learn-how-ai-works-fast/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/646569ec06bd08d2f808af22/191:100/w_1280,c_limit/Missy-Cummings-Interview-Fast-Forward-Business-Redux-h_15868081.jpg",
+          "width": 1280,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-18T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2023-05-18-ibm-hybrid-cloud-mesh-reimagining-multicloud-networking-with-applications-taking-center-stage.md",
       "title": "IBM Hybrid Cloud Mesh: Reimagining multicloud networking with applications taking center stage",
       "excerpt": "With the launch of IBM Hybrid Cloud Mesh, application-centric connectivity helps you take back control of enterprise networking.\nThe post IBM Hybrid Cloud Mesh: Reimagining multicloud networking with applications taking center stage appeared first on IBM Blog.\n",
@@ -409,49 +745,6 @@
       ]
     },
     {
-      "path": "_news/2023-05-18-five-tips-to-navigate-the-evolving-ai-landscape.md",
-      "title": "Five tips to navigate the evolving AI landscape",
-      "excerpt": "Advanced artificial intelligence, such as ChatGPT, is said to be the most disruptive technology since the advent of electricity. The technology, known as generative AI, can produce content, including text,",
-      "sourceUrl": null,
-      "webUrl": "https://www.itworldcanada.com/sponsored/five-tips-to-navigate-the-evolving-ai-landscape",
-      "originalUrl": "https://www.itworldcanada.com/sponsored/five-tips-to-navigate-the-evolving-ai-landscape",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.itworldcanada.com/wp-content/uploads/2023/05/192849ijfw.jpg",
-          "width": 1920,
-          "height": 1438,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itworldcanada.com/sponsored/five-tips-to-navigate-the-evolving-ai-landscape?amp=1",
-      "cdnAmpWebUrl": "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/sponsored/five-tips-to-navigate-the-evolving-ai-landscape?amp=1",
-      "publishedDateTime": "2023-05-18T08:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT World Canada",
-        "domain": "itworldcanada.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-05-18-trump-supporters-and-christians-are-the-most-worried-that-ai-is-an-existential-threat-to-humanity-poll-says.md",
       "title": "Trump supporters and Christians are the most worried that AI is an existential threat to humanity, poll says",
       "excerpt": "Respondents who voted for Donald Trump for the 2020 presidency and identify as Evangelical Christians were most concerned about AI's potential risks.",
@@ -460,7 +753,7 @@
       "originalUrl": "https://www.businessinsider.com/trump-supporters-christians-most-concerned-ai-threat-humanity-poll-2023-5",
       "featuredContent": null,
       "highlight": null,
-      "heat": 78,
+      "heat": 88,
       "tags": null,
       "images": [
         {
@@ -551,6 +844,155 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-18-roundhill-investments-launches-generative-ai-technology-etf-nyse-arca-chat.md",
+      "title": "Roundhill Investments Launches Generative AI & Technology ETF (NYSE Arca: CHAT)",
+      "excerpt": "Roundhill's research estimates suggest $120+ billion total addressable market for Generative AI enterprise software NEW YORK, May 18, 2023",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/roundhill-investments-launches-generative-ai-technology-etf-nyse-arca-chat-1032337340",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/roundhill-investments-launches-generative-ai-technology-etf-nyse-arca-chat-1032337340",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1993329/Roundhill_Investments_Logo.jpg",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-18T06:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-18-big-name-investors-are-going-all-in-on-ai.md",
+      "title": "Big-name investors are going all-in on AI",
+      "excerpt": "The Tiger Global founder told investors to buy the so-called FAANG stocks – shorthand for Facebook parent Meta ... It's not just individual investors who are caught up in the AI fanfare. In a research note last month, Morgan Stanley said that 2023 ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/billionaire-investors-ai-chatgpt-bill-ackman-stanley-druckenmiller-big-tech-2023-5",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/billionaire-investors-ai-chatgpt-bill-ackman-stanley-druckenmiller-big-tech-2023-5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/62e3b3a0e1179200195ee85b?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/news/stocks/billionaire-investors-ai-chatgpt-bill-ackman-stanley-druckenmiller-big-tech-2023-5?amp",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/news/stocks/billionaire-investors-ai-chatgpt-bill-ackman-stanley-druckenmiller-big-tech-2023-5?amp",
+      "publishedDateTime": "2023-05-18T05:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-18-cast-ai-slashes-cloud-costs-for-organizations-that-build-train-and-run-artificial-intelligence-ai-applications.md",
+      "title": "CAST AI Slashes Cloud Costs for Organizations that Build, Train and Run Artificial Intelligence (AI) Applications",
+      "excerpt": "CAST AI introduced a series of new features into its platform, designed to dramatically reduce cloud costs for organizations.",
+      "sourceUrl": null,
+      "webUrl": "https://enterprisetalk.com/news/cast-ai-slashes-cloud-costs-for-organizations-that-build-train-and-run-artificial-intelligence-ai-applications/",
+      "originalUrl": "https://enterprisetalk.com/news/cast-ai-slashes-cloud-costs-for-organizations-that-build-train-and-run-artificial-intelligence-ai-applications/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://enterprisetalk.com/wp-content/uploads/2023/05/CAST-AI-Slashes-Cloud-Costs-for-Organizations-that-Build-Train-and-Run-Artificial-Intelligence-AI-Applications.jpg",
+          "width": 700,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://enterprisetalk.com/news/cast-ai-slashes-cloud-costs-for-organizations-that-build-train-and-run-artificial-intelligence-ai-applications/amp/",
+      "cdnAmpWebUrl": "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/cast-ai-slashes-cloud-costs-for-organizations-that-build-train-and-run-artificial-intelligence-ai-applications/amp/",
+      "publishedDateTime": "2023-05-18T05:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "enterprisetalk",
+        "domain": "enterprisetalk.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI Hardware",
+        "Microsoft AI"
       ]
     },
     {
@@ -808,474 +1250,6 @@
       "topics": [
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-05-18-beijing-calls-on-cloud-providers-to-support-ai-firms.md",
-      "title": "Beijing calls on cloud providers to support AI firms",
-      "excerpt": "The U.S. already restricts the export of Nvidia’s powerful AI chip H100 to China. In response, Nvidia came up with a less powerful processor for China to circumvent export controls. Domestic companies, such as tech giant Huawei and startup Biren ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/05/18/beijing-china-ai-support-cloud/",
-      "originalUrl": "https://techcrunch.com/2023/05/18/beijing-china-ai-support-cloud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/02/great-wall-dragon.jpg?resize=1200,641",
-          "width": 1200,
-          "height": 641,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/05/18/beijing-china-ai-support-cloud/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/18/beijing-china-ai-support-cloud/amp/",
-      "publishedDateTime": "2023-05-18T04:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-18-reddit-cofounder-says-the-us-government-is-not-equipped-to-regulate-ai-and-must-get-up-to-speed-quickly.md",
-      "title": "Reddit cofounder says the US government is not equipped to regulate AI and must get 'up to speed quickly'",
-      "excerpt": "Fears are growing about the possible misuse of AI, with many tech leaders, including Elon Musk, calling for a pause in its development.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/reddit-co-founder-us-government-not-equipped-regulate-ai-2023-5",
-      "originalUrl": "https://www.businessinsider.com/reddit-co-founder-us-government-not-equipped-regulate-ai-2023-5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/6465e2a8fb9a9d0018c9056b?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/reddit-co-founder-us-government-not-equipped-regulate-ai-2023-5?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/reddit-co-founder-us-government-not-equipped-regulate-ai-2023-5?amp",
-      "publishedDateTime": "2023-05-18T03:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-05-18-teslas-optimus-robot-is-learning-to-navigate-sense-and-pick-things-up.md",
-      "title": "Tesla's Optimus robot is learning to navigate, sense and pick things up",
-      "excerpt": "At Tesla's 2023 shareholders meeting, Elon Musk showed some new video of the Optimus robot he believes will represent the vast majority of the company's value in the future – as well as the method through which the development team is training the AI.",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/robotics/tesla-optimus-robot/",
-      "originalUrl": "https://newatlas.com/robotics/tesla-optimus-robot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/9bfd629/2147483647/strip/true/crop/1619x850+0+62/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F64%2F06%2F934b987f4684b1729a14cb45c697%2Fscreenshot-2023-05-18-at-7.37.54%20pm.png&na.image_optimisation=0",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-18T03:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-05-18-us-senator-introduces-bill-to-create-a-federal-agency-to-regulate-ai.md",
-      "title": "US senator introduces bill to create a federal agency to regulate AI",
-      "excerpt": "Days after OpenAI CEO Sam Altman testified in front of Congress and proposed creating a new federal agency to regulate artificial intelligence, a US senator has introduced a bill to do just that.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2023/05/18/tech/bennet-digital-regulator-bill-ai-provisions/index.html",
-      "originalUrl": "https://www.cnn.com/2023/05/18/tech/bennet-digital-regulator-bill-ai-provisions/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/230517144152-senator-michael-bennet-file-restricted-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2023/05/18/tech/bennet-digital-regulator-bill-ai-provisions/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/05/18/tech/bennet-digital-regulator-bill-ai-provisions/index.html",
-      "publishedDateTime": "2023-05-18T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-18-china-blue-chips-slip-as-recovery-falters-banks-ai-firms-shine.md",
-      "title": "China blue-chips slip as recovery falters; banks, AI firms shine",
-      "excerpt": "China's blue-chip stocks slipped on Thursday, while investors snapped up banking and artificial intelligence (AI) shares after data showed the country's economic recovery was losing steam.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/china-stocks-close-idUSL1N37F0KI",
-      "originalUrl": "https://www.reuters.com/article/china-stocks-close-idUSL1N37F0KI",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-18T00:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-18-are-alexa-and-siri-ai.md",
-      "title": "Are Alexa and Siri AI?",
-      "excerpt": "Conversational AI is a type of artificial intelligence that ... They have extensive amounts of data that allow them to recognize speech and text to then translate these inputs into meaning. Natural Language Processing in Alexa and Siri Natural language ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/tech/alexa-siri-ai",
-      "originalUrl": "https://www.foxnews.com/tech/alexa-siri-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d5c69365-fe8d-493b-bfed-036295311cf9/fa99226e-59e6-4ec3-a739-7a0c2ea9d800/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/tech/alexa-siri-ai.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/alexa-siri-ai.amp",
-      "publishedDateTime": "2023-05-17T23:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-18-elon-musk-is-right-we-need-to-regulate-ai-now.md",
-      "title": "Elon Musk Is Right: We Need to Regulate AI Now",
-      "excerpt": "We need to do something about artificial intelligence before it's too late. You probably heard some variation of that statement dozens of times in the years before ChatGPT. You've",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/tech/elon-musk-is-right-we-need-to-regulate-ai-now/",
-      "originalUrl": "https://www.cnet.com/tech/elon-musk-is-right-we-need-to-regulate-ai-now/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/7881e2d7b68e0b07bd4dcf534260ca3af4f6cd1b/hub/2023/05/02/6a359d50-1e7a-4710-b994-d6b1ce857695/230501-yt-vs-chatgpt-bard-bing-v04.jpg?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/elon-musk-is-right-we-need-to-regulate-ai-now/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/elon-musk-is-right-we-need-to-regulate-ai-now/",
-      "publishedDateTime": "2023-05-17T17:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-18-sting-warns-against-ai-songs-as-he-wins-prestigious-music-prize.md",
-      "title": "Sting warns against AI songs as he wins prestigious music prize",
-      "excerpt": "Whether AI-written music can be copyrighted is still under debate. Under English copyright law, for example, works generated by AI, can theoretically be protected. However, the US Copyright Office recently ruled that AI art, including music, can't be copyrighted as it is \"not the product of human authorship\".",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/entertainment-arts-65627089",
-      "originalUrl": "https://www.bbc.com/news/entertainment-arts-65627089",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/10122/production/_129762856_stingpic.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/entertainment-arts-65627089.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/entertainment-arts-65627089.amp",
-      "publishedDateTime": "2023-05-17T16:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-18-build-better-ai-for-enterprise-and-hybrid-cloud-with-ibms-watsonx.md",
-      "title": "Build Better AI For Enterprise And Hybrid Cloud With IBM’s WatsonX",
-      "excerpt": "Another example is SAP, which will incorporate the Watson service processing to power its digital assistant in SAP Start. New AI capabilities in SAP Start will help boost user productivity with both natural language capabilities and predictive insights ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tiriasresearch/2023/05/17/build-better-ai-for-enterprise-and-hybrid-cloud-with-ibms-watsonx/",
-      "originalUrl": "https://www.forbes.com/sites/tiriasresearch/2023/05/17/build-better-ai-for-enterprise-and-hybrid-cloud-with-ibms-watsonx/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 136,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6465480551131fd5b9b1abc6/0x0.jpg?format=jpg&crop=2560,1330,x0,y0,safe&width=1200",
-          "width": 1200,
-          "height": 623,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tiriasresearch/2023/05/17/build-better-ai-for-enterprise-and-hybrid-cloud-with-ibms-watsonx/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2023/05/17/build-better-ai-for-enterprise-and-hybrid-cloud-with-ibms-watsonx/amp/",
-      "publishedDateTime": "2023-05-17T14:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "IBM AI",
-        "Microsoft AI"
       ]
     }
   ],

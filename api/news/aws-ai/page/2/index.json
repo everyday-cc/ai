@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-05-05-data-governance-and-regulating-data-in-agriculture.md",
+      "title": "Data governance and regulating data in agriculture",
+      "excerpt": "While data governance and regulation continue to become a growing concern, with discussions around how data is collected by platforms and corporations to ensure personal information isn’t ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.itworldcanada.com/article/data-governance-and-regulating-data-in-agriculture/536332",
+      "originalUrl": "https://www.itworldcanada.com/article/data-governance-and-regulating-data-in-agriculture/536332",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.itworldcanada.com/wp-content/uploads/2023/04/Screen-Shot-2023-04-11-at-11.34.56-AM.png",
+          "width": 1224,
+          "height": 678,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itworldcanada.com/article/data-governance-and-regulating-data-in-agriculture/536332?amp=1",
+      "cdnAmpWebUrl": "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/data-governance-and-regulating-data-in-agriculture/536332?amp=1",
+      "publishedDateTime": "2023-05-05T07:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT World Canada",
+        "domain": "itworldcanada.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-05-the-best-movies-on-amazon-prime-video-may-2023.md",
       "title": "The best movies on Amazon Prime Video (May 2023)",
       "excerpt": "The beginning of May marks a bit of a spring cleaning for Amazon Prime Video. Several titles have gone out the door, while the latest additions to the Prime Video library are now settling in.",
@@ -1313,51 +1356,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-24-identify-objections-in-customer-conversations-using-amazon-comprehend-to-enhance-customer-experience-without-ml-expertise.md",
-      "title": "Identify objections in customer conversations using Amazon Comprehend to enhance customer experience without ML expertise",
-      "excerpt": "According to a PWC report, 32% of retail customers churn after one negative experience, and 73% of customers say that customer experience influences their purchase decisions. In the global retail industry, pre- and post-sales support are both important aspects of customer care. Numerous methods, including",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/identify-objections-in-customer-conversations-using-amazon-comprehend-to-enhance-customer-experience-without-ml-expertise/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/identify-objections-in-customer-conversations-using-amazon-comprehend-to-enhance-customer-experience-without-ml-expertise/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-24T11:07:18-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning",
-        "Natural Language Processing"
       ]
     }
   ],

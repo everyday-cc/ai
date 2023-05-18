@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/reddit-co-founder-us-government-not-
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/reddit-co-founder-us-government-not-equipped-regulate-ai-2023-5?amp"
 type: article
 quality: 74
-heat: 74
+heat: 94
 published: true
 
 provider:
@@ -30,6 +30,31 @@ images:
     width: 1200
     height: 600
     isCached: true
+
+related:
+  - title: "Top Senate official warns Congress to 'move quickly' on artificial intelligence legislation"
+    excerpt: "Senate Majority Leader warns Congress that they “must move quickly\" to regulate artificial intelligence. They have convened a bipartisan group of senators to work on legislation."
+    publishedDateTime: 2023-05-18T19:00:00Z
+    webUrl: "https://www.foxnews.com/us/top-senate-official-warns-congress-move-quickly-artificial-intelligence-legislation"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 37
+  - title: "Top Senate Dem: Congress 'must move quickly' on artificial intelligence legislation"
+    excerpt: "Senate Majority Leader Chuck Schumer says Congress “must move quickly” to regulate artificial intelligence and has convened a bipartisan group of senators to work on legislation. Schumer says the group met on Wednesday and that his staff has already met with close to 100 CEOs,"
+    publishedDateTime: 2023-05-18T21:29:00Z
+    webUrl: "https://www.chron.com/business/article/top-senate-dem-congress-must-move-quickly-on-18106841.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 31
+    images:
+      - url: "https://s.hdnux.com/photos/01/32/74/00/23838746/3/rawImage.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
 
 secured: "vnIzrOrr/3l2e1AfDf5Pd3ysoBJmcsJRojbrVpm2xlEGLn18wGX0A51gZT9DkisArwlrASsviUQusulA+39GLS0IPt3A208Usa4/hGeMQYiOC1cumABSwfxzUabSvkh9l4EApEO4mj+2VR9D3ZkFcuhOpGh5jgQdAwdcUq0ORFZshiuh0NGBZ6XpnsINaODEAhN0VC1q5feEqmhBoGGoUpC1pGZPkLlgt6/mFKJIrEYgf5m5jTkEJerVn60e+rqsxDw1Sog7TPjdkpOGaPfyVyL4v9avuLtbHeSuzvfujoCImV61kliGb16K6KZEmhe8fzFfSnQlnDEIbyJI6e+Xn6TNDiGiz+zyenItIaontxuniSzogLirHG0ph1JrS3jxUDW6SZvolB72twJ8wYLIADzrykzOkhju6COWmnmMjzSyYdk4qD2Ifi8JK1yYplAt/8LkbTFVUpF7kENgjvQTKRlo/tbigz8Vzcw6M3t2yHSG61z8KPR6jEor9VqmfOSMD/2R+gKkOMTavXK7UMGUJQ==;mcyk8XY1RXYFcPrSDSaVaw=="
 ---

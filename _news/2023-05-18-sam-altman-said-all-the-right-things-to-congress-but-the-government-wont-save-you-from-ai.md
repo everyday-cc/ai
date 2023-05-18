@@ -48,15 +48,6 @@ related:
       name: The Washington Post
       domain: washingtonpost.com
     quality: 17
-  - title: "Senators use hearings to explore regulation on artificial intelligence"
-    excerpt: "The chairman of a Senate Judiciary panel said Tuesday that Congress should act soon to regulate artificial intelligence."
-    publishedDateTime: 2023-05-16T17:59:00Z
-    webUrl: "https://rollcall.com/2023/05/16/senators-use-hearings-to-explore-regulation-on-artificial-intelligence/"
-    type: article
-    provider:
-      name: Roll Call
-      domain: rollcall.com
-    quality: 17
 
 secured: "Daqy6WMgGefkwaAIWyQY2ctba9saum0tz8w1PSJqQqTWJUtGmwVMOXNTu2o+fmIBTxDS7jQZSdupElafFxy43Oz5DkC7gDffRLBwUmPeWYNPagp8/E92kE2nu2Sx5OX2WXUiAuLjFI+cQQt01dpH8OdXl1lXKDcnR9lelKKGxrPRJUZNMeeJDBVYyzkbsgcN97/6K5mQZW+s69BYCR/TyLEXTx3WY20or7/ERmbfrrVtXJv3rzZr2hzin4O/PIGWAe/vP/7aPd2Os+wrFeum+CkhV3aH1WDLJHOu2IohW+2kdZS2AkpmCpkwbXqGfgj0X3xOXhHu8WnQWmQklGCxTnotmRMMlNOxovlFk9yf0C6RegcKVQmzXVOFDb5bqkwzwaEDoqZjeXYd+63k94+59jZw34OVEOPU9G1K+b1Xpmrq8HowMqCv19N7tYxeajfHLRN7OAWzcphvAsLvPGVirZUQ8bXXsXZgoYbO/TP5+IuOj4WlHALG3dqvlfTYG2DLMAK24806ybmadp3bnsYOsQ==;xOMoaS+ednKAnn/qKdYl0w=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://medcitynews.com/2023/05/mayo-clinic-ai-artificial-intellig
 webUrl: "https://medcitynews.com/2023/05/mayo-clinic-ai-artificial-intelligence-healthcare/"
 type: article
 quality: 34
-heat: 34
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,67 @@ images:
     width: 788
     height: 443
     isCached: true
+
+related:
+  - title: "AI startup Together raises funding for open-source AI and cloud platform"
+    excerpt: "Together means to establish open source as the default way to incorporate AI and create models that outperform closed models in the cloud."
+    publishedDateTime: 2023-05-15T16:07:00Z
+    webUrl: "https://venturebeat.com/ai/ai-startup-together-raises-funding-for-open-source-ai-and-cloud-platform/"
+    ampWebUrl: "https://venturebeat.com/ai/ai-startup-together-raises-funding-for-open-source-ai-and-cloud-platform/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/ai-startup-together-raises-funding-for-open-source-ai-and-cloud-platform/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 86
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-478634946.jpg?w=1200&strip=all"
+        width: 1200
+        height: 864
+        isCached: true
+  - title: "Together raises $20M to decentralize and open-source AI model creation"
+    excerpt: "Together, a startup that’s building a decentralized ... The funding will be used to support Together’s mission of creating a decentralized alternative to the closed AI systems winning all the plaudits today, such as OpenAI LP’s ChatGPT."
+    publishedDateTime: 2023-05-16T02:24:00Z
+    webUrl: "https://siliconangle.com/2023/05/15/together-raises-20m-decentralize-open-source-ai-model-creation/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/05/image_2023-05-16_091657940.png"
+        width: 599
+        height: 402
+        isCached: true
+  - title: "Pecan AI Opens Platform and Fast Predictive Modeling for All Data Professionals"
+    excerpt: "Platform now open to all users for free trials of fast, easy-to-use predictive modeling, accessible to all business teams Pecan AI, the leader in AI-based predictive analytics for BI analysts and business teams,"
+    publishedDateTime: 2023-05-17T17:35:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/05/b32451257/pecan-ai-opens-platform-and-fast-predictive-modeling-for-all-data-professionals"
+    ampWebUrl: "https://www.benzinga.com/amp/content/32451257"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32451257"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 35
+  - title: "Together raises $20m seed funding to build open-source AI models"
+    excerpt: "On a mission to take on existing big players in generative AI, Together wants to ensure an accessible future for the technology."
+    publishedDateTime: 2023-05-16T07:56:00Z
+    webUrl: "https://www.siliconrepublic.com/start-ups/together-ai-models-generative-cloud-seed-funding-vipul-ved-prakash"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 19
+  - title: "Pecan AI Opens Platform and Fast Predictive Modeling for All Data Professionals"
+    excerpt: "Data analysts and other data professionals can dive right in and quickly build their own predictive models without the assistance of data scientists — a critical step toward making data science available for all business teams."
+    publishedDateTime: 2023-05-18T18:25:00Z
+    webUrl: "https://www.datanami.com/this-just-in/pecan-ai-opens-platform-and-fast-predictive-modeling-for-all-data-professionals/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 15
 
 secured: "LlUK5E9V+J8uPnsPveZskmKTEFkuKxeXjSti8KOfiTiOWlZadnFrMZrELVMXwtiJJQ3m8lIOvN7QZfe6iJBq/i+3PM0Jc1RKYAMceEc/J/EFgUxM+zchyOTDZkeuYwb36aIMqHe2oC77+Tj5D+NcByBOrP3VJtyFuuoWCsf8ynv/43P4t2vGdavN1a5Ze/wWDv6ej8peFsFapBPSGCE+/bAz2pIWL8xaHGBBpjbmnX+oSxhF2G6q8/hlAQDHeUe11dIV4jruc8fOkhqBMC2ZDm+Fk/vKP/wA7bhsAi07hkaKHwQyLKmTiCwy9DGpZXkMXHV05ncUr5mzCU+TYzZapa5jEtmOliM/oNouybgVnS7NUFkgtZtjs6c8PHDjQ+f4C4iQa8/Gn9EYTrlkadJydXMgIJor5of+3N8qlqjfexrb1Ag1idPSCbsQyBlHlvCh68Wz9WP69cRy3df1B0VOGRD+sV6lt8EamWKpBuLftf/JHqkFWWhUSQoUuXxSE2UfnDIM9xLPG1aBx7JI3t3y5A==;Ih3aoxrEMDIGyB4JQYrN+g=="
 ---

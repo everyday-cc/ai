@@ -65,15 +65,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 47
-  - title: "Zoom makes a big bet on AI with investment in Anthropic"
-    excerpt: "Zoom today announced a partnership with Anthropic to integrate its Claude AI assistant across its platform offerings."
-    publishedDateTime: 2023-05-16T18:07:00Z
-    webUrl: "https://venturebeat.com/ai/zoom-makes-a-big-bet-on-ai-with-investment-in-anthropic/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 47
 
 secured: "ZBOg2KJi+i/eKt3KI/Xx1JjMdMX3h65UNVWAJEUfqiOVHXoBEGX/OQFyQm7UM3cqPB5UrJ23dCXOnCMmMfSaHnXTDzDHsNFT7Ie/CRn9RBIQADBIQcvYnEWCE6sQtjXmN70vFEDYXT6aGBJG21RKLkDrrp+HTUvM7+I/0sJo8Kbano0N20eNvajg2GcgtwhuC3aHZ5i5whqK7Qo+WlDeHRFRc45LWJaresEg4KlG4+aQNK+0cf10YjllwoDmHm3VETX+U39tRLqrzpCCSWMKEZBsRgk+XNXxfTpf0dq3xwwjYjZ09jbwGDEd9aGh1VDyIZPJb+QRhACV0hdo5sEYxPL+oLcF6ri6E92wXhW9LRA=;wChhEDQRHqXNJPH2GIrMaw=="
 ---

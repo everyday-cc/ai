@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/trump-supporters-christians-most-con
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-supporters-christians-most-concerned-ai-threat-humanity-poll-2023-5?amp"
 type: article
 quality: 68
-heat: 78
+heat: 88
 published: true
 
 provider:
@@ -30,6 +30,15 @@ images:
     isCached: true
 
 related:
+  - title: "Why The Existential Threat Of AI May Be Overblown"
+    excerpt: "OpenAI CEO Sam Altmans's recent Congressional testimony has led to a national conversation about the potential existential risks stemming from artificial intelligence."
+    publishedDateTime: 2023-05-18T19:22:00Z
+    webUrl: "https://www.forbes.com/sites/jamesbroughel/2023/05/18/why-the-existential-threat-of-ai-may-be-overblown/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "Artificial Intelligence: Existential Threat and Litmus Test"
     excerpt: "A.I. raises many existential questions, such as the meaning of human life and freedom. Developing A.I. safely may come down to the ability of humans to effectively collaborate. “It’s as if aliens had landed, but we didn’t really take it in because they speak good English.”— Geoffrey Hinton, the “godfather of A.I.” on PBS NewsHour"
     publishedDateTime: 2023-05-16T19:41:00Z

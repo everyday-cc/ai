@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "CAST AI Slashes Cloud Costs for Organizations that Build, Train and Run Artificial Intelligence (AI) Applications"
+    excerpt: "CAST AI introduced a series of new features into its platform, designed to dramatically reduce cloud costs for organizations."
+    publishedDateTime: 2023-05-18T12:05:00Z
+    webUrl: "https://enterprisetalk.com/news/cast-ai-slashes-cloud-costs-for-organizations-that-build-train-and-run-artificial-intelligence-ai-applications/"
+    ampWebUrl: "https://enterprisetalk.com/news/cast-ai-slashes-cloud-costs-for-organizations-that-build-train-and-run-artificial-intelligence-ai-applications/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/cast-ai-slashes-cloud-costs-for-organizations-that-build-train-and-run-artificial-intelligence-ai-applications/amp/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 57
+    images:
+      - url: "https://enterprisetalk.com/wp-content/uploads/2023/05/CAST-AI-Slashes-Cloud-Costs-for-Organizations-that-Build-Train-and-Run-Artificial-Intelligence-AI-Applications.jpg"
+        width: 700
+        height: 400
+        isCached: true
   - title: "Can any organization train generative AI models? CAST AI brings it a step closer"
     excerpt: "CAST AI specializes in optimizing cloud costs, specifically around Kubernetes. Today it is coming out with new features within the platform that it uses"
     publishedDateTime: 2023-05-17T21:39:00Z
@@ -40,16 +56,7 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "CAST AI Slashes Cloud Costs for Organizations that Build, Train and Run Artificial Intelligence (AI) Applications"
-    excerpt: "CAST AI introduced a series of new features into its platform, designed to dramatically reduce cloud costs for organizations."
-    publishedDateTime: 2023-05-18T12:05:00Z
-    webUrl: "https://enterprisetalk.com/news/cast-ai-slashes-cloud-costs-for-organizations-that-build-train-and-run-artificial-intelligence-ai-applications/"
-    type: article
-    provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 15
 
-secured: "Q9SDNUJGcnjwPD+ST6V9G9Io4gPNH+0LkcqLdhD7q3YfGk/2dagPAfirmHUrNiG837DAG0rWsYuIU58ysMzHUNLIVmh+upm9V6hT51Cz/uFy4dtiOJUkS/0euDEu4XmUu+Gc3BVSS6GRl4c8xn0++ZF7Hua8cO65f42PPNY+62Axmsa5Dsln+skqBl/gVOk05IwtT7ZsxNw0u3kKGzgUcOnjems+qZm3FvulpbEvQVGyOfb8QZPPMwr46YY7t/OYBL19+yXTbOrhMbQMeSYLsIkEKkdbg817GcQMZEhq3Rei3EKcTktAiMP0L5kVmqDRjMFOZFdbDAyrlHh42PRu5N9LCnD8CGC1ptACkKAArkQ=;JWb2Mk0phOSenNt8o7aiaw=="
+secured: "XfCOX2X9kzLK3m3eyeDiJuNC9R/MS3nVQzgvfE8ZQb4oBw4TjwFY2+AN28Lq+pjazmw40QsIJJLwSFuSwXqT81wCXn8aSr1oLhXqSeL18ca1hNDtDiQ6Hmx18mwOHBXRO1fjX1bm35wukzw0VRT303JdUqGv8ThKUsvs3HY7ZgQTl458Wmz4FVux9SEsLLp6uKTe7UFjwCgEbvi81wW8Qyffi5D06W680yELjjoSGOo8T7Cq2EGTRP94GJKwT7mtyJH7FOy90cwkEWjzTiBYCXZvMrdxLN0dJ2iKYkeweAv/OlU6HUUi3RH/lbt+Rn8U5Ppe/4N37W1SMZ3mV05mtS5t6F4ck5r9L+mzU81U0uwQX5hwV7CTiLEUxKBpZNJ9cIhdEdWpF3dLVFVQdJJM0ycJN7vTx+RXVGNX+0h8QfEkaLCqENIgtE6MgozUu6RH5KqaCTOWbrbswtyTCdDhwF1Fv1/HKx0A8aOiGTL4P3t/oAqFq/fJemWrULvQJeNyWbhx3jusVxKfV/fzZDZcUA==;ymQoNxNsXYfywnaIcFIGOA=="
 ---
 

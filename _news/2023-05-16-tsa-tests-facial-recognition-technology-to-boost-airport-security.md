@@ -101,20 +101,20 @@ related:
         height: 630
         isCached: true
   - title: "Are you who you say you are? TSA tests facial recognition technology to boost airport security"
-    excerpt: "The Transportation Security Administration has started using facial recognition technology at a number of airports across the country."
-    publishedDateTime: 2023-05-15T21:49:00Z
-    webUrl: "https://www.boston.com/travel/technology/2023/05/15/are-you-who-you-say-you-are-tsa-tests-facial-recognition-technology-to-boost-airport-security/"
-    ampWebUrl: "https://www.boston.com/travel/technology/2023/05/15/are-you-who-you-say-you-are-tsa-tests-facial-recognition-technology-to-boost-airport-security/?amp=1"
-    cdnAmpWebUrl: "https://www-boston-com.cdn.ampproject.org/c/s/www.boston.com/travel/technology/2023/05/15/are-you-who-you-say-you-are-tsa-tests-facial-recognition-technology-to-boost-airport-security/?amp=1"
+    excerpt: "A pilot project by the Transportation Security Administration assesses the use of facial recognition technology at a number of airports."
+    publishedDateTime: 2023-05-16T16:18:00Z
+    webUrl: "https://abc7.com/tsa-facial-recognition-airport-security-transportation-administration/13250231/"
+    ampWebUrl: "https://abc7.com/amp/tsa-facial-recognition-airport-security-transportation-administration/13250231/"
+    cdnAmpWebUrl: "https://abc7-com.cdn.ampproject.org/c/s/abc7.com/amp/tsa-facial-recognition-airport-security-transportation-administration/13250231/"
     type: article
     provider:
-      name: Boston.com
-      domain: boston.com
+      name: ABC7
+      domain: abc7.com
     quality: 79
     images:
-      - url: "https://www.boston.com/wp-content/uploads/2023/05/Facial_Recognition_Airports_79172-6461bb4fb69eb-scaled.jpg"
-        width: 2560
-        height: 1708
+      - url: "https://cdn.abcotvs.com/dip/images/10994202_090221-cc-ap-tsa-generic-img.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Are you who you say you are? TSA tests facial recognition technology to boost airport security"
     excerpt: "A pilot project by the Transportation Security Administration assesses the use of facial recognition technology at a number of airports."
@@ -180,22 +180,6 @@ related:
         width: 2560
         height: 1707
         isCached: true
-  - title: "TSA is testing facial recognition at more airports, raising privacy concerns"
-    excerpt: "The agency tasked with securing America's airports is testing the use of facial recognition technology at a number of airports across the country"
-    publishedDateTime: 2023-05-15T20:16:00Z
-    webUrl: "https://abcnews.go.com/US/wireStory/tsa-tests-facial-recognition-technology-boost-airport-security-99322460"
-    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/tsa-tests-facial-recognition-technology-boost-airport-security-99322460"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/tsa-tests-facial-recognition-technology-boost-airport-security-99322460"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 71
-    images:
-      - url: "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "TSA is testing facial recognition technology at more airports, raising privacy concerns"
     excerpt: "The Transportation Safety Administration says the technology is an effort to more accurately identify the millions of passengers traveling through its airports every day and that passengers can opt out."
     publishedDateTime: 2023-05-15T20:23:00Z
@@ -243,6 +227,20 @@ related:
       - url: "https://i.guim.co.uk/img/media/973bd12a9c69e4d93f70f9900a8300f9e302bb63/0_93_5312_3187/master/5312.jpg?width=620&quality=85&auto=format&fit=max&s=cea2774a8b212916ecedeb4e5451b693"
         width: 620
         height: 372
+        isCached: true
+  - title: "TSA tests facial recognition technology at airports"
+    excerpt: "“What we are trying to do with this is aid the officers to actually determine that you are who you say who you are,” Jason Lim, identity management capabilities manager, said while presenting the technology to reporters at Baltimore-Washington ..."
+    publishedDateTime: 2023-05-16T08:15:00Z
+    webUrl: "https://www.washingtonexaminer.com/policy/defense-national-security/tsa-facial-recognition-technology-airports"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 56
+    images:
+      - url: "https://mediadc.brightspotcdn.com/dims4/default/0ce2bdc/2147483647/strip/true/crop/7002x3676+0+497/resize/1200x630!/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2F58%2F7d%2Fe6ddca124d91893393e7fde18609%2Fap23116691163494.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Police to use facial recognition technology in Cardiff during Beyoncé concert"
     excerpt: "Police will deploy technology in city centre to identify wanted individuals, leading to warning use of invasive surveillance becoming normalised"
@@ -306,6 +304,15 @@ related:
         width: 986
         height: 555
         isCached: true
+  - title: "TSA's Facial Recognition Tech Raises Questions About Bias and Data Security"
+    excerpt: "Analysts and lawmakers are concerned about a new TSA program that instructs passengers to insert their IDs into a machine and takes a pictures of them."
+    publishedDateTime: 2023-05-18T19:34:00Z
+    webUrl: "https://reason.com/2023/05/18/tsas-facial-recognition-tech-raises-questions-about-bias-and-data-security/"
+    type: article
+    provider:
+      name: Reason
+      domain: reason.com
+    quality: 49
   - title: "Facial Recognition Takes Flight: Is San Jose Airport Ready for the Privacy Debate?"
     excerpt: "As facial recognition technology continues to be implemented in airports across the country, including San Jose's, debate over the technology's implications for privacy, data collection, and bias issues grows."
     publishedDateTime: 2023-05-15T20:51:00Z
@@ -445,6 +452,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "TSA is testing facial recognition at more airports, raising privacy concerns"
+    excerpt: "The agency tasked with securing America's airports is testing the use of facial recognition technology at a number of airports across the country."
+    publishedDateTime: 2023-05-16T00:50:00Z
+    webUrl: "https://www.cbsnews.com/detroit/news/are-you-who-you-say-you-are-tsa-tests-facial-recognition-technology-to-boost-airport-security-3/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 31
   - title: "TSA testing facial recognition at BWI and other airports, raising privacy concerns"
     excerpt: "A pilot project by the Transportation Security Administration aims to assess the use of facial recognition technology at a number of airports across the country."
     publishedDateTime: 2023-05-15T19:54:00Z

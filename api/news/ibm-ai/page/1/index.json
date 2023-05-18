@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-05-18-ibm-named-a-leader-in-the-latest-forrester-wave-report-for-ai-decisioning.md",
+      "title": "IBM named a Leader in the latest Forrester Wave™ report for AI Decisioning",
+      "excerpt": "Forrester Research just released the latest Forrester Wave™ report, and IBM is proud to be recognized as a Leader. \nThe post IBM named a Leader in the latest Forrester Wave™ report for AI Decisioning appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/ibm-named-a-leader-in-the-latest-forrester-wave-report-for-ai-decisioning/",
+      "originalUrl": "https://www.ibm.com/blog/ibm-named-a-leader-in-the-latest-forrester-wave-report-for-ai-decisioning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-18T11:25:13-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-18-ibm-hybrid-cloud-mesh-reimagining-multicloud-networking-with-applications-taking-center-stage.md",
       "title": "IBM Hybrid Cloud Mesh: Reimagining multicloud networking with applications taking center stage",
       "excerpt": "With the launch of IBM Hybrid Cloud Mesh, application-centric connectivity helps you take back control of enterprise networking.\nThe post IBM Hybrid Cloud Mesh: Reimagining multicloud networking with applications taking center stage appeared first on IBM Blog.\n",
@@ -61,7 +104,7 @@
       "originalUrl": "https://www.forbes.com/sites/tiriasresearch/2023/05/17/build-better-ai-for-enterprise-and-hybrid-cloud-with-ibms-watsonx/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 136,
+      "heat": 146,
       "tags": null,
       "images": [
         {
@@ -749,58 +792,6 @@
       ]
     },
     {
-      "path": "_news/2023-05-10-ibm-resurrects-watson-to-ride-the-ai-hype-train.md",
-      "title": "IBM Resurrects Watson to Ride the AI Hype Train",
-      "excerpt": "IBM debuted the Watson brand more than a decade ago, but the tech giant has been unable to turn it into a successful product. IBM is repurposing the brand for its watsonx suite of AI products ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/05/10/ibm-resurrects-watson-to-ride-the-ai-hype-train/",
-      "originalUrl": "https://www.fool.com/investing/2023/05/10/ibm-resurrects-watson-to-ride-the-ai-hype-train/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/731710/artificial-intelligence-1.jpg",
-          "width": 2121,
-          "height": 1414,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-10T08:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-05-10-seven-strategic-bets-to-capitalize-on-disruption-and-redefine-your-business.md",
       "title": "Seven strategic bets to capitalize on disruption and redefine your business",
       "excerpt": "The future belongs to those willing to transform their business with bold, informed bets. Based on today's top trends, here are seven business bets to make.\nThe post Seven strategic bets to capitalize on disruption and redefine your business appeared first on IBM Blog.\n",
@@ -849,6 +840,40 @@
       ],
       "topics": [
         "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-10-ibm-resurrects-watson-to-ride-the-ai-hype-train.md",
+      "title": "IBM Resurrects Watson to Ride the AI Hype Train",
+      "excerpt": "International Business Machines (NYSE: IBM) is responsible for one of the most iconic moments in the history of artificial intelligence. Back in 2011, its Watson AI system won a three-game Jeopardy!",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/ibm-resurrects-watson-to-ride-the-ai-hype-train",
+      "originalUrl": "https://www.nasdaq.com/articles/ibm-resurrects-watson-to-ride-the-ai-hype-train",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-10T04:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
       ]
     },
     {
@@ -1433,49 +1458,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-08-the-risks-and-limitations-of-ai-in-insurance.md",
-      "title": "The risks and limitations of AI in insurance",
-      "excerpt": "After examining the world of opportunities between AI and the insurance industry, it's time to investigate the risks of AI and how to adopt AI responsibly.\nThe post The risks and limitations of AI in insurance appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/the-risks-and-limitations-of-ai-in-insurance/",
-      "originalUrl": "https://www.ibm.com/blog/the-risks-and-limitations-of-ai-in-insurance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 209,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-08T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

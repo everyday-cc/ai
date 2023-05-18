@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2023-05-18/reino-unido-pla
 webUrl: "https://www.bloomberg.com/news/articles/2023-05-18/reino-unido-planea-reunion-con-openai-deepmind-sobre-riesgos-ia"
 type: article
 quality: 84
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -28,6 +28,17 @@ images:
     height: 639
     isCached: true
 
-secured: "0+tusj064DDU8BKEeClk07Oc20orGzk1eg69iYxmbbIK+RCR10K1di6HBEBZa4UjYo0H2a7hK5Gk9tNwpZ3HOk4mjxWoeC7iIpaJPY1nm2r3aHHiDTkLp9AQZ7yjIpeqDeTAnLBJgXgxA7dF0cQu84QfGc9DBbYpmvk6zPQmYyBw8WYxLO1kc5M0CEZD6GUq336+Dq66IoqIMpAy3N96PQbAmZATyWFIatPiDeeIiJ6clQ65aLPs6tR+qjGUZ2nn2HwbIj6/c46Z97XO9Mtln1ZIZDNLzwSSS+HxlB8JwrwSzv+Vhw8UCCl3UjkneUBCErh3Zu0S/Ypnsu8McImXGSMvUgfNidt6MwfiCSEPDcU=;4jcX11BEy+cAIBcX5qhZxA=="
+related:
+  - title: "UK plans meeting on risks with bosses of OpenAI, DeepMind"
+    excerpt: "The summit will be convened as soon as this month, with invitations likely for OpenAI chief Sam Altman and the leaders of Alphabet Inc.'s DeepMind and Anthropic, the people said. Sunak could be among officials in attendance,"
+    publishedDateTime: 2023-05-18T18:51:00Z
+    webUrl: "https://economictimes.indiatimes.com/news/international/business/uk-plans-meeting-on-risks-with-bosses-of-openai-deepmind/articleshow/100338441.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 34
+
+secured: "YrfHhDKCdhRMEnNocyacrL262OunICXehbccWTh7Nq3fuv397NVWsiHr5qEpHueQDNfOVuWGJ2z5Tl18DKH3Oh4NSATcnfTkWx9Ky3FiN6xF8drF8cwrAKuQdlQcZfROkH/uDIKYPnX8Z6qWNKwgSoud/BQHmU432cmAGVYDUk6DakqCL2ZhkqNPHAQbyCyUR2hsEcwG9O+GqKhd97lwEZ2MDeKlSWu6jmdpKO/5MD3A9gAvXQ3HAC4RHoirD33oaJusct03U8sboXjsQU5UBtR7db24bNe5McaqGrjdoaEd2qPPYPikrMUii9oX87Gvw78idBqOGKc6lBxIMUAXXx5knbJodwQe87BVsvi6hexCnlM4r5w8q7m/nwExocxyyKauKyQkTB5N3EHgGe8B+b5Hjf5oTobo5G5jNvFKV7d3lt6tzo2xC/aLMIZ03cFUsKgEYI9fqXF3qSbUnnw7oTwfnhtnHLpd7S1qUIA6qSwuRgH6pu+6kLrSH8c5zJaUd+JVXt9NOHoJYQqYMYUxIg==;KOAjicIHY8qjmwlNTMdykg=="
 ---
 

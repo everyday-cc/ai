@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/these-4-popular-microsoft-a
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/these-4-popular-microsoft-apps-are-getting-a-big-ai-boost/"
 type: article
 quality: 106
-heat: 326
+heat: 346
 published: true
 
 provider:
@@ -221,6 +221,20 @@ related:
       name: News Track
       domain: newstracklive.com
     quality: 54
+  - title: "Microsoft Previews AI-Based Code Optimizations for .NET Apps"
+    excerpt: "Azure Monitor users can now try a public preview of Code Optimizations to detect performance issues with their .NET apps and services, per a Thursday Microsoft announcement."
+    publishedDateTime: 2023-05-18T21:44:00Z
+    webUrl: "https://redmondmag.com/articles/2023/05/18/microsoft-code-optimizations-preview.aspx"
+    type: article
+    provider:
+      name: Redmond Magazine
+      domain: redmondmag.com
+    quality: 54
+    images:
+      - url: "https://redmondmag.com/-/media/ECG/visualstudiomagazine/Images/introimages/Debug.jpg"
+        width: 647
+        height: 450
+        isCached: true
   - title: "SAP, Microsoft Collaborate on Joint Generative AI Offerings to Address Talent Gap"
     excerpt: "SAP SE and Microsoft announced their use of the latest in enterprise-ready generative AI innovation to help solve customers’ most fundamental business challenges. The companies will collaborate on integrating SAP SuccessFactors solutions with Microsoft 365 Copilot and Copilot in Viva Learning,"
     publishedDateTime: 2023-05-17T15:30:00Z
@@ -308,6 +322,15 @@ related:
       name: Indiatimes
       domain: indiatimes.com
     quality: 19
+  - title: "Check Point Software extends its Industry-Leading Cloud Firewall to Secure Microsoft Azure Virtual WAN"
+    excerpt: "Check Point® Software Technologies Ltd. (NASDAQ: CHKP), a leading provider of cyber security solutions globally, announces the general availability of its industry-leading Next-Generation Cloud Firewall natively integrated with Microsoft Azure Virtual WAN to provide customers with top-notch security."
+    publishedDateTime: 2023-05-18T21:27:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-check-point-software-extends-its-industry-leading-cloud-/2023/05/18/9817479.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 18
 
 secured: "Bv4q0450ilUa9yOTQv7KV46BBDcgfxhMF4QTHBq52opMUWosGtZbBiF++DJfESa2aHZrWE1oYAckw0gI226i7tnzjOMhGeZaLoYL1yb/VKzFhxwOb4t5FAZV5x/6ma0ws64D/KhnuwshIfHM6dUg2vZFAI7oBhHavjiiha40qcbqDRCDu4tgs0cSif0e8Z7muXczN/N1jasA7h71V04LtIUI2lWdgREQwti+zrCpR00ki0/k7Ta7QyLkLi1VwXehfjMGzvxSB5aFaOOsFn03IlXdXToIlaKMiDbu0Y5pYFr5+S20gLXmQKWwpWWkig8Js7iSUTkgwOsfTyyecP6AdwgMspr3BE0pXaRmUwWDA5kg7Rag5UxDLgl0gJNP4ykynQq9wrC+mU65mIvoQOJ2HWU2QQn0dSfNJ8AliiUL7xQfA42TWyUBkW8VnWlSjY6Qlj7BSL4JSb323H136+RBylScnGtnFTgRiqdVbuF8aAvK8ShJyAMCec9qq58D8yRf5QTCNjiX6bYVLUtIMHi/GQ==;vBZErKxQ3n0svMC7UbKJzw=="
 ---

@@ -220,6 +220,20 @@ related:
       name: News Track
       domain: newstracklive.com
     quality: 54
+  - title: "Microsoft Previews AI-Based Code Optimizations for .NET Apps"
+    excerpt: "Azure Monitor users can now try a public preview of Code Optimizations to detect performance issues with their .NET apps and services, per a Thursday Microsoft announcement."
+    publishedDateTime: 2023-05-18T21:44:00Z
+    webUrl: "https://redmondmag.com/articles/2023/05/18/microsoft-code-optimizations-preview.aspx"
+    type: article
+    provider:
+      name: Redmond Magazine
+      domain: redmondmag.com
+    quality: 54
+    images:
+      - url: "https://redmondmag.com/-/media/ECG/visualstudiomagazine/Images/introimages/Debug.jpg"
+        width: 647
+        height: 450
+        isCached: true
   - title: "SAP, Microsoft Collaborate on Joint Generative AI Offerings to Address Talent Gap"
     excerpt: "SAP SE and Microsoft announced their use of the latest in enterprise-ready generative AI innovation to help solve customers’ most fundamental business challenges. The companies will collaborate on integrating SAP SuccessFactors solutions with Microsoft 365 Copilot and Copilot in Viva Learning,"
     publishedDateTime: 2023-05-17T15:30:00Z
@@ -307,6 +321,15 @@ related:
       name: Indiatimes
       domain: indiatimes.com
     quality: 19
+  - title: "Check Point Software extends its Industry-Leading Cloud Firewall to Secure Microsoft Azure Virtual WAN"
+    excerpt: "Check Point® Software Technologies Ltd. (NASDAQ: CHKP), a leading provider of cyber security solutions globally, announces the general availability of its industry-leading Next-Generation Cloud Firewall natively integrated with Microsoft Azure Virtual WAN to provide customers with top-notch security."
+    publishedDateTime: 2023-05-18T21:27:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-check-point-software-extends-its-industry-leading-cloud-/2023/05/18/9817479.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 18
 
 secured: "y7DXLsmJm9tQ3x2tbBgYAP0n6o1Sm3KsmoM+6XIya0ympSIl0KQ6Q3O2QL/63Ncfr6iwXnqvMfHxkWtTzpmBgdObhOTHJBGsDmljP4NxEdwgNhevHc58ukDf5feEUDUHOz38FWaBH3DLvslJTXJTc6iwvLiF8iPHCRffJFpPQ/+Nx1qdqWmCM/02Jl24D6lmKueWbVgpEc/wglO/3ANN4pxoKcJ78tkdfgxbUMvceuU/o9Ov0FiD+VuZ27qTkJOkC5t4utdmQyrv4TpY/A4CKA6vJzBwcY6I2p8b+cD6vNde6WmDqmZ4Aad8D+ZYtrM/Jc2dKAcNg9YPw5WNTWv2BHiFwcZfpDurG9eS522WO1cs7yXoS9/vLPb5WDxoLBFapfvdmtzxpV1fOlSfZmlJIKhRb8djnLlVR0nF9qlAYHCeHV4wWWMjyZRVWX+HKxTs+UsIAC1D0E+zB3hAwpNeUySMk6iV8BCQ47gwJaP5eljflBJ5IWwcF7aWN1kfDCTWRYfQ49fuZo9i2/QifFrGZw==;dt51JOkoCfXozgCcz+fq5g=="
 ---

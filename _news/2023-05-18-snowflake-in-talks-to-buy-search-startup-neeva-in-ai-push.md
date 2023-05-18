@@ -6,8 +6,8 @@ publishedDateTime: 2023-05-17T20:36:00Z
 originalUrl: "https://www.theinformation.com/articles/snowflake-in-talks-to-buy-search-startup-neeva-in-ai-push"
 webUrl: "https://www.theinformation.com/articles/snowflake-in-talks-to-buy-search-startup-neeva-in-ai-push"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://tii.imgix.net/production/articles/10515/f90b0f18-4366-468c-b583-288dc4052721.png?fm=jpg&auto=compress&w=1200&frame=0"

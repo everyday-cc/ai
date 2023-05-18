@@ -22,61 +22,110 @@ topics:
   - AI
 
 related:
-  - title: "Zoom adds an AI assistant named Claude"
-    excerpt: "Zoom just announced a strategic partnership with Anthropic, an artificial intelligence company that conducts research into AI safety and develops tools based on that work. The collaboration will integrate Anthropic's AI assistant, Claude, into the Zoom platform, including the Zoom Contact Center."
-    publishedDateTime: 2023-05-16T15:57:00Z
-    webUrl: "https://www.zdnet.com/article/zoom-adds-an-ai-assistant-named-claude/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/zoom-adds-an-ai-assistant-named-claude/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/zoom-adds-an-ai-assistant-named-claude/"
+  - title: "Big-name investors are going all-in on AI"
+    excerpt: "The Tiger Global founder told investors to buy the so-called FAANG stocks – shorthand for Facebook parent Meta ... It's not just individual investors who are caught up in the AI fanfare. In a research note last month, Morgan Stanley said that 2023 ..."
+    publishedDateTime: 2023-05-18T12:40:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/billionaire-investors-ai-chatgpt-bill-ackman-stanley-druckenmiller-big-tech-2023-5"
+    ampWebUrl: "https://markets.businessinsider.com/news/stocks/billionaire-investors-ai-chatgpt-bill-ackman-stanley-druckenmiller-big-tech-2023-5?amp"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/news/stocks/billionaire-investors-ai-chatgpt-bill-ackman-stanley-druckenmiller-big-tech-2023-5?amp"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 87
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 89
     images:
-      - url: "https://www.zdnet.com/a/img/resize/4f754c9459ab8f8dc50dc11d25722250ef2b3b58/2023/05/15/511372b9-5860-453d-8962-a298f453f18c/zoom-robot.jpg?auto=webp&fit=crop&height=675&width=1200"
+      - url: "https://i.insider.com/62e3b3a0e1179200195ee85b?width=1200&format=jpeg"
         width: 1200
-        height: 675
+        height: 600
         isCached: true
-  - title: "Zoom Funds in AI Startup Anthropic"
-    excerpt: "Zoom Video Communications Inc., had funded Anthropic with an undisclosed sum and will integrate the AI startup's technology into its video-conferencing tool."
-    publishedDateTime: 2023-05-17T14:42:00Z
-    webUrl: "https://enterprisetalk.com/quick-bytes/zoom-funds-in-ai-startup-anthropic/"
-    ampWebUrl: "https://enterprisetalk.com/quick-bytes/zoom-funds-in-ai-startup-anthropic/amp/"
-    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/zoom-funds-in-ai-startup-anthropic/amp/"
+  - title: "Corporate Investors Cut Bigger Checks for AI Startups"
+    excerpt: "Brushing aside the broader slump in venture capital, corporate VCs want access to cutting-edge business tools, and perhaps an acquisition later on."
+    publishedDateTime: 2023-05-16T10:00:00Z
+    webUrl: "https://www.wsj.com/articles/corporate-investors-cut-bigger-checks-for-ai-startups-f1adbd2d"
     type: article
     provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 57
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
     images:
-      - url: "https://enterprisetalk.com/wp-content/uploads/2023/05/Zoom-Funds-in-AI-Startup-Anthropic.jpg"
-        width: 1500
-        height: 844
+      - url: "https://images.wsj.net/im-782303/social"
+        width: 1280
+        height: 640
         isCached: true
-  - title: "Zoom adds its own AI assistant named Claude"
-    excerpt: "Zoom just announced a strategic partnership with Anthropic, an artificial intelligence company that conducts research into AI safety and develops tools based on that work. The collaboration will integrate Anthropic's AI assistant, Claude, into the Zoom platform, including the Zoom Contact Center."
-    publishedDateTime: 2023-05-16T13:00:00Z
-    webUrl: "https://www.zdnet.com/article/zoom-adds-its-own-ai-assistant-named-claude/"
+  - title: "Although AI is a Bubble, It’s Still Investible"
+    excerpt: "Sam Altman, the CEO of OpenAI, which brought us ChatGPT, has gone to Congress to demand regulatory oversight of Artificial Intelligence (AI)"
+    publishedDateTime: 2023-05-18T19:09:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/although-ai-is-a-bubble-it-s-still-investible-1032338366"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 47
-  - title: "Zoom Introduces Claude AI Integration"
-    excerpt: "The new integration will launch for Zoom Contact Center first, but the plan is to roll it out to other services soon."
-    publishedDateTime: 2023-05-17T20:36:00Z
-    webUrl: "https://tech.co/news/zoom-claude-ai-assistant-integration"
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
+  - title: "Tracking Generative AI: How Evolving AI Models Are Impacting Legal"
+    excerpt: "A running compilation of how the legal landscape continues to be shaped by generative AI tools, from GPT technologies to art generation tools and beyond."
+    publishedDateTime: 2023-05-15T02:06:00Z
+    webUrl: "https://www.law.com/legaltechnews/2023/05/14/tracking-generative-ai-how-evolving-ai-models-are-impacting-legal/"
     type: article
     provider:
-      name: Tech.co
-      domain: tech.co
-    quality: 37
+      name: Law
+      domain: law.com
+    quality: 39
     images:
-      - url: "https://images.tech.co/wp-content/uploads/2022/02/16131910/zoom-mobile-headphones-e1645035611260.jpeg"
-        width: 1920
-        height: 960
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/01/Numbers-Artificial-Intelligence-767x633.jpg"
+        width: 767
+        height: 633
         isCached: true
+  - title: "Four Places to Invest in AI That Are Better Than IBM"
+    excerpt: "These days, it's almost impossible to keep up with artificial intelligence (AI), but I try to stay updated by testing a new AI application every week to learn more about its potential. This week, I tested SignGuard-an AI tool that uses deep learning to distinguish between genuine and forged signatures."
+    publishedDateTime: 2023-05-15T21:05:00Z
+    webUrl: "https://moneymorning.com/investing/four-places-to-invest-in-ai-that-are-better-than-ibm/"
+    type: article
+    provider:
+      name: Money Morning
+      domain: moneymorning.com
+    quality: 39
+    images:
+      - url: "https://moneymorning.com/wp-content/blogs.dir/1/files/2022/06/crypto-syndication.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Tracking Generative AI: How Evolving AI Models Are Impacting Legal"
+    excerpt: "A running compilation of how the legal landscape continues to be shaped by generative AI tools, from GPT technologies to art generation tools and beyond."
+    publishedDateTime: 2023-05-16T01:23:00Z
+    webUrl: "https://www.law.com/dailyreportonline/2023/05/14/tracking-generative-ai-how-evolving-ai-models-are-impacting-legal/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 39
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/01/Numbers-Artificial-Intelligence-767x633.jpg"
+        width: 767
+        height: 633
+        isCached: true
+  - title: "How to invest in artificial intelligence"
+    excerpt: "But there is one area in which the firm, run by Son Masayoshi, its charismatic founder, wants to peek above the parapet: investments in artificial intelligence (ai). Investors face two questions. The first is which frontier technologies will make market leaders a fortune."
+    publishedDateTime: 2023-05-17T16:30:00Z
+    webUrl: "https://www.economist.com/finance-and-economics/2023/05/17/how-to-invest-in-artificial-intelligence"
+    type: article
+    provider:
+      name: The Economist
+      domain: economist.com
+    quality: 39
+    images:
+      - url: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20230520_FNP502.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Senators use hearings to explore regulation on artificial intelligence"
+    excerpt: "The chairman of a Senate Judiciary panel said Tuesday that Congress should act soon to regulate artificial intelligence."
+    publishedDateTime: 2023-05-16T17:59:00Z
+    webUrl: "https://rollcall.com/2023/05/16/senators-use-hearings-to-explore-regulation-on-artificial-intelligence/"
+    type: article
+    provider:
+      name: Roll Call
+      domain: rollcall.com
+    quality: 17
 
 secured: "h5xfmy9dL9zV8lDgAE/qImDrIwKcPLLl78S9QLMbE9xI+wxNu7klkZUuaDUb1bc6lVhVGCSy1t22tLoJqhuOYCGGdO6BFwrQH165bxJNX4DcoQ7YIrCuY16xPE/SXlBDtrSP3yhGIXtwKM0ftDO81/ds0QSwNJFQiG7xTUqnBFHj/2iuYdUeu0tBoV1LIhiZbFRQ5CWGLnRNdJXzNV2RbFlpy5cnUpGtYn10VUSaIfJp+gA/0nlukzmtqMsvvVrIQHomIbc6f0cnbz+gsFvnw58kKA4w0zHSPRPGIGksI4fGk6l6m1KN1/vj2gyGilSii5TU+j4DtbBei1zAWhGYO8tc7/ELQiSkmzCV4jJSMnk=;J2aBrPbwaCowWNPGbskdFA=="
 ---

@@ -114,15 +114,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 28
-  - title: "Together raises $20m seed funding to build open-source AI models"
-    excerpt: "On a mission to take on existing big players in generative AI, Together wants to ensure an accessible future for the technology."
-    publishedDateTime: 2023-05-16T07:56:00Z
-    webUrl: "https://www.siliconrepublic.com/start-ups/together-ai-models-generative-cloud-seed-funding-vipul-ved-prakash"
-    type: article
-    provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 19
 
 secured: "tII9R0dDZfcCHXc2POXjLUUm6vn6AhIlkbDlTpQoQaPgIs0x67tUw/1B8kwOJbixNDeObBspNOPLMfgTcvkhO2r72cHM9+fv+cT2xlq2PHr1MfiXz0YIiNxML/noe8Bl1mK7dzA3RmCkI31bEMt19ejIpnH2EVTV0iabWl64W0/CkWVQETWNd9Sr+F4mg92OD4nF6+NnE/T9SWjtp309b3r5rzj+9eoolMkWiCNo+xyahu2tuokU7cY6ixaQAdOIPcIhWhY32HEcj5TLkL4rYLNl7jf87E5NEtS22qTr0/HLDiP3QQ7ujAQEe6Mj0oDXfqep7eQKfae5XSMC/yywAYZlgrtaz30IdSWc8fkZUSaVlBD+PMYsbWrO3TJMTUdV505LLbyirB6dGHTGUvpp52zepdPOdYF4eVzwwBwfuyMGU/3Bkmt9Bn7x90NoCb+9gVFahecgMx1/OyQBTtmtZClVklGJqrDFWPQQmNjaFvBfNweqdl2xhvVSM3UJk+HSgxsYJiuEdKBky1E6HmvsKA==;SuoDP9bduyD5sUzRmPQY2A=="
 ---

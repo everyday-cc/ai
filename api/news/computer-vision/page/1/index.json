@@ -45,41 +45,6 @@
       ]
     },
     {
-      "path": "_news/2023-05-17-future-of-ai-in-e-commerce-transforming-data-with-ml-and-computer-vision.md",
-      "title": "Future of AI in e-commerce: Transforming data with ML and computer vision",
-      "excerpt": "While a lot has been discussedin areas of face recognition, graphical capabilities, some of the following use cases in e-Commerce can greatly benefit from computer vision, image processing. As a customer you want to know the best offers on your favourite ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dqindia.com/future-of-ai-in-e-commerce-transforming-data-with-ml-and-computer-vision/",
-      "originalUrl": "https://www.dqindia.com/future-of-ai-in-e-commerce-transforming-data-with-ml-and-computer-vision/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dqindia.com/future-of-ai-in-e-commerce-transforming-data-with-ml-and-computer-vision/amp/",
-      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/future-of-ai-in-e-commerce-transforming-data-with-ml-and-computer-vision/amp/",
-      "publishedDateTime": "2023-05-16T23:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dataquest",
-        "domain": "dqindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2023-05-16-ai-in-computer-vision-market-outlook-of-key-countries-a-comprehensive-analysis-of-growth-factors-2023-2030.md",
       "title": "AI in Computer Vision Market Outlook of Key Countries: A Comprehensive Analysis of Growth Factors 2023-2030",
       "excerpt": "May 16, 2023 (The Expresswire) -- \"Stay informed with the Latest New Insight Updates on AI in Computer Vision Market to remain Competitive and",
@@ -235,7 +200,7 @@
       "originalUrl": "https://www.nbcnews.com/tech/tech-news/tsa-tests-facial-recognition-technology-boost-airport-security-rcna84415",
       "featuredContent": null,
       "highlight": null,
-      "heat": 461,
+      "heat": 481,
       "tags": null,
       "images": [
         {
@@ -1409,6 +1374,58 @@
         "name": "NDTV",
         "domain": "ndtv.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-04-these-new-yorkers-want-to-stop-landlords-from-using-facial-recognition.md",
+      "title": "These New Yorkers Want to Stop Landlords From Using Facial Recognition",
+      "excerpt": "At a raucous city council hearing, lawmakers and activists alike argued in favor of bills banning biometric tech in residential buildings and large venues.",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/nyc-msg-facial-recognition-landlords-ban-law-hearing-1850401997",
+      "originalUrl": "https://gizmodo.com/nyc-msg-facial-recognition-landlords-ban-law-hearing-1850401997",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/532d2605600e5fb6b48f117eb031be29.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-03T17:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

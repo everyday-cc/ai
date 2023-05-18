@@ -231,6 +231,20 @@ related:
       name: News Track
       domain: newstracklive.com
     quality: 54
+  - title: "Microsoft Previews AI-Based Code Optimizations for .NET Apps"
+    excerpt: "Azure Monitor users can now try a public preview of Code Optimizations to detect performance issues with their .NET apps and services, per a Thursday Microsoft announcement."
+    publishedDateTime: 2023-05-18T21:44:00Z
+    webUrl: "https://redmondmag.com/articles/2023/05/18/microsoft-code-optimizations-preview.aspx"
+    type: article
+    provider:
+      name: Redmond Magazine
+      domain: redmondmag.com
+    quality: 54
+    images:
+      - url: "https://redmondmag.com/-/media/ECG/visualstudiomagazine/Images/introimages/Debug.jpg"
+        width: 647
+        height: 450
+        isCached: true
   - title: "What to Expect at Microsoft Build 2023"
     excerpt: "In Seattle next week, expect AI, AI, and more AI, with some Azure and Arm thrown in. Microsoft Build kicks off in Seattle on Tuesday, and since Microsoft has already made lots of news around AI, Bing,"
     publishedDateTime: 2023-05-18T16:42:00Z
@@ -304,6 +318,15 @@ related:
       name: Indiatimes
       domain: indiatimes.com
     quality: 19
+  - title: "Check Point Software extends its Industry-Leading Cloud Firewall to Secure Microsoft Azure Virtual WAN"
+    excerpt: "Check Point® Software Technologies Ltd. (NASDAQ: CHKP), a leading provider of cyber security solutions globally, announces the general availability of its industry-leading Next-Generation Cloud Firewall natively integrated with Microsoft Azure Virtual WAN to provide customers with top-notch security."
+    publishedDateTime: 2023-05-18T21:27:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-check-point-software-extends-its-industry-leading-cloud-/2023/05/18/9817479.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 18
 
 secured: "6FwQ1iMW4ARHG7zvCvc90/ZYViaoQHnCqyeRXlDmnwby++5SIhLGb06ZbK3pwIXFIdoUMeuwukLvYIz+9UXPLbas1kq2+fXmbcwhn5AKER6Q5Xq3Z1tv06rkLH+mK9T++nZsYj4wH2wesQVA8w9BxVnvdXYFa6fHHHhcsa5TFcCB7Jo8k/aS/ikHkLMwWSMDGJWgPlq5rY7zYTJc5M9uHA6YZmGB7oAtw3at6N2Y96E1MUaLloWlJ2ci1yaYLvnXhkGXSHQLfBiZfLhvPFIpoIFebsPZnGQyBMsN9eRDSLSTzkSWueR8zw9Ezm7c1KtSEkEXNXGIPL2Uh3S+ucuXrrSfTyXtXYeYPEv7YuTnUiVx47yzsYSCxTdfnwCwNbRMY8f73VvyaJcKhTYw4E6F3I4xPVldFtdq5qLD4uKwri5wh8iE1oDa+kF5LXghHHeGhaYWtEtVk+UA20H+CG9lUS1TKSS2PZgH8rMukvUOCZFUYek0wQZzQSRU7hhZz6VVKT0dBWxHIcZT4OVF1JDFMQ==;y/QCyPIrJ6IFNkKEtOZPfg=="
 ---

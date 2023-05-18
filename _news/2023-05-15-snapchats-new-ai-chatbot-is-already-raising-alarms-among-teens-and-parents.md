@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2023/04/27/tech/snapchat-my-ai-concerns-well
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/04/27/tech/snapchat-my-ai-concerns-wellness/index.html"
 type: article
 quality: 85
-heat: 155
+heat: 165
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Meet the AI humanoid robot that is already stacking shelves"
+    excerpt: "Depending on your perspective you will either be delighted or terrified to meet Phoenix, the humanoid robot, who his creators say, is here to help."
+    publishedDateTime: 2023-05-18T21:31:00Z
+    webUrl: "https://www.afr.com/technology/meet-the-ai-humanoid-robot-that-is-already-stacking-shelves-20230518-p5d9du"
+    type: article
+    provider:
+      name: The Australian Financial Review
+      domain: afr.com
+    quality: 54
+    images:
+      - url: "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_auto%2Cq_88%2Cf_jpg/t_afr_analysis_no_age_social_wm/d36a0574b47a18c9f37f6a40beac1153200e77d2"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Amazon reportedly planning to bring artificial intelligence chatbot to its online storefront"
     excerpt: "Based on some current job listings, Amazon is now planning to bring the artificial intelligence chatbot ‘ChatGPT’ to its online store."
     publishedDateTime: 2023-05-16T00:51:00Z
