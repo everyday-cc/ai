@@ -157,6 +157,15 @@ related:
       name: altfi
       domain: altfi.com
     quality: 19
+  - title: "How Scottish Mortgage and other trusts are playing the AI revolution"
+    excerpt: "News archive including articles on Fund Managers, Fund Selection, Asset Allocation, Absolute Return, Offshore Investments, Tax Shelters, Insurance bonds. How Scottish Mortgage and other trusts are pla"
+    publishedDateTime: 2023-05-18T16:01:00Z
+    webUrl: "https://www.trustnet.com/news/13378456/how-scottish-mortgage-and-other-trusts-are-playing-the-ai-revolution"
+    type: article
+    provider:
+      name: FE Trustnet
+      domain: trustnet.com
+    quality: 19
 
 secured: "ZI1Hcy0dPNl5uAMNVkmV25DwdyjKQx1LvS5jYA8/GmmA3i3zhefUEV/CrKTn0n+2v80FvKXq1va0o9KS5j414RpOO/ZMbIfdyFF5bI+2azyib5wRjG2z4nM/pKd802cxvbZsLz/8jmRgqT/DNYfhXFjlVQDSbOVohHaw8UxVKTzxguoE3sRyopLux0IxM9Xn0ALzVkpeTlt1eQe0StYer+zQrOGIRpZGXU62KiF9VFET3Sb9qHgvO/wqSToo74NhXY2SgBgGgpD2y254QLMQwrGdV747HDk9MSdr0E6JAThq9tbKvu228tMPEKMTH8ewBDzjsmHUVm5e1rL/cCrx3MEzRe/e5AYc+KBr3B2ztP8=;0jxVfqtMVMpF91E9OvArzg=="
 ---

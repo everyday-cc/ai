@@ -39,20 +39,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Learn Sign Language Using Machine Vision"
-    excerpt: "This project allows users to learn the ASL alphabet with the help of computer vision and some machine learning algorithms. The build uses a computer vision model in MobileNetV2 which is trained ..."
-    publishedDateTime: 2023-05-14T00:00:00Z
-    webUrl: "https://hackaday.com/2022/04/30/learn-sign-language-using-machine-vision/"
-    type: article
-    provider:
-      name: Hackaday
-      domain: hackaday.com
-    quality: 24
-    images:
-      - url: "https://hackaday.com/wp-content/uploads/2022/04/computer-vision-asl-main.png"
-        width: 1091
-        height: 800
-        isCached: true
   - title: "Machine Learning Makes Waves: A Better Way To Study Ocean Currents"
     excerpt: "A new machine-learning model makes more accurate predictions about ocean currents, which could help with tracking plastic pollution and oil spills, and aid in search and rescue. To study ocean currents,"
     publishedDateTime: 2023-05-17T07:44:00Z

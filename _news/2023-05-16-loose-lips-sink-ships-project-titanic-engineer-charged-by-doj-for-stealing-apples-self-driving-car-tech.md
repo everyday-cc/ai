@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 903
         isCached: true
+  - title: "Baidu exec charged with stealing Apple’s self-driving car tech"
+    excerpt: "A former Apple engineer and the executive at an electric vehicle startup owned by the Chinese tech giant Baidu has been charged with stealing Apple’s self-driving technology, as reported earlier by CNBC."
+    publishedDateTime: 2023-05-17T20:15:00Z
+    webUrl: "https://www.theverge.com/2023/5/17/23726769/apple-baidu-self-driving-trade-secrets-stolen"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 69
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/x2E5qk82ChtE9vZvW1p2duIOnxA=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24401980/STK071_ACastro_apple_0003.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "A third former Apple employee has been charged with stealing self-driving car tech"
     excerpt: "A federal court in the Northern District of California has unsealed charges against Weibao Wang, a former Apple software engineer. Wang started working at the company in 2016 as part of a team that developed hardware and software for autonomous systems — technology that could conceivably wind up in self-driving cars."
     publishedDateTime: 2023-05-18T04:29:00Z

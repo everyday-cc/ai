@@ -59,6 +59,22 @@ related:
         width: 1200
         height: 820
         isCached: true
+  - title: "CDW Executive SummIT: Diving Into the Potential of Artificial Intelligence in Healthcare"
+    excerpt: "AI is a hot topic right now, and SummIT attendees expressed both excitement and caution over potential use cases."
+    publishedDateTime: 2023-05-18T17:01:00Z
+    webUrl: "https://healthtechmagazine.net/media/video/cdw-executive-summit-diving-potential-artificial-intelligence-healthcare"
+    ampWebUrl: "https://healthtechmagazine.net/media/video/cdw-executive-summit-diving-potential-artificial-intelligence-healthcare?amp"
+    cdnAmpWebUrl: "https://healthtechmagazine-net.cdn.ampproject.org/c/s/healthtechmagazine.net/media/video/cdw-executive-summit-diving-potential-artificial-intelligence-healthcare?amp"
+    type: article
+    provider:
+      name: HealthTech
+      domain: healthtechmagazine.net
+    quality: 65
+    images:
+      - url: "https://healthtechmagazine.net/sites/healthtechmagazine.net/files/styles/cdw_hero/public/video/Screenshot%202023-05-15%20at%2012.49.23%20PM.jpg?itok=nIfK2DYG"
+        width: 1440
+        height: 500
+        isCached: true
   - title: "How ChatGPT and artificial Intelligence are impacting education"
     excerpt: "From finance to health care to policing, artificial intelligence is becoming more commonplace by the day. It’s also becoming harder to avoid in our schools. ChatGPT is a chatbot that generates startlingly human-like text in response to brief prompts."
     publishedDateTime: 2023-05-17T15:30:00Z

@@ -205,6 +205,17 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Four more languages introduced to Microsoft Translator, Details here"
+    excerpt: "The Microsoft Translator software now supports Konkani, Maithili, Sindhi, and Sinhala, a statement from Microsoft India read. Assamese, B..|News Track"
+    publishedDateTime: 2023-05-18T10:49:00Z
+    webUrl: "https://english.newstracklive.com/news/four-more-languages-introduced-to-microsoft-translator-details-here-sc71-nu318-ta318-1277188-1.html"
+    ampWebUrl: "https://english.newstracklive.com/ampnews/four-more-languages-introduced-to-microsoft-translator-details-here-sc71-nu318-ta318-1277188-1.html"
+    cdnAmpWebUrl: "https://english-newstracklive-com.cdn.ampproject.org/c/s/english.newstracklive.com/ampnews/four-more-languages-introduced-to-microsoft-translator-details-here-sc71-nu318-ta318-1277188-1.html"
+    type: article
+    provider:
+      name: News Track
+      domain: newstracklive.com
+    quality: 54
   - title: "SAP, Microsoft Collaborate on Joint Generative AI Offerings to Address Talent Gap"
     excerpt: "SAP SE and Microsoft announced their use of the latest in enterprise-ready generative AI innovation to help solve customers’ most fundamental business challenges. The companies will collaborate on integrating SAP SuccessFactors solutions with Microsoft 365 Copilot and Copilot in Viva Learning,"
     publishedDateTime: 2023-05-17T15:30:00Z
@@ -219,6 +230,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "What to Expect at Microsoft Build 2023"
+    excerpt: "In Seattle next week, expect AI, AI, and more AI, with some Azure and Arm thrown in. Microsoft Build kicks off in Seattle on Tuesday, and since Microsoft has already made lots of news around AI, Bing,"
+    publishedDateTime: 2023-05-18T16:42:00Z
+    webUrl: "https://au.pcmag.com/software-services/100071/what-to-expect-at-microsoft-build-2023"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 49
   - title: "KPI Partners Attains Microsoft Azure Solution Partner Status in Data & AI"
     excerpt: "KPI Partners, a leading global provider of Analytics and Digital Transformation solutions, announced today its achievement of Microsoft Azure Solution Partner status in Data & AI."
     publishedDateTime: 2023-05-18T12:38:00Z

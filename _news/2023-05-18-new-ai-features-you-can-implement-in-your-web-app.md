@@ -24,6 +24,22 @@ images:
     height: 515
     isCached: true
 
+related:
+  - title: "Suki integrates generative AI assistant in Epic EHR software"
+    excerpt: "Nuance incorporates GPT-4, the large language model technology from Open AI, in its clinical notetaking software. In addition, Microsoft and Epic expanded their partnership last month to integrate Microsoft’s Azure OpenAI Service into Epic’s EHR platform."
+    publishedDateTime: 2023-05-18T17:26:00Z
+    webUrl: "https://www.healthcaredive.com/news/suki-integrates-generative-ai-assistant-in-epic-ehr-software/650668/"
+    type: article
+    provider:
+      name: Healthcare Dive
+      domain: healthcaredive.com
+    quality: 39
+    images:
+      - url: "https://www.healthcaredive.com/imgproxy/_HvRe8Da0T7lt1zPZLalmfXp8t86Kp6HIPXAKO4Uc-E/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0FJX2xhdy5qcGc.jpg"
+        width: 770
+        height: 435
+        isCached: true
+
 secured: "9wzzEvGWphqRLKPBTG51ZaFr6eWkpyVoolFtcnWlmq1Dv+nht3/FMpF7ALs0ch//WSMuHK7C8TfvuThnNytRBPsLh/4nXIHCxrs+IWm3RJ2Jy000A5PFuYf2iigQB7am3B77nRUyzlY8FflTIHRRAWvCwJyjkJ+Z6cTn2mooctos964OJqeVARXwVikzGw1qTASeonTPh8nQwKUT8BeMcJJuhxLR8tpSga60KE7fDAYlzud7CjYegPInPaol6sImUfGUPhaIXj0VyPN0y1STdbpDyMfNe9a8AFTq4LqByoW/fhUFlkIWyGkKa/mhWMFm+MmO+W1TOtwShF9LbEbtdt407LOVaJh3VO5E+YGIQHI=;vP2BWGVU95IC51UJiVmu9Q=="
 ---
 

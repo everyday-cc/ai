@@ -2,6 +2,135 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-05-03-hollywood-screenwriters-dont-want-robots-taking-their-jobs-either.md",
+      "title": "Hollywood screenwriters don’t want robots taking their jobs, either",
+      "excerpt": "The thousands of WGA scribes who went on strike this week are concerned in part about the rise of AI — and how the major studios might tap the technology going forward.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/news/writers-strike-2023-hollywood-screenwriters-ai-concerns-rcna82543",
+      "originalUrl": "https://www.nbcnews.com/news/writers-strike-2023-hollywood-screenwriters-ai-concerns-rcna82543",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-05/230502-NYC-Hollywood-Writers-Strike-ac-536p-6e2e6a.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna82543",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna82543",
+      "publishedDateTime": "2023-05-02T16:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-03-this-robot-can-paint-but-is-it-art.md",
+      "title": "This Robot Can Paint. But Is It Art?",
+      "excerpt": "Researchers at Carnegie Mellon University developed an A.I.-powered arm that can paint an abstract acrylic. Is it art?",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2023/05/02/science/ai-creativity-paintbot.html",
+      "originalUrl": "https://www.nytimes.com/2023/05/02/science/ai-creativity-paintbot.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2023/05/02/multimedia/02SCI-MIND-PAINTBOT-vid1cover-gbqv/02SCI-MIND-PAINTBOT-vid1cover-gbqv-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-02T11:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-02-ai-could-create-religions-to-control-humans-warns-sapiens-author-harari.md",
+      "title": "AI could create religions to control humans, warns Sapiens author Harari",
+      "excerpt": "The world could soon see the first religion that attracts devotees with sacred texts created by artificial intelligence, the historian Yuval Noah Harari has s",
+      "sourceUrl": null,
+      "webUrl": "https://www.thetimes.co.uk/article/f551b41e-e8db-11ed-8b19-8262c49fff39?shareToken=a6f2bbfb6db6f3e078309f8250e3938f&trk=public_post_comment-text",
+      "originalUrl": "https://www.thetimes.co.uk/article/f551b41e-e8db-11ed-8b19-8262c49fff39?shareToken=a6f2bbfb6db6f3e078309f8250e3938f&trk=public_post_comment-text",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-02T06:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Times",
+        "domain": "thetimes.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-02-generative-ai-wont-take-off-without-6g.md",
       "title": "Generative AI Won’t Take Off Without 6G",
       "excerpt": "Although the sixth generation of broadband internet and mobile technology won’t emerge widely for a number of years, organizations are exploring business innovations for a more intelligent, immersive world.",
@@ -1211,136 +1340,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-26-jellyfish-robots-could-one-day-clean-up-the-worlds-oceans.md",
-      "title": "Jellyfish Robots Could One Day Clean Up The World’s Oceans",
-      "excerpt": "Marine plastic pollution is a bigger problem than some may realize. According to the International Union for Conservation of Nature (IUCN), at least 14 million tons of plastic end up in the ocean every year, with plastic making up 80 percent of all the marine debris found across the water's surface and deep below.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/darylaustin/2023/04/25/jellyfish-robots-could-one-day-clean-up-the-worlds-oceans/",
-      "originalUrl": "https://www.forbes.com/sites/darylaustin/2023/04/25/jellyfish-robots-could-one-day-clean-up-the-worlds-oceans/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/644853cb5e65f457e1a3bac0/0x0.jpg?format=jpg&crop=5165,2903,x0,y264,safe&width=1200",
-          "width": 1200,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/darylaustin/2023/04/25/jellyfish-robots-could-one-day-clean-up-the-worlds-oceans/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/darylaustin/2023/04/25/jellyfish-robots-could-one-day-clean-up-the-worlds-oceans/amp/",
-      "publishedDateTime": "2023-04-25T15:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-25-maxon-partners-with-massrobotics-to-support-the-advancements-of-drive-technology-in-robotics.md",
-      "title": "maxon Partners with MassRobotics to Support the Advancements of Drive Technology in Robotics",
-      "excerpt": "MassRobotics and maxon announce a partnership to support the robotics innovation ecosystem through collaboration and exploration of motion control technologies around automation and manufacturing-related applications.",
-      "sourceUrl": null,
-      "webUrl": "https://www.automation.com/en-us/articles/april-2023/maxon-massrobotics-drive-technology-robotics",
-      "originalUrl": "https://www.automation.com/en-us/articles/april-2023/maxon-massrobotics-drive-technology-robotics",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-25T09:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Automation",
-        "domain": "automation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-25-irbo-like-a-mini-botz-this-etf-could-benefit-from-artificial-intelligence-growth.md",
-      "title": "IRBO: Like A Mini BOTZ, This ETF Could Benefit From Artificial Intelligence Growth",
-      "excerpt": "IRBO invests in companies focused on artificial intelligence (AI) and robotics. AI is one of the hottest topics this year, as its possibilities continue to grow and could move more towards ...",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4596218-irbo-mini-botz-etf-benefit-artificial-intelligence-growth",
-      "originalUrl": "https://seekingalpha.com/article/4596218-irbo-mini-botz-etf-benefit-artificial-intelligence-growth",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1435014643/image_1435014643.jpg?io=getty-c-w1536",
-          "width": 1536,
-          "height": 822,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-25T03:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

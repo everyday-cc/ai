@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Learn Sign Language Using Machine Vision"
-    excerpt: "This project allows users to learn the ASL alphabet with the help of computer vision and some machine learning algorithms. The build uses a computer vision model in MobileNetV2 which is trained ..."
-    publishedDateTime: 2023-05-14T00:00:00Z
-    webUrl: "https://hackaday.com/2022/04/30/learn-sign-language-using-machine-vision/"
-    type: article
-    provider:
-      name: Hackaday
-      domain: hackaday.com
-    quality: 24
-    images:
-      - url: "https://hackaday.com/wp-content/uploads/2022/04/computer-vision-asl-main.png"
-        width: 1091
-        height: 800
-        isCached: true
   - title: "Institution-specific machine learning model can predict cardiac patient's mortality risk prior to surgery"
     excerpt: "A machine learning-based model that enables medical institutions to predict the mortality risk for individual cardiac surgery patients has been developed by a Mount Sinai research team, providing a significant performance advantage over current population-derived models."
     publishedDateTime: 2023-05-17T16:55:00Z

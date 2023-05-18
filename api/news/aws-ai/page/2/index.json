@@ -2,6 +2,101 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-05-05-the-best-movies-on-amazon-prime-video-may-2023.md",
+      "title": "The best movies on Amazon Prime Video (May 2023)",
+      "excerpt": "The beginning of May marks a bit of a spring cleaning for Amazon Prime Video. Several titles have gone out the door, while the latest additions to the Prime Video library are now settling in.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/movies/best-movies-on-amazon-prime/",
+      "originalUrl": "https://www.digitaltrends.com/movies/best-movies-on-amazon-prime/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaltrends.com/wp-content/uploads/2020/09/a-beautiful-mind-hulu.jpg?resize=1200%2C630&p=1",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/movies/best-movies-on-amazon-prime/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/movies/best-movies-on-amazon-prime/?amp",
+      "publishedDateTime": "2023-05-05T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-04-automate-the-deployment-of-an-amazon-forecast-time-series-forecasting-model.md",
+      "title": "Automate the deployment of an Amazon Forecast time-series forecasting model",
+      "excerpt": "Time series forecasting refers to the process of predicting future values of time series data (data that is collected at regular intervals over time). Simple methods for time series forecasting use historical values of the same variable whose future values need to be predicted, whereas more complex,",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/automate-the-deployment-of-an-amazon-forecast-time-series-forecasting-model/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/automate-the-deployment-of-an-amazon-forecast-time-series-forecasting-model/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-04T11:15:10-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-04-microsofts-premium-chatgpt-service-set-to-supercharge-azure-growth-analyst-predicts-even-wider-lead-over-aws.md",
       "title": "Microsoft's Premium ChatGPT Service Set to Supercharge Azure Growth: Analyst Predicts Even Wider Lead Over AWS",
       "excerpt": "Microsoft's reportedly upcoming release of premium private ChatGPT service for enterprises should have a positive upwards bias to Horan's already industry-leading FY24E Azure growth of constant currency 24% (+27% USD),",
@@ -1263,94 +1358,6 @@
         "AWS AI",
         "Machine Learning",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-04-24-infor-achieves-aws-manufacturing-and-industrial-competency.md",
-      "title": "Infor Achieves AWS Manufacturing and Industrial Competency",
-      "excerpt": "Designation recognizes Infor for its expertise in providing services and software solutions for an end-to-end industrial manufacturing software",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/infor-achieves-aws-manufacturing-and-industrial-competency-1032254536",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/infor-achieves-aws-manufacturing-and-industrial-competency-1032254536",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/526907/Infor_new_Logo.jpg",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-24T07:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-22-ai-ml-data-news-roundup-hugginggpt-aws-bedrock-microsoft-visual-chatgpt-and-stablelm.md",
-      "title": "AI, ML & Data News Roundup: HuggingGPT, AWS Bedrock, Microsoft Visual ChatGPT, and StableLM",
-      "excerpt": "The latest update for the week of April 17th, 2023, includes the recent advancements and announcements in the domains of data science, machine learning, and artificial intelligence. The spotlight this week is on top players like Hugging Face,",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoq.com/news/2023/04/ai-ml-data-news-april17-2023/",
-      "originalUrl": "https://www.infoq.com/news/2023/04/ai-ml-data-news-april17-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-21T12:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning",
-        "Microsoft AI"
       ]
     }
   ],

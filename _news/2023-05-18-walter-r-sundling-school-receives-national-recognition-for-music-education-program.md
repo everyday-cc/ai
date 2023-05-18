@@ -40,20 +40,6 @@ related:
         width: 619
         height: 377
         isCached: true
-  - title: "The possibly-unstoppable march of facial recognition"
-    excerpt: "The latest example is the Transportation Security Administration, which some senators and experts believe is “moving way too fast” to adopt facial recognition technology three months after the agency ignored lawmakers’ calls to pump the brakes on its usage."
-    publishedDateTime: 2023-05-17T20:05:00Z
-    webUrl: "https://www.politico.com/newsletters/digital-future-daily/2023/05/17/the-possibly-unstoppable-march-of-facial-recognition-00097476"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 39
-    images:
-      - url: "https://static.politico.com/57/64/dff2b867457ea19b42bf7c926803/191227-facial-recognition-gty-773.jpg"
-        width: 3174
-        height: 2115
-        isCached: true
   - title: "Policing Minister pushes for facial recognition in all UK police forces despite criticism"
     excerpt: "The Home Office briefed the biometrics and surveillance commissioner on the minsters desire for law enforcement to expand their use of these systems."
     publishedDateTime: 2023-05-16T22:27:00Z
@@ -69,6 +55,6 @@ related:
         height: 1333
         isCached: true
 
-secured: "uZdY/pxijcD5g95JDhAojcWFX8TZF/eqS2JbKwd/vRKHB1D58XLjD6t3y039p1O+iYzzDDQRWHdEeTrnRym7ymCkWBz14JJ0dTZhrf7/bKJ9tKh0cPYasBj6sEp0R+kA4MxKkU3btP8tqkEY/zLpkAczFFuZ1IrkhZQBmFybsnW30fBlF1W1/uDC4Gi2kQeQxs3VsMWU57TPiqBNvuxxyyIVNLLz2GOXeNKchUW+b3RYPzFp0ZgBXXKTHe9s7GnzY6qwJtqL+nSQ+DAwHT61CfOR5/KFAYQ5al/m5ntdM5SA/tkpUcRAbsu5FcBSvgEHaPsAD+uN7SQJBJcKYegV6CeyJ80Ynb790f+aoDMJeyA=;4wdoi2P0iGSDLHqJHhX9ww=="
+secured: "4t2OtH2rbi44ROuTXl2u66GHlcLhMY6YpqtcoSH4+uiJH24bHQCZLcIDTuLQJw3iB2HifPbCkaUE5b6MOuKN46iMH3yf7NM0VvEXTFbYvc4s67cvbnNVpnFOUjMN8MyehADwMeojf0kvKZNtUacZHBqUKyD8Kl/2iLnYCzehgk+JqqqY5u8IExHY/q2eHnkNadrH+MxrK97CKYw7dm68NXqJ5yZc5CJjzqm8fAtOoUQid683rmucGn89F7U35pK0alNWdkfCmd+2Bl/Nvx1tQV1gj+7QJOHtEEUXz4HFcawtIVN/9PHkpZpzq2cwJZXUFWPrJKMF1d+rW0f74QIsV7jbiI4HR1INtJ5xrQrfxXQaR51iFEoTnpHt+CJkSjTqui6jkd91QgZ19oBASi7QP1h7JJxQzAMo71bRyf576uTS6uKMt6z9/gHre4UijHmjq3HgVcX34kBHlGtCZ32Kh3CDPJ7t5t/m/xC9MA9CK1n89H359gmaKfXhCAztWLWxsS6KKa9RULgxw7/kYFON6Q==;ev+RdFkCvtBqjJlUPSXVSg=="
 ---
 

@@ -44,6 +44,22 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "ChatGPT: Everything you need to know about the AI-powered chatbot"
+    excerpt: "“AI presents a whole set of opportunities ... ChatGPT is generally available through the Azure OpenAI Service, Microsoft’s fully managed, corporate-focused offering. Customers, who must already be “Microsoft managed customers and partners ..."
+    publishedDateTime: 2023-05-18T17:35:00Z
+    webUrl: "https://techcrunch.com/2023/05/18/chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot/"
+    ampWebUrl: "https://techcrunch.com/2023/05/18/chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/18/chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 89
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1462188043.jpg?resize=1200,798"
+        width: 1200
+        height: 798
+        isCached: true
   - title: "ChatGPT Creator Is Worried About AI"
     excerpt: "Last month, Google and Alphabet CEO Sundar Pichai told 60 Minutes that \"every product of every company\" will be impacted by AI's rapid development. He, like Altman and Hinton, has trepidation about the possible repercussions. Google has its own chatbot called Bard."
     publishedDateTime: 2023-05-16T21:22:00Z
@@ -107,6 +123,22 @@ related:
       - url: "https://www.zdnet.com/a/img/resize/27a45630c4d84e49412c328fdfea7c6343d52b9b/2023/05/17/88b1d561-a90d-4972-a16e-17274145535e/gettyimages-1472335476.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "OpenAI introduces ChatGPT app for iOS, bringing most popular generative AI to iPhones"
+    excerpt: "In a surprise move today, OpenAI suddenly released a ChatGPT app for Apple iOS, bringing generative AI to iPhones everywhere."
+    publishedDateTime: 2023-05-18T17:23:00Z
+    webUrl: "https://venturebeat.com/ai/openai-introduces-chatgpt-app-for-ios-bringing-most-popular-generative-ai-to-iphones/"
+    ampWebUrl: "https://venturebeat.com/ai/openai-introduces-chatgpt-app-for-ios-bringing-most-popular-generative-ai-to-iphones/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/openai-introduces-chatgpt-app-for-ios-bringing-most-popular-generative-ai-to-iphones/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 80
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/05/Untitled-design-71.png?w=1200&strip=all"
+        width: 1200
+        height: 750
         isCached: true
   - title: "ChatGPT and Generative AI Around the World: Maturity, Opportunities, and Hurdles in Key Regions"
     excerpt: "ChatGPT has received a lot of press since its November 2022 launch. But while interest in the tool is high, its use is not yet universal."
@@ -484,6 +516,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Ampere Computing rides the AI, ChatGPT wave, calls for more power-conscious chips"
+    excerpt: "As we develop more products we need more engineers and designers and architects. Portland is a great place to hire. And it’s a good opportunity to hire now and take advantage of current conditions,' said Ampere Computing CPO Jeff Wittich."
+    publishedDateTime: 2023-05-18T12:00:00Z
+    webUrl: "https://www.bizjournals.com/portland/inno/stories/news/2023/05/18/ampere-computing-ai-power-performance.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 31
   - title: "ChatGPT chief says artificial intelligence should be regulated by a US or global agency"
     excerpt: "The head of the artificial intelligence company that makes ChatGPT has told Congress that government intervention will be critical to mitigating the risks of increasingly powerful AI systems. OpenAI CEO Sam Altman testified at a Senate hearing Tuesday that he supports the formation of a U."
     publishedDateTime: 2023-05-16T21:53:00Z
@@ -498,15 +539,6 @@ related:
         width: 3000
         height: 2000
         isCached: true
-  - title: "Ampere Computing rides the AI, ChatGPT wave, calls for more power-conscious chips"
-    excerpt: "As we develop more products we need more engineers and designers and architects. Portland is a great place to hire. And it’s a good opportunity to hire now and take advantage of current conditions,' said Ampere Computing CPO Jeff Wittich."
-    publishedDateTime: 2023-05-18T12:00:00Z
-    webUrl: "https://www.bizjournals.com/portland/inno/stories/news/2023/05/18/ampere-computing-ai-power-performance.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 29
   - title: "ChatGPT’s chief to testify before Congress as concerns grow about artificial intelligence"
     excerpt: "The head of the company that makes ChatGPT is set to testify before Congress as lawmakers call for new rules to guide the rapid development of AI technology."
     publishedDateTime: 2023-05-16T11:01:00Z

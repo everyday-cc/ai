@@ -25,47 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "UK policing minister pushes for greater use of facial recognition"
-    excerpt: "Chris Philp expressed desire to expand use of controversial technology in closed door meetings, according to report"
-    publishedDateTime: 2023-05-15T23:01:00Z
-    webUrl: "https://www.ft.com/content/b8477e16-349d-442d-8e69-59b328ba9189"
+  - title: "A Flash of Recognition in a Lonely Universe"
+    excerpt: "When Melodie Kao, an astronomer at UC Santa Cruz, went looking for exothings, she set her sights 20 light-years away, on a brown dwarf—a rather unusual object that is neither a star nor a planet, with a mass somewhere between the two. Kao had previously ..."
+    publishedDateTime: 2023-05-18T12:01:00Z
+    webUrl: "https://www.theatlantic.com/science/archive/2023/05/exothings-space-asteroids-planets-rings/674093/"
     type: article
     provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 39
+      name: The Atlantic
+      domain: theatlantic.com
+    quality: 54
     images:
-      - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/eu-politics.jpg"
-        width: 619
-        height: 377
-        isCached: true
-  - title: "Walter R. Sundling School receives national recognition for music education program"
-    excerpt: "District 15's Walter R. Sundling Junior High School has been honored with the SupportMusic Merit Award from The NAMM Foundation for its outstanding commitment to music education."
-    publishedDateTime: 2023-05-18T13:42:00Z
-    webUrl: "https://www.dailyherald.com/submitted/20230517/walter-r-sundling-school-receives-national-recognition-for-music-education-program"
-    type: article
-    provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 35
-    images:
-      - url: "https://www.dailyherald.com/storyimage/DA/20230517/SUBMITTED/230519391/AR/0/AR-230519391.jpg&updated=202305180942&imageversion=Facebook&exactH=630&exactW=1200&exactfit=crop&noborder"
+      - url: "https://cdn.theatlantic.com/thumbor/-F29HH4cUyp5KEaeHnaj8-CSuco=/0x34:1597x866/1200x625/media/img/mt/2023/05/Space_Repeat/original.gif"
         width: 1200
-        height: 630
-        isCached: true
-  - title: "Policing Minister pushes for facial recognition in all UK police forces despite criticism"
-    excerpt: "The Home Office briefed the biometrics and surveillance commissioner on the minsters desire for law enforcement to expand their use of these systems."
-    publishedDateTime: 2023-05-16T22:27:00Z
-    webUrl: "https://www.biometricupdate.com/202305/policing-minister-pushes-for-facial-recognition-in-all-uk-police-forces-despite-criticism"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 30
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/07/25124143/facial-recognition-crowd-scaled.jpg"
-        width: 2048
-        height: 1333
+        height: 625
         isCached: true
 
 secured: "c9FoGSELWFJei9TGV/Gt46yaz1hECn4ooGz4bUZHnsGVDHeE4HwR6v3D/66wB7gQ6iBaSSkj2JEDA9FTzrHjlOnR9Tx54o/Sc8mv2U9Cb4o9LuByKY5uvQuz7Uc9lZARurTFTCOVu/aVL4coOZhUsWJ/t0gsNEgMtQh2IFxGPHZxyrvpFkWyyir21AGk434lIkbhTIJstDH6n5kOxvxZne+Ufv49fj9zl77LjtTCGanlUbSM1+XBYmCooSfNfWWAxgDl+532mDJqUq0//qHXy+tfAj4p0VRI8z5MGb1s0zvRO3s55XRvzM+7dOfCJSW4olyQYLr0auKKlADh5+0rHQACQRmT1LB8NtJdf1TgoDCz+Ok7gD/CnlYwjaOAph/tPeRW3EpERFSKQi8OsvsGV49UfdaaCDQaL2fzBxEAU67+tUW0cer6sYSgCuGES5SW91P9X3R46GFR6sAOtWDLwCZktW9GoXK4Sca7ItJbXEKE7HHH1lnfrZGTZhBhvqycpkCFNBukcZFysCQ3Zxa3bg==;/MEUZbB+v5prr8jw9GDc9w=="

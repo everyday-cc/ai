@@ -40,6 +40,22 @@ related:
         width: 1200
         height: 798
         isCached: true
+  - title: "Bing Widget Brings Exciting AI Features To Mobile Android And iOS Devices"
+    excerpt: "We are making your mobile experiences richer with continuous conversations across platforms, voice and multilingual chat improvements, and coming soon – Bing widget. Learn more: https://t.co/947YXAFHFd pic.twitter.com/QLw4gzhMHm"
+    publishedDateTime: 2023-05-18T17:46:00Z
+    webUrl: "https://hothardware.com/news/bing-widget-brings-exciting-ai-features-to-mobile-devices"
+    ampWebUrl: "https://amp.hothardware.com/news/bing-widget-brings-exciting-ai-features-to-mobile-devices"
+    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/bing-widget-brings-exciting-ai-features-to-mobile-devices"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 58
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/61648/content/bing-chat-ai-hero.jpg"
+        width: 708
+        height: 400
+        isCached: true
   - title: "Approaching artificial intelligence: How Purdue is leading the research and advancement of AI technologies"
     excerpt: "With the programs, research and expertise highlighted below, Purdue is guiding the advancement of artificial intelligence. If you have any questions about Purdue’s work in AI or would like to speak to a Purdue expert, contact Brian Huchel, bhuchel@purdue ..."
     publishedDateTime: 2023-05-15T14:16:00Z

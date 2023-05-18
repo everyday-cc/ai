@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Kubernetes firm CAST AI adds support for reducing generative AI deployment costs"
+    excerpt: "Kubernetes operations and cost management startup Cast AI Group Inc. today announced several new features for its platform to reduce cloud costs for organizations that are using generative artificial intelligence models."
+    publishedDateTime: 2023-05-18T15:30:00Z
+    webUrl: "https://siliconangle.com/2023/05/18/kubernetes-firm-cast-ai-adds-support-reducing-generative-ai-deployment-costs/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 36
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/05/castai.png"
+        width: 672
+        height: 450
+        isCached: true
   - title: "CAST AI Slashes Cloud Costs for Organizations that Build, Train and Run Artificial Intelligence (AI) Applications"
     excerpt: "CAST AI introduced a series of new features into its platform, designed to dramatically reduce cloud costs for organizations."
     publishedDateTime: 2023-05-18T12:05:00Z

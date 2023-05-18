@@ -115,6 +115,20 @@ related:
       name: TechRound
       domain: techround.co.uk
     quality: 21
+  - title: "FinTech Regulation and Compliance: Navigating the Landscape to Ensure Data Privacy"
+    excerpt: "To keep up with the advancements in technologies like blockchain, AI, and cryptocurrencies, FinTech companies are overhauling their existing models to ensure compliance with global data protection regulations like the GDPR, LGPD, and CCPA, in addition to ..."
+    publishedDateTime: 2023-05-18T15:15:00Z
+    webUrl: "https://www.finextra.com/blogposting/24224/fintech-regulation-and-compliance-navigating-the-landscape-to-ensure-data-privacy"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 18
+    images:
+      - url: "https://www.finextra.com/finextra-images/visible_pictures/dfe92e99-e72f-4d86-a07a-8431087d475a.png"
+        width: 500
+        height: 261
+        isCached: true
   - title: "BOOSTBILLS RECOGNISED AS A MARKET-LEADING FINTECH INNOVATION THAT SIMPLIFIES BILL PAYMENTS"
     excerpt: "Boost, the fintech arm of Axiata, recently received market validation for its game-changing BoostBills feature. Having bagged the Digital – Financial Technology trophy at the Malaysia Technology Excellence Awards 2023,"
     publishedDateTime: 2023-05-17T11:45:00Z

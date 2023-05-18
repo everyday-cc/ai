@@ -6,7 +6,7 @@ publishedDateTime: 2023-05-18T12:00:00Z
 originalUrl: "https://www.bizjournals.com/portland/inno/stories/news/2023/05/18/ampere-computing-ai-power-performance.html"
 webUrl: "https://www.bizjournals.com/portland/inno/stories/news/2023/05/18/ampere-computing-ai-power-performance.html"
 type: article
-quality: 29
+quality: 31
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Microsoft AI
 
 related:
   - title: "Combining Generative AI ChatGPT Into Handguns Triggers Fiery Response"
@@ -34,6 +35,22 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/645bfa0c8aa4ed65ec653182/0x0.jpg?format=jpg&crop=3887,2914,x350,y0,safe&width=1200"
         width: 1200
         height: 900
+        isCached: true
+  - title: "ChatGPT: Everything you need to know about the AI-powered chatbot"
+    excerpt: "“AI presents a whole set of opportunities ... ChatGPT is generally available through the Azure OpenAI Service, Microsoft’s fully managed, corporate-focused offering. Customers, who must already be “Microsoft managed customers and partners ..."
+    publishedDateTime: 2023-05-18T17:35:00Z
+    webUrl: "https://techcrunch.com/2023/05/18/chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot/"
+    ampWebUrl: "https://techcrunch.com/2023/05/18/chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/18/chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 89
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1462188043.jpg?resize=1200,798"
+        width: 1200
+        height: 798
         isCached: true
   - title: "ChatGPT Creator Is Worried About AI"
     excerpt: "Last month, Google and Alphabet CEO Sundar Pichai told 60 Minutes that \"every product of every company\" will be impacted by AI's rapid development. He, like Altman and Hinton, has trepidation about the possible repercussions. Google has its own chatbot called Bard."
@@ -98,6 +115,22 @@ related:
       - url: "https://www.zdnet.com/a/img/resize/27a45630c4d84e49412c328fdfea7c6343d52b9b/2023/05/17/88b1d561-a90d-4972-a16e-17274145535e/gettyimages-1472335476.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "OpenAI introduces ChatGPT app for iOS, bringing most popular generative AI to iPhones"
+    excerpt: "In a surprise move today, OpenAI suddenly released a ChatGPT app for Apple iOS, bringing generative AI to iPhones everywhere."
+    publishedDateTime: 2023-05-18T17:23:00Z
+    webUrl: "https://venturebeat.com/ai/openai-introduces-chatgpt-app-for-ios-bringing-most-popular-generative-ai-to-iphones/"
+    ampWebUrl: "https://venturebeat.com/ai/openai-introduces-chatgpt-app-for-ios-bringing-most-popular-generative-ai-to-iphones/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/openai-introduces-chatgpt-app-for-ios-bringing-most-popular-generative-ai-to-iphones/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 80
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/05/Untitled-design-71.png?w=1200&strip=all"
+        width: 1200
+        height: 750
         isCached: true
   - title: "ChatGPT and Generative AI Around the World: Maturity, Opportunities, and Hurdles in Key Regions"
     excerpt: "ChatGPT has received a lot of press since its November 2022 launch. But while interest in the tool is high, its use is not yet universal."

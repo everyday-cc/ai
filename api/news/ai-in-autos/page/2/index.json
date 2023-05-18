@@ -152,6 +152,49 @@
       ]
     },
     {
+      "path": "_news/2023-05-06-we-were-right-about-artificial-intelligence.md",
+      "title": "We Were Right About Artificial Intelligence",
+      "excerpt": "A number of recent surveys revealed that Americans are scared of artificial intelligence. 75% of us think it can be abused and needs to be regulated. However, only 30% of us believe the government would be an effective regulator of artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.grantcountybeat.com/columns/opinion/undeniably-right/78081-we-were-right-about-artificial-intelligence",
+      "originalUrl": "https://www.grantcountybeat.com/columns/opinion/undeniably-right/78081-we-were-right-about-artificial-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.grantcountybeat.com/images/fl_gcb_300x30024.jpg",
+          "width": 300,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-05T12:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "grantcountybeat",
+        "domain": "grantcountybeat.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-05-how-driverless-trucks-got-drivers-licenses-in-kansas-commentary.md",
       "title": "How driverless trucks got drivers’ licenses in Kansas | Commentary",
       "excerpt": "If you blinked, you probably missed it. Driverless vehicles, like artificial intelligence, are both promising and scary at the same time. They have the potential both to improve our world and to ...",
@@ -1295,49 +1338,6 @@
       "ampWebUrl": "https://www.benzinga.com/amp/content/32092770",
       "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32092770",
       "publishedDateTime": "2023-04-28T12:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-29-madison-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-now-open.md",
-      "title": "Madison Selected as Host Site for Artificial Intelligence Bootcamp – APPLICATIONS NOW OPEN!",
-      "excerpt": "Fetch, Madison's unicorn tech startup and the nation's leading rewards app, will host a Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp for high school",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/04/g32092422/madison-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-now-open",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/04/g32092422/madison-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-now-open",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/32092422",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32092422",
-      "publishedDateTime": "2023-04-28T12:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Benzinga.com",

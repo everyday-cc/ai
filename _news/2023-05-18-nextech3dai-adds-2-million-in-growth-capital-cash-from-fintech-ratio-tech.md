@@ -107,6 +107,20 @@ related:
       name: TechRound
       domain: techround.co.uk
     quality: 21
+  - title: "FinTech Regulation and Compliance: Navigating the Landscape to Ensure Data Privacy"
+    excerpt: "To keep up with the advancements in technologies like blockchain, AI, and cryptocurrencies, FinTech companies are overhauling their existing models to ensure compliance with global data protection regulations like the GDPR, LGPD, and CCPA, in addition to ..."
+    publishedDateTime: 2023-05-18T15:15:00Z
+    webUrl: "https://www.finextra.com/blogposting/24224/fintech-regulation-and-compliance-navigating-the-landscape-to-ensure-data-privacy"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 18
+    images:
+      - url: "https://www.finextra.com/finextra-images/visible_pictures/dfe92e99-e72f-4d86-a07a-8431087d475a.png"
+        width: 500
+        height: 261
+        isCached: true
   - title: "Nextech3D.ai Receives $2 Million in Cash From $400 million FinTech Ratio Tech"
     excerpt: "With access to a $400 million credit facility, Ratio is able to fund Nextech3D.ai Accounts Receivables With Zero dilution For The Foreseeable Future"
     publishedDateTime: 2023-05-18T11:45:00Z
@@ -158,6 +172,6 @@ related:
       domain: menafn.com
     quality: 4
 
-secured: "fjOmNTBnVDMzZqJSW4zxrxprTxemPtxhj26El8pk7+ewM4n7iEphKI/ouNm2xSig1N1/2df90UTogcGAW7Qjay++EAP/PYK3AKFoM/vya17LLWd+U9t/O/+bcAY2yFURJNuoFAVTU7HO4sLJpR0BVBi4f0kkzYmTS4q5+7V8gCbR3hOdxOL6SrVTEGT3R3Uxm7pk9COO1ald60iaKTy4lfVFpTVpMXxMXx4+l11cHYWA/qXacm5w1Ma2C66g8Ynh2UHn2qbKXwa90KWNuVsZ8CamIszUsWvAXrBpYhQ5uKh/+c/XDe0pi+VADIuyWaeHxZoFeAJ4eVjAezvfNd3FHLAHnZ8SP7phUTu58RqSD2Y=;0beEztuAzW02LEwhPsZl4g=="
+secured: "cdJlPIkpR4vG1Om+Qi72buOQuU6jB27zB5Mzeo5AoKMz7iWoYayXmDdn7RiZOaNpIbaikiuckNtcWm4xQyEDBT2l7A+I9dYENab0IASttU/jckfGmLuZNuHG5+87TppAWvWrcv05Mt0oqhVRPHuszAvWSmDm1La0RReadeKuR+jCuwH/DbVXV7mf7DCL8Qk3V3E15RSaJJUMTgRv5PuMbGlSldolgh4lEmYWuW2JsWHBJBFaDXq81a5zzg9m1bkKEkPPBV0N/98TY30/j+j4FcAJbaE664BMO2jdyVydtmvzymRXqZEQ2PQ2t5AknuzVuGD8wyIKpKNK5j03LxGx1ARFcFeAXsgwBdgOqDL7TZBgcLCZk7mp9lYpUhVWaFP43b9vfk14V4iej26CM1YdHRhClE+ku27jElaJvGp+hrynSGAWv6HR0t3cNDnfsmXZ9kEguqoy1TqAVBnXjSBHv8Ip79pNCp3QeWn2mmTPb04sgYT51Y+94sovjPmYtzZTNVEt3eTSuMHQJ0Ur5IkPeA==;HdP7F0SZliqU+c8C1mKRDQ=="
 ---
 

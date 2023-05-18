@@ -2,6 +2,103 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-05-18-announcing-the-updated-microsoft-sharepoint-connector-v20-for-amazon-kendra.md",
+      "title": "Announcing the updated Microsoft SharePoint connector (V2.0) for Amazon Kendra",
+      "excerpt": "Amazon Kendra is a highly accurate and simple-to-use intelligent search service powered by machine learning (ML). Amazon Kendra offers a suite of data source connectors to simplify the process of ingesting and indexing your content, wherever it resides. Valuable data in organizations is stored in both",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/announcing-the-updated-microsoft-sharepoint-connector-v2-0-for-amazon-kendra/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/announcing-the-updated-microsoft-sharepoint-connector-v2-0-for-amazon-kendra/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/05/18/updated-sharepoint-kendra.jpg",
+          "width": 1068,
+          "height": 535,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-18T10:25:03-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-18-why-google-cloud-bests-aws-microsoft-in-generative-ai-kevin-ichhpurani.md",
+      "title": "Why Google Cloud Bests AWS, Microsoft In Generative AI: Kevin Ichhpurani",
+      "excerpt": "Google’s generative AI enterprise innovation with Google Cloud is better compared to Microsoft and AWS’ artificial intelligence, says partner leader Kevin Ichhpurani.",
+      "sourceUrl": null,
+      "webUrl": "https://www.crn.com/news/cloud/why-google-cloud-bests-aws-microsoft-in-generative-ai-kevin-ichhpurani",
+      "originalUrl": "https://www.crn.com/news/cloud/why-google-cloud-bests-aws-microsoft-in-generative-ai-kevin-ichhpurani",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crn.com/resources/0281-180b09f845b3-5ac794ee6411-1000/kevin-ichhpurani-google-cloud.jpeg",
+          "width": 610,
+          "height": 489,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-18T09:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CRN",
+        "domain": "crn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-18-build-better-ai-for-enterprise-and-hybrid-cloud-with-ibms-watsonx.md",
       "title": "Build Better AI For Enterprise And Hybrid Cloud With IBM’s WatsonX",
       "excerpt": "Another example is SAP, which will incorporate the Watson service processing to power its digital assistant in SAP Start. New AI capabilities in SAP Start will help boost user productivity with both natural language capabilities and predictive insights ...",
@@ -158,7 +255,7 @@
       "originalUrl": "https://www.zdnet.com/article/these-4-popular-microsoft-apps-are-getting-a-big-ai-boost/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 306,
+      "heat": 326,
       "tags": null,
       "images": [
         {
@@ -1410,104 +1507,6 @@
         "Microsoft AI",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-05-05-microsoft-is-helping-finance-amds-expansion-into-ai-chips.md",
-      "title": "Microsoft Is Helping Finance AMD’s Expansion Into AI Chips",
-      "excerpt": "Microsoft Corp. is working with Advanced Micro Devices Inc. on the chipmaker's expansion into artificial intelligence processors, according to people with knowledge of the situation, part of a multipronged strategy to secure more of the highly coveted components.",
-      "sourceUrl": null,
-      "webUrl": "https://tech.hindustantimes.com/tech/news/microsoft-is-helping-finance-amd-s-expansion-into-ai-chips-71683222710006.html",
-      "originalUrl": "https://tech.hindustantimes.com/tech/news/microsoft-is-helping-finance-amd-s-expansion-into-ai-chips-71683222710006.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 488,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hindustantimes.com/tech/img/2023/05/05/1600x900/USA-ARTIFICAL-INTELLIGENCE-BIDEN-0_1683254919434_1683254950133.JPG",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://tech.hindustantimes.com/amp/tech/news/microsoft-is-helping-finance-amd-s-expansion-into-ai-chips-71683222710006.html",
-      "cdnAmpWebUrl": "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/microsoft-is-helping-finance-amd-s-expansion-into-ai-chips-71683222710006.html",
-      "publishedDateTime": "2023-05-05T07:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hindustan Times Tech",
-        "domain": "hindustantimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Finance",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-05-meta-platforms-scoops-up-ai-networking-chip-team-from-graphcore.md",
-      "title": "Meta Platforms scoops up AI networking chip team from Graphcore",
-      "excerpt": "Meta Platforms Inc has hired an Oslo-based team that until late last year was building artificial-intelligence networking technology at British chip unicorn Graphcore.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/meta-platforms-scoops-up-ai-networking-chip-team-graphcore-2023-05-05/",
-      "originalUrl": "https://www.reuters.com/technology/meta-platforms-scoops-up-ai-networking-chip-team-graphcore-2023-05-05/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 136,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/8g5tZ20Sbn0AThhkzgz3v_o1wMA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WBUVTOEJBFKNFAXZSYE544RLH4.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-05T06:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://newatlas.com/computers/case-code-of-conduct-ai-healthcare/?a
 cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/computers/case-code-of-conduct-ai-healthcare/?amp=true"
 type: article
 quality: 106
-heat: 276
+heat: 286
 published: true
 
 provider:
@@ -47,6 +47,22 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/646321ba6bb60b67d3dd3ffd/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 820
+        isCached: true
+  - title: "CDW Executive SummIT: Diving Into the Potential of Artificial Intelligence in Healthcare"
+    excerpt: "AI is a hot topic right now, and SummIT attendees expressed both excitement and caution over potential use cases."
+    publishedDateTime: 2023-05-18T17:01:00Z
+    webUrl: "https://healthtechmagazine.net/media/video/cdw-executive-summit-diving-potential-artificial-intelligence-healthcare"
+    ampWebUrl: "https://healthtechmagazine.net/media/video/cdw-executive-summit-diving-potential-artificial-intelligence-healthcare?amp"
+    cdnAmpWebUrl: "https://healthtechmagazine-net.cdn.ampproject.org/c/s/healthtechmagazine.net/media/video/cdw-executive-summit-diving-potential-artificial-intelligence-healthcare?amp"
+    type: article
+    provider:
+      name: HealthTech
+      domain: healthtechmagazine.net
+    quality: 65
+    images:
+      - url: "https://healthtechmagazine.net/sites/healthtechmagazine.net/files/styles/cdw_hero/public/video/Screenshot%202023-05-15%20at%2012.49.23%20PM.jpg?itok=nIfK2DYG"
+        width: 1440
+        height: 500
         isCached: true
   - title: "Catching bad content in the age of AI"
     excerpt: "Why haven’t tech companies improved at content moderation? This article is from The Technocrat, MIT Technology Review's weekly tech policy newsletter about power, politics, and Silicon Valley. To receive it in your inbox every Friday,"

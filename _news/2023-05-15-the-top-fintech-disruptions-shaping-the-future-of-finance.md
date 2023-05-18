@@ -9,7 +9,7 @@ ampWebUrl: "https://www.devdiscourse.com/article/technology/2452129-the-top-fint
 cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2452129-the-top-fintech-disruptions-shaping-the-future-of-finance?amp"
 type: article
 quality: 59
-heat: 169
+heat: 179
 published: true
 
 provider:
@@ -107,6 +107,20 @@ related:
       name: TechRound
       domain: techround.co.uk
     quality: 21
+  - title: "FinTech Regulation and Compliance: Navigating the Landscape to Ensure Data Privacy"
+    excerpt: "To keep up with the advancements in technologies like blockchain, AI, and cryptocurrencies, FinTech companies are overhauling their existing models to ensure compliance with global data protection regulations like the GDPR, LGPD, and CCPA, in addition to ..."
+    publishedDateTime: 2023-05-18T15:15:00Z
+    webUrl: "https://www.finextra.com/blogposting/24224/fintech-regulation-and-compliance-navigating-the-landscape-to-ensure-data-privacy"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 18
+    images:
+      - url: "https://www.finextra.com/finextra-images/visible_pictures/dfe92e99-e72f-4d86-a07a-8431087d475a.png"
+        width: 500
+        height: 261
+        isCached: true
   - title: "Nextech3D.ai Receives $2 Million in Cash From $400 million FinTech Ratio Tech"
     excerpt: "With access to a $400 million credit facility, Ratio is able to fund Nextech3D.ai Accounts Receivables With Zero dilution For The Foreseeable Future"
     publishedDateTime: 2023-05-18T11:45:00Z

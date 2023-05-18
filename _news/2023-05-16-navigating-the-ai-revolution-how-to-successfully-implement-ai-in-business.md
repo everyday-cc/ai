@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/theyec/2023/05/16/navigating-the-ai-rev
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2023/05/16/navigating-the-ai-revolution-how-to-successfully-implement-ai-in-business/amp/"
 type: article
 quality: 85
-heat: 185
+heat: 195
 published: true
 
 provider:
@@ -159,6 +159,15 @@ related:
     provider:
       name: altfi
       domain: altfi.com
+    quality: 19
+  - title: "How Scottish Mortgage and other trusts are playing the AI revolution"
+    excerpt: "News archive including articles on Fund Managers, Fund Selection, Asset Allocation, Absolute Return, Offshore Investments, Tax Shelters, Insurance bonds. How Scottish Mortgage and other trusts are pla"
+    publishedDateTime: 2023-05-18T16:01:00Z
+    webUrl: "https://www.trustnet.com/news/13378456/how-scottish-mortgage-and-other-trusts-are-playing-the-ai-revolution"
+    type: article
+    provider:
+      name: FE Trustnet
+      domain: trustnet.com
     quality: 19
 
 secured: "jrH6whjNQYIgaV6D+Agieg/Zqst5r6a9Owj+uEGj3JYntcin+7SAFVM9lEhhq+JjY4YcPxTDF0UR0KEdCnyUAig7ybNrCGredzu9B/qoeEJB92+EiceB0CwKvh/eSsz3H6Rnm/FBhcvc3yJ8W01kpFeGiw6AqG8m/craFbGdJYZKcq7lsIIUCh5s2XvEozaE8wvQVYg3Ne6VrY2Jye/6JnAPA73MXYvqPUxrErMwUGTjus7C9Yroa92XqKYaM4FAdJSlmb6C8W1+bw7NsSmj6HnMi+3p1uC8dikcGnyCDyABQfg+vN1fBBlX1B03NOHrGacELNReylAv+db8UaDVGmyn3vSkUDp0jx+y+VOcpJkoIzYaJGc1dT38lKnN7IR6F4wxaBAYZNw/V3RtG1Qgvzcc+Oq7hWqHkCj5v5U3mtS0ku6fkqO62kr4421L4rAsg9jUOpfCyAcNEi+KL9k1mhnHPNPqizgUHSG9znBPiEWcWNpNmFqRASjWQK0PVKCA70Ya4LbbLrmqn5XIq65s0w==;TRu2WiXZihMkrl8tdSZbGA=="

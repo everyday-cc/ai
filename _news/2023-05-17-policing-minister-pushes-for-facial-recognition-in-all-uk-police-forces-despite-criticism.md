@@ -39,20 +39,6 @@ related:
         width: 619
         height: 377
         isCached: true
-  - title: "The possibly-unstoppable march of facial recognition"
-    excerpt: "The latest example is the Transportation Security Administration, which some senators and experts believe is “moving way too fast” to adopt facial recognition technology three months after the agency ignored lawmakers’ calls to pump the brakes on its usage."
-    publishedDateTime: 2023-05-17T20:05:00Z
-    webUrl: "https://www.politico.com/newsletters/digital-future-daily/2023/05/17/the-possibly-unstoppable-march-of-facial-recognition-00097476"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 39
-    images:
-      - url: "https://static.politico.com/57/64/dff2b867457ea19b42bf7c926803/191227-facial-recognition-gty-773.jpg"
-        width: 3174
-        height: 2115
-        isCached: true
   - title: "Walter R. Sundling School receives national recognition for music education program"
     excerpt: "District 15's Walter R. Sundling Junior High School has been honored with the SupportMusic Merit Award from The NAMM Foundation for its outstanding commitment to music education."
     publishedDateTime: 2023-05-18T13:42:00Z
