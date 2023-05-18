@@ -1,13 +1,13 @@
 ---
 category: news
 title: "AI pioneer Yoshua Bengio says governments must move fast to ‘protect the public’"
-excerpt: "Yoshua Bengio, a professor at the University of Montreal, is best known for his work on deep learning, a field of AI research that has driven the ... must move fast to ‘protect the public’ on facebook (opens in a new window) AI pioneer Yoshua Bengio ..."
-publishedDateTime: 2023-05-18T04:02:00Z
-originalUrl: "https://www.ft.com/content/b4baa678-b389-4acf-9438-24ccbcd4f201"
-webUrl: "https://www.ft.com/content/b4baa678-b389-4acf-9438-24ccbcd4f201"
+excerpt: "Computer science professor becomes latest expert to voice concerns over rapid rollout of large language models"
+publishedDateTime: 2023-05-18T04:00:00Z
+originalUrl: "https://www.ft.com/content/b4baa678-b389-4acf-9438-24ccbcd4f201?shareType=nongift"
+webUrl: "https://www.ft.com/content/b4baa678-b389-4acf-9438-24ccbcd4f201?shareType=nongift"
 type: article
-quality: 14
-heat: 14
+quality: 12
+heat: 12
 published: false
 
 provider:
@@ -15,9 +15,8 @@ provider:
   domain: ft.com
 
 topics:
-  - Facebook AI
   - AI
 
-secured: "/k4OLcBL/52vdwR2xU6WRMiNebnxgjaTPnQN9AhVBivX89uSZNdzZdDqjyS/zNHFDlgWKXmkSTANUS8RYbQGDpUPmVP3zlhaXPgEXBHrn3a28RUSoVUqSKG1Bx0f67ztjBp+QZKVQ6yxgY7tDgY9uBoffDBanhEze8WhkiUK/ELML41ICQfWz4HIw+tLmFC72Cc4+Ts32bme32Ir7XrlczopwtBNJ3kLz0OuWoEmDfrzdE+TJzhfl8AbOx7jNb6CIDe/jq/uZV1E3Ep0+6SZcE3XkTiCjauueGT7t2Rzrhx3yfC9595pI/j302u9jcIEgc1nGuYVcKI1KiSCbIWAnyoesDun8R254BUOnLGdC9w9f2r1QLi3yB3vY/0zVE68gpxqSpECSwShp+tf8jYf0FcUGaKKvCG7gDHVwn2q6kqflpWVK8oupamV4cd5WfdT3lLFdkspRmLegVI0kBWuBnDLMVTqSI6B+QqiBUH52dx7Aqt/AcNnGZLuY80yRVk6oFAi8EY/cdIyPuVYEM1CXg==;VuII1K2IezkoukNMsk0YXA=="
+secured: "KbydlqIEV6JW7yZqi1qC3zY6rICneyWEAdsDeTEGt+/DaVV+bLwHw0OVVtqoHQ9CCD771Bbwvldmnkcm7cICsFgon7/3SfS8kz6hryaplL95k0kZ3XECQqE+NObIRZigywItaKB4QBw4kEf2d5Ysy6UNorLTdmYGYJTdxPSRhFB4IpetvD+e6nUewFl2FLKTiizNkPBsUhl1CWAuGbzfT9jBKVjWO/3nBe9gpcjzVLD//E4X6Wnl8Wlgstnn1Hyr0buup7T5ZFzvLe//AN+20TsUE+wHZzF/Bf5TAljE4FggI0Y/k/ty64Lf8gtpKF/R9G932AyusK3g6cqDzBLpxnywzgQwlNlh1aD5YHxBP+RCsgjLQRREAUscX6NiFrdAnUF0bO2jYwu9Klhmx2XgAtJJhk1Fao4AAYo75wYx3Z2DpJmJsIPED3I19ytxi8aZHBM8Nu/V3R9bFi/8JEwxF7WGu14zsBtFEqdyRvCP7n4Jd5oGhI0slNiIIWXBRGt/6lSb6o6FxRMkBgjsc6rtsg==;5XsDyW12VaS9mAvbq3uvpg=="
 ---
 

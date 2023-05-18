@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/2023-computer-vision-sys
 webUrl: "https://www.marketwatch.com/press-release/2023-computer-vision-system-market-research-report-analysis-by-2030-2023-05-15"
 type: article
 quality: 69
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -94,15 +94,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 32
-  - title: "Analysis the CAGR growth on the Global Speech & Voice Recognition Systems Market and the Market size is growing at a CAGR of 13.9% from 2023 - 2030"
-    excerpt: "The global Speech & Voice Recognition Systems market has seen significant growth in recent years, driven by increasing demand from various industries. Technological advancements, increasing consumer awareness,"
-    publishedDateTime: 2023-05-13T13:25:00Z
-    webUrl: "https://www.marketwatch.com/press-release/analysis-the-cagr-growth-on-the-global-speech-voice-recognition-systems-market-and-the-market-size-is-growing-at-a-cagr-of-139-from-2023---2030-2023-05-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 0
 
 secured: "n6DzNKYfW4WxXF+VRQrthrA+VRqeN/OutwGve3oPLHd0VdpBIGPicUh3qaJHm4QIFEQd9Q+/RrjUxFB38frx1qimWZoBc7Xt8hR+9/zIUPX34f/sOE8WSonSm1iJne7WwDh/DqXYndRZBtQGykilvxcjIVnLiT77bAHK0f3BRnve/tndDcbFP7P+D2Z0n1C72ibQVadMvJTDeHuCypjmlZ5Uzc3pr+PyyqixBMyvgnE8rqp3PqFvFYjJcZ9UtHweaHD71qrCu/YZRoHGFhYACwuq9eGcgTa+d4ygp6iq9KdV6inUcVrSbGutc3dxE+wZ6o+7QnpshyB+vpzJTu8NeZDTDKZf2xqiIuG4y0866s8=;n7VwBU9vMmb8LNkDbXnQ4g=="
 ---

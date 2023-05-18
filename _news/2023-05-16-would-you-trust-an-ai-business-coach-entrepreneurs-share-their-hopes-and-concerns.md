@@ -46,20 +46,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "How Entrepreneurs Are Transforming Patient Care With AI"
-    excerpt: "According to Markets and Markets, global AI in the healthcare market is projected to grow from $4.9 billion in 2020 to $45.2 billion by 2026, registering a compound annual growth rate (CAGR) of 44.9% during the forecast period."
-    publishedDateTime: 2023-05-13T14:04:00Z
-    webUrl: "https://www.medpagetoday.com/opinion/kevinmd/104478"
-    type: article
-    provider:
-      name: MedPage Today
-      domain: medpagetoday.com
-    quality: 39
-    images:
-      - url: "https://assets.medpagetoday.net/media/images/104xxx/104478.jpg"
-        width: 1600
-        height: 900
-        isCached: true
 
 secured: "gT9HAY7qiZAJ8ikWQ4rhlyvgY5zY6MKW8okNzIKnFjLE1yGG6Zi+Dw1kxXezacB8rqU5fCV63DMnaD0hN+NTcOFB6UltZWvVq6u1JumvnglkjU5BLvRMP+4lZvDIlrVCcoEx9+gNWTzGT2GBcRQ+QL1Mart548v34mcMsSivtdsoOM2i4XpxWR/OIst+LhKt26mLNg7hFrrMdCF5nHoBsdtM1WW0GmHQVvhEJGXYzeChmxE4v7hhYAkNxFP4V1L3j+etR43SyBlZE+8t9/UeAwAns2Rosej5suUNiHbezWzoJ7Csn+t43+rnzp2yEcBl0P56JU0Xtd9pkk+FDxFn2I5zIfRVYDS9xi+zT5o9kdvB4OBDXuuHdr+EA3pNin3fnpJW0VlOJ6GsL5DFehpl4jxKjvfnKXNP3/s2Nj/CorskcFGC6kJ6LMqmkzqOQiLvVPuMtJY1QJCEnie+9dp0rwO7C+Va2jwEXIMeUDzR3RZ1+rZGSss7eCtbHnBQJKY1Qay2mp5nptjRN8dyCUIXUQ==;phKCWcf1ekiIXolW5UuWnA=="
 ---

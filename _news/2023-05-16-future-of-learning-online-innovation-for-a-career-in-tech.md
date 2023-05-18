@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/mattsymonds/2023/05/16/future-of-learni
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mattsymonds/2023/05/16/future-of-learningonline-innovation-for-a-career-in-tech/amp/"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-05/230515-autonomous-bus-mb-1417-a68ffd.jpg"
         width: 3994
         height: 2663
+        isCached: true
+  - title: "Robotics innovation: Leading companies in smart factory systems for the automotive industry"
+    excerpt: "The smart factory is a cyber-physical system that analyses data, powers automated processes, and continuously learns using cutting-edge technologies like artificial intelligence (AI) and machine learning. It is a network of devices, communication systems, and computing power."
+    publishedDateTime: 2023-05-18T07:26:00Z
+    webUrl: "https://www.just-auto.com/data-insights/innovators-robotics-smart-factory-systems-automotive/"
+    type: article
+    provider:
+      name: Just Auto
+      domain: just-auto.com
+    quality: 44
+    images:
+      - url: "https://www.just-auto.com/wp-content/uploads/sites/30/2023/05/Robotics_Smart-factory-systems.jpg"
+        width: 1440
+        height: 810
         isCached: true
 
 secured: "XyPZYZrxMJOqSDptYNmp089pBW5two7AOVSMBRGYX7GzFSdVEz7KHOnXX10MkOA8kXMKNUL13Atw8/UYuns+WqMut4JZz4t3fWULdslQt893vkyAVYQkAw827pLRlSUjEJBmBHvJwcZz7sRIgBYMninMxh5KykLBXDH5gBzjnMnQbVAb1oedrbhLy/nDZbC44JBpxc2z6oRcvydrmmis0g4ybXJ2EoKTgHJMM77RCYlp6cMPW3xvABPp7nnjIznyl09ju03eSIKoLzVCYLtEPVJjVQQySTi+28aH8bR92brlWmbaSyK1DS831m35UZasONKtbQgPpjrVjsV8A9oVXr1fgSSy0Pu2Ax7dmNSGRqg=;U/b5Ysy1OTO3h21LokDjMQ=="

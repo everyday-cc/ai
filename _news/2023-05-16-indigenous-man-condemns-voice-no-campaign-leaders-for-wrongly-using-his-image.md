@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.theguardian.com/australia-news/2023/may/16/indigenous-ma
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2023/may/16/indigenous-man-condemns-voice-no-campaign-leaders-for-wrongly-using-his-image"
 type: article
 quality: 56
-heat: 66
-published: false
+heat: 76
+published: true
 
 provider:
   name: The Guardian
@@ -46,6 +46,20 @@ related:
       - url: "https://i.guim.co.uk/img/media/1b52a01948f02b67d0216a95746a1b30bf00c5d9/603_557_321_193/master/321.jpg?width=620&quality=85&auto=format&fit=max&s=db4c22182af276aaec6ddecfbde03772"
         width: 620
         height: 373
+        isCached: true
+  - title: "AFL backs Yes vote for Indigenous Voice"
+    excerpt: "“While we encourage everyone to seek the information they need to form their own views on the referendum, the AFL proudly supports the recognition of Aboriginal and Torres Strait Islander peoples in the Australian Constitution through the voice to ..."
+    publishedDateTime: 2023-05-18T07:29:00Z
+    webUrl: "https://www.afr.com/companies/sport/afl-backs-yes-vote-for-indigenous-voice-20230518-p5d9ja"
+    type: article
+    provider:
+      name: The Australian Financial Review
+      domain: afr.com
+    quality: 24
+    images:
+      - url: "https://static.ffx.io/images/$zoom_0.3082%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_359%2C$y_339/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/8541fcb0422a312b79f6b9ab016660001eb12034"
+        width: 1200
+        height: 628
         isCached: true
 
 secured: "l+ObuacAC5klA9FAR0etBPW/OdeD3ofJB9vfYqd6xlMQFPnc5wrBN4S8Xj3EShGfBF4/iPPYWPYEzDTf51mGmcntZz4k+hOmuPvhicKbxsU9BasVpy0AxKafr8/Dm1L47j5zJeoC+s2LXzSJECvLNDZdTLnouFUW/PvH+gz/oVFa7xNJku4b9xM2i7BQgHpLm0vv5mPSKrv2bVcOJfSnPuHYDsEvW85nP/y2WF8Ja2aVGZOQ/duJNIm5lVFDMf5EHbZ7UszEXXz3s7w0FibP1xUNx+C0cJuDHH4fPtZ3mNaqLPtkG1bwlQe48ueeztSowBNMSZVUSj0YpEQ6skksb1yeVLpWV+dhd7r9qL1hD3KpoX8M2b+hvUy6xWqGQX6060bpw4ih/XW243iZ9O8xqZwHHjFE9FVh2Xjqdn/rEJ8xOK2Nqa6oquANza6Vs3mmF+2U0p3AQp+T/JnBZYcR23ECxJv+zJ463A0Lld+GC41wUNyVJEA3fUEm5QkNUce7NgsM+9pzWwNDhTgplfSFCA==;aIp9364oQkfGSL/FabJXgg=="

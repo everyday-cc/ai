@@ -43,7 +43,21 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Robotics innovation: Leading companies in smart factory systems for the automotive industry"
+    excerpt: "The smart factory is a cyber-physical system that analyses data, powers automated processes, and continuously learns using cutting-edge technologies like artificial intelligence (AI) and machine learning. It is a network of devices, communication systems, and computing power."
+    publishedDateTime: 2023-05-18T07:26:00Z
+    webUrl: "https://www.just-auto.com/data-insights/innovators-robotics-smart-factory-systems-automotive/"
+    type: article
+    provider:
+      name: Just Auto
+      domain: just-auto.com
+    quality: 44
+    images:
+      - url: "https://www.just-auto.com/wp-content/uploads/sites/30/2023/05/Robotics_Smart-factory-systems.jpg"
+        width: 1440
+        height: 810
+        isCached: true
 
-secured: "BSd/ZWUe9nQ8Hmnqvff6MLr5aUhg7RO6RS2iPjSfsW4MrrfmE/eNZOtl136zTctR/qo40ePv1oSgdybOwQMCLMUScnNtOO8Ziwr+BCdam2IzSIQ5B2A9sKLcqcqCZCeXHBiAq/RIc7E/8dsPcgnTjuk8eJgfPl5RHy/4+W3uVPcxbwFOwb3+Abp1MMEEQh2SfsiWeGxRd4IkjPNuF4lJ/5f+k3i1/3SeCJTxbAMlm4LwJopXZ6ZCX7o2vrIbb2zYk/rr4BMsRAferIiCDLYt/Jw4Nm8l3ZCOQqgiq/d6gTBE5THEMCGjZmU0yZGEWLD0BBOovGPkkofG4Zh4HWWR3PU5xeNQThfAWyIMKsqEddg=;LuhkEKqZH2ww6CqAezAHxA=="
+secured: "L92+zXeED1eg3C3189IzAoej2E4hXPcQgzyjO89jwN2hqnTDh95nbQmEANVk+Vqxk/cs+J7Q+h5GNTVlMxsYZqGns8Rp0ngXOwCjGe/2pD5C+5Zi2s7VV8DJ8QeFcYZnqMPJvP6OYLrHSSMqa2s/zG/0l+hT1YQf78RLthN19DGkQXuAr2y+HpoENy5+ld5V49jhUxW+00+AoPab3BvLdpZ7Ug0a/2/PG3rJuFpDcKSlh0ro0gqHlhcO4BwpM0m0nIeXlJkaZtaLeveXXgGitDWNSwZ/4HAblI64FTA9mQsyGH9zb+q6McPrfn/JBXKMhHwB97rtGOT8Klht/64n1UjUp7lB9qkwcrWjv+5cbgMsmWqc+F42WnVXiyB5POIRI+JZmx23KiF1DQRSd+b8OK18CxJy7x4dviwJ4ghPjB8evqVkaKuYvWszKTdgMBH0uO2T7zHnkXVe+Vek00KxHNFHa8WBaL4fe1sXt/0JkCgX8uMc97WQhirkCb8DkOCZEdtfoS5Noxe3wnGJDmgYGg==;s3ixKjy5rRHYJ/BTdgQkNg=="
 ---
 

@@ -94,15 +94,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 32
-  - title: "Analysis the CAGR growth on the Global Speech & Voice Recognition Systems Market and the Market size is growing at a CAGR of 13.9% from 2023 - 2030"
-    excerpt: "The global Speech & Voice Recognition Systems market has seen significant growth in recent years, driven by increasing demand from various industries. Technological advancements, increasing consumer awareness,"
-    publishedDateTime: 2023-05-13T13:25:00Z
-    webUrl: "https://www.marketwatch.com/press-release/analysis-the-cagr-growth-on-the-global-speech-voice-recognition-systems-market-and-the-market-size-is-growing-at-a-cagr-of-139-from-2023---2030-2023-05-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 0
 
 secured: "bsTttRT0/P+0RrK7ksIrM/MBRFcz/cEXis1b802pkJ8c4lbMlPhsuo3MzoWE9PlMKNaxglvobYxSm1CyqlCMC2wgU4zEsKcI3m9l4ozl4OnVjBcNVTc6ydfQ5eZHP4NdA38M3qW3SrqlXRTs+7l15TFXCZQ4rHtzTS6ev1j7H27nIrhbtR9tkHd5Sb9O9xN39WUyBghy6llVY688Fd8/n8YxCIOuIYcK8TtavCbR6T/1h91g95R1Ro/JQHe96ohjGbnklGlO2VaXbecjpqtpEWQ1VzjxjuGWZoSbk99YPTDbdgyz1/vCSNjyz423ocJI9m2ubUg5xA2SMmKf4+GkjSZ8awlxeW2D11yNIa3H+Rk=;RTuNwmZaMniciagTMRShTg=="
 ---

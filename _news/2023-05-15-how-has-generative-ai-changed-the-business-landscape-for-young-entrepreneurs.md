@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/theyec/2023/05/15/how-has-generative-ai
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2023/05/15/how-has-generative-ai-changed-the-business-landscape-for-young-entrepreneurs/amp/"
 type: article
 quality: 86
-heat: 106
+heat: 96
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/6460f1b44d52fccdb358caf8/0x0.jpg?format=jpg&crop=3692,2075,x514,y881,safe&width=1200"
         width: 1200
         height: 674
-        isCached: true
-  - title: "How Entrepreneurs Are Transforming Patient Care With AI"
-    excerpt: "According to Markets and Markets, global AI in the healthcare market is projected to grow from $4.9 billion in 2020 to $45.2 billion by 2026, registering a compound annual growth rate (CAGR) of 44.9% during the forecast period."
-    publishedDateTime: 2023-05-13T14:04:00Z
-    webUrl: "https://www.medpagetoday.com/opinion/kevinmd/104478"
-    type: article
-    provider:
-      name: MedPage Today
-      domain: medpagetoday.com
-    quality: 39
-    images:
-      - url: "https://assets.medpagetoday.net/media/images/104xxx/104478.jpg"
-        width: 1600
-        height: 900
         isCached: true
 
 secured: "qJPEMs2IYQJRMKlHMG1X6jj9fiGyQqZZGbVSNcwjgNEouo++7MyDHUjryvJKvih7v6G8xHakSphW4j6hrhn3fi7vNtBrykzygjznGCF+hslSGGgKzH+R+mqY9A83GffWfwRokBj0LOyeisS7BJvYknXIU5H3GLmeFmbHV3yZVJKUM2ZYjJpgkFQRlARsPmBmOqUqewg+bm8ylDiukbWtPFbZ2ZJhuT5TIbuLPkCMcJG5AzqG60WFPpJfC0tDUxGTIYGDckjOXXzDQIvkM1gsJO+AfYxzgQdedrKZMv+F+RU3aODo6HGPjG1MyFMNIIfq87/8TiPbvOTlQT6A7Mu000AAUTkc57aWQZRNruyxx1Hz7HYGtB0m+/OzTzTNbWRyoUhxc0chKekW9djHJSVIPPqRZJ0C7CgqclCWOZxh98RtXbKXcHnwgdn8WObUZzkCL1xHOYFZBxrITHbfqpFNPIHXnAv/Aav4Q8W7ZZmQ0m0e7d67yNC7rVuIKsoTBcZ0+v8E3qB3eilhqXNXNm22oA==;tjaq3GtKYTesSi0OymIDpQ=="

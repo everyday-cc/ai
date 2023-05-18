@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-05-16-teslas-full-self-driving-sees-pedestrian-chooses-not-to-slow-down.md",
+      "title": "Tesla’s “Full Self-Driving” sees pedestrian, chooses not to slow down",
+      "excerpt": "But alarmingly, a video posted to Twitter over the weekend shows that although the Tesla system can see pedestrians crossing the road, a Tesla can choose not to stop or even slow down as it drives past.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/cars/2023/05/teslas-full-self-driving-sees-pedestrian-chooses-not-to-slow-down/",
+      "originalUrl": "https://arstechnica.com/cars/2023/05/teslas-full-self-driving-sees-pedestrian-chooses-not-to-slow-down/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 130,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/FSD-screenshot-800x452.jpg",
+          "width": 800,
+          "height": 452,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/cars/2023/05/teslas-full-self-driving-sees-pedestrian-chooses-not-to-slow-down/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/cars/2023/05/teslas-full-self-driving-sees-pedestrian-chooses-not-to-slow-down/amp/",
+      "publishedDateTime": "2023-05-16T07:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-16-cheat-sheets-for-ai-information-overload.md",
       "title": "Cheat Sheets For AI Information Overload",
       "excerpt": "There is now a firehose stream of AI-related information published each day, and it is getting harder to keep up with what's happening in AI.",
@@ -816,6 +868,58 @@
       ]
     },
     {
+      "path": "_news/2023-05-16-indigenous-man-condemns-voice-no-campaign-leaders-for-wrongly-using-his-image.md",
+      "title": "Indigenous man condemns voice no campaign leaders for wrongly using his image",
+      "excerpt": "No voice leader Warren Mundine has stood by his campaign’s ... “It appears that some people have been misled into saying things on camera about constitutional recognition by the no campaign,” she told Guardian Australia.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/australia-news/2023/may/16/indigenous-man-condemns-voice-no-campaign-leaders-for-wrongly-using-his-image",
+      "originalUrl": "https://www.theguardian.com/australia-news/2023/may/16/indigenous-man-condemns-voice-no-campaign-leaders-for-wrongly-using-his-image",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/1b52a01948f02b67d0216a95746a1b30bf00c5d9/603_557_321_193/master/321.jpg?width=620&quality=85&auto=format&fit=max&s=db4c22182af276aaec6ddecfbde03772",
+          "width": 620,
+          "height": 373,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/australia-news/2023/may/16/indigenous-man-condemns-voice-no-campaign-leaders-for-wrongly-using-his-image",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2023/may/16/indigenous-man-condemns-voice-no-campaign-leaders-for-wrongly-using-his-image",
+      "publishedDateTime": "2023-05-16T03:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-16-startup-etched-closes-seed-round-promises-more-cost-effective-ai-chip.md",
       "title": "Startup Etched Closes Seed Round, Promises More Cost-Effective AI Chip",
       "excerpt": "Etched, a startup that has designed a more specialized, less power-intensive chip for running generative AI models, is expected to announce that it raised $5.36 million in a seed round led by Primary Venture Partners.",
@@ -928,7 +1032,7 @@
       "originalUrl": "https://www.forbes.com/sites/mattsymonds/2023/05/16/future-of-learningonline-innovation-for-a-career-in-tech/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -1167,99 +1271,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-16-online-search-to-make-up-lost-time-with-ai.md",
-      "title": "Online Search To Make Up Lost Time With AI",
-      "excerpt": "Online search, dominated by Google for 25 years, has become as banal as making a phone call, but it could finally be getting a profound reset thanks to artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/news/online-search-to-make-up-lost-time-with-ai-8ef011d",
-      "originalUrl": "https://www.barrons.com/news/online-search-to-make-up-lost-time-with-ai-8ef011d",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.barrons.com/asset/external-media/afp/AFP4218075234965310178666011516179357766924---1.jpg",
-          "width": 768,
-          "height": 482,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.barrons.com/amp/news/online-search-to-make-up-lost-time-with-ai-8ef011d",
-      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/online-search-to-make-up-lost-time-with-ai-8ef011d",
-      "publishedDateTime": "2023-05-15T18:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-16-friend-or-foe-defining-industry-responsibility-for-ai-based-technology.md",
-      "title": "Friend or foe: Defining industry responsibility for AI-based technology",
-      "excerpt": "AI holds the power to dramatically change the world. Why enterprises must continually evaluate their stance on the purpose and use of AI.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/friend-or-foe-defining-industry-responsibility-for-ai-based-technology/",
-      "originalUrl": "https://venturebeat.com/ai/friend-or-foe-defining-industry-responsibility-for-ai-based-technology/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1171820924.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 624,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/friend-or-foe-defining-industry-responsibility-for-ai-based-technology/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/friend-or-foe-defining-industry-responsibility-for-ai-based-technology/amp/",
-      "publishedDateTime": "2023-05-15T18:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }
