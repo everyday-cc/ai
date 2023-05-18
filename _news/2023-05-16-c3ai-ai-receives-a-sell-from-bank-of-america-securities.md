@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/c3ai-ai-receives-a
 webUrl: "https://markets.businessinsider.com/news/stocks/c3ai-ai-receives-a-sell-from-bank-of-america-securities-1032328975"
 type: article
 quality: 66
-heat: 76
+heat: 86
 published: true
 
 provider:
@@ -33,6 +33,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
+  - title: "Bank of America launches FinTech accelerator for underrepresented communities"
+    excerpt: "Bank of America has launched a FinTech accelerator programme aimed at presenting economic opportunities to entrepreneurs from underrepresented communities. <br /> <br /> Bank of America Breakthrough Lab is now open for applications for its September 2023 cohort."
+    publishedDateTime: 2023-05-18T09:58:00Z
+    webUrl: "https://www.fstech.co.uk/fst/Bank_of_America_launches_FinTech_accelerator_for_underrepresented_communities.php"
+    type: article
+    provider:
+      name: fstech
+      domain: fstech.co.uk
+    quality: 36
+    images:
+      - url: "https://www.fstech.co.uk/fst/images/businessman-buttons-virtual-fintech-m.jpg"
+        width: 5580
+        height: 3138
+        isCached: true
 
 secured: "8az3JAv7KsDDj+4yu1KrBNwvgfiTmy4VARxlxO9SzSbzwIRDYo8RZKBR68+SXPIOgGx/+F8+80aUbbhNdmsWnr/T6WkXRx/CVxJEd4cL1PfCeiVNT/uLkvze7VORTcozeF3ke9FbYQ2WRrMgFrJ+DLkH4CZVkVrtdvSy0HsPFxLLojNjWgiRdaymtVgmI1j2GGxRfXQNqC/IX2wx2khi3CcD2VRH6Jgr6dAb2x1qL3jDZ9zxzuDpgwwsrxFbsULhnryLSsuJm6w8448PReoA9zUgfUThh5w8Ja1b24qtO+fnaikrwGFK0byyuheJBG+twPiCnORRMblKf42MuKmH0FaGmUIKPBtAMOCY7JKISFQ=;6yYZOrM+dcZmoHjsJ0wrsQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/glenngow/2023/05/14/ai-risk-management-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glenngow/2023/05/14/ai-risk-management-for-corporate-boards-5-areas-you-should-be-prioritizing/amp/"
 type: article
 quality: 85
-heat: 95
+heat: 105
 published: true
 
 provider:
@@ -30,6 +30,15 @@ images:
     isCached: true
 
 related:
+  - title: "Sam Altman Sends A Message To Corporate Leaders On AI Risk Management"
+    excerpt: "The OpenAI CEO’s Senate testimony on the potential risks of AI and its need for regulation prompts boards to accelerate their oversight of how AI is applied in their own organizations."
+    publishedDateTime: 2023-05-17T19:39:00Z
+    webUrl: "https://www.forbes.com/sites/michaelperegrine/2023/05/17/sam-altman-sends-a-message-to-corporate-leaders-on-ai-risk-management/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "Is artificial intelligence the right technology for risk management?"
     excerpt: "Despite regulatory issues and doubts over reliability, many believe AI will become more common in financial institutions"
     publishedDateTime: 2023-05-15T04:00:00Z

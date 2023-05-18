@@ -180,6 +180,22 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 59
+  - title: "Microsoft announces four new languages added to Microsoft Translator"
+    excerpt: "Microsoft India announced that it had added four new languages - Konkani, Maithili, Sindhi, and Sinhala - to its Microsoft Translator platform."
+    publishedDateTime: 2023-05-18T10:32:00Z
+    webUrl: "https://www.thehindu.com/sci-tech/technology/microsoft-announces-four-new-languages-added-microsoft-translator/article66865673.ece"
+    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/microsoft-announces-four-new-languages-added-microsoft-translator/article66865673.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/microsoft-announces-four-new-languages-added-microsoft-translator/article66865673.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 59
+    images:
+      - url: "https://th-i.thgim.com/public/sci-tech/technology/h9z0z/article38412180.ece/alternates/FREE_1200/microsoftnewrulesjpg"
+        width: 1200
+        height: 780
+        isCached: true
   - title: "Microsoft’s Bing AI adds contextual chat, widget on Android and iOS"
     excerpt: "Microsoft has just delivered a bunch of updates to Bing AI, including contextual chat and a new widget on Android and iOS."
     publishedDateTime: 2023-05-16T16:19:00Z
@@ -207,6 +223,20 @@ related:
       - url: "https://img.manufacturing.net/files/base/indm/multi/image/2023/05/SAP_Employees_2022_001__1_.6464f29dcc5be.png?auto=format%2Ccompress&fit=max&q=70&rect=0%2C174%2C1920%2C1080&w=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Microsoft India Adds 4 New Languages To Translator"
+    excerpt: "Microsoft India on Thursday announced the addition of three new Indian languages -- Konkani, Maithili, and Sindhi, in Transl"
+    publishedDateTime: 2023-05-18T11:38:00Z
+    webUrl: "https://menafn.com/1106270433/Microsoft-India-Adds-4-New-Languages-To-Translator"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 41
+    images:
+      - url: "https://menafn.com/updates/pr/2023-05/18/I_2f472image_story.jpg"
+        width: 800
+        height: 500
         isCached: true
   - title: "'Fusion in five years' | AI and Facebook billionaire-backed pioneer signs Microsoft up for 'star power'"
     excerpt: "Helion Energy, whose investors include Sam Altman, Reid Hoffman and Dustin Moskovitz, aims to get first plant online by 2028 and claims deal with software giant"

@@ -85,6 +85,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Speech & Voice Recognition Systems Market by 2030"
+    excerpt: "Research Reports has published a new report titled as \" Speech and Voice Recognition Systems Market \" by End User ( Consumer Entertainment, Telematics, Home Applications, Enterprise Applications ), Types ( Hardware,"
+    publishedDateTime: 2023-05-17T02:44:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-voice-recognition-systems-market-by-2030-2023-05-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AI Speech Recognition Technology Market 2023 Regional Trade, Company Profile Analysis, Business Strategies and PESTEL Analysis by 2029"
     excerpt: "Global AI Speech Recognition Technology Market report by MarketsandResearch.biz provides the Covid-19 impact on"
     publishedDateTime: 2023-05-16T18:49:00Z

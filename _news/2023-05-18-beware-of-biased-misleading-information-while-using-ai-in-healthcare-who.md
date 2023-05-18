@@ -1,0 +1,221 @@
+---
+category: news
+title: "Beware of biased, misleading information while using AI in healthcare: WHO"
+excerpt: "It was 'imperative' to assess the risks of using generated large language model tools (LLMs), like ChatGPT, to protect and promote human well-being.health. healthcare. fitness. wellness. well-being. biased."
+publishedDateTime: 2023-05-18T10:31:00Z
+originalUrl: "https://www.onmanorama.com/lifestyle/health/2023/05/18/beware-biased-misleading-information-while-using-ai-healthcare-who.html"
+webUrl: "https://www.onmanorama.com/lifestyle/health/2023/05/18/beware-biased-misleading-information-while-using-ai-healthcare-who.html"
+type: article
+quality: 52
+heat: -1
+published: false
+
+provider:
+  name: onmanorama
+  domain: onmanorama.com
+
+topics:
+  - AI in Healthcare
+  - AI
+
+images:
+  - url: "https://img.onmanorama.com/content/dam/mm/en/lifestyle/health/images/2023/5/18/ai-healthcare-c.jpg"
+    width: 1248
+    height: 650
+    isCached: true
+
+related:
+  - title: "The case for a code of conduct for AI in healthcare"
+    excerpt: "The rise of generative AI has prompted an AI ethicist to propose a framework to mitigate the risks of using the ever-developing tech in the healthcare space. This coincides with the chief executive of ChatGPT’s OpenAI urging US legislators to start regulating AI for the safety of humanity."
+    publishedDateTime: 2023-05-17T07:07:00Z
+    webUrl: "https://newatlas.com/computers/case-code-of-conduct-ai-healthcare/"
+    ampWebUrl: "https://newatlas.com/computers/case-code-of-conduct-ai-healthcare/?amp=true"
+    cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/computers/case-code-of-conduct-ai-healthcare/?amp=true"
+    type: article
+    provider:
+      name: New Atlas
+      domain: newatlas.com
+    quality: 106
+    images:
+      - url: "https://assets.newatlas.com/dims4/default/4f3d9da/2147483647/strip/true/crop/2000x1333+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F14%2Fd0%2F9be4e9844471ab60db09eb3130d5%2Fdepositphotos-198133002-l.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "The Danger Of AI Content Farms"
+    excerpt: "In this article, we explore the risks of AI-generated articles, including disinformation, copyright infringement, clickbait, and biased data."
+    publishedDateTime: 2023-05-16T06:27:00Z
+    webUrl: "https://www.forbes.com/sites/bernardmarr/2023/05/16/the-danger-of-ai-content-farms/"
+    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/05/16/the-danger-of-ai-content-farms/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/05/16/the-danger-of-ai-content-farms/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/646321ba6bb60b67d3dd3ffd/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 820
+        isCached: true
+  - title: "Catching bad content in the age of AI"
+    excerpt: "Why haven’t tech companies improved at content moderation? This article is from The Technocrat, MIT Technology Review's weekly tech policy newsletter about power, politics, and Silicon Valley. To receive it in your inbox every Friday,"
+    publishedDateTime: 2023-05-15T10:00:00Z
+    webUrl: "https://www.technologyreview.com/2023/05/15/1073019/catching-bad-content-in-the-age-of-ai/"
+    ampWebUrl: "https://www.technologyreview.com/2023/05/15/1073019/catching-bad-content-in-the-age-of-ai/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/05/15/1073019/catching-bad-content-in-the-age-of-ai/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 59
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/05/hi-wire-netA.jpeg?w=3000"
+        width: 3000
+        height: 1688
+        isCached: true
+  - title: "How ChatGPT and artificial Intelligence are impacting education"
+    excerpt: "From finance to health care to policing, artificial intelligence is becoming more commonplace by the day. It’s also becoming harder to avoid in our schools. ChatGPT is a chatbot that generates startlingly human-like text in response to brief prompts."
+    publishedDateTime: 2023-05-17T15:30:00Z
+    webUrl: "https://www.wfae.org/show/charlotte-talks-with-mike-collins/2023-05-17/how-chatgpt-and-artificial-intelligence-are-impacting-education"
+    type: article
+    provider:
+      name: WFAE
+      domain: wfae.org
+    quality: 56
+    images:
+      - url: "https://npr.brightspotcdn.com/dims4/default/f084be8/2147483647/strip/true/crop/5321x2794+0+598/resize/1200x630!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2023%2F01%2F25%2Fgettyimages-488893054-9cacac05ea39cc2170c1f9af7703fe3338985f17.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Dr. ChatGPT: A guide to generative AI in healthcare"
+    excerpt: "ChatGPT is a public-facing generative AI text application from OpenAI. OpenAI has developed other generative AI applications available for paying customers and is working with Microsoft, which made a reported $100 billion investment in the company. Other big tech firms such as Google and Meta have launched their own generative AI tools."
+    publishedDateTime: 2023-05-15T10:00:00Z
+    webUrl: "https://www.modernhealthcare.com/digital-health/chatgpt-healthcare-everything-to-know-generative-ai-artificial-intelligence"
+    type: article
+    provider:
+      name: Modern Healthcare
+      domain: modernhealthcare.com
+    quality: 54
+    images:
+      - url: "https://www.modernhealthcare.com/s3/files/styles/1200x630/public/Chat-GPT-healthcare-2%20%281%29.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "WHO warns about healthcare AI bias"
+    excerpt: "WHO warns healthcare organizations about the potential bias and inaccuracy of AI-based models, and calls for clinical oversight to ensure safe, effective."
+    publishedDateTime: 2023-05-16T20:19:00Z
+    webUrl: "https://www.beckershospitalreview.com/innovation/who-warns-about-healthcare-ai-bias.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 54
+    images:
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "7 Semiconductor Stocks Cashing In on the AI Hype"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Semiconductor stocks are gaining importance as the technology is increasingly"
+    publishedDateTime: 2023-05-18T10:31:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/7-semiconductor-stocks-cashing-in-on-the-ai-hype-1032336987"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
+  - title: "The First Year of AI College Ends in Ruin"
+    excerpt: "The problem breaks down into more problems: whether it’s possible to know for certain that a student used AI, what it even means to “use” AI for writing papers, and when that use amounts to cheating."
+    publishedDateTime: 2023-05-16T19:19:00Z
+    webUrl: "https://www.theatlantic.com/technology/archive/2023/05/chatbot-cheating-college-campuses/674073/"
+    type: article
+    provider:
+      name: The Atlantic
+      domain: theatlantic.com
+    quality: 47
+  - title: "Is AI the Solution to Company-Provided Mental Health Care?"
+    excerpt: "Woebot, a CBT-based chatbot created in 2017 by a team of Stanford psychologists and AI experts, fits the criteria. The app uses a form of AI called “natural language processing” to guide users through sequences of responses meant to mimic a clinician’s reasoning."
+    publishedDateTime: 2023-05-15T16:20:00Z
+    webUrl: "https://www.psychologytoday.com/intl/blog/connect-first/202305/is-ai-the-solution-to-company-provided-mental-health-care"
+    type: article
+    provider:
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 39
+    images:
+      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_images/2023-05/Woebot%20Art.png.jpg?itok=5UOZhh-v"
+        width: 1528
+        height: 800
+        isCached: true
+  - title: "Maximizing the Value of AI in Cancer Care"
+    excerpt: "Cancer treatment has come a long way in recent years and is now evolving more rapidly through the integration of artificial intelligence (AI ... treatments, and healthcare providers, collected from outside a controlled clinical trial setting."
+    publishedDateTime: 2023-05-15T00:01:00Z
+    webUrl: "https://www.mddionline.com/artificial-intelligence/maximizing-value-ai-cancer-care"
+    type: article
+    provider:
+      name: MD&M East
+      domain: mddionline.com
+    quality: 39
+    images:
+      - url: "https://www.mddionline.com/sites/mddionline.com/files/Untitled%20design%2019_0.png"
+        width: 770
+        height: 400
+        isCached: true
+  - title: "General Catalyst leads $50M investment in healthcare AI company"
+    excerpt: "Hippocratic AI, which is building a generative AI large language model designed for healthcare, launched Tuesday."
+    publishedDateTime: 2023-05-16T13:00:00Z
+    webUrl: "https://www.modernhealthcare.com/digital-health/andreessen-horowitz-general-catalyst-fund-hippocratic-ai"
+    type: article
+    provider:
+      name: Modern Healthcare
+      domain: modernhealthcare.com
+    quality: 34
+  - title: "WHO calls for safe, ethical use of AI tools for health"
+    excerpt: "The World Health Organization (WHO) has called for caution when deploying large language model tools (LLMs) generated by artificial intelligence (AI)."
+    publishedDateTime: 2023-05-17T13:38:00Z
+    webUrl: "https://english.ahram.org.eg/NewsContent/7/48/501060/Life--Style/Health/WHO-calls-for-safe,-ethical-use-of-AI-tools-for-he.aspx"
+    type: article
+    provider:
+      name: Hebdo Ahram
+      domain: ahram.org.eg
+    quality: 34
+  - title: "WHO warns against bias, misinformation in using AI in healthcare"
+    excerpt: "The World Health Organization called for caution on Tuesday in using artificial intelligence for public healthcare, saying data used by AI to reach decisions could be biased or misused. The WHO said it was enthusiastic about the potential of AI but had concerns over how it will be used to improve access to health information,"
+    publishedDateTime: 2023-05-17T09:41:00Z
+    webUrl: "https://www.fijitimes.com/who-warns-against-bias-misinformation-in-using-ai-in-healthcare/"
+    type: article
+    provider:
+      name: Fiji Times
+      domain: fijitimes.com
+    quality: 34
+  - title: "WHO calls for caution in using artificial intelligence for health"
+    excerpt: "The World Health Organisation has called for caution in using artificial intelligence-generated large language model tools to protect and promote human well-being, human safety, autonomy, and preserve public health."
+    publishedDateTime: 2023-05-16T08:28:00Z
+    webUrl: "https://punchng.com/who-calls-for-caution-in-using-artificial-intelligence-for-health/"
+    type: article
+    provider:
+      name: The Punch Newspapers
+      domain: punchng.com
+    quality: 19
+  - title: "The Future of War Is AI"
+    excerpt: "Louis Buckley, Content Developer at London’s Science Museum, plays rock, paper, scissors with Berti the Robot ... ultimate creation AI, already a living abbreviation of itself, might do, it makes me shiver. Brrr… Let me start with honesty, which ..."
+    publishedDateTime: 2023-05-17T09:05:00Z
+    webUrl: "https://www.thenation.com/article/society/war-artificial-intelligence/"
+    type: article
+    provider:
+      name: The Nation
+      domain: thenation.com
+    quality: 19
+  - title: "UP RERA to use artificial intelligence for faster resolution of cases in e-Courts"
+    excerpt: "Read more about UP RERA to use artificial intelligence for faster resolution of cases in e-Courts on Devdiscourse"
+    publishedDateTime: 2023-05-16T12:46:00Z
+    webUrl: "https://www.devdiscourse.com/article/technology/2453755-up-rera-to-use-artificial-intelligence-for-faster-resolution-of-cases-in-e-courts"
+    type: article
+    provider:
+      name: devdiscourse
+      domain: devdiscourse.com
+    quality: 12
+
+secured: "8vaTOvG08GREnMzsGgSvLTD4ja+S+kKX0y4JKHowPYTZaOSEJkjAJUYT6xTxNXvEFZoaFsG7dzU20U1BBxoW9p3lwTMWVp3RN/oqHnXBvYfzA+Yn3JdHbQ9szKGH7VTLjfHDJBkUHs9PZGazaN29sXJoxkp01SuIBZnxvm64HeUoX44YkzkfO3lqArcBCYJYQPCcOetKPCcJU9yN+m6doKWnt4UQJXu3cTUvI63jlF/6qc2it6HvbuKawwIbEHpVzwxza12QNmtM+JJM4NAPgJ9VJWSD2ZlYHn1yU6GcA4Yn9TkwIG1kO7R3ES+tz+yWp7OL5N3UMWNot9WyUv02SX2S/n7dNd8xSIzFJcH09ow=;YsHC8vI/6LQyyGsxJLLZWA=="
+---
+

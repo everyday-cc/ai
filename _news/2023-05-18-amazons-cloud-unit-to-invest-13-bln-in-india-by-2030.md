@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/technology/amazons-cloud-unit-invest-127-b
 webUrl: "https://www.reuters.com/technology/amazons-cloud-unit-invest-127-billion-india-by-2030-2023-05-18/?taid=6465dd645dda1f000194ea34"
 type: article
 quality: 54
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/Amazon.__1651409622.jpg?utm_source=fb"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Amazon's cloud unit to invest $13 billion in India by 2030"
-    excerpt: "Amazon Web Services (AWS), the cloud computing division of Amazon.com Inc, said on Thursday it plans to invest 1.06 trillion rupees ($13 billion) in India by 2030, doubling down on its past investments to cater to an ever-growing demand."
-    publishedDateTime: 2023-05-18T03:49:00Z
-    webUrl: "https://www.channelnewsasia.com/business/amazons-cloud-unit-invest-13-billion-india-2030-3497126"
-    type: article
-    provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 24
-    images:
-      - url: "https://onecms-res.cloudinary.com/image/upload/s--a9jBVIut--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2023-05-18t031303z_2_lynxmpej4h03b_rtroptp_3_eu-tech-cloud.jpg?itok=wKTGrOS3"
-        width: 1200
-        height: 676
         isCached: true
   - title: "Amazon’s AWS to invest US$13bil in India by 2030"
     excerpt: "AWS’ total planned investment in India adds up to about US$16.4 billion by 2030, the company said in a statement. The cloud platform offers more than 200 services, including storage, robotics and artificial intelligence. The proposed investment comes as ..."

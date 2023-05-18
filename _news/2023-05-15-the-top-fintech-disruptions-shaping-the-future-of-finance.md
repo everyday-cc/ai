@@ -9,7 +9,7 @@ ampWebUrl: "https://www.devdiscourse.com/article/technology/2452129-the-top-fint
 cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2452129-the-top-fintech-disruptions-shaping-the-future-of-finance?amp"
 type: article
 quality: 59
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -84,6 +84,15 @@ related:
         width: 750
         height: 499
         isCached: true
+  - title: "Nextech3D.ai Receives $2 Million in Cash From $400 million FinTech Ratio Tech"
+    excerpt: "With access to a $400 million credit facility, Ratio is able to fund Nextech3D.ai Accounts Receivables With Zero dilution For The Foreseeable FutureTORONTO, ON / ACCESSWIRE / May 18, 2023 / Nextech3D."
+    publishedDateTime: 2023-05-18T11:39:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-05/59123742-nextech3d-ai-receives-dollar-2-million-in-cash-from-dollar-400-million-fintech-ratio-tech-200.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 16
   - title: "BOOSTBILLS RECOGNISED AS A MARKET-LEADING FINTECH INNOVATION THAT SIMPLIFIES BILL PAYMENTS"
     excerpt: "Boost, the fintech arm of Axiata, recently received market validation for its game-changing BoostBills feature. Having bagged the Digital – Financial Technology trophy at the Malaysia Technology Excellence Awards 2023,"
     publishedDateTime: 2023-05-17T11:45:00Z

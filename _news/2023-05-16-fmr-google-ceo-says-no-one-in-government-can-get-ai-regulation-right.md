@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo174442053869"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo174442053869"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "OpenAI CEO testifies at Senate hearing on AI regulation"
+    excerpt: "OpenAI CEO Sam Altman testified at a Senate Judiciary Subcommittee hearing and seemed open to the idea of the government helping license and regulate the development of artificial intelligence systems."
+    publishedDateTime: 2023-05-16T16:55:00Z
+    webUrl: "https://www.nbcnews.com/now/video/openai-ceo-testifies-at-senate-hearing-on-ai-regulation-174511173819"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo174511173819"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo174511173819"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 87
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_05/1684255782233_now_daily_a_kovack_openAI_senate_230516_1920x1080-lej9ho.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Ex-Google CEO: AI on social media is ‘bad for democracy’"
     excerpt: "AI will render social media even more dangerous for elections in 2024, says former Google CEO Eric Schmidt. Major upcoming elections will be the breeding ground for voter suppression via ‘extremely inexpensive misinformation’, Schmidt told the BBC."
     publishedDateTime: 2023-05-17T15:48:00Z

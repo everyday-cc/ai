@@ -1,20 +1,30 @@
 ---
 category: news
 title: "IBM Resurrects Watson to Ride the AI Hype Train"
-excerpt: "International Business Machines (NYSE: IBM) is responsible for one of the most iconic moments in the history of artificial intelligence. Back in 2011, its Watson AI system won a three-game Jeopardy!"
-publishedDateTime: 2023-05-10T11:26:00Z
-originalUrl: "https://www.nasdaq.com/articles/ibm-resurrects-watson-to-ride-the-ai-hype-train"
-webUrl: "https://www.nasdaq.com/articles/ibm-resurrects-watson-to-ride-the-ai-hype-train"
+excerpt: "IBM debuted the Watson brand more than a decade ago, but the tech giant has been unable to turn it into a successful product. IBM is repurposing the brand for its watsonx suite of AI products ..."
+publishedDateTime: 2023-05-10T15:53:00Z
+originalUrl: "https://www.fool.com/investing/2023/05/10/ibm-resurrects-watson-to-ride-the-ai-hype-train/"
+webUrl: "https://www.fool.com/investing/2023/05/10/ibm-resurrects-watson-to-ride-the-ai-hype-train/"
 type: article
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: The Motley Fool
+  domain: fool.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - IBM AI
   - AI
 
-secured: "tE3s9wJ+X560v6/r9y4Cyk9jIt69kt/syZKphpknhWYtBYnUxD4HGv3XjiaqWRhHZACI5McysFo7LEebAZBjwv4GiKkcjRfic7TrXv3FKmfau7wXPvbxYe8gM6u4FJRvckpVjORAlLt6HY3AVfHmEfUq7FkRdnOMbJsBLgVVdj6Ob3yoJIsWuZEnglzPvEb7TrtuxGes18Z2wNLFIo9NnVzxISrw+8Pl1LNGN9GknTCYMnIPnEMDkY7URIRk3nBuWDJwQe10MIuBP4Cbms8Y7ww9oTsOemY3ZdnUsYaFT0EoNWySXVuOyPWHP7I4vRbBEMpH7trDIC295624bt3myWsA+hPKMazVj7tpwdQKM18=;mmFZ/AE6+nIQH3VjnsU+Pg=="
+images:
+  - url: "https://g.foolcdn.com/editorial/images/731710/artificial-intelligence-1.jpg"
+    width: 2121
+    height: 1414
+    isCached: true
+
+secured: "3TRIFSfeyFCw2F5ruiiuuTXy0W8aRKqfESQS15Yb8Ln4zUtlCeDTDuegMAFhfxcsbR5QCA5VPC0YJvfc8nXmmrF1HAFEFc7+BxkbH2KS5Rt8/Wqr6I/KOL9h1J8rn3Vpq6xJmAC2zW+xlHTZ1XlNHnNrq9OJBgK+yhTOGV2Ghbu+EQPvrCIk1tLGSVgGjAS43U5Lk3G9IV2zn0Oow2O7jcS+nbptiWsgccdyJ7U5SfPYrX/LILRJNsjDLRwyCIi3apAqTKabJ1FLm8XsNIJWcZja0UkwmqaZvzNSIkgTYYxjiYT34x8qFebaNEWFPm/iUFsxfvAd+CsKpPbSBazhaGsOmLBB4ShFhaWwiSXRfYc=;2rhORzubmODOUUevsPDdMA=="
 ---
 

@@ -69,6 +69,20 @@ related:
       name: The Motley Fool
       domain: fool.com
     quality: 68
+  - title: "OpenAI readies new open-source AI model - The Information"
+    excerpt: "has gained widespread attention in Silicon Valley as investors see generative AI as the next big growth area for tech companies. In January, Microsoft Corp (MSFT.O) announced a multi-billion dollar investment in OpenAI, deepening its ties with the startup ..."
+    publishedDateTime: 2023-05-16T04:00:00Z
+    webUrl: "https://www.reuters.com/technology/openai-readies-new-open-source-ai-model-information-2023-05-15/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 67
+    images:
+      - url: "https://www.reuters.com/resizer/iqo4WxdERy47YkN_PHWL63ghNJw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/OUXSPAPPUVK27H6RHKQWKLT4VI.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "AI-generated disinformation poses threat of misleading voters in 2024 election"
     excerpt: "Computer engineers and political scientists have warned for years that cheap, powerful artificial intelligence tools would soon allow anyone to create fake images, video and audio that was realistic enough to fool voters and perhaps sway an election."
     publishedDateTime: 2023-05-14T23:52:00Z
@@ -108,6 +122,24 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 35
+  - title: "OpenAI Founder Calls for the Global Regulation of Artificial Intelligence"
+    excerpt: "As senators raise concerns about the risks of ChatGPT, Sam Altman says his worst fear is his industry causing \"significant harm to the world.\""
+    publishedDateTime: 2023-05-16T18:59:00Z
+    webUrl: "https://www.inc.com/christine-lagorio-chafkin/openai-founder-calls-for-global-regulation-of-artificial-intelligence.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 33
+  - title: "OpenAI chief set to call for greater regulation of artificial intelligence"
+    excerpt: "OpenAI’s chief executive Sam Altman will tell US lawmakers on Tuesday that regulation of artificial intelligence must allow companies to be flexible and adapt to new technological developments, as the industry faces growing scrutiny by regulators around the world."
+    publishedDateTime: 2023-05-16T10:44:00Z
+    webUrl: "https://www.ft.com/content/aa3598f7-1470-45e4-a296-bd26953c176f"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 30
 
 secured: "DFK01uZQ5IW8feE7r5LRg+HrjoDFKYaPg3Mjmb2u8/nF15cSzAw20F6dn9h3dCO9t7RdmfF0VO/qhPKmzkCtyfp09P0T3JkRi9wC+htswOZN+4vqRiKcYttRTnz6zsTrPD75Thov4Jvbm67E7x90PfHb+Sw3+WM0uv8lQMyWrdTtM9cRbMLPUkJ23DifxI3mpiLE9TPFUbPYK6mL3icP5P1DcbTWbJgX6RhluJYyRoV0D5UU5cXuIdgH3ZvgFPUPDWNahtEhg7NyLTnnzKLe8t0uqn5vCHpkTAuvEvjGDcggJ4UX7FrIfkpKB2bPo71qfU69Fj8PftCSzbrHSZ9lo2ukUoaok+1LEl9dV99M3eK3CP+22J+sQI9MISj9HR/g6zEWgksZ1eWBUkJbC/uwh8nq+gkJSgvbCMePXFIVQyttkWkdijvh4MsaG0eIEXB1NsnBYOk94faHGgaAzueKrgxPuUtUQ71FMhPWlg7ifFQOVdy3XfuC3w8FbQXApSrnZLJOFHPkqMvS/rvnAi6OYg==;LQwIJ4gvxcbqZ5oDbMdnmw=="
 ---

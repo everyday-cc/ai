@@ -47,20 +47,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Amazon's cloud unit to invest $13 billion in India by 2030"
-    excerpt: "Amazon Web Services (AWS), the cloud computing division of Amazon.com Inc, said on Thursday it plans to invest 1.06 trillion rupees ($13 billion) in India by 2030, doubling down on its past investments to cater to an ever-growing demand."
-    publishedDateTime: 2023-05-18T03:49:00Z
-    webUrl: "https://www.channelnewsasia.com/business/amazons-cloud-unit-invest-13-billion-india-2030-3497126"
-    type: article
-    provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 24
-    images:
-      - url: "https://onecms-res.cloudinary.com/image/upload/s--a9jBVIut--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2023-05-18t031303z_2_lynxmpej4h03b_rtroptp_3_eu-tech-cloud.jpg?itok=wKTGrOS3"
-        width: 1200
-        height: 676
-        isCached: true
 
 secured: "eUZ52xHvZQfSdcYYEgc54O1niORpNRvGLZ2OqqYY+U6hnO9spHe2Pl+7gixM2WGdPKea3ftAf8+fnNrmWs4QdiyZXtvVHlfea4buHTmAPfbII4Ni5e3zY034ZsrO2NyBrpsxhRLXVsApL+lq9nxMfRcIMfFj/mghUkcHJvqpoh4geDAc8Xessnalbu8Bdci+2oyDj6HJy8KGo8LbkUxk7Q4FBHP3adMgp9u36XFjRNP7q2VhgzPDV5q0Dcsr54ddaOdacGfWnosCMYemBtdkx6b3H1vXWdUFQT0PaDzilFbu+xVNltBeyPEqjW60dTQWwQ+hRGGUjB+Ckpo1GBvlWq/qtctBCwCAWNMgF5UQMrq/BjDFbaIJ/+Qn8ddHZha5SKnKPMsZGGheP2gAWxl2KEhqx6lw5VOgDP9IpUaQcrg/Cddkx7/hBW1lFfjlgTsc1BQ0QC7kilGywI84QQGX01X1bQ1uDfWwBzs8m3Py6W0Xjh22ITdInkwxRIwGb22+9tHQrScacw0wfFekjXMM9Q==;6iKxrgmFZWlhqyXiRGr6MA=="
 ---

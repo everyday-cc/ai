@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "How Could Artificial Intelligence Impact Cybersecurity?"
+    excerpt: "Artificial intelligence (AI) has entered the chat in almost every industry in 2023. From art and creativity to cybersecurity, data protection and the ethical use of technology, AI is taking society by storm, with no signs of stopping anytime soon."
+    publishedDateTime: 2023-05-18T11:14:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/18/how-could-artificial-intelligence-impact-cybersecurity/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/18/how-could-artificial-intelligence-impact-cybersecurity/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/05/18/how-could-artificial-intelligence-impact-cybersecurity/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/62fe3f02288da371535f25e6/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 502
+        isCached: true
   - title: "Parablu to Deliver Microsoft Azure-Hosted Cybersecurity and Data Resiliency SaaS Solutions"
     excerpt: "Parablu will leverage Microsoft Cloud infrastructure and services –– Microsoft Azure and Microsoft 365 to deliver scalable ... making it easier for customers as well as AI tools to find and use this data effectively. \"With more knowledge workers ..."
     publishedDateTime: 2023-05-16T03:15:00Z
@@ -51,6 +67,20 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 46
+  - title: "6 Takeaways From Fintech Nexus: Networking, ChatGPT, Cybersecurity, and More"
+    excerpt: "At one of the largest U.S. fintech shows, getting information about the intricacies of the products and services offered by exhibitors was difficult."
+    publishedDateTime: 2023-05-15T16:04:00Z
+    webUrl: "https://www.cfo.com/technology/2023/05/fintech-nexus-new-york-company-culture-networking-chaptgpt-ai-crypto-blockchain-cybersecurity/"
+    type: article
+    provider:
+      name: CFO
+      domain: cfo.com
+    quality: 21
+    images:
+      - url: "https://assets.cfo.com/images/Zz0zMDhjNDkwMGYzMzAxMWVkODU1MDI2MzU0ZDc4NGZiZQ==?width=1200"
+        width: 1200
+        height: 813
+        isCached: true
 
 secured: "X80jOCwSyv6l+r+T4KfAk6NIhAvdM9fhtiW53G6gsD8kw9UaHujVUzGhebYRdpg8z/PU637JZ7FkSO8yLmiBd2J0eHdvGTk4rF0vC32LSWYGZXUgL41iUW5BQ/iNNPKq+Fmb8g5OoDJnl1R0cqDzo7w7ZryqubxU3xhruB/jvOrFU96n4Y+Bmt47YqhcW4WX+jjZlb8ha26mwM4nqS/s8gBLUQZI1nuwbADYaVJ9SWePkt3Mw1vbtmNUCgkBaHsUTn4slQs9rRJ719RLjJvNK5aNEaI4CpolSkePDkgsMjcLi8Lu3ev6YZpKqntGUK+9dnl4zZEzeMNAvCh6xnJ9dPdrYd+CU6RKZOFId9gMPzg=;aN/v3HL5/A8J0nbKX8nyfA=="
 ---

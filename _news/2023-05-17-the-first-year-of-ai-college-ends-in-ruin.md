@@ -112,6 +112,29 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Beware of biased, misleading information while using AI in healthcare: WHO"
+    excerpt: "It was 'imperative' to assess the risks of using generated large language model tools (LLMs), like ChatGPT, to protect and promote human well-being.health. healthcare. fitness. wellness. well-being. biased."
+    publishedDateTime: 2023-05-18T10:31:00Z
+    webUrl: "https://www.onmanorama.com/lifestyle/health/2023/05/18/beware-biased-misleading-information-while-using-ai-healthcare-who.html"
+    type: article
+    provider:
+      name: onmanorama
+      domain: onmanorama.com
+    quality: 52
+    images:
+      - url: "https://img.onmanorama.com/content/dam/mm/en/lifestyle/health/images/2023/5/18/ai-healthcare-c.jpg"
+        width: 1248
+        height: 650
+        isCached: true
+  - title: "7 Semiconductor Stocks Cashing In on the AI Hype"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Semiconductor stocks are gaining importance as the technology is increasingly"
+    publishedDateTime: 2023-05-18T10:31:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/7-semiconductor-stocks-cashing-in-on-the-ai-hype-1032336987"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
   - title: "Is AI the Solution to Company-Provided Mental Health Care?"
     excerpt: "Woebot, a CBT-based chatbot created in 2017 by a team of Stanford psychologists and AI experts, fits the criteria. The app uses a form of AI called “natural language processing” to guide users through sequences of responses meant to mimic a clinician’s reasoning."
     publishedDateTime: 2023-05-15T16:20:00Z

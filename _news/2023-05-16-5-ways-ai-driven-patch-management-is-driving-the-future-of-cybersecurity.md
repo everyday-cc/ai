@@ -22,6 +22,22 @@ topics:
   - AI
 
 related:
+  - title: "How Could Artificial Intelligence Impact Cybersecurity?"
+    excerpt: "Artificial intelligence (AI) has entered the chat in almost every industry in 2023. From art and creativity to cybersecurity, data protection and the ethical use of technology, AI is taking society by storm, with no signs of stopping anytime soon."
+    publishedDateTime: 2023-05-18T11:14:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/18/how-could-artificial-intelligence-impact-cybersecurity/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/18/how-could-artificial-intelligence-impact-cybersecurity/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/05/18/how-could-artificial-intelligence-impact-cybersecurity/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/62fe3f02288da371535f25e6/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 502
+        isCached: true
   - title: "Parablu to Deliver Microsoft Azure-Hosted Cybersecurity and Data Resiliency SaaS Solutions"
     excerpt: "Parablu will leverage Microsoft Cloud infrastructure and services –– Microsoft Azure and Microsoft 365 to deliver scalable ... making it easier for customers as well as AI tools to find and use this data effectively. \"With more knowledge workers ..."
     publishedDateTime: 2023-05-16T03:15:00Z
@@ -54,6 +70,20 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 24
+  - title: "6 Takeaways From Fintech Nexus: Networking, ChatGPT, Cybersecurity, and More"
+    excerpt: "At one of the largest U.S. fintech shows, getting information about the intricacies of the products and services offered by exhibitors was difficult."
+    publishedDateTime: 2023-05-15T16:04:00Z
+    webUrl: "https://www.cfo.com/technology/2023/05/fintech-nexus-new-york-company-culture-networking-chaptgpt-ai-crypto-blockchain-cybersecurity/"
+    type: article
+    provider:
+      name: CFO
+      domain: cfo.com
+    quality: 21
+    images:
+      - url: "https://assets.cfo.com/images/Zz0zMDhjNDkwMGYzMzAxMWVkODU1MDI2MzU0ZDc4NGZiZQ==?width=1200"
+        width: 1200
+        height: 813
+        isCached: true
 
 secured: "Em0u77y3x+ZnQ4EQf/YX5uaGWEZlHsOAJcm28BW/pHpoXFYMak32kHagxYbsLVE/SYOnWCSrXFv8FiVXHRoIFgpx6HhHM/uUqIHA2mxPP3ku/p23YSsgThMqI+1MX/bTL7Ou1gAGQ/YPDWaucgJk+j40kprR3xjTm4B4cV6bAwXT/43orPDVoFJVoVQkljmi9j/G7XogNiu+bCrVTCcU5L7jiTKagz81nKSM77fkaFbmVBxukEguG9d3DH9dx8H4C9/1FqQO/5m5J0siH7uQDIEHwIY0NC6kz++lTECTQoztdWf5DqVN0ZY9AMXICZ/ljtnoqXog31OzfsQgIghCzMOYiu+ldrBIiAfUGp4u3piKsVtn2NBILpWRVfoNMWUWczuIrUaAA90ofO/PaXDEZzrE2ns02RhNXag/IGGJ2yG3GEqLZY6/LMwxi0VbKmWAPubnvh4qkos0o5Eu1oEMQoBrc8yCSf9ESMvIPFtsWhi8hy2pQZGXBpfRzTAdjpHq5IiTMumJizj3DxXUF6DIvw==;H7fUogtXU7oGKa9PCfJcWg=="
 ---

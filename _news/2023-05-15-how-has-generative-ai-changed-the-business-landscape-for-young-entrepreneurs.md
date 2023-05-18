@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/theyec/2023/05/15/how-has-generative-ai
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2023/05/15/how-has-generative-ai-changed-the-business-landscape-for-young-entrepreneurs/amp/"
 type: article
 quality: 86
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -47,6 +47,15 @@ related:
         width: 1200
         height: 674
         isCached: true
+  - title: "What OpenAI CEO Sam Altman's Congress Testimony Means For Entrepreneurs: 5 Key Takeaways"
+    excerpt: "Sam Altman testified before a Senate Judiciary subcommittee yesterday, following the resounding success of ChatGPT. Here are the 5 key takeaways for entrepreneurs."
+    publishedDateTime: 2023-05-17T12:15:00Z
+    webUrl: "https://www.forbes.com/sites/jodiecook/2023/05/17/what-openai-ceo-sam-altmans-congress-testimony-means-for-entrepreneurs-5-key-takeaways/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 40
 
 secured: "qJPEMs2IYQJRMKlHMG1X6jj9fiGyQqZZGbVSNcwjgNEouo++7MyDHUjryvJKvih7v6G8xHakSphW4j6hrhn3fi7vNtBrykzygjznGCF+hslSGGgKzH+R+mqY9A83GffWfwRokBj0LOyeisS7BJvYknXIU5H3GLmeFmbHV3yZVJKUM2ZYjJpgkFQRlARsPmBmOqUqewg+bm8ylDiukbWtPFbZ2ZJhuT5TIbuLPkCMcJG5AzqG60WFPpJfC0tDUxGTIYGDckjOXXzDQIvkM1gsJO+AfYxzgQdedrKZMv+F+RU3aODo6HGPjG1MyFMNIIfq87/8TiPbvOTlQT6A7Mu000AAUTkc57aWQZRNruyxx1Hz7HYGtB0m+/OzTzTNbWRyoUhxc0chKekW9djHJSVIPPqRZJ0C7CgqclCWOZxh98RtXbKXcHnwgdn8WObUZzkCL1xHOYFZBxrITHbfqpFNPIHXnAv/Aav4Q8W7ZZmQ0m0e7d67yNC7rVuIKsoTBcZ0+v8E3qB3eilhqXNXNm22oA==;tjaq3GtKYTesSi0OymIDpQ=="
 ---

@@ -109,6 +109,29 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Beware of biased, misleading information while using AI in healthcare: WHO"
+    excerpt: "It was 'imperative' to assess the risks of using generated large language model tools (LLMs), like ChatGPT, to protect and promote human well-being.health. healthcare. fitness. wellness. well-being. biased."
+    publishedDateTime: 2023-05-18T10:31:00Z
+    webUrl: "https://www.onmanorama.com/lifestyle/health/2023/05/18/beware-biased-misleading-information-while-using-ai-healthcare-who.html"
+    type: article
+    provider:
+      name: onmanorama
+      domain: onmanorama.com
+    quality: 52
+    images:
+      - url: "https://img.onmanorama.com/content/dam/mm/en/lifestyle/health/images/2023/5/18/ai-healthcare-c.jpg"
+        width: 1248
+        height: 650
+        isCached: true
+  - title: "7 Semiconductor Stocks Cashing In on the AI Hype"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Semiconductor stocks are gaining importance as the technology is increasingly"
+    publishedDateTime: 2023-05-18T10:31:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/7-semiconductor-stocks-cashing-in-on-the-ai-hype-1032336987"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
   - title: "The First Year of AI College Ends in Ruin"
     excerpt: "The problem breaks down into more problems: whether it’s possible to know for certain that a student used AI, what it even means to “use” AI for writing papers, and when that use amounts to cheating."
     publishedDateTime: 2023-05-16T19:19:00Z

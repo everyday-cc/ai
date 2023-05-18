@@ -98,6 +98,15 @@ related:
         width: 750
         height: 499
         isCached: true
+  - title: "Nextech3D.ai Receives $2 Million in Cash From $400 million FinTech Ratio Tech"
+    excerpt: "With access to a $400 million credit facility, Ratio is able to fund Nextech3D.ai Accounts Receivables With Zero dilution For The Foreseeable FutureTORONTO, ON / ACCESSWIRE / May 18, 2023 / Nextech3D."
+    publishedDateTime: 2023-05-18T11:39:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-05/59123742-nextech3d-ai-receives-dollar-2-million-in-cash-from-dollar-400-million-fintech-ratio-tech-200.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 16
   - title: "Fintech or TechFins: Two Sides of the same coin of Bank Digital Transformation Space"
     excerpt: "TechFins support the end to end Digital Transformation of a process from Origination to Credit underwriting to disbursement and also servicing."
     publishedDateTime: 2023-05-15T11:32:00Z

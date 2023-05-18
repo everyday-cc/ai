@@ -9,8 +9,8 @@ ampWebUrl: "https://www.msnbc.com/msnbc/amp/shows/reidout/blog/rcna84931"
 cdnAmpWebUrl: "https://www-msnbc-com.cdn.ampproject.org/c/s/www.msnbc.com/msnbc/amp/shows/reidout/blog/rcna84931"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: MSNBC
@@ -36,15 +36,6 @@ related:
       name: CNN
       domain: cnn.com
     quality: 47
-  - title: "Senators use hearings to explore regulation on artificial intelligence"
-    excerpt: "The chairman of a Senate Judiciary panel said Tuesday that Congress should act soon to regulate artificial intelligence."
-    publishedDateTime: 2023-05-16T17:59:00Z
-    webUrl: "https://rollcall.com/2023/05/16/senators-use-hearings-to-explore-regulation-on-artificial-intelligence/"
-    type: article
-    provider:
-      name: Roll Call
-      domain: rollcall.com
-    quality: 17
 
 secured: "m4/G+y0ffVfNh4CmEMj0bQtEdnzHRGWNJGloZgCm6KmLHshVM6hWUYjEZ9rXA9i1wMc/2A3BMtLF5rZceihtz53POQbLME4fNK4QlzGF7uwUoCE8JshR8InifC1Mvou1CjN+7VjSrM4ccY4c4N5FhaHlYhsEvDu06WZicLYGwAk0AJ5PxCzA1yHn2kz+crEtJy84z3TfacRfNyDcglg7lck30zizVAX4yzijFRTV5JF3Mr9JywGOyqDJGn3NVdOWLSl0HSy/tzKkfSO5jp7B6x3NAQPbFTki7izxeBC1nIE+pDbNMeq3FTLoFPPkUFw6O3R2pb6xhb/GS3RAyTyneGkWb/3PFm735pe/+w07A7G8yOn5JhvoWyqf8Bs/Inr66qQuhCm58flEeOpgHMDwHzOKBm1nSN+VWsPHI4v9nlR4/R/UpvKaWkrZtEBCGPjxo0gFYT6K7oZP+iVUDDE/fgUCOv/WHzGyGE52t4mak77/WBwQ5KkBD3bXbw0iF2zWiDfNmAMpdLYz+TqQv+JrcA==;iNMQuXSe0QGtItpKWWffng=="
 ---

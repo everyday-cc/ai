@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/stock-market/market-sectors/informa
 webUrl: "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/ai-in-finance/"
 type: article
 quality: 86
-heat: 116
+heat: 126
 published: true
 
 provider:
@@ -69,6 +69,17 @@ related:
         width: 1500
         height: 772
         isCached: true
+  - title: "Rising importance of AI in the fintech space"
+    excerpt: "Advantage of AI in fintech industry is its capacity to automate and augment a multitude of laborious processes related to banking"
+    publishedDateTime: 2023-05-18T11:25:00Z
+    webUrl: "https://www.dqindia.com/rising-importance-of-ai-in-the-fintech-space/"
+    ampWebUrl: "https://www.dqindia.com/rising-importance-of-ai-in-the-fintech-space/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/rising-importance-of-ai-in-the-fintech-space/amp/"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 39
 
 secured: "z7g6Dk9fOZnkjGC+JiYDtBYJPYnf8e7qEfJD25lvtvnBi2kztoKLsKnkmewqScl2wma4XttnJ4J4EpR+xeEyumeddiBk/iCLozYXHCvQ6QQLU/R9+il67Npu37QEXuHOKEGipJYwzst6sEM1LabWu8IHsdLUbqjfPRLtHOBtkamYxU66VqjZnqUh5JXLn6yPUwJMOeQEDJBYfbLCZDRFBPCNCo1r6KQrucpG97sjX/+/9jut8Ko0yhmutWWA6arlMW39CumrBoArrfMUANXGtaJWY9o/ZkSGPVBbFB3WQJXfaylbbPNod3Dq11ch4oaJZDSUofKRhj4k1W01/01KeFNImAiksiOzR/7LaQl+zXouRlwkXwfPUJVClUmr0zBNB80pq/k4Umm+bj3EPXsX8W5UGpQa4BJ1trYKzjFfVPUAHm8MBIbRWa68+76PDz/0fevP/5sWMzxYatX3OTpEA8MBqMrkxQ5qtk8LtwTt5fO1EwhTkyCjWuU3TO1gCodFm11JVj7PvlFjopnAQsoOKA==;Lez2o/R6Zu8swbsS9HzhgA=="
 ---

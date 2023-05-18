@@ -64,6 +64,20 @@ related:
       name: The Motley Fool
       domain: fool.com
     quality: 68
+  - title: "OpenAI readies new open-source AI model - The Information"
+    excerpt: "has gained widespread attention in Silicon Valley as investors see generative AI as the next big growth area for tech companies. In January, Microsoft Corp (MSFT.O) announced a multi-billion dollar investment in OpenAI, deepening its ties with the startup ..."
+    publishedDateTime: 2023-05-16T04:00:00Z
+    webUrl: "https://www.reuters.com/technology/openai-readies-new-open-source-ai-model-information-2023-05-15/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 67
+    images:
+      - url: "https://www.reuters.com/resizer/iqo4WxdERy47YkN_PHWL63ghNJw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/OUXSPAPPUVK27H6RHKQWKLT4VI.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "UP RERA Floats Tender For Installation Of Artificial Intelligence"
     excerpt: "AI will contribute to the development of three major categories of systems: supportive systems, function-based automation systems and autonomous systems."
     publishedDateTime: 2023-05-16T11:09:00Z
@@ -110,6 +124,24 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "OpenAI Founder Calls for the Global Regulation of Artificial Intelligence"
+    excerpt: "As senators raise concerns about the risks of ChatGPT, Sam Altman says his worst fear is his industry causing \"significant harm to the world.\""
+    publishedDateTime: 2023-05-16T18:59:00Z
+    webUrl: "https://www.inc.com/christine-lagorio-chafkin/openai-founder-calls-for-global-regulation-of-artificial-intelligence.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 33
+  - title: "OpenAI chief set to call for greater regulation of artificial intelligence"
+    excerpt: "OpenAI’s chief executive Sam Altman will tell US lawmakers on Tuesday that regulation of artificial intelligence must allow companies to be flexible and adapt to new technological developments, as the industry faces growing scrutiny by regulators around the world."
+    publishedDateTime: 2023-05-16T10:44:00Z
+    webUrl: "https://www.ft.com/content/aa3598f7-1470-45e4-a296-bd26953c176f"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 30
 
 secured: "vdE/ID4AvieiGU4hNDSxfdJ1mc7tgyl6Zt/y4hxu7asFs/cnESaoxsZksfmKWduVmNQUB8FEb/U7f286ap2j3Xix4c+wameoh4uRtGH/ZHhAMfDnl6hj/SsWU6jeEFkgHzNLcd3ljExlnyrwQOCX10xJ6Gg1YkNHqjvdYpbr4ww8T52GBpTT/QWACw/at/AdXSwh/ZiTlhbC5Csj3njCfN9Tlof9f76cW0CGoUtLx3eaQ1ujb+p34nwYlhq/x9U635y8LJPLpWV+7C2uCyNiSnGrX57cF5QOP9N3jvLMDNgg8bLWIpXHoWJuYiYlBEYeWINRAnCmvBEV2LY+rL46Wqgcm6IAx18mH1GUEZgs/R4=;Qs5XXdsQZ35AW3qZUGp2xg=="
 ---

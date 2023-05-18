@@ -22,13 +22,13 @@ topics:
 
 related:
   - title: "Weights & Biases and Lambda Announce Strategic Partnership to Accelerate Deep Learning and AI"
-    excerpt: "Weights & Biases and Lambda today announced a strategic partnership to bring the infrastructure and MLOps tools required for AI and deep learning workloads to enterprises of all sizes. The Weights & Biases MLOps platform integrates with NVIDIA-accelerated systems provided by Lambda,"
-    publishedDateTime: 2023-05-17T17:25:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-weights-biases-lambda-announce-strategic-partnership-accelerate-deep-/2023/05/17/9816460.htm"
+    excerpt: "Weights & Biases and Lambda have announced a strategic partnership to bring the infrastructure and MLOps tools required"
+    publishedDateTime: 2023-05-18T11:52:00Z
+    webUrl: "https://www.datanami.com/this-just-in/weights-biases-and-lambda-announce-strategic-partnership-to-accelerate-deep-learning-and-ai/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
+      name: datanami.com
+      domain: datanami.com
     quality: 25
   - title: "BeeKeeperAI Announces Commercial Release of its Patented, Zero-Trust Collaboration Platform to Accelerate Healthcare AI Development on Protected"
     excerpt: "BeeKeeperAI, Inc., a pioneer in zero-trust, real-world data collaboration software, today announced the general availability of EscrowAI TM, a patent-protected i zero-trust collaboration platform. EscrowAI leverages Azure confidential computing to resolve the challenges of data sovereignty,"

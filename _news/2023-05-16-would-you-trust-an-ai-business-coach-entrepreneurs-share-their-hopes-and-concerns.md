@@ -46,6 +46,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "What OpenAI CEO Sam Altman's Congress Testimony Means For Entrepreneurs: 5 Key Takeaways"
+    excerpt: "Sam Altman testified before a Senate Judiciary subcommittee yesterday, following the resounding success of ChatGPT. Here are the 5 key takeaways for entrepreneurs."
+    publishedDateTime: 2023-05-17T12:15:00Z
+    webUrl: "https://www.forbes.com/sites/jodiecook/2023/05/17/what-openai-ceo-sam-altmans-congress-testimony-means-for-entrepreneurs-5-key-takeaways/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 40
 
 secured: "gT9HAY7qiZAJ8ikWQ4rhlyvgY5zY6MKW8okNzIKnFjLE1yGG6Zi+Dw1kxXezacB8rqU5fCV63DMnaD0hN+NTcOFB6UltZWvVq6u1JumvnglkjU5BLvRMP+4lZvDIlrVCcoEx9+gNWTzGT2GBcRQ+QL1Mart548v34mcMsSivtdsoOM2i4XpxWR/OIst+LhKt26mLNg7hFrrMdCF5nHoBsdtM1WW0GmHQVvhEJGXYzeChmxE4v7hhYAkNxFP4V1L3j+etR43SyBlZE+8t9/UeAwAns2Rosej5suUNiHbezWzoJ7Csn+t43+rnzp2yEcBl0P56JU0Xtd9pkk+FDxFn2I5zIfRVYDS9xi+zT5o9kdvB4OBDXuuHdr+EA3pNin3fnpJW0VlOJ6GsL5DFehpl4jxKjvfnKXNP3/s2Nj/CorskcFGC6kJ6LMqmkzqOQiLvVPuMtJY1QJCEnie+9dp0rwO7C+Va2jwEXIMeUDzR3RZ1+rZGSss7eCtbHnBQJKY1Qay2mp5nptjRN8dyCUIXUQ==;phKCWcf1ekiIXolW5UuWnA=="
 ---

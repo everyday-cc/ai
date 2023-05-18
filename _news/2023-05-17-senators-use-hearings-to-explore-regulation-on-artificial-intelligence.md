@@ -18,31 +18,43 @@ topics:
   - AI
 
 related:
-  - title: "The Senate hearing on AI shows lawmakers still don’t get it"
-    excerpt: "While the hearing on powerful artificial intelligence tools didn’t feature as many face-plants as previous tech hearings, it missed the mark in key ways."
-    publishedDateTime: 2023-05-17T20:08:00Z
-    webUrl: "https://www.msnbc.com/the-reidout/reidout-blog/ai-artfificial-intelligence-chatgpt-sam-altman-senate-rcna84931"
-    ampWebUrl: "https://www.msnbc.com/msnbc/amp/shows/reidout/blog/rcna84931"
-    cdnAmpWebUrl: "https://www-msnbc-com.cdn.ampproject.org/c/s/www.msnbc.com/msnbc/amp/shows/reidout/blog/rcna84931"
+  - title: "Congress Turns to OpenAI’s Altman on a Key Question: What’s AI?"
+    excerpt: "Sam Altman, the CEO of OpenAI, will be one of the witnesses as a Senate panel takes a look at rules for artificial intelligence."
+    publishedDateTime: 2023-05-15T20:52:00Z
+    webUrl: "https://www.bloomberg.com/news/newsletters/2023-05-15/openai-s-altman-makes-capitol-debut-at-artificial-intelligence-hearing"
     type: article
     provider:
-      name: MSNBC
-      domain: msnbc.com
-    quality: 59
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 67
     images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-05/230517-sam-altman-jm-1431-6150ed.jpg"
-        width: 2500
-        height: 1667
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ijKQ6yQxOqEw/v0/1200x800.jpg"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "U.S. lawmakers grapple with regulating artificial intelligence"
-    excerpt: "U.S. lawmakers will hear from artificial intelligence experts on Tuesday as Congress grapples with how to regulate AI, a field that has seen explosive advances and a boom in popularity over the past year."
-    publishedDateTime: 2023-05-16T08:53:00Z
-    webUrl: "https://www.cnn.com/videos/us/2023/05/16/exp-senate-hearing-artificial-intelligence-lori-schwartz-intv-051602aseg1-cnni-us.cnn"
+  - title: "Sam Altman said all the right things to Congress, but the government won’t save you from AI"
+    excerpt: "Opinion: The federal government is not going to come up with a framework or guardrails to protect us from AI anytime soon."
+    publishedDateTime: 2023-05-17T22:03:00Z
+    webUrl: "https://bgr.com/tech/sam-altman-said-all-the-right-things-to-congress-but-the-government-wont-save-you-from-ai/"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 47
+      name: BGR
+      domain: bgr.com
+    quality: 29
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2023/05/rsz_gettyimages-1490690042.jpg?quality=82&strip=all"
+        width: 2000
+        height: 1333
+        isCached: true
+  - title: "Sam Altman Isn’t the Answer to Regulating Artificial Intelligence"
+    excerpt: "The OpenAI CEO declined to become the US AI regulator in a bizarre congressional hearing that ignored good policy ideas already in play."
+    publishedDateTime: 2023-05-17T07:47:00Z
+    webUrl: "https://www.washingtonpost.com/business/2023/05/17/ai-regulation-openai-s-sam-altman-is-the-wrong-person-to-ask/76ee2c42-f4b1-11ed-918d-012572d64930_story.html"
+    type: article
+    provider:
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 17
 
 secured: "picArIWMy6Oxdxwq380XB+efU90KUReZpdjuxi9CvGHpCoyYrWsD8VIqJzIW0n2flkbGQEJaJRLhLOGHqW9EBYKKiJdGGJ8FIUX/XrNuUp64MhYe0v8RVEWOKmd5/T6TVV0l1hOj6DgIlNlWDj0VIMLvcCHcMD3zdLqWwE9pYZalzb85hIcgwatYegHSNmHju3a0hHSRC+a4EH+OVeCDVpGh40VZJxSePgojl5TZs0KV44V0AUwOLkwHHn+NSaLW8LEUqSlRDChHL/AdpNMjLcZrfPr9esPhTmW32tW6gOLWD4P0tx0DGA2WxT6v78Ph2uveAVGYksWeFHXhFUT4Spu8urOBT1J+n86DTvyRQamAD50CrGz9HP/w8FizLVW2lScT6imJBIHGrqbFyhEdlZFpKe1RJ8ISGxaeKKXgq4+zdbidHE39wVqYRtthPskZzx1uimjboJuZrl5zg1zCLcjthdBpnqcU+CFS6BqgGjcWWQiQoMXMoG7vWbEEuwIRPzIf6dss3v/JKQisvXTjGw==;fw+H8iwBotom7pKeAb8UXA=="
 ---

@@ -1,23 +1,23 @@
 ---
 category: news
 title: "Weights & Biases and Lambda Announce Strategic Partnership to Accelerate Deep Learning and AI"
-excerpt: "Weights & Biases and Lambda today announced a strategic partnership to bring the infrastructure and MLOps tools required for AI and deep learning workloads to enterprises of all sizes. The Weights & Biases MLOps platform integrates with NVIDIA-accelerated systems provided by Lambda,"
-publishedDateTime: 2023-05-17T17:25:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-weights-biases-lambda-announce-strategic-partnership-accelerate-deep-/2023/05/17/9816460.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-weights-biases-lambda-announce-strategic-partnership-accelerate-deep-/2023/05/17/9816460.htm"
+excerpt: "Weights & Biases and Lambda have announced a strategic partnership to bring the infrastructure and MLOps tools required"
+publishedDateTime: 2023-05-18T11:52:00Z
+originalUrl: "https://www.datanami.com/this-just-in/weights-biases-and-lambda-announce-strategic-partnership-to-accelerate-deep-learning-and-ai/"
+webUrl: "https://www.datanami.com/this-just-in/weights-biases-and-lambda-announce-strategic-partnership-to-accelerate-deep-learning-and-ai/"
 type: article
 quality: 25
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: datanami.com
+  domain: datanami.com
 
 topics:
-  - Machine Learning
-  - AI
   - AI Hardware
+  - AI
+  - Machine Learning
 
 related:
   - title: "Weights & Biases and Lambda Announce Strategic Partnership to Accelerate Deep Learning and AI"
@@ -41,6 +41,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "UlBIwdng+FYxXQ2u5oGzSM/vKLDuYlmA+bBBkBCvbOWrpy/09hSOZxehob/G2gzPXn32eqdoi2mcOOpDmWXAvOr2X3zyP85eUFxpDN8KCHYhEkTsOTlKovzFv6mwxC5m8k/3tE+e4JasrTvZIsCw0Ld31KdUxY0e0iwiYpqLtGyt3vhGfxjrHK0cF8+hgQOVpvxGTLB4vnZf2JJyKCwHgIgBjsEPTSzNAddzfup6OOL1g9srx3Em0Op895ncpcJytZ9D7bSnGOSLi7fnBB0zRLEG8oC0Epn47mRyfYb0ybt8ojymfpD4Z3gtYm8PJDRngPnWBo0qGthBkfTs/Baf5+nZQyTWhFbxyTBJIokiPzE=;J8BJf7dJhjqwd/pX+AbyTw=="
+secured: "j/0/lxKNInwkeozWgMWZMcrjrhVgKy+Vw//9FyVSCmVf1jvbRQB6s3sfL69VC6dWP+R2a/RdGH+7R/XHVD2Y0DKDEICYnFlpHzkH1pZ0VgE3TlicLZyocwjCuBiBWsyb00mRUtjTWia8I7neVSgTT0+Bb+NXnSFgqZ/UrLjz70a47EPMOPdGMnEV9dnlAo3vynSSwxzzJyeECmnFVQ5pAjVYaCk5Qy3oPUbcqvl7NmT/TAH9vV6Ob9yzEWk6PLG3VScDEy3OkFuEttShakAcaYrx7b6+2qhchkjVmDGNDsZViWfcdPdz5xbct+MUmRkuposA3JA8yrJ0U63zwLXICWCjJSB3g+SY5LFlBTeD1LA=;BXxcvkOVaGMnn9AMjb3FYw=="
 ---
 

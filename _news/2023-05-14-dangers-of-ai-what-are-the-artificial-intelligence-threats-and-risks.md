@@ -27,82 +27,38 @@ images:
     isCached: true
 
 related:
-  - title: "What are the dangers of AI? Find out why people are afraid of artificial intelligence"
-    excerpt: "Many experts worry that the rapid development of artificial intelligence may have unforeseen disastrous consequences for humanity. Machine learning technology is designed to assist humans in their ..."
-    publishedDateTime: 2023-05-15T08:24:00Z
-    webUrl: "https://www.foxnews.com/tech/what-dangers-find-out-why-people-afraid-artificial-intelligence"
-    ampWebUrl: "https://www.foxnews.com/tech/what-dangers-find-out-why-people-afraid-artificial-intelligence.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/what-dangers-find-out-why-people-afraid-artificial-intelligence.amp"
+  - title: "Mitigating Dark Web Risks: The Role Of AI And Machine Learning"
+    excerpt: "As artificial intelligence and machine learning are becoming increasingly important in the fight against cybercrime, security leaders should consider a range of tools to safeguard themselves."
+    publishedDateTime: 2023-05-18T11:14:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/18/mitigating-dark-web-risks-the-role-of-ai-and-machine-learning/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/18/mitigating-dark-web-risks-the-role-of-ai-and-machine-learning/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/05/18/mitigating-dark-web-risks-the-role-of-ai-and-machine-learning/amp/"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 99
+      name: Forbes
+      domain: forbes.com
+    quality: 104
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9173ff0e-731a-4938-8d98-838e96cab4aa/8c3c171d-0b0c-4650-a5c1-bb79bf268d11/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6464d9377c567a5a9746245d/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Hiding Behind the AI Apocalypse"
-    excerpt: "Damon: There was not really any talk at the hearing about the impacts of AI on labor. There were broad allusions to the idea of job loss. But there are so many specific ways that jobs are already threatened by automation today."
-    publishedDateTime: 2023-05-17T21:51:00Z
-    webUrl: "https://www.theatlantic.com/newsletters/archive/2023/05/altman-hearing-ai-existential-risk/674096/"
+  - title: "‘Cyber-Heartbreak’ and Privacy Risks: The Perils of Dating an AI"
+    excerpt: "There’s a growing business for virtual romance, but it’s not without the familiar hazards of human relationships"
+    publishedDateTime: 2023-05-17T14:00:00Z
+    webUrl: "https://www.rollingstone.com/culture/culture-features/ai-companion-dating-emotional-privacy-risks-1234735519/"
+    ampWebUrl: "https://www.rollingstone.com/culture/culture-features/ai-companion-dating-emotional-privacy-risks-1234735519/amp/"
+    cdnAmpWebUrl: "https://www-rollingstone-com.cdn.ampproject.org/c/s/www.rollingstone.com/culture/culture-features/ai-companion-dating-emotional-privacy-risks-1234735519/amp/"
     type: article
     provider:
-      name: The Atlantic
-      domain: theatlantic.com
-    quality: 67
+      name: Rolling Stone
+      domain: rollingstone.com
+    quality: 59
     images:
-      - url: "https://cdn.theatlantic.com/thumbor/Pmsh2bl4fBptpEm7XQ-8qcgKkmE=/0x401:5463x3246/1200x625/media/img/mt/2023/05/GettyImages_1255306219/original.jpg"
-        width: 1200
-        height: 625
+      - url: "https://www.rollingstone.com/wp-content/uploads/2023/05/replika-ai-girlfriend-RS-1800.jpg?crop=0px%2C0px%2C1800px%2C1014px&resize=1600%2C900"
+        width: 1600
+        height: 900
         isCached: true
-  - title: "Are we ready for mental health AI?"
-    excerpt: "I have encountered mental health chatbots and apps before and it was clear that technology still had a long way to go before it can provide the same nuanced benefit as a human therapist. ChatGPT and its other AI peers seem to hold potential to bridge that gap by providing a “human” experience to the conversation."
-    publishedDateTime: 2023-05-13T23:00:00Z
-    webUrl: "https://www.thestar.com.my/news/focus/2023/05/14/are-we-ready-for-mental-health-ai"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 39
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2023/05/14/2071234.jpg"
-        width: 1240
-        height: 929
-        isCached: true
-  - title: "Afraid of AI? Start with ad optimization"
-    excerpt: "There is perhaps no greater trend in the tech world right now than artificial intelligence (AI). Specifically, generative AI, which can produce content based on prompts, is garnering a"
-    publishedDateTime: 2023-05-17T16:50:00Z
-    webUrl: "https://digitalcontentnext.org/blog/2023/05/15/afraid-of-ai-start-with-ad-optimization/"
-    type: article
-    provider:
-      name: Digital Content Next
-      domain: digitalcontentnext.org
-    quality: 37
-    images:
-      - url: "https://digitalcontentnext.org/wp-content/uploads/2023/05/vector-of-human-head-with-transparent-overlay-of-earth-and-data.jpg"
-        width: 867
-        height: 400
-        isCached: true
-  - title: "Finance expert explains why people are turning to AI for investment advice"
-    excerpt: "With ChatGPT and other artificial intelligence systems making waves, some people are turning to AI for financial planning, according to one West Virginia University researcher."
-    publishedDateTime: 2023-05-17T19:22:00Z
-    webUrl: "https://phys.org/news/2023-05-expert-people-ai-investment-advice.html"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 32
-  - title: "Using AI to find rare minerals"
-    excerpt: "A machine learning model can predict the locations of minerals on Earth—and potentially other planets—by taking advantage of patterns in mineral associations. Science and industry seek mineral deposits to both better understand the history of our planet and to extract for use in technologies like rechargeable batteries."
-    publishedDateTime: 2023-05-17T18:07:00Z
-    webUrl: "https://phys.org/news/2023-05-ai-rare-minerals.html"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 17
 
 secured: "GEWiDUM/9QucOQqreaY2gz2P8XSH7DcEXgucxrpHiCVIR39F2EtfH0W1Uv8Rqfbpu6K5OPU+Dm1BUecnsazTiILLN4Tr5QFNgHB1VlU7tWisC3JR9gKlEB13xC+OQoqxJSWIJ7cC/eB9I6xa7Ljd80Uv0bzTVSthVp6WWDWf8e/62I3e2Xs+97Da3wompVdO4eD1ksQ5U6ZypTYnNtKjbhoLNoW4cdkPRzIWqP/llVqV5ZmroVAxYe379cwJ7ykgnJpvO8P/o5d+FLjqEpJb7jYOzCFhy1tKbO3V5QsSfZg3qLrUNv54llh2+TdL+b3UUIXRrqHc8sQHLC17Ke7vB1mYJhvX4Ob0OXLIyZw2fgO0Fa4xD2x/LYQBcwpzdNjkC8ehpQmukG5Q0b9cgXU/v6GoG3ZKnQcr2u/qSEKP3UUztsY8Gwh8GVY8GPHoI0lkkSfBj328qS8NMLPjrN+KcRMXgDWK7Q/gpX/c7ReVEm5A9CZlVwMGQqw6pM86ZvAJpz+R0mJ4DSkpKzGrKS8b/w==;HALygKELuwtQlR5N/6v/ZQ=="
 ---

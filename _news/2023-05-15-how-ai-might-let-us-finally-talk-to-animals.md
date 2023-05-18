@@ -64,6 +64,17 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Rising importance of AI in the fintech space"
+    excerpt: "Advantage of AI in fintech industry is its capacity to automate and augment a multitude of laborious processes related to banking"
+    publishedDateTime: 2023-05-18T11:25:00Z
+    webUrl: "https://www.dqindia.com/rising-importance-of-ai-in-the-fintech-space/"
+    ampWebUrl: "https://www.dqindia.com/rising-importance-of-ai-in-the-fintech-space/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/rising-importance-of-ai-in-the-fintech-space/amp/"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 39
 
 secured: "aWg4HnjDoToFwkj+19QI9cgOn75OtA53urTq4ZjFH101c7Pf7bFAFYxIfhWuCNXJnCONwVLcNQbqiIvPapNV9fzKNGbjCZKtnTEM/Hlu0+lCjAcFHqhbVObzw8PdHl1BpWTlm3UAVdKaDgkzIGezQzm9/00huhZSoYV7lV9q5j4H4FzIA0W4MWlE1fS6YTtnyJcejddIDDdZmpzIdaWnbHZ9Or29OVgWJbOvpdAuU+dDdHzpygLijeLvKN7kQ4KqZrJM9HQjwiaa3P4Pi4NPI9jpf5ui6nMJAktE6B0z5zt1dfJh1oYAp/wyyh4qDb1dFBIltnipHUTGeehkFq2iH27R4Aw5bcb2aWWFfUUZONwzBJjg92GhHQ5vDuGpUjaglZvKv4cI3DFSWAnG4UoCXY7IlI18bsCXNqCl8KNPWOoPFwMgD5Ntt03Ljtw8GsC7Ea8MF/drunvxiHlFcAeVEkdnHQ43r1aTX2RK+bT79R3xO7b2oX4+mJJvv1c+RBQdRZBisLvLJZ4jKxZvIasaXw==;aj6tqzQyHJnw66rjjcs2sA=="
 ---

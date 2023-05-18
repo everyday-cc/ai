@@ -34,6 +34,15 @@ related:
         width: 1200
         height: 801
         isCached: true
+  - title: "Sam Altman Sends A Message To Corporate Leaders On AI Risk Management"
+    excerpt: "The OpenAI CEO’s Senate testimony on the potential risks of AI and its need for regulation prompts boards to accelerate their oversight of how AI is applied in their own organizations."
+    publishedDateTime: 2023-05-17T19:39:00Z
+    webUrl: "https://www.forbes.com/sites/michaelperegrine/2023/05/17/sam-altman-sends-a-message-to-corporate-leaders-on-ai-risk-management/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
 
 secured: "tYJhkfoR+hriNBp4IOsBhVprI4J8MUCF2qKEP2ZTUPR//XBXKGxdXmoYeiu594G9KT71bAPcfPFc95LyehBRtYXrVekk/sO2DlazLAGUBa1O22ZjRiZwrpIUnmLqeO098N0o2d1+8XK5wNNY3wA/wj2qDHe26yOqUiuEQycxGTyzI3s46EukDeKlhUdf5D9Axp4JlaUijA9XcufiGgTxvIf2atYA4sHlpu/527mc+LabZco2JG+SQ4mWJ1FnGv+tJZ6Be3wJdosMEaOi/1LpJVgPRIcN7VuhOtMulw8CnmXnTAChXe9sz+ra6tv+lLb/lVKumfNzZKV67Xg9JlFoYhvO55uSPEiIRp1pHquhhPUDUjrurDSUV40RPyM2Le04Kfx4MAYF94Oip8WPCncewQliTgh19o7mCoIbh8+4npgjajhlzbrP8tAGsZrgcJ1VbRC4M6ejtrcSZFGFs0yJ11F4rScf+6H+NKwvLo7q21GFNHpQa+us/9cNHUrm/daqZh2YJvMdOVkdssjSuGVQaw==;/pZ1VuT/6Bsfwk3/AaRJ4g=="
 ---

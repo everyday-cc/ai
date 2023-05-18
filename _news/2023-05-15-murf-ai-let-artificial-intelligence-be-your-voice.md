@@ -7,7 +7,7 @@ originalUrl: "https://technology.inquirer.net/124071/murf-ai-generates-quality-v
 webUrl: "https://technology.inquirer.net/124071/murf-ai-generates-quality-voiceovers"
 type: article
 quality: 52
-heat: 62
+heat: 52
 published: false
 
 provider:
@@ -22,22 +22,6 @@ images:
     width: 620
     height: 349
     isCached: true
-
-related:
-  - title: "Tracking Generative AI: How Evolving AI Models Are Impacting Legal"
-    excerpt: "A running compilation of how the legal landscape continues to be shaped by generative AI tools, from GPT technologies to art generation tools and beyond."
-    publishedDateTime: 2023-05-16T01:23:00Z
-    webUrl: "https://www.law.com/dailyreportonline/2023/05/14/tracking-generative-ai-how-evolving-ai-models-are-impacting-legal/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 39
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/01/Numbers-Artificial-Intelligence-767x633.jpg"
-        width: 767
-        height: 633
-        isCached: true
 
 secured: "Oz4TWyzEohnOSNW9hqGOMmIbDNPuHpfQWCMpk/PBBk0aXO/ZA/A4Vxe2eCeVBwzkG5zBXdld2zdFVyn1wJG0drgyGWAGI0CY1ADi75clVHMZ8SmVAA634OeseBJ266d+lA9aKinjyLBB5+brFjO9VNrKjqHqObNzM3m68qieuD0kgTI9tuJjWlzmbgyk1dJ1nVuv3IjSfnZaHJLbOVdTNCmexcwvjJDDy13oun3TTec6gAYydxXZX4aRnN23OFwSYm5Kenh9YHcRin3SbPEC2/YZzAzIXbahD8LbCqK++oxPqO+PeUXYrieAiQTw7rrAXnxiyZkIu5vnx9LhVv6QjkxwAtwz4lxheVJOQqFe1CI=;AiO5zQdTgmHB2WrSmzN35A=="
 ---
