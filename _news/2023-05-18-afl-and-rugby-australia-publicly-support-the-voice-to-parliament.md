@@ -1,25 +1,25 @@
 ---
 category: news
-title: "AFL backs the Voice to Parliament"
-excerpt: "The AFL has joined the NRL and Rugby Australia to support the Voice to Parliament. The AFL released a statement on Thursday stating they “proudly support the recognition of Aboriginal and Torres Strait Islander peoples in the constitution of the Voice to Parliament”."
-publishedDateTime: 2023-05-18T01:27:00Z
-originalUrl: "https://www.skynews.com.au/australia-news/sport/afl-backs-the-voice-to-parliament/video/1c55fce5a874ff3ae84106fa0a3bb8ca"
-webUrl: "https://www.skynews.com.au/australia-news/sport/afl-backs-the-voice-to-parliament/video/1c55fce5a874ff3ae84106fa0a3bb8ca"
+title: "AFL and Rugby Australia publicly support the Voice to Parliament"
+excerpt: "The high-profile codes have followed the lead of the NRL, Football Australia, the Australian Olympic Committee and Tennis Australia."
+publishedDateTime: 2023-05-18T03:03:00Z
+originalUrl: "https://www.sbs.com.au/news/article/afl-and-rugby-australia-publicly-support-the-voice-to-parliament/n4wmpecj0"
+webUrl: "https://www.sbs.com.au/news/article/afl-and-rugby-australia-publicly-support-the-voice-to-parliament/n4wmpecj0"
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Sky News Australia
-  domain: skynews.com.au
+  name: SBS
+  domain: sbs.com.au
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://content.api.news/v3/images/bin/50679957f57890089e676b148fe89478"
+  - url: "https://images.sbs.com.au/dims4/default/7d595db/2147483647/strip/true/crop/1919x1080+0+0/resize/1280x720!/quality/90/?url=http%3A%2F%2Fsbs-au-brightspot.s3.amazonaws.com%2F38%2Ff1%2Fae85cc964aa9a8f10cfa8802511c%2Fcopy-of-2-way-website-header.png"
     width: 1280
     height: 720
     isCached: true
@@ -55,17 +55,17 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "AFL and Rugby Australia publicly support the Voice to Parliament"
-    excerpt: "The high-profile codes have followed the lead of the NRL, Football Australia, the Australian Olympic Committee and Tennis Australia."
-    publishedDateTime: 2023-05-18T03:03:00Z
-    webUrl: "https://www.sbs.com.au/news/article/afl-and-rugby-australia-publicly-support-the-voice-to-parliament/n4wmpecj0"
+  - title: "AFL backs the Voice to Parliament"
+    excerpt: "The AFL has joined the NRL and Rugby Australia to support the Voice to Parliament. The AFL released a statement on Thursday stating they “proudly support the recognition of Aboriginal and Torres Strait Islander peoples in the constitution of the Voice to Parliament”."
+    publishedDateTime: 2023-05-18T01:27:00Z
+    webUrl: "https://www.skynews.com.au/australia-news/sport/afl-backs-the-voice-to-parliament/video/1c55fce5a874ff3ae84106fa0a3bb8ca"
     type: article
     provider:
-      name: SBS
-      domain: sbs.com.au
+      name: Sky News Australia
+      domain: skynews.com.au
     quality: 24
     images:
-      - url: "https://images.sbs.com.au/dims4/default/7d595db/2147483647/strip/true/crop/1919x1080+0+0/resize/1280x720!/quality/90/?url=http%3A%2F%2Fsbs-au-brightspot.s3.amazonaws.com%2F38%2Ff1%2Fae85cc964aa9a8f10cfa8802511c%2Fcopy-of-2-way-website-header.png"
+      - url: "https://content.api.news/v3/images/bin/50679957f57890089e676b148fe89478"
         width: 1280
         height: 720
         isCached: true
@@ -137,6 +137,6 @@ related:
       domain: theaustralian.com.au
     quality: 0
 
-secured: "ulE6LzBfluSogyAXB7vGsG1x853zQ1nXWcrR3KvW7VWyjLt4TJP1Pm1NNIxEGU761iQg97j//z9k7ktUYvjTmDygXorSeGAAKby144ZHbVpC7x1dk9pY+PDMmZ0OEtaC5PzgeNUNTFniqxYwp9OOrMV0uB+5AVCqWBB4Gsb1GbKZHWeQlsxIzVkq19QGGrvrIHXehAmdxYsyxHINBIygY6JqeDrYhJqZZTTX9l5IcHmKKhLN8HfnVzUUP1W9FdkIHKxlXqDpuPurT8ZhzIPzhQEaXB6I3gbfUdNg3Gg7PdSSI4+LhzA4yeMvhO+Lk7hpMTlcQECLvfnRMmJ0JxjYEgOyp580g1pJWRDe+rRTiUo=;PpJ759l3RQkIyEjkgP8+Lg=="
+secured: "aIZDhCkPG19fPVVu9vT4IUyemTXMF5wcsdD5s/FxfaVux9U5Hb5J4MAS2VODuaxlBVHj42qqMYuIk+QVde0RdMBkJbh2Vr84AbrqYYyZ2JAC6/rLtYMvHZbkjdR1irMzR6FekbtHIqOlYGrTd9/oxwDpN+Q1ESqM8PscHB/9b1vHVnbCGT+bXEh7R5x+R9aMbmT++/rVLLeWOEeRgv4C0I4Sjtky6aKIfwL8/3CDISXANsotpZx+Bp9h4hyXScX1+uwxmAdNvZEFx8T25lPgVSnOp00cw7cS/6f6hdugNl0QRuq05aWp/1FlxDHBWZidYYpOsKk2Z4k+chX1afsb8L3us3QbTDkP8nXRh7Zs5ec=;KO9ibCsqF4yWzQZ1dca3TA=="
 ---
 

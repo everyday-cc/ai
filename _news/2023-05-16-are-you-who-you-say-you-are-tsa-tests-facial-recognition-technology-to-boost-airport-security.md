@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Are you who you say you are? TSA tests facial recognition technology to boost airport security"
-excerpt: "The agency tasked with securing America's airports is testing the use of facial recognition technology at a number of airports across the country."
-publishedDateTime: 2023-05-16T13:29:00Z
-originalUrl: "https://www.wesh.com/article/tsa-tests-facial-recognition-tech-airport-security/43888744"
-webUrl: "https://www.wesh.com/article/tsa-tests-facial-recognition-tech-airport-security/43888744"
-ampWebUrl: "https://www.wesh.com/amp/article/tsa-tests-facial-recognition-tech-airport-security/43888744"
-cdnAmpWebUrl: "https://www-wesh-com.cdn.ampproject.org/c/s/www.wesh.com/amp/article/tsa-tests-facial-recognition-tech-airport-security/43888744"
+excerpt: "The Transportation Security Administration has started using facial recognition technology at a number of airports across the country."
+publishedDateTime: 2023-05-15T21:49:00Z
+originalUrl: "https://www.boston.com/travel/technology/2023/05/15/are-you-who-you-say-you-are-tsa-tests-facial-recognition-technology-to-boost-airport-security/"
+webUrl: "https://www.boston.com/travel/technology/2023/05/15/are-you-who-you-say-you-are-tsa-tests-facial-recognition-technology-to-boost-airport-security/"
+ampWebUrl: "https://www.boston.com/travel/technology/2023/05/15/are-you-who-you-say-you-are-tsa-tests-facial-recognition-technology-to-boost-airport-security/?amp=1"
+cdnAmpWebUrl: "https://www-boston-com.cdn.ampproject.org/c/s/www.boston.com/travel/technology/2023/05/15/are-you-who-you-say-you-are-tsa-tests-facial-recognition-technology-to-boost-airport-security/?amp=1"
 type: article
 quality: 79
 heat: -1
 published: false
 
 provider:
-  name: WESH
-  domain: wesh.com
+  name: Boston.com
+  domain: boston.com
 
 topics:
   - Computer Vision
@@ -22,9 +22,9 @@ topics:
   - AI in Security
 
 images:
-  - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/ap26461ed234b522.jpg?crop=1.00xw:0.847xh;0,0.0216xh&resize=1200:*"
-    width: 1024
-    height: 579
+  - url: "https://www.boston.com/wp-content/uploads/2023/05/Facial_Recognition_Airports_79172-6461bb4fb69eb-scaled.jpg"
+    width: 2560
+    height: 1708
     isCached: true
 
 related:
@@ -469,6 +469,6 @@ related:
       domain: extremetech.com
     quality: 19
 
-secured: "xUXFk9cwjDDYtNAdGPpjpsBndIi9LbvYclvrdxOguR21oEGoN20Emas/oe4cqHM3vnzhxkj5b5O54opcc3gc/9xA9HAU9wLONM9Zc7cZ5zlzu3NESyUpJ9mhtzCqKflpLP8SPl71SN9H+JV9V1tC55d3K8poK3Hm9yl9/XkSaLp4bKNd81vJZv5cFvTg8sy3gCamZg/s8uGLZvgNN21prKW9pZOPHkIM/GKRXB6E7SjlBq9+NtcIoEgIqE+3mjzf0zp1rx27o3lROBxYX66ZPCmGKvZo4Y3UvS4JLQVdejgIQcQImTi/7rI/xFr04SZ5gwU9lrjcQ0OlLsiDJ2HeCu/avb3hZG/IoxB62HXoVMM=;uPhkgJp4xnL67Q+h1RjIFg=="
+secured: "ErD7EAJm5rCbuzfKjT794eRLPJIGkuAw+CH+YXvPlixp64MCnna3Qdq5jgKpJ9VdPg7ISnr6nf1PXn8bnxBqWo1V7h8vbGdCL2e+c710LUU7zui+ZenXa2Lm/4V9JMzIp5rLqx3MKwbbZ8eCv4U1VbJRVNMCzjsxxxtQjnmlPBu6CnNitiFiZ6Ekf9NQfEaGGpJJ6VtzUixVkfH1+aEXxOYrhxIdOm+CXmT1S38kOwQeVh4fmc5YKIL11qWSQPH9Szhky9A6qDww4t5htrtA/qk2K9EPE+B8PxQIhH8k+HhJYooIQ867+DUunPFY5iJhlOA5MqQtfhtEV95cRY515equ1pwmqUCf/pqTH8/P7b0=;1OtUnoU2FMeDl3ezeYKQHw=="
 ---
 

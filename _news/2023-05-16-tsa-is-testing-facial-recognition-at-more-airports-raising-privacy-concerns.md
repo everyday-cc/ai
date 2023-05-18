@@ -108,20 +108,20 @@ related:
         height: 558
         isCached: true
   - title: "Are you who you say you are? TSA tests facial recognition technology to boost airport security"
-    excerpt: "The agency tasked with securing America's airports is testing the use of facial recognition technology at a number of airports across the country."
-    publishedDateTime: 2023-05-16T13:29:00Z
-    webUrl: "https://www.wesh.com/article/tsa-tests-facial-recognition-tech-airport-security/43888744"
-    ampWebUrl: "https://www.wesh.com/amp/article/tsa-tests-facial-recognition-tech-airport-security/43888744"
-    cdnAmpWebUrl: "https://www-wesh-com.cdn.ampproject.org/c/s/www.wesh.com/amp/article/tsa-tests-facial-recognition-tech-airport-security/43888744"
+    excerpt: "The Transportation Security Administration has started using facial recognition technology at a number of airports across the country."
+    publishedDateTime: 2023-05-15T21:49:00Z
+    webUrl: "https://www.boston.com/travel/technology/2023/05/15/are-you-who-you-say-you-are-tsa-tests-facial-recognition-technology-to-boost-airport-security/"
+    ampWebUrl: "https://www.boston.com/travel/technology/2023/05/15/are-you-who-you-say-you-are-tsa-tests-facial-recognition-technology-to-boost-airport-security/?amp=1"
+    cdnAmpWebUrl: "https://www-boston-com.cdn.ampproject.org/c/s/www.boston.com/travel/technology/2023/05/15/are-you-who-you-say-you-are-tsa-tests-facial-recognition-technology-to-boost-airport-security/?amp=1"
     type: article
     provider:
-      name: WESH
-      domain: wesh.com
+      name: Boston.com
+      domain: boston.com
     quality: 79
     images:
-      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/ap26461ed234b522.jpg?crop=1.00xw:0.847xh;0,0.0216xh&resize=1200:*"
-        width: 1024
-        height: 579
+      - url: "https://www.boston.com/wp-content/uploads/2023/05/Facial_Recognition_Airports_79172-6461bb4fb69eb-scaled.jpg"
+        width: 2560
+        height: 1708
         isCached: true
   - title: "Are you who you say you are? TSA tests facial recognition technology to boost airport security"
     excerpt: "A pilot project by the Transportation Security Administration assesses the use of facial recognition technology at a number of airports."
@@ -468,6 +468,6 @@ related:
       domain: extremetech.com
     quality: 19
 
-secured: "Nk8mfUn1Idvxo8KX0UcWdkFFiyXp51F6TV6OC+wF0SXgI+ZnlPhg8+4nDx1QQ+F0tXeM8DmUG4j9SUZIRgIJM3P7BfevxJdheq+8Q8bkVfBVc8VUIp/NmoqRKtDWQj/l3+Mpd0RCTh6xdQb8u1xwxTYhZufQhBDf2CBVI+3DJdss9bl0IE0V0MyaiWbnDqRW297PNnv13ZIE6jOBWXMWQtZF56vH547LJAaFrZeo9u7rK/s6SGoyzp7sIP9tkXBe0GrNKy6QQmWa7KKJPdNW3pm9RappYM6JpgnlOtrejP7eg2aHakxu7cXln9zEcnJWYxBk+VGGnuzpvT4Xe4tEL2YbiI3RdLgO/05r6XFJly0=;sbZRwRf4jmZDtDX7tvoEtA=="
+secured: "V6dSjlGoor1LV+u8oRvPjfh4MyzB1xMQlmaCjTZBWQSBra1DQPbVzscU1yLR9X60hA8C/CXkIt42/2pmBGruqvhPDC/7xPuBS2dQ9TUu7F73BvDmwIZMNC1Jp8y6EoXh/21BL8EpHhPH7Cn0mWaRlCJf79MYMKYt+LcVsK5Mr7plG4jhhWdf7dahjqp+v91VTn/YEMpyt9Ixq3k07KJkRosUJ9xTdBj/XEDmjTV2Uf4dEPYmHIpxrA25OwzxWhuw27M5KvP1phRrsN6Q5DQ2jCgw+8zFA9cRiY22MFu+EjlFj/Un/YyiSDNFRVgD49jypzqFZbeB5FkaVEqXBqxAnamo0YvSf02BRfbkfZP95BY=;hUAVoTQAh8ZIoRdsUf7V7Q=="
 ---
 

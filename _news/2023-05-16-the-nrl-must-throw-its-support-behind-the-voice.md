@@ -49,6 +49,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "AFL and Rugby Australia publicly support the Voice to Parliament"
+    excerpt: "The high-profile codes have followed the lead of the NRL, Football Australia, the Australian Olympic Committee and Tennis Australia."
+    publishedDateTime: 2023-05-18T03:03:00Z
+    webUrl: "https://www.sbs.com.au/news/article/afl-and-rugby-australia-publicly-support-the-voice-to-parliament/n4wmpecj0"
+    type: article
+    provider:
+      name: SBS
+      domain: sbs.com.au
+    quality: 24
+    images:
+      - url: "https://images.sbs.com.au/dims4/default/7d595db/2147483647/strip/true/crop/1919x1080+0+0/resize/1280x720!/quality/90/?url=http%3A%2F%2Fsbs-au-brightspot.s3.amazonaws.com%2F38%2Ff1%2Fae85cc964aa9a8f10cfa8802511c%2Fcopy-of-2-way-website-header.png"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "AFL backs the Voice to Parliament"
     excerpt: "The AFL has joined the NRL and Rugby Australia to support the Voice to Parliament. The AFL released a statement on Thursday stating they “proudly support the recognition of Aboriginal and Torres Strait Islander peoples in the constitution of the Voice to Parliament”."
     publishedDateTime: 2023-05-18T01:27:00Z
@@ -73,6 +87,33 @@ related:
     provider:
       name: Australian Football League
       domain: afl.com.au
+    quality: 24
+  - title: "AFL officially pledges its support for the Indigenous Voice to Parliament on eve of Sir Douglas Nicholls Round"
+    excerpt: "The AFL has officially pledged its support for the Labor government’s proposed Indigenous Voice to Parliament."
+    publishedDateTime: 2023-05-18T03:25:00Z
+    webUrl: "https://www.skynews.com.au/australia-news/sport/afl-officially-pledges-its-support-for-the-indigenous-voice-to-parliament-on-eve-of-sir-douglas-nicholls-round/news-story/99543a20eb1274c886e3ba6de483f616"
+    ampWebUrl: "https://www.skynews.com.au/australia-news/sport/afl-officially-pledges-its-support-for-the-indigenous-voice-to-parliament-on-eve-of-sir-douglas-nicholls-round/news-story/99543a20eb1274c886e3ba6de483f616?amp"
+    cdnAmpWebUrl: "https://www-skynews-com-au.cdn.ampproject.org/c/s/www.skynews.com.au/australia-news/sport/afl-officially-pledges-its-support-for-the-indigenous-voice-to-parliament-on-eve-of-sir-douglas-nicholls-round/news-story/99543a20eb1274c886e3ba6de483f616?amp"
+    type: article
+    provider:
+      name: Sky News Australia
+      domain: skynews.com.au
+    quality: 24
+    images:
+      - url: "https://content.api.news/v3/images/bin/fa84660d572b988f7bb9aac71e5fbbef"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "AFL says ‘yes’ to Indigenous Voice"
+    excerpt: "The AFL have backed in the voice to parliament, following Rugby Australia and the National Rugby League’s ‘yes’ stance on the call for constitutional recognition for Indigenous Australians."
+    publishedDateTime: 2023-05-18T03:31:00Z
+    webUrl: "https://www.theaustralian.com.au/sport/afl/afl-says-yes-to-indigenous-voice/news-story/fedc39fb6afa616dc23c887fb9629f12"
+    ampWebUrl: "https://www.theaustralian.com.au/sport/afl/afl-says-yes-to-indigenous-voice/news-story/fedc39fb6afa616dc23c887fb9629f12?amp"
+    cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/sport/afl/afl-says-yes-to-indigenous-voice/news-story/fedc39fb6afa616dc23c887fb9629f12?amp"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
     quality: 24
   - title: "Rugby Australia adds its voice to other sports codes supporting yes vote"
     excerpt: "Rugby Australia is the latest major sporting code to back the Indigenous voice to parliament, joining a growing list of elite sports pushing for a yes vote in this year’s referendum."

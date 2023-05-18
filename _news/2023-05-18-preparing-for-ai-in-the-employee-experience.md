@@ -6,7 +6,7 @@ publishedDateTime: 2023-05-17T22:07:00Z
 originalUrl: "https://www.psychologytoday.com/za/blog/the-new-employee-experience/202305/preparing-for-ai-in-the-employee-experience"
 webUrl: "https://www.psychologytoday.com/za/blog/the-new-employee-experience/202305/preparing-for-ai-in-the-employee-experience"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-05/GettyImages-1469706462.jpg?itok=gnSj0JMx"
@@ -87,6 +88,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "+ewUQipn7bNx+yLj/FVUDmkmqXy/ALSeKrj9wWFtSMkbob6949699YtniLBOUhF8tHEz29w5Oi9rcUywRDja8UlCW/Eg6qgwOYT2LwZDUwFEAy5OnPztVA9LmnyKrI/izb+BATZPP015/HM9AP1Px6m0V74Yf2DD6z4PLn9+W2tqfgu/MYxghkOVIWsXZmc2LGiZ/Lxd6WqrKffsh4yLGvHmNbHpSL7N9mhsgp8MJc6nr4ad6l6z40/rx1tdTVaRi5w7cSEqY9IuKZLLoGuU7j37YaWKzPw25Ud8FqegVM/Sf+0F67V1szhDwUgGGFuGTjcOfIgqUy9WxgsS7Co3V1m4/Qqzd1PDV1fWncSnR30=;KFfF5ivCl4DwD+XnNMeZTw=="
+secured: "wCEj7j+Q1aIzEJe0hMHdaEmCvfkSYrm6ocmJo2xJmQ3D3x//YZT2csP43HT5Jfg8iP9R3p8DO9h2B3kIeOLNv/TrNEDCM4nbxoMpeBG0kRSQx156rR5OJpICXo0SzC1USUjg1G+8tPwMyNJT4dFirqI81oAeSNAUlMNFO0mcRok3UdktUFbmKqHTCkWaGFV8O3oEnA7scnQxJ5ULKYNnpsSq2a5Yl+QRybBvt3Y+vUzwoMOXmhZ9V51d2/wIKxI4xYgyF8yemU++in6egIPY9Ts9H29xRcpgzZtdJ4DLbp6SCTAgskRVRSiuw6MT/aMSHkewodev9bWO2RICuzXC/n+JTSA0r/bob3FnI/o5aBlffYKz3CEBnfZY6b2Df0sMA+VrHwzZiTSRuxrtAaZt3hs0s+oXyDLD3SqL6ua+o4U57lTneAVnqr7cfFUb4iAfZRw6YernIxYa0ylSmfQ8nkuo44mNlIYnawnFYZZ5QAmYN7VBPq6JHHI0c/P95TYIDCeeUxYA4IimRNwdRr23QA==;FpSUIbaUf2Lir493o2dfRA=="
 ---
 

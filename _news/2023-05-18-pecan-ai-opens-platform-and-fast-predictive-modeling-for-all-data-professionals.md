@@ -1,18 +1,20 @@
 ---
 category: news
 title: "Pecan AI Opens Platform and Fast Predictive Modeling for All Data Professionals"
-excerpt: "Pecan AI, the leader in AI-based predictive analytics for BI analysts and business teams, today announced that it has opened its predictive analytics platform to all users. Free trials let anyone try the platform's intuitive SQL-based editor for building predictive models focused on real business challenges."
-publishedDateTime: 2023-05-17T17:46:00Z
-originalUrl: "https://technews.tmcnet.com/news/2023/05/17/9816519.htm"
-webUrl: "https://technews.tmcnet.com/news/2023/05/17/9816519.htm"
+excerpt: "Platform now open to all users for free trials of fast, easy-to-use predictive modeling, accessible to all business teams Pecan AI, the leader in AI-based predictive analytics for BI analysts and business teams,"
+publishedDateTime: 2023-05-17T17:35:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/23/05/b32451257/pecan-ai-opens-platform-and-fast-predictive-modeling-for-all-data-professionals"
+webUrl: "https://www.benzinga.com/pressreleases/23/05/b32451257/pecan-ai-opens-platform-and-fast-predictive-modeling-for-all-data-professionals"
+ampWebUrl: "https://www.benzinga.com/amp/content/32451257"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32451257"
 type: article
-quality: 15
+quality: 35
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Machine Learning
@@ -73,6 +75,6 @@ related:
       domain: siliconrepublic.com
     quality: 19
 
-secured: "WUn0XC1iaHhgjulfNSOIbqo7EYTEgmG1DGjDUX/swqGRc0K+sm0IyVpwp5Nu6L8DQA4ASrS/KzluWseKwrJIV7LqodOOb2efnsBQ1g0Z3Esysv0Un7pPC+cWjzwjYjqw3RdDghub/ljc/R9bPwWBx1jQpIFDMI9UEfkyF5+Dk77DBRuS0lMvG2wZRjogyFFmMefbpv8bxALS9kP80RrEQ3eM5yCrA/yQszNxJ0Lzocza/dgqzbvyl19PHJ/7V2IpirLs3e8mJjlxsdQ1ohtgfj0XCVFRAGMmE7luzYufY9H3jbErF+Y+b1xQE7q869+pqQHTJXxjuDNbiuMcQMeMjApQtJanSIvWjuL0kw/Gab8=;uREPTFxEWi4eqXKifqzhTA=="
+secured: "YgoDn2FUfQQtMRfofi8v7apeEJpRkZLp701aLuookXgLb1kguYdRt7edNWXRdrurp0aJA80cCjWiTFV6jL4RiDQr7rOSiwDka0LxuHcf25imUwXvqobVcY9sT20cPIy0dcNg0mux2BQWc1mBTZ1KNbsbp7YReiJyJyYTrmT95F4DLkF2xTBYLF0vmN/QnZxDWq4g+j0Ab2VrKtSlMIzL3TYtOkeIcmHRKBE4pjuTS40X8ztL6kKpoHvSLAGvR1y+UiPIDgDwEDhx2c09NdjRyJcM0Lf7amnObxdERXAY7xRzkNGhiKTQVrbWZ7/qJGqBMWSqpUABUJZHCnAIweJW/iFwO2x9FOBNnTD93yyeLSE=;W/eEpbD+Ct2pLegyvzR/IA=="
 ---
 

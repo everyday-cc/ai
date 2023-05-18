@@ -58,6 +58,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Preparing for AI in the Employee Experience"
+    excerpt: "AI is the next big evolution in how we work. Most employees will need to incorporate it into their work. AI can be an effective tool for reducing repetitive tasks and minimizing bias in decision-making. Willingness to learn, emotional intelligence, and creative problem-solving are critical skills to hone."
+    publishedDateTime: 2023-05-17T22:07:00Z
+    webUrl: "https://www.psychologytoday.com/za/blog/the-new-employee-experience/202305/preparing-for-ai-in-the-employee-experience"
+    type: article
+    provider:
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 39
+    images:
+      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-05/GettyImages-1469706462.jpg?itok=gnSj0JMx"
+        width: 1528
+        height: 800
+        isCached: true
   - title: "Schumer eyes regulation of burgeoning AI industry"
     excerpt: "Schumer been meeting for months with tech leaders like Tesla CEO Elon Musk to develop a regulatory framework to guide a burgeoning field that's big at the University at Buffalo and that has the potential to remake society."
     publishedDateTime: 2023-05-15T10:15:00Z
@@ -71,20 +85,6 @@ related:
       - url: "https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/1/f7/1f7e4404-f0f3-11ed-8938-bb644cc3accc/63fcfdde90823.image.jpg?crop=1600%2C840%2C0%2C112&resize=1200%2C630&order=crop%2Cresize"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Preparing for AI in the Employee Experience"
-    excerpt: "AI is the next big evolution in how we work. Most employees will need to incorporate it into their work. AI can be an effective tool for reducing repetitive tasks and minimizing bias in decision-making. Willingness to learn, emotional intelligence, and creative problem-solving are critical skills to hone."
-    publishedDateTime: 2023-05-17T22:07:00Z
-    webUrl: "https://www.psychologytoday.com/za/blog/the-new-employee-experience/202305/preparing-for-ai-in-the-employee-experience"
-    type: article
-    provider:
-      name: Psychology Today
-      domain: psychologytoday.com
-    quality: 37
-    images:
-      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-05/GettyImages-1469706462.jpg?itok=gnSj0JMx"
-        width: 1528
-        height: 800
         isCached: true
 
 secured: "jAMFfGr2HF1LKp5gEnoHU/85IBXq2yQLiiH1atOXTLd8P+d1RS49JUgRwkzDejiZVB2QJQo0g7eVRbIaURArGyFJb2S34Y+kUc5IFD8/k/2MJOcpfsdSJbH30fN+CeBI7GKFx4rLQpx0LzCbHnmhODh/LdpxiW3OngBfFQdc2qtxqiMgcnu9YJpRhAXq14qyWC7Hk6LwE3jQVP7X1RXnK9XBZj3V1XaKb5i85sm4wly4eisteBZHdmGp3f78ffbvHZ/k0B4fUE6NGJfJCuZsL1727G0b5vKep+R7M/Rs9VL4q9FFiqAQY+eZEPKwQXBQxNE3m/SIMF0RvsB6hxD4PH7eeU7HiujAHZ+yxyoaVTZZEgummp5PQsq8GbuSs2Ig3vvztrcLx9SGbcznbUEa9JV3I1sSR77y4l6wtuFEqQGQT7n6uzRV6PfKOIoPa4BELPwhR5LxSsC90YWqb/2GFJTtpDS4YLCYLqUIWhL2osMJnAu5xJiBmtycnnHNMrd6+MkpjUKrk9HktTAULMiJIA==;WzrNGbf3Dk9MI3QtA6jx5A=="
