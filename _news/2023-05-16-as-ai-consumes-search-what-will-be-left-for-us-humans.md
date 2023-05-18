@@ -7,8 +7,8 @@ originalUrl: "https://techcrunch.com/2023/05/12/ai-search-effects-implications/"
 webUrl: "https://techcrunch.com/2023/05/12/ai-search-effects-implications/"
 type: article
 quality: 67
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: TechCrunch
@@ -26,6 +26,22 @@ images:
     width: 1200
     height: 638
     isCached: true
+
+related:
+  - title: "Will Artificial Intelligence Determine the End of Humanity?"
+    excerpt: "Legal contracts are being drafted more accurately and effortlessly by robots compared to human lawyers. Our fundamental identities, once defined by our mother tongue (identical language), are diminishing. Artificial intelligence is assuming control over ..."
+    publishedDateTime: 2023-05-18T05:27:00Z
+    webUrl: "https://www.counterpunch.org/2023/05/18/will-artificial-intelligence-determine-the-end-of-humanity/"
+    type: article
+    provider:
+      name: CounterPunch
+      domain: counterpunch.org
+    quality: 39
+    images:
+      - url: "https://www.counterpunch.org/wp-content/uploads/2021/06/cp-default-share.png"
+        width: 1200
+        height: 704
+        isCached: true
 
 secured: "jPThDh11x+Vsu+rDaCqedM6OqMOKmkkSSdKeCNFxkr6zLZsS9M65hOiN4DQMqeOKJF27EYAWweouhiQ4VWgGUbzdiokn/yJSN//O/PzzJeC+pFobarhp+bD60/izn0f05HNF/HyZQEUNs98y3RmaKkL8U5FJk/bbRylOSAgj1oetf1M5YirXR0WA7jIaLCieBwT/NcLzNsOoHPjjkk8s+7v+mAF01o37gBl3jre/b9JIKz7PjqTpBRkbmCR8J3VN4cxJgcm9xwpeJlqr5y+MZbh9EvaxySZAH11nKEpKTV0SymmrhpB0rltjcSGSqFGQMZ3fOaMNepWJa2tYui2o0mlWFMthfW1oUisXgMLhbGZZRUdy6nhazx52k5Wztki2fSBa5ewmqDVkolxMkUwXRssPYGJUl+Bm2d1YTFOySQGA950gDvcsKuYJFnoNQIYIc9b+5Am0K96wb5WrWd1mG6GACvGkNnQVrW7t/YB1dVhdTJWhwaqbNDx2zNNHK4GFP2vbDlbC9mB5id7AF+Ud4w==;Fs4opPSkSePPnL+LFaDC1g=="
 ---

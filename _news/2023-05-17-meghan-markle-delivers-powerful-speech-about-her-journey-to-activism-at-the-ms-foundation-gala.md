@@ -41,6 +41,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Watch Meghan Markle Deliver Powerful Speech About Her Journey to Activism at the Ms. Foundation Gala"
+    excerpt: "The Duchess of Sussex said that media narrative surrounding her \"allowed me to recognize that part of my greater value and purpose in life was to advocate for those who felt unheard, to stand up to injustice,"
+    publishedDateTime: 2023-05-17T21:40:00Z
+    webUrl: "https://www.aol.com/lifestyle/meghan-markle-delivers-powerful-speech-135300477.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 9
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/Wwe9jzYpUUhYthDMDaU87A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MDE-/https://media.zenfs.com/en/aol_towncountry_108/7e5491a4b8116e18477568c5f197f367"
+        width: 1199
+        height: 601
+        isCached: true
 
 secured: "Vo7dEahBsR+Lr79Cs27WCS6NC+wifu4pHy4XPJIxzLSNVIOiOV1HT5ItXjoQHYds6IBCoz+HVS3p353cJVHc/VEbZ7p1aKOw0dVV+GiKjJQus/f+qqVXDWNS3XwRfe2ffN+qC5VZXWCN5P31t/mVAe1V46GdZ3PgJF8dqextA+uVK8P3/Wj+SLLZve9XY02zPb0DYpFrbTJycaPscS5PbH2Z9dCPKExexN+S3B4VbuteO5cP6HfE04Xe1sJN9as1dGQd2rQeXQCtQ0TK6snF/A94HHoRWUjML+ynZtg3NBDE2552UEh7YXf//9lXHB+6Pe2v44lRotyGVEQS1xX4UPsfsVJ36SWDU1u9t4XglAc=;niRLZEOBF6rvOWokD75JbA=="
 ---

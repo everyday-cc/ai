@@ -22,20 +22,6 @@ topics:
   - AI
 
 related:
-  - title: "Discovering Chat GPT: The Future of Conversational AI"
-    excerpt: "Conversational AI has come a long way since its early days. It all started with simple rule-based chatbots that could only understand and respond to predefined phrases. The technology evolved with machine learning and natural language processing,"
-    publishedDateTime: 2023-05-13T11:39:00Z
-    webUrl: "https://techbullion.com/discovering-chat-gpt-the-future-of-conversational-ai/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 39
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/05/Chatgpt-full-form.png"
-        width: 860
-        height: 430
-        isCached: true
   - title: "Amazon’s conversational AI search plans sound like a nightmare"
     excerpt: "Amazon said in a job listing that it wants to \"re-architect and reinvent the way we do search\" with AI, and we have concerns."
     publishedDateTime: 2023-05-16T00:14:00Z

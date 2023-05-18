@@ -35,6 +35,22 @@ related:
         width: 1200
         height: 903
         isCached: true
+  - title: "A third former Apple employee has been charged with stealing self-driving car tech"
+    excerpt: "A federal court in the Northern District of California has unsealed charges against Weibao Wang, a former Apple software engineer. Wang started working at the company in 2016 as part of a team that developed hardware and software for autonomous systems — technology that could conceivably wind up in self-driving cars."
+    publishedDateTime: 2023-05-18T04:29:00Z
+    webUrl: "https://www.engadget.com/doj-charges-a-third-former-apple-employee-with-stealing-self-driving-car-tech-180824584.html"
+    ampWebUrl: "https://www.engadget.com/amp/doj-charges-a-third-former-apple-employee-with-stealing-self-driving-car-tech-180824584.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/doj-charges-a-third-former-apple-employee-with-stealing-self-driving-car-tech-180824584.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 68
+    images:
+      - url: "https://s.yimg.com/uu/api/res/1.2/MA9mbp9EV5VsAq9RVuHZog--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-05/1a90b300-f413-11ed-bbdd-b46ed16b28aa.cf.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Ex-Apple engineer accused of stealing self-driving cars technology for China. Details"
     excerpt: "The DoJ indictment alleges a total of six separate counts that include theft of entire autonomy source code, tracking for an autonomous system, behavior planner for an autonomous system, among others."
     publishedDateTime: 2023-05-17T08:59:00Z

@@ -2,6 +2,126 @@
   "page": 62,
   "value": [
     {
+      "path": "_news/2023-04-06-meta-unveils-ai-model-for-object-detection-and-largest-dataset-of-its-kind.md",
+      "title": "Meta unveils AI model for object detection and largest dataset of its kind",
+      "excerpt": "Meta has announced the release of an artificial intelligence model that is capable of identifying specific objects within an image. Alongside the model, Meta has also published a dataset of image ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/technology/tech-news/meta-unveils-ai-model-for-object-detection-and-largest-dataset-of-its-kind-11680750682182.html",
+      "originalUrl": "https://www.livemint.com/technology/tech-news/meta-unveils-ai-model-for-object-detection-and-largest-dataset-of-its-kind-11680750682182.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-06T02:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-06-alphabet-says-googles-latest-ai-chip-is-17-times-faster-than-nvidia-theres-a-catch.md",
+      "title": "Alphabet Says Google's Latest AI Chip is 1.7 Times Faster Than Nvidia. There's a Catch.",
+      "excerpt": "Early last year, Nvidia announced the development of the H100 \"Hopper\" chip, which the company said would be nine times faster for training AI models and up to 30 times faster for inference -- the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/04/06/alphabet-says-googles-latest-ai-chip-is-17-times-f/",
+      "originalUrl": "https://www.fool.com/investing/2023/04/06/alphabet-says-googles-latest-ai-chip-is-17-times-f/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/727253/people-in-a-factory-assembling-semiconductor-components.jpg",
+          "width": 2119,
+          "height": 1415,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-06T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-06-a-staggering-number-of-new-tools-revealed-by-the-google-search-for-ai-tools.md",
+      "title": "A Staggering Number Of New Tools Revealed by “The Google search for AI tools”",
+      "excerpt": "A new search tool for AI, known as Topapps.ai reveals just how proliferated tha AI tool industry has become. In short: if you believe you know what AI is and what it can do, it is highly probable that this tool will re-educate you on the vastness of possibilities.",
+      "sourceUrl": null,
+      "webUrl": "https://techbullion.com/a-staggering-number-of-new-tools-revealed-by-the-google-search-for-ai-tools/",
+      "originalUrl": "https://techbullion.com/a-staggering-number-of-new-tools-revealed-by-the-google-search-for-ai-tools/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-06T01:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Impacts",
+        "domain": "techbullion.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-06-meta-has-a-new-ai-model-that-can-identify-objects-within-an-image.md",
       "title": "Meta has a new AI model that can identify objects within an image",
       "excerpt": "The Facebook owner also unveiled ... Earlier this year, Meta released a new research-focused large language model called Llama, or Large Language Model Meta AI, to join the increasing competition ...",
@@ -882,117 +1002,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-06-masters-app-website-rolling-out-generative-ai-commentary.md",
-      "title": "Masters app, website rolling out generative AI commentary",
-      "excerpt": "The Masters, in a joint activation with IBM, will not only stream every shot from every round once players tee off tomorrow but will also include generative AI commentary based on Augusta National -specific machine learning,",
-      "sourceUrl": null,
-      "webUrl": "https://www.sportsbusinessjournal.com/SB-Blogs/SBJ-Power-Up/2023/04/05/Masters.aspx",
-      "originalUrl": "https://www.sportsbusinessjournal.com/SB-Blogs/SBJ-Power-Up/2023/04/05/Masters.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-05T10:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Sports Business Journal",
-        "domain": "sportsbusinessjournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-06-global-medical-electronics-market-to-2030-increased-use-of-medical-electronics-in-imaging-screening-therapy-and-intervention-is-boosting-growth.md",
-      "title": "Global Medical Electronics Market to 2030: Increased Use of Medical Electronics in Imaging, Screening, Therapy and Intervention is Boosting Growth",
-      "excerpt": "The \"Medical Electronics Market, By Type, By Component, By Application, By End-use, and By Region Forecast to 2030\" report has been added to ResearchAndMarkets.com's",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/04/n31684457/global-medical-electronics-market-to-2030-increased-use-of-medical-electronics-in-imaging-screenin",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/04/n31684457/global-medical-electronics-market-to-2030-increased-use-of-medical-electronics-in-imaging-screenin",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-05T10:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-05-new-study-shows-the-potential-of-machine-learning-in-the-early-identification-of-people-with-inflammatory-arthritis.md",
-      "title": "New study shows the potential of machine learning in the early identification of people with inflammatory arthritis",
-      "excerpt": "A study by Swansea University has revealed how machine learning can help with the early detection of Ankylosing Spondylitis (AS) inflammatory arthritis and revolutionize how people are detected and diagnosed by their GPs.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2023-04-potential-machine-early-identification-people.html",
-      "originalUrl": "https://medicalxpress.com/news/2023-04-potential-machine-early-identification-people.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/machine-learning-1.jpg",
-          "width": 1920,
-          "height": 1316,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2023-04-potential-machine-early-identification-people.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-04-potential-machine-early-identification-people.amp",
-      "publishedDateTime": "2023-04-05T09:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

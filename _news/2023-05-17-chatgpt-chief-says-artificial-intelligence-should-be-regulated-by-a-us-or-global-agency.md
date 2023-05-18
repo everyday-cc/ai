@@ -1,28 +1,26 @@
 ---
 category: news
 title: "ChatGPT chief says artificial intelligence should be regulated by a US or global agency"
-excerpt: "The head of the artificial intelligence company that makes ChatGPT has told Congress that government intervention will be critical to mitigating the risks of increasingly powerful AI systems"
-publishedDateTime: 2023-05-16T19:48:00Z
-originalUrl: "https://abcnews.go.com/Technology/wireStory/chatgpts-chief-testify-congress-concerns-grow-artificial-intelligences-99354581"
-webUrl: "https://abcnews.go.com/Technology/wireStory/chatgpts-chief-testify-congress-concerns-grow-artificial-intelligences-99354581"
-ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/chatgpts-chief-testify-congress-concerns-grow-artificial-intelligences-99354581"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/chatgpts-chief-testify-congress-concerns-grow-artificial-intelligences-99354581"
+excerpt: "The head of the artificial intelligence company that makes ChatGPT has told Congress that government intervention will be critical to mitigating the risks of increasingly powerful AI systems. OpenAI CEO Sam Altman testified at a Senate hearing Tuesday that he supports the formation of a U."
+publishedDateTime: 2023-05-16T21:53:00Z
+originalUrl: "https://apnews.com/article/chatgpt-openai-ceo-sam-altman-congress-73ff96c6571f38ad5fd68b3072722790"
+webUrl: "https://apnews.com/article/chatgpt-openai-ceo-sam-altman-congress-73ff96c6571f38ad5fd68b3072722790"
 type: article
-quality: 49
+quality: 29
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
 
 images:
-  - url: "https://s.abcnews.com/images/US/wirestory_73ff96c6571f38ad5fd68b3072722790_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://storage.googleapis.com/afs-prod/media/361322ea37f54f28815d564dfb7ba6a0/3000.jpeg"
+    width: 3000
+    height: 2000
     isCached: true
 
 related:
@@ -57,6 +55,22 @@ related:
       - url: "https://d.newsweek.com/en/full/2235559/chat-gpt-creator-worried-about-ai.jpg"
         width: 3200
         height: 2116
+        isCached: true
+  - title: "Inside ChatGPT: How AI chatbots work"
+    excerpt: "Large language models like ChatGPT use a complicated series of equations to understand and respond to your prompts. Here’s a look inside the system."
+    publishedDateTime: 2023-05-17T12:00:00Z
+    webUrl: "https://www.nbcnews.com/data-graphics/chat-gpt-artificial-intelligence-how-chatbot-work-rcna83266"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna83266"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna83266"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 87
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-05/230510-ai-chatgpt-explainer-static-jg-07e16a.jpg"
+        width: 2500
+        height: 1250
         isCached: true
   - title: "Amazon job listings hint at ChatGPT-like conversational AI for online store"
     excerpt: "A pair of job listings suggest that Amazon is looking for engineers who could help create “an interactive conversational experience.\""
@@ -270,6 +284,20 @@ related:
       - url: "https://rabble.ca/wp-content/uploads/2023/05/Sarah-Elaine-Eaton-ChatGPT-e1684262093831.jpg"
         width: 1080
         height: 538
+        isCached: true
+  - title: "ChatGPT/AI is coming for the workplace"
+    excerpt: "Microsoft, in its latest “Work Trend Index” report, promises that the use of AI at work is the technology of that's going to make work easier"
+    publishedDateTime: 2023-05-18T04:00:00Z
+    webUrl: "https://amsterdamnews.com/news/2023/05/18/chat-gpt-coming-to-workplace/"
+    type: article
+    provider:
+      name: Amsterdam News
+      domain: amsterdamnews.com
+    quality: 39
+    images:
+      - url: "https://i0.wp.com/amsterdamnews.com/wp-content/uploads/2023/05/pexels-photo-15863103.jpeg?fit=1880%2C1253&ssl=1"
+        width: 1880
+        height: 1253
         isCached: true
   - title: "Kagan: What’s the next move for Meta with metaverse down, AI ChatGPT up?"
     excerpt: "As interest and intrigue in ChatGPT overtakes that of the metaverse, one analyst asks: Should Meta change its vision?"
@@ -503,6 +531,6 @@ related:
       domain: yourstory.com
     quality: 1
 
-secured: "fi0v/qFgaqPdEURC2C6KjL2XPxR9NE5yGhlET8qHIco/IMzkUx4uNm0tR0K/uXhd+TEmFuxwK6gOY5Bl5umHrJqNaZAJLR0wnU6zXxNtFY2ZFwPMAzxl9LvdIV7YOjvuhIU1K0VEAj2JZ7dIF4tbtxVXshkFKyJH2asfcFv/fXr70fYyfoN8Sd/8mlqtiFjLj+Z+eAS3a+vYlw/+HYaMIERArGxCXvSl9VK2lLFNWuoP7vNPgMEAy4lTZUjnXLIupw3ayIMbocKnTNDuoXFNU6Zf24DY3peL0qKbFymBDoVjwQf4f/NJJiowjVMuSLQ+/R5amM3mjl7HWPWCJ+8hYuZ3GYr9z0osbQHS6A7f1gmX0vjWbWVbbOyImBBSQnblOO6lmCbjO81SH5VShGDgYankCRvq/86kHNXMpZjWCPy3uCXRBsK0Fgnlk+72Gjey9wiRtQlwZhEUXKt+IuNkpGBRun0YibNJwiJfvbR9dfXNInJm3sf4AfBfHisGWg+lMHJIDqjVZWeSh2v+QUQvkg==;dk9BcAgo3WRl0miSoS2WTA=="
+secured: "4BfVpV8MinUBtCTGqvxt5x4qO/eyaLIGMq58Ta3dYT9wnRiPh6SnTAu0Up8PHhLaU7V0REb77/hDPsQnBFM6OX0uDAu2fWtUeL9rguEbOQ2Cf24J24GOUg1wWYcpa239OjsgFUvYDumWIS55gY2b8lETgn6qWwBodU34uLB/YXCB2mt642SAKEnnHskrSgFc90YfLl9twV5uK4fnGtSJeBn6C2mfq7fx5JMfH2fWZMHuAdUM1almEl6LlFUZr8LZpXdECocGph/+skVcIjgvPVTe7iVZmra+VHYz34M5B0YsPPOuAclgs6+BeRCNP/o733PxDRgHmvLDASd2Kja//zjvWpQKYebWCS234iFVWcQ=;LCIcoSMHWzT48OV0UzxKgA=="
 ---
 

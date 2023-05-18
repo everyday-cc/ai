@@ -39,6 +39,20 @@ related:
         width: 952
         height: 498
         isCached: true
+  - title: "MediaTek will reportedly build a flagship SoC with an integrated Nvidia GPU for 2024"
+    excerpt: "MediaTek is reportedly working with Nvidia to develop a flagship smartphone SoC that would include an Nvidia GPU."
+    publishedDateTime: 2023-05-18T05:30:00Z
+    webUrl: "https://www.phonearena.com/news/mediatek-flagship-ap-2024-nvidia-gpu_id147577"
+    type: article
+    provider:
+      name: PhoneArena
+      domain: phonearena.com
+    quality: 32
+    images:
+      - url: "https://m-cdn.phonearena.com/images/article/147577-wide-two_1200/MediaTek-will-reportedly-build-a-flagship-SoC-with-an-integrated-Nvidia-GPU-for-2024.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "UvZXQABV1C2JiZRNLriqNFIaSinVPdVr50Vm2Tb37bFmQVgECCKTNAijIROt7zuXRSLXQh3MBrMct1bwoRls9SrUy64kjihFm7VN3ClJ0V3WJwBM6kK3GSW8q+PgAXXwMqrL0AkSUXfge6g18Snp6INcXPkKzubH5V4UlpW/1+6qQ53d6ndvyPookXGqIf4nvflMEW6DiuntTxAhaUyRI8YaoDXDpAeEXbsJsX5QiJ1vrHqk9TZMGZq4Ucouk6x7TwLQEzfcO63ZPnzLABf/NwMRUkNd6aIcf0R4TqWNWGT0XrnA1g575AdFjMAyyqzTmYUlcxbNoZBeTGQ+eqOfOsUsplvLQuSO9hghOXzEe49uxTQ3vWwNQ2FK/j5rt1DN0KrXYrWV0K+H8f8Yq2JuKceaxzPANWsmrR/WGkfqPll+9h+QssSOB+sJZhytSbhDDOajrNMBLp6r6abU+/nHmNp/4SEA6IfjlATuarn+oZp2Ixvg5ZvIY/b375ZGQcfFQmQfGAWcvP9TYqBwFdjYmA==;ENPuN+xzL9T7aDGRvdAivw=="
 ---

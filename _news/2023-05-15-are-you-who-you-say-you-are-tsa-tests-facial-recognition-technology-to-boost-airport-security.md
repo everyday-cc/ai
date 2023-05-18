@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Are you who you say you are? TSA tests facial recognition technology to boost airport security"
-excerpt: "The agency tasked with securing America's airports is testing the use of facial recognition technology at a number of airports across the country"
-publishedDateTime: 2023-05-15T06:17:00Z
-originalUrl: "https://abcnews.go.com/Business/wireStory/tsa-tests-facial-recognition-technology-boost-airport-security-99322639"
-webUrl: "https://abcnews.go.com/Business/wireStory/tsa-tests-facial-recognition-technology-boost-airport-security-99322639"
-ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/tsa-tests-facial-recognition-technology-boost-airport-security-99322639"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/tsa-tests-facial-recognition-technology-boost-airport-security-99322639"
+excerpt: "TSA says the goal of the pilot is to improve the accuracy of the identity verification without slowing down the speed at which passengers pass through the checkpoints — a key issue for an agency that sees 2."
+publishedDateTime: 2023-05-15T10:57:00Z
+originalUrl: "https://www.cbsnews.com/baltimore/news/are-you-who-you-say-you-are-tsa-tests-facial-recognition-technology-to-boost-airport-security/"
+webUrl: "https://www.cbsnews.com/baltimore/news/are-you-who-you-say-you-are-tsa-tests-facial-recognition-technology-to-boost-airport-security/"
+ampWebUrl: "https://www.cbsnews.com/amp/baltimore/news/are-you-who-you-say-you-are-tsa-tests-facial-recognition-technology-to-boost-airport-security/"
+cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/baltimore/news/are-you-who-you-say-you-are-tsa-tests-facial-recognition-technology-to-boost-airport-security/"
 type: article
 quality: 79
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: CBS News
+  domain: cbsnews.com
 
 topics:
   - Computer Vision
@@ -22,9 +22,9 @@ topics:
   - AI in Security
 
 images:
-  - url: "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/05/15/02a907ec-29f8-43ac-baed-9704c4df6bc5/thumbnail/1200x630/e70ef45625a6b1fad873a85c97aab290/ap23116691460840.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -469,6 +469,6 @@ related:
       domain: extremetech.com
     quality: 19
 
-secured: "obvTQhWbHAmMqBSQmN2Yz9rVn4nvcPM452Ep8VpyB8Bv6wxIbxhE9dlk8mRN+J3VcV9Oef86K/AJ83bKvhPKJhEm68JvBp8bnaRi2oEj4R0BUnNeHopJ8qwPUxHHqnCzfheN+jw206m7XXyYBqkSEqvEitD0Iw8byDsVtcD8pozFvdqojdLlURgKv/S/5sBp+YLyYy1Fl8dFFJdx3kenM/lauAZo1pKjPUtgTLhtK6VxeVOOXaotMoLnHwGNISnF82IVZ987YhcoEUXgRPJR/TgUccwQ+NSMIQz8dPOhM3lF7kicNVogRGb7Zta289LXOGPRTbWfx28uxZFCR3q0Bm1tk56J6ZphqmtjYl+D8Khn/DDM2INto38Is8kkaj/hM6sWeojs3wjPUMPlSDcIx0HiI3nyGu892NrRKIZZl3fc+udbv9z/SjXAHc0jKuloaSoNAZxlH8Q6TC6XfiyqI7RKeX9Cz0f779xfbEWfWYmMIvsaMwL1RW3fLWGQibkEx/9YYTVV8FMg8sPbMA3LPw==;P3260QyLTcbDzHBB6jzaPQ=="
+secured: "j9OVNynNmam9wIeuaFQ9wlsH4+mip/6NUF31dSwdCgG8F8Se6zqr2JinAe0/tbH6pBTihuLURCnVQtrnsB6ZVm3+R8BGW0FhQPIWAGR8cXvjBPh2laKbgbyxNjDCIXDY7IHwHZl1EmL4L9s5n9MteiZrmUaXf+ssB1Ro0LYBLhBf6SuAROr7Ngci9CNP+TPEuUPS97qT9sHrl95Qe/YgtQzgJc8uesM7IgJVCwnZHHQ5N22M1eD7gmyjAYNHYV3vSRwreUs4T/lPzNANS53sA1S+3PE5NpcaB5gTp53MUZBwuR2ZSyqYOJMJ1aiiRzLWhGgD0Wdzyk7Ahn0mt7gyjQUQuKrT1H4wy7aNw4jdsYU=;PLh1ICCU6wcUGJXjQWx62w=="
 ---
 
