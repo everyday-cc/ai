@@ -41,6 +41,20 @@ related:
         width: 2560
         height: 1280
         isCached: true
+  - title: "Enterprises Rely on Multicloud Security to Protect Cloud Workloads"
+    excerpt: "As enterprises adopt multicloud, the security picture has gotten foggy. Cloud workload protection platforms and distributed firewalls are creating clarity."
+    publishedDateTime: 2023-05-18T23:29:00Z
+    webUrl: "https://www.darkreading.com/emerging-tech/enterprises-rely-on-multicloud-security-to-protect-cloud-workloads"
+    type: article
+    provider:
+      name: Dark Reading
+      domain: darkreading.com
+    quality: 41
+    images:
+      - url: "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt76769326a0d9529e/643400bb0b84494288f69ed9/multicloud_Aleksey_Funtap-AlamyStockPhoto.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "1gq1FCnoSo4QzOoVaICKSoje9FFZxISoClw2nKnhogrgT9olzFJqNmFkZajzu4s7qg2B+l8DDMfVRm0C9Q6lMBxZ78KvJ/8lt8sX/UPK133tqIxImKC8cJ7bGUvZRqODvLpscQV6KYFtlnEP+n8w6r1WbNNmgxIqpeLtcoPO3KMYY+AiSrkZlOKZqxwGej9mFcVzBSfpMlY/yOpV+UvVgONmMxHnafBtsfmUx+BhYC5lncL6CxItLXZymuga7TmswT4y+xOaQoaTfE4C0gEvBnZMod0MTUt2Ii+Boeg6EUft2Jj7FvSMDYrLH7qbmhFlk5y7nTvolB0rkuZRAKv6RgRj0jqTZ+NZ32aEehxBsZzXNuZKiFGsrP64pRDKjMJnewf0kqEG0+IqXXn/HCg8UEgsrS+XgZSZk69kHc8knfKH0XiY7wJsW8EbOdUESk7wbLz/BySQMyZ4TpJvKXrfSg40oAwJpNqazkGpWWWbhGPWYEtG16sg6WmxviGwZfTDx2Q6xTzPsqMFwDSM7Vwa2A==;mqwYmsHKFHs+GJT6hCt+BQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/entertainment-arts-65627089.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/entertainment-arts-65627089.amp"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:

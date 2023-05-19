@@ -5,8 +5,10 @@ excerpt: "The agency tasked with securing America's airports is testing the use 
 publishedDateTime: 2023-05-16T00:50:00Z
 originalUrl: "https://www.cbsnews.com/detroit/news/are-you-who-you-say-you-are-tsa-tests-facial-recognition-technology-to-boost-airport-security-3/"
 webUrl: "https://www.cbsnews.com/detroit/news/are-you-who-you-say-you-are-tsa-tests-facial-recognition-technology-to-boost-airport-security-3/"
+ampWebUrl: "https://www.cbsnews.com/amp/detroit/news/are-you-who-you-say-you-are-tsa-tests-facial-recognition-technology-to-boost-airport-security-3/"
+cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/detroit/news/are-you-who-you-say-you-are-tsa-tests-facial-recognition-technology-to-boost-airport-security-3/"
 type: article
-quality: 31
+quality: 71
 heat: -1
 published: false
 
@@ -17,6 +19,12 @@ provider:
 topics:
   - Computer Vision
   - AI
+
+images:
+  - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/05/16/dd4531ea-7d1e-49f6-b90d-b78e7f190eca/thumbnail/1200x630/7091c6ef48ade2bd9217b5f28d1ec03d/ap23116691095530.jpg"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "TSA tests facial recognition technology to boost airport security"
@@ -100,20 +108,20 @@ related:
         height: 630
         isCached: true
   - title: "Are you who you say you are? TSA tests facial recognition technology to boost airport security"
-    excerpt: "A pilot project by the Transportation Security Administration assesses the use of facial recognition technology at a number of airports."
-    publishedDateTime: 2023-05-16T16:18:00Z
-    webUrl: "https://abc7.com/tsa-facial-recognition-airport-security-transportation-administration/13250231/"
-    ampWebUrl: "https://abc7.com/amp/tsa-facial-recognition-airport-security-transportation-administration/13250231/"
-    cdnAmpWebUrl: "https://abc7-com.cdn.ampproject.org/c/s/abc7.com/amp/tsa-facial-recognition-airport-security-transportation-administration/13250231/"
+    excerpt: "The Transportation Security Administration has started using facial recognition technology at a number of airports across the country."
+    publishedDateTime: 2023-05-15T21:49:00Z
+    webUrl: "https://www.boston.com/travel/technology/2023/05/15/are-you-who-you-say-you-are-tsa-tests-facial-recognition-technology-to-boost-airport-security/"
+    ampWebUrl: "https://www.boston.com/travel/technology/2023/05/15/are-you-who-you-say-you-are-tsa-tests-facial-recognition-technology-to-boost-airport-security/?amp=1"
+    cdnAmpWebUrl: "https://www-boston-com.cdn.ampproject.org/c/s/www.boston.com/travel/technology/2023/05/15/are-you-who-you-say-you-are-tsa-tests-facial-recognition-technology-to-boost-airport-security/?amp=1"
     type: article
     provider:
-      name: ABC7
-      domain: abc7.com
+      name: Boston.com
+      domain: boston.com
     quality: 79
     images:
-      - url: "https://cdn.abcotvs.com/dip/images/10994202_090221-cc-ap-tsa-generic-img.jpg"
-        width: 1280
-        height: 720
+      - url: "https://www.boston.com/wp-content/uploads/2023/05/Facial_Recognition_Airports_79172-6461bb4fb69eb-scaled.jpg"
+        width: 2560
+        height: 1708
         isCached: true
   - title: "Are you who you say you are? TSA tests facial recognition technology to boost airport security"
     excerpt: "A pilot project by the Transportation Security Administration assesses the use of facial recognition technology at a number of airports."
@@ -497,6 +505,6 @@ related:
       domain: extremetech.com
     quality: 19
 
-secured: "INtSNfA8aaw1D41JuUXdvsq0pRaBy4S5y0BxJXOfnYIorFQm6/8g5YtgFKC/VsVlpkpyZSNuAkXS0MYshpxMmlLlWwfMZJmZ0K+TTDYOdY8A4OWqknsZBKV+tGfUtjzH9I06RZQQ/huy1uBnLtTfc1IIuDe5jPkc4Zt9aF3q5u7sJ3NDOklMgKyEPitGVwEn7pv1h6PXtqE6gs4bheeO+7CwTnfkMMyRmAYU2cFVtPG1MNR+nduKnof8W7k7c6Tz3EkJEN70PZ0DW/SVhsdmtssCc9KptWqQMuyKU0wc5prUagctVZovveQgiroyBYR+AFO0N6BiQMCAFKozP8ysT485udUL37whyUhXNpwA8cGDnROpbVTEqrHGae/0nzbEvAnaYghZTDf2G/9Kkd1YPDixHd98KKE8XrruqUjcqVDIC5qQOyM904lLh+fkntOaqyzrtVAx3/1UtUkLBWIFtWXGf3lCNPTRxw9aknmgxqBR+nItGo9EKdly39vQ7zVvFdKoON3DBYhgUXbLE8aMCg==;EjE5H5ARSIwUCBUDs/BIjw=="
+secured: "WZj9QmDzx9/rdKNaBetwtgN55nTeNStUviP6THKLbTOa8vr+aAz4HmNSA/sSkhZFRRfc66u5+U1WvkoUJrg+ncWhnTZ0x0lRh00Is2a6yn6m4k/ha/x7hjo9Ft0IUWa4Fx3+jrxIcMIn9SBtc1i5HWuVPsIwbBNOMRw9yq1fc/8hLBXQPTDLSm8ius4YJzlBtBj9kyTGLLbo3Z2K8Iu6sXmbKSERbj8wDvSvEBp6rBZZ67/kCltv3axIbrv6vO2Jc0zwAh7EYAWw93sGkVl/MiCKcI3l3TPmdf4TYXbRCpbIjObjWjK0H2Xz8ORsDax+aXLPZocx84V9DsyrM+ba4geLdEFnl+lw65hC3/8hNSM=;abRA+Qe7IkSYIB2XiIl/Qg=="
 ---
 

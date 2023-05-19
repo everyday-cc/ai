@@ -61,7 +61,7 @@ related:
     provider:
       name: eWeek
       domain: eweek.com
-    quality: 67
+    quality: 69
     images:
       - url: "https://www.eweek.com/wp-content/uploads/2023/04/generative-ai-examples.png"
         width: 1400

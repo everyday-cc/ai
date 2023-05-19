@@ -2,9 +2,9 @@
 category: news
 title: "Sam Altman: CEO of OpenAI calls for US to regulate artificial intelligence"
 excerpt: "The creator of advanced chatbot ChatGPT has called on US lawmakers to regulate artificial intelligence (AI). Sam Altman, the CEO of OpenAI, the company behind ChatGPT, testified before a US Senate committee on Tuesday about the possibilities - and pitfalls - of the new technology."
-publishedDateTime: 2023-05-17T11:26:00Z
-originalUrl: "https://www.bbc.co.uk/news/world-us-canada-65616866?trk=public_post_comment-text"
-webUrl: "https://www.bbc.co.uk/news/world-us-canada-65616866?trk=public_post_comment-text"
+publishedDateTime: 2023-05-16T18:34:00Z
+originalUrl: "https://www.bbc.co.uk/news/world-us-canada-65616866"
+webUrl: "https://www.bbc.co.uk/news/world-us-canada-65616866"
 ampWebUrl: "https://www.bbc.co.uk/news/world-us-canada-65616866.amp"
 cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/world-us-canada-65616866.amp"
 type: article
@@ -211,6 +211,6 @@ related:
         height: 342
         isCached: true
 
-secured: "nxzuD+Xoh214T6bqDUjDuhpL9WRkJ3RTGdR3xVUYoN8/f0Knsc6+w0FxZqAuGiIewZ14Owp76+Vt2xYftHMj4pceUHEQqOsTRPdikyYLw8uuVDaa7oEaHxtg5ODaDN7TdOqJm6hEp2aXTxs31Cm5f5DO/jRwM5t/+RxgOvHB7RMsavMKFUePoqwxhwqPSysyk3C7oPtRus+o4isuKY7xwrrKI9s5yw7x/+qY4h6lS65q8Exx8giHiZJvKFSLMSd2SP2bJuQVmuPBogMG+5tGZznWJDP8LpdBQGHKOy78KVjJozuRlUE5xd4cy6uycJo6ayHG35RZamHO4WmkNz2woErHcgu0LueOq5EiLGm8ZmI=;/ssYdgdYQSeJQK/VzSTasw=="
+secured: "PxUUS7S+fAAihpykn8zA87qN+LIKA6DzW2AFOwolrD8mVWLQCpJ7Lyhqx7wIPxLb9cQRhteTVyMboMKXjM6CV6gt4njobJw/x46D4q+WzyjoZQeG64omXM564oNP1xjcplBSuFAdwUVyrN98IjGCuV6BIiamR/FpJY7DKeZpAEB1EjqIdpgN0zkaRABCBCYsZMASInTijeHHsDc55N49CDDWJew09B5Q8M1QB6j1KQgGqaiIy1B7DfH7u4k18BMYgvMqIG1BMV/SXHpQ+biCtqpEYMnyeIPcBhPS/0VHjyLLZ+8NTNLqK680crFjPWr0t5sEQk/c56V9dtxk7yUAUcm4Hea7BXgnZzN85bW1zzI=;c5g5JizLgxgjqCdIKimXbw=="
 ---
 

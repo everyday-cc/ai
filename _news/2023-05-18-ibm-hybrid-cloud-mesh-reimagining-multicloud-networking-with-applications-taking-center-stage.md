@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/ibm-hybrid-cloud-mesh-reimagining-multicl
 webUrl: "https://www.ibm.com/blog/ibm-hybrid-cloud-mesh-reimagining-multicloud-networking-with-applications-taking-center-stage/"
 type: article
 quality: 90
-heat: 100
+heat: 111
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://about.fb.com/wp-content/uploads/2023/05/AI-Infra-Scale_Social-Share.png?w=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Enterprises Rely on Multicloud Security to Protect Cloud Workloads"
+    excerpt: "As enterprises adopt multicloud, the security picture has gotten foggy. Cloud workload protection platforms and distributed firewalls are creating clarity."
+    publishedDateTime: 2023-05-18T23:29:00Z
+    webUrl: "https://www.darkreading.com/emerging-tech/enterprises-rely-on-multicloud-security-to-protect-cloud-workloads"
+    type: article
+    provider:
+      name: Dark Reading
+      domain: darkreading.com
+    quality: 41
+    images:
+      - url: "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt76769326a0d9529e/643400bb0b84494288f69ed9/multicloud_Aleksey_Funtap-AlamyStockPhoto.jpg"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "WNHoHKOcEx1MCQ3r4FW9c4gwWcVcnDueyg1w81Da4TJ46dTL1QJ1zHVMqIPgA4GvLgLRKFMG+dP2UBA4bjN94FXoN2biNSD6TG9Ada8m9E598R9w6K623b79c1X3gZTCIe8wOM4FD6GdvxqYxRa7O1MomSbPaiN7ieQCvk9gpj1eS2pUCFhSMvdBKQ5vuvsHSoFGPiKCyOJ6iH9JDUigaonrSEcgl7sqZ9IrS5aslIN26oL9TYC+i8FViEl5lF+k1G6ah9fwFrD0lVwmJ6fZluYtK86Ekf5zp29/zifO9Hm2awCyob4AtGnLqf/XKHQ9LMhaNLQkqFLIfyriyE5mo3iQd8+jo1/2UnYX2Wnl8VA=;Z33Cym2fVQKCDEhTsZ/SaQ=="

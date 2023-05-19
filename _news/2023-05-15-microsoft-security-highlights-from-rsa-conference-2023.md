@@ -324,8 +324,8 @@ related:
     quality: 19
   - title: "Check Point Software extends its Industry-Leading Cloud Firewall to Secure Microsoft Azure Virtual WAN"
     excerpt: "Check Point® Software Technologies Ltd. (NASDAQ: CHKP), a leading provider of cyber security solutions globally, announces the general availability of its industry-leading Next-Generation Cloud Firewall natively integrated with Microsoft Azure Virtual WAN to provide customers with top-notch security."
-    publishedDateTime: 2023-05-18T21:27:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-check-point-software-extends-its-industry-leading-cloud-/2023/05/18/9817479.htm"
+    publishedDateTime: 2023-05-18T22:01:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/05/18/9817479.htm"
     type: article
     provider:
       name: TMCnet

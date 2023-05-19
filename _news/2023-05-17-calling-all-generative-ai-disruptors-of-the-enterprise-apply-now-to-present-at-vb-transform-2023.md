@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/calling-all-generative-ai-disruptors-of-t
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/calling-all-generative-ai-disruptors-of-the-enterprise-apply-now-to-present-at-transform-2023/amp/"
 type: article
 quality: 74
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 800
     height: 533
     isCached: true
+
+related:
+  - title: "The Disruptive Economics of Artificial Intelligence"
+    excerpt: "Avi Goldfarb (Chair of Artificial Intelligence & Healthcare at University of Toronto) talks about the disruptive economics of artificial intelligence. This talk is organized by the World Bank, Georgetown University and Korea Institute for Industrial ..."
+    publishedDateTime: 2023-05-17T00:00:00Z
+    webUrl: "https://www.worldbank.org/en/events/2023/04/24/the-disruptive-economics-of-artificial-intelligence"
+    type: article
+    provider:
+      name: World Bank
+      domain: worldbank.org
+    quality: 39
+    images:
+      - url: "https://www.worldbank.org/content/dam/wbr/share-logo/social-share.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "d5i0AXxpdDyggXNy0F94ydXWd+RLUQqUdXL1f5Zuz1fhXSzB2KZAAIPTpx3jT9+O19YME/M/pHjOMuOQ3Wd3pIzRoSmEktZydcv2DyClNuqCUKcjwGtY0sEZBrgo/TrcwtB6lalWlbBr1B9m28OtzuZ3CFEIEZV6WVhK5eeGlm8uJ8IUCdv3wgRvVRMfFasGiUzCYAG/2qDTe2zm7z9njpm3RNkldsktJIy7tk9qicDZKyaYzd/bp+++po8+4kyaRn2JQATcdVXU0e1wG8iJ4lKEkTWWHCvj2wn/Rv6FREhAIJvKdfH5wBKIdbBUzw2OeiZI/+NljgbjR6btcLuqOXD9J9arg7/UTLRaONLewHvQ1Eqdtrnw6XdlcPzTLR6ALYg9r7nUHItXuVBSZJm3o7YTBRPEoLAneyXshF2HsCLqyaBxzZfMqJ+y/Vb3TqpAignHBlvQXIHDqQz1MACYOrPT2BvoriJp++a34w81iUHFDLs2kjKFmvg2CwzW1w76vlCAJewT0vZQprmvyceEYw==;UHMQPUAI2dVNPJj9AY3aRQ=="
 ---

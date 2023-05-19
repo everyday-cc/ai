@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/newsletters/2023-05-15/openai-s-alt
 webUrl: "https://www.bloomberg.com/news/newsletters/2023-05-15/openai-s-altman-makes-capitol-debut-at-artificial-intelligence-hearing"
 type: article
 quality: 67
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,15 @@ images:
     isCached: true
 
 related:
+  - title: "Sam Altman Sends A Message To Corporate Leaders On AI Risk Management"
+    excerpt: "The OpenAI CEO’s Senate testimony on the potential risks of AI and its need for regulation prompts boards to accelerate their oversight of how AI is applied in their own organizations."
+    publishedDateTime: 2023-05-17T19:39:00Z
+    webUrl: "https://www.forbes.com/sites/michaelperegrine/2023/05/17/sam-altman-sends-a-message-to-corporate-leaders-on-ai-risk-management/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "Sam Altman said all the right things to Congress, but the government won’t save you from AI"
     excerpt: "Opinion: The federal government is not going to come up with a framework or guardrails to protect us from AI anytime soon."
     publishedDateTime: 2023-05-17T22:03:00Z

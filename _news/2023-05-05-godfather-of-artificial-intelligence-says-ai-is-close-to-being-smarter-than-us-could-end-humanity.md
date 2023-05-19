@@ -5,6 +5,8 @@ excerpt: "Geoffrey Hinton, the \"godfather of artificial intelligence,\" who lef
 publishedDateTime: 2023-05-05T00:06:00Z
 originalUrl: "https://www.foxbusiness.com/technology/godfather-artificial-intelligence-says-ai-close-being-smarter-could-end-humanity"
 webUrl: "https://www.foxbusiness.com/technology/godfather-artificial-intelligence-says-ai-close-being-smarter-could-end-humanity"
+ampWebUrl: "https://www.foxbusiness.com/technology/godfather-artificial-intelligence-says-ai-close-being-smarter-could-end-humanity.amp"
+cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/godfather-artificial-intelligence-says-ai-close-being-smarter-could-end-humanity.amp"
 type: article
 quality: 39
 heat: 39
@@ -17,6 +19,7 @@ provider:
 topics:
   - AI
   - AI in Healthcare
+  - AI in Autos
 
 images:
   - url: "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2023/05/0/0/geoffrey-hinton-former-google-scientist.jpg?ve=1&tl=1"

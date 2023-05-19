@@ -38,6 +38,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Lessons from finance’s experience with artificial intelligence"
+    excerpt: "This rule appears to hold for artificial intelligence (AI) and machine learning, which were first employed by hedge funds decades ago, well before the recent hype. First came the “quants\", or quantitative investors,"
+    publishedDateTime: 2023-05-18T22:49:00Z
+    webUrl: "https://www.livemint.com/money/lessons-from-finance-s-experience-with-artificial-intelligence-11684407926757.html"
+    ampWebUrl: "https://www.livemint.com/money/lessons-from-finance-s-experience-with-artificial-intelligence/amp-11684407926757.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/money/lessons-from-finance-s-experience-with-artificial-intelligence/amp-11684407926757.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 76
+    images:
+      - url: "https://www.livemint.com/lm-img/img/2023/05/18/600x338/2-0-128027631-OPED-4C-0_1681892708995_1684408136028.jpg"
+        width: 600
+        height: 338
+        isCached: true
   - title: "GIGABYTE Unveils Revolutionary AI Computing Servers at COMPUTEX 2023"
     excerpt: "GIGABYTE, announces its unprecedented exhibits at COMPUTEX 2023. Resonating its theme “Future of COMPUTING”, GIGABYTE is unveiling its all-around technical achievements, including industry-leading AI/HPC servers, green computing solutions, gaming and creator products, industrial PC, AI smart securities, and autonomous vehicle technology."
     publishedDateTime: 2023-05-17T04:47:00Z

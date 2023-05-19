@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/cars/2023/05/teslas-full-self-driving-sees-p
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/cars/2023/05/teslas-full-self-driving-sees-pedestrian-chooses-not-to-slow-down/amp/"
 type: article
 quality: 89
-heat: 130
+heat: 129
 published: true
 
 provider:

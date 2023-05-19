@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/15/behemoths-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/05/15/behemoths-of-the-retail-industry-are-redefining-customer-experience-with-computer-vision-and-ai/amp/"
 type: article
 quality: 92
-heat: 142
+heat: 152
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Lessons from finance’s experience with artificial intelligence"
+    excerpt: "This rule appears to hold for artificial intelligence (AI) and machine learning, which were first employed by hedge funds decades ago, well before the recent hype. First came the “quants\", or quantitative investors,"
+    publishedDateTime: 2023-05-18T22:49:00Z
+    webUrl: "https://www.livemint.com/money/lessons-from-finance-s-experience-with-artificial-intelligence-11684407926757.html"
+    ampWebUrl: "https://www.livemint.com/money/lessons-from-finance-s-experience-with-artificial-intelligence/amp-11684407926757.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/money/lessons-from-finance-s-experience-with-artificial-intelligence/amp-11684407926757.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 76
+    images:
+      - url: "https://www.livemint.com/lm-img/img/2023/05/18/600x338/2-0-128027631-OPED-4C-0_1681892708995_1684408136028.jpg"
+        width: 600
+        height: 338
+        isCached: true
   - title: "How AI Is Changing the Retail Industry"
     excerpt: "The retail industry is always evolving according to customer demand and available technology. It's gone from brick-and-mortar to e-commerce to omnichannel, and artificial intelligence helps retailers improve their operations in a number of ways, including demand forecasting and recommendations, to use two more prominent examples."
     publishedDateTime: 2023-05-16T13:18:00Z
