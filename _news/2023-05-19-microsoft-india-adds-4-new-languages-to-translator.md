@@ -279,19 +279,16 @@ related:
       domain: analyticsindiamag.com
     quality: 48
   - title: "Twitter accuses Microsoft of misusing its data, foreshadowing a possible fight over AI"
-    excerpt: "A lawyer for Twitter owner Elon Musk accused Microsoft of misusing the service’s data and demanded an audit from the software giant"
-    publishedDateTime: 2023-05-18T20:45:00Z
-    webUrl: "https://www.washingtonpost.com/business/2023/05/18/twitter-microsoft-ai-training-data-dispute-musk-nadella/c4185ade-f5e6-11ed-918d-012572d64930_story.html"
+    excerpt: "A lawyer for Twitter owner Elon Musk accused Microsoft of misusing the service’s data and demanded an audit from the software giant."
+    publishedDateTime: 2023-05-19T01:45:00Z
+    webUrl: "https://www.seattletimes.com/business/twitter-accuses-microsoft-of-misusing-its-data-foreshadowing-a-possible-fight-over-ai/"
+    ampWebUrl: "https://www.seattletimes.com/business/twitter-accuses-microsoft-of-misusing-its-data-foreshadowing-a-possible-fight-over-ai/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/twitter-accuses-microsoft-of-misusing-its-data-foreshadowing-a-possible-fight-over-ai/?amp=1"
     type: article
     provider:
-      name: The Washington Post
-      domain: washingtonpost.com
+      name: Seattle Times
+      domain: seattletimes.com
     quality: 46
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XTYU7GXV4YI63EMNAESXFVSJGA.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
   - title: "Microsoft India Adds 4 New Languages To Translator"
     excerpt: "Microsoft India on Thursday announced the addition of three new Indian languages -- Konkani, Maithili, and Sindhi, in Transl"
     publishedDateTime: 2023-05-18T11:38:00Z
@@ -343,6 +340,6 @@ related:
       domain: tmcnet.com
     quality: 18
 
-secured: "ZKfQBrdlvlIBEZtKalcrm/v0K+EnY8hrJjBXtldBD6DigHUJ5ChzByamo5uyNXzsmHlJaFurnfhOHVZwZEPVatdo0PHUCS18fybE/dxQrP0VN3K2lSIaYcT01EUDazE6S4NBDe61ZgJtAWa2vwUj+8GylacYxHWnEjYrNKgiToaiY9V94cVQ1x+g1jA1/j6PmIEdrNammtyonHK8wgXET0TMMVwDOYWqhOHwVzQs0Dm85vXKh2WKXE2ExTGnO4R75uJob8h1M5UFfrVwK2H0PVBDgHzAze4BpR14PKYgezDKocHqqsG8XC1z+DwtVy+fHYU7Bsi9TPTzdcGXOndKRexowIbGLRUDYOACQ7aF78E=;3Vn5rEkXt9281/aWl0L45Q=="
+secured: "QPOBcG8BVjp24KFg4e/NgZP1qW+igwL1ZYDbGW5P+SiNHYzw5XNWqFsZuFOcqwiTJpqU6K3+8aTvdQJrtdRN38MqgQtMxVujBTDqJiz1N75D1YZ1Oc47TfejcytCmaUUNxC/Oy7EWPxUwSYepjBoECrb+rIZva2ymx/V+i5SqfcV2dMNq6EYLD7GJZT589cXQ0ipl+IYh8vUZEJDFo4ep4qXDQAzDf3OagVsv24iGilQ0riNXuIQOCW0zMjgXYy3hm8JgWMGNM4CjjtMM7nSUcvuS+zQ/iAWE2ceey0WUGYWQwlEasG+OdmOgAfNhmkWRR/DVJ++w6z33ES3ZEELuy88wsXJrvREGQMTUAf1zNFdPYTRbAoR2p6sxauLlRq027xlpg8DwGV5zMfG5zU8bededF1qkGxcYr9apjISragZVlezzmXiCPRhQcBXFdI8YfHLBADJfe774JXqp2O90HlCqJ1k5I1lrVyV5YcWhxhYkF71SzH5AHCCNZ6CQEAERjMI+LziArs/Rx4aHPQFRg==;1RHp09/4V7vcKhYXxhMMlw=="
 ---
 

@@ -99,6 +99,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "2023, Artificial Intelligence in Marketing Market Research Report Analysis by 2030"
+    excerpt: "The major players covered in the Artificial Intelligence in Marketing market report are: Get a sample copy of the Artificial Intelligence in Marketing Market report 2023 The global Artificial Intelligence in Marketing market size was valued at USD 36391."
+    publishedDateTime: 2023-05-16T06:05:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-artificial-intelligence-in-marketing-market-research-report-analysis-by-2030-2023-05-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 78
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Healthcare Natural Language Processing Market by [2023-2029] with Revenue Outsourcing"
     excerpt: "A Promising Outlook for the Global Healthcare Natural Language Processing Market from 2023 to 2030 Why is Healthcare Natural Language Processing market 2023 Important? - Overall, the Healthcare Natural Language Processing market in 2023 is essential for businesses to understand the market landscape,"
     publishedDateTime: 2023-05-14T13:58:00Z
@@ -136,6 +150,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 71
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Manufacturing Market Research [2023-2030] | Top Countries Data"
+    excerpt: "The \"Artificial Intelligence in Manufacturing Market\" A recently published research report by Precision Reports conducted"
+    publishedDateTime: 2023-05-16T18:27:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-manufacturing-market-research-2023-2030-top-countries-data-2023-05-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 58
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

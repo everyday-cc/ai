@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/ibm-hybrid-cloud-mesh-reimagining-multicl
 webUrl: "https://www.ibm.com/blog/ibm-hybrid-cloud-mesh-reimagining-multicloud-networking-with-applications-taking-center-stage/"
 type: article
 quality: 90
-heat: 111
+heat: 110
 published: true
 
 provider:

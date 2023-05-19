@@ -37,6 +37,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Face Recognition Systems Market 2023-2030 Size and Driving Growth"
+    excerpt: "The Face Recognition Systems Market Scope and Overview Report for 2023 presents a detailed analysis of the latest trends"
+    publishedDateTime: 2023-05-17T05:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-systems-market-2023-2030-size-and-driving-growth-2023-05-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Overview of Machine Learning Market Dynamics and Trends for 2023-2030"
     excerpt: "The research report on the Machine Learning Market presents an efficient industry perspective, future patterns,"
     publishedDateTime: 2023-05-17T07:01:00Z
@@ -177,6 +191,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "2023, BFSI Artificial Intelligence Market | Global Industry Analysis Till 2030"
+    excerpt: "BFSI Artificial Intelligence Market | Outlook 2023-2028 | Pre and Post-COVID Research is Covered, Report Information"
+    publishedDateTime: 2023-05-16T06:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-bfsi-artificial-intelligence-market-global-industry-analysis-till-2030-2023-05-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 43
   - title: "Artificial Intelligence in Medicine Market Size and Updated Report, Segments Analysis and Opportunities 2023-2031 | CAGR of 39.8%"
     excerpt: "Artificial intelligence is viewed as the science and designing of ... foster unexpected issues that should be tended to by readmissions or restart of the therapy cycle. Such remote checking for patients released from medical services offices can ..."
     publishedDateTime: 2023-05-16T15:18:00Z

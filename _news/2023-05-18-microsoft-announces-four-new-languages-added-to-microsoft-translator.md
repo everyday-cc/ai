@@ -279,19 +279,16 @@ related:
       domain: analyticsindiamag.com
     quality: 48
   - title: "Twitter accuses Microsoft of misusing its data, foreshadowing a possible fight over AI"
-    excerpt: "A lawyer for Twitter owner Elon Musk accused Microsoft of misusing the service’s data and demanded an audit from the software giant"
-    publishedDateTime: 2023-05-18T20:45:00Z
-    webUrl: "https://www.washingtonpost.com/business/2023/05/18/twitter-microsoft-ai-training-data-dispute-musk-nadella/c4185ade-f5e6-11ed-918d-012572d64930_story.html"
+    excerpt: "A lawyer for Twitter owner Elon Musk accused Microsoft of misusing the service’s data and demanded an audit from the software giant."
+    publishedDateTime: 2023-05-19T01:45:00Z
+    webUrl: "https://www.seattletimes.com/business/twitter-accuses-microsoft-of-misusing-its-data-foreshadowing-a-possible-fight-over-ai/"
+    ampWebUrl: "https://www.seattletimes.com/business/twitter-accuses-microsoft-of-misusing-its-data-foreshadowing-a-possible-fight-over-ai/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/twitter-accuses-microsoft-of-misusing-its-data-foreshadowing-a-possible-fight-over-ai/?amp=1"
     type: article
     provider:
-      name: The Washington Post
-      domain: washingtonpost.com
+      name: Seattle Times
+      domain: seattletimes.com
     quality: 46
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XTYU7GXV4YI63EMNAESXFVSJGA.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
   - title: "Microsoft India Adds 4 New Languages To Translator"
     excerpt: "Microsoft India on Thursday announced the addition of three new Indian languages -- Konkani, Maithili, and Sindhi, in Transl"
     publishedDateTime: 2023-05-18T11:38:00Z

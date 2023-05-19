@@ -154,6 +154,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Generative AI Adds New Dimensions to Election Interference"
+    excerpt: "Election administrators are still digging out from the mountains of misinformation from the 2020 election cycle. Bad actors are using AI to ramp up for the next one. Can AI help level the playing field for the good guys?"
+    publishedDateTime: 2023-05-19T05:40:00Z
+    webUrl: "https://www.governing.com/security/generative-ai-adds-new-dimensions-to-election-interference"
+    ampWebUrl: "https://www.governing.com/security/generative-ai-adds-new-dimensions-to-election-interference?_amp=true"
+    cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/security/generative-ai-adds-new-dimensions-to-election-interference?_amp=true"
+    type: article
+    provider:
+      name: Governing
+      domain: governing.com
+    quality: 59
+    images:
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/2cfba84/2147483647/strip/true/crop/1679x875+0+0/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fa6%2F8d%2F75d7c3b64a09b15bf3759f57b52d%2Fus-news-senate-ai-regulation-get.jpg"
+        width: 840
+        height: 438
+        isCached: true
   - title: "Generative AI Empowers Users but Challenges Security"
     excerpt: "With the introduction of generative AI, even more business users are going to create low-code/no-code applications. Prepare to protect them."
     publishedDateTime: 2023-05-15T19:39:00Z

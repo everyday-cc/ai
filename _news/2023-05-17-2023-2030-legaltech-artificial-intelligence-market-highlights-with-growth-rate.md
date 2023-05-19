@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/2023-2030-legaltech-arti
 webUrl: "https://www.marketwatch.com/press-release/2023-2030-legaltech-artificial-intelligence-market-highlights-with-growth-rate-2023-05-16"
 type: article
 quality: 63
-heat: -1
-published: false
+heat: 73
+published: true
 
 provider:
   name: MarketWatch
@@ -28,85 +28,20 @@ images:
     isCached: true
 
 related:
-  - title: "AI-based Surgical Robots Market 2023 Thriving at a Tremendous Growth till 2030"
-    excerpt: "The AI-based Surgical Robots Market Report by Type (Services, Instrument and Accessories) and by Application (General Surgery, Urology, Orthopedic, Gynecology, Others) forecast is offered along with info related to key drivers,"
-    publishedDateTime: 2023-05-16T13:14:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-based-surgical-robots-market-2023-thriving-at-a-tremendous-growth-till-2030-2023-05-16"
+  - title: "Voice Recognition Market: Future Demands and Projected Industry Growths to 2028"
+    excerpt: "The voice recognition market is expected to exhibit substantial growth by 2028, owing to notable technological advancements in the sector. Additionally, prevalent incorporation of the technology in diverse applications is likely to further drive market expansion through the forecast period."
+    publishedDateTime: 2023-05-15T14:54:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-future-demands-and-projected-industry-growths-to-2028-2023-05-15"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 80
+    quality: 50
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Face Recognition Systems Market 2023-2030 Size and Driving Growth"
-    excerpt: "The Face Recognition Systems Market Scope and Overview Report for 2023 presents a detailed analysis of the latest trends"
-    publishedDateTime: 2023-05-17T05:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-systems-market-2023-2030-size-and-driving-growth-2023-05-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence Voice Market Till 2030"
-    excerpt: "The Global Artificial Intelligence Voice market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players ..."
-    publishedDateTime: 2023-05-15T11:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-voice-market-till-2030-2023-05-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 67
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence Market 2023 to Experience Significant Growth by 2030"
-    excerpt: "Global “Artificial Intelligence Market” 2023 | New Report | New Technology Global Industry | (94 Pages Report) With"
-    publishedDateTime: 2023-05-15T13:48:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-2023-to-experience-significant-growth-by-2030-2023-05-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 64
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "2023 Artificial Intelligence-as-a-Service (AIaaS) Market Regional Outlook and Future Growth Scenario till 2030"
-    excerpt: "Market 2023 research is a key process that helps businesses gather and analyze information about their target Artificial Intelligence-as-a-Service (AIaaS) market, customers, competitors, and industry trends."
-    publishedDateTime: 2023-05-15T18:16:00Z
-    webUrl: "https://www.marketwatch.com/press-release/2023-artificial-intelligence-as-a-service-aiaas-market-regional-outlook-and-future-growth-scenario-till-2030-2023-05-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 62
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "2023, BFSI Artificial Intelligence Market | Global Industry Analysis Till 2030"
-    excerpt: "BFSI Artificial Intelligence Market | Outlook 2023-2028 | Pre and Post-COVID Research is Covered, Report Information"
-    publishedDateTime: 2023-05-16T06:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/2023-bfsi-artificial-intelligence-market-global-industry-analysis-till-2030-2023-05-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 43
 
 secured: "PNKAGX1L/0BC6mjkbIKjJbKYCcbWtFoM921wseACL5ejsbguKRDJN78MNMsC0aLGXXfSz32VKlBdCisgtxSgZF6q5O+miPIQj3WUO9/9MByv39STw7MmTigrAfklPe3HT8Eu0S60VzRe0mQNabvA7Cv2Sp2RcoihdkZiIFvS9ZlDMQ8XZBntEvU8MmdzpLyo6oJpaQL/XIgaWEbsXLyP697Kw0YOZP/ULdQL0C996WNwbcR00ECpyAS7iaLKm+jj7Yq86SvMdIW6tCe0wYbcoAPP5UVYwAU4XI3lV6/D1lFcNNtelxVMJS1kPA4BIT3s67K3GTEbnqFvyHRm8ipEjmmFbNrqiWeD7BF4QfRXyTA=;U8Ny8qNuDXcb9rlg1czXkQ=="
 ---

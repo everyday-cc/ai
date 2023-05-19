@@ -19,113 +19,159 @@ topics:
   - AI
 
 related:
-  - title: "Self-Driving or Driverless Cars Market upto 2030"
-    excerpt: "The Global Self-Driving or Driverless Cars market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players,"
-    publishedDateTime: 2023-05-15T01:53:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-or-driverless-cars-market-upto-2030-2023-05-14"
+  - title: "Ex-Apple Employee Stole Self-Driving Car Tech For Chinese Competitor, DOJ Alleges"
+    excerpt: "The former Apple engineer, 35-year-old Weibao Wang, allegedly overlapped his time at Apple with a stint working a U.S. based job with a Chinese company, and after his last day with Apple, the company discovered he had accessed large amounts of “sensitive proprietary and confidential information,” the Justice Department said."
+    publishedDateTime: 2023-05-16T20:38:00Z
+    webUrl: "https://www.forbes.com/sites/anafaguy/2023/05/16/ex-apple-employee-stole-self-driving-car-tech-for-chinese-competitor-doj-alleges/"
+    ampWebUrl: "https://www.forbes.com/sites/anafaguy/2023/05/16/ex-apple-employee-stole-self-driving-car-tech-for-chinese-competitor-doj-alleges/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anafaguy/2023/05/16/ex-apple-employee-stole-self-driving-car-tech-for-chinese-competitor-doj-alleges/amp/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
+      name: Forbes
+      domain: forbes.com
     quality: 69
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6463c7e6c7a4deb718c2ff1a/0x0.jpg?format=jpg&crop=2149,1618,x278,y0,safe&width=1200"
         width: 1200
-        height: 630
+        height: 903
         isCached: true
-  - title: "Facial Recognition Access Control Solutions Market Upto 2030"
-    excerpt: "Research Reports has published a new report titled as \"Facial Recognition Access Control Solutions Market\" by End"
-    publishedDateTime: 2023-05-17T02:33:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-access-control-solutions-market-upto-2030-2023-05-16"
+  - title: "Baidu exec charged with stealing Apple’s self-driving car tech"
+    excerpt: "A former Apple engineer and the executive at an electric vehicle startup owned by the Chinese tech giant Baidu has been charged with stealing Apple’s self-driving technology, as reported earlier by CNBC."
+    publishedDateTime: 2023-05-17T20:15:00Z
+    webUrl: "https://www.theverge.com/2023/5/17/23726769/apple-baidu-self-driving-trade-secrets-stolen"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
+      name: The Verge
+      domain: theverge.com
     quality: 69
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://cdn.vox-cdn.com/thumbor/x2E5qk82ChtE9vZvW1p2duIOnxA=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24401980/STK071_ACastro_apple_0003.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "A third former Apple employee has been charged with stealing self-driving car tech"
+    excerpt: "A federal court in the Northern District of California has unsealed charges against Weibao Wang, a former Apple software engineer. Wang started working at the company in 2016 as part of a team that developed hardware and software for autonomous systems — technology that could conceivably wind up in self-driving cars."
+    publishedDateTime: 2023-05-18T04:29:00Z
+    webUrl: "https://www.engadget.com/doj-charges-a-third-former-apple-employee-with-stealing-self-driving-car-tech-180824584.html"
+    ampWebUrl: "https://www.engadget.com/amp/doj-charges-a-third-former-apple-employee-with-stealing-self-driving-car-tech-180824584.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/doj-charges-a-third-former-apple-employee-with-stealing-self-driving-car-tech-180824584.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 68
+    images:
+      - url: "https://s.yimg.com/uu/api/res/1.2/MA9mbp9EV5VsAq9RVuHZog--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-05/1a90b300-f413-11ed-bbdd-b46ed16b28aa.cf.jpg"
         width: 1200
         height: 630
         isCached: true
-  - title: "Automotive Self-driving Chip Market Share, Size, Financial Summaries Analysis from 2023 to 2028"
-    excerpt: "Automotive Self-driving Chip report is a comprehensive analysis of the market, covering various components such"
-    publishedDateTime: 2023-05-17T03:59:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automotive-self-driving-chip-market-share-size-financial-summaries-analysis-from-2023-to-2028-2023-05-16"
+  - title: "Ex-Apple engineer accused of stealing self-driving cars technology for China. Details"
+    excerpt: "The DoJ indictment alleges a total of six separate counts that include theft of entire autonomy source code, tracking for an autonomous system, behavior planner for an autonomous system, among others."
+    publishedDateTime: 2023-05-17T08:59:00Z
+    webUrl: "https://www.livemint.com/auto-news/exapple-engineer-accused-of-stealing-self-driving-cars-technology-for-china-details-11684313681829.html"
+    ampWebUrl: "https://www.livemint.com/auto-news/exapple-engineer-accused-of-stealing-self-driving-cars-technology-for-china-details/amp-11684313681829.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/auto-news/exapple-engineer-accused-of-stealing-self-driving-cars-technology-for-china-details/amp-11684313681829.html"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 59
+      name: Mint
+      domain: livemint.com
+    quality: 52
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://www.livemint.com/lm-img/img/2023/05/17/600x338/AFP_1KE7TM_1568889762699_1684313857494.jpg"
+        width: 600
+        height: 338
+        isCached: true
+  - title: "Ex-Apple employee charged with stealing car tech for China; is now exec at Baidu’s self-driving car JV"
+    excerpt: "Apple has been rumoured to be working on a self-driving car for years. It is said to be one of the biggest projects that the iPhone maker is working o"
+    publishedDateTime: 2023-05-17T03:06:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/ex-apple-employee-charged-with-stealing-car-tech-for-china-is-now-exec-at-baidus-self-driving-car-jv/articleshow/100291514.cms"
+    ampWebUrl: "https://m.timesofindia.com/gadgets-news/ex-apple-employee-charged-with-stealing-car-tech-for-china-is-now-exec-at-baidus-self-driving-car-jv/amp_articleshow/100291514.cms"
+    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/gadgets-news/ex-apple-employee-charged-with-stealing-car-tech-for-china-is-now-exec-at-baidus-self-driving-car-jv/amp_articleshow/100291514.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 43
+    images:
+      - url: "https://static.toiimg.com/thumb/msid-100291502,width-1070,height-580,imgsize-8852,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        width: 1068
+        height: 580
+        isCached: true
+  - title: "Former Apple engineer charged for stealing self-driving tech for Chinese company"
+    excerpt: "Weibao Wang was a software engineer at Apple between 2016 and 2018 and served on the Annotation Team, granting him access to exclusive databases, which were restricted to a select few employees."
+    publishedDateTime: 2023-05-17T07:47:00Z
+    webUrl: "https://auto.hindustantimes.com/auto/cars/former-apple-engineer-charged-for-stealing-self-driving-tech-for-chinese-company-41684308954496.html"
+    ampWebUrl: "https://auto.hindustantimes.com/auto/cars/former-apple-engineer-charged-for-stealing-self-driving-tech-for-chinese-company/amp-41684308954496.html"
+    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/cars/former-apple-engineer-charged-for-stealing-self-driving-tech-for-chinese-company/amp-41684308954496.html"
+    type: article
+    provider:
+      name: Auto News India
+      domain: hindustantimes.com
+    quality: 39
+    images:
+      - url: "https://images.hindustantimes.com/auto/img/2023/05/17/1600x900/Apple_Logo_1684309462976_1684309465807.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "Loose lips sink ships: Project Titan(ic) engineer charged by DOJ for stealing Apple’s self-driving car tech"
+    excerpt: "The United States Department of Justice has announced formal charges against a former Apple engineer. As reported by CNBC,"
+    publishedDateTime: 2023-05-16T16:14:00Z
+    webUrl: "https://9to5mac.com/2023/05/16/apple-self-driving-car-engineer-theft-doj/"
+    type: article
+    provider:
+      name: 9to5Mac
+      domain: 9to5mac.com
+    quality: 6
+    images:
+      - url: "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/02/Apple-Car-specs-suggested.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         width: 1200
-        height: 630
+        height: 628
         isCached: true
-  - title: "Self-driving Cars Market in 2023: Insights and Strategies | 2031"
-    excerpt: "New “Self-driving Cars Market” Report 2023 by Manufacturers and Forecast to 2031: Get the latest insights into"
-    publishedDateTime: 2023-05-15T04:45:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-cars-market-in-2023-insights-and-strategies-2031-2023-05-15"
+  - title: "Former Apple employee charged in theft of self-driving car trade secrets"
+    excerpt: "Wang signed a letter accepting an offer of full-time employment as a staff engineer with the U.S.-based subsidiary of another company that was headquartered in the People's Republic of China and was working to develop self-driving cars,\" the Justice ..."
+    publishedDateTime: 2023-05-16T19:44:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2023/05/16/former-apple-employee-charged-stealing-trade-secrets-china/6861684260937/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Self Driving Bus Market Size 2023, Latest Trends, Growth Drivers, Industry Analysis by Top Companies and Forecast 2028"
-    excerpt: "Self Driving Bus Market Size, Share, and Covid-19 Impact Analysis, By Type (Advanced Metering Infrastructure and Auto"
-    publishedDateTime: 2023-05-17T05:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-bus-market-size-2023-latest-trends-growth-drivers-industry-analysis-by-top-companies-and-forecast-2028-2023-05-17"
+      name: UPI
+      domain: upi.com
+    quality: 3
+  - title: "Ex-Apple Engineer Charged With Stealing Self-Driving Tech For Chinese Company"
+    excerpt: "After authorities searched his home for allegedly stealing Apple's autonomous tech in 2018, Weibao Wang boarded a flight to China, where he remains"
+    publishedDateTime: 2023-05-17T02:34:00Z
+    webUrl: "https://www.carscoops.com/2023/05/ex-apple-engineer-charged-with-stealing-self-driving-tech-for-chinese-company/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 45
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "How Google's Self-Driving Car Will Change Everything"
-    excerpt: "The hype around driverless cars has grown rapidly over ... computer-processing capabilities and sophisticated artificial intelligence systems are becoming more advanced and more affordable every ..."
-    publishedDateTime: 2023-05-14T23:44:00Z
-    webUrl: "https://www.investopedia.com/articles/investing/052014/how-googles-selfdriving-car-will-change-everything.asp"
+      name: Carscoops
+      domain: carscoops.com
+    quality: 1
+  - title: "Former Apple engineer charged with stealing autonomous car tech trade secrets"
+    excerpt: "The U.S. Justice Department said on Tuesday it has charged a former Apple Inc. engineer with attempting to steal the firm's technology related to autonomous systems, including self-driving cars, and then fleeing to China."
+    publishedDateTime: 2023-05-16T17:09:00Z
+    webUrl: "https://www.cbc.ca/news/world/former-apple-engineer-china-1.6845041"
     type: article
     provider:
-      name: Investopedia
-      domain: investopedia.com
-    quality: 24
-    images:
-      - url: "https://www.investopedia.com/thmb/7VBCRiddsGRnBOFFrpQfDTZJTuc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/google-car_ap353779913372-5bfc376146e0fb0051c0d8d7.jpg"
-        width: 680
-        height: 440
-        isCached: true
-  - title: "What self-driving cars may mean for traffic"
-    excerpt: "AI might be arriving with a bang, but autonomous cars are crawling closer at a snail’s pace. What’s the delay? And what can we expect to change on our roads in the next decade?"
-    publishedDateTime: 2023-05-15T07:01:00Z
-    webUrl: "https://www.thestar.com.my/lifestyle/living/2023/05/15/what-self-driving-cars-may-mean-for-traffic"
+      name: CBC.ca
+      domain: www.cbc.ca
+    quality: 1
+  - title: "DOJ charges former Apple engineer with stealing self-driving car technology for China"
+    excerpt: "The Department of Justice today charged a former Apple Inc. engineer with stealing autonomous technology and giving it to a Chinese self-driving car company. The indictment, filed at federal court in the Northern District of California, alleges that Weibao ..."
+    publishedDateTime: 2023-05-17T01:02:00Z
+    webUrl: "https://siliconangle.com/2023/05/16/doj-charges-former-apple-engineer-stealing-self-driving-car-technology-china/"
     type: article
     provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 24
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2023/05/15/2072912.jpg"
-        width: 800
-        height: 507
-        isCached: true
-  - title: "9 in 10 drivers not keen on buying a self-driving car, survey claims"
-    excerpt: "Motoring experts asked 1000 car insurance customers whether they would be keen to buy a self-driving car and 87% said they wouldn’t."
-    publishedDateTime: 2023-05-18T13:21:00Z
-    webUrl: "https://www.techdigest.tv/2023/05/9-in-10-drivers-not-keen-on-buying-a-self-driving-car-survey-claims.html"
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 0
+  - title: "U.S. charges ex-Apple engineer with stealing self-driving car secrets for China"
+    excerpt: "The U.S. Justice Department has charged a former Apple engineer with stealing the firm's technology on autonomous systems, including self-driving cars."
+    publishedDateTime: 2023-05-16T18:00:00Z
+    webUrl: "https://www.autoblog.com/2023/05/16/u-s-charges-ex-apple-engineer-with-stealing-self-driving-car-secrets-for-china/"
     type: article
     provider:
-      name: Tech Digest
-      domain: techdigest.tv
-    quality: 19
+      name: Autoblog
+      domain: autoblog.com
+    quality: 0
 
 secured: "wZW+94KRV2g/KsDPubmA9Wr/OvVNzVphpvyMNvP2RMEvyobqNmAYJHU8+sFtNAPRollVoTgmOnY32vUX7dKtR2CQBpJRZem85yLusPXVK1VuONDpT9Gwj3WXsyq7tsLX3vVmEVHbT5H6BMkGidRO3Pr5jgP1tlTJ7pyShLKQ40RYDYtu2moK+jh7lKfrXoTRKKxF8HNgfMq1etJ+rxw2WzoeL5H0DTQ9zcO+d/WdKxzUxdcSK8TfTG2FjDhMxBC4ZMS7F7igGe8l0Rg9EoG5fG20dBets6lTVdHfe62MGQLHyNjzMSyXvZwLoBVK9dltIpCE5DPZ3KK0MV5twW1oqzweCXrVgCUJ9IA1RpR53wZuDm+QvuHHZHgs9ZRsJdl2hiLxYv7It/sVAt2LVt5Eq4YT+hlkd7dYsuFQhqRQv4StfGkFK0dRmMoMAtJ35RX5dKNNF8zv+zbgn3imsyDesZQz7e+dBG6QOaeDxMpK9SDx5+uUtdKWhqZlFsA/4NXSrjMFqwLib6ckEEDPipFdtg==;RYcUhE0LYk0glzreJT4GTg=="
 ---

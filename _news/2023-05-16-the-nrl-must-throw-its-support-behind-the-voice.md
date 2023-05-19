@@ -115,6 +115,20 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 24
+  - title: "Support for a Voice to Parliament"
+    excerpt: "The Sydney Swans support constitutional recognition for First Nations peoples, and as such, we are supportive of a Voice to Parliament. The Sydney Swans has been enriched by the contribution of Aboriginal and Torres Strait Islander peoples on and off the field,"
+    publishedDateTime: 2023-05-19T03:54:00Z
+    webUrl: "https://www.sydneyswans.com.au/news/1333978/support-for-a-voice-to-parliament"
+    type: article
+    provider:
+      name: Sydney Swans
+      domain: sydneyswans.com.au
+    quality: 24
+    images:
+      - url: "https://resources.sydneyswans.com.au/photo-resources/2023/05/19/6cd13ecd-458d-43f6-bb0e-96bf4defef38/11SyRi22DB1128.JPG?width=1200&height=630"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Rugby Australia adds its voice to other sports codes supporting yes vote"
     excerpt: "Rugby Australia is the latest major sporting code to back the Indigenous voice to parliament, joining a growing list of elite sports pushing for a yes vote in this year’s referendum."
     publishedDateTime: 2023-05-17T14:04:00Z

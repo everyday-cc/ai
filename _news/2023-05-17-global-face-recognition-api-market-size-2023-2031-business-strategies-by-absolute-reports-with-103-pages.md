@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-face-recognition-
 webUrl: "https://www.marketwatch.com/press-release/global-face-recognition-api-market-size-2023-2031-business-strategies-by-absolute-reports-with-103-pages-2023-05-17"
 type: article
 quality: 30
-heat: -1
+heat: 30
 published: false
 
 provider:
@@ -21,36 +21,6 @@ provider:
 topics:
   - Computer Vision
   - AI
-
-related:
-  - title: "Self Driving Wheelchair Market Size Investigation Report 2023-2030 by Absolute Reports in Healthcare , Medical Devices Industry | with [104 Pages]"
-    excerpt: "May 15, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry. The Global \"Self Driving Wheelchair"
-    publishedDateTime: 2023-05-15T14:50:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-wheelchair-market-size-investigation-report-2023-2030-by-absolute-reports-in-healthcare-medical-devices-industry-with-104-pages-2023-05-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 63
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Latest 2023 \"Automatic Speech Recognition(ASR) Software Market\" Survey & Forecast by 2030 | With 114+ Pages"
-    excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this “Automatic Speech Recognition(ASR) Software Industry”. Embracing Growth: A Promising Outlook for the Global Automatic Speech Recognition(ASR) Software Market from 2023 to 2030."
-    publishedDateTime: 2023-05-15T06:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/latest-2023-automatic-speech-recognitionasr-software-market-survey-forecast-by-2030-with-114-pages-2023-05-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 51
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "pzcor8yLc/edU2x4qh84j5+V39JFuO0cEZKS0a0xrpYrijovk8Zq7aD/0iqUo2hQCFBsjWkvLhznQlNYX1C9VWFvUY5MBZXM3nCZLZtOw0fXtjK9o8Ve0jouXQ/XiKERqBEb6pPj9HWEeJfD3cAyy8QYXpXEoO8XDBZpwViGvdvAogmwT+L5/5rhLICDbyW1Hgta/6v6t00LVn/iSWCKk7IF+7b/JwvOqTNHQuHiUVq/UWO5FKo2HABcH/IYk82tcnzCWsbQjW4ABLbDhhjLfJVcAjC+KhxcGwtTZkFtoP1WON0ZP8DBs3NKC5Mb9niQ+D5ViijJpLj/SJK3/lPzBmO6Ja94JTvwISSfDJ+KLE8=;SAMix5NPjWhozujA83jAKw=="
 ---

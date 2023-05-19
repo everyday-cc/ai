@@ -9,8 +9,8 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/ai-job-applications-mass-apply-auto
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/ai-job-applications-mass-apply-autofill-job-search/"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: CBS News
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "My students are using AI to cheat. Here’s why it’s a teachable moment"
+    excerpt: "Ignoring ChatGPT and its cousins won’t get us anywhere. In fact, these systems reveal issues we too often miss"
+    publishedDateTime: 2023-05-19T04:00:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/may/18/ai-cheating-teaching-chatgpt-students-college-university"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/may/18/ai-cheating-teaching-chatgpt-students-college-university"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/may/18/ai-cheating-teaching-chatgpt-students-college-university"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 57
+    images:
+      - url: "https://i.guim.co.uk/img/media/7213153abe675e04a3ccea87596be6b7f8b48cbb/0_384_5760_3456/master/5760.jpg?width=620&quality=85&auto=format&fit=max&s=1328377907062c481169b26dd1b61530"
+        width: 620
+        height: 372
+        isCached: true
   - title: "A Survey of 31,000 Employees Shows 49 Percent Fear AI Will Steal Their Jobs. They're Right to Worry"
     excerpt: "Almost half of employees--49 percent-- fear they will lose their jobs to AI, according to a new survey commissioned by Microsoft. At the same time, 70 percent hope that AI will help them manage their ever-growing workloads instead. It's clear from these numbers that many people see AI as both a benefit and a threat."
     publishedDateTime: 2023-05-18T09:34:00Z

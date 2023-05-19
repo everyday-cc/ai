@@ -169,6 +169,22 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "ChatGPT and Generative AI Around the World: Maturity, Opportunities, and Hurdles in Key Regions"
+    excerpt: "ChatGPT has received a lot of press since its November 2022 launch. But while interest in the tool is high, its use is not yet universal."
+    publishedDateTime: 2023-05-19T04:00:00Z
+    webUrl: "https://www.businessinsider.com/chatgpt-ai-around-the-world-maturity-opportunities-key-regions-2023-may"
+    ampWebUrl: "https://www.businessinsider.com/chatgpt-ai-around-the-world-maturity-opportunities-key-regions-2023-may?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-ai-around-the-world-maturity-opportunities-key-regions-2023-may?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 75
+    images:
+      - url: "https://i.insider.com/6465284f7224930019f34a4f?width=1200&format=jpeg"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "ChatGPT’s Sam Altman Calls on Congress to Adopt Safety Standards for AI Systems"
     excerpt: "Congress is looking to impose artificial-intelligence regulations, if it can reach a consensus."
     publishedDateTime: 2023-05-16T14:05:00Z
@@ -434,6 +450,20 @@ related:
       - url: "https://i0.wp.com/amsterdamnews.com/wp-content/uploads/2023/05/pexels-photo-15863103.jpeg?fit=1880%2C1253&ssl=1"
         width: 1880
         height: 1253
+        isCached: true
+  - title: "OpenAI's ChatGPT iOS app debuts with voice search, no ads"
+    excerpt: "OpenAI's ChatGPT has been a runaway success. The chatbot's popularity paved the way for the ongoing AI revolution. The company has now launched an iOS app for the chatbot for users who like to use it \"on the go.\" Android users should not worry because a ChatGPT Android app will be available soon. Now, let's see the features of the ChatGPT iOS app."
+    publishedDateTime: 2023-05-19T05:25:00Z
+    webUrl: "https://www.newsbytesapp.com/news/science/openai-launches-chatgpt-app-for-ios/story"
+    type: article
+    provider:
+      name: newsbytesapp.com
+      domain: newsbytesapp.com
+    quality: 39
+    images:
+      - url: "https://i.cdn.newsbytesapp.com/images/l5520230519104316.jpeg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Kagan: What’s the next move for Meta with metaverse down, AI ChatGPT up?"
     excerpt: "As interest and intrigue in ChatGPT overtakes that of the metaverse, one analyst asks: Should Meta change its vision?"
@@ -740,6 +770,6 @@ related:
       domain: yourstory.com
     quality: 1
 
-secured: "jZaHQ9+5Nnpo48eO7SDx/ipa1A8MmTDdN9RIpQ2LsdZtrQPPiTntIHrgKvAEEb2TwuACKGY841IDTx8/OWKLohqh+HiGgkl++pHBHM6IRUYP9c6n1mluhQvEm7dwOB15mjvErz7YkcOA4pBwh8lHDALpWgjOFgDTbquI6BGWAEpSUHfCnfi4giuNiVDfO5bxY9uBx20dbxHDHY/Oxb4IxZDjOR3pZcGuBNZEoixd9Frk9i9cNNvA4RTGJ9B+z6ZtK8ek9zTQVpwVitra5ZNyNOfA//6cT1qU/YzCJsWVLy9ip9EZBivD9M/CJ3hKcWBnceBcM16jaaJhgom4txQMKcx2E1v9vuk/ej51X8NnY/Q=;Z/v5NsLxBrfoy8z5eUS/KQ=="
+secured: "k+JNAs3f6kI0f0eQsrk71zoE2NrdHPlk+SJflHFqeky3JjxvLYta9eUfQ6J8EGuoPGCgZsllUzXkdBrqB5NQ8toaZZA14A55cH5yOxjvSpMJh9RohUachCJyHMil0nTMmDzY/H6htCzsV6AvSUMPJnUJFC5h9ho/DxgY2W+9JqxQeT6ZZMtyoN3Kg/EKq4//aG53n8T1EW0zVgkkKJPUEQ3y8vwvK7cNMg/2LK4Wo6QZPomw5TpspEi1qUCZmZAn4Oa98INblJoaF1VG1RSlJ/YkH87s2mc5geqTF3fMx3qcTNG7+4/so+KQwkTZi2w62xBqkjDdtp0mqSxZleVjde/SvND9ELoHjKXP09ecqTVNlqxLvYQK6Rv6BDWxjLd4Ne8LhEoPHmMpSJVStSD4O8XqYXiGad9nI3lELPerMdILZYSZuHvDViOCk6gJpOd9bbGoY688p8Xu+S0mBXGgFnjG+ql4Zi2mqrbiJVuPNCnS5b5bTvcTbfB7sf27syyi4RGH0V2eT1eGcozMWEAT4w==;F3sCmgCzMcK623j5MqrZpw=="
 ---
 

@@ -29,34 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Self-Driving or Driverless Cars Market upto 2030"
-    excerpt: "The Global Self-Driving or Driverless Cars market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players,"
-    publishedDateTime: 2023-05-15T01:53:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-or-driverless-cars-market-upto-2030-2023-05-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Facial Recognition Access Control Solutions Market Upto 2030"
-    excerpt: "Research Reports has published a new report titled as \"Facial Recognition Access Control Solutions Market\" by End"
-    publishedDateTime: 2023-05-17T02:33:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-access-control-solutions-market-upto-2030-2023-05-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Automotive Self-driving Chip Market Share, Size, Financial Summaries Analysis from 2023 to 2028"
     excerpt: "Automotive Self-driving Chip report is a comprehensive analysis of the market, covering various components such"
     publishedDateTime: 2023-05-17T03:59:00Z
@@ -71,66 +43,34 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Self-driving Cars Market in 2023: Insights and Strategies | 2031"
-    excerpt: "New “Self-driving Cars Market” Report 2023 by Manufacturers and Forecast to 2031: Get the latest insights into"
-    publishedDateTime: 2023-05-15T04:45:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-cars-market-in-2023-insights-and-strategies-2031-2023-05-15"
+  - title: "Facial Recognition Market Share, Size, Segmentation Analysis, Key segments and Forecast 2031"
+    excerpt: "Global Facial Recognition Market – Drivers’ Restraints’ Opportunities’ Trends’ and Forecast up to 2025. Facial Recognition Market is approximately USD 5 billion market that is expected to double by 2025."
+    publishedDateTime: 2023-05-15T15:10:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-share-size-segmentation-analysis-key-segments-and-forecast-2031-2023-05-15"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 54
+    quality: 58
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "How Google's Self-Driving Car Will Change Everything"
-    excerpt: "The hype around driverless cars has grown rapidly over ... computer-processing capabilities and sophisticated artificial intelligence systems are becoming more advanced and more affordable every ..."
-    publishedDateTime: 2023-05-14T23:44:00Z
-    webUrl: "https://www.investopedia.com/articles/investing/052014/how-googles-selfdriving-car-will-change-everything.asp"
+  - title: "Self-driving cars are taking ages to become a reality, but they won’t take forever"
+    excerpt: "That’s a lot of autonomous driving. Baidu’s update follows other progress reports from self-driving car outfits: Cruise a couple of months ago said it had completed “one million fully driverless miles” in the 15 months since it started offering ..."
+    publishedDateTime: 2023-05-16T18:56:00Z
+    webUrl: "https://techcrunch.com/2023/05/16/self-driving-tech-predictions/"
     type: article
     provider:
-      name: Investopedia
-      domain: investopedia.com
-    quality: 24
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 48
     images:
-      - url: "https://www.investopedia.com/thmb/7VBCRiddsGRnBOFFrpQfDTZJTuc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/google-car_ap353779913372-5bfc376146e0fb0051c0d8d7.jpg"
-        width: 680
-        height: 440
+      - url: "https://techcrunch.com/wp-content/uploads/2023/05/IMG_5632.jpeg?resize=1200,900"
+        width: 1200
+        height: 900
         isCached: true
-  - title: "What self-driving cars may mean for traffic"
-    excerpt: "AI might be arriving with a bang, but autonomous cars are crawling closer at a snail’s pace. What’s the delay? And what can we expect to change on our roads in the next decade?"
-    publishedDateTime: 2023-05-15T07:01:00Z
-    webUrl: "https://www.thestar.com.my/lifestyle/living/2023/05/15/what-self-driving-cars-may-mean-for-traffic"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 24
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2023/05/15/2072912.jpg"
-        width: 800
-        height: 507
-        isCached: true
-  - title: "9 in 10 drivers not keen on buying a self-driving car, survey claims"
-    excerpt: "Motoring experts asked 1000 car insurance customers whether they would be keen to buy a self-driving car and 87% said they wouldn’t."
-    publishedDateTime: 2023-05-18T13:21:00Z
-    webUrl: "https://www.techdigest.tv/2023/05/9-in-10-drivers-not-keen-on-buying-a-self-driving-car-survey-claims.html"
-    type: article
-    provider:
-      name: Tech Digest
-      domain: techdigest.tv
-    quality: 19
-  - title: "Fugitive ex-Apple engineer charged for trying to steal self-driving car tech"
-    excerpt: "The Justice Department said Tuesday it has charged a former Apple engineer with attempting to steal the firm’s technology related to autonomous systems, including self-driving cars, and then fleeing to China. The case was among five announced on Tuesday ..."
-    publishedDateTime: 2023-05-16T18:36:00Z
-    webUrl: "https://nypost.com/2023/05/16/fugitive-ex-apple-engineer-charged-for-trying-to-steal-self-driving-car-tech/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 1
 
 secured: "1XjUImJQYaja+7zOfrxlc7RW+ReSL8oKzlc+MBSRVEnR5u8nZeaiIwGCqw7twJg5aDIOSoX/T/iuyBkp28BcMUdwjqYTSmEAiNS09oQVsCYwrPFLkF4GsHGEwc8edbVMFa+la1nEqNU1YNkdGzqdEDGacrcl6PfqJjM4ytEw17f6U0d1s30X/wp3o2mTUx2q1BhGB0Q+wd5DW956GoVXgHq6NuPIpfoLKo9LarNUdSyE3gVtIaV+HiQkRExOOM63lyBqrtrbxsHNn1xaeo26E3Ef5bzyBt/3LtNdXk8Wxb8nYXScGuiDutUxw8VRlmL1ipwQZ7oTRqQ5MKKEhXWfnFUcazymxzX0gV2TipGzlLY=;rBGjBUlNZDGqqW/s4uzaLA=="
 ---

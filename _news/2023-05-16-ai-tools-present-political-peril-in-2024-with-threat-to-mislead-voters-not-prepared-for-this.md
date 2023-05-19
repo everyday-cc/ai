@@ -48,17 +48,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "AI presents political peril for 2024 with threat to mislead voters: ‘We’re not prepared for this’"
-    excerpt: "Thanks to recent advances in artificial intelligence, tools that can create lifelike photos, video and audio are now cheap and readily available."
-    publishedDateTime: 2023-05-14T11:45:00Z
-    webUrl: "https://www.seattletimes.com/business/ai-presents-political-peril-for-2024-with-threat-to-mislead-voters-were-not-prepared-for-this/"
-    ampWebUrl: "https://www.seattletimes.com/business/ai-presents-political-peril-for-2024-with-threat-to-mislead-voters-were-not-prepared-for-this/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/ai-presents-political-peril-for-2024-with-threat-to-mislead-voters-were-not-prepared-for-this/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 24
   - title: "AI presents political peril for 2024 with threat to mislead voters"
     excerpt: "Computer engineers and tech-inclined political scientists have warned for years that cheap, powerful artificial intelligence tools would soon allow anyone to create fake images, video and audio that was realistic enough to fool voters and perhaps sway an election."
     publishedDateTime: 2023-05-15T13:54:00Z

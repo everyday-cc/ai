@@ -1,28 +1,24 @@
 ---
 category: news
 title: "Twitter accuses Microsoft of misusing its data, foreshadowing a possible fight over AI"
-excerpt: "A lawyer for Twitter owner Elon Musk accused Microsoft of misusing the service’s data and demanded an audit from the software giant"
-publishedDateTime: 2023-05-18T20:45:00Z
-originalUrl: "https://www.washingtonpost.com/business/2023/05/18/twitter-microsoft-ai-training-data-dispute-musk-nadella/c4185ade-f5e6-11ed-918d-012572d64930_story.html"
-webUrl: "https://www.washingtonpost.com/business/2023/05/18/twitter-microsoft-ai-training-data-dispute-musk-nadella/c4185ade-f5e6-11ed-918d-012572d64930_story.html"
+excerpt: "A lawyer for Twitter owner Elon Musk accused Microsoft of misusing the service’s data and demanded an audit from the software giant."
+publishedDateTime: 2023-05-19T01:45:00Z
+originalUrl: "https://www.seattletimes.com/business/twitter-accuses-microsoft-of-misusing-its-data-foreshadowing-a-possible-fight-over-ai/"
+webUrl: "https://www.seattletimes.com/business/twitter-accuses-microsoft-of-misusing-its-data-foreshadowing-a-possible-fight-over-ai/"
+ampWebUrl: "https://www.seattletimes.com/business/twitter-accuses-microsoft-of-misusing-its-data-foreshadowing-a-possible-fight-over-ai/?amp=1"
+cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/twitter-accuses-microsoft-of-misusing-its-data-foreshadowing-a-possible-fight-over-ai/?amp=1"
 type: article
 quality: 46
 heat: -1
 published: false
 
 provider:
-  name: The Washington Post
-  domain: washingtonpost.com
+  name: Seattle Times
+  domain: seattletimes.com
 
 topics:
   - AI
   - Microsoft AI
-
-images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XTYU7GXV4YI63EMNAESXFVSJGA.jpg&w=1440"
-    width: 1440
-    height: 960
-    isCached: true
 
 related:
   - title: "These 4 popular Microsoft apps are getting a big AI boost"
@@ -343,6 +339,6 @@ related:
       domain: tmcnet.com
     quality: 18
 
-secured: "HshaMlT0XxT1HUvkFhYBkPBTqHGs3JKaB/79ZVXRUoFqI82KzxQEn8YseOIf+25S2NHTHKuNVtcI1SQ9ZQCRo2jfVk827Bb4Z53Z3+Ze2+puRv8xov+XoV2mqwN2jwejv24s0ZTUJI0GNoTsWIhQL2EmsUmAZ1dXbMk4mAXTWZRGrcSI/YhJ/DfLjGDVXQCcQYmL4dsNni0PpAjai2DgLSipySvhUYmld+bEAM6dPlMyNOHq5FgtVVfk1iqQH6doqUDvSYgpGgANqH2u1BuA62j/e3GdraSytXcGOPO4krDq60jXv81w3paKeravKa9+RnzcL0G9dd7g7bvMqf1CjwE+Xt3y0BQQwrjkcGVWryI=;80RclPHqOItJT/l5/F0ZAQ=="
+secured: "i5D1hQZTa666Tg3daZ1M8X1rYrEqlsUwBVhgp5Bvoe8JJj3WWi9JbScDeCScNItvtlEYSxy8c//SH4U9WvkbI8tpQQ5DuZoFdY8m0FqBATmGoLA1hqlLaVMiAvbrobw9T6wApoTQmYMjMOvwmM5lmQvBNxRD1XhAGIxkXmtTPIWbQZ1FhHutKadZfGaIHStatRfznmbgxzymdFQZG0xiRT0ThtGmR+OI7H//m2CReuNdWeDZE/Eci2ItbOgttCMuwo0JQV0aVUWPAKI869MPvViIfmgA+C+AmvK3mxHor6v47UkIx0hiRU9HuIHoLG+TMAJOBZDlWjX+8TBGOm/yXt2tS1tvNq0U4AMsbNjztRgL9vJQD8fwObUOoHIl1PO1uFBAl0KRRg0byNjMGy6e72uTiexkn4782wIrQ9j+VAQvaCqE2n+nkt37BhdmR60Oh/UgLWBPkPmZycuxF2f77N90VMDrsQLkGxewyTIuXc6JPvVMh+cM08n/wbmdYVIzzdTZlH3t0hbzg4jMThSPDQ==;tUl5Oic2uvx85MSDGZ8VBg=="
 ---
 

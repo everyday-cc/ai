@@ -29,29 +29,20 @@ images:
     isCached: true
 
 related:
-  - title: "Facial Recognition Market Share, Size, Segmentation Analysis, Key segments and Forecast 2031"
-    excerpt: "Global Facial Recognition Market – Drivers’ Restraints’ Opportunities’ Trends’ and Forecast up to 2025. Facial Recognition Market is approximately USD 5 billion market that is expected to double by 2025."
-    publishedDateTime: 2023-05-15T15:10:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-share-size-segmentation-analysis-key-segments-and-forecast-2031-2023-05-15"
+  - title: "2023-2030 LegalTech Artificial Intelligence Market: Highlights with Growth Rate"
+    excerpt: "The LegalTech Artificial Intelligence Market is Expected to Lead During the Forecast Period 2023-2030 in ICT Sector. Market Growth Report Has Segmented the Global LegalTech Artificial Intelligence market report based on Type ( Document Management System,"
+    publishedDateTime: 2023-05-17T03:49:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-2030-legaltech-artificial-intelligence-market-highlights-with-growth-rate-2023-05-16"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 58
+    quality: 63
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Home Office pushes for more police facial-recognition deployments"
-    excerpt: "UK policing minister Chris Philp is pressing for facial-recognition technology to be rolled out by police forces across England and Wales, and will likely push to integrate the tech with police body-worn video cameras. According to a report co-authored by ..."
-    publishedDateTime: 2023-05-17T13:21:00Z
-    webUrl: "https://www.computerweekly.com/news/366537695/Home-Office-pushes-for-more-police-facial-recognition-deployments"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 4
 
 secured: "/tt0ukAZfPlIsWtymbHIwPnfUOxz/Rd4qO5hYbJUtqj33TqB8Z3Km6rmIPfHNZGYzZ8syzoVS7G5sgAYV+ct9DYlHmy5hwKdenyqqC388j8taB9WkBeyKroRv34bzLAf+PiCW/EecW2zJYsxBYZL7VOlLEjmj2bOp2LnCtA0WPKzkSBALKqFV5c2LkCF36kgBQzrZOYiCogfuSeSp/9lu3VEiqbc5ugrlvkkm0eX+R6PDvLkYGNYDmkVlUdU1nJ8oO0eyIuNdSSfb9ORErzck2LcaARnGGOeWE4q7ng+NkL+J6TfP4BsRVwZvTgGq5+onl8PQhe2GHKGwAdlxF53P91uEsTF1fvUyGpFpC93hxQ=;n3+Kx/oBEhqAqWYnWzzphA=="
 ---

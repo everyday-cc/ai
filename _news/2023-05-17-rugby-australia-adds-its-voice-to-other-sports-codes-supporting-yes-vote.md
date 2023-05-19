@@ -117,6 +117,20 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 24
+  - title: "Support for a Voice to Parliament"
+    excerpt: "The Sydney Swans support constitutional recognition for First Nations peoples, and as such, we are supportive of a Voice to Parliament. The Sydney Swans has been enriched by the contribution of Aboriginal and Torres Strait Islander peoples on and off the field,"
+    publishedDateTime: 2023-05-19T03:54:00Z
+    webUrl: "https://www.sydneyswans.com.au/news/1333978/support-for-a-voice-to-parliament"
+    type: article
+    provider:
+      name: Sydney Swans
+      domain: sydneyswans.com.au
+    quality: 24
+    images:
+      - url: "https://resources.sydneyswans.com.au/photo-resources/2023/05/19/6cd13ecd-458d-43f6-bb0e-96bf4defef38/11SyRi22DB1128.JPG?width=1200&height=630"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "The NRL must throw its support behind the Voice"
     excerpt: "In this case, supporting the Indigenous Voice to Parliament is fundamental to respecting its Indigenous council and playing cohort. “Recognition and listening. That’s how we can make a practical difference and move Australia forward for everyone ..."
     publishedDateTime: 2023-05-15T18:49:00Z

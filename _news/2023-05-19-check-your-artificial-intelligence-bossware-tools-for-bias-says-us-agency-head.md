@@ -24,20 +24,17 @@ images:
     isCached: true
 
 related:
-  - title: "Check your artificial intelligence 'bossware' tools for bias, says U.S. agency head"
-    excerpt: "The head of the U.S. agency charged with enforcing civil rights in the workplace says artificial intelligence-driven “bossware” tools that closely track the whereabouts, keystrokes and productivity of"
+  - title: "Check your artificial intelligence ‘bossware’ tools for bias, says U.S. agency head"
+    excerpt: "The head of the U.S. agency charged with enforcing civil rights in the workplace says artificial intelligence-driven “bossware” tools that closely track the whereabouts, keystrokes and productivity of workers can also run afoul of discrimination laws."
     publishedDateTime: 2023-05-18T15:54:00Z
-    webUrl: "https://www.washingtonpost.com/business/2023/05/18/bossware-eeoc-artificial-intelligence-job-discrimination/47ae9762-f594-11ed-918d-012572d64930_story.html"
+    webUrl: "https://www.seattletimes.com/business/check-your-artificial-intelligence-bossware-tools-for-bias-says-u-s-agency-head/"
+    ampWebUrl: "https://www.seattletimes.com/business/check-your-artificial-intelligence-bossware-tools-for-bias-says-u-s-agency-head/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/check-your-artificial-intelligence-bossware-tools-for-bias-says-u-s-agency-head/?amp=1"
     type: article
     provider:
-      name: The Washington Post
-      domain: washingtonpost.com
-    quality: 31
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IJGLDDHVSQI63EMNAESXFVSJGA.jpg&w=1440"
-        width: 1440
-        height: 1237
-        isCached: true
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 33
 
 secured: "DdQSZ13zjnH04GotksN46pS2FsaKMexmOIjZDTtTuXcO//6JTFpH0q8CTubj1eBKcU9ZMUHv+hzdGYvBalbKYaulBrDHBspOpdBiKxtVVlP2Xs47uN9OGCJ9tBs4dkRJLW5Lw+L5yVu2CJRD18jxHZUO0HH9+ZxS2bDGMazVi7zzeLfP7+xI4bZtXeMmyqCahnaEushXUURQReXB5ZNNXt5wuL9PfXbFJqNGqMxp39kV8jssl6RlkfuJG5vtPx7WarS9ESls8UzSKtkMcXOEYW9bjGUuB8Yf29WodgxjZCq0oen20QbjKjiJJh1l2iPPlxKcNAZqi9Nx/e7y7pBmh5KbkrtAHsA9QeE/2psOIh+9knG1c9sag+aJSChJjLuGjnaNPRmXK/PUX2KspuLlFiANN5OKkGgcTcvkWWZxU+5MjDgzoDYZRGouV0lAKA+Lv/VrvF4nXvoiAUyP19YihSHa2NnLbnLTGDVQZaS9L+vDXT+trAuth5l+RNDAveTEqvHhhRDDLUUzMruZhVSdgQ==;earVvHmGa1fRg5z2CbWpgg=="
 ---

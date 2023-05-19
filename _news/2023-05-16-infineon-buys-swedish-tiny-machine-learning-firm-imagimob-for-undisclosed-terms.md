@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Infineon acquires TinyML startup Imagimob to strengthen embedded AI offering"
+    excerpt: "Infineon Technologies announced on May 16 the acquisition of Sweden-based startup Imagimob AB, a platform provider for machine learning solutions for edge devices. With this acquisition Infineon advances its position to offer a world-class ML solution and significantly complements its AI offerings."
+    publishedDateTime: 2023-05-19T03:23:00Z
+    webUrl: "https://www.digitimes.com/news/a20230519VL200/ai-infineon.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 51
+    images:
+      - url: "https://img.digitimes.com/newsshow/20230519vl200_files/1_2b.jpg"
+        width: 1280
+        height: 853
+        isCached: true
   - title: "Infineon acquires Tiny Machine Learning"
     excerpt: "Infineon Technologies has acquired the Stockholm-based startup Imagimob, a platform provider for Machine Learning solutions for edge devices."
     publishedDateTime: 2023-05-17T07:55:00Z

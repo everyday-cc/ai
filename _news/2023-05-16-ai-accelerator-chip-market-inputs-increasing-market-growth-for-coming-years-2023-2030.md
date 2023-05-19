@@ -29,328 +29,91 @@ images:
     isCached: true
 
 related:
-  - title: "Edge Artificial Intelligence (AI) Chip Market Research | 2023-2030"
-    excerpt: "May 14, 2023 (The Expresswire) -- \"Edge Artificial Intelligence (AI) Chip Market\" is poised to witness an unexpected compound annual growth rate"
-    publishedDateTime: 2023-05-14T12:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/edge-artificial-intelligence-ai-chip-market-research-2023-2030-2023-05-14"
+  - title: "Nvidia CEO highlights accelerated computing and AI’s role in chip manufacturing at ITF World 2023"
+    excerpt: "Huang stressed the need for a new approach to meet the rising demand for computing power while addressing concerns regarding net-zero goals."
+    publishedDateTime: 2023-05-16T17:06:00Z
+    webUrl: "https://venturebeat.com/ai/nvidia-ceo-highlights-accelerated-computing-and-ais-role-in-chip-manufacturing-at-itf-world-2023/"
+    ampWebUrl: "https://venturebeat.com/ai/nvidia-ceo-highlights-accelerated-computing-and-ais-role-in-chip-manufacturing-at-itf-world-2023/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/nvidia-ceo-highlights-accelerated-computing-and-ais-role-in-chip-manufacturing-at-itf-world-2023/amp/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 99
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 91
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://venturebeat.com/wp-content/uploads/2023/02/nvidia-ceo-jensen-huang-at-gtc-fall-2022-1.jpg?w=1200&strip=all"
         width: 1200
-        height: 630
+        height: 637
         isCached: true
-  - title: "Artificial Intelligence (AI) Robots Market upto 2030"
-    excerpt: "Robots Market \" Insights 2023 By Types ( Service, Industria ), Applications ( Public Relations, StocKManagement) , Regions and Forecast to 2030. The global Artificial Intelligence (AI) Robots market size is projected to reach multimillion USD by 2030,"
-    publishedDateTime: 2023-05-17T03:09:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-robots-market-upto-2030-2023-05-16"
+  - title: "Nvidia, AMD, Micron lead chip sector higher with AI, Japan in focus"
+    excerpt: "Shares in chip design software company Synopsys shares ended up 8.7% after it forecast better-than-expected third-quarter profit estimates, saying increased use of AI and automation boosted its business. Nvidia shares were up 5.0%, while the Philadelphia ..."
+    publishedDateTime: 2023-05-18T21:55:00Z
+    webUrl: "https://www.reuters.com/article/usa-stocks-chips-idUSL1N37F2MO"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 99
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence (AI) Chips Market 2023-2029 New Research Report by Industryreport.co"
-    excerpt: "A market research report has recently analysed the Global \"Artificial Intelligence (AI) Chips Market\" which includes segmentation based on Geographical Regions, Country, Company, Types, and Applications. The market is being led by several key players ..."
-    publishedDateTime: 2023-05-16T15:18:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-2023-2029-new-research-report-by-industryreportco-2023-05-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 88
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Computer Vision in Artificial Intelligence (AI) Market 2023-Analysis, Trends and Forecasts to 2030"
-    excerpt: "The Global “Computer Vision in Artificial Intelligence (AI) Market”Report offers an In-depth analysis of the market's"
-    publishedDateTime: 2023-05-15T15:26:00Z
-    webUrl: "https://www.marketwatch.com/press-release/computer-vision-in-artificial-intelligence-ai-market-2023-analysis-trends-and-forecasts-to-2030-2023-05-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 85
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence (AI) in Fintech Market Upto 2030"
-    excerpt: "The Global Artificial Intelligence (AI) in Fintech market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key ..."
-    publishedDateTime: 2023-05-15T16:54:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-upto-2030-2023-05-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
+      name: Reuters
+      domain: reuters.com
     quality: 84
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) Chipset Market Trends 2023-2030"
-    excerpt: "Chipset market was valued at USD 8451.7 million in 2022 and is anticipated to reach USD 22360 million by 2029, witnessing a CAGR of 17.6Percentage during the forecast period 2023-2029. The influence of COVID-19 and the Russia-Ukraine War were considered while estimating market sizes."
-    publishedDateTime: 2023-05-16T04:23:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipset-market-trends-2023-2030-2023-05-16"
+  - title: "How Artificial Intelligence Is Used in Manufacturing"
+    excerpt: "neural networks; and robotics, which may be the most commonly used AI application in manufacturing. Altogether, artificial intelligence capabilities allow manufacturers to redeploy human labor to jobs that machines can't yet do and to make production more ..."
+    publishedDateTime: 2023-05-16T13:46:00Z
+    webUrl: "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/ai-in-manufacturing/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 84
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "2023, Artificial Intelligence in Marketing Market Research Report Analysis by 2030"
-    excerpt: "The major players covered in the Artificial Intelligence in Marketing market report are: Get a sample copy of the Artificial Intelligence in Marketing Market report 2023 The global Artificial Intelligence in Marketing market size was valued at USD 36391."
-    publishedDateTime: 2023-05-16T06:05:00Z
-    webUrl: "https://www.marketwatch.com/press-release/2023-artificial-intelligence-in-marketing-market-research-report-analysis-by-2030-2023-05-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 78
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Artificial Intelligence (AI) in Fintech Market Analysis of New Report 2023-2030"
-    excerpt: "A Promising Outlook for the Global Artificial Intelligence (AI) in Fintech Market from 2023 to 2030 Why is Artificial Intelligence (AI) in Fintech market 2023 Important? - Overall, the Artificial Intelligence (AI) in Fintech market in 2023 is essential for businesses to understand the market landscape,"
-    publishedDateTime: 2023-05-14T13:56:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-fintech-market-analysis-of-new-report-2023-2030-2023-05-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 76
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global 2023, Artificial Intelligence (AI) Software Market Analysis of New Report 2030"
-    excerpt: "Software market report are: Get a sample copy of the Artificial Intelligence (AI) Software Market report 2023 Artificial Intelligence (AI) Software Marketsize, segment (mainly coveringMajorType (, On-Premise,"
-    publishedDateTime: 2023-05-15T06:43:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-2023-artificial-intelligence-ai-software-market-analysis-of-new-report-2030-2023-05-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 75
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence (AI) in BFSI Market: 2023 Huge B2B Opportunities 2030 by Key Players"
-    excerpt: "Artificial Intelligence (AI) in BFSI Market Report Overview 2023-2030: May 16, 2023 (The Expresswire) -- Overview of the for global ”Artificial"
-    publishedDateTime: 2023-05-16T13:19:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-bfsi-market-2023-huge-b2b-opportunities-2030-by-key-players-2023-05-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
+      name: The Motley Fool
+      domain: fool.com
     quality: 71
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://m.foolcdn.com/media/dubs/images/Robot-AI-image-Getty-Images.width-600.jpg"
+        width: 600
+        height: 450
         isCached: true
-  - title: "Computer Vision Market Research Analysis, 2023-2030"
-    excerpt: "A Computer Vision market new report, spanning multiple 107 pages, offers an extensive and in-depth analysis of the"
-    publishedDateTime: 2023-05-14T14:33:00Z
-    webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-research-analysis-2023-2030-2023-05-14"
+  - title: "Nvidia CEO outlines AI’s role in next-generation chip manufacturing"
+    excerpt: "To meet this demand, Nvidia has emerged at the forefront of a new approach that involves coupling the parallel processing capabilities of graphics processing units with CPUs. It’s this new approach that sparked the AI revolution,"
+    publishedDateTime: 2023-05-16T09:01:00Z
+    webUrl: "https://siliconangle.com/2023/05/16/nvidia-ceo-outlines-ais-role-next-generation-chip-manufacturing/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 54
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/05/manufacturing-press-imec-keynote-blog-1920x1080.jpg"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "Facial Recognition Devices Market Research, 2030"
-    excerpt: "Research Reports has published a new report titled as \"Facial Recognition Devices Market\" by End User (Security"
-    publishedDateTime: 2023-05-15T13:23:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-devices-market-research-2030-2023-05-15"
+  - title: "Chip manufacturing ‘Ideal Application’ for AI"
+    excerpt: "NVIDIA CEO Jensen Huang outlines the role of accelerated computing and AI in address to semiconductor industry leaders at ITF World 2023."
+    publishedDateTime: 2023-05-16T12:12:00Z
+    webUrl: "https://www.newelectronics.co.uk/content/features/chip-manufacturing-ideal-application-for-ai"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Computer Vision System Market Research | 2023-2030"
-    excerpt: "Research Reports has published a new report titled as \"Computer Vision System Market\" by End User (Automotive,"
-    publishedDateTime: 2023-05-16T00:43:00Z
-    webUrl: "https://www.marketwatch.com/press-release/computer-vision-system-market-research-2023-2030-2023-05-15"
+      name: New Electronics
+      domain: newelectronics.co.uk
+    quality: 34
+  - title: "Nvidia turns to AI to speed up manufacturing"
+    excerpt: "More for less to put this widget in that thing, Nvidia founder Jensen Huang said that artificial intelligence was being used to accelerate computer chip manufacturing and create advanced microprocessors."
+    publishedDateTime: 2023-05-16T09:54:00Z
+    webUrl: "https://www.fudzilla.com/news/ai/56897-nvidia-turns-to-ai-to-speed-up-manufacturing"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Robot Firefighter Market Research | 2023-2030"
-    excerpt: "The Global Robot Firefighter market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players,"
-    publishedDateTime: 2023-05-16T10:46:00Z
-    webUrl: "https://www.marketwatch.com/press-release/robot-firefighter-market-research-2023-2030-2023-05-16"
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 19
+  - title: "GIGABYTE to Introduce Leading-Edge AI Solutions and Computers at COMPUTEX 2023, Unveiling “Future of COMPUTING”"
+    excerpt: "Take the Lead in the AI Era with GIGABYTE’s Trailblazing GPU/HPC Servers The emergence of ChatGPT and various generative AI applications are making huge waves of industry evolution, driving all-time demand for AI computing servers. At COMPUTEX ..."
+    publishedDateTime: 2023-05-17T03:16:00Z
+    webUrl: "https://www.businesswire.com/news/home/20230516005112/en/GIGABYTE-to-Introduce-Leading-Edge-AI-Solutions-and-Computers-at-COMPUTEX-2023-Unveiling-“Future-of-COMPUTING”"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Computer Vision System Market Research | 2023-2030"
-    excerpt: "Research Reports has published a new report titled as \"Computer Vision System Market\" by End User (Automotive,"
-    publishedDateTime: 2023-05-17T00:45:00Z
-    webUrl: "https://www.marketwatch.com/press-release/computer-vision-system-market-research-2023-2030-2023-05-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Latest 2023 \"Artificial Intelligence (AI) in Fintech Market\" Survey & Forecast by 2029 | With 75+ Pages"
-    excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this “Artificial Intelligence"
-    publishedDateTime: 2023-05-17T03:51:00Z
-    webUrl: "https://www.marketwatch.com/press-release/latest-2023-artificial-intelligence-ai-in-fintech-market-survey-forecast-by-2029-with-75-pages-2023-05-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 68
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence in Construction Market | 2030"
-    excerpt: "The Global Artificial Intelligence in Construction market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key ..."
-    publishedDateTime: 2023-05-15T01:09:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-construction-market-2030-2023-05-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 67
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence in Insurance Market | 2030"
-    excerpt: "Research Reports has published a new report titled as \" Artificial Intelligence in Insurance Market \" by End User ( Chatbots and Virtual Assistants, Fraud Detection, Customer Relationship Management,"
-    publishedDateTime: 2023-05-15T00:04:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-insurance-market-2030-2023-05-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 67
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence (AI) in Agriculture Market Size in 2023-2030: Competitive landscape and Leading Country"
-    excerpt: "Additionally, the research report provides comprehensive data on the key factors driving the growth of the Artificial Intelligence (AI) in Agriculture market at both the national and local levels. The report includes market size forecasts in terms of value,"
-    publishedDateTime: 2023-05-15T14:22:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-agriculture-market-size-in-2023-2030-competitive-landscape-and-leading-country-2023-05-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 64
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence-based Cybersecurity Market [2023-2030] Business Report"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. May 14, 2023 (The Expresswire) -- A Artificial Intelligence-based Cybersecurity market new report, spanning multiple 113 pages, offers an extensive and in-depth analysis of ..."
-    publishedDateTime: 2023-05-14T23:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-based-cybersecurity-market-2023-2030-business-report-2023-05-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 63
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Natural Language Processing and Recognition Market with Future Opportunities 2023-2030"
-    excerpt: "May 16, 2023 (The Expresswire) -- \"Natural Language Processing and Recognition Market\" Size 2023-2030 |Research Report| 116 Pages | extensively"
-    publishedDateTime: 2023-05-16T08:04:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-and-recognition-market-with-future-opportunities-2023-2030-2023-05-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 61
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence in Manufacturing Market Research [2023-2030] | Top Countries Data"
-    excerpt: "The \"Artificial Intelligence in Manufacturing Market\" A recently published research report by Precision Reports conducted"
-    publishedDateTime: 2023-05-16T18:27:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-manufacturing-market-research-2023-2030-top-countries-data-2023-05-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 58
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence (AI) Chip Market Intelligence Report 2031: Profit-Oriented Business Decisions For Major Players"
-    excerpt: "Artificial Intelligence Chip Market Opportunity Analysis  The global artificial intelligence chip market was valued at $11.2 billion in 2"
-    publishedDateTime: 2023-05-16T05:53:00Z
-    webUrl: "https://menafn.com/1106249515/Artificial-Intelligence-AI-Chip-Market-Intelligence-Report-2031-Profit-Oriented-Business-Decisions-For-Major-Players"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 45
-    images:
-      - url: "https://menafn.com/updates/pr/2023-05/16/EP_862b6image_story.png"
-        width: 898
-        height: 470
-        isCached: true
+      name: newsroom.businesswire.com
+      domain: businesswire.com
+    quality: 0
 
 secured: "5XvLfvBNA0bPdVW/5kCpr0tJtcHOLKcoREDXo8SvYdjxsSQz/lHso2hb69ru58uk/47NxB8mEyxrFMd+taZtNN8cMAnjSflXlbbHL0eoqPleypk73/lcWPB95WjC0oX09Ok4qTOkuj9ZBedxDjsYvx1eqq+G+UfysYPjdiVL9D434qgwKAkyolXmNjzzEAFXsexmN2Ew8RhKnrPEQTSN/UHyPZgFvFgLzH4MwI8xjkpsMo5RNnjLBzHhsTc7azmwBNuQaziUMwnYkc99VcfIEgCrK5t0Mr89vu271Y2k/pSPqXmbtj0xe2u3viB/FaXpxgxaeZfnAG6Ths1YT/+YbRz77ei+0WHvX2aXcenzl04=;XIYEKkReYMad+myBW7h9Jg=="
 ---

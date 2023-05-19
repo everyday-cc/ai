@@ -1,30 +1,24 @@
 ---
 category: news
-title: "Meta’s Pricey Bet on AI Comes With New Custom Chips, Coder Tools"
-excerpt: "Some of the AI updates are obvious drivers of efficiency within Meta, which has eliminated thousands of employees in recent months. (Bloomberg) In Meta Platforms Inc.'s year of cost cutting and layoffs,"
-publishedDateTime: 2023-05-19T03:54:00Z
-originalUrl: "https://tech.hindustantimes.com/tech/news/metas-pricey-bet-on-ai-comes-with-new-custom-chips-coder-tools-71684466893934.html"
-webUrl: "https://tech.hindustantimes.com/tech/news/metas-pricey-bet-on-ai-comes-with-new-custom-chips-coder-tools-71684466893934.html"
-ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/metas-pricey-bet-on-ai-comes-with-new-custom-chips-coder-tools-71684466893934.html"
-cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/metas-pricey-bet-on-ai-comes-with-new-custom-chips-coder-tools-71684466893934.html"
+title: "Meta’s pricey bet on AI comes with new custom chips, coder tools"
+excerpt: "There's one area at Meta that's seeing record spending: an update of the social media giant's infrastructure to keep pace in the artificial intelligence arms race."
+publishedDateTime: 2023-05-18T18:10:00Z
+originalUrl: "https://www.seattletimes.com/business/metas-pricey-bet-on-ai-comes-with-new-custom-chips-coder-tools/?n=%5CL"
+webUrl: "https://www.seattletimes.com/business/metas-pricey-bet-on-ai-comes-with-new-custom-chips-coder-tools/?n=%5CL"
+ampWebUrl: "https://www.seattletimes.com/business/metas-pricey-bet-on-ai-comes-with-new-custom-chips-coder-tools/?amp=1"
+cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/metas-pricey-bet-on-ai-comes-with-new-custom-chips-coder-tools/?amp=1"
 type: article
-quality: 59
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Hindustan Times Tech
-  domain: hindustantimes.com
+  name: Seattle Times
+  domain: seattletimes.com
 
 topics:
-  - Facebook AI
+  - AI Hardware
   - AI
-
-images:
-  - url: "https://images.hindustantimes.com/tech/img/2023/05/19/1600x900/meta_1684468388145_1684468397363.jpg"
-    width: 1600
-    height: 900
-    isCached: true
 
 related:
   - title: "Meta bets big on AI with custom chips — and a supercomputer"
@@ -106,6 +100,6 @@ related:
         height: 899
         isCached: true
 
-secured: "nxwCDKNQYdxJgeHWG7APPoFTL9ytda/M1z8LPYF3Xmif4rWClDw1jxomkhXP3ypUnRx68GyCiIHv17pCxXXAk9LTS/txfVf03AFifXKEJahP70icsxOCXocN2wm5LWZOS6l1SHBGKbgf69q07Ucb9MBZGLOaEHqp4si7iBuBueyuXViLuWoYnLZg5v5MO7mI4JmFmJ6E1lUy55qiB6uPykTk145ekHPSoEGcudzrpa3vc52x8wTBFNaJ/WR32QDTzo2VdYE6/Y6ePlIb8zsNMcwQ4veAWPQBml1VnrvO3BZ4ZyMgJcYxHT6fTQGO0B4sCSMYZan/lK3qOpF2b3EBLpUbrbokP1agEs1G6Fg/Z28=;zKTdc86CF1tG0i0OxCwbsA=="
+secured: "0tF5LZc2yOo+nd5kjtZR9w+A/oe2vYuQIVInmur/qVts3SELvfwwSU2r4giSrOY2vBjWhyACUG27y81ct9POZvHG4JcWk3UrDufUaysYR3Q/OT1ORbjztmLUN1idO3jxXnlpjkenErTrPj9nKIdXT4zl6pTt35apccKwmuHYzPjP+NFLuKz53nxBG0g2Z9USw3FwOCc2CIO3+PPqAG+RCSmQ9r2qJW0vAm4hafYINyna38F5clnchroejIlfFa4IKw2zWEFaMBemqJW8SlmCErg829PhN36H4gIEHZpgY6RU6amgHILyCHZRd63RBHJHxvwIscB3oBC6h2j/18r2xYEM6KCXOhndn17kTuU7pwbd/hFQg5/XQUGHr0TNh0wxAE5xSvflZBZOaA7B/ZB2nic1VILcsTN2qos+/9r1ehq3Q8B07dMlpYIon2JHViC4q50Mo1QMgCfRzq7+Nhle3+bJ+C4y/7R9r396h+lJAn5WTa5PB/SKdn5aHM1TeuWYvtBOIFTwcgwWqIg0L5jrYg==;G0LPduwV/MUf5TBWmbSMRA=="
 ---
 

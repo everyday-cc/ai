@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Face Recognition Systems Market 2023-2030 Size and Driving Growth"
+    excerpt: "The Face Recognition Systems Market Scope and Overview Report for 2023 presents a detailed analysis of the latest trends"
+    publishedDateTime: 2023-05-17T05:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-systems-market-2023-2030-size-and-driving-growth-2023-05-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Overview of Machine Learning Market Dynamics and Trends for 2023-2030"
     excerpt: "The research report on the Machine Learning Market presents an efficient industry perspective, future patterns,"
     publishedDateTime: 2023-05-17T07:01:00Z
@@ -183,6 +197,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "2023, BFSI Artificial Intelligence Market | Global Industry Analysis Till 2030"
+    excerpt: "BFSI Artificial Intelligence Market | Outlook 2023-2028 | Pre and Post-COVID Research is Covered, Report Information"
+    publishedDateTime: 2023-05-16T06:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-bfsi-artificial-intelligence-market-global-industry-analysis-till-2030-2023-05-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 43
   - title: "2030, Facial Recognition Door Lock Market Growth | Expansion Plan and Latest Updates"
     excerpt: "The \"Facial Recognition Door Lock Market\" research report for the period 2023-2030 offers a comprehensive analysis of"
     publishedDateTime: 2023-05-16T12:42:00Z

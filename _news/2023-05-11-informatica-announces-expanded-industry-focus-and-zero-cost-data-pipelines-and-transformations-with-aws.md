@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Informatica Announces Expanded Industry Focus and Zero Cost Data Pipelines and Transformations with AWS"
-excerpt: "Informatica, an enterprise cloud data management leader, built upon their years-long relationship with Amazon Web"
-publishedDateTime: 2023-05-11T14:59:00Z
-originalUrl: "https://www.datanami.com/this-just-in/informatica-announces-expanded-industry-focus-and-zero-cost-data-pipelines-and-transformations-with-aws/"
-webUrl: "https://www.datanami.com/this-just-in/informatica-announces-expanded-industry-focus-and-zero-cost-data-pipelines-and-transformations-with-aws/"
+excerpt: "Informatica (NYSE: INFA), an enterprise cloud data management leader, built upon their years-long relationship with Amazon Web Services (AWS) with a n"
+publishedDateTime: 2023-05-10T17:00:00Z
+originalUrl: "https://www.businesswire.com/news/home/20230510005438/en/Informatica-Announces-Expanded-Industry-Focus-and-Zero-Cost-Data-Pipelines-and-Transformations-with-AWS/"
+webUrl: "https://www.businesswire.com/news/home/20230510005438/en/Informatica-Announces-Expanded-Industry-Focus-and-Zero-Cost-Data-Pipelines-and-Transformations-with-AWS/"
 type: article
 
 provider:
-  name: datanami.com
-  domain: datanami.com
+  name: newsroom.businesswire.com
+  domain: businesswire.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "dK82nlTTCKNJoH0pfhJ5G6tNNLN/o2eSP/nMrUfKUEPZVnx0/5Y6sSjWlL/jZy1bN3hC+YnwgtUnKz6q8XjlssJX1VpqOqvWh9d/Fcv/1nRm/Lo8N1hBODqEFb2nkmTyc203ZsGRerQcWD43SkwKhyrNjL7RSTtVLZ2OQgi6BDgFItju3hDWWqMhacRa0Na5RNYnbnaW9SaK9j0YEDqLw37nIy941x0hI11eQLe/ZhpfPOBJ1VXwOgIR7GAKKMehX+sJoZ0G6KFLygo4nawV2Wrj1cbV4GnVag6ObK2PbaHu35zuE69oqT+CO0hNJSfXX/xGx4DhCVHbOo71qbG4VNfQMS2Ck1YU58R6fWPkH/3PtypYL2R6yJYcBPjk+pS/GXOs2bh3aV6EmiFl0Ctm0OJ5fY9gaXilLyX2/4z/+P9U3YDqrV0eVWvfLgl4bQPojek4t3YQoE/ynTmeqlXqpsAStSBF0ecEj9knk5fwj1YFOf+dXX7cTsCJJzD2FfhWZW0cxlme2Ss1V4ygslkFlg==;KrQfqFTKo79tBP5954q0Dg=="
+secured: "7Y580z3Ttw9i1S6PF7LiOlvDSWEjLjr8pWjX5X3iDZH02BYONR9tNqkgDAJr+tdz9nM/7XNs9FZ2szrrFeWz1rP5u6SqeWb35S5PoiYWU+G+OyWgS9Lm8JP63ovG1G2nh2oK7N4sGdcLlMIs8IKJXgTvDZ081WHwpNOZwtUqziU/zZ4Wb7IfSX+IQRvQB5wFFhMOli4KPbNqK29oW5D8BYef30FuWU1maQuwT8Itl0zPY+JPz0k1BIudYNX0vdU2g0VSvtAlRyei5Gz9WjWwN1rrEQfr7/SvXWz4p9Yq3mCrXiKEPQ06dtmu+MKGu1l2moJcvJfUnlLEHBq8GRTrPAiCP7idLEn71NHKc7Kwnog=;G7hmvrmeerFOD9YgoI1y0A=="
 ---
 

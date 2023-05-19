@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Latest 2023 \"Artificial Intelligence (AI) in Fintech Market\" Survey & Forecast by 2029 | With 75+ Pages"
+    excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this “Artificial Intelligence"
+    publishedDateTime: 2023-05-17T03:51:00Z
+    webUrl: "https://www.marketwatch.com/press-release/latest-2023-artificial-intelligence-ai-in-fintech-market-survey-forecast-by-2029-with-75-pages-2023-05-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 68
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Self Driving Wheelchair Market Size Investigation Report 2023-2030 by Absolute Reports in Healthcare , Medical Devices Industry | with [104 Pages]"
     excerpt: "May 15, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry. The Global \"Self Driving Wheelchair"
     publishedDateTime: 2023-05-15T14:50:00Z
@@ -43,15 +57,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Face Recognition API Market Size 2023-2031 Business Strategies by Absolute Reports | with [103 Pages]"
-    excerpt: "Global “Face Recognition API Market” forecasts for 2023 to 2031, broken down by region, types [Accuracy Rate > 95 percentage, Accuracy Rate 80 percentage-95 percentage, Accuracy Rateâ ¤80 percentage], and application [Financial, Security ..."
-    publishedDateTime: 2023-05-17T13:09:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-face-recognition-api-market-size-2023-2031-business-strategies-by-absolute-reports-with-103-pages-2023-05-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 30
 
 secured: "HKYQAIdBLVrUmFupM0h/5S/uH+EYjFlZCIvUHvis9G5f6XIXcyCvwZ5DhNIpZmepPHUfRnkSYJN1oNuXYmQZjoGdJ6afk+7gGEJivv+VbKKhBe1h/IvZr0DBMtt8x6vq9ARSNDbMj0UdJkWIDMuUU2A2c1WSFksJj8udNvxxf3BOBIh29liig6/qyffDDYSnATQjQf3Hz280nWYAM7ZtpkTtIu9t3JS2PiXZM9liisZrJlWXsQXbtmrMieD7fM7HQwL5/WAy6qTv9ke5WK2uVSw9MvMRu9L52CtgViy4YY3hEdgYV2wQUoglHMTRf09zTAOYZsEYCuQnGffFvb1xEbrLhO00b7PGyC3OmTLqeqg=;M+kcU9SoFN1+kEXWbrTOVw=="
 ---

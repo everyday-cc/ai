@@ -88,22 +88,17 @@ related:
         width: 1200
         height: 674
         isCached: true
-  - title: "Meta’s Pricey Bet on AI Comes With New Custom Chips, Coder Tools"
-    excerpt: "Some of the AI updates are obvious drivers of efficiency within Meta, which has eliminated thousands of employees in recent months. (Bloomberg) In Meta Platforms Inc.'s year of cost cutting and layoffs,"
-    publishedDateTime: 2023-05-19T03:54:00Z
-    webUrl: "https://tech.hindustantimes.com/tech/news/metas-pricey-bet-on-ai-comes-with-new-custom-chips-coder-tools-71684466893934.html"
-    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/metas-pricey-bet-on-ai-comes-with-new-custom-chips-coder-tools-71684466893934.html"
-    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/metas-pricey-bet-on-ai-comes-with-new-custom-chips-coder-tools-71684466893934.html"
+  - title: "Meta’s pricey bet on AI comes with new custom chips, coder tools"
+    excerpt: "There's one area at Meta that's seeing record spending: an update of the social media giant's infrastructure to keep pace in the artificial intelligence arms race."
+    publishedDateTime: 2023-05-18T18:10:00Z
+    webUrl: "https://www.seattletimes.com/business/metas-pricey-bet-on-ai-comes-with-new-custom-chips-coder-tools/?n=%5CL"
+    ampWebUrl: "https://www.seattletimes.com/business/metas-pricey-bet-on-ai-comes-with-new-custom-chips-coder-tools/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/metas-pricey-bet-on-ai-comes-with-new-custom-chips-coder-tools/?amp=1"
     type: article
     provider:
-      name: Hindustan Times Tech
-      domain: hindustantimes.com
-    quality: 59
-    images:
-      - url: "https://images.hindustantimes.com/tech/img/2023/05/19/1600x900/meta_1684468388145_1684468397363.jpg"
-        width: 1600
-        height: 900
-        isCached: true
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 54
 
 secured: "TKn7ciT4LOkYaE5PQ+rgkOcYIqiTiQxXfqyntZwlRJ9GMBjISL4VgtMs0JpOM6Jt3+AdMl0T9I/49hN+Tymb4uYnXB5B8ajWBz1BUM4eHuZcY1ykJxgNAoWUkJkO9EjqqS4DT0mCpZJ2VMmoQLqzMvmMUJSPLrUmNwEywxodNFGwO9V/iSmekb1ln3RswSquvWsp4+k+j95agidhogKuL1YKhqQxy7cBWvKKVMzGx+bnFm+u+a3Ty67ItITq7384L44i7nhJzjwY2F/s/7HABcbNI4lkS8qhfCZrjyvRqTpyEAf5+0SsSR+jERQqwRs9O9kPddZOtcHTrx63mfuZrx7+nVS0SMDFzHHdZr8UlrU=;iKN70KIUAo+0ePdl3UNGyQ=="
 ---

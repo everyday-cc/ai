@@ -52,6 +52,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence-based Cybersecurity Market [2023-2030] Business Report"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. May 14, 2023 (The Expresswire) -- A Artificial Intelligence-based Cybersecurity market new report, spanning multiple 113 pages, offers an extensive and in-depth analysis of ..."
+    publishedDateTime: 2023-05-14T23:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-based-cybersecurity-market-2023-2030-business-report-2023-05-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 63
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "5 ways AI-driven patch management is driving the future of cybersecurity"
     excerpt: "Cybersecurity vendors are fast-tracking risk-based vulnerability management, AI and machine learning to keep patch management current."
     publishedDateTime: 2023-05-15T19:07:00Z

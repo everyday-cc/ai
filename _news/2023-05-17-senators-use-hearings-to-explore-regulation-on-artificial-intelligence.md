@@ -122,6 +122,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "AI Alarmists Are Dragging Us All Down a Rabbit Hole"
+    excerpt: "Silicon Valley is fixated on longtermism — prioritizing future lives over those living today. This is very tricky moral math."
+    publishedDateTime: 2023-05-18T23:20:00Z
+    webUrl: "https://www.washingtonpost.com/business/2023/05/19/ai-longtermism-alarmists-are-dragging-us-all-down-existential-rabbit-hole/897ef2f0-f5fc-11ed-918d-012572d64930_story.html"
+    type: article
+    provider:
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 37
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RDS3WYXV7QI63EMNAESXFVSJGA.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
 
 secured: "picArIWMy6Oxdxwq380XB+efU90KUReZpdjuxi9CvGHpCoyYrWsD8VIqJzIW0n2flkbGQEJaJRLhLOGHqW9EBYKKiJdGGJ8FIUX/XrNuUp64MhYe0v8RVEWOKmd5/T6TVV0l1hOj6DgIlNlWDj0VIMLvcCHcMD3zdLqWwE9pYZalzb85hIcgwatYegHSNmHju3a0hHSRC+a4EH+OVeCDVpGh40VZJxSePgojl5TZs0KV44V0AUwOLkwHHn+NSaLW8LEUqSlRDChHL/AdpNMjLcZrfPr9esPhTmW32tW6gOLWD4P0tx0DGA2WxT6v78Ph2uveAVGYksWeFHXhFUT4Spu8urOBT1J+n86DTvyRQamAD50CrGz9HP/w8FizLVW2lScT6imJBIHGrqbFyhEdlZFpKe1RJ8ISGxaeKKXgq4+zdbidHE39wVqYRtthPskZzx1uimjboJuZrl5zg1zCLcjthdBpnqcU+CFS6BqgGjcWWQiQoMXMoG7vWbEEuwIRPzIf6dss3v/JKQisvXTjGw==;fw+H8iwBotom7pKeAb8UXA=="
 ---

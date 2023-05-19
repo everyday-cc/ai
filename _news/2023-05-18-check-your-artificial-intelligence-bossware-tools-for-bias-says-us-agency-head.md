@@ -1,27 +1,24 @@
 ---
 category: news
-title: "Check your artificial intelligence 'bossware' tools for bias, says U.S. agency head"
-excerpt: "The head of the U.S. agency charged with enforcing civil rights in the workplace says artificial intelligence-driven “bossware” tools that closely track the whereabouts, keystrokes and productivity of"
+title: "Check your artificial intelligence ‘bossware’ tools for bias, says U.S. agency head"
+excerpt: "The head of the U.S. agency charged with enforcing civil rights in the workplace says artificial intelligence-driven “bossware” tools that closely track the whereabouts, keystrokes and productivity of workers can also run afoul of discrimination laws."
 publishedDateTime: 2023-05-18T15:54:00Z
-originalUrl: "https://www.washingtonpost.com/business/2023/05/18/bossware-eeoc-artificial-intelligence-job-discrimination/47ae9762-f594-11ed-918d-012572d64930_story.html"
-webUrl: "https://www.washingtonpost.com/business/2023/05/18/bossware-eeoc-artificial-intelligence-job-discrimination/47ae9762-f594-11ed-918d-012572d64930_story.html"
+originalUrl: "https://www.seattletimes.com/business/check-your-artificial-intelligence-bossware-tools-for-bias-says-u-s-agency-head/"
+webUrl: "https://www.seattletimes.com/business/check-your-artificial-intelligence-bossware-tools-for-bias-says-u-s-agency-head/"
+ampWebUrl: "https://www.seattletimes.com/business/check-your-artificial-intelligence-bossware-tools-for-bias-says-u-s-agency-head/?amp=1"
+cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/check-your-artificial-intelligence-bossware-tools-for-bias-says-u-s-agency-head/?amp=1"
 type: article
-quality: 31
-heat: 31
+quality: 33
+heat: 33
 published: false
 
 provider:
-  name: The Washington Post
-  domain: washingtonpost.com
+  name: Seattle Times
+  domain: seattletimes.com
 
 topics:
+  - AI in Autos
   - AI
-
-images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IJGLDDHVSQI63EMNAESXFVSJGA.jpg&w=1440"
-    width: 1440
-    height: 1237
-    isCached: true
 
 related:
   - title: "Check your artificial intelligence 'bossware' tools for bias, says U.S. agency head"
@@ -39,6 +36,6 @@ related:
         height: 1759
         isCached: true
 
-secured: "j0E7qCqoCL8yqJnGrbH7GNQveCAgY1mSBtaGgGI0PoH1xutiO9VDZxhuMTJbaa4YYk+6evGMEh4b0aBUBKZEt8k5X2YxVO5MvrIBHYIO9s1oGMnBjhjDFocyibvtflArQTmlTJ6nGDPcry9jog3g7kuyZLl9KYdXx/U6h4xgrZG33fJ7e4ScTfJBab+jcsE/HDgPIMsaVXtz+JCT7ulOoeYOvkNInO7ZfLrGi1IvQdbj1JyKFPOLIbirCXD+uMBv4AtPam6wXyaBs9eAnymdzj3RVt7UXILSlHoiMN+oWwFSle3899z4VPv+OxtiGH/qBvHaA+adrv5gt/J0FWU36PJ/bVbrBANqMNsqK4i89c0=;b8fOMYS26KDFrBN8P6Hybw=="
+secured: "qniJQUREprR3Y7yCbyLo9pUOQkex8PNwjikziFLK6CsVGeE6UoyguN80yxzF3OIInaX16LDYwslGSmEyrRyBqnzRD223edU0tK38+QZbwrhNfBZXM2I7zl6Terh3AqByFfnqTIescuEoldHH3U8VF6IJ/TP9i+aQs8OgqUd5dbx6NddE6HN2H/EWTBWrnyCkpUpMe/Ss4KZaO0Cedf9/0azp4QUXhh3TaasuK/1y28Hut3X62rcM9wh3RbNg8ImEuo9HSm5dBTD0GxL9p/ZFfKksdUTBWiyDxoF2WTmxwgXsvPQjOCS7XCbHP4afg55visJoEDZY4XFlUUTo/TFc69l00ffReSKrqo38fWSveS8TkLzkD0ooIFuSayoj8ZLbicLrQT0UaZ1TzKTibRKZezmRyounAC3eHNBNWA4xHABtVanG5kROUuXltQY7Dvu5p4P2r67MnIBAGO1H1+IpQWdOTIOlatzNyUZIu/XEdb2XVa8f7vDgv7FDk/eSk8P0Qbo8tAsc6vVv4TyQqZKFcA==;IiGHOcXghjbx/Mx9QRXyNA=="
 ---
 

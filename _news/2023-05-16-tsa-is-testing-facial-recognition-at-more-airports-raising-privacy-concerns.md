@@ -510,6 +510,6 @@ related:
       domain: extremetech.com
     quality: 19
 
-secured: "oHwtefHtmj0hwo1GHQWLLWvtEuCnvJ6/jR1+RgzuEKbxrC19bpKNwELcpRhpG4N2Fi+GWrUbpS6YptY22BE3rWuZEwzy/iEJ78o9KMmv9SlAfhtOHyrqlLyLCMcIFUooCQVLk8Dp8zmhxJIpsNZHSMWTvyRc+jsEOv9RYroxDgJJOvvPOfWBjafV/jk3uHNBp813feusrCSC1mjfsexSj0REYTsy7MX7DpWFZNwO5uEPrks3fkNvKqzt07yh+FKYRvI+1TuRPETON8tvjMNiyWC4UO1h1FG0XrCh3TlZ8AqxoUPzXcgOIggfWAq/6GGu0+QVp+ytXrN1llPf/9MCx//tMGjVsDKsOOGNLLGEwPw=;LQRKihmS1kR/JBz2xmk7MQ=="
+secured: "f/ZM2svA0Pf8H1E64iN+CJPOjZyOdIYZd1Z2rt/kgNC9ZckiSJvS234T7UJP/4Nac3phZ+BPdqdJznfi6y4/YKnqsFvuiCvvR4e2bMaPW8Hzbmw0XX4JdAK3Wxdi2UBJ9XCaL8THqfzC1H08frm0yc7fyZ0zgWNPcFX4oQo8JHtZunKhhxFLUxUH1cY1oy2nJUSOm85g9X46AxA6IsF/cNTlJpn/+DMT7e8XkVLDpahc8M2mdENMFhn8Zt5a8/iZx+ibis9nxJGHdseiM9L5uc60tWvcMh5Vitrg0S6YFTM51tbjjDKTlr1QSGNl5SI46lXbzCmTtCCCAjn/TakU6CbO+rpMqTstrNgrJ/+d/Uc=;u7+hfl3xEVELklkOqcGqAw=="
 ---
 

@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/self-driving-wheelchair-
 webUrl: "https://www.marketwatch.com/press-release/self-driving-wheelchair-market-size-investigation-report-2023-2030-by-absolute-reports-in-healthcare-medical-devices-industry-with-104-pages-2023-05-15"
 type: article
 quality: 63
-heat: 83
-published: true
+heat: -1
+published: false
 
 provider:
   name: MarketWatch
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Latest 2023 \"Artificial Intelligence (AI) in Fintech Market\" Survey & Forecast by 2029 | With 75+ Pages"
+    excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this “Artificial Intelligence"
+    publishedDateTime: 2023-05-17T03:51:00Z
+    webUrl: "https://www.marketwatch.com/press-release/latest-2023-artificial-intelligence-ai-in-fintech-market-survey-forecast-by-2029-with-75-pages-2023-05-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 68
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Latest 2023 \"Automatic Speech Recognition(ASR) Software Market\" Survey & Forecast by 2030 | With 114+ Pages"
     excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this “Automatic Speech Recognition(ASR) Software Industry”. Embracing Growth: A Promising Outlook for the Global Automatic Speech Recognition(ASR) Software Market from 2023 to 2030."
     publishedDateTime: 2023-05-15T06:01:00Z
@@ -44,15 +58,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Face Recognition API Market Size 2023-2031 Business Strategies by Absolute Reports | with [103 Pages]"
-    excerpt: "Global “Face Recognition API Market” forecasts for 2023 to 2031, broken down by region, types [Accuracy Rate > 95 percentage, Accuracy Rate 80 percentage-95 percentage, Accuracy Rateâ ¤80 percentage], and application [Financial, Security ..."
-    publishedDateTime: 2023-05-17T13:09:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-face-recognition-api-market-size-2023-2031-business-strategies-by-absolute-reports-with-103-pages-2023-05-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 30
 
 secured: "0Ky04PuwvE3QnKffk8L11dIvUcmsbtl6ymYivzJ/iL5iPdl2G8jpFpBkeBVR3gjyWvNc6aB3wAMXsK7o/9EsTFbAGgYiY53VVU9TsK1Y5EqUF47Tmd8eYKflntecoz8TBC4hohwc65Zbj/K/IkeXK7G7xnSYa0mosz4QObZCcK3HuXtIhkr3wwGCYxNpuw1282GHAjL1BzeTzRhzZC26etuCCVjjh6w6fMmZmygrBZc1ayIo4MDfkOsHEgh+ZtXxNhXHgWvQEKybLXKFXzld3WkKh6zpxJkagyujPkj31l4N/ZcvgXQlaIsgtAlNxhsrvWZWqEorX1aMe+rh+E7P/Z38dIrqalNqzaHkbpEo9GQ=;biNno5nB/JOIIRrPrmCIvw=="
 ---
