@@ -6,8 +6,8 @@ publishedDateTime: 2023-05-16T01:06:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/botz-this-ai-etf-is-surging-should-you-buy-1032329024"
 webUrl: "https://markets.businessinsider.com/news/stocks/botz-this-ai-etf-is-surging-should-you-buy-1032329024"
 type: article
-quality: 67
-heat: 67
+quality: 69
+heat: 69
 published: false
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://blog.tipranks.com/wp-content/uploads/2023/05/image-450-1024x551.png?utm_source=markets.businessinsider.com&utm_medium=referral"

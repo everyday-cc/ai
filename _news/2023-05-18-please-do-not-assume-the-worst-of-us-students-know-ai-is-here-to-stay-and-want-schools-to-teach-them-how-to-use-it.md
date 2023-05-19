@@ -25,17 +25,6 @@ images:
     height: 1358
     isCached: true
 
-related:
-  - title: "Generative AI is here to stay — let’s use it responsibly"
-    excerpt: "Because generative AI is built by and trained by humans, it can contain the biases of those who have trained it and cannot stand on its own. It needs human oversight."
-    publishedDateTime: 2023-05-15T05:00:00Z
-    webUrl: "https://www.bizjournals.com/dallas/news/2023/05/15/generative-ai-is-here-to-stay-let-s-use-it.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 19
-
 secured: "Jb38gFFGQ+ZGihjWvz6pzHFZaKs7dGm8xNCqLAMfMgychwDCheBJA/bW18ornN/sxbNScS6XThWgEWeXfSq27zo2nr1gqYGoLzNv+54oREFZpL6gptUG3JmFPGsfTUU/db2Y8zoQx6gAVD1nINp13gt8ZmL5uoMoHz3sfqB8ImXj2u1vBtHsRzIoGKVdvq0bbpGmLBuWy6F2sEcd8vudFLcL/UQAlFANqClaJkW4/BYCo6kEujryL0OnME1RmA0wX45DFemwNIrvRltzPcv6y7mPOGCqy3kdg8eiLb4EtCazQ1hctT7/TFVw7Xr3W6MvKQARMvBix79lk8qVRsJsRJfOTvKxteuhSRquP5ZQ5rBjTcPqvLfAirdKtFP3oGmnu+R0ol9khCvpTRL3YemURNygXdgJzSMLTgoG45O9wNjs2+6/VtLFlVZs2ecVob6O9gS/FvE0tsw4YHpixYd0uJB2H2Coat/CwzJDrcMlMQ6zxQt5s/m72/hbt8TBcIvwBq1HciCyiO2VeCjqcsOhIg==;YE+xEb8OjUgKHsWIIvAOPw=="
 ---
 

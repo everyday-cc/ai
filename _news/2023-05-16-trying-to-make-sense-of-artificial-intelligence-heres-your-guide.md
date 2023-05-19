@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp/rcna77889"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna77889"
 type: article
 quality: 93
-heat: 113
+heat: 123
 published: true
 
 provider:
@@ -33,6 +33,20 @@ related:
     excerpt: "As businesses and governments race to make sense of the impacts of new, powerful AI systems, governments around the world are jostling to take the lead on regulation. Business leaders should be focused on who is likely to win this race,"
     publishedDateTime: 2023-05-19T12:05:00Z
     webUrl: "https://hbr.org/2023/05/who-is-going-to-regulate-ai?ab=HP-hero-latest-text-1"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 37
+    images:
+      - url: "https://hbr.org/resources/images/article_assets/2023/05/May23_28_5389503.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Who Is Going to Regulate AI?"
+    excerpt: "As businesses and governments race to make sense of the impacts of new, powerful AI systems, governments around the world are jostling to take the lead on regulation. Business leaders should be focused on who is likely to win this race,"
+    publishedDateTime: 2023-05-19T17:13:00Z
+    webUrl: "https://hbr.org/2023/05/who-is-going-to-regulate-ai"
     type: article
     provider:
       name: Harvard Business Review

@@ -53,6 +53,15 @@ related:
         width: 2048
         height: 1333
         isCached: true
+  - title: "Eyes on the poor: Cameras, facial recognition watch over public housing"
+    excerpt: "Housing agencies have been purchasing the tools — some equipped with facial recognition and other artificial intelligence capabilities — with no guidance or limits on their use, though the ..."
+    publishedDateTime: 2023-05-17T10:47:00Z
+    webUrl: "https://www.washingtonpost.com/business/2023/05/16/surveillance-cameras-public-housing/"
+    type: article
+    provider:
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 19
 
 secured: "rZknHQiXz2MHV+eEuffO7Vc6xnEsWeMaP66kJowRGM/G6sUk/inXErlqYzlqXcfAnCArmaSfSqpB3yqAc3uAi2ygk5uEpC/yIk260oRcJGRMWRaiJHPhp9G9MO43nyNNFj6/M/8XJM71qa22IU0IdnpSdBus/sJHb91smOInTpV9/yqX52nkrJ7A+2Emgljb7fgqQZhi/8tJNtwInoEv2swd/hL/oXU/jytJr72hJb97zEG8VdubBGjN2unhlPiTUy776pdSGRVNUoAN8wLiKJLCcYJsmG4brrJJEEX9CBETBTo9Dr7ZwFJek7pFiDI06I6lWLM9yEE6DE+ae4zN9dX8Clu2cr2UHAnSM2FHM1heHFfSzfF8SmfBp7sSMK1D1BpW3iHQGlJbCQ1IDCNlcadEbXLi39g5ovgHFPDOAbnMi8aIFbhHkXoak/65tNBsknnn9N7VmgcXdy/PEQXqPP2HbizwDvvn2kZu7BZ15qya5JjkgywHiUP457qZ7W6IUbHsDxkowoOLvwV4v9Sj4Q==;SS4/Avkq8O5bUNUexSpIpg=="
 ---

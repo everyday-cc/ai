@@ -208,6 +208,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Generative AI For Business Leaders 101"
+    excerpt: "AI stands for \"artificial intelligence,\" which is the simulation of human intelligence in machines to perform tasks that typically require human intelligence, such as decision making, perception and language translation. AI is powered by various techniques ..."
+    publishedDateTime: 2023-05-19T14:05:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/19/generative-ai-for-business-leaders-101/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 49
   - title: "Meet the Startup Promising to Deliver the 1st Healthcare-focused Generative AI Model"
     excerpt: "Hippocratic AI emerged from stealth, as well as announced $50 million in seed funding through a round co-led by General Catalyst and Andreessen Horowitz. The Palo Alto-based startup bills itself as the first large language model designed specifically for healthcare."
     publishedDateTime: 2023-05-16T22:34:00Z

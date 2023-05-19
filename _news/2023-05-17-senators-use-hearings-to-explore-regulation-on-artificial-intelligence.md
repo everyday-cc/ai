@@ -94,20 +94,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 47
-  - title: "Tracking Generative AI: How Evolving AI Models Are Impacting Legal"
-    excerpt: "A running compilation of how the legal landscape continues to be shaped by generative AI tools, from GPT technologies to art generation tools and beyond."
-    publishedDateTime: 2023-05-15T02:06:00Z
-    webUrl: "https://www.law.com/legaltechnews/2023/05/14/tracking-generative-ai-how-evolving-ai-models-are-impacting-legal/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 39
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/01/Numbers-Artificial-Intelligence-767x633.jpg"
-        width: 767
-        height: 633
-        isCached: true
   - title: "Four Places to Invest in AI That Are Better Than IBM"
     excerpt: "These days, it's almost impossible to keep up with artificial intelligence (AI), but I try to stay updated by testing a new AI application every week to learn more about its potential. This week, I tested SignGuard-an AI tool that uses deep learning to distinguish between genuine and forged signatures."
     publishedDateTime: 2023-05-15T21:05:00Z

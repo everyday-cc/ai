@@ -129,6 +129,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "One thing that could ruin Yes vote in Voice to parliament referendum"
+    excerpt: "The Yes campaign for First Nations recognition in the constitution and an Indigenous Voice is finally building up steam."
+    publishedDateTime: 2023-05-19T20:56:00Z
+    webUrl: "https://www.news.com.au/national/politics/one-thing-that-could-ruin-yes-vote-in-voice-to-parliament-referendum/news-story/1abf12c53e4150cec0e8335697a63d38"
+    ampWebUrl: "https://www.news.com.au/national/politics/one-thing-that-could-ruin-yes-vote-in-voice-to-parliament-referendum/news-story/1abf12c53e4150cec0e8335697a63d38?amp"
+    cdnAmpWebUrl: "https://www-news-com-au.cdn.ampproject.org/c/s/www.news.com.au/national/politics/one-thing-that-could-ruin-yes-vote-in-voice-to-parliament-referendum/news-story/1abf12c53e4150cec0e8335697a63d38?amp"
+    type: article
+    provider:
+      name: Couriermail
+      domain: news.com.au
+    quality: 24
   - title: "Rugby Australia adds its voice to other sports codes supporting yes vote"
     excerpt: "Rugby Australia is the latest major sporting code to back the Indigenous voice to parliament, joining a growing list of elite sports pushing for a yes vote in this year’s referendum."
     publishedDateTime: 2023-05-17T14:04:00Z

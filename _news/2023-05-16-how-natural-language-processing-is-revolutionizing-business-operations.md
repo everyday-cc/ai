@@ -39,22 +39,6 @@ related:
         width: 1200
         height: 674
         isCached: true
-  - title: "Mega artificial intelligence revolution coming – Retired UI don"
-    excerpt: "A retired professor of Data and Information Science at the University of Ibadan, Oyo State, Mutawakilu Tiamiyu, has warned that emerging Artificial Intelligence applications might appear exciting but likely to upset societies."
-    publishedDateTime: 2023-05-15T02:28:00Z
-    webUrl: "https://punchng.com/mega-artificial-intelligence-revolution-coming-retired-ui-don/"
-    ampWebUrl: "https://punchng.com/mega-artificial-intelligence-revolution-coming-retired-ui-don/?amp"
-    cdnAmpWebUrl: "https://punchng-com.cdn.ampproject.org/c/s/punchng.com/mega-artificial-intelligence-revolution-coming-retired-ui-don/?amp"
-    type: article
-    provider:
-      name: The Punch Newspapers
-      domain: punchng.com
-    quality: 59
-    images:
-      - url: "https://cdn.punchng.com/wp-content/uploads/2019/01/31111416/artificial-intelligence-e1548929675751.jpg"
-        width: 800
-        height: 372
-        isCached: true
   - title: "How to avoid AI commoditization: 3 tactics for running successful pilot programs"
     excerpt: "Chaitanya Vaidya is the co-founder of Deeprisk.ai, holds a fintech AI patent and has been in the tech innovation space for more than a decade. With the rise of open-source AI models, the commoditization of this groundbreaking technology is upon us."
     publishedDateTime: 2023-05-15T18:17:00Z

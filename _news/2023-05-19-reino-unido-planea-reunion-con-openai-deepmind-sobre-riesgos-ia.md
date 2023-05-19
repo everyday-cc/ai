@@ -7,8 +7,8 @@ originalUrl: "https://www.bloomberg.com/news/articles/2023-05-18/reino-unido-pla
 webUrl: "https://www.bloomberg.com/news/articles/2023-05-18/reino-unido-planea-reunion-con-openai-deepmind-sobre-riesgos-ia"
 type: article
 quality: 84
-heat: 94
-published: true
+heat: -1
+published: false
 
 provider:
   name: Bloomberg L.P.
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "UK Plans Meeting on AI Risks With OpenAI, DeepMind Bosses"
+    excerpt: "The UK government has invited bosses from some of the world’s biggest artificial intelligence firms to a meeting, people familiar with the matter said, as Prime Minister Rishi Sunak crafts a policy to manage the risks and benefits of the technology."
+    publishedDateTime: 2023-05-18T14:31:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-05-18/uk-plans-meeting-on-ai-risks-with-openai-deepmind-bosses"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 84
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ilIvhpd0_UuM/v1/1200x802.jpg"
+        width: 1200
+        height: 802
+        isCached: true
   - title: "UK plans meeting on risks with bosses of OpenAI, DeepMind"
     excerpt: "The summit will be convened as soon as this month, with invitations likely for OpenAI chief Sam Altman and the leaders of Alphabet Inc.'s DeepMind and Anthropic, the people said. Sunak could be among officials in attendance,"
     publishedDateTime: 2023-05-18T18:51:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/tech/alexa-siri-ai.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/alexa-siri-ai.amp"
 type: article
 quality: 89
-heat: 90
+heat: 89
 published: true
 
 provider:

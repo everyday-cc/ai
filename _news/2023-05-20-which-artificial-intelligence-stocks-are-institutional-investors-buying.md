@@ -91,20 +91,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 47
-  - title: "Tracking Generative AI: How Evolving AI Models Are Impacting Legal"
-    excerpt: "A running compilation of how the legal landscape continues to be shaped by generative AI tools, from GPT technologies to art generation tools and beyond."
-    publishedDateTime: 2023-05-15T02:06:00Z
-    webUrl: "https://www.law.com/legaltechnews/2023/05/14/tracking-generative-ai-how-evolving-ai-models-are-impacting-legal/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 39
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/01/Numbers-Artificial-Intelligence-767x633.jpg"
-        width: 767
-        height: 633
-        isCached: true
   - title: "Four Places to Invest in AI That Are Better Than IBM"
     excerpt: "These days, it's almost impossible to keep up with artificial intelligence (AI), but I try to stay updated by testing a new AI application every week to learn more about its potential. This week, I tested SignGuard-an AI tool that uses deep learning to distinguish between genuine and forged signatures."
     publishedDateTime: 2023-05-15T21:05:00Z
@@ -171,6 +157,6 @@ related:
       domain: rollcall.com
     quality: 17
 
-secured: "FeA+IV6fz60THiKvQP9/rRS4FepFavVHcCAJvQ6lL20Bl1S0gFZRYEhAqBjrMxwsww3eRWDUYmjHAgsS7igIWECGEjG3YHnhGVq2KE0rjLwc0F0neVwXk5O/DN23bxJxy5vT1Li2mZLapxngOQtEB4gjNE/FGdDjZ9qCJEpEcBmwYp7Ek5Hcyl6OAks6wuKTISJFSKsXch//GueF37XDbWL+m/EMB/iJZ5B96mlnlq8XfyYV30Xt7iPf2lUyovMQzobRbwn9aYf5mDP2xp9XZwPbQ61ZNxYhtq1p5nwxKoMDQ5m5Ra6B6PdBZBLzxFTXV/f/GXOig/nlrCqlD8V+14trTXi4fAHGubAjrybgdP8=;S6Tjl1xLzIOX3EFuEP9xYw=="
+secured: "EaODXNKPgySVOPESl8brBs+IA822yIxEvhbATEaCXjRaqhieJjMXxMysU4INRoMn0EaP7e8cpzDYD4u/cOM5Y8sQt6WpenieD2eAi+tifsjp2InPhuTRU8WNubgZapnzZKHAoLW4yO5w+nrJazKHjqs1ZU76FGrOIbXtjajEjn5vD2wVNqgLV+wHM4Wioy1uQi493XxAVHVqkSRsVKLrPG432DabSscg+PVEUj/kPdp64Al3Ho5OQ9ZyVecBgHpc9RPIT2s5XTCU0T7JJcLicYYXJeAENfa3ao1SFjeVSxDRbrBjQocEcWVlTVNdys93b7pAzyTcH3eTEvCS4wgTtiII58+7L/Eu0XLL7CZ5UZQ3ilH6Q38HHh9FW6m6Cl5u2PY80G/qIACH8KsPcW+nLt3OYyre9KJ84TI3yT5jzFGykrxVXJPaSCIIFkq6hSo+dXHhe4gUge2jjiVGDlWJRMOMJ9HFVGPlahLjkM9Qx29hYqbsUZeWODGK8nVDluTrJlEHxi0XCnl9/RjYAl48LA==;0y0atbA4JPC5lPmmVclRow=="
 ---
 

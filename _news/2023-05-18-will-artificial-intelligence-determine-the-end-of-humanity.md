@@ -25,19 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "As AI consumes search, what will be left for us humans?"
-    excerpt: "I hope that you'll still want to read my stuff in the future. If not, at least I probably helped train my replacement."
-    publishedDateTime: 2023-05-15T17:37:00Z
-    webUrl: "https://techcrunch.com/2023/05/12/ai-search-effects-implications/"
+  - title: "Will AI Kill Human Creativity? What Fake Drake Tells Us About What’s Ahead"
+    excerpt: "In this article I’ll consider implications of AI-generated music for what I see as the inevitable creative class wars against AI, and what it means for us all."
+    publishedDateTime: 2023-05-19T19:59:00Z
+    webUrl: "https://www.forbes.com/sites/brianuzzi/2023/05/19/will-ai-kill-human-creativity-what-fake-drake-tells-us-about-whats-ahead/"
+    ampWebUrl: "https://www.forbes.com/sites/brianuzzi/2023/05/19/will-ai-kill-human-creativity-what-fake-drake-tells-us-about-whats-ahead/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brianuzzi/2023/05/19/will-ai-kill-human-creativity-what-fake-drake-tells-us-about-whats-ahead/amp/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 67
+      name: Forbes
+      domain: forbes.com
+    quality: 85
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2019/02/ai-assisted-translation.png?resize=1200,638"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6467d47a9748b3776441e295/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 638
+        height: 800
         isCached: true
 
 secured: "OF4FUpdiOVXZVNMSmFy2z7dnBMVJ7izLXLFeCuoxsH0AJLGu4Po6pGBD+3CMLq3l6oRe3foslblnZlwFoa5vZ9oMx19r3biZZ68ZHnNOIdqZHZxkxGzD0ClYbg8mtFEE9zNjJbySym4HrS7lu3QEKBmZeNtHXWXhuSMIcWVRI4qxGeN4PZS6ed9nWzF9W2HHuKI9SskDIj3VmFoBuV2MxGsBf5hCYp93WW0h0rDM0IhJn07m2Hea8MpGcyUwi7cdG4Ts4gPX0HzssqE0StPbDAcKntF4VlxsvVcDksZBWyPI4FsWa1c4+BXtrjCXBQbLTDmrceLvFxLRaoUlu+SdjlN+5uKGFaoHmVH0/yz7tUg=;S35RtsHYyoVHhNC+CT41Kg=="

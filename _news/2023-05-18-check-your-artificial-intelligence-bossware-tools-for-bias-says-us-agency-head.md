@@ -2,11 +2,11 @@
 category: news
 title: "Check your artificial intelligence 'bossware' tools for bias, says U.S. agency head"
 excerpt: "The head of the U.S. agency charged with enforcing civil rights in the workplace says artificial intelligence-driven “bossware” tools that closely track the whereabouts, keystrokes and productivity of"
-publishedDateTime: 2023-05-18T16:03:00Z
-originalUrl: "https://abcnews.go.com/Business/wireStory/check-artificial-intelligence-bossware-tools-bias-us-agency-99429865"
-webUrl: "https://abcnews.go.com/Business/wireStory/check-artificial-intelligence-bossware-tools-bias-us-agency-99429865"
-ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/check-artificial-intelligence-bossware-tools-bias-us-agency-99429865"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/check-artificial-intelligence-bossware-tools-bias-us-agency-99429865"
+publishedDateTime: 2023-05-18T16:06:00Z
+originalUrl: "https://abcnews.go.com/US/wireStory/check-artificial-intelligence-bossware-tools-bias-us-agency-99429860"
+webUrl: "https://abcnews.go.com/US/wireStory/check-artificial-intelligence-bossware-tools-bias-us-agency-99429860"
+ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/check-artificial-intelligence-bossware-tools-bias-us-agency-99429860"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/check-artificial-intelligence-bossware-tools-bias-us-agency-99429860"
 type: article
 quality: 51
 heat: 61
@@ -41,6 +41,6 @@ related:
         height: 1759
         isCached: true
 
-secured: "zxM0XQnOM1bg0S8ZTMFbE+D162OUeS99CoWIclQQEuj+fvIlEV/dRH1s6vxXO/+YRfdk7aVQZQynnY7ENGF3ynLNx/z/oVUTdlACzNaTs3c3R6ich5lIYabUeJpcUzXytA8Yko8yVdVimKYteHhXqNicaHp+gl2jrPSBhjwPthLnofP8wK5V1vgL+BoAkCbVxObH+pXgWwUSXOW7CNeWPkV5tcyb9S8xAh4WhYZnsfRXNC2dspUE7VaV1wVYthD8Ol6vw4ME0qT5kAfASlGcEgK9zjy1eKGtE7o6M2vY1EGp/8mq0c9PmGdNYS7CbbXCCyylcLBu5m2Pcj8EWxqFj0XMCqQYQbyGb4oeXS6i3E+BHz9GNJ/zrw+Uh10xTYZPbE9ZxYgk744FtQ4nxiqF7JGAJEqSB1OJYilyaE8NST3iGAHjZv4ygBUnVcJWKQOPiLMhYUJrnutiAUjVahqC4KyFL2R7E77p1MxvpwSrUMwsUGQa9zGpNNnrclOv62MIrNv+A3L+2jENqb/3FFaqzw==;5VXe6XH8IikRllnfluI0nw=="
+secured: "XKztwsNaznlfSBLw1uAx4mfZob+bau5ivVOs+VMbfn7Vo4WiITevnHWC1naJeFu4Edyy/5yFMv/s8yt/QCUWFuJupUfBuhMOuiukJFKpNASXgGLjiFnF5/bq7kU1MhWBZnHpQBelbSvwMBxJbGnhQ4puho4+8T5BJLTzXBU6xvDUKpEzmgXOAF+cmM8ysy95aRcwu+a6NXnnALz/qGZyiSPkSfi5qGYjX9aRWg2dRBTze++qqnOXvq5vXc+rJMVbVaCUAmCJI/os5xNfmxUyxdnVxAwLx0aKYmc35oZEcIY17cCxd3fNiBlPAF/qYHpjsy3VMTnhlLwi5IzDeTYzS9x+xbh8vZB/wjB4Khd+g40=;F6kCLbNClzYgn4zvMuwGGA=="
 ---
 

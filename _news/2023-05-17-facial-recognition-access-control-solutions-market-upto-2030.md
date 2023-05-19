@@ -141,20 +141,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Self-Driving or Driverless Cars Market upto 2030"
-    excerpt: "The Global Self-Driving or Driverless Cars market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players,"
-    publishedDateTime: 2023-05-15T01:53:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-or-driverless-cars-market-upto-2030-2023-05-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "P3sUd+ta24V2dhqmA3zUm6KOyQ+nYvzYlzmn4T30xytOKO2zySACIVG2Wt6E+kKroKUZtSE5XpxP7w8jyR0pv6Ew6a9TS08v4gPPT2J4E3ZmYO/F2zyUsvknsqRrORN0m+3r40+6REKZmfLEcYUiAn44ZQObkPUHITD9JIycjDuhK6BtzlcZfjYUaDkxKHIx6QrNdNaHVf7H2eshdeKw6XWFDe33vEvHNki/vca3f7vSzGvgFaA1N5vR1a1a/qrptOsECdss46JakmuinpGxd53vFBCjiJ/P0hhgBV4sx9sDkB76auyULA5CDowMd/5BhBZwPhiIk78PbLn4WKv1sSJ5Ry6NP2LxJiYQPWqUuXg=;pOtyDtqXvLVhAhJ2CPqEvg=="
 ---

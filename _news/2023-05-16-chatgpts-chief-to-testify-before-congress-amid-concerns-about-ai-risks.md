@@ -218,20 +218,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "ChatGPT’s Sam Altman Calls on Congress to Adopt Safety Standards for AI Systems"
-    excerpt: "Congress is looking to impose artificial-intelligence regulations, if it can reach a consensus."
-    publishedDateTime: 2023-05-16T14:05:00Z
-    webUrl: "https://www.wsj.com/articles/chatgpts-sam-altman-faces-senate-panel-examining-artificial-intelligence-4bb6942a?mod=hp_lead_pos3"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 63
-    images:
-      - url: "https://images.wsj.net/im-782620/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "ChatGPT chief says AI should be regulated by US, global agency"
     excerpt: "While Congress isn’t poised to act, U.S. agencies are promising to crack down on harmful AI products that break existing civil rights and consumer protection laws."
     publishedDateTime: 2023-05-17T04:39:00Z
@@ -291,22 +277,6 @@ related:
       - url: "https://img.digitimes.com/newsshow/20230519pd206_files/2_b.jpg"
         width: 640
         height: 427
-        isCached: true
-  - title: "ChatGPT boss calls on Congress for new agency to regulate artificial intelligence"
-    excerpt: "As this technology advances, we understand that people are anxious about how it could change the way we live. We are too,” OpenAI CEO Sam Altman testified."
-    publishedDateTime: 2023-05-16T16:58:00Z
-    webUrl: "https://www.syracuse.com/us-news/2023/05/chatgpt-boss-calls-on-congress-for-new-agency-to-regulate-artificial-intelligence.html"
-    ampWebUrl: "https://www.syracuse.com/us-news/2023/05/chatgpt-boss-calls-on-congress-for-new-agency-to-regulate-artificial-intelligence.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-syracuse-com.cdn.ampproject.org/c/s/www.syracuse.com/us-news/2023/05/chatgpt-boss-calls-on-congress-for-new-agency-to-regulate-artificial-intelligence.html?outputType=amp"
-    type: article
-    provider:
-      name: syracuse.com
-      domain: syracuse.com
-    quality: 52
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/24T6KPDC2BETDF6QUSNKH63WCM.jpg"
-        width: 4338
-        height: 2892
         isCached: true
   - title: "Are you using AI tools like ChatGPT in your day-to-day life? We want to hear from you"
     excerpt: "Artificial intelligence-powered tools such as ChatGPT have exploded online over the last several months. If you're using AI in your day-to-day life, CTVNews.ca wants to hear from you."
@@ -374,15 +344,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 47
-  - title: "ChatGPT’s Sam Altman Faces Senate Panel Examining Artificial Intelligence"
-    excerpt: "Photo illustration: Elena Scotti WASHINGTON—The chief executive of ChatGPT creator OpenAI is set to testify before a Senate panel Tuesday as lawmakers begin a bipartisan push toward regulating the powerful new artificial-intelligence tools available to ..."
-    publishedDateTime: 2023-05-16T09:30:00Z
-    webUrl: "https://www.wsj.com/articles/chatgpts-sam-altman-faces-senate-panel-examining-artificial-intelligence-4bb6942a"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 46
   - title: "ChatGPT's chief testifies before Congress, calls for new agency to regulate artificial intelligence"
     excerpt: "The head of the artificial intelligence company that makes ChatGPT told Congress on Tuesday that government intervention “will be critical to mitigate the risks of increasingly powerful” AI systems. O"
     publishedDateTime: 2023-05-16T16:36:00Z
@@ -454,20 +415,6 @@ related:
         width: 1080
         height: 538
         isCached: true
-  - title: "ChatGPT's Altman pleads US Senate for AI rules"
-    excerpt: "WASHINGTON - Sam Altman, the chief executive of ChatGPT's OpenAI, told US lawmakers on Tuesday that regulating artificial intelligence was essential, after his poem-writing chatbot stunned the world."
-    publishedDateTime: 2023-05-17T00:45:00Z
-    webUrl: "https://www.bangkokpost.com/world/2572409/chatgpts-altman-pleads-us-senate-for-ai-rules"
-    type: article
-    provider:
-      name: Bangkok Post
-      domain: bangkokpost.com
-    quality: 39
-    images:
-      - url: "https://static.bangkokpost.com/media/content/20230517/c1_4759179_700.jpg"
-        width: 700
-        height: 467
-        isCached: true
   - title: "ChatGPT/AI is coming for the workplace"
     excerpt: "Microsoft, in its latest “Work Trend Index” report, promises that the use of AI at work is the technology of that's going to make work easier"
     publishedDateTime: 2023-05-18T04:00:00Z
@@ -538,20 +485,6 @@ related:
         width: 1200
         height: 677
         isCached: true
-  - title: "ChatGPT’s chief calls for new federal agency to regulate AI"
-    excerpt: "And while there’s no immediate sign that Congress will craft sweeping new AI rules, as European lawmakers are doing, the societal concerns brought Altman and other tech CEOs to"
-    publishedDateTime: 2023-05-16T16:43:00Z
-    webUrl: "https://www.c4isrnet.com/federal-oversight/congress/2023/05/16/chatgpts-chief-calls-for-new-federal-agency-to-regulate-ai/"
-    type: article
-    provider:
-      name: C4ISRNET
-      domain: c4isrnet.com
-    quality: 37
-    images:
-      - url: "https://www.c4isrnet.com/resizer/mXwHQ7VIhta78WsJT7efTcguf28=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/archetype/WBTSLREOY5ER7KEUW5BJIK46PY.jpg"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "ChatGPT chief says AI should be regulated"
     excerpt: "The head of the artificial intelligence company that makes ChatGPT told Congress on Tuesday that government intervention will be critical to mitigating the risks of increasingly powerful AI systems."
     publishedDateTime: 2023-05-17T06:32:00Z
@@ -565,20 +498,6 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/custom/image/73769e9c-c54c-11ea-9ace-179ea39eeb22.jpg?resize=600%2C315"
         width: 600
         height: 315
-        isCached: true
-  - title: "ChatGPT’s chief calls for new federal agency to regulate AI"
-    excerpt: "And while there’s no immediate sign that Congress will craft sweeping new AI rules, as European lawmakers are doing, the societal concerns brought Altman and other tech CEOs to"
-    publishedDateTime: 2023-05-17T15:30:00Z
-    webUrl: "https://www.airforcetimes.com/federal-oversight/congress/2023/05/16/chatgpts-chief-calls-for-new-federal-agency-to-regulate-ai/"
-    type: article
-    provider:
-      name: Air Force Times
-      domain: airforcetimes.com
-    quality: 37
-    images:
-      - url: "https://www.airforcetimes.com/resizer/mXwHQ7VIhta78WsJT7efTcguf28=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/archetype/WBTSLREOY5ER7KEUW5BJIK46PY.jpg"
-        width: 1024
-        height: 683
         isCached: true
   - title: "Apple Bans Employees From Using ChatGPT Amid Its Own AI Efforts"
     excerpt: "Apple has restricted employee use of ChatGPT and other external artificial intelligence utilities amid the development of its own similar"
@@ -746,15 +665,6 @@ related:
     provider:
       name: Las Vegas Sun
       domain: lasvegassun.com
-    quality: 17
-  - title: "Senate panel begins AI examination; ChatGPT CEO Sam Altman testifies"
-    excerpt: "\"It is essential that powerful AI is developed with democratic values in mind, and this means that US leadership is critical,\" said ChatGPT CEO Sam Altman."
-    publishedDateTime: 2023-05-16T14:42:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2023/05/16/mr-altman-goes-to-washington.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
     quality: 17
   - title: "ChatGPT chief calls for AI rules"
     excerpt: "The head of the artificial intelligence company that makes ChatGPT told Congress on Tuesday that government intervention will be critical to mitigating the risks of increasingly powerful AI systems."

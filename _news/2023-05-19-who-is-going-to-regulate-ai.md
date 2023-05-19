@@ -40,6 +40,20 @@ related:
         width: 2500
         height: 1250
         isCached: true
+  - title: "Who Is Going to Regulate AI?"
+    excerpt: "As businesses and governments race to make sense of the impacts of new, powerful AI systems, governments around the world are jostling to take the lead on regulation. Business leaders should be focused on who is likely to win this race,"
+    publishedDateTime: 2023-05-19T17:13:00Z
+    webUrl: "https://hbr.org/2023/05/who-is-going-to-regulate-ai"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 37
+    images:
+      - url: "https://hbr.org/resources/images/article_assets/2023/05/May23_28_5389503.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "How do you solve a problem like out-of-control AI?"
     excerpt: "Meanwhile, in Europe, lawmakers are edging closer to a final deal on the AI Act. Last week members of the European Parliament signed off on a draft regulation that called for a ban on facial recognition technology in public places. It also bans predictive policing, emotion recognition, and the indiscriminate scraping of biometric data online."
     publishedDateTime: 2023-05-16T08:45:00Z
@@ -50,6 +64,6 @@ related:
       domain: technologyreview.com
     quality: 17
 
-secured: "YiAqohKEOh6Yowl6P5nwKQOokxAMV4Ok+Bthn0ceTuD00gIa1OhHli5JpbowUOM+umu3Ffs32ksRn/ASlhb4PhtzBfV8VTjO6kljQVX0LrWtlMiwZU+S2HBMbAYc8+gSYfPEhedICQBPnI/R62dWKPLh1A5vhZSKfxzD/BVwquCEwpYC4P/FkgVhl/ntjZ8UyOe9AQYqhU1YQoHnX/Sj95bIQYKhRNIOrEkf560qRCJXnRf+0QvfrsgK4nWvfYRjUCr2cN+0ee4lFylhwxFLp36AqL2tUFCHF4i08rB2esV9hCwXSMnA7bjeQN5r5oxOGVmChMuyuBtTOORRIPAXSnn4qfNOz2tuufPujkHSUL8=;3ovzmh+TipN2QUJaTGOeNQ=="
+secured: "JyRhx2I/w67tob1EGj5uUB6wL6r8oV4hjRrWcBflDjQUAqfrVHidHslA35gMdvDUYwf7s/NReKCJIq/0ATVUVa1+XomqwVh3Ojqu5LlpKsN0Vthx7Am0AGboELhCr7NVq6Mwxgyy9PC+0VopipITSe/doid+zRBOsQ0B3ZNGZIR72jMyvdfJgJC/YjqHOYOV0zmrER3UXhDcGfHDP8qpd95HUS34H6x0SfACHwda+gHtg6jrD48Lx28ePf3Uwg42Gd9yUxwLCvpAot7Q8dfroPdT262ddq/KlcCAe/qLWbcfiLNeLu6fglfymJvkrkPoZ6XewKgEOHwwaAsUrrCgF/rpaVanm1gnZRQrwKhGUC3dqesdGmQtgmjnjFoKC6GZtb9UlJ37jwVYlUdqls/lkIOtygKgw8OU3Ze4MX24wKwjXeDmorvb4CQKMCvtuB17VJ5SnqruN9/6wDjG6qnuWeIXQ9Nhv9wz6oDg9uuDVYArvFxx6iY3cHObPa7l6iMA6+bOGrCxCAREO7O9/tEcWw==;C1VYCz4Tfs+z0S3l3ZeBUQ=="
 ---
 

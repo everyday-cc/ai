@@ -1,27 +1,29 @@
 ---
 category: news
 title: "TSA is testing facial recognition at more airports, raising privacy concerns"
-excerpt: "The agency tasked with securing America's airports is testing the use of facial recognition technology at a number of airports across the country. The Transportation Safety Administration says the tec"
-publishedDateTime: 2023-05-15T19:29:00Z
-originalUrl: "https://omaha.com/lifestyles/technology/tsa-is-testing-facial-recognition-at-more-airports-raising-privacy-concerns/article_1960d054-fedf-59b8-a1ed-b6d087e61991.html"
-webUrl: "https://omaha.com/lifestyles/technology/tsa-is-testing-facial-recognition-at-more-airports-raising-privacy-concerns/article_1960d054-fedf-59b8-a1ed-b6d087e61991.html"
+excerpt: "The agency tasked with securing America's airports is testing the use of facial recognition technology at a number of airports across the country"
+publishedDateTime: 2023-05-15T20:16:00Z
+originalUrl: "https://abcnews.go.com/US/wireStory/tsa-tests-facial-recognition-technology-boost-airport-security-99322460"
+webUrl: "https://abcnews.go.com/US/wireStory/tsa-tests-facial-recognition-technology-boost-airport-security-99322460"
+ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/tsa-tests-facial-recognition-technology-boost-airport-security-99322460"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/tsa-tests-facial-recognition-technology-boost-airport-security-99322460"
 type: article
-quality: 51
+quality: 71
 heat: -1
 published: false
 
 provider:
-  name: Omaha.com
-  domain: omaha.com
+  name: ABC
+  domain: abcnews.go.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/9/e7/9e729762-a89b-5a79-9f4d-c13f116cf8fa/6461b5a12f579.image.jpg?crop=1763%2C926%2C0%2C125&resize=1200%2C630&order=crop%2Cresize"
-    width: 1200
-    height: 630
+  - url: "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -526,6 +528,6 @@ related:
       domain: extremetech.com
     quality: 19
 
-secured: "90nvAO6TrL4dbLevzjxn72LS1qSSBPlLyJgVmoClR06VYCMG8coTjTG3/Xeqgn/1cPDgakvgNssGpxkBWMqFvxkQtFeWJAzRJJbjb4paEZJJ9flc7aoYwK8rdkcCq6f/1cGDDDyVw5jJdcsoBwfVSAczPbLyDWqKHN+GSDbo8Lij9NvaT+kiSQcnFR6vRY3N5gjqElk8Vf8MzvmiuJrdsWfBXydppt7oDirzvL3L4TCI0gGbUs9+utXKYY9wbCgFtq1jFqb+3S7DRG0VJe1RD1dxlkpyrcMJpw0LGj4+G1k8gRsRuRpqQIb+DItARqGGwx/qk1lddRGFH+KGJMLFFM9gtVpuVJi8B8bga9++ibs=;sryYDXEtxEP0+WIo9IkEaA=="
+secured: "hhwhLzEjymf3ArgfUo0UCvrTMODcvimTtrREvgB2Ssf7Mwx5eiLYFtWflujR56GyMpAa9TvpeVVUCfQTcMas59mFsjb8qSv282Yy5ufQKT7zHJKKmyxFosV/hQQtr5cUgF7HLXPvq3nlw3isDFix0kF0Z3J19w2cKsuZiauByD6o2nD2RFYbU4fHESTLePF3Gd0c4GdJAKx0PJl64D4pvvwCj22ahNjHRadzkF7B0itjcfgqR4iAjAky15hifn53xXrypIloS0v7c+6KhFGOHnD0B1M2jJSGHpBmfv5SZv20BQBto2pkTQ0f0HQklzxcN/aeG6T5xHzEJFOMu+aOxsDIx0ZGs0DutDFeEdPzHiE=;7q36NeAtBJvwXkYoURa9EA=="
 ---
 

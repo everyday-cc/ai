@@ -19,17 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "King’s College London’s flagship “Science Gallery London” explores the ethics of AI"
-    excerpt: "Who’s Looking After Me?’. The free exhibition and events programme, running from 21 June 2023 - 20 January 2024, will explore who holds the power, who distributes the benefits, and who bear"
-    publishedDateTime: 2023-05-15T03:02:00Z
-    webUrl: "https://indiaeducationdiary.in/kings-college-londons-flagship-science-gallery-london-explores-the-ethics-of-ai/"
-    ampWebUrl: "https://indiaeducationdiary.in/kings-college-londons-flagship-science-gallery-london-explores-the-ethics-of-ai/"
-    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/kings-college-londons-flagship-science-gallery-london-explores-the-ethics-of-ai/"
-    type: article
-    provider:
-      name: India Education Diary
-      domain: indiaeducationdiary.in
-    quality: 48
   - title: "Relativity Champions Purpose-Driven AI at Relativity Fest London"
     excerpt: "The company shares plans for generative AI innovation, product advancements and celebrates its EMEA community LONDON, May 16, 2023 /PRNewswire/ -- Relativity, a global legal technology"
     publishedDateTime: 2023-05-16T09:38:00Z

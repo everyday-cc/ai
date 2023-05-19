@@ -197,6 +197,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Generative AI For Business Leaders 101"
+    excerpt: "AI stands for \"artificial intelligence,\" which is the simulation of human intelligence in machines to perform tasks that typically require human intelligence, such as decision making, perception and language translation. AI is powered by various techniques ..."
+    publishedDateTime: 2023-05-19T14:05:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/19/generative-ai-for-business-leaders-101/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 49
   - title: "Going Beyond Generative AI To Truly Solve Productivity"
     excerpt: "With generative AI output, it’s important to note that the information provided is usually of a descriptive or informative nature."
     publishedDateTime: 2023-05-17T13:45:00Z
@@ -289,6 +298,6 @@ related:
       domain: computerworld.com
     quality: 17
 
-secured: "ojxK/6mxYEeOjFB4mPVvML892bVoZh709snTHfHNF/rP4JiVIkNEn8wkIPsKdnEjcWQb4M+8BkL/QtB5DrDWungAR9qkYA1z7hRdq8NLEyM5PhCRq3fwmS7cXh2nekkmWlHIdLR3KmYwBHmih2E5NCJMcQeNyBqcqVGfJVqqtplEoRwoEHfsIiadcPxlVzgeSzwq8oj7wjPJgu3jPBL1XAVjIudI/PTLrc5N1cVSZqmwGP+p90Soo0aBZXfHWiCpkUrzrwCQr9dteoCix2fnBtb1g9X1OJSH7tM8SnYPHjKay4CuiEVSkeICeHpN2/NsoIB0e/Aly0NSNvzNGuqjVxuc1ZUUlsgdTEmxP9k5ebk=;ASD3ePahuIpTC156xw5a4Q=="
+secured: "TtuPrpn0ZeLi8RWKEME/EEylNYY8xH3VRZKGmMCiE3vn1ir4iDuZDQr4w25IZiHRuM73qxjxTjwyBu4JfeaC4MnSzzJtqNLpdSGSmpLf9ITnFWiwDmVINi1PBt+Xr6Zf/oCVd7CHfZXc1heMvRhE6MWisgHF0mIEVFEbZ4QQuFGtPkAb9m57TqO2OUXGXgQERgjJ5NsMcHimYk65kTU+yJcfVK4vViVcn1HOdBiW2LYPNrJUSGA+/GrhAtUQfPLpxVbdh1+/Jcg4S86LbKo2CoNNr1oaUwBbj6el9wHllOSYbqd+3xbXEH2BYMaZj/GV65qzsvHT04hCNPy8UOuLEWdHoAWqgWK2XRO3tpyjiLTqyY9Me3K7HWVsnmyPLrJSSCaR3ZPrUVkJ53kj6GsB1DVb2b8EjDwC/ul9nbOFQPfsA5E1txm7N6J7kNwNAOwy+O9qRabBvCO1+wwZLnawA3F+8LmWiP8wX6Qv7IwIN17elPQwhmfNk2dD8YL0z2eF3qyoy7VPLZp9cPLIw3kKlQ==;bejG/OpY0vEZiuEz6gkMUQ=="
 ---
 

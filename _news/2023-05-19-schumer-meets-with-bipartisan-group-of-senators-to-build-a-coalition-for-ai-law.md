@@ -34,6 +34,15 @@ related:
       name: Fox News
       domain: foxnews.com
     quality: 49
+  - title: "U.S. lawmakers grapple with regulating artificial intelligence"
+    excerpt: "U.S. lawmakers will hear from artificial intelligence experts on Tuesday as Congress grapples with how to regulate AI, a field that has seen explosive advances and a boom in popularity over the past year."
+    publishedDateTime: 2023-05-16T08:53:00Z
+    webUrl: "https://www.cnn.com/videos/us/2023/05/16/exp-senate-hearing-artificial-intelligence-lori-schwartz-intv-051602aseg1-cnni-us.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 47
   - title: "Schumer eyes regulation of burgeoning AI industry"
     excerpt: "Schumer been meeting for months with tech leaders like Tesla CEO Elon Musk to develop a regulatory framework to guide a burgeoning field that's big at the University at Buffalo and that has the potential to remake society."
     publishedDateTime: 2023-05-15T10:15:00Z

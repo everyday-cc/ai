@@ -131,6 +131,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "One thing that could ruin Yes vote in Voice to parliament referendum"
+    excerpt: "The Yes campaign for First Nations recognition in the constitution and an Indigenous Voice is finally building up steam."
+    publishedDateTime: 2023-05-19T20:56:00Z
+    webUrl: "https://www.news.com.au/national/politics/one-thing-that-could-ruin-yes-vote-in-voice-to-parliament-referendum/news-story/1abf12c53e4150cec0e8335697a63d38"
+    ampWebUrl: "https://www.news.com.au/national/politics/one-thing-that-could-ruin-yes-vote-in-voice-to-parliament-referendum/news-story/1abf12c53e4150cec0e8335697a63d38?amp"
+    cdnAmpWebUrl: "https://www-news-com-au.cdn.ampproject.org/c/s/www.news.com.au/national/politics/one-thing-that-could-ruin-yes-vote-in-voice-to-parliament-referendum/news-story/1abf12c53e4150cec0e8335697a63d38?amp"
+    type: article
+    provider:
+      name: Couriermail
+      domain: news.com.au
+    quality: 24
   - title: "The NRL must throw its support behind the Voice"
     excerpt: "In this case, supporting the Indigenous Voice to Parliament is fundamental to respecting its Indigenous council and playing cohort. “Recognition and listening. That’s how we can make a practical difference and move Australia forward for everyone ..."
     publishedDateTime: 2023-05-15T18:49:00Z

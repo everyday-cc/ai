@@ -24,22 +24,6 @@ images:
     height: 507
     isCached: true
 
-related:
-  - title: "Artificial Intelligence is Booming, How Should it Be Regulated?"
-    excerpt: "BKC Responsible AI Fellow Rumman Chowdhury discusses ideas for regulating AI with KQED."
-    publishedDateTime: 2023-05-15T03:05:00Z
-    webUrl: "https://cyber.harvard.edu/story/2023-05/artificial-intelligence-booming-how-should-it-be-regulated"
-    type: article
-    provider:
-      name: Harvard Medical School
-      domain: harvard.edu
-    quality: 37
-    images:
-      - url: "https://cyber.harvard.edu/modules/custom/bkc_home/images/bkc_logo_social_share_default.jpg"
-        width: 1000
-        height: 500
-        isCached: true
-
 secured: "T2AEjRhVEeS9npTbOpNnU6QPBmgb2CqciWHDbjnU8r+VacHQy2/ESSvP23jAEC2LKI3EfBuz3JrA+Z7/gs4wXELVpJBl7/jI4Mm7mYiZl2LP1QskYZzRWdLMqWaJAin3zjkxcQj3sN7IOd1WDSxlbS/Ey6su5jRjxmdIDbcyP93Zwxr43BsKlCDneq1kOCWDySLT+mR7tT8BzXcQ+WVG5dk8wPYrZVTgkCnZJsifxA4CN9lHZnf8XXZq7H6u6Td7zXOYOtzf9IvYoBEI3tr2wB/EuaPNdudnBrLjHYUe2HZiApO/xVKKCFFV7d7jgqdlZtsHVCscuVmAh5YeIo8yN3r323hLVBZQ2RURPzFtR/rPAljDRt3Ujt7gPM9afN8/Kv16CNlvveZeZaG/4Ykyr74xoQodjWB6LE9eeZZOWPid6dXonCskVCLNt4KRtNo/S+QS5heyv7usSXntydBZVEGq92C8SP/wxmCnRofE3ia1bmcT6xzZXubJQvBLOPwvh+d6iqRhJhDrG5xnxBrFLQ==;SRNN1CQGhqBU1xbGC+Q4/A=="
 ---
 

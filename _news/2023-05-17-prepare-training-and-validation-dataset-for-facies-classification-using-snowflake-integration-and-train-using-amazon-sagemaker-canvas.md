@@ -37,6 +37,15 @@ related:
         width: 1260
         height: 627
         isCached: true
+  - title: "Introducing an image-to-speech Generative AI application using Amazon SageMaker and Hugging Face"
+    excerpt: "Vision loss comes in various forms. For some, it’s from birth, for others, it’s a slow descent over time which comes with many expiration dates: The day you can’t see pictures, recognize yourself, or loved ones faces or even read your mail. In our previous blogpost Enable the Visually Impaired to Hear"
+    publishedDateTime: 2023-05-19T18:11:25Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/introducing-an-image-to-speech-generative-ai-application-using-amazon-sagemaker-and-hugging-face/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 71
   - title: "Build a serverless meeting summarization backend with large language models on Amazon SageMaker JumpStart"
     excerpt: "AWS delivers services that meet customers’ artificial intelligence (AI) and machine learning (ML) needs with services ranging from custom hardware like AWS Trainium and AWS Inferentia to generative AI foundation models (FMs) on Amazon Bedrock. In February 2022, AWS and Hugging Face announced a collaboration"
     publishedDateTime: 2023-05-17T19:04:06Z

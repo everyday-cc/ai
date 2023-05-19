@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Is artificial intelligence the right technology for risk management?"
-    excerpt: "Despite regulatory issues and doubts over reliability, many believe AI will become more common in financial institutions"
-    publishedDateTime: 2023-05-15T04:00:00Z
-    webUrl: "https://www.ft.com/content/ca4e6538-00fe-4c75-b664-90b4b4079863"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 17
   - title: "Governments and Enterprises in the Middle East Join Forces to Drive AI Innovation at World AI Show"
     excerpt: "Initiatives such as the Dubai AI Ethics Board have been launched to ensure ethical use of AI, while heavy investment in AI research and development is also underway. Enterprises in Dubai are leveraging AI technologies to improve their operations ..."
     publishedDateTime: 2023-05-18T19:40:00Z

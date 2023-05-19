@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2020/09/24/singapore-looks-to-artificial-in
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/09/24/singapore-looks-to-artificial-intelligence-ai-to-boost-tourism.html"
 type: article
 quality: 86
-heat: 96
+heat: 86
 published: true
 
 provider:
@@ -29,17 +29,6 @@ images:
     width: 5568
     height: 3712
     isCached: true
-
-related:
-  - title: "Medtronic Wins Top Recognition as Singapore’s Best Workplace and Best Employer"
-    excerpt: "SINGAPORE - Media OutReach - 15 May 2023 - Medtronic has received the top accolades recognizing the best workplace culture and people practices: Ranked first in the Singapore's Best Workplaces™ in"
-    publishedDateTime: 2023-05-15T02:00:00Z
-    webUrl: "https://www.sinchew.com.my/20230515/medtronic-wins-top-recognition-as-singapores-best-workplace-and-best-employer/"
-    type: article
-    provider:
-      name: sinchew
-      domain: sinchew.com.my
-    quality: 0
 
 secured: "BbiHpNbE9ncozRQpdZGmMLfPcy/dhLt+rQnGa0X2H8rfjqMgN75l1l1c/FxjDpt5x+zNEhRwfxvIrsIG7aK8N9dCMWh8LAHqd5qas/j7hUkjdDKziOKp5OK3AMYt1ttJForO4Rq9/OBsQqazSeChQ9c7n27MlYobV4/iMkhaPJVKRKAksT9rkYoPD5RDFfn6WTtX4YgwcNAmVVheuvDP/UgzpBhjHFUCajaV90nKUjPtx1wQlQmUjTDffgHF+j63wzd/Lq/6EwvMu580R6yEb+WpxS9NVpNvQb98XyWhBhVXvVCMxj+EOpUdkCAwKdwPGQqBUDtML5M3q8jdMXEZK1JZ6kB4NA+VIXB+ZbYr20U=;FexMSU9wzDGzvt3UAAy7mg=="
 ---

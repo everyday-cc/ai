@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/emmylucas/2023/05/18/instawork-raises
 webUrl: "https://www.forbes.com/sites/emmylucas/2023/05/18/instawork-raises-60-million-to-expand-ai-tech-in-new-funding-round/"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -37,15 +37,6 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 16
-  - title: "AI-based eye disease detection startup raises $18 million from US investors"
-    excerpt: "Eyetelligence uses AI technology and retinal imaging to screen for eye and other diseases, and will launch in the US as Optain."
-    publishedDateTime: 2023-05-15T02:55:00Z
-    webUrl: "https://www.startupdaily.net/topic/funding/ai-based-eye-disease-detection-startup-raises-18-million-from-us-investors/"
-    type: article
-    provider:
-      name: Startup Daily
-      domain: startupdaily.net
-    quality: 15
 
 secured: "iEg6NKn2f3XPC42EPG8+OeU3MLddAQA4/PGqN1qvBN3emat23ggWtKa9G5J0nqa6xrCjPq+C75U8MgiALYLCDUmaIWAOqfze0gdtTJPuQ9rabjlrDxqOIOi/Bam5jMNqv0kN5PKV1VIpaP+G0yL7ior9GMuVjWY/PhvjMNnnxn4M1tive9rRSjNpZM8TKsVQ4goF784oUxwhHN6fdybXmhwTO4rEB8dzFne1d5lSpR8fAyA42LGAJee1eilhsw9jDSLiSHVe3/2OfsxZ56nAPj2O9n+BpoOfFsNvkJmbIu3Brh3p7AiN0LZ4jvz+Cpk9nZMZEkEflwdS90t3WEnB2g59j8uuDgeXW0l8WEVfMH0p3/iR5NblBWcChTEbL32uB7TNwixqtM7WKnvexlpSoqBmgod/2XE0Rpyhoceb1xkrZs+E/Tl7ba3roCIaG+/VoZcFQsp9/hO8FD3l67M01/H8tLH62okjltjpktP2zijEJOCJquYRjigwm+cyY+s/aMVR9oLQM8Ei44IcdLD4aA==;+42co06AHhPVThiou1pvyg=="
 ---

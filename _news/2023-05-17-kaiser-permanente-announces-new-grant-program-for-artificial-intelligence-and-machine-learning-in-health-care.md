@@ -7,8 +7,8 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/kaiser-permanente-
 webUrl: "https://markets.businessinsider.com/news/stocks/kaiser-permanente-announces-new-grant-program-for-artificial-intelligence-and-machine-learning-in-health-care-1032334654"
 type: article
 quality: 62
-heat: -1
-published: false
+heat: 82
+published: true
 
 provider:
   name: Business Insider
@@ -24,21 +24,33 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "The Race Intensfies: Google Announces Bold Progress In AI, Advancing Med-PaLM 2 For Healthcare"
-    excerpt: "AI has been all the buzz in both Silicon Valley and around the world for the last few months, especially after the release of Chat-GPT and advanced generative AI systems. This has triggered somewhat of a frantic rat-race amongst tech giants: everyone wants a piece of the AI pie, and the race to the top is intense."
-    publishedDateTime: 2023-05-15T04:36:00Z
-    webUrl: "https://www.forbes.com/sites/saibala/2023/05/15/the-race-intensfies-google-announces-bold-progress-in-ai-advancing-med-palm-2-for-healthcare/"
-    ampWebUrl: "https://www.forbes.com/sites/saibala/2023/05/15/the-race-intensfies-google-announces-bold-progress-in-ai-advancing-med-palm-2-for-healthcare/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/saibala/2023/05/15/the-race-intensfies-google-announces-bold-progress-in-ai-advancing-med-palm-2-for-healthcare/amp/"
+  - title: "Kaiser creates new AI, machine learning grant program"
+    excerpt: "The Permanente Medical Group, part of Oakland, Calif.-based Kaiser Permanente, has launched a new AI and machine learning program that will grant three to five health systems up to $750,000. The program, dubbed the Kaiser Permanente Northern California ..."
+    publishedDateTime: 2023-05-17T14:53:00Z
+    webUrl: "https://www.beckershospitalreview.com/innovation/kaiser-creates-new-ai-machine-learning-grant-program.html"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 92
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 54
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6461b63580f36a6d14cef342/0x0.jpg?format=jpg&crop=6058,3406,x0,y61,safe&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "Can AI and machine learning help agencies lower costs and boost performance?"
+    excerpt: "In this episode of Performance Talks, we look at how artificial intelligence (AI) and machine learning can help agencies design and deliver their most efficient campaigns."
+    publishedDateTime: 2023-05-18T02:00:00Z
+    webUrl: "https://www.thedrum.com/news/2023/05/18/can-ai-and-machine-learning-help-agencies-lower-costs-and-boost-performance-0"
+    type: article
+    provider:
+      name: The Drum
+      domain: thedrum.com
+    quality: 51
+    images:
+      - url: "https://thedrum-media.imgix.net/thedrum-prod/s3/news/tmp/913190/adobestock_213593664-article.jpg?w=1280&ar=default&fit=crop&crop=faces,edges&auto=format"
+        width: 1280
+        height: 640
         isCached: true
 
 secured: "nmeoLxPc4YeG6AH1/BrbMwYEUcqA5sp45RgJcG8ze7AUOUMl6GZKJWAlttUY9zqtCrymm0hPqoSPDf8Av2QXMpl23YIwsmQymuAKEvuFEeiE0rvRdTzPVlg7+M+qxQGYO7ILWlbHMLKwTiAnRe26ipS2VGufx761aDBqtv8HDtvZeWxLO9yuoRyuWhEc6mtbnndj/HyK6suygLeWk8fLiZrkMrGS+rKkrX5VSX1fN0VPyUiuPtmehuzclhOOq+Bk9UFYsCDQtwdkslQF8q8Y6PYhApFItKu4QNLHYn1sMevy17wwT/u3aEDY24NFoSmLK9BL3eK8X+QK5dhf98A+bu9aokcJTx23YLRQ4fyOoRI=;Lzzr3xEtWeIhefAIhWBMlg=="

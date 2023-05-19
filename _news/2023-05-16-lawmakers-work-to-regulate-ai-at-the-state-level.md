@@ -27,22 +27,31 @@ images:
     isCached: true
 
 related:
-  - title: "US senator introduces bill to create a federal agency to regulate AI"
-    excerpt: "Days after OpenAI CEO Sam Altman testified in front of Congress and proposed creating a new federal agency to regulate artificial intelligence, a US senator has introduced a bill to do just that."
-    publishedDateTime: 2023-05-18T09:00:00Z
-    webUrl: "https://www.cnn.com/2023/05/18/tech/bennet-digital-regulator-bill-ai-provisions/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2023/05/18/tech/bennet-digital-regulator-bill-ai-provisions/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/05/18/tech/bennet-digital-regulator-bill-ai-provisions/index.html"
+  - title: "'Congress is clearly behind on AI' and needs bipartisan effort to create regulations: Lawmakers weigh in"
+    excerpt: "Foreign allies and adversaries alike have pushed AI regulations, but Congress has stalled. Lawmakers told Fox News bipartisan efforts are needed to regulate the space."
+    publishedDateTime: 2023-05-15T16:59:00Z
+    webUrl: "https://www.foxnews.com/politics/congress-clearly-behind-ai-needs-bipartisan-effort-create-regulations-lawmakers-weigh"
+    ampWebUrl: "https://www.foxnews.com/politics/congress-clearly-behind-ai-needs-bipartisan-effort-create-regulations-lawmakers-weigh.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/congress-clearly-behind-ai-needs-bipartisan-effort-create-regulations-lawmakers-weigh.amp"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 87
+      name: Fox News
+      domain: foxnews.com
+    quality: 70
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/230517144152-senator-michael-bennet-file-restricted-super-tease.jpg"
-        width: 1100
-        height: 619
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f97a7577-9354-4bc3-9bb7-afb87838f734/c9cc4df0-e932-48e8-8170-670b150180ac/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
+        width: 1200
+        height: 675
         isCached: true
+  - title: "Congress wants to regulate AI, but it has a lot of catching up to do"
+    excerpt: "Senate Majority Leader Chuck Schumer is trying to lead an effort to craft groundbreaking legislation to install safeguards around artificial intelligence. But lawmakers have a lot to learn."
+    publishedDateTime: 2023-05-15T12:22:00Z
+    webUrl: "https://www.mprnews.org/story/2023/05/15/npr-congress-wants-regulate-ai-artificial-intelligence-lot-of-catching-up-to-do"
+    type: article
+    provider:
+      name: MPR News
+      domain: mprnews.org
+    quality: 19
 
 secured: "EwAKpE27zAD5/yNXucf7zJVV0Wq9y1bzeoNe08tLv3wBH365Qpp3x46LaadcNJX1FE1G2iTbGXT16/1y/299dGNtry8knxGwqQqOU9akjkH6V0DAS32bMB/ixcu1lJK1tcG4oXXSHclvf8g0JuRhg+QyA//vIalF7fW7sF0PEyLCasgEgq8KIkwYQ393k+oR/LYz/iKiAZaFZm1kKRggUwu84X8k9Y5APBCnNi4gTByeyvw5lz34FeWvG6O47FXFR5FLh80FrRg+3eKIPzA6tmqiv/+7KGPkOJnbPAUHbfGOCNqxtOTmXuwVOiy5aAZca3bwnXvuiqAXG07WCiWU2GEHTX5S22FqqiOUzykjPOE=;F1vIHTWk04s1SdN/27OyQA=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.therobotreport.com/robotics-awarded-first-patent-for-i
 webUrl: "https://www.therobotreport.com/robotics-awarded-first-patent-for-its-robotic-window-cleaning-system/"
 type: article
 quality: 84
-heat: 84
+heat: 85
 published: true
 
 provider:

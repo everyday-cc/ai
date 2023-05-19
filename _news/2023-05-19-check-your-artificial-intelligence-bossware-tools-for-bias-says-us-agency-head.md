@@ -26,10 +26,10 @@ images:
 related:
   - title: "Check your artificial intelligence 'bossware' tools for bias, says U.S. agency head"
     excerpt: "The head of the U.S. agency charged with enforcing civil rights in the workplace says artificial intelligence-driven “bossware” tools that closely track the whereabouts, keystrokes and productivity of"
-    publishedDateTime: 2023-05-18T16:03:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/check-artificial-intelligence-bossware-tools-bias-us-agency-99429865"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/check-artificial-intelligence-bossware-tools-bias-us-agency-99429865"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/check-artificial-intelligence-bossware-tools-bias-us-agency-99429865"
+    publishedDateTime: 2023-05-18T16:06:00Z
+    webUrl: "https://abcnews.go.com/US/wireStory/check-artificial-intelligence-bossware-tools-bias-us-agency-99429860"
+    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/check-artificial-intelligence-bossware-tools-bias-us-agency-99429860"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/check-artificial-intelligence-bossware-tools-bias-us-agency-99429860"
     type: article
     provider:
       name: ABC
