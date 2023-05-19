@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/ibm-hybrid-cloud-mesh-reimagining-multicl
 webUrl: "https://www.ibm.com/blog/ibm-hybrid-cloud-mesh-reimagining-multicloud-networking-with-applications-taking-center-stage/"
 type: article
 quality: 90
-heat: 110
+heat: 120
 published: true
 
 provider:
@@ -58,6 +58,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Reimagining Meta’s infrastructure for the AI age"
+    excerpt: "With its AI compute needs set to grow dramatically, Meta has announced custom chips for running AI models and video, a new AI-optimised data centre design, and phase 2 of its 16 000 GPU supercomputer for AI research."
+    publishedDateTime: 2023-05-19T09:13:00Z
+    webUrl: "https://it-online.co.za/2023/05/19/reimagining-metas-infrastructure-for-the-ai-age/"
+    type: article
+    provider:
+      name: IT-Online
+      domain: it-online.co.za
+    quality: 19
 
 secured: "WNHoHKOcEx1MCQ3r4FW9c4gwWcVcnDueyg1w81Da4TJ46dTL1QJ1zHVMqIPgA4GvLgLRKFMG+dP2UBA4bjN94FXoN2biNSD6TG9Ada8m9E598R9w6K623b79c1X3gZTCIe8wOM4FD6GdvxqYxRa7O1MomSbPaiN7ieQCvk9gpj1eS2pUCFhSMvdBKQ5vuvsHSoFGPiKCyOJ6iH9JDUigaonrSEcgl7sqZ9IrS5aslIN26oL9TYC+i8FViEl5lF+k1G6ah9fwFrD0lVwmJ6fZluYtK86Ekf5zp29/zifO9Hm2awCyob4AtGnLqf/XKHQ9LMhaNLQkqFLIfyriyE5mo3iQd8+jo1/2UnYX2Wnl8VA=;Z33Cym2fVQKCDEhTsZ/SaQ=="
 ---

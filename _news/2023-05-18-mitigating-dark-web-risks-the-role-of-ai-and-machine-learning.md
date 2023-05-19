@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/18/mitigating
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/05/18/mitigating-dark-web-risks-the-role-of-ai-and-machine-learning/amp/"
 type: article
 quality: 104
-heat: 135
+heat: 125
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Dangers of AI: What are the Artificial Intelligence threats and risks?"
-    excerpt: "Although AI has been hailed as revolutionary and a game-changer, it has drawbacks. In addition to planning for superintelligent computers, contemporary AI can bring problems. Let's take a look at some crucial AI-related risks."
-    publishedDateTime: 2023-05-14T15:08:00Z
-    webUrl: "https://www.moneycontrol.com/news/technology/dangers-of-ai-what-are-the-artificial-intelligence-threats-and-risks-10585221.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/technology/dangers-of-ai-what-are-the-artificial-intelligence-threats-and-risks-10585221.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/dangers-of-ai-what-are-the-artificial-intelligence-threats-and-risks-10585221.html/amp"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 74
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2023/05/AI-2.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "AI Risks: The Need to Define AI Ethics and Rules"
     excerpt: "While tech industry veterans are concerned about AI and its potential risk, it raises the question of whether to ban AI or enforce ethical restrictions."
     publishedDateTime: 2023-05-18T14:02:00Z

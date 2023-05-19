@@ -56,6 +56,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Reimagining Meta’s infrastructure for the AI age"
+    excerpt: "With its AI compute needs set to grow dramatically, Meta has announced custom chips for running AI models and video, a new AI-optimised data centre design, and phase 2 of its 16 000 GPU supercomputer for AI research."
+    publishedDateTime: 2023-05-19T09:13:00Z
+    webUrl: "https://it-online.co.za/2023/05/19/reimagining-metas-infrastructure-for-the-ai-age/"
+    type: article
+    provider:
+      name: IT-Online
+      domain: it-online.co.za
+    quality: 19
 
 secured: "enYzj6K9ZQ9d3asJDYgIKs7GV261MbYYRaGCxkQ4EGFgBfRtQZ9cOuPKvCqK/vrlzbIiZckP/nToUGvp/ihUsKc7K5M0MlNa72V3LyhAYGpjnSDbgNDWWP4ruTrxoBTqZtIT9uZ8oLz2CO6xdeBOQ6IO+aC6OX8ao5AvHRmGL1Lw9nTxl9tospVZTKgMKjvP3NfJRDta7Ay2NE2z/W9iv5Bc1UkXrgwyS8Ox5jlGvlvqjLIZyUeR+aMuqqSjcgqao9jYa3S7BfTSjPF4b4SFfV2CZk0kAmFaWvGJ4/No7cv++BuGVKFDf3hMr7MaTsPZw0LpaVbibflbB8knrpFIWZrqNtzyFAjE7LNEJm1ibRzlPNj1Qfrrh6Zw5xfrYEu+ikgkxSQ03uEk1KhmXGqlGdu8Wms55miJOwaxewL2rZZWU/AWbSh4E3K8ZRvu6jijY9x1AfkQbZwZxGBTrIOIjEaPD0jJPPsrGgfc2TKm6kXrI1ti0TGYXp7RhILqABKUO0NeFfb6Z0S5y1ed/BlrAA==;3V+BcIOT8++gVLvsDUbMpA=="
 ---

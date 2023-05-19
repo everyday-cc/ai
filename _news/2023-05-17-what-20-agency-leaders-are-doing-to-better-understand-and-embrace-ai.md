@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/05/16/what-2
 webUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/05/16/what-20-agency-leaders-are-doing-to-better-understand-and-embrace-ai/"
 type: article
 quality: 69
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -58,6 +58,20 @@ related:
       - url: "https://apicms.thestar.com.my/uploads/images/2023/05/16/2075773.jpg"
         width: 1240
         height: 697
+        isCached: true
+  - title: "Understanding machine learning what is it and how it works"
+    excerpt: "The answer lies in a powerful technological concept that’s quietly reshaping our world, Machine Learning. Within this world algorithms learn from data, predicting outcomes, driving decisions ..."
+    publishedDateTime: 2023-05-16T07:33:00Z
+    webUrl: "https://www.geeky-gadgets.com/what-is-machine-learning/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 39
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/05/AI-machine-learning.jpg"
+        width: 700
+        height: 504
         isCached: true
   - title: "72-year-old congressman pursuing master's degree to better understand AI"
     excerpt: "At age 72, U.S. Rep. Don Beyer of Virginia is back in school and pursuing a master's degree. He hopes to gain a better understanding of AI to help craft better laws surrounding the emerging technology."

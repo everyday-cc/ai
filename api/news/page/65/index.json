@@ -2,6 +2,83 @@
   "page": 65,
   "value": [
     {
+      "path": "_news/2023-04-06-students-use-machine-learning-in-lesson-designed-to-reveal-issues-promise-of-ai.md",
+      "title": "Students use machine learning in lesson designed to reveal issues, promise of A.I.",
+      "excerpt": "In a new study, researchers had 28 high school students create their own machine-learning artificial intelligence (AI) models for analyzing data. The goals of the project were to help students explore the challenges,",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2023/04/230404161706.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2023/04/230404161706.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-05T13:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-06-ibm-watsons-golf-commentary-sucks.md",
+      "title": "IBM Watson's Golf Commentary Sucks",
+      "excerpt": "IBM Watson will be providing commentary for the Masters' app and Masters.com. According to the official press release, \"the AI commentary solution will produce detailed golf narration for more ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thebiglead.com/posts/ibm-watson-golf-commentary-sucks-01gx97c6jc06",
+      "originalUrl": "https://www.thebiglead.com/posts/ibm-watson-golf-commentary-sucks-01gx97c6jc06",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-05T11:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Big Lead",
+        "domain": "thebiglead.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-06-google-reveals-its-newest-ai-supercomputer-says-it-beats-nvidia.md",
       "title": "Google reveals its newest A.I. supercomputer, says it beats Nvidia",
       "excerpt": "While Nvidia dominates the market for AI model training and deployment, with over 90%, Google has been designing and deploying a chip, called Tensor Processing Unit, for artificial intelligence ...",
@@ -890,74 +967,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-05-researchers-develop-new-sensors-that-can-control-robots-through-brain.md",
-      "title": "Researchers Develop New Sensors that Can Control Robots Through Brain",
-      "excerpt": "A recent study contributed to the idea that machines can be directly controlled by the human brain via new sensors.",
-      "sourceUrl": null,
-      "webUrl": "https://www.phoneworld.com.pk/researchers-develop-new-sensors-that-can-control-robots-through-brain/",
-      "originalUrl": "https://www.phoneworld.com.pk/researchers-develop-new-sensors-that-can-control-robots-through-brain/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-05T00:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "phoneworld.com.pk",
-        "domain": "phoneworld.com.pk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-05-european-ai-start-ups-race-to-improve-chatbots-language-skills.md",
-      "title": "European AI start-ups race to improve chatbots’ language skills",
-      "excerpt": "Companies aim to improve response quality after criticism of reliance on small group of mostly US participants",
-      "sourceUrl": null,
-      "webUrl": "https://www.ft.com/content/563256d4-67b2-465e-b219-52d0f91684ef?shareType=nongift",
-      "originalUrl": "https://www.ft.com/content/563256d4-67b2-465e-b219-52d0f91684ef?shareType=nongift",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-04T22:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Times",
-        "domain": "ft.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

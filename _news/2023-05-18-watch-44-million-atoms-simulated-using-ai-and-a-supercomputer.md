@@ -99,6 +99,17 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 56
+  - title: "Meta working on new chip for AI"
+    excerpt: "In addition, Meta has introduced its first in-house ASIC solution, MSVP, designed to power constantly growing video workloads. The company has also touted the Research SuperCluster (RSC) AI Supercomputer, which features 16,000 GPUs and is built to power new augmented reality tools, content management systems, and real-time translation technology."
+    publishedDateTime: 2023-05-19T08:31:00Z
+    webUrl: "https://www.thehindubusinessline.com/info-tech/meta-working-on-new-chip-for-ai/article66869305.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/meta-working-on-new-chip-for-ai/article66869305.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/meta-working-on-new-chip-for-ai/article66869305.ece/amp/"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 54
 
 secured: "TKn7ciT4LOkYaE5PQ+rgkOcYIqiTiQxXfqyntZwlRJ9GMBjISL4VgtMs0JpOM6Jt3+AdMl0T9I/49hN+Tymb4uYnXB5B8ajWBz1BUM4eHuZcY1ykJxgNAoWUkJkO9EjqqS4DT0mCpZJ2VMmoQLqzMvmMUJSPLrUmNwEywxodNFGwO9V/iSmekb1ln3RswSquvWsp4+k+j95agidhogKuL1YKhqQxy7cBWvKKVMzGx+bnFm+u+a3Ty67ItITq7384L44i7nhJzjwY2F/s/7HABcbNI4lkS8qhfCZrjyvRqTpyEAf5+0SsSR+jERQqwRs9O9kPddZOtcHTrx63mfuZrx7+nVS0SMDFzHHdZr8UlrU=;iKN70KIUAo+0ePdl3UNGyQ=="
 ---

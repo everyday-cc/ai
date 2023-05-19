@@ -2,6 +2,92 @@
   "page": 62,
   "value": [
     {
+      "path": "_news/2023-04-08-qualcomm-nvidia-spar-for-top-spot-in-ai-chip-efficiency-tests.md",
+      "title": "Qualcomm, Nvidia spar for top spot in AI chip efficiency tests",
+      "excerpt": "Analysts believe that the market for data center inference chips will grow quickly as businesses put AI technologies into their products, but companies such as Alphabet Inc's (GOOGL.O) Google are ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/qualcomm-nvidia-spar-top-spot-ai-chip-efficiency-tests-2023-04-05/",
+      "originalUrl": "https://www.reuters.com/technology/qualcomm-nvidia-spar-top-spot-ai-chip-efficiency-tests-2023-04-05/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/nw8NV9fGtMpdO-apNxB9b8XrnMo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/YFEMUBDHVROMXP4EK3GFP7CKPQ.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-07T14:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-08-cobalt-speech-and-language-extending-limited-time-application-for-a-free-trial-speech-recognition-technology.md",
+      "title": "Cobalt Speech And Language Extending Limited-Time Application For A Free Trial Speech Recognition Technology",
+      "excerpt": "Cobalt Speech and Language extending limited time free-trial offer. TYNGSBORO, MASSACHUSETTS, UNITED STATES, April 7, 2023/einpresswire.co",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1105963203/Cobalt-Speech-And-Language-Extending-Limited-Time-Application-For-A-Free-Trial-Speech-Recognition-Technology",
+      "originalUrl": "https://menafn.com/1105963203/Cobalt-Speech-And-Language-Extending-Limited-Time-Application-For-A-Free-Trial-Speech-Recognition-Technology",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-07T12:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mena FN",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-08-introducing-the-neo-ai-a-pet-robot-of-openai-is-going-to-revolutionize-the-defi-space.md",
       "title": "Introducing the NEO AI - A Pet Robot of OpenAI is Going to Revolutionize the DeFi Space.",
       "excerpt": "In the latest development, NEO AI emerges as the pet robot of Open AI, revolutionizing the DeFi space. The platform aims to revolutionize the field of AI solutions and create a lasting impact on the DeFi ecosystem.",
@@ -925,74 +1011,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-07-ai-equipped-eyeglasses-read-silent-speech.md",
-      "title": "AI-Equipped Eyeglasses Read Silent Speech",
-      "excerpt": "Researchers have developed a wearable interface called EchoSpeech, which recognizes silent speech by tracking lip and mouth movements through acoustic-sensing and AI. The device requires minimal user training and recognizes up to 31 unvocalized commands.",
-      "sourceUrl": null,
-      "webUrl": "https://neurosciencenews.com/ai-glasses-silent-speech-22957/",
-      "originalUrl": "https://neurosciencenews.com/ai-glasses-silent-speech-22957/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-06T14:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neuroscience News",
-        "domain": "neurosciencenews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-07-moscow-enhances-the-options-of-the-integrated-artificial-intelligence-service-for-diagnostic-radiology-by-almost-30-per-cent.md",
-      "title": "Moscow enhances the options of the integrated artificial intelligence service for diagnostic radiology by almost 30 per cent",
-      "excerpt": "The capabilities of the integrated artificial intelligence service have been enhanced in Moscow: a neural network can now simultaneously detect up to nine pathologies using CT scans. The algorithm was launched last year,",
-      "sourceUrl": null,
-      "webUrl": "https://www.mos.ru/en/news/item/121923073/",
-      "originalUrl": "https://www.mos.ru/en/news/item/121923073/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-06T13:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "mos",
-        "domain": "www.mos.ru",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

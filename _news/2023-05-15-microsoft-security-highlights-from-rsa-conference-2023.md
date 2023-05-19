@@ -162,6 +162,20 @@ related:
         width: 620
         height: 350
         isCached: true
+  - title: "After Apple, Amazon, Google and Microsoft, Meta Now Builds Its Own AI Chips"
+    excerpt: "Meta recently introduced its first in-house silicon chip designed for AI workloads, called MTIA (meta training and inference accelerator)."
+    publishedDateTime: 2023-05-19T09:21:00Z
+    webUrl: "https://analyticsindiamag.com/why-meta-built-its-own-ai-chip/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 69
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/05/meta-v-banner-f_11zon.jpeg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "SAP and Microsoft to Deepen Collaboration on Generative AI in Recruiting"
     excerpt: "(Reuters) - SAP will deepen collaboration with Microsoft on joint generative AI projects in the field of personnel recruiting, the German software maker announced on Monday. SAP's SuccessFactors solutions will be integrated with Microsoft's 365 Copilot and Azure OpenAI Service to access language models and generate natural language, it added."
     publishedDateTime: 2023-05-15T12:35:00Z
@@ -265,6 +279,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "AI startup cloud deals by Microsoft, Google and Amazon ring 'accounting alarm bells' across Silicon Valley over revenue 'round-tripping'"
+    excerpt: "For Microsoft, the bigger goal is to \"leapfrog Google in some ways, while positioning Azure as the leading cloud provider for these new AI models,\" he said. Additionally, the ability to incentivize AI startups with access to valuable computing power allows ..."
+    publishedDateTime: 2023-05-19T09:07:00Z
+    webUrl: "https://www.businessinsider.com/ai-startup-cloud-deals-microsoft-google-raise-accounting-alarm-bells-2023-5"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 51
+    images:
+      - url: "https://i.insider.com/63e50c8a96242f0019e820a9?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "What to Expect at Microsoft Build 2023"
     excerpt: "In Seattle next week, expect AI, AI, and more AI, with some Azure and Arm thrown in. Microsoft Build kicks off in Seattle on Tuesday, and since Microsoft has already made lots of news around AI, Bing,"
     publishedDateTime: 2023-05-18T16:42:00Z
@@ -337,8 +365,8 @@ related:
     quality: 19
   - title: "Check Point Software extends its Industry-Leading Cloud Firewall to Secure Microsoft Azure Virtual WAN"
     excerpt: "Check Point® Software Technologies Ltd. (NASDAQ: CHKP), a leading provider of cyber security solutions globally, announces the general availability of its industry-leading Next-Generation Cloud Firewall natively integrated with Microsoft Azure Virtual WAN to provide customers with top-notch security."
-    publishedDateTime: 2023-05-18T22:01:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/05/18/9817479.htm"
+    publishedDateTime: 2023-05-18T21:27:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-check-point-software-extends-its-industry-leading-cloud-/2023/05/18/9817479.htm"
     type: article
     provider:
       name: TMCnet

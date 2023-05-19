@@ -1,0 +1,65 @@
+---
+category: news
+title: "UMass Boston using $5M donation to create AI Institute"
+excerpt: "Anyone with a product idea can now build apps using AI, and we are going to teach that to all the students at UMass Boston,\" tells English. Students will also talk about the ethics and application of AI. English believes there are some people out there who ..."
+publishedDateTime: 2023-05-18T23:09:00Z
+originalUrl: "https://www.cbsnews.com/boston/news/umass-boston-artificial-intelligence-ai/"
+webUrl: "https://www.cbsnews.com/boston/news/umass-boston-artificial-intelligence-ai/"
+ampWebUrl: "https://www.cbsnews.com/amp/boston/news/umass-boston-artificial-intelligence-ai/"
+cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/boston/news/umass-boston-artificial-intelligence-ai/"
+type: article
+quality: 59
+heat: 89
+published: true
+
+provider:
+  name: CBS News
+  domain: cbsnews.com
+
+topics:
+  - AI Ethics
+  - AI
+
+images:
+  - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/05/18/e8d681bf-f2a2-42b2-872e-0af634b4570f/thumbnail/1200x630/54ff6db104e94c6e70fa4ffdd6c4f18e/cold-umass-boston-ai-donation-frame-3.jpg"
+    width: 1200
+    height: 630
+    isCached: true
+
+related:
+  - title: "Boston.com readers are anxious over artificial intelligence"
+    excerpt: "You’ll recall that the Florida software firm Levatas recently announced it had figured out how to communicate with Boston Dynamics robots using the artificial intelligence chatbot ChatGPT. We asked how you felt about the combination of self-teaching ..."
+    publishedDateTime: 2023-05-17T09:01:00Z
+    webUrl: "https://www.boston.com/community/readers-say/boston-com-readers-are-anxious-over-artificial-intelligence/"
+    type: article
+    provider:
+      name: Boston.com
+      domain: boston.com
+    quality: 41
+    images:
+      - url: "https://bdc2020.o0bc.com/wp-content/uploads/2023/05/https___arcmigration-prdweb.bostonglobe.com_r_Boston_2011-2020_2017_05_04_BostonGlobe.com_BigPicture_Images_634118910-6462866968c29-scaled.jpg"
+        width: 2560
+        height: 1706
+        isCached: true
+  - title: "Entrepreneur Paul English donates $5M to UMass Boston to launch AI Institute"
+    excerpt: "Paul English sees artificial intelligence as the next big thing, something he wants to focus on for the next decade. That’s why the entrepreneur and philanthropist has pledged $5 million to UMass Boston to establish a new AI-focused institute at the school, so students can be at the forefront of AI technology as it evolves."
+    publishedDateTime: 2023-05-17T18:05:00Z
+    webUrl: "https://www.bostonglobe.com/2023/05/17/business/entrepreneur-paul-english-donates-5m-umass-boston-launch-ai-institute/"
+    type: article
+    provider:
+      name: The Boston Globe
+      domain: bostonglobe.com
+    quality: 16
+  - title: "Entrepreneur Paul English donates $5 million to UMass Boston to launch AI Institute"
+    excerpt: "The goal isn’t to create a physical building or separate college to house AI research or classes on UMass Boston’s Dorchester campus. Instead, the plan would incorporate AI-related classes into all major subject areas such as nursing or science and ..."
+    publishedDateTime: 2023-05-17T18:18:00Z
+    webUrl: "https://www.bostonglobe.com/2023/05/17/business/entrepreneur-paul-english-donates-5m-umass-boston-launch-ai-institute/?rss_id=MSN_rss_brief"
+    type: article
+    provider:
+      name: The Boston Globe
+      domain: bostonglobe.com
+    quality: 13
+
+secured: "ltAldLJ7DSLntoctUrY0rGNtfIiWg05jDXzGxmM+GppX8daTEbXwewi3uHTKEniZ0VYQHNvADlrrAhfjuSBZRk+TZwe9mEl5JADnFn42LBBOuBV6oNJzA3h19lg6+siKYclAzuk4gnsqbJ8B/etukWhRzMXYW4qqlZsg5pLim1lbKg19EK8GsOmChwUuCXTQ6C8YM32PQ41cgFKFQesHy31mFyf1XEmQrfJ+hCzBlWgs34J/MadjsCh1inxIomhP5ELjI00oqvk52yRbZf1c46BGruICIyHWQyt5tI2lxozvARkK7qr7kvpLcUTtmuH4HhPYlAnqcQE6iu5/0oZsqMEXhVVHJhhalHwrRgqv4bA=;UDlmztRxNmllAqixIvoCZw=="
+---
+

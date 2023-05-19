@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-05-19-umass-boston-using-5m-donation-to-create-ai-institute.md",
+      "title": "UMass Boston using $5M donation to create AI Institute",
+      "excerpt": "Anyone with a product idea can now build apps using AI, and we are going to teach that to all the students at UMass Boston,\" tells English. Students will also talk about the ethics and application of AI. English believes there are some people out there who ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/boston/news/umass-boston-artificial-intelligence-ai/",
+      "originalUrl": "https://www.cbsnews.com/boston/news/umass-boston-artificial-intelligence-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/05/18/e8d681bf-f2a2-42b2-872e-0af634b4570f/thumbnail/1200x630/54ff6db104e94c6e70fa4ffdd6c4f18e/cold-umass-boston-ai-donation-frame-3.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/boston/news/umass-boston-artificial-intelligence-ai/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/boston/news/umass-boston-artificial-intelligence-ai/",
+      "publishedDateTime": "2023-05-18T16:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-16-when-generative-ai-refuses-to-answer-questions-ai-ethics-and-ai-law-get-deeply-worried.md",
       "title": "When Generative AI Refuses To Answer Questions, AI Ethics And AI Law Get Deeply Worried",
       "excerpt": "Generative AI such as ChatGPT and GPT-4 make use of refusals as a form of answering user prompts. There is a tricky line to be followed about the use of refusals. We closely explore the refusal conundrum.",
@@ -1389,49 +1432,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-05-scientists-warn-of-ai-dangers-but-dont-agree-on-solutions.md",
-      "title": "Scientists warn of AI dangers but don't agree on solutions",
-      "excerpt": "Margaret Mitchell, a former leader on Google’s AI ethics team, said she’s upset that Hinton didn’t speak out during his decade in a position of power at Google, especially after the 2020 ...",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/US/wireStory/scientists-warn-ai-dangers-agree-solutions-99051162",
-      "originalUrl": "https://abcnews.go.com/US/wireStory/scientists-warn-ai-dangers-agree-solutions-99051162",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/US/wirestory_5f7dc295a576833dfc3378071b5716f2_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/US/wireStory/scientists-warn-ai-dangers-agree-solutions-99051162",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/scientists-warn-ai-dangers-agree-solutions-99051162",
-      "publishedDateTime": "2023-05-05T08:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC News",
-        "domain": "abcnews.go.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

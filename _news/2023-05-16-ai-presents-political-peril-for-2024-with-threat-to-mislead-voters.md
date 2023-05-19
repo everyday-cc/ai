@@ -7,7 +7,7 @@ originalUrl: "https://www.aol.com/news/ai-presents-political-peril-2024-11434734
 webUrl: "https://www.aol.com/news/ai-presents-political-peril-2024-114347345.html"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI presents political peril for 2024 with threat to mislead voters"
-    excerpt: "Thanks to recent advances in artificial intelligence, tools that can create lifelike photos, video and audio are now cheap and readily available"
-    publishedDateTime: 2023-05-14T15:32:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/ai-presents-political-peril-2024-threat-mislead-voters-99313712"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/ai-presents-political-peril-2024-threat-mislead-voters-99313712"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/ai-presents-political-peril-2024-threat-mislead-voters-99313712"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 57
-    images:
-      - url: "https://s.abcnews.com/images/US/wirestory_59fb51002661ac5290089060b3ae39a0_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "AI presents political peril for 2024 with threat to mislead voters"
     excerpt: "Computer engineers and tech-inclined political scientists have warned for years that cheap, powerful artificial intelligence tools would soon allow anyone to create fake images, video and audio that was realistic enough to fool voters and perhaps sway an election."
     publishedDateTime: 2023-05-15T13:54:00Z

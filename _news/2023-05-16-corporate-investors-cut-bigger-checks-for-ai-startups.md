@@ -44,6 +44,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "AI boom could expose investors’ natural stupidity"
+    excerpt: "My colleagues, they study artificial intelligence,” the Israeli psychologist Amos Tversky once quipped. “Me, I study natural stupidity.” The co-founder of behavioural economics, who died in 1996, did not live to see 2023,"
+    publishedDateTime: 2023-05-19T07:56:00Z
+    webUrl: "https://www.reuters.com/breakingviews/ai-boom-could-expose-investors-natural-stupidity-2023-05-19/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 67
+    images:
+      - url: "https://www.reuters.com/resizer/81uveTxWRNRyEmCdhAq5JfkEHTA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/SFDGX2C26VOFVHSZWAJP63GUOQ.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Although AI is a Bubble, It’s Still Investible"
     excerpt: "Sam Altman, the CEO of OpenAI, which brought us ChatGPT, has gone to Congress to demand regulatory oversight of Artificial Intelligence (AI)"
     publishedDateTime: 2023-05-18T19:09:00Z

@@ -1,28 +1,22 @@
 ---
 category: news
 title: "TSA is testing facial recognition at more airports, raising privacy concerns"
-excerpt: "The agency tasked with securing America's airports is testing the use of facial recognition technology at a number of airports across the country. The Transportation Safety Administration says the tec"
+excerpt: "The agency tasked with securing America's airports is testing the use of facial recognition technology at a number of airports across the country. The Transportation Safety Administration says the technology is an effort to more accurately identify the millions of passengers traveling through its airports every day and that passengers can opt out."
 publishedDateTime: 2023-05-15T19:29:00Z
-originalUrl: "https://omaha.com/lifestyles/technology/tsa-is-testing-facial-recognition-at-more-airports-raising-privacy-concerns/article_1960d054-fedf-59b8-a1ed-b6d087e61991.html"
-webUrl: "https://omaha.com/lifestyles/technology/tsa-is-testing-facial-recognition-at-more-airports-raising-privacy-concerns/article_1960d054-fedf-59b8-a1ed-b6d087e61991.html"
+originalUrl: "https://apnews.com/article/facial-recognition-airport-screening-tsa-d8b6397c02afe16602c8d34409d1451f"
+webUrl: "https://apnews.com/article/facial-recognition-airport-screening-tsa-d8b6397c02afe16602c8d34409d1451f"
 type: article
-quality: 51
+quality: 31
 heat: -1
 published: false
 
 provider:
-  name: Omaha.com
-  domain: omaha.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Computer Vision
   - AI
-
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/9/e7/9e729762-a89b-5a79-9f4d-c13f116cf8fa/6461b5a12f579.image.jpg?crop=1763%2C926%2C0%2C125&resize=1200%2C630&order=crop%2Cresize"
-    width: 1200
-    height: 630
-    isCached: true
 
 related:
   - title: "TSA tests facial recognition technology to boost airport security"
@@ -122,20 +116,20 @@ related:
         height: 630
         isCached: true
   - title: "Are you who you say you are? TSA tests facial recognition technology to boost airport security"
-    excerpt: "A pilot project by the Transportation Security Administration assesses the use of facial recognition technology at a number of airports."
-    publishedDateTime: 2023-05-16T16:18:00Z
-    webUrl: "https://abc7.com/tsa-facial-recognition-airport-security-transportation-administration/13250231/"
-    ampWebUrl: "https://abc7.com/amp/tsa-facial-recognition-airport-security-transportation-administration/13250231/"
-    cdnAmpWebUrl: "https://abc7-com.cdn.ampproject.org/c/s/abc7.com/amp/tsa-facial-recognition-airport-security-transportation-administration/13250231/"
+    excerpt: "The Transportation Security Administration has started using facial recognition technology at a number of airports across the country."
+    publishedDateTime: 2023-05-15T21:49:00Z
+    webUrl: "https://www.boston.com/travel/technology/2023/05/15/are-you-who-you-say-you-are-tsa-tests-facial-recognition-technology-to-boost-airport-security/"
+    ampWebUrl: "https://www.boston.com/travel/technology/2023/05/15/are-you-who-you-say-you-are-tsa-tests-facial-recognition-technology-to-boost-airport-security/?amp=1"
+    cdnAmpWebUrl: "https://www-boston-com.cdn.ampproject.org/c/s/www.boston.com/travel/technology/2023/05/15/are-you-who-you-say-you-are-tsa-tests-facial-recognition-technology-to-boost-airport-security/?amp=1"
     type: article
     provider:
-      name: ABC7
-      domain: abc7.com
+      name: Boston.com
+      domain: boston.com
     quality: 79
     images:
-      - url: "https://cdn.abcotvs.com/dip/images/10994202_090221-cc-ap-tsa-generic-img.jpg"
-        width: 1280
-        height: 720
+      - url: "https://www.boston.com/wp-content/uploads/2023/05/Facial_Recognition_Airports_79172-6461bb4fb69eb-scaled.jpg"
+        width: 2560
+        height: 1708
         isCached: true
   - title: "Are you who you say you are? TSA tests facial recognition technology to boost airport security"
     excerpt: "A pilot project by the Transportation Security Administration assesses the use of facial recognition technology at a number of airports."
@@ -510,6 +504,6 @@ related:
       domain: extremetech.com
     quality: 19
 
-secured: "jUewAzp9WiljSxSkc+Tk09cYuiBsjCLNwxUSdvglyRICsDipZyB328234fTw/kpyWH770zHmpG+3ol8IkNySnwP/bRqJlIZXDOedvix7GtcpNr+y9hlbeN6jzwN6majsGsz96k7DM+2L8ZSXWdiQ+axuXLpqAINibdXEa6eF1NEg9vD9xMFgSsguXybscmE+fQ03Fg5h9E0HMCoH/LpQ81D/EGcdHGMEA+Dg1XuE03K/p8hiUDsG45NRQk25pkiORu8s4/H2Q8b0Ph1QqhkLtDisJTR8FMnf7Zy1DaxHc0SCplUB2FlveYlZpH4FEpzvK54SetcKBPL5El0lPt2BHEQhYrvTvJbP7lDq6l73LkQ=;wuQCoBNqq6ENB8lp1+hWzA=="
+secured: "lmOkf1YXkRyeBNsla9S2Ly98tpeSG2HZ49Kh3JJk8L4RfKklHQjZlFGTyc6l5DLo48nYZ9LCxolEyyuh8bxXp1bqEmCG5OhEiWweRIjbtj/A1C+ebW684eERLjK2EHMKsdXQhRS4y+2Dh6VYoqUeJmbwpyzEd/b3MPv6/GmuKNRv4Cvk3FbJSKS44m8hSLISxA0QHiexW7URgBBqHjdq2Wl4JSqA7MdcISwfsSpgQvOTZPajHkJYKogXTIOqULu280N3VLup7AYABMWMn4KWAYK4/8ehq7XAdPTwIoN58jvocPqNmv4XIn45xsr38LJUKV25IamgY9LW1RyXi6OqfyZOMuaVI7tlHsN7wlWb/OA=;eH849YjrIpmDEXDeqDOjSw=="
 ---
 

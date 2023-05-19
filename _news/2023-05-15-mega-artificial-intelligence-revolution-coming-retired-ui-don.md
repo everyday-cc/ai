@@ -44,38 +44,6 @@ related:
         height: 674
         isCached: true
   - title: "Revolutionary changes by artificial intelligence"
-    excerpt: "The world is changing rapidly, and our technological advancement is changing similarly. Keeping in step with the advancing world, we have brought AI-based solutions for businesses. The accurate usage of data annotation and data"
-    publishedDateTime: 2023-05-14T15:49:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/revolutionary-changes-by-artificial-intelligence/?source=app&frmapp=yes"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/revolutionary-changes-by-artificial-intelligence/?source=app&frmapp=yes"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/revolutionary-changes-by-artificial-intelligence/?source=app&frmapp=yes"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 59
-    images:
-      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2023/03/Manish-Mohta.JPEG-1.jpeg"
-        width: 1280
-        height: 851
-        isCached: true
-  - title: "Emerging technologies like AI can revolutionize privacy rights"
-    excerpt: "Can privacy policies be redesigned to correct this information asymmetry? Can they be made more easily accessible and digestible to those who want to be informed? Emerging technologies may have some answers."
-    publishedDateTime: 2023-05-14T17:06:00Z
-    webUrl: "https://www.livemint.com/opinion/columns/emerging-technologies-like-ai-can-revolutionize-privacy-rights-11684083799239.html"
-    ampWebUrl: "https://www.livemint.com/opinion/columns/emerging-technologies-like-ai-can-revolutionize-privacy-rights/amp-11684083799239.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/opinion/columns/emerging-technologies-like-ai-can-revolutionize-privacy-rights/amp-11684083799239.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 59
-    images:
-      - url: "https://www.livemint.com/lm-img/img/2023/05/14/600x338/AI_1684085045841_1684085046127.JPG"
-        width: 600
-        height: 338
-        isCached: true
-  - title: "Revolutionary changes by artificial intelligence"
     excerpt: "The accurate usage of data annotation and data labelling services incorporating cases like Facial recognition, Self ... to intelligence by humans, when machines produce results, making tasks easier and faster, then those are inculcated under AI (Artificial ..."
     publishedDateTime: 2023-05-14T21:19:00Z
     webUrl: "https://timesofindia.indiatimes.com/blogs/voices/revolutionary-changes-by-artificial-intelligence/"
