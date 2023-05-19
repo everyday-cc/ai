@@ -53,6 +53,20 @@ related:
         width: 336
         height: 224
         isCached: true
+  - title: "Nvidia sees AI GPU orders ramp up"
+    excerpt: "Nvidia has seen a ramp-up in orders for its A100 and H100 AI GPUs, as a result of the generative AI boom, which has led to an increase in wafer starts at TSMC, according to market sources."
+    publishedDateTime: 2023-05-19T02:50:00Z
+    webUrl: "https://www.digitimes.com/news/a20230518PD215/nvidia-ic-manufacturing-ai-gpu-ai-server-tsmc.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 54
+    images:
+      - url: "https://img.digitimes.com/newsshow/20230518pd215_files/2_2b.jpg"
+        width: 1280
+        height: 853
+        isCached: true
 
 secured: "2kCEBw0Kj+178PgHxKt0muGJacOhTJqAdMTTu344Q6NfBnGSLUC1ErpullLJc9C6zev+wifHWF2QKBBqY7Nsp2whG3aU5bnJ4XybK4MaoMIi3LTAQ4XWIsqeKKwnUjxn+uJoN+DbefOu87fflJldt2Y2YMulp0APkH2oBcdm+V9bNUML3S9+klEb+W8CE0N8CCtfZjtC8uq78YsqPyJfXj5e9zWo/nt8/9KDb/q0cy5pHbeJsC0MZUJ6Zcp8II71PQQWN+gClnkm7JKEjUYFzwqytOXBK4pIPBCJ9wJgAnFIzP/BbVhVkZwRM45oHhMD6sMdFlV3ioOS27cqvjFmY+LvKQEMuyftj/jRHDWDQBTI+WWyiIwdHsJPQFos9kMa1xTz46ZHVMO6a/Cp44Nh5O3pf2178KfPyba+qN9xdgUsztEWPEm2XWld6LZPjI2ol8IjoU7L5sUjDJbJV2kQ5GWPBm/NItL+KiA10DzTSZWoCGJTuEdFX5VlS1aMvfI8kCeGU668kw7UO40TSQa6qw==;QlcuxzOUCzjvPuMJj5OVjw=="
 ---

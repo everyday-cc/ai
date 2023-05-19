@@ -2,22 +2,30 @@
 category: news
 title: "Is that really you? TSA tests facial recognition tech for airport security"
 excerpt: "A pilot project by the Transportation Security Administration is assessing the use of facial recognition technology at a number of airports across the country."
-publishedDateTime: 2023-05-15T16:15:00Z
-originalUrl: "https://www.kark.com/news/national-news/is-that-really-you-tsa-tests-facial-recognition-tech-for-airport-security/"
-webUrl: "https://www.kark.com/news/national-news/is-that-really-you-tsa-tests-facial-recognition-tech-for-airport-security/"
+publishedDateTime: 2023-05-15T11:36:00Z
+originalUrl: "https://thehill.com/regulation/transportation/4004432-is-that-really-you-tsa-tests-facial-recognition-tech-for-airport-security/?0=utm_source=ground.news&1=utm_medium=referral"
+webUrl: "https://thehill.com/regulation/transportation/4004432-is-that-really-you-tsa-tests-facial-recognition-tech-for-airport-security/?0=utm_source=ground.news&1=utm_medium=referral"
+ampWebUrl: "https://thehill.com/regulation/transportation/4004432-is-that-really-you-tsa-tests-facial-recognition-tech-for-airport-security/amp/"
+cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/regulation/transportation/4004432-is-that-really-you-tsa-tests-facial-recognition-tech-for-airport-security/amp/"
 type: article
-quality: 49
+quality: 89
 heat: -1
 published: false
 
 provider:
-  name: KARK
-  domain: kark.com
+  name: The Hill
+  domain: thehill.com
 
 topics:
   - Computer Vision
   - AI
   - AI in Security
+
+images:
+  - url: "https://thehill.com/wp-content/uploads/sites/2/2023/05/facial.jpg?w=1280"
+    width: 1280
+    height: 720
+    isCached: true
 
 related:
   - title: "TSA tests facial recognition technology to boost airport security"
@@ -503,6 +511,6 @@ related:
       domain: extremetech.com
     quality: 19
 
-secured: "j0prmoYmkuJgPe67vhz8XbVmh0+jS8fuTtzU8Pm5KWYjqZz9bj9vr2Vm+0+1gCRGmhqfCE0v64ZjGXMZX5kDXrsz8KRT3zF60fCRM13ircHy4rMWe+mL9ETBXUjqch1XjM22JnAn1IL+MLPFYwgGeZO8LwPiWPebIzqwerTpqKpY6ULE2F1S8TSH5+rsiJRxHpOZ7PJ44wZY7j3QcKEVMZTm1MIaEXVmViMjEdviwFGM32xLZQnToYH8i+zu1pdepEMpSOnlXBT5xy5kE+nOA6pW3mXEUcHcsgygdUunCEOBXuDV4UXHd7bjY+Pe8uH/lX7vImXy2tqDe5+SdI1W12UcLU3YZQUX9ee/4CqP49T0Mg/qlW7yObatFl6P0D5TZcqemEC2njMPaThlMr05qdLtkUvglFn4+Qmnax9YqI1SyaQPmE9P1QCrMDyF6sjNyC5Jgs9KUoMbqnJshOQEnT9GXjbvyaQK48BBnpiAvIK+VKlC5tmpE5MLRicXtiWuCzJCe+G7nJMUo6H5I6xa1w==;Y3DaOSNOsrQM/nWEp90IIQ=="
+secured: "J6khIPiOAAmVOXHLRcF0IWrkuk/pCtw1jlZ/tUxMeT1Gh5DyjZE0/oO14Cm5bLxj/0XEvr6hlmH0NRHedSH/NTFK7rP87l3Lplw9Vi+Klfsm7cq5IE7eh+dOK4U63ZW5wyz6CKh6+7hNu1CILmNJDONufEV+B8yks41BANFjNmrPM7CoHGhocIf5pVH46/LhzfBYTHkOzJJT5by7PZdy+zZoI38oH5AgFIz+1tPY+GGEho5DqrK42ZjHS28sQuCNYjbP+fZltfusXB0Q9RGToSLoerps3jAXGcBeUboeTujLvUUvp9GOsXAIROgwsI0OaoFqe/CBMElanIEGc/1m+OM2WNKjv9BCJTjDFY56cFY=;8zxH1akdARDcNgSgaquoWQ=="
 ---
 

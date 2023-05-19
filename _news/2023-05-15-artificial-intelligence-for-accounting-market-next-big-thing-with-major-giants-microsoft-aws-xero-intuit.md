@@ -182,6 +182,22 @@ related:
         width: 1200
         height: 780
         isCached: true
+  - title: "Microsoft India adds 4 new languages to Translator"
+    excerpt: "Microsoft India on Thursday announced the addition of three new Indian languages -- Konkani, Maithili, and Sindhi, in Translator along with Sinhala, the official language of Sri Lanka."
+    publishedDateTime: 2023-05-18T21:20:00Z
+    webUrl: "https://www.thestatesman.com/technology/microsoft-india-adds-4-new-languages-to-translator-1503182658.html"
+    ampWebUrl: "https://www.thestatesman.com/technology/microsoft-india-adds-4-new-languages-to-translator-1503182658.html/amp"
+    cdnAmpWebUrl: "https://www-thestatesman-com.cdn.ampproject.org/c/s/www.thestatesman.com/technology/microsoft-india-adds-4-new-languages-to-translator-1503182658.html/amp"
+    type: article
+    provider:
+      name: The Statesman
+      domain: thestatesman.com
+    quality: 59
+    images:
+      - url: "https://www.thestatesman.com/wp-content/uploads/2021/07/MicrosoftiStoc.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Microsoft Security highlights from RSA Conference 2023"
     excerpt: "Read a recap of memorable moments from Microsoft Security's participation in RSAC 2023 and watch Vasu Jakkal's keynote address on-demand."
     publishedDateTime: 2023-05-15T16:00:00Z
@@ -267,6 +283,20 @@ related:
       name: Analytics India Magazine
       domain: analyticsindiamag.com
     quality: 48
+  - title: "Twitter accuses Microsoft of misusing its data, foreshadowing a possible fight over AI"
+    excerpt: "A lawyer for Twitter owner Elon Musk accused Microsoft of misusing the service’s data and demanded an audit from the software giant"
+    publishedDateTime: 2023-05-18T20:45:00Z
+    webUrl: "https://www.washingtonpost.com/business/2023/05/18/twitter-microsoft-ai-training-data-dispute-musk-nadella/c4185ade-f5e6-11ed-918d-012572d64930_story.html"
+    type: article
+    provider:
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 46
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XTYU7GXV4YI63EMNAESXFVSJGA.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Microsoft India Adds 4 New Languages To Translator"
     excerpt: "Microsoft India on Thursday announced the addition of three new Indian languages -- Konkani, Maithili, and Sindhi, in Transl"
     publishedDateTime: 2023-05-18T11:38:00Z
@@ -280,20 +310,6 @@ related:
       - url: "https://menafn.com/updates/pr/2023-05/18/I_2f472image_story.jpg"
         width: 800
         height: 500
-        isCached: true
-  - title: "'Fusion in five years' | AI and Facebook billionaire-backed pioneer signs Microsoft up for 'star power'"
-    excerpt: "Helion Energy, whose investors include Sam Altman, Reid Hoffman and Dustin Moskovitz, aims to get first plant online by 2028 and claims deal with software giant"
-    publishedDateTime: 2023-05-14T09:23:00Z
-    webUrl: "https://www.rechargenews.com/energy-transition/fusion-in-five-years-ai-and-facebook-billionaire-backed-pioneer-signs-microsoft-up-for-star-power/2-1-1450880"
-    type: article
-    provider:
-      name: Recharge
-      domain: rechargenews.com
-    quality: 40
-    images:
-      - url: "https://images-global.nhst.tech/image/STIrOFRTRzBOdEovQVlUSkxUUHkzUVVja2FvQ1hTU3dlcVZadmlGSm9BMD0=/nhst/binary/1b60017ce3a4c7c66b945a33627e8eb7?image_version=720"
-        width: 720
-        height: 357
         isCached: true
   - title: "SAP and Microsoft to deepen collaboration on generative AI in recruiting"
     excerpt: "SAP will deepen collaboration with Microsoft on joint generative AI projects. (REUTERS) SAP will deepen collaboration with Microsoft on joint generative AI projects in the field of personnel recruiting,"

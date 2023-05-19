@@ -2,6 +2,292 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2023-04-28-seven-in-ten-business-leaders-want-robots-to-make-their-decisions-for-them.md",
+      "title": "Seven In Ten Business Leaders Want Robots To Make Their Decisions For Them",
+      "excerpt": "It’s easier to make decisions when the economy is growing, as bad choices can get subsidized by the more well-targeted choices. But in a tighter economy, bad decisions are more exposed, and costly. But in this era of data analytics,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/joemckendrick/2023/04/28/seven-in-ten-business-leaders-want-robots-to-make-their-decisions-for-them/",
+      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2023/04/28/seven-in-ten-business-leaders-want-robots-to-make-their-decisions-for-them/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/644b3e90feff0dec7e76f751/0x0.jpg?format=jpg&width=1200",
+          "width": 807,
+          "height": 537,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2023/04/28/seven-in-ten-business-leaders-want-robots-to-make-their-decisions-for-them/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/04/28/seven-in-ten-business-leaders-want-robots-to-make-their-decisions-for-them/amp/",
+      "publishedDateTime": "2023-04-27T21:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-28-how-robot-art-reveals-the-power-of-humanity.md",
+      "title": "How Robot Art Reveals The Power Of Humanity",
+      "excerpt": "Pilat asserts that AI is gleaning its information from the internet, not real human programming, and as a result, it is detached from the lived human experience. This sense of independence contributes to the development of the robot’s unique sense of style.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/alexandrabregman/2023/04/28/how-robot-art-reveals-the-power-of-humanity/",
+      "originalUrl": "https://www.forbes.com/sites/alexandrabregman/2023/04/28/how-robot-art-reveals-the-power-of-humanity/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/644874be017ebc582f51f763/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/alexandrabregman/2023/04/28/how-robot-art-reveals-the-power-of-humanity/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alexandrabregman/2023/04/28/how-robot-art-reveals-the-power-of-humanity/amp/",
+      "publishedDateTime": "2023-04-27T21:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-28-artificial-intelligence-robotics-market-demand-by-2031.md",
+      "title": "Artificial Intelligence Robotics Market Demand by 2031",
+      "excerpt": "The latest market research report on the Global \"Artificial Intelligence Robotics Market\" is segmented by Regions,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robotics-market-demand-by-2031-2023-04-27",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robotics-market-demand-by-2031-2023-04-27",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 191,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-27T19:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-04-28-microsoft-is-ending-windows-10-updates.md",
+      "title": "Microsoft Is Ending Windows 10 Updates",
+      "excerpt": "Attila is a Staff Writer for CNET, covering software, apps and services with a focus on virtual ... to protect their privacy online and Microsoft is finished with major updates to Windows 10 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/tech/services-and-software/microsoft-is-ending-windows-10-updates/",
+      "originalUrl": "https://www.cnet.com/tech/services-and-software/microsoft-is-ending-windows-10-updates/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/7cba03e614d3c08239c138b83b52c8fddabef463/hub/2015/07/29/6c89a30d-005e-4f79-8ea4-8e2466731af2/microsoft-windows-10-start-screen-7179.jpg?auto=webp&fit=crop&height=630&width=1200",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/microsoft-is-ending-windows-10-updates/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/microsoft-is-ending-windows-10-updates/",
+      "publishedDateTime": "2023-04-27T17:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-28-aws-shifts-focus-to-llms-generative-ai-as-growth-continues-to-taper.md",
+      "title": "AWS shifts focus to LLMs, generative AI as growth continues to taper",
+      "excerpt": "Credit: IDG Amazon’s cloud computing division, AWS, is shifting its focus towards large language models (LLMs) and generative AI-based offerings as it continues to see a downward spiral in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cio.com/article/475064/aws-shifts-focus-to-llms-generative-ai-as-growth-continues-to-taper.html",
+      "originalUrl": "https://www.cio.com/article/475064/aws-shifts-focus-to-llms-generative-ai-as-growth-continues-to-taper.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cio.com/wp-content/uploads/2023/04/awsgeneric1600-100803474-orig-2.jpg?quality=50&strip=all&w=1024",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cio.com/article/475064/aws-shifts-focus-to-llms-generative-ai-as-growth-continues-to-taper.html/amp/",
+      "cdnAmpWebUrl": "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/475064/aws-shifts-focus-to-llms-generative-ai-as-growth-continues-to-taper.html/amp/",
+      "publishedDateTime": "2023-04-27T16:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CIO",
+        "domain": "cio.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-28-chinas-baidu-races-waymo-gm-to-develop-self-driving-cars.md",
+      "title": "China’s Baidu Races Waymo, GM to Develop Self-driving Cars",
+      "excerpt": "With no one at the wheel, a self-driving taxi developed by tech giant Baidu Inc. is rolling down a Beijing street when its sensors spot the corner of a delivery cart jutting into its lane.",
+      "sourceUrl": null,
+      "webUrl": "https://thediplomat.com/2022/06/chinas-baidu-races-waymo-gm-to-develop-self-driving-cars/",
+      "originalUrl": "https://thediplomat.com/2022/06/chinas-baidu-races-waymo-gm-to-develop-self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-27T16:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Diplomat",
+        "domain": "thediplomat.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-28-deep-learning-system-explores-materials-interiors-from-the-outside.md",
       "title": "Deep-learning system explores materials' interiors from the outside",
       "excerpt": "The team used a type of machine learning known as deep learning to compare a large set of simulated data about materials' external force fields and the corresponding internal structure ...",
@@ -865,302 +1151,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-04-28-home-regina-leader-post.md",
-      "title": "Home | Regina Leader Post",
-      "excerpt": "This advertisement has not loaded yet, but your article continues below. The Mosaic Company announced $500,000 funding toward Wanuskewin Heritage Park's UNESCO World Heritage Designation at an ...",
-      "sourceUrl": null,
-      "webUrl": "https://leaderpost.com/news/local-news/live-rcmp-outline-what-happened-in-the-mass-stabbings-in-james-smith-cree-nation-and-weldon",
-      "originalUrl": "https://leaderpost.com/news/local-news/live-rcmp-outline-what-happened-in-the-mass-stabbings-in-james-smith-cree-nation-and-weldon",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dcs-static.gprod.postmedia.digital/13.4.5/websites/images/broadsheets/ogimage-lp.png",
-          "width": 400,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-27T11:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Leader-Post",
-        "domain": "leaderpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-28-alibaba-cloud-seeks-partners-to-help-build-custom-generative-ai-models.md",
-      "title": "Alibaba Cloud seeks partners to help build custom generative AI models",
-      "excerpt": "The Chinese cloud vendor announced a new program to find partners that can create large language models tailored for companies across various sectors.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/alibaba-cloud-seeks-partners-to-help-build-custom-generative-ai-models/",
-      "originalUrl": "https://www.zdnet.com/article/alibaba-cloud-seeks-partners-to-help-build-custom-generative-ai-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/78805114ccf28a4a5f4114d5b5828cd52a8b054d/2023/04/27/5b5953af-e8ce-4564-b05c-44eec02c4038/gettyimages-1438616508.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/alibaba-cloud-seeks-partners-to-help-build-custom-generative-ai-models/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/alibaba-cloud-seeks-partners-to-help-build-custom-generative-ai-models/",
-      "publishedDateTime": "2023-04-27T11:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-28-google-microsoft-and-meta-each-said-ai-nearly-50-times-on-earnings-calls-heres-why-we-should-all-care.md",
-      "title": "Google, Microsoft and Meta each said ‘AI’ nearly 50 times on earnings calls. Here’s why we should all care",
-      "excerpt": "In earnings results this week, Alphabet, Microsoft and Meta all announced revenue boosts and put their AI priorities front-and-center.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/google-microsoft-and-meta-each-said-ai-nearly-50-times-on-earnings-calls-heres-why-we-should-all-care/",
-      "originalUrl": "https://venturebeat.com/ai/google-microsoft-and-meta-each-said-ai-nearly-50-times-on-earnings-calls-heres-why-we-should-all-care/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/04/Untitled-design-61.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/google-microsoft-and-meta-each-said-ai-nearly-50-times-on-earnings-calls-heres-why-we-should-all-care/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/google-microsoft-and-meta-each-said-ai-nearly-50-times-on-earnings-calls-heres-why-we-should-all-care/amp/",
-      "publishedDateTime": "2023-04-27T10:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-28-tfds-for-jax-and-pytorch.md",
-      "title": "TFDS for Jax and PyTorch",
-      "excerpt": "TFDS has always been framework-agnostic. For instance, you can easily load datasets in NumPy format for usage in Jax and PyTorch. TensorFlow and its data loading solution (tf.data) are first-class citizens in our API by design. We extended TFDS to support ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tensorflow.org/datasets/tfless_tfds",
-      "originalUrl": "https://www.tensorflow.org/datasets/tfless_tfds",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tensorflow.org/static/images/tf_logo_social.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-27T10:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TensorFlow",
-        "domain": "tensorflow.org",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-28-aurora-self-driving-truck-service-to-launch-in-2024.md",
-      "title": "Aurora self-driving truck service to launch in 2024",
-      "excerpt": "Aurora Innovation, the self-driving technology startup founded by Chris Urmson, one of the original engineers of the Google Self-Driving Car Project that eventually became Waymo, plans to launch a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.motorauthority.com/news/1139487_aurora-self-driving-truck-service-to-launch-in-2024",
-      "originalUrl": "https://www.motorauthority.com/news/1139487_aurora-self-driving-truck-service-to-launch-in-2024",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hgmsites.net/hug/aurora-self-driving-truck-prototype_100883024_h.jpg",
-          "width": 1920,
-          "height": 1281,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-27T10:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Motor Authority",
-        "domain": "motorauthority.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-28-tenable-report-shows-how-generative-ai-is-changing-security-research.md",
-      "title": "Tenable report shows how generative AI is changing security research",
-      "excerpt": "A Tenable report reveals four ways researchers can use generative AI to enhance vulnerability analysis and debugging.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/security/tenable-report-shows-how-generative-ai-is-changing-security-research/",
-      "originalUrl": "https://venturebeat.com/security/tenable-report-shows-how-generative-ai-is-changing-security-research/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 186,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1076658494.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 603,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/security/tenable-report-shows-how-generative-ai-is-changing-security-research/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/security/tenable-report-shows-how-generative-ai-is-changing-security-research/amp/",
-      "publishedDateTime": "2023-04-27T10:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/stock-market/market-sectors/informa
 webUrl: "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/ai-in-finance/"
 type: article
 quality: 86
-heat: 126
+heat: 136
 published: true
 
 provider:
@@ -68,6 +68,20 @@ related:
       - url: "https://bgr.com/wp-content/uploads/2019/07/greenies-e1623872379523.jpg?quality=82&strip=all"
         width: 1500
         height: 772
+        isCached: true
+  - title: "Preparing for AI in the Employee Experience"
+    excerpt: "AI is the next big evolution in how we work. Most employees will need to incorporate it into their work. AI can be an effective tool for reducing repetitive tasks and minimizing bias in decision-making. Willingness to learn, emotional intelligence, and creative problem-solving are critical skills to hone."
+    publishedDateTime: 2023-05-17T22:07:00Z
+    webUrl: "https://www.psychologytoday.com/za/blog/the-new-employee-experience/202305/preparing-for-ai-in-the-employee-experience"
+    type: article
+    provider:
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 39
+    images:
+      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-05/GettyImages-1469706462.jpg?itok=gnSj0JMx"
+        width: 1528
+        height: 800
         isCached: true
   - title: "Rising importance of AI in the fintech space"
     excerpt: "Advantage of AI in fintech industry is its capacity to automate and augment a multitude of laborious processes related to banking"

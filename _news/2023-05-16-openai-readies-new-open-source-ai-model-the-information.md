@@ -142,6 +142,15 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 30
+  - title: "Regulation of Artificial Intelligence"
+    excerpt: "The introduction to the House of Commons of a Bill under the ten minute rule, by Labour MP Mick Whitley, on the regulation of artificial intelligence and workers' rights, from Wednesday 17 May."
+    publishedDateTime: 2023-05-17T18:08:00Z
+    webUrl: "https://www.bbc.co.uk/programmes/m001mh3k"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 17
 
 secured: "EoLpJBcu2EX6SlXqTLK5R7+ZWYnkwPFwZyG4tN15VAa0Sjv7/lLLKlRhcR2Dm50JMpSeI8JWZvqkaRsnTeDHJD7Pg4AKAChTqc81IGZd6Gc6UwDuKBNbdHViy9xkuda1BtWONJv/RklapkV0hQW6pUqz1aQ6EuPPqFQ1WtFjmM5wxnuQ6VrZC6uy5w5aFlcWxqJ8U5ZsyLcCCF633gVdYFKCST75k1GweF/eZKP5Y+ASqRootcTPdu/nL8IuHQ0mrfjX0Bag5LCH2KduS92x/9QyqJME1rXH7zNyw1UEgEYWgcLr3ljZ6e3tFr4s4YBpYlwrmeffOTX/nPddSFLoCI64TYvEEYrqbca9RCIui0c=;YRJU2XlhXddd7WuC97C9JQ=="
 ---

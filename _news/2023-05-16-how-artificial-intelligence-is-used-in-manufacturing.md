@@ -92,6 +92,15 @@ related:
       name: Fudzilla
       domain: fudzilla.com
     quality: 19
+  - title: "GIGABYTE to Introduce Leading-Edge AI Solutions and Computers at COMPUTEX 2023, Unveiling “Future of COMPUTING”"
+    excerpt: "Take the Lead in the AI Era with GIGABYTE’s Trailblazing GPU/HPC Servers The emergence of ChatGPT and various generative AI applications are making huge waves of industry evolution, driving all-time demand for AI computing servers. At COMPUTEX ..."
+    publishedDateTime: 2023-05-17T03:16:00Z
+    webUrl: "https://www.businesswire.com/news/home/20230516005112/en/GIGABYTE-to-Introduce-Leading-Edge-AI-Solutions-and-Computers-at-COMPUTEX-2023-Unveiling-“Future-of-COMPUTING”"
+    type: article
+    provider:
+      name: newsroom.businesswire.com
+      domain: businesswire.com
+    quality: 0
 
 secured: "dZg51SPMSlyeHeqk0YMy9UseAMeHiAM9AaFSN/V2OIVlm77hO5wh4hbhtwQw0nf7nrTTRtm5priLwi17+SNjAaQCg/jw25DFHZhfzbEIsOGs8c6fS3rTkOo4A3B4HRMV/fnLjZiNrZnvQ7uH3QqaYn4a/pJ/gDqY7J4Jkk4t17Dy4NU/eH1P5G0oCT29CA3IkOok198Uj1kVZa7DovqkS+4oobSn8rqoG1hcmXME5VC4GG7KZq0rbTJ06x/DWiPRexLuLccU/3j/pCdDK72UjOeypChUOPy3hkyFUlyyJ5COr1LCr64wYjnQbo5ohz1ClrmBrYWRoEWr35Ln3oCraa1YgAjFsY8it7yPiLOMQXycFaobmvqHgQvj4C5lyzFcmnK7Ty47Qbz2MltnaI/Js86VNJA8E25m90TQkTC8aCsIsdhLr5Ud7qsRy36Qq9aGRMbpmkIuf+5Y6iAB9dGLciK6Gup998tfl2xVT9eO45h8BN7JT2TDJFZfN5EDntqwONvKoL2sZjiwseIFKGs46Q==;oFOGpVnB1ArYzJeoi920qw=="
 ---

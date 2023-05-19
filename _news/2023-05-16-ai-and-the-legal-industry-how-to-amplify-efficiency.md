@@ -38,22 +38,15 @@ related:
         width: 2500
         height: 1250
         isCached: true
-  - title: "17 AI and machine learning terms everyone needs to know"
-    excerpt: "With the ongoing Artificial Intelligence boom, it is very important to understand the terminology in use. Here are 17 AI and machine learning terms everyone needs to know."
-    publishedDateTime: 2023-05-14T10:25:00Z
-    webUrl: "https://www.indiatoday.in/education-today/grammar-vocabulary/story/17-ai-and-machine-learning-terms-everyone-needs-to-know-2379081-2023-05-14"
-    ampWebUrl: "https://www.indiatoday.in/amp/education-today/grammar-vocabulary/story/17-ai-and-machine-learning-terms-everyone-needs-to-know-2379081-2023-05-14"
-    cdnAmpWebUrl: "https://www-indiatoday-in.cdn.ampproject.org/c/s/www.indiatoday.in/amp/education-today/grammar-vocabulary/story/17-ai-and-machine-learning-terms-everyone-needs-to-know-2379081-2023-05-14"
+  - title: "How AI Is Changing the Retail Industry"
+    excerpt: "The retail industry is always evolving according to customer demand and available technology. It's gone from brick-and-mortar to e-commerce to omnichannel, and artificial intelligence helps retailers improve their operations in a number of ways, including demand forecasting and recommendations, to use two more prominent examples."
+    publishedDateTime: 2023-05-16T13:18:00Z
+    webUrl: "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/ai-in-retail/"
     type: article
     provider:
-      name: India Today
-      domain: indiatoday.in
-    quality: 74
-    images:
-      - url: "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202305/stockvault-digital-transformation-concept-virtual-hand-creating-network257818-sixteen_nine.jpg?VersionId=7bt_uMPGpWUZCkf7KELZEIZRX4kjQnWt"
-        width: 1200
-        height: 675
-        isCached: true
+      name: The Motley Fool
+      domain: fool.com
+    quality: 47
 
 secured: "bVowjp7AO9cHApGEFsGSLlKxrL/smvY8+FTcQex/WjSqkTw61vrN341D+4yRbtTCoKzykBYrF8S3EYF0s8Rkq+xIAiKYGvn+3EP4kzCMEw9oqrZGv+LKMu0p1rayvkeg9bBJ8xzjz8v5L0/Y5Flj/wyqUzxg/ekmi7JypQ6H3Hxs4y2/1jEg5rzUmRxepsAA/7krrjG7DBfa/t6f0K/LyUcDDrPLkSNRIFiu2NuEj6gojN6q2Od0/RXftQNPffRfZn+ZoZ0ffFv6T70GvnCqGVKpJFWboUk9WcRdQyJIkF/5TVXXXtFKvxubTkJiGeSzPgrARz1YUwW7pm1QXdw5AevHSYC9vtIFzVzGW0DqXpn7ThsDoQK/fcdxo7l4GCV1IwXW9Ta5zVBRw64elMGb+NOWPbL8vkurrJR4IzELh5dKY5u7isf7Au6lDqJSswgRJaEobg971JhsiiyT5Lpreiy7Ys/nXf7m+bRuDU6fHAGdrmnVBsrPynVH6YV5Qz7mrElPsRp+Jkum611/4I6zew==;Fe6LYJdVaBOJD2Kk0U4d2w=="
 ---

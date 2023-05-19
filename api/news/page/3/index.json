@@ -2,6 +2,297 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-05-17-amazon-unveils-echo-pop-new-echo-buds-reports-500m-alexa-device-sales-as-ai-upends-market.md",
+      "title": "Amazon unveils Echo Pop, new Echo Buds; reports >500M Alexa device sales as AI upends market",
+      "excerpt": "In-depth Amazon coverage from the tech giant’s hometown, including e-commerce, AWS, Amazon Prime ... broader market is focused on the rapid development in generative artificial intelligence, where sophisticated interactions with new language models ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2023/amazon-unveils-echo-pop-new-echo-buds-reports-500m-alexa-device-sales-as-ai-upends-market/",
+      "originalUrl": "https://www.geekwire.com/2023/amazon-unveils-echo-pop-new-echo-buds-reports-500m-alexa-device-sales-as-ai-upends-market/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2023/05/Echo-Pop-All-Colors.png",
+          "width": 1000,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-17T07:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2023-05-17-abb-predicts-top-us-robotics-trends.md",
+      "title": "ABB Predicts Top U.S. Robotics Trends",
+      "excerpt": "The impact of U.S. labor shortages is increasingly being felt by many businesses as they struggle to keep pace with customer demands, even with the potential for some softening",
+      "sourceUrl": null,
+      "webUrl": "https://www.manufacturing.net/operations/news/22862117/abb-predicts-top-us-robotics-trends",
+      "originalUrl": "https://www.manufacturing.net/operations/news/22862117/abb-predicts-top-us-robotics-trends",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.manufacturing.net/files/base/indm/multi/image/2023/05/ABB_AI_enabled_Item_Picker.6464e19fa3498.png?auto=format%2Ccompress&fit=max&q=70&rect=99%2C0%2C1743%2C981&w=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-17T07:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Manufacturing",
+        "domain": "manufacturing.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-17-make-sap-erp-deployments-future-ready-with-ibm-cloud.md",
+      "title": "Make SAP ERP deployments future-ready with IBM Cloud",
+      "excerpt": "IBM offers SAP-enabled transformation expertise and enterprise-grade cloud platform capabilities to help accelerate our client’s ERP modernization journey.\nThe post Make SAP ERP deployments future-ready with IBM Cloud appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/make-sap-erp-deployments-future-ready-with-ibm-cloud/",
+      "originalUrl": "https://www.ibm.com/blog/make-sap-erp-deployments-future-ready-with-ibm-cloud/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-17T05:43:52-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-17-capgemini-and-ibm-ecosystem-strengthen-partnership-for-drone-as-a-service.md",
+      "title": "Capgemini and IBM Ecosystem strengthen partnership for Drone-as-a-Service",
+      "excerpt": "Today, utilities and many other industries use drones extensively to conduct surveys, map assets and monitor business operations. They use drones for tasks as simple as aerial photography or as complex as sophisticated data collection and processing. The global commercial drone market is projected to",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/capgemini-and-ibm-ecosystem-strengthen-partnership-for-drone-as-a-service/",
+      "originalUrl": "https://www.ibm.com/blog/capgemini-and-ibm-ecosystem-strengthen-partnership-for-drone-as-a-service/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/04/Capgemini-and-IBM-Ecosystem-strengthen-partnership-for-Drone-as-a-Service--630x330.jpg",
+          "width": 630,
+          "height": 330,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-17T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-17-how-process-mining-improves-it-service-management-to-save-your-business-time-and-money.md",
+      "title": "How process mining improves IT service management to save your business time and money",
+      "excerpt": "Business leaders know that their organization&#8217;s success relies on its ability to keep essential processes running smoothly and efficiently. Communication technology like email and Slack have become so essential that business grinds to a halt if there are gaps in service. Furthermore, businesses",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/how-process-mining-improves-it-service-management-to-save-your-business-time-and-money/",
+      "originalUrl": "https://www.ibm.com/blog/how-process-mining-improves-it-service-management-to-save-your-business-time-and-money/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/04/How-does-process-mining-save-your-business-time-and-money-1-630x330.jpg",
+          "width": 630,
+          "height": 330,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-17T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-17-unmasking-the-hype-how-ai-can-empower-small-e-commerce-businesses.md",
+      "title": "Unmasking The Hype: How AI Can Empower Small E-Commerce Businesses",
+      "excerpt": "It’s an inquisitive mind that can help us separate the hype from the genuine opportunities and evaluate AI’s true potential in the ever-evolving world of e-commerce.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/05/17/unmasking-the-hype-how-ai-can-empower-small-e-commerce-businesses/",
+      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/05/17/unmasking-the-hype-how-ai-can-empower-small-e-commerce-businesses/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6463e6cab986491758c2ff1a/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/05/17/unmasking-the-hype-how-ai-can-empower-small-e-commerce-businesses/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/05/17/unmasking-the-hype-how-ai-can-empower-small-e-commerce-businesses/amp/",
+      "publishedDateTime": "2023-05-17T03:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-17-can-artificial-intelligence-solve-the-growing-mental-health-crisis.md",
       "title": "Can Artificial Intelligence Solve The Growing Mental Health Crisis?",
       "excerpt": "One such novel concept is the use of artificial intelligence in the mental health space. A couple seeks therapy with a mental health professional. With the advent of generative AI, conversational AI, and natural language processing, the thought of using ...",
@@ -242,6 +533,41 @@
         "AI in Robotics",
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-05-17-future-of-ai-in-e-commerce-transforming-data-with-ml-and-computer-vision.md",
+      "title": "Future of AI in e-commerce: Transforming data with ML and computer vision",
+      "excerpt": "While a lot has been discussedin areas of face recognition, graphical capabilities, some of the following use cases in e-Commerce can greatly benefit from computer vision, image processing. As a customer you want to know the best offers on your favourite ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.dqindia.com/future-of-ai-in-e-commerce-transforming-data-with-ml-and-computer-vision/",
+      "originalUrl": "https://www.dqindia.com/future-of-ai-in-e-commerce-transforming-data-with-ml-and-computer-vision/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dqindia.com/future-of-ai-in-e-commerce-transforming-data-with-ml-and-computer-vision/amp/",
+      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/future-of-ai-in-e-commerce-transforming-data-with-ml-and-computer-vision/amp/",
+      "publishedDateTime": "2023-05-16T23:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dataquest",
+        "domain": "dqindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -886,343 +1212,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-17-to-make-ai-work-for-national-security-invest-in-humans-too.md",
-      "title": "To make AI work for national security, invest in humans too",
-      "excerpt": "Artificial intelligence is rapidly developing across the globe. The United States needs human-centered artificial intelligence for national security. However, it also needs AI-centered humans.",
-      "sourceUrl": null,
-      "webUrl": "https://thebulletin.org/2023/05/to-make-ai-work-for-national-security-invest-in-humans-too/",
-      "originalUrl": "https://thebulletin.org/2023/05/to-make-ai-work-for-national-security-invest-in-humans-too/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thebulletin.org/wp-content/uploads/2023/05/artificial-intelligence-brain-think-illustration.jpeg",
-          "width": 1920,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thebulletin.org/2023/05/to-make-ai-work-for-national-security-invest-in-humans-too/amp/",
-      "cdnAmpWebUrl": "https://thebulletin-org.cdn.ampproject.org/c/s/thebulletin.org/2023/05/to-make-ai-work-for-national-security-invest-in-humans-too/amp/",
-      "publishedDateTime": "2023-05-16T10:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bulletin of the Atomic Scientists",
-        "domain": "thebulletin.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-05-17-nvidia-ceo-highlights-accelerated-computing-and-ais-role-in-chip-manufacturing-at-itf-world-2023.md",
-      "title": "Nvidia CEO highlights accelerated computing and AI’s role in chip manufacturing at ITF World 2023",
-      "excerpt": "Huang stressed the need for a new approach to meet the rising demand for computing power while addressing concerns regarding net-zero goals.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/nvidia-ceo-highlights-accelerated-computing-and-ais-role-in-chip-manufacturing-at-itf-world-2023/",
-      "originalUrl": "https://venturebeat.com/ai/nvidia-ceo-highlights-accelerated-computing-and-ais-role-in-chip-manufacturing-at-itf-world-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 141,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/02/nvidia-ceo-jensen-huang-at-gtc-fall-2022-1.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 637,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/nvidia-ceo-highlights-accelerated-computing-and-ais-role-in-chip-manufacturing-at-itf-world-2023/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/nvidia-ceo-highlights-accelerated-computing-and-ais-role-in-chip-manufacturing-at-itf-world-2023/amp/",
-      "publishedDateTime": "2023-05-16T10:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-17-senator-plays-opening-remarks-generated-by-ai.md",
-      "title": "Senator plays opening remarks generated by AI",
-      "excerpt": "Connecticut Senator Richard Blumenthal used ChatGPT to write his statement. Senator plays opening remarks generated by AI. Video, 00:01:15Senator plays opening remarks generated by AI Up Next. Huge cocaine stash found hidden in banana crates.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/av/world-us-canada-65613936",
-      "originalUrl": "https://www.bbc.com/news/av/world-us-canada-65613936",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/289A/production/_129749301_p0fnn50s.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-16T10:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-16-mediatek-looking-to-build-a-chipset-with-an-nvidia-gpu-next-year.md",
-      "title": "MediaTek looking to build a chipset with an Nvidia GPU next year",
-      "excerpt": "This chip will target Windows on ARM laptops, according to insiders. Besides graphics, Nvidia tech will also bring AI acceleration.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gsmarena.com/report_claims_that_mediatek_will_build_a_chipset_with_an_nvidia_gpu_as_early_as_next_year-news-58575.php",
-      "originalUrl": "https://www.gsmarena.com/report_claims_that_mediatek_will_build_a_chipset_with_an_nvidia_gpu_as_early_as_next_year-news-58575.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://fdn.gsmarena.com/imgroot/news/23/05/mediatek-nvidia-chipset/-952x498w6/gsmarena_000.jpg",
-          "width": 952,
-          "height": 498,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-16T09:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GSM Arena",
-        "domain": "gsmarena.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-16-gpt-neoxt-chat-base-20b-foundation-model-for-chatbot-applications-is-now-available-on-amazon-sagemaker.md",
-      "title": "GPT-NeoXT-Chat-Base-20B foundation model for chatbot applications is now available on Amazon SageMaker",
-      "excerpt": "Today we are excited to announce that Together Computer’s GPT-NeoXT-Chat-Base-20B language foundation model is available for customers using Amazon SageMaker JumpStart. GPT-NeoXT-Chat-Base-20B is an open-source model to build conversational bots. You can easily try out this model and use it with JumpStart.",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/gpt-neoxt-chat-base-20b-foundation-model-for-chatbot-applications-is-now-available-on-amazon-sagemaker/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/gpt-neoxt-chat-base-20b-foundation-model-for-chatbot-applications-is-now-available-on-amazon-sagemaker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/05/16/gpt-neoxt-chat-base-20b-sagemaker-1260x627.jpg",
-          "width": 1260,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-16T09:42:17-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-16-7-ai-stocks-that-could-make-you-a-millionaire-by-2025.md",
-      "title": "7 AI Stocks That Could Make You a Millionaire by 2025",
-      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial intelligence is no longer just a buzzword, shaking up",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/7-ai-stocks-that-could-make-you-a-millionaire-by-2025-1032332066",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/7-ai-stocks-that-could-make-you-a-millionaire-by-2025-1032332066",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-16T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-05-16-zoom-adds-an-ai-assistant-named-claude.md",
-      "title": "Zoom adds an AI assistant named Claude",
-      "excerpt": "Zoom just announced a strategic partnership with Anthropic, an artificial intelligence company that conducts research into AI safety and develops tools based on that work. The collaboration will integrate Anthropic's AI assistant, Claude, into the Zoom platform, including the Zoom Contact Center.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/zoom-adds-an-ai-assistant-named-claude/",
-      "originalUrl": "https://www.zdnet.com/article/zoom-adds-an-ai-assistant-named-claude/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/4f754c9459ab8f8dc50dc11d25722250ef2b3b58/2023/05/15/511372b9-5860-453d-8962-a298f453f18c/zoom-robot.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/zoom-adds-an-ai-assistant-named-claude/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/zoom-adds-an-ai-assistant-named-claude/",
-      "publishedDateTime": "2023-05-16T08:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Data and AI Ethics Market with Future Opportunities 2023-2031"
+    excerpt: "The Global \"Data and AI Ethics Market\" report with 124 pages provides essential insights into the growth prospects"
+    publishedDateTime: 2023-05-15T06:14:00Z
+    webUrl: "https://www.marketwatch.com/press-release/data-and-ai-ethics-market-with-future-opportunities-2023-2031-2023-05-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 84
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Healthcare BI Market Size, Share & Trends Analysis Report 2029| AIMR"
     excerpt: "Moreover, the emergence of big data analytics, artificial intelligence, and machine learning technologies in healthcare is expected to drive the growth of this market in the future. Opportunities and Threats in Healthcare BI Market The Healthcare BI Market ..."
     publishedDateTime: 2023-05-17T15:52:00Z

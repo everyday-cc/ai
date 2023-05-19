@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2023-05-19-meta-unveils-new-ai-data-centers-and-supercomputer-to-power-ai-first-future.md",
-      "title": "Meta unveils new AI data centers and supercomputer to power AI-first future",
-      "excerpt": "Meta announced today a series of new hardware and software projects that aim to support the next generation of AI applications.",
+      "path": "_news/2023-05-19-facebook-parent-meta-unveils-chip-for-ai-programs.md",
+      "title": "Facebook parent Meta unveils chip for AI programs",
+      "excerpt": "Facebook parent company Meta has unveiled its first custom silicon chip for processing AI programs called the Meta Training and Inference Accelerator, or MTIA. It also talked about a new AI-optimised data centre design and the second phase of 16,",
       "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/meta-unveils-new-ai-data-centers-and-supercomputer-to-power-ai-first-future/",
-      "originalUrl": "https://venturebeat.com/ai/meta-unveils-new-ai-data-centers-and-supercomputer-to-power-ai-first-future/",
+      "webUrl": "https://www.gadgetsnow.com/tech-news/facebook-parent-meta-unveils-chip-for-ai-programs/articleshow/100343511.cms",
+      "originalUrl": "https://www.gadgetsnow.com/tech-news/facebook-parent-meta-unveils-chip-for-ai-programs/articleshow/100343511.cms",
       "featuredContent": null,
       "highlight": null,
-      "heat": 229,
+      "heat": 84,
       "tags": null,
       "images": [
         {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/05/META.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 674,
+          "url": "https://static.toiimg.com/thumb/resizemode-4,msid-100343511,imgsize-15346,width-800/100343511.jpg",
+          "width": 800,
+          "height": 450,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,16 +24,59 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/meta-unveils-new-ai-data-centers-and-supercomputer-to-power-ai-first-future/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/meta-unveils-new-ai-data-centers-and-supercomputer-to-power-ai-first-future/amp/",
-      "publishedDateTime": "2023-05-18T14:04:00-07:00",
+      "ampWebUrl": "https://www.gadgetsnow.com/tech-news/facebook-parent-meta-unveils-chip-for-ai-programs/amp_articleshow/100343511.cms",
+      "cdnAmpWebUrl": "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/facebook-parent-meta-unveils-chip-for-ai-programs/amp_articleshow/100343511.cms",
+      "publishedDateTime": "2023-05-18T20:01:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
+        "name": "Gadgets Now",
+        "domain": "gadgetsnow.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-19-meta-bets-big-on-ai-with-custom-chips-and-a-supercomputer.md",
+      "title": "Meta bets big on AI with custom chips — and a supercomputer",
+      "excerpt": "Meta wants the world -- and particularly investors -- to know it's going big or going home where it concerns AI and the hardware to build it.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/05/18/meta-bets-big-on-ai-with-custom-chips-and-a-supercomputer/",
+      "originalUrl": "https://techcrunch.com/2023/05/18/meta-bets-big-on-ai-with-custom-chips-and-a-supercomputer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 156,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/11/facebook-meta-twist.jpg?resize=1200,675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/05/18/meta-bets-big-on-ai-with-custom-chips-and-a-supercomputer/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/18/meta-bets-big-on-ai-with-custom-chips-and-a-supercomputer/amp/",
+      "publishedDateTime": "2023-05-18T16:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -49,9 +92,9 @@
         "news"
       ],
       "topics": [
-        "Facebook AI",
         "AI",
-        "AI Hardware"
+        "AI Hardware",
+        "Facebook AI"
       ]
     },
     {
@@ -63,7 +106,7 @@
       "originalUrl": "https://www.nextplatform.com/2023/05/18/meta-platforms-crafts-homegrown-ai-inference-chip-ai-training-next/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": 86,
       "tags": null,
       "images": [
         {
@@ -107,7 +150,7 @@
       "originalUrl": "https://www.cnbc.com/2023/05/18/meta-pulls-the-curtain-back-on-its-ai-chips-for-the-first-time.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -204,7 +247,7 @@
       "originalUrl": "https://techcrunch.com/2023/05/18/beijing-china-ai-support-cloud/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 90,
       "tags": null,
       "images": [
         {
@@ -361,7 +404,7 @@
       "originalUrl": "https://venturebeat.com/ai/nvidia-ceo-highlights-accelerated-computing-and-ais-role-in-chip-manufacturing-at-itf-world-2023/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 141,
+      "heat": 151,
       "tags": null,
       "images": [
         {
@@ -413,7 +456,7 @@
       "originalUrl": "https://www.gsmarena.com/report_claims_that_mediatek_will_build_a_chipset_with_an_nvidia_gpu_as_early_as_next_year-news-58575.php",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -1453,59 +1496,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-10-latest-deep-learning-chip-market-trends-2023-2030.md",
-      "title": "Latest \"Deep Learning Chip Market\" Trends 2023-2030",
-      "excerpt": "(The Expresswire) -- \"Deep Learning Chip Market\" Insights 2023 By Types ( Graphics Processing Units (GPUs), Central Processing Units",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/latest-deep-learning-chip-market-trends-2023-2030-2023-05-10",
-      "originalUrl": "https://www.marketwatch.com/press-release/latest-deep-learning-chip-market-trends-2023-2030-2023-05-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 146,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-10T01:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

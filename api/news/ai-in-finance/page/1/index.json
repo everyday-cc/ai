@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-05-19-lessons-from-finances-experience-with-artificial-intelligence.md",
+      "title": "Lessons from finance’s experience with artificial intelligence",
+      "excerpt": "This rule appears to hold for artificial intelligence (AI) and machine learning, which were first employed by hedge funds decades ago, well before the recent hype. First came the “quants\", or quantitative investors,",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/money/lessons-from-finance-s-experience-with-artificial-intelligence-11684407926757.html",
+      "originalUrl": "https://www.livemint.com/money/lessons-from-finance-s-experience-with-artificial-intelligence-11684407926757.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.livemint.com/lm-img/img/2023/05/18/600x338/2-0-128027631-OPED-4C-0_1681892708995_1684408136028.jpg",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/money/lessons-from-finance-s-experience-with-artificial-intelligence/amp-11684407926757.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/money/lessons-from-finance-s-experience-with-artificial-intelligence/amp-11684407926757.html",
+      "publishedDateTime": "2023-05-18T15:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2023-05-19-worlds-first-100-ai-controlled-and-executed-house-purchase-processed-by-morgan.md",
       "title": "World's First 100% AI-Controlled and Executed House Purchase Processed by MORGAN",
       "excerpt": "From home finding to mortgage application to ownership, the homeowner's personal AI assistant is making home buying easier using Celligence",
@@ -54,6 +98,58 @@
       ]
     },
     {
+      "path": "_news/2023-05-17-what-20-agency-leaders-are-doing-to-better-understand-and-embrace-ai.md",
+      "title": "What 20 Agency Leaders Are Doing To Better Understand And Embrace AI",
+      "excerpt": "The pervasive influence of AI continues to reshape industries across the globe, compelling professionals to deepen their understanding of its impact.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/05/16/what-20-agency-leaders-are-doing-to-better-understand-and-embrace-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/05/16/what-20-agency-leaders-are-doing-to-better-understand-and-embrace-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/645a69b21317ce4dc82796dd/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-16T10:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-16-how-artificial-intelligence-is-used-in-finance.md",
       "title": "How Artificial Intelligence Is Used in Finance",
       "excerpt": "One of the most common applications of artificial intelligence in finance is in lending. Machine learning algorithms and pattern recognition allow businesses to go beyond the typical examination of credit scores and credit histories to rate borrowers' creditworthiness when applying for credit cards and other loans.",
@@ -62,7 +158,7 @@
       "originalUrl": "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/ai-in-finance/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 126,
+      "heat": 136,
       "tags": null,
       "images": [
         {
@@ -1260,84 +1356,6 @@
       "provider": {
         "name": "TMCnet",
         "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-01-mosaic-data-science-has-been-named-the-top-ai-machine-learning-services-company-of-2023-by-cio-review.md",
-      "title": "Mosaic Data Science has been named the Top AI & Machine Learning Services Company of 2023 By CIO Review",
-      "excerpt": "Mosaic is thrilled to be recognized as a leader in the Artificial Intelligence & Machine Learning space ... such as professional and financial services, retail, manufacturing, CPG, and oil ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sacbee.com/press-releases/article274911516.html",
-      "originalUrl": "https://www.sacbee.com/press-releases/article274911516.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-01T06:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Sacramento Bee",
-        "domain": "sacbee.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-05-01-next-big-wave-in-tech-investing-watch-out-for-ai-technology-unicorns.md",
-      "title": "Next big wave in tech investing? Watch out for AI ‘technology unicorns’",
-      "excerpt": "Venture capital pros expect generative AI to be “highly” or “moderately disruptive” over the next five years with more than 70% believe a wave of AI-inspired “technology unicorns” is on the horizon. Check out the results of a new survey from Pitchbook.",
-      "sourceUrl": null,
-      "webUrl": "https://wraltechwire.com/2023/05/01/next-big-wave-in-tech-investing-watch-out-for-ai-technology-unicorns/",
-      "originalUrl": "https://wraltechwire.com/2023/05/01/next-big-wave-in-tech-investing-watch-out-for-ai-technology-unicorns/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wraltechwire.com/wp-content/uploads/2019/11/cash-dollars-investing.jpg",
-          "width": 1280,
-          "height": 719,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wraltechwire.com/2023/05/01/next-big-wave-in-tech-investing-watch-out-for-ai-technology-unicorns/?amp=1",
-      "cdnAmpWebUrl": "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/05/01/next-big-wave-in-tech-investing-watch-out-for-ai-technology-unicorns/?amp=1",
-      "publishedDateTime": "2023-05-01T03:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WRAL TechWire",
-        "domain": "wraltechwire.com",
         "images": null,
         "publishers": null,
         "authors": null

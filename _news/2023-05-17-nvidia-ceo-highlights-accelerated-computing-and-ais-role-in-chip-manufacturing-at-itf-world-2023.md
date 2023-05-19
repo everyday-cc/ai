@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/nvidia-ceo-highlights-accelerated-computi
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/nvidia-ceo-highlights-accelerated-computing-and-ais-role-in-chip-manufacturing-at-itf-world-2023/amp/"
 type: article
 quality: 91
-heat: 141
+heat: 151
 published: true
 
 provider:
@@ -91,6 +91,15 @@ related:
       name: Fudzilla
       domain: fudzilla.com
     quality: 19
+  - title: "GIGABYTE to Introduce Leading-Edge AI Solutions and Computers at COMPUTEX 2023, Unveiling “Future of COMPUTING”"
+    excerpt: "Take the Lead in the AI Era with GIGABYTE’s Trailblazing GPU/HPC Servers The emergence of ChatGPT and various generative AI applications are making huge waves of industry evolution, driving all-time demand for AI computing servers. At COMPUTEX ..."
+    publishedDateTime: 2023-05-17T03:16:00Z
+    webUrl: "https://www.businesswire.com/news/home/20230516005112/en/GIGABYTE-to-Introduce-Leading-Edge-AI-Solutions-and-Computers-at-COMPUTEX-2023-Unveiling-“Future-of-COMPUTING”"
+    type: article
+    provider:
+      name: newsroom.businesswire.com
+      domain: businesswire.com
+    quality: 0
 
 secured: "+oW89qzDI+qsQ6Eh6Od/sVUn+NiN6xwMHZmIJPqnoAjIs+EgiRyIaNq4ovkZU4iaMT04o6lAuTq84R09lIYcSc0iBozSwRXhyGMwFE9XpJCqluiLX9LvhOWa07aPH7SfIkE9CY/mKtX2XPnUT+9I6XBDD4iOAFWBn8ufYx8I7v7Q9AIXj4pBPeW8wLz8V7LNX5xB0OOpx6hmmj60dFnnPMu8p3I/FstNkdl8k/zjF0MeIXvrDnUqLWToRXENpiCk4h5zguTX15xM4TTGiBMfTNsAKWrMjsQYPyxux0ofcj5FF4CxNN7fSBhVeMM29836nyYi9VYZsNYwrNzUwZam7j9USRcYgC1GpcG9H4uTOHSAfEHJu76DHLL6m5EJKGArokPbaWmrL4YAmiB/d7/XIZsekzZwWGQsaMfo8Tjq3sB6JiLlR8ThHEmJLKVE7vc/cUPJ9MkDVf4Qf5n9CmLpi4nbN/fgoiwAYztNRYXF0JF1fnq207vVxzb5fQhPBmQ9/eaj76AbtKQg7r5z3EI05Q==;sSUsMJbf1wkPO0h43bavGw=="
 ---

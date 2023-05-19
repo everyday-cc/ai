@@ -19,15 +19,38 @@ topics:
   - AI
 
 related:
-  - title: "Amazon's cloud unit to invest $13 bln in India by 2030"
-    excerpt: "Amazon.com Inc's cloud computing unit will invest 1.06 trillion rupees ($13 billion) in India by the end of this decade, doubling down on its past investments to cater to the growing demand for such services in one of Asia's fastest-growing economies."
-    publishedDateTime: 2023-05-18T10:24:00Z
-    webUrl: "https://www.reuters.com/technology/amazons-cloud-unit-invest-127-billion-india-by-2030-2023-05-18/"
+  - title: "Amazon Web Services CEO Selipsky on its growth, India market, AI bet and more"
+    excerpt: "India continues to be a big focus area though where AWS does enjoy a leadership position. Having invested about USD 3.7 billion in India since 2016 to set up its cloud infrastructure and service the market,"
+    publishedDateTime: 2023-05-18T16:17:00Z
+    webUrl: "https://www.cnbctv18.com/technology/amazon-web-services-ceo-selipsky-on-its-growth-india-market-ai-bet-and-more-16694821.htm"
+    ampWebUrl: "https://www.cnbctv18.com/technology/amazon-web-services-ceo-selipsky-on-its-growth-india-market-ai-bet-and-more-16694821.htm/amp"
+    cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/technology/amazon-web-services-ceo-selipsky-on-its-growth-india-market-ai-bet-and-more-16694821.htm/amp"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 34
+      name: cnbctv18
+      domain: cnbctv18.com
+    quality: 71
+    images:
+      - url: "https://images.cnbctv18.com/wp-content/uploads/2023/05/adam_selipsky_aws-1019x573.jpg"
+        width: 1019
+        height: 573
+        isCached: true
+  - title: "Embracing cloud technology critical to $5 trillion economy ambitions: AWS CEO Adam Selipsky"
+    excerpt: "Amazon's AWS CEO Adam Selipsky says India is an 'incredibly energised, high growth market' as the company announced plans to invest $12.7 billion in India's cloud infrastructure by 2030."
+    publishedDateTime: 2023-05-18T04:57:00Z
+    webUrl: "https://www.moneycontrol.com/news/business/embracing-cloud-technology-critical-to-5-trillion-economy-ambitions-aws-ceo-adam-selipsky-10611001.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/business/embracing-cloud-technology-critical-to-5-trillion-economy-ambitions-aws-ceo-adam-selipsky-10611001.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/embracing-cloud-technology-critical-to-5-trillion-economy-ambitions-aws-ceo-adam-selipsky-10611001.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 49
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2022/12/Adam-Selipsky-afp-770x435.jpg"
+        width: 770
+        height: 435
+        isCached: true
   - title: "AWS Announces Plans To Invest Rs 1.05 Lakh Crore Into Cloud Infrastructure In India By 2030"
     excerpt: "AWS runs two data centres in the country, one in Mumbai and the other in Hyderabad. The platform offers over 200 services which include storage, robotics and Artificial Intelligence. This comes amid growing interest among firms to invest in the the Indian ..."
     publishedDateTime: 2023-05-18T05:41:00Z

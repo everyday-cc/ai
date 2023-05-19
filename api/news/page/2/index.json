@@ -2,6 +2,307 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-05-18-staffing-startup-instawork-raises-60-million-to-expand-ai-tech.md",
+      "title": "Staffing Startup Instawork Raises $60 Million To Expand AI Tech",
+      "excerpt": "Instawork, a platform that matches hourly workers to job shifts, said the Series D will help boost the use of AI. Investors value the company at $760 million.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/emmylucas/2023/05/18/instawork-raises-60-million-to-expand-ai-tech-in-new-funding-round/",
+      "originalUrl": "https://www.forbes.com/sites/emmylucas/2023/05/18/instawork-raises-60-million-to-expand-ai-tech-in-new-funding-round/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64664ab2fac4682f9db1abc6/0x0.jpg?format=jpg&crop=720,405,x0,y22,safe&width=1200",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-18T05:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-18-big-name-investors-are-going-all-in-on-ai.md",
+      "title": "Big-name investors are going all-in on AI",
+      "excerpt": "The Tiger Global founder told investors to buy the so-called FAANG stocks – shorthand for Facebook parent Meta ... It's not just individual investors who are caught up in the AI fanfare. In a research note last month, Morgan Stanley said that 2023 ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/billionaire-investors-ai-chatgpt-bill-ackman-stanley-druckenmiller-big-tech-2023-5",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/billionaire-investors-ai-chatgpt-bill-ackman-stanley-druckenmiller-big-tech-2023-5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/62e3b3a0e1179200195ee85b?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/news/stocks/billionaire-investors-ai-chatgpt-bill-ackman-stanley-druckenmiller-big-tech-2023-5?amp",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/news/stocks/billionaire-investors-ai-chatgpt-bill-ackman-stanley-druckenmiller-big-tech-2023-5?amp",
+      "publishedDateTime": "2023-05-18T05:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-18-cast-ai-slashes-cloud-costs-for-organizations-that-build-train-and-run-artificial-intelligence-ai-applications.md",
+      "title": "CAST AI Slashes Cloud Costs for Organizations that Build, Train and Run Artificial Intelligence (AI) Applications",
+      "excerpt": "CAST AI introduced a series of new features into its platform, designed to dramatically reduce cloud costs for organizations.",
+      "sourceUrl": null,
+      "webUrl": "https://enterprisetalk.com/news/cast-ai-slashes-cloud-costs-for-organizations-that-build-train-and-run-artificial-intelligence-ai-applications/",
+      "originalUrl": "https://enterprisetalk.com/news/cast-ai-slashes-cloud-costs-for-organizations-that-build-train-and-run-artificial-intelligence-ai-applications/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://enterprisetalk.com/wp-content/uploads/2023/05/CAST-AI-Slashes-Cloud-Costs-for-Organizations-that-Build-Train-and-Run-Artificial-Intelligence-AI-Applications.jpg",
+          "width": 700,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://enterprisetalk.com/news/cast-ai-slashes-cloud-costs-for-organizations-that-build-train-and-run-artificial-intelligence-ai-applications/amp/",
+      "cdnAmpWebUrl": "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/cast-ai-slashes-cloud-costs-for-organizations-that-build-train-and-run-artificial-intelligence-ai-applications/amp/",
+      "publishedDateTime": "2023-05-18T05:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "enterprisetalk",
+        "domain": "enterprisetalk.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI Hardware",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-18-dr-marc-siegel-explains-how-artificial-intelligence-could-be-helpful-in-doctors-offices.md",
+      "title": "Dr. Marc Siegel explains how artificial intelligence could be helpful in doctors' offices",
+      "excerpt": "Fox News medical contributor Dr. Marc Siegel joins 'Fox & Friends' to discuss the benefits of artificial intelligence in the medical industry if used with caution.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/video/6327743025112",
+      "originalUrl": "https://www.foxnews.com/video/6327743025112",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2461ffba-8aa2-4447-b9d8-e50d1bc87995/dddf898f-baac-4032-b688-4969ef7da9f3/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "width": 1024,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-18T04:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-18-seven-mistakes-to-avoid-when-leveraging-ai-in-your-customer-journey.md",
+      "title": "Seven Mistakes To Avoid When Leveraging AI In Your Customer Journey",
+      "excerpt": "While there is no doubt that AI tools, such as chatbots, are seeing broad adoption in the contact center, there are still several pitfalls CX leaders can avoid when choosing and implementing AI tools.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/18/seven-mistakes-to-avoid-when-leveraging-ai-in-your-customer-journey/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/18/seven-mistakes-to-avoid-when-leveraging-ai-in-your-customer-journey/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6464db34f1c65ed2777a7422/0x0.jpg?format=jpg&crop=6834,3839,x2336,y0,safe&width=1200",
+          "width": 1200,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/18/seven-mistakes-to-avoid-when-leveraging-ai-in-your-customer-journey/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/05/18/seven-mistakes-to-avoid-when-leveraging-ai-in-your-customer-journey/amp/",
+      "publishedDateTime": "2023-05-18T04:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-18-how-could-artificial-intelligence-impact-cybersecurity.md",
+      "title": "How Could Artificial Intelligence Impact Cybersecurity?",
+      "excerpt": "Artificial intelligence (AI) has entered the chat in almost every industry in 2023. From art and creativity to cybersecurity, data protection and the ethical use of technology, AI is taking society by storm, with no signs of stopping anytime soon.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/18/how-could-artificial-intelligence-impact-cybersecurity/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/18/how-could-artificial-intelligence-impact-cybersecurity/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62fe3f02288da371535f25e6/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 502,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/18/how-could-artificial-intelligence-impact-cybersecurity/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/05/18/how-could-artificial-intelligence-impact-cybersecurity/amp/",
+      "publishedDateTime": "2023-05-18T04:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-18-mitigating-dark-web-risks-the-role-of-ai-and-machine-learning.md",
       "title": "Mitigating Dark Web Risks: The Role Of AI And Machine Learning",
       "excerpt": "As artificial intelligence and machine learning are becoming increasingly important in the fight against cybercrime, security leaders should consider a range of tools to safeguard themselves.",
@@ -10,7 +311,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/18/mitigating-dark-web-risks-the-role-of-ai-and-machine-learning/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 135,
       "tags": null,
       "images": [
         {
@@ -114,7 +415,7 @@
       "originalUrl": "https://techcrunch.com/2023/05/18/beijing-china-ai-support-cloud/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 90,
       "tags": null,
       "images": [
         {
@@ -375,7 +676,7 @@
       "originalUrl": "https://www.foxnews.com/tech/alexa-siri-ai",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 90,
       "tags": null,
       "images": [
         {
@@ -957,297 +1258,6 @@
       "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/17/ai-and-the-future-of-work-developing-a-fascination-and-appreciation-for-the-unknown/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/05/17/ai-and-the-future-of-work-developing-a-fascination-and-appreciation-for-the-unknown/amp/",
       "publishedDateTime": "2023-05-17T07:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-17-amazon-unveils-echo-pop-new-echo-buds-reports-500m-alexa-device-sales-as-ai-upends-market.md",
-      "title": "Amazon unveils Echo Pop, new Echo Buds; reports >500M Alexa device sales as AI upends market",
-      "excerpt": "In-depth Amazon coverage from the tech giant’s hometown, including e-commerce, AWS, Amazon Prime ... broader market is focused on the rapid development in generative artificial intelligence, where sophisticated interactions with new language models ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2023/amazon-unveils-echo-pop-new-echo-buds-reports-500m-alexa-device-sales-as-ai-upends-market/",
-      "originalUrl": "https://www.geekwire.com/2023/amazon-unveils-echo-pop-new-echo-buds-reports-500m-alexa-device-sales-as-ai-upends-market/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2023/05/Echo-Pop-All-Colors.png",
-          "width": 1000,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-17T07:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2023-05-17-abb-predicts-top-us-robotics-trends.md",
-      "title": "ABB Predicts Top U.S. Robotics Trends",
-      "excerpt": "The impact of U.S. labor shortages is increasingly being felt by many businesses as they struggle to keep pace with customer demands, even with the potential for some softening",
-      "sourceUrl": null,
-      "webUrl": "https://www.manufacturing.net/operations/news/22862117/abb-predicts-top-us-robotics-trends",
-      "originalUrl": "https://www.manufacturing.net/operations/news/22862117/abb-predicts-top-us-robotics-trends",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.manufacturing.net/files/base/indm/multi/image/2023/05/ABB_AI_enabled_Item_Picker.6464e19fa3498.png?auto=format%2Ccompress&fit=max&q=70&rect=99%2C0%2C1743%2C981&w=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-17T07:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Manufacturing",
-        "domain": "manufacturing.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-17-make-sap-erp-deployments-future-ready-with-ibm-cloud.md",
-      "title": "Make SAP ERP deployments future-ready with IBM Cloud",
-      "excerpt": "IBM offers SAP-enabled transformation expertise and enterprise-grade cloud platform capabilities to help accelerate our client’s ERP modernization journey.\nThe post Make SAP ERP deployments future-ready with IBM Cloud appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/make-sap-erp-deployments-future-ready-with-ibm-cloud/",
-      "originalUrl": "https://www.ibm.com/blog/make-sap-erp-deployments-future-ready-with-ibm-cloud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-17T05:43:52-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-17-capgemini-and-ibm-ecosystem-strengthen-partnership-for-drone-as-a-service.md",
-      "title": "Capgemini and IBM Ecosystem strengthen partnership for Drone-as-a-Service",
-      "excerpt": "Today, utilities and many other industries use drones extensively to conduct surveys, map assets and monitor business operations. They use drones for tasks as simple as aerial photography or as complex as sophisticated data collection and processing. The global commercial drone market is projected to",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/capgemini-and-ibm-ecosystem-strengthen-partnership-for-drone-as-a-service/",
-      "originalUrl": "https://www.ibm.com/blog/capgemini-and-ibm-ecosystem-strengthen-partnership-for-drone-as-a-service/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/04/Capgemini-and-IBM-Ecosystem-strengthen-partnership-for-Drone-as-a-Service--630x330.jpg",
-          "width": 630,
-          "height": 330,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-17T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-17-how-process-mining-improves-it-service-management-to-save-your-business-time-and-money.md",
-      "title": "How process mining improves IT service management to save your business time and money",
-      "excerpt": "Business leaders know that their organization&#8217;s success relies on its ability to keep essential processes running smoothly and efficiently. Communication technology like email and Slack have become so essential that business grinds to a halt if there are gaps in service. Furthermore, businesses",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/how-process-mining-improves-it-service-management-to-save-your-business-time-and-money/",
-      "originalUrl": "https://www.ibm.com/blog/how-process-mining-improves-it-service-management-to-save-your-business-time-and-money/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/04/How-does-process-mining-save-your-business-time-and-money-1-630x330.jpg",
-          "width": 630,
-          "height": 330,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-17T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-17-unmasking-the-hype-how-ai-can-empower-small-e-commerce-businesses.md",
-      "title": "Unmasking The Hype: How AI Can Empower Small E-Commerce Businesses",
-      "excerpt": "It’s an inquisitive mind that can help us separate the hype from the genuine opportunities and evaluate AI’s true potential in the ever-evolving world of e-commerce.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/05/17/unmasking-the-hype-how-ai-can-empower-small-e-commerce-businesses/",
-      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/05/17/unmasking-the-hype-how-ai-can-empower-small-e-commerce-businesses/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6463e6cab986491758c2ff1a/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/05/17/unmasking-the-hype-how-ai-can-empower-small-e-commerce-businesses/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/05/17/unmasking-the-hype-how-ai-can-empower-small-e-commerce-businesses/amp/",
-      "publishedDateTime": "2023-05-17T03:59:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",

@@ -89,6 +89,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Is that really you? TSA tests facial recognition tech for airport security"
+    excerpt: "A pilot project by the Transportation Security Administration is assessing the use of facial recognition technology at a number of airports across the country."
+    publishedDateTime: 2023-05-15T11:36:00Z
+    webUrl: "https://thehill.com/regulation/transportation/4004432-is-that-really-you-tsa-tests-facial-recognition-tech-for-airport-security/?0=utm_source=ground.news&1=utm_medium=referral"
+    ampWebUrl: "https://thehill.com/regulation/transportation/4004432-is-that-really-you-tsa-tests-facial-recognition-tech-for-airport-security/amp/"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/regulation/transportation/4004432-is-that-really-you-tsa-tests-facial-recognition-tech-for-airport-security/amp/"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 89
+    images:
+      - url: "https://thehill.com/wp-content/uploads/sites/2/2023/05/facial.jpg?w=1280"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Are you who you say you are? TSA tests facial recognition technology to boost airport security"
     excerpt: "TSA says the goal of the pilot is to improve the accuracy of the identity verification without slowing down the speed at which passengers pass through the checkpoints — a key issue for an agency that sees 2."
     publishedDateTime: 2023-05-15T10:57:00Z
@@ -295,15 +311,6 @@ related:
       name: Hawaii News Now
       domain: hawaiinewsnow.com
     quality: 51
-  - title: "Is that really you? TSA tests facial recognition tech for airport security"
-    excerpt: "A pilot project by the Transportation Security Administration is assessing the use of facial recognition technology at a number of airports across the country."
-    publishedDateTime: 2023-05-15T16:15:00Z
-    webUrl: "https://www.kark.com/news/national-news/is-that-really-you-tsa-tests-facial-recognition-tech-for-airport-security/"
-    type: article
-    provider:
-      name: KARK
-      domain: kark.com
-    quality: 49
   - title: "TSA tests facial recognition software at airports, drawing concerns about privacy"
     excerpt: "The effort comes at a time when the use of various forms of technology to enhance security and streamline procedures is only increasing."
     publishedDateTime: 2023-05-15T22:00:00Z
@@ -503,6 +510,6 @@ related:
       domain: extremetech.com
     quality: 19
 
-secured: "nFUo0mVJUGzvDvZ+Q06wZA/tejisghuKrsfQyqi0o34ekAXLM7SIINobdh18GkFDHNpdYzcFSkYrBqSx1yPXxrHssyyeAueWCLSVWmqEt7DVNcshWeuMkHyI17mfq1V3xb6rRP3rMtia1oYWK1v2ub5yEuvDsJBFZ+FpJkpsRJdFdBBs4DTguvNqSsmcam1vLgGy5Q72fongGxKXkSh2PMBDA0b4JNXn/PE8la2Ed9C8gL27CbHTAPErXXzrp+KlOrMpAi70tFDubJgvI2b3x5IXXFhnnqWVgDNYyR917CEZsLc3jM0s3n56GsZ2QK5awiobkikJTK9vTklK8nIcsSGdD6vnYIniusCqebgZnlQ=;WHFEFs7+m5kFvmJd+gGYxg=="
+secured: "oHwtefHtmj0hwo1GHQWLLWvtEuCnvJ6/jR1+RgzuEKbxrC19bpKNwELcpRhpG4N2Fi+GWrUbpS6YptY22BE3rWuZEwzy/iEJ78o9KMmv9SlAfhtOHyrqlLyLCMcIFUooCQVLk8Dp8zmhxJIpsNZHSMWTvyRc+jsEOv9RYroxDgJJOvvPOfWBjafV/jk3uHNBp813feusrCSC1mjfsexSj0REYTsy7MX7DpWFZNwO5uEPrks3fkNvKqzt07yh+FKYRvI+1TuRPETON8tvjMNiyWC4UO1h1FG0XrCh3TlZ8AqxoUPzXcgOIggfWAq/6GGu0+QVp+ytXrN1llPf/9MCx//tMGjVsDKsOOGNLLGEwPw=;LQRKihmS1kR/JBz2xmk7MQ=="
 ---
 

@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "17 AI and machine learning terms everyone needs to know"
-    excerpt: "With the ongoing Artificial Intelligence boom, it is very important to understand the terminology in use. Here are 17 AI and machine learning terms everyone needs to know."
-    publishedDateTime: 2023-05-14T10:25:00Z
-    webUrl: "https://www.indiatoday.in/education-today/grammar-vocabulary/story/17-ai-and-machine-learning-terms-everyone-needs-to-know-2379081-2023-05-14"
-    ampWebUrl: "https://www.indiatoday.in/amp/education-today/grammar-vocabulary/story/17-ai-and-machine-learning-terms-everyone-needs-to-know-2379081-2023-05-14"
-    cdnAmpWebUrl: "https://www-indiatoday-in.cdn.ampproject.org/c/s/www.indiatoday.in/amp/education-today/grammar-vocabulary/story/17-ai-and-machine-learning-terms-everyone-needs-to-know-2379081-2023-05-14"
-    type: article
-    provider:
-      name: India Today
-      domain: indiatoday.in
-    quality: 74
-    images:
-      - url: "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202305/stockvault-digital-transformation-concept-virtual-hand-creating-network257818-sixteen_nine.jpg?VersionId=7bt_uMPGpWUZCkf7KELZEIZRX4kjQnWt"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "AI And The Legal Industry: How To Amplify Efficiency"
     excerpt: "The rapid development of AI-driven tools offers law firms a host of opportunities for bringing new levels of efficiency to their operations."
     publishedDateTime: 2023-05-16T13:14:00Z
@@ -51,6 +35,15 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
+    quality: 47
+  - title: "How AI Is Changing the Retail Industry"
+    excerpt: "The retail industry is always evolving according to customer demand and available technology. It's gone from brick-and-mortar to e-commerce to omnichannel, and artificial intelligence helps retailers improve their operations in a number of ways, including demand forecasting and recommendations, to use two more prominent examples."
+    publishedDateTime: 2023-05-16T13:18:00Z
+    webUrl: "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/ai-in-retail/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
     quality: 47
 
 secured: "jN8JFgAHC7REgAwQ37XnQrhY2FVm5UBwMxobhdmQ5koahVBs1kX/DVyN9SKTASsT9eEPQ9sYeT3ImdRe9i4KI8JO+6BVpBGuBVnFE4LA4hBWuGzPdmFHqu5jZ0O2JOkK2TP34Z0OU10h3E8ksfbFW5tWN25ZE38ZVMFVS0T1aqIXnmFK0SHhfLD1gF0rJnVTUhmW2mXncgWwzP5f2uXn9oWphXOyBqNbBW1963rz76eO/oZxLS7ORhyNlmPAZTKaT/DJhsFgav4x1W2uD9bE8ZWcs+lXuhWBE7ZNgn3cgszkg3BskpU6pxQK7tlYJRh0nIwx/sny5sgPY6/FGWC69hCnY7XOFuK3f7ncRHky4p/sJkCFKH2ieyTNYjuoB9usrYoY5DJJ+x8yrwXJthz8PPt/EEtJQ+1NBf1/rzhHsczQWrWFFCfvNWtOw6KrvUxwuM2dzRVq1y5ITSyFNUEYOzowQO4+R7vkT/7+i9T1JMZYsfxHZdX6wvOak/ppp3MKgwc5GTpizVNStaJaM+JoAA==;eqgnerV0BHqt5713+y5zcw=="

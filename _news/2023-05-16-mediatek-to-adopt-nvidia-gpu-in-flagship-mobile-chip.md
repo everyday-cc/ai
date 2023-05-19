@@ -39,6 +39,20 @@ related:
         width: 952
         height: 498
         isCached: true
+  - title: "Nvidia sees AI GPU orders ramp up"
+    excerpt: "Nvidia has seen a ramp-up in orders for its A100 and H100 AI GPUs, as a result of the generative AI boom, which has led to an increase in wafer starts at TSMC, according to market sources."
+    publishedDateTime: 2023-05-19T02:50:00Z
+    webUrl: "https://www.digitimes.com/news/a20230518PD215/nvidia-ic-manufacturing-ai-gpu-ai-server-tsmc.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 54
+    images:
+      - url: "https://img.digitimes.com/newsshow/20230518pd215_files/2_2b.jpg"
+        width: 1280
+        height: 853
+        isCached: true
   - title: "MediaTek will reportedly build a flagship SoC with an integrated Nvidia GPU for 2024"
     excerpt: "MediaTek is reportedly working with Nvidia to develop a flagship smartphone SoC that would include an Nvidia GPU."
     publishedDateTime: 2023-05-18T05:30:00Z

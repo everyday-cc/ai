@@ -111,6 +111,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "ClearML unveils ClearGPT, a generative AI platform overcoming ChatGPT challenges"
+    excerpt: "Open-source AI solutions firm ClearML today announced the launch of ClearGPT, a secure and enterprise-grade generative AI platform. The platform’s primary objective is to empower organizations to securely and efficiently deploy and utilize state-of-the-art large language models (LLMs) at scale."
+    publishedDateTime: 2023-05-19T02:07:00Z
+    webUrl: "https://venturebeat.com/ai/clearml-unveils-cleargpt-a-generative-ai-platform-overcoming-chatgpt-challenges/"
+    ampWebUrl: "https://venturebeat.com/ai/clearml-unveils-cleargpt-a-generative-ai-platform-overcoming-chatgpt-challenges/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/clearml-unveils-cleargpt-a-generative-ai-platform-overcoming-chatgpt-challenges/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 82
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/05/ClearGPT-Generative-AI-Platform_1.png?w=1200&strip=all"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "OpenAI introduces ChatGPT app for iOS, bringing most popular generative AI to iPhones"
     excerpt: "In a surprise move today, OpenAI suddenly released a ChatGPT app for Apple iOS, bringing generative AI to iPhones everywhere."
     publishedDateTime: 2023-05-18T17:23:00Z
@@ -267,22 +283,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "ChatGPT: The game-changing AI-language model and its implications on enterprise automation"
-    excerpt: "ChatGPT has gained global attention and recognition, yet its impact on enterprise automation remains an area not fully explored. Analyzing it from the standpoint of intelligent automation can reveal its potential impact on the"
-    publishedDateTime: 2023-05-14T10:03:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/chatgpt-the-game-changing-ai-language-model-and-its-implications-on-enterprise-automation/?source=app&frmapp=yes"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/chatgpt-the-game-changing-ai-language-model-and-its-implications-on-enterprise-automation/?source=app&frmapp=yes"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/chatgpt-the-game-changing-ai-language-model-and-its-implications-on-enterprise-automation/?source=app&frmapp=yes"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 49
-    images:
-      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/08/Sanjeev-Menon.png"
-        width: 573
-        height: 413
-        isCached: true
   - title: "ChatGPT’s chief testifies before Congress as concerns grow about artificial intelligence risks"
     excerpt: "The head of the artificial intelligence company that makes ChatGPT told Congress on Tuesday that government intervention “will be critical to mitigate the risks of increasingly powerful” AI systems."
     publishedDateTime: 2023-05-16T15:12:00Z
@@ -425,6 +425,20 @@ related:
         width: 1880
         height: 1253
         isCached: true
+  - title: "ChatGPT: Are school districts ready for Artificial Intelligence"
+    excerpt: "Artificial Intelligence has become a popular topic lately ... Greg Abbott will likely sign legislation into law soon that will ban certain health care options for transgender minors, and several legal groups announced their intent to file a lawsuit ..."
+    publishedDateTime: 2023-05-19T02:32:00Z
+    webUrl: "https://www.kxan.com/video/chatgpt-are-school-districts-ready-for-artificial-intelligence/8661234/"
+    type: article
+    provider:
+      name: KXAN
+      domain: kxan.com
+    quality: 39
+    images:
+      - url: "https://www.kxan.com/wp-content/themes/nexstar/client/src/images/footer/nexstar-logo-white-nmg.png"
+        width: 396
+        height: 202
+        isCached: true
   - title: "Kagan: What’s the next move for Meta with metaverse down, AI ChatGPT up?"
     excerpt: "As interest and intrigue in ChatGPT overtakes that of the metaverse, one analyst asks: Should Meta change its vision?"
     publishedDateTime: 2023-05-15T15:22:00Z
@@ -438,20 +452,6 @@ related:
       - url: "https://www.rcrwireless.com/wp-content/uploads/2022/12/176512315_s.jpg"
         width: 844
         height: 567
-        isCached: true
-  - title: "ChatGPT on Mars: How AI can help scientists study the Red Planet"
-    excerpt: "Steve Ruff, associate research professor at Arizona State University's School of Earth and Space Exploration in Tempe, Arizona, is keenly tied to studying Mars."
-    publishedDateTime: 2023-05-14T10:00:00Z
-    webUrl: "https://www.space.com/artificial-intelligence-chatgpt-mars"
-    type: article
-    provider:
-      name: Space.com
-      domain: space.com
-    quality: 37
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/B6gVBJ4kwYSsESKTc9XXNK-1200-80.jpg"
-        width: 1200
-        height: 675
         isCached: true
   - title: "ChatGPT CEO testifies before Congress as concerns grow about AI risks"
     excerpt: "Sam Altman told Congress on Tuesday that government intervention \"will be critical to mitigate the risks of increasingly powerful” AI systems."
@@ -744,6 +744,6 @@ related:
       domain: yourstory.com
     quality: 1
 
-secured: "8v9lGUO1uTjBYtbU6SLAXQI3h5d5KfsmuSjL18izWkEMTJRASZaxCyqwG9vcllfePydVtnSiE4NaXV68tkmdonJm8q4VEX/KO5ee17Tk/CpCX3k6cwTbVcsK7KKwtra+jbiYdwiqw2FW4mGr2wwK02KpHRZJLVV0ONGlZwqwu5XS/QFS6/6j/XQHuh9QQQ4xffWkmadCfpViGsHSm3YtvOEgOhnzldOqXv4BsZBbRW3fAUUMzaAEbzDrxvJPwKR1nyTBH+yxsuhClvHqzRID12rhHdRAOVlBC+2Ihv1uil72S3M67DJ7ENOJqdKkQxJkxSnkmf6GcNHZpqNv/PAj8nB+WHIcQ7OB79VN0jLpeIM=;GfrPrc38BfhHB6Ovg+imdg=="
+secured: "iunxfLHEAKj43HrUx4/h4UlKA7aMyW5R3doYWaTLQz0VZhCsCC1/lT9hE5bI+cKjT4eNebDh5s9JxzelOcIVKcHiU8ZMqvSBLTnH9iJaBsthn1qhxC/icRd9nUypdZ07rgOiIQtUe8C24t3CJgEDpltAJxV7jNVZMFWIimtaG4i//lwj563DSxwXu8m/3KbdO+ZW5alckgSpAw7Lj967InQzykpKOMRfgqpUTCPXhe6v7hpdh56fdYfxZRlta7AupHfrPLj55NkepXUWJ4/5EhWAYnhfKjZaYO4aHxiuS7EecVnHm2Wm01wJ3INRvPhwsN9jy1u60Xko5poS7G10KIVp1ZWXmKNc8M4VoINYNb5R9DrJ+Vt0zD2C02scul2u+JyBIcSO+g396z9Jij/3VM+Atx036Y1WKsPk10mb428EGfiLtqW4pJsGJ6Oe/f0gJgmPwum1lGddMqoNcb2rAXV6gdJgVMAIwBcmoPwJhSXBPn0JTt/4yV4feo8ToQqcXnj3LWxHzxLzWt2zpeOFlg==;0fQR0IjJ9xrl/Cgg2J6FOw=="
 ---
 

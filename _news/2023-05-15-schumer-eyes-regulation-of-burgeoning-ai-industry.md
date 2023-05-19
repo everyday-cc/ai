@@ -7,7 +7,7 @@ originalUrl: "https://buffalonews.com/news/local/schumer-eyes-regulation-of-burg
 webUrl: "https://buffalonews.com/news/local/schumer-eyes-regulation-of-burgeoning-ai-industry/article_a6bdb158-f0f2-11ed-9a8e-23259ddc585c.html"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,100 +24,34 @@ images:
     isCached: true
 
 related:
-  - title: "Behemoths Of The Retail Industry Are Redefining Customer Experience With Computer Vision And AI"
-    excerpt: "Computer vision and AI are revolutionizing the retail industry by optimizing inventory management, reducing stock-outs and enhancing shopper experiences. By understanding consumer behavior, retailers can offer personalized shopping experiences and increase sales."
-    publishedDateTime: 2023-05-15T10:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/15/behemoths-of-the-retail-industry-are-redefining-customer-experience-with-computer-vision-and-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/15/behemoths-of-the-retail-industry-are-redefining-customer-experience-with-computer-vision-and-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/05/15/behemoths-of-the-retail-industry-are-redefining-customer-experience-with-computer-vision-and-ai/amp/"
+  - title: "Schumer meets with bipartisan group of senators to build a coalition for AI law"
+    excerpt: "Schumer has takes next steps with a group of bipartisan Senate lawmakers to craft a comprehensive artificial intelligence law. \"Congress must move quickly,\" he said Thursday."
+    publishedDateTime: 2023-05-19T01:57:00Z
+    webUrl: "https://www.iowapublicradio.org/news-from-npr/2023-05-18/schumer-meets-with-bipartisan-group-of-senators-to-build-a-coalition-for-ai-law"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 92
+      name: Iowa Public Radio
+      domain: iowapublicradio.org
+    quality: 35
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/645e3c535fc52f1156679966/0x0.jpg?format=jpg&width=1200"
+      - url: "https://npr.brightspotcdn.com/dims4/default/d784b83/2147483647/strip/true/crop/3887x2041+0+73/resize/1200x630!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2023%2F05%2F18%2Fap23136755393936_wide-83186c077d31b8df624cc2a72879d8bcaffcf43c.jpg"
         width: 1200
-        height: 800
+        height: 630
         isCached: true
-  - title: "Meta bets big on AI with custom chips — and a supercomputer"
-    excerpt: "Meta wants the world -- and particularly investors -- to know it's going big or going home where it concerns AI and the hardware to build it."
-    publishedDateTime: 2023-05-18T23:35:00Z
-    webUrl: "https://techcrunch.com/2023/05/18/meta-bets-big-on-ai-with-custom-chips-and-a-supercomputer/"
-    ampWebUrl: "https://techcrunch.com/2023/05/18/meta-bets-big-on-ai-with-custom-chips-and-a-supercomputer/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/18/meta-bets-big-on-ai-with-custom-chips-and-a-supercomputer/amp/"
+  - title: "AI Industry Leaders Encourage 'Critical' Congressional Regulation of Emerging Tech"
+    excerpt: "With more disruptive artificial intelligence technologies under development, private sector leadership discussed the pathways to regulation in the AI sector."
+    publishedDateTime: 2023-05-16T20:45:00Z
+    webUrl: "https://www.nextgov.com/emerging-tech/2023/05/ai-industry-leaders-encourage-critical-congressional-regulation-emerging-tech/386436/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
+      name: Nextgov
+      domain: nextgov.com
+    quality: 33
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/11/facebook-meta-twist.jpg?resize=1200,675"
-        width: 1200
-        height: 675
+      - url: "https://cdn.nextgov.com/media/img/cd/2023/05/16/051623AltmanNG-1/open-graph.jpg"
+        width: 400
+        height: 400
         isCached: true
-  - title: "Lessons from finance’s experience with artificial intelligence"
-    excerpt: "This rule appears to hold for artificial intelligence (AI) and machine learning, which were first employed by hedge funds decades ago, well before the recent hype. First came the “quants\", or quantitative investors,"
-    publishedDateTime: 2023-05-18T22:49:00Z
-    webUrl: "https://www.livemint.com/money/lessons-from-finance-s-experience-with-artificial-intelligence-11684407926757.html"
-    ampWebUrl: "https://www.livemint.com/money/lessons-from-finance-s-experience-with-artificial-intelligence/amp-11684407926757.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/money/lessons-from-finance-s-experience-with-artificial-intelligence/amp-11684407926757.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 76
-    images:
-      - url: "https://www.livemint.com/lm-img/img/2023/05/18/600x338/2-0-128027631-OPED-4C-0_1681892708995_1684408136028.jpg"
-        width: 600
-        height: 338
-        isCached: true
-  - title: "How AI Is Changing the Retail Industry"
-    excerpt: "The retail industry is always evolving according to customer demand and available technology. It's gone from brick-and-mortar to e-commerce to omnichannel, and artificial intelligence helps retailers improve their operations in a number of ways, including demand forecasting and recommendations, to use two more prominent examples."
-    publishedDateTime: 2023-05-16T13:18:00Z
-    webUrl: "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/ai-in-retail/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 47
-  - title: "GIGABYTE Unveils Revolutionary AI Computing Servers at COMPUTEX 2023"
-    excerpt: "GIGABYTE, announces its unprecedented exhibits at COMPUTEX 2023. Resonating its theme “Future of COMPUTING”, GIGABYTE is unveiling its all-around technical achievements, including industry-leading AI/HPC servers, green computing solutions, gaming and creator products, industrial PC, AI smart securities, and autonomous vehicle technology."
-    publishedDateTime: 2023-05-17T04:47:00Z
-    webUrl: "https://www.phoneworld.com.pk/gigabyte-unveils-revolutionary-ai-computing-servers-at-computex-2023/"
-    type: article
-    provider:
-      name: phoneworld.com.pk
-      domain: phoneworld.com.pk
-    quality: 39
-    images:
-      - url: "https://www.phoneworld.com.pk/wp-content/uploads/2023/05/GIGABYTE-1-EN.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Preparing for AI in the Employee Experience"
-    excerpt: "AI is the next big evolution in how we work. Most employees will need to incorporate it into their work. AI can be an effective tool for reducing repetitive tasks and minimizing bias in decision-making. Willingness to learn, emotional intelligence, and creative problem-solving are critical skills to hone."
-    publishedDateTime: 2023-05-17T22:07:00Z
-    webUrl: "https://www.psychologytoday.com/za/blog/the-new-employee-experience/202305/preparing-for-ai-in-the-employee-experience"
-    type: article
-    provider:
-      name: Psychology Today
-      domain: psychologytoday.com
-    quality: 39
-    images:
-      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-05/GettyImages-1469706462.jpg?itok=gnSj0JMx"
-        width: 1528
-        height: 800
-        isCached: true
-  - title: "GIGABYTE to Introduce Leading-Edge AI Solutions and Computers at COMPUTEX 2023, Unveiling “Future of COMPUTING”"
-    excerpt: "Take the Lead in the AI Era with GIGABYTE’s Trailblazing GPU/HPC Servers The emergence of ChatGPT and various generative AI applications are making huge waves of industry evolution, driving all-time demand for AI computing servers. At COMPUTEX ..."
-    publishedDateTime: 2023-05-17T03:16:00Z
-    webUrl: "https://www.businesswire.com/news/home/20230516005112/en/GIGABYTE-to-Introduce-Leading-Edge-AI-Solutions-and-Computers-at-COMPUTEX-2023-Unveiling-“Future-of-COMPUTING”"
-    type: article
-    provider:
-      name: newsroom.businesswire.com
-      domain: businesswire.com
-    quality: 0
 
 secured: "JPvOSVxF3HoBGC+kZduVPOSKpohlcx+WCAAJfObIKKSLn1pPMI6d4ZY65VyVl0bOJSI2Gv2lwHSScPbb35T/HoCNfXV4I7k/w0ChwlvbYSZgyRQVVlcBRNDAoc88AOd4mtRCChFauookvZ9O3skKnrKYockZ9MVR7EuZZCqTzoTk10cNvYSqbrhlxqUXW/cLd8UPCS4j3/ERg/R5x74bBn08Mo/p8NO8Dz4gOT5cpQlW2GY1x5efEJrnkIcsUtWm5nA694LYqcvgqqaclm8uJKl6bAv9/lm4E2iaesYnMbtKF42ZlJnEKGpqSa62ijFw60Dn0ZwWrgeNv2UbSlDa4VB6LD2gbu9ZJ1j//CaJlz0=;LvV8/A5Sj58todNPO5S+mQ=="
 ---

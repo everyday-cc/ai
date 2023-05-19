@@ -2,6 +2,189 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-05-19-facebook-parent-meta-unveils-chip-for-ai-programs.md",
+      "title": "Facebook parent Meta unveils chip for AI programs",
+      "excerpt": "Facebook parent company Meta has unveiled its first custom silicon chip for processing AI programs called the Meta Training and Inference Accelerator, or MTIA. It also talked about a new AI-optimised data centre design and the second phase of 16,",
+      "sourceUrl": null,
+      "webUrl": "https://www.gadgetsnow.com/tech-news/facebook-parent-meta-unveils-chip-for-ai-programs/articleshow/100343511.cms",
+      "originalUrl": "https://www.gadgetsnow.com/tech-news/facebook-parent-meta-unveils-chip-for-ai-programs/articleshow/100343511.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/thumb/resizemode-4,msid-100343511,imgsize-15346,width-800/100343511.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gadgetsnow.com/tech-news/facebook-parent-meta-unveils-chip-for-ai-programs/amp_articleshow/100343511.cms",
+      "cdnAmpWebUrl": "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/facebook-parent-meta-unveils-chip-for-ai-programs/amp_articleshow/100343511.cms",
+      "publishedDateTime": "2023-05-18T20:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gadgets Now",
+        "domain": "gadgetsnow.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-19-artificial-intelligence-could-wipe-out-education-gaps-between-students.md",
+      "title": "Artificial Intelligence could wipe out education gaps between students",
+      "excerpt": "As G7 Summit leaders prepared to discuss managing artificial intelligence data, developers think generative AI could re-shape education in south Florida.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/miami/news/artificial-intelligence-could-wipe-out-education-gaps-between-students/",
+      "originalUrl": "https://www.cbsnews.com/miami/news/artificial-intelligence-could-wipe-out-education-gaps-between-students/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/05/14/f7f87e5f-bd72-4627-b7fe-f40ff8c4737f/thumbnail/1200x630/d802df6eaaf0dcc3c67a54c02f0fadbf/ai-gettyimages-1483272785.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/miami/news/artificial-intelligence-could-wipe-out-education-gaps-between-students/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/miami/news/artificial-intelligence-could-wipe-out-education-gaps-between-students/",
+      "publishedDateTime": "2023-05-18T19:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2023-05-19-meta-bets-big-on-ai-with-custom-chips-and-a-supercomputer.md",
+      "title": "Meta bets big on AI with custom chips — and a supercomputer",
+      "excerpt": "Meta wants the world -- and particularly investors -- to know it's going big or going home where it concerns AI and the hardware to build it.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/05/18/meta-bets-big-on-ai-with-custom-chips-and-a-supercomputer/",
+      "originalUrl": "https://techcrunch.com/2023/05/18/meta-bets-big-on-ai-with-custom-chips-and-a-supercomputer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 156,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/11/facebook-meta-twist.jpg?resize=1200,675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/05/18/meta-bets-big-on-ai-with-custom-chips-and-a-supercomputer/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/18/meta-bets-big-on-ai-with-custom-chips-and-a-supercomputer/amp/",
+      "publishedDateTime": "2023-05-18T16:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-19-lessons-from-finances-experience-with-artificial-intelligence.md",
+      "title": "Lessons from finance’s experience with artificial intelligence",
+      "excerpt": "This rule appears to hold for artificial intelligence (AI) and machine learning, which were first employed by hedge funds decades ago, well before the recent hype. First came the “quants\", or quantitative investors,",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/money/lessons-from-finance-s-experience-with-artificial-intelligence-11684407926757.html",
+      "originalUrl": "https://www.livemint.com/money/lessons-from-finance-s-experience-with-artificial-intelligence-11684407926757.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.livemint.com/lm-img/img/2023/05/18/600x338/2-0-128027631-OPED-4C-0_1681892708995_1684408136028.jpg",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/money/lessons-from-finance-s-experience-with-artificial-intelligence/amp-11684407926757.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/money/lessons-from-finance-s-experience-with-artificial-intelligence/amp-11684407926757.html",
+      "publishedDateTime": "2023-05-18T15:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2023-05-19-robotics-awarded-first-patent-for-its-robotic-window-cleaning-system.md",
       "title": "Robotics awarded first patent for its robotic window-cleaning system",
       "excerpt": "Skyline Robotics, developers of OZMO, the world’s first high-rise window-cleaning robot, today announced the company has received its first patent for its robotic window-cleaning system. The patent, awarded by Singapore,",
@@ -53,7 +236,7 @@
       "originalUrl": "https://venturebeat.com/ai/yellow-ai-launches-yellowg-a-generative-ai-platform-for-automation-workflows/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 85,
       "tags": null,
       "images": [
         {
@@ -104,7 +287,7 @@
       "originalUrl": "https://www.marketwatch.com/story/tech-up-on-ai-optimism-tech-roundup-77d7ab6c",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -144,59 +327,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-19-meta-unveils-new-ai-data-centers-and-supercomputer-to-power-ai-first-future.md",
-      "title": "Meta unveils new AI data centers and supercomputer to power AI-first future",
-      "excerpt": "Meta announced today a series of new hardware and software projects that aim to support the next generation of AI applications.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/meta-unveils-new-ai-data-centers-and-supercomputer-to-power-ai-first-future/",
-      "originalUrl": "https://venturebeat.com/ai/meta-unveils-new-ai-data-centers-and-supercomputer-to-power-ai-first-future/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 229,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/05/META.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/meta-unveils-new-ai-data-centers-and-supercomputer-to-power-ai-first-future/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/meta-unveils-new-ai-data-centers-and-supercomputer-to-power-ai-first-future/amp/",
-      "publishedDateTime": "2023-05-18T14:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI Hardware"
       ]
     },
     {
@@ -250,7 +380,7 @@
       "originalUrl": "https://www.nextplatform.com/2023/05/18/meta-platforms-crafts-homegrown-ai-inference-chip-ai-training-next/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": 86,
       "tags": null,
       "images": [
         {
@@ -432,6 +562,58 @@
       ]
     },
     {
+      "path": "_news/2023-05-19-ibm-think-2023-ai-and-quantum-computing.md",
+      "title": "IBM Think 2023: AI and Quantum Computing",
+      "excerpt": "At its recent Think 2023 conference, IBM focused on two areas – AI and quantum computing – that it believes will be essential to its enterprise customers. Let’s look at the details. Why should organizations consider AI or quantum computing?",
+      "sourceUrl": null,
+      "webUrl": "https://www.eweek.com/artificial-intelligence/ibm-think-2023-ai-and-quantum-computing/",
+      "originalUrl": "https://www.eweek.com/artificial-intelligence/ibm-think-2023-ai-and-quantum-computing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eweek.com/wp-content/uploads/2022/01/VMWare-A7C3E368302C41B296E03A8651EFBDE0.jpeg",
+          "width": 696,
+          "height": 696,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-18T10:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eWeek",
+        "domain": "eweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-19-reino-unido-planea-reunion-con-openai-deepmind-sobre-riesgos-ia.md",
       "title": "Reino Unido planea reunión con OpenAI, DeepMind sobre riesgos IA",
       "excerpt": "El Gobierno del Reino Unido invitó a una reunión a los directores de algunas de las firmas de inteligencia artificial más grandes del mundo, dijeron personas familiarizadas con el asunto. Coincide con la elaboración en curso de una política del primer ...",
@@ -537,6 +719,57 @@
       ]
     },
     {
+      "path": "_news/2023-05-18-meta-and-google-news-adds-fuel-to-the-open-source-ai-fire.md",
+      "title": "Meta and Google news adds fuel to the open-source AI fire",
+      "excerpt": "The open-source AI debate is getting even hotter in Big Tech, thanks to recent headlines from Google and Meta's Yann LeCun.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/meta-and-google-news-adds-fuel-to-the-open-source-ai-fire/",
+      "originalUrl": "https://venturebeat.com/ai/meta-and-google-news-adds-fuel-to-the-open-source-ai-fire/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/05/Untitled-design-70.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/meta-and-google-news-adds-fuel-to-the-open-source-ai-fire/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/meta-and-google-news-adds-fuel-to-the-open-source-ai-fire/amp/",
+      "publishedDateTime": "2023-05-18T09:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-18-why-google-cloud-bests-aws-microsoft-in-generative-ai-kevin-ichhpurani.md",
       "title": "Why Google Cloud Bests AWS, Microsoft In Generative AI: Kevin Ichhpurani",
       "excerpt": "Google’s generative AI enterprise innovation with Google Cloud is better compared to Microsoft and AWS’ artificial intelligence, says partner leader Kevin Ichhpurani.",
@@ -578,6 +811,49 @@
         "AWS AI",
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-18-amazon-web-services-ceo-selipsky-on-its-growth-india-market-ai-bet-and-more.md",
+      "title": "Amazon Web Services CEO Selipsky on its growth, India market, AI bet and more",
+      "excerpt": "India continues to be a big focus area though where AWS does enjoy a leadership position. Having invested about USD 3.7 billion in India since 2016 to set up its cloud infrastructure and service the market,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbctv18.com/technology/amazon-web-services-ceo-selipsky-on-its-growth-india-market-ai-bet-and-more-16694821.htm",
+      "originalUrl": "https://www.cnbctv18.com/technology/amazon-web-services-ceo-selipsky-on-its-growth-india-market-ai-bet-and-more-16694821.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.cnbctv18.com/wp-content/uploads/2023/05/adam_selipsky_aws-1019x573.jpg",
+          "width": 1019,
+          "height": 573,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbctv18.com/technology/amazon-web-services-ceo-selipsky-on-its-growth-india-market-ai-bet-and-more-16694821.htm/amp",
+      "cdnAmpWebUrl": "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/technology/amazon-web-services-ceo-selipsky-on-its-growth-india-market-ai-bet-and-more-16694821.htm/amp",
+      "publishedDateTime": "2023-05-18T09:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "cnbctv18",
+        "domain": "cnbctv18.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
       ]
     },
     {
@@ -641,7 +917,7 @@
       "originalUrl": "https://www.cnbc.com/2023/05/18/meta-pulls-the-curtain-back-on-its-ai-chips-for-the-first-time.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -938,307 +1214,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-18-staffing-startup-instawork-raises-60-million-to-expand-ai-tech.md",
-      "title": "Staffing Startup Instawork Raises $60 Million To Expand AI Tech",
-      "excerpt": "Instawork, a platform that matches hourly workers to job shifts, said the Series D will help boost the use of AI. Investors value the company at $760 million.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/emmylucas/2023/05/18/instawork-raises-60-million-to-expand-ai-tech-in-new-funding-round/",
-      "originalUrl": "https://www.forbes.com/sites/emmylucas/2023/05/18/instawork-raises-60-million-to-expand-ai-tech-in-new-funding-round/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64664ab2fac4682f9db1abc6/0x0.jpg?format=jpg&crop=720,405,x0,y22,safe&width=1200",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-18T05:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-18-big-name-investors-are-going-all-in-on-ai.md",
-      "title": "Big-name investors are going all-in on AI",
-      "excerpt": "The Tiger Global founder told investors to buy the so-called FAANG stocks – shorthand for Facebook parent Meta ... It's not just individual investors who are caught up in the AI fanfare. In a research note last month, Morgan Stanley said that 2023 ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/billionaire-investors-ai-chatgpt-bill-ackman-stanley-druckenmiller-big-tech-2023-5",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/billionaire-investors-ai-chatgpt-bill-ackman-stanley-druckenmiller-big-tech-2023-5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/62e3b3a0e1179200195ee85b?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/news/stocks/billionaire-investors-ai-chatgpt-bill-ackman-stanley-druckenmiller-big-tech-2023-5?amp",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/news/stocks/billionaire-investors-ai-chatgpt-bill-ackman-stanley-druckenmiller-big-tech-2023-5?amp",
-      "publishedDateTime": "2023-05-18T05:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-18-cast-ai-slashes-cloud-costs-for-organizations-that-build-train-and-run-artificial-intelligence-ai-applications.md",
-      "title": "CAST AI Slashes Cloud Costs for Organizations that Build, Train and Run Artificial Intelligence (AI) Applications",
-      "excerpt": "CAST AI introduced a series of new features into its platform, designed to dramatically reduce cloud costs for organizations.",
-      "sourceUrl": null,
-      "webUrl": "https://enterprisetalk.com/news/cast-ai-slashes-cloud-costs-for-organizations-that-build-train-and-run-artificial-intelligence-ai-applications/",
-      "originalUrl": "https://enterprisetalk.com/news/cast-ai-slashes-cloud-costs-for-organizations-that-build-train-and-run-artificial-intelligence-ai-applications/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://enterprisetalk.com/wp-content/uploads/2023/05/CAST-AI-Slashes-Cloud-Costs-for-Organizations-that-Build-Train-and-Run-Artificial-Intelligence-AI-Applications.jpg",
-          "width": 700,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://enterprisetalk.com/news/cast-ai-slashes-cloud-costs-for-organizations-that-build-train-and-run-artificial-intelligence-ai-applications/amp/",
-      "cdnAmpWebUrl": "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/cast-ai-slashes-cloud-costs-for-organizations-that-build-train-and-run-artificial-intelligence-ai-applications/amp/",
-      "publishedDateTime": "2023-05-18T05:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "enterprisetalk",
-        "domain": "enterprisetalk.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI Hardware",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-18-dr-marc-siegel-explains-how-artificial-intelligence-could-be-helpful-in-doctors-offices.md",
-      "title": "Dr. Marc Siegel explains how artificial intelligence could be helpful in doctors' offices",
-      "excerpt": "Fox News medical contributor Dr. Marc Siegel joins 'Fox & Friends' to discuss the benefits of artificial intelligence in the medical industry if used with caution.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/video/6327743025112",
-      "originalUrl": "https://www.foxnews.com/video/6327743025112",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2461ffba-8aa2-4447-b9d8-e50d1bc87995/dddf898f-baac-4032-b688-4969ef7da9f3/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "width": 1024,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-18T04:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-18-seven-mistakes-to-avoid-when-leveraging-ai-in-your-customer-journey.md",
-      "title": "Seven Mistakes To Avoid When Leveraging AI In Your Customer Journey",
-      "excerpt": "While there is no doubt that AI tools, such as chatbots, are seeing broad adoption in the contact center, there are still several pitfalls CX leaders can avoid when choosing and implementing AI tools.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/18/seven-mistakes-to-avoid-when-leveraging-ai-in-your-customer-journey/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/18/seven-mistakes-to-avoid-when-leveraging-ai-in-your-customer-journey/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6464db34f1c65ed2777a7422/0x0.jpg?format=jpg&crop=6834,3839,x2336,y0,safe&width=1200",
-          "width": 1200,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/18/seven-mistakes-to-avoid-when-leveraging-ai-in-your-customer-journey/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/05/18/seven-mistakes-to-avoid-when-leveraging-ai-in-your-customer-journey/amp/",
-      "publishedDateTime": "2023-05-18T04:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-18-how-could-artificial-intelligence-impact-cybersecurity.md",
-      "title": "How Could Artificial Intelligence Impact Cybersecurity?",
-      "excerpt": "Artificial intelligence (AI) has entered the chat in almost every industry in 2023. From art and creativity to cybersecurity, data protection and the ethical use of technology, AI is taking society by storm, with no signs of stopping anytime soon.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/18/how-could-artificial-intelligence-impact-cybersecurity/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/18/how-could-artificial-intelligence-impact-cybersecurity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62fe3f02288da371535f25e6/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 502,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/18/how-could-artificial-intelligence-impact-cybersecurity/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/05/18/how-could-artificial-intelligence-impact-cybersecurity/amp/",
-      "publishedDateTime": "2023-05-18T04:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

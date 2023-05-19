@@ -24,6 +24,54 @@ images:
     isCached: true
 
 related:
+  - title: "Meta bets big on AI with custom chips — and a supercomputer"
+    excerpt: "Meta wants the world -- and particularly investors -- to know it's going big or going home where it concerns AI and the hardware to build it."
+    publishedDateTime: 2023-05-18T23:35:00Z
+    webUrl: "https://techcrunch.com/2023/05/18/meta-bets-big-on-ai-with-custom-chips-and-a-supercomputer/"
+    ampWebUrl: "https://techcrunch.com/2023/05/18/meta-bets-big-on-ai-with-custom-chips-and-a-supercomputer/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/18/meta-bets-big-on-ai-with-custom-chips-and-a-supercomputer/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 106
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/11/facebook-meta-twist.jpg?resize=1200,675"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Meta unveils its first custom AI chip"
+    excerpt: "Meta follows other giant tech companies that have developed their own chips for AI in addition to using the standard GPU chips from Nvidia that have come to dominate the field. Microsoft, Google and Amazon have all unveiled multiple custom chips over the past several years to handle different aspects of AI programs."
+    publishedDateTime: 2023-05-18T16:00:00Z
+    webUrl: "https://www.zdnet.com/article/meta-unveils-first-custom-artificial-intelligence-chip/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/meta-unveils-first-custom-artificial-intelligence-chip/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/meta-unveils-first-custom-artificial-intelligence-chip/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 104
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/37d75992cd1b849d006b2d1f720effca275d6871/2023/05/18/3dd2fcd4-8943-4ed5-974e-f0308c930271/meta-mtia-die-with-striped-background.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Behemoths Of The Retail Industry Are Redefining Customer Experience With Computer Vision And AI"
+    excerpt: "Computer vision and AI are revolutionizing the retail industry by optimizing inventory management, reducing stock-outs and enhancing shopper experiences. By understanding consumer behavior, retailers can offer personalized shopping experiences and increase sales."
+    publishedDateTime: 2023-05-15T10:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/15/behemoths-of-the-retail-industry-are-redefining-customer-experience-with-computer-vision-and-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/15/behemoths-of-the-retail-industry-are-redefining-customer-experience-with-computer-vision-and-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/05/15/behemoths-of-the-retail-industry-are-redefining-customer-experience-with-computer-vision-and-ai/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 92
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/645e3c535fc52f1156679966/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Meta unveils new AI data centers and supercomputer to power AI-first future"
     excerpt: "Meta announced today a series of new hardware and software projects that aim to support the next generation of AI applications."
     publishedDateTime: 2023-05-18T21:04:00Z
@@ -40,168 +88,21 @@ related:
         width: 1200
         height: 674
         isCached: true
-  - title: "Meta and Google news adds fuel to the open-source AI fire"
-    excerpt: "The open-source AI debate is getting even hotter in Big Tech, thanks to recent headlines from Google and Meta's Yann LeCun."
-    publishedDateTime: 2023-05-18T16:54:00Z
-    webUrl: "https://venturebeat.com/ai/meta-and-google-news-adds-fuel-to-the-open-source-ai-fire/"
-    ampWebUrl: "https://venturebeat.com/ai/meta-and-google-news-adds-fuel-to-the-open-source-ai-fire/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/meta-and-google-news-adds-fuel-to-the-open-source-ai-fire/amp/"
+  - title: "Meta’s Pricey Bet on AI Comes With New Custom Chips, Coder Tools"
+    excerpt: "Some of the AI updates are obvious drivers of efficiency within Meta, which has eliminated thousands of employees in recent months. (Bloomberg) In Meta Platforms Inc.'s year of cost cutting and layoffs,"
+    publishedDateTime: 2023-05-19T03:54:00Z
+    webUrl: "https://tech.hindustantimes.com/tech/news/metas-pricey-bet-on-ai-comes-with-new-custom-chips-coder-tools-71684466893934.html"
+    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/metas-pricey-bet-on-ai-comes-with-new-custom-chips-coder-tools-71684466893934.html"
+    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/metas-pricey-bet-on-ai-comes-with-new-custom-chips-coder-tools-71684466893934.html"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
+      name: Hindustan Times Tech
+      domain: hindustantimes.com
+    quality: 59
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/05/Untitled-design-70.png?w=1200&strip=all"
-        width: 1200
-        height: 750
-        isCached: true
-  - title: "Data and AI Ethics Market with Future Opportunities 2023-2031"
-    excerpt: "The Global \"Data and AI Ethics Market\" report with 124 pages provides essential insights into the growth prospects"
-    publishedDateTime: 2023-05-15T06:14:00Z
-    webUrl: "https://www.marketwatch.com/press-release/data-and-ai-ethics-market-with-future-opportunities-2023-2031-2023-05-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 84
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Future of AI in e-commerce: Transforming data with ML and computer vision"
-    excerpt: "While a lot has been discussedin areas of face recognition, graphical capabilities, some of the following use cases in e-Commerce can greatly benefit from computer vision, image processing. As a customer you want to know the best offers on your favourite ..."
-    publishedDateTime: 2023-05-17T06:54:00Z
-    webUrl: "https://www.dqindia.com/future-of-ai-in-e-commerce-transforming-data-with-ml-and-computer-vision/"
-    ampWebUrl: "https://www.dqindia.com/future-of-ai-in-e-commerce-transforming-data-with-ml-and-computer-vision/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/future-of-ai-in-e-commerce-transforming-data-with-ml-and-computer-vision/amp/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 70
-  - title: "What 20 Agency Leaders Are Doing To Better Understand And Embrace AI"
-    excerpt: "The pervasive influence of AI continues to reshape industries across the globe, compelling professionals to deepen their understanding of its impact."
-    publishedDateTime: 2023-05-16T17:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/05/16/what-20-agency-leaders-are-doing-to-better-understand-and-embrace-ai/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 69
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/645a69b21317ce4dc82796dd/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Meta’s pricey bet on AI comes with new custom chips, coder tools"
-    excerpt: "There's one area at Meta that's seeing record spending: an update of the social media giant's infrastructure to keep pace in the artificial intelligence arms race."
-    publishedDateTime: 2023-05-18T18:10:00Z
-    webUrl: "https://www.seattletimes.com/business/metas-pricey-bet-on-ai-comes-with-new-custom-chips-coder-tools/?n=%5CL"
-    ampWebUrl: "https://www.seattletimes.com/business/metas-pricey-bet-on-ai-comes-with-new-custom-chips-coder-tools/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/metas-pricey-bet-on-ai-comes-with-new-custom-chips-coder-tools/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 56
-  - title: "Meta’s pricey AI bet comes new technology, data centers revamp"
-    excerpt: "In Meta Platforms Inc. s year of cost cutting and layoffs, there s one area that s seeing record spending: an update of the social media giant s"
-    publishedDateTime: 2023-05-18T16:47:00Z
-    webUrl: "https://thepeninsulaqatar.com/article/18/05/2023/metas-pricey-ai-bet-comes-new-technology-data-centers-revamp"
-    type: article
-    provider:
-      name: The Peninsula
-      domain: thepeninsulaqatar.com
-    quality: 39
-    images:
-      - url: "https://thepeninsulaqatar.com/get/maximage/20230101_1672556854-332.jpg?1672556854"
-        width: 960
-        height: 609
-        isCached: true
-  - title: "Meta Platforms unveils next-generation AI infrastructure and data center designs"
-    excerpt: "Facebook parent company Meta Platforms Inc. has lifted the lid on what its next-generation artificial intelligence infrastructure will look like, showcasing its newest training and inference accelerator and various other bits of futuristic hardware at its AI Infra @Scale event today."
-    publishedDateTime: 2023-05-18T16:06:00Z
-    webUrl: "https://siliconangle.com/2023/05/18/meta-platforms-unveils-next-gen-ai-infrastructure-data-center-designs/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 38
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/05/Screenshot-from-2023-05-17-08-26-19.png"
-        width: 884
-        height: 442
-        isCached: true
-  - title: "Upstage unveils new AI services"
-    excerpt: "Upstage, a local artificial intelligence (AI) technology startup, has unveiled two AI services according to the company, Tuesday. The services are Document AI Pack, an optical character recognition (OCR) technology-based document processor; and AskUp ..."
-    publishedDateTime: 2023-05-16T07:57:00Z
-    webUrl: "https://koreatimes.co.kr/www/tech/2023/05/133_351073.html"
-    type: article
-    provider:
-      name: The Korea Times
-      domain: koreatimes.co.kr
-    quality: 37
-    images:
-      - url: "https://koreatimes-bucket.s3.ap-northeast-2.amazonaws.com/IMAGE/upload/newsV2/images/202305/8851d866df8148e0a793b0c9fe05f8fa.jpg"
-        width: 980
-        height: 653
-        isCached: true
-  - title: "AI startup occupies former Air Force data center in Maine to host quantum computers"
-    excerpt: "An AI & quantum computing startup has launched a data center to host quantum computers in Maine. Eternal Mind, Inc this week held an opening ceremony for the facility at the former Loring Air Force Base in Limestone."
-    publishedDateTime: 2023-05-17T15:32:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/ai-startup-occupies-former-air-force-data-center-in-maine-to-host-quantum-computers/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 31
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/loring_airbase_main_DC.2e16d0ba.fill-1200x630.png"
-        width: 624
-        height: 327
-        isCached: true
-  - title: "The Future Of AI Training Demands Optical Interconnects"
-    excerpt: "Artificial intelligence has taken the datacenter by storm, and it is forcing companies to rethink the balance between compute, storage, and networking. Or"
-    publishedDateTime: 2023-05-15T17:21:00Z
-    webUrl: "https://www.nextplatform.com/2023/05/15/the-future-of-ai-training-demands-optical-interconnects/"
-    type: article
-    provider:
-      name: The Next Platform
-      domain: nextplatform.com
-    quality: 19
-  - title: "Regulation of Artificial Intelligence"
-    excerpt: "The introduction to the House of Commons of a Bill under the ten minute rule, by Labour MP Mick Whitley, on the regulation of artificial intelligence and workers' rights, from Wednesday 17 May."
-    publishedDateTime: 2023-05-17T18:08:00Z
-    webUrl: "https://www.bbc.co.uk/programmes/m001mh3k"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 17
-  - title: "Artificial Intelligence: Boost.ai Unveils Large Language Model Enhancements to Conversational AI Platform"
-    excerpt: "Boost.ai, a conversational AI solution provider, today announced Version 12 of its platform, the first of a series of planned updates by the company."
-    publishedDateTime: 2023-05-14T17:28:00Z
-    webUrl: "https://www.crowdfundinsider.com/2023/05/207054-artificial-intelligence-boost-ai-unveils-large-language-model-enhancements-to-conversational-ai-platform/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 15
-  - title: "GIGABYTE To Introduce Leading-Edge AI Solutions And Computers At COMPUTEX 2023, Unveiling“Future Of COMPUTING” - AETOSW..."
-    excerpt: "GIGABYTE, a leading innovator of computer hardware and server solutions, announces its unprecedented exhibits at COMPUTEX 2023. R"
-    publishedDateTime: 2023-05-17T08:49:00Z
-    webUrl: "https://menafn.com/1106260387/GIGABYTE-To-Introduce-Leading-Edge-AI-Solutions-And-Computers-At-COMPUTEX-2023-UnveilingFuture-Of-COMPUTING-AETOSW"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 13
-    images:
-      - url: "https://menafn.com/updates/pr/2023-05/17/A_03834image_story.jpg"
-        width: 480
-        height: 270
+      - url: "https://images.hindustantimes.com/tech/img/2023/05/19/1600x900/meta_1684468388145_1684468397363.jpg"
+        width: 1600
+        height: 900
         isCached: true
 
 secured: "TKn7ciT4LOkYaE5PQ+rgkOcYIqiTiQxXfqyntZwlRJ9GMBjISL4VgtMs0JpOM6Jt3+AdMl0T9I/49hN+Tymb4uYnXB5B8ajWBz1BUM4eHuZcY1ykJxgNAoWUkJkO9EjqqS4DT0mCpZJ2VMmoQLqzMvmMUJSPLrUmNwEywxodNFGwO9V/iSmekb1ln3RswSquvWsp4+k+j95agidhogKuL1YKhqQxy7cBWvKKVMzGx+bnFm+u+a3Ty67ItITq7384L44i7nhJzjwY2F/s/7HABcbNI4lkS8qhfCZrjyvRqTpyEAf5+0SsSR+jERQqwRs9O9kPddZOtcHTrx63mfuZrx7+nVS0SMDFzHHdZr8UlrU=;iKN70KIUAo+0ePdl3UNGyQ=="

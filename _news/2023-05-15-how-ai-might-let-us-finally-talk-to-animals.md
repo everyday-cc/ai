@@ -64,6 +64,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Preparing for AI in the Employee Experience"
+    excerpt: "AI is the next big evolution in how we work. Most employees will need to incorporate it into their work. AI can be an effective tool for reducing repetitive tasks and minimizing bias in decision-making. Willingness to learn, emotional intelligence, and creative problem-solving are critical skills to hone."
+    publishedDateTime: 2023-05-17T22:07:00Z
+    webUrl: "https://www.psychologytoday.com/za/blog/the-new-employee-experience/202305/preparing-for-ai-in-the-employee-experience"
+    type: article
+    provider:
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 39
+    images:
+      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-05/GettyImages-1469706462.jpg?itok=gnSj0JMx"
+        width: 1528
+        height: 800
+        isCached: true
   - title: "Rising importance of AI in the fintech space"
     excerpt: "Advantage of AI in fintech industry is its capacity to automate and augment a multitude of laborious processes related to banking"
     publishedDateTime: 2023-05-18T11:25:00Z
