@@ -18,20 +18,29 @@ topics:
   - AI
 
 related:
-  - title: "Insurance startup Wefox maintains $4.5 billion valuation as it taps up investors and lenders for $110 million in fresh funds"
-    excerpt: "The Berlin-based company, founded in 2015, wants to be profitable by the end of the year and has added JPMorgan and Barclays as debt funders."
-    publishedDateTime: 2023-05-17T05:01:00Z
-    webUrl: "https://www.businessinsider.com/wefox-insurance-tech-startup-raises-110-million-for-profitable-push-2023-5"
+  - title: "Staffing Startup Instawork Raises $60 Million To Expand AI Tech"
+    excerpt: "Instawork, a platform that matches hourly workers to job shifts, said the Series D will help boost the use of AI. Investors value the company at $760 million."
+    publishedDateTime: 2023-05-18T12:59:00Z
+    webUrl: "https://www.forbes.com/sites/emmylucas/2023/05/18/instawork-raises-60-million-to-expand-ai-tech-in-new-funding-round/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 40
+      name: Forbes
+      domain: forbes.com
+    quality: 67
     images:
-      - url: "https://i.insider.com/5df24523fd9db25a30488243?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64664ab2fac4682f9db1abc6/0x0.jpg?format=jpg&crop=720,405,x0,y22,safe&width=1200"
+        width: 720
+        height: 405
         isCached: true
+  - title: "San Francisco staffing startup Instawork raises millions for push into AI"
+    excerpt: "Instawork says it offers the flexibility of gig work but with more stability, for both job seekers and employers. The new funding will fuel its work towards integrating AI into its services."
+    publishedDateTime: 2023-05-18T18:53:00Z
+    webUrl: "https://www.bizjournals.com/sanfrancisco/inno/stories/fundings/2023/05/18/instawork-staffing-startup-raises-seriesd-ai.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 16
 
 secured: "IiuK513CkqdmlRtlDA5uCBasZyH7mEtdG6ixqRm3ATikG3s8GoquAF7dUCGRUvtjH8mEA4PivqVqY0D82VOXAcNIDaAoshzvzg1Z9me6ZCG+g2ymZYMndhx1epsvAC5/2x3qUlWmXUn/VkrImYPCUJil8PlwHGRM9g5vu2J2o+cdPs+5CKxFMBxdxkuhiaufOMX/qit+mRra6bkeIPBSi5dDn4Dyid67SkeFpMRHNAWEnqD1Swv8sddf352oklheTsop2p4eUXv9qu4SsdcubPU8BZEeDtY5GUPD2sVSlt3eW/vWMyG7uB6odDOOwKxEbXfSQuxFZ8BiSS9wKe5viUHPBtJCAiptXv1NcPCJ3T27pk34m8RoiC7fNLcfPUDeWDSo0jf26NAnwebtiMHEvIeSnvjv4v33S7bS0Kf0VXA1WxQos/dIkF/uMDnGvxwLAYYE3Hz7/OkkOP5ovFmCas976NRv1+KvIDaKECo6j5sRpos4A+EA4V1UobaiIkkiomg1VC8MNxk77eJ+7QlLUg==;12PRfmpLA+XeF+DqFnFYEw=="
 ---

@@ -38,6 +38,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Meta bets big on AI with custom chips — and a supercomputer"
+    excerpt: "Meta wants the world -- and particularly investors -- to know it's going big or going home where it concerns AI and the hardware to build it."
+    publishedDateTime: 2023-05-18T23:35:00Z
+    webUrl: "https://techcrunch.com/2023/05/18/meta-bets-big-on-ai-with-custom-chips-and-a-supercomputer/"
+    ampWebUrl: "https://techcrunch.com/2023/05/18/meta-bets-big-on-ai-with-custom-chips-and-a-supercomputer/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/18/meta-bets-big-on-ai-with-custom-chips-and-a-supercomputer/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/11/facebook-meta-twist.jpg?resize=1200,675"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Lessons from finance’s experience with artificial intelligence"
     excerpt: "This rule appears to hold for artificial intelligence (AI) and machine learning, which were first employed by hedge funds decades ago, well before the recent hype. First came the “quants\", or quantitative investors,"
     publishedDateTime: 2023-05-18T22:49:00Z

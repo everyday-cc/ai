@@ -1,27 +1,25 @@
 ---
 category: news
 title: "TSA is testing facial recognition at more airports, raising privacy concerns"
-excerpt: "The agency tasked with securing America's airports is testing the use of facial recognition technology at a number of airports across the country."
-publishedDateTime: 2023-05-16T00:50:00Z
-originalUrl: "https://www.cbsnews.com/detroit/news/are-you-who-you-say-you-are-tsa-tests-facial-recognition-technology-to-boost-airport-security-3/"
-webUrl: "https://www.cbsnews.com/detroit/news/are-you-who-you-say-you-are-tsa-tests-facial-recognition-technology-to-boost-airport-security-3/"
-ampWebUrl: "https://www.cbsnews.com/amp/detroit/news/are-you-who-you-say-you-are-tsa-tests-facial-recognition-technology-to-boost-airport-security-3/"
-cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/detroit/news/are-you-who-you-say-you-are-tsa-tests-facial-recognition-technology-to-boost-airport-security-3/"
+excerpt: "The agency tasked with securing America's airports is testing the use of facial recognition technology at a number of airports across the country. The Transportation Safety Administration says the tec"
+publishedDateTime: 2023-05-15T19:29:00Z
+originalUrl: "https://omaha.com/lifestyles/technology/tsa-is-testing-facial-recognition-at-more-airports-raising-privacy-concerns/article_1960d054-fedf-59b8-a1ed-b6d087e61991.html"
+webUrl: "https://omaha.com/lifestyles/technology/tsa-is-testing-facial-recognition-at-more-airports-raising-privacy-concerns/article_1960d054-fedf-59b8-a1ed-b6d087e61991.html"
 type: article
-quality: 71
+quality: 51
 heat: -1
 published: false
 
 provider:
-  name: CBS News
-  domain: cbsnews.com
+  name: Omaha.com
+  domain: omaha.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/05/16/dd4531ea-7d1e-49f6-b90d-b78e7f190eca/thumbnail/1200x630/7091c6ef48ade2bd9217b5f28d1ec03d/ap23116691095530.jpg"
+  - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/9/e7/9e729762-a89b-5a79-9f4d-c13f116cf8fa/6461b5a12f579.image.jpg?crop=1763%2C926%2C0%2C125&resize=1200%2C630&order=crop%2Cresize"
     width: 1200
     height: 630
     isCached: true
@@ -505,6 +503,6 @@ related:
       domain: extremetech.com
     quality: 19
 
-secured: "WZj9QmDzx9/rdKNaBetwtgN55nTeNStUviP6THKLbTOa8vr+aAz4HmNSA/sSkhZFRRfc66u5+U1WvkoUJrg+ncWhnTZ0x0lRh00Is2a6yn6m4k/ha/x7hjo9Ft0IUWa4Fx3+jrxIcMIn9SBtc1i5HWuVPsIwbBNOMRw9yq1fc/8hLBXQPTDLSm8ius4YJzlBtBj9kyTGLLbo3Z2K8Iu6sXmbKSERbj8wDvSvEBp6rBZZ67/kCltv3axIbrv6vO2Jc0zwAh7EYAWw93sGkVl/MiCKcI3l3TPmdf4TYXbRCpbIjObjWjK0H2Xz8ORsDax+aXLPZocx84V9DsyrM+ba4geLdEFnl+lw65hC3/8hNSM=;abRA+Qe7IkSYIB2XiIl/Qg=="
+secured: "nFUo0mVJUGzvDvZ+Q06wZA/tejisghuKrsfQyqi0o34ekAXLM7SIINobdh18GkFDHNpdYzcFSkYrBqSx1yPXxrHssyyeAueWCLSVWmqEt7DVNcshWeuMkHyI17mfq1V3xb6rRP3rMtia1oYWK1v2ub5yEuvDsJBFZ+FpJkpsRJdFdBBs4DTguvNqSsmcam1vLgGy5Q72fongGxKXkSh2PMBDA0b4JNXn/PE8la2Ed9C8gL27CbHTAPErXXzrp+KlOrMpAi70tFDubJgvI2b3x5IXXFhnnqWVgDNYyR917CEZsLc3jM0s3n56GsZ2QK5awiobkikJTK9vTklK8nIcsSGdD6vnYIniusCqebgZnlQ=;WHFEFs7+m5kFvmJd+gGYxg=="
 ---
 

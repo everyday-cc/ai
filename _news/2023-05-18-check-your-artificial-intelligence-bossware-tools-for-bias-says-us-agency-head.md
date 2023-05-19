@@ -23,6 +23,22 @@ images:
     height: 1237
     isCached: true
 
+related:
+  - title: "Check your artificial intelligence 'bossware' tools for bias, says U.S. agency head"
+    excerpt: "The head of the U.S. agency charged with enforcing civil rights in the workplace says artificial intelligence-driven “bossware” tools that closely track the whereabouts, keystrokes and productivity of workers can also run afoul of discrimination laws."
+    publishedDateTime: 2023-05-18T20:07:00Z
+    webUrl: "https://www.chron.com/business/article/check-your-artificial-intelligence-bossware-18106606.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 31
+    images:
+      - url: "https://s.hdnux.com/photos/01/32/73/72/23838347/3/rawImage.jpg"
+        width: 2048
+        height: 1759
+        isCached: true
+
 secured: "j0E7qCqoCL8yqJnGrbH7GNQveCAgY1mSBtaGgGI0PoH1xutiO9VDZxhuMTJbaa4YYk+6evGMEh4b0aBUBKZEt8k5X2YxVO5MvrIBHYIO9s1oGMnBjhjDFocyibvtflArQTmlTJ6nGDPcry9jog3g7kuyZLl9KYdXx/U6h4xgrZG33fJ7e4ScTfJBab+jcsE/HDgPIMsaVXtz+JCT7ulOoeYOvkNInO7ZfLrGi1IvQdbj1JyKFPOLIbirCXD+uMBv4AtPam6wXyaBs9eAnymdzj3RVt7UXILSlHoiMN+oWwFSle3899z4VPv+OxtiGH/qBvHaA+adrv5gt/J0FWU36PJ/bVbrBANqMNsqK4i89c0=;b8fOMYS26KDFrBN8P6Hybw=="
 ---
 

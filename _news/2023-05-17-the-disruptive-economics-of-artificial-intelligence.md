@@ -6,7 +6,7 @@ publishedDateTime: 2023-05-17T00:00:00Z
 originalUrl: "https://www.worldbank.org/en/events/2023/04/24/the-disruptive-economics-of-artificial-intelligence"
 webUrl: "https://www.worldbank.org/en/events/2023/04/24/the-disruptive-economics-of-artificial-intelligence"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://www.worldbank.org/content/dam/wbr/share-logo/social-share.jpg"

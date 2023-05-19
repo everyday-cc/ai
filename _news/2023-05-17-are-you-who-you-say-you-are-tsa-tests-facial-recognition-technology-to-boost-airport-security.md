@@ -172,22 +172,6 @@ related:
         width: 2560
         height: 1707
         isCached: true
-  - title: "TSA is testing facial recognition at more airports, raising privacy concerns"
-    excerpt: "The agency tasked with securing America's airports is testing the use of facial recognition technology at a number of airports across the country."
-    publishedDateTime: 2023-05-16T00:50:00Z
-    webUrl: "https://www.cbsnews.com/detroit/news/are-you-who-you-say-you-are-tsa-tests-facial-recognition-technology-to-boost-airport-security-3/"
-    ampWebUrl: "https://www.cbsnews.com/amp/detroit/news/are-you-who-you-say-you-are-tsa-tests-facial-recognition-technology-to-boost-airport-security-3/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/detroit/news/are-you-who-you-say-you-are-tsa-tests-facial-recognition-technology-to-boost-airport-security-3/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 71
-    images:
-      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/05/16/dd4531ea-7d1e-49f6-b90d-b78e7f190eca/thumbnail/1200x630/7091c6ef48ade2bd9217b5f28d1ec03d/ap23116691095530.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "TSA is testing facial recognition technology at more airports, raising privacy concerns"
     excerpt: "The Transportation Safety Administration says the technology is an effort to more accurately identify the millions of passengers traveling through its airports every day and that passengers can opt out."
     publishedDateTime: 2023-05-15T20:23:00Z
@@ -289,6 +273,20 @@ related:
       name: WGHP
       domain: myfox8.com
     quality: 51
+  - title: "TSA is testing facial recognition at more airports, raising privacy concerns"
+    excerpt: "The agency tasked with securing America's airports is testing the use of facial recognition technology at a number of airports across the country. The Transportation Safety Administration says the tec"
+    publishedDateTime: 2023-05-15T19:29:00Z
+    webUrl: "https://omaha.com/lifestyles/technology/tsa-is-testing-facial-recognition-at-more-airports-raising-privacy-concerns/article_1960d054-fedf-59b8-a1ed-b6d087e61991.html"
+    type: article
+    provider:
+      name: Omaha.com
+      domain: omaha.com
+    quality: 51
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/9/e7/9e729762-a89b-5a79-9f4d-c13f116cf8fa/6461b5a12f579.image.jpg?crop=1763%2C926%2C0%2C125&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "TSA tests facial recognition technology to boost airport security"
     excerpt: "BALTIMORE (AP) — A passenger walks up to an airport security checkpoint, slips an ID card into a slot and looks into a camera atop a small screen. The screen flashes “Photo Complete” and the person walks through — all without having to hand over their identification to the TSA officer sitting behind the screen."
     publishedDateTime: 2023-05-15T18:44:00Z
@@ -506,6 +504,6 @@ related:
       domain: extremetech.com
     quality: 19
 
-secured: "11g3prkdlafSQdIb8GNSoqy2S1lxQPpT94GkEp4cTZrQeXJuSH+pcPcT+Eosg57l0htmofb+hiMydku3RHD/tPA958jokng9klWRuBXOqFuQk9d+W2MUYs3wOUEPy4IqdVaeEDr4cgn4QCXnC6L6KznsYU7SehWV1dFwdyz/fEaHvZuKH79hmlW1cCl1glrMRMTvxFi79/kbVNY2d5gBrOabcPnbJa+0duAsPlpgSzx0DBjXi9OxdtvlA4Mc4UG7sadB617RTyDYAzTcICArQMcGdzb4qBwxPFC5x2CzKLXEqTZqOijamaaBhX1aQjIu9plOySU84kjL0Geqb3J/6gu8dcnEF4hXnoe7mz9RmuE=;/iFWK4rEE3tRMrb99AyAwA=="
+secured: "KRs0UAVWaVUb2pH4D3CH1GP52oFu4oOaGujVxEV/nCM7Pv8x7PniJFqLZSBrdTqxWLiGC43yVJJJ8dFqouQ3vEUixSjnboC1yCxzWF93sghvFPXlMJxLmuvvK/x5ZUYgzH9IGpDHkSc5yyPWe+KzpFUdk6HfpRCxzfo1W41NkYvyilHRwh6EnXH4nTuEI6Bg2IfaX5Ea/EtC6g8f8NtFtM8xcyKzr/XW9RGjPfjh9LOPiuaJDS3/Nt3GMLejL2O/bFheSJHY7o/se+X5XFvHgMp/19PUUQQH4JeCvcIwC2NAYHX6kZ8fbk1/6K2HPsVZdU7gjfeJ+68OSzmhLLSu83jSOtA+I+CGbpBQ5z1dAzmu/nTJXSzmqA+oezxUHrgWIYIXjlPjUG1BGLROFVqE1Yu823ni8tUGAUPoIBMaKHsba4N+lP62TUdG3xdrTn87dVuidGJM98S4NeOPepq5F2NoZcLmGIcY0X9M1BjVeftJ+TBFpH8kIGDrjrN3PNtYFJ0qnRmBdzRkFUhN3UdszQ==;llTCFLSFJ/e1uM8Lw129zA=="
 ---
 

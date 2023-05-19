@@ -1,17 +1,15 @@
 ---
 category: news
 title: "AWS DeepRacer: When fun meets ML, autonomous cars and upskilling"
-excerpt: "There is no cost to join a DeepRacer league, but you pay for training, testing (US$3.50 per hour) and storing (US$0.023 per GB) your ML models on the AWS DeepRacer service."
-publishedDateTime: 2023-05-02T14:36:00Z
-originalUrl: "https://www.itworldcanada.com/article/aws-deepracer-when-fun-meets-ml-autonomous-cars-and-upskilling/537953"
-webUrl: "https://www.itworldcanada.com/article/aws-deepracer-when-fun-meets-ml-autonomous-cars-and-upskilling/537953"
-ampWebUrl: "https://www.itworldcanada.com/article/aws-deepracer-when-fun-meets-ml-autonomous-cars-and-upskilling/537953?amp=1"
-cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/aws-deepracer-when-fun-meets-ml-autonomous-cars-and-upskilling/537953?amp=1"
+excerpt: "The AWS DeepRacer event, hosted last Friday by simulation technology provider Computer Modeling Group (CMG) in Calgary, showed how access to the right resources, a good old showdown and attractive ..."
+publishedDateTime: 2023-05-02T00:00:00Z
+originalUrl: "https://windsorstar.com/technology/aws-deepracer-when-fun-meets-ml-autonomous-cars-and-upskilling/wcm/941cf965-d5ee-416f-a8fa-9852da842282"
+webUrl: "https://windsorstar.com/technology/aws-deepracer-when-fun-meets-ml-autonomous-cars-and-upskilling/wcm/941cf965-d5ee-416f-a8fa-9852da842282"
 type: article
 
 provider:
-  name: IT World Canada
-  domain: itworldcanada.com
+  name: Windsor Star
+  domain: windsorstar.com
 
 topics:
   - AWS AI
@@ -20,11 +18,11 @@ topics:
   - AI in Autos
 
 images:
-  - url: "https://i.itworldcanada.com/wp-content/uploads/2023/05/Deepracer2.jpg"
-    width: 2016
-    height: 1512
+  - url: "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2023/05/deepracer2-1024x768-1.jpg"
+    width: 1000
+    height: 750
     isCached: true
 
-secured: "3NLM4KXOSHyJ1OXsmLD7TdE90NCQk+uGPCdpP7ucgjWu6NN2wg0Nxo6Xx3rsTPlS5Lh+wJueCseqxkc2PWKM7W7QMv/qteoW+Bj9D9jlt2I/ZcH7m3hbA2P+nOr4Uawr3jmE+JobzlmXjEXkJFAd94hBjaXzjmd8BNiOVTQqi6FyRlYTM69hEkJEA17RLxaHavp85SiKNAIkqsPyRKRHnTrrSLPdJsN15iBSqVGMoLU+z5x+ruXkKw1Ff9YAu/+kslv7gqZ1Dx79nKiNlQNdlliho29oCJcz5hlFpMMm4udez9Zy/HOXRF1GUHiR3IFySRlnduhvsGARXq+eE4hGu5kIJdZ8uRnl5rhgaSwkt3YxS/Kns4Tr4mzKjWzW6PcBGTzBdDMOr5TPmmgPcrEZ8s+ge+oO8bgv1CWr+iSZkja2MAT3Hkk4I/jGJ7JKUm0kfSXEjAf4OYE8F4z2U71gkkbbpRyJ3Ndbl3ynV51ECAWATn8eodKmlkCaAQcG06y2l6WRKfY/+utpvE1Zi2X7Ng==;XNlPffauwKuW7ijxIztlfg=="
+secured: "+uNt2K0a6DAZcwBRjQRABpDSG9XQ4vaPfw94DEAVTzfz3XyoZdjh/EM048PYJSJDKVBg8aAVjDWyDvYLwxokJfBsNynzmaJNgWmJSqVUNDl3926nQUzlwuvU2zzBYIcArOAZnU4On1h7fueCnLUBP/axbDqy6rLvwVxdDun6sxNoIl5HWHm4xiLqHR4gPaiHYyyiaEQaKOrCn+p+2hy2pim73DftfI1nxy70ZpqXKp1Aec6dD1/i7x3BxoafQWiLGFpC8X6RBV3ns/vieveeeWrYHNKBTE2RlQeX4jYeRZIYv7PNOdiFfVsnmAXousApb6pASuV+ukE2inhynBIeV/rjPu/woIKh1klri/ITIWw=;q62QjMkBpjS+s/Kq2RLhfw=="
 ---
 

@@ -2,17 +2,17 @@
 category: news
 title: "Schumer meets with bipartisan group of senators to build a coalition for AI law"
 excerpt: "Schumer has takes next steps with a group of bipartisan Senate lawmakers to craft a comprehensive artificial intelligence law. \"Congress must move quickly,\" he said Thursday."
-publishedDateTime: 2023-05-18T20:57:00Z
-originalUrl: "https://wusfnews.wusf.usf.edu/2023-05-18/schumer-meets-with-bipartisan-group-of-senators-to-build-a-coalition-for-ai-law"
-webUrl: "https://wusfnews.wusf.usf.edu/2023-05-18/schumer-meets-with-bipartisan-group-of-senators-to-build-a-coalition-for-ai-law"
+publishedDateTime: 2023-05-19T01:57:00Z
+originalUrl: "https://www.iowapublicradio.org/news-from-npr/2023-05-18/schumer-meets-with-bipartisan-group-of-senators-to-build-a-coalition-for-ai-law"
+webUrl: "https://www.iowapublicradio.org/news-from-npr/2023-05-18/schumer-meets-with-bipartisan-group-of-senators-to-build-a-coalition-for-ai-law"
 type: article
 quality: 35
 heat: 35
 published: false
 
 provider:
-  name: wusfnews.wusf.usf.edu
-  domain: usf.edu
+  name: Iowa Public Radio
+  domain: iowapublicradio.org
 
 topics:
   - AI Hardware
@@ -24,6 +24,6 @@ images:
     height: 630
     isCached: true
 
-secured: "UwbPtvef1mQwU09U61AZDrn9e1pZ0RVwP66rkrwEVG6IUwGVQpULW9t9inxMfv8Up6ctoLCfU7iJpX6FgCs1mcjg2twIXbAj9EsYK9qcYfEfbIBGLDvcr1bbi65TrjqzH3sJlGLGX5gfIrr2CKS/NaDSYW4EVZfPTBqtj/EliARel+XSFT83v4zFXqAQfi101IK9FGWnXzr1HG5i2qpmW3AbiMYScrEu+zBZMXB8QsSD4EcfrRRmMSPm7aA1c3Kxric7l5yptHThL0ZayEzIjH7+QlvfGQj6ZhlRKMxRXZLdWb/xYAttlQvTW/c2JYLyyxZDXLZC96LgKvddatlC5ieMiBItL49UwpIbojue0k4=;yBL9I4AOGiz/Pfo8XaxdbA=="
+secured: "6D4PjOXsq90iK/QEHdWPXLdKCbdcNB6LPp9mnVvvCnthUZEBr0TL+NxASBZO/i2O7n0sjeFJja5fqwxzPyssQYO4HAHvpDvtFA3IBEI9TU5v7VzprrgAchFDq/7TabR/R0v/cYFbjJgqLCmTaZ/8tFljdNp8pNaPDncyna2CZw/MKw/Bc48yzmZ7l8hiYKsQHA56Rm1IydTQR5TvEWLuBUxujYkvEiVT9TnqHbQURlIc6VBssJ4uRimup2bWmfC1AmSEpmcakpz971gF0BllfUM/LwVeV3vV7bejbgOcPKcc8Q2EcBpPMWmKqksB23htju5eH3qEVENZiZ+60pe0bLwQYD043TxoFEVP4/TZlMM=;QAlX6Wev140sJfaLti2vgQ=="
 ---
 

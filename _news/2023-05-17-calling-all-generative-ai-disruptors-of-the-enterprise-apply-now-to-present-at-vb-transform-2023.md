@@ -38,7 +38,7 @@ related:
     provider:
       name: World Bank
       domain: worldbank.org
-    quality: 39
+    quality: 41
     images:
       - url: "https://www.worldbank.org/content/dam/wbr/share-logo/social-share.jpg"
         width: 1200

@@ -44,6 +44,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Meta bets big on AI with custom chips — and a supercomputer"
+    excerpt: "Meta wants the world -- and particularly investors -- to know it's going big or going home where it concerns AI and the hardware to build it."
+    publishedDateTime: 2023-05-18T23:35:00Z
+    webUrl: "https://techcrunch.com/2023/05/18/meta-bets-big-on-ai-with-custom-chips-and-a-supercomputer/"
+    ampWebUrl: "https://techcrunch.com/2023/05/18/meta-bets-big-on-ai-with-custom-chips-and-a-supercomputer/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/18/meta-bets-big-on-ai-with-custom-chips-and-a-supercomputer/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/11/facebook-meta-twist.jpg?resize=1200,675"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "How AI Is Changing the Retail Industry"
     excerpt: "The retail industry is always evolving according to customer demand and available technology. It's gone from brick-and-mortar to e-commerce to omnichannel, and artificial intelligence helps retailers improve their operations in a number of ways, including demand forecasting and recommendations, to use two more prominent examples."
     publishedDateTime: 2023-05-16T13:18:00Z
@@ -105,6 +121,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "BA4a+sLvkqw8ymSehDsaPL4aLa/WlW+netWIaC7wV6nMhoH9ZjdvynlaZ6Wre6FZF4aLAmtXGyzINV5/piPMFDdVPkS794tO2+JFRTM57wHdU5rOwlorHhXTshqHaEia1rHWs2qrP1COD/hlJ1E1749k6qhBYSfMOlxyH8A3GKBpBp8JZj6yBNPNkxRTL1pWJSBLz61JwgnXhztnup/2JFaU1j8FpDHMVzHzMG23fhJwi5zZSO7vN32ukKg8jJPk9jcdLUEl1bBWgaPeO9WFTMIalmQNwuoGxT4L/XIkEmTKMCpNxd3GHVkFeICmhXm9Ol2nlwya4H64YugJNDmrYj1Ru0wkiF5997Rec3t6nIw=;y4P7KTyrA7DdYKIqcAfiXw=="
+secured: "LeExTO/fQ+nUCIShp5Bl3A+YHdYzicTty24oDYepc2RPfggT3lKnzmD8Y/BvI16f/tfg7GWTBlsY9VokiiDRdSK2dLr4MIUgdGcrVuArfl9j5GI78eO3XUx+4MaPok/+M2hVxIWNzou0NvaIY3HZHfWsR+Vt/dlZ6o6P5I2Ys3ZJo3WhlhiElc73N+7eMrVTg1XNwZSmkOSXDDeWN1IA4tEvobcEZthrZGlC1hFS2hyG5PjU+Xv/6lVehK0rEN5VUqweHdTBdtbDF0M6AkG8GMglHvIgvMdzIOo/1yG/w6roQzbq0/+Mf66+BvhBazmYKWa2QzOLy55qV2POd/6V/I1IapEhIJ89gv6sjq/mNMlzxbx9KMVZ+3qnCUQRkSS7z4wAmUenTgtbCGcwo0jwTc5w2eTsevpRuAisJ5qSaAJ9NA83KOz6PDrloN5PaqnuVPb1rtoww7Dp2ByZkX93AeP5x3TUEo0b5ACdd3WEpkqhJJ344vhWpf3IbesZq+rrkZfGVWKA5gRvHZT8gMvNMw==;6i0WpsyeKyjHh5rQiPlmNQ=="
 ---
 
