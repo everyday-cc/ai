@@ -2,6 +2,160 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-05-18-politicians-need-to-learn-how-ai-worksfast.md",
+      "title": "Politicians Need to Learn How AI Works—Fast",
+      "excerpt": "Tech regulation has often disappointed. Automation expert Missy Cummings hopes a course to teach policymakers about artificial intelligence can help.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/fast-forward-politicians-need-to-learn-how-ai-works-fast/",
+      "originalUrl": "https://www.wired.com/story/fast-forward-politicians-need-to-learn-how-ai-works-fast/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/646569ec06bd08d2f808af22/191:100/w_1280,c_limit/Missy-Cummings-Interview-Fast-Forward-Business-Redux-h_15868081.jpg",
+          "width": 1280,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-18T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-05-18-ibm-hybrid-cloud-mesh-reimagining-multicloud-networking-with-applications-taking-center-stage.md",
+      "title": "IBM Hybrid Cloud Mesh: Reimagining multicloud networking with applications taking center stage",
+      "excerpt": "With the launch of IBM Hybrid Cloud Mesh, application-centric connectivity helps you take back control of enterprise networking.\nThe post IBM Hybrid Cloud Mesh: Reimagining multicloud networking with applications taking center stage appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/ibm-hybrid-cloud-mesh-reimagining-multicloud-networking-with-applications-taking-center-stage/",
+      "originalUrl": "https://www.ibm.com/blog/ibm-hybrid-cloud-mesh-reimagining-multicloud-networking-with-applications-taking-center-stage/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/05/blockorganicgrowth0186.lr_-1-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-18T08:53:17-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-18-trump-supporters-and-christians-are-the-most-worried-that-ai-is-an-existential-threat-to-humanity-poll-says.md",
+      "title": "Trump supporters and Christians are the most worried that AI is an existential threat to humanity, poll says",
+      "excerpt": "Respondents who voted for Donald Trump for the 2020 presidency and identify as Evangelical Christians were most concerned about AI's potential risks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/trump-supporters-christians-most-concerned-ai-threat-humanity-poll-2023-5",
+      "originalUrl": "https://www.businessinsider.com/trump-supporters-christians-most-concerned-ai-threat-humanity-poll-2023-5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6466409b7224930019f364bc?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/trump-supporters-christians-most-concerned-ai-threat-humanity-poll-2023-5?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-supporters-christians-most-concerned-ai-threat-humanity-poll-2023-5?amp",
+      "publishedDateTime": "2023-05-18T08:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-18-opinion-when-it-comes-to-ai-congress-cant-afford-to-wait.md",
       "title": "Opinion: When it comes to AI, Congress can’t afford to wait",
       "excerpt": "Lawmakers can’t afford to wait to better understand artificial intelligence before they regulate it, writes Kara Alaimo.",
@@ -1081,45 +1235,27 @@
       ]
     },
     {
-      "path": "_news/2023-05-18-servicenow-partners-with-nvidia-to-develop-super-specialized-generative-ai-for-enterprises.md",
-      "title": "ServiceNow partners with Nvidia to develop ‘super-specialized’ generative AI for enterprises",
-      "excerpt": "Workflow automation vendor ServiceNow today partnered with Nvidia to build custom generative AI models for enterprise IT workflows.",
+      "path": "_news/2023-05-18-how-common-is-common-sense-in-ai-and-why-should-we-care.md",
+      "title": "How Common is Common Sense in AI, and Why Should We Care?",
+      "excerpt": "Even JPMorgan CEO Jamie Dimon recently acknowledged the benefits of AI, calling the technology \"extraordinary and groundbreaking.” JPMorgan is now working on more than 300 AI use cases, and Dimon revealed that the bank has spent over $2 billion building cloud-based data centers and is working to modernize a significant portion of its applications to run in both their public and private cloud environments.",
       "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/servicenow-partners-with-nvidia-to-develop-super-specialized-generative-ai-for-enterprises/",
-      "originalUrl": "https://venturebeat.com/ai/servicenow-partners-with-nvidia-to-develop-super-specialized-generative-ai-for-enterprises/",
+      "webUrl": "https://www.nasdaq.com/articles/how-common-is-common-sense-in-ai-and-why-should-we-care",
+      "originalUrl": "https://www.nasdaq.com/articles/how-common-is-common-sense-in-ai-and-why-should-we-care",
       "featuredContent": null,
       "highlight": null,
-      "heat": 116,
+      "heat": 79,
       "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/11/enterprise-e1627412579683.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 599,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/servicenow-partners-with-nvidia-to-develop-super-specialized-generative-ai-for-enterprises/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/servicenow-partners-with-nvidia-to-develop-super-specialized-generative-ai-for-enterprises/amp/",
-      "publishedDateTime": "2023-05-17T10:00:00-07:00",
+      "ampWebUrl": "https://www.nasdaq.com/articles/how-common-is-common-sense-in-ai-and-why-should-we-care?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/how-common-is-common-sense-in-ai-and-why-should-we-care?amp",
+      "publishedDateTime": "2023-05-17T10:50:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1128,160 +1264,7 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-17-poll-61-of-americans-say-ai-threatens-humanitys-future.md",
-      "title": "Poll: 61% of Americans say AI threatens humanity’s future",
-      "excerpt": "The poll results come amid the expansion of generative AI use in education, government, medicine, and business, triggered in part by the explosive growth of OpenAI's ChatGPT, which is reportedly the fastest-growing software application of all time.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2023/05/poll-61-of-americans-say-ai-threatens-humanitys-future/",
-      "originalUrl": "https://arstechnica.com/information-technology/2023/05/poll-61-of-americans-say-ai-threatens-humanitys-future/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/ai_threat_hero_1-800x450.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/information-technology/2023/05/poll-61-of-americans-say-ai-threatens-humanitys-future/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/05/poll-61-of-americans-say-ai-threatens-humanitys-future/amp/",
-      "publishedDateTime": "2023-05-17T09:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-17-ai-over-hype-is-under-valued.md",
-      "title": "AI “Over” Hype Is “Under” Valued",
-      "excerpt": "The Silicon Valley Playbook heavily relies on hype to attract early investors, employees, and customers. Something important struck me recently while attending a startup event in Cleveland, Ohio with Steve Case.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/patrickmckenna/2023/05/17/ai-over-hype-is-under-valued/",
-      "originalUrl": "https://www.forbes.com/sites/patrickmckenna/2023/05/17/ai-over-hype-is-under-valued/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6464fa9675c3b7eb6046245d/0x0.jpg?format=jpg&width=1200",
-          "width": 1019,
-          "height": 1012,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/patrickmckenna/2023/05/17/ai-over-hype-is-under-valued/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmckenna/2023/05/17/ai-over-hype-is-under-valued/amp/",
-      "publishedDateTime": "2023-05-17T09:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-17-healthcare-bi-market-size-share-trends-analysis-report-2029-aimr.md",
-      "title": "Healthcare BI Market Size, Share & Trends Analysis Report 2029| AIMR",
-      "excerpt": "Moreover, the emergence of big data analytics, artificial intelligence, and machine learning technologies in healthcare is expected to drive the growth of this market in the future. Opportunities and Threats in Healthcare BI Market The Healthcare BI Market ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/healthcare-bi-market-size-share-trends-analysis-report-2029-aimr-2023-05-17",
-      "originalUrl": "https://www.marketwatch.com/press-release/healthcare-bi-market-size-share-trends-analysis-report-2029-aimr-2023-05-17",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-17T08:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
+        "Natural Language Processing",
         "AI"
       ]
     }

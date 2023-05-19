@@ -2,6 +2,162 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2023-05-11-big-data-machine-learning-in-telecom-market-report-forecast-2023-2031.md",
+      "title": "Big Data & Machine Learning in Telecom Market Report (Forecast 2023-2031)",
+      "excerpt": "As per the \"Big Data and Machine Learning in Telecom Market\" report, the technology sector is evolving, and companies",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/big-data-machine-learning-in-telecom-market-report-forecast-2023-2031-2023-05-10",
+      "originalUrl": "https://www.marketwatch.com/press-release/big-data-machine-learning-in-telecom-market-report-forecast-2023-2031-2023-05-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-10T19:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-05-11-googles-bard-ai-is-now-available-without-a-waitlist-in-180-countries.md",
+      "title": "Google's Bard AI is now available without a waitlist in 180 countries",
+      "excerpt": "For the past two months, anybody wanting to try out Google's new chatbot AI, Bard, had to first register their interest and join a waitlist before being granted access. On Wednesday, the company announced that those days are over.",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/google-bard-transitions-to-palm-2-and-expands-to-180-countries-172908926.html",
+      "originalUrl": "https://www.engadget.com/google-bard-transitions-to-palm-2-and-expands-to-180-countries-172908926.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/QgGeMi5XRFg81OgsGkChCg--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-05/c1297630-eeb3-11ed-beee-4b6903d78cd9.cf.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/google-bard-transitions-to-palm-2-and-expands-to-180-countries-172908926.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/google-bard-transitions-to-palm-2-and-expands-to-180-countries-172908926.html",
+      "publishedDateTime": "2023-05-10T19:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-11-google-io-2023-live-updates-pixel-fold-bard-ai-android-14-and-more.md",
+      "title": "Google I/O 2023 live updates: Pixel Fold, Bard AI, Android 14 and more",
+      "excerpt": "Google is hosting its first full-on in-person I/O developer conference since the pandemic and we expect the company to announce a biblical amount of news at breakneck pace. Engadget is here at the show and will bring you a liveblog of what's happening at the keynote as it happens.",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/live-updates-from-google-io-2023-163201853.html",
+      "originalUrl": "https://www.engadget.com/live-updates-from-google-io-2023-163201853.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/DGmBpGBQv1Rkn6SzZ_xBcQ--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-05/f07f40c0-ef5a-11ed-bfed-eaa440d7eecb.cf.jpg",
+          "width": 985,
+          "height": 517,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-10T19:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-11-how-gmail-plans-to-use-ai-to-write-your-emails-for-you.md",
       "title": "How Gmail Plans to Use AI to Write Your Emails For You",
       "excerpt": "At its I/O event, Google showed off new AI features called Help Me Write that promise to automate your emails and messages.",
@@ -1079,162 +1235,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-10-supercharging-search-with-generative-ai.md",
-      "title": "Supercharging Search with generative AI",
-      "excerpt": "We’re starting with an experiment in Search Labs called SGE, Search Generative Experience, which uses generative AI.",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/products/search/generative-ai-search/",
-      "originalUrl": "https://blog.google/products/search/generative-ai-search/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 359,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/socialshare-test.width-1300.jpg",
-          "width": 1300,
-          "height": 731,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/products/search/generative-ai-search/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/search/generative-ai-search/amp/",
-      "publishedDateTime": "2023-05-10T10:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-10-whats-ahead-for-bard-more-global-more-visual-more-integrated.md",
-      "title": "What’s ahead for Bard: More global, more visual, more integrated",
-      "excerpt": "We’re ending the waitlist for Bard, adding support for more regions, introducing images and connecting with partner apps.",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/technology/ai/google-bard-updates-io-2023/",
-      "originalUrl": "https://blog.google/technology/ai/google-bard-updates-io-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_IO_Bard_Keyword_Header_Option_B_2096x1.width-1300.png",
-          "width": 1300,
-          "height": 733,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/technology/ai/google-bard-updates-io-2023/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/google-bard-updates-io-2023/amp/",
-      "publishedDateTime": "2023-05-10T10:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-11-cruise-expands-supervised-self-driving-ride-hailing-to-houston-and-dallas.md",
-      "title": "Cruise expands supervised self-driving ride-hailing to Houston and Dallas",
-      "excerpt": "Cruise is rolling out its self-driving cars to more cities — specifically, to Houston and Dallas as it expands its Texas-based presence. Cruise already started testing its vehicles in Austin at the end of last year,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/05/10/cruise-expands-supervised-self-driving-ride-hailing-to-houston-and-dallas/",
-      "originalUrl": "https://techcrunch.com/2023/05/10/cruise-expands-supervised-self-driving-ride-hailing-to-houston-and-dallas/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/04/Ridehail-Rider-Entry.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/05/10/cruise-expands-supervised-self-driving-ride-hailing-to-houston-and-dallas/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/10/cruise-expands-supervised-self-driving-ride-hailing-to-houston-and-dallas/amp/",
-      "publishedDateTime": "2023-05-10T10:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

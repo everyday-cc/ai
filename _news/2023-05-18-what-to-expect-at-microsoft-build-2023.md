@@ -178,6 +178,22 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 63
+  - title: "Microsoft India announces the addition of 4 new languages to Translator"
+    excerpt: "Users can translate Konkani, Maithili, Sindhi, and Sinhala text, supported in more than 125 languages, for their apps, websites, workflows, and tools with Azure Cognitive Services Translator"
+    publishedDateTime: 2023-05-19T11:48:00Z
+    webUrl: "https://www.mid-day.com/technology/article/microsoft-india-announces-the-addition-of-4-new-languages-to-translator-23287443"
+    ampWebUrl: "https://www.mid-day.com/amp/technology/article/microsoft-india-announces-the-addition-of-4-new-languages-to-translator-23287443"
+    cdnAmpWebUrl: "https://www-mid--day-com.cdn.ampproject.org/c/s/www.mid-day.com/amp/technology/article/microsoft-india-announces-the-addition-of-4-new-languages-to-translator-23287443"
+    type: article
+    provider:
+      name: Mid Day
+      domain: mid-day.com
+    quality: 61
+    images:
+      - url: "https://images.mid-day.com/images/images/2023/may/Microsoft-afp_d.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "SAP taps Microsoft AI Copilot to streamline hiring and upskilling for enterprises"
     excerpt: "SAP today announced a plan to integrate Microsoft AI Copilot and Azure OpenAI service with its SuccessFactors suite of solutions."
     publishedDateTime: 2023-05-15T17:57:00Z

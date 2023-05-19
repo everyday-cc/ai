@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/05/15/combining-generat
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/05/15/combining-generative-ai-chatgpt-into-handguns-triggers-fiery-response/amp/"
 type: article
 quality: 91
-heat: 681
+heat: 691
 published: true
 
 provider:
@@ -553,6 +553,20 @@ related:
       - url: "https://www.airforcetimes.com/resizer/mXwHQ7VIhta78WsJT7efTcguf28=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/archetype/WBTSLREOY5ER7KEUW5BJIK46PY.jpg"
         width: 1024
         height: 683
+        isCached: true
+  - title: "Apple Bans Employees From Using ChatGPT Amid Its Own AI Efforts"
+    excerpt: "Apple has restricted employee use of ChatGPT and other external artificial intelligence utilities amid the development of its own similar"
+    publishedDateTime: 2023-05-19T11:20:00Z
+    webUrl: "https://www.macrumors.com/2023/05/19/apple-bans-employees-from-using-chatgpt/"
+    type: article
+    provider:
+      name: MacRumors
+      domain: macrumors.com
+    quality: 37
+    images:
+      - url: "https://images.macrumors.com/t/iBp9BqJv2WpLVJf_ebOZGLh1orw=/2500x/article-new/2023/05/chatgpt-for-iphone-feature.jpg"
+        width: 2500
+        height: 1406
         isCached: true
   - title: "ChatGPT iPhone app Omni AI adds on-device voice recognition in latest update"
     excerpt: "Omni AI, a ChatGPT-powered app for the iPhone, just added on-device voice recognition for its AI assistant in a recent update."

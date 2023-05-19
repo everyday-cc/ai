@@ -70,6 +70,17 @@ related:
         width: 500
         height: 223
         isCached: true
+  - title: "Rising importance of AI in the fintech space"
+    excerpt: "Advantage of AI in fintech industry is its capacity to automate and augment a multitude of laborious processes related to banking"
+    publishedDateTime: 2023-05-18T11:25:00Z
+    webUrl: "https://www.dqindia.com/rising-importance-of-ai-in-the-fintech-space/"
+    ampWebUrl: "https://www.dqindia.com/rising-importance-of-ai-in-the-fintech-space/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/rising-importance-of-ai-in-the-fintech-space/amp/"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 39
   - title: "Nextech3D.AI adds 2 million in growth capital cash from FinTech Ratio Tech"
     excerpt: "CEO Evan Gappelberg joined Steve Darling from Proactive to share news the company the company has added 2 million dollars in cash to the bottom line without share dilution by doing a deal with FinTech Ratio Tech and its 400 million dollar credit fund."
     publishedDateTime: 2023-05-18T13:57:00Z

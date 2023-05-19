@@ -7,8 +7,8 @@ originalUrl: "https://www.fool.com/investing/stock-market/market-sectors/informa
 webUrl: "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/ai-in-finance/"
 type: article
 quality: 86
-heat: 126
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Motley Fool
@@ -30,56 +30,45 @@ images:
     isCached: true
 
 related:
-  - title: "How Common is Common Sense in AI, and Why Should We Care?"
-    excerpt: "Even JPMorgan CEO Jamie Dimon recently acknowledged the benefits of AI, calling the technology \"extraordinary and groundbreaking.” JPMorgan is now working on more than 300 AI use cases, and Dimon revealed that the bank has spent over $2 billion building cloud-based data centers and is working to modernize a significant portion of its applications to run in both their public and private cloud environments."
-    publishedDateTime: 2023-05-17T17:50:00Z
-    webUrl: "https://www.nasdaq.com/articles/how-common-is-common-sense-in-ai-and-why-should-we-care"
-    ampWebUrl: "https://www.nasdaq.com/articles/how-common-is-common-sense-in-ai-and-why-should-we-care?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/how-common-is-common-sense-in-ai-and-why-should-we-care?amp"
+  - title: "How AI Is Unlocking New Ways Marketers Get Work Done"
+    excerpt: "I believe there are three areas where generative AI is going to unlock new ways to get work done at a scale we’ve never seen before."
+    publishedDateTime: 2023-05-19T11:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/05/19/how-ai-is-unlocking-new-ways-marketers-get-work-done/"
+    ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/05/19/how-ai-is-unlocking-new-ways-marketers-get-work-done/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/05/19/how-ai-is-unlocking-new-ways-marketers-get-work-done/amp/"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 69
-  - title: "How AI might let us finally talk to animals"
-    excerpt: "AI could finally let humans talk to animals thanks to large language models that are now working to decode animal languages."
-    publishedDateTime: 2023-05-15T00:18:00Z
-    webUrl: "https://bgr.com/science/how-ai-might-let-us-finally-talk-to-animals/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 39
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://bgr.com/wp-content/uploads/2019/07/greenies-e1623872379523.jpg?quality=82&strip=all"
-        width: 1500
-        height: 772
+      - url: "https://imageio.forbes.com/specials-images/imageserve/645e46f53f40ac8745bd4910/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 502
         isCached: true
-  - title: "Preparing for AI in the Employee Experience"
-    excerpt: "AI is the next big evolution in how we work. Most employees will need to incorporate it into their work. AI can be an effective tool for reducing repetitive tasks and minimizing bias in decision-making. Willingness to learn, emotional intelligence, and creative problem-solving are critical skills to hone."
-    publishedDateTime: 2023-05-17T22:07:00Z
-    webUrl: "https://www.psychologytoday.com/za/blog/the-new-employee-experience/202305/preparing-for-ai-in-the-employee-experience"
+  - title: "2023, Artificial Intelligence in Marketing Market Research Report Analysis by 2030"
+    excerpt: "The major players covered in the Artificial Intelligence in Marketing market report are: Get a sample copy of the Artificial Intelligence in Marketing Market report 2023 The global Artificial Intelligence in Marketing market size was valued at USD 36391."
+    publishedDateTime: 2023-05-16T06:05:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-artificial-intelligence-in-marketing-market-research-report-analysis-by-2030-2023-05-16"
     type: article
     provider:
-      name: Psychology Today
-      domain: psychologytoday.com
-    quality: 39
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 78
     images:
-      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-05/GettyImages-1469706462.jpg?itok=gnSj0JMx"
-        width: 1528
-        height: 800
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Rising importance of AI in the fintech space"
-    excerpt: "Advantage of AI in fintech industry is its capacity to automate and augment a multitude of laborious processes related to banking"
-    publishedDateTime: 2023-05-18T11:25:00Z
-    webUrl: "https://www.dqindia.com/rising-importance-of-ai-in-the-fintech-space/"
-    ampWebUrl: "https://www.dqindia.com/rising-importance-of-ai-in-the-fintech-space/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/rising-importance-of-ai-in-the-fintech-space/amp/"
+  - title: "Artificial intelligence is getting smarter. Here’s how you can spot it"
+    excerpt: "Generative artificial intelligence is AI used to create something new. The VERIFY team explains the latest about this technology so you can recognize it."
+    publishedDateTime: 2023-05-15T21:35:00Z
+    webUrl: "https://www.wtsp.com/article/news/verify/ai/artificial-intelligence-is-getting-smarter-heres-how-you-can-spot-it/536-7d247e35-6124-4bd1-a9b1-96b757e823a5"
     type: article
     provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 39
+      name: WTSP
+      domain: wtsp.com
+    quality: 19
 
 secured: "z7g6Dk9fOZnkjGC+JiYDtBYJPYnf8e7qEfJD25lvtvnBi2kztoKLsKnkmewqScl2wma4XttnJ4J4EpR+xeEyumeddiBk/iCLozYXHCvQ6QQLU/R9+il67Npu37QEXuHOKEGipJYwzst6sEM1LabWu8IHsdLUbqjfPRLtHOBtkamYxU66VqjZnqUh5JXLn6yPUwJMOeQEDJBYfbLCZDRFBPCNCo1r6KQrucpG97sjX/+/9jut8Ko0yhmutWWA6arlMW39CumrBoArrfMUANXGtaJWY9o/ZkSGPVBbFB3WQJXfaylbbPNod3Dq11ch4oaJZDSUofKRhj4k1W01/01KeFNImAiksiOzR/7LaQl+zXouRlwkXwfPUJVClUmr0zBNB80pq/k4Umm+bj3EPXsX8W5UGpQa4BJ1trYKzjFfVPUAHm8MBIbRWa68+76PDz/0fevP/5sWMzxYatX3OTpEA8MBqMrkxQ5qtk8LtwTt5fO1EwhTkyCjWuU3TO1gCodFm11JVj7PvlFjopnAQsoOKA==;Lez2o/R6Zu8swbsS9HzhgA=="
 ---

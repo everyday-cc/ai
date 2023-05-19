@@ -1,22 +1,28 @@
 ---
 category: news
 title: "TSA is testing facial recognition at more airports, raising privacy concerns"
-excerpt: "The agency tasked with securing America's airports is testing the use of facial recognition technology at a number of airports across the country. The Transportation Safety Administration says the technology is an effort to more accurately identify the millions of passengers traveling through its airports every day and that passengers can opt out."
+excerpt: "The agency tasked with securing America's airports is testing the use of facial recognition technology at a number of airports across the country. The Transportation Safety Administration says the tec"
 publishedDateTime: 2023-05-15T19:29:00Z
-originalUrl: "https://apnews.com/article/facial-recognition-airport-screening-tsa-d8b6397c02afe16602c8d34409d1451f"
-webUrl: "https://apnews.com/article/facial-recognition-airport-screening-tsa-d8b6397c02afe16602c8d34409d1451f"
+originalUrl: "https://omaha.com/lifestyles/technology/tsa-is-testing-facial-recognition-at-more-airports-raising-privacy-concerns/article_1960d054-fedf-59b8-a1ed-b6d087e61991.html"
+webUrl: "https://omaha.com/lifestyles/technology/tsa-is-testing-facial-recognition-at-more-airports-raising-privacy-concerns/article_1960d054-fedf-59b8-a1ed-b6d087e61991.html"
 type: article
-quality: 31
+quality: 51
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Omaha.com
+  domain: omaha.com
 
 topics:
   - Computer Vision
   - AI
+
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/9/e7/9e729762-a89b-5a79-9f4d-c13f116cf8fa/6461b5a12f579.image.jpg?crop=1763%2C926%2C0%2C125&resize=1200%2C630&order=crop%2Cresize"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "TSA tests facial recognition technology to boost airport security"
@@ -86,7 +92,7 @@ related:
   - title: "Is that really you? TSA tests facial recognition tech for airport security"
     excerpt: "A pilot project by the Transportation Security Administration is assessing the use of facial recognition technology at a number of airports across the country."
     publishedDateTime: 2023-05-15T11:36:00Z
-    webUrl: "https://thehill.com/regulation/transportation/4004432-is-that-really-you-tsa-tests-facial-recognition-tech-for-airport-security/?0=utm_source=ground.news&1=utm_medium=referral"
+    webUrl: "https://thehill.com/regulation/transportation/4004432-is-that-really-you-tsa-tests-facial-recognition-tech-for-airport-security/"
     ampWebUrl: "https://thehill.com/regulation/transportation/4004432-is-that-really-you-tsa-tests-facial-recognition-tech-for-airport-security/amp/"
     cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/regulation/transportation/4004432-is-that-really-you-tsa-tests-facial-recognition-tech-for-airport-security/amp/"
     type: article
@@ -504,6 +510,6 @@ related:
       domain: extremetech.com
     quality: 19
 
-secured: "lmOkf1YXkRyeBNsla9S2Ly98tpeSG2HZ49Kh3JJk8L4RfKklHQjZlFGTyc6l5DLo48nYZ9LCxolEyyuh8bxXp1bqEmCG5OhEiWweRIjbtj/A1C+ebW684eERLjK2EHMKsdXQhRS4y+2Dh6VYoqUeJmbwpyzEd/b3MPv6/GmuKNRv4Cvk3FbJSKS44m8hSLISxA0QHiexW7URgBBqHjdq2Wl4JSqA7MdcISwfsSpgQvOTZPajHkJYKogXTIOqULu280N3VLup7AYABMWMn4KWAYK4/8ehq7XAdPTwIoN58jvocPqNmv4XIn45xsr38LJUKV25IamgY9LW1RyXi6OqfyZOMuaVI7tlHsN7wlWb/OA=;eH849YjrIpmDEXDeqDOjSw=="
+secured: "lu6n8ExnK+r35Rym7QVZMISudcwbTizgBKt+PU+pAu1/xX/Hg1IG9oENroZqQVcP2dUX4VACs2hw5l3Hnw+2vHJiO6qkyZZe9Yw9wU/fmGGePWKccEekIP68mD1vXl0+DVW9ozl+WS9UoxgFwoBsXwg76dOHO9F3yQM83cjv1IjNHjnnShr4tTK9OsrgnsOFUOILuxkifMLxULVcHJW4D9H9nv9hSrQJ6jomJxgIk7eLPXJDO1VEXgWhcAeZLhXz0Zh69rx1/t1GO7mvEUhufEm2jNZ15zs4vDwdCRdprfyB/ObRG3f5wI9h7BTiqrc3PwevxeMhOj6pl4slu/16XvdoGb3yu5nQRGOB98bgZh0=;whqqfyH1NSNnJDvKA+TXzw=="
 ---
 

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nasdaq.com/articles/how-common-is-common-sense-in-ai-and
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/how-common-is-common-sense-in-ai-and-why-should-we-care?amp"
 type: article
 quality: 69
-heat: -1
-published: false
+heat: 79
+published: true
 
 provider:
   name: Nasdaq
@@ -21,58 +21,16 @@ topics:
   - AI
 
 related:
-  - title: "How Artificial Intelligence Is Used in Finance"
-    excerpt: "One of the most common applications of artificial intelligence in finance is in lending. Machine learning algorithms and pattern recognition allow businesses to go beyond the typical examination of credit scores and credit histories to rate borrowers' creditworthiness when applying for credit cards and other loans."
-    publishedDateTime: 2023-05-16T13:25:00Z
-    webUrl: "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/ai-in-finance/"
+  - title: "The AI renaissance is here. How can businesses stay secure?"
+    excerpt: "Here are three ways businesses can keep their systems, data and networks secure as they embrace artificial intelligence (AI)."
+    publishedDateTime: 2023-05-19T08:00:00Z
+    webUrl: "https://www.theedgesingapore.com/digitaledge/focus/ai-renaissance-here-how-can-businesses-stay-secure"
+    ampWebUrl: "https://www.theedgesingapore.com/amp/digitaledge/focus/ai-renaissance-here-how-can-businesses-stay-secure"
+    cdnAmpWebUrl: "https://www-theedgesingapore-com.cdn.ampproject.org/c/s/www.theedgesingapore.com/amp/digitaledge/focus/ai-renaissance-here-how-can-businesses-stay-secure"
     type: article
     provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 86
-    images:
-      - url: "https://m.foolcdn.com/media/dubs/images/GettyImages-1285914519.width-600.jpg"
-        width: 600
-        height: 400
-        isCached: true
-  - title: "How AI might let us finally talk to animals"
-    excerpt: "AI could finally let humans talk to animals thanks to large language models that are now working to decode animal languages."
-    publishedDateTime: 2023-05-15T00:18:00Z
-    webUrl: "https://bgr.com/science/how-ai-might-let-us-finally-talk-to-animals/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 39
-    images:
-      - url: "https://bgr.com/wp-content/uploads/2019/07/greenies-e1623872379523.jpg?quality=82&strip=all"
-        width: 1500
-        height: 772
-        isCached: true
-  - title: "Preparing for AI in the Employee Experience"
-    excerpt: "AI is the next big evolution in how we work. Most employees will need to incorporate it into their work. AI can be an effective tool for reducing repetitive tasks and minimizing bias in decision-making. Willingness to learn, emotional intelligence, and creative problem-solving are critical skills to hone."
-    publishedDateTime: 2023-05-17T22:07:00Z
-    webUrl: "https://www.psychologytoday.com/za/blog/the-new-employee-experience/202305/preparing-for-ai-in-the-employee-experience"
-    type: article
-    provider:
-      name: Psychology Today
-      domain: psychologytoday.com
-    quality: 39
-    images:
-      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-05/GettyImages-1469706462.jpg?itok=gnSj0JMx"
-        width: 1528
-        height: 800
-        isCached: true
-  - title: "Rising importance of AI in the fintech space"
-    excerpt: "Advantage of AI in fintech industry is its capacity to automate and augment a multitude of laborious processes related to banking"
-    publishedDateTime: 2023-05-18T11:25:00Z
-    webUrl: "https://www.dqindia.com/rising-importance-of-ai-in-the-fintech-space/"
-    ampWebUrl: "https://www.dqindia.com/rising-importance-of-ai-in-the-fintech-space/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/rising-importance-of-ai-in-the-fintech-space/amp/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
+      name: The Edge Singapore
+      domain: theedgesingapore.com
     quality: 39
 
 secured: "synPMTeJtm73mf12UmOuNKqBT2ytgtYJoY8GgKKtiW/Qjr6q0EJP8f69So75X3cgE1u2bw75kM1ZI98IdUnljDJGWmWOAHPwpf3TKbrc/H2Ok9IOMbXLmopsYU3z7DcXgm0FgXPvfl0nUFm23xerTEsAl9yyyHwnPH2/0cUgl1GKD6AUIiGbRX92MdqxqM7FU8lss+xKdext/7RryIjt/+fUUMEaY2oboXiUsTjXeWlUe6L712+jsINATmF+9kXM6KrWxipvqYvdunemK0O6rC8QBkQc667xJ/jxxLlRfDCT/+PqQsRusNoa5SOO47L+tjud9llaFt9Hnwkl82ZViDgf3sO+8yU3aT9Oe0Vsl1I=;QXms9qQvUitWcaQ+H5t61A=="

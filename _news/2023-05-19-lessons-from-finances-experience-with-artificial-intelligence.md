@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/money/lessons-from-finance-s-experience-wit
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/money/lessons-from-finance-s-experience-with-artificial-intelligence/amp-11684407926757.html"
 type: article
 quality: 76
-heat: 86
+heat: 96
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Preparing for AI in the Employee Experience"
+    excerpt: "AI is the next big evolution in how we work. Most employees will need to incorporate it into their work. AI can be an effective tool for reducing repetitive tasks and minimizing bias in decision-making. Willingness to learn, emotional intelligence, and creative problem-solving are critical skills to hone."
+    publishedDateTime: 2023-05-17T22:07:00Z
+    webUrl: "https://www.psychologytoday.com/za/blog/the-new-employee-experience/202305/preparing-for-ai-in-the-employee-experience"
+    type: article
+    provider:
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 39
+    images:
+      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-05/GettyImages-1469706462.jpg?itok=gnSj0JMx"
+        width: 1528
+        height: 800
+        isCached: true
   - title: "TV series about AI stirs resonance online"
     excerpt: "Consisting of 33 episodes, the TV series has recently concluded its first run on CCTV-1 and is now available on the streaming sites iQiyi and Tencent Video. Set in a fictional city named Pengcheng, the tale is narrated through four parallel storylines,"
     publishedDateTime: 2023-05-16T12:37:00Z

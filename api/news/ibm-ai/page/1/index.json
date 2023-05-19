@@ -345,59 +345,6 @@
       ]
     },
     {
-      "path": "_news/2023-05-16-how-artificial-intelligence-is-used-in-finance.md",
-      "title": "How Artificial Intelligence Is Used in Finance",
-      "excerpt": "One of the most common applications of artificial intelligence in finance is in lending. Machine learning algorithms and pattern recognition allow businesses to go beyond the typical examination of credit scores and credit histories to rate borrowers' creditworthiness when applying for credit cards and other loans.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/ai-in-finance/",
-      "originalUrl": "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/ai-in-finance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.foolcdn.com/media/dubs/images/GettyImages-1285914519.width-600.jpg",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-16T06:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
       "path": "_news/2023-05-16-how-to-achieve-high-impact-personalization-at-scale-with-managed-marketing-services.md",
       "title": "How to achieve high-impact personalization at scale with managed marketing services",
       "excerpt": "To help companies better deliver on their marketing vision and scale their marketing business processes, managed marketing services (MMS) offshore has become a fast growing trend. According to an Everest Group&#174; study, offshore MMS centers increased over 50% from 2019 to 2022. What&#8217;s more,",
@@ -1458,6 +1405,58 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-09-ibm-takes-another-shot-at-watson-as-ai-boom-picks-up-steam.md",
+      "title": "IBM takes another shot at Watson as A.I. boom picks up steam",
+      "excerpt": "It’s been a long time since IBM has actively touted Watson. Originally created to beat humans at the “Jeopardy!” game show, Watson marked IBM’s early splash in artificial intelligence, but it never amounted to a profitable offering.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/05/09/ibm-takes-another-shot-at-watson-as-ai-boom-picks-up-steam.html",
+      "originalUrl": "https://www.cnbc.com/2023/05/09/ibm-takes-another-shot-at-watson-as-ai-boom-picks-up-steam.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107184040-1674677984697-gettyimages-1246298067-DAVOS_WEF_2023.jpeg?v=1683626401",
+          "width": 4000,
+          "height": 2692,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2023/05/09/ibm-takes-another-shot-at-watson-as-ai-boom-picks-up-steam.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/05/09/ibm-takes-another-shot-at-watson-as-ai-boom-picks-up-steam.html",
+      "publishedDateTime": "2023-05-09T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

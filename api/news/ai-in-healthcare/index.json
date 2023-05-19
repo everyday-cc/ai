@@ -1225,49 +1225,6 @@
       ]
     },
     {
-      "path": "_news/2023-05-06-how-artificial-intelligence-could-fundamentally-change-certain-types-of-work.md",
-      "title": "How artificial intelligence could fundamentally change certain types of work",
-      "excerpt": "New York City — Since he started using artificial intelligence, copywriter Guillermo Rubio estimates his productivity has increased by as much as 20%. \"It just makes certain things go a bit ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/artificial-intelligence-chatgpt-threatens-changes-jobs-work/",
-      "originalUrl": "https://www.cbsnews.com/news/artificial-intelligence-chatgpt-threatens-changes-jobs-work/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/05/06/a3ed2e4c-256d-4d01-9c3a-65e06d542d99/thumbnail/1200x630/a4fae228ea819b28b491968bc3769e43/0505-chen1.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/artificial-intelligence-chatgpt-threatens-changes-jobs-work/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/artificial-intelligence-chatgpt-threatens-changes-jobs-work/",
-      "publishedDateTime": "2023-05-05T17:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-05-06-artificial-intelligence-helping-detect-early-signs-of-breast-cancer-in-some-us-hospitals.md",
       "title": "Artificial intelligence helping detect early signs of breast cancer in some US hospitals",
       "excerpt": "Some doctors believe artificial intelligence is saving lives after ... less chemotherapy, less radiation therapy,\" she continued. \"I think we're entering into a whole new era in breast care.\"",
@@ -1438,6 +1395,50 @@
       "topics": [
         "AI in Healthcare",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-05-uae-chemo-robot-artificial-intelligence-guided-radiotherapy-for-cancer-care-now-available-in-abu-dhabi.md",
+      "title": "UAE: Chemo robot, artificial intelligence-guided radiotherapy for cancer care now available in Abu Dhabi",
+      "excerpt": "Newly-launched Fatima bint Mubarak Center also has latest non-invasive treatments Abu Dhabi: An artificial intelligence-guided radiotherapy treatment, a targeted therapy for liver cancer, and a chemotherapy robot are some of the innovative options that are ...",
+      "sourceUrl": null,
+      "webUrl": "https://gulfnews.com/uae/health/uae-chemo-robot-artificial-intelligence-guided-radiotherapy-for-cancer-care-now-available-in-abu-dhabi-1.95537748",
+      "originalUrl": "https://gulfnews.com/uae/health/uae-chemo-robot-artificial-intelligence-guided-radiotherapy-for-cancer-care-now-available-in-abu-dhabi-1.95537748",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imagevars.gulfnews.com/2023/05/04/Cleveland_Clinic_Abu_Dhabi_Fatima_bint_Mubarak_Center-_Chemotherapy_robot-1683221993322_187e7d95774_medium.jpg",
+          "width": 540,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gulfnews.com/amp/uae/health/uae-chemo-robot-artificial-intelligence-guided-radiotherapy-for-cancer-care-now-available-in-abu-dhabi-1.95537748",
+      "cdnAmpWebUrl": "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/uae/health/uae-chemo-robot-artificial-intelligence-guided-radiotherapy-for-cancer-care-now-available-in-abu-dhabi-1.95537748",
+      "publishedDateTime": "2023-05-04T11:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gulf News",
+        "domain": "gulfnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
       ]
     }
   ],

@@ -556,6 +556,20 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Apple Bans Employees From Using ChatGPT Amid Its Own AI Efforts"
+    excerpt: "Apple has restricted employee use of ChatGPT and other external artificial intelligence utilities amid the development of its own similar"
+    publishedDateTime: 2023-05-19T11:20:00Z
+    webUrl: "https://www.macrumors.com/2023/05/19/apple-bans-employees-from-using-chatgpt/"
+    type: article
+    provider:
+      name: MacRumors
+      domain: macrumors.com
+    quality: 37
+    images:
+      - url: "https://images.macrumors.com/t/iBp9BqJv2WpLVJf_ebOZGLh1orw=/2500x/article-new/2023/05/chatgpt-for-iphone-feature.jpg"
+        width: 2500
+        height: 1406
+        isCached: true
   - title: "ChatGPT iPhone app Omni AI adds on-device voice recognition in latest update"
     excerpt: "Omni AI, a ChatGPT-powered app for the iPhone, just added on-device voice recognition for its AI assistant in a recent update."
     publishedDateTime: 2023-05-15T20:13:00Z

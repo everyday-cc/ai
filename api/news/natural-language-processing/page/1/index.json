@@ -106,6 +106,40 @@
       ]
     },
     {
+      "path": "_news/2023-05-18-how-common-is-common-sense-in-ai-and-why-should-we-care.md",
+      "title": "How Common is Common Sense in AI, and Why Should We Care?",
+      "excerpt": "Even JPMorgan CEO Jamie Dimon recently acknowledged the benefits of AI, calling the technology \"extraordinary and groundbreaking.” JPMorgan is now working on more than 300 AI use cases, and Dimon revealed that the bank has spent over $2 billion building cloud-based data centers and is working to modernize a significant portion of its applications to run in both their public and private cloud environments.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/how-common-is-common-sense-in-ai-and-why-should-we-care",
+      "originalUrl": "https://www.nasdaq.com/articles/how-common-is-common-sense-in-ai-and-why-should-we-care",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/how-common-is-common-sense-in-ai-and-why-should-we-care?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/how-common-is-common-sense-in-ai-and-why-should-we-care?amp",
+      "publishedDateTime": "2023-05-17T10:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-16-these-4-popular-microsoft-apps-are-getting-a-big-ai-boost.md",
       "title": "These 4 popular Microsoft apps are getting a big AI boost",
       "excerpt": "Swiftkey, Microsoft's virtual keyboard app that allows you to access Bing Chat across different apps, is getting a monumental boost.",
@@ -114,7 +148,7 @@
       "originalUrl": "https://www.zdnet.com/article/these-4-popular-microsoft-apps-are-getting-a-big-ai-boost/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 376,
+      "heat": 386,
       "tags": null,
       "images": [
         {
@@ -367,7 +401,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-2023-2029-enormous-growth-detailed-perspective-and-top-players-microsoft-ibm-3m-amazon-aws-2023-05-15",
       "featuredContent": null,
       "highlight": null,
-      "heat": 139,
+      "heat": 149,
       "tags": null,
       "images": [
         {
@@ -1444,58 +1478,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-09-you-can-earn-up-to-25-an-hour-training-ai-to-write-better-in-other-languages.md",
-      "title": "You can earn up to $25 an hour training AI to write better in other languages",
-      "excerpt": "If you're a writer with an interest in AI and other languages, there's a job available for you. Scale AI, a data-labeling company, has job listings for writers to train generative AI models to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/ai-training-jobs-data-labeling-language-improvement-pay-25-hour-2023-5",
-      "originalUrl": "https://www.businessinsider.com/ai-training-jobs-data-labeling-language-improvement-pay-25-hour-2023-5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/645a535ec726bc00196a8d95?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/ai-training-jobs-data-labeling-language-improvement-pay-25-hour-2023-5?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-training-jobs-data-labeling-language-improvement-pay-25-hour-2023-5?amp",
-      "publishedDateTime": "2023-05-08T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

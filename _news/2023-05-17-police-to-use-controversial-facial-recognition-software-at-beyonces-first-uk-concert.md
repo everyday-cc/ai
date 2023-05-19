@@ -7,7 +7,7 @@ originalUrl: "https://www.aol.com/police-controversial-facial-recognition-softwa
 webUrl: "https://www.aol.com/police-controversial-facial-recognition-software-121252139.html"
 type: article
 quality: 32
-heat: 32
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,40 @@ images:
     height: 900
     isCached: true
 
-secured: "2+qf4dOogfJZmxprSxUigAcaEGbgenS7M1N3Mv3SGqXoPytfoDjydqRpsM836MO3d11Ub0CzjH+m6x9AFJYvgKhvVmJR9pxfOZwFB9ugvByHQ45MeMEbQ2RkLVImTr1PBTbB4N/JwWgg8y/VMtS40fJpNJOdEedQtrMVt5dNXisubKMsaHNn+DCcp4oZvRCoRygX+6Yl/RAhMXz8JwpQFcMOG0jjWl3MiYhKpC04OJ+mfP2OwobmNcN1pPJExcYLBiJWA5w968WOD1aQh52BGv34WcJBGDvwv8OD2ljcNm5LKhsNYDw8xGSahmcQD+6qYcTey++oBkxDuRqtENGRTB+T9DvhCwshvTVWE8NaQjU=;Ur/wnkoAj9IW1/7opq1SkQ=="
+related:
+  - title: "Cardiff Beyoncé concert: Face recognition use criticised"
+    excerpt: "Thousands of fans attending the Beyoncé concert in Cardiff could be scanned by live face recognition cameras deployed in the area by South Wales Police. The cameras will help identify people wanted for \"priority offences\". Police also used the cameras at the Coronation, but the technology has been criticised by human rights campaigners."
+    publishedDateTime: 2023-05-17T16:28:00Z
+    webUrl: "https://www.bbc.co.uk/news/uk-wales-65622404.amp"
+    ampWebUrl: "https://www.bbc.co.uk/news/uk-wales-65622404.amp"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/uk-wales-65622404.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 59
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/9AC0/production/_129761693_microsoftteams-image.png"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Police criticised for using facial recognition technology at Beyoncé’s Cardiff show"
+    excerpt: "South Wales Police has come under fire for its use of controversial facial recognition technology during the Cardiff leg of Beyoncé’s world tour. In a statement to Mixmag, South Wales Police claims that it utilised the technology to identify \"people wanted for priority offences,"
+    publishedDateTime: 2023-05-19T11:33:00Z
+    webUrl: "https://mixmag.net/read/police-criticised-for-using-facial-recognition-at-beyonces-cardiff-show-news"
+    ampWebUrl: "https://mixmag.net/amp/police-criticised-for-using-facial-recognition-at-beyonces-cardiff-show"
+    cdnAmpWebUrl: "https://mixmag-net.cdn.ampproject.org/c/s/mixmag.net/amp/police-criticised-for-using-facial-recognition-at-beyonces-cardiff-show"
+    type: article
+    provider:
+      name: Mixmag
+      domain: mixmag.net
+    quality: 53
+    images:
+      - url: "https://mixmag.net/assets/uploads/images/_full/Beyonce-Mason-Poole.png"
+        width: 1008
+        height: 672
+        isCached: true
+
+secured: "vNaf2G+6g3BbXHwD5259zuMP44GgYhnhhjfVs+2x5rDQiktFsECRm9wwWdUAxK2MoPAk1UAJN0TJrDdBCYTTX1jNY4vtBhe9Q6R18OXINENpYHtAA6vCAWefgapB/4Zpkj46qG8jX9oP8AD8YCpYD7862sxxvZvYqKvxrTV9PyefOgSYaRkEbG4IDXr/0QeAmhAoQpDuxskaEcwHEK5wmCV6u1ODoyxKnmbf6/Vj+27YuGIPNEwVKhOFrNd9OX8t14EpmIe1vQXjY6sexHXAxJ6SgBNefMVOrkdwGecN2b5DP5k6j18IEY3P6C5rXagmp20fMcv/881hwMT3rSaEpEC6a+eq2lfwugAns0Szz9n1gNhTHGJhNPNGKJCAtAHT3jQj3DQiZcQTVdrFqQn2KkVvFSqwoX4X5DAeHtEljfyACO3wDge7nEiUhkJbK2+wvvXzEhNCnTvbRh7WRs+G4YJ0SwCBn5yXz4cDHxmmyniVzo68YfQqGP21FDa4MfUNen37sPuks6Hts0ziStgERQ==;F6w1CcfZAygIpj5RCyJ8pw=="
 ---
 

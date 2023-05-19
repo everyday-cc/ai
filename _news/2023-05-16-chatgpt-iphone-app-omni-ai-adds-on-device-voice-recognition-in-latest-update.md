@@ -563,6 +563,20 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Apple Bans Employees From Using ChatGPT Amid Its Own AI Efforts"
+    excerpt: "Apple has restricted employee use of ChatGPT and other external artificial intelligence utilities amid the development of its own similar"
+    publishedDateTime: 2023-05-19T11:20:00Z
+    webUrl: "https://www.macrumors.com/2023/05/19/apple-bans-employees-from-using-chatgpt/"
+    type: article
+    provider:
+      name: MacRumors
+      domain: macrumors.com
+    quality: 37
+    images:
+      - url: "https://images.macrumors.com/t/iBp9BqJv2WpLVJf_ebOZGLh1orw=/2500x/article-new/2023/05/chatgpt-for-iphone-feature.jpg"
+        width: 2500
+        height: 1406
+        isCached: true
   - title: "ChatGPT and Generative AI in Financial Services: Reality, Hype, What's Next, and How to Prepare"
     excerpt: "Payments, banking, and insurance players are eager to understand generative AI's potential and put it to work."
     publishedDateTime: 2023-05-18T17:30:00Z

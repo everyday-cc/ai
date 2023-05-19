@@ -84,6 +84,17 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 41
+  - title: "Rising importance of AI in the fintech space"
+    excerpt: "Advantage of AI in fintech industry is its capacity to automate and augment a multitude of laborious processes related to banking"
+    publishedDateTime: 2023-05-18T11:25:00Z
+    webUrl: "https://www.dqindia.com/rising-importance-of-ai-in-the-fintech-space/"
+    ampWebUrl: "https://www.dqindia.com/rising-importance-of-ai-in-the-fintech-space/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/rising-importance-of-ai-in-the-fintech-space/amp/"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 39
   - title: "United Insurance among financials gainers; UP Fintech, LM Funding America in losers"
     excerpt: "Gainers: Applied Digital (APLD) +47% on first AI customer news. United Insurance Holdings (UIHC ... Stronghold Digital Mining (SDIG) -11% on reverse stock split. UP Fintech Holding (TIGR) -9%. To ensure this doesn’t happen in the future, please ..."
     publishedDateTime: 2023-05-16T16:11:00Z

@@ -167,6 +167,22 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 63
+  - title: "Microsoft India announces the addition of 4 new languages to Translator"
+    excerpt: "Users can translate Konkani, Maithili, Sindhi, and Sinhala text, supported in more than 125 languages, for their apps, websites, workflows, and tools with Azure Cognitive Services Translator"
+    publishedDateTime: 2023-05-19T11:48:00Z
+    webUrl: "https://www.mid-day.com/technology/article/microsoft-india-announces-the-addition-of-4-new-languages-to-translator-23287443"
+    ampWebUrl: "https://www.mid-day.com/amp/technology/article/microsoft-india-announces-the-addition-of-4-new-languages-to-translator-23287443"
+    cdnAmpWebUrl: "https://www-mid--day-com.cdn.ampproject.org/c/s/www.mid-day.com/amp/technology/article/microsoft-india-announces-the-addition-of-4-new-languages-to-translator-23287443"
+    type: article
+    provider:
+      name: Mid Day
+      domain: mid-day.com
+    quality: 61
+    images:
+      - url: "https://images.mid-day.com/images/images/2023/may/Microsoft-afp_d.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "SAP taps Microsoft AI Copilot to streamline hiring and upskilling for enterprises"
     excerpt: "SAP today announced a plan to integrate Microsoft AI Copilot and Azure OpenAI service with its SuccessFactors suite of solutions."
     publishedDateTime: 2023-05-15T17:57:00Z
@@ -369,6 +385,6 @@ related:
       domain: tmcnet.com
     quality: 18
 
-secured: "wEhWm0NSIWwiGtLNGnxdsnEEJgLp1JK0nopltlJjMapXtzjYYVB75CO83YL7fS9bRrvPwiEXXePWEkf1tcSin6tVVNq+k/yADxJt2LeTBAp37aP0f7EMIH/gydx25wUPjzK2ULFnTL0RITbgIgTzuL87tCgvFINB8idL2+s0TUso800O8tVW+H89iH7i23hD4QZ6VuG7zCHhCMX0U+duQs5r5X6YkWn+cCPqgiIV5MNeKV7hgay5VfAdOSVZjm/0s6SIWgEWJP+g3RlYpnA1dcEtHDQ+mcsRxXaspwpX+Q6rPV2w6Y/bcqJ92e+F7cZv9PJVu/YgmGZTuIaxbiXPMM17ouqAzbEccXc7OCjpBH8=;xR3S66ph4gD6cI+r+f1+aw=="
+secured: "WPe2ZV8Mo9TNIcDEwf6YsaMOJPUSYiyfukzXIJrlZgdIVMirK0dYom41/IMVXqs7mrGtNbou7GkJ6etk3hzdmplUChGln8R1nBXGabyOKBJw4hkXNCARko42chvkxIOcQej1tUJ6j67OLi8jl98WwgXr1z2BLYUAuFjk9XJ5f8XXuiwsJLCw03ZSsYuKAO24reSlSYLVAZh8m+2h1tojLFBg/UFhxD2IttmvtkPS5x8gvXFThjCZudqu8XpMU8vQqHEodFuVOy4uyn6XAN9PMRO2WkFkPBToLP2pcn4CBgH9ONyqanadUr3KAqVwFAwCbbbtM0T0YAgRmRl8PJASTzvYzCMuA2O/XVxuqvfW3w8sU/BPveAssJhoCYTA3eo66k464x17aJTOOeMki6Ay4pGt9f84YKALzPIgOfFSO3ShA/gSCEFLvmdLa8ii7FvsLm47B/vvoVYGRGOGvxvkwGvKmAqWdr/H8LTovqVGQKROOyuZtEuy/nFRg5HX3YCVVcYe98UHOhmFNqbceQ/61g==;kzAtUP+zC/gKCyqlMH7m8w=="
 ---
 

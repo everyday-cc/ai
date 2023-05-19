@@ -2,6 +2,152 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-05-15-the-top-fintech-disruptions-shaping-the-future-of-finance.md",
+      "title": "The Top FinTech Disruptions: Shaping the Future of Finance",
+      "excerpt": "How Digital Payments, Peer-to-Peer Lending, Robo-Advisors, Blockchain, InsurTech, Open Banking, RegTech, and More Are Shaping the Future of Finance, and the Importance of Collaboration, Regulation, and Balancing Innovation with Consumer Protection for a Secure and Inclusive Financial Ecosystem.",
+      "sourceUrl": null,
+      "webUrl": "https://www.devdiscourse.com/article/technology/2452129-the-top-fintech-disruptions-shaping-the-future-of-finance",
+      "originalUrl": "https://www.devdiscourse.com/article/technology/2452129-the-top-fintech-disruptions-shaping-the-future-of-finance",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 189,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/15_05_2023_15_36_18_8718071.png?width=1280",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.devdiscourse.com/article/technology/2452129-the-top-fintech-disruptions-shaping-the-future-of-finance?amp",
+      "cdnAmpWebUrl": "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2452129-the-top-fintech-disruptions-shaping-the-future-of-finance?amp",
+      "publishedDateTime": "2023-05-15T03:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "devdiscourse",
+        "domain": "devdiscourse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-15-the-fanfic-sex-trope-that-caught-a-plundering-ai-red-handed.md",
+      "title": "The Fanfic Sex Trope That Caught a Plundering AI Red-Handed",
+      "excerpt": "Sudowrite, a tool that uses OpenAI’s GPT-3, was found to have understood a sexual act known only to a specific online community of Omegaverse writers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/fanfiction-omegaverse-sex-trope-artificial-intelligence-knotting/",
+      "originalUrl": "https://www.wired.com/story/fanfiction-omegaverse-sex-trope-artificial-intelligence-knotting/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/645ecbe29e47b5e53e89cd43/master/pass/Omegaverse.jpg",
+          "width": 2500,
+          "height": 1350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/fanfiction-omegaverse-sex-trope-artificial-intelligence-knotting/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/fanfiction-omegaverse-sex-trope-artificial-intelligence-knotting/amp",
+      "publishedDateTime": "2023-05-15T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-05-15-snapchats-new-ai-chatbot-is-already-raising-alarms-among-teens-and-parents.md",
+      "title": "Snapchat's new AI chatbot is already raising alarms among teens and parents",
+      "excerpt": "Less than a few hours after Snapchat rolled out its My AI chatbot to all users last week, Lyndsi Lee, a mother from East Prairie, Missouri, told her 13-year-old daughter to stay away from the feature.",
+      "sourceUrl": null,
+      "webUrl": "https://edition.cnn.com/2023/04/27/tech/snapchat-my-ai-concerns-wellness/index.html@",
+      "originalUrl": "https://edition.cnn.com/2023/04/27/tech/snapchat-my-ai-concerns-wellness/index.html@",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/230426123404-snapchat-app-restricted-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2023/04/27/tech/snapchat-my-ai-concerns-wellness/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/04/27/tech/snapchat-my-ai-concerns-wellness/index.html",
+      "publishedDateTime": "2023-05-15T02:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-15-ai-spending-will-cloud-chip-slowdown.md",
       "title": "AI Spending Will Cloud Chip Slowdown",
       "excerpt": "Google, Microsoft and other big techs are slowing capital spending while also launching generative AI services that require the most expensive chips.",
@@ -218,7 +364,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-2023-2029-enormous-growth-detailed-perspective-and-top-players-microsoft-ibm-3m-amazon-aws-2023-05-15",
       "featuredContent": null,
       "highlight": null,
-      "heat": 139,
+      "heat": 149,
       "tags": null,
       "images": [
         {
@@ -324,7 +470,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/data-and-ai-ethics-market-with-future-opportunities-2023-2031-2023-05-15",
       "featuredContent": null,
       "highlight": null,
-      "heat": 254,
+      "heat": 244,
       "tags": null,
       "images": [
         {
@@ -1094,151 +1240,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-13-to-my-fellow-gen-xers-worried-ai-is-going-to-take-your-job-take-a-chill-pill.md",
-      "title": "To my fellow Gen Xers worried AI is going to take your job: Take a chill pill",
-      "excerpt": "\"Will AI take my job\" is a question on many minds lately, especially for Gen X. Instead of panicking, boost your career by learning to adapt.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/will-ai-take-my-job-gen-x-gen-z-worry-2023-5",
-      "originalUrl": "https://www.businessinsider.com/will-ai-take-my-job-gen-x-gen-z-worry-2023-5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/645e491511971c00188f1e56?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/will-ai-take-my-job-gen-x-gen-z-worry-2023-5?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/will-ai-take-my-job-gen-x-gen-z-worry-2023-5?amp",
-      "publishedDateTime": "2023-05-13T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-13-how-a-toronto-computer-chip-maker-is-providing-the-better-brains-ai-runs-on.md",
-      "title": "How a Toronto computer chip maker is providing the better brains AI runs on",
-      "excerpt": "From its downtown Toronto HQ, Untether is designing the computer chips that run artificial intelligence programs more efficiently.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestar.com/business/2023/05/13/untether-ai-ceo-arun-iyengar-on-the-hidden-energy-crisis-in-ai-semiconductors-and-why-he-stayed-in-canada.html",
-      "originalUrl": "https://www.thestar.com/business/2023/05/13/untether-ai-ceo-arun-iyengar-on-the-hidden-energy-crisis-in-ai-semiconductors-and-why-he-stayed-in-canada.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thestar.com/content/dam/thestar/star-chevron-16x9.png.size.custom.crop.640x360.jpg",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thestar.com/amp/business/2023/05/13/untether-ai-ceo-arun-iyengar-on-the-hidden-energy-crisis-in-ai-semiconductors-and-why-he-stayed-in-canada.html",
-      "cdnAmpWebUrl": "https://www-thestar-com.cdn.ampproject.org/c/s/www.thestar.com/amp/business/2023/05/13/untether-ai-ceo-arun-iyengar-on-the-hidden-energy-crisis-in-ai-semiconductors-and-why-he-stayed-in-canada.html",
-      "publishedDateTime": "2023-05-13T02:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Toronto Star",
-        "domain": "thestar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-13-deepfakes-porn-tapes-bots-how-ai-has-shaped-a-vital-nato-allys-presidential-election.md",
-      "title": "Deepfakes, porn tapes, bots: How AI has shaped a vital NATO ally's presidential election",
-      "excerpt": "One candidate already dropped out of the race after an alleged sex tape surfaced on social media, but the candidate claimed it was the product of deepfake technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/world/deepfakes-porn-tapes-bots-ai-shaped-vital-nato-allys-presidential-election",
-      "originalUrl": "https://www.foxnews.com/world/deepfakes-porn-tapes-bots-ai-shaped-vital-nato-allys-presidential-election",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e23c3aaa-25e1-4b4c-90a2-94785ba4bcb2/f246275e-dbb8-426b-9b88-16d17ce716f6/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/world/deepfakes-porn-tapes-bots-ai-shaped-vital-nato-allys-presidential-election.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/world/deepfakes-porn-tapes-bots-ai-shaped-vital-nato-allys-presidential-election.amp",
-      "publishedDateTime": "2023-05-12T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

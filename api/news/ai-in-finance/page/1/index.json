@@ -10,7 +10,7 @@
       "originalUrl": "https://www.livemint.com/money/lessons-from-finance-s-experience-with-artificial-intelligence-11684407926757.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 96,
       "tags": null,
       "images": [
         {
@@ -202,59 +202,6 @@
       ]
     },
     {
-      "path": "_news/2023-05-16-how-artificial-intelligence-is-used-in-finance.md",
-      "title": "How Artificial Intelligence Is Used in Finance",
-      "excerpt": "One of the most common applications of artificial intelligence in finance is in lending. Machine learning algorithms and pattern recognition allow businesses to go beyond the typical examination of credit scores and credit histories to rate borrowers' creditworthiness when applying for credit cards and other loans.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/ai-in-finance/",
-      "originalUrl": "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/ai-in-finance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.foolcdn.com/media/dubs/images/GettyImages-1285914519.width-600.jpg",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-16T06:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
       "path": "_news/2023-05-16-three-ways-process-automation-can-help-modernize-financial-services-firms.md",
       "title": "Three Ways Process Automation Can Help Modernize Financial Services Firms",
       "excerpt": "By embracing process orchestration, financial services organizations can meet the ever-changing modern challenges of doing business, including updating legacy systems, meeting compliance and risk requirements and improving the customer experience.",
@@ -359,7 +306,7 @@
       "originalUrl": "https://www.devdiscourse.com/article/technology/2452129-the-top-fintech-disruptions-shaping-the-future-of-finance",
       "featuredContent": null,
       "highlight": null,
-      "heat": 179,
+      "heat": 189,
       "tags": null,
       "images": [
         {
@@ -1385,6 +1332,40 @@
         "AI in Finance",
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-05-01-analytixinsight-reports-2022-financial-results-provides-corporate-update-and-reports-marketwall-q1-2023-record-financial-results.md",
+      "title": "AnalytixInsight Reports 2022 Financial Results, Provides Corporate Update and Reports MarketWall Q1 2023 Record Financial Results",
+      "excerpt": "InvestoPro momentum is now building and MarketWall has posted record breaking financial results for the first quarter of 2023 on the back of the new recurring revenue license agreement with our bank partner.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2023/05/01/9804689.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2023/05/01/9804689.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-01T06:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
       ]
     }
   ],

@@ -2,6 +2,254 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-05-18-servicenow-partners-with-nvidia-to-develop-super-specialized-generative-ai-for-enterprises.md",
+      "title": "ServiceNow partners with Nvidia to develop ‘super-specialized’ generative AI for enterprises",
+      "excerpt": "Workflow automation vendor ServiceNow today partnered with Nvidia to build custom generative AI models for enterprise IT workflows.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/servicenow-partners-with-nvidia-to-develop-super-specialized-generative-ai-for-enterprises/",
+      "originalUrl": "https://venturebeat.com/ai/servicenow-partners-with-nvidia-to-develop-super-specialized-generative-ai-for-enterprises/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/11/enterprise-e1627412579683.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 599,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/servicenow-partners-with-nvidia-to-develop-super-specialized-generative-ai-for-enterprises/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/servicenow-partners-with-nvidia-to-develop-super-specialized-generative-ai-for-enterprises/amp/",
+      "publishedDateTime": "2023-05-17T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-17-poll-61-of-americans-say-ai-threatens-humanitys-future.md",
+      "title": "Poll: 61% of Americans say AI threatens humanity’s future",
+      "excerpt": "The poll results come amid the expansion of generative AI use in education, government, medicine, and business, triggered in part by the explosive growth of OpenAI's ChatGPT, which is reportedly the fastest-growing software application of all time.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2023/05/poll-61-of-americans-say-ai-threatens-humanitys-future/",
+      "originalUrl": "https://arstechnica.com/information-technology/2023/05/poll-61-of-americans-say-ai-threatens-humanitys-future/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/ai_threat_hero_1-800x450.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/information-technology/2023/05/poll-61-of-americans-say-ai-threatens-humanitys-future/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/05/poll-61-of-americans-say-ai-threatens-humanitys-future/amp/",
+      "publishedDateTime": "2023-05-17T09:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-17-ai-over-hype-is-under-valued.md",
+      "title": "AI “Over” Hype Is “Under” Valued",
+      "excerpt": "The Silicon Valley Playbook heavily relies on hype to attract early investors, employees, and customers. Something important struck me recently while attending a startup event in Cleveland, Ohio with Steve Case.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/patrickmckenna/2023/05/17/ai-over-hype-is-under-valued/",
+      "originalUrl": "https://www.forbes.com/sites/patrickmckenna/2023/05/17/ai-over-hype-is-under-valued/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6464fa9675c3b7eb6046245d/0x0.jpg?format=jpg&width=1200",
+          "width": 1019,
+          "height": 1012,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/patrickmckenna/2023/05/17/ai-over-hype-is-under-valued/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmckenna/2023/05/17/ai-over-hype-is-under-valued/amp/",
+      "publishedDateTime": "2023-05-17T09:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-17-cardiff-beyonce-concert-face-recognition-use-criticised.md",
+      "title": "Cardiff Beyoncé concert: Face recognition use criticised",
+      "excerpt": "Thousands of fans attending the Beyoncé concert in Cardiff could be scanned by live face recognition cameras deployed in the area by South Wales Police. The cameras will help identify people wanted for \"priority offences\". Police also used the cameras at the Coronation, but the technology has been criticised by human rights campaigners.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.co.uk/news/uk-wales-65622404.amp",
+      "originalUrl": "https://www.bbc.co.uk/news/uk-wales-65622404.amp",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/9AC0/production/_129761693_microsoftteams-image.png",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.co.uk/news/uk-wales-65622404.amp",
+      "cdnAmpWebUrl": "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/uk-wales-65622404.amp",
+      "publishedDateTime": "2023-05-17T09:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-17-healthcare-bi-market-size-share-trends-analysis-report-2029-aimr.md",
+      "title": "Healthcare BI Market Size, Share & Trends Analysis Report 2029| AIMR",
+      "excerpt": "Moreover, the emergence of big data analytics, artificial intelligence, and machine learning technologies in healthcare is expected to drive the growth of this market in the future. Opportunities and Threats in Healthcare BI Market The Healthcare BI Market ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/healthcare-bi-market-size-share-trends-analysis-report-2029-aimr-2023-05-17",
+      "originalUrl": "https://www.marketwatch.com/press-release/healthcare-bi-market-size-share-trends-analysis-report-2029-aimr-2023-05-17",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-17T08:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-17-how-job-seekers-are-using-ai-to-supercharge-their-job-hunt.md",
       "title": "How job-seekers are using AI to supercharge their job hunt",
       "excerpt": "The startup raised $2.3 million last year ... \"I think in a few years, everyone will have their own personal recruiter — their own AI recruiter,\" he said. To be sure, there are potential downsides to robo-applying. There's the possibility that too ...",
@@ -962,255 +1210,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-17-calling-all-generative-ai-disruptors-of-the-enterprise-apply-now-to-present-at-vb-transform-2023.md",
-      "title": "Calling all Generative AI disruptors of the enterprise! Apply now to present at VB Transform 2023",
-      "excerpt": "We’re on the hunt for the 10 generative AI products most likely to disrupt the enterprise right now, and if you have such a product we’d like to invite you to present the impact of this technology on the main stage.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/calling-all-generative-ai-disruptors-of-the-enterprise-apply-now-to-present-at-transform-2023/",
-      "originalUrl": "https://venturebeat.com/ai/calling-all-generative-ai-disruptors-of-the-enterprise-apply-now-to-present-at-transform-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/05/2VB_9896.jpg?fit=800%2C533&strip=all",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/calling-all-generative-ai-disruptors-of-the-enterprise-apply-now-to-present-at-transform-2023/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/calling-all-generative-ai-disruptors-of-the-enterprise-apply-now-to-present-at-transform-2023/amp/",
-      "publishedDateTime": "2023-05-16T19:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-17-special-edition-with-andrew-ross-sorkin-ai-and-microsoft-ceo-satya-nadella.md",
-      "title": "Special Edition with Andrew Ross Sorkin: AI and Microsoft CEO Satya Nadella",
-      "excerpt": "Artificial Intelligence is a profound new technology that will have implications – good and bad – on all our lives. In this latest episode of “Special Edition,” host Andrew Ross Sorkin sits down with Microsoft CEO Satya Nadella.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/now/video/special-edition-with-andrew-ross-sorkin-ai-and-microsoft-ceo-satya-nadella-174543941895",
-      "originalUrl": "https://www.nbcnews.com/now/video/special-edition-with-andrew-ross-sorkin-ai-and-microsoft-ceo-satya-nadella-174543941895",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_05/101422_NBC_NEWS_NOW_GFX_SORKIN_FS_copy_3-esrvh7.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo174543941895",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo174543941895",
-      "publishedDateTime": "2023-05-16T18:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-17-dataai-mobile-game-app-revenue-split-evenly-between-ads-iap.md",
-      "title": "Data.ai: Mobile game app revenue split evenly between ads, IAP",
-      "excerpt": "Data.ai's total app revenue metric shows monetization trends for games and other apps. Mobile game spend is split between ad spend and IAP.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/games/dataai-total-app-revenue-mobile-games-in-app-ad-spend/",
-      "originalUrl": "https://venturebeat.com/games/dataai-total-app-revenue-mobile-games-in-app-ad-spend/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/05/Data-AI-Ad-revenue-in-app-puchase-trends-2022.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 611,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/games/dataai-total-app-revenue-mobile-games-in-app-ad-spend/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/dataai-total-app-revenue-mobile-games-in-app-ad-spend/amp/",
-      "publishedDateTime": "2023-05-16T16:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-17-kustomer-the-crm-startup-acquired-by-meta-last-year-for-1b-spins-out-on-a-250m-valuation.md",
-      "title": "Kustomer, the CRM startup acquired by Meta last year for $1B, spins out on a $250M valuation",
-      "excerpt": "Meta's intention to divest itself of Kustomer was first reported in March, amid a bigger cost-cutting and restructuring effort at the company.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/05/16/kustomer-meta-spin-out/",
-      "originalUrl": "https://techcrunch.com/2023/05/16/kustomer-meta-spin-out/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/11/facebook-meta-twist.jpg?resize=1200,675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/05/16/kustomer-meta-spin-out/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/16/kustomer-meta-spin-out/amp/",
-      "publishedDateTime": "2023-05-16T16:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2023-05-17-personal-crm-app-clay-adds-an-ai-helper-to-help-you-navigate-your-relationships.md",
-      "title": "Personal CRM app Clay adds an AI helper to help you navigate your relationships",
-      "excerpt": "The app is popular among many industries, ranging from MBA students to those who have expansive networks, like VCs.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/05/16/personal-crm-app-clay-introduces-an-ai-helper-to-help-you-navigate-your-relationships/",
-      "originalUrl": "https://techcrunch.com/2023/05/16/personal-crm-app-clay-introduces-an-ai-helper-to-help-you-navigate-your-relationships/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/08/clay_header.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/05/16/personal-crm-app-clay-introduces-an-ai-helper-to-help-you-navigate-your-relationships/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/16/personal-crm-app-clay-introduces-an-ai-helper-to-help-you-navigate-your-relationships/amp/",
-      "publishedDateTime": "2023-05-16T16:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales"
       ]
     }
   ],

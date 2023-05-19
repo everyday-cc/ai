@@ -2,6 +2,161 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-05-19-how-ai-is-unlocking-new-ways-marketers-get-work-done.md",
+      "title": "How AI Is Unlocking New Ways Marketers Get Work Done",
+      "excerpt": "I believe there are three areas where generative AI is going to unlock new ways to get work done at a scale we’ve never seen before.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/05/19/how-ai-is-unlocking-new-ways-marketers-get-work-done/",
+      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/05/19/how-ai-is-unlocking-new-ways-marketers-get-work-done/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/645e46f53f40ac8745bd4910/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 502,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/05/19/how-ai-is-unlocking-new-ways-marketers-get-work-done/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/05/19/how-ai-is-unlocking-new-ways-marketers-get-work-done/amp/",
+      "publishedDateTime": "2023-05-19T04:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-19-three-ways-to-get-ready-for-the-ai-takeover-in-interior-design.md",
+      "title": "Three Ways To Get Ready For The AI Takeover In Interior Design",
+      "excerpt": "There is a lot of work to do before people start trusting AI. To ensure that the AI takeover becomes a reality, we must come to terms with the new paradigm. The roads toward it might be bumpy, as there are psychological barriers to overcome, but AI can actually do a part of the work instead of people—and do it quite well.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/19/three-ways-to-get-ready-for-the-ai-takeover-in-interior-design/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/19/three-ways-to-get-ready-for-the-ai-takeover-in-interior-design/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64662733af9968582de6367b/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/19/three-ways-to-get-ready-for-the-ai-takeover-in-interior-design/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/05/19/three-ways-to-get-ready-for-the-ai-takeover-in-interior-design/amp/",
+      "publishedDateTime": "2023-05-19T03:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-19-a-policy-agenda-for-responsible-ai-progress-opportunity-responsibility-security.md",
+      "title": "A policy agenda for responsible AI progress: Opportunity, Responsibility, Security",
+      "excerpt": "For society to reap the benefits of AI, opportunity, responsibility, and national security strategies must be baked into that shared AI agenda.",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/technology/ai/a-policy-agenda-for-responsible-ai-progress-opportunity-responsibility-security/",
+      "originalUrl": "https://blog.google/technology/ai/a-policy-agenda-for-responsible-ai-progress-opportunity-responsibility-security/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 160,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Kent_Walker_Keyword_SharedAgenda_AI_2.width-1300.png",
+          "width": 1300,
+          "height": 733,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/technology/ai/a-policy-agenda-for-responsible-ai-progress-opportunity-responsibility-security/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/a-policy-agenda-for-responsible-ai-progress-opportunity-responsibility-security/amp/",
+      "publishedDateTime": "2023-05-19T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2023-05-19-machine-learning-creates-new-technologies.md",
       "title": "Machine Learning Creates New Technologies",
       "excerpt": "Machine learning is finding increasing uses in developing new materials, including magnetic materials used for digital storage. Although not infallible, these approaches can speed scientific and engineering discoveries.",
@@ -244,7 +399,7 @@
       "originalUrl": "https://www.livemint.com/money/lessons-from-finance-s-experience-with-artificial-intelligence-11684407926757.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 96,
       "tags": null,
       "images": [
         {
@@ -382,7 +537,7 @@
       "originalUrl": "https://www.marketwatch.com/story/tech-up-on-ai-optimism-tech-roundup-77d7ab6c",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 100,
       "tags": null,
       "images": [
         {
@@ -1052,160 +1207,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-18-politicians-need-to-learn-how-ai-worksfast.md",
-      "title": "Politicians Need to Learn How AI Works—Fast",
-      "excerpt": "Tech regulation has often disappointed. Automation expert Missy Cummings hopes a course to teach policymakers about artificial intelligence can help.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/fast-forward-politicians-need-to-learn-how-ai-works-fast/",
-      "originalUrl": "https://www.wired.com/story/fast-forward-politicians-need-to-learn-how-ai-works-fast/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/646569ec06bd08d2f808af22/191:100/w_1280,c_limit/Missy-Cummings-Interview-Fast-Forward-Business-Redux-h_15868081.jpg",
-          "width": 1280,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-18T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-05-18-ibm-hybrid-cloud-mesh-reimagining-multicloud-networking-with-applications-taking-center-stage.md",
-      "title": "IBM Hybrid Cloud Mesh: Reimagining multicloud networking with applications taking center stage",
-      "excerpt": "With the launch of IBM Hybrid Cloud Mesh, application-centric connectivity helps you take back control of enterprise networking.\nThe post IBM Hybrid Cloud Mesh: Reimagining multicloud networking with applications taking center stage appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/ibm-hybrid-cloud-mesh-reimagining-multicloud-networking-with-applications-taking-center-stage/",
-      "originalUrl": "https://www.ibm.com/blog/ibm-hybrid-cloud-mesh-reimagining-multicloud-networking-with-applications-taking-center-stage/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/05/blockorganicgrowth0186.lr_-1-scaled.jpg",
-          "width": 2560,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-18T08:53:17-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-18-trump-supporters-and-christians-are-the-most-worried-that-ai-is-an-existential-threat-to-humanity-poll-says.md",
-      "title": "Trump supporters and Christians are the most worried that AI is an existential threat to humanity, poll says",
-      "excerpt": "Respondents who voted for Donald Trump for the 2020 presidency and identify as Evangelical Christians were most concerned about AI's potential risks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trump-supporters-christians-most-concerned-ai-threat-humanity-poll-2023-5",
-      "originalUrl": "https://www.businessinsider.com/trump-supporters-christians-most-concerned-ai-threat-humanity-poll-2023-5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/6466409b7224930019f364bc?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/trump-supporters-christians-most-concerned-ai-threat-humanity-poll-2023-5?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-supporters-christians-most-concerned-ai-threat-humanity-poll-2023-5?amp",
-      "publishedDateTime": "2023-05-18T08:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

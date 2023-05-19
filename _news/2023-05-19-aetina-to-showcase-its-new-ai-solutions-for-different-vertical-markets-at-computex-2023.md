@@ -2,9 +2,9 @@
 category: news
 title: "Aetina to Showcase Its New AI Solutions for Different Vertical Markets at Computex 2023"
 excerpt: "Aetina, a leading AI solution provider, will showcase its latest computing systems, platforms, hardware, and software tools for use in AIoT during Computex 2023 at booth I0810 with its parent company—Innodisk."
-publishedDateTime: 2023-05-19T08:03:00Z
-originalUrl: "https://technews.tmcnet.com/news/2023/05/19/9817609.htm"
-webUrl: "https://technews.tmcnet.com/news/2023/05/19/9817609.htm"
+publishedDateTime: 2023-05-19T10:07:00Z
+originalUrl: "https://it.tmcnet.com/news/2023/05/19/9817609.htm"
+webUrl: "https://it.tmcnet.com/news/2023/05/19/9817609.htm"
 type: article
 quality: 31
 heat: 31
@@ -24,6 +24,6 @@ images:
     height: 209
     isCached: true
 
-secured: "V+8ACindwbYp5iDFJ2HO1N7RnvjMtj/ibH/UuzhQm1F2W0OtEqp6YszQy8aXmBHzW0Wn/G07/T+ujMxE0V3i1EutTNcw2HBSDRixA69qwUifxRbWzoejXTslf02SDzxYwLYDElfTHpU5NobAvy79fHVt5oEqfBwTHe3Hct09TWaHFJ+S/DqtCu+iUQfoaRWRU5aQqHybjY/oszL/8l2vISEnVJa/Ln14Fr/VyQXsr9aeX0UtOjvFqUj3PJXi1Z4Piz4/NtHFPHGyNep4TK7htb40hRAohebRsDqlSgPUQled3EU4Lo4O9OF2zc2Au53b3+Yr0TCpsX9g63nQ8453pwEnrPBJnFrkNUGxJENGMRE=;hG35A8akPHcRH0ye76jDgQ=="
+secured: "46N2wwcEady6m1cDzyxkzKQINqtTlOAJuxeGdzz9W9hmwSY25hcpawtY33RGiCYNq/qk9qVdqLgn4ApiRSP1zCYUXsPghtGX6S+N9JgHKX37dlO4AC8ZhcYKmKq2LwOhWPDMZOaONFC7xcxwTClqmtSIJcuipYlJPO3GRGJaYcvqFzkRxSuakU0auyZyDZftlr8/5Tm0CVzN6BZgRkxZ5X4Clg7RXbY1dR1qKikZdO1K3ltIqWw59022ibJtGTbc4gOJ0n4BJTUm4rPyN/O6F9bG12NrNJbkO0ct+o5iqfZM5lldXkW3rHeJyMrHOBa7Lk+KOMa3g6Bn08Mgx3L1fwPc6xaEHFxh2+fo36x0sx0=;T92/sYYirjj7CUBHa4pMuA=="
 ---
 
