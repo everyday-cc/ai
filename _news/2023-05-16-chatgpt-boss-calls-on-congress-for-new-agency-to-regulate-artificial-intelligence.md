@@ -262,6 +262,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Korean AI chip startups face losses in 2022 despite ChatGPT momentum"
+    excerpt: "Although the artificial intelligence (AI) market, including chatbot technologies like ChatGPT, is gradually expanding and expected to drive growth in the IC design industry, South Korean AI chip startups faced significant losses in 2022."
+    publishedDateTime: 2023-05-19T06:54:00Z
+    webUrl: "https://www.digitimes.com/news/a20230519PD206/ai-ic-design-distribution-south-korea.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 54
+    images:
+      - url: "https://img.digitimes.com/newsshow/20230519pd206_files/2_b.jpg"
+        width: 640
+        height: 427
+        isCached: true
   - title: "Are you using AI tools like ChatGPT in your day-to-day life? We want to hear from you"
     excerpt: "Artificial intelligence-powered tools such as ChatGPT have exploded online over the last several months. If you're using AI in your day-to-day life, CTVNews.ca wants to hear from you."
     publishedDateTime: 2023-05-18T21:07:00Z

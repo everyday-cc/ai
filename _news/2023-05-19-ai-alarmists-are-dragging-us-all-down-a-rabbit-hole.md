@@ -6,7 +6,7 @@ publishedDateTime: 2023-05-18T23:20:00Z
 originalUrl: "https://www.washingtonpost.com/business/2023/05/19/ai-longtermism-alarmists-are-dragging-us-all-down-existential-rabbit-hole/897ef2f0-f5fc-11ed-918d-012572d64930_story.html"
 webUrl: "https://www.washingtonpost.com/business/2023/05/19/ai-longtermism-alarmists-are-dragging-us-all-down-existential-rabbit-hole/897ef2f0-f5fc-11ed-918d-012572d64930_story.html"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RDS3WYXV7QI63EMNAESXFVSJGA.jpg&w=1440"
@@ -138,6 +139,6 @@ related:
       domain: rollcall.com
     quality: 17
 
-secured: "BumDZJf8Rs58YYy+FkC9aQ9QYnCLawI+085xCYnBiwweSqM5VR/0eYztX0gVHKkXhu4pRHdAjAzgXjwErvsrKuSjModyfkYJw5qEJyNj6/Fao2/xAn/FKtiulBfE1jrabhoKBAR3q9SOCEBrMORRhuFn2CFiXGGOT6NjV3AUnnAn6d/kIhydjKdqCw14g64sKIEZGysoXp/RPmOhriMNqAXkz8VT+MygWnReBWoewufwOHTECWNrd0APyC8QB88jmnmq/W2fgYMtRmUTY8MbIUGlGQ9LTuHPWcastDHYfuaQiEX2pyM/UgDgMJU62B86N1sU5u3RFExtDt430ki+TF5iqLZyOILInkTsl+SRcsg=;9vcTTurxzS7kIg6Z97YE1g=="
+secured: "qVJPHjiLdM9ItgbSc9CCPDWSccJkH1TOc/yD1XEl0X2wZZXMZoG36rQiYcrVLCdCXXPrb4G37oGZyZZq6eOIvLd366rWXhlBB8wgLczqyAc1IW5hgo9z5kKOPWkA8kGduX32ZAIIRPJxnbK2gCtJ4jr/ohIOGWpSUqxrMdGHZrwOuCsJnNyB3hfJRZq5Cl60stNtJ4MsXzprg7GjE89seQJlbLO1rviwnPsQXVI+bF6FHrwZw00QrwyEfUUmOseFWLzTchII6KymSHw2Ds/6kSRwDEmyIo3nIFBi3r2vyP+/3yXePeHl6B61vZEXvfzjZz9DpCTiUJTd0wH790dbZJcdPasNOWIxvROGJZIMWMfPAJGEa7A8OaaE2PzzJiHBzWOHMpZYM3bSxpXrSRD98xAuoeaIF/OJ/FgfL6bMvX0x11g3pE4icwS9EqIcfJ9JffUkN3vqALOU2manDReSCAVUA4io23RfH+fsHn2UHeEhuGjQVR8Emyn5lTa1moyQhuu33NumN15Ky8RsOdosZA==;vK8289VCwuUSivo1QChSqA=="
 ---
 

@@ -30,34 +30,127 @@ images:
     isCached: true
 
 related:
-  - title: "Latest 2023 \"Artificial Intelligence (AI) in Fintech Market\" Survey & Forecast by 2029 | With 75+ Pages"
-    excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this “Artificial Intelligence"
-    publishedDateTime: 2023-05-17T03:51:00Z
-    webUrl: "https://www.marketwatch.com/press-release/latest-2023-artificial-intelligence-ai-in-fintech-market-survey-forecast-by-2029-with-75-pages-2023-05-16"
+  - title: "Global Artificial Intelligence In Healthcare Service Market 2023-2030 by Size|Precisionreports.co"
+    excerpt: "May 16, 2023 (The Expresswire) -- \"Artificial Intelligence In Healthcare Service Market\" Reports recently released an executive data report that focuses"
+    publishedDateTime: 2023-05-16T18:49:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-healthcare-service-market-2023-2030-by-sizeprecisionreportsco-2023-05-16"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 68
+    quality: 71
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Latest 2023 \"Automatic Speech Recognition(ASR) Software Market\" Survey & Forecast by 2030 | With 114+ Pages"
-    excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this “Automatic Speech Recognition(ASR) Software Industry”. Embracing Growth: A Promising Outlook for the Global Automatic Speech Recognition(ASR) Software Market from 2023 to 2030."
-    publishedDateTime: 2023-05-15T06:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/latest-2023-automatic-speech-recognitionasr-software-market-survey-forecast-by-2030-with-114-pages-2023-05-15"
+  - title: "Facial Recognition Devices Market Expert Analysis By,2030"
+    excerpt: "(The Expresswire) -- \"Facial Recognition Devices Market\" Reports recently released an executive data report that focuses on the end"
+    publishedDateTime: 2023-05-15T18:44:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-devices-market-expert-analysis-by2030-2023-05-15"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 51
+    quality: 69
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
+  - title: "Computer Vision System Market Research | 2023-2030"
+    excerpt: "Research Reports has published a new report titled as \"Computer Vision System Market\" by End User (Automotive,"
+    publishedDateTime: 2023-05-17T00:45:00Z
+    webUrl: "https://www.marketwatch.com/press-release/computer-vision-system-market-research-2023-2030-2023-05-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "2023, Automatic Speech Recognition(ASR) Software Market Research Report Analysis by 2030"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. May 16, 2023 (The Expresswire) -- Automatic Speech Recognition(ASR) Software Market | Outlook 2023-2028 | Pre and Post-COVID Research is Covered, Report Information | Newest ..."
+    publishedDateTime: 2023-05-16T15:18:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-automatic-speech-recognitionasr-software-market-research-report-analysis-by-2030-2023-05-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 60
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Artificial Intelligence Microscopy Market 2023-2030 by Size|Precisionreports.co"
+    excerpt: "May 16, 2023 (The Expresswire) -- \"Artificial Intelligence Microscopy Market\" Reports recently released an executive data report that focuses on the end"
+    publishedDateTime: 2023-05-16T18:49:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-microscopy-market-2023-2030-by-sizeprecisionreportsco-2023-05-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 59
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Artificial Intelligence In Insurtech Market 2023-2030 by Size|Precisionreports.co"
+    excerpt: "May 16, 2023 (The Expresswire) -- \"Artificial Intelligence In Insurtech Market\" Reports recently released an executive data report that focuses on the"
+    publishedDateTime: 2023-05-16T18:51:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-insurtech-market-2023-2030-by-sizeprecisionreportsco-2023-05-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 58
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Speech & Voice Recognition Systems Market 2023-2030"
+    excerpt: "May 16, 2023 (The Expresswire) -- Speech and Voice Recognition Systems Market | Outlook 2023-2028 | Pre and Post-COVID Research is Covered, Report Information | Newest 116 Pages Report The extent and overview of the various commercial opportunities ..."
+    publishedDateTime: 2023-05-16T10:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-voice-recognition-systems-market-2023-2030-2023-05-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "2023-2029 \"Artificial Intelligence in Agriculture Market\" New Research Report by Industryreport.co"
+    excerpt: "May 15, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" A market research report has"
+    publishedDateTime: 2023-05-15T07:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-2029-artificial-intelligence-in-agriculture-market-new-research-report-by-industryreportco-2023-05-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 53
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "2023-2029 \"Facial Recognition Access Control Solutions Market\" volume sale, Trends and Market Overview | Report Reviewed by Experts"
+    excerpt: "May 15, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" A market research report has"
+    publishedDateTime: 2023-05-15T07:14:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-2029-facial-recognition-access-control-solutions-market-volume-sale-trends-and-market-overview-report-reviewed-by-experts-2023-05-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 19
 
 secured: "0Ky04PuwvE3QnKffk8L11dIvUcmsbtl6ymYivzJ/iL5iPdl2G8jpFpBkeBVR3gjyWvNc6aB3wAMXsK7o/9EsTFbAGgYiY53VVU9TsK1Y5EqUF47Tmd8eYKflntecoz8TBC4hohwc65Zbj/K/IkeXK7G7xnSYa0mosz4QObZCcK3HuXtIhkr3wwGCYxNpuw1282GHAjL1BzeTzRhzZC26etuCCVjjh6w6fMmZmygrBZc1ayIo4MDfkOsHEgh+ZtXxNhXHgWvQEKybLXKFXzld3WkKh6zpxJkagyujPkj31l4N/ZcvgXQlaIsgtAlNxhsrvWZWqEorX1aMe+rh+E7P/Z38dIrqalNqzaHkbpEo9GQ=;biNno5nB/JOIIRrPrmCIvw=="
 ---

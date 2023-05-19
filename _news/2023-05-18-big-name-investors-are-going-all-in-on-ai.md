@@ -127,7 +127,7 @@ related:
     provider:
       name: The Washington Post
       domain: washingtonpost.com
-    quality: 37
+    quality: 39
     images:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RDS3WYXV7QI63EMNAESXFVSJGA.jpg&w=1440"
         width: 1440

@@ -2,6 +2,48 @@
   "page": 58,
   "value": [
     {
+      "path": "_news/2023-04-13-how-to-build-a-decision-tree-model-in-ibm-db2.md",
+      "title": "How to build a decision tree model in IBM Db2",
+      "excerpt": "After developing a machine learning model, you need a place to run your model and serve predictions. Here is how I build such a model in IBM Db2.\nThe post How to build a decision tree model in IBM Db2 appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/how-to-build-a-decision-tree-model-in-ibm-db2/",
+      "originalUrl": "https://www.ibm.com/blog/how-to-build-a-decision-tree-model-in-ibm-db2/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-13T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-13-can-ai-answer-your-money-questions-we-put-chatbots-to-the-test.md",
       "title": "Can AI answer your money questions? We put chatbots to the test",
       "excerpt": "Face it, we could all use a little help with our money. So who better to ask for personal finance advice than a couple of the most powerful chatbots on the planet?",
@@ -1056,49 +1098,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-12-esports-market-to-hit-447-billion-by-2030-cognitive-market-research.md",
-      "title": "eSports Market to Hit $4.47 Billion by 2030: Cognitive Market Research",
-      "excerpt": "The Global eSports Market size is valued at USD 1.42 Billion in 2022 and is projected to be USD 4.47 Billion by 2030, growing at a CAGR of 17.8% from",
-      "sourceUrl": null,
-      "webUrl": "https://www.finanznachrichten.de/nachrichten-2023-04/58797559-esports-market-to-hit-dollar-4-47-billion-by-2030-cognitive-market-research-008.htm",
-      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2023-04/58797559-esports-market-to-hit-dollar-4-47-billion-by-2030-cognitive-market-research-008.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1989016/Cognitive_Market_Research_Logo.jpg",
-          "width": 357,
-          "height": 227,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-12T07:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finanznachrichten",
-        "domain": "finanznachrichten.de",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

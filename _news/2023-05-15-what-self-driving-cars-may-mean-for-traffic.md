@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Self-driving cars are taking ages to become a reality, but they won’t take forever"
+    excerpt: "That’s a lot of autonomous driving. Baidu’s update follows other progress reports from self-driving car outfits: Cruise a couple of months ago said it had completed “one million fully driverless miles” in the 15 months since it started offering ..."
+    publishedDateTime: 2023-05-16T18:56:00Z
+    webUrl: "https://techcrunch.com/2023/05/16/self-driving-tech-predictions/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 48
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/05/IMG_5632.jpeg?resize=1200,900"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "How Google's Self-Driving Car Will Change Everything"
     excerpt: "The hype around driverless cars has grown rapidly over ... computer-processing capabilities and sophisticated artificial intelligence systems are becoming more advanced and more affordable every ..."
     publishedDateTime: 2023-05-14T23:44:00Z
@@ -48,15 +62,6 @@ related:
       name: Tech Digest
       domain: techdigest.tv
     quality: 19
-  - title: "Barack Obama Riding in a Self-Driving Car in Netflix’s ‘Working’ Will Make You Squeal With Joy"
-    excerpt: "Now that we’ve established the groundwork, the following sentiment will make much more sense: Watching Obama ride in a self-driving car in Working was my favorite part of the entire docuseries and he was just soooo cute, and I’m obsessed with everything about it."
-    publishedDateTime: 2023-05-17T13:30:00Z
-    webUrl: "https://decider.com/2023/05/17/barack-obama-self-driving-car-netflix-working-squeal-joy/"
-    type: article
-    provider:
-      name: Decider
-      domain: decider.com
-    quality: 0
 
 secured: "Q6YWbAC4Y4TNK5xc40rIXOqMi6+DDog6uZmt+zA5pK5D/XofbsWhZS0P/qZUpyQfRHJp02fNsQ4Ox8G+mpEZ9AfCYGqZlYE5AE2eoh4F+GdO/eJtMveuTKEuAxv+bckbsdGTyyiQQevrA7yTICYqrFFv/LOIqdRE8/uVviPPjO/mSpl8c5HtgBaPWH92PlrAtw/RKgpxNYH9Z/UBt+QQoOZRLtznAV11AQViYw0eTZGIOT8uSpOcUcn2G2SX3UvAQWL2FA6yaJRd+Gk13Lt4P+pd6T3qTei8f7Xqf2/yYNJupwC6xpNICi8IfLweYmg1uubtnVtdHceLYu+omhvv+8AR7tmY+8loKbuVnaGAuE2hPdhWzXdELwNCBuulFP2LH1OkL3bRu9bg9/yVXoZwCNsq3nNKd8sfOrAP/JEeAh+ir4gx3xUm2nTu193m7qKkzlPWYfd6EmKrUebXXqSJpJhQ8Rz72jmLlkS9hSw7MiZ97AG2wRP8FnvRhFa80LuCCdq62gRg1La008+BHc82Wg==;ZXRHEIK4aoTu4XJHVOxPvQ=="
 ---

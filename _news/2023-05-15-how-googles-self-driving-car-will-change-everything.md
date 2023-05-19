@@ -7,7 +7,7 @@ originalUrl: "https://www.investopedia.com/articles/investing/052014/how-googles
 webUrl: "https://www.investopedia.com/articles/investing/052014/how-googles-selfdriving-car-will-change-everything.asp"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Self-driving cars are taking ages to become a reality, but they won’t take forever"
+    excerpt: "That’s a lot of autonomous driving. Baidu’s update follows other progress reports from self-driving car outfits: Cruise a couple of months ago said it had completed “one million fully driverless miles” in the 15 months since it started offering ..."
+    publishedDateTime: 2023-05-16T18:56:00Z
+    webUrl: "https://techcrunch.com/2023/05/16/self-driving-tech-predictions/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 48
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/05/IMG_5632.jpeg?resize=1200,900"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "What self-driving cars may mean for traffic"
     excerpt: "AI might be arriving with a bang, but autonomous cars are crawling closer at a snail’s pace. What’s the delay? And what can we expect to change on our roads in the next decade?"
     publishedDateTime: 2023-05-15T07:01:00Z
@@ -48,15 +62,6 @@ related:
       name: Tech Digest
       domain: techdigest.tv
     quality: 19
-  - title: "Barack Obama Riding in a Self-Driving Car in Netflix’s ‘Working’ Will Make You Squeal With Joy"
-    excerpt: "Now that we’ve established the groundwork, the following sentiment will make much more sense: Watching Obama ride in a self-driving car in Working was my favorite part of the entire docuseries and he was just soooo cute, and I’m obsessed with everything about it."
-    publishedDateTime: 2023-05-17T13:30:00Z
-    webUrl: "https://decider.com/2023/05/17/barack-obama-self-driving-car-netflix-working-squeal-joy/"
-    type: article
-    provider:
-      name: Decider
-      domain: decider.com
-    quality: 0
 
 secured: "PMrHTCgiSD89xH41+gFgoWslCah1yUbnDPjiWB6qqSqcpknxaBRDIjvXPZ7k4TenC86BL5hE+fGIDguQ+i+LBvfs/IzBH1d9j0D30x4BrM1gJcztnrQDGjjrEbBRwQXDxlxUtiNbUseDJ26vkjuUQgtngb81Z6QzqgX17+iN+Hv0UhxK7xzoYskbhC7Va/c3xIFTaE/2aS58ZbJOdIRhgWI0Io9WhX5fjM65G/3aGqt3an5H/e6Owwlf2rDpAxBSBMG9JktYTttka0F4T+c5/MU28WFBCVl9BBK6r/lgkkrBdCNvIt+1GTqma8Lh3rSfYnzgdPjhNI2q+madetkX6wmk5Ej3cy4XCpiNXFEA4Jw=;sRBqS0hL091p3KL8l8vOAQ=="
 ---

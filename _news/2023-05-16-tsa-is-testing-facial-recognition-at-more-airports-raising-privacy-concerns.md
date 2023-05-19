@@ -122,20 +122,20 @@ related:
         height: 630
         isCached: true
   - title: "Are you who you say you are? TSA tests facial recognition technology to boost airport security"
-    excerpt: "The Transportation Security Administration has started using facial recognition technology at a number of airports across the country."
-    publishedDateTime: 2023-05-15T21:49:00Z
-    webUrl: "https://www.boston.com/travel/technology/2023/05/15/are-you-who-you-say-you-are-tsa-tests-facial-recognition-technology-to-boost-airport-security/"
-    ampWebUrl: "https://www.boston.com/travel/technology/2023/05/15/are-you-who-you-say-you-are-tsa-tests-facial-recognition-technology-to-boost-airport-security/?amp=1"
-    cdnAmpWebUrl: "https://www-boston-com.cdn.ampproject.org/c/s/www.boston.com/travel/technology/2023/05/15/are-you-who-you-say-you-are-tsa-tests-facial-recognition-technology-to-boost-airport-security/?amp=1"
+    excerpt: "A pilot project by the Transportation Security Administration assesses the use of facial recognition technology at a number of airports."
+    publishedDateTime: 2023-05-16T16:18:00Z
+    webUrl: "https://abc7.com/tsa-facial-recognition-airport-security-transportation-administration/13250231/"
+    ampWebUrl: "https://abc7.com/amp/tsa-facial-recognition-airport-security-transportation-administration/13250231/"
+    cdnAmpWebUrl: "https://abc7-com.cdn.ampproject.org/c/s/abc7.com/amp/tsa-facial-recognition-airport-security-transportation-administration/13250231/"
     type: article
     provider:
-      name: Boston.com
-      domain: boston.com
+      name: ABC7
+      domain: abc7.com
     quality: 79
     images:
-      - url: "https://www.boston.com/wp-content/uploads/2023/05/Facial_Recognition_Airports_79172-6461bb4fb69eb-scaled.jpg"
-        width: 2560
-        height: 1708
+      - url: "https://cdn.abcotvs.com/dip/images/10994202_090221-cc-ap-tsa-generic-img.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Are you who you say you are? TSA tests facial recognition technology to boost airport security"
     excerpt: "A pilot project by the Transportation Security Administration assesses the use of facial recognition technology at a number of airports."
@@ -510,6 +510,6 @@ related:
       domain: extremetech.com
     quality: 19
 
-secured: "f/ZM2svA0Pf8H1E64iN+CJPOjZyOdIYZd1Z2rt/kgNC9ZckiSJvS234T7UJP/4Nac3phZ+BPdqdJznfi6y4/YKnqsFvuiCvvR4e2bMaPW8Hzbmw0XX4JdAK3Wxdi2UBJ9XCaL8THqfzC1H08frm0yc7fyZ0zgWNPcFX4oQo8JHtZunKhhxFLUxUH1cY1oy2nJUSOm85g9X46AxA6IsF/cNTlJpn/+DMT7e8XkVLDpahc8M2mdENMFhn8Zt5a8/iZx+ibis9nxJGHdseiM9L5uc60tWvcMh5Vitrg0S6YFTM51tbjjDKTlr1QSGNl5SI46lXbzCmTtCCCAjn/TakU6CbO+rpMqTstrNgrJ/+d/Uc=;u7+hfl3xEVELklkOqcGqAw=="
+secured: "jUewAzp9WiljSxSkc+Tk09cYuiBsjCLNwxUSdvglyRICsDipZyB328234fTw/kpyWH770zHmpG+3ol8IkNySnwP/bRqJlIZXDOedvix7GtcpNr+y9hlbeN6jzwN6majsGsz96k7DM+2L8ZSXWdiQ+axuXLpqAINibdXEa6eF1NEg9vD9xMFgSsguXybscmE+fQ03Fg5h9E0HMCoH/LpQ81D/EGcdHGMEA+Dg1XuE03K/p8hiUDsG45NRQk25pkiORu8s4/H2Q8b0Ph1QqhkLtDisJTR8FMnf7Zy1DaxHc0SCplUB2FlveYlZpH4FEpzvK54SetcKBPL5El0lPt2BHEQhYrvTvJbP7lDq6l73LkQ=;wuQCoBNqq6ENB8lp1+hWzA=="
 ---
 

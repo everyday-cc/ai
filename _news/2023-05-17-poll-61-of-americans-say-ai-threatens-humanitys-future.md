@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/information-technology/2023/05/poll-61-of-am
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/05/poll-61-of-americans-say-ai-threatens-humanitys-future/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "'It's all gonna take over': Americans reveal fears of AI impacting every day life"
+    excerpt: "Americans in Austin, Texas, shared what they most fear regarding artificial intelligence. Several said they worried about AI job displacement."
+    publishedDateTime: 2023-05-19T06:00:00Z
+    webUrl: "https://www.foxnews.com/tech/gonna-take-americans-reveal-fears-ai-impacting-every-day-life"
+    ampWebUrl: "https://www.foxnews.com/tech/gonna-take-americans-reveal-fears-ai-impacting-every-day-life.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/gonna-take-americans-reveal-fears-ai-impacting-every-day-life.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 82
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c94f2dfc-4da1-4242-968a-ee304efbf95b/aeaef00c-0f9c-4502-acf5-baec6600e20d/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "More Than Half of Americans Think AI Poses a Threat to Humanity"
     excerpt: "understand and translate spoken and written language, analyze data, make recommendations, and more.” It could be that peoples’ fear and distrust of AI comes partly from a lack of understanding of it, and a stronger focus on unsettling examples than ..."
     publishedDateTime: 2023-05-18T14:03:00Z

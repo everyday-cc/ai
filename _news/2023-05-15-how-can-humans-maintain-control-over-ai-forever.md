@@ -39,6 +39,22 @@ related:
         width: 1200
         height: 625
         isCached: true
+  - title: "In battle over AI, Meta decides to give away its crown jewels"
+    excerpt: "The Silicon Valley giant, which owns Facebook, Instagram and WhatsApp ... a Google vice president of research who helps oversee AI work. “Where can that lead to misuse?” Some within Google have also wondered if open-sourcing AI technology may pose ..."
+    publishedDateTime: 2023-05-19T07:05:00Z
+    webUrl: "https://www.moneycontrol.com/news/world/in-battle-over-ai-meta-decides-to-give-away-its-crown-jewels-10621501.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/world/in-battle-over-ai-meta-decides-to-give-away-its-crown-jewels-10621501.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/world/in-battle-over-ai-meta-decides-to-give-away-its-crown-jewels-10621501.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 59
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2022/11/meta-630x420.png"
+        width: 630
+        height: 420
+        isCached: true
 
 secured: "5Zq7z1v1/8hb135WKrqMxMeCnaeY+LMfDfvmm0OIe6+SRH60+20X6DBV2LviKQSMP99SwtSk+enJC1QIIMJ6S4hBf4J4JXw7scEeK+xsvW10oW3X4orZa799BleIHvFOntw34dfMySU2gcBm9ns7MhEzUFYu/k73LivabwSzMIF4BFDz5ufe76eJymtobbIU6san/drQyAc71UiL8NeUsvjjGKkIyTqV+rjrrMYIPWXogz+G57V2VlYp8aPcP7xpbNYxZHk1GmN39h9zSLizYnryzaJVyRqd0t/trKStild+PF8a9+QnVWfcr98GJos4w6yfeOuaiQD+hJ5KWOddrYeY2H1eUHE/DMy5TZ43qyM=;vWi+KikMbPwiOvHDBzYT6A=="
 ---

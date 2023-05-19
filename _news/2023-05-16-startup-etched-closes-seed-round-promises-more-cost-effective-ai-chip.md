@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/articles/startup-etched-closes-seed-round-prom
 webUrl: "https://www.wsj.com/articles/startup-etched-closes-seed-round-promises-more-cost-effective-ai-chip-f5fd79aa"
 type: article
 quality: 84
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     width: 1280
     height: 640
     isCached: true
+
+related:
+  - title: "This startup uses generative AI to speed up the property-buying process. Check out the 14-slide pitch deck Orbital Witness used to raise $9 million."
+    excerpt: "The London-based startup, founded in 2017, deploys generative AI during the due diligence process to free up lawyers and real estate professionals."
+    publishedDateTime: 2023-05-19T07:00:00Z
+    webUrl: "https://www.businessinsider.com/orbital-witness-fundraise-startup-uses-generative-ai-to-buy-properties-2023-5"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 28
+    images:
+      - url: "https://i.insider.com/6465e966fb9a9d0018c905ed?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "fT6NnAlyZw5BOCekoCgd2pgrMLrnNAIiMGWyA30od0fbUDssrVaU1WTT33BHreVjiMWJSs6gYXsHbckxowoA9BApw/eNlnxYYFK1mQl3+Kg4JVu42SFJ4UVS98fSUmgGeNV0kluqkNHs2Pu9saIk/QqXJGYOIT1wkmrx+aNwb2UZIz9C0eGPDNb4cwcRIOKBkvQkdjVOCeetlUvqh/CKSKQQTQoOQrCj9FCq+21U7J/SvGyqUbpyWI2o4QEoMK8+SudsyfojJNImvE8eM8R2MtyMsTyy3FzHF/Fe2t85tfHLD/TW5L7DOG3dMvICCaLn5+t5IF/uYnSr5IdRCNGYb9D8lRFy4E3y5dT7qp6IxHwp43ijAchgcydkNtXV0oK0uY751cbq6TYqeggZMjzvMw17D+6gejuK1lq1RpUw8itmLTIg/JxBwtkAXWDcVkNRyRsavgZNKU6hmWiRgO0dBUIV1av7eWd9VaoSHB0eJqdpwvUUT7e7br+qLxoUDsxl1UUVd6rKhTXGT9oJ5R2NyA==;G86GKb/apo1hTvn7EhG08g=="
 ---

@@ -2,57 +2,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_news/2023-05-16-cloudflare-unveils-cloudflare-one-for-ai-to-enable-safe-use-of-generative-ai-tools.md",
-      "title": "Cloudflare unveils Cloudflare One for AI to enable safe use of generative AI tools",
-      "excerpt": "Cloudflare One for AI will enable organizations to adopt the latest generative AI technologies without compromising performance or security.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/security/cloudflare-unveils-cloudflare-one-for-ai-to-enable-safe-use-of-generative-ai-tools/",
-      "originalUrl": "https://venturebeat.com/security/cloudflare-unveils-cloudflare-one-for-ai-to-enable-safe-use-of-generative-ai-tools/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/03/cloudflare-mobile.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/security/cloudflare-unveils-cloudflare-one-for-ai-to-enable-safe-use-of-generative-ai-tools/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/security/cloudflare-unveils-cloudflare-one-for-ai-to-enable-safe-use-of-generative-ai-tools/amp/",
-      "publishedDateTime": "2023-05-15T13:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-05-16-c3ai-stock-soars-as-company-expects-to-beat-revenue-target.md",
       "title": "C3.ai stock soars as company expects to beat revenue target",
       "excerpt": "Shares of C3.ai were surging in Monday afternoon trading after the software company said it expects that it exceeded its revenue target for last quarter.",
@@ -561,7 +510,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/2030-machine-learning-operations-mlops-market-growth-future-prospects-and-competitive-analysis-2023-05-15",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 80,
       "tags": null,
       "images": [
         {
@@ -656,6 +605,58 @@
       ]
     },
     {
+      "path": "_news/2023-05-15-facial-recognition-market-share-size-segmentation-analysis-key-segments-and-forecast-2031.md",
+      "title": "Facial Recognition Market Share, Size, Segmentation Analysis, Key segments and Forecast 2031",
+      "excerpt": "Global Facial Recognition Market – Drivers’ Restraints’ Opportunities’ Trends’ and Forecast up to 2025. Facial Recognition Market is approximately USD 5 billion market that is expected to double by 2025.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-share-size-segmentation-analysis-key-segments-and-forecast-2031-2023-05-15",
+      "originalUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-share-size-segmentation-analysis-key-segments-and-forecast-2031-2023-05-15",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-15T08:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-15-ai-isnt-coming-for-your-job-but-spotlights-outdated-learning-development-practices.md",
       "title": "AI Isn’t Coming For Your Job, But Spotlights Outdated Learning & Development Practices",
       "excerpt": "Given the rapid advancement in what technology can do for businesses, companies must approach learning & development more innovatively to equip their people to maintain relevant skills.",
@@ -688,57 +689,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-15-artificial-intelligence-market-2023-to-experience-significant-growth-by-2030.md",
-      "title": "Artificial Intelligence Market 2023 to Experience Significant Growth by 2030",
-      "excerpt": "Global “Artificial Intelligence Market” 2023 | New Report | New Technology Global Industry | (94 Pages Report) With",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-2023-to-experience-significant-growth-by-2030-2023-05-15",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-2023-to-experience-significant-growth-by-2030-2023-05-15",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-15T06:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1059,7 +1009,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2023/05/15/combining-generative-ai-chatgpt-into-handguns-triggers-fiery-response/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 671,
+      "heat": 681,
       "tags": null,
       "images": [
         {
@@ -1246,6 +1196,58 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-15-ai-spending-will-cloud-chip-slowdown.md",
+      "title": "AI Spending Will Cloud Chip Slowdown",
+      "excerpt": "Google, Microsoft and other big techs are slowing capital spending while also launching generative AI services that require the most expensive chips.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/ai-spending-will-cloud-chip-slowdown-1dbf261d",
+      "originalUrl": "https://www.wsj.com/articles/ai-spending-will-cloud-chip-slowdown-1dbf261d",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-781343/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-15T02:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
         "AI"
       ]
     }

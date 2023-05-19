@@ -24,6 +24,19 @@ images:
     height: 675
     isCached: true
 
+related:
+  - title: "Waymo woes: Tempe residents frustrated as idle self-driving cars park in their neighborhood"
+    excerpt: "Waymo is expanding in the Phoenix area, but that is causing a level of headache for residents in one Tempe neighborhood, who say some of the self-driving cars are being parked on their streets when they are not picking up passengers."
+    publishedDateTime: 2023-05-19T05:44:00Z
+    webUrl: "https://www.fox10phoenix.com/news/waymo-woes-tempe-residents-frustrated-as-idle-self-driving-cars-park-in-their-neighborhood"
+    ampWebUrl: "https://www.fox10phoenix.com/news/waymo-woes-tempe-residents-frustrated-as-idle-self-driving-cars-park-in-their-neighborhood.amp"
+    cdnAmpWebUrl: "https://www-fox10phoenix-com.cdn.ampproject.org/c/s/www.fox10phoenix.com/news/waymo-woes-tempe-residents-frustrated-as-idle-self-driving-cars-park-in-their-neighborhood.amp"
+    type: article
+    provider:
+      name: FOX 10 Phoenix
+      domain: fox10phoenix.com
+    quality: 29
+
 secured: "KRm0zmXt96HCgAneY7fvCLypaNScSGRsQ5S2+XBtx/mUzu3Kmsworrr+J6lviTAuMBctiNzlzJQr+zKJXhNT15YR/JC86/C9+eQ56C6oIyP4KWJWl0j6JV66180j64Q8FD0wxkrXOrbyP+a63gBJrVFo2qzqQ9LaF7QfSeVgPhYf9P3WAx2NhS4BhF9muWhIoWVDFRof7JzmniWrkh54gLbsn2O+1QYdszbrTkPRGZIar7jaolcd3ORICSvkYmgWMxUjepiWHXjX2cFTsktromRc6ZAL55xR7+g5V2rF8x4J8yhftZCKhZa7XmvPgDvUGRArYb5ey/FVuHiIp4v+0NyqZeHc5U5zz3drEVbhNT0=;S/5lrL7+pTQk1AoqOjerHw=="
 ---
 

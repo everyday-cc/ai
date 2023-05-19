@@ -6,8 +6,8 @@ publishedDateTime: 2023-05-19T05:06:00Z
 originalUrl: "https://www.monash.edu/news/articles/artificial-intelligence-powers-second-skin-like-wearable-tech"
 webUrl: "https://www.monash.edu/news/articles/artificial-intelligence-powers-second-skin-like-wearable-tech"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://www.monash.edu/__data/assets/image/0003/3281844/The_wearable_skin_and_biosensor-1.jpg"

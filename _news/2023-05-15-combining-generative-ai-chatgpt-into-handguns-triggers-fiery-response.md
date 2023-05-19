@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/05/15/combining-generat
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/05/15/combining-generative-ai-chatgpt-into-handguns-triggers-fiery-response/amp/"
 type: article
 quality: 91
-heat: 671
+heat: 681
 published: true
 
 provider:
@@ -251,6 +251,20 @@ related:
       - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
         width: 800
         height: 600
+        isCached: true
+  - title: "Korean AI chip startups face losses in 2022 despite ChatGPT momentum"
+    excerpt: "Although the artificial intelligence (AI) market, including chatbot technologies like ChatGPT, is gradually expanding and expected to drive growth in the IC design industry, South Korean AI chip startups faced significant losses in 2022."
+    publishedDateTime: 2023-05-19T06:54:00Z
+    webUrl: "https://www.digitimes.com/news/a20230519PD206/ai-ic-design-distribution-south-korea.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 54
+    images:
+      - url: "https://img.digitimes.com/newsshow/20230519pd206_files/2_b.jpg"
+        width: 640
+        height: 427
         isCached: true
   - title: "ChatGPT boss calls on Congress for new agency to regulate artificial intelligence"
     excerpt: "As this technology advances, we understand that people are anxious about how it could change the way we live. We are too,” OpenAI CEO Sam Altman testified."

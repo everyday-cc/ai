@@ -50,20 +50,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 69
-  - title: "How AI Will Change the Workplace"
-    excerpt: "We asked some top thinkers from different fields to weigh in on what’s ahead, as the AI explosion compels businesses to rethink, well, almost everything."
-    publishedDateTime: 2023-05-14T14:00:00Z
-    webUrl: "https://www.wsj.com/articles/how-ai-change-workplace-af2162ee"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 67
-    images:
-      - url: "https://images.wsj.net/im-779753/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Preparing for AI in the Employee Experience"
     excerpt: "AI is the next big evolution in how we work. Most employees will need to incorporate it into their work. AI can be an effective tool for reducing repetitive tasks and minimizing bias in decision-making. Willingness to learn, emotional intelligence, and creative problem-solving are critical skills to hone."
     publishedDateTime: 2023-05-17T22:07:00Z

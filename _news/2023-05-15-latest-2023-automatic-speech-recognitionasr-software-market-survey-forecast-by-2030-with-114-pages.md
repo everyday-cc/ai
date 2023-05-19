@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Self Driving Wheelchair Market Size Investigation Report 2023-2030 by Absolute Reports in Healthcare , Medical Devices Industry | with [104 Pages]"
-    excerpt: "May 15, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry. The Global \"Self Driving Wheelchair"
-    publishedDateTime: 2023-05-15T14:50:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-wheelchair-market-size-investigation-report-2023-2030-by-absolute-reports-in-healthcare-medical-devices-industry-with-104-pages-2023-05-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 63
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "HKYQAIdBLVrUmFupM0h/5S/uH+EYjFlZCIvUHvis9G5f6XIXcyCvwZ5DhNIpZmepPHUfRnkSYJN1oNuXYmQZjoGdJ6afk+7gGEJivv+VbKKhBe1h/IvZr0DBMtt8x6vq9ARSNDbMj0UdJkWIDMuUU2A2c1WSFksJj8udNvxxf3BOBIh29liig6/qyffDDYSnATQjQf3Hz280nWYAM7ZtpkTtIu9t3JS2PiXZM9liisZrJlWXsQXbtmrMieD7fM7HQwL5/WAy6qTv9ke5WK2uVSw9MvMRu9L52CtgViy4YY3hEdgYV2wQUoglHMTRf09zTAOYZsEYCuQnGffFvb1xEbrLhO00b7PGyC3OmTLqeqg=;M+kcU9SoFN1+kEXWbrTOVw=="
 ---

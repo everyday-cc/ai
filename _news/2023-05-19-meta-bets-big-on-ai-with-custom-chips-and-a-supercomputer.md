@@ -90,7 +90,7 @@ related:
     provider:
       name: Seattle Times
       domain: seattletimes.com
-    quality: 54
+    quality: 56
   - title: "Watch 44 million atoms simulated using AI and a supercomputer"
     excerpt: "The most accurate simulation of objects made from tens of millions of atoms has been run on one the world’s top supercomputers with the help of artificial intelligence. Existing simulations that describe in detail how atoms behave,"
     publishedDateTime: 2023-05-18T09:20:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/advisor/business/employee-recognition-ideas
 webUrl: "https://www.forbes.com/advisor/business/employee-recognition-ideas/"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -27,17 +27,6 @@ images:
     width: 958
     height: 539
     isCached: true
-
-related:
-  - title: "Home Office pushes for more police facial-recognition deployments"
-    excerpt: "UK policing minister Chris Philp is pressing for facial-recognition technology to be rolled out by police forces across England and Wales, and will likely push to integrate the tech with police body-worn video cameras. According to a report co-authored by ..."
-    publishedDateTime: 2023-05-17T13:21:00Z
-    webUrl: "https://www.computerweekly.com/news/366537695/Home-Office-pushes-for-more-police-facial-recognition-deployments"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 4
 
 secured: "j9Q3mlEvgH+u61CN/hMBDg93RaEs7cxdjVoU2ruT2pBZnd8eDVDkTVewR8rURRZ1hpupvTD7xRsBDUe09WX5ZGSTaczsbYFBmjTxcAtTzBLc3krNZ3l4Mom+TEmu4kGAOlcKs3jalZ14lQ9fJYCkLkF+7DXpzZmT8TYbltUQqs9N69gjpXpeErTHu//7qa+V+DqpgnU3cM0QyzhEtJLOgfy1qiS44h70hx+HDHMMNEQ9zrUXMYo6ghT7NDdhxg0uLNpHksvtrDbX0AETDR526dooiaqdvcQI5RBJmWB8D1AND5Jq2qUHHHmoRHOJ2jiXtT2XA/iYJL6e197b1f8aOnRZ8oTXkZEwUHR2g9V3yrqhJ3oSqhaOS5JEkdW6AzsRHBlhqSgKC5FxxenyNi/eGJDALHTCVpN/TYe2+WwtD4+SZ9lVBru0CxoLcLp7aGiW2vryU2MO3w/rGIPL2/3Q6W/R7JwPJTWP+g1K1QJBfDDG39SbKNuoBUPDDQhuzRr3YrBnhEHNTHtO4yyFQ+AyiQ==;3vUod6skybmVz/O1pEr0pA=="
 ---

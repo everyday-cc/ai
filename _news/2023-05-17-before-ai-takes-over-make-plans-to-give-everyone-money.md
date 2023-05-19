@@ -7,7 +7,7 @@ originalUrl: "https://www.theatlantic.com/ideas/archive/2023/05/ai-job-losses-po
 webUrl: "https://www.theatlantic.com/ideas/archive/2023/05/ai-job-losses-policy-support-universal-basic-income/674071/"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "In battle over AI, Meta decides to give away its crown jewels"
+    excerpt: "The Silicon Valley giant, which owns Facebook, Instagram and WhatsApp ... a Google vice president of research who helps oversee AI work. “Where can that lead to misuse?” Some within Google have also wondered if open-sourcing AI technology may pose ..."
+    publishedDateTime: 2023-05-19T07:05:00Z
+    webUrl: "https://www.moneycontrol.com/news/world/in-battle-over-ai-meta-decides-to-give-away-its-crown-jewels-10621501.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/world/in-battle-over-ai-meta-decides-to-give-away-its-crown-jewels-10621501.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/world/in-battle-over-ai-meta-decides-to-give-away-its-crown-jewels-10621501.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 59
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2022/11/meta-630x420.png"
+        width: 630
+        height: 420
+        isCached: true
   - title: "How can humans maintain control over AI — forever?"
     excerpt: "but dozens of research groups are exploring ideas for overcoming this and other limitations. Just as with the impending arrival of a superior alien civilization, it is imperative that governments cooperate on the regulation of AI. It’s in no country’s ..."
     publishedDateTime: 2023-05-15T07:18:00Z

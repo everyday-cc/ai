@@ -259,6 +259,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Korean AI chip startups face losses in 2022 despite ChatGPT momentum"
+    excerpt: "Although the artificial intelligence (AI) market, including chatbot technologies like ChatGPT, is gradually expanding and expected to drive growth in the IC design industry, South Korean AI chip startups faced significant losses in 2022."
+    publishedDateTime: 2023-05-19T06:54:00Z
+    webUrl: "https://www.digitimes.com/news/a20230519PD206/ai-ic-design-distribution-south-korea.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 54
+    images:
+      - url: "https://img.digitimes.com/newsshow/20230519pd206_files/2_b.jpg"
+        width: 640
+        height: 427
+        isCached: true
   - title: "ChatGPT boss calls on Congress for new agency to regulate artificial intelligence"
     excerpt: "As this technology advances, we understand that people are anxious about how it could change the way we live. We are too,” OpenAI CEO Sam Altman testified."
     publishedDateTime: 2023-05-16T16:58:00Z

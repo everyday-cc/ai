@@ -112,20 +112,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Artificial Intelligence (AI) in Fintech Market Analysis of New Report 2023-2030"
-    excerpt: "A Promising Outlook for the Global Artificial Intelligence (AI) in Fintech Market from 2023 to 2030 Why is Artificial Intelligence (AI) in Fintech market 2023 Important? - Overall, the Artificial Intelligence (AI) in Fintech market in 2023 is essential for businesses to understand the market landscape,"
-    publishedDateTime: 2023-05-14T13:56:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-fintech-market-analysis-of-new-report-2023-2030-2023-05-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 76
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence (AI) in BFSI Market: 2023 Huge B2B Opportunities 2030 by Key Players"
     excerpt: "Artificial Intelligence (AI) in BFSI Market Report Overview 2023-2030: May 16, 2023 (The Expresswire) -- Overview of the for global ”Artificial"
     publishedDateTime: 2023-05-16T13:19:00Z

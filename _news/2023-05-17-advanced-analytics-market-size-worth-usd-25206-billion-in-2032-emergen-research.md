@@ -23,26 +23,48 @@ topics:
   - AI
 
 related:
-  - title: "Motion Control Market Size Worth USD 27.17 Billion in 2032 - Emergen Research"
-    excerpt: "Discover the dynamic motion control market with offerings like actuators, motors, controllers, and sensors. Explore applications in automotive,"
-    publishedDateTime: 2023-05-17T09:10:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/motion-control-market-size-worth-usd-27-17-billion-in-2032---emergen-research-1032333023"
+  - title: "Healthcare BI Market Size, Share & Trends Analysis Report 2029| AIMR"
+    excerpt: "Moreover, the emergence of big data analytics, artificial intelligence, and machine learning technologies in healthcare is expected to drive the growth of this market in the future. Opportunities and Threats in Healthcare BI Market The Healthcare BI Market ..."
+    publishedDateTime: 2023-05-17T15:52:00Z
+    webUrl: "https://www.marketwatch.com/press-release/healthcare-bi-market-size-share-trends-analysis-report-2029-aimr-2023-05-17"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 31
-  - title: "Regenerative Medicine Market to Reach a Valuation of USD 127.86 Billion by 2032, Backed by Advancement in Cell Therapy, States Extrapolate"
-    excerpt: "Diagnostic microscopic imaging and artificial intelligence (AI) have created a link between ... The increasing GMP certification approvals for cell therapy production facilities are the major factor driving the growth of the regenerative medicine market ..."
-    publishedDateTime: 2023-05-15T14:42:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/05/n32395712/regenerative-medicine-market-to-reach-a-valuation-of-usd-127-86-billion-by-2032-backed-by-advancem"
-    ampWebUrl: "https://www.benzinga.com/amp/content/32395712"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32395712"
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 84
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Healthcare Market Size Report 2023 | USD 164.10 billion Industry"
+    excerpt: "The GlobalArtificial Intelligence in Healthcare Market2023-2030, published recently by Fortune Business Insights,"
+    publishedDateTime: 2023-05-15T05:53:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-size-report-2023-usd-16410-billion-industry-2023-05-15"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 5
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 74
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Automotive Self-driving Chip Market Share, Size, Financial Summaries Analysis from 2023 to 2028"
+    excerpt: "Automotive Self-driving Chip report is a comprehensive analysis of the market, covering various components such"
+    publishedDateTime: 2023-05-17T03:59:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automotive-self-driving-chip-market-share-size-financial-summaries-analysis-from-2023-to-2028-2023-05-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 59
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "a45b5icnoMJ9Hl2Tuh59+0Walj+HS0Hwnl9e6ZjdS2yf/Rp3gds/3dZsJyIgR1f0n8v9T4P64ThK/J1fWw6Sb5yub9IlSgGZOInqtLLM3ElmoyXsaXn7tQLqV2UbsHXAlDtp6Dj8tzrZ2LJERT/gE4cXpYmCZX3AuKQGzK2k/X8W+kO2OvPvYNQOng3n5ZJNgHQdEahcHbnT5FBq6jpUTFofmF+PltjaAekakKO3tvciaH+3avTgHQsTLZcI9pMs3kmPh4UKgief8n+f6/z7uBQhPIGd+GGeN3PFVfMmSvi0yRpY5jgdSmVZ+1Fn1UYTsyHJajpAKB8XSXRgopb26kaYTesKndqJaXrTtgjjnAo=;D0iY9suZdDCt4rQgIf9kwA=="
 ---

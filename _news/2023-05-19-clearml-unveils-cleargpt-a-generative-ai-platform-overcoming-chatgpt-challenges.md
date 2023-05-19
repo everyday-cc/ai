@@ -250,6 +250,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Korean AI chip startups face losses in 2022 despite ChatGPT momentum"
+    excerpt: "Although the artificial intelligence (AI) market, including chatbot technologies like ChatGPT, is gradually expanding and expected to drive growth in the IC design industry, South Korean AI chip startups faced significant losses in 2022."
+    publishedDateTime: 2023-05-19T06:54:00Z
+    webUrl: "https://www.digitimes.com/news/a20230519PD206/ai-ic-design-distribution-south-korea.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 54
+    images:
+      - url: "https://img.digitimes.com/newsshow/20230519pd206_files/2_b.jpg"
+        width: 640
+        height: 427
+        isCached: true
   - title: "ChatGPT boss calls on Congress for new agency to regulate artificial intelligence"
     excerpt: "As this technology advances, we understand that people are anxious about how it could change the way we live. We are too,” OpenAI CEO Sam Altman testified."
     publishedDateTime: 2023-05-16T16:58:00Z
@@ -773,6 +787,6 @@ related:
       domain: yourstory.com
     quality: 1
 
-secured: "M7AIsPOG9HU+Ok64CB23bencnpV8/xzv5mlkY1K5pVItOpf+3Uwh9PutZTJJkYS/l0GME+T+QHtccPDd2F7iZ4mJf+1fBxUysqBDcJ3x6sTqJa1Tobg1IhdJ1WCP0kjHBmirguEhMh1DvHWME6qmXyPmQGvKUUzKOwDP83d3SvVojHGb/BLS59vPRF60UtdFI620z7yLL/Z/iUoXK5AzmIzG9JA9utPiuDPIWlKOijMytKK7yPE1vH0xRJo84pu1KOE5FQidU9g5fGNXHDWvx7VL5p29HZNLRpYt8G7K8pnzwVt54Atq6sEbhOYzArvUAhsBeABpyq0o8d6YjClL3SwrWrK5VZYTOmX1CQlbZRM=;daEyYBMxBZrTmrE3lpTdsA=="
+secured: "QGixLYS2rPg20ZF1Fr+tWmvRx6kmKrJl45bqxQjQsIdmGdgA2Y/f9fUMOn2oZMOQCd9wT14tooxE1MM3+dzXvj5a+09vtspN7Yw7nQJKNS1xSfqfB+0N2IfhCtwPND2qbAcJ9OdaC6PxTsaA6wNyqZVdT7fGlr1OIz8LimG8MujYBMZipk+qizCx31icw47F1whKSiX41YmaQvOJMd/UKOKwtJcN4v96wkih9ALpXfpnE0QcIr49ZSGXYRNpoB8ikE29zPEmBHW1Vx4cvjwBl5r0ASM4gJ1QIPxhbfxzMX3wTpQEMnGZhbz/oF6WBhMJ5zX7UYmmOvvCEhOVVbmtirlXTVHA5XpeAdpljn1G+8zZpeYgHi7oPdNZOo0Q8Y2+MPcdvvgZwC1q0HnxNyecrdJaVijVh2SmxWMHiX5tLaFKqF20ecEUPQS0qAUuDabrl80+cJG7qC8u2z4Jrc08ke3mkcoKNolUGQqQbWm2MieXOAgNUuhNHLDzm3b5DWJ/iV/rekB3q5SZgjYE2BHwqw==;Brnn++VCTMj5XBD6JQhIag=="
 ---
 

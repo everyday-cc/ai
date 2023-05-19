@@ -46,20 +46,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 69
-  - title: "How AI Will Change the Workplace"
-    excerpt: "We asked some top thinkers from different fields to weigh in on what’s ahead, as the AI explosion compels businesses to rethink, well, almost everything."
-    publishedDateTime: 2023-05-14T14:00:00Z
-    webUrl: "https://www.wsj.com/articles/how-ai-change-workplace-af2162ee"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 67
-    images:
-      - url: "https://images.wsj.net/im-779753/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "How AI might let us finally talk to animals"
     excerpt: "AI could finally let humans talk to animals thanks to large language models that are now working to decode animal languages."
     publishedDateTime: 2023-05-15T00:18:00Z

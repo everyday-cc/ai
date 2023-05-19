@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/self-driving-bus-market-
 webUrl: "https://www.marketwatch.com/press-release/self-driving-bus-market-size-2023-latest-trends-growth-drivers-industry-analysis-by-top-companies-and-forecast-2028-2023-05-17"
 type: article
 quality: 45
-heat: -1
+heat: 45
 published: false
 
 provider:
@@ -27,50 +27,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Automotive Self-driving Chip Market Share, Size, Financial Summaries Analysis from 2023 to 2028"
-    excerpt: "Automotive Self-driving Chip report is a comprehensive analysis of the market, covering various components such"
-    publishedDateTime: 2023-05-17T03:59:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automotive-self-driving-chip-market-share-size-financial-summaries-analysis-from-2023-to-2028-2023-05-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 59
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Facial Recognition Market Share, Size, Segmentation Analysis, Key segments and Forecast 2031"
-    excerpt: "Global Facial Recognition Market – Drivers’ Restraints’ Opportunities’ Trends’ and Forecast up to 2025. Facial Recognition Market is approximately USD 5 billion market that is expected to double by 2025."
-    publishedDateTime: 2023-05-15T15:10:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-share-size-segmentation-analysis-key-segments-and-forecast-2031-2023-05-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 58
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Self-driving cars are taking ages to become a reality, but they won’t take forever"
-    excerpt: "That’s a lot of autonomous driving. Baidu’s update follows other progress reports from self-driving car outfits: Cruise a couple of months ago said it had completed “one million fully driverless miles” in the 15 months since it started offering ..."
-    publishedDateTime: 2023-05-16T18:56:00Z
-    webUrl: "https://techcrunch.com/2023/05/16/self-driving-tech-predictions/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 48
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/05/IMG_5632.jpeg?resize=1200,900"
-        width: 1200
-        height: 900
-        isCached: true
 
 secured: "1XjUImJQYaja+7zOfrxlc7RW+ReSL8oKzlc+MBSRVEnR5u8nZeaiIwGCqw7twJg5aDIOSoX/T/iuyBkp28BcMUdwjqYTSmEAiNS09oQVsCYwrPFLkF4GsHGEwc8edbVMFa+la1nEqNU1YNkdGzqdEDGacrcl6PfqJjM4ytEw17f6U0d1s30X/wp3o2mTUx2q1BhGB0Q+wd5DW956GoVXgHq6NuPIpfoLKo9LarNUdSyE3gVtIaV+HiQkRExOOM63lyBqrtrbxsHNn1xaeo26E3Ef5bzyBt/3LtNdXk8Wxb8nYXScGuiDutUxw8VRlmL1ipwQZ7oTRqQ5MKKEhXWfnFUcazymxzX0gV2TipGzlLY=;rBGjBUlNZDGqqW/s4uzaLA=="
 ---

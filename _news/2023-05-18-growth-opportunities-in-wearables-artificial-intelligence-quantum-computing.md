@@ -19,15 +19,15 @@ topics:
   - AI
 
 related:
-  - title: "Japan Natural Language Processing (NLP) Market Analysis By Growth, Emerging Trends and Future Opportunities Till 2031"
-    excerpt: "Research Nester has released a report titled \"Japan Natural Language Processing (NLP) Market: Demand Analysis & Opportunity Outlook 2031\" which also includes some of the prominent market analyzing parameters such as industry growth drivers,"
-    publishedDateTime: 2023-05-17T07:42:00Z
-    webUrl: "https://www.marketwatch.com/press-release/japan-natural-language-processing-nlp-market-analysis-by-growth-emerging-trends-and-future-opportunities-till-2031-2023-05-17"
+  - title: "Growth Opportunities in Cloud Security, Data Security, EDR Security, Identity Access Management, Deep Learning and Computer Vision-based Security"
+    excerpt: "The \"Growth Opportunities in Cloud Security, Data Security, EDR Security, Identity Access Management, Deep Learning and Computer Vision-based Security\" report has been added to ResearchAndMarkets.com's offering."
+    publishedDateTime: 2023-05-18T16:49:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/05/18/9817315.htm"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 41
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 16
 
 secured: "xAe9KooLp2OEYtzcOorGB0bOwP6yM42EODn+W/S7yx+x2z4GN6xJTwkWDztUwA8ZGU9QschCil9A0pi8A2LwW2nkVNocRVmYu4PMM5IJLprTXxzvlTnIxSHXVV87dfrGA8gK0U9laRXKwukQIEYaaUcUbSuUFZdwJ9FArWcWO6BBmLSVkyaCKm9Ue/Pcj56D77b+hx1atvWMEZTsHnBbGoWY8Z8LssAn8nQ9qwksWrWsdZAWUOuTmhBCPR+RGqRnzR6bQUp+3oyFdy6khoDYLYZ29P0/skmOztAQ78WXPlCcxgQUdiftx8YwMf9H/ab+15avTChsgv9gf0Ksy+LRzZu+hA9x/Ehu0d67CYe8Cn0=;aOp0p8U8jgvtWW4xdEV+vA=="
 ---

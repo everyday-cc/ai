@@ -23,15 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "Advanced Analytics Market Size Worth USD 252.06 Billion in 2032 – Emergen Research"
-    excerpt: "Unlock valuable insights and drive growth with advanced analytics. Discover how big data, customer analytics, and predictive analysis"
-    publishedDateTime: 2023-05-17T07:07:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/advanced-analytics-market-size-worth-usd-252-06-billion-in-2032-–-emergen-research-1032332994"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 28
   - title: "Regenerative Medicine Market to Reach a Valuation of USD 127.86 Billion by 2032, Backed by Advancement in Cell Therapy, States Extrapolate"
     excerpt: "Diagnostic microscopic imaging and artificial intelligence (AI) have created a link between ... The increasing GMP certification approvals for cell therapy production facilities are the major factor driving the growth of the regenerative medicine market ..."
     publishedDateTime: 2023-05-15T14:42:00Z

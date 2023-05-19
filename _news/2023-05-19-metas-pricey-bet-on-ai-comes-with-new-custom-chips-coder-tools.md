@@ -8,7 +8,7 @@ webUrl: "https://www.seattletimes.com/business/metas-pricey-bet-on-ai-comes-with
 ampWebUrl: "https://www.seattletimes.com/business/metas-pricey-bet-on-ai-comes-with-new-custom-chips-coder-tools/?amp=1"
 cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/metas-pricey-bet-on-ai-comes-with-new-custom-chips-coder-tools/?amp=1"
 type: article
-quality: 54
+quality: 56
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Facebook AI
 
 related:
   - title: "Meta bets big on AI with custom chips — and a supercomputer"
