@@ -37,6 +37,15 @@ related:
       name: The Hill
       domain: thehill.com
     quality: 19
+  - title: "Wendy's to test an underground robot delivery system"
+    excerpt: "Air suction isn't what propels Pipedream's conveyances. For a comparison on that, think of the hyperloop concept that Elon Musk has embraced for his autonomous vehicles."
+    publishedDateTime: 2023-05-19T15:25:00Z
+    webUrl: "https://www.bizjournals.com/sanantonio/news/2023/05/19/wendys-tech-test-underground-robot-delivery.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 19
 
 secured: "kLInG05tLa/CN8CGStwvf6JrCbKS3oy6dRU/Prt9z3BSTGf5xUibKtz1lj6vHZc03qxv3OQWc3Cq7CYQ8oAKeUKxX0qKb4XDyLCZdosDr0JAS+yAwU5GRlQY+EkqjidjTcBhQlmbc0Uol+tnmdfUVcCcHV71s6GIXjH81O3dB4Jdd/00SPg7KWmdpPPv/46gWDJ3MkqmkgMCd8mOU/rwb8cZ+yqspYl7EUb7RTXUxCOBrAg/sU7uAht6ssL3nJNyqc9b1bAoIUiNB0kHgYP15/uDatndECqURW7ijnq06TCo7T9MaKr54MHp82gqsLiYQ6HRzAa67ZAzPj5fST7jU8Th+AXASePbOOgwJNu7ioN5r10xxMrCZYODfEvi60Cc96qvcnIRcAeydBP2POaxSEfeio718ORkSwezO5WXNjmAQdPepVlr6T73i4YSMafgZ0Sw1y/cobMBAeDrtX3G9DaVjQXCNqg+LhJUn7Pk7aMBNA/v4uiCn5u/wRKKF1iBMhqJS3D4w/EYAE4ScjUdoQ==;+pRnDq2wRlZPHOymp0wBMQ=="
 ---

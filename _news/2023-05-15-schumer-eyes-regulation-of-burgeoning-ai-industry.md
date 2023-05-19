@@ -7,7 +7,7 @@ originalUrl: "https://buffalonews.com/news/local/schumer-eyes-regulation-of-burg
 webUrl: "https://buffalonews.com/news/local/schumer-eyes-regulation-of-burgeoning-ai-industry/article_a6bdb158-f0f2-11ed-9a8e-23259ddc585c.html"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,15 @@ images:
     isCached: true
 
 related:
+  - title: "Chuck Schumer courts bipartisan lawmakers for AI regulation"
+    excerpt: "Senate Majority Leader Chuck Schumer is shepherding a bipartisan group of senators in sketching out the future of artificial intelligence regulation."
+    publishedDateTime: 2023-05-19T13:22:00Z
+    webUrl: "https://www.foxnews.com/politics/chuck-schumer-courts-bipartisan-lawmakers-ai-regulation"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 49
   - title: "Schumer meets with bipartisan group of senators to build a coalition for AI law"
     excerpt: "Schumer has takes next steps with a group of bipartisan Senate lawmakers to craft a comprehensive artificial intelligence law. \"Congress must move quickly,\" he said Thursday."
     publishedDateTime: 2023-05-19T01:57:00Z
@@ -37,20 +46,6 @@ related:
       - url: "https://npr.brightspotcdn.com/dims4/default/d784b83/2147483647/strip/true/crop/3887x2041+0+73/resize/1200x630!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2023%2F05%2F18%2Fap23136755393936_wide-83186c077d31b8df624cc2a72879d8bcaffcf43c.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "AI Industry Leaders Encourage 'Critical' Congressional Regulation of Emerging Tech"
-    excerpt: "With more disruptive artificial intelligence technologies under development, private sector leadership discussed the pathways to regulation in the AI sector."
-    publishedDateTime: 2023-05-16T20:45:00Z
-    webUrl: "https://www.nextgov.com/emerging-tech/2023/05/ai-industry-leaders-encourage-critical-congressional-regulation-emerging-tech/386436/"
-    type: article
-    provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 33
-    images:
-      - url: "https://cdn.nextgov.com/media/img/cd/2023/05/16/051623AltmanNG-1/open-graph.jpg"
-        width: 400
-        height: 400
         isCached: true
 
 secured: "JPvOSVxF3HoBGC+kZduVPOSKpohlcx+WCAAJfObIKKSLn1pPMI6d4ZY65VyVl0bOJSI2Gv2lwHSScPbb35T/HoCNfXV4I7k/w0ChwlvbYSZgyRQVVlcBRNDAoc88AOd4mtRCChFauookvZ9O3skKnrKYockZ9MVR7EuZZCqTzoTk10cNvYSqbrhlxqUXW/cLd8UPCS4j3/ERg/R5x74bBn08Mo/p8NO8Dz4gOT5cpQlW2GY1x5efEJrnkIcsUtWm5nA694LYqcvgqqaclm8uJKl6bAv9/lm4E2iaesYnMbtKF42ZlJnEKGpqSa62ijFw60Dn0ZwWrgeNv2UbSlDa4VB6LD2gbu9ZJ1j//CaJlz0=;LvV8/A5Sj58todNPO5S+mQ=="

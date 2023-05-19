@@ -52,6 +52,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Twitter accuses Microsoft of misusing its data, foreshadowing a fight over AI"
+    excerpt: "In a letter, a lawyer for Musk accused Microsoft of misusing the service’s data and demanded an audit from the software giant."
+    publishedDateTime: 2023-05-19T14:53:00Z
+    webUrl: "https://www.nbcnews.com/tech/tech-news/twitter-accuses-microsoft-misusing-data-foreshadowing-fight-ai-rcna85265"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna85265"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna85265"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 101
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-01/230126-elon-musk-ew-542p-1baade.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "KPI Partners achieves Microsoft Azure Solutions Partner Designation for Data & AI"
     excerpt: "KPI Partners, a global trusted strategic partner for Analytics and Digital Transformation solutions, announced today that it has achieved Microsoft Azure Solution Partner status in Data & AI. This recognition showcases the company's extensive ability to support customers in managing and governing their data across various systems."
     publishedDateTime: 2023-05-16T17:06:00Z
@@ -65,6 +81,20 @@ related:
       - url: "https://mma.prnewswire.com/media/2030241/KPI_Partners_Logo.jpg"
         width: 400
         height: 283
+        isCached: true
+  - title: "Infogain NAVIK Sales and NAVIK Marketing Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Infogain's NAVIK is an AI platform that addresses AI solution needs, including data infrastructure, data engineering, and data analytics. NAVIK's modular components include data integration repositories and pipeline scripts,"
+    publishedDateTime: 2023-05-19T04:00:00Z
+    webUrl: "https://www.destinationcrm.com/Articles/CRM-News/CRM-Across-the-Wire/Infogain-NAVIK-Sales-and-NAVIK-Marketing-Now-Available-in-the-Microsoft-Azure-Marketplace-158740.aspx"
+    type: article
+    provider:
+      name: Destination CRM
+      domain: destinationcrm.com
+    quality: 94
+    images:
+      - url: "https://dzceab466r34n.cloudfront.net/Images/IssueImages/152405-0423_SpeechAnalytics_NICE_480x610-ORG.png"
+        width: 480
+        height: 610
         isCached: true
   - title: "Microsoft's Azure OpenAI can collect, analyze healthcare data"
     excerpt: "Microsoft's Azure OpenAI platform is being used to collect and analyze healthcare data. For instance, Opus 5K, a health IT software company based in Australia, deployed the technology for its MARS (Measurement, Analysis and Reporting System) platform."

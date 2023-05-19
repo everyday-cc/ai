@@ -50,6 +50,15 @@ related:
       name: Worth Playing
       domain: worthplaying.com
     quality: 19
+  - title: "NVIDIA's massive RTX 4060 GPU giveaway comes with hints of overcompensation"
+    excerpt: "So, gamers get the chance to win 170 GPUs (plus a couple of monitors and GPU backplates), which are mostly GeForce RTX 4060s - 164 of them. There's also an RTX 4060 Ti Founders Edition up for grabs, and a pair of NVIDIA's own RTX 4080 and 4090 graphics cards. Oh, and a GeForce RTX Garage 4090 build, a gaming PC worth a cool $7,500."
+    publishedDateTime: 2023-05-19T13:35:00Z
+    webUrl: "https://www.tweaktown.com/news/91535/nvidias-massive-rtx-4060-gpu-giveaway-comes-with-hints-of-overcompensation/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 17
 
 secured: "ElDxoFTDpGpZmr1pB//QoZDdl7oR6b/AFnYUEaM1JYrrgA1RVmUoOC/6SIpaDWxP6Wgn0Hzhcp1PFapdCC+vVY8J77u1C65d8rinGu6GQo47OujVzTNSpPtFRLyX9XbVJhgwTjc303NqO4hmBYti3YRXm1s7DkVFnU6FPJexo4O1eMquwAPOlYb+C1jYOdLdHTE8mF9d/sqwRNlBrQEmfoWFTyCm9hVMLBPQ7o3iuE3vaNv8reW1dP6kihZX9ZeFl45aSLTxP4X6sofCusFsRxlIUjcAK7uJ5Shdo2+DUgZy51usotlOUYqkKs/uYlfQq9+XZ6SrPYsWGaWvYGj9AAn6JxmYePnb8mKBAMlGxkm7lkUx2niXSIhXYrCQQZ8klQlBYChuZU4GwdgeUQnhQQ8BZKD1t5kNniGseztycHOWPLx0bFIgVA8NFGaaK2btnaNvsT0Bi97Su/HsFxTDUoIfBsPvQG1UIcPQr4bFAy4biLuuTgkj6LovvLoWTNVv2I6rfupJUI1FANg2QWOR7g==;+ox5QKJOymCfxD0AGDUwCQ=="
 ---

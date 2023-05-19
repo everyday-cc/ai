@@ -147,6 +147,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Multan airport 4th in country to get Facial Recognition System"
+    excerpt: "The Multan International Airport has become the fourth in the country to have a functional Facial Recognition System, a Pakistan Civil Aviation Authority spokesperson confirmed Friday. The"
+    publishedDateTime: 2023-05-19T14:14:00Z
+    webUrl: "https://www.thenews.com.pk/latest/1071894-multan-airport-4th-in-country-to-get-facial-recognition-system"
+    ampWebUrl: "https://www.thenews.com.pk/amp/1071894-multan-airport-4th-in-country-to-get-facial-recognition-system"
+    cdnAmpWebUrl: "https://www-thenews-com-pk.cdn.ampproject.org/c/s/www.thenews.com.pk/amp/1071894-multan-airport-4th-in-country-to-get-facial-recognition-system"
+    type: article
+    provider:
+      name: The News International
+      domain: thenews.com.pk
+    quality: 76
+    images:
+      - url: "https://www.thenews.com.pk/assets/uploads/updates/2023-05-19/1071894_065954_updates.jpg"
+        width: 700
+        height: 400
+        isCached: true
   - title: "Smile! Reid airport is testing ground for facial recognition project"
     excerpt: "The TSA says the pilot program is voluntary and accurate, but critics have raised concerns about questions of bias in facial recognition technology."
     publishedDateTime: 2023-05-15T23:24:00Z

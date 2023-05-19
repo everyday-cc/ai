@@ -39,6 +39,15 @@ related:
         width: 697
         height: 450
         isCached: true
+  - title: "World’s First 100% AI-Controlled and Executed House Purchase Processed by MORGAN"
+    excerpt: "From home finding to mortgage application to ownership, the homeowner’s personal AI assistant is making home buying easier using Celligence technology."
+    publishedDateTime: 2023-05-18T16:05:00Z
+    webUrl: "https://www.sacbee.com/press-releases/article275552816.html"
+    type: article
+    provider:
+      name: Sacramento Bee
+      domain: sacbee.com
+    quality: 14
 
 secured: "90iYFrGAY7KpsgskfvR5DRtwfX5JvCghJguD+1gmvZolUOeGvbSyLyDqdAuCRi+QwqyiQyUMXPmXB5yne8rBJ3aa2iWVi+jdJlo0Zh5e2rv1GZDTRwqJqsO8cAq5zhJ+rdjLrDqKFFdYzONSACMdbrxuF4dKwpcc0npJfKRFSWTsAyh6JNceFcW+gX7Z1rlSvvr4Gl5RiVYBEQg67pzSLokHTFHPn3iCpvrc8891sa7PUpkxwV/J/78bycnAxTi9ILyQiVIXuaCCfwDUi6yYy3wWxDjinTL9KZUF2PDHMM7fSJiQn3TlX/N0pPQGeQQFo98iVnEenK4XwlzC0wK1cdc9zFehMZbO2BMD4SFMdFY=;hAU5blO/NaG5RA/0f6iQ1w=="
 ---

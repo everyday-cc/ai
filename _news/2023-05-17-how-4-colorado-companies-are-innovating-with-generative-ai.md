@@ -261,6 +261,15 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 17
+  - title: "Three problems with generative AI have yet to be addressed"
+    excerpt: "While AI-based tools could deliver a major boost in productivity and efficiency, there's a dark side to them, as well."
+    publishedDateTime: 2023-05-19T09:57:00Z
+    webUrl: "https://www.computerworld.com/article/3696999/three-problems-with-generative-ai-have-yet-to-be-addressed.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 17
 
 secured: "qeZKILFZsxIWX+inRGAOFRIsgctQQ39WIbh8gkuOUH+LnrZ+jgMiCvPM+/K3SCTfTQGBuzpjjf3NJbYs6vTR0Y28KDpfpW6iIQz9N5ULYB4/xETYmp/4zrN124HpONhK3Bb8V7fiyPvc2aCYDdRjaMwb+7WB4KEzt9UAb+dQIXnzhCIdGBwMIS3mEw22t7ofOogl9G1PSg5cDJALYs4KxyxIXVAeFxhyW8Gru31nLS5SxF/AOvzPOORqKDeVUdE1izvekXlLTHKwfDCjQwLj9jNSJuKSRciGF0gaW9slHEt74XoW9DNsqRBL0WsgU4SJkwq92GZzstSfJKdPzyBjJIlufYSLui+uKQVCqYmctbYOqiakRzI8nmvvonBpnnL6ZQtRG3/h+rLzsZ1Wlrg6tiAEmOikA4ZIO9QXm+7itwUVINSlt1MBkg4ebsmsS4jT0ISR3QRNV89NDHBzOtxD5F4+sybTPp2LqymgTXZi66ahTqtsUJM1fKGOwjr6e1eb/WtoP67eSgk1+meNC6++9Q==;itHBoFcQ9gpSBnNSzoc7yQ=="
 ---

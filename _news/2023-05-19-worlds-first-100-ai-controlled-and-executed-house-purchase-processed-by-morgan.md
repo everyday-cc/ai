@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/world-s-first-100-
 webUrl: "https://markets.businessinsider.com/news/stocks/world-s-first-100-ai-controlled-and-executed-house-purchase-processed-by-morgan-1032338191"
 type: article
 quality: 64
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -43,6 +43,15 @@ related:
         width: 697
         height: 450
         isCached: true
+  - title: "World’s First 100% AI-Controlled and Executed House Purchase Processed by MORGAN"
+    excerpt: "From home finding to mortgage application to ownership, the homeowner’s personal AI assistant is making home buying easier using Celligence technology."
+    publishedDateTime: 2023-05-18T16:05:00Z
+    webUrl: "https://www.sacbee.com/press-releases/article275552816.html"
+    type: article
+    provider:
+      name: Sacramento Bee
+      domain: sacbee.com
+    quality: 14
 
 secured: "7SpCELAVsrLOppZE8kJxKJtelEtdKm9hzTBntVdwR88I22RzuJHQmtkeVQyIdsH+FzETciJm410uE9OyuSarJvt9HcPYVKnoPw/XUk7ZuLGxAotjIOZLtvuyygExMBR24Nk0R5PFFzQyvg4N2TWrj9v3p/tQdeEe5a1IY6qboo5Deb7TqCKyF7xo0mzdtb8GqaI/g7FKj3VSoNoFPwkFV1dE0zB2w+00nFPfQcVGXMC+KlXklmd9qWjf+ZJfn/pmPFbFevpqGcmB/fB+EK+LaXCd+yKF7QHT3pOYVldSI13fCsc19Gvt56+g8KEpBOMWtGWP1ClvheDKE78U3uxoTh+RmBmSZ8UjznzncfGU/iyh7/+Ou0KWkwhPPWrdF6THc0PRxVv7IFyYXEQ+B5Ae9y/W8nAUO+ABiLiFYoQ/nreaa4ZtF78SHJTxsc4gZco2ae7v7MzG7a14BlJKJ2z1M3gW00nZ3gEOEWW9PlzNMtAtOtw9aBfCy8zyx/7ASDAX+NQ0LtMwkSo3Z/KZHUEZ+A==;h3NzXNqJkHZTmK5kR6w4TA=="
 ---

@@ -109,6 +109,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Climate Fintech: The Key to Unlocking Wider Climate Tech Solutions"
+    excerpt: "Even with challenges such as a lack of standardised ESG reporting, limited access to quality climate risk data, and regulatory hurdles likely to slow down the adoption of new technologies, climate fintech has the potential to transform the entire climate tech sector and be an integral part of the solution to combat climate change."
+    publishedDateTime: 2023-05-19T14:45:00Z
+    webUrl: "https://financialit.net/blog/fintech/climate-fintech-key-unlocking-wider-climate-tech-solutions"
+    type: article
+    provider:
+      name: Financial IT
+      domain: financialit.net
+    quality: 24
+    images:
+      - url: "https://financialit.net/sites/default/files/lee_chin_jian_3417_copy.png"
+        width: 399
+        height: 432
+        isCached: true
   - title: "Data security issues Fintech firms are facing"
     excerpt: "The covid crisis represented a big concern in the fintech sector. First, more people are remotely managing their money with technology. Second, that’s led to new data security challenges. Hackers are"
     publishedDateTime: 2023-05-18T11:06:00Z

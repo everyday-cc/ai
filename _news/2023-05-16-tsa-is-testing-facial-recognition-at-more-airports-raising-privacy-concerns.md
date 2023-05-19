@@ -153,6 +153,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Multan airport 4th in country to get Facial Recognition System"
+    excerpt: "The Multan International Airport has become the fourth in the country to have a functional Facial Recognition System, a Pakistan Civil Aviation Authority spokesperson confirmed Friday. The"
+    publishedDateTime: 2023-05-19T14:14:00Z
+    webUrl: "https://www.thenews.com.pk/latest/1071894-multan-airport-4th-in-country-to-get-facial-recognition-system"
+    ampWebUrl: "https://www.thenews.com.pk/amp/1071894-multan-airport-4th-in-country-to-get-facial-recognition-system"
+    cdnAmpWebUrl: "https://www-thenews-com-pk.cdn.ampproject.org/c/s/www.thenews.com.pk/amp/1071894-multan-airport-4th-in-country-to-get-facial-recognition-system"
+    type: article
+    provider:
+      name: The News International
+      domain: thenews.com.pk
+    quality: 76
+    images:
+      - url: "https://www.thenews.com.pk/assets/uploads/updates/2023-05-19/1071894_065954_updates.jpg"
+        width: 700
+        height: 400
+        isCached: true
   - title: "Smile! Reid airport is testing ground for facial recognition project"
     excerpt: "The TSA says the pilot program is voluntary and accurate, but critics have raised concerns about questions of bias in facial recognition technology."
     publishedDateTime: 2023-05-15T23:24:00Z
@@ -510,6 +526,6 @@ related:
       domain: extremetech.com
     quality: 19
 
-secured: "lu6n8ExnK+r35Rym7QVZMISudcwbTizgBKt+PU+pAu1/xX/Hg1IG9oENroZqQVcP2dUX4VACs2hw5l3Hnw+2vHJiO6qkyZZe9Yw9wU/fmGGePWKccEekIP68mD1vXl0+DVW9ozl+WS9UoxgFwoBsXwg76dOHO9F3yQM83cjv1IjNHjnnShr4tTK9OsrgnsOFUOILuxkifMLxULVcHJW4D9H9nv9hSrQJ6jomJxgIk7eLPXJDO1VEXgWhcAeZLhXz0Zh69rx1/t1GO7mvEUhufEm2jNZ15zs4vDwdCRdprfyB/ObRG3f5wI9h7BTiqrc3PwevxeMhOj6pl4slu/16XvdoGb3yu5nQRGOB98bgZh0=;whqqfyH1NSNnJDvKA+TXzw=="
+secured: "QseYmysAugpROwFb5Lym8TxSRn1amO0HmTbdxCZxbbQ0jaD02v6tURiJFvjI75VL6u7wnyVeE6XQymYb+VewQn3e5DxFnfzf3mBWUW2W0y/rCB/sFB6EC43afsWWQs8dNVmN6DpYjkCc8NmbgpGAO0neBMJrvesvoQQeA5xyvHBrDvRr24drVfIg+WAArFslv74yyw6nk6qrqcHLueOSzSFnoviuZ+ijRKzdgG2R106ohcGhdg17WNcF/5AMtb2uFh3L4DEggv/OU1onnCUWoLaYZ0h6PqrO22RmoHSn7s+qNqEeML2O/G4h9TeT7SZJz+oqub5gRg5WvNnWxuCxFZslX5nHObfYj828CV5Birg=;9FWGOCRHM2dzFrqm/e0bnA=="
 ---
 

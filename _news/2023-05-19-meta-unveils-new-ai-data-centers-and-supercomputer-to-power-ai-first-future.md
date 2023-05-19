@@ -80,6 +80,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Meta is all in on AI as new chip & supercomputer are in development"
+    excerpt: "Meta, formerly Facebook, has pivoted hard into AI from the metaverse. The company now plans to develop its own chips and supercomputer for AI research."
+    publishedDateTime: 2023-05-19T14:23:00Z
+    webUrl: "https://www.dexerto.com/tech/meta-is-all-in-on-ai-as-new-chip-supercomputer-are-in-development-2150770/"
+    type: article
+    provider:
+      name: Dexerto.com
+      domain: dexerto.com
+    quality: 56
+    images:
+      - url: "https://editors.dexerto.com/wp-content/uploads/2023/05/19/Firefly-an-ai-with-interconnected-neurons-that-is-in-a-server-room-blurred-in-the-background-and-has.jpg"
+        width: 1792
+        height: 1024
+        isCached: true
   - title: "Meta’s pricey bet on AI comes with new custom chips, coder tools"
     excerpt: "There's one area at Meta that's seeing record spending: an update of the social media giant's infrastructure to keep pace in the artificial intelligence arms race."
     publishedDateTime: 2023-05-18T18:10:00Z
@@ -91,6 +105,20 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 56
+  - title: "Meta Unveils AI Chips"
+    excerpt: "Meta (NASDAQ:META) has built custom computer chips to help with its artificial intelligence and video-processing tasks and is talking about them in public for the first time. The social networking giant disclosed its internal silicon chip projects"
+    publishedDateTime: 2023-05-19T13:58:00Z
+    webUrl: "https://www.baystreet.ca/techinsider/3620/Meta-Unveils-AI-Chips"
+    type: article
+    provider:
+      name: BayStreet
+      domain: baystreet.ca
+    quality: 54
+    images:
+      - url: "http://www.baystreet.ca/images/articlegroups/original/17/private/facebook.jpg"
+        width: 845
+        height: 396
+        isCached: true
   - title: "Meta working on new chip for AI"
     excerpt: "In addition, Meta has introduced its first in-house ASIC solution, MSVP, designed to power constantly growing video workloads. The company has also touted the Research SuperCluster (RSC) AI Supercomputer, which features 16,000 GPUs and is built to power new augmented reality tools, content management systems, and real-time translation technology."
     publishedDateTime: 2023-05-19T08:31:00Z
@@ -102,6 +130,20 @@ related:
       name: Business Line
       domain: thehindubusinessline.com
     quality: 54
+  - title: "Meta makes its AI technology open source and unveils custom computer chips"
+    excerpt: "Meta Platforms Inc (NASDAQ:FB) has not only created an artificial intelligence (AI) technology, called LLaMA, that can power online chatbots, but the Silicon Valley giant has now unveiled its newly built custom computer chips to help with its AI and video ..."
+    publishedDateTime: 2023-05-19T15:31:00Z
+    webUrl: "https://www.proactiveinvestors.com/companies/news/1015589/meta-makes-its-ai-technology-open-source-and-unveils-custom-computer-chips-1015589.html"
+    type: article
+    provider:
+      name: Proactiveinvestors
+      domain: proactiveinvestors.com
+    quality: 52
+    images:
+      - url: "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDIzXzA1XC9zaHV0dGVyc3RvY2stMjE1Mjc1ODg4Ny5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjEyMDAsImhlaWdodCI6NjMwLCJmaXQiOiJjb3ZlciJ9fX0="
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Watch 44 million atoms simulated using AI and a supercomputer"
     excerpt: "The most accurate simulation of objects made from tens of millions of atoms has been run on one the world’s top supercomputers with the help of artificial intelligence. Existing simulations that describe in detail how atoms behave,"
     publishedDateTime: 2023-05-18T09:20:00Z

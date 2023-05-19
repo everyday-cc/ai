@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/unlock-productivity-with-advanced-generat
 webUrl: "https://www.ibm.com/blog/unlock-productivity-with-advanced-generative-ai/"
 type: article
 quality: 119
-heat: 299
+heat: 309
 published: true
 
 provider:
@@ -266,6 +266,15 @@ related:
     provider:
       name: The Business Journals
       domain: bizjournals.com
+    quality: 17
+  - title: "Three problems with generative AI have yet to be addressed"
+    excerpt: "While AI-based tools could deliver a major boost in productivity and efficiency, there's a dark side to them, as well."
+    publishedDateTime: 2023-05-19T09:57:00Z
+    webUrl: "https://www.computerworld.com/article/3696999/three-problems-with-generative-ai-have-yet-to-be-addressed.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
     quality: 17
 
 secured: "60uNB4BUu3OqTdyA0XFGrMraovQx8CISTwE2FOUsIw+KkY/hSGpXQXG73r90Vk+SYGvt5ga0obp8PxXb/zufbLe2xHzJFzZ54qhoRbqDUfH97lCdkS16fJC9STwtE6XSi+YcQHjC0QDDPUxm8FTUF6l6ogURFdGmmIQzrqhVktA6VplbY/wHDQ6fBnmNJQy8ee/Ujdi4IieB45O6pOa1U5Ze7ncjckkguWyGujNgs9CaZcathPlpMlvPGf6yOpV4QdEi+RYHwGz2GR3pmoTUUTk0fgUDSiAAxdRBJGzr8IYzp1hNUIUIjbh3hL9uEXA/MRF3mqribrCxOZn+dWHhS5L1reagAq3gsPV+0S7ghTA=;HB0o2bvL5klMStkhL8/BkA=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/adrianbridgwater/2023/05/16/sap-develop
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2023/05/16/sap-develops-ai-driven-skills-for-workforce-processes/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "China is ramping up efforts to drive AI development"
+    excerpt: "Tagging artificial intelligence as an important focus for the country, the Chinese government plans to step up efforts in research and development, including the establishment of regional AI industrial hubs."
+    publishedDateTime: 2023-05-19T14:27:00Z
+    webUrl: "https://www.zdnet.com/article/china-is-ramping-up-efforts-to-drive-ai-development/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/china-is-ramping-up-efforts-to-drive-ai-development/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/china-is-ramping-up-efforts-to-drive-ai-development/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/f3aece405a9b8b745b147b29ab5e92e4c58801c4/2023/05/19/ec3c66b3-fdd5-49c1-b530-039359f1add7/gettyimages-1250716865.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Stability AI open sources its AI-powered design studio"
     excerpt: "Stability AI has open sourced its AI-powered design studio, which taps generative AI for image creation and editing."
     publishedDateTime: 2023-05-18T22:31:00Z

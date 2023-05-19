@@ -35,6 +35,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "NVIDIA's massive RTX 4060 GPU giveaway comes with hints of overcompensation"
+    excerpt: "So, gamers get the chance to win 170 GPUs (plus a couple of monitors and GPU backplates), which are mostly GeForce RTX 4060s - 164 of them. There's also an RTX 4060 Ti Founders Edition up for grabs, and a pair of NVIDIA's own RTX 4080 and 4090 graphics cards. Oh, and a GeForce RTX Garage 4090 build, a gaming PC worth a cool $7,500."
+    publishedDateTime: 2023-05-19T13:35:00Z
+    webUrl: "https://www.tweaktown.com/news/91535/nvidias-massive-rtx-4060-gpu-giveaway-comes-with-hints-of-overcompensation/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 17
   - title: "PNY VERTO™ GeForce RTX™ 4060 Family of Graphics Cards; PNY Introduces Latest NVIDIA® GeForce RTX™ 40 Series GPU Family with DLSS 3"
     excerpt: "PNY announced today the expansion of its revolutionary NVIDIA GeForce® RTX™ 40 Series PNY and XLR8 Gaming family of GPUs with the addition of the new GeForce RTX 4060 family. PNY GeForce RTX 4060 Ti 8GB will be available May 24th at top retail partners,"
     publishedDateTime: 2023-05-18T14:44:00Z

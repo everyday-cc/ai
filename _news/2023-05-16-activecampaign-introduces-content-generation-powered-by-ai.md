@@ -266,6 +266,15 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 17
+  - title: "Three problems with generative AI have yet to be addressed"
+    excerpt: "While AI-based tools could deliver a major boost in productivity and efficiency, there's a dark side to them, as well."
+    publishedDateTime: 2023-05-19T09:57:00Z
+    webUrl: "https://www.computerworld.com/article/3696999/three-problems-with-generative-ai-have-yet-to-be-addressed.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 17
 
 secured: "qlc9Ui0iXdBgcTzNF5K35lPpqyOlagscG8nmZ/DHepBmoF53v+JuE1N1F1WdRtElpEzp7zmXdU04t5KmhZOaGvkwDSN9oI6aVAptCi1USKRGtI0uxSY7U9BMWwgOoT59vtJOmmJuf0l3vQPbb4BgRWdKVAzDE+QP4Wu1/JtW0ZppM7WyIaRDXkUG+/CKwjFKggcNPkkSrLY4aH2eOb+V+AtC9/vXbPGYTZ8UjOHUd+Jkcf7E7JST9eMWsD8/wUkLQvgszUGOryUksORoSHRB4wQ/4Ban46mHlFENsWgPAswBymUJjZGU0mBaija9EkTyHbx4dFnaf4tCaTuy2aVcltnBAcksYCI6W6p+1JQmxBc=;LFtvOIGhQSI7vJ0McXThLg=="
 ---

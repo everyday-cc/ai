@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/18/how-co
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/05/18/how-could-artificial-intelligence-impact-cybersecurity/amp/"
 type: article
 quality: 87
-heat: 147
+heat: 137
 published: true
 
 provider:
@@ -39,20 +39,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 74
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence-based Cybersecurity Market [2023-2030] Business Report"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. May 14, 2023 (The Expresswire) -- A Artificial Intelligence-based Cybersecurity market new report, spanning multiple 113 pages, offers an extensive and in-depth analysis of ..."
-    publishedDateTime: 2023-05-14T23:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-based-cybersecurity-market-2023-2030-business-report-2023-05-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 63
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

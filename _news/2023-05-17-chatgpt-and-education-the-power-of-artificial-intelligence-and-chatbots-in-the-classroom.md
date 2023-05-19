@@ -84,6 +84,22 @@ related:
         width: 2500
         height: 1250
         isCached: true
+  - title: "Your iPhone Now Has ChatGPT AI, Too"
+    excerpt: "OpenAI on Thursday dropped a ChatGPT app for iOS. The new app is free, and it gives you a way to take OpenAI's AI chatbot on the go. The app works on iPhones and iPads, supports voice input, and syncs your history across devices. The rollout of the iOS app begins in the US and will expand to more countries in the coming weeks, OpenAI said."
+    publishedDateTime: 2023-05-19T14:09:00Z
+    webUrl: "https://www.cnet.com/tech/services-and-software/your-iphone-now-has-chatgpt-ai-too/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/your-iphone-now-has-chatgpt-ai-too/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/your-iphone-now-has-chatgpt-ai-too/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 87
+    images:
+      - url: "https://www.cnet.com/a/img/resize/ce86a21eb4827d40a3af2503c8e71bc24550bb25/hub/2023/05/18/e1f84082-50e8-47b1-8e9d-d7df6492dd56/untitled-design.png?auto=webp&fit=crop&height=630&width=1200"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Amazon job listings hint at ChatGPT-like conversational AI for online store"
     excerpt: "A pair of job listings suggest that Amazon is looking for engineers who could help create “an interactive conversational experience.\""
     publishedDateTime: 2023-05-15T22:34:00Z

@@ -88,6 +88,22 @@ related:
         width: 2500
         height: 1250
         isCached: true
+  - title: "Your iPhone Now Has ChatGPT AI, Too"
+    excerpt: "OpenAI on Thursday dropped a ChatGPT app for iOS. The new app is free, and it gives you a way to take OpenAI's AI chatbot on the go. The app works on iPhones and iPads, supports voice input, and syncs your history across devices. The rollout of the iOS app begins in the US and will expand to more countries in the coming weeks, OpenAI said."
+    publishedDateTime: 2023-05-19T14:09:00Z
+    webUrl: "https://www.cnet.com/tech/services-and-software/your-iphone-now-has-chatgpt-ai-too/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/your-iphone-now-has-chatgpt-ai-too/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/your-iphone-now-has-chatgpt-ai-too/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 87
+    images:
+      - url: "https://www.cnet.com/a/img/resize/ce86a21eb4827d40a3af2503c8e71bc24550bb25/hub/2023/05/18/e1f84082-50e8-47b1-8e9d-d7df6492dd56/untitled-design.png?auto=webp&fit=crop&height=630&width=1200"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Amazon job listings hint at ChatGPT-like conversational AI for online store"
     excerpt: "A pair of job listings suggest that Amazon is looking for engineers who could help create “an interactive conversational experience.\""
     publishedDateTime: 2023-05-15T22:34:00Z
@@ -797,6 +813,6 @@ related:
       domain: yourstory.com
     quality: 1
 
-secured: "j91rqHnaU4RbN/SSpfjV4cVzkimmnmUh0GKT/oIuUUDOxH1bDyYZqiREonMvEUzqmpBu+z7OFpUa3991mWKKxj/RGZswFwGLu7y7GQaNudUMrcWtXzcCViS7491sQyRm8RrfWNHbKmVT4dTy7Yv9ZcsPBwiMPzlVD8AxyWy1hIsc24RVyMEy2SEDWFJcKGsAY+UUwELHb8bsa8698wzzCI7rKAAE+Bbnpu66bTjxwxrJfh+g94/GfESxBFgm4zGw1Rnlbzuqc/RSAUKJT5LT9OyWOXSe9oOrjIr2g3lKGl+psPrSoaDHkzeU5V3q4e3doQ61cr/IawmNgCZ8xHf8VjTSZP9SornBPWWdzfJ0hRs=;IFetDvr/rRg1F7TSzG4OTQ=="
+secured: "AfRXgPjfJ4ElcuExSA1n0aQIXp5i+syTu6ZFhZOOfcCuOUewfVHMP7WDjJ9W9qPNCH8O5udRJjlpbbzK2OCDqjFSPxClnT6bfqIgO6FxXZMy2CXqlAzv03pic5xfQO3xubo6B/e5h3ebTu8+AkgC9XW+peYIJ1B+FEjr8TBRhAwBdHr103gxnO/2684xauqAR3MqjFnjvsY56DQ0Bj2kZe7EF1Y0Rony6+WkFPcfHRHqp4D2Ex7L4kO/XgHPJMMmv48vGd2Cy5dvMOQgGMV+coPGuidUNGX2v9rQPSot4Feumg8B23bKWL55YT9D0f1lWxXv88qqMFA3Q0HEdQ7TQ6bd7FrqcUYOe5FhFbkHHj/N1v9cfZVVbHzQt5i6aZHEYr8Fu6t52YIlx5nuvJonu1LDbAG+aIFYN5kl67TjxbV6WmJRZuXZPscPQK0nM7zXs3GtHdAJxt45P5Okqo6KhGOHsmiwg/NUDbNiHtSWyal+KDkiwesJqK8y4M/+l1LZsl0Ie5bTK+l272tybpS7uQ==;LB6a3Hl0Bu6JnvOCnZPAjA=="
 ---
 

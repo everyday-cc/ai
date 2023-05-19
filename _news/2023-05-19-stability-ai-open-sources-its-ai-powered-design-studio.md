@@ -46,6 +46,22 @@ related:
         width: 640
         height: 403
         isCached: true
+  - title: "China is ramping up efforts to drive AI development"
+    excerpt: "Tagging artificial intelligence as an important focus for the country, the Chinese government plans to step up efforts in research and development, including the establishment of regional AI industrial hubs."
+    publishedDateTime: 2023-05-19T14:27:00Z
+    webUrl: "https://www.zdnet.com/article/china-is-ramping-up-efforts-to-drive-ai-development/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/china-is-ramping-up-efforts-to-drive-ai-development/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/china-is-ramping-up-efforts-to-drive-ai-development/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/f3aece405a9b8b745b147b29ab5e92e4c58801c4/2023/05/19/ec3c66b3-fdd5-49c1-b530-039359f1add7/gettyimages-1250716865.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "Pplt3ij5Hb0V8aL9rAc50YsCPiNctH2GcIPnqiRONE4WN3h3E0b0OH86qKPwMTQIjbORV8i083FMn/NUR3IuHe431WcISDh7IoHbzIWppF1OexEeHT3juhG62ZneMnkfT1o+LsUCOaKc6CLlFKjDlxSRuXOeHEesifUrT/ZY95UX0lXtEbSzfIEG2ygljujCYaxkkAWVU60iJns15/F4vWwO14DxrXI8553pK5IHCxVeX7t3vPCqAow224sothLwOsNq5Ro3pQUv42+aI8SEO6zRf09NNHDSRWrOTl7104LkA74S2cRG+7Ij0Hl3iDNCddvveEcQD+E3Bd5yhRZmrUSuSlzN0NHKsfEbKHxA9Pz4V1G5jqMzP1MikFLe1ZTtBxx5WDOZyPSaNFKIRQN0JA00W+k7TRW2350WNC93rZZYj6/xTaw7FxtQdfe53nkGkB58s9Uw2IfllpqHP1tgrsTCclJfXoINQM6rMQYm9K4NgNWlM+/Im22pnCil73sOiQMnKBGwYl6+/UwrnIWmyw==;uCXCb4QCEWawj1mgQmHQTg=="
 ---

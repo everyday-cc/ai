@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gadgetsnow.com/tech-news/facebook-parent-meta-unveils-ch
 cdnAmpWebUrl: "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/facebook-parent-meta-unveils-chip-for-ai-programs/amp_articleshow/100343511.cms"
 type: article
 quality: 74
-heat: 85
+heat: 95
 published: true
 
 provider:
@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "Meta is working on its own chip, data center design for AI workloads"
+    excerpt: "The Facebook parent said that it is working on a new AI-optimized data center design and the second phase of its 16,000 GPU supercomputer for AI research."
+    publishedDateTime: 2023-05-19T13:37:00Z
+    webUrl: "https://www.networkworld.com/article/3696935/meta-is-working-on-its-own-chip-data-center-design-for-ai-workloads.html"
+    type: article
+    provider:
+      name: Network World
+      domain: networkworld.com
+    quality: 38
   - title: "‘You can’t unsee it’: the content moderators taking on Facebook"
     excerpt: "In his job, he had to watch a new Facebook video roughly every 55 seconds ... which had been working in Nairobi for several years on labelling data to train artificial intelligence software for clients including Meta and Tesla — take on the work of ..."
     publishedDateTime: 2023-05-18T09:40:00Z

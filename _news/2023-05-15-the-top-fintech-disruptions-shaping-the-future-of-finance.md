@@ -9,7 +9,7 @@ ampWebUrl: "https://www.devdiscourse.com/article/technology/2452129-the-top-fint
 cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2452129-the-top-fintech-disruptions-shaping-the-future-of-finance?amp"
 type: article
 quality: 59
-heat: 189
+heat: 199
 published: true
 
 provider:
@@ -108,6 +108,20 @@ related:
       - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/487831223/image_487831223.jpg?io=getty-c-w750"
         width: 750
         height: 499
+        isCached: true
+  - title: "Climate Fintech: The Key to Unlocking Wider Climate Tech Solutions"
+    excerpt: "Even with challenges such as a lack of standardised ESG reporting, limited access to quality climate risk data, and regulatory hurdles likely to slow down the adoption of new technologies, climate fintech has the potential to transform the entire climate tech sector and be an integral part of the solution to combat climate change."
+    publishedDateTime: 2023-05-19T14:45:00Z
+    webUrl: "https://financialit.net/blog/fintech/climate-fintech-key-unlocking-wider-climate-tech-solutions"
+    type: article
+    provider:
+      name: Financial IT
+      domain: financialit.net
+    quality: 24
+    images:
+      - url: "https://financialit.net/sites/default/files/lee_chin_jian_3417_copy.png"
+        width: 399
+        height: 432
         isCached: true
   - title: "Data security issues Fintech firms are facing"
     excerpt: "The covid crisis represented a big concern in the fintech sector. First, more people are remotely managing their money with technology. Second, that’s led to new data security challenges. Hackers are"

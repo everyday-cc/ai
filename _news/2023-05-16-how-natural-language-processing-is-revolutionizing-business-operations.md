@@ -55,22 +55,6 @@ related:
         width: 800
         height: 372
         isCached: true
-  - title: "Revolutionary changes by artificial intelligence"
-    excerpt: "The accurate usage of data annotation and data labelling services incorporating cases like Facial recognition, Self ... to intelligence by humans, when machines produce results, making tasks easier and faster, then those are inculcated under AI (Artificial ..."
-    publishedDateTime: 2023-05-14T21:19:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/revolutionary-changes-by-artificial-intelligence/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/revolutionary-changes-by-artificial-intelligence/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/revolutionary-changes-by-artificial-intelligence/"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 59
-    images:
-      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2023/03/Manish-Mohta.JPEG-1.jpeg"
-        width: 1280
-        height: 851
-        isCached: true
   - title: "How to avoid AI commoditization: 3 tactics for running successful pilot programs"
     excerpt: "Chaitanya Vaidya is the co-founder of Deeprisk.ai, holds a fintech AI patent and has been in the tech innovation space for more than a decade. With the rise of open-source AI models, the commoditization of this groundbreaking technology is upon us."
     publishedDateTime: 2023-05-15T18:17:00Z

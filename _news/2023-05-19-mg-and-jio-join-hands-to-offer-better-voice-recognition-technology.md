@@ -26,6 +26,17 @@ images:
     height: 464
     isCached: true
 
-secured: "dvbPNL64AlOGhbM2AWW/XnMWqTBJQotYJWAFI+XtJCquDw04UpkNmDALNcf8AH5/WAt1pupdKukdeDj40//E8xW1CLIi9pNLYVXSWwD/ZHr6flvcg1tbdCukUsX1EORomRh2TM7GTZxiDvX+wwKfbSwqtCeF2LxqGAPVNjNPsAhriSfAlwvlBdpbU8O0BkR3ZBswPW6s698kCrvEaqElraMMcTmzRDZOQlCi8u9JfnvT79K7mFZDaSn1+zfHxEqo3E1LD2vkcyAl+d/ok7R31HZ2HyDeuEZ9H0eZ38p3YOVZwif1CSBCgJRfcg3M0Wmc1WxiDCmEBSuIitsoEAsJeonnmt3bTgnbc8O242+4Va0=;TooXexoKVveQJi8wMkTJsQ=="
+related:
+  - title: "MG Comet's voice commands to be powered by Reliance Jio"
+    excerpt: "MG Comet EV is using Jio's e-SIM to provide connected car technology. The manufacturer has also embedded a Jio voice assistant that has been specifically trained to understand Indian dialect. It can be activated using a wake word,"
+    publishedDateTime: 2023-05-19T11:54:00Z
+    webUrl: "https://auto.hindustantimes.com/auto/news/mg-comets-voice-commands-to-be-powered-by-reliance-jio-41684495703315.html"
+    type: article
+    provider:
+      name: Auto News India
+      domain: hindustantimes.com
+    quality: 4
+
+secured: "9cpau9+pm0y3jOP+LM4uhvV7P6sgAtjxFivVMiQpJfUmigarNaw5Pzs1P5DqAyNTbCoRWG24cQAFOMwIGpO1gPauyFJhSi3QgF98lGOAOOLvpZvLEMVNnYlt3A96I6bt5aAv3yZ2kv4SAI2s7qoy1O6+JtasL1yE8NAVFicy3bSfCp1JEQVYKTpGUM6uDaAC+zjfaQBtfGb7khHkLw5yfOW4AuZbv+rPHXj6tOluq/1425MarzaKA2ClvoH7vVbY/gSpTMgp48gTef+fd3TTSQaYzxDIlhNbP7kUCZisB4iBdmAJ+OOFLKFUxeokz/XMp9K5ZBNjxHEz8Lv5synLUlvn9Oa3lk+QhvIvnbVtri1xZeBn91JksWLBp7hT55DG9I5laauqw+CKqLQr5toB7N+6j/4xbSLM2G+PnjGuuqTBujAt6FI5GXhgW4gCwSs6PolS06lRJ3YVsq7f2nLQiJfpM0uFce9rKxxZY5ht3GpqlhHpQPgRiD6FLG5v8ryV7C1CU0cX6ly5YiOLD6suLQ==;TLFQCO+gQqeHkezjlObtzw=="
 ---
 

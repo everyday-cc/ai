@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/articles/startup-etched-closes-seed-round-prom
 webUrl: "https://www.wsj.com/articles/startup-etched-closes-seed-round-promises-more-cost-effective-ai-chip-f5fd79aa"
 type: article
 quality: 84
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Startup uses AI to combine purchases from multiple cards"
+    excerpt: "\"We saw a gap where consumers struggled to pay without putting their credit score at risk,\" said Sam Miller, CEO of Kasheesh. The average U.S. consumer juggles more than four cards in their wallet, and tapping existing credit appropriately is a key factor ..."
+    publishedDateTime: 2023-05-19T15:00:00Z
+    webUrl: "https://www.americanbanker.com/payments/news/startup-uses-ai-to-combine-purchases-from-multiple-cards"
+    type: article
+    provider:
+      name: American Banker
+      domain: americanbanker.com
+    quality: 37
+    images:
+      - url: "https://arizent.brightspotcdn.com/dims4/default/6b2f955/2147483647/strip/true/crop/1496x785+0+28/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F93%2F6d%2F694870cd42428cf70b5266ac7097%2Fmiller-sam-cropped.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "This startup uses generative AI to speed up the property-buying process. Check out the 14-slide pitch deck Orbital Witness used to raise $9 million."
     excerpt: "The London-based startup, founded in 2017, deploys generative AI during the due diligence process to free up lawyers and real estate professionals."
     publishedDateTime: 2023-05-19T07:00:00Z

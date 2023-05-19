@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/nvidia-ceo-highlights-accelerated-computi
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/nvidia-ceo-highlights-accelerated-computing-and-ais-role-in-chip-manufacturing-at-itf-world-2023/amp/"
 type: article
 quality: 91
-heat: 161
+heat: 171
 published: true
 
 provider:
@@ -72,6 +72,22 @@ related:
       - url: "https://m.foolcdn.com/media/dubs/images/Robot-AI-image-Getty-Images.width-600.jpg"
         width: 600
         height: 450
+        isCached: true
+  - title: "NVIDIA, AMD, and Micron are in the Forefront in the Chip Sector Higher with AI"
+    excerpt: "NVIDIA, AMD, and Micron are experiencing significant growth in the chip sector, driven by their emphasis on AI and targeting the Japanese market."
+    publishedDateTime: 2023-05-19T14:56:00Z
+    webUrl: "https://enterprisetalk.com/quick-bytes/nvidia-amd-and-micron-are-in-the-forefront-in-the-chip-sector-higher-with-ai/"
+    ampWebUrl: "https://enterprisetalk.com/quick-bytes/nvidia-amd-and-micron-are-in-the-forefront-in-the-chip-sector-higher-with-ai/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/nvidia-amd-and-micron-are-in-the-forefront-in-the-chip-sector-higher-with-ai/amp/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 70
+    images:
+      - url: "https://enterprisetalk.com/wp-content/uploads/2023/05/NVIDIA-AMD-and-Micron-are-in-the-Forefront-in-the-Chip-Sector.jpg"
+        width: 1500
+        height: 844
         isCached: true
   - title: "Nvidia CEO outlines AI’s role in next-generation chip manufacturing"
     excerpt: "To meet this demand, Nvidia has emerged at the forefront of a new approach that involves coupling the parallel processing capabilities of graphics processing units with CPUs. It’s this new approach that sparked the AI revolution,"
