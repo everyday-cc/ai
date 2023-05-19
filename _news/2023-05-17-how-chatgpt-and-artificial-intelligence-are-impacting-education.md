@@ -182,20 +182,6 @@ related:
         width: 1528
         height: 800
         isCached: true
-  - title: "Maximizing the Value of AI in Cancer Care"
-    excerpt: "Cancer treatment has come a long way in recent years and is now evolving more rapidly through the integration of artificial intelligence (AI ... treatments, and healthcare providers, collected from outside a controlled clinical trial setting."
-    publishedDateTime: 2023-05-15T00:01:00Z
-    webUrl: "https://www.mddionline.com/artificial-intelligence/maximizing-value-ai-cancer-care"
-    type: article
-    provider:
-      name: MD&M East
-      domain: mddionline.com
-    quality: 39
-    images:
-      - url: "https://www.mddionline.com/sites/mddionline.com/files/Untitled%20design%2019_0.png"
-        width: 770
-        height: 400
-        isCached: true
   - title: "WHO says using AI in health care carries a multitude of risks"
     excerpt: "More industries are investing in AI, including health care. But the World Health Organization says the industry needs to look beyond its exciting potential and look into the risks."
     publishedDateTime: 2023-05-18T21:54:00Z

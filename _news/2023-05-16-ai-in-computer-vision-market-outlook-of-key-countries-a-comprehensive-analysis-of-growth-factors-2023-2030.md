@@ -43,20 +43,17 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Insurance Market | 2030"
-    excerpt: "Research Reports has published a new report titled as \" Artificial Intelligence in Insurance Market \" by End User ( Chatbots and Virtual Assistants, Fraud Detection, Customer Relationship Management,"
-    publishedDateTime: 2023-05-15T00:04:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-insurance-market-2030-2023-05-14"
+  - title: "Global AI Chip Market to Generate USD 304.09 Billion by 2030, Outlines a New Report by Next Move Strategy Consulting"
+    excerpt: "According to a report published by Next Move Strategy Consulting, the global Artificial Intelligence (AI) Chip Market size generated USD 28.83 billion in 2022, and is"
+    publishedDateTime: 2023-05-19T15:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/05/g32487349/global-ai-chip-market-to-generate-usd-304-09-billion-by-2030-outlines-a-new-report-by-next-move-st"
+    ampWebUrl: "https://www.benzinga.com/amp/content/32487349"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32487349"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 67
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 31
 
 secured: "AX9T13I6KILQ16V1JXpZ/r/qjTnldqzmgh6VGLBZFghhpU9mYc+PICzW6pp+4E46gH8RgPWArVqXO0DGi81J9E/Sy2tvcJJtljHV0jHh9FnEicjMDGpQ8pK20rIzDgHe0a2RffwJtfS/iN2WrIu97mc/VwGMAJ5h4mF4QvWrw4WwBmCLT+21OjfKrYY1Y2BZg0y7mGLO7qf7Z9PKfUDWlfdFuKpbEg8FXUpW42E9jNWQjPvv+WQ5/MZzaiHBZ6VGZPw8x2wKZ7PgsOEceF0mtj0OXk/GML+BQfFlk/sqUPssnAO/YCURmgo5KkeKTGtlmw99oQREsnMGHdgza6Zehhz9cgFtfU/LDU2R++xMg10=;s+SJYjoujr/Ec9n4QoXfKw=="
 ---

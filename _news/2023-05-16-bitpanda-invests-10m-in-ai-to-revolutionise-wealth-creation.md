@@ -117,6 +117,17 @@ related:
       name: FE Trustnet
       domain: trustnet.com
     quality: 19
+  - title: "Xiao-I Launches Revolutionary Intelligent Document Processing Solution, Catalyzing the Future of Enterprise Document Management"
+    excerpt: "Xiao-I Corporation (NASDAQ:AIXI) (\"Xiao-I\" or the \"Company\"), a leading cognitive artificial intelligence (\"AI\") enterprise in China, today announced the launch of its"
+    publishedDateTime: 2023-05-19T02:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/05/g32479684/xiao-i-launches-revolutionary-intelligent-document-processing-solution-catalyzing-the-future-of-en"
+    ampWebUrl: "https://www.benzinga.com/amp/content/32479684"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32479684"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 0
 
 secured: "GVOH5gt1Z+Zqqu5kNn7H7/F1621eDup0Uqo3tVi+0xHENbtclS+m1p3SeT3gG5qIT2TwNfw4CdleXwm8g8YfTgZRQAU53YX6Gb3/NXWvqjGbChjKYNX5XVR8nrsOMf30iyrpdFipc7zQCX0QxB7SrvC6qBP/BmPzYSFjHSyNyXaDB+imT/n9WkBgmOk9v6PlOjITjGyac9mKzl8JWE5yJBhDAfyec1eHd3mtFqgX/JHgh4YbwQfaW6HwcJoAOp4mznPhtQdTXUj2tCLr1j+WiUovCR570n81kZlHP9A/cgb5fAe1xe78ZsExS/2xMh99DlPykfHMvH1mQx1d+mtcv8k9ZdHrDfjF2hn3suyBwR5AvTyMz1thfYdSIu1RNwO7cj+OLYAhD0iW3+v6VZvYYVFaV/yy/XgXB8s9TLkYlfTBhiEj5JB0IqvS+68ITqW3xHAMwilpiggJH2093B6IUHbcSbGF0ScnVW2QFYmdXfML9wYm0hbctZb9fuF6rIZanbeeSb0jDib1bnCmiU0B/Q==;EHw9ygcpnbHnSC0qD0scXQ=="
 ---

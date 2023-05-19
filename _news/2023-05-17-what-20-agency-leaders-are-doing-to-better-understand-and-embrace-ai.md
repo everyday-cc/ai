@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/05/16/what-2
 webUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/05/16/what-20-agency-leaders-are-doing-to-better-understand-and-embrace-ai/"
 type: article
 quality: 69
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -72,20 +72,6 @@ related:
       - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/05/AI-machine-learning.jpg"
         width: 700
         height: 504
-        isCached: true
-  - title: "72-year-old congressman pursuing master's degree to better understand AI"
-    excerpt: "At age 72, U.S. Rep. Don Beyer of Virginia is back in school and pursuing a master's degree. He hopes to gain a better understanding of AI to help craft better laws surrounding the emerging technology."
-    publishedDateTime: 2023-05-14T23:59:00Z
-    webUrl: "https://www.cbsnews.com/sanfrancisco/video/72-year-old-congressman-pursuing-masters-degree-to-better-understand-ai/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 36
-    images:
-      - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2023/05/14/41b1d16d-0a1a-4a53-ba4a-5ab2c9fbb2ec/thumbnail/1200x630/6c6e814066c8d1359aab9bb42eac29b9/0514-wn-strassmann-1967927-640x360.jpg"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "RhBc5+qY7Ts/y/hptScGN52GEOIqNmvjirdb2WR1YgtUmn5gOf26DLO9bPpZ45xm7uGMB1LZOoFJPo6yG4x9zbK4k55IQyyham1tU0+Ql/zjKgBzMUTw4BetwY1ec78hEOuDDzrX5M+brJkc72uMIZd0lBqN1IA6i/Tw/BXPZXDoIjj76X+BDc+LtlSkp7J329yuvgHMYSeJRS0B/+O+daDENI/kP7mDVPmb9oiG4ZscnZtYyViDr07TS+wpPjS0HTdiV8x7YGGymRw6gGxQ/PZNUtDFzH22zJbi6v1o4hHhRuYFclf4gnwqhkJvl67kuENUWT5uFlPX0ROTirdVj2+TDRa922+w0Ny9E+Riab1TcoKRoKCNNRn3CcSLbqDfIQRYvuAvnX7UOAFruO/bxDr5b3C4a3qsDdnqhamgpQeGOXUaZF5bmIHN96Mx7h34D3hyFgYm1ROB3Rk1BEOnnNN/nosUwjIGIT7VTkamve0INMQnke0pS/qB6ejZ/Q+/mT2TUlWM4/s9CzLfv/P5mA==;epVFURwSbXl1VhaDJOzB7w=="

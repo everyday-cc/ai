@@ -25,17 +25,17 @@ images:
     isCached: true
 
 related:
-  - title: "Chicago’s principals association plans to file for union recognition"
-    excerpt: "A group representing Chicago’s school leaders said it plans to file a petition today to form a union, several months after state lawmakers changed the law to allow that. The Chicago Principals & Administrators Association is submitting signatures with the Illinois Educational Labor Relations Board representing almost 80% of the district’s roughly 1,"
-    publishedDateTime: 2023-05-14T23:12:00Z
-    webUrl: "https://www.chicagobusiness.com/education/chicagos-principals-association-plans-file-union-recognition"
+  - title: "Read the full text of Brandon Johnson’s inauguration speech"
+    excerpt: "Brandon Johnson was officially sworn in as the 57th Mayor of Chicago. Following the recitation of his oath of office, Johnson gave the traditional mayoral inauguration speech. Read Johnson's prepared remarks below."
+    publishedDateTime: 2023-05-16T04:12:00Z
+    webUrl: "https://www.chicagobusiness.com/politics/brandon-johnsons-inauguration-speech-read-it-here"
     type: article
     provider:
       name: Crain's Chicago Business
       domain: chicagobusiness.com
     quality: 24
     images:
-      - url: "https://s3-rd-prod.chicagobusiness.com/styles/1200x630/s3/Chicago%20Public%20Schools.jpg"
+      - url: "https://s3-rd-prod.chicagobusiness.com/styles/1200x630/s3/20230515_Mayor_Brandon_Johnson_inauguration_0791.jpg"
         width: 1200
         height: 630
         isCached: true

@@ -65,22 +65,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Tesla To Roll Out Free One-Month Full Self-Driving Trial Once It’s “Super Smooth”"
-    excerpt: "Elon Musk tweeted that Tesla will offer free FSD trials for users in North America and, eventually, the rest of the world"
-    publishedDateTime: 2023-05-15T00:19:00Z
-    webUrl: "https://www.carscoops.com/2023/05/tesla-to-roll-out-free-one-month-full-self-driving-trial-once-its-super-smooth/"
-    ampWebUrl: "https://www.carscoops.com/2023/05/tesla-to-roll-out-free-one-month-full-self-driving-trial-once-its-super-smooth/amp/"
-    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2023/05/tesla-to-roll-out-free-one-month-full-self-driving-trial-once-its-super-smooth/amp/"
-    type: article
-    provider:
-      name: Carscoops
-      domain: carscoops.com
-    quality: 54
-    images:
-      - url: "https://www.carscoops.com/wp-content/uploads/2021/10/Tesla-Full-Self-Driving.jpg"
-        width: 1920
-        height: 1040
-        isCached: true
 
 secured: "WO+JTtYztzMpg3LFH7aiQLoFFepc8nhntxveso2Wmyhy5AKokaIFPWpkZkIfdc+T/CPlGAYqmCZwSpgz0gguhcDXm21Irr2e0YQr71p/RqmgGbs8VXeuokYF1AtqvmiTSasUKsk0OWc+FePYpARP/HVV/AGf0pjisnUnFQ4JQu04h+dz6h8xUXgs+UdHLwjZzQlm7mt7fpJkjDVbZFMopR9Dn2CYLdNkH7S4Bu9ale+ST7pH4QRhH9CHSoGhxpgHGcJ2QcJV9w0SD+WvBu4EWWEPKtpld76pa8xnuORVf3SyDkCt0LQ2c6jtOZhONf04I7Vm540C0bnYiajWD8WKyeNChBh7/fEvcDxDoMyS927PuvmiSXAj9GPyJDPGwmST2xmu1CTB8Un0Hrqv7qn1YGIIF7FJPNw5C5+q2/q4zcbUhBHjDSfwMIUDZepcEwtwPhXCS/xh9SFY6NvwwJA8YaJfuUQMVyYwHbRc/WzAAQaRnp/L8s4AQalxf9Pki+JaPSbNmUn0bQzHJiAntLE6/Q==;CNJbpDhEVcvr67vz5HqE5Q=="
 ---

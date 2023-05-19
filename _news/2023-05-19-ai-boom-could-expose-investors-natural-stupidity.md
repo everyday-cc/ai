@@ -44,6 +44,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Which Artificial Intelligence Stocks Are Institutional Investors Buying?"
+    excerpt: "We are currently witnessing ever-increasing use cases and growing acceptance of AI in every walk of life. Here are 7 AI stocks getting institutional attention."
+    publishedDateTime: 2023-05-19T17:22:00Z
+    webUrl: "https://www.forbes.com/sites/investor-hub/article/which-artificial-intelligence-stocks-are-institutional-investors-buying/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 68
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/646699007031f328f841e295/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 622
+        isCached: true
   - title: "Corporate Investors Cut Bigger Checks for AI Startups"
     excerpt: "Brushing aside the broader slump in venture capital, corporate VCs want access to cutting-edge business tools, and perhaps an acquisition later on."
     publishedDateTime: 2023-05-16T10:00:00Z

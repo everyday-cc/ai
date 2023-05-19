@@ -27,21 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "Meta Platforms Crafts Homegrown AI Inference Chip, AI Training Next"
-    excerpt: "As we pointed out a year ago when some key silicon experts were hired from Intel and Broadcom to come work for Meta Platforms, the company formerly known"
-    publishedDateTime: 2023-05-18T20:02:00Z
-    webUrl: "https://www.nextplatform.com/2023/05/18/meta-platforms-crafts-homegrown-ai-inference-chip-ai-training-next/"
-    ampWebUrl: "https://www.nextplatform.com/2023/05/18/meta-platforms-crafts-homegrown-ai-inference-chip-ai-training-next/amp/"
-    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2023/05/18/meta-platforms-crafts-homegrown-ai-inference-chip-ai-training-next/amp/"
+  - title: "New Meta AI Chip to Power the Metaverse and Create a New Virtual World"
+    excerpt: "Meta, the parent company of Facebook, Instagram, and WhatsApp, is developing its own AI chip to power its next-generation AI applications. The chip, called the Meta Training and Inference Accelerator (MTIA),"
+    publishedDateTime: 2023-05-19T16:45:00Z
+    webUrl: "https://www.gizmochina.com/2023/05/19/meta-ai-chip-metaverse/"
     type: article
     provider:
-      name: The Next Platform
-      domain: nextplatform.com
-    quality: 76
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 84
     images:
-      - url: "http://www.nextplatform.com/wp-content/uploads/2023/05/meta-platforms-mtia-die-shot.jpg"
-        width: 1125
-        height: 711
+      - url: "https://www.gizmochina.com/wp-content/uploads/2023/05/meta-ai-chip-metaverse.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "dD0q6XKtIGWgeJnCbhPgxSS7PiAgL3pEYILc1/SZidjjeGw16YwXEOKHqVS5WwFXxZyQE4kVoxIJ5gACKsHBl9rpz33A8T74y5s8Lp8WbnJEaxaWtJFHCM4SezUhgszxEVZINjixNTrGYumeSz8yRXEnzhoxWv0HAJa0jqTyRPU/svvyRsz+DzEcmkNRd6iZEPafMRfCu8Pq/uAoGUKRKrr5fDFZfZ+j98GGawS+4qe/B5+aSYjARRAN2oN86uLGm89NWwPDZbiPJvJh8gsN8//lPPj4CrpboGqultJ8fnkSM3FIuUM57A3E35LU7qJMx26iDgIKuNOo7aI3l8MSusWvh5QPdD+r2fJBh4wu/VK1NGXOlLMaQJ663ZERs1fHQ/7cnHnepAwDt+fHpFBvuVvcNbkSJ9LE+HyFctNSEQOoQxhUH4ujCacn8MkBwwAsewNoLGL3BIXKonlfi6drIGgcBBBsYu/GrPKZl9EL0E0ucP8VXAOym/8tUtuVLczTEj8sbjSoiZA5OLCpdiqPDA==;FxpVeoSZqr/u1RKaHJgKpQ=="

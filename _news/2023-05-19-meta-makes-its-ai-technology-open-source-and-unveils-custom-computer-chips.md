@@ -114,6 +114,20 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 56
+  - title: "Meta AI plans: Optimised data centres, supercomputers and custom chips"
+    excerpt: "The RSC was unveiled in 2021. Meta has shared details of ambitious plans for AI advancements, including a custom chip for running AI models, further tweaks of a supercomputer for AI research and an AI-optimised data centre design. In a blogpost published ..."
+    publishedDateTime: 2023-05-19T16:19:00Z
+    webUrl: "https://www.siliconrepublic.com/machines/meta-ai-supercomputers-data-centres-custom-ai-models-chips"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 54
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2023/05/AdobeStock_465855287_Editorial_Use_Only.jpeg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Meta Unveils AI Chips"
     excerpt: "Meta (NASDAQ:META) has built custom computer chips to help with its artificial intelligence and video-processing tasks and is talking about them in public for the first time. The social networking giant disclosed its internal silicon chip projects"
     publishedDateTime: 2023-05-19T13:58:00Z

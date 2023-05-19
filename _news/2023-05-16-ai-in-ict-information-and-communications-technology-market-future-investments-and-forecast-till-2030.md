@@ -100,22 +100,6 @@ related:
         width: 768
         height: 438
         isCached: true
-  - title: "AI-generated disinformation poses threat of misleading voters in 2024 election"
-    excerpt: "Computer engineers and political scientists have warned for years that cheap, powerful artificial intelligence tools would soon allow anyone to create fake images, video and audio that was realistic enough to fool voters and perhaps sway an election."
-    publishedDateTime: 2023-05-14T23:52:00Z
-    webUrl: "https://www.pbs.org/newshour/politics/ai-generated-disinformation-poses-threat-of-misleading-voters-in-2024-election"
-    ampWebUrl: "https://www.pbs.org/newshour/amp/politics/ai-generated-disinformation-poses-threat-of-misleading-voters-in-2024-election"
-    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/politics/ai-generated-disinformation-poses-threat-of-misleading-voters-in-2024-election"
-    type: article
-    provider:
-      name: PBS
-      domain: pbs.org
-    quality: 53
-    images:
-      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2023/05/GettyImages-1309763384-1024x683.jpg"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "2023-2030 AI in ICT (Information and Communications Technology) Market: Highlights with Growth Data"
     excerpt: "Market ” Is Projected To Raise Significantly At A Maximum CAGR During The Forecast Period (2023-2030). The Market Is Expected to Witness the Highest Demand World Widely. Pre and Post-COVID Study of AI in ICT (Information and Communications Technology) Market Is Covered in The Most Recent Updated Report [ 2023-2030 ]."
     publishedDateTime: 2023-05-15T17:18:00Z

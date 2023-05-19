@@ -68,21 +68,21 @@ related:
         width: 1200
         height: 676
         isCached: true
-  - title: "What enterprises need to know about adopting generative AI"
-    excerpt: "Enterprises that embrace and master generative AI will gain a competitive edge and create new opportunities for growth and innovation."
-    publishedDateTime: 2023-05-14T23:11:00Z
-    webUrl: "https://venturebeat.com/ai/what-enterprises-need-to-know-about-adopting-generative-ai/"
-    ampWebUrl: "https://venturebeat.com/ai/what-enterprises-need-to-know-about-adopting-generative-ai/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/what-enterprises-need-to-know-about-adopting-generative-ai/amp/"
+  - title: "Apple is on the hunt for generative AI talent"
+    excerpt: "Apple currently has a dozen of job postings on its career page to look for experts in the field of generative AI."
+    publishedDateTime: 2023-05-19T16:23:00Z
+    webUrl: "https://techcrunch.com/2023/05/19/apple-generative-ai-jobs/"
+    ampWebUrl: "https://techcrunch.com/2023/05/19/apple-generative-ai-jobs/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/19/apple-generative-ai-jobs/amp/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
+      name: TechCrunch
+      domain: techcrunch.com
     quality: 87
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1133176856.jpg?w=1200&strip=all"
+      - url: "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1247232650.jpg?resize=1200,700"
         width: 1200
-        height: 655
+        height: 700
         isCached: true
   - title: "Parallel Domain unveils Reactor, a generative AI-based synthetic data generation engine"
     excerpt: "New tool from Parallel Domain enhances AI performance in industries such as autonomous vehicles and drones by hgeneratingigh-quality images."
@@ -115,6 +115,22 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/ai-health.jpg"
         width: 1920
         height: 1633
+        isCached: true
+  - title: "Apple looking to hire machine learning engineers with an interest in generative AI"
+    excerpt: "Apple's Technology Development Group (TDG) is looking for Machine-Learning engineers with a background and/or interest in Generative AI! You will be leveraging innovative Generative models to build fundamental applications on top of Apple's most advanced ..."
+    publishedDateTime: 2023-05-19T17:17:00Z
+    webUrl: "https://appleinsider.com/articles/23/05/19/apple-looking-to-hire-machine-learning-engineers-with-an-interest-in-generative-ai"
+    ampWebUrl: "https://appleinsider.com/articles/23/05/19/apple-looking-to-hire-machine-learning-engineers-with-an-interest-in-generative-ai/amp/"
+    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/23/05/19/apple-looking-to-hire-machine-learning-engineers-with-an-interest-in-generative-ai/amp/"
+    type: article
+    provider:
+      name: AppleInsider
+      domain: appleinsider.com
+    quality: 68
+    images:
+      - url: "https://photos5.appleinsider.com/gallery/54505-110094-Apple-Siri-xl.jpg"
+        width: 1312
+        height: 738
         isCached: true
   - title: "ActiveCampaign Introduces Content Generation Powered by AI"
     excerpt: "The marketing automation provider invests in generative AI, helping customers improve engagement, conversion rates, and the overall customer"

@@ -134,6 +134,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Fearing leaks, Apple restricts its employees from using ChatGPT and AI tools"
+    excerpt: "According to internal sources and company documents reviewed by The Wall Street Journal, Apple has restricted its employees' use of ChatGPT and AI coding tools such as GitHub Copilot for fear of leaking confidential data to outside sources."
+    publishedDateTime: 2023-05-19T16:16:00Z
+    webUrl: "https://arstechnica.com/information-technology/2023/05/fearing-leaks-apple-restricts-its-employees-from-using-chatgpt-and-ai-tools/"
+    ampWebUrl: "https://arstechnica.com/information-technology/2023/05/fearing-leaks-apple-restricts-its-employees-from-using-chatgpt-and-ai-tools/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/05/fearing-leaks-apple-restricts-its-employees-from-using-chatgpt-and-ai-tools/amp/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 84
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/05/no_chatgpt_hero_3-800x450.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "ClearML unveils ClearGPT, a generative AI platform overcoming ChatGPT challenges"
     excerpt: "Open-source AI solutions firm ClearML today announced the launch of ClearGPT, a secure and enterprise-grade generative AI platform. The platform’s primary objective is to empower organizations to securely and efficiently deploy and utilize state-of-the-art large language models (LLMs) at scale."
     publishedDateTime: 2023-05-19T02:07:00Z
@@ -604,20 +620,6 @@ related:
         width: 1401
         height: 931
         isCached: true
-  - title: "Japanese digital minister pushes for AI use, but ChatGPT does not know who he is"
-    excerpt: "I asked ChatGPT who Kono Taro is and he came back with the wrong answer,” Mr Kono said in an interview with Bloomberg Television broadcast on Monday. “So you need to be careful,” he added. Mr Kono asks that his name be written in Japanese style,"
-    publishedDateTime: 2023-05-15T00:53:00Z
-    webUrl: "https://www.straitstimes.com/asia/east-asia/japanese-digital-minister-pushes-for-ai-use-but-chatgpt-does-not-know-who-he-is"
-    type: article
-    provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 34
-    images:
-      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2023/05/15/d5870040_0.jpg?VersionId=_hBCtc_r5VIlCWOxmn0yo9tYnSXsnUUW"
-        width: 860
-        height: 573
-        isCached: true
   - title: "ChatGPT CEO shares concern over AI being used to interfere with elections – video"
     excerpt: "Top technology CEOs testified before congress on the future of artificial intelligence, calling on lawmakers to introduce new regulations to limit its misuse"
     publishedDateTime: 2023-05-16T19:48:00Z
@@ -654,6 +656,20 @@ related:
       - url: "https://storage.googleapis.com/afs-prod/media/361322ea37f54f28815d564dfb7ba6a0/3000.jpeg"
         width: 3000
         height: 2000
+        isCached: true
+  - title: "Apple reportedly bans some employees from using ChatGPT as it works on its own AI model"
+    excerpt: "Apple Inc. has banned some employees from using OpenAI LP’s ChatGPT artificial intelligence service, according to a new report. The Wall Street Journal reported the development late Thursday, citing sources and an internal Apple document."
+    publishedDateTime: 2023-05-19T17:30:00Z
+    webUrl: "https://siliconangle.com/2023/05/19/apple-reportedly-bans-employees-using-chatgpt-works-own-ai-model/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 29
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/05/apple-1839363_960_720.jpg"
+        width: 960
+        height: 575
         isCached: true
   - title: "ChatGPT’s chief to testify before Congress as concerns grow about artificial intelligence"
     excerpt: "The head of the company that makes ChatGPT is set to testify before Congress as lawmakers call for new rules to guide the rapid development of AI technology."

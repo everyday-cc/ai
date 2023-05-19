@@ -51,14 +51,19 @@ related:
       domain: foxnews.com
     quality: 37
   - title: "Top Senate Dem: Congress 'must move quickly' on artificial intelligence legislation"
-    excerpt: "Senate Majority Leader Chuck Schumer says Congress “must move quickly” to regulate artificial intelligence and has convened a bipartisan group of senators to work on legislation"
-    publishedDateTime: 2023-05-18T17:34:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/top-senate-dem-congress-move-quickly-artificial-intelligence-99433002"
+    excerpt: "Senate Majority Leader Chuck Schumer says Congress “must move quickly” to regulate artificial intelligence and has convened a bipartisan group of senators to work on legislation. Schumer says the group met on Wednesday and that his staff has already met with close to 100 CEOs,"
+    publishedDateTime: 2023-05-18T21:29:00Z
+    webUrl: "https://www.chron.com/business/article/top-senate-dem-congress-must-move-quickly-on-18106841.php"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 11
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 31
+    images:
+      - url: "https://s.hdnux.com/photos/01/32/74/00/23838746/3/rawImage.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
 
 secured: "HrPs6N1Us3YZtuyzzewcSY2ZIMZbfl1/a3IQXs6+/MA7aPsMRMVGMDKZazq2lrhweZ6P6BZ/LPcF9xNhjHSi5wmWtVP3flalw519w0/9U7HfJq4rTkz0IBNm2XHY08A1wg5X7Mumx11eIFQ2XGcBkdA5E49l6p0Gq2YYOCGUprSorvSesX380vc9eI13N2EK4Tj+jlQcfE7awGo93vektP1BsnvOid6BfKEXJ1AEEq2IGm48yWEZ6b7L0/LWQAtTx17wvQPXOXHWb9DhzM5CnPu2u8KkI275AIDtqIrPInUy1twPFfO5ZD8tn5jgHer8hitq7CvK4yezJQ5XWxyp2mK5a5bZobNDj71lN5mF3wI=;IrWnkv+QAFvhoZQvdRZDcg=="
 ---

@@ -101,6 +101,20 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 56
+  - title: "Meta AI plans: Optimised data centres, supercomputers and custom chips"
+    excerpt: "The RSC was unveiled in 2021. Meta has shared details of ambitious plans for AI advancements, including a custom chip for running AI models, further tweaks of a supercomputer for AI research and an AI-optimised data centre design. In a blogpost published ..."
+    publishedDateTime: 2023-05-19T16:19:00Z
+    webUrl: "https://www.siliconrepublic.com/machines/meta-ai-supercomputers-data-centres-custom-ai-models-chips"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 54
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2023/05/AdobeStock_465855287_Editorial_Use_Only.jpeg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Meta Unveils AI Chips"
     excerpt: "Meta (NASDAQ:META) has built custom computer chips to help with its artificial intelligence and video-processing tasks and is talking about them in public for the first time. The social networking giant disclosed its internal silicon chip projects"
     publishedDateTime: 2023-05-19T13:58:00Z
@@ -155,6 +169,6 @@ related:
         height: 899
         isCached: true
 
-secured: "gCbbTn955vaiKW6UM/n3xpIzp2v3h6s9lsmSSVgy0h6QaJvSz9jOlpyAq1rz1K7NBVOYJAjUHo+cnlH1sV4cILCL78t2PYJXG5qExAc1j3kPsMLu5BugLZOz3Z5eXXIf06ZkjhHMJUFaZS6zkcv8LBhNnPUXrC8vl+CwHOr8Aq2qQavAcpl6nBr8O/RIuu0cRtdn3rVJ+0HAV9euaOgkeuHGljjAdc0KX9pGn/ztLpbZ9z7vllA1USl1EELKTh42SoV8z40u/Czghl2nEdufqmk4Z0jMKQiIXIyVLKDCH4XjPafi29dff+L9dyPOwWT8OPrZjrY0f4i+Y/YvpYyGhsFI19fIUQG/XsItgSuWgSw=;OKKO6QO1sarJ5UJK3lasAA=="
+secured: "9Z050s2Snq7DweZP7lvvcJSO7hwdHwH4c4VCysIyiAgAMs4O8Nza5H+9W4IFKP07iuvSAvD2FMfi4OqkjBW1kNO3GA9T3YT4DTZ9wfpIGDW32rUOlC9ZagS3c2PYIVT1V0LlrJuuLNQc4/PMeBH/YMbbRIRvsKk+nyYVCuYeZhTvbQIj8nMVtvsKARZF6zk/fd222bCpj3m/K8TBSW9tGixEBoDehKlUbcM8VrBN39r5LTo9uFUDyOpO4epVF/ibpNJ5pvCZ5CUmvPjSCfXoPs6GxdBSLWTTyQPe7mlHbbJkVkVUZPNJoI8cF78kvN+pJEFfvdtmWEm3cJjLEXdV418Q+EpKkb1fC3aLbPdFctuQzrWdDHB8alAkiqARAkK6/rcY90ttOdUv+OYLS57zNAom+yk+xnzVysN+/4zOyNqUez1xHAhVcDQIn8SbJ9VaIkPkmV1jO6OuocGiblW10noahRwagsqT2Sauj33SRG2YSD329eP2qPk6GqgG529Edh2ys80fB1NHQZocn6ddeA==;MrvC3PYC84NJmdVndQ33iw=="
 ---
 

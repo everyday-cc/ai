@@ -44,6 +44,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Which Artificial Intelligence Stocks Are Institutional Investors Buying?"
+    excerpt: "We are currently witnessing ever-increasing use cases and growing acceptance of AI in every walk of life. Here are 7 AI stocks getting institutional attention."
+    publishedDateTime: 2023-05-19T17:22:00Z
+    webUrl: "https://www.forbes.com/sites/investor-hub/article/which-artificial-intelligence-stocks-are-institutional-investors-buying/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 68
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/646699007031f328f841e295/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 622
+        isCached: true
   - title: "AI boom could expose investors’ natural stupidity"
     excerpt: "My colleagues, they study artificial intelligence,” the Israeli psychologist Amos Tversky once quipped. “Me, I study natural stupidity.” The co-founder of behavioural economics, who died in 1996, did not live to see 2023,"
     publishedDateTime: 2023-05-19T07:56:00Z

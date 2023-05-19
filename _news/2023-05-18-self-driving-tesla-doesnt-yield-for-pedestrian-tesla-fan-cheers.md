@@ -57,22 +57,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Tesla To Roll Out Free One-Month Full Self-Driving Trial Once It’s “Super Smooth”"
-    excerpt: "Elon Musk tweeted that Tesla will offer free FSD trials for users in North America and, eventually, the rest of the world"
-    publishedDateTime: 2023-05-15T00:19:00Z
-    webUrl: "https://www.carscoops.com/2023/05/tesla-to-roll-out-free-one-month-full-self-driving-trial-once-its-super-smooth/"
-    ampWebUrl: "https://www.carscoops.com/2023/05/tesla-to-roll-out-free-one-month-full-self-driving-trial-once-its-super-smooth/amp/"
-    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2023/05/tesla-to-roll-out-free-one-month-full-self-driving-trial-once-its-super-smooth/amp/"
-    type: article
-    provider:
-      name: Carscoops
-      domain: carscoops.com
-    quality: 54
-    images:
-      - url: "https://www.carscoops.com/wp-content/uploads/2021/10/Tesla-Full-Self-Driving.jpg"
-        width: 1920
-        height: 1040
-        isCached: true
   - title: "Elon Musk says Tesla’s self-driving tech is better than humans"
     excerpt: "“It will actually get to the point where it is not merely safer than a person but actually way smoother than manual driving,” he says. It’s not the first time Musk has predicted the dawn of self-driving cars. In 2019 he said people would be able to ..."
     publishedDateTime: 2023-05-17T23:15:00Z

@@ -59,6 +59,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Microsoft Bing AI Chat Widgets: How to Get Them on iOS and Android"
+    excerpt: "Microsoft launched artificial intelligence-powered search on Bing 100 days ago, celebrating the milestone with a few updates to the system this week. One of those is adding a chatbot widget for phone screens across both iOS and Android."
+    publishedDateTime: 2023-05-19T17:43:00Z
+    webUrl: "https://www.cnet.com/tech/services-and-software/microsoft-bing-ai-chat-widgets-how-to-get-them-on-ios-and-android/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/microsoft-bing-ai-chat-widgets-how-to-get-them-on-ios-and-android/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/microsoft-bing-ai-chat-widgets-how-to-get-them-on-ios-and-android/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 104
+    images:
+      - url: "https://www.cnet.com/a/img/resize/853677a4b747a7181eb4ba245c6a405d29d1bdbe/hub/2023/05/16/17988a0d-2942-4201-b8b7-7192081b55c4/gettyimages-1249309512.jpg?auto=webp&fit=crop&height=630&width=1200"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Twitter accuses Microsoft of misusing its data, foreshadowing a fight over AI"
     excerpt: "In a letter, a lawyer for Musk accused Microsoft of misusing the service’s data and demanded an audit from the software giant."
     publishedDateTime: 2023-05-19T14:53:00Z

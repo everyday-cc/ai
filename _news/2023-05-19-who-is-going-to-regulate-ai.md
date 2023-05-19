@@ -3,10 +3,10 @@ category: news
 title: "Who Is Going to Regulate AI?"
 excerpt: "As businesses and governments race to make sense of the impacts of new, powerful AI systems, governments around the world are jostling to take the lead on regulation. Business leaders should be focused on who is likely to win this race,"
 publishedDateTime: 2023-05-19T12:05:00Z
-originalUrl: "https://hbr.org/2023/05/who-is-going-to-regulate-ai"
-webUrl: "https://hbr.org/2023/05/who-is-going-to-regulate-ai"
+originalUrl: "https://hbr.org/2023/05/who-is-going-to-regulate-ai?ab=HP-hero-latest-text-1"
+webUrl: "https://hbr.org/2023/05/who-is-going-to-regulate-ai?ab=HP-hero-latest-text-1"
 type: article
-quality: 17
+quality: 37
 heat: -1
 published: false
 
@@ -16,6 +16,12 @@ provider:
 
 topics:
   - AI
+
+images:
+  - url: "https://hbr.org/resources/images/article_assets/2023/05/May23_28_5389503.jpg"
+    width: 1200
+    height: 675
+    isCached: true
 
 related:
   - title: "Trying to make sense of artificial intelligence? Here’s your guide"
@@ -44,6 +50,6 @@ related:
       domain: technologyreview.com
     quality: 17
 
-secured: "IrysxVEcVZB45IGyM2kx8orf3VTdLR9+akGe/EjUrFOKduqGDe31SX7AWChLxeMmgOsETSzlWG7oaUV3i+QwUiaRaxI/BFMms9y6aUhtKfVCtYjuBfWju7AXsiOs2cRpaU4sbTAbEPDxZ31TqLuzz7qmwcucvfGFCNgPA0WCBYFuTdMsw27SeWvLYe1amFmlOlBcx/MMYNpvXByhgPN7cM4XH/ku5vn8VKtvdvvX/vfYNABcFZebHNDU7qCVHiblFS0wvE7Sw/xCb3CEaS51yrO0nZtL/otyv3Gk+0IlWPM4YiIp3S0/Tl5F8X0FYfw6PJnbeagovZneeSaWtyOyBxeql/MJTjJMM3zLh/l9pZiRU4WapHLvzWFhUURndxE9imwSkkRb87RRggQquPIguleVi/n8htpNOFFvgywWxG+2pdVZzntLkPCTCjjgSAe34KphTUULXVq6j5e7XeJnuVccOoOBx5m3BFfK7QA7DvxBTLimPbpV9XrUq8MIy7lQVFCIsfOwZVZ8jjCWWcwiPw==;fbxjQfDYTSHwj8D5ILB7Ng=="
+secured: "YiAqohKEOh6Yowl6P5nwKQOokxAMV4Ok+Bthn0ceTuD00gIa1OhHli5JpbowUOM+umu3Ffs32ksRn/ASlhb4PhtzBfV8VTjO6kljQVX0LrWtlMiwZU+S2HBMbAYc8+gSYfPEhedICQBPnI/R62dWKPLh1A5vhZSKfxzD/BVwquCEwpYC4P/FkgVhl/ntjZ8UyOe9AQYqhU1YQoHnX/Sj95bIQYKhRNIOrEkf560qRCJXnRf+0QvfrsgK4nWvfYRjUCr2cN+0ee4lFylhwxFLp36AqL2tUFCHF4i08rB2esV9hCwXSMnA7bjeQN5r5oxOGVmChMuyuBtTOORRIPAXSnn4qfNOz2tuufPujkHSUL8=;3ovzmh+TipN2QUJaTGOeNQ=="
 ---
 

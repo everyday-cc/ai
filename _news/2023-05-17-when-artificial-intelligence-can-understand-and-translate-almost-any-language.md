@@ -69,20 +69,6 @@ related:
         width: 700
         height: 504
         isCached: true
-  - title: "72-year-old congressman pursuing master's degree to better understand AI"
-    excerpt: "At age 72, U.S. Rep. Don Beyer of Virginia is back in school and pursuing a master's degree. He hopes to gain a better understanding of AI to help craft better laws surrounding the emerging technology."
-    publishedDateTime: 2023-05-14T23:59:00Z
-    webUrl: "https://www.cbsnews.com/sanfrancisco/video/72-year-old-congressman-pursuing-masters-degree-to-better-understand-ai/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 36
-    images:
-      - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2023/05/14/41b1d16d-0a1a-4a53-ba4a-5ab2c9fbb2ec/thumbnail/1200x630/6c6e814066c8d1359aab9bb42eac29b9/0514-wn-strassmann-1967927-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "vxeW4W2XXvht9PpP/FZPnqPzCMimhdT0htRT8hx8GpgKPvctpuS/kBzvciRwG/8upljcLynEiOW9aKFbAnNmKHfOFeH42cEwJLsZjWb/LirwOVBPkh3skUudybQQ7EVwYgmkA3ToEvJHVW7ZBfNTlxSq+ZFC3lohNEeCp1QGvzgG6vopb9f3+7Ja9gdHcgh+UucKy7/945GJ9yXkbrEdN5o/ZFlsaBEJgYn+cfWtFlIcFod8iuPxZIf8ehPIusAdLvw/lR4FRMxRTqeakAkzG/KSxcD4JVMYWTWLtX7yqdBFPDiefLoumTkeMrjZ1t0TVMqKzWoBoDpPyFmso5IliGZ1V0kByRgb7RGkx/K3ZUX3cDdQ3364a92dARpC2hvH+7oA7W7D4iHhNsMGOgf/G87gIkhodkWNp5fDGS3xbF6ocYpLARsRHbeE449s+u/cq2dX1yz3KGK+lw6Xb/NtdjsR3kQwj6I02mXlJHSbD7s3/n5PPUGOjE5LEM3AjWoT17uUYM6ySEh7O9090/IA/w==;YcggpArEmkvv84sXvAHKpw=="
 ---

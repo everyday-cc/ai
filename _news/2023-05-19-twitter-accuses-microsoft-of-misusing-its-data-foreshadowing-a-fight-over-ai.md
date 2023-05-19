@@ -59,6 +59,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Microsoft Bing AI Chat Widgets: How to Get Them on iOS and Android"
+    excerpt: "Microsoft launched artificial intelligence-powered search on Bing 100 days ago, celebrating the milestone with a few updates to the system this week. One of those is adding a chatbot widget for phone screens across both iOS and Android."
+    publishedDateTime: 2023-05-19T17:43:00Z
+    webUrl: "https://www.cnet.com/tech/services-and-software/microsoft-bing-ai-chat-widgets-how-to-get-them-on-ios-and-android/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/microsoft-bing-ai-chat-widgets-how-to-get-them-on-ios-and-android/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/microsoft-bing-ai-chat-widgets-how-to-get-them-on-ios-and-android/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 104
+    images:
+      - url: "https://www.cnet.com/a/img/resize/853677a4b747a7181eb4ba245c6a405d29d1bdbe/hub/2023/05/16/17988a0d-2942-4201-b8b7-7192081b55c4/gettyimages-1249309512.jpg?auto=webp&fit=crop&height=630&width=1200"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "KPI Partners achieves Microsoft Azure Solutions Partner Designation for Data & AI"
     excerpt: "KPI Partners, a global trusted strategic partner for Analytics and Digital Transformation solutions, announced today that it has achieved Microsoft Azure Solution Partner status in Data & AI. This recognition showcases the company's extensive ability to support customers in managing and governing their data across various systems."
     publishedDateTime: 2023-05-16T17:06:00Z
@@ -414,6 +430,6 @@ related:
       domain: tmcnet.com
     quality: 18
 
-secured: "PB6UedoBm8vSht5JeOVAIOK0+8R0a2p8BAa1uFTw8/WUylDgJ6eNaqQTIeikC9jlT5FhZuGQbje7JhvVzzgpw3urGINqo87/Owe2nhzXtSKuAKs1opvr24EKv3FRxb7AoZBpUcsY4HKRfk9AI0IlheEQweVZ8R5r54o4jOHE0GQTTVwmsBeyC4FJrmi7+z00bnNXu5EGm3BYn94onZgYVbHwzMeKDp2CVHrpjeqZgvYWzqRSmYmxcYpo7G7Acao+PIYkM5apTImOBgDHt9c85EjXcVI2Hy1+PuTjI2nGozK1aAXnQshlloVrjX4zGZcpv7g7TdtSO6g51VJXkWoDCzSHPZdN9b3lxItMWuxzvrk=;b2Btacx2q9Wqcud1WZTLpg=="
+secured: "it3YT0WVaJMxf7J1hC4FG9qIWqh7dO6RCDx617zclRptrmgarb9hz7ieAXtPK8AoyhFihwDNZt2gBxo0iJc6c2HYF0JPZhB2E43hb1l0PPVi6z7iyMZndJYXdVc8grfyGLI4D2dOaMTvtbGkSY1bdBx31XYEtWL4yI3yIOBQsi8U0sXtUZSTEmZ81J3SnAUXhECbQ1riJsSDjkda35aRO+gdYklDMEbrvrT1oqy8uyMSCQYj3lxtFLAjKdjXm/S7OdyB4/BpkURzvhimN6s7GPzy2x+euMJRSHmZU0eW+I6Tf5qWTJGvPTGDzHZIvIiGgmMFpyxJ+gbNoOk44Yc5aHsHZ3ezhEMyTdPinN8r810NaeBatoBe5WYCImK5IGdrLXTPSbYXZuRLokC51OhAcl4PVlpShuGJcdlqKR9ESQSLtGyxjcSpmMOzXpHX6USWyQDh3vMfoD2XScQObXYOUIYeblTA1KdHJU36P2iRgfSK5d7JGWBbDhhqOizSKVWGXpjPB/lFheWVpDeipEN4zQ==;eYchhQa9zMIP90q8yqZ4Ow=="
 ---
 

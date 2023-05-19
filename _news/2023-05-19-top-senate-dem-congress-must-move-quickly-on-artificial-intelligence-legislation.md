@@ -1,21 +1,27 @@
 ---
 category: news
 title: "Top Senate Dem: Congress 'must move quickly' on artificial intelligence legislation"
-excerpt: "Senate Majority Leader Chuck Schumer says Congress “must move quickly” to regulate artificial intelligence and has convened a bipartisan group of senators to work on legislation"
-publishedDateTime: 2023-05-18T17:34:00Z
-originalUrl: "https://abcnews.go.com/Business/wireStory/top-senate-dem-congress-move-quickly-artificial-intelligence-99433002"
-webUrl: "https://abcnews.go.com/Business/wireStory/top-senate-dem-congress-move-quickly-artificial-intelligence-99433002"
+excerpt: "Senate Majority Leader Chuck Schumer says Congress “must move quickly” to regulate artificial intelligence and has convened a bipartisan group of senators to work on legislation. Schumer says the group met on Wednesday and that his staff has already met with close to 100 CEOs,"
+publishedDateTime: 2023-05-18T21:29:00Z
+originalUrl: "https://www.chron.com/business/article/top-senate-dem-congress-must-move-quickly-on-18106841.php"
+webUrl: "https://www.chron.com/business/article/top-senate-dem-congress-must-move-quickly-on-18106841.php"
 type: article
-quality: 11
+quality: 31
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Houston Chronicle
+  domain: chron.com
 
 topics:
   - AI
+
+images:
+  - url: "https://s.hdnux.com/photos/01/32/74/00/23838746/3/rawImage.jpg"
+    width: 2048
+    height: 1365
+    isCached: true
 
 related:
   - title: "Reddit cofounder says the US government is not equipped to regulate AI and must get 'up to speed quickly'"
@@ -58,6 +64,6 @@ related:
         height: 960
         isCached: true
 
-secured: "z/wimoSCf8H7uWd2mIJL7yT07CfIoTZovUzaQvDzswzSfgbrLN8pjZ53+q8o0J3hz8NarDd0pW8G9r9iSBmBSQ25H1lR9DRexZCmq+G+PXL47llOv1Fv90tNRWbhORUnJqRqVGVOy2pO4ttQHcq1mxMI2/qOrvHZxmIKUo7nm4wRU3aB+Vla8rnsdBmyvDAJDJ2ABpATWrOi216R+kFkvlNULVa9AzZEUl9Pq1LHA7bChtfWyyfSmUKVDtKurVFgqQgtea71YcztxSHYF3vvbZ4nbwr3hnoHxpGrZKPxs/vJyyDJ5fqO2h5/JrxK/Lj4OBLxcIjTe3pjeV10caPpCq0QO9r8iQTUsTIYkamzBGoXOBypFeMvkTRKq5lANcBLNiq5eJziLYFmfMQt8kUhQgs3bwv5reWjhSg9O4uYBC9pdjtZEtzVqG+Si3uroB29LbtCDga9lqHVX5FLSDWAft5ZdF41BQp/5QQ0f5rsYVdSLJzZy8nmcR4nOU2SoX3FMoO/ZgLQi7/xHzBkSzeW6Q==;JFAynqSniVkaX6FmvvIqJg=="
+secured: "U7xf8tfzKuXsUZnnkYGvXhhTMDKC1Bit/uDETTQtIxNkuC6RT+sSfQjeebMQwtXZm/A1pdW8iCGc3UhoTkjlrWMgsMmGQ6RDX69ekm/v+t4zOfK0zdGo3hdZpayJje8Eonn0nbVwLEgxL2M5vcg0JEit1ghzRVEFjPsWKEC5jUzks/yYz1xm5yN3q1Isgd8MyIbL1oK50AnRUOtTrC4M70xHtkv2kOSXzlt9cuwUH43MqBJtucBCpcY/2eilTMmVaYha7XuAKKrvApoCN0duaqpvAb2zom/kHTrMRyy5BIo6T2YAop/c/D9y5PzzoFC8WiLUlAGThZhHE0nGtbjsFlq46V+iZBA3q/ORQxEudII=;NczexPYdaqrvI7ipCi5nMQ=="
 ---
 

@@ -117,6 +117,17 @@ related:
       name: altfi
       domain: altfi.com
     quality: 19
+  - title: "Xiao-I Launches Revolutionary Intelligent Document Processing Solution, Catalyzing the Future of Enterprise Document Management"
+    excerpt: "Xiao-I Corporation (NASDAQ:AIXI) (\"Xiao-I\" or the \"Company\"), a leading cognitive artificial intelligence (\"AI\") enterprise in China, today announced the launch of its"
+    publishedDateTime: 2023-05-19T02:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/05/g32479684/xiao-i-launches-revolutionary-intelligent-document-processing-solution-catalyzing-the-future-of-en"
+    ampWebUrl: "https://www.benzinga.com/amp/content/32479684"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32479684"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 0
 
 secured: "x3dU7IkjfhUy1QcvqNSROzT2V8ObqftUst1p0TwGUC2O0oyTKlia6Pnqt85+eaI5uMNTWCpjRoL0TKcrVOC8IabXKXpkzfKXunRrxPUlJiLJ0rQDEfzve49udNeb5fryeIAO5eUcGpQ3cEUMN5SvJN/Gd4g2x1EUtMPSqvxHYXsxifpwiHcP7KbuCi2n4EBYOZIApumxuJ/UKpsYj5LxrgtJ97C8WtdL38M/x3QcZUVnZX9rzQ70qkbIsDxGwQBXFkS1VJHXm04+vuNtnxp5S9S2VEFwvNs0mV5ChCaYyBxEVZeZA0gZj0T2IRHkP68XfvT4BqeOmCLvhO4LIlsV/fmMdNqjM4knLlXDv0vVoG8=;lQBXWDorWR4lGsutsoTZ7Q=="
 ---

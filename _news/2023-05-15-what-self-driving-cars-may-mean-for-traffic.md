@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "How Google's Self-Driving Car Will Change Everything"
-    excerpt: "The hype around driverless cars has grown rapidly over ... computer-processing capabilities and sophisticated artificial intelligence systems are becoming more advanced and more affordable every ..."
-    publishedDateTime: 2023-05-14T23:44:00Z
-    webUrl: "https://www.investopedia.com/articles/investing/052014/how-googles-selfdriving-car-will-change-everything.asp"
-    type: article
-    provider:
-      name: Investopedia
-      domain: investopedia.com
-    quality: 24
-    images:
-      - url: "https://www.investopedia.com/thmb/7VBCRiddsGRnBOFFrpQfDTZJTuc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/google-car_ap353779913372-5bfc376146e0fb0051c0d8d7.jpg"
-        width: 680
-        height: 440
-        isCached: true
   - title: "9 in 10 drivers not keen on buying a self-driving car, survey claims"
     excerpt: "Motoring experts asked 1000 car insurance customers whether they would be keen to buy a self-driving car and 87% said they wouldn’t."
     publishedDateTime: 2023-05-18T13:21:00Z
