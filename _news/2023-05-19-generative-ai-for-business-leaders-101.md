@@ -53,22 +53,6 @@ related:
         width: 1200
         height: 801
         isCached: true
-  - title: "WorkHack Targets Big Businesses As They Fumble With Generative AI"
-    excerpt: "WorkHack’s platform is aimed at large enterprises that are keen to develop new use cases for generative AI but nervous about how to do so safely and effectively. “We want to help them use this technology responsibly and thoughtfully,” explains Akshat Tyagi, the founder of the company."
-    publishedDateTime: 2023-05-15T06:30:00Z
-    webUrl: "https://www.forbes.com/sites/davidprosser/2023/05/15/workhack-targets-big-businesses-as-they-fumble-with-generative-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/davidprosser/2023/05/15/workhack-targets-big-businesses-as-they-fumble-with-generative-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidprosser/2023/05/15/workhack-targets-big-businesses-as-they-fumble-with-generative-ai/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/645e4c3f71fe50b2fd1853c6/0x0.jpg?format=jpg&crop=1284,723,x435,y153,safe&width=1200"
-        width: 1200
-        height: 676
-        isCached: true
   - title: "Apple is on the hunt for generative AI talent"
     excerpt: "Apple currently has a dozen of job postings on its career page to look for experts in the field of generative AI."
     publishedDateTime: 2023-05-19T16:23:00Z
@@ -146,22 +130,6 @@ related:
       - url: "https://mma.prnewswire.com/media/2077354/Chat_GPT_AI_Assistant___Opengraph_Twitter_Linkedin.jpg"
         width: 400
         height: 210
-        isCached: true
-  - title: "Prepare for generative AI with experimentation and clear guidelines"
-    excerpt: "Figure out your most probable use cases and get the tech into users’ hands, with guardrails. Expect to adapt your business processes as the technology matures."
-    publishedDateTime: 2023-05-15T07:01:00Z
-    webUrl: "https://www.computerworld.com/article/3695572/prepare-for-generative-ai-with-experimentation-and-clear-guidelines.html"
-    ampWebUrl: "https://www.computerworld.com/article/3695572/prepare-for-generative-ai-with-experimentation-and-clear-guidelines.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3695572/prepare-for-generative-ai-with-experimentation-and-clear-guidelines.amp.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 59
-    images:
-      - url: "https://images.idgesg.net/images/article/2023/05/chatbot-generative-ai-by-the-kong-via-shutterstock-100940897-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
         isCached: true
   - title: "Apple's Neural Engine and the generative AI game"
     excerpt: "While Apple’s pre-WWDC assistive technology announcements could be life-changing in their own right, one hidden element is the extent to which they exploit the powerful Neural Engine at the heart of Apple Silicon."

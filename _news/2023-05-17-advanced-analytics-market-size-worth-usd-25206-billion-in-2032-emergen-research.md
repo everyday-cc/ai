@@ -37,20 +37,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Healthcare Market Size Report 2023 | USD 164.10 billion Industry"
-    excerpt: "The GlobalArtificial Intelligence in Healthcare Market2023-2030, published recently by Fortune Business Insights,"
-    publishedDateTime: 2023-05-15T05:53:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-size-report-2023-usd-16410-billion-industry-2023-05-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 74
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Automotive Self-driving Chip Market Share, Size, Financial Summaries Analysis from 2023 to 2028"
     excerpt: "Automotive Self-driving Chip report is a comprehensive analysis of the market, covering various components such"
     publishedDateTime: 2023-05-17T03:59:00Z
@@ -60,6 +46,29 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 59
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Japan Natural Language Processing (NLP) Market Analysis By Growth, Emerging Trends and Future Opportunities Till 2031"
+    excerpt: "Research Nester has released a report titled \"Japan Natural Language Processing (NLP) Market: Demand Analysis & Opportunity Outlook 2031\" which also includes some of the prominent market analyzing parameters such as industry growth drivers,"
+    publishedDateTime: 2023-05-17T07:42:00Z
+    webUrl: "https://www.marketwatch.com/press-release/japan-natural-language-processing-nlp-market-analysis-by-growth-emerging-trends-and-future-opportunities-till-2031-2023-05-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 41
+  - title: "Artificial Intelligence in Medicine Market Size and Updated Report, Segments Analysis and Opportunities 2023-2031 | CAGR of 39.8%"
+    excerpt: "Artificial intelligence is viewed as the science and designing of ... foster unexpected issues that should be tended to by readmissions or restart of the therapy cycle. Such remote checking for patients released from medical services offices can ..."
+    publishedDateTime: 2023-05-16T15:18:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-medicine-market-size-and-updated-report-segments-analysis-and-opportunities-2023-2031-cagr-of-398-2023-05-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 40
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

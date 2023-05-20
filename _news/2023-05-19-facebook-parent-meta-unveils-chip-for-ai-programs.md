@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gadgetsnow.com/tech-news/facebook-parent-meta-unveils-ch
 cdnAmpWebUrl: "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/facebook-parent-meta-unveils-chip-for-ai-programs/amp_articleshow/100343511.cms"
 type: article
 quality: 74
-heat: 94
+heat: 95
 published: true
 
 provider:

@@ -125,20 +125,20 @@ related:
         height: 630
         isCached: true
   - title: "Are you who you say you are? TSA tests facial recognition technology to boost airport security"
-    excerpt: "The Transportation Security Administration has started using facial recognition technology at a number of airports across the country."
-    publishedDateTime: 2023-05-15T21:49:00Z
-    webUrl: "https://www.boston.com/travel/technology/2023/05/15/are-you-who-you-say-you-are-tsa-tests-facial-recognition-technology-to-boost-airport-security/"
-    ampWebUrl: "https://www.boston.com/travel/technology/2023/05/15/are-you-who-you-say-you-are-tsa-tests-facial-recognition-technology-to-boost-airport-security/?amp=1"
-    cdnAmpWebUrl: "https://www-boston-com.cdn.ampproject.org/c/s/www.boston.com/travel/technology/2023/05/15/are-you-who-you-say-you-are-tsa-tests-facial-recognition-technology-to-boost-airport-security/?amp=1"
+    excerpt: "A pilot project by the Transportation Security Administration assesses the use of facial recognition technology at a number of airports."
+    publishedDateTime: 2023-05-16T16:18:00Z
+    webUrl: "https://abc7.com/tsa-facial-recognition-airport-security-transportation-administration/13250231/"
+    ampWebUrl: "https://abc7.com/amp/tsa-facial-recognition-airport-security-transportation-administration/13250231/"
+    cdnAmpWebUrl: "https://abc7-com.cdn.ampproject.org/c/s/abc7.com/amp/tsa-facial-recognition-airport-security-transportation-administration/13250231/"
     type: article
     provider:
-      name: Boston.com
-      domain: boston.com
+      name: ABC7
+      domain: abc7.com
     quality: 79
     images:
-      - url: "https://www.boston.com/wp-content/uploads/2023/05/Facial_Recognition_Airports_79172-6461bb4fb69eb-scaled.jpg"
-        width: 2560
-        height: 1708
+      - url: "https://cdn.abcotvs.com/dip/images/10994202_090221-cc-ap-tsa-generic-img.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Multan airport 4th in country to get Facial Recognition System"
     excerpt: "The Multan International Airport has become the fourth in the country to have a functional Facial Recognition System, a Pakistan Civil Aviation Authority spokesperson confirmed Friday. The"

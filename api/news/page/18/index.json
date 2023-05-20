@@ -2,6 +2,187 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2023-05-09-schools-must-focus-on-deep-learning.md",
+      "title": "Schools must focus on deep learning",
+      "excerpt": "The experiential learning at Shabazz High School, described in the May 1 State Journal story \"Science here comes with waders, a fly rod,\" should be available to at least 30%",
+      "sourceUrl": null,
+      "webUrl": "https://madison.com/schools-must-focus-on-deep-learning/article_e8f521fc-7ec1-58d0-a539-e6b0c325e213.html",
+      "originalUrl": "https://madison.com/schools-must-focus-on-deep-learning/article_e8f521fc-7ec1-58d0-a539-e6b0c325e213.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-09T00:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Madison.com",
+        "domain": "madison.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-09-the-natural-language-processing-nlp-software-market-is-poised-to-experience-huge-growth-to-2023.md",
+      "title": "The Natural Language Processing (NLP) Software Market is Poised to Experience Huge Growth to 2023",
+      "excerpt": "Natural Language Processing (NLP) Software Market Size 2023 | New Report (120 Pages) | Analytics | In This Reports",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/the-natural-language-processing-nlp-software-market-is-poised-to-experience-huge-growth-to-2023-2023-05-09",
+      "originalUrl": "https://www.marketwatch.com/press-release/the-natural-language-processing-nlp-software-market-is-poised-to-experience-huge-growth-to-2023-2023-05-09",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-08T23:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-09-machine-learning-ml-platforms-market-size-by-2030.md",
+      "title": "Machine Learning (ML) Platforms Market Size By 2030",
+      "excerpt": "The report focuses on the volume and value of Machine Learning (ML) Platforms at the global, regional, and company levels. It analyzes historical data and future prospects to determine the overall Machine Learning (ML) Platforms market size.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-ml-platforms-market-size-by-2030-2023-05-09",
+      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-ml-platforms-market-size-by-2030-2023-05-09",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-08T23:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-09-ai-in-computer-vision-market-growth-and-revenue-forecast-by-2030.md",
+      "title": "AI In Computer Vision Market Growth and Revenue Forecast by 2030",
+      "excerpt": "Brief Overview of the AI In Computer Vision Market: During The Forecast Period Spanning from 2023 To 2030, The Global AI In Computer Vision Market Is Expected to Experience Significant Growth. As of 2022, The Market Is Steadily Increasing, and with The ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-growth-and-revenue-forecast-by-2030-2023-05-08",
+      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-growth-and-revenue-forecast-by-2030-2023-05-08",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 274,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-08T22:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-09-machine-learning-and-ai-improve-the-bottom-line.md",
       "title": "Machine Learning and AI Improve the Bottom Line",
       "excerpt": "Machine learning and artificial intelligence may appear futuristic, but these solutions have advanced rapidly to where end users experience them as a practical, vital tool for improving the bottom line.",
@@ -1007,205 +1188,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-08-host-ml-models-on-amazon-sagemaker-using-triton-tensorrt-models.md",
-      "title": "Host ML models on Amazon SageMaker using Triton: TensorRT models",
-      "excerpt": "Sometimes it can be very beneficial to use tools such as compilers that can modify and compile your models for optimal inference performance. In this post, we explore TensorRT and how to use it with Amazon SageMaker inference using NVIDIA Triton Inference Server. We explore how TensorRT works and how",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/host-ml-models-on-amazon-sagemaker-using-triton-tensorrt-models/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/host-ml-models-on-amazon-sagemaker-using-triton-tensorrt-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 176,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/05/08/host-ml-models-triton-tensorrt-1260x630.jpg",
-          "width": 1260,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-08T10:04:28-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-05-08-alex-jones-furious-after-falling-for-ai-generated-tucker-carlson-prank-call.md",
-      "title": "Alex Jones Furious After Falling For AI-Generated Tucker Carlson Prank Call",
-      "excerpt": "Conspiracy theorist Alex Jones went on a rant after being pranked by content creator Chris James, known as \"Prank Stallone.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/danidiplacido/2023/05/08/alex-jones-furious-after-falling-for-ai-generated-tucker-carlson-prank-call/",
-      "originalUrl": "https://www.forbes.com/sites/danidiplacido/2023/05/08/alex-jones-furious-after-falling-for-ai-generated-tucker-carlson-prank-call/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6459254af727a344f71170d1/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/danidiplacido/2023/05/08/alex-jones-furious-after-falling-for-ai-generated-tucker-carlson-prank-call/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danidiplacido/2023/05/08/alex-jones-furious-after-falling-for-ai-generated-tucker-carlson-prank-call/amp/",
-      "publishedDateTime": "2023-05-08T09:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-08-microsoft-rebuts-allegations-of-ai-chip-collaboration-with-amd-should-nvidia-worry.md",
-      "title": "Microsoft Rebuts Allegations Of AI Chip Collaboration With AMD, Should NVIDIA Worry?",
-      "excerpt": "People who are supposedly knowledgeable about the situation say Microsoft and AMD have teamed up to design AI chips to rival NVIDIA's product offerings.",
-      "sourceUrl": null,
-      "webUrl": "https://hothardware.com/news/microsoft-rebuts-allegations-ai-chip-collaboration-amd",
-      "originalUrl": "https://hothardware.com/news/microsoft-rebuts-allegations-ai-chip-collaboration-amd",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hothardware.com/contentimages/newsitem/61562/content/Microsoft_Processor_Hero.jpg",
-          "width": 708,
-          "height": 398,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-08T08:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HotHardware",
-        "domain": "hothardware.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-08-what-really-made-geoffrey-hinton-into-an-ai-doomer.md",
-      "title": "What Really Made Geoffrey Hinton Into an AI Doomer",
-      "excerpt": "The AI pioneer is alarmed by how clever the technology he helped create has become. And it all started with a joke.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/geoffrey-hinton-ai-chatgpt-dangers/",
-      "originalUrl": "https://www.wired.com/story/geoffrey-hinton-ai-chatgpt-dangers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/6458f22c4a854832b16fcf7b/191:100/w_1280,c_limit/GeoffHinton_Biz_h_15908078.jpg",
-          "width": 1280,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-08T08:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

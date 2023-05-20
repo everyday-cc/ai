@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Are you who you say you are? TSA tests facial recognition technology to boost airport security"
-excerpt: "The Transportation Security Administration has started using facial recognition technology at a number of airports across the country."
-publishedDateTime: 2023-05-15T21:49:00Z
-originalUrl: "https://www.boston.com/travel/technology/2023/05/15/are-you-who-you-say-you-are-tsa-tests-facial-recognition-technology-to-boost-airport-security/"
-webUrl: "https://www.boston.com/travel/technology/2023/05/15/are-you-who-you-say-you-are-tsa-tests-facial-recognition-technology-to-boost-airport-security/"
-ampWebUrl: "https://www.boston.com/travel/technology/2023/05/15/are-you-who-you-say-you-are-tsa-tests-facial-recognition-technology-to-boost-airport-security/?amp=1"
-cdnAmpWebUrl: "https://www-boston-com.cdn.ampproject.org/c/s/www.boston.com/travel/technology/2023/05/15/are-you-who-you-say-you-are-tsa-tests-facial-recognition-technology-to-boost-airport-security/?amp=1"
+excerpt: "A pilot project by the Transportation Security Administration assesses the use of facial recognition technology at a number of airports."
+publishedDateTime: 2023-05-16T16:18:00Z
+originalUrl: "https://abc7.com/tsa-facial-recognition-airport-security-transportation-administration/13250231/"
+webUrl: "https://abc7.com/tsa-facial-recognition-airport-security-transportation-administration/13250231/"
+ampWebUrl: "https://abc7.com/amp/tsa-facial-recognition-airport-security-transportation-administration/13250231/"
+cdnAmpWebUrl: "https://abc7-com.cdn.ampproject.org/c/s/abc7.com/amp/tsa-facial-recognition-airport-security-transportation-administration/13250231/"
 type: article
 quality: 79
 heat: -1
 published: false
 
 provider:
-  name: Boston.com
-  domain: boston.com
+  name: ABC7
+  domain: abc7.com
 
 topics:
   - Computer Vision
@@ -22,9 +22,9 @@ topics:
   - AI in Security
 
 images:
-  - url: "https://www.boston.com/wp-content/uploads/2023/05/Facial_Recognition_Airports_79172-6461bb4fb69eb-scaled.jpg"
-    width: 2560
-    height: 1708
+  - url: "https://cdn.abcotvs.com/dip/images/10994202_090221-cc-ap-tsa-generic-img.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -529,6 +529,6 @@ related:
       domain: extremetech.com
     quality: 19
 
-secured: "7dO/uIWVLwGXtGz9ZLWoNr+HcdIU99W28hsX/2DiNAoiBHuarQ+X8WdVDSGdGAy8RdYsNtky0dmFdbYAiTj98jT19udwQI4XGf3MpGPk+pC61+pvDn6UFOyY4asWYvOvYi/tFxFTPggEMERaObXQ4Sgjo/iGbUYAhW4ePyubtc9S63lRG514f/wkT8muMASpOfElmY0nFEPMeSy3JU7IhqMbL9LGVxGeyuxSU7C6Z/3HHOET2elfoGKqI2xqBiZEL+tL2YUxVC8FBTkDuZmBK4bfbyETRwX5Ik9rZcoLIdfZv7sf3Lfgerp6t9bwWN3hfWVdUvNgj4NjdnFyM4xpJCLCvzZqOh7NQ9H5EjtpwXAaR9klK/Noc+uIw5klp9KZSMVmFgw4IEUIXswFlg/lRNIpogKZvs3x8NZG4qiQnXuHS+qAf8p3xx1v3xFhr/MgyGVxH1EpRAatK+XZg9eQgYhN3vblme4G2jEfFK9IQMWqC7c4D5RoIbFArHmf6NYsv/ZyZ8x58f6pXzstvttdjw==;JfjrMOVOthGbNRy4I7BCRA=="
+secured: "NQYKPSEjp6LV7OLeNUxB663TsWPzs+L2CwVFdXdvdjMKezKVP5s4PzoGJSfNWYBf7C3ArN4r3quaYK487YJEmNXoWUo0kzviEdOyUw3sUmTLEfdCwAXQAQgWGB9GzAtZtW6OebS3qNI53cozlM3BTCH303fAXfQTPVHiTfosg/PLarFFXGrTWR3V8/5/r+CALUAVT/QhqeYwfUMpik9adE0JkCBobCn6ti1/myVlswu2SGhaUKLSYwVxJhp/F5AeZB7qjnYnZWGLC9jumsym8j39MMjYQYl9y6CB9FZ4gd6n2ulIYA7FdvgLfvPMG8iaY6r2uk1VY06WX9jK+VZMox8Gisy607GKp5HFvfkyiso=;MeQUprMeHi+XGr77NoDSSQ=="
 ---
 

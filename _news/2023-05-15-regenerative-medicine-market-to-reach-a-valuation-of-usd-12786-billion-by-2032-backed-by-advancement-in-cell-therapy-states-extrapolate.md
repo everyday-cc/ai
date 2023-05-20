@@ -21,15 +21,24 @@ topics:
   - AI
 
 related:
-  - title: "Motion Control Market Size Worth USD 27.17 Billion in 2032 - Emergen Research"
-    excerpt: "Discover the dynamic motion control market with offerings like actuators, motors, controllers, and sensors. Explore applications in automotive,"
-    publishedDateTime: 2023-05-17T09:10:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/motion-control-market-size-worth-usd-27-17-billion-in-2032---emergen-research-1032333023"
+  - title: "Hitachi Establishes New Generative AI Center To Accelerate Value Creation..."
+    excerpt: "Hitachi Establishes New Generative AI Center to Accelerate Value Creation and Improve Productivity in the Lumada business by promoting the use of G"
+    publishedDateTime: 2023-05-15T19:32:00Z
+    webUrl: "https://menafn.com/1106245586/Hitachi-Establishes-New-Generative-AI-Center-To-Accelerate-Value-Creation-And-Improve-Productivity-In-The-Lumada-Business-By-Promoting-The-Use-Of-Generative-AI"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 31
+      name: Mena FN
+      domain: menafn.com
+    quality: 18
+  - title: "Saifr™ Introduces Risk Interpretation and Suggested Language AI Models to Accelerate Compliant Content Creation"
+    excerpt: "Saifr's natural language processing (NLP) models \"read\" content and flag potential compliance risks in text and images. Risks are flagged as promissory, misleading, exaggerated, unwarranted or not fair and balanced."
+    publishedDateTime: 2023-05-16T13:24:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/05/16/9815209.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "4O/WzPoOaVV9k5aKhlp4Be3oECC7CXmH/4wUeVD5XRB1jd0l1ugBuNrrY6wpZMRi4uSJ9wNhLYwYgsnd6kSGlDdsW3cx9UHXwQfkyXJPXOpnA2suS9GPPERoeTkjwJoyXRSYLV0Ga8zkc38FGM0+4obQ9++42KU/36XIbmZbof0Pp3IxknJ3KRGWevMmWATow6EkjyXmchXOE9nm/11FzuXbSdUH56NjH/FJ+FE/UY78DW5awHwQJfC9K5OJbMDyYKS8Uxu2cDY8JKuGsYjhgMrrJXiscBjeIx+c3gAO1j9kihI5sgQv0b/oGv7bkrJVWQfFtljmLuzTQD6qtqrO/vsdKY6d9XF133+SbwUIla0=;DQ09fNvExXMfMGXjPaLKgA=="
 ---

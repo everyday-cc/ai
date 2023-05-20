@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "What self-driving cars may mean for traffic"
-    excerpt: "AI might be arriving with a bang, but autonomous cars are crawling closer at a snail’s pace. What’s the delay? And what can we expect to change on our roads in the next decade?"
-    publishedDateTime: 2023-05-15T07:01:00Z
-    webUrl: "https://www.thestar.com.my/lifestyle/living/2023/05/15/what-self-driving-cars-may-mean-for-traffic"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 24
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2023/05/15/2072912.jpg"
-        width: 800
-        height: 507
-        isCached: true
   - title: "9 in 10 drivers not keen on buying a self-driving car, survey claims"
     excerpt: "Motoring experts asked 1000 car insurance customers whether they would be keen to buy a self-driving car and 87% said they wouldn’t."
     publishedDateTime: 2023-05-18T13:21:00Z

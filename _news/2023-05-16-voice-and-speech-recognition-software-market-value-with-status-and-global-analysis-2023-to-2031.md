@@ -29,38 +29,66 @@ images:
     isCached: true
 
 related:
-  - title: "Data and AI Ethics Market with Future Opportunities 2023-2031"
-    excerpt: "The Global \"Data and AI Ethics Market\" report with 124 pages provides essential insights into the growth prospects"
-    publishedDateTime: 2023-05-15T06:14:00Z
-    webUrl: "https://www.marketwatch.com/press-release/data-and-ai-ethics-market-with-future-opportunities-2023-2031-2023-05-15"
+  - title: "Facial Recognition Devices Market Research, 2030"
+    excerpt: "Research Reports has published a new report titled as \"Facial Recognition Devices Market\" by End User (Security"
+    publishedDateTime: 2023-05-15T13:23:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-devices-market-research-2030-2023-05-15"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 84
+    quality: 69
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Global \"Data and AI Ethics Market\" to Expand Through 2023 and Beyond till 2030 | 113 Pages Report"
-    excerpt: "The Data and AI Ethics Market Scope and Overview Report for 2023 presents a detailed analysis of the latest trends in"
+  - title: "Computer Vision System Market Research | 2023-2030"
+    excerpt: "Research Reports has published a new report titled as \"Computer Vision System Market\" by End User (Automotive,"
+    publishedDateTime: 2023-05-16T00:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/computer-vision-system-market-research-2023-2030-2023-05-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Robot Firefighter Market Research | 2023-2030"
+    excerpt: "The Global Robot Firefighter market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players,"
+    publishedDateTime: 2023-05-16T10:46:00Z
+    webUrl: "https://www.marketwatch.com/press-release/robot-firefighter-market-research-2023-2030-2023-05-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Face Recognition Systems Market 2023-2030 Size and Driving Growth"
+    excerpt: "The Face Recognition Systems Market Scope and Overview Report for 2023 presents a detailed analysis of the latest trends"
     publishedDateTime: 2023-05-17T05:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-data-and-ai-ethics-market-to-expand-through-2023-and-beyond-till-2030-113-pages-report-2023-05-17"
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-systems-market-2023-2030-size-and-driving-growth-2023-05-17"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 71
+    quality: 69
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Voice Market Till 2030"
-    excerpt: "The Global Artificial Intelligence Voice market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players ..."
-    publishedDateTime: 2023-05-15T11:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-voice-market-till-2030-2023-05-14"
+  - title: "2023, Face Recognition Systems Market | Global Industry Analysis Till 2030"
+    excerpt: "Face Recognition Systems Market | Outlook 2023-2028 | Pre and Post-COVID Research is Covered, Report Information |"
+    publishedDateTime: 2023-05-16T06:17:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-face-recognition-systems-market-global-industry-analysis-till-2030-2023-05-16"
     type: article
     provider:
       name: MarketWatch
@@ -71,52 +99,10 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) in Agriculture Market Size in 2023-2030: Competitive landscape and Leading Country"
-    excerpt: "Additionally, the research report provides comprehensive data on the key factors driving the growth of the Artificial Intelligence (AI) in Agriculture market at both the national and local levels. The report includes market size forecasts in terms of value,"
-    publishedDateTime: 2023-05-15T14:22:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-agriculture-market-size-in-2023-2030-competitive-landscape-and-leading-country-2023-05-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 64
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence Market 2023 to Experience Significant Growth by 2030"
-    excerpt: "Global “Artificial Intelligence Market” 2023 | New Report | New Technology Global Industry | (94 Pages Report) With"
-    publishedDateTime: 2023-05-15T13:48:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-2023-to-experience-significant-growth-by-2030-2023-05-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 64
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "2023-2030 LegalTech Artificial Intelligence Market: Highlights with Growth Rate"
-    excerpt: "The LegalTech Artificial Intelligence Market is Expected to Lead During the Forecast Period 2023-2030 in ICT Sector. Market Growth Report Has Segmented the Global LegalTech Artificial Intelligence market report based on Type ( Document Management System,"
-    publishedDateTime: 2023-05-17T03:49:00Z
-    webUrl: "https://www.marketwatch.com/press-release/2023-2030-legaltech-artificial-intelligence-market-highlights-with-growth-rate-2023-05-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 63
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "2023 Artificial Intelligence-as-a-Service (AIaaS) Market Regional Outlook and Future Growth Scenario till 2030"
-    excerpt: "Market 2023 research is a key process that helps businesses gather and analyze information about their target Artificial Intelligence-as-a-Service (AIaaS) market, customers, competitors, and industry trends."
-    publishedDateTime: 2023-05-15T18:16:00Z
-    webUrl: "https://www.marketwatch.com/press-release/2023-artificial-intelligence-as-a-service-aiaas-market-regional-outlook-and-future-growth-scenario-till-2030-2023-05-15"
+  - title: "2023, Big Data & Machine Learning in Telecom Market Research Report Analysis by 2030"
+    excerpt: "The major players covered in the Big Data and Machine Learning in Telecom market report are: Get a sample copy of the Big Data and Machine Learning in Telecom Market report 2023 Short Summery About Big Data and Machine Learning in Telecom Market: Market Overview of Global Big Data and Machine Learning in Telecom market: According to our latest research,"
+    publishedDateTime: 2023-05-16T06:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-big-data-machine-learning-in-telecom-market-research-report-analysis-by-2030-2023-05-16"
     type: article
     provider:
       name: MarketWatch
@@ -127,24 +113,10 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Natural Language Processing and Recognition Market with Future Opportunities 2023-2030"
-    excerpt: "May 16, 2023 (The Expresswire) -- \"Natural Language Processing and Recognition Market\" Size 2023-2030 |Research Report| 116 Pages | extensively"
-    publishedDateTime: 2023-05-16T08:04:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-and-recognition-market-with-future-opportunities-2023-2030-2023-05-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 61
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence in Manufacturing Market Research [2023-2030] | Top Countries Data"
-    excerpt: "The \"Artificial Intelligence in Manufacturing Market\" A recently published research report by Precision Reports conducted"
-    publishedDateTime: 2023-05-16T18:27:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-manufacturing-market-research-2023-2030-top-countries-data-2023-05-16"
+  - title: "Facial Recognition Market Share, Size, Segmentation Analysis, Key segments and Forecast 2031"
+    excerpt: "Global Facial Recognition Market – Drivers’ Restraints’ Opportunities’ Trends’ and Forecast up to 2025. Facial Recognition Market is approximately USD 5 billion market that is expected to double by 2025."
+    publishedDateTime: 2023-05-15T15:10:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-share-size-segmentation-analysis-key-segments-and-forecast-2031-2023-05-15"
     type: article
     provider:
       name: MarketWatch
@@ -155,38 +127,38 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "2030, Artificial Intelligence as a Service Market Growth | Future Prospects and Competitive Analysis"
-    excerpt: "The \"Artificial Intelligence as a Service Market\" is one of the sectors that is expanding the fastest, thus it is"
-    publishedDateTime: 2023-05-15T15:58:00Z
-    webUrl: "https://www.marketwatch.com/press-release/2030-artificial-intelligence-as-a-service-market-growth-future-prospects-and-competitive-analysis-2023-05-15"
+  - title: "Facial Recognition Replaces Boarding Pass at Berlin Airport"
+    excerpt: "New biometric service for Lufthansa Group HON Circle Members and Senators at Berlin airport with “BER Traveller”"
+    publishedDateTime: 2023-05-16T14:37:00Z
+    webUrl: "https://eturbonews.com/facial-recognition-replaces-boarding-pass-at-berlin-airport/"
+    type: article
+    provider:
+      name: eturbonews
+      domain: eturbonews.com
+    quality: 54
+    images:
+      - url: "https://s9h7f8a7.rocketcdn.me/wp-content/uploads/2023/05/0-47-e1684247900334.jpg"
+        width: 600
+        height: 427
+        isCached: true
+  - title: "Speech & Voice Recognition Systems Market by 2030"
+    excerpt: "Research Reports has published a new report titled as \" Speech and Voice Recognition Systems Market \" by End User ( Consumer Entertainment, Telematics, Home Applications, Enterprise Applications ), Types ( Hardware,"
+    publishedDateTime: 2023-05-17T02:44:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-voice-recognition-systems-market-by-2030-2023-05-16"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 52
+    quality: 54
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Latest Report: Global “Natural Language Processing (NLP) Market” Trends [2023-2030]| Examining Future Advancements and Regional Insights"
-    excerpt: "[91 Pages Updated Report] The most recent \"Natural Language Processing (NLP) Market\" research report provides a comprehensive analysis of the main growth drivers, market size estimations, and forecasts. The report examines the current market scenarios ..."
-    publishedDateTime: 2023-05-16T10:31:00Z
-    webUrl: "https://www.marketwatch.com/press-release/latest-report-global-natural-language-processing-nlp-market-trends-2023-2030-examining-future-advancements-and-regional-insights-2023-05-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 51
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Cloud AI in Fintech Market Size 2023-2031 Competitive Landscape by Absolute Reports | with [87 Pages]"
-    excerpt: "May 16, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “Cloud AI in Fintech"
-    publishedDateTime: 2023-05-16T06:29:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-cloud-ai-in-fintech-market-size-2023-2031-competitive-landscape-by-absolute-reports-with-87-pages-2023-05-16"
+  - title: "Voice Recognition Market: Future Demands and Projected Industry Growths to 2028"
+    excerpt: "The voice recognition market is expected to exhibit substantial growth by 2028, owing to notable technological advancements in the sector. Additionally, prevalent incorporation of the technology in diverse applications is likely to further drive market expansion through the forecast period."
+    publishedDateTime: 2023-05-15T14:54:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-future-demands-and-projected-industry-growths-to-2028-2023-05-15"
     type: article
     provider:
       name: MarketWatch
@@ -197,43 +169,56 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Japan Natural Language Processing (NLP) Market Analysis By Growth, Emerging Trends and Future Opportunities Till 2031"
-    excerpt: "Research Nester has released a report titled \"Japan Natural Language Processing (NLP) Market: Demand Analysis & Opportunity Outlook 2031\" which also includes some of the prominent market analyzing parameters such as industry growth drivers,"
-    publishedDateTime: 2023-05-17T07:42:00Z
-    webUrl: "https://www.marketwatch.com/press-release/japan-natural-language-processing-nlp-market-analysis-by-growth-emerging-trends-and-future-opportunities-till-2031-2023-05-17"
+  - title: "2030, Facial Recognition Door Lock Market Growth | Expansion Plan and Latest Updates"
+    excerpt: "The \"Facial Recognition Door Lock Market\" research report for the period 2023-2030 offers a comprehensive analysis of"
+    publishedDateTime: 2023-05-16T12:42:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2030-facial-recognition-door-lock-market-growth-expansion-plan-and-latest-updates-2023-05-16"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 41
-  - title: "Artificial Intelligence in Medicine Market Size and Updated Report, Segments Analysis and Opportunities 2023-2031 | CAGR of 39.8%"
-    excerpt: "Artificial intelligence is viewed as the science and designing of ... foster unexpected issues that should be tended to by readmissions or restart of the therapy cycle. Such remote checking for patients released from medical services offices can ..."
-    publishedDateTime: 2023-05-16T15:18:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-medicine-market-size-and-updated-report-segments-analysis-and-opportunities-2023-2031-cagr-of-398-2023-05-16"
+    quality: 42
+  - title: "The possibly-unstoppable march of facial recognition"
+    excerpt: "The latest example is the Transportation Security Administration, which some senators and experts believe is “moving way too fast” to adopt facial recognition technology three months after the agency ignored lawmakers’ calls to pump the brakes on its usage."
+    publishedDateTime: 2023-05-17T20:05:00Z
+    webUrl: "https://www.politico.com/newsletters/digital-future-daily/2023/05/17/the-possibly-unstoppable-march-of-facial-recognition-00097476"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 40
+      name: Politico
+      domain: politico.com
+    quality: 39
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://static.politico.com/57/64/dff2b867457ea19b42bf7c926803/191227-facial-recognition-gty-773.jpg"
+        width: 3174
+        height: 2115
         isCached: true
-  - title: "Machine Learning Market Growth, Share, 2023 Global Trends, Opportunities, Future Plans, Competitive Landscape and Size by Forecast 2030"
-    excerpt: "The Global Machine Learning Market is Forecasted to Reach a Multimillion-Dollar Valuation by 2030, Exhibiting an Unexpected CAGR During the Forecast Period of 2023-2030, as Compared to Data from 2018 to 2022.Ask for a Sample Report According to our latest ..."
-    publishedDateTime: 2023-05-16T15:18:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-growth-share-2023-global-trends-opportunities-future-plans-competitive-landscape-and-size-by-forecast-2030-2023-05-15"
+  - title: "Mozn’s march to regional recognition – An AI story"
+    excerpt: "Following its participation in the inaugural DIFC FinTech Summit, Malik Alyousef, co-founder and chief operating officer of Saudi-based AML and anti-fraud leader Mozn discusses trends, challenges, and more Mozn’s march to regional recognition – An AI story AI,"
+    publishedDateTime: 2023-05-19T07:03:00Z
+    webUrl: "https://www.arabianbusiness.com/resources/mozns-march-to-regional-recognition-an-ai-story"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 37
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
+      name: Arabian Business
+      domain: arabianbusiness.com
+    quality: 19
+  - title: "Community clinics get global recognition"
+    excerpt: "Community clinics got global recognition as a resolution on community-based healthcare in Bangladesh was unanimously adopted at the United Nations (UN) yesterday. The resolution titled -- 'Community-based primary health care: a participatory and inclusive approach to achieving universal health services' -- has given international recognition to community clinics,"
+    publishedDateTime: 2023-05-17T13:37:00Z
+    webUrl: "https://www.bssnews.net/news-flash/125917"
+    type: article
+    provider:
+      name: Bangladesh Sangsbad Sangstha
+      domain: bssnews.net
+    quality: 4
+  - title: "Home Office pushes for more police facial-recognition deployments"
+    excerpt: "UK policing minister Chris Philp is pressing for facial-recognition technology to be rolled out by police forces across England and Wales, and will likely push to integrate the tech with police body-worn video cameras. According to a report co-authored by ..."
+    publishedDateTime: 2023-05-17T13:21:00Z
+    webUrl: "https://www.computerweekly.com/news/366537695/Home-Office-pushes-for-more-police-facial-recognition-deployments"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 4
 
 secured: "/irKoXUnCXV1EDzMNl4r6aa73vbvrPQo40ebctwU4qZFHjFt8839LAfDGMr9zfj4eSkXUXJwi4+CqEIBTeuI/sGuJlFRZNGrJmDESWbl+OE3kAKyGwtBehJMi7w+JKH6ZvbaH306XbRFj1uLAKdESyRFtwLVkTNwZ2ROz4dC68NSxgIJYfaOfWaS5TynMKJPCnZRYwG29g41+EGTP+1uCv++hQpLYpWlR1mCQzaecZVvZDj7bvKxINZ8U/xo9Gyw9Vz4A6uCqcW13Bx53+fcmpCMTpvVsVDF0wM4+Ih2rK6w+DppfhX5LHpENx4bk+TugK4XHlmXxckr12E6MZMhzjwhdNVBtQI9A/dBHzQ/ayI=;97/oZZ43VPeKTm9+YQPGIg=="
 ---

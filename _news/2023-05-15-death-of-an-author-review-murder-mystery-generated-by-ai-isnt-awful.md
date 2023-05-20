@@ -38,6 +38,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Google’s Vertex AI machine learning platform gets generative AI tools"
+    excerpt: "The new updates to Google Cloud’s machine learning service will help the company square up against rivals such as Microsoft, AWS and IBM."
+    publishedDateTime: 2023-05-16T05:37:00Z
+    webUrl: "https://www.arnnet.com.au/article/707102/google-vertex-ai-machine-learning-platform-gets-generative-ai-tools/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 56
+    images:
+      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/dreamstime_s_125457497_2.jpg"
+        width: 473
+        height: 315
+        isCached: true
   - title: "Newspaper Apologizes for Accidentally Running Deranged AI-Generated Article"
     excerpt: "The anonymous person behind the AI-generated article in question ... The piece — which discussed cultural appropriation and the ethics of fake tanning through the purported lens of a fictional Latinx immigrant who grew up in Guayaquil, Ecuador ..."
     publishedDateTime: 2023-05-16T18:47:00Z

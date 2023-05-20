@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/32487349"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32487349"
 type: article
 quality: 31
-heat: 31
+heat: -1
 published: false
 
 provider:
@@ -19,6 +19,59 @@ provider:
 topics:
   - AI Hardware
   - AI
+
+related:
+  - title: "Global Cognitive Robotics Market Size To Worth USD 26.04 Billion By 2030 | CAGR Of 18.6%"
+    excerpt: "Some of the major players in the global cognitive robotics market include IBM Corporation, ABB Ltd., CognitiveScale Inc., Kuka AG, Blue River Technology, Intel Corporation, Omron Adept Technologies, Nvidia Corporation, Hanson Robotics Limited, Microsoft ..."
+    publishedDateTime: 2023-05-19T23:00:00Z
+    webUrl: "https://menafn.com/1106279412/Global-Cognitive-Robotics-Market-Size-To-Worth-USD-2604-Billion-By-2030-CAGR-Of-186"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 47
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?211889"
+        width: 444
+        height: 250
+        isCached: true
+  - title: "Artificial Intelligence (AI) Market Is Expected To Reach USD 1,581.70 Billion By 2030 With A Booming CAGR Of 38.0%"
+    excerpt: "Allied Market The report focuses on growth prospects, restraints, and analysis of the global artificial intelligence market trend. <"
+    publishedDateTime: 2023-05-15T10:51:00Z
+    webUrl: "https://menafn.com/1106243312/Artificial-Intelligence-AI-Market-Is-Expected-To-Reach-USD-158170-Billion-By-2030-With-A-Booming-CAGR-Of-380"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 32
+    images:
+      - url: "https://menafn.com/updates/pr/2023-05/15/EP_32692image_story.jpeg"
+        width: 632
+        height: 331
+        isCached: true
+  - title: "Motion Control Market Size Worth USD 27.17 Billion in 2032 - Emergen Research"
+    excerpt: "Discover the dynamic motion control market with offerings like actuators, motors, controllers, and sensors. Explore applications in automotive,"
+    publishedDateTime: 2023-05-17T09:10:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/motion-control-market-size-worth-usd-27-17-billion-in-2032---emergen-research-1032333023"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 31
+  - title: "Vision Screeners Market is anticipated to reach US$ 815.2 Million by 2029, with a CAGR of 5.9%"
+    excerpt: "During the projected period 2022 to 2029, the global Vision Screeners Market demand is expected to develop at a CAGR of 5.9%. The rising frequency of eye illnesses is a major factor driving market expansion."
+    publishedDateTime: 2023-05-16T07:49:00Z
+    webUrl: "https://www.fmiblog.com/2023/05/16/vision-screeners-market-is-anticipated-to-reach-us-815-2-million-by-2029-with-a-cagr-of-5-9/"
+    type: article
+    provider:
+      name: Future Market Insights
+      domain: fmiblog.com
+    quality: 12
+    images:
+      - url: "https://www.fmiblog.com/wp-content/uploads/2023/05/SMARTER-WAY-TO-DO-MARKET-RESEARCH-1-420x300.png"
+        width: 420
+        height: 300
+        isCached: true
 
 secured: "iFiDMun+WQQQScvdCw8kuAG2uUi46IYCgS9reRgAiB3w5WhlsRB8I/OIWetgKvv8suNX1VfLM2MM295nxKV3ytGB/ek9/xkCKBxTvE0FiMWrhTaz3ARMbL02228J6QVTet0fkoKxR5cd3UBeHaTR1KlWZT/gVxLV8Fmmr9vvYdVZF6U9o+mZYJPgHNRBbp/qjjrwfPl5m/k7v8nsJganZcqLSv6XA+3aHe/u83vz3mJoGJccTKb936nyVZQ7diClYwtBpurwNVD7Pa9Kap7D/XILut1f7K/mS75NrIqvJKrd3SCGrD8fYcmbWjHvHYKHFX5/nv9X87si/qtHVLtovZ2zYy1M37MTI6MWwU3Px/U=;zjIpFtzCQokuITd/XxuZIg=="
 ---

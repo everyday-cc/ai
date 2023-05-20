@@ -113,20 +113,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global 2023, Artificial Intelligence (AI) Software Market Analysis of New Report 2030"
-    excerpt: "Software market report are: Get a sample copy of the Artificial Intelligence (AI) Software Market report 2023 Artificial Intelligence (AI) Software Marketsize, segment (mainly coveringMajorType (, On-Premise,"
-    publishedDateTime: 2023-05-15T06:43:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-2023-artificial-intelligence-ai-software-market-analysis-of-new-report-2030-2023-05-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 75
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence (AI) in BFSI Market: 2023 Huge B2B Opportunities 2030 by Key Players"
     excerpt: "Artificial Intelligence (AI) in BFSI Market Report Overview 2023-2030: May 16, 2023 (The Expresswire) -- Overview of the for global ”Artificial"
     publishedDateTime: 2023-05-16T13:19:00Z

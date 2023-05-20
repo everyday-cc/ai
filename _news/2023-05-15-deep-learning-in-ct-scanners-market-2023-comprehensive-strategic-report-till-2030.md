@@ -29,10 +29,10 @@ images:
     isCached: true
 
 related:
-  - title: "2023, Computer Vision System Market Research Report Analysis by 2030"
-    excerpt: "Computer Vision System Market | Outlook 2023-2028 | Pre and Post-COVID Research is Covered, Report Information | Newest"
-    publishedDateTime: 2023-05-15T06:32:00Z
-    webUrl: "https://www.marketwatch.com/press-release/2023-computer-vision-system-market-research-report-analysis-by-2030-2023-05-15"
+  - title: "2023 Deep Learning Market Price & News with Size Forecast 2030"
+    excerpt: "Deep Learning Market Research Report 2023 is spread across 115 pages and provides Size, Share, Growth, and Forecast with exclusive vital statistics, data, information, trends, and competitive landscape details in this niche sector. The global Deep Learning ..."
+    publishedDateTime: 2023-05-16T10:31:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-deep-learning-market-price-news-with-size-forecast-2030-2023-05-15"
     type: article
     provider:
       name: MarketWatch
@@ -43,10 +43,10 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Facial Recognition Devices Market Research, 2030"
-    excerpt: "Research Reports has published a new report titled as \"Facial Recognition Devices Market\" by End User (Security"
-    publishedDateTime: 2023-05-15T13:23:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-devices-market-research-2030-2023-05-15"
+  - title: "Deep Learning in Manufacturing Market 2023-2030"
+    excerpt: "The major players covered in the Deep Learning in Manufacturing market report are: Get a sample copy of the Deep Learning in Manufacturing Market report 2023 Market Overview of Global Deep Learning in Manufacturing market: According to our latest research,"
+    publishedDateTime: 2023-05-16T06:22:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-in-manufacturing-market-2023-2030-2023-05-16"
     type: article
     provider:
       name: MarketWatch
@@ -57,10 +57,10 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Computer Vision System Market Research | 2023-2030"
-    excerpt: "Research Reports has published a new report titled as \"Computer Vision System Market\" by End User (Automotive,"
-    publishedDateTime: 2023-05-16T00:43:00Z
-    webUrl: "https://www.marketwatch.com/press-release/computer-vision-system-market-research-2023-2030-2023-05-15"
+  - title: "Overview of Machine Learning Market Dynamics and Trends for 2023-2030"
+    excerpt: "The research report on the Machine Learning Market presents an efficient industry perspective, future patterns,"
+    publishedDateTime: 2023-05-17T07:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/overview-of-machine-learning-market-dynamics-and-trends-for-2023-2030-2023-05-17"
     type: article
     provider:
       name: MarketWatch
@@ -71,43 +71,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Robot Firefighter Market Research | 2023-2030"
-    excerpt: "The Global Robot Firefighter market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players,"
-    publishedDateTime: 2023-05-16T10:46:00Z
-    webUrl: "https://www.marketwatch.com/press-release/robot-firefighter-market-research-2023-2030-2023-05-16"
+  - title: "Artificial Intelligence (AI) in Agriculture Market Size in 2023-2030: Competitive landscape and Leading Country"
+    excerpt: "Additionally, the research report provides comprehensive data on the key factors driving the growth of the Artificial Intelligence (AI) in Agriculture market at both the national and local levels. The report includes market size forecasts in terms of value,"
+    publishedDateTime: 2023-05-15T14:22:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-agriculture-market-size-in-2023-2030-competitive-landscape-and-leading-country-2023-05-15"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Face Recognition Systems Market 2023-2030 Size and Driving Growth"
-    excerpt: "The Face Recognition Systems Market Scope and Overview Report for 2023 presents a detailed analysis of the latest trends"
-    publishedDateTime: 2023-05-17T05:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-systems-market-2023-2030-size-and-driving-growth-2023-05-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "2023, Face Recognition Systems Market | Global Industry Analysis Till 2030"
-    excerpt: "Face Recognition Systems Market | Outlook 2023-2028 | Pre and Post-COVID Research is Covered, Report Information |"
-    publishedDateTime: 2023-05-16T06:17:00Z
-    webUrl: "https://www.marketwatch.com/press-release/2023-face-recognition-systems-market-global-industry-analysis-till-2030-2023-05-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 67
+    quality: 64
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -127,52 +99,48 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "2023, Big Data & Machine Learning in Telecom Market Research Report Analysis by 2030"
-    excerpt: "The major players covered in the Big Data and Machine Learning in Telecom market report are: Get a sample copy of the Big Data and Machine Learning in Telecom Market report 2023 Short Summery About Big Data and Machine Learning in Telecom Market: Market Overview of Global Big Data and Machine Learning in Telecom market: According to our latest research,"
-    publishedDateTime: 2023-05-16T06:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/2023-big-data-machine-learning-in-telecom-market-research-report-analysis-by-2030-2023-05-16"
+  - title: "Artificial Neural Networks Market Size, Key Segments, Share, Trends, Growth, and Forecast 2031"
+    excerpt: "The global Artificial Neural Networks industry report provides top-notch qualitative and quantitative information including: Market size (2017-2021 value and 2022 forecast). The report also contains descriptions of key players,"
+    publishedDateTime: 2023-05-16T11:33:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-neural-networks-market-size-key-segments-share-trends-growth-and-forecast-2031-2023-05-16"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 62
+    quality: 57
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Speech & Voice Recognition Systems Market by 2030"
-    excerpt: "Research Reports has published a new report titled as \" Speech and Voice Recognition Systems Market \" by End User ( Consumer Entertainment, Telematics, Home Applications, Enterprise Applications ), Types ( Hardware,"
-    publishedDateTime: 2023-05-17T02:44:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-voice-recognition-systems-market-by-2030-2023-05-16"
+  - title: "Global Computer Vision System Market with a Forecast Predicting Continued Booming Performance from 2023 to 2030"
+    excerpt: "The Computer Vision System Market research report is formulated such that it offers a deep understating on the market drivers that are assimilating the growth of the market, the m"
+    publishedDateTime: 2023-05-15T13:59:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-computer-vision-system-market-with-a-forecast-predicting-continued-booming-performance-from-2023-to-2030-2023-05-15"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 54
+    quality: 49
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "2023, BFSI Artificial Intelligence Market | Global Industry Analysis Till 2030"
-    excerpt: "BFSI Artificial Intelligence Market | Outlook 2023-2028 | Pre and Post-COVID Research is Covered, Report Information"
-    publishedDateTime: 2023-05-16T06:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/2023-bfsi-artificial-intelligence-market-global-industry-analysis-till-2030-2023-05-16"
+  - title: "2023 Self-Driving Street Sweeper Market Size and Insight Report in Machinery & Equipment Sector | with [106 Pages] and Forecast till 2031"
+    excerpt: "May 17, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" The Global \"Self-Driving Street Sweeper Market\" report [106 Pages] is a useful tool, for companies trying to keep ahead of the competition in ..."
+    publishedDateTime: 2023-05-17T13:09:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-self-driving-street-sweeper-market-size-and-insight-report-in-machinery-equipment-sector-with-106-pages-and-forecast-till-2031-2023-05-17"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 43
-  - title: "AI Speech Recognition Technology Market 2023 Regional Trade, Company Profile Analysis, Business Strategies and PESTEL Analysis by 2029"
-    excerpt: "Global AI Speech Recognition Technology Market report by MarketsandResearch.biz provides the Covid-19 impact on"
-    publishedDateTime: 2023-05-16T18:49:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-speech-recognition-technology-market-2023-regional-trade-company-profile-analysis-business-strategies-and-pestel-analysis-by-2029-2023-05-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 32
+    quality: 21
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "K236+NmuO0tEc0RnBogSJFEp/QHKkBzXGgYIOC4JVWe+o/Dhoq5aqtp307FShxHfScS4pNhRb2AzZrXhRM/HhrI0XkO7GpK3J5j+jstP0KXGSLax88syWGp5w+7+ygYewWUHPayZaBCC6XKCnbnMJk8o6LAKXLJuGErqQSefZy6V99w0vEHXKGkJ0l1KsNF3m0emrfcZjqeOk8FDSRaAUvsbXnHJ+wqryPqucZq3aRt+qD/nZ733GnNZUaU+JggeBUMVUZ425SoYK6ls0bBcaIaO3DmYSrN/Rubq0zlAy2RukXXAO47TllIXDDG6Zg6snpok8eIEA79TerDHW+BMjDaoidazu2TKiZyskhojSV4=;gpD3Nu7x0BfzboG8qX7oNg=="
 ---

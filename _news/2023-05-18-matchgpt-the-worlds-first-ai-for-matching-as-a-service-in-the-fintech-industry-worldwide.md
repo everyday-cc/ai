@@ -34,6 +34,15 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 41
+  - title: "Amazon is working on infusing generative AI into its shopping app"
+    excerpt: "Rivals adding generative AI features and consumer demand may be the two reasons behind Amazon’s push in revamping the search engine of its retail application. In the US, about 56% of product searches start on Amazon, higher than the 42% share of search ..."
+    publishedDateTime: 2023-05-16T09:52:00Z
+    webUrl: "https://www.computerworld.com/article/3696691/amazon-is-working-on-infusing-generative-ai-into-its-shopping-app.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 17
 
 secured: "996yXaIANRET/CMZC89mUv8aEQMJPRyuOQEdhV3VLyK7VsQzBqQC3vkqksko+b7RTxMrRNkUf/xJesmmGVYc7EvrJMqFZrO8hgFdtlCCrJrP1ozm3wANfMubYsexahrrFWlfgIl8szteYA22BGMopjCmmwgtSVKafB4irDxSnXLyk8MbH3ixCe95AyIcGnSsLffVgb/TLT2oIqk/JW4VajvE5+nPm34K2dpZeTUEojL5LbqJZ1ESXBTiv0yQ04+gyqEcf5ST9TBkBQOV3tz7NrWSgp8Tp6UCzVzhhXQ8fycXA6M9GgYl3Wg2o1MtDn5AFb8nNdc0oDwxeZLmIhaRHVWCKOWBKcdvopJflDiijNNLurLRq6PBF2i2efiiL0KwnuZnTGugejDozOAk7iqBMRdTd2d0j5oMXkveEDApvqnFfICwUggIrfJxvPGtZjpq/VgbyDDDe0guzvAUunGGEd1io33/ikDXIZJHH/DyJ9uHcxQbozOhwiwtwjlFXO5p2pzz777Kv6WW/DK9AGkBvQ==;aIDYpJ2RYZZiUs0JQIPpXg=="
 ---

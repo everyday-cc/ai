@@ -112,20 +112,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global 2023, Artificial Intelligence (AI) Software Market Analysis of New Report 2030"
-    excerpt: "Software market report are: Get a sample copy of the Artificial Intelligence (AI) Software Market report 2023 Artificial Intelligence (AI) Software Marketsize, segment (mainly coveringMajorType (, On-Premise,"
-    publishedDateTime: 2023-05-15T06:43:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-2023-artificial-intelligence-ai-software-market-analysis-of-new-report-2030-2023-05-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 75
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Facial Recognition Access Control Solutions Market Upto 2030"
     excerpt: "Research Reports has published a new report titled as \"Facial Recognition Access Control Solutions Market\" by End"
     publishedDateTime: 2023-05-17T02:33:00Z
