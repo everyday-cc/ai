@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI Breakthrough Detects Alzheimer’s Early With Smartphones"
-    excerpt: "This model, potentially accessible via smartphones, can distinguish between Alzheimer's patients and healthy individuals with 70-75% accuracy."
-    publishedDateTime: 2023-05-15T22:51:00Z
-    webUrl: "https://neurosciencenews.com/ai-smartphone-alzheimers-23251/"
-    type: article
-    provider:
-      name: Neuroscience News
-      domain: neurosciencenews.com
-    quality: 39
-    images:
-      - url: "https://neurosciencenews.com/files/2023/05/ai-smartphone-alzheimers-voice-neurosciences.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Machine learning reveals sex-specific Alzheimer's risk genes"
     excerpt: "Research explores sex-specific gene associations in Alzheimer's disease using a machine-learning approach. It reveals immune response pathways in both sexes and stress-response pathways in males, highlighting potential biomarkers and therapeutic targets for personalized treatments."
     publishedDateTime: 2023-05-17T01:15:00Z
@@ -56,6 +42,6 @@ related:
         height: 1333
         isCached: true
 
-secured: "zgktE5Ic1D+ZzI2XkOi4cL/2La9cQCbg4l+K2q1zYXONR2uTxmVNUKCCxnmH0zhD86KebyMPYWgJjq5iZU9azBcNYJK1C2OD3/zDcpPrp11vio1vx98SxqKyCKZngUUxRbLSb2Lg6oxPiYQu2pF3FwlNwg42AW+ofaIh4mEbAqFKND8thvXSPvqSEaKZnlxyLRvaD+Dzkp2vur1aroDHCRrl/fdQWVqoDEh3imeoY3YkT9Sun3tQQBjnmt4FBgP2ysyMZFDlRPX5NsGXtPUkw8XZomANiNacGeYrHG6UYpA7GTOe3Vkz4H1Xx5MhePuFQ0MRYPHlgEsoTT6ZkdVVDZiMjqNAh3qikjctGvoMAXQ=;SPvOGtK+hWBQC57Hilh2Mw=="
+secured: "gFG1ziCGG9zL/+14Lhhz2LsIbdHb2Y8Ud9xy4p+4l5O08ThKLNmZuBCAHdYK5dqEk+Kc7AvE2XJNch8TTke4FZoI01yiajfkNW3zXWmBwLUa72nBZUdDVDaTacoZ83TY/EX8CxodoFm+4bEbg/A+/GgQ2b60hu0I2DNfo5R7LTIn2wi8ZthmCzAMsuKUUE8tUyvQZiafhfLZwu64/geq11KDgajrI9vcd4/G4xCJzzQtPQCmw9ff/jDAfIrnUBe3eDrwj3t9Dm0vXsilFQGRBpPch/QzDL+eTQeWs+XUlL2bjQRpB12Wxj3VQLXOuZpBlhUCB3T25BaOJvLafFHhaZedE0oioKEiPwCTlk4Lo5AOZ14JHZnN4g7h0eVTRywllo4/jAHeeLWJK/gBnrsXnFKtVvWk4r8CUtFL9aaXomak4rXz8bcDWLUSblwP4J806RRblFbKeRNB9qfSXXSEKP8WbPlj5LImllAqU+bA1MCAHp9ZiAPoMr12mMp/JXVw8RtNndUwZ10IanxAWQTd7w==;qx4TcQ23NVDzX+DQjR5mkw=="
 ---
 

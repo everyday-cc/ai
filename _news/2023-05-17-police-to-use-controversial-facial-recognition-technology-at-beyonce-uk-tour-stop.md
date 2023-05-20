@@ -25,49 +25,67 @@ images:
     isCached: true
 
 related:
-  - title: "Facial recognition technology raises concerns over misidentification, implicit bias"
-    excerpt: "Using artificial intelligence can save you precious time. Whether you need a grocery list or to sort through thousands of job applicants, there’s likely a bot that can get it done."
-    publishedDateTime: 2023-05-15T21:55:00Z
-    webUrl: "https://nbc-2.com/features/tech/2023/05/15/facial-recognition-technology-raises-concerns-over-misidentification-implicit-bias/"
-    ampWebUrl: "https://nbc-2.com/features/tech/2023/05/15/facial-recognition-technology-raises-concerns-over-misidentification-implicit-bias/amp/"
-    cdnAmpWebUrl: "https://nbc--2-com.cdn.ampproject.org/c/s/nbc-2.com/features/tech/2023/05/15/facial-recognition-technology-raises-concerns-over-misidentification-implicit-bias/amp/"
+  - title: "Cardiff Beyoncé concert: Face recognition use criticised"
+    excerpt: "Thousands of fans attending the Beyoncé concert in Cardiff could be scanned by live face recognition cameras deployed in the area by South Wales Police. The cameras will help identify people wanted for \"priority offences\". Police also used the cameras at the Coronation, but the technology has been criticised by human rights campaigners."
+    publishedDateTime: 2023-05-17T16:28:00Z
+    webUrl: "https://www.bbc.co.uk/news/uk-wales-65622404.amp"
+    ampWebUrl: "https://www.bbc.co.uk/news/uk-wales-65622404.amp"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/uk-wales-65622404.amp"
     type: article
     provider:
-      name: NBC2
-      domain: nbc-2.com
-    quality: 68
+      name: BBC
+      domain: bbc.co.uk
+    quality: 59
     images:
-      - url: "https://nbc-2.com/wp-content/uploads/2023/05/NBC2-AI-facial-recognition.png"
-        width: 1280
-        height: 720
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/9AC0/production/_129761693_microsoftteams-image.png"
+        width: 1024
+        height: 576
         isCached: true
-  - title: "Police Facial Recognition Technology Can’t Tell Black People Apart"
-    excerpt: "This happened three years ago to Robert Williams, a Black father in suburban Detroit. Sadly Williams’ story is not a one-off. In a recent case of mistaken identity, facial recognition technology led to the wrongful arrest of a Black Georgian for purse thefts in Louisiana."
-    publishedDateTime: 2023-05-18T14:38:00Z
-    webUrl: "https://www.scientificamerican.com/article/police-facial-recognition-technology-cant-tell-black-people-apart/"
+  - title: "Police to use facial recognition technology in Cardiff during Beyoncé concert"
+    excerpt: "Police will deploy technology in city centre to identify wanted individuals, leading to warning use of invasive surveillance becoming normalised"
+    publishedDateTime: 2023-05-17T10:39:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/may/17/police-to-use-facial-recognition-technology-in-cardiff-during-beyonce-concert"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/may/17/police-to-use-facial-recognition-technology-in-cardiff-during-beyonce-concert"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/may/17/police-to-use-facial-recognition-technology-in-cardiff-during-beyonce-concert"
     type: article
     provider:
-      name: Scientific American
-      domain: scientificamerican.com
-    quality: 39
+      name: The Guardian
+      domain: theguardian.com
+    quality: 56
     images:
-      - url: "https://static.scientificamerican.com/sciam/cache/file/3A8C75EC-F138-434F-A822F5103920B5AB.jpg"
-        width: 790
-        height: 497
+      - url: "https://i.guim.co.uk/img/media/3a12bb2b66919a0de7aa6de18f9b59fce630ecd3/0_146_4788_2873/master/4788.jpg?width=620&quality=85&auto=format&fit=max&s=3e2a733ed8b2a6363654cfbb017ed40e"
+        width: 620
+        height: 372
         isCached: true
-  - title: "Police officers on patrol to deploy facial recognition technology"
-    excerpt: "Facial-recognition technology is to be used in body-worn cameras by officers on patrol as part of government plans to “embed” it in everyday policing.The poli"
-    publishedDateTime: 2023-05-17T23:01:00Z
-    webUrl: "https://www.thetimes.co.uk/article/police-officers-on-patrol-to-deploy-facial-recognition-technology-nkcgxh2f5"
+  - title: "Police criticised for using facial recognition technology at Beyoncé’s Cardiff show"
+    excerpt: "South Wales Police has come under fire for its use of controversial facial recognition technology during the Cardiff leg of Beyoncé’s world tour. In a statement to Mixmag, South Wales Police claims that it utilised the technology to identify \"people wanted for priority offences,"
+    publishedDateTime: 2023-05-19T11:33:00Z
+    webUrl: "https://mixmag.net/read/police-criticised-for-using-facial-recognition-at-beyonces-cardiff-show-news"
+    ampWebUrl: "https://mixmag.net/amp/police-criticised-for-using-facial-recognition-at-beyonces-cardiff-show"
+    cdnAmpWebUrl: "https://mixmag-net.cdn.ampproject.org/c/s/mixmag.net/amp/police-criticised-for-using-facial-recognition-at-beyonces-cardiff-show"
     type: article
     provider:
-      name: The Times
-      domain: thetimes.co.uk
-    quality: 39
+      name: Mixmag
+      domain: mixmag.net
+    quality: 53
     images:
-      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F69d79e6a-f4db-11ed-97af-27f55025e763.jpg?crop=3576%2C2012%2C376%2C656&resize=1200"
+      - url: "https://mixmag.net/assets/uploads/images/_full/Beyonce-Mason-Poole.png"
+        width: 1008
+        height: 672
+        isCached: true
+  - title: "Police to use controversial facial recognition software at Beyonce’s first UK concert"
+    excerpt: "Police will use live facial recognition software to scan crowds attending Beyonce’s first UK tour date in Cardiff. The global star kicks off the UK leg of her Renaissance World Tour at the city’s Principality Stadium – her first tour in seven years."
+    publishedDateTime: 2023-05-17T12:53:00Z
+    webUrl: "https://www.aol.com/police-controversial-facial-recognition-software-121252139.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 32
+    images:
+      - url: "https://media.zenfs.com/en/aol_the_independent_uk_548/b17e0c4f914466ecee3cc445950e040f"
         width: 1200
-        height: 675
+        height: 900
         isCached: true
 
 secured: "hp/AObcvHRgf/dngF8SUN9kdLdzMXs+qlQ2WLmFGiiWiaJLEhW3v09ljJSqJLW1pvpsMM5gXQHV3DSJXAbkaKfQuablOGkyKADLR0o2xUNJE4AbdtVF0J2f+1pTWxiMCRF9bYwjhQ8m4XyqWNtf1Wi8hpnh/NFVcxqeiCepZyxQ2+MRxyWkD70Ri4U8ovppNYaDJsePODnGIVDgF3OJ6z1Q+TN2oTQPjy3yTQX9scmbWO60vSaVMChNkz6TYYW32T3Jtn9VNETryF4KTWqOIca5lx42rSod3SPmoIX2koC5yDjb4rBUIghcPpgiyUP2zd6BNCCrEO8YYv7vaqSYaAExh+AHShX5/xZJ1N5ZmRWTwPrsm65bOyVX4J6ePdn9h5Y13XLhkgMvHB9qngGrIYXRZ8laqOHBy1DY3onWLrEMWPkjLU1WSfzr5tE79oDVaAPPeiULRLVE31TsALrSMqTACoW8JnHLsruNcl4klP5jzbw2TTN7SNANGyAj2Q2K2lnXx+ipS6VO9WUT3+aFLiQ==;0tq8cO/SWh+Y49XQteFkJg=="

@@ -33,15 +33,6 @@ related:
         width: 600
         height: 500
         isCached: true
-  - title: "Teen-focussed fintech signs with Yoti to enhance security, verify age"
-    excerpt: "The tool also enhances the platform's current Know Your Customer (KYC) and Anti-Money Laundering (AML) processes, the companies say."
-    publishedDateTime: 2023-05-18T19:20:00Z
-    webUrl: "https://www.biometricupdate.com/202305/teen-focussed-fintech-signs-with-yoti-to-enhance-security-verify-age"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 21
 
 secured: "LaYuy9w82vLQPjoDbNWxK3AIHIJXteu6DCCSq49OoeVFhMncS88jvtjBxprisqCMkRwLqSKyq7NZq1ZiykkaBy63qMkTxe77T3DqV23GhXya2te0Qcqcu3DUv1XH5qM0r97pqyWx02Lu0bAMJTINjjIGNwaOfzU5RjGuiKTVuV8cRG5gPxxXtuWReOVADd+jnEdywPgWi1/sbeeMYja7kVbaads7dSKNJ8ivWTV8ofTUbGaLCHKBSA/NOUmgvPyt6JxIVbC9CyLlxWKciBnu9LCsh4iMAVZridJ/ZmdrXihDWS6yYIenWsL2IZziohy0rn6u0WXTqAFXkpPIg6bfzpdXI64FNS3YIPqa8I/nOTQ=;3SJopwPw2UuvGBWgcL3C6Q=="
 ---

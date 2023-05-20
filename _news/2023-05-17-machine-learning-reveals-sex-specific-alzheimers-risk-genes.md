@@ -7,7 +7,7 @@ originalUrl: "https://www.news-medical.net/news/20230516/Machine-learning-reveal
 webUrl: "https://www.news-medical.net/news/20230516/Machine-learning-reveals-sex-specific-Alzheimers-risk-genes.aspx"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI Breakthrough Detects Alzheimer’s Early With Smartphones"
-    excerpt: "This model, potentially accessible via smartphones, can distinguish between Alzheimer's patients and healthy individuals with 70-75% accuracy."
-    publishedDateTime: 2023-05-15T22:51:00Z
-    webUrl: "https://neurosciencenews.com/ai-smartphone-alzheimers-23251/"
-    type: article
-    provider:
-      name: Neuroscience News
-      domain: neurosciencenews.com
-    quality: 39
-    images:
-      - url: "https://neurosciencenews.com/files/2023/05/ai-smartphone-alzheimers-voice-neurosciences.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Machine-learning program reveals genes responsible for sex-specific differences in Alzheimer's disease progression"
     excerpt: "Alzheimer's disease (AD) is a complex neurodegenerative illness with genetic and environmental origins. Females experience faster cognitive decline and cerebral atrophy than males, while males have greater mortality rates."
     publishedDateTime: 2023-05-20T09:33:00Z

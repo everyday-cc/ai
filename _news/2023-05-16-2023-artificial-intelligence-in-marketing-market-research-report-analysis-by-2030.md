@@ -59,15 +59,6 @@ related:
         width: 600
         height: 400
         isCached: true
-  - title: "Artificial intelligence is getting smarter. Here’s how you can spot it"
-    excerpt: "Generative artificial intelligence is AI used to create something new. The VERIFY team explains the latest about this technology so you can recognize it."
-    publishedDateTime: 2023-05-15T21:35:00Z
-    webUrl: "https://www.wtsp.com/article/news/verify/ai/artificial-intelligence-is-getting-smarter-heres-how-you-can-spot-it/536-7d247e35-6124-4bd1-a9b1-96b757e823a5"
-    type: article
-    provider:
-      name: WTSP
-      domain: wtsp.com
-    quality: 19
 
 secured: "hF67aZaiWA+3Qog0srQXiM7f78anelOxKqz70m385E7aLQdga+Hvu1LEkt/MdrhNv1blYal0HrtqcZx9SD7Ic90Cupr92jPjrIMyqcieHaGl/dfOlNwSB9MhShzULNyu79Ai4AFHFrU0m1EDRYcqU9ubK4KFF2RaoueQ/NtMXJ+qYNUI0cQ/RQG92ejIHSuikx8Nt6r4VhPSUoVUb43OItoDDE54KU9laZBU+R9MhprbcVv4Ne2Kmxg9c+5y0VxV/Qf9qDU3AVcsNP0ObkKD84Kl+a4LmzbzusFiNt9HNAHCLf1qVjAxA+yVdQohY5/csoLCrhv5dTXmp7/LUGgfD1T/XrdCoG9c1qofVMS4lPM=;ydGJ+1stoeyQ6hN5CrXUww=="
 ---

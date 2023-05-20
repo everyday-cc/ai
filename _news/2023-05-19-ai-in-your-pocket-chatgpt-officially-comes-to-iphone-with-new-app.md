@@ -102,22 +102,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Amazon job listings hint at ChatGPT-like conversational AI for online store"
-    excerpt: "A pair of job listings suggest that Amazon is looking for engineers who could help create “an interactive conversational experience.\""
-    publishedDateTime: 2023-05-15T22:34:00Z
-    webUrl: "https://venturebeat.com/ai/amazon-job-listings-hint-at-chatgpt-like-conversational-ai-for-online-store/"
-    ampWebUrl: "https://venturebeat.com/ai/amazon-job-listings-hint-at-chatgpt-like-conversational-ai-for-online-store/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/amazon-job-listings-hint-at-chatgpt-like-conversational-ai-for-online-store/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 85
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/05/AMZN-1.jpg?w=1200&strip=all"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "ChatGPT outperforms money managers, as Americans flock to AI for investing advice"
     excerpt: "Considering AI's existing ability to best the most blue-chip of money managers out there, the days of paying mutual funds management fees for middling returns, at least in the current structure, may be winding to a close. All of this sounds like investing ..."
     publishedDateTime: 2023-05-18T14:02:00Z
@@ -356,19 +340,21 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "Generative AI Empowers Users but Challenges Security"
-    excerpt: "With the introduction of generative AI, even more business users are going to create low-code/no-code applications. Prepare to protect them."
-    publishedDateTime: 2023-05-15T19:39:00Z
-    webUrl: "https://www.darkreading.com/edge-articles/generative-ai-empowers-users-but-challenges-security"
+  - title: "BofA says AI is in a 'baby bubble' that echoes the dot-com era, and one move could easily blow up the investment frenzy ignited by ChatGPT"
+    excerpt: "The Nasdaq is soaring this year as AI investing inspired by ChatGPT rages on. Bank of America says a Fed policy error could burst the bubble."
+    publishedDateTime: 2023-05-20T14:15:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ai-stocks-chatgpt-artificial-intelligence-baby-bubble-dot-com-bust-2023-5"
+    ampWebUrl: "https://markets.businessinsider.com/news/stocks/ai-stocks-chatgpt-artificial-intelligence-baby-bubble-dot-com-bust-2023-5?amp"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/news/stocks/ai-stocks-chatgpt-artificial-intelligence-baby-bubble-dot-com-bust-2023-5?amp"
     type: article
     provider:
-      name: Dark Reading
-      domain: darkreading.com
-    quality: 56
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 55
     images:
-      - url: "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt9e4903423b90ee49/64626bd3dc45a2b53749d78e/roadguardrails-Gartland-alamy.jpg"
+      - url: "https://i.insider.com/640a48c308f27b0018489292?width=1200&format=jpeg"
         width: 1200
-        height: 800
+        height: 600
         isCached: true
   - title: "Will AI revolutionize healthcare? ChatGPT has thoughts"
     excerpt: "Explore how AI is revolutionizing healthcare, from improved diagnosis and treatment to drug discovery and development, with Microsoft's privacy-focused version"
@@ -724,20 +710,6 @@ related:
       - url: "https://images.macrumors.com/t/iBp9BqJv2WpLVJf_ebOZGLh1orw=/2500x/article-new/2023/05/chatgpt-for-iphone-feature.jpg"
         width: 2500
         height: 1406
-        isCached: true
-  - title: "ChatGPT iPhone app Omni AI adds on-device voice recognition in latest update"
-    excerpt: "Omni AI, a ChatGPT-powered app for the iPhone, just added on-device voice recognition for its AI assistant in a recent update."
-    publishedDateTime: 2023-05-15T20:13:00Z
-    webUrl: "https://bgr.com/tech/chatgpt-iphone-app-omni-ai-adds-on-device-voice-recognition-in-latest-update/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 36
-    images:
-      - url: "https://bgr.com/wp-content/uploads/2023/05/Omni-AI-iPhone-app.jpg?quality=82&strip=all"
-        width: 1401
-        height: 931
         isCached: true
   - title: "ChatGPT and Generative AI in Financial Services: Reality, Hype, What's Next, and How to Prepare"
     excerpt: "Payments, banking, and insurance players are eager to understand generative AI's potential and put it to work."

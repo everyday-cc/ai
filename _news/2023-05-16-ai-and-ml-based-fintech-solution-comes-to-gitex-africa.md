@@ -7,7 +7,7 @@ originalUrl: "https://www.itp.net/gitex/ai-and-ml-based-fintech-solution-comes-t
 webUrl: "https://www.itp.net/gitex/ai-and-ml-based-fintech-solution-comes-to-gitex-africa"
 type: article
 quality: 36
-heat: 36
+heat: -1
 published: false
 
 provider:
@@ -20,20 +20,40 @@ topics:
   - Machine Learning
 
 related:
-  - title: "United Insurance among financials gainers; UP Fintech, LM Funding America in losers"
-    excerpt: "Gainers: Applied Digital (APLD) +47% on first AI customer news. United Insurance Holdings (UIHC ... Stronghold Digital Mining (SDIG) -11% on reverse stock split. UP Fintech Holding (TIGR) -9%. To ensure this doesn’t happen in the future, please ..."
-    publishedDateTime: 2023-05-16T16:11:00Z
-    webUrl: "https://seekingalpha.com/news/3972203-united-insurance-among-financials-gainers-up-fintech-lm-funding-america-in-losers"
+  - title: "Fintech Ramp Launches AI-enhanced Tools to Help Businesses Streamline Operations"
+    excerpt: "Ramp, the finance automation platform, announced Ramp Intelligence: a set of tools in financial services, driven by AI, to solve customer issues."
+    publishedDateTime: 2023-05-20T14:38:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/05/207415-fintech-ramp-launches-ai-enhanced-tools-to-help-businesses-streamline-operations/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2023/05/207415-fintech-ramp-launches-ai-enhanced-tools-to-help-businesses-streamline-operations/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/05/207415-fintech-ramp-launches-ai-enhanced-tools-to-help-businesses-streamline-operations/amp/"
     type: article
     provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 33
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 54
     images:
-      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/487831223/image_487831223.jpg?io=getty-c-w750"
-        width: 750
-        height: 499
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2013/05/Tools.jpg"
+        width: 600
+        height: 450
         isCached: true
+  - title: "Teen-focussed fintech signs with Yoti to enhance security, verify age"
+    excerpt: "The tool also enhances the platform's current Know Your Customer (KYC) and Anti-Money Laundering (AML) processes, the companies say."
+    publishedDateTime: 2023-05-18T19:20:00Z
+    webUrl: "https://www.biometricupdate.com/202305/teen-focussed-fintech-signs-with-yoti-to-enhance-security-verify-age"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 21
+  - title: "Style AI Launches Suite of AI Assistants to Help Small Business Get More Customers Digitally"
+    excerpt: "Seona, powered by advanced machine learning models and AI built out of UC Berkeley, revolutionizes SEO optimization for websites. With its remarkable ability to analyze and comprehend website content,"
+    publishedDateTime: 2023-05-18T13:12:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/05/18/9817043.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 6
 
 secured: "fY28n3jHtKXzwArKqTpem+i1IwNxc8cW28OgfMfDYawayKumrkN6YgVHb1Vc+gsC4L9k5Q9xJIb2GOuI93dDq3WDCuBwCa/2btFK+xsuPkW554MFgAfVcbs9rNsvsdnYgYK2jLAzGmg6CP6f3f17pED5UaOs178nONVCV9Hu0TI7T9R9fry+58aofmle9toAMJhbkppWFHkbroMt301Ng2drqqB/KBsZv7sf8ES/UIsAIXQ2kBIOSPhaWSNhlnLTOzKvLzUAhLCwpiNCjVwxTZDoC35pO/nK5toJ0Q356gCw6sjxeT9gnq6mPw4JN9mHrz9TmRZaccuJwR/ruzSWrbzPZHM0k5hpRbKkzVvsuew=;/u5/1xR3Jd16ngqL1c3QQg=="
 ---

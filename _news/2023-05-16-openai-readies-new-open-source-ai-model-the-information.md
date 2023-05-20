@@ -156,20 +156,6 @@ related:
         width: 840
         height: 438
         isCached: true
-  - title: "Congress Turns to OpenAI’s Altman on a Key Question: What’s AI?"
-    excerpt: "Sam Altman, the CEO of OpenAI, will be one of the witnesses as a Senate panel takes a look at rules for artificial intelligence."
-    publishedDateTime: 2023-05-15T20:52:00Z
-    webUrl: "https://www.bloomberg.com/news/newsletters/2023-05-15/openai-s-altman-makes-capitol-debut-at-artificial-intelligence-hearing"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 67
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ijKQ6yQxOqEw/v0/1200x800.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "OpenAI, IBM Urge Senate to Act on AI Regulation After Past Tech Failures"
     excerpt: "Executives from two major AI companies asked senators on Tuesday to pass regulations for the ground-breaking but nascent technology as rapid innovation raises ethical, legal and national security questions."
     publishedDateTime: 2023-05-16T16:04:00Z

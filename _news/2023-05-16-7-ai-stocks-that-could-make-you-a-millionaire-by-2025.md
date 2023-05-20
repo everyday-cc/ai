@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/7-ai-stocks-that-c
 webUrl: "https://markets.businessinsider.com/news/stocks/7-ai-stocks-that-could-make-you-a-millionaire-by-2025-1032332066"
 type: article
 quality: 51
-heat: 81
+heat: 83
 published: true
 
 provider:

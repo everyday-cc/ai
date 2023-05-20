@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/05/19/
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/05/19/how-ai-is-unlocking-new-ways-marketers-get-work-done/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -58,15 +58,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial intelligence is getting smarter. Here’s how you can spot it"
-    excerpt: "Generative artificial intelligence is AI used to create something new. The VERIFY team explains the latest about this technology so you can recognize it."
-    publishedDateTime: 2023-05-15T21:35:00Z
-    webUrl: "https://www.wtsp.com/article/news/verify/ai/artificial-intelligence-is-getting-smarter-heres-how-you-can-spot-it/536-7d247e35-6124-4bd1-a9b1-96b757e823a5"
-    type: article
-    provider:
-      name: WTSP
-      domain: wtsp.com
-    quality: 19
 
 secured: "/L0WRCwjghstCkTgtgN4R3mHHo8oKGNBFl+HKXNmx6t/sKqA2Eixwca++WAJVDXXFI5HiMWpLxg7on5KKfdhauQuvg0a5sMPW9CRFfSUcZjuVjQdB3fvsQTy3NAhlJAlGDC6YKDpoGJtLLVbeNDpPxZM/Ed5dCQRYVNGWCOgs8wspzPXBDbuZZwntbc31Qnj3oASMSaNnFvDapKagSQP57porWP7etXJaL4FCS1dePfYhwG6WX1hxQrGKyU+WIaIoFYiSYdQDiGh9VAV7MYg9uPxL5E8akzP2gpRX5xAlMhJDITF4dlThpyolVSpX2bUC+ZePXJmHvqX1EYO719hs3iWd0rM5JT92OcbBDpyShhQnH7QkkWnYH/iWPDdc5q8EpzPBOahdbGCH7ClK8C9FtakFeAmcjNEp6JytNeQF2mjgt7qPnfGUizzQx+i76PnoLc+2oghYr6v3SESvHeSOG+quFWYAecJK35/uUVgNJWLR2LbA8b+V0CYf4eNuYnVCmhT0AEjAqWyVTYlCdQmfw==;M0Z0+6YSEMczknROR2oBsQ=="
 ---

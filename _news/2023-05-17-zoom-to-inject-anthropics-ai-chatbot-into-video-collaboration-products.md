@@ -34,20 +34,6 @@ related:
         width: 1440
         height: 810
         isCached: true
-  - title: "This AI Chatbot Has Learned the Difference Between Good and Evil"
-    excerpt: "Anthropic’s Claude AI has developed a set of ethical principles through a “constitution”—and can handle prompts the size of a book."
-    publishedDateTime: 2023-05-15T21:22:00Z
-    webUrl: "https://decrypt.co/140202/ai-chatbot-anthropic-claude-good-evil"
-    type: article
-    provider:
-      name: decrypt
-      domain: decrypt.co
-    quality: 39
-    images:
-      - url: "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/05/Leonardo_Diffusion_an_AI_robot_philosphy_reflecting_on_good_vs_0-1-gID_7.jpg@png"
-        width: 1024
-        height: 512
-        isCached: true
 
 secured: "YbzLDXp9vPp1xrlNoATfLp5xGOzh8NUufp0iB5PPFg/u/DWgNbjY9xw7zmV+qtxvk4eR36O8+eHingZ8+9rjCMA4foep1ziwPKMgIQ+bnLn5dcS6Gn1llzqYXW2c9WYk1+An75DEQfK9vmz6wXTbOccrWhmeeI8uFY0PQmxC14i8cavPlO7OJRT1Pse9Bf52CpBs09HIHjtQKIQvsOHwKB6hhAuCF8BVROCUBbd4LZBdLEpbNlcPOpd8ruv/Zt8DVUnf/toBNUqrxXdBxxZDksjp8Yh6Kc36C69eLclvZKUA4vwcO3PCH8jYSlZpWbMG5WBMUvxibwy6SHhmBr9IsAD6bHHhyKFRhDre6LiHsDvyE+88vW8lxc2wXcwdWnHZJbRj6kt8DqO3ZttCo0SuI0CP5fjVRsK4e3VMf7xaLUGZLArkqOGOddgLY+B+OIy0OQeVDujiz2rER7hRd8yuEjkgAN7kszJm0fBYpRUfrN+FUX7FdC9YiOj9yAWt/CKbUvtJqLo83CMj0G2MlXzqcQ==;ZxcsZXiK08VHgQWInRaEBg=="
 ---

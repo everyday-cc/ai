@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/activecampaign-int
 webUrl: "https://markets.businessinsider.com/news/stocks/activecampaign-introduces-content-generation-powered-by-ai-1032330723"
 type: article
 quality: 67
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -51,15 +51,6 @@ related:
         width: 512
         height: 512
         isCached: true
-  - title: "Hitachi Establishes New Generative AI Center To Accelerate Value Creation..."
-    excerpt: "Hitachi Establishes New Generative AI Center to Accelerate Value Creation and Improve Productivity in the Lumada business by promoting the use of G"
-    publishedDateTime: 2023-05-15T19:32:00Z
-    webUrl: "https://menafn.com/1106245586/Hitachi-Establishes-New-Generative-AI-Center-To-Accelerate-Value-Creation-And-Improve-Productivity-In-The-Lumada-Business-By-Promoting-The-Use-Of-Generative-AI"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 18
 
 secured: "qlc9Ui0iXdBgcTzNF5K35lPpqyOlagscG8nmZ/DHepBmoF53v+JuE1N1F1WdRtElpEzp7zmXdU04t5KmhZOaGvkwDSN9oI6aVAptCi1USKRGtI0uxSY7U9BMWwgOoT59vtJOmmJuf0l3vQPbb4BgRWdKVAzDE+QP4Wu1/JtW0ZppM7WyIaRDXkUG+/CKwjFKggcNPkkSrLY4aH2eOb+V+AtC9/vXbPGYTZ8UjOHUd+Jkcf7E7JST9eMWsD8/wUkLQvgszUGOryUksORoSHRB4wQ/4Ban46mHlFENsWgPAswBymUJjZGU0mBaija9EkTyHbx4dFnaf4tCaTuy2aVcltnBAcksYCI6W6p+1JQmxBc=;LFtvOIGhQSI7vJ0McXThLg=="
 ---

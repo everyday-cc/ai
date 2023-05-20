@@ -49,15 +49,6 @@ related:
         width: 512
         height: 512
         isCached: true
-  - title: "Hitachi Establishes New Generative AI Center To Accelerate Value Creation..."
-    excerpt: "Hitachi Establishes New Generative AI Center to Accelerate Value Creation and Improve Productivity in the Lumada business by promoting the use of G"
-    publishedDateTime: 2023-05-15T19:32:00Z
-    webUrl: "https://menafn.com/1106245586/Hitachi-Establishes-New-Generative-AI-Center-To-Accelerate-Value-Creation-And-Improve-Productivity-In-The-Lumada-Business-By-Promoting-The-Use-Of-Generative-AI"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 18
 
 secured: "qqyPhCS5VrjjoIvbc2Y36HaXgs3tG7TVLmO8zAQOFKKG7uOkYcSJePLIhyCy7UekZ1Qy1KLFyReTgJx9G+6fVo7p0e+TD304l+BKGtIAseRJgGpNOKLj1gu/5eEFnda8ZKEkeoEZQizMh2SQ6+jLn8hNH+0RV4EPuljJknyR2FjIx4xqPON/Rte3bPmfRBAUS186qmhCIUnCsQHxXqh9MpnYvSaDwqYs2dojmlyMBXtvNG2cLHHJ4z6XThLKd3sI1Nu919rBYqxoYTfzZ3FCqIR+uQPeFRhlQcOGcqDW1nzWe4SiHV2PqhV6rfxbTg5+I/SH3TsN3Hz2C1Z1zLtPhUInfs6jXBXiA0Bu4QruBdc=;aI014g4gwkZM1LsnY8gGnA=="
 ---

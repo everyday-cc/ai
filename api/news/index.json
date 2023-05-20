@@ -2,6 +2,151 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-05-20-winning-customer-service-through-ai-and-automation-in-hybrid-work-environments.md",
+      "title": "Winning Customer Service Through AI And Automation In Hybrid Work Environments",
+      "excerpt": "The way we work has been fundamentally altered by the COVID-19 pandemic, and many businesses have had to adapt to hybrid and remote work models.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/glebtsipursky/2023/05/20/winning-customer-service-through-ai-and-automation-in-hybrid-work-environments/",
+      "originalUrl": "https://www.forbes.com/sites/glebtsipursky/2023/05/20/winning-customer-service-through-ai-and-automation-in-hybrid-work-environments/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64622a87ecf4ca687ea69866/0x0.jpg?format=jpg&width=1200",
+          "width": 600,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/glebtsipursky/2023/05/20/winning-customer-service-through-ai-and-automation-in-hybrid-work-environments/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glebtsipursky/2023/05/20/winning-customer-service-through-ai-and-automation-in-hybrid-work-environments/amp/",
+      "publishedDateTime": "2023-05-20T08:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-20-fintech-ramp-launches-ai-enhanced-tools-to-help-businesses-streamline-operations.md",
+      "title": "Fintech Ramp Launches AI-enhanced Tools to Help Businesses Streamline Operations",
+      "excerpt": "Ramp, the finance automation platform, announced Ramp Intelligence: a set of tools in financial services, driven by AI, to solve customer issues.",
+      "sourceUrl": null,
+      "webUrl": "https://www.crowdfundinsider.com/2023/05/207415-fintech-ramp-launches-ai-enhanced-tools-to-help-businesses-streamline-operations/",
+      "originalUrl": "https://www.crowdfundinsider.com/2023/05/207415-fintech-ramp-launches-ai-enhanced-tools-to-help-businesses-streamline-operations/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2013/05/Tools.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.crowdfundinsider.com/2023/05/207415-fintech-ramp-launches-ai-enhanced-tools-to-help-businesses-streamline-operations/amp/",
+      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/05/207415-fintech-ramp-launches-ai-enhanced-tools-to-help-businesses-streamline-operations/amp/",
+      "publishedDateTime": "2023-05-20T07:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crowdfund Insider",
+        "domain": "crowdfundinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-20-artificial-intelligence-will-eliminate-many-tasks-but-also-create-new-higher-level-ones.md",
+      "title": "Artificial Intelligence Will Eliminate Many Tasks, But Also Create New Higher-Level Ones",
+      "excerpt": "Managers need to prepare for 'the biggest shock' coming with AI — replacing entry and low-level white-collar activities with 'first-draft automation.'",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/joemckendrick/2023/05/20/artificial-intelligence-will-eliminate-many-tasks-but-also-create-new-higher-level-ones/",
+      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2023/05/20/artificial-intelligence-will-eliminate-many-tasks-but-also-create-new-higher-level-ones/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6468d7b4762b340e022e9948/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2023/05/20/artificial-intelligence-will-eliminate-many-tasks-but-also-create-new-higher-level-ones/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/05/20/artificial-intelligence-will-eliminate-many-tasks-but-also-create-new-higher-level-ones/amp/",
+      "publishedDateTime": "2023-05-20T07:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-20-google-at-io-2023-weve-been-doing-ai-since-before-it-was-cool.md",
       "title": "Google at I/O 2023: We’ve been doing AI since before it was cool",
       "excerpt": "That Google I/O show sure was something, wasn't it? It was a rip-roaring two hours of nonstop AI talk without a break. Bard, Palm, Duet, Unicorn, Gecko, Gemini, Tailwind, Oter—there were so many cryptic AI code names thrown around it was hard to keep track of what Google was talking about.",
@@ -61,7 +206,7 @@
       "originalUrl": "https://www.businessinsider.com/ai-make-money-china-grieving-raise-dead-griefbot-2023-5",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 86,
       "tags": null,
       "images": [
         {
@@ -112,7 +257,7 @@
       "originalUrl": "https://www.bbc.com/news/uk-65655010",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -267,7 +412,7 @@
       "originalUrl": "https://www.forbes.com/sites/brianuzzi/2023/05/19/will-ai-kill-human-creativity-what-fake-drake-tells-us-about-whats-ahead/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 96,
       "tags": null,
       "images": [
         {
@@ -515,7 +660,7 @@
       "originalUrl": "https://techcrunch.com/2023/05/19/apple-generative-ai-jobs/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 177,
+      "heat": 187,
       "tags": null,
       "images": [
         {
@@ -617,7 +762,7 @@
       "originalUrl": "https://www.thenews.com.pk/latest/1071894-multan-airport-4th-in-country-to-get-facial-recognition-system",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": 86,
       "tags": null,
       "images": [
         {
@@ -695,6 +840,58 @@
       ]
     },
     {
+      "path": "_news/2023-05-19-london-court-throws-out-lawsuit-against-google-over-medical-records.md",
+      "title": "London court throws out lawsuit against Google over medical records",
+      "excerpt": "Google on Friday defeated a lawsuit brought on behalf of 1.6 million people over medical records provided to the U.S. tech giant by a British hospital trust.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/london-court-throws-out-lawsuit-against-google-over-medical-records-2023-05-19/",
+      "originalUrl": "https://www.reuters.com/technology/london-court-throws-out-lawsuit-against-google-over-medical-records-2023-05-19/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/PGkcCwCvO-yoqZ6dWQId-Ba0qHk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ODNTRJHOVFO73E7BOL5SL476NU.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-19T06:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-19-how-ai-is-unlocking-new-ways-marketers-get-work-done.md",
       "title": "How AI Is Unlocking New Ways Marketers Get Work Done",
       "excerpt": "I believe there are three areas where generative AI is going to unlock new ways to get work done at a scale we’ve never seen before.",
@@ -703,7 +900,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/05/19/how-ai-is-unlocking-new-ways-marketers-get-work-done/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -910,7 +1107,7 @@
       "originalUrl": "https://www.forbes.com/sites/tomcoughlin/2023/05/19/machine-learning-creates-new-technologies/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -1037,189 +1234,6 @@
       "topics": [
         "AI",
         "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2023-05-19-meta-bets-big-on-ai-with-custom-chips-and-a-supercomputer.md",
-      "title": "Meta bets big on AI with custom chips — and a supercomputer",
-      "excerpt": "Meta wants the world -- and particularly investors -- to know it's going big or going home where it concerns AI and the hardware to build it.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/05/18/meta-bets-big-on-ai-with-custom-chips-and-a-supercomputer/",
-      "originalUrl": "https://techcrunch.com/2023/05/18/meta-bets-big-on-ai-with-custom-chips-and-a-supercomputer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 196,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/11/facebook-meta-twist.jpg?resize=1200,675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/05/18/meta-bets-big-on-ai-with-custom-chips-and-a-supercomputer/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/18/meta-bets-big-on-ai-with-custom-chips-and-a-supercomputer/amp/",
-      "publishedDateTime": "2023-05-18T16:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-19-umass-boston-using-5m-donation-to-create-ai-institute.md",
-      "title": "UMass Boston using $5M donation to create AI Institute",
-      "excerpt": "Anyone with a product idea can now build apps using AI, and we are going to teach that to all the students at UMass Boston,\" tells English. Students will also talk about the ethics and application of AI. English believes there are some people out there who ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/boston/news/umass-boston-artificial-intelligence-ai/",
-      "originalUrl": "https://www.cbsnews.com/boston/news/umass-boston-artificial-intelligence-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/05/18/e8d681bf-f2a2-42b2-872e-0af634b4570f/thumbnail/1200x630/54ff6db104e94c6e70fa4ffdd6c4f18e/cold-umass-boston-ai-donation-frame-3.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/boston/news/umass-boston-artificial-intelligence-ai/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/boston/news/umass-boston-artificial-intelligence-ai/",
-      "publishedDateTime": "2023-05-18T16:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-19-lessons-from-finances-experience-with-artificial-intelligence.md",
-      "title": "Lessons from finance’s experience with artificial intelligence",
-      "excerpt": "This rule appears to hold for artificial intelligence (AI) and machine learning, which were first employed by hedge funds decades ago, well before the recent hype. First came the “quants\", or quantitative investors,",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/money/lessons-from-finance-s-experience-with-artificial-intelligence-11684407926757.html",
-      "originalUrl": "https://www.livemint.com/money/lessons-from-finance-s-experience-with-artificial-intelligence-11684407926757.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.livemint.com/lm-img/img/2023/05/18/600x338/2-0-128027631-OPED-4C-0_1681892708995_1684408136028.jpg",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/money/lessons-from-finance-s-experience-with-artificial-intelligence/amp-11684407926757.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/money/lessons-from-finance-s-experience-with-artificial-intelligence/amp-11684407926757.html",
-      "publishedDateTime": "2023-05-18T15:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2023-05-19-robotics-awarded-first-patent-for-its-robotic-window-cleaning-system.md",
-      "title": "Robotics awarded first patent for its robotic window-cleaning system",
-      "excerpt": "Skyline Robotics, developers of OZMO, the world’s first high-rise window-cleaning robot, today announced the company has received its first patent for its robotic window-cleaning system. The patent, awarded by Singapore,",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/robotics-awarded-first-patent-for-its-robotic-window-cleaning-system/",
-      "originalUrl": "https://www.therobotreport.com/robotics-awarded-first-patent-for-its-robotic-window-cleaning-system/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2023/05/skyline-patent-featured.jpg",
-          "width": 770,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-18T14:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

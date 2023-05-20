@@ -7,7 +7,7 @@ originalUrl: "https://seekingalpha.com/news/3972203-united-insurance-among-finan
 webUrl: "https://seekingalpha.com/news/3972203-united-insurance-among-financials-gainers-up-fintech-lm-funding-america-in-losers"
 type: article
 quality: 33
-heat: -1
+heat: 33
 published: false
 
 provider:
@@ -23,17 +23,6 @@ images:
     width: 750
     height: 499
     isCached: true
-
-related:
-  - title: "AI and ML based fintech solution comes to GITEX Africa"
-    excerpt: "CredBraine can review 25 million accounts yearly and logs 100 million transactions per month. AI and ML based fintech solution comes to GITEX Africa. Artificial Intelligece, FinTech, Gitex, GITEX AFRICA,"
-    publishedDateTime: 2023-05-16T11:42:00Z
-    webUrl: "https://www.itp.net/gitex/ai-and-ml-based-fintech-solution-comes-to-gitex-africa"
-    type: article
-    provider:
-      name: GDPR fines
-      domain: itp.net
-    quality: 36
 
 secured: "XjlNVxR/C0OWWXOtUjyf1fSeB1ihN+frotL0V5JoBQSSLhwaRCA34WjRPx0ZsOJ1ZkAB/RPi3rWh+5JvcWI2s+YRbGIoOl8D63mescKPSM0D8EFICu1HVGfhFIac9ovqs9ALY+86R/jYrXYg9Oq1tnZ5BbjnSI0aU9NoaAABbCdcb7aIl5pAAROWLnwbHzn+YcS3YgdRIreOONTtXC8DlgItCHNxWmapUOeYFwjAem5YPMj01E2P+x/httXSvyxFW+0ql0lfpBE1IUgtN4TZXxmVmExRJmznc82xCUftVkLJlUtm8OqrVqWusrZeO1F7rUEV52k3xEs57otMjO/nbOJ1v6bR87zA+Y/W9uH/qsA=;8m8H7mcYN1LCGqh6oyg+oQ=="
 ---

@@ -45,15 +45,6 @@ related:
         width: 1200
         height: 502
         isCached: true
-  - title: "5 ways AI-driven patch management is driving the future of cybersecurity"
-    excerpt: "Cybersecurity vendors are fast-tracking risk-based vulnerability management, AI and machine learning to keep patch management current."
-    publishedDateTime: 2023-05-15T19:07:00Z
-    webUrl: "https://venturebeat.com/security/5-ways-ai-driven-patch-management-is-driving-the-future-of-cybersecurity/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 46
 
 secured: "c6aLLMz3xnbKuDF4u5UpbJzT2TppCdr0Ngr5M5xsTDP++GIefS3+z4lIDIG2yjkyJ/Fe+/joxPyqVgvqtcbRBBllOzDqaAVDb2/GceksyTwk8tYTX+sk/EutwAECt+mn/LbbrKp1hLC4fZXRnpExztBE2goOpR4IXJXLzzKC38XySeFfRH2qxFpa1ovanqz0bUw6FENI/X0+DyYt2yp9D8X8CWQIFXmVBnAauoPG17R5HCi768XqA4ipmlqP7geI7516L/1M35N5JD45EFdpyGsR9wr5j0PoL0c4bfLS5kzNFGoeJbJMoGYUZFHhn+4YXChcU2HmfymFy9mfNONKPW8hm5wqg2NS9gUJuh7SkB0=;+3Ay9gFRogvqVFgOhBLS4Q=="
 ---

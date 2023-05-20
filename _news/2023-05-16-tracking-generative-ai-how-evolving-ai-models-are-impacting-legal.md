@@ -101,20 +101,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 47
-  - title: "Four Places to Invest in AI That Are Better Than IBM"
-    excerpt: "These days, it's almost impossible to keep up with artificial intelligence (AI), but I try to stay updated by testing a new AI application every week to learn more about its potential. This week, I tested SignGuard-an AI tool that uses deep learning to distinguish between genuine and forged signatures."
-    publishedDateTime: 2023-05-15T21:05:00Z
-    webUrl: "https://moneymorning.com/investing/four-places-to-invest-in-ai-that-are-better-than-ibm/"
-    type: article
-    provider:
-      name: Money Morning
-      domain: moneymorning.com
-    quality: 39
-    images:
-      - url: "https://moneymorning.com/wp-content/blogs.dir/1/files/2022/06/crypto-syndication.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "How to invest in artificial intelligence"
     excerpt: "But there is one area in which the firm, run by Son Masayoshi, its charismatic founder, wants to peek above the parapet: investments in artificial intelligence (ai). Investors face two questions. The first is which frontier technologies will make market leaders a fortune."
     publishedDateTime: 2023-05-17T16:30:00Z

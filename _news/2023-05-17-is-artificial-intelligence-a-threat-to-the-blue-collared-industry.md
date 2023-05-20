@@ -32,20 +32,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 39
-  - title: "The Intersection of AI Across 6 Major Industries: Exploring Latest AI Applications From Business Perspective"
-    excerpt: "The increasing prevalence of AI applications in various industries, including finance, healthcare, legal, technology, marketing, and sales, demonstrates a promising future for the business landscape."
-    publishedDateTime: 2023-05-15T20:20:00Z
-    webUrl: "https://www.unite.ai/the-intersection-of-ai-across-6-major-industries-exploring-latest-ai-applications-from-business-perspective/"
-    type: article
-    provider:
-      name: unite
-      domain: unite.ai
-    quality: 20
-    images:
-      - url: "https://www.unite.ai/wp-content/uploads/2023/05/image1-1000x600.jpg"
-        width: 1000
-        height: 600
-        isCached: true
 
 secured: "59NhUb2FEAi3xz7nyXU5Uua2Jys20RtCO/WeGC54IxzG5bifM2xokxy3C5e8i8llT1w/JMgOIz2lEO/u0jNy8YxNNnJwvdOTUA5BKtcfDcNncfV8jzcnAs1Kcj21zKFFq+m3TLYbYRtqipw3308588PyR6dqGFX40JQfEvwmjRxSma9YUTwnb8KTq+Wb7VdHjWomF1da+f5GW6AIWyV5ARCQ3VU4kTzY/+51joRfEWlj1ur5QGYFaf/lYAb0wYT6ia1r3oQcplxzrGLqP59fyTm7t5mzuCJKolxa+kjQlXfKNIT50wQtK18POYFrFNxRfgdYpkw12oE0D1x8KwDRbY5yVlpLN2ZE98LMkq41Yv4dBe7WOaJw60LPEEdKfy647uaBDmM2+eVRL5XPCGPRUqey2Gt0ZF6qxJSJG9i4HDvIPm+bFNd86YzXg8bgXAPmpdR1i8KVm5fxHtE9PoaAWnGJ1da0Q/5r6V2PI2CdccWsVwnja8G6CxR7b6wyuuI7swIZRLMuBbvGg5hrJk/qNg==;grbqrL+u46/N/niSSkwBKg=="
 ---

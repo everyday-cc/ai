@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/uk-news/2023/may/16/ministers-calling-fo
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/uk-news/2023/may/16/ministers-calling-for-facial-recognition-technology-in-police-bodycams"
 type: article
 quality: 56
-heat: 96
+heat: 86
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "UK policing minister pushes for greater use of facial recognition"
-    excerpt: "Chris Philp expressed desire to expand use of controversial technology in closed door meetings, according to report"
-    publishedDateTime: 2023-05-15T23:01:00Z
-    webUrl: "https://www.ft.com/content/b8477e16-349d-442d-8e69-59b328ba9189"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 39
-    images:
-      - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/eu-politics.jpg"
-        width: 619
-        height: 377
-        isCached: true
   - title: "Policing Minister pushes for facial recognition in all UK police forces despite criticism"
     excerpt: "The Home Office briefed the biometrics and surveillance commissioner on the minsters desire for law enforcement to expand their use of these systems."
     publishedDateTime: 2023-05-16T22:27:00Z

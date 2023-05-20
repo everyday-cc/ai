@@ -48,15 +48,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 37
-  - title: "Hitachi Establishes New Generative AI Center To Accelerate Value Creation..."
-    excerpt: "Hitachi Establishes New Generative AI Center to Accelerate Value Creation and Improve Productivity in the Lumada business by promoting the use of G"
-    publishedDateTime: 2023-05-15T19:32:00Z
-    webUrl: "https://menafn.com/1106245586/Hitachi-Establishes-New-Generative-AI-Center-To-Accelerate-Value-Creation-And-Improve-Productivity-In-The-Lumada-Business-By-Promoting-The-Use-Of-Generative-AI"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 18
 
 secured: "fm5V6XYQl0NQH7+v+XSXm1EbiiFBWnUVqruIIMIo1Gh3adUiGjuNCGEoEKpa4NDkScviuM0ociba8K7ppitlIlnP4NzwEwqtxBC43u/cYnjJoYY0DMDyoFPvGSQM+sX32xAGm/Z5nnGrV0jqOLLUW1512ezxw2927wlmHgBwSH2rZAj3HLy6aL8cIre0vwVZBgjAGAjfnJkxg+DD8LOtQSbW+hOZTDaVrY92+7Fzhc3J0L6YfGjJroehiinV2pRfegWrCc4qg8c7Cl2ZjORFybaolYKZ2g1rXw4JH3LBljyfZ6aDxZlAhgNGv0tixIlvQoAMSyH3vn0x1Kv4pH9VmG3aghspvgY9+EQeaOnVCLs=;9YaN0s65Fz63DeXQBA1gXw=="
 ---

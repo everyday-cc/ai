@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/uk-65655010.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-65655010.amp"
 type: article
 quality: 87
-heat: 97
+heat: 99
 published: true
 
 provider:

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/18/how-co
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/05/18/how-could-artificial-intelligence-impact-cybersecurity/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -44,15 +44,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "5 ways AI-driven patch management is driving the future of cybersecurity"
-    excerpt: "Cybersecurity vendors are fast-tracking risk-based vulnerability management, AI and machine learning to keep patch management current."
-    publishedDateTime: 2023-05-15T19:07:00Z
-    webUrl: "https://venturebeat.com/security/5-ways-ai-driven-patch-management-is-driving-the-future-of-cybersecurity/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 46
 
 secured: "PdlmvprTPilZ3lar2MgrsIW1eQ7Ec4Rq/pSxs1MnOc/cEJTJ/Ln1Z/jJr8a0uy9a7lmgZc7h51YBtqUV4XA++0ul8WREPoPtbkrGZOIcL11H+3aXnwtWYjRxZ4JoWaM7FJYjcH4iSXsyVC4VTnJje7YZ5HKOFbY2DJzH6cMtQmmzubr35aDe74y7cmvS91r7OIN8mp1aIP+7mjJh4gveJTAAM+U5N0aVWtNyI3jXktW+NASuulno9jqX+Hb0UpW1OVvc6fzbf5ND8ZX49hYrqOTivH/BaItqj9HQTn3Zs0nQit17vmkI5UBgsBqEseFdMR1H/t7Rbck5DIqoJ+u51LGjuHt3lmU8lINB21lG5w3mUBYRM0DtaAmdMGFWz65OHlJm2pUbkESrM2rtNoz6Dd0qKJkMPmQy2RfPdy3tNL29lHckytOnTMEzLQ14R6jzgAtd3aRnKJx6nQeRWKyjPkyRq1NZdOKZo3i46y26NjKt12n3aLFf+9fJ0KVGErLJ/Urlw9fG0NaHBuVergpyAQ==;gA0Idsn5WwkMga0+2eCOuQ=="
 ---

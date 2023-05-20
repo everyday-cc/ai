@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "This AI Chatbot Has Learned the Difference Between Good and Evil"
-    excerpt: "Anthropic’s Claude AI has developed a set of ethical principles through a “constitution”—and can handle prompts the size of a book."
-    publishedDateTime: 2023-05-15T21:22:00Z
-    webUrl: "https://decrypt.co/140202/ai-chatbot-anthropic-claude-good-evil"
-    type: article
-    provider:
-      name: decrypt
-      domain: decrypt.co
-    quality: 39
-    images:
-      - url: "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/05/Leonardo_Diffusion_an_AI_robot_philosphy_reflecting_on_good_vs_0-1-gID_7.jpg@png"
-        width: 1024
-        height: 512
-        isCached: true
   - title: "Zoom To Inject Anthropic’s AI Chatbot Into Video, Collaboration Products"
     excerpt: "Zoom integrates AI into video collaboration meeting and chat products with new Anthropic partnership after partnering with Microsoft-backed OpenAI."
     publishedDateTime: 2023-05-16T18:58:00Z

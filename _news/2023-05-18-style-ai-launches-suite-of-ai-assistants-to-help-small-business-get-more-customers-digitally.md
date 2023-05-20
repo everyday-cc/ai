@@ -7,7 +7,7 @@ originalUrl: "https://technews.tmcnet.com/news/2023/05/18/9817043.htm"
 webUrl: "https://technews.tmcnet.com/news/2023/05/18/9817043.htm"
 type: article
 quality: 6
-heat: 6
+heat: -1
 published: false
 
 provider:
@@ -16,6 +16,42 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "Fintech Ramp Launches AI-enhanced Tools to Help Businesses Streamline Operations"
+    excerpt: "Ramp, the finance automation platform, announced Ramp Intelligence: a set of tools in financial services, driven by AI, to solve customer issues."
+    publishedDateTime: 2023-05-20T14:38:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/05/207415-fintech-ramp-launches-ai-enhanced-tools-to-help-businesses-streamline-operations/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2023/05/207415-fintech-ramp-launches-ai-enhanced-tools-to-help-businesses-streamline-operations/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/05/207415-fintech-ramp-launches-ai-enhanced-tools-to-help-businesses-streamline-operations/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 54
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2013/05/Tools.jpg"
+        width: 600
+        height: 450
+        isCached: true
+  - title: "AI and ML based fintech solution comes to GITEX Africa"
+    excerpt: "CredBraine can review 25 million accounts yearly and logs 100 million transactions per month. AI and ML based fintech solution comes to GITEX Africa. Artificial Intelligece, FinTech, Gitex, GITEX AFRICA,"
+    publishedDateTime: 2023-05-16T11:42:00Z
+    webUrl: "https://www.itp.net/gitex/ai-and-ml-based-fintech-solution-comes-to-gitex-africa"
+    type: article
+    provider:
+      name: GDPR fines
+      domain: itp.net
+    quality: 36
+  - title: "Teen-focussed fintech signs with Yoti to enhance security, verify age"
+    excerpt: "The tool also enhances the platform's current Know Your Customer (KYC) and Anti-Money Laundering (AML) processes, the companies say."
+    publishedDateTime: 2023-05-18T19:20:00Z
+    webUrl: "https://www.biometricupdate.com/202305/teen-focussed-fintech-signs-with-yoti-to-enhance-security-verify-age"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 21
 
 secured: "fISQ9tbDSAQtB7rXQ6pwzWvZzzZCQEW3n2D1bIYnTriDbgNOOrLzDqD4o7tH3HQBhXLPu9d1No7EA3/OeJmnKLdVE4/3FjemV7wSzAIyNE1yntJjyf3NqSt/OGAraL4xvLh9RkbOfIyD0F5d6433gwIsaee5DF123pj7O7/QdXxUPNdGKf6HZk1ubjoJay5oMtXVgf1Rq6fiaZIBXbrPEdNdYu2lEGOEH0L/QzY1Xu8rKYEYkeB1KbhObBE5P/c242eu5yQa+znrgxcpnKtN1WGQ+QSjz63TZe70krotHxQ9q7phAo87gzALvXBbRQgDBPz8QnOXvRmKUoQ97F+DWoagLs8nSbAalI+ZYfSyk9Y=;TECANVNh8bHYTf4S/J00BQ=="
 ---

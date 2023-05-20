@@ -89,6 +89,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Elections in UK and US at risk from AI-driven disinformation, say experts"
+    excerpt: "False news stories, images, video and audio could be tailored to audiences and created at scale by next spring"
+    publishedDateTime: 2023-05-20T09:00:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/may/20/elections-in-uk-and-us-at-risk-from-ai-driven-disinformation-say-experts"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 16
 
 secured: "QFaiD5GA4S2KVLt/H7cY+X3hYXTzuUsQ5QXnrpPfDjSQrHM5oSjN45o26SA3Ty65oBna9mRy5tS2P2R8t7nr8ZxtH2/wA8mr/phVLY7x4JNYmVM7oRhEXg98LWDOjvJzTQfYBLfT2sIJQo1ZPwIvvofULRhJpZCZmkUwI5kyOQDXo1bR0RxfCz3t6WgP+FwQ3Rdn/kbcC0ZgH11j/Bz58UFgWQKInv3zcVFX10lulA+ZQZLBoO+IhjfNXnkoZHPLGrOsJPRNgxZreg9MPo9y8Exg+z4+ETJgG3RCtrbs0VWR5v2p2mP0gdRGVKPWLzZ7yi6I3am+d5EGTTY5PQ+af4PUgJ4xqP3amZmSW9QXSOmHZ3Y8aADXLbzfkNVXGmI8OkD1mZQxBWSevdMzY0gbBhgfaEncY/fCicfMl//7hRW1pb/QifwuS1/WOH6lptzWDonJXUxdPAOJG0mP/7GEh0trx5kmRhX+KjgvvKxKExZp2L8z+CMynwRMDGHfMxVB4/8zR+pWmwSmTYHbYN0eww==;TiZcRtQZybZudUJ7psQHTA=="
 ---

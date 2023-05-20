@@ -2,6 +2,59 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-05-05-healthcare-natural-language-processing-market-2023-insight-and-global-trends.md",
+      "title": "Healthcare Natural Language Processing Market 2023 Insight and Global Trends",
+      "excerpt": "The Healthcare Natural Language Processing Market Scope and Overview Report for 2023 presents a detailed analysis of",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/healthcare-natural-language-processing-market-2023-insight-and-global-trends-2023-05-05",
+      "originalUrl": "https://www.marketwatch.com/press-release/healthcare-natural-language-processing-market-2023-insight-and-global-trends-2023-05-05",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 153,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-05T00:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-05-05-the-challenges-and-opportunities-of-using-artificial-intelligence-to-manage-chronic-conditions.md",
       "title": "The Challenges and Opportunities of Using Artificial Intelligence to Manage Chronic Conditions",
       "excerpt": "2 It is no surprise therefore that efforts are underway to look at how to best harness cutting-edge technologies such as artificial intelligence (AI ... This in turn could lead to a different therapy decision and subsequently a different health outcome.",
@@ -1379,50 +1432,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-24-a-word-of-caution-before-ai-becomes-standard-in-health-care.md",
-      "title": "A word of caution before AI becomes standard in health care",
-      "excerpt": "This human form of learning, with the brain as the computer, is the standard that AI aspires to reach. But now, artificial intelligence has advanced to the point where it has become a highly useful medical tool.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/opinion/healthcare/3965108-a-word-of-caution-before-ai-becomes-standard-in-healthcare/",
-      "originalUrl": "https://thehill.com/opinion/healthcare/3965108-a-word-of-caution-before-ai-becomes-standard-in-healthcare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/wp-content/uploads/sites/2/2023/04/artificial_intelligence_AI_healthcare-01072023_AP_.jpg?w=1280",
-          "width": 1280,
-          "height": 719,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/opinion/healthcare/3965108-a-word-of-caution-before-ai-becomes-standard-in-healthcare/amp/",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/healthcare/3965108-a-word-of-caution-before-ai-becomes-standard-in-healthcare/amp/",
-      "publishedDateTime": "2023-04-24T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

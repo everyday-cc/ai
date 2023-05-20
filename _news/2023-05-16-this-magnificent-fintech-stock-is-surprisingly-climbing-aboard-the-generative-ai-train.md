@@ -95,6 +95,15 @@ related:
         width: 724
         height: 483
         isCached: true
+  - title: "Fear the fire or harness the flame: The future of generative AI"
+    excerpt: "AI may be more advanced than we think. We must harness its benefits while mitigating the dangers through standards and common sense."
+    publishedDateTime: 2023-05-20T13:39:00Z
+    webUrl: "https://venturebeat.com/ai/fear-the-fire-or-harness-the-flame-the-future-of-generative-ai/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 47
   - title: "State of AI adoption for enterprise IT management in the Middle East"
     excerpt: "With large language models (LLMs) in the market, the AI hype cycle is at an all-time high, and AI adoption is gaining traction."
     publishedDateTime: 2023-05-19T11:30:00Z

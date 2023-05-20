@@ -89,20 +89,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
-  - title: "Four Places to Invest in AI That Are Better Than IBM"
-    excerpt: "These days, it's almost impossible to keep up with artificial intelligence (AI), but I try to stay updated by testing a new AI application every week to learn more about its potential. This week, I tested SignGuard-an AI tool that uses deep learning to distinguish between genuine and forged signatures."
-    publishedDateTime: 2023-05-15T21:05:00Z
-    webUrl: "https://moneymorning.com/investing/four-places-to-invest-in-ai-that-are-better-than-ibm/"
-    type: article
-    provider:
-      name: Money Morning
-      domain: moneymorning.com
-    quality: 39
-    images:
-      - url: "https://moneymorning.com/wp-content/blogs.dir/1/files/2022/06/crypto-syndication.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Tracking Generative AI: How Evolving AI Models Are Impacting Legal"
     excerpt: "A running compilation of how the legal landscape continues to be shaped by generative AI tools, from GPT technologies to art generation tools and beyond."
     publishedDateTime: 2023-05-16T01:23:00Z

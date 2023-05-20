@@ -44,6 +44,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 49
+  - title: "Revolutionising retail ecommerce with artificial intelligence and machine learning"
+    excerpt: "AI and ML are transforming the retail ecommerce landscape, providing retailers with powerful tools for overcoming their most pressing challenges. By harnessing the power of AI and ML, retailers can streamline their operations, increase efficiency, and improve the customer experience."
+    publishedDateTime: 2023-05-20T12:15:00Z
+    webUrl: "https://www.financialexpress.com/business/blockchain-revolutionising-retail-ecommerce-with-artificial-intelligence-and-machine-learning-3094979/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 45
   - title: "Retail revolution: new data reveals next generation of shoppers ready for AI, AR and Robots"
     excerpt: "New research shows that next generation of shoppers will prefer real-life shopping over virtual reality but crave tech innovation to elevate their shopping experience, with 81% of Gen Z'ers & Millenni"
     publishedDateTime: 2023-05-16T14:39:00Z

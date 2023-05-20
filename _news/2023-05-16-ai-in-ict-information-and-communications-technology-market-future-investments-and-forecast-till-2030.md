@@ -95,6 +95,15 @@ related:
       name: BBC
       domain: bbc.co.uk
     quality: 17
+  - title: "Elections in UK and US at risk from AI-driven disinformation, say experts"
+    excerpt: "False news stories, images, video and audio could be tailored to audiences and created at scale by next spring"
+    publishedDateTime: 2023-05-20T09:00:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/may/20/elections-in-uk-and-us-at-risk-from-ai-driven-disinformation-say-experts"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 16
 
 secured: "6YVxZRxBvjia33S6LuWa6d1fD/lICLfrJSh0n53WisVCAdt114/pazYwGA5xWsnZUf3ts54lprH3ehy6+Q+ldrA0Zlcyf7ssaHVoNs+ZYWw4sMggKuGcx0QftiOEjbod5/hewIua9qH1wSMNbHncwoZ6br7LyuRZWv30W1IhDcHjjD65sT7VhMsgA5jtHH5TtwEmPqPf0+tocbApQwp6r4Vw3UJdvX0eG2IYY/1C3K9EIAfvpgMl3hZfVX5yO4rjHz8K8DXOA/j05AWjja4UYby/C7L9d/Xqs+DSanngh/TzH7esyyGX1waK/c2x8MDwSiXLzUYUMi0eafrGpfVX6qVP76RTcVNCM2UKZANyDnw=;dzUtGsx0h5IwscOf58Wd2A=="
 ---

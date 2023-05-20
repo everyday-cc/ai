@@ -7,7 +7,7 @@ originalUrl: "https://www.fbcnews.com.fj/world/london-court-throws-out-lawsuit-a
 webUrl: "https://www.fbcnews.com.fj/world/london-court-throws-out-lawsuit-against-google-over-medical-records/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "London court throws out lawsuit against Google over medical records"
+    excerpt: "Google on Friday defeated a lawsuit brought on behalf of 1.6 million people over medical records provided to the U.S. tech giant by a British hospital trust."
+    publishedDateTime: 2023-05-19T13:29:00Z
+    webUrl: "https://www.reuters.com/technology/london-court-throws-out-lawsuit-against-google-over-medical-records-2023-05-19/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 69
+    images:
+      - url: "https://www.reuters.com/resizer/PGkcCwCvO-yoqZ6dWQId-Ba0qHk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ODNTRJHOVFO73E7BOL5SL476NU.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Google succeeds in bid to throw out medical records claim"
     excerpt: "The software giant and its artificial intelligence arm DeepMind was facing legal action over the transfer of patient data by an NHS trust."
     publishedDateTime: 2023-05-19T12:06:00Z

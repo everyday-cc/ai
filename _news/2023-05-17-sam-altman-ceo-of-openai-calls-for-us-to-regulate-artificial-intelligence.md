@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/world-us-canada-65616866.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-65616866.amp"
 type: article
 quality: 100
-heat: 350
+heat: 340
 published: true
 
 provider:
@@ -141,20 +141,6 @@ related:
       - url: "https://erepublic.brightspotcdn.com/dims4/default/a994c68/2147483647/strip/true/crop/3000x1564+0+276/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F5f%2F7e%2F090092c2478c8fd16c8a9c7988c9%2Fbiz-ai-microsoft-dmt.jpg"
         width: 840
         height: 438
-        isCached: true
-  - title: "Congress Turns to OpenAI’s Altman on a Key Question: What’s AI?"
-    excerpt: "Sam Altman, the CEO of OpenAI, will be one of the witnesses as a Senate panel takes a look at rules for artificial intelligence."
-    publishedDateTime: 2023-05-15T20:52:00Z
-    webUrl: "https://www.bloomberg.com/news/newsletters/2023-05-15/openai-s-altman-makes-capitol-debut-at-artificial-intelligence-hearing"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 67
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ijKQ6yQxOqEw/v0/1200x800.jpg"
-        width: 1200
-        height: 800
         isCached: true
   - title: "OpenAI readies new open-source AI model - The Information"
     excerpt: "has gained widespread attention in Silicon Valley as investors see generative AI as the next big growth area for tech companies. In January, Microsoft Corp (MSFT.O) announced a multi-billion dollar investment in OpenAI, deepening its ties with the startup ..."

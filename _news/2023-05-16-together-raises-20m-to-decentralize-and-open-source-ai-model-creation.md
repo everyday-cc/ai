@@ -41,6 +41,34 @@ related:
         width: 1200
         height: 750
         isCached: true
+  - title: "The Optimist’s Guide to Artificial Intelligence and Work"
+    excerpt: "Companies like IBM and the British telecommunications company BT have cited artificial intelligence as a reason for reducing head count, and new tools like ChatGPT and DALL-E make it possible for anyone to understand the extraordinary abilities of artificial intelligence for themselves."
+    publishedDateTime: 2023-05-20T12:01:00Z
+    webUrl: "https://www.nytimes.com/2023/05/20/business/dealbook/the-optimists-guide-to-artificial-intelligence-and-work.html"
+    type: article
+    provider:
+      name: The New York Times
+      domain: nytimes.com
+    quality: 69
+    images:
+      - url: "https://static01.nyt.com/images/2023/05/20/business/20DB-AI/20DB-AI-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "We Put Google’s New AI Writing Assistant to the Test"
+    excerpt: "I used Duet AI to send emails and plan my wedding. Its writing can be stuffy and stereotyping—but it’s a glimpse of the future of productivity apps."
+    publishedDateTime: 2023-05-20T10:00:00Z
+    webUrl: "https://www.wired.com/story/googles-duet-ai-writing-assistant-review-test/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 67
+    images:
+      - url: "https://media.wired.com/photos/6467cb66f2de86183cf5b3b2/191:100/w_1280,c_limit/Google-Duet-Hands-On-Business-Business-1468320082.jpg"
+        width: 1280
+        height: 670
+        isCached: true
 
 secured: "UA45WjmNYUSPra0gTX6rBZ2+i6YhvekKZGkeJbjeapHJ+sBnjYtPiMdVLyK+bx4+86WL0HSxC+iwnOZUGVKRc+CuG8rw+Cs5ofwsNDIygfiBi0kzHLIKFmmJEhFL+JeRoYu9dWTFi5qafr6ff0bsMqyovQL5TwcOXuRRkzyPP/3cBOxwUyC663stVneE7fiOtX+w+a8BEuqA9AMRSXVXjIfOHWfhlLZ3bXL7RkqABzexHw89HvQgiJxqm2FTwiyqMJ3aXFyNK/gFVA+g0CzNB/yhqtQOP08Pb4ZqGQ0hAXhiNQrOzUoDmMZCYbQB4cj8HTW8HwBnEEyCpRDa5QLBQ/PIon7OV9sw8E7WpFNgZliFZ+G6i70MK9H+kA3OQ78AFzYV25xCJSmhyK/2L93E/AqRNl4XBaTtqhYdmTxmtQLNnhdw9DQ+mwr6VwH9ReSiepWTOpbBjA/xPoU9ydLvvc/JQSuJgvbgor549vnh8bc6Gtcu0G5seeg22FKq0mcnhZxSQh0Lz4UXPejPLygwaw==;jBQkdrz+bmrehoS+yEh+hA=="
 ---

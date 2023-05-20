@@ -41,20 +41,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "UK policing minister pushes for greater use of facial recognition"
-    excerpt: "Chris Philp expressed desire to expand use of controversial technology in closed door meetings, according to report"
-    publishedDateTime: 2023-05-15T23:01:00Z
-    webUrl: "https://www.ft.com/content/b8477e16-349d-442d-8e69-59b328ba9189"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 39
-    images:
-      - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/eu-politics.jpg"
-        width: 619
-        height: 377
-        isCached: true
   - title: "Facial Recognition Tech: Are Total Bans the Best Move? (Podcast)"
     excerpt: "New York City is considering a total ban on facial recognition technology. The technology, which uses surveillance cameras and face scans to identify people in public, has been garnering headlines for years,"
     publishedDateTime: 2023-05-16T18:53:00Z
