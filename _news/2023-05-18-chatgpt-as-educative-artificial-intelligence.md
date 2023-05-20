@@ -5,8 +5,10 @@ excerpt: "With the advent of artificial intelligence (AI), several aspects of ou
 publishedDateTime: 2023-05-17T19:36:00Z
 originalUrl: "https://phys.org/news/2023-05-chatgpt-artificial-intelligence.html"
 webUrl: "https://phys.org/news/2023-05-chatgpt-artificial-intelligence.html"
+ampWebUrl: "https://phys.org/news/2023-05-chatgpt-artificial-intelligence.amp"
+cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-05-chatgpt-artificial-intelligence.amp"
 type: article
-quality: 19
+quality: 61
 heat: -1
 published: false
 
@@ -17,6 +19,13 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - AI in Healthcare
+
+images:
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/chatgpt-as-educative-a-1.jpg"
+    width: 2880
+    height: 2881
+    isCached: true
 
 related:
   - title: "Combining Generative AI ChatGPT Into Handguns Triggers Fiery Response"
@@ -739,6 +748,6 @@ related:
       domain: yourstory.com
     quality: 1
 
-secured: "XsKRTZM90l+KuegJgPU9XqJQ9hrjAQwsgFQAe3o6zeJGu0XqtEuoFToEQG8n+z8/9OH3P7uhoUd3dZoQEzqAlrX43tMPeW2roqqKJ2mbQExoLt+KC9/hRcpNNfxajMZvZpwlJNVLso7gRuMF282LFthqFj39j+PpAore62AlobnxMWFcmHqYLNEq4+KFMcadE7/9BQllzg6FUVBfQXFd6Vh020EmmB8OGhf3AzmVfcIqlRaCvZkPNC9JAQ6XaRh76DpuzdJ6fWM/zaullX7uBs9Mi5POgiu7Fyea0gguSYguvaWYvC0hfT1YLxejXHliJYfnU24HHudEW9LiQyEcbMojAe9gW8OwVq5Z/wkX6zD83DgpnFUqKKpLJEmx/wt5L2c85PQA4wgyTI5ldkiQRO8LCIg8t5tY6jjPu94AbSHulWZTw4bI9yJ39J0UtT0NL6tKylidh859XxRBqA/P5l4UrW6Mfehp7MrLET+QJoEZ49WKxBoayi9Qcr5tbw6f+4muTDCFF7MH5QMSdMBhqg==;BeUQr8cFnu2SrJVBbhyimA=="
+secured: "ouDH76mipNo/NfCCSpx4o16kDarRBhiWpgg91Z4G76gvJslUv6ZZkDkZ3O/QrSByXgLr/utXuLnSDm875FEQw4wws/GW3Bzcf7QxViwYV8X1qwehWVjwpRcleYsQUa5S9RJQjPN6PVKTGl41z967CA7ImbKICejDtY/KrDNYdqV4vAnDHowWCJYBPsct3pFyT6vaVn76sknNIk0uxV2Asut0fwRy/UFKkfvagyyfifdJBHqlws+SZpSK7xek4kt9zltS78sn7jPdRzHqIlNTr1BkS8PbLGkDowcHorbtuyKzWsBF49+KiVDgqxQmHndUE4+rzN3kTr43h5Co1XGKWt/+DV1enFfVMR58jWR46kM=;kJvMEQXLgev2UqusC+zlJw=="
 ---
 

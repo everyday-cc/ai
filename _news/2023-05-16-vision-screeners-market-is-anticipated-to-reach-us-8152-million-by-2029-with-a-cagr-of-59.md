@@ -39,6 +39,20 @@ related:
         width: 444
         height: 250
         isCached: true
+  - title: "Artificial Intelligence in Medicine Market Size and Updated Report, Segments Analysis and Opportunities 2023-2031 | CAGR of 39.8%"
+    excerpt: "Artificial intelligence is viewed as the science and designing of ... foster unexpected issues that should be tended to by readmissions or restart of the therapy cycle. Such remote checking for patients released from medical services offices can ..."
+    publishedDateTime: 2023-05-16T15:18:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-medicine-market-size-and-updated-report-segments-analysis-and-opportunities-2023-2031-cagr-of-398-2023-05-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 40
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence (AI) Market Is Expected To Reach USD 1,581.70 Billion By 2030 With A Booming CAGR Of 38.0%"
     excerpt: "Allied Market The report focuses on growth prospects, restraints, and analysis of the global artificial intelligence market trend. <"
     publishedDateTime: 2023-05-15T10:51:00Z
@@ -62,17 +76,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 31
-  - title: "Global AI Chip Market to Generate USD 304.09 Billion by 2030, Outlines a New Report by Next Move Strategy Consulting"
-    excerpt: "According to a report published by Next Move Strategy Consulting, the global Artificial Intelligence (AI) Chip Market size generated USD 28.83 billion in 2022, and is"
-    publishedDateTime: 2023-05-19T15:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/05/g32487349/global-ai-chip-market-to-generate-usd-304-09-billion-by-2030-outlines-a-new-report-by-next-move-st"
-    ampWebUrl: "https://www.benzinga.com/amp/content/32487349"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32487349"
+  - title: "Advanced Analytics Market Size Worth USD 252.06 Billion in 2032 – Emergen Research"
+    excerpt: "Unlock valuable insights and drive growth with advanced analytics. Discover how big data, customer analytics, and predictive analysis"
+    publishedDateTime: 2023-05-17T07:07:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/advanced-analytics-market-size-worth-usd-252-06-billion-in-2032-–-emergen-research-1032332994"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 31
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 28
 
 secured: "aKOwIMDyu82P4LdqJ6VNC+uDa10rNmLNts58cdzQhAyqEz1iTm/M14Qlv+e37lF9Qd1ESiJ825topqA4YtiVQhLhS0jl3wa8HXJ26gcX4OXU6B9kHFae5hs9JC2XzjwyxTtBuKIkritOo3GdZgGjp5+y4ZQkFSkR6J/dZn60QhDrDgczdOGPmeCy5nOwzw/luloXwyVj+czGMeu6ahuf82CFgkCvYQFa91gD/xrUCaX6IsTHLBj2trWqw936Eq+21MtmZaw04IXE9pd7+hhOVXrIE/jOVJiVDAX43ivFmwUbNNGALvcjxstqpp+M9d1OOJNUOe89z3Jzm+cE0DcvOFxZ8uoAdNut/Crwct3gsB8=;ZA/bow4X/PJkuOQFTYvP1w=="
 ---

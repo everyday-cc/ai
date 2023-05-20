@@ -7,8 +7,8 @@ originalUrl: "https://www.theatlantic.com/newsletters/archive/2023/05/altman-hea
 webUrl: "https://www.theatlantic.com/newsletters/archive/2023/05/altman-hearing-ai-existential-risk/674096/"
 type: article
 quality: 67
-heat: -1
-published: false
+heat: 87
+published: true
 
 provider:
   name: The Atlantic
@@ -28,45 +28,15 @@ images:
     isCached: true
 
 related:
-  - title: "What are the dangers of AI? Find out why people are afraid of artificial intelligence"
-    excerpt: "Many experts worry that the rapid development of artificial intelligence may have unforeseen disastrous consequences for humanity. Machine learning technology is designed to assist humans in their ..."
-    publishedDateTime: 2023-05-15T08:24:00Z
-    webUrl: "https://www.foxnews.com/tech/what-dangers-find-out-why-people-afraid-artificial-intelligence"
-    ampWebUrl: "https://www.foxnews.com/tech/what-dangers-find-out-why-people-afraid-artificial-intelligence.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/what-dangers-find-out-why-people-afraid-artificial-intelligence.amp"
+  - title: "How To Minimize Ageism Through The Use Of AI"
+    excerpt: "Artificial intelligence (AI) holds great promise in the fight against ageism, and future technologies powered by AI can be a first step to ensure older adults are fully involved in the processes, systems and,"
+    publishedDateTime: 2023-05-18T12:16:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/18/how-to-minimize-ageism-through-the-use-of-ai/"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 99
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9173ff0e-731a-4938-8d98-838e96cab4aa/8c3c171d-0b0c-4650-a5c1-bb79bf268d11/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Afraid of AI? Start with ad optimization"
-    excerpt: "There is perhaps no greater trend in the tech world right now than artificial intelligence (AI). Specifically, generative AI, which can produce content based on prompts, is garnering a"
-    publishedDateTime: 2023-05-17T16:50:00Z
-    webUrl: "https://digitalcontentnext.org/blog/2023/05/15/afraid-of-ai-start-with-ad-optimization/"
-    type: article
-    provider:
-      name: Digital Content Next
-      domain: digitalcontentnext.org
-    quality: 37
-    images:
-      - url: "https://digitalcontentnext.org/wp-content/uploads/2023/05/vector-of-human-head-with-transparent-overlay-of-earth-and-data.jpg"
-        width: 867
-        height: 400
-        isCached: true
-  - title: "Finance expert explains why people are turning to AI for investment advice"
-    excerpt: "With ChatGPT and other artificial intelligence systems making waves, some people are turning to AI for financial planning, according to one West Virginia University researcher."
-    publishedDateTime: 2023-05-17T19:22:00Z
-    webUrl: "https://phys.org/news/2023-05-expert-people-ai-investment-advice.html"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 32
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "Using AI to find rare minerals"
     excerpt: "A machine learning model can predict the locations of minerals on Earth—and potentially other planets—by taking advantage of patterns in mineral associations. Science and industry seek mineral deposits to both better understand the history of our planet and to extract for use in technologies like rechargeable batteries."
     publishedDateTime: 2023-05-17T18:07:00Z

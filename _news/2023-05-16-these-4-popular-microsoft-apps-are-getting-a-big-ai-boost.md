@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/these-4-popular-microsoft-a
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/these-4-popular-microsoft-apps-are-getting-a-big-ai-boost/"
 type: article
 quality: 106
-heat: 416
+heat: 406
 published: true
 
 provider:
@@ -149,20 +149,6 @@ related:
       - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i7H2hT69hYGQ/v1/1200x800.jpg"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Artificial Intelligence for Accounting Market Next Big Thing With Major Giants Microsoft, AWS, Xero, Intuit"
-    excerpt: "Click Here to Get Free Sample PDF Copy of Latest Research on Artificial Intelligence for Accounting Market 2023 Before Purchase:  The report will also include information on the top companies in the Artificial Intelligence for Accounting market shares,"
-    publishedDateTime: 2023-05-15T07:29:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-for-accounting-market-next-big-thing-with-major-giants-microsoft-aws-xero-intuit-2023-05-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 83
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Microsoft Rolls out Bing AI Chat Widget on Mobiles & Other Cool Features"
     excerpt: "In addition to existing features, Microsoft Bing has received new ones, including a Bing AI widget for mobiles. Check out the details."

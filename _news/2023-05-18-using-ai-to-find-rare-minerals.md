@@ -18,22 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "What are the dangers of AI? Find out why people are afraid of artificial intelligence"
-    excerpt: "Many experts worry that the rapid development of artificial intelligence may have unforeseen disastrous consequences for humanity. Machine learning technology is designed to assist humans in their ..."
-    publishedDateTime: 2023-05-15T08:24:00Z
-    webUrl: "https://www.foxnews.com/tech/what-dangers-find-out-why-people-afraid-artificial-intelligence"
-    ampWebUrl: "https://www.foxnews.com/tech/what-dangers-find-out-why-people-afraid-artificial-intelligence.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/what-dangers-find-out-why-people-afraid-artificial-intelligence.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 99
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9173ff0e-731a-4938-8d98-838e96cab4aa/8c3c171d-0b0c-4650-a5c1-bb79bf268d11/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Hiding Behind the AI Apocalypse"
     excerpt: "Damon: There was not really any talk at the hearing about the impacts of AI on labor. There were broad allusions to the idea of job loss. But there are so many specific ways that jobs are already threatened by automation today."
     publishedDateTime: 2023-05-17T21:51:00Z
@@ -48,29 +32,15 @@ related:
         width: 1200
         height: 625
         isCached: true
-  - title: "Afraid of AI? Start with ad optimization"
-    excerpt: "There is perhaps no greater trend in the tech world right now than artificial intelligence (AI). Specifically, generative AI, which can produce content based on prompts, is garnering a"
-    publishedDateTime: 2023-05-17T16:50:00Z
-    webUrl: "https://digitalcontentnext.org/blog/2023/05/15/afraid-of-ai-start-with-ad-optimization/"
+  - title: "How To Minimize Ageism Through The Use Of AI"
+    excerpt: "Artificial intelligence (AI) holds great promise in the fight against ageism, and future technologies powered by AI can be a first step to ensure older adults are fully involved in the processes, systems and,"
+    publishedDateTime: 2023-05-18T12:16:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/18/how-to-minimize-ageism-through-the-use-of-ai/"
     type: article
     provider:
-      name: Digital Content Next
-      domain: digitalcontentnext.org
-    quality: 37
-    images:
-      - url: "https://digitalcontentnext.org/wp-content/uploads/2023/05/vector-of-human-head-with-transparent-overlay-of-earth-and-data.jpg"
-        width: 867
-        height: 400
-        isCached: true
-  - title: "Finance expert explains why people are turning to AI for investment advice"
-    excerpt: "With ChatGPT and other artificial intelligence systems making waves, some people are turning to AI for financial planning, according to one West Virginia University researcher."
-    publishedDateTime: 2023-05-17T19:22:00Z
-    webUrl: "https://phys.org/news/2023-05-expert-people-ai-investment-advice.html"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 32
+      name: Forbes
+      domain: forbes.com
+    quality: 47
 
 secured: "ZOjxl7EuJ58vooLxv+olz/UEJwTpA0/7MzTVHNEq42UfQXf8n8IzyOtDIJzdc1Hg8xzHN5tb3MxFJVzufjom+uQ5Q/7yFaLU9ezVCpMgA+szD7ZRyCXKR0xf/r4yP0maEozvMt+17HbEp5bABLlnD0K1AtCsucRGpl6SmIlqwjqb4jWLVN0WUDBLoKV63GvNa5diuZ9ajdlpmOFkohnATa8ejOWtYpoNbDXyiLEO8cHFJZURiUE2RUR5VWSBJfHxM48Y+5i5paE98v76r+Iy51CTI8WSJB26VSoVqpTMsxx1Trg6lKABZdjF+ORdQjl1v5EIJtOBDs+UmmtF7n13vcyra9OtS0wOo7MOruIquUxlsARFNdUJmNkNS2bBhVkk+CB4prLVPRm4IBvnIYPmBujiUTGn3Cqy82+ijjiwkVzpc0pGw9rCrThiEHHCE1tCuf/UIbq3lNaEGoaclzczi7dEb8T+KSjbjXcEXi5MtmsDxf2HMgZpNyuCZGNrO3pfsiMNb4JLxnN4qEkFLSX9XQ==;16ZKRSYBmXRQkIORHWWOHg=="
 ---

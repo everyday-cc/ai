@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/cars/2023/05/teslas-full-self-driving-sees-p
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/cars/2023/05/teslas-full-self-driving-sees-pedestrian-chooses-not-to-slow-down/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -44,22 +44,6 @@ related:
       - url: "https://helios-i.mashable.com/imagery/articles/03VEJGPAmbDu0nZlRKkPora/hero-image.fill.size_1200x675.v1684343324.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Tesla to roll out free Full Self-Driving software, but there's a catch"
-    excerpt: "Tesla will initially roll out the FSD as a free trial version for one month before initiating a subscription for the users."
-    publishedDateTime: 2023-05-15T07:41:00Z
-    webUrl: "https://auto.hindustantimes.com/auto/electric-vehicles/tesla-to-roll-out-free-full-self-driving-software-but-theres-a-catch-know-here-41684132659743.html"
-    ampWebUrl: "https://auto.hindustantimes.com/auto/electric-vehicles/tesla-to-roll-out-free-full-self-driving-software-but-theres-a-catch-know-here/amp-41684132659743.html"
-    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/electric-vehicles/tesla-to-roll-out-free-full-self-driving-software-but-theres-a-catch-know-here/amp-41684132659743.html"
-    type: article
-    provider:
-      name: Auto News India
-      domain: hindustantimes.com
-    quality: 59
-    images:
-      - url: "https://images.hindustantimes.com/auto/img/2023/05/15/1600x900/model-y-social_1594536897997_1594536909822_1684136305607.png"
-        width: 1600
-        height: 900
         isCached: true
   - title: "Elon Musk says Tesla’s self-driving tech is better than humans"
     excerpt: "“It will actually get to the point where it is not merely safer than a person but actually way smoother than manual driving,” he says. It’s not the first time Musk has predicted the dawn of self-driving cars. In 2019 he said people would be able to ..."

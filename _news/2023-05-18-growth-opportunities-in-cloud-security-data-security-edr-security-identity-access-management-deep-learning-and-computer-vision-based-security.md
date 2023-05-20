@@ -2,9 +2,9 @@
 category: news
 title: "Growth Opportunities in Cloud Security, Data Security, EDR Security, Identity Access Management, Deep Learning and Computer Vision-based Security"
 excerpt: "The \"Growth Opportunities in Cloud Security, Data Security, EDR Security, Identity Access Management, Deep Learning and Computer Vision-based Security\" report has been added to ResearchAndMarkets.com's offering."
-publishedDateTime: 2023-05-18T16:43:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2023/05/18/9817315.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2023/05/18/9817315.htm"
+publishedDateTime: 2023-05-18T16:49:00Z
+originalUrl: "https://it.tmcnet.com/news/2023/05/18/9817315.htm"
+webUrl: "https://it.tmcnet.com/news/2023/05/18/9817315.htm"
 type: article
 quality: 16
 heat: 16
@@ -31,6 +31,6 @@ related:
       domain: tmcnet.com
     quality: 16
 
-secured: "tMnXB+pyLXiDWljwdqJRvNLRCwcEyNQuocat8hKZL7MaGmGmrjq0Ol2ZCx+bqK+Zk+8VGO68atQHOLifUS1gY4Rn0MRsKZgrCgE8O3Hw9KcTczX0RTzysiwqyKSn+e8mMt75umIZ0c8EiLTsBuuvjc5nTsRgf+PTwW91i+YtL/IIgYV4E+4pXY5u+jwDeg3+TnfGKu3RhtWeyL5XOTyVVlB8lF1v1SOkFcrl49q9rnf8RpyStp1jX0Zp6QUB5WjWaaIR60giM9g+umo+jVlJTWnRxx/5JNairKeEr0j6WYnMi+6cRVBRcHh055P+rRSJEAQlmUMUbsqZ+cVw8imlQ03SIQ+1CLvXbudTijmkVTk=;RKuuEXkhveFFy60cDRFShA=="
+secured: "GGq29gnsWTXz1Sx9mtpJvi0/cBx0DrOaWOw0S5p7UyS+mTyAMLBa0rPysdcyKfB+Ez0axkaqC+npniLLwqOlQMfjBo7P8//gu7EsKi9R07wxfq3iOeogGjOSAf/95TKwWz2T4KkhYjREYm+OG6UxOiWLudHHFVhAF/RZCiTJAPrJeaiTAwMzKZO6q0BvvXVYvcYPcNkT6rzCfBI3FPoJRLXVn9E4C9do4MLaax/9x5/bXU98tWgsB7jQgr1luo7oamj0WZsAQzHdxQv3jcEbRCmH7nzV9nKQi7XwhBF9OsbyA/YDtuW6Q6By3vphRyiXgHBKljZWs7EhlxUdSfEhM/aOwdyeKBWL8Yd3M9pMtV8=;G5N3GRX4DEuRJN31hIYYAw=="
 ---
 

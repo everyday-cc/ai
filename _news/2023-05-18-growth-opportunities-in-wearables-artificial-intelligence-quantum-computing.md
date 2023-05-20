@@ -21,8 +21,8 @@ topics:
 related:
   - title: "Growth Opportunities in Cloud Security, Data Security, EDR Security, Identity Access Management, Deep Learning and Computer Vision-based Security"
     excerpt: "The \"Growth Opportunities in Cloud Security, Data Security, EDR Security, Identity Access Management, Deep Learning and Computer Vision-based Security\" report has been added to ResearchAndMarkets.com's offering."
-    publishedDateTime: 2023-05-18T16:43:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/05/18/9817315.htm"
+    publishedDateTime: 2023-05-18T16:49:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/05/18/9817315.htm"
     type: article
     provider:
       name: TMCnet

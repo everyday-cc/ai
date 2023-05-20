@@ -210,6 +210,22 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "ChatGPT as 'educative artificial intelligence'"
+    excerpt: "With the advent of artificial intelligence (AI), several aspects of our lives have become more efficient and easier to navigate. One of the latest AI-based technologies is a user-friendly chatbot—ChatGPT,"
+    publishedDateTime: 2023-05-17T19:36:00Z
+    webUrl: "https://phys.org/news/2023-05-chatgpt-artificial-intelligence.html"
+    ampWebUrl: "https://phys.org/news/2023-05-chatgpt-artificial-intelligence.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-05-chatgpt-artificial-intelligence.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 61
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/chatgpt-as-educative-a-1.jpg"
+        width: 2880
+        height: 2881
+        isCached: true
   - title: "ChatGPT's chief to testify before Congress amid concerns about AI risks"
     excerpt: "The head of the artificial intelligence company that makes ChatGPT will testify before Congress as lawmakers call for new rules to guide the rapid development of AI technology. OpenAI CEO Sam Altman is scheduled to speak at a Senate hearing Tuesday."
     publishedDateTime: 2023-05-16T15:17:00Z
@@ -647,15 +663,6 @@ related:
       name: moneycontrol.com
       domain: moneycontrol.com
     quality: 21
-  - title: "ChatGPT as 'educative artificial intelligence'"
-    excerpt: "With the advent of artificial intelligence (AI), several aspects of our lives have become more efficient and easier to navigate. One of the latest AI-based technologies is a user-friendly chatbot—ChatGPT,"
-    publishedDateTime: 2023-05-17T19:36:00Z
-    webUrl: "https://phys.org/news/2023-05-chatgpt-artificial-intelligence.html"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 19
   - title: "ChatGPT’s chief testifies before Congress as AI concerns grow"
     excerpt: "The head of the artificial intelligence company that makes ChatGPT told Congress on Tuesday that government intervention \"will be critical to mitigate the risks of"
     publishedDateTime: 2023-05-16T15:51:00Z

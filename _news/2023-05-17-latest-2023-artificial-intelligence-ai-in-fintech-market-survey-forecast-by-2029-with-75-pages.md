@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/latest-2023-artificial-i
 webUrl: "https://www.marketwatch.com/press-release/latest-2023-artificial-intelligence-ai-in-fintech-market-survey-forecast-by-2029-with-75-pages-2023-05-16"
 type: article
 quality: 68
-heat: 78
+heat: 88
 published: true
 
 provider:
@@ -38,6 +38,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 32
+  - title: "2023 Self-Driving Street Sweeper Market Size and Insight Report in Machinery & Equipment Sector | with [106 Pages] and Forecast till 2031"
+    excerpt: "May 17, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" The Global \"Self-Driving Street Sweeper Market\" report [106 Pages] is a useful tool, for companies trying to keep ahead of the competition in ..."
+    publishedDateTime: 2023-05-17T13:09:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-self-driving-street-sweeper-market-size-and-insight-report-in-machinery-equipment-sector-with-106-pages-and-forecast-till-2031-2023-05-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 21
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "0FsbEcg0ncSwCAIdxM5wT03okxQtQoFoJSGeyePGfFrMSC4wotamogKVvfk/VEn4DupHXmt0DzqoU1sgBTBgSPVVdcq+K0yrccT+iIZ2yW2AohEFPqla9XH5TNarmyeJdFo6lgZz0L8+exQLOfRnJYVP6Nf6mjJSd6vAHNOibA19fyXj+vIElxRXpocYTwnTzHqBPpAreWBdnvO0jtA5lfLSekRRxJF8aduBevMBwisvz1epFCIQQOzv+XA3Xw/QBGLPiGHThdYR+kRr4GRPOIotkP1SdHzxMurmHMMP9wyVbBOqfc2iFT0pXgg1ssFj2Ryy+wRBH9a2fxF6kANvwudNmdoeIXaSBGwNeRQh+4c=;zXPcO3oa4wc20JtgSx/LpA=="
 ---

@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "New AI-based tech can help robots to locate lost items"
-    excerpt: "And while some individuals with dementia might find the technology daunting, Ayub said caregivers could readily use it.The researchers will now conduct user studies with people without disabilities, then people with dementia."
-    publishedDateTime: 2023-05-15T09:03:00Z
-    webUrl: "https://www.devdiscourse.com/article/technology/2452029-new-ai-based-tech-can-help-robots-to-locate-lost-items"
-    type: article
-    provider:
-      name: devdiscourse
-      domain: devdiscourse.com
-    quality: 34
   - title: "Waterloo engineers task AI robot to help people with dementia"
     excerpt: "Harnessing the power of Artificial Intelligence to help patients keep track of their medicines, glasses, and even their keys."
     publishedDateTime: 2023-05-16T13:18:00Z

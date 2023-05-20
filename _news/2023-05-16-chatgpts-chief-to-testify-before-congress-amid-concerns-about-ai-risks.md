@@ -218,6 +218,22 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "ChatGPT as 'educative artificial intelligence'"
+    excerpt: "With the advent of artificial intelligence (AI), several aspects of our lives have become more efficient and easier to navigate. One of the latest AI-based technologies is a user-friendly chatbot—ChatGPT,"
+    publishedDateTime: 2023-05-17T19:36:00Z
+    webUrl: "https://phys.org/news/2023-05-chatgpt-artificial-intelligence.html"
+    ampWebUrl: "https://phys.org/news/2023-05-chatgpt-artificial-intelligence.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-05-chatgpt-artificial-intelligence.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 61
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/chatgpt-as-educative-a-1.jpg"
+        width: 2880
+        height: 2881
+        isCached: true
   - title: "ChatGPT chief says AI should be regulated by US, global agency"
     excerpt: "While Congress isn’t poised to act, U.S. agencies are promising to crack down on harmful AI products that break existing civil rights and consumer protection laws."
     publishedDateTime: 2023-05-17T04:39:00Z
@@ -639,15 +655,6 @@ related:
       name: moneycontrol.com
       domain: moneycontrol.com
     quality: 21
-  - title: "ChatGPT as 'educative artificial intelligence'"
-    excerpt: "With the advent of artificial intelligence (AI), several aspects of our lives have become more efficient and easier to navigate. One of the latest AI-based technologies is a user-friendly chatbot—ChatGPT,"
-    publishedDateTime: 2023-05-17T19:36:00Z
-    webUrl: "https://phys.org/news/2023-05-chatgpt-artificial-intelligence.html"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 19
   - title: "ChatGPT is not ‘artificial intelligence.’ It’s theft."
     excerpt: "Calling programs like ChatGPT “artificial intelligence” grants them a claim to authorship that is simply untrue."
     publishedDateTime: 2023-05-15T17:11:00Z

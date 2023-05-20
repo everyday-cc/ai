@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 625
         isCached: true
-  - title: "How can humans maintain control over AI — forever?"
-    excerpt: "but dozens of research groups are exploring ideas for overcoming this and other limitations. Just as with the impending arrival of a superior alien civilization, it is imperative that governments cooperate on the regulation of AI. It’s in no country’s ..."
-    publishedDateTime: 2023-05-15T07:18:00Z
-    webUrl: "https://www.bostonglobe.com/2023/05/15/opinion/how-can-humans-maintain-control-over-ai-forever/"
-    type: article
-    provider:
-      name: The Boston Globe
-      domain: bostonglobe.com
-    quality: 39
-    images:
-      - url: "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/AL7KicIw45AkMSNAyQQ0bF_rjzw=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/SCSJHITU6VE2FKMOU5XYSLEBOA.jpeg"
-        width: 506
-        height: 285
-        isCached: true
 
 secured: "BvYst2xu0sT1qhaAjMrCxqHEYKKtYOkt9Wn/ECdgPDVZ8256lXe0+h2DpfYK67F2ZNrucGSoTpb5+Qj9jqR2KL0jeHxdZ1wm/gGcycsDb+SDlYFzLk2qmuAMcX5jBOGr4/zPTEzwugzsiGGWSxmm3nRFAfjT2tR8PaZ2tV4RlXPB5X1muzTMEryVHkHuck1P03IkDOuea8weCpVDRu+fLxa/1UpdyRaxtFVYGsLL88MZCa1i3mikY6oiNW3nwsOjr/HtDFwm9v/Pvf3AesZGtkUeXtQh1H42gaAm1WCBlXz3tNfFuMaWv04ANEAWerA5yp7EmXDHvJd3xv3btXWXo4xNIRbDgitMQVEH7fChtxA=;1jZY3opkskzY2Z9FwCZszw=="
 ---

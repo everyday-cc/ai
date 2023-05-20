@@ -7,7 +7,7 @@ originalUrl: "https://www.theatlantic.com/ideas/archive/2023/05/ai-job-losses-po
 webUrl: "https://www.theatlantic.com/ideas/archive/2023/05/ai-job-losses-policy-support-universal-basic-income/674071/"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
       - url: "https://images.moneycontrol.com/static-mcnews/2022/11/meta-630x420.png"
         width: 630
         height: 420
-        isCached: true
-  - title: "How can humans maintain control over AI — forever?"
-    excerpt: "but dozens of research groups are exploring ideas for overcoming this and other limitations. Just as with the impending arrival of a superior alien civilization, it is imperative that governments cooperate on the regulation of AI. It’s in no country’s ..."
-    publishedDateTime: 2023-05-15T07:18:00Z
-    webUrl: "https://www.bostonglobe.com/2023/05/15/opinion/how-can-humans-maintain-control-over-ai-forever/"
-    type: article
-    provider:
-      name: The Boston Globe
-      domain: bostonglobe.com
-    quality: 39
-    images:
-      - url: "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/AL7KicIw45AkMSNAyQQ0bF_rjzw=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/SCSJHITU6VE2FKMOU5XYSLEBOA.jpeg"
-        width: 506
-        height: 285
         isCached: true
 
 secured: "um0xW2TyrMtzn5zihlX+MB7D/ock7AuwSKlb155/P9FNSmEsMl8rUb1YKrABvgwYtwib6l6SueBAS1Jz7AlgfdFGlNTYVZb1h8CsLtzR4QVe9W0t9VeuLmk/2ZSaVkOCCvWPJkZQ1N3r/P259vMrsn0IaliSgm8T1W2THFB9QhzHPYDXpueuJ1/NJPoR/OyKfasz8KL+NDwTZqMGTFA3uTaZ6lqMaHP+A7V0u2VDKlSAtZgZMdSmTz6APoEqzUHjzzuxi8NN2wjr5TvyfBYKdH2P0d4yB1cr/B+uR50ZAj4s/RhTkYA1wL3N46j8ep8HT9qixRv4jj/YnnOpucggI2ZM6YuXcyIaq1PwfAGpAquLt9gzEq+ueEeMpGcKnLy8FwXj6Mkez9YMk8SjASc1iCGoHcWL7yLIxSKnEvZY5viTtkFipXgNkjAVBKFeIn/G9sULcV+G0RznFUtFjALaX2CBtFy7EnJW0+qZCXiGOE8BZoTPWEZjB1Wgs+ZDsC7fJhhfDiU2PpcGsHWbatvRDw==;usCR+kJ4kBIA0mmegTQl9w=="

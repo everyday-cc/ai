@@ -19,59 +19,45 @@ topics:
   - AI in Finance
 
 related:
-  - title: "What are the dangers of AI? Find out why people are afraid of artificial intelligence"
-    excerpt: "Many experts worry that the rapid development of artificial intelligence may have unforeseen disastrous consequences for humanity. Machine learning technology is designed to assist humans in their ..."
-    publishedDateTime: 2023-05-15T08:24:00Z
-    webUrl: "https://www.foxnews.com/tech/what-dangers-find-out-why-people-afraid-artificial-intelligence"
-    ampWebUrl: "https://www.foxnews.com/tech/what-dangers-find-out-why-people-afraid-artificial-intelligence.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/what-dangers-find-out-why-people-afraid-artificial-intelligence.amp"
+  - title: "Lessons from finance’s experience with artificial intelligence"
+    excerpt: "This rule appears to hold for artificial intelligence (AI) and machine learning, which were first employed by hedge funds decades ago, well before the recent hype. First came the “quants\", or quantitative investors,"
+    publishedDateTime: 2023-05-18T22:49:00Z
+    webUrl: "https://www.livemint.com/money/lessons-from-finance-s-experience-with-artificial-intelligence-11684407926757.html"
+    ampWebUrl: "https://www.livemint.com/money/lessons-from-finance-s-experience-with-artificial-intelligence/amp-11684407926757.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/money/lessons-from-finance-s-experience-with-artificial-intelligence/amp-11684407926757.html"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 99
+      name: Mint
+      domain: livemint.com
+    quality: 76
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9173ff0e-731a-4938-8d98-838e96cab4aa/8c3c171d-0b0c-4650-a5c1-bb79bf268d11/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
-        width: 1200
-        height: 675
+      - url: "https://www.livemint.com/lm-img/img/2023/05/18/600x338/2-0-128027631-OPED-4C-0_1681892708995_1684408136028.jpg"
+        width: 600
+        height: 338
         isCached: true
-  - title: "Hiding Behind the AI Apocalypse"
-    excerpt: "Damon: There was not really any talk at the hearing about the impacts of AI on labor. There were broad allusions to the idea of job loss. But there are so many specific ways that jobs are already threatened by automation today."
-    publishedDateTime: 2023-05-17T21:51:00Z
-    webUrl: "https://www.theatlantic.com/newsletters/archive/2023/05/altman-hearing-ai-existential-risk/674096/"
+  - title: "Preparing for AI in the Employee Experience"
+    excerpt: "AI is the next big evolution in how we work. Most employees will need to incorporate it into their work. AI can be an effective tool for reducing repetitive tasks and minimizing bias in decision-making. Willingness to learn, emotional intelligence, and creative problem-solving are critical skills to hone."
+    publishedDateTime: 2023-05-17T22:07:00Z
+    webUrl: "https://www.psychologytoday.com/za/blog/the-new-employee-experience/202305/preparing-for-ai-in-the-employee-experience"
     type: article
     provider:
-      name: The Atlantic
-      domain: theatlantic.com
-    quality: 67
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 39
     images:
-      - url: "https://cdn.theatlantic.com/thumbor/Pmsh2bl4fBptpEm7XQ-8qcgKkmE=/0x401:5463x3246/1200x625/media/img/mt/2023/05/GettyImages_1255306219/original.jpg"
-        width: 1200
-        height: 625
+      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-05/GettyImages-1469706462.jpg?itok=gnSj0JMx"
+        width: 1528
+        height: 800
         isCached: true
-  - title: "Afraid of AI? Start with ad optimization"
-    excerpt: "There is perhaps no greater trend in the tech world right now than artificial intelligence (AI). Specifically, generative AI, which can produce content based on prompts, is garnering a"
-    publishedDateTime: 2023-05-17T16:50:00Z
-    webUrl: "https://digitalcontentnext.org/blog/2023/05/15/afraid-of-ai-start-with-ad-optimization/"
+  - title: "TV series about AI stirs resonance online"
+    excerpt: "Consisting of 33 episodes, the TV series has recently concluded its first run on CCTV-1 and is now available on the streaming sites iQiyi and Tencent Video. Set in a fictional city named Pengcheng, the tale is narrated through four parallel storylines,"
+    publishedDateTime: 2023-05-16T12:37:00Z
+    webUrl: "https://global.chinadaily.com.cn/a/202305/16/WS64633165a310b6054fad342f.html"
     type: article
     provider:
-      name: Digital Content Next
-      domain: digitalcontentnext.org
-    quality: 37
-    images:
-      - url: "https://digitalcontentnext.org/wp-content/uploads/2023/05/vector-of-human-head-with-transparent-overlay-of-earth-and-data.jpg"
-        width: 867
-        height: 400
-        isCached: true
-  - title: "Using AI to find rare minerals"
-    excerpt: "A machine learning model can predict the locations of minerals on Earth—and potentially other planets—by taking advantage of patterns in mineral associations. Science and industry seek mineral deposits to both better understand the history of our planet and to extract for use in technologies like rechargeable batteries."
-    publishedDateTime: 2023-05-17T18:07:00Z
-    webUrl: "https://phys.org/news/2023-05-ai-rare-minerals.html"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 17
+      name: 中国日报网
+      domain: chinadaily.com.cn
+    quality: 19
 
 secured: "iKhr5bkJufamOQygN4m/sUGaWfML3fDQfxyagm3LkybyAo6xlbI4OlHzTcI7PtI9G/rGPP8rSBRNcJIrPEnhnc9s05Ahai44kltBjIajjO46f74L35xDcohpikqIIkaqt8NRdPRDSPd1DDzV2S9D1uLmqzyTXYqTvYnEh2I6bxCI32q3vGSYBX0Re23AmZELEwfvDTRtYzs3hR1xZTM8DQrg47me4HtwtfGrY+X9NgD392DvXMDSXL3FRhZVOBS18Nz2R3P3/EEUwC0XA3D1WvnsNLxo4FCoStgtcdeu9RRIfLgRKXFNFD7kKLjSEQKK82EKnQPNC601geJwbDKfRbh8MoImgdB47Pxpn9iRc1EnN3S/HThonokpKu+OFEvSX9q5nfOSA35zKZ/gxIGAY+JqOHhJj1bfSZ8iqGVUPp83EZDVfRNMfLmLl+VPDzCKtKKYbJCh6B49PZULJ265bWRwwmvkpv6Ky6eKMPdDtVFIlaHnvxXNfQ0EyZExz4vnYEbfaJonY6LAnemZR+knXQ==;x1MESwl5izrMwk6OiIQXwA=="
 ---

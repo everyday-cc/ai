@@ -228,15 +228,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "How AI ethics is coming to the fore with generative AI"
-    excerpt: "The hype around ChatGPT and other large language models is driving more interest in AI and putting ethical considerations surrounding their use to the fore"
-    publishedDateTime: 2023-05-15T07:44:00Z
-    webUrl: "https://www.computerweekly.com/feature/How-AI-ethics-is-coming-to-the-fore-with-generative-AI"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 34
   - title: "The race to bring generative AI to mobile devices"
     excerpt: "Tech companies like Google seek processing power in handsets to reduce computing costs and improve speed of AI chatbots"
     publishedDateTime: 2023-05-16T04:00:00Z

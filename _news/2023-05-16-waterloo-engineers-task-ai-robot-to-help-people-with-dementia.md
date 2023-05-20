@@ -33,15 +33,6 @@ related:
         width: 1200
         height: 450
         isCached: true
-  - title: "New AI-based tech can help robots to locate lost items"
-    excerpt: "And while some individuals with dementia might find the technology daunting, Ayub said caregivers could readily use it.The researchers will now conduct user studies with people without disabilities, then people with dementia."
-    publishedDateTime: 2023-05-15T09:03:00Z
-    webUrl: "https://www.devdiscourse.com/article/technology/2452029-new-ai-based-tech-can-help-robots-to-locate-lost-items"
-    type: article
-    provider:
-      name: devdiscourse
-      domain: devdiscourse.com
-    quality: 34
 
 secured: "SJOtXNWNzvFlicgZ/Ezbls9NTxKtlnnbE/OOZBXEt0B2HNo2okzfSQ/1J8uqo8KzZH36tYbr5jMqg9Xbqsn+xMkBjuxg+N10BmnVsG+LbqucoOgJ2IzLXDt3dlEyi+V+TwCi27+/Rwag+ttlNxuEomPnU9o6LBr9Do/dfsrfnBTdqlZsXfRLiTMazcJwSQF4qV6q0ubTD7hVxWsQ8UCVn0Co6QROFbUltb2AntYekO50GBQ2IHyKLWL0JroiSeZXsa0Cj3LjC7jgLUGK5aoIb/lqaC8nCUhAjYZXR14Hr58StSe7FTF6kdzmfYsFeyzBpS0lr5iF8Io68fE6kWzJ8ghKW99rmbaL5ljm/bXW88kUjG6PCbpHeLrHDPkHsX/mcSH+b5nE6Gy45EqUhIPth8/gZOBWmz/GeY7m7raebX0nyGJy1ZudSbybkxjsCJhDfqD7qGYpWztymeM0SYg+27QuixlETWUhL5bu9P4ZDkWFac/1G4nEtHFT9E6+OpnXgTC0gS/6vnf6dqNsWgY3Vg==;oUO4Tt0cUtcFF1kbB1riDA=="
 ---

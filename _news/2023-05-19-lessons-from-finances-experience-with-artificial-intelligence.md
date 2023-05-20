@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/money/lessons-from-finance-s-experience-wit
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/money/lessons-from-finance-s-experience-with-artificial-intelligence/amp-11684407926757.html"
 type: article
 quality: 76
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -42,6 +42,15 @@ related:
         width: 1528
         height: 800
         isCached: true
+  - title: "Finance expert explains why people are turning to AI for investment advice"
+    excerpt: "With ChatGPT and other artificial intelligence systems making waves, some people are turning to AI for financial planning, according to one West Virginia University researcher."
+    publishedDateTime: 2023-05-17T19:22:00Z
+    webUrl: "https://phys.org/news/2023-05-expert-people-ai-investment-advice.html"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 32
   - title: "TV series about AI stirs resonance online"
     excerpt: "Consisting of 33 episodes, the TV series has recently concluded its first run on CCTV-1 and is now available on the streaming sites iQiyi and Tencent Video. Set in a fictional city named Pengcheng, the tale is narrated through four parallel storylines,"
     publishedDateTime: 2023-05-16T12:37:00Z

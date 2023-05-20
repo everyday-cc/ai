@@ -49,22 +49,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Tesla to roll out free Full Self-Driving software, but there's a catch"
-    excerpt: "Tesla will initially roll out the FSD as a free trial version for one month before initiating a subscription for the users."
-    publishedDateTime: 2023-05-15T07:41:00Z
-    webUrl: "https://auto.hindustantimes.com/auto/electric-vehicles/tesla-to-roll-out-free-full-self-driving-software-but-theres-a-catch-know-here-41684132659743.html"
-    ampWebUrl: "https://auto.hindustantimes.com/auto/electric-vehicles/tesla-to-roll-out-free-full-self-driving-software-but-theres-a-catch-know-here/amp-41684132659743.html"
-    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/electric-vehicles/tesla-to-roll-out-free-full-self-driving-software-but-theres-a-catch-know-here/amp-41684132659743.html"
-    type: article
-    provider:
-      name: Auto News India
-      domain: hindustantimes.com
-    quality: 59
-    images:
-      - url: "https://images.hindustantimes.com/auto/img/2023/05/15/1600x900/model-y-social_1594536897997_1594536909822_1684136305607.png"
-        width: 1600
-        height: 900
-        isCached: true
 
 secured: "WO+JTtYztzMpg3LFH7aiQLoFFepc8nhntxveso2Wmyhy5AKokaIFPWpkZkIfdc+T/CPlGAYqmCZwSpgz0gguhcDXm21Irr2e0YQr71p/RqmgGbs8VXeuokYF1AtqvmiTSasUKsk0OWc+FePYpARP/HVV/AGf0pjisnUnFQ4JQu04h+dz6h8xUXgs+UdHLwjZzQlm7mt7fpJkjDVbZFMopR9Dn2CYLdNkH7S4Bu9ale+ST7pH4QRhH9CHSoGhxpgHGcJ2QcJV9w0SD+WvBu4EWWEPKtpld76pa8xnuORVf3SyDkCt0LQ2c6jtOZhONf04I7Vm540C0bnYiajWD8WKyeNChBh7/fEvcDxDoMyS927PuvmiSXAj9GPyJDPGwmST2xmu1CTB8Un0Hrqv7qn1YGIIF7FJPNw5C5+q2/q4zcbUhBHjDSfwMIUDZepcEwtwPhXCS/xh9SFY6NvwwJA8YaJfuUQMVyYwHbRc/WzAAQaRnp/L8s4AQalxf9Pki+JaPSbNmUn0bQzHJiAntLE6/Q==;CNJbpDhEVcvr67vz5HqE5Q=="
 ---
