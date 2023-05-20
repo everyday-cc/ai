@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/7-ai-stocks-that-c
 webUrl: "https://markets.businessinsider.com/news/stocks/7-ai-stocks-that-could-make-you-a-millionaire-by-2025-1032332066"
 type: article
 quality: 51
-heat: 83
+heat: 71
 published: true
 
 provider:
@@ -37,15 +37,6 @@ related:
     excerpt: "Although Alphabet encountered a bumpy start in the AI search engine competition, investors should not underestimate the company’s potential. In the years ahead, Alphabet’s strategic advancements in AI could potentially yield substantial returns for ..."
     publishedDateTime: 2023-05-16T13:19:00Z
     webUrl: "https://markets.businessinsider.com/news/stocks/hero-or-zero-3-high-risk-ai-stocks-that-could-make-you-rich-or-broke-1032331446"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 46
-  - title: "3 Penny Stocks to Buy as the AI Sector Transforms Every Industry in 2023"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips AI penny stocks offer investors a thrilling opportunity to tap into the"
-    publishedDateTime: 2023-05-19T10:51:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/3-penny-stocks-to-buy-as-the-ai-sector-transforms-every-industry-in-2023-1032339476"
     type: article
     provider:
       name: Business Insider

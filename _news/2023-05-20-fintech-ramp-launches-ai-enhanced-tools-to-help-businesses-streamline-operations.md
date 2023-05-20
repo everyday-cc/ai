@@ -9,7 +9,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2023/05/207415-fintech-ramp-launche
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/05/207415-fintech-ramp-launches-ai-enhanced-tools-to-help-businesses-streamline-operations/amp/"
 type: article
 quality: 54
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -36,6 +36,20 @@ related:
       name: GDPR fines
       domain: itp.net
     quality: 36
+  - title: "Bank of America launches FinTech accelerator for underrepresented communities"
+    excerpt: "Bank of America has launched a FinTech accelerator programme aimed at presenting economic opportunities to entrepreneurs from underrepresented communities. <br /> <br /> Bank of America Breakthrough Lab is now open for applications for its September 2023 cohort."
+    publishedDateTime: 2023-05-18T09:58:00Z
+    webUrl: "https://www.fstech.co.uk/fst/Bank_of_America_launches_FinTech_accelerator_for_underrepresented_communities.php"
+    type: article
+    provider:
+      name: fstech
+      domain: fstech.co.uk
+    quality: 36
+    images:
+      - url: "https://www.fstech.co.uk/fst/images/businessman-buttons-virtual-fintech-m.jpg"
+        width: 5580
+        height: 3138
+        isCached: true
   - title: "Teen-focussed fintech signs with Yoti to enhance security, verify age"
     excerpt: "The tool also enhances the platform's current Know Your Customer (KYC) and Anti-Money Laundering (AML) processes, the companies say."
     publishedDateTime: 2023-05-18T19:20:00Z
@@ -55,6 +69,6 @@ related:
       domain: tmcnet.com
     quality: 6
 
-secured: "11dbtJrf9OvlnqDQxOg+Ly10E6TgxO4ffvCrLL6CJ5+qWsOco3Iqu92GEXwab1l/ICUXi/WGPRa85vPu44wVxNK6KzVEyCgbtp4Sacg/Bj3dNHuXLXElUoKclu+L817oVs30Wu8X11GzRDtvXvnwHLolxU64MgbcDw+g6xXRTzp2y0GasBRNTysRu8nELANAPmR0lCrAFfyttakhiiTKIk7tKbp7LIH5dw7/9KSwmo03xOMAZwMGqrFMDOgLdfV5/naKOnINcQ7UiylRDVisAQQPFbyimP/90Ay6Nbb48/9eIt5xbGfadsZl/a2qwwYB+7iHv5S5aeWxXWzvM0NK9tT0zfuT4IUpI54iue3D0rM=;GrgkAG2uSWEdxJcli7Ti5g=="
+secured: "53gLmbvGKQDmNSIIKDrJEzmxrQZfu0Mtj3rJ5wFZmWZAQxcE78NrfZjlIktuc50JmjY00spNyno4wOy3QtrHaGwETJl0MYB6rWsZJen5E/BbLNZVTkV/lnxLDBmKMfUzeBz4irsEwV92ZODOu8ql45vxBV56y1OyQmMJncCNhrrLf2bRQIZz3WraiT8Wxl3X8Kjs4sZxHqC6eN+bY3X0wKIKUBSE9L8zPiupzrz+yxo59/WzsX3WuZC5+44SuJemIeuN0EMw+5GPIpP9jgqD549PC9KCXm+Sp4qwX8dZ2mmYPfHmA2clEGnsNBj6q7/tMk3v2T9HeJt7LskoNvJGiHRFS3LG+2RXB1pJQgKsEwXyHT9jef51ryA7RJJM4Djw7iDG8zEH2RyrFcRXEhcsUdiH5QFKgp6bXIZuYz60NkTabeQsUGvhJbNab8/PZKaXFDlII4oAsxNdc6lS4rI9SDy2kImWmhs/xyzg6YBCKUhwaI5U/971IbNLqInjOQh2xmWuxQ4EgEaDYY0MdQGKkg==;4w0oe/yhh2c+LJy8SkpB4A=="
 ---
 

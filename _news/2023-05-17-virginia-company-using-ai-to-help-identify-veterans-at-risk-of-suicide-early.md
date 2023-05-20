@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbc29.com/2023/05/16/virginia-company-using-ai-help-iden
 cdnAmpWebUrl: "https://www-nbc29-com.cdn.ampproject.org/c/s/www.nbc29.com/2023/05/16/virginia-company-using-ai-help-identify-veterans-risk-suicide-early/?outputType=amp"
 type: article
 quality: 56
-heat: -1
+heat: 56
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 800
     height: 450
     isCached: true
-
-related:
-  - title: "West Virginia Lawmakers Hear Testimony About Risks, Benefits of AI"
-    excerpt: "Experts shared the benefits and risks posed by quickly emerging AI systems. In addition to the standard security concerns the technology brings, experts were quick to share some of the workforce efficiencies it provides as well."
-    publishedDateTime: 2023-05-16T00:35:00Z
-    webUrl: "https://www.govtech.com/artificial-intelligence/west-virginia-lawmakers-hear-testimony-about-risks-benefits-of-ai"
-    ampWebUrl: "https://www.govtech.com/artificial-intelligence/west-virginia-lawmakers-hear-testimony-about-risks-benefits-of-ai?_amp=true"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/artificial-intelligence/west-virginia-lawmakers-hear-testimony-about-risks-benefits-of-ai?_amp=true"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 59
-    images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/b3d4ac8/2147483647/strip/true/crop/940x490+0+68/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F4d%2F69%2F1ac3ed2fcbc1fcb278e86144eb01%2Fshutterstock-1301147023.jpg"
-        width: 840
-        height: 438
-        isCached: true
 
 secured: "/yPc8886vRhvoKzpf1x2Q/8fezspPx3Q+w+01pIcp7WOj9zVR0r7dgUDtQ1OYBnrqjIKgkIvooW4iMQVVssgTAWhQgPrJNC6SfG0jmFjN/lyZ0QSRLwVb4oVU1Pe/bNbUgVk0fCLJ/RS+knfjbgbstyBQ8IrELb4xPeiMapBthX4kLeKm98OuAtF5i2hrYVMTNJf3Uzi5CMIEc+Dy0ML6/jcwsiO7KT50lQcH1PSfL8hCqkLdbLaNriI8hr653Piz1aFGklfAxOPrlAaRYVVgLyN4yLVwrZnt4s4NIyCWpWCwFuod9C64QWEB317wT9QwLs7BDwxQzRxQJ2lr2Ok/6H2KZQCw1CZa054aFVC9a90DJzz2WSBfWrjoH/sAH9PqMfeDyL7Leat2Q9DgNhuymdEeGotUwOtIXaG8Z+DSeQWfue0nADzSNDxydil69BCjFaohQX5j2LxgR9z7HC+HbWTBmo5v20TQEaCcGV91SokZOp8RjLZxXcf3Z/46Fc41MEF6sqZrWpejy3DbztSJg==;PxG0RQ2VDS0qWLkj6L1j7w=="
 ---

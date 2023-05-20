@@ -7,8 +7,8 @@ originalUrl: "https://www.bbc.com/worklife/article/20230515-workplace-ai-how-art
 webUrl: "https://www.bbc.com/worklife/article/20230515-workplace-ai-how-artificial-intelligence-will-transform-the-workday?trk=public_post_comment-text"
 type: article
 quality: 82
-heat: 102
-published: true
+heat: -1
+published: false
 
 provider:
   name: BBC
@@ -28,29 +28,42 @@ images:
     isCached: true
 
 related:
-  - title: "Politicians Need to Learn How AI Works—Fast"
-    excerpt: "Tech regulation has often disappointed. Automation expert Missy Cummings hopes a course to teach policymakers about artificial intelligence can help."
-    publishedDateTime: 2023-05-18T16:00:00Z
-    webUrl: "https://www.wired.com/story/fast-forward-politicians-need-to-learn-how-ai-works-fast/"
+  - title: "How the digital ad industry can guide the ways AI transforms businesses"
+    excerpt: "The digital advertising industry must look closely at how AI is implemented as it begins to use the tech for targeting, measurement, personalization and optimization."
+    publishedDateTime: 2023-05-20T16:10:00Z
+    webUrl: "https://venturebeat.com/ai/how-the-digital-ad-industry-can-guide-the-ways-ai-transforms-businesses/"
+    ampWebUrl: "https://venturebeat.com/ai/how-the-digital-ad-industry-can-guide-the-ways-ai-transforms-businesses/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-the-digital-ad-industry-can-guide-the-ways-ai-transforms-businesses/amp/"
     type: article
     provider:
-      name: Wired
-      domain: wired.com
-    quality: 69
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
     images:
-      - url: "https://media.wired.com/photos/646569ec06bd08d2f808af22/191:100/w_1280,c_limit/Missy-Cummings-Interview-Fast-Forward-Business-Redux-h_15868081.jpg"
-        width: 1280
-        height: 670
+      - url: "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1182774846-e1648671402902.jpg?w=1200&strip=all"
+        width: 1199
+        height: 638
         isCached: true
-  - title: "Bringing AI tools to the workplace requires a delicate balance"
-    excerpt: "AI is altering work for most knowledge workers. Businesses will need to figure out how to best navigate this workplace revolution."
-    publishedDateTime: 2023-05-17T13:00:00Z
-    webUrl: "https://www.seattletimes.com/explore/careers/bringing-ai-tools-to-the-workplace-requires-a-delicate-balance/"
+  - title: "3 Penny Stocks to Buy as the AI Sector Transforms Every Industry in 2023"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips AI penny stocks offer investors a thrilling opportunity to tap into the"
+    publishedDateTime: 2023-05-19T10:51:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-penny-stocks-to-buy-as-the-ai-sector-transforms-every-industry-in-2023-1032339476"
     type: article
     provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 17
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 46
+  - title: "Is Artificial Intelligence a threat to the blue-collared industry?"
+    excerpt: "The rise of Artificial Intelligence is changing the job market, and blue-collar workers may be particularly vulnerable to job loss"
+    publishedDateTime: 2023-05-17T07:59:00Z
+    webUrl: "https://www.dqindia.com/is-artificial-intelligence-a-threat-to-the-blue-collared-industry/"
+    ampWebUrl: "https://www.dqindia.com/is-artificial-intelligence-a-threat-to-the-blue-collared-industry/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/is-artificial-intelligence-a-threat-to-the-blue-collared-industry/amp/"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 39
 
 secured: "+GxFs9iLPDuUyEQnuOf3yT3K2VFHefCL2V027sBoxCeto9HAetZ1Fl7QrHuWjjlYYnlv44iMCYHvZmINtM3ORMtgtL6N/NbxN6wVZBgVbJhYUHpIC+T57jzxElM6vCVHha+KGIaYHuQidzOzPzxF9V4NeYbmbnUp8XLGPnFpVVrGlQw68ZJ8B/IJueMqOm1R+nbAynmrYn6xH55+FvD6Bb0P9eOERIFsTG7h9h7Q76yFv3Lfb/X0o1lV0ZKWWeLCc/VDI9qR9RUEnAOg7LfIUYPuXCflNV10SVLw9RuRq0+b7AbCLSCeqqOTVFpsxllonBSYxZRNfeNjIAPJWlM9EET920QtwQrRNVa9CFLmx0ojxqitmz8kD0BRLzTELpG+mYkhakaE0B+DlVHiRU5zUqmfjvQCpT4kWIcxDP/imSXj/1bgzYLRc/zpt+mW90g+vROyahzHWKCL+CoiNPnEBHqazUEpVRrou4LY/0+6YrcjQSTmoDYXy1Wp/dmMCzjV6a2dII85yYEGtSpZPLhhkw==;YM+mknb67uP14yVANUHwNw=="
 ---

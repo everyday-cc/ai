@@ -45,6 +45,20 @@ related:
       name: GDPR fines
       domain: itp.net
     quality: 36
+  - title: "Bank of America launches FinTech accelerator for underrepresented communities"
+    excerpt: "Bank of America has launched a FinTech accelerator programme aimed at presenting economic opportunities to entrepreneurs from underrepresented communities. <br /> <br /> Bank of America Breakthrough Lab is now open for applications for its September 2023 cohort."
+    publishedDateTime: 2023-05-18T09:58:00Z
+    webUrl: "https://www.fstech.co.uk/fst/Bank_of_America_launches_FinTech_accelerator_for_underrepresented_communities.php"
+    type: article
+    provider:
+      name: fstech
+      domain: fstech.co.uk
+    quality: 36
+    images:
+      - url: "https://www.fstech.co.uk/fst/images/businessman-buttons-virtual-fintech-m.jpg"
+        width: 5580
+        height: 3138
+        isCached: true
   - title: "Style AI Launches Suite of AI Assistants to Help Small Business Get More Customers Digitally"
     excerpt: "Seona, powered by advanced machine learning models and AI built out of UC Berkeley, revolutionizes SEO optimization for websites. With its remarkable ability to analyze and comprehend website content,"
     publishedDateTime: 2023-05-18T13:12:00Z

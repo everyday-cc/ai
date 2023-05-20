@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/tomaspremuzic/2023/05/18/risks--oppor
 webUrl: "https://www.forbes.com/sites/tomaspremuzic/2023/05/18/risks--opportunities-for-the-human-ai-age/"
 type: article
 quality: 49
-heat: -1
+heat: 49
 published: false
 
 provider:
@@ -23,22 +23,24 @@ topics:
   - AI in Robotics
 
 related:
-  - title: "AI & Biotechnology Show It’s Time To Think Past Bicycles For The Mind"
-    excerpt: "As we enter a new era of artificial intelligence and biotechnology, Jobs's framing of computer technology takes on new significance, but also shows its limitations."
-    publishedDateTime: 2023-05-16T00:57:00Z
-    webUrl: "https://www.forbes.com/sites/ebenbayer/2023/05/15/ai--biotechnology-show-its-time-to-think-past-bicycles-for-the-mind/"
-    ampWebUrl: "https://www.forbes.com/sites/ebenbayer/2023/05/15/ai--biotechnology-show-its-time-to-think-past-bicycles-for-the-mind/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ebenbayer/2023/05/15/ai--biotechnology-show-its-time-to-think-past-bicycles-for-the-mind/amp/"
+  - title: "How Humanity Can Avoid an AI Takeover"
+    excerpt: "We talk to MIT professor Daron Acemoglu about his book Power and Progress and unpack why making direct human-to-AI comparisons isn't necessarily helpful in determining our relationship with technology."
+    publishedDateTime: 2023-05-17T10:59:00Z
+    webUrl: "https://www.wired.com/story/have-a-nice-future-podcast-6/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6462d37eadb409b3cadd3ff9/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 801
-        isCached: true
+      name: Wired
+      domain: wired.com
+    quality: 47
+  - title: "Growth Opportunities in Wearables, Artificial Intelligence, Quantum Computing"
+    excerpt: "The \"Growth Opportunities in Wearables, Artificial Intelligence, Quantum Computing and 5G Communication\" report has been added to ResearchAndMarkets.com's offering. The Microelectronics Technology Opportunity Engine focuses on innovations related to hardware modules for space shuttles,"
+    publishedDateTime: 2023-05-17T17:54:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-growth-opportunities-wearables-artificial-intelligence-quantum-computing-5g-/2023/05/17/9816480.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 16
 
 secured: "cdJpNVnzU4+U32oROySYJbdUY/+rKg28uuCO4CbVjLggoRlzR7O+4Ll4k1HUeiN4k6qSzefTFJOGGvU0cdupvwdlaEaOoBNb6AryVxA/BBkPrD9u3mUsDKIlrfsAzDhE7ddoVRzK9Wj6wVVFM8GHA9Q/z0k7PmNI46CtoxDaiA4B4GGXFIrx1dDKrPdVjOE+U8f7hzaW+rfnxWXO396H/nDVSx7jn2UyQssFjYTpAyDwLkCmm3khJLV9BGJ86GLShWkhfRmZDK84umNT2MTaHAo48o1rtBegFcZq5X4Jf1oodVQuZQjgggOPHmzT2Yx6z910Dnz7/DU33u5Q3fgCVOc+2gPUwDuQy7QHfLnY6PQ+Y7XQZbZVVvnZm9vPt1Y838BJmaH8gDNE5osbsC3PsWR4CFpqAnozI0mgVSywfrWy0zyKIlPQPt3y3AhWm/ShsUsfO0XILCMvVKILG3Gif9RGPQCva00eq1t5urdO7Hoa4BN6rckaNmvNlo32BQ782RuVUPAs6Ds171lYeu2bEw==;/odpmmDFoyS0hrVUXz0nPw=="
 ---

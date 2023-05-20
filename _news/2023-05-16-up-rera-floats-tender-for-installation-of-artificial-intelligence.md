@@ -69,6 +69,22 @@ related:
       name: The Motley Fool
       domain: fool.com
     quality: 68
+  - title: "Elections in UK and US at risk from AI-driven disinformation, say experts"
+    excerpt: "False news stories, images, video and audio could be tailored to audiences and created at scale by next spring"
+    publishedDateTime: 2023-05-20T09:00:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/may/20/elections-in-uk-and-us-at-risk-from-ai-driven-disinformation-say-experts?ref=upstract.com"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/may/20/elections-in-uk-and-us-at-risk-from-ai-driven-disinformation-say-experts"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/may/20/elections-in-uk-and-us-at-risk-from-ai-driven-disinformation-say-experts"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 56
+    images:
+      - url: "https://i.guim.co.uk/img/media/34ebf02415ed71c69dbfa49edb9fc69962c7ea1f/895_7_5828_3499/master/5828.jpg?width=620&quality=85&auto=format&fit=max&s=cb83d3bea388c422da72c767a2ca75df"
+        width: 620
+        height: 372
+        isCached: true
   - title: "AI in ICT (Information and Communications Technology) Market Future Investments and Forecast Till 2030"
     excerpt: "The detailed analysis of the AI in ICT (Information and Communications Technology) Market report provides information"
     publishedDateTime: 2023-05-16T07:35:00Z
@@ -92,15 +108,6 @@ related:
       name: BBC
       domain: bbc.co.uk
     quality: 17
-  - title: "Elections in UK and US at risk from AI-driven disinformation, say experts"
-    excerpt: "False news stories, images, video and audio could be tailored to audiences and created at scale by next spring"
-    publishedDateTime: 2023-05-20T09:00:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/may/20/elections-in-uk-and-us-at-risk-from-ai-driven-disinformation-say-experts"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 16
 
 secured: "DFK01uZQ5IW8feE7r5LRg+HrjoDFKYaPg3Mjmb2u8/nF15cSzAw20F6dn9h3dCO9t7RdmfF0VO/qhPKmzkCtyfp09P0T3JkRi9wC+htswOZN+4vqRiKcYttRTnz6zsTrPD75Thov4Jvbm67E7x90PfHb+Sw3+WM0uv8lQMyWrdTtM9cRbMLPUkJ23DifxI3mpiLE9TPFUbPYK6mL3icP5P1DcbTWbJgX6RhluJYyRoV0D5UU5cXuIdgH3ZvgFPUPDWNahtEhg7NyLTnnzKLe8t0uqn5vCHpkTAuvEvjGDcggJ4UX7FrIfkpKB2bPo71qfU69Fj8PftCSzbrHSZ9lo2ukUoaok+1LEl9dV99M3eK3CP+22J+sQI9MISj9HR/g6zEWgksZ1eWBUkJbC/uwh8nq+gkJSgvbCMePXFIVQyttkWkdijvh4MsaG0eIEXB1NsnBYOk94faHGgaAzueKrgxPuUtUQ71FMhPWlg7ifFQOVdy3XfuC3w8FbQXApSrnZLJOFHPkqMvS/rvnAi6OYg==;LQwIJ4gvxcbqZ5oDbMdnmw=="
 ---

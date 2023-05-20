@@ -29,48 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Computer Vision System Market Research | 2023-2030"
-    excerpt: "Research Reports has published a new report titled as \"Computer Vision System Market\" by End User (Automotive,"
-    publishedDateTime: 2023-05-16T00:43:00Z
-    webUrl: "https://www.marketwatch.com/press-release/computer-vision-system-market-research-2023-2030-2023-05-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Robot Firefighter Market Research | 2023-2030"
-    excerpt: "The Global Robot Firefighter market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players,"
-    publishedDateTime: 2023-05-16T10:46:00Z
-    webUrl: "https://www.marketwatch.com/press-release/robot-firefighter-market-research-2023-2030-2023-05-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Face Recognition Systems Market 2023-2030 Size and Driving Growth"
-    excerpt: "The Face Recognition Systems Market Scope and Overview Report for 2023 presents a detailed analysis of the latest trends"
-    publishedDateTime: 2023-05-17T05:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-systems-market-2023-2030-size-and-driving-growth-2023-05-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "2023, Face Recognition Systems Market | Global Industry Analysis Till 2030"
     excerpt: "Face Recognition Systems Market | Outlook 2023-2028 | Pre and Post-COVID Research is Covered, Report Information |"
     publishedDateTime: 2023-05-16T06:17:00Z
@@ -85,43 +43,38 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Machine Learning in Communication Market 2023 | Regional Majority Market by 2030"
-    excerpt: "The Machine Learning in Communication Market Scope and Overview Report for 2023 presents a detailed analysis of the"
-    publishedDateTime: 2023-05-16T09:37:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-in-communication-market-2023-regional-majority-market-by-2030-2023-05-16"
+  - title: "Voice And Speech Recognition Software Market Value with Status and Global Analysis 2023 to 2031"
+    excerpt: "May 15, 2023 (Heraldkeepers) -- Our report on the Voice And Speech Recognition Software market provides comprehensive insights into the market size, trends, and opportunities in the industry. Our report provides a detailed analysis of the key drivers and ..."
+    publishedDateTime: 2023-05-16T15:18:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-and-speech-recognition-software-market-value-with-status-and-global-analysis-2023-to-2031-2023-05-15"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 64
+    quality: 57
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "2023, Big Data & Machine Learning in Telecom Market Research Report Analysis by 2030"
-    excerpt: "The major players covered in the Big Data and Machine Learning in Telecom market report are: Get a sample copy of the Big Data and Machine Learning in Telecom Market report 2023 Short Summery About Big Data and Machine Learning in Telecom Market: Market Overview of Global Big Data and Machine Learning in Telecom market: According to our latest research,"
+  - title: "2023, BFSI Artificial Intelligence Market | Global Industry Analysis Till 2030"
+    excerpt: "BFSI Artificial Intelligence Market | Outlook 2023-2028 | Pre and Post-COVID Research is Covered, Report Information"
     publishedDateTime: 2023-05-16T06:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/2023-big-data-machine-learning-in-telecom-market-research-report-analysis-by-2030-2023-05-16"
+    webUrl: "https://www.marketwatch.com/press-release/2023-bfsi-artificial-intelligence-market-global-industry-analysis-till-2030-2023-05-16"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 62
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "2023-2030 Computer Vision Market: Highlights with Growth Rate"
-    excerpt: "Computer Vision Market Report Insights: (Report Pages: 107) CAGR and Revenue: “CAGR of 31.74% during the forecast"
-    publishedDateTime: 2023-05-17T04:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/2023-2030-computer-vision-market-highlights-with-growth-rate-2023-05-17"
+    quality: 43
+  - title: "2030, Facial Recognition Door Lock Market Growth | Expansion Plan and Latest Updates"
+    excerpt: "The \"Facial Recognition Door Lock Market\" research report for the period 2023-2030 offers a comprehensive analysis of"
+    publishedDateTime: 2023-05-16T12:42:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2030-facial-recognition-door-lock-market-growth-expansion-plan-and-latest-updates-2023-05-16"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 49
+    quality: 42
   - title: "Automotive Speech Recognition System Market Business Strategies, Industry Share, Size 2023 to 2030 | Nuance, Microsoft, Alphabet"
     excerpt: "A detailed study accumulated to offer current insights about important features of the Automotive Speech Recognition"
     publishedDateTime: 2023-05-17T07:23:00Z
@@ -131,6 +84,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 37
+  - title: "Global Face Recognition API Market Size 2023-2031 Business Strategies by Absolute Reports | with [103 Pages]"
+    excerpt: "Global “Face Recognition API Market” forecasts for 2023 to 2031, broken down by region, types [Accuracy Rate > 95 percentage, Accuracy Rate 80 percentage-95 percentage, Accuracy Rateâ ¤80 percentage], and application [Financial, Security ..."
+    publishedDateTime: 2023-05-17T13:09:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-face-recognition-api-market-size-2023-2031-business-strategies-by-absolute-reports-with-103-pages-2023-05-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 30
 
 secured: "SpSdSsDJRsWoPJHnA6KCnxt5Joa9aVcqK3gjzILZ1+7EOILEJjR3v0BqnkbbNrMgaQ8X4ew3zE3UCznTs8jWYkqLJZuyZgXE69eXZhFPqL9ckw2UwgJbNz5oVmSjDIUSl+Q0bIL610Asy0KsXvxOOYqLmitZg4zgkJVMwXpfX1KF9MAXfRNmYGUZ2fMw2GhsVHpGkGVOE7JTcBavHTq/cgXroBS7hSEKf6n/LNhdOfjwYnUO7X4af8oMkGNgLX1rCWxUq+QbEG+qBYUcjsEVyNXb+0KjcBwE45EJVTMtuTOPjT5nptXCXY68D+G5aw/xcILyALxOMCHTaZwV73xj+QbSap6KFVpfPvyhWR7oSXY=;QnAK4WpXq3eAeqXWDuQgHQ=="
 ---

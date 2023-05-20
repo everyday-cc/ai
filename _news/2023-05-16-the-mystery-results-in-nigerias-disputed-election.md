@@ -58,22 +58,6 @@ related:
         height: 576
         isCached: true
   - title: "Nigeria election: The mystery of the altered results in disputed poll"
-    excerpt: "On 25 February, Nigerians cast their votes at thousands of polling stations across the country. At each polling station, the votes for the party of each candidate were publicly announced and the results sheets taken for collation first at the ward level, then at local government (LGA) centres."
-    publishedDateTime: 2023-05-16T00:02:00Z
-    webUrl: "https://www.bbc.com/news/65163713"
-    ampWebUrl: "https://www.bbc.com/news/65163713.amp"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/65163713.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 74
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/7854/production/_129440803_tinubu1.png"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Nigeria election: The mystery of the altered results in disputed poll"
     excerpt: "When we compared an image from this account to the television pictures of Dr Ariaga using Amazon Rekognition software, we achieved a match of 97.2%, indicating a very high probability they're the ..."
     publishedDateTime: 2023-05-17T06:30:00Z
     webUrl: "https://www.bbc.co.uk/news/65163713.amp"

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/yellow-ai-launches-yellowg-a-generative-a
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/yellow-ai-launches-yellowg-a-generative-ai-platform-for-automation-workflows/amp/"
 type: article
 quality: 84
-heat: 85
+heat: 84
 published: true
 
 provider:

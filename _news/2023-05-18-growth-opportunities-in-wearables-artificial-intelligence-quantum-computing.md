@@ -19,15 +19,24 @@ topics:
   - AI
 
 related:
-  - title: "Growth Opportunities in Cloud Security, Data Security, EDR Security, Identity Access Management, Deep Learning and Computer Vision-based Security"
-    excerpt: "The \"Growth Opportunities in Cloud Security, Data Security, EDR Security, Identity Access Management, Deep Learning and Computer Vision-based Security\" report has been added to ResearchAndMarkets.com's offering."
-    publishedDateTime: 2023-05-18T16:49:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/05/18/9817315.htm"
+  - title: "Risks & Opportunities For The Human-AI Age"
+    excerpt: "That said, these platforms wouldn’t even exist if we hadn’t been quite narcissistic to begin with, but the AI age has normalized digital narcissism by making it rather adaptive. In the real world, if you go around the office telling everybody how great you are,"
+    publishedDateTime: 2023-05-18T13:36:00Z
+    webUrl: "https://www.forbes.com/sites/tomaspremuzic/2023/05/18/risks--opportunities-for-the-human-ai-age/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 16
+      name: Forbes
+      domain: forbes.com
+    quality: 49
+  - title: "How Humanity Can Avoid an AI Takeover"
+    excerpt: "We talk to MIT professor Daron Acemoglu about his book Power and Progress and unpack why making direct human-to-AI comparisons isn't necessarily helpful in determining our relationship with technology."
+    publishedDateTime: 2023-05-17T10:59:00Z
+    webUrl: "https://www.wired.com/story/have-a-nice-future-podcast-6/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 47
 
 secured: "xAe9KooLp2OEYtzcOorGB0bOwP6yM42EODn+W/S7yx+x2z4GN6xJTwkWDztUwA8ZGU9QschCil9A0pi8A2LwW2nkVNocRVmYu4PMM5IJLprTXxzvlTnIxSHXVV87dfrGA8gK0U9laRXKwukQIEYaaUcUbSuUFZdwJ9FArWcWO6BBmLSVkyaCKm9Ue/Pcj56D77b+hx1atvWMEZTsHnBbGoWY8Z8LssAn8nQ9qwksWrWsdZAWUOuTmhBCPR+RGqRnzR6bQUp+3oyFdy6khoDYLYZ29P0/skmOztAQ78WXPlCcxgQUdiftx8YwMf9H/ab+15avTChsgv9gf0Ksy+LRzZu+hA9x/Ehu0d67CYe8Cn0=;aOp0p8U8jgvtWW4xdEV+vA=="
 ---

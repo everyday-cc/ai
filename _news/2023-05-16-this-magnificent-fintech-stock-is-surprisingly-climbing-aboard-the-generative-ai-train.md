@@ -51,6 +51,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Boston Isn’t Afraid of Generative AI"
+    excerpt: "The city’s first-of-its-kind policy encourages its public servants to use the technology—and could serve as a blueprint for other governments."
+    publishedDateTime: 2023-05-19T16:07:00Z
+    webUrl: "https://www.wired.com/story/boston-generative-ai-policy/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 69
+    images:
+      - url: "https://media.wired.com/photos/646799a606bd08d2f808af39/191:100/w_1280,c_limit/Keyboard_bent_AI_ideas_GettyImages-1469762438.jpg"
+        width: 1280
+        height: 670
+        isCached: true
   - title: "Study combines quantum computing and generative AI for drug discovery"
     excerpt: "Insilico Medicine, a clinical stage generative artificial intelligence (AI)-driven drug discovery company, today announced that it combined two rapidly developing technologies, quantum computing and generative AI,"
     publishedDateTime: 2023-05-19T13:54:00Z

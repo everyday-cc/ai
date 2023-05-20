@@ -41,22 +41,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Smile! Reid airport is testing ground for facial recognition project"
-    excerpt: "The TSA says the pilot program is voluntary and accurate, but critics have raised concerns about questions of bias in facial recognition technology."
-    publishedDateTime: 2023-05-15T23:24:00Z
-    webUrl: "https://www.reviewjournal.com/business/smile-reid-airport-is-testing-ground-for-facial-recognition-project-2777726/"
-    ampWebUrl: "https://www.reviewjournal.com/business/smile-reid-airport-is-testing-ground-for-facial-recognition-project-2777726/amp/"
-    cdnAmpWebUrl: "https://www-reviewjournal-com.cdn.ampproject.org/c/s/www.reviewjournal.com/business/smile-reid-airport-is-testing-ground-for-facial-recognition-project-2777726/amp/"
-    type: article
-    provider:
-      name: Las Vegas Review-Journal
-      domain: reviewjournal.com
-    quality: 74
-    images:
-      - url: "https://www.reviewjournal.com/wp-content/uploads/2023/05/17778613_web1_AP23116691165190.jpg?w=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Las Vegas airport testing facial recognition to screen passengers"
     excerpt: "The TSA says the security program is voluntary and accurate, but critics have raised concerns about bias in facial recognition technology."
     publishedDateTime: 2023-05-17T16:14:00Z
@@ -88,6 +72,20 @@ related:
       - url: "https://thegrio.com/wp-content/uploads/2023/05/AP23116691315221-scaled.jpg"
         width: 2560
         height: 1707
+        isCached: true
+  - title: "Are you who you say you are? TSA tests facial recognition technology to boost airport security"
+    excerpt: "BALTIMORE—A passenger walks up to an airport security checkpoint, slips an ID card into a slot and looks into a camera atop a small screen. The screen flashes “Photo Complete” and the person walks through—all without having to hand over their identification to the TSA officer sitting behind the screen."
+    publishedDateTime: 2023-05-20T16:12:00Z
+    webUrl: "https://businessmirror.com.ph/2023/05/21/are-you-who-you-say-you-are-tsa-tests-facial-recognition-technology-to-boost-airport-security/"
+    type: article
+    provider:
+      name: BusinessMirror
+      domain: businessmirror.com.ph
+    quality: 59
+    images:
+      - url: "https://businessmirror.com.ph/wp-content/uploads/2023/05/world01-052123.jpg"
+        width: 720
+        height: 480
         isCached: true
   - title: "TSA tests facial recognition technology at airports"
     excerpt: "“What we are trying to do with this is aid the officers to actually determine that you are who you say who you are,” Jason Lim, identity management capabilities manager, said while presenting the technology to reporters at Baltimore-Washington ..."
@@ -168,15 +166,6 @@ related:
         width: 790
         height: 497
         isCached: true
-  - title: "TSA now wants to scan your face at security. Here are your rights."
-    excerpt: "Next time you’re at airport security, get ready to look straight into a camera. The TSA wants to analyze your face. The Transportation Security Administration has been quietly testing ..."
-    publishedDateTime: 2023-05-16T00:00:00Z
-    webUrl: "https://www.washingtonpost.com/technology/2022/12/02/tsa-security-face-recognition/"
-    type: article
-    provider:
-      name: The Washington Post
-      domain: washingtonpost.com
-    quality: 21
   - title: "TSA testing facial recognition technology, prompting privacy concerns"
     excerpt: "A new project by the Transportation Security Administration is using facial recognition software to verify identities."
     publishedDateTime: 2023-05-16T06:19:00Z
