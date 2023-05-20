@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/unlock-productivity-with-advanced-generat
 webUrl: "https://www.ibm.com/blog/unlock-productivity-with-advanced-generative-ai/"
 type: article
 quality: 119
-heat: 299
+heat: 309
 published: true
 
 provider:
@@ -154,6 +154,22 @@ related:
       - url: "https://erepublic.brightspotcdn.com/dims4/default/2cfba84/2147483647/strip/true/crop/1679x875+0+0/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fa6%2F8d%2F75d7c3b64a09b15bf3759f57b52d%2Fus-news-senate-ai-regulation-get.jpg"
         width: 840
         height: 438
+        isCached: true
+  - title: "‘Generative AI can be seen; it’s more cool than traditional AI’"
+    excerpt: "Generative AI and transformers (that help predict the next word or a sentence, and even a para) were not invented to perform physical stuff. They were invented to understand languages better. Images and videos are only a by-product of that."
+    publishedDateTime: 2023-05-20T05:56:00Z
+    webUrl: "https://www.livemint.com/news/india/generative-ai-can-be-seen-it-s-more-cool-than-traditional-ai-11684520744847.html"
+    ampWebUrl: "https://www.livemint.com/news/india/generative-ai-can-be-seen-it-s-more-cool-than-traditional-ai/amp-11684520744847.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/generative-ai-can-be-seen-it-s-more-cool-than-traditional-ai/amp-11684520744847.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 59
+    images:
+      - url: "https://www.livemint.com/lm-img/img/2023/05/19/600x338/Global-chief-technology-officer-of-Evalueserve--Ri_1684520740797.png"
+        width: 600
+        height: 338
         isCached: true
   - title: "Generative AI Empowers Users but Challenges Security"
     excerpt: "With the introduction of generative AI, even more business users are going to create low-code/no-code applications. Prepare to protect them."

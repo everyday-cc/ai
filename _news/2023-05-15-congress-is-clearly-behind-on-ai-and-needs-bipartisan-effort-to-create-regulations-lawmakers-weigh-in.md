@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/congress-clearly-behind-ai-needs-bi
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/congress-clearly-behind-ai-needs-bipartisan-effort-create-regulations-lawmakers-weigh.amp"
 type: article
 quality: 70
-heat: 90
+heat: 80
 published: true
 
 provider:
@@ -46,15 +46,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Congress wants to regulate AI, but it has a lot of catching up to do"
-    excerpt: "Senate Majority Leader Chuck Schumer is trying to lead an effort to craft groundbreaking legislation to install safeguards around artificial intelligence. But lawmakers have a lot to learn."
-    publishedDateTime: 2023-05-15T12:22:00Z
-    webUrl: "https://www.mprnews.org/story/2023/05/15/npr-congress-wants-regulate-ai-artificial-intelligence-lot-of-catching-up-to-do"
-    type: article
-    provider:
-      name: MPR News
-      domain: mprnews.org
-    quality: 19
 
 secured: "ZH/ZdjcHQgWG3dTnrrlvGE+b41inkM9xtV+PdiDB44UX11ZQWZporuhb1+NY9CyPe279J9+iNvkv70Yx30BiszfZaByDvd6X2q5/80TXcby7JJmtwR/UcYeivEJMfAcYg/Xlde16sH6sjGz7ylKazHwN9WyaqBo4ZB4yMTlJGhOC0dj8cD3+tGpn/T0O44TxpxqWjqgiJxwHsPhrS66xdUM3IH8MT8DJQ71hkSdRDcJNA2ZlR218xqQt1XF4A539aVA2gwgjh5Z7lfzto+zbRGZkDf56eWr0r0CwA3rdS1rbFbROoxrOoWiqREmBIKy9GKhGtlhoCacwN2BUhd4Z8gyeTjSmiEiLVWE1io7STM4=;qR50XZuYpYstziqFw2jrjQ=="
 ---

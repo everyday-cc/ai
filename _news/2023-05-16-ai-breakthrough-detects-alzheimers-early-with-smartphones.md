@@ -57,15 +57,6 @@ related:
       name: Medical Xpress
       domain: medicalxpress.com
     quality: 17
-  - title: "Fighting Alzheimer’s with AI: Raleigh company working with global giant to develop treatment plans"
-    excerpt: "Alzheimer's Disease and dementia have long been feared by many, especially those with first-hand experience. Raleigh-based uMETHOD is working with global giant Quest Diagnostics to help address those fears driven in part by the experiences of its company founder who says the issues are \"personal to me."
-    publishedDateTime: 2023-05-15T11:53:00Z
-    webUrl: "https://wraltechwire.com/2023/05/15/fighting-alzheimers-with-ai-raleigh-company-working-with-global-giant-to-develop-treatment-plans/"
-    type: article
-    provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 3
 
 secured: "f69nUHfkWr6FSf/naQMfzsHWiXB+uKs3fhaG8sYa2erZQIf47MdMIn29aESMkmIGkPr8e3SnFazjCCLkJ2FmtOf8Qt0+24NFlGECM4XYsffwPynU9oo2RudVzzrneZ1nPmbn80UN/oo7bzlbbKRoLXMaoV77rmR1pVZDOUpx4nwhI1eKBKwc1b5WbiQcFNdZW2tkUSk8ZqloWqseLqFlg3pzFA1ETPD4fDxVXUG+ls4MchGdtnInWNJc1A3WlmCs0Veuy+6kr3aoQBbNwhvLtnTMb+HJslMmTZOEs9Af6rO4cFLxvzEbIgJWKPxh/3x7NoPWFV/Z9p0C0gc2u6qB/LLmT2CQsl+eZPiN4bOKvu22W80bqGAElFjTreSIZ+COPYUillStohcWYiE3++fJwGyCP5kJRf7+MTSXkw8FDOa1HcB2SG3OkT+CAqv0dxmsFEMmiwx8tlG4Nd5gkZxs2vm7Rav6hjYWd3emQnBfgnMyU8juyN2srjBC80AkQ11ZKAS0w4IRBV2hMAfkcwGBqQ==;3art7RifJqPqTX6Nw0hNyw=="
 ---

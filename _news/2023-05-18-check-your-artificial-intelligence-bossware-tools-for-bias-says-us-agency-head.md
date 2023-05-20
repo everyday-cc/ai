@@ -1,29 +1,24 @@
 ---
 category: news
-title: "Check your artificial intelligence 'bossware' tools for bias, says U.S. agency head"
-excerpt: "The head of the U.S. agency charged with enforcing civil rights in the workplace says artificial intelligence-driven “bossware” tools that closely track the whereabouts, keystrokes and productivity of"
-publishedDateTime: 2023-05-18T16:06:00Z
-originalUrl: "https://abcnews.go.com/US/wireStory/check-artificial-intelligence-bossware-tools-bias-us-agency-99429860"
-webUrl: "https://abcnews.go.com/US/wireStory/check-artificial-intelligence-bossware-tools-bias-us-agency-99429860"
-ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/check-artificial-intelligence-bossware-tools-bias-us-agency-99429860"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/check-artificial-intelligence-bossware-tools-bias-us-agency-99429860"
+title: "Check your artificial intelligence ‘bossware’ tools for bias, says U.S. agency head"
+excerpt: "The head of the U.S. agency charged with enforcing civil rights in the workplace says artificial intelligence-driven “bossware” tools that closely track the whereabouts, keystrokes and productivity of workers can also run afoul of discrimination laws."
+publishedDateTime: 2023-05-18T15:54:00Z
+originalUrl: "https://www.seattletimes.com/business/check-your-artificial-intelligence-bossware-tools-for-bias-says-u-s-agency-head/"
+webUrl: "https://www.seattletimes.com/business/check-your-artificial-intelligence-bossware-tools-for-bias-says-u-s-agency-head/"
+ampWebUrl: "https://www.seattletimes.com/business/check-your-artificial-intelligence-bossware-tools-for-bias-says-u-s-agency-head/?amp=1"
+cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/check-your-artificial-intelligence-bossware-tools-for-bias-says-u-s-agency-head/?amp=1"
 type: article
-quality: 51
-heat: 61
+quality: 33
+heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Seattle Times
+  domain: seattletimes.com
 
 topics:
+  - AI in Autos
   - AI
-
-images:
-  - url: "https://s.abcnews.com/images/US/wirestory_48f2da9321a023aa102e636026667bb4_16x9_992.jpg"
-    width: 992
-    height: 558
-    isCached: true
 
 related:
   - title: "Check your artificial intelligence 'bossware' tools for bias, says U.S. agency head"
@@ -43,6 +38,6 @@ related:
         height: 558
         isCached: true
 
-secured: "rdmeAAFwGNfcMP6Run4rmZ5VGFVKIWV5RG+UsdTIeQ1NsZ79b19z4mtiUGiOFn8ylT101pchSrl+VxlX9+GDmPcrOU73hqtkFkoTUHxnoTGHTMWgx35/uQnSBBdxOo+WKD+apUVYLwtyJyvOOb+3kbSfkZ+NmcPAuDJ+FsBbpj5mqNOcHyb4BdLXAkM88xvQeTeQ0Y2K7b9SkguTXT1aVjhbp3H0JW6QnkPOdWHIP1HHJ0TrEwCL0e0I36hpC/HlpKv6j8fLy+l+Yk5lPyvK0O9Z1gtlCbaRS4UTLfW7FHW272byz5q/kAenU7oNy9hXu2eZsU6Fpk/EpNFGql3R2mQ5uYBPVQbvZJTEV/XyKQbs1X468xFxPOxlmfZ+TDDdxGeELcWxVkBOg7kLpARx4Qu0OPEU9FgSm7j1pCuOsngYmyvmyxm/rt39nrT2EWuzt0FgWHRj1nawQh9xrNkKPNLPMkB1WfkHMWWy4uz3lHFTD0XVnqd17bIA9lbHmAQOf5nMpIjkKQlx7THT3cj4WA==;Z0TfVi9+Rd9w9PQ1lPcOvw=="
+secured: "5Yld+GyNcD5F4K6ODEYPueNUwRiz69KScOlFnMTL/GFfcj8VhH5MiJGqXHk720Hu5ubdgyutbWc/O/Cnh36bKlnsKEoJ7plxF3IWmEUBJvHr/wYWG6+oo+pXodGp/nTo37309aOAPaPqcv9qAsMDFk94H/SExduMoBSIij+em+91begpAbytqFRSg72sb0bTQzQ6MoTokiDyf6Gzi5IfuxTdGpN16kAd6W/pJhyZ9d85XslJwd6Vv62dbI7S5wGDwbaYVtiHelcejBWj2/1Mj08JPtb5NOpBRanIOMJwHp+ZfMyR28H8fG/q86hhjfQFWlwEN0e7fMBxweS2Oa4PgtCt52q1bJ84pwKT2O98csRBp2+GeSV2gXNAw1L1UkiJ5ypwIRJTLmdNHmPtZIFni4/Fu7vKcrnGCtv3M8ywliwonMxyvVDuoPA0F7SOyenhiFuKsc13kom3f3x56h1MdgkPQJhycvfelfwKMblv4GWrBuBZNIfN/wo4ul6TQP/GfQMWvnHk8FTRwd0MYQ5YQw==;v+bLLK9lBjz+hrveAy5otg=="
 ---
 

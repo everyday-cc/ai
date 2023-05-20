@@ -2,6 +2,59 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-05-18-teslas-optimus-robot-is-learning-to-navigate-sense-and-pick-things-up.md",
+      "title": "Tesla's Optimus robot is learning to navigate, sense and pick things up",
+      "excerpt": "At Tesla's 2023 shareholders meeting, Elon Musk showed some new video of the Optimus robot he believes will represent the vast majority of the company's value in the future – as well as the method through which the development team is training the AI.",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/robotics/tesla-optimus-robot/",
+      "originalUrl": "https://newatlas.com/robotics/tesla-optimus-robot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/9bfd629/2147483647/strip/true/crop/1619x850+0+62/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F64%2F06%2F934b987f4684b1729a14cb45c697%2Fscreenshot-2023-05-18-at-7.37.54%20pm.png&na.image_optimisation=0",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-18T03:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2023-05-18-bahrain-set-to-host-top-fintech-summit.md",
       "title": "Bahrain set to host top fintech summit",
       "excerpt": "Under the patronage of the Central Bank of Bahrain (CBB), the three-day event will be held in a strategic partnership with the Bahrain Economic Development Board (EDB), and powered by Bahrain FinTech",
@@ -10,7 +63,7 @@
       "originalUrl": "https://www.zawya.com/en/world/middle-east/bahrain-set-to-host-top-fintech-summit-hoiy388r",
       "featuredContent": null,
       "highlight": null,
-      "heat": 209,
+      "heat": 199,
       "tags": null,
       "images": [
         {
@@ -105,7 +158,7 @@
       "originalUrl": "https://www.foxnews.com/tech/alexa-siri-ai",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -1129,57 +1182,6 @@
       "images": [
         {
           "url": "https://www.ibm.com/blog/wp-content/uploads/2023/04/Capgemini-and-IBM-Ecosystem-strengthen-partnership-for-Drone-as-a-Service--630x330.jpg",
-          "width": 630,
-          "height": 330,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-17T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-17-how-process-mining-improves-it-service-management-to-save-your-business-time-and-money.md",
-      "title": "How process mining improves IT service management to save your business time and money",
-      "excerpt": "Business leaders know that their organization&#8217;s success relies on its ability to keep essential processes running smoothly and efficiently. Communication technology like email and Slack have become so essential that business grinds to a halt if there are gaps in service. Furthermore, businesses",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/how-process-mining-improves-it-service-management-to-save-your-business-time-and-money/",
-      "originalUrl": "https://www.ibm.com/blog/how-process-mining-improves-it-service-management-to-save-your-business-time-and-money/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/04/How-does-process-mining-save-your-business-time-and-money-1-630x330.jpg",
           "width": 630,
           "height": 330,
           "title": null,

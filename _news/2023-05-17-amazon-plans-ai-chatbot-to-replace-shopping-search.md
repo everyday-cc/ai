@@ -623,15 +623,6 @@ related:
       name: moneycontrol.com
       domain: moneycontrol.com
     quality: 21
-  - title: "HealthGPT: AI chatbots enter hospitals"
-    excerpt: "Australian hospitals are trialling ChatGPT AI to help track performance metrics, such as how long high-risk patients are waiting before being screened."
-    publishedDateTime: 2023-05-15T12:00:00Z
-    webUrl: "https://www.theaustralian.com.au/nation/healthgpt-ai-chatbots-enter-hospitals/news-story/dfb7a7eff819830308bbe1635e007706"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 19
   - title: "ChatGPT is not ‘artificial intelligence.’ It’s theft."
     excerpt: "Calling programs like ChatGPT “artificial intelligence” grants them a claim to authorship that is simply untrue."
     publishedDateTime: 2023-05-15T17:11:00Z

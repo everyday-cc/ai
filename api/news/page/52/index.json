@@ -2,6 +2,83 @@
   "page": 52,
   "value": [
     {
+      "path": "_news/2023-04-19-artificial-intelligence-ai-chips-market-to-grow-at-a-cagr-of-6151-from-2022-to-2027-growth-from-asics-segment-will-be-significant-technavio.md",
+      "title": "Artificial intelligence (AI) chips market to grow at a CAGR of 61.51% from 2022 to 2027: Growth from ASICs segment will be significant - Technavio",
+      "excerpt": "The artificial intelligence (AI) chips market size is estimated to grow by USD 210,506.47 million during 2022-2027. Moreover, the growth momentum will progress at a CAGR of 61.51% during the forecast period.",
+      "sourceUrl": null,
+      "webUrl": "https://it.tmcnet.com/news/2023/04/19/9798229.htm",
+      "originalUrl": "https://it.tmcnet.com/news/2023/04/19/9798229.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-18T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-19-opioid-prescriptions-relationship-to-cognitive-function-in-later-life-examined.md",
+      "title": "Opioid Prescriptions' Relationship to Cognitive Function in Later Life Examined",
+      "excerpt": "According to a study, prescription opioid use could have a negative effect on cognitive function in older adults.",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologynetworks.com/neuroscience/news/opioid-prescriptions-relationship-to-cognitive-function-in-later-life-examined-372292",
+      "originalUrl": "https://www.technologynetworks.com/neuroscience/news/opioid-prescriptions-relationship-to-cognitive-function-in-later-life-examined-372292",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.technologynetworks.com/production/dynamic/images/content/372292/opioid-prescriptions-relationship-to-cognitive-function-in-later-life-examined-372292-640x360.jpg?cb=20230419",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-18T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "technologynetworks",
+        "domain": "technologynetworks.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-19-scbx-forges-new-collaboration-with-stanford-hai-to-drive-innovation-in-ai-and-fintech.md",
       "title": "SCBX forges new collaboration with Stanford HAI to drive innovation in AI and fintech",
       "excerpt": "With the aim of becoming the leading regional financial technology group, SCBX is firmly committed to staying at the forefront of the latest developments in AI and fintech with the ultimate goal ...",
@@ -1022,101 +1099,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-18-voyis-launches-advanced-vision-system-for-subsea-rovs.md",
-      "title": "Voyis Launches Advanced Vision System for Subsea ROVs",
-      "excerpt": "Subsea optical inspection technologies developer Voyis Imaging Inc. has launched a new product line called Discovery Vision",
-      "sourceUrl": null,
-      "webUrl": "https://www.oedigital.com/news/504445-voyis-launches-advanced-vision-system-for-subsea-rovs",
-      "originalUrl": "https://www.oedigital.com/news/504445-voyis-launches-advanced-vision-system-for-subsea-rovs",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imagesedit.marinelink.com/images/storage/w800h600/stereonovamini-0211.png",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.oedigital.com/amp/news/504445-voyis-launches-advanced-vision-system-for-subsea-rovs",
-      "cdnAmpWebUrl": "https://www-oedigital-com.cdn.ampproject.org/c/s/www.oedigital.com/amp/news/504445-voyis-launches-advanced-vision-system-for-subsea-rovs",
-      "publishedDateTime": "2023-04-18T05:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "oedigital.com",
-        "domain": "oedigital.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-18-elon-musk-plans-truthgpt-ai-to-rival-openai-deepmind.md",
-      "title": "Elon Musk plans 'TruthGPT' A.I. to rival OpenAI, DeepMind",
-      "excerpt": "Tesla, SpaceX and Twitter CEO Elon Musk called for regulation of AI during a taped interview that aired on Fox News Channel's \"Tucker Carlson Tonight.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/04/18/musk-calls-plans-truthgpt-ai-to-rival-openai-deepmind.html",
-      "originalUrl": "https://www.cnbc.com/2023/04/18/musk-calls-plans-truthgpt-ai-to-rival-openai-deepmind.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107183730-1674656520668-gettyimages-1246506636-TESLA_MUSK_COURT.jpeg?v=1681820167",
-          "width": 4000,
-          "height": 2667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2023/04/18/musk-calls-plans-truthgpt-ai-to-rival-openai-deepmind.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/04/18/musk-calls-plans-truthgpt-ai-to-rival-openai-deepmind.html",
-      "publishedDateTime": "2023-04-18T05:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

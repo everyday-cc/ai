@@ -615,15 +615,6 @@ related:
       name: moneycontrol.com
       domain: moneycontrol.com
     quality: 21
-  - title: "HealthGPT: AI chatbots enter hospitals"
-    excerpt: "Australian hospitals are trialling ChatGPT AI to help track performance metrics, such as how long high-risk patients are waiting before being screened."
-    publishedDateTime: 2023-05-15T12:00:00Z
-    webUrl: "https://www.theaustralian.com.au/nation/healthgpt-ai-chatbots-enter-hospitals/news-story/dfb7a7eff819830308bbe1635e007706"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 19
   - title: "Amazon Plans AI Chatbot to Replace Shopping Search"
     excerpt: "A recent job posting reveals Amazon's intention to design a generative AI that would replace the search bar on its site, potentially upending the way sellers have used Amazon thus far. The posting seeks a senior software developer to spearhead the company's AI project."
     publishedDateTime: 2023-05-16T18:15:00Z

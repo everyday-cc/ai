@@ -193,15 +193,6 @@ related:
       name: Proactiveinvestors
       domain: proactiveinvestors.com
     quality: 13
-  - title: "Fintech or TechFins: Two Sides of the same coin of Bank Digital Transformation Space"
-    excerpt: "TechFins support the end to end Digital Transformation of a process from Origination to Credit underwriting to disbursement and also servicing."
-    publishedDateTime: 2023-05-15T11:32:00Z
-    webUrl: "https://www.ciol.com/fintech-or-techfins-two-sides-of-the-same-coin-of-bank-digital-transformation-space/"
-    type: article
-    provider:
-      name: CIOL
-      domain: ciol.com
-    quality: 12
 
 secured: "UPAiFI191de22TGtdNyoGYrvfdokb+38O5dH34KwgQbegI2KqKpQayzXI7fKRM2DJ6y4UStzrNVfnkII6LrSo1yAMYQCcsY3SibwIfYduf8cvbmvW5RvAYKJb2ESXo8n11YAW6X4v3EU/t6wb0+8BvPurWM06lDs2LCj21yG2379XZDMefrRlaF0suPY3HqzekTPnd3qmxsnWQaB0yfCBkk3hULfJiSnXMLZ5XMLdb6dB3oYfYHdYa97sRLh7FygHqlrTtS8MmQHQ76WGe/aNJXDWL2UzqIkEjeivYHt3DVlriU95xpoD+ccbwJfimXjUetFRKG5z9cn50MFkhERd2WtbBTuKgDRle1hvrIslrE=;o4rTRI9LYqU4C2tW27KolA=="
 ---

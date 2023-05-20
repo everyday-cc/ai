@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Self-Driving Trucks Start Hauling Freight"
+    excerpt: "This undated photo shows Chris Urmson, CEO of self-driving vehicle technology company Aurora Innovation. Sometime next year, semis with no human in the cab will start carrying freight down Interstate 45 between Dallas and Houston. The trucks will run on an ..."
+    publishedDateTime: 2023-05-20T04:53:00Z
+    webUrl: "https://www.post-journal.com/news/business/2023/05/self-driving-trucks-start-hauling-freight/"
+    type: article
+    provider:
+      name: The Post-Journal
+      domain: post-journal.com
+    quality: 24
+    images:
+      - url: "https://ogden_images.s3.amazonaws.com/www.post-journal.com/images/2023/05/19214842/Insider-Trucks-750x500.jpg"
+        width: 750
+        height: 500
+        isCached: true
   - title: "Increasing Machine Learning Use in Bioprocessing"
     excerpt: "Computation, including artificial intelligence and machine learning, plays an increasing role in the basis of bioprocessing."
     publishedDateTime: 2023-05-17T18:01:00Z

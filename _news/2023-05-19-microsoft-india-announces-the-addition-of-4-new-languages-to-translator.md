@@ -192,15 +192,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "SAP and Microsoft to Deepen Collaboration on Generative AI in Recruiting"
-    excerpt: "(Reuters) - SAP will deepen collaboration with Microsoft on joint generative AI projects in the field of personnel recruiting, the German software maker announced on Monday. SAP's SuccessFactors solutions will be integrated with Microsoft's 365 Copilot and Azure OpenAI Service to access language models and generate natural language, it added."
-    publishedDateTime: 2023-05-15T12:35:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2023-05-15/sap-and-microsoft-to-deepen-collaboration-on-generative-ai-in-recruiting"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 63
   - title: "SAP taps Microsoft AI Copilot to streamline hiring and upskilling for enterprises"
     excerpt: "SAP today announced a plan to integrate Microsoft AI Copilot and Azure OpenAI service with its SuccessFactors suite of solutions."
     publishedDateTime: 2023-05-15T17:57:00Z

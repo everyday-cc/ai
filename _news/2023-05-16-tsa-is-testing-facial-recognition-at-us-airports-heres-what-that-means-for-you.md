@@ -79,22 +79,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Is that really you? TSA tests facial recognition tech for airport security"
-    excerpt: "A pilot project by the Transportation Security Administration is assessing the use of facial recognition technology at a number of airports across the country."
-    publishedDateTime: 2023-05-15T11:36:00Z
-    webUrl: "https://thehill.com/regulation/transportation/4004432-is-that-really-you-tsa-tests-facial-recognition-tech-for-airport-security/"
-    ampWebUrl: "https://thehill.com/regulation/transportation/4004432-is-that-really-you-tsa-tests-facial-recognition-tech-for-airport-security/amp/"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/regulation/transportation/4004432-is-that-really-you-tsa-tests-facial-recognition-tech-for-airport-security/amp/"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 89
-    images:
-      - url: "https://thehill.com/wp-content/uploads/sites/2/2023/05/facial.jpg?w=1280"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Are you who you say you are? TSA tests facial recognition technology to boost airport security"
     excerpt: "A pilot project by the Transportation Security Administration assesses the use of facial recognition technology at a number of airports."
     publishedDateTime: 2023-05-16T16:18:00Z
@@ -299,15 +283,6 @@ related:
         width: 1000
         height: 667
         isCached: true
-  - title: "TSA tests facial recognition tech for airport security"
-    excerpt: "A pilot project by the Transportation Security Administration is assessing the use of facial recognition technology at a number of airports across the country."
-    publishedDateTime: 2023-05-15T12:04:00Z
-    webUrl: "https://myfox8.com/news/tsa-tests-facial-recognition-tech-for-airport-security/"
-    type: article
-    provider:
-      name: WGHP
-      domain: myfox8.com
-    quality: 51
   - title: "TSA tests facial recognition technology to boost airport security"
     excerpt: "BALTIMORE (AP) — A passenger walks up to an airport security checkpoint, slips an ID card into a slot and looks into a camera atop a small screen. The screen flashes “Photo Complete” and the person walks through — all without having to hand over their identification to the TSA officer sitting behind the screen."
     publishedDateTime: 2023-05-15T18:44:00Z
@@ -424,15 +399,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Are you are who you say you are? TSA test facial recognition technology to boost airport security"
-    excerpt: "A passenger walks up to an airport security checkpoint, slips an ID card into a slot and looks into a camera atop a small screen. The screen flashes “Photo Complete” and the person walks through — all without having to hand over their identification to the TSA officer sitting behind the screen."
-    publishedDateTime: 2023-05-15T12:25:00Z
-    webUrl: "https://kvia.com/news/2023/05/15/are-you-are-who-you-say-you-are-tsa-test-facial-recognition-technology-to-boost-airport-security/"
-    type: article
-    provider:
-      name: KVIA
-      domain: kvia.com
-    quality: 38
   - title: "Is that really you? TSA tests airport face recognition"
     excerpt: "A pilot project by the Transportation Security Administration is assessing the use of facial recognition technology at a number of airports across the country."
     publishedDateTime: 2023-05-15T17:58:00Z

@@ -184,15 +184,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "SAP and Microsoft to Deepen Collaboration on Generative AI in Recruiting"
-    excerpt: "(Reuters) - SAP will deepen collaboration with Microsoft on joint generative AI projects in the field of personnel recruiting, the German software maker announced on Monday. SAP's SuccessFactors solutions will be integrated with Microsoft's 365 Copilot and Azure OpenAI Service to access language models and generate natural language, it added."
-    publishedDateTime: 2023-05-15T12:35:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2023-05-15/sap-and-microsoft-to-deepen-collaboration-on-generative-ai-in-recruiting"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 63
   - title: "Microsoft India announces the addition of 4 new languages to Translator"
     excerpt: "Users can translate Konkani, Maithili, Sindhi, and Sinhala text, supported in more than 125 languages, for their apps, websites, workflows, and tools with Azure Cognitive Services Translator"
     publishedDateTime: 2023-05-19T11:48:00Z
