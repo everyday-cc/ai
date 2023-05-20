@@ -9,8 +9,8 @@ ampWebUrl: "https://www.barrons.com/amp/news/online-search-to-make-up-lost-time-
 cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/online-search-to-make-up-lost-time-with-ai-8ef011d"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: Barron's
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Congress Is Racing to Catch Up With Artificial Intelligence"
-    excerpt: "Lawmakers agree that the rapid evolution of this technology needs to be addressed—but they’re still getting up to speed on the details."
-    publishedDateTime: 2023-05-15T10:09:00Z
-    webUrl: "https://newrepublic.com/article/172701/congress-ai-regulation-tech-policy"
-    type: article
-    provider:
-      name: New Republic
-      domain: newrepublic.com
-    quality: 37
-    images:
-      - url: "https://images.newrepublic.com/7537b8cad1e2b12adba52eeb3c54704d05a89eaf.jpeg?w=1109&h=577&crop=faces&fit=crop&fm=jpg"
-        width: 1109
-        height: 577
-        isCached: true
   - title: "Sinequa accelerates drug development and clinical research with AI-powered scientific search"
     excerpt: "Sinequa presents generative AI and neural search capabilities for accelerating clinical research and drug development"
     publishedDateTime: 2023-05-15T15:00:00Z

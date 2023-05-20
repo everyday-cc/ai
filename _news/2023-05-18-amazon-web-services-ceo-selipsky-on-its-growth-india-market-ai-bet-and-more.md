@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbctv18.com/technology/amazon-web-services-ceo-selipsky
 cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/technology/amazon-web-services-ceo-selipsky-on-its-growth-india-market-ai-bet-and-more-16694821.htm/amp"
 type: article
 quality: 71
-heat: 101
+heat: 111
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://images.moneycontrol.com/static-mcnews/2022/12/Adam-Selipsky-afp-770x435.jpg"
         width: 770
         height: 435
+        isCached: true
+  - title: "AWS India wants billions coming, but not in profit"
+    excerpt: "Aggressive capital spend of $12.7 bn for a stranglehold in the cloud business could see profitability elude the Indian operations"
+    publishedDateTime: 2023-05-20T02:21:00Z
+    webUrl: "https://www.fortuneindia.com/enterprise/aws-india-wants-billions-coming-but-not-in-profit/112749"
+    type: article
+    provider:
+      name: Fortune India
+      domain: fortuneindia.com
+    quality: 39
+    images:
+      - url: "https://gumlet.assettype.com/fortuneindia/2023-05/441d5314-faac-4308-b493-fd782344b917/DSC_4845.jpg?w=700"
+        width: 700
+        height: 466
         isCached: true
   - title: "AWS Announces Plans To Invest Rs 1.05 Lakh Crore Into Cloud Infrastructure In India By 2030"
     excerpt: "AWS runs two data centres in the country, one in Mumbai and the other in Hyderabad. The platform offers over 200 services which include storage, robotics and Artificial Intelligence. This comes amid growing interest among firms to invest in the the Indian ..."

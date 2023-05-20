@@ -57,6 +57,20 @@ related:
         width: 770
         height: 435
         isCached: true
+  - title: "AWS India wants billions coming, but not in profit"
+    excerpt: "Aggressive capital spend of $12.7 bn for a stranglehold in the cloud business could see profitability elude the Indian operations"
+    publishedDateTime: 2023-05-20T02:21:00Z
+    webUrl: "https://www.fortuneindia.com/enterprise/aws-india-wants-billions-coming-but-not-in-profit/112749"
+    type: article
+    provider:
+      name: Fortune India
+      domain: fortuneindia.com
+    quality: 39
+    images:
+      - url: "https://gumlet.assettype.com/fortuneindia/2023-05/441d5314-faac-4308-b493-fd782344b917/DSC_4845.jpg?w=700"
+        width: 700
+        height: 466
+        isCached: true
   - title: "Amazon’s AWS to invest US$13bil in India by 2030"
     excerpt: "AWS’ total planned investment in India adds up to about US$16.4 billion by 2030, the company said in a statement. The cloud platform offers more than 200 services, including storage, robotics and artificial intelligence. The proposed investment comes as ..."
     publishedDateTime: 2023-05-18T05:33:00Z

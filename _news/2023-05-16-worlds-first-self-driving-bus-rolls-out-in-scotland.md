@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo174465605630"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo174465605630"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "First self-driving buses enter service on UK roads"
-    excerpt: "The UK’s first self-driving bus service has launched in Scotland, taking passengers across the famed road bridge over the Firth of Forth. Five full-size Alexander Dennis Enviro200AV buses will traverse the bridge using autonomous driving technology as they transport up to 10,"
-    publishedDateTime: 2023-05-15T09:47:00Z
-    webUrl: "https://www.autoexpress.co.uk/news/360203/first-self-driving-buses-enter-service-uk-roads"
-    ampWebUrl: "https://www.autoexpress.co.uk/news/360203/first-self-driving-buses-enter-service-uk-roads?amp"
-    cdnAmpWebUrl: "https://www-autoexpress-co-uk.cdn.ampproject.org/c/s/www.autoexpress.co.uk/news/360203/first-self-driving-buses-enter-service-uk-roads?amp"
-    type: article
-    provider:
-      name: AutoExpress
-      domain: autoexpress.co.uk
-    quality: 44
-    images:
-      - url: "https://media.autoexpress.co.uk/image/private/s--4gBK8ho3--/f_auto,t_primary-image-mobile@1/v1684143748/autoexpress/2023/05/Stagecoach%20autonomous%20bus%20-%20Alexander%20Dennis%20Enviro200AV.jpg"
-        width: 375
-        height: 210
-        isCached: true
   - title: "All aboard Britain’s first self-driving bus"
     excerpt: "The UK’s first autonomous bus service has begun taking paying passengers across the Forth Road Bridge. The vehicles have two staff: a safety driver who can take"
     publishedDateTime: 2023-05-15T23:01:00Z

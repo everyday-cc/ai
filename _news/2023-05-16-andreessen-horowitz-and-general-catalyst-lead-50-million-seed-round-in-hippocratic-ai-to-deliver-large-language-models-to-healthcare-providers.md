@@ -76,20 +76,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 64
-  - title: "Hippocratic AI launches with $50M to build a chatbot for healthcare"
-    excerpt: "There’s a newcomer artificial intelligence company on the block that wants to introduce the power of a conversational chatbot for the healthcare industry: Hippocratic AI Inc., which just launched with $50 million in funding co-led by General Catalyst and Andreessen Horowitz."
-    publishedDateTime: 2023-05-16T18:54:00Z
-    webUrl: "https://siliconangle.com/2023/05/16/hippocratic-ai-launches-50m-build-chatbot-healthcare/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 54
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/03/stethoscope-2617701_1280.jpg"
-        width: 1280
-        height: 816
-        isCached: true
   - title: "Hippocratic AI launches with $50M seed"
     excerpt: "Hippocratic AI launched with a $50 million seed round from General Catalyst and Andreessen Horowitz for its large language model (LLM) in health care. Why it matters: This is one of the largest seed checks a16z has written for a health care company, signaling its strong desire to get in on the ground floor of AI."
     publishedDateTime: 2023-05-16T16:57:00Z

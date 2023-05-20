@@ -26,17 +26,6 @@ images:
     height: 640
     isCached: true
 
-related:
-  - title: "Proven Robotics integrates ChatGPT with Pepper humanoid robot"
-    excerpt: "The integration offers several benefits including improving Pepper’s natural language understanding and encouraging flexible and personalized communication"
-    publishedDateTime: 2023-05-17T13:52:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/proven-robotics-integrates-chatgpt-with-pepper-humanoid-robot-th35agfm"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 34
-
 secured: "vNJ2z4PuJhS6Y2j3EVMyTqKAn2z7DKvW/jciAoVu4Rvq4+ccTxSs2YNThUpOTWeXIpbmbvVsSP/+sggiAVT6WdzzFY1hTJvWGZeRJGNcQruXsowAjIhCk/ZMlRNKSMH95LYDoTe+tuaNhpZIlyeSp4iDi8BLONqbRAPB4TNK0kW24DNRpi1wjMLIy2ayGrymHZ5ZtEMC6D8HpCza46XYQtpQLe83P8Kpekez6l4PWUpaxVrLSOF4GIZ35N1O7Ancmk3fwePfGmt+ns8w/hD1enqmmdf6czoT0/eVSyYvdOtrnk7K2tTMSkyrgbmeKq4LdZ3nO+7bXhJqxLxCW+cnTrNSmG8qqRauqgSjiufZv1jJfOQq1a0thwWGLjHQq3ajfPpeB51wLUJecQ74UX4k7p/VSeENk2MyNU4jGJAyuXIt6VlyPWuWM404yYTfHFeaWls7uijIlZfdlMQAdJd0ydRTVbZFI9NriJj/Zbx+86XhzqDYn32Gq7lnFe7yZdcJ+BIJBV8k3bZGBFsrfi587Q==;V6M7tWYNdV/sYeiLlepCxQ=="
 ---
 

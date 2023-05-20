@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "The Top FinTech Disruptions: Shaping the Future of Finance"
-    excerpt: "How Digital Payments, Peer-to-Peer Lending, Robo-Advisors, Blockchain, InsurTech, Open Banking, RegTech, and More Are Shaping the Future of Finance, and the Importance of Collaboration, Regulation, and Balancing Innovation with Consumer Protection for a Secure and Inclusive Financial Ecosystem."
-    publishedDateTime: 2023-05-15T10:19:00Z
-    webUrl: "https://www.devdiscourse.com/article/technology/2452129-the-top-fintech-disruptions-shaping-the-future-of-finance"
-    ampWebUrl: "https://www.devdiscourse.com/article/technology/2452129-the-top-fintech-disruptions-shaping-the-future-of-finance?amp"
-    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2452129-the-top-fintech-disruptions-shaping-the-future-of-finance?amp"
-    type: article
-    provider:
-      name: devdiscourse
-      domain: devdiscourse.com
-    quality: 59
-    images:
-      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/15_05_2023_15_36_18_8718071.png?width=1280"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Bahrain set to host top fintech summit"
     excerpt: "Under the patronage of the Central Bank of Bahrain (CBB), the three-day event will be held in a strategic partnership with the Bahrain Economic Development Board (EDB), and powered by Bahrain FinTech"
     publishedDateTime: 2023-05-18T08:53:00Z
@@ -67,6 +51,15 @@ related:
         width: 500
         height: 223
         isCached: true
+  - title: "This Magnificent Fintech Stock Is Surprisingly Climbing Aboard the Generative AI Train"
+    excerpt: "Therefore, AI is the hot topic of 2023. And fintech company Block (NYSE: SQ) has officially entered the conversation. To be clear, almost all technology companies have used some form of AI or ..."
+    publishedDateTime: 2023-05-16T10:37:00Z
+    webUrl: "https://www.nasdaq.com/articles/this-magnificent-fintech-stock-is-surprisingly-climbing-aboard-the-generative-ai-train"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 41
   - title: "The Ethical Dilemmas of Fintech Breed Distrust; Top 3 Challenges"
     excerpt: "Financial technology is yet another digital convenience streamlining everyday financial transactions that used to require standing in line at a bank, writing checks, or navigating between several websites."
     publishedDateTime: 2023-05-16T21:15:00Z
@@ -78,6 +71,34 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 41
+  - title: "Opportunities remain for fintech to turbocharge MSME growth"
+    excerpt: "Mere disruptors no more, financial technologies have offered considerable evidence that affirm them as significant contributors to economies and its digital ecosystems."
+    publishedDateTime: 2023-05-16T16:00:00Z
+    webUrl: "https://www.philstar.com/opinion/2023/05/17/2266852/opportunities-remain-fintech-turbocharge-msme-growth"
+    type: article
+    provider:
+      name: philstar.com
+      domain: philstar.com
+    quality: 39
+    images:
+      - url: "https://media.philstar.com/images/filler/opinion-logo-filler-thumbnail.jpg"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "Opportunities remain for fintech to turbocharge MSME growth"
+    excerpt: "Speaking from a fintech’s point-of-view, the positive impact of digital technologies on solving the credit constraint of MSME enterprises has been noted at the scientific level, with AI-based credit fintech solutions able to provide an adequate response ..."
+    publishedDateTime: 2023-05-18T05:05:00Z
+    webUrl: "https://www.philstar.com/other-sections/newsmakers/2023/05/17/2266852/opportunities-remain-fintech-turbocharge-msme-growth"
+    type: article
+    provider:
+      name: philstar.com
+      domain: philstar.com
+    quality: 39
+    images:
+      - url: "https://media.philstar.com/images/filler/logo-filler-thumbnail.jpg"
+        width: 686
+        height: 392
+        isCached: true
   - title: "Rising importance of AI in the fintech space"
     excerpt: "Advantage of AI in fintech industry is its capacity to automate and augment a multitude of laborious processes related to banking"
     publishedDateTime: 2023-05-18T11:25:00Z
@@ -103,19 +124,33 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "United Insurance among financials gainers; UP Fintech, LM Funding America in losers"
-    excerpt: "Gainers: Applied Digital (APLD) +47% on first AI customer news. United Insurance Holdings (UIHC ... Stronghold Digital Mining (SDIG) -11% on reverse stock split. UP Fintech Holding (TIGR) -9%. To ensure this doesn’t happen in the future, please ..."
-    publishedDateTime: 2023-05-16T16:11:00Z
-    webUrl: "https://seekingalpha.com/news/3972203-united-insurance-among-financials-gainers-up-fintech-lm-funding-america-in-losers"
+  - title: "Pepper Advantage, fintech startup Techverse in M&A news"
+    excerpt: "Rieom.ai is a Pune-based startup whose flagship product is an AI ... documents to identify fraud risks and other suspicious behaviour prior to credit approval. Fintech startup Techurate Systems Pvt. Ltd announced on Wednesday its acquisition of Techverve ..."
+    publishedDateTime: 2023-05-17T14:39:00Z
+    webUrl: "https://www.vccircle.com/pepperadvantage-fintech-startup-techverse-in-m-a-news"
     type: article
     provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 33
+      name: VCCircle
+      domain: vccircle.com
+    quality: 24
     images:
-      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/487831223/image_487831223.jpg?io=getty-c-w750"
-        width: 750
-        height: 499
+      - url: "https://assets.vccircle.com/uploads/2022/07/MnAmergeracquisitionrfl.jpg"
+        width: 810
+        height: 506
+        isCached: true
+  - title: "Fintech Startup Techverve and Pepper Advantage in M&A News"
+    excerpt: "Fintech Startup Techverve and Pepper Advantage in M&A News - Global credit intelligence company Pepper Advantage announced, the acquisition of artificial"
+    publishedDateTime: 2023-05-18T03:23:00Z
+    webUrl: "https://www.siliconindia.com/news/startups/fintech-startup-techverve-and-pepper-advantage-in-ma-news-nid-223026-cid-19.html"
+    type: article
+    provider:
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 24
+    images:
+      - url: "https://www.siliconindia.com/news/newsimages/Ehk1BU3D.jpg"
+        width: 570
+        height: 367
         isCached: true
   - title: "Climate Fintech: The Key to Unlocking Wider Climate Tech Solutions"
     excerpt: "Even with challenges such as a lack of standardised ESG reporting, limited access to quality climate risk data, and regulatory hurdles likely to slow down the adoption of new technologies, climate fintech has the potential to transform the entire climate tech sector and be an integral part of the solution to combat climate change."
@@ -140,20 +175,6 @@ related:
       name: TechRound
       domain: techround.co.uk
     quality: 21
-  - title: "FinTech Regulation and Compliance: Navigating the Landscape to Ensure Data Privacy"
-    excerpt: "To keep up with the advancements in technologies like blockchain, AI, and cryptocurrencies, FinTech companies are overhauling their existing models to ensure compliance with global data protection regulations like the GDPR, LGPD, and CCPA, in addition to ..."
-    publishedDateTime: 2023-05-18T15:15:00Z
-    webUrl: "https://www.finextra.com/blogposting/24224/fintech-regulation-and-compliance-navigating-the-landscape-to-ensure-data-privacy"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 18
-    images:
-      - url: "https://www.finextra.com/finextra-images/visible_pictures/dfe92e99-e72f-4d86-a07a-8431087d475a.png"
-        width: 500
-        height: 261
-        isCached: true
   - title: "Nextech3D.ai Receives $2 Million in Cash From $400 million FinTech Ratio Tech"
     excerpt: "With access to a $400 million credit facility, Ratio is able to fund Nextech3D.ai Accounts Receivables With Zero dilution For The Foreseeable Future"
     publishedDateTime: 2023-05-18T11:45:00Z
@@ -163,20 +184,6 @@ related:
       name: Tulsa World
       domain: tulsaworld.com
     quality: 16
-  - title: "BOOSTBILLS RECOGNISED AS A MARKET-LEADING FINTECH INNOVATION THAT SIMPLIFIES BILL PAYMENTS"
-    excerpt: "Boost, the fintech arm of Axiata, recently received market validation for its game-changing BoostBills feature. Having bagged the Digital – Financial Technology trophy at the Malaysia Technology Excellence Awards 2023,"
-    publishedDateTime: 2023-05-17T11:45:00Z
-    webUrl: "https://www.bernama.com/en/press/news.php?id=2189840"
-    type: article
-    provider:
-      name: bernama
-      domain: bernama.com
-    quality: 14
-    images:
-      - url: "https://www.bernama.com/storage/photos/69808354cde835c8879a423c8cd5f7616464956c6fb69"
-        width: 1110
-        height: 694
-        isCached: true
   - title: "Nextech3D.AI receives initial $2M cash infusion from fintech firm Ratio Technology"
     excerpt: "Nextech3D.AI (CSE:NTAR, OTCQX:NEXCF) said it has received an initial $2 million cash infusion from fintech firm Ratio Technology. The funding represents a zero-dilutive capital source for the company as the cash was paid against future invoices for ..."
     publishedDateTime: 2023-05-18T12:06:00Z

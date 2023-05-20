@@ -31,20 +31,6 @@ related:
       name: Fox News
       domain: foxnews.com
     quality: 49
-  - title: "Schumer eyes regulation of burgeoning AI industry"
-    excerpt: "Schumer been meeting for months with tech leaders like Tesla CEO Elon Musk to develop a regulatory framework to guide a burgeoning field that's big at the University at Buffalo and that has the potential to remake society."
-    publishedDateTime: 2023-05-15T10:15:00Z
-    webUrl: "https://buffalonews.com/news/local/schumer-eyes-regulation-of-burgeoning-ai-industry/article_a6bdb158-f0f2-11ed-9a8e-23259ddc585c.html"
-    type: article
-    provider:
-      name: Buffalo News
-      domain: buffalonews.com
-    quality: 37
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/1/f7/1f7e4404-f0f3-11ed-8938-bb644cc3accc/63fcfdde90823.image.jpg?crop=1600%2C840%2C0%2C112&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Schumer meets with bipartisan group of senators to build a coalition for AI law"
     excerpt: "Schumer has takes next steps with a group of bipartisan Senate lawmakers to craft a comprehensive artificial intelligence law. \"Congress must move quickly,\" he said Thursday."
     publishedDateTime: 2023-05-19T01:57:00Z

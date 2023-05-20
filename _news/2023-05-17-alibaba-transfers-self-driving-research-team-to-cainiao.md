@@ -48,34 +48,6 @@ related:
         width: 1398
         height: 625
         isCached: true
-  - title: "Alibaba's logistics division to absorb self-driving business"
-    excerpt: "These vehicles have L4 self-driving capability and automatically calculate optimal routes and avoid obstacles when delivering parcels. L4 autonomy means the car can drive by itself in most conditions without a human backup driver. Alibaba received approval ..."
-    publishedDateTime: 2023-05-15T09:38:00Z
-    webUrl: "https://www.chinadaily.com.cn/a/202305/15/WS6461fb53a310b6054fad30e1.html"
-    type: article
-    provider:
-      name: 中国日报网
-      domain: chinadaily.com.cn
-    quality: 24
-    images:
-      - url: "http://img2.chinadaily.com.cn/images/202305/15/6461fb53a310b60580ccef92.jpeg"
-        width: 720
-        height: 480
-        isCached: true
-  - title: "Alibaba’s self-driving team to be absorbed by logistics arm in major setback"
-    excerpt: "Alibaba is embarking on a reorganization that will bring its autonomous driving research team under the purview of Cainiao, the logistics arm of the"
-    publishedDateTime: 2023-05-15T10:51:00Z
-    webUrl: "https://technode.com/2023/05/15/alibabas-self-driving-team-to-be-absorbed-by-logistics-arm-in-major-setback/"
-    type: article
-    provider:
-      name: TechNode
-      domain: technode.com
-    quality: 21
-    images:
-      - url: "https://i0.wp.com/technode.com/wp-content/uploads/2021/08/technode-news-feed-1-1.png?fit=540%2C540&ssl=1"
-        width: 540
-        height: 540
-        isCached: true
 
 secured: "4wyuGFy9bZsnJflzUgfRGxSyx+EFQGL5Ca4p/MUJHKNDcisCcTHVRRaP3sMPA7HvCO6gmbJA9hjLEggkOi0OhR3ML+TnfxzkviX0DuV/zR2BVKth232tZ2pjVEiga00ibLzujf2tqydi4ncQYRSMroFjm2f8l46c4ko2j0GECQgejFKpgG4Hk80UlfIjcZw4H/nYviTegPU6Mb3/it2t+PvY7qAbcLwcxPn8d+IvcYprF6IsbMb2rCw2z+4BZt9UVB1xy0HOjc7hZMtzbiC+oWnp9jc7ILoONC+hZwyCh3FplsMrpldV4WksveKKUgKb3FedNoRn/1Rnk05+l4Ik4MlbWocdZU2k0OJj5SkUUs8=;NtwPMRMci6TH3tt2dvcEOw=="
 ---

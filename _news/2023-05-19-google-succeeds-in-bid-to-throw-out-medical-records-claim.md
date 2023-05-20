@@ -7,7 +7,7 @@ originalUrl: "https://www.alloaadvertiser.com/news/national/23533966.google-succ
 webUrl: "https://www.alloaadvertiser.com/news/national/23533966.google-succeeds-bid-throw-medical-records-claim/"
 type: article
 quality: 19
-heat: 19
+heat: -1
 published: false
 
 provider:
@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "London court throws out lawsuit against Google over medical records"
+    excerpt: "Google defeated a lawsuit brought on behalf of 1.6 million people over medical records provided to the U.S. tech giant by a British hospital trust. The Royal Free London NHS Trust transferred patient data to Google’s artificial intelligence firm DeepMind Technologies in 2015 in relation to the development of a mobile app designed to analyse medical records and detect acute kidney injuries."
+    publishedDateTime: 2023-05-20T03:33:00Z
+    webUrl: "https://www.fbcnews.com.fj/world/london-court-throws-out-lawsuit-against-google-over-medical-records/"
+    type: article
+    provider:
+      name: fbcnews
+      domain: fbcnews.com.fj
+    quality: 39
+    images:
+      - url: "https://www.fbcnews.com.fj/wp-content/uploads/2023/05/Google-2.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Googles succeeds in bid to throw out medical records claim"
     excerpt: "The software giant and its artificial intelligence arm DeepMind was facing legal action over the transfer of patient data by an NHS trust."
     publishedDateTime: 2023-05-19T11:44:00Z

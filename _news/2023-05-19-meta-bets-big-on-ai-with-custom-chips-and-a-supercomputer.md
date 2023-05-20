@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/05/18/meta-bets-big-on-ai-with-custom-ch
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/18/meta-bets-big-on-ai-with-custom-chips-and-a-supercomputer/amp/"
 type: article
 quality: 106
-heat: 206
+heat: 196
 published: true
 
 provider:
@@ -47,22 +47,6 @@ related:
       - url: "https://www.zdnet.com/a/img/resize/37d75992cd1b849d006b2d1f720effca275d6871/2023/05/18/3dd2fcd4-8943-4ed5-974e-f0308c930271/meta-mtia-die-with-striped-background.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Behemoths Of The Retail Industry Are Redefining Customer Experience With Computer Vision And AI"
-    excerpt: "Computer vision and AI are revolutionizing the retail industry by optimizing inventory management, reducing stock-outs and enhancing shopper experiences. By understanding consumer behavior, retailers can offer personalized shopping experiences and increase sales."
-    publishedDateTime: 2023-05-15T10:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/15/behemoths-of-the-retail-industry-are-redefining-customer-experience-with-computer-vision-and-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/15/behemoths-of-the-retail-industry-are-redefining-customer-experience-with-computer-vision-and-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/05/15/behemoths-of-the-retail-industry-are-redefining-customer-experience-with-computer-vision-and-ai/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 92
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/645e3c535fc52f1156679966/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
         isCached: true
   - title: "Meta unveils new AI data centers and supercomputer to power AI-first future"
     excerpt: "Meta announced today a series of new hardware and software projects that aim to support the next generation of AI applications."

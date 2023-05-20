@@ -43,20 +43,6 @@ related:
       name: CNN
       domain: cnn.com
     quality: 47
-  - title: "Schumer eyes regulation of burgeoning AI industry"
-    excerpt: "Schumer been meeting for months with tech leaders like Tesla CEO Elon Musk to develop a regulatory framework to guide a burgeoning field that's big at the University at Buffalo and that has the potential to remake society."
-    publishedDateTime: 2023-05-15T10:15:00Z
-    webUrl: "https://buffalonews.com/news/local/schumer-eyes-regulation-of-burgeoning-ai-industry/article_a6bdb158-f0f2-11ed-9a8e-23259ddc585c.html"
-    type: article
-    provider:
-      name: Buffalo News
-      domain: buffalonews.com
-    quality: 37
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/1/f7/1f7e4404-f0f3-11ed-8938-bb644cc3accc/63fcfdde90823.image.jpg?crop=1600%2C840%2C0%2C112&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "6D4PjOXsq90iK/QEHdWPXLdKCbdcNB6LPp9mnVvvCnthUZEBr0TL+NxASBZO/i2O7n0sjeFJja5fqwxzPyssQYO4HAHvpDvtFA3IBEI9TU5v7VzprrgAchFDq/7TabR/R0v/cYFbjJgqLCmTaZ/8tFljdNp8pNaPDncyna2CZw/MKw/Bc48yzmZ7l8hiYKsQHA56Rm1IydTQR5TvEWLuBUxujYkvEiVT9TnqHbQURlIc6VBssJ4uRimup2bWmfC1AmSEpmcakpz971gF0BllfUM/LwVeV3vV7bejbgOcPKcc8Q2EcBpPMWmKqksB23htju5eH3qEVENZiZ+60pe0bLwQYD043TxoFEVP4/TZlMM=;QAlX6Wev140sJfaLti2vgQ=="
 ---

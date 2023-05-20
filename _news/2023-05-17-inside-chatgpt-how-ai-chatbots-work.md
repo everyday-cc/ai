@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Combining Generative AI ChatGPT Into Handguns Triggers Fiery Response"
-    excerpt: "Would handguns be better with generative AI onboard, or is this a non-starter? Either way, it is a highly controversial topic. See what it is all about."
-    publishedDateTime: 2023-05-15T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/05/15/combining-generative-ai-chatgpt-into-handguns-triggers-fiery-response/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/05/15/combining-generative-ai-chatgpt-into-handguns-triggers-fiery-response/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/05/15/combining-generative-ai-chatgpt-into-handguns-triggers-fiery-response/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 91
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/645bfa0c8aa4ed65ec653182/0x0.jpg?format=jpg&crop=3887,2914,x350,y0,safe&width=1200"
-        width: 1200
-        height: 900
-        isCached: true
   - title: "ChatGPT: Everything you need to know about the AI-powered chatbot"
     excerpt: "“AI presents a whole set of opportunities ... ChatGPT is generally available through the Azure OpenAI Service, Microsoft’s fully managed, corporate-focused offering. Customers, who must already be “Microsoft managed customers and partners ..."
     publishedDateTime: 2023-05-18T17:35:00Z
@@ -106,22 +90,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "ChatGPT outperforms money managers, as Americans flock to AI for investing advice"
-    excerpt: "Considering AI's existing ability to best the most blue-chip of money managers out there, the days of paying mutual funds management fees for middling returns, at least in the current structure, may be winding to a close. All of this sounds like investing ..."
-    publishedDateTime: 2023-05-18T14:02:00Z
-    webUrl: "https://www.zdnet.com/article/chatgpt-is-trouncing-money-managers-and-is-destined-to-turn-the-investing-world-upside-down/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/chatgpt-is-trouncing-money-managers-and-is-destined-to-turn-the-investing-world-upside-down/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/chatgpt-is-trouncing-money-managers-and-is-destined-to-turn-the-investing-world-upside-down/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 84
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/27a45630c4d84e49412c328fdfea7c6343d52b9b/2023/05/17/88b1d561-a90d-4972-a16e-17274145535e/gettyimages-1472335476.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Fearing leaks, Apple restricts its employees from using ChatGPT and AI tools"
     excerpt: "According to internal sources and company documents reviewed by The Wall Street Journal, Apple has restricted its employees' use of ChatGPT and AI coding tools such as GitHub Copilot for fear of leaking confidential data to outside sources."
     publishedDateTime: 2023-05-19T16:16:00Z
@@ -170,54 +138,6 @@ related:
         width: 1200
         height: 750
         isCached: true
-  - title: "ChatGPT and Generative AI Around the World: Maturity, Opportunities, and Hurdles in Key Regions"
-    excerpt: "ChatGPT has received a lot of press since its November 2022 launch. But while interest in the tool is high, its use is not yet universal."
-    publishedDateTime: 2023-05-17T19:30:00Z
-    webUrl: "https://www.businessinsider.com/chatgpt-around-the-world-maturity-opportunities-key-regions-2023-may"
-    ampWebUrl: "https://www.businessinsider.com/chatgpt-around-the-world-maturity-opportunities-key-regions-2023-may?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-around-the-world-maturity-opportunities-key-regions-2023-may?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 75
-    images:
-      - url: "https://i.insider.com/6465284f7224930019f34a4f?width=1200&format=jpeg"
-        width: 1200
-        height: 900
-        isCached: true
-  - title: "ChatGPT and Generative AI Around the World: Maturity, Opportunities, and Hurdles in Key Regions"
-    excerpt: "ChatGPT has received a lot of press since its November 2022 launch. But while interest in the tool is high, its use is not yet universal."
-    publishedDateTime: 2023-05-19T04:00:00Z
-    webUrl: "https://www.businessinsider.com/chatgpt-ai-around-the-world-maturity-opportunities-key-regions-2023-may"
-    ampWebUrl: "https://www.businessinsider.com/chatgpt-ai-around-the-world-maturity-opportunities-key-regions-2023-may?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-ai-around-the-world-maturity-opportunities-key-regions-2023-may?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 75
-    images:
-      - url: "https://i.insider.com/6465284f7224930019f34a4f?width=1200&format=jpeg"
-        width: 1200
-        height: 900
-        isCached: true
-  - title: "ChatGPT as 'educative artificial intelligence'"
-    excerpt: "With the advent of artificial intelligence (AI), several aspects of our lives have become more efficient and easier to navigate. One of the latest AI-based technologies is a user-friendly chatbot—ChatGPT,"
-    publishedDateTime: 2023-05-17T19:36:00Z
-    webUrl: "https://phys.org/news/2023-05-chatgpt-artificial-intelligence.html"
-    ampWebUrl: "https://phys.org/news/2023-05-chatgpt-artificial-intelligence.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-05-chatgpt-artificial-intelligence.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 61
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/chatgpt-as-educative-a-1.jpg"
-        width: 2880
-        height: 2881
-        isCached: true
   - title: "ChatGPT's chief to testify before Congress amid concerns about AI risks"
     excerpt: "The head of the artificial intelligence company that makes ChatGPT will testify before Congress as lawmakers call for new rules to guide the rapid development of AI technology. OpenAI CEO Sam Altman is scheduled to speak at a Senate hearing Tuesday."
     publishedDateTime: 2023-05-16T15:17:00Z
@@ -265,6 +185,20 @@ related:
       - url: "https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2023/05/932/470/Chat-GPT.jpg?ve=1&tl=1"
         width: 932
         height: 470
+        isCached: true
+  - title: "Hippocratic AI launches with $50M to build a chatbot for healthcare"
+    excerpt: "There’s a newcomer artificial intelligence company on the block that wants to introduce the power of a conversational chatbot for the healthcare industry: Hippocratic AI Inc., which just launched with $50 million in funding co-led by General Catalyst and Andreessen Horowitz."
+    publishedDateTime: 2023-05-16T18:54:00Z
+    webUrl: "https://siliconangle.com/2023/05/16/hippocratic-ai-launches-50m-build-chatbot-healthcare/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 54
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/03/stethoscope-2617701_1280.jpg"
+        width: 1280
+        height: 816
         isCached: true
   - title: "Will AI revolutionize healthcare? ChatGPT has thoughts"
     excerpt: "Explore how AI is revolutionizing healthcare, from improved diagnosis and treatment to drug discovery and development, with Microsoft's privacy-focused version"
@@ -360,6 +294,22 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 47
+  - title: "Amazon reportedly planning to bring artificial intelligence chatbot to its online storefront"
+    excerpt: "Based on some current job listings, Amazon is now planning to bring the artificial intelligence chatbot ‘ChatGPT’ to its online store."
+    publishedDateTime: 2023-05-16T00:51:00Z
+    webUrl: "https://www.wsbradio.com/news/national/amazon-reportedly-planning-bring-artificial-intelligence-chatbot-its-online-storefront/622LLNSVONGO7I2AIMBPNEYVVA/"
+    ampWebUrl: "https://www.wsbradio.com/news/national/amazon-reportedly-planning-bring-artificial-intelligence-chatbot-its-online-storefront/622LLNSVONGO7I2AIMBPNEYVVA/?outputType=amp"
+    cdnAmpWebUrl: "https://www-wsbradio-com.cdn.ampproject.org/c/s/www.wsbradio.com/news/national/amazon-reportedly-planning-bring-artificial-intelligence-chatbot-its-online-storefront/622LLNSVONGO7I2AIMBPNEYVVA/?outputType=amp"
+    type: article
+    provider:
+      name: WSB Radio
+      domain: wsbradio.com
+    quality: 46
+    images:
+      - url: "https://cmg-cmg-rd-20021-prod.cdn.arcpublishing.com/resizer/qq3l3qcqofAz0mAeMKgEap9_OC0=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/AL24HZ4BTFF7PJGBFTCWRBWTVQ.jpg"
+        width: 1440
+        height: 810
+        isCached: true
   - title: "ChatGPT's chief testifies before Congress, calls for new agency to regulate artificial intelligence"
     excerpt: "The head of the artificial intelligence company that makes ChatGPT told Congress on Tuesday that government intervention “will be critical to mitigate the risks of increasingly powerful” AI systems. O"
     publishedDateTime: 2023-05-16T16:36:00Z
@@ -405,6 +355,20 @@ related:
       - url: "https://neurosciencenews.com/files/2023/05/chatgpt-radiology-exam-neurosinces.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "This AI Chatbot Has Learned the Difference Between Good and Evil"
+    excerpt: "Anthropic’s Claude AI has developed a set of ethical principles through a “constitution”—and can handle prompts the size of a book."
+    publishedDateTime: 2023-05-15T21:22:00Z
+    webUrl: "https://decrypt.co/140202/ai-chatbot-anthropic-claude-good-evil"
+    type: article
+    provider:
+      name: decrypt
+      domain: decrypt.co
+    quality: 39
+    images:
+      - url: "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/05/Leonardo_Diffusion_an_AI_robot_philosphy_reflecting_on_good_vs_0-1-gID_7.jpg@png"
+        width: 1024
+        height: 512
         isCached: true
   - title: "AI isn’t new to the supply chain, but ChatGPT is expanding its role"
     excerpt: "ChatGPT and other advanced AI tools are looking to find homes in supply chain software and in some cases already have."
@@ -459,20 +423,6 @@ related:
         width: 396
         height: 202
         isCached: true
-  - title: "OpenAI's ChatGPT iOS app debuts with voice search, no ads"
-    excerpt: "OpenAI's ChatGPT has been a runaway success. The chatbot's popularity paved the way for the ongoing AI revolution. The company has now launched an iOS app for the chatbot for users who like to use it \"on the go.\" Android users should not worry because a ChatGPT Android app will be available soon. Now, let's see the features of the ChatGPT iOS app."
-    publishedDateTime: 2023-05-19T05:25:00Z
-    webUrl: "https://www.newsbytesapp.com/news/science/openai-launches-chatgpt-app-for-ios/story"
-    type: article
-    provider:
-      name: newsbytesapp.com
-      domain: newsbytesapp.com
-    quality: 39
-    images:
-      - url: "https://i.cdn.newsbytesapp.com/images/l5520230519104316.jpeg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Kagan: What’s the next move for Meta with metaverse down, AI ChatGPT up?"
     excerpt: "As interest and intrigue in ChatGPT overtakes that of the metaverse, one analyst asks: Should Meta change its vision?"
     publishedDateTime: 2023-05-15T15:22:00Z
@@ -486,6 +436,20 @@ related:
       - url: "https://www.rcrwireless.com/wp-content/uploads/2022/12/176512315_s.jpg"
         width: 844
         height: 567
+        isCached: true
+  - title: "What Higher Ed Gets Wrong About AI Chatbots — From the Student Perspective"
+    excerpt: "As a doctoral student at the University of California at Los Angeles, I was among those who got a recent campus-wide email with an urgent directive:"
+    publishedDateTime: 2023-05-15T13:37:00Z
+    webUrl: "https://www.edsurge.com/news/2023-05-15-what-higher-ed-gets-wrong-about-ai-chatbots-from-the-student-perspective"
+    type: article
+    provider:
+      name: EdSurge
+      domain: edsurge.com
+    quality: 37
+    images:
+      - url: "https://edsurge.imgix.net/uploads/post/image/15318/student_using_chatgpt-1683234053.png?auto=compress%2Cformat&w=1024&h=512&fit=crop"
+        width: 1024
+        height: 512
         isCached: true
   - title: "ChatGPT CEO testifies before Congress as concerns grow about AI risks"
     excerpt: "Sam Altman told Congress on Tuesday that government intervention \"will be critical to mitigate the risks of increasingly powerful” AI systems."
@@ -529,20 +493,6 @@ related:
         width: 2500
         height: 1406
         isCached: true
-  - title: "ChatGPT iPhone app Omni AI adds on-device voice recognition in latest update"
-    excerpt: "Omni AI, a ChatGPT-powered app for the iPhone, just added on-device voice recognition for its AI assistant in a recent update."
-    publishedDateTime: 2023-05-15T20:13:00Z
-    webUrl: "https://bgr.com/tech/chatgpt-iphone-app-omni-ai-adds-on-device-voice-recognition-in-latest-update/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 36
-    images:
-      - url: "https://bgr.com/wp-content/uploads/2023/05/Omni-AI-iPhone-app.jpg?quality=82&strip=all"
-        width: 1401
-        height: 931
-        isCached: true
   - title: "ChatGPT and Generative AI in Financial Services: Reality, Hype, What's Next, and How to Prepare"
     excerpt: "Payments, banking, and insurance players are eager to understand generative AI's potential and put it to work."
     publishedDateTime: 2023-05-18T17:30:00Z
@@ -552,6 +502,24 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 35
+  - title: "The Real Value Of ChatGPT: A Front Door To A Graph Language Model"
+    excerpt: "If CIOs want to start exploiting the hidden knowledge and untapped potential in their internal data stores by applying LLMs to them, then building and refining knowledge graphs using proven graph data science algorithms is the way ahead."
+    publishedDateTime: 2023-05-16T13:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/16/the-real-value-of-chatgpt-a-front-door-to-a-graph-language-model/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 34
+  - title: "Proven Robotics integrates ChatGPT with Pepper humanoid robot"
+    excerpt: "The integration offers several benefits including improving Pepper’s natural language understanding and encouraging flexible and personalized communication"
+    publishedDateTime: 2023-05-17T13:52:00Z
+    webUrl: "https://www.zawya.com/en/press-release/companies-news/proven-robotics-integrates-chatgpt-with-pepper-humanoid-robot-th35agfm"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 34
   - title: "ChatGPT CEO shares concern over AI being used to interfere with elections – video"
     excerpt: "Top technology CEOs testified before congress on the future of artificial intelligence, calling on lawmakers to introduce new regulations to limit its misuse"
     publishedDateTime: 2023-05-16T19:48:00Z
@@ -614,15 +582,6 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 28
-  - title: "EXCLUSIVE: Roundhill Investments Launches Generative AI ETF In Wake Of ChatGPT Growth - Here Are The Key Holdings"
-    excerpt: "Roundhill Investments has launched a new exchange-traded fund, offering investors the opportunity to secure a diversified portfolio of stocks within the burgeoning generative artificial intelligence space."
-    publishedDateTime: 2023-05-18T13:28:00Z
-    webUrl: "https://markets.businessinsider.com/news/etf/exclusive-roundhill-investments-launches-generative-ai-etf-in-wake-of-chatgpt-growth---here-are-the-key-holdings-1032337597"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 28
   - title: "ChatGPT and Education: The power of artificial intelligence and chatbots in the classroom"
     excerpt: "Let’s talk AI. It’s no secret that artificial intelligence (AI) is quickly becoming one of the most powerful tools in today’s world. We’re talking self-driving cars, virtual assistants, and a whole lot more."
     publishedDateTime: 2023-05-17T08:39:00Z
@@ -655,6 +614,24 @@ related:
       name: moneycontrol.com
       domain: moneycontrol.com
     quality: 21
+  - title: "HealthGPT: AI chatbots enter hospitals"
+    excerpt: "Australian hospitals are trialling ChatGPT AI to help track performance metrics, such as how long high-risk patients are waiting before being screened."
+    publishedDateTime: 2023-05-15T12:00:00Z
+    webUrl: "https://www.theaustralian.com.au/nation/healthgpt-ai-chatbots-enter-hospitals/news-story/dfb7a7eff819830308bbe1635e007706"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 19
+  - title: "Amazon Plans AI Chatbot to Replace Shopping Search"
+    excerpt: "A recent job posting reveals Amazon's intention to design a generative AI that would replace the search bar on its site, potentially upending the way sellers have used Amazon thus far. The posting seeks a senior software developer to spearhead the company's AI project."
+    publishedDateTime: 2023-05-16T18:15:00Z
+    webUrl: "https://www.extremetech.com/internet/amazon-plans-ai-chatbot-to-replace-shopping-search"
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 19
   - title: "ChatGPT is not ‘artificial intelligence.’ It’s theft."
     excerpt: "Calling programs like ChatGPT “artificial intelligence” grants them a claim to authorship that is simply untrue."
     publishedDateTime: 2023-05-15T17:11:00Z
@@ -718,6 +695,24 @@ related:
       name: Daily Press
       domain: dailypress.com
     quality: 16
+  - title: "Zoom To Inject Anthropic’s AI Chatbot Into Video, Collaboration Products"
+    excerpt: "Zoom integrates AI into video collaboration meeting and chat products with new Anthropic partnership after partnering with Microsoft-backed OpenAI."
+    publishedDateTime: 2023-05-16T18:58:00Z
+    webUrl: "https://www.crn.com/news/software/zoom-to-inject-anthropic-s-ai-chatbot-into-video-collaboration-products"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 16
+  - title: "The frightening truth about AI chatbots: Nobody knows exactly how they work"
+    excerpt: "Nobody really knows how chatbots work. The AI community is divided on whether that fact could come to haunt us as the technology improves and proliferates."
+    publishedDateTime: 2023-05-17T03:59:00Z
+    webUrl: "https://www.fastcompany.com/90896928/the-frightening-truth-about-ai-chatbots-nobody-knows-exactly-how-they-work"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 15
   - title: "NYC public schools opening the door to greater use of AI, loosening reins on ChatGPT"
     excerpt: "Schools Chancellor David Banks unveiled plans Thursday to offer a toolkit for teachers about artificial intelligence in their classrooms, as well as create a repository for schools to share their findings across the city."
     publishedDateTime: 2023-05-18T19:50:00Z
@@ -727,6 +722,15 @@ related:
       name: New York Daily News
       domain: nydailynews.com
     quality: 12
+  - title: "I asked ChatGPT where it'd put Brightline stop on Treasure Coast; here's what AI bot said"
+    excerpt: "Like many of you, I’m still trying to figure it all out. I recently completed some training in AI and journalism ethics. The other day I was motivated to use perhaps the most well-known AI application, or chat bot, ChatGPT, which can be found online at ..."
+    publishedDateTime: 2023-05-19T10:00:00Z
+    webUrl: "https://www.indystar.com/story/opinion/columnists/laurence-reisman/2023/05/12/ai-chatgpt-says-where-brightline-should-put-station-on-treasure-coast/70180635007/"
+    type: article
+    provider:
+      name: The Indianapolis Star
+      domain: indystar.com
+    quality: 10
   - title: "ChatGPT’s chief to testify before Congress as concerns grow about artificial intelligence’s risks"
     excerpt: "The head of the artificial intelligence company that makes ChatGPT is set to testify before Congress as lawmakers call for new rules to guide the rapid development of AI technology. OpenAI CEO Sam"
     publishedDateTime: 2023-05-16T11:00:00Z

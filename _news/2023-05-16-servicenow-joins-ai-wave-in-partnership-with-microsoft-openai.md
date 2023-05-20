@@ -135,20 +135,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "AI Recognition Market SWOT Analysis by Leading Key Players Microsoft Azure, Google, Tencent, Alibaba"
-    excerpt: "Click Here to Get Free Sample PDF Copy of Latest Research on AI Recognition Market 2023 before Purchase:  The report will also include information on the top companies in the AI Recognition market shares,"
-    publishedDateTime: 2023-05-15T09:14:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-recognition-market-swot-analysis-by-leading-key-players-microsoft-azure-google-tencent-alibaba-2023-05-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 84
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Microsoft Rolls out Bing AI Chat Widget on Mobiles & Other Cool Features"
     excerpt: "In addition to existing features, Microsoft Bing has received new ones, including a Bing AI widget for mobiles. Check out the details."
     publishedDateTime: 2023-05-17T06:35:00Z
