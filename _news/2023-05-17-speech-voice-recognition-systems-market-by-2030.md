@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facial Recognition Devices Market Research, 2030"
-    excerpt: "Research Reports has published a new report titled as \"Facial Recognition Devices Market\" by End User (Security"
-    publishedDateTime: 2023-05-15T13:23:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-devices-market-research-2030-2023-05-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Computer Vision System Market Research | 2023-2030"
     excerpt: "Research Reports has published a new report titled as \"Computer Vision System Market\" by End User (Automotive,"
     publishedDateTime: 2023-05-16T00:43:00Z
@@ -99,6 +85,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Machine Learning in Communication Market 2023 | Regional Majority Market by 2030"
+    excerpt: "The Machine Learning in Communication Market Scope and Overview Report for 2023 presents a detailed analysis of the"
+    publishedDateTime: 2023-05-16T09:37:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-in-communication-market-2023-regional-majority-market-by-2030-2023-05-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 64
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "2023, Big Data & Machine Learning in Telecom Market Research Report Analysis by 2030"
     excerpt: "The major players covered in the Big Data and Machine Learning in Telecom market report are: Get a sample copy of the Big Data and Machine Learning in Telecom Market report 2023 Short Summery About Big Data and Machine Learning in Telecom Market: Market Overview of Global Big Data and Machine Learning in Telecom market: According to our latest research,"
     publishedDateTime: 2023-05-16T06:13:00Z
@@ -113,112 +113,24 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Facial Recognition Market Share, Size, Segmentation Analysis, Key segments and Forecast 2031"
-    excerpt: "Global Facial Recognition Market – Drivers’ Restraints’ Opportunities’ Trends’ and Forecast up to 2025. Facial Recognition Market is approximately USD 5 billion market that is expected to double by 2025."
-    publishedDateTime: 2023-05-15T15:10:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-share-size-segmentation-analysis-key-segments-and-forecast-2031-2023-05-15"
+  - title: "2023-2030 Computer Vision Market: Highlights with Growth Rate"
+    excerpt: "Computer Vision Market Report Insights: (Report Pages: 107) CAGR and Revenue: “CAGR of 31.74% during the forecast"
+    publishedDateTime: 2023-05-17T04:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-2030-computer-vision-market-highlights-with-growth-rate-2023-05-17"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 58
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Voice And Speech Recognition Software Market Value with Status and Global Analysis 2023 to 2031"
-    excerpt: "May 15, 2023 (Heraldkeepers) -- Our report on the Voice And Speech Recognition Software market provides comprehensive insights into the market size, trends, and opportunities in the industry. Our report provides a detailed analysis of the key drivers and ..."
-    publishedDateTime: 2023-05-16T15:18:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-and-speech-recognition-software-market-value-with-status-and-global-analysis-2023-to-2031-2023-05-15"
+    quality: 49
+  - title: "Automotive Speech Recognition System Market Business Strategies, Industry Share, Size 2023 to 2030 | Nuance, Microsoft, Alphabet"
+    excerpt: "A detailed study accumulated to offer current insights about important features of the Automotive Speech Recognition"
+    publishedDateTime: 2023-05-17T07:23:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automotive-speech-recognition-system-market-business-strategies-industry-share-size-2023-to-2030-nuance-microsoft-alphabet-2023-05-17"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 57
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Facial Recognition Replaces Boarding Pass at Berlin Airport"
-    excerpt: "New biometric service for Lufthansa Group HON Circle Members and Senators at Berlin airport with “BER Traveller”"
-    publishedDateTime: 2023-05-16T14:37:00Z
-    webUrl: "https://eturbonews.com/facial-recognition-replaces-boarding-pass-at-berlin-airport/"
-    type: article
-    provider:
-      name: eturbonews
-      domain: eturbonews.com
-    quality: 54
-    images:
-      - url: "https://s9h7f8a7.rocketcdn.me/wp-content/uploads/2023/05/0-47-e1684247900334.jpg"
-        width: 600
-        height: 427
-        isCached: true
-  - title: "Voice Recognition Market: Future Demands and Projected Industry Growths to 2028"
-    excerpt: "The voice recognition market is expected to exhibit substantial growth by 2028, owing to notable technological advancements in the sector. Additionally, prevalent incorporation of the technology in diverse applications is likely to further drive market expansion through the forecast period."
-    publishedDateTime: 2023-05-15T14:54:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-future-demands-and-projected-industry-growths-to-2028-2023-05-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 50
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "2030, Facial Recognition Door Lock Market Growth | Expansion Plan and Latest Updates"
-    excerpt: "The \"Facial Recognition Door Lock Market\" research report for the period 2023-2030 offers a comprehensive analysis of"
-    publishedDateTime: 2023-05-16T12:42:00Z
-    webUrl: "https://www.marketwatch.com/press-release/2030-facial-recognition-door-lock-market-growth-expansion-plan-and-latest-updates-2023-05-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 42
-  - title: "The possibly-unstoppable march of facial recognition"
-    excerpt: "The latest example is the Transportation Security Administration, which some senators and experts believe is “moving way too fast” to adopt facial recognition technology three months after the agency ignored lawmakers’ calls to pump the brakes on its usage."
-    publishedDateTime: 2023-05-17T20:05:00Z
-    webUrl: "https://www.politico.com/newsletters/digital-future-daily/2023/05/17/the-possibly-unstoppable-march-of-facial-recognition-00097476"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 39
-    images:
-      - url: "https://static.politico.com/57/64/dff2b867457ea19b42bf7c926803/191227-facial-recognition-gty-773.jpg"
-        width: 3174
-        height: 2115
-        isCached: true
-  - title: "Mozn’s march to regional recognition – An AI story"
-    excerpt: "Following its participation in the inaugural DIFC FinTech Summit, Malik Alyousef, co-founder and chief operating officer of Saudi-based AML and anti-fraud leader Mozn discusses trends, challenges, and more Mozn’s march to regional recognition – An AI story AI,"
-    publishedDateTime: 2023-05-19T07:03:00Z
-    webUrl: "https://www.arabianbusiness.com/resources/mozns-march-to-regional-recognition-an-ai-story"
-    type: article
-    provider:
-      name: Arabian Business
-      domain: arabianbusiness.com
-    quality: 19
-  - title: "Community clinics get global recognition"
-    excerpt: "Community clinics got global recognition as a resolution on community-based healthcare in Bangladesh was unanimously adopted at the United Nations (UN) yesterday. The resolution titled -- 'Community-based primary health care: a participatory and inclusive approach to achieving universal health services' -- has given international recognition to community clinics,"
-    publishedDateTime: 2023-05-17T13:37:00Z
-    webUrl: "https://www.bssnews.net/news-flash/125917"
-    type: article
-    provider:
-      name: Bangladesh Sangsbad Sangstha
-      domain: bssnews.net
-    quality: 4
-  - title: "Home Office pushes for more police facial-recognition deployments"
-    excerpt: "UK policing minister Chris Philp is pressing for facial-recognition technology to be rolled out by police forces across England and Wales, and will likely push to integrate the tech with police body-worn video cameras. According to a report co-authored by ..."
-    publishedDateTime: 2023-05-17T13:21:00Z
-    webUrl: "https://www.computerweekly.com/news/366537695/Home-Office-pushes-for-more-police-facial-recognition-deployments"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 4
+    quality: 37
 
 secured: "SpSdSsDJRsWoPJHnA6KCnxt5Joa9aVcqK3gjzILZ1+7EOILEJjR3v0BqnkbbNrMgaQ8X4ew3zE3UCznTs8jWYkqLJZuyZgXE69eXZhFPqL9ckw2UwgJbNz5oVmSjDIUSl+Q0bIL610Asy0KsXvxOOYqLmitZg4zgkJVMwXpfX1KF9MAXfRNmYGUZ2fMw2GhsVHpGkGVOE7JTcBavHTq/cgXroBS7hSEKf6n/LNhdOfjwYnUO7X4af8oMkGNgLX1rCWxUq+QbEG+qBYUcjsEVyNXb+0KjcBwE45EJVTMtuTOPjT5nptXCXY68D+G5aw/xcILyALxOMCHTaZwV73xj+QbSap6KFVpfPvyhWR7oSXY=;QnAK4WpXq3eAeqXWDuQgHQ=="
 ---

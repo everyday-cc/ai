@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI and Hollywood: Why the WGA wants to keep robots out of the writers room"
-    excerpt: "AI can't write a quality screenplay today. But as the technology improves, Hollywood writers want to make sure AI isn't used as source material in the future."
-    publishedDateTime: 2023-05-15T13:45:00Z
-    webUrl: "https://www.bizjournals.com/losangeles/inno/stories/news/2023/05/15/hollywood-writers-strike-ai.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 32
   - title: "Sean Penn backs Hollywood writers at Cannes, calls the use of AI a 'human obscenity'"
     excerpt: "\"It's difficult for so many writers and so many people industry-wide to not be able to work at this time,\" Penn said."
     publishedDateTime: 2023-05-19T17:37:00Z

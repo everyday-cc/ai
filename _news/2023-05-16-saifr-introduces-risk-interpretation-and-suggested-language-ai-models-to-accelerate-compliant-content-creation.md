@@ -19,26 +19,43 @@ topics:
   - AI
 
 related:
-  - title: "Hitachi Establishes New Generative AI Center To Accelerate Value Creation..."
-    excerpt: "Hitachi Establishes New Generative AI Center to Accelerate Value Creation and Improve Productivity in the Lumada business by promoting the use of G"
-    publishedDateTime: 2023-05-15T19:32:00Z
-    webUrl: "https://menafn.com/1106245586/Hitachi-Establishes-New-Generative-AI-Center-To-Accelerate-Value-Creation-And-Improve-Productivity-In-The-Lumada-Business-By-Promoting-The-Use-Of-Generative-AI"
+  - title: "Saifr introduces risk interpretation and suggested language AI models for compliant content creation"
+    excerpt: "Saifr, an AI-focused regulatory technology (RegTech) provider that assists financial institutions with the creation, review, and approval of communications to help mitigate brand, regulatory, and reputational risk,"
+    publishedDateTime: 2023-05-16T14:53:00Z
+    webUrl: "https://www.finextra.com/pressarticle/96868/saifr-introduces-risk-interpretation-and-suggested-language-ai-models-for-compliant-content-creation"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
+      name: Finextra
+      domain: finextra.com
+    quality: 24
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo.png"
+        width: 512
+        height: 512
+        isCached: true
+  - title: "FinTech Regulation and Compliance: Navigating the Landscape to Ensure Data Privacy"
+    excerpt: "To keep up with the advancements in technologies like blockchain, AI, and cryptocurrencies, FinTech companies are overhauling their existing models to ensure compliance with global data protection regulations like the GDPR, LGPD, and CCPA, in addition to ..."
+    publishedDateTime: 2023-05-18T15:15:00Z
+    webUrl: "https://www.finextra.com/blogposting/24224/fintech-regulation-and-compliance-navigating-the-landscape-to-ensure-data-privacy"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
     quality: 18
-  - title: "Regenerative Medicine Market to Reach a Valuation of USD 127.86 Billion by 2032, Backed by Advancement in Cell Therapy, States Extrapolate"
-    excerpt: "Diagnostic microscopic imaging and artificial intelligence (AI) have created a link between ... The increasing GMP certification approvals for cell therapy production facilities are the major factor driving the growth of the regenerative medicine market ..."
-    publishedDateTime: 2023-05-15T14:42:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/05/n32395712/regenerative-medicine-market-to-reach-a-valuation-of-usd-127-86-billion-by-2032-backed-by-advancem"
-    ampWebUrl: "https://www.benzinga.com/amp/content/32395712"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32395712"
+    images:
+      - url: "https://www.finextra.com/finextra-images/visible_pictures/dfe92e99-e72f-4d86-a07a-8431087d475a.png"
+        width: 500
+        height: 261
+        isCached: true
+  - title: "Content Automation & AI: Creative Production Insights from the Localisation Industry"
+    excerpt: "Little Black Book, Locaria's Lindsay Hong on how creative production should embrace automation, following the transformative example of machine translation and AI in the language services sector"
+    publishedDateTime: 2023-05-19T11:32:00Z
+    webUrl: "https://www.lbbonline.com/news/content-automation-ai-creative-production-insights-from-the-localisation-industry"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 5
+      name: lbbonline
+      domain: lbbonline.com
+    quality: 12
 
 secured: "oEc4juZR9ykKhV9gQrSQEg6/QJPi0I7134dC3ta2H6ciR4fzbWjdP1DuO60/SXHDpLIq0WNhkDVv1WKOV1iGv9qKeWExQARmMUIKU9yq9weKQiFLMYva2nfphtCvWwU0hYn8401GlZYHs6pLvOBgtuIQylFjF+c/iZoMS2R+OyKIl+LGsxbDkrK5nLQ3l12eHuObQ9T42wJnzEpkEz9bQihyzSzmy2i32nvwXLmQTu00eVjRA+Um37zwWpVXFDH9q6KucmQVwwGQsDxiMLRDGYLxZAV9ePM/IedAyVslK0uDW1UlWnnR1sl8NovQf0A+FlM3ZV4S7omNw4qERH1+FY66hw2AGfFEhzLEdXT0HP0=;1wDGtKoOtuXSnJ2uZMaMrQ=="
 ---

@@ -25,196 +25,315 @@ images:
     isCached: true
 
 related:
-  - title: "Facial Recognition Devices Market Research, 2030"
-    excerpt: "Research Reports has published a new report titled as \"Facial Recognition Devices Market\" by End User (Security"
-    publishedDateTime: 2023-05-15T13:23:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-devices-market-research-2030-2023-05-15"
+  - title: "TSA is testing facial recognition at U.S. airports. Here's what that means for you"
+    excerpt: "The TSA hopes new technology can reduce wait times at U.S. airports while keeping passengers safe. Meanwhile, lawmakers worry about privacy."
+    publishedDateTime: 2023-05-15T22:08:00Z
+    webUrl: "https://www.zdnet.com/article/tsa-is-testing-facial-recognition-at-u-s-airports-heres-what-that-means-for-you/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/tsa-is-testing-facial-recognition-at-u-s-airports-heres-what-that-means-for-you/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/tsa-is-testing-facial-recognition-at-u-s-airports-heres-what-that-means-for-you/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
+      name: ZDNet
+      domain: zdnet.com
+    quality: 98
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://www.zdnet.com/a/img/resize/837b0af64e0550442a464f17155d73195b7adc7e/2023/05/15/8c20a0c0-55f8-429b-b325-50833ef08105/gettyimages-1252211190.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "TSA Tests Facial Recognition Technology at Airports to Boost Security"
+    excerpt: "It's all part of a pilot project by the Transportation Security Administration to assess the use of facial recognition technology at a number of airports across the country. “What we are trying to do with this is aid the officers to actually determine that you are who you say who you are,"
+    publishedDateTime: 2023-05-15T16:39:00Z
+    webUrl: "https://www.nbcnewyork.com/news/national-international/tsa-tests-facial-recognition-technology-at-airports-to-boost-security/4335250/"
+    ampWebUrl: "https://www.nbcnewyork.com/news/national-international/tsa-tests-facial-recognition-technology-at-airports-to-boost-security/4335250/?amp=1"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/national-international/tsa-tests-facial-recognition-technology-at-airports-to-boost-security/4335250/?amp=1"
+    type: article
+    provider:
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 91
+    images:
+      - url: "https://media.nbcnewyork.com/2023/05/web-230515-tsa-facial-recognition.jpg?quality=85&strip=all&resize=1200%2C675"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "TSA Tests Facial Recognition Technology at Airports to Boost Security"
+    excerpt: "A passenger walks up to an airport security checkpoint, slips an ID card into a slot and looks into a camera atop a small screen. The screen flashes “Photo Complete” and the person walks through — all without having to hand over their identification to the TSA officer sitting behind the screen."
+    publishedDateTime: 2023-05-15T17:11:00Z
+    webUrl: "https://www.nbcphiladelphia.com/news/national-international/tsa-tests-facial-recognition-technology-at-airports-to-boost-security/3566621/"
+    ampWebUrl: "https://www.nbcphiladelphia.com/news/national-international/tsa-tests-facial-recognition-technology-at-airports-to-boost-security/3566621/?amp=1"
+    cdnAmpWebUrl: "https://www-nbcphiladelphia-com.cdn.ampproject.org/c/s/www.nbcphiladelphia.com/news/national-international/tsa-tests-facial-recognition-technology-at-airports-to-boost-security/3566621/?amp=1"
+    type: article
+    provider:
+      name: NBC 10 Philadelphia
+      domain: nbcphiladelphia.com
+    quality: 91
+    images:
+      - url: "https://media.nbcphiladelphia.com/2023/05/web-230515-tsa-facial-recognition.jpg?quality=85&strip=all&resize=1200%2C675"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Are you who you say you are? TSA tests facial recognition technology to boost airport security"
+    excerpt: "The Transportation Security Administration has started using facial recognition technology at a number of airports across the country."
+    publishedDateTime: 2023-05-15T21:49:00Z
+    webUrl: "https://www.boston.com/travel/technology/2023/05/15/are-you-who-you-say-you-are-tsa-tests-facial-recognition-technology-to-boost-airport-security/"
+    ampWebUrl: "https://www.boston.com/travel/technology/2023/05/15/are-you-who-you-say-you-are-tsa-tests-facial-recognition-technology-to-boost-airport-security/?amp=1"
+    cdnAmpWebUrl: "https://www-boston-com.cdn.ampproject.org/c/s/www.boston.com/travel/technology/2023/05/15/are-you-who-you-say-you-are-tsa-tests-facial-recognition-technology-to-boost-airport-security/?amp=1"
+    type: article
+    provider:
+      name: Boston.com
+      domain: boston.com
+    quality: 79
+    images:
+      - url: "https://www.boston.com/wp-content/uploads/2023/05/Facial_Recognition_Airports_79172-6461bb4fb69eb-scaled.jpg"
+        width: 2560
+        height: 1708
+        isCached: true
+  - title: "Are you who you say you are? TSA tests facial recognition technology to boost airport security"
+    excerpt: "A pilot project by the Transportation Security Administration assesses the use of facial recognition technology at a number of airports."
+    publishedDateTime: 2023-05-16T21:17:00Z
+    webUrl: "https://abc7chicago.com/tsa-facial-recognition-airport-security-transportation-administration/13250231/"
+    ampWebUrl: "https://abc7chicago.com/amp/tsa-facial-recognition-airport-security-transportation-administration/13250231/"
+    cdnAmpWebUrl: "https://abc7chicago-com.cdn.ampproject.org/c/s/abc7chicago.com/amp/tsa-facial-recognition-airport-security-transportation-administration/13250231/"
+    type: article
+    provider:
+      name: ABC 7 Chicago
+      domain: abc7chicago.com
+    quality: 79
+    images:
+      - url: "https://cdn.abcotvs.com/dip/images/10994202_090221-cc-ap-tsa-generic-img.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Smile! Reid airport is testing ground for facial recognition project"
+    excerpt: "The TSA says the pilot program is voluntary and accurate, but critics have raised concerns about questions of bias in facial recognition technology."
+    publishedDateTime: 2023-05-15T23:24:00Z
+    webUrl: "https://www.reviewjournal.com/business/smile-reid-airport-is-testing-ground-for-facial-recognition-project-2777726/"
+    ampWebUrl: "https://www.reviewjournal.com/business/smile-reid-airport-is-testing-ground-for-facial-recognition-project-2777726/amp/"
+    cdnAmpWebUrl: "https://www-reviewjournal-com.cdn.ampproject.org/c/s/www.reviewjournal.com/business/smile-reid-airport-is-testing-ground-for-facial-recognition-project-2777726/amp/"
+    type: article
+    provider:
+      name: Las Vegas Review-Journal
+      domain: reviewjournal.com
+    quality: 74
+    images:
+      - url: "https://www.reviewjournal.com/wp-content/uploads/2023/05/17778613_web1_AP23116691165190.jpg?w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Las Vegas airport testing facial recognition to screen passengers"
+    excerpt: "The TSA says the security program is voluntary and accurate, but critics have raised concerns about bias in facial recognition technology."
+    publishedDateTime: 2023-05-17T16:14:00Z
+    webUrl: "https://www.reviewjournal.com/business/las-vegas-airport-testing-facial-recognition-to-screen-passengers-2777726/"
+    ampWebUrl: "https://www.reviewjournal.com/business/las-vegas-airport-testing-facial-recognition-to-screen-passengers-2777726/amp/"
+    cdnAmpWebUrl: "https://www-reviewjournal-com.cdn.ampproject.org/c/s/www.reviewjournal.com/business/las-vegas-airport-testing-facial-recognition-to-screen-passengers-2777726/amp/"
+    type: article
+    provider:
+      name: Las Vegas Review-Journal
+      domain: reviewjournal.com
+    quality: 74
+    images:
+      - url: "https://www.reviewjournal.com/wp-content/uploads/2023/05/17778613_web1_AP23116691165190.jpg?w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Despite bias concerns, TSA tests facial recognition software at more airports"
+    excerpt: "BALTIMORE (AP) — A passenger walks up to an airport security checkpoint, slips an ID card into a slot and looks into a camera atop a small screen. The screen flashes “Photo Complete” and the person walks through — all without having to hand over ..."
+    publishedDateTime: 2023-05-16T10:00:00Z
+    webUrl: "https://thegrio.com/2023/05/16/despite-bias-concerns-tsa-tests-facial-recognition-software-at-more-airports/"
+    ampWebUrl: "https://thegrio.com/2023/05/16/despite-bias-concerns-tsa-tests-facial-recognition-software-at-more-airports/amp/"
+    cdnAmpWebUrl: "https://thegrio-com.cdn.ampproject.org/c/s/thegrio.com/2023/05/16/despite-bias-concerns-tsa-tests-facial-recognition-software-at-more-airports/amp/"
+    type: article
+    provider:
+      name: The Grio
+      domain: thegrio.com
+    quality: 71
+    images:
+      - url: "https://thegrio.com/wp-content/uploads/2023/05/AP23116691315221-scaled.jpg"
+        width: 2560
+        height: 1707
+        isCached: true
+  - title: "TSA is testing facial recognition at more airports, raising privacy concerns"
+    excerpt: "The agency tasked with securing America's airports is testing the use of facial recognition technology at a number of airports across the country"
+    publishedDateTime: 2023-05-15T20:16:00Z
+    webUrl: "https://abcnews.go.com/Technology/wireStory/tsa-tests-facial-recognition-technology-boost-airport-security-99322644"
+    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/tsa-tests-facial-recognition-technology-boost-airport-security-99322644"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/tsa-tests-facial-recognition-technology-boost-airport-security-99322644"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 71
+    images:
+      - url: "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "TSA is testing facial recognition technology at more airports, raising privacy concerns"
+    excerpt: "The Transportation Safety Administration says the technology is an effort to more accurately identify the millions of passengers traveling through its airports every day and that passengers can opt out."
+    publishedDateTime: 2023-05-15T20:23:00Z
+    webUrl: "https://www.pbs.org/newshour/politics/tsa-is-testing-facial-recognition-technology-at-more-airports-raising-privacy-concerns"
+    ampWebUrl: "https://www.pbs.org/newshour/amp/politics/tsa-is-testing-facial-recognition-technology-at-more-airports-raising-privacy-concerns"
+    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/politics/tsa-is-testing-facial-recognition-technology-at-more-airports-raising-privacy-concerns"
+    type: article
+    provider:
+      name: PBS
+      domain: pbs.org
+    quality: 66
+    images:
+      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2023/05/GettyImages-1243034502-1024x687.jpg"
+        width: 1024
+        height: 687
+        isCached: true
+  - title: "About face: TSA testing facial recognition"
+    excerpt: "A passenger walks up to an airport security checkpoint, slips an ID card into a slot and looks into a camera atop a small screen. The screen flashes “Photo Complete” and the person"
+    publishedDateTime: 2023-05-15T21:36:00Z
+    webUrl: "https://www.bostonherald.com/2023/05/15/about-face-tsa-testing-facial-recognition/"
+    ampWebUrl: "https://www.bostonherald.com/2023/05/15/about-face-tsa-testing-facial-recognition/amp/"
+    cdnAmpWebUrl: "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2023/05/15/about-face-tsa-testing-facial-recognition/amp/"
+    type: article
+    provider:
+      name: Boston Herald
+      domain: bostonherald.com
+    quality: 59
+    images:
+      - url: "https://www.bostonherald.com/wp-content/uploads/2023/05/AP23116691163494.jpg?w=1024&h=683"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "TSA tests facial recognition technology at airports"
+    excerpt: "“What we are trying to do with this is aid the officers to actually determine that you are who you say who you are,” Jason Lim, identity management capabilities manager, said while presenting the technology to reporters at Baltimore-Washington ..."
+    publishedDateTime: 2023-05-16T08:15:00Z
+    webUrl: "https://www.washingtonexaminer.com/policy/defense-national-security/tsa-facial-recognition-technology-airports"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 56
+    images:
+      - url: "https://mediadc.brightspotcdn.com/dims4/default/0ce2bdc/2147483647/strip/true/crop/7002x3676+0+497/resize/1200x630!/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2F58%2F7d%2Fe6ddca124d91893393e7fde18609%2Fap23116691163494.jpg"
         width: 1200
         height: 630
         isCached: true
-  - title: "Computer Vision System Market Research | 2023-2030"
-    excerpt: "Research Reports has published a new report titled as \"Computer Vision System Market\" by End User (Automotive,"
-    publishedDateTime: 2023-05-16T00:43:00Z
-    webUrl: "https://www.marketwatch.com/press-release/computer-vision-system-market-research-2023-2030-2023-05-15"
+  - title: "TSA testing facial recognition at more airports, raising privacy concerns"
+    excerpt: "Advocates are concerned about how the data is collected, who has access to it and what happens if it gets hacked."
+    publishedDateTime: 2023-05-16T03:48:00Z
+    webUrl: "https://www.pressherald.com/2023/05/15/tsa-testing-facial-recognition-at-more-airports-raising-privacy-concerns/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
+      name: Portland Press Herald
+      domain: pressherald.com
+    quality: 53
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://multifiles.pressherald.com/uploads/sites/4/2023/05/Facial_Recognition_Airports_95530-1-1684182783.jpg"
+        width: 1000
+        height: 667
+        isCached: true
+  - title: "TSA tests facial recognition technology to boost airport security"
+    excerpt: "BALTIMORE (AP) — A passenger walks up to an airport security checkpoint, slips an ID card into a slot and looks into a camera atop a small screen. The screen flashes “Photo Complete” and the person walks through — all without having to hand over their identification to the TSA officer sitting behind the screen."
+    publishedDateTime: 2023-05-15T18:44:00Z
+    webUrl: "https://www.hawaiinewsnow.com/2023/05/15/tsa-tests-facial-recognition-technology-boost-airport-security/"
+    type: article
+    provider:
+      name: Hawaii News Now
+      domain: hawaiinewsnow.com
+    quality: 51
+  - title: "TSA tests facial recognition software at airports, drawing concerns about privacy"
+    excerpt: "The effort comes at a time when the use of various forms of technology to enhance security and streamline procedures is only increasing."
+    publishedDateTime: 2023-05-15T22:00:00Z
+    webUrl: "https://ktul.com/news/nation-world/tsa-tests-facial-recognition-software-at-airports-drawing-concerns-about-privacy-surveillance-state-technology-transportation-security-administration-screening-real-id-biometrics-civil-liberties-private-sector-data-collection-algorithms"
+    type: article
+    provider:
+      name: ktul
+      domain: ktul.com
+    quality: 49
+    images:
+      - url: "https://ktul.com/resources/media/5b711ed1-4a37-4d9f-a68d-0781028ccec7-large16x9_AP23116691163494.jpg?1684201598275"
+        width: 986
+        height: 555
+        isCached: true
+  - title: "TSA's Facial Recognition Tech Raises Questions About Bias and Data Security"
+    excerpt: "Analysts and lawmakers are concerned about a new TSA program that instructs passengers to insert their IDs into a machine and takes a pictures of them."
+    publishedDateTime: 2023-05-18T19:34:00Z
+    webUrl: "https://reason.com/2023/05/18/tsas-facial-recognition-tech-raises-questions-about-bias-and-data-security/"
+    type: article
+    provider:
+      name: Reason
+      domain: reason.com
+    quality: 49
+  - title: "Harry Reid International Airport in Las Vegas testing TSA facial recognition technology"
+    excerpt: "Harry Reid International Airport in Las Vegas is part of a pilot project by the TSA to assess the use of facial recognition technology."
+    publishedDateTime: 2023-05-17T16:42:00Z
+    webUrl: "https://www.thespectrum.com/story/news/2023/05/17/las-vegas-airport-among-ttsa-is-testing-facial-recognition-at-more-airports-raising-privacy-concerns/70227099007/"
+    type: article
+    provider:
+      name: The Spectrum
+      domain: thespectrum.com
+    quality: 46
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2023/05/16/PREN/08c5e615-7904-4d40-8684-d11579b6c89f-AP23116691290041.jpg?auto=webp&crop=7421,4175,x0,y378&format=pjpg&width=1200"
         width: 1200
-        height: 630
+        height: 675
         isCached: true
-  - title: "Robot Firefighter Market Research | 2023-2030"
-    excerpt: "The Global Robot Firefighter market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players,"
-    publishedDateTime: 2023-05-16T10:46:00Z
-    webUrl: "https://www.marketwatch.com/press-release/robot-firefighter-market-research-2023-2030-2023-05-16"
+  - title: "Las Vegas airport among sites testing TSA facial recognition technology, raising privacy concerns"
+    excerpt: "TSA says the pilot is voluntary and accurate, but critics have raised concerns about questions of bias in facial recognition technology and possible repercussions for passengers who want to opt out."
+    publishedDateTime: 2023-05-16T15:46:00Z
+    webUrl: "https://www.rgj.com/story/news/2023/05/16/las-vegas-airport-among-ttsa-is-testing-facial-recognition-at-more-airports-raising-privacy-concerns/70223093007/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
+      name: Reno Gazette-Journal
+      domain: rgj.com
+    quality: 41
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://www.gannett-cdn.com/presto/2023/05/16/PREN/08c5e615-7904-4d40-8684-d11579b6c89f-AP23116691290041.jpg?auto=webp&crop=7421,4175,x0,y378&format=pjpg&width=1200"
         width: 1200
-        height: 630
+        height: 675
         isCached: true
-  - title: "Face Recognition Systems Market 2023-2030 Size and Driving Growth"
-    excerpt: "The Face Recognition Systems Market Scope and Overview Report for 2023 presents a detailed analysis of the latest trends"
-    publishedDateTime: 2023-05-17T05:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-systems-market-2023-2030-size-and-driving-growth-2023-05-17"
+  - title: "Is that really you? TSA tests airport face recognition"
+    excerpt: "A pilot project by the Transportation Security Administration is assessing the use of facial recognition technology at a number of airports across the country."
+    publishedDateTime: 2023-05-15T17:58:00Z
+    webUrl: "https://fox8.com/news/is-that-really-you-tsa-tests-airport-face-recognition/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "2023, Face Recognition Systems Market | Global Industry Analysis Till 2030"
-    excerpt: "Face Recognition Systems Market | Outlook 2023-2028 | Pre and Post-COVID Research is Covered, Report Information |"
-    publishedDateTime: 2023-05-16T06:17:00Z
-    webUrl: "https://www.marketwatch.com/press-release/2023-face-recognition-systems-market-global-industry-analysis-till-2030-2023-05-16"
+      name: FOX8 Cleveland
+      domain: fox8.com
+    quality: 34
+  - title: "TSA Testing Facial Recognition Tech at 16 Airports"
+    excerpt: "The Transportation Security Administration (TSA) is trialing facial recognition technology at security checkpoints within over a dozen airports across the United States. According to the Association Press,"
+    publishedDateTime: 2023-05-15T19:30:00Z
+    webUrl: "https://jalopnik.com/tsa-testing-facial-recognition-tech-at-16-airports-1850438008"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 67
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "2023, Big Data & Machine Learning in Telecom Market Research Report Analysis by 2030"
-    excerpt: "The major players covered in the Big Data and Machine Learning in Telecom market report are: Get a sample copy of the Big Data and Machine Learning in Telecom Market report 2023 Short Summery About Big Data and Machine Learning in Telecom Market: Market Overview of Global Big Data and Machine Learning in Telecom market: According to our latest research,"
-    publishedDateTime: 2023-05-16T06:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/2023-big-data-machine-learning-in-telecom-market-research-report-analysis-by-2030-2023-05-16"
+      name: Jalopnik
+      domain: jalopnik.com
+    quality: 34
+  - title: "TSA testing facial recognition at BWI and other airports, raising privacy concerns"
+    excerpt: "A pilot project by the Transportation Security Administration aims to assess the use of facial recognition technology at a number of airports across the country."
+    publishedDateTime: 2023-05-15T19:54:00Z
+    webUrl: "https://thedailyrecord.com/2023/05/15/tsa-testing-facial-recognition-at-bwi-and-other-airports-raising-privacy-concerns/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 62
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Facial Recognition Market Share, Size, Segmentation Analysis, Key segments and Forecast 2031"
-    excerpt: "Global Facial Recognition Market – Drivers’ Restraints’ Opportunities’ Trends’ and Forecast up to 2025. Facial Recognition Market is approximately USD 5 billion market that is expected to double by 2025."
-    publishedDateTime: 2023-05-15T15:10:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-share-size-segmentation-analysis-key-segments-and-forecast-2031-2023-05-15"
+      name: The Daily Record (Maryland)
+      domain: thedailyrecord.com
+    quality: 28
+  - title: "TSA testing facial recognition technology, prompting privacy concerns"
+    excerpt: "A new project by the Transportation Security Administration is using facial recognition software to verify identities."
+    publishedDateTime: 2023-05-16T06:19:00Z
+    webUrl: "https://www.kshb.com/tsa-testing-facial-recognition-technology-prompting-privacy-concerns"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 58
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Voice And Speech Recognition Software Market Value with Status and Global Analysis 2023 to 2031"
-    excerpt: "May 15, 2023 (Heraldkeepers) -- Our report on the Voice And Speech Recognition Software market provides comprehensive insights into the market size, trends, and opportunities in the industry. Our report provides a detailed analysis of the key drivers and ..."
-    publishedDateTime: 2023-05-16T15:18:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-and-speech-recognition-software-market-value-with-status-and-global-analysis-2023-to-2031-2023-05-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 57
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Speech & Voice Recognition Systems Market by 2030"
-    excerpt: "Research Reports has published a new report titled as \" Speech and Voice Recognition Systems Market \" by End User ( Consumer Entertainment, Telematics, Home Applications, Enterprise Applications ), Types ( Hardware,"
-    publishedDateTime: 2023-05-17T02:44:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-voice-recognition-systems-market-by-2030-2023-05-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Voice Recognition Market: Future Demands and Projected Industry Growths to 2028"
-    excerpt: "The voice recognition market is expected to exhibit substantial growth by 2028, owing to notable technological advancements in the sector. Additionally, prevalent incorporation of the technology in diverse applications is likely to further drive market expansion through the forecast period."
-    publishedDateTime: 2023-05-15T14:54:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-future-demands-and-projected-industry-growths-to-2028-2023-05-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 50
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "2030, Facial Recognition Door Lock Market Growth | Expansion Plan and Latest Updates"
-    excerpt: "The \"Facial Recognition Door Lock Market\" research report for the period 2023-2030 offers a comprehensive analysis of"
-    publishedDateTime: 2023-05-16T12:42:00Z
-    webUrl: "https://www.marketwatch.com/press-release/2030-facial-recognition-door-lock-market-growth-expansion-plan-and-latest-updates-2023-05-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 42
-  - title: "The possibly-unstoppable march of facial recognition"
-    excerpt: "The latest example is the Transportation Security Administration, which some senators and experts believe is “moving way too fast” to adopt facial recognition technology three months after the agency ignored lawmakers’ calls to pump the brakes on its usage."
-    publishedDateTime: 2023-05-17T20:05:00Z
-    webUrl: "https://www.politico.com/newsletters/digital-future-daily/2023/05/17/the-possibly-unstoppable-march-of-facial-recognition-00097476"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 39
-    images:
-      - url: "https://static.politico.com/57/64/dff2b867457ea19b42bf7c926803/191227-facial-recognition-gty-773.jpg"
-        width: 3174
-        height: 2115
-        isCached: true
-  - title: "Mozn’s march to regional recognition – An AI story"
-    excerpt: "Following its participation in the inaugural DIFC FinTech Summit, Malik Alyousef, co-founder and chief operating officer of Saudi-based AML and anti-fraud leader Mozn discusses trends, challenges, and more Mozn’s march to regional recognition – An AI story AI,"
-    publishedDateTime: 2023-05-19T07:03:00Z
-    webUrl: "https://www.arabianbusiness.com/resources/mozns-march-to-regional-recognition-an-ai-story"
-    type: article
-    provider:
-      name: Arabian Business
-      domain: arabianbusiness.com
+      name: KSHB Kansas City
+      domain: kshb.com
     quality: 19
-  - title: "Community clinics get global recognition"
-    excerpt: "Community clinics got global recognition as a resolution on community-based healthcare in Bangladesh was unanimously adopted at the United Nations (UN) yesterday. The resolution titled -- 'Community-based primary health care: a participatory and inclusive approach to achieving universal health services' -- has given international recognition to community clinics,"
-    publishedDateTime: 2023-05-17T13:37:00Z
-    webUrl: "https://www.bssnews.net/news-flash/125917"
+  - title: "TSA Ramps Up Facial Recognition Pilot"
+    excerpt: "Next time you’re trying to catch a flight, you might spot a new initiative from the Transportation Security Administration (TSA) with a controversial component: facial recognition. The TSA has ramped up its biometric identity verification pilot by installing facial recognition systems in more airports."
+    publishedDateTime: 2023-05-17T19:20:00Z
+    webUrl: "https://www.extremetech.com/internet/tsa-ramps-up-facial-recognition-pilot"
     type: article
     provider:
-      name: Bangladesh Sangsbad Sangstha
-      domain: bssnews.net
-    quality: 4
-  - title: "Home Office pushes for more police facial-recognition deployments"
-    excerpt: "UK policing minister Chris Philp is pressing for facial-recognition technology to be rolled out by police forces across England and Wales, and will likely push to integrate the tech with police body-worn video cameras. According to a report co-authored by ..."
-    publishedDateTime: 2023-05-17T13:21:00Z
-    webUrl: "https://www.computerweekly.com/news/366537695/Home-Office-pushes-for-more-police-facial-recognition-deployments"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 4
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 19
 
 secured: "c59mq0ThOI6BYLgN6WGhR8x5eJTLU77vgaDkSokFDX+eVMHpxYW0Ofb2h5p/six2mEgjXJ/0N6uM4m2X6vMR7lCcLiuDTJ1S9mlmBijfTrO6+Vi5U9LW7uZ5LXFjnM49H+07Olcl8esUiQSBT2AyTwytyzeoa8wbPt+II+ZPI4o7S5MSQKi1nYbjxN1tn681srMvCSZXDTW6y+4m16AOXO9Nl3SYr8+5fbWvzqi3zJcv/T5/lTPKs6PZ0MFAD936V2Mga7cyzsptIugVkq/ud0JUEib6wQzkc0hpQw03j4hoWByKpemJrN1jkqmH+CgJWVbehKtdoP3xQXEVgdZfEP7KAM2nKlb0PpKzzzttC09TggXp1H/eBHu/Fjw6eEdCt13c4o6VzKtf+WTcFxklt7lW9G4eRwcKunmL9BXnETTgtSJwikOwOVHeZHHUbTlFJh6fSyNoFKPr/xlxTEIullVUnojs6nXwTzXKFEh+bSxYxx61Jivkb1+jDQNLKb2e7xuFupeYv4oKE+Mt2dHcOA==;tAT/As6Z51BmbOK9q+rEwQ=="
 ---

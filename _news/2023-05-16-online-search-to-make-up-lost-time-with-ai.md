@@ -9,7 +9,7 @@ ampWebUrl: "https://www.barrons.com/amp/news/online-search-to-make-up-lost-time-
 cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/online-search-to-make-up-lost-time-with-ai-8ef011d"
 type: article
 quality: 57
-heat: 67
+heat: 57
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 768
     height: 482
     isCached: true
-
-related:
-  - title: "Sinequa accelerates drug development and clinical research with AI-powered scientific search"
-    excerpt: "Sinequa presents generative AI and neural search capabilities for accelerating clinical research and drug development"
-    publishedDateTime: 2023-05-15T15:00:00Z
-    webUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=158648"
-    type: article
-    provider:
-      name: KMWorld Magazine
-      domain: kmworld.com
-    quality: 28
-    images:
-      - url: "https://dzceab466r34n.cloudfront.net/Images/OtherImages/151196-2023-Cover-Images-ORG.png"
-        width: 772
-        height: 594
-        isCached: true
 
 secured: "N3AxCYPfMm9fHrCi6EyDyW+gzT/0qL9D8LTLd/uGfYwXfiX3aBZJ0hpNgg9aYRBw8cRm0hqbHFdp1FvZYsEFb4GXIL3FdcUjKS81EAKK4Kk3i8g55DuXaJcWzbbTWMd5JzEQY/sOajxNp3U87bx6ZPW08vT7bnkFU33gBTSLhciS/p2xN1/wQZAgshmknI+VUmj93DQWmnu8uqzvHbPY7Z4Slnt7FyFeBsG4D5ues2nN/CBqhp6wHB8MkVi7sJ9NrsUFVEzt2dieAAEF37n7UEU8ZXm67n96PLwdRO13Uu4JgGz+COlLVMbgydDy8RDH7q4X2BtWPePjkIMKizw/EMVh/2DWa91rjK9oJ2IaxJUiNe78btKmxtOW8pGiT00Vw1U7ZLHBMfxW9QX+GC9ldE0qRtEUYEcBpcaCWrnTqL3NdzNyLmdsA2pcfOekZipWLzOjaR4dxP2I4SkX7YCeKCHrOL6obrZ+QQGNmdVvA1XBnbjhiiZ2n2gBpaTkVw6iJJpP8mfOOIGy7urD7bkUiw==;oGIOynRJip5/WzQrlniSOQ=="
 ---

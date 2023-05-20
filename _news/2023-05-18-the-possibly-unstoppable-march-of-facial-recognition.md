@@ -25,196 +25,34 @@ images:
     isCached: true
 
 related:
-  - title: "Facial Recognition Devices Market Research, 2030"
-    excerpt: "Research Reports has published a new report titled as \"Facial Recognition Devices Market\" by End User (Security"
-    publishedDateTime: 2023-05-15T13:23:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-devices-market-research-2030-2023-05-15"
+  - title: "A Flash of Recognition in a Lonely Universe"
+    excerpt: "When Melodie Kao, an astronomer at UC Santa Cruz, went looking for exothings, she set her sights 20 light-years away, on a brown dwarf—a rather unusual object that is neither a star nor a planet, with a mass somewhere between the two. Kao had previously ..."
+    publishedDateTime: 2023-05-18T12:01:00Z
+    webUrl: "https://www.theatlantic.com/science/archive/2023/05/exothings-space-asteroids-planets-rings/674093/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Computer Vision System Market Research | 2023-2030"
-    excerpt: "Research Reports has published a new report titled as \"Computer Vision System Market\" by End User (Automotive,"
-    publishedDateTime: 2023-05-16T00:43:00Z
-    webUrl: "https://www.marketwatch.com/press-release/computer-vision-system-market-research-2023-2030-2023-05-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Robot Firefighter Market Research | 2023-2030"
-    excerpt: "The Global Robot Firefighter market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players,"
-    publishedDateTime: 2023-05-16T10:46:00Z
-    webUrl: "https://www.marketwatch.com/press-release/robot-firefighter-market-research-2023-2030-2023-05-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Face Recognition Systems Market 2023-2030 Size and Driving Growth"
-    excerpt: "The Face Recognition Systems Market Scope and Overview Report for 2023 presents a detailed analysis of the latest trends"
-    publishedDateTime: 2023-05-17T05:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-systems-market-2023-2030-size-and-driving-growth-2023-05-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "2023, Face Recognition Systems Market | Global Industry Analysis Till 2030"
-    excerpt: "Face Recognition Systems Market | Outlook 2023-2028 | Pre and Post-COVID Research is Covered, Report Information |"
-    publishedDateTime: 2023-05-16T06:17:00Z
-    webUrl: "https://www.marketwatch.com/press-release/2023-face-recognition-systems-market-global-industry-analysis-till-2030-2023-05-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 67
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "2023, Big Data & Machine Learning in Telecom Market Research Report Analysis by 2030"
-    excerpt: "The major players covered in the Big Data and Machine Learning in Telecom market report are: Get a sample copy of the Big Data and Machine Learning in Telecom Market report 2023 Short Summery About Big Data and Machine Learning in Telecom Market: Market Overview of Global Big Data and Machine Learning in Telecom market: According to our latest research,"
-    publishedDateTime: 2023-05-16T06:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/2023-big-data-machine-learning-in-telecom-market-research-report-analysis-by-2030-2023-05-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 62
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Facial Recognition Market Share, Size, Segmentation Analysis, Key segments and Forecast 2031"
-    excerpt: "Global Facial Recognition Market – Drivers’ Restraints’ Opportunities’ Trends’ and Forecast up to 2025. Facial Recognition Market is approximately USD 5 billion market that is expected to double by 2025."
-    publishedDateTime: 2023-05-15T15:10:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-share-size-segmentation-analysis-key-segments-and-forecast-2031-2023-05-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 58
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Voice And Speech Recognition Software Market Value with Status and Global Analysis 2023 to 2031"
-    excerpt: "May 15, 2023 (Heraldkeepers) -- Our report on the Voice And Speech Recognition Software market provides comprehensive insights into the market size, trends, and opportunities in the industry. Our report provides a detailed analysis of the key drivers and ..."
-    publishedDateTime: 2023-05-16T15:18:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-and-speech-recognition-software-market-value-with-status-and-global-analysis-2023-to-2031-2023-05-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 57
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Facial Recognition Replaces Boarding Pass at Berlin Airport"
-    excerpt: "New biometric service for Lufthansa Group HON Circle Members and Senators at Berlin airport with “BER Traveller”"
-    publishedDateTime: 2023-05-16T14:37:00Z
-    webUrl: "https://eturbonews.com/facial-recognition-replaces-boarding-pass-at-berlin-airport/"
-    type: article
-    provider:
-      name: eturbonews
-      domain: eturbonews.com
+      name: The Atlantic
+      domain: theatlantic.com
     quality: 54
     images:
-      - url: "https://s9h7f8a7.rocketcdn.me/wp-content/uploads/2023/05/0-47-e1684247900334.jpg"
-        width: 600
-        height: 427
+      - url: "https://cdn.theatlantic.com/thumbor/-F29HH4cUyp5KEaeHnaj8-CSuco=/0x34:1597x866/1200x625/media/img/mt/2023/05/Space_Repeat/original.gif"
+        width: 1200
+        height: 625
         isCached: true
-  - title: "Speech & Voice Recognition Systems Market by 2030"
-    excerpt: "Research Reports has published a new report titled as \" Speech and Voice Recognition Systems Market \" by End User ( Consumer Entertainment, Telematics, Home Applications, Enterprise Applications ), Types ( Hardware,"
-    publishedDateTime: 2023-05-17T02:44:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-voice-recognition-systems-market-by-2030-2023-05-16"
+  - title: "Google's Universal Speech Model Performs Speech Recognition on Hundreds of Languages"
+    excerpt: "In this article, we share findings and insights about the Rust community and ecosystem and elaborate on the peculiarities and pitfalls of starting new projects with Rust or migrating to Rust from ..."
+    publishedDateTime: 2023-05-16T14:45:00Z
+    webUrl: "https://www.infoq.com/news/2023/05/universal-speech-model/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
+      name: InfoQ
+      domain: infoq.com
+    quality: 32
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://cdn.infoq.com/statics_s1_20230519120639/styles/static/images/logo/logo-big.jpg"
         width: 1200
         height: 630
         isCached: true
-  - title: "Voice Recognition Market: Future Demands and Projected Industry Growths to 2028"
-    excerpt: "The voice recognition market is expected to exhibit substantial growth by 2028, owing to notable technological advancements in the sector. Additionally, prevalent incorporation of the technology in diverse applications is likely to further drive market expansion through the forecast period."
-    publishedDateTime: 2023-05-15T14:54:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-future-demands-and-projected-industry-growths-to-2028-2023-05-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 50
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "2030, Facial Recognition Door Lock Market Growth | Expansion Plan and Latest Updates"
-    excerpt: "The \"Facial Recognition Door Lock Market\" research report for the period 2023-2030 offers a comprehensive analysis of"
-    publishedDateTime: 2023-05-16T12:42:00Z
-    webUrl: "https://www.marketwatch.com/press-release/2030-facial-recognition-door-lock-market-growth-expansion-plan-and-latest-updates-2023-05-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 42
-  - title: "Mozn’s march to regional recognition – An AI story"
-    excerpt: "Following its participation in the inaugural DIFC FinTech Summit, Malik Alyousef, co-founder and chief operating officer of Saudi-based AML and anti-fraud leader Mozn discusses trends, challenges, and more Mozn’s march to regional recognition – An AI story AI,"
-    publishedDateTime: 2023-05-19T07:03:00Z
-    webUrl: "https://www.arabianbusiness.com/resources/mozns-march-to-regional-recognition-an-ai-story"
-    type: article
-    provider:
-      name: Arabian Business
-      domain: arabianbusiness.com
-    quality: 19
-  - title: "Community clinics get global recognition"
-    excerpt: "Community clinics got global recognition as a resolution on community-based healthcare in Bangladesh was unanimously adopted at the United Nations (UN) yesterday. The resolution titled -- 'Community-based primary health care: a participatory and inclusive approach to achieving universal health services' -- has given international recognition to community clinics,"
-    publishedDateTime: 2023-05-17T13:37:00Z
-    webUrl: "https://www.bssnews.net/news-flash/125917"
-    type: article
-    provider:
-      name: Bangladesh Sangsbad Sangstha
-      domain: bssnews.net
-    quality: 4
-  - title: "Home Office pushes for more police facial-recognition deployments"
-    excerpt: "UK policing minister Chris Philp is pressing for facial-recognition technology to be rolled out by police forces across England and Wales, and will likely push to integrate the tech with police body-worn video cameras. According to a report co-authored by ..."
-    publishedDateTime: 2023-05-17T13:21:00Z
-    webUrl: "https://www.computerweekly.com/news/366537695/Home-Office-pushes-for-more-police-facial-recognition-deployments"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 4
 
 secured: "c9FoGSELWFJei9TGV/Gt46yaz1hECn4ooGz4bUZHnsGVDHeE4HwR6v3D/66wB7gQ6iBaSSkj2JEDA9FTzrHjlOnR9Tx54o/Sc8mv2U9Cb4o9LuByKY5uvQuz7Uc9lZARurTFTCOVu/aVL4coOZhUsWJ/t0gsNEgMtQh2IFxGPHZxyrvpFkWyyir21AGk434lIkbhTIJstDH6n5kOxvxZne+Ufv49fj9zl77LjtTCGanlUbSM1+XBYmCooSfNfWWAxgDl+532mDJqUq0//qHXy+tfAj4p0VRI8z5MGb1s0zvRO3s55XRvzM+7dOfCJSW4olyQYLr0auKKlADh5+0rHQACQRmT1LB8NtJdf1TgoDCz+Ok7gD/CnlYwjaOAph/tPeRW3EpERFSKQi8OsvsGV49UfdaaCDQaL2fzBxEAU67+tUW0cer6sYSgCuGES5SW91P9X3R46GFR6sAOtWDLwCZktW9GoXK4Sca7ItJbXEKE7HHH1lnfrZGTZhBhvqycpkCFNBukcZFysCQ3Zxa3bg==;/MEUZbB+v5prr8jw9GDc9w=="
 ---

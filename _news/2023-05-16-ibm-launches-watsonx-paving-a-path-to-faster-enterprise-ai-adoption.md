@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 623
         isCached: true
-  - title: "IBM launches new AI and data platform for enterprises"
-    excerpt: "US technology giant IBM has announced the launch of Watsonx, an artificial intelligence (AI) and data platform"
-    publishedDateTime: 2023-05-15T14:27:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ibm-launches-new-ai-and-data-platform-for-enterprises-2023-05-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "5 Takeaways from IBM Think 2023: Generative AI to Hybrid Cloud"
     excerpt: "Contact centers are low-hanging fruit for AI Where to start with AI? I get asked that a lot by business and IT executives. I always recommend an area that currently has accurate KPIs and also where a small improvement can have a big payback. This points to ..."
     publishedDateTime: 2023-05-18T21:50:00Z
@@ -67,15 +53,6 @@ related:
         width: 1400
         height: 933
         isCached: true
-  - title: "Generative AI’s future in the enterprise: To infinity and beyond"
-    excerpt: "Breathtaking generative AI models and applications like OpenAI’s GPT3 and ChatGPT are unleashing new possibilities across enterprises everywhere. But while wicked smart, they’re still learning and evolving — and causing an existential stir."
-    publishedDateTime: 2023-05-15T14:00:00Z
-    webUrl: "https://www.fastcompany.com/90896021/generative-ais-future-in-the-enterprise-to-infinity-and-beyond"
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 17
 
 secured: "T5lJgabauM+bXpRXD49ZUllY9e1lrrhYkJRJb6Ctsc9rW4isoiiw6JExwkN/5LZHWyo30nkgdb1oeC71FWA0x7tL/pmrnkEtvsmLwukTRCWaDTBksYq9ETXQI6VjGpQc1OnnJcJzviCVLfrS+3O+jwaMEbkF3sJAPPavYk9J/4d18RyVzP4yr0CSZxcj3DQPkHoUhaN4YwXaBXibld3fbg5bjMSh+6XUXpmti+YngB/lMKz9xNWrIoBatCiLYqbvt64siqwDety7BAbObGzSlrQcKmQL9Uq8MVX/E8s4kkbXem7Lu01OKiWF7CH1mX5hQTLV/6Lqv2xZlpY44TYyZ4pnpIVjP7k2B0AAPjYuhPW0fLUxNqBrxA3/5TYXzsNTCE9moS3ngn9YzI6U3gQ4ZKRUNoSuSZqXMcfhkRGu/lX8F3hYOJAZNwKLijn55ZurLeRqUJFy5OA/Xiz6mXi5z8CFQRHq3O/Tw3RCOAN+pWvqSeTtMkPLKYqFoF+kDMU4nyY3lm4LzHXI1iEtWbp+9Q==;Lyw8yRknoJuktciWuzUbCw=="
 ---

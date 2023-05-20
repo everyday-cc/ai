@@ -155,20 +155,6 @@ related:
         width: 750
         height: 500
         isCached: true
-  - title: "Microsoft’s in-house AI chip could ‘hasten’ product rollout, cut costs"
-    excerpt: "Microsoft is reportedly working on its own chips for training AI models, which could help expand its cloud AI offerings and tighten competition with rivals AWS and Google Cloud. The move could allow Microsoft to further expand its generative AI products,"
-    publishedDateTime: 2023-05-15T14:11:00Z
-    webUrl: "https://www.techcentral.ie/microsofts-in-house-ai-chip-could-hasten-product-rollout-cut-costs/"
-    type: article
-    provider:
-      name: Mozilla
-      domain: techcentral.ie
-    quality: 71
-    images:
-      - url: "https://www.techcentral.ie/wp-content/uploads/2023/05/Windows_2023.jpg"
-        width: 620
-        height: 350
-        isCached: true
   - title: "After Apple, Amazon, Google and Microsoft, Meta Now Builds Its Own AI Chips"
     excerpt: "Meta recently introduced its first in-house silicon chip designed for AI workloads, called MTIA (meta training and inference accelerator)."
     publishedDateTime: 2023-05-19T09:21:00Z
@@ -373,15 +359,6 @@ related:
       name: Hindustan Times Tech
       domain: hindustantimes.com
     quality: 33
-  - title: "SAP and Microsoft Collaborate on Joint Generative AI Offerings to Help Customers Address the Talent Gap"
-    excerpt: "SAP® SuccessFactors® Solutions Integration with Microsoft 365 Copilot and Copilot in Viva Learning Will Bring the Power of AI to People Leaders, Helping Them Recruit and Develop Their Teams WALLDORF,"
-    publishedDateTime: 2023-05-15T14:29:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/05/15/9813979.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 20
   - title: "Check Point Software extends its Industry-Leading Cloud Firewall to Secure Microsoft Azure Virtual WAN"
     excerpt: "Check Point® Software Technologies Ltd. (NASDAQ: CHKP), a leading provider of cyber security solutions globally, announces the general availability of its industry-leading Next-Generation Cloud Firewall natively integrated with Microsoft Azure Virtual WAN to provide customers with top-notch security."
     publishedDateTime: 2023-05-18T21:27:00Z

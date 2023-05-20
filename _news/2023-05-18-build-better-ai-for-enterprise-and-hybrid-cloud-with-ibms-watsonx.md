@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/tiriasresearch/2023/05/17/build-better-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2023/05/17/build-better-ai-for-enterprise-and-hybrid-cloud-with-ibms-watsonx/amp/"
 type: article
 quality: 106
-heat: 146
+heat: 126
 published: true
 
 provider:
@@ -32,20 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "IBM launches new AI and data platform for enterprises"
-    excerpt: "US technology giant IBM has announced the launch of Watsonx, an artificial intelligence (AI) and data platform"
-    publishedDateTime: 2023-05-15T14:27:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ibm-launches-new-ai-and-data-platform-for-enterprises-2023-05-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "5 Takeaways from IBM Think 2023: Generative AI to Hybrid Cloud"
     excerpt: "Contact centers are low-hanging fruit for AI Where to start with AI? I get asked that a lot by business and IT executives. I always recommend an area that currently has accurate KPIs and also where a small improvement can have a big payback. This points to ..."
     publishedDateTime: 2023-05-18T21:50:00Z
@@ -69,15 +55,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 64
-  - title: "Generative AI’s future in the enterprise: To infinity and beyond"
-    excerpt: "Breathtaking generative AI models and applications like OpenAI’s GPT3 and ChatGPT are unleashing new possibilities across enterprises everywhere. But while wicked smart, they’re still learning and evolving — and causing an existential stir."
-    publishedDateTime: 2023-05-15T14:00:00Z
-    webUrl: "https://www.fastcompany.com/90896021/generative-ais-future-in-the-enterprise-to-infinity-and-beyond"
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 17
 
 secured: "zFVVmQ2/K656OBjqvlR6csArQJii2DASe+1rHC/EF/JO1u9RFAey01XcL6qFwmB6NzfYZ/dXa7rS2WbGwi5ijr23SiNhJq433MoOk33py89cVwE20TEsKVlwDnWjorvCepflbSq+VOz6N3C2xonn0C4UqJ1JMk6QTImw/7e+mC29q/bOaPHal4Ky/mT6Y7FRNgiRlaKEUVpEoVDnbR9YOZ43PeNdfFQB4Ad9F/vS2PFv1DZqutBtzoPF40A+HtxIT95TinxyvSXdIgwxmu/f3vOyYJRohT0zbu3FXirV8qRQ1tF3ln5RukZSnRmK3WFLCXOEe10Glhj1j/5NQljcYV4BTW+e7b3AtvIFV3B1qfM2ioUIUQW9jNSsmwPjXawNvs7/TrwzpP69bTex21M9K7tHkmh5wzdn5qeWetrp3pYOQPKXgSdxdMzsQ2x7uTXXusbg8WWV/8J9DXfEXwqatnDPCAsicBxTdDa3g3uJDtHKnmbkEJ6YQBqnX7DzsTfF7+pae/wkXTC8sJjKOUin7w==;00C4STeOLr918Hwp7OpyPA=="
 ---

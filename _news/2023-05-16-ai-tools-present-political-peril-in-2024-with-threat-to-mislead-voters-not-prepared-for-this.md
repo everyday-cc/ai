@@ -32,15 +32,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "AI presents political peril for 2024 with threat to mislead voters"
-    excerpt: "Computer engineers and tech-inclined political scientists have warned for years that cheap, powerful artificial intelligence tools would soon allow anyone to create fake images, video and audio that was realistic enough to fool voters and perhaps sway an election."
-    publishedDateTime: 2023-05-15T13:54:00Z
-    webUrl: "https://www.mauinews.com/wire/?category=5186&ID=291062"
-    type: article
-    provider:
-      name: The Maui News
-      domain: mauinews.com
-    quality: 17
 
 secured: "HApcFyf/bcZjLm/CKNIsx+edQpVf/Uga8se6Rg1Fn7OiPmnNNZ/GlHQUdMK7K6DLyEjH9DhOZaCDGlglcoBuk0/NZkekNyMmtEJLBX0zN5nsj3CWWxfQDLl/KSUSJp3Qi+K9DQR9l6Gn9h2lSlhp/aWlbZJiVzOdtCvwDxtup1R47e27XsVQMKkvIyGhMd1EywwkL6VEWcGcynQTYsycHmw15CMQ522bTVSInfGo/x+RUaGp+q8NaJl0HWxYj/syt7BN5QmC+udWLlQeQ4Hue+kgpTLDtTZBTzCiY2Ca3aRclUPlG5fLgjA6pD7l+nfuZyLXBuYnq488pnax+nwAc76NwWedeZ61D42/egHQRCYiU7kxQmHF/LFqM8klDlJL7JZIJDwVqMJB4W9HwKGncqCB93fhQss9/Um9l1SXeLfuKzYJSDWaImtZTBbHJFm/wb1feeHz5SrLgp3iIh8DDfYvtAO1TLVKugo09Ngt3sdotcdecG4g2usHLQ3M2D41mu9VltA1RvyOnR0ukKI+vQ==;4JsR0u+u0jvaH0Zxlabupw=="
 ---

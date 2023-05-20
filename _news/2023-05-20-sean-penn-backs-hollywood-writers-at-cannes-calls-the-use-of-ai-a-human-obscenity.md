@@ -38,15 +38,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI and Hollywood: Why the WGA wants to keep robots out of the writers room"
-    excerpt: "AI can't write a quality screenplay today. But as the technology improves, Hollywood writers want to make sure AI isn't used as source material in the future."
-    publishedDateTime: 2023-05-15T13:45:00Z
-    webUrl: "https://www.bizjournals.com/losangeles/inno/stories/news/2023/05/15/hollywood-writers-strike-ai.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 32
 
 secured: "pdJmrcCou36SZBw6Rv6FoznADVe5RGjDeRwJczXc+y9y+sv+OreQRCChaHNHMBYnmf2lO2GeMUXwYf/XE2Esr+EqhTdwf4ZeXxMG8b7moNMUNEO7AxQsZrZdBNsTKyfWIjVtJqK8tPNzXW4dsYYrnY/HdTrX22m3qp7opYMlsn8KNEzzGmlz8I1dpEjeGvNIbxzBkSMB6MMEW9NYN6pUSLnmWMadLmt7jfnmjzeV+d+w7nRvlX3vhG+LdHSdjhjIC5fyqLiMLcdUKxkFpSiQJkqv0Z3VotCWR/rMatscGQ/a7OfZYCuuzpjyfSWS0oSumfR/hzQOqaTZr24K6gJzlWiAL/ZLG2FAp0G2vdRYsMnFX9OJJewpi0o/01O90F/zfXQteDBuDFzDp8CllcH8iqUJ72gblElvywXtZ4jQxbvQBwMFx7jmheRf6tDONvW/AuyUv0y+UILpD01D66mrddOgR4QRGxCnXQyuq1e7xilbbXolxfNkSCH4mF0gO36+OaeAHUfmSfekUU3vn09hSw==;QLIAGCjXpdH2yIVMZ4kPVw=="
 ---

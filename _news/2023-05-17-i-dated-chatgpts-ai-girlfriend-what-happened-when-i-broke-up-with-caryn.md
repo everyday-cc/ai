@@ -446,20 +446,6 @@ related:
         width: 844
         height: 567
         isCached: true
-  - title: "What Higher Ed Gets Wrong About AI Chatbots — From the Student Perspective"
-    excerpt: "As a doctoral student at the University of California at Los Angeles, I was among those who got a recent campus-wide email with an urgent directive:"
-    publishedDateTime: 2023-05-15T13:37:00Z
-    webUrl: "https://www.edsurge.com/news/2023-05-15-what-higher-ed-gets-wrong-about-ai-chatbots-from-the-student-perspective"
-    type: article
-    provider:
-      name: EdSurge
-      domain: edsurge.com
-    quality: 37
-    images:
-      - url: "https://edsurge.imgix.net/uploads/post/image/15318/student_using_chatgpt-1683234053.png?auto=compress%2Cformat&w=1024&h=512&fit=crop"
-        width: 1024
-        height: 512
-        isCached: true
   - title: "ChatGPT CEO testifies before Congress as concerns grow about AI risks"
     excerpt: "Sam Altman told Congress on Tuesday that government intervention \"will be critical to mitigate the risks of increasingly powerful” AI systems."
     publishedDateTime: 2023-05-16T15:07:00Z

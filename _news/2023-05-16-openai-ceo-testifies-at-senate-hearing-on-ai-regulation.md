@@ -106,6 +106,22 @@ related:
         width: 2755
         height: 1837
         isCached: true
+  - title: "Lawmakers reveal AI concerns over 'future of humanity' following OpenAI CEO's Senate testimony"
+    excerpt: "Displaying bias, foreign adversaries like China becoming dominant, and outsmarting humans were all top artificial intelligence concerns for members of Congress."
+    publishedDateTime: 2023-05-20T06:00:00Z
+    webUrl: "https://www.foxnews.com/politics/lawmakers-reveal-ai-concerns-over-future-humanity-following-openai-ceos-senate-testimony"
+    ampWebUrl: "https://www.foxnews.com/politics/lawmakers-reveal-ai-concerns-over-future-humanity-following-openai-ceos-senate-testimony.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lawmakers-reveal-ai-concerns-over-future-humanity-following-openai-ceos-senate-testimony.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 75
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5bae5da6-5fb6-41ce-94a2-52971e5432f0/24af8e1e-0e18-48c0-8e11-238b317f713c/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "OpenAI CEO: Artificial Intelligence Needs Regulation"
     excerpt: "(TNS) — Government regulation is “critical” to keep risks down with artificial intelligence such as ChatGPT, the CEO of the company behind the bot testified Tuesday. Speaking at a Senate hearing in Washington, OpenAI honcho Sam Altman addressed ..."
     publishedDateTime: 2023-05-17T21:31:00Z

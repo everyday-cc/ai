@@ -35,6 +35,20 @@ related:
         width: 697
         height: 464
         isCached: true
+  - title: "UAE firm announce Middle East’s first firefighting robot"
+    excerpt: "UAE businesses introduces Middle East’s first firefighting robot UAE firm announce Middle East’s first firefighting robot Civil Defence, Dubai Fire, firefighters, Robots, UAE Culture & Society"
+    publishedDateTime: 2023-05-20T07:51:00Z
+    webUrl: "https://www.arabianbusiness.com/culture-society/uae-firm-announce-middle-easts-first-firefighting-robot"
+    type: article
+    provider:
+      name: Arabian Business
+      domain: arabianbusiness.com
+    quality: 39
+    images:
+      - url: "https://www.arabianbusiness.com/cloud/2023/05/19/uae-robot-firefighter.jpg"
+        width: 1200
+        height: 1027
+        isCached: true
 
 secured: "bA83v3drv1cY46GfMESHUt8WOxt5/iEJ7lkSWYrDI/0K+IzEtLK81nn4+sJ1GrwV2YhsF5xsisViZx2DPu65g1mQrLigjC5xdSpx9Ez4b24ASqTDyTQJPc5yxbPXB6PMJNh1fn0Qeka51fPqtbSOClNR3JvcJvhjHUUGQiEaHoudF7x3EGyEiYGTXYPZAnCKFsSLHpywBVBlaCmem1zRsr4oDTc7Qa448mLUhuqjTs8k7jkJVKfAmwrAAJ7s5UUZG4zMOLujKZbiPIIdjGIBSOunj1+wkAQOqP/sStWeHWmMOSBBBB5C0ZwDnslw+IKL4ca0N3dH3WPMKNxo4CP4ocd0+k4HOaNkpSlHj6uk+zQ=;OFld+QOgdrv2izQ1zlbPgg=="
 ---

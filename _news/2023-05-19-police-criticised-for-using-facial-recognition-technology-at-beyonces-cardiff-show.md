@@ -43,6 +43,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Police to use facial recognition technology in Cardiff during Beyoncé concert"
+    excerpt: "Police will deploy technology in city centre to identify wanted individuals, leading to warning use of invasive surveillance becoming normalised"
+    publishedDateTime: 2023-05-17T10:39:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/may/17/police-to-use-facial-recognition-technology-in-cardiff-during-beyonce-concert"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/may/17/police-to-use-facial-recognition-technology-in-cardiff-during-beyonce-concert"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/may/17/police-to-use-facial-recognition-technology-in-cardiff-during-beyonce-concert"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 56
+    images:
+      - url: "https://i.guim.co.uk/img/media/3a12bb2b66919a0de7aa6de18f9b59fce630ecd3/0_146_4788_2873/master/4788.jpg?width=620&quality=85&auto=format&fit=max&s=3e2a733ed8b2a6363654cfbb017ed40e"
+        width: 620
+        height: 372
+        isCached: true
   - title: "Police to use controversial facial recognition software at Beyonce’s first UK concert"
     excerpt: "Police will use live facial recognition software to scan crowds attending Beyonce’s first UK tour date in Cardiff. The global star kicks off the UK leg of her Renaissance World Tour at the city’s Principality Stadium – her first tour in seven years."
     publishedDateTime: 2023-05-17T12:53:00Z

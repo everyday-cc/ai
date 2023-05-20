@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 625
         isCached: true
+  - title: "The possibly-unstoppable march of facial recognition"
+    excerpt: "The latest example is the Transportation Security Administration, which some senators and experts believe is “moving way too fast” to adopt facial recognition technology three months after the agency ignored lawmakers’ calls to pump the brakes on its usage."
+    publishedDateTime: 2023-05-17T20:05:00Z
+    webUrl: "https://www.politico.com/newsletters/digital-future-daily/2023/05/17/the-possibly-unstoppable-march-of-facial-recognition-00097476"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 39
+    images:
+      - url: "https://static.politico.com/57/64/dff2b867457ea19b42bf7c926803/191227-facial-recognition-gty-773.jpg"
+        width: 3174
+        height: 2115
+        isCached: true
 
 secured: "Z8Pg9QbDiniDnpNY7NDrKdo9ogm4MZGsdWt20VGpOhAakFUbp4IONvym08bFGfOyM9H3PEX+xPyIGtbGe8C5gHvP7pboCcHBGHumnnxy3sD54ipjhbhvm1v/PKwSQ2DXSswKvvFtRgald/yNekeZDA5LpXqVvfh1v31HhhwVibz/iKbPxhdgZySHRv94GK3zjNrhNp1h2tgSF5hqrODAxTwuKczC9fMR/DcPMQdeXr6Y/9jClmjRBROm/YIxNd5PBTHWirWkuX7hqwwF8XTzU0q/i2MEoZIVSFeiA64+XK3q/wOWYlTyNzddFeLS1HabUg9rDquBBFjMz18ILFhYXnoDg7+olMFobgfR1G2lsiw=;5FXFDOkowCmPnKi0hPZRPw=="
 ---

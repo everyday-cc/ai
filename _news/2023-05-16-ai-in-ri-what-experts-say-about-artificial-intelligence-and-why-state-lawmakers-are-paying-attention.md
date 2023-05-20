@@ -6,8 +6,8 @@ publishedDateTime: 2023-05-16T11:03:00Z
 originalUrl: "https://www.bostonglobe.com/2023/05/16/metro/ai-ri-what-experts-say-about-artificial-intelligence-how-lawmakers-may-rein-it/"
 webUrl: "https://www.bostonglobe.com/2023/05/16/metro/ai-ri-what-experts-say-about-artificial-intelligence-how-lawmakers-may-rein-it/"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - AI in Autos
 
 images:
   - url: "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/nNwgulLpBmNfMhf_D6CTtnB_Rbs=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/6JFCTTNCGZCNADKL6CLYX4FRZA.jpg"

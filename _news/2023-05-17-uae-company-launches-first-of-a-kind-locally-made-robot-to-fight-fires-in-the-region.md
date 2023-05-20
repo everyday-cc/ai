@@ -9,8 +9,8 @@ ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/uae-company-la
 cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/uae-company-launches-first-of-a-kind-locally-made-robot-to-fight-fires-in-the-region-eogbvyqp?amp=1"
 type: article
 quality: 52
-heat: 62
-published: false
+heat: 72
+published: true
 
 provider:
   name: Zawya
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "UAE firm announce Middle East’s first firefighting robot"
+    excerpt: "UAE businesses introduces Middle East’s first firefighting robot UAE firm announce Middle East’s first firefighting robot Civil Defence, Dubai Fire, firefighters, Robots, UAE Culture & Society"
+    publishedDateTime: 2023-05-20T07:51:00Z
+    webUrl: "https://www.arabianbusiness.com/culture-society/uae-firm-announce-middle-easts-first-firefighting-robot"
+    type: article
+    provider:
+      name: Arabian Business
+      domain: arabianbusiness.com
+    quality: 39
+    images:
+      - url: "https://www.arabianbusiness.com/cloud/2023/05/19/uae-robot-firefighter.jpg"
+        width: 1200
+        height: 1027
+        isCached: true
   - title: "Innovation Pioneer RobotLAB Launches World's First Robot Franchising Initiative of Its Kind"
     excerpt: "\"As the incorporation of robots becomes increasingly ubiquitous, franchising allows RobotLAB to better serve our growing customer base with passionate, well-trained and skilled franchisees who are experts in the communities where they operate and will provide the highes level of customer service,"
     publishedDateTime: 2023-05-17T14:46:00Z
