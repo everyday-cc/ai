@@ -2,6 +2,48 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2023-05-15-ibm-tech-now-may-15-2023.md",
+      "title": "IBM Tech Now: May 15, 2023",
+      "excerpt": "Exploring the big announcement coming out of the Think 2023 event: watsonx and it’s three main components.\nThe post IBM Tech Now: May 15, 2023 appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/ibm-tech-now-76/",
+      "originalUrl": "https://www.ibm.com/blog/ibm-tech-now-76/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-15T06:11:05-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-15-what-happens-when-ai-becomes-sentient-3-strategic-outlooks.md",
       "title": "What Happens When AI Becomes Sentient? 3 Strategic Outlooks",
       "excerpt": "As AI advances, it’s important to start thinking about the implications (ethical, social, legal, tech and safety) of such a breakthrough today.",
@@ -1198,57 +1240,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-14-ai-expert-taps-un-officials-to-learn-how-to-build-a-global-ai-regulatory-body.md",
-      "title": "AI expert taps UN officials to learn how to build a global AI regulatory body",
-      "excerpt": "Gary Marcus, a cognitive scientist and expert on AI, said he's consulting with people in the UN and UNESCO about how to create a global AI regulatory agency.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/tech/ai-expert-taps-un-officials-learn-build-global-ai-regulatory-body",
-      "originalUrl": "https://www.foxnews.com/tech/ai-expert-taps-un-officials-learn-build-global-ai-regulatory-body",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6b5d6754-de7c-4d69-8d61-fc722622f23f/c6c2c621-611e-4146-b03b-76a2d24f7b50/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/tech/ai-expert-taps-un-officials-learn-build-global-ai-regulatory-body.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/ai-expert-taps-un-officials-learn-build-global-ai-regulatory-body.amp",
-      "publishedDateTime": "2023-05-13T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

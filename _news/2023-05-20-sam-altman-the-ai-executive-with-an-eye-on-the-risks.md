@@ -353,15 +353,6 @@ related:
       name: The Washington Post
       domain: washingtonpost.com
     quality: 17
-  - title: "Report: OpenAI CEO Sam Altman in talks to raise $100M for Worldcoin crypto startup"
-    excerpt: "OpenAI LP Chief Executive Sam Altman is reportedly in advance talks to raise about $100 million in new funding for Worldcoin, an iris-scanning startup that seeks to build a globally distributed cryptocurrency."
-    publishedDateTime: 2023-05-15T18:38:00Z
-    webUrl: "https://siliconangle.com/2023/05/15/report-openai-ceo-sam-altman-talks-raise-100m-worldcoin-crypto-startup/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 11
 
 secured: "YKs5yGSlXzk3tCJweU5YIzL41/x6RC4dHEfZnB/wbmVF8FG4MwV4oBnOCquih+TwRYl8gk8SXgsQ012I9DDKJ9WOwaaqKPMT2lkv/NPbslQy0KPLHdijvcCFokzQQ7rogHv6hTH8C8l0frVuqH8WtZIQ77D0+Jkk1J3V2h+3BW/pd5SiAS8vhOHghWh5ccB8F8lSIZW0/ajPcvRucCdAhMPjC5yK1QQvYufCi93KxJoPppJuMvn1/GwpFPjQNgJ/mN3uhcdja0pRZAEP/9ACaMuQ2flfx4KNyc510/C3JohwVeUsWIXccIUh14poaM5xmjYTaKdnEooxh9EpYGMpvv1VYaNiuNWECZ6Up/MztpLEI99OoIbpwLRkuznfIxB1wMzUOXDhQPU1PWYcOVdE5Smr42Le62bdf1Y5vJjiGHKr7QqZpbDgGtNbPXtXQdun0fON7c88wxnZreQSHMbKpNZL2cb9CtgQNyNTUR97kS34L4BRk+XQQFppAseClRFJi4MEO7GE1o62yAO6dM6aIg==;eyPud3Qo12GKkJI/V8i9Ew=="
 ---

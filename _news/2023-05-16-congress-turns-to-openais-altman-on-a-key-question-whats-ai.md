@@ -358,15 +358,6 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 17
-  - title: "Report: OpenAI CEO Sam Altman in talks to raise $100M for Worldcoin crypto startup"
-    excerpt: "OpenAI LP Chief Executive Sam Altman is reportedly in advance talks to raise about $100 million in new funding for Worldcoin, an iris-scanning startup that seeks to build a globally distributed cryptocurrency."
-    publishedDateTime: 2023-05-15T18:38:00Z
-    webUrl: "https://siliconangle.com/2023/05/15/report-openai-ceo-sam-altman-talks-raise-100m-worldcoin-crypto-startup/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 11
 
 secured: "kBVdUsgd9NB20UWJWu1rWBA3IkGWNycmvAE8rF8AF1xxx1bBd6vSJuLISkTuq5buObMdByLU+q32WdG0EbLW7x99+rR/r0Yo/GjYH1PBOBDfiGYadIM5Q0BQaC73V0DgXbNAHHuJLt/Zk8KgADNANk9hluRyXYobSGliC6Np48yelLl2oM4ZGYeh4ULoAZYGoublaoHTpxGmX4q3J1cA2Y7Tm+UEQ0eqqCvq9DuB7lW3TYrnDx98QlZpD46DnnyIUYnjI2tkhYvnZvlsOvx58LCqXiZ6NQns9t96NqkKYaz3m/YwV+f/Y1YO8J5vviY2hQv5T/O9CZP3Ma87tMG54545DUK7CpE3a8L9gV++EOdGJ8Uya6SMGIURd2HoqgBI4R1y1CGcNPh0serzQSumDd/wnW+x+XgcMvMDRlidX6i37EIkqHlorUuVoc6lpPHY6ZNyCpBq9X2ukGf63fTCUVuBhkkNS2lgRVcawtKmQVQHcVm+ArwpapeJvu90msZLIp+zIMSag9CMhlXkAaf2IQ==;WmW5m9tYnGF3YMwAqqEJPA=="
 ---

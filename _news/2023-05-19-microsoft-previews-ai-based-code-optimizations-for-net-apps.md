@@ -191,15 +191,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "SAP taps Microsoft AI Copilot to streamline hiring and upskilling for enterprises"
-    excerpt: "SAP today announced a plan to integrate Microsoft AI Copilot and Azure OpenAI service with its SuccessFactors suite of solutions."
-    publishedDateTime: 2023-05-15T17:57:00Z
-    webUrl: "https://venturebeat.com/ai/sap-taps-microsoft-ai-copilot-to-streamline-hiring-and-upskilling/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 59
   - title: "Microsoft announces four new languages added to Microsoft Translator"
     excerpt: "Microsoft India announced that it had added four new languages - Konkani, Maithili, Sindhi, and Sinhala - to its Microsoft Translator platform."
     publishedDateTime: 2023-05-18T10:32:00Z

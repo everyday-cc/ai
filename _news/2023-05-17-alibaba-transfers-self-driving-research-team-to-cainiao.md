@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Alibaba’s autonomous driving lab to focus more on monetization"
-    excerpt: "Damo’s autonomous vehicle lab will merge into Cainiao, Alibaba’s global logistics network, and will no longer operate under the basic research institute. The news was first reported by the state-affiliated China Securities Journal."
-    publishedDateTime: 2023-05-15T18:18:00Z
-    webUrl: "https://techcrunch.com/2023/05/15/alibaba-autonomous-driving/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 34
   - title: "Alibaba Self-Driving Said to Cut 70% of Jobs as a DAMO Lab Merged into Logistic Unit"
     excerpt: "Alibaba Self-Driving Said to Cut 70% of Jobs as a DAMO Lab Merged into Logistic Unit. BEIJING, May 15 (TiPost)— Alibaba Group is scaling back its scientific research"
     publishedDateTime: 2023-05-16T01:17:00Z

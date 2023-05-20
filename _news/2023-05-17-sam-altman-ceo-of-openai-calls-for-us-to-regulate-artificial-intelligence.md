@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/world-us-canada-65616866.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-65616866.amp"
 type: article
 quality: 100
-heat: 360
+heat: 350
 published: true
 
 provider:
@@ -358,15 +358,6 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 17
-  - title: "Report: OpenAI CEO Sam Altman in talks to raise $100M for Worldcoin crypto startup"
-    excerpt: "OpenAI LP Chief Executive Sam Altman is reportedly in advance talks to raise about $100 million in new funding for Worldcoin, an iris-scanning startup that seeks to build a globally distributed cryptocurrency."
-    publishedDateTime: 2023-05-15T18:38:00Z
-    webUrl: "https://siliconangle.com/2023/05/15/report-openai-ceo-sam-altman-talks-raise-100m-worldcoin-crypto-startup/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 11
 
 secured: "voOwhlOZ2RJUHkM3oCiALz71gL8DJDPFhpxlP+WgKJwAWSEbegO1Y/r1ZhVGBKHXv2k0RqBlic+hVDQhopbAALOmZXRyQ85Z5+uOBoaXkAzOgJkLfHKgNgt1i8mWJTKTp/rWum3vTyrRQZKYC3QQ2lqhm4zvaPCO37UcqjDy8hFkhtJFBXt6b/4hpN7hGm2rOSprBDHg42HUI1m+nl44Pr2+LDQclFGs7QKKy2U8hTAQAFhb677cx2m52Ip2cn03GZiptLNfE8+sDUI3gn0uoUCsk+ATFXmOJVFnKSAqAJfWrbzvW7JTXSCXTvXakKIT0TVcd0k7Q99AIKmStFHES+mqXpgq7b8y2mroI/4QC/hy+IEIaPt9kVz00slBo2XIsFpexS16hUZOAej6kWvo8g3NjADn0vtTsIrdc7zjNWiF4tDt7rTAHVL+HDT8yk8gSjcm4dErtJW8IBNVc4id9DGKXQV9lnnTiJvMMzff7roaZD49Klrq/XSq6CCHyVR4ifAUJgjBwp8wt4Y9GasmXQ==;IAWD94QPtYeAGHZYofWvSg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/timbajarin/2023/05/16/cheat-sheets-for-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/timbajarin/2023/05/16/cheat-sheets-for-ai-information-overload/amp/"
 type: article
 quality: 87
-heat: 147
+heat: 137
 published: true
 
 provider:
@@ -85,15 +85,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "2023-2030 AI in ICT (Information and Communications Technology) Market: Highlights with Growth Data"
-    excerpt: "Market ” Is Projected To Raise Significantly At A Maximum CAGR During The Forecast Period (2023-2030). The Market Is Expected to Witness the Highest Demand World Widely. Pre and Post-COVID Study of AI in ICT (Information and Communications Technology) Market Is Covered in The Most Recent Updated Report [ 2023-2030 ]."
-    publishedDateTime: 2023-05-15T17:18:00Z
-    webUrl: "https://www.marketwatch.com/press-release/2023-2030-ai-in-ict-information-and-communications-technology-market-highlights-with-growth-data-2023-05-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 35
   - title: "Regulation of Artificial Intelligence"
     excerpt: "The introduction to the House of Commons of a Bill under the ten minute rule, by Labour MP Mick Whitley, on the regulation of artificial intelligence and workers' rights, from Wednesday 17 May."
     publishedDateTime: 2023-05-17T18:08:00Z

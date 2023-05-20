@@ -89,15 +89,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "2023-2030 AI in ICT (Information and Communications Technology) Market: Highlights with Growth Data"
-    excerpt: "Market ” Is Projected To Raise Significantly At A Maximum CAGR During The Forecast Period (2023-2030). The Market Is Expected to Witness the Highest Demand World Widely. Pre and Post-COVID Study of AI in ICT (Information and Communications Technology) Market Is Covered in The Most Recent Updated Report [ 2023-2030 ]."
-    publishedDateTime: 2023-05-15T17:18:00Z
-    webUrl: "https://www.marketwatch.com/press-release/2023-2030-ai-in-ict-information-and-communications-technology-market-highlights-with-growth-data-2023-05-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 35
 
 secured: "QFaiD5GA4S2KVLt/H7cY+X3hYXTzuUsQ5QXnrpPfDjSQrHM5oSjN45o26SA3Ty65oBna9mRy5tS2P2R8t7nr8ZxtH2/wA8mr/phVLY7x4JNYmVM7oRhEXg98LWDOjvJzTQfYBLfT2sIJQo1ZPwIvvofULRhJpZCZmkUwI5kyOQDXo1bR0RxfCz3t6WgP+FwQ3Rdn/kbcC0ZgH11j/Bz58UFgWQKInv3zcVFX10lulA+ZQZLBoO+IhjfNXnkoZHPLGrOsJPRNgxZreg9MPo9y8Exg+z4+ETJgG3RCtrbs0VWR5v2p2mP0gdRGVKPWLzZ7yi6I3am+d5EGTTY5PQ+af4PUgJ4xqP3amZmSW9QXSOmHZ3Y8aADXLbzfkNVXGmI8OkD1mZQxBWSevdMzY0gbBhgfaEncY/fCicfMl//7hRW1pb/QifwuS1/WOH6lptzWDonJXUxdPAOJG0mP/7GEh0trx5kmRhX+KjgvvKxKExZp2L8z+CMynwRMDGHfMxVB4/8zR+pWmwSmTYHbYN0eww==;TiZcRtQZybZudUJ7psQHTA=="
 ---

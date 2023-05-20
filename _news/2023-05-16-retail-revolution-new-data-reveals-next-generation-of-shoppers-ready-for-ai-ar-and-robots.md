@@ -46,15 +46,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 49
-  - title: "How to avoid AI commoditization: 3 tactics for running successful pilot programs"
-    excerpt: "Chaitanya Vaidya is the co-founder of Deeprisk.ai, holds a fintech AI patent and has been in the tech innovation space for more than a decade. With the rise of open-source AI models, the commoditization of this groundbreaking technology is upon us."
-    publishedDateTime: 2023-05-15T18:17:00Z
-    webUrl: "https://techcrunch.com/2023/05/15/how-to-avoid-ai-commoditization-3-tactics-for-running-successful-pilot-programs/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 44
   - title: "Retail Revolution: New Data Reveals Next-generation of Shoppers Ready for AI, AR and Robots!"
     excerpt: "New data released today by Klarna, the global payments and shopping service, reveals how retailers will need to adapt their offering to win shoppers in the future. With recent advancements in technology,"
     publishedDateTime: 2023-05-17T04:48:00Z

@@ -7,8 +7,8 @@ originalUrl: "https://www.eweek.com/artificial-intelligence/ibm-think-2023-ai-an
 webUrl: "https://www.eweek.com/artificial-intelligence/ibm-think-2023-ai-and-quantum-computing/"
 type: article
 quality: 69
-heat: 79
-published: true
+heat: -1
+published: false
 
 provider:
   name: eWeek
@@ -29,19 +29,21 @@ images:
     isCached: true
 
 related:
-  - title: "GIGABYTE Unveils Revolutionary AI Computing Servers at COMPUTEX 2023"
-    excerpt: "GIGABYTE, announces its unprecedented exhibits at COMPUTEX 2023. Resonating its theme “Future of COMPUTING”, GIGABYTE is unveiling its all-around technical achievements, including industry-leading AI/HPC servers, green computing solutions, gaming and creator products, industrial PC, AI smart securities, and autonomous vehicle technology."
-    publishedDateTime: 2023-05-17T04:47:00Z
-    webUrl: "https://www.phoneworld.com.pk/gigabyte-unveils-revolutionary-ai-computing-servers-at-computex-2023/"
+  - title: "Google at I/O 2023: We’ve been doing AI since before it was cool"
+    excerpt: "That Google I/O show sure was something, wasn't it? It was a rip-roaring two hours of nonstop AI talk without a break. Bard, Palm, Duet, Unicorn, Gecko, Gemini, Tailwind, Oter—there were so many cryptic AI code names thrown around it was hard to keep track of what Google was talking about."
+    publishedDateTime: 2023-05-20T11:17:00Z
+    webUrl: "https://arstechnica.com/google/2023/05/google-at-i-o-2023-weve-been-doing-ai-since-before-it-was-cool/"
+    ampWebUrl: "https://arstechnica.com/google/2023/05/google-at-i-o-2023-weve-been-doing-ai-since-before-it-was-cool/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/google/2023/05/google-at-i-o-2023-weve-been-doing-ai-since-before-it-was-cool/amp/"
     type: article
     provider:
-      name: phoneworld.com.pk
-      domain: phoneworld.com.pk
-    quality: 39
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 87
     images:
-      - url: "https://www.phoneworld.com.pk/wp-content/uploads/2023/05/GIGABYTE-1-EN.jpg"
-        width: 1280
-        height: 720
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/05/chrome_dcahmkPPXG-800x450.png"
+        width: 800
+        height: 450
         isCached: true
 
 secured: "LBpc/TCMJ7EHCGKDAunpHSBWpr4JPMVDsDM/1xJkqjrJv8H4Y07/TeJFXCx8bhByvBNuadQQIvlnE01rr9Yxr9dzFKDBCJEQldO6lChiPPC+d8Dqk7Zn3GjW7Z7XMOv70X4Yam12aWyrGZTJr6D5XhblY1d61Puo8fsjTwvkUczpJZEsQzhUEITDQqtZHqNB7RrA9rcoX0WOOG2gprUBdw7ah42taUy+YSTBOUCkKvVi6dll3PMmMRDbPFDw1URtNDkK0xFfUCypH7zJSubRw2QOz+kf9ANjH2r6nWXkNM3tWIVO9oJEP6gkflMoH4bu+V6LjgPGNayKqWQpz8cuzyJTevCm6UB+DIzgkLc6RuZC17WsD+o0/LxOOmPvn9gI2NkOMEl9M92q3iL/NIaaWB2KUQWVRJjvmz9ZUlGJ3TFv0S+RougiECDqStcIBAlcW47v4rWoaJbIXihPHsVzBoGSllfpuUSFb7KAEWrP1YTsr6pMCH2WN5yiTSyjgjX9aFwTjtwx/oJ6EgHeFsz/Yw==;MAU7xi0Y3Pd5BHqKFhlQRw=="

@@ -7,7 +7,7 @@ originalUrl: "https://www.theverge.com/2023/5/19/23728174/ai-regulation-senate-h
 webUrl: "https://www.theverge.com/2023/5/19/23728174/ai-regulation-senate-hearings-regulatory-capture-laws"
 type: article
 quality: 69
-heat: 100
+heat: 99
 published: true
 
 provider:

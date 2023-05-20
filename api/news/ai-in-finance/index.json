@@ -10,7 +10,7 @@
       "originalUrl": "https://www.livemint.com/money/lessons-from-finance-s-experience-with-artificial-intelligence-11684407926757.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -149,7 +149,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2023/05/17/chatgpt-and-generative-artificial-intelligence-in-finance/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 854,
+      "heat": 844,
       "tags": null,
       "images": [
         {
@@ -619,40 +619,6 @@
       ]
     },
     {
-      "path": "_news/2023-05-09-finovax-leads-the-charge-in-fintech-innovation-ai-powered-solutions-drive-business-growth.md",
-      "title": "Finovax Leads the Charge in Fintech Innovation: AI-Powered Solutions Drive Business Growth",
-      "excerpt": "These strategic partnerships will further cement Finovax's position as a frontrunner in the rapidly evolving fintech space. A key area of focus for Finovax is the integration of generative AI and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/05/32266552/finovax-leads-the-charge-in-fintech-innovation-ai-powered-solutions-drive-business-growth",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/05/32266552/finovax-leads-the-charge-in-fintech-innovation-ai-powered-solutions-drive-business-growth",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-09T02:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-05-09-consilient-inc-and-harex-infotech-partner-to-fight-financial-crime-in-south-korea.md",
       "title": "Consilient Inc. and Harex InfoTech Partner to Fight Financial Crime in South Korea",
       "excerpt": "Consilient, a fintech innovator aiming to transform financial crime compliance, announced it has partnered with Harex InfoTech, Inc.to transform the fight against financial crime in South Korea. The current technologies and methods for protecting the financial system are outdated,",
@@ -674,6 +640,49 @@
         "name": "Dark Reading",
         "domain": "darkreading.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-09-finovax-leads-the-charge-in-fintech-innovation-ai-powered-solutions-drive-business-growth.md",
+      "title": "Finovax Leads the Charge in Fintech Innovation: AI-Powered Solutions Drive Business Growth",
+      "excerpt": "New York-Based Fintech Company Embraces Artificial Intelligence to Revolutionize Financial Data Products and Fuel Expansion New York, United",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/finovax-leads-the-charge-in-fintech-innovation-ai-powered-solutions-drive-business-growth-1032302798",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/finovax-leads-the-charge-in-fintech-innovation-ai-powered-solutions-drive-business-growth-1032302798",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-08T13:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

@@ -7,7 +7,7 @@ originalUrl: "https://www.gizmochina.com/2023/05/19/meta-ai-chip-metaverse/"
 webUrl: "https://www.gizmochina.com/2023/05/19/meta-ai-chip-metaverse/"
 type: article
 quality: 84
-heat: 95
+heat: 94
 published: true
 
 provider:

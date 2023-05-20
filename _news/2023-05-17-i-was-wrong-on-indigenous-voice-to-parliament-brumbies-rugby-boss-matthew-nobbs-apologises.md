@@ -151,15 +151,6 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 23
-  - title: "The NRL must throw its support behind the Voice"
-    excerpt: "In this case, supporting the Indigenous Voice to Parliament is fundamental to respecting its Indigenous council and playing cohort. “Recognition and listening. That’s how we can make a practical difference and move Australia forward for everyone ..."
-    publishedDateTime: 2023-05-15T18:49:00Z
-    webUrl: "https://www.theroar.com.au/2023/05/16/the-nrl-must-throw-its-support-behind-the-voice/"
-    type: article
-    provider:
-      name: theroar.com.au
-      domain: theroar.com.au
-    quality: 4
 
 secured: "hhPLIlPxzPnauTbITAc+SMjz+YT8hV73bFHW7qnT4hKkDTNR2bibo8aiFTLTm50RthR2EQIBj8UIXto8JrBHdkNZvzrwFVHxS6ZSBnz3J7k0+mYF9TeJMNGa2hrNC5pnhw5yY4SbifvLfRy3PNUlTCZRVg/F+DBOQhgcM3kMozMlwuuhRCB8B7QmoLc+uipUlIWkdX+/c+SXhJwxZhoUd2g71HJ4E76QPq8j9i18qT5UezGZ37fIfjM+LVPvmQ527YVxjw2iwYWr4VKhPGi0I51VryL2Qz30QP7w+dKjj/4/Ggnc/jVAz/5lJRtItCbjB1bFan/upikGt/TX392KagefI0bnsT8AZEtVGyudC3rtNsAqW6YpIvjgnB4lBiCd+/yyCm/lywG++ZqSTEyfz7VhsoK5lgVeEYQRvGdE2GYGvKVCXF+DbIw80epEV8h7SA49Gqf7y/348BaLQxm3YmUYLuGydfARz40GKU5emBiXoTYqUsrefI/NhwY2WfP6DIo37t647FLRpeyXOqhwhA==;E6VsZexoArvSh808IkYaMw=="
 ---

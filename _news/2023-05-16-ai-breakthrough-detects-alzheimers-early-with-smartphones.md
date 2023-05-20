@@ -39,15 +39,22 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "Machine learning model able to detect signs of Alzheimer's across languages"
-    excerpt: "Researchers are striving to make earlier diagnosis of Alzheimer's dementia possible with a machine learning (ML) model that could one day be turned into a simple screening tool anyone with a smartphone could use."
-    publishedDateTime: 2023-05-15T18:03:00Z
-    webUrl: "https://medicalxpress.com/news/2023-05-machine-alzheimer-languages.html"
+  - title: "Machine-learning program reveals genes responsible for sex-specific differences in Alzheimer's disease progression"
+    excerpt: "Alzheimer's disease (AD) is a complex neurodegenerative illness with genetic and environmental origins. Females experience faster cognitive decline and cerebral atrophy than males, while males have greater mortality rates."
+    publishedDateTime: 2023-05-20T09:33:00Z
+    webUrl: "https://medicalxpress.com/news/2023-05-machine-learning-reveals-genes-responsible-sex-specific.html"
+    ampWebUrl: "https://medicalxpress.com/news/2023-05-machine-learning-reveals-genes-responsible-sex-specific.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-05-machine-learning-reveals-genes-responsible-sex-specific.amp"
     type: article
     provider:
       name: Medical Xpress
       domain: medicalxpress.com
-    quality: 17
+    quality: 22
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/machine-learning-progr-1.jpg"
+        width: 2050
+        height: 2030
+        isCached: true
 
 secured: "f69nUHfkWr6FSf/naQMfzsHWiXB+uKs3fhaG8sYa2erZQIf47MdMIn29aESMkmIGkPr8e3SnFazjCCLkJ2FmtOf8Qt0+24NFlGECM4XYsffwPynU9oo2RudVzzrneZ1nPmbn80UN/oo7bzlbbKRoLXMaoV77rmR1pVZDOUpx4nwhI1eKBKwc1b5WbiQcFNdZW2tkUSk8ZqloWqseLqFlg3pzFA1ETPD4fDxVXUG+ls4MchGdtnInWNJc1A3WlmCs0Veuy+6kr3aoQBbNwhvLtnTMb+HJslMmTZOEs9Af6rO4cFLxvzEbIgJWKPxh/3x7NoPWFV/Z9p0C0gc2u6qB/LLmT2CQsl+eZPiN4bOKvu22W80bqGAElFjTreSIZ+COPYUillStohcWYiE3++fJwGyCP5kJRf7+MTSXkw8FDOa1HcB2SG3OkT+CAqv0dxmsFEMmiwx8tlG4Nd5gkZxs2vm7Rav6hjYWd3emQnBfgnMyU8juyN2srjBC80AkQ11ZKAS0w4IRBV2hMAfkcwGBqQ==;3art7RifJqPqTX6Nw0hNyw=="
 ---

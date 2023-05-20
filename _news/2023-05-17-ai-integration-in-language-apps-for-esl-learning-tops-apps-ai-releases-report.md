@@ -29,20 +29,49 @@ images:
     isCached: true
 
 related:
-  - title: "Top Apps AI Releases A Report On Benefits Of Autonomous Artificial Intelligence"
-    excerpt: "Top Apps AI new report - '3 Research-Backed Use Cases Of Autonomous Artificial Intelligence' - offers readers an in-depth look at how AI is infiltrating multiple sectors and seeks to mitigate the mounting concern over the technology's ability to operate without human intervention."
-    publishedDateTime: 2023-05-15T17:18:00Z
-    webUrl: "https://www.marketwatch.com/press-release/top-apps-ai-releases-a-report-on-benefits-of-autonomous-artificial-intelligence-2023-05-15"
+  - title: "Apple looking to hire machine learning engineers with an interest in generative AI"
+    excerpt: "Apple's Technology Development Group (TDG) is looking for Machine-Learning engineers with a background and/or interest in Generative AI! You will be leveraging innovative Generative models to build fundamental applications on top of Apple's most advanced ..."
+    publishedDateTime: 2023-05-19T17:17:00Z
+    webUrl: "https://appleinsider.com/articles/23/05/19/apple-looking-to-hire-machine-learning-engineers-with-an-interest-in-generative-ai"
+    ampWebUrl: "https://appleinsider.com/articles/23/05/19/apple-looking-to-hire-machine-learning-engineers-with-an-interest-in-generative-ai/amp/"
+    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/23/05/19/apple-looking-to-hire-machine-learning-engineers-with-an-interest-in-generative-ai/amp/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 80
+      name: AppleInsider
+      domain: appleinsider.com
+    quality: 68
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://photos5.appleinsider.com/gallery/54505-110094-Apple-Siri-xl.jpg"
+        width: 1312
+        height: 738
         isCached: true
+  - title: "U.S. lawmakers grapple with regulating artificial intelligence"
+    excerpt: "U.S. lawmakers will hear from artificial intelligence experts on Tuesday as Congress grapples with how to regulate AI, a field that has seen explosive advances and a boom in popularity over the past year."
+    publishedDateTime: 2023-05-16T08:53:00Z
+    webUrl: "https://www.cnn.com/videos/us/2023/05/16/exp-senate-hearing-artificial-intelligence-lori-schwartz-intv-051602aseg1-cnni-us.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 47
+  - title: "Stop Serving Dogfood, Invest In Generative Artificial Intelligence With Purpose"
+    excerpt: "Don't fall prey to the trends, make sure your generative artificial intelligence investments are meaningful to your customers before launching dogfood to your users."
+    publishedDateTime: 2023-05-18T13:29:00Z
+    webUrl: "https://www.forbes.com/sites/joetoscano1/2023/05/18/stop-serving-dogfood-invest-in-generative-artificial-intelligence-with-purpose/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 43
+  - title: "Using AI to find rare minerals"
+    excerpt: "A machine learning model can predict the locations of minerals on Earth—and potentially other planets—by taking advantage of patterns in mineral associations. Science and industry seek mineral deposits to both better understand the history of our planet and to extract for use in technologies like rechargeable batteries."
+    publishedDateTime: 2023-05-17T18:07:00Z
+    webUrl: "https://phys.org/news/2023-05-ai-rare-minerals.html"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 17
 
 secured: "gqG3wdOY5R1Vupomx/sRJFQp43mBaRNN1hflnIRN4Kg1KV5KAkdcstnVs4E01ILpgOtMHLG56z0iEf4r5JtWgJKVhh6PBf500dlD+A/XuZivPsVyM6tYmAIOLL9OxlnpY0Hd1d63Hc3QDAVaP/QsPK9/KNo5lqq2phR/ZYgJWYNaG3pSCtjgDwbd5+omNNP037e0zVLC3Z5XMQoIBwNaw1rnTI3jOny4nIggS5ohrn23/JgLuv4H8JdLssAz2TwBb9YzYSpnhyHNNeTcCl+u+lxFuMs2K+JZLGn7gnB7310tsDiSNf+MUBemFCEzmIIp8STYs6JNZ20kos6/8aJaI5rAGhFyLayOqVOi+1QUT7I=;Is6VykM5/nRPGiyyF/zOlg=="
 ---

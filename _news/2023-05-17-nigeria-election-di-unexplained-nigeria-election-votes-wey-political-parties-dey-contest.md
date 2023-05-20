@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/pidgin/tori-65564971.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/pidgin/tori-65564971.amp"
 type: article
 quality: 80
-heat: 120
+heat: 130
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
     quality: 74
     images:
       - url: "https://ichef.bbci.co.uk/news/1024/branded_news/7854/production/_129440803_tinubu1.png"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Nigeria election: The mystery of the altered results in disputed poll"
+    excerpt: "When we compared an image from this account to the television pictures of Dr Ariaga using Amazon Rekognition software, we achieved a match of 97.2%, indicating a very high probability they're the ..."
+    publishedDateTime: 2023-05-17T06:30:00Z
+    webUrl: "https://www.bbc.co.uk/news/65163713.amp"
+    ampWebUrl: "https://www.bbc.co.uk/news/65163713.amp"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/65163713.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 44
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/A39C/production/_129748814_nigeria_officials_epa.jpg"
         width: 1024
         height: 576
         isCached: true

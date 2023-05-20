@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/sarwantsingh/2023/05/17/from-pixels-to-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sarwantsingh/2023/05/17/from-pixels-to-pavement-generative-ai-use-cases-in-automotive-industry/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:

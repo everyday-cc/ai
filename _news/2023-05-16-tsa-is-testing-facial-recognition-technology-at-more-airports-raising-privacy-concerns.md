@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "TSA Tests Facial Recognition Technology at Airports to Boost Security"
-    excerpt: "A passenger walks up to an airport security checkpoint, slips an ID card into a slot and looks into a camera atop a small screen. The screen flashes “Photo Complete” and the person walks through — all without having to hand over their identification to the TSA officer sitting behind the screen."
-    publishedDateTime: 2023-05-15T17:11:00Z
-    webUrl: "https://www.nbcphiladelphia.com/news/national-international/tsa-tests-facial-recognition-technology-at-airports-to-boost-security/3566621/"
-    ampWebUrl: "https://www.nbcphiladelphia.com/news/national-international/tsa-tests-facial-recognition-technology-at-airports-to-boost-security/3566621/?amp=1"
-    cdnAmpWebUrl: "https://www-nbcphiladelphia-com.cdn.ampproject.org/c/s/www.nbcphiladelphia.com/news/national-international/tsa-tests-facial-recognition-technology-at-airports-to-boost-security/3566621/?amp=1"
-    type: article
-    provider:
-      name: NBC 10 Philadelphia
-      domain: nbcphiladelphia.com
-    quality: 91
-    images:
-      - url: "https://media.nbcphiladelphia.com/2023/05/web-230515-tsa-facial-recognition.jpg?quality=85&strip=all&resize=1200%2C675"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Are you who you say you are? TSA tests facial recognition technology to boost airport security"
     excerpt: "The Transportation Security Administration has started using facial recognition technology at a number of airports across the country."
     publishedDateTime: 2023-05-15T21:49:00Z
@@ -140,20 +124,20 @@ related:
         height: 1707
         isCached: true
   - title: "TSA is testing facial recognition at more airports, raising privacy concerns"
-    excerpt: "The agency tasked with securing America's airports is testing the use of facial recognition technology at a number of airports across the country"
-    publishedDateTime: 2023-05-15T20:16:00Z
-    webUrl: "https://abcnews.go.com/US/wireStory/tsa-tests-facial-recognition-technology-boost-airport-security-99322460"
-    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/tsa-tests-facial-recognition-technology-boost-airport-security-99322460"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/tsa-tests-facial-recognition-technology-boost-airport-security-99322460"
+    excerpt: "The agency tasked with securing America's airports is testing the use of facial recognition technology at a number of airports across the country."
+    publishedDateTime: 2023-05-16T00:50:00Z
+    webUrl: "https://www.cbsnews.com/detroit/news/are-you-who-you-say-you-are-tsa-tests-facial-recognition-technology-to-boost-airport-security-3/"
+    ampWebUrl: "https://www.cbsnews.com/amp/detroit/news/are-you-who-you-say-you-are-tsa-tests-facial-recognition-technology-to-boost-airport-security-3/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/detroit/news/are-you-who-you-say-you-are-tsa-tests-facial-recognition-technology-to-boost-airport-security-3/"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: CBS News
+      domain: cbsnews.com
     quality: 71
     images:
-      - url: "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/05/16/dd4531ea-7d1e-49f6-b90d-b78e7f190eca/thumbnail/1200x630/7091c6ef48ade2bd9217b5f28d1ec03d/ap23116691095530.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "About face: TSA testing facial recognition"
     excerpt: "A passenger walks up to an airport security checkpoint, slips an ID card into a slot and looks into a camera atop a small screen. The screen flashes “Photo Complete” and the person"
@@ -213,15 +197,6 @@ related:
         width: 1000
         height: 667
         isCached: true
-  - title: "TSA tests facial recognition technology to boost airport security"
-    excerpt: "BALTIMORE (AP) — A passenger walks up to an airport security checkpoint, slips an ID card into a slot and looks into a camera atop a small screen. The screen flashes “Photo Complete” and the person walks through — all without having to hand over their identification to the TSA officer sitting behind the screen."
-    publishedDateTime: 2023-05-15T18:44:00Z
-    webUrl: "https://www.hawaiinewsnow.com/2023/05/15/tsa-tests-facial-recognition-technology-boost-airport-security/"
-    type: article
-    provider:
-      name: Hawaii News Now
-      domain: hawaiinewsnow.com
-    quality: 51
   - title: "TSA tests facial recognition software at airports, drawing concerns about privacy"
     excerpt: "The effort comes at a time when the use of various forms of technology to enhance security and streamline procedures is only increasing."
     publishedDateTime: 2023-05-15T22:00:00Z
@@ -273,15 +248,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Is that really you? TSA tests airport face recognition"
-    excerpt: "A pilot project by the Transportation Security Administration is assessing the use of facial recognition technology at a number of airports across the country."
-    publishedDateTime: 2023-05-15T17:58:00Z
-    webUrl: "https://fox8.com/news/is-that-really-you-tsa-tests-airport-face-recognition/"
-    type: article
-    provider:
-      name: FOX8 Cleveland
-      domain: fox8.com
-    quality: 34
   - title: "TSA Testing Facial Recognition Tech at 16 Airports"
     excerpt: "The Transportation Security Administration (TSA) is trialing facial recognition technology at security checkpoints within over a dozen airports across the United States. According to the Association Press,"
     publishedDateTime: 2023-05-15T19:30:00Z

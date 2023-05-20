@@ -142,15 +142,6 @@ related:
       name: Couriermail
       domain: news.com.au
     quality: 24
-  - title: "The NRL must throw its support behind the Voice"
-    excerpt: "In this case, supporting the Indigenous Voice to Parliament is fundamental to respecting its Indigenous council and playing cohort. “Recognition and listening. That’s how we can make a practical difference and move Australia forward for everyone ..."
-    publishedDateTime: 2023-05-15T18:49:00Z
-    webUrl: "https://www.theroar.com.au/2023/05/16/the-nrl-must-throw-its-support-behind-the-voice/"
-    type: article
-    provider:
-      name: theroar.com.au
-      domain: theroar.com.au
-    quality: 4
   - title: "I was wrong on Indigenous voice to parliament: Brumbies rugby boss Matthew Nobbs apologises"
     excerpt: "The National Rugby League last week publicly supported the voice, joining Football Australia, Tennis Australia and the Australian Olympic Committee in pushing for constitutional recognition for Indigenous Australians. Outgoing AFL chief executive Gillon ..."
     publishedDateTime: 2023-05-17T07:20:00Z

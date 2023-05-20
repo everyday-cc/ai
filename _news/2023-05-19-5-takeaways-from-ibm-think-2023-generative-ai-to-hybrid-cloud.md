@@ -45,15 +45,6 @@ related:
         width: 1200
         height: 623
         isCached: true
-  - title: "IBM Launches watsonx: Paving A Path To Faster Enterprise AI Adoption"
-    excerpt: "Exploring the new IBM watsonx offering. A full tech stack for training, deploying, and supporting AI capabilities across any cloud environment, as well as a model library that includes foundation models vetted and curated by IBM."
-    publishedDateTime: 2023-05-15T18:22:00Z
-    webUrl: "https://www.forbes.com/sites/danielnewman/2023/05/15/ibm-launches-watsonx-paving-a-path-to-faster-enterprise-ai-adoption/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 64
 
 secured: "zKyVxuDVaY0FDAyxEMGBAJMB5LnxDqf/KUKnbdIB6bljwHtYtgYBFuvfCS9nZ+cBq8XWeP/MJSmpX23duLUcPTKsSGZEjIRNw+Dq2iTOwUycUFSuapMaVJEONQGP/J87jXEKhzfRgTmUvyuktyt0uETFmFChVGegjxhBWOwyH+ZbBsCSo/4BgVrxKE8HAvZ8xmMbaAUaZhGWUf63Cv80TmnJLD/LrLlyPJnKjHSWQpC3GzzkyFhnSN9OttVrPGCKs1XrBo+uGhXLY/I1PILh9NWwxSxhbOKtfHKswdGwwvp8G/jDoLQnJdoo1bkJ35Cp0kFHBtPfPhaQ1hArt4C9S02bJDIJBb0L6DCpOrkNDYWD54GMKIx+0j8hjBhbFIwEv8npkfVnvspe6EHICeZaGlmjOUkIqXI0JhVytf5i8cuHNIU8XZu+QXd6Z9OADKrdoTVSGFeppPGIV0FG/lbsnoF0hO0ka09QyoGvgxZKm8zfpX+Z4NOGcDu0L0uKeWFBL+N930y/bnMcjkI3/73NZQ==;95H7sk+R6avL+I/JOIQEyQ=="
 ---

@@ -883,15 +883,6 @@ related:
       name: Mint
       domain: livemint.com
     quality: 19
-  - title: "ChatGPT is not ‘artificial intelligence.’ It’s theft."
-    excerpt: "Calling programs like ChatGPT “artificial intelligence” grants them a claim to authorship that is simply untrue."
-    publishedDateTime: 2023-05-15T17:11:00Z
-    webUrl: "https://www.americamagazine.org/faith/2023/05/15/chatgpt-artificial-intelligence-theft-245283"
-    type: article
-    provider:
-      name: America Magazine
-      domain: americamagazine.org
-    quality: 17
   - title: "Senate panel begins AI examination; ChatGPT CEO Sam Altman testifies"
     excerpt: "\"It is essential that powerful AI is developed with democratic values in mind, and this means that US leadership is critical,\" said ChatGPT CEO Sam Altman."
     publishedDateTime: 2023-05-16T14:42:00Z

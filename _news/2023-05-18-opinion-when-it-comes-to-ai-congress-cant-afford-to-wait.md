@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2023/05/18/opinions/sam-altman-artificial-in
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/05/18/opinions/sam-altman-artificial-intelligence-alaimo/index.html"
 type: article
 quality: 87
-heat: 88
+heat: 87
 published: true
 
 provider:

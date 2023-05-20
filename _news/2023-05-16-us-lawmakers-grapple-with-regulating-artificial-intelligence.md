@@ -38,6 +38,20 @@ related:
         width: 1312
         height: 738
         isCached: true
+  - title: "AI-Integration In Language Apps For ESL Learning: Tops Apps AI Releases Report"
+    excerpt: "Top Apps AI is announcing a comprehensive report on the potential of integrating AI technology into educational"
+    publishedDateTime: 2023-05-17T03:05:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-integration-in-language-apps-for-esl-learning-tops-apps-ai-releases-report-2023-05-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 65
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Stop Serving Dogfood, Invest In Generative Artificial Intelligence With Purpose"
     excerpt: "Don't fall prey to the trends, make sure your generative artificial intelligence investments are meaningful to your customers before launching dogfood to your users."
     publishedDateTime: 2023-05-18T13:29:00Z

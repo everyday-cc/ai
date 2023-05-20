@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 750
         isCached: true
-  - title: "Google is accelerating a little too fast into the AI unknown"
-    excerpt: "Google has announced that new tech for generating content will be added to Gmail, Google Docs, Google Maps and Google Photos, as well as its search engine. The search giant is aiming to enhance its core products with artificial intelligence (AI),"
-    publishedDateTime: 2023-05-15T17:57:00Z
-    webUrl: "https://www.livemint.com/opinion/columns/googles-ai-arms-race-rush-to-stuff-generative-ai-into-services-but-risk-eroding-trust-of-consumers-and-advertising-customers-11684173426813.html"
-    ampWebUrl: "https://www.livemint.com/opinion/columns/googles-ai-arms-race-rush-to-stuff-generative-ai-into-services-but-risk-eroding-trust-of-consumers-and-advertising-customers/amp-11684173426813.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/opinion/columns/googles-ai-arms-race-rush-to-stuff-generative-ai-into-services-but-risk-eroding-trust-of-consumers-and-advertising-customers/amp-11684173426813.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 61
-    images:
-      - url: "https://images.livemint.com/img/2018/12/28/600x338/Opinion_1545994499293.jpg"
-        width: 600
-        height: 337
-        isCached: true
 
 secured: "UA45WjmNYUSPra0gTX6rBZ2+i6YhvekKZGkeJbjeapHJ+sBnjYtPiMdVLyK+bx4+86WL0HSxC+iwnOZUGVKRc+CuG8rw+Cs5ofwsNDIygfiBi0kzHLIKFmmJEhFL+JeRoYu9dWTFi5qafr6ff0bsMqyovQL5TwcOXuRRkzyPP/3cBOxwUyC663stVneE7fiOtX+w+a8BEuqA9AMRSXVXjIfOHWfhlLZ3bXL7RkqABzexHw89HvQgiJxqm2FTwiyqMJ3aXFyNK/gFVA+g0CzNB/yhqtQOP08Pb4ZqGQ0hAXhiNQrOzUoDmMZCYbQB4cj8HTW8HwBnEEyCpRDa5QLBQ/PIon7OV9sw8E7WpFNgZliFZ+G6i70MK9H+kA3OQ78AFzYV25xCJSmhyK/2L93E/AqRNl4XBaTtqhYdmTxmtQLNnhdw9DQ+mwr6VwH9ReSiepWTOpbBjA/xPoU9ydLvvc/JQSuJgvbgor549vnh8bc6Gtcu0G5seeg22FKq0mcnhZxSQh0Lz4UXPejPLygwaw==;jBQkdrz+bmrehoS+yEh+hA=="
 ---

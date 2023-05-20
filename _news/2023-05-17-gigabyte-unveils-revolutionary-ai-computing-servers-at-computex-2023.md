@@ -7,7 +7,7 @@ originalUrl: "https://www.phoneworld.com.pk/gigabyte-unveils-revolutionary-ai-co
 webUrl: "https://www.phoneworld.com.pk/gigabyte-unveils-revolutionary-ai-computing-servers-at-computex-2023/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "IBM Think 2023: AI and Quantum Computing"
-    excerpt: "At its recent Think 2023 conference, IBM focused on two areas – AI and quantum computing – that it believes will be essential to its enterprise customers. Let’s look at the details. Why should organizations consider AI or quantum computing?"
-    publishedDateTime: 2023-05-18T17:46:00Z
-    webUrl: "https://www.eweek.com/artificial-intelligence/ibm-think-2023-ai-and-quantum-computing/"
+  - title: "Aetina to Showcase Its New AI Solutions for Different Vertical Markets at Computex 2023"
+    excerpt: "Aetina, a leading AI solution provider, will showcase its latest computing systems, platforms, hardware, and software tools for use in AIoT during Computex 2023 at booth I0810 with its parent company—Innodisk."
+    publishedDateTime: 2023-05-19T10:07:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/05/19/9817609.htm"
     type: article
     provider:
-      name: eWeek
-      domain: eweek.com
-    quality: 69
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 31
     images:
-      - url: "https://www.eweek.com/wp-content/uploads/2022/01/VMWare-A7C3E368302C41B296E03A8651EFBDE0.jpeg"
-        width: 696
-        height: 696
+      - url: "https://mma.prnewswire.com/media/2081107/Aetina_Showcase_Its_New_AI_Solutions_Different_Vertical_Markets_Computex.jpg"
+        width: 400
+        height: 209
         isCached: true
 
 secured: "ny3RSVG39q2g7YC8gRuI2IN+871xJoTTytJKUokgzS8bRe1NNQN47yewHteW/Wl5ye5S7ZdqhCPU6T9Mxqhxc2EmaANqUuqr0axDX38X1M2rpNUMWKJDvQbgBE6HDnl2eapZn08cpSmy4k9wYUeWMFFfKryurEM+jAR4guqRRvOFggQFh4zBV+zsJUGmuBGQJJlmlagGoGiGSwSpMfk8Rpc8iW5YLp4Uve9WkfbTTAeDwl2nv4In61+tYOV463vMfiIlZfXQFeiEVli7ehzM62VyYWsqHAFXxMxFv7BVaMgeXy6pmOC5e7pVjSWcJn7f4zmEEzdwaeGPlkOxneB6S07hrSqnKxfZlg3KaNrYqv9DG8xwT5nVib39Y0ouNJwsAiwnK1vm22YsOUCnsFRI8f6X6+30h7l6uONSWb6viGSKRYs95Re51P3Xv9jOaugV1nhNkYuKh6scsWOB3peFXmS0mWSD5c1k3RgEYoWajdgCGGhJ04h/bvwt1Ja4qMid1th8JnIg0r3y71r+ZQBhHA==;XcLTZlndPJvU9WIdSdiOQw=="

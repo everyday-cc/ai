@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/tiriasresearch/2023/05/17/build-better-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2023/05/17/build-better-ai-for-enterprise-and-hybrid-cloud-with-ibms-watsonx/amp/"
 type: article
 quality: 106
-heat: 126
+heat: 116
 published: true
 
 provider:
@@ -46,15 +46,6 @@ related:
         width: 1400
         height: 933
         isCached: true
-  - title: "IBM Launches watsonx: Paving A Path To Faster Enterprise AI Adoption"
-    excerpt: "Exploring the new IBM watsonx offering. A full tech stack for training, deploying, and supporting AI capabilities across any cloud environment, as well as a model library that includes foundation models vetted and curated by IBM."
-    publishedDateTime: 2023-05-15T18:22:00Z
-    webUrl: "https://www.forbes.com/sites/danielnewman/2023/05/15/ibm-launches-watsonx-paving-a-path-to-faster-enterprise-ai-adoption/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 64
 
 secured: "zFVVmQ2/K656OBjqvlR6csArQJii2DASe+1rHC/EF/JO1u9RFAey01XcL6qFwmB6NzfYZ/dXa7rS2WbGwi5ijr23SiNhJq433MoOk33py89cVwE20TEsKVlwDnWjorvCepflbSq+VOz6N3C2xonn0C4UqJ1JMk6QTImw/7e+mC29q/bOaPHal4Ky/mT6Y7FRNgiRlaKEUVpEoVDnbR9YOZ43PeNdfFQB4Ad9F/vS2PFv1DZqutBtzoPF40A+HtxIT95TinxyvSXdIgwxmu/f3vOyYJRohT0zbu3FXirV8qRQ1tF3ln5RukZSnRmK3WFLCXOEe10Glhj1j/5NQljcYV4BTW+e7b3AtvIFV3B1qfM2ioUIUQW9jNSsmwPjXawNvs7/TrwzpP69bTex21M9K7tHkmh5wzdn5qeWetrp3pYOQPKXgSdxdMzsQ2x7uTXXusbg8WWV/8J9DXfEXwqatnDPCAsicBxTdDa3g3uJDtHKnmbkEJ6YQBqnX7DzsTfF7+pae/wkXTC8sJjKOUin7w==;00C4STeOLr918Hwp7OpyPA=="
 ---

@@ -875,15 +875,6 @@ related:
       name: moneycontrol.com
       domain: moneycontrol.com
     quality: 21
-  - title: "ChatGPT is not ‘artificial intelligence.’ It’s theft."
-    excerpt: "Calling programs like ChatGPT “artificial intelligence” grants them a claim to authorship that is simply untrue."
-    publishedDateTime: 2023-05-15T17:11:00Z
-    webUrl: "https://www.americamagazine.org/faith/2023/05/15/chatgpt-artificial-intelligence-theft-245283"
-    type: article
-    provider:
-      name: America Magazine
-      domain: americamagazine.org
-    quality: 17
   - title: "ChatGPT’s chief testifies before Congress as AI concerns grow"
     excerpt: "The head of the artificial intelligence company that makes ChatGPT told Congress on Tuesday that government intervention \"will be critical to mitigate the risks of"
     publishedDateTime: 2023-05-16T15:51:00Z

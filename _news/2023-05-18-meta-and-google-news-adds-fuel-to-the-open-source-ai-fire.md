@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/meta-and-google-news-adds-fuel-to-the-ope
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/meta-and-google-news-adds-fuel-to-the-open-source-ai-fire/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google is accelerating a little too fast into the AI unknown"
-    excerpt: "Google has announced that new tech for generating content will be added to Gmail, Google Docs, Google Maps and Google Photos, as well as its search engine. The search giant is aiming to enhance its core products with artificial intelligence (AI),"
-    publishedDateTime: 2023-05-15T17:57:00Z
-    webUrl: "https://www.livemint.com/opinion/columns/googles-ai-arms-race-rush-to-stuff-generative-ai-into-services-but-risk-eroding-trust-of-consumers-and-advertising-customers-11684173426813.html"
-    ampWebUrl: "https://www.livemint.com/opinion/columns/googles-ai-arms-race-rush-to-stuff-generative-ai-into-services-but-risk-eroding-trust-of-consumers-and-advertising-customers/amp-11684173426813.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/opinion/columns/googles-ai-arms-race-rush-to-stuff-generative-ai-into-services-but-risk-eroding-trust-of-consumers-and-advertising-customers/amp-11684173426813.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 61
-    images:
-      - url: "https://images.livemint.com/img/2018/12/28/600x338/Opinion_1545994499293.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Together raises $20M to decentralize and open-source AI model creation"
     excerpt: "Together, a startup that’s building a decentralized ... The funding will be used to support Together’s mission of creating a decentralized alternative to the closed AI systems winning all the plaudits today, such as OpenAI LP’s ChatGPT."
     publishedDateTime: 2023-05-16T02:24:00Z
