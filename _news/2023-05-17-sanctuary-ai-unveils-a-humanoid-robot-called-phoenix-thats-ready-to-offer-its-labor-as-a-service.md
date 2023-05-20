@@ -25,56 +25,34 @@ images:
     isCached: true
 
 related:
-  - title: "Sanctuary AI Unveils Phoenix™ - A Humanoid General-Purpose Robot Designed for Work"
-    excerpt: "Sanctuary AI Unveils Phoenix™ - A Humanoid General-Purpose Robot Designed for Work May 16, 2023 (PRNewswire via COMTEX) -- PR Newswire VANCOUVER, BC, May"
-    publishedDateTime: 2023-05-16T13:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/sanctuary-ai-unveils-phoenixtm---a-humanoid-general-purpose-robot-designed-for-work-2023-05-16"
+  - title: "With new Phoenix robot, Sanctuary AI looks to usher in ‘labor as a service’"
+    excerpt: "BOT or NOT? This special series explores the evolving relationship between humans and machines, examining the ways that robots, artificial intelligence and automation are impacting our work and lives."
+    publishedDateTime: 2023-05-16T13:10:00Z
+    webUrl: "https://www.geekwire.com/2023/with-new-phoenix-robot-sanctuary-ai-looks-to-usher-in-a-new-era-of-labor-as-a-service/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 78
+      name: GeekWire
+      domain: geekwire.com
+    quality: 82
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://cdn.geekwire.com/wp-content/uploads/2023/05/with-new-phoenix-robot-sanctuary.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Sanctuary AI unveiles general purpose humanoid robot"
-    excerpt: "Sanctuary AI announces the launch of its first human-scale, bipedal robot called Pheonix, powered by Carbon AI."
-    publishedDateTime: 2023-05-16T17:47:00Z
-    webUrl: "https://www.therobotreport.com/sanctuary-ai-unveiles-general-purpose-humanoid-robot/"
+  - title: "Upstage unveils new AI services"
+    excerpt: "Upstage, a local artificial intelligence (AI) technology startup, has unveiled two AI services according to the company, Tuesday. The services are Document AI Pack, an optical character recognition (OCR) technology-based document processor; and AskUp ..."
+    publishedDateTime: 2023-05-16T07:57:00Z
+    webUrl: "https://koreatimes.co.kr/www/tech/2023/05/133_351073.html"
     type: article
     provider:
-      name: The Robot Report
-      domain: therobotreport.com
-    quality: 64
-  - title: "Sanctuary AI unveils general purpose humanoid robot"
-    excerpt: "Sanctuary AI announces the launch of its first human-scale, bipedal robot called Pheonix, powered by Carbon AI."
-    publishedDateTime: 2023-05-16T17:56:00Z
-    webUrl: "https://www.therobotreport.com/sanctuary-ai-unveils-general-purpose-humanoid-robot/"
-    type: article
-    provider:
-      name: The Robot Report
-      domain: therobotreport.com
-    quality: 64
-  - title: "Sanctuary AI Unveils Phoenix - A Humanoid General-Purpose Robot Designed for Work"
-    excerpt: "Sanctuary AI, a company on a mission to create the world's-first human-like intelligence in general-purpose robots, announced a major step forward with the unveiling of its sixth-generation general-purpose robot named Phoenix."
-    publishedDateTime: 2023-05-16T19:35:00Z
-    webUrl: "https://www.bctechnology.com/news/2023/5/16/Sanctuary-AI-Unveils-Phoenix---A-Humanoid-General-Purpose-Robot-Designed-for-Work.cfm"
-    type: article
-    provider:
-      name: T-Net
-      domain: bctechnology.com
-    quality: 29
-  - title: "Meet Phoenix: The new humanoid robot built for general-purpose tasks"
-    excerpt: "While companies focus on specific-use robots, Sanctuary believes that the future will have general-purpose robots that can do multiple tasks."
-    publishedDateTime: 2023-05-17T12:52:00Z
-    webUrl: "https://interestingengineering.com/innovation/phoenix-general-purpose-task-robot"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 19
+      name: The Korea Times
+      domain: koreatimes.co.kr
+    quality: 37
+    images:
+      - url: "https://koreatimes-bucket.s3.ap-northeast-2.amazonaws.com/IMAGE/upload/newsV2/images/202305/8851d866df8148e0a793b0c9fe05f8fa.jpg"
+        width: 980
+        height: 653
+        isCached: true
 
 secured: "hrVe+dQpngMVWnDZBph4lBxW/x4jH8QxcVgU5Xuy11PFWeYjK7SLF6HX1SgI9bs0E6gWTZCEKJNXVLpdb5G9TfvNn1e+LW4+IoiKF3mSRN0WyRglUcAxOFsjmry1ymZSf+Zjh3dgjjwW0I/66blDeTAQNxv1vYnzkPaOKpSuLz53cTmjLBeEUxDB1jb52zq2hGYlCLLndnOpUn88y4E+KPTuximIiwzCDvGNKHZv59/U65mF40EZnEhh+FR7rYZ3fJ3XLP8lckNQ8GyORni72nryd2J+Bfv4ktW/WFTaa/QFpxK4/8qG+g5COl/ympk1YqqgRlDAF1ehUZfuuNwnhLYLsBx6yKgu/UeQU/Yj+HhWijQnFCOEb2uQQ6l3+WpR15ugqZulg2MQQLCTQwBcSfrCR0PGLtCbc2pfLn23i/lWr8AR6Zv4GigJd+rxfliBNZVcEM0lh94ETR8GtXxfasbxAJ186PHOkDs/nrGMPTyYZhEGkxrXnNKV4zqt44st2zkJ3dtKVC1QHGFwtKW/Ig==;muTal0d73kXAbwYnxthFhw=="
 ---

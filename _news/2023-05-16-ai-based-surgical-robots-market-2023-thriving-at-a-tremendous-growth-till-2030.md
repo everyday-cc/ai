@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) Chipset Market Trends 2023-2030"
-    excerpt: "Chipset market was valued at USD 8451.7 million in 2022 and is anticipated to reach USD 22360 million by 2029, witnessing a CAGR of 17.6Percentage during the forecast period 2023-2029. The influence of COVID-19 and the Russia-Ukraine War were considered while estimating market sizes."
-    publishedDateTime: 2023-05-16T04:23:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipset-market-trends-2023-2030-2023-05-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 84
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence (AI) in BFSI Market: 2023 Huge B2B Opportunities 2030 by Key Players"
     excerpt: "Artificial Intelligence (AI) in BFSI Market Report Overview 2023-2030: May 16, 2023 (The Expresswire) -- Overview of the for global ”Artificial"
     publishedDateTime: 2023-05-16T13:19:00Z

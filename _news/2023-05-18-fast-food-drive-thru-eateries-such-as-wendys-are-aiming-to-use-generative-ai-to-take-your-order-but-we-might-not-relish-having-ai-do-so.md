@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/lanceeliot/2023/05/18/fast-food-drive-thru
 ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/05/18/fast-food-drive-thru-eateries-such-as-wendys-are-aiming-to-use-generative-ai-to-take-your-order-but-we-might-not-relish-having-ai-do-so/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/05/18/fast-food-drive-thru-eateries-such-as-wendys-are-aiming-to-use-generative-ai-to-take-your-order-but-we-might-not-relish-having-ai-do-so/amp/"
 type: article
-quality: 56
-heat: 56
+quality: 58
+heat: 58
 published: false
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - AI Ethics
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/646524a5cef85bb5c4b1abc6/0x0.jpg?format=jpg&crop=2794,1572,x0,y112,safe&width=1200"

@@ -61,6 +61,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "This Magnificent Fintech Stock Is Surprisingly Climbing Aboard the Generative AI Train"
+    excerpt: "If generative AI is here to stay, I'd expect these to become common fintech features, not providing any company the upper hand. The bigger issue for Block is staying relevant and controlling costs ..."
+    publishedDateTime: 2023-05-16T21:29:00Z
+    webUrl: "https://www.fool.com/investing/2023/05/16/this-magnificent-fintech-stock-is-surprisingly-cli/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 61
+    images:
+      - url: "https://g.foolcdn.com/editorial/images/731487/square-retail-point-of-sale-resize.jpg"
+        width: 1500
+        height: 1116
+        isCached: true
   - title: "Study combines quantum computing and generative AI for drug discovery"
     excerpt: "Insilico Medicine, a clinical stage generative artificial intelligence (AI)-driven drug discovery company, today announced that it combined two rapidly developing technologies, quantum computing and generative AI,"
     publishedDateTime: 2023-05-19T13:54:00Z
@@ -170,6 +184,6 @@ related:
       domain: fastcompany.com
     quality: 17
 
-secured: "6l/WWWSJO6NPd5DrLGz1o1aSJRQdF8ncY4OpB3IJoN+xFvgIWtJ9x/12EvhIZ9nJmkKadNZmBr43rLp1A3iwtR8YebbSL/HlaNzPUX3nt7E4RagBUhLhZ4DsHEEXilQkiamqhu3gDbkDwd59nw+ldX90JE9vKCv7AHH7qSTVDz+IENrk+Eb5eIT3zv3bx8MSIHS2agnSbWl8paGT0zljWbewfm6CEvqhp5mr94IZ7aZzfG05jytA6XnaFRJb0+Lct8WHzvCjZXAN8B+Im2+Eyd6G7hGlQZyLYhkp3EEeCNUQgnceKoYz45FHsDDWFFvj0Ba5vCnsipjBG6SPoYBsJupiCYCJIPWHHch6UxXmCjE=;4+CCIdJw2BKcFxMwwpR29Q=="
+secured: "i69WLdjaVtjEZGMFmxQzZL57/wH2vhfl+6Xglhjrfb+YPMlI/hlXnfc9rY187p27kAuhg8FPlQI7NUiTi+3BAy1h4YWRPP/lEy9XvoSXa5X9GgZkP0E6PdGuYXYP0G1Axb5vAFIWKwHD/WeS2zrETPxxZmufSRteemAetPhjyCarIanWgdjWiENLF/qIFQNq/1E0NZCVXrFMgO0XfbCUZcJWFVaxTzp4u26kwOgJYccwB4WT2DDp4IfzZrf4Xl0AZYkq069GpAR7Yjl1xAiLHfLNZcj0OBbDWz2Mz2h100YCAAMm3xTV1NNipToIClXFkWPvBsHARxH3e4SLZ4imcvof1ejnnD4ay5Q7NbFzrodkchh7OHcwClj3fjzbiVl0Rd6sO63couh/k1VwpliZ9rFV0IqBzKW/biXHhCbT3fYMcVNKEL4QjFjphmj7HaSplkuAKozdFc77wRN1RYHuuRTOlzKQMPyWtT8ycvMbXbVBYwy/ucxRCFhTtcZ/x6I4pmQXQ41RI+vmyKM5HDAtiQ==;W3gHb8CuVlzzTTM99u7C+w=="
 ---
 

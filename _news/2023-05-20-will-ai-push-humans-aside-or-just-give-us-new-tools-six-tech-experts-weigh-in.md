@@ -24,6 +24,17 @@ images:
     height: 826
     isCached: true
 
+related:
+  - title: "Artificial Intelligence May Be ‘Threat’ to Human Health, Experts Warn"
+    excerpt: "Public health experts have echoed calls to halt AI research, warning that some types of the technology pose an “existential threat to humanity.”"
+    publishedDateTime: 2023-05-19T13:30:00Z
+    webUrl: "https://healthitanalytics.com/news/artificial-intelligence-may-be-threat-to-human-health-experts-warn"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 19
+
 secured: "7cB3eYFbeCIEuWPvEfHijmiM5x7XmcnogHFw+Bw3pdmcJUSvfnSUIIbUrsoQZqRENtZRaGWV0aLabje3uMSMWrh0XetaRcuPl8jfXBUuJE3qwK35h3sQx+uTHJ32tVrk/WyFuV+2awb//g/4FEBj/oWKXHCv5qscAXEOcaA/7NHgh0qyfr/1Fuz3nPTdf/u6/XKV/0pyD3e4UCBg8dz5G7/VH9mzp/ruIZVr2OnAyAfSdYrdzO8qUv+1CX0mlBOX5gVjmoaLCCplPqI96gELs2R7FkpLwin/wL1o2c7DhEa3lqfHRBdLZAgCshc1uAtZVoz81+57dlJYV46ced3dsvYzWsishj+U2C5vIRsgdi0=;RBLg+ejhscCHx62AdbssOA=="
 ---
 

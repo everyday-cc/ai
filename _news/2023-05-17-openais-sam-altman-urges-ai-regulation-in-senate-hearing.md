@@ -148,20 +148,6 @@ related:
         width: 840
         height: 438
         isCached: true
-  - title: "OpenAI readies new open-source AI model - The Information"
-    excerpt: "has gained widespread attention in Silicon Valley as investors see generative AI as the next big growth area for tech companies. In January, Microsoft Corp (MSFT.O) announced a multi-billion dollar investment in OpenAI, deepening its ties with the startup ..."
-    publishedDateTime: 2023-05-16T04:00:00Z
-    webUrl: "https://www.reuters.com/technology/openai-readies-new-open-source-ai-model-information-2023-05-15/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 67
-    images:
-      - url: "https://www.reuters.com/resizer/iqo4WxdERy47YkN_PHWL63ghNJw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/OUXSPAPPUVK27H6RHKQWKLT4VI.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "OpenAI, IBM Urge Senate to Act on AI Regulation After Past Tech Failures"
     excerpt: "Executives from two major AI companies asked senators on Tuesday to pass regulations for the ground-breaking but nascent technology as rapid innovation raises ethical, legal and national security questions."
     publishedDateTime: 2023-05-16T16:04:00Z

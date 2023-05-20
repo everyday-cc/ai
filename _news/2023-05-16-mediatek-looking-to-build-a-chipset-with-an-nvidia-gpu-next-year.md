@@ -7,7 +7,7 @@ originalUrl: "https://www.gsmarena.com/report_claims_that_mediatek_will_build_a_
 webUrl: "https://www.gsmarena.com/report_claims_that_mediatek_will_build_a_chipset_with_an_nvidia_gpu_as_early_as_next_year-news-58575.php"
 type: article
 quality: 54
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "MediaTek to adopt Nvidia GPU in flagship mobile chip"
-    excerpt: "MediaTek is expected to integrate an Nvidia GPU into its next-generation flagship mobile processor as early as 2024, according to industry sources."
-    publishedDateTime: 2023-05-16T01:52:00Z
-    webUrl: "https://www.digitimes.com/news/a20230515PD212/gpu-mediatek-nvidia.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 54
-    images:
-      - url: "https://img.digitimes.com/newsshow/20230515pd212_files/2_r.jpg"
-        width: 336
-        height: 224
-        isCached: true
   - title: "Nvidia sees AI GPU orders ramp up"
     excerpt: "Nvidia has seen a ramp-up in orders for its A100 and H100 AI GPUs, as a result of the generative AI boom, which has led to an increase in wafer starts at TSMC, according to market sources."
     publishedDateTime: 2023-05-19T02:50:00Z

@@ -72,6 +72,20 @@ related:
         width: 1280
         height: 670
         isCached: true
+  - title: "This Magnificent Fintech Stock Is Surprisingly Climbing Aboard the Generative AI Train"
+    excerpt: "If generative AI is here to stay, I'd expect these to become common fintech features, not providing any company the upper hand. The bigger issue for Block is staying relevant and controlling costs ..."
+    publishedDateTime: 2023-05-16T21:29:00Z
+    webUrl: "https://www.fool.com/investing/2023/05/16/this-magnificent-fintech-stock-is-surprisingly-cli/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 61
+    images:
+      - url: "https://g.foolcdn.com/editorial/images/731487/square-retail-point-of-sale-resize.jpg"
+        width: 1500
+        height: 1116
+        isCached: true
   - title: "Study combines quantum computing and generative AI for drug discovery"
     excerpt: "Insilico Medicine, a clinical stage generative artificial intelligence (AI)-driven drug discovery company, today announced that it combined two rapidly developing technologies, quantum computing and generative AI,"
     publishedDateTime: 2023-05-19T13:54:00Z

@@ -86,22 +86,6 @@ related:
         width: 768
         height: 438
         isCached: true
-  - title: "Elections in UK and US at risk from AI-driven disinformation, say experts"
-    excerpt: "False news stories, images, video and audio could be tailored to audiences and created at scale by next spring"
-    publishedDateTime: 2023-05-20T09:00:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/may/20/elections-in-uk-and-us-at-risk-from-ai-driven-disinformation-say-experts?ref=upstract.com"
-    ampWebUrl: "https://amp.theguardian.com/technology/2023/may/20/elections-in-uk-and-us-at-risk-from-ai-driven-disinformation-say-experts"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/may/20/elections-in-uk-and-us-at-risk-from-ai-driven-disinformation-say-experts"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 56
-    images:
-      - url: "https://i.guim.co.uk/img/media/34ebf02415ed71c69dbfa49edb9fc69962c7ea1f/895_7_5828_3499/master/5828.jpg?width=620&quality=85&auto=format&fit=max&s=cb83d3bea388c422da72c767a2ca75df"
-        width: 620
-        height: 372
-        isCached: true
   - title: "Regulation of Artificial Intelligence"
     excerpt: "The introduction to the House of Commons of a Bill under the ten minute rule, by Labour MP Mick Whitley, on the regulation of artificial intelligence and workers' rights, from Wednesday 17 May."
     publishedDateTime: 2023-05-17T18:08:00Z
@@ -111,6 +95,15 @@ related:
       name: BBC
       domain: bbc.co.uk
     quality: 17
+  - title: "Elections in UK and US at risk from AI-driven disinformation, say experts"
+    excerpt: "False news stories, images, video and audio could be tailored to audiences and created at scale by next spring"
+    publishedDateTime: 2023-05-20T09:00:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/may/20/elections-in-uk-and-us-at-risk-from-ai-driven-disinformation-say-experts"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 16
 
 secured: "6YVxZRxBvjia33S6LuWa6d1fD/lICLfrJSh0n53WisVCAdt114/pazYwGA5xWsnZUf3ts54lprH3ehy6+Q+ldrA0Zlcyf7ssaHVoNs+ZYWw4sMggKuGcx0QftiOEjbod5/hewIua9qH1wSMNbHncwoZ6br7LyuRZWv30W1IhDcHjjD65sT7VhMsgA5jtHH5TtwEmPqPf0+tocbApQwp6r4Vw3UJdvX0eG2IYY/1C3K9EIAfvpgMl3hZfVX5yO4rjHz8K8DXOA/j05AWjja4UYby/C7L9d/Xqs+DSanngh/TzH7esyyGX1waK/c2x8MDwSiXLzUYUMi0eafrGpfVX6qVP76RTcVNCM2UKZANyDnw=;dzUtGsx0h5IwscOf58Wd2A=="
 ---

@@ -39,20 +39,6 @@ related:
         width: 952
         height: 498
         isCached: true
-  - title: "MediaTek to adopt Nvidia GPU in flagship mobile chip"
-    excerpt: "MediaTek is expected to integrate an Nvidia GPU into its next-generation flagship mobile processor as early as 2024, according to industry sources."
-    publishedDateTime: 2023-05-16T01:52:00Z
-    webUrl: "https://www.digitimes.com/news/a20230515PD212/gpu-mediatek-nvidia.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 54
-    images:
-      - url: "https://img.digitimes.com/newsshow/20230515pd212_files/2_r.jpg"
-        width: 336
-        height: 224
-        isCached: true
   - title: "MediaTek will reportedly build a flagship SoC with an integrated Nvidia GPU for 2024"
     excerpt: "MediaTek is reportedly working with Nvidia to develop a flagship smartphone SoC that would include an Nvidia GPU."
     publishedDateTime: 2023-05-18T05:30:00Z

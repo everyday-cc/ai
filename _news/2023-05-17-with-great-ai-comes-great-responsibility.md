@@ -46,22 +46,6 @@ related:
         width: 1300
         height: 733
         isCached: true
-  - title: "Friend or foe: Defining industry responsibility for AI-based technology"
-    excerpt: "AI holds the power to dramatically change the world. Why enterprises must continually evaluate their stance on the purpose and use of AI."
-    publishedDateTime: 2023-05-16T01:07:00Z
-    webUrl: "https://venturebeat.com/ai/friend-or-foe-defining-industry-responsibility-for-ai-based-technology/"
-    ampWebUrl: "https://venturebeat.com/ai/friend-or-foe-defining-industry-responsibility-for-ai-based-technology/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/friend-or-foe-defining-industry-responsibility-for-ai-based-technology/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1171820924.jpg?w=1200&strip=all"
-        width: 1200
-        height: 624
-        isCached: true
   - title: "‘Moral responsibility’: Can blockchain really improve trust in AI?"
     excerpt: "AI is developing at breakneck speed, but even its developers have a hard time explaining how it works. Can blockchain help solve this problem?"
     publishedDateTime: 2023-05-18T13:35:00Z

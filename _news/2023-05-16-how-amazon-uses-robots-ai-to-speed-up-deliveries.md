@@ -33,6 +33,20 @@ related:
         width: 1726
         height: 1214
         isCached: true
+  - title: "New produced water platform to use artificial intelligence"
+    excerpt: "Artificial intelligence is arriving in the produced water management sector. Infinity Water Solutions and Quantum Reservoir Impact have announced a strategic partnership to develop, deploy and advance a water intelligence platform called SpeedWise Water,"
+    publishedDateTime: 2023-05-20T21:31:00Z
+    webUrl: "https://www.chron.com/business/oil/article/infinity-water-solutions-quantum-reservoir-18106706.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 37
+    images:
+      - url: "https://s.hdnux.com/photos/01/32/73/74/23838500/3/rawImage.jpg"
+        width: 1805
+        height: 1096
+        isCached: true
   - title: "Amazon Plans AI Chatbot to Replace Shopping Search"
     excerpt: "A recent job posting reveals Amazon's intention to design a generative AI that would replace the search bar on its site, potentially upending the way sellers have used Amazon thus far. The posting seeks a senior software developer to spearhead the company's AI project."
     publishedDateTime: 2023-05-16T18:15:00Z

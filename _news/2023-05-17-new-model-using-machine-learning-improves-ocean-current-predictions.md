@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Researchers show that a machine learning model can improve mortality risk prediction for cardiac surgery patients"
+    excerpt: "A machine learning-based model that enables medical institutions to predict the mortality risk for individual cardiac surgery patients has been developed by a Mount Sinai research team, providing a significant performance advantage over current population-derived models."
+    publishedDateTime: 2023-05-17T14:14:00Z
+    webUrl: "https://medicalxpress.com/news/2023-05-machine-mortality-cardiac-surgery-patients.html"
+    ampWebUrl: "https://medicalxpress.com/news/2023-05-machine-mortality-cardiac-surgery-patients.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-05-machine-mortality-cardiac-surgery-patients.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 38
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/researchers-show-that-2.jpg"
+        width: 2880
+        height: 1620
+        isCached: true
   - title: "Institution-specific machine learning model can predict cardiac patient's mortality risk prior to surgery"
     excerpt: "A machine learning-based model that enables medical institutions to predict the mortality risk for individual cardiac surgery patients has been developed by a Mount Sinai research team, providing a significant performance advantage over current population-derived models."
     publishedDateTime: 2023-05-17T16:55:00Z

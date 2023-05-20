@@ -873,15 +873,6 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 17
-  - title: "The race to bring generative AI to mobile devices"
-    excerpt: "Tech companies like Google seek processing power in handsets to reduce computing costs and improve speed of AI chatbots"
-    publishedDateTime: 2023-05-16T04:00:00Z
-    webUrl: "https://www.ft.com/content/6579591d-4469-4b28-81a2-64d1196b44ab?shareType=nongift"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 17
   - title: "ChatGPT chief says AI should be regulated by US or global agency"
     excerpt: "The head of the artificial intelligence company that makes ChatGPT told Congress on Tuesday that government intervention will be critical to mitigating the risks of increasingly powerful AI systems."
     publishedDateTime: 2023-05-17T09:07:00Z

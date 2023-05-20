@@ -72,6 +72,20 @@ related:
         width: 1280
         height: 670
         isCached: true
+  - title: "This Magnificent Fintech Stock Is Surprisingly Climbing Aboard the Generative AI Train"
+    excerpt: "If generative AI is here to stay, I'd expect these to become common fintech features, not providing any company the upper hand. The bigger issue for Block is staying relevant and controlling costs ..."
+    publishedDateTime: 2023-05-16T21:29:00Z
+    webUrl: "https://www.fool.com/investing/2023/05/16/this-magnificent-fintech-stock-is-surprisingly-cli/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 61
+    images:
+      - url: "https://g.foolcdn.com/editorial/images/731487/square-retail-point-of-sale-resize.jpg"
+        width: 1500
+        height: 1116
+        isCached: true
   - title: "Google’s Vertex AI machine learning platform gets generative AI tools"
     excerpt: "The new updates to Google Cloud’s machine learning service will help the company square up against rivals such as Microsoft, AWS and IBM."
     publishedDateTime: 2023-05-16T05:37:00Z

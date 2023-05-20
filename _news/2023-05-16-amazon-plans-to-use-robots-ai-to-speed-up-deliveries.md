@@ -7,7 +7,7 @@ originalUrl: "https://www.itp.net/emergent-tech/amazon-plans-to-use-robots-ai-to
 webUrl: "https://www.itp.net/emergent-tech/amazon-plans-to-use-robots-ai-to-speed-up-deliveries"
 type: article
 quality: 54
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "New produced water platform to use artificial intelligence"
+    excerpt: "Artificial intelligence is arriving in the produced water management sector. Infinity Water Solutions and Quantum Reservoir Impact have announced a strategic partnership to develop, deploy and advance a water intelligence platform called SpeedWise Water,"
+    publishedDateTime: 2023-05-20T21:31:00Z
+    webUrl: "https://www.chron.com/business/oil/article/infinity-water-solutions-quantum-reservoir-18106706.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 37
+    images:
+      - url: "https://s.hdnux.com/photos/01/32/73/74/23838500/3/rawImage.jpg"
+        width: 1805
+        height: 1096
+        isCached: true
   - title: "How Amazon uses robots, AI to speed up deliveries?"
     excerpt: "Nearly 75% of all Amazon's customer orders involve the use of robotics to some extent.. How Amazon uses robots, AI to speed up deliveries?. amazon, ecommerce, logistics, NEWS. Logistics."
     publishedDateTime: 2023-05-16T08:20:00Z

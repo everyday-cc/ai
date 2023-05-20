@@ -696,6 +696,50 @@
       ]
     },
     {
+      "path": "_news/2023-05-15-are-you-who-you-say-you-are-tsa-tests-facial-recognition-technology-to-boost-airport-security.md",
+      "title": "Are you who you say you are? TSA tests facial recognition technology to boost airport security",
+      "excerpt": "The agency tasked with securing America's airports is testing the use of facial recognition technology at a number of airports across the country. The Transportation Safety Administration says the tec",
+      "sourceUrl": null,
+      "webUrl": "https://omaha.com/lifestyles/technology/are-you-who-you-say-you-are-tsa-tests-facial-recognition-technology-to-boost-airport/article_1960d054-fedf-59b8-a1ed-b6d087e61991.html",
+      "originalUrl": "https://omaha.com/lifestyles/technology/are-you-who-you-say-you-are-tsa-tests-facial-recognition-technology-to-boost-airport/article_1960d054-fedf-59b8-a1ed-b6d087e61991.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/9/e7/9e729762-a89b-5a79-9f4d-c13f116cf8fa/6461b5a12f579.image.jpg?crop=1763%2C926%2C0%2C125&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-14T21:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Omaha.com",
+        "domain": "omaha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2023-05-14-computer-vision-market-research-analysis-2023-2030.md",
       "title": "Computer Vision Market Research Analysis, 2023-2030",
       "excerpt": "A Computer Vision market new report, spanning multiple 107 pages, offers an extensive and in-depth analysis of the",
@@ -1053,10 +1097,10 @@
     {
       "path": "_news/2023-05-11-computer-vision-software-developer-visualcortex-joins-axis-technology-partner-program.md",
       "title": "Computer Vision software developer VisualCortex joins Axis Technology Partner Program",
-      "excerpt": "VisualCortex joins Axis Technology Integration Partner Program to deliver computer vision software and video analytics solutions to Axis Communications' global network of customers and partners across 50 countries SYDNEY and LUND,",
+      "excerpt": "VisualCortex joins Axis Technology Integration Partner Program to deliver computer vision software and video analytics solutions to Axis Communications' global network of customers and partners ...",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-computer-vision-software-developer-visualcortex-joins-axis-technology-/2023/05/11/9812159.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-computer-vision-software-developer-visualcortex-joins-axis-technology-/2023/05/11/9812159.htm",
+      "webUrl": "https://www.benzinga.com/pressreleases/23/05/n32332541/computer-vision-software-developer-visualcortex-joins-axis-technology-partner-program",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/05/n32332541/computer-vision-software-developer-visualcortex-joins-axis-technology-partner-program",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1073,13 +1117,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-10T22:35:00-07:00",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/32332541",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32332541",
+      "publishedDateTime": "2023-05-10T21:15:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1359,58 +1403,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-08-ais-facial-recognition-failures-three-times-crime-solving-intelligence-got-it-wrong.md",
-      "title": "AI's facial recognition failures: Three times crime solving intelligence got it wrong",
-      "excerpt": "Law enforcement's use of artifical intelligence-driven facial recognition puts everyone into what one expert called a \"perpetual police line-up,\" and studies show it's more likely the finger will ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/us/ai-facial-recognition-failures-three-times-crime-solving-intelligence-got-it-wrong",
-      "originalUrl": "https://www.foxnews.com/us/ai-facial-recognition-failures-three-times-crime-solving-intelligence-got-it-wrong",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2022/12/340/340/69272029239__714BF986-699F-43ED-BD6D-FD1D2BB59635.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/us/ai-facial-recognition-failures-three-times-crime-solving-intelligence-got-it-wrong.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/ai-facial-recognition-failures-three-times-crime-solving-intelligence-got-it-wrong.amp",
-      "publishedDateTime": "2023-05-08T07:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

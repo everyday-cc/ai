@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Nvidia, AMD, Micron lead chip sector higher with AI, Japan in focus"
-excerpt: "Shares in chip design software company Synopsys shares ended up 8.7% after it forecast better-than-expected third-quarter profit estimates, saying increased use of AI and automation boosted its business. Nvidia shares were up 5.0%, while the Philadelphia ..."
-publishedDateTime: 2023-05-18T21:55:00Z
-originalUrl: "https://www.reuters.com/article/usa-stocks-chips-idUSL1N37F2MO"
-webUrl: "https://www.reuters.com/article/usa-stocks-chips-idUSL1N37F2MO"
+excerpt: "Shares in Nvdia Corp , Advanced Micro Devices and Micron Technology on Thursday provided the biggest boosts to the chip sector, which outperformed the broader market as investors looked for ways to invest in artificial intelligence and in Japan."
+publishedDateTime: 2023-05-18T21:46:00Z
+originalUrl: "https://www.reuters.com/article/usa-stocks-chips/nvidia-amd-micron-lead-chip-sector-higher-with-ai-japan-in-focus-idUSL1N37F2MO"
+webUrl: "https://www.reuters.com/article/usa-stocks-chips/nvidia-amd-micron-lead-chip-sector-higher-with-ai-japan-in-focus-idUSL1N37F2MO"
 type: article
 quality: 84
 heat: -1
@@ -23,9 +23,9 @@ topics:
   - AI
 
 images:
-  - url: "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800"
+  - url: "https://www.reuters.com/resizer/MSbbwGzXoN4m5_yDKbUTrwFQOMg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/2OUEX3PTTNP3DO72D3UQ4PPP7A.jpg"
     width: 1200
-    height: 630
+    height: 628
     isCached: true
 
 related:
@@ -131,6 +131,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "pOjitAAhoMo0bQMazsTE38BwcepdcV2/lvwUlZblT1rOpN5BrZ2/l+JMEDK755Rm1fKM6bUXQkHNBUu3WX6uSYZv7HvzjkA9JlVdCySK2mqttwYdVGp43R4Ma/RvL724sYrfc177e0wr7IBUmHwRD/bPxEXdbvzzoS14mcHOYILCt+PyS41R3HXbw+xVTGD97PUMjYbLVImCx49tPOQEaTTruXkPWI4RMYzJ5xPi9fpjHFklnOGCdL2ONuUfgnhmUl7YFx1czsfxX6JO2AQyhvpbmJVhviadEyn8/OjgoMu6NeueqF8hTDu7tqqd2ap/m+CsXan4WbsRFSivlGnBlZl3KEEIU/klBDK/PZGzmIo=;7OMbUr6hMbWUbLIzadblzw=="
+secured: "+SnCykyD18r24Tg3YAjozjwTawU7pLNpRZ/QhESauYfkiXQAMaz+3dGpidq5jQbDbFwW5YVWO+wyNZbg8cBsYBzkD5q8gAAm/mnNecl+i9OYIpQF6dpYdigkDWpotvZTGHoN3I5mLLq4u2XPKqOr0swjlxEHcRy4HWdUHw7KYerZfzn/YweZEIpGtfC7mt1yBn91OZ0vKNCC9oDhGKwpuLV3rZV+g6IIP9MykzRupXT+CLjqJMMTmdZSi+3RY6uN6rgxpoY8uR8Ag30lD095bVIaxe0qrxWZquZvHQIEeY3f2PaCcYwGh5JBDfWpWdL+9iQo5vaL35fiPbwY4KKu51E6sr0e/8UdN8uNO23+ugo=;v5wwCcbqkrb6tKrOm7sT4g=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://koreatimes.co.kr/www/tech/2023/05/133_351073.html"
 webUrl: "https://koreatimes.co.kr/www/tech/2023/05/133_351073.html"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,36 @@ images:
     width: 980
     height: 653
     isCached: true
+
+related:
+  - title: "With new Phoenix robot, Sanctuary AI looks to usher in ‘labor as a service’"
+    excerpt: "BOT or NOT? This special series explores the evolving relationship between humans and machines, examining the ways that robots, artificial intelligence and automation are impacting our work and lives."
+    publishedDateTime: 2023-05-16T13:10:00Z
+    webUrl: "https://www.geekwire.com/2023/with-new-phoenix-robot-sanctuary-ai-looks-to-usher-in-a-new-era-of-labor-as-a-service/"
+    type: article
+    provider:
+      name: GeekWire
+      domain: geekwire.com
+    quality: 82
+    images:
+      - url: "https://cdn.geekwire.com/wp-content/uploads/2023/05/with-new-phoenix-robot-sanctuary.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Sanctuary AI unveils a humanoid robot called Phoenix that’s ready to offer its ‘labor-as-a-service’"
+    excerpt: "Sanctuary AI unveils a humanoid robot called Phoenix that's ready to offer its 'labor-as-a-service' - SiliconANGLE"
+    publishedDateTime: 2023-05-17T00:50:00Z
+    webUrl: "https://siliconangle.com/2023/05/16/sanctuary-ai-unveils-humanoid-robot-called-phoenix-thats-ready-offer-labor-service/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 40
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/05/Sanctuary-AI-rolls-out-the-first-general-purpose-robot-e1684275899483.jpg"
+        width: 1000
+        height: 586
+        isCached: true
 
 secured: "V7iVqxx0h6NuYT3ZWGH0Dju9T3ONyZwFEFGBIqXqo/fRM0083F7kW4VGgH7v2Mm0hJu/2b77/hgDG4CkQqUr8duKKukHuSlkQD3VMHdjWzK5rDam+Bv/OXMJz6XP+Hvb4BB69eU5E9S9OuECnoZd8gm9HicnGHvGqxtM0MeZ+tFh8xL9MlgZwOfryqopQOyE6Uu+AXunGUDzgdwgLEjvetdkYzJKmGM58/GMPEWmZxeWDyKKyX6MxLajni3dWt4xYdi0zFKfj80IoBPP0PQZ7IFtxi+WlucBDd7TB4+UD37KR1A3JVy6oXTR/r2YJhUeKRKLpEjQIngBdZzh80etLSBh8BiZJOpm8EXeNG2kkVA=;paSDhTSnnJLFLL6EWBIosQ=="
 ---

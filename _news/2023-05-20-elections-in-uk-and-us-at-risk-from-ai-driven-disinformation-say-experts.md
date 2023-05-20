@@ -3,12 +3,10 @@ category: news
 title: "Elections in UK and US at risk from AI-driven disinformation, say experts"
 excerpt: "False news stories, images, video and audio could be tailored to audiences and created at scale by next spring"
 publishedDateTime: 2023-05-20T09:00:00Z
-originalUrl: "https://www.theguardian.com/technology/2023/may/20/elections-in-uk-and-us-at-risk-from-ai-driven-disinformation-say-experts?ref=upstract.com"
-webUrl: "https://www.theguardian.com/technology/2023/may/20/elections-in-uk-and-us-at-risk-from-ai-driven-disinformation-say-experts?ref=upstract.com"
-ampWebUrl: "https://amp.theguardian.com/technology/2023/may/20/elections-in-uk-and-us-at-risk-from-ai-driven-disinformation-say-experts"
-cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/may/20/elections-in-uk-and-us-at-risk-from-ai-driven-disinformation-say-experts"
+originalUrl: "https://www.theguardian.com/technology/2023/may/20/elections-in-uk-and-us-at-risk-from-ai-driven-disinformation-say-experts"
+webUrl: "https://www.theguardian.com/technology/2023/may/20/elections-in-uk-and-us-at-risk-from-ai-driven-disinformation-say-experts"
 type: article
-quality: 56
+quality: 16
 heat: -1
 published: false
 
@@ -22,12 +20,6 @@ provider:
 
 topics:
   - AI
-
-images:
-  - url: "https://i.guim.co.uk/img/media/34ebf02415ed71c69dbfa49edb9fc69962c7ea1f/895_7_5828_3499/master/5828.jpg?width=620&quality=85&auto=format&fit=max&s=cb83d3bea388c422da72c767a2ca75df"
-    width: 620
-    height: 372
-    isCached: true
 
 related:
   - title: "Cheat Sheets For AI Information Overload"
@@ -111,6 +103,6 @@ related:
       domain: bbc.co.uk
     quality: 17
 
-secured: "hb2MpT5TZSNrqgOCVHBCevMULtwIRfzRcpITgiR2ej4wHOvHAUkH1uAyOpnlJSNtxBZj73PnQm88tgIJfiGvwWKeCiL7y2B6gkSPkrgTMV0FcNBp00rxMD1zwZB9QmiRG0jmdJBNjVMCd9a6WfuLLXS5/RsFaSJIcRoPkKoW3r9F8lL4YdWmzmuL1+wQ3eAw28IIsQMWIgAOzY5PZfyV9hufBcLzDLDZBkD7E168r6UOLcEQ9UMYHPnKx+mqkY+rqisnQeNjyCQqVxk729JsKkwPTc6dtZxW3BJenATToYM1QCZGGY2yny7h+9Y/uoUEeVu4ehUUKOuymQTf3HAyh9Vkyf2JYKrDaXxaGCOoTVA=;XiLhC1MzAUDDSYJVveYRrw=="
+secured: "55M9Qrw70OC6bqDxTutjzK0vBixLpbmUVSMtndi7mMCVQUwQRwLnWAk3nei8kJiGw/0OP+AlEDOqLIwqChbgSFLJbmmky+UYDf8BONoaBi4er8qOEfaFTacSmOFWaWYBQ6s6N9+JGA0bOEKjIwWCAShxPnQDtdGkjIefBwRzcqc4r1n/c41g0W/65xD0N/ZgSio0aqdqE2mbPqm4Pr8PpxezygyFLFxkV2i+GoIUwK2Ypcuc9qcQL2Tpatyn9GAhH5xv0eecjNEsDYg9pt1RnPPoGR/cz/CQYdLSCoYrpPaWvg0u3kkSZwrWk3H4DPszo12CURnny1Y2clOl2Mg9vb6YEcuI4EXjRbLxz+CbgZsDoYFv4EB4EJewZkxu+uXzX+vu1aDDV1OBPQrzFpfpB7SBEaREO3csXje3oihL/KkxOSxoFbUEDzej/yqZ1RM7FusQ/b2xYkSpGMrzgIXNadlo1RgAJgHvdKBHIdTKRrfBf9gOTZspng0eGz6GkPy0VAxRF6Il/sIM0lQ7U+2zzQ==;EgoRUmbF8/woVsmEvPklkQ=="
 ---
 

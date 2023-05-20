@@ -44,18 +44,18 @@ related:
         height: 637
         isCached: true
   - title: "Nvidia, AMD, Micron lead chip sector higher with AI, Japan in focus"
-    excerpt: "Shares in chip design software company Synopsys shares ended up 8.7% after it forecast better-than-expected third-quarter profit estimates, saying increased use of AI and automation boosted its business. Nvidia shares were up 5.0%, while the Philadelphia ..."
-    publishedDateTime: 2023-05-18T21:55:00Z
-    webUrl: "https://www.reuters.com/article/usa-stocks-chips-idUSL1N37F2MO"
+    excerpt: "Shares in Nvdia Corp , Advanced Micro Devices and Micron Technology on Thursday provided the biggest boosts to the chip sector, which outperformed the broader market as investors looked for ways to invest in artificial intelligence and in Japan."
+    publishedDateTime: 2023-05-18T21:46:00Z
+    webUrl: "https://www.reuters.com/article/usa-stocks-chips/nvidia-amd-micron-lead-chip-sector-higher-with-ai-japan-in-focus-idUSL1N37F2MO"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 84
     images:
-      - url: "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800"
+      - url: "https://www.reuters.com/resizer/MSbbwGzXoN4m5_yDKbUTrwFQOMg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/2OUEX3PTTNP3DO72D3UQ4PPP7A.jpg"
         width: 1200
-        height: 630
+        height: 628
         isCached: true
   - title: "AI Accelerator Chip Market Inputs Increasing Market Growth for Coming Years 2023-2030"
     excerpt: "Latest Report of AI Accelerator Chip Market 2023 Market Analysis and Insights:Global AI Accelerator Chip Market Market Analysis and Insights: Global and United States AI Accelerator Chip Market This report focuses on global and United States AI Accelerator Chip market,"

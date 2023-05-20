@@ -1,20 +1,20 @@
 ---
 category: news
-title: "Zoom Invests in AI Startup Anthropic in Latest Effort to Spruce up Offerings"
-excerpt: "Zoom Invests in AI Startup Anthropic in Latest Effort to Spruce up Offerings (Reuters) - Zoom Video Communications Inc said on Tuesday it has invested an undisclosed sum in Anthropic and will ..."
-publishedDateTime: 2023-05-16T13:17:00Z
-originalUrl: "https://www.usnews.com/news/technology/articles/2023-05-16/zoom-invests-in-ai-startup-anthropic-in-latest-effort-to-spruce-up-offerings"
-webUrl: "https://www.usnews.com/news/technology/articles/2023-05-16/zoom-invests-in-ai-startup-anthropic-in-latest-effort-to-spruce-up-offerings"
+title: "Zoom invests in AI startup Anthropic in latest effort to spruce up offerings"
+excerpt: "May 16 (Reuters) - Zoom Video Communications Inc (ZM.O) said on Tuesday it has invested an undisclosed sum in Anthropic and will integrate the artificial intelligence start-up's technology into ..."
+publishedDateTime: 2023-05-16T13:06:00Z
+originalUrl: "https://www.reuters.com/technology/zoom-invests-ai-startup-anthropic-latest-effort-spruce-up-offerings-2023-05-16/"
+webUrl: "https://www.reuters.com/technology/zoom-invests-ai-startup-anthropic-latest-effort-spruce-up-offerings-2023-05-16/"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -22,16 +22,62 @@ topics:
   - AI
 
 related:
-  - title: "Zoom To Inject Anthropic’s AI Chatbot Into Video, Collaboration Products"
-    excerpt: "Zoom integrates AI into video collaboration meeting and chat products with new Anthropic partnership after partnering with Microsoft-backed OpenAI."
-    publishedDateTime: 2023-05-16T18:58:00Z
-    webUrl: "https://www.crn.com/news/software/zoom-to-inject-anthropic-s-ai-chatbot-into-video-collaboration-products"
+  - title: "Zoom adds an AI assistant named Claude"
+    excerpt: "Zoom just announced a strategic partnership with Anthropic, an artificial intelligence company that conducts research into AI safety and develops tools based on that work. The collaboration will integrate Anthropic's AI assistant, Claude, into the Zoom platform, including the Zoom Contact Center."
+    publishedDateTime: 2023-05-16T15:57:00Z
+    webUrl: "https://www.zdnet.com/article/zoom-adds-an-ai-assistant-named-claude/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/zoom-adds-an-ai-assistant-named-claude/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/zoom-adds-an-ai-assistant-named-claude/"
     type: article
     provider:
-      name: CRN
-      domain: crn.com
-    quality: 16
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/4f754c9459ab8f8dc50dc11d25722250ef2b3b58/2023/05/15/511372b9-5860-453d-8962-a298f453f18c/zoom-robot.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Zoom Funds in AI Startup Anthropic"
+    excerpt: "Zoom Video Communications Inc., had funded Anthropic with an undisclosed sum and will integrate the AI startup's technology into its video-conferencing tool."
+    publishedDateTime: 2023-05-17T14:42:00Z
+    webUrl: "https://enterprisetalk.com/quick-bytes/zoom-funds-in-ai-startup-anthropic/"
+    ampWebUrl: "https://enterprisetalk.com/quick-bytes/zoom-funds-in-ai-startup-anthropic/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/zoom-funds-in-ai-startup-anthropic/amp/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 57
+    images:
+      - url: "https://enterprisetalk.com/wp-content/uploads/2023/05/Zoom-Funds-in-AI-Startup-Anthropic.jpg"
+        width: 1500
+        height: 844
+        isCached: true
+  - title: "Zoom adds its own AI assistant named Claude"
+    excerpt: "Zoom just announced a strategic partnership with Anthropic, an artificial intelligence company that conducts research into AI safety and develops tools based on that work. The collaboration will integrate Anthropic's AI assistant, Claude, into the Zoom platform, including the Zoom Contact Center."
+    publishedDateTime: 2023-05-16T13:00:00Z
+    webUrl: "https://www.zdnet.com/article/zoom-adds-its-own-ai-assistant-named-claude/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 47
+  - title: "Zoom Introduces Claude AI Integration"
+    excerpt: "The new integration will launch for Zoom Contact Center first, but the plan is to roll it out to other services soon."
+    publishedDateTime: 2023-05-17T20:36:00Z
+    webUrl: "https://tech.co/news/zoom-claude-ai-assistant-integration"
+    type: article
+    provider:
+      name: Tech.co
+      domain: tech.co
+    quality: 37
+    images:
+      - url: "https://images.tech.co/wp-content/uploads/2022/02/16131910/zoom-mobile-headphones-e1645035611260.jpeg"
+        width: 1920
+        height: 960
+        isCached: true
 
-secured: "DQQV00Ugk5ktlXryBtqXEhYRufIeAMt3p0e6oCHTgtnIUlxQ0G3ACjyw4aC+HV0l9t3fWOrb84J2s0HgB3PIfaquc5voFvfGWs0oAZW/YWKY9+MGbQuUZMc3HyXvJJE7cfQy7P3Vzs7d5vTMabEZ4ApLsPW2RKecLcNeG+pFt+i4ptpgZWbsh8rqT2nNX01hsreuvFPuvR9pvDdj4CLrgf3ndbC2aNs9t2F22Z/xOYpw5ZvcM2seyN5GH0fts/ajQPgD5eCiIamLvh0rZqbO56y4zEtPZ1uHNX21agSNNP09oR9KUWEbX5eIVRmCq3HL7l7zMYCVlvBWssW05CEIfELpXWvJmGhSQfBuLPaeo9Y=;WOFCUMcy37BEPzFAjcRGPA=="
+secured: "3DMH1lwIY7By8ToiV26tFmPdd+kNZgdPrjo5I+Kdi8kq6yR5OvyYChDVTVRqeC04vHNNmfsRL6Ptht5IhK5kpQVh1/XI3z/pEmLnNU2ttuSO2Id5ui0EqI7BoAvaQSpgV9UvZQvOeQ75C89iXVhU7x1BWYae4kX1dI0354YGi9cB4+fT6UhYicNALHMLpqC5Kd3JXYAqKJ0Q+D+j+ZLUFammZTYPJ0OxXklD2WxnRztwkwBS2AGE4RSBAu7kyrRptI6i/VsL24+h3M6tm/niK7XNFLsPUZ7jIP6wpfLR0av/+Te54Txx/JMkZAc/9+7xSo9FIHojIngApDY8XYG/TbMOsqQYDrxGqwfTd5wQdd4=;84pNRK4vh4u6slsS/Ct/7g=="
 ---
 

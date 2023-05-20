@@ -2,6 +2,109 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-05-16-would-you-trust-an-ai-business-coach-entrepreneurs-share-their-hopes-and-concerns.md",
+      "title": "Would You Trust An AI Business Coach? Entrepreneurs Share Their Hopes And Concerns",
+      "excerpt": "Which roles are robots about to replace in our lives? Some entrepreneurs are ready to give AI business coaching a go, others are simply not convinced.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jodiecook/2023/05/16/would-you-trust-an-ai-business-coach-entrepreneurs-share-their-hopes-and-concerns/",
+      "originalUrl": "https://www.forbes.com/sites/jodiecook/2023/05/16/would-you-trust-an-ai-business-coach-entrepreneurs-share-their-hopes-and-concerns/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6460f1b44d52fccdb358caf8/0x0.jpg?format=jpg&crop=3692,2075,x514,y881,safe&width=1200",
+          "width": 1200,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jodiecook/2023/05/16/would-you-trust-an-ai-business-coach-entrepreneurs-share-their-hopes-and-concerns/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jodiecook/2023/05/16/would-you-trust-an-ai-business-coach-entrepreneurs-share-their-hopes-and-concerns/amp/",
+      "publishedDateTime": "2023-05-16T00:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-16-deep-learning-in-manufacturing-market-2023-2030.md",
+      "title": "Deep Learning in Manufacturing Market 2023-2030",
+      "excerpt": "The major players covered in the Deep Learning in Manufacturing market report are: Get a sample copy of the Deep Learning in Manufacturing Market report 2023 Market Overview of Global Deep Learning in Manufacturing market: According to our latest research,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-in-manufacturing-market-2023-2030-2023-05-16",
+      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-in-manufacturing-market-2023-2030-2023-05-16",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-15T23:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-16-2023-face-recognition-systems-market-global-industry-analysis-till-2030.md",
       "title": "2023, Face Recognition Systems Market | Global Industry Analysis Till 2030",
       "excerpt": "Face Recognition Systems Market | Outlook 2023-2028 | Pre and Post-COVID Research is Covered, Report Information |",
@@ -1119,109 +1222,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-15-congress-is-clearly-behind-on-ai-and-needs-bipartisan-effort-to-create-regulations-lawmakers-weigh-in.md",
-      "title": "'Congress is clearly behind on AI' and needs bipartisan effort to create regulations: Lawmakers weigh in",
-      "excerpt": "Foreign allies and adversaries alike have pushed AI regulations, but Congress has stalled. Lawmakers told Fox News bipartisan efforts are needed to regulate the space.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/politics/congress-clearly-behind-ai-needs-bipartisan-effort-create-regulations-lawmakers-weigh",
-      "originalUrl": "https://www.foxnews.com/politics/congress-clearly-behind-ai-needs-bipartisan-effort-create-regulations-lawmakers-weigh",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f97a7577-9354-4bc3-9bb7-afb87838f734/c9cc4df0-e932-48e8-8170-670b150180ac/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/congress-clearly-behind-ai-needs-bipartisan-effort-create-regulations-lawmakers-weigh.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/congress-clearly-behind-ai-needs-bipartisan-effort-create-regulations-lawmakers-weigh.amp",
-      "publishedDateTime": "2023-05-15T09:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-15-unlock-productivity-with-advanced-generative-ai.md",
-      "title": "Unlock productivity with advanced generative AI",
-      "excerpt": "Learn how we are unlocking new levels of productivity by introducing advanced generative AI into Watson Assistant use cases.\nThe post Unlock productivity with advanced generative AI appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/unlock-productivity-with-advanced-generative-ai/",
-      "originalUrl": "https://www.ibm.com/blog/unlock-productivity-with-advanced-generative-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 309,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/05/watson-assistant-ai-for-customer-service-create.Original.jpg",
-          "width": 1217,
-          "height": 685,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-15T09:44:03-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

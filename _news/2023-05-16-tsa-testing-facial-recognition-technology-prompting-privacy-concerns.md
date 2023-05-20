@@ -95,20 +95,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "TSA testing facial recognition at more airports, raising privacy concerns"
-    excerpt: "Advocates are concerned about how the data is collected, who has access to it and what happens if it gets hacked."
-    publishedDateTime: 2023-05-16T03:48:00Z
-    webUrl: "https://www.pressherald.com/2023/05/15/tsa-testing-facial-recognition-at-more-airports-raising-privacy-concerns/"
-    type: article
-    provider:
-      name: Portland Press Herald
-      domain: pressherald.com
-    quality: 53
-    images:
-      - url: "https://multifiles.pressherald.com/uploads/sites/4/2023/05/Facial_Recognition_Airports_95530-1-1684182783.jpg"
-        width: 1000
-        height: 667
-        isCached: true
   - title: "TSA's Facial Recognition Tech Raises Questions About Bias and Data Security"
     excerpt: "Analysts and lawmakers are concerned about a new TSA program that instructs passengers to insert their IDs into a machine and takes a pictures of them."
     publishedDateTime: 2023-05-18T19:34:00Z
@@ -174,6 +160,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Harry Reid International Airport in Las Vegas testing TSA facial recognition technology"
+    excerpt: "It's all part of a pilot project by the Transportation Security Administration to assess the use of facial recognition technology at a number of airports across the country, including Harry Reid ..."
+    publishedDateTime: 2023-05-18T04:10:00Z
+    webUrl: "https://www.rgj.com/story/news/2023/05/16/las-vegas-airport-among-ttsa-is-testing-facial-recognition-at-more-airports-raising-privacy-concerns/70223093007/"
+    type: article
+    provider:
+      name: Reno Gazette-Journal
+      domain: rgj.com
+    quality: 26
   - title: "TSA Ramps Up Facial Recognition Pilot"
     excerpt: "Next time you’re trying to catch a flight, you might spot a new initiative from the Transportation Security Administration (TSA) with a controversial component: facial recognition. The TSA has ramped up its biometric identity verification pilot by installing facial recognition systems in more airports."
     publishedDateTime: 2023-05-17T19:20:00Z

@@ -96,20 +96,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "TSA testing facial recognition at more airports, raising privacy concerns"
-    excerpt: "Advocates are concerned about how the data is collected, who has access to it and what happens if it gets hacked."
-    publishedDateTime: 2023-05-16T03:48:00Z
-    webUrl: "https://www.pressherald.com/2023/05/15/tsa-testing-facial-recognition-at-more-airports-raising-privacy-concerns/"
-    type: article
-    provider:
-      name: Portland Press Herald
-      domain: pressherald.com
-    quality: 53
-    images:
-      - url: "https://multifiles.pressherald.com/uploads/sites/4/2023/05/Facial_Recognition_Airports_95530-1-1684182783.jpg"
-        width: 1000
-        height: 667
-        isCached: true
   - title: "Harry Reid International Airport in Las Vegas testing TSA facial recognition technology"
     excerpt: "Harry Reid International Airport in Las Vegas is part of a pilot project by the TSA to assess the use of facial recognition technology."
     publishedDateTime: 2023-05-17T16:42:00Z
@@ -166,6 +152,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Harry Reid International Airport in Las Vegas testing TSA facial recognition technology"
+    excerpt: "It's all part of a pilot project by the Transportation Security Administration to assess the use of facial recognition technology at a number of airports across the country, including Harry Reid ..."
+    publishedDateTime: 2023-05-18T04:10:00Z
+    webUrl: "https://www.rgj.com/story/news/2023/05/16/las-vegas-airport-among-ttsa-is-testing-facial-recognition-at-more-airports-raising-privacy-concerns/70223093007/"
+    type: article
+    provider:
+      name: Reno Gazette-Journal
+      domain: rgj.com
+    quality: 26
   - title: "TSA testing facial recognition technology, prompting privacy concerns"
     excerpt: "A new project by the Transportation Security Administration is using facial recognition software to verify identities."
     publishedDateTime: 2023-05-16T06:19:00Z
