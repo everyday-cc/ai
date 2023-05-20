@@ -7,7 +7,7 @@ originalUrl: "https://www.finextra.com/pressarticle/96868/saifr-introduces-risk-
 webUrl: "https://www.finextra.com/pressarticle/96868/saifr-introduces-risk-interpretation-and-suggested-language-ai-models-for-compliant-content-creation"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -25,38 +25,38 @@ images:
     isCached: true
 
 related:
-  - title: "FinTech Regulation and Compliance: Navigating the Landscape to Ensure Data Privacy"
-    excerpt: "To keep up with the advancements in technologies like blockchain, AI, and cryptocurrencies, FinTech companies are overhauling their existing models to ensure compliance with global data protection regulations like the GDPR, LGPD, and CCPA, in addition to ..."
-    publishedDateTime: 2023-05-18T15:15:00Z
-    webUrl: "https://www.finextra.com/blogposting/24224/fintech-regulation-and-compliance-navigating-the-landscape-to-ensure-data-privacy"
+  - title: "ActiveCampaign Introduces Content Generation Powered by AI"
+    excerpt: "The marketing automation provider invests in generative AI, helping customers improve engagement, conversion rates, and the overall customer"
+    publishedDateTime: 2023-05-16T11:14:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/activecampaign-introduces-content-generation-powered-by-ai-1032330723"
     type: article
     provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 18
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 67
     images:
-      - url: "https://www.finextra.com/finextra-images/visible_pictures/dfe92e99-e72f-4d86-a07a-8431087d475a.png"
-        width: 500
-        height: 261
+      - url: "https://mma.prnewswire.com/media/2077354/Chat_GPT_AI_Assistant___Opengraph_Twitter_Linkedin.jpg"
+        width: 400
+        height: 210
         isCached: true
-  - title: "Content Automation & AI: Creative Production Insights from the Localisation Industry"
-    excerpt: "Little Black Book, Locaria's Lindsay Hong on how creative production should embrace automation, following the transformative example of machine translation and AI in the language services sector"
-    publishedDateTime: 2023-05-19T11:32:00Z
-    webUrl: "https://www.lbbonline.com/news/content-automation-ai-creative-production-insights-from-the-localisation-industry"
-    type: article
-    provider:
-      name: lbbonline
-      domain: lbbonline.com
-    quality: 12
-  - title: "Saifr™ Introduces Risk Interpretation and Suggested Language AI Models to Accelerate Compliant Content Creation"
-    excerpt: "Saifr's natural language processing (NLP) models \"read\" content and flag potential compliance risks in text and images. Risks are flagged as promissory, misleading, exaggerated, unwarranted or not fair and balanced."
-    publishedDateTime: 2023-05-16T13:24:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/05/16/9815209.htm"
+  - title: "dataPARC Introduces AWS and Azure-Compatible Data Historian Platform for Advanced Industrial Applications and Cloud AI/ML Integration"
+    excerpt: "PRNewswire/ -- dataPARC, innovators in industrial analytics and manufacturing decision support, today announced the release of its next-generation data historian platform, aimed at delivering federated plant operations data to engineering,"
+    publishedDateTime: 2023-05-16T14:16:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/05/16/9815052.htm"
     type: article
     provider:
       name: TMCnet
       domain: tmcnet.com
-    quality: 0
+    quality: 37
+  - title: "Hitachi Establishes New Generative AI Center To Accelerate Value Creation..."
+    excerpt: "Hitachi Establishes New Generative AI Center to Accelerate Value Creation and Improve Productivity in the Lumada business by promoting the use of G"
+    publishedDateTime: 2023-05-15T19:32:00Z
+    webUrl: "https://menafn.com/1106245586/Hitachi-Establishes-New-Generative-AI-Center-To-Accelerate-Value-Creation-And-Improve-Productivity-In-The-Lumada-Business-By-Promoting-The-Use-Of-Generative-AI"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 18
 
 secured: "fm5V6XYQl0NQH7+v+XSXm1EbiiFBWnUVqruIIMIo1Gh3adUiGjuNCGEoEKpa4NDkScviuM0ociba8K7ppitlIlnP4NzwEwqtxBC43u/cYnjJoYY0DMDyoFPvGSQM+sX32xAGm/Z5nnGrV0jqOLLUW1512ezxw2927wlmHgBwSH2rZAj3HLy6aL8cIre0vwVZBgjAGAjfnJkxg+DD8LOtQSbW+hOZTDaVrY92+7Fzhc3J0L6YfGjJroehiinV2pRfegWrCc4qg8c7Cl2ZjORFybaolYKZ2g1rXw4JH3LBljyfZ6aDxZlAhgNGv0tixIlvQoAMSyH3vn0x1Kv4pH9VmG3aghspvgY9+EQeaOnVCLs=;9YaN0s65Fz63DeXQBA1gXw=="
 ---

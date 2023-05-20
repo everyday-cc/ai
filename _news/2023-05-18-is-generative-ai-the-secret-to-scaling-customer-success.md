@@ -18,22 +18,128 @@ topics:
   - AI
 
 related:
-  - title: "From horrific jokes about dog sex to ruining Succession: AI’s terrible attempt to write TV"
-    excerpt: "We ask ChatGPT to recreate scenes from recent TV classics – and the results are hilariously dreadful. Hollywood execs may want to rethink that plan to have AI start writing our"
-    publishedDateTime: 2023-05-17T10:09:00Z
-    webUrl: "https://www.theguardian.com/tv-and-radio/2023/may/17/from-horrific-jokes-about-dog-sex-to-ruining-succession-ais-terrible-attempt-to-write-tv"
-    ampWebUrl: "https://amp.theguardian.com/tv-and-radio/2023/may/17/from-horrific-jokes-about-dog-sex-to-ruining-succession-ais-terrible-attempt-to-write-tv"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/tv-and-radio/2023/may/17/from-horrific-jokes-about-dog-sex-to-ruining-succession-ais-terrible-attempt-to-write-tv"
+  - title: "Apple is on the hunt for generative AI talent"
+    excerpt: "Apple currently has a dozen of job postings on its career page to look for experts in the field of generative AI."
+    publishedDateTime: 2023-05-19T16:23:00Z
+    webUrl: "https://techcrunch.com/2023/05/19/apple-generative-ai-jobs/"
+    ampWebUrl: "https://techcrunch.com/2023/05/19/apple-generative-ai-jobs/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/19/apple-generative-ai-jobs/amp/"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1247232650.jpg?resize=1200,700"
+        width: 1200
+        height: 700
+        isCached: true
+  - title: "Parallel Domain unveils Reactor, a generative AI-based synthetic data generation engine"
+    excerpt: "New tool from Parallel Domain enhances AI performance in industries such as autonomous vehicles and drones by hgeneratingigh-quality images."
+    publishedDateTime: 2023-05-17T21:15:00Z
+    webUrl: "https://venturebeat.com/ai/parallel-domain-unveils-reactor-a-generative-ai-based-synthetic-data-generation-engine/"
+    ampWebUrl: "https://venturebeat.com/ai/parallel-domain-unveils-reactor-a-generative-ai-based-synthetic-data-generation-engine/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/parallel-domain-unveils-reactor-a-generative-ai-based-synthetic-data-generation-engine/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 79
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/05/1-highly-preferred-option-reflects-the-diversity-of-what-Gen-AI-can-generate.jpg?w=1200&strip=all"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Study combines quantum computing and generative AI for drug discovery"
+    excerpt: "Insilico Medicine, a clinical stage generative artificial intelligence (AI)-driven drug discovery company, today announced that it combined two rapidly developing technologies, quantum computing and generative AI,"
+    publishedDateTime: 2023-05-19T13:54:00Z
+    webUrl: "https://phys.org/news/2023-05-combines-quantum-generative-ai-drug.html"
+    ampWebUrl: "https://phys.org/news/2023-05-combines-quantum-generative-ai-drug.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-05-combines-quantum-generative-ai-drug.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 57
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/insilico-medicine-led-1.jpg"
+        width: 2500
+        height: 1313
+        isCached: true
+  - title: "Google’s Vertex AI machine learning platform gets generative AI tools"
+    excerpt: "The new updates to Google Cloud’s machine learning service will help the company square up against rivals such as Microsoft, AWS and IBM."
+    publishedDateTime: 2023-05-16T05:37:00Z
+    webUrl: "https://www.arnnet.com.au/article/707102/google-vertex-ai-machine-learning-platform-gets-generative-ai-tools/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 56
+    images:
+      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/dreamstime_s_125457497_2.jpg"
+        width: 473
+        height: 315
+        isCached: true
+  - title: "Meet the Startup Promising to Deliver the 1st Healthcare-focused Generative AI Model"
+    excerpt: "Hippocratic AI emerged from stealth, as well as announced $50 million in seed funding through a round co-led by General Catalyst and Andreessen Horowitz. The Palo Alto-based startup bills itself as the first large language model designed specifically for healthcare."
+    publishedDateTime: 2023-05-16T22:34:00Z
+    webUrl: "https://medcitynews.com/2023/05/chatgpt-gpt4-burnout-generative-ai-healthcare-workforce-general-catalyst-andreessen-horowitz/"
+    type: article
+    provider:
+      name: MedCity News
+      domain: medcitynews.com
     quality: 47
     images:
-      - url: "https://i.guim.co.uk/img/media/f634c58af884fa4496b0bcc725e6c7d8c6c4e649/0_124_6000_3600/master/6000.jpg?width=620&quality=85&auto=format&fit=max&s=739d2c3ad6ce2c2e8ca657d72721826c"
-        width: 620
-        height: 372
+      - url: "https://medcitynews.com/uploads/2023/03/GettyImages-1465456623.jpg"
+        width: 724
+        height: 483
         isCached: true
+  - title: "This Magnificent Fintech Stock Is Surprisingly Climbing Aboard the Generative AI Train"
+    excerpt: "Therefore, AI is the hot topic of 2023. And fintech company Block (NYSE: SQ) has officially entered the conversation. To be clear, almost all technology companies have used some form of AI or ..."
+    publishedDateTime: 2023-05-16T10:37:00Z
+    webUrl: "https://www.nasdaq.com/articles/this-magnificent-fintech-stock-is-surprisingly-climbing-aboard-the-generative-ai-train"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 41
+  - title: "State of AI adoption for enterprise IT management in the Middle East"
+    excerpt: "With large language models (LLMs) in the market, the AI hype cycle is at an all-time high, and AI adoption is gaining traction."
+    publishedDateTime: 2023-05-19T11:30:00Z
+    webUrl: "https://gulfbusiness.com/state-of-ai-adoption-in-the-middle-east/"
+    type: article
+    provider:
+      name: Gulf Business
+      domain: gulfbusiness.com
+    quality: 39
+    images:
+      - url: "https://gulfbusiness.com/wp-content/uploads/2023/05/digitization-4770296_1920.jpg"
+        width: 930
+        height: 620
+        isCached: true
+  - title: "Generative AI tools could help companies solve labor and talent shortages, SAP says"
+    excerpt: "Partnership with Microsoft uses latest AI tech to write job descriptions, draft interview questions, suggest training for new skills."
+    publishedDateTime: 2023-05-16T17:25:00Z
+    webUrl: "https://www.dcvelocity.com/articles/57485-generative-ai-tools-could-help-companies-solve-labor-and-talent-shortages-sap-says"
+    type: article
+    provider:
+      name: DC Velocity
+      domain: dcvelocity.com
+    quality: 33
+    images:
+      - url: "https://www.dcvelocity.com/ext/resources/2023/05/16/SAP-AI-Related_281266_MachineLearning_C.jpeg?height=1200&t=1684258053&width=635"
+        width: 300
+        height: 373
+        isCached: true
+  - title: "Amazon is working on infusing generative AI into its shopping app"
+    excerpt: "Rivals adding generative AI features and consumer demand may be the two reasons behind Amazon’s push in revamping the search engine of its retail application. In the US, about 56% of product searches start on Amazon, higher than the 42% share of search ..."
+    publishedDateTime: 2023-05-16T09:52:00Z
+    webUrl: "https://www.computerworld.com/article/3696691/amazon-is-working-on-infusing-generative-ai-into-its-shopping-app.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 17
 
 secured: "Ph1jouCGE/8e4a/NdStmFGWOP+BOE3zGqHyW/ku7KvVgdc8hc0n1Kwu7xDL+Q9Tw2+hcmC6V6+JlY2xnNjf04/iOvTNqBOhj7XgijeqsxQDJfB9uDVE7rDNzn4qpdyTdIpY+k6PWahekULsqAL2C0CFDGNycbG3+ywUb6PsXYXz8353aBxMCPr8FcSiiNzE/RRYUHa1+7rgrFhUMCHbFOS8HHjaR0buo1SS0ioxPKTaaoJbxr9d7zegQHYFTRUddXIVnU5nXKuEnmFGPaQxFdAgXYiVRHOceXsPkhNvB80b0GjUSwy9mrqLH1QelNB3vebTLdjJVt0YRGVHtQX7OSK35+FBbQWlcdhm6U+6tNA9jdRVhEUw6aYodQWQBVDR+wlA3fiyLXLjW26POJElJ2cfitlsASrl0zdMnLYdq+ClkrjMwwZwwnHOeTN6H1QF55gvigCSArVQAftlRlIGfS1cT07tdvMF3RH1ja8K2Irq1Sd9MdPT5/o1kKH8WR291nNcZscsafGdz6GBNvgEL+Q==;jsAqEt5xX2RadJkUFrmLoQ=="
 ---

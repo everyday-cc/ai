@@ -7,7 +7,7 @@ originalUrl: "https://www.asiaone.com/business/governments-and-enterprises-middl
 webUrl: "https://www.asiaone.com/business/governments-and-enterprises-middle-east-join-forces-drive-ai-innovation-world-ai-show"
 type: article
 quality: 5
-heat: -1
+heat: 5
 published: false
 
 provider:
@@ -17,22 +17,6 @@ provider:
 topics:
   - AI Ethics
   - AI
-
-related:
-  - title: "State of AI adoption for enterprise IT management in the Middle East"
-    excerpt: "With large language models (LLMs) in the market, the AI hype cycle is at an all-time high, and AI adoption is gaining traction."
-    publishedDateTime: 2023-05-19T11:30:00Z
-    webUrl: "https://gulfbusiness.com/state-of-ai-adoption-in-the-middle-east/"
-    type: article
-    provider:
-      name: Gulf Business
-      domain: gulfbusiness.com
-    quality: 39
-    images:
-      - url: "https://gulfbusiness.com/wp-content/uploads/2023/05/digitization-4770296_1920.jpg"
-        width: 930
-        height: 620
-        isCached: true
 
 secured: "kG3rEsZW370OVBVm73TGrlIgQHGAfKRWNo1Mb2UoY7FvGjE4Di1sgkHVGMS4VxZOmCfwt5zkanhE5nDB8T7YTyNClJ3ToJ2zIjs9PCeNvGDes8LBrdQZpsb2LruRcqYgnP6T2wXh105YyXVDmtVuVaF40on/pcVrjFbIS6Qx66ZqEwQI8uNLMyF9A2ismxX/iY1hpTii/kAkIQA3xRFkQ2io6P65iBEhZRDd51Hl1aRYHvk3V+mt8peiApCEFTD6ezYdG7DeQvfSy6X0nFpWsHbfKHcU9lrplatlegSf40P/kNUG7UxxABXXp94//4rpvPrg5aSQBkT2nURGXlo5C2CzfjsPXsPtKLklZa53E3or4rgx9kZsydD6BIjen+KAbIL0DUiLkob6LQiDm13gc0lhaE2BROcY2lad9GSafKKLTldH4f/2/RQ+P/4N4XFgcIdAyArptz6xWuKWpbr20LtvtUZ8+XuuCWvo4VQNYNPZTojAZSENrIaeEn0nExSbgQ6R+SGEtLzBXbZzUnOnBQ==;KQLPxbge07RMdgdSg7GR/A=="
 ---

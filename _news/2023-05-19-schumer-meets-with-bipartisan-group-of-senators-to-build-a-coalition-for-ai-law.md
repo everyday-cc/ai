@@ -34,15 +34,6 @@ related:
       name: Fox News
       domain: foxnews.com
     quality: 49
-  - title: "U.S. lawmakers grapple with regulating artificial intelligence"
-    excerpt: "U.S. lawmakers will hear from artificial intelligence experts on Tuesday as Congress grapples with how to regulate AI, a field that has seen explosive advances and a boom in popularity over the past year."
-    publishedDateTime: 2023-05-16T08:53:00Z
-    webUrl: "https://www.cnn.com/videos/us/2023/05/16/exp-senate-hearing-artificial-intelligence-lori-schwartz-intv-051602aseg1-cnni-us.cnn"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 47
 
 secured: "6D4PjOXsq90iK/QEHdWPXLdKCbdcNB6LPp9mnVvvCnthUZEBr0TL+NxASBZO/i2O7n0sjeFJja5fqwxzPyssQYO4HAHvpDvtFA3IBEI9TU5v7VzprrgAchFDq/7TabR/R0v/cYFbjJgqLCmTaZ/8tFljdNp8pNaPDncyna2CZw/MKw/Bc48yzmZ7l8hiYKsQHA56Rm1IydTQR5TvEWLuBUxujYkvEiVT9TnqHbQURlIc6VBssJ4uRimup2bWmfC1AmSEpmcakpz971gF0BllfUM/LwVeV3vV7bejbgOcPKcc8Q2EcBpPMWmKqksB23htju5eH3qEVENZiZ+60pe0bLwQYD043TxoFEVP4/TZlMM=;QAlX6Wev140sJfaLti2vgQ=="
 ---

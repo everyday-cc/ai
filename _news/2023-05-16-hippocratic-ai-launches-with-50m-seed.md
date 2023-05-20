@@ -78,6 +78,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 64
+  - title: "Hippocratic AI launches with $50M to build a chatbot for healthcare"
+    excerpt: "There’s a newcomer artificial intelligence company on the block that wants to introduce the power of a conversational chatbot for the healthcare industry: Hippocratic AI Inc., which just launched with $50 million in funding co-led by General Catalyst and Andreessen Horowitz."
+    publishedDateTime: 2023-05-16T18:54:00Z
+    webUrl: "https://siliconangle.com/2023/05/16/hippocratic-ai-launches-50m-build-chatbot-healthcare/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 54
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/03/stethoscope-2617701_1280.jpg"
+        width: 1280
+        height: 816
+        isCached: true
   - title: "Visual Layer raises $7M to clean up image datasets for AI training"
     excerpt: "Data quality startup Visual Layer Inc. announced today it has closed on a $7 million seed funding round led by Madrona Venture Group and Insight Partners and will use the money to build out its managed service for curating large-scale image sets used to train computer vision models."
     publishedDateTime: 2023-05-16T23:59:00Z

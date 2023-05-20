@@ -232,20 +232,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Microsoft Security highlights from RSA Conference 2023"
-    excerpt: "Read a recap of memorable moments from Microsoft Security's participation in RSAC 2023 and watch Vasu Jakkal's keynote address on-demand."
-    publishedDateTime: 2023-05-15T16:00:00Z
-    webUrl: "https://www.microsoft.com/en-us/security/blog/2023/05/15/microsoft-security-highlights-from-rsa-conference-2023/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 56
-    images:
-      - url: "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2023/05/Vasu-1_900_2_cropped.jpg"
-        width: 900
-        height: 394
-        isCached: true
   - title: "Microsoft’s Bing AI adds contextual chat, widget on Android and iOS"
     excerpt: "Microsoft has just delivered a bunch of updates to Bing AI, including contextual chat and a new widget on Android and iOS."
     publishedDateTime: 2023-05-16T16:19:00Z

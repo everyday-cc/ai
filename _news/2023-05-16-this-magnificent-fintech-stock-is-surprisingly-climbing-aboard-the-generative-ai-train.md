@@ -19,180 +19,128 @@ topics:
   - AI
 
 related:
-  - title: "Bahrain set to host top fintech summit"
-    excerpt: "Under the patronage of the Central Bank of Bahrain (CBB), the three-day event will be held in a strategic partnership with the Bahrain Economic Development Board (EDB), and powered by Bahrain FinTech"
-    publishedDateTime: 2023-05-18T08:53:00Z
-    webUrl: "https://www.zawya.com/en/world/middle-east/bahrain-set-to-host-top-fintech-summit-hoiy388r"
-    ampWebUrl: "https://www.zawya.com/en/world/middle-east/bahrain-set-to-host-top-fintech-summit-hoiy388r?amp=1"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/world/middle-east/bahrain-set-to-host-top-fintech-summit-hoiy388r?amp=1"
+  - title: "Apple is on the hunt for generative AI talent"
+    excerpt: "Apple currently has a dozen of job postings on its career page to look for experts in the field of generative AI."
+    publishedDateTime: 2023-05-19T16:23:00Z
+    webUrl: "https://techcrunch.com/2023/05/19/apple-generative-ai-jobs/"
+    ampWebUrl: "https://techcrunch.com/2023/05/19/apple-generative-ai-jobs/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/19/apple-generative-ai-jobs/amp/"
     type: article
     provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 59
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
     images:
-      - url: "https://static.zawya.com/view/acePublic/alias/contentid/MTljZGQxZGYtZTZjNC00/2/180308083038dsae-jpg.jpeg?f=3%3A2"
-        width: 723
-        height: 482
-        isCached: true
-  - title: "Top trends in the fintech space"
-    excerpt: "May 17, marks the annually observed World Telecommunications and Information Society Day (WTISD). Now in its 17th year, WTISD has helped to raise awareness of the possibilities that"
-    publishedDateTime: 2023-05-17T05:43:00Z
-    webUrl: "https://www.jamaicaobserver.com/business/top-trends-in-the-fintech-space/"
-    ampWebUrl: "https://www.jamaicaobserver.com/business/top-trends-in-the-fintech-space/amp/"
-    cdnAmpWebUrl: "https://www-jamaicaobserver-com.cdn.ampproject.org/c/s/www.jamaicaobserver.com/business/top-trends-in-the-fintech-space/amp/"
-    type: article
-    provider:
-      name: The Jamaica Observer
-      domain: jamaicaobserver.com
-    quality: 44
-    images:
-      - url: "https://imengine.public.prod.jam.navigacloud.com/?uuid=972d3ff5-35e6-59fa-9452-6b64552945ae&function=fit&type=preview"
-        width: 500
-        height: 223
-        isCached: true
-  - title: "The Ethical Dilemmas of Fintech Breed Distrust; Top 3 Challenges"
-    excerpt: "Financial technology is yet another digital convenience streamlining everyday financial transactions that used to require standing in line at a bank, writing checks, or navigating between several websites."
-    publishedDateTime: 2023-05-16T21:15:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/05/n32435011/the-ethical-dilemmas-of-fintech-breed-distrust-top-3-challenges"
-    ampWebUrl: "https://www.benzinga.com/amp/content/32435011"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32435011"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 41
-  - title: "Opportunities remain for fintech to turbocharge MSME growth"
-    excerpt: "Mere disruptors no more, financial technologies have offered considerable evidence that affirm them as significant contributors to economies and its digital ecosystems."
-    publishedDateTime: 2023-05-16T16:00:00Z
-    webUrl: "https://www.philstar.com/opinion/2023/05/17/2266852/opportunities-remain-fintech-turbocharge-msme-growth"
-    type: article
-    provider:
-      name: philstar.com
-      domain: philstar.com
-    quality: 39
-    images:
-      - url: "https://media.philstar.com/images/filler/opinion-logo-filler-thumbnail.jpg"
-        width: 800
-        height: 533
-        isCached: true
-  - title: "Opportunities remain for fintech to turbocharge MSME growth"
-    excerpt: "Speaking from a fintech’s point-of-view, the positive impact of digital technologies on solving the credit constraint of MSME enterprises has been noted at the scientific level, with AI-based credit fintech solutions able to provide an adequate response ..."
-    publishedDateTime: 2023-05-18T05:05:00Z
-    webUrl: "https://www.philstar.com/other-sections/newsmakers/2023/05/17/2266852/opportunities-remain-fintech-turbocharge-msme-growth"
-    type: article
-    provider:
-      name: philstar.com
-      domain: philstar.com
-    quality: 39
-    images:
-      - url: "https://media.philstar.com/images/filler/logo-filler-thumbnail.jpg"
-        width: 686
-        height: 392
-        isCached: true
-  - title: "Rising importance of AI in the fintech space"
-    excerpt: "Advantage of AI in fintech industry is its capacity to automate and augment a multitude of laborious processes related to banking"
-    publishedDateTime: 2023-05-18T11:25:00Z
-    webUrl: "https://www.dqindia.com/rising-importance-of-ai-in-the-fintech-space/"
-    ampWebUrl: "https://www.dqindia.com/rising-importance-of-ai-in-the-fintech-space/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/rising-importance-of-ai-in-the-fintech-space/amp/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 39
-  - title: "Nextech3D.AI adds 2 million in growth capital cash from FinTech Ratio Tech"
-    excerpt: "CEO Evan Gappelberg joined Steve Darling from Proactive to share news the company the company has added 2 million dollars in cash to the bottom line without share dilution by doing a deal with FinTech Ratio Tech and its 400 million dollar credit fund."
-    publishedDateTime: 2023-05-18T13:57:00Z
-    webUrl: "https://www.proactiveinvestors.com/companies/news/1015471/nextech3d-ai-adds-2-million-in-growth-capital-cash-from-fintech-ratio-tech-1015471.html"
-    type: article
-    provider:
-      name: Proactiveinvestors
-      domain: proactiveinvestors.com
-    quality: 37
-    images:
-      - url: "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDIzXzA1XC9TY3JlZW5zaG90LTIwMjMtMDEtMTctYXQtNi0wMS0zNi1BTV82NDY2M2QwM2ViZjUzLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0Ijo2MzAsImZpdCI6ImNvdmVyIn19fQ=="
+      - url: "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1247232650.jpg?resize=1200,700"
         width: 1200
-        height: 630
+        height: 700
         isCached: true
-  - title: "Pepper Advantage, fintech startup Techverse in M&A news"
-    excerpt: "Rieom.ai is a Pune-based startup whose flagship product is an AI ... documents to identify fraud risks and other suspicious behaviour prior to credit approval. Fintech startup Techurate Systems Pvt. Ltd announced on Wednesday its acquisition of Techverve ..."
-    publishedDateTime: 2023-05-17T14:39:00Z
-    webUrl: "https://www.vccircle.com/pepperadvantage-fintech-startup-techverse-in-m-a-news"
+  - title: "Parallel Domain unveils Reactor, a generative AI-based synthetic data generation engine"
+    excerpt: "New tool from Parallel Domain enhances AI performance in industries such as autonomous vehicles and drones by hgeneratingigh-quality images."
+    publishedDateTime: 2023-05-17T21:15:00Z
+    webUrl: "https://venturebeat.com/ai/parallel-domain-unveils-reactor-a-generative-ai-based-synthetic-data-generation-engine/"
+    ampWebUrl: "https://venturebeat.com/ai/parallel-domain-unveils-reactor-a-generative-ai-based-synthetic-data-generation-engine/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/parallel-domain-unveils-reactor-a-generative-ai-based-synthetic-data-generation-engine/amp/"
     type: article
     provider:
-      name: VCCircle
-      domain: vccircle.com
-    quality: 24
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 79
     images:
-      - url: "https://assets.vccircle.com/uploads/2022/07/MnAmergeracquisitionrfl.jpg"
-        width: 810
-        height: 506
+      - url: "https://venturebeat.com/wp-content/uploads/2023/05/1-highly-preferred-option-reflects-the-diversity-of-what-Gen-AI-can-generate.jpg?w=1200&strip=all"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Fintech Startup Techverve and Pepper Advantage in M&A News"
-    excerpt: "Fintech Startup Techverve and Pepper Advantage in M&A News - Global credit intelligence company Pepper Advantage announced, the acquisition of artificial"
-    publishedDateTime: 2023-05-18T03:23:00Z
-    webUrl: "https://www.siliconindia.com/news/startups/fintech-startup-techverve-and-pepper-advantage-in-ma-news-nid-223026-cid-19.html"
+  - title: "Study combines quantum computing and generative AI for drug discovery"
+    excerpt: "Insilico Medicine, a clinical stage generative artificial intelligence (AI)-driven drug discovery company, today announced that it combined two rapidly developing technologies, quantum computing and generative AI,"
+    publishedDateTime: 2023-05-19T13:54:00Z
+    webUrl: "https://phys.org/news/2023-05-combines-quantum-generative-ai-drug.html"
+    ampWebUrl: "https://phys.org/news/2023-05-combines-quantum-generative-ai-drug.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-05-combines-quantum-generative-ai-drug.amp"
     type: article
     provider:
-      name: SiliconIndia
-      domain: siliconindia.com
-    quality: 24
+      name: Phys.org
+      domain: phys.org
+    quality: 57
     images:
-      - url: "https://www.siliconindia.com/news/newsimages/Ehk1BU3D.jpg"
-        width: 570
-        height: 367
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/insilico-medicine-led-1.jpg"
+        width: 2500
+        height: 1313
         isCached: true
-  - title: "Climate Fintech: The Key to Unlocking Wider Climate Tech Solutions"
-    excerpt: "Even with challenges such as a lack of standardised ESG reporting, limited access to quality climate risk data, and regulatory hurdles likely to slow down the adoption of new technologies, climate fintech has the potential to transform the entire climate tech sector and be an integral part of the solution to combat climate change."
-    publishedDateTime: 2023-05-19T14:45:00Z
-    webUrl: "https://financialit.net/blog/fintech/climate-fintech-key-unlocking-wider-climate-tech-solutions"
+  - title: "Google’s Vertex AI machine learning platform gets generative AI tools"
+    excerpt: "The new updates to Google Cloud’s machine learning service will help the company square up against rivals such as Microsoft, AWS and IBM."
+    publishedDateTime: 2023-05-16T05:37:00Z
+    webUrl: "https://www.arnnet.com.au/article/707102/google-vertex-ai-machine-learning-platform-gets-generative-ai-tools/"
     type: article
     provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 24
+      name: ARN
+      domain: arnnet.com.au
+    quality: 56
     images:
-      - url: "https://financialit.net/sites/default/files/lee_chin_jian_3417_copy.png"
-        width: 399
-        height: 432
+      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/dreamstime_s_125457497_2.jpg"
+        width: 473
+        height: 315
         isCached: true
-  - title: "Data security issues Fintech firms are facing"
-    excerpt: "The covid crisis represented a big concern in the fintech sector. First, more people are remotely managing their money with technology. Second, that’s led to new data security challenges. Hackers are"
-    publishedDateTime: 2023-05-18T11:06:00Z
-    webUrl: "https://techround.co.uk/cybersecurity/data-security-issues-fintech-firms-are-facing/"
+  - title: "Meet the Startup Promising to Deliver the 1st Healthcare-focused Generative AI Model"
+    excerpt: "Hippocratic AI emerged from stealth, as well as announced $50 million in seed funding through a round co-led by General Catalyst and Andreessen Horowitz. The Palo Alto-based startup bills itself as the first large language model designed specifically for healthcare."
+    publishedDateTime: 2023-05-16T22:34:00Z
+    webUrl: "https://medcitynews.com/2023/05/chatgpt-gpt4-burnout-generative-ai-healthcare-workforce-general-catalyst-andreessen-horowitz/"
     type: article
     provider:
-      name: TechRound
-      domain: techround.co.uk
-    quality: 21
-  - title: "Nextech3D.ai Receives $2 Million in Cash From $400 million FinTech Ratio Tech"
-    excerpt: "With access to a $400 million credit facility, Ratio is able to fund Nextech3D.ai Accounts Receivables With Zero dilution For The Foreseeable Future"
-    publishedDateTime: 2023-05-18T11:45:00Z
-    webUrl: "https://tulsaworld.com/ap/state/nextech3d-ai-receives-2-million-in-cash-from-400-million-fintech-ratio-tech/article_3eefe327-531a-522e-b87b-da964e5c6b12.html"
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 47
+    images:
+      - url: "https://medcitynews.com/uploads/2023/03/GettyImages-1465456623.jpg"
+        width: 724
+        height: 483
+        isCached: true
+  - title: "State of AI adoption for enterprise IT management in the Middle East"
+    excerpt: "With large language models (LLMs) in the market, the AI hype cycle is at an all-time high, and AI adoption is gaining traction."
+    publishedDateTime: 2023-05-19T11:30:00Z
+    webUrl: "https://gulfbusiness.com/state-of-ai-adoption-in-the-middle-east/"
     type: article
     provider:
-      name: Tulsa World
-      domain: tulsaworld.com
-    quality: 16
-  - title: "Nextech3D.AI receives initial $2M cash infusion from fintech firm Ratio Technology"
-    excerpt: "Nextech3D.AI (CSE:NTAR, OTCQX:NEXCF) said it has received an initial $2 million cash infusion from fintech firm Ratio Technology. The funding represents a zero-dilutive capital source for the company as the cash was paid against future invoices for ..."
-    publishedDateTime: 2023-05-18T12:06:00Z
-    webUrl: "https://www.proactiveinvestors.com/companies/news/1015405/nextech3d-ai-receives-initial-2m-cash-infusion-from-fintech-firm-ratio-technology-1015405.html"
+      name: Gulf Business
+      domain: gulfbusiness.com
+    quality: 39
+    images:
+      - url: "https://gulfbusiness.com/wp-content/uploads/2023/05/digitization-4770296_1920.jpg"
+        width: 930
+        height: 620
+        isCached: true
+  - title: "Generative AI tools could help companies solve labor and talent shortages, SAP says"
+    excerpt: "Partnership with Microsoft uses latest AI tech to write job descriptions, draft interview questions, suggest training for new skills."
+    publishedDateTime: 2023-05-16T17:25:00Z
+    webUrl: "https://www.dcvelocity.com/articles/57485-generative-ai-tools-could-help-companies-solve-labor-and-talent-shortages-sap-says"
     type: article
     provider:
-      name: Proactiveinvestors
-      domain: proactiveinvestors.com
-    quality: 13
-  - title: "Partnerships Play A Key Role In Fintech's Future"
-    excerpt: "Partnerships Play a Key Role in Fintech's Future Vancouver, Kelowna, and Delta, British Columbia--(Newsfile Corp. - May 16, 2023) - investorideas"
-    publishedDateTime: 2023-05-16T12:43:00Z
-    webUrl: "https://menafn.com/1106252789/Partnerships-Play-A-Key-Role-In-Fintechs-Future"
+      name: DC Velocity
+      domain: dcvelocity.com
+    quality: 33
+    images:
+      - url: "https://www.dcvelocity.com/ext/resources/2023/05/16/SAP-AI-Related_281266_MachineLearning_C.jpeg?height=1200&t=1684258053&width=635"
+        width: 300
+        height: 373
+        isCached: true
+  - title: "Amazon is working on infusing generative AI into its shopping app"
+    excerpt: "Rivals adding generative AI features and consumer demand may be the two reasons behind Amazon’s push in revamping the search engine of its retail application. In the US, about 56% of product searches start on Amazon, higher than the 42% share of search ..."
+    publishedDateTime: 2023-05-16T09:52:00Z
+    webUrl: "https://www.computerworld.com/article/3696691/amazon-is-working-on-infusing-generative-ai-into-its-shopping-app.html"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 4
+      name: Computerworld
+      domain: computerworld.com
+    quality: 17
+  - title: "Is generative AI the secret to scaling customer success?"
+    excerpt: "Generative AI can even learn to personalize the tone, style, and voice of your content to fit your brand so that all you need to do is fact-check, finesse, and humanize it. But amid all this promise, where do you start incorporating AI into your customer ..."
+    publishedDateTime: 2023-05-18T13:32:00Z
+    webUrl: "https://www.fastcompany.com/90896251/is-generative-ai-the-secret-to-scaling-customer-success"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 17
 
 secured: "YGcE5T+0IsWsbRkrlzHUzg+gZNjMHbxHJK++LrMXhm385Va3Fo5GZqEm3rLRqOzEWHcM6nA/GmMuPUZNu3ibZi4jqrDJxQWFaZftiX6wFeX0GNjpXHHRLc97vQyx7T/8h+8fVcxplQVty2qF3Nvmezg0MFqErhQlu8aPIUuPrRS8NwTMG1f82Vq8ebQaE3S9qF4lnyDI5rvF5tePHdVnL3jB+6tY9DvjTsctG9GZlUdeNWYAyR+KY13FlBNLZ4BjQtTF/4aJe3lzrK/7R1UIZEoGEdarHWf3CSoBsf4lR0Yh8iefM6gch7UO3BjnDCLps+xB3tfpFGtkzt9iDW8R0xxqvZZG7l1iGH5X6rS+07A=;iAv9Ksp/23lRF+nlpMOaKQ=="
 ---

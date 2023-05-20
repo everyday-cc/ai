@@ -7,7 +7,7 @@ originalUrl: "https://www.eweek.com/artificial-intelligence/ibm-think-2023-ai-an
 webUrl: "https://www.eweek.com/artificial-intelligence/ibm-think-2023-ai-and-quantum-computing/"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Study combines quantum computing and generative AI for drug discovery"
-    excerpt: "Insilico Medicine, a clinical stage generative artificial intelligence (AI)-driven drug discovery company, today announced that it combined two rapidly developing technologies, quantum computing and generative AI,"
-    publishedDateTime: 2023-05-19T13:54:00Z
-    webUrl: "https://phys.org/news/2023-05-combines-quantum-generative-ai-drug.html"
-    ampWebUrl: "https://phys.org/news/2023-05-combines-quantum-generative-ai-drug.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-05-combines-quantum-generative-ai-drug.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 57
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/insilico-medicine-led-1.jpg"
-        width: 2500
-        height: 1313
-        isCached: true
   - title: "GIGABYTE Unveils Revolutionary AI Computing Servers at COMPUTEX 2023"
     excerpt: "GIGABYTE, announces its unprecedented exhibits at COMPUTEX 2023. Resonating its theme “Future of COMPUTING”, GIGABYTE is unveiling its all-around technical achievements, including industry-leading AI/HPC servers, green computing solutions, gaming and creator products, industrial PC, AI smart securities, and autonomous vehicle technology."
     publishedDateTime: 2023-05-17T04:47:00Z

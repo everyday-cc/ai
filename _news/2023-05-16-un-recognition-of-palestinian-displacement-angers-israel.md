@@ -20,17 +20,6 @@ topics:
   - Natural Language Processing
   - AI
 
-related:
-  - title: "In UNGA speech, President Abbas urges colonial states to redress historical injustice inflicted on Palestinian people"
-    excerpt: "President Mahmoud Abbas today urged the colonial states to redress the historical injustice inflicted on the Palestinian people. Speaking before the United Nations General Assembly (UNGA) at the UN Headquarters in New York in high-level meeting dedicated for the first time in UN history to mark the 75th anniversary of the Nakba,"
-    publishedDateTime: 2023-05-15T16:13:00Z
-    webUrl: "https://english.wafa.ps/Pages/Details/135818"
-    type: article
-    provider:
-      name: Wafa
-      domain: wafa.ps
-    quality: 0
-
 secured: "VIYAPqZKgZ2IV5tmWGwwUS94f5EBt47q/OS+bltG+GH/dutCmwuMYJ2wDJnZ1bBkfxjsK9ouO1pLOutx6II5z4LfaXvLTewCgI6sPKY0szeGjkXjglkjbN95YDFvtVgukiqRyro9BHnQkbKBEHypl+oRHPZOfjbk2u1mp81e23S6bhBP1wLqyf4Pmf10kVFb917xIx5CPDBtgXQtCtTqjjNLfCFRFe2w9edUgzmYx9EgGIKK1KiRcFjn9rvTFYBlYO67SsHIvJpmF9m+nbyOKYCvLarSwWLTmtXLaQ9kGb7q7Yb+Uk70P60zCpuH7u0o5NTYPRt0WbPPlWSHetiZ8k2XzlNUNnW2VW9zkmPbwuQS2UyYT9q9OfUrmmH7VL4gdze/+PLJFrYaflOrplgBBy7m1S92k3w+5wlkbDmbHiOyrkj0iLlC5aQ+sUW6jWnn1KqUw5COSxNUGabPr6um5Txyez+gber+JPKOFyRVko6vceYukZ4ZwmJ+7Qd6YuaemKRsYTJNNA/Mjsl3aGBj8Q==;NaxR6+d9u2LkKjJLdaYsBg=="
 ---
 

@@ -22,29 +22,40 @@ topics:
   - AI
 
 related:
-  - title: "Chuck Schumer courts bipartisan lawmakers for AI regulation"
-    excerpt: "Senate Majority Leader Chuck Schumer is shepherding a bipartisan group of senators in sketching out the future of artificial intelligence regulation."
-    publishedDateTime: 2023-05-19T13:22:00Z
-    webUrl: "https://www.foxnews.com/politics/chuck-schumer-courts-bipartisan-lawmakers-ai-regulation"
+  - title: "Apple looking to hire machine learning engineers with an interest in generative AI"
+    excerpt: "Apple's Technology Development Group (TDG) is looking for Machine-Learning engineers with a background and/or interest in Generative AI! You will be leveraging innovative Generative models to build fundamental applications on top of Apple's most advanced ..."
+    publishedDateTime: 2023-05-19T17:17:00Z
+    webUrl: "https://appleinsider.com/articles/23/05/19/apple-looking-to-hire-machine-learning-engineers-with-an-interest-in-generative-ai"
+    ampWebUrl: "https://appleinsider.com/articles/23/05/19/apple-looking-to-hire-machine-learning-engineers-with-an-interest-in-generative-ai/amp/"
+    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/23/05/19/apple-looking-to-hire-machine-learning-engineers-with-an-interest-in-generative-ai/amp/"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 49
-  - title: "Schumer meets with bipartisan group of senators to build a coalition for AI law"
-    excerpt: "Schumer has takes next steps with a group of bipartisan Senate lawmakers to craft a comprehensive artificial intelligence law. \"Congress must move quickly,\" he said Thursday."
-    publishedDateTime: 2023-05-19T01:57:00Z
-    webUrl: "https://www.iowapublicradio.org/news-from-npr/2023-05-18/schumer-meets-with-bipartisan-group-of-senators-to-build-a-coalition-for-ai-law"
-    type: article
-    provider:
-      name: Iowa Public Radio
-      domain: iowapublicradio.org
-    quality: 35
+      name: AppleInsider
+      domain: appleinsider.com
+    quality: 68
     images:
-      - url: "https://npr.brightspotcdn.com/dims4/default/d784b83/2147483647/strip/true/crop/3887x2041+0+73/resize/1200x630!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2023%2F05%2F18%2Fap23136755393936_wide-83186c077d31b8df624cc2a72879d8bcaffcf43c.jpg"
-        width: 1200
-        height: 630
+      - url: "https://photos5.appleinsider.com/gallery/54505-110094-Apple-Siri-xl.jpg"
+        width: 1312
+        height: 738
         isCached: true
+  - title: "Stop Serving Dogfood, Invest In Generative Artificial Intelligence With Purpose"
+    excerpt: "Don't fall prey to the trends, make sure your generative artificial intelligence investments are meaningful to your customers before launching dogfood to your users."
+    publishedDateTime: 2023-05-18T13:29:00Z
+    webUrl: "https://www.forbes.com/sites/joetoscano1/2023/05/18/stop-serving-dogfood-invest-in-generative-artificial-intelligence-with-purpose/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 43
+  - title: "Using AI to find rare minerals"
+    excerpt: "A machine learning model can predict the locations of minerals on Earth—and potentially other planets—by taking advantage of patterns in mineral associations. Science and industry seek mineral deposits to both better understand the history of our planet and to extract for use in technologies like rechargeable batteries."
+    publishedDateTime: 2023-05-17T18:07:00Z
+    webUrl: "https://phys.org/news/2023-05-ai-rare-minerals.html"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 17
 
 secured: "JxyAidepAXW21CZoc9dgnmEJFliWb+b0Mg041tirCRan+IxnnkbRx7VJRpQy0A1tzWY7cWq7nR774sGDSisc9Ni0Xa5m9STcYAw2X07at1x+EBk/PNSZe5zFl0f6rgTYF8f28MeSDDTR72RdShFwBIcWbeWL5NRmpE7aGe97/Uk11A4yCSJ8WzU8alFL4Y4mG0k8oPGlFI613oIjXknKHfeXr6Zr91C7zxyaT5nMofRD4Y/KcTyfuSx9xPLIXBIftSUlBbI7NIWW7cRVbbGo9PJQ4ZczP3as3CygrJrxHXG2xbFOeePMlQcuLt8PywV061NHVCTWgUx5UJK1NRJ4eWJ4ZRaPHBCEc+WgCQf5gTdgSDFf/entObp0aUtxJhLqaR8I0KdFfSmRG8pZnZhlnMsE0JAGanpSsTCHTj1Ru4ZE9Mag0NTMQa1q2vW5WV7fU8LjnvjZlcuw8NorItXF8HTvxFd+/KkGAdyu3gcL8gn5cuBjsB79oep0pwGPJSssusMYyxFVrtSTpK5map+kjg==;iiPXIFTI12C79g03AXEvCQ=="
 ---

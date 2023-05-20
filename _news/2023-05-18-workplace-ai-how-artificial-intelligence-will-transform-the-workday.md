@@ -3,12 +3,12 @@ category: news
 title: "Workplace AI: How artificial intelligence will transform the workday"
 excerpt: "As AI becomes a more core part of the workday, Frey says this push into fluency means workers will be better equipped to utilize it as a supplement to their current skill set. Familiarity with this technology also set them up to grow and develop those skills quickly."
 publishedDateTime: 2023-05-18T14:49:00Z
-originalUrl: "https://www.bbc.com/worklife/article/20230515-workplace-ai-how-artificial-intelligence-will-transform-the-workday"
-webUrl: "https://www.bbc.com/worklife/article/20230515-workplace-ai-how-artificial-intelligence-will-transform-the-workday"
+originalUrl: "https://www.bbc.com/worklife/article/20230515-workplace-ai-how-artificial-intelligence-will-transform-the-workday?trk=public_post_comment-text"
+webUrl: "https://www.bbc.com/worklife/article/20230515-workplace-ai-how-artificial-intelligence-will-transform-the-workday?trk=public_post_comment-text"
 type: article
-quality: 62
-heat: -1
-published: false
+quality: 82
+heat: 102
+published: true
 
 provider:
   name: BBC
@@ -20,6 +20,12 @@ provider:
 
 topics:
   - AI
+
+images:
+  - url: "https://ychef.files.bbci.co.uk/live/624x351/p0fnfjfy.jpg"
+    width: 624
+    height: 351
+    isCached: true
 
 related:
   - title: "Politicians Need to Learn How AI Works—Fast"
@@ -36,7 +42,16 @@ related:
         width: 1280
         height: 670
         isCached: true
+  - title: "Bringing AI tools to the workplace requires a delicate balance"
+    excerpt: "AI is altering work for most knowledge workers. Businesses will need to figure out how to best navigate this workplace revolution."
+    publishedDateTime: 2023-05-17T13:00:00Z
+    webUrl: "https://www.seattletimes.com/explore/careers/bringing-ai-tools-to-the-workplace-requires-a-delicate-balance/"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 17
 
-secured: "Tr0q0X+BcrBASpR4MuEYtAVLdCiSA+YZdNyzopyp8H9/4SoYw3GRtz8NJVPwPI6o/lqx9SeAwNvgersq9T5pc7mAObDufQjNCjaBpEbaxEF8tcVnie6YBRxIGn1ROwiTbStFrGHM3sc1Cn7f1phRT15lmJfrnYRTKbJM8Ny+LlqY1rrMIrUo2CJ0XRK5fQdKJ4Bg8D780/17Oo4Rn16y154c2hpdjoTNlcSSJrcUa+GZms12YY6afym6UKjt9tsSGyghb6/teLR4dn8OmxZfOoB+MmnJRgUAb/xvavjUr6uMGVhXPduLclzqzJXZIzX9KrItvrYP2YACZD8FTSFub4bWyOjF6KTI3aHNjLODw49MkdaXc3DhZ7QGJgr/UMo+ODwI1Xb2u546YHrFrZ/x2nMkVR4wKkP/eihpjvUh3hYs5pUug33QePA5iwn6BZDXWdJBAzSoQF/EEebC7aN0dMnsq3ZARwrblJB8aAkW8Qu2noJ2vX6AeaNxYDdjSm1+8j5PotQZ6F4zrLqFbatjrA==;b/E0qbHA70bocphPVGNKDw=="
+secured: "8DuuzO1lNGQFfwp/FGMYffj5mY5mtt+LPsV0J6hIHQhc0unXn4xN7QRqfNDsvXC4oWVoWwpl6s0Rf9SCHw7IPgQKNrRT17jO/AihdVy//798S5ggje2DV8rnD/PebdoDMzMfGjQ0mCeJm9r8RraEJQBqvhUc/ZHUBsu7zzVTUl9PXS6fEdJjMBHtToKWsxX8w/oUrFCs4R0fpT/Fw8EfML3ZJEB6wjVn/LdQgGw7Pq/fcxIlFToUCnq7EuPJB5bM5lrnQb4G+vb7ty64oVCUdEFrtMo0i7XXF35jm/49fdIeojp+85KG+83hvBl/UrxLZLNBDcODwUKsSHA/Fes6s3cyvzp9L58r32CsoIIYTpQ=;jcO6Izn1npyFj0zdkFRR8Q=="
 ---
 

@@ -54,20 +54,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 46
-  - title: "6 Takeaways From Fintech Nexus: Networking, ChatGPT, Cybersecurity, and More"
-    excerpt: "At one of the largest U.S. fintech shows, getting information about the intricacies of the products and services offered by exhibitors was difficult."
-    publishedDateTime: 2023-05-15T16:04:00Z
-    webUrl: "https://www.cfo.com/technology/2023/05/fintech-nexus-new-york-company-culture-networking-chaptgpt-ai-crypto-blockchain-cybersecurity/"
-    type: article
-    provider:
-      name: CFO
-      domain: cfo.com
-    quality: 21
-    images:
-      - url: "https://assets.cfo.com/images/Zz0zMDhjNDkwMGYzMzAxMWVkODU1MDI2MzU0ZDc4NGZiZQ==?width=1200"
-        width: 1200
-        height: 813
-        isCached: true
 
 secured: "c6aLLMz3xnbKuDF4u5UpbJzT2TppCdr0Ngr5M5xsTDP++GIefS3+z4lIDIG2yjkyJ/Fe+/joxPyqVgvqtcbRBBllOzDqaAVDb2/GceksyTwk8tYTX+sk/EutwAECt+mn/LbbrKp1hLC4fZXRnpExztBE2goOpR4IXJXLzzKC38XySeFfRH2qxFpa1ovanqz0bUw6FENI/X0+DyYt2yp9D8X8CWQIFXmVBnAauoPG17R5HCi768XqA4ipmlqP7geI7516L/1M35N5JD45EFdpyGsR9wr5j0PoL0c4bfLS5kzNFGoeJbJMoGYUZFHhn+4YXChcU2HmfymFy9mfNONKPW8hm5wqg2NS9gUJuh7SkB0=;+3Ay9gFRogvqVFgOhBLS4Q=="
 ---

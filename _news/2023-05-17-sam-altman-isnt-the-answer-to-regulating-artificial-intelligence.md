@@ -188,36 +188,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "ChatGPT’s Sam Altman Calls on Congress to Adopt Safety Standards for AI Systems"
-    excerpt: "Congress is looking to impose artificial-intelligence regulations, if it can reach a consensus."
-    publishedDateTime: 2023-05-16T14:05:00Z
-    webUrl: "https://www.wsj.com/articles/chatgpts-sam-altman-faces-senate-panel-examining-artificial-intelligence-4bb6942a?mod=hp_lead_pos3"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 63
-    images:
-      - url: "https://images.wsj.net/im-782620/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "CEO of OpenAI and creator of ChatGPT says ‘regulation of AI is essential’"
-    excerpt: "Sam Altman says before Senate judiciary committee that he supports guardrails for technology to minimize harms"
-    publishedDateTime: 2023-05-16T14:48:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/may/16/ceo-openai-chatgpt-ai-tech-regulations"
-    ampWebUrl: "https://amp.theguardian.com/technology/2023/may/16/ceo-openai-chatgpt-ai-tech-regulations"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/may/16/ceo-openai-chatgpt-ai-tech-regulations"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 56
-    images:
-      - url: "https://i.guim.co.uk/img/media/bd83bf5b1e8f0123175a43a4ba20d501c27a30a6/0_166_3936_2362/master/3936.jpg?width=620&quality=85&auto=format&fit=max&s=bb8b305d10e17ef960294c2fd08d1456"
-        width: 620
-        height: 372
-        isCached: true
   - title: "OpenAI CEO calls for laws to mitigate ‘risks of increasingly powerful’ AI"
     excerpt: "Sam Altman says before Senate judiciary committee that he supports guardrails for technology to minimize harms"
     publishedDateTime: 2023-05-16T15:35:00Z
@@ -248,22 +218,6 @@ related:
         width: 799
         height: 631
         isCached: true
-  - title: "ChatGPT boss calls on Congress for new agency to regulate artificial intelligence"
-    excerpt: "As this technology advances, we understand that people are anxious about how it could change the way we live. We are too,” OpenAI CEO Sam Altman testified."
-    publishedDateTime: 2023-05-16T16:58:00Z
-    webUrl: "https://www.syracuse.com/us-news/2023/05/chatgpt-boss-calls-on-congress-for-new-agency-to-regulate-artificial-intelligence.html"
-    ampWebUrl: "https://www.syracuse.com/us-news/2023/05/chatgpt-boss-calls-on-congress-for-new-agency-to-regulate-artificial-intelligence.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-syracuse-com.cdn.ampproject.org/c/s/www.syracuse.com/us-news/2023/05/chatgpt-boss-calls-on-congress-for-new-agency-to-regulate-artificial-intelligence.html?outputType=amp"
-    type: article
-    provider:
-      name: syracuse.com
-      domain: syracuse.com
-    quality: 52
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/24T6KPDC2BETDF6QUSNKH63WCM.jpg"
-        width: 4338
-        height: 2892
-        isCached: true
   - title: "Sam Altman Sends A Message To Corporate Leaders On AI Risk Management"
     excerpt: "The OpenAI CEO’s Senate testimony on the potential risks of AI and its need for regulation prompts boards to accelerate their oversight of how AI is applied in their own organizations."
     publishedDateTime: 2023-05-17T19:39:00Z
@@ -273,15 +227,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "ChatGPT’s Sam Altman Faces Senate Panel Examining Artificial Intelligence"
-    excerpt: "Photo illustration: Elena Scotti WASHINGTON—The chief executive of ChatGPT creator OpenAI is set to testify before a Senate panel Tuesday as lawmakers begin a bipartisan push toward regulating the powerful new artificial-intelligence tools available to ..."
-    publishedDateTime: 2023-05-16T09:30:00Z
-    webUrl: "https://www.wsj.com/articles/chatgpts-sam-altman-faces-senate-panel-examining-artificial-intelligence-4bb6942a"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 46
   - title: "What OpenAI CEO Sam Altman's Congress Testimony Means For Entrepreneurs: 5 Key Takeaways"
     excerpt: "Sam Altman testified before a Senate Judiciary subcommittee yesterday, following the resounding success of ChatGPT. Here are the 5 key takeaways for entrepreneurs."
     publishedDateTime: 2023-05-17T12:15:00Z
@@ -291,20 +236,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 40
-  - title: "ChatGPT's Altman pleads US Senate for AI rules"
-    excerpt: "WASHINGTON - Sam Altman, the chief executive of ChatGPT's OpenAI, told US lawmakers on Tuesday that regulating artificial intelligence was essential, after his poem-writing chatbot stunned the world."
-    publishedDateTime: 2023-05-17T00:45:00Z
-    webUrl: "https://www.bangkokpost.com/world/2572409/chatgpts-altman-pleads-us-senate-for-ai-rules"
-    type: article
-    provider:
-      name: Bangkok Post
-      domain: bangkokpost.com
-    quality: 39
-    images:
-      - url: "https://static.bangkokpost.com/media/content/20230517/c1_4759179_700.jpg"
-        width: 700
-        height: 467
-        isCached: true
   - title: "ChatGPT: Did the CEO of OpenAI voluntarily call for AI to be regulated?"
     excerpt: "Sam Altman, the CEO of OpenAI, testified for the first time since ChatGPT exploded in popularity. Senators appeared to accept Altman’s warnings that AI could “cause significant harm to the world” and his suggestion that a new agency could set rules."
     publishedDateTime: 2023-05-18T00:30:00Z
@@ -328,34 +259,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 38
-  - title: "ChatGPT’s chief calls for new federal agency to regulate AI"
-    excerpt: "And while there’s no immediate sign that Congress will craft sweeping new AI rules, as European lawmakers are doing, the societal concerns brought Altman and other tech CEOs to"
-    publishedDateTime: 2023-05-16T16:43:00Z
-    webUrl: "https://www.c4isrnet.com/federal-oversight/congress/2023/05/16/chatgpts-chief-calls-for-new-federal-agency-to-regulate-ai/"
-    type: article
-    provider:
-      name: C4ISRNET
-      domain: c4isrnet.com
-    quality: 37
-    images:
-      - url: "https://www.c4isrnet.com/resizer/mXwHQ7VIhta78WsJT7efTcguf28=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/archetype/WBTSLREOY5ER7KEUW5BJIK46PY.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "ChatGPT’s chief calls for new federal agency to regulate AI"
-    excerpt: "And while there’s no immediate sign that Congress will craft sweeping new AI rules, as European lawmakers are doing, the societal concerns brought Altman and other tech CEOs to"
-    publishedDateTime: 2023-05-17T15:30:00Z
-    webUrl: "https://www.airforcetimes.com/federal-oversight/congress/2023/05/16/chatgpts-chief-calls-for-new-federal-agency-to-regulate-ai/"
-    type: article
-    provider:
-      name: Air Force Times
-      domain: airforcetimes.com
-    quality: 37
-    images:
-      - url: "https://www.airforcetimes.com/resizer/mXwHQ7VIhta78WsJT7efTcguf28=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/archetype/WBTSLREOY5ER7KEUW5BJIK46PY.jpg"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "OpenAI chief concerned about AI being used to compromise elections"
     excerpt: "OpenAI CEO Sam Altman testifies before a Senate Judiciary Privacy, Technology & the Law Subcommittee hearing titled 'Oversight of A.I.: Rules for Artificial Intelligence' on Capitol Hill in Washington,"
     publishedDateTime: 2023-05-17T07:42:00Z
@@ -441,15 +344,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "Senate panel begins AI examination; ChatGPT CEO Sam Altman testifies"
-    excerpt: "\"It is essential that powerful AI is developed with democratic values in mind, and this means that US leadership is critical,\" said ChatGPT CEO Sam Altman."
-    publishedDateTime: 2023-05-16T14:42:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2023/05/16/mr-altman-goes-to-washington.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 17
   - title: "Sam Altman, the AI executive with an eye on the risks"
     excerpt: "We’ll send you a myFT Daily Digest email rounding up the latest Sam Altman news every morning. When OpenAI CEO Sam Altman turned up to testify on Capitol Hill for the first time this week, he could hardly have expected an easy ride."
     publishedDateTime: 2023-05-19T19:00:00Z

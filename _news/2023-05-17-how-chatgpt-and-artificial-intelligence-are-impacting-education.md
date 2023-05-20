@@ -58,6 +58,22 @@ related:
         width: 1200
         height: 820
         isCached: true
+  - title: "New paper introduces ethics framework for use of generative AI in health care"
+    excerpt: "A new paper published by leading Australian AI ethicist Stefan Harrer Ph.D. proposes for the first time a comprehensive ethical framework for the responsible use, design, and governance of Generative AI applications in health care and medicine."
+    publishedDateTime: 2023-05-16T13:49:00Z
+    webUrl: "https://medicalxpress.com/news/2023-05-paper-ethics-framework-generative-ai.html"
+    ampWebUrl: "https://medicalxpress.com/news/2023-05-paper-ethics-framework-generative-ai.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-05-paper-ethics-framework-generative-ai.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 71
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/ai-health.jpg"
+        width: 1920
+        height: 1633
+        isCached: true
   - title: "CDW Executive SummIT: Diving Into the Potential of Artificial Intelligence in Healthcare"
     excerpt: "AI is a hot topic right now, and SummIT attendees expressed both excitement and caution over potential use cases."
     publishedDateTime: 2023-05-18T17:01:00Z
@@ -138,20 +154,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "Is AI the Solution to Company-Provided Mental Health Care?"
-    excerpt: "Woebot, a CBT-based chatbot created in 2017 by a team of Stanford psychologists and AI experts, fits the criteria. The app uses a form of AI called “natural language processing” to guide users through sequences of responses meant to mimic a clinician’s reasoning."
-    publishedDateTime: 2023-05-15T16:20:00Z
-    webUrl: "https://www.psychologytoday.com/intl/blog/connect-first/202305/is-ai-the-solution-to-company-provided-mental-health-care"
-    type: article
-    provider:
-      name: Psychology Today
-      domain: psychologytoday.com
-    quality: 39
-    images:
-      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_images/2023-05/Woebot%20Art.png.jpg?itok=5UOZhh-v"
-        width: 1528
-        height: 800
-        isCached: true
   - title: "WHO says using AI in health care carries a multitude of risks"
     excerpt: "More industries are investing in AI, including health care. But the World Health Organization says the industry needs to look beyond its exciting potential and look into the risks."
     publishedDateTime: 2023-05-18T21:54:00Z

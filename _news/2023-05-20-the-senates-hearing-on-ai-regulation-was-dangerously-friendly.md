@@ -7,7 +7,7 @@ originalUrl: "https://www.theverge.com/2023/5/19/23728174/ai-regulation-senate-h
 webUrl: "https://www.theverge.com/2023/5/19/23728174/ai-regulation-senate-hearings-regulatory-capture-laws"
 type: article
 quality: 69
-heat: 90
+heat: 100
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Lawmakers work to regulate AI at the state level"
+    excerpt: "AI tools like Chat GPT can answer questions and summarize research. Now lawmakers are working to regulate how AI is used at the state level. “With the launch of Chat GPT and other generative forms of AI, it has really come to the forefront. And people ..."
+    publishedDateTime: 2023-05-16T00:19:00Z
+    webUrl: "https://www.wfsb.com/2023/05/15/lawmakers-work-regulate-ai-state-level/"
+    ampWebUrl: "https://www.wfsb.com/2023/05/15/lawmakers-work-regulate-ai-state-level/?outputType=amp"
+    cdnAmpWebUrl: "https://www-wfsb-com.cdn.ampproject.org/c/s/www.wfsb.com/2023/05/15/lawmakers-work-regulate-ai-state-level/?outputType=amp"
+    type: article
+    provider:
+      name: WFSB
+      domain: wfsb.com
+    quality: 59
+    images:
+      - url: "https://gray-wfsb-prod.cdn.arcpublishing.com/resizer/XvYP69UfJwT8rUmswVDgqIG9Zck=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/BXLAK2IJMFHQFJJUMPSRLJGVN4.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "The Senate hearing on AI shows lawmakers still don’t get it"
     excerpt: "While the hearing on powerful artificial intelligence tools didn’t feature as many face-plants as previous tech hearings, it missed the mark in key ways."
     publishedDateTime: 2023-05-17T20:08:00Z
@@ -62,6 +78,6 @@ related:
         height: 800
         isCached: true
 
-secured: "7bGOeSUd1nPPTjHCwgGGtCpHiRtJyAPqIIqY4yMJXFUwMq/1sXkrAw0Er7BBuV3QtU+QsKX8Xj53e/svChZ91RgxIkUf4TpbsZkC6rJNbiP6EY5OPr9ZWVIizMyiZTrPT0SCcwoQmgTTIM231uy6FCSvReYEXYb62cx2zJKg2fcjEq1kuARvRIzRLdu0BNwAeSwVW1LKH/THH74Wx3g4Ev/5XRoJB82mUmdVOZjNXHBwWzS54eHWcAoTG4vKly6TsP7YmQiovik6S8f0n8dcSTjeUHofVbMoeY8LGKOsAYuJEwNBbTym4iEdjwaj8rV2bZXndO+SYUYZ+CJY6/yhco4/Pwyb/VSX1P/8NuaRcYfgCDiLIxL9f5iqmnOe6F7vxg60kBUUjZzYrdr/Bh5rNqvfSwxxUicYfajtoHtcJUwmwHcgNEXeG2Fv/SGu1C2lkZysj860TMCcD1ja7IcJS6VXC5WNtH3S7Cr6f/oheGdoqu6JlecdxM86B9v8X9O8cXcaKsvPohJtvjQ+/RZU9A==;h/CKAKGGOcvMbWUBiNB54A=="
+secured: "oGeXdwL6IOC4N6W8QtH/3Veuu/I1XzjPWQW+2oc2VmBYPTdgSRxxLD69riP9n+SBWEu+Soq2u03i7Exa2M3JrlcQPm627yX8E1PEhweuxEjrJsiuLgsCLmeFAQOH4Gcdn60PpCuzFSvoZTDUtzcSffevGr0+dVdkjlHSPcB3jN4lWyNIhJ5ElXXAtHmdLWx0FKxfbpY0mSFFf+cvkRpqZTm0t8cEXpollhEJ5l/sn1lzh+jeKYMFf/XvXDDekom0+6rrGW0SmhNL87S+bWf35NQUmuYLFS90TSjDmo0mAC0gsEp+64hqS7C7a8iT7tPfxac2m0MJvWcxGHHB9mKzTjXZLvOIk2DXBZBiWaxtInd//H2irSaxYGUG6uGIor97lwEKQbxzvQIynHh/sahuoUoA1y69IEh7yWCvg+DWzXJnIDTOGFjdvsFr0fD12FvGjMoO7zFiNl3LL9q0+t946BBOVyCf6qF4JyUv42GhyMkSfPpuBq55nDEE3mAq8ilCeBGPe+WnEMRQx3zIOtFhkg==;tfrkyRf8musJ7+9bj3NpDQ=="
 ---
 

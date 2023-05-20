@@ -46,6 +46,22 @@ related:
         width: 640
         height: 403
         isCached: true
+  - title: "AI Will Have The Most Negative Impact On Emerging Workforces"
+    excerpt: "AI has been around for a while, as have its many dangers. In ‘The Levelling’ we wrote about how algorithms were both causing and provoking inequalities and social injustice. Last summer we flagged the very sinister example of how the Spiez Laboratory in Switzerland (see the Final Problem) one of whose specialisations is the study of deadly toxins and infectious diseases (located not too far away from the Reichenbach Falls),"
+    publishedDateTime: 2023-05-20T09:19:00Z
+    webUrl: "https://www.forbes.com/sites/mikeosullivan/2023/05/20/ai-will-have-the-most-negative-impact-on-emerging-workforces/"
+    ampWebUrl: "https://www.forbes.com/sites/mikeosullivan/2023/05/20/ai-will-have-the-most-negative-impact-on-emerging-workforces/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mikeosullivan/2023/05/20/ai-will-have-the-most-negative-impact-on-emerging-workforces/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64688f919388e7fff92e9948/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Stability AI open sources its AI-powered design studio"
     excerpt: "Stability AI has open sourced its AI-powered design studio, which taps generative AI for image creation and editing."
     publishedDateTime: 2023-05-18T22:31:00Z

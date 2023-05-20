@@ -39,22 +39,6 @@ related:
         width: 696
         height: 696
         isCached: true
-  - title: "Study combines quantum computing and generative AI for drug discovery"
-    excerpt: "Insilico Medicine, a clinical stage generative artificial intelligence (AI)-driven drug discovery company, today announced that it combined two rapidly developing technologies, quantum computing and generative AI,"
-    publishedDateTime: 2023-05-19T13:54:00Z
-    webUrl: "https://phys.org/news/2023-05-combines-quantum-generative-ai-drug.html"
-    ampWebUrl: "https://phys.org/news/2023-05-combines-quantum-generative-ai-drug.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-05-combines-quantum-generative-ai-drug.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 57
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/insilico-medicine-led-1.jpg"
-        width: 2500
-        height: 1313
-        isCached: true
 
 secured: "ny3RSVG39q2g7YC8gRuI2IN+871xJoTTytJKUokgzS8bRe1NNQN47yewHteW/Wl5ye5S7ZdqhCPU6T9Mxqhxc2EmaANqUuqr0axDX38X1M2rpNUMWKJDvQbgBE6HDnl2eapZn08cpSmy4k9wYUeWMFFfKryurEM+jAR4guqRRvOFggQFh4zBV+zsJUGmuBGQJJlmlagGoGiGSwSpMfk8Rpc8iW5YLp4Uve9WkfbTTAeDwl2nv4In61+tYOV463vMfiIlZfXQFeiEVli7ehzM62VyYWsqHAFXxMxFv7BVaMgeXy6pmOC5e7pVjSWcJn7f4zmEEzdwaeGPlkOxneB6S07hrSqnKxfZlg3KaNrYqv9DG8xwT5nVib39Y0ouNJwsAiwnK1vm22YsOUCnsFRI8f6X6+30h7l6uONSWb6viGSKRYs95Re51P3Xv9jOaugV1nhNkYuKh6scsWOB3peFXmS0mWSD5c1k3RgEYoWajdgCGGhJ04h/bvwt1Ja4qMid1th8JnIg0r3y71r+ZQBhHA==;XcLTZlndPJvU9WIdSdiOQw=="
 ---

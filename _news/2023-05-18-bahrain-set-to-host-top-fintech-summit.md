@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zawya.com/en/world/middle-east/bahrain-set-to-host-top-f
 cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/world/middle-east/bahrain-set-to-host-top-fintech-summit-hoiy388r?amp=1"
 type: article
 quality: 59
-heat: 199
+heat: 189
 published: true
 
 provider:
@@ -43,15 +43,6 @@ related:
         width: 500
         height: 223
         isCached: true
-  - title: "This Magnificent Fintech Stock Is Surprisingly Climbing Aboard the Generative AI Train"
-    excerpt: "Therefore, AI is the hot topic of 2023. And fintech company Block (NYSE: SQ) has officially entered the conversation. To be clear, almost all technology companies have used some form of AI or ..."
-    publishedDateTime: 2023-05-16T10:37:00Z
-    webUrl: "https://www.nasdaq.com/articles/this-magnificent-fintech-stock-is-surprisingly-climbing-aboard-the-generative-ai-train"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 41
   - title: "The Ethical Dilemmas of Fintech Breed Distrust; Top 3 Challenges"
     excerpt: "Financial technology is yet another digital convenience streamlining everyday financial transactions that used to require standing in line at a bank, writing checks, or navigating between several websites."
     publishedDateTime: 2023-05-16T21:15:00Z

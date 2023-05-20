@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/18/how-co
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/05/18/how-could-artificial-intelligence-impact-cybersecurity/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -53,20 +53,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 46
-  - title: "6 Takeaways From Fintech Nexus: Networking, ChatGPT, Cybersecurity, and More"
-    excerpt: "At one of the largest U.S. fintech shows, getting information about the intricacies of the products and services offered by exhibitors was difficult."
-    publishedDateTime: 2023-05-15T16:04:00Z
-    webUrl: "https://www.cfo.com/technology/2023/05/fintech-nexus-new-york-company-culture-networking-chaptgpt-ai-crypto-blockchain-cybersecurity/"
-    type: article
-    provider:
-      name: CFO
-      domain: cfo.com
-    quality: 21
-    images:
-      - url: "https://assets.cfo.com/images/Zz0zMDhjNDkwMGYzMzAxMWVkODU1MDI2MzU0ZDc4NGZiZQ==?width=1200"
-        width: 1200
-        height: 813
-        isCached: true
 
 secured: "PdlmvprTPilZ3lar2MgrsIW1eQ7Ec4Rq/pSxs1MnOc/cEJTJ/Ln1Z/jJr8a0uy9a7lmgZc7h51YBtqUV4XA++0ul8WREPoPtbkrGZOIcL11H+3aXnwtWYjRxZ4JoWaM7FJYjcH4iSXsyVC4VTnJje7YZ5HKOFbY2DJzH6cMtQmmzubr35aDe74y7cmvS91r7OIN8mp1aIP+7mjJh4gveJTAAM+U5N0aVWtNyI3jXktW+NASuulno9jqX+Hb0UpW1OVvc6fzbf5ND8ZX49hYrqOTivH/BaItqj9HQTn3Zs0nQit17vmkI5UBgsBqEseFdMR1H/t7Rbck5DIqoJ+u51LGjuHt3lmU8lINB21lG5w3mUBYRM0DtaAmdMGFWz65OHlJm2pUbkESrM2rtNoz6Dd0qKJkMPmQy2RfPdy3tNL29lHckytOnTMEzLQ14R6jzgAtd3aRnKJx6nQeRWKyjPkyRq1NZdOKZo3i46y26NjKt12n3aLFf+9fJ0KVGErLJ/Urlw9fG0NaHBuVergpyAQ==;gA0Idsn5WwkMga0+2eCOuQ=="
 ---

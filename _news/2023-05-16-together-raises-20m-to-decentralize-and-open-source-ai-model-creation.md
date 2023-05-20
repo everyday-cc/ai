@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 750
         isCached: true
-  - title: "AI startup Together raises funding for open-source AI and cloud platform"
-    excerpt: "Together means to establish open source as the default way to incorporate AI and create models that outperform closed models in the cloud."
-    publishedDateTime: 2023-05-15T16:07:00Z
-    webUrl: "https://venturebeat.com/ai/ai-startup-together-raises-funding-for-open-source-ai-and-cloud-platform/"
-    ampWebUrl: "https://venturebeat.com/ai/ai-startup-together-raises-funding-for-open-source-ai-and-cloud-platform/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/ai-startup-together-raises-funding-for-open-source-ai-and-cloud-platform/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 86
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-478634946.jpg?w=1200&strip=all"
-        width: 1200
-        height: 864
-        isCached: true
   - title: "Google is accelerating a little too fast into the AI unknown"
     excerpt: "Google has announced that new tech for generating content will be added to Gmail, Google Docs, Google Maps and Google Photos, as well as its search engine. The search giant is aiming to enhance its core products with artificial intelligence (AI),"
     publishedDateTime: 2023-05-15T17:57:00Z

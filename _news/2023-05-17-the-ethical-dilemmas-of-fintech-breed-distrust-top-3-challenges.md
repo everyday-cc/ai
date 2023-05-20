@@ -54,15 +54,6 @@ related:
         width: 500
         height: 223
         isCached: true
-  - title: "This Magnificent Fintech Stock Is Surprisingly Climbing Aboard the Generative AI Train"
-    excerpt: "Therefore, AI is the hot topic of 2023. And fintech company Block (NYSE: SQ) has officially entered the conversation. To be clear, almost all technology companies have used some form of AI or ..."
-    publishedDateTime: 2023-05-16T10:37:00Z
-    webUrl: "https://www.nasdaq.com/articles/this-magnificent-fintech-stock-is-surprisingly-climbing-aboard-the-generative-ai-train"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 41
   - title: "Opportunities remain for fintech to turbocharge MSME growth"
     excerpt: "Mere disruptors no more, financial technologies have offered considerable evidence that affirm them as significant contributors to economies and its digital ecosystems."
     publishedDateTime: 2023-05-16T16:00:00Z

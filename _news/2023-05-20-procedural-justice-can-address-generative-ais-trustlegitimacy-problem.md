@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/05/19/procedural-justice-can-address-gen
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/19/procedural-justice-can-address-generative-ais-trust-legitimacy-problem/amp/"
 type: article
 quality: 89
-heat: 90
+heat: 100
 published: true
 
 provider:
@@ -30,6 +30,17 @@ images:
     height: 683
     isCached: true
 
-secured: "YetsoLXing/A0UfW5SzuvbqEAhjq1BcOS1aqVkRrF/Vq0axATK34Lj0NKYlmnsADoGEcUQ634YScmfkgEWiDaTxekEtDJdHmmhu6WU3p59qhgCnDfAp6HsxYsI+ezxf8RJdRrYbpJU3H5J01dkjuXm1mJrCv/2Qz82e6LMfEW/i7v2Onc+q7mOjVoat/SMYlrA1yHb2hgnnEsJ/o427vHQk6ph6Wd01ILKVdcCApZW2b24aUMm2vKyHLPuH7s6aOjvoWZY0BrB9btIT6ndT2j7FfMetw2778vfB1m7VQH3Nq0kF8cXaLH0PMVGDpznYYaiTPgwZ1Ff6UrIdcAzFSESiYAwvpvyuAAOCKWHVLclg=;3oosH2CE1oapXwIk7BG/oQ=="
+related:
+  - title: "Three problems with generative AI have yet to be addressed"
+    excerpt: "While AI-based tools could deliver a major boost in productivity and efficiency, there's a dark side to them, as well."
+    publishedDateTime: 2023-05-19T09:57:00Z
+    webUrl: "https://www.computerworld.com/article/3696999/three-problems-with-generative-ai-have-yet-to-be-addressed.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 17
+
+secured: "mAfMuEFI7bXNKa5AIjXsGCcp53Axo9UO7joKsNMmECTNaZHehWgs+KbsmN4xTFAsZ9VIEqb8pPwb6Hvb79bjX+KvtO8mf3KmJZQrcmD25iVbaTAElpnOi8YJE9w/WRsy/wXz//NoLPsXy3GGzqxZHo6UmloSNs/eRwJ1bGSZYP+S5hNnphybsDv/5nMXd5jZSj/rYGLiClwmwmQBMGKpKV7eSRLH59DJrOiyMpEG3nupApUEnhkgfMnpccJst8R7CDj9a78vEmL7GdpGIkObHOnBLxirib9NNjSnIKeJvNUkKg3iExXds/+HKHiEpxOSBpnp3tN50TGUlkqOFjokeyMVbG959yxj6dHXnBwFo6k=;QuXGZqALsNQqKZgStFNXBw=="
 ---
 

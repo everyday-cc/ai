@@ -45,22 +45,6 @@ related:
         height: 675
         isCached: true
   - title: "TSA Tests Facial Recognition Technology at Airports to Boost Security"
-    excerpt: "It's all part of a pilot project by the Transportation Security Administration to assess the use of facial recognition technology at a number of airports across the country. “What we are trying to do with this is aid the officers to actually determine that you are who you say who you are,"
-    publishedDateTime: 2023-05-15T16:39:00Z
-    webUrl: "https://www.nbcnewyork.com/news/national-international/tsa-tests-facial-recognition-technology-at-airports-to-boost-security/4335250/"
-    ampWebUrl: "https://www.nbcnewyork.com/news/national-international/tsa-tests-facial-recognition-technology-at-airports-to-boost-security/4335250/?amp=1"
-    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/national-international/tsa-tests-facial-recognition-technology-at-airports-to-boost-security/4335250/?amp=1"
-    type: article
-    provider:
-      name: NBC New York
-      domain: nbcnewyork.com
-    quality: 91
-    images:
-      - url: "https://media.nbcnewyork.com/2023/05/web-230515-tsa-facial-recognition.jpg?quality=85&strip=all&resize=1200%2C675"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "TSA Tests Facial Recognition Technology at Airports to Boost Security"
     excerpt: "A passenger walks up to an airport security checkpoint, slips an ID card into a slot and looks into a camera atop a small screen. The screen flashes “Photo Complete” and the person walks through — all without having to hand over their identification to the TSA officer sitting behind the screen."
     publishedDateTime: 2023-05-15T17:11:00Z
     webUrl: "https://www.nbcphiladelphia.com/news/national-international/tsa-tests-facial-recognition-technology-at-airports-to-boost-security/3566621/"
@@ -143,9 +127,9 @@ related:
   - title: "TSA is testing facial recognition at more airports, raising privacy concerns"
     excerpt: "The agency tasked with securing America's airports is testing the use of facial recognition technology at a number of airports across the country"
     publishedDateTime: 2023-05-15T20:16:00Z
-    webUrl: "https://abcnews.go.com/Technology/wireStory/tsa-tests-facial-recognition-technology-boost-airport-security-99322644"
-    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/tsa-tests-facial-recognition-technology-boost-airport-security-99322644"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/tsa-tests-facial-recognition-technology-boost-airport-security-99322644"
+    webUrl: "https://abcnews.go.com/US/wireStory/tsa-tests-facial-recognition-technology-boost-airport-security-99322460"
+    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/tsa-tests-facial-recognition-technology-boost-airport-security-99322460"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/tsa-tests-facial-recognition-technology-boost-airport-security-99322460"
     type: article
     provider:
       name: ABC
@@ -336,6 +320,6 @@ related:
       domain: extremetech.com
     quality: 19
 
-secured: "avgKzINnBkeZHOZ7XTFiO/8pHZv9MaGU/PVdogrV596Ma+Xm03fuDfBiRJNLpvD5l+hhovEJ3uUev+Q4H2CeXjrQk4gvGlImW9LrWxuazhpn0LhQ5TKe+Wk2jR3S2TuYg1bBMhPymiWJG8mD/voOcPAhYDLMNsuv/cTbEB0sg983TwoFYLkbzNn7dhW5KpKjUayIAihbvI/Cz1teu5VgG7w081sOK+gaO/oG/nZ6/wiZWNdNZW10FIBNEV1UMWYJyqITcvw3qP3rsgHXaXgocvPPCvV376CQK0Voeoj58H7+lDYN6kcbLZItopzvuNCbm4gWzLrAoy8o/RM5/xoblarKS8GDLnjKme+S2wtuJ3I=;sp2li8bwUd2hf+R4Lahtdg=="
+secured: "IkfTiLvC44vRA0WyQW0CPShTPkZo7zQbeV3Kb+AFayct8gQIiqSw1eqK6sa+wD7ro76d+yow5nlWeFLnYaTXkTLEx93zPlmkD51zjDUwcy6TDBJLF+vgZna8BAJ71QVmvipw1W576AiX+ykqVRcVM+5Y/+oE7zrzOxaiNkcj4dcyj66lKK37lM5tukyExkH0/taP6u+b1ye51tjB5VkfNF0dTkTPqxInZbbqmoOlUFaqf+uhhMjMHF4sLUVYfwCVQayyKV9rO22PB20hM8GGRzVQegYVjgNEXLNNrZQPW8Xsl3P1P/rtBi8gec65QLB26g2fXR2eQnvVTy/BvAU6+9whXaPfD/lSQeQELSVxtSt8UoHTBkdyEue2ZP1NdGHHkcLDTCRvgXES/no0gLAF8OBpDL3GHToBR+w85ykGJ79BCaBazO6bS8xMYsI4365SIZAR9jDWcC1RFQkJPRrKJ6KXBawevMfExblVupreylhut+e+1A3szVH24kCGgKA2utwRUjdP/b4AAy1DdydGwQ==;ByyIU8p3mpoZKZDHqNlQtA=="
 ---
 

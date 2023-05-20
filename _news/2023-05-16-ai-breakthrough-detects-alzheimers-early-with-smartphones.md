@@ -39,15 +39,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "AI-powered tech to aid Cooper team in Alzheimer’s detection"
-    excerpt: "Early detection is a key step in timely and accurate diagnosis so that patients can get emerging treatments and early-stage interventions,” said DigiCARE Realized CEO Brittany Cassin."
-    publishedDateTime: 2023-05-15T16:43:00Z
-    webUrl: "https://njbiz.com/ai-powered-tech-to-aid-cooper-team-in-alzheimers-detection/"
-    type: article
-    provider:
-      name: NJBIZ
-      domain: njbiz.com
-    quality: 17
   - title: "Machine learning model able to detect signs of Alzheimer's across languages"
     excerpt: "Researchers are striving to make earlier diagnosis of Alzheimer's dementia possible with a machine learning (ML) model that could one day be turned into a simple screening tool anyone with a smartphone could use."
     publishedDateTime: 2023-05-15T18:03:00Z

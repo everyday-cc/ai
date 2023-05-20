@@ -26,22 +26,6 @@ images:
     height: 675
     isCached: true
 
-related:
-  - title: "OpenAI's ChatGPT iOS app debuts with voice search, no ads"
-    excerpt: "OpenAI's ChatGPT has been a runaway success. The chatbot's popularity paved the way for the ongoing AI revolution. The company has now launched an iOS app for the chatbot for users who like to use it \"on the go.\" Android users should not worry because a ChatGPT Android app will be available soon. Now, let's see the features of the ChatGPT iOS app."
-    publishedDateTime: 2023-05-19T05:25:00Z
-    webUrl: "https://www.newsbytesapp.com/news/science/openai-launches-chatgpt-app-for-ios/story"
-    type: article
-    provider:
-      name: newsbytesapp.com
-      domain: newsbytesapp.com
-    quality: 39
-    images:
-      - url: "https://i.cdn.newsbytesapp.com/images/l5520230519104316.jpeg"
-        width: 1920
-        height: 1080
-        isCached: true
-
 secured: "z4Fwm1L70QXTUM+3R6Ctq+lzf1PQnOtZdC7ugajjZ9cbsahTWn9dUsv+LFOFPS9wBnqOw0KDzakv4O2KlDvFVhsQb9Vngx36ToVJq6ORGVnE8LPf7eV7ayEFMMVvJqHRnh2/wZeCdMj2c309p9ymqDSl4JeG5PuociaeuZQJEmAUuIYNP0mvP9IUh1A6tzuJjVFI1YYhMz8+3nBvx7M27hR++kjQSKnuiaiAFaFgjedV0WCTwGaZCIIvI1d9g3AXQ8vGuxV7BAMb+k1+rJjS9BIjtD58AzTDAq10Q9bm7LWyOz/GmYvMAuWll1xSbGWN0uMU0wOGH9cfKtLaGoTRTpULvP+Lu7p16caDu9Y5kp8=;6TXulrj378iij89R9ULdjA=="
 ---
 

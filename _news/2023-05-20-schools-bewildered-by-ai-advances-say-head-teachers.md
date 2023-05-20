@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/uk-65655010.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-65655010.amp"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     height: 576
     isCached: true
 
-secured: "jM1Pp+hftPBVQlJoyWm6dltw8GDZ9zIep7qZrJ+oIIpNWwsbXOaXs5Q6PZpl/THWMVmvyjY/CEvVMjdHe+I7ZIDjWlVD9mtH3a2agIKV5zqODeG+RCrAYdpo2C3+1z8HOhvOCdAUl49ap11RuzSH4hxk1QnUJYVm6SV+VgJ7djMZlxG3MN3NUbLRK2tBdSN4qS+0Po35gQx/X0nBYJ7+lGXmvPQ8tNpQKcp0nO+Ouq0vvPQ6+FuDIzUjgTHH6vIegKE5JL0/UJYGNfAPUrGYQ5EFo91ugwYZmO0rAHingLcV10AJ2z//Vzj4TPUmu1qi3ZgMcD6N2F8S+seczxoGRvE2AVh7+usQA5dvKUwRFEGnt7MRMwX3bYNDC9KJe6TMnPUUH1ZfdKP71goBPrHs1bQusV+lEtN8gwfbPh5XjVuibE5kiTpuDO5qilaxdMI6DTF5pw7KDm+hRzkInGGgcw1NvSkVSGbf8XQ5OxMlg4OGkXc/YD+TiOCYIpdyafkfoAUF3YmDxShxcFM+pWzGqg==;Q/ES7KuRxIVQqnYjnAFqRw=="
+related:
+  - title: "UK schools ‘bewildered’ by AI and do not trust tech firms, headteachers say"
+    excerpt: "School leaders announce launch of body to advise and protect students from the risks of artificial intelligence"
+    publishedDateTime: 2023-05-20T08:42:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/may/20/uk-schools-bewildered-by-ai-and-do-not-trust-tech-firms-headteachers-say"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/may/20/uk-schools-bewildered-by-ai-and-do-not-trust-tech-firms-headteachers-say"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/may/20/uk-schools-bewildered-by-ai-and-do-not-trust-tech-firms-headteachers-say"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 55
+    images:
+      - url: "https://i.guim.co.uk/img/media/97aa6b70184bec326518d2b1da6879aa527e41fd/0_0_3500_2101/master/3500.jpg?width=620&quality=85&auto=format&fit=max&s=40268c03ecb3a55b77499ed7d4f23152"
+        width: 620
+        height: 372
+        isCached: true
+
+secured: "LD98avGiJvHdoDDGAgOC6izGQ4SOLvSYM8daBei7uwUSUngfZLzkz8ChIS9Qy064TjfPl4P9jLouw+xHduq00wc+hy4rg3ey+sPJWRKyfCaykjW3PWfuNI7v+/Cz2URj3lzAg/2PIUsDmXIk+HfSq/LDNGqnVceT2yNUJf0iYTXvweJwZoUmWsll4kcEsdbOY2oEXGh+sgTFs4BEmuUFhI2JdzskzArns/VMzbbS7ssraJ+aBgelHzOxnfFmMLjY7VBotHf7uO3QSkY2vWpOU817H4B+NU25o7F/JE/1Q5pqFQpOucpxhwpPg09+2OjaMHoNjz7v3GQpfDuZ9mbN97U3LAgyJhmWD8R3KQLD/6tubCCi5G2CQ2IHWXsZs4hgplKhNcuDaO/IzEv939O4rjFRp4xSWTcj/Mnq6udz1UTv5HXvRUgRWpVK4NJargdI2BYMPz113rZ/aoDT6nxdcDopcwHkcZ9DETSfsLV+XWfn6ORP966EeyR/NwMdi1raSNQAu9zUnwqzK/6xudl8+g==;GF+9nFp+Fwf0pBdn0fIknA=="
 ---
 

@@ -47,15 +47,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "AI-powered tech to aid Cooper team in Alzheimer’s detection"
-    excerpt: "Early detection is a key step in timely and accurate diagnosis so that patients can get emerging treatments and early-stage interventions,” said DigiCARE Realized CEO Brittany Cassin."
-    publishedDateTime: 2023-05-15T16:43:00Z
-    webUrl: "https://njbiz.com/ai-powered-tech-to-aid-cooper-team-in-alzheimers-detection/"
-    type: article
-    provider:
-      name: NJBIZ
-      domain: njbiz.com
-    quality: 17
 
 secured: "M8uPVqaW4sFRxFin8nOY5DXzVMeR7D07paDm9EJWq3QWRCdyCk+sgEcGd7Xx9FVFxCiEwpzQgm7iZQw2Cl+UcPWl+mYVACpc0oPCi7HyYdwGFz3lEONFRTpkm3U6qPSANmdM5cKjtPEvdZ/Ox6GyqJ8Wrfehol6+HMbMPjaeH537DMea4Fo0PKE/1wIIpC/pjWg+6LNiHDTbwJuofj3YT70/XtrlxE4K4WcYxuxhqNmXPK8bwzHuncIXBlBmgIJU16KzsnrTrOjDoEB/TEhUVea3giyfXnBEy8fCtRbUYDThY67+hd0zTKRaqoD0Bm6lkq5DpwnMlumfh6ZG/0kQDJYcAeBy5gv+IY+d2dPb77aC6DiBtvDM7ojNBsGuvdd2VIkvHtOYoBvYJ+EoT2S0PQxmy67UQjTa6Pclq+U8VjrQQIhll9OUzZqi7uY9xAwYHrXXExs1ch/oEhC1ddFRqlLvhaCQidKo7aUwCP7BkQYyad2TFDVa8RQFxy3pVCwPEU9jEFXkqjHA0wLseScMtQ==;iYkU6iYMcfQ5cuKVtYl/Fw=="
 ---

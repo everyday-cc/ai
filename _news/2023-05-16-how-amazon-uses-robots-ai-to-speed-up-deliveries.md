@@ -33,6 +33,15 @@ related:
         width: 1726
         height: 1214
         isCached: true
+  - title: "Amazon Plans AI Chatbot to Replace Shopping Search"
+    excerpt: "A recent job posting reveals Amazon's intention to design a generative AI that would replace the search bar on its site, potentially upending the way sellers have used Amazon thus far. The posting seeks a senior software developer to spearhead the company's AI project."
+    publishedDateTime: 2023-05-16T18:15:00Z
+    webUrl: "https://www.extremetech.com/internet/amazon-plans-ai-chatbot-to-replace-shopping-search"
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 19
 
 secured: "OntbejdRLbcFH7KWp5Iw9M13SaDWdYttI9ypMJkMhI4xdLyAgKS0xtBLErQbO7XOH11lhDahfibl/9BGMgnMMi0ilsO+7fhZrJMfujq2E5JGGVL9LkC8HUdeWz3W6RgSEc/+zBvfM/7V4mtgtTYq00EDkfI0DkjTSDTfoxKx2Bq6UbPN3UYymMUvYI2IZ0wa2wHJQIYDhhWuoPEfOrNkSkha5MpjSDUvVcdjO1LBgL1K03T7BQmUeMjOKUlixMdu8NjdJ/FZW2WyqsQSQRPUysAkU3uX72w3fiRRxwn0x6/aoTmDz+PWcH/gRMhKSXzylkHnQwi0IJ5z3Z53rZ2aJ5gzDc8Et/s6nBG5F6QAPCqujIvtYUlZ99SNByDpInLJFXSLQ/3gPEzhsPxDnZQruNXJ0XR88s2lw95kl3ZVCtAuvBiEVxdER3yB8E3k8MtHePjnsSpqwmcju64PRjSNwYg8PuGeyhKjfD/iLKBR1piE5tX9G1wrqqvnaXlBokgW25E90XM6joZZHpV7Z2vKKg==;c4kspziDJcwjdFUfdaovkA=="
 ---

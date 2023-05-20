@@ -23,15 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "U.S. lawmakers grapple with regulating artificial intelligence"
-    excerpt: "U.S. lawmakers will hear from artificial intelligence experts on Tuesday as Congress grapples with how to regulate AI, a field that has seen explosive advances and a boom in popularity over the past year."
-    publishedDateTime: 2023-05-16T08:53:00Z
-    webUrl: "https://www.cnn.com/videos/us/2023/05/16/exp-senate-hearing-artificial-intelligence-lori-schwartz-intv-051602aseg1-cnni-us.cnn"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 47
   - title: "Schumer meets with bipartisan group of senators to build a coalition for AI law"
     excerpt: "Schumer has takes next steps with a group of bipartisan Senate lawmakers to craft a comprehensive artificial intelligence law. \"Congress must move quickly,\" he said Thursday."
     publishedDateTime: 2023-05-19T01:57:00Z

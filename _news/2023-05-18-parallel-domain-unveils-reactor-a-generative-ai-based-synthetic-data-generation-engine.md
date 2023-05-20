@@ -30,36 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Unlock productivity with advanced generative AI"
-    excerpt: "Learn how we are unlocking new levels of productivity by introducing advanced generative AI into Watson Assistant use cases.\nThe post Unlock productivity with advanced generative AI appeared first on IBM Blog.\n"
-    publishedDateTime: 2023-05-15T16:44:03Z
-    webUrl: "https://www.ibm.com/blog/unlock-productivity-with-advanced-generative-ai/"
-    type: article
-    provider:
-      name: IBM
-      domain: ibm.com
-    quality: 119
-    images:
-      - url: "https://www.ibm.com/blog/wp-content/uploads/2023/05/watson-assistant-ai-for-customer-service-create.Original.jpg"
-        width: 1217
-        height: 685
-        isCached: true
-  - title: "ChatGPT And Generative Artificial Intelligence In Finance"
-    excerpt: "Drew Spaventa is the founder and CEO of The Spaventa Group, a leading investment company."
-    publishedDateTime: 2023-05-17T10:59:00Z
-    webUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2023/05/17/chatgpt-and-generative-artificial-intelligence-in-finance/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2023/05/17/chatgpt-and-generative-artificial-intelligence-in-finance/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2023/05/17/chatgpt-and-generative-artificial-intelligence-in-finance/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 104
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6463b7dd624c546c1fc2ff1a/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 801
-        isCached: true
   - title: "Apple is on the hunt for generative AI talent"
     excerpt: "Apple currently has a dozen of job postings on its career page to look for experts in the field of generative AI."
     publishedDateTime: 2023-05-19T16:23:00Z
@@ -76,132 +46,36 @@ related:
         width: 1200
         height: 700
         isCached: true
-  - title: "New paper introduces ethics framework for use of generative AI in health care"
-    excerpt: "A new paper published by leading Australian AI ethicist Stefan Harrer Ph.D. proposes for the first time a comprehensive ethical framework for the responsible use, design, and governance of Generative AI applications in health care and medicine."
-    publishedDateTime: 2023-05-16T13:49:00Z
-    webUrl: "https://medicalxpress.com/news/2023-05-paper-ethics-framework-generative-ai.html"
-    ampWebUrl: "https://medicalxpress.com/news/2023-05-paper-ethics-framework-generative-ai.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-05-paper-ethics-framework-generative-ai.amp"
+  - title: "Study combines quantum computing and generative AI for drug discovery"
+    excerpt: "Insilico Medicine, a clinical stage generative artificial intelligence (AI)-driven drug discovery company, today announced that it combined two rapidly developing technologies, quantum computing and generative AI,"
+    publishedDateTime: 2023-05-19T13:54:00Z
+    webUrl: "https://phys.org/news/2023-05-combines-quantum-generative-ai-drug.html"
+    ampWebUrl: "https://phys.org/news/2023-05-combines-quantum-generative-ai-drug.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-05-combines-quantum-generative-ai-drug.amp"
     type: article
     provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 71
+      name: Phys.org
+      domain: phys.org
+    quality: 57
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/ai-health.jpg"
-        width: 1920
-        height: 1633
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/insilico-medicine-led-1.jpg"
+        width: 2500
+        height: 1313
         isCached: true
-  - title: "Apple looking to hire machine learning engineers with an interest in generative AI"
-    excerpt: "Apple's Technology Development Group (TDG) is looking for Machine-Learning engineers with a background and/or interest in Generative AI! You will be leveraging innovative Generative models to build fundamental applications on top of Apple's most advanced ..."
-    publishedDateTime: 2023-05-19T17:17:00Z
-    webUrl: "https://appleinsider.com/articles/23/05/19/apple-looking-to-hire-machine-learning-engineers-with-an-interest-in-generative-ai"
-    ampWebUrl: "https://appleinsider.com/articles/23/05/19/apple-looking-to-hire-machine-learning-engineers-with-an-interest-in-generative-ai/amp/"
-    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/23/05/19/apple-looking-to-hire-machine-learning-engineers-with-an-interest-in-generative-ai/amp/"
+  - title: "Google’s Vertex AI machine learning platform gets generative AI tools"
+    excerpt: "The new updates to Google Cloud’s machine learning service will help the company square up against rivals such as Microsoft, AWS and IBM."
+    publishedDateTime: 2023-05-16T05:37:00Z
+    webUrl: "https://www.arnnet.com.au/article/707102/google-vertex-ai-machine-learning-platform-gets-generative-ai-tools/"
     type: article
     provider:
-      name: AppleInsider
-      domain: appleinsider.com
-    quality: 68
-    images:
-      - url: "https://photos5.appleinsider.com/gallery/54505-110094-Apple-Siri-xl.jpg"
-        width: 1312
-        height: 738
-        isCached: true
-  - title: "ActiveCampaign Introduces Content Generation Powered by AI"
-    excerpt: "The marketing automation provider invests in generative AI, helping customers improve engagement, conversion rates, and the overall customer"
-    publishedDateTime: 2023-05-16T11:14:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/activecampaign-introduces-content-generation-powered-by-ai-1032330723"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 67
-    images:
-      - url: "https://mma.prnewswire.com/media/2077354/Chat_GPT_AI_Assistant___Opengraph_Twitter_Linkedin.jpg"
-        width: 400
-        height: 210
-        isCached: true
-  - title: "Apple's Neural Engine and the generative AI game"
-    excerpt: "While Apple’s pre-WWDC assistive technology announcements could be life-changing in their own right, one hidden element is the extent to which they exploit the powerful Neural Engine at the heart of Apple Silicon."
-    publishedDateTime: 2023-05-17T13:01:00Z
-    webUrl: "https://www.computerworld.com/article/3696281/apples-neural-engine-and-the-generative-ai-game.html"
-    ampWebUrl: "https://www.computerworld.com/article/3696281/apples-neural-engine-and-the-generative-ai-game.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3696281/apples-neural-engine-and-the-generative-ai-game.amp.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 59
-    images:
-      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2022/09/01/09/steve_jobs_theater_apple_park-100931864-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Generative AI Adds New Dimensions to Election Interference"
-    excerpt: "Election administrators are still digging out from the mountains of misinformation from the 2020 election cycle. Bad actors are using AI to ramp up for the next one. Can AI help level the playing field for the good guys?"
-    publishedDateTime: 2023-05-19T05:40:00Z
-    webUrl: "https://www.governing.com/security/generative-ai-adds-new-dimensions-to-election-interference"
-    ampWebUrl: "https://www.governing.com/security/generative-ai-adds-new-dimensions-to-election-interference?_amp=true"
-    cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/security/generative-ai-adds-new-dimensions-to-election-interference?_amp=true"
-    type: article
-    provider:
-      name: Governing
-      domain: governing.com
-    quality: 59
-    images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/2cfba84/2147483647/strip/true/crop/1679x875+0+0/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fa6%2F8d%2F75d7c3b64a09b15bf3759f57b52d%2Fus-news-senate-ai-regulation-get.jpg"
-        width: 840
-        height: 438
-        isCached: true
-  - title: "‘Generative AI can be seen; it’s more cool than traditional AI’"
-    excerpt: "Generative AI and transformers (that help predict the next word or a sentence, and even a para) were not invented to perform physical stuff. They were invented to understand languages better. Images and videos are only a by-product of that."
-    publishedDateTime: 2023-05-20T05:56:00Z
-    webUrl: "https://www.livemint.com/news/india/generative-ai-can-be-seen-it-s-more-cool-than-traditional-ai-11684520744847.html"
-    ampWebUrl: "https://www.livemint.com/news/india/generative-ai-can-be-seen-it-s-more-cool-than-traditional-ai/amp-11684520744847.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/generative-ai-can-be-seen-it-s-more-cool-than-traditional-ai/amp-11684520744847.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 59
-    images:
-      - url: "https://www.livemint.com/lm-img/img/2023/05/19/600x338/Global-chief-technology-officer-of-Evalueserve--Ri_1684520740797.png"
-        width: 600
-        height: 338
-        isCached: true
-  - title: "Generative AI Empowers Users but Challenges Security"
-    excerpt: "With the introduction of generative AI, even more business users are going to create low-code/no-code applications. Prepare to protect them."
-    publishedDateTime: 2023-05-15T19:39:00Z
-    webUrl: "https://www.darkreading.com/edge-articles/generative-ai-empowers-users-but-challenges-security"
-    type: article
-    provider:
-      name: Dark Reading
-      domain: darkreading.com
+      name: ARN
+      domain: arnnet.com.au
     quality: 56
     images:
-      - url: "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt9e4903423b90ee49/64626bd3dc45a2b53749d78e/roadguardrails-Gartland-alamy.jpg"
-        width: 1200
-        height: 800
+      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/dreamstime_s_125457497_2.jpg"
+        width: 473
+        height: 315
         isCached: true
-  - title: "Generative AI For Business Leaders 101"
-    excerpt: "AI stands for \"artificial intelligence,\" which is the simulation of human intelligence in machines to perform tasks that typically require human intelligence, such as decision making, perception and language translation. AI is powered by various techniques ..."
-    publishedDateTime: 2023-05-19T14:05:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/19/generative-ai-for-business-leaders-101/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
-  - title: "Going Beyond Generative AI To Truly Solve Productivity"
-    excerpt: "With generative AI output, it’s important to note that the information provided is usually of a descriptive or informative nature."
-    publishedDateTime: 2023-05-17T13:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/17/going-beyond-generative-ai-to-truly-solve-productivity/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "Meet the Startup Promising to Deliver the 1st Healthcare-focused Generative AI Model"
     excerpt: "Hippocratic AI emerged from stealth, as well as announced $50 million in seed funding through a round co-led by General Catalyst and Andreessen Horowitz. The Palo Alto-based startup bills itself as the first large language model designed specifically for healthcare."
     publishedDateTime: 2023-05-16T22:34:00Z
@@ -216,64 +90,60 @@ related:
         width: 724
         height: 483
         isCached: true
-  - title: "Stop Serving Dogfood, Invest In Generative Artificial Intelligence With Purpose"
-    excerpt: "Don't fall prey to the trends, make sure your generative artificial intelligence investments are meaningful to your customers before launching dogfood to your users."
-    publishedDateTime: 2023-05-18T13:29:00Z
-    webUrl: "https://www.forbes.com/sites/joetoscano1/2023/05/18/stop-serving-dogfood-invest-in-generative-artificial-intelligence-with-purpose/"
+  - title: "This Magnificent Fintech Stock Is Surprisingly Climbing Aboard the Generative AI Train"
+    excerpt: "Therefore, AI is the hot topic of 2023. And fintech company Block (NYSE: SQ) has officially entered the conversation. To be clear, almost all technology companies have used some form of AI or ..."
+    publishedDateTime: 2023-05-16T10:37:00Z
+    webUrl: "https://www.nasdaq.com/articles/this-magnificent-fintech-stock-is-surprisingly-climbing-aboard-the-generative-ai-train"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 43
-  - title: "KPMG makes generative AI available to partners and staff"
-    excerpt: "KPMG announced a new initiative to deploy a series of generative AI partnerships and investments to reinvent how the firm operates."
-    publishedDateTime: 2023-05-16T14:05:00Z
-    webUrl: "https://www.accountingtoday.com/news/kpmg-makes-generative-ai-available-to-partners-and-staff"
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 41
+  - title: "State of AI adoption for enterprise IT management in the Middle East"
+    excerpt: "With large language models (LLMs) in the market, the AI hype cycle is at an all-time high, and AI adoption is gaining traction."
+    publishedDateTime: 2023-05-19T11:30:00Z
+    webUrl: "https://gulfbusiness.com/state-of-ai-adoption-in-the-middle-east/"
     type: article
     provider:
-      name: Accounting Today
-      domain: accountingtoday.com
+      name: Gulf Business
+      domain: gulfbusiness.com
     quality: 39
     images:
-      - url: "https://arizent.brightspotcdn.com/dims4/default/4cdc59a/2147483647/strip/true/crop/2000x1050+0+30/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F6b%2F8f%2F72919e654bc18c3900fa3e4087d1%2F375176087.jpg"
-        width: 1200
-        height: 630
+      - url: "https://gulfbusiness.com/wp-content/uploads/2023/05/digitization-4770296_1920.jpg"
+        width: 930
+        height: 620
         isCached: true
-  - title: "Why boardrooms can’t ignore generative AI"
-    excerpt: "Companies, large and small, are adapting to the threats and opportunities that come with generative AI. Here’s how.Prominent tech leaders have warned against the potential misuse of generative AI. The"
-    publishedDateTime: 2023-05-16T18:51:00Z
-    webUrl: "https://www.livemint.com/news/india/generative-ai-s-rise-raises-security-concerns-for-enterprises-as-samsung-electronics-recently-discovered-a-security-risk-with-chatgpt-despite-concerns-mid-sized-and-large-companies-are-exploring-its-potential-use-cases-in-areas-such-as-hr-fintech-and-e-commerce-however-companies-must-continuously-monitor-re-train-and-fine-tune-to-ensure-accurate-output-and-stay-up-to-date-tech-leaders-have-called-for-a-six-month-moratorium-on-training-systems-that-are-more-powerful-than-gpt-4-until-the-risks-can-be-contained-11684262415529.html"
+  - title: "Generative AI tools could help companies solve labor and talent shortages, SAP says"
+    excerpt: "Partnership with Microsoft uses latest AI tech to write job descriptions, draft interview questions, suggest training for new skills."
+    publishedDateTime: 2023-05-16T17:25:00Z
+    webUrl: "https://www.dcvelocity.com/articles/57485-generative-ai-tools-could-help-companies-solve-labor-and-talent-shortages-sap-says"
     type: article
     provider:
-      name: Mint
-      domain: livemint.com
-    quality: 19
-  - title: "The race to bring generative AI to mobile devices"
-    excerpt: "Tech companies like Google seek processing power in handsets to reduce computing costs and improve speed of AI chatbots"
-    publishedDateTime: 2023-05-16T04:00:00Z
-    webUrl: "https://www.ft.com/content/6579591d-4469-4b28-81a2-64d1196b44ab?shareType=nongift"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 17
-  - title: "How 4 Colorado companies are innovating with generative AI"
-    excerpt: "In Colorado, companies across a range of industries are working at the forefront of innovation with generative AI."
-    publishedDateTime: 2023-05-17T13:48:00Z
-    webUrl: "https://www.bizjournals.com/denver/news/2023/05/17/colorado-companies-innovate-generative-ai.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 17
-  - title: "Three problems with generative AI have yet to be addressed"
-    excerpt: "While AI-based tools could deliver a major boost in productivity and efficiency, there's a dark side to them, as well."
-    publishedDateTime: 2023-05-19T09:57:00Z
-    webUrl: "https://www.computerworld.com/article/3696999/three-problems-with-generative-ai-have-yet-to-be-addressed.html"
+      name: DC Velocity
+      domain: dcvelocity.com
+    quality: 33
+    images:
+      - url: "https://www.dcvelocity.com/ext/resources/2023/05/16/SAP-AI-Related_281266_MachineLearning_C.jpeg?height=1200&t=1684258053&width=635"
+        width: 300
+        height: 373
+        isCached: true
+  - title: "Amazon is working on infusing generative AI into its shopping app"
+    excerpt: "Rivals adding generative AI features and consumer demand may be the two reasons behind Amazon’s push in revamping the search engine of its retail application. In the US, about 56% of product searches start on Amazon, higher than the 42% share of search ..."
+    publishedDateTime: 2023-05-16T09:52:00Z
+    webUrl: "https://www.computerworld.com/article/3696691/amazon-is-working-on-infusing-generative-ai-into-its-shopping-app.html"
     type: article
     provider:
       name: Computerworld
       domain: computerworld.com
+    quality: 17
+  - title: "Is generative AI the secret to scaling customer success?"
+    excerpt: "Generative AI can even learn to personalize the tone, style, and voice of your content to fit your brand so that all you need to do is fact-check, finesse, and humanize it. But amid all this promise, where do you start incorporating AI into your customer ..."
+    publishedDateTime: 2023-05-18T13:32:00Z
+    webUrl: "https://www.fastcompany.com/90896251/is-generative-ai-the-secret-to-scaling-customer-success"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
     quality: 17
 
 secured: "L5+G4jrmp1ps2f1wqyG0Hgo4WBsQR3JDJAQr9ioxznJbvBb1KAjZVwGDOOoJi3ef+rEk2e3xxOkohH4qtdW5f3o+jqwgRMBMKbEL3Z/rAyVEBY8XENwEXIzJF/7785mVQ6Yh1WCa+MV4yCIWY4fG+1lFFzekghk6DxBP8cRHpvADH1rvY8gIZjWnU5yWrnAcQjGDMTVWQk5hpvbwJFOHNo/pmaB5KkiwQEoUAjfhbtRrYVcPY1xURcm2nfBo85oq72Izh1x3FSTavktiTzMd5nU19+iyDOcfR85miREeTL7EW1JU7IKEbb5n2iXQR9sSoQ75fn/7veobi2iskuSrDGvWuKdR85quKu5mVrjGNLYWMR6PhAP1CByiVV70Je3JI33FeyjILHmxFH8mht3AQcvpZ/ucEXX4QvFv+Hxi65yoV81scaecE23txpUbIMYtYPrXbayAgQpv9sBO4bEMdIU7TBBemGcxRyqjnLQO7VHlfA9hs6LRr8V+GSImqavzZmhW9kiqaJiONNVvWV1jeQ==;dtNNiaB1g7RxxG0Z7ZayUA=="
