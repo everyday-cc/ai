@@ -299,49 +299,6 @@
       ]
     },
     {
-      "path": "_news/2023-05-17-abb-predicts-top-us-robotics-trends.md",
-      "title": "ABB Predicts Top U.S. Robotics Trends",
-      "excerpt": "The impact of U.S. labor shortages is increasingly being felt by many businesses as they struggle to keep pace with customer demands, even with the potential for some softening",
-      "sourceUrl": null,
-      "webUrl": "https://www.manufacturing.net/operations/news/22862117/abb-predicts-top-us-robotics-trends",
-      "originalUrl": "https://www.manufacturing.net/operations/news/22862117/abb-predicts-top-us-robotics-trends",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.manufacturing.net/files/base/indm/multi/image/2023/05/ABB_AI_enabled_Item_Picker.6464e19fa3498.png?auto=format%2Ccompress&fit=max&q=70&rect=99%2C0%2C1743%2C981&w=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-17T07:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Manufacturing",
-        "domain": "manufacturing.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-05-17-amazons-ai-powered-robot-cant-fix-the-broken-smart-home.md",
       "title": "Amazon's AI-powered robot can't fix the broken smart home",
       "excerpt": "Unfortunately, some new leaked documents suggest it's up to those tricks again with the development of an AI-powered home robot ... before you have wings. For a start, the current Amazon Astro ...",
@@ -1415,6 +1372,49 @@
         "AI in Robotics",
         "AI",
         "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2023-05-11-column-the-writers-strike-is-only-the-beginning-a-rebellion-against-ai-is-underway.md",
+      "title": "Column: The writers' strike is only the beginning. A rebellion against AI is underway",
+      "excerpt": "Artists, journalists and screenwriters are leading the fight against employers who would seek to replace them with the products of ChatGPT and other generative AI software.",
+      "sourceUrl": null,
+      "webUrl": "https://www.aol.com/news/column-writers-strike-only-beginning-120051804.html",
+      "originalUrl": "https://www.aol.com/news/column-writers-strike-only-beginning-120051804.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.zenfs.com/en/aol_la_times_articles_830/0e92ebc7d974fc7d04ec32eb62d17222",
+          "width": 840,
+          "height": 560,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.aol.com/amphtml/column-writers-strike-only-beginning-120051804.html",
+      "cdnAmpWebUrl": "https://www-aol-com.cdn.ampproject.org/c/s/www.aol.com/amphtml/column-writers-strike-only-beginning-120051804.html",
+      "publishedDateTime": "2023-05-11T08:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AOL",
+        "domain": "aol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
       ]
     }
   ],

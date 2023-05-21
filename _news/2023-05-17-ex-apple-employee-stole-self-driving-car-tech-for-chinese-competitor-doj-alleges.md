@@ -148,24 +148,6 @@ related:
       name: UPI
       domain: upi.com
     quality: 3
-  - title: "Former Apple engineer charged with stealing autonomous car tech trade secrets"
-    excerpt: "The U.S. Justice Department said on Tuesday it has charged a former Apple Inc. engineer with attempting to steal the firm's technology related to autonomous systems, including self-driving cars, and then fleeing to China."
-    publishedDateTime: 2023-05-16T17:09:00Z
-    webUrl: "https://www.cbc.ca/news/world/former-apple-engineer-china-1.6845041"
-    type: article
-    provider:
-      name: CBC.ca
-      domain: www.cbc.ca
-    quality: 1
-  - title: "Fugitive ex-Apple engineer charged for trying to steal self-driving car tech"
-    excerpt: "The Justice Department said Tuesday it has charged a former Apple engineer with attempting to steal the firm’s technology related to autonomous systems, including self-driving cars, and then fleeing to China. The case was among five announced on Tuesday ..."
-    publishedDateTime: 2023-05-16T18:36:00Z
-    webUrl: "https://nypost.com/2023/05/16/fugitive-ex-apple-engineer-charged-for-trying-to-steal-self-driving-car-tech/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 1
   - title: "DOJ charges former Apple engineer with stealing self-driving car technology for China"
     excerpt: "The Department of Justice today charged a former Apple Inc. engineer with stealing autonomous technology and giving it to a Chinese self-driving car company. The indictment, filed at federal court in the Northern District of California, alleges that Weibao ..."
     publishedDateTime: 2023-05-17T01:02:00Z
@@ -174,15 +156,6 @@ related:
     provider:
       name: SiliconANGLE
       domain: siliconangle.com
-    quality: 0
-  - title: "U.S. charges ex-Apple engineer with stealing self-driving car secrets for China"
-    excerpt: "The U.S. Justice Department has charged a former Apple engineer with stealing the firm's technology on autonomous systems, including self-driving cars."
-    publishedDateTime: 2023-05-16T18:00:00Z
-    webUrl: "https://www.autoblog.com/2023/05/16/u-s-charges-ex-apple-engineer-with-stealing-self-driving-car-secrets-for-china/"
-    type: article
-    provider:
-      name: Autoblog
-      domain: autoblog.com
     quality: 0
 
 secured: "tSu3o1D8+mwWYkZjxmPfwCfwEa5+sNQ4Ehb96IGNCv4SKcEqh5lEC1U1kiN9tzLPMQOtNZ8ihuPVo1I/ehP2ON8NZXnKhRz7Y+9XGjeXe89fPfPL6GjUXxt73ldAWW5Yy1PWZUuicri35sXaJNd4gZ74VfyctBNIyG4qYL831Z/bxv81/IKRU1lJVKIHWT/u+aeinrqKg6Mrkp/nzJipSGCr391ZHa0uaHA1c6E3S2RL3/1viBn1MEkXgq5kN5WihINqTPuMikZhTMb1PEpl1dNMkdRALf+kG//LoPskQBzy1eeyrMDy6yZPU7T6W7Jw4jSNugA+tZ6ulKFOCv9fG8fHYG/3BcaFuJjeZApjVoOpoFLoFtlyxQFWOWadjUVjoYFPCezIfyxBv8z230oaI9CxqTcROVy4J1YxWnegbgCXjoDWJL7vMsoJnd7aQl8lxPiy+1MmAtiT+H4kmVCXHGlsiMgZ1nChgmR6oi0oQ4k1204sIxNZ3Xm3frRnmUwdXw8ZUHA14MeoYOTXjlh8nA==;SYT0ckDAyRzXlKgi4829AQ=="

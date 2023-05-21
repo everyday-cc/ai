@@ -78,15 +78,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
-  - title: "Zoom makes a big bet on AI with investment in Anthropic"
-    excerpt: "Zoom today announced a partnership with Anthropic to integrate its Claude AI assistant across its platform offerings."
-    publishedDateTime: 2023-05-16T18:07:00Z
-    webUrl: "https://venturebeat.com/ai/zoom-makes-a-big-bet-on-ai-with-investment-in-anthropic/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 47
   - title: "AI Alarmists Are Dragging Us All Down a Rabbit Hole"
     excerpt: "Silicon Valley is fixated on longtermism — prioritizing future lives over those living today. This is very tricky moral math."
     publishedDateTime: 2023-05-18T23:20:00Z

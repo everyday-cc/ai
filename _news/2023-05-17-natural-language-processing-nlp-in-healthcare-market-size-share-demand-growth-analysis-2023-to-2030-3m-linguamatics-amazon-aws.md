@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/natural-language-process
 webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-in-healthcare-market-size-share-demand-growth-analysis-2023-to-2030-3m-linguamatics-amazon-aws-2023-05-17"
 type: article
 quality: 86
-heat: 136
+heat: 126
 published: true
 
 provider:
@@ -68,20 +68,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 41
-  - title: "Natural Language Processing Technology Market 2023 Top Key Players, Industry Demand, Future Estimations and Key Tactics to 2029"
-    excerpt: "The research study also includes key data of the Natural Language Processing Technology market, such as market size, revenue, growth rate, CAGR, and product price. The report also has the strategies to recover from the impacts of Covid-19 and strategies used by prominent market players to drive the growth of the Natural Language Processing Technology market."
-    publishedDateTime: 2023-05-16T18:49:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-technology-market-2023-top-key-players-industry-demand-future-estimations-and-key-tactics-to-2029-2023-05-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 41
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Natural Language Processing (NLP) Market Trends, Active Key Players, And Growth Projection Up To 2030"
     excerpt: "Increasing investments in the healthcare sector are expected to provide lucrative growth opportunities for the market. PORTLAND, PORTLAND, OR, UNITED STATES, May 19, 2023 /einpresswire.com / -- According to the report,"
     publishedDateTime: 2023-05-19T11:33:00Z

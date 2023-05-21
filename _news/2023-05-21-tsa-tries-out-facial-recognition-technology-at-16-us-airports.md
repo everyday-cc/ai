@@ -2,17 +2,17 @@
 category: news
 title: "TSA tries out facial recognition technology at 16 U.S. airports"
 excerpt: "A passenger walks up to an airport security checkpoint, slips an ID card into a slot and looks into a camera atop a small screen. The screen flashes \"Photo Complete\" and the person walks through -- all without having to hand over their identification to the TSA officer sitting behind the screen."
-publishedDateTime: 2023-05-21T07:46:00Z
-originalUrl: "https://www.arkansasonline.com/news/2023/may/21/tsa-tries-out-facial-recognition-technology-at-16/"
-webUrl: "https://www.arkansasonline.com/news/2023/may/21/tsa-tries-out-facial-recognition-technology-at-16/"
+publishedDateTime: 2023-05-21T07:41:00Z
+originalUrl: "https://www.nwaonline.com/news/2023/may/21/tsa-tries-out-facial-recognition-technology-at-16/?business-national"
+webUrl: "https://www.nwaonline.com/news/2023/may/21/tsa-tries-out-facial-recognition-technology-at-16/?business-national"
 type: article
 quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Arkansas Democrat-Gazette
-  domain: arkansasonline.com
+  name: Northwest Arkansas Democrat Gazette
+  domain: nwaonline.com
 
 topics:
   - Computer Vision
@@ -155,6 +155,6 @@ related:
       domain: extremetech.com
     quality: 19
 
-secured: "puHZK7xCtEnWCxF16pTwKrXRv0OFKcd/JZ+cg2Ep23unsrBC0xivP5RDJGOpmBory2SLdhLd1bTWr6h9n4WCelU0BVt6PhFYOYzoIuNN9wSg3NHLTy8T/Htz6Rkm/bLNyg1DYOlFraN9eW/Y23yIMfI4ZC6YTu6plOytrzyjkj7HjfNceXetW+0EGuujOY+AmhiEP588fdJ7kABSiLakUGNocl/wkltw4bNiKiVlFoIs25WRvnh8ZJ5a36JJETTfCXBu1XZ6B5aawiRhOD3j54pZe3jzva9K/9n1Ul4HC5/L5ULPmCbMJKq5XsFpYXeCmI8z9ey127nHiujzp+3jtdlHB7HLwompiAOp8hctp4Qifs/pxKQxy+iSVkI01IRx1OsCw6HtEj3Tb+La51ptrdFL7Ys22h81ZIy28zIiBini2Rl9XADiYbpRA++iynt5VtGl/VvOBsKDnJ4Rso386tUZ8MDI9W5adSD1Y90UzqEwel6QbYg1I28J1OH0VF4g11fFuAr45mzzUvLs+y8FHg==;jvEX62L3hxmPYTGsgPQFBA=="
+secured: "W/RxW6kN17TOrjC0DLBSxIGN9jM6v7mh/tb8sJ96lIQAgS0kxvjvzLA3+hT1oa9AHAHF9wiRS+57XkdWAeqHAU0S469ZNOlB1P8SC0flVTKLXAxNY5GQU0LI28CuprJp/rls028ml0Pk3yQcigka++FUOVq/XcMTCtfzyqDNoInGYw/3sZp89jfhy4CvxboEbcVzlzZ69sPirlB3BRdpepwb4N2ecSTmgemsiJv1V+p/UMGTkuIuHFkNAGjVUUNbJ7n6sjtIpLUZWnjqo7wx09KwF+giYAyQrZgmt/JuHZl4qNasVHQHPGdZu+6KLNnpvRna2/hrZMLlBjM9ra/Wg03nvjLOPydZMZKVMFZaSC8=;NOflBIGS8Q2DogU3FC29lg=="
 ---
 

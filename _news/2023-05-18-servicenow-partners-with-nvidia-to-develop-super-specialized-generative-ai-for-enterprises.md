@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/servicenow-partners-with-nvidia-to-develo
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/servicenow-partners-with-nvidia-to-develop-super-specialized-generative-ai-for-enterprises/amp/"
 type: article
 quality: 76
-heat: 116
+heat: 106
 published: true
 
 provider:
@@ -76,15 +76,6 @@ related:
         width: 767
         height: 633
         isCached: true
-  - title: "New AI tools headline ServiceNow’s latest platform update"
-    excerpt: "They’re rolling out for ServiceNow’s namesake cloud platform, which helps companies manage the parts of their business that involve delivering a service. The platform streamlines tasks such as fielding technical support requests and onboarding new employees."
-    publishedDateTime: 2023-05-16T18:11:00Z
-    webUrl: "https://siliconangle.com/2023/05/16/new-ai-tools-headline-servicenows-latest-platform-update/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 19
 
 secured: "l20pN2zkP+rupwsuQLeMJCl6VVf3v8KBroLvMrf41j706bPefGlGdr58xDBbeiKxrnNuEGmerjYOmh2LBcKFhMCJmH1BVhKTOhA9fheyYir3nTVKXOSQQSlSaCw7jYJoA1PsrClzu08bdqfawAmLCBqUPr4DYC5u/8TwWOMi0V2767YAhjpr2cZI4dw16s9ZRFKX28ixSLKvQu1V2ke2vBLJGyOCLWIHZgF8q37HTFO7mJXeeiLWsA1lRWShNoYX9o+bL7ukrxgmWJslJb+YmJ7rR2ePN9z3c84+HL+xE42aabwPi+Q06aWgtx0ZZyNb0FvjKTFSP2Jl3upO5Oi1aQ7n01cP4xyMx7/O0IIXROIXNK3ocvnAUmDU61l+EeHqCCjPWRTmRZURnbfcpN3J/vM6aUlD/XOgH5u8D9W0WUyRwI/w4JMVyd8EK/2IDYCRr9Jw2u9/Jd+Xx8OqU/LMN4hNJutJk4Yh0FNNBu9ioCzYaEbujYmHSwKRpCgWCSDxO7Rs0c/4HQf22TTLh9cMJw==;hwL0PniwrK6Hbt7Bfhq68A=="
 ---

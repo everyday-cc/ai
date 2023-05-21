@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/05/19/apple-generative-ai-jobs/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/19/apple-generative-ai-jobs/amp/"
 type: article
 quality: 87
-heat: 177
+heat: 167
 published: true
 
 provider:
@@ -126,20 +126,6 @@ related:
       - url: "https://gulfbusiness.com/wp-content/uploads/2023/05/digitization-4770296_1920.jpg"
         width: 930
         height: 620
-        isCached: true
-  - title: "Generative AI tools could help companies solve labor and talent shortages, SAP says"
-    excerpt: "Partnership with Microsoft uses latest AI tech to write job descriptions, draft interview questions, suggest training for new skills."
-    publishedDateTime: 2023-05-16T17:25:00Z
-    webUrl: "https://www.dcvelocity.com/articles/57485-generative-ai-tools-could-help-companies-solve-labor-and-talent-shortages-sap-says"
-    type: article
-    provider:
-      name: DC Velocity
-      domain: dcvelocity.com
-    quality: 33
-    images:
-      - url: "https://www.dcvelocity.com/ext/resources/2023/05/16/SAP-AI-Related_281266_MachineLearning_C.jpeg?height=1200&t=1684258053&width=635"
-        width: 300
-        height: 373
         isCached: true
   - title: "Is generative AI the secret to scaling customer success?"
     excerpt: "Generative AI can even learn to personalize the tone, style, and voice of your content to fit your brand so that all you need to do is fact-check, finesse, and humanize it. But amid all this promise, where do you start incorporating AI into your customer ..."

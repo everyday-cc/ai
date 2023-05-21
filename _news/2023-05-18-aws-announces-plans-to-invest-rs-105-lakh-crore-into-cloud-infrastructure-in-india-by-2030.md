@@ -57,6 +57,22 @@ related:
         width: 770
         height: 435
         isCached: true
+  - title: "Will invest $12 billion in building India's cloud infrastructure: AWS global CEO; Paytm opposes IAMAI’s stand on digital competition"
+    excerpt: "Adam Selipsky, the newly appointed chief executive of Amazons cloud unit, Amazon Web Services (AWS), said India is a “high growth market” and he expects it to embrace cloud technology to reach its goal for a $5 trillion economy."
+    publishedDateTime: 2023-05-18T01:54:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/will-invest-12-billion-in-building-indias-cloud-infrastructure-aws-global-ceo-paytm-opposes-iamais-stand-on-digital-competition/articleshow/100315488.cms?from=mdr"
+    ampWebUrl: "https://m.economictimes.com/tech/newsletters/morning-dispatch/will-invest-12-billion-in-building-indias-cloud-infrastructure-aws-global-ceo-paytm-opposes-iamais-stand-on-digital-competition/amp_articleshow/100315488.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/newsletters/morning-dispatch/will-invest-12-billion-in-building-indias-cloud-infrastructure-aws-global-ceo-paytm-opposes-iamais-stand-on-digital-competition/amp_articleshow/100315488.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 43
+    images:
+      - url: "https://img.etimg.com/photo/msid-100316140/whatfix-co-founders-khadim-batti-and-vara-kumar..jpg"
+        width: 650
+        height: 487
+        isCached: true
   - title: "AWS India wants billions coming, but not in profit"
     excerpt: "Aggressive capital spend of $12.7 bn for a stranglehold in the cloud business could see profitability elude the Indian operations"
     publishedDateTime: 2023-05-20T02:21:00Z

@@ -39,15 +39,6 @@ related:
         width: 960
         height: 609
         isCached: true
-  - title: "Celebrating Technology: AI and future of digital payment"
-    excerpt: "The proliferation of digital payment systems accelerated the shift away from traditional currency, and in recent times, the application of artificial intelligence (AI) has become a key focus for online payment platforms."
-    publishedDateTime: 2023-05-16T17:16:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/celebrating-technology-ai-and-future-of-digital-payment/"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 19
 
 secured: "uTcLYZGvOi57y9n1CChLhlB7q8PVm3cBXc3uOFfXL0tTRbcPwsjTwZzh63eeczIt+KZ18kVYg6xmNtNSfd6qdpRai9s3aniPEXbMKbM1/OiVwWtftG4DBuhHqc6mAYL4GB8Lgpix0/ElO70MyKoiWabNmoyfVl2NPGkbZotHlhx1yHTHLHpRqkD+oAJcnU2XhOOp/A1mnVW7SMIdsCW9vR+hiF4+WE3RysldqIGBTi1dcB0ulxQTppZh6pezvi7RE7Y+gD3Y2FMGjykMnbj56baXNM4yTZOq1rhaC4dPMp0Prsuiy2ThFq2+6CMkabw/xhvObbbnGzDACtOeJ1lelcBM8DiCWkK/Q5mEVtCfcog=;fpCHoHXGF72hH+vES2QUqA=="
 ---

@@ -400,22 +400,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 47
-  - title: "ChatGPT’s chief testifies before Congress, calls for new agency to regulate artificial intelligence"
-    excerpt: "The head of the artificial intelligence company that makes ChatGPT told Congress on Tuesday that government intervention “will be critical to mitigate the risks of increasingly powerful” AI systems."
-    publishedDateTime: 2023-05-16T17:47:00Z
-    webUrl: "https://www.inquirer.com/business/technology/chatgpt-artificial-intelligence-regulation-20230516.html"
-    ampWebUrl: "https://www.inquirer.com/business/technology/chatgpt-artificial-intelligence-regulation-20230516.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-inquirer-com.cdn.ampproject.org/c/s/www.inquirer.com/business/technology/chatgpt-artificial-intelligence-regulation-20230516.html?outputType=amp"
-    type: article
-    provider:
-      name: Philadelphia Inquirer
-      domain: inquirer.com
-    quality: 45
-    images:
-      - url: "https://www.inquirer.com/resizer/c8oKuR3HuMkmniNMYZAmsZrZUP0=/760x507/smart/filters:format(webp)/cloudfront-us-east-1.images.arcpublishing.com/pmn/XFGBGJUSOD73NDTHQNOKAJLTVU.jpg"
-        width: 760
-        height: 507
-        isCached: true
   - title: "Official ChatGPT For iOS App Launches With Voice Support"
     excerpt: "In a pretty big move, OpenAI has just launched the official ChatGPT app for iPhone and iPad, eliminating the need to go through mobile browsers for access. However, that is not all, the app brings with it support for Whisper;"
     publishedDateTime: 2023-05-19T15:35:00Z
@@ -443,20 +427,6 @@ related:
       name: freightwaves.com
       domain: freightwaves.com
     quality: 39
-  - title: "ChatGPT and artificial intelligence in the classroom"
-    excerpt: "ChatGPT has raised concerns in learning circles about the future of education, but is it any different than when the internet was introduced?"
-    publishedDateTime: 2023-05-16T19:04:00Z
-    webUrl: "https://rabble.ca/education/chatgpt-and-artificial-intelligence-in-the-classroom/"
-    type: article
-    provider:
-      name: rabble
-      domain: rabble.ca
-    quality: 39
-    images:
-      - url: "https://rabble.ca/wp-content/uploads/2023/05/Sarah-Elaine-Eaton-ChatGPT-e1684262093831.jpg"
-        width: 1080
-        height: 538
-        isCached: true
   - title: "ChatGPT's Altman pleads US Senate for AI rules"
     excerpt: "WASHINGTON - Sam Altman, the chief executive of ChatGPT's OpenAI, told US lawmakers on Tuesday that regulating artificial intelligence was essential, after his poem-writing chatbot stunned the world."
     publishedDateTime: 2023-05-17T00:45:00Z
@@ -596,20 +566,6 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 31
-  - title: "ChatGPT chief says artificial intelligence should be regulated by a US or global agency"
-    excerpt: "The head of the artificial intelligence company that makes ChatGPT has told Congress that government intervention will be critical to mitigating the risks of increasingly powerful AI systems. OpenAI CEO Sam Altman testified at a Senate hearing Tuesday that he supports the formation of a U."
-    publishedDateTime: 2023-05-16T21:53:00Z
-    webUrl: "https://apnews.com/article/chatgpt-openai-ceo-sam-altman-congress-73ff96c6571f38ad5fd68b3072722790"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 29
-    images:
-      - url: "https://storage.googleapis.com/afs-prod/media/361322ea37f54f28815d564dfb7ba6a0/3000.jpeg"
-        width: 3000
-        height: 2000
-        isCached: true
   - title: "Apple reportedly bans some employees from using ChatGPT as it works on its own AI model"
     excerpt: "Apple Inc. has banned some employees from using OpenAI LP’s ChatGPT artificial intelligence service, according to a new report. The Wall Street Journal reported the development late Thursday, citing sources and an internal Apple document."
     publishedDateTime: 2023-05-19T17:30:00Z
@@ -660,15 +616,6 @@ related:
       name: moneycontrol.com
       domain: moneycontrol.com
     quality: 21
-  - title: "Why boardrooms can’t ignore generative AI"
-    excerpt: "Companies, large and small, are adapting to the threats and opportunities that come with generative AI. Here’s how.Prominent tech leaders have warned against the potential misuse of generative AI. The"
-    publishedDateTime: 2023-05-16T18:51:00Z
-    webUrl: "https://www.livemint.com/news/india/generative-ai-s-rise-raises-security-concerns-for-enterprises-as-samsung-electronics-recently-discovered-a-security-risk-with-chatgpt-despite-concerns-mid-sized-and-large-companies-are-exploring-its-potential-use-cases-in-areas-such-as-hr-fintech-and-e-commerce-however-companies-must-continuously-monitor-re-train-and-fine-tune-to-ensure-accurate-output-and-stay-up-to-date-tech-leaders-have-called-for-a-six-month-moratorium-on-training-systems-that-are-more-powerful-than-gpt-4-until-the-risks-can-be-contained-11684262415529.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 19
   - title: "ChatGPT chief calls for AI rules"
     excerpt: "The head of the artificial intelligence company that makes ChatGPT told Congress on Tuesday that government intervention will be critical to mitigating the risks of increasingly powerful AI systems."
     publishedDateTime: 2023-05-17T10:39:00Z
@@ -686,15 +633,6 @@ related:
     provider:
       name: News Tribune
       domain: newstribune.com
-    quality: 17
-  - title: "I dated ChatGPT’s AI girlfriend — what happened when I broke up with Caryn"
-    excerpt: "It’s unlikely Caryn actually passed the Turing test; her convincing nature is obviously more likely a credit to her human-centric programming. After all, prefacing everything with a caveat about her “AI” status is likely isn’t the best way to win boyfriends and influence people."
-    publishedDateTime: 2023-05-16T18:11:00Z
-    webUrl: "https://nypost.com/2023/05/16/i-went-on-a-date-with-chatgpts-carynai/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
     quality: 17
   - title: "NYC public schools opening the door to greater use of AI, loosening reins on ChatGPT"
     excerpt: "Schools Chancellor David Banks unveiled plans Thursday to offer a toolkit for teachers about artificial intelligence in their classrooms, as well as create a repository for schools to share their findings across the city."

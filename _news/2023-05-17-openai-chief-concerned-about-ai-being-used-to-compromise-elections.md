@@ -88,22 +88,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Here's what happened during OpenAI CEO Sam Altman's first congressional hearing on artificial intelligence"
-    excerpt: "Several lawmakers brought up Section 230 of the Communications Decency Act, the law that has served as the tech industry's legal liability shield for decades."
-    publishedDateTime: 2023-05-16T19:05:00Z
-    webUrl: "https://www.cnbc.com/2023/05/16/openai-ceo-hearing-senators-aim-to-avoid-redo-of-social-media-harms.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2023/05/16/openai-ceo-hearing-senators-aim-to-avoid-redo-of-social-media-harms.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/05/16/openai-ceo-hearing-senators-aim-to-avoid-redo-of-social-media-harms.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 84
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/107241834-1684249882415-sam.jpg?v=1684261588"
-        width: 2755
-        height: 1837
-        isCached: true
   - title: "Lawmakers reveal AI concerns over 'future of humanity' following OpenAI CEO's Senate testimony"
     excerpt: "Displaying bias, foreign adversaries like China becoming dominant, and outsmarting humans were all top artificial intelligence concerns for members of Congress."
     publishedDateTime: 2023-05-20T06:00:00Z
@@ -119,20 +103,6 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5bae5da6-5fb6-41ce-94a2-52971e5432f0/24af8e1e-0e18-48c0-8e11-238b317f713c/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
         width: 1200
         height: 675
-        isCached: true
-  - title: "OpenAI’s Sam Altman calls for ‘incredible scrutiny’ of major AI tech companies, including his own"
-    excerpt: "OpenAI’s partnership with Microsoft, and the implications of the tech giant’s stake in the artificial intelligence powerhouse, were raised as an issue Tuesday during a U.S. Senate Judiciary subcommittee"
-    publishedDateTime: 2023-05-16T17:50:00Z
-    webUrl: "https://www.geekwire.com/2023/openais-sam-altman-calls-for-incredible-scrutiny-of-major-ai-tech-companies-including-his-own/"
-    type: article
-    provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 54
-    images:
-      - url: "https://cdn.geekwire.com/wp-content/uploads/2023/05/sam-altman-senate.png"
-        width: 799
-        height: 631
         isCached: true
   - title: "Sam Altman Sends A Message To Corporate Leaders On AI Risk Management"
     excerpt: "The OpenAI CEO’s Senate testimony on the potential risks of AI and its need for regulation prompts boards to accelerate their oversight of how AI is applied in their own organizations."
@@ -166,15 +136,6 @@ related:
         width: 897
         height: 500
         isCached: true
-  - title: "In Senate testimony, OpenAI CEO Sam Altman agrees with calls for an AI regulatory agency"
-    excerpt: "In his In his testimony today before a bipartisan U.S. Senate panel, OpenAI CEO Sam Altman was not grilled, probed or interrogated."
-    publishedDateTime: 2023-05-16T18:56:00Z
-    webUrl: "https://venturebeat.com/ai/in-senate-testimony-openai-ceo-sam-altman-agrees-with-calls-for-an-ai-regulatory-agency/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 38
   - title: "OpenAI proposed license to regulate AI, Baidu urges self content moderation"
     excerpt: "Meanwhile, instead of concerning the lost jobs and artist rights, China-based Baidu, which launched Ernie Bot in March, focused more on socially and politically sensitive disinformation."
     publishedDateTime: 2023-05-17T14:16:00Z
@@ -228,15 +189,6 @@ related:
         width: 608
         height: 342
         isCached: true
-  - title: "OpenAI Founder Calls for the Global Regulation of Artificial Intelligence"
-    excerpt: "As senators raise concerns about the risks of ChatGPT, Sam Altman says his worst fear is his industry causing \"significant harm to the world.\""
-    publishedDateTime: 2023-05-16T18:59:00Z
-    webUrl: "https://www.inc.com/christine-lagorio-chafkin/openai-founder-calls-for-global-regulation-of-artificial-intelligence.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 33
   - title: "Sam Altman said all the right things to Congress, but the government won’t save you from AI"
     excerpt: "Opinion: The federal government is not going to come up with a framework or guardrails to protect us from AI anytime soon."
     publishedDateTime: 2023-05-17T22:03:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.theverge.com/2023/5/19/23728174/ai-regulation-senate-h
 webUrl: "https://www.theverge.com/2023/5/19/23728174/ai-regulation-senate-hearings-regulatory-capture-laws"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -44,22 +44,6 @@ related:
       - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-05/230517-sam-altman-jm-1431-6150ed.jpg"
         width: 2500
         height: 1667
-        isCached: true
-  - title: "Senate hearings see a clear and present danger from AI — and opportunities"
-    excerpt: "Two Senate committees met separately Tuesday with industry experts, including OpenAI CEO Sam Altman, on how to control artificial intelligence as it barrels down the development highway, threatening privacy and rights as it goes."
-    publishedDateTime: 2023-05-16T18:22:00Z
-    webUrl: "https://www.computerworld.com/article/3696317/senate-hearings-see-a-clear-and-present-danger-from-ai-and-opportunities.html"
-    ampWebUrl: "https://www.computerworld.com/article/3696317/senate-hearings-see-a-clear-and-present-danger-from-ai-and-opportunities.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3696317/senate-hearings-see-a-clear-and-present-danger-from-ai-and-opportunities.amp.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 55
-    images:
-      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2023/02/20/09/pcworld-the-complete-chatgpt-artificial-intelligence-openai-training-bundle-100937678-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
         isCached: true
 
 secured: "oGeXdwL6IOC4N6W8QtH/3Veuu/I1XzjPWQW+2oc2VmBYPTdgSRxxLD69riP9n+SBWEu+Soq2u03i7Exa2M3JrlcQPm627yX8E1PEhweuxEjrJsiuLgsCLmeFAQOH4Gcdn60PpCuzFSvoZTDUtzcSffevGr0+dVdkjlHSPcB3jN4lWyNIhJ5ElXXAtHmdLWx0FKxfbpY0mSFFf+cvkRpqZTm0t8cEXpollhEJ5l/sn1lzh+jeKYMFf/XvXDDekom0+6rrGW0SmhNL87S+bWf35NQUmuYLFS90TSjDmo0mAC0gsEp+64hqS7C7a8iT7tPfxac2m0MJvWcxGHHB9mKzTjXZLvOIk2DXBZBiWaxtInd//H2irSaxYGUG6uGIor97lwEKQbxzvQIynHh/sahuoUoA1y69IEh7yWCvg+DWzXJnIDTOGFjdvsFr0fD12FvGjMoO7zFiNl3LL9q0+t946BBOVyCf6qF4JyUv42GhyMkSfPpuBq55nDEE3mAq8ilCeBGPe+WnEMRQx3zIOtFhkg==;tfrkyRf8musJ7+9bj3NpDQ=="

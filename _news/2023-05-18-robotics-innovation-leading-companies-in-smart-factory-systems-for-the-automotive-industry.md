@@ -55,20 +55,6 @@ related:
         width: 1440
         height: 810
         isCached: true
-  - title: "Kratos Self-Driving Trucks Aimed at Increasing Safety, Addressing Workforce Shortfalls"
-    excerpt: "Kratos Defense & Security Solutions Inc. said it has multiple self-driving trucks deployed across the United States supporting new deployment use cases and territories to help solve real-world workforce and safety issues burdening critical transportation and supply chain operations."
-    publishedDateTime: 2023-05-16T17:11:00Z
-    webUrl: "https://insideautonomousvehicles.com/kratos-self-driving-trucks-aimed-at-increasing-safety-addressing-workforce-shortfalls/"
-    type: article
-    provider:
-      name: insideautonomousvehicles
-      domain: insideautonomousvehicles.com
-    quality: 31
-    images:
-      - url: "https://insideautonomousvehicles.com/wp-content/uploads/2023/05/Tanker-1.jpg"
-        width: 1800
-        height: 1200
-        isCached: true
 
 secured: "ydto7AlWqTdx9RGnoldkKhOGFbl0UTbIuifF+Rf+X+Dln1jSuMNVqKuY2koIkn380QU06+Slm/0NfNNsg4Fl1rEBHh7X91x/0kPJ9j6jgnbWQLHOX30hK5z/tpcHFn6GCIWWQo+XuXJhmB6EID53i0J7fV2YnXrmJv/ynM5+wnsSfubjv0TdZyacLnHiCWc1IsDykcfAvCC2xY+rPNYhY9dzAyg/2RJ4kAj7DRiK4ybKsHtid4MhPNMu4WJ0mR4nkfRUOSzGgaTGSJpqN66HorQW1/aknQo78egC4HvDwdOZT4F+a0F+jtNzt9iCFQmTlUvzVnS2ThHBnqNA0Y8z6bFVA5w2Rm1YosrU+KlupDASFvUiGMYuZi6YRXyGAgTkndbL2TfLQJ3HCqWrc4r9ZpR+mVVK4sWBxSQYdDm3Xc2bVSoaJDa8g0GHbKXOA+tkFfIaM7W29GG/l5bz8xMKu1HS+G5yZKfaxADewBoD8f77AO+WF0X8Octgpbwlji/S+JbZvR2p3N5i1Y5k+Tb4sw==;NJI0v3tbnKermxVLGXMPJw=="
 ---

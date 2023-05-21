@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/meta-and-google-news-adds-fuel-to-the-ope
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/meta-and-google-news-adds-fuel-to-the-open-source-ai-fire/amp/"
 type: article
 quality: 87
-heat: 118
+heat: 117
 published: true
 
 provider:

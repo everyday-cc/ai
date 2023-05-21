@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Self-driving cars are taking ages to become a reality, but they won’t take forever"
-    excerpt: "That’s a lot of autonomous driving. Baidu’s update follows other progress reports from self-driving car outfits: Cruise a couple of months ago said it had completed “one million fully driverless miles” in the 15 months since it started offering ..."
-    publishedDateTime: 2023-05-16T18:56:00Z
-    webUrl: "https://techcrunch.com/2023/05/16/self-driving-tech-predictions/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 48
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/05/IMG_5632.jpeg?resize=1200,900"
-        width: 1200
-        height: 900
-        isCached: true
   - title: "How Will We Know When Self-Driving Cars Are Safe? When They Can Handle the World’s Worst Drivers"
     excerpt: "Imagine learning to drive in a world that resembles the on-road insanity of “Mad Max” or “The Fast and the Furious.”"
     publishedDateTime: 2023-05-20T04:06:00Z

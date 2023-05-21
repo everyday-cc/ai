@@ -1,16 +1,16 @@
 ---
 category: news
 title: "TSA is testing facial recognition at more airports, raising privacy concerns"
-excerpt: "The agency tasked with securing America's airports is testing the use of facial recognition technology at a number of airports across the country"
-publishedDateTime: 2023-05-15T20:16:00Z
-originalUrl: "https://abcnews.go.com/US/wireStory/tsa-tests-facial-recognition-technology-boost-airport-security-99322460"
-webUrl: "https://abcnews.go.com/US/wireStory/tsa-tests-facial-recognition-technology-boost-airport-security-99322460"
-ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/tsa-tests-facial-recognition-technology-boost-airport-security-99322460"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/tsa-tests-facial-recognition-technology-boost-airport-security-99322460"
+excerpt: "The agency tasked with securing America's airports is testing the use of facial recognition technology at a number of airports across the country BALTIMORE -- A passenger walks up to an airport ..."
+publishedDateTime: 2023-05-15T17:47:00Z
+originalUrl: "https://abcnews.go.com/Technology/wireStory/tsa-tests-facial-recognition-technology-boost-airport-security-99322644"
+webUrl: "https://abcnews.go.com/Technology/wireStory/tsa-tests-facial-recognition-technology-boost-airport-security-99322644"
+ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/tsa-tests-facial-recognition-technology-boost-airport-security-99322644"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/tsa-tests-facial-recognition-technology-boost-airport-security-99322644"
 type: article
 
 provider:
-  name: ABC
+  name: ABC News
   domain: abcnews.go.com
 
 topics:
@@ -23,6 +23,6 @@ images:
     height: 558
     isCached: true
 
-secured: "nlLqVUoSJLmRPwS52vvKyaMUph74Z7seknlMDr4J/qnSJGYa34ONI3gSBR63I5cWOEwbY8FEHEeBOJ23sdScdqF8IlPpgEtXV1am/0zI+FuRJAaOJGAZcb3ASKZwqmeWOuCtLukkgVk0Xz9gOSvVxZSb4CyMIntu9Kp0aY+VlILQ8w4bQW/G0/ALlYf46+BN+AM2AcWtJwcpp5q7JBpS/2eeotlaJg+Aonrl0L+qRLj/6RwDvt9bSgV8zpJU/QyN8L1ctIxVpFCG2PXOJszlewjk/hVB//BSJgbCyksiMoK26VKpw1oIEyyknuRq7zgeMGgidH1nZOeeSKN+HvsAgakegYBgY57UMYiUHmxVoMA=;8QvKtUK/WUJq8vY2RW1neA=="
+secured: "x+01t063/vrTbdhfOW3T6QhJJYOihxNOBSopta5AYTkLYc2dvkUqdhKUaj7M6szQLG08NMl60q8RvCacRMFPfOVQnjDQWELHZfKwTBbyjAvGpuMLR7hy9I0n+XLyJf9Q9Z4I3Or3zIjZNuD1ui7kKpuMiml7VY3GhbJRfoMiFKDPUHszK6Npq8A9Nd8+a2RXPI6cEn9V3P6oON50IXWFgcDb45+dnKy96oWXL2BDKZS/RRezsVTferWR1fJ8+CATDtv0Cyp9460Jk9Fu+RlGr9BLygcQXsGSpjkR24WcBPZ+vBKQkgMqNmZlFiBKw9MdINQaArfjV4Zr/UXv6xQwaTsPyK+MAh5fybv4zw9KHJU=;m9UIx9GrJM4QcFM2UStQCw=="
 ---
 

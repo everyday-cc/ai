@@ -131,20 +131,6 @@ related:
         width: 930
         height: 620
         isCached: true
-  - title: "Generative AI tools could help companies solve labor and talent shortages, SAP says"
-    excerpt: "Partnership with Microsoft uses latest AI tech to write job descriptions, draft interview questions, suggest training for new skills."
-    publishedDateTime: 2023-05-16T17:25:00Z
-    webUrl: "https://www.dcvelocity.com/articles/57485-generative-ai-tools-could-help-companies-solve-labor-and-talent-shortages-sap-says"
-    type: article
-    provider:
-      name: DC Velocity
-      domain: dcvelocity.com
-    quality: 33
-    images:
-      - url: "https://www.dcvelocity.com/ext/resources/2023/05/16/SAP-AI-Related_281266_MachineLearning_C.jpeg?height=1200&t=1684258053&width=635"
-        width: 300
-        height: 373
-        isCached: true
 
 secured: "Ph1jouCGE/8e4a/NdStmFGWOP+BOE3zGqHyW/ku7KvVgdc8hc0n1Kwu7xDL+Q9Tw2+hcmC6V6+JlY2xnNjf04/iOvTNqBOhj7XgijeqsxQDJfB9uDVE7rDNzn4qpdyTdIpY+k6PWahekULsqAL2C0CFDGNycbG3+ywUb6PsXYXz8353aBxMCPr8FcSiiNzE/RRYUHa1+7rgrFhUMCHbFOS8HHjaR0buo1SS0ioxPKTaaoJbxr9d7zegQHYFTRUddXIVnU5nXKuEnmFGPaQxFdAgXYiVRHOceXsPkhNvB80b0GjUSwy9mrqLH1QelNB3vebTLdjJVt0YRGVHtQX7OSK35+FBbQWlcdhm6U+6tNA9jdRVhEUw6aYodQWQBVDR+wlA3fiyLXLjW26POJElJ2cfitlsASrl0zdMnLYdq+ClkrjMwwZwwnHOeTN6H1QF55gvigCSArVQAftlRlIGfS1cT07tdvMF3RH1ja8K2Irq1Sd9MdPT5/o1kKH8WR291nNcZscsafGdz6GBNvgEL+Q==;jsAqEt5xX2RadJkUFrmLoQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp/rcna84386"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna84386"
 type: article
 quality: 70
-heat: 100
+heat: 90
 published: true
 
 provider:
@@ -54,20 +54,6 @@ related:
       - url: "https://www.just-auto.com/wp-content/uploads/sites/30/2023/05/Robotics_Smart-factory-systems.jpg"
         width: 1440
         height: 810
-        isCached: true
-  - title: "Kratos Self-Driving Trucks Aimed at Increasing Safety, Addressing Workforce Shortfalls"
-    excerpt: "Kratos Defense & Security Solutions Inc. said it has multiple self-driving trucks deployed across the United States supporting new deployment use cases and territories to help solve real-world workforce and safety issues burdening critical transportation and supply chain operations."
-    publishedDateTime: 2023-05-16T17:11:00Z
-    webUrl: "https://insideautonomousvehicles.com/kratos-self-driving-trucks-aimed-at-increasing-safety-addressing-workforce-shortfalls/"
-    type: article
-    provider:
-      name: insideautonomousvehicles
-      domain: insideautonomousvehicles.com
-    quality: 31
-    images:
-      - url: "https://insideautonomousvehicles.com/wp-content/uploads/2023/05/Tanker-1.jpg"
-        width: 1800
-        height: 1200
         isCached: true
 
 secured: "L92+zXeED1eg3C3189IzAoej2E4hXPcQgzyjO89jwN2hqnTDh95nbQmEANVk+Vqxk/cs+J7Q+h5GNTVlMxsYZqGns8Rp0ngXOwCjGe/2pD5C+5Zi2s7VV8DJ8QeFcYZnqMPJvP6OYLrHSSMqa2s/zG/0l+hT1YQf78RLthN19DGkQXuAr2y+HpoENy5+ld5V49jhUxW+00+AoPab3BvLdpZ7Ug0a/2/PG3rJuFpDcKSlh0ro0gqHlhcO4BwpM0m0nIeXlJkaZtaLeveXXgGitDWNSwZ/4HAblI64FTA9mQsyGH9zb+q6McPrfn/JBXKMhHwB97rtGOT8Klht/64n1UjUp7lB9qkwcrWjv+5cbgMsmWqc+F42WnVXiyB5POIRI+JZmx23KiF1DQRSd+b8OK18CxJy7x4dviwJ4ghPjB8evqVkaKuYvWszKTdgMBH0uO2T7zHnkXVe+Vek00KxHNFHa8WBaL4fe1sXt/0JkCgX8uMc97WQhirkCb8DkOCZEdtfoS5Noxe3wnGJDmgYGg==;s3ixKjy5rRHYJ/BTdgQkNg=="

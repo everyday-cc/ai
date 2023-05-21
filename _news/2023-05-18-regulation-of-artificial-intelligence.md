@@ -50,15 +50,6 @@ related:
         width: 840
         height: 438
         isCached: true
-  - title: "Senators use hearings to explore regulation on artificial intelligence"
-    excerpt: "The chairman of a Senate Judiciary panel said Tuesday that Congress should act soon to regulate artificial intelligence."
-    publishedDateTime: 2023-05-16T17:59:00Z
-    webUrl: "https://rollcall.com/2023/05/16/senators-use-hearings-to-explore-regulation-on-artificial-intelligence/"
-    type: article
-    provider:
-      name: Roll Call
-      domain: rollcall.com
-    quality: 17
 
 secured: "QFaiD5GA4S2KVLt/H7cY+X3hYXTzuUsQ5QXnrpPfDjSQrHM5oSjN45o26SA3Ty65oBna9mRy5tS2P2R8t7nr8ZxtH2/wA8mr/phVLY7x4JNYmVM7oRhEXg98LWDOjvJzTQfYBLfT2sIJQo1ZPwIvvofULRhJpZCZmkUwI5kyOQDXo1bR0RxfCz3t6WgP+FwQ3Rdn/kbcC0ZgH11j/Bz58UFgWQKInv3zcVFX10lulA+ZQZLBoO+IhjfNXnkoZHPLGrOsJPRNgxZreg9MPo9y8Exg+z4+ETJgG3RCtrbs0VWR5v2p2mP0gdRGVKPWLzZ7yi6I3am+d5EGTTY5PQ+af4PUgJ4xqP3amZmSW9QXSOmHZ3Y8aADXLbzfkNVXGmI8OkD1mZQxBWSevdMzY0gbBhgfaEncY/fCicfMl//7hRW1pb/QifwuS1/WOH6lptzWDonJXUxdPAOJG0mP/7GEh0trx5kmRhX+KjgvvKxKExZp2L8z+CMynwRMDGHfMxVB4/8zR+pWmwSmTYHbYN0eww==;TiZcRtQZybZudUJ7psQHTA=="
 ---

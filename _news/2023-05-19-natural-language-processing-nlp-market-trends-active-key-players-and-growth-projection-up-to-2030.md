@@ -76,20 +76,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 41
-  - title: "Natural Language Processing Technology Market 2023 Top Key Players, Industry Demand, Future Estimations and Key Tactics to 2029"
-    excerpt: "The research study also includes key data of the Natural Language Processing Technology market, such as market size, revenue, growth rate, CAGR, and product price. The report also has the strategies to recover from the impacts of Covid-19 and strategies used by prominent market players to drive the growth of the Natural Language Processing Technology market."
-    publishedDateTime: 2023-05-16T18:49:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-technology-market-2023-top-key-players-industry-demand-future-estimations-and-key-tactics-to-2029-2023-05-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 41
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "8zv5Jh3NKOPh5+bahXdbPYSiF2SUFdDl/ni+XkqUBgXs/RZKQDoywH1yaVcsUgLeZ1WqQ7LC9l96bg0afIwINM//L2j2xBhjEgeBF5/mi0MSEjCy2LhhG4IRJR1emmF2JIaBiZsNl/HjMEwEVqrZpZg1UwKlQ014HtMxeQVAm+AmDLW6JF9kVa04uvQXXUzLai6Vix7R40NsUAEfx77hSRz4sq7n/5r6hahVuxhc083UzyXstSA/WmdVSY6rQ7dF9xt3rXOKVTxopgZdbmFib6WXQyUsBbXK9YqeS7spePq1yb3yt4PLmqgcEMG8vFF07eMktujXkiHQrHk+JICuwNXyAeP3pRDX1Vnpb4LjDNNY4qRvNeHAuDke4hFwdA1WRbyVLQ7ti915CFAuyLeb1AqxXCjcrs4RPTp1OkJO7kIyKpX9ZxXLXN69fy12mTjdveL9awnyI1kFCxAXH7b/8P7s+BdGeFCTqzfa9B2HZDiOYbFWQ/tO5nMdlTB27UDq5mGdOVGmsp0ALYwPjMflYg==;lRKBxM/uy6dFZgiazWeEgg=="
 ---

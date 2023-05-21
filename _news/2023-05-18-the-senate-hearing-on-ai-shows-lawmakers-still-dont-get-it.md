@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Senate hearings see a clear and present danger from AI — and opportunities"
-    excerpt: "Two Senate committees met separately Tuesday with industry experts, including OpenAI CEO Sam Altman, on how to control artificial intelligence as it barrels down the development highway, threatening privacy and rights as it goes."
-    publishedDateTime: 2023-05-16T18:22:00Z
-    webUrl: "https://www.computerworld.com/article/3696317/senate-hearings-see-a-clear-and-present-danger-from-ai-and-opportunities.html"
-    ampWebUrl: "https://www.computerworld.com/article/3696317/senate-hearings-see-a-clear-and-present-danger-from-ai-and-opportunities.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3696317/senate-hearings-see-a-clear-and-present-danger-from-ai-and-opportunities.amp.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 55
-    images:
-      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2023/02/20/09/pcworld-the-complete-chatgpt-artificial-intelligence-openai-training-bundle-100937678-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "m4/G+y0ffVfNh4CmEMj0bQtEdnzHRGWNJGloZgCm6KmLHshVM6hWUYjEZ9rXA9i1wMc/2A3BMtLF5rZceihtz53POQbLME4fNK4QlzGF7uwUoCE8JshR8InifC1Mvou1CjN+7VjSrM4ccY4c4N5FhaHlYhsEvDu06WZicLYGwAk0AJ5PxCzA1yHn2kz+crEtJy84z3TfacRfNyDcglg7lck30zizVAX4yzijFRTV5JF3Mr9JywGOyqDJGn3NVdOWLSl0HSy/tzKkfSO5jp7B6x3NAQPbFTki7izxeBC1nIE+pDbNMeq3FTLoFPPkUFw6O3R2pb6xhb/GS3RAyTyneGkWb/3PFm735pe/+w07A7G8yOn5JhvoWyqf8Bs/Inr66qQuhCm58flEeOpgHMDwHzOKBm1nSN+VWsPHI4v9nlR4/R/UpvKaWkrZtEBCGPjxo0gFYT6K7oZP+iVUDDE/fgUCOv/WHzGyGE52t4mak77/WBwQ5KkBD3bXbw0iF2zWiDfNmAMpdLYz+TqQv+JrcA==;iNMQuXSe0QGtItpKWWffng=="
 ---

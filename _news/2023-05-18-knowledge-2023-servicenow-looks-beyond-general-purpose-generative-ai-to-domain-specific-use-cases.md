@@ -73,15 +73,6 @@ related:
         width: 767
         height: 633
         isCached: true
-  - title: "New AI tools headline ServiceNow’s latest platform update"
-    excerpt: "They’re rolling out for ServiceNow’s namesake cloud platform, which helps companies manage the parts of their business that involve delivering a service. The platform streamlines tasks such as fielding technical support requests and onboarding new employees."
-    publishedDateTime: 2023-05-16T18:11:00Z
-    webUrl: "https://siliconangle.com/2023/05/16/new-ai-tools-headline-servicenows-latest-platform-update/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 19
 
 secured: "YHBXrfqwIMwkvU4BJNrzRKcgHmOSgDmAeuCiRDZTZaEaVkHxylIZ6u345M6aEnSs3h2nx3kBx/olmwYERfHN526SdEREYrryVFyHSXcFvcbvyFhXICzxG3W/voF9EoK32bNm+WyL0jDV4S9oUCvJcAUvAVbVP5WKOgdsUElbMA0meLBgFsGBvBLMCVhI3QkbcHPEltqZKmwEiFoqygQf1lrNqa5MOQtXQAGO1jcZ5I1wfqEKpeGARX/rRWEK9CkZoRvBg631c33z7VYmVrgm1BKZXEIj9E62Eknx4DR38bALpFL6piyF8FpRUlx0XRTyK6un2EKCENUpNs5CLCXBUvE5nkyoCsbnOnJqhPV9tXU=;Figf2pvbZQ1gOFP/D6Lp+g=="
 ---

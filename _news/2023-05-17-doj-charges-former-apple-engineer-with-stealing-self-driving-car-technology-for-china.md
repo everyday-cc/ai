@@ -152,33 +152,6 @@ related:
       name: UPI
       domain: upi.com
     quality: 3
-  - title: "Former Apple engineer charged with stealing autonomous car tech trade secrets"
-    excerpt: "The U.S. Justice Department said on Tuesday it has charged a former Apple Inc. engineer with attempting to steal the firm's technology related to autonomous systems, including self-driving cars, and then fleeing to China."
-    publishedDateTime: 2023-05-16T17:09:00Z
-    webUrl: "https://www.cbc.ca/news/world/former-apple-engineer-china-1.6845041"
-    type: article
-    provider:
-      name: CBC.ca
-      domain: www.cbc.ca
-    quality: 1
-  - title: "Fugitive ex-Apple engineer charged for trying to steal self-driving car tech"
-    excerpt: "The Justice Department said Tuesday it has charged a former Apple engineer with attempting to steal the firm’s technology related to autonomous systems, including self-driving cars, and then fleeing to China. The case was among five announced on Tuesday ..."
-    publishedDateTime: 2023-05-16T18:36:00Z
-    webUrl: "https://nypost.com/2023/05/16/fugitive-ex-apple-engineer-charged-for-trying-to-steal-self-driving-car-tech/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 1
-  - title: "U.S. charges ex-Apple engineer with stealing self-driving car secrets for China"
-    excerpt: "The U.S. Justice Department has charged a former Apple engineer with stealing the firm's technology on autonomous systems, including self-driving cars."
-    publishedDateTime: 2023-05-16T18:00:00Z
-    webUrl: "https://www.autoblog.com/2023/05/16/u-s-charges-ex-apple-engineer-with-stealing-self-driving-car-secrets-for-china/"
-    type: article
-    provider:
-      name: Autoblog
-      domain: autoblog.com
-    quality: 0
 
 secured: "hFBq4nx1by/Oo7OMFwjOlMgAkxQ3HgUZ+Y7qTwVO28w9RljOiiF4oKcbat0VS3hPqcayIJLLl03TCQHs2Ki8yIlEn0o/ZRawdRRs3eJ87VVjIk+nF+ubAfnH26mtVcxOH9nrgLawFF5KbQpuyTLBmi3qQVGTAG6XfbsLVPGUQPFn2rJalbvgjNTlalPy7quXa7mBA0U3kCDdpmsdGBo6tF8Woz1xBuL5HdVkndCMaA3Z3O66pl2/Tox+X82R62P5gX1FvGjAuy0l+ctxEvTlUxNxXPTf+t+DYCWVXsEUTTXw1cxfvuKLsxXeIDGTKC3d92bYV66TUtHd+Z5cFZJKpx2S7bVnWc++tEA1lePOKhZhpeKI/noBusheotBBhgsuSQ1EZTDP5pk/O2Vp8hoAr7UEuoyF0fFLUhV7T2KaF8ZTHqChA0N7f/OjN5bBh9LP2nxqvt2NPmJOk9afTJQnPwn06SV9BfHZ0sC7r8QYYrFikQQEtbUjgbu0OG3G8BbLshgy4/9bPFBTyRLxEyWISA==;309/eeBGzRtwKXyy6cfKfA=="
 ---
