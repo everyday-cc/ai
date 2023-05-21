@@ -92,15 +92,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Bitpanda invests $10m in AI to “revolutionise” wealth creation"
-    excerpt: "Austrian fintech Bitpanda is investing $10m into artificial intelligence to establish Bitpanda.ai. The investment marks the first move towards establishing a dedicated AI division for the company, which was founded by Eric Demuth,"
-    publishedDateTime: 2023-05-16T08:04:00Z
-    webUrl: "https://www.altfi.com/article/10693_bitpanda-invests-10m-in-ai-to-revolutionise-wealth-creation"
-    type: article
-    provider:
-      name: altfi
-      domain: altfi.com
-    quality: 19
   - title: "Xiao-I Launches Revolutionary Intelligent Document Processing Solution, Catalyzing the Future of Enterprise Document Management"
     excerpt: "Xiao-I Corporation (NASDAQ:AIXI) (\"Xiao-I\" or the \"Company\"), a leading cognitive artificial intelligence (\"AI\") enterprise in China, today announced the launch of its"
     publishedDateTime: 2023-05-19T02:00:00Z

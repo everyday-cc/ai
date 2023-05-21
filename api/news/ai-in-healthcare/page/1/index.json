@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-05-21-the-promises-and-potential-pitfalls-of-artificial-intelligence-in-medicine.md",
+      "title": "The promises and potential pitfalls of artificial intelligence in medicine",
+      "excerpt": "Artificial intelligence is finding its place in all sorts of scientific fields, and health care is no exception. Programs are learning to answer patients’ medical questions and diagnose illnesses, but there are problems to be worked out.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pbs.org/newshour/show/the-promises-and-potential-pitfalls-of-artificial-intelligence-in-medicine",
+      "originalUrl": "https://www.pbs.org/newshour/show/the-promises-and-potential-pitfalls-of-artificial-intelligence-in-medicine",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d3i6fh83elv35t.cloudfront.net/static/2023/05/aiHealthcare-1024x576.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pbs.org/newshour/amp/show/the-promises-and-potential-pitfalls-of-artificial-intelligence-in-medicine",
+      "cdnAmpWebUrl": "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/show/the-promises-and-potential-pitfalls-of-artificial-intelligence-in-medicine",
+      "publishedDateTime": "2023-05-20T14:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PBS",
+        "domain": "pbs.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-20-artificial-intelligence-will-eliminate-many-tasks-but-also-create-new-higher-level-ones.md",
       "title": "Artificial Intelligence Will Eliminate Many Tasks, But Also Create New Higher-Level Ones",
       "excerpt": "Managers need to prepare for 'the biggest shock' coming with AI — replacing entry and low-level white-collar activities with 'first-draft automation.'",
@@ -210,7 +253,7 @@
       "originalUrl": "https://newatlas.com/computers/case-code-of-conduct-ai-healthcare/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 266,
+      "heat": 256,
       "tags": null,
       "images": [
         {
@@ -369,7 +412,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-healthcare-service-market-2023-2030-by-sizeprecisionreportsco-2023-05-16",
       "featuredContent": null,
       "highlight": null,
-      "heat": 141,
+      "heat": 131,
       "tags": null,
       "images": [
         {
@@ -421,7 +464,7 @@
       "originalUrl": "https://www.nbcnews.com/tech/innovation/ai-explain-openai-chatgpt-how-to-rcna77889",
       "featuredContent": null,
       "highlight": null,
-      "heat": 123,
+      "heat": 113,
       "tags": null,
       "images": [
         {
@@ -466,7 +509,7 @@
       "originalUrl": "https://www.reuters.com/business/healthcare-pharmaceuticals/hippocratic-health-raises-50-mln-seed-funding-build-ai-model-2023-05-16/?taid=646381de5571eb000186b80a",
       "featuredContent": null,
       "highlight": null,
-      "heat": 163,
+      "heat": 153,
       "tags": null,
       "images": [
         {
@@ -1406,49 +1449,6 @@
         "AI in Healthcare",
         "AI",
         "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2023-05-06-artificial-intelligence-helping-detect-early-signs-of-breast-cancer-in-some-us-hospitals.md",
-      "title": "Artificial intelligence helping detect early signs of breast cancer in some US hospitals",
-      "excerpt": "Some doctors believe artificial intelligence is saving lives after ... less chemotherapy, less radiation therapy,\" she continued. \"I think we're entering into a whole new era in breast care.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.fox10phoenix.com/news/artificial-intelligence-helping-detect-early-signs-of-breast-cancer-in-some-us-hospitals",
-      "originalUrl": "https://www.fox10phoenix.com/news/artificial-intelligence-helping-detect-early-signs-of-breast-cancer-in-some-us-hospitals",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.foxtv.com/static.fox10phoenix.com/www.fox10phoenix.com/content/uploads/2023/05/932/470/breast-xray-GettyImages-1238822565.jpg?ve=1&tl=1",
-          "width": 932,
-          "height": 470,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fox10phoenix.com/news/artificial-intelligence-helping-detect-early-signs-of-breast-cancer-in-some-us-hospitals.amp",
-      "cdnAmpWebUrl": "https://www-fox10phoenix-com.cdn.ampproject.org/c/s/www.fox10phoenix.com/news/artificial-intelligence-helping-detect-early-signs-of-breast-cancer-in-some-us-hospitals.amp",
-      "publishedDateTime": "2023-05-05T13:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FOX 10 Phoenix",
-        "domain": "fox10phoenix.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

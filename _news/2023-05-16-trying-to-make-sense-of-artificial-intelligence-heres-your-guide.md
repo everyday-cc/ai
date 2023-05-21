@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp/rcna77889"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna77889"
 type: article
 quality: 93
-heat: 123
+heat: 113
 published: true
 
 provider:
@@ -57,15 +57,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "How do you solve a problem like out-of-control AI?"
-    excerpt: "Meanwhile, in Europe, lawmakers are edging closer to a final deal on the AI Act. Last week members of the European Parliament signed off on a draft regulation that called for a ban on facial recognition technology in public places. It also bans predictive policing, emotion recognition, and the indiscriminate scraping of biometric data online."
-    publishedDateTime: 2023-05-16T08:45:00Z
-    webUrl: "https://www.technologyreview.com/2023/05/16/1073167/how-do-you-solve-a-problem-like-out-of-control-ai/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 17
 
 secured: "HU5HYs/ZPjr1X+VsxUhfSb0QrvGTnuYb0sKvSTXly+7xRJV0VrSU0AZ3Sfj/VIYYacQ1tPWF4JP1/7uoqjp72kQq5nOEL3gwULfaqjozVKbEfHyYxHFSerigUlKKXUQ7NGGfjLxlr//YbE3QflSxzu91N/MSNwAXNSJTRjIWvWInhPpb+08dwKq+oi5isGJ6sJXCXj5y9LSaqakXG4bF/0/Tl8EfudPrRBRTpekCZdMEuMmOAcc07EsYn7lS2mvLN4mb/p09c3LSV78/sCAz2Om+GLMIlCm4O+uXklC5fWcV5WXtqgGcExMpfThBmA/8RJZKo3E7zKp79NmxB5xO+4G7Jqx4g1N/va2gV6oKCcqFoI9IvFwWe2K2BQ6iuk98q/2uo8JtNiYStovBcvn0x2tSoBJ8cm5iXzDtxDqjgoAnMyWJHz1fZkeixzMJxdQN3qjlEsHa49bpOZLm4OCbIwnXUbcQQZ6VrCgvuRncYMiA7t1KfWNqv6NuUdM0+rMoppCa2LxIzI+8LmL50IQ3FA==;qkrFPMU7AIjbQmF6veH7sA=="
 ---

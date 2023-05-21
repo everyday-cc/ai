@@ -7,7 +7,7 @@ originalUrl: "https://www.accountingtoday.com/opinion/ai-in-accounting-promises-
 webUrl: "https://www.accountingtoday.com/opinion/ai-in-accounting-promises-and-reality-on-the-new-frontier"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,38 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "The promises and potential pitfalls of artificial intelligence in medicine"
+    excerpt: "Artificial intelligence is finding its place in all sorts of scientific fields, and health care is no exception. Programs are learning to answer patients’ medical questions and diagnose illnesses, but there are problems to be worked out."
+    publishedDateTime: 2023-05-20T21:35:00Z
+    webUrl: "https://www.pbs.org/newshour/show/the-promises-and-potential-pitfalls-of-artificial-intelligence-in-medicine"
+    ampWebUrl: "https://www.pbs.org/newshour/amp/show/the-promises-and-potential-pitfalls-of-artificial-intelligence-in-medicine"
+    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/show/the-promises-and-potential-pitfalls-of-artificial-intelligence-in-medicine"
+    type: article
+    provider:
+      name: PBS
+      domain: pbs.org
+    quality: 57
+    images:
+      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2023/05/aiHealthcare-1024x576.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "AI and Practicing Law: Potential Traps for the Unwary"
+    excerpt: "By developing a consciousness for these potential pitfalls, the hope is that lawyers (and other service providers) can use AICGs to significantly aid, but not substitute for, their ethical (and perhaps moral) responsibilities to their clients."
+    publishedDateTime: 2023-05-18T14:11:00Z
+    webUrl: "https://www.law.com/newyorklawjournal/2023/05/18/ai-and-practicing-law-potential-traps-for-the-unwary/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 39
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/389/2023/03/LANZA.jpg"
+        width: 1062
+        height: 900
+        isCached: true
 
 secured: "tajQGck98Pqp6Cfmm/qJNfaZF3w+Hi631tZ/+ydsrIOE/q4g/A7MDtv9AxN051sEoRniP1LTzI5vGmuRFu9GrLa4VWiWeenw18AOM8BfKoaKIBqzxVDaG/D0Q93ANASMcifGYWoTpVp0RWssLSe/21LUtZ+hxONK/rsV9aDdqLl+V9XHLDyqpGONCBFLNf2eIN8fGWVHP2ECxuqpRYEUb0Kve87OQPeI8F3i77NyRPFyzWRujSvUmZJlXwwuao19CfF5+UNa+RT+LUamRXzSIli/yw97Zojx+IcY5IY+z4vlfxtDE12Xy2DI6/KYlq92O4Lmvi0ejPaDfiYeC09nxLf34olNi7jJg/pM6GOHyBXgYaRL25SCz86PHkTbu0O53maPXy6Oqmh7YNkyuenPiGOvaHaNrJP1KvYLpZ7tluBYEf30zYKOdD8SnDwQEPRCqUM+mpA/pObW8v9OsUcc/9fwl0PmD6X8IS5H+I//9aeCQtMBIGyk3CpWBZjtkvR3NOaXqht1obioXx0wxfzslw==;JVNm5X9jwW5qiFf+etTQoA=="
 ---

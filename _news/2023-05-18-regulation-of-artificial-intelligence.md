@@ -75,20 +75,6 @@ related:
         width: 768
         height: 438
         isCached: true
-  - title: "AI in ICT (Information and Communications Technology) Market Future Investments and Forecast Till 2030"
-    excerpt: "The detailed analysis of the AI in ICT (Information and Communications Technology) Market report provides information"
-    publishedDateTime: 2023-05-16T07:35:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-ict-information-and-communications-technology-market-future-investments-and-forecast-till-2030-2023-05-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 53
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Elections in UK and US at risk from AI-driven disinformation, say experts"
     excerpt: "False news stories, images, video and audio could be tailored to audiences and created at scale by next spring"
     publishedDateTime: 2023-05-20T09:00:00Z

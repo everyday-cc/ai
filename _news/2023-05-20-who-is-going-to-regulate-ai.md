@@ -54,15 +54,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "How do you solve a problem like out-of-control AI?"
-    excerpt: "Meanwhile, in Europe, lawmakers are edging closer to a final deal on the AI Act. Last week members of the European Parliament signed off on a draft regulation that called for a ban on facial recognition technology in public places. It also bans predictive policing, emotion recognition, and the indiscriminate scraping of biometric data online."
-    publishedDateTime: 2023-05-16T08:45:00Z
-    webUrl: "https://www.technologyreview.com/2023/05/16/1073167/how-do-you-solve-a-problem-like-out-of-control-ai/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 17
 
 secured: "69rniHFQZI0iPHWBo7+hTnjMCUdT/LgDkj5FjRyYc3V2PIabEKsuVPIGDaCd9eiOoxE3A6LHSlMkPalj1HXuBMJU1VcXFdn/yTQKLuXlISweoH1CcwNwm1w8XTeMkfX0IFV6EJKMP7OLLEw3iXfiAB7v/4Mb2VFuipiaFbfQqXhbufXcfiNZUGoCjm+jnvhz1Vfx68HTCjahYuxHR7GpEvqiy8Nf60Z4b9rbRojzKvtppodyg6TN0JJEsCTQIBGeVtnJNHferZ9Kq3Vh23ToBe99V+E0VU3noX/Rg7YCeDhxa9yuHFckY0mMf4zGQBD+OT27SLShp33dce9Cm4iN+sdzHiZ3SzjwoJiRgkaKe6iIQtBYFDFAhl8lm/EDhkITN9H8EgZenuDBIPTI8VPUv2mZIaggPR+I6fbd9DammiOUDP76wD98kF2JW8Qq1m2U3PZ9mKVqeNKepQbi20cf6WPTHJlnZM/vZp3EujAlMbC7hbc3YqeQO2Fm5L3bCB3AugeEwX6JtIilETQspyay/g==;YJHrMCXBXZp4jMU/dhfs5w=="
 ---

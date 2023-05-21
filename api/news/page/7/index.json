@@ -2,6 +2,153 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-05-16-indigenous-man-condemns-voice-no-campaign-leaders-for-wrongly-using-his-image.md",
+      "title": "Indigenous man condemns voice no campaign leaders for wrongly using his image",
+      "excerpt": "No voice leader Warren Mundine has stood by his campaign’s ... “It appears that some people have been misled into saying things on camera about constitutional recognition by the no campaign,” she told Guardian Australia.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/australia-news/2023/may/16/indigenous-man-condemns-voice-no-campaign-leaders-for-wrongly-using-his-image",
+      "originalUrl": "https://www.theguardian.com/australia-news/2023/may/16/indigenous-man-condemns-voice-no-campaign-leaders-for-wrongly-using-his-image",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/1b52a01948f02b67d0216a95746a1b30bf00c5d9/603_557_321_193/master/321.jpg?width=620&quality=85&auto=format&fit=max&s=db4c22182af276aaec6ddecfbde03772",
+          "width": 620,
+          "height": 373,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/australia-news/2023/may/16/indigenous-man-condemns-voice-no-campaign-leaders-for-wrongly-using-his-image",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2023/may/16/indigenous-man-condemns-voice-no-campaign-leaders-for-wrongly-using-his-image",
+      "publishedDateTime": "2023-05-16T03:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-16-startup-etched-closes-seed-round-promises-more-cost-effective-ai-chip.md",
+      "title": "Startup Etched Closes Seed Round, Promises More Cost-Effective AI Chip",
+      "excerpt": "Etched, a startup that has designed a more specialized, less power-intensive chip for running generative AI models, is expected to announce that it raised $5.36 million in a seed round led by Primary Venture Partners.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/startup-etched-closes-seed-round-promises-more-cost-effective-ai-chip-f5fd79aa",
+      "originalUrl": "https://www.wsj.com/articles/startup-etched-closes-seed-round-promises-more-cost-effective-ai-chip-f5fd79aa",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-781926/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-16T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-05-16-amazon-plans-to-use-robots-ai-to-speed-up-deliveries.md",
+      "title": "Amazon plans to use robots, AI to speed up deliveries",
+      "excerpt": "Approximately 75 percent of Amazon customer orders involve the use of robotics to some extent.. Amazon plans to use robots, AI to speed up deliveries. AI, Amazon, delivery, logistics, robotics, Robots.",
+      "sourceUrl": null,
+      "webUrl": "https://www.itp.net/emergent-tech/amazon-plans-to-use-robots-ai-to-speed-up-deliveries",
+      "originalUrl": "https://www.itp.net/emergent-tech/amazon-plans-to-use-robots-ai-to-speed-up-deliveries",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.itp.net/cloud/2023/01/05/Amazon.jpeg",
+          "width": 1726,
+          "height": 1214,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-16T00:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GDPR fines",
+        "domain": "itp.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-16-infineon-acquires-swedish-machine-learning-startup.md",
       "title": "Infineon Acquires Swedish Machine Learning Startup",
       "excerpt": "By Mauro Orru Infineon Technologies said it acquired Stockholm-based startup Imagimob AB in a deal that bolsters the German chip maker's standing in",
@@ -1085,144 +1232,6 @@
         "AI",
         "AWS AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-05-16-dui-suspect-claims-tesla-self-drive-malfunction-after-marin-county-crash.md",
-      "title": "DUI suspect claims Tesla self-drive malfunction after Marin County crash",
-      "excerpt": "A San Rafael man was arrested on allegations of intoxicated driving after crashing a Tesla into three parked vehicles, police said. The driver told police the Tesla was in “full self-drive” mode, but a witness said it was swerving erratically and moving at inconsistent speeds before the crashes,",
-      "sourceUrl": null,
-      "webUrl": "https://www.eastbaytimes.com/2023/05/15/san-rafael-dui-suspect-claims-tesla-self-drive-malfunction-after-crashes/",
-      "originalUrl": "https://www.eastbaytimes.com/2023/05/15/san-rafael-dui-suspect-claims-tesla-self-drive-malfunction-after-crashes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eastbaytimes.com/wp-content/uploads/2023/05/MIJ-L-SRPD-0117-01-1.jpg?w=1024&h=866",
-          "width": 1024,
-          "height": 866,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.eastbaytimes.com/2023/05/15/san-rafael-dui-suspect-claims-tesla-self-drive-malfunction-after-crashes/amp/",
-      "cdnAmpWebUrl": "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2023/05/15/san-rafael-dui-suspect-claims-tesla-self-drive-malfunction-after-crashes/amp/",
-      "publishedDateTime": "2023-05-15T10:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "East Bay Times",
-        "domain": "eastbaytimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-16-nasa-and-ethical-ai-a-conversation-with-caroline-coward.md",
-      "title": "NASA and ethical AI: A conversation with Caroline Coward",
-      "excerpt": "From cloud chaos to clarity.” Watch Bonnie Holub, Infosys AI evangelist, speak with Caroline Coward, information science manager and library group supervisor at NASA Jet Propulsion Laboratory, about infusing an ethical foundation in AI algorithm development.",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2023/05/15/1073074/nasa-and-ethical-ai-a-conversation-with-caroline-coward/",
-      "originalUrl": "https://www.technologyreview.com/2023/05/15/1073074/nasa-and-ethical-ai-a-conversation-with-caroline-coward/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2023/05/MIT-Caroline-I-Bonnie.jpg?w=1800",
-          "width": 1800,
-          "height": 1013,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2023/05/15/1073074/nasa-and-ethical-ai-a-conversation-with-caroline-coward/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/05/15/1073074/nasa-and-ethical-ai-a-conversation-with-caroline-coward/amp/",
-      "publishedDateTime": "2023-05-15T10:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-05-16-top-apps-ai-releases-a-report-on-benefits-of-autonomous-artificial-intelligence.md",
-      "title": "Top Apps AI Releases A Report On Benefits Of Autonomous Artificial Intelligence",
-      "excerpt": "Top Apps AI new report - '3 Research-Backed Use Cases Of Autonomous Artificial Intelligence' - offers readers an in-depth look at how AI is infiltrating multiple sectors and seeks to mitigate the mounting concern over the technology's ability to operate without human intervention.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/top-apps-ai-releases-a-report-on-benefits-of-autonomous-artificial-intelligence-2023-05-15",
-      "originalUrl": "https://www.marketwatch.com/press-release/top-apps-ai-releases-a-report-on-benefits-of-autonomous-artificial-intelligence-2023-05-15",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-15T10:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,160 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2023-05-12-mttr-vs-mtbf-whats-the-difference.md",
+      "title": "MTTR vs. MTBF: What’s the difference?",
+      "excerpt": "Mean time to repair (MTTR) and mean time between failures (MTBF) are similar metrics with key distinctions for facilities maintenance.\nThe post MTTR vs. MTBF: What’s the difference? appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/mttr-vs-mtbf/",
+      "originalUrl": "https://www.ibm.com/blog/mttr-vs-mtbf/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/05/afe80791-1d4c-4eed-82bd06dc338af887.lr_-630x330.jpg",
+          "width": 630,
+          "height": 330,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-12T07:07:07-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-12-how-businesses-can-ethically-embrace-artificial-intelligence.md",
+      "title": "How Businesses Can Ethically Embrace Artificial Intelligence",
+      "excerpt": "Though there are many benefits to using AI in marketing, we must be aware of the potential risks and ethical concerns that come along with it.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/12/how-businesses-can-ethically-embrace-artificial-intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/12/how-businesses-can-ethically-embrace-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/645d3d41cac5cbcb9fcb5cb6/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 650,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/12/how-businesses-can-ethically-embrace-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/05/12/how-businesses-can-ethically-embrace-artificial-intelligence/amp/",
+      "publishedDateTime": "2023-05-12T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-12-self-driving-cars-are-being-put-on-a-data-diet.md",
+      "title": "Self-driving cars are being put on a data diet",
+      "excerpt": "We could take all the data the cars have seen over time, the hundreds of thousands of pedestrians, cyclists, and vehicles, [and] take from that a model of how we expect them to move,” said Chris Urmson,",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/cars/2023/05/self-driving-cars-being-put-on-a-data-diet/",
+      "originalUrl": "https://arstechnica.com/cars/2023/05/self-driving-cars-being-put-on-a-data-diet/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2014/01/Google-Lexus-car-640x362.jpg",
+          "width": 640,
+          "height": 362,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/cars/2023/05/self-driving-cars-being-put-on-a-data-diet/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/cars/2023/05/self-driving-cars-being-put-on-a-data-diet/amp/",
+      "publishedDateTime": "2023-05-12T06:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-12-speech-recognition-software-market-till-2030.md",
       "title": "Speech Recognition Software Market Till 2030",
       "excerpt": "The Global Speech Recognition Software market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players,",
@@ -1064,151 +1218,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-12-artificial-intelligence-helping-recycling-center-sort-waste.md",
-      "title": "Artificial intelligence helping recycling center sort waste",
-      "excerpt": "At a recycling center in Boulder, Colorado, automation and artificial intelligence are becoming part of the process. The AI learned how to tell pieces of plastic from sheets of paper and also learns how to grab them.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/nightly-news/video/artificial-intelligence-helping-recycling-center-sort-waste-174038085844",
-      "originalUrl": "https://www.nbcnews.com/nightly-news/video/artificial-intelligence-helping-recycling-center-sort-waste-174038085844",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_05/1683846466081_nn_jwa_ai_recycling_revolution_230511_1920x1080-hzq8mz.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo174038085844",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo174038085844",
-      "publishedDateTime": "2023-05-11T16:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-12-slait-pivots-from-translating-sign-language-to-ai-powered-interactive-lessons.md",
-      "title": "SLAIT pivots from translating sign language to AI-powered interactive lessons",
-      "excerpt": "SLAIT School has developed an interactive tutor powered by computer vision, letting aspiring ASL speakers practice at their own rate.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/05/11/slait-pivots-from-translating-sign-language-to-ai-powered-interactive-lessons/",
-      "originalUrl": "https://techcrunch.com/2023/05/11/slait-pivots-from-translating-sign-language-to-ai-powered-interactive-lessons/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/05/slait-demo-gif.gif?resize=1200,774",
-          "width": 1200,
-          "height": 774,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/05/11/slait-pivots-from-translating-sign-language-to-ai-powered-interactive-lessons/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/11/slait-pivots-from-translating-sign-language-to-ai-powered-interactive-lessons/amp/",
-      "publishedDateTime": "2023-05-11T15:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-12-h2o-ai-launches-h2ogpt-and-llm-studio-to-help-companies-make-their-own-chatbots.md",
-      "title": "H2O AI launches H2OGPT and LLM Studio to help companies make their own chatbots",
-      "excerpt": "“One can take open assist–type datasets and start using the base model to build a GPT,” Sri Ambati, the cofounder and CEO of H2O AI, told VentureBeat. “They can then fine-tune it for a specific use case using their own dataset, as well as add ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/h2o-ai-launches-h2ogpt-llm-studio/",
-      "originalUrl": "https://venturebeat.com/ai/h2o-ai-launches-h2ogpt-llm-studio/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/09/chatbot-e1683843122122.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/h2o-ai-launches-h2ogpt-llm-studio/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/h2o-ai-launches-h2ogpt-llm-studio/amp/",
-      "publishedDateTime": "2023-05-11T15:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

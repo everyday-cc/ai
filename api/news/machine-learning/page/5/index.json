@@ -2,6 +2,60 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-04-19-3-exciting-jobs-in-artificial-intelligence-and-machine-learning-this-week.md",
+      "title": "3 exciting jobs in artificial intelligence and machine learning this week",
+      "excerpt": "Rising adoption in AI/ML is leading to job opportunities both within the sector, and as a result of AI-driven automation",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/3-exciting-jobs-in-artificial-intelligence-and-machine-learning-this-week/",
+      "originalUrl": "https://venturebeat.com/ai/3-exciting-jobs-in-artificial-intelligence-and-machine-learning-this-week/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/04/hitesh-choudhary-t1PaIbMTJIM-unsplash.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 673,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/3-exciting-jobs-in-artificial-intelligence-and-machine-learning-this-week/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/3-exciting-jobs-in-artificial-intelligence-and-machine-learning-this-week/amp/",
+      "publishedDateTime": "2023-04-18T13:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Robotics",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-19-investigational-deep-learning-model-may-help-stratify-risk-for-patients-with-endometrial-cancer.md",
       "title": "Investigational deep learning model may help stratify risk for patients with endometrial cancer",
       "excerpt": "An investigational deep learning model requiring one histopathologic slide accurately predicted the risk of distant recurrence in patients with endometrial cancer, according to findings presented at the AACR Annual Meeting 2023,",
@@ -1237,40 +1291,6 @@
       "provider": {
         "name": "EurekAlert!",
         "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-07-moscow-enhances-the-options-of-the-integrated-artificial-intelligence-service-for-diagnostic-radiology-by-almost-30-per-cent.md",
-      "title": "Moscow enhances the options of the integrated artificial intelligence service for diagnostic radiology by almost 30 per cent",
-      "excerpt": "The capabilities of the integrated artificial intelligence service have been enhanced in Moscow: a neural network can now simultaneously detect up to nine pathologies using CT scans. The algorithm was launched last year,",
-      "sourceUrl": null,
-      "webUrl": "https://www.mos.ru/en/news/item/121923073/",
-      "originalUrl": "https://www.mos.ru/en/news/item/121923073/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-06T13:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "mos",
-        "domain": "www.mos.ru",
         "images": null,
         "publishers": null,
         "authors": null

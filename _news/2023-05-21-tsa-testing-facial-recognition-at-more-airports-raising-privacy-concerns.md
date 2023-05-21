@@ -1,22 +1,28 @@
 ---
 category: news
-title: "TSA Ramps Up Facial Recognition Pilot"
-excerpt: "Next time you’re trying to catch a flight, you might spot a new initiative from the Transportation Security Administration (TSA) with a controversial component: facial recognition. The TSA has ramped up its biometric identity verification pilot by installing facial recognition systems in more airports."
-publishedDateTime: 2023-05-17T19:20:00Z
-originalUrl: "https://www.extremetech.com/internet/tsa-ramps-up-facial-recognition-pilot"
-webUrl: "https://www.extremetech.com/internet/tsa-ramps-up-facial-recognition-pilot"
+title: "TSA testing facial recognition at more airports, raising privacy concerns"
+excerpt: "A passenger walks up to an airport security checkpoint, slips an ID card into a slot and looks into a camera atop a small screen. The screen flashes"
+publishedDateTime: 2023-05-21T00:30:00Z
+originalUrl: "https://omaha.com/news/tsa-testing-facial-recognition-at-more-airports-raising-privacy-concerns/article_afb8746e-ea8a-551c-bb05-26bfc9b02f28.html"
+webUrl: "https://omaha.com/news/tsa-testing-facial-recognition-at-more-airports-raising-privacy-concerns/article_afb8746e-ea8a-551c-bb05-26bfc9b02f28.html"
 type: article
-quality: 19
+quality: 53
 heat: -1
 published: false
 
 provider:
-  name: ExtremeTech
-  domain: extremetech.com
+  name: Omaha.com
+  domain: omaha.com
 
 topics:
   - Computer Vision
   - AI
+
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/d/78/d7899d8f-cf01-52ab-acbe-16fe1f61c88c/64642a155739f.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "Are you who you say you are? TSA tests facial recognition technology to boost airport security"
@@ -80,20 +86,6 @@ related:
       - url: "https://businessmirror.com.ph/wp-content/uploads/2023/05/world01-052123.jpg"
         width: 720
         height: 480
-        isCached: true
-  - title: "TSA testing facial recognition at more airports, raising privacy concerns"
-    excerpt: "A passenger walks up to an airport security checkpoint, slips an ID card into a slot and looks into a camera atop a small screen. The screen flashes"
-    publishedDateTime: 2023-05-21T00:30:00Z
-    webUrl: "https://omaha.com/news/tsa-testing-facial-recognition-at-more-airports-raising-privacy-concerns/article_afb8746e-ea8a-551c-bb05-26bfc9b02f28.html"
-    type: article
-    provider:
-      name: Omaha.com
-      domain: omaha.com
-    quality: 53
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/d/78/d7899d8f-cf01-52ab-acbe-16fe1f61c88c/64642a155739f.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
         isCached: true
   - title: "TSA's Facial Recognition Tech Raises Questions About Bias and Data Security"
     excerpt: "Analysts and lawmakers are concerned about a new TSA program that instructs passengers to insert their IDs into a machine and takes a pictures of them."
@@ -169,7 +161,16 @@ related:
       name: Reno Gazette-Journal
       domain: rgj.com
     quality: 26
+  - title: "TSA Ramps Up Facial Recognition Pilot"
+    excerpt: "Next time you’re trying to catch a flight, you might spot a new initiative from the Transportation Security Administration (TSA) with a controversial component: facial recognition. The TSA has ramped up its biometric identity verification pilot by installing facial recognition systems in more airports."
+    publishedDateTime: 2023-05-17T19:20:00Z
+    webUrl: "https://www.extremetech.com/internet/tsa-ramps-up-facial-recognition-pilot"
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 19
 
-secured: "a3kA6O05FzPbOG2SZg07tMoLtlzYJpFkDWQfhaS7zNwTZ53+j4RfkrIoLS69OLr1xB7LJN2YTsWV7r44yL/jisfpy/E4PRr9wZpPJovcRTI0tk2afAr/HwT0ACTOfTQ7PDLVkUDsICEdC5oZnqMiGc8H8FzYFeIzF5/I32n5ardvGXlu1MJmQHe90GerBA9CQBOb7jajtLOOtc//OI9mX40Ho9McgYiuWF606yZ137cjGS9w2t0hHHcBuafF6o27eEdFxxn3j2awN4NyRaewcQ8a8rXPNTzTh9TR3irXwjfkWKaklGwTHQM6TnChK5AF73H9gXMpQ1jscXh8gll+EYsV97kuQPrki19X01zEcpoRC7Y1X11xWVprxfhdDCRTDcZ5SLUqb3yrZCicWnt8bNbIJYVy9vFfOoyojoMi4akZ/s2QPc8/H7KARDahsi3oj7r3s5J7dmwFW8AJ7zBhkLmLtDgBl1hdApnQCceg0PmfZsEoXBkGz9F9sbMaEhbg83uwT7PC9qo5KQPrcHBLTA==;oDAfr8bQoqf198dwgFJ7Ow=="
+secured: "joUDExLhNC1FUoc8ArZ5tSsOa2MH+WCA2u3MiclxWSVGqQBI+CoYoNcBpcoUb1NMZ4e4eMjvFq2UHJn/IFyHTW6DVN9jvE3dFjXmB3/Qd8rTPn9ykcxpNHLnovixg2+HvRYRMYYSTNI/zPE9fbOSHWSVURhWs0rqcgBZI5rdKSEdJ9McquUG4bIDoJFosg/u43+ZorleehQgfS7HZ6AnCYYErnfB/ldx2B012s9LbD4xuRIhP9+pWrz0eBhFdnwvG0fQZ8upU5vE3VA02JHdblk7PoNwlyXm0Q20gPBsnrASclBEqUF1MQGsgJcEDrsUIGg4dV4R4YyDnQF9I1NtHBLCVsJ2qD8h8a+91ACalqo=;RZrEraRgacxo4EYgXACzmw=="
 ---
 

@@ -93,20 +93,6 @@ related:
         width: 1500
         height: 844
         isCached: true
-  - title: "Nvidia CEO outlines AI’s role in next-generation chip manufacturing"
-    excerpt: "To meet this demand, Nvidia has emerged at the forefront of a new approach that involves coupling the parallel processing capabilities of graphics processing units with CPUs. It’s this new approach that sparked the AI revolution,"
-    publishedDateTime: 2023-05-16T09:01:00Z
-    webUrl: "https://siliconangle.com/2023/05/16/nvidia-ceo-outlines-ais-role-next-generation-chip-manufacturing/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 54
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/05/manufacturing-press-imec-keynote-blog-1920x1080.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Nvidia turns to AI to speed up manufacturing"
     excerpt: "More for less to put this widget in that thing, Nvidia founder Jensen Huang said that artificial intelligence was being used to accelerate computer chip manufacturing and create advanced microprocessors."
     publishedDateTime: 2023-05-16T09:54:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/pidgin/tori-65564971.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/pidgin/tori-65564971.amp"
 type: article
 quality: 80
-heat: 110
+heat: 100
 published: true
 
 provider:
@@ -62,20 +62,6 @@ related:
       - url: "https://ichef.bbci.co.uk/news/1024/branded_news/A39C/production/_129748814_nigeria_officials_epa.jpg"
         width: 1024
         height: 576
-        isCached: true
-  - title: "The mystery results in Nigeria's disputed election"
-    excerpt: "When we compared an image from this account to the television pictures of Dr Ariaga using Amazon Rekognition software, we achieved a match of 97.2%, indicating a very high probability they're the ..."
-    publishedDateTime: 2023-05-16T08:19:00Z
-    webUrl: "https://www.the-star.co.ke/news/africa/2023-05-16-the-mystery-results-in-nigerias-disputed-election/"
-    type: article
-    provider:
-      name: The Star
-      domain: the-star.co.ke
-    quality: 24
-    images:
-      - url: "https://lh3.googleusercontent.com/JFV-_x60FOsnvfMEd9pGFOhnCcOwKDid-uVhBOBAIoZnpmSvMNgpJ9zFbiKxIHFX3IWKL0fuAPz0X-Hav0SPuNhbmU4TR-y0XiqDX0hv=s1000"
-        width: 750
-        height: 419
         isCached: true
 
 secured: "O5ors8ABuXWpbKYX4L2BGcram4y9VALDDgk5y5K2Vc0rjyEK2RyTEs2lBdFpzuHNH9uuGbqrwFPzoZEvARI7hmTUf4ObDDu0S2D7uYb7FHeDASFhrmD8rL/8tBETsEoX2zhD1WZPcTyKi8WreZ75ickiNfAhUYU+LEHKbche2GuC7e2knabVOopf5mBSZgyhGz+aRgKi21fNyPuQtBhTL8XkiQ/MS0RZdAq6U/xcbYlkUXM4f93SMn/lfc5sylrmbdBngUTY3yBhkiXuQgVrSnNZtbbWovU0n57Qt6CAsdIXGpIbxSv16yOxsyxCjloNPAoyp924t1KTcpLx+KM+e2SP7o5ArW224goBTO5B4BoT0yDRFjxYOrlQD2bPDIwu1sYKlcphLKv1+DSDjoLvuJoZPk9yRuWVhmOnB31gnur28AjfhwSb/Bpy0DEROsYhiHfkDVFGjEpoSoPIlFhl31IpY28AXx7nHfNyK+z1VBzHrgpipt9touzVToQhga0qNQsMq6laHQGR3lo8Cn2ujQ==;ZmTZbA0t9N33U/RcWSzRGg=="

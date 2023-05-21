@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/business/healthcare-pharmaceuticals/hippoc
 webUrl: "https://www.reuters.com/business/healthcare-pharmaceuticals/hippocratic-health-raises-50-mln-seed-funding-build-ai-model-2023-05-16/?taid=646381de5571eb000186b80a"
 type: article
 quality: 83
-heat: 163
+heat: 153
 published: true
 
 provider:
@@ -119,15 +119,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 28
-  - title: "Together raises $20m seed funding to build open-source AI models"
-    excerpt: "On a mission to take on existing big players in generative AI, Together wants to ensure an accessible future for the technology."
-    publishedDateTime: 2023-05-16T07:56:00Z
-    webUrl: "https://www.siliconrepublic.com/start-ups/together-ai-models-generative-cloud-seed-funding-vipul-ved-prakash"
-    type: article
-    provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 19
 
 secured: "udtda29Bq1S0d4Ptgler2eIWuQSDb1mBSjuE1eYrL9pX03att1APG8FhbfBlKkQuuPSfCTj5Il1xB0bNitMVdedsF7X94rqQ2pdmYH9ns7pLF9fWK3irQGaRKNlcvC+cdBXzfMpP8PYbT6a6Uidk1e/5Qxs+ubg7Qg6x1U7Nn2Sc7ac8dueOOyGSx/3ed5QTZ4JQMPRW0LKFMWwitnIVB5h+SPeMypYngRzMlOHok19FdLcfxlf56Dax5rwtGWf6iciNWfwh7+Ihq3yW23SgP9tYisUowmt+VzfSwJifrctvLHR8lriqgZ6Hu7zEOFr5sGtUaOO9sQyVCx7Mzd++akOa9vL6GfMf1FEZrHdYCY1Sfc/qdqFWDTh8Q+AQP2455SN9xizRC0wGGYpiSoqy/o24+5kJXgoXBTx40q0qhMZzpth8408ud4BpdsVuW0prFF15C0USbvZlgc29fq5DgffAZY2Meus5/Wa/ll7MeQengVa4aaCfnGjrIWvfT2uYBVgjXpJVUXRbpOWQQjLQTw==;2TsXQxpJu5jOc3gKHcxbuQ=="
 ---

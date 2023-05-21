@@ -181,15 +181,6 @@ related:
       name: Fiji Times
       domain: fijitimes.com
     quality: 34
-  - title: "WHO calls for caution in using artificial intelligence for health"
-    excerpt: "The World Health Organisation has called for caution in using artificial intelligence-generated large language model tools to protect and promote human well-being, human safety, autonomy, and preserve public health."
-    publishedDateTime: 2023-05-16T08:28:00Z
-    webUrl: "https://punchng.com/who-calls-for-caution-in-using-artificial-intelligence-for-health/"
-    type: article
-    provider:
-      name: The Punch Newspapers
-      domain: punchng.com
-    quality: 19
   - title: "The Future of War Is AI"
     excerpt: "Louis Buckley, Content Developer at London’s Science Museum, plays rock, paper, scissors with Berti the Robot ... ultimate creation AI, already a living abbreviation of itself, might do, it makes me shiver. Brrr… Let me start with honesty, which ..."
     publishedDateTime: 2023-05-17T09:05:00Z

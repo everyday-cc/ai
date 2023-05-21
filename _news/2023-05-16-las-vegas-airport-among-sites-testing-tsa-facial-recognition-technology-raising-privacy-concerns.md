@@ -26,15 +26,15 @@ images:
 
 related:
   - title: "Are you who you say you are? TSA tests facial recognition technology to boost airport security"
-    excerpt: "A pilot project by the Transportation Security Administration assesses the use of facial recognition technology at a number of airports."
-    publishedDateTime: 2023-05-16T21:17:00Z
-    webUrl: "https://abc7chicago.com/tsa-facial-recognition-airport-security-transportation-administration/13250231/"
-    ampWebUrl: "https://abc7chicago.com/amp/tsa-facial-recognition-airport-security-transportation-administration/13250231/"
-    cdnAmpWebUrl: "https://abc7chicago-com.cdn.ampproject.org/c/s/abc7chicago.com/amp/tsa-facial-recognition-airport-security-transportation-administration/13250231/"
+    excerpt: "It's all part of a pilot project by the Transportation Security Administration to assess the use of facial recognition technology at a number of airports across the country. \"What we are trying to ..."
+    publishedDateTime: 2023-05-17T05:02:00Z
+    webUrl: "https://abc7news.com/tsa-facial-recognition-airport-security-transportation-administration/13250231/"
+    ampWebUrl: "https://abc7news.com/amp/tsa-facial-recognition-airport-security-transportation-administration/13250231/"
+    cdnAmpWebUrl: "https://abc7news-com.cdn.ampproject.org/c/s/abc7news.com/amp/tsa-facial-recognition-airport-security-transportation-administration/13250231/"
     type: article
     provider:
-      name: ABC 7 Chicago
-      domain: abc7chicago.com
+      name: ABC7 San Francisco
+      domain: abc7news.com
     quality: 79
     images:
       - url: "https://cdn.abcotvs.com/dip/images/10994202_090221-cc-ap-tsa-generic-img.jpg"
@@ -87,17 +87,17 @@ related:
         width: 720
         height: 480
         isCached: true
-  - title: "TSA tests facial recognition technology at airports"
-    excerpt: "“What we are trying to do with this is aid the officers to actually determine that you are who you say who you are,” Jason Lim, identity management capabilities manager, said while presenting the technology to reporters at Baltimore-Washington ..."
-    publishedDateTime: 2023-05-16T08:15:00Z
-    webUrl: "https://www.washingtonexaminer.com/policy/defense-national-security/tsa-facial-recognition-technology-airports"
+  - title: "TSA testing facial recognition at more airports, raising privacy concerns"
+    excerpt: "A passenger walks up to an airport security checkpoint, slips an ID card into a slot and looks into a camera atop a small screen. The screen flashes"
+    publishedDateTime: 2023-05-21T00:30:00Z
+    webUrl: "https://omaha.com/news/tsa-testing-facial-recognition-at-more-airports-raising-privacy-concerns/article_afb8746e-ea8a-551c-bb05-26bfc9b02f28.html"
     type: article
     provider:
-      name: Washington Examiner
-      domain: washingtonexaminer.com
-    quality: 56
+      name: Omaha.com
+      domain: omaha.com
+    quality: 53
     images:
-      - url: "https://mediadc.brightspotcdn.com/dims4/default/0ce2bdc/2147483647/strip/true/crop/7002x3676+0+497/resize/1200x630!/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2F58%2F7d%2Fe6ddca124d91893393e7fde18609%2Fap23116691163494.jpg"
+      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/d/78/d7899d8f-cf01-52ab-acbe-16fe1f61c88c/64642a155739f.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
         width: 1200
         height: 630
         isCached: true

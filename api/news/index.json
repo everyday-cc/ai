@@ -2,6 +2,100 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-05-21-ai-draws-attention-at-g-7-summit-with-leaders-calling-for-guidelines.md",
+      "title": "AI Draws Attention at G-7 Summit, With Leaders Calling for Guidelines",
+      "excerpt": "The leaders of the Group of Seven nations say we need to develop an international framework \"to achieve the common vision and goal of trustworthy AI.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/tech/ai-draws-attention-at-g-7-summit-with-leaders-calling-for-guidelines/",
+      "originalUrl": "https://www.cnet.com/tech/ai-draws-attention-at-g-7-summit-with-leaders-calling-for-guidelines/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/c689245653d150552e49a037be530716e2454213/hub/2023/05/21/bfd630b0-ed26-4f6f-a96c-1a14f3d9dfd8/ai-brian-by-getty.jpg?auto=webp&fit=crop&height=630&width=1200",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/ai-draws-attention-at-g-7-summit-with-leaders-calling-for-guidelines/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ai-draws-attention-at-g-7-summit-with-leaders-calling-for-guidelines/",
+      "publishedDateTime": "2023-05-20T17:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-21-the-promises-and-potential-pitfalls-of-artificial-intelligence-in-medicine.md",
+      "title": "The promises and potential pitfalls of artificial intelligence in medicine",
+      "excerpt": "Artificial intelligence is finding its place in all sorts of scientific fields, and health care is no exception. Programs are learning to answer patients’ medical questions and diagnose illnesses, but there are problems to be worked out.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pbs.org/newshour/show/the-promises-and-potential-pitfalls-of-artificial-intelligence-in-medicine",
+      "originalUrl": "https://www.pbs.org/newshour/show/the-promises-and-potential-pitfalls-of-artificial-intelligence-in-medicine",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d3i6fh83elv35t.cloudfront.net/static/2023/05/aiHealthcare-1024x576.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pbs.org/newshour/amp/show/the-promises-and-potential-pitfalls-of-artificial-intelligence-in-medicine",
+      "cdnAmpWebUrl": "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/show/the-promises-and-potential-pitfalls-of-artificial-intelligence-in-medicine",
+      "publishedDateTime": "2023-05-20T14:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PBS",
+        "domain": "pbs.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-20-how-the-digital-ad-industry-can-guide-the-ways-ai-transforms-businesses.md",
       "title": "How the digital ad industry can guide the ways AI transforms businesses",
       "excerpt": "The digital advertising industry must look closely at how AI is implemented as it begins to use the tech for targeting, measurement, personalization and optimization.",
@@ -10,7 +104,7 @@
       "originalUrl": "https://venturebeat.com/ai/how-the-digital-ad-industry-can-guide-the-ways-ai-transforms-businesses/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 118,
       "tags": null,
       "images": [
         {
@@ -309,7 +403,7 @@
       "originalUrl": "https://www.bbc.com/news/uk-65655010",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 100,
       "tags": null,
       "images": [
         {
@@ -360,7 +454,7 @@
       "originalUrl": "https://techcrunch.com/2023/05/19/procedural-justice-can-address-generative-ais-trust-legitimacy-problem/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 100,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -566,7 +660,7 @@
       "originalUrl": "https://appleinsider.com/articles/23/05/19/apple-looking-to-hire-machine-learning-engineers-with-an-interest-in-generative-ai",
       "featuredContent": null,
       "highlight": null,
-      "heat": 108,
+      "heat": 98,
       "tags": null,
       "images": [
         {
@@ -1148,101 +1242,6 @@
         "AI",
         "Google AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-05-19-machine-learning-creates-new-technologies.md",
-      "title": "Machine Learning Creates New Technologies",
-      "excerpt": "Machine learning is finding increasing uses in developing new materials, including magnetic materials used for digital storage. Although not infallible, these approaches can speed scientific and engineering discoveries.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tomcoughlin/2023/05/19/machine-learning-creates-new-technologies/",
-      "originalUrl": "https://www.forbes.com/sites/tomcoughlin/2023/05/19/machine-learning-creates-new-technologies/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64670c15549215f4ea41e295/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 772,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tomcoughlin/2023/05/19/machine-learning-creates-new-technologies/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomcoughlin/2023/05/19/machine-learning-creates-new-technologies/amp/",
-      "publishedDateTime": "2023-05-18T22:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-19-facebook-parent-meta-unveils-chip-for-ai-programs.md",
-      "title": "Facebook parent Meta unveils chip for AI programs",
-      "excerpt": "Facebook parent company Meta has unveiled its first custom silicon chip for processing AI programs called the Meta Training and Inference Accelerator, or MTIA. It also talked about a new AI-optimised data centre design and the second phase of 16,",
-      "sourceUrl": null,
-      "webUrl": "https://www.gadgetsnow.com/tech-news/facebook-parent-meta-unveils-chip-for-ai-programs/articleshow/100343511.cms",
-      "originalUrl": "https://www.gadgetsnow.com/tech-news/facebook-parent-meta-unveils-chip-for-ai-programs/articleshow/100343511.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/thumb/resizemode-4,msid-100343511,imgsize-15346,width-800/100343511.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gadgetsnow.com/tech-news/facebook-parent-meta-unveils-chip-for-ai-programs/amp_articleshow/100343511.cms",
-      "cdnAmpWebUrl": "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/facebook-parent-meta-unveils-chip-for-ai-programs/amp_articleshow/100343511.cms",
-      "publishedDateTime": "2023-05-18T20:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gadgets Now",
-        "domain": "gadgetsnow.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

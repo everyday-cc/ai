@@ -2,21 +2,27 @@
 category: news
 title: "Google succeeds in bid to throw out medical records claim"
 excerpt: "The software giant and its artificial intelligence arm DeepMind was facing legal action over the transfer of patient data by an NHS trust."
-publishedDateTime: 2023-05-19T12:06:00Z
-originalUrl: "https://www.alloaadvertiser.com/news/national/23533966.google-succeeds-bid-throw-medical-records-claim/"
-webUrl: "https://www.alloaadvertiser.com/news/national/23533966.google-succeeds-bid-throw-medical-records-claim/"
+publishedDateTime: 2023-05-19T12:25:00Z
+originalUrl: "https://www.peeblesshirenews.com/news/national/23533966.google-succeeds-bid-throw-medical-records-claim/"
+webUrl: "https://www.peeblesshirenews.com/news/national/23533966.google-succeeds-bid-throw-medical-records-claim/"
 type: article
-quality: 19
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Alloa Advertiser
-  domain: alloaadvertiser.com
+  name: Peeblesshire News
+  domain: peeblesshirenews.com
 
 topics:
   - Google AI
   - AI
+
+images:
+  - url: "https://www.peeblesshirenews.com/resources/images/16583143/?type=og-image"
+    width: 945
+    height: 630
+    isCached: true
 
 related:
   - title: "London court throws out lawsuit against Google over medical records"
@@ -57,6 +63,6 @@ related:
       domain: peeblesshirenews.com
     quality: 19
 
-secured: "BRxQB0O5nxWr85b+ANFiUK1w2bd1eheOaYKfsIc+C2XG50EomqBIy43yxyL7blXvwEP/G6B5lXnH8RT/tX3s3xlheeNYH1Z46pbp8p5HRG7LDebiG85RYmQ3VchnSS3eg9my5o7Phgvrti/k3qhcQjW4RR0kSByB/oqXk2rFdnqBN4/Wbj+1wLcs6/wVJgV168T8mvlwZyUOun1K2VwbnXFOBUMl0v/IXIfWKOsSh8xMF0eLDsTGTKiU8vm/w2OsQhOMPj2Fu3CGy8+PiqTbo89YEzYVg0IEEZA6iwvjrrj+h5/dYcaXVjbj3PoAysjfZTiM7zYJOW8zQohJPccCaFDtEHm0zIaLlkfwVHIQPcs=;J78NBkNwuMBW4LJJiqNS+g=="
+secured: "8RAIf5sjdvg8b5ymJe4pcOklp56QnVCAnTv7jJCHjzUZJ8wHjlSHCaTpXE1rJNfGBqgqxLGHcRnMBy0NdyxgcZXl+v0yfuAb9m2uRA8EluSs/achMdPQMOhdL6zplmlYZyVUvpGCPfCaCEWCfnA+98iWrirgroJjM1DKF1TZ76LxCpq+lxrRRzWuWZF4azJVfJiaaejtEMutRworRAhIR6Jz3sXU3utWm7VXuM2elHbzwPOZGGcRAOz8y1twKn3pYznSyQIKMTm6WSUPBeVR3UzoTNLrqw3SHsUn4z/u3XigAs6rK2tKZH3j9FmwcBtL1yTgeh75mqgdY6yOcgFctCceDOUuFIP8eDI4LEhpb5g=;jWHPgt1qtwrPVpqnHAYgcg=="
 ---
 

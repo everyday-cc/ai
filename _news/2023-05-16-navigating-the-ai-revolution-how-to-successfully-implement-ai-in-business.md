@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/theyec/2023/05/16/navigating-the-ai-rev
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2023/05/16/navigating-the-ai-revolution-how-to-successfully-implement-ai-in-business/amp/"
 type: article
 quality: 85
-heat: 165
+heat: 155
 published: true
 
 provider:
@@ -87,15 +87,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Bitpanda invests $10m in AI to “revolutionise” wealth creation"
-    excerpt: "Austrian fintech Bitpanda is investing $10m into artificial intelligence to establish Bitpanda.ai. The investment marks the first move towards establishing a dedicated AI division for the company, which was founded by Eric Demuth,"
-    publishedDateTime: 2023-05-16T08:04:00Z
-    webUrl: "https://www.altfi.com/article/10693_bitpanda-invests-10m-in-ai-to-revolutionise-wealth-creation"
-    type: article
-    provider:
-      name: altfi
-      domain: altfi.com
-    quality: 19
   - title: "How Scottish Mortgage and other trusts are playing the AI revolution"
     excerpt: "News archive including articles on Fund Managers, Fund Selection, Asset Allocation, Absolute Return, Offshore Investments, Tax Shelters, Insurance bonds. How Scottish Mortgage and other trusts are pla"
     publishedDateTime: 2023-05-18T16:01:00Z

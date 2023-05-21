@@ -59,6 +59,20 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Rise of the machines: how long before AI steals my job?"
+    excerpt: "As a translator, Sarah DeVries has watched Google Translate get better and better and wonders what the future of her profession holds."
+    publishedDateTime: 2023-05-21T00:28:00Z
+    webUrl: "https://mexiconewsdaily.com/community/how-long-before-ai-steals-job/"
+    type: article
+    provider:
+      name: Mexico News Daily
+      domain: mexiconewsdaily.com
+    quality: 39
+    images:
+      - url: "https://mexiconewsdaily.com/wp-content/uploads/2023/05/AI-cropped.jpg"
+        width: 850
+        height: 594
+        isCached: true
 
 secured: "G2Xzg12xvK/Sfk5l23fUngSUowLJT8YZSjTnMwDQY0a2qFJGwUCsoVuHcf35zhaqB/8U6OlN4P9whU7Lcu6mb7mNrXUegJ4Y1VhHlgzs+20Fydn4Uo6g+GXyPqVDhJPhgeRNwMl0wGwd7SxEzVkRmM8mYHqWfQABTlnlRKJj9y749WqgDQzSkOTdcjxRH8E9fqcB5z93OQcgwPFkfJJ7+s+M20QhPIfjh6tShOsdxqWjiwKZeEvM3PBqRE/+1cs9Mv+lQ7bEXB9EIzIa9nDqSbPCWJ1Eu/L7v6qx0jOfJxiezL6kt9ie4bxqCWekpearFbizB5cUbv6svROARzTVclmmeFvtFlzZTDCTGPUFBFaxoQs71yZ+cN8tRfb55H+bHn8HBCOSW+vc15QSjAgWVd8IOH/clkcCoiaP/lF66ulbK8hVhKSuRs+GcfPCl8XXloeZsfc/3TNhO2n9uKugFCpHc0wMXB8YZrm+VO6CYfhvamaKNqPzVwJteTJh3LtAUUn/pR0d9tY9hT0SWpVnDg==;Is7EU6LNz1dDzJ8f0KZdZw=="
 ---

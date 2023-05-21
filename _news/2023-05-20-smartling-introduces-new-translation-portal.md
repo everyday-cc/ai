@@ -26,17 +26,6 @@ images:
     height: 453
     isCached: true
 
-related:
-  - title: "Apple Proposes New Solution for Multilingual Machine Translation"
-    excerpt: "Multilingual Neural Machine Translation (MNMT) aims to improve the quality of translations between non-English languages by reducing latency and avoiding error cascades that occur when translating through English."
-    publishedDateTime: 2023-05-16T07:25:00Z
-    webUrl: "https://slator.com/apple-proposes-new-solution-multilingual-machine-translation/"
-    type: article
-    provider:
-      name: Slator
-      domain: slator.com
-    quality: 19
-
 secured: "+JZAAmcKh6Q0r3u+AWiDx+aNLHi+mdyGcSyhNzamQmsy+wukQipqL92TM28lRUdRfiDUuoBqoa0iLHjAjndrmcmtu+Ji6UkcpAZibIWGXcdyiLmSaE57zHdr2xgpa7uBdDtH86QuBm1mEFwBVHqbNHbtXys4yt8Gc00rRO33GMhr6jBcMe9zDRQkBDqxSANEndCqzWavjUIdLqbZK/TQXPJ0SogpIiv4Zzfpkxa4OKC7DMBANhMPnjpnEbk6Gc2GGLQcILBTHuwQRuxbYdpwN9dltB1Xf0VvXQTEZBAj9O4A7/fbZitovKEZQrDaFKrOKaG/8IOz6jE1W59tR2v8USXWO1NIRK+Rcvu7mnDJsY0=;cNEkelcrah8tK7RhCcQdvA=="
 ---
 

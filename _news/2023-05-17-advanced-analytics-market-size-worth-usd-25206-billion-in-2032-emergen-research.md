@@ -57,20 +57,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 31
-  - title: "Vision Screeners Market is anticipated to reach US$ 815.2 Million by 2029, with a CAGR of 5.9%"
-    excerpt: "During the projected period 2022 to 2029, the global Vision Screeners Market demand is expected to develop at a CAGR of 5.9%. The rising frequency of eye illnesses is a major factor driving market expansion."
-    publishedDateTime: 2023-05-16T07:49:00Z
-    webUrl: "https://www.fmiblog.com/2023/05/16/vision-screeners-market-is-anticipated-to-reach-us-815-2-million-by-2029-with-a-cagr-of-5-9/"
-    type: article
-    provider:
-      name: Future Market Insights
-      domain: fmiblog.com
-    quality: 12
-    images:
-      - url: "https://www.fmiblog.com/wp-content/uploads/2023/05/SMARTER-WAY-TO-DO-MARKET-RESEARCH-1-420x300.png"
-        width: 420
-        height: 300
-        isCached: true
 
 secured: "a45b5icnoMJ9Hl2Tuh59+0Walj+HS0Hwnl9e6ZjdS2yf/Rp3gds/3dZsJyIgR1f0n8v9T4P64ThK/J1fWw6Sb5yub9IlSgGZOInqtLLM3ElmoyXsaXn7tQLqV2UbsHXAlDtp6Dj8tzrZ2LJERT/gE4cXpYmCZX3AuKQGzK2k/X8W+kO2OvPvYNQOng3n5ZJNgHQdEahcHbnT5FBq6jpUTFofmF+PltjaAekakKO3tvciaH+3avTgHQsTLZcI9pMs3kmPh4UKgief8n+f6/z7uBQhPIGd+GGeN3PFVfMmSvi0yRpY5jgdSmVZ+1Fn1UYTsyHJajpAKB8XSXRgopb26kaYTesKndqJaXrTtgjjnAo=;D0iY9suZdDCt4rQgIf9kwA=="
 ---

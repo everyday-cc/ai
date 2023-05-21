@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/timbajarin/2023/05/16/cheat-sheets-for-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/timbajarin/2023/05/16/cheat-sheets-for-ai-information-overload/amp/"
 type: article
 quality: 87
-heat: 147
+heat: 137
 published: true
 
 provider:
@@ -70,20 +70,6 @@ related:
       - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/e9geoifv1itnkiqg_1684234298.jpeg"
         width: 768
         height: 438
-        isCached: true
-  - title: "AI in ICT (Information and Communications Technology) Market Future Investments and Forecast Till 2030"
-    excerpt: "The detailed analysis of the AI in ICT (Information and Communications Technology) Market report provides information"
-    publishedDateTime: 2023-05-16T07:35:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-ict-information-and-communications-technology-market-future-investments-and-forecast-till-2030-2023-05-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 53
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Regulation of Artificial Intelligence"
     excerpt: "The introduction to the House of Commons of a Bill under the ten minute rule, by Labour MP Mick Whitley, on the regulation of artificial intelligence and workers' rights, from Wednesday 17 May."

@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Are you who you say you are? TSA tests facial recognition technology to boost airport security"
-excerpt: "A pilot project by the Transportation Security Administration assesses the use of facial recognition technology at a number of airports."
-publishedDateTime: 2023-05-16T21:17:00Z
-originalUrl: "https://abc7chicago.com/tsa-facial-recognition-airport-security-transportation-administration/13250231/"
-webUrl: "https://abc7chicago.com/tsa-facial-recognition-airport-security-transportation-administration/13250231/"
-ampWebUrl: "https://abc7chicago.com/amp/tsa-facial-recognition-airport-security-transportation-administration/13250231/"
-cdnAmpWebUrl: "https://abc7chicago-com.cdn.ampproject.org/c/s/abc7chicago.com/amp/tsa-facial-recognition-airport-security-transportation-administration/13250231/"
+excerpt: "It's all part of a pilot project by the Transportation Security Administration to assess the use of facial recognition technology at a number of airports across the country. \"What we are trying to ..."
+publishedDateTime: 2023-05-17T05:02:00Z
+originalUrl: "https://abc7news.com/tsa-facial-recognition-airport-security-transportation-administration/13250231/"
+webUrl: "https://abc7news.com/tsa-facial-recognition-airport-security-transportation-administration/13250231/"
+ampWebUrl: "https://abc7news.com/amp/tsa-facial-recognition-airport-security-transportation-administration/13250231/"
+cdnAmpWebUrl: "https://abc7news-com.cdn.ampproject.org/c/s/abc7news.com/amp/tsa-facial-recognition-airport-security-transportation-administration/13250231/"
 type: article
 quality: 79
 heat: 189
 published: true
 
 provider:
-  name: ABC 7 Chicago
-  domain: abc7chicago.com
+  name: ABC7 San Francisco
+  domain: abc7news.com
 
 topics:
   - Computer Vision
@@ -74,17 +74,17 @@ related:
         width: 720
         height: 480
         isCached: true
-  - title: "TSA tests facial recognition technology at airports"
-    excerpt: "“What we are trying to do with this is aid the officers to actually determine that you are who you say who you are,” Jason Lim, identity management capabilities manager, said while presenting the technology to reporters at Baltimore-Washington ..."
-    publishedDateTime: 2023-05-16T08:15:00Z
-    webUrl: "https://www.washingtonexaminer.com/policy/defense-national-security/tsa-facial-recognition-technology-airports"
+  - title: "TSA testing facial recognition at more airports, raising privacy concerns"
+    excerpt: "A passenger walks up to an airport security checkpoint, slips an ID card into a slot and looks into a camera atop a small screen. The screen flashes"
+    publishedDateTime: 2023-05-21T00:30:00Z
+    webUrl: "https://omaha.com/news/tsa-testing-facial-recognition-at-more-airports-raising-privacy-concerns/article_afb8746e-ea8a-551c-bb05-26bfc9b02f28.html"
     type: article
     provider:
-      name: Washington Examiner
-      domain: washingtonexaminer.com
-    quality: 56
+      name: Omaha.com
+      domain: omaha.com
+    quality: 53
     images:
-      - url: "https://mediadc.brightspotcdn.com/dims4/default/0ce2bdc/2147483647/strip/true/crop/7002x3676+0+497/resize/1200x630!/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2F58%2F7d%2Fe6ddca124d91893393e7fde18609%2Fap23116691163494.jpg"
+      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/d/78/d7899d8f-cf01-52ab-acbe-16fe1f61c88c/64642a155739f.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
         width: 1200
         height: 630
         isCached: true
@@ -172,6 +172,6 @@ related:
       domain: extremetech.com
     quality: 19
 
-secured: "KRs0UAVWaVUb2pH4D3CH1GP52oFu4oOaGujVxEV/nCM7Pv8x7PniJFqLZSBrdTqxWLiGC43yVJJJ8dFqouQ3vEUixSjnboC1yCxzWF93sghvFPXlMJxLmuvvK/x5ZUYgzH9IGpDHkSc5yyPWe+KzpFUdk6HfpRCxzfo1W41NkYvyilHRwh6EnXH4nTuEI6Bg2IfaX5Ea/EtC6g8f8NtFtM8xcyKzr/XW9RGjPfjh9LOPiuaJDS3/Nt3GMLejL2O/bFheSJHY7o/se+X5XFvHgMp/19PUUQQH4JeCvcIwC2NAYHX6kZ8fbk1/6K2HPsVZdU7gjfeJ+68OSzmhLLSu83jSOtA+I+CGbpBQ5z1dAzmu/nTJXSzmqA+oezxUHrgWIYIXjlPjUG1BGLROFVqE1Yu823ni8tUGAUPoIBMaKHsba4N+lP62TUdG3xdrTn87dVuidGJM98S4NeOPepq5F2NoZcLmGIcY0X9M1BjVeftJ+TBFpH8kIGDrjrN3PNtYFJ0qnRmBdzRkFUhN3UdszQ==;llTCFLSFJ/e1uM8Lw129zA=="
+secured: "eEgCFiAFXf7/2veawmrhEhcJh39ETwe8/eB5ooO7HYWb3+YVuGdxstAoP41giqchhvNIUUoeTCpPDgxZNmqCN19gwhXLuLGZ1pXOiGQAEPiOfh4U5GfSJJ7mk7DYY0f4hiNDejMitStVRVbUyh+5KM4lmNebrkKpW91BQD2lE6PzR3wofoMVW5jhHe7SPb+BAVSuG4LzfksXUxcNPLhLaK/PObQbzLV72eLvsPL98YRTkJBDHuLGqJg9igJN7JQBsU/DTK/qcdAI5rJbIRb+JzDcT8jY+Gff4HqTd3841uVnbCvXPhtBzw72SeEEwFjLWmUliZqLb3w5t/kqykZYv21hLJSoWaeNL2bUYps2vGI=;PBMQ+qTnokPsjtmqTtYMSw=="
 ---
 

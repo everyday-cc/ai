@@ -2,6 +2,135 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2023-04-29-8-emerging-entrepreneurs-you-need-to-know-about-in-2023.md",
+      "title": "8 emerging entrepreneurs you need to know about in 2023",
+      "excerpt": "New Delhi [India] April 29 ANIPNN From innovative startups to game-changing enterprises these 8 emerging entrepreneurs have carved their own paths to success Their journeys as leaders offer valuable i",
+      "sourceUrl": null,
+      "webUrl": "https://www.bignewsnetwork.com/news/273795464/8-emerging-entrepreneurs-you-need-to-know-about-in-2023",
+      "originalUrl": "https://www.bignewsnetwork.com/news/273795464/8-emerging-entrepreneurs-you-need-to-know-about-in-2023",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.bignewsnetwork.com/NzBmYTU1ZTMtZTN.jpg",
+          "width": 630,
+          "height": 473,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-29T03:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Big News Network.com",
+        "domain": "bignewsnetwork.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-29-why-google-deepmind-may-be-bad-news-for-the-company.md",
+      "title": "Why Google DeepMind may be 'bad news' for the company",
+      "excerpt": "According to a report by The Financial Times, Google is risking internal turmoil by bringing DeepMind onboard. Citing people familiar with the matter,",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/gadgets-news/why-google-deepmind-may-be-bad-news-for-the-company/articleshow/99868387.cms",
+      "originalUrl": "https://timesofindia.indiatimes.com/gadgets-news/why-google-deepmind-may-be-bad-news-for-the-company/articleshow/99868387.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/thumb/msid-99868418,width-1070,height-580,imgsize-1272816,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+          "width": 1069,
+          "height": 580,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.timesofindia.com/gadgets-news/why-google-deepmind-may-be-bad-news-for-the-company/amp_articleshow/99868387.cms",
+      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/gadgets-news/why-google-deepmind-may-be-bad-news-for-the-company/amp_articleshow/99868387.cms",
+      "publishedDateTime": "2023-04-29T03:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-29-autopilot-became-the-default-operation-mode-for-google-kubernetes-engine.md",
+      "title": "Autopilot Became the Default Operation Mode for Google Kubernetes Engine",
+      "excerpt": "Google announced that Autopilot is now the default and recommended operation mode for GKE clusters. Autopilot was introduced in 2021 and is a cluster mode of operation that simply manages the Kubernetes clusters.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoq.com/news/2023/04/autopilot-google-kubernetes/",
+      "originalUrl": "https://www.infoq.com/news/2023/04/autopilot-google-kubernetes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://res.infoq.com/news/2023/04/autopilot-google-kubernetes/en/headerimage/generatedHeaderImage-1682421758241.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-29T02:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoQ",
+        "domain": "infoq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-29-letters-in-the-driverless-car-chase-hong-kong-mustnt-lag-behind.md",
       "title": "Letters | In the driverless car chase, Hong Kong mustn’t lag behind",
       "excerpt": "Consider a hypothetical scenario wherein one requests a taxi on a ride-hailing app, and a self-driving vehicle arrives. How would you react? Perhaps you would be taken aback. In August last year, Baidu, a leading Chinese tech company, was granted approval ...",
@@ -969,135 +1098,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-29-indianapolis-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-now-open.md",
-      "title": "Indianapolis Selected as Host Site for Artificial Intelligence Bootcamp - APPLICATIONS NOW OPEN!",
-      "excerpt": "Corteva will host a Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp for high school students at No-Cost for a 2 nd time in the Fall of 2023. The AI Bootcamp in Indianapolis will be targeted at underserved high school students (9th-12 th grade) and will introduce these high school students to basic AI concepts and skills.",
-      "sourceUrl": null,
-      "webUrl": "https://technews.tmcnet.com/news/2023/04/28/9804356.htm",
-      "originalUrl": "https://technews.tmcnet.com/news/2023/04/28/9804356.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://marketplace.connectwise.com/content/images/thumbs/0000635_skykick_550.png",
-          "width": 550,
-          "height": 353,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-28T11:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-29-miami-dade-college-will-once-again-host-artificial-intelligence-bootcamp-applications-now-open.md",
-      "title": "Miami Dade College Will Once Again Host Artificial Intelligence Bootcamp – APPLICATIONS NOW OPEN!",
-      "excerpt": "Miami Dade College (MDC) will once again host the Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp in Miami for high school students at no-cost during the fall 2023",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/04/g32091127/miami-dade-college-will-once-again-host-artificial-intelligence-bootcamp-applications-now-open",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/04/g32091127/miami-dade-college-will-once-again-host-artificial-intelligence-bootcamp-applications-now-open",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/32091127",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32091127",
-      "publishedDateTime": "2023-04-28T11:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-29-data-and-ai-ethics-market-size-2023-with-swot-and-pestal-analysis-forecast-to-2031.md",
-      "title": "Data and AI Ethics Market Size 2023 with SWOT and PESTAL Analysis | Forecast to 2031",
-      "excerpt": "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/data-and-ai-ethics-market-size-2023-with-swot-and-pestal-analysis-forecast-to-2031-2023-04-28?tesla=y",
-      "originalUrl": "https://www.marketwatch.com/press-release/data-and-ai-ethics-market-size-2023-with-swot-and-pestal-analysis-forecast-to-2031-2023-04-28?tesla=y",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-28T11:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

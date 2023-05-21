@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-04-25-as-suicide-rates-spike-new-ai-platform-could-fill-the-gap-in-mental-health-care-say-boston-researchers.md",
+      "title": "As suicide rates spike, new AI platform could ‘fill the gap’ in mental health care, say Boston researchers",
+      "excerpt": "As the need for mental health care escalates amid provider shortages, medical technology companies like OM1 have turned to AI to help improve patient care. But some experts have worries.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/health/suicide-rates-spike-ai-platform-could-fill-gap-mental-health-care-boston-researchers",
+      "originalUrl": "https://www.foxnews.com/health/suicide-rates-spike-ai-platform-could-fill-gap-mental-health-care-boston-researchers",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f44ceb74-a323-483a-8fa8-420fc7256f1f/1d1fe446-186d-4f3d-aefd-5fd6380944db/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/health/suicide-rates-spike-ai-platform-could-fill-gap-mental-health-care-boston-researchers.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/health/suicide-rates-spike-ai-platform-could-fill-gap-mental-health-care-boston-researchers.amp",
+      "publishedDateTime": "2023-04-24T22:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-24-novel-device-effective-for-babies-requiring-renal-replacement-therapy.md",
       "title": "Novel Device Effective for Babies Requiring Renal Replacement Therapy",
       "excerpt": "For babies under 8 kg requiring renal replacement therapy, a novel hemodialysis device, the Newcastle Infant Dialysis Ultrafiltration System (NIDUS), delivers accurate, controllable",
@@ -1380,49 +1432,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-04-14-indias-tryst-with-artificial-intelligence.md",
-      "title": "India’s Tryst with artificial intelligence",
-      "excerpt": "Artificial Intelligence (AI) has already begun transforming the way the world works. Constant efforts are being made to evolve and integrate it",
-      "sourceUrl": null,
-      "webUrl": "https://www.omanobserver.om/article/1135663/world/asia/indias-tryst-with-artificial-intelligence",
-      "originalUrl": "https://www.omanobserver.om/article/1135663/world/asia/indias-tryst-with-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.omanobserver.om/omanobserver/uploads/images/2023/04/14/2305392.jpg",
-          "width": 1000,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.omanobserver.om/ampArticle/1135663",
-      "cdnAmpWebUrl": "https://www-omanobserver-om.cdn.ampproject.org/c/s/www.omanobserver.om/ampArticle/1135663",
-      "publishedDateTime": "2023-04-14T05:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "omanobserver",
-        "domain": "omanobserver.om",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

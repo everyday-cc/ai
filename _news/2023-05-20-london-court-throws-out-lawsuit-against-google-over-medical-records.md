@@ -41,13 +41,18 @@ related:
         isCached: true
   - title: "Google succeeds in bid to throw out medical records claim"
     excerpt: "The software giant and its artificial intelligence arm DeepMind was facing legal action over the transfer of patient data by an NHS trust."
-    publishedDateTime: 2023-05-19T12:06:00Z
-    webUrl: "https://www.alloaadvertiser.com/news/national/23533966.google-succeeds-bid-throw-medical-records-claim/"
+    publishedDateTime: 2023-05-19T12:25:00Z
+    webUrl: "https://www.peeblesshirenews.com/news/national/23533966.google-succeeds-bid-throw-medical-records-claim/"
     type: article
     provider:
-      name: Alloa Advertiser
-      domain: alloaadvertiser.com
-    quality: 19
+      name: Peeblesshire News
+      domain: peeblesshirenews.com
+    quality: 39
+    images:
+      - url: "https://www.peeblesshirenews.com/resources/images/16583143/?type=og-image"
+        width: 945
+        height: 630
+        isCached: true
   - title: "Googles succeeds in bid to throw out medical records claim"
     excerpt: "The software giant and its artificial intelligence arm DeepMind was facing legal action over the transfer of patient data by an NHS trust."
     publishedDateTime: 2023-05-19T11:44:00Z

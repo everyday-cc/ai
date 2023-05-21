@@ -52,15 +52,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "U.S. lawmakers grapple with regulating artificial intelligence"
-    excerpt: "U.S. lawmakers will hear from artificial intelligence experts on Tuesday as Congress grapples with how to regulate AI, a field that has seen explosive advances and a boom in popularity over the past year."
-    publishedDateTime: 2023-05-16T08:53:00Z
-    webUrl: "https://www.cnn.com/videos/us/2023/05/16/exp-senate-hearing-artificial-intelligence-lori-schwartz-intv-051602aseg1-cnni-us.cnn"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 47
   - title: "Using AI to find rare minerals"
     excerpt: "A machine learning model can predict the locations of minerals on Earth—and potentially other planets—by taking advantage of patterns in mineral associations. Science and industry seek mineral deposits to both better understand the history of our planet and to extract for use in technologies like rechargeable batteries."
     publishedDateTime: 2023-05-17T18:07:00Z

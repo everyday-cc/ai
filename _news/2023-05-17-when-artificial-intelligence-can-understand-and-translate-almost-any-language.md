@@ -55,20 +55,6 @@ related:
         width: 2000
         height: 1125
         isCached: true
-  - title: "Understanding machine learning what is it and how it works"
-    excerpt: "The answer lies in a powerful technological concept that’s quietly reshaping our world, Machine Learning. Within this world algorithms learn from data, predicting outcomes, driving decisions ..."
-    publishedDateTime: 2023-05-16T07:33:00Z
-    webUrl: "https://www.geeky-gadgets.com/what-is-machine-learning/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 39
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/05/AI-machine-learning.jpg"
-        width: 700
-        height: 504
-        isCached: true
 
 secured: "vxeW4W2XXvht9PpP/FZPnqPzCMimhdT0htRT8hx8GpgKPvctpuS/kBzvciRwG/8upljcLynEiOW9aKFbAnNmKHfOFeH42cEwJLsZjWb/LirwOVBPkh3skUudybQQ7EVwYgmkA3ToEvJHVW7ZBfNTlxSq+ZFC3lohNEeCp1QGvzgG6vopb9f3+7Ja9gdHcgh+UucKy7/945GJ9yXkbrEdN5o/ZFlsaBEJgYn+cfWtFlIcFod8iuPxZIf8ehPIusAdLvw/lR4FRMxRTqeakAkzG/KSxcD4JVMYWTWLtX7yqdBFPDiefLoumTkeMrjZ1t0TVMqKzWoBoDpPyFmso5IliGZ1V0kByRgb7RGkx/K3ZUX3cDdQ3364a92dARpC2hvH+7oA7W7D4iHhNsMGOgf/G87gIkhodkWNp5fDGS3xbF6ocYpLARsRHbeE449s+u/cq2dX1yz3KGK+lw6Xb/NtdjsR3kQwj6I02mXlJHSbD7s3/n5PPUGOjE5LEM3AjWoT17uUYM6ySEh7O9090/IA/w==;YcggpArEmkvv84sXvAHKpw=="
 ---

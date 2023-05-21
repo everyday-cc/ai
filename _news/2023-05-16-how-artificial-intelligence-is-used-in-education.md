@@ -73,20 +73,6 @@ related:
         width: 768
         height: 438
         isCached: true
-  - title: "AI in ICT (Information and Communications Technology) Market Future Investments and Forecast Till 2030"
-    excerpt: "The detailed analysis of the AI in ICT (Information and Communications Technology) Market report provides information"
-    publishedDateTime: 2023-05-16T07:35:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-ict-information-and-communications-technology-market-future-investments-and-forecast-till-2030-2023-05-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 53
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Regulation of Artificial Intelligence"
     excerpt: "The introduction to the House of Commons of a Bill under the ten minute rule, by Labour MP Mick Whitley, on the regulation of artificial intelligence and workers' rights, from Wednesday 17 May."
     publishedDateTime: 2023-05-17T18:08:00Z

@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Natural Language Processing and Recognition Market with Future Opportunities 2023-2030"
-    excerpt: "May 16, 2023 (The Expresswire) -- \"Natural Language Processing and Recognition Market\" Size 2023-2030 |Research Report| 116 Pages | extensively"
-    publishedDateTime: 2023-05-16T08:04:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-and-recognition-market-with-future-opportunities-2023-2030-2023-05-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 61
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "2023, Automatic Speech Recognition(ASR) Software Market Research Report Analysis by 2030"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. May 16, 2023 (The Expresswire) -- Automatic Speech Recognition(ASR) Software Market | Outlook 2023-2028 | Pre and Post-COVID Research is Covered, Report Information | Newest ..."
     publishedDateTime: 2023-05-16T15:18:00Z
