@@ -2,6 +2,92 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2023-05-05-indias-robot-installations-hit-an-all-time-high.md",
+      "title": "India’s robot installations hit an all-time high",
+      "excerpt": "Industrial robot sales in India have reached a new record with 4,945 units installed in 2021, according to the IFR.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/indias-robot-installations-hit-an-all-time-high/",
+      "originalUrl": "https://www.therobotreport.com/indias-robot-installations-hit-an-all-time-high/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2023/05/ifr-graph-featured.jpg",
+          "width": 770,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-04T14:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-05-california-startup-with-mit-roots-harnessing-ai-to-target-age-related-diseases.md",
+      "title": "California startup with MIT roots harnessing AI to target age-related diseases",
+      "excerpt": "Facebook, and Amazon, and they’re West Coast companies.” As the use of AI is integrated into biopharma research, Collins believes a new generation of biotechs will emerge in both places ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bostonglobe.com/2023/05/04/business/california-startup-with-mit-roots-harnessing-ai-target-age-related-diseases/",
+      "originalUrl": "https://www.bostonglobe.com/2023/05/04/business/california-startup-with-mit-roots-harnessing-ai-target-age-related-diseases/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/oqbnUNSIBE23a0d_Fd4NRS1Csnc=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/IGBXQB66RP7UXCSI2VZL34CMA4.jpg",
+          "width": 506,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-04T13:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Boston Globe",
+        "domain": "bostonglobe.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-05-artificial-intelligence-helps-identify-people-at-risk-for-mental-illness.md",
       "title": "Artificial intelligence helps identify people at risk for mental illness",
       "excerpt": "NBC’s Jake Ward reports on how doctors at Cincinnati Children’s Hospital are using artificial intelligence to identify the risk of anxiety, depression and suicide early in kids and teens.",
@@ -1082,92 +1168,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-04-deepmind-boss-says-human-level-ai-is-just-a-few-years-away.md",
-      "title": "DeepMind boss says human-level AI is just a few years away",
-      "excerpt": "The head of Google’s artificial intelligence division DeepMind has predicted that human-level AI may be just a few years away. The forecast from Demis Hassabis puts the date for the arrival of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.aol.com/deepmind-boss-says-human-level-115422614.html",
-      "originalUrl": "https://www.aol.com/deepmind-boss-says-human-level-115422614.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.zenfs.com/en/aol_the_independent_us_877/383722a72aee24b2f4a7b7a17d5aeb64",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-04T05:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AOL",
-        "domain": "aol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-04-facial-recognition-nyc-bills-would-regulate-controversial-software.md",
-      "title": "Facial recognition: NYC bills would regulate controversial software",
-      "excerpt": "One council member says they understand businesses such as bodegas and grocery stores need facial recognition for security, but how are they going to use it and not abuse it?",
-      "sourceUrl": null,
-      "webUrl": "https://www.fox5ny.com/news/facial-recognition-software-nyc-bills-introduced",
-      "originalUrl": "https://www.fox5ny.com/news/facial-recognition-software-nyc-bills-introduced",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.foxtv.com/static.fox5ny.com/www.fox5ny.com/content/uploads/2023/05/932/470/LS10-BANNING-FACIAL-RECOGNITION-SOFTWARE_00.00.11.58.jpg?ve=1&tl=1",
-          "width": 932,
-          "height": 470,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fox5ny.com/news/facial-recognition-software-nyc-bills-introduced.amp",
-      "cdnAmpWebUrl": "https://www-fox5ny-com.cdn.ampproject.org/c/s/www.fox5ny.com/news/facial-recognition-software-nyc-bills-introduced.amp",
-      "publishedDateTime": "2023-05-04T05:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox 5 NY",
-        "domain": "fox5ny.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

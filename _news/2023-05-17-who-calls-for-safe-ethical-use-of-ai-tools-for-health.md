@@ -35,22 +35,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "New paper introduces ethics framework for use of generative AI in health care"
-    excerpt: "A new paper published by leading Australian AI ethicist Stefan Harrer Ph.D. proposes for the first time a comprehensive ethical framework for the responsible use, design, and governance of Generative AI applications in health care and medicine."
-    publishedDateTime: 2023-05-16T13:49:00Z
-    webUrl: "https://medicalxpress.com/news/2023-05-paper-ethics-framework-generative-ai.html"
-    ampWebUrl: "https://medicalxpress.com/news/2023-05-paper-ethics-framework-generative-ai.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-05-paper-ethics-framework-generative-ai.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 71
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/ai-health.jpg"
-        width: 1920
-        height: 1633
-        isCached: true
   - title: "CDW Executive SummIT: Diving Into the Potential of Artificial Intelligence in Healthcare"
     excerpt: "AI is a hot topic right now, and SummIT attendees expressed both excitement and caution over potential use cases."
     publishedDateTime: 2023-05-18T17:01:00Z

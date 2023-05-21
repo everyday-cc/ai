@@ -19,24 +19,35 @@ topics:
   - AI
 
 related:
-  - title: "AI Demand Triggers GPU Shortage and Unusual Big Tech Alliances"
-    excerpt: "When our analyst team has a stock tip, it can pay to listen. After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.* They just revealed what ..."
-    publishedDateTime: 2023-05-16T13:32:00Z
-    webUrl: "https://www.nasdaq.com/articles/ai-demand-triggers-gpu-shortage-and-unusual-big-tech-alliances?time=1684233000"
+  - title: "Weights & Biases and Lambda Announce Strategic Partnership to Accelerate Deep Learning and AI"
+    excerpt: "Weights & Biases and Lambda today announced a strategic partnership to bring the infrastructure and MLOps tools required for AI and deep learning workloads to enterprises"
+    publishedDateTime: 2023-05-17T16:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/05/n32449135/weights-biases-and-lambda-announce-strategic-partnership-to-accelerate-deep-learning-and-ai"
+    ampWebUrl: "https://www.benzinga.com/amp/content/32449135"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32449135"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 64
-  - title: "Vultr and Domino Data Lab Partner to Reduce AI Time-to-Value Amid Surging GPU Demand"
-    excerpt: "Vultr, the world’s largest privately-held cloud computing company, and Domino Data Lab, provider of the leading"
-    publishedDateTime: 2023-05-19T15:07:00Z
-    webUrl: "https://www.datanami.com/this-just-in/vultr-and-domino-data-lab-partner-to-reduce-ai-time-to-value-amid-surging-gpu-demand/"
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 43
+  - title: "Weights & Biases and Lambda Announce Strategic Partnership to Accelerate Deep Learning and AI"
+    excerpt: "Weights & Biases and Lambda have announced a strategic partnership to bring the infrastructure and MLOps tools required"
+    publishedDateTime: 2023-05-18T11:52:00Z
+    webUrl: "https://www.datanami.com/this-just-in/weights-biases-and-lambda-announce-strategic-partnership-to-accelerate-deep-learning-and-ai/"
     type: article
     provider:
       name: datanami.com
       domain: datanami.com
-    quality: 27
+    quality: 25
+  - title: "BeeKeeperAI Announces Commercial Release of its Patented, Zero-Trust Collaboration Platform to Accelerate Healthcare AI Development on Protected"
+    excerpt: "BeeKeeperAI, Inc., a pioneer in zero-trust, real-world data collaboration software, today announced the general availability of EscrowAI TM, a patent-protected i zero-trust collaboration platform. EscrowAI leverages Azure confidential computing to resolve the challenges of data sovereignty,"
+    publishedDateTime: 2023-05-17T15:48:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/05/17/9816347.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "vJuw3Vj05aTrhEsWBhmJCxjoQ5gXuJiN3jYRPnpc+EffQgo+E0Fl7PVvH79D7u3BWjERZBHhkHdZNVatuOF3c9Det9jAxHHog6whMJSbn9rOqps1FBVBAqU5mZF9mw17mw6ZMKlWn/U6e3IeEQQsdoZT5RiLrXwOoOK1w3TWBbbooDAvSHYBRkKEfP9bYHtDUWGL4A9ebW1VwliSsg+2losgSq0+1Km5b+ec6w02y/cHs1bLvRQWCml4119jRgrO6q91NsQ5YKUdsiKC5uSQkDpPvmlnVAMoe60HaPnrmvg3U5Gdzb6KMrmMV6Q1TPbvm1CMQ9BPLoaxWNXkskiNAGioFtQoMNJI9Ef3ims73vY=;TzViPBxFC+sgsHtp2Jv66g=="
 ---

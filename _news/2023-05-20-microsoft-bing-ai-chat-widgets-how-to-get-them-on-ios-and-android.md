@@ -107,34 +107,6 @@ related:
         width: 480
         height: 610
         isCached: true
-  - title: "Microsoft's Azure OpenAI can collect, analyze healthcare data"
-    excerpt: "Microsoft's Azure OpenAI platform is being used to collect and analyze healthcare data. For instance, Opus 5K, a health IT software company based in Australia, deployed the technology for its MARS (Measurement, Analysis and Reporting System) platform."
-    publishedDateTime: 2023-05-16T14:59:00Z
-    webUrl: "https://www.beckershospitalreview.com/disruptors/microsofts-azure-openai-can-collect-analyze-healthcare-data.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 86
-    images:
-      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "ServiceNow Joins AI Wave in Partnership With Microsoft, OpenAI"
-    excerpt: "ServiceNow Inc. unveiled new generative artificial intelligence features for its business applications in a partnership with Microsoft Corp., becoming the latest company to try to meet the rising demand for the emerging technology."
-    publishedDateTime: 2023-05-16T14:59:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-05-16/servicenow-joins-ai-wave-in-partnership-with-microsoft-openai"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 84
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i7H2hT69hYGQ/v1/1200x800.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Microsoft Rolls out Bing AI Chat Widget on Mobiles & Other Cool Features"
     excerpt: "In addition to existing features, Microsoft Bing has received new ones, including a Bing AI widget for mobiles. Check out the details."
     publishedDateTime: 2023-05-17T06:35:00Z
@@ -323,15 +295,6 @@ related:
         width: 800
         height: 500
         isCached: true
-  - title: "SAP and Microsoft to deepen collaboration on generative AI in recruiting"
-    excerpt: "SAP will deepen collaboration with Microsoft on joint generative AI projects. (REUTERS) SAP will deepen collaboration with Microsoft on joint generative AI projects in the field of personnel recruiting,"
-    publishedDateTime: 2023-05-16T13:47:00Z
-    webUrl: "https://tech.hindustantimes.com/tech/news/sap-and-microsoft-to-deepen-collaboration-on-generative-ai-in-recruiting-71684169729680.html"
-    type: article
-    provider:
-      name: Hindustan Times Tech
-      domain: hindustantimes.com
-    quality: 33
   - title: "Microsoft Translator app get support for these three Indian languages"
     excerpt: "Microsoft has announced the addition of three new Indian languages in Micorosft Translator. The company has revealed that it has added Konkani, Maithi"
     publishedDateTime: 2023-05-18T12:18:00Z

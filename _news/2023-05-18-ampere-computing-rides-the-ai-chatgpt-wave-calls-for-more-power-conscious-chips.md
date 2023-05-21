@@ -196,20 +196,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "ChatGPT’s Sam Altman Calls on Congress to Adopt Safety Standards for AI Systems"
-    excerpt: "Congress is looking to impose artificial-intelligence regulations, if it can reach a consensus."
-    publishedDateTime: 2023-05-16T14:05:00Z
-    webUrl: "https://www.wsj.com/articles/chatgpts-sam-altman-faces-senate-panel-examining-artificial-intelligence-4bb6942a?mod=hp_lead_pos3"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 63
-    images:
-      - url: "https://images.wsj.net/im-782620/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "ChatGPT as 'educative artificial intelligence'"
     excerpt: "With the advent of artificial intelligence (AI), several aspects of our lives have become more efficient and easier to navigate. One of the latest AI-based technologies is a user-friendly chatbot—ChatGPT,"
     publishedDateTime: 2023-05-17T19:36:00Z
@@ -321,22 +307,6 @@ related:
       - url: "https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2023/05/932/470/Chat-GPT.jpg?ve=1&tl=1"
         width: 932
         height: 470
-        isCached: true
-  - title: "CEO of OpenAI and creator of ChatGPT says ‘regulation of AI is essential’"
-    excerpt: "Sam Altman says before Senate judiciary committee that he supports guardrails for technology to minimize harms"
-    publishedDateTime: 2023-05-16T14:48:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/may/16/ceo-openai-chatgpt-ai-tech-regulations"
-    ampWebUrl: "https://amp.theguardian.com/technology/2023/may/16/ceo-openai-chatgpt-ai-tech-regulations"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/may/16/ceo-openai-chatgpt-ai-tech-regulations"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 56
-    images:
-      - url: "https://i.guim.co.uk/img/media/bd83bf5b1e8f0123175a43a4ba20d501c27a30a6/0_166_3936_2362/master/3936.jpg?width=620&quality=85&auto=format&fit=max&s=bb8b305d10e17ef960294c2fd08d1456"
-        width: 620
-        height: 372
         isCached: true
   - title: "BofA says AI is in a 'baby bubble' that echoes the dot-com era, and one move could easily blow up the investment frenzy ignited by ChatGPT"
     excerpt: "The Nasdaq is soaring this year as AI investing inspired by ChatGPT rages on. Bank of America says a Fed policy error could burst the bubble."
@@ -543,20 +513,6 @@ related:
       - url: "https://neurosciencenews.com/files/2023/05/chatgpt-radiology-exam-neurosinces.jpg"
         width: 1200
         height: 800
-        isCached: true
-  - title: "KPMG makes generative AI available to partners and staff"
-    excerpt: "KPMG announced a new initiative to deploy a series of generative AI partnerships and investments to reinvent how the firm operates."
-    publishedDateTime: 2023-05-16T14:05:00Z
-    webUrl: "https://www.accountingtoday.com/news/kpmg-makes-generative-ai-available-to-partners-and-staff"
-    type: article
-    provider:
-      name: Accounting Today
-      domain: accountingtoday.com
-    quality: 39
-    images:
-      - url: "https://arizent.brightspotcdn.com/dims4/default/4cdc59a/2147483647/strip/true/crop/2000x1050+0+30/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F6b%2F8f%2F72919e654bc18c3900fa3e4087d1%2F375176087.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "AI isn’t new to the supply chain, but ChatGPT is expanding its role"
     excerpt: "ChatGPT and other advanced AI tools are looking to find homes in supply chain software and in some cases already have."
@@ -796,20 +752,6 @@ related:
       name: EurekAlert!
       domain: eurekalert.org
     quality: 27
-  - title: "ChatGPT's chief to testify before Congress as concerns grow about artificial intelligence risks"
-    excerpt: "What started out as a panic among educators about ChatGPT's use to cheat on homework assignments has expanded to broader concerns about the ability of the latest crop of “generative AI” tools to mislead people,"
-    publishedDateTime: 2023-05-16T15:01:00Z
-    webUrl: "https://www.chron.com/business/article/chatgpt-s-chief-to-testify-before-congress-as-18101675.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 25
-    images:
-      - url: "https://s.hdnux.com/photos/01/32/71/46/23828880/3/rawImage.jpg"
-        width: 2048
-        height: 1365
-        isCached: true
   - title: "Will Artificial Intelligence really take your job? Level up with these skills to beat ChatGPT, AI"
     excerpt: "A collection of the most-viewed Moneycontrol videos."
     publishedDateTime: 2023-05-17T12:46:00Z
@@ -836,15 +778,6 @@ related:
     provider:
       name: Las Vegas Sun
       domain: lasvegassun.com
-    quality: 17
-  - title: "Senate panel begins AI examination; ChatGPT CEO Sam Altman testifies"
-    excerpt: "\"It is essential that powerful AI is developed with democratic values in mind, and this means that US leadership is critical,\" said ChatGPT CEO Sam Altman."
-    publishedDateTime: 2023-05-16T14:42:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2023/05/16/mr-altman-goes-to-washington.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
     quality: 17
   - title: "ChatGPT chief calls for AI rules"
     excerpt: "The head of the artificial intelligence company that makes ChatGPT told Congress on Tuesday that government intervention will be critical to mitigating the risks of increasingly powerful AI systems."

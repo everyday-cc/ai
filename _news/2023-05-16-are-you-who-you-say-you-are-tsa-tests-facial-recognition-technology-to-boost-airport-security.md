@@ -1,17 +1,17 @@
 ---
 category: news
 title: "Are you who you say you are? TSA tests facial recognition technology to boost airport security"
-excerpt: "TSA says the pilot is voluntary and accurate, but critics have raised concerns about questions of bias in facial recognition technology and possible repercussions for passengers who want to opt ..."
-publishedDateTime: 2023-05-16T10:28:00Z
-originalUrl: "https://www.wlwt.com/article/tsa-tests-facial-recognition-tech-airport-security/43888744"
-webUrl: "https://www.wlwt.com/article/tsa-tests-facial-recognition-tech-airport-security/43888744"
-ampWebUrl: "https://www.wlwt.com/amp/article/tsa-tests-facial-recognition-tech-airport-security/43888744"
-cdnAmpWebUrl: "https://www-wlwt-com.cdn.ampproject.org/c/s/www.wlwt.com/amp/article/tsa-tests-facial-recognition-tech-airport-security/43888744"
+excerpt: "The Transportation Security Administration has started using facial recognition technology at a number of airports across the country."
+publishedDateTime: 2023-05-15T21:49:00Z
+originalUrl: "https://www.boston.com/travel/technology/2023/05/15/are-you-who-you-say-you-are-tsa-tests-facial-recognition-technology-to-boost-airport-security/"
+webUrl: "https://www.boston.com/travel/technology/2023/05/15/are-you-who-you-say-you-are-tsa-tests-facial-recognition-technology-to-boost-airport-security/"
+ampWebUrl: "https://www.boston.com/travel/technology/2023/05/15/are-you-who-you-say-you-are-tsa-tests-facial-recognition-technology-to-boost-airport-security/?amp=1"
+cdnAmpWebUrl: "https://www-boston-com.cdn.ampproject.org/c/s/www.boston.com/travel/technology/2023/05/15/are-you-who-you-say-you-are-tsa-tests-facial-recognition-technology-to-boost-airport-security/?amp=1"
 type: article
 
 provider:
-  name: WLWT
-  domain: wlwt.com
+  name: Boston.com
+  domain: boston.com
 
 topics:
   - Computer Vision
@@ -19,11 +19,11 @@ topics:
   - AI in Security
 
 images:
-  - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/ap26461ed234b522.jpg?crop=1.00xw:0.847xh;0,0.0216xh&resize=1200:*"
-    width: 1024
-    height: 579
+  - url: "https://www.boston.com/wp-content/uploads/2023/05/Facial_Recognition_Airports_79172-6461bb4fb69eb-scaled.jpg"
+    width: 2560
+    height: 1708
     isCached: true
 
-secured: "xkJVNDBljyELT+4V++11h7boBLtCjuTiv9qsqOPnYh707xDxrrp0KrbXvE1B2un3d3kkmhmxthacK14sUrWzXFh2qC90EPZhcyhLDDRZyIR6YvWVzwlWLs/WS7Kfxxc11hCKBiR42Gjt0h5WtKXq9JXit82JIXBqiO4//uJfuwoO1Ue0W61oUxxmP3cPqR0Gj+YsQyDkgsATGPJkIhenIDMAHp1aoB/V2rF7rC/7vgVMKhhx5JJ4IB6iSieEDCJMTXUpjF7kMi4RZ/W3fJ50hWxYS4UwMNg1wDlQK9SqLEzFszh0zWScVFWJOYxiK8V9KEt3wFxQAY5O3BeKHijwKmO84OjZGoGd2pytBdn0fgo=;1U33LBb+vev0zpR4iqkd+A=="
+secured: "4+zazti1K00MER59ZSlS3Qkukc0d5EytvmKtxm33zziljU35NamY5fOsUay9x5jUFW5WjPg2iTupTD2CEI+lIE0NcI3kFsTPgyOOvk+d5sdgfrzHCT0kphr9xo3oVLr139s4zyLPaq1ChbnZ03ewBSUyQr/PEb8l0rCZw9pcAyayVn4fbj4vf1sA4J1QYEkeiEw/AlXWdzOl2F9Z2gbWm9WtPT/20O1SFDqPDFVRoHDWn6QWREG6SBt93cKtUsxHXkRqqYPDx5kCrbM8qQY4TKBDp7+47K1rvyWB4Gve3G+/C83NIk/7/XZOEoUFA8+Slg8JaRCYtCdD2lYxM1XjZsS/6VqbMnKd8p3jwSWvAjY=;PrPexC+zT25RoCveME1E4w=="
 ---
 

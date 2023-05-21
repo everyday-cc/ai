@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "How Artificial Intelligence Is Used in Manufacturing"
-    excerpt: "neural networks; and robotics, which may be the most commonly used AI application in manufacturing. Altogether, artificial intelligence capabilities allow manufacturers to redeploy human labor to jobs that machines can't yet do and to make production more ..."
-    publishedDateTime: 2023-05-16T13:46:00Z
-    webUrl: "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/ai-in-manufacturing/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 71
-    images:
-      - url: "https://m.foolcdn.com/media/dubs/images/Robot-AI-image-Getty-Images.width-600.jpg"
-        width: 600
-        height: 450
-        isCached: true
   - title: "GIGABYTE to Introduce Leading-Edge AI Solutions and Computers at COMPUTEX 2023, Unveiling “Future of COMPUTING”"
     excerpt: "Take the Lead in the AI Era with GIGABYTE’s Trailblazing GPU/HPC Servers The emergence of ChatGPT and various generative AI applications are making huge waves of industry evolution, driving all-time demand for AI computing servers. At COMPUTEX ..."
     publishedDateTime: 2023-05-17T03:16:00Z

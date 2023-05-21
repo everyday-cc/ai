@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/nvidia-ceo-highlights-accelerated-computi
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/nvidia-ceo-highlights-accelerated-computing-and-ais-role-in-chip-manufacturing-at-itf-world-2023/amp/"
 type: article
 quality: 91
-heat: 131
+heat: 121
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://www.reuters.com/resizer/MSbbwGzXoN4m5_yDKbUTrwFQOMg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/2OUEX3PTTNP3DO72D3UQ4PPP7A.jpg"
         width: 1200
         height: 628
-        isCached: true
-  - title: "How Artificial Intelligence Is Used in Manufacturing"
-    excerpt: "neural networks; and robotics, which may be the most commonly used AI application in manufacturing. Altogether, artificial intelligence capabilities allow manufacturers to redeploy human labor to jobs that machines can't yet do and to make production more ..."
-    publishedDateTime: 2023-05-16T13:46:00Z
-    webUrl: "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/ai-in-manufacturing/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 71
-    images:
-      - url: "https://m.foolcdn.com/media/dubs/images/Robot-AI-image-Getty-Images.width-600.jpg"
-        width: 600
-        height: 450
         isCached: true
   - title: "NVIDIA, AMD, and Micron are in the Forefront in the Chip Sector Higher with AI"
     excerpt: "NVIDIA, AMD, and Micron are experiencing significant growth in the chip sector, driven by their emphasis on AI and targeting the Japanese market."

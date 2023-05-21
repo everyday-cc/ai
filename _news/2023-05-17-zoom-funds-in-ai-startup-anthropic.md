@@ -42,15 +42,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Zoom invests in AI startup Anthropic in latest effort to spruce up offerings"
-    excerpt: "May 16 (Reuters) - Zoom Video Communications Inc (ZM.O) said on Tuesday it has invested an undisclosed sum in Anthropic and will integrate the artificial intelligence start-up's technology into ..."
-    publishedDateTime: 2023-05-16T13:06:00Z
-    webUrl: "https://www.reuters.com/technology/zoom-invests-ai-startup-anthropic-latest-effort-spruce-up-offerings-2023-05-16/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 44
   - title: "Zoom Introduces Claude AI Integration"
     excerpt: "The new integration will launch for Zoom Contact Center first, but the plan is to roll it out to other services soon."
     publishedDateTime: 2023-05-17T20:36:00Z

@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Tesla’s “Full Self-Driving” sees pedestrian, chooses not to slow down"
-    excerpt: "But alarmingly, a video posted to Twitter over the weekend shows that although the Tesla system can see pedestrians crossing the road, a Tesla can choose not to stop or even slow down as it drives past."
-    publishedDateTime: 2023-05-16T14:33:00Z
-    webUrl: "https://arstechnica.com/cars/2023/05/teslas-full-self-driving-sees-pedestrian-chooses-not-to-slow-down/"
-    ampWebUrl: "https://arstechnica.com/cars/2023/05/teslas-full-self-driving-sees-pedestrian-chooses-not-to-slow-down/amp/"
-    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/cars/2023/05/teslas-full-self-driving-sees-pedestrian-chooses-not-to-slow-down/amp/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 89
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/05/FSD-screenshot-800x452.jpg"
-        width: 800
-        height: 452
-        isCached: true
   - title: "Self-driving Tesla doesn’t yield for pedestrian. Tesla fan cheers."
     excerpt: "A seven-second self-driving Tesla video posted to Twitter this past weekend shows a likely illegal driving event in San Francisco that, unfortunately, happens all the time in ordinary situations. It’s the poster’s reaction that has left many online unsettled."
     publishedDateTime: 2023-05-17T17:53:00Z

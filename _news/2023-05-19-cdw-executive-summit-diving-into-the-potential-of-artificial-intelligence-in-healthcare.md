@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "New paper introduces ethics framework for use of generative AI in health care"
-    excerpt: "A new paper published by leading Australian AI ethicist Stefan Harrer Ph.D. proposes for the first time a comprehensive ethical framework for the responsible use, design, and governance of Generative AI applications in health care and medicine."
-    publishedDateTime: 2023-05-16T13:49:00Z
-    webUrl: "https://medicalxpress.com/news/2023-05-paper-ethics-framework-generative-ai.html"
-    ampWebUrl: "https://medicalxpress.com/news/2023-05-paper-ethics-framework-generative-ai.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-05-paper-ethics-framework-generative-ai.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 71
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/ai-health.jpg"
-        width: 1920
-        height: 1633
-        isCached: true
   - title: "How ChatGPT and artificial Intelligence are impacting education"
     excerpt: "From finance to health care to policing, artificial intelligence is becoming more commonplace by the day. It’s also becoming harder to avoid in our schools. ChatGPT is a chatbot that generates startlingly human-like text in response to brief prompts."
     publishedDateTime: 2023-05-17T15:30:00Z

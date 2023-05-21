@@ -7,8 +7,8 @@ originalUrl: "https://mashable.com/article/tesla-fsd-update-not-stopping-for-ped
 webUrl: "https://mashable.com/article/tesla-fsd-update-not-stopping-for-pedestrian"
 type: article
 quality: 69
-heat: -1
-published: false
+heat: 79
+published: true
 
 provider:
   name: Mashable
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla’s “Full Self-Driving” sees pedestrian, chooses not to slow down"
-    excerpt: "But alarmingly, a video posted to Twitter over the weekend shows that although the Tesla system can see pedestrians crossing the road, a Tesla can choose not to stop or even slow down as it drives past."
-    publishedDateTime: 2023-05-16T14:33:00Z
-    webUrl: "https://arstechnica.com/cars/2023/05/teslas-full-self-driving-sees-pedestrian-chooses-not-to-slow-down/"
-    ampWebUrl: "https://arstechnica.com/cars/2023/05/teslas-full-self-driving-sees-pedestrian-chooses-not-to-slow-down/amp/"
-    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/cars/2023/05/teslas-full-self-driving-sees-pedestrian-chooses-not-to-slow-down/amp/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 89
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/05/FSD-screenshot-800x452.jpg"
-        width: 800
-        height: 452
-        isCached: true
   - title: "Elon Musk says Tesla’s self-driving tech is better than humans"
     excerpt: "“It will actually get to the point where it is not merely safer than a person but actually way smoother than manual driving,” he says. It’s not the first time Musk has predicted the dawn of self-driving cars. In 2019 he said people would be able to ..."
     publishedDateTime: 2023-05-17T23:15:00Z

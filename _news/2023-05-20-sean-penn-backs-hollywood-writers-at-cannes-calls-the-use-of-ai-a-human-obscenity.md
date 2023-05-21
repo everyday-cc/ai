@@ -7,7 +7,7 @@ originalUrl: "https://www.usatoday.com/story/entertainment/celebrities/2023/05/1
 webUrl: "https://www.usatoday.com/story/entertainment/celebrities/2023/05/19/sean-penn-hollywood-writers-strike-ai-cannes-film-festival/70236752007/"
 type: article
 quality: 30
-heat: -1
+heat: 30
 published: false
 
 provider:
@@ -24,20 +24,26 @@ images:
     isCached: true
 
 related:
-  - title: "AI has striking writers freaked out. Can Hollywood avoid nightmare scenarios?"
-    excerpt: "The AI nightmare scenario has loomed over the ongoing writers’ strike, producing some of the cleverest picket signs (“Wrote ChatGPT this”). There’s some concern among scribes that the technologies are just impressive enough to fool executives into thinking they’re more powerful than they actually are."
-    publishedDateTime: 2023-05-16T14:00:00Z
-    webUrl: "https://www.latimes.com/entertainment-arts/business/newsletter/2023-05-16/writers-strike-ai-has-writers-freaked-out-could-the-technology-work-for-studios-and-artists-the-wide-shot"
+  - title: "Sean Penn, backing WGA strike, says AI dispute is ‘a human obscenity’ at Cannes Film Festival"
+    excerpt: "Sean Penn has strongly backed the current Hollywood screenwriters strike while speaking at the Cannes Film Festival on Friday, saying the dispute over artificial intelligence is “a human obscenity.”."
+    publishedDateTime: 2023-05-19T14:53:00Z
+    webUrl: "https://www.seattletimes.com/business/sean-penn-backing-wga-strike-says-ai-dispute-is-a-human-obscenity-at-cannes-film-festival/"
+    ampWebUrl: "https://www.seattletimes.com/business/sean-penn-backing-wga-strike-says-ai-dispute-is-a-human-obscenity-at-cannes-film-festival/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/sean-penn-backing-wga-strike-says-ai-dispute-is-a-human-obscenity-at-cannes-film-festival/?amp=1"
     type: article
     provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 36
-    images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/dbed645/2147483647/strip/true/crop/1080x567+0+129/resize/1200x630!/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fb8%2F01%2Fb9b2d99944fd85558531df61b7f1%2F230516-wideshot-ainightmare.jpg"
-        width: 1200
-        height: 630
-        isCached: true
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 26
+  - title: "Sean Penn says failing to resist rise in AI screenwriting is a ‘human obscenity’"
+    excerpt: "At Cannes film festival, the actor expressed his solidarity with the striking Writers Guild of America"
+    publishedDateTime: 2023-05-19T11:23:00Z
+    webUrl: "https://www.theguardian.com/film/2023/may/19/sean-penn-ai-is-a-human-obscenity-cannes-film-festival?ref=upstract.com"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 12
 
 secured: "pdJmrcCou36SZBw6Rv6FoznADVe5RGjDeRwJczXc+y9y+sv+OreQRCChaHNHMBYnmf2lO2GeMUXwYf/XE2Esr+EqhTdwf4ZeXxMG8b7moNMUNEO7AxQsZrZdBNsTKyfWIjVtJqK8tPNzXW4dsYYrnY/HdTrX22m3qp7opYMlsn8KNEzzGmlz8I1dpEjeGvNIbxzBkSMB6MMEW9NYN6pUSLnmWMadLmt7jfnmjzeV+d+w7nRvlX3vhG+LdHSdjhjIC5fyqLiMLcdUKxkFpSiQJkqv0Z3VotCWR/rMatscGQ/a7OfZYCuuzpjyfSWS0oSumfR/hzQOqaTZr24K6gJzlWiAL/ZLG2FAp0G2vdRYsMnFX9OJJewpi0o/01O90F/zfXQteDBuDFzDp8CllcH8iqUJ72gblElvywXtZ4jQxbvQBwMFx7jmheRf6tDONvW/AuyUv0y+UILpD01D66mrddOgR4QRGxCnXQyuq1e7xilbbXolxfNkSCH4mF0gO36+OaeAHUfmSfekUU3vn09hSw==;QLIAGCjXpdH2yIVMZ4kPVw=="
 ---

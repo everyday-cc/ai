@@ -25,20 +25,42 @@ images:
     isCached: true
 
 related:
-  - title: "With new Phoenix robot, Sanctuary AI looks to usher in ‘labor as a service’"
-    excerpt: "BOT or NOT? This special series explores the evolving relationship between humans and machines, examining the ways that robots, artificial intelligence and automation are impacting our work and lives."
-    publishedDateTime: 2023-05-16T13:10:00Z
-    webUrl: "https://www.geekwire.com/2023/with-new-phoenix-robot-sanctuary-ai-looks-to-usher-in-a-new-era-of-labor-as-a-service/"
+  - title: "Sanctuary AI unveiles general purpose humanoid robot"
+    excerpt: "Sanctuary AI announces the launch of its first human-scale, bipedal robot called Pheonix, powered by Carbon AI."
+    publishedDateTime: 2023-05-16T17:47:00Z
+    webUrl: "https://www.therobotreport.com/sanctuary-ai-unveiles-general-purpose-humanoid-robot/"
     type: article
     provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 82
-    images:
-      - url: "https://cdn.geekwire.com/wp-content/uploads/2023/05/with-new-phoenix-robot-sanctuary.jpg"
-        width: 1280
-        height: 720
-        isCached: true
+      name: The Robot Report
+      domain: therobotreport.com
+    quality: 64
+  - title: "Sanctuary AI unveils general purpose humanoid robot"
+    excerpt: "Sanctuary AI announces the launch of its first human-scale, bipedal robot called Pheonix, powered by Carbon AI."
+    publishedDateTime: 2023-05-16T17:56:00Z
+    webUrl: "https://www.therobotreport.com/sanctuary-ai-unveils-general-purpose-humanoid-robot/"
+    type: article
+    provider:
+      name: The Robot Report
+      domain: therobotreport.com
+    quality: 64
+  - title: "Sanctuary AI Unveils Phoenix - A Humanoid General-Purpose Robot Designed for Work"
+    excerpt: "Sanctuary AI, a company on a mission to create the world's-first human-like intelligence in general-purpose robots, announced a major step forward with the unveiling of its sixth-generation general-purpose robot named Phoenix."
+    publishedDateTime: 2023-05-16T19:35:00Z
+    webUrl: "https://www.bctechnology.com/news/2023/5/16/Sanctuary-AI-Unveils-Phoenix---A-Humanoid-General-Purpose-Robot-Designed-for-Work.cfm"
+    type: article
+    provider:
+      name: T-Net
+      domain: bctechnology.com
+    quality: 29
+  - title: "Meet Phoenix: The new humanoid robot built for general-purpose tasks"
+    excerpt: "While companies focus on specific-use robots, Sanctuary believes that the future will have general-purpose robots that can do multiple tasks."
+    publishedDateTime: 2023-05-17T12:52:00Z
+    webUrl: "https://interestingengineering.com/innovation/phoenix-general-purpose-task-robot"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 19
 
 secured: "hrVe+dQpngMVWnDZBph4lBxW/x4jH8QxcVgU5Xuy11PFWeYjK7SLF6HX1SgI9bs0E6gWTZCEKJNXVLpdb5G9TfvNn1e+LW4+IoiKF3mSRN0WyRglUcAxOFsjmry1ymZSf+Zjh3dgjjwW0I/66blDeTAQNxv1vYnzkPaOKpSuLz53cTmjLBeEUxDB1jb52zq2hGYlCLLndnOpUn88y4E+KPTuximIiwzCDvGNKHZv59/U65mF40EZnEhh+FR7rYZ3fJ3XLP8lckNQ8GyORni72nryd2J+Bfv4ktW/WFTaa/QFpxK4/8qG+g5COl/ympk1YqqgRlDAF1ehUZfuuNwnhLYLsBx6yKgu/UeQU/Yj+HhWijQnFCOEb2uQQ6l3+WpR15ugqZulg2MQQLCTQwBcSfrCR0PGLtCbc2pfLn23i/lWr8AR6Zv4GigJd+rxfliBNZVcEM0lh94ETR8GtXxfasbxAJ186PHOkDs/nrGMPTyYZhEGkxrXnNKV4zqt44st2zkJ3dtKVC1QHGFwtKW/Ig==;muTal0d73kXAbwYnxthFhw=="
 ---

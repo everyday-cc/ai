@@ -2,6 +2,57 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-05-16-navigating-the-ai-revolution-how-to-successfully-implement-ai-in-business.md",
+      "title": "Navigating The AI Revolution: How To Successfully Implement AI In Business",
+      "excerpt": "The next step is to test the new processes powered by AI, make the final tweaks and eventually establish service-level agreements (SLAs) for their use. 1. Start small. Begin by implementing AI in a specific area or department and gradually expand to other ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/theyec/2023/05/16/navigating-the-ai-revolution-how-to-successfully-implement-ai-in-business/",
+      "originalUrl": "https://www.forbes.com/sites/theyec/2023/05/16/navigating-the-ai-revolution-how-to-successfully-implement-ai-in-business/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/646253945a385db669dd3ff9/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/theyec/2023/05/16/navigating-the-ai-revolution-how-to-successfully-implement-ai-in-business/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2023/05/16/navigating-the-ai-revolution-how-to-successfully-implement-ai-in-business/amp/",
+      "publishedDateTime": "2023-05-16T04:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-16-ai-wont-separate-you-from-your-competitors-but-your-content-strategy-could.md",
       "title": "AI Won’t Separate You From Your Competitors, But Your Content Strategy Could",
       "excerpt": "Artificial intelligence is a tool and is only as good as the content you feed it, the people who manage it and the structures you have in place to support it.",
@@ -257,50 +308,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-16-are-you-who-you-say-you-are-tsa-tests-facial-recognition-technology-to-boost-airport-security.md",
-      "title": "Are you who you say you are? TSA tests facial recognition technology to boost airport security",
-      "excerpt": "TSA says the pilot is voluntary and accurate, but critics have raised concerns about questions of bias in facial recognition technology and possible repercussions for passengers who want to opt ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wlwt.com/article/tsa-tests-facial-recognition-tech-airport-security/43888744",
-      "originalUrl": "https://www.wlwt.com/article/tsa-tests-facial-recognition-tech-airport-security/43888744",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/ap26461ed234b522.jpg?crop=1.00xw:0.847xh;0,0.0216xh&resize=1200:*",
-          "width": 1024,
-          "height": 579,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wlwt.com/amp/article/tsa-tests-facial-recognition-tech-airport-security/43888744",
-      "cdnAmpWebUrl": "https://www-wlwt-com.cdn.ampproject.org/c/s/www.wlwt.com/amp/article/tsa-tests-facial-recognition-tech-airport-security/43888744",
-      "publishedDateTime": "2023-05-16T03:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WLWT",
-        "domain": "wlwt.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Security"
       ]
     },
     {
@@ -1185,21 +1192,21 @@
       ]
     },
     {
-      "path": "_news/2023-05-16-fmr-google-ceo-says-no-one-in-government-can-get-ai-regulation-right.md",
-      "title": "Fmr. Google CEO says no one in government can get AI regulation 'right'",
-      "excerpt": "OpenAI CEO Sam Altman is slated to testify before Congress as lawmakers seek to determine how to regulate the rapidly evolving technology. On Meet the Press Reports, former Google CEO Eric Schmidt says there's \"no one in the government\" who can get regulation right.",
+      "path": "_news/2023-05-16-are-you-who-you-say-you-are-tsa-tests-facial-recognition-technology-to-boost-airport-security.md",
+      "title": "Are you who you say you are? TSA tests facial recognition technology to boost airport security",
+      "excerpt": "The Transportation Security Administration has started using facial recognition technology at a number of airports across the country.",
       "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/meet-the-press/video/fmr-google-ceo-says-no-one-in-government-can-get-ai-regulation-right-174442053869",
-      "originalUrl": "https://www.nbcnews.com/meet-the-press/video/fmr-google-ceo-says-no-one-in-government-can-get-ai-regulation-right-174442053869",
+      "webUrl": "https://www.boston.com/travel/technology/2023/05/15/are-you-who-you-say-you-are-tsa-tests-facial-recognition-technology-to-boost-airport-security/",
+      "originalUrl": "https://www.boston.com/travel/technology/2023/05/15/are-you-who-you-say-you-are-tsa-tests-facial-recognition-technology-to-boost-airport-security/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_05/1684184943076_now_mtp_clip_reports_230515_1920x1080-hqq020.jpg",
-          "width": 1920,
-          "height": 1080,
+          "url": "https://www.boston.com/wp-content/uploads/2023/05/Facial_Recognition_Airports_79172-6461bb4fb69eb-scaled.jpg",
+          "width": 2560,
+          "height": 1708,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1207,13 +1214,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo174442053869",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo174442053869",
-      "publishedDateTime": "2023-05-15T14:13:00-07:00",
+      "ampWebUrl": "https://www.boston.com/travel/technology/2023/05/15/are-you-who-you-say-you-are-tsa-tests-facial-recognition-technology-to-boost-airport-security/?amp=1",
+      "cdnAmpWebUrl": "https://www-boston-com.cdn.ampproject.org/c/s/www.boston.com/travel/technology/2023/05/15/are-you-who-you-say-you-are-tsa-tests-facial-recognition-technology-to-boost-airport-security/?amp=1",
+      "publishedDateTime": "2023-05-15T14:49:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
+        "name": "Boston.com",
+        "domain": "boston.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1223,7 +1230,9 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "Computer Vision",
+        "AI",
+        "AI in Security"
       ]
     }
   ],

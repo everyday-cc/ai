@@ -9,7 +9,7 @@ ampWebUrl: "https://www.seattletimes.com/business/sean-penn-backing-wga-strike-s
 cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/sean-penn-backing-wga-strike-says-ai-dispute-is-a-human-obscenity-at-cannes-film-festival/?amp=1"
 type: article
 quality: 26
-heat: 26
+heat: -1
 published: false
 
 provider:
@@ -20,6 +20,20 @@ topics:
   - AI
 
 related:
+  - title: "Sean Penn backs Hollywood writers at Cannes, calls the use of AI a 'human obscenity'"
+    excerpt: "\"It's difficult for so many writers and so many people industry-wide to not be able to work at this time,\" Penn said."
+    publishedDateTime: 2023-05-19T17:37:00Z
+    webUrl: "https://www.usatoday.com/story/entertainment/celebrities/2023/05/19/sean-penn-hollywood-writers-strike-ai-cannes-film-festival/70236752007/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 30
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2023/05/19/USAT/ce855947-6d56-4217-a360-94c5991bff52-GTY_1491489437.jpg?auto=webp&crop=4999,2812,x0,y254&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Sean Penn says failing to resist rise in AI screenwriting is a ‘human obscenity’"
     excerpt: "At Cannes film festival, the actor expressed his solidarity with the striking Writers Guild of America"
     publishedDateTime: 2023-05-19T11:23:00Z

@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 625
         isCached: true
-  - title: "Google's Universal Speech Model Performs Speech Recognition on Hundreds of Languages"
-    excerpt: "In this article, we share findings and insights about the Rust community and ecosystem and elaborate on the peculiarities and pitfalls of starting new projects with Rust or migrating to Rust from ..."
-    publishedDateTime: 2023-05-16T14:45:00Z
-    webUrl: "https://www.infoq.com/news/2023/05/universal-speech-model/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 32
-    images:
-      - url: "https://cdn.infoq.com/statics_s1_20230519120639/styles/static/images/logo/logo-big.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "c9FoGSELWFJei9TGV/Gt46yaz1hECn4ooGz4bUZHnsGVDHeE4HwR6v3D/66wB7gQ6iBaSSkj2JEDA9FTzrHjlOnR9Tx54o/Sc8mv2U9Cb4o9LuByKY5uvQuz7Uc9lZARurTFTCOVu/aVL4coOZhUsWJ/t0gsNEgMtQh2IFxGPHZxyrvpFkWyyir21AGk434lIkbhTIJstDH6n5kOxvxZne+Ufv49fj9zl77LjtTCGanlUbSM1+XBYmCooSfNfWWAxgDl+532mDJqUq0//qHXy+tfAj4p0VRI8z5MGb1s0zvRO3s55XRvzM+7dOfCJSW4olyQYLr0auKKlADh5+0rHQACQRmT1LB8NtJdf1TgoDCz+Ok7gD/CnlYwjaOAph/tPeRW3EpERFSKQi8OsvsGV49UfdaaCDQaL2fzBxEAU67+tUW0cer6sYSgCuGES5SW91P9X3R46GFR6sAOtWDLwCZktW9GoXK4Sca7ItJbXEKE7HHH1lnfrZGTZhBhvqycpkCFNBukcZFysCQ3Zxa3bg==;/MEUZbB+v5prr8jw9GDc9w=="
 ---

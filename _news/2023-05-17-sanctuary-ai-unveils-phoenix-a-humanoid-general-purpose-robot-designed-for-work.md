@@ -37,6 +37,20 @@ related:
       name: The Robot Report
       domain: therobotreport.com
     quality: 64
+  - title: "Sanctuary AI unveils a humanoid robot called Phoenix that’s ready to offer its ‘labor-as-a-service’"
+    excerpt: "Sanctuary AI unveils a humanoid robot called Phoenix that's ready to offer its 'labor-as-a-service' - SiliconANGLE"
+    publishedDateTime: 2023-05-17T00:50:00Z
+    webUrl: "https://siliconangle.com/2023/05/16/sanctuary-ai-unveils-humanoid-robot-called-phoenix-thats-ready-offer-labor-service/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 40
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/05/Sanctuary-AI-rolls-out-the-first-general-purpose-robot-e1684275899483.jpg"
+        width: 1000
+        height: 586
+        isCached: true
   - title: "Meet Phoenix: The new humanoid robot built for general-purpose tasks"
     excerpt: "While companies focus on specific-use robots, Sanctuary believes that the future will have general-purpose robots that can do multiple tasks."
     publishedDateTime: 2023-05-17T12:52:00Z

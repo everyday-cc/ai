@@ -43,34 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI-based Surgical Robots Market 2023 Thriving at a Tremendous Growth till 2030"
-    excerpt: "The AI-based Surgical Robots Market Report by Type (Services, Instrument and Accessories) and by Application (General Surgery, Urology, Orthopedic, Gynecology, Others) forecast is offered along with info related to key drivers,"
-    publishedDateTime: 2023-05-16T13:14:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-based-surgical-robots-market-2023-thriving-at-a-tremendous-growth-till-2030-2023-05-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 80
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence (AI) in BFSI Market: 2023 Huge B2B Opportunities 2030 by Key Players"
-    excerpt: "Artificial Intelligence (AI) in BFSI Market Report Overview 2023-2030: May 16, 2023 (The Expresswire) -- Overview of the for global ”Artificial"
-    publishedDateTime: 2023-05-16T13:19:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-bfsi-market-2023-huge-b2b-opportunities-2030-by-key-players-2023-05-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 71
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Facial Recognition Access Control Solutions Market Upto 2030"
     excerpt: "Research Reports has published a new report titled as \"Facial Recognition Access Control Solutions Market\" by End"
     publishedDateTime: 2023-05-17T02:33:00Z
