@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/danidiplacido/2023/05/18/is-tom-hanks-d
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danidiplacido/2023/05/18/is-tom-hanks-doomed-to-be-digitally-resurrected-by-ai/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:

@@ -7,7 +7,7 @@ originalUrl: "https://techcrunch.com/2023/05/16/self-driving-tech-predictions/"
 webUrl: "https://techcrunch.com/2023/05/16/self-driving-tech-predictions/"
 type: article
 quality: 48
-heat: -1
+heat: 48
 published: false
 
 provider:
@@ -29,34 +29,29 @@ images:
     isCached: true
 
 related:
-  - title: "Automotive Self-driving Chip Market Share, Size, Financial Summaries Analysis from 2023 to 2028"
-    excerpt: "Automotive Self-driving Chip report is a comprehensive analysis of the market, covering various components such"
-    publishedDateTime: 2023-05-17T03:59:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automotive-self-driving-chip-market-share-size-financial-summaries-analysis-from-2023-to-2028-2023-05-16"
+  - title: "How Will We Know When Self-Driving Cars Are Safe? When They Can Handle the World’s Worst Drivers"
+    excerpt: "Imagine learning to drive in a world that resembles the on-road insanity of “Mad Max” or “The Fast and the Furious.”"
+    publishedDateTime: 2023-05-20T04:06:00Z
+    webUrl: "https://www.wsj.com/articles/how-will-we-know-when-self-driving-cars-are-safe-when-they-can-handle-the-worlds-worst-drivers-fd35b907"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 59
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 41
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://images.wsj.net/im-785227/social"
+        width: 1280
+        height: 640
         isCached: true
-  - title: "Self Driving Bus Market Size 2023, Latest Trends, Growth Drivers, Industry Analysis by Top Companies and Forecast 2028"
-    excerpt: "Self Driving Bus Market Size, Share, and Covid-19 Impact Analysis, By Type (Advanced Metering Infrastructure and Auto"
-    publishedDateTime: 2023-05-17T05:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-bus-market-size-2023-latest-trends-growth-drivers-industry-analysis-by-top-companies-and-forecast-2028-2023-05-17"
+  - title: "9 in 10 drivers not keen on buying a self-driving car, survey claims"
+    excerpt: "Motoring experts asked 1000 car insurance customers whether they would be keen to buy a self-driving car and 87% said they wouldn’t."
+    publishedDateTime: 2023-05-18T13:21:00Z
+    webUrl: "https://www.techdigest.tv/2023/05/9-in-10-drivers-not-keen-on-buying-a-self-driving-car-survey-claims.html"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 45
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
+      name: Tech Digest
+      domain: techdigest.tv
+    quality: 19
 
 secured: "Anh3OUDzXFveEsWwh92mswO6ShdeANnYkrzlvvJCwS8WsVgY/cJWEnYF1TOVQcYC1wnL32LWZ2/MPbW5ZGrT+5yG7/QEjkb4WQ0xMD/065a2/dGWKkXhZDztce+R5eloeBuSpP2gNJLdDSJrmoeI7+mVeBmmrTWmgOYrhavZVkagEQCiX+jHGxC0gUTkgNiJ2Am0/kIENGm1sUmO9Q0LmW4KaJn4i9fIbBKJ5ONDUhgAcF2nBJteHzOedfnh6d76vpQIuJl/6koU4bUKH5/f2Mlp6k7CD3hOsfULLYpv4AyLiDVIV7tgwanF/D/Z/M+tUTvnxYTkKP69CTlSPLbBtWtB4Zwr1LuSc2/Ep75AN3gP8dhuN03oGKX1dc/Wj5q6PJrBg+vwm05rronHmgJ5pISg786IVz+PpRZAOZuxb9WNmJHS57afPdHUdVLhlrMaNzlIJsuldTKm+7Z58AH1V3YCE8e18swZHx9mJjcUbi2Sw8gMeHUFvDbX8De+ynMSooQV2RtNMg7+1IX1HEGeGg==;7nd2+kX05BGkeAQqVnCPGA=="
 ---

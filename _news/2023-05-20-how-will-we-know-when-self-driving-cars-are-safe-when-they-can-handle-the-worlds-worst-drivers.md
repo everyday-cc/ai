@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/articles/how-will-we-know-when-self-driving-ca
 webUrl: "https://www.wsj.com/articles/how-will-we-know-when-self-driving-cars-are-safe-when-they-can-handle-the-worlds-worst-drivers-fd35b907"
 type: article
 quality: 41
-heat: 41
+heat: -1
 published: false
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Self-driving cars are taking ages to become a reality, but they won’t take forever"
+    excerpt: "That’s a lot of autonomous driving. Baidu’s update follows other progress reports from self-driving car outfits: Cruise a couple of months ago said it had completed “one million fully driverless miles” in the 15 months since it started offering ..."
+    publishedDateTime: 2023-05-16T18:56:00Z
+    webUrl: "https://techcrunch.com/2023/05/16/self-driving-tech-predictions/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 48
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/05/IMG_5632.jpeg?resize=1200,900"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "9 in 10 drivers not keen on buying a self-driving car, survey claims"
     excerpt: "Motoring experts asked 1000 car insurance customers whether they would be keen to buy a self-driving car and 87% said they wouldn’t."
     publishedDateTime: 2023-05-18T13:21:00Z

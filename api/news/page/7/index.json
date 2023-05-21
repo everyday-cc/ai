@@ -2,6 +2,58 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-05-16-infineon-acquires-swedish-machine-learning-startup.md",
+      "title": "Infineon Acquires Swedish Machine Learning Startup",
+      "excerpt": "By Mauro Orru Infineon Technologies said it acquired Stockholm-based startup Imagimob AB in a deal that bolsters the German chip maker's standing in",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/infineon-acquires-swedish-machine-learning-startup-42dfdb65",
+      "originalUrl": "https://www.marketwatch.com/story/infineon-acquires-swedish-machine-learning-startup-42dfdb65",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/infineon-acquires-swedish-machine-learning-startup-42dfdb65",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/infineon-acquires-swedish-machine-learning-startup-42dfdb65",
+      "publishedDateTime": "2023-05-16T00:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-16-would-you-trust-an-ai-business-coach-entrepreneurs-share-their-hopes-and-concerns.md",
       "title": "Would You Trust An AI Business Coach? Entrepreneurs Share Their Hopes And Concerns",
       "excerpt": "Which roles are robots about to replace in our lives? Some entrepreneurs are ready to give AI business coaching a go, others are simply not convinced.",
@@ -1170,58 +1222,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-16-singapore-hopes-artificial-intelligence-will-help-boost-its-tourism-industry.md",
-      "title": "Singapore hopes artificial intelligence will help boost its tourism industry",
-      "excerpt": "As the city-state looks to salvage its battered tourism industry — which contributes around 4% to its economy — it's hoped that artificial intelligence can help the sector bring back visitors ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2020/09/24/singapore-looks-to-artificial-intelligence-ai-to-boost-tourism.html",
-      "originalUrl": "https://www.cnbc.com/2020/09/24/singapore-looks-to-artificial-intelligence-ai-to-boost-tourism.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106706240-1600338869741-gettyimages-1136947347-nik_1761-----gi--19mar19.jpeg?v=1600339088",
-          "width": 5568,
-          "height": 3712,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2020/09/24/singapore-looks-to-artificial-intelligence-ai-to-boost-tourism.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/09/24/singapore-looks-to-artificial-intelligence-ai-to-boost-tourism.html",
-      "publishedDateTime": "2023-05-15T10:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

@@ -7,7 +7,7 @@ originalUrl: "https://insideautonomousvehicles.com/kratos-self-driving-trucks-ai
 webUrl: "https://insideautonomousvehicles.com/kratos-self-driving-trucks-aimed-at-increasing-safety-addressing-workforce-shortfalls/"
 type: article
 quality: 31
-heat: 31
+heat: -1
 published: false
 
 provider:
@@ -25,29 +25,59 @@ images:
     isCached: true
 
 related:
-  - title: "Self-Driving Trucks Start Hauling Freight"
-    excerpt: "This undated photo shows Chris Urmson, CEO of self-driving vehicle technology company Aurora Innovation. Sometime next year, semis with no human in the cab will start carrying freight down Interstate 45 between Dallas and Houston. The trucks will run on an ..."
-    publishedDateTime: 2023-05-20T04:53:00Z
-    webUrl: "https://www.post-journal.com/news/business/2023/05/self-driving-trucks-start-hauling-freight/"
+  - title: "Gimmick or innovation? Self-driving bus starts taking passengers in U.K. trial"
+    excerpt: "EDINBURGH, Scotland — Organizers are calling it a first for autonomous transportation: computer-driven buses operating on a real route with real passengers navigating through real traffic."
+    publishedDateTime: 2023-05-17T00:43:00Z
+    webUrl: "https://www.nbcnews.com/news/world/self-driving-bus-starts-taking-passengers-uk-first-rcna84386"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna84386"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna84386"
     type: article
     provider:
-      name: The Post-Journal
-      domain: post-journal.com
-    quality: 24
+      name: NBC News
+      domain: nbcnews.com
+    quality: 70
     images:
-      - url: "https://ogden_images.s3.amazonaws.com/www.post-journal.com/images/2023/05/19214842/Insider-Trucks-750x500.jpg"
-        width: 750
-        height: 500
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-05/230515-autonomous-bus-mb-1417-a68ffd.jpg"
+        width: 3994
+        height: 2663
         isCached: true
-  - title: "Increasing Machine Learning Use in Bioprocessing"
-    excerpt: "Computation, including artificial intelligence and machine learning, plays an increasing role in the basis of bioprocessing."
-    publishedDateTime: 2023-05-17T18:01:00Z
-    webUrl: "https://www.genengnews.com/topics/bioprocessing/making-more-use-of-machine-learning-in-bioprocessing/"
+  - title: "Robotics innovation: Leading companies in obstacle detectors for the automotive industry"
+    excerpt: "According to GlobalData’s Technology Foresights, which uses over 619,000 patents to analyse innovation intensity for the automotive industry, there are 290+ innovation areas that will shape the future of the industry."
+    publishedDateTime: 2023-05-18T08:50:00Z
+    webUrl: "https://www.just-auto.com/data-insights/innovators-robotics-obstacle-detectors-automotive/"
     type: article
     provider:
-      name: GEN
-      domain: genengnews.com
-    quality: 19
+      name: Just Auto
+      domain: just-auto.com
+    quality: 45
+    images:
+      - url: "https://www.just-auto.com/wp-content/uploads/sites/30/2023/05/Robotics_Obstacle-detectors.jpg"
+        width: 1440
+        height: 810
+        isCached: true
+  - title: "Robotics innovation: Leading companies in smart factory systems for the automotive industry"
+    excerpt: "The smart factory is a cyber-physical system that analyses data, powers automated processes, and continuously learns using cutting-edge technologies like artificial intelligence (AI) and machine learning. It is a network of devices, communication systems, and computing power."
+    publishedDateTime: 2023-05-18T07:26:00Z
+    webUrl: "https://www.just-auto.com/data-insights/innovators-robotics-smart-factory-systems-automotive/"
+    type: article
+    provider:
+      name: Just Auto
+      domain: just-auto.com
+    quality: 44
+    images:
+      - url: "https://www.just-auto.com/wp-content/uploads/sites/30/2023/05/Robotics_Smart-factory-systems.jpg"
+        width: 1440
+        height: 810
+        isCached: true
+  - title: "Fugitive ex-Apple engineer charged for trying to steal self-driving car tech"
+    excerpt: "The Justice Department said Tuesday it has charged a former Apple engineer with attempting to steal the firm’s technology related to autonomous systems, including self-driving cars, and then fleeing to China. The case was among five announced on Tuesday ..."
+    publishedDateTime: 2023-05-16T18:36:00Z
+    webUrl: "https://nypost.com/2023/05/16/fugitive-ex-apple-engineer-charged-for-trying-to-steal-self-driving-car-tech/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 1
 
 secured: "tMzaB2vISyuUyLydtYTYA0PeKavh3uGClm3J5BmcLjSwo/PS6rvtKRT3gljuGEolUTB0gktWPQHIlArP9HpIGJUZIITvYZKzzOJ84/WwSr5Bm9G7pnXiuXXVmt5iXXcIgQKwb4PM7r+DocaCSYaHu8H1cBi/ab7A0DVkOXjibhHfEYC0I/xjvjmuSLZI53FTxUONUJMHStsDCG3H8a2MOlvxLqreNKV6ejjgrQRy0XLHNVMHJKmANwoRUnekqaBXd0A2QPpcyK9X1CosM5yrJq+Jif9jXtuU0dlZLtiNNwHCs7ETkavpoUrjMHBcbCYFz07GT3rcckMNfBdMfht8MMOJhEBit057xyso6shhnhAqK+AMaN9W8YRsI41noYHp+XI6kEER0qLSIdtbybKFgNJAgzfTPB4ZQFg7ssAsIGBCUGVsCB5sfRNzHoJ+QDiI9EgoTKC1szX1h7iCUcE0CkPOI2qYxOzDOvx3QZjbt91tVuqBdQ8DvyXrKcqUCnWspYLj7Rkb9utQ7PbZsNkOAQ==;qkfp2qOg9AKEMsZn51RCsg=="
 ---

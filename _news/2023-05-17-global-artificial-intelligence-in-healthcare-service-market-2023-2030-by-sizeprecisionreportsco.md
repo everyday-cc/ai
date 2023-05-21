@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-artificial-intell
 webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-healthcare-service-market-2023-2030-by-sizeprecisionreportsco-2023-05-16"
 type: article
 quality: 71
-heat: 151
+heat: 141
 published: true
 
 provider:
@@ -122,20 +122,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 54
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Cloud AI in Fintech Market Size 2023-2031 Competitive Landscape by Absolute Reports | with [87 Pages]"
-    excerpt: "May 16, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “Cloud AI in Fintech"
-    publishedDateTime: 2023-05-16T06:29:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-cloud-ai-in-fintech-market-size-2023-2031-competitive-landscape-by-absolute-reports-with-87-pages-2023-05-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 50
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Mike Rowe's warning to white collar workers: 'The robots are coming' for 'your white collar job'"
+    excerpt: "How America Works' host Mike Rowe unpacks how A.I. developments could impact jobs and offers a message to workers in light of white-collar recession fears."
+    publishedDateTime: 2023-05-18T20:15:00Z
+    webUrl: "https://www.foxbusiness.com/economy/mike-rowes-warning-white-collar-workers-robots-coming-white-collar-job"
+    ampWebUrl: "https://www.foxbusiness.com/economy/mike-rowes-warning-white-collar-workers-robots-coming-white-collar-job.amp"
+    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/economy/mike-rowes-warning-white-collar-workers-robots-coming-white-collar-job.amp"
+    type: article
+    provider:
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 46
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/50dea7c3-90cc-4063-a9f3-cc7be81ee1cd/33979461-de9b-424c-966c-f66b8c7eca44/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Robots are coming for your love life"
     excerpt: "A new digital matchmaker in town promises to offer less, not more, in the online dating swipescape and will charge users $111 monthly for it."
     publishedDateTime: 2023-05-17T08:20:00Z

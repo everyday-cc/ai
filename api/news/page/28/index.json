@@ -2,6 +2,40 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2023-05-04-researchers-detect-and-classify-multiple-objects-without-images.md",
+      "title": "Researchers detect and classify multiple objects without images",
+      "excerpt": "Researchers have developed a new high-speed way to detect the location, size and category of multiple objects without acquiring images or requiring complex scene reconstruction. Because the new approach greatly decreases the computing power necessary for object detection,",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2023-05-multiple-images.html",
+      "originalUrl": "https://phys.org/news/2023-05-multiple-images.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-03T12:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-04-use-a-pre-trained-model.md",
       "title": "Use a pre-trained model",
       "excerpt": "In this tutorial you'll explore an example web application that demonstrates transfer learning using the TensorFlow.js Layers API. The example loads a pre-trained model and then retrains the model in the browser. The model has been pre-trained in Python on ...",
@@ -1139,40 +1173,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-03-3play-media-study-finds-artificial-intelligence-innovation-has-led-to-significant-improvements-in-automatic-speech-recognition-asr.md",
-      "title": "3Play Media Study Finds Artificial Intelligence Innovation Has Led to Significant Improvements in Automatic Speech Recognition (ASR)",
-      "excerpt": "Play Media Study Finds Artificial Intelligence Innovation Has Led to Significant Improvements in Automatic Speech Recognition (ASR) ASR technology has never been as accurate as i",
-      "sourceUrl": null,
-      "webUrl": "https://technews.tmcnet.com/news/2023/05/03/9806777.htm",
-      "originalUrl": "https://technews.tmcnet.com/news/2023/05/03/9806777.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-03T05:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

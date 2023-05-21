@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2023/05/19/health/chatbots-mental-health-par
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/05/19/health/chatbots-mental-health-partner-kff-health-news-analysis/index.html"
 type: article
 quality: 62
-heat: 72
+heat: 73
 published: true
 
 provider:

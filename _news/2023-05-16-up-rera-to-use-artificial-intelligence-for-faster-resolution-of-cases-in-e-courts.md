@@ -34,22 +34,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "The Danger Of AI Content Farms"
-    excerpt: "In this article, we explore the risks of AI-generated articles, including disinformation, copyright infringement, clickbait, and biased data."
-    publishedDateTime: 2023-05-16T06:27:00Z
-    webUrl: "https://www.forbes.com/sites/bernardmarr/2023/05/16/the-danger-of-ai-content-farms/"
-    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/05/16/the-danger-of-ai-content-farms/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/05/16/the-danger-of-ai-content-farms/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/646321ba6bb60b67d3dd3ffd/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 820
-        isCached: true
   - title: "New paper introduces ethics framework for use of generative AI in health care"
     excerpt: "A new paper published by leading Australian AI ethicist Stefan Harrer Ph.D. proposes for the first time a comprehensive ethical framework for the responsible use, design, and governance of Generative AI applications in health care and medicine."
     publishedDateTime: 2023-05-16T13:49:00Z

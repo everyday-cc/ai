@@ -59,20 +59,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "The mystery results in Nigeria's disputed electio"
-    excerpt: "When we compared an image from this account to the television pictures of Dr Ariaga using Amazon Rekognition software, we achieved a match of 97.2%, indicating a very high probability they're the same man. Dr Ariaga did not respond to messages sent by us ..."
-    publishedDateTime: 2023-05-16T06:07:00Z
-    webUrl: "https://www.the-star.co.ke/news/africa/2023-05-16-the-mystery-results-in-nigerias-disputed-electio/"
-    type: article
-    provider:
-      name: The Star
-      domain: the-star.co.ke
-    quality: 24
-    images:
-      - url: "https://lh3.googleusercontent.com/JFV-_x60FOsnvfMEd9pGFOhnCcOwKDid-uVhBOBAIoZnpmSvMNgpJ9zFbiKxIHFX3IWKL0fuAPz0X-Hav0SPuNhbmU4TR-y0XiqDX0hv=s1000"
-        width: 750
-        height: 419
-        isCached: true
   - title: "The mystery results in Nigeria's disputed election"
     excerpt: "When we compared an image from this account to the television pictures of Dr Ariaga using Amazon Rekognition software, we achieved a match of 97.2%, indicating a very high probability they're the ..."
     publishedDateTime: 2023-05-16T08:19:00Z

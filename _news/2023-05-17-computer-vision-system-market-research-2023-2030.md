@@ -127,20 +127,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Cloud AI in Fintech Market Size 2023-2031 Competitive Landscape by Absolute Reports | with [87 Pages]"
-    excerpt: "May 16, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “Cloud AI in Fintech"
-    publishedDateTime: 2023-05-16T06:29:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-cloud-ai-in-fintech-market-size-2023-2031-competitive-landscape-by-absolute-reports-with-87-pages-2023-05-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 50
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "8NHnAYZ7t/nzmc7vslCIWP+BbtQgcfvCNlJoF7RQZ1O2jhcbpv+PyAKIpHOApBQ5I5yX6oHbzSKQBkDAaHSG8hRzdNig6dnbyFuaW2PIFaKGJ76CU+7pWgVUseDejaii1R9bPaG25/jzUyar+c+nHklYJpwmVpuHhpKSWslM7zrkdngMMjSs1p2iSIVfGnv/wJ3AhKBte3FbvHmFdxydmOQoBtinlTy+zlEQErq8pH6yXylcYEdWxjqzVfG64Iu78XvVsATPhq8PK1b9j9lWewyBxpe1SRtPQJWRcxsx+srhCT8Aa4T2qZd7JZ2hPmrt78uBwEVk7pfBP4VIzNSRdX5tFwOKHJklB3JgCzd/dok=;xG5FrovvcV7FCKNDYXgVsg=="
 ---

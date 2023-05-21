@@ -154,15 +154,6 @@ related:
       name: CBC.ca
       domain: www.cbc.ca
     quality: 1
-  - title: "Fugitive ex-Apple engineer charged for trying to steal self-driving car tech"
-    excerpt: "The Justice Department said Tuesday it has charged a former Apple engineer with attempting to steal the firm’s technology related to autonomous systems, including self-driving cars, and then fleeing to China. The case was among five announced on Tuesday ..."
-    publishedDateTime: 2023-05-16T18:36:00Z
-    webUrl: "https://nypost.com/2023/05/16/fugitive-ex-apple-engineer-charged-for-trying-to-steal-self-driving-car-tech/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 1
   - title: "DOJ charges former Apple engineer with stealing self-driving car technology for China"
     excerpt: "The Department of Justice today charged a former Apple Inc. engineer with stealing autonomous technology and giving it to a Chinese self-driving car company. The indictment, filed at federal court in the Northern District of California, alleges that Weibao ..."
     publishedDateTime: 2023-05-17T01:02:00Z

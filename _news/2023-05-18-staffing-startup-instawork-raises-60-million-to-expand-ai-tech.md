@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/emmylucas/2023/05/18/instawork-raises
 webUrl: "https://www.forbes.com/sites/emmylucas/2023/05/18/instawork-raises-60-million-to-expand-ai-tech-in-new-funding-round/"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Startup harnesses AI tech to combat palm weevil infestation"
+    excerpt: "When Zeid Sinokrot started a project to cultivate date palms with his family in Jericho, a Palestinian city in the West Bank, they were faced by an impossible challenge after the dreaded palm weevil swarmed the farm."
+    publishedDateTime: 2023-05-20T22:21:00Z
+    webUrl: "https://jordantimes.com/news/local/startup-harnesses-ai-tech-combat-palm-weevil infestation"
+    type: article
+    provider:
+      name: The Jordan Times
+      domain: jordantimes.com
+    quality: 37
+    images:
+      - url: "https://jordantimes.com/sites/default/files/styles/news_inner/public/33-Mays2.png?itok=taTKFb47"
+        width: 870
+        height: 358
+        isCached: true
   - title: "San Francisco staffing startup Instawork raises millions for push into AI"
     excerpt: "Instawork says it offers the flexibility of gig work but with more stability, for both job seekers and employers. The new funding will fuel its work towards integrating AI into its services."
     publishedDateTime: 2023-05-18T18:53:00Z

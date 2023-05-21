@@ -135,15 +135,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Natural Language Processing (NLP) in Life Sciences Services Market Outlook 2023 and Forecast to 2030 | 3M, Google, Health Fidelity, Cerner"
-    excerpt: "Global Natural Language Processing (NLP) in Life Sciences Services Market Overview: The Natural Language Processing (NLP) in Life Sciences Services market report provides a detailed analysis of global market size,"
-    publishedDateTime: 2023-05-16T06:54:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-in-life-sciences-services-market-outlook-2023-and-forecast-to-2030-3m-google-health-fidelity-cerner-2023-05-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 30
 
 secured: "DhzVQztKo0b15jA1KxZjFUeIj+OSskVU2tkngPHguKlKBJsf+4vxBRKKDKIsmaaoLIIJoL+8qvUlvmj3qB0wpbvupRH+fLWUZwduOujGeVXq7Ju9VC5X40TUWYdzfHLNOpjLvXeta7Xdf6TFgD2vuHMSFUMqznoAoIAoqHRXIphEwJDRdmU8yf3wqhaWbUHAdcnCJ9V7Plie/wQlqOF3dmEJHqojJEGjUs87K77KMuCddQlS76/BFjFLewu1YpVmX8xloNdecMQYxBdmYBbcr/2Q/oAgNILEp3G0m3AOwvRBoo+U2haH7RsXkiIxY6OyuZuzyp1CPpEmePxoA+IN5fBs9VUkwY3HmdHWcgdEBiQ=;RF9vBuffeMgn7F9XYTmbfg=="
 ---

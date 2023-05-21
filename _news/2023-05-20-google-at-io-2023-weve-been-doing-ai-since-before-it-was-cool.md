@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/google/2023/05/google-at-i-o-2023-weve-been-
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/google/2023/05/google-at-i-o-2023-weve-been-doing-ai-since-before-it-was-cool/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 98
 published: true
 
 provider:

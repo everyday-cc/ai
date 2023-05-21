@@ -169,15 +169,6 @@ related:
       name: Reno Gazette-Journal
       domain: rgj.com
     quality: 26
-  - title: "TSA testing facial recognition technology, prompting privacy concerns"
-    excerpt: "A new project by the Transportation Security Administration is using facial recognition software to verify identities."
-    publishedDateTime: 2023-05-16T06:19:00Z
-    webUrl: "https://www.kshb.com/tsa-testing-facial-recognition-technology-prompting-privacy-concerns"
-    type: article
-    provider:
-      name: KSHB Kansas City
-      domain: kshb.com
-    quality: 19
 
 secured: "a3kA6O05FzPbOG2SZg07tMoLtlzYJpFkDWQfhaS7zNwTZ53+j4RfkrIoLS69OLr1xB7LJN2YTsWV7r44yL/jisfpy/E4PRr9wZpPJovcRTI0tk2afAr/HwT0ACTOfTQ7PDLVkUDsICEdC5oZnqMiGc8H8FzYFeIzF5/I32n5ardvGXlu1MJmQHe90GerBA9CQBOb7jajtLOOtc//OI9mX40Ho9McgYiuWF606yZ137cjGS9w2t0hHHcBuafF6o27eEdFxxn3j2awN4NyRaewcQ8a8rXPNTzTh9TR3irXwjfkWKaklGwTHQM6TnChK5AF73H9gXMpQ1jscXh8gll+EYsV97kuQPrki19X01zEcpoRC7Y1X11xWVprxfhdDCRTDcZ5SLUqb3yrZCicWnt8bNbIJYVy9vFfOoyojoMi4akZ/s2QPc8/H7KARDahsi3oj7r3s5J7dmwFW8AJ7zBhkLmLtDgBl1hdApnQCceg0PmfZsEoXBkGz9F9sbMaEhbg83uwT7PC9qo5KQPrcHBLTA==;oDAfr8bQoqf198dwgFJ7Ow=="
 ---

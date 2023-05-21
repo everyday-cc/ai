@@ -2,6 +2,40 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2023-05-10-tesla-gears-up-to-offer-free-ai-powered-self-driving-trial-time-to-buy-the-stock.md",
+      "title": "Tesla Gears Up to Offer Free AI-Powered Self-Driving Trial: Time to Buy the Stock?",
+      "excerpt": "stating that his electric vehicle company would be offering a free trial of its full-self-driving (FSD) service powered by artificial intelligence (AI) for all of its automobiles in North America.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/tesla-gears-up-to-offer-free-ai-powered-self-driving-trial:-time-to-buy-the-stock",
+      "originalUrl": "https://www.nasdaq.com/articles/tesla-gears-up-to-offer-free-ai-powered-self-driving-trial:-time-to-buy-the-stock",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-10T03:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-10-three-reasons-generative-ai-will-be-the-next-disruption-for-e-grocery-stores.md",
       "title": "Three Reasons Generative AI Will Be The Next Disruption For E-Grocery Stores",
       "excerpt": "Generative artificial intelligence (AI) has taken the world by storm since OpenAI's ChatGPT launched in November 2022. In response to questions or \"prompts,\" the AI system can generate authentic text, images and even code if you ask it to.",
@@ -1162,58 +1196,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-10-deepmind-founder-says-governments-need-to-compensate-serious-number-of-losers-who-will-be-left-jobless-due-to-ai.md",
-      "title": "DeepMind founder says governments need to compensate 'serious number of losers' who will be left jobless due to AI",
-      "excerpt": "A co-founder of the AI company DeepMind has warned that governments will need to figure out a plan to compensate people who will lose their jobs to the new technology, the Financial Times reported.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/deepmind-founder-universal-basic-income-needed-ai-job-losses-2023-5",
-      "originalUrl": "https://www.businessinsider.com/deepmind-founder-universal-basic-income-needed-ai-job-losses-2023-5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/645b735f65a21600192fe3fd?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/deepmind-founder-universal-basic-income-needed-ai-job-losses-2023-5?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/deepmind-founder-universal-basic-income-needed-ai-job-losses-2023-5?amp",
-      "publishedDateTime": "2023-05-09T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

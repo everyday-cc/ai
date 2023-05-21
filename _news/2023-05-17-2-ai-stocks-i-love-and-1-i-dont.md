@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2023/05/17/2-ai-stocks-i-love-and-1
 webUrl: "https://www.fool.com/investing/2023/05/17/2-ai-stocks-i-love-and-1-i-dont/"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://editorial.fxstreet.com/images/TechnicalAnalysis/ChartPatterns/Chartism/financial-analysis-6085333_Small.jpg"
         width: 320
         height: 213
+        isCached: true
+  - title: "Best Artificial Intelligence Stocks: 7 Picks To Buy and Watch Now"
+    excerpt: "End users have deployed IBM AI in industries as diverse as healthcare, retail and finance ... These memory and storage solutions accelerate information into intelligence. Micron made a splash in the AI market with its 2019 purchase of the artificial ..."
+    publishedDateTime: 2023-05-19T21:26:00Z
+    webUrl: "https://www.aol.com/best-artificial-intelligence-stocks-7-142953252.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 39
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/7VCi8GD_LbeLUonbPT3nXg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_gobankingrates_57/234b65fd65c1a66bcc0af1e622388462"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "Ed6n+lwM89aBWPw69PifzvQo0ByqW/21ue1+14Wzik+05yE80h0l0DWlxYy/vPoFkpyc3uBpSOv2lRAzv7Bjxi14CHrPj1aG3DPnTgvnUE6xn8ZmeAsrhSLwQXML/VsxYtMyvXPwUjbO9C2qT/EOuMkMPiWA7NOvrh1aejZQrvtv8pLaDyyd8g7FTr3mv6pBXJ5zo8BVwDeS1sb5IssaCr+DiM96+nvUp3vSphonjNNiphaRHn0vzJwZ+95VIEcs7a9ZYpz3tvrsPrVqLZSTBQgDivRUR9Om+3OrCbI8OLHUXWSMzIcFHHZTS21WnesAcUPetwXKCkUF9I3/o2MUkxTPbt1CTpB52zkNpiVo0p4=;5auY5+9GigotpBIHmCVI5w=="

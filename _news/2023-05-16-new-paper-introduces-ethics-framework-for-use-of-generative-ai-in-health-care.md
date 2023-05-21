@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "The Danger Of AI Content Farms"
-    excerpt: "In this article, we explore the risks of AI-generated articles, including disinformation, copyright infringement, clickbait, and biased data."
-    publishedDateTime: 2023-05-16T06:27:00Z
-    webUrl: "https://www.forbes.com/sites/bernardmarr/2023/05/16/the-danger-of-ai-content-farms/"
-    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/05/16/the-danger-of-ai-content-farms/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/05/16/the-danger-of-ai-content-farms/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/646321ba6bb60b67d3dd3ffd/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 820
-        isCached: true
   - title: "CDW Executive SummIT: Diving Into the Potential of Artificial Intelligence in Healthcare"
     excerpt: "AI is a hot topic right now, and SummIT attendees expressed both excitement and caution over potential use cases."
     publishedDateTime: 2023-05-18T17:01:00Z

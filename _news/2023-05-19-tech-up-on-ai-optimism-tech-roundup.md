@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/tech-up-on-ai-optimism-tech-ro
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/tech-up-on-ai-optimism-tech-roundup-77d7ab6c"
 type: article
 quality: 87
-heat: 100
+heat: 97
 published: true
 
 provider:

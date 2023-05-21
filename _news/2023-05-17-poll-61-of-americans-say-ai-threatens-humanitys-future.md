@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/information-technology/2023/05/poll-61-of-am
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/05/poll-61-of-americans-say-ai-threatens-humanitys-future/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c94f2dfc-4da1-4242-968a-ee304efbf95b/aeaef00c-0f9c-4502-acf5-baec6600e20d/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Americans weigh in on whether VP can lead on AI after Elon Musk mocked her"
+    excerpt: "Several Washington. D.C. residents said they don't trust Vice President Kamala Harris to lead the White House's response to artificial intelligence."
+    publishedDateTime: 2023-05-20T23:33:00Z
+    webUrl: "https://www.foxnews.com/video/6327938002112"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 65
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/78ebd838-3942-461c-b226-396d577f87fb/36617385-e62b-401a-8042-cfecb9c795fc/1280x720/match/1024/512/image.jpg?ve=1&tl=1"
+        width: 1024
+        height: 512
         isCached: true
   - title: "More Than Half of Americans Think AI Poses a Threat to Humanity"
     excerpt: "understand and translate spoken and written language, analyze data, make recommendations, and more.” It could be that peoples’ fear and distrust of AI comes partly from a lack of understanding of it, and a stronger focus on unsettling examples than ..."

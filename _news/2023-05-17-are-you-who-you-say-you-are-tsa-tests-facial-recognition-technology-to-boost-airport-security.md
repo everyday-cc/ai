@@ -9,7 +9,7 @@ ampWebUrl: "https://abc7chicago.com/amp/tsa-facial-recognition-airport-security-
 cdnAmpWebUrl: "https://abc7chicago-com.cdn.ampproject.org/c/s/abc7chicago.com/amp/tsa-facial-recognition-airport-security-transportation-administration/13250231/"
 type: article
 quality: 79
-heat: 199
+heat: 189
 published: true
 
 provider:
@@ -162,15 +162,6 @@ related:
       name: Reno Gazette-Journal
       domain: rgj.com
     quality: 26
-  - title: "TSA testing facial recognition technology, prompting privacy concerns"
-    excerpt: "A new project by the Transportation Security Administration is using facial recognition software to verify identities."
-    publishedDateTime: 2023-05-16T06:19:00Z
-    webUrl: "https://www.kshb.com/tsa-testing-facial-recognition-technology-prompting-privacy-concerns"
-    type: article
-    provider:
-      name: KSHB Kansas City
-      domain: kshb.com
-    quality: 19
   - title: "TSA Ramps Up Facial Recognition Pilot"
     excerpt: "Next time you’re trying to catch a flight, you might spot a new initiative from the Transportation Security Administration (TSA) with a controversial component: facial recognition. The TSA has ramped up its biometric identity verification pilot by installing facial recognition systems in more airports."
     publishedDateTime: 2023-05-17T19:20:00Z

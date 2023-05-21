@@ -32,6 +32,20 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Startup harnesses AI tech to combat palm weevil infestation"
+    excerpt: "When Zeid Sinokrot started a project to cultivate date palms with his family in Jericho, a Palestinian city in the West Bank, they were faced by an impossible challenge after the dreaded palm weevil swarmed the farm."
+    publishedDateTime: 2023-05-20T22:21:00Z
+    webUrl: "https://jordantimes.com/news/local/startup-harnesses-ai-tech-combat-palm-weevil infestation"
+    type: article
+    provider:
+      name: The Jordan Times
+      domain: jordantimes.com
+    quality: 37
+    images:
+      - url: "https://jordantimes.com/sites/default/files/styles/news_inner/public/33-Mays2.png?itok=taTKFb47"
+        width: 870
+        height: 358
+        isCached: true
 
 secured: "yyY0/UHO6l2eCbGRnfT1+wl/6xlWfjVQ0jmLB/TIINuD2YcgdsTz6f0rdOFY1SXDodZe73eFPOqrrb4cyG4rDGed1tUzd691xDkpDLuPOHg5kas/n40jWL/furxmWRgSEXKx/b9Yg/W+iRda+1t3qIzWOpuXIXvi/v8EEhXuisN/SqpaQ6LMp1lx/vJqmAKwyLZ8FOOxeNTHCvQhltm5ZjvXD0lPHEYA/Lp1sb4+A/e1VLGwNMYmSrFAB51okMm3+bcAikIdNnODRedX/BMWWPL9J0YEeGRsltrqZVFpzo2msScuWAM5ykFWEBNjdW205P9C+EXkUZCNwiqJtlWPEynC2KrM7SxN3c8KCcTWcqFiWCnGlutGcGmdoYaq4soG7gIUAMAc+fyOmkBN6Za1vlf9dcdS1anCURZtQrFMoZGvmOe3KQwHtyZUwx11FNBx1PQeP9xsyM6pOuQQA6P3KV1UPSUkBt5tEfbTXCBZsDTmTMJQk1xwfN1/jANvvmV/WlPQ3WMP68ByEARQMZa1+g==;ISYJ3uLqFHEkoU8CATrW9g=="
 ---

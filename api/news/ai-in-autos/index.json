@@ -151,21 +151,21 @@
       ]
     },
     {
-      "path": "_news/2023-05-17-automotive-self-driving-chip-market-share-size-financial-summaries-analysis-from-2023-to-2028.md",
-      "title": "Automotive Self-driving Chip Market Share, Size, Financial Summaries Analysis from 2023 to 2028",
-      "excerpt": "Automotive Self-driving Chip report is a comprehensive analysis of the market, covering various components such",
+      "path": "_news/2023-05-17-gimmick-or-innovation-self-driving-bus-starts-taking-passengers-in-uk-trial.md",
+      "title": "Gimmick or innovation? Self-driving bus starts taking passengers in U.K. trial",
+      "excerpt": "EDINBURGH, Scotland — Organizers are calling it a first for autonomous transportation: computer-driven buses operating on a real route with real passengers navigating through real traffic.",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/automotive-self-driving-chip-market-share-size-financial-summaries-analysis-from-2023-to-2028-2023-05-16",
-      "originalUrl": "https://www.marketwatch.com/press-release/automotive-self-driving-chip-market-share-size-financial-summaries-analysis-from-2023-to-2028-2023-05-16",
+      "webUrl": "https://www.nbcnews.com/news/world/self-driving-bus-starts-taking-passengers-uk-first-rcna84386",
+      "originalUrl": "https://www.nbcnews.com/news/world/self-driving-bus-starts-taking-passengers-uk-first-rcna84386",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 110,
       "tags": null,
       "images": [
         {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-05/230515-autonomous-bus-mb-1417-a68ffd.jpg",
+          "width": 3994,
+          "height": 2663,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -173,23 +173,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-16T20:59:00-07:00",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna84386",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna84386",
+      "publishedDateTime": "2023-05-16T17:43:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -199,8 +190,7 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI",
-        "AI Hardware"
+        "AI"
       ]
     },
     {
@@ -264,7 +254,7 @@
       "originalUrl": "https://www.forbes.com/sites/anafaguy/2023/05/16/ex-apple-employee-stole-self-driving-car-tech-for-chinese-competitor-doj-alleges/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 189,
+      "heat": 179,
       "tags": null,
       "images": [
         {

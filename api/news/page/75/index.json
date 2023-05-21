@@ -2,6 +2,57 @@
   "page": 75,
   "value": [
     {
+      "path": "_news/2023-03-28-ais-tipping-point-from-dark-forces-to-creative-liberation-whats-ahead.md",
+      "title": "AI's Tipping Point: From Dark Forces To Creative Liberation, What's Ahead?",
+      "excerpt": "We believe that it can start very low, by just answering the basic concerns of people: will my work be disintermediated by AI? Will AI become sentient? And then progressively open up more complex issues to people; let them understand what is a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/sairahashman/2023/03/28/ais-tipping-point-from-dark-forces-to-creative-liberation-whats-ahead/",
+      "originalUrl": "https://www.forbes.com/sites/sairahashman/2023/03/28/ais-tipping-point-from-dark-forces-to-creative-liberation-whats-ahead/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6422a2be50a1d9dd6c10b24d/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/sairahashman/2023/03/28/ais-tipping-point-from-dark-forces-to-creative-liberation-whats-ahead/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sairahashman/2023/03/28/ais-tipping-point-from-dark-forces-to-creative-liberation-whats-ahead/amp/",
+      "publishedDateTime": "2023-03-28T02:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-28-artificial-intelligence-ai-in-automotive-market-2023-size-growing-rapidly-with-recent-trends.md",
       "title": "Artificial Intelligence (AI) in Automotive Market 2023 Size Growing Rapidly with Recent Trends",
       "excerpt": "Artificial Intelligence (AI) in Automotive Market Analysis 2023 \\| by Product Type (, Context Awareness Computing, Machine Learning, Natural Language Processing, Computer Vision, ,",
@@ -1154,58 +1205,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-27-turing-launches-ai-powered-services-to-form-engineering-dream-teams.md",
-      "title": "Turing launches AI-powered services to form engineering dream teams",
-      "excerpt": "Turing’s Talent Cloud uses AI to eliminate the arduous task of matching highly qualified ... GCP, BigQuery, Node, React, Azure and Python. Turing designs its services using a distributed application framework and the microservices architecture to scale ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/turing-launches-ai-powered-services-to-form-engineering-dream-teams/",
-      "originalUrl": "https://venturebeat.com/ai/turing-launches-ai-powered-services-to-form-engineering-dream-teams/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/09/GettyImages-1168836247-e1664214930793.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 599,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/turing-launches-ai-powered-services-to-form-engineering-dream-teams/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/turing-launches-ai-powered-services-to-form-engineering-dream-teams/amp/",
-      "publishedDateTime": "2023-03-27T09:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

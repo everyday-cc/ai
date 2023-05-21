@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/05/19/
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/05/19/how-ai-is-unlocking-new-ways-marketers-get-work-done/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
       - url: "https://m.foolcdn.com/media/dubs/images/GettyImages-1285914519.width-600.jpg"
         width: 600
         height: 400
-        isCached: true
-  - title: "2023, Artificial Intelligence in Marketing Market Research Report Analysis by 2030"
-    excerpt: "The major players covered in the Artificial Intelligence in Marketing market report are: Get a sample copy of the Artificial Intelligence in Marketing Market report 2023 The global Artificial Intelligence in Marketing market size was valued at USD 36391."
-    publishedDateTime: 2023-05-16T06:05:00Z
-    webUrl: "https://www.marketwatch.com/press-release/2023-artificial-intelligence-in-marketing-market-research-report-analysis-by-2030-2023-05-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 78
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "/L0WRCwjghstCkTgtgN4R3mHHo8oKGNBFl+HKXNmx6t/sKqA2Eixwca++WAJVDXXFI5HiMWpLxg7on5KKfdhauQuvg0a5sMPW9CRFfSUcZjuVjQdB3fvsQTy3NAhlJAlGDC6YKDpoGJtLLVbeNDpPxZM/Ed5dCQRYVNGWCOgs8wspzPXBDbuZZwntbc31Qnj3oASMSaNnFvDapKagSQP57porWP7etXJaL4FCS1dePfYhwG6WX1hxQrGKyU+WIaIoFYiSYdQDiGh9VAV7MYg9uPxL5E8akzP2gpRX5xAlMhJDITF4dlThpyolVSpX2bUC+ZePXJmHvqX1EYO719hs3iWd0rM5JT92OcbBDpyShhQnH7QkkWnYH/iWPDdc5q8EpzPBOahdbGCH7ClK8C9FtakFeAmcjNEp6JytNeQF2mjgt7qPnfGUizzQx+i76PnoLc+2oghYr6v3SESvHeSOG+quFWYAecJK35/uUVgNJWLR2LbA8b+V0CYf4eNuYnVCmhT0AEjAqWyVTYlCdQmfw==;M0Z0+6YSEMczknROR2oBsQ=="

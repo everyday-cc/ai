@@ -7,7 +7,7 @@ originalUrl: "https://www.post-journal.com/news/business/2023/05/self-driving-tr
 webUrl: "https://www.post-journal.com/news/business/2023/05/self-driving-trucks-start-hauling-freight/"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -25,29 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "Kratos Self-Driving Trucks Aimed at Increasing Safety, Addressing Workforce Shortfalls"
-    excerpt: "Kratos Defense & Security Solutions Inc. said it has multiple self-driving trucks deployed across the United States supporting new deployment use cases and territories to help solve real-world workforce and safety issues burdening critical transportation and supply chain operations."
-    publishedDateTime: 2023-05-16T17:11:00Z
-    webUrl: "https://insideautonomousvehicles.com/kratos-self-driving-trucks-aimed-at-increasing-safety-addressing-workforce-shortfalls/"
+  - title: "Self-driving trucks pose different questions for insurers"
+    excerpt: "Insurers say driverless trucks will cause insurance rates to rise for carriers of all sizes while the industry works to assess the risks of having them on the road."
+    publishedDateTime: 2023-05-16T19:52:00Z
+    webUrl: "https://www.ccjdigital.com/business/insurance/article/15447777/selfdriving-trucks-pose-trucking-insurance-questions"
     type: article
     provider:
-      name: insideautonomousvehicles
-      domain: insideautonomousvehicles.com
-    quality: 31
-    images:
-      - url: "https://insideautonomousvehicles.com/wp-content/uploads/2023/05/Tanker-1.jpg"
-        width: 1800
-        height: 1200
-        isCached: true
-  - title: "Increasing Machine Learning Use in Bioprocessing"
-    excerpt: "Computation, including artificial intelligence and machine learning, plays an increasing role in the basis of bioprocessing."
-    publishedDateTime: 2023-05-17T18:01:00Z
-    webUrl: "https://www.genengnews.com/topics/bioprocessing/making-more-use-of-machine-learning-in-bioprocessing/"
-    type: article
-    provider:
-      name: GEN
-      domain: genengnews.com
-    quality: 19
+      name: CCJ
+      domain: ccjdigital.com
+    quality: 4
 
 secured: "DscbLfRrdKYX7oxJmbAuoYk6C69dHiH54EqR4i5fDW8gYt4e6IG4bgna7hiuFE+MWitt1vcLtznVCITgj7Ug00zqg7I/5TmQA7d9bnkv6u0kiFNMBtqqIXUj4y0LlpSI9sdTcXa2DvXJNiZE6ecul6+oruJfyswWlKk3XWiWf5QCwqxDcF/yARE+8D6yXSfl5xFFA39sF7EkUXfol4paLyoUu7J+iTQZjejagffWulzbnhbWtdU/RP5EpJ477QidkAbK+PFPGjKB5Yun6PQE/ocxPPl6gZzgriViVbAMe94m/UULOCs6oIz9WYKYnpQATYV3AWVy/xmiEbS4KMwpmpYnqxcpvl8E+HvNekFqrvVZ0n0VoNjNp49x0PW4sjyOxbjm5faphmQmy2QWkc/E06GOwr0AGsKUzORt2h10hLxAj64e8ViZ5Lo0Do4C5XESnm5PZilOyzJhRKBJZOtn3AxpNqZAv8sUBaxiExhx9GdYV8Hvh6M6lOqFWzcWsyhOJhgatUGYv2XiMfYnz2mdwA==;/n/Lno103FE5vDtHhEbZYA=="
 ---

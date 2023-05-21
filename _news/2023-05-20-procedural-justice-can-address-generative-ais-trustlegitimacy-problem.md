@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/05/19/procedural-justice-can-address-gen
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/19/procedural-justice-can-address-generative-ais-trust-legitimacy-problem/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 100
 published: true
 
 provider:

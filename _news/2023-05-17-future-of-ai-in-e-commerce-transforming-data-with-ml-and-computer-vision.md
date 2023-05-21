@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dqindia.com/future-of-ai-in-e-commerce-transforming-data
 cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/future-of-ai-in-e-commerce-transforming-data-with-ml-and-computer-vision/amp/"
 type: article
 quality: 70
-heat: 82
+heat: 80
 published: true
 
 provider:
