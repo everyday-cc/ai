@@ -57,22 +57,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Despite bias concerns, TSA tests facial recognition software at more airports"
-    excerpt: "BALTIMORE (AP) — A passenger walks up to an airport security checkpoint, slips an ID card into a slot and looks into a camera atop a small screen. The screen flashes “Photo Complete” and the person walks through — all without having to hand over ..."
-    publishedDateTime: 2023-05-16T10:00:00Z
-    webUrl: "https://thegrio.com/2023/05/16/despite-bias-concerns-tsa-tests-facial-recognition-software-at-more-airports/"
-    ampWebUrl: "https://thegrio.com/2023/05/16/despite-bias-concerns-tsa-tests-facial-recognition-software-at-more-airports/amp/"
-    cdnAmpWebUrl: "https://thegrio-com.cdn.ampproject.org/c/s/thegrio.com/2023/05/16/despite-bias-concerns-tsa-tests-facial-recognition-software-at-more-airports/amp/"
-    type: article
-    provider:
-      name: The Grio
-      domain: thegrio.com
-    quality: 71
-    images:
-      - url: "https://thegrio.com/wp-content/uploads/2023/05/AP23116691315221-scaled.jpg"
-        width: 2560
-        height: 1707
-        isCached: true
   - title: "Are you who you say you are? TSA tests facial recognition technology to boost airport security"
     excerpt: "BALTIMORE—A passenger walks up to an airport security checkpoint, slips an ID card into a slot and looks into a camera atop a small screen. The screen flashes “Photo Complete” and the person walks through—all without having to hand over their identification to the TSA officer sitting behind the screen."
     publishedDateTime: 2023-05-20T16:12:00Z
@@ -171,6 +155,6 @@ related:
       domain: extremetech.com
     quality: 19
 
-secured: "joUDExLhNC1FUoc8ArZ5tSsOa2MH+WCA2u3MiclxWSVGqQBI+CoYoNcBpcoUb1NMZ4e4eMjvFq2UHJn/IFyHTW6DVN9jvE3dFjXmB3/Qd8rTPn9ykcxpNHLnovixg2+HvRYRMYYSTNI/zPE9fbOSHWSVURhWs0rqcgBZI5rdKSEdJ9McquUG4bIDoJFosg/u43+ZorleehQgfS7HZ6AnCYYErnfB/ldx2B012s9LbD4xuRIhP9+pWrz0eBhFdnwvG0fQZ8upU5vE3VA02JHdblk7PoNwlyXm0Q20gPBsnrASclBEqUF1MQGsgJcEDrsUIGg4dV4R4YyDnQF9I1NtHBLCVsJ2qD8h8a+91ACalqo=;RZrEraRgacxo4EYgXACzmw=="
+secured: "kjNiTvFUfsTpupOSK9ozdK70Yqe0W6q64PRt7Wz0A4Em6j90YV14LBNisJGI68fGGys60i+UaobNiPOtrjxCUwWdN4RXu9rbIvdLtRGxXZ3s/zFT0XotZU8TVmjHaNaEQLW96/uCIAAWHs5pZta1IwQ7bW/67+G6U5+c/xyIrVhwfXBnFEUX9gIGY5hT3hJEzW0wfXeH1YKtyzjj/uVyqE1/nXKsQqNNAKzx83L7IQI/xCpJTxsNsowdMZqEnKEAOZxKmjNda5jcqTkR5o9N2Cu7a3izZZgEDhw68Dg+Sy44eOm9XxVmbRoRGRnYVihfGWGyT1zmEISpL+1k18Byys3vwbaNZ6NdzeW4IcnL9zqsLzM52y2v7u4NvxnEw93iYifIE2TEgvxowQwqGLK+25AQojDXqCTLs2bdSe4S3X/00HiStYzdvmX46H/7dwTpGjyBH0GjG6VUtU4aV7dSDpj3BcPIpk1CKh5ZYi/JCdfCcVyNjFUPD9ACrJjZq1llmBlr3FIbEXV16S7Q5DFvgA==;tgawnwfGJXzhuxrJJm54PQ=="
 ---
 

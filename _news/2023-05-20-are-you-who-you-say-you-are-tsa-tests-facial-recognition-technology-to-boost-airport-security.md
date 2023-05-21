@@ -58,22 +58,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Despite bias concerns, TSA tests facial recognition software at more airports"
-    excerpt: "BALTIMORE (AP) — A passenger walks up to an airport security checkpoint, slips an ID card into a slot and looks into a camera atop a small screen. The screen flashes “Photo Complete” and the person walks through — all without having to hand over ..."
-    publishedDateTime: 2023-05-16T10:00:00Z
-    webUrl: "https://thegrio.com/2023/05/16/despite-bias-concerns-tsa-tests-facial-recognition-software-at-more-airports/"
-    ampWebUrl: "https://thegrio.com/2023/05/16/despite-bias-concerns-tsa-tests-facial-recognition-software-at-more-airports/amp/"
-    cdnAmpWebUrl: "https://thegrio-com.cdn.ampproject.org/c/s/thegrio.com/2023/05/16/despite-bias-concerns-tsa-tests-facial-recognition-software-at-more-airports/amp/"
-    type: article
-    provider:
-      name: The Grio
-      domain: thegrio.com
-    quality: 71
-    images:
-      - url: "https://thegrio.com/wp-content/uploads/2023/05/AP23116691315221-scaled.jpg"
-        width: 2560
-        height: 1707
-        isCached: true
   - title: "TSA testing facial recognition at more airports, raising privacy concerns"
     excerpt: "A passenger walks up to an airport security checkpoint, slips an ID card into a slot and looks into a camera atop a small screen. The screen flashes"
     publishedDateTime: 2023-05-21T00:30:00Z

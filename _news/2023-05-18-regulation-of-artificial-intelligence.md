@@ -18,72 +18,47 @@ topics:
   - AI
 
 related:
-  - title: "Cheat Sheets For AI Information Overload"
-    excerpt: "There is now a firehose stream of AI-related information published each day, and it is getting harder to keep up with what's happening in AI."
-    publishedDateTime: 2023-05-16T14:00:00Z
-    webUrl: "https://www.forbes.com/sites/timbajarin/2023/05/16/cheat-sheets-for-ai-information-overload/"
-    ampWebUrl: "https://www.forbes.com/sites/timbajarin/2023/05/16/cheat-sheets-for-ai-information-overload/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/timbajarin/2023/05/16/cheat-sheets-for-ai-information-overload/amp/"
+  - title: "AI Excites Healthcare, Yet It Urgently Needs Regulations"
+    excerpt: "The healthcare sector should pay attention to Sam Altman's statements on AI regulation. AI has exponential potential in healthcare but requires regulation."
+    publishedDateTime: 2023-05-21T03:11:00Z
+    webUrl: "https://www.forbes.com/sites/davidchou/2023/05/20/ai-excites-healthcare-yet-it-urgently-needs-regulations/"
+    ampWebUrl: "https://www.forbes.com/sites/davidchou/2023/05/20/ai-excites-healthcare-yet-it-urgently-needs-regulations/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidchou/2023/05/20/ai-excites-healthcare-yet-it-urgently-needs-regulations/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 87
+    quality: 104
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/646272cf4f56e282d1dd3ffb/0x0.jpg?format=jpg&width=1200"
-        width: 887
-        height: 600
-        isCached: true
-  - title: "Get Ready For AI Climate Action"
-    excerpt: "AI can help predict climate risk zones, allocate resources efficiently, and develop impactful climate-related infrastructure projects."
-    publishedDateTime: 2023-05-16T17:06:00Z
-    webUrl: "https://www.forbes.com/sites/sylvainduranton/2023/05/16/get-ready-for-ai-climate-action/"
-    ampWebUrl: "https://www.forbes.com/sites/sylvainduranton/2023/05/16/get-ready-for-ai-climate-action/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sylvainduranton/2023/05/16/get-ready-for-ai-climate-action/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6463b713b18d7efeca795103/0x0.jpg?format=jpg&width=1200"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/646989f4cacc478d7bbd2c16/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 830
+        height: 800
         isCached: true
-  - title: "How Artificial Intelligence Is Used in Education"
-    excerpt: "Generative AI is setting off a transformation in education. Here's a primer on AI and how its role in education will take shape in the future."
-    publishedDateTime: 2023-05-16T13:12:00Z
-    webUrl: "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/ai-in-education/"
+  - title: "OpenAI CEO: Artificial Intelligence Needs Regulation"
+    excerpt: "(TNS) — Government regulation is “critical” to keep risks down with artificial intelligence such as ChatGPT, the CEO of the company behind the bot testified Tuesday. Speaking at a Senate hearing in Washington, OpenAI honcho Sam Altman addressed ..."
+    publishedDateTime: 2023-05-17T21:31:00Z
+    webUrl: "https://www.govtech.com/artificial-intelligence/openai-ceo-artificial-intelligence-needs-regulation"
+    ampWebUrl: "https://www.govtech.com/artificial-intelligence/openai-ceo-artificial-intelligence-needs-regulation?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/artificial-intelligence/openai-ceo-artificial-intelligence-needs-regulation?_amp=true"
     type: article
     provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 68
-  - title: "UP RERA Floats Tender For Installation Of Artificial Intelligence"
-    excerpt: "AI will contribute to the development of three major categories of systems: supportive systems, function-based automation systems and autonomous systems."
-    publishedDateTime: 2023-05-16T11:09:00Z
-    webUrl: "https://www.republicworld.com/business-news/india-business/up-rera-floats-tender-for-installation-of-artificial-intelligence-articleshow.html"
-    ampWebUrl: "https://www.republicworld.com/amp/business-news/india-business/up-rera-floats-tender-for-installation-of-artificial-intelligence-articleshow.html"
-    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/business-news/india-business/up-rera-floats-tender-for-installation-of-artificial-intelligence-articleshow.html"
-    type: article
-    provider:
-      name: RepublicWorld
-      domain: republicworld.com
-    quality: 61
+      name: Government Technology
+      domain: govtech.com
+    quality: 74
     images:
-      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/e9geoifv1itnkiqg_1684234298.jpeg"
-        width: 768
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/a994c68/2147483647/strip/true/crop/3000x1564+0+276/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F5f%2F7e%2F090092c2478c8fd16c8a9c7988c9%2Fbiz-ai-microsoft-dmt.jpg"
+        width: 840
         height: 438
         isCached: true
-  - title: "Elections in UK and US at risk from AI-driven disinformation, say experts"
-    excerpt: "False news stories, images, video and audio could be tailored to audiences and created at scale by next spring"
-    publishedDateTime: 2023-05-20T09:00:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/may/20/elections-in-uk-and-us-at-risk-from-ai-driven-disinformation-say-experts"
+  - title: "Senators use hearings to explore regulation on artificial intelligence"
+    excerpt: "The chairman of a Senate Judiciary panel said Tuesday that Congress should act soon to regulate artificial intelligence."
+    publishedDateTime: 2023-05-16T17:59:00Z
+    webUrl: "https://rollcall.com/2023/05/16/senators-use-hearings-to-explore-regulation-on-artificial-intelligence/"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 16
+      name: Roll Call
+      domain: rollcall.com
+    quality: 17
 
 secured: "QFaiD5GA4S2KVLt/H7cY+X3hYXTzuUsQ5QXnrpPfDjSQrHM5oSjN45o26SA3Ty65oBna9mRy5tS2P2R8t7nr8ZxtH2/wA8mr/phVLY7x4JNYmVM7oRhEXg98LWDOjvJzTQfYBLfT2sIJQo1ZPwIvvofULRhJpZCZmkUwI5kyOQDXo1bR0RxfCz3t6WgP+FwQ3Rdn/kbcC0ZgH11j/Bz58UFgWQKInv3zcVFX10lulA+ZQZLBoO+IhjfNXnkoZHPLGrOsJPRNgxZreg9MPo9y8Exg+z4+ETJgG3RCtrbs0VWR5v2p2mP0gdRGVKPWLzZ7yi6I3am+d5EGTTY5PQ+af4PUgJ4xqP3amZmSW9QXSOmHZ3Y8aADXLbzfkNVXGmI8OkD1mZQxBWSevdMzY0gbBhgfaEncY/fCicfMl//7hRW1pb/QifwuS1/WOH6lptzWDonJXUxdPAOJG0mP/7GEh0trx5kmRhX+KjgvvKxKExZp2L8z+CMynwRMDGHfMxVB4/8zR+pWmwSmTYHbYN0eww==;TiZcRtQZybZudUJ7psQHTA=="
 ---

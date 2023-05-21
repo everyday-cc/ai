@@ -134,22 +134,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "OpenAI CEO: Artificial Intelligence Needs Regulation"
-    excerpt: "(TNS) — Government regulation is “critical” to keep risks down with artificial intelligence such as ChatGPT, the CEO of the company behind the bot testified Tuesday. Speaking at a Senate hearing in Washington, OpenAI honcho Sam Altman addressed ..."
-    publishedDateTime: 2023-05-17T21:31:00Z
-    webUrl: "https://www.govtech.com/artificial-intelligence/openai-ceo-artificial-intelligence-needs-regulation"
-    ampWebUrl: "https://www.govtech.com/artificial-intelligence/openai-ceo-artificial-intelligence-needs-regulation?_amp=true"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/artificial-intelligence/openai-ceo-artificial-intelligence-needs-regulation?_amp=true"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 74
-    images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/a994c68/2147483647/strip/true/crop/3000x1564+0+276/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F5f%2F7e%2F090092c2478c8fd16c8a9c7988c9%2Fbiz-ai-microsoft-dmt.jpg"
-        width: 840
-        height: 438
-        isCached: true
   - title: "OpenAI, IBM Urge Senate to Act on AI Regulation After Past Tech Failures"
     excerpt: "Executives from two major AI companies asked senators on Tuesday to pass regulations for the ground-breaking but nascent technology as rapid innovation raises ethical, legal and national security questions."
     publishedDateTime: 2023-05-16T16:04:00Z
@@ -240,6 +224,20 @@ related:
         width: 1100
         height: 717
         isCached: true
+  - title: "OpenAI proposed license to regulate AI, Baidu urges self content moderation"
+    excerpt: "Meanwhile, instead of concerning the lost jobs and artist rights, China-based Baidu, which launched Ernie Bot in March, focused more on socially and politically sensitive disinformation."
+    publishedDateTime: 2023-05-17T14:16:00Z
+    webUrl: "https://www.digitimes.com/news/a20230517VL202/ai-baidu-chatgpt-openai.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 37
+    images:
+      - url: "https://img.digitimes.com/newsshow/20230517vl202_files/1_2b.jpg"
+        width: 1280
+        height: 853
+        isCached: true
   - title: "OpenAI’s Sam Altman urges AI regulation in Senate hearing"
     excerpt: "Altman implored lawmakers to regulate artificial intelligence as members of the committee displayed a budding understanding of the technology."
     publishedDateTime: 2023-05-16T22:21:00Z
@@ -288,15 +286,6 @@ related:
       name: Inc
       domain: inc.com
     quality: 33
-  - title: "OpenAI chief set to call for greater regulation of artificial intelligence"
-    excerpt: "OpenAI’s chief executive Sam Altman will tell US lawmakers on Tuesday that regulation of artificial intelligence must allow companies to be flexible and adapt to new technological developments, as the industry faces growing scrutiny by regulators around the world."
-    publishedDateTime: 2023-05-16T10:44:00Z
-    webUrl: "https://www.ft.com/content/aa3598f7-1470-45e4-a296-bd26953c176f"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 30
   - title: "Sam Altman said all the right things to Congress, but the government won’t save you from AI"
     excerpt: "Opinion: The federal government is not going to come up with a framework or guardrails to protect us from AI anytime soon."
     publishedDateTime: 2023-05-17T22:03:00Z

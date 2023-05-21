@@ -77,6 +77,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "AFL backs Yes vote for Indigenous Voice"
+    excerpt: "“While we encourage everyone to seek the information they need to form their own views on the referendum, the AFL proudly supports the recognition of Aboriginal and Torres Strait Islander peoples in the Australian Constitution through the voice to ..."
+    publishedDateTime: 2023-05-18T07:29:00Z
+    webUrl: "https://www.afr.com/companies/sport/afl-backs-yes-vote-for-indigenous-voice-20230518-p5d9ja"
+    type: article
+    provider:
+      name: The Australian Financial Review
+      domain: afr.com
+    quality: 24
+    images:
+      - url: "https://static.ffx.io/images/$zoom_0.3082%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_359%2C$y_339/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/8541fcb0422a312b79f6b9ab016660001eb12034"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "AFL Commission announces support for a Voice to Parliament"
     excerpt: "The AFL is privileged to have a long history of Aboriginal and Torres Strait Islander leadership in our game, from the grassroots in every state and territory, through to the AFL and AFLW competitions."
     publishedDateTime: 2023-05-18T01:00:00Z

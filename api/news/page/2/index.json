@@ -2,6 +2,111 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-05-19-analysis-chatbots-for-mental-health-care-are-booming-but-theres-little-proof-that-they-help.md",
+      "title": "Analysis: Chatbots for mental health care are booming, but there’s little proof that they help",
+      "excerpt": "In the past few years, 10,000 to 20,000 apps have stampeded into the mental health space, offering to “disrupt” traditional therapy. With the frenzy around AI innovations like ChatGPT, the claim that chatbots can provide mental health care is on the horizon.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2023/05/19/health/chatbots-mental-health-partner-kff-health-news-analysis/index.html",
+      "originalUrl": "https://www.cnn.com/2023/05/19/health/chatbots-mental-health-partner-kff-health-news-analysis/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.cnn.com/api/v1/images/stellar/prod/230518200146-chatbots-mental-health-052023-restricted.jpg?c=16x9&q=w_800,c_fill",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2023/05/19/health/chatbots-mental-health-partner-kff-health-news-analysis/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/05/19/health/chatbots-mental-health-partner-kff-health-news-analysis/index.html",
+      "publishedDateTime": "2023-05-19T03:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-19-a-policy-agenda-for-responsible-ai-progress-opportunity-responsibility-security.md",
+      "title": "A policy agenda for responsible AI progress: Opportunity, Responsibility, Security",
+      "excerpt": "For society to reap the benefits of AI, opportunity, responsibility, and national security strategies must be baked into that shared AI agenda.",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/technology/ai/a-policy-agenda-for-responsible-ai-progress-opportunity-responsibility-security/",
+      "originalUrl": "https://blog.google/technology/ai/a-policy-agenda-for-responsible-ai-progress-opportunity-responsibility-security/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 150,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Kent_Walker_Keyword_SharedAgenda_AI_2.width-1300.png",
+          "width": 1300,
+          "height": 733,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/technology/ai/a-policy-agenda-for-responsible-ai-progress-opportunity-responsibility-security/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/a-policy-agenda-for-responsible-ai-progress-opportunity-responsibility-security/amp/",
+      "publishedDateTime": "2023-05-19T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2023-05-19-machine-learning-creates-new-technologies.md",
       "title": "Machine Learning Creates New Technologies",
       "excerpt": "Machine learning is finding increasing uses in developing new materials, including magnetic materials used for digital storage. Although not infallible, these approaches can speed scientific and engineering discoveries.",
@@ -287,7 +392,7 @@
       "originalUrl": "https://www.livemint.com/money/lessons-from-finance-s-experience-with-artificial-intelligence-11684407926757.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 108,
       "tags": null,
       "images": [
         {
@@ -812,7 +917,7 @@
       "originalUrl": "https://www.crn.com/news/cloud/why-google-cloud-bests-aws-microsoft-in-generative-ai-kevin-ichhpurani",
       "featuredContent": null,
       "highlight": null,
-      "heat": 80,
+      "heat": 70,
       "tags": null,
       "images": [
         {
@@ -1085,109 +1190,6 @@
       ],
       "topics": [
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-18-trump-supporters-and-christians-are-the-most-worried-that-ai-is-an-existential-threat-to-humanity-poll-says.md",
-      "title": "Trump supporters and Christians are the most worried that AI is an existential threat to humanity, poll says",
-      "excerpt": "Respondents who voted for Donald Trump for the 2020 presidency and identify as Evangelical Christians were most concerned about AI's potential risks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trump-supporters-christians-most-concerned-ai-threat-humanity-poll-2023-5",
-      "originalUrl": "https://www.businessinsider.com/trump-supporters-christians-most-concerned-ai-threat-humanity-poll-2023-5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/6466409b7224930019f364bc?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/trump-supporters-christians-most-concerned-ai-threat-humanity-poll-2023-5?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-supporters-christians-most-concerned-ai-threat-humanity-poll-2023-5?amp",
-      "publishedDateTime": "2023-05-18T08:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-18-uk-plans-meeting-on-ai-risks-with-openai-deepmind-bosses.md",
-      "title": "UK Plans Meeting on AI Risks With OpenAI, DeepMind Bosses",
-      "excerpt": "The UK government has invited bosses from some of the world’s biggest artificial intelligence firms to a meeting, people familiar with the matter said, as Prime Minister Rishi Sunak crafts a policy to manage the risks and benefits of the technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2023-05-18/uk-plans-meeting-on-ai-risks-with-openai-deepmind-bosses",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2023-05-18/uk-plans-meeting-on-ai-risks-with-openai-deepmind-bosses",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ilIvhpd0_UuM/v1/1200x802.jpg",
-          "width": 1200,
-          "height": 802,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-18T07:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg L.P.",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
       ]
     }
   ],

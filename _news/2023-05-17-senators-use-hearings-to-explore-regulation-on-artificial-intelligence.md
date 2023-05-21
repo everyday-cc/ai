@@ -18,110 +18,47 @@ topics:
   - AI
 
 related:
-  - title: "Big-name investors are going all-in on AI"
-    excerpt: "The Tiger Global founder told investors to buy the so-called FAANG stocks – shorthand for Facebook parent Meta ... It's not just individual investors who are caught up in the AI fanfare. In a research note last month, Morgan Stanley said that 2023 ..."
-    publishedDateTime: 2023-05-18T12:40:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/billionaire-investors-ai-chatgpt-bill-ackman-stanley-druckenmiller-big-tech-2023-5"
-    ampWebUrl: "https://markets.businessinsider.com/news/stocks/billionaire-investors-ai-chatgpt-bill-ackman-stanley-druckenmiller-big-tech-2023-5?amp"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/news/stocks/billionaire-investors-ai-chatgpt-bill-ackman-stanley-druckenmiller-big-tech-2023-5?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 89
-    images:
-      - url: "https://i.insider.com/62e3b3a0e1179200195ee85b?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Which Artificial Intelligence Stocks Are Institutional Investors Buying?"
-    excerpt: "We are currently witnessing ever-increasing use cases and growing acceptance of AI in every walk of life. Here are 7 AI stocks getting institutional attention."
-    publishedDateTime: 2023-05-19T17:22:00Z
-    webUrl: "https://www.forbes.com/sites/investor-hub/article/which-artificial-intelligence-stocks-are-institutional-investors-buying/"
+  - title: "AI Excites Healthcare, Yet It Urgently Needs Regulations"
+    excerpt: "The healthcare sector should pay attention to Sam Altman's statements on AI regulation. AI has exponential potential in healthcare but requires regulation."
+    publishedDateTime: 2023-05-21T03:11:00Z
+    webUrl: "https://www.forbes.com/sites/davidchou/2023/05/20/ai-excites-healthcare-yet-it-urgently-needs-regulations/"
+    ampWebUrl: "https://www.forbes.com/sites/davidchou/2023/05/20/ai-excites-healthcare-yet-it-urgently-needs-regulations/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidchou/2023/05/20/ai-excites-healthcare-yet-it-urgently-needs-regulations/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 68
+    quality: 104
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/646699007031f328f841e295/0x0.jpg?format=jpg&width=1200"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/646989f4cacc478d7bbd2c16/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 622
+        height: 800
         isCached: true
-  - title: "Corporate Investors Cut Bigger Checks for AI Startups"
-    excerpt: "Brushing aside the broader slump in venture capital, corporate VCs want access to cutting-edge business tools, and perhaps an acquisition later on."
-    publishedDateTime: 2023-05-16T10:00:00Z
-    webUrl: "https://www.wsj.com/articles/corporate-investors-cut-bigger-checks-for-ai-startups-f1adbd2d"
+  - title: "OpenAI CEO: Artificial Intelligence Needs Regulation"
+    excerpt: "(TNS) — Government regulation is “critical” to keep risks down with artificial intelligence such as ChatGPT, the CEO of the company behind the bot testified Tuesday. Speaking at a Senate hearing in Washington, OpenAI honcho Sam Altman addressed ..."
+    publishedDateTime: 2023-05-17T21:31:00Z
+    webUrl: "https://www.govtech.com/artificial-intelligence/openai-ceo-artificial-intelligence-needs-regulation"
+    ampWebUrl: "https://www.govtech.com/artificial-intelligence/openai-ceo-artificial-intelligence-needs-regulation?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/artificial-intelligence/openai-ceo-artificial-intelligence-needs-regulation?_amp=true"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 67
+      name: Government Technology
+      domain: govtech.com
+    quality: 74
     images:
-      - url: "https://images.wsj.net/im-782303/social"
-        width: 1280
-        height: 640
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/a994c68/2147483647/strip/true/crop/3000x1564+0+276/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F5f%2F7e%2F090092c2478c8fd16c8a9c7988c9%2Fbiz-ai-microsoft-dmt.jpg"
+        width: 840
+        height: 438
         isCached: true
-  - title: "AI boom could expose investors’ natural stupidity"
-    excerpt: "My colleagues, they study artificial intelligence,” the Israeli psychologist Amos Tversky once quipped. “Me, I study natural stupidity.” The co-founder of behavioural economics, who died in 1996, did not live to see 2023,"
-    publishedDateTime: 2023-05-19T07:56:00Z
-    webUrl: "https://www.reuters.com/breakingviews/ai-boom-could-expose-investors-natural-stupidity-2023-05-19/"
+  - title: "Regulation of Artificial Intelligence"
+    excerpt: "The introduction to the House of Commons of a Bill under the ten minute rule, by Labour MP Mick Whitley, on the regulation of artificial intelligence and workers' rights, from Wednesday 17 May."
+    publishedDateTime: 2023-05-17T18:08:00Z
+    webUrl: "https://www.bbc.co.uk/programmes/m001mh3k"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 67
-    images:
-      - url: "https://www.reuters.com/resizer/81uveTxWRNRyEmCdhAq5JfkEHTA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/SFDGX2C26VOFVHSZWAJP63GUOQ.jpg"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Although AI is a Bubble, It’s Still Investible"
-    excerpt: "Sam Altman, the CEO of OpenAI, which brought us ChatGPT, has gone to Congress to demand regulatory oversight of Artificial Intelligence (AI)"
-    publishedDateTime: 2023-05-18T19:09:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/although-ai-is-a-bubble-it-s-still-investible-1032338366"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
-  - title: "Zoom makes a big bet on AI with investment in Anthropic"
-    excerpt: "Zoom today announced a partnership with Anthropic to integrate its Claude AI assistant across its platform offerings."
-    publishedDateTime: 2023-05-16T18:07:00Z
-    webUrl: "https://venturebeat.com/ai/zoom-makes-a-big-bet-on-ai-with-investment-in-anthropic/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 47
-  - title: "How to invest in artificial intelligence"
-    excerpt: "But there is one area in which the firm, run by Son Masayoshi, its charismatic founder, wants to peek above the parapet: investments in artificial intelligence (ai). Investors face two questions. The first is which frontier technologies will make market leaders a fortune."
-    publishedDateTime: 2023-05-17T16:30:00Z
-    webUrl: "https://www.economist.com/finance-and-economics/2023/05/17/how-to-invest-in-artificial-intelligence"
-    type: article
-    provider:
-      name: The Economist
-      domain: economist.com
-    quality: 39
-    images:
-      - url: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20230520_FNP502.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "AI Alarmists Are Dragging Us All Down a Rabbit Hole"
-    excerpt: "Silicon Valley is fixated on longtermism — prioritizing future lives over those living today. This is very tricky moral math."
-    publishedDateTime: 2023-05-18T23:20:00Z
-    webUrl: "https://www.washingtonpost.com/business/2023/05/19/ai-longtermism-alarmists-are-dragging-us-all-down-existential-rabbit-hole/897ef2f0-f5fc-11ed-918d-012572d64930_story.html"
-    type: article
-    provider:
-      name: The Washington Post
-      domain: washingtonpost.com
-    quality: 39
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RDS3WYXV7QI63EMNAESXFVSJGA.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
+      name: BBC
+      domain: bbc.co.uk
+    quality: 17
 
 secured: "picArIWMy6Oxdxwq380XB+efU90KUReZpdjuxi9CvGHpCoyYrWsD8VIqJzIW0n2flkbGQEJaJRLhLOGHqW9EBYKKiJdGGJ8FIUX/XrNuUp64MhYe0v8RVEWOKmd5/T6TVV0l1hOj6DgIlNlWDj0VIMLvcCHcMD3zdLqWwE9pYZalzb85hIcgwatYegHSNmHju3a0hHSRC+a4EH+OVeCDVpGh40VZJxSePgojl5TZs0KV44V0AUwOLkwHHn+NSaLW8LEUqSlRDChHL/AdpNMjLcZrfPr9esPhTmW32tW6gOLWD4P0tx0DGA2WxT6v78Ph2uveAVGYksWeFHXhFUT4Spu8urOBT1J+n86DTvyRQamAD50CrGz9HP/w8FizLVW2lScT6imJBIHGrqbFyhEdlZFpKe1RJ8ISGxaeKKXgq4+zdbidHE39wVqYRtthPskZzx1uimjboJuZrl5zg1zCLcjthdBpnqcU+CFS6BqgGjcWWQiQoMXMoG7vWbEEuwIRPzIf6dss3v/JKQisvXTjGw==;fw+H8iwBotom7pKeAb8UXA=="
 ---

@@ -53,20 +53,6 @@ related:
         width: 1200
         height: 622
         isCached: true
-  - title: "Corporate Investors Cut Bigger Checks for AI Startups"
-    excerpt: "Brushing aside the broader slump in venture capital, corporate VCs want access to cutting-edge business tools, and perhaps an acquisition later on."
-    publishedDateTime: 2023-05-16T10:00:00Z
-    webUrl: "https://www.wsj.com/articles/corporate-investors-cut-bigger-checks-for-ai-startups-f1adbd2d"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 67
-    images:
-      - url: "https://images.wsj.net/im-782303/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "AI boom could expose investors’ natural stupidity"
     excerpt: "My colleagues, they study artificial intelligence,” the Israeli psychologist Amos Tversky once quipped. “Me, I study natural stupidity.” The co-founder of behavioural economics, who died in 1996, did not live to see 2023,"
     publishedDateTime: 2023-05-19T07:56:00Z
@@ -118,15 +104,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Senators use hearings to explore regulation on artificial intelligence"
-    excerpt: "The chairman of a Senate Judiciary panel said Tuesday that Congress should act soon to regulate artificial intelligence."
-    publishedDateTime: 2023-05-16T17:59:00Z
-    webUrl: "https://rollcall.com/2023/05/16/senators-use-hearings-to-explore-regulation-on-artificial-intelligence/"
-    type: article
-    provider:
-      name: Roll Call
-      domain: rollcall.com
-    quality: 17
 
 secured: "ilnjSpL1ZvzFaa3V4hfrRdJEKv1QJFA1S1nkNk4z1viomMQgirA83B1Ynyi0e+tqeaMSOk8UoJ2dE18OICMWIJwedOtVPSIeunRJYWFHdxF6VVWR+ojIA9jt5ppCCqzJPOw2x+DLjmdowGYEB/oGlsn6GDq1piTvEdpmfu5NoF4nJiEiNEqqbLYzEGCBrKU8ZHXnoO2DGaf1VKzdTZkoCZeruL5jezip3iSamnXZK1CcaKqH4GktjP5gohqTWrSUEHCBf7DNMAF/fSjxUF4px/zUTs1m0z1ydSBAWZEli7eJfo9XlIvBQHzb8yXcg6TfBCtHQFJiPReba+YBbvCJkoFYzj/W/3A3ABPzqMlhjQdT6n1oMp3zO/OiTpciytaQNTk4p7ZdJzPKXXKliloccukdlmw80jXNZZuZwDyHHNmKOC1vVco2P3+kr7fv3UFI9bI5fcu0zG465H0+lleykJLjJbaZtyh6/ZU4JjSRZjT2Z5JRfjn+cgMJiLhLiG7sDu2EQGuwrX4jZCdIOVPF4w==;10LltRCdSr75p/buYU1LBQ=="
 ---

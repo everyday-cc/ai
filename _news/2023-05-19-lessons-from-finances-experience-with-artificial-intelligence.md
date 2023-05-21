@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/money/lessons-from-finance-s-experience-wit
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/money/lessons-from-finance-s-experience-with-artificial-intelligence/amp-11684407926757.html"
 type: article
 quality: 76
-heat: 106
+heat: 108
 published: true
 
 provider:

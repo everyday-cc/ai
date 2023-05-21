@@ -7,7 +7,7 @@ originalUrl: "https://www.crn.com/news/cloud/why-google-cloud-bests-aws-microsof
 webUrl: "https://www.crn.com/news/cloud/why-google-cloud-bests-aws-microsoft-in-generative-ai-kevin-ichhpurani"
 type: article
 quality: 70
-heat: 80
+heat: 70
 published: true
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 610
     height: 489
     isCached: true
-
-related:
-  - title: "Cognitive Media Market Analysis and Industry Research Report 2022-2030 with Top Players like IBM, Google, AWS, Microsoft"
-    excerpt: "May 16, 2023 (Concur Wire via Comtex) -- New Jersey, United State: A new intelligence report released by Infinity Business Insights with title Cognitive Media Market ... We are specialized in offering the services in various industry verticals to recognize ..."
-    publishedDateTime: 2023-05-16T10:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cognitive-media-market-analysis-and-industry-research-report-2022-2030-with-top-players-like-ibm-google-aws-microsoft-2023-05-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 61
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "L8QOkL1muFdjEBE797IHap3u0OE+dRiouBd7Yxk3kRZ17O79+xkRyuSxlGs/eLlLSYbRAYDacuocKptqAlHvYWUXuu6EL7MmjjOquEqK/2lq1QhUstwng9bhFHULcBQ+6palRNviu0J4wojsRl5I9Ufmo57g2Q+886cDXfddmOTI7zvml4SemkEjIlz3VqerOFHuO34d9MKC62j2BYV4raSZMexv87QUImap3vglWBx83byiVikxv+ycCUMCH/oOI34x930oQWKp/GzZ3JmOYCz2dTlYpxl+Od7jXUgqhduBWgtaejvSDSVdCnre2vKaNJ01iBPTaVmam7gstUMowXYpGZRdBpCBC/BcZkEKJcOKs7KvAEJaVdxudoNXg96BDY0P5U4/a0/gOuMIBmVQLOylN8X6v9nL6+jNTVN62sJk3FHMKrkN3fxVkXpsCLcVoWQu8gvX5DRsx4RZ183oytZw+38WhuD2BZl91h6skIo8ngZ1h/vzDftzvZm+Wj6ThgJYwNeVo/PTG49zq4d0Og==;+xrKzM4bjNIoWPCDYbC7Mg=="
 ---

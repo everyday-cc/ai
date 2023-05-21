@@ -79,15 +79,6 @@ related:
         width: 768
         height: 438
         isCached: true
-  - title: "Regulation of Artificial Intelligence"
-    excerpt: "The introduction to the House of Commons of a Bill under the ten minute rule, by Labour MP Mick Whitley, on the regulation of artificial intelligence and workers' rights, from Wednesday 17 May."
-    publishedDateTime: 2023-05-17T18:08:00Z
-    webUrl: "https://www.bbc.co.uk/programmes/m001mh3k"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 17
 
 secured: "55M9Qrw70OC6bqDxTutjzK0vBixLpbmUVSMtndi7mMCVQUwQRwLnWAk3nei8kJiGw/0OP+AlEDOqLIwqChbgSFLJbmmky+UYDf8BONoaBi4er8qOEfaFTacSmOFWaWYBQ6s6N9+JGA0bOEKjIwWCAShxPnQDtdGkjIefBwRzcqc4r1n/c41g0W/65xD0N/ZgSio0aqdqE2mbPqm4Pr8PpxezygyFLFxkV2i+GoIUwK2Ypcuc9qcQL2Tpatyn9GAhH5xv0eecjNEsDYg9pt1RnPPoGR/cz/CQYdLSCoYrpPaWvg0u3kkSZwrWk3H4DPszo12CURnny1Y2clOl2Mg9vb6YEcuI4EXjRbLxz+CbgZsDoYFv4EB4EJewZkxu+uXzX+vu1aDDV1OBPQrzFpfpB7SBEaREO3csXje3oihL/KkxOSxoFbUEDzej/yqZ1RM7FusQ/b2xYkSpGMrzgIXNadlo1RgAJgHvdKBHIdTKRrfBf9gOTZspng0eGz6GkPy0VAxRF6Il/sIM0lQ7U+2zzQ==;EgoRUmbF8/woVsmEvPklkQ=="
 ---

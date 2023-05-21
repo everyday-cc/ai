@@ -69,15 +69,6 @@ related:
         width: 1440
         height: 810
         isCached: true
-  - title: "Fugitive ex-Apple engineer charged for trying to steal self-driving car tech"
-    excerpt: "The Justice Department said Tuesday it has charged a former Apple engineer with attempting to steal the firm’s technology related to autonomous systems, including self-driving cars, and then fleeing to China. The case was among five announced on Tuesday ..."
-    publishedDateTime: 2023-05-16T18:36:00Z
-    webUrl: "https://nypost.com/2023/05/16/fugitive-ex-apple-engineer-charged-for-trying-to-steal-self-driving-car-tech/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 1
 
 secured: "tMzaB2vISyuUyLydtYTYA0PeKavh3uGClm3J5BmcLjSwo/PS6rvtKRT3gljuGEolUTB0gktWPQHIlArP9HpIGJUZIITvYZKzzOJ84/WwSr5Bm9G7pnXiuXXVmt5iXXcIgQKwb4PM7r+DocaCSYaHu8H1cBi/ab7A0DVkOXjibhHfEYC0I/xjvjmuSLZI53FTxUONUJMHStsDCG3H8a2MOlvxLqreNKV6ejjgrQRy0XLHNVMHJKmANwoRUnekqaBXd0A2QPpcyK9X1CosM5yrJq+Jif9jXtuU0dlZLtiNNwHCs7ETkavpoUrjMHBcbCYFz07GT3rcckMNfBdMfht8MMOJhEBit057xyso6shhnhAqK+AMaN9W8YRsI41noYHp+XI6kEER0qLSIdtbybKFgNJAgzfTPB4ZQFg7ssAsIGBCUGVsCB5sfRNzHoJ+QDiI9EgoTKC1szX1h7iCUcE0CkPOI2qYxOzDOvx3QZjbt91tVuqBdQ8DvyXrKcqUCnWspYLj7Rkb9utQ7PbZsNkOAQ==;qkfp2qOg9AKEMsZn51RCsg=="
 ---

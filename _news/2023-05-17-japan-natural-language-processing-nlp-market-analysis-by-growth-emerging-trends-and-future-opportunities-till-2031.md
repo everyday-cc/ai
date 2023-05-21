@@ -65,34 +65,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "2023 Deep Learning Market Price & News with Size Forecast 2030"
-    excerpt: "Deep Learning Market Research Report 2023 is spread across 115 pages and provides Size, Share, Growth, and Forecast with exclusive vital statistics, data, information, trends, and competitive landscape details in this niche sector. The global Deep Learning ..."
-    publishedDateTime: 2023-05-16T10:31:00Z
-    webUrl: "https://www.marketwatch.com/press-release/2023-deep-learning-market-price-news-with-size-forecast-2030-2023-05-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Latest Report: Global “Natural Language Processing (NLP) Market” Trends [2023-2030]| Examining Future Advancements and Regional Insights"
-    excerpt: "[91 Pages Updated Report] The most recent \"Natural Language Processing (NLP) Market\" research report provides a comprehensive analysis of the main growth drivers, market size estimations, and forecasts. The report examines the current market scenarios ..."
-    publishedDateTime: 2023-05-16T10:31:00Z
-    webUrl: "https://www.marketwatch.com/press-release/latest-report-global-natural-language-processing-nlp-market-trends-2023-2030-examining-future-advancements-and-regional-insights-2023-05-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 51
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Natural Language Processing Technology Market 2023 Top Key Players, Industry Demand, Future Estimations and Key Tactics to 2029"
     excerpt: "The research study also includes key data of the Natural Language Processing Technology market, such as market size, revenue, growth rate, CAGR, and product price. The report also has the strategies to recover from the impacts of Covid-19 and strategies used by prominent market players to drive the growth of the Natural Language Processing Technology market."
     publishedDateTime: 2023-05-16T18:49:00Z

@@ -477,15 +477,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 47
-  - title: "ChatGPT’s Sam Altman Faces Senate Panel Examining Artificial Intelligence"
-    excerpt: "Photo illustration: Elena Scotti WASHINGTON—The chief executive of ChatGPT creator OpenAI is set to testify before a Senate panel Tuesday as lawmakers begin a bipartisan push toward regulating the powerful new artificial-intelligence tools available to ..."
-    publishedDateTime: 2023-05-16T09:30:00Z
-    webUrl: "https://www.wsj.com/articles/chatgpts-sam-altman-faces-senate-panel-examining-artificial-intelligence-4bb6942a"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 46
   - title: "ChatGPT's chief testifies before Congress, calls for new agency to regulate artificial intelligence"
     excerpt: "The head of the artificial intelligence company that makes ChatGPT told Congress on Tuesday that government intervention “will be critical to mitigate the risks of increasingly powerful” AI systems. O"
     publishedDateTime: 2023-05-16T16:36:00Z
@@ -782,17 +773,6 @@ related:
         width: 960
         height: 575
         isCached: true
-  - title: "ChatGPT’s chief to testify before Congress as concerns grow about artificial intelligence"
-    excerpt: "The head of the company that makes ChatGPT is set to testify before Congress as lawmakers call for new rules to guide the rapid development of AI technology."
-    publishedDateTime: 2023-05-16T11:01:00Z
-    webUrl: "https://www.seattletimes.com/business/chatgpts-chief-to-testify-before-congress-as-concerns-grow-about-artificial-intelligences-risks/"
-    ampWebUrl: "https://www.seattletimes.com/business/chatgpts-chief-to-testify-before-congress-as-concerns-grow-about-artificial-intelligences-risks/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/chatgpts-chief-to-testify-before-congress-as-concerns-grow-about-artificial-intelligences-risks/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 28
   - title: "EXCLUSIVE: Roundhill Investments Launches Generative AI ETF In Wake Of ChatGPT Growth - Here Are The Key Holdings"
     excerpt: "Roundhill Investments has launched a new exchange-traded fund, offering investors the opportunity to secure a diversified portfolio of stocks within the burgeoning generative artificial intelligence space."
     publishedDateTime: 2023-05-18T13:28:00Z
@@ -897,15 +877,6 @@ related:
       name: New York Post
       domain: nypost.com
     quality: 17
-  - title: "Qualcomm bets big on Hybrid artificial intelligence in ChatGPT, Bard era"
-    excerpt: "AI models with more than 1 billion parameters are already running on phones with performance and accuracy levels similar to those of the cloud"
-    publishedDateTime: 2023-05-16T09:49:00Z
-    webUrl: "https://www.business-standard.com/technology/tech-news/qualcomm-bets-big-on-hybrid-artificial-intelligence-in-chatgpt-bard-era-123051600345_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 16
   - title: "AI should be regulated by the U.S. or a global agency, ChatGPT chief says"
     excerpt: "The head of the artificial intelligence company that makes ChatGPT told Congress on Tuesday that government intervention “will be critical to mitigate the risks of increasingly powerful” AI systems."
     publishedDateTime: 2023-05-16T19:13:00Z
@@ -933,15 +904,6 @@ related:
       name: The Indianapolis Star
       domain: indystar.com
     quality: 10
-  - title: "ChatGPT’s chief to testify before Congress as concerns grow about artificial intelligence’s risks"
-    excerpt: "The head of the artificial intelligence company that makes ChatGPT is set to testify before Congress as lawmakers call for new rules to guide the rapid development of AI technology. OpenAI CEO Sam"
-    publishedDateTime: 2023-05-16T11:00:00Z
-    webUrl: "https://www.wboy.com/technology/chatgpts-chief-to-testify-before-congress-as-concerns-grow-about-artificial-intelligences-risks/"
-    type: article
-    provider:
-      name: WBOY
-      domain: wboy.com
-    quality: 6
   - title: "ChatGPT on Mars: How artificial intelligence-powered chatbot can assist scientists to decode the Red Planet"
     excerpt: "The AI-powered ChatGPT can help scientists in space to research the red planet and automate processes in the future."
     publishedDateTime: 2023-05-17T12:24:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://markets.businessinsider.com/news/stocks/billionaire-investor
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/news/stocks/billionaire-investors-ai-chatgpt-bill-ackman-stanley-druckenmiller-big-tech-2023-5?amp"
 type: article
 quality: 89
-heat: 169
+heat: 149
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/646699007031f328f841e295/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 622
-        isCached: true
-  - title: "Corporate Investors Cut Bigger Checks for AI Startups"
-    excerpt: "Brushing aside the broader slump in venture capital, corporate VCs want access to cutting-edge business tools, and perhaps an acquisition later on."
-    publishedDateTime: 2023-05-16T10:00:00Z
-    webUrl: "https://www.wsj.com/articles/corporate-investors-cut-bigger-checks-for-ai-startups-f1adbd2d"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 67
-    images:
-      - url: "https://images.wsj.net/im-782303/social"
-        width: 1280
-        height: 640
         isCached: true
   - title: "AI boom could expose investors’ natural stupidity"
     excerpt: "My colleagues, they study artificial intelligence,” the Israeli psychologist Amos Tversky once quipped. “Me, I study natural stupidity.” The co-founder of behavioural economics, who died in 1996, did not live to see 2023,"
@@ -119,15 +105,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Senators use hearings to explore regulation on artificial intelligence"
-    excerpt: "The chairman of a Senate Judiciary panel said Tuesday that Congress should act soon to regulate artificial intelligence."
-    publishedDateTime: 2023-05-16T17:59:00Z
-    webUrl: "https://rollcall.com/2023/05/16/senators-use-hearings-to-explore-regulation-on-artificial-intelligence/"
-    type: article
-    provider:
-      name: Roll Call
-      domain: rollcall.com
-    quality: 17
 
 secured: "1m6JzGzxPBab2+YONSiCqnnK03IeTjghZVBJKhaUXIj0n2tKcEj9nTAYh5ZsPfGMJEfOjaMpRnU9jp8rC6wpFz4r+fe6TX464oRVROC2KNjOna93IGeYZ3TFSaHr0OXmCcXKx70ZPUHujs8c3tWkKSPGMLXI5/4uzkNDUcrpTc6oOjzGT1nkpgDydOZU9tXEPdIu29fkBytlezRRlsZ715CB6XDNxl+e9qNLWIMNCPdbLpiuChZlD6dqDnUib9b0wlTCNvWGQqyY2e2r5o6Yv+jd0zxL4x0SO4NIiIJveWQASA4MbXU/+P7myti57ZCOCZAMl3a3XPuFMSmZFQBwWdmqvvfPecQib7bKnV0pBVOXclrHXJ+ipPH/o4ybi2HCBM5eu4TWThu9WAuA8QYsRtISAbL+srrL3TGNdZC3oGyzbFV/zgFHS55HslJJA4ahAvW2hbhCKlt/t20Uyi0bHwV2omvI//bwRR+BvKnFX5jbmL+/ZY1mFiZFKOb3ENmzp9jqmTbw7q8usDTCBplIYg==;w/3W4W51Z44OIjRMT08UPQ=="
 ---

@@ -98,20 +98,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Speech & Voice Recognition Systems Market 2023-2030"
-    excerpt: "May 16, 2023 (The Expresswire) -- Speech and Voice Recognition Systems Market | Outlook 2023-2028 | Pre and Post-COVID Research is Covered, Report Information | Newest 116 Pages Report The extent and overview of the various commercial opportunities ..."
-    publishedDateTime: 2023-05-16T10:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-voice-recognition-systems-market-2023-2030-2023-05-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "pqcwc0/gXwTtbp885rZZngj1ey0ACt8GD8+t9zCH2GqY2Rpanp0AamQtS0gZWjTcYOttQj11j6LTRNiKRz6X6t83Eq2o3aTOhXYznTOgn7FNSDXXPNmxdsXu35IwoQfnHhH6epvjo/+ZLUlgr8WalMpBCZSg5GCxpq+xcp6JHOiGX07YzAh9gD2dak6zC37ypCoRZwjx1+z18JJtbwQcwbAJKj0M/kbqDAEgv/Vdxoc6FJLk+u0URMqnhKkywJNUe85J73JgqobDcuDjMRmSQOtwtVYc/qZyRwfxgGin0fkriKcRFEmvZl3JMjERwdXL1VmLzNRGRGtrRzlprpLT5k/uz2IJDj9GKyVZf0pMuSs=;d6GyqknkBtnzf/oMzrBroA=="
 ---

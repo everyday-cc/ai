@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/face-recognition-systems
 webUrl: "https://www.marketwatch.com/press-release/face-recognition-systems-market-2023-2030-size-and-driving-growth-2023-05-17"
 type: article
 quality: 69
-heat: 199
+heat: 209
 published: true
 
 provider:
@@ -99,6 +99,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "2023-2030 Computer Vision Market: Highlights with Growth Rate"
+    excerpt: "Computer Vision Market Report Insights: (Report Pages: 107) CAGR and Revenue: “CAGR of 31.74% during the forecast"
+    publishedDateTime: 2023-05-17T04:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-2030-computer-vision-market-highlights-with-growth-rate-2023-05-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
   - title: "Self Driving Bus Market Size 2023, Latest Trends, Growth Drivers, Industry Analysis by Top Companies and Forecast 2028"
     excerpt: "Self Driving Bus Market Size, Share, and Covid-19 Impact Analysis, By Type (Advanced Metering Infrastructure and Auto"
     publishedDateTime: 2023-05-17T05:30:00Z

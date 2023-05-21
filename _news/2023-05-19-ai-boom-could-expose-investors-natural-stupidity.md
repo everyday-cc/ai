@@ -58,20 +58,6 @@ related:
         width: 1200
         height: 622
         isCached: true
-  - title: "Corporate Investors Cut Bigger Checks for AI Startups"
-    excerpt: "Brushing aside the broader slump in venture capital, corporate VCs want access to cutting-edge business tools, and perhaps an acquisition later on."
-    publishedDateTime: 2023-05-16T10:00:00Z
-    webUrl: "https://www.wsj.com/articles/corporate-investors-cut-bigger-checks-for-ai-startups-f1adbd2d"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 67
-    images:
-      - url: "https://images.wsj.net/im-782303/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Although AI is a Bubble, It’s Still Investible"
     excerpt: "Sam Altman, the CEO of OpenAI, which brought us ChatGPT, has gone to Congress to demand regulatory oversight of Artificial Intelligence (AI)"
     publishedDateTime: 2023-05-18T19:09:00Z
@@ -118,15 +104,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Senators use hearings to explore regulation on artificial intelligence"
-    excerpt: "The chairman of a Senate Judiciary panel said Tuesday that Congress should act soon to regulate artificial intelligence."
-    publishedDateTime: 2023-05-16T17:59:00Z
-    webUrl: "https://rollcall.com/2023/05/16/senators-use-hearings-to-explore-regulation-on-artificial-intelligence/"
-    type: article
-    provider:
-      name: Roll Call
-      domain: rollcall.com
-    quality: 17
 
 secured: "uVNCI2Eo0evybpyth5IcHe3ehRPNUI5BHhSvktQyhqO7x2B8kIR91mI8YoD1YsUfkuvT2YGuILaQZsO/924uRyCVK2nRb1DEzWMcWMAC4ZFNeIFW63o34C0LLiJSzY6ErbwNiK3a2qtvjwD68yL5FWBRNEyrZIZYzrngNy1dUuYTyM3F5p1Q9EjUXCwnQMuzwvR9t8GyjXaDnrESAcAQxFgsY4aeOrw68IUtwvpfkHCNjVmal26q/MPBbv6PriJvOw+nV6GRoWOZzS4qVH3YJ6GfBadBlS+npB3smB8mAG3xWL4Ez9zWD1sgwUE1w404AqQquB3DrPV5DDW00RlaP/5EcvhkezGFwV85tk8dLoekOzc6IDK2u1/5ibMu7Npt0JJYSEYpQ9ax5jujDp86miagxiFX09ckTKo9rSjKIn5TexQ8dOsVAQ888QCIhJ1xDxI9qkQJhc2+ms1SVFUCHJjes8XfCXMHkNQzl/B2bjLoqa3aOqIjRwoUVwHl8sinX7ch4ftFkKTE6gH4PT8TMg==;GHLjypk9mP7BXooSq0OWoA=="
 ---

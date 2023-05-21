@@ -113,6 +113,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "2023-2030 Computer Vision Market: Highlights with Growth Rate"
+    excerpt: "Computer Vision Market Report Insights: (Report Pages: 107) CAGR and Revenue: “CAGR of 31.74% during the forecast"
+    publishedDateTime: 2023-05-17T04:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-2030-computer-vision-market-highlights-with-growth-rate-2023-05-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
   - title: "2030, Facial Recognition Door Lock Market Growth | Expansion Plan and Latest Updates"
     excerpt: "The \"Facial Recognition Door Lock Market\" research report for the period 2023-2030 offers a comprehensive analysis of"
     publishedDateTime: 2023-05-16T12:42:00Z

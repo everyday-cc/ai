@@ -117,15 +117,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 47
-  - title: "This Magnificent Fintech Stock Is Surprisingly Climbing Aboard the Generative AI Train"
-    excerpt: "Therefore, AI is the hot topic of 2023. And fintech company Block (NYSE: SQ) has officially entered the conversation. To be clear, almost all technology companies have used some form of AI or ..."
-    publishedDateTime: 2023-05-16T10:37:00Z
-    webUrl: "https://www.nasdaq.com/articles/this-magnificent-fintech-stock-is-surprisingly-climbing-aboard-the-generative-ai-train"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 41
   - title: "State of AI adoption for enterprise IT management in the Middle East"
     excerpt: "With large language models (LLMs) in the market, the AI hype cycle is at an all-time high, and AI adoption is gaining traction."
     publishedDateTime: 2023-05-19T11:30:00Z
@@ -154,15 +145,6 @@ related:
         width: 300
         height: 373
         isCached: true
-  - title: "Amazon is working on infusing generative AI into its shopping app"
-    excerpt: "Rivals adding generative AI features and consumer demand may be the two reasons behind Amazon’s push in revamping the search engine of its retail application. In the US, about 56% of product searches start on Amazon, higher than the 42% share of search ..."
-    publishedDateTime: 2023-05-16T09:52:00Z
-    webUrl: "https://www.computerworld.com/article/3696691/amazon-is-working-on-infusing-generative-ai-into-its-shopping-app.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 17
 
 secured: "Ph1jouCGE/8e4a/NdStmFGWOP+BOE3zGqHyW/ku7KvVgdc8hc0n1Kwu7xDL+Q9Tw2+hcmC6V6+JlY2xnNjf04/iOvTNqBOhj7XgijeqsxQDJfB9uDVE7rDNzn4qpdyTdIpY+k6PWahekULsqAL2C0CFDGNycbG3+ywUb6PsXYXz8353aBxMCPr8FcSiiNzE/RRYUHa1+7rgrFhUMCHbFOS8HHjaR0buo1SS0ioxPKTaaoJbxr9d7zegQHYFTRUddXIVnU5nXKuEnmFGPaQxFdAgXYiVRHOceXsPkhNvB80b0GjUSwy9mrqLH1QelNB3vebTLdjJVt0YRGVHtQX7OSK35+FBbQWlcdhm6U+6tNA9jdRVhEUw6aYodQWQBVDR+wlA3fiyLXLjW26POJElJ2cfitlsASrl0zdMnLYdq+ClkrjMwwZwwnHOeTN6H1QF55gvigCSArVQAftlRlIGfS1cT07tdvMF3RH1ja8K2Irq1Sd9MdPT5/o1kKH8WR291nNcZscsafGdz6GBNvgEL+Q==;jsAqEt5xX2RadJkUFrmLoQ=="
 ---

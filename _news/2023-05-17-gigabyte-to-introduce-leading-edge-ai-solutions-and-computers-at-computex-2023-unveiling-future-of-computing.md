@@ -102,15 +102,6 @@ related:
       name: New Electronics
       domain: newelectronics.co.uk
     quality: 34
-  - title: "Nvidia turns to AI to speed up manufacturing"
-    excerpt: "More for less to put this widget in that thing, Nvidia founder Jensen Huang said that artificial intelligence was being used to accelerate computer chip manufacturing and create advanced microprocessors."
-    publishedDateTime: 2023-05-16T09:54:00Z
-    webUrl: "https://www.fudzilla.com/news/ai/56897-nvidia-turns-to-ai-to-speed-up-manufacturing"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 19
 
 secured: "jAMFfGr2HF1LKp5gEnoHU/85IBXq2yQLiiH1atOXTLd8P+d1RS49JUgRwkzDejiZVB2QJQo0g7eVRbIaURArGyFJb2S34Y+kUc5IFD8/k/2MJOcpfsdSJbH30fN+CeBI7GKFx4rLQpx0LzCbHnmhODh/LdpxiW3OngBfFQdc2qtxqiMgcnu9YJpRhAXq14qyWC7Hk6LwE3jQVP7X1RXnK9XBZj3V1XaKb5i85sm4wly4eisteBZHdmGp3f78ffbvHZ/k0B4fUE6NGJfJCuZsL1727G0b5vKep+R7M/Rs9VL4q9FFiqAQY+eZEPKwQXBQxNE3m/SIMF0RvsB6hxD4PH7eeU7HiujAHZ+yxyoaVTZZEgummp5PQsq8GbuSs2Ig3vvztrcLx9SGbcznbUEa9JV3I1sSR77y4l6wtuFEqQGQT7n6uzRV6PfKOIoPa4BELPwhR5LxSsC90YWqb/2GFJTtpDS4YLCYLqUIWhL2osMJnAu5xJiBmtycnnHNMrd6+MkpjUKrk9HktTAULMiJIA==;WzrNGbf3Dk9MI3QtA6jx5A=="
 ---

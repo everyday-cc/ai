@@ -112,15 +112,6 @@ related:
         width: 724
         height: 483
         isCached: true
-  - title: "This Magnificent Fintech Stock Is Surprisingly Climbing Aboard the Generative AI Train"
-    excerpt: "Therefore, AI is the hot topic of 2023. And fintech company Block (NYSE: SQ) has officially entered the conversation. To be clear, almost all technology companies have used some form of AI or ..."
-    publishedDateTime: 2023-05-16T10:37:00Z
-    webUrl: "https://www.nasdaq.com/articles/this-magnificent-fintech-stock-is-surprisingly-climbing-aboard-the-generative-ai-train"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 41
   - title: "State of AI adoption for enterprise IT management in the Middle East"
     excerpt: "With large language models (LLMs) in the market, the AI hype cycle is at an all-time high, and AI adoption is gaining traction."
     publishedDateTime: 2023-05-19T11:30:00Z
@@ -149,15 +140,6 @@ related:
         width: 300
         height: 373
         isCached: true
-  - title: "Amazon is working on infusing generative AI into its shopping app"
-    excerpt: "Rivals adding generative AI features and consumer demand may be the two reasons behind Amazon’s push in revamping the search engine of its retail application. In the US, about 56% of product searches start on Amazon, higher than the 42% share of search ..."
-    publishedDateTime: 2023-05-16T09:52:00Z
-    webUrl: "https://www.computerworld.com/article/3696691/amazon-is-working-on-infusing-generative-ai-into-its-shopping-app.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 17
   - title: "Is generative AI the secret to scaling customer success?"
     excerpt: "Generative AI can even learn to personalize the tone, style, and voice of your content to fit your brand so that all you need to do is fact-check, finesse, and humanize it. But amid all this promise, where do you start incorporating AI into your customer ..."
     publishedDateTime: 2023-05-18T13:32:00Z

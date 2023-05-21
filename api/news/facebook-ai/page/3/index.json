@@ -2,40 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2023-04-06-meta-reveals-ai-tool-to-help-brands-target-facebook-instagram-users.md",
-      "title": "Meta Reveals AI Tool to Help Brands Target Facebook, Instagram Users",
-      "excerpt": "Meta’s recent embrace of AI is only growing, with new plans for generative ads—and Meta’s CTO thinks AI will help power the metaverse, too.",
-      "sourceUrl": null,
-      "webUrl": "https://decrypt.co/125512/meta-reveals-ai-tool-help-brands-target-facebook-instagram-users",
-      "originalUrl": "https://decrypt.co/125512/meta-reveals-ai-tool-help-brands-target-facebook-instagram-users",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-05T11:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "YAHOO!Finance",
-        "domain": "decrypt.co",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-04-05-meta-to-debut-ad-creating-generative-ai-this-year-cto-says.md",
       "title": "Meta to debut ad-creating generative AI this year, CTO says",
       "excerpt": "TOKYO -- Facebook owner Meta intends to commercialize ... The company, which began full-scale AI research in 2013, stands out along with Google in the number of studies published.",

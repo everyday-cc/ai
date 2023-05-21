@@ -94,15 +94,6 @@ related:
       name: New Electronics
       domain: newelectronics.co.uk
     quality: 34
-  - title: "Nvidia turns to AI to speed up manufacturing"
-    excerpt: "More for less to put this widget in that thing, Nvidia founder Jensen Huang said that artificial intelligence was being used to accelerate computer chip manufacturing and create advanced microprocessors."
-    publishedDateTime: 2023-05-16T09:54:00Z
-    webUrl: "https://www.fudzilla.com/news/ai/56897-nvidia-turns-to-ai-to-speed-up-manufacturing"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 19
   - title: "GIGABYTE to Introduce Leading-Edge AI Solutions and Computers at COMPUTEX 2023, Unveiling “Future of COMPUTING”"
     excerpt: "Take the Lead in the AI Era with GIGABYTE’s Trailblazing GPU/HPC Servers The emergence of ChatGPT and various generative AI applications are making huge waves of industry evolution, driving all-time demand for AI computing servers. At COMPUTEX ..."
     publishedDateTime: 2023-05-17T03:16:00Z

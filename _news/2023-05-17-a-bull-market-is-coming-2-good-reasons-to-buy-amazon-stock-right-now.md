@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2023/05/17/bull-market-good-reasons
 webUrl: "https://www.fool.com/investing/2023/05/17/bull-market-good-reasons-to-buy-amazon-stock-now/"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -27,17 +27,6 @@ images:
     width: 2064
     height: 1452
     isCached: true
-
-related:
-  - title: "AI Stock Short Squeeze Coming? Why C3.ai Is a Buy Regardless"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Since the height of mania over artificial intelligence stocks during March,"
-    publishedDateTime: 2023-05-16T10:15:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ai-stock-short-squeeze-coming-why-c3-ai-is-a-buy-regardless-1032330592"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
 
 secured: "jOLAoQ/K+1tT8LeikUKOy1mBO0RV6qKKyXYPCRwFP+WQtR6vNoiBb7HUisaxw2k6S/oYAHh3zgaMudizl6nMtVSBQtDrQNZHZgNzMGZIMsZDry4ZEYXepjUFyq8qVEXII+k0WtVN3PqtJKS0a7ZkDey2VCuRuIM99DSx1thHI+tJKVcoTty/OgXUmtnEeDyCryiAA/fLiuS+hh+44H+an+2/PdpxZCtO44e+voOVs96j+99hcyQgz6/1ChgTz+of7jKgiIhheqe2TEaEhSoDg18es7ZCj1u6c4WaHl2oBQm8jvX+190Z+rmnT3HVx6WfWkto32f6tJa2ezwTqV+Zlf0O2+vmu3HyCQp5hbMgACU=;+QbaLXBstJUjCsE2niYHyA=="
 ---
