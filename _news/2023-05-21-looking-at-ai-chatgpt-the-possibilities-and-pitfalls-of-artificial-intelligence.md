@@ -395,20 +395,6 @@ related:
         width: 1200
         height: 640
         isCached: true
-  - title: "ChatGPT's Altman pleads US Senate for AI rules"
-    excerpt: "WASHINGTON - Sam Altman, the chief executive of ChatGPT's OpenAI, told US lawmakers on Tuesday that regulating artificial intelligence was essential, after his poem-writing chatbot stunned the world."
-    publishedDateTime: 2023-05-17T00:45:00Z
-    webUrl: "https://www.bangkokpost.com/world/2572409/chatgpts-altman-pleads-us-senate-for-ai-rules"
-    type: article
-    provider:
-      name: Bangkok Post
-      domain: bangkokpost.com
-    quality: 39
-    images:
-      - url: "https://static.bangkokpost.com/media/content/20230517/c1_4759179_700.jpg"
-        width: 700
-        height: 467
-        isCached: true
   - title: "ChatGPT/AI is coming for the workplace"
     excerpt: "Microsoft, in its latest “Work Trend Index” report, promises that the use of AI at work is the technology of that's going to make work easier"
     publishedDateTime: 2023-05-18T04:00:00Z
@@ -625,6 +611,6 @@ related:
       domain: krqe.com
     quality: 0
 
-secured: "mmCsseS1SKQ2dztPL2t521QeKmQqOAiGLieXP1ynlxD1webGq804JC3qiQmzrTwKGp81xslwgSIqAOOD7cM1wSCLgns8pm7GRDsSBY/N5nXC+96SsSJQo6MF0CHkS2cAjNhZGh8slRUlS4j8HYaTUbSEB3WYh9jdiLN+2YrTk5nQb25ukSOqBMML+b4bTfyLHd4uldvpjJTBqpiwTh0g0sDzaQd3VN/wU755aqBCCxV3wLBu2PReoOJYnw7kC9sm8HkugW4sMzYRfm5t0hsoYCjwkkRhPTuhT4Dur+3D3GI6bShQaW+huy/b8bXuKMPz/WQynDn6gq7r3c7nD7KCvHlsHb0d66Q22NXLrdz3+Og=;YqO9MeJwhTqmaT1WcgvakA=="
+secured: "JtEi1aw+9LpGHOa4byp79sMzbd2ejvK74sSK3VQkOpk7edUmD7EtyMTgapL7EN1R1UjB6t+f5efliSRfrrvkFGM7JT41He/C8c2qoWCVXalPjBgVSWUk7D5DVXaFlNUCP2CLv8LIS2sU1R90IzNMkekxdY+LO3gOmVJ/OuUXxvuc5fDjvPUDrjAbphGBsR1SREgkxlGXkVer4kqOS+o2IsjNj2u5khsWk0kKM8agALpBHyKiq+MDNk0H7OVQJECDUl1azBLpz4yARl2BzoiXF6K5cdexmz39V63FZOmLEPJupSz7SijkYY/g0eiuR5Xfr1kmZS2zBu0Ow85M8feUcr+t7A+g1ytg5GraQNFqiPpgq7IjIZCpdOeojMGZEwDKvHSnY54pj2auLSk59+pKOD+SnZK/47+GmeYSLW7cG0mb/xN6rLHzyRDJqGchyxvJ49hjlUS71WKRu/LW076K3qn7IgUDnwjrYit0tQ3uZul55HbBiifFJewISA9EkClcGXWerQJAp7TrAEOzX1Xh/g==;JSlAc9osJkyqZvIRsFY4uw=="
 ---
 

@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "Cursed New AI Calls Debtors to Hassle Them for Money"
+    excerpt: "The rise of AI coincides with all-time debt highs — and one startup is cashing in by having AI robocalls do way more collections than humans."
+    publishedDateTime: 2023-05-21T16:16:00Z
+    webUrl: "https://futurism.com/the-byte/ai-debt-collection-robocalls"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 37
+    images:
+      - url: "https://wp-assets.futurism.com/2023/05/ai-debt-collection-robocalls.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "How Scottish Mortgage and other trusts are playing the AI revolution"
     excerpt: "News archive including articles on Fund Managers, Fund Selection, Asset Allocation, Absolute Return, Offshore Investments, Tax Shelters, Insurance bonds. How Scottish Mortgage and other trusts are pla"
     publishedDateTime: 2023-05-18T16:01:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.theverge.com/2023/5/17/23726769/apple-baidu-self-drivi
 webUrl: "https://www.theverge.com/2023/5/17/23726769/apple-baidu-self-driving-trade-secrets-stolen"
 type: article
 quality: 69
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -116,15 +116,6 @@ related:
       name: Carscoops
       domain: carscoops.com
     quality: 1
-  - title: "DOJ charges former Apple engineer with stealing self-driving car technology for China"
-    excerpt: "The Department of Justice today charged a former Apple Inc. engineer with stealing autonomous technology and giving it to a Chinese self-driving car company. The indictment, filed at federal court in the Northern District of California, alleges that Weibao ..."
-    publishedDateTime: 2023-05-17T01:02:00Z
-    webUrl: "https://siliconangle.com/2023/05/16/doj-charges-former-apple-engineer-stealing-self-driving-car-technology-china/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 0
 
 secured: "3q9byf7y3z17tUTMofR//E0450pBZgxI7Iq8OHParI3XFXc3zEiL0aFX3KAH/6pr3QIHZZ1fDsRFt0Rz8U4GO7zQgwrn3h7QXQtlEtGQ4sq94+OIvkEOWqfvgEsK8qRyRI34OyQE3NBL5cVg3eIyCneLLLMbZ/Ws8+341KuH+Zq9ka5EIj0b7mVr5YrZPhgdpU1FxliMTRQt3nNW3fwOp2z2V7KAbGtaBJoQO/KHGUlT0h3kibp5IwtzNlRENj3B6wC8skpkigbSGIji6au7tIYDMqIsMQDj9X8u8b/Afxj2j/o53mFzWSDYwuLpT69YnMkGtKVeJ7w1Q6XfVVM32JaYvphCVL0fK8l18eZlePMGAWJ0noPtKUk7AHyC0Ug9wub1TJBR0zuc2GGoL9YeHRirzhgR8a41H0qWRY15Q0ZDnlGc3eoIK8eYmRc1i/UP0KKOg17Z67XT+uaKzxDZ1kuKXRW/UGRvbpadIsJ2CJFGBPObf8slEGhKZvIoSFVHpJBzjuioKWNkKIAxW2VYHg==;25YvD54QCHd3dfN/WFlcjQ=="
 ---

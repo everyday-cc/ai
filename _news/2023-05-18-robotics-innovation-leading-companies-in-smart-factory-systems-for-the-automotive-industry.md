@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Gimmick or innovation? Self-driving bus starts taking passengers in U.K. trial"
-    excerpt: "EDINBURGH, Scotland — Organizers are calling it a first for autonomous transportation: computer-driven buses operating on a real route with real passengers navigating through real traffic."
-    publishedDateTime: 2023-05-17T00:43:00Z
-    webUrl: "https://www.nbcnews.com/news/world/self-driving-bus-starts-taking-passengers-uk-first-rcna84386"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna84386"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna84386"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 70
-    images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-05/230515-autonomous-bus-mb-1417-a68ffd.jpg"
-        width: 3994
-        height: 2663
-        isCached: true
   - title: "Robotics innovation: Leading companies in obstacle detectors for the automotive industry"
     excerpt: "According to GlobalData’s Technology Foresights, which uses over 619,000 patents to analyse innovation intensity for the automotive industry, there are 290+ innovation areas that will shape the future of the industry."
     publishedDateTime: 2023-05-18T08:50:00Z
@@ -55,6 +39,29 @@ related:
         width: 1440
         height: 810
         isCached: true
+  - title: "AI the Latest Instance of our Capacity for Innovation Outstripping our Capacity for Ethics"
+    excerpt: "The eagerness with which movie and television studios have proposed to use artificial intelligence to write content collides with the concern of Writers Guild members for their employment security and pay in the latest episode of technological innovation running ahead of ethical deliberation."
+    publishedDateTime: 2023-05-21T16:59:00Z
+    webUrl: "https://historynewsnetwork.org/article/185706"
+    type: article
+    provider:
+      name: History News Network
+      domain: historynewsnetwork.org
+    quality: 44
+    images:
+      - url: "https://s3.amazonaws.com/hnn-bucket/sites/default/files/185706-WGAStrikeAI.png"
+        width: 600
+        height: 400
+        isCached: true
+  - title: "How 4 Colorado companies are innovating with generative AI"
+    excerpt: "In Colorado, companies across a range of industries are working at the forefront of innovation with generative AI."
+    publishedDateTime: 2023-05-17T13:48:00Z
+    webUrl: "https://www.bizjournals.com/denver/news/2023/05/17/colorado-companies-innovate-generative-ai.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 17
 
 secured: "ydto7AlWqTdx9RGnoldkKhOGFbl0UTbIuifF+Rf+X+Dln1jSuMNVqKuY2koIkn380QU06+Slm/0NfNNsg4Fl1rEBHh7X91x/0kPJ9j6jgnbWQLHOX30hK5z/tpcHFn6GCIWWQo+XuXJhmB6EID53i0J7fV2YnXrmJv/ynM5+wnsSfubjv0TdZyacLnHiCWc1IsDykcfAvCC2xY+rPNYhY9dzAyg/2RJ4kAj7DRiK4ybKsHtid4MhPNMu4WJ0mR4nkfRUOSzGgaTGSJpqN66HorQW1/aknQo78egC4HvDwdOZT4F+a0F+jtNzt9iCFQmTlUvzVnS2ThHBnqNA0Y8z6bFVA5w2Rm1YosrU+KlupDASFvUiGMYuZi6YRXyGAgTkndbL2TfLQJ3HCqWrc4r9ZpR+mVVK4sWBxSQYdDm3Xc2bVSoaJDa8g0GHbKXOA+tkFfIaM7W29GG/l5bz8xMKu1HS+G5yZKfaxADewBoD8f77AO+WF0X8Octgpbwlji/S+JbZvR2p3N5i1Y5k+Tb4sw==;NJI0v3tbnKermxVLGXMPJw=="
 ---

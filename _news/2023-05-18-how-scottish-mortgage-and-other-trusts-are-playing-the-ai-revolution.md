@@ -33,6 +33,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Cursed New AI Calls Debtors to Hassle Them for Money"
+    excerpt: "The rise of AI coincides with all-time debt highs — and one startup is cashing in by having AI robocalls do way more collections than humans."
+    publishedDateTime: 2023-05-21T16:16:00Z
+    webUrl: "https://futurism.com/the-byte/ai-debt-collection-robocalls"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 37
+    images:
+      - url: "https://wp-assets.futurism.com/2023/05/ai-debt-collection-robocalls.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "x3dU7IkjfhUy1QcvqNSROzT2V8ObqftUst1p0TwGUC2O0oyTKlia6Pnqt85+eaI5uMNTWCpjRoL0TKcrVOC8IabXKXpkzfKXunRrxPUlJiLJ0rQDEfzve49udNeb5fryeIAO5eUcGpQ3cEUMN5SvJN/Gd4g2x1EUtMPSqvxHYXsxifpwiHcP7KbuCi2n4EBYOZIApumxuJ/UKpsYj5LxrgtJ97C8WtdL38M/x3QcZUVnZX9rzQ70qkbIsDxGwQBXFkS1VJHXm04+vuNtnxp5S9S2VEFwvNs0mV5ChCaYyBxEVZeZA0gZj0T2IRHkP68XfvT4BqeOmCLvhO4LIlsV/fmMdNqjM4knLlXDv0vVoG8=;lQBXWDorWR4lGsutsoTZ7Q=="
 ---

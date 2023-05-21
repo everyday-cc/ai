@@ -2,17 +2,17 @@
 category: news
 title: "TSA tries out facial recognition technology at 16 U.S. airports"
 excerpt: "A passenger walks up to an airport security checkpoint, slips an ID card into a slot and looks into a camera atop a small screen. The screen flashes \"Photo Complete\" and the person walks through -- all without having to hand over their identification to the TSA officer sitting behind the screen."
-publishedDateTime: 2023-05-21T07:46:00Z
-originalUrl: "https://www.arkansasonline.com/news/2023/may/21/tsa-tries-out-facial-recognition-technology-at-16/"
-webUrl: "https://www.arkansasonline.com/news/2023/may/21/tsa-tries-out-facial-recognition-technology-at-16/"
+publishedDateTime: 2023-05-21T07:41:00Z
+originalUrl: "https://www.nwaonline.com/news/2023/may/21/tsa-tries-out-facial-recognition-technology-at-16/"
+webUrl: "https://www.nwaonline.com/news/2023/may/21/tsa-tries-out-facial-recognition-technology-at-16/"
 type: article
 quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Arkansas Democrat-Gazette
-  domain: arkansasonline.com
+  name: Northwest Arkansas Democrat Gazette
+  domain: nwaonline.com
 
 topics:
   - Computer Vision
@@ -155,6 +155,6 @@ related:
       domain: extremetech.com
     quality: 19
 
-secured: "X4AjaAowQnEfcN3HBJ6Bv7Y09gezWEzRKxuOgmpEfzJSJHNRp9rvN2mZMKLzAQdy+9y7D2GNHMYVHkfgAcsoWaygmXZo3C0Uy2DsYdUyikF65DrlFLP8RhavrEwnDQKMA/WPXvuW0CfTpEKxXhHZowodALTaIqaIpney7xMWweuVLvo5dxjYG7T3vY0MavOdQcDFlC8MUAB/pMyvibQP42qoY38EAbLFc4n0fFIiPhhsOK7Xzu2GLIkDr0H+gqRBoOTfLcjs1BbHfM/DfIvR77FL2WsOpP7PMxdskMepR1p2L/GIiXdPB+KX/SXi4YIxXWD+mVlQ/rPju+9ChuOT/YdNUi9BcVR8d4NoJEhYLdw=;1b7L3LVmqcE220f5HXxq+Q=="
+secured: "SK+OtYBqAuQcG6BdnADoOGRcSrY0zAbDJ3adBkLJPD1S4n+6/zK3JErWq7wUlqrz0P4FK0DvY+3SEmBWe3qkFE44u/1wkW4ILf2JOPvf84Z1xExfysIDuH7026oXANvQY7fiiMLbXRiIM4VtWhnLYINCPqzO9dQlyVpXy3/JBaSpQ8fkHT1BNKma4V8199U+0YiscVYwij4YcdTxCGdpir+eCHtAgmDGsDWuG3rJ/WqOAKtEbmD7qfr2upQReLMZyZnkfceeBqtEu2xdI61lEcNtdJCqawIGSbWdhlA24l49R7I01giucqQwN1QYo8ZpVLlBycE1rZKELtnlfRKQqvuRT+uYDlpHB6JsMUlfw6I=;4uYq+TnxL6SY1MCA7hs+TQ=="
 ---
 

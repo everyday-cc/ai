@@ -45,6 +45,22 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "How generative AI’s impact on digital advertising methodology is evolving"
+    excerpt: "Despite issues around brand safety, intellectual property and security, generative AI tools for brands and advertisers are here to stay."
+    publishedDateTime: 2023-05-21T16:10:00Z
+    webUrl: "https://venturebeat.com/ai/how-generative-ais-impact-on-digital-advertising-methodology-is-evolving/"
+    ampWebUrl: "https://venturebeat.com/ai/how-generative-ais-impact-on-digital-advertising-methodology-is-evolving/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-generative-ais-impact-on-digital-advertising-methodology-is-evolving/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 86
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/05/annevb_a_robot_creating_digital_advertising._Colorful_futuristi_61ae1c6e-6949-4ee2-abcc-91b87d5c6f19.png?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Parallel Domain unveils Reactor, a generative AI-based synthetic data generation engine"
     excerpt: "New tool from Parallel Domain enhances AI performance in industries such as autonomous vehicles and drones by hgeneratingigh-quality images."
     publishedDateTime: 2023-05-17T21:15:00Z

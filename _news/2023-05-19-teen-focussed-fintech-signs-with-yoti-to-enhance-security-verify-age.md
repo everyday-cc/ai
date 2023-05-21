@@ -20,45 +20,29 @@ topics:
   - AI in Security
 
 related:
-  - title: "Fintech Ramp Launches AI-enhanced Tools to Help Businesses Streamline Operations"
-    excerpt: "Ramp, the finance automation platform, announced Ramp Intelligence: a set of tools in financial services, driven by AI, to solve customer issues."
-    publishedDateTime: 2023-05-20T14:38:00Z
-    webUrl: "https://www.crowdfundinsider.com/2023/05/207415-fintech-ramp-launches-ai-enhanced-tools-to-help-businesses-streamline-operations/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2023/05/207415-fintech-ramp-launches-ai-enhanced-tools-to-help-businesses-streamline-operations/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/05/207415-fintech-ramp-launches-ai-enhanced-tools-to-help-businesses-streamline-operations/amp/"
+  - title: "Modak & Yoti unite to create a secure FinTech platform for teens"
+    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
+    publishedDateTime: 2023-05-18T06:45:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/modak-yoti-unite-to-create-a-secure-fintech-platform-for-teens/"
     type: article
     provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 54
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 24
     images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2013/05/Tools.jpg"
+      - url: "https://ibsintelligence.com/wp-content/uploads/2022/06/Website-MPU_Buy-report.png"
         width: 600
-        height: 450
+        height: 500
         isCached: true
-  - title: "Bank of America launches FinTech accelerator for underrepresented communities"
-    excerpt: "Bank of America has launched a FinTech accelerator programme aimed at presenting economic opportunities to entrepreneurs from underrepresented communities. <br /> <br /> Bank of America Breakthrough Lab is now open for applications for its September 2023 cohort."
-    publishedDateTime: 2023-05-18T09:58:00Z
-    webUrl: "https://www.fstech.co.uk/fst/Bank_of_America_launches_FinTech_accelerator_for_underrepresented_communities.php"
-    type: article
-    provider:
-      name: fstech
-      domain: fstech.co.uk
-    quality: 36
-    images:
-      - url: "https://www.fstech.co.uk/fst/images/businessman-buttons-virtual-fintech-m.jpg"
-        width: 5580
-        height: 3138
-        isCached: true
-  - title: "Style AI Launches Suite of AI Assistants to Help Small Business Get More Customers Digitally"
-    excerpt: "Seona, powered by advanced machine learning models and AI built out of UC Berkeley, revolutionizes SEO optimization for websites. With its remarkable ability to analyze and comprehend website content,"
-    publishedDateTime: 2023-05-18T13:12:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/05/18/9817043.htm"
+  - title: "Modak partners with Yoti to create the safest fintech platform for teens"
+    excerpt: "Modak, a fintech company for teens and families in the US, has partnered with digital identity company Yoti to enhance safety features for teens on its platform. Since launching in December 2022, 25,000 teens have signed up for Modak using Yoti's facial age estimation technology."
+    publishedDateTime: 2023-05-17T21:59:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/05/17/9816625.htm"
     type: article
     provider:
       name: TMCnet
       domain: tmcnet.com
-    quality: 6
+    quality: 3
 
 secured: "gnXtZUqtlP6uYLlufqqf6LbC9wZ+zQmcMymM1Nqd4fmDPXz8IpUI5hPlYfsiXXiyDJd2Hyhgc6z/q5Xq3jy7Dh4zGVgcUR86Nu/zyRicNm+/yCPnzXCDzJpKEgcEIOXAO5pyt7hR6cZuifXYrv4oMC4An+Nmbn/m72q5v31HFE7EfnovuRltDywUHmvn0o7xayvC+grc4/C0qdtBwzRCPNXBSaZCGtfFifdIoOJdpCjdKqoZk+X5Y2jp5uGezG1w6TzPZJ1Ja79g6i/DGsSv3CSP2cYHYV6Hida0Npr5MD+uBxanx/2VgxXOpB9p6TmQXzwCmxHutblYVvx+Ooi8MGVuPz9wHJwXeDKRJob2GEEeYxJM8igDGvH4T5FJIOzETYCnHdT2bmoByZ+tAjWRjSBK3r74PdRYuI1qe6Y61XaeyHEpdZJZqndC9VT5bqteF99SutLnoaqIgRfOI3Hu4sOgjr1RzxieP2IdtAoc1naa7zqSnhAs/k4SEUn9I1jIi1tpmTItluHmarP0DrOV9g==;e0k0kThvNbx1W34TMDBvVg=="
 ---

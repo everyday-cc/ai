@@ -3,16 +3,16 @@ category: news
 title: "World’s First 100% AI-Controlled and Executed House Purchase Processed by MORGAN"
 excerpt: "From home finding to mortgage application to ownership, the homeowner’s personal AI assistant is making home buying easier using Celligence technology."
 publishedDateTime: 2023-05-18T16:05:00Z
-originalUrl: "https://www.sacbee.com/press-releases/article275552816.html"
-webUrl: "https://www.sacbee.com/press-releases/article275552816.html"
+originalUrl: "https://www.newsobserver.com/press-releases/article275552816.html"
+webUrl: "https://www.newsobserver.com/press-releases/article275552816.html"
 type: article
 quality: 14
 heat: -1
 published: false
 
 provider:
-  name: Sacramento Bee
-  domain: sacbee.com
+  name: Raleigh News & Observer
+  domain: newsobserver.com
 
 topics:
   - AI in Finance
@@ -48,6 +48,6 @@ related:
         height: 450
         isCached: true
 
-secured: "99jyk0orTlJGJ+Ee+vn4qCmfUbHbzspyOnHiCfQmCDvSWiEyyvGgkENbR3COkqn1NS3+pZeSWZ27/JXyKsgZiPSmgTdp/BQ7ILRk2cz5MH8kHT0yeBc9mNvYteiqTMWNEolRT7sv7pzjj+iZ55G1nux6uzKCdmdcaD4rqa7F4qicWPSwaaC58v1JbRHR7zk5UVAstxfU4DZThZP8jjCr9CMlBXAq+nRcZjTf5pbJZAcWazCYqi7YOUTV28rFgsUPj0YR9t0hU8i+Y6bFoOGENwApO4nDfsaENed+6Q48LqFZO/5rjuRvQzqtnYo0xLKG/OyM/Q9RAQncbeTbTawLP5PH1bRob9JRD4/OV6RHc9bQwxHRjFRZEWjRkvVpN5erx0EeZM4klJ0ZSc8dQhR/US9SSs1Nox6OmxyexnOjrztNmA1Y7qV2B3y5IYnCYi1MqSeGW8WdTr3Lu7sqSPJC3ah9wgKLBIrUqC0dQ/HQOFvCCLvVzSQa63NqESLnHyD7gyJyvOoDeeXENR/1DKZ66A==;3W1i4kzs6lY7WcGNxTz8vg=="
+secured: "aEE3a32qhGUn6BHTqHUAkU2sB4UkEzm1ViuVhhJY1xUEHx5MUXMKnzu10QYMStxoeUyGz+DOIyLQYb2vXxoI0YfRne6SzdBUgMw/Seona2xCoEt8Set/5KTx1tdAluDIfJCFVIRPsAWCYm+LH8YU8H1PwJP5EZFAUPZT6C8Q7R4DnbxiBXE4bxcO7xrzM63WoMOraLrCrngYHDhPiv4hc6MkJ7IKHtRoL6vCUY3rtmCNkgjOmGIJZostvG9DalSOH+ijSGFm1ApHENvXh7LUlrb52oFqB/O80JI0424tS2cV8P8fZGBqDUxHWN0ufGx9JJ4ky0qBezqYBLExNeCzlO3CASeAll8G4DDq3+KgwubEnZwcU8CGyA2t+knvlBVx0ydMP7opFG7YO0rjnJmKkMKVwbKPAK9dSzWM4FD0oRmBWuOvPh6SAiGT8YaGDeA6MTctt9G82CBo4Th+TwE7HxInBJPU7tqGM0rxE+PcUuHtQ8ey6/IA0WUmY3aweXB2mBfw3Gg5dAFP0aS4wcJ+JA==;kjr+4umEmHf/DlkF7r/h/w=="
 ---
 

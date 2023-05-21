@@ -1,29 +1,29 @@
 ---
 category: news
 title: "6 AAPI Financial Influencers to Follow in 2023"
-excerpt: "Six financial professionals reflect on the complex relationship between Asian Americans and money, dispelling generational norms, and why there’s no winning in the comparison ga"
-publishedDateTime: 2023-05-20T00:14:00Z
-originalUrl: "https://www.chron.com/business/personalfinance/article/6-aapi-financial-influencers-to-follow-in-2023-18109639.php"
-webUrl: "https://www.chron.com/business/personalfinance/article/6-aapi-financial-influencers-to-follow-in-2023-18109639.php"
+excerpt: "NerdWallet, Inc. does not offer advisory or brokerage services, nor does it recommend or advise ... So many of us fall prey to the financial marketing machine. Buying high fee-laden investments, risky bets, and unnecessary insurance because we think ..."
+publishedDateTime: 2023-05-20T03:23:00Z
+originalUrl: "https://www.nerdwallet.com/article/finance/6-aapi-financial-influencers-to-follow-in-2023"
+webUrl: "https://www.nerdwallet.com/article/finance/6-aapi-financial-influencers-to-follow-in-2023"
 type: article
 quality: 24
 heat: 24
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: NerdWallet
+  domain: nerdwallet.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://s.hdnux.com/photos/01/32/76/01/23847010/3/rawImage.jpg"
-    width: 2048
-    height: 1365
+  - url: "https://www.nerdwallet.com/assets/blog/wp-content/uploads/2023/05/2023-Vivian-Tu-Headshot-320x480.jpg"
+    width: 320
+    height: 480
     isCached: true
 
-secured: "EdiV9mXUCUV6HmK0jqmKFMYfg5oLZ6+z/KL8Aqghw9PtUWpGs3eHkCCIOGKXvDDV1kcy+El3scs6avxNgFNq9/c3rChpM74rLd3IC98x7Kxw0nrjfl49O6d8pRPkffzzPW3mkFEk4dUqm8yz9H++6TttCbApbm2SJ8OMBSx0Tm8tP+txz2xH+i5W1uphhJ59bRHYjHEPk2PC0VkP8PQUXKyMVEB1q9UKQOH0ajZqxpZ8xANisfnkzYe7xaBsaJrVUd1fpp/aWjlO3ZNLQWzUpiWA/anbZC7qBw0pJg0e9nOQgzamZflazaXQtarOlaTZ3L+BlloTxZD0r04+ddxs5SV4cHqGYIuuIE5JTHgPDt2LLqnJGfrSTrGvp9lJOjgnFfRyBCgNyR6JTDZanIsTuK8aymMCo+ImEV71AccmoEceXiZtYrk4AE4lIh9rnF0uJZvUCAFlvONPp1D7kSSItg2R2sHEYpFUe6QszzomMBw/UtJvJK6c9bapZYRP5iAmZs7Y4TrobSc5W5l+74U9ig==;rHcZWaSwzSLzQHtY2uvjRQ=="
+secured: "xWsrPGe8Q5BUfWF/WCUzSBJCUSdtxNJBNHCHVcS5pJyGsUF3AxLBoWGRAr1hQegic6mPr00lxDCkqImiNpgofJYRDvlk/6XAqplj2IzD+ajdDr0MYr0BMjiEcl1WLIqitG/1DXjyQGVgfjVMZja9Gwr179mvH0rEzN109kped6c0x/aKTkRdlPGvIdM8dWT9qbtc0Oj9SJ8gahgJQPk+rmrrg2PGdCf69BoWvq22HaM6ExZrFxZfw8DoF8nNdyNZ2pci4vMzY7ksXTrAHgqq5aS97aZHTQ2aLLeoQIo7BJd5n6EO1bF3Wa3EgZ584P05Krl8q/d1POrKcfoFhj+eVjfG3eZEK9pAD3UFm7deOzw=;laaLtkjMKe7ZyQqTXV2H+Q=="
 ---
 

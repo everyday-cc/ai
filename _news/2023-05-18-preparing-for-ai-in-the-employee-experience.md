@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Google's AI Search Could Mean Radical Changes for Your Internet Experience"
+    excerpt: "It's powered by a large language model ... it's uncertain if SGE will translate to increased or higher quality traffic for sites. Microsoft didn't answer any questions regarding traffic to sources when using AI search. Google said it doesn't have plans ..."
+    publishedDateTime: 2023-05-21T14:38:00Z
+    webUrl: "https://www.cnet.com/tech/services-and-software/googles-ai-search-could-mean-radical-changes-for-your-internet-experience/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/googles-ai-search-could-mean-radical-changes-for-your-internet-experience/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/googles-ai-search-could-mean-radical-changes-for-your-internet-experience/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 87
+    images:
+      - url: "https://www.cnet.com/a/img/resize/4a99da63082828a1594b0c0ba3f4b7c3f9287d6d/hub/2023/05/11/65526df6-f863-45fa-95a0-4d05465a799e/google-io-2023-051023-66.jpg?auto=webp&fit=crop&height=630&width=1200"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Lessons from finance’s experience with artificial intelligence"
     excerpt: "This rule appears to hold for artificial intelligence (AI) and machine learning, which were first employed by hedge funds decades ago, well before the recent hype. First came the “quants\", or quantitative investors,"
     publishedDateTime: 2023-05-18T22:49:00Z
@@ -41,15 +57,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "Finance expert explains why people are turning to AI for investment advice"
-    excerpt: "With ChatGPT and other artificial intelligence systems making waves, some people are turning to AI for financial planning, according to one West Virginia University researcher."
-    publishedDateTime: 2023-05-17T19:22:00Z
-    webUrl: "https://phys.org/news/2023-05-expert-people-ai-investment-advice.html"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 32
 
 secured: "wCEj7j+Q1aIzEJe0hMHdaEmCvfkSYrm6ocmJo2xJmQ3D3x//YZT2csP43HT5Jfg8iP9R3p8DO9h2B3kIeOLNv/TrNEDCM4nbxoMpeBG0kRSQx156rR5OJpICXo0SzC1USUjg1G+8tPwMyNJT4dFirqI81oAeSNAUlMNFO0mcRok3UdktUFbmKqHTCkWaGFV8O3oEnA7scnQxJ5ULKYNnpsSq2a5Yl+QRybBvt3Y+vUzwoMOXmhZ9V51d2/wIKxI4xYgyF8yemU++in6egIPY9Ts9H29xRcpgzZtdJ4DLbp6SCTAgskRVRSiuw6MT/aMSHkewodev9bWO2RICuzXC/n+JTSA0r/bob3FnI/o5aBlffYKz3CEBnfZY6b2Df0sMA+VrHwzZiTSRuxrtAaZt3hs0s+oXyDLD3SqL6ua+o4U57lTneAVnqr7cfFUb4iAfZRw6YernIxYa0ylSmfQ8nkuo44mNlIYnawnFYZZ5QAmYN7VBPq6JHHI0c/P95TYIDCeeUxYA4IimRNwdRr23QA==;FpSUIbaUf2Lir493o2dfRA=="
 ---

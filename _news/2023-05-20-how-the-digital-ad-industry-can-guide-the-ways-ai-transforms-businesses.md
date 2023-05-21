@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/how-the-digital-ad-industry-can-guide-the
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-the-digital-ad-industry-can-guide-the-ways-ai-transforms-businesses/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 119
 published: true
 
 provider:

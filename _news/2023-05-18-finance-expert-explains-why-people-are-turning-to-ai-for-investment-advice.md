@@ -7,7 +7,7 @@ originalUrl: "https://phys.org/news/2023-05-expert-people-ai-investment-advice.h
 webUrl: "https://phys.org/news/2023-05-expert-people-ai-investment-advice.html"
 type: article
 quality: 32
-heat: -1
+heat: 32
 published: false
 
 provider:
@@ -17,38 +17,6 @@ provider:
 topics:
   - AI
   - AI in Finance
-
-related:
-  - title: "Lessons from finance’s experience with artificial intelligence"
-    excerpt: "This rule appears to hold for artificial intelligence (AI) and machine learning, which were first employed by hedge funds decades ago, well before the recent hype. First came the “quants\", or quantitative investors,"
-    publishedDateTime: 2023-05-18T22:49:00Z
-    webUrl: "https://www.livemint.com/money/lessons-from-finance-s-experience-with-artificial-intelligence-11684407926757.html"
-    ampWebUrl: "https://www.livemint.com/money/lessons-from-finance-s-experience-with-artificial-intelligence/amp-11684407926757.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/money/lessons-from-finance-s-experience-with-artificial-intelligence/amp-11684407926757.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 76
-    images:
-      - url: "https://www.livemint.com/lm-img/img/2023/05/18/600x338/2-0-128027631-OPED-4C-0_1681892708995_1684408136028.jpg"
-        width: 600
-        height: 338
-        isCached: true
-  - title: "Preparing for AI in the Employee Experience"
-    excerpt: "AI is the next big evolution in how we work. Most employees will need to incorporate it into their work. AI can be an effective tool for reducing repetitive tasks and minimizing bias in decision-making. Willingness to learn, emotional intelligence, and creative problem-solving are critical skills to hone."
-    publishedDateTime: 2023-05-17T22:07:00Z
-    webUrl: "https://www.psychologytoday.com/za/blog/the-new-employee-experience/202305/preparing-for-ai-in-the-employee-experience"
-    type: article
-    provider:
-      name: Psychology Today
-      domain: psychologytoday.com
-    quality: 39
-    images:
-      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-05/GettyImages-1469706462.jpg?itok=gnSj0JMx"
-        width: 1528
-        height: 800
-        isCached: true
 
 secured: "iKhr5bkJufamOQygN4m/sUGaWfML3fDQfxyagm3LkybyAo6xlbI4OlHzTcI7PtI9G/rGPP8rSBRNcJIrPEnhnc9s05Ahai44kltBjIajjO46f74L35xDcohpikqIIkaqt8NRdPRDSPd1DDzV2S9D1uLmqzyTXYqTvYnEh2I6bxCI32q3vGSYBX0Re23AmZELEwfvDTRtYzs3hR1xZTM8DQrg47me4HtwtfGrY+X9NgD392DvXMDSXL3FRhZVOBS18Nz2R3P3/EEUwC0XA3D1WvnsNLxo4FCoStgtcdeu9RRIfLgRKXFNFD7kKLjSEQKK82EKnQPNC601geJwbDKfRbh8MoImgdB47Pxpn9iRc1EnN3S/HThonokpKu+OFEvSX9q5nfOSA35zKZ/gxIGAY+JqOHhJj1bfSZ8iqGVUPp83EZDVfRNMfLmLl+VPDzCKtKKYbJCh6B49PZULJ265bWRwwmvkpv6Ky6eKMPdDtVFIlaHnvxXNfQ0EyZExz4vnYEbfaJonY6LAnemZR+knXQ==;x1MESwl5izrMwk6OiIQXwA=="
 ---

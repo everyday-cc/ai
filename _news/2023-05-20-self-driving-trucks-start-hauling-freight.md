@@ -112,15 +112,6 @@ related:
       name: Carscoops
       domain: carscoops.com
     quality: 1
-  - title: "DOJ charges former Apple engineer with stealing self-driving car technology for China"
-    excerpt: "The Department of Justice today charged a former Apple Inc. engineer with stealing autonomous technology and giving it to a Chinese self-driving car company. The indictment, filed at federal court in the Northern District of California, alleges that Weibao ..."
-    publishedDateTime: 2023-05-17T01:02:00Z
-    webUrl: "https://siliconangle.com/2023/05/16/doj-charges-former-apple-engineer-stealing-self-driving-car-technology-china/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 0
 
 secured: "DscbLfRrdKYX7oxJmbAuoYk6C69dHiH54EqR4i5fDW8gYt4e6IG4bgna7hiuFE+MWitt1vcLtznVCITgj7Ug00zqg7I/5TmQA7d9bnkv6u0kiFNMBtqqIXUj4y0LlpSI9sdTcXa2DvXJNiZE6ecul6+oruJfyswWlKk3XWiWf5QCwqxDcF/yARE+8D6yXSfl5xFFA39sF7EkUXfol4paLyoUu7J+iTQZjejagffWulzbnhbWtdU/RP5EpJ477QidkAbK+PFPGjKB5Yun6PQE/ocxPPl6gZzgriViVbAMe94m/UULOCs6oIz9WYKYnpQATYV3AWVy/xmiEbS4KMwpmpYnqxcpvl8E+HvNekFqrvVZ0n0VoNjNp49x0PW4sjyOxbjm5faphmQmy2QWkc/E06GOwr0AGsKUzORt2h10hLxAj64e8ViZ5Lo0Do4C5XESnm5PZilOyzJhRKBJZOtn3AxpNqZAv8sUBaxiExhx9GdYV8Hvh6M6lOqFWzcWsyhOJhgatUGYv2XiMfYnz2mdwA==;/n/Lno103FE5vDtHhEbZYA=="
 ---

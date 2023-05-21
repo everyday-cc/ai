@@ -28,21 +28,21 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft CEO speaks on the future of artificial intelligence"
-    excerpt: "The CEO of OpenAI, the company responsible for ChatGPT, called on Congress today to regulate artificial intelligence. CNBC’s Andrew Ross Sorkin sat down with Microsoft’s CEO Satya Nadella to talk about both the concerns and benefits after his company invested billions in OpenAI."
-    publishedDateTime: 2023-05-16T23:08:00Z
-    webUrl: "https://www.nbcnews.com/nightly-news/video/microsoft-ceo-speaks-on-the-future-of-artificial-intelligence-174560325527"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo174560325527"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo174560325527"
+  - title: "Microsoft Bing AI Chat Widgets: How to Get Them on iOS and Android"
+    excerpt: "Microsoft launched artificial intelligence-powered search on Bing 100 days ago, celebrating the milestone with a few updates to the system this week. One of those is adding a chatbot widget for phone screens across both iOS and Android."
+    publishedDateTime: 2023-05-19T17:43:00Z
+    webUrl: "https://www.cnet.com/tech/services-and-software/microsoft-bing-ai-chat-widgets-how-to-get-them-on-ios-and-android/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/microsoft-bing-ai-chat-widgets-how-to-get-them-on-ios-and-android/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/microsoft-bing-ai-chat-widgets-how-to-get-them-on-ios-and-android/"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
+      name: CNET
+      domain: cnet.com
     quality: 104
     images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_05/1684278439038_nn_aso_hill_hearings_satya_nadella_exclusive_230516_1920x1080-e9hhf5.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://www.cnet.com/a/img/resize/853677a4b747a7181eb4ba245c6a405d29d1bdbe/hub/2023/05/16/17988a0d-2942-4201-b8b7-7192081b55c4/gettyimages-1249309512.jpg?auto=webp&fit=crop&height=630&width=1200"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Special Edition with Andrew Ross Sorkin: AI and Microsoft CEO Satya Nadella"
     excerpt: "Artificial Intelligence is a profound new technology that will have implications – good and bad – on all our lives. In this latest episode of “Special Edition,” host Andrew Ross Sorkin sits down with Microsoft CEO Satya Nadella."
@@ -76,36 +76,6 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "Microsoft CEO wants to 'mitigate unintended consequences' involving artificial intelligence"
-    excerpt: "NBC's Andrew Ross Sorkin sat down with Microsoft CEO Satya Nadella to discuss his concerns on where artificial intelligence is heading. Nadella says that he wants to \"mitigate unintended consequences\" involving A."
-    publishedDateTime: 2023-05-16T23:43:00Z
-    webUrl: "https://www.nbcnews.com/news/amp-video/mmvo174563909885"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo174563909885"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo174563909885"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 94
-    images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_05/1684280605884_now_hallie_microsoft_interview_230516_1920x1080-svh6io.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Fintech Ramp Launches Money Saving AI Tools For Businesses—Announces Microsoft CEO, More As Investors"
-    excerpt: "The four-year-old corporate credit card startup is using OpenAI's GPT-4 and billions of dollars of transaction data to tell businesses whether quoted software prices are a good deal—or not."
-    publishedDateTime: 2023-05-18T14:01:00Z
-    webUrl: "https://www.forbes.com/sites/jonathanponciano/2023/05/18/fintech-ramp-launches-money-saving-ai-tools-for-businesses-announces-microsoft-ceo-more-as-investors/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 71
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/635744bdc68efe4cf2c46738/0x0.jpg?format=jpg&crop=1851,1042,x0,y124,safe&width=1200"
-        width: 1200
-        height: 676
-        isCached: true
   - title: "After Apple, Amazon, Google and Microsoft, Meta Now Builds Its Own AI Chips"
     excerpt: "Meta recently introduced its first in-house silicon chip designed for AI workloads, called MTIA (meta training and inference accelerator)."
     publishedDateTime: 2023-05-19T09:21:00Z
@@ -119,6 +89,22 @@ related:
       - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/05/meta-v-banner-f_11zon.jpeg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Bing Widget Brings Exciting AI Features To Mobile Android And iOS Devices"
+    excerpt: "We are making your mobile experiences richer with continuous conversations across platforms, voice and multilingual chat improvements, and coming soon – Bing widget. Learn more: https://t.co/947YXAFHFd pic.twitter.com/QLw4gzhMHm"
+    publishedDateTime: 2023-05-18T17:46:00Z
+    webUrl: "https://hothardware.com/news/bing-widget-brings-exciting-ai-features-to-mobile-devices"
+    ampWebUrl: "https://amp.hothardware.com/news/bing-widget-brings-exciting-ai-features-to-mobile-devices"
+    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/bing-widget-brings-exciting-ai-features-to-mobile-devices"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 58
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/61648/content/bing-chat-ai-hero.jpg"
+        width: 708
+        height: 400
         isCached: true
   - title: "Microsoft Previews AI-Based Code Optimizations for .NET Apps"
     excerpt: "Azure Monitor users can now try a public preview of Code Optimizations to detect performance issues with their .NET apps and services, per a Thursday Microsoft announcement."

@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Microsoft India announces the addition of 4 new languages to Translator"
-    excerpt: "Users can translate Konkani, Maithili, Sindhi, and Sinhala text, supported in more than 125 languages, for their apps, websites, workflows, and tools with Azure Cognitive Services Translator"
-    publishedDateTime: 2023-05-19T11:48:00Z
-    webUrl: "https://www.mid-day.com/technology/article/microsoft-india-announces-the-addition-of-4-new-languages-to-translator-23287443"
-    ampWebUrl: "https://www.mid-day.com/amp/technology/article/microsoft-india-announces-the-addition-of-4-new-languages-to-translator-23287443"
-    cdnAmpWebUrl: "https://www-mid--day-com.cdn.ampproject.org/c/s/www.mid-day.com/amp/technology/article/microsoft-india-announces-the-addition-of-4-new-languages-to-translator-23287443"
-    type: article
-    provider:
-      name: Mid Day
-      domain: mid-day.com
-    quality: 61
-    images:
-      - url: "https://images.mid-day.com/images/images/2023/may/Microsoft-afp_d.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Microsoft India adds 4 new languages to Translator"
     excerpt: "Microsoft India on Thursday announced the addition of three new Indian languages -- Konkani, Maithili, and Sindhi, in Translator along with Sinhala, the official language of Sri Lanka."
     publishedDateTime: 2023-05-18T21:20:00Z
